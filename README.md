@@ -72,7 +72,8 @@ Collectr CSV export
 
 ### 🔄 Phase 3 — wikilintbot
 - [x] Structural checks: missing frontmatter, qty sanity, duplicate nodes, stale `last_seen`, sealed misclassification, missing reference image
-- [x] Tag-tier checks: `tier_confusion` (color-magic + composition + rarity/type tags in `tags_hub`), `format_drift` (non-kebab-case), `intra_tier_duplicates`, `cross_tier_duplicates`, `vocabulary_drift` (plural/singular pairs), `singleton_tags`, `missing_tags`
+- [x] Tag-tier checks: `tier_confusion` (color-magic + composition + rarity/type tags in `tags_hub`), `format_drift` (non-kebab-case), `intra_tier_duplicates`, `cross_tier_duplicates`, `singleton_tags`, `missing_tags`
+- [x] **`vocabulary_drift` (plural/singular) check REMOVED 2026-05-08.** Singular vs plural can carry distinct visual content (`sword` = one blade, `swords` = a rack); collapsing them is a synonym/semantics decision, not a string-edit one. Punted to Phase 5 janitor.
 - [x] HELDFORLAIR sanity: `held_for_lair > quantity`, negative or non-numeric values
 - [x] `--fix` mode for the unambiguous transforms (move filter-tier tags from `tags_hub` to `tags_filter`, resolve cross-tier duplicates, dedupe within tier). Other findings remain report-only.
 - [x] Markdown report output via `--report <path>`
@@ -105,6 +106,8 @@ Collectr CSV export
 - [ ] Dragon Ball Super / Yu-Gi-Oh / Lorcana / Force of Will image-source strategies
 - [ ] Cat Pack assembly automation (recurring-SKU, variable contents)
 - [ ] Convert `subagents.md` specs into invokable Claude Code subagents (`.claude/agents/*.md`) once each pipeline stabilizes — `bbl-researcher` is the first
+- [ ] **Janitorbot** (Phase 5+) — operates on the populated tag graph, not single cards: synonym collapse (`cat`/`feline`), redundant-pair pruning, hub↔filter tier swaps when a tag's actual usage contradicts its tier. Not the same as wikilintbot — wikilintbot enforces structural rules per-card; the janitor makes whole-graph curation calls.
+- [ ] Rename `researchbot.py` → something like `sourcebot.py` / `layer1bot.py` — current name is a holdover from when it was going to do vision too. Now it only sources layer-1 data (images, IP guards, set lookups). Cosmetic; do as separate clean-rename commit.
 
 ---
 
@@ -135,7 +138,8 @@ Collectr CSV export
 ├── BBL-project-spec.md           # concept, brand voice, political framing
 ├── subagents.md                   # full subagent roster spec
 ├── csv2mdbot.py                   # CSV → graph reconciler
-├── researchbot.py                 # image lookup + vision dispatch
+├── researchbot.py                 # image lookup + vision dispatch  (a.k.a. "layer 1 sourcing" — rename pending)
+├── bbl_queue.py                   # next-batch picker: cards truly ready for vision (3-prong check)
 ├── apply_vision.py                # vision-JSON → MD writer (subagent helper)
 ├── wikilintbot.py                 # graph linter (structural + tag tier checks)
 ├── .claude/
@@ -166,7 +170,11 @@ python csv2mdbot.py collectrexport5_7_2026.csv
 python researchbot.py --list-models
 
 # Plan B vision flow: prep cached images for the bbl-researcher subagent
-python researchbot.py --prepare-only --limit 25 --game "Magic: The Gathering"
+python researchbot.py --prepare-only --limit 50 --game "Magic: The Gathering"
+
+# Show the next-batch queue (cards truly ready for vision, qty-DESC)
+python bbl_queue.py --with-qty --limit 25 --game "Magic: The Gathering"
+python bbl_queue.py --count                          # just the integer
 
 # Plan A vision flow (re-enable once DeepSeek V4 vision endpoint ships)
 python researchbot.py --limit 25 --model deepseek-v4-pro
@@ -191,27 +199,32 @@ The pattern that's emerging: **writers get the keys to wikilintbot; watchers do 
 
 ---
 
-## Status snapshot (2026-05-08)
+## Status snapshot (2026-05-08, late session)
 
-- **977** active singles · **16** sealed products · **22** cards fully enriched (top-22 by quantity in MTG)
-- **Hub-tag bridges:** 53 tags shared by 2+ cards. Top: `forest` 5x, `comic-relief` 5x, `moss` 5x, `fairy-tale` 4x, `guardian` 4x, `service-worker` 4x, `labor` 3x.
-- **Wikilintbot:** report-only on most checks, auto-fix on tier_confusion + cross_tier_duplicates + intra_tier_duplicates. First pass: 26 findings → 23 auto-fixed → 3 remain (2 info aggregations + 1 vocab judgment). 0 errors graph-wide.
-- **Plan A (DeepSeek vision):** still blocked — hosted API serves only `deepseek-v4-pro` and `deepseek-v4-flash`, both text-only. Re-probe with `python researchbot.py --list-models` to check.
-- **Plan B (Claude Code subagent + inline vision):** active. bbl-researcher subagent definition includes self-lint step.
-- **Repo:** local only, on branch `main` — GitHub remote (`degenai/bulk-graph-bundler`, private) pending Alex's move.
+- **977** active singles · **16** sealed products · **37** MTG cards fully enriched (was 22 → +15 this session via parallel `bbl-researcher` fan-out)
+- **Vision queue right now:** `python bbl_queue.py --count` → **0**. We drained today's prepared batch. Next session needs to refill via `researchbot.py --prepare-only` before any vision dispatch.
+- **Vision flow validated at parallel scale:** 24 subagent dispatches across two rounds. The 8 truly-ready cards all wrote cleanly; the 17 not-yet-prepared cards refused correctly without writing. Refusal logic in `.claude/agents/bbl-researcher.md` is doing exactly what it should — graph stayed clean despite a buggy dispatch.
+- **New helper — `bbl_queue.py`:** the 3-prong "ready for vision" check (`reference_image` non-empty + path exists on disk + `tags_hub == []` + not `needs_manual_review`), qty-DESC sorted. `csv2mdbot` writes a placeholder `reference_image:` line on every card, so a frontmatter-only check is misleading; this helper is the canonical picker now.
+- **Wikilintbot:** 2 info-only findings graph-wide (singleton aggregations). The `vocabulary_drift` (plural/singular) check was **removed 2026-05-08** — singular and plural can carry different visual content (one sword vs a rack). Synonym/redundancy work belongs to the future Phase-5 janitor pass. Real concern is `cat`/`feline` (semantic), not `sword`/`swords` (numeric).
+- **Plan A (DeepSeek vision):** still text-only (`deepseek-v4-pro`, `deepseek-v4-flash`). Re-probe each session with `python researchbot.py --list-models`.
+- **Plan B (subagent vision):** active and parallelizable. Per-card subagent run is ~50s; 8 in parallel completes in ~4 min wall-clock; parallel-N to ~25 also works.
+- **Repo:** local only, branch `main`. GitHub remote (`degenai/bulk-graph-bundler`, private) still pending Alex's move.
 
 ### For the next session
 
-Last commit before handoff is on `main`. To pick up cleanly:
-
-1. **Restart Claude Code** so `.claude/agents/bbl-researcher.md` registers as an invokable subagent type. Once registered, the vision flow is parallelizable — main session can fan out `Agent(subagent_type="bbl-researcher")` calls instead of doing vision inline.
-2. **Re-probe DeepSeek** in case V4 vision rolled out: `python researchbot.py --list-models`. If a vision-capable model ID appears, drop `--prepare-only` and run with `--model <new-id>` instead of using the subagent path.
-3. **Recommended next moves**, roughly in priority order:
-   - Continue MTG enrichment in batches of ~25 via `python researchbot.py --prepare-only --limit 25 --game "Magic: The Gathering"` then bbl-researcher on each prepared card. Batch sizes can grow as the rule-set settles.
-   - Start Pokémon enrichment — same flow, `--game Pokemon`. Path is wired but not yet exercised at scale.
-   - Build a Dragon Ball Super image-source strategy (no Scryfall equivalent — needs DBS card resource scraping or manual URL paste). DBS has the most units in inventory, so this unlocks a lot.
-   - Push to GitHub once Alex creates the empty repo at `degenai/bulk-graph-bundler` (or installs `gh` CLI).
-   - Build lair architect once enough cards have hub tags (~100 cards is roughly the threshold where `available = quantity - held_for_lair` queries return interesting candidate manifests).
+1. **Re-probe DeepSeek** first thing: `python researchbot.py --list-models`. If V4 vision shipped, drop `--prepare-only` and run inline with `--model <new-id>`.
+2. **Refill the queue then fan out:**
+   ```powershell
+   python researchbot.py --prepare-only --limit 50 --game "Magic: The Gathering"
+   python bbl_queue.py --with-qty --limit 25 --game "Magic: The Gathering"
+   ```
+   Pipe / paste those paths into parallel `Agent(subagent_type="bbl-researcher")` dispatches. Don't reinvent the filter inline — `bbl_queue.py` is now the source of truth.
+3. **Recommended next moves**, in priority order:
+   - Continue MTG enrichment in 25-card batches via the queue helper. ~100 enriched is the threshold where lair architect work starts paying off.
+   - Start Pokémon enrichment — same flow, `--game Pokemon`. Path wired, not yet exercised.
+   - Dragon Ball Super image-source strategy (no Scryfall equivalent). Highest-unit game in inventory.
+   - Push to GitHub once Alex creates `degenai/bulk-graph-bundler` (or installs `gh`).
+   - Optional cleanup: rename `researchbot.py` → `sourcebot.py` (or similar) — its name predates the layer-1/layer-2 split; do as a clean rename commit.
 
 ### Curation rules locked in this project's memory
 

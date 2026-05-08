@@ -1,6 +1,6 @@
 ---
 name: bbl-researcher
-description: Run the BBL vision pass on ONE prepared card-MD. Reads the cached reference image, emits structured JSON describing art, characters, mood, and two-tier tags, then writes it to the card via apply_vision.py. Invoke once per card. Caller passes the absolute card-MD path. Card must already have `reference_image` populated (run `python researchbot.py --prepare-only` first).
+description: Run the BBL vision pass on ONE prepared card-MD. Reads the cached reference image, emits structured JSON describing art, characters, mood, and two-tier tags, then writes it to the card via apply_vision.py. Invoke once per card. Caller passes the absolute card-MD path. Card must already be ready for vision (`reference_image` non-empty + image on disk + `tags_hub` empty) — use `python bbl_queue.py` to list ready cards; `python researchbot.py --prepare-only` fills the queue.
 tools: Read, Write, Bash, Edit
 ---
 

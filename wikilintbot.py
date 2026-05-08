@@ -441,32 +441,13 @@ def check_singleton_tags(cards: list[Card], **opts) -> list[Finding]:
     return findings
 
 
-def check_vocabulary_drift(cards: list[Card], **opts) -> list[Finding]:
-    """Surface plural/singular pairs and trivial spelling variants in the same tier
-    across the whole graph. Conservative — only flags pairs where one is a clear
-    morphological variant of the other (singular vs +s plural, hyphen vs underscore)."""
-    findings: list[Finding] = []
-    for tier in ("tags_hub", "tags_filter"):
-        all_tags: Counter = Counter()
-        for c in cards:
-            if c.is_sealed or "_read_error" in c.fm or c.is_archived:
-                continue
-            all_tags.update(getattr(c, tier))
-        seen = list(all_tags.keys())
-        # Pairs: x vs x+s, x-y vs x_y, X vs x (the kebab check covers the last).
-        pairs: list[tuple[str, str]] = []
-        seen_set = set(seen)
-        for t in seen:
-            if t + "s" in seen_set:
-                pairs.append((t, t + "s"))
-            if "-" in t:
-                under = t.replace("-", "_")
-                if under in seen_set:
-                    pairs.append((t, under))
-        for a, b in pairs:
-            findings.append(Finding("vocabulary_drift", "warn", None,
-                                    f"{tier} contains both '{a}' (×{all_tags[a]}) and '{b}' (×{all_tags[b]}) — pick one canonical form"))
-    return findings
+# NOTE: removed `check_vocabulary_drift` (singular/plural collapse).
+# Plural and singular forms can carry distinct visual content — `sword` (one
+# blade) vs `swords` (a rack of them) anchor different lairs. Collapsing them
+# is a synonym/semantics decision, not a string-edit-distance one. Pushed to
+# the Phase 5 janitor pass, which will reassess the populated tag graph
+# holistically (true synonyms like cat/feline, redundant pairs, hub<->filter
+# tier swaps). See subagents.md.
 
 
 # --- Registry ---
@@ -487,7 +468,6 @@ CHECKS: dict[str, Callable[..., list[Finding]]] = {
     "intra_tier_duplicates": check_intra_tier_duplicates,
     "cross_tier_duplicates": check_cross_tier_duplicates,
     "singleton_tags": check_singleton_tags,
-    "vocabulary_drift": check_vocabulary_drift,
 }
 
 
