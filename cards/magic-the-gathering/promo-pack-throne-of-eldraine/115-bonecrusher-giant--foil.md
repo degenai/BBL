@@ -12,15 +12,16 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image: images/magic-the-gathering/promo-pack-throne-of-eldraine/115-bonecrusher-giant--foil.png
 average_cost_paid: 0
 market_price: 0.92
 market_price_as_of: 2026-05-07
 date_added: 2026-05-05
 last_seen: 2026-05-07
-art_match_confidence: none
+art_match_confidence: low
 needs_manual_review: true
-manual_review_reason: No reference image found via scryfall for set 'Promo Pack: Throne of Eldraine'
+manual_review_reason: Set 'Promo Pack: Throne of Eldraine' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+reference_image_source_url: https://cards.scryfall.io/png/front/b/5/b5b71cd2-de35-451f-b16e-2e3936169407.png?1674141884
 ---
 
 # Bonecrusher Giant (Promo Pack: Throne of Eldraine)

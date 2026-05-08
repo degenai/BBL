@@ -66,14 +66,54 @@ def load_env(path: Path = Path(".env.local")) -> None:
 
 # --- HTTP helpers (stdlib urllib) ---
 
-def http_get_json(url: str, timeout: float = 20.0) -> dict | None:
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": "application/json"})
-    try:
-        with urllib.request.urlopen(req, timeout=timeout) as resp:
-            return json.loads(resp.read().decode("utf-8"))
-    except Exception as e:
-        print(f"  [warn] GET {url} failed: {e}", file=sys.stderr)
-        return None
+def http_get_json(url: str, timeout: float = 20.0,
+                  retries: int = 3, backoff_s: float = 1.5) -> dict | None:
+    """GET a URL and parse JSON. Distinguishes:
+      - 404: returns the parsed body (Scryfall returns a JSON error object on miss
+        which the caller already handles via `data.get('status')`).
+      - 429 / 5xx / network errors: retries with exponential backoff (default 3 attempts).
+      - Other 4xx: gives up after first failure (those are real client errors and
+        retrying won't help).
+    Returns None only if every retry exhausted.
+
+    Without retry-on-429, sustained Scryfall sweeps over a few hundred cards can
+    silently flag cards as `needs_manual_review` because of transient throttling
+    rather than real lookup failures. That's the bug this fixes.
+    """
+    headers = {"User-Agent": USER_AGENT, "Accept": "application/json"}
+    last_err = None
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                return json.loads(resp.read().decode("utf-8"))
+        except urllib.error.HTTPError as e:
+            # 404: Scryfall returns a JSON error body — surface it to the caller, who
+            # already does `data.get("status")` checks to detect the miss.
+            if e.code == 404:
+                try:
+                    return json.loads(e.read().decode("utf-8"))
+                except Exception:
+                    return None
+            # 429 / 5xx: transient, worth retrying.
+            if e.code == 429 or e.code >= 500:
+                last_err = e
+                wait = backoff_s * (2 ** attempt)
+                print(f"  [warn] GET {url} -> HTTP {e.code}, retrying in {wait:.1f}s "
+                      f"(attempt {attempt + 1}/{retries})", file=sys.stderr)
+                time.sleep(wait)
+                continue
+            # Other 4xx: not transient, give up.
+            print(f"  [warn] GET {url} failed: HTTP {e.code} (no retry)", file=sys.stderr)
+            return None
+        except Exception as e:
+            last_err = e
+            wait = backoff_s * (2 ** attempt)
+            print(f"  [warn] GET {url} -> {e}, retrying in {wait:.1f}s "
+                  f"(attempt {attempt + 1}/{retries})", file=sys.stderr)
+            time.sleep(wait)
+    print(f"  [warn] GET {url} failed after {retries} attempts: {last_err}", file=sys.stderr)
+    return None
 
 
 def http_post_json(url: str, payload: dict, headers: dict, timeout: float = 60.0) -> dict | None:
@@ -608,6 +648,99 @@ def process(cards_dir: Path, images_dir: Path, limit: int, game_filter: str | No
     return report
 
 
+def retry_flagged(cards_dir: Path, images_dir: Path,
+                  game_filter: str | None, set_filter: str | None,
+                  sleep_s: float, force: bool = False) -> dict:
+    """Walk cards with needs_manual_review: true, re-run the lookup, recover what we can.
+
+    Many cards end up flagged due to transient Scryfall failures (network hiccups, rate-
+    limit blips) rather than genuine "set/name doesn't exist" misses. This retry pass uses
+    a gentler sleep between requests and re-stamps successful lookups so they're picked up
+    by the next prepare/vision flow.
+    """
+    set_map = fetch_scryfall_set_map()
+    flagged: list[tuple[Path, dict]] = []
+    for path in cards_dir.rglob("*.md"):
+        text = path.read_text(encoding="utf-8")
+        fm = parse_frontmatter(text)
+        if fm.get("needs_manual_review", "").lower() != "true":
+            continue
+        if game_filter and fm.get("game", "").lower() != game_filter.lower():
+            continue
+        if set_filter and fm.get("set", "").lower() != set_filter.lower():
+            continue
+        # If already has high-confidence image stamped, nothing to retry unless --force.
+        if not force and fm.get("art_match_confidence") == "high" \
+                and (fm.get("reference_image") or "").strip():
+            continue
+        flagged.append((path, fm))
+
+    print(f"\nRetrying {len(flagged)} flagged cards "
+          f"(game={game_filter or 'all'}, set={set_filter or 'all'}, sleep={sleep_s}s)\n")
+
+    recovered = 0
+    low_conf = 0
+    still_failed = 0
+    no_strategy = 0
+
+    for i, (path, fm) in enumerate(flagged, 1):
+        name = fm.get("name", "")
+        game = fm.get("game", "")
+        set_ = fm.get("set", "")
+        print(f"[{i}/{len(flagged)}] {game} | {name} ({set_})")
+
+        if game not in GAME_STRATEGY:
+            print(f"  -> no image strategy for game '{game}', skipping")
+            no_strategy += 1
+            continue
+
+        image_url, confidence = find_reference_image(game, name, set_, set_map)
+        # Slightly longer sleep than the bulk prep loop — we're re-trying the cards Scryfall
+        # already failed on once, so be polite.
+        time.sleep(sleep_s)
+
+        if not image_url:
+            print(f"  -> still no image (strategy={GAME_STRATEGY[game]}), leaving flagged")
+            still_failed += 1
+            continue
+
+        ext = url_extension(image_url)
+        local_path = local_image_path(path, cards_dir, images_dir, ext)
+        if not download_image(image_url, local_path, force=force):
+            print(f"  -> got URL ({image_url}) but download failed, leaving flagged")
+            still_failed += 1
+            continue
+        local_rel = str(local_path).replace("\\", "/")
+
+        text = path.read_text(encoding="utf-8")
+        text = update_frontmatter_field(text, "reference_image", local_rel)
+        text = update_frontmatter_field(text, "reference_image_source_url", image_url)
+        text = update_frontmatter_field(text, "art_match_confidence", confidence)
+        if confidence == "high":
+            text = update_frontmatter_field(text, "needs_manual_review", "false")
+            text = update_frontmatter_field(
+                text, "manual_review_reason", "")
+            print(f"  -> RECOVERED (high confidence): {local_rel}")
+            recovered += 1
+        else:
+            # Keep flagged but with image now available — Alex can manually approve via triage later.
+            text = update_frontmatter_field(
+                text, "manual_review_reason",
+                f"Set '{set_}' did not match a known set code or the card was not in that set; "
+                "fuzzy fallback returned art that may be from a different printing.")
+            print(f"  -> low-confidence URL cached, kept flagged for human review")
+            low_conf += 1
+        path.write_text(text, encoding="utf-8")
+
+    print("\n=== retry-flagged report ===")
+    print(f"  Recovered (high confidence):  {recovered}")
+    print(f"  Low-confidence (image cached, still flagged): {low_conf}")
+    print(f"  Still failed (no image):      {still_failed}")
+    print(f"  Skipped (no game strategy):   {no_strategy}")
+    return {"recovered": recovered, "low_conf": low_conf,
+            "still_failed": still_failed, "no_strategy": no_strategy}
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--cards-dir", type=Path, default=Path(DEFAULT_CARDS_DIR))
@@ -628,6 +761,16 @@ def main():
     ap.add_argument("--prepare-only", action="store_true",
                     help="Image fetch + cache + frontmatter stamp only. Skips DeepSeek call. "
                          "Leaves tags_hub empty as the signal for the bbl-researcher Claude Code subagent.")
+    ap.add_argument("--retry-flagged", action="store_true",
+                    help="Walk every card with needs_manual_review: true and re-run the image lookup. "
+                         "Many flagged cards are transient Scryfall failures rather than real misses — "
+                         "this pass recovers them. Uses a gentler sleep (--retry-sleep) and re-stamps "
+                         "successful matches. Cards with low-confidence fallback URLs stay flagged "
+                         "(image cached) so a human reviewer can approve. Doesn't talk to DeepSeek.")
+    ap.add_argument("--retry-sleep", type=float, default=0.25,
+                    help="Seconds to sleep between Scryfall calls in --retry-flagged mode (default 0.25).")
+    ap.add_argument("--set", dest="set_filter", default=None,
+                    help='In --retry-flagged mode, restrict to one set (case-insensitive match against frontmatter `set:`).')
     args = ap.parse_args()
 
     load_env()
@@ -654,6 +797,11 @@ def main():
     if not args.cards_dir.exists():
         print(f"ERROR: cards dir not found: {args.cards_dir}", file=sys.stderr)
         sys.exit(1)
+
+    if args.retry_flagged:
+        retry_flagged(args.cards_dir, args.images_dir,
+                      args.game, args.set_filter, args.retry_sleep, args.force)
+        sys.exit(0)
 
     report = process(args.cards_dir, args.images_dir, args.limit, args.game,
                      api_key or "", args.dry_run, args.force, model=args.model,

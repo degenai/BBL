@@ -12,15 +12,16 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image: images/magic-the-gathering/mystery-booster-cards/90-the-eldest-reborn.png
 average_cost_paid: 0
 market_price: 0.34
 market_price_as_of: 2026-05-07
 date_added: 2026-05-06
 last_seen: 2026-05-07
-art_match_confidence: none
+art_match_confidence: low
 needs_manual_review: true
-manual_review_reason: No reference image found via scryfall for set 'Mystery Booster Cards'
+manual_review_reason: Set 'Mystery Booster Cards' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+reference_image_source_url: https://cards.scryfall.io/png/front/4/d/4d29351e-5608-40e8-8220-6c9635d48ad4.png?1726284809
 ---
 
 # The Eldest Reborn (Mystery Booster Cards)

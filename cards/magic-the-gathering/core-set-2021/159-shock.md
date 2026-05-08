@@ -12,15 +12,16 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image: images/magic-the-gathering/core-set-2021/159-shock.png
 average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-07
 date_added: 2026-05-06
 last_seen: 2026-05-07
-art_match_confidence: none
-needs_manual_review: true
-manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/5/9/59fa8e8d-bcb8-47bf-b71a-df11c8d0f2c9.png?1641847379
 ---
 
 # Shock (Core Set 2021)

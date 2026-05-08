@@ -12,15 +12,16 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image: images/magic-the-gathering/eternal-masters/245-swiftwater-cliffs.png
 average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-07
 date_added: 2026-05-07
 last_seen: 2026-05-07
-art_match_confidence: none
-needs_manual_review: true
-manual_review_reason: No reference image found via scryfall for set 'Eternal Masters'
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/6/e/6ecc7fdf-ff3e-4c09-9d5c-f08cf986689b.png?1580015360
 ---
 
 # Swiftwater Cliffs (Eternal Masters)

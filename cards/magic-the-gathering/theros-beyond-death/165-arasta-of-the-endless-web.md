@@ -12,15 +12,16 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image: images/magic-the-gathering/theros-beyond-death/165-arasta-of-the-endless-web.png
 average_cost_paid: 0
 market_price: 0.53
 market_price_as_of: 2026-05-07
 date_added: 2026-05-06
 last_seen: 2026-05-07
-art_match_confidence: none
-needs_manual_review: true
-manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/7/c/7c38833a-96c5-48b5-8dd8-23f10e798537.png?1581480541
 ---
 
 # Arasta of the Endless Web (Theros Beyond Death)

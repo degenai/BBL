@@ -12,15 +12,16 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image: images/magic-the-gathering/mystery-booster-cards/84-toxin-sliver.png
 average_cost_paid: 0
 market_price: 1.85
 market_price_as_of: 2026-05-07
 date_added: 2026-05-07
 last_seen: 2026-05-07
-art_match_confidence: none
+art_match_confidence: low
 needs_manual_review: true
-manual_review_reason: No reference image found via scryfall for set 'Mystery Booster Cards'
+manual_review_reason: Set 'Mystery Booster Cards' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+reference_image_source_url: https://cards.scryfall.io/png/front/c/0/c04ab6b6-27ee-4c93-a87c-cbc3743f4faf.png?1562933654
 ---
 
 # Toxin Sliver (Mystery Booster Cards)

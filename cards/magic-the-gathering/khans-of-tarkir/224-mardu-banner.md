@@ -12,15 +12,16 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image: images/magic-the-gathering/khans-of-tarkir/224-mardu-banner.png
 average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-07
 date_added: 2026-05-07
 last_seen: 2026-05-07
-art_match_confidence: none
-needs_manual_review: true
-manual_review_reason: No reference image found via scryfall for set 'Khans of Tarkir'
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/f/e/fe10c56d-a8e1-495d-a03a-0b920b44182f.png?1562796606
 ---
 
 # Mardu Banner (Khans of Tarkir)

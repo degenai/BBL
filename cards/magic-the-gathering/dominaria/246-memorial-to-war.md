@@ -12,15 +12,16 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image: images/magic-the-gathering/dominaria/246-memorial-to-war.png
 average_cost_paid: 0
 market_price: 0.19
 market_price_as_of: 2026-05-07
 date_added: 2026-05-07
 last_seen: 2026-05-07
-art_match_confidence: none
-needs_manual_review: true
-manual_review_reason: No reference image found via scryfall for set 'Dominaria'
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/5/3/53920ed7-fc9a-4b50-85c8-d62de05b2390.png?1562735726
 ---
 
 # Memorial to War (Dominaria)

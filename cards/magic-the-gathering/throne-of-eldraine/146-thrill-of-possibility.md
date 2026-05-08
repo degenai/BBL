@@ -12,15 +12,16 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image: images/magic-the-gathering/throne-of-eldraine/146-thrill-of-possibility.png
 average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-07
 date_added: 2026-05-06
 last_seen: 2026-05-07
-art_match_confidence: none
-needs_manual_review: true
-manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/c/9/c9021f85-7ab4-4a78-a398-1611fe09cd14.png?1615522697
 ---
 
 # Thrill of Possibility (Throne of Eldraine)
