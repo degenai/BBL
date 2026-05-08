@@ -10,14 +10,39 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
-reference_image: 
+tags_hub: ["singer", "cleric", "mercy", "service-worker", "golden-light", "music", "wings", "robed-figure", "comfort", "ritual", "white-magic", "voice", "song", "halo", "performance", "black-fantasy-figure", "labor", "devotion"]
+tags_filter: ["mid-shot", "portrait-mode", "solo", "forward-facing", "creature-cleric", "white-mono", "female-figure", "common"]
+reference_image: images/magic-the-gathering/core-set-2021/4-anointed-chorister.png
 average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-07
 date_added: 2026-05-06
 last_seen: 2026-05-07
+reference_image_source_url: https://cards.scryfall.io/png/front/9/c/9c977c67-b0c0-40b0-b129-28de094aaf40.png?1594734721
+art_match_confidence: high
+needs_manual_review: false
+mood: sublime
+time_of_day: indeterminate
+setting: other
 ---
 
 # Anointed Chorister (Core Set 2021)
+
+## Vision
+
+![[4-anointed-chorister.png]]
+
+A young Black woman in flowing white robes stands with arms raised and mouth open in song. Behind her, an aura of golden wings of light spreads outward. Soft golden light fills the scene. Mood is reverent, hopeful, gentle. Flavor text frames her vocation: 'I sing of benevolence and mercy, of golden wings bringing comfort to the meek and downtrodden.' Strong service-worker / spiritual-laborer read — singing comfort is her labor.
+
+**Subject:** A young Black woman in flowing white robes singing with arms raised; a golden aura of wings of light radiates behind her
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** other, indeterminate
+**Foreground:** Young woman in white robes singing with arms raised  *(palette: white, ivory, gold)*
+**Background:** Aura of golden wings of light radiating behind her  *(palette: gold, warm-yellow, white)*
+**Mood / lighting:** sublime, rim
+**Emotion read:** reverent, joyful, comforting
+**Objects:** robes
+**Iconography:** wings-of-light
+**Genre cues:** fantasy, painterly
+

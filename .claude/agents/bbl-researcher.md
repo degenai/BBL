@@ -34,6 +34,13 @@ The caller gives you the absolute path of a single card-node MD file. The MD has
    - The line: would I make a curated bundle around the concept? sunset → yes (hub). mid-shot → no (filter).
    - Use kebab-case across both tiers. No spaces, no `_`.
 
+   **Cast a broad net for `tags_hub` — over-nominate, don't curate.** Aim for **8–12** hub-tag candidates per card, not 5–6. You are nominating concepts; the hub curator decides which ones graduate to actual graph nodes. Each tag you emit is a potential bridge the lair architect can use to assemble a Discrete Lair, so quantity of plausible bridges beats quality of one clever tag.
+
+   - **Prefer broad common concepts** (`singer`, `cleric`, `music`, `wings`, `gold`, `mercy`, `forest`, `night`, `robed-figure`) over **coined-on-the-fly compounds** (`comfort-bringer`, `alley-king`, `bro-energy`, `bullying-club`, `creative-collapse`).
+   - Some genuinely specific tags are great — they name the thing depicted (`waterfall`, `cyclops`, `treefolk`, `pegasus`). Keep those. The trap is *vibe-as-compound-noun* — describing the mood or relationship between elements as a single hyphenated tag. Don't.
+   - Singletons are the failure mode. A narrow coined tag that no other card will share can't anchor a lair. Broad tags compose; narrow tags isolate.
+   - Each card should have multiple **lair-anchorable** hub tags — concepts a curator could plausibly build a 30-card themed bundle around. If your hub list reads "well, this card belongs to one very specific concept and nothing else," widen the net.
+
 5. **IP guardrails (HARD).** If the art clearly shows a recognizable character (Goku, Pikachu, Batman, Iron Man, etc.), populate `suspected_ip` with the name and `ip_confidence` ∈ {`low`, `med`, `high`}. Set `ip_verified: false` — verification is a separate step. **NEVER put a character name in `subject` unless you would stake real money on it from the image alone.** Crossover sets (MTG Universes Beyond, Pokémon collabs, Dragon Ball Super alternate art) are the high-risk zone — when in doubt, describe the figure and flag.
 
 6. **Emit JSON to `reports/vision_pending/<slug>.json`**. Use the slug derived from the card-MD filename (without `.md`). Use the Write tool. The JSON object must contain exactly these keys:

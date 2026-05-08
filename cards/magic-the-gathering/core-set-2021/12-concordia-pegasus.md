@@ -10,14 +10,38 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
-reference_image: 
+tags_hub: ["pegasus", "hope", "flight", "beacon", "luminous", "sky", "horse", "wings", "mountain", "white-magic", "flying", "winged", "majesty", "autumn", "clouds", "horizon"]
+tags_filter: ["mid-shot", "portrait-mode", "solo", "three-quarter-facing", "creature-pegasus", "white-mono", "flying", "common"]
+reference_image: images/magic-the-gathering/core-set-2021/12-concordia-pegasus.png
 average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-07
 date_added: 2026-05-06
 last_seen: 2026-05-07
+reference_image_source_url: https://cards.scryfall.io/png/front/6/0/600d3517-e370-47ae-ac4f-c7ef8995a89c.png?1594734840
+art_match_confidence: high
+needs_manual_review: false
+mood: sublime
+time_of_day: day
+setting: mountain
 ---
 
 # Concordia Pegasus (Core Set 2021)
+
+## Vision
+
+![[12-concordia-pegasus.png]]
+
+A pure white pegasus glides through the sky with wings spread wide. The luminous body almost glows against the moody overcast backdrop. Mountain peaks and dim clouds form the distant horizon. Composition is elegant, hopeful — the creature reads as a beacon. Flavor text reinforces it: 'In the cloudy skies and dim light of autumn, a flash of white wings is a reminder that better times lie ahead.'
+
+**Subject:** A pure white pegasus mid-flight with wings spread wide, body luminous against a dim cloudy autumn sky
+
+**Composition:** mid-shot, portrait, figures: solo, facing: three-quarter
+**Setting:** mountain, day, calm
+**Foreground:** White winged horse mid-flight with wings spread  *(palette: white, cream, ivory)*
+**Background:** Cloudy autumn sky with distant mountain peaks  *(palette: grey, blue-grey, dim-mauve)*
+**Mood / lighting:** sublime, soft
+**Emotion read:** majestic, calm
+**Creatures:** pegasus, horse
+**Genre cues:** fantasy, painterly
+
