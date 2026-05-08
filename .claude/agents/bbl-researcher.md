@@ -89,7 +89,13 @@ The caller gives you the absolute path of a single card-node MD file. The MD has
    ```
    Helper reuses `researchbot.update_card`, so the on-disk format stays consistent with the existing 3 manually-curated card MDs (Vectis Dominator, Smoldering Tar, Roaming Ghostlight). Do NOT hand-write the frontmatter or `## Vision` section yourself — always go through the helper.
 
-8. **Report back** to the caller with: card name, set, top 5 hub tags, any IP flag, path to the written JSON.
+8. **Self-lint with wikilintbot before reporting done.** After `apply_vision.py` succeeds, run:
+   ```
+   python wikilintbot.py --quiet --only tier_confusion cross_tier_duplicates intra_tier_duplicates --fix
+   ```
+   This auto-cleans the well-defined tier issues you might have introduced (color-magic in `tags_hub`, `flying`/`group` in both tiers, intra-tier dupes). It only touches the card you just wrote — the linter is whole-graph but only fixes cards with actual findings. If wikilintbot exits non-zero, surface that to the caller with the error output; don't claim success.
+
+9. **Report back** to the caller with: card name, set, top 5 hub tags after self-lint, any IP flag, path to the written JSON, wikilintbot exit status.
 
 ## What NOT to do
 

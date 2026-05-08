@@ -2,7 +2,11 @@
   "permissions": {
     "allow": [
       "WebSearch",
-      "Bash(python _phase1_apply.py)"
+      "Bash(python _phase1_apply.py)",
+      "PowerShell(python apply_vision.py \"cards/magic-the-gathering/throne-of-eldraine/313-thornwood-falls.md\" \"reports/vision_pending/313-thornwood-falls.json\")",
+      "PowerShell(python apply_vision.py \"cards/magic-the-gathering/core-set-2021/196-pridemalkin.md\" \"reports/vision_pending/196-pridemalkin.json\")",
+      "PowerShell(python apply_vision.py \"cards/magic-the-gathering/core-set-2021/50-frantic-inventory.md\" \"reports/vision_pending/50-frantic-inventory.json\")",
+      "PowerShell(python apply_vision.py \"cards/magic-the-gathering/core-set-2021/51-frost-breath.md\" \"reports/vision_pending/51-frost-breath.json\")"
     ]
   }
 }

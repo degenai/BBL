@@ -138,7 +138,6 @@ Collectr CSV export
 ├── researchbot.py                 # image lookup + vision dispatch
 ├── apply_vision.py                # vision-JSON → MD writer (subagent helper)
 ├── wikilintbot.py                 # graph linter (structural + tag tier checks)
-├── _phase1_apply.py               # 3 hand-curated vision passes
 ├── .claude/
 │   └── agents/
 │       └── bbl-researcher.md      # vision-pass subagent
@@ -184,9 +183,41 @@ python wikilintbot.py --fix
 
 ---
 
-## Status snapshot (2026-05-07)
+## A note on the agent roster
 
-- **977** active singles · **16** sealed products · **3** cards fully enriched
-- **Plan A (DeepSeek vision):** blocked — hosted API serves only `deepseek-v4-pro` and `deepseek-v4-flash`, both text-only
-- **Plan B (Claude Code subagent):** ready, smoke-tested
-- **Repo:** local only, on branch `main` — GitHub remote pending
+The mix of scripts (`csv2mdbot.py`, `researchbot.py`, `apply_vision.py`, `wikilintbot.py`) and Claude Code subagents (`.claude/agents/bbl-researcher.md`, with lair architect / hub curator / triviabot still spec-only in `subagents.md`) is **deliberately not consolidated**. Each has a distinct verb and runs on a different cadence. Premature merging would freeze interfaces that are still evolving. The right consolidation, *when* it comes, is a thin top-level CLI wrapper (`bbl reconcile <csv>`, `bbl prepare`, `bbl lint --fix`) — not folding agents into each other.
+
+The pattern that's emerging: **writers get the keys to wikilintbot; watchers do not.** csv2mdbot, bbl-researcher, and (future) hub curator self-lint after writing. Lair architect is a writer too but its specific output (`held_for_lair`) is exactly what wikilintbot's `held_for_lair_sanity` check audits from outside — separation of concerns.
+
+---
+
+## Status snapshot (2026-05-08)
+
+- **977** active singles · **16** sealed products · **22** cards fully enriched (top-22 by quantity in MTG)
+- **Hub-tag bridges:** 53 tags shared by 2+ cards. Top: `forest` 5x, `comic-relief` 5x, `moss` 5x, `fairy-tale` 4x, `guardian` 4x, `service-worker` 4x, `labor` 3x.
+- **Wikilintbot:** report-only on most checks, auto-fix on tier_confusion + cross_tier_duplicates + intra_tier_duplicates. First pass: 26 findings → 23 auto-fixed → 3 remain (2 info aggregations + 1 vocab judgment). 0 errors graph-wide.
+- **Plan A (DeepSeek vision):** still blocked — hosted API serves only `deepseek-v4-pro` and `deepseek-v4-flash`, both text-only. Re-probe with `python researchbot.py --list-models` to check.
+- **Plan B (Claude Code subagent + inline vision):** active. bbl-researcher subagent definition includes self-lint step.
+- **Repo:** local only, on branch `main` — GitHub remote (`degenai/bulk-graph-bundler`, private) pending Alex's move.
+
+### For the next session
+
+Last commit before handoff is on `main`. To pick up cleanly:
+
+1. **Restart Claude Code** so `.claude/agents/bbl-researcher.md` registers as an invokable subagent type. Once registered, the vision flow is parallelizable — main session can fan out `Agent(subagent_type="bbl-researcher")` calls instead of doing vision inline.
+2. **Re-probe DeepSeek** in case V4 vision rolled out: `python researchbot.py --list-models`. If a vision-capable model ID appears, drop `--prepare-only` and run with `--model <new-id>` instead of using the subagent path.
+3. **Recommended next moves**, roughly in priority order:
+   - Continue MTG enrichment in batches of ~25 via `python researchbot.py --prepare-only --limit 25 --game "Magic: The Gathering"` then bbl-researcher on each prepared card. Batch sizes can grow as the rule-set settles.
+   - Start Pokémon enrichment — same flow, `--game Pokemon`. Path is wired but not yet exercised at scale.
+   - Build a Dragon Ball Super image-source strategy (no Scryfall equivalent — needs DBS card resource scraping or manual URL paste). DBS has the most units in inventory, so this unlocks a lot.
+   - Push to GitHub once Alex creates the empty repo at `degenai/bulk-graph-bundler` (or installs `gh` CLI).
+   - Build lair architect once enough cards have hub tags (~100 cards is roughly the threshold where `available = quantity - held_for_lair` queries return interesting candidate manifests).
+
+### Curation rules locked in this project's memory
+
+The next session should pull these without being asked — they're in `~/.claude/projects/.../memory/`:
+
+- **Broad-net tag emission** (`bbl-tag-broad-net.md`) — vision pass emits 8–12 broad `tags_hub` per card; never coined compounds like `comfort-bringer` or `bro-energy`.
+- **Color-magic is filter-tier** (`bbl-color-magic-is-filter.md`) — `blue-magic`, `red-magic`, etc. are combinatorial filters, never lair anchors. Wikilintbot enforces.
+- **Wikilintbot before lair architect** (`bbl-wikilintbot-priority.md`) — built; lair architect comes next.
+- **Session handoff** (`bbl-session-handoff.md`) — keep this snapshot fresh at every session close.
