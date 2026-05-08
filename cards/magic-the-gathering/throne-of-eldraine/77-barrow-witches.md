@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["witch", "necromancy", "ritual", "tomb", "candlelight", "knight", "death", "gothic", "robed-figure", "crypt", "coven", "dark-magic"]
+tags_filter: ["duo", "2-figures", "plus-one-corpse", "mid-shot", "scene-mode", "no-clear-face", "creature-human", "creature-warlock", "black-magic", "graveyard-recursion"]
 reference_image: images/magic-the-gathering/throne-of-eldraine/77-barrow-witches.png
 average_cost_paid: 0
 market_price: 0.08
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
 reference_image_source_url: https://cards.scryfall.io/png/front/4/5/45707c22-fce8-4dbd-9d19-73f08c68f449.png?1572490072
+mood: grim
+time_of_day: night
+setting: dungeon
 ---
 
 # Barrow Witches (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[77-barrow-witches.png]]
 
+In a dim subterranean barrow, two robed witches in deep hoods bend over a stone tomb where the armored body of a knight lies prone. Candles burn around the slab, casting warm orange firelight across the witches' faces and the knight's plate armor while the rest of the chamber recedes into near-black shadow. The witches' postures are intent and focused, hands hovering over the corpse as if drawing breath or essence from it. The palette is dominated by deep blacks, cold blues, and the small pools of candle-orange — classic gothic crypt atmosphere.
 
-**Subject:** 
+**Subject:** Two hooded witches performing a necromantic ritual over the body of a fallen knight on a stone slab in a gloomy crypt
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, narrative, figures: group, facing: three-quarter
+**Setting:** dungeon, gothic, night
+**Foreground:** two hooded witches leaning over a stone tomb with a knight's body laid out and lit candles  *(palette: black, deep-purple, candle-orange, steel-grey)*
+**Background:** dark crypt interior fading into shadow with faint architectural suggestion of stone walls  *(palette: black, midnight-blue, charcoal)*
+**Mood / lighting:** grim, chiaroscuro
+**Emotion read:** focused, predatory calm; reverent concentration over the dead
+**Objects:** stone-tomb, candles, knight-armor, robes, hoods
+**Iconography:** tomb, candle-flame, hood-shadow, fallen-knight
+**Genre cues:** fantasy, gothic-horror, dark-fantasy
 

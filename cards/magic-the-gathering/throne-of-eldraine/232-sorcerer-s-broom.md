@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["broom", "enchanted-object", "animated-object", "household-tool", "fairy-tale", "folklore", "witchcraft", "magic-apprentice", "servant", "labor", "uncanny"]
+tags_filter: ["solo", "no-face", "mid-shot", "portrait-mode", "forward-facing", "indoor-setting", "artifact", "creature-spirit", "colorless-magic", "sorcery", "no-figure"]
 reference_image: images/magic-the-gathering/throne-of-eldraine/232-sorcerer-s-broom.png
 average_cost_paid: 0
 market_price: 0.09
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
 reference_image_source_url: https://cards.scryfall.io/png/front/0/7/071e8f20-18b3-4bf5-a23a-adb42bf5819b.png?1592485689
+mood: other
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Sorcerer's Broom (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[232-sorcerer-s-broom.png]]
 
+A single enchanted broom dominates the frame, standing upright on a tiled or flagstone floor inside a dimly lit chamber. Its bristles are a wild tangle of dark, dry twigs splayed at the top, lashed to a knotted wooden handle that tapers to the floor. The broom is alone — no figure holds or wields it — yet it reads as alert, posed, faintly menacing in the way a thing that should be still but isn't. Light is low and warm-brown, falling from the upper left and casting a soft shadow behind the broom. The background is a muted wash of indoor architecture: a wall, possibly a doorway or hearth opening, all rendered loosely in earthy umbers and ochres. The mood is folkloric and slightly eerie, classic fairy-tale enchanted-object territory.
 
-**Subject:** 
+**Subject:** An animated broom standing upright on its bristles in a dim interior — twigs bound to a wooden handle, posed as if alive and waiting
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** indoor, indeterminate
+**Foreground:** an animated broom standing upright on its bristles, twig-bundle splayed at top  *(palette: dark-brown, umber, black, warm-tan)*
+**Background:** dim interior chamber with stone or tiled floor and an indistinct wall  *(palette: ochre, muted-brown, shadow-black, warm-grey)*
+**Mood / lighting:** other, ambient
+**Emotion read:** still, poised, faintly watchful — the uncanny stillness of an object that shouldn't be alive but is
+**Objects:** broom, twigs, wooden-handle, tiled-floor
+**Iconography:** enchanted-object, household-tool
+**Genre cues:** fantasy, fairy-tale, folklore, storybook
 

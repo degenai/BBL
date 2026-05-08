@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["gnome", "construct", "stitched", "patchwork", "salvage", "workshop", "trash", "reanimation", "grotesque", "wizard", "abomination"]
+tags_filter: ["duo", "2-figures", "mid-shot", "portrait-mode", "three-quarter-facing", "no-face-clear", "artifact", "creature-gnome", "black-magic", "regenerate", "discard-cost"]
 reference_image: images/magic-the-gathering/ultimate-masters/231-patchwork-gnomes.png
 average_cost_paid: 0
 market_price: 0.03
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Ultimate Masters'
 reference_image_source_url: https://cards.scryfall.io/png/front/1/a/1ab6b8ca-2e72-4f19-b73b-08b3f9fe6966.png?1547518491
+mood: grim
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Patchwork Gnomes (Ultimate Masters)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[231-patchwork-gnomes.png]]
 
+Two grotesque gnome-sized constructs stand close together in a cluttered, dimly lit workshop. The taller figure on the left is a stitched-together body of mismatched flesh and cloth in tan and orange tones, with visible seams, asymmetric limbs, and a crude head turned in profile. A smaller hunched companion in front is similarly cobbled together from scavenged parts. The background is a brown-grey chamber crowded with indistinct tools, shelves, or workbench debris, painted in muddy sepia tones. The overall feel is shabby, makeshift, and faintly comedic — these are a wizard's discarded creations brought back into service.
 
-**Subject:** 
+**Subject:** Two patchwork gnome constructs assembled from mismatched salvaged parts — one larger figure with an orange-tan torso and crude stitching stands behind a smaller, hunched companion in a dim workshop interior
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: duo, facing: three-quarter
+**Setting:** indoor, ruined, indeterminate
+**Foreground:** two stitched gnome constructs with mismatched limbs and visible seams  *(palette: orange, tan, brown, ochre)*
+**Background:** dim cluttered workshop interior with indistinct tools and shelving  *(palette: sepia, dark-brown, grey)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** vacant, uncanny, faintly menacing
+**Objects:** stitches, seams, workshop-tools, salvaged-parts
+**Creatures:** gnome, construct, patchwork-creature
+**Iconography:** stitched-flesh, salvage, reanimation
+**Genre cues:** fantasy, dark-fantasy, grotesque
 

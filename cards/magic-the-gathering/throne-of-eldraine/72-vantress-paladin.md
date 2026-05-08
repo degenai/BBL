@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["knight", "paladin", "pegasus", "winged-horse", "flight", "wings", "sky", "clouds", "armor", "cavalry", "chivalry", "mount", "fairy-tale"]
+tags_filter: ["duo", "mid-shot", "three-quarter-facing", "action-mode", "no-face", "creature-human", "creature-knight", "blue-magic", "flying", "common"]
 reference_image: images/magic-the-gathering/throne-of-eldraine/72-vantress-paladin.png
 average_cost_paid: 0
 market_price: 0.09
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
 reference_image_source_url: https://cards.scryfall.io/png/front/5/2/52dd633f-9a07-47df-adb1-36013fc2f43a.png?1576313470
+mood: sublime
+time_of_day: day
+setting: other
 ---
 
 # Vantress Paladin (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[72-vantress-paladin.png]]
 
+A knight in pale blue plate armor with a closed visored helmet rides a winged horse through a sky of swirling silver-blue clouds. The pegasus-like mount is rendered in cool whites and blues, wings spread wide as it surges forward. The rider grips reins and wears a flowing cape; the lance or weapon is held at the ready. The whole composition is bathed in a cold, ethereal blue palette typical of Eldraine's Vantress (the merfolk/knightly faerie-court realm), with diffuse light suggesting high altitude and an otherworldly quality. The mount's mane and the rider's cape stream backward, conveying speed and aerial motion.
 
-**Subject:** 
+**Subject:** An armored knight mounted on a winged steed, charging through cloudy skies with lance lowered
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: duo, facing: three-quarter
+**Setting:** other, day, clear
+**Foreground:** armored knight on a winged horse, charging forward  *(palette: pale-blue, silver, white, steel-grey)*
+**Background:** swirling pale-blue and silver clouds, open sky  *(palette: pale-blue, silver, white, cyan)*
+**Mood / lighting:** sublime, ambient
+**Emotion read:** stoic, determined, focused — visor obscures face but body language is forward-driving and resolute
+**Objects:** plate-armor, helmet, visor, lance, reins, cape, saddle
+**Creatures:** pegasus, winged-horse
+**Iconography:** knighthood, chivalry, wings, flight
+**Genre cues:** fantasy, high-fantasy, arthurian, fairy-tale
 

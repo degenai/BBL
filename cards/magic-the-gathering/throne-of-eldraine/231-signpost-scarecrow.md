@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["scarecrow", "crossroads", "signpost", "wayfinding", "fairy-tale", "robed-figure", "rural", "guardian", "countryside", "wanderer", "castle-distant", "storybook"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "artifact", "creature-scarecrow", "colorless", "vigilance"]
 reference_image: images/magic-the-gathering/throne-of-eldraine/231-signpost-scarecrow.png
 average_cost_paid: 0
 market_price: 0.22
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
 reference_image_source_url: https://cards.scryfall.io/png/front/a/2/a2c5f336-c100-4bec-89d5-548f60064d7f.png?1572491077
+mood: other
+time_of_day: day
+setting: other
 ---
 
 # Signpost Scarecrow (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[231-signpost-scarecrow.png]]
 
+A solitary scarecrow figure stands tall and skeletal at what appears to be a rural crossroads. Its body is built around a wooden frame draped in a weathered blue robe or cloak with ragged hems and trailing strips of cloth. From its torso and arms, multiple wooden signpost arrows jut outward in different directions, painted in pale yellows and warm earthy tones, each arrow ending in a pointed tip. The scarecrow's head is small and indistinct, almost hooded. Behind the figure stretches a hazy, washed-out countryside in muted greens and grays, with the faint suggestion of a distant castle or tower silhouette on the horizon. The lighting is soft and diffuse, suggesting overcast daylight, and the overall palette is dominated by cool blues and dusty earth tones, giving the scene a quiet, slightly melancholy storybook quality.
 
-**Subject:** 
+**Subject:** A tall, gangly scarecrow standing at a crossroads, draped in a tattered blue cloak and torn fabrics, with multiple wooden signpost arrows protruding from its body and outstretched arms, pointing in different directions
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** other, day, calm
+**Foreground:** scarecrow figure in blue cloak with multiple wooden signpost arrows extending from its body  *(palette: dusty-blue, weathered-yellow, tan, brown, off-white)*
+**Background:** hazy countryside with a faint distant castle silhouette under overcast sky  *(palette: pale-gray, muted-green, soft-blue, cream)*
+**Mood / lighting:** other, soft
+**Emotion read:** still, watchful, faceless and inscrutable; quietly melancholy
+**Objects:** signpost, wooden-arrows, cloak, wooden-frame, torn-fabric
+**Creatures:** scarecrow
+**Iconography:** directional-arrows, crossroads
+**Genre cues:** fantasy, fairy-tale, storybook
 

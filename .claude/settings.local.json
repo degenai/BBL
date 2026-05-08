@@ -13,7 +13,8 @@
       "Bash(python apply_vision.py \"C:\\\\Users\\\\alexa\\\\Desktop\\\\Bulk Graph Bundler\\\\cards\\\\magic-the-gathering\\\\throne-of-eldraine\\\\68-tome-raider.md\" \"reports/vision_pending/68-tome-raider.json\")",
       "Bash(python apply_vision.py \"C:\\\\Users\\\\alexa\\\\Desktop\\\\Bulk Graph Bundler\\\\cards\\\\magic-the-gathering\\\\core-set-2021\\\\113-masked-blackguard.md\" \"reports/vision_pending/113-masked-blackguard.json\")",
       "Bash(python researchbot.py --prepare-only --limit 50 --game \"Magic: The Gathering\")",
-      "Bash(python bbl_queue.py --count)"
+      "Bash(python bbl_queue.py --count)",
+      "Bash(python bbl_queue.py --with-qty --limit 13 --game \"Magic: The Gathering\")"
     ]
   }
 }

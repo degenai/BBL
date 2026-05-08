@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["fire", "rebirth", "phoenix", "sword", "knight", "warrior-woman", "red-hair", "gold", "vengeance", "saint", "armor", "flames"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "female-figure", "centered", "red-magic", "green-magic", "multicolor-red-green", "sorcery"]
 reference_image: images/magic-the-gathering/ultimate-masters/209-vengeful-rebirth.png
 average_cost_paid: 0
 market_price: 0.25
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Ultimate Masters'
 reference_image_source_url: https://cards.scryfall.io/png/front/b/0/b03bb160-8113-409a-a130-2b3fdc476e6a.png?1547518128
+mood: sublime
+time_of_day: indeterminate
+setting: other
 ---
 
 # Vengeful Rebirth (Ultimate Masters)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[209-vengeful-rebirth.png]]
 
+A centered portrait of a stately woman with long flowing red hair, dressed in elaborate gold and green armor or robes with filigree detailing. She holds a large straight sword pointed upward in both hands, the blade aligned with the vertical axis of the composition. Behind her, a roiling backdrop of orange, red, and yellow flames fills the entire frame, evoking a phoenix-like aura. The figure appears solemn and resolute, a martial saint or queen reborn from fire. Lighting is warm and ambient with strong rim light from the flames behind her.
 
-**Subject:** 
+**Subject:** A regal red-haired woman in golden ornate armor holding a large upright sword, framed by swirling flames
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** other, indeterminate, fire
+**Foreground:** armored woman holding upright sword  *(palette: gold, red, green, cream)*
+**Background:** swirling wall of flames  *(palette: orange, red, yellow)*
+**Mood / lighting:** sublime, rim
+**Emotion read:** solemn, resolute, defiant; martyr-saint composure
+**Objects:** sword, armor, filigree, ornate-dress
+**Iconography:** upright-sword, flames, halo-of-fire
+**Genre cues:** fantasy, high-fantasy, religious-iconography
 

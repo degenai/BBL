@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["oven", "hearth", "fire", "green-fire", "kitchen", "cooking", "witch", "fairy-tale", "gothic", "folk-horror", "stone"]
+tags_filter: ["no-face", "scene-mode", "mid-shot", "forward-facing", "object-focus", "indoor", "night-interior", "artifact", "black-magic", "food-token", "no-figure"]
 reference_image: images/magic-the-gathering/throne-of-eldraine/237-witch-s-oven.png
 average_cost_paid: 0
 market_price: 1.14
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
 reference_image_source_url: https://cards.scryfall.io/png/front/0/4/04ef8493-d986-45f8-a718-617b028f7ad4.png?1572491150
+mood: grim
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Witch's Oven (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[237-witch-s-oven.png]]
 
+An imposing hearth-style oven dominates the scene, built from heavy dark stonework with iron banding and an arched maw that pulses with eerie green-tinged flame edged in warm gold. Soot streaks the masonry above the opening, and the surrounding kitchen wall is shrouded in shadow. Small implements — hooks, irons, a spit — hang in the gloom around the firebox. No figures are visible; the cookfire itself is the protagonist. The light source is the unnatural emerald glow inside the oven, which throws faint highlights onto the stones and casts the rest of the room into deep, smoky darkness. The mood is folkloric and ominous — a fairy-tale witch's oven, the kind of cookfire that eats children in the older versions of the story.
 
-**Subject:** 
+**Subject:** A large stone-and-iron hearth oven with an arched opening glowing with green and gold magical fire, set into the wall of a dim stone-walled kitchen interior
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, narrative, figures: none, facing: forward
+**Setting:** indoor, gothic, indeterminate
+**Foreground:** stone-and-iron hearth oven with green-flamed arched opening  *(palette: charcoal-grey, iron-black, emerald-green, amber-gold, soot-black)*
+**Background:** dim stone kitchen wall with hanging iron implements fading into darkness  *(palette: deep-grey, shadow-black, muted-brown)*
+**Mood / lighting:** grim, chiaroscuro
+**Emotion read:** ominous stillness; the fire is alive in a way it shouldn't be
+**Objects:** oven, hearth, iron-hooks, spit, stone-masonry, soot-stains
+**Iconography:** green-flame, arched-hearth, witch-kitchen
+**Genre cues:** fantasy, fairy-tale, folk-horror
 
