@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["chimera", "flight", "wings", "sky", "beast", "monster", "lion", "hybrid-creature", "mythology", "soaring", "clouds", "feathered-wings"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "no-face", "action-pose", "creature-chimera", "flying", "trample", "multicolor-blue-red", "blue-magic", "red-magic", "instant-sorcery-matter"]
-reference_image: images/magic-the-gathering/theros/204-spellheart-chimera.png
+reference_image: cards/_images/magic-the-gathering/theros/204-spellheart-chimera.png
 average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![204-spellheart-chimera](../../../images/magic-the-gathering/theros/204-spellheart-chimera.png)
+![204-spellheart-chimera](../../_images/magic-the-gathering/theros/204-spellheart-chimera.png)
 
 A tawny, leonine chimera soars through a cloudy sky, its broad feathered wings spread mid-beat. The creature's musculature is taut and serpentine, its body twisted in a dynamic flight pose. Warm reddish-brown and amber tones dominate the figure, set against a softer blue-grey sky with diffuse clouds. The framing is tight on the creature, conveying motion and predatory grace. No human figures are present; the chimera fills the frame as a solo flying beast.
 

@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["knight", "sleep", "rainbow", "horse", "armor", "tournament", "enchantment-magic", "fairy-tale", "festival", "mounted-figure", "spell-effect"]
 tags_filter: ["group", "mid-shot", "three-quarter", "narrative-mode", "blue-magic", "enchantment", "aura", "scene-mode", "outdoor", "daytime", "crowd"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/40-charmed-sleep.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/40-charmed-sleep.png
 average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![40-charmed-sleep](../../../images/magic-the-gathering/throne-of-eldraine/40-charmed-sleep.png)
+![40-charmed-sleep](../../_images/magic-the-gathering/throne-of-eldraine/40-charmed-sleep.png)
 
 A knight in plate armor sits astride a large mount, head bowed and body slumped forward in enchanted slumber. A vivid rainbow arches across the sky above the scene, suggesting magic at work. Behind the central figure a crowd of onlookers and pavilions is just visible, framing the moment as a public spectacle — a tournament or festival interrupted by a sleep spell. The palette is dominated by cool blues and silvers in the foreground armor and magic, with warmer banner reds and earthy browns receding into the background. Lighting is soft and diffuse, with the rainbow providing the chromatic focus.
 

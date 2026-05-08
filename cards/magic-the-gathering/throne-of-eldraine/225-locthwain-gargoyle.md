@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["gargoyle", "stone", "statue", "castle", "tower", "gothic", "wings", "sentinel", "ruins", "fog", "guardian", "monochrome"]
 tags_filter: ["solo", "mid-shot", "portrait-mode", "no-face", "three-quarter", "artifact-creature", "colorless-magic", "flying", "common"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/225-locthwain-gargoyle.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/225-locthwain-gargoyle.png
 average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![225-locthwain-gargoyle](../../../images/magic-the-gathering/throne-of-eldraine/225-locthwain-gargoyle.png)
+![225-locthwain-gargoyle](../../_images/magic-the-gathering/throne-of-eldraine/225-locthwain-gargoyle.png)
 
 A weathered stone gargoyle crouches on the parapet of a tall, slender gothic spire, its body carved into a hunched, batlike pose with folded leathery wings and a long tail draping down the tower face. The creature's stone skin is deeply textured with cracks and lichen-stains. Behind and beside the central spire rise several more matching towers in the misty distance, their crenellated tops fading into a desaturated overcast sky. The palette is almost entirely grayscale — slate gray, ashen white, and pale stone — with no warm tones, evoking the still, cold quiet of an abandoned or ancient citadel. The composition is vertical and architectural, emphasizing the lonely height of the perch.
 

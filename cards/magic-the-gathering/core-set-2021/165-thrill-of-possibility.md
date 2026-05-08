@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["fire", "flame", "face", "portrait", "revelation", "inspiration", "creation", "epiphany", "vision", "ecstasy", "human-figure", "burning"]
 tags_filter: ["solo", "close-up", "forward-facing", "portrait-mode", "no-background-figures", "instant", "red-magic"]
-reference_image: images/magic-the-gathering/core-set-2021/165-thrill-of-possibility.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/165-thrill-of-possibility.png
 average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![165-thrill-of-possibility](../../../images/magic-the-gathering/core-set-2021/165-thrill-of-possibility.png)
+![165-thrill-of-possibility](../../_images/magic-the-gathering/core-set-2021/165-thrill-of-possibility.png)
 
 A close, almost claustrophobic image of a human face wreathed in fire and lava-like molten matter. The figure's eyes are wide open and the mouth is parted, conveying a charged moment of revelation, inspiration, or shock. Bright orange and yellow flames lick around the head, with darker red and crimson tones forming the cavernous backdrop. The composition feels like a vision or epiphany rendered as fire-birth, with the figure caught mid-realization rather than mid-action. The flavor text reinforces this as a moment-of-creation theme.
 

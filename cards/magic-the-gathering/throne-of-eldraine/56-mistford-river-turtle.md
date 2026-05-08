@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["turtle", "reptile", "fae", "sprite", "river", "water", "mist", "ferry", "journey", "wilderness", "tiny-rider", "giant-creature"]
 tags_filter: ["duo", "2-figures", "mid-shot", "faces-left", "scene-mode", "no-face-human", "creature-turtle", "blue-magic"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/56-mistford-river-turtle.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/56-mistford-river-turtle.png
 average_cost_paid: 0
 market_price: 0.19
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: ocean
 
 ## Vision
 
-![56-mistford-river-turtle](../../../images/magic-the-gathering/throne-of-eldraine/56-mistford-river-turtle.png)
+![56-mistford-river-turtle](../../_images/magic-the-gathering/throne-of-eldraine/56-mistford-river-turtle.png)
 
 A huge moss-backed river turtle moves through still, misty shallows, its olive-green shell mottled with darker patches and the suggestion of lichen or barnacle growth. Its long neck stretches forward, head turned slightly to the side, scaled limbs pushing through the water and trailing soft ripples. A diminutive winged fae figure stands on the crest of the shell like a passenger, dwarfed by the creature. The background dissolves into pale blue-grey mist over a calm waterway, with hints of distant reeds or shoreline barely visible. The whole image is rendered in cool blues, soft greens, and muted whites, giving a quiet, ferrying-across-the-water mood.
 

@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["knight", "warrior", "soldier", "swordsman", "armor", "sword", "training", "discipline", "veteran", "human-figure", "stone-hall", "duty"]
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "female-figure", "portrait-mode", "white-magic", "creature-human", "creature-knight", "indoor-scene"]
-reference_image: images/magic-the-gathering/core-set-2021/41-tempered-veteran.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/41-tempered-veteran.png
 average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![41-tempered-veteran](../../../images/magic-the-gathering/core-set-2021/41-tempered-veteran.png)
+![41-tempered-veteran](../../_images/magic-the-gathering/core-set-2021/41-tempered-veteran.png)
 
 A human knight in burnished steel plate armor stands in a stone hall lined with arched columns, gripping the hilt of a sheathed longsword at her hip. Her shoulder pauldrons are layered and her gauntlets match the cuirass. Short cropped hair, set jaw, eyes forward — the posture of a soldier mid-drill or about to draw. The architecture behind her is gothic-leaning with tall pillars and an arched vault, lit by cool ambient light that gives the scene a temple-or-armory feel. Color palette is dominated by cool steel grays, dusty blues, and the soft cream of the stonework, with warmer skin and hair tones grounding the figure.
 

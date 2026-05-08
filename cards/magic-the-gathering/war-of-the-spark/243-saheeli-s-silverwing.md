@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: images/magic-the-gathering/war-of-the-spark/243-saheeli-s-silverwing.png
+reference_image: cards/_images/magic-the-gathering/war-of-the-spark/243-saheeli-s-silverwing.png
 average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-07

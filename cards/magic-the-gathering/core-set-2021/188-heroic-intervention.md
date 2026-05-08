@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["hero", "rescue", "warrior", "cloak", "armor", "charge", "escape", "broken-chains", "polearm", "hood", "intervention", "defiance"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "action-pose", "single-figure", "green-magic", "instant", "no-creature"]
-reference_image: images/magic-the-gathering/core-set-2021/188-heroic-intervention.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/188-heroic-intervention.png
 average_cost_paid: 0
 market_price: 14.33
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![188-heroic-intervention](../../../images/magic-the-gathering/core-set-2021/188-heroic-intervention.png)
+![188-heroic-intervention](../../_images/magic-the-gathering/core-set-2021/188-heroic-intervention.png)
 
 A heroic figure in plated armor and a billowing pale-green hooded cloak lunges forward, head turned aside as a tangle of dark web-like strands snaps and tears around them. Long blond or pale hair streams behind. A weapon — likely a glaive or spear — is gripped in motion. The figure dominates the frame with a sense of explosive forward momentum, breaking free of entrapment. The background is a wash of muted greens and cool greys with the suggestion of broken net strands radiating outward, lit with soft diffuse light that haloes the figure.
 

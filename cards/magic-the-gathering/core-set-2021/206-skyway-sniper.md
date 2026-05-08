@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["elf", "archer", "bow", "hunter", "forest", "treetop", "ranger", "ambush", "marksman", "canopy", "hood", "scout"]
 tags_filter: ["solo", "mid-shot", "faces-left", "action-mode", "green-magic", "creature-elf", "creature-archer", "reach", "female-figure"]
-reference_image: images/magic-the-gathering/core-set-2021/206-skyway-sniper.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/206-skyway-sniper.png
 average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![206-skyway-sniper](../../../images/magic-the-gathering/core-set-2021/206-skyway-sniper.png)
+![206-skyway-sniper](../../_images/magic-the-gathering/core-set-2021/206-skyway-sniper.png)
 
 A lithe elven archer kneels on a thick mossy branch high in the forest canopy, bow drawn taut, arrow pointed up and to the left toward something above the frame. The archer wears layered green and brown leather garments with a hooded cloak draped over the shoulders, blending into the surrounding foliage. Sun-dappled leaves and slender tree trunks fill the middle ground; lower branches and a soft blue-green sky are visible beyond, suggesting great height. Lighting is soft and diffuse, filtered through leaves, with warm highlights on the archer's face and arms. The pose is poised, focused, mid-aim — a sniper's stillness rather than action mid-release.
 

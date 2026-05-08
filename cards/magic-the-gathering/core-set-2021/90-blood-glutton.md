@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["vampire", "blood", "hunt", "predator", "feeding", "fangs", "claws", "forest", "night", "horror", "gothic", "kill"]
 tags_filter: ["duo", "mid-shot", "forward-facing", "scene-mode", "creature-vampire", "black-magic", "lifegain", "common"]
-reference_image: images/magic-the-gathering/core-set-2021/90-blood-glutton.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/90-blood-glutton.png
 average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![90-blood-glutton](../../../images/magic-the-gathering/core-set-2021/90-blood-glutton.png)
+![90-blood-glutton](../../_images/magic-the-gathering/core-set-2021/90-blood-glutton.png)
 
 A pale, gaunt vampire is hunched in a low predator's crouch in a moonless wood, mouth open wide to reveal a row of fangs as it lunges over a fresh kill. The figure's skin reads almost bone-white against the deep black-and-crimson palette of the scene; long taloned fingers are dug into the body beneath it. A tattered dark cloak or membranous bat-wing silhouette flares behind the shoulders. Spatters and pooling blood pick up the only warm color in the piece, glowing red against near-black foliage and trunks. The composition is tight and centered, framing the vampire's snarling face and clawed hands as the focal point with the victim half-obscured in shadow.
 

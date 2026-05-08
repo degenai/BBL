@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["warrior", "knight", "swordsman", "robed-figure", "armor", "sword", "scimitar", "light", "radiance", "defender", "heroism", "holy"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "action-mode", "female-figure", "white-magic", "instant", "combat-trick", "protection", "plus-one-counter"]
-reference_image: images/magic-the-gathering/core-set-2021/19-feat-of-resistance.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/19-feat-of-resistance.png
 average_cost_paid: 0
 market_price: 0.25
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![19-feat-of-resistance](../../../images/magic-the-gathering/core-set-2021/19-feat-of-resistance.png)
+![19-feat-of-resistance](../../_images/magic-the-gathering/core-set-2021/19-feat-of-resistance.png)
 
 A solitary figure stands centered in the frame, body torqued into a defensive brace as a wash of pale light explodes around them. They are clad in white robes layered with gold-trimmed armor at the shoulders and waist. One arm sweeps a curved sword high overhead while the other is held forward as if warding off an unseen blow. Long hair whips back in the radiance. The background dissolves into a near-white burst of magical energy with faint warm tones at the edges, leaving the figure haloed and almost weightless. Composition is vertical and heroic, lighting is blown-out and radiant, palette is dominated by white, cream, gold, and pale yellow.
 

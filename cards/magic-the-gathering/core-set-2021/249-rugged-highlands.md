@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["mountain", "forest", "lake", "wilderness", "landscape", "peaks", "evergreen", "valley", "reflection", "alpine", "river", "vista"]
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "dual-land", "red-magic-green-magic", "daytime"]
-reference_image: images/magic-the-gathering/core-set-2021/249-rugged-highlands.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/249-rugged-highlands.png
 average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![249-rugged-highlands](../../../images/magic-the-gathering/core-set-2021/249-rugged-highlands.png)
+![249-rugged-highlands](../../_images/magic-the-gathering/core-set-2021/249-rugged-highlands.png)
 
 A wide landscape painting: in the background, towering grey-blue mountain peaks with snow-streaked ridges climb into a soft, partly cloudy sky. The mid-ground transitions into rolling forested foothills covered in evergreens and deciduous trees in fresh green. A wide, calm body of water — a lake or slow river — stretches across the foreground, mirroring the peaks and the pale sky. Scattered conifers cluster along the near shore. There are no figures, structures, or creatures present. The composition is open, panoramic, and naturalistic, evoking pristine wilderness.
 

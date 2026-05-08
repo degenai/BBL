@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["broom", "enchanted-object", "animated-object", "household-tool", "fairy-tale", "folklore", "witchcraft", "magic-apprentice", "servant", "labor", "uncanny"]
 tags_filter: ["solo", "no-face", "mid-shot", "portrait-mode", "forward-facing", "indoor-setting", "artifact", "creature-spirit", "colorless-magic", "sorcery", "no-figure"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/232-sorcerer-s-broom.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/232-sorcerer-s-broom.png
 average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![232-sorcerer-s-broom](../../../images/magic-the-gathering/throne-of-eldraine/232-sorcerer-s-broom.png)
+![232-sorcerer-s-broom](../../_images/magic-the-gathering/throne-of-eldraine/232-sorcerer-s-broom.png)
 
 A single enchanted broom dominates the frame, standing upright on a tiled or flagstone floor inside a dimly lit chamber. Its bristles are a wild tangle of dark, dry twigs splayed at the top, lashed to a knotted wooden handle that tapers to the floor. The broom is alone — no figure holds or wields it — yet it reads as alert, posed, faintly menacing in the way a thing that should be still but isn't. Light is low and warm-brown, falling from the upper left and casting a soft shadow behind the broom. The background is a muted wash of indoor architecture: a wall, possibly a doorway or hearth opening, all rendered loosely in earthy umbers and ochres. The mood is folkloric and slightly eerie, classic fairy-tale enchanted-object territory.
 

@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["gnome", "construct", "stitched", "patchwork", "salvage", "workshop", "trash", "reanimation", "grotesque", "wizard", "abomination"]
 tags_filter: ["duo", "2-figures", "mid-shot", "portrait-mode", "three-quarter-facing", "no-face-clear", "artifact", "creature-gnome", "black-magic", "regenerate", "discard-cost"]
-reference_image: images/magic-the-gathering/ultimate-masters/231-patchwork-gnomes.png
+reference_image: cards/_images/magic-the-gathering/ultimate-masters/231-patchwork-gnomes.png
 average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![231-patchwork-gnomes](../../../images/magic-the-gathering/ultimate-masters/231-patchwork-gnomes.png)
+![231-patchwork-gnomes](../../_images/magic-the-gathering/ultimate-masters/231-patchwork-gnomes.png)
 
 Two grotesque gnome-sized constructs stand close together in a cluttered, dimly lit workshop. The taller figure on the left is a stitched-together body of mismatched flesh and cloth in tan and orange tones, with visible seams, asymmetric limbs, and a crude head turned in profile. A smaller hunched companion in front is similarly cobbled together from scavenged parts. The background is a brown-grey chamber crowded with indistinct tools, shelves, or workbench debris, painted in muddy sepia tones. The overall feel is shabby, makeshift, and faintly comedic — these are a wizard's discarded creations brought back into service.
 

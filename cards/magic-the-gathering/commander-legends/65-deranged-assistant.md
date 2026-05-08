@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["wizard", "assistant", "laboratory", "alchemy", "mad-scientist", "madness", "specimens", "potions", "research", "obsession", "robed-figure", "scholar", "horror", "indoor-scene"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "male-figure", "creature-human", "creature-wizard", "blue-magic", "mill", "common"]
-reference_image: images/magic-the-gathering/commander-legends/65-deranged-assistant.png
+reference_image: cards/_images/magic-the-gathering/commander-legends/65-deranged-assistant.png
 average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: indoor
 
 ## Vision
 
-![65-deranged-assistant](../../../images/magic-the-gathering/commander-legends/65-deranged-assistant.png)
+![65-deranged-assistant](../../_images/magic-the-gathering/commander-legends/65-deranged-assistant.png)
 
 A balding, hollow-cheeked human assistant with enormous bulging eyes and a deranged, fixated expression hunches forward in a laboratory crammed with glass jars, beakers, flasks, and bottled specimens. The lighting is cool blue-cyan with hints of teal and pale violet, giving the scene an icy, clinical, slightly nauseous quality. Shelves and racks behind him hold rows of containers and arcane apparatus. His robes and skin are pallid; the overall mood is unsettling, manic, and obsessive — a lab assistant who has clearly lost his grip.
 

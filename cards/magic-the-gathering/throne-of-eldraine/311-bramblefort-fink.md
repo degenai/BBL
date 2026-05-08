@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["ouphe", "fey", "trickster", "brambles", "thorns", "forest", "hidden-figure", "grin", "mischief", "goblin-kin", "thicket", "magic-hour"]
 tags_filter: ["solo", "close-up", "forward-facing", "portrait-mode", "creature-ouphe", "green-magic", "1-figure", "no-clothing"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/311-bramblefort-fink.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/311-bramblefort-fink.png
 average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: forest
 
 ## Vision
 
-![311-bramblefort-fink](../../../images/magic-the-gathering/throne-of-eldraine/311-bramblefort-fink.png)
+![311-bramblefort-fink](../../_images/magic-the-gathering/throne-of-eldraine/311-bramblefort-fink.png)
 
 A small, mischievous ouphe with mottled green skin, long pointed ears, and a wide grinning mouth crouches inside a tangled stronghold of thorny brambles and twisted vines. Its dark beady eyes catch the light as it leers at the viewer, partially hidden behind the dense thicket that frames it like a natural fortification. Warm golden-orange light filters through the foliage from behind, casting the brambles in silhouette and illuminating the creature's sly expression. The composition is tight and claustrophobic, all foreground tangle and ambient forest glow.
 

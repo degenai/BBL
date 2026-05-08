@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["cat", "cat-folk", "cleric", "priest", "robed-figure", "holy-light", "healing", "magic", "battlefield", "banners", "devotion", "blessing"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "portrait-mode", "creature-cat", "creature-cleric", "white-magic", "lifegain", "common", "female-figure-ambiguous", "no-architecture", "daytime"]
-reference_image: images/magic-the-gathering/core-set-2021/8-basri-s-acolyte.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/8-basri-s-acolyte.png
 average_cost_paid: 0
 market_price: 0.23
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![8-basri-s-acolyte](../../../images/magic-the-gathering/core-set-2021/8-basri-s-acolyte.png)
+![8-basri-s-acolyte](../../_images/magic-the-gathering/core-set-2021/8-basri-s-acolyte.png)
 
 A humanoid feline cleric stands in three-quarter profile on a battlefield, wearing layered white robes with gold trim and a hooded mantle suggestive of priestly or paladin regalia. The cat figure has cream-white fur, large blue eyes, and an alert, devout expression. In their right hand they cradle a softly radiant orb of blue-white light, the magic emitting visible motes and a halo glow. Behind them, weathered banners and standards of various colors are planted into churned dirt and grass, implying the aftermath or staging ground of a battle. The lighting is soft and ambient, with a pale daytime sky and a warm tan horizon, giving the scene a calm, sanctified mood despite the martial setting.
 

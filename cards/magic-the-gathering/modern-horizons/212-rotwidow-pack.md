@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["spider", "swarm", "forest", "decay", "rot", "infestation", "arachnid", "undergrowth", "predator", "horror", "venom", "pack"]
 tags_filter: ["group", "wide-shot", "scene-mode", "forward-facing", "no-face", "creature-spider", "green-magic-black-magic", "multicolor-green-black", "reach", "graveyard-recursion", "token-generator"]
-reference_image: images/magic-the-gathering/modern-horizons/212-rotwidow-pack.png
+reference_image: cards/_images/magic-the-gathering/modern-horizons/212-rotwidow-pack.png
 average_cost_paid: 0
 market_price: 0.35
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: forest
 
 ## Vision
 
-![212-rotwidow-pack](../../../images/magic-the-gathering/modern-horizons/212-rotwidow-pack.png)
+![212-rotwidow-pack](../../_images/magic-the-gathering/modern-horizons/212-rotwidow-pack.png)
 
 A teeming cluster of huge, hairy spiders sprawls across the foreground of a sickly forest floor. The lead spider looms in front, its segmented legs and bristled body catching dim light, fangs and pedipalps prominent. Behind and beside it, more spiders pile and overlap in a writhing pack, half-buried in carpets of dead leaves, rotted bark, and broken twigs. The palette is muted green-yellow and brown, giving the scene a feverish, decayed quality. Background recedes into murky woodland with skeletal branches and shadowed undergrowth. The overall composition is dense, low-angle, and claustrophobic — a horror-of-nature swarm tableau.
 

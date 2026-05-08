@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["golem", "construct", "crystal", "prism", "underground", "cavern", "ruins", "small-figure", "stone", "darkness", "solitude"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "no-face", "artifact-creature", "colorless-magic", "mana-fixing", "artifact"]
-reference_image: images/magic-the-gathering/war-of-the-spark/242-prismite.png
+reference_image: cards/_images/magic-the-gathering/war-of-the-spark/242-prismite.png
 average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: dungeon
 
 ## Vision
 
-![242-prismite](../../../images/magic-the-gathering/war-of-the-spark/242-prismite.png)
+![242-prismite](../../_images/magic-the-gathering/war-of-the-spark/242-prismite.png)
 
 The art is dim and brooding, dominated by deep blacks and muted earth tones. A small angular crystalline figure — the prismite golem — occupies the lower-center frame, its faceted body catching what little light reaches the scene. The background suggests a vast underground cavern or ruined hall, with vague architectural shapes dissolving into shadow. A subtle cool glow emanates from the figure itself, the prismatic refractions hinting at all five colors of mana the creature can channel, but the overall tonality is dark and stony. There is a sense of solitude and quiet vigilance — a small constructed thing waiting in the dark.
 

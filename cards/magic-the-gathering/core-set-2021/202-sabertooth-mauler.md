@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["cat", "big-cat", "sabertooth", "tiger", "predator", "fangs", "claws", "jungle", "wilderness", "prehistoric-beast", "snarl", "hunt"]
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "faces-left", "action-mode", "no-figure", "creature-cat", "green-magic", "mono-green"]
-reference_image: images/magic-the-gathering/core-set-2021/202-sabertooth-mauler.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/202-sabertooth-mauler.png
 average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![202-sabertooth-mauler](../../../images/magic-the-gathering/core-set-2021/202-sabertooth-mauler.png)
+![202-sabertooth-mauler](../../_images/magic-the-gathering/core-set-2021/202-sabertooth-mauler.png)
 
 A muscular striped sabertooth cat dominates the foreground, body coiled low against weathered grey stone, mouth open wide to display oversized white fangs. Its forepaw is lifted and extended toward the viewer, claws splayed in a strike pose. Tawny orange-brown fur is broken by darker tiger stripes along the back and limbs. The background is a hazy green-yellow jungle clearing with soft suggestions of foliage and tall grass, bathed in warm diffused daylight. Composition is mid-shot, with the cat angled three-quarter facing left and slightly toward the viewer.
 

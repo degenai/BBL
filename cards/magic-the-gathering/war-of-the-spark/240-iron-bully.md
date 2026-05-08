@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["golem", "construct", "iron", "chains", "forge", "fire", "smoke", "armor", "industrial", "menace", "bully", "machine"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "creature-construct", "creature-golem", "colorless", "artifact-creature", "menace-keyword"]
-reference_image: images/magic-the-gathering/war-of-the-spark/240-iron-bully.png
+reference_image: cards/_images/magic-the-gathering/war-of-the-spark/240-iron-bully.png
 average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: indoor
 
 ## Vision
 
-![240-iron-bully](../../../images/magic-the-gathering/war-of-the-spark/240-iron-bully.png)
+![240-iron-bully](../../_images/magic-the-gathering/war-of-the-spark/240-iron-bully.png)
 
 A massive humanoid golem stands in a dim industrial space, its body welded together from sheets of blackened iron plating riveted at the seams. Sharp jagged spikes jut from its shoulders and forearms, and heavy lengths of chain drape across its torso and limbs. A fierce orange-red light burns from inside its chest, leaking through gaps in the armor and casting hot glows around its hunched silhouette. Its head is faceless, more helmet than face, lit from within by the same furnace glow. The background is murky grey-blue smoke or industrial haze, with vague suggestions of forges or scaffolding behind it. The figure looms forward, posture aggressive and bullying.
 

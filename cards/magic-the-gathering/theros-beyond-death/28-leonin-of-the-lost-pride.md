@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["cat", "lion", "warrior", "knight", "cavalry", "mount", "underworld", "afterlife", "ghost", "shield", "armor", "charge", "pride"]
 tags_filter: ["duo", "2-figures", "mid-shot", "faces-right", "scene-mode", "action-mode", "no-face-human", "creature-cat", "creature-warrior", "white-magic", "mounted", "mythic"]
-reference_image: images/magic-the-gathering/theros-beyond-death/28-leonin-of-the-lost-pride.png
+reference_image: cards/_images/magic-the-gathering/theros-beyond-death/28-leonin-of-the-lost-pride.png
 average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![28-leonin-of-the-lost-pride](../../../images/magic-the-gathering/theros-beyond-death/28-leonin-of-the-lost-pride.png)
+![28-leonin-of-the-lost-pride](../../_images/magic-the-gathering/theros-beyond-death/28-leonin-of-the-lost-pride.png)
 
 A maned leonin warrior in red-and-gold Theran armor rides a powerful leonin steed forward and slightly to the right, brandishing a round shield emblazoned with a sun motif. The rider's mane and the mount's mane both flow back as if charging into wind. Behind them, the cool blue-teal void of the Underworld stretches out, dotted with pale, ghostly silhouettes of other riders fading into the distance. The composition is dynamic and heroic, with hot reds and warm golds in the foreground reading sharply against the cold ethereal blues of the afterlife setting. Lighting is rim-lit and slightly otherworldly, suggesting the spectral light of Theros's land of the dead.
 

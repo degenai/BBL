@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["fountain", "water", "sunlight", "plaza", "monument", "sanctuary", "pilgrimage", "mercy", "healing", "stone", "classical-architecture", "light-rays"]
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "colorless", "daytime", "architectural"]
-reference_image: images/magic-the-gathering/core-set-2021/248-radiant-fountain.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/248-radiant-fountain.png
 average_cost_paid: 0
 market_price: 0.21
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![248-radiant-fountain](../../../images/magic-the-gathering/core-set-2021/248-radiant-fountain.png)
+![248-radiant-fountain](../../_images/magic-the-gathering/core-set-2021/248-radiant-fountain.png)
 
 A grand outdoor fountain occupies a sunlit stone plaza. A tall, slender obelisk-like central spire rises from a tiered pool, surrounded by classical columns, arches, and pale carved masonry. Water pours down the structure into a wide basin, catching the light. Brilliant rays of sun stream down from above, washing the architecture in warm white-gold and casting long soft shadows across the flagstones. There are no figures present — the scene is architectural and contemplative, evoking a sacred or ceremonial public space.
 

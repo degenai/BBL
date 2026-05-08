@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["cat", "antlers", "mountain", "peak", "omen", "prophecy", "famine", "death", "chimera", "predator", "wilderness", "solitude"]
 tags_filter: ["solo", "mid-shot", "faces-right", "portrait-mode", "no-face-human", "creature-cat", "artifact-creature", "colorless", "common", "scry"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/227-prophet-of-the-peak.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/227-prophet-of-the-peak.png
 average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![227-prophet-of-the-peak](../../../images/magic-the-gathering/throne-of-eldraine/227-prophet-of-the-peak.png)
+![227-prophet-of-the-peak](../../_images/magic-the-gathering/throne-of-eldraine/227-prophet-of-the-peak.png)
 
 A skeletal feline creature stands in profile atop a craggy mountain summit. Its body is unmistakably a large cat — long sinuous spine, lashing tail, padded paws — but its head sprouts a tall rack of forked antlers like a stag's, and its ribs press visibly through patchy hide. The palette is muted: ash-grey and bone-beige fur, dusty stone, a washed pale sky behind. The creature's posture is alert and predatory, gaunt but vigilant, lit with soft overcast daylight that flattens the scene into something stark and ominous. There is no other figure present — the prophet stands alone on the peak.
 

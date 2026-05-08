@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["ranger", "archer", "bow", "arrow", "hunter", "forest", "ambush", "stealth", "tree", "red-hair", "wilderness", "scout"]
 tags_filter: ["solo", "mid-shot", "faces-left", "scene-mode", "female-figure", "action-pose", "green-magic", "instant", "combat-trick", "hexproof"]
-reference_image: images/magic-the-gathering/core-set-2021/199-ranger-s-guile.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/199-ranger-s-guile.png
 average_cost_paid: 0
 market_price: 0.24
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![199-ranger-s-guile](../../../images/magic-the-gathering/core-set-2021/199-ranger-s-guile.png)
+![199-ranger-s-guile](../../_images/magic-the-gathering/core-set-2021/199-ranger-s-guile.png)
 
 A lean ranger with long flowing red hair leans out from behind a mossy tree trunk, bow fully drawn at chest level with an arrow nocked and aimed forward. The figure wears layered earth-toned cloth and leather: a sleeveless tunic, wrapped forearms, and loose pants tucked into boots. A quiver is slung at the back. The pose is taut, predatory, mid-ambush. The forest around them is dense and gloomy — bare branches, dappled grey-green light filtering through canopy, broken twigs and undergrowth. The palette is muted greens, browns, and ash-grey, with the ranger's red hair as the only warm accent. Lighting is overcast and diffuse, suggesting a shaded woodland under a hidden sun.
 

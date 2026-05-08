@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["soldier", "protector", "boros", "righteous", "hero", "guardian", "warrior", "armor", "sword", "shield", "duty", "service-worker", "gold", "knight", "legion", "charging", "sun"]
 tags_filter: ["mid-shot", "action-mode", "solo", "three-quarter-facing", "instant", "white-mono", "male-figure", "common", "white-magic", "red-magic"]
-reference_image: images/magic-the-gathering/core-set-2021/15-defiant-strike.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/15-defiant-strike.png
 average_cost_paid: 0
 market_price: 0.16
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![15-defiant-strike](../../../images/magic-the-gathering/core-set-2021/15-defiant-strike.png)
+![15-defiant-strike](../../_images/magic-the-gathering/core-set-2021/15-defiant-strike.png)
 
 A male warrior in red-and-gold (Boros) plate armor charges forward with longsword raised and round shield braced. Plate is etched with sun emblems; cape billows behind him. Golden-white sunburst light radiates around the figure. Mood is righteous, heroic, unstoppable. Flavor text frames him as a single defender: 'My family was saved thanks to a single Boros soldier. It's why I joined the Legion. I will be the protector now.' Protector / guardian archetype.
 

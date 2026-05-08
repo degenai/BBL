@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["bird", "hummingbird", "phyrexian", "biomechanical", "machine", "wings", "flight", "compleation", "body-horror", "tiny-creature", "needle", "chrome"]
 tags_filter: ["solo", "close-up", "portrait-mode", "faces-left", "no-face", "creature-bird-horror", "blue-magic", "flying", "proliferate"]
-reference_image: images/magic-the-gathering/mystery-booster-cards/52-thrummingbird.png
+reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/52-thrummingbird.png
 average_cost_paid: 0
 market_price: 0.32
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![52-thrummingbird](../../../images/magic-the-gathering/mystery-booster-cards/52-thrummingbird.png)
+![52-thrummingbird](../../_images/magic-the-gathering/mystery-booster-cards/52-thrummingbird.png)
 
 A delicate Phyrexian construct shaped like a hummingbird hovers in profile, its body a smooth bluish-chrome carapace with biomechanical detailing. The wings are blurred with motion, rendered as translucent membranes that catch the light. A long needle beak juts forward. The background is a haze of icy blues and steel grays, suggesting a cold metallic Phyrexian environment with a polished curved structure occupying the lower portion of the frame. The composition is intimate and focused, almost like a nature illustration of a corrupted machine creature.
 

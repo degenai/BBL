@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["amulet", "talisman", "jewelry", "gemstone", "travel", "journey", "wayfaring", "mountains", "wilderness", "horizon", "artifact-object", "relic"]
 tags_filter: ["no-figure", "object-mode", "close-up", "centered", "forward-facing", "colorless-magic", "artifact", "common", "land-search"]
-reference_image: images/magic-the-gathering/theros/221-traveler-s-amulet.png
+reference_image: cards/_images/magic-the-gathering/theros/221-traveler-s-amulet.png
 average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![221-traveler-s-amulet](../../../images/magic-the-gathering/theros/221-traveler-s-amulet.png)
+![221-traveler-s-amulet](../../_images/magic-the-gathering/theros/221-traveler-s-amulet.png)
 
 A finely-wrought amulet hangs in the foreground, its centerpiece a luminous teal-blue cabochon stone framed by symmetrical filigree scrollwork in warm bronze or weathered gold. The pendant fills most of the frame, presented like a museum object. Behind it stretches a wide, hazy vista of arid hills and distant mountains under a pale, muted sky — a traveler's-eye view suggesting open country and long roads. The lighting is diffuse and atmospheric, giving the scene a sun-bleached, overcast quality.
 

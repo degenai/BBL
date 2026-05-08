@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["knight", "warrior", "hammer", "beard", "forest", "battle-cry", "armor", "stone", "arthurian", "fairy-tale", "strength", "combat"]
 tags_filter: ["solo", "mid-shot", "action-mode", "three-quarter-facing", "male-figure", "creature-human", "creature-knight", "legendary-creature", "green-magic", "mono-green"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/177-syr-faren-the-hengehammer.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/177-syr-faren-the-hengehammer.png
 average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![177-syr-faren-the-hengehammer](../../../images/magic-the-gathering/throne-of-eldraine/177-syr-faren-the-hengehammer.png)
+![177-syr-faren-the-hengehammer](../../_images/magic-the-gathering/throne-of-eldraine/177-syr-faren-the-hengehammer.png)
 
 A burly bearded knight clad in dark green plate armor with gold trim swings a colossal hammer whose head appears to be a roughly hewn standing stone — a literal henge weapon. His mouth is open in a battle cry, beard and hair streaming, and motion lines and dust trail the hammer's arc. The background is a sun-dappled forest with green foliage and shafts of warm light filtering through, suggesting a woodland skirmish. The composition is action-driven, mid-shot, with the figure cropped at the thighs and the hammer head dominating the upper-right of the frame.
 

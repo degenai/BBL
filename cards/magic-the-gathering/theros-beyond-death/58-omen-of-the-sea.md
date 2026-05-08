@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["ocean", "sea", "merfolk", "triton", "ritual", "summoning", "coral", "waves", "prophecy", "omen", "water", "rising-tide", "red-hair"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face-visible-detail", "blue-magic", "enchantment", "scry"]
-reference_image: images/magic-the-gathering/theros-beyond-death/58-omen-of-the-sea.png
+reference_image: cards/_images/magic-the-gathering/theros-beyond-death/58-omen-of-the-sea.png
 average_cost_paid: 0
 market_price: 0.23
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: ocean
 
 ## Vision
 
-![58-omen-of-the-sea](../../../images/magic-the-gathering/theros-beyond-death/58-omen-of-the-sea.png)
+![58-omen-of-the-sea](../../_images/magic-the-gathering/theros-beyond-death/58-omen-of-the-sea.png)
 
 A solitary aquatic figure emerges from a churning blue sea, viewed from the chest up. The figure has pale, almost translucent skin and a crown of vivid red-orange coral-like hair that radiates outward in tendrils, evoking both a sea anemone and a merfolk's regalia. Arms are lifted in an invocational or summoning gesture. The water around the figure swirls in waves of deep blue and turquoise, with crests and spray suggesting an active, rising tide. The lighting is cool and aquatic, with rim light catching the figure's silhouette against the deeper blue background. The composition is centered and frontal, giving a portrait-like, ritualistic feel.
 

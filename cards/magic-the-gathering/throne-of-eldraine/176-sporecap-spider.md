@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["spider", "witch", "forest", "fairy-tale", "mushroom", "skull", "aftermath", "death", "armor", "battle", "moss", "fae", "decay", "predator", "fungus", "creep", "graveyard"]
 tags_filter: ["wide-shot", "scene-mode", "faces-left", "creature-spider", "green-mono", "common"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/176-sporecap-spider.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/176-sporecap-spider.png
 average_cost_paid: 0
 market_price: 0.23
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: forest
 
 ## Vision
 
-![176-sporecap-spider](../../../images/magic-the-gathering/throne-of-eldraine/176-sporecap-spider.png)
+![176-sporecap-spider](../../_images/magic-the-gathering/throne-of-eldraine/176-sporecap-spider.png)
 
 A large spider crouches in a moss-strewn forest clearing, its segmented body covered in pale mushroom caps. Skulls and broken armor litter the ground around it — the aftermath of a battle the spider seems to have won. In the misty background two cloaked, conical-hatted witch silhouettes are barely visible between trees. Palette is mossy greens and bruised browns; mood is grim and fairy-tale-dark.
 

@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["cyclops", "comic-relief", "menace", "monster", "desert", "crew", "skull", "bones", "weapon", "muscle", "humor", "club", "gang", "brute", "canyon"]
 tags_filter: ["mid-shot", "narrative-mode", "group", "forward-facing", "creature-cyclops", "red-mono", "male-figure", "common", "red-magic"]
-reference_image: images/magic-the-gathering/core-set-2021/132-bone-pit-brute.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/132-bone-pit-brute.png
 average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: desert
 
 ## Vision
 
-![132-bone-pit-brute](../../../images/magic-the-gathering/core-set-2021/132-bone-pit-brute.png)
+![132-bone-pit-brute](../../_images/magic-the-gathering/core-set-2021/132-bone-pit-brute.png)
 
 A huge muscular cyclops with a single bright eye grins broadly while raising both arms in a welcoming gesture; behind and beside him a group of smaller, similarly one-eyed brutes laugh and cheer. Bones and broken weapons scatter the sand. Color palette is sun-bleached oranges, ochres, and warm skin tones. Mood is rowdy, bullying camaraderie — the flavor text 'Welcome to the club' makes the in-group/initiation read explicit. Comedic in a menacing-bro way.
 

@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["sunset", "sun", "horizon", "plains", "landscape", "pastoral", "path", "wilderness", "golden-hour", "vista", "open-sky", "solitude"]
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "basic-land", "white-magic", "landscape-only", "no-face"]
-reference_image: images/magic-the-gathering/core-set-2021/260-plains.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/260-plains.png
 average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![260-plains](../../../images/magic-the-gathering/core-set-2021/260-plains.png)
+![260-plains](../../_images/magic-the-gathering/core-set-2021/260-plains.png)
 
 A panoramic landscape vista. The sun hangs low at the center horizon, blazing white-gold and casting radial rays across a sky that gradients from pale yellow at the sun to deep amber and burnt orange at the upper edges. A path or thin watercourse runs from the foreground straight back to the sun, reflecting its light. The foreground is rendered in dark silhouette — flat grassland, low brush, and a few small dark shapes that read as tufted vegetation or distant markers. No figures, no architecture, no creatures visible. The mood is quiet, expansive, contemplative — pure landscape with the sun as the sole focal point.
 

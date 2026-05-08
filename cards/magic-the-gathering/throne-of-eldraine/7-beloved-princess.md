@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["princess", "royalty", "fairytale", "rabbit", "forest", "young-woman", "auburn-hair", "storybook", "noble", "animal-companion", "kindness", "magic-hour"]
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "portrait-mode", "female-figure", "white-magic", "creature-human", "lifegain", "unblockable-conditional"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/7-beloved-princess.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/7-beloved-princess.png
 average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![7-beloved-princess](../../../images/magic-the-gathering/throne-of-eldraine/7-beloved-princess.png)
+![7-beloved-princess](../../_images/magic-the-gathering/throne-of-eldraine/7-beloved-princess.png)
 
 A young princess stands in a sun-dappled forest glade, her long auburn hair flowing past her shoulders. She wears a storybook gown — pale blue skirt, white apron pinafore, and a brown laced bodice — the kind of dress you'd find in an illustrated fairytale. At her feet, a small white rabbit looks up at her attentively. Soft golden light filters through the trees behind her, washing the scene in a warm, gentle glow. Her posture is calm and approachable, head slightly tilted, conveying kindness rather than regality. The composition centers her against the green forest backdrop with the rabbit anchoring the lower foreground.
 

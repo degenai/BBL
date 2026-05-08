@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["singer", "cleric", "mercy", "service-worker", "golden-light", "music", "wings", "robed-figure", "comfort", "ritual", "voice", "song", "halo", "performance", "black-fantasy-figure", "labor", "devotion"]
 tags_filter: ["mid-shot", "portrait-mode", "solo", "forward-facing", "creature-cleric", "white-mono", "female-figure", "common", "white-magic"]
-reference_image: images/magic-the-gathering/core-set-2021/4-anointed-chorister.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/4-anointed-chorister.png
 average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![4-anointed-chorister](../../../images/magic-the-gathering/core-set-2021/4-anointed-chorister.png)
+![4-anointed-chorister](../../_images/magic-the-gathering/core-set-2021/4-anointed-chorister.png)
 
 A young Black woman in flowing white robes stands with arms raised and mouth open in song. Behind her, an aura of golden wings of light spreads outward. Soft golden light fills the scene. Mood is reverent, hopeful, gentle. Flavor text frames her vocation: 'I sing of benevolence and mercy, of golden wings bringing comfort to the meek and downtrodden.' Strong service-worker / spiritual-laborer read — singing comfort is her labor.
 

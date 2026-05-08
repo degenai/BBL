@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["wurm", "serpent", "monster", "city", "urban", "ruins", "destruction", "rampage", "underground", "emergence", "tower", "skyline"]
 tags_filter: ["solo", "wide-shot", "three-quarter", "scene-mode", "no-face", "creature-wurm", "green-magic", "action-pose", "daytime"]
-reference_image: images/magic-the-gathering/guildpact/no-num-streetbreaker-wurm.png
+reference_image: cards/_images/magic-the-gathering/guildpact/no-num-streetbreaker-wurm.png
 average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: urban
 
 ## Vision
 
-![no-num-streetbreaker-wurm](../../../images/magic-the-gathering/guildpact/no-num-streetbreaker-wurm.png)
+![no-num-streetbreaker-wurm](../../_images/magic-the-gathering/guildpact/no-num-streetbreaker-wurm.png)
 
 A massive tan-and-cream serpentine wurm erupts from the paved ground of a city street, its long body coiling skyward in a sinuous S-curve. The creature's jaws are wide open, revealing rows of teeth, and its lipless snout and ridged spinal plates catch the warm daylight. Stone slabs and rubble are flung outward from the point of breach, suggesting violent upheaval beneath the pavement. In the hazy background, a tall city tower or spire rises against an overcast tan-yellow sky. The palette is dominated by warm sandstone, ochre, and dusty cream tones with brown shadowing along the wurm's flanks.
 

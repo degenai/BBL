@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["magnet", "iron", "metal", "machine", "tool", "stone", "trap", "device", "forged-object", "mechanism"]
 tags_filter: ["no-face", "no-figure", "object-study", "centered-composition", "close-up", "symmetrical", "colorless-magic", "artifact-card", "still-life", "artifact"]
-reference_image: images/magic-the-gathering/modern-masters-2015/233-tumble-magnet.png
+reference_image: cards/_images/magic-the-gathering/modern-masters-2015/233-tumble-magnet.png
 average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![233-tumble-magnet](../../../images/magic-the-gathering/modern-masters-2015/233-tumble-magnet.png)
+![233-tumble-magnet](../../_images/magic-the-gathering/modern-masters-2015/233-tumble-magnet.png)
 
 A close, static study of a magical metal device: three curved black-iron prongs or hook-blades emerge from a central node in a triangular arrangement, anchored to a chunk of rough grey stone. The artifact has the worn, battered look of a forged industrial tool — pitted metal, rounded edges, no ornament. Background is a dim, smoky grey-brown wash with no figures or scenery, focusing all attention on the object. The composition is centered and symmetrical, with the three arms of the magnet forming a near-perfect tripod silhouette. Lighting is soft and ambient, picking out the curve of the metal and the texture of the stone but casting no harsh shadows.
 

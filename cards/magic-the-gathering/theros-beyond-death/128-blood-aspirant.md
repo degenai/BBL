@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["satyr", "drinking", "revel", "blood", "wine", "frenzy", "horn", "berserker", "fire", "greek-myth", "dionysian", "bare-chested", "ritual"]
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "male-figure", "action-mode", "red-magic", "creature-satyr", "creature-berserker"]
-reference_image: images/magic-the-gathering/theros-beyond-death/128-blood-aspirant.png
+reference_image: cards/_images/magic-the-gathering/theros-beyond-death/128-blood-aspirant.png
 average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![128-blood-aspirant](../../../images/magic-the-gathering/theros-beyond-death/128-blood-aspirant.png)
+![128-blood-aspirant](../../_images/magic-the-gathering/theros-beyond-death/128-blood-aspirant.png)
 
 A bare-chested satyr — human torso, goat legs with shaggy fur and cloven hooves — stands in a wide stance, head tilted back as he raises a long curved drinking horn high in his right hand. His left hand grips a stoppered flask filled with dark red liquid. Wild flame-red hair streams behind him. The figure is rendered in saturated reds and oranges, with the body lit warmly against a hazy crimson-and-ochre background that suggests heat, smoke, or the glow of a revel-fire. The composition is a single full-body figure in motion, evoking a Dionysian frenzy mid-drink.
 

@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["goblin", "warband", "weapons", "explosives", "warrior", "horde", "engineer", "machinery", "battle", "armor", "fantasy"]
 tags_filter: ["mid-shot", "forward-facing", "crowd", "scene-mode", "action-mode", "creature-goblin", "red-magic", "male-figure", "no-architecture"]
-reference_image: images/magic-the-gathering/modern-horizons/209-munitions-expert.png
+reference_image: cards/_images/magic-the-gathering/modern-horizons/209-munitions-expert.png
 average_cost_paid: 0
 market_price: 0.38
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![209-munitions-expert](../../../images/magic-the-gathering/modern-horizons/209-munitions-expert.png)
+![209-munitions-expert](../../_images/magic-the-gathering/modern-horizons/209-munitions-expert.png)
 
 A central red-skinned goblin hunches forward in the foreground, eyes narrowed and teeth bared in concentration as it cradles a large bronze-and-steel weapon bristling with valves and projectiles. The goblin wears patchwork armor in muted blue and bronze tones with leather straps and a metal helm. A chaotic press of additional goblins crowds behind and around it, their forms rendered loosely in warm reds, oranges, and rust browns, faces twisted in manic grins. Spiked weapons, rockets, and crooked metal contraptions jut up from the throng like a forest of improvised hardware. The palette is dominated by warm rust, ochre, and brick reds against cooler blue-grey accents on the central goblin's gear, with a hazy smoky background suggesting an industrial or battlefield setting.
 

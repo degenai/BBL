@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["desert", "canyon", "mountain", "mesa", "hoodoo", "rock-formation", "wilderness", "landscape", "badlands", "stone", "magic-hour", "vista"]
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "basic-land", "land", "red-magic"]
-reference_image: images/magic-the-gathering/core-set-2021/271-mountain-271.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/271-mountain-271.png
 average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: desert
 
 ## Vision
 
-![271-mountain-271](../../../images/magic-the-gathering/core-set-2021/271-mountain-271.png)
+![271-mountain-271](../../_images/magic-the-gathering/core-set-2021/271-mountain-271.png)
 
 A wide desert vista of weathered sandstone formations: tall freestanding rock spires and hoodoos in the mid-ground, larger mesa walls receding into the distance. The terrain is bare and arid, dotted with scattered scrub. Warm amber and ochre tones dominate the foreground stone, blending into a hazy gold-and-cream sky. No figures or creatures are visible. The vantage is slightly elevated, looking out across the canyon basin in a classic American Southwest composition. Light is diffuse and warm, suggesting late afternoon.
 

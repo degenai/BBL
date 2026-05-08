@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["treefolk", "forest", "ancient", "druid", "magic-hour", "mushroom", "wise", "tree", "moss", "vines", "elder", "wilderness", "fungus", "guardian", "verdant", "bark"]
 tags_filter: ["mid-shot", "portrait-mode", "solo", "forward-facing", "creature-treefolk", "green-mono", "common", "green-magic"]
-reference_image: images/magic-the-gathering/core-set-2021/187-gnarled-sage.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/187-gnarled-sage.png
 average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: forest
 
 ## Vision
 
-![187-gnarled-sage](../../../images/magic-the-gathering/core-set-2021/187-gnarled-sage.png)
+![187-gnarled-sage](../../_images/magic-the-gathering/core-set-2021/187-gnarled-sage.png)
 
 A treefolk druid stands tall in a forest glade. Its body is twisted weathered bark; its face is formed by hollows and burls; mushrooms cluster on its limbs; vines drape from its branch-arms. It walks slowly with one branch-arm raised. Background is a dim warm-green forest with golden light filtering through. Mood is wise, ancient, gentle — a forest elder out for a walk.
 

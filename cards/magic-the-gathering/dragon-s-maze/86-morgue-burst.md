@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: images/magic-the-gathering/dragon-s-maze/86-morgue-burst.png
+reference_image: cards/_images/magic-the-gathering/dragon-s-maze/86-morgue-burst.png
 average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-07

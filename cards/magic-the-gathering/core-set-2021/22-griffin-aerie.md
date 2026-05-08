@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["griffin", "wings", "flight", "sky", "tower", "cliff", "mountain", "nest", "aerie", "stone-architecture", "beasts", "freedom"]
 tags_filter: ["no-figure", "creature-absent", "wide-shot", "scene-mode", "group", "flying", "white-magic", "enchantment", "token-generator", "lifegain-trigger"]
-reference_image: images/magic-the-gathering/core-set-2021/22-griffin-aerie.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/22-griffin-aerie.png
 average_cost_paid: 0
 market_price: 0.32
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![22-griffin-aerie](../../../images/magic-the-gathering/core-set-2021/22-griffin-aerie.png)
+![22-griffin-aerie](../../_images/magic-the-gathering/core-set-2021/22-griffin-aerie.png)
 
 A bright daylight scene of a craggy stone aerie atop a sheer cliff. Several griffins — eagle-headed, lion-bodied creatures with broad feathered wings — wheel through the open sky, their plumage catching the sun. A stone tower or castellan's keep is visible perched on the rocky outcrop, suggesting a frontier outpost that has become host to the nesting flock. The palette is dominated by pale blues, soft whites, and warm tan stone, with the airy composition emphasizing height, freedom, and airborne motion.
 

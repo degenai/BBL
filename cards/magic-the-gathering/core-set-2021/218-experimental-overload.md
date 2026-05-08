@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["lightning", "electricity", "experiment", "laboratory", "explosion", "arcane-science", "alchemy", "energy", "chaos", "spell-casting", "magic-mishap", "indoor-scene"]
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "blue-magic", "red-magic", "multicolor-blue-red", "sorcery", "no-face", "action-shot"]
-reference_image: images/magic-the-gathering/core-set-2021/218-experimental-overload.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/218-experimental-overload.png
 average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![218-experimental-overload](../../../images/magic-the-gathering/core-set-2021/218-experimental-overload.png)
+![218-experimental-overload](../../_images/magic-the-gathering/core-set-2021/218-experimental-overload.png)
 
 The image is dominated by an explosive burst of electrical energy at center frame — jagged white-blue arcs of lightning fork out in every direction from a brilliant core, casting hard rim-light on a brick or stone wall behind. The whole scene is bathed in a violet-magenta atmospheric haze, suggesting smoke or arcane vapor lit by the discharge. There are no visible figures; the artwork is the event itself, with the architecture (a wall, possibly part of an enclosed laboratory or workshop) framing the chaos. The mood is one of barely-contained catastrophe, a science-as-magic moment of overload.
 

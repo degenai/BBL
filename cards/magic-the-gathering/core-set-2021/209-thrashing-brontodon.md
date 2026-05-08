@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["dinosaur", "beast", "jungle", "forest", "horns", "charge", "primal", "wildlife", "stampede", "fauna", "predator-warning"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "action-mode", "no-figure", "creature-dinosaur", "green-magic", "scene-mode"]
-reference_image: images/magic-the-gathering/core-set-2021/209-thrashing-brontodon.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/209-thrashing-brontodon.png
 average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![209-thrashing-brontodon](../../../images/magic-the-gathering/core-set-2021/209-thrashing-brontodon.png)
+![209-thrashing-brontodon](../../_images/magic-the-gathering/core-set-2021/209-thrashing-brontodon.png)
 
 A heavy-set ceratopsian dinosaur dominates the frame, its body painted in earthy reddish-brown tones with a striking red, orange, and yellow crested neck frill that fans out behind a horned face. The creature is mid-charge, head lowered, mouth slightly open, kicking up motion as it crashes through a verdant jungle. Lush green ferns and palmlike fronds press in from the foreground and background, with sunlight filtering down through a canopy to dapple the leaves and the dinosaur's hide. The palette is dominated by saturated jungle greens contrasted against the warm reds and oranges of the frill — a classic predator-warning silhouette against foliage. Mood is kinetic and primal, daylight bright but shadowed under canopy.
 

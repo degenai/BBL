@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["faerie", "trickster", "fae-court", "rogue", "comic-relief", "wings", "fae", "blade", "flying", "fairy-tale", "courtly", "menace", "mischief", "assassin"]
 tags_filter: ["mid-shot", "portrait-mode", "2-figures", "three-quarter-facing", "creature-faerie", "blue-mono", "common", "duo", "blue-magic"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/310-oko-s-accomplices.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/310-oko-s-accomplices.png
 average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![310-oko-s-accomplices](../../../images/magic-the-gathering/throne-of-eldraine/310-oko-s-accomplices.png)
+![310-oko-s-accomplices](../../_images/magic-the-gathering/throne-of-eldraine/310-oko-s-accomplices.png)
 
 Two slim faeries with iridescent wings and pale skin pose mid-air. The forward figure leans toward the viewer with a sly, knowing expression and a small dagger raised; the second figure hovers just behind in a more casual stance. Ornamental fae clothing of leaves and feathers; messy hair tossed by unseen wind. The palette is pale blues and lavender against a misty out-of-focus background. The vibe is mischievous, courtly-but-dangerous — flavor text reads they 'function as everything from assassins to jesters in the name of their fae king.'
 

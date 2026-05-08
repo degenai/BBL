@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["automaton", "construct", "robot", "golem", "workshop", "laboratory", "crystal", "magic-item", "shapeshifter", "alchemy", "arcane-technology"]
 tags_filter: ["duo", "2-figures", "mid-shot", "three-quarter-facing", "no-face", "scene-mode", "artifact", "creature-shapeshifter", "colorless-magic", "changeling"]
-reference_image: images/magic-the-gathering/modern-horizons/235-universal-automaton.png
+reference_image: cards/_images/magic-the-gathering/modern-horizons/235-universal-automaton.png
 average_cost_paid: 0
 market_price: 0.61
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![235-universal-automaton](../../../images/magic-the-gathering/modern-horizons/235-universal-automaton.png)
+![235-universal-automaton](../../_images/magic-the-gathering/modern-horizons/235-universal-automaton.png)
 
 A polished brass humanoid automaton stands in three-quarter view, its segmented metal plates catching warm light. Its featureless faceplate tilts toward a glowing violet crystalline shard clutched in its right hand — the shard radiates a soft purple glow that washes the figure's torso. A second, near-identical automaton stands further back in the dim workshop, partially obscured by shadow. The background reads as an interior space — laboratory or arcane workshop — rendered in cool blue-grey tones that contrast with the gold-warm foreground figure. The mood is quiet, investigative, almost reverent: a constructed being studying a piece of magical material.
 

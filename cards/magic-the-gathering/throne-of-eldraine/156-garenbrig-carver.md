@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["craftsman", "labor", "carpenter", "service-worker", "workshop", "wood", "tools", "artisan", "trade", "village", "craft", "humble-work", "interior", "carver"]
 tags_filter: ["mid-shot", "narrative-mode", "solo", "forward-facing", "creature-warrior", "green-mono", "male-figure", "common"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/156-garenbrig-carver.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/156-garenbrig-carver.png
 average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: indoor
 
 ## Vision
 
-![156-garenbrig-carver](../../../images/magic-the-gathering/throne-of-eldraine/156-garenbrig-carver.png)
+![156-garenbrig-carver](../../_images/magic-the-gathering/throne-of-eldraine/156-garenbrig-carver.png)
 
 A bearded man in green clothing leans over a worn wooden workbench in a cluttered workshop, carving wood with both hands. Tools and shavings are scattered around. Daylight comes through a side window. Palette is warm woodgrain greens and browns. Mood is focused, dignified labor. Flavor text frames him as the unsung craftsman: 'Countless knights of Garenbrig owe their lives to his peerless craftsmanship.'
 

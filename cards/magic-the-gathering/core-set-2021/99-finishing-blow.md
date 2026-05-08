@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["warrior", "hero", "monster", "serpent", "hydra", "battle", "killing-blow", "tentacles", "armor", "weapon", "underdog", "slayer"]
 tags_filter: ["duo", "scene-mode", "action", "three-quarter", "instant", "black-magic", "removal", "chiaroscuro", "no-face-visible-clearly"]
-reference_image: images/magic-the-gathering/core-set-2021/99-finishing-blow.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/99-finishing-blow.png
 average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![99-finishing-blow](../../../images/magic-the-gathering/core-set-2021/99-finishing-blow.png)
+![99-finishing-blow](../../_images/magic-the-gathering/core-set-2021/99-finishing-blow.png)
 
 A small armored warrior figure is poised atop the coiling, knotted body of a massive serpentine or tentacled creature, weapon held aloft as if about to deliver a finishing strike. The composition is dense and chaotic, with sinuous writhing forms filling the entire frame in browns, ochres, and muted earth tones. The hero figure is brightly lit against the tangled darker mass of the beast, drawing the eye to the moment of decisive violence. The art is rendered in a painterly fantasy style with heavy textures suggesting scale, sinew, and grit.
 

@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["waterfall", "forest", "tranquil", "lush", "cozy", "nature", "moss", "stream", "wild", "verdant", "sunlight", "green", "wilderness", "calm", "fern", "water"]
 tags_filter: ["wide-shot", "scene-mode", "no-figure", "land", "green-mono", "common"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/313-thornwood-falls.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/313-thornwood-falls.png
 average_cost_paid: 0
 market_price: 0.23
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: forest
 
 ## Vision
 
-![313-thornwood-falls](../../../images/magic-the-gathering/throne-of-eldraine/313-thornwood-falls.png)
+![313-thornwood-falls](../../_images/magic-the-gathering/throne-of-eldraine/313-thornwood-falls.png)
 
 A peaceful glade scene: a slim white waterfall pours over moss-covered rocks into a clear pool below, framed by dense green ferns and tree trunks. Warm golden sunlight filters down through the upper canopy. Color palette is rich greens with golden highlights. No figures present — pure landscape. Mood is tranquil, restful, cozy-in-the-wild.
 

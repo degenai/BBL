@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["book", "reading", "library", "knowledge", "magic", "robed-figure", "scholar", "wizard", "light-in-darkness", "study", "tome", "arcane"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "blue-magic", "enchantment", "aura", "indoor"]
-reference_image: images/magic-the-gathering/core-set-2021/67-rousing-read.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/67-rousing-read.png
 average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![67-rousing-read](../../../images/magic-the-gathering/core-set-2021/67-rousing-read.png)
+![67-rousing-read](../../_images/magic-the-gathering/core-set-2021/67-rousing-read.png)
 
 A solitary hooded, robed figure stands at center holding an open book. The tome glows from within, casting bright cool light up onto the reader's face and chest while loose pages or wisps of luminous energy spiral upward into the gloom. The surrounding chamber is rendered almost entirely in deep blues and blacks, with vague suggestions of architecture or shelves dissolving into shadow. The composition centers the reader as a small, vertical silhouette dwarfed by the dark space and the radiant aura of the book itself. Mood is hushed, scholarly, and softly mystical — knowledge as light in the dark.
 

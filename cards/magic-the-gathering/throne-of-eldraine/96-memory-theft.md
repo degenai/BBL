@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["ravens", "birds", "knight", "armor", "horned-helm", "memory", "theft", "shadow", "night", "ritual", "grim", "fairy-tale"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "black-magic", "sorcery", "discard"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/96-memory-theft.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/96-memory-theft.png
 average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: void
 
 ## Vision
 
-![96-memory-theft](../../../images/magic-the-gathering/throne-of-eldraine/96-memory-theft.png)
+![96-memory-theft](../../_images/magic-the-gathering/throne-of-eldraine/96-memory-theft.png)
 
 A solitary armored figure — silver plate, a tall horned or antlered helm — stands centered in a near-black field, faintly lit so the armor glints cool blue-white against the gloom. A churning storm of black ravens explodes outward around the head and shoulders, their wings smearing into ribbons of inky smoke. Pale wisps trail from the figure into the birds, reading as memories or thoughts being torn loose. Composition is portrait-mode and forward-facing, with the figure's face obscured by helm and shadow. Palette is overwhelmingly black with cold steel highlights and a single muted teal-grey wash in the background. Mood is grim, eerie, and ritualistic — a quiet act of theft framed as a haunting.
 

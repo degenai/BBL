@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: images/magic-the-gathering/scars-of-mirrodin/191-panic-spellbomb.png
+reference_image: cards/_images/magic-the-gathering/scars-of-mirrodin/191-panic-spellbomb.png
 average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-07
@@ -28,7 +28,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/e/9/e9a29832-863
 
 ## Vision
 
-![191-panic-spellbomb](../../../images/magic-the-gathering/scars-of-mirrodin/191-panic-spellbomb.png)
+![191-panic-spellbomb](../../_images/magic-the-gathering/scars-of-mirrodin/191-panic-spellbomb.png)
 
 > ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 

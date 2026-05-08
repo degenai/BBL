@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["stampede", "rider", "mounted-figure", "beast", "horned-beast", "herd", "charge", "goggles", "dust", "wilderness", "adventurer", "speed"]
 tags_filter: ["green-magic", "mid-shot", "forward-facing", "action-mode", "group", "scene-mode", "sorcery", "no-architecture", "daytime", "male-figure"]
-reference_image: images/magic-the-gathering/mystery-booster-cards/16-lead-the-stampede.png
+reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/16-lead-the-stampede.png
 average_cost_paid: 0
 market_price: 0.29
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![16-lead-the-stampede](../../../images/magic-the-gathering/mystery-booster-cards/16-lead-the-stampede.png)
+![16-lead-the-stampede](../../_images/magic-the-gathering/mystery-booster-cards/16-lead-the-stampede.png)
 
 A dynamic action shot: a rider in earthy traveler's gear with aviator-style goggles and windswept hair leans forward on the back of a massive horned, tusked beast that looks part bull, part rhino, charging directly toward the viewer. Behind the lead beast, more horned creatures kick up clouds of dust as they stampede across an open plain. The palette is dominated by warm browns, ochres, and tans for the dust and creatures, with greenish-tan highlights on the lead beast's hide. The framing tilts diagonally to amplify the sense of speed and momentum.
 

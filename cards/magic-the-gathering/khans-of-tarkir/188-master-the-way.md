@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: images/magic-the-gathering/khans-of-tarkir/188-master-the-way.png
+reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/188-master-the-way.png
 average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-07

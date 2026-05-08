@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["fire", "eruption", "volcano", "lava", "geomancer", "robed-figure", "elemental-magic", "destruction", "wizard", "mountain", "spellcaster", "cataclysm"]
 tags_filter: ["solo", "mid-shot", "scene-mode", "no-face", "silhouette", "red-magic", "instant", "burn", "x-spell"]
-reference_image: images/magic-the-gathering/core-set-2021/171-volcanic-geyser.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/171-volcanic-geyser.png
 average_cost_paid: 0
 market_price: 0.24
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![171-volcanic-geyser](../../../images/magic-the-gathering/core-set-2021/171-volcanic-geyser.png)
+![171-volcanic-geyser](../../_images/magic-the-gathering/core-set-2021/171-volcanic-geyser.png)
 
 A towering plume of orange and yellow flame erupts from a cracked, blackened ground, hurling chunks of rock and embers outward in a violent geyser. A small dark-robed humanoid figure stands at the edge of the eruption in mid-shot, body silhouetted against the inferno, one arm raised as if directing or recoiling from the blast. The surrounding cliffs and broken earth glow with reflected firelight. The composition is dominated by reds, oranges, and yellows, with deep black silhouettes and rocky shadow at the lower edges. The atmosphere is hot, kinetic, and apocalyptic.
 

@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["dog", "loyalty", "rescue", "stray", "alley", "twilight", "urban", "cobblestones", "small-creature", "companion", "warm-light", "sacrifice"]
 tags_filter: ["solo", "forward-facing", "mid-shot", "portrait-mode", "no-face-human", "creature-dog", "white-magic", "single-animal"]
-reference_image: images/magic-the-gathering/core-set-2021/36-selfless-savior.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/36-selfless-savior.png
 average_cost_paid: 0
 market_price: 0.39
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: urban
 
 ## Vision
 
-![36-selfless-savior](../../../images/magic-the-gathering/core-set-2021/36-selfless-savior.png)
+![36-selfless-savior](../../_images/magic-the-gathering/core-set-2021/36-selfless-savior.png)
 
 A small, scrappy dog with oversized triangular ears, a tousled brown-and-tan coat, and an open, hopeful expression sits centered in a cobblestone alley. The dog faces the viewer almost head-on, ears perked, mouth slightly open as if panting or about to bark. Behind it, a narrow alley recedes into a warm orange glow at the far end — likely a window, lantern, or sunset down the lane — flanked by dim brick or stone walls and the suggestion of barrels or crates in the shadows. The lighting is split between warm amber backlight rimming the dog's silhouette and cooler ambient blues across its face and the foreground stone, giving a stray-at-twilight feel. The overall mood is tender, plucky, and a little forlorn — a street mutt with loyalty written on its face.
 

@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["burnout", "labor", "inventor", "exhaustion", "workplace", "workshop", "tools", "scholar", "blueprints", "clockwork", "steampunk", "interior", "service-worker", "despair", "study", "craft"]
 tags_filter: ["close-up", "narrative-mode", "solo", "faces-away", "no-face", "sorcery", "black-mono", "common"]
-reference_image: images/magic-the-gathering/core-set-2021/115-mind-rot.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/115-mind-rot.png
 average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: indoor
 
 ## Vision
 
-![115-mind-rot](../../../images/magic-the-gathering/core-set-2021/115-mind-rot.png)
+![115-mind-rot](../../_images/magic-the-gathering/core-set-2021/115-mind-rot.png)
 
 A figure lies face-down across a cluttered workbench, head buried in their arms in exhaustion or despair. Scattered around them are intricate engineering plans, brass clockwork components, a broken mechanical bird, parchment, and instruments. Color palette is warm sepia-brown with brass highlights. The mood is creative burnout, defeat, the cost of perfectionism — the flavor text reads 'Many an inventor has collapsed under the pressure to create a flawless design.' This is a 'labor' card, broadly: the working conditions of fantasy artisans.
 

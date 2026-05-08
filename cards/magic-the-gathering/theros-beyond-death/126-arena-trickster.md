@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["performer", "showman", "mask", "arena", "gladiator", "theater", "comic-relief", "trickster", "spectacle", "stage", "coliseum", "shaman", "performance", "muscle"]
 tags_filter: ["mid-shot", "portrait-mode", "solo", "forward-facing", "creature-shaman", "red-mono", "male-figure", "common", "crowd", "red-magic"]
-reference_image: images/magic-the-gathering/theros-beyond-death/126-arena-trickster.png
+reference_image: cards/_images/magic-the-gathering/theros-beyond-death/126-arena-trickster.png
 average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: indoor
 
 ## Vision
 
-![126-arena-trickster](../../../images/magic-the-gathering/theros-beyond-death/126-arena-trickster.png)
+![126-arena-trickster](../../_images/magic-the-gathering/theros-beyond-death/126-arena-trickster.png)
 
 A bald, muscular bare-chested man holds a glowing horned theatrical mask aloft in his right hand. He's mid-laugh or shout. The whole scene is lit in deep theatrical reds; behind him a tall stone archway rises, suggesting a coliseum or stage. Mood is showman, performance, crowd-pleasing combat. Flavor text spells the vibe out: 'It's not enough to surprise your opponent. You have to delight the crowd as well.'
 

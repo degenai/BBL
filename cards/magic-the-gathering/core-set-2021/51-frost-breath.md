@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["dragon", "ice", "cold", "frost", "mountain", "winter", "breath-weapon", "majesty", "snow", "elemental", "wyrm", "skies", "predator"]
 tags_filter: ["wide-shot", "action-mode", "solo", "faces-left", "instant", "blue-mono", "creature-dragon", "common", "blue-magic"]
-reference_image: images/magic-the-gathering/core-set-2021/51-frost-breath.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/51-frost-breath.png
 average_cost_paid: 0
 market_price: 0.16
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: mountain
 
 ## Vision
 
-![51-frost-breath](../../../images/magic-the-gathering/core-set-2021/51-frost-breath.png)
+![51-frost-breath](../../_images/magic-the-gathering/core-set-2021/51-frost-breath.png)
 
 A horned blue dragon, body partially turned, opens its jaws and exhales a billowing cloud of pale-blue ice crystals and fog that sweeps across the frame. Mountain peaks rise in the background; everything is dusted in frost. Mood is cold majesty, sweeping elemental power. Flavor text: 'I'll make ice chimes of your bones.'
 

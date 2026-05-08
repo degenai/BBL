@@ -32,7 +32,11 @@ from typing import Any
 # --- Configuration ---
 
 DEFAULT_CARDS_DIR = "cards"
-DEFAULT_IMAGES_DIR = "images"
+# Image cache lives INSIDE cards/ so it's visible to the Obsidian vault (which is
+# rooted at cards/). PNG files aren't graphed by Obsidian (only .md files become
+# nodes), so this doesn't pollute the card graph. The underscore prefix sorts the
+# folder visually distinct from card-game directories.
+DEFAULT_IMAGES_DIR = "cards/_images"
 DEFAULT_LIMIT = 10  # default cap per run; bump explicitly when confident
 DEEPSEEK_BASE = "https://api.deepseek.com"
 DEEPSEEK_ENDPOINT = f"{DEEPSEEK_BASE}/chat/completions"
@@ -547,15 +551,20 @@ def update_card(path: Path, image_url: str, vision: dict, dry_run: bool,
 
     body_parts = []
     if local_image_rel:
-        # Use standard markdown image syntax with a path *relative to the card MD*,
-        # not Obsidian wikilinks. Wikilinks resolve from the vault root, and the
-        # vault here is `cards/` — so `![[images/...]]` would look outside the vault
-        # and fail. A relative path with ../../../ traversal works regardless of
-        # where the vault root is, and also renders inline on GitHub web. Forward
-        # slashes work cross-platform in markdown image refs.
+        # Standard markdown image syntax with a path relative to the card MD.
+        # Image cache lives at cards/_images/<game>/<set>/<slug>.png — same nesting
+        # depth as the card itself. From cards/<game>/<set>/<slug>.md to
+        # cards/_images/<game>/<set>/<slug>.png we go up two (out of <set> + <game>)
+        # and then back down into _images/<game>/<set>/. Forward slashes work
+        # cross-platform in markdown image refs.
         rel = local_image_rel.replace("\\", "/")
-        # cards/<game>/<set>/<slug>.md -> ../../../<rel>
-        rel_from_card = "../../../" + rel
+        # local_image_rel is project-relative ("cards/_images/<game>/<set>/<slug>.png").
+        # Strip the leading "cards/" since the embed is relative to a card MD inside cards/.
+        if rel.startswith("cards/"):
+            rel_from_cards = rel[len("cards/"):]
+        else:
+            rel_from_cards = rel
+        rel_from_card = "../../" + rel_from_cards
         body_parts.append(f"![{path.stem}]({rel_from_card})")
         body_parts.append("")
     if needs_review:

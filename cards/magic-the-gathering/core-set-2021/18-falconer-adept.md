@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["falconer", "falcon", "bird-of-prey", "hooded-figure", "robed-figure", "soldier", "mountain", "wind", "companion", "hunter", "bond", "storm-sky"]
 tags_filter: ["duo", "mid-shot", "three-quarter", "portrait-mode", "human-figure", "white-magic", "creature-human", "creature-soldier", "token-maker", "flying-matters"]
-reference_image: images/magic-the-gathering/core-set-2021/18-falconer-adept.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/18-falconer-adept.png
 average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![18-falconer-adept](../../../images/magic-the-gathering/core-set-2021/18-falconer-adept.png)
+![18-falconer-adept](../../_images/magic-the-gathering/core-set-2021/18-falconer-adept.png)
 
 A figure in deep crimson and burnt-orange robes stands in three-quarter profile, hood drawn up, holding a heavy leather gauntlet on which a large pale falcon is perched with wings half-spread. The falconer's face is partly shadowed beneath the hood, gaze cast off-frame toward the bird. Behind them, distant mountain peaks rise into a turbulent sky streaked with grey-blue cloud and warm dusty light. The composition is tight on the falconer and bird, with the bird's outstretched wing breaking against the sky. Color palette is dominated by warm reds, ochres, and creamy off-white plumage against cool stormy blues.
 

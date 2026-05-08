@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: images/magic-the-gathering/art-series-zendikar-rising/66-moraug-fury-of-akoum-art-card.png
+reference_image: cards/_images/magic-the-gathering/art-series-zendikar-rising/66-moraug-fury-of-akoum-art-card.png
 average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-07
@@ -28,7 +28,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/4/4/4481eab8-9e7
 
 ## Vision
 
-![66-moraug-fury-of-akoum-art-card](../../../images/magic-the-gathering/art-series-zendikar-rising/66-moraug-fury-of-akoum-art-card.png)
+![66-moraug-fury-of-akoum-art-card](../../_images/magic-the-gathering/art-series-zendikar-rising/66-moraug-fury-of-akoum-art-card.png)
 
 > ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 

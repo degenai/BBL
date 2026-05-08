@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["wizard", "spellcaster", "counterspell", "robed-figure", "ritual", "magic", "energy-burst", "defiance", "mage", "arcane", "force-field", "interruption"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "no-face", "instant", "blue-magic", "counterspell-mechanic", "single-figure", "scene-mode"]
-reference_image: images/magic-the-gathering/core-set-2021/46-cancel.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/46-cancel.png
 average_cost_paid: 0
 market_price: 0.27
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: void
 
 ## Vision
 
-![46-cancel](../../../images/magic-the-gathering/core-set-2021/46-cancel.png)
+![46-cancel](../../_images/magic-the-gathering/core-set-2021/46-cancel.png)
 
 A solitary robed figure stands centered in the frame with both arms outstretched, palms forward, releasing a radial shockwave of magical energy. Concentric rings of bright blue and white force ripple outward from the caster's body, intersected by streaks of orange and gold fire bleeding in from the edges of the composition — the visual language of two opposing spells colliding and cancelling. The figure wears a long dark blue robe with a high collar; the face is partially obscured by the glare of their own casting. The background is pure energy: a churning corona of warm and cool magic with no visible architecture or landscape, giving the scene an abstract, ritualistic feel. Lighting is dramatic and self-emanating — the caster is the light source.
 

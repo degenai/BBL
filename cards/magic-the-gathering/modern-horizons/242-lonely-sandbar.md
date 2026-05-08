@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["ocean", "beach", "boat", "sandbar", "island", "palm-tree", "shallows", "solitude", "marooned", "calm-water", "tropical"]
 tags_filter: ["no-face", "wide-shot", "scene-mode", "no-figure", "land", "blue-magic", "cycling"]
-reference_image: images/magic-the-gathering/modern-horizons/242-lonely-sandbar.png
+reference_image: cards/_images/magic-the-gathering/modern-horizons/242-lonely-sandbar.png
 average_cost_paid: 0
 market_price: 0.26
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: ocean
 
 ## Vision
 
-![242-lonely-sandbar](../../../images/magic-the-gathering/modern-horizons/242-lonely-sandbar.png)
+![242-lonely-sandbar](../../_images/magic-the-gathering/modern-horizons/242-lonely-sandbar.png)
 
 A narrow finger of pale, sun-bleached sand curves through still, glassy turquoise water. A single empty wooden rowboat with a pointed prow rests beached at the foreground end of the sandbar, casting a soft shadow on the wet sand. In the middle distance, a smaller mound of sand carries a couple of slender palm trees leaning gently. The sky is hazy and bright, blending into a featureless pale horizon. There are no people anywhere — the scene reads as quiet, abandoned, marooned. Lighting is bright but soft, ambient daylight with no harsh shadows.
 

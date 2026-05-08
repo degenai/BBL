@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["weapons", "armory", "helm", "sword", "axe", "armor", "knight", "castle", "stonework", "medieval", "still-life", "blacksmith"]
 tags_filter: ["no-figure", "no-face", "scene-mode", "mid-shot", "indoor", "artifact", "white-magic"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/236-weapon-rack.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/236-weapon-rack.png
 average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: indoor
 
 ## Vision
 
-![236-weapon-rack](../../../images/magic-the-gathering/throne-of-eldraine/236-weapon-rack.png)
+![236-weapon-rack](../../_images/magic-the-gathering/throne-of-eldraine/236-weapon-rack.png)
 
 An indoor armory scene shows a heavy wooden rack fixed to a mortared stone wall. A knight's great helm crowned with a dark plume hangs prominently in the center, flanked by a longsword and what appears to be an axe or polearm hafted in dark wood. Smaller armor fittings and weapons are arranged across the rack's pegs. The lighting is warm and low, with an orange glow at the bottom edge suggesting torchlight or a hearth out of frame. No figures are present; the composition is a still life of arms.
 

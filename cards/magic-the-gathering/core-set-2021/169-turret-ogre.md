@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["ogre", "siege-warfare", "catapult", "soldier", "warrior", "mountain", "storm", "armor", "brute", "war-machine", "monster-soldier", "artillery"]
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "creature-ogre", "creature-warrior", "red-magic", "reach", "male-figure", "portrait-mode"]
-reference_image: images/magic-the-gathering/core-set-2021/169-turret-ogre.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/169-turret-ogre.png
 average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![169-turret-ogre](../../../images/magic-the-gathering/core-set-2021/169-turret-ogre.png)
+![169-turret-ogre](../../_images/magic-the-gathering/core-set-2021/169-turret-ogre.png)
 
 A heavily armored ogre dominates the frame, broad-shouldered and grim-faced, hauling a wood-and-iron catapult strapped to its back like a portable siege engine. The ogre's plate armor is dark blue-grey with rivets and worn metallic detail, evoking a brute-force soldier rather than a wild monster. Behind the figure, a bruised stormy sky churns over jagged mountain peaks; the palette is cold grey-blue with hints of bronze and rust on the catapult timbers. Lighting is overcast and diffuse, with rim highlights catching the armor's edges. The composition reads as a mid-shot action portrait — the catapult-bearer caught mid-stride, framed against the bleak alpine backdrop.
 

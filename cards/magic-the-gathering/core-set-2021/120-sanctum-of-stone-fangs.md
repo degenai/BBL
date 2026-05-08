@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: images/magic-the-gathering/core-set-2021/120-sanctum-of-stone-fangs.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/120-sanctum-of-stone-fangs.png
 average_cost_paid: 0
 market_price: 1.91
 market_price_as_of: 2026-05-07

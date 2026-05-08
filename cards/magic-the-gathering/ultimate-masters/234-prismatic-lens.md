@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["orb", "lens", "rings", "prism", "light", "refraction", "arcane-device", "astrolabe", "gold", "magic-tool", "vault"]
 tags_filter: ["no-face", "no-figure", "mid-shot", "centered-composition", "scene-mode", "indoor", "artifact-card", "colorless-magic", "artifact"]
-reference_image: images/magic-the-gathering/ultimate-masters/234-prismatic-lens.png
+reference_image: cards/_images/magic-the-gathering/ultimate-masters/234-prismatic-lens.png
 average_cost_paid: 0
 market_price: 0.43
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![234-prismatic-lens](../../../images/magic-the-gathering/ultimate-masters/234-prismatic-lens.png)
+![234-prismatic-lens](../../_images/magic-the-gathering/ultimate-masters/234-prismatic-lens.png)
 
 A spherical brass-and-gold artifact hangs in midair at the center of the frame, encircled by multiple horizontal disk-shaped rings that intersect its body like the rings of an astrolabe or armillary sphere. Pale prismatic light glows from the orb's interior and refracts outward through the disks, suggesting a lens or focusing apparatus. The device hangs suspended against a moody arched stone interior — vaulted shadow and faint architectural lines visible in the dim background. The palette is warm gold and copper on the artifact set against deep teal-grey shadow. No figures present; the artifact itself is the subject. Composition is centered, mid-range, with strong focal weight on the glowing orb.
 

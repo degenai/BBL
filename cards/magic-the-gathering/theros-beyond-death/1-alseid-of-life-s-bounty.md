@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["nymph", "wheat", "harvest", "field", "grain", "female-figure-thematic", "flowing-hair", "abundance", "nature-spirit", "sunlight", "greek-mythology", "pastoral"]
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "portrait-mode", "female-figure", "white-magic", "creature-nymph", "enchantment-creature", "lifegain", "1-1-creature"]
-reference_image: images/magic-the-gathering/theros-beyond-death/1-alseid-of-life-s-bounty.png
+reference_image: cards/_images/magic-the-gathering/theros-beyond-death/1-alseid-of-life-s-bounty.png
 average_cost_paid: 0
 market_price: 0.38
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![1-alseid-of-life-s-bounty](../../../images/magic-the-gathering/theros-beyond-death/1-alseid-of-life-s-bounty.png)
+![1-alseid-of-life-s-bounty](../../_images/magic-the-gathering/theros-beyond-death/1-alseid-of-life-s-bounty.png)
 
 A solitary female nymph stands waist-deep in a sunlit field of ripe golden wheat. Her long hair flows upward and outward, transforming seamlessly into strands of grain that catch the breeze and the light. The figure is largely defined by golds and warm yellows, blending with the field she emerges from — she is the harvest made flesh. Behind her stretches an open Mediterranean countryside under a soft pale-blue sky with low distant hills, painted in the warm, sunlit Theros idiom. Lighting is bright, ambient, and golden, with a sense of mid-morning or early-day abundance.
 

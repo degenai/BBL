@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["talisman", "amulet", "gemstone", "book", "tome", "library", "scholar", "study", "knowledge", "artifact-object", "still-life", "magic-item"]
 tags_filter: ["no-figures", "close-up", "object-portrait", "blue-magic", "multicolor-blue-black", "artifact", "no-face", "indoor-scene"]
-reference_image: images/magic-the-gathering/modern-horizons/232-talisman-of-curiosity.png
+reference_image: cards/_images/magic-the-gathering/modern-horizons/232-talisman-of-curiosity.png
 average_cost_paid: 0
 market_price: 0.45
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![232-talisman-of-curiosity](../../../images/magic-the-gathering/modern-horizons/232-talisman-of-curiosity.png)
+![232-talisman-of-curiosity](../../_images/magic-the-gathering/modern-horizons/232-talisman-of-curiosity.png)
 
 A still-life arrangement of arcane study tools: an ornate silver-gold talisman or amulet set with a softly glowing blue cabochon gemstone sits centered on the parchment pages of an open book. The talisman's metalwork is delicate and curlicued, almost filigreed, with the central jewel emitting a faint cool aura onto the surrounding page. The book lies open on what appears to be a desk or table, with additional pages, scrolls, or a folded letter visible beneath and beside it. The palette is dominated by warm parchment cream and aged paper, set against the cool blue glow of the gem and silvered metal. There are no figures present — this is a pure object portrait, an artifact card in the literal sense.
 

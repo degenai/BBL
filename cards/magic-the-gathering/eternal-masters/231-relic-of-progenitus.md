@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: images/magic-the-gathering/eternal-masters/231-relic-of-progenitus.png
+reference_image: cards/_images/magic-the-gathering/eternal-masters/231-relic-of-progenitus.png
 average_cost_paid: 0
 market_price: 5.78
 market_price_as_of: 2026-05-07

@@ -153,10 +153,11 @@ Collectr CSV export
 ├── .claude/
 │   └── agents/
 │       └── bbl-researcher.md      # vision-pass subagent
-├── cards/<game>/<set>/*.md        # active card-node graph
+├── cards/<game>/<set>/*.md        # active card-node graph (this is the Obsidian vault)
+├── cards/_images/<game>/<set>/*.png  # cached reference art (inside vault so embeds resolve;
+│                                     # PNGs aren't graphed by Obsidian so the graph stays card-only)
 ├── sealed/<game>/*.md             # sealed-product nodes
 ├── archive/                       # qty=0 nodes (created on demand)
-├── images/<game>/<set>/*.png      # cached reference art
 ├── reports/
 │   ├── history.md                 # csv2mdbot run log
 │   ├── scryfall_sets.json         # cached set-name → code map
@@ -214,8 +215,8 @@ These are durable observations that survive the rolling status snapshot below �
 - `bbl-researcher` correctly populates `suspected_ip` for in-universe MTG planeswalkers without putting their names in `subject`. As of the 2026-05-08 session, 6 cards carry IP flags: Garruk Wildspeaker, Kiora, Nicol Bolas (×2), Teyo, the Wanderer. Verification step is downstream and not yet built — these flags accumulate until something consumes them. Worth a small `python ip_review.py` script eventually that lists all `suspected_ip` cards for human verification.
 
 **On Obsidian image embeds:**
-- The Obsidian vault is rooted at `cards/`, so wikilink-style embeds (`![[images/...]]`) look outside the vault and render as "file not found." The fix is to use **standard markdown** embeds with **relative paths**: `![<slug>](../../../images/<game>/<set>/<slug>.png)`. Renders inline in any Obsidian config (vault at project root, vault at `cards/`, doesn't matter), AND renders on GitHub web. This was migrated across all 207 affected cards via `reports/fix_image_embeds_v2.py`.
-- The Vision section now also begins with a prominent `> [!warning] Suspected IP: **<name>**` callout for any card whose vision pass flagged an IP. Renders as a yellow warning callout in Obsidian, falls back to a styled blockquote elsewhere. Reviewer instructions inline.
+- The Obsidian vault is rooted at `cards/`. Anything outside the vault is invisible to Obsidian's image-resolver, even with standard-markdown `![](path)` syntax. The fix: **the image cache lives inside the vault** at `cards/_images/<game>/<set>/<slug>.png`. PNGs aren't graphed by Obsidian (only `.md` files become nodes), so the card-only graph constraint is preserved. The underscore prefix sorts the folder visually distinct from card-game directories. Embeds use standard-markdown with a relative path: `![<slug>](../../_images/<game>/<set>/<slug>.png)` from a card MD. Migrated via `reports/migrate_images_into_cards.py` (idempotent, safe to re-run).
+- The Vision section also begins with a prominent `> [!warning] Suspected IP: **<name>**` callout for any card whose vision pass flagged an IP. Renders as a yellow warning callout in Obsidian, falls back to a styled blockquote elsewhere. Reviewer instructions inline.
 
 **On `apply_vision.py`'s tier normalizer:**
 - The helper has a small built-in normalizer that auto-moves certain tags from `tags_hub` to `tags_filter` regardless of what the vision JSON emits — `crowd`, `no-figure`, `artifact` are confirmed cases. This is *good* (reinforces the tier rules) but undocumented; future agent definitions may want to know which tags are "always-filter" so they don't waste judgment on them. Source: `researchbot.update_card`.

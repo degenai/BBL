@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["witch", "necromancy", "ritual", "tomb", "candlelight", "knight", "death", "gothic", "robed-figure", "crypt", "coven", "dark-magic"]
 tags_filter: ["duo", "2-figures", "plus-one-corpse", "mid-shot", "scene-mode", "no-clear-face", "creature-human", "creature-warlock", "black-magic", "graveyard-recursion"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/77-barrow-witches.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/77-barrow-witches.png
 average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: dungeon
 
 ## Vision
 
-![77-barrow-witches](../../../images/magic-the-gathering/throne-of-eldraine/77-barrow-witches.png)
+![77-barrow-witches](../../_images/magic-the-gathering/throne-of-eldraine/77-barrow-witches.png)
 
 In a dim subterranean barrow, two robed witches in deep hoods bend over a stone tomb where the armored body of a knight lies prone. Candles burn around the slab, casting warm orange firelight across the witches' faces and the knight's plate armor while the rest of the chamber recedes into near-black shadow. The witches' postures are intent and focused, hands hovering over the corpse as if drawing breath or essence from it. The palette is dominated by deep blacks, cold blues, and the small pools of candle-orange — classic gothic crypt atmosphere.
 

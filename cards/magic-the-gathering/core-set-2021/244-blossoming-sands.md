@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["desert", "dunes", "sand", "wilderness", "landscape", "horizon", "sunlight", "magic-hour", "frontier", "trail", "trees", "grasslands"]
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "dual-land", "lifegain", "white-magic", "green-magic", "multicolor-white-green", "warm-palette", "backlit"]
-reference_image: images/magic-the-gathering/core-set-2021/244-blossoming-sands.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/244-blossoming-sands.png
 average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: desert
 
 ## Vision
 
-![244-blossoming-sands](../../../images/magic-the-gathering/core-set-2021/244-blossoming-sands.png)
+![244-blossoming-sands](../../_images/magic-the-gathering/core-set-2021/244-blossoming-sands.png)
 
 A wide, atmospheric desert vista painted in warm gold, ochre, and dusty cream tones. The foreground is a stretch of sandy ground with tufts of pale yellow-green grass; a thin trail or wagon track curves into the middle distance. A handful of small, gnarled trees and shrubs cling to the ridges, their forms catching the low sunlight. Beyond, sun-bleached dunes roll into a horizon of distant cliffs and hazy mountains. The sky dominates the upper half of the frame: a soft wash of pale blue and warm gold, with the sun glaring through and bathing everything in a radiant, slightly hazy magic-hour light. No figures or creatures are visible. The mood is quiet, expansive, and welcoming — an inviting frontier rather than a hostile waste.
 

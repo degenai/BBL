@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["hunter", "beast", "forest", "axe", "wilderness", "partnership", "leather-armor", "horned-beast", "bearded-man", "warrior", "ranger", "trample"]
 tags_filter: ["duo", "2-figures", "mid-shot", "three-quarter-facing", "male-figure", "scene-mode", "enchantment", "green-magic", "outdoor"]
-reference_image: images/magic-the-gathering/core-set-2021/186-garruk-s-uprising--foil.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/186-garruk-s-uprising--foil.png
 average_cost_paid: 0
 market_price: 1.46
 market_price_as_of: 2026-05-07
@@ -38,7 +38,7 @@ ip_verified: false
 > [!warning] Suspected IP: **Garruk Wildspeaker** (confidence: high, unverified)
 > Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
-![186-garruk-s-uprising--foil](../../../images/magic-the-gathering/core-set-2021/186-garruk-s-uprising--foil.png)
+![186-garruk-s-uprising--foil](../../_images/magic-the-gathering/core-set-2021/186-garruk-s-uprising--foil.png)
 
 A heavily built bearded man in tattered green-and-brown leathers, with bracers and a fur-trimmed shoulder, grips a massive double-bladed axe. Beside him stands a hulking quadrupedal beast with curved horns and shaggy fur, its body taking up the right half of the frame. Behind them, dense green forest with hanging foliage and dappled light frames the pair. The composition reads as hunter-and-beast moving together — partnership rather than combat. Earthy palette of mossy greens, browns, and warm flesh tones; light filters from the upper left through the canopy.
 

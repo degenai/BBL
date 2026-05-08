@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["statue", "monument", "ruins", "collapse", "tyrant-fall", "dragon", "idol", "stormy-sky", "desert-city", "stone", "silhouette", "regime-change"]
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "forward-facing", "monochrome-palette", "white-magic", "instant", "destroy-artifact"]
-reference_image: images/magic-the-gathering/war-of-the-spark/35-topple-the-statue.png
+reference_image: cards/_images/magic-the-gathering/war-of-the-spark/35-topple-the-statue.png
 average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-07
@@ -37,7 +37,7 @@ ip_verified: false
 > [!warning] Suspected IP: **Nicol Bolas (Magic: The Gathering character — likely in-IP for this set, not external)** (confidence: med, unverified)
 > Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
-![35-topple-the-statue](../../../images/magic-the-gathering/war-of-the-spark/35-topple-the-statue.png)
+![35-topple-the-statue](../../_images/magic-the-gathering/war-of-the-spark/35-topple-the-statue.png)
 
 An enormous stone statue depicting a horned, long-necked dragon-god figure pitches forward off its tall plinth, mid-collapse. The monument silhouettes nearly black against a churning, ash-gray sky streaked with paler clouds. The statue's twin curving horns and craning neck dominate the upper third of the frame, with chunks of masonry breaking loose as it falls. Below, a wide stone-paved plaza or courtyard recedes into haze, suggesting a ruined desert city. The palette is muted and monochromatic — slate grays, charcoal, and bone-white sky — giving the scene a grim, monumental, end-of-an-era feel.
 

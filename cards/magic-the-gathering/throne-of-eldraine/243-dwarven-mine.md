@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["dwarves", "mine", "underground", "forge", "industry", "bridge", "cavern", "fire", "labor", "mountain", "infrastructure", "molten"]
 tags_filter: ["wide-shot", "scene-mode", "crowd", "no-face", "land-card", "land-mountain", "red-magic", "warm-palette", "no-figure-focus"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/243-dwarven-mine.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/243-dwarven-mine.png
 average_cost_paid: 0
 market_price: 0.33
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: dungeon
 
 ## Vision
 
-![243-dwarven-mine](../../../images/magic-the-gathering/throne-of-eldraine/243-dwarven-mine.png)
+![243-dwarven-mine](../../_images/magic-the-gathering/throne-of-eldraine/243-dwarven-mine.png)
 
 An industrial fantasy interior: a colossal cavern hollowed into red sandstone or rust-colored rock. A stone arched bridge spans a deep chasm in the middle distance, with several small dwarven figures walking across it, dwarfed by the architecture. To the left, an enormous wooden waterwheel or geared mining apparatus dominates the composition, suggesting active industry. Below the bridge, molten light glows orange-yellow from forges, smelters, or lava pools at the cavern floor, throwing warm light upward. Sparks and embers drift in the smoky air. The entire palette is monochromatic warm: oranges, rusts, ochres, deep reds, with the only cool notes being the slate-gray of the bridge stone. The scale is sublime — figures are ant-sized against the engineered geology.
 

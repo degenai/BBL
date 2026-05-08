@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["siren", "wings", "ocean", "shipwreck", "song", "music", "singer", "rocks", "fog", "lure", "mythology", "predator", "winged-figure", "female-figure-myth"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "scene-mode", "blue-magic", "black-magic", "multicolor-blue-black", "creature-siren", "flying", "female-figure"]
-reference_image: images/magic-the-gathering/theros/203-shipwreck-singer.png
+reference_image: cards/_images/magic-the-gathering/theros/203-shipwreck-singer.png
 average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: ocean
 
 ## Vision
 
-![203-shipwreck-singer](../../../images/magic-the-gathering/theros/203-shipwreck-singer.png)
+![203-shipwreck-singer](../../_images/magic-the-gathering/theros/203-shipwreck-singer.png)
 
 A lone siren stands silhouetted on a craggy outcropping of black wave-cut rock, large dark wings flared behind her body. Her form is humanoid and feminine, rendered in murky greens and golds against an even murkier sea. The water below is roiling and shadowed; faint shapes that may be ship debris or submerged stones break the surface. The whole image is washed in a sickly bronze-gold-green palette suggestive of sea fog at low light, with the siren as the central vertical figure and the horizon obliterated by haze. The mood is ominous and predatory — a lure, not a serenade.
 

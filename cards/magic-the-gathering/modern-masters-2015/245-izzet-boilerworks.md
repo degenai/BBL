@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["machinery", "industrial", "steampunk", "factory", "pipes", "alchemy", "fire", "steam", "laboratory", "engineering", "copper"]
 tags_filter: ["no-face", "scene-mode", "wide-shot", "land", "blue-magic", "red-magic", "multicolor-blue-red", "izzet", "no-figure"]
-reference_image: images/magic-the-gathering/modern-masters-2015/245-izzet-boilerworks.png
+reference_image: cards/_images/magic-the-gathering/modern-masters-2015/245-izzet-boilerworks.png
 average_cost_paid: 0
 market_price: 0.3
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![245-izzet-boilerworks](../../../images/magic-the-gathering/modern-masters-2015/245-izzet-boilerworks.png)
+![245-izzet-boilerworks](../../_images/magic-the-gathering/modern-masters-2015/245-izzet-boilerworks.png)
 
 A dense, machine-crowded interior viewed straight-on: tangled copper and brass piping snakes around bulbous pressure vats and tanks, with valves, dials, and gauges studding the apparatus. Warm amber and orange light bleeds out from seams and vents, suggesting fire and steam contained within. The composition has no human figure — the architecture itself is the subject, a steampunk-leaning industrial cathedral. Vertical pipes climb out of frame, reinforcing scale. The palette is dominated by burnished copper, rust-orange, and shadowed brown, with hot yellow highlights where the machinery glows.
 

@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["knight", "griffin", "sword", "flight", "wings", "armor", "cavalry", "sky", "clouds", "heroism", "mounted-warrior", "chivalry"]
 tags_filter: ["duo", "mid-shot", "faces-right", "scene-mode", "action-mode", "human-figure", "male-figure", "creature-knight", "white-magic", "flying", "adventure-mechanic"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/5-ardenvale-tactician.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/5-ardenvale-tactician.png
 average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![5-ardenvale-tactician](../../../images/magic-the-gathering/throne-of-eldraine/5-ardenvale-tactician.png)
+![5-ardenvale-tactician](../../_images/magic-the-gathering/throne-of-eldraine/5-ardenvale-tactician.png)
 
 A heroic knight in burnished gold-and-silver plate armor sits astride a tawny griffin mid-flight, blade raised triumphantly toward the upper-right of the frame. A red cape or banner streams back from the rider, and the griffin's eagle forequarters and feathered wings catch warm light from a bright sky behind them. The composition is dynamic and upward-thrusting, with cloud-suffused atmosphere and a glow that suggests sunrise or magic-hour backlighting. The overall palette is warm gold, ivory, and rust against a pale luminous sky.
 

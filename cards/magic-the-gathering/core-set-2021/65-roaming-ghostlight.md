@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["ghost", "spirit", "chains", "ethereal", "melancholy", "afterlife", "soul", "void", "luminous", "flying", "veil", "wandering", "haunting", "mourning"]
 tags_filter: ["solo", "mid-shot", "abstract-mode", "no-face", "blue-mono", "creature-spirit", "common", "blue-magic"]
-reference_image: images/magic-the-gathering/core-set-2021/65-roaming-ghostlight.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/65-roaming-ghostlight.png
 average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/8/c/8cbac0e4-f79
 
 ## Vision
 
-![65-roaming-ghostlight](../../../images/magic-the-gathering/core-set-2021/65-roaming-ghostlight.png)
+![65-roaming-ghostlight](../../_images/magic-the-gathering/core-set-2021/65-roaming-ghostlight.png)
 
 A formless luminous spirit drifts in dark, cloudy space. A bright white-blue inner core radiates outward through gauzy translucent veils; chains trail downward into shadow. Tiny motes of light scatter across the void. Mood is mournful, drifting, untethered — a soul wandering, not a soul at peace.
 

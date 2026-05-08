@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["mage", "wizard", "scholar", "divination", "crystal", "orb", "robed-figure", "spellcasting", "ritual", "magic", "prophecy", "bald-figure"]
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "male-figure", "blue-magic", "instant", "scry", "card-draw", "rim-lit"]
-reference_image: images/magic-the-gathering/core-set-2021/59-opt.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/59-opt.png
 average_cost_paid: 0
 market_price: 0.21
 market_price_as_of: 2026-05-07
@@ -38,7 +38,7 @@ ip_verified: false
 > [!warning] Suspected IP: **Teferi** (confidence: med, unverified)
 > Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
-![59-opt](../../../images/magic-the-gathering/core-set-2021/59-opt.png)
+![59-opt](../../_images/magic-the-gathering/core-set-2021/59-opt.png)
 
 A bald, bearded man in layered scholar's robes stands in three-quarter view, holding a small luminous crystal between his cupped hands. Bright blue magical light radiates outward from the crystal in concentric ripples and wisps that swirl around him like wind. His expression is calm and focused, eyes on the gem. The palette is dominated by deep cobalt and teal in the background with cooler blue-white highlights on the figure's face, hands, and the orb itself. Soft scholar's regalia and a high-collared inner garment suggest a learned or magisterial role. Background is an indistinct swirl of energy rather than a defined locale.
 

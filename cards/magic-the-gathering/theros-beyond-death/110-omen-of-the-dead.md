@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["oracle", "vision", "underworld", "death", "robed-figure", "hood", "necromancy", "ghost", "ritual", "columns", "mourning", "prophecy", "shadow"]
 tags_filter: ["duo", "mid-shot", "forward-facing", "portrait-mode", "no-color-magic", "black-magic", "enchantment", "mono-black", "human-figure"]
-reference_image: images/magic-the-gathering/theros-beyond-death/110-omen-of-the-dead.png
+reference_image: cards/_images/magic-the-gathering/theros-beyond-death/110-omen-of-the-dead.png
 average_cost_paid: 0
 market_price: 0.23
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![110-omen-of-the-dead](../../../images/magic-the-gathering/theros-beyond-death/110-omen-of-the-dead.png)
+![110-omen-of-the-dead](../../_images/magic-the-gathering/theros-beyond-death/110-omen-of-the-dead.png)
 
 A close-to-mid shot of a hooded oracular figure dominates the frame, lit by a soft pale glow that picks out their gaunt face and white-lit eyes. Both hands rise to the temples in a gesture of strain, premonition, or psychic contact. The figure is robed and cowled in deep black fabric that bleeds into the surrounding gloom. Behind them, two tall pale columns or stelae frame a corridor, and a smaller distant figure can be seen walking away down that path — a lone soul receding into the underworld. The palette is almost entirely black, ash-grey, and bone-white, with a touch of cool ambient light. The composition has a forward-facing portrait quality with a narrative scene compressed into the background.
 

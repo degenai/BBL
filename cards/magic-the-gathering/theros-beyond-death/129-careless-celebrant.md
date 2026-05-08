@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["satyr", "revelry", "dance", "wine", "drinking", "celebration", "horns", "fire", "shaman", "greek-myth", "music", "ritual", "comic-relief"]
 tags_filter: ["solo", "mid-shot", "action", "three-quarter", "male-figure", "creature-satyr", "red-magic", "uncommon"]
-reference_image: images/magic-the-gathering/theros-beyond-death/129-careless-celebrant.png
+reference_image: cards/_images/magic-the-gathering/theros-beyond-death/129-careless-celebrant.png
 average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![129-careless-celebrant](../../../images/magic-the-gathering/theros-beyond-death/129-careless-celebrant.png)
+![129-careless-celebrant](../../_images/magic-the-gathering/theros-beyond-death/129-careless-celebrant.png)
 
 A bare-chested satyr with curling ram-like horns dances or leaps with both arms raised in ecstatic abandon, a curved drinking vessel clutched in one hand. Cloth or sash trails behind the figure suggesting motion mid-revel. The whole composition is bathed in a hot crimson-and-orange palette that reads as firelight or a Dionysian bacchanal. Background is a wash of warm reds and deep shadow with no clear architecture — the figure pops against an abstracted blaze of celebration. Body language is loose, drunken, joyful, careless.
 

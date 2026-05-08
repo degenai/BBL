@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: images/magic-the-gathering/core-set-2020/231-marauder-s-axe.png
+reference_image: cards/_images/magic-the-gathering/core-set-2020/231-marauder-s-axe.png
 average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-07

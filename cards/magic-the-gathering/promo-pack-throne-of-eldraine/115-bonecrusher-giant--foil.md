@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: images/magic-the-gathering/promo-pack-throne-of-eldraine/115-bonecrusher-giant--foil.png
+reference_image: cards/_images/magic-the-gathering/promo-pack-throne-of-eldraine/115-bonecrusher-giant--foil.png
 average_cost_paid: 0
 market_price: 0.92
 market_price_as_of: 2026-05-07
@@ -28,7 +28,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/5/b5b71cd2-de3
 
 ## Vision
 
-![115-bonecrusher-giant--foil](../../../images/magic-the-gathering/promo-pack-throne-of-eldraine/115-bonecrusher-giant--foil.png)
+![115-bonecrusher-giant--foil](../../_images/magic-the-gathering/promo-pack-throne-of-eldraine/115-bonecrusher-giant--foil.png)
 
 > ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 

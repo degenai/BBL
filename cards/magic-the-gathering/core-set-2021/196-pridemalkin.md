@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["cat", "tabby", "feline", "urban", "city", "street", "muscular", "predator", "comic-relief", "stoic", "alley", "hunter", "stride", "pride", "warrior-cat"]
 tags_filter: ["mid-shot", "portrait-mode", "duo", "faces-left", "creature-cat", "green-mono", "common", "green-magic"]
-reference_image: images/magic-the-gathering/core-set-2021/196-pridemalkin.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/196-pridemalkin.png
 average_cost_paid: 0
 market_price: 0.25
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: urban
 
 ## Vision
 
-![196-pridemalkin](../../../images/magic-the-gathering/core-set-2021/196-pridemalkin.png)
+![196-pridemalkin](../../_images/magic-the-gathering/core-set-2021/196-pridemalkin.png)
 
 A large orange tabby cat with exaggerated musculature stands on stone pavement, body turned at three-quarter view to camera, head tilted up. The distant background shows a small dim figure in robes with arms raised. Color palette is warm earth tones in the foreground against a cool blue-grey background. The mood is heroic-cat, proud, with a slight absurdity — flavor text 'They can deal excess combat damage to the player or planeswalker they're attacking' is dry humor about cat priorities.
 

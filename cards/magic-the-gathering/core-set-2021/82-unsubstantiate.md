@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["spellcaster", "wizard", "robed-figure", "magic", "counterspell", "vortex", "storm", "cyclone", "arcane", "ritual", "night", "hood"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "action-mode", "instant", "blue-magic", "no-face"]
-reference_image: images/magic-the-gathering/core-set-2021/82-unsubstantiate.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/82-unsubstantiate.png
 average_cost_paid: 0
 market_price: 0.3
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![82-unsubstantiate](../../../images/magic-the-gathering/core-set-2021/82-unsubstantiate.png)
+![82-unsubstantiate](../../_images/magic-the-gathering/core-set-2021/82-unsubstantiate.png)
 
 A robed figure stands in dramatic silhouette at the lower-center of the frame, illuminated against a churning vortex of blue and white magical energy that spirals upward and outward. The mage holds an implement aloft — a curved blade or staff catches red highlights — while debris, fragments, and arcane particles are pulled into the swirling counterspell. The palette is dominated by deep blues, blacks, and electric whites, with warm red accents on the figure's clothing providing the only chromatic counterpoint. The composition is kinetic and chaotic, conveying the moment of a spell being unmade and returned to the void.
 

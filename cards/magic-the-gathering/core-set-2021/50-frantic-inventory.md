@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["wizard", "scholar", "panic", "books", "scrolls", "clutter", "fugitive", "itinerant", "research", "comic-relief", "exile", "mage", "library"]
 tags_filter: ["close-up", "narrative-mode", "solo", "forward-facing", "instant", "blue-mono", "male-figure", "common", "blue-magic"]
-reference_image: images/magic-the-gathering/core-set-2021/50-frantic-inventory.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/50-frantic-inventory.png
 average_cost_paid: 0
 market_price: 0.25
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: indoor
 
 ## Vision
 
-![50-frantic-inventory](../../../images/magic-the-gathering/core-set-2021/50-frantic-inventory.png)
+![50-frantic-inventory](../../_images/magic-the-gathering/core-set-2021/50-frantic-inventory.png)
 
 A man with messy white hair and wide manic eyes hunches over a chaotic table of books, scrolls, jars, and curios. He's mid-action — hands grabbing items, head turned toward the viewer mid-thought. Cool blue magical light underlights the scene from below. Stacks of crates and shelves of curios loom in the background. Mood is frenetic, exiled, comedic. Flavor text: 'Another village, another angry mob. Why do I even bother unpacking?' — itinerant wizard / fugitive scholar archetype.
 

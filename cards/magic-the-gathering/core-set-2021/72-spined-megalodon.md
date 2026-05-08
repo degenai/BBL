@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["shark", "ocean", "sea-monster", "leviathan", "predator", "prehistoric", "fangs", "storm", "breaching", "apex-predator", "monster", "waves"]
 tags_filter: ["solo", "wide-shot", "scene-mode", "no-face", "blue-magic", "creature-shark", "action-pose", "faces-left"]
-reference_image: images/magic-the-gathering/core-set-2021/72-spined-megalodon.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/72-spined-megalodon.png
 average_cost_paid: 0
 market_price: 0.19
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: ocean
 
 ## Vision
 
-![72-spined-megalodon](../../../images/magic-the-gathering/core-set-2021/72-spined-megalodon.png)
+![72-spined-megalodon](../../_images/magic-the-gathering/core-set-2021/72-spined-megalodon.png)
 
 A colossal dark-blue shark erupts from a churning ocean, its body twisting as water sprays in arcs around it. A row of pale, bony spines runs along its back like a serrated ridge. Its mouth gapes open to show rows of jagged teeth. The sea is rendered in choppy peaks of deep navy, slate, and white foam. Behind the creature, a flat, washed-out sky of muted blue-grey suggests overcast daylight or storm-light, giving the silhouette a stark, monumental presence. The framing emphasizes scale — the shark dominates the composition while the horizon line sits low.
 

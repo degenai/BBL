@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["kiss", "romance", "fairy-tale", "curse", "transformation", "forest", "lovers", "maiden", "vines", "princess", "rescue", "embrace"]
 tags_filter: ["duo", "2-figures", "mid-shot", "scene-mode", "female-figure", "three-quarter", "white-magic", "instant"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/34-true-love-s-kiss.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/34-true-love-s-kiss.png
 average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![34-true-love-s-kiss](../../../images/magic-the-gathering/throne-of-eldraine/34-true-love-s-kiss.png)
+![34-true-love-s-kiss](../../_images/magic-the-gathering/throne-of-eldraine/34-true-love-s-kiss.png)
 
 A young woman with long brown hair, dressed in a flowing crimson and rose-pink gown, leans into the embrace of a dark, hunched figure entangled in vines and shadow. The cursed figure's form is partly obscured — black, plant-bound, possibly mid-transformation. Their faces meet in a kiss at the heart of the composition. Behind them lush green foliage, leaves and ivy frame the moment, dappled with soft golden forest light filtering through the canopy. The mood is tender, sublime, and faintly melancholic — a storybook curse-breaking moment.
 

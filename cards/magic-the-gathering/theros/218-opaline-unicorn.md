@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["unicorn", "horse", "horn", "forest", "gold", "sacred-animal", "sunbeam", "mythic-beast", "wilderness", "light", "purity", "quadruped"]
 tags_filter: ["solo", "mid-shot", "faces-right", "portrait-mode", "no-figure", "artifact", "creature-unicorn", "colorless-magic", "mana-fixing", "backlit", "scene-mode"]
-reference_image: images/magic-the-gathering/theros/218-opaline-unicorn.png
+reference_image: cards/_images/magic-the-gathering/theros/218-opaline-unicorn.png
 average_cost_paid: 0
 market_price: 0.25
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![218-opaline-unicorn](../../../images/magic-the-gathering/theros/218-opaline-unicorn.png)
+![218-opaline-unicorn](../../_images/magic-the-gathering/theros/218-opaline-unicorn.png)
 
 A radiant unicorn with a metallic gold and opalescent coat stands in a forest glade, body angled slightly to the right with its head turned and horn lifted. A long pointed golden horn catches the light, and its mane and tail flow in soft strands that suggest precious metal more than hair. Sun-rays filter through the canopy behind the creature, scattering bright highlights across leaves and the forest floor. The background is a soft green-and-amber blur of trees and undergrowth, with one slender trunk crossing behind the unicorn. The mood is sublime and peaceful — a sacred-animal sighting in a sunlit wood.
 

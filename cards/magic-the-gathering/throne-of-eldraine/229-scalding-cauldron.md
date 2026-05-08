@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["cauldron", "witch", "potion", "brew", "kitchen", "ritual", "robed-figure", "hood", "fire", "smoke", "cooking", "fairy-tale", "folk-horror", "coven"]
 tags_filter: ["artifact", "duo", "2-figures", "mid-shot", "indoor", "no-face", "blue-magic"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/229-scalding-cauldron.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/229-scalding-cauldron.png
 average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![229-scalding-cauldron](../../../images/magic-the-gathering/throne-of-eldraine/229-scalding-cauldron.png)
+![229-scalding-cauldron](../../_images/magic-the-gathering/throne-of-eldraine/229-scalding-cauldron.png)
 
 A heavy black iron cauldron sits on a wooden chopping block at the center of the composition, embers and coals glowing red-orange beneath it and pale smoke curling upward. Two figures in long pale-blue hooded robes flank the pot — one on the right works a long-handled ladle or stirring rod into the brew, the other on the left leans in tending the fire or adding ingredients. The setting is a stone scullery or witch's kitchen with a shadowed arched opening in the background and a hanging implement visible at upper right. The palette is muted slate-blue and grey with warm orange accents from the coals. Lighting is low and ambient, with the firelight under the cauldron acting as a secondary warm source.
 

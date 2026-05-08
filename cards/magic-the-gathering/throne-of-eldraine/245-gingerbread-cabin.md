@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["gingerbread", "cottage", "candy", "forest", "fairy-tale", "witch", "hansel-and-gretel", "cozy", "trap", "food", "bait", "mist", "storybook"]
 tags_filter: ["land", "forest-land", "no-figures", "scene-mode", "mid-shot", "green-magic", "food-token", "common"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/245-gingerbread-cabin.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/245-gingerbread-cabin.png
 average_cost_paid: 0
 market_price: 0.32
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![245-gingerbread-cabin](../../../images/magic-the-gathering/throne-of-eldraine/245-gingerbread-cabin.png)
+![245-gingerbread-cabin](../../_images/magic-the-gathering/throne-of-eldraine/245-gingerbread-cabin.png)
 
 A tiny gingerbread cottage sits atop a moss-covered tree stump in the middle of a quiet forest. The cabin has gingerbread-brown walls trimmed with white icing piping, candy-cane support beams, and a roof shingled with what appears to be frosted candies or gumdrops. A warm yellow glow emanates from a single round window. The stump is surrounded by ferns and undergrowth, and pale mist drifts through the trees in the background, with thin shafts of daylight filtering down through the canopy. A few small candies or sweets are scattered on the ground near the base of the stump, suggesting bait. The mood is fairy-tale uncanny — outwardly cozy, implicitly sinister, the witch's lure from Hansel and Gretel.
 

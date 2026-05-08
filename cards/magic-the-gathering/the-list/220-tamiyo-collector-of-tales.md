@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["scholar", "scroll", "robed-figure", "storyteller", "archivist", "magic-user", "long-hair", "storm", "monument", "knowledge", "sage", "glowing-object"]
 tags_filter: ["solo", "mid-shot", "portrait-mode", "three-quarter", "female-figure", "planeswalker", "legendary", "green-magic", "blue-magic", "multicolor-blue-green"]
-reference_image: images/magic-the-gathering/the-list/220-tamiyo-collector-of-tales.png
+reference_image: cards/_images/magic-the-gathering/the-list/220-tamiyo-collector-of-tales.png
 average_cost_paid: 0
 market_price: 0.73
 market_price_as_of: 2026-05-07
@@ -38,7 +38,7 @@ ip_verified: false
 > [!warning] Suspected IP: **Tamiyo** (confidence: high, unverified)
 > Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
-![220-tamiyo-collector-of-tales](../../../images/magic-the-gathering/the-list/220-tamiyo-collector-of-tales.png)
+![220-tamiyo-collector-of-tales](../../_images/magic-the-gathering/the-list/220-tamiyo-collector-of-tales.png)
 
 A robed figure with long, straight pale hair stands at the foreground, draped in layered scholar's robes in deep teals and blues with brass-gold accents. She holds an unfurled scroll or document that emits a soft warm glow, its surface marked with arcane script. Her expression is composed and studious. Behind her, a turbulent sky churns with cloud and storm-light, and the suggestion of a large monument or pylon rises in the middle distance. Color palette is dominated by cool blues and greens with warm golden highlights from the glowing scroll providing the focal contrast.
 

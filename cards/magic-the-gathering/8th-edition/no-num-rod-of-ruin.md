@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: images/magic-the-gathering/8th-edition/no-num-rod-of-ruin.png
+reference_image: cards/_images/magic-the-gathering/8th-edition/no-num-rod-of-ruin.png
 average_cost_paid: 0
 market_price: 0.19
 market_price_as_of: 2026-05-07
@@ -28,7 +28,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/a/9a0e90b8-bc3
 
 ## Vision
 
-![no-num-rod-of-ruin](../../../images/magic-the-gathering/8th-edition/no-num-rod-of-ruin.png)
+![no-num-rod-of-ruin](../../_images/magic-the-gathering/8th-edition/no-num-rod-of-ruin.png)
 
 > ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 

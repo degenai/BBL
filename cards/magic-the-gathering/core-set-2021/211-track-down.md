@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["wolf", "wolf-pack", "hunt", "tracking", "forest", "predator", "pack-animal", "scent-trail", "wilderness", "night-forest", "magic-trail", "beast"]
 tags_filter: ["duo", "scene-mode", "faces-right", "no-figure", "animals-only", "green-magic", "sorcery", "card-draw", "scry"]
-reference_image: images/magic-the-gathering/core-set-2021/211-track-down.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/211-track-down.png
 average_cost_paid: 0
 market_price: 0.27
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![211-track-down](../../../images/magic-the-gathering/core-set-2021/211-track-down.png)
+![211-track-down](../../_images/magic-the-gathering/core-set-2021/211-track-down.png)
 
 Two or more dark-furred wolves push through a shadowy woodland clearing, jaws open and teeth bared as they crest over mossy stones and roots. The lead wolf is mid-stride, eyes locked on prey out of frame to the right. In the foreground a chain of luminous yellow paw-prints glows on the leaf-strewn ground, marking a magical scent-trail the pack is following. The forest behind is dense with vertical trunks and tangled undergrowth in muted greens and browns; the only bright element is the supernatural yellow of the tracking spell.
 

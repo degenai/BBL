@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["imprisonment", "magic", "chains", "glow", "sphere", "binding", "captive", "stronghold", "spellwork", "runes", "ritual"]
 tags_filter: ["mid-shot", "scene-mode", "duo", "enchantment-aura", "blue-mono", "common", "blue-magic"]
-reference_image: images/magic-the-gathering/core-set-2021/47-capture-sphere.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/47-capture-sphere.png
 average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: indoor
 
 ## Vision
 
-![47-capture-sphere](../../../images/magic-the-gathering/core-set-2021/47-capture-sphere.png)
+![47-capture-sphere](../../_images/magic-the-gathering/core-set-2021/47-capture-sphere.png)
 
 Glowing rings and chains of magical energy encase a humanoid figure, suspending them in midair. The light is bluish-purple, with bright runic detail along the binding sphere. Behind, dim castle towers loom in mist. The spell binds rather than kills — a magical imprisonment, not a strike.
 

@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["ocean", "sea-monster", "leviathan", "merfolk", "storm", "trident", "summoner", "warrior-woman", "ritual", "wave", "armor", "blue-skin"]
 tags_filter: ["duo", "mid-shot", "forward-facing", "scene-mode", "female-figure", "blue-magic", "planeswalker", "legendary", "uncommon"]
-reference_image: images/magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner.png
+reference_image: cards/_images/magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner.png
 average_cost_paid: 0
 market_price: 1.3
 market_price_as_of: 2026-05-07
@@ -37,7 +37,7 @@ ip_verified: false
 > [!warning] Suspected IP: **Kiora** (confidence: high, unverified)
 > Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
-![232-kiora-behemoth-beckoner](../../../images/magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner.png)
+![232-kiora-behemoth-beckoner](../../_images/magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner.png)
 
 A blue-skinned female figure with long tendril-like cyan hair stands triumphant atop the dark coiled body of a massive sea-leviathan whose serpentine form breaches the churning ocean. She is clad in dark plated shoulder armor and a dark wrap, raising a curved silver bident or trident-staff above her head with one hand. Foamy whitecaps crash around the creature's exposed coils. The sky behind her is a moody slate blue-grey under overcast storm light, with the leviathan's bulk in deep blue-black shadow filling the lower half of the composition. Her stance is commanding, almost ritualistic, as if calling the beast forth from the depths.
 

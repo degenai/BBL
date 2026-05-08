@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["minotaur", "shaman", "ritual", "sacrifice", "horns", "worship", "blood", "fire", "cult", "priest", "fanatic", "tribal"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "action", "single-figure", "male-figure", "no-face-visible", "enchantment-creature", "black-magic", "creature-minotaur", "creature-shaman"]
-reference_image: images/magic-the-gathering/theros-beyond-death/115-soulreaper-of-mogis.png
+reference_image: cards/_images/magic-the-gathering/theros-beyond-death/115-soulreaper-of-mogis.png
 average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![115-soulreaper-of-mogis](../../../images/magic-the-gathering/theros-beyond-death/115-soulreaper-of-mogis.png)
+![115-soulreaper-of-mogis](../../_images/magic-the-gathering/theros-beyond-death/115-soulreaper-of-mogis.png)
 
 A bull-horned minotaur figure stands in three-quarter view with both arms raised toward the sky, head tilted upward in ecstatic worship or invocation. The figure has shaggy dark fur, large curved horns sweeping outward from the skull, and wears tribal/ritual garb with bone or metal accents. One hand appears to grip a ritual implement. The palette is dominated by deep reds, rust browns, and umber, with smoky atmospheric haze filling the background. The lighting is warm and infernal, suggesting firelight or ritual flame. The whole composition reads as a moment of religious fervor — sacrifice offered up to a wrathful god.
 

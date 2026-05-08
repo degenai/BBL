@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["golem", "guardian", "ancient-ruin", "forgotten", "stone", "rust", "giant", "goblin", "scale-contrast", "sentinel", "weathered", "hillside"]
 tags_filter: ["duo", "2-figures", "wide-shot", "scene-mode", "three-quarter-facing", "no-face", "artifact", "creature-golem", "colorless", "common"]
-reference_image: images/magic-the-gathering/core-set-2021/231-forgotten-sentinel.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/231-forgotten-sentinel.png
 average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![231-forgotten-sentinel](../../../images/magic-the-gathering/core-set-2021/231-forgotten-sentinel.png)
+![231-forgotten-sentinel](../../_images/magic-the-gathering/core-set-2021/231-forgotten-sentinel.png)
 
 A massive humanoid golem dominates the frame, its body a patchwork of grey stone, oxidized bronze plating, and reddish-brown rust or moss streaks running down its torso and legs. The construct looks centuries old: cracked, pitted, and overgrown, with heavy shoulder pauldrons and an eyeless, helm-like head tilted slightly forward. It stands on a grassy ridge with scrubby hill country falling away behind it, and a pale, hazy sky washes the background in muted blues and whites. At the golem's feet a tiny goblin or kobold-sized humanoid in earthy clothing tips its head back to stare up at the giant, giving an immediate sense of scale. The lighting is flat and ambient, the palette weathered and dusty.
 

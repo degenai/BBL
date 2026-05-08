@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["thief", "rogue", "hood", "stealth", "night", "shadow", "trespass", "temple", "robed-figure", "moonlight", "secret", "criminal"]
 tags_filter: ["solo", "close-up", "portrait-mode", "three-quarter-facing", "human-figure", "female-figure", "no-weapon-visible", "blue-magic", "creature-human", "creature-rogue", "common-rarity", "foil"]
-reference_image: images/magic-the-gathering/theros-beyond-death/116-temple-thief--foil.png
+reference_image: cards/_images/magic-the-gathering/theros-beyond-death/116-temple-thief--foil.png
 average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![116-temple-thief--foil](../../../images/magic-the-gathering/theros-beyond-death/116-temple-thief--foil.png)
+![116-temple-thief--foil](../../_images/magic-the-gathering/theros-beyond-death/116-temple-thief--foil.png)
 
 A close-cropped portrait of a robed thief slipping through near-total darkness. The figure wears a deep indigo/navy hood pulled low; only the upper face — wide pale eyes, sharp brow, a narrow nose — emerges into the rim of cool blue-cyan light. The skin reads almost lavender-white where touched by the moonlight, and the rest of the form dissolves into black negative space. A faint warm orange glow leaks in from the lower right, suggesting torchlight or a brazier in an unseen temple chamber the thief is sneaking past. The composition is tight and conspiratorial — the viewer is right next to the thief in the dark. No weapon, no loot, no second figure visible: the moment is the held breath before the deed.
 

@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["faerie", "wings", "flight", "thief", "stealing", "book", "knowledge", "secrets", "night", "moonlight", "mischief", "trickster", "fae"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "action", "female-figure", "blue-magic", "creature-faerie", "flying", "card-draw", "common"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/68-tome-raider.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/68-tome-raider.png
 average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![68-tome-raider](../../../images/magic-the-gathering/throne-of-eldraine/68-tome-raider.png)
+![68-tome-raider](../../_images/magic-the-gathering/throne-of-eldraine/68-tome-raider.png)
 
 A slender faerie with luminous pale-blue skin and dark hair swoops downward through a moonlit night sky, her translucent crystalline wings fanned out behind her in a sweep of jagged pale-blue panels. She clutches a sheaf of loose papers — pages just stolen from a book — to her chest with both arms, glancing back over her shoulder with a sly, mischievous expression. The palette is dominated by deep midnight blues, electric cobalt highlights along her wings, and the off-white of the parchment pages catching what little light there is. The whole image reads as a thief caught in the act, frozen mid-getaway against a stylized indigo void.
 

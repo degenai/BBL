@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["castle", "fortress", "stone", "moss", "ruins", "giant", "construct", "walking-structure", "mist", "wilderness", "medieval", "fairytale"]
 tags_filter: ["solo", "wide-shot", "scene-mode", "no-face", "three-quarter", "artifact", "creature-wall", "defender", "colorless"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/228-roving-keep.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/228-roving-keep.png
 average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![228-roving-keep](../../../images/magic-the-gathering/throne-of-eldraine/228-roving-keep.png)
+![228-roving-keep](../../_images/magic-the-gathering/throne-of-eldraine/228-roving-keep.png)
 
 An enormous walking fortress dominates the frame, its body assembled from mortared stone walls, crenellated battlements, and squat towers all fused into a single hunched mass. Two thick, boulder-like legs plant heavily into the ground, kicking up dust as it advances. Moss, lichen, and small trees grow across its weathered ramparts, suggesting it has stood and walked for ages. The lighting is overcast and diffuse, with pale mist softening the background hills and giving the whole scene a muted, earthen palette of greens, browns, and stone-greys. The composition reads from low and slightly to the side, emphasizing the keep's mass and slow, deliberate forward motion.
 

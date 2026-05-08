@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["warrior", "combat", "leaping-figure", "swordsman", "knight", "duel", "armor", "blonde-hero", "ogre", "giant", "ruins", "decisive-strike"]
 tags_filter: ["duo", "mid-shot", "action-mode", "faces-right", "two-figures", "white-magic", "instant", "removal", "destroy-tapped"]
-reference_image: images/magic-the-gathering/core-set-2021/40-swift-response.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/40-swift-response.png
 average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![40-swift-response](../../../images/magic-the-gathering/core-set-2021/40-swift-response.png)
+![40-swift-response](../../_images/magic-the-gathering/core-set-2021/40-swift-response.png)
 
 A blonde-haired human warrior in blue and teal plate armor is captured mid-leap, body arcing forward through the air with sword held high in a two-handed overhead strike. Their hair streams behind them, conveying violent forward motion. Below and to the right, a massive red-skinned brute — possibly an ogre or giant — is shown recoiling, head thrown back, partially obscured by a swirling cloud of warm orange dust and debris. The background is a chaotic blur of broken stonework, dust, and warm sunset-fire tones in red, orange, and ochre, contrasting with the cool blue of the leaping figure. The composition reads as a frozen instant of decisive combat, weighted toward the warrior's downward arc of attack.
 

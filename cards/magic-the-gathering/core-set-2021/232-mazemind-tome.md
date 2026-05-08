@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["book", "tome", "magic", "knowledge", "library", "wizardry", "vortex", "scrying", "memory", "arcane-artifact", "spellbook", "divination"]
 tags_filter: ["solo-object", "no-figure", "close-up", "forward-facing", "portrait-mode", "artifact", "blue-magic", "colorless-artifact"]
-reference_image: images/magic-the-gathering/core-set-2021/232-mazemind-tome.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/232-mazemind-tome.png
 average_cost_paid: 0
 market_price: 0.36
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![232-mazemind-tome](../../../images/magic-the-gathering/core-set-2021/232-mazemind-tome.png)
+![232-mazemind-tome](../../_images/magic-the-gathering/core-set-2021/232-mazemind-tome.png)
 
 A heavy, leather-bound book with reinforced metallic edges hovers open in the air against an indistinct dim backdrop. From the open pages a churning blue spiral of magical energy erupts upward and outward, suggesting knowledge or memory being summoned from within. The covers are ornamented with riveted bands and small embossed details. The light source comes from the vortex itself, casting cool blue rim-light across the leather and metal of the binding while the surrounding space falls into shadowy browns and blacks.
 

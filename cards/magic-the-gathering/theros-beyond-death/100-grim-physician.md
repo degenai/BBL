@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["mask", "golden-mask", "death", "undead", "zombie", "physician", "healer", "ritual", "robed-figure", "funeral", "memory-loss", "greek-myth", "underworld"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "creature-zombie", "black-magic", "monocolor-black"]
-reference_image: images/magic-the-gathering/theros-beyond-death/100-grim-physician.png
+reference_image: cards/_images/magic-the-gathering/theros-beyond-death/100-grim-physician.png
 average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![100-grim-physician](../../../images/magic-the-gathering/theros-beyond-death/100-grim-physician.png)
+![100-grim-physician](../../_images/magic-the-gathering/theros-beyond-death/100-grim-physician.png)
 
 A solitary robed figure occupies the frame in mid-shot, wearing a stylized golden funerary mask with hollow eyes and an impassive expression characteristic of Theros's Returned. The figure's dark robes blend into a murky, near-black background, while the gold mask and warm-amber accents on the garment catch the only real light. The figure appears to be tending to something — hands raised, holding a small implement — suggesting a clinical or ritual act performed without emotion. The atmosphere is funereal, hushed, and grim, with no visible setting beyond the suffocating darkness around the figure.
 

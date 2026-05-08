@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["cyclops", "giant", "one-eye", "warrior", "chain", "weapon", "ruins", "destruction", "rage", "rubble", "smoke", "shirtless", "beard", "topknot"]
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "action-mode", "male-figure", "red-magic", "creature-cyclops", "creature-warrior", "common"]
-reference_image: images/magic-the-gathering/war-of-the-spark/118-chainwhip-cyclops.png
+reference_image: cards/_images/magic-the-gathering/war-of-the-spark/118-chainwhip-cyclops.png
 average_cost_paid: 0
 market_price: 0.02
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![118-chainwhip-cyclops](../../../images/magic-the-gathering/war-of-the-spark/118-chainwhip-cyclops.png)
+![118-chainwhip-cyclops](../../_images/magic-the-gathering/war-of-the-spark/118-chainwhip-cyclops.png)
 
 A bare-chested cyclops dominates the frame, head thrown back in a roar or war-cry, single eye open wide, mouth gaping with bared teeth. He has a long matted topknot of pale hair, a thick beard, and heavy musculature with a soft gut, painted in warm tan and orange flesh tones. He whips a length of heavy iron chain studded with spiked weights — one end crashing into a stone pillar at lower left, sending shards flying. The setting is a destroyed colonnade or temple plaza: broken columns, scattered rubble, smoke-and-fire haze in the deep background. Lighting is harsh and warm, dominated by red-orange and ochre tones consistent with the card's red mana identity, with chiaroscuro modeling on the cyclops's torso.
 

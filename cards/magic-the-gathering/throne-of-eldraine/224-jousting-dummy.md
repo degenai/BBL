@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["scarecrow", "knight", "tournament", "jousting", "armor", "lance", "training", "effigy", "fairy-tale", "banners", "comic-relief", "medieval"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "portrait-mode", "no-face", "artifact", "creature-scarecrow", "colorless-magic", "day-scene"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/224-jousting-dummy.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/224-jousting-dummy.png
 average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![224-jousting-dummy](../../../images/magic-the-gathering/throne-of-eldraine/224-jousting-dummy.png)
+![224-jousting-dummy](../../_images/magic-the-gathering/throne-of-eldraine/224-jousting-dummy.png)
 
 A weathered training dummy stands in a tournament field, dressed up as a mock knight: a kettle-style helmet adorned with green plumes sits atop a sackcloth-stitched scarecrow head, with painted features. Its body wears a battered metal cuirass and pauldrons over rough cloth, and one arm holds a wooden lance angled forward as if frozen mid-tilt. The dummy is fixed atop a sturdy wooden post or pivot, the classic medieval quintain. Behind it, the tournament grounds stretch out under daylight: colorful pennants and striped banners flutter from posts, and the silhouettes of castle structures and lists fill the background. Color palette is warm and earthy — browns, greens, soft golds — with the storybook fairy-tale feel characteristic of Throne of Eldraine.
 

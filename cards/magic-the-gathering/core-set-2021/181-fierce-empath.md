@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["elf", "forest", "scout", "ranger", "hunter", "stealth", "wilderness", "leaves", "canopy", "tracker", "woodland", "ambush"]
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "scene-mode", "creature-elf", "green-magic", "no-architecture"]
-reference_image: images/magic-the-gathering/core-set-2021/181-fierce-empath.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/181-fierce-empath.png
 average_cost_paid: 0
 market_price: 0.32
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![181-fierce-empath](../../../images/magic-the-gathering/core-set-2021/181-fierce-empath.png)
+![181-fierce-empath](../../_images/magic-the-gathering/core-set-2021/181-fierce-empath.png)
 
 A green-toned forest scene depicts a slender elven figure half-concealed in heavy undergrowth. Broad, fan-shaped leaves and twisting branches frame the figure on every side, suggesting deep woodland canopy. The palette is dominated by saturated forest greens with darker shadowed pockets and glints of warmer light filtering through the leaves. The elf's posture is alert and watchful, body partially obscured, eyes directed toward something offscreen. The composition reads as a stalker or tracker moment — a figure who belongs to the forest rather than passing through it.
 

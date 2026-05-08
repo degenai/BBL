@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["roses", "thorns", "druid", "acolyte", "robed-figure", "hooded-figure", "forest", "thicket", "flowers", "youth", "initiate", "fairytale"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "female-figure", "green-magic", "creature-elf", "creature-druid", "mana-fixing", "adventure"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/174-rosethorn-acolyte.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/174-rosethorn-acolyte.png
 average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![174-rosethorn-acolyte](../../../images/magic-the-gathering/throne-of-eldraine/174-rosethorn-acolyte.png)
+![174-rosethorn-acolyte](../../_images/magic-the-gathering/throne-of-eldraine/174-rosethorn-acolyte.png)
 
 A youthful figure in a dark green hooded cloak peers out from within a tangled thicket of thorny vines studded with red roses. The brambles dominate the frame, weaving in front of and around the acolyte so the figure becomes part of the thorn-tangle itself. Warm reds of the rose petals contrast with the cool greens and shadowed browns of the surrounding briar. The composition is dense and almost claustrophobic, suggesting a hidden glade or rose-walled sanctum. Light filters in softly through the thorn-lattice, giving the scene an enclosed woodland feel.
 

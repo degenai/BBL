@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["fox", "butterfly", "rider", "mount", "elf", "knight", "forest", "hunt", "charge", "fairytale", "woodland", "small-folk"]
 tags_filter: ["duo", "2-figures", "mid-shot", "faces-right", "scene-mode", "no-face-visible", "creature-elf", "creature-knight", "green-magic", "common", "action-pose"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/166-maraleaf-rider.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/166-maraleaf-rider.png
 average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![166-maraleaf-rider](../../../images/magic-the-gathering/throne-of-eldraine/166-maraleaf-rider.png)
+![166-maraleaf-rider](../../_images/magic-the-gathering/throne-of-eldraine/166-maraleaf-rider.png)
 
 A small elf knight rides bareback on the shoulders of a large galloping red fox, both leaning into a forward charge. The fox is mid-stride with paws extended, orange-red fur with a white belly, mouth slightly open. The rider wears green and brown leathers and brandishes a curved blade or stick, body crouched low against the fox's neck. Several pale blue butterflies dart through the air around them. The background is a soft-focus woodland in muted greens and earth tones with hints of dappled light. The composition is a dynamic side-on action shot in classic Throne of Eldraine storybook fairytale style.
 

@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["wolf", "predator", "forest", "night", "fangs", "glowing-eyes", "fairy-tale", "big-bad-wolf", "beast", "snarl", "dark-woods", "menace"]
 tags_filter: ["solo", "mid-shot", "faces-right", "portrait-mode", "no-face-human", "creature-beast", "red-magic", "sorcery"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/114-blow-your-house-down.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/114-blow-your-house-down.png
 average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![114-blow-your-house-down](../../../images/magic-the-gathering/throne-of-eldraine/114-blow-your-house-down.png)
+![114-blow-your-house-down](../../_images/magic-the-gathering/throne-of-eldraine/114-blow-your-house-down.png)
 
 A huge dark-furred wolf dominates the frame in profile, head turned to bare its teeth in a snarl. Glowing yellow eyes and a long lolling tongue catch what little light there is. The wolf's body and surroundings are rendered almost entirely in deep blacks, browns, and reds, with the silhouettes of bare crooked trees rising behind it against a dim red-tinted night sky. The mood is menacing and predatory, evoking the Big Bad Wolf of fairy-tale tradition huffing through a haunted wood.
 

@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["cat", "wildcat", "caracal", "predator", "hunt", "pounce", "urban", "city", "alley", "stone-architecture", "ruins", "stray-animal"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "action-pose", "creature-cat", "white-magic", "no-figure", "claws-extended", "no-human"]
-reference_image: images/magic-the-gathering/mystery-booster-cards/17-prowling-caracal.png
+reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/17-prowling-caracal.png
 average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: urban
 
 ## Vision
 
-![17-prowling-caracal](../../../images/magic-the-gathering/mystery-booster-cards/17-prowling-caracal.png)
+![17-prowling-caracal](../../_images/magic-the-gathering/mystery-booster-cards/17-prowling-caracal.png)
 
 A lean tawny-coated caracal is captured mid-leap, its body fully extended in a forward pounce with forelegs stretched out and claws unsheathed. The cat's distinctive black-tufted ears are pinned back and its mouth is slightly open in a hunting snarl. The background is an urban scene of pale stone and brick architecture — there's a suggestion of a low wall, ornamental wrought-iron railings or a gate, and weathered masonry receding into a hazy, daylight-overcast sky. Loose vegetation or weeds grow between stones at the lower edge, hinting at a city alley or neglected courtyard. The palette is dominated by warm tans, ochres, and dust-greys, with the cat's coat catching the muted light.
 

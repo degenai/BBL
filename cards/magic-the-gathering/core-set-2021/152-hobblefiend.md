@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["devil", "imp", "monster", "demon", "darkness", "fangs", "glowing-eyes", "lurker", "fear", "nightmare", "horror", "shadow"]
 tags_filter: ["solo", "close-up", "portrait-mode", "forward-facing", "no-face-human", "red-magic", "creature-devil", "trample", "sacrifice-outlet", "plus-one-counters"]
-reference_image: images/magic-the-gathering/core-set-2021/152-hobblefiend.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/152-hobblefiend.png
 average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: indoor
 
 ## Vision
 
-![152-hobblefiend](../../../images/magic-the-gathering/core-set-2021/152-hobblefiend.png)
+![152-hobblefiend](../../_images/magic-the-gathering/core-set-2021/152-hobblefiend.png)
 
 A diminutive red-skinned devil hunches in near-total darkness, its body lit by a hot red rim light that picks out wiry limbs, hunched shoulders, and a wide grin of sharp teeth. The creature's eyes glow as twin pinpoints in the dark, and its posture is low, predatory, and feral — like something that has just emerged from under furniture. The frame is dominated by deep blacks and ember-orange highlights, evoking the flavor text's bedbug-under-the-bed dread. Composition is tight on the figure with no visible environment beyond inky shadow.
 

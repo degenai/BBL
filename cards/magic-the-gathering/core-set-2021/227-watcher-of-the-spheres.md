@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["owl", "bird", "wings", "wizard", "scholar", "robed-figure", "sky", "clouds", "celestial", "orb", "light", "guardian"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "portrait-mode", "no-face-human", "white-magic", "blue-magic", "multicolor-white-blue", "creature-bird", "creature-wizard", "flying", "anthem-effect"]
-reference_image: images/magic-the-gathering/core-set-2021/227-watcher-of-the-spheres.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/227-watcher-of-the-spheres.png
 average_cost_paid: 0
 market_price: 0.49
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![227-watcher-of-the-spheres](../../../images/magic-the-gathering/core-set-2021/227-watcher-of-the-spheres.png)
+![227-watcher-of-the-spheres](../../_images/magic-the-gathering/core-set-2021/227-watcher-of-the-spheres.png)
 
 An anthropomorphic owl wizard with white plumage and large outstretched wings drifts in a sunlit sky, draped in voluminous gold-and-cream robes that catch the light. Its taloned hands hold or summon a luminous spherical light source at chest height; rays of warm light radiate outward, blending with pale clouds. The palette is dominated by soft gold, white, and sky blue, giving the figure an angelic, celestial-scholar feel. The composition is a mid-shot of a solo airborne figure, three-quarter view, with no other characters present.
 

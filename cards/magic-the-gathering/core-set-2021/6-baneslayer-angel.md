@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["angel", "demon", "wings", "sword", "armor", "smiting", "good-vs-evil", "judgment", "warrior", "winged-figure", "female-warrior", "mountain", "holy-light", "battle"]
 tags_filter: ["duo", "mid-shot", "action-mode", "three-quarter-facing", "female-figure", "white-magic", "creature-angel", "flying", "first-strike", "lifelink", "protection", "mythic-rarity"]
-reference_image: images/magic-the-gathering/core-set-2021/6-baneslayer-angel.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/6-baneslayer-angel.png
 average_cost_paid: 0
 market_price: 3.27
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![6-baneslayer-angel](../../../images/magic-the-gathering/core-set-2021/6-baneslayer-angel.png)
+![6-baneslayer-angel](../../_images/magic-the-gathering/core-set-2021/6-baneslayer-angel.png)
 
 A radiant female angel in burnished gold-and-bronze plate armor plunges downward from a bright sky, her enormous feathered wings flared wide behind her. Long flowing hair streams back as she drives a slender sword toward a hunched, dark-skinned horned demon clutching the rocks below. The angel is rim-lit by warm sunlight from above, her armor catching highlights of cream and gold while the demon is cast in shadow against the pale stone. The terrain is a jagged mountain crag, and the background opens onto a soft hazy sky with distant peaks. Composition is dynamic and diagonal, action frozen at the moment of impact.
 

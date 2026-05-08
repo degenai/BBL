@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["unicorn", "horse", "steed", "knight", "mount", "plains", "hilltop", "pilgrimage", "shrine", "virtue", "companion", "magic-hour"]
 tags_filter: ["solo", "wide-shot", "faces-left", "portrait-mode", "no-figure", "creature-unicorn", "white-magic", "vigilance", "token-maker"]
-reference_image: images/magic-the-gathering/core-set-2021/42-valorous-steed.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/42-valorous-steed.png
 average_cost_paid: 0
 market_price: 0.19
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![42-valorous-steed](../../../images/magic-the-gathering/core-set-2021/42-valorous-steed.png)
+![42-valorous-steed](../../_images/magic-the-gathering/core-set-2021/42-valorous-steed.png)
 
 A pure white unicorn stands proud in profile on the crest of a grassy hill, mane and tail flowing, single straight horn catching the light. The pose is heraldic and still rather than mid-action — noble bearing, head tilted slightly to acknowledge the viewer. Behind it on a lower slope sits a small stone cairn or shrine and the silhouette of a small distant figure, suggesting the unicorn has just left or is being approached by a chosen companion. The background is dominated by a luminous golden sky with soft pale clouds; the foreground grass is a warm muted green-gold under bright wash light. Color palette is overwhelmingly white, gold, and pale green — clean, holy, classic white-magic plains energy.
 

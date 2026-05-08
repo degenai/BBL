@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["griffin", "wings", "flight", "feathers", "talons", "sky", "hunter", "predator", "fairy-tale", "heraldic-beast", "autumn", "noble-beast"]
 tags_filter: ["solo", "mid-shot", "action", "forward-facing", "three-quarter", "no-figure", "creature-griffin", "white-magic", "flying", "scene-mode", "daytime"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/24-prized-griffin.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/24-prized-griffin.png
 average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![24-prized-griffin](../../../images/magic-the-gathering/throne-of-eldraine/24-prized-griffin.png)
+![24-prized-griffin](../../_images/magic-the-gathering/throne-of-eldraine/24-prized-griffin.png)
 
 A heraldic griffin descends in mid-flight against a soft pale sky. Its plumage is predominantly white with lavender and pale-violet shading along the wing feathers and tail; the eagle head is golden-beaked with a sharp focused stare. The wings are spread to their full span, primary feathers fanned, and the forward talons are extended in a hunting or landing posture. Below, a stretch of warm golden-yellow autumnal treetops fills the lower third of the frame. The lighting is soft and high-key — bright daylight with no harsh shadows — giving the piece a clean storybook quality consistent with the Throne of Eldraine fairy-tale aesthetic.
 

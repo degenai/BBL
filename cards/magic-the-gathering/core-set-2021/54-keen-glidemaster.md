@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["flight", "wings", "leap", "mountain", "sky", "cliff", "freedom", "soldier", "adventurer", "courage", "wind", "glider"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "action-pose", "male-figure", "scene-mode", "creature-human", "creature-soldier", "blue-magic", "common"]
-reference_image: images/magic-the-gathering/core-set-2021/54-keen-glidemaster.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/54-keen-glidemaster.png
 average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![54-keen-glidemaster](../../../images/magic-the-gathering/core-set-2021/54-keen-glidemaster.png)
+![54-keen-glidemaster](../../_images/magic-the-gathering/core-set-2021/54-keen-glidemaster.png)
 
 A dark-haired figure in light leather and cloth garb launches forward off a high mountain ridge, arms spread in joyful abandon. Strapped to their back is a wide hang-glider made of stitched hide and feathered wings, framing them like a giant raptor's silhouette. Below and behind, jagged blue peaks stretch into a hazy daylight sky streaked with cirrus clouds. The palette is dominated by sky-blues, the warmer earth-tones of the figure's clothing and the glider's tan webbing reading as the only break from the cool atmosphere. The mood is exhilarated, weightless, freefall-bright.
 

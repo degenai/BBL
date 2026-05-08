@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["sword", "blade", "weapon", "scimitar", "lion", "feline", "equipment-item", "metalwork", "bladed-weapon", "armory", "relic"]
 tags_filter: ["no-figure", "object-portrait", "close-up", "void-background", "artifact-card", "equipment", "colorless-magic", "mono-colorless", "artifact"]
-reference_image: images/magic-the-gathering/mirrodin/no-num-leonin-scimitar.png
+reference_image: cards/_images/magic-the-gathering/mirrodin/no-num-leonin-scimitar.png
 average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: void
 
 ## Vision
 
-![no-num-leonin-scimitar](../../../images/magic-the-gathering/mirrodin/no-num-leonin-scimitar.png)
+![no-num-leonin-scimitar](../../_images/magic-the-gathering/mirrodin/no-num-leonin-scimitar.png)
 
 A single curved scimitar floats centered against a flat, near-black background. The blade is long, slim, and dramatically curved with a polished metallic surface that catches a soft highlight along its edge. The hilt and pommel are sculpted with organic, animalistic flourishes evoking a lion or other big cat — curling forms and tooth- or claw-like accents in pale bone-white and silver tones. There are no figures, no environment, no scene — just the weapon presented as an isolated artifact study. Lighting is soft and directional, picking out the sweep of the blade and the carved detail of the grip.
 

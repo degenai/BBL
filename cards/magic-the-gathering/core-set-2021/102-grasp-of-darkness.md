@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["robed-figure", "tendrils", "dark-magic", "corruption", "blight", "wasteland", "lone-figure", "twilight", "doom", "shadow", "thorns", "ritual"]
 tags_filter: ["solo", "wide-shot", "scene-mode", "forward-facing", "no-face", "instant", "black-magic"]
-reference_image: images/magic-the-gathering/core-set-2021/102-grasp-of-darkness.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/102-grasp-of-darkness.png
 average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![102-grasp-of-darkness](../../../images/magic-the-gathering/core-set-2021/102-grasp-of-darkness.png)
+![102-grasp-of-darkness](../../_images/magic-the-gathering/core-set-2021/102-grasp-of-darkness.png)
 
 A lone robed figure, dwarfed by the scale of the threat, stands in a desolate scorched landscape while colossal serpentine tendrils of black energy or thorned vines erupt from the earth and twist violently upward into a sickly purple-grey sky. The tendrils branch and writhe like a malignant root system pulled inside-out. Faint sickly pink and violet glow rims the figure and the bases of the tendrils, suggesting necrotic magic or corrupted life force. The composition is bottom-heavy with the figure as a tiny silhouette beneath an oppressive canopy of hostile growth. Mood is grim, oppressive, and overwhelming.
 

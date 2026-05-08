@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["dragon", "fire", "war", "battle", "banner", "heraldry", "roar", "siege", "smoke", "monster", "scales", "wrath"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "action", "no-face", "creature-dragon", "red-magic", "sorcery", "no-figure"]
-reference_image: images/magic-the-gathering/core-set-2021/166-traitorous-greed.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/166-traitorous-greed.png
 average_cost_paid: 0
 market_price: 0.27
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![166-traitorous-greed](../../../images/magic-the-gathering/core-set-2021/166-traitorous-greed.png)
+![166-traitorous-greed](../../_images/magic-the-gathering/core-set-2021/166-traitorous-greed.png)
 
 A scaled red dragon dominates the frame, its long sinuous neck arcing forward as it opens its jaws to roar or breathe fire. Crimson banners on tall poles flank the dragon on both sides, suggesting a siege camp, tournament ground, or battlefield muster. The palette is overwhelmingly red — the dragon's hide, the banners, the smoke-flushed sky — with shadowed darks shaping the dragon's musculature. The atmosphere is hot, smoky, and martial; the dragon reads less as a wild beast and more as the centerpiece of a war host, framed almost ceremonially between the two banner poles.
 

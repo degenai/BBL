@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["mountain", "sunset", "wilderness", "landscape", "wind", "banner", "peaks", "golden-hour", "desolate", "vista", "weathered", "shoreline"]
 tags_filter: ["no-figure", "wide-shot", "scene-mode", "no-face", "land", "dual-land", "white-magic", "red-magic", "multicolor-white-red", "lifegain"]
-reference_image: images/magic-the-gathering/core-set-2021/259-wind-scarred-crag.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/259-wind-scarred-crag.png
 average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![259-wind-scarred-crag](../../../images/magic-the-gathering/core-set-2021/259-wind-scarred-crag.png)
+![259-wind-scarred-crag](../../_images/magic-the-gathering/core-set-2021/259-wind-scarred-crag.png)
 
 A wide landscape painting depicting a range of sharp, jagged mountain peaks in the middle and far distance, their faces lit warm orange and rust-red by low-angle sunlight. The lower slopes and foreground fall into deep shadow, with a dark rocky shore and what appears to be still water or a wind-scoured plain. In the immediate foreground, two dark, tattered banners or torn cloth flags hang from thin poles, blown sideways by strong wind, framing the vista. The sky is a hazy gold-pink, with no figures or creatures visible. Mood is sublime, vast, and lonely — pure environment art with an emphasis on weathering and exposure.
 

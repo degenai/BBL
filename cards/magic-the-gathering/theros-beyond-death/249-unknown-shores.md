@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["ocean", "sea", "coast", "fog", "mist", "cliffs", "sea-stacks", "landscape", "wilderness", "voyage", "exploration", "horizon", "solitude"]
 tags_filter: ["no-figure", "wide-shot", "scene-mode", "land", "colorless-mana", "no-face"]
-reference_image: images/magic-the-gathering/theros-beyond-death/249-unknown-shores.png
+reference_image: cards/_images/magic-the-gathering/theros-beyond-death/249-unknown-shores.png
 average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: ocean
 
 ## Vision
 
-![249-unknown-shores](../../../images/magic-the-gathering/theros-beyond-death/249-unknown-shores.png)
+![249-unknown-shores](../../_images/magic-the-gathering/theros-beyond-death/249-unknown-shores.png)
 
 A wide, atmospheric seascape: tall rugged sea-stacks and rocky islets emerge from a calm, glassy ocean, their bases dark and weathered while their upper reaches dissolve into pale mist. The water in the foreground is gently rippled, reflecting muted greys and soft greens. A diffuse, indeterminate light suffuses the scene — not direct sun, but a hazy luminosity that flattens shadows and pushes the more distant cliffs into near-silhouette. No figures, no architecture; the composition is pure landscape, evoking a remote, unexplored coastline reached at the edge of the world.
 

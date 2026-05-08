@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["shield", "light", "barrier", "defender", "robed-figure", "kneeling", "geometry", "prism", "guardian", "protection", "crystal", "young-mage"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "action-mode", "white-magic", "creature-illusion", "male-figure"]
-reference_image: images/magic-the-gathering/war-of-the-spark/33-teyo-s-lightshield.png
+reference_image: cards/_images/magic-the-gathering/war-of-the-spark/33-teyo-s-lightshield.png
 average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-07
@@ -37,7 +37,7 @@ ip_verified: false
 > [!warning] Suspected IP: **Teyo** (confidence: high, unverified)
 > Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
-![33-teyo-s-lightshield](../../../images/magic-the-gathering/war-of-the-spark/33-teyo-s-lightshield.png)
+![33-teyo-s-lightshield](../../_images/magic-the-gathering/war-of-the-spark/33-teyo-s-lightshield.png)
 
 A young figure in pale layered robes crouches low behind a translucent, faceted dome of white-blue light. Sharp prismatic shards and beams radiate from the shield's surface, fracturing the space around him into geometric panes. The figure's posture is defensive and braced — one knee down, body angled forward into the shield as if absorbing an unseen impact. Cool blue-white tones dominate; the light is the painting's main subject, washing over the figure and the dark surroundings beyond.
 

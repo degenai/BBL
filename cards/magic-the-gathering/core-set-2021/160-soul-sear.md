@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["combat", "fire", "pain", "warrior", "beast", "monster", "horns", "hellscape", "armor", "weapon", "slaughter", "ember", "demon", "burning", "duel"]
 tags_filter: ["wide-shot", "action-mode", "duo", "faces-right", "instant", "red-mono", "male-figure", "common", "red-magic"]
-reference_image: images/magic-the-gathering/core-set-2021/160-soul-sear.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/160-soul-sear.png
 average_cost_paid: 0
 market_price: 0.25
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![160-soul-sear](../../../images/magic-the-gathering/core-set-2021/160-soul-sear.png)
+![160-soul-sear](../../_images/magic-the-gathering/core-set-2021/160-soul-sear.png)
 
 A small male warrior in plate armor lunges with a glowing red weapon at a massive horned beast whose hide is the same red as the searing landscape. Sparks and embers fill the air. Mood is brutal — flavor text spells it out: 'There was no witty retort, no confident boast to accompany the attack. There was only pain.' The all-red palette gives the scene a hellscape quality.
 

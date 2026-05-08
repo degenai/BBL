@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["battle", "combat", "violence", "soldier", "polearm", "fire", "smoke", "ruins", "war", "duel", "embers", "fallen-figure"]
 tags_filter: ["duo", "2-figures", "mid-shot", "action-mode", "faces-right", "backlit", "scene-mode", "black-magic", "red-magic", "multicolor-black-red", "sorcery", "armor-clad"]
-reference_image: images/magic-the-gathering/war-of-the-spark/226-widespread-brutality.png
+reference_image: cards/_images/magic-the-gathering/war-of-the-spark/226-widespread-brutality.png
 average_cost_paid: 0
 market_price: 0.83
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![226-widespread-brutality](../../../images/magic-the-gathering/war-of-the-spark/226-widespread-brutality.png)
+![226-widespread-brutality](../../_images/magic-the-gathering/war-of-the-spark/226-widespread-brutality.png)
 
 A violent mid-action exchange staged on a pale stone bridge or causeway. The foreground combatant, seen from behind in a yellow-gold tabard or robe with cropped blonde hair, lunges to the right swinging a long-hafted polearm or staff. A second armored figure in similar pale-gold garments staggers backward and falls to the right, struck by the blow. Behind them the air glows hot orange-yellow with smoke, embers, and the silhouettes of distant figures suggesting a wider melee. The lighting is harsh, backlit by fire and explosion-glow that throws the figures into near-silhouette. The composition reads as a single decisive moment of brutality inside a larger ongoing battle.
 

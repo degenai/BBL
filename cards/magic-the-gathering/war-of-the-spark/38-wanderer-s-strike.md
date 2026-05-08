@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["swordswoman", "swordfighter", "sword", "katana", "ronin", "samurai", "straw-hat", "cloak", "hooded-figure", "duel", "motion", "wandering", "warrior"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "action-mode", "female-figure", "no-face", "white-magic", "sorcery", "exile", "proliferate", "backlit"]
-reference_image: images/magic-the-gathering/war-of-the-spark/38-wanderer-s-strike.png
+reference_image: cards/_images/magic-the-gathering/war-of-the-spark/38-wanderer-s-strike.png
 average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-07
@@ -37,7 +37,7 @@ ip_verified: false
 > [!warning] Suspected IP: **the Wanderer** (confidence: high, unverified)
 > Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
-![38-wanderer-s-strike](../../../images/magic-the-gathering/war-of-the-spark/38-wanderer-s-strike.png)
+![38-wanderer-s-strike](../../_images/magic-the-gathering/war-of-the-spark/38-wanderer-s-strike.png)
 
 A cloaked figure in a wide-brimmed straw hat (sedge-hat/kasa silhouette) sweeps a long blade across the foreground in a single decisive cut. The strike is rendered as streaks of blue-white motion blur and chromatic refraction, fragmenting the figure into overlapping ghosted poses so the eye reads speed rather than a single frozen instant. The background is washed out into pale cloud-and-light tones, keeping the composition focused on the slash. Cool whites, ice blues, and faint lavender dominate; the only warm note is the straw of the hat. Flavor text from Lavinia describes 'precise, clean cuts.'
 

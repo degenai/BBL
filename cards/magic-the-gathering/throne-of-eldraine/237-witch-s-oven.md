@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["oven", "hearth", "fire", "green-fire", "kitchen", "cooking", "witch", "fairy-tale", "gothic", "folk-horror", "stone"]
 tags_filter: ["no-face", "scene-mode", "mid-shot", "forward-facing", "object-focus", "indoor", "night-interior", "artifact", "black-magic", "food-token", "no-figure"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/237-witch-s-oven.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/237-witch-s-oven.png
 average_cost_paid: 0
 market_price: 1.14
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![237-witch-s-oven](../../../images/magic-the-gathering/throne-of-eldraine/237-witch-s-oven.png)
+![237-witch-s-oven](../../_images/magic-the-gathering/throne-of-eldraine/237-witch-s-oven.png)
 
 An imposing hearth-style oven dominates the scene, built from heavy dark stonework with iron banding and an arched maw that pulses with eerie green-tinged flame edged in warm gold. Soot streaks the masonry above the opening, and the surrounding kitchen wall is shrouded in shadow. Small implements — hooks, irons, a spit — hang in the gloom around the firebox. No figures are visible; the cookfire itself is the protagonist. The light source is the unnatural emerald glow inside the oven, which throws faint highlights onto the stones and casts the rest of the room into deep, smoky darkness. The mood is folkloric and ominous — a fairy-tale witch's oven, the kind of cookfire that eats children in the older versions of the story.
 

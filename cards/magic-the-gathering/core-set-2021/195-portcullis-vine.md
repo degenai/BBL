@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["plants", "vines", "flowers", "wall", "barrier", "garden", "forest", "nature", "overgrowth", "foliage", "gateway", "ruins"]
 tags_filter: ["no-face", "no-figures", "close-up", "portrait-mode", "green-magic", "creature-plant", "defender", "wall-creature", "common"]
-reference_image: images/magic-the-gathering/core-set-2021/195-portcullis-vine.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/195-portcullis-vine.png
 average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![195-portcullis-vine](../../../images/magic-the-gathering/core-set-2021/195-portcullis-vine.png)
+![195-portcullis-vine](../../_images/magic-the-gathering/core-set-2021/195-portcullis-vine.png)
 
 A thick, layered cascade of broad green leaves and trailing vines fills the entire frame, hanging like a verdant tapestry. Small clusters of purple-blue flowers are scattered through the foliage, breaking up the otherwise saturated green field. The leaves overlap densely enough to imply impassable thickness behind them — a wall of plant matter rather than ornamental hanging vines. Faint hints of stone or weathered wood structure peek through gaps at the edges, suggesting the vines have grown over an existing gateway or trellis. Lighting is soft and ambient, filtered through the leaves, giving a gentle dappled quality without strong shadow. No figures appear; the plant itself is the subject.
 

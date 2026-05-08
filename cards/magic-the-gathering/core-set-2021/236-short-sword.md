@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["sword", "weapon", "blade", "stained-glass", "chapel", "sacred-object", "relic", "still-life", "gold-light", "equipment-icon", "ceremony"]
 tags_filter: ["no-face", "no-figure-count", "close-up", "portrait-mode", "centered-composition", "object-only", "artifact", "equipment", "colorless-magic", "no-figure"]
-reference_image: images/magic-the-gathering/core-set-2021/236-short-sword.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/236-short-sword.png
 average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![236-short-sword](../../../images/magic-the-gathering/core-set-2021/236-short-sword.png)
+![236-short-sword](../../_images/magic-the-gathering/core-set-2021/236-short-sword.png)
 
 A straight, double-edged short sword stands vertically with its point up, centered before a tall arched stained-glass window. The blade is rendered in cool steel-blue tones and is illuminated near its midpoint by a warm golden glow that fans out across the glass behind it, almost like a halo. The window's panes are mostly deep blues and indigos with red and amber accents arranged in geometric leaded patterns, suggesting a chapel, cathedral, or sanctuary interior. The crossguard is a simple gold bar and the grip is dark, ending in a rounded pommel. There are no figures present — this is a still-life of an object, an icon of equipment rather than a scene of action.
 

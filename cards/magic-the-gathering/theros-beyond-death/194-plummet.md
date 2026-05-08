@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["archery", "arrow", "hunt", "wings", "flying-creature", "forest", "canopy", "falling", "death-blow", "predator-and-prey", "marksmanship", "beast"]
 tags_filter: ["solo", "mid-shot", "action-mode", "three-quarter-facing", "no-figure-human", "green-magic", "instant", "creature-removal", "anti-flying"]
-reference_image: images/magic-the-gathering/theros-beyond-death/194-plummet.png
+reference_image: cards/_images/magic-the-gathering/theros-beyond-death/194-plummet.png
 average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![194-plummet](../../../images/magic-the-gathering/theros-beyond-death/194-plummet.png)
+![194-plummet](../../_images/magic-the-gathering/theros-beyond-death/194-plummet.png)
 
 A maroon-and-crimson winged creature with a long sinuous body and outstretched feathered wings tumbles downward through dappled forest light, an arrow visibly lodged in its torso. Its pose is twisted and contorted mid-fall, wings splayed against the green canopy behind it. The art emphasizes the moment of impact: the creature's flight is broken, gravity has taken over, and leafy branches frame the descent. Flavor text attributes the shot to Nylea's bow.
 

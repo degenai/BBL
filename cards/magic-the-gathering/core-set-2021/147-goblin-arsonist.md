@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["goblin", "fire", "flames", "shaman", "robed-figure", "hooded-figure", "embers", "arsonist", "destruction", "ritual", "smoke", "staff"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "creature-goblin", "creature-shaman", "red-magic", "common", "no-face"]
-reference_image: images/magic-the-gathering/core-set-2021/147-goblin-arsonist.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/147-goblin-arsonist.png
 average_cost_paid: 0
 market_price: 0.23
 market_price_as_of: 2026-05-07
@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![147-goblin-arsonist](../../../images/magic-the-gathering/core-set-2021/147-goblin-arsonist.png)
+![147-goblin-arsonist](../../_images/magic-the-gathering/core-set-2021/147-goblin-arsonist.png)
 
 A small hooded goblin figure stands at center, mostly silhouetted, partially cloaked or robed, holding a long object — staff, torch, or stick — as a vortex of fire erupts behind and around them. The flames are massive in scale relative to the goblin, dominating the upper half of the frame in bright orange, yellow-white, and deep red tones. Embers and ash flakes scatter through the air. The lower portion is darker, suggesting scorched ground. The goblin's posture reads as small but defiant, almost engulfed by the conflagration they have summoned or stand within. Composition is vertical and centered, with the figure dwarfed by the elemental scale of the fire.
 

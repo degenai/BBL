@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: images/magic-the-gathering/war-of-the-spark/179-thundering-ceratok.png
+reference_image: cards/_images/magic-the-gathering/war-of-the-spark/179-thundering-ceratok.png
 average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-07

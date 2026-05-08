@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["gorgon", "snake", "serpent", "cleric", "priestess", "ritual", "robed-figure", "venom", "greek-myth", "snake-hair", "devotion"]
 tags_filter: ["solo", "mid-shot", "portrait-mode", "three-quarter", "female-figure", "creature-gorgon", "creature-cleric", "black-magic", "deathtouch", "mill"]
-reference_image: images/magic-the-gathering/theros-beyond-death/122-venomous-hierophant.png
+reference_image: cards/_images/magic-the-gathering/theros-beyond-death/122-venomous-hierophant.png
 average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![122-venomous-hierophant](../../../images/magic-the-gathering/theros-beyond-death/122-venomous-hierophant.png)
+![122-venomous-hierophant](../../_images/magic-the-gathering/theros-beyond-death/122-venomous-hierophant.png)
 
 A close-to-mid-shot portrait of a gorgon priestess against a dim, muted backdrop. Her hair is a mass of small green-and-pale serpents that twist around her head and shoulders like living locks. She wears layered robes in dark green and black tones with metallic ornamental accents at the neckline. In her hands she holds a single larger snake, tilting her face down toward it in a moment of quiet ritual communion. The palette is dominated by deep greens, sickly yellow-greens, and shadowed browns, with subtle highlights catching the scales and her cheekbones. The mood is hushed, devotional, and faintly sinister — a serpent-priestess in private worship rather than mid-strike.
 

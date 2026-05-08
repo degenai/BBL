@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["dwarf", "soldier", "shield", "gold", "dragon", "tavern", "storyteller", "armor", "beard", "trophy", "cozy", "warrior"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "narrative-mode", "male-figure", "indoor-setting", "creature-dwarf", "creature-soldier", "white-magic", "common"]
-reference_image: images/magic-the-gathering/core-set-2021/39-staunch-shieldmate.png
+reference_image: cards/_images/magic-the-gathering/core-set-2021/39-staunch-shieldmate.png
 average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![39-staunch-shieldmate](../../../images/magic-the-gathering/core-set-2021/39-staunch-shieldmate.png)
+![39-staunch-shieldmate](../../_images/magic-the-gathering/core-set-2021/39-staunch-shieldmate.png)
 
 A grinning bearded dwarf in a leather-and-cloth tunic leans against a wooden table, lifting a massive round golden shield turned to face the viewer. The shield's face is engraved with the silhouette of a dragon's head, the gold catching warm interior light. Behind him, shelves and a counter are crowded with corked bottles, jugs, and barrels, suggesting a tavern back room or armory storeroom. The palette is dominated by warm browns, amber, ochre, and the bright glint of polished gold. Lighting is soft and ambient with the shield acting as a secondary highlight. The dwarf's expression is boastful and pleased, mid-anecdote.
 

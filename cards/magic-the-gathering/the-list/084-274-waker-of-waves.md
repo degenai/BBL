@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["whale", "leviathan", "sea-monster", "ocean", "ship", "shipwreck", "storm", "deep-sea", "monster", "scale-disparity", "maritime", "wave"]
 tags_filter: ["solo", "wide-shot", "scene-mode", "no-face", "creature-whale", "blue-magic", "underwater-composition", "split-waterline"]
-reference_image: images/magic-the-gathering/the-list/084-274-waker-of-waves.png
+reference_image: cards/_images/magic-the-gathering/the-list/084-274-waker-of-waves.png
 average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: ocean
 
 ## Vision
 
-![084-274-waker-of-waves](../../../images/magic-the-gathering/the-list/084-274-waker-of-waves.png)
+![084-274-waker-of-waves](../../_images/magic-the-gathering/the-list/084-274-waker-of-waves.png)
 
 Above the waterline, a small wooden sailing ship with masts and rigging tilts hard on the white-foamed crest of a wave, dwarfed by the scale of what is rising beneath it. Below the choppy surface line, the immense dark-blue body of a whale fills most of the frame, its scaled or barnacled hide glinting against the deeper blue of the open sea. The composition is cleanly split between sky-touched stormy ocean above and abyssal depths below, emphasizing the leviathan's terrifying scale. Cool blue palette throughout, with white spray and pale ship sails as the only bright accents.
 

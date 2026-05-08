@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["werewolf", "wolf", "beast", "cage", "escape", "prison-break", "rage", "transformation", "fangs", "monster", "captivity", "freedom"]
 tags_filter: ["solo", "close-up", "forward-facing", "action-mode", "no-face-human", "red-magic", "instant", "creature-absent", "double-strike"]
-reference_image: images/magic-the-gathering/mystery-booster-cards/155-uncaged-fury.png
+reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/155-uncaged-fury.png
 average_cost_paid: 0
 market_price: 0.22
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![155-uncaged-fury](../../../images/magic-the-gathering/mystery-booster-cards/155-uncaged-fury.png)
+![155-uncaged-fury](../../_images/magic-the-gathering/mystery-booster-cards/155-uncaged-fury.png)
 
 A hulking lupine creature with matted dark fur lunges forward out of frame, mouth wrenched open in a snarl that bares long teeth and a lolling tongue. Its head and shoulders dominate the foreground, lit by a hot red wash that suggests torchlight or rage-bloom. Behind it, the bent iron bars of a broken cage frame the composition — vertical bars warped and snapped where the beast tore free. The whole image is keyed to red, with the creature reading as silhouette-dark against the burning backdrop, eyes catching a pale highlight. The energy is pure outburst — captivity ending in violence.
 

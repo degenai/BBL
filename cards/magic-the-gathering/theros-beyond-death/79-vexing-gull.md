@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["bird", "gull", "seabird", "flight", "wings", "coast", "ocean", "sky", "robed-figure", "shepherd", "harassment", "comic-relief", "classical-greece", "daylight"]
 tags_filter: ["duo", "2-figures", "mid-shot", "action-mode", "creature-bird", "blue-magic", "flying", "flash", "scene-mode"]
-reference_image: images/magic-the-gathering/theros-beyond-death/79-vexing-gull.png
+reference_image: cards/_images/magic-the-gathering/theros-beyond-death/79-vexing-gull.png
 average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: ocean
 
 ## Vision
 
-![79-vexing-gull](../../../images/magic-the-gathering/theros-beyond-death/79-vexing-gull.png)
+![79-vexing-gull](../../_images/magic-the-gathering/theros-beyond-death/79-vexing-gull.png)
 
 A large white gull with outstretched wings dives across the foreground, beak open, body angled toward a robed figure standing on a coastal walkway or cliff edge. The figure, draped in light-colored classical robes, lifts an arm to ward off or shield from the swooping bird. The background is bright daylight blue with streaky clouds and a hint of sea or sky, rendered in pale blues and warm tans. The composition is dynamic and slightly comedic, capturing the moment of harassment by the gull. The Greek-classical aesthetic of Theros is visible in the figure's drapery and the open, sun-bleached coastal setting.
 

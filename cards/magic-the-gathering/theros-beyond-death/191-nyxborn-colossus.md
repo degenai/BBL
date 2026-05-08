@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["giant", "treefolk", "forest", "trees", "nyx", "stars", "constellation", "twilight", "nature", "guardian", "colossus"]
 tags_filter: ["solo", "wide-shot", "forward-facing", "scene-mode", "no-face", "green-magic", "enchantment", "creature-giant", "nyxborn", "mythic"]
-reference_image: images/magic-the-gathering/theros-beyond-death/191-nyxborn-colossus.png
+reference_image: cards/_images/magic-the-gathering/theros-beyond-death/191-nyxborn-colossus.png
 average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![191-nyxborn-colossus](../../../images/magic-the-gathering/theros-beyond-death/191-nyxborn-colossus.png)
+![191-nyxborn-colossus](../../_images/magic-the-gathering/theros-beyond-death/191-nyxborn-colossus.png)
 
 An enormous treefolk-like giant rises from a dense green forest, its torso and limbs shaped from gnarled trunks, branches, and clusters of leaves. The figure stands among smaller trees, blending almost organically with the woodland behind it. The sky is a dusky teal-violet with star-flecks suggesting the Nyx constellation aesthetic of the Theros plane. Soft warm light filters through the canopy on the right side, while cooler shadow drapes the left. Foliage is rendered in saturated mossy and emerald greens, with hints of golden highlight where the light catches the leaves. The creature has no clearly visible face, reading more as an animate piece of forest than a humanoid character.
 

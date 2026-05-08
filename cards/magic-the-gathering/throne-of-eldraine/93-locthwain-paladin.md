@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["knight", "paladin", "horse", "cavalry", "sword", "charge", "moor", "twilight", "dead-trees", "armor", "dark-knight", "fairy-tale-villain"]
 tags_filter: ["solo", "mid-shot", "action", "three-quarter-facing", "male-figure", "mounted", "black-magic", "creature-knight", "menace"]
-reference_image: images/magic-the-gathering/throne-of-eldraine/93-locthwain-paladin.png
+reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/93-locthwain-paladin.png
 average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![93-locthwain-paladin](../../../images/magic-the-gathering/throne-of-eldraine/93-locthwain-paladin.png)
+![93-locthwain-paladin](../../_images/magic-the-gathering/throne-of-eldraine/93-locthwain-paladin.png)
 
 A grim paladin clad in black-and-grey plate armor rides a rearing black destrier across a desolate, ash-grey landscape. The knight brandishes a sword high overhead, body twisted into the motion of a charge, with a long dark cape or surcoat trailing behind. The horse rears on its hind legs, mane streaming. Behind the figure rise the gnarled silhouettes of leafless dark trees against an overcast sky tinged with sickly pink and bruised purple toward the horizon. The palette is dominated by blacks, charcoals, and muted grey-violets, with a thin warm rim of light catching the edge of the armor and the horse's flank.
 

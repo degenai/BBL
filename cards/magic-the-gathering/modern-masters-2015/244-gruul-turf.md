@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["ruins", "sunset", "wanderer", "wasteland", "fallen-civilization", "silhouette", "ember-sky", "lone-traveler", "stone-arch", "post-apocalypse", "smoke", "pilgrimage"]
 tags_filter: ["solo", "wide-shot", "scene-mode", "faces-away", "no-face", "land", "multicolor-red-green", "red-magic", "green-magic"]
-reference_image: images/magic-the-gathering/modern-masters-2015/244-gruul-turf.png
+reference_image: cards/_images/magic-the-gathering/modern-masters-2015/244-gruul-turf.png
 average_cost_paid: 0
 market_price: 0.21
 market_price_as_of: 2026-05-07
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![244-gruul-turf](../../../images/magic-the-gathering/modern-masters-2015/244-gruul-turf.png)
+![244-gruul-turf](../../_images/magic-the-gathering/modern-masters-2015/244-gruul-turf.png)
 
 A wide vista of ancient ruined architecture — fragments of stone arches, broken columns, and crumbling walls — stretches into the distance under a glowing red and orange sky. The sun sits low on the horizon, casting everything into deep silhouette. A small solitary figure, hooded or cloaked, picks its way through the rubble in the foreground. Smoke or haze drifts across the middle ground, softening the far ruins into shadowy shapes. The palette is dominated by burnt oranges, deep reds, and near-black silhouettes, with a thin band of yellow at the horizon line where the sun glares brightest.
 

@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: images/magic-the-gathering/10th-edition/360-terramorphic-expanse.png
+reference_image: cards/_images/magic-the-gathering/10th-edition/360-terramorphic-expanse.png
 average_cost_paid: 0
 market_price: 0.25
 market_price_as_of: 2026-05-07
@@ -28,7 +28,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/a/9a4c5629-fad
 
 ## Vision
 
-![360-terramorphic-expanse](../../../images/magic-the-gathering/10th-edition/360-terramorphic-expanse.png)
+![360-terramorphic-expanse](../../_images/magic-the-gathering/10th-edition/360-terramorphic-expanse.png)
 
 > ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
