@@ -10,29 +10,40 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
-reference_image: 
+tags_hub: ["machinery", "industrial", "steampunk", "factory", "pipes", "alchemy", "fire", "steam", "laboratory", "engineering", "copper"]
+tags_filter: ["no-face", "scene-mode", "wide-shot", "land", "blue-magic", "red-magic", "multicolor-blue-red", "izzet", "no-figure"]
+reference_image: images/magic-the-gathering/modern-masters-2015/245-izzet-boilerworks.png
 average_cost_paid: 0
 market_price: 0.3
 market_price_as_of: 2026-05-07
 date_added: 2026-05-07
 last_seen: 2026-05-07
-art_match_confidence: none
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Modern Masters 2015'
+reference_image_source_url: https://cards.scryfall.io/png/front/6/1/61ba2759-a3d8-45f8-b31e-d8789bde0f4f.png?1562263069
+mood: other
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Izzet Boilerworks (Modern Masters 2015)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[245-izzet-boilerworks.png]]
 
+A dense, machine-crowded interior viewed straight-on: tangled copper and brass piping snakes around bulbous pressure vats and tanks, with valves, dials, and gauges studding the apparatus. Warm amber and orange light bleeds out from seams and vents, suggesting fire and steam contained within. The composition has no human figure — the architecture itself is the subject, a steampunk-leaning industrial cathedral. Vertical pipes climb out of frame, reinforcing scale. The palette is dominated by burnished copper, rust-orange, and shadowed brown, with hot yellow highlights where the machinery glows.
 
-**Subject:** 
+**Subject:** Industrial alchemical boilerworks interior — a maze of copper pipes, pressure vats, valves, and gauges glowing with internal heat
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, narrative, figures: none, facing: n/a
+**Setting:** indoor, modern, indeterminate
+**Foreground:** Copper pipes, valves, and pressure gauges  *(palette: copper, brass, rust-orange, amber)*
+**Background:** Larger vats and rising pipework receding into shadow  *(palette: brown, black, ember-orange)*
+**Mood / lighting:** other, ambient
+**Emotion read:** mechanical, humming, latent-pressure
+**Objects:** pipes, valves, gauges, pressure-vats, boilers, tanks, machinery
+**Iconography:** izzet-guild
+**Genre cues:** fantasy, steampunk, industrial-fantasy
 

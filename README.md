@@ -199,32 +199,35 @@ The pattern that's emerging: **writers get the keys to wikilintbot; watchers do 
 
 ---
 
-## Status snapshot (2026-05-08, late session)
+## Status snapshot (2026-05-08, end of session)
 
-- **977** active singles · **16** sealed products · **37** MTG cards fully enriched (was 22 → +15 this session via parallel `bbl-researcher` fan-out)
-- **Vision queue right now:** `python bbl_queue.py --count` → **0**. We drained today's prepared batch. Next session needs to refill via `researchbot.py --prepare-only` before any vision dispatch.
-- **Vision flow validated at parallel scale:** 24 subagent dispatches across two rounds. The 8 truly-ready cards all wrote cleanly; the 17 not-yet-prepared cards refused correctly without writing. Refusal logic in `.claude/agents/bbl-researcher.md` is doing exactly what it should — graph stayed clean despite a buggy dispatch.
-- **New helper — `bbl_queue.py`:** the 3-prong "ready for vision" check (`reference_image` non-empty + path exists on disk + `tags_hub == []` + not `needs_manual_review`), qty-DESC sorted. `csv2mdbot` writes a placeholder `reference_image:` line on every card, so a frontmatter-only check is misleading; this helper is the canonical picker now.
-- **Wikilintbot:** 2 info-only findings graph-wide (singleton aggregations). The `vocabulary_drift` (plural/singular) check was **removed 2026-05-08** — singular and plural can carry different visual content (one sword vs a rack). Synonym/redundancy work belongs to the future Phase-5 janitor pass. Real concern is `cat`/`feline` (semantic), not `sword`/`swords` (numeric).
-- **Plan A (DeepSeek vision):** still text-only (`deepseek-v4-pro`, `deepseek-v4-flash`). Re-probe each session with `python researchbot.py --list-models`.
-- **Plan B (subagent vision):** active and parallelizable. Per-card subagent run is ~50s; 8 in parallel completes in ~4 min wall-clock; parallel-N to ~25 also works.
-- **Repo:** local only, branch `main`. GitHub remote (`degenai/bulk-graph-bundler`, private) still pending Alex's move.
+- **977** active singles · **16** sealed products · **78** MTG cards fully enriched (was 22 at session start → **+56 this session**, ~3.5× growth in one sitting)
+- **Vision queue right now:** `python bbl_queue.py --count` → **7**. Held back to leave context headroom for handoff. Next session can dispatch immediately.
+- **Three parallel rounds dispatched cleanly today:** 8 + 10 + 16 + 15 = 49 subagent vision passes, all tier-clean from the bbl-researcher refusal/lint logic. One IP flagged correctly (Kiora — `suspected_ip` set, name kept out of `subject`).
+- **Picker workflow proved out:** the `--limit 200`+ on `researchbot.py --prepare-only` is what unlocks meaningful queue depth — qty-DESC frontier is choked by cards where Scryfall set-name match fails first time, and deeper limits expose successful fallback matches. `bbl_queue.py` is the canonical "ready for vision" picker.
+- **Wikilintbot:** 9 info-only findings graph-wide (8 singleton aggregations + 1 `wanderer's-strike` is the queue card with empty tags). 0 warns, 0 errors. The `vocabulary_drift` (singular/plural) check was **removed 2026-05-08** — semantic-synonym work is the Phase-5 janitor's job, not per-card lint.
+- **Plan A (DeepSeek vision):** still text-only. Re-probe each session.
+- **Plan B (subagent vision):** active and parallelizable to ~16 in flight; ~50–135 s per card depending on parallelism load.
+- **Repo:** local only, branch `main`. GitHub remote (`degenai/bulk-graph-bundler`, private) still pending.
 
 ### For the next session
 
 1. **Re-probe DeepSeek** first thing: `python researchbot.py --list-models`. If V4 vision shipped, drop `--prepare-only` and run inline with `--model <new-id>`.
-2. **Refill the queue then fan out:**
+2. **Drain the 7 in queue, then refill:**
    ```powershell
-   python researchbot.py --prepare-only --limit 50 --game "Magic: The Gathering"
    python bbl_queue.py --with-qty --limit 25 --game "Magic: The Gathering"
+   # ...fan out bbl-researcher subagents on those paths...
+   python researchbot.py --prepare-only --limit 300 --game "Magic: The Gathering"
+   python bbl_queue.py --count
+   # ...repeat fan-out...
    ```
-   Pipe / paste those paths into parallel `Agent(subagent_type="bbl-researcher")` dispatches. Don't reinvent the filter inline — `bbl_queue.py` is now the source of truth.
 3. **Recommended next moves**, in priority order:
-   - Continue MTG enrichment in 25-card batches via the queue helper. ~100 enriched is the threshold where lair architect work starts paying off.
+   - Push past 100 enriched MTG cards (currently 78) to unlock lair architect work — that's the threshold where `available = quantity - held_for_lair` queries start returning interesting candidate manifests.
    - Start Pokémon enrichment — same flow, `--game Pokemon`. Path wired, not yet exercised.
    - Dragon Ball Super image-source strategy (no Scryfall equivalent). Highest-unit game in inventory.
    - Push to GitHub once Alex creates `degenai/bulk-graph-bundler` (or installs `gh`).
-   - Optional cleanup: rename `researchbot.py` → `sourcebot.py` (or similar) — its name predates the layer-1/layer-2 split; do as a clean rename commit.
+   - Optional cleanup: rename `researchbot.py` → `sourcebot.py` (or similar) as a clean rename commit.
+   - Optional: triage the manual-review queue (currently 47+ cards flagged `needs_manual_review: true`) — many have a cached image and a low-confidence URL. A small reviewer script could let Alex eyeball each and either approve (set `reference_image` + `art_match_confidence: high`) or reject.
 
 ### Curation rules locked in this project's memory
 
