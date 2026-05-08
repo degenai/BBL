@@ -27,6 +27,18 @@ The caller gives you the absolute path of a single card-node MD file. The MD has
 
 4. **Analyse the artwork.** Be grounded in the image. Don't speculate beyond what's visibly there.
 
+   **Anti-confabulation rules (HARD).** Vision models — even the strongest ones — pattern-match common fantasy archetypes and confabulate fine details that fit the trope rather than the actual image. The classic failure modes:
+
+   - **Hair color, eye color, skin tone, complexion** — do NOT commit to a specific color unless the hue is unambiguously dominant in good lighting. If the figure's hair is shadowed, backlit, partially obscured, or simply not visible at the cached resolution, write `"long hair"` not `"long pale hair"`, `"hair pulled back"` not `"red hair pulled back"`. **When in doubt, omit the color word entirely.** Same for eye color, skin tone, and complexion.
+   - **Character race** — don't write `elf`, `human`, `dwarf`, `gnome`, `orc` unless the diagnostic features (ear shape for elves, height-and-beard for dwarves, tusks for orcs, etc.) are clearly visible. Default to `humanoid figure` if you can't tell.
+   - **Gender** — many fantasy figures are deliberately androgynous, partly armored, distant, or hooded. Don't assert `female-figure` or `male-figure` in the filter tier unless secondary sex characteristics, named pronouns in flavor text, or clearly gendered armor design make it obvious. Default to omitting that filter tag.
+   - **Specific patterns / insignia / heraldry** — do NOT describe details below the resolution threshold. If you can see "an embossed shield" but not what's on it, write `"embossed shield"` not `"shield with a lion crest"`.
+   - **Named-character inference from archetype** — covered by the IP guardrail in step 5. "Looks like Goku" / "Looks like Aurelia" / "looks like a Kaladesh aetherborn" are NOT subject text. Either flag via `suspected_ip` if confident, or describe the archetype generically.
+
+   **The principle: under-specify rather than confabulate.** A description that says `"a hooded warrior raises a curved blade"` is more useful for sanity-checking than `"a red-haired elven warrior raises a katana"` if the latter has any confabulated parts. The downstream curator can always look at the image themselves and add detail; they cannot easily *catch* confabulated detail without doing a manual pass on every card.
+
+   This applies to BOTH the description paragraph AND any tags. If `red-hair` is going into `tags_hub` because you "kind of see red," drop it. The graph would rather miss a hub bridge than carry a wrong one.
+
    **Two-tier tag emission is the load-bearing decision.** The whole point of BBL is a curated graph of thematic bridges; getting the tier split wrong corrupts the graph.
 
    - `tags_hub` — thematically rich, cross-cutting. Each one is a candidate to become a hub node in the Obsidian graph view. Ask: **"Would I curate a Discrete Lair around this concept?"** Yes-tags: `cat`, `sunset`, `pie`, `cozy`, `gothic`, `service-worker`, `labor`, `villain`, `comic-relief`, `fire`, `forest`, `ocean`, `ritual`, `witch`. Hub tags should generally be 1–2 words, kebab-case if multi-word.

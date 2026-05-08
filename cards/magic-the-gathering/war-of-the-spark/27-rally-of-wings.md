@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["angel", "wings", "flight", "sky", "clouds", "warrior", "sword", "armor", "rally", "battle", "host", "feminine-figure", "heroism"]
-tags_filter: ["group", "mid-shot", "forward-facing", "scene-mode", "action", "white-magic", "creature-angel-implied", "instant", "spotlight-frame"]
+tags_hub: ["wings", "flight", "sky", "clouds", "warrior", "sword", "armor", "rally", "battle", "host", "red-hair", "heroism", "aerial-combat"]
+tags_filter: ["group", "mid-shot", "forward-facing", "scene-mode", "action", "white-magic", "instant", "spotlight-frame"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/27-rally-of-wings.png
 average_cost_paid: 0
 market_price: 0.3
@@ -32,18 +32,18 @@ setting: other
 
 ![27-rally-of-wings](../../_images/magic-the-gathering/war-of-the-spark/27-rally-of-wings.png)
 
-A central armored figure with long pale hair and large feathered wings hovers in a bright sky, sword lifted above the head in a rallying gesture. Flanking her are additional winged armored allies, partly silhouetted, lances and blades drawn as they surge forward through banks of pale cloud. The palette is dominated by warm whites, ivory, and gold, with bursts of orange-red glow at the edges suggesting distant fire or detonations. The composition is mid-shot, frontal and heroic, with a clear feeling of an aerial host charging into battle.
+A central armored figure with long flowing red hair and large feathered wings hovers in a bright sky, sword raised overhead in a rallying gesture. Flanking the central figure are additional winged armored allies, partly silhouetted, blades drawn as they surge forward through banks of pale cloud. The foreground palette mixes ivory, gold, and steel-grey on the armored figures with the central figure's red hair as the most saturated note. The background is a bright cloudbank sky with a warm orange-red glow on the right suggesting distant fire or detonations. The composition is mid-shot, frontal and heroic, conveying an aerial host charging into battle.
 
-**Subject:** An armored, white-haired warrior with massive feathered wings raises a sword overhead amid a sky-battle, flanked by other winged armored figures charging through clouds
+**Subject:** An armored winged warrior with long red hair raises a sword overhead in a sky filled with allied winged figures charging through cloudbanks lit by distant fire
 
 **Composition:** mid-shot, action, figures: group, facing: forward
 **Setting:** other, day, clear
-**Foreground:** winged armored warrior raising a sword, allied winged figures surging forward  *(palette: ivory, gold, white, steel-grey)*
-**Background:** bright cloudbank sky with distant orange-red flares of battle  *(palette: pale-blue, white, warm-orange, gold)*
+**Foreground:** armored winged warrior with red hair raising a sword, flanked by allied winged armored figures  *(palette: ivory, gold, steel-grey, red)*
+**Background:** bright cloudbank sky with warm orange-red flares of distant battle  *(palette: pale-blue, white, warm-orange, gold)*
 **Mood / lighting:** sublime, backlit
 **Emotion read:** defiant rally, heroic resolve, command
-**Objects:** sword, armor, lance, banner-implied
-**Creatures:** angel, winged-warrior
-**Iconography:** raised-sword, wings, halo-implied
+**Objects:** sword, armor
+**Creatures:** winged-warrior
+**Iconography:** raised-sword, wings
 **Genre cues:** fantasy, high-fantasy
 
