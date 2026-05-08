@@ -12,15 +12,16 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image: images/magic-the-gathering/war-of-the-spark/165-kraul-stinger.png
 average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-07
 date_added: 2026-05-05
 last_seen: 2026-05-07
-art_match_confidence: none
-needs_manual_review: true
-manual_review_reason: No reference image found via scryfall for set 'War of the Spark'
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/4/6/46b88fe9-2450-47ee-ac1e-bbbccbf5684f.png?1680225502
 ---
 
 # Kraul Stinger (War of the Spark)

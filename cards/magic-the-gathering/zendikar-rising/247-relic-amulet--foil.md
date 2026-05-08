@@ -12,15 +12,16 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image: images/magic-the-gathering/zendikar-rising/247-relic-amulet--foil.png
 average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-07
 date_added: 2026-05-05
 last_seen: 2026-05-07
-art_match_confidence: none
-needs_manual_review: true
-manual_review_reason: No reference image found via scryfall for set 'Zendikar Rising'
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/0/a/0ab97a84-fe8c-4986-afd8-3abdcc029f7f.png?1604200828
 ---
 
 # Relic Amulet (Zendikar Rising)

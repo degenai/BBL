@@ -12,15 +12,16 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image: images/magic-the-gathering/throne-of-eldraine/42-didn-t-say-please.png
 average_cost_paid: 0
 market_price: 0.35
 market_price_as_of: 2026-05-07
 date_added: 2026-05-05
 last_seen: 2026-05-07
-art_match_confidence: none
-needs_manual_review: true
-manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/7/7/77500b53-0852-4d6a-bfe3-b1e8ef5a12cd.png?1572489858
 ---
 
 # Didn't Say Please (Throne of Eldraine)

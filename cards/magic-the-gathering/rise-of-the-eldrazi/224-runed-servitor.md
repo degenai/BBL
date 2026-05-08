@@ -12,15 +12,16 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image: images/magic-the-gathering/rise-of-the-eldrazi/224-runed-servitor.png
 average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-07
 date_added: 2026-05-07
 last_seen: 2026-05-07
-art_match_confidence: none
-needs_manual_review: true
-manual_review_reason: No reference image found via scryfall for set 'Rise of the Eldrazi'
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/9/d/9dbbbbf6-e3ed-4a36-bedf-11c3514ff965.png?1562706780
 ---
 
 # Runed Servitor (Rise of the Eldrazi)

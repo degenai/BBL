@@ -202,17 +202,64 @@ def fetch_scryfall_set_map() -> dict:
     return mapping
 
 
+# Hand-curated aliases for Collectr-style set names that don't normalize cleanly.
+# Map: lowercased Collectr name -> Scryfall set code.
+# Add entries here whenever a set name keeps showing up in the manual-review queue.
+SET_NAME_ALIASES = {
+    "mystery booster cards": "mb1",
+    "mystery booster: retail exclusives": "fmb1",
+    "classic: sixth edition": "6ed",
+    "art series: zendikar rising": "azns",
+    # Promo Pack: X — Scryfall stores these as ppXXX where XXX is the parent code
+    "promo pack: throne of eldraine": "ppeld",
+    "promo pack: zendikar rising": "ppznr",
+    # Commander: X variants
+    "commander: streets of new capenna": "ncc",
+    "commander: zendikar rising": "znc",
+}
+
+# Pattern: trailing " (XXX)" parenthetical — Collectr writes "Magic 2014 (M14)" while
+# Scryfall's set_map key is just "Magic 2014". Strip and retry.
+_SET_PAREN_SUFFIX_RE = re.compile(r"\s*\([^)]*\)\s*$")
+
+
 def scryfall_set_code(collectr_set: str, set_map: dict) -> str | None:
-    """Resolve a Collectr-style set name to a Scryfall set code, with a few variant fallbacks."""
+    """Resolve a Collectr-style set name to a Scryfall set code, with a few variant fallbacks.
+
+    Tries, in order:
+      1. Hand-curated SET_NAME_ALIASES table (handles Mystery Booster, Promo Pack, etc.)
+      2. Direct lookup in the cached set_map
+      3. With "set " prefix stripped
+      4. With "base set " prefix stripped
+      5. With trailing "(XXX)" parenthetical stripped (handles Magic 2014 (M14))
+    """
     if not collectr_set:
         return None
     name = collectr_set.lower().strip()
-    candidates = [name, name.replace("set ", ""), name.replace("base set", "").strip()]
+    if name in SET_NAME_ALIASES:
+        return SET_NAME_ALIASES[name]
+    candidates = [
+        name,
+        name.replace("set ", ""),
+        name.replace("base set", "").strip(),
+        _SET_PAREN_SUFFIX_RE.sub("", name).strip(),
+    ]
     for c in candidates:
         c = c.strip()
         if c and c in set_map:
             return set_map[c]
     return None
+
+
+# Pattern: trailing " (123)" — collector number embedded in card name itself
+# (e.g. "Island (254)"). Some Collectr exports include the number; Scryfall's
+# fuzzy/named lookup chokes on the parenthetical. Strip it before querying.
+_NAME_PAREN_NUM_RE = re.compile(r"\s*\(\d+\)\s*$")
+
+
+def normalize_card_name_for_lookup(name: str) -> str:
+    """Strip Collectr quirks from a card name before querying Scryfall."""
+    return _NAME_PAREN_NUM_RE.sub("", name).strip()
 
 
 def _extract_image(data: dict) -> str | None:
@@ -262,6 +309,8 @@ def find_image_scryfall(card_name: str, set_name: str = "",
     none = no image found at all."""
     set_map = set_map if set_map is not None else fetch_scryfall_set_map()
     code = scryfall_set_code(set_name, set_map)
+    # Strip Collectr quirks like trailing "(254)" before querying Scryfall.
+    card_name = normalize_card_name_for_lookup(card_name)
 
     # Try set-specific lookup first
     if code:
@@ -761,6 +810,10 @@ def main():
     ap.add_argument("--prepare-only", action="store_true",
                     help="Image fetch + cache + frontmatter stamp only. Skips DeepSeek call. "
                          "Leaves tags_hub empty as the signal for the bbl-researcher Claude Code subagent.")
+    ap.add_argument("--refresh-set-map", action="store_true",
+                    help="Re-fetch the Scryfall /sets endpoint and rewrite reports/scryfall_sets.json. "
+                         "Use this when set lookups fail for sets that should obviously match "
+                         "(e.g. cached map is stale). Safe to run any time; just one API call.")
     ap.add_argument("--retry-flagged", action="store_true",
                     help="Walk every card with needs_manual_review: true and re-run the image lookup. "
                          "Many flagged cards are transient Scryfall failures rather than real misses — "
@@ -797,6 +850,17 @@ def main():
     if not args.cards_dir.exists():
         print(f"ERROR: cards dir not found: {args.cards_dir}", file=sys.stderr)
         sys.exit(1)
+
+    if args.refresh_set_map:
+        if SCRYFALL_SET_CACHE.exists():
+            SCRYFALL_SET_CACHE.unlink()
+            print(f"Removed stale {SCRYFALL_SET_CACHE}")
+        new_map = fetch_scryfall_set_map()
+        print(f"Refreshed set map: {len(new_map)} entries written to {SCRYFALL_SET_CACHE}")
+        # Quick sanity check: see if the entries we know we want are present.
+        for k in ("mystery booster", "magic 2014", "throne of eldraine", "zendikar rising"):
+            print(f"  {k!r}: {new_map.get(k, '(missing)')!r}")
+        sys.exit(0)
 
     if args.retry_flagged:
         retry_flagged(args.cards_dir, args.images_dir,

@@ -18,10 +18,10 @@ market_price: 0.08
 market_price_as_of: 2026-05-07
 date_added: 2026-05-07
 last_seen: 2026-05-07
-art_match_confidence: low
-needs_manual_review: true
-manual_review_reason: Set 'Scars of Mirrodin' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
-reference_image_source_url: https://cards.scryfall.io/png/front/6/d/6d572487-de58-4ec0-9649-0cdacff4bb48.png?1562274149
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/e/9/e9a29832-8630-498a-9ac3-bc709a6dc95d.png?1562824575
 ---
 
 # Panic Spellbomb (Scars of Mirrodin)
