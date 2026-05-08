@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["gorgon", "assassin", "snakes", "blade", "shadow", "monster", "predator", "darkness", "stealth", "weapon", "night"]
-tags_filter: ["solo", "wide-shot", "three-quarter", "portrait-mode", "no-face-obscured", "creature-gorgon", "creature-assassin", "black-magic", "naked-figure", "female-figure"]
+tags_hub: ["gorgon", "snakes", "serpent", "shadow", "darkness", "night", "monster", "predator", "stealth", "void", "solitude", "menace"]
+tags_filter: ["solo", "wide-shot", "three-quarter", "portrait-mode", "creature-gorgon", "creature-assassin", "black-magic", "female-figure", "bare-armed"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/112-vraska-s-finisher.png
 average_cost_paid: 0
 market_price: 0.13
@@ -33,17 +33,16 @@ setting: void
 
 ![112-vraska-s-finisher](../../_images/magic-the-gathering/war-of-the-spark/112-vraska-s-finisher.png)
 
-A lone gorgon stands in near-total darkness, only the contours of her body and the writhing snakes of her hair catching dim greenish light. Her skin reads green-grey, her expression cold and predatory. She holds a long curved blade — a sickle or scythe-like assassin's weapon — angled down at her side. The background is an undefined black void with faint suggestions of vegetation or smoke at her feet. The composition is a full-figure shot, body angled in three-quarter view, gaze directed forward and slightly off to the viewer's right. The mood is grim, quiet, and menacing — the calm before the kill.
+A lone gorgon stands in near-total darkness, her body just barely defined by faint rim light. Slim serpents writhe from her scalp where hair would be. Her skin reads green-grey against the black ground. She is bare-armed in what appears to be a dark, simple garment; her right arm extends down and slightly out, her left arm hangs at her side. No weapon is visibly held — both hands read as empty, fingers loose at her sides. The background is an undefined black void with faint smoky or vegetal tendrils near her feet. The composition is a near-full-figure shot, body angled in three-quarter view, gaze directed forward. The mood is quiet, predatory, still — a hunter at rest in shadow, killing power implied (the snakes, the gaze) rather than wielded.
 
-**Subject:** A gorgon assassin: a slender female figure with writhing serpents for hair, bare-armed, holding a long curved blade at her side, emerging from deep shadow
+**Subject:** A gorgon: a slender female figure with writhing serpents for hair, bare-armed, emerging from deep shadow in a dark void
 
 **Composition:** wide, portrait, figures: solo, facing: three-quarter
 **Setting:** void, night
-**Foreground:** gorgon assassin holding a curved blade  *(palette: green-grey, black, muted teal, bone-white)*
-**Background:** deep black void with faint smoky tendrils  *(palette: black, charcoal, deep green-black)*
+**Foreground:** gorgon figure standing in shadow, snakes for hair, bare-armed, hands empty at her sides  *(palette: green-grey, black, muted teal, bone-white)*
+**Background:** deep black void with faint smoky tendrils near her feet  *(palette: black, charcoal, deep green-black)*
 **Mood / lighting:** grim, rim
-**Emotion read:** cold, predatory, composed before violence
-**Objects:** curved blade, sickle
-**Creatures:** snakes
+**Emotion read:** cold, composed, predatory stillness
+**Creatures:** snakes, serpents
 **Genre cues:** fantasy, dark-fantasy
 
