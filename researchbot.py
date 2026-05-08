@@ -538,9 +538,13 @@ def update_card(path: Path, image_url: str, vision: dict, dry_run: bool,
 
     body_parts = []
     if local_image_rel:
-        # Obsidian shortcut: use just the filename so it resolves regardless of folder.
-        basename = Path(local_image_rel).name
-        body_parts.append(f"![[{basename}]]")
+        # Embed the full vault-relative path. Bare filenames (`![[name.png]]`) only
+        # resolve if Obsidian's attachment search is configured to walk every
+        # subfolder, AND they collide across sets (every set has a `12-...png`).
+        # The path-qualified wikilink resolves unambiguously regardless of vault
+        # settings. Forward slashes work in Obsidian wikilinks on all platforms.
+        rel = local_image_rel.replace("\\", "/")
+        body_parts.append(f"![[{rel}]]")
         body_parts.append("")
     if needs_review:
         body_parts.append(
