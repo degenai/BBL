@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["mountain", "stone", "wilderness", "landscape", "rocky-terrain", "spires", "uninhabited", "natural-formation", "desolate", "geology"]
+tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "basic-land", "land", "red-magic"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/263-mountain-263.png
 average_cost_paid: 0
 market_price: 0.12
@@ -22,18 +22,27 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/3/2/32982ed2-96e4-4cc5-8562-744b06bca239.png?1572491355
+mood: sublime
+time_of_day: day
+setting: mountain
 ---
 
 # Mountain (263) (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![263-mountain-263](../../_images/magic-the-gathering/throne-of-eldraine/263-mountain-263.png)
 
+A natural formation of sharp, angular stone spires juts upward from a rocky base, lit warmly from the side. The peaks splinter into multiple narrow shards, suggesting a brittle, crystalline geology. The palette is dominated by warm tans, ochres, and rust-browns, with paler highlights along the spire edges. The sky behind is hazy and indeterminate, lending the scene a dry, sunbaked quality. No figures, creatures, or human-made structures are present.
 
-**Subject:** 
+**Subject:** A cluster of jagged, blade-like rock spires rising from a rocky outcrop under an open sky
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, abstract, figures: none, facing: n/a
+**Setting:** mountain, day, clear
+**Foreground:** rocky ground and the base of jagged stone spires  *(palette: tan, ochre, rust-brown, warm-grey)*
+**Background:** hazy sky with distant pale ridgelines  *(palette: pale-yellow, soft-grey, muted-tan)*
+**Mood / lighting:** sublime, ambient
+**Emotion read:** still, austere, uninhabited
+**Objects:** stone-spires, rocky-outcrop
+**Genre cues:** fantasy
 

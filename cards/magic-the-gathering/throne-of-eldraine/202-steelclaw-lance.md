@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["lance", "weapon", "armor", "gauntlet", "knight", "mount", "beast", "charge", "combat", "chivalry", "jousting", "cavalry"]
+tags_filter: ["duo", "close-up", "action-mode", "three-quarter-facing", "no-face", "artifact", "equipment", "red-magic", "warm-palette"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/202-steelclaw-lance.png
 average_cost_paid: 0
 market_price: 0.13
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/c/a/cafcf909-d726-4bc2-adf6-c12ca242f0c1.png?1572490835
+mood: action
+time_of_day: indeterminate
+setting: other
 ---
 
 # Steelclaw Lance (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![202-steelclaw-lance](../../_images/magic-the-gathering/throne-of-eldraine/202-steelclaw-lance.png)
 
+A close-cropped action view of armored hands clad in elaborate gold-plated gauntlets clutching the haft of a long ornate lance. The weapon angles diagonally across the frame. Behind the rider, a fierce beast mount looms in motion, rendered in fiery reds and oranges with bared teeth or claws suggested. The composition is tight and dynamic, evoking the moment of a charge. Warm metallic golds dominate the foreground while the background flares with red and amber tones, giving the piece a heated, combat-ready intensity.
 
-**Subject:** 
+**Subject:** Armored gauntleted hands gripping an ornate lance, with a fierce mounted beast charging in the background
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** close-up, action, figures: duo, facing: three-quarter
+**Setting:** other, indeterminate
+**Foreground:** armored hands gripping a long ornate lance  *(palette: gold, bronze, brown, ivory)*
+**Background:** fierce mounted beast in motion, bathed in warm fiery light  *(palette: red, orange, amber, crimson)*
+**Mood / lighting:** action, rim
+**Emotion read:** tense, charged, ready for combat
+**Objects:** lance, gauntlets, armor, weapon, reins
+**Creatures:** beast, mount
+**Iconography:** lance, gauntlet, knightly-arms
+**Genre cues:** fantasy, medieval, arthurian
 

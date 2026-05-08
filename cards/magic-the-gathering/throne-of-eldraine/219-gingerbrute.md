@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["gingerbread", "food", "baking", "cookies", "candy", "kitchen", "fairy-tale", "storybook", "golem", "animated-object", "running", "confection", "sweets", "comic-relief"]
+tags_filter: ["solo", "mid-shot", "action-pose", "three-quarter-facing", "scene-mode", "no-face-human", "artifact-creature", "food-golem", "colorless", "haste"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/219-gingerbrute.png
 average_cost_paid: 0
 market_price: 0.26
@@ -22,18 +22,30 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/f/5/f55fe038-c903-4d92-b689-72dd6d041a91.png?1572490972
+mood: comedic
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Gingerbrute (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![219-gingerbrute](../../_images/magic-the-gathering/throne-of-eldraine/219-gingerbrute.png)
 
+A gingerbread man figure stands in a confectionery setting, his baked-cookie body trimmed with swirls of white icing along the arms, legs, and head. Round candy buttons mark the torso and a small icing-piped face gives him an alert, slightly mischievous expression. The figure leans forward in a running pose with arms raised. Surrounding him are other baked-good and candy elements — gingerbread shapes, icing, sugary architectural pieces — suggesting a kitchen, oven interior, or candy-house environment. Warm browns dominate the palette, accented by creamy whites and small bright candy colors. The lighting is soft and warm, like firelight or oven-glow.
 
-**Subject:** 
+**Subject:** An animated gingerbread man figure decorated with white icing piping, candy buttons, and confectionery details, posed mid-stride as if running
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** indoor, organic, indeterminate
+**Foreground:** gingerbread figure with icing trim and candy buttons in a running pose  *(palette: warm-brown, cream-white, caramel, red)*
+**Background:** confectionery / baked-goods environment with other gingerbread and candy shapes  *(palette: dark-brown, amber, cream, shadowed-black)*
+**Mood / lighting:** comedic, soft
+**Emotion read:** alert, animated, mid-action — wide-eyed cookie-face with a hint of mischief
+**Objects:** icing, candy-buttons, gingerbread, baked-goods
+**Creatures:** gingerbread-golem, food-golem
+**Food/drink:** gingerbread, icing, candy, cookies
+**Iconography:** candy, frosting-swirls
+**Genre cues:** fantasy, fairy-tale, storybook
 

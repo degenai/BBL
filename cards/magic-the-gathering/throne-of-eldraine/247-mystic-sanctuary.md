@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["tower", "ruin", "island", "mist", "water", "ocean", "dawn", "solitude", "abandoned-place", "stone-architecture", "reflection", "sanctuary"]
+tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "island-land", "blue-magic", "landscape"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/247-mystic-sanctuary.png
 average_cost_paid: 0
 market_price: 2.15
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/1/7/170e792c-80d5-4775-ad95-37614574ab84.png?1613386906
+mood: peaceful
+time_of_day: dawn
+setting: ocean
 ---
 
 # Mystic Sanctuary (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![247-mystic-sanctuary](../../_images/magic-the-gathering/throne-of-eldraine/247-mystic-sanctuary.png)
 
+A weathered stone tower, partially crumbled at its top, rises from a small rocky islet in the middle of calm, glassy water. Mist hangs heavy across the scene, softening the silhouettes of distant land and trees on the far shore. The palette is dominated by cool blues and dusty purples, with the tower rendered as a near-silhouette against a hazy sky. The water reflects the muted light, and a few small rocks break the surface in the foreground. No figures are present — the composition is purely environmental, evoking stillness, abandonment, and quiet magic.
 
-**Subject:** 
+**Subject:** A solitary stone tower ruin standing on a small rocky island, surrounded by still water and shrouded in morning mist
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, narrative, figures: none, facing: n/a
+**Setting:** ocean, ruined, dawn, fog
+**Foreground:** rocky shoreline with scattered stones partially submerged in still water  *(palette: slate-blue, muted-grey, deep-blue)*
+**Background:** misty distant shoreline with faint silhouettes of trees and land under a hazy sky  *(palette: lavender, pale-purple, soft-blue, dusty-pink)*
+**Mood / lighting:** peaceful, ambient
+**Emotion read:** stillness, solitude, quiet melancholy
+**Objects:** stone-tower, ruin, rocks, islet
+**Iconography:** tower, ruin
+**Genre cues:** fantasy, high-fantasy
 

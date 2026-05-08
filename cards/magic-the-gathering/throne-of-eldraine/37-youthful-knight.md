@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["knight", "armor", "sword", "vigil", "mountain", "mist", "chivalry", "warrior", "oath", "solitude", "fantasy", "medieval"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "creature-human", "creature-knight", "white-magic", "first-strike"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/37-youthful-knight.png
 average_cost_paid: 0
 market_price: 0.07
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/3/d/3d1a3fec-39de-4223-9da2-22749a58cd62.png?1572489827
+mood: peaceful
+time_of_day: indeterminate
+setting: mountain
 ---
 
 # Youthful Knight (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![37-youthful-knight](../../_images/magic-the-gathering/throne-of-eldraine/37-youthful-knight.png)
 
+A figure in full silver-grey plate armor stands forward-facing on a rocky ledge, gripping a longsword by its crossguard with the blade pointed down between their feet in a knightly vigil stance. The armor includes a great helm with a visor, pauldrons, gauntlets, and greaves, worn over a long tabard or surcoat that hangs down past the knees. A blue cloth or sash trails from the waist. The background is a misty, washed-out mountainous landscape rendered in cool greys and pale blues, with hazy peaks and sparse rocks suggesting cold high country. The mood is solemn and contemplative; the lighting is soft and ambient, almost foggy.
 
-**Subject:** 
+**Subject:** An armored knight in full plate stands on a misty rocky outcropping, holding a longsword point-down in a vigil pose
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** mountain, indeterminate, fog
+**Foreground:** armored knight standing with longsword pointed down, in vigil pose on a rocky ledge  *(palette: silver, grey, white, blue)*
+**Background:** misty mountainous landscape with pale peaks and sparse stone  *(palette: pale-blue, grey, white)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** solemn, composed, ceremonial stillness; face hidden by helm
+**Objects:** longsword, great-helm, plate-armor, tabard, sash
+**Iconography:** sword-pointed-down, vigil-pose
+**Genre cues:** fantasy, medieval, arthurian
 

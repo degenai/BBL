@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["banner", "flag", "heraldry", "castle", "tower", "kingdom", "rooftops", "sky", "fairytale", "medieval", "ceremony", "architecture"]
+tags_filter: ["no-figure", "scene-mode", "wide-shot", "no-face", "artifact", "colorless-magic", "object-focus", "exterior"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/222-heraldic-banner.png
 average_cost_paid: 0
 market_price: 0.51
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/2/e/2e349af5-3f25-46d3-908e-83b2f6028b95.png?1572490999
+mood: sublime
+time_of_day: day
+setting: other
 ---
 
 # Heraldic Banner (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![222-heraldic-banner](../../_images/magic-the-gathering/throne-of-eldraine/222-heraldic-banner.png)
 
+A vertical heraldic banner streams in the wind from a tall pole, its long pennant tapering downward in pale fabric. The banner is flanked by the silhouettes of castle towers crowned with conical, red-tiled roofs that recede into the background. The sky is a clear, soft blue, giving the scene an open, ceremonial feel. No figures are present — the composition is architectural and symbolic, focused on the banner itself as the central icon.
 
-**Subject:** 
+**Subject:** A tall heraldic banner/pennant flying from a pole, framed by castle rooftops with conical red-roofed towers against a clear sky
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, abstract, figures: none, facing: n/a
+**Setting:** other, gothic, day, clear
+**Foreground:** heraldic banner on a tall pole with a tapering pennant  *(palette: pale-cream, off-white, muted-gold, dark-pole)*
+**Background:** castle towers with conical red-tiled roofs against an open sky  *(palette: sky-blue, pale-blue, terracotta-red, stone-grey)*
+**Mood / lighting:** sublime, ambient
+**Emotion read:** ceremonial, stately, anticipatory — no figures, but the framing reads as proud and martial
+**Objects:** banner, pennant, flagpole, castle-tower, conical-roof
+**Iconography:** heraldry, banner, pennant, flag
+**Genre cues:** fantasy, medieval, fairytale
 
