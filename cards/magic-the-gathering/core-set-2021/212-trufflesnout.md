@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![[212-trufflesnout.png]]
+![[images/magic-the-gathering/core-set-2021/212-trufflesnout.png]]
 
 A bristly, broad-shouldered wild boar with prominent curved tusks and a striped, mottled hide stands in profile on a leaf-littered forest floor. Its head turns slightly toward the viewer and its mouth is open, as if having just rooted up the cluster of pale mushrooms and toadstools growing at its hooves. Sunlight filters through a dense canopy in warm shafts, illuminating the boar's flank and dappling the surrounding ferns, moss, and tree trunks. The background is a soft green-brown haze of woodland depth, and a ring of small mushrooms in the foreground reinforces the truffle-hunting motif implied by the card's name.
 

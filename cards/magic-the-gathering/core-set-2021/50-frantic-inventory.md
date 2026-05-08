@@ -30,7 +30,7 @@ setting: indoor
 
 ## Vision
 
-![[50-frantic-inventory.png]]
+![[images/magic-the-gathering/core-set-2021/50-frantic-inventory.png]]
 
 A man with messy white hair and wide manic eyes hunches over a chaotic table of books, scrolls, jars, and curios. He's mid-action — hands grabbing items, head turned toward the viewer mid-thought. Cool blue magical light underlights the scene from below. Stacks of crates and shelves of curios loom in the background. Mood is frenetic, exiled, comedic. Flavor text: 'Another village, another angry mob. Why do I even bother unpacking?' — itinerant wizard / fugitive scholar archetype.
 

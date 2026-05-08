@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[129-careless-celebrant.png]]
+![[images/magic-the-gathering/theros-beyond-death/129-careless-celebrant.png]]
 
 A bare-chested satyr with curling ram-like horns dances or leaps with both arms raised in ecstatic abandon, a curved drinking vessel clutched in one hand. Cloth or sash trails behind the figure suggesting motion mid-revel. The whole composition is bathed in a hot crimson-and-orange palette that reads as firelight or a Dionysian bacchanal. Background is a wash of warm reds and deep shadow with no clear architecture — the figure pops against an abstracted blaze of celebration. Body language is loose, drunken, joyful, careless.
 

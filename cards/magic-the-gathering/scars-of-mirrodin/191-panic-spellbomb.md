@@ -28,7 +28,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/e/9/e9a29832-863
 
 ## Vision
 
-![[191-panic-spellbomb.png]]
+![[images/magic-the-gathering/scars-of-mirrodin/191-panic-spellbomb.png]]
 
 > ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 

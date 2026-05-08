@@ -33,7 +33,7 @@ ip_verified: false
 
 ## Vision
 
-![[38-wanderer-s-strike.png]]
+![[images/magic-the-gathering/war-of-the-spark/38-wanderer-s-strike.png]]
 
 A cloaked figure in a wide-brimmed straw hat (sedge-hat/kasa silhouette) sweeps a long blade across the foreground in a single decisive cut. The strike is rendered as streaks of blue-white motion blur and chromatic refraction, fragmenting the figure into overlapping ghosted poses so the eye reads speed rather than a single frozen instant. The background is washed out into pale cloud-and-light tones, keeping the composition focused on the slash. Cool whites, ice blues, and faint lavender dominate; the only warm note is the straw of the hat. Flavor text from Lavinia describes 'precise, clean cuts.'
 

@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![[184-garruk-s-gorehorn.png]]
+![[images/magic-the-gathering/core-set-2021/184-garruk-s-gorehorn.png]]
 
 A hulking quadrupedal beast dominates the frame in a dense, sun-dappled forest. Its silhouette is bovine/rhinoceros-like — broad chest, hunched shoulders, short stocky legs ending in heavy hooves. A pair of long, curved horns sweep forward from its skull, with smaller secondary horns or bony ridges along the brow. The hide is a mottled dark brown, almost black in the shadows, with hints of moss-green tint where filtered light catches it. The beast's posture is grounded and aggressive, head lowered, eyes catching a small highlight. Behind it, towering tree trunks rise into a canopy, with dappled green-gold light breaking through dense foliage. The foreground is cluttered with ferns and forest-floor brush.
 

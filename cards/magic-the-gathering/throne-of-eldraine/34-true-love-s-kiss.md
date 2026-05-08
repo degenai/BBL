@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![[34-true-love-s-kiss.png]]
+![[images/magic-the-gathering/throne-of-eldraine/34-true-love-s-kiss.png]]
 
 A young woman with long brown hair, dressed in a flowing crimson and rose-pink gown, leans into the embrace of a dark, hunched figure entangled in vines and shadow. The cursed figure's form is partly obscured — black, plant-bound, possibly mid-transformation. Their faces meet in a kiss at the heart of the composition. Behind them lush green foliage, leaves and ivy frame the moment, dappled with soft golden forest light filtering through the canopy. The mood is tender, sublime, and faintly melancholic — a storybook curse-breaking moment.
 

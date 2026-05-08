@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![[195-portcullis-vine.png]]
+![[images/magic-the-gathering/core-set-2021/195-portcullis-vine.png]]
 
 A thick, layered cascade of broad green leaves and trailing vines fills the entire frame, hanging like a verdant tapestry. Small clusters of purple-blue flowers are scattered through the foliage, breaking up the otherwise saturated green field. The leaves overlap densely enough to imply impassable thickness behind them — a wall of plant matter rather than ornamental hanging vines. Faint hints of stone or weathered wood structure peek through gaps at the edges, suggesting the vines have grown over an existing gateway or trellis. Lighting is soft and ambient, filtered through the leaves, giving a gentle dappled quality without strong shadow. No figures appear; the plant itself is the subject.
 

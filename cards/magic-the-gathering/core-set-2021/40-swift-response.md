@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[40-swift-response.png]]
+![[images/magic-the-gathering/core-set-2021/40-swift-response.png]]
 
 A blonde-haired human warrior in blue and teal plate armor is captured mid-leap, body arcing forward through the air with sword held high in a two-handed overhead strike. Their hair streams behind them, conveying violent forward motion. Below and to the right, a massive red-skinned brute — possibly an ogre or giant — is shown recoiling, head thrown back, partially obscured by a swirling cloud of warm orange dust and debris. The background is a chaotic blur of broken stonework, dust, and warm sunset-fire tones in red, orange, and ochre, contrasting with the cool blue of the leaping figure. The composition reads as a frozen instant of decisive combat, weighted toward the warrior's downward arc of attack.
 

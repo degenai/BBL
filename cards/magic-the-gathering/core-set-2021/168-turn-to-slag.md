@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[168-turn-to-slag.png]]
+![[images/magic-the-gathering/core-set-2021/168-turn-to-slag.png]]
 
 A warrior figure stands at the center of a fiery cataclysm, its body and armor disintegrating into smoke and slag. The metal helmet — riveted, conical, with a downturned brim — tilts atop the figure as molten heat warps the form beneath. Blackened, charred limbs and armor shards splay outward as if mid-explosion. The flames glow vivid orange and yellow at the core, fading into smoky black at the edges. Sparks and embers fly. The composition is centered, almost symmetrical, with the destruction radiating outward from the figure.
 

@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![[221-traveler-s-amulet.png]]
+![[images/magic-the-gathering/theros/221-traveler-s-amulet.png]]
 
 A finely-wrought amulet hangs in the foreground, its centerpiece a luminous teal-blue cabochon stone framed by symmetrical filigree scrollwork in warm bronze or weathered gold. The pendant fills most of the frame, presented like a museum object. Behind it stretches a wide, hazy vista of arid hills and distant mountains under a pale, muted sky — a traveler's-eye view suggesting open country and long roads. The lighting is diffuse and atmospheric, giving the scene a sun-bleached, overcast quality.
 

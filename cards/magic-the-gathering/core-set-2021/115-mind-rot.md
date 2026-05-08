@@ -30,7 +30,7 @@ setting: indoor
 
 ## Vision
 
-![[115-mind-rot.png]]
+![[images/magic-the-gathering/core-set-2021/115-mind-rot.png]]
 
 A figure lies face-down across a cluttered workbench, head buried in their arms in exhaustion or despair. Scattered around them are intricate engineering plans, brass clockwork components, a broken mechanical bird, parchment, and instruments. Color palette is warm sepia-brown with brass highlights. The mood is creative burnout, defeat, the cost of perfectionism — the flavor text reads 'Many an inventor has collapsed under the pressure to create a flawless design.' This is a 'labor' card, broadly: the working conditions of fantasy artisans.
 

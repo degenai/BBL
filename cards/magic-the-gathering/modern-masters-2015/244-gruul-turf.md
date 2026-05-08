@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[244-gruul-turf.png]]
+![[images/magic-the-gathering/modern-masters-2015/244-gruul-turf.png]]
 
 A wide vista of ancient ruined architecture — fragments of stone arches, broken columns, and crumbling walls — stretches into the distance under a glowing red and orange sky. The sun sits low on the horizon, casting everything into deep silhouette. A small solitary figure, hooded or cloaked, picks its way through the rubble in the foreground. Smoke or haze drifts across the middle ground, softening the far ruins into shadowy shapes. The palette is dominated by burnt oranges, deep reds, and near-black silhouettes, with a thin band of yellow at the horizon line where the sun glares brightest.
 

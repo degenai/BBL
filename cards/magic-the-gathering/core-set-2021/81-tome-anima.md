@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![[81-tome-anima.png]]
+![[images/magic-the-gathering/core-set-2021/81-tome-anima.png]]
 
 A glowing, translucent blue spirit-figure rises from the center of a circular arrangement of open and floating books in a dim library. The spirit is roughly humanoid, with a soft, indistinct face and arms outstretched as pages and ribbons of light swirl around it. Heavy leather-bound tomes lie open on a wooden table or floor, their pages riffling with arcane energy. Loose papers, quills, and bookmarks drift through the air. The lighting comes from the spirit itself — a cold, pale blue luminance that backlights the books and casts long shadows across the wooden surfaces. The mood is hushed, scholarly, and faintly eerie, evoking the moment a piece of accumulated knowledge becomes self-aware.
 

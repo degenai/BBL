@@ -30,7 +30,7 @@ setting: indoor
 
 ## Vision
 
-![[236-weapon-rack.png]]
+![[images/magic-the-gathering/throne-of-eldraine/236-weapon-rack.png]]
 
 An indoor armory scene shows a heavy wooden rack fixed to a mortared stone wall. A knight's great helm crowned with a dark plume hangs prominently in the center, flanked by a longsword and what appears to be an axe or polearm hafted in dark wood. Smaller armor fittings and weapons are arranged across the rack's pegs. The lighting is warm and low, with an orange glow at the bottom edge suggesting torchlight or a hearth out of frame. No figures are present; the composition is a still life of arms.
 

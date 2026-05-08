@@ -31,7 +31,7 @@ setting: desert
 
 ## Vision
 
-![[271-mountain-271.png]]
+![[images/magic-the-gathering/core-set-2021/271-mountain-271.png]]
 
 A wide desert vista of weathered sandstone formations: tall freestanding rock spires and hoodoos in the mid-ground, larger mesa walls receding into the distance. The terrain is bare and arid, dotted with scattered scrub. Warm amber and ochre tones dominate the foreground stone, blending into a hazy gold-and-cream sky. No figures or creatures are visible. The vantage is slightly elevated, looking out across the canyon basin in a classic American Southwest composition. Light is diffuse and warm, suggesting late afternoon.
 

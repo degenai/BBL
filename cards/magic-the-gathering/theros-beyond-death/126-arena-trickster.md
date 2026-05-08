@@ -30,7 +30,7 @@ setting: indoor
 
 ## Vision
 
-![[126-arena-trickster.png]]
+![[images/magic-the-gathering/theros-beyond-death/126-arena-trickster.png]]
 
 A bald, muscular bare-chested man holds a glowing horned theatrical mask aloft in his right hand. He's mid-laugh or shout. The whole scene is lit in deep theatrical reds; behind him a tall stone archway rises, suggesting a coliseum or stage. Mood is showman, performance, crowd-pleasing combat. Flavor text spells the vibe out: 'It's not enough to surprise your opponent. You have to delight the crowd as well.'
 

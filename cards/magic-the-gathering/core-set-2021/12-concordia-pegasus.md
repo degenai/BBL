@@ -30,7 +30,7 @@ setting: mountain
 
 ## Vision
 
-![[12-concordia-pegasus.png]]
+![[images/magic-the-gathering/core-set-2021/12-concordia-pegasus.png]]
 
 A pure white pegasus glides through the sky with wings spread wide. The luminous body almost glows against the moody overcast backdrop. Mountain peaks and dim clouds form the distant horizon. Composition is elegant, hopeful — the creature reads as a beacon. Flavor text reinforces it: 'In the cloudy skies and dim light of autumn, a flash of white wings is a reminder that better times lie ahead.'
 

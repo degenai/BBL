@@ -31,7 +31,7 @@ setting: dungeon
 
 ## Vision
 
-![[77-barrow-witches.png]]
+![[images/magic-the-gathering/throne-of-eldraine/77-barrow-witches.png]]
 
 In a dim subterranean barrow, two robed witches in deep hoods bend over a stone tomb where the armored body of a knight lies prone. Candles burn around the slab, casting warm orange firelight across the witches' faces and the knight's plate armor while the rest of the chamber recedes into near-black shadow. The witches' postures are intent and focused, hands hovering over the corpse as if drawing breath or essence from it. The palette is dominated by deep blacks, cold blues, and the small pools of candle-orange — classic gothic crypt atmosphere.
 

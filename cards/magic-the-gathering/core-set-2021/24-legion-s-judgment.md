@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[24-legion-s-judgment.png]]
+![[images/magic-the-gathering/core-set-2021/24-legion-s-judgment.png]]
 
 A knight in gleaming golden plate armor sits astride a rearing white pegasus, its feathered wings flared wide. The rider couches a long lance and aims it directly at a hulking, dark-purple draconic creature whose toothy maw and clawed limb fill the right side of the frame. The action is mid-charge: the pegasus's hooves are off the ground, the knight's posture is locked forward over the saddle, and the composition reads as a classic chivalric joust against a monster. Background is a hazy painted sky in muted blues and warm dusty oranges, with no terrain visible — the duel hangs in open air.
 

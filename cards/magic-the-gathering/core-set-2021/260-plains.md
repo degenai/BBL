@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[260-plains.png]]
+![[images/magic-the-gathering/core-set-2021/260-plains.png]]
 
 A panoramic landscape vista. The sun hangs low at the center horizon, blazing white-gold and casting radial rays across a sky that gradients from pale yellow at the sun to deep amber and burnt orange at the upper edges. A path or thin watercourse runs from the foreground straight back to the sun, reflecting its light. The foreground is rendered in dark silhouette — flat grassland, low brush, and a few small dark shapes that read as tufted vegetation or distant markers. No figures, no architecture, no creatures visible. The mood is quiet, expansive, contemplative — pure landscape with the sun as the sole focal point.
 

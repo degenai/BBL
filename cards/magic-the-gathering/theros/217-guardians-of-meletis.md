@@ -31,7 +31,7 @@ setting: ocean
 
 ## Vision
 
-![[217-guardians-of-meletis.png]]
+![[images/magic-the-gathering/theros/217-guardians-of-meletis.png]]
 
 Two enormous stone colossi rise from the water, each carved in the form of a robed or armored humanoid figure with one arm raised. They stand far apart, framing a misty channel of water that recedes toward distant mountains. Tiny boats float at their feet, dwarfed by the scale of the statues. The palette is muted greys, soft blues, and pale ochre, with diffuse hazy light and low-lying mist softening the silhouettes. The composition emphasizes monumentality, stillness, and the passage of time — the statues feel ancient, weathered, and silent.
 

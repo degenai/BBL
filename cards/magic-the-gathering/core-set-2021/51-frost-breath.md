@@ -30,7 +30,7 @@ setting: mountain
 
 ## Vision
 
-![[51-frost-breath.png]]
+![[images/magic-the-gathering/core-set-2021/51-frost-breath.png]]
 
 A horned blue dragon, body partially turned, opens its jaws and exhales a billowing cloud of pale-blue ice crystals and fog that sweeps across the frame. Mountain peaks rise in the background; everything is dusted in frost. Mood is cold majesty, sweeping elemental power. Flavor text: 'I'll make ice chimes of your bones.'
 

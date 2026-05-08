@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[227-watcher-of-the-spheres.png]]
+![[images/magic-the-gathering/core-set-2021/227-watcher-of-the-spheres.png]]
 
 An anthropomorphic owl wizard with white plumage and large outstretched wings drifts in a sunlit sky, draped in voluminous gold-and-cream robes that catch the light. Its taloned hands hold or summon a luminous spherical light source at chest height; rays of warm light radiate outward, blending with pale clouds. The palette is dominated by soft gold, white, and sky blue, giving the figure an angelic, celestial-scholar feel. The composition is a mid-shot of a solo airborne figure, three-quarter view, with no other characters present.
 

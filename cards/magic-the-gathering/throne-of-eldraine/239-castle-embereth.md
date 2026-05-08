@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![[239-castle-embereth.png]]
+![[images/magic-the-gathering/throne-of-eldraine/239-castle-embereth.png]]
 
 A monumental fortress of red and umber stone dominates the composition, its towers and turrets bristling along a high ridge. Tall narrow banners snap from the spires, silhouetted against a sky burning with sunset oranges and dusty reds. Behind the castle, a range of dark, sharp mountains cuts a serrated horizon, their slopes catching warm rim-light. The foreground rocks and walls are bathed in deep ember tones, with shadow pooling at the base of the structure. There are no figures visible — the painting is an architectural landscape, monumental and martial, evoking a stronghold of a warlike, knightly people at the magic hour just before night.
 

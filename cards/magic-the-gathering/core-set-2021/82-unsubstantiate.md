@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[82-unsubstantiate.png]]
+![[images/magic-the-gathering/core-set-2021/82-unsubstantiate.png]]
 
 A robed figure stands in dramatic silhouette at the lower-center of the frame, illuminated against a churning vortex of blue and white magical energy that spirals upward and outward. The mage holds an implement aloft — a curved blade or staff catches red highlights — while debris, fragments, and arcane particles are pulled into the swirling counterspell. The palette is dominated by deep blues, blacks, and electric whites, with warm red accents on the figure's clothing providing the only chromatic counterpoint. The composition is kinetic and chaotic, conveying the moment of a spell being unmade and returned to the void.
 

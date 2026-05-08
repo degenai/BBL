@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![[76-bake-into-a-pie.png]]
+![[images/magic-the-gathering/throne-of-eldraine/76-bake-into-a-pie.png]]
 
 A warmly-lit cottage kitchen scene dominated by a large golden-brown lattice-top pie in the foreground, sitting on a dark wooden table or counter. Behind the pie stands a humanoid figure — a baker or cook — wearing a rolled-sleeved tunic and apron, holding a long wooden peel or paddle propped over one shoulder. Wooden shelving and pantry stock fill the background, and a hearth or stove glow warms the right side of the frame with amber light. The mood is hearth-cozy on its surface, but the card title and the baker's posture lend a quietly sinister fairytale undertone — the pie may not be ordinary fare.
 

@@ -11,10 +11,14 @@
             "id": "2f47d2ec7546c1fd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "magic-the-gathering/throne-of-eldraine/229-scalding-cauldron.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "229-scalding-cauldron"
             }
           }
         ]
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,8 +185,19 @@
   },
   "active": "2f47d2ec7546c1fd",
   "lastOpenFiles": [
-    "weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e003-r-kagamine-rin-ni-no-sakura-butterfly.md",
+    "magic-the-gathering/throne-of-eldraine/256-island-256.md",
+    "magic-the-gathering/throne-of-eldraine/239-castle-embereth.md",
+    "magic-the-gathering/throne-of-eldraine/216-clockwork-servant.md",
+    "magic-the-gathering/throne-of-eldraine/152-feasting-troll-king.md",
+    "magic-the-gathering/throne-of-eldraine/102-reaper-of-night.md",
+    "magic-the-gathering/throne-of-eldraine/10-deafening-silence.md",
+    "magic-the-gathering/ravnica-allegiance/211-syndicate-guildmage.md",
+    "magic-the-gathering/ravnica-allegiance/203-savage-smash.md",
+    "magic-the-gathering/ravnica-allegiance/192-mortify.md",
+    "magic-the-gathering/fifth-edition/no-num-wall-of-spears.md",
+    "magic-the-gathering/alara-reborn/no-num-vectis-dominator.md",
     "magic-the-gathering/core-set-2021/65-roaming-ghostlight.md",
+    "weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e003-r-kagamine-rin-ni-no-sakura-butterfly.md",
     "pokemon/vivid-voltage/161-185-wyndon-stadium.md",
     "pokemon/vivid-voltage/160-185-telescopic-sight.md",
     "pokemon/vivid-voltage/159-185-rocky-helmet.md",
@@ -198,18 +212,7 @@
     "pokemon/vivid-voltage/148-185-beauty.md",
     "pokemon/vivid-voltage/147-185-bea.md",
     "pokemon/vivid-voltage/146-185-allister.md",
-    "pokemon/team-up/144-ingo-emmet.md",
-    "pokemon/sword-shield-base-set/185-202-vitality-band.md",
-    "pokemon/sword-shield-base-set/178-202-professor-s-research--holofoil.md",
-    "pokemon/sword-shield-base-set/174-202-pokegear-3-0.md",
-    "pokemon/sword-shield-base-set/165-202-hop.md",
-    "pokemon/sword-shield-base-set/163-202-evolution-incense.md",
-    "pokemon/sword-shield-base-set/158-202-big-charm.md",
-    "pokemon/sun-moon-base-set/134-timer-ball.md",
-    "pokemon/sun-moon-base-set/129-rare-candy.md",
-    "pokemon/steam-siege/104-pokemon-ranger.md",
     "pokemon/steam-siege",
-    "pokemon/sm-trainer-kit-lycanroc-alolan-raichu/27-big-malasada.md",
     "pokemon/sm-trainer-kit-lycanroc-alolan-raichu",
     "pokemon/shining-legends",
     "pokemon/rebel-clash",

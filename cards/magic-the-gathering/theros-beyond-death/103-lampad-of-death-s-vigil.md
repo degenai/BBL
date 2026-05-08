@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[103-lampad-of-death-s-vigil.png]]
+![[images/magic-the-gathering/theros-beyond-death/103-lampad-of-death-s-vigil.png]]
 
 A robed feminine spirit-figure stands at center, her form dissolving into wisps of dark, smoky drapery that trail upward and outward. Her face is pale and hollow-eyed, framed by long shadowy hair. Cracked stone slabs and broken classical columns flank her in the foreground. Heavy iron chains hang and drift through the composition, suggesting bondage to the underworld. The sky behind her seethes with violet and magenta storm clouds shot through with crackling lightning. The palette is dominated by deep purples, near-blacks, and cold blue-greys, with bruise-toned highlights on the figure's shroud. The mood is one of mourning, grief, and quiet dread.
 

@@ -30,7 +30,7 @@ needs_manual_review: false
 
 ## Vision
 
-![[no-num-vectis-dominator.png]]
+![[images/magic-the-gathering/alara-reborn/no-num-vectis-dominator.png]]
 
 A wizard in dark blue-black robes and ornate plated armor stands small but central atop the massive head/brow of a slumbering tan-and-gold construct that fills most of the lower frame. The wizard raises one arm to channel a brilliant beam of white-yellow light. A large pale-blue luminous orb (the construct's eye?) is visible at lower right, suggesting the colossus is sentient and being controlled. Sky is saturated yellow-gold with abstract mountainous forms in the distance. Strong vertical, dramatic, dominant composition.
 

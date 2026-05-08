@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![[40-charmed-sleep.png]]
+![[images/magic-the-gathering/throne-of-eldraine/40-charmed-sleep.png]]
 
 A knight in plate armor sits astride a large mount, head bowed and body slumped forward in enchanted slumber. A vivid rainbow arches across the sky above the scene, suggesting magic at work. Behind the central figure a crowd of onlookers and pavilions is just visible, framing the moment as a public spectacle — a tournament or festival interrupted by a sleep spell. The palette is dominated by cool blues and silvers in the foreground armor and magic, with warmer banner reds and earthy browns receding into the background. Lighting is soft and diffuse, with the rainbow providing the chromatic focus.
 

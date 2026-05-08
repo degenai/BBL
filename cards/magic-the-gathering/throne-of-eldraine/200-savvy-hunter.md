@@ -30,7 +30,7 @@ setting: forest
 
 ## Vision
 
-![[200-savvy-hunter.png]]
+![[images/magic-the-gathering/throne-of-eldraine/200-savvy-hunter.png]]
 
 A young woman with dark hair pulled back stands in mid-stride through a snow-dusted forest of bare birch trees, drawing back a longbow with a nocked arrow. She wears a heavy fur-lined hooded cloak over leather garments, with a quiver of arrows slung across her back. Her gaze is locked forward and downrange, tracking her quarry. In the middle distance, a pale stag bolts away between thin tree trunks, glimpsed mostly as a silhouette. The palette is cool — slate blues, dusky greens, and the muted whites of snow and birchbark — with a hint of warmer skintone at her face. The light is overcast and diffuse, suggestive of late afternoon in winter. The composition is a tight mid-shot framed by vertical tree trunks, giving the scene a quiet, focused tension.
 

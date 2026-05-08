@@ -33,7 +33,7 @@ ip_verified: false
 
 ## Vision
 
-![[232-kiora-behemoth-beckoner.png]]
+![[images/magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner.png]]
 
 A blue-skinned female figure with long tendril-like cyan hair stands triumphant atop the dark coiled body of a massive sea-leviathan whose serpentine form breaches the churning ocean. She is clad in dark plated shoulder armor and a dark wrap, raising a curved silver bident or trident-staff above her head with one hand. Foamy whitecaps crash around the creature's exposed coils. The sky behind her is a moody slate blue-grey under overcast storm light, with the leviathan's bulk in deep blue-black shadow filling the lower half of the composition. Her stance is commanding, almost ritualistic, as if calling the beast forth from the depths.
 

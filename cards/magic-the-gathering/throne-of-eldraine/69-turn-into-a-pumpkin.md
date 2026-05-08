@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[69-turn-into-a-pumpkin.png]]
+![[images/magic-the-gathering/throne-of-eldraine/69-turn-into-a-pumpkin.png]]
 
 A massive hunched figure squats among an endless field of pumpkins under a moonlit night sky. The figure reads as ogrish or trollish, with a heavy bulbous head that mirrors the round pumpkin forms scattered around it — a fairy-tale transformation caught mid-moment. Twisting vines and leaves sprawl across the foreground, with pumpkins of varying size piled and clustered. The whole image is rendered in cool blue moonlight, with deeper shadows pooling under the vines and a paler wash on the pumpkins' upper curves. The mood is uncanny and folkloric — a Cinderella-coach inversion played as ogre's-garden menace.
 

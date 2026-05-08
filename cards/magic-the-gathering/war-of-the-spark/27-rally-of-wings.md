@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![[27-rally-of-wings.png]]
+![[images/magic-the-gathering/war-of-the-spark/27-rally-of-wings.png]]
 
 A central armored figure with long pale hair and large feathered wings hovers in a bright sky, sword lifted above the head in a rallying gesture. Flanking her are additional winged armored allies, partly silhouetted, lances and blades drawn as they surge forward through banks of pale cloud. The palette is dominated by warm whites, ivory, and gold, with bursts of orange-red glow at the edges suggesting distant fire or detonations. The composition is mid-shot, frontal and heroic, with a clear feeling of an aerial host charging into battle.
 

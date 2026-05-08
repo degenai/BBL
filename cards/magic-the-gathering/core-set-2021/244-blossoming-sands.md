@@ -31,7 +31,7 @@ setting: desert
 
 ## Vision
 
-![[244-blossoming-sands.png]]
+![[images/magic-the-gathering/core-set-2021/244-blossoming-sands.png]]
 
 A wide, atmospheric desert vista painted in warm gold, ochre, and dusty cream tones. The foreground is a stretch of sandy ground with tufts of pale yellow-green grass; a thin trail or wagon track curves into the middle distance. A handful of small, gnarled trees and shrubs cling to the ridges, their forms catching the low sunlight. Beyond, sun-bleached dunes roll into a horizon of distant cliffs and hazy mountains. The sky dominates the upper half of the frame: a soft wash of pale blue and warm gold, with the sun glaring through and bathing everything in a radiant, slightly hazy magic-hour light. No figures or creatures are visible. The mood is quiet, expansive, and welcoming — an inviting frontier rather than a hostile waste.
 

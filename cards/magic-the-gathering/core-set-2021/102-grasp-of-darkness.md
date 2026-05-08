@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![[102-grasp-of-darkness.png]]
+![[images/magic-the-gathering/core-set-2021/102-grasp-of-darkness.png]]
 
 A lone robed figure, dwarfed by the scale of the threat, stands in a desolate scorched landscape while colossal serpentine tendrils of black energy or thorned vines erupt from the earth and twist violently upward into a sickly purple-grey sky. The tendrils branch and writhe like a malignant root system pulled inside-out. Faint sickly pink and violet glow rims the figure and the bases of the tendrils, suggesting necrotic magic or corrupted life force. The composition is bottom-heavy with the figure as a tiny silhouette beneath an oppressive canopy of hostile growth. Mood is grim, oppressive, and overwhelming.
 

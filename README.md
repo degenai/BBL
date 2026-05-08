@@ -1,10 +1,18 @@
 # Bulk Graph Bundler (BBL)
 
-**A curation engine and storefront for trading card bulk.** The product is the curation: themed one-off bundles ("Discrete Lairs") drawn from the strata of cards corporate resellers ignore — commons, near-worthless rares, off-meta sets — assembled around concepts that cut across set boundaries: mechanics, flavor, art, jokes, vibes.
+**This is a curation project.** The goal — the whole goal, end to end — is to produce **as many unique, curated card bundles as possible** from a personal bulk inventory the rest of the market treats as weight-priced filler. Every script, agent, tag, schema choice, and pipeline decision in this repo is in service of that one outcome: more well-curated bundles.
 
-The thesis: bulk has near-zero exchange-value individually but rich use-value collectively when sorted with intent. Most bulk sellers move it by weight or random pack. BBL moves it by *theme* — and that theme is the labor that creates the value.
+A "Discrete Lair" is the unit of work: a one-off, named, theme-driven bundle of cards that share a concept the market doesn't see. Mechanics, flavor, art, jokes, vibes. Each bundle is its own SKU. Each tells a story. Each is the labor that creates the value.
 
-> See [`BBL-project-spec.md`](BBL-project-spec.md) for the full concept, brand voice, and political framing. See [`subagents.md`](subagents.md) for the full agent roster spec.
+The thesis: bulk has near-zero exchange-value individually but rich use-value collectively when sorted with intent. Most bulk sellers move it by weight or by random pack. BBL moves it by *theme* — and the theme is what we sell.
+
+The graph (the tag network, the hub-and-filter taxonomy, the vision-pass enrichment, the lair architect) exists to make those bundles assemblable at scale. Hub tags = candidate bundle anchors. Filter tags = combinatorial narrowing dimensions. The whole BBL stack is a machine for surfacing "here's a bundle people will want, here's why, and here are 30 cards that compose it."
+
+See also:
+- [`BBL-project-spec.md`](BBL-project-spec.md) — full concept, brand voice, political framing.
+- [`subagents.md`](subagents.md) — the agent roster spec.
+- [`docs/curation-modes.md`](docs/curation-modes.md) — the *forms* a curated bundle can take (haiku set, sonnet set, mood lair, etc.). Forms are part of the pitch — they're what makes "why would I want this curation?" answerable in one sentence.
+- [`references/`](references/) — visual references for what a well-curated themed binder looks like in practice.
 
 ---
 
@@ -227,10 +235,20 @@ The pattern that's emerging: **writers get the keys to wikilintbot; watchers do 
 
 ---
 
-## Status snapshot (2026-05-08, end of session — 175-mark)
+## Status snapshot (2026-05-08, post-Scryfall-recovery)
 
-- **977** active singles · **16** sealed products · **175** MTG cards fully enriched (was 22 at session start → **+153 this session**, ~8× growth)
-- **Vision queue right now:** `python bbl_queue.py --count` → **0**. Refill stalled in the qty=1 long tail where Scryfall set-name matches are noisy; next session needs a deeper `--limit 1000+` and likely a manual-review-triage workflow to keep going.
+- **977** active singles · **16** sealed products · **201** MTG cards fully enriched (was 22 at session start → **+179**, ~9× growth)
+- **Vision queue right now:** `python bbl_queue.py --count` → **363**. Massively topped up after the Scryfall recovery work (see Findings). At ~13 cards/parallel-round, that's ~28 rounds to all-MTG-enriched.
+- **Manual review pile:** down from 398 → **9 genuine edge cases** (tokens, art series, alt-art showcases, foil-only promos). Triage UI eventually but not blocking.
+- **Scryfall recovery shipped this session:**
+  - `--retry-flagged` mode walks the manual-review pile and re-runs lookups
+  - `http_get_json` hardened with retry-on-429/5xx + exponential backoff
+  - `SET_NAME_ALIASES` table for set names that don't normalize cleanly (Mystery Booster Cards → mb1, Promo Pack: X → ppXXX, Classic: Sixth Edition → 6ed, etc.)
+  - `_SET_PAREN_SUFFIX_RE` strips trailing parentheticals (Magic 2014 (M14) → m14)
+  - `normalize_card_name_for_lookup()` strips trailing collector-number suffixes from names (Island (254) → Island)
+  - `--scryfall-sleep N` configurable inter-request sleep (default 0.1s, bump to 1.0+ for sustained sweeps)
+  - `--refresh-set-map` flag rebuilds the cached set_map
+  - `is_already_prepared()` idempotency guard so --prepare-only doesn't re-query Scryfall for cards already prepared (~387 wasted calls per sweep without it)
 - **Six parallel rounds today across 7+ batches:** 8 + 10 + 16 + 15 + 7 + 15 + 13 + 13 + 13 + 13 + 10 = **133 successful subagent dispatches**, all tier-clean. **10 IP cards flagged correctly:** Kiora, Nicol Bolas (×2), Teyo, the Wanderer, Garruk, Radha, Teferi, Tamiyo, Oko — all `suspected_ip` set, names kept out of `subject`.
 - **Hub-tag density:** 1029 unique hub tags emitted, **362 shared by 2+ cards** (was 53 at session start → 222 at 100-mark → 362 at 175-mark). The bridge-density growth is super-linear in card count, which is exactly what the lair architect needs.
 - **JSON path migration completed:** `reports/vision_pending/<game>/<set>/<slug>.json` now mirrors the `cards/` tree — protects against MTG reprint name-collisions (Opt, Cancel, basic lands appear in dozens of sets). All 124 pre-existing JSONs migrated via `git mv` to preserve history.

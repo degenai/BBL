@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[1-alseid-of-life-s-bounty.png]]
+![[images/magic-the-gathering/theros-beyond-death/1-alseid-of-life-s-bounty.png]]
 
 A solitary female nymph stands waist-deep in a sunlit field of ripe golden wheat. Her long hair flows upward and outward, transforming seamlessly into strands of grain that catch the breeze and the light. The figure is largely defined by golds and warm yellows, blending with the field she emerges from — she is the harvest made flesh. Behind her stretches an open Mediterranean countryside under a soft pale-blue sky with low distant hills, painted in the warm, sunlit Theros idiom. Lighting is bright, ambient, and golden, with a sense of mid-morning or early-day abundance.
 

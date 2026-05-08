@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[10-daybreak-chimera.png]]
+![[images/magic-the-gathering/theros-beyond-death/10-daybreak-chimera.png]]
 
 A radiant white chimera ascends through a luminous pale-blue sky. The creature blends a horned, goat-like head and forequarters with massive feathered wings spread wide in flight. Its coat and plumage are uniformly bright white, lit from above so the wings almost dissolve into the sky. The composition is dynamic and lifted — the body angles upward and to the right, wings catching the light. The background is an open expanse of soft blue and white, evoking dawn or high-altitude day. The overall mood is heroic, celestial, and clean — a classic white-magic flying creature presented in mid-action against open sky.
 

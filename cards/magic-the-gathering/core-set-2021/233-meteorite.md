@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[233-meteorite.png]]
+![[images/magic-the-gathering/core-set-2021/233-meteorite.png]]
 
 A large, irregularly shaped black-and-grey meteorite dominates the frame, sitting in a shallow crater of cracked, scorched earth. The rock's underside and the surrounding ground glow with smoldering red-orange embers and lingering heat, suggesting a recent impact. The terrain is rocky and barren, with broken stone and dust scattered around the impact site. The sky is dim and ashen, lit ambiently by the residual glow from the strike. There are no figures present — the composition is a pure object study of the fallen rock as a single dramatic landmark.
 

@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![[no-num-leechridden-swamp.png]]
+![[images/magic-the-gathering/shadowmoor/no-num-leechridden-swamp.png]]
 
 The painting depicts a fetid swamp grotto seen from inside. Gnarled black roots and thorn-tangled branches frame the scene like a natural cathedral, twisting in from every edge to form a dark, claw-like vault around a central pool of glowing ochre-orange light. The light source is hidden below, bleeding upward through silhouettes of broken trunks and dripping vegetation, suggesting a bog or leech-pit. No figures are visible — the menace is environmental. Palette is almost entirely black, sepia-brown, and bilious yellow-orange, with no sky and no horizon. Texture is wet, root-bound, and decaying, in the always-twilight Shadowmoor signature style.
 

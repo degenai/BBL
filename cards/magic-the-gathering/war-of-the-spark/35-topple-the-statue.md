@@ -33,7 +33,7 @@ ip_verified: false
 
 ## Vision
 
-![[35-topple-the-statue.png]]
+![[images/magic-the-gathering/war-of-the-spark/35-topple-the-statue.png]]
 
 An enormous stone statue depicting a horned, long-necked dragon-god figure pitches forward off its tall plinth, mid-collapse. The monument silhouettes nearly black against a churning, ash-gray sky streaked with paler clouds. The statue's twin curving horns and craning neck dominate the upper third of the frame, with chunks of masonry breaking loose as it falls. Below, a wide stone-paved plaza or courtyard recedes into haze, suggesting a ruined desert city. The palette is muted and monochromatic — slate grays, charcoal, and bone-white sky — giving the scene a grim, monumental, end-of-an-era feel.
 

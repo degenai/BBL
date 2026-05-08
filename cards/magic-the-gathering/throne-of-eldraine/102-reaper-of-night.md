@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["ghost", "specter", "wraith", "death", "skeletal", "hooded-figure", "veil", "bride", "mourning", "gothic", "darkness", "reaching-hand", "undead", "haunting"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "creature-specter", "black-magic", "monochrome-palette", "flying"]
 reference_image: images/magic-the-gathering/throne-of-eldraine/102-reaper-of-night.png
 average_cost_paid: 0
 market_price: 0.1
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/4/d/4dc774b4-3f70-4351-b1b8-8a0193cb3a50.png?1572490223
+mood: grim
+time_of_day: night
+setting: void
 ---
 
 # Reaper of Night (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[images/magic-the-gathering/throne-of-eldraine/102-reaper-of-night.png]]
 
+A gaunt hooded specter looms in near-monochrome darkness, its bony hand outstretched toward the viewer with curled, claw-like fingers. The figure is shrouded in tattered, wind-torn black robes that dissolve into smoke at the edges. A pale, luminous veiled form — suggestive of a spectral bride or shrouded woman — is fused into the wraith's silhouette, her white veil and lace giving the figure its only highlight against the inky background. The composition is tight and forward-facing, an eerie portrait of grief and predation. The mood is grim and gothic, lit by a soft cold rim light that picks out the veil and the skeletal hand.
 
-**Subject:** 
+**Subject:** A hooded specter — a tattered, skeletal wraith with a bone-thin reaching hand, draped in shredded dark robes; a pale, ghostly veiled bridal form is fused into or wreathed around the figure
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** void, night
+**Foreground:** hooded skeletal specter with reaching bony hand, tattered black robes, pale veiled bridal form fused into the figure  *(palette: black, ash-grey, bone-white, pale-cream)*
+**Background:** near-black void with faint smoky tonal shifts  *(palette: black, charcoal, deep-grey)*
+**Mood / lighting:** grim, rim
+**Emotion read:** predatory hunger; mournful menace; the wraith reaches as if to grasp the viewer
+**Objects:** tattered-robes, veil, shroud
+**Creatures:** specter, wraith, ghost
+**Iconography:** reaching-hand, veil, skeletal-hand
+**Genre cues:** fantasy, gothic, fairytale-horror
 

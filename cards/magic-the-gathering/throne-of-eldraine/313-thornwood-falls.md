@@ -30,7 +30,7 @@ setting: forest
 
 ## Vision
 
-![[313-thornwood-falls.png]]
+![[images/magic-the-gathering/throne-of-eldraine/313-thornwood-falls.png]]
 
 A peaceful glade scene: a slim white waterfall pours over moss-covered rocks into a clear pool below, framed by dense green ferns and tree trunks. Warm golden sunlight filters down through the upper canopy. Color palette is rich greens with golden highlights. No figures present — pure landscape. Mood is tranquil, restful, cozy-in-the-wild.
 

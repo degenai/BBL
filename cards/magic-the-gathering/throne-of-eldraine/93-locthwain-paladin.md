@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[93-locthwain-paladin.png]]
+![[images/magic-the-gathering/throne-of-eldraine/93-locthwain-paladin.png]]
 
 A grim paladin clad in black-and-grey plate armor rides a rearing black destrier across a desolate, ash-grey landscape. The knight brandishes a sword high overhead, body twisted into the motion of a charge, with a long dark cape or surcoat trailing behind. The horse rears on its hind legs, mane streaming. Behind the figure rise the gnarled silhouettes of leafless dark trees against an overcast sky tinged with sickly pink and bruised purple toward the horizon. The palette is dominated by blacks, charcoals, and muted grey-violets, with a thin warm rim of light catching the edge of the armor and the horse's flank.
 

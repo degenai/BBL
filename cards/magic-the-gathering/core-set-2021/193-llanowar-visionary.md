@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![[193-llanowar-visionary.png]]
+![[images/magic-the-gathering/core-set-2021/193-llanowar-visionary.png]]
 
 A pale-skinned elf druid stands at center frame in a dense, sun-dappled forest, facing forward with both arms raised in a casting gesture. Glowing tendrils of green energy spiral outward from the hands and torso, weaving through the air in luminous coils. The figure wears layered organic armor — pauldrons resembling claws or talons of bone-bark, a fitted dark chestplate with vine and twig motifs, and a slight ornament across the brow. Long dark hair frames the face; the eyes carry a faint glow. Behind the druid, vertical tree trunks recede into deeper shadow on either side, with bright forest light filtering between them. The palette is dominated by emerald and lime greens with warm golden highlights and deep forest shadow.
 

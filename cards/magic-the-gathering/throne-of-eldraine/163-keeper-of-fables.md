@@ -30,7 +30,7 @@ setting: forest
 
 ## Vision
 
-![[163-keeper-of-fables.png]]
+![[images/magic-the-gathering/throne-of-eldraine/163-keeper-of-fables.png]]
 
 A huge regal lion-like cat with a thick mane composed of moss and leaves stands forward, body squared, gaze direct. Behind it is a deep forest in layered greens and shadow. Mood is regal, ancient, lore-keeper. Flavor text from Chulane, Teller of Tales: 'Only the lion knows more stories than I do.' Strong cat card and strong lore-keeper card at once.
 

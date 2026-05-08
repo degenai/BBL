@@ -33,7 +33,7 @@ ip_verified: false
 
 ## Vision
 
-![[33-teyo-s-lightshield.png]]
+![[images/magic-the-gathering/war-of-the-spark/33-teyo-s-lightshield.png]]
 
 A young figure in pale layered robes crouches low behind a translucent, faceted dome of white-blue light. Sharp prismatic shards and beams radiate from the shield's surface, fracturing the space around him into geometric panes. The figure's posture is defensive and braced — one knee down, body angled forward into the shield as if absorbing an unseen impact. Cool blue-white tones dominate; the light is the painting's main subject, washing over the figure and the dark surroundings beyond.
 

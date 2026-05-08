@@ -28,6 +28,8 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/a/9a4c5629-fad
 
 ## Vision
 
+![[images/magic-the-gathering/10th-edition/360-terramorphic-expanse.png]]
+
 > ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
 

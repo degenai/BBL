@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![[118-chainwhip-cyclops.png]]
+![[images/magic-the-gathering/war-of-the-spark/118-chainwhip-cyclops.png]]
 
 A bare-chested cyclops dominates the frame, head thrown back in a roar or war-cry, single eye open wide, mouth gaping with bared teeth. He has a long matted topknot of pale hair, a thick beard, and heavy musculature with a soft gut, painted in warm tan and orange flesh tones. He whips a length of heavy iron chain studded with spiked weights — one end crashing into a stone pillar at lower left, sending shards flying. The setting is a destroyed colonnade or temple plaza: broken columns, scattered rubble, smoke-and-fire haze in the deep background. Lighting is harsh and warm, dominated by red-orange and ochre tones consistent with the card's red mana identity, with chiaroscuro modeling on the cyclops's torso.
 

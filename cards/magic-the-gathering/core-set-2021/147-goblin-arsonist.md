@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![[147-goblin-arsonist.png]]
+![[images/magic-the-gathering/core-set-2021/147-goblin-arsonist.png]]
 
 A small hooded goblin figure stands at center, mostly silhouetted, partially cloaked or robed, holding a long object — staff, torch, or stick — as a vortex of fire erupts behind and around them. The flames are massive in scale relative to the goblin, dominating the upper half of the frame in bright orange, yellow-white, and deep red tones. Embers and ash flakes scatter through the air. The lower portion is darker, suggesting scorched ground. The goblin's posture reads as small but defiant, almost engulfed by the conflagration they have summoned or stand within. Composition is vertical and centered, with the figure dwarfed by the elemental scale of the fire.
 

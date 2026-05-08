@@ -31,7 +31,7 @@ setting: ocean
 
 ## Vision
 
-![[258-tranquil-cove.png]]
+![[images/magic-the-gathering/core-set-2021/258-tranquil-cove.png]]
 
 A wide landscape view of a coastal inlet seen from an elevated vantage on a grass-covered bluff. The foreground is dominated by tall, dry, golden-brown grasses bending in a gentle breeze. The middle ground shows a sweeping crescent of pale sand backed by dark, rocky cliffs. Calm turquoise-to-deep-blue ocean water stretches out, broken by scattered black rocks and small islets that catch white surf at their bases. In the far distance, headlands recede in layers of soft blue-grey haze under an open, lightly clouded sky. Light is soft and ambient, suggesting late morning or afternoon. The composition is peaceful, empty of figures, evoking a quiet, contemplative wilderness shoreline.
 

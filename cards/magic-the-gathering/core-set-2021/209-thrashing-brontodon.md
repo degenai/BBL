@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![[209-thrashing-brontodon.png]]
+![[images/magic-the-gathering/core-set-2021/209-thrashing-brontodon.png]]
 
 A heavy-set ceratopsian dinosaur dominates the frame, its body painted in earthy reddish-brown tones with a striking red, orange, and yellow crested neck frill that fans out behind a horned face. The creature is mid-charge, head lowered, mouth slightly open, kicking up motion as it crashes through a verdant jungle. Lush green ferns and palmlike fronds press in from the foreground and background, with sunlight filtering down through a canopy to dapple the leaves and the dinosaur's hide. The palette is dominated by saturated jungle greens contrasted against the warm reds and oranges of the frill — a classic predator-warning silhouette against foliage. Mood is kinetic and primal, daylight bright but shadowed under canopy.
 

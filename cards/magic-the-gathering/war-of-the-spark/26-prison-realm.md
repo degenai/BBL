@@ -33,7 +33,7 @@ ip_verified: false
 
 ## Vision
 
-![[26-prison-realm.png]]
+![[images/magic-the-gathering/war-of-the-spark/26-prison-realm.png]]
 
 A horned, draconic humanoid figure with sweeping curved horns and dark wings is shown imprisoned at the center of the composition, head bowed in defeat or contemplation. The creature is enveloped in a swirling aura of violet, magenta, and pink magical energy with sharp white highlights radiating outward like cracks of light. Chains and crystalline shards extend across the frame, suggesting binding and confinement. The background fades into a deep purple-black void with hints of cosmic or otherworldly geometry. The lighting is harsh and dramatic, with the figure underlit and rim-lit by the prison's energy. Composition is centered and symmetrical, emphasizing the captive's helplessness and the totality of the magical cage.
 

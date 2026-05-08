@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[19-feat-of-resistance.png]]
+![[images/magic-the-gathering/core-set-2021/19-feat-of-resistance.png]]
 
 A solitary figure stands centered in the frame, body torqued into a defensive brace as a wash of pale light explodes around them. They are clad in white robes layered with gold-trimmed armor at the shoulders and waist. One arm sweeps a curved sword high overhead while the other is held forward as if warding off an unseen blow. Long hair whips back in the radiance. The background dissolves into a near-white burst of magical energy with faint warm tones at the edges, leaving the figure haloed and almost weightless. Composition is vertical and heroic, lighting is blown-out and radiant, palette is dominated by white, cream, gold, and pale yellow.
 

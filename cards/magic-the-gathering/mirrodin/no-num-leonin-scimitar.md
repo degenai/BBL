@@ -30,7 +30,7 @@ setting: void
 
 ## Vision
 
-![[no-num-leonin-scimitar.png]]
+![[images/magic-the-gathering/mirrodin/no-num-leonin-scimitar.png]]
 
 A single curved scimitar floats centered against a flat, near-black background. The blade is long, slim, and dramatically curved with a polished metallic surface that catches a soft highlight along its edge. The hilt and pommel are sculpted with organic, animalistic flourishes evoking a lion or other big cat — curling forms and tooth- or claw-like accents in pale bone-white and silver tones. There are no figures, no environment, no scene — just the weapon presented as an isolated artifact study. Lighting is soft and directional, picking out the sweep of the blade and the carved detail of the grip.
 

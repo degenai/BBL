@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![[226-jungle-shrine-ala.png]]
+![[images/magic-the-gathering/shards-of-alara/226-jungle-shrine-ala.png]]
 
 A weathered stone shrine or altar sits at the center of a deep jungle clearing, framed by towering tree trunks and craggy rock formations on either side. A vertical shaft of warm golden light pierces the canopy and falls directly onto the shrine, suggesting a sacred or numinous quality. Dense green foliage, vines, and ferns crowd the foreground and middle distance, while the background opens to misty, light-bathed depths of the forest. The composition is hushed and reverent, with no figures present — the shrine itself is the protagonist.
 

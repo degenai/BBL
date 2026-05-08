@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[115-soulreaper-of-mogis.png]]
+![[images/magic-the-gathering/theros-beyond-death/115-soulreaper-of-mogis.png]]
 
 A bull-horned minotaur figure stands in three-quarter view with both arms raised toward the sky, head tilted upward in ecstatic worship or invocation. The figure has shaggy dark fur, large curved horns sweeping outward from the skull, and wears tribal/ritual garb with bone or metal accents. One hand appears to grip a ritual implement. The palette is dominated by deep reds, rust browns, and umber, with smoky atmospheric haze filling the background. The lighting is warm and infernal, suggesting firelight or ritual flame. The whole composition reads as a moment of religious fervor — sacrifice offered up to a wrathful god.
 

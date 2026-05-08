@@ -30,7 +30,7 @@ setting: forest
 
 ## Vision
 
-![[196-maraleaf-pixie.png]]
+![[images/magic-the-gathering/throne-of-eldraine/196-maraleaf-pixie.png]]
 
 A slender, wiry faerie creature perches in a low crouch on a dark forest branch, its long-limbed body angled forward and cat-like in posture. It cradles a softly glowing orb of pale cyan-white light between its hands, the radiance throwing rim light across its narrow chest, jaw, and the leading edge of its translucent dragonfly-like wings. The figure has elongated pointed ears, a tapering tail or tail-like silhouette, and pale skin that catches the magical glow. Behind it, the forest dissolves into a deep teal-green wash of out-of-focus leaves and dim canopy, suggesting depth and seclusion. The card frame and golden multicolor border crop tight around the scene, framing the pixie as a small, secretive thief in its own private patch of woodland twilight.
 

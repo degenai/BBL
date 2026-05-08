@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["faerie", "wings", "thief", "rogue", "halo", "mischief", "winged-figure", "iridescence", "trickster", "stolen-treasure", "small-folk", "gold"]
+tags_filter: ["solo", "mid-shot", "faces-left", "portrait-mode", "female-figure", "blue-magic", "creature-faerie", "creature-rogue", "flying", "flash"]
 reference_image: images/magic-the-gathering/commander-zendikar-rising/26-faerie-vandal.png
 average_cost_paid: 0
 market_price: 0.24
@@ -22,20 +22,29 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/4/04692219-885
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
+mood: other
+time_of_day: indeterminate
+setting: other
 ---
 
 # Faerie Vandal (Commander: Zendikar Rising)
 
 ## Vision
 
-![[26-faerie-vandal.png]]
+![[images/magic-the-gathering/commander-zendikar-rising/26-faerie-vandal.png]]
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+A slender faerie figure in sharp profile faces left, gripping a golden ring or halo in her hands as if having just snatched it. Her enormous translucent wings — iridescent in blues, purples, and pinks like dragonfly or butterfly membranes — fan out behind her and dominate the composition. She wears a dark hooded or cropped garment; her skin reads cool and pale-blue. The background is a soft wash of blue and indigo with faint suggestions of an urban or art-deco setting, keeping focus on the figure and her wings. Lighting is soft and ambient with rim highlights catching the wing membranes. The flavor text quote frames her as a thief — the halo in her hands and the smirking profile sell mischief.
 
+**Subject:** A winged faerie rogue in profile, holding a stolen golden halo, with translucent iridescent dragonfly-like wings spread wide
 
-**Subject:** 
-
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: left
+**Setting:** other, indeterminate
+**Foreground:** faerie figure with outstretched iridescent wings holding a golden halo  *(palette: pale-blue, indigo, violet, magenta, gold, black)*
+**Background:** soft blurred blue-violet wash suggesting urban or interior space  *(palette: blue, indigo, violet)*
+**Mood / lighting:** other, soft
+**Emotion read:** smug, mischievous, satisfied — caught mid-theft and pleased with herself
+**Objects:** halo, golden-ring
+**Creatures:** faerie
+**Iconography:** halo, wings
+**Genre cues:** fantasy, urban-fantasy
 

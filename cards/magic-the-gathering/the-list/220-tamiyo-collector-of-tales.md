@@ -34,7 +34,7 @@ ip_verified: false
 
 ## Vision
 
-![[220-tamiyo-collector-of-tales.png]]
+![[images/magic-the-gathering/the-list/220-tamiyo-collector-of-tales.png]]
 
 A robed figure with long, straight pale hair stands at the foreground, draped in layered scholar's robes in deep teals and blues with brass-gold accents. She holds an unfurled scroll or document that emits a soft warm glow, its surface marked with arcane script. Her expression is composed and studious. Behind her, a turbulent sky churns with cloud and storm-light, and the suggestion of a large monument or pylon rises in the middle distance. Color palette is dominated by cool blues and greens with warm golden highlights from the glowing scroll providing the focal contrast.
 

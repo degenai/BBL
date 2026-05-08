@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[223-fountain-of-ichor.png]]
+![[images/magic-the-gathering/modern-horizons/223-fountain-of-ichor.png]]
 
 A weathered stone fountain shaped like a rearing long-necked dinosaur (sauropod-styled) rises out of a shallow rectangular reflecting pool. Water laps at the fountain's base. Behind it, sun-bleached stone ruins and a stepped ziggurat-style structure are partially overtaken by lush green jungle vegetation. The architecture reads as pre-Columbian or Mesoamerican-inspired, fitting the Sun Empire aesthetic referenced in the flavor text. Light is soft and diffuse, sky pale and overcast or hazy, giving the scene a quiet, abandoned, sacred-site feeling. No figures are present.
 

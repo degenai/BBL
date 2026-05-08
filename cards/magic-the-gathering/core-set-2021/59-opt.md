@@ -34,7 +34,7 @@ ip_verified: false
 
 ## Vision
 
-![[59-opt.png]]
+![[images/magic-the-gathering/core-set-2021/59-opt.png]]
 
 A bald, bearded man in layered scholar's robes stands in three-quarter view, holding a small luminous crystal between his cupped hands. Bright blue magical light radiates outward from the crystal in concentric ripples and wisps that swirl around him like wind. His expression is calm and focused, eyes on the gem. The palette is dominated by deep cobalt and teal in the background with cooler blue-white highlights on the figure's face, hands, and the orb itself. Soft scholar's regalia and a high-collared inner garment suggest a learned or magisterial role. Background is an indistinct swirl of energy rather than a defined locale.
 

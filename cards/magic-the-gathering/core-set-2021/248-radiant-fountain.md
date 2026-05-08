@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[248-radiant-fountain.png]]
+![[images/magic-the-gathering/core-set-2021/248-radiant-fountain.png]]
 
 A grand outdoor fountain occupies a sunlit stone plaza. A tall, slender obelisk-like central spire rises from a tiered pool, surrounded by classical columns, arches, and pale carved masonry. Water pours down the structure into a wide basin, catching the light. Brilliant rays of sun stream down from above, washing the architecture in warm white-gold and casting long soft shadows across the flagstones. There are no figures present — the scene is architectural and contemplative, evoking a sacred or ceremonial public space.
 

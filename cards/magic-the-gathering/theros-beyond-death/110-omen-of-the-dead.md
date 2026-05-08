@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[110-omen-of-the-dead.png]]
+![[images/magic-the-gathering/theros-beyond-death/110-omen-of-the-dead.png]]
 
 A close-to-mid shot of a hooded oracular figure dominates the frame, lit by a soft pale glow that picks out their gaunt face and white-lit eyes. Both hands rise to the temples in a gesture of strain, premonition, or psychic contact. The figure is robed and cowled in deep black fabric that bleeds into the surrounding gloom. Behind them, two tall pale columns or stelae frame a corridor, and a smaller distant figure can be seen walking away down that path — a lone soul receding into the underworld. The palette is almost entirely black, ash-grey, and bone-white, with a touch of cool ambient light. The composition has a forward-facing portrait quality with a narrative scene compressed into the background.
 

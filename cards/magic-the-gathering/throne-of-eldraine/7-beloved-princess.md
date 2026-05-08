@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![[7-beloved-princess.png]]
+![[images/magic-the-gathering/throne-of-eldraine/7-beloved-princess.png]]
 
 A young princess stands in a sun-dappled forest glade, her long auburn hair flowing past her shoulders. She wears a storybook gown — pale blue skirt, white apron pinafore, and a brown laced bodice — the kind of dress you'd find in an illustrated fairytale. At her feet, a small white rabbit looks up at her attentively. Soft golden light filters through the trees behind her, washing the scene in a warm, gentle glow. Her posture is calm and approachable, head slightly tilted, conveying kindness rather than regality. The composition centers her against the green forest backdrop with the rabbit anchoring the lower foreground.
 

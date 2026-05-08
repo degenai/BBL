@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![[218-experimental-overload.png]]
+![[images/magic-the-gathering/core-set-2021/218-experimental-overload.png]]
 
 The image is dominated by an explosive burst of electrical energy at center frame — jagged white-blue arcs of lightning fork out in every direction from a brilliant core, casting hard rim-light on a brick or stone wall behind. The whole scene is bathed in a violet-magenta atmospheric haze, suggesting smoke or arcane vapor lit by the discharge. There are no visible figures; the artwork is the event itself, with the architecture (a wall, possibly part of an enclosed laboratory or workshop) framing the chaos. The mood is one of barely-contained catastrophe, a science-as-magic moment of overload.
 

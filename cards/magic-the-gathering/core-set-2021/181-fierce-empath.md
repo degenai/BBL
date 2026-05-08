@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![[181-fierce-empath.png]]
+![[images/magic-the-gathering/core-set-2021/181-fierce-empath.png]]
 
 A green-toned forest scene depicts a slender elven figure half-concealed in heavy undergrowth. Broad, fan-shaped leaves and twisting branches frame the figure on every side, suggesting deep woodland canopy. The palette is dominated by saturated forest greens with darker shadowed pockets and glints of warmer light filtering through the leaves. The elf's posture is alert and watchful, body partially obscured, eyes directed toward something offscreen. The composition reads as a stalker or tracker moment — a figure who belongs to the forest rather than passing through it.
 

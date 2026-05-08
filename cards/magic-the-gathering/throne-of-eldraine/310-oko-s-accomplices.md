@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![[310-oko-s-accomplices.png]]
+![[images/magic-the-gathering/throne-of-eldraine/310-oko-s-accomplices.png]]
 
 Two slim faeries with iridescent wings and pale skin pose mid-air. The forward figure leans toward the viewer with a sly, knowing expression and a small dagger raised; the second figure hovers just behind in a more casual stance. Ornamental fae clothing of leaves and feathers; messy hair tossed by unseen wind. The palette is pale blues and lavender against a misty out-of-focus background. The vibe is mischievous, courtly-but-dangerous — flavor text reads they 'function as everything from assassins to jesters in the name of their fae king.'
 

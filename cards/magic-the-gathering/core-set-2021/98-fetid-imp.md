@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[98-fetid-imp.png]]
+![[images/magic-the-gathering/core-set-2021/98-fetid-imp.png]]
 
 A small dark-skinned imp with broad bat-like wings dominates the frame, posed in a crouching mid-leap with sinewy limbs splayed. Its body is wiry and emaciated, with sharp claws and an elongated head. The figure is rendered in muted greenish-grey and ash-brown tones, blending into a hazy, smoky background that suggests a ruined or desolate landscape. Pale, blown-out light filters through the smoke at upper right, silhouetting the imp's wings and giving the scene a swampy, plague-touched atmosphere. The palette is dominated by earthy browns, sickly greens, and dirty whites of the smoke.
 

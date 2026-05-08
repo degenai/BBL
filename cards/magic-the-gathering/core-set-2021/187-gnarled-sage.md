@@ -30,7 +30,7 @@ setting: forest
 
 ## Vision
 
-![[187-gnarled-sage.png]]
+![[images/magic-the-gathering/core-set-2021/187-gnarled-sage.png]]
 
 A treefolk druid stands tall in a forest glade. Its body is twisted weathered bark; its face is formed by hollows and burls; mushrooms cluster on its limbs; vines drape from its branch-arms. It walks slowly with one branch-arm raised. Background is a dim warm-green forest with golden light filtering through. Mood is wise, ancient, gentle — a forest elder out for a walk.
 

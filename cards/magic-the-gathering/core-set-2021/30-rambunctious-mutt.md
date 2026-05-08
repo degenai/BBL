@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![[30-rambunctious-mutt.png]]
+![[images/magic-the-gathering/core-set-2021/30-rambunctious-mutt.png]]
 
 A big shaggy white dog rears up on its hind legs at the center of a cluttered, warmly lit interior room. Its front paws are raised and its mouth hangs open mid-bark or mid-play, body language energetic and goofy rather than threatening. The room around it is packed with background detail — shelves, scattered objects, hanging items — suggesting a study, workshop, or domestic interior that the dog is enthusiastically wrecking. Warm amber and brown tones dominate the background, contrasting with the dog's bright white fur, which catches the room's interior light. The composition is a mid-shot centered on the dog as the hero of the chaos.
 

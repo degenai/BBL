@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![[6-baneslayer-angel.png]]
+![[images/magic-the-gathering/core-set-2021/6-baneslayer-angel.png]]
 
 A radiant female angel in burnished gold-and-bronze plate armor plunges downward from a bright sky, her enormous feathered wings flared wide behind her. Long flowing hair streams back as she drives a slender sword toward a hunched, dark-skinned horned demon clutching the rocks below. The angel is rim-lit by warm sunlight from above, her armor catching highlights of cream and gold while the demon is cast in shadow against the pale stone. The terrain is a jagged mountain crag, and the background opens onto a soft hazy sky with distant peaks. Composition is dynamic and diagonal, action frozen at the moment of impact.
 

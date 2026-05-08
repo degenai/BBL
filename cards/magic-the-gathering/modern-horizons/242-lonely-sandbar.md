@@ -31,7 +31,7 @@ setting: ocean
 
 ## Vision
 
-![[242-lonely-sandbar.png]]
+![[images/magic-the-gathering/modern-horizons/242-lonely-sandbar.png]]
 
 A narrow finger of pale, sun-bleached sand curves through still, glassy turquoise water. A single empty wooden rowboat with a pointed prow rests beached at the foreground end of the sandbar, casting a soft shadow on the wet sand. In the middle distance, a smaller mound of sand carries a couple of slender palm trees leaning gently. The sky is hazy and bright, blending into a featureless pale horizon. There are no people anywhere — the scene reads as quiet, abandoned, marooned. Lighting is bright but soft, ambient daylight with no harsh shadows.
 

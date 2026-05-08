@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[24-prized-griffin.png]]
+![[images/magic-the-gathering/throne-of-eldraine/24-prized-griffin.png]]
 
 A heraldic griffin descends in mid-flight against a soft pale sky. Its plumage is predominantly white with lavender and pale-violet shading along the wing feathers and tail; the eagle head is golden-beaked with a sharp focused stare. The wings are spread to their full span, primary feathers fanned, and the forward talons are extended in a hunting or landing posture. Below, a stretch of warm golden-yellow autumnal treetops fills the lower third of the frame. The lighting is soft and high-key — bright daylight with no harsh shadows — giving the piece a clean storybook quality consistent with the Throne of Eldraine fairy-tale aesthetic.
 

@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![[226-widespread-brutality.png]]
+![[images/magic-the-gathering/war-of-the-spark/226-widespread-brutality.png]]
 
 A violent mid-action exchange staged on a pale stone bridge or causeway. The foreground combatant, seen from behind in a yellow-gold tabard or robe with cropped blonde hair, lunges to the right swinging a long-hafted polearm or staff. A second armored figure in similar pale-gold garments staggers backward and falls to the right, struck by the blow. Behind them the air glows hot orange-yellow with smoke, embers, and the silhouettes of distant figures suggesting a wider melee. The lighting is harsh, backlit by fire and explosion-glow that throws the figures into near-silhouette. The composition reads as a single decisive moment of brutality inside a larger ongoing battle.
 
