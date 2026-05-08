@@ -1,0 +1,604 @@
+#!/usr/bin/env python3
+"""
+csv2mdbot — Convert Collectr CSV exports into BBL card-node graph.
+
+Reads a Collectr inventory CSV and:
+  1. Creates/updates one MD file per unique card.
+  2. Sets quantity=0 for any node previously in graph but absent from new CSV
+     (implied traded or sold).
+  3. Moves any quantity=0 node to archive/.
+  4. Preserves BBL-internal fields like held_for_lair across runs.
+
+Usage:
+    python csv2mdbot.py <csv_path> [--cards-dir cards] [--archive-dir archive] [--dry-run]
+"""
+
+from __future__ import annotations
+
+import argparse
+import csv
+import hashlib
+import re
+import sys
+from collections import defaultdict
+from datetime import date, datetime
+from pathlib import Path
+from typing import Iterable
+
+# --- Configuration ---
+
+DEFAULT_CARDS_DIR = "cards"
+DEFAULT_ARCHIVE_DIR = "archive"
+DEFAULT_SEALED_DIR = "sealed"
+DEFAULT_SEALED_ARCHIVE_DIR = "sealed_archive"
+DEFAULT_REPORTS_DIR = "reports"
+LAST_HASH_FILE = ".last-csv-hash"
+HISTORY_FILE = "history.md"
+
+# CSV columns we expect (subset; Collectr export may have more)
+COL_CATEGORY = "Category"
+COL_SET = "Set"
+COL_NAME = "Product Name"
+COL_NUMBER = "Card Number"
+COL_RARITY = "Rarity"
+COL_VARIANCE = "Variance"
+COL_GRADE = "Grade"
+COL_CONDITION = "Card Condition"
+COL_COST = "Average Cost Paid"
+COL_QTY = "Quantity"
+COL_PRICE_PREFIX = "Market Price"  # column header includes date suffix
+COL_DATE_ADDED = "Date Added"
+COL_NOTES = "Notes"
+
+# Defaults that signal "vanilla" — skipped from filename for readability
+DEFAULT_VARIANCE = "Normal"
+DEFAULT_GRADE = "Ungraded"
+DEFAULT_CONDITION = "Near Mint"
+
+# Frontmatter fields that are BBL-internal (not in CSV) and must persist across runs.
+# These are written by other agents (researchbot, lair architect) and must not be
+# clobbered when csv2mdbot reconciles a new CSV.
+PERSISTENT_FIELDS = ("held_for_lair", "bundles", "tags_hub", "tags_filter", "reference_image")
+
+PERSISTENT_DEFAULTS = {
+    "held_for_lair": "0",
+    "bundles": "[]",
+    "tags_hub": "[]",
+    "tags_filter": "[]",
+    "reference_image": "",
+}
+
+
+# --- Helpers ---
+
+
+def slug(text: str) -> str:
+    text = (text or "").lower()
+    text = re.sub(r"[^a-z0-9]+", "-", text)
+    return text.strip("-") or "untitled"
+
+
+def find_price_column(fieldnames: Iterable[str]) -> tuple[str | None, str | None]:
+    """Find the Market Price column (header includes date) and extract the date."""
+    for f in fieldnames:
+        if f.startswith(COL_PRICE_PREFIX):
+            m = re.search(r"\d{4}-\d{2}-\d{2}", f)
+            return f, (m.group(0) if m else None)
+    return None, None
+
+
+def unique_key(row: dict) -> tuple:
+    return (
+        row.get(COL_CATEGORY, "").strip(),
+        row.get(COL_SET, "").strip(),
+        row.get(COL_NUMBER, "").strip(),
+        row.get(COL_VARIANCE, "").strip() or DEFAULT_VARIANCE,
+        row.get(COL_GRADE, "").strip() or DEFAULT_GRADE,
+        row.get(COL_CONDITION, "").strip() or DEFAULT_CONDITION,
+    )
+
+
+def is_sealed(row: dict) -> bool:
+    """Sealed-product heuristic: empty Card Number AND empty Rarity.
+    Singles always have at least one. Sealed (booster boxes, ETBs, bundles,
+    collection boxes, supply sets) have neither.
+    """
+    return (
+        not row.get(COL_NUMBER, "").strip()
+        and not row.get(COL_RARITY, "").strip()
+    )
+
+
+def sealed_unique_key(row: dict) -> tuple:
+    """Sealed items don't have variance/grade/condition meaningfully, so key on
+    game + set + product name."""
+    return (
+        row.get(COL_CATEGORY, "").strip(),
+        row.get(COL_SET, "").strip(),
+        row.get(COL_NAME, "").strip(),
+    )
+
+
+def sealed_path(row: dict, base_dir: Path) -> Path:
+    game = slug(row.get(COL_CATEGORY, ""))
+    name = slug(row.get(COL_NAME, ""))
+    return base_dir / game / f"{name}.md"
+
+
+def node_path(row: dict, base_dir: Path) -> Path:
+    """cards/<game>/<set>/<num>-<name-slug>[--variance][--condition].md"""
+    game = slug(row.get(COL_CATEGORY, ""))
+    set_ = slug(row.get(COL_SET, ""))
+    num = slug(row.get(COL_NUMBER, "") or "no-num")
+    name = slug(row.get(COL_NAME, ""))
+    variance = (row.get(COL_VARIANCE, "") or DEFAULT_VARIANCE).strip()
+    grade = (row.get(COL_GRADE, "") or DEFAULT_GRADE).strip()
+    condition = (row.get(COL_CONDITION, "") or DEFAULT_CONDITION).strip()
+
+    parts = [num, name] if num else [name]
+    suffix = "-".join(filter(None, parts))
+
+    if variance and variance != DEFAULT_VARIANCE:
+        suffix += f"--{slug(variance)}"
+    if grade and grade != DEFAULT_GRADE:
+        suffix += f"--{slug(grade)}"
+    if condition and condition != DEFAULT_CONDITION:
+        suffix += f"--{slug(condition)}"
+
+    return base_dir / game / set_ / f"{suffix}.md"
+
+
+# --- Frontmatter I/O (minimal, no PyYAML dependency) ---
+
+FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
+
+
+def parse_frontmatter(text: str) -> dict:
+    m = FRONTMATTER_RE.match(text)
+    if not m:
+        return {}
+    out: dict = {}
+    for line in m.group(1).splitlines():
+        if ":" not in line:
+            continue
+        k, _, v = line.partition(":")
+        out[k.strip()] = v.strip()
+    return out
+
+
+def load_persistent(path: Path) -> dict:
+    """Read just the persistent BBL-internal fields off an existing node."""
+    if not path.exists():
+        return {}
+    fm = parse_frontmatter(path.read_text(encoding="utf-8"))
+    return {k: fm.get(k) for k in PERSISTENT_FIELDS if fm.get(k) is not None}
+
+
+# --- Rendering ---
+
+# Notes that are just punctuation / whitespace / common CSV junk are treated as empty.
+NOISE_NOTES_RE = re.compile(r"^[\s;,.\-_/\\|]*$")
+
+
+def clean_notes(raw: str) -> str:
+    raw = (raw or "").strip()
+    if not raw or NOISE_NOTES_RE.match(raw):
+        return ""
+    return raw
+
+
+def collapse_zero(s: str) -> str:
+    """Render zero-valued costs/prices as '0' instead of '0.0000'. Leave non-zero values alone."""
+    s = (s or "").strip()
+    if not s:
+        return "0"
+    try:
+        return "0" if float(s) == 0.0 else s
+    except ValueError:
+        return s
+
+
+NODE_TEMPLATE_HEAD = """---
+name: {name}
+game: {game}
+set: {set}
+collector_number: {number}
+rarity: {rarity}
+variance: {variance}
+grade: {grade}
+condition: {condition}
+quantity: {quantity}
+held_for_lair: {held_for_lair}
+bundles: {bundles}
+tags_hub: {tags_hub}
+tags_filter: {tags_filter}
+reference_image: {reference_image}
+average_cost_paid: {cost}
+market_price: {price}
+market_price_as_of: {price_date}
+date_added: {date_added}
+last_seen: {last_seen}
+---
+
+# {name} ({set})
+"""
+
+
+def render_node(row: dict, price_col: str | None, price_date: str | None,
+                last_seen: str, persistent: dict, quantity_override: int | None = None) -> str:
+    qty = quantity_override if quantity_override is not None else int(row.get(COL_QTY) or 0)
+    # For each persistent field, prefer the existing value from disk, fall back to default
+    persisted = {k: persistent.get(k, PERSISTENT_DEFAULTS[k]) for k in PERSISTENT_FIELDS}
+    body = NODE_TEMPLATE_HEAD.format(
+        name=row.get(COL_NAME, "").strip(),
+        game=row.get(COL_CATEGORY, "").strip(),
+        set=row.get(COL_SET, "").strip(),
+        number=row.get(COL_NUMBER, "").strip(),
+        rarity=row.get(COL_RARITY, "").strip(),
+        variance=row.get(COL_VARIANCE, "").strip() or DEFAULT_VARIANCE,
+        grade=row.get(COL_GRADE, "").strip() or DEFAULT_GRADE,
+        condition=row.get(COL_CONDITION, "").strip() or DEFAULT_CONDITION,
+        quantity=qty,
+        held_for_lair=persisted["held_for_lair"],
+        bundles=persisted["bundles"],
+        tags_hub=persisted["tags_hub"],
+        tags_filter=persisted["tags_filter"],
+        reference_image=persisted["reference_image"],
+        cost=collapse_zero(row.get(COL_COST, "")),
+        price=collapse_zero(row.get(price_col, "")) if price_col else "0",
+        price_date=price_date or "",
+        date_added=row.get(COL_DATE_ADDED, "").strip(),
+        last_seen=last_seen,
+    )
+    notes = clean_notes(row.get(COL_NOTES, ""))
+    if notes:
+        body += f"\n## Notes\n\n{notes}\n"
+    return body
+
+
+SEALED_TEMPLATE_HEAD = """---
+name: {name}
+game: {game}
+set: {set}
+sealed: true
+quantity: {quantity}
+average_cost_paid: {cost}
+market_price: {price}
+market_price_as_of: {price_date}
+date_added: {date_added}
+last_seen: {last_seen}
+---
+
+# {name}
+"""
+
+
+def render_sealed(row: dict, price_col: str | None, price_date: str | None,
+                  last_seen: str, quantity_override: int | None = None) -> str:
+    qty = quantity_override if quantity_override is not None else int(row.get(COL_QTY) or 0)
+    body = SEALED_TEMPLATE_HEAD.format(
+        name=row.get(COL_NAME, "").strip(),
+        game=row.get(COL_CATEGORY, "").strip(),
+        set=row.get(COL_SET, "").strip(),
+        quantity=qty,
+        cost=collapse_zero(row.get(COL_COST, "")),
+        price=collapse_zero(row.get(price_col, "")) if price_col else "0",
+        price_date=price_date or "",
+        date_added=row.get(COL_DATE_ADDED, "").strip(),
+        last_seen=last_seen,
+    )
+    notes = clean_notes(row.get(COL_NOTES, ""))
+    if notes:
+        body += f"\n## Notes\n\n{notes}\n"
+    return body
+
+
+# --- Main reconciliation ---
+
+
+def _inject_archived_on(text: str, archived_on: str) -> str:
+    """Add or update an `archived_on:` line in frontmatter."""
+    if re.search(r"^archived_on:", text, flags=re.MULTILINE):
+        return re.sub(r"^archived_on:.*$", f"archived_on: {archived_on}", text,
+                      count=1, flags=re.MULTILINE)
+    # Insert before closing --- of frontmatter
+    m = FRONTMATTER_RE.match(text)
+    if not m:
+        return text
+    fm_end = m.end(1)  # position just after frontmatter content, before \n---
+    return text[:fm_end] + f"\narchived_on: {archived_on}" + text[fm_end:]
+
+
+def _zero_and_archive_dir(active_dir: Path, archive_dir: Path,
+                          seen_paths: set[Path], report: dict, dry_run: bool,
+                          report_prefix: str = "") -> None:
+    """Shared zero-out + archive logic for any active/archive pair (cards or sealed)."""
+    if not active_dir.exists():
+        return
+    today = date.today().isoformat()
+
+    # Zero out anything not seen this run
+    for existing in active_dir.rglob("*.md"):
+        if existing in seen_paths:
+            continue
+        text = existing.read_text(encoding="utf-8")
+        new_text = re.sub(
+            r"^(quantity:\s*)\d+",
+            r"\g<1>0",
+            text,
+            count=1,
+            flags=re.MULTILINE,
+        )
+        if not dry_run:
+            existing.write_text(new_text, encoding="utf-8")
+        report[f"{report_prefix}zeroed"] += 1
+
+    # Archive any zero-quantity nodes (stamping archived_on)
+    for existing in list(active_dir.rglob("*.md")):
+        text = existing.read_text(encoding="utf-8")
+        fm = parse_frontmatter(text)
+        try:
+            qty = int(fm.get("quantity") or 0)
+        except ValueError:
+            qty = 0
+        if qty == 0:
+            rel = existing.relative_to(active_dir)
+            target = archive_dir / rel
+            if dry_run:
+                report[f"{report_prefix}archived"] += 1
+                continue
+            stamped = _inject_archived_on(text, today)
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_text(stamped, encoding="utf-8")
+            existing.unlink()
+            report[f"{report_prefix}archived"] += 1
+        else:
+            report[f"{report_prefix}kept"] += 1
+
+
+def _cleanup_misplaced_sealed_in_cards(cards_dir: Path, dry_run: bool) -> int:
+    """One-shot migration: any node in cards/ with empty collector_number AND empty
+    rarity in its frontmatter is a sealed product that was misclassified before the
+    sealed-routing logic existed. Delete it so the main pass re-creates it in sealed/.
+    Idempotent: noop if there are no misplaced nodes."""
+    if not cards_dir.exists():
+        return 0
+    moved = 0
+    for path in list(cards_dir.rglob("*.md")):
+        text = path.read_text(encoding="utf-8")
+        fm = parse_frontmatter(text)
+        # collector_number and rarity both empty (or missing) = sealed
+        cn = (fm.get("collector_number") or "").strip()
+        rar = (fm.get("rarity") or "").strip()
+        if not cn and not rar:
+            if not dry_run:
+                path.unlink()
+            moved += 1
+    return moved
+
+
+def reconcile(csv_path: Path, cards_dir: Path, archive_dir: Path,
+              sealed_dir: Path, sealed_archive_dir: Path, dry_run: bool) -> dict:
+    today = date.today().isoformat()
+    report = {
+        "created": 0, "updated": 0, "zeroed": 0, "archived": 0, "kept": 0,
+        "sealed_created": 0, "sealed_updated": 0, "sealed_zeroed": 0,
+        "sealed_archived": 0, "sealed_kept": 0,
+        "misplaced_sealed_cleaned": 0,
+        "errors": [],
+    }
+
+    # Read CSV
+    with csv_path.open(encoding="utf-8-sig", newline="") as f:
+        reader = csv.DictReader(f)
+        if not reader.fieldnames:
+            report["errors"].append("CSV has no header")
+            return report
+        price_col, price_date = find_price_column(reader.fieldnames)
+        rows = list(reader)
+
+    # One-shot: clean up any sealed-looking nodes mistakenly in cards/ from older runs
+    report["misplaced_sealed_cleaned"] = _cleanup_misplaced_sealed_in_cards(cards_dir, dry_run)
+
+    # Split rows into card vs sealed
+    card_rows = [r for r in rows if not is_sealed(r)]
+    sealed_rows = [r for r in rows if is_sealed(r)]
+
+    # --- Cards pass ---
+    aggregated: dict[tuple, dict] = {}
+    qty_sums: dict[tuple, int] = defaultdict(int)
+    for row in card_rows:
+        try:
+            key = unique_key(row)
+            qty_sums[key] += int(row.get(COL_QTY) or 0)
+            aggregated[key] = row
+        except (ValueError, TypeError) as e:
+            report["errors"].append(f"Bad card row {row.get(COL_NAME, '?')}: {e}")
+
+    seen_card_paths: set[Path] = set()
+    for key, row in aggregated.items():
+        path = node_path(row, cards_dir)
+        archived_path = node_path(row, archive_dir)
+        existed_in_cards = path.exists()
+        existed_in_archive = archived_path.exists()
+
+        persistent: dict = {}
+        if existed_in_cards:
+            persistent = load_persistent(path)
+        elif existed_in_archive:
+            persistent = load_persistent(archived_path)
+
+        content = render_node(
+            row, price_col, price_date,
+            last_seen=today, persistent=persistent,
+            quantity_override=qty_sums[key],
+        )
+
+        if dry_run:
+            if existed_in_cards:
+                report["updated"] += 1
+            else:
+                report["created"] += 1
+            seen_card_paths.add(path)
+            continue
+
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(content, encoding="utf-8")
+        seen_card_paths.add(path)
+
+        if existed_in_archive and not existed_in_cards:
+            archived_path.unlink()
+            report["created"] += 1
+        elif existed_in_cards:
+            report["updated"] += 1
+        else:
+            report["created"] += 1
+
+    _zero_and_archive_dir(cards_dir, archive_dir, seen_card_paths, report, dry_run)
+
+    # --- Sealed pass ---
+    sealed_agg: dict[tuple, dict] = {}
+    sealed_qty: dict[tuple, int] = defaultdict(int)
+    for row in sealed_rows:
+        try:
+            key = sealed_unique_key(row)
+            sealed_qty[key] += int(row.get(COL_QTY) or 0)
+            sealed_agg[key] = row
+        except (ValueError, TypeError) as e:
+            report["errors"].append(f"Bad sealed row {row.get(COL_NAME, '?')}: {e}")
+
+    seen_sealed_paths: set[Path] = set()
+    for key, row in sealed_agg.items():
+        path = sealed_path(row, sealed_dir)
+        archived_path = sealed_path(row, sealed_archive_dir)
+        existed_in_sealed = path.exists()
+        existed_in_archive = archived_path.exists()
+
+        content = render_sealed(
+            row, price_col, price_date,
+            last_seen=today,
+            quantity_override=sealed_qty[key],
+        )
+
+        if dry_run:
+            if existed_in_sealed:
+                report["sealed_updated"] += 1
+            else:
+                report["sealed_created"] += 1
+            seen_sealed_paths.add(path)
+            continue
+
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(content, encoding="utf-8")
+        seen_sealed_paths.add(path)
+
+        if existed_in_archive and not existed_in_sealed:
+            archived_path.unlink()
+            report["sealed_created"] += 1
+        elif existed_in_sealed:
+            report["sealed_updated"] += 1
+        else:
+            report["sealed_created"] += 1
+
+    _zero_and_archive_dir(sealed_dir, sealed_archive_dir, seen_sealed_paths, report, dry_run,
+                          report_prefix="sealed_")
+
+    return report
+
+
+def compute_csv_hash(csv_path: Path) -> str:
+    h = hashlib.sha256()
+    with csv_path.open("rb") as f:
+        for chunk in iter(lambda: f.read(65536), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+
+def read_last_hash(reports_dir: Path) -> str | None:
+    p = reports_dir / LAST_HASH_FILE
+    if not p.exists():
+        return None
+    return p.read_text(encoding="utf-8").strip() or None
+
+
+def write_last_hash(reports_dir: Path, hex_hash: str) -> None:
+    reports_dir.mkdir(parents=True, exist_ok=True)
+    (reports_dir / LAST_HASH_FILE).write_text(hex_hash, encoding="utf-8")
+
+
+def append_history(reports_dir: Path, csv_path: Path, csv_hash: str, report: dict) -> None:
+    reports_dir.mkdir(parents=True, exist_ok=True)
+    history = reports_dir / HISTORY_FILE
+    if not history.exists():
+        history.write_text("# csv2mdbot run history\n\nAppend-only log of every non-skipped run.\n\n", encoding="utf-8")
+    ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    line = (
+        f"- {ts}  `{csv_path.name}`  hash:`{csv_hash[:12]}`  "
+        f"singles[c={report['created']} u={report['updated']} "
+        f"z={report['zeroed']} a={report['archived']} k={report['kept']}]  "
+        f"sealed[c={report['sealed_created']} u={report['sealed_updated']} "
+        f"z={report['sealed_zeroed']} a={report['sealed_archived']} k={report['sealed_kept']}]"
+    )
+    if report["misplaced_sealed_cleaned"]:
+        line += f"  migrated={report['misplaced_sealed_cleaned']}"
+    if report["errors"]:
+        line += f"  errors={len(report['errors'])}"
+    with history.open("a", encoding="utf-8") as f:
+        f.write(line + "\n")
+
+
+def main():
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument("csv_path", type=Path, help="Path to Collectr CSV export")
+    ap.add_argument("--cards-dir", type=Path, default=Path(DEFAULT_CARDS_DIR))
+    ap.add_argument("--archive-dir", type=Path, default=Path(DEFAULT_ARCHIVE_DIR))
+    ap.add_argument("--sealed-dir", type=Path, default=Path(DEFAULT_SEALED_DIR))
+    ap.add_argument("--sealed-archive-dir", type=Path, default=Path(DEFAULT_SEALED_ARCHIVE_DIR))
+    ap.add_argument("--reports-dir", type=Path, default=Path(DEFAULT_REPORTS_DIR))
+    ap.add_argument("--dry-run", action="store_true",
+                    help="Report what would happen without writing files")
+    ap.add_argument("--force", action="store_true",
+                    help="Run even if CSV hash matches the last run")
+    args = ap.parse_args()
+
+    if not args.csv_path.exists():
+        print(f"ERROR: CSV not found: {args.csv_path}", file=sys.stderr)
+        sys.exit(1)
+
+    csv_hash = compute_csv_hash(args.csv_path)
+    last_hash = read_last_hash(args.reports_dir)
+    if last_hash == csv_hash and not args.force and not args.dry_run:
+        print(f"CSV unchanged since last run (hash {csv_hash[:12]}). Skipping. Use --force to run anyway.")
+        sys.exit(0)
+
+    report = reconcile(args.csv_path, args.cards_dir, args.archive_dir,
+                       args.sealed_dir, args.sealed_archive_dir, args.dry_run)
+
+    print(f"\n=== csv2mdbot run report{' (DRY RUN)' if args.dry_run else ''} ===")
+    print("  -- Singles --")
+    print(f"    Created:  {report['created']}")
+    print(f"    Updated:  {report['updated']}")
+    print(f"    Zeroed:   {report['zeroed']}  (in graph, absent from CSV)")
+    print(f"    Archived: {report['archived']} (qty=0 moved to {args.archive_dir})")
+    print(f"    Kept:     {report['kept']}")
+    print("  -- Sealed --")
+    print(f"    Created:  {report['sealed_created']}")
+    print(f"    Updated:  {report['sealed_updated']}")
+    print(f"    Zeroed:   {report['sealed_zeroed']}")
+    print(f"    Archived: {report['sealed_archived']} (qty=0 moved to {args.sealed_archive_dir})")
+    print(f"    Kept:     {report['sealed_kept']}")
+    if report["misplaced_sealed_cleaned"]:
+        print(f"  -- Migration: {report['misplaced_sealed_cleaned']} sealed nodes "
+              f"removed from {args.cards_dir} (re-created under {args.sealed_dir})")
+    if report["errors"]:
+        print(f"  Errors:   {len(report['errors'])}")
+        for e in report["errors"][:10]:
+            print(f"    - {e}")
+
+    if not args.dry_run:
+        write_last_hash(args.reports_dir, csv_hash)
+        append_history(args.reports_dir, args.csv_path, csv_hash, report)
+
+
+if __name__ == "__main__":
+    main()

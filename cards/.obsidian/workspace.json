@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "550c56433bbe8c3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d13a2ff560c893a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f47d2ec7546c1fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "magic-the-gathering/core-set-2021/65-roaming-ghostlight.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "65-roaming-ghostlight"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "349ddb4ead2f4c6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca5a300939556e33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f4798813cc20b9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3a84154f64a90287",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "roa",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5a034a69a8266e7e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "454ec48b3e112939",
+    "type": "split",
+    "children": [
+      {
+        "id": "d34ec4670bf0bbe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a97ed8cece6d168a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "magic-the-gathering/core-set-2021/65-roaming-ghostlight.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 65-roaming-ghostlight"
+            }
+          },
+          {
+            "id": "7e021a5e1dafa089",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "magic-the-gathering/core-set-2021/65-roaming-ghostlight.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 65-roaming-ghostlight"
+            }
+          },
+          {
+            "id": "e7a4854d26e11657",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "71113f1822f06b24",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4b577ac5304af5f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "magic-the-gathering/core-set-2021/65-roaming-ghostlight.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 65-roaming-ghostlight"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2f47d2ec7546c1fd",
+  "lastOpenFiles": [
+    "magic-the-gathering/core-set-2021/65-roaming-ghostlight.md",
+    "pokemon/vivid-voltage/161-185-wyndon-stadium.md",
+    "pokemon/vivid-voltage/160-185-telescopic-sight.md",
+    "pokemon/vivid-voltage/159-185-rocky-helmet.md",
+    "pokemon/vivid-voltage/158-185-opal.md",
+    "pokemon/vivid-voltage/156-185-moomoo-cheese.md",
+    "pokemon/vivid-voltage/154-185-leon--holofoil.md",
+    "pokemon/vivid-voltage/153-185-league-staff.md",
+    "pokemon/vivid-voltage/151-185-drone-rotom.md",
+    "pokemon/xy-base-set/117-fairy-garden.md",
+    "pokemon/xy-base-set",
+    "pokemon/vivid-voltage/149-185-cara-liss.md",
+    "pokemon/vivid-voltage/148-185-beauty.md",
+    "pokemon/vivid-voltage/147-185-bea.md",
+    "pokemon/vivid-voltage/146-185-allister.md",
+    "pokemon/team-up/144-ingo-emmet.md",
+    "pokemon/sword-shield-base-set/185-202-vitality-band.md",
+    "pokemon/sword-shield-base-set/178-202-professor-s-research--holofoil.md",
+    "pokemon/sword-shield-base-set/174-202-pokegear-3-0.md",
+    "pokemon/sword-shield-base-set/165-202-hop.md",
+    "pokemon/sword-shield-base-set/163-202-evolution-incense.md",
+    "pokemon/sword-shield-base-set/158-202-big-charm.md",
+    "pokemon/sun-moon-base-set/134-timer-ball.md",
+    "pokemon/sun-moon-base-set/129-rare-candy.md",
+    "pokemon/steam-siege/104-pokemon-ranger.md",
+    "pokemon/steam-siege",
+    "pokemon/sm-trainer-kit-lycanroc-alolan-raichu/27-big-malasada.md",
+    "pokemon/sm-trainer-kit-lycanroc-alolan-raichu",
+    "pokemon/shining-legends/62-lillie.md",
+    "pokemon/shining-legends",
+    "pokemon/rebel-clash",
+    "pokemon/guardians-rising",
+    "pokemon/fates-collide",
+    "pokemon/evolutions",
+    "pokemon/crown-zenith",
+    "pokemon/cosmic-eclipse"
+  ]
+}
