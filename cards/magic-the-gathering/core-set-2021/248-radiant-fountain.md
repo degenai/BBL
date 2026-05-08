@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["fountain", "water", "sunlight", "plaza", "monument", "sanctuary", "pilgrimage", "mercy", "healing", "stone", "classical-architecture", "light-rays"]
+tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "colorless", "daytime", "architectural"]
 reference_image: images/magic-the-gathering/core-set-2021/248-radiant-fountain.png
 average_cost_paid: 0
 market_price: 0.21
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
 reference_image_source_url: https://cards.scryfall.io/png/front/0/2/0296c34b-120b-483e-8b49-6d432c04f9a4.png?1594737654
+mood: peaceful
+time_of_day: day
+setting: other
 ---
 
 # Radiant Fountain (Core Set 2021)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[248-radiant-fountain.png]]
 
+A grand outdoor fountain occupies a sunlit stone plaza. A tall, slender obelisk-like central spire rises from a tiered pool, surrounded by classical columns, arches, and pale carved masonry. Water pours down the structure into a wide basin, catching the light. Brilliant rays of sun stream down from above, washing the architecture in warm white-gold and casting long soft shadows across the flagstones. There are no figures present — the scene is architectural and contemplative, evoking a sacred or ceremonial public space.
 
-**Subject:** 
+**Subject:** An ornate stone fountain plaza with a central spire, classical columns, arches, and falling water lit by dramatic shafts of sunlight
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, narrative, figures: none, facing: n/a
+**Setting:** other, day, clear
+**Foreground:** tiered stone fountain basin with flowing water and pale flagstone plaza  *(palette: bone-white, warm-stone-beige, pale-gold, soft-shadow-grey)*
+**Background:** classical columns, arches, and a tall central spire bathed in shafts of sunlight  *(palette: sun-gold, cream, warm-grey, hazy-white)*
+**Mood / lighting:** peaceful, backlit
+**Emotion read:** still, reverent, contemplative — a sacred public space at rest
+**Objects:** fountain, obelisk, columns, archways, stone-basin, flagstones
+**Food/drink:** water
+**Iconography:** light-rays, fountain, spire
+**Genre cues:** fantasy, classical
 

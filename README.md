@@ -191,6 +191,34 @@ python wikilintbot.py --fix
 
 ---
 
+## Findings & lessons (2026-05-08)
+
+These are durable observations that survive the rolling status snapshot below — load-bearing facts the next session shouldn't have to rediscover.
+
+**On the picker / queue:**
+- `csv2mdbot` writes an empty placeholder `reference_image:` line on every card from day one. Any "ready for vision" check that reads only frontmatter without verifying the path on disk will over-count by ~500×. The 3-prong filter in `bbl_queue.py` (non-empty path + on-disk + empty `tags_hub` + not `needs_manual_review`) is the canonical answer.
+- `--limit 600` on `researchbot.py --prepare-only` is the magic number for refilling. At `--limit 25` to `--limit 50`, the queue often drains to 0 after one fan-out round because the qty-DESC frontier is choked by cards Scryfall couldn't match on first try. Deeper limits expose successful fallback-name matches and produce queues of 50+ ready cards.
+
+**On researchbot's idempotency:**
+- Re-running `--prepare-only` can flap a card between `prepared` (with `reference_image` populated, `art_match_confidence: high`) and `manual_review` (with `reference_image: ` empty, `art_match_confidence: none`). Theros Beyond Death cards demonstrated this clearly — a deeper-limit re-run reverted them mid-session. Bug: researchbot does not guard against downgrading an already-prepared card. Fix: skip the lookup entirely when frontmatter already shows `art_match_confidence: high` AND `os.path.exists(reference_image)`.
+
+**On the IP guardrail:**
+- `bbl-researcher` correctly populates `suspected_ip` for in-universe MTG planeswalkers without putting their names in `subject`. As of the 2026-05-08 session, 6 cards carry IP flags: Garruk Wildspeaker, Kiora, Nicol Bolas (×2), Teyo, the Wanderer. Verification step is downstream and not yet built — these flags accumulate until something consumes them. Worth a small `python ip_review.py` script eventually that lists all `suspected_ip` cards for human verification.
+
+**On `apply_vision.py`'s tier normalizer:**
+- The helper has a small built-in normalizer that auto-moves certain tags from `tags_hub` to `tags_filter` regardless of what the vision JSON emits — `crowd`, `no-figure`, `artifact` are confirmed cases. This is *good* (reinforces the tier rules) but undocumented; future agent definitions may want to know which tags are "always-filter" so they don't waste judgment on them. Source: `researchbot.update_card`.
+
+**On synonym overlap (Phase-5 janitor's homework):**
+- The graph already has confirmed synonym pairs surfacing: `cat` (×4) and `feline` (×3); `book` (×3) and `tome` (×3); `flight` (×6) and `flying` (×3); `weapon` (×5) and `weapons` (variable). These are NOT a bug — they reflect honest description of different cards' content. Synonym/redundancy resolution is the future janitorbot's job: detect, propose canonical form, sweep + collapse + leave audit trail.
+
+**On hub-tag density (the lair-architect unlock):**
+- At 22 enriched cards, ~53 hub tags appeared in 2+ cards. At 100 enriched cards, **222 hub tags** appear in 2+ cards. The bridge density grew much faster than card count — not 4.5× linear but closer to 4× hub density per 4.5× card count, which means the graph is genuinely composing rather than just accumulating. Top bridges as of 100-card mark: `forest`(22), `armor`(17), `warrior`(14), `wings`(13), `robed-figure`(12), `wilderness`(12), `fire`(11), `ruins`(11), `ritual`(10), `monster`(10), `predator`(10).
+
+**On parallel fan-out:**
+- The `bbl-researcher` subagent runs 50–135 s per card depending on parallelism load. Up to 16 in flight verified clean across multiple rounds. Beyond that not yet tested. Refusal logic is robust — the agent will not write tags from a wrong-printing image, and its refusal preserves graph cleanliness even when the dispatch picker has a bug.
+
+---
+
 ## A note on the agent roster
 
 The mix of scripts (`csv2mdbot.py`, `researchbot.py`, `apply_vision.py`, `wikilintbot.py`) and Claude Code subagents (`.claude/agents/bbl-researcher.md`, with lair architect / hub curator / triviabot still spec-only in `subagents.md`) is **deliberately not consolidated**. Each has a distinct verb and runs on a different cadence. Premature merging would freeze interfaces that are still evolving. The right consolidation, *when* it comes, is a thin top-level CLI wrapper (`bbl reconcile <csv>`, `bbl prepare`, `bbl lint --fix`) — not folding agents into each other.

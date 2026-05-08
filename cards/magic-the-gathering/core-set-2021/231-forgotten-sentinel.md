@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["golem", "guardian", "ancient-ruin", "forgotten", "stone", "rust", "giant", "goblin", "scale-contrast", "sentinel", "weathered", "hillside"]
+tags_filter: ["duo", "2-figures", "wide-shot", "scene-mode", "three-quarter-facing", "no-face", "artifact", "creature-golem", "colorless", "common"]
 reference_image: images/magic-the-gathering/core-set-2021/231-forgotten-sentinel.png
 average_cost_paid: 0
 market_price: 0.09
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
 reference_image_source_url: https://cards.scryfall.io/png/front/3/b/3bd39a06-c53a-42c2-b2df-028358f03406.png?1594737496
+mood: sublime
+time_of_day: day
+setting: mountain
 ---
 
 # Forgotten Sentinel (Core Set 2021)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[231-forgotten-sentinel.png]]
 
+A massive humanoid golem dominates the frame, its body a patchwork of grey stone, oxidized bronze plating, and reddish-brown rust or moss streaks running down its torso and legs. The construct looks centuries old: cracked, pitted, and overgrown, with heavy shoulder pauldrons and an eyeless, helm-like head tilted slightly forward. It stands on a grassy ridge with scrubby hill country falling away behind it, and a pale, hazy sky washes the background in muted blues and whites. At the golem's feet a tiny goblin or kobold-sized humanoid in earthy clothing tips its head back to stare up at the giant, giving an immediate sense of scale. The lighting is flat and ambient, the palette weathered and dusty.
 
-**Subject:** 
+**Subject:** An ancient, weathered stone-and-metal golem standing on a windswept hillside while a small goblin-like figure gazes up at it from the grass below.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, narrative, figures: duo, facing: three-quarter
+**Setting:** mountain, ruined, day, calm
+**Foreground:** Rusted stone golem on a grassy ridge with a small goblin-like onlooker at its feet.  *(palette: weathered-grey, rust-orange, moss-green, earth-brown)*
+**Background:** Hazy distant hills under a pale, washed-out sky.  *(palette: pale-blue, off-white, soft-grey)*
+**Mood / lighting:** sublime, ambient
+**Emotion read:** the golem is impassive and silent; the small figure looks up with quiet awe or curiosity
+**Objects:** stone-armor, rusted-plating, shoulder-pauldrons
+**Creatures:** golem, goblin
+**Genre cues:** fantasy, high-fantasy, ruins
 

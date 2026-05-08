@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["wizard", "spellcaster", "counterspell", "robed-figure", "ritual", "magic", "energy-burst", "defiance", "mage", "arcane", "force-field", "interruption"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "no-face", "instant", "blue-magic", "counterspell-mechanic", "single-figure", "scene-mode"]
 reference_image: images/magic-the-gathering/core-set-2021/46-cancel.png
 average_cost_paid: 0
 market_price: 0.27
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
 reference_image_source_url: https://cards.scryfall.io/png/front/5/9/59e14910-ee2e-49ae-855e-46a8ab6cad82.png?1594735420
+mood: action
+time_of_day: indeterminate
+setting: void
 ---
 
 # Cancel (Core Set 2021)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[46-cancel.png]]
 
+A solitary robed figure stands centered in the frame with both arms outstretched, palms forward, releasing a radial shockwave of magical energy. Concentric rings of bright blue and white force ripple outward from the caster's body, intersected by streaks of orange and gold fire bleeding in from the edges of the composition — the visual language of two opposing spells colliding and cancelling. The figure wears a long dark blue robe with a high collar; the face is partially obscured by the glare of their own casting. The background is pure energy: a churning corona of warm and cool magic with no visible architecture or landscape, giving the scene an abstract, ritualistic feel. Lighting is dramatic and self-emanating — the caster is the light source.
 
-**Subject:** 
+**Subject:** A robed mage standing with arms raised, channeling a circular burst of magical energy outward to nullify an incoming spell
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** void, indeterminate
+**Foreground:** robed mage with arms raised casting outward  *(palette: dark blue, navy, white, pale skin)*
+**Background:** explosive radial burst of magical energy in blue and orange  *(palette: electric blue, cyan, orange, gold, white)*
+**Mood / lighting:** action, rim
+**Emotion read:** focused, defiant — body language reads as deliberate refusal, the stance of someone interrupting another's will
+**Objects:** robes, magical-energy, shockwave
+**Iconography:** radial-burst, concentric-rings, raised-arms, spell-collision
+**Genre cues:** fantasy, high-fantasy
 

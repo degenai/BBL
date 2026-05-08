@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["dwarf", "soldier", "shield", "gold", "dragon", "tavern", "storyteller", "armor", "beard", "trophy", "cozy", "warrior"]
+tags_filter: ["solo", "mid-shot", "three-quarter", "narrative-mode", "male-figure", "indoor-setting", "creature-dwarf", "creature-soldier", "white-magic", "common"]
 reference_image: images/magic-the-gathering/core-set-2021/39-staunch-shieldmate.png
 average_cost_paid: 0
 market_price: 0.12
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
 reference_image_source_url: https://cards.scryfall.io/png/front/d/b/db17f25a-32d1-469b-bb5f-f1761e227990.png?1594735287
+mood: cozy
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Staunch Shieldmate (Core Set 2021)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[39-staunch-shieldmate.png]]
 
+A grinning bearded dwarf in a leather-and-cloth tunic leans against a wooden table, lifting a massive round golden shield turned to face the viewer. The shield's face is engraved with the silhouette of a dragon's head, the gold catching warm interior light. Behind him, shelves and a counter are crowded with corked bottles, jugs, and barrels, suggesting a tavern back room or armory storeroom. The palette is dominated by warm browns, amber, ochre, and the bright glint of polished gold. Lighting is soft and ambient with the shield acting as a secondary highlight. The dwarf's expression is boastful and pleased, mid-anecdote.
 
-**Subject:** 
+**Subject:** A bearded dwarf soldier proudly hoisting a large round golden shield etched with a dragon's head, seated indoors in what appears to be a tavern or armory cluttered with bottles and barrels.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, narrative, figures: solo, facing: three-quarter
+**Setting:** indoor, indeterminate
+**Foreground:** Dwarf soldier and large round golden dragon-etched shield resting against a wooden table.  *(palette: gold, amber, brown, tan, leather-brown)*
+**Background:** Cluttered tavern or armory interior with shelved bottles, jugs, and barrels in warm shadow.  *(palette: dark-brown, umber, warm-shadow, ochre)*
+**Mood / lighting:** cozy, ambient
+**Emotion read:** boastful, jovial, mid-storytelling grin
+**Objects:** round-shield, dragon-etched-shield, bottles, jugs, barrels, wooden-table
+**Food/drink:** bottled-drink, ale
+**Iconography:** dragon-head, heraldic-shield
+**Genre cues:** fantasy, high-fantasy, tavern-fantasy
 

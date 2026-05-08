@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["angel", "demon", "wings", "sword", "armor", "smiting", "good-vs-evil", "judgment", "warrior", "winged-figure", "female-warrior", "mountain", "holy-light", "battle"]
+tags_filter: ["duo", "mid-shot", "action-mode", "three-quarter-facing", "female-figure", "white-magic", "creature-angel", "flying", "first-strike", "lifelink", "protection", "mythic-rarity"]
 reference_image: images/magic-the-gathering/core-set-2021/6-baneslayer-angel.png
 average_cost_paid: 0
 market_price: 3.27
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
 reference_image_source_url: https://cards.scryfall.io/png/front/4/b/4bd3014b-94bb-4a9f-92cf-239a2dcc7e97.png?1594734758
+mood: sublime
+time_of_day: day
+setting: mountain
 ---
 
 # Baneslayer Angel (Core Set 2021)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[6-baneslayer-angel.png]]
 
+A radiant female angel in burnished gold-and-bronze plate armor plunges downward from a bright sky, her enormous feathered wings flared wide behind her. Long flowing hair streams back as she drives a slender sword toward a hunched, dark-skinned horned demon clutching the rocks below. The angel is rim-lit by warm sunlight from above, her armor catching highlights of cream and gold while the demon is cast in shadow against the pale stone. The terrain is a jagged mountain crag, and the background opens onto a soft hazy sky with distant peaks. Composition is dynamic and diagonal, action frozen at the moment of impact.
 
-**Subject:** 
+**Subject:** A winged angel in golden armor descending in mid-strike with a long sword to slay a horned demonic figure cowering on rocky terrain below.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: duo, facing: three-quarter
+**Setting:** mountain, day, clear
+**Foreground:** Angel mid-dive with sword extended; demon crouched on rock outcropping  *(palette: gold, cream, bronze, ivory, shadow-black, ash-grey)*
+**Background:** Pale hazy sky over distant mountain ridges, soft diffuse light  *(palette: pale-blue, warm-white, soft-grey, muted-tan)*
+**Mood / lighting:** sublime, rim
+**Emotion read:** Angel: focused, righteous, unflinching. Demon: cowering, defeated, defensive posture.
+**Objects:** longsword, plate-armor, feathered-wings, rocky-outcrop
+**Creatures:** angel, demon
+**Iconography:** wings, halo-of-light, sword-of-judgment, smiting-pose
+**Genre cues:** fantasy, high-fantasy, religious-iconography
 

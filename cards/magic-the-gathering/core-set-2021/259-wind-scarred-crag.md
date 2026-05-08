@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["mountain", "sunset", "wilderness", "landscape", "wind", "banner", "peaks", "golden-hour", "desolate", "vista", "weathered", "shoreline"]
+tags_filter: ["no-figure", "wide-shot", "scene-mode", "no-face", "land", "dual-land", "white-magic", "red-magic", "multicolor-white-red", "lifegain"]
 reference_image: images/magic-the-gathering/core-set-2021/259-wind-scarred-crag.png
 average_cost_paid: 0
 market_price: 0.1
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
 reference_image_source_url: https://cards.scryfall.io/png/front/5/6/56d7428b-25a7-4185-8c3e-69017bd1ba6d.png?1594737759
+mood: sublime
+time_of_day: sunset
+setting: mountain
 ---
 
 # Wind-Scarred Crag (Core Set 2021)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[259-wind-scarred-crag.png]]
 
+A wide landscape painting depicting a range of sharp, jagged mountain peaks in the middle and far distance, their faces lit warm orange and rust-red by low-angle sunlight. The lower slopes and foreground fall into deep shadow, with a dark rocky shore and what appears to be still water or a wind-scoured plain. In the immediate foreground, two dark, tattered banners or torn cloth flags hang from thin poles, blown sideways by strong wind, framing the vista. The sky is a hazy gold-pink, with no figures or creatures visible. Mood is sublime, vast, and lonely — pure environment art with an emphasis on weathering and exposure.
 
-**Subject:** 
+**Subject:** A windswept mountain vista with jagged red-orange peaks catching golden sunset light, with dark tattered banners or cloth pennants whipping on poles in the foreground above a rocky shoreline.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, narrative, figures: none, facing: n/a
+**Setting:** mountain, sunset, clear
+**Foreground:** Two dark tattered banners on thin poles, whipping in strong wind, above a shadowed rocky shore.  *(palette: black, dark-grey, deep-brown)*
+**Background:** Jagged mountain range lit warm orange-red by sunset, with hazy golden sky.  *(palette: burnt-orange, rust-red, gold, pale-pink, shadow-purple)*
+**Mood / lighting:** sublime, backlit
+**Emotion read:** lonely, vast, exposed — uninhabited wilderness mood
+**Objects:** banner, pole, tattered-cloth, rocks
+**Iconography:** tattered-banner, wind-flag
+**Genre cues:** fantasy, landscape
 
