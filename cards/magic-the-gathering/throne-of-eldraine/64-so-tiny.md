@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["sprite", "fae", "knight", "trickster", "miniaturization", "glass-jar", "captive", "trapped", "mischief", "shrinking", "fairy-tale", "sword"]
+tags_filter: ["duo", "mid-shot", "narrative-mode", "three-quarter-facing", "blue-magic", "enchantment", "aura", "no-face-clear", "comedic-tone"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/64-so-tiny.png
 average_cost_paid: 0
 market_price: 0.11
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/4/2/421650f2-1b34-4a36-9675-9424997c9d0b.png?1572489991
+mood: comedic
+time_of_day: indeterminate
+setting: other
 ---
 
 # So Tiny (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![64-so-tiny](../../_images/magic-the-gathering/throne-of-eldraine/64-so-tiny.png)
 
+Cool blue palette dominates the scene. A pale-blue fae or sprite leans in from the right side of the frame, face partially visible behind the curve of a transparent glass vessel, gazing with predatory amusement at the tiny knight imprisoned within. The shrunken knight stands inside the jar, clad in red-orange armor that glows warm against the surrounding cool blues, sword raised in a defiant pose despite his predicament. Light refracts through the glass and the surrounding moisture, giving the whole scene an aquatic, dreamlike quality. The contrast between the captor's casual interest and the captive's futile defiance carries the joke of the card.
 
-**Subject:** 
+**Subject:** A blue-skinned sprite or fae peers down at a tiny armored knight trapped inside a glass jar, the captured figure brandishing a sword no larger than a needle
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, narrative, figures: duo, facing: three-quarter
+**Setting:** other, indeterminate
+**Foreground:** tiny armored knight inside a transparent glass jar, sword raised  *(palette: red, orange, warm-amber, glass-clear)*
+**Background:** blue-skinned sprite leaning in to observe, surrounded by cool watery light  *(palette: deep-blue, cyan, pale-blue, indigo)*
+**Mood / lighting:** comedic, ambient
+**Emotion read:** the sprite is curious and amused; the knight is defiant but helpless
+**Objects:** glass-jar, sword, armor
+**Creatures:** sprite, fae, knight
+**Iconography:** jar, miniaturization, trapped-figure
+**Genre cues:** fantasy, fairy-tale, storybook
 

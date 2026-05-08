@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["frog", "transformation", "polymorph", "candle", "dining", "feast", "tavern", "fairy-tale", "comic-relief", "curse", "meal", "amphibian"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "no-figure", "blue-magic", "enchantment", "aura", "narrative-art", "indoor"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/47-frogify.png
 average_cost_paid: 0
 market_price: 0.28
@@ -22,18 +22,30 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/b/6/b69cbb20-3c4e-480b-a330-9c6d6b39d12f.png?1572489888
+mood: comedic
+time_of_day: night
+setting: indoor
 ---
 
 # Frogify (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![47-frogify](../../_images/magic-the-gathering/throne-of-eldraine/47-frogify.png)
 
+A bright green frog with yellow spots and a pale belly sits on a wooden dining table that has been set for a meal. A tall lit candle in a candlestick burns at center-left, casting warm light across the scene. Plates, a goblet or tankard, and scattered tableware surround the frog. The composition reads as a gag punchline — the person dining here has been polymorphed into the amphibian, and the abandoned meal is the visual evidence. The background is dark and tavern-like, with the candle providing the dominant warm rim light. Color palette is warm golds and browns against deep shadow, with the cool greens of the frog popping against it.
 
-**Subject:** 
+**Subject:** A green-and-yellow spotted frog perched on a formally-set dining table where a meal was in progress — the implication is the diner was just transformed
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, narrative, figures: solo, facing: forward
+**Setting:** indoor, night
+**Foreground:** Frog perched on a set dining table among plates, tableware, and a lit candle  *(palette: green, yellow, brown, gold, cream)*
+**Background:** Dim tavern or dining-hall interior receding into shadow  *(palette: dark-brown, black, warm-amber)*
+**Mood / lighting:** comedic, rim
+**Emotion read:** Calm, blank amphibian stare — the joke lands because the frog is unbothered
+**Objects:** candle, candlestick, plate, goblet, tableware, dining-table
+**Creatures:** frog
+**Food/drink:** meal, drink
+**Iconography:** candle-flame, abandoned-meal
+**Genre cues:** fantasy, fairy-tale, storybook
 

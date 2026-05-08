@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["cloaked-figure", "robed-figure", "intruder", "punishment", "grasping-hand", "tendril", "magic", "trespasser", "ambush", "shadow", "manners", "snatching"]
+tags_filter: ["solo", "mid-shot", "three-quarter", "action", "no-face", "blue-magic", "instant", "counterspell", "indoor", "chiaroscuro"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/42-didn-t-say-please.png
 average_cost_paid: 0
 market_price: 0.35
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/7/7/77500b53-0852-4d6a-bfe3-b1e8ef5a12cd.png?1572489858
+mood: grim
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Didn't Say Please (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![42-didn-t-say-please](../../_images/magic-the-gathering/throne-of-eldraine/42-didn-t-say-please.png)
 
+A hooded figure in a brown traveler's cloak is caught mid-stumble as a long, sinuous blue limb or tendril of magical energy lashes out and grabs them, wrenching the hood back and pulling the body sideways. The figure's posture is off-balance, arms flailing, the cloak twisting in the motion. The surrounding scene is murky and shadowed — a dim interior or swampy domain rendered in deep blues and muted browns, with stray motes and ripples of pale blue light scattered through the gloom. Faint suggestions of a doorway or threshold sit in the background. The composition centers on the violence of the grab — a punishment, a snatching, an intrusion answered.
 
-**Subject:** 
+**Subject:** A cloaked figure being violently yanked by a long blue magical tendril or arm reaching out from murky surroundings, hood pulled back, body twisted off-balance
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** indoor, indeterminate
+**Foreground:** cloaked figure being yanked by a blue magical tendril  *(palette: brown, muted-tan, blue, pale-cyan)*
+**Background:** murky dim interior or shadowed threshold with scattered magical motes  *(palette: dark-blue, black, muted-teal, shadow-grey)*
+**Mood / lighting:** grim, chiaroscuro
+**Emotion read:** alarm, surprise, helpless struggle — caught mid-yank
+**Objects:** cloak, hood, magical-tendril
+**Iconography:** grasping-hand, tendril
+**Genre cues:** fantasy, fairy-tale, dark-fantasy
 

@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["fruit", "pear", "poison", "temptation", "fairy-tale", "hooded-figure", "witch", "trap", "still-life", "shadow", "candlelight", "offering", "trickery"]
+tags_filter: ["solo", "close-up", "indoor-scene", "no-face", "scene-mode", "black-magic", "sorcery", "food-token"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/88-foreboding-fruit.png
 average_cost_paid: 0
 market_price: 0.14
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/c/5/c5f79ec4-3722-4fda-824b-e80dc7608d01.png?1572490138
+mood: grim
+time_of_day: night
+setting: indoor
 ---
 
 # Foreboding Fruit (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![88-foreboding-fruit](../../_images/magic-the-gathering/throne-of-eldraine/88-foreboding-fruit.png)
 
+A lone yellow-gold pear sits centered on a dark round plate or salver, placed on a worn wooden tabletop. The room around it is steeped in deep brown shadow. Behind the fruit, half-swallowed by darkness, a hooded figure looms — only the suggestion of a cloaked silhouette and a hint of face is visible, watching the fruit with apparent intent. Warm, low candlelight or hearth-glow rims the pear and the table edge, while the background dissolves into near-black. The composition is a tight still life turned sinister: an offered piece of fruit, a hidden watcher, the implication of a trap.
 
-**Subject:** 
+**Subject:** A single golden pear resting on a dark platter on a wooden table, with a hooded shadowy figure watching from the gloom behind it
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** close-up, narrative, figures: solo, facing: n/a
+**Setting:** indoor, night
+**Foreground:** golden pear on a dark plate atop a wooden table  *(palette: gold, yellow, brown, black)*
+**Background:** shadowy interior with a hooded figure half-hidden in darkness  *(palette: black, deep-brown, charcoal)*
+**Mood / lighting:** grim, chiaroscuro
+**Emotion read:** menacing stillness; an inviting object made ominous by the watcher behind it
+**Objects:** pear, plate, wooden-table
+**Food/drink:** pear, fruit
+**Iconography:** hooded-figure, offered-fruit, still-life
+**Genre cues:** fantasy, fairy-tale, gothic
 
