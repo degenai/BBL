@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["faerie", "trickster", "fae-court", "rogue", "comic-relief", "wings", "fae", "duo", "blade", "blue-magic", "flying", "fairy-tale", "courtly", "menace", "mischief", "assassin"]
-tags_filter: ["mid-shot", "portrait-mode", "2-figures", "three-quarter-facing", "creature-faerie", "blue-mono", "flying", "common"]
+tags_hub: ["faerie", "trickster", "fae-court", "rogue", "comic-relief", "wings", "fae", "blade", "flying", "fairy-tale", "courtly", "menace", "mischief", "assassin"]
+tags_filter: ["mid-shot", "portrait-mode", "2-figures", "three-quarter-facing", "creature-faerie", "blue-mono", "common", "duo", "blue-magic"]
 reference_image: images/magic-the-gathering/throne-of-eldraine/310-oko-s-accomplices.png
 average_cost_paid: 0
 market_price: 0.15

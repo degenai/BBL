@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["imprisonment", "magic", "chains", "glow", "sphere", "binding", "blue-magic", "captive", "stronghold", "spellwork", "runes", "ritual"]
-tags_filter: ["mid-shot", "scene-mode", "duo", "enchantment-aura", "blue-mono", "common"]
+tags_hub: ["imprisonment", "magic", "chains", "glow", "sphere", "binding", "captive", "stronghold", "spellwork", "runes", "ritual"]
+tags_filter: ["mid-shot", "scene-mode", "duo", "enchantment-aura", "blue-mono", "common", "blue-magic"]
 reference_image: images/magic-the-gathering/core-set-2021/47-capture-sphere.png
 average_cost_paid: 0
 market_price: 0.15

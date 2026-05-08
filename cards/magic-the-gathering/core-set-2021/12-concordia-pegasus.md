@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["pegasus", "hope", "flight", "beacon", "luminous", "sky", "horse", "wings", "mountain", "white-magic", "flying", "winged", "majesty", "autumn", "clouds", "horizon"]
-tags_filter: ["mid-shot", "portrait-mode", "solo", "three-quarter-facing", "creature-pegasus", "white-mono", "flying", "common"]
+tags_hub: ["pegasus", "hope", "flight", "beacon", "luminous", "sky", "horse", "wings", "mountain", "flying", "winged", "majesty", "autumn", "clouds", "horizon"]
+tags_filter: ["mid-shot", "portrait-mode", "solo", "three-quarter-facing", "creature-pegasus", "white-mono", "common", "white-magic"]
 reference_image: images/magic-the-gathering/core-set-2021/12-concordia-pegasus.png
 average_cost_paid: 0
 market_price: 0.12

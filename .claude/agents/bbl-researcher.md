@@ -41,6 +41,8 @@ The caller gives you the absolute path of a single card-node MD file. The MD has
    - Singletons are the failure mode. A narrow coined tag that no other card will share can't anchor a lair. Broad tags compose; narrow tags isolate.
    - Each card should have multiple **lair-anchorable** hub tags — concepts a curator could plausibly build a 30-card themed bundle around. If your hub list reads "well, this card belongs to one very specific concept and nothing else," widen the net.
 
+   **Color-magic tags go in `tags_filter`, never `tags_hub`.** `blue-magic`, `red-magic`, `white-magic`, `green-magic`, `black-magic`, and multi-color variants are *combinatorial filters* — useful info for narrowing a lair query (`blue-magic + ghost`), but not Tier 1 anchors on their own. A "blue-magic Discrete Lair" is just a stack of blue cards, not a curated theme. The litmus test "would I curate a Discrete Lair around this concept?" rules color out. Same family as `mid-shot`, `flying`, `creature-spirit`: useful taxonomy, never anchors.
+
 5. **IP guardrails (HARD).** If the art clearly shows a recognizable character (Goku, Pikachu, Batman, Iron Man, etc.), populate `suspected_ip` with the name and `ip_confidence` ∈ {`low`, `med`, `high`}. Set `ip_verified: false` — verification is a separate step. **NEVER put a character name in `subject` unless you would stake real money on it from the image alone.** Crossover sets (MTG Universes Beyond, Pokémon collabs, Dragon Ball Super alternate art) are the high-risk zone — when in doubt, describe the figure and flag.
 
 6. **Emit JSON to `reports/vision_pending/<slug>.json`**. Use the slug derived from the card-MD filename (without `.md`). Use the Write tool. The JSON object must contain exactly these keys:

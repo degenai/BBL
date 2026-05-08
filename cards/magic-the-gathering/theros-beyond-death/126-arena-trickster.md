@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["performer", "showman", "mask", "arena", "gladiator", "theater", "comic-relief", "trickster", "crowd", "spectacle", "red-magic", "stage", "coliseum", "shaman", "performance", "muscle"]
-tags_filter: ["mid-shot", "portrait-mode", "solo", "forward-facing", "creature-shaman", "red-mono", "male-figure", "common"]
+tags_hub: ["performer", "showman", "mask", "arena", "gladiator", "theater", "comic-relief", "trickster", "spectacle", "stage", "coliseum", "shaman", "performance", "muscle"]
+tags_filter: ["mid-shot", "portrait-mode", "solo", "forward-facing", "creature-shaman", "red-mono", "male-figure", "common", "crowd", "red-magic"]
 reference_image: images/magic-the-gathering/theros-beyond-death/126-arena-trickster.png
 average_cost_paid: 0
 market_price: 0.03

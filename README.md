@@ -70,13 +70,15 @@ Collectr CSV export
 - [ ] Vision pass at scale across Pokémon inventory
 - [ ] Image-source strategy for Dragon Ball Super (no Scryfall equivalent)
 
-### ⏳ Phase 3 — wikilintbot *(next priority — not blocked on vision)*
-- [ ] Structural checks: broken wikilinks, orphans, missing frontmatter, duplicate nodes, stale `last_seen`, sealed misclassification
-- [ ] Tag-tier checks: mechanical tags in `tags_hub`, thematic tags in `tags_filter`, vocabulary drift, format drift, singleton tags
-- [ ] Hub registry checks: registry drift, orphan hubs, promotion candidates, vocabulary cap warnings
-- [ ] HELDFORLAIR sanity: `held_for_lair > quantity`, mismatch with approved-lair count
+### 🔄 Phase 3 — wikilintbot
+- [x] Structural checks: missing frontmatter, qty sanity, duplicate nodes, stale `last_seen`, sealed misclassification, missing reference image
+- [x] Tag-tier checks: `tier_confusion` (color-magic + composition + rarity/type tags in `tags_hub`), `format_drift` (non-kebab-case), `intra_tier_duplicates`, `cross_tier_duplicates`, `vocabulary_drift` (plural/singular pairs), `singleton_tags`, `missing_tags`
+- [x] HELDFORLAIR sanity: `held_for_lair > quantity`, negative or non-numeric values
+- [x] `--fix` mode for the unambiguous transforms (move filter-tier tags from `tags_hub` to `tags_filter`, resolve cross-tier duplicates, dedupe within tier). Other findings remain report-only.
+- [x] Markdown report output via `--report <path>`
+- [ ] Broken wikilinks check (no wikilinks in graph yet — defer until lairs exist)
+- [ ] Hub registry checks: registry drift, orphan hubs, promotion candidates, vocabulary cap warnings (defer until hubs exist)
 - [ ] `--review` mode: guided manual-review walkthrough for `needs_manual_review` cards
-- [ ] `--fix` mode: safe auto-corrections
 
 ### ⏳ Phase 4 — lair architect *(blocked on vision tags)*
 - [ ] Theme/concept parameter parsing → graph query
@@ -135,6 +137,7 @@ Collectr CSV export
 ├── csv2mdbot.py                   # CSV → graph reconciler
 ├── researchbot.py                 # image lookup + vision dispatch
 ├── apply_vision.py                # vision-JSON → MD writer (subagent helper)
+├── wikilintbot.py                 # graph linter (structural + tag tier checks)
 ├── _phase1_apply.py               # 3 hand-curated vision passes
 ├── .claude/
 │   └── agents/
@@ -171,6 +174,12 @@ python researchbot.py --limit 25 --model deepseek-v4-pro
 
 # Apply a vision JSON onto a card by hand
 python apply_vision.py cards/path/to/card.md reports/vision_pending/card.json
+
+# Lint the graph (report-only)
+python wikilintbot.py --quiet --report reports/wikilint_$(Get-Date -Format yyyy-MM-dd).md
+
+# Lint and apply safe auto-fixes (tier confusion, cross-tier dupes)
+python wikilintbot.py --fix
 ```
 
 ---

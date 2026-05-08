@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["combat", "fire", "pain", "warrior", "beast", "monster", "red-magic", "horns", "hellscape", "armor", "weapon", "slaughter", "ember", "demon", "burning", "duel"]
-tags_filter: ["wide-shot", "action-mode", "duo", "faces-right", "instant", "red-mono", "male-figure", "common"]
+tags_hub: ["combat", "fire", "pain", "warrior", "beast", "monster", "horns", "hellscape", "armor", "weapon", "slaughter", "ember", "demon", "burning", "duel"]
+tags_filter: ["wide-shot", "action-mode", "duo", "faces-right", "instant", "red-mono", "male-figure", "common", "red-magic"]
 reference_image: images/magic-the-gathering/core-set-2021/160-soul-sear.png
 average_cost_paid: 0
 market_price: 0.25

@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["wizard", "scholar", "panic", "books", "scrolls", "clutter", "blue-magic", "fugitive", "itinerant", "research", "comic-relief", "exile", "mage", "library"]
-tags_filter: ["close-up", "narrative-mode", "solo", "forward-facing", "instant", "blue-mono", "male-figure", "common"]
+tags_hub: ["wizard", "scholar", "panic", "books", "scrolls", "clutter", "fugitive", "itinerant", "research", "comic-relief", "exile", "mage", "library"]
+tags_filter: ["close-up", "narrative-mode", "solo", "forward-facing", "instant", "blue-mono", "male-figure", "common", "blue-magic"]
 reference_image: images/magic-the-gathering/core-set-2021/50-frantic-inventory.png
 average_cost_paid: 0
 market_price: 0.25

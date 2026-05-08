@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["singer", "cleric", "mercy", "service-worker", "golden-light", "music", "wings", "robed-figure", "comfort", "ritual", "white-magic", "voice", "song", "halo", "performance", "black-fantasy-figure", "labor", "devotion"]
-tags_filter: ["mid-shot", "portrait-mode", "solo", "forward-facing", "creature-cleric", "white-mono", "female-figure", "common"]
+tags_hub: ["singer", "cleric", "mercy", "service-worker", "golden-light", "music", "wings", "robed-figure", "comfort", "ritual", "voice", "song", "halo", "performance", "black-fantasy-figure", "labor", "devotion"]
+tags_filter: ["mid-shot", "portrait-mode", "solo", "forward-facing", "creature-cleric", "white-mono", "female-figure", "common", "white-magic"]
 reference_image: images/magic-the-gathering/core-set-2021/4-anointed-chorister.png
 average_cost_paid: 0
 market_price: 0.06

@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["treefolk", "forest", "ancient", "druid", "magic-hour", "mushroom", "wise", "tree", "moss", "vines", "elder", "green-magic", "wilderness", "fungus", "guardian", "verdant", "bark"]
-tags_filter: ["mid-shot", "portrait-mode", "solo", "forward-facing", "creature-treefolk", "green-mono", "common"]
+tags_hub: ["treefolk", "forest", "ancient", "druid", "magic-hour", "mushroom", "wise", "tree", "moss", "vines", "elder", "wilderness", "fungus", "guardian", "verdant", "bark"]
+tags_filter: ["mid-shot", "portrait-mode", "solo", "forward-facing", "creature-treefolk", "green-mono", "common", "green-magic"]
 reference_image: images/magic-the-gathering/core-set-2021/187-gnarled-sage.png
 average_cost_paid: 0
 market_price: 0.07

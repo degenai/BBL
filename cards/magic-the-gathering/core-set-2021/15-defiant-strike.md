@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["soldier", "protector", "boros", "righteous", "hero", "guardian", "warrior", "armor", "sword", "shield", "white-magic", "red-magic", "duty", "service-worker", "gold", "knight", "legion", "charging", "sun"]
-tags_filter: ["mid-shot", "action-mode", "solo", "three-quarter-facing", "instant", "white-mono", "male-figure", "common"]
+tags_hub: ["soldier", "protector", "boros", "righteous", "hero", "guardian", "warrior", "armor", "sword", "shield", "duty", "service-worker", "gold", "knight", "legion", "charging", "sun"]
+tags_filter: ["mid-shot", "action-mode", "solo", "three-quarter-facing", "instant", "white-mono", "male-figure", "common", "white-magic", "red-magic"]
 reference_image: images/magic-the-gathering/core-set-2021/15-defiant-strike.png
 average_cost_paid: 0
 market_price: 0.16

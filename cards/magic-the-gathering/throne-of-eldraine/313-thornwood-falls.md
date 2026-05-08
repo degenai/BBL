@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["waterfall", "forest", "tranquil", "lush", "cozy", "nature", "moss", "stream", "land", "wild", "verdant", "sunlight", "green", "wilderness", "calm", "fern", "water"]
+tags_hub: ["waterfall", "forest", "tranquil", "lush", "cozy", "nature", "moss", "stream", "wild", "verdant", "sunlight", "green", "wilderness", "calm", "fern", "water"]
 tags_filter: ["wide-shot", "scene-mode", "no-figure", "land", "green-mono", "common"]
 reference_image: images/magic-the-gathering/throne-of-eldraine/313-thornwood-falls.png
 average_cost_paid: 0

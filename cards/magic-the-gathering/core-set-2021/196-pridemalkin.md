@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["cat", "tabby", "feline", "urban", "city", "street", "muscular", "predator", "comic-relief", "stoic", "green-magic", "alley", "hunter", "stride", "pride", "warrior-cat"]
-tags_filter: ["mid-shot", "portrait-mode", "duo", "faces-left", "creature-cat", "green-mono", "common"]
+tags_hub: ["cat", "tabby", "feline", "urban", "city", "street", "muscular", "predator", "comic-relief", "stoic", "alley", "hunter", "stride", "pride", "warrior-cat"]
+tags_filter: ["mid-shot", "portrait-mode", "duo", "faces-left", "creature-cat", "green-mono", "common", "green-magic"]
 reference_image: images/magic-the-gathering/core-set-2021/196-pridemalkin.png
 average_cost_paid: 0
 market_price: 0.25

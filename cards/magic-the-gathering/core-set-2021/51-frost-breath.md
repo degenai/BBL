@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["dragon", "ice", "cold", "frost", "mountain", "winter", "breath-weapon", "blue-magic", "majesty", "snow", "elemental", "wyrm", "skies", "predator"]
-tags_filter: ["wide-shot", "action-mode", "solo", "faces-left", "instant", "blue-mono", "creature-dragon", "common"]
+tags_hub: ["dragon", "ice", "cold", "frost", "mountain", "winter", "breath-weapon", "majesty", "snow", "elemental", "wyrm", "skies", "predator"]
+tags_filter: ["wide-shot", "action-mode", "solo", "faces-left", "instant", "blue-mono", "creature-dragon", "common", "blue-magic"]
 reference_image: images/magic-the-gathering/core-set-2021/51-frost-breath.png
 average_cost_paid: 0
 market_price: 0.16

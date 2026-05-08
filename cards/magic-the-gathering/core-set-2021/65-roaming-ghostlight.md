@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["ghost", "spirit", "chains", "ethereal", "melancholy", "afterlife", "soul", "void", "luminous", "blue-magic", "flying", "veil", "wandering", "haunting", "mourning"]
-tags_filter: ["solo", "mid-shot", "abstract-mode", "no-face", "blue-mono", "creature-spirit", "flying", "common"]
+tags_hub: ["ghost", "spirit", "chains", "ethereal", "melancholy", "afterlife", "soul", "void", "luminous", "flying", "veil", "wandering", "haunting", "mourning"]
+tags_filter: ["solo", "mid-shot", "abstract-mode", "no-face", "blue-mono", "creature-spirit", "common", "blue-magic"]
 reference_image: images/magic-the-gathering/core-set-2021/65-roaming-ghostlight.png
 average_cost_paid: 0
 market_price: 0.08

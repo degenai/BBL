@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["cyclops", "comic-relief", "menace", "monster", "desert", "crew", "group", "skull", "bones", "weapon", "muscle", "red-magic", "humor", "club", "gang", "brute", "canyon"]
-tags_filter: ["mid-shot", "narrative-mode", "group", "forward-facing", "creature-cyclops", "red-mono", "male-figure", "common"]
+tags_hub: ["cyclops", "comic-relief", "menace", "monster", "desert", "crew", "skull", "bones", "weapon", "muscle", "humor", "club", "gang", "brute", "canyon"]
+tags_filter: ["mid-shot", "narrative-mode", "group", "forward-facing", "creature-cyclops", "red-mono", "male-figure", "common", "red-magic"]
 reference_image: images/magic-the-gathering/core-set-2021/132-bone-pit-brute.png
 average_cost_paid: 0
 market_price: 0.1
