@@ -19,9 +19,9 @@ market_price_as_of: 2026-05-07
 date_added: 2026-05-07
 last_seen: 2026-05-07
 reference_image_source_url: https://cards.scryfall.io/png/front/0/f/0fd137db-296a-4c17-ba46-8b189d96c1f9.png?1562782719
-art_match_confidence: low
-needs_manual_review: true
-manual_review_reason: Set 'Magic 2015 (M15)' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
 ---
 
 # Staff of the Flame Magus (Magic 2015 (M15))

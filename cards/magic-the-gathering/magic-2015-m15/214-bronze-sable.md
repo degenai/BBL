@@ -18,10 +18,10 @@ market_price: 0.05
 market_price_as_of: 2026-05-07
 date_added: 2026-05-07
 last_seen: 2026-05-07
-reference_image_source_url: https://cards.scryfall.io/png/front/a/9/a95f8df0-3490-47ad-b452-76fe60179242.png?1593860898
-art_match_confidence: low
-needs_manual_review: true
-manual_review_reason: Set 'Magic 2015 (M15)' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+reference_image_source_url: https://cards.scryfall.io/png/front/e/8/e8ba6d7d-fad0-4af1-be12-44be326a031e.png?1593860900
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
 ---
 
 # Bronze Sable (Magic 2015 (M15))

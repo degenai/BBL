@@ -12,16 +12,16 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image: images/magic-the-gathering/magic-2014-m14/219-staff-of-the-death-magus.png
 average_cost_paid: 0
 market_price: 0.21
 market_price_as_of: 2026-05-07
 date_added: 2026-05-07
 last_seen: 2026-05-07
-reference_image_source_url: https://cards.scryfall.io/png/front/8/4/84a341a4-8177-41cd-a3bc-eff5dee48c94.png?1562790167
-art_match_confidence: none
-needs_manual_review: true
-manual_review_reason: No reference image found via scryfall for set 'Magic 2014 (M14)'
+reference_image_source_url: https://cards.scryfall.io/png/front/6/2/624fe171-8bd8-4156-b40e-74e2a847d380.png?1562830071
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
 ---
 
 # Staff of the Death Magus (Magic 2014 (M14))

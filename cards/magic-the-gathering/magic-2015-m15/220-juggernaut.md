@@ -18,10 +18,10 @@ market_price: 0.18
 market_price_as_of: 2026-05-07
 date_added: 2026-05-07
 last_seen: 2026-05-07
-reference_image_source_url: https://cards.scryfall.io/png/front/f/4/f4468fff-cd6f-428c-b7a0-ff89f5bbea2e.png?1730489555
-art_match_confidence: low
-needs_manual_review: true
-manual_review_reason: Set 'Magic 2015 (M15)' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+reference_image_source_url: https://cards.scryfall.io/png/front/7/b/7bc014e5-21a3-4023-a8ed-61329a96fb4e.png?1562789662
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
 ---
 
 # Juggernaut (Magic 2015 (M15))

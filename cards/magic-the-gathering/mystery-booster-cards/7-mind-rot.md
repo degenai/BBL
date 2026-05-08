@@ -18,10 +18,10 @@ market_price: 0.2
 market_price_as_of: 2026-05-07
 date_added: 2026-05-06
 last_seen: 2026-05-07
-art_match_confidence: low
-needs_manual_review: true
-manual_review_reason: Set 'Mystery Booster Cards' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
-reference_image_source_url: https://cards.scryfall.io/png/front/8/3/833a8604-92d5-443b-9bc0-bd91c973ef07.png?1594736305
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/2/8/284afe0e-0e0e-44eb-ad75-08d4b6fc338d.png?1573510052
 ---
 
 # Mind Rot (Mystery Booster Cards)

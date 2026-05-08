@@ -18,10 +18,10 @@ market_price: 0.29
 market_price_as_of: 2026-05-07
 date_added: 2026-05-07
 last_seen: 2026-05-07
-reference_image_source_url: https://cards.scryfall.io/png/front/3/0/305078a5-ac18-4721-bba2-3434eba5b1cf.png?1691675959
-art_match_confidence: low
-needs_manual_review: true
-manual_review_reason: Set 'Magic 2011 (M11)' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+reference_image_source_url: https://cards.scryfall.io/png/front/3/3/331a0a01-0c12-4999-9bd7-f26991e4dad5.png?1562455545
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
 ---
 
 # Ornithopter (Magic 2011 (M11))

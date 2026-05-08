@@ -18,10 +18,10 @@ market_price: 6.89
 market_price_as_of: 2026-05-07
 date_added: 2026-05-06
 last_seen: 2026-05-07
-art_match_confidence: low
-needs_manual_review: true
-manual_review_reason: Set 'Mystery Booster Cards' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
-reference_image_source_url: https://cards.scryfall.io/png/front/e/c/ec2b56b0-126c-411b-8c43-b690fc8c194b.png?1562824694
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/7/2/72eefa85-39de-4f9f-aba1-7520b358c6c4.png?1573513060
 ---
 
 # Asceticism (Mystery Booster Cards)

@@ -18,10 +18,10 @@ market_price: 0.15
 market_price_as_of: 2026-05-07
 date_added: 2026-05-06
 last_seen: 2026-05-07
-art_match_confidence: low
-needs_manual_review: true
-manual_review_reason: Set 'Mystery Booster Cards' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
-reference_image_source_url: https://cards.scryfall.io/png/front/8/0/8092b454-4c74-439b-9c74-5d90b29c4e9d.png?1736467532
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/b/6/b6eb3c20-e853-4399-a107-c3308b2e5d4e.png?1573505941
 ---
 
 # Lunarch Mantle (Mystery Booster Cards)

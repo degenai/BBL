@@ -18,10 +18,10 @@ market_price: 0.11
 market_price_as_of: 2026-05-07
 date_added: 2026-05-07
 last_seen: 2026-05-07
-art_match_confidence: low
-needs_manual_review: true
-manual_review_reason: Set 'Ravnica Allegiance' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
-reference_image_source_url: https://cards.scryfall.io/png/front/8/e/8e858971-4084-47cc-8b13-a933891456b6.png?1702429721
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/d/9/d9aec56e-50a3-491f-89c6-32907ea3161a.png?1584831868
 ---
 
 # Sphinx of New Prahv (Ravnica Allegiance)

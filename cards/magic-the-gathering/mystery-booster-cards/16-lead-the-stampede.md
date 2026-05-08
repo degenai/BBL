@@ -18,10 +18,10 @@ market_price: 0.29
 market_price_as_of: 2026-05-07
 date_added: 2026-05-06
 last_seen: 2026-05-07
-art_match_confidence: low
-needs_manual_review: true
-manual_review_reason: Set 'Mystery Booster Cards' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
-reference_image_source_url: https://cards.scryfall.io/png/front/9/e/9e76b676-c7a3-4de6-a78d-3059a0df83f2.png?1591227752
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/6/c/6c977fe0-f0dd-42be-900c-c3576e1cfc3a.png?1573514013
 ---
 
 # Lead the Stampede (Mystery Booster Cards)

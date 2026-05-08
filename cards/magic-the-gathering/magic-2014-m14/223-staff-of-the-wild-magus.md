@@ -18,10 +18,10 @@ market_price: 0.12
 market_price_as_of: 2026-05-07
 date_added: 2026-05-07
 last_seen: 2026-05-07
-reference_image_source_url: https://cards.scryfall.io/png/front/e/6/e64f31e8-0b49-4510-a4df-2e0bea793d3e.png?1562796077
-art_match_confidence: low
-needs_manual_review: true
-manual_review_reason: Set 'Magic 2014 (M14)' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+reference_image_source_url: https://cards.scryfall.io/png/front/d/2/d207f03d-4c7b-444f-bf95-e63f7004d525.png?1562835442
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
 ---
 
 # Staff of the Wild Magus (Magic 2014 (M14))

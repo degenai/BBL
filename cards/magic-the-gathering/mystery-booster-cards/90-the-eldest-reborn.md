@@ -18,10 +18,10 @@ market_price: 0.34
 market_price_as_of: 2026-05-07
 date_added: 2026-05-06
 last_seen: 2026-05-07
-art_match_confidence: low
-needs_manual_review: true
-manual_review_reason: Set 'Mystery Booster Cards' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
-reference_image_source_url: https://cards.scryfall.io/png/front/4/d/4d29351e-5608-40e8-8220-6c9635d48ad4.png?1726284809
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/d/7/d706ad46-6d00-4cad-8666-c673d0cad4fb.png?1573509535
 ---
 
 # The Eldest Reborn (Mystery Booster Cards)

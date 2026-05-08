@@ -18,10 +18,10 @@ market_price: 0.02
 market_price_as_of: 2026-05-07
 date_added: 2026-05-06
 last_seen: 2026-05-07
-art_match_confidence: low
-needs_manual_review: true
-manual_review_reason: Set 'Mystery Booster Cards' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
-reference_image_source_url: https://cards.scryfall.io/png/front/0/1/0137de04-9fd7-41b0-b497-163e6e93432b.png?1562821925
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/2/7/270b67e5-fbf2-42af-b872-04bbaee2a9b4.png?1573511602
 ---
 
 # Fierce Invocation (Mystery Booster Cards)

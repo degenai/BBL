@@ -18,10 +18,10 @@ market_price: 1.08
 market_price_as_of: 2026-05-07
 date_added: 2026-05-07
 last_seen: 2026-05-07
-art_match_confidence: low
-needs_manual_review: true
-manual_review_reason: Set 'Mystery Booster Cards' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
-reference_image_source_url: https://cards.scryfall.io/png/front/3/b/3b4faa6e-5013-4c59-80f5-662a386672eb.png?1767730565
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/e/c/ec6f4542-b5ca-4464-afc6-8bada09b7f6c.png?1573509770
 ---
 
 # Grave Titan (Mystery Booster Cards)

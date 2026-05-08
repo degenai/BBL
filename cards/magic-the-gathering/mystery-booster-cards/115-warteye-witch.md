@@ -18,10 +18,10 @@ market_price: 0.12
 market_price_as_of: 2026-05-07
 date_added: 2026-05-06
 last_seen: 2026-05-07
-art_match_confidence: low
-needs_manual_review: true
-manual_review_reason: Set 'Mystery Booster Cards' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
-reference_image_source_url: https://cards.scryfall.io/png/front/e/0/e0d4dd61-cc7e-4fc5-afce-73a4b326cfdb.png?1562201779
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/b/5/b5be9b82-8356-4e7e-95ae-809be87d68b0.png?1573510870
 ---
 
 # Warteye Witch (Mystery Booster Cards)

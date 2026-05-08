@@ -18,10 +18,10 @@ market_price: 0.16
 market_price_as_of: 2026-05-07
 date_added: 2026-05-06
 last_seen: 2026-05-07
-art_match_confidence: low
-needs_manual_review: true
-manual_review_reason: Set 'Mystery Booster Cards' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
-reference_image_source_url: https://cards.scryfall.io/png/front/e/3/e319956e-982b-4bba-829a-67bf4ef79d74.png?1576382565
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/2/2/22984b84-5598-43cd-a18f-1701aa55f922.png?1573508879
 ---
 
 # Absorb Vis (Mystery Booster Cards)

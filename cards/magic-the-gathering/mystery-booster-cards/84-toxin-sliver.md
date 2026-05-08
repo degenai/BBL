@@ -18,10 +18,10 @@ market_price: 1.85
 market_price_as_of: 2026-05-07
 date_added: 2026-05-07
 last_seen: 2026-05-07
-art_match_confidence: low
-needs_manual_review: true
-manual_review_reason: Set 'Mystery Booster Cards' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
-reference_image_source_url: https://cards.scryfall.io/png/front/c/0/c04ab6b6-27ee-4c93-a87c-cbc3743f4faf.png?1562933654
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/c/7/c7bdf2e4-ff7c-4be2-a5a0-d56be820918e.png?1573510688
 ---
 
 # Toxin Sliver (Mystery Booster Cards)

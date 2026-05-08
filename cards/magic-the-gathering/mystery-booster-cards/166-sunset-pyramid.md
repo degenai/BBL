@@ -18,10 +18,10 @@ market_price: 0.21
 market_price_as_of: 2026-05-07
 date_added: 2026-05-06
 last_seen: 2026-05-07
-art_match_confidence: low
-needs_manual_review: true
-manual_review_reason: Set 'Mystery Booster Cards' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
-reference_image_source_url: https://cards.scryfall.io/png/front/5/d/5d346c67-744c-4605-be62-18d794e83049.png?1608911747
+art_match_confidence: high
+needs_manual_review: false
+manual_review_reason: 
+reference_image_source_url: https://cards.scryfall.io/png/front/9/3/93165cd6-7a6b-40e6-83fa-97575a03bbb5.png?1573517498
 ---
 
 # Sunset Pyramid (Mystery Booster Cards)
