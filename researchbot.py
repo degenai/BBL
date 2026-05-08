@@ -39,6 +39,10 @@ DEEPSEEK_ENDPOINT = f"{DEEPSEEK_BASE}/chat/completions"
 DEEPSEEK_MODELS_ENDPOINT = f"{DEEPSEEK_BASE}/models"
 DEEPSEEK_MODEL = "deepseek-v4-pro"  # spec default; override with --model when API lags
 SCRYFALL_API = "https://api.scryfall.com"
+# Sleep between Scryfall calls. Default 0.1s honors their 50–100ms recommendation.
+# Bump to 1.0+ for very long sweeps or when running shortly after a 429 burst.
+# Set via --scryfall-sleep CLI flag.
+SCRYFALL_SLEEP = 0.1
 POKEMONTCG_API = "https://api.pokemontcg.io/v2"
 
 USER_AGENT = "BBL-researchbot/0.1 (alex.adamczyk@gmail.com)"
@@ -188,7 +192,7 @@ def fetch_scryfall_set_map() -> dict:
         except Exception:
             pass
     data = http_get_json(f"{SCRYFALL_API}/sets")
-    time.sleep(0.1)
+    time.sleep(SCRYFALL_SLEEP)
     if not data:
         return {}
     mapping: dict[str, str] = {}
@@ -317,7 +321,7 @@ def find_image_scryfall(card_name: str, set_name: str = "",
         params = {"fuzzy": card_name, "set": code}
         url = f"{SCRYFALL_API}/cards/named?{urllib.parse.urlencode(params)}"
         data = http_get_json(url)
-        time.sleep(0.1)
+        time.sleep(SCRYFALL_SLEEP)
         if data and not data.get("status"):  # Scryfall returns {status: 404} on miss
             img = _extract_image(data)
             if img:
@@ -327,7 +331,7 @@ def find_image_scryfall(card_name: str, set_name: str = "",
     params = {"fuzzy": card_name}
     url = f"{SCRYFALL_API}/cards/named?{urllib.parse.urlencode(params)}"
     data = http_get_json(url)
-    time.sleep(0.1)
+    time.sleep(SCRYFALL_SLEEP)
     if data and not data.get("status"):
         img = _extract_image(data)
         if img:
@@ -559,6 +563,22 @@ def is_already_enriched(fm: dict) -> bool:
     return bool(raw) and raw not in ("[]", '""', "''")
 
 
+def is_already_prepared(fm: dict, card_path: Path) -> bool:
+    """Skip cards that already have a high-confidence Scryfall match cached on disk.
+
+    Without this guard, --prepare-only re-queries Scryfall for every already-prepared
+    card, wasting hundreds of API calls per sweep. The guard returns True only when
+    BOTH the frontmatter says we matched at high confidence AND the cached image
+    file actually exists on disk — covers the case where someone deletes the cache.
+    """
+    if fm.get("art_match_confidence") != "high":
+        return False
+    ref = (fm.get("reference_image") or "").strip()
+    if not ref:
+        return False
+    return Path(ref).exists()
+
+
 def list_deepseek_models(api_key: str) -> list[str]:
     """Probe the hosted DeepSeek API for the model IDs it currently serves.
     Useful when vision support lags behind announced model names."""
@@ -592,6 +612,11 @@ def process(cards_dir: Path, images_dir: Path, limit: int, game_filter: str | No
         if game_filter and fm.get("game", "").lower() != game_filter.lower():
             continue
         if not force and is_already_enriched(fm):
+            report["skipped_enriched"] += 1
+            continue
+        # In --prepare-only flow, also skip cards that already have a high-confidence
+        # Scryfall match with the image on disk — no point burning the API call.
+        if prepare_only and not force and is_already_prepared(fm, path):
             report["skipped_enriched"] += 1
             continue
         try:
@@ -791,6 +816,7 @@ def retry_flagged(cards_dir: Path, images_dir: Path,
 
 
 def main():
+    global SCRYFALL_SLEEP
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--cards-dir", type=Path, default=Path(DEFAULT_CARDS_DIR))
     ap.add_argument("--images-dir", type=Path, default=Path(DEFAULT_IMAGES_DIR),
@@ -810,6 +836,11 @@ def main():
     ap.add_argument("--prepare-only", action="store_true",
                     help="Image fetch + cache + frontmatter stamp only. Skips DeepSeek call. "
                          "Leaves tags_hub empty as the signal for the bbl-researcher Claude Code subagent.")
+    ap.add_argument("--scryfall-sleep", type=float, default=SCRYFALL_SLEEP,
+                    help=f"Seconds between Scryfall calls in --prepare-only / vision flows "
+                         f"(default {SCRYFALL_SLEEP}). Bump to ~1.0 for long sweeps after a 429 burst, "
+                         "or to be extra polite on multi-hundred-card runs. Does not affect --retry-flagged "
+                         "(which has its own --retry-sleep flag).")
     ap.add_argument("--refresh-set-map", action="store_true",
                     help="Re-fetch the Scryfall /sets endpoint and rewrite reports/scryfall_sets.json. "
                          "Use this when set lookups fail for sets that should obviously match "
@@ -850,6 +881,10 @@ def main():
     if not args.cards_dir.exists():
         print(f"ERROR: cards dir not found: {args.cards_dir}", file=sys.stderr)
         sys.exit(1)
+
+    SCRYFALL_SLEEP = args.scryfall_sleep
+    if SCRYFALL_SLEEP != 0.1:
+        print(f"Scryfall inter-request sleep set to {SCRYFALL_SLEEP}s")
 
     if args.refresh_set_map:
         if SCRYFALL_SET_CACHE.exists():
