@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "magic-the-gathering/throne-of-eldraine/229-scalding-cauldron.md",
+                "file": "magic-the-gathering/throne-of-eldraine/254-island-254.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "229-scalding-cauldron"
+              "title": "254-island-254"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "2f47d2ec7546c1fd",
   "lastOpenFiles": [
+    "magic-the-gathering/throne-of-eldraine/255-island-255.md",
+    "magic-the-gathering/throne-of-eldraine/254-island-254.md",
+    "magic-the-gathering/throne-of-eldraine/257-island-257.md",
+    "magic-the-gathering/throne-of-eldraine/229-scalding-cauldron.md",
     "magic-the-gathering/throne-of-eldraine/256-island-256.md",
     "magic-the-gathering/throne-of-eldraine/239-castle-embereth.md",
     "magic-the-gathering/throne-of-eldraine/216-clockwork-servant.md",
@@ -208,10 +212,6 @@
     "pokemon/vivid-voltage/151-185-drone-rotom.md",
     "pokemon/xy-base-set/117-fairy-garden.md",
     "pokemon/xy-base-set",
-    "pokemon/vivid-voltage/149-185-cara-liss.md",
-    "pokemon/vivid-voltage/148-185-beauty.md",
-    "pokemon/vivid-voltage/147-185-bea.md",
-    "pokemon/vivid-voltage/146-185-allister.md",
     "pokemon/steam-siege",
     "pokemon/sm-trainer-kit-lycanroc-alolan-raichu",
     "pokemon/shining-legends",

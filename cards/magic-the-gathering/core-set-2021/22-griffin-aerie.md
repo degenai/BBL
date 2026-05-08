@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/22-griffin-aerie.png]]
+![22-griffin-aerie](../../../images/magic-the-gathering/core-set-2021/22-griffin-aerie.png)
 
 A bright daylight scene of a craggy stone aerie atop a sheer cliff. Several griffins — eagle-headed, lion-bodied creatures with broad feathered wings — wheel through the open sky, their plumage catching the sun. A stone tower or castellan's keep is visible perched on the rocky outcrop, suggesting a frontier outpost that has become host to the nesting flock. The palette is dominated by pale blues, soft whites, and warm tan stone, with the airy composition emphasizing height, freedom, and airborne motion.
 

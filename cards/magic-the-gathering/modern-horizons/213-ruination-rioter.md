@@ -30,7 +30,7 @@ setting: urban
 
 ## Vision
 
-![[images/magic-the-gathering/modern-horizons/213-ruination-rioter.png]]
+![213-ruination-rioter](../../../images/magic-the-gathering/modern-horizons/213-ruination-rioter.png)
 
 A snarling, wild-haired human berserker lunges forward through a chaotic field of broken stone and shattered urban debris. The figure is mid-motion, body twisted with kinetic violence, baring teeth in a feral grimace. He grips a heavy bludgeoning weapon — a club or improvised hammer — and his rough leather and cloth clothing is torn and weathered. Behind him, fragments of toppled masonry, broken pillars, and rubble suggest a city or structure freshly destroyed. The palette is hot — oranges, reds, dusty browns — with a smoky, fire-lit cast that reads as destruction-in-progress. Composition emphasizes outward motion: the rioter charges toward the viewer's left.
 

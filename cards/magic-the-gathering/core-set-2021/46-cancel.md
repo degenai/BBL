@@ -31,7 +31,7 @@ setting: void
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/46-cancel.png]]
+![46-cancel](../../../images/magic-the-gathering/core-set-2021/46-cancel.png)
 
 A solitary robed figure stands centered in the frame with both arms outstretched, palms forward, releasing a radial shockwave of magical energy. Concentric rings of bright blue and white force ripple outward from the caster's body, intersected by streaks of orange and gold fire bleeding in from the edges of the composition — the visual language of two opposing spells colliding and cancelling. The figure wears a long dark blue robe with a high collar; the face is partially obscured by the glare of their own casting. The background is pure energy: a churning corona of warm and cool magic with no visible architecture or landscape, giving the scene an abstract, ritualistic feel. Lighting is dramatic and self-emanating — the caster is the light source.
 

@@ -31,7 +31,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/8/c/8cbac0e4-f79
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/65-roaming-ghostlight.png]]
+![65-roaming-ghostlight](../../../images/magic-the-gathering/core-set-2021/65-roaming-ghostlight.png)
 
 A formless luminous spirit drifts in dark, cloudy space. A bright white-blue inner core radiates outward through gauzy translucent veils; chains trail downward into shadow. Tiny motes of light scatter across the void. Mood is mournful, drifting, untethered — a soul wandering, not a soul at peace.
 

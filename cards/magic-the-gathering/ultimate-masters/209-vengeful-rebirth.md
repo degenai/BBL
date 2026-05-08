@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/ultimate-masters/209-vengeful-rebirth.png]]
+![209-vengeful-rebirth](../../../images/magic-the-gathering/ultimate-masters/209-vengeful-rebirth.png)
 
 A centered portrait of a stately woman with long flowing red hair, dressed in elaborate gold and green armor or robes with filigree detailing. She holds a large straight sword pointed upward in both hands, the blade aligned with the vertical axis of the composition. Behind her, a roiling backdrop of orange, red, and yellow flames fills the entire frame, evoking a phoenix-like aura. The figure appears solemn and resolute, a martial saint or queen reborn from fire. Lighting is warm and ambient with strong rim light from the flames behind her.
 

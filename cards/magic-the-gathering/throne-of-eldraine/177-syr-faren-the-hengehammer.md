@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![[images/magic-the-gathering/throne-of-eldraine/177-syr-faren-the-hengehammer.png]]
+![177-syr-faren-the-hengehammer](../../../images/magic-the-gathering/throne-of-eldraine/177-syr-faren-the-hengehammer.png)
 
 A burly bearded knight clad in dark green plate armor with gold trim swings a colossal hammer whose head appears to be a roughly hewn standing stone — a literal henge weapon. His mouth is open in a battle cry, beard and hair streaming, and motion lines and dust trail the hammer's arc. The background is a sun-dappled forest with green foliage and shafts of warm light filtering through, suggesting a woodland skirmish. The composition is action-driven, mid-shot, with the figure cropped at the thighs and the hammer head dominating the upper-right of the frame.
 

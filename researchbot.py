@@ -472,12 +472,21 @@ def render_yaml_list(items: list) -> str:
 def vision_body_section(v: dict) -> str:
     """Render the vision data as a readable ## Vision section."""
     lines = []
+    # IP flag at the very top of the Vision section so a human reviewer sees it
+    # immediately when scanning the card. Obsidian renders this as a yellow callout;
+    # other markdown viewers fall back to a styled blockquote. The IP guardrail is
+    # protective work — it's worth being prominent rather than buried mid-section.
+    if v.get("suspected_ip") and v.get("ip_confidence") not in (None, "", "none"):
+        verified = "verified" if v.get("ip_verified") else "unverified"
+        lines.append(f"> [!warning] Suspected IP: **{v['suspected_ip']}** "
+                     f"(confidence: {v.get('ip_confidence')}, {verified})")
+        lines.append("> Reviewer: confirm whether the depicted figure is canonically this character. "
+                     "If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.")
+        lines.append("")
     if v.get("description"):
         lines.append(v["description"].strip())
     lines.append("")
     lines.append("**Subject:** " + (v.get("subject") or ""))
-    if v.get("suspected_ip") and v.get("ip_confidence") not in (None, "", "none"):
-        lines.append(f"**Suspected IP:** {v['suspected_ip']} (confidence: {v.get('ip_confidence')}, verified: {v.get('ip_verified')})")
     lines.append("")
     lines.append("**Composition:** " + ", ".join(filter(None, [
         v.get("composition"), v.get("mode"), f"figures: {v.get('figure_count', '')}", f"facing: {v.get('facing', '')}",
@@ -538,13 +547,16 @@ def update_card(path: Path, image_url: str, vision: dict, dry_run: bool,
 
     body_parts = []
     if local_image_rel:
-        # Embed the full vault-relative path. Bare filenames (`![[name.png]]`) only
-        # resolve if Obsidian's attachment search is configured to walk every
-        # subfolder, AND they collide across sets (every set has a `12-...png`).
-        # The path-qualified wikilink resolves unambiguously regardless of vault
-        # settings. Forward slashes work in Obsidian wikilinks on all platforms.
+        # Use standard markdown image syntax with a path *relative to the card MD*,
+        # not Obsidian wikilinks. Wikilinks resolve from the vault root, and the
+        # vault here is `cards/` — so `![[images/...]]` would look outside the vault
+        # and fail. A relative path with ../../../ traversal works regardless of
+        # where the vault root is, and also renders inline on GitHub web. Forward
+        # slashes work cross-platform in markdown image refs.
         rel = local_image_rel.replace("\\", "/")
-        body_parts.append(f"![[{rel}]]")
+        # cards/<game>/<set>/<slug>.md -> ../../../<rel>
+        rel_from_card = "../../../" + rel
+        body_parts.append(f"![{path.stem}]({rel_from_card})")
         body_parts.append("")
     if needs_review:
         body_parts.append(

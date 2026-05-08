@@ -31,7 +31,7 @@ setting: void
 
 ## Vision
 
-![[images/magic-the-gathering/throne-of-eldraine/102-reaper-of-night.png]]
+![102-reaper-of-night](../../../images/magic-the-gathering/throne-of-eldraine/102-reaper-of-night.png)
 
 A gaunt hooded specter looms in near-monochrome darkness, its bony hand outstretched toward the viewer with curled, claw-like fingers. The figure is shrouded in tattered, wind-torn black robes that dissolve into smoke at the edges. A pale, luminous veiled form — suggestive of a spectral bride or shrouded woman — is fused into the wraith's silhouette, her white veil and lace giving the figure its only highlight against the inky background. The composition is tight and forward-facing, an eerie portrait of grief and predation. The mood is grim and gothic, lit by a soft cold rim light that picks out the veil and the skeletal hand.
 

@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/99-finishing-blow.png]]
+![99-finishing-blow](../../../images/magic-the-gathering/core-set-2021/99-finishing-blow.png)
 
 A small armored warrior figure is poised atop the coiling, knotted body of a massive serpentine or tentacled creature, weapon held aloft as if about to deliver a finishing strike. The composition is dense and chaotic, with sinuous writhing forms filling the entire frame in browns, ochres, and muted earth tones. The hero figure is brightly lit against the tangled darker mass of the beast, drawing the eye to the moment of decisive violence. The art is rendered in a painterly fantasy style with heavy textures suggesting scale, sinew, and grit.
 

@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/mystery-booster-cards/52-thrummingbird.png]]
+![52-thrummingbird](../../../images/magic-the-gathering/mystery-booster-cards/52-thrummingbird.png)
 
 A delicate Phyrexian construct shaped like a hummingbird hovers in profile, its body a smooth bluish-chrome carapace with biomechanical detailing. The wings are blurred with motion, rendered as translucent membranes that catch the light. A long needle beak juts forward. The background is a haze of icy blues and steel grays, suggesting a cold metallic Phyrexian environment with a polished curved structure occupying the lower portion of the frame. The composition is intimate and focused, almost like a nature illustration of a corrupted machine creature.
 

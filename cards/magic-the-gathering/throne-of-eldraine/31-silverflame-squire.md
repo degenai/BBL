@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![[images/magic-the-gathering/throne-of-eldraine/31-silverflame-squire.png]]
+![31-silverflame-squire](../../../images/magic-the-gathering/throne-of-eldraine/31-silverflame-squire.png)
 
 A youthful squire with short dark hair and a determined expression stands centered, both hands gripping the hilt of a longsword raised above the head. The blade emits a brilliant burst of silver-white light, casting long rays across the scene. The figure wears polished steel plate armor over a deep blue tabard or cape that flares dramatically to one side. Behind, a misty wild landscape of dim trees recedes into smoky twilight, with motes of bright sparks drifting through the haze. The composition is mid-shot, heroic and forward-facing, with chiaroscuro lighting driven by the sword's glow.
 

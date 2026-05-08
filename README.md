@@ -213,6 +213,10 @@ These are durable observations that survive the rolling status snapshot below �
 **On the IP guardrail:**
 - `bbl-researcher` correctly populates `suspected_ip` for in-universe MTG planeswalkers without putting their names in `subject`. As of the 2026-05-08 session, 6 cards carry IP flags: Garruk Wildspeaker, Kiora, Nicol Bolas (×2), Teyo, the Wanderer. Verification step is downstream and not yet built — these flags accumulate until something consumes them. Worth a small `python ip_review.py` script eventually that lists all `suspected_ip` cards for human verification.
 
+**On Obsidian image embeds:**
+- The Obsidian vault is rooted at `cards/`, so wikilink-style embeds (`![[images/...]]`) look outside the vault and render as "file not found." The fix is to use **standard markdown** embeds with **relative paths**: `![<slug>](../../../images/<game>/<set>/<slug>.png)`. Renders inline in any Obsidian config (vault at project root, vault at `cards/`, doesn't matter), AND renders on GitHub web. This was migrated across all 207 affected cards via `reports/fix_image_embeds_v2.py`.
+- The Vision section now also begins with a prominent `> [!warning] Suspected IP: **<name>**` callout for any card whose vision pass flagged an IP. Renders as a yellow warning callout in Obsidian, falls back to a styled blockquote elsewhere. Reviewer instructions inline.
+
 **On `apply_vision.py`'s tier normalizer:**
 - The helper has a small built-in normalizer that auto-moves certain tags from `tags_hub` to `tags_filter` regardless of what the vision JSON emits — `crowd`, `no-figure`, `artifact` are confirmed cases. This is *good* (reinforces the tier rules) but undocumented; future agent definitions may want to know which tags are "always-filter" so they don't waste judgment on them. Source: `researchbot.update_card`.
 

@@ -30,7 +30,7 @@ setting: desert
 
 ## Vision
 
-![[images/magic-the-gathering/war-of-the-spark/241-mana-geode.png]]
+![241-mana-geode](../../../images/magic-the-gathering/war-of-the-spark/241-mana-geode.png)
 
 A roughly spherical stone geode rests in arid cracked earth, split open to reveal a dense cluster of rainbow-colored crystals within. The crystalline core glows with prismatic light, casting warm radiance onto the surrounding dirt. The exterior shell is rough, brown, and pitted, contrasting with the jewel-bright interior of pinks, greens, blues, yellows, and oranges. The ground around the geode is parched and fissured, suggesting a desert or barren landscape. No figures appear in the scene; the geode itself is the entire subject, treated as a magical relic discovered in the wild.
 

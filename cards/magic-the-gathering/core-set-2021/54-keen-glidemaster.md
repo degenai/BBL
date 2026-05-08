@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/54-keen-glidemaster.png]]
+![54-keen-glidemaster](../../../images/magic-the-gathering/core-set-2021/54-keen-glidemaster.png)
 
 A dark-haired figure in light leather and cloth garb launches forward off a high mountain ridge, arms spread in joyful abandon. Strapped to their back is a wide hang-glider made of stitched hide and feathered wings, framing them like a giant raptor's silhouette. Below and behind, jagged blue peaks stretch into a hazy daylight sky streaked with cirrus clouds. The palette is dominated by sky-blues, the warmer earth-tones of the figure's clothing and the glider's tan webbing reading as the only break from the cool atmosphere. The mood is exhilarated, weightless, freefall-bright.
 

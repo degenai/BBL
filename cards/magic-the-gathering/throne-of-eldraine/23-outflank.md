@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/throne-of-eldraine/23-outflank.png]]
+![23-outflank](../../../images/magic-the-gathering/throne-of-eldraine/23-outflank.png)
 
 A tightly packed cavalry charge thunders toward the viewer at a slight three-quarter angle. Multiple armored knights ride warhorses, swords held high, banners and plumes implied in the silhouettes. The lead horse rears with hooves kicking forward, mouth open in a snarl. Dust and motion lines streak across the plane behind the riders, suggesting drumming hooves and momentum. The palette is muted earth tones — dun, ochre, rust, gunmetal — with cool steel highlights on the blades and armor. A pale sky washes the background, free of distinct landscape, focusing all attention on the press of horseflesh and steel. The composition reads as a heroic, kinetic battle moment grounded in classic Arthurian / fairy-tale knighthood iconography typical of Throne of Eldraine.
 

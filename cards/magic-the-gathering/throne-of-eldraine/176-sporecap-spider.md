@@ -30,7 +30,7 @@ setting: forest
 
 ## Vision
 
-![[images/magic-the-gathering/throne-of-eldraine/176-sporecap-spider.png]]
+![176-sporecap-spider](../../../images/magic-the-gathering/throne-of-eldraine/176-sporecap-spider.png)
 
 A large spider crouches in a moss-strewn forest clearing, its segmented body covered in pale mushroom caps. Skulls and broken armor litter the ground around it — the aftermath of a battle the spider seems to have won. In the misty background two cloaked, conical-hatted witch silhouettes are barely visible between trees. Palette is mossy greens and bruised browns; mood is grim and fairy-tale-dark.
 

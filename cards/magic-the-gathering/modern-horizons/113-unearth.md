@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/modern-horizons/113-unearth.png]]
+![113-unearth](../../../images/magic-the-gathering/modern-horizons/113-unearth.png)
 
 A bony, draconic creature drags itself upward out of a jagged fissure in scorched black earth. Long clawed forelimbs reach over the edge of the pit, gripping cracked stone, while the rest of the body remains submerged in darkness. The pit glows from within with hot orange-red embers and faint lava-light, throwing rim-light across the creature's ribs and elongated skull. Above and around the pit, the air is thick with smoke and impenetrable shadow. The composition is vertical and bottom-up, emphasizing the climb out of the underworld.
 

@@ -34,7 +34,11 @@ ip_verified: false
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/186-garruk-s-uprising--foil.png]]
+
+> [!warning] Suspected IP: **Garruk Wildspeaker** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+![186-garruk-s-uprising--foil](../../../images/magic-the-gathering/core-set-2021/186-garruk-s-uprising--foil.png)
 
 A heavily built bearded man in tattered green-and-brown leathers, with bracers and a fur-trimmed shoulder, grips a massive double-bladed axe. Beside him stands a hulking quadrupedal beast with curved horns and shaggy fur, its body taking up the right half of the frame. Behind them, dense green forest with hanging foliage and dappled light frames the pair. The composition reads as hunter-and-beast moving together — partnership rather than combat. Earthy palette of mossy greens, browns, and warm flesh tones; light filters from the upper left through the canopy.
 

@@ -30,7 +30,7 @@ setting: ocean
 
 ## Vision
 
-![[images/magic-the-gathering/mercadian-masques/no-num-saprazzan-skerry.png]]
+![no-num-saprazzan-skerry](../../../images/magic-the-gathering/mercadian-masques/no-num-saprazzan-skerry.png)
 
 A serene coastal seascape rendered in painterly oils. A low rocky outcrop sits in the middle distance, half-submerged at low tide, with darker wet stones poking through a glassy stretch of shallow water. The foreground is a flat reflective tide pool catching the colors of the sky above. The horizon is low, putting roughly two-thirds of the composition into a vast sunset sky banded in salmon pink, peach, lavender, and dusty gold cloud. No figures are present. The mood is quiet, expansive, end-of-day calm.
 

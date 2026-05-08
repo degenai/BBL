@@ -31,7 +31,7 @@ setting: desert
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/192-life-goes-on.png]]
+![192-life-goes-on](../../../images/magic-the-gathering/core-set-2021/192-life-goes-on.png)
 
 A young, athletic foreground figure stands with arms raised in a triumphant pose, head tilted upward, framed against a hazy desert sky. They wear simple cloth wraps and appear sweat-and-dust-streaked, mid-cheer or mid-gasp after a trial. To the rear, two or three additional figures are visible — one upright, others partially silhouetted — within a wide sandstone plaza or arena lined with massive Egyptian-influenced architecture: pylon-style walls, a colonnade, and warm tan stonework. Atmospheric haze and golden ambient light suggest the harsh diffuse sun of an Amonkhet-style desert. The palette is dominated by ochre, sand-yellow, dusty olive, and warm brown, with the sky pushing toward pale gold-green. Mood is cathartic and resilient — survival celebrated rather than victory claimed.
 

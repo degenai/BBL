@@ -30,7 +30,7 @@ setting: forest
 
 ## Vision
 
-![[images/magic-the-gathering/modern-horizons/212-rotwidow-pack.png]]
+![212-rotwidow-pack](../../../images/magic-the-gathering/modern-horizons/212-rotwidow-pack.png)
 
 A teeming cluster of huge, hairy spiders sprawls across the foreground of a sickly forest floor. The lead spider looms in front, its segmented legs and bristled body catching dim light, fangs and pedipalps prominent. Behind and beside it, more spiders pile and overlap in a writhing pack, half-buried in carpets of dead leaves, rotted bark, and broken twigs. The palette is muted green-yellow and brown, giving the scene a feverish, decayed quality. Background recedes into murky woodland with skeletal branches and shadowed undergrowth. The overall composition is dense, low-angle, and claustrophobic — a horror-of-nature swarm tableau.
 

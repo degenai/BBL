@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/commander-zendikar-rising/26-faerie-vandal.png]]
+![26-faerie-vandal](../../../images/magic-the-gathering/commander-zendikar-rising/26-faerie-vandal.png)
 
 A slender faerie figure in sharp profile faces left, gripping a golden ring or halo in her hands as if having just snatched it. Her enormous translucent wings — iridescent in blues, purples, and pinks like dragonfly or butterfly membranes — fan out behind her and dominate the composition. She wears a dark hooded or cropped garment; her skin reads cool and pale-blue. The background is a soft wash of blue and indigo with faint suggestions of an urban or art-deco setting, keeping focus on the figure and her wings. Lighting is soft and ambient with rim highlights catching the wing membranes. The flavor text quote frames her as a thief — the halo in her hands and the smirking profile sell mischief.
 

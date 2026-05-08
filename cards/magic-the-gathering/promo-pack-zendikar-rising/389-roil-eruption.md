@@ -28,7 +28,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/8/6/86572747-8fa
 
 ## Vision
 
-![[images/magic-the-gathering/promo-pack-zendikar-rising/389-roil-eruption.png]]
+![389-roil-eruption](../../../images/magic-the-gathering/promo-pack-zendikar-rising/389-roil-eruption.png)
 
 > ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 

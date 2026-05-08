@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/211-track-down.png]]
+![211-track-down](../../../images/magic-the-gathering/core-set-2021/211-track-down.png)
 
 Two or more dark-furred wolves push through a shadowy woodland clearing, jaws open and teeth bared as they crest over mossy stones and roots. The lead wolf is mid-stride, eyes locked on prey out of frame to the right. In the foreground a chain of luminous yellow paw-prints glows on the leaf-strewn ground, marking a magical scent-trail the pack is following. The forest behind is dense with vertical trunks and tangled undergrowth in muted greens and browns; the only bright element is the supernatural yellow of the tracking spell.
 

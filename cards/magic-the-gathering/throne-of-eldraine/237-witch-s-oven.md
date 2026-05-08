@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![[images/magic-the-gathering/throne-of-eldraine/237-witch-s-oven.png]]
+![237-witch-s-oven](../../../images/magic-the-gathering/throne-of-eldraine/237-witch-s-oven.png)
 
 An imposing hearth-style oven dominates the scene, built from heavy dark stonework with iron banding and an arched maw that pulses with eerie green-tinged flame edged in warm gold. Soot streaks the masonry above the opening, and the surrounding kitchen wall is shrouded in shadow. Small implements — hooks, irons, a spit — hang in the gloom around the firebox. No figures are visible; the cookfire itself is the protagonist. The light source is the unnatural emerald glow inside the oven, which throws faint highlights onto the stones and casts the rest of the room into deep, smoky darkness. The mood is folkloric and ominous — a fairy-tale witch's oven, the kind of cookfire that eats children in the older versions of the story.
 

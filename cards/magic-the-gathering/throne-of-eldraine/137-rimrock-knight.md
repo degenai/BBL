@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![[images/magic-the-gathering/throne-of-eldraine/137-rimrock-knight.png]]
+![137-rimrock-knight](../../../images/magic-the-gathering/throne-of-eldraine/137-rimrock-knight.png)
 
 A stout dwarf with a long flaming-red beard and braided hair strides across a stony cliff edge, balancing a huge jagged boulder on his right shoulder. He wears scaled armor in muted browns and reds with a tattered red cloth at his waist, and his exposed forearms are heavily muscled. Dust and rock chips trail off the boulder as he moves. The background is a sunlit rocky landscape rendered in warm ochres and tans, with a hazy bright sky above. The whole image leans into a stocky, blue-collar, brawler register — a working knight whose weapon is a literal rock he picked up.
 

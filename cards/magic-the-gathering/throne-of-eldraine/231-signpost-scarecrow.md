@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/throne-of-eldraine/231-signpost-scarecrow.png]]
+![231-signpost-scarecrow](../../../images/magic-the-gathering/throne-of-eldraine/231-signpost-scarecrow.png)
 
 A solitary scarecrow figure stands tall and skeletal at what appears to be a rural crossroads. Its body is built around a wooden frame draped in a weathered blue robe or cloak with ragged hems and trailing strips of cloth. From its torso and arms, multiple wooden signpost arrows jut outward in different directions, painted in pale yellows and warm earthy tones, each arrow ending in a pointed tip. The scarecrow's head is small and indistinct, almost hooded. Behind the figure stretches a hazy, washed-out countryside in muted greens and grays, with the faint suggestion of a distant castle or tower silhouette on the horizon. The lighting is soft and diffuse, suggesting overcast daylight, and the overall palette is dominated by cool blues and dusty earth tones, giving the scene a quiet, slightly melancholy storybook quality.
 

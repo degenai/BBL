@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![[images/magic-the-gathering/theros-beyond-death/194-plummet.png]]
+![194-plummet](../../../images/magic-the-gathering/theros-beyond-death/194-plummet.png)
 
 A maroon-and-crimson winged creature with a long sinuous body and outstretched feathered wings tumbles downward through dappled forest light, an arrow visibly lodged in its torso. Its pose is twisted and contorted mid-fall, wings splayed against the green canopy behind it. The art emphasizes the moment of impact: the creature's flight is broken, gravity has taken over, and leafy branches frame the descent. Flavor text attributes the shot to Nylea's bow.
 

@@ -30,7 +30,7 @@ setting: indoor
 
 ## Vision
 
-![[images/magic-the-gathering/commander-legends/65-deranged-assistant.png]]
+![65-deranged-assistant](../../../images/magic-the-gathering/commander-legends/65-deranged-assistant.png)
 
 A balding, hollow-cheeked human assistant with enormous bulging eyes and a deranged, fixated expression hunches forward in a laboratory crammed with glass jars, beakers, flasks, and bottled specimens. The lighting is cool blue-cyan with hints of teal and pale violet, giving the scene an icy, clinical, slightly nauseous quality. Shelves and racks behind him hold rows of containers and arcane apparatus. His robes and skin are pallid; the overall mood is unsettling, manic, and obsessive — a lab assistant who has clearly lost his grip.
 

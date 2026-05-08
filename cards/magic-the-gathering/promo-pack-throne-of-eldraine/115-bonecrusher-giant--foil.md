@@ -28,7 +28,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/5/b5b71cd2-de3
 
 ## Vision
 
-![[images/magic-the-gathering/promo-pack-throne-of-eldraine/115-bonecrusher-giant--foil.png]]
+![115-bonecrusher-giant--foil](../../../images/magic-the-gathering/promo-pack-throne-of-eldraine/115-bonecrusher-giant--foil.png)
 
 > ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 

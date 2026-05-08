@@ -30,7 +30,7 @@ setting: urban
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/113-masked-blackguard.png]]
+![113-masked-blackguard](../../../images/magic-the-gathering/core-set-2021/113-masked-blackguard.png)
 
 A figure cloaked in deep shadow stands in profile, the lower half of their face concealed by a dark cloth mask. Sleek dark hair is pulled back and falls behind the shoulders. They grip a curved blade in a gloved hand, blade angled close to the body. The lighting is low-key chiaroscuro, with cool blue rim light tracing the silhouette and pale skin of the upper face while the rest of the figure dissolves into near-black. The setting reads as a nocturnal urban or stone alley — vague architectural shapes loom in the deep background. The mood is grim, stealthy, and predatory.
 

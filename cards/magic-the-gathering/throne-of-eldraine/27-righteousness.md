@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/throne-of-eldraine/27-righteousness.png]]
+![27-righteousness](../../../images/magic-the-gathering/throne-of-eldraine/27-righteousness.png)
 
 A blond knight in plate armor stands in the foreground, raising a sword overhead with both hands. The blade is lit with brilliant white-yellow holy light that fans out across the sky in painterly rays. Behind and above the knight, a red dragon's silhouette looms — wings spread, body coiling into the burning sky. The palette is dominated by hot reds and oranges in the background contrasted against the cool steel and gold of the knight and the radiant white burst from the sword. Composition is dramatic and vertical: the knight low, the sword pointing up, the dragon descending. Classic Eldraine fairy-tale-Arthurian framing — the lone champion making a righteous stand against the monster.
 

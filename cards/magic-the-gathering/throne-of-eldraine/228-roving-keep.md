@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/throne-of-eldraine/228-roving-keep.png]]
+![228-roving-keep](../../../images/magic-the-gathering/throne-of-eldraine/228-roving-keep.png)
 
 An enormous walking fortress dominates the frame, its body assembled from mortared stone walls, crenellated battlements, and squat towers all fused into a single hunched mass. Two thick, boulder-like legs plant heavily into the ground, kicking up dust as it advances. Moss, lichen, and small trees grow across its weathered ramparts, suggesting it has stood and walked for ages. The lighting is overcast and diffuse, with pale mist softening the background hills and giving the whole scene a muted, earthen palette of greens, browns, and stone-greys. The composition reads from low and slightly to the side, emphasizing the keep's mass and slow, deliberate forward motion.
 

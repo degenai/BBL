@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/231-forgotten-sentinel.png]]
+![231-forgotten-sentinel](../../../images/magic-the-gathering/core-set-2021/231-forgotten-sentinel.png)
 
 A massive humanoid golem dominates the frame, its body a patchwork of grey stone, oxidized bronze plating, and reddish-brown rust or moss streaks running down its torso and legs. The construct looks centuries old: cracked, pitted, and overgrown, with heavy shoulder pauldrons and an eyeless, helm-like head tilted slightly forward. It stands on a grassy ridge with scrubby hill country falling away behind it, and a pale, hazy sky washes the background in muted blues and whites. At the golem's feet a tiny goblin or kobold-sized humanoid in earthy clothing tips its head back to stare up at the giant, giving an immediate sense of scale. The lighting is flat and ambient, the palette weathered and dusty.
 

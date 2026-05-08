@@ -30,7 +30,7 @@ setting: void
 
 ## Vision
 
-![[images/magic-the-gathering/masters-25/43-blue-elemental-blast.png]]
+![43-blue-elemental-blast](../../../images/magic-the-gathering/masters-25/43-blue-elemental-blast.png)
 
 A vivid horizontal composition: a concentrated lance of pale blue and white electric energy, twisted like a streak of lightning or a focused jet of water-magic, drives in from the left and pierces a roiling wall of red, orange, and yellow flames that fills the right side of the frame. The blue beam is bright and cold against the heat-warm fire, leaving sparks and arcs of azure energy as it ruptures the blaze. The background is dark and indistinct, letting the elemental clash of blue versus red dominate. There are no figures, no architecture, no creatures — just elemental opposition rendered as raw effect.
 

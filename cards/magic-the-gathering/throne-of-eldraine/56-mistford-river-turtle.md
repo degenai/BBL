@@ -31,7 +31,7 @@ setting: ocean
 
 ## Vision
 
-![[images/magic-the-gathering/throne-of-eldraine/56-mistford-river-turtle.png]]
+![56-mistford-river-turtle](../../../images/magic-the-gathering/throne-of-eldraine/56-mistford-river-turtle.png)
 
 A huge moss-backed river turtle moves through still, misty shallows, its olive-green shell mottled with darker patches and the suggestion of lichen or barnacle growth. Its long neck stretches forward, head turned slightly to the side, scaled limbs pushing through the water and trailing soft ripples. A diminutive winged fae figure stands on the crest of the shell like a passenger, dwarfed by the creature. The background dissolves into pale blue-grey mist over a calm waterway, with hints of distant reeds or shoreline barely visible. The whole image is rendered in cool blues, soft greens, and muted whites, giving a quiet, ferrying-across-the-water mood.
 

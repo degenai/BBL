@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/modern-horizons/215-thundering-djinn.png]]
+![215-thundering-djinn](../../../images/magic-the-gathering/modern-horizons/215-thundering-djinn.png)
 
 A muscular crimson-skinned djinn with sharply pointed ears and a furious open-mouthed expression rises from a churning column of cyan and white lightning. Its lower body dissolves into the electrical vortex rather than terminating in legs, marking it as a spirit-of-air entity. Both arms are flung outward and upward as bolts of bright blue electricity crackle from its palms and around its torso. The figure is centered in mid-shot, head tilted back, framed against a hazy yellow-orange sky that suggests storm light at altitude. The lighting is dramatic and rim-lit by the lightning itself, casting hard cool highlights against the warm red of the skin.
 

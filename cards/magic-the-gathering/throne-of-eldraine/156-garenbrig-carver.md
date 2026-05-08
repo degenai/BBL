@@ -30,7 +30,7 @@ setting: indoor
 
 ## Vision
 
-![[images/magic-the-gathering/throne-of-eldraine/156-garenbrig-carver.png]]
+![156-garenbrig-carver](../../../images/magic-the-gathering/throne-of-eldraine/156-garenbrig-carver.png)
 
 A bearded man in green clothing leans over a worn wooden workbench in a cluttered workshop, carving wood with both hands. Tools and shavings are scattered around. Daylight comes through a side window. Palette is warm woodgrain greens and browns. Mood is focused, dignified labor. Flavor text frames him as the unsung craftsman: 'Countless knights of Garenbrig owe their lives to his peerless craftsmanship.'
 

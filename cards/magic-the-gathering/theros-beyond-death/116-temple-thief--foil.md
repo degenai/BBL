@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![[images/magic-the-gathering/theros-beyond-death/116-temple-thief--foil.png]]
+![116-temple-thief--foil](../../../images/magic-the-gathering/theros-beyond-death/116-temple-thief--foil.png)
 
 A close-cropped portrait of a robed thief slipping through near-total darkness. The figure wears a deep indigo/navy hood pulled low; only the upper face — wide pale eyes, sharp brow, a narrow nose — emerges into the rim of cool blue-cyan light. The skin reads almost lavender-white where touched by the moonlight, and the rest of the form dissolves into black negative space. A faint warm orange glow leaks in from the lower right, suggesting torchlight or a brazier in an unseen temple chamber the thief is sneaking past. The composition is tight and conspiratorial — the viewer is right next to the thief in the dark. No weapon, no loot, no second figure visible: the moment is the held breath before the deed.
 

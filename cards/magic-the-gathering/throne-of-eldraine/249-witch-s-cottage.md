@@ -30,7 +30,7 @@ setting: forest
 
 ## Vision
 
-![[images/magic-the-gathering/throne-of-eldraine/249-witch-s-cottage.png]]
+![249-witch-s-cottage](../../../images/magic-the-gathering/throne-of-eldraine/249-witch-s-cottage.png)
 
 A modest stone-and-thatch cottage sits on a small island or bank in the middle of a dim swamp, its arched windows and door radiating a warm amber-yellow lantern light against the surrounding gloom. Long, drooping branches of weeping willow trees hang heavily on either side, their tendrils touching the still, dark water. Faint mist rises from the surface and softens the silhouettes of distant trees. The sky behind is a deep violet-blue twilight, with no figures visible — the dwelling itself is the subject. The mood is hushed, fairy-tale, and slightly ominous, like a storybook home glimpsed at the edge of an enchanted wetland.
 

@@ -30,7 +30,7 @@ setting: desert
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/132-bone-pit-brute.png]]
+![132-bone-pit-brute](../../../images/magic-the-gathering/core-set-2021/132-bone-pit-brute.png)
 
 A huge muscular cyclops with a single bright eye grins broadly while raising both arms in a welcoming gesture; behind and beside him a group of smaller, similarly one-eyed brutes laugh and cheer. Bones and broken weapons scatter the sand. Color palette is sun-bleached oranges, ochres, and warm skin tones. Mood is rowdy, bullying camaraderie — the flavor text 'Welcome to the club' makes the in-group/initiation read explicit. Comedic in a menacing-bro way.
 

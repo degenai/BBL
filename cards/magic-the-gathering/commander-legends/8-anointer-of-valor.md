@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/commander-legends/8-anointer-of-valor.png]]
+![8-anointer-of-valor](../../../images/magic-the-gathering/commander-legends/8-anointer-of-valor.png)
 
 A pale-robed feminine angel fills the frame, her enormous white-feathered wings spread in full display behind her. She descends from above, head slightly bowed and eyes downcast in serene concentration, holding a long vertical staff or blade in front of her body with both hands. Shafts of warm golden-white light streak down from the top of the composition, illuminating her from behind in a classic heavenly-descent pose. The background is a soft luminous haze of cream and gold with no defined landscape — pure sky and divine light. The overall mood is sublime, devotional, and ceremonial, evoking a blessing or anointing rite delivered from on high.
 

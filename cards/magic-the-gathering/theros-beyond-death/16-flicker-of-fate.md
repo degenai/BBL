@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![[images/magic-the-gathering/theros-beyond-death/16-flicker-of-fate.png]]
+![16-flicker-of-fate](../../../images/magic-the-gathering/theros-beyond-death/16-flicker-of-fate.png)
 
 A mounted warrior in burnished gold armor with classical Greek styling sits on a pale horse at the edge of a high cliff. The rider is dark-skinned and looks upward at a ghostly translucent figure — humanoid, arms partly raised — that appears to be flickering out of existence, dissipating into a brilliant gold and amber sky. Wisps of white energy trail from the vanishing figure. The composition is bottom-weighted on the rider and horse, with the sky filling more than half the frame, evoking divine intervention or a soul being plucked from the world. The painterly style and palette are signature Theros Beyond Death — Greek myth filtered through underworld light.
 

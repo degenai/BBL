@@ -30,7 +30,7 @@ setting: forest
 
 ## Vision
 
-![[images/magic-the-gathering/throne-of-eldraine/180-tuinvale-treefolk.png]]
+![180-tuinvale-treefolk](../../../images/magic-the-gathering/throne-of-eldraine/180-tuinvale-treefolk.png)
 
 A towering treefolk fills the frame, body of weathered bark and clinging moss, branches splayed wide, roots planted in fern-thick forest floor. Background is layered forest greens. Mood is ancient, kindly, mentor-energy — flavor text reinforces it: 'Right now you are a feeble stick, but I will help you grow more rings.' Forest-elder-as-mentor.
 

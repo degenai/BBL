@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/throne-of-eldraine/226-lucky-clover.png]]
+![226-lucky-clover](../../../images/magic-the-gathering/throne-of-eldraine/226-lucky-clover.png)
 
 Two weathered, cupped hands fill the frame, palms up, holding a tiny mound of dark soil and moss from which a single bright green four-leaf clover grows. The skin is leathery and lined, suggesting an older person or someone who works outdoors. Warm, soft daylight pours from above onto the clover, making it the unambiguous focal point. The background is a painterly, blurred field of pale green and golden tones, evoking a sunlit meadow. The composition is intimate and reverent, treating the small token as a relic.
 

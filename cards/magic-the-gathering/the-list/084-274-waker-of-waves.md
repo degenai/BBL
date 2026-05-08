@@ -31,7 +31,7 @@ setting: ocean
 
 ## Vision
 
-![[images/magic-the-gathering/the-list/084-274-waker-of-waves.png]]
+![084-274-waker-of-waves](../../../images/magic-the-gathering/the-list/084-274-waker-of-waves.png)
 
 Above the waterline, a small wooden sailing ship with masts and rigging tilts hard on the white-foamed crest of a wave, dwarfed by the scale of what is rising beneath it. Below the choppy surface line, the immense dark-blue body of a whale fills most of the frame, its scaled or barnacled hide glinting against the deeper blue of the open sea. The composition is cleanly split between sky-touched stormy ocean above and abyssal depths below, emphasizing the leviathan's terrifying scale. Cool blue palette throughout, with white spray and pale ship sails as the only bright accents.
 

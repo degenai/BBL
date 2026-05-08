@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![[images/magic-the-gathering/mystery-booster-cards/155-uncaged-fury.png]]
+![155-uncaged-fury](../../../images/magic-the-gathering/mystery-booster-cards/155-uncaged-fury.png)
 
 A hulking lupine creature with matted dark fur lunges forward out of frame, mouth wrenched open in a snarl that bares long teeth and a lolling tongue. Its head and shoulders dominate the foreground, lit by a hot red wash that suggests torchlight or rage-bloom. Behind it, the bent iron bars of a broken cage frame the composition — vertical bars warped and snapped where the beast tore free. The whole image is keyed to red, with the creature reading as silhouette-dark against the burning backdrop, eyes catching a pale highlight. The energy is pure outburst — captivity ending in violence.
 

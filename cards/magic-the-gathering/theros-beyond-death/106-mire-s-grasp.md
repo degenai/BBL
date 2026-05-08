@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/theros-beyond-death/106-mire-s-grasp.png]]
+![106-mire-s-grasp](../../../images/magic-the-gathering/theros-beyond-death/106-mire-s-grasp.png)
 
 A wretched, undead-looking figure dominates the foreground, mouth wrenched open in a roar to reveal sharp teeth, eyes empty and shadowed. Its skin is bone-pale and clings tight to the skull. It claws forward out of a viscous black mire that has half-swallowed it, while gnarled skeletal hands and arms claw upward from the surrounding tar, suggesting other damned souls trapped below. The setting is a dark, fog-choked underworld swamp with a sickly green-grey haze, broken stone or bone debris, and silhouetted figures lurking in the deep background. Lighting is murky and low, with a faint cold rim catching the screaming face.
 

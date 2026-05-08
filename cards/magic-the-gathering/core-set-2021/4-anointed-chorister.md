@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/4-anointed-chorister.png]]
+![4-anointed-chorister](../../../images/magic-the-gathering/core-set-2021/4-anointed-chorister.png)
 
 A young Black woman in flowing white robes stands with arms raised and mouth open in song. Behind her, an aura of golden wings of light spreads outward. Soft golden light fills the scene. Mood is reverent, hopeful, gentle. Flavor text frames her vocation: 'I sing of benevolence and mercy, of golden wings bringing comfort to the meek and downtrodden.' Strong service-worker / spiritual-laborer read — singing comfort is her labor.
 

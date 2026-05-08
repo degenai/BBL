@@ -28,7 +28,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/a/9a0e90b8-bc3
 
 ## Vision
 
-![[images/magic-the-gathering/8th-edition/no-num-rod-of-ruin.png]]
+![no-num-rod-of-ruin](../../../images/magic-the-gathering/8th-edition/no-num-rod-of-ruin.png)
 
 > ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 

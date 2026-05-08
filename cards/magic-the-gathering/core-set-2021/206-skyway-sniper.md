@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/206-skyway-sniper.png]]
+![206-skyway-sniper](../../../images/magic-the-gathering/core-set-2021/206-skyway-sniper.png)
 
 A lithe elven archer kneels on a thick mossy branch high in the forest canopy, bow drawn taut, arrow pointed up and to the left toward something above the frame. The archer wears layered green and brown leather garments with a hooded cloak draped over the shoulders, blending into the surrounding foliage. Sun-dappled leaves and slender tree trunks fill the middle ground; lower branches and a soft blue-green sky are visible beyond, suggesting great height. Lighting is soft and diffuse, filtered through leaves, with warm highlights on the archer's face and arms. The pose is poised, focused, mid-aim — a sniper's stillness rather than action mid-release.
 

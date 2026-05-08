@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/throne-of-eldraine/72-vantress-paladin.png]]
+![72-vantress-paladin](../../../images/magic-the-gathering/throne-of-eldraine/72-vantress-paladin.png)
 
 A knight in pale blue plate armor with a closed visored helmet rides a winged horse through a sky of swirling silver-blue clouds. The pegasus-like mount is rendered in cool whites and blues, wings spread wide as it surges forward. The rider grips reins and wears a flowing cape; the lance or weapon is held at the ready. The whole composition is bathed in a cold, ethereal blue palette typical of Eldraine's Vantress (the merfolk/knightly faerie-court realm), with diffuse light suggesting high altitude and an otherworldly quality. The mount's mane and the rider's cape stream backward, conveying speed and aerial motion.
 

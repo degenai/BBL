@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![[images/magic-the-gathering/classic-sixth-edition/no-num-wooden-sphere.png]]
+![no-num-wooden-sphere](../../../images/magic-the-gathering/classic-sixth-edition/no-num-wooden-sphere.png)
 
 A polished wooden orb covered in intricate interlaced knotwork is cradled by two wooden hands whose forearms taper into woven, twisting tree-branches that rise from the leaf-littered forest floor. The sphere catches a warm highlight along its top, suggesting dappled sunlight filtering through a canopy. Behind the sculpture, dense underbrush and tree trunks recede into a soft green-brown haze, framing the offering-like object as the focal point of the composition. The piece reads as a relic or fetish carved by the forest itself — organic, druidic, ceremonial.
 

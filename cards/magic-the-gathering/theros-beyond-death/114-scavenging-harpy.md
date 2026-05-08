@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![[images/magic-the-gathering/theros-beyond-death/114-scavenging-harpy.png]]
+![114-scavenging-harpy](../../../images/magic-the-gathering/theros-beyond-death/114-scavenging-harpy.png)
 
 A lean harpy crouches on a weathered stone ridge, her body twisted forward in a predatory lunge. Her arms have transformed into ragged feathered wings that trail behind her, and her lower body terminates in clawed bird talons gripping the rock. Long dark hair streams behind her head. Her exposed torso reads as gaunt and sinewy. In the middle distance another harpy is captured mid-flight, wings spread, headed toward or away from the viewer. The setting is a desolate gray cliffside or barrows — broken stone, no vegetation, an overcast washed-out sky. The whole image leans monochrome: ash-gray rocks, slate sky, with the harpies' skin reading slightly warmer against the cold stone. Composition feels grim and scavenger-coded — the kind of place corpses get picked clean.
 

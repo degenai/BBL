@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![[images/magic-the-gathering/theros/218-opaline-unicorn.png]]
+![218-opaline-unicorn](../../../images/magic-the-gathering/theros/218-opaline-unicorn.png)
 
 A radiant unicorn with a metallic gold and opalescent coat stands in a forest glade, body angled slightly to the right with its head turned and horn lifted. A long pointed golden horn catches the light, and its mane and tail flow in soft strands that suggest precious metal more than hair. Sun-rays filter through the canopy behind the creature, scattering bright highlights across leaves and the forest floor. The background is a soft green-and-amber blur of trees and undergrowth, with one slender trunk crossing behind the unicorn. The mood is sublime and peaceful — a sacred-animal sighting in a sunlit wood.
 

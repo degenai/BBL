@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/15-defiant-strike.png]]
+![15-defiant-strike](../../../images/magic-the-gathering/core-set-2021/15-defiant-strike.png)
 
 A male warrior in red-and-gold (Boros) plate armor charges forward with longsword raised and round shield braced. Plate is etched with sun emblems; cape billows behind him. Golden-white sunburst light radiates around the figure. Mood is righteous, heroic, unstoppable. Flavor text frames him as a single defender: 'My family was saved thanks to a single Boros soldier. It's why I joined the Legion. I will be the protector now.' Protector / guardian archetype.
 

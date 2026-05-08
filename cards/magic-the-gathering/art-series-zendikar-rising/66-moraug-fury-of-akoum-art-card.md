@@ -28,7 +28,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/4/4/4481eab8-9e7
 
 ## Vision
 
-![[images/magic-the-gathering/art-series-zendikar-rising/66-moraug-fury-of-akoum-art-card.png]]
+![66-moraug-fury-of-akoum-art-card](../../../images/magic-the-gathering/art-series-zendikar-rising/66-moraug-fury-of-akoum-art-card.png)
 
 > ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 

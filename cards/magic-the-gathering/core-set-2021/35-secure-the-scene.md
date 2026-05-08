@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/35-secure-the-scene.png]]
+![35-secure-the-scene](../../../images/magic-the-gathering/core-set-2021/35-secure-the-scene.png)
 
 A bearded, helmeted guard in heavy plate armor stands in a forward-facing pose, gripping a tall ornate staff or polearm. Glowing white-blue magical energy radiates around him, coiling like ribbons or chains that appear to bind a smaller crouched or restrained figure at his feet. The palette is dominated by cool steel blues, off-whites, and pale gold accents on the armor trim. The background dissolves into a soft, ambient haze of pale blue light, suggesting an official or sanctioned magical action rather than a violent confrontation. The composition reads as a portrait-leaning mid-shot of an authority figure mid-arrest.
 

@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/160-soul-sear.png]]
+![160-soul-sear](../../../images/magic-the-gathering/core-set-2021/160-soul-sear.png)
 
 A small male warrior in plate armor lunges with a glowing red weapon at a massive horned beast whose hide is the same red as the searing landscape. Sparks and embers fill the air. Mood is brutal — flavor text spells it out: 'There was no witty retort, no confident boast to accompany the attack. There was only pain.' The all-red palette gives the scene a hellscape quality.
 

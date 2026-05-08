@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/39-staunch-shieldmate.png]]
+![39-staunch-shieldmate](../../../images/magic-the-gathering/core-set-2021/39-staunch-shieldmate.png)
 
 A grinning bearded dwarf in a leather-and-cloth tunic leans against a wooden table, lifting a massive round golden shield turned to face the viewer. The shield's face is engraved with the silhouette of a dragon's head, the gold catching warm interior light. Behind him, shelves and a counter are crowded with corked bottles, jugs, and barrels, suggesting a tavern back room or armory storeroom. The palette is dominated by warm browns, amber, ochre, and the bright glint of polished gold. Lighting is soft and ambient with the shield acting as a secondary highlight. The dwarf's expression is boastful and pleased, mid-anecdote.
 

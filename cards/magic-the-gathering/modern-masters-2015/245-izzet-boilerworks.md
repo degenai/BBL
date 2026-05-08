@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![[images/magic-the-gathering/modern-masters-2015/245-izzet-boilerworks.png]]
+![245-izzet-boilerworks](../../../images/magic-the-gathering/modern-masters-2015/245-izzet-boilerworks.png)
 
 A dense, machine-crowded interior viewed straight-on: tangled copper and brass piping snakes around bulbous pressure vats and tanks, with valves, dials, and gauges studding the apparatus. Warm amber and orange light bleeds out from seams and vents, suggesting fire and steam contained within. The composition has no human figure — the architecture itself is the subject, a steampunk-leaning industrial cathedral. Vertical pipes climb out of frame, reinforcing scale. The palette is dominated by burnished copper, rust-orange, and shadowed brown, with hot yellow highlights where the machinery glows.
 

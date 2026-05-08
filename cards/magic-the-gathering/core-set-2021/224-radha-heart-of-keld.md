@@ -34,7 +34,11 @@ ip_verified: false
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/224-radha-heart-of-keld.png]]
+
+> [!warning] Suspected IP: **Radha** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+![224-radha-heart-of-keld](../../../images/magic-the-gathering/core-set-2021/224-radha-heart-of-keld.png)
 
 A fierce elf warrior with cascading flame-red hair charges or pivots forward, both arms extended outward gripping a sword in each hand. Her hair is enormous and wind-blown, fanning out behind her like a banner. She wears dark, minimal armor with bare midriff and shoulders, the palette dominated by deep crimson hair, pale skin, and shadowy black-green negative space. The background is a murky, almost abstract wilderness — hints of forest gloom and warm rim light suggesting either firelight or sunset filtering through. Her stance is tense and feral, mouth set, eyes locked on an unseen foe. Composition is mid-shot, dynamic, blade-forward.
 

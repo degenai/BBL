@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![[images/magic-the-gathering/throne-of-eldraine/227-prophet-of-the-peak.png]]
+![227-prophet-of-the-peak](../../../images/magic-the-gathering/throne-of-eldraine/227-prophet-of-the-peak.png)
 
 A skeletal feline creature stands in profile atop a craggy mountain summit. Its body is unmistakably a large cat — long sinuous spine, lashing tail, padded paws — but its head sprouts a tall rack of forked antlers like a stag's, and its ribs press visibly through patchy hide. The palette is muted: ash-grey and bone-beige fur, dusty stone, a washed pale sky behind. The creature's posture is alert and predatory, gaunt but vigilant, lit with soft overcast daylight that flattens the scene into something stark and ominous. There is no other figure present — the prophet stands alone on the peak.
 

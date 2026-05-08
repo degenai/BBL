@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/249-rugged-highlands.png]]
+![249-rugged-highlands](../../../images/magic-the-gathering/core-set-2021/249-rugged-highlands.png)
 
 A wide landscape painting: in the background, towering grey-blue mountain peaks with snow-streaked ridges climb into a soft, partly cloudy sky. The mid-ground transitions into rolling forested foothills covered in evergreens and deciduous trees in fresh green. A wide, calm body of water — a lake or slow river — stretches across the foreground, mirroring the peaks and the pale sky. Scattered conifers cluster along the near shore. There are no figures, structures, or creatures present. The composition is open, panoramic, and naturalistic, evoking pristine wilderness.
 

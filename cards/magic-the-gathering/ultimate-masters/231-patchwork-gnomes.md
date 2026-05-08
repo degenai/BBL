@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![[images/magic-the-gathering/ultimate-masters/231-patchwork-gnomes.png]]
+![231-patchwork-gnomes](../../../images/magic-the-gathering/ultimate-masters/231-patchwork-gnomes.png)
 
 Two grotesque gnome-sized constructs stand close together in a cluttered, dimly lit workshop. The taller figure on the left is a stitched-together body of mismatched flesh and cloth in tan and orange tones, with visible seams, asymmetric limbs, and a crude head turned in profile. A smaller hunched companion in front is similarly cobbled together from scavenged parts. The background is a brown-grey chamber crowded with indistinct tools, shelves, or workbench debris, painted in muddy sepia tones. The overall feel is shabby, makeshift, and faintly comedic — these are a wizard's discarded creations brought back into service.
 

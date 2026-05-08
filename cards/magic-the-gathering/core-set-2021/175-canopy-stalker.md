@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/175-canopy-stalker.png]]
+![175-canopy-stalker](../../../images/magic-the-gathering/core-set-2021/175-canopy-stalker.png)
 
 A black big cat — panther-like, sinewy, with a long heavy tail trailing behind it — moves along a horizontal tree limb deep within a forest canopy. The cat's body is dark, almost silhouetted against the foliage, with subtle highlights along its shoulders and back picking up the warm light filtering down from above. It is mid-stride, head low and forward, eyes locked on something off-frame, in a clear hunting posture. The branch beneath it is thick, mossy, and weathered, draped with hanging leaves and small vines. The background is layered with overlapping green leaves, broken by patches of golden-amber light where the sun pierces the canopy. The overall palette is dominated by deep greens and blacks with warm yellow-gold highlights.
 

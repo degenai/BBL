@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/236-short-sword.png]]
+![236-short-sword](../../../images/magic-the-gathering/core-set-2021/236-short-sword.png)
 
 A straight, double-edged short sword stands vertically with its point up, centered before a tall arched stained-glass window. The blade is rendered in cool steel-blue tones and is illuminated near its midpoint by a warm golden glow that fans out across the glass behind it, almost like a halo. The window's panes are mostly deep blues and indigos with red and amber accents arranged in geometric leaded patterns, suggesting a chapel, cathedral, or sanctuary interior. The crossguard is a simple gold bar and the grip is dark, ending in a rounded pommel. There are no figures present — this is a still-life of an object, an icon of equipment rather than a scene of action.
 

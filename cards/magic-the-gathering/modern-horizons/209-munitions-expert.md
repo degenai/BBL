@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/modern-horizons/209-munitions-expert.png]]
+![209-munitions-expert](../../../images/magic-the-gathering/modern-horizons/209-munitions-expert.png)
 
 A central red-skinned goblin hunches forward in the foreground, eyes narrowed and teeth bared in concentration as it cradles a large bronze-and-steel weapon bristling with valves and projectiles. The goblin wears patchwork armor in muted blue and bronze tones with leather straps and a metal helm. A chaotic press of additional goblins crowds behind and around it, their forms rendered loosely in warm reds, oranges, and rust browns, faces twisted in manic grins. Spiked weapons, rockets, and crooked metal contraptions jut up from the throng like a forest of improvised hardware. The palette is dominated by warm rust, ochre, and brick reds against cooler blue-grey accents on the central goblin's gear, with a hazy smoky background suggesting an industrial or battlefield setting.
 

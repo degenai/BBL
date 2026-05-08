@@ -31,7 +31,7 @@ setting: void
 
 ## Vision
 
-![[images/magic-the-gathering/the-list/089-274-bad-deal.png]]
+![089-274-bad-deal](../../../images/magic-the-gathering/the-list/089-274-bad-deal.png)
 
 An extreme close-up on two human hands gripping one another in a fierce handshake — fingers laced, knuckles paled from pressure, veins and tendons standing out across the backs of the hands. A single bead of blood beads at one knuckle, the only sharp detail apart from skin texture. The arms emerge from darkness on either side and meet dead-center, framed against a saturated crimson backdrop that bleeds toward black at the edges. The crop excludes faces and bodies entirely, reducing the entire transaction to grip, sinew, and the implication of a wound. Lighting is low and warm, with a deep chiaroscuro that pushes everything but the clasped hands into shadow.
 

@@ -33,7 +33,11 @@ ip_verified: false
 
 ## Vision
 
-![[images/magic-the-gathering/war-of-the-spark/26-prison-realm.png]]
+
+> [!warning] Suspected IP: **Nicol Bolas (Magic: The Gathering)** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+![26-prison-realm](../../../images/magic-the-gathering/war-of-the-spark/26-prison-realm.png)
 
 A horned, draconic humanoid figure with sweeping curved horns and dark wings is shown imprisoned at the center of the composition, head bowed in defeat or contemplation. The creature is enveloped in a swirling aura of violet, magenta, and pink magical energy with sharp white highlights radiating outward like cracks of light. Chains and crystalline shards extend across the frame, suggesting binding and confinement. The background fades into a deep purple-black void with hints of cosmic or otherworldly geometry. The lighting is harsh and dramatic, with the figure underlit and rim-lit by the prison's energy. Composition is centered and symmetrical, emphasizing the captive's helplessness and the totality of the magical cage.
 

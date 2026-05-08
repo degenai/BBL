@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/165-thrill-of-possibility.png]]
+![165-thrill-of-possibility](../../../images/magic-the-gathering/core-set-2021/165-thrill-of-possibility.png)
 
 A close, almost claustrophobic image of a human face wreathed in fire and lava-like molten matter. The figure's eyes are wide open and the mouth is parted, conveying a charged moment of revelation, inspiration, or shock. Bright orange and yellow flames lick around the head, with darker red and crimson tones forming the cavernous backdrop. The composition feels like a vision or epiphany rendered as fire-birth, with the figure caught mid-realization rather than mid-action. The flavor text reinforces this as a moment-of-creation theme.
 

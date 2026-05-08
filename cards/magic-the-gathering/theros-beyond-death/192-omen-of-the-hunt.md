@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![[images/magic-the-gathering/theros-beyond-death/192-omen-of-the-hunt.png]]
+![192-omen-of-the-hunt](../../../images/magic-the-gathering/theros-beyond-death/192-omen-of-the-hunt.png)
 
 A youthful female hunter dominates the frame in a tight three-quarter portrait. Her dark hair is braided through with green leaves and vines, blending her into the surrounding wood. She holds a curved wooden bow at the ready, an arrow nocked and partially drawn, her gaze locked forward with calm focus. Her skin is fair and her clothing earth-toned, suggesting hide or layered woodland garb. Behind her, a hazy blue-green forest of slender trees recedes into mist, giving the scene a hushed, anticipatory atmosphere. The lighting is soft and ambient, suffused with cool greens and muted teals, evoking dawn or the diffuse light beneath a thick canopy.
 

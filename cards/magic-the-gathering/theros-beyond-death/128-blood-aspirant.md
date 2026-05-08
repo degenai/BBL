@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/theros-beyond-death/128-blood-aspirant.png]]
+![128-blood-aspirant](../../../images/magic-the-gathering/theros-beyond-death/128-blood-aspirant.png)
 
 A bare-chested satyr — human torso, goat legs with shaggy fur and cloven hooves — stands in a wide stance, head tilted back as he raises a long curved drinking horn high in his right hand. His left hand grips a stoppered flask filled with dark red liquid. Wild flame-red hair streams behind him. The figure is rendered in saturated reds and oranges, with the body lit warmly against a hazy crimson-and-ochre background that suggests heat, smoke, or the glow of a revel-fire. The composition is a single full-body figure in motion, evoking a Dionysian frenzy mid-drink.
 

@@ -31,7 +31,7 @@ setting: mountain
 
 ## Vision
 
-![[images/magic-the-gathering/modern-horizons/240-frostwalk-bastion.png]]
+![240-frostwalk-bastion](../../../images/magic-the-gathering/modern-horizons/240-frostwalk-bastion.png)
 
 A colossal stone-and-ice citadel rises from a snow-clad mountain, its terraced walls and battlements blending into the natural rock. The peak is jagged and frosted, with drifts of snow piled along the ramparts. A narrow winding path or causeway descends along the ridgeline, scaled to suggest enormous height. The sky is washed in pale blue-grey tones with diffused light, giving the scene a cold, sublime, almost desolate atmosphere. No human or creature figures are clearly visible — the fortress itself is the subject. Foreground rocks are dark and ice-rimed; midground walls are weathered grey stone; background fades into mist and pale sky.
 

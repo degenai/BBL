@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![[images/magic-the-gathering/throne-of-eldraine/74-witching-well.png]]
+![74-witching-well](../../../images/magic-the-gathering/throne-of-eldraine/74-witching-well.png)
 
 A weathered round stone wishing well sits in a clearing at night. A wooden A-frame structure rises above its mouth, and a single glowing lantern hangs from the crossbeam, casting a warm amber halo against the otherwise cold blue scene. Bare, gnarled tree branches twist across the foreground from both sides, framing the well like a witch's claws. The background dissolves into a deep cobalt and indigo night with hints of distant land or cliffs. There are no figures present — just the lit lantern, the stone well, and the encroaching dark forest. The atmosphere reads fairy-tale-eerie rather than horror: a quiet enchanted place where wishes are exchanged for something less wholesome.
 

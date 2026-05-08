@@ -30,7 +30,7 @@ setting: indoor
 
 ## Vision
 
-![[images/magic-the-gathering/war-of-the-spark/240-iron-bully.png]]
+![240-iron-bully](../../../images/magic-the-gathering/war-of-the-spark/240-iron-bully.png)
 
 A massive humanoid golem stands in a dim industrial space, its body welded together from sheets of blackened iron plating riveted at the seams. Sharp jagged spikes jut from its shoulders and forearms, and heavy lengths of chain drape across its torso and limbs. A fierce orange-red light burns from inside its chest, leaking through gaps in the armor and casting hot glows around its hunched silhouette. Its head is faceless, more helmet than face, lit from within by the same furnace glow. The background is murky grey-blue smoke or industrial haze, with vague suggestions of forges or scaffolding behind it. The figure looms forward, posture aggressive and bullying.
 

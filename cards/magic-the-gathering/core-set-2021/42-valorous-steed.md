@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/42-valorous-steed.png]]
+![42-valorous-steed](../../../images/magic-the-gathering/core-set-2021/42-valorous-steed.png)
 
 A pure white unicorn stands proud in profile on the crest of a grassy hill, mane and tail flowing, single straight horn catching the light. The pose is heraldic and still rather than mid-action — noble bearing, head tilted slightly to acknowledge the viewer. Behind it on a lower slope sits a small stone cairn or shrine and the silhouette of a small distant figure, suggesting the unicorn has just left or is being approached by a chosen companion. The background is dominated by a luminous golden sky with soft pale clouds; the foreground grass is a warm muted green-gold under bright wash light. Color palette is overwhelmingly white, gold, and pale green — clean, holy, classic white-magic plains energy.
 

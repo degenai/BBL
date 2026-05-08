@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/8-basri-s-acolyte.png]]
+![8-basri-s-acolyte](../../../images/magic-the-gathering/core-set-2021/8-basri-s-acolyte.png)
 
 A humanoid feline cleric stands in three-quarter profile on a battlefield, wearing layered white robes with gold trim and a hooded mantle suggestive of priestly or paladin regalia. The cat figure has cream-white fur, large blue eyes, and an alert, devout expression. In their right hand they cradle a softly radiant orb of blue-white light, the magic emitting visible motes and a halo glow. Behind them, weathered banners and standards of various colors are planted into churned dirt and grass, implying the aftermath or staging ground of a battle. The lighting is soft and ambient, with a pale daytime sky and a warm tan horizon, giving the scene a calm, sanctified mood despite the martial setting.
 

@@ -30,7 +30,7 @@ setting: indoor
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/47-capture-sphere.png]]
+![47-capture-sphere](../../../images/magic-the-gathering/core-set-2021/47-capture-sphere.png)
 
 Glowing rings and chains of magical energy encase a humanoid figure, suspending them in midair. The light is bluish-purple, with bright runic detail along the binding sphere. Behind, dim castle towers loom in mist. The spell binds rather than kills — a magical imprisonment, not a strike.
 

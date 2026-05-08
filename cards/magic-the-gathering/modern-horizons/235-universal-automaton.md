@@ -31,7 +31,7 @@ setting: indoor
 
 ## Vision
 
-![[images/magic-the-gathering/modern-horizons/235-universal-automaton.png]]
+![235-universal-automaton](../../../images/magic-the-gathering/modern-horizons/235-universal-automaton.png)
 
 A polished brass humanoid automaton stands in three-quarter view, its segmented metal plates catching warm light. Its featureless faceplate tilts toward a glowing violet crystalline shard clutched in its right hand — the shard radiates a soft purple glow that washes the figure's torso. A second, near-identical automaton stands further back in the dim workshop, partially obscured by shadow. The background reads as an interior space — laboratory or arcane workshop — rendered in cool blue-grey tones that contrast with the gold-warm foreground figure. The mood is quiet, investigative, almost reverent: a constructed being studying a piece of magical material.
 

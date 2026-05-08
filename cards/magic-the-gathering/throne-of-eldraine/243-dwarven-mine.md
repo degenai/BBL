@@ -31,7 +31,7 @@ setting: dungeon
 
 ## Vision
 
-![[images/magic-the-gathering/throne-of-eldraine/243-dwarven-mine.png]]
+![243-dwarven-mine](../../../images/magic-the-gathering/throne-of-eldraine/243-dwarven-mine.png)
 
 An industrial fantasy interior: a colossal cavern hollowed into red sandstone or rust-colored rock. A stone arched bridge spans a deep chasm in the middle distance, with several small dwarven figures walking across it, dwarfed by the architecture. To the left, an enormous wooden waterwheel or geared mining apparatus dominates the composition, suggesting active industry. Below the bridge, molten light glows orange-yellow from forges, smelters, or lava pools at the cavern floor, throwing warm light upward. Sparks and embers drift in the smoky air. The entire palette is monochromatic warm: oranges, rusts, ochres, deep reds, with the only cool notes being the slate-gray of the bridge stone. The scale is sublime — figures are ant-sized against the engineered geology.
 

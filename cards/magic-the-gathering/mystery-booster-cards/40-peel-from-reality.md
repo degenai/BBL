@@ -31,7 +31,7 @@ setting: void
 
 ## Vision
 
-![[images/magic-the-gathering/mystery-booster-cards/40-peel-from-reality.png]]
+![40-peel-from-reality](../../../images/magic-the-gathering/mystery-booster-cards/40-peel-from-reality.png)
 
 The art depicts a violent cosmic disturbance — reality itself appears to be peeling apart in concentric, swirling layers of violet, blue, and white energy. A vague spectral or clawed figure can be seen emerging from or being pulled into the vortex on the left, its form dissolving into streaks of light and shadow. The composition is dominated by the swirling rift, which radiates outward in painterly streaks suggesting motion, dissolution, and dimensional collapse. There is no defined ground or sky, only the abstract void of the energy itself, with bright cyan highlights at the center fading into deep purple and indigo at the edges.
 

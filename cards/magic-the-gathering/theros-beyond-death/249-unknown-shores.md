@@ -31,7 +31,7 @@ setting: ocean
 
 ## Vision
 
-![[images/magic-the-gathering/theros-beyond-death/249-unknown-shores.png]]
+![249-unknown-shores](../../../images/magic-the-gathering/theros-beyond-death/249-unknown-shores.png)
 
 A wide, atmospheric seascape: tall rugged sea-stacks and rocky islets emerge from a calm, glassy ocean, their bases dark and weathered while their upper reaches dissolve into pale mist. The water in the foreground is gently rippled, reflecting muted greys and soft greens. A diffuse, indeterminate light suffuses the scene — not direct sun, but a hazy luminosity that flattens shadows and pushes the more distant cliffs into near-silhouette. No figures, no architecture; the composition is pure landscape, evoking a remote, unexplored coastline reached at the edge of the world.
 

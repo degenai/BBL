@@ -30,7 +30,7 @@ setting: urban
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/196-pridemalkin.png]]
+![196-pridemalkin](../../../images/magic-the-gathering/core-set-2021/196-pridemalkin.png)
 
 A large orange tabby cat with exaggerated musculature stands on stone pavement, body turned at three-quarter view to camera, head tilted up. The distant background shows a small dim figure in robes with arms raised. Color palette is warm earth tones in the foreground against a cool blue-grey background. The mood is heroic-cat, proud, with a slight absurdity — flavor text 'They can deal excess combat damage to the player or planeswalker they're attacking' is dry humor about cat priorities.
 

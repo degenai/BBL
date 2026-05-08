@@ -30,7 +30,7 @@ setting: other
 
 ## Vision
 
-![[images/magic-the-gathering/core-set-2021/145-furor-of-the-bitten.png]]
+![145-furor-of-the-bitten](../../../images/magic-the-gathering/core-set-2021/145-furor-of-the-bitten.png)
 
 A close-up portrait of a humanoid figure consumed by feral fury or transformation. The face is contorted into a wide-open snarling howl, teeth bared, eyes blank-white and bulging with rage. The skin reads ruddy and flushed, washed in hot reds and oranges. The hair is long, dark, and unkempt, falling forward across the brow. The framing is tight and confrontational, pushing the viewer into the figure's enraged grimace. The background dissolves into smoky red gloom, giving the image a hellish, fever-pitched intensity consistent with the card's lycanthropy/curse flavor.
 
