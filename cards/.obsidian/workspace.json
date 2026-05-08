@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "magic-the-gathering/shards-of-alara/226-jungle-shrine-ala.md",
+                "file": "magic-the-gathering/war-of-the-spark/27-rally-of-wings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "226-jungle-shrine-ala"
+              "title": "27-rally-of-wings"
             }
           }
         ]
@@ -185,7 +185,10 @@
   },
   "active": "2f47d2ec7546c1fd",
   "lastOpenFiles": [
+    "magic-the-gathering/war-of-the-spark/26-prison-realm.md",
+    "magic-the-gathering/war-of-the-spark/17-grateful-apparition.md",
     "magic-the-gathering/war-of-the-spark/8-charmed-stray.md",
+    "magic-the-gathering/shards-of-alara/226-jungle-shrine-ala.md",
     "magic-the-gathering/war-of-the-spark/10-divine-arrow.md",
     "magic-the-gathering/war-of-the-spark/241-mana-geode.md",
     "magic-the-gathering/war-of-the-spark/148-turret-ogre.md",
@@ -195,7 +198,6 @@
     "magic-the-gathering/war-of-the-spark/142-samut-s-sprint.md",
     "magic-the-gathering/war-of-the-spark/52-flux-channeler.md",
     "magic-the-gathering/war-of-the-spark/63-no-escape.md",
-    "magic-the-gathering/war-of-the-spark/17-grateful-apparition.md",
     "magic-the-gathering/throne-of-eldraine/228-roving-keep.md",
     "magic-the-gathering/throne-of-eldraine/217-crashing-drawbridge.md",
     "magic-the-gathering/throne-of-eldraine/223-inquisitive-puppet.md",
@@ -228,8 +230,6 @@
     "magic-the-gathering/throne-of-eldraine/255-island-255.md",
     "magic-the-gathering/throne-of-eldraine/266-forest-266.md",
     "magic-the-gathering/throne-of-eldraine/263-mountain-263.md",
-    "magic-the-gathering/throne-of-eldraine/229-scalding-cauldron.md",
-    "magic-the-gathering/throne-of-eldraine/256-island-256.md",
-    "magic-the-gathering/throne-of-eldraine/216-clockwork-servant.md"
+    "magic-the-gathering/throne-of-eldraine/229-scalding-cauldron.md"
   ]
 }
