@@ -45,7 +45,7 @@ The caller gives you the absolute path of a single card-node MD file. The MD has
 
 5. **IP guardrails (HARD).** If the art clearly shows a recognizable character (Goku, Pikachu, Batman, Iron Man, etc.), populate `suspected_ip` with the name and `ip_confidence` ∈ {`low`, `med`, `high`}. Set `ip_verified: false` — verification is a separate step. **NEVER put a character name in `subject` unless you would stake real money on it from the image alone.** Crossover sets (MTG Universes Beyond, Pokémon collabs, Dragon Ball Super alternate art) are the high-risk zone — when in doubt, describe the figure and flag.
 
-6. **Emit JSON to `reports/vision_pending/<slug>.json`**. Use the slug derived from the card-MD filename (without `.md`). Use the Write tool. The JSON object must contain exactly these keys:
+6. **Emit JSON to `reports/vision_pending/<game>/<set>/<slug>.json`**, mirroring the card-MD's directory layout. The card-MD path is `cards/<game>/<set>/<slug>.md` and the JSON goes into the same `<game>/<set>/` subtree under `reports/vision_pending/`. Use the slug derived from the card-MD filename (without `.md`). Use the Write tool. **Important:** the same card name can be reprinted across many MTG sets (`Opt`, `Cancel`, `Counterspell`, basic lands), so a flat `reports/vision_pending/<slug>.json` would collide. The set-namespaced path is the canonical layout. The JSON object must contain exactly these keys:
 
    ```json
    {
@@ -85,7 +85,7 @@ The caller gives you the absolute path of a single card-node MD file. The MD has
 
 7. **Apply via the helper.** Run:
    ```
-   python apply_vision.py <card_md_absolute_path> reports/vision_pending/<slug>.json
+   python apply_vision.py <card_md_absolute_path> reports/vision_pending/<game>/<set>/<slug>.json
    ```
    Helper reuses `researchbot.update_card`, so the on-disk format stays consistent with the existing 3 manually-curated card MDs (Vectis Dominator, Smoldering Tar, Roaming Ghostlight). Do NOT hand-write the frontmatter or `## Vision` section yourself — always go through the helper.
 
