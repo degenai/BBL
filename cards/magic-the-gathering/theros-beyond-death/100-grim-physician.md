@@ -10,29 +10,40 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
-reference_image: 
+tags_hub: ["mask", "golden-mask", "death", "undead", "zombie", "physician", "healer", "ritual", "robed-figure", "funeral", "memory-loss", "greek-myth", "underworld"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "creature-zombie", "black-magic", "monocolor-black"]
+reference_image: images/magic-the-gathering/theros-beyond-death/100-grim-physician.png
 average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-07
 date_added: 2026-05-06
 last_seen: 2026-05-07
-art_match_confidence: none
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
+reference_image_source_url: https://cards.scryfall.io/png/front/b/7/b7e92c82-840f-4c75-b617-7b58a07be5b4.png?1581479817
+mood: grim
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Grim Physician (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[100-grim-physician.png]]
 
+A solitary robed figure occupies the frame in mid-shot, wearing a stylized golden funerary mask with hollow eyes and an impassive expression characteristic of Theros's Returned. The figure's dark robes blend into a murky, near-black background, while the gold mask and warm-amber accents on the garment catch the only real light. The figure appears to be tending to something — hands raised, holding a small implement — suggesting a clinical or ritual act performed without emotion. The atmosphere is funereal, hushed, and grim, with no visible setting beyond the suffocating darkness around the figure.
 
-**Subject:** 
+**Subject:** A masked Returned physician — a hollow-eyed figure in a golden funerary mask and dark robes, performing some grim medical or embalming task with a small implement
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** indoor, indeterminate
+**Foreground:** robed masked figure performing a task with raised hands  *(palette: gold, amber, black, deep-brown)*
+**Background:** near-black murky void with faint warm highlights  *(palette: black, dark-brown, shadow)*
+**Mood / lighting:** grim, chiaroscuro
+**Emotion read:** impassive, hollow, mechanical — body language of someone going through familiar motions without recognition
+**Objects:** funerary-mask, implement, vessel
+**Iconography:** golden-mask, death-mask, hollow-eyes
+**Genre cues:** fantasy, mythological, greek-myth
 

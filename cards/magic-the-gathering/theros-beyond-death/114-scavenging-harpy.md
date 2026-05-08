@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["harpy", "wings", "flight", "winged-figure", "feathers", "scavenger", "predator", "cliffside", "stone", "monstrous-feminine", "greek-myth", "death"]
+tags_filter: ["duo", "mid-shot", "three-quarter-facing", "scene-mode", "female-figure", "creature-harpy", "black-magic", "flying", "monochrome-palette"]
 reference_image: images/magic-the-gathering/theros-beyond-death/114-scavenging-harpy.png
 average_cost_paid: 0
 market_price: 0.06
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
 reference_image_source_url: https://cards.scryfall.io/png/front/b/0/b0e237c5-45b4-49df-adb9-62b9f3b62986.png?1581479949
+mood: grim
+time_of_day: indeterminate
+setting: mountain
 ---
 
 # Scavenging Harpy (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[114-scavenging-harpy.png]]
 
+A lean harpy crouches on a weathered stone ridge, her body twisted forward in a predatory lunge. Her arms have transformed into ragged feathered wings that trail behind her, and her lower body terminates in clawed bird talons gripping the rock. Long dark hair streams behind her head. Her exposed torso reads as gaunt and sinewy. In the middle distance another harpy is captured mid-flight, wings spread, headed toward or away from the viewer. The setting is a desolate gray cliffside or barrows — broken stone, no vegetation, an overcast washed-out sky. The whole image leans monochrome: ash-gray rocks, slate sky, with the harpies' skin reading slightly warmer against the cold stone. Composition feels grim and scavenger-coded — the kind of place corpses get picked clean.
 
-**Subject:** 
+**Subject:** A harpy — winged humanoid woman with feathered arms and clawed talons — perched on a jagged stone outcropping with a second harpy in flight behind her
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: duo, facing: three-quarter
+**Setting:** mountain, ruined, indeterminate, calm
+**Foreground:** perched harpy on stone outcropping, mid-lunge  *(palette: ash-gray, bone-white, muted-flesh, black)*
+**Background:** second harpy in flight against an overcast cliff sky  *(palette: slate-gray, pale-gray, washed-blue)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** predatory, hungry, alert
+**Objects:** jagged-stone, cliffside
+**Creatures:** harpy
+**Genre cues:** fantasy, mythological, greek-myth
 

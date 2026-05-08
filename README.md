@@ -152,7 +152,7 @@ Collectr CSV export
 ├── reports/
 │   ├── history.md                 # csv2mdbot run log
 │   ├── scryfall_sets.json         # cached set-name → code map
-│   └── vision_pending/*.json      # vision payloads awaiting apply
+│   └── vision_pending/<game>/<set>/<slug>.json   # vision payloads, set-namespaced (mirrors cards/ tree)
 ├── MTG-artists.md                 # artist reference notes
 ├── Pokemon-artists.md             # artist reference notes
 └── collectrexport*.csv            # raw inventory exports
@@ -227,30 +227,28 @@ The pattern that's emerging: **writers get the keys to wikilintbot; watchers do 
 
 ---
 
-## Status snapshot (2026-05-08, end of session — 100-mark hit)
+## Status snapshot (2026-05-08, end of session — 175-mark)
 
-- **977** active singles · **16** sealed products · **100** MTG cards fully enriched (was 22 at session start → **+78 this session**, exactly at the lair-architect activation threshold)
-- **Vision queue right now:** `python bbl_queue.py --count` → **52**. Refill is fully topped up; next session can dispatch a big batch immediately without re-prepping.
-- **Four parallel rounds today:** 8 + 10 + 16 + 15 + 7 + 15 = 71 subagent vision passes, all tier-clean. **6 IP cards flagged correctly:** Kiora, Nicol Bolas (×2), Teyo, the Wanderer, Garruk — all `suspected_ip` set, names kept out of `subject` per spec. IP guardrail is doing real work.
-- **Researchbot non-idempotency bug discovered:** running `--prepare-only` repeatedly can flap a card between `prepared` and `manual_review`. Theros Beyond Death cards demonstrated this — they appeared in the queue, then a deeper-limit refill flipped them back to `needs_manual_review: true` mid-flight. The bbl-researcher refusal logic caught it (no graph corruption), but researchbot needs an idempotency guard so a successfully prepared card stays prepared. Logged for next session.
-- **Picker workflow:** `--limit 600` is the sweet spot for refill — bigger limits keep finding clean Scryfall matches deeper in the qty=1 frontier. The first refill of a session may need limit-300 or higher to wake the queue up.
-- **Wikilintbot:** 54 info findings graph-wide. 52 are `missing_tags` info notes for the 52 cards ready-for-vision (each shows up because they have `reference_image` but empty `tags_hub`) — these are *expected*, they're the queue. 2 singleton aggregations. **0 warns, 0 errors.**
+- **977** active singles · **16** sealed products · **175** MTG cards fully enriched (was 22 at session start → **+153 this session**, ~8× growth)
+- **Vision queue right now:** `python bbl_queue.py --count` → **0**. Refill stalled in the qty=1 long tail where Scryfall set-name matches are noisy; next session needs a deeper `--limit 1000+` and likely a manual-review-triage workflow to keep going.
+- **Six parallel rounds today across 7+ batches:** 8 + 10 + 16 + 15 + 7 + 15 + 13 + 13 + 13 + 13 + 10 = **133 successful subagent dispatches**, all tier-clean. **10 IP cards flagged correctly:** Kiora, Nicol Bolas (×2), Teyo, the Wanderer, Garruk, Radha, Teferi, Tamiyo, Oko — all `suspected_ip` set, names kept out of `subject`.
+- **Hub-tag density:** 1029 unique hub tags emitted, **362 shared by 2+ cards** (was 53 at session start → 222 at 100-mark → 362 at 175-mark). The bridge-density growth is super-linear in card count, which is exactly what the lair architect needs.
+- **JSON path migration completed:** `reports/vision_pending/<game>/<set>/<slug>.json` now mirrors the `cards/` tree — protects against MTG reprint name-collisions (Opt, Cancel, basic lands appear in dozens of sets). All 124 pre-existing JSONs migrated via `git mv` to preserve history.
+- **`vocabulary_drift` lint check removed** — singular/plural splits intentionally allowed; semantic synonym collapse is Phase-5 janitorbot work.
+- **Researchbot non-idempotency bug** (logged in Findings): re-running `--prepare-only` can flap a card from `prepared` back to `manual_review`. bbl-researcher refusal logic catches it; not blocking but worth fixing.
+- **Wikilintbot graph-wide:** 2 info-only findings (singleton aggregations). 0 warns, 0 errors.
 - **Plan A (DeepSeek vision):** still text-only.
-- **Plan B (subagent vision):** active. Per-card ~50–135s; parallel-15 takes ~2 min wall-clock end to end.
-- **Repo:** local only, branch `main`, four session commits stacked.
+- **Plan B (subagent vision):** running smoothly — 13 in parallel completes ~1 min wall-clock when the API is responsive.
+- **Repo:** local only, branch `main`. Commits this session: 5–6 stacked, all clean.
 
 ### For the next session
 
 1. **Re-probe DeepSeek** first: `python researchbot.py --list-models`.
-2. **Drain the 52 in queue:** `python bbl_queue.py --with-qty --limit 25` then fan out subagents. Batch through the queue in chunks of ~15. Should clear the 52 in 3-4 rounds.
-3. **Stand up lair architect.** With 100 enriched cards and ~50 hub tags appearing 2+ times, the `available = quantity - held_for_lair` math finally has enough surface to produce real candidate manifests. This is the next-phase work and the unlock the whole project has been pointing at.
-4. **Fix researchbot non-idempotency** — currently re-running `--prepare-only` can downgrade an already-prepared card. Add a guard: if `art_match_confidence: high` is already set and `reference_image` points to an on-disk file, skip the lookup entirely.
-5. **Recommended remaining moves** (lower priority):
-   - Pokémon enrichment first run.
-   - Dragon Ball Super image-source strategy.
-   - Push to GitHub.
-   - Rename `researchbot.py` → `sourcebot.py`.
-   - Manual-review triage script.
+2. **Refill from deeper:** `python researchbot.py --prepare-only --limit 1500 --game "Magic: The Gathering"`. The shallow limits we used today have squeezed most of what the standard pipeline can produce.
+3. **Build a manual-review triage UI/script.** ~430 cards still flagged `needs_manual_review: true` (Scryfall set-name match failed). Many DO have a cached image and a low-confidence URL — worth a small interactive script that lets Alex eyeball each, approve the cached art, and flip the card to `art_match_confidence: high`. This is the next force-multiplier for getting toward all-MTG-enriched.
+4. **Stand up lair architect.** With 175 enriched cards and 362 hub bridges, the graph density is well past the activation threshold. This is the unlock the whole project has been pointing at.
+5. **Fix researchbot non-idempotency:** skip the lookup if `art_match_confidence: high` is already set AND `os.path.exists(reference_image)`. Should be a 5-line patch.
+6. **Other remaining moves** (lower priority): Pokémon enrichment first run, Dragon Ball Super image-source strategy, push to GitHub, `researchbot.py` → `sourcebot.py` rename.
 
 ### Curation rules locked in this project's memory
 

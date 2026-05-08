@@ -10,29 +10,42 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
-reference_image: 
+tags_hub: ["satyr", "revelry", "dance", "wine", "drinking", "celebration", "horns", "fire", "shaman", "greek-myth", "music", "ritual", "comic-relief"]
+tags_filter: ["solo", "mid-shot", "action", "three-quarter", "male-figure", "creature-satyr", "red-magic", "uncommon"]
+reference_image: images/magic-the-gathering/theros-beyond-death/129-careless-celebrant.png
 average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-07
 date_added: 2026-05-05
 last_seen: 2026-05-07
-art_match_confidence: none
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
+reference_image_source_url: https://cards.scryfall.io/png/front/b/a/bac6bdd4-b25b-41f6-835d-7d1570cdb951.png?1592335321
+mood: comedic
+time_of_day: indeterminate
+setting: other
 ---
 
 # Careless Celebrant (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[129-careless-celebrant.png]]
 
+A bare-chested satyr with curling ram-like horns dances or leaps with both arms raised in ecstatic abandon, a curved drinking vessel clutched in one hand. Cloth or sash trails behind the figure suggesting motion mid-revel. The whole composition is bathed in a hot crimson-and-orange palette that reads as firelight or a Dionysian bacchanal. Background is a wash of warm reds and deep shadow with no clear architecture — the figure pops against an abstracted blaze of celebration. Body language is loose, drunken, joyful, careless.
 
-**Subject:** 
+**Subject:** A satyr shaman mid-revel — horned, goat-legged figure leaping or dancing with arms thrown up, holding a curved drinking horn or vessel, robe-cloth swirling around them
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** other, indeterminate, fire
+**Foreground:** leaping satyr with raised arms, horns, drinking vessel, trailing cloth  *(palette: crimson, burnt-orange, warm-skin-tone, dark-red)*
+**Background:** abstracted firelit haze of red and orange with deep shadow  *(palette: red, orange, black, amber)*
+**Mood / lighting:** comedic, rim
+**Emotion read:** ecstatic, drunken abandon, careless joy
+**Objects:** drinking-horn, sash, cloth
+**Creatures:** satyr
+**Food/drink:** wine
+**Iconography:** horns, raised-arms, dance-pose
+**Genre cues:** fantasy, mythological, greek-myth
 
