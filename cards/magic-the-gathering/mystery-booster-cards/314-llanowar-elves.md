@@ -21,6 +21,7 @@ last_seen: 2026-05-07
 art_match_confidence: none
 needs_manual_review: true
 manual_review_reason: No reference image found via scryfall for set 'Mystery Booster Cards'
+reference_image_source_url: https://cards.scryfall.io/png/front/6/a/6a0b230b-d391-4998-a3f7-7b158a0ec2cd.png?1731652605
 ---
 
 # Llanowar Elves (Mystery Booster Cards)

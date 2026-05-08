@@ -21,6 +21,7 @@ last_seen: 2026-05-07
 art_match_confidence: none
 needs_manual_review: true
 manual_review_reason: No reference image found via scryfall for set 'Mystery Booster Cards'
+reference_image_source_url: https://cards.scryfall.io/png/front/3/b/3b4faa6e-5013-4c59-80f5-662a386672eb.png?1767730565
 ---
 
 # Grave Titan (Mystery Booster Cards)

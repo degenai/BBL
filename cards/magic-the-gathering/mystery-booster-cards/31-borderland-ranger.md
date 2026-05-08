@@ -21,6 +21,7 @@ last_seen: 2026-05-07
 art_match_confidence: none
 needs_manual_review: true
 manual_review_reason: No reference image found via scryfall for set 'Mystery Booster Cards'
+reference_image_source_url: https://cards.scryfall.io/png/front/8/f/8f067c26-c51d-44d0-a0af-106b5778f06a.png?1592709289
 ---
 
 # Borderland Ranger (Mystery Booster Cards)

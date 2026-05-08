@@ -21,6 +21,7 @@ last_seen: 2026-05-07
 art_match_confidence: none
 needs_manual_review: true
 manual_review_reason: No reference image found via scryfall for set 'Mystery Booster Cards'
+reference_image_source_url: https://cards.scryfall.io/png/front/4/0/402c2c37-9439-4393-b9d7-d7abe8045d4d.png?1599708529
 ---
 
 # Unlicensed Disintegration (Mystery Booster Cards)

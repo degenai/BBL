@@ -21,6 +21,7 @@ last_seen: 2026-05-07
 art_match_confidence: none
 needs_manual_review: true
 manual_review_reason: No reference image found via scryfall for set 'Mystery Booster Cards'
+reference_image_source_url: https://cards.scryfall.io/png/front/f/d/fd706176-477a-49a9-bf47-0d10c0501227.png?1592761663
 ---
 
 # Nucklavee (Mystery Booster Cards)

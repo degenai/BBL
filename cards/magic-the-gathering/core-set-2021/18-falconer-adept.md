@@ -10,29 +10,41 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
-reference_image: 
+tags_hub: ["falconer", "falcon", "bird-of-prey", "hooded-figure", "robed-figure", "soldier", "mountain", "wind", "companion", "hunter", "bond", "storm-sky"]
+tags_filter: ["duo", "mid-shot", "three-quarter", "portrait-mode", "human-figure", "white-magic", "creature-human", "creature-soldier", "token-maker", "flying-matters"]
+reference_image: images/magic-the-gathering/core-set-2021/18-falconer-adept.png
 average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-07
 date_added: 2026-05-06
 last_seen: 2026-05-07
-art_match_confidence: none
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
+reference_image_source_url: https://cards.scryfall.io/png/front/f/b/fb4733e6-6fe2-4460-ac9f-82feb583d790.png?1594734928
+mood: sublime
+time_of_day: magic-hour
+setting: mountain
 ---
 
 # Falconer Adept (Core Set 2021)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[18-falconer-adept.png]]
 
+A figure in deep crimson and burnt-orange robes stands in three-quarter profile, hood drawn up, holding a heavy leather gauntlet on which a large pale falcon is perched with wings half-spread. The falconer's face is partly shadowed beneath the hood, gaze cast off-frame toward the bird. Behind them, distant mountain peaks rise into a turbulent sky streaked with grey-blue cloud and warm dusty light. The composition is tight on the falconer and bird, with the bird's outstretched wing breaking against the sky. Color palette is dominated by warm reds, ochres, and creamy off-white plumage against cool stormy blues.
 
-**Subject:** 
+**Subject:** A hooded human falconer in crimson robes with a large white-and-grey falcon perched on a leather gauntlet, standing against a windswept mountain sky
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: duo, facing: three-quarter
+**Setting:** mountain, magic-hour, storm
+**Foreground:** hooded falconer in red robes with large pale falcon on gauntlet  *(palette: crimson, burnt-orange, ochre, cream, leather-brown)*
+**Background:** windswept mountain peaks under a turbulent grey-blue sky with warm dusty light  *(palette: slate-blue, dusty-grey, warm-tan, muted-gold)*
+**Mood / lighting:** sublime, rim
+**Emotion read:** calm focused bond between handler and bird; quiet authority
+**Objects:** leather-gauntlet, hood, robes
+**Creatures:** falcon, bird-of-prey
+**Iconography:** hood, raptor-on-fist
+**Genre cues:** fantasy, medieval
 

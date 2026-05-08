@@ -10,29 +10,40 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
-reference_image: 
+tags_hub: ["cat", "big-cat", "sabertooth", "tiger", "predator", "fangs", "claws", "jungle", "wilderness", "prehistoric-beast", "snarl", "hunt"]
+tags_filter: ["solo", "mid-shot", "three-quarter-facing", "faces-left", "action-mode", "no-figure", "creature-cat", "green-magic", "mono-green"]
+reference_image: images/magic-the-gathering/core-set-2021/202-sabertooth-mauler.png
 average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-07
 date_added: 2026-05-06
 last_seen: 2026-05-07
-art_match_confidence: none
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
+reference_image_source_url: https://cards.scryfall.io/png/front/f/e/fe39e38e-76e5-4883-b530-d3e30e88ccad.png?1594737189
+mood: action
+time_of_day: day
+setting: forest
 ---
 
 # Sabertooth Mauler (Core Set 2021)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[202-sabertooth-mauler.png]]
 
+A muscular striped sabertooth cat dominates the foreground, body coiled low against weathered grey stone, mouth open wide to display oversized white fangs. Its forepaw is lifted and extended toward the viewer, claws splayed in a strike pose. Tawny orange-brown fur is broken by darker tiger stripes along the back and limbs. The background is a hazy green-yellow jungle clearing with soft suggestions of foliage and tall grass, bathed in warm diffused daylight. Composition is mid-shot, with the cat angled three-quarter facing left and slightly toward the viewer.
 
-**Subject:** 
+**Subject:** A massive sabertooth tiger crouched on a rocky outcrop, baring its long curved fangs and raising a clawed paw mid-snarl
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** forest, day, calm
+**Foreground:** snarling sabertooth cat on grey stone with claws raised  *(palette: tawny-orange, dark-brown, stone-grey, ivory-white)*
+**Background:** soft hazy jungle clearing with green-yellow vegetation  *(palette: sage-green, warm-yellow, olive, muted-tan)*
+**Mood / lighting:** action, ambient
+**Emotion read:** aggressive snarl, predatory threat display
+**Objects:** rocky-outcrop
+**Creatures:** sabertooth-cat, tiger
+**Genre cues:** fantasy, prehistoric, wilderness
 

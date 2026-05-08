@@ -21,6 +21,7 @@ last_seen: 2026-05-07
 art_match_confidence: none
 needs_manual_review: true
 manual_review_reason: No reference image found via scryfall for set 'Mystery Booster Cards'
+reference_image_source_url: https://cards.scryfall.io/png/front/9/8/988a7993-eb7d-4ae2-8a22-1676f517558b.png?1543675644
 ---
 
 # Magma Spray (Mystery Booster Cards)

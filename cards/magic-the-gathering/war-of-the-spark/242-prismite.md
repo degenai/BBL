@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["golem", "construct", "crystal", "prism", "underground", "cavern", "ruins", "small-figure", "stone", "darkness", "solitude"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "no-face", "artifact-creature", "colorless-magic", "mana-fixing", "artifact"]
 reference_image: images/magic-the-gathering/war-of-the-spark/242-prismite.png
 average_cost_paid: 0
 market_price: 0.17
@@ -21,6 +21,29 @@ last_seen: 2026-05-07
 reference_image_source_url: https://cards.scryfall.io/png/front/4/0/40475e96-0283-445f-97fb-1da008707399.png?1559898532
 art_match_confidence: high
 needs_manual_review: false
+mood: grim
+time_of_day: indeterminate
+setting: dungeon
 ---
 
 # Prismite (War of the Spark)
+
+## Vision
+
+![[242-prismite.png]]
+
+The art is dim and brooding, dominated by deep blacks and muted earth tones. A small angular crystalline figure — the prismite golem — occupies the lower-center frame, its faceted body catching what little light reaches the scene. The background suggests a vast underground cavern or ruined hall, with vague architectural shapes dissolving into shadow. A subtle cool glow emanates from the figure itself, the prismatic refractions hinting at all five colors of mana the creature can channel, but the overall tonality is dark and stony. There is a sense of solitude and quiet vigilance — a small constructed thing waiting in the dark.
+
+**Subject:** A small humanoid golem figure made of crystalline or prismatic material, standing or hovering in a dimly lit cavernous space, with faint glints of refracted light catching its angular body
+
+**Composition:** mid-shot, narrative, figures: solo, facing: forward
+**Setting:** dungeon, ruined, indeterminate
+**Foreground:** small crystalline golem figure with angular faceted body  *(palette: pale-blue, white, grey, soft-violet)*
+**Background:** dark cavernous interior with suggestions of stone architecture fading into shadow  *(palette: black, charcoal, dark-brown, deep-grey)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** quiet vigilance, stillness, watchful patience
+**Objects:** crystal, stone-walls
+**Creatures:** golem, construct
+**Iconography:** prism, crystal-facets
+**Genre cues:** fantasy, high-fantasy
+

@@ -21,6 +21,7 @@ last_seen: 2026-05-07
 art_match_confidence: none
 needs_manual_review: true
 manual_review_reason: No reference image found via scryfall for set 'Mystery Booster Cards'
+reference_image_source_url: https://cards.scryfall.io/png/front/5/2/52705c53-883e-4b6a-9c08-3fa35f6f17d5.png?1593096375
 ---
 
 # Athreos, God of Passage (Mystery Booster Cards)

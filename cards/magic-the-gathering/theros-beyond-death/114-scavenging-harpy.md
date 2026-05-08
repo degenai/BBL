@@ -21,6 +21,7 @@ last_seen: 2026-05-07
 art_match_confidence: none
 needs_manual_review: true
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
+reference_image_source_url: https://cards.scryfall.io/png/front/b/0/b0e237c5-45b4-49df-adb9-62b9f3b62986.png?1581479949
 ---
 
 # Scavenging Harpy (Theros Beyond Death)

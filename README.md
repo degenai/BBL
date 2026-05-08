@@ -199,35 +199,30 @@ The pattern that's emerging: **writers get the keys to wikilintbot; watchers do 
 
 ---
 
-## Status snapshot (2026-05-08, end of session)
+## Status snapshot (2026-05-08, end of session — 100-mark hit)
 
-- **977** active singles · **16** sealed products · **78** MTG cards fully enriched (was 22 at session start → **+56 this session**, ~3.5× growth in one sitting)
-- **Vision queue right now:** `python bbl_queue.py --count` → **7**. Held back to leave context headroom for handoff. Next session can dispatch immediately.
-- **Three parallel rounds dispatched cleanly today:** 8 + 10 + 16 + 15 = 49 subagent vision passes, all tier-clean from the bbl-researcher refusal/lint logic. One IP flagged correctly (Kiora — `suspected_ip` set, name kept out of `subject`).
-- **Picker workflow proved out:** the `--limit 200`+ on `researchbot.py --prepare-only` is what unlocks meaningful queue depth — qty-DESC frontier is choked by cards where Scryfall set-name match fails first time, and deeper limits expose successful fallback matches. `bbl_queue.py` is the canonical "ready for vision" picker.
-- **Wikilintbot:** 9 info-only findings graph-wide (8 singleton aggregations + 1 `wanderer's-strike` is the queue card with empty tags). 0 warns, 0 errors. The `vocabulary_drift` (singular/plural) check was **removed 2026-05-08** — semantic-synonym work is the Phase-5 janitor's job, not per-card lint.
-- **Plan A (DeepSeek vision):** still text-only. Re-probe each session.
-- **Plan B (subagent vision):** active and parallelizable to ~16 in flight; ~50–135 s per card depending on parallelism load.
-- **Repo:** local only, branch `main`. GitHub remote (`degenai/bulk-graph-bundler`, private) still pending.
+- **977** active singles · **16** sealed products · **100** MTG cards fully enriched (was 22 at session start → **+78 this session**, exactly at the lair-architect activation threshold)
+- **Vision queue right now:** `python bbl_queue.py --count` → **52**. Refill is fully topped up; next session can dispatch a big batch immediately without re-prepping.
+- **Four parallel rounds today:** 8 + 10 + 16 + 15 + 7 + 15 = 71 subagent vision passes, all tier-clean. **6 IP cards flagged correctly:** Kiora, Nicol Bolas (×2), Teyo, the Wanderer, Garruk — all `suspected_ip` set, names kept out of `subject` per spec. IP guardrail is doing real work.
+- **Researchbot non-idempotency bug discovered:** running `--prepare-only` repeatedly can flap a card between `prepared` and `manual_review`. Theros Beyond Death cards demonstrated this — they appeared in the queue, then a deeper-limit refill flipped them back to `needs_manual_review: true` mid-flight. The bbl-researcher refusal logic caught it (no graph corruption), but researchbot needs an idempotency guard so a successfully prepared card stays prepared. Logged for next session.
+- **Picker workflow:** `--limit 600` is the sweet spot for refill — bigger limits keep finding clean Scryfall matches deeper in the qty=1 frontier. The first refill of a session may need limit-300 or higher to wake the queue up.
+- **Wikilintbot:** 54 info findings graph-wide. 52 are `missing_tags` info notes for the 52 cards ready-for-vision (each shows up because they have `reference_image` but empty `tags_hub`) — these are *expected*, they're the queue. 2 singleton aggregations. **0 warns, 0 errors.**
+- **Plan A (DeepSeek vision):** still text-only.
+- **Plan B (subagent vision):** active. Per-card ~50–135s; parallel-15 takes ~2 min wall-clock end to end.
+- **Repo:** local only, branch `main`, four session commits stacked.
 
 ### For the next session
 
-1. **Re-probe DeepSeek** first thing: `python researchbot.py --list-models`. If V4 vision shipped, drop `--prepare-only` and run inline with `--model <new-id>`.
-2. **Drain the 7 in queue, then refill:**
-   ```powershell
-   python bbl_queue.py --with-qty --limit 25 --game "Magic: The Gathering"
-   # ...fan out bbl-researcher subagents on those paths...
-   python researchbot.py --prepare-only --limit 300 --game "Magic: The Gathering"
-   python bbl_queue.py --count
-   # ...repeat fan-out...
-   ```
-3. **Recommended next moves**, in priority order:
-   - Push past 100 enriched MTG cards (currently 78) to unlock lair architect work — that's the threshold where `available = quantity - held_for_lair` queries start returning interesting candidate manifests.
-   - Start Pokémon enrichment — same flow, `--game Pokemon`. Path wired, not yet exercised.
-   - Dragon Ball Super image-source strategy (no Scryfall equivalent). Highest-unit game in inventory.
-   - Push to GitHub once Alex creates `degenai/bulk-graph-bundler` (or installs `gh`).
-   - Optional cleanup: rename `researchbot.py` → `sourcebot.py` (or similar) as a clean rename commit.
-   - Optional: triage the manual-review queue (currently 47+ cards flagged `needs_manual_review: true`) — many have a cached image and a low-confidence URL. A small reviewer script could let Alex eyeball each and either approve (set `reference_image` + `art_match_confidence: high`) or reject.
+1. **Re-probe DeepSeek** first: `python researchbot.py --list-models`.
+2. **Drain the 52 in queue:** `python bbl_queue.py --with-qty --limit 25` then fan out subagents. Batch through the queue in chunks of ~15. Should clear the 52 in 3-4 rounds.
+3. **Stand up lair architect.** With 100 enriched cards and ~50 hub tags appearing 2+ times, the `available = quantity - held_for_lair` math finally has enough surface to produce real candidate manifests. This is the next-phase work and the unlock the whole project has been pointing at.
+4. **Fix researchbot non-idempotency** — currently re-running `--prepare-only` can downgrade an already-prepared card. Add a guard: if `art_match_confidence: high` is already set and `reference_image` points to an on-disk file, skip the lookup entirely.
+5. **Recommended remaining moves** (lower priority):
+   - Pokémon enrichment first run.
+   - Dragon Ball Super image-source strategy.
+   - Push to GitHub.
+   - Rename `researchbot.py` → `sourcebot.py`.
+   - Manual-review triage script.
 
 ### Curation rules locked in this project's memory
 

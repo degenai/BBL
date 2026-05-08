@@ -21,6 +21,7 @@ last_seen: 2026-05-07
 art_match_confidence: none
 needs_manual_review: true
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
+reference_image_source_url: https://cards.scryfall.io/png/front/e/8/e8c9ada9-ea25-4a96-a4be-e4cf8f7a014f.png?1581479856
 ---
 
 # Lampad of Death's Vigil (Theros Beyond Death)

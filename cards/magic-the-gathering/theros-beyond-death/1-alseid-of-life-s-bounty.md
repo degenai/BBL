@@ -21,6 +21,7 @@ last_seen: 2026-05-07
 art_match_confidence: none
 needs_manual_review: true
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
+reference_image_source_url: https://cards.scryfall.io/png/front/3/6/36c8c075-9597-412e-9fc4-9d73b4405d12.png?1581478926
 ---
 
 # Alseid of Life's Bounty (Theros Beyond Death)

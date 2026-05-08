@@ -10,29 +10,39 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
-reference_image: 
+tags_hub: ["ranger", "archer", "bow", "arrow", "hunter", "forest", "ambush", "stealth", "tree", "red-hair", "wilderness", "scout"]
+tags_filter: ["solo", "mid-shot", "faces-left", "scene-mode", "female-figure", "action-pose", "green-magic", "instant", "combat-trick", "hexproof"]
+reference_image: images/magic-the-gathering/core-set-2021/199-ranger-s-guile.png
 average_cost_paid: 0
 market_price: 0.24
 market_price_as_of: 2026-05-07
 date_added: 2026-05-06
 last_seen: 2026-05-07
-art_match_confidence: none
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
+reference_image_source_url: https://cards.scryfall.io/png/front/0/2/02392840-f0c4-462e-84ce-9a7cdd9f5efb.png?1594737163
+mood: action
+time_of_day: indeterminate
+setting: forest
 ---
 
 # Ranger's Guile (Core Set 2021)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![[199-ranger-s-guile.png]]
 
+A lean ranger with long flowing red hair leans out from behind a mossy tree trunk, bow fully drawn at chest level with an arrow nocked and aimed forward. The figure wears layered earth-toned cloth and leather: a sleeveless tunic, wrapped forearms, and loose pants tucked into boots. A quiver is slung at the back. The pose is taut, predatory, mid-ambush. The forest around them is dense and gloomy — bare branches, dappled grey-green light filtering through canopy, broken twigs and undergrowth. The palette is muted greens, browns, and ash-grey, with the ranger's red hair as the only warm accent. Lighting is overcast and diffuse, suggesting a shaded woodland under a hidden sun.
 
-**Subject:** 
+**Subject:** A red-haired human ranger in leather and cloth garb crouches behind a tree, bow drawn with arrow nocked, peering forward through the forest with sharp focus.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: left
+**Setting:** forest, indeterminate, calm
+**Foreground:** ranger crouched behind a tree trunk, bow drawn with arrow nocked  *(palette: red, brown, tan, leather, olive)*
+**Background:** dense temperate forest with bare branches and dappled light  *(palette: forest-green, grey-green, brown, ash-grey)*
+**Mood / lighting:** action, ambient
+**Emotion read:** focused, predatory concentration; mid-ambush stillness
+**Objects:** bow, arrow, quiver, tree-trunk
+**Genre cues:** fantasy, high-fantasy
 

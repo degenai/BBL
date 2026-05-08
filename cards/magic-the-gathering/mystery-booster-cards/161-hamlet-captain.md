@@ -21,6 +21,7 @@ last_seen: 2026-05-07
 art_match_confidence: none
 needs_manual_review: true
 manual_review_reason: No reference image found via scryfall for set 'Mystery Booster Cards'
+reference_image_source_url: https://cards.scryfall.io/png/front/0/6/06e5d76a-0cec-40e0-b694-2b5c8484f6c0.png?1736468348
 ---
 
 # Hamlet Captain (Mystery Booster Cards)

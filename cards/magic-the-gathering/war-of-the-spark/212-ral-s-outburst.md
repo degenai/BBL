@@ -12,23 +12,21 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: images/magic-the-gathering/war-of-the-spark/212-ral-s-outburst.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-07
 date_added: 2026-05-06
 last_seen: 2026-05-07
 reference_image_source_url: https://cards.scryfall.io/png/front/6/b/6be3dd3e-50d2-4729-9caa-b2cd984f4c97.png?1557577237
-art_match_confidence: low
+art_match_confidence: none
 needs_manual_review: true
-manual_review_reason: Set 'War of the Spark' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+manual_review_reason: No reference image found via scryfall for set 'War of the Spark'
 ---
 
 # Ral's Outburst (War of the Spark)
 
 ## Vision
-
-![[212-ral-s-outburst.png]]
 
 > ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
