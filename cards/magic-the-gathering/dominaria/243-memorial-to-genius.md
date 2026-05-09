@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["memorial", "monument", "library", "knowledge", "waterfall", "ruins", "spires", "mist", "landscape", "architecture", "scholarship", "sublime-vista"]
+tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "blue-magic", "land", "card-draw"]
 reference_image: cards/_images/magic-the-gathering/dominaria/243-memorial-to-genius.png
 average_cost_paid: 0
 market_price: 0.23
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/b/9/b97bb62e-45cf-4862-b181-5af463a442b5.png?1562741840
+mood: sublime
+time_of_day: indeterminate
+setting: other
 ---
 
 # Memorial to Genius (Dominaria)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![243-memorial-to-genius](../../_images/magic-the-gathering/dominaria/243-memorial-to-genius.png)
 
+A panoramic vista of a memorial complex perched on a verdant hillside. Tall slender stone spires and arched architecture rise from the grass, suggesting a temple, library, or scholarly monument. In the middle distance a waterfall cascades from cliffs into a hazy valley, with more pale spires visible through the mist beyond. The lighting is soft and overcast, giving the scene a contemplative, melancholy atmosphere. The palette is dominated by mossy greens, cool blue-greys, and pale stone whites. No figures are clearly visible — the architecture itself is the subject, evoking quiet reverence and lost knowledge.
 
-**Subject:** 
+**Subject:** A grand memorial library or scholarly monument set on a green hillside with tall stone spires and arches, overlooking a misty waterfall valley
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, narrative, figures: none, facing: n/a
+**Setting:** other, gothic, indeterminate, fog
+**Foreground:** grassy hillside with tall stone spires, arches, and ruined-looking memorial structures  *(palette: mossy-green, stone-grey, pale-white, earth-brown)*
+**Background:** misty waterfall cascading into a valley with distant pale spires fading into fog  *(palette: fog-blue, soft-grey, mist-white, muted-green)*
+**Mood / lighting:** sublime, soft
+**Emotion read:** contemplative, reverent, melancholy stillness
+**Objects:** stone-spires, arches, memorial, waterfall, monument
+**Iconography:** memorial, scholarly-monument, spires
+**Genre cues:** fantasy, high-fantasy
 

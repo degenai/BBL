@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["arena", "cavern", "altar", "cult", "blood-sport", "underground", "torchlight", "ritual", "gothic-architecture", "pit", "infernal"]
+tags_filter: ["wide-shot", "scene-mode", "no-face", "no-figure-focus", "land", "black-magic", "red-magic", "multicolor-black-red", "landscape-orientation", "deep-perspective", "crowd"]
 reference_image: cards/_images/magic-the-gathering/duel-decks-sorin-vs-tibalt/74-rakdos-carnarium.png
 average_cost_paid: 0
 market_price: 0.44
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/4/2/42bba982-aa07-4dcb-becb-1568021a94fc.png?1592714692
+mood: grim
+time_of_day: indeterminate
+setting: dungeon
 ---
 
 # Rakdos Carnarium (Duel Decks: Sorin vs. Tibalt)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![74-rakdos-carnarium](../../_images/magic-the-gathering/duel-decks-sorin-vs-tibalt/74-rakdos-carnarium.png)
 
+The viewer looks down a long, vaulted stone hall into the depths of a massive underground arena. Tiered terraces and stadium-like rows recede toward a brilliantly lit central focal point — a glowing pillar or altar wreathed in white-hot light at the bottom of the pit. The walls are crusted in red-black masonry, jagged stalactites hang overhead, and small flickering torch-points dot the galleries where shadowy figures gather as a crowd. Everything is washed in deep oxblood reds and infernal oranges, with the architecture suggesting a profane cathedral converted into a blood sport venue. No single figure dominates; the carnarium itself is the subject.
 
-**Subject:** 
+**Subject:** A vast subterranean cavern serving as a Rakdos arena or carnarium — a stepped, blood-soaked stone amphitheater lit by torches and an intense central glow, with crowds of cultists and a focal pillar or altar at its heart
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, scene, figures: crowd, facing: n/a
+**Setting:** dungeon, gothic, indeterminate
+**Foreground:** Stone railings and the lip of the upper terrace, with dark silhouetted spectators flanking the descent into the arena  *(palette: black, oxblood-red, ember-orange)*
+**Background:** Receding tiers of arena seating leading to a brilliant white-orange glowing altar/pillar, vaulted cavern ceiling with stalactites and arched stone ribs  *(palette: crimson, orange, white-hot-yellow, shadow-black)*
+**Mood / lighting:** grim, chiaroscuro
+**Emotion read:** ominous, anticipatory, profane spectacle
+**Objects:** altar, pillar, torches, stone-terraces, stalactites, railings
+**Iconography:** rakdos-cult, blood-altar, pit-arena
+**Genre cues:** fantasy, dark-fantasy, gothic-horror
 

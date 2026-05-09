@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["cyclops", "one-eyed", "giant", "brute", "muscle", "forge", "smoke", "rage", "izzet", "industrial-fantasy", "monster", "humanoid"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "male-figure", "no-background-architecture", "creature-cyclops", "multicolor-blue-red", "blue-magic", "red-magic", "defender", "common"]
 reference_image: cards/_images/magic-the-gathering/dragon-s-maze/87-nivix-cyclops.png
 average_cost_paid: 0
 market_price: 0.08
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/5/d/5d7a0e26-8cd4-4f53-8922-93ca28b1879b.png?1562912248
+mood: action
+time_of_day: indeterminate
+setting: other
 ---
 
 # Nivix Cyclops (Dragon's Maze)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![87-nivix-cyclops](../../_images/magic-the-gathering/dragon-s-maze/87-nivix-cyclops.png)
 
+A hulking cyclops dominates the frame in a tight mid-shot, its single central eye and snarling mouth front and center. The figure's bare chest and shoulders are slabs of dark, ruddy muscle, ringed with what looks like coiled tubing, ribbed armor plating, or arcane harness-gear at the neck and collar. Warm reds, oranges and rust tones pour off the body and the smoky, ember-lit background, with cooler blue highlights catching the edges of the harness — a clear Izzet red/blue palette. The mood is aggressive, industrial, and a little unhinged: this is a brute about to charge through a wall, lit like a forge.
 
-**Subject:** 
+**Subject:** A massive one-eyed cyclops with a heavily muscled torso and broad shoulders, looming in a posture of barely-contained fury. Its single eye glows or stares out from a brutish face set in a grimace, and tubing or ridged plating wraps its neck and chest like industrial harness-work.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** other, indeterminate, smoke
+**Foreground:** muscular cyclops torso and head with single glaring eye, snarling mouth, and ribbed tubing/armor around neck and chest  *(palette: red, rust, orange, burnt-umber, steel-blue)*
+**Background:** smoky, ember-lit haze suggesting a forge or industrial-arcane interior, with diffuse orange glow  *(palette: orange, smoke-gray, ember-red, black)*
+**Mood / lighting:** action, rim
+**Emotion read:** snarling, enraged, aggressive — coiled fury about to break loose
+**Objects:** tubing, harness, armor-plating
+**Creatures:** cyclops
+**Iconography:** single-eye
+**Genre cues:** fantasy, industrial-fantasy, steampunk-adjacent
 
