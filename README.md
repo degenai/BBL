@@ -12,6 +12,7 @@ See also:
 - [`BBL-project-spec.md`](BBL-project-spec.md) — full concept, brand voice, political framing.
 - [`subagents.md`](subagents.md) — the agent roster spec.
 - [`docs/curation-modes.md`](docs/curation-modes.md) — the *forms* a curated bundle can take (haiku set, sonnet set, mood lair, etc.). Forms are part of the pitch — they're what makes "why would I want this curation?" answerable in one sentence.
+- [`docs/sketchbook.md`](docs/sketchbook.md) — catch-all for half-baked concepts and future work that isn't ready to be a milestone yet. Currently sketching: a collection-timeline HTML page that renders the git log as a visual narrative of the curation labor.
 - [`references/`](references/) — visual references for what a well-curated themed binder looks like in practice.
 
 ---
