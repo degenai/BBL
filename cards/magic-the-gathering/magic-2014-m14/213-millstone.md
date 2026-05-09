@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["stone", "millstone", "carved-face", "screaming-face", "ruin", "relic", "ancient", "mountain", "mist", "dust", "grinding", "curse"]
+tags_filter: ["no-figure", "no-face-human", "forward-facing", "mid-shot", "portrait-mode", "artifact", "colorless-magic", "mill", "object-focus"]
 reference_image: cards/_images/magic-the-gathering/magic-2014-m14/213-millstone.png
 average_cost_paid: 0
 market_price: 0.21
@@ -22,18 +22,28 @@ reference_image_source_url: https://cards.scryfall.io/png/front/2/3/23f28acb-8cc
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
+mood: grim
+time_of_day: indeterminate
+setting: mountain
 ---
 
 # Millstone (Magic 2014 (M14))
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![213-millstone](../../_images/magic-the-gathering/magic-2014-m14/213-millstone.png)
 
+A huge cylindrical stone millstone sits on a slab of weathered rock, its front face carved with the tortured visage of an open-mouthed screaming or grimacing figure — eyes hollowed, mouth gaping, the features eroded by time. The stone is mottled gray with patches of darker shading and chips along the edges. Behind it, distant mountains rise into a pale, misty sky, the horizon hazed in cool blue-gray tones. The lighting is flat and ambient, giving the scene a still, weighty atmosphere — an ancient relic of a forgotten purpose, more menacing than utilitarian.
 
-**Subject:** 
+**Subject:** A massive carved stone millstone with a screaming face etched into its front, sitting on a rocky ledge against a hazy mountain landscape
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: none, facing: forward
+**Setting:** mountain, ruined, indeterminate, fog
+**Foreground:** carved stone millstone with screaming face on rocky ledge  *(palette: stone-gray, weathered-charcoal, muted-tan)*
+**Background:** distant misty mountain range under pale overcast sky  *(palette: pale-blue, soft-gray, mist-white)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** agonized scream frozen in stone — silent torment
+**Objects:** millstone, carved-face, stone-slab, boulder
+**Iconography:** screaming-face, carved-stone, millstone
+**Genre cues:** fantasy, dark-fantasy
 

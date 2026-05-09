@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["machine", "flying-machine", "ornithopter", "invention", "wings", "tinkering", "engineering", "clockwork", "aviation", "contraption", "steampunk"]
+tags_filter: ["solo", "no-figure", "mid-shot", "forward-facing", "portrait-mode", "centered-composition", "radial-symmetry", "no-face", "artifact", "creature-thopter", "flying", "colorless"]
 reference_image: cards/_images/magic-the-gathering/magic-2011-m11/211-ornithopter.png
 average_cost_paid: 0
 market_price: 0.29
@@ -22,18 +22,28 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/3/331a0a01-0c1
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
+mood: other
+time_of_day: indeterminate
+setting: other
 ---
 
 # Ornithopter (Magic 2011 (M11))
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![211-ornithopter](../../_images/magic-the-gathering/magic-2011-m11/211-ornithopter.png)
 
+A compact mechanical flying machine dominates the frame: a polished, rivet-studded domed cockpit at center with multiple long, articulated wing-blades radiating outward like the spokes of an opening fan or insect wings. The construction looks hand-built — exposed bolts, braced struts, plated metal — evoking early-aviation prototype rather than sleek modern aircraft. The background is a flat hazy wash of dusty pinks and reds, suggesting a smoky or dust-laden sky with no distinct horizon, which throws the silhouette of the device into strong relief. Composition is centered, near-symmetrical, with the wings forming a halo-like radial pattern around the cockpit.
 
-**Subject:** 
+**Subject:** A small mechanical flying contraption — an ornithopter — with a rounded metallic domed cockpit and articulated radial wing-blades fanning out around it, hovering against a hazy red-pink sky
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** other, indeterminate, smoke
+**Foreground:** mechanical ornithopter with domed cockpit and radial articulated wings  *(palette: steel-grey, bronze, rivet-black, dull-silver)*
+**Background:** hazy red-pink atmospheric wash, no horizon  *(palette: dusty-pink, rust-red, warm-haze)*
+**Mood / lighting:** other, ambient
+**Emotion read:** n/a — inanimate machine, but reads as plucky and industrious in silhouette
+**Objects:** ornithopter, rivets, wing-blades, cockpit-dome, struts
+**Iconography:** radial-symmetry, wings
+**Genre cues:** fantasy, steampunk, clockpunk
 

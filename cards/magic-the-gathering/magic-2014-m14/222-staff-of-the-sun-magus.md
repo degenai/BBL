@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["sun", "staff", "weapon", "armor", "gauntlet", "relic", "artifact-object", "knight", "cleric", "ritual", "religion", "light", "holy-symbol"]
+tags_filter: ["solo", "close-up", "portrait-mode", "forward-facing", "no-face", "object-focus", "artifact", "colorless-magic", "lifegain"]
 reference_image: cards/_images/magic-the-gathering/magic-2014-m14/222-staff-of-the-sun-magus.png
 average_cost_paid: 0
 market_price: 0.16
@@ -22,18 +22,28 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/0/90a1f830-d19
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
+mood: sublime
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Staff of the Sun Magus (Magic 2014 (M14))
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![222-staff-of-the-sun-magus](../../_images/magic-the-gathering/magic-2014-m14/222-staff-of-the-sun-magus.png)
 
+A heavy ceremonial staff fills the frame vertically, its head crowned by a stylized sunburst with pointed rays radiating outward, a small jewel or sphere set at the center. The shaft is wrapped or banded near the grip, and an armored gauntlet — articulated steel plate with riveted finger segments — clutches the staff firmly. The background is a muted, blurred stone interior with vague suggestions of pillars or a hall, rendered in cool desaturated grays and browns. Light catches the metal of the staff head and the gauntlet's knuckles, creating a quiet, reverent metallic gleam against the soft architectural backdrop.
 
-**Subject:** 
+**Subject:** An ornate ceremonial staff topped with a radiant sun-shaped finial, gripped by a gauntleted armored hand
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** close-up, portrait, figures: solo, facing: forward
+**Setting:** indoor, gothic, indeterminate
+**Foreground:** ornate sun-headed staff held by an armored gauntlet  *(palette: steel-gray, silver, warm-gold-highlight, dark-iron)*
+**Background:** blurred stone interior, possibly a hall or temple  *(palette: muted-gray, cool-brown, dim-tan)*
+**Mood / lighting:** sublime, soft
+**Emotion read:** resolute, ceremonial grip; quiet conviction
+**Objects:** staff, sunburst-finial, gauntlet, armor, jewel
+**Iconography:** sun, sunburst, radiant-star
+**Genre cues:** fantasy, medieval
 

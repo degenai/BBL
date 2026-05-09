@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["statue", "bronze", "animal", "guardian", "shrine", "memorial", "sable", "mustelid", "drapery", "sculpture", "relic"]
+tags_filter: ["solo", "mid-shot", "portrait-mode", "three-quarter", "no-face", "artifact", "creature-sable", "colorless", "no-figure-human", "centered"]
 reference_image: cards/_images/magic-the-gathering/magic-2015-m15/214-bronze-sable.png
 average_cost_paid: 0
 market_price: 0.05
@@ -22,18 +22,29 @@ reference_image_source_url: https://cards.scryfall.io/png/front/e/8/e8ba6d7d-fad
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
+mood: sublime
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Bronze Sable (Magic 2015 (M15))
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![214-bronze-sable](../../_images/magic-the-gathering/magic-2015-m15/214-bronze-sable.png)
 
+A small bronze sculpture of a sable — a sleek, four-legged mustelid creature — stands in three-quarter profile atop a low stone block or plinth. The figure has a long body, pointed snout, and upright pose suggesting watchfulness or readiness. The metallic surface catches warm highlights along the back and flanks, rendered with a polished bronze sheen against a darker recessed background. Behind the statue, deep red drapery or banners hang in heavy folds, framing the artifact and giving the scene the air of a temple alcove or shrine display. The composition is centered and reverent, presenting the object as something venerated rather than active.
 
-**Subject:** 
+**Subject:** A bronze statue of a sable (a slender, weasel-like predatory mammal) standing alert on a stone pedestal, posed as a guardian figure
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: three-quarter
+**Setting:** indoor, indeterminate
+**Foreground:** bronze sable statue on stone pedestal  *(palette: bronze, warm-brown, gold, dark-umber)*
+**Background:** heavy red drapery / banners in shadowed alcove  *(palette: crimson, dark-red, black, shadow)*
+**Mood / lighting:** sublime, rim
+**Emotion read:** watchful, frozen alertness; reverent stillness
+**Objects:** bronze-statue, pedestal, red-drapery, banner
+**Creatures:** sable, mustelid
+**Iconography:** guardian-statue, shrine, memorial
+**Genre cues:** fantasy, classical
 

@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["sliver", "construct", "artifact-creature", "hive", "claws", "blades", "machine", "biomechanical", "smoke", "monster", "predator", "faceless"]
+tags_filter: ["solo", "mid-shot", "faces-left", "portrait-mode", "no-face", "creature-construct", "creature-sliver", "artifact", "colorless-magic"]
 reference_image: cards/_images/magic-the-gathering/magic-2014-m14/218-sliver-construct.png
 average_cost_paid: 0
 market_price: 0.3
@@ -22,18 +22,29 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/1/3129645a-221
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
+mood: grim
+time_of_day: indeterminate
+setting: void
 ---
 
 # Sliver Construct (Magic 2014 (M14))
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![218-sliver-construct](../../_images/magic-the-gathering/magic-2014-m14/218-sliver-construct.png)
 
+A purplish-grey artifact creature crouches against a dark, smoky background. Its silhouette is unmistakably sliver-shaped — a single hooked, eyeless head curving forward from a hunched body, with segmented plates running across its back and long sickle-like claws extended in front. The construct is built of riveted, beaten metal rather than living chitin, giving it a salvaged, machine-cult quality. Light catches the curved blade of its head and the leading edge of its claws, picking the figure out of an almost monochromatic charcoal-and-violet haze. There is no setting beyond ambient smoke and gloom; the figure is the entire composition.
 
-**Subject:** 
+**Subject:** A hunched, insectoid metal construct shaped like a sliver — a clawed, faceless artifact creature with a curved hooked head, segmented chitinous plating, and long blade-like forelimbs
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: left
+**Setting:** void, indeterminate, smoke
+**Foreground:** metallic sliver-shaped construct with hooked head and clawed limbs  *(palette: gunmetal, violet, steel-grey, dull-silver)*
+**Background:** smoky charcoal void with faint violet haze  *(palette: black, charcoal, deep-violet)*
+**Mood / lighting:** grim, rim
+**Emotion read:** menacing, predatory stillness; coiled and ready to strike
+**Objects:** riveted-plating, blade-claws, hooked-head
+**Creatures:** sliver, construct
+**Iconography:** sliver-silhouette, hive-motif
+**Genre cues:** fantasy, dark-fantasy, biomechanical
 
