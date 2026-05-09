@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["kraken", "sea-monster", "tentacles", "ship", "ocean", "shipwreck", "nautical", "monster", "sailing", "deep-sea", "predator", "horror"]
+tags_filter: ["solo", "wide-shot", "scene-mode", "no-figure", "creature-kraken", "blue-magic", "no-face", "narrative-mode"]
 reference_image: cards/_images/magic-the-gathering/commander-streets-of-new-capenna/no-num-nadir-kraken.png
 average_cost_paid: 0
 market_price: 0.39
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/7/9/793f0ac2-39b8-4cb2-aeac-f901bf5bd7ea.png?1673483962
+mood: grim
+time_of_day: indeterminate
+setting: ocean
 ---
 
 # Nadir Kraken (Commander: Streets of New Capenna)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![no-num-nadir-kraken](../../_images/magic-the-gathering/commander-streets-of-new-capenna/no-num-nadir-kraken.png)
 
+A small wooden sailing ship with white sails sits at center, dwarfed by enormous red-orange suckered tentacles rising from a slate-gray sea on either side. The tentacles curl menacingly inward, framing the doomed vessel. The water is rough, churning around the base of the tentacles, and the horizon is heavy with low pale-gray cloud cover. The palette is desaturated blue-gray with vivid red-orange tentacles as the only warm accent, evoking the inky-cold feeling of being attacked by something far larger than your boat.
 
-**Subject:** 
+**Subject:** A massive kraken's red-orange tentacles emerging from a churning gray sea to engulf a small wooden sailing ship
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, narrative, figures: solo, facing: forward
+**Setting:** ocean, indeterminate, calm
+**Foreground:** Red-orange suckered kraken tentacles flanking a small sailing ship on the open sea  *(palette: red-orange, rust, white, gray-blue, brown)*
+**Background:** Open ocean with low cloud cover and a pale gray horizon  *(palette: pale-gray, slate-blue, white, muted-cyan)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** menace, doom, helplessness of the tiny ship against the enormous predator
+**Objects:** sailing-ship, sails, mast, tentacles, suckers
+**Creatures:** kraken, tentacle-monster, sea-monster
+**Genre cues:** fantasy, nautical, horror
 

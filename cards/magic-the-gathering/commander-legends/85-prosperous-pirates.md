@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["pirate", "treasure", "gold", "ship", "sailor", "ocean", "swashbuckler", "human-figure", "bearded-figure", "loot", "high-seas", "crew"]
+tags_filter: ["duo", "mid-shot", "three-quarter", "male-figure", "blue-magic", "creature-human", "creature-pirate", "outdoor"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/85-prosperous-pirates.png
 average_cost_paid: 0
 market_price: 0.25
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/5/d/5d778bde-f927-419e-8052-6230562bdedd.png?1608909355
+mood: other
+time_of_day: day
+setting: ocean
 ---
 
 # Prosperous Pirates (Commander Legends)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![85-prosperous-pirates](../../_images/magic-the-gathering/commander-legends/85-prosperous-pirates.png)
 
+A bearded human pirate dominates the foreground, wearing a black tricorn hat and a weathered red-brown coat over a rough tunic. He holds up a handful of gold coins or treasure with a satisfied, mercantile expression. A second pirate companion stands close behind him, partially obscured. The setting is the deck of a sailing ship: thick rigging ropes, taut canvas sails, and wooden masts crowd the upper portion of the frame. The palette is sun-bleached warm browns, dusty reds, and tarnished gold against a hazy blue sky. Lighting is bright and ambient, suggesting an open-sea daytime scene with the spoils of a successful raid in hand.
 
-**Subject:** 
+**Subject:** Two human pirates aboard a ship's deck, the lead figure a bearded man in tricorn hat and weathered coat displaying recovered treasure
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, narrative, figures: duo, facing: three-quarter
+**Setting:** ocean, day, clear
+**Foreground:** bearded human pirate in tricorn hat displaying gold coins, second pirate companion close behind  *(palette: red-brown, black, tarnished-gold, tan, weathered-leather)*
+**Background:** ship's rigging, sails, masts under hazy blue sky  *(palette: sky-blue, off-white-canvas, rope-tan, weathered-wood-brown)*
+**Mood / lighting:** other, ambient
+**Emotion read:** satisfied, conspiratorial, the pleased look of a raider counting his haul
+**Objects:** gold-coins, treasure, tricorn-hat, rigging, sails, ship-deck, rope
+**Iconography:** gold, treasure, tricorn-hat, sailing-ship
+**Genre cues:** fantasy, high-seas-adventure, swashbuckler
 

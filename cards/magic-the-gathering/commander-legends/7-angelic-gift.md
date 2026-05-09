@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["wings", "angel", "ascension", "robed-figure", "light", "feathers", "blessing", "divine", "sky", "gift", "faith", "radiance"]
+tags_filter: ["solo", "mid-shot", "facing-away", "no-face", "narrative-mode", "white-magic", "enchantment", "aura", "flying", "card-draw"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/7-angelic-gift.png
 average_cost_paid: 0
 market_price: 0.13
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/d/b/db0775f2-3fd9-42aa-80e3-edac67764fa2.png?1612228525
+mood: sublime
+time_of_day: magic-hour
+setting: other
 ---
 
 # Angelic Gift (Commander Legends)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![7-angelic-gift](../../_images/magic-the-gathering/commander-legends/7-angelic-gift.png)
 
+A figure clad in flowing pale robes is rendered from behind, arms partially raised, with massive white feathered wings spread wide across the frame. The wings catch a brilliant golden light pouring down from above, leaving the figure's silhouette mostly in soft shadow against a luminous sky. The composition is vertical and uplifting — the figure appears to be rising or being lifted, framed by the cascade of feathers and rays of warm light. The palette is dominated by creamy whites, pale gold, and soft sepia tones, giving the image an ethereal, devotional quality.
 
-**Subject:** 
+**Subject:** A robed humanoid figure with enormous outstretched white feathered wings, viewed from behind as they ascend toward a radiant light
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, narrative, figures: solo, facing: away
+**Setting:** other, magic-hour, clear
+**Foreground:** robed winged figure with arms raised, feathered wings spread wide  *(palette: cream-white, pale-gold, soft-shadow, off-white)*
+**Background:** luminous sky with golden rays of light pouring down from above  *(palette: pale-gold, warm-white, sepia, amber)*
+**Mood / lighting:** sublime, backlit
+**Emotion read:** reverent, transcendent, surrendered to a higher light
+**Objects:** flowing-robes
+**Iconography:** wings, halo-light, ascension, rays-of-light
+**Genre cues:** fantasy, religious, devotional
 
