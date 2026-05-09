@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["alchemist", "potion", "hooded-figure", "apothecary", "herbs", "poison", "gift", "workshop", "glass-vial", "ritual", "occult", "green-glow"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "female-figure", "black-magic", "instant", "indoor-scene", "scene-mode"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/87-alchemist-s-gift.png
 average_cost_paid: 0
 market_price: 0.27
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/6/e/6e4c9574-1ee3-461e-848f-8f02c6a8b7ee.png?1594735950
+mood: grim
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Alchemist's Gift (Core Set 2021)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![87-alchemist-s-gift](../../_images/magic-the-gathering/core-set-2021/87-alchemist-s-gift.png)
 
+A figure in a dark hood leans forward, peering at a small glass vial pinched between their fingers. The vial glows a sickly luminous green, casting an underlit glow on the figure's face and the surrounding environment. The background is densely packed with hanging herbs, dried plants, and shadowy clutter typical of an apothecary or alchemist's workshop. The palette is dominated by deep blacks, bottle greens, and the bright green spark of the potion itself. Lighting is chiaroscuro — the vial is the sole light source, leaving most of the figure and room in heavy shadow.
 
-**Subject:** 
+**Subject:** A hooded alchemist or potion-maker holding up a small glass vial of glowing green liquid in a dim, herb-strewn workshop
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, narrative, figures: solo, facing: forward
+**Setting:** indoor, indeterminate
+**Foreground:** hooded figure holding up a small glowing green vial  *(palette: black, deep-green, luminous-green, skin-tone)*
+**Background:** dim apothecary workshop with hanging herbs and dried plants  *(palette: black, dark-green, muted-brown)*
+**Mood / lighting:** grim, chiaroscuro
+**Emotion read:** focused, secretive, conspiratorial — examining the potion with quiet intensity
+**Objects:** glass-vial, potion, hanging-herbs, dried-plants
+**Food/drink:** potion
+**Iconography:** glowing-vial, hood
+**Genre cues:** fantasy, gothic, occult
 

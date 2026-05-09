@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["graveyard", "ruins", "memorial", "fog", "monument", "stone", "death", "abandoned-place", "obelisk", "gothic", "mourning", "wasteland"]
+tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "black-magic", "landscape"]
 reference_image: cards/_images/magic-the-gathering/dominaria/242-memorial-to-folly.png
 average_cost_paid: 0
 market_price: 0.23
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/e/b/ebbe56f2-aec5-4e8b-8003-1bf1ca7f5659.png?1562744964
+mood: grim
+time_of_day: indeterminate
+setting: other
 ---
 
 # Memorial to Folly (Dominaria)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![242-memorial-to-folly](../../_images/magic-the-gathering/dominaria/242-memorial-to-folly.png)
 
+A desolate graveyard or memorial field rendered in muted grays and browns. A large, weathered stone slab or broken obelisk leans in the foreground, its surface pitted and cracked. Behind it, more ruined monuments and pillars rise in silhouette, dissolving into a heavy mist that flattens the depth. The ground appears bare and trampled, with no figures present. The overall palette is overcast and ashen, with no sky visible — just a uniform fog. Light is diffuse and ambient, casting soft shadows that emphasize age and abandonment.
 
-**Subject:** 
+**Subject:** A field of weathered, broken stone monuments and grave markers shrouded in mist; the foreground holds a tilted, cracked obelisk or memorial slab, with more crumbling pillars and ruined statues fading into a gray fog behind it
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, narrative, figures: none, facing: n/a
+**Setting:** other, ruined, indeterminate, fog
+**Foreground:** tilted, cracked stone memorial slab or broken obelisk with weathered surface  *(palette: stone-gray, weathered-brown, ash)*
+**Background:** field of crumbling pillars and ruined monuments fading into thick gray mist  *(palette: fog-gray, pale-gray, muted-taupe)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** abandoned, mournful, still
+**Objects:** obelisk, memorial-slab, broken-pillars, ruined-statues, grave-markers
+**Iconography:** memorial, ruin, grave
+**Genre cues:** fantasy, gothic
 

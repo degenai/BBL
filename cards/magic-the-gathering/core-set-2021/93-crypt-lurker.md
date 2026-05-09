@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["crypt", "tomb", "ghoul", "undead", "horror", "shadow", "darkness", "skeleton", "lurking", "catacomb", "glowing-eyes", "ruins"]
+tags_filter: ["solo", "forward-facing", "scene-mode", "creature-horror", "black-magic", "no-face", "wide-shot"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/93-crypt-lurker.png
 average_cost_paid: 0
 market_price: 0.08
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/c/0/c0bba170-5176-4fab-a10d-e23d70128875.png?1594736052
+mood: horror
+time_of_day: night
+setting: dungeon
 ---
 
 # Crypt Lurker (Core Set 2021)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![93-crypt-lurker](../../_images/magic-the-gathering/core-set-2021/93-crypt-lurker.png)
 
+A gaunt, skeletal humanoid horror crouches in near-total darkness within what appears to be an arched stone crypt or catacomb passage. Only fragments of the creature's form are visible — a hunched silhouette, ribs and bony limbs picked out by faint rim lighting, and a pair of pale glowing eyes catching the light. The setting is heavily shadowed with cool blue-black tones dominating, broken only by a sliver of warm light from above suggesting a distant opening or torchlight. Cracked stonework and arched masonry frame the scene, reinforcing the underground tomb atmosphere. The composition is dominated by negative space and oppressive blackness.
 
-**Subject:** 
+**Subject:** A hunched, emaciated horror creature crouched in the shadows of a stone crypt or catacomb, with glowing pale eyes peering out from the darkness
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** scene, narrative, figures: solo, facing: forward
+**Setting:** dungeon, ruined, night
+**Foreground:** Crouching gaunt horror creature with glowing eyes in deep shadow  *(palette: black, charcoal, bone-white, pale-yellow)*
+**Background:** Stone crypt arch with cracked masonry, dim ambient light from above  *(palette: black, deep-blue, slate-gray, muted-brown)*
+**Mood / lighting:** horror, chiaroscuro
+**Emotion read:** predatory, lurking, hungry — coiled in ambush
+**Objects:** stone-arch, cracked-masonry, tomb
+**Creatures:** horror, ghoul, undead
+**Iconography:** glowing-eyes
+**Genre cues:** fantasy, horror, gothic
 
