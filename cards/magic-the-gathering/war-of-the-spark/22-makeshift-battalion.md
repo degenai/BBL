@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["battle", "charge", "soldier", "warband", "blade", "shout", "battlefield", "improvised-gear", "comrades", "militia", "war", "running"]
+tags_filter: ["group", "3-figures", "mid-shot", "faces-right", "action-mode", "scene-mode", "white-magic", "creature-human", "creature-soldier", "shirtless", "weapon-melee"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/22-makeshift-battalion.png
 average_cost_paid: 0
 market_price: 0.06
@@ -22,18 +22,27 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/8/2/82293d58-d3b4-4cf6-8a16-32ae3e509696.png?1557576006
+mood: action
+time_of_day: indeterminate
+setting: other
 ---
 
 # Makeshift Battalion (War of the Spark)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![22-makeshift-battalion](../../_images/magic-the-gathering/war-of-the-spark/22-makeshift-battalion.png)
 
+Three figures advance in a wedge formation across an open battlefield. The lead figure is shirtless, mouth open in a battle cry, raising a curved sword high in one hand. Two companions trail close behind, also bearing weapons and lunging forward. Their gear looks mismatched and improvised — strapped pieces, simple cloth, no uniform armor — fitting the 'makeshift' framing. The palette is warm and dusty: ochre and tan ground, muted earth tones on the figures, with a dim sky behind. Motion lines and posture push the eye forward and to the right.
 
-**Subject:** 
+**Subject:** A bare-chested figure in the foreground brandishing a curved blade overhead, with two more armed figures behind, charging forward together as a small irregular squad
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: group, facing: right
+**Setting:** other, indeterminate, calm
+**Foreground:** lead figure mid-charge with raised curved blade, mouth open in shout  *(palette: tan, ochre, muted-red, skin-tone)*
+**Background:** open dusty battlefield with two more advancing figures and a low hazy horizon  *(palette: dust-brown, muted-tan, grey-sky)*
+**Mood / lighting:** action, ambient
+**Emotion read:** fierce, shouting, committed forward momentum
+**Objects:** curved-blade, sword, improvised-weapon, strap, cloth-wrap
+**Genre cues:** fantasy
 

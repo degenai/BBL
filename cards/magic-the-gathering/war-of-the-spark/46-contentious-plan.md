@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["scheming", "planning", "conspiracy", "robed-figure", "scrolls", "blueprints", "war-room", "strategy", "arcane-light", "study", "scholar", "night"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "no-face", "indoor", "blue-magic", "sorcery", "proliferate", "card-draw"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/46-contentious-plan.png
 average_cost_paid: 0
 market_price: 0.4
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/8/e/8e30deb6-9e1f-4545-ae30-c30ba6c7b3a0.png?1636491537
+mood: grim
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Contentious Plan (War of the Spark)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![46-contentious-plan](../../_images/magic-the-gathering/war-of-the-spark/46-contentious-plan.png)
 
+A dim interior chamber dominated by a long planning table strewn with unfurled scrolls, parchments, and architectural or strategic blueprints. A robed, hooded figure leans over the table from the far side, head bowed in concentration as they study the documents. A bright pool of cyan-blue magical light radiates upward from the plans themselves, casting hard rim-light on the figure's hood and shoulders and washing the room in cold tones. The composition is mid-range with strong overhead foreshortening on the table, giving a sense of conspiracy or strategic deliberation. The architecture suggests a stone war-room or council chamber, with edges fading to blue-black shadow.
 
-**Subject:** 
+**Subject:** A robed figure hunched over a war-room desk covered in unfurled blueprints, scrolls, and schematics, illuminated from below by glowing blue arcane light rising off the plans
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, narrative, figures: solo, facing: forward
+**Setting:** indoor, indeterminate
+**Foreground:** scattered blueprints, scrolls, and parchments on a long wooden planning table, glowing blue from within  *(palette: cyan, pale-blue, parchment-tan, warm-brown)*
+**Background:** dim stone chamber walls receding into deep blue-black shadow  *(palette: midnight-blue, black, indigo)*
+**Mood / lighting:** grim, rim
+**Emotion read:** focused, scheming, deep concentration
+**Objects:** blueprints, scrolls, parchments, planning-table, schematics, documents
+**Iconography:** scroll, blueprint, arcane-glow
+**Genre cues:** fantasy, high-fantasy, arcane
 
