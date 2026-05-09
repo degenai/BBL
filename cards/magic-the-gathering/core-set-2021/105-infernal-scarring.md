@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["scars", "curse", "demonic-pact", "ritual", "fire", "embers", "warrior", "shirtless-figure", "fighting-stance", "branded", "darkness", "sacrifice"]
+tags_filter: ["solo", "mid-shot", "faces-away", "portrait-mode", "male-figure", "no-face", "black-magic", "enchantment", "aura"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/105-infernal-scarring.png
 average_cost_paid: 0
 market_price: 0.06
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/9/7/975e4b8e-add9-439c-9463-e2facee96c10.png?1594736195
+mood: grim
+time_of_day: indeterminate
+setting: void
 ---
 
 # Infernal Scarring (Core Set 2021)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![105-infernal-scarring](../../_images/magic-the-gathering/core-set-2021/105-infernal-scarring.png)
 
+A muscular bare-chested figure crouches in a wide low fighting stance, viewed from behind and slightly above. Their back, shoulders, and arms are etched with glowing red-orange demonic scars or brand-marks that smolder against dark skin. The hair is pulled back in a tight knot. Loose dark trousers fall over bent knees. The figure is rendered against a near-black void with faint embers or sparks suggesting heat radiating from the wounds. Lighting is harsh and rim-lit from the glow of the scars themselves, casting the body in chiaroscuro.
 
-**Subject:** 
+**Subject:** Bare-chested figure in a low fighting stance, back marked with glowing demonic scars or sigils
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: away
+**Setting:** void, indeterminate
+**Foreground:** scarred crouching figure with glowing red brand-marks across the back  *(palette: black, deep brown, ember orange, blood red, skin tone)*
+**Background:** near-black void with faint embers and ambient red glow  *(palette: black, charcoal, dim red)*
+**Mood / lighting:** grim, chiaroscuro
+**Emotion read:** tensed, coiled aggression; readiness for violence
+**Objects:** glowing brand-marks, embers
+**Iconography:** demonic-sigils, scars, brand-marks
+**Genre cues:** fantasy, dark-fantasy, horror
 

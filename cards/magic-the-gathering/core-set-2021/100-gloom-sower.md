@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["horror", "shadow", "smoke", "storm", "giant", "darkness", "despair", "dread", "wasteland", "looming-figure", "monster", "nightmare"]
+tags_filter: ["solo", "wide-shot", "scene-mode", "no-face", "forward-facing", "creature-horror", "black-magic", "monochrome-palette"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/100-gloom-sower.png
 average_cost_paid: 0
 market_price: 0.13
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/a/1/a1b4f7ec-ea2e-4d90-98cd-0c92bd9f64c1.png?1594736141
+mood: grim
+time_of_day: indeterminate
+setting: other
 ---
 
 # Gloom Sower (Core Set 2021)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![100-gloom-sower](../../_images/magic-the-gathering/core-set-2021/100-gloom-sower.png)
 
+A colossal shadowy horror dominates the frame, its body composed of churning black-grey smoke or storm-cloud matter rising into a tempestuous sky. The silhouette suggests a hunched, broad-shouldered creature with looming head and indistinct limbs that bleed into the swirling atmosphere around it. Faint suggestions of branches or skeletal arms reach upward. The lower foreground is a barren, dim landscape — possibly a blasted moor or scorched earth — with no visible figures opposing the entity. The palette is almost entirely monochromatic blacks, greys, and dusky charcoal with only a hint of muted violet in the upper sky. Lighting is diffuse and overcast, with a chiaroscuro effect making the horror read more as a hole in the world than a solid body.
 
-**Subject:** 
+**Subject:** A massive, towering horror with a vaguely humanoid silhouette wreathed in dark roiling smoke or storm clouds, looming over a desolate landscape under a stormy sky
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, narrative, figures: solo, facing: forward
+**Setting:** other, indeterminate, storm
+**Foreground:** barren blackened ground or moor  *(palette: black, charcoal, ash-grey)*
+**Background:** stormy roiling sky with churning dark clouds  *(palette: dark-grey, black, muted-violet, slate)*
+**Mood / lighting:** grim, chiaroscuro
+**Emotion read:** menace, oppressive dread, overwhelming presence
+**Creatures:** shadow-horror, smoke-giant
+**Iconography:** looming-silhouette, storm-clouds
+**Genre cues:** fantasy, horror, dark-fantasy, gothic
 

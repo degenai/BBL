@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["tavern", "gambler", "coin", "gold", "rogue", "swindler", "smile", "white-hair", "seduction", "hustle", "drinking-establishment", "night-life"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "female-figure", "indoor", "creature-human", "creature-rogue", "black-magic", "coinflip"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/124-tavern-swindler.png
 average_cost_paid: 0
 market_price: 0.17
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/d/0/d00850e4-6be3-4246-ae45-c0e990e6d6e1.png?1594736401
+mood: other
+time_of_day: night
+setting: indoor
 ---
 
 # Tavern Swindler (Core Set 2021)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![124-tavern-swindler](../../_images/magic-the-gathering/core-set-2021/124-tavern-swindler.png)
 
+A confident, pale-skinned woman with long silvery-white hair leans forward across a tavern table in a dimly lit interior. She is dressed in a dark, low-cut bodice with red-pink trim and a high collar, suggesting a Rakdos-flavored rogue or gambler. With a coy, predatory smile she pinches a single gold coin between thumb and forefinger, presenting it to the viewer; a small heap of additional gold coins sits on the wooden table in front of her. The background is a hazy, warm-amber tavern interior with indistinct figures and architecture, lit by a soft glow that frames her like a stage spotlight. The whole composition reads as a moment of seduction-and-hustle — the swindle in progress.
 
-**Subject:** 
+**Subject:** A pale, white-haired woman with an arch, knowing smile leans forward at a wooden tavern table, holding up a gold coin between her fingers as if mid-toss; a stack of coins rests on the table before her.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** indoor, night
+**Foreground:** white-haired woman in dark bodice presenting a gold coin, stack of coins on a wooden tavern table  *(palette: pale-white, silver, black, crimson, gold)*
+**Background:** warm hazy tavern interior with indistinct patrons and a soft amber glow  *(palette: amber, brown, ochre, shadow-black)*
+**Mood / lighting:** other, ambient
+**Emotion read:** coy, knowing, predatory smile; confident body language leaning into the viewer
+**Objects:** gold-coin, coin-stack, wooden-table
+**Iconography:** coin, coin-flip
+**Genre cues:** fantasy, dark-fantasy
 

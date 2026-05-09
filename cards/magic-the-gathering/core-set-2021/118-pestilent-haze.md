@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["plague", "disease", "fog", "miasma", "robed-figure", "hooded-figure", "decay", "death", "wasteland", "shroud", "pestilence", "grim"]
+tags_filter: ["duo", "2-figures", "mid-shot", "three-quarter", "no-clear-face", "scene-mode", "black-magic", "sorcery", "removal"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/118-pestilent-haze.png
 average_cost_paid: 0
 market_price: 0.08
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/0/8/08b78aa8-a63a-4aa2-bb82-3fbf2595ed7c.png?1594736339
+mood: grim
+time_of_day: indeterminate
+setting: other
 ---
 
 # Pestilent Haze (Core Set 2021)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![118-pestilent-haze](../../_images/magic-the-gathering/core-set-2021/118-pestilent-haze.png)
 
+A grim, near-monochrome black-magic scene drenched in sickly fog. Two robed, hooded figures occupy a wasteland of withered ground and dim air; the closer figure turns its cowl-shadowed face back toward the viewer with sunken, hollow features, while the second figure looms further back in the haze. The palette is almost entirely deep umbers, charcoal, and bruised greys, with a faint sickly green-yellow miasma rolling through the lower middle ground. Light is dim and ambient with no clear sun, giving the scene a chiaroscuro feel where only the hoods and gaunt face catch any value. The overall read is plague, decay, dread — bodies wrapped against contagion, the air itself the threat.
 
-**Subject:** 
+**Subject:** Two hooded, robed figures hunched in a darkened, smoky landscape — one in the foreground turning back over its shoulder, the other looming behind, both shrouded against a creeping plague-fog
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, narrative, figures: duo, facing: three-quarter
+**Setting:** other, indeterminate, fog
+**Foreground:** Hooded robed figure turning back over the shoulder, gaunt shadowed face under the cowl  *(palette: charcoal, umber, bone-grey, black)*
+**Background:** Second hooded figure looming through a sickly green-yellow miasma over barren ground  *(palette: sickly-green, muddy-yellow, smoke-grey, black)*
+**Mood / lighting:** grim, chiaroscuro
+**Emotion read:** haunted, resigned dread; furtive backward glance
+**Objects:** hood, robe, cloak
+**Iconography:** hooded-figure, plague-shroud
+**Genre cues:** dark-fantasy, horror, plague
 
