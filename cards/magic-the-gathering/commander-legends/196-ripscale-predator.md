@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["dinosaur", "predator", "hunt", "jungle", "forest", "claws", "teeth", "reptile", "feral", "monster", "leaping", "wild-nature"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "no-face-human", "creature-dinosaur", "red-magic", "monochrome-red", "menace"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/196-ripscale-predator.png
 average_cost_paid: 0
 market_price: 0.08
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/0/0/00924a16-fb85-41a4-bd7a-88f51f728333.png?1608910367
+mood: action
+time_of_day: indeterminate
+setting: forest
 ---
 
 # Ripscale Predator (Commander Legends)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![196-ripscale-predator](../../_images/magic-the-gathering/commander-legends/196-ripscale-predator.png)
 
+A predatory dinosaur — a slender, raptor-like theropod rendered in deep crimson and rust-red tones — bursts forward through a tangle of leaves and branches. Its jaws are wide open, lined with bared teeth, and its forelimb extends with talons splayed toward the viewer. The creature's musculature is taut and visible beneath taut hide; the long tail trails behind for balance. The whole composition is monochromatic red on a paler red-brown background suggesting dappled jungle canopy, lending the piece a hot, fevered, action-driven feel. Lighting is harsh and directional, throwing the creature's silhouette into stark relief.
 
-**Subject:** 
+**Subject:** A lean, sinewy red-scaled theropod dinosaur lunging forward with jaws agape, claws extended, mid-leap through forest foliage
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** forest, indeterminate, calm
+**Foreground:** leaping red theropod dinosaur with open jaws and outstretched claws  *(palette: crimson, rust, blood-red, dark-red)*
+**Background:** blurred red-brown jungle foliage and branches  *(palette: red-brown, ochre, muted-red)*
+**Mood / lighting:** action, harsh
+**Emotion read:** ferocity, hunger, predatory aggression
+**Creatures:** dinosaur, theropod, raptor
+**Iconography:** bared-teeth, claws, lunge
+**Genre cues:** fantasy, prehistoric, pulp
 

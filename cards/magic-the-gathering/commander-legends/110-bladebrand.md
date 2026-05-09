@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["blade", "sword", "fire", "embers", "robed-figure", "silhouette", "ritual", "cruelty", "executioner", "shadow", "smoke", "torture"]
+tags_filter: ["solo", "mid-shot", "three-quarter", "action-mode", "no-face", "black-magic", "instant", "deathtouch", "card-draw"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/110-bladebrand.png
 average_cost_paid: 0
 market_price: 0.18
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/8/9/89fb59ce-7d40-4784-b96d-2d5a25a8e531.png?1677542018
+mood: grim
+time_of_day: indeterminate
+setting: other
 ---
 
 # Bladebrand (Commander Legends)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![110-bladebrand](../../_images/magic-the-gathering/commander-legends/110-bladebrand.png)
 
+A dark, hooded or robed figure occupies the foreground, raising a blade whose edge catches the firelight. The composition is dominated by a churning haze of red, orange, and black — sparks, embers, and smoke fill the background, suggesting either a forge, a burning battlefield, or a hellish sky. The lighting is harsh and chiaroscuro, with the figure rendered in near-silhouette while the surrounding environment radiates infernal heat. The image evokes ritual cruelty and the relish of inflicted pain, matching the flavor text from Judith, the Scourge Diva about searing iron and razor edges.
 
-**Subject:** 
+**Subject:** A robed humanoid figure in the foreground gripping a blade, lit from below by an intense orange-red glow that backlights the silhouette against a fiery, ember-streaked atmosphere
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** other, indeterminate, fire
+**Foreground:** robed figure with raised blade, partially silhouetted  *(palette: black, deep-red, ember-orange)*
+**Background:** fiery haze of embers, smoke, and red-orange light  *(palette: red, orange, black, rust)*
+**Mood / lighting:** grim, chiaroscuro
+**Emotion read:** menacing, deliberate, predatory — the figure savors the moment
+**Objects:** blade, sword, embers, sparks
+**Iconography:** blade, fire, silhouette
+**Genre cues:** fantasy, dark-fantasy, horror
 

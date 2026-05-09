@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["fire", "explosion", "dinosaur", "raptor", "battle", "cannon", "smoke", "destruction", "ambush", "stampede", "war", "embers"]
+tags_filter: ["red-magic", "instant", "no-face", "group", "wide-shot", "scene-mode", "no-figure", "monochrome-red"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/178-fiery-cannonade.png
 average_cost_paid: 0
 market_price: 0.23
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/3/9/396f1cdf-712b-4518-a0e8-0039303dccdc.png?1608910204
+mood: action
+time_of_day: indeterminate
+setting: other
 ---
 
 # Fiery Cannonade (Commander Legends)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![178-fiery-cannonade](../../_images/magic-the-gathering/commander-legends/178-fiery-cannonade.png)
 
+The frame is dominated by a violent eruption of orange-red flame and black smoke at the center, where cannon shot has just impacted a clustered group of feathered raptor-like dinosaurs. Silhouetted creatures rear back and twist away from the blast, jaws open, claws splayed; their dark forms read as scratchy, ink-like cutouts against the inferno. The whole composition is bathed in a hot, monochromatic red-orange palette with deep black accents, giving it the feel of a battlefield illustration scorched onto the card. There is no human figure visible — only the dinosaurs and the explosion they are caught inside.
 
-**Subject:** 
+**Subject:** A volley of cannon fire detonates among a pack of ferocious dinosaurs, throwing up gouts of flame and smoke as the creatures recoil and scatter
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, action, figures: group, facing: n/a
+**Setting:** other, indeterminate, fire
+**Foreground:** raptor-like dinosaurs caught mid-recoil in the blast  *(palette: black, charcoal, deep-red)*
+**Background:** billowing flame, smoke columns, embers  *(palette: fire-orange, ember-red, smoke-black)*
+**Mood / lighting:** action, backlit
+**Emotion read:** panic, ferocity, recoil
+**Objects:** cannon-shot, embers, smoke
+**Creatures:** dinosaur, raptor, feathered-dinosaur
+**Iconography:** explosion, fire-cloud
+**Genre cues:** fantasy, pulp-adventure
 

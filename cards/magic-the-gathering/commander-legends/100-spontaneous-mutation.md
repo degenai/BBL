@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["tentacles", "tendrils", "mutation", "transformation", "body-horror", "corruption", "void", "darkness", "abstract-art", "parasite", "cosmic-horror", "metamorphosis"]
+tags_filter: ["enchantment", "aura", "blue-magic", "no-figure", "no-face", "abstract-mode", "close-up", "flash"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/100-spontaneous-mutation.png
 average_cost_paid: 0
 market_price: 0.08
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/6/9/6919154c-154e-4430-b7fd-ab9fe70326dc.png?1608909494
+mood: horror
+time_of_day: indeterminate
+setting: void
 ---
 
 # Spontaneous Mutation (Commander Legends)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![100-spontaneous-mutation](../../_images/magic-the-gathering/commander-legends/100-spontaneous-mutation.png)
 
+An abstract, body-horror-tinged composition: a tangle of slick dark blue and black tendrils coils and twists across the frame, emerging from an inky void. The tendrils have a wet, organic, snake-like quality, with subtle highlights suggesting slime or moisture. There is no visible figure, face, or environmental anchor — the entire image is given over to the writhing forms against a gradient of midnight blue darkness. The mood is unsettling and transformative, evoking parasitic invasion or grotesque metamorphosis.
 
-**Subject:** 
+**Subject:** A writhing mass of dark tendrils or tentacles emerging from a deep blue void, suggesting mutation or corruption taking hold
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** close-up, abstract, figures: none, facing: n/a
+**Setting:** void, indeterminate
+**Foreground:** writhing dark tendrils / tentacles, slick and organic  *(palette: midnight-blue, black, indigo, deep-teal)*
+**Background:** deep blue-black void, indistinct  *(palette: midnight-blue, black, navy)*
+**Mood / lighting:** horror, chiaroscuro
+**Emotion read:** ominous, invasive, claustrophobic
+**Creatures:** tendrils, tentacles
+**Iconography:** tendrils, writhing-mass
+**Genre cues:** fantasy, body-horror, cosmic-horror
 
