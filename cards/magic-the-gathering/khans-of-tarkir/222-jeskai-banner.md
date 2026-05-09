@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["banner", "flag", "mountain", "monastery", "heraldry", "emblem", "sigil", "high-altitude", "snow", "peaks", "wind", "wuxia", "discipline", "order"]
+tags_filter: ["no-figure", "scene-mode", "mid-shot", "artifact", "multicolor-blue-red-white", "blue-magic", "red-magic", "white-magic", "mana-rock", "draw-spell"]
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/222-jeskai-banner.png
 average_cost_paid: 0
 market_price: 0.12
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/6/8/684dc050-a66b-4364-9880-56f383db6c0a.png?1562787889
+mood: peaceful
+time_of_day: day
+setting: mountain
 ---
 
 # Jeskai Banner (Khans of Tarkir)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![222-jeskai-banner](../../_images/magic-the-gathering/khans-of-tarkir/222-jeskai-banner.png)
 
+A crimson banner emblazoned with a stylized white emblem snaps in the wind atop a tall pole. Below it, the curved orange dome of a monastery roof catches the light. Snow-dusted mountain peaks rise in the hazy blue-grey distance, suggesting high altitude and clear cold air. The composition is quiet and contemplative — no figures, just the banner as standard-bearer of an order. Painted in a soft, atmospheric style with cool background tones contrasted by the warm reds and oranges of the foreground.
 
-**Subject:** 
+**Subject:** A red Jeskai banner flying from a pole atop a mountain monastery, with an orange dome and snow-capped peaks behind
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, narrative, figures: none, facing: n/a
+**Setting:** mountain, organic, day, clear
+**Foreground:** red banner on pole, orange monastery dome  *(palette: crimson, orange, white, warm-brown)*
+**Background:** snow-capped mountain peaks under hazy sky  *(palette: pale-blue, grey, white, soft-purple)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** stoic, watchful, disciplined calm
+**Objects:** banner, flag, flagpole, monastery, dome, rope
+**Iconography:** jeskai-emblem, white-sigil-on-red, heraldic-banner
+**Genre cues:** fantasy, wuxia, asian-inspired
 

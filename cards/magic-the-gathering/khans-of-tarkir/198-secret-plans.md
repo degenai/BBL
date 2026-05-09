@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["rakshasa", "tiger", "demon", "cat", "fire", "flames", "fangs", "smoke", "embers", "predator", "secrets", "shadow"]
+tags_filter: ["solo", "close-up", "portrait-mode", "forward-facing", "no-human", "creature-only", "enchantment", "multicolor-blue-black", "blue-magic", "black-magic", "morph-matters"]
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/198-secret-plans.png
 average_cost_paid: 0
 market_price: 0.17
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/0/1/01589046-a969-400f-b4ac-90cbbb814504.png?1562781791
+mood: grim
+time_of_day: indeterminate
+setting: void
 ---
 
 # Secret Plans (Khans of Tarkir)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![198-secret-plans](../../_images/magic-the-gathering/khans-of-tarkir/198-secret-plans.png)
 
+A close-up of a feral rakshasa head bursts forward through coiling fire and ember-laden smoke. The beast's striped tiger-like face is twisted into a snarl, exposing long curved fangs in a wide-open jaw. Its eyes glow pale yellow-white against deep shadow, and tufts of dark fur and whiskers frame the muzzle. Orange flames and floating sparks fill the lower half of the frame, while the upper background dissolves into murky brown-black smoke. The composition is tight, predatory, and menacing, with chiaroscuro lighting carved by the firelight from below.
 
-**Subject:** 
+**Subject:** A snarling rakshasa — a demonic tiger-headed creature — emerging from swirling flames and smoke, fangs bared and eyes glowing
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** close-up, portrait, figures: solo, facing: forward
+**Setting:** void, indeterminate, fire
+**Foreground:** snarling rakshasa head with bared fangs surrounded by flame  *(palette: orange, amber, black, ivory, ember-red)*
+**Background:** smoke and embers fading into dark brown-black void  *(palette: dark-brown, black, ember-orange, smoke-gray)*
+**Mood / lighting:** grim, chiaroscuro
+**Emotion read:** snarling, predatory, menacing — open-mouthed aggression
+**Objects:** flames, embers, smoke
+**Creatures:** rakshasa, tiger, demon, cat
+**Iconography:** fangs, fire, glowing-eyes
+**Genre cues:** fantasy, dark-fantasy
 

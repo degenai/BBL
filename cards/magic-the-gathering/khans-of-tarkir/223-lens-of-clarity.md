@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["hands", "orb", "scrying", "divination", "magical-artifact", "glow", "ritual", "prophecy", "vision", "gold", "light", "mysticism"]
+tags_filter: ["no-face", "close-up", "portrait-mode", "no-figures", "artifact", "colorless-magic", "centered-composition", "warm-palette"]
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/223-lens-of-clarity.png
 average_cost_paid: 0
 market_price: 0.07
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/3/c/3c82e2b8-f0f6-44da-83ee-8a671344ac62.png?1562785174
+mood: sublime
+time_of_day: indeterminate
+setting: void
 ---
 
 # Lens of Clarity (Khans of Tarkir)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![223-lens-of-clarity](../../_images/magic-the-gathering/khans-of-tarkir/223-lens-of-clarity.png)
 
+Two large, gnarled hands rise from the lower edge of the frame to cup a luminous, swirling orb at center. The orb churns with golden, amber, and bronze energy — bands of light that suggest both a scrying lens and a captured sun. The hands are weathered and aged, fingers slightly bent as if in reverent presentation. The background is a haze of warm earth tones — ochre, sienna, and dark umber — softening into shadow at the edges. Light radiates outward from the orb, casting a glow on the palms and dissolving the surroundings into atmospheric warmth. The composition is centered and ritualistic, evoking divination, prophecy, or the offering of a sacred artifact.
 
-**Subject:** 
+**Subject:** A pair of weathered hands cradling a glowing, swirling orb of energy or vision
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** close-up, abstract, figures: none, facing: forward
+**Setting:** void, indeterminate
+**Foreground:** two cupped hands holding a glowing swirling orb  *(palette: gold, amber, bronze, warm-tan, umber)*
+**Background:** hazy warm-toned atmosphere fading to dark edges  *(palette: sienna, ochre, dark-brown, shadow)*
+**Mood / lighting:** sublime, rim
+**Emotion read:** reverent, presenting, contemplative
+**Objects:** glowing-orb, scrying-lens, magical-artifact
+**Iconography:** orb, swirling-energy, cupped-hands
+**Genre cues:** fantasy, mystical
 

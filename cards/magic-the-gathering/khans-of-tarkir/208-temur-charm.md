@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["shaman", "ritual", "magic-circle", "rune", "mountain", "mist", "wilderness", "lone-figure", "fur-clad", "spellcasting", "robed-figure", "primal-magic"]
+tags_filter: ["solo", "wide-shot", "scene-mode", "forward-facing", "no-face", "instant", "multicolor-green-blue-red", "green-magic", "blue-magic", "red-magic", "tri-color"]
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/208-temur-charm.png
 average_cost_paid: 0
 market_price: 0.21
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/e/2/e2ee3e36-a849-42b0-b84b-027a08427c35.png?1562794960
+mood: sublime
+time_of_day: indeterminate
+setting: mountain
 ---
 
 # Temur Charm (Khans of Tarkir)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![208-temur-charm](../../_images/magic-the-gathering/khans-of-tarkir/208-temur-charm.png)
 
+A solitary figure stands centered on a rocky outcrop in a high mountain pass, swathed in heavy furs and earth-toned garb consistent with the Temur clan of Tarkir. Before them hovers a luminous golden-white sigil — a circular rune of arcing energy — burning brightly against a backdrop of jagged peaks and rolling mist. The composition is vertical and column-like, with the figure dwarfed by the wild landscape; the warm glow of the sigil cuts through the cool grey-blue of the alpine fog. The mood is reverent and wild, somewhere between a hunter's incantation and a shaman's pact with the elements.
 
-**Subject:** 
+**Subject:** A lone fur-clad warrior or shaman standing on a misty mountain ridge, channeling a glowing magical sigil that hangs in the air before them
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, narrative, figures: solo, facing: forward
+**Setting:** mountain, indeterminate, fog
+**Foreground:** robed/fur-clad shaman figure on rocky ledge with a glowing golden sigil floating before them  *(palette: fur-brown, ember-gold, stone-grey, warm-white)*
+**Background:** jagged mountain peaks shrouded in pale mist under an indeterminate sky  *(palette: fog-grey, slate-blue, muted-white, shadow-charcoal)*
+**Mood / lighting:** sublime, rim
+**Emotion read:** focused, reverent, channeling — body squared toward the sigil in the act of casting
+**Objects:** glowing-sigil, magical-rune, staff-or-totem, fur-cloak
+**Iconography:** arcane-sigil, rune, circle-of-power
+**Genre cues:** fantasy, high-fantasy, shamanic
 
