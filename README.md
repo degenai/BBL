@@ -150,6 +150,7 @@ Collectr CSV export
 ├── bbl_queue.py                   # next-batch picker: cards truly ready for vision (3-prong check)
 ├── apply_vision.py                # vision-JSON → MD writer (subagent helper)
 ├── wikilintbot.py                 # graph linter (structural + tag tier checks)
+├── bbl_review.py                  # chronological re-review queue + cursor for prompt-version drift
 ├── .claude/
 │   └── agents/
 │       └── bbl-researcher.md      # vision-pass subagent
@@ -172,6 +173,13 @@ Collectr CSV export
 ## Common operations
 
 ```powershell
+# Re-review queue: walk older enrichments under the latest prompt
+python bbl_review.py status              # progress report
+python bbl_review.py next 13             # show next 13 card paths (oldest enrichment first)
+python bbl_review.py advance 13          # move cursor forward after re-processing
+python bbl_review.py rewind all          # reset cursor to 0 (after a major prompt change)
+python bbl_review.py build               # one-time / after big restructures: rebuild from git history
+
 # Reconcile a fresh Collectr export into the graph
 python csv2mdbot.py collectrexport5_7_2026.csv
 
@@ -213,6 +221,12 @@ These are durable observations that survive the rolling status snapshot below �
 
 **On the IP guardrail:**
 - `bbl-researcher` correctly populates `suspected_ip` for in-universe MTG planeswalkers without putting their names in `subject`. As of the 2026-05-08 session, 6 cards carry IP flags: Garruk Wildspeaker, Kiora, Nicol Bolas (×2), Teyo, the Wanderer. Verification step is downstream and not yet built — these flags accumulate until something consumes them. Worth a small `python ip_review.py` script eventually that lists all `suspected_ip` cards for human verification.
+
+**On prompt versioning without metadata:**
+- The bbl-researcher prompt evolves (anti-confabulation rules added 2026-05-08, weapons/props rule added later same day, more to come). Cards enriched under v1 of the prompt may have descriptions or tags v2/v3 would catch and fix.
+- We deliberately do NOT stamp `prompt_version: N` into every card's frontmatter. That's noisy metadata that needs maintenance. Instead, **the order of cards in `reports/review_queue.txt` IS the version control** — cards near the top were enriched earliest (oldest prompt era), cards at the bottom are recent.
+- `bbl_review.py` manages a cursor that tracks "everything before this index has been re-reviewed under the current prompt." Walk the queue from the top, re-running vision per card, advancing the cursor. When the prompt changes substantially, `rewind all` resets the cursor to 0 and the corpus walks again under the new rules.
+- The list is the source of truth. No per-card metadata required.
 
 **On Obsidian image embeds:**
 - The Obsidian vault is rooted at `cards/`. Anything outside the vault is invisible to Obsidian's image-resolver, even with standard-markdown `![](path)` syntax. The fix: **the image cache lives inside the vault** at `cards/_images/<game>/<set>/<slug>.png`. PNGs aren't graphed by Obsidian (only `.md` files become nodes), so the card-only graph constraint is preserved. The underscore prefix sorts the folder visually distinct from card-game directories. Embeds use standard-markdown with a relative path: `![<slug>](../../_images/<game>/<set>/<slug>.png)` from a card MD. Migrated via `reports/migrate_images_into_cards.py` (idempotent, safe to re-run).
