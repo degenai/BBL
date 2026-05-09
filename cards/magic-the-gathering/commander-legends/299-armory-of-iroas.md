@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["weapons", "armor", "shields", "helmets", "swords", "spears", "ritual", "offering", "monument", "greek-mythology", "war-trophy", "armory"]
+tags_filter: ["no-figure", "no-face", "still-life", "mid-shot", "scene-mode", "monochrome-palette", "colorless-magic", "artifact", "equipment"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/299-armory-of-iroas.png
 average_cost_paid: 0
 market_price: 0.25
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/7/0/703a03ac-5bb5-4e36-ab9b-a5c007ffc03d.png?1608911321
+mood: sublime
+time_of_day: indeterminate
+setting: other
 ---
 
 # Armory of Iroas (Commander Legends)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![299-armory-of-iroas](../../_images/magic-the-gathering/commander-legends/299-armory-of-iroas.png)
 
+A monumental cairn of weaponry rises at center frame: round hoplite-style shields, plumed Greek helmets, spear shafts, swords, and broken haft ends piled into a mound that swells outward at the base and tapers as it climbs. The treatment is monochrome and chalky, almost like a stone relief or a carved offering — the metal forms read as smoke-grey and bone-white rather than polished steel. Small chains and straps hang loose between the pieces. The background is empty, faintly luminous, with a soft halo behind the heap suggesting either dawn or sanctified space. There are no figures present; the armaments themselves are the subject, deposited as a trophy or dedication.
 
-**Subject:** 
+**Subject:** A towering pile of weapons, shields, helmets, and armor heaped together as a votive armory
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, abstract, figures: none, facing: n/a
+**Setting:** other, indeterminate, calm
+**Foreground:** Mounded heap of shields, helmets, swords, and spears stacked into a pyramid-like cairn  *(palette: bone-white, ash-grey, charcoal, muted-silver)*
+**Background:** Pale empty void with a soft luminous halo behind the heap  *(palette: pale-grey, off-white, warm-beige)*
+**Mood / lighting:** sublime, soft
+**Emotion read:** reverent stillness — a silent monument rather than an active scene
+**Objects:** shields, helmets, swords, spears, armor, chains, plumes, straps
+**Iconography:** votive-offering, trophy-pile, weapon-cairn, hoplite-shield
+**Genre cues:** fantasy, mythological, classical-greek
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "magic-the-gathering/commander-legends/115-crow-of-dark-tidings.md",
+                "file": "magic-the-gathering/commander-legends/25-iona-s-judgment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "115-crow-of-dark-tidings"
+              "title": "25-iona-s-judgment"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: crow",
+                "query": "file: ion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,6 +186,8 @@
   },
   "active": "2f47d2ec7546c1fd",
   "lastOpenFiles": [
+    "magic-the-gathering/core-set-2021/24-legion-s-judgment.md",
+    "magic-the-gathering/commander-legends/115-crow-of-dark-tidings.md",
     "magic-the-gathering/war-of-the-spark/84-davriel-s-shadowfugue.md",
     "magic-the-gathering/war-of-the-spark/112-vraska-s-finisher.md",
     "magic-the-gathering/throne-of-eldraine/219-gingerbrute.md",
@@ -210,8 +212,6 @@
     "magic-the-gathering/war-of-the-spark/52-flux-channeler.md",
     "magic-the-gathering/war-of-the-spark/63-no-escape.md",
     "magic-the-gathering/throne-of-eldraine/228-roving-keep.md",
-    "magic-the-gathering/throne-of-eldraine/217-crashing-drawbridge.md",
-    "magic-the-gathering/throne-of-eldraine/223-inquisitive-puppet.md",
     "_images/magic-the-gathering/zendikar-rising/84-tazeem-roilmage--foil.png",
     "_images/magic-the-gathering/zendikar-rising/78-seafloor-stalker--foil.png",
     "_images/magic-the-gathering/zendikar-rising/66-lullmage-s-domination.png",

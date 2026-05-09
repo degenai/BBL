@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["forest", "ruins", "overgrowth", "nature-reclaims", "lost-civilization", "statue", "sunbeams", "ancient", "wilderness", "decay", "stone", "moss"]
+tags_filter: ["no-figures", "wide-shot", "scene-mode", "landscape", "no-face", "green-magic", "instant", "cascade"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/245-natural-reclamation.png
 average_cost_paid: 0
 market_price: 0.11
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/3/e/3e98fb7c-6962-4b57-b7b7-c71899564002.png?1608910823
+mood: sublime
+time_of_day: day
+setting: forest
 ---
 
 # Natural Reclamation (Commander Legends)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![245-natural-reclamation](../../_images/magic-the-gathering/commander-legends/245-natural-reclamation.png)
 
+A ruined stone structure stands deep in a dense, ancient forest, almost completely consumed by vegetation. Toppled columns and weathered statues — humanoid figures lost to time — are draped in thick moss and creeping vines. Tall trees frame the scene on either side, and dramatic god-rays of warm sunlight slant down through the high canopy, catching on dust and pollen in the air and pooling on the forest floor. The palette is dominated by deep mossy greens, brown tree-trunk tones, and golden-yellow shafts of light, with hints of pale stone underneath the foliage. The composition is a wide, painterly landscape with no living figures present — only the architecture and the forest reclaiming it.
 
-**Subject:** 
+**Subject:** Stone ruins reclaimed by an overgrown forest, with shafts of sunlight piercing the canopy and illuminating moss-covered statues and broken architecture
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, narrative, figures: none, facing: n/a
+**Setting:** forest, ruined, day, calm
+**Foreground:** Moss-covered toppled stone statues and broken column fragments, with thick undergrowth, vines, and roots crawling over the ruins  *(palette: mossy-green, stone-grey, earth-brown, olive)*
+**Background:** Tall trees and a dense forest canopy with shafts of golden sunlight breaking through, fading into hazy green depths  *(palette: deep-green, golden-yellow, warm-amber, shadow-black)*
+**Mood / lighting:** sublime, backlit
+**Emotion read:** still, reverent, the quiet of a place long abandoned
+**Objects:** stone-statue, toppled-column, ruins, vines, moss
+**Iconography:** overgrown-ruins, god-rays, lost-civilization
+**Genre cues:** fantasy, high-fantasy, painterly
 

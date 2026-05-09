@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["diamond", "gemstone", "black-stone", "skull", "bone", "binding", "cords", "wasteland", "relic", "artifact-object", "still-life", "death-iconography"]
+tags_filter: ["no-figure", "no-face", "close-up", "object-mode", "black-magic", "artifact", "mana-rock", "common"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/303-charcoal-diamond.png
 average_cost_paid: 0
 market_price: 0.53
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/3/d/3d99f4cd-7f6d-4f1a-a1d9-f8c3b6645038.png?1608911357
+mood: grim
+time_of_day: indeterminate
+setting: other
 ---
 
 # Charcoal Diamond (Commander Legends)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![303-charcoal-diamond](../../_images/magic-the-gathering/commander-legends/303-charcoal-diamond.png)
 
+A jagged, faceted black gemstone is bound and constricted by thick, fibrous cords or root-like sinews that wrap around it in tight loops. The stone sits on cracked, dry, ashen ground in muted brown and grey tones. To the lower right, a small pale skull or bone fragment lies in the dirt. The composition is a tight still life, almost reliquary in feel, with the bound stone as the sole hero object. The palette is somber — charcoal blacks, dusty browns, bone whites — fitting the card's flavor of night-hardened essence.
 
-**Subject:** 
+**Subject:** A large, rough-hewn black diamond or gemstone wrapped in twisted, sinewy cords or vines, resting on cracked, barren ground with a small skull or bone fragment beside it
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** close-up, abstract, figures: none, facing: n/a
+**Setting:** other, indeterminate, calm
+**Foreground:** Bound black diamond gemstone wrapped in cords or sinews, with a small skull on cracked ground  *(palette: charcoal-black, obsidian, rope-brown, bone-white)*
+**Background:** Cracked, ashen, barren earth in muted brown-grey tones; nondescript wasteland  *(palette: dusty-brown, ash-grey, umber)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** still, ominous, reliquary stillness
+**Objects:** black-diamond, gemstone, binding-cords, sinews, skull, bone
+**Iconography:** bound-stone, skull, diamond
+**Genre cues:** fantasy, dark-fantasy
 

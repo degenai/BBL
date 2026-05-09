@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["robed-figure", "hooded-figure", "angel", "divine-light", "judgment", "pilgrim", "staff", "mountain", "wings", "ritual", "faith", "solitude"]
+tags_filter: ["solo", "wide-shot", "faces-right", "scene-mode", "no-face", "white-magic", "sorcery", "removal", "monochrome-art", "pink-accent"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/25-iona-s-judgment.png
 average_cost_paid: 0
 market_price: 0.04
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/e/7/e792e689-0cf8-4bd0-b2f1-4edff9972e18.png?1608908809
+mood: sublime
+time_of_day: indeterminate
+setting: mountain
 ---
 
 # Iona's Judgment (Commander Legends)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![25-iona-s-judgment](../../_images/magic-the-gathering/commander-legends/25-iona-s-judgment.png)
 
+A solitary robed figure with hood drawn stands in profile on a low hill or rocky outcrop, gripping a tall staff or polearm. Before them, a luminous swirling ribbon of pink and magenta light cascades down from above like a divine searchlight or judgment beam. The composition is rendered in a near-monochrome wash with the magenta light providing the only chromatic accent. Tiny winged figures — angelic silhouettes — drift in the upper background, and a faint mountain ridge sits along the horizon. The black-and-white linework with a single blasting color reads as a stylized woodcut or ink illustration. The mood is one of awe, reverence, and impending divine reckoning.
 
-**Subject:** 
+**Subject:** A lone hooded, robed figure stands on a hilltop holding a long staff or spear, facing a brilliant beam of divine pink-magenta light that pours down from the heavens; small winged silhouettes (angels) hover in the distant sky.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, narrative, figures: solo, facing: right
+**Setting:** mountain, indeterminate, clear
+**Foreground:** Hooded robed figure on a hilltop holding a staff, struck by a beam of pink divine light  *(palette: black, white, magenta, pink)*
+**Background:** Distant mountain ridge with small flying angelic silhouettes against a pale sky  *(palette: white, pale-grey, soft-pink)*
+**Mood / lighting:** sublime, backlit
+**Emotion read:** Reverent, braced — the figure stands firm before an overwhelming divine presence
+**Objects:** staff, spear, robe, hood, beam-of-light
+**Creatures:** angel
+**Iconography:** divine-light, judgment-beam, angelic-silhouette
+**Genre cues:** fantasy, religious, high-fantasy
 
