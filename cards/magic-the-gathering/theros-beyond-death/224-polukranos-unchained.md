@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["hydra", "undead", "zombie", "serpent", "monster", "many-headed", "decay", "skull", "bone", "fangs", "necromancy", "myth"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "creature-zombie", "creature-hydra", "green-magic", "legendary"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/224-polukranos-unchained.png
 average_cost_paid: 0
 market_price: 0.76
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/8/7/87858278-632c-4d82-b3a3-adfc6f2f4fc6.png?1581481126
+mood: grim
+time_of_day: indeterminate
+setting: other
 ---
 
 # Polukranos, Unchained (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![224-polukranos-unchained](../../_images/magic-the-gathering/theros-beyond-death/224-polukranos-unchained.png)
 
+A grotesque undead hydra fills the frame, its many sinuous necks splaying outward like the petals of a corrupted flower. Each head terminates in a fanged, skeletal maw, jaws gaping. The flesh is mottled in dried-blood reds, bruised purples, and bone-white where exposed muscle and skull show through rotted hide. The creature is set against a murky earthen background of dark browns and shadow, with what appears to be cracked ground or a pit floor beneath it. The composition is centered and almost radial, emphasizing the hydra's tangled silhouette of writhing necks. Lighting is low and warm, picking out the gnarled musculature and bone with rim highlights.
 
-**Subject:** 
+**Subject:** A massive undead multi-headed hydra rearing up, with numerous serpentine necks and skull-like heads twisting outward from a central body
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** other, indeterminate
+**Foreground:** undead hydra with multiple serpentine necks and skeletal heads  *(palette: dried-blood-red, bone-white, bruised-purple, rotted-brown)*
+**Background:** dark earthen pit or barren ground in deep shadow  *(palette: dark-brown, black, umber)*
+**Mood / lighting:** grim, rim
+**Emotion read:** ferocious, predatory, snarling — multiple jaws gaping in aggression
+**Creatures:** hydra, undead-hydra, zombie-hydra, many-headed-serpent
+**Iconography:** multiple-heads, exposed-bone, fanged-maw
+**Genre cues:** fantasy, dark-fantasy, mythological, horror
 

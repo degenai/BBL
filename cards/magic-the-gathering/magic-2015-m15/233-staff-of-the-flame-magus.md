@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["staff", "fire", "flame", "ritual", "weapon", "magic-item", "artifact-object", "ember", "smoke", "claw", "relic", "occult"]
+tags_filter: ["red-magic", "artifact", "object-focus", "no-figure", "close-up", "portrait-mode", "rim-lit", "hand-visible"]
 reference_image: cards/_images/magic-the-gathering/magic-2015-m15/233-staff-of-the-flame-magus.png
 average_cost_paid: 0
 market_price: 0.13
@@ -22,18 +22,28 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/f/0fd137db-296
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
+mood: grim
+time_of_day: indeterminate
+setting: other
 ---
 
 # Staff of the Flame Magus (Magic 2015 (M15))
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![233-staff-of-the-flame-magus](../../_images/magic-the-gathering/magic-2015-m15/233-staff-of-the-flame-magus.png)
 
+A tall ornate staff dominates the frame vertically. Its crown is a sharp, clawed crimson ornament — talon-like prongs curling outward, suggesting a stylized flame or demonic motif. The shaft is dark metal, intricately wrought, and the upper portion is engulfed in licking flames and drifting embers. A single hand grips the staff near the bottom of the visible art, anchoring the implement but offering no view of the wielder's face or body. The background is a hot, hazy wash of orange and deep red, with smoke and sparks suggesting a fiery, infernal atmosphere. Lighting is rim-lit by the flames themselves, casting strong warm highlights along the staff's edges against the murkier backdrop.
 
-**Subject:** 
+**Subject:** An ornate ceremonial staff topped with a clawed, horned crimson finial, wreathed in fire and held by an unseen wielder whose hand grips the lower shaft
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** close-up, abstract, figures: none, facing: n/a
+**Setting:** other, indeterminate, fire
+**Foreground:** ornate clawed staff with flames climbing the shaft, gripped by a single visible hand  *(palette: crimson, black, iron-grey, ember-orange)*
+**Background:** smoky red-orange haze suggesting flame and heat  *(palette: deep-red, orange, smoke-grey, black)*
+**Mood / lighting:** grim, rim
+**Emotion read:** ominous, ritualistic
+**Objects:** staff, claw-finial, flames, embers, smoke
+**Iconography:** claw, horn, flame
+**Genre cues:** fantasy, dark-fantasy
 

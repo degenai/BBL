@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["scientist", "inventor", "mad-science", "experiment", "invention", "laboratory", "machine", "contraption", "energy", "female-figure-subject", "comedy", "tinkerer"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "indoor-scene", "female-figure", "monochrome-art", "blue-magic", "artifact", "un-set"]
 reference_image: cards/_images/magic-the-gathering/unstable/154-mad-science-fair-project.png
 average_cost_paid: 0
 market_price: 0.12
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/8/2/82b605c5-c2fa-452d-a062-8ca67c1d5243.png?1629893816
+mood: comedic
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Mad Science Fair Project (Unstable)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![154-mad-science-fair-project](../../_images/magic-the-gathering/unstable/154-mad-science-fair-project.png)
 
+A monochrome blue-green wash illustration shows a wild-haired scientist hunched over a complex apparatus on a cluttered workbench. The centerpiece is a glowing orb projecting concentric ringed energy outward in a halo, suggesting an unstable experiment in progress. Tubes, cables, retorts and small glassware sprout chaotically from the rig. The figure's hair stands on end as if shocked by her own creation, eyes intent on the device. The composition is a tight mid-shot oriented toward the viewer, with the inventor centered behind the machine. The palette is washed-out teal and slate with pale highlights on the radiating orb — closer to a blueprint or technical illustration than a painterly scene.
 
-**Subject:** 
+**Subject:** A scientist or inventor figure leans over a glowing spherical contraption that radiates concentric rings of energy, with cables, beakers, and lab apparatus tangled around her workstation
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, narrative, figures: solo, facing: forward
+**Setting:** indoor, indeterminate
+**Foreground:** Scientist working a glowing orb-shaped contraption on a cluttered workbench  *(palette: teal, slate-blue, pale-cyan, off-white)*
+**Background:** Indistinct workshop wash, busy with implied apparatus and shelving  *(palette: muted-teal, grey-green)*
+**Mood / lighting:** comedic, rim
+**Emotion read:** manic focus; wild-haired absorption in the experiment
+**Objects:** glowing-orb, cables, beakers, tubes, workbench, lab-apparatus, contraption
+**Iconography:** concentric-rings, energy-halo
+**Genre cues:** fantasy, mad-science, steampunk-adjacent, comedy
 

@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["fire", "spellcaster", "pyromancer", "robed-figure", "magic", "destruction", "inferno", "back-facing-figure", "silhouette", "explosion", "helix"]
+tags_filter: ["solo", "mid-shot", "faces-away", "action-mode", "red-magic", "instant", "no-face-visible"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/120-chandra-s-pyrohelix.png
 average_cost_paid: 0
 market_price: 0.17
@@ -22,18 +22,34 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/1/c/1c482f51-9222-4e9e-a9fd-bb14a0afe156.png?1557576647
+mood: action
+time_of_day: indeterminate
+setting: other
+suspected_ip: Chandra Nalaar
+ip_confidence: med
+ip_verified: false
 ---
 
 # Chandra's Pyrohelix (War of the Spark)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![120-chandra-s-pyrohelix](../../_images/magic-the-gathering/war-of-the-spark/120-chandra-s-pyrohelix.png)
 
+> [!warning] Suspected IP: **Chandra Nalaar** (confidence: med, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
-**Subject:** 
+A back-facing figure in a long dark coat or robe stands at the center of the frame, arms extended forward, channeling two intertwined helical streams of fire into a vast roaring blaze that consumes the background. The composition is dominated by saturated oranges, yellows, and deep reds, with the silhouette of the caster reading almost black against the firelight. Embers and motion-blurred flame curl around the edges of the frame. The pose is dynamic and forward-thrusting, conveying an explosive offensive spell mid-cast.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Subject:** A robed figure with long hair, viewed from behind, hurling twin spiraling helices of fire forward into a blazing inferno
+
+**Composition:** mid-shot, action, figures: solo, facing: away
+**Setting:** other, indeterminate, fire
+**Foreground:** back-facing robed caster with arms outstretched, twin fire helices erupting forward  *(palette: black, dark-red, orange)*
+**Background:** wall of roaring flame and embers consuming the scene  *(palette: orange, yellow, red, ember-orange)*
+**Mood / lighting:** action, backlit
+**Emotion read:** aggressive, focused, mid-cast intensity
+**Objects:** fire-helix, flames, embers
+**Iconography:** double-helix, spiral, fire-blast
+**Genre cues:** fantasy, high-fantasy
 

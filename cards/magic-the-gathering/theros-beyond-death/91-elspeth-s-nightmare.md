@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["nightmare", "dream", "stone", "carving", "relief", "sculpture", "sword", "hand", "wings", "fallen-angel", "robed-figure", "myth", "memorial", "triptych"]
+tags_filter: ["black-magic", "enchantment", "saga", "scene-mode", "narrative-mode", "no-face", "group", "portrait-orientation", "monochrome-palette"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/91-elspeth-s-nightmare.png
 average_cost_paid: 0
 market_price: 0.16
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/3/7/37ccd974-d2bc-4fcf-94a7-0a868a04cb98.png?1586801044
+mood: grim
+time_of_day: indeterminate
+setting: other
 ---
 
 # Elspeth's Nightmare (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![91-elspeth-s-nightmare](../../_images/magic-the-gathering/theros-beyond-death/91-elspeth-s-nightmare.png)
 
+The art is presented as a vertical triptych of carved stone reliefs in the style of ancient Greek bas-relief, fitting the Theros plane's Greek-myth aesthetic. The top panel shows a hooded, robed figure standing with a long sword held point-down. The middle panel shows a single outstretched hand emerging from shadow, fingers splayed as if grasping or warding. The bottom panel shows a winged humanoid figure in a contorted pose, seemingly falling or being struck down. All three reliefs are rendered in pale teal-bronze tones and set into a deep indigo-black stone field, giving the impression of ancient memorial carvings or temple friezes. The mood is oppressive, dreamlike, and elegiac.
 
-**Subject:** 
+**Subject:** Three-paneled stone bas-relief depicting chapters of a nightmare: a robed swordbearer above, a clutching hand in the middle, and a falling winged figure below, carved in pale bronze-blue stone against a dark indigo background
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** scene, narrative, figures: group, facing: n/a
+**Setting:** other, indeterminate
+**Foreground:** Three carved stone relief panels depicting chapters of a story  *(palette: pale teal, bronze, stone gray, muted blue)*
+**Background:** Dark indigo and black stone field, weathered and shadowed  *(palette: indigo, black, deep blue)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** ominous, mournful, dreamlike dread
+**Objects:** sword, stone-relief, carving, frieze, triptych
+**Creatures:** winged-figure
+**Iconography:** bas-relief, triptych, saga-frame, outstretched-hand, fallen-angel
+**Genre cues:** fantasy, mythology, greek-myth
 

@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["amulet", "talisman", "relic", "jewelry", "gemstone", "artifact-object", "treasure", "still-life", "symmetry", "wings", "silver", "ornament"]
+tags_filter: ["no-figure", "close-up", "object-study", "forward-facing", "artifact", "colorless-magic", "centered-composition"]
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/247-relic-amulet.png
 average_cost_paid: 0
 market_price: 0.08
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/0/a/0ab97a84-fe8c-4986-afd8-3abdcc029f7f.png?1604200828
+mood: sublime
+time_of_day: indeterminate
+setting: other
 ---
 
 # Relic Amulet (Zendikar Rising)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![247-relic-amulet](../../_images/magic-the-gathering/zendikar-rising/247-relic-amulet.png)
 
+A close-up still-life of an ornate metal amulet centered on the card frame. The piece is symmetrical, with curling filigree arms spreading outward like wings or a stylized chestplate, and a pale, glowing gem set at the heart. The metalwork reads as silver or pewter with cool blue-grey highlights. The amulet hovers or rests against a softly lit, hazy background of pale stone or mist with cool blue and grey tones, giving the object a sacred, museum-piece quality. No figures are present — the artifact is the entire subject.
 
-**Subject:** 
+**Subject:** An ornate ancient amulet or talisman, displayed as a centerpiece artifact with radiating decorative metalwork and a pale central gem
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** close-up, abstract, figures: none, facing: forward
+**Setting:** other, indeterminate
+**Foreground:** ornate silver amulet with filigree wings and a central pale gem  *(palette: silver, pewter, pale-blue, white)*
+**Background:** soft hazy blue-grey atmosphere suggesting stone or mist  *(palette: pale-blue, grey, white)*
+**Mood / lighting:** sublime, soft
+**Emotion read:** still, reverent, museum-display calm
+**Objects:** amulet, talisman, gem, filigree, jewelry
+**Iconography:** amulet, winged-emblem, central-gem, symmetrical-charm
+**Genre cues:** fantasy, high-fantasy
 

@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["dragon", "goblin", "fire", "mountain", "scale-contrast", "monster", "fangs", "predator-and-prey", "small-vs-large", "shouting", "wilderness", "danger"]
+tags_filter: ["duo", "mid-shot", "red-magic", "sorcery", "no-face", "three-quarter-facing", "scene-mode"]
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/172-tormenting-voice.png
 average_cost_paid: 0
 market_price: 0.16
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/6/d/6da46103-a14c-4aa2-92fc-fd758335caf4.png?1604198268
+mood: grim
+time_of_day: indeterminate
+setting: mountain
 ---
 
 # Tormenting Voice (Zendikar Rising)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![172-tormenting-voice](../../_images/magic-the-gathering/zendikar-rising/172-tormenting-voice.png)
 
+A tiny goblin huddles on a rocky outcrop in the foreground, hunched and small, while behind it a colossal red dragon rears up with a serpentine neck and a wide-open, fang-lined maw. The dragon's scales catch deep crimson and shadowed black, and the whole frame is washed in a hot red-and-orange palette suggesting firelight or a hellish glow. Jagged spines run down the dragon's back. The goblin is rendered as a small dark silhouette with goblin-typical pointed features, posed as if speaking, threatening, or attempting to command the beast. The composition reads as scale-contrast horror-comedy: tiny figure, enormous menace.
 
-**Subject:** 
+**Subject:** A small goblin figure crouched on rocky ground, dwarfed by the looming silhouette of a massive red dragon's head and neck rearing up behind it
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, narrative, figures: duo, facing: three-quarter
+**Setting:** mountain, indeterminate
+**Foreground:** small crouched goblin on a rocky ledge  *(palette: black, rust, ember-orange)*
+**Background:** towering red dragon with open jaws, jagged rocky terrain, hot crimson atmosphere  *(palette: crimson, blood-red, black, orange)*
+**Mood / lighting:** grim, rim
+**Emotion read:** goblin posture reads as bold or shouting, dragon reads as menacing and looming
+**Objects:** rocky-ledge
+**Creatures:** dragon, goblin
+**Iconography:** fangs, spines, jagged-rocks
+**Genre cues:** fantasy, high-fantasy
 

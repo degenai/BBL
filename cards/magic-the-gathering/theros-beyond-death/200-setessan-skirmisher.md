@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["archer", "bow", "hunter", "warrior", "soldier", "militia", "hillside", "meadow", "greek", "classical-antiquity", "skirmish", "battlefield"]
+tags_filter: ["group", "mid-shot", "faces-right", "action-mode", "male-figure", "scene-mode", "creature-human", "creature-warrior", "green-magic", "common-rarity"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/200-setessan-skirmisher.png
 average_cost_paid: 0
 market_price: 0.05
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/4/6/46739993-6afe-428d-bf63-b57649e38a65.png?1581480900
+mood: action
+time_of_day: day
+setting: other
 ---
 
 # Setessan Skirmisher (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![200-setessan-skirmisher](../../_images/magic-the-gathering/theros-beyond-death/200-setessan-skirmisher.png)
 
+A wiry archer stands in a wide athletic stance on a green hillside, body angled toward the right of the frame as the bow is drawn taut. The figure wears minimal classical garb — bare-chested with a wrap or short kilt, in keeping with Theros's Greek-inspired iconography. Behind the foreground archer, a line of similar warriors moves across the field in loose skirmisher formation, suggesting an organized hunting band or militia rather than a lone scout. The lighting is open and bright, daylight on rolling pastoral terrain, with a hazy sky behind. Palette is dominated by greens of the grass and the cool skin tones of the figure, with warmer earth and gold accents on equipment.
 
-**Subject:** 
+**Subject:** A lean Setessan archer in motion, drawing back a longbow on an open grassy hillside, with a formation of fellow skirmishers visible behind in the middle distance
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: group, facing: right
+**Setting:** other, day, clear
+**Foreground:** archer drawing a longbow on open grass  *(palette: grass-green, tan, warm-skin, leather-brown)*
+**Background:** line of skirmishers crossing rolling hillside under hazy daylight sky  *(palette: soft-green, pale-gold, hazy-cream, muted-blue)*
+**Mood / lighting:** action, ambient
+**Emotion read:** focused, taut concentration; body language of a hunter mid-loose
+**Objects:** longbow, arrow, quiver
+**Iconography:** bow-and-arrow
+**Genre cues:** fantasy, classical-mythology, greek-inspired
 

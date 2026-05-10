@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["ocean", "sea", "water", "laughter", "teeth", "mouths", "memory-loss", "oblivion", "spirits", "mockery", "horror", "drowning", "nightmare"]
+tags_filter: ["group", "no-figure", "forward-facing", "mid-shot", "abstract-mode", "blue-magic", "sorcery", "mill", "escape-mechanic"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/70-sweet-oblivion.png
 average_cost_paid: 0
 market_price: 0.1
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/5/1/51ac77d4-f918-4bbc-b023-8117a8c401ee.png?1590720325
+mood: horror
+time_of_day: indeterminate
+setting: ocean
 ---
 
 # Sweet Oblivion (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![70-sweet-oblivion](../../_images/magic-the-gathering/theros-beyond-death/70-sweet-oblivion.png)
 
+A nightmarish bouquet of fanged, leering faces erupts from a frothing blue sea. The heads are pale, eyeless or hollow-eyed, with wide rictus grins, multiple rows of jagged teeth, and long protruding tongues. They cluster together like a single many-mouthed organism, jeering and laughing. Spray and wave-foam coil around the base of the cluster while a pale, cloud-streaked sky stretches behind them. The palette is dominated by cool blues, whites, and pallid greys with a clammy, drowned quality. The mood is darkly comedic horror — mocking laughter from the deep, the giggling oblivion of a forgotten mind.
 
-**Subject:** 
+**Subject:** A grotesque cluster of grinning, fanged faces emerging from churning blue water — a writhing knot of laughing maws and protruding tongues set against a stormy seascape
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, abstract, figures: group, facing: forward
+**Setting:** ocean, indeterminate, storm
+**Foreground:** cluster of grinning fanged faces with lolling tongues rising from churning water  *(palette: pale-blue, white, grey, pink)*
+**Background:** stormy blue ocean with foam and a pale cloudy sky  *(palette: blue, white, pale-grey)*
+**Mood / lighting:** horror, ambient
+**Emotion read:** manic mocking laughter, leering glee
+**Objects:** waves, foam, spray
+**Creatures:** grinning-spirits, fanged-faces, tongues
+**Iconography:** grinning-mouths, fangs, tongues, waves
+**Genre cues:** fantasy, surreal, horror
 

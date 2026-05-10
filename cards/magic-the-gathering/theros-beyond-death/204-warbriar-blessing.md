@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["warrior", "thorns", "vines", "forest", "briar", "plant-magic", "blessing", "entanglement", "nature", "ritual", "wilderness", "empowerment"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "male-figure", "green-magic", "enchantment", "aura", "common"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/204-warbriar-blessing.png
 average_cost_paid: 0
 market_price: 0.15
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/1/1/11d64cab-2ed1-46d9-8034-0c2ba3f2e1ed.png?1581480932
+mood: action
+time_of_day: day
+setting: forest
 ---
 
 # Warbriar Blessing (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![204-warbriar-blessing](../../_images/magic-the-gathering/theros-beyond-death/204-warbriar-blessing.png)
 
+A figure stands at the center of the frame entangled in a riot of green, thorned vines that spiral up from a dense thicket. The vines wrap arms, torso, and shoulders like living armor, sprouting outward into the surrounding undergrowth. The warrior's expression is fierce and focused, mouth set, looking out with intent. The palette is dominated by deep forest greens, mossy yellows, and bark browns, with skin tones reading as a warm darker brown against the foliage. Light filters through the canopy in dappled patches, giving the scene a damp, vegetal, sun-pierced-forest feel — a blessing imagery rendered as physical entanglement with the wild.
 
-**Subject:** 
+**Subject:** A dark-skinned warrior wreathed and bound by twisting green thorny vines that erupt from the surrounding briar, wielding a bladed weapon as the plant matter wraps the body and arms
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** forest, day, clear
+**Foreground:** warrior bound and empowered by thorny vines, weapon partially visible  *(palette: green, brown, warm-brown-skin, ochre)*
+**Background:** dense briar thicket and forest undergrowth with dappled light  *(palette: forest-green, moss, shadow-green, sun-gold)*
+**Mood / lighting:** action, dappled
+**Emotion read:** fierce, determined, empowered — eyes set forward, jaw firm
+**Objects:** thorny-vines, briar, bladed-weapon
+**Iconography:** thorns, vines, entanglement, blessing
+**Genre cues:** fantasy, mythic, greek-myth
 

@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["snake", "serpent", "viper", "forest", "moss", "predator", "reptile", "wilderness", "venom", "ambush", "nature", "wildlife"]
+tags_filter: ["solo", "close-up", "forward-facing", "portrait-mode", "no-face", "creature-snake", "green-magic", "deathtouch"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/179-moss-viper.png
 average_cost_paid: 0
 market_price: 0.19
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/a/4/a4d35ec4-0e0d-4611-8ad9-39d2c8a2ad6e.png?1616399569
+mood: other
+time_of_day: indeterminate
+setting: forest
 ---
 
 # Moss Viper (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![179-moss-viper](../../_images/magic-the-gathering/theros-beyond-death/179-moss-viper.png)
 
+A vivid green serpent with chartreuse-yellow scaling along its underbelly is coiled on a low, moss-covered branch. Its head is raised and turned toward the viewer with an open mouth and forked tongue extended. The snake's patterning is sinuous and bright against a deep, shadowy forest backdrop of vertical tree trunks and thick foliage. Light filters in from the upper background, leaving the snake rim-lit while the surrounding wood stays in cool, damp shadow. The composition is tight on the snake, with the forest reading as atmospheric depth rather than detail.
 
-**Subject:** 
+**Subject:** A green and yellow snake coiled on a mossy branch, head raised and tongue flicking, set against a dim forest interior
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** close-up, portrait, figures: solo, facing: forward
+**Setting:** forest, indeterminate, calm
+**Foreground:** Green snake coiled on a moss-covered branch  *(palette: green, chartreuse, yellow, olive, brown)*
+**Background:** Dim forest interior with vertical tree trunks and dense foliage  *(palette: forest-green, dark-green, brown, black)*
+**Mood / lighting:** other, rim
+**Emotion read:** alert, predatory poise; tongue out, sensing
+**Objects:** mossy-branch, tree-trunks
+**Creatures:** snake, viper
+**Genre cues:** fantasy
 

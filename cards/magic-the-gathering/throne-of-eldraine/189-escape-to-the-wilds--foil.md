@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["fire", "hearth", "arson", "doorway", "stone-architecture", "ruin", "escape", "inferno", "threshold", "abandoned-place", "fairy-tale"]
+tags_filter: ["no-figures", "scene-mode", "forward-facing", "wide-shot", "interior", "sorcery", "multicolor-red-green", "red-magic", "green-magic"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/189-escape-to-the-wilds--foil.png
 average_cost_paid: 0
 market_price: 0.55
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/3/e/3e26c10b-179f-4a6e-bc8d-3ec1d6783fb9.png?1602499769
+mood: grim
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Escape to the Wilds (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![189-escape-to-the-wilds--foil](../../_images/magic-the-gathering/throne-of-eldraine/189-escape-to-the-wilds--foil.png)
 
+The art looks through a rough stone archway into a small chamber that is fully engulfed in fire. A massive blaze burns at the back of the room where a hearth or fireplace should be, with flames climbing the walls and lashing forward through the open doorway. The stonework of the arch and surrounding wall is illuminated in deep amber and orange, while the deeper recesses fall into shadow. No figures are present — the scene is purely environmental, a moment of arson or escape, with smoke and embers implied by the heavy glow. The composition pulls the viewer's eye straight down a central axis into the inferno.
 
-**Subject:** 
+**Subject:** A blazing hearth inside a stone chamber, viewed through an arched stone doorway, with flames roaring up and spilling outward beyond the fireplace
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** scene, narrative, figures: none, facing: forward
+**Setting:** indoor, ruined, indeterminate, fire
+**Foreground:** stone archway / doorway frame, with the threshold of the room visible  *(palette: amber, burnt-orange, dark-brown, black)*
+**Background:** interior chamber engulfed in fire, flames roaring at the hearth  *(palette: bright-orange, yellow, red, ember-glow)*
+**Mood / lighting:** grim, chiaroscuro
+**Emotion read:** ominous, urgent — the aftermath of a destructive act, a chamber abandoned to the flames
+**Objects:** hearth, stone-archway, doorway, fireplace
+**Iconography:** fire, hearth, doorway, threshold
+**Genre cues:** fantasy, fairy-tale
 

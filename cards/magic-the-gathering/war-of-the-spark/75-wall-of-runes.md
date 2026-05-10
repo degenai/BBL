@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["robed-figure", "hood", "runes", "glyphs", "wall", "arcane-script", "language", "ritual", "spellcasting", "wizard", "mystery", "scholar", "sacred-text"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "no-face", "blue-magic", "creature-wall", "defender", "scry"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/75-wall-of-runes.png
 average_cost_paid: 0
 market_price: 0.23
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/9/6/96613089-3508-429a-9f90-23168d56bbe7.png?1557576363
+mood: sublime
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Wall of Runes (War of the Spark)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![75-wall-of-runes](../../_images/magic-the-gathering/war-of-the-spark/75-wall-of-runes.png)
 
+A hooded, robed figure dressed entirely in deep blue stands centered in mid-shot, arms raised and outstretched as if casting or channeling. Behind them rises a massive vertical wall surface inscribed with rows upon rows of luminous golden runes or glyphs, glowing warmly against the cooler blue tones of the figure and ambient haze. The wall reads as both architectural barrier and sacred text — a literal wall of language. Light spills from the runes, rim-lighting the figure's silhouette. The composition is symmetrical, ceremonial, and quiet, with a strong vertical thrust.
 
-**Subject:** 
+**Subject:** A robed figure in blue garments stands with arms outstretched before a towering wall covered in glowing golden runic script
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, narrative, figures: solo, facing: forward
+**Setting:** indoor, organic, indeterminate
+**Foreground:** robed figure with arms outstretched  *(palette: deep-blue, navy, shadow-black)*
+**Background:** wall of glowing golden runic inscriptions  *(palette: gold, amber, warm-yellow, dim-blue-haze)*
+**Mood / lighting:** sublime, rim
+**Emotion read:** reverent, focused, ceremonial — figure faces the wall in posture of channeling or supplication
+**Objects:** runes, glyphs, wall, inscription
+**Iconography:** runes, glowing-script, arcane-glyphs
+**Genre cues:** fantasy, high-magic
 

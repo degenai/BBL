@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["explosion", "fire", "bomb", "metal", "device", "machinery", "destruction", "rupture", "starburst", "weapon", "panic"]
+tags_filter: ["no-figure", "close-up", "object-mode", "centered", "artifact-card", "colorless-magic", "scars-of-mirrodin", "no-face", "artifact"]
 reference_image: cards/_images/magic-the-gathering/scars-of-mirrodin/191-panic-spellbomb.png
 average_cost_paid: 0
 market_price: 0.08
@@ -22,6 +22,9 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/e/9/e9a29832-8630-498a-9ac3-bc709a6dc95d.png?1562824575
+mood: action
+time_of_day: indeterminate
+setting: void
 ---
 
 # Panic Spellbomb (Scars of Mirrodin)
@@ -30,12 +33,17 @@ reference_image_source_url: https://cards.scryfall.io/png/front/e/9/e9a29832-863
 
 ![191-panic-spellbomb](../../_images/magic-the-gathering/scars-of-mirrodin/191-panic-spellbomb.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+A polished metal sphere — riveted and segmented like a clockwork ordnance — has split open along a jagged seam, ejecting a violent burst of orange and yellow fire from its core. Sharp lines of light radiate outward in a starburst pattern, suggesting a sudden concussive detonation. Bits of the casing shred outward at the edges. The background is a soft, hazy off-white, leaving the device isolated as the sole focal element. The whole composition reads like a catalog illustration of a magical grenade going off.
 
+**Subject:** A spherical metallic spellbomb device cracked open and erupting with violent fiery energy, suspended in mid-detonation against a pale background
 
-**Subject:** 
-
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** close-up, action, figures: none, facing: forward
+**Setting:** void, indeterminate, fire
+**Foreground:** cracked metal spellbomb sphere bursting with fire  *(palette: orange, yellow, red, gold, bronze)*
+**Background:** pale washed-out neutral haze with radiating light streaks  *(palette: off-white, pale-yellow, cream)*
+**Mood / lighting:** action, harsh
+**Emotion read:** violent kinetic release; sudden rupture
+**Objects:** spellbomb, metal-sphere, rivets, explosive-device, sparks
+**Iconography:** explosion-starburst, radiating-light
+**Genre cues:** fantasy, steampunk, artifact
 

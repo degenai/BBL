@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["unicorn", "horse", "horn", "moon", "moonlight", "forest", "night", "mythical-beast", "rearing-pose", "white-creature", "wilderness", "enchanted-forest"]
+tags_filter: ["solo", "mid-shot", "faces-left", "portrait-mode", "creature-enchantment", "white-magic", "rim-light", "no-face", "creature-unicorn"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/6-captivating-unicorn.png
 average_cost_paid: 0
 market_price: 0.17
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/1/3/13893599-0b87-4fc0-863d-f3e0ae51cc31.png?1581478965
+mood: sublime
+time_of_day: night
+setting: forest
 ---
 
 # Captivating Unicorn (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![6-captivating-unicorn](../../_images/magic-the-gathering/theros-beyond-death/6-captivating-unicorn.png)
 
+A radiant white unicorn rears up on its hind legs in a forest clearing, its long spiral horn raised toward a luminous full moon. The unicorn's mane and tail catch a pale glow, and faint mist coils around its hooves. Behind it, dark silhouetted trees frame a softly lit sky in tones of teal, lavender, and silver. The composition is solitary and reverent — the creature dominates the frame, lit from behind by the moon in a clear rim-light effect.
 
-**Subject:** 
+**Subject:** A white unicorn rearing on its hind legs in a moonlit forest clearing
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: left
+**Setting:** forest, night, calm
+**Foreground:** white unicorn rearing on hind legs, spiral horn raised  *(palette: white, silver, pale-blue)*
+**Background:** moonlit forest clearing with silhouetted trees and a full moon  *(palette: teal, lavender, deep-blue, silver, black)*
+**Mood / lighting:** sublime, backlit
+**Emotion read:** majestic, defiant, otherworldly poise
+**Objects:** full-moon
+**Creatures:** unicorn, horse
+**Iconography:** moon, horn
+**Genre cues:** fantasy, high-fantasy, mythological
 

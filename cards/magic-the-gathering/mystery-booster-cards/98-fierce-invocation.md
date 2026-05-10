@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["ritual", "invocation", "robed-figure", "storm", "vortex", "mountain", "summoning", "fire", "sky", "silhouette", "magic-user", "wrath"]
+tags_filter: ["solo", "wide-shot", "scene-mode", "faces-away", "no-face", "red-magic", "sorcery", "manifest"]
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/98-fierce-invocation.png
 average_cost_paid: 0
 market_price: 0.02
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/2/7/270b67e5-fbf2-42af-b872-04bbaee2a9b4.png?1573511602
+mood: sublime
+time_of_day: indeterminate
+setting: mountain
 ---
 
 # Fierce Invocation (Mystery Booster Cards)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![98-fierce-invocation](../../_images/magic-the-gathering/mystery-booster-cards/98-fierce-invocation.png)
 
+A lone hooded figure in long robes stands silhouetted on a craggy promontory, arms spread wide in an invocational gesture. Above them, the sky churns with a massive spiraling vortex of crimson and orange energy, the clouds bent into a cyclone of raw fury. The entire scene is bathed in saturated reds and rust-oranges, the figure rendered almost as a black silhouette against the firelit sky. A few smaller stones or debris hang in the disturbed air around them. The composition emphasizes scale and ritual power — a single mortal channeling something elemental and immense.
 
-**Subject:** 
+**Subject:** A robed figure standing on a high rocky outcrop with arms thrown wide, calling forth a swirling vortex of red energy in the sky above
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, action, figures: solo, facing: away
+**Setting:** mountain, indeterminate, storm
+**Foreground:** robed figure with arms outstretched on a rocky ledge  *(palette: black, rust, deep-red)*
+**Background:** swirling red vortex sky over distant cliffs  *(palette: crimson, orange, ember, dark-red)*
+**Mood / lighting:** sublime, backlit
+**Emotion read:** ecstatic invocation, surrender to power, defiant calling
+**Objects:** floating debris, rocky outcrop
+**Iconography:** vortex, outstretched-arms, ritual-pose
+**Genre cues:** fantasy, high-fantasy
 

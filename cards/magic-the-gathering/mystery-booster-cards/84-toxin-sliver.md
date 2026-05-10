@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["sliver", "monster", "parasite", "claws", "venom", "poison", "stinger", "tail", "cave", "skeletal", "predator", "body-horror"]
+tags_filter: ["solo", "mid-shot", "three-quarter-facing", "no-face", "creature-sliver", "black-magic", "centered-composition", "scene-mode"]
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/84-toxin-sliver.png
 average_cost_paid: 0
 market_price: 1.85
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/c/7/c7bdf2e4-ff7c-4be2-a5a0-d56be820918e.png?1573510688
+mood: horror
+time_of_day: indeterminate
+setting: dungeon
 ---
 
 # Toxin Sliver (Mystery Booster Cards)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![84-toxin-sliver](../../_images/magic-the-gathering/mystery-booster-cards/84-toxin-sliver.png)
 
+A sickly, sinewy Sliver crouches forward in a dark cave or burrow, its ribcage exposed and skin stretched tight over a hunched skeletal frame. Two long arms terminate in oversized hooked claws that brace against the rocky ground. A whip-thin tail curls behind it, ending in a barbed stinger. The creature's head is elongated and eyeless, jaws cracked open as if hissing or about to strike. The palette is almost entirely sickly greens, putrid yellows, and inky black, with the figure's pale-green sinews lit from above against deep shadow. The composition is centered, with the creature filling most of the frame and the dark cavern walls receding into murk.
 
-**Subject:** 
+**Subject:** A venomous Sliver creature — a hunched, lanky parasitic predator with elongated clawed limbs, exposed ribcage, and a long whiplike tail tipped with a stinger. It crouches in a dim cavernous space, jaws open in a hiss.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: three-quarter
+**Setting:** dungeon, organic, indeterminate
+**Foreground:** hunched sliver creature with claws braced on rock, stinger-tail curled behind  *(palette: sickly-green, yellow-green, bone-white, black)*
+**Background:** dark cave or burrow interior, rocky walls fading into shadow  *(palette: black, dark-green, charcoal)*
+**Mood / lighting:** horror, chiaroscuro
+**Emotion read:** predatory aggression, hissing menace, coiled to strike
+**Objects:** rocks, claws, stinger
+**Creatures:** sliver, parasite
+**Iconography:** stinger, claws, exposed-ribcage
+**Genre cues:** fantasy, body-horror, dark-fantasy
 

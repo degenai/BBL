@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["coffin", "tomb", "fairy-tale", "snow-white", "forest", "vines", "brambles", "archway", "ruins", "shrine", "glass", "death", "gothic", "moonlight"]
+tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "artifact", "white-magic", "exile"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/15-glass-casket.png
 average_cost_paid: 0
 market_price: 0.11
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/5/6/562f1c51-d245-4771-bf61-415297e4f9d5.png?1572489690
+mood: grim
+time_of_day: twilight
+setting: forest
 ---
 
 # Glass Casket (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![15-glass-casket](../../_images/magic-the-gathering/throne-of-eldraine/15-glass-casket.png)
 
+A transparent glass casket rests on a low stone plinth beneath a weathered stone archway in a moonlit forest. Thick gnarled vines and thorny brambles climb the arch and curl around the casket itself, partially overgrowing the structure. Pale light filters through the trees behind the arch, silhouetting bare branches against a hazy sky. The scene is hushed and funerary, with a fairy-tale Snow White quality — the casket sits empty or with an indistinct figure inside, framed like a shrine in the wilderness.
 
-**Subject:** 
+**Subject:** An ornate glass coffin set within an arched stone alcove in a forest clearing, surrounded by twisting vines and brambles
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, narrative, figures: none, facing: n/a
+**Setting:** forest, ruined, twilight, calm
+**Foreground:** glass casket on stone plinth under a vine-covered stone archway  *(palette: slate-grey, moss-green, pale-blue, bone-white)*
+**Background:** moonlit forest with bare trees and hazy sky  *(palette: dusky-blue, muted-violet, grey, shadow-black)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** still, mournful, hushed
+**Objects:** glass-casket, stone-archway, stone-plinth, vines, brambles, thorns
+**Iconography:** coffin, archway, tomb
+**Genre cues:** fantasy, fairy-tale, gothic
 

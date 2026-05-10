@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["underworld", "death", "drowning", "struggle", "tentacles", "tendrils", "abduction", "descent", "abyss", "captivity", "horror", "myth"]
+tags_filter: ["solo", "mid-shot", "three-quarter", "single-figure", "no-face-visible", "instant", "black-magic", "removal"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/89-drag-to-the-underworld.png
 average_cost_paid: 0
 market_price: 0.19
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/9/1/91852444-9361-4588-a44f-fb90ba1b30e5.png?1581479732
+mood: horror
+time_of_day: indeterminate
+setting: void
 ---
 
 # Drag to the Underworld (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![89-drag-to-the-underworld](../../_images/magic-the-gathering/theros-beyond-death/89-drag-to-the-underworld.png)
 
+A pale-skinned figure with arms upraised is shown in mid-struggle as dark, sinuous tendrils or coils wrap around the body and pull downward into a shadowy void. The composition is vertical, with the figure foreshortened and twisting; the tendrils are organic and snake-like, threading around the limbs and torso. The background is a deep, murky brown-black, with hints of red and warm muddy tones suggesting an unseen abyss or chthonic deep. Lighting is dramatic chiaroscuro, with the figure picked out in dim warm light against the encroaching dark, conveying inevitability and entrapment.
 
-**Subject:** 
+**Subject:** A figure being dragged downward by sinuous tendrils or tentacles emerging from below, struggling against the pull
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** void, indeterminate
+**Foreground:** struggling figure entwined by dark tendrils  *(palette: pale-flesh, warm-brown, deep-black, muted-red)*
+**Background:** shadowy abyssal void with murky brown-black tones  *(palette: black, dark-brown, muddy-red)*
+**Mood / lighting:** horror, chiaroscuro
+**Emotion read:** desperate struggle, futile resistance, terror
+**Objects:** tendrils, coils
+**Iconography:** grasping-tendrils, downward-pull
+**Genre cues:** fantasy, mythological, greek-myth
 

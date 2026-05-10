@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["chimera", "wings", "flight", "ocean", "waves", "mane", "fire-mane", "mythic-beast", "greek-myth", "sky", "storm", "sea-monster"]
+tags_filter: ["solo", "wide-shot", "three-quarter", "action-mode", "no-face-human", "blue-magic", "red-magic", "multicolor-blue-red", "enchantment", "creature-chimera", "flying", "scry"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/223-mischievous-chimera.png
 average_cost_paid: 0
 market_price: 0.13
@@ -22,18 +22,27 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/f/8/f8a3df0e-4ee8-458b-adf5-56aca20493e9.png?1581481116
+mood: sublime
+time_of_day: day
+setting: ocean
 ---
 
 # Mischievous Chimera (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![223-mischievous-chimera](../../_images/magic-the-gathering/theros-beyond-death/223-mischievous-chimera.png)
 
+A chimeric beast bursts upward over a crashing blue-green sea. Large feathered wings spread wide and arc backward, catching highlights of warm light. The creature's body is lithe and muscled with a long flowing mane of red, orange, and yellow that ripples like flame in the wind. Spray and white-capped waves churn beneath it, and the sky behind glows with golden, sun-shot clouds. The composition is dynamic and ascending, painted in a bright mythic-illustration style consistent with Theros's Greek-myth flavor.
 
-**Subject:** 
+**Subject:** A winged chimera with feathered wings and a flowing fiery red mane, mid-flight above churning blue water
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, action, figures: solo, facing: three-quarter
+**Setting:** ocean, day, storm
+**Foreground:** winged chimera leaping skyward with flowing red-orange mane  *(palette: red, orange, yellow, white, tan)*
+**Background:** stormy blue-green ocean below, golden sun-lit clouds above  *(palette: blue, teal, gold, white, cream)*
+**Mood / lighting:** sublime, backlit
+**Emotion read:** wild, exuberant motion; mischievous energy
+**Creatures:** chimera, winged-beast
+**Genre cues:** fantasy, greek-myth, mythic
 

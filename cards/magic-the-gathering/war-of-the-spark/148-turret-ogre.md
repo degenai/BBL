@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["ogre", "warrior", "siege-weapon", "ballista", "crossbow", "war", "fire", "battle", "brute", "weapon", "smoke", "ranged-attacker"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "male-figure", "red-magic", "creature-ogre", "creature-warrior", "reach"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/148-turret-ogre.png
 average_cost_paid: 0
 market_price: 0.08
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/8/b/8b5f624f-c5eb-4150-b36e-6147b440ff56.png?1566396509
+mood: action
+time_of_day: indeterminate
+setting: other
 ---
 
 # Turret Ogre (War of the Spark)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![148-turret-ogre](../../_images/magic-the-gathering/war-of-the-spark/148-turret-ogre.png)
 
+A hulking, broad-shouldered ogre with grayish-tan skin stands wide-legged in the foreground, gripping the haft of an enormous mounted weapon — part siege crossbow, part ballista turret — that he is firing personally. Long dark hair whips around his head. He wears only a loincloth or wrap and heavy belt, leaning his bulk into the weapon as the bolt streaks forward. The background is a wash of orange and red — smoke, fire, and battle haze — with sparks and what appear to be flying debris or projectiles cutting across the frame. The composition reads action and brute force; the ogre is the kinetic center, the turret an extension of his body.
 
-**Subject:** 
+**Subject:** A massive bare-chested ogre warrior straddling a heavy crossbow-style turret weapon, drawing back a giant arrow or bolt mid-shot against a fiery red battlefield
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** other, indeterminate, smoke
+**Foreground:** ogre warrior operating a mounted ballista / turret crossbow, drawing and firing a massive bolt  *(palette: tan, gray, brown, dark-iron)*
+**Background:** smoky orange-red battlefield haze with sparks, flying debris and motion lines  *(palette: orange, red, amber, smoke-gray)*
+**Mood / lighting:** action, harsh
+**Emotion read:** ferocious focus, mid-roar combat exertion
+**Objects:** ballista, turret, crossbow, siege-weapon, bolt, arrow, belt
+**Creatures:** ogre
+**Iconography:** sparks, motion-lines, fire
+**Genre cues:** fantasy, high-fantasy, war
 

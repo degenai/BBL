@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["stag", "deer", "antlers", "wildlife", "forest", "nature", "blessing", "divine", "mythology", "horns", "beast", "sacred-animal"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-figure", "white-magic", "instant", "creature-none"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/26-karametra-s-blessing.png
 average_cost_paid: 0
 market_price: 0.26
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/8/8/88c8e4dc-5378-48d6-85b2-f5ea9ec7cf36.png?1581479156
+mood: sublime
+time_of_day: day
+setting: other
 ---
 
 # Karametra's Blessing (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![26-karametra-s-blessing](../../_images/magic-the-gathering/theros-beyond-death/26-karametra-s-blessing.png)
 
+A powerful stag rears up on its hind legs in a dynamic, almost heraldic pose. Its enormous antlers spread wide and branch into many tines, dominating the upper portion of the frame. The animal's coat is a warm tan-brown, rendered with painterly brushwork. The background is a soft, light-filled wash of pale sky with hints of cloud and distant terrain, giving the figure an iconic, almost devotional silhouette. The composition feels like a blessing tableau — the stag as a numinous, divine creature rather than a hunted beast.
 
-**Subject:** 
+**Subject:** A rearing stag with massive, ornately branching antlers, hooves striking forward, set against a pale sky with distant landscape forms
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** other, day, clear
+**Foreground:** rearing stag with vast multi-tined antlers, raised front hooves, warm tan body  *(palette: tan, brown, umber, cream)*
+**Background:** pale sky wash with soft cloud shapes and faint distant landscape  *(palette: pale-blue, white, soft-gold, muted-grey)*
+**Mood / lighting:** sublime, soft
+**Emotion read:** majestic, alert, defiant, numinous
+**Objects:** antlers
+**Creatures:** stag, deer
+**Iconography:** antlers, rearing-pose, heraldic-beast
+**Genre cues:** fantasy, mythological, heraldic
 

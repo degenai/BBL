@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["merfolk", "wizard", "ocean", "wave", "spellcaster", "water", "robed-figure", "sea-magic", "storm", "mystic", "mythic-greek", "ritual"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "blue-magic", "creature-merfolk", "creature-wizard", "mill"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/77-towering-wave-mystic.png
 average_cost_paid: 0
 market_price: 0.09
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/8/c/8c2b4ffc-b1e1-4b16-9a51-1a12f8256a27.png?1581479618
+mood: sublime
+time_of_day: day
+setting: ocean
 ---
 
 # Towering-Wave Mystic (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![77-towering-wave-mystic](../../_images/magic-the-gathering/theros-beyond-death/77-towering-wave-mystic.png)
 
+A blue-skinned merfolk wizard with long flowing hair and trailing finlike adornments stands with arms outstretched, conjuring or commanding a massive cresting wave that towers behind them. The figure wears layered robes and ornate bracers in the Greek-inspired Theros style, suggestive of a priest-mage of the sea. The composition is dominated by deep ocean blues and white foam, with the wave's crest curling overhead like architecture. The horizon below shows distant low cliffs or islands. Light catches the wet surfaces and the figure's skin in cool highlights, giving the whole scene an aquatic luminescence.
 
-**Subject:** 
+**Subject:** A merfolk wizard standing at the prow of a ship or stone outcropping, arms raised as a towering wall of water surges up behind them
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** ocean, day, storm
+**Foreground:** merfolk wizard with raised arms casting a spell  *(palette: deep blue, teal, white, cyan)*
+**Background:** towering cresting ocean wave under an open sky  *(palette: ocean blue, navy, white foam, pale sky)*
+**Mood / lighting:** sublime, ambient
+**Emotion read:** focused, commanding, exalted
+**Objects:** robes, bracers, trailing adornments
+**Creatures:** merfolk
+**Iconography:** wave, raised-arms-casting
+**Genre cues:** fantasy, mythic-greek
 

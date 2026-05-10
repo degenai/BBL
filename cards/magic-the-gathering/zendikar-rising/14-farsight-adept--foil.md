@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["wizard", "robed-figure", "cliff", "wind", "mountain", "sky", "sentinel", "staff", "prophecy", "horizon", "lone-figure", "windswept"]
+tags_filter: ["solo", "mid-shot", "three-quarter-facing", "scene-mode", "white-magic", "creature-kor", "creature-wizard", "card-draw", "no-face-detail"]
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/14-farsight-adept--foil.png
 average_cost_paid: 0
 market_price: 0.12
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/5/9/5949bb9a-b4e8-4992-a12d-8e31953aff0d.png?1604195753
+mood: sublime
+time_of_day: day
+setting: mountain
 ---
 
 # Farsight Adept (Zendikar Rising)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![14-farsight-adept--foil](../../_images/magic-the-gathering/zendikar-rising/14-farsight-adept--foil.png)
 
+A lean, pale-skinned humanoid wizard stands at the lip of a soaring stone precipice, body twisted in a dynamic three-quarter pose. Long pale hair and layered ivory-and-tan robes whip sideways in a strong wind. The figure grips a tall slender weapon — staff or curved sword — angled up and back behind their head. The background is a churning expanse of pale clouds and distant peaks rendered in cool whites, soft blues, and dusty cream tones; tiny flecks of debris or leaves drift through the air. Lighting is bright, diffuse and high-key, suggesting a windswept daylight summit. The mood is alert, watchful, almost prophetic — the body language reads as a sentinel scanning the far horizon.
 
-**Subject:** 
+**Subject:** A Kor wizard standing at the edge of a high cliff, robes and hair streaming in the wind, raising a long curved staff or blade in one hand while looking out over the open sky
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** mountain, day, storm
+**Foreground:** Kor wizard in wind-blown robes on cliff edge, holding a long staff or curved blade aloft  *(palette: ivory, cream, tan, pale-blue, ash-grey)*
+**Background:** swirling pale clouds, distant peaks, high-altitude sky with flecks of debris drifting on the wind  *(palette: white, pale-blue, soft-grey, muted-cream)*
+**Mood / lighting:** sublime, soft
+**Emotion read:** alert, watchful, prophetic — body twisted as if catching sight of something far off
+**Objects:** staff, curved-blade, robes, wind-blown-cloth
+**Creatures:** kor
+**Iconography:** cliff-edge, wind, lone-sentinel
+**Genre cues:** fantasy, high-fantasy
 

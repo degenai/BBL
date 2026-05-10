@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["bones", "skeleton", "claws", "hands", "furnace", "fire", "crematorium", "graveyard", "undead", "necromancy", "horror", "gothic", "ember-light"]
+tags_filter: ["artifact", "colorless", "duo", "mid-shot", "forward-facing", "no-face", "scene-mode", "indoor"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/238-scrabbling-claws.png
 average_cost_paid: 0
 market_price: 0.21
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/6/7/67b06cb5-5e74-456f-81b1-fced1346cc47.png?1584832162
+mood: grim
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Scrabbling Claws (Ravnica Allegiance)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![238-scrabbling-claws](../../_images/magic-the-gathering/ravnica-allegiance/238-scrabbling-claws.png)
 
+Two disembodied skeletal hands with unnaturally long, jointed bone-fingers crawl spider-like across a dark stone or metal surface. The hands are silhouetted in deep blue-black, their fingertips planted as if mid-scuttle. Behind them a circular furnace mouth glows hot orange-red, casting smoky red light upward and rim-lighting the bony digits. The setting reads as an industrial crematorium or boneyard interior, with rough columns and a grated floor receding into shadow. Mood is grim, mechanical, and quietly horrific.
 
-**Subject:** 
+**Subject:** A pair of disembodied skeletal claw-hands with elongated bony fingers, scuttling across a stone surface in front of a glowing furnace
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, narrative, figures: duo, facing: forward
+**Setting:** indoor, ruined, indeterminate, smoke
+**Foreground:** two skeletal claw-hands crawling on a stone surface  *(palette: bone-white, ash-grey, blue-black)*
+**Background:** glowing circular furnace mouth in a dim crematorium interior  *(palette: ember-orange, crimson, smoke-grey, indigo)*
+**Mood / lighting:** grim, rim
+**Emotion read:** creeping menace, scavenger hunger
+**Objects:** furnace, stone-floor, grate, columns
+**Creatures:** skeletal-hands
+**Iconography:** bones, furnace, ember
+**Genre cues:** fantasy, horror, gothic
 

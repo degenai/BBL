@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["chimera", "monster", "beast", "forest", "fangs", "horns", "predator", "undergrowth", "mythological-creature", "snarl", "wilderness"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "no-face", "creature-chimera", "green-magic", "scene-mode", "action"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/177-loathsome-chimera.png
 average_cost_paid: 0
 market_price: 0.06
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/3/a/3afe6283-3642-4883-ac6e-83ae3280af9c.png?1581480674
+mood: grim
+time_of_day: indeterminate
+setting: forest
 ---
 
 # Loathsome Chimera (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![177-loathsome-chimera](../../_images/magic-the-gathering/theros-beyond-death/177-loathsome-chimera.png)
 
+A grotesque chimera lunges out from a tangle of dark, thorny vegetation. Its head is a fanged, snarling, lion-like skull with curving horns and bristling spines along its neck and back. The body is sinewy and muscular with rough, scaly hide; a long tail whips through the brush behind it. The creature's mouth is wide open, baring teeth and tusks. The palette is dominated by sickly greens, mossy olives, and murky browns, with lighter highlights catching the creature's snarling face. The whole composition feels overgrown and feral, the beast emerging from the wilderness rather than posed in it.
 
-**Subject:** 
+**Subject:** A monstrous chimera with a snarling lion-like maw, jagged horns, and a long whip-tail bursting through dense undergrowth
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** forest, indeterminate
+**Foreground:** snarling chimera head and shoulders pushing through brambles and ferns  *(palette: mossy-green, olive, bone-white, umber)*
+**Background:** dense, shadowed forest undergrowth with twisting vines and jagged foliage  *(palette: deep-green, black, brown)*
+**Mood / lighting:** grim, rim
+**Emotion read:** feral aggression, snarling open-mouthed roar
+**Objects:** thorns, vines, ferns
+**Creatures:** chimera, lion-headed-beast, horned-beast
+**Iconography:** fangs, horns, spines
+**Genre cues:** fantasy, mythological, horror
 

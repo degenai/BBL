@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["satyr", "undead", "zombie", "musician", "piper", "music", "horns", "skeleton", "death", "underworld", "greek-myth", "ritual"]
+tags_filter: ["solo", "mid-shot", "three-quarter", "male-figure", "creature-zombie", "creature-satyr", "black-magic", "monochrome-palette"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/88-discordant-piper.png
 average_cost_paid: 0
 market_price: 0.12
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/a/8/a8cce294-f6ee-4b18-8b65-7d01d0317b00.png?1581479725
+mood: grim
+time_of_day: indeterminate
+setting: other
 ---
 
 # Discordant Piper (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![88-discordant-piper](../../_images/magic-the-gathering/theros-beyond-death/88-discordant-piper.png)
 
+A skeletal, undead satyr stands in a barren grey wasteland, blowing into a set of double aulos-style pipes. The figure has a humanoid torso with visible ribcage and emaciated musculature, goat-like horns curling from its head, and a tuft of pale yellow hair. Its skin is washed-out grey-white, giving it a corpse-like pallor. The background is dark and indistinct, suggesting a desolate field or underworld. The overall palette is muted greys, blacks, and bone-whites, with only the small yellow accent of the piper's hair and the warm tone of the pipes breaking the monochrome.
 
-**Subject:** 
+**Subject:** A gaunt undead satyr piper with goat-like horns, exposed ribs, and pale grey skin, playing a set of double pipes in a dim, decaying landscape
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: three-quarter
+**Setting:** other, indeterminate
+**Foreground:** undead satyr playing double pipes  *(palette: bone-white, grey, pale-yellow, tan)*
+**Background:** dark desolate field, indistinct underworld terrain  *(palette: black, charcoal, dark-grey)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** hollow, mournful, lost in a final dirge
+**Objects:** double-pipes, aulos, musical-instrument
+**Creatures:** satyr, zombie, undead
+**Iconography:** pipes, horns, exposed-ribs
+**Genre cues:** fantasy, mythological, greek-myth, horror
 

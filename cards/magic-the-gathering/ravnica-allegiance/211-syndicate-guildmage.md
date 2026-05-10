@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["cleric", "robed-figure", "hooded-figure", "cathedral", "gothic", "ritual", "blade", "sickle", "preacher", "syndicate", "ecclesiastical", "orzhov"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "creature-human", "creature-cleric", "multicolor-white-black", "white-magic", "black-magic"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/211-syndicate-guildmage.png
 average_cost_paid: 0
 market_price: 0.07
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/e/8/e82d3c8d-849a-445b-bc7c-365514d1511f.png?1584831902
+mood: grim
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Syndicate Guildmage (Ravnica Allegiance)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![211-syndicate-guildmage](../../_images/magic-the-gathering/ravnica-allegiance/211-syndicate-guildmage.png)
 
+A hooded figure in flowing golden-yellow robes stands centered with both arms raised wide, gripping a curved sickle-like blade in one hand. The robe's deep folds and rich orange-gold hue dominate the foreground. Behind the figure, a vast gothic sanctum recedes into deep shadow — pointed arches, slender columns, and vaulted ribs suggest an Orzhov cathedral. The lighting is warm and theatrical, throwing the cleric forward against a cool, dim background. The pose reads as preaching, blessing, or condemning — ritual and authoritative. The face is obscured by the hood, deepening the impersonal, ecclesiastical menace.
 
-**Subject:** 
+**Subject:** robed cleric with arms outstretched, brandishing a curved blade inside an ornate cathedral interior
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** indoor, gothic, indeterminate
+**Foreground:** robed hooded cleric with outstretched arms holding a curved blade  *(palette: gold, amber, orange, black)*
+**Background:** gothic cathedral interior with pointed arches and shadowed columns  *(palette: deep brown, black, dim gold)*
+**Mood / lighting:** grim, chiaroscuro
+**Emotion read:** imperious, ritualistic, condemnatory — face hidden, body language commanding
+**Objects:** curved blade, sickle, robe, hood
+**Iconography:** hooded-figure, outstretched-arms, curved-blade
+**Genre cues:** fantasy, gothic, ecclesiastical
 

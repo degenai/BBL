@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["golem", "construct", "automaton", "forge", "metal", "crystal", "guardian", "magic", "smoke", "servant", "artifact-being", "machinery"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "artifact", "creature-golem", "colorless", "convoke"]
 reference_image: cards/_images/magic-the-gathering/magic-2015-m15/239-will-forged-golem.png
 average_cost_paid: 0
 market_price: 0.05
@@ -22,18 +22,28 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/1/0175bafa-dc9
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
+mood: other
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Will-Forged Golem (Magic 2015 (M15))
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![239-will-forged-golem](../../_images/magic-the-gathering/magic-2015-m15/239-will-forged-golem.png)
 
+A massive constructed humanoid figure dominates the frame, its body assembled from sharp, faceted metal plates radiating cool blue and silver light. The golem's forms are angular and crystalline, with energy seeping between its joints. The background is a hazy, smoke-filled atmosphere lit by pale blue glow, suggesting a magical forge or workshop. The lighting is rim-lit and ethereal, with cyan highlights tracing the edges of the construct. The mood is austere and mechanical — a freshly animated automaton mid-stride, charged with arcane energy.
 
-**Subject:** 
+**Subject:** A towering humanoid golem composed of jagged, crystalline metal plates, standing in a hazy industrial or arcane forge. Energy and steam emanate from its frame as it strides forward.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** indoor, indeterminate, smoke
+**Foreground:** crystalline metallic golem with glowing seams, fractured plate-armor body  *(palette: silver, steel-blue, cyan, white, slate)*
+**Background:** smoky haze with diffuse blue light, suggestive of a forge or arcane workshop  *(palette: pale-blue, smoke-grey, navy, indigo)*
+**Mood / lighting:** other, rim
+**Emotion read:** blank, imposing, newly awakened — the stoicism of an unliving servant
+**Objects:** metal-plates, crystalline-shards, glowing-seams
+**Creatures:** golem, construct, automaton
+**Genre cues:** fantasy, high-fantasy, arcane-industrial
 

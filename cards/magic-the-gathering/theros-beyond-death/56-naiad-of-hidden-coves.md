@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["water", "ocean", "wave", "nymph", "elemental", "spirit", "sea", "mythology", "greek-myth", "ghostly", "transparent-figure"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "female-figure", "no-clothing", "blue-magic", "enchantment", "creature-nymph"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/56-naiad-of-hidden-coves.png
 average_cost_paid: 0
 market_price: 0.11
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/d/c/dc6ae489-658b-4c12-b204-f7b58ce84375.png?1581479418
+mood: sublime
+time_of_day: twilight
+setting: ocean
 ---
 
 # Naiad of Hidden Coves (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![56-naiad-of-hidden-coves](../../_images/magic-the-gathering/theros-beyond-death/56-naiad-of-hidden-coves.png)
 
+A translucent female figure made of water emerges from a moonlit sea. Her hair and limbs dissolve into curling waves and spray, with crests of white foam tracing the contours of her face and outstretched arms. The horizon is low; the sky above is a deep grey-blue, the water beneath her a darker indigo with rolling swells. She has no solid flesh — she is the wave taking the shape of a woman. The palette is almost entirely cool blues, teals, and pale whites, with the brightest highlights on the foam-edges of her form. The mood is eerie, lyrical, and unmistakably elemental.
 
-**Subject:** 
+**Subject:** A naiad — a water-nymph — rising out of the sea, her body and hair formed entirely of churning blue water and foam against a moonlit ocean horizon
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** ocean, twilight, calm
+**Foreground:** water-elemental female figure rising from the sea, body composed of waves and foam  *(palette: cyan, teal, white-foam, pale-blue)*
+**Background:** open ocean horizon under a dim grey-blue sky  *(palette: deep-blue, grey-blue, indigo)*
+**Mood / lighting:** sublime, ambient
+**Emotion read:** serene, otherworldly, watchful
+**Creatures:** naiad, water-elemental
+**Iconography:** wave, foam, female-form
+**Genre cues:** fantasy, mythic, greek-myth
 

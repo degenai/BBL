@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["fire", "whip", "destruction", "warrior", "rage", "ruins", "shirtless-figure", "bearded-figure", "long-hair", "rampage", "burning-settlement", "barbarian"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "male-figure", "action-mode", "red-magic", "black-magic", "multicolor-red-black", "sorcery"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/185-angrath-s-rampage.png
 average_cost_paid: 0
 market_price: 0.27
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/f/5/f5a39379-7313-463a-9a02-e5157b9557f4.png?1557577065
+mood: action
+time_of_day: indeterminate
+setting: other
 ---
 
 # Angrath's Rampage (War of the Spark)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![185-angrath-s-rampage](../../_images/magic-the-gathering/war-of-the-spark/185-angrath-s-rampage.png)
 
+A burly, shirtless brawler with long dark hair and a beard wields a glowing, flame-trailing whip in a wide arcing swing. His body language is forward and aggressive, charging through a scene engulfed in fire. The background is rendered in hot oranges, reds, and yellows with darker silhouettes suggesting toppled or burning buildings. The composition emphasizes movement: the whip's curve dominates the frame, and embers and smoke fill the negative space. Lighting is harsh and fiery, with strong rim light from the flames around the figure.
 
-**Subject:** 
+**Subject:** A muscular, bare-chested male figure stands amid flames, brandishing a glowing whip-like lash of fire that arcs around him in a sweeping curve. He has long dark hair, a beard, and broad shoulders; his pose is aggressive, mid-motion, with the burning lash trailing through the air. Behind him are silhouettes of burning structures or rubble suggesting a settlement set ablaze.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** other, ruined, indeterminate, fire
+**Foreground:** shirtless bearded warrior swinging a fiery whip  *(palette: orange, red, yellow, skin-tone, black)*
+**Background:** burning rubble and silhouetted ruined structures wreathed in flame and smoke  *(palette: deep-orange, red, black, ember-yellow)*
+**Mood / lighting:** action, rim
+**Emotion read:** furious, charging, aggressive
+**Objects:** whip, flames, embers, rubble
+**Iconography:** fire, whip, destruction
+**Genre cues:** fantasy, dark-fantasy
 

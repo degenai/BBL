@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["cloak", "mantle", "stars", "starlight", "sparks", "light-magic", "ritual", "investiture", "garment", "radiance"]
+tags_filter: ["blue-magic", "mono-blue", "no-figure", "abstract-mode", "mid-shot", "object-focus", "centered-composition", "enchantment-aura", "common", "enchantment"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/67-starlit-mantle.png
 average_cost_paid: 0
 market_price: 0.08
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/6/8/68c53625-6928-494a-af87-7eee2f6643a5.png?1581479536
+mood: sublime
+time_of_day: indeterminate
+setting: void
 ---
 
 # Starlit Mantle (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![67-starlit-mantle](../../_images/magic-the-gathering/theros-beyond-death/67-starlit-mantle.png)
 
+The art shows a billowing blue cloak or mantle in mid-motion, its fabric swirling outward in dynamic, ribbon-like folds. The garment is haloed by an explosive burst of bright white sparks and motes of light radiating outward like a starburst. No wearer is visible — the mantle appears empty or its occupant is implied rather than shown. The palette is dominated by deep cobalt and royal blues for the cloth, set against a softer azure background, with brilliant white-yellow highlights at the center of the spark burst. The composition is energetic and centered, reading as a magical investiture or activation moment.
 
-**Subject:** 
+**Subject:** A flowing blue cloak or mantle bursting outward in a radiant explosion of sparks and starlight, suggesting the moment of being donned or activated by an unseen wearer
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, abstract, figures: none, facing: n/a
+**Setting:** void, indeterminate
+**Foreground:** swirling blue cloak/mantle with starburst of sparks at center  *(palette: cobalt-blue, royal-blue, white, pale-yellow)*
+**Background:** soft hazy blue field with faint glow  *(palette: azure, pale-blue, white)*
+**Mood / lighting:** sublime, rim
+**Emotion read:** no figure visible; the mantle itself reads as charged, dynamic, awakening
+**Objects:** cloak, mantle, cape, sparks, stars
+**Iconography:** starburst, radiant-light, swirling-cloth
+**Genre cues:** fantasy, high-fantasy, mythic
 

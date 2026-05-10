@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["spirit", "ghost", "philosopher", "scholar", "robed-figure", "book", "knowledge", "teaching", "ocean", "mediterranean", "classical-greece", "columns", "ruins", "translucent-figure"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "no-face", "blue-magic", "enchantment", "creature-spirit", "draw-cards"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/48-eidolon-of-philosophy.png
 average_cost_paid: 0
 market_price: 0.09
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/d/2/d2897635-b387-485d-932f-5655244a381f.png?1581479342
+mood: sublime
+time_of_day: day
+setting: other
 ---
 
 # Eidolon of Philosophy (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![48-eidolon-of-philosophy](../../_images/magic-the-gathering/theros-beyond-death/48-eidolon-of-philosophy.png)
 
+An ethereal robed figure stands on a sunlit stone veranda, arms raised in a teaching or oratorical gesture, their form rendered in translucent blue-white spirit energy. A glowing object — possibly an open book or floating scroll — hovers in the air before them, radiating warm orange light. The setting is a classical Mediterranean coastal terrace with pale stone columns and balustrades, the deep blue sea stretching beyond under a bright golden sky. The composition fuses Greek philosopher iconography with the ghostly transparency of a Theros eidolon (constellation spirit).
 
-**Subject:** 
+**Subject:** A robed spirit-philosopher gesturing with arms raised on a sunlit Mediterranean veranda overlooking the sea, with a glowing book or scroll floating before them
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, narrative, figures: solo, facing: forward
+**Setting:** other, modern, day, clear
+**Foreground:** translucent robed spirit gesturing, glowing book or scroll  *(palette: spirit-blue, white, warm-orange, gold)*
+**Background:** classical stone veranda with columns overlooking a calm blue sea under a golden sky  *(palette: pale-stone, deep-blue, gold, sky-blue)*
+**Mood / lighting:** sublime, backlit
+**Emotion read:** rapt, declamatory, lost in revelation
+**Objects:** floating-book, scroll, stone-columns, balustrade
+**Creatures:** spirit, eidolon
+**Iconography:** glowing-tome, raised-arms, philosopher-gesture
+**Genre cues:** fantasy, classical-greek, mythic
 

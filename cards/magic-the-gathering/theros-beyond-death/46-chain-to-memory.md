@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["water", "pool", "memory", "reflection", "underworld", "myth", "ritual", "night", "reaching", "drowning", "mortality", "communion"]
+tags_filter: ["duo", "2-figures", "mid-shot", "narrative-mode", "male-figure", "shirtless", "three-quarter-facing", "blue-magic", "instant", "scry"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/46-chain-to-memory.png
 average_cost_paid: 0
 market_price: 0.11
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/f/a/fa0e1a22-8f27-4c5b-a65c-c35abd2ff05b.png?1581479320
+mood: sublime
+time_of_day: night
+setting: other
 ---
 
 # Chain to Memory (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![46-chain-to-memory](../../_images/magic-the-gathering/theros-beyond-death/46-chain-to-memory.png)
 
+A muscular, shirtless figure kneels or crouches on the rim of a dark, reflective pool, leaning forward and reaching down toward another partly-submerged figure whose face and torso emerge from rippling water. Both figures are rendered in cool moonlit blues with pale rim-lighting catching their shoulders and arms. The water is glossy black-blue with reflected highlights, and faint mist or vapor rises around them. The framing is intimate, almost mythic, suggesting a moment of memory, communion, or compulsion across the threshold of the water. The Theros Beyond Death frame is blue, with the constellation iconography around the borders.
 
-**Subject:** 
+**Subject:** A bare-chested figure crouched at the edge of a dark pool, reaching down toward a second figure whose head and shoulders are submerged or rising from the water; a chain or current of water connects the two.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, narrative, figures: duo, facing: three-quarter
+**Setting:** other, night, calm
+**Foreground:** kneeling shirtless figure reaching down to a submerged figure at the water's edge  *(palette: pale blue, ivory, shadow black)*
+**Background:** dark reflective pool / underworld water surface fading into void  *(palette: deep blue, black, indigo)*
+**Mood / lighting:** sublime, rim
+**Emotion read:** solemn, yearning, hushed reverence; the kneeling figure leans with focused intent toward the one in the water
+**Objects:** pool, water, ripples
+**Iconography:** reflection, submersion, reaching-hand
+**Genre cues:** fantasy, mythological, greek-myth
 

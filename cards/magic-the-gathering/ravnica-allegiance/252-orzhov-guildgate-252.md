@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["cathedral", "gothic", "spire", "city", "wealth", "gold", "twilight", "architecture", "monument", "gate", "rooftops", "skyline"]
+tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "guildgate", "white-magic-black-magic", "establishing-shot"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/252-orzhov-guildgate-252.png
 average_cost_paid: 0
 market_price: 0.14
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/c/b/cba5fb67-e161-4e89-be3e-c8021122ff19.png?1584832286
+mood: sublime
+time_of_day: twilight
+setting: urban
 ---
 
 # Orzhov Guildgate (252) (Ravnica Allegiance)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![252-orzhov-guildgate-252](../../_images/magic-the-gathering/ravnica-allegiance/252-orzhov-guildgate-252.png)
 
+A vast gothic cathedral dominates the frame, built of pale ivory stone with a soaring central spire flanked by lower towers and pointed arched windows. Gold leaf and dark iron filigree pick out the trim along the facade and the great rose-style central window. Below the cathedral, lower rooftops and tiled urban structures recede into a hazy middle ground, suggesting a dense city that climbs up to the guild's seat. The sky behind is washed in dim amber and grey-violet, somewhere between dusk and overcast indeterminate twilight. No figures are present; the building itself is the protagonist. The composition is a wide architectural establishing shot with the cathedral slightly off-center.
 
-**Subject:** 
+**Subject:** A monumental gothic cathedral-gate of pale stone and gilded ornament, rising over the rooftops of a stratified city at evening; the Orzhov guild's Ravnican gateway
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, narrative, figures: none, facing: n/a
+**Setting:** urban, gothic, twilight, calm
+**Foreground:** ivory-stone gothic cathedral facade with gilded trim and arched windows  *(palette: ivory, pale-grey, gold, dark-iron)*
+**Background:** stratified city rooftops fading into a hazy amber-violet sky  *(palette: amber, muted-violet, grey, warm-tan)*
+**Mood / lighting:** sublime, ambient
+**Emotion read:** imposing, austere, monumental — wealth made of stone
+**Objects:** cathedral, spire, arched-windows, rooftops, iron-filigree, gilded-trim
+**Iconography:** gothic-arch, rose-window, spire, gold-leaf, guildgate
+**Genre cues:** fantasy, gothic
 

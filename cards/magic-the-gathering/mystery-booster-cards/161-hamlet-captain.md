@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["warrior", "soldier", "captain", "guardian", "swordsman", "armor", "helm", "forest", "village", "militia", "defender", "human-warrior"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "male-figure", "green-magic", "creature-human", "creature-warrior", "anthem-effect"]
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/161-hamlet-captain.png
 average_cost_paid: 0
 market_price: 0.36
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/f/d/fd8f9cd1-1c43-4778-b8e9-ce51b81984d3.png?1573513827
+mood: grim
+time_of_day: day
+setting: forest
 ---
 
 # Hamlet Captain (Mystery Booster Cards)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![161-hamlet-captain](../../_images/magic-the-gathering/mystery-booster-cards/161-hamlet-captain.png)
 
+A bearded human warrior in worn plate-and-mail armor and a tall horned helmet stands forward in a sun-dappled forest clearing. He grips a long straight sword in both hands, the blade angled across his torso in a guard stance. His expression is grim and resolute. Behind him, the silhouettes of village rooftops or wooden palisades suggest a hamlet at his back. The forest is dense with green foliage and pale tree trunks, lit warmly from the upper left, giving the scene a midday or late-afternoon woodland glow. The mood is defensive, watchful, the captain ready to repel intruders.
 
-**Subject:** 
+**Subject:** A grizzled human warrior in layered armor and a horned helm stands at the edge of a forest, gripping a long sword angled defensively across the body, addressing or warning an unseen foe.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** forest, day, clear
+**Foreground:** armored human warrior with sword in guard stance  *(palette: steel-grey, rust-brown, leather-tan, muted-gold)*
+**Background:** sunlit green forest with pale tree trunks and hints of village structures  *(palette: forest-green, warm-yellow, brown, olive)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** grim resolve, watchful, defensive readiness
+**Objects:** long-sword, horned-helm, armor, gauntlets
+**Iconography:** horned-helm, drawn-sword
+**Genre cues:** fantasy, medieval
 

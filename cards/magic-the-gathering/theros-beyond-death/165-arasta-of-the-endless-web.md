@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["spider", "web", "swarm", "stars", "constellation", "night-sky", "deity", "monster", "cosmic", "myth", "weaver", "gold"]
+tags_filter: ["solo", "wide-shot", "forward-facing", "portrait-mode", "no-face", "creature-spider", "legendary", "enchantment-creature", "green-magic", "reach", "token-generator"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/165-arasta-of-the-endless-web.png
 average_cost_paid: 0
 market_price: 0.53
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/7/c/7c38833a-96c5-48b5-8dd8-23f10e798537.png?1581480541
+mood: sublime
+time_of_day: night
+setting: void
 ---
 
 # Arasta of the Endless Web (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![165-arasta-of-the-endless-web](../../_images/magic-the-gathering/theros-beyond-death/165-arasta-of-the-endless-web.png)
 
+A colossal spider hangs at the center of an enormous radial web, body and legs rendered in deep blacks and dark greens with the Nyx constellation starfield showing through. Clusters of smaller orange and gold spiders glow like embers across its abdomen and along the strands. The web fills the frame in concentric golden rings against an indigo cosmic void scattered with stars. Light radiates outward from the central figure, giving the impression of a divine arachnid presiding over its starlit domain. The composition is symmetrical and frontal, mythic in tone.
 
-**Subject:** 
+**Subject:** An immense spider deity descending in a vast golden web, its dark body studded with glowing orange-gold smaller spiders, suspended against a deep starry cosmic backdrop
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, portrait, figures: solo, facing: forward
+**Setting:** void, night
+**Foreground:** giant spider centered on a radial golden web with smaller glowing spiders clustered along its body and the strands  *(palette: black, dark-green, gold, orange, amber)*
+**Background:** starry cosmic void with deep indigo and constellation specks bleeding through the spider's form  *(palette: indigo, navy, black, starlight-white, violet)*
+**Mood / lighting:** sublime, rim
+**Emotion read:** looming, watchful, divine menace
+**Objects:** web, silk-strands, stars, constellation
+**Creatures:** spider, giant-spider, swarm-of-spiders
+**Iconography:** constellation, starfield, radial-web, nyx-stars
+**Genre cues:** fantasy, mythic, cosmic-horror
 

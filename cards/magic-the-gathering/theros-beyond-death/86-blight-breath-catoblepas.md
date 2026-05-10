@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["catoblepas", "beast", "horns", "bones", "skeleton", "plague", "miasma", "famine", "wasteland", "desolation", "death", "greek-myth", "monster"]
+tags_filter: ["solo", "mid-shot", "three-quarter", "no-face-human", "scene-mode", "creature-beast", "black-magic", "narrative-mode"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/86-blight-breath-catoblepas.png
 average_cost_paid: 0
 market_price: 0.08
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/7/8/7865c079-1d91-48d4-852d-d104b6e0c157.png?1616399490
+mood: grim
+time_of_day: indeterminate
+setting: other
 ---
 
 # Blight-Breath Catoblepas (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![86-blight-breath-catoblepas](../../_images/magic-the-gathering/theros-beyond-death/86-blight-breath-catoblepas.png)
 
+A heavyset catoblepas dominates the foreground, head lowered toward parched cracked earth. Its body is dark and shaggy with matted brown-black fur, a hunched ox-like silhouette, and thick curling horns sweeping back from a broad skull. From its drooping muzzle a pale greenish-grey vapor rolls outward across the ground, drifting over scattered bones and bleached skeletal remains half-buried in the dirt. The middle ground is barren scrub and dry rocky soil. The background fades into hazy ochre hills under an overcast, washed-out sky. Lighting is flat and ambient, the palette muted browns, sickly greens, and dusty tans, evoking famine and desolation.
 
-**Subject:** 
+**Subject:** A catoblepas — a hulking bovine beast with shaggy dark fur, massive curving horns, and a heavy drooping snout — exhaling a sickly greenish miasma across a corpse-strewn plain.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, narrative, figures: solo, facing: three-quarter
+**Setting:** other, indeterminate, smoke
+**Foreground:** catoblepas exhaling toxic vapor over bones and cracked earth  *(palette: dark brown, black, sickly green, bone white, dust tan)*
+**Background:** hazy barren hills under an overcast pale sky  *(palette: ochre, muted grey, dusty yellow, pale tan)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** lumbering, ominous, indifferent menace
+**Objects:** bones, skeletal remains, skulls, cracked earth
+**Creatures:** catoblepas, beast, horned creature
+**Iconography:** bones, miasma, famine
+**Genre cues:** fantasy, mythological, greek-myth
 

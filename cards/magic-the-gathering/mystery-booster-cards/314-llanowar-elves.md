@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["elf", "druid", "warrior", "forest", "blade", "shirtless", "long-hair", "guardian", "defender", "wilderness", "ranger", "pointed-ears"]
+tags_filter: ["solo", "mid-shot", "three-quarter-facing", "male-figure", "action-mode", "creature-elf", "creature-druid", "green-magic", "mana-dork", "scene-mode"]
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/314-llanowar-elves.png
 average_cost_paid: 0
 market_price: 0.44
@@ -22,18 +22,27 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/5/7/57ebd34e-dfe1-4093-a302-db395047a546.png?1719593791
+mood: action
+time_of_day: indeterminate
+setting: forest
 ---
 
 # Llanowar Elves (Mystery Booster Cards)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![314-llanowar-elves](../../_images/magic-the-gathering/mystery-booster-cards/314-llanowar-elves.png)
 
+A muscular elf with long dark hair and pointed ears stands shirtless in a green-toned forest, raising a curved scimitar-like blade in one hand while the other arm stretches out for balance. The figure faces three-quarters toward the viewer, body twisted in a dynamic combat-ready pose. Background is a soft wash of deep green foliage and tree shapes. Lighting is ambient and even, palette dominated by forest greens and warm flesh tones. Composition is mid-shot, framing the figure from the waist up.
 
-**Subject:** 
+**Subject:** A bare-chested elf druid warrior wielding a curved blade overhead in a forest, with long dark hair and intense focus
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** forest, indeterminate, calm
+**Foreground:** shirtless elf warrior raising a curved blade  *(palette: forest-green, warm-flesh, dark-brown, steel-grey)*
+**Background:** soft-focus forest of deep green foliage and tree silhouettes  *(palette: dark-green, olive, forest-shadow)*
+**Mood / lighting:** action, ambient
+**Emotion read:** fierce determination, combat-focused intensity
+**Objects:** curved-blade, scimitar
+**Genre cues:** fantasy, high-fantasy
 

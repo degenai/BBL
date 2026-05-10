@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["satyr", "underworld", "escape", "fire", "horns", "trickster", "mischief", "cavern", "greek-myth", "climbing", "smoke", "hell"]
+tags_filter: ["solo", "mid-shot", "three-quarter-facing", "action-mode", "male-figure", "red-magic", "creature-satyr", "sorcery"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/152-satyr-s-cunning--foil.png
 average_cost_paid: 0
 market_price: 0.2
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/6/4/646d8201-be68-42fa-bcfd-42d81a2ad195.png?1581480393
+mood: action
+time_of_day: indeterminate
+setting: dungeon
 ---
 
 # Satyr's Cunning (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![152-satyr-s-cunning--foil](../../_images/magic-the-gathering/theros-beyond-death/152-satyr-s-cunning--foil.png)
 
+A lean, horned satyr with goatlike legs hauls itself upward through a jagged stone fissure that glows with hot red and orange light. The figure's torso twists in a dynamic escape pose, one arm braced on the rocky lip while it pulls free of the depths below. Smoke and embers billow around it, and the surrounding cavern walls are rendered in deep crimson and shadowed black, suggesting an underworld or hellscape. The composition is vertical and energetic, conveying motion, mischief, and a narrow escape from below.
 
-**Subject:** 
+**Subject:** A horned satyr figure clambering up out of a cracked, fiery underworld passage, twisting its body and reaching upward as red light pours around it
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** dungeon, ruined, indeterminate, smoke
+**Foreground:** horned satyr climbing out of a glowing rock fissure  *(palette: crimson, ember-orange, black, warm-flesh-tone)*
+**Background:** cavernous underworld shaft lit by red light, smoke and rocky walls receding into shadow  *(palette: deep-red, black, ember-orange, smoke-grey)*
+**Mood / lighting:** action, rim
+**Emotion read:** cunning, mischievous, urgent escape
+**Objects:** rocky fissure, embers, smoke
+**Creatures:** satyr
+**Iconography:** horns, underworld-passage
+**Genre cues:** fantasy, mythological, greek-myth
 

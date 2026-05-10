@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["cat", "lion", "forest", "guardian", "wilderness", "mane", "leaves", "fairy-tale", "storyteller", "loremaster", "beast", "old-growth"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face-human", "creature-cat", "green-magic", "card-draw"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/163-keeper-of-fables--foil.png
 average_cost_paid: 0
 market_price: 0.46
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/6/7/6754d6cf-3506-48b5-a0ef-8a90b8dd2701.png?1572490595
+mood: sublime
+time_of_day: indeterminate
+setting: forest
 ---
 
 # Keeper of Fables (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![163-keeper-of-fables--foil](../../_images/magic-the-gathering/throne-of-eldraine/163-keeper-of-fables--foil.png)
 
+A massive feline beast — leonine, with a thick green-tinged mane woven through with leaves and twigs — emerges from the gloom of an old forest. Its head is crowned by a halo of foliage so dense that the creature reads as half-cat, half-tree, a guardian spirit of the wood. Heavy paws are planted on a forest floor strewn with roots and undergrowth. The palette is muted greens, mossy browns and deep shadow, with a faint warm glow filtering through the upper canopy. The lion's eyes catch the light and stare directly out of the frame, conveying watchful, ancient intelligence.
 
-**Subject:** 
+**Subject:** An enormous shaggy lion-like cat-creature crowned with a wreath of leaves and branches, standing among ancient tree trunks in a deep forest. Its mane is heavy and tangled with foliage, blending its head into the canopy around it.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** forest, indeterminate, calm
+**Foreground:** large lion-like cat with leaf-tangled mane, planted on forest floor  *(palette: mossy-green, olive, umber, amber)*
+**Background:** dense old-growth forest with tall trunks and dim canopy light  *(palette: deep-green, forest-shadow, warm-amber-glow)*
+**Mood / lighting:** sublime, ambient
+**Emotion read:** watchful, ancient, regal stillness
+**Objects:** leaves, branches, roots
+**Creatures:** lion, great-cat, forest-guardian
+**Iconography:** leaf-crown, mane-of-foliage
+**Genre cues:** fantasy, fairy-tale, storybook
 

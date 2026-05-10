@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["fire", "flames", "sacrifice", "immolation", "horns", "beast", "bull", "pyre", "explosion", "doomed", "ritual", "creature"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "no-face", "instant", "red-magic", "creature-sacrifice", "burn"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/134-final-flare.png
 average_cost_paid: 0
 market_price: 0.07
@@ -22,18 +22,29 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/f/0/f0c95dee-a480-4878-a967-9e46be9ee372.png?1581480144
+mood: action
+time_of_day: indeterminate
+setting: other
 ---
 
 # Final Flare (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![134-final-flare](../../_images/magic-the-gathering/theros-beyond-death/134-final-flare.png)
 
+A muscular horned beast — silhouetted in deep orange against a brighter yellow-white core of flame — leaps forward through the center of an enormous fireball. The flames radiate outward in petal-like tongues and licks against an ochre and red-streaked sky, evoking an immolating sacrifice. The animal's body is mostly rendered as a dark shape consumed by the burst, horns and forelimbs barely visible against the pyre. The composition is symmetrical and explosive, with the figure dead-center and fire spreading to all edges of the frame.
 
-**Subject:** 
+**Subject:** A horned, bull-like creature mid-leap engulfed in a roaring blast of orange and yellow flame
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** other, indeterminate, fire
+**Foreground:** horned beast leaping into a fireball  *(palette: orange, yellow, black, red)*
+**Background:** fiery sky filled with billowing flame and smoke  *(palette: orange, yellow, red, ochre)*
+**Mood / lighting:** action, backlit
+**Emotion read:** ferocious final charge; doomed defiance
+**Objects:** flames, fireball
+**Creatures:** horned-beast, bull
+**Iconography:** pyre, immolation, sacrifice
+**Genre cues:** fantasy, mythological
 

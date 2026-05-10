@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["fish", "transformation", "curse", "ocean", "underwater", "metamorphosis", "punishment", "humiliation", "sea-creature", "divine-wrath", "scales", "greek-mythology"]
+tags_filter: ["solo", "close-up", "portrait-mode", "three-quarter", "blue-magic", "enchantment", "aura", "no-architecture"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/51-ichthyomorphosis.png
 average_cost_paid: 0
 market_price: 0.06
@@ -22,18 +22,27 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/e/4/e4763b6c-6471-41bd-b3e4-785564bcf06f.png?1581479371
+mood: other
+time_of_day: indeterminate
+setting: ocean
 ---
 
 # Ichthyomorphosis (Theros Beyond Death)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![51-ichthyomorphosis](../../_images/magic-the-gathering/theros-beyond-death/51-ichthyomorphosis.png)
 
+A close-up of a grotesque transformation: a creature with a fish's head — heavy-jowled, bulge-eyed, slack-mouthed — sits where a human face should be, atop a body covered in shimmering blue-teal scales. The eyes look glassy and uncomprehending, as if the human mind inside has already begun to drown. Behind and around the central figure, other fish drift in murky teal-green water, suggesting a school the victim has just been forcibly inducted into. The palette is dominated by cool blues, teals, and aquatic greens, with pale belly highlights on the fish-flesh. The mood is grimly comedic and humiliating rather than horrific — a curse from a wrathful sea god, played for pathos.
 
-**Subject:** 
+**Subject:** A humanoid figure mid-transformation into a fish, with a large blunt-faced fish head, bulging eyes, downturned mouth, and scaly blue-teal body, surrounded by other fish in murky water
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** close-up, portrait, figures: solo, facing: three-quarter
+**Setting:** ocean, indeterminate
+**Foreground:** Fish-headed transformed figure with scaly blue-teal body and vacant bulging eyes  *(palette: teal, deep-blue, pale-belly-cream, muted-grey-green)*
+**Background:** Murky underwater scene with other fish drifting in teal-green water  *(palette: teal-green, deep-blue, murky-aqua)*
+**Mood / lighting:** other, ambient
+**Emotion read:** vacant, drowned-witted, the human spark already extinguished
+**Creatures:** fish, fish-headed-humanoid
+**Genre cues:** fantasy, greek-mythology, body-horror-lite
 

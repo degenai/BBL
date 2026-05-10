@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["wizard", "spellcaster", "lightning", "storm", "arcane", "robed-figure", "magic-channeling", "human", "ritual", "energy", "electricity", "conduit"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "blue-magic", "creature-human", "creature-wizard", "male-figure-ambiguous", "proliferate"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/52-flux-channeler.png
 average_cost_paid: 0
 market_price: 3.48
@@ -22,18 +22,28 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
 reference_image_source_url: https://cards.scryfall.io/png/front/c/6/c6202e82-e159-482f-9224-292cb533171c.png?1557576219
+mood: action
+time_of_day: indeterminate
+setting: other
 ---
 
 # Flux Channeler (War of the Spark)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![52-flux-channeler](../../_images/magic-the-gathering/war-of-the-spark/52-flux-channeler.png)
 
+A robed human wizard stands amid a storm of cascading blue lightning and arcane energy. The figure is rendered mostly in silhouette and rim-lit by the surrounding electrical discharges, with arms raised and hands open as if conducting or channeling the energy. Jagged bolts and crackling tendrils of blue-white light radiate outward from the caster, filling the frame and obscuring much of the background. The overall palette is dominated by saturated blues, cyans, and bright whites at the energy cores. The composition is mid-shot, centered on the spellcaster, with the storm of magic functioning as both subject and setting.
 
-**Subject:** 
+**Subject:** A human wizard channeling crackling blue arcane energy, hands raised as electricity arcs around their body
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** other, indeterminate, storm
+**Foreground:** robed wizard channeling lightning with raised hands  *(palette: deep blue, cyan, white, indigo)*
+**Background:** storm of arcing blue electricity and arcane discharge  *(palette: dark blue, electric blue, white, black)*
+**Mood / lighting:** action, rim
+**Emotion read:** focused, intense concentration; body language conveys active channeling and exertion
+**Objects:** robes, arcane energy, lightning bolts
+**Iconography:** lightning, arcane discharge
+**Genre cues:** fantasy, high-fantasy
 

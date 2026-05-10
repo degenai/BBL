@@ -30,6 +30,27 @@ Catch-all for half-baked concepts, future work, and "wouldn't it be cool if" not
 
 ---
 
+## Flavor / oracle text capture
+
+**The idea:** Scryfall returns `flavor_text` and `oracle_text` on the same payload `find_image_scryfall` (`researchbot.py:313`) already hits for `image_uris`. Zero extra API calls would be needed to capture them. Both belong in card frontmatter eventually.
+
+**Why it matters:**
+- `flavor_text` often names the figure ("Teferi watched the Bolas Citadel rise...") — would help disambiguate the growing pile of `suspected_ip` flags (Nissa, Liliana, Ral, Chandra, Jace…) without needing a separate web lookup
+- `oracle_text` is queryable for mechanical lair themes ("lifegain" / "sacrifice" / "graveyard"-oriented Discrete Lairs)
+- triviabot will eventually want both fields as starting context before going out to Reddit/EDHREC
+
+**Status:** deferred 2026-05-10 — surfaced mid-batch by a bbl-researcher subagent that noticed `card_text: (not provided)` in `VISION_USER_TEMPLATE`. Alex's call: cool, canonical, not mission-critical, can be backfilled "in a dumb way later."
+
+**Implementation notes** (when we get there):
+- Two phases — **capture** first, **consumption** later. Don't conflate them.
+- Capture-only phase: one-shot script that re-hits Scryfall per already-enriched card, patches `flavor_text:` / `oracle_text:` / optionally `type_line:` / `keywords:` into frontmatter, doesn't touch vision tags. Idempotent on re-run. Safe to drop mid-corpus because it doesn't change downstream behavior.
+- Consumption phase (later, separately): decide whether `flavor_text` should feed into the bbl-researcher vision system prompt. Risk: re-introduces the confab failure mode v4 was hardened against (Divine Arrow / Spark Harvest / Nahiri's Stoneblades all successfully refused to name characters mentioned in flavor text but not in art). If we add it as input, the anti-confab rules need retesting — probably want explicit prompt language like "flavor text is context, NOT a license to name what isn't in the image."
+- Going-forward wiring on `researchbot.py --prepare-only` should land alongside or after the backfill, not before — keeps the corpus consistent.
+
+**Why this lives in sketchbook:** capture is trivial work but its consequence (vision-prompt consumption) is an architectural decision worth deliberating, not slipping into a sprint.
+
+---
+
 ## (more to come)
 
 This file is intentionally append-only for now. Add new "wouldn't it be cool" concepts below as they form. When something graduates from idea to in-progress work, move it into the README's milestones section or its own dedicated doc.
