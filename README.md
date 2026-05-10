@@ -255,20 +255,37 @@ The pattern that's emerging: **writers get the keys to wikilintbot; watchers do 
 
 ---
 
-## Status snapshot (2026-05-08, post-Scryfall-recovery)
+## Status snapshot (2026-05-10, end of multi-day sprint)
 
-- **977** active singles · **16** sealed products · **201** MTG cards fully enriched (was 22 at session start → **+179**, ~9× growth)
-- **Vision queue right now:** `python bbl_queue.py --count` → **363**. Massively topped up after the Scryfall recovery work (see Findings). At ~13 cards/parallel-round, that's ~28 rounds to all-MTG-enriched.
-- **Manual review pile:** down from 398 → **9 genuine edge cases** (tokens, art series, alt-art showcases, foil-only promos). Triage UI eventually but not blocking.
-- **Scryfall recovery shipped this session:**
-  - `--retry-flagged` mode walks the manual-review pile and re-runs lookups
-  - `http_get_json` hardened with retry-on-429/5xx + exponential backoff
-  - `SET_NAME_ALIASES` table for set names that don't normalize cleanly (Mystery Booster Cards → mb1, Promo Pack: X → ppXXX, Classic: Sixth Edition → 6ed, etc.)
-  - `_SET_PAREN_SUFFIX_RE` strips trailing parentheticals (Magic 2014 (M14) → m14)
-  - `normalize_card_name_for_lookup()` strips trailing collector-number suffixes from names (Island (254) → Island)
-  - `--scryfall-sleep N` configurable inter-request sleep (default 0.1s, bump to 1.0+ for sustained sweeps)
-  - `--refresh-set-map` flag rebuilds the cached set_map
-  - `is_already_prepared()` idempotency guard so --prepare-only doesn't re-query Scryfall for cards already prepared (~387 wasted calls per sweep without it)
+- **977** active singles · **16** sealed products · **357** MTG cards fully enriched (was 22 at sprint start → **+335**, ~16× growth)
+- **Vision queue right now:** `python bbl_queue.py --count` → **207**. Drain steadily in 13-card parallel batches.
+- **Manual review pile:** **9** genuine edge cases (tokens, art series, alt-art showcases, foil-only promos). Down from 398 at sprint start. Triage UI eventually, not blocking.
+- **Hub-tag density:** 1,565 unique hub tags graph-wide; **647 shared by 2+ cards** (was 53 at sprint start — ~12× growth, super-linear in card count). Bridge density is well past lair-architect activation threshold.
+- **IP cards flagged:** **13** (Garruk, Radha, Teferi, Tamiyo, Oko, Kiora, Nicol Bolas ×2, Teyo, the Wanderer, Angrath, Vito, plus assorted other planeswalker references). Each has the `> [!warning] Suspected IP` callout at the top of its Vision section in Obsidian.
+- **Re-review queue:** `python bbl_review.py status` → 357 cards in chronological order, cursor at 0. Use this when prompt evolves and older enrichments need revisiting under the newer rules.
+
+### bbl-researcher prompt versions (chronological)
+
+The agent prompt has evolved several times. Each version tightens a specific class of failure mode. Cards enriched under earlier versions are oldest-first in `bbl_review.py`'s queue; walk that queue under the latest prompt to upgrade them.
+
+- **v1** — initial prompt. Broad-net hub tags, color-magic-as-filter rule, IP guardrail, two-tier tag emission.
+- **v2** (added ~card 200) — explicit anti-confabulation rules: don't commit to hair color / eye color / skin tone / race / gender / fine pattern detail unless unambiguously visible. Under-specify rather than guess.
+- **v3** (~card 240) — anti-confab extended to weapons / props / tools. Don't add a sword because the figure is a "knight"; don't add a blade because the figure is an "assassin". Empty hands stay empty hands.
+- **v4** (current, post-card-357) — anti-confab extended to card-frame metadata: do NOT read set codes, collector numbers, copyright years, or printing identifiers from the cached image. The frontmatter has authoritative values from Scryfall; trust those, not the pixels. (Discovered when agents fabricated "DMR 2023" / "FDN 2024" reprint claims that turned out to be Scryfall-confirmed M11 / M14 originals.)
+
+### Tooling shipped this sprint (all in repo root unless noted)
+
+- `bbl_queue.py` — the canonical "ready for vision" picker. 3-prong filter: `reference_image` set + file on disk + `tags_hub` empty + not `needs_manual_review`. Use this, never re-implement inline.
+- `bbl_review.py` — chronological re-review queue + cursor for prompt-version drift. `build` / `status` / `next N` / `advance N` / `rewind N|all` / `append <path>`.
+- `researchbot.py --retry-flagged` — walks the manual-review pile and re-runs lookups. Most "no image found" flags are transient 429s, not real misses.
+- `researchbot.py --prepare-only --scryfall-sleep N` — long-sweep prep with configurable rate-limit hygiene (default 0.1s, bump to 1.0 for sustained sweeps).
+- `researchbot.py --refresh-set-map` — rebuilds the cached `reports/scryfall_sets.json` from a fresh /sets call.
+- `is_already_prepared()` idempotency guard — `--prepare-only` skips cards already prepared on disk so re-runs don't burn API calls.
+- `SET_NAME_ALIASES` table — handles Collectr set names that don't normalize cleanly (Mystery Booster Cards → mb1, Promo Pack: X → ppXXX, Classic: Sixth Edition → 6ed).
+- `_SET_PAREN_SUFFIX_RE` + `normalize_card_name_for_lookup()` — strips trailing `(M14)` from set names and trailing `(254)` collector-numbers from card names before Scryfall query.
+- `http_get_json` hardened with retry-on-429/5xx + exponential backoff (3 attempts, base 1.5s).
+- `reports/migrate_images_into_cards.py` — one-shot migration script (idempotent). Moved `images/` → `cards/_images/` so embeds resolve in Obsidian (vault is rooted at cards/).
+- `reports/fix_image_embeds_v2.py` — one-shot migration: rewrites image embeds to standard markdown with relative paths + injects IP callout block at top of Vision section.
 - **Six parallel rounds today across 7+ batches:** 8 + 10 + 16 + 15 + 7 + 15 + 13 + 13 + 13 + 13 + 10 = **133 successful subagent dispatches**, all tier-clean. **10 IP cards flagged correctly:** Kiora, Nicol Bolas (×2), Teyo, the Wanderer, Garruk, Radha, Teferi, Tamiyo, Oko — all `suspected_ip` set, names kept out of `subject`.
 - **Hub-tag density:** 1029 unique hub tags emitted, **362 shared by 2+ cards** (was 53 at session start → 222 at 100-mark → 362 at 175-mark). The bridge-density growth is super-linear in card count, which is exactly what the lair architect needs.
 - **JSON path migration completed:** `reports/vision_pending/<game>/<set>/<slug>.json` now mirrors the `cards/` tree — protects against MTG reprint name-collisions (Opt, Cancel, basic lands appear in dozens of sets). All 124 pre-existing JSONs migrated via `git mv` to preserve history.
@@ -279,20 +296,75 @@ The pattern that's emerging: **writers get the keys to wikilintbot; watchers do 
 - **Plan B (subagent vision):** running smoothly — 13 in parallel completes ~1 min wall-clock when the API is responsive.
 - **Repo:** local only, branch `main`. Commits this session: 5–6 stacked, all clean.
 
-### For the next session
+### For the next session — pass-the-ball brief
 
-1. **Re-probe DeepSeek** first: `python researchbot.py --list-models`.
-2. **Refill from deeper:** `python researchbot.py --prepare-only --limit 1500 --game "Magic: The Gathering"`. The shallow limits we used today have squeezed most of what the standard pipeline can produce.
-3. **Build a manual-review triage UI/script.** ~430 cards still flagged `needs_manual_review: true` (Scryfall set-name match failed). Many DO have a cached image and a low-confidence URL — worth a small interactive script that lets Alex eyeball each, approve the cached art, and flip the card to `art_match_confidence: high`. This is the next force-multiplier for getting toward all-MTG-enriched.
-4. **Stand up lair architect.** With 175 enriched cards and 362 hub bridges, the graph density is well past the activation threshold. This is the unlock the whole project has been pointing at.
-5. **Fix researchbot non-idempotency:** skip the lookup if `art_match_confidence: high` is already set AND `os.path.exists(reference_image)`. Should be a 5-line patch.
-6. **Other remaining moves** (lower priority): Pokémon enrichment first run, Dragon Ball Super image-source strategy, push to GitHub, `researchbot.py` → `sourcebot.py` rename.
+**Pick up here without reconstructing anything from git log.** The active loop is the same every session.
 
-### Curation rules locked in this project's memory
+**1. The active enrichment loop:**
+```powershell
+python bbl_queue.py --with-qty --limit 13 --game "Magic: The Gathering"
+# fan out 13 Agent(subagent_type="bbl-researcher") calls in parallel,
+# one per card path, telling each agent:
+#   "BBL vision pass: <path>. Per agent definition (anti-confab applies).
+#    JSON: reports/vision_pending/<game>/<set>/<slug>.json. Stay focused on this card only."
+# wait for all to return
+git add -A cards/ reports/vision_pending/ .claude/settings.local.json
+git commit -m "Enrich +13 (... -> ...); <one-line note about cluster or notable IP catches>"
+python bbl_queue.py --count   # confirm new total
+# ask Alex if he wants another batch
+```
 
-The next session should pull these without being asked — they're in `~/.claude/projects/.../memory/`:
+**2. When the queue depletes:**
+```powershell
+python researchbot.py --prepare-only --limit 600 --game "Magic: The Gathering" --scryfall-sleep 1.0
+# topful refill. Already-prepared cards are skipped automatically.
+python bbl_queue.py --count   # see what's freshly ready
+```
 
-- **Broad-net tag emission** (`bbl-tag-broad-net.md`) — vision pass emits 8–12 broad `tags_hub` per card; never coined compounds like `comfort-bringer` or `bro-energy`.
-- **Color-magic is filter-tier** (`bbl-color-magic-is-filter.md`) — `blue-magic`, `red-magic`, etc. are combinatorial filters, never lair anchors. Wikilintbot enforces.
-- **Wikilintbot before lair architect** (`bbl-wikilintbot-priority.md`) — built; lair architect comes next.
-- **Session handoff** (`bbl-session-handoff.md`) — keep this snapshot fresh at every session close.
+**3. When prep shows lots of `Skipped (no image found):` for sets that should obviously match:**
+```powershell
+python researchbot.py --retry-flagged --game "Magic: The Gathering" --retry-sleep 0.3
+# walks needs_manual_review: true cards and re-runs the lookup.
+# Most "no image found" cards were transient 429s, not real misses.
+```
+
+**4. When Alex spots a wrong detail in a card (in Obsidian):**
+- Single-card fix: dispatch one bbl-researcher with explicit guidance about what to correct
+- Pattern catch (multiple cards with same failure mode): tighten the agent prompt at `.claude/agents/bbl-researcher.md`, then walk `bbl_review.py` from the top to upgrade the corpus
+- Don't panic-rebuild — the cursor system is designed for exactly this drift
+
+**5. Re-probe DeepSeek occasionally:** `python researchbot.py --list-models`. As of 2026-05-10 it's still text-only (`deepseek-v4-pro` and `deepseek-v4-flash`). If V4 vision ever ships, drop `--prepare-only` and run inline with `--model <new-id>`. Until then the bbl-researcher Claude Code subagent IS the vision pipeline.
+
+**6. The longer-term moves** (after MTG approaches all-enriched):
+- Stand up lair architect — graph density is well past activation (647 hub tags shared by 2+).
+- Re-review pass: `bbl_review.py next 13` → fan out subagents under latest prompt → `advance 13`. Walks all 357 cards under v4 (current) ruleset.
+- Pokémon enrichment first run (path is wired, never exercised).
+- Dragon Ball Super image-source strategy (no Scryfall equivalent).
+- Push to GitHub (`degenai/bulk-graph-bundler`, private).
+- Manual-review triage UI for the 9 stuck cards.
+- Collection-timeline HTML (sketched in `docs/sketchbook.md`).
+- Rename `researchbot.py` → `sourcebot.py`.
+
+### The most important rules locked into the project's memory
+
+These live in `~/.claude/projects/C--Users-alexa-Desktop-Bulk-Graph-Bundler/memory/` and the next Claude instance pulls them automatically. Don't re-derive them:
+
+- **Vision queue uses 3-prong check, never frontmatter alone** — `bbl_queue.py` is the picker.
+- **Broad-net tags_hub** — 8–12 broad tags per card, never coined compounds.
+- **Color-magic is filter-tier** — `blue-magic` etc. NEVER in `tags_hub`.
+- **Singular/plural is intentional** — `sword` and `swords` are different lair anchors. Synonym collapse is Phase-5 janitor work.
+- **Update README status snapshot at session close** — Alex has session-close anxiety, the snapshot is the load-bearing artifact.
+- **Anti-confab principles** — under-specify rather than guess; no role-noun-imports-default-weapon; no card-frame-metadata reads. Authoritative spec at `.claude/agents/bbl-researcher.md`.
+- **Caveman mode is novelty only** — drop to verbose when explaining workflow or when Alex says "I'm lost."
+
+### What this session actually did (2026-05-08 → 2026-05-10)
+
+For audit / continuity / "wait what happened":
+
+- **22 → 357 enriched MTG cards** across the multi-day sprint. ~16× growth.
+- **Scryfall recovery work**: discovered most "no image found" flags were rate-limit 429s being treated as real misses. Built `--retry-flagged` mode + hardened http_get_json + SET_NAME_ALIASES + name normalization. Recovered 387 cards from a dead-letter pile.
+- **Layout migration**: image cache moved from `images/` to `cards/_images/` so Obsidian (vault rooted at cards/) can render embeds inline. Standard markdown image syntax with relative paths. Migration scripts at `reports/migrate_images_into_cards.py` and `reports/fix_image_embeds_v2.py`.
+- **IP callout block** added prominently at top of Vision section for any card with `suspected_ip` set. Renders as a yellow Obsidian callout.
+- **Anti-confab prompt evolution**: v1 → v4 (current). Each version tightens a class of failure mode discovered live. v4 includes hair color / race / gender / weapons-from-archetype / card-frame-metadata.
+- **`bbl_review.py`**: chronological re-review queue + cursor for prompt-version drift. The list is the version control. 357 cards in queue, cursor at 0 (rebuilt at end-of-sprint).
+- **`docs/sketchbook.md`**: catch-all for forming ideas. First entry: collection-timeline HTML to render the git log as a visual narrative of the curation labor.
