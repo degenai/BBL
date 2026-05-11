@@ -14,10 +14,10 @@ tags_hub: ["jewelry", "locket", "treasure", "gold", "tree", "sigil", "heraldry",
 tags_filter: ["artifact", "no-figure", "close-up", "object-study", "green-magic", "white-magic", "multicolor-green-white", "mana-rock"]
 reference_image: cards/_images/magic-the-gathering/guilds-of-ravnica/240-selesnya-locket.png
 average_cost_paid: 0
-market_price: 0.19
-market_price_as_of: 2026-05-07
+market_price: 0.21
+market_price_as_of: 2026-05-10
 date_added: 2026-05-07
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

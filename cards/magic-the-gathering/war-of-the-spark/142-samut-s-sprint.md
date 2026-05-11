@@ -14,10 +14,10 @@ tags_hub: ["running", "warrior", "speed", "chase", "corridor", "alley", "movemen
 tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "red-magic", "instant", "haste", "scry"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/142-samut-s-sprint.png
 average_cost_paid: 0
-market_price: 0.2
-market_price_as_of: 2026-05-07
+market_price: 0.22
+market_price_as_of: 2026-05-10
 date_added: 2026-05-05
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

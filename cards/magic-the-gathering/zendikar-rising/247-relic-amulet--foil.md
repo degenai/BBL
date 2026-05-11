@@ -15,9 +15,9 @@ tags_filter: ["solo-object", "no-figure", "close-up", "forward-facing", "centere
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/247-relic-amulet--foil.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-07
+market_price_as_of: 2026-05-10
 date_added: 2026-05-05
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

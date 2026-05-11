@@ -14,10 +14,10 @@ tags_hub: ["cat", "predator", "jungle", "forest", "fangs", "beast", "hunt", "wil
 tags_filter: ["solo", "close-up", "forward-facing", "action-mode", "no-face-human", "green-magic", "sorcery", "creature-absent-card-type", "fight-effect"]
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/199-rabid-bite.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-07
+market_price: 0.1
+market_price_as_of: 2026-05-10
 date_added: 2026-05-06
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

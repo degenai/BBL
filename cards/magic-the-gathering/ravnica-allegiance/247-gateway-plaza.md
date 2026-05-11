@@ -14,10 +14,10 @@ tags_hub: ["architecture", "gateway", "arch", "plaza", "city", "guildhall", "tow
 tags_filter: ["land", "gate", "no-figures", "wide-shot", "scene-mode", "forward-facing", "multicolor-any", "color-fixing"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/247-gateway-plaza.png
 average_cost_paid: 0
-market_price: 0.38
-market_price_as_of: 2026-05-07
+market_price: 0.37
+market_price_as_of: 2026-05-10
 date_added: 2026-05-07
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

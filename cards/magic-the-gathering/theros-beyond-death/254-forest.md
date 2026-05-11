@@ -14,10 +14,10 @@ tags_hub: ["forest", "trees", "cypress", "grove", "hills", "path", "landscape", 
 tags_filter: ["basic-land", "land", "forest-type", "green-magic", "no-figures", "wide-shot", "scene-mode", "no-face", "daylight-scene"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/254-forest.png
 average_cost_paid: 0
-market_price: 0.96
-market_price_as_of: 2026-05-07
+market_price: 0.97
+market_price_as_of: 2026-05-10
 date_added: 2026-05-06
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

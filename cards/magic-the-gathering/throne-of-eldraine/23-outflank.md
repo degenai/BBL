@@ -14,10 +14,10 @@ tags_hub: ["knight", "horse", "cavalry", "battle", "sword", "charge", "armor", "
 tags_filter: ["group", "wide-shot", "scene-mode", "forward-facing", "action-mode", "white-magic", "instant", "no-figures-female"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/23-outflank.png
 average_cost_paid: 0
-market_price: 0.13
-market_price_as_of: 2026-05-07
+market_price: 0.14
+market_price_as_of: 2026-05-10
 date_added: 2026-05-06
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'

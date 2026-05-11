@@ -14,10 +14,10 @@ tags_hub: ["giant", "forest", "warrior", "hammer", "beard", "strength", "noble",
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "male-figure", "green-magic", "creature-giant", "legendary", "scene-mode"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/185-yorvo-lord-of-garenbrig.png
 average_cost_paid: 0
-market_price: 0.36
-market_price_as_of: 2026-05-07
+market_price: 0.35
+market_price_as_of: 2026-05-10
 date_added: 2026-05-05
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

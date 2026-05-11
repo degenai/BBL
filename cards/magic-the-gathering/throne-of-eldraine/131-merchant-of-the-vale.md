@@ -14,10 +14,10 @@ tags_hub: ["merchant", "marketplace", "village", "peasant", "commerce", "trade",
 tags_filter: ["solo", "mid-shot", "forward-facing", "female-figure", "portrait-mode", "red-magic", "creature-human", "common"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/131-merchant-of-the-vale.png
 average_cost_paid: 0
-market_price: 0.19
-market_price_as_of: 2026-05-07
+market_price: 0.2
+market_price_as_of: 2026-05-10
 date_added: 2026-05-06
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

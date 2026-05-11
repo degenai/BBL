@@ -14,10 +14,10 @@ tags_hub: ["elf", "druid", "forest", "wings", "insect", "nature-magic", "robed-f
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "female-figure", "creature-elf", "creature-druid", "green-magic", "common", "proliferate", "plus-one-counters"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/173-pollenbright-druid.png
 average_cost_paid: 0
-market_price: 0.3
-market_price_as_of: 2026-05-07
+market_price: 0.26
+market_price_as_of: 2026-05-10
 date_added: 2026-05-06
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

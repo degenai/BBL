@@ -14,10 +14,10 @@ tags_hub: ["temple", "greek-mythology", "shrine", "pilgrimage", "stairway", "cyp
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "artifact", "colorless", "daytime", "outdoor"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/231-altar-of-the-pantheon.png
 average_cost_paid: 0
-market_price: 0.29
-market_price_as_of: 2026-05-07
+market_price: 0.28
+market_price_as_of: 2026-05-10
 date_added: 2026-05-05
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

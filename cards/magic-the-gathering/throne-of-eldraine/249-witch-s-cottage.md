@@ -14,10 +14,10 @@ tags_hub: ["cottage", "swamp", "willow", "witch", "twilight", "fairy-tale", "hom
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "swamp-land", "black-magic", "landscape-composition"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/249-witch-s-cottage.png
 average_cost_paid: 0
-market_price: 1.01
-market_price_as_of: 2026-05-07
+market_price: 3.7
+market_price_as_of: 2026-05-10
 date_added: 2026-05-05
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 reference_image_source_url: https://cards.scryfall.io/png/front/b/8/b87891cd-b457-4dff-8d18-a7eaf6748fc6.png?1572491253
 art_match_confidence: high
 needs_manual_review: false

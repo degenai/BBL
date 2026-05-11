@@ -14,10 +14,10 @@ tags_hub: ["swamp", "bog", "wetland", "roots", "thorns", "decay", "rot", "gothic
 tags_filter: ["land", "basic-land-type-swamp", "black-magic", "scene-mode", "wide-shot", "no-face", "no-figure-count", "shadowmoor", "no-figure"]
 reference_image: cards/_images/magic-the-gathering/shadowmoor/no-num-leechridden-swamp.png
 average_cost_paid: 0
-market_price: 1.23
-market_price_as_of: 2026-05-07
+market_price: 1.24
+market_price_as_of: 2026-05-10
 date_added: 2026-05-07
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Shadowmoor'

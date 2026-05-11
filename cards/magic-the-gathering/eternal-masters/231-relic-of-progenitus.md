@@ -14,10 +14,10 @@ tags_hub: ["relic", "runes", "forest", "ancient", "ruins", "nature", "magic", "s
 tags_filter: ["no-figures", "mid-shot", "scene-mode", "forward-facing", "no-face", "artifact-type", "colorless-magic", "graveyard-hate", "exile-effect", "card-draw", "artifact"]
 reference_image: cards/_images/magic-the-gathering/eternal-masters/231-relic-of-progenitus.png
 average_cost_paid: 0
-market_price: 5.78
-market_price_as_of: 2026-05-07
+market_price: 5.89
+market_price_as_of: 2026-05-10
 date_added: 2026-05-07
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

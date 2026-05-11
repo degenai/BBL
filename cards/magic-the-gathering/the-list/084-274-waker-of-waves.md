@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide-shot", "scene-mode", "no-face", "creature-whale", "b
 reference_image: cards/_images/magic-the-gathering/the-list/084-274-waker-of-waves.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-07
+market_price_as_of: 2026-05-10
 date_added: 2026-05-06
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'The List'

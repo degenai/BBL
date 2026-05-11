@@ -14,10 +14,10 @@ tags_hub: ["warrior", "knight", "swordsman", "robed-figure", "armor", "sword", "
 tags_filter: ["solo", "mid-shot", "three-quarter", "action-mode", "female-figure", "white-magic", "instant", "combat-trick", "protection", "plus-one-counter"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/19-feat-of-resistance.png
 average_cost_paid: 0
-market_price: 0.25
-market_price_as_of: 2026-05-07
+market_price: 0.27
+market_price_as_of: 2026-05-10
 date_added: 2026-05-06
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'

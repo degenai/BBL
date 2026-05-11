@@ -14,10 +14,10 @@ tags_hub: ["hydra", "undead", "zombie", "serpent", "monster", "many-headed", "de
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "creature-zombie", "creature-hydra", "green-magic", "legendary"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/224-polukranos-unchained.png
 average_cost_paid: 0
-market_price: 0.76
-market_price_as_of: 2026-05-07
+market_price: 0.74
+market_price_as_of: 2026-05-10
 date_added: 2026-05-05
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

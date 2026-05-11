@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "dual-
 reference_image: cards/_images/magic-the-gathering/core-set-2021/249-rugged-highlands.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-07
+market_price_as_of: 2026-05-10
 date_added: 2026-05-07
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 reference_image_source_url: https://cards.scryfall.io/png/front/9/d/9daef8db-56a5-4b1e-b4bf-734d0516557c.png?1594737663
 art_match_confidence: high
 needs_manual_review: false

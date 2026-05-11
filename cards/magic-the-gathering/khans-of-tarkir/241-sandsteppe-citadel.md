@@ -15,9 +15,9 @@ tags_filter: ["land", "tri-color-white-black-green", "abzan", "no-figures", "wid
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/241-sandsteppe-citadel.png
 average_cost_paid: 0
 market_price: 0.34
-market_price_as_of: 2026-05-07
+market_price_as_of: 2026-05-10
 date_added: 2026-05-07
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

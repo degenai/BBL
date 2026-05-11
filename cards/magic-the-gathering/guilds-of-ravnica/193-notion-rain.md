@@ -14,10 +14,10 @@ tags_hub: ["rain", "hooded-figure", "alley", "city", "noir", "solitude", "though
 tags_filter: ["solo", "mid-shot", "three-quarter", "blue-magic", "black-magic", "multicolor-blue-black", "sorcery", "mill", "card-draw", "human-figure", "scene-mode"]
 reference_image: cards/_images/magic-the-gathering/guilds-of-ravnica/193-notion-rain.png
 average_cost_paid: 0
-market_price: 0.23
-market_price_as_of: 2026-05-07
+market_price: 0.25
+market_price_as_of: 2026-05-10
 date_added: 2026-05-07
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

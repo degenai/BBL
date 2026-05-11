@@ -14,10 +14,10 @@ tags_hub: ["swamp", "bog", "marsh", "dead-trees", "shrine", "ruins", "underworld
 tags_filter: ["basic-land", "swamp-land", "black-magic", "no-figure", "wide-shot", "scene-mode", "landscape-art"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/252-swamp.png
 average_cost_paid: 0
-market_price: 1.72
-market_price_as_of: 2026-05-07
+market_price: 1.51
+market_price_as_of: 2026-05-10
 date_added: 2026-05-06
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

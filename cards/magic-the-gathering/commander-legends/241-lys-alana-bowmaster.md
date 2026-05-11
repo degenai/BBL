@@ -14,10 +14,10 @@ tags_hub: ["elf", "archer", "hunter", "forest", "tree", "canopy", "bow", "arrow"
 tags_filter: ["solo", "mid-shot", "faces-right", "action-mode", "female-figure", "creature-elf", "creature-archer", "green-magic", "reach"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/241-lys-alana-bowmaster.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-07
+market_price: 0.17
+market_price_as_of: 2026-05-10
 date_added: 2026-05-06
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

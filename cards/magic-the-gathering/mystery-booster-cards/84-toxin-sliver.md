@@ -14,10 +14,10 @@ tags_hub: ["sliver", "monster", "parasite", "claws", "venom", "poison", "stinger
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "no-face", "creature-sliver", "black-magic", "centered-composition", "scene-mode"]
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/84-toxin-sliver.png
 average_cost_paid: 0
-market_price: 1.85
-market_price_as_of: 2026-05-07
+market_price: 1.82
+market_price_as_of: 2026-05-10
 date_added: 2026-05-07
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

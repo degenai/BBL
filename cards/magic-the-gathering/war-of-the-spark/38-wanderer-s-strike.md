@@ -14,10 +14,10 @@ tags_hub: ["swordswoman", "swordfighter", "sword", "katana", "ronin", "samurai",
 tags_filter: ["solo", "mid-shot", "three-quarter", "action-mode", "female-figure", "no-face", "white-magic", "sorcery", "exile", "proliferate", "backlit"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/38-wanderer-s-strike.png
 average_cost_paid: 0
-market_price: 0.2
-market_price_as_of: 2026-05-07
+market_price: 0.19
+market_price_as_of: 2026-05-10
 date_added: 2026-05-06
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 reference_image_source_url: https://cards.scryfall.io/png/front/8/5/85e1d63e-9692-4988-bda2-7c2c9b42217b.png?1557576122
 art_match_confidence: high
 needs_manual_review: false

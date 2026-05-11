@@ -14,10 +14,10 @@ tags_hub: ["silence", "vow", "ritual", "monks", "robed-figure", "suffering", "tr
 tags_filter: ["group", "3-figures", "close-up", "portrait-mode", "three-quarter-facing", "no-background", "male-figure", "white-magic", "enchantment"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/10-deafening-silence.png
 average_cost_paid: 0
-market_price: 2.43
-market_price_as_of: 2026-05-07
+market_price: 2.5
+market_price_as_of: 2026-05-10
 date_added: 2026-05-06
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

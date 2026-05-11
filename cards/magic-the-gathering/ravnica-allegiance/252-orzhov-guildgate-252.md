@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "guild
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/252-orzhov-guildgate-252.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-07
+market_price_as_of: 2026-05-10
 date_added: 2026-05-07
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

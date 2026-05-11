@@ -15,9 +15,9 @@ tags_filter: ["solo", "close-up", "forward-facing", "portrait-mode", "female-fig
 reference_image: cards/_images/magic-the-gathering/core-set-2021/96-duress.png
 average_cost_paid: 0
 market_price: 0.23
-market_price_as_of: 2026-05-07
+market_price_as_of: 2026-05-10
 date_added: 2026-05-06
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

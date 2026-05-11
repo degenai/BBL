@@ -14,10 +14,10 @@ tags_hub: ["armor", "haunted-object", "construct", "knight", "squire", "winter",
 tags_filter: ["duo", "2-figures", "mid-shot", "scene-mode", "no-face", "male-figure", "blue-magic", "artifact", "creature-construct", "forward-facing"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/230-shambling-suit.png
 average_cost_paid: 0
-market_price: 0.28
-market_price_as_of: 2026-05-07
+market_price: 0.31
+market_price_as_of: 2026-05-10
 date_added: 2026-05-07
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'

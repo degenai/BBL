@@ -14,10 +14,10 @@ tags_hub: ["minotaur", "rage", "charge", "arrows", "wound", "beast", "horns", "w
 tags_filter: ["solo", "close-up", "action-mode", "three-quarter-facing", "no-face-human", "creature-monster", "red-magic", "instant", "combat-trick", "common"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/141-infuriate.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-07
+market_price: 0.12
+market_price_as_of: 2026-05-10
 date_added: 2026-05-06
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

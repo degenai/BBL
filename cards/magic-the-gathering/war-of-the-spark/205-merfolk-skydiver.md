@@ -14,10 +14,10 @@ tags_hub: ["merfolk", "mutant", "wings", "flight", "transformation", "sky", "hyb
 tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "blue-magic", "creature-merfolk-mutant", "flying", "proliferate", "uncommon", "no-face-visible-detail", "female-figure"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/205-merfolk-skydiver.png
 average_cost_paid: 0
-market_price: 0.3
-market_price_as_of: 2026-05-07
+market_price: 0.29
+market_price_as_of: 2026-05-10
 date_added: 2026-05-06
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 reference_image_source_url: https://cards.scryfall.io/png/front/2/b/2bf211eb-837b-4c02-b02e-8d9e62f1abb1.png?1557577195
 art_match_confidence: high
 needs_manual_review: false

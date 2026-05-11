@@ -14,10 +14,10 @@ tags_hub: ["gorgon", "snake", "serpent", "cleric", "priestess", "ritual", "robed
 tags_filter: ["solo", "mid-shot", "portrait-mode", "three-quarter", "female-figure", "creature-gorgon", "creature-cleric", "black-magic", "deathtouch", "mill"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/122-venomous-hierophant.png
 average_cost_paid: 0
-market_price: 0.14
-market_price_as_of: 2026-05-07
+market_price: 0.16
+market_price_as_of: 2026-05-10
 date_added: 2026-05-06
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'

@@ -14,10 +14,10 @@ tags_hub: ["merfolk", "wizard", "divination", "horns", "ritual", "servant", "aug
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "blue-magic", "creature-merfolk", "creature-wizard", "no-background-scene", "humanoid-figure"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/41-augur-of-bolas.png
 average_cost_paid: 0
-market_price: 0.2
-market_price_as_of: 2026-05-07
+market_price: 0.21
+market_price_as_of: 2026-05-10
 date_added: 2026-05-05
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

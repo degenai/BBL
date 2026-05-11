@@ -14,10 +14,10 @@ tags_hub: ["vampire", "cleric", "priest", "ritual", "gothic", "cathedral", "robe
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "male-figure", "creature-vampire", "creature-cleric", "legendary", "black-magic", "lifegain", "lifeloss"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/127-vito-thorn-of-the-dusk-rose.png
 average_cost_paid: 0
-market_price: 11.79
-market_price_as_of: 2026-05-07
+market_price: 10.94
+market_price_as_of: 2026-05-10
 date_added: 2026-05-06
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

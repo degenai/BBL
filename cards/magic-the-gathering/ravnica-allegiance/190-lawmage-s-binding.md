@@ -15,9 +15,9 @@ tags_filter: ["group", "trio", "3-figures", "mid-shot", "forward-facing", "scene
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/190-lawmage-s-binding.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-07
+market_price_as_of: 2026-05-10
 date_added: 2026-05-07
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

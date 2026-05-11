@@ -174,6 +174,67 @@ def load_persistent(path: Path) -> dict:
     return {k: fm.get(k) for k in PERSISTENT_FIELDS if fm.get(k) is not None}
 
 
+# Fields csv2mdbot OWNS — anything the CSV controls. These get overwritten on every run.
+# Everything else (vision tags, IP flags, mood, body content, ## Vision section, ## Notes
+# narrative) belongs to researchbot / apply_vision / the human and must be preserved.
+CSV_MANAGED_FIELDS = (
+    "name", "game", "set", "collector_number", "rarity", "variance", "grade",
+    "condition", "quantity", "average_cost_paid", "market_price",
+    "market_price_as_of", "date_added", "last_seen",
+)
+
+
+def _update_fm_field(text: str, field: str, value: str) -> str:
+    """Surgical frontmatter field update. Replaces an existing `field: ...` line,
+    or inserts before the closing `---`. Mirrors researchbot.update_frontmatter_field
+    so csv2mdbot stays stdlib-only (no cross-module import on the hot path)."""
+    pattern = rf"^{re.escape(field)}:.*$"
+    if re.search(pattern, text, flags=re.MULTILINE):
+        return re.sub(pattern, f"{field}: {value}", text, count=1, flags=re.MULTILINE)
+    m = FRONTMATTER_RE.match(text)
+    if not m:
+        return text
+    fm_end = m.end(1)
+    return text[:fm_end] + f"\n{field}: {value}" + text[fm_end:]
+
+
+def surgical_update_existing(path: Path, row: dict, price_col: str | None,
+                             price_date: str | None, last_seen: str,
+                             quantity_override: int | None = None) -> None:
+    """Update an existing card MD in place. Touches ONLY csv-managed frontmatter
+    fields. Leaves researchbot-managed frontmatter, body content, and the
+    `## Vision` / `## Notes` sections completely alone.
+
+    This is the fix for the body-wipe bug: csv2mdbot used to re-render the whole
+    file from template on every run, destroying the vision narrative and image
+    embed every time a new CSV landed. Now CSV is the source of truth only for
+    fields it actually owns.
+    """
+    qty = quantity_override if quantity_override is not None else int(row.get(COL_QTY) or 0)
+    text = path.read_text(encoding="utf-8")
+
+    updates = {
+        "name": row.get(COL_NAME, "").strip(),
+        "game": row.get(COL_CATEGORY, "").strip(),
+        "set": row.get(COL_SET, "").strip(),
+        "collector_number": row.get(COL_NUMBER, "").strip(),
+        "rarity": row.get(COL_RARITY, "").strip(),
+        "variance": row.get(COL_VARIANCE, "").strip() or DEFAULT_VARIANCE,
+        "grade": row.get(COL_GRADE, "").strip() or DEFAULT_GRADE,
+        "condition": row.get(COL_CONDITION, "").strip() or DEFAULT_CONDITION,
+        "quantity": str(qty),
+        "average_cost_paid": collapse_zero(row.get(COL_COST, "")),
+        "market_price": collapse_zero(row.get(price_col, "")) if price_col else "0",
+        "market_price_as_of": price_date or "",
+        "date_added": row.get(COL_DATE_ADDED, "").strip(),
+        "last_seen": last_seen,
+    }
+    for field, value in updates.items():
+        text = _update_fm_field(text, field, value)
+
+    path.write_text(text, encoding="utf-8")
+
+
 # --- Rendering ---
 
 # Notes that are just punctuation / whitespace / common CSV junk are treated as empty.
@@ -422,18 +483,6 @@ def reconcile(csv_path: Path, cards_dir: Path, archive_dir: Path,
         existed_in_cards = path.exists()
         existed_in_archive = archived_path.exists()
 
-        persistent: dict = {}
-        if existed_in_cards:
-            persistent = load_persistent(path)
-        elif existed_in_archive:
-            persistent = load_persistent(archived_path)
-
-        content = render_node(
-            row, price_col, price_date,
-            last_seen=today, persistent=persistent,
-            quantity_override=qty_sums[key],
-        )
-
         if dry_run:
             if existed_in_cards:
                 report["updated"] += 1
@@ -443,15 +492,34 @@ def reconcile(csv_path: Path, cards_dir: Path, archive_dir: Path,
             continue
 
         path.parent.mkdir(parents=True, exist_ok=True)
-        path.write_text(content, encoding="utf-8")
-        seen_card_paths.add(path)
 
-        if existed_in_archive and not existed_in_cards:
-            archived_path.unlink()
-            report["created"] += 1
-        elif existed_in_cards:
+        if existed_in_cards:
+            # Surgical update — preserve vision tags, IP flags, ## Vision body, ## Notes.
+            surgical_update_existing(
+                path, row, price_col, price_date,
+                last_seen=today, quantity_override=qty_sums[key],
+            )
+            seen_card_paths.add(path)
             report["updated"] += 1
+        elif existed_in_archive:
+            # Card returning from archive — surgical update its archived MD too,
+            # then move it back into cards/.
+            surgical_update_existing(
+                archived_path, row, price_col, price_date,
+                last_seen=today, quantity_override=qty_sums[key],
+            )
+            archived_path.replace(path)
+            seen_card_paths.add(path)
+            report["created"] += 1
         else:
+            # Brand-new card — full template render is appropriate.
+            content = render_node(
+                row, price_col, price_date,
+                last_seen=today, persistent={},
+                quantity_override=qty_sums[key],
+            )
+            path.write_text(content, encoding="utf-8")
+            seen_card_paths.add(path)
             report["created"] += 1
 
     _zero_and_archive_dir(cards_dir, archive_dir, seen_card_paths, report, dry_run)

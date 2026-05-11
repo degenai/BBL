@@ -7,17 +7,17 @@ rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
 tags_hub: ["boar", "piglet", "forest", "prey", "woodland", "animals", "trio", "hunt", "wildlife", "young-animal", "fairy-tale", "nature"]
 tags_filter: ["no-figure", "group", "3-creatures", "mid-shot", "scene-mode", "faces-away", "no-face", "green-magic", "sorcery", "token-generator", "food-token"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/184-wolf-s-quarry.png
 average_cost_paid: 0
-market_price: 0.19
-market_price_as_of: 2026-05-07
+market_price: 0.2
+market_price_as_of: 2026-05-10
 date_added: 2026-05-06
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

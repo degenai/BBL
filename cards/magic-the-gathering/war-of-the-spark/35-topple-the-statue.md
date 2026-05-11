@@ -14,10 +14,10 @@ tags_hub: ["statue", "monument", "ruins", "collapse", "tyrant-fall", "dragon", "
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "forward-facing", "monochrome-palette", "white-magic", "instant", "destroy-artifact"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/35-topple-the-statue.png
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-07
+market_price: 0.07
+market_price_as_of: 2026-05-10
 date_added: 2026-05-06
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 reference_image_source_url: https://cards.scryfall.io/png/front/2/8/2829fa40-92e4-4017-aacd-9d9feae04aa2.png?1557576101
 art_match_confidence: high
 needs_manual_review: false

@@ -14,10 +14,10 @@ tags_hub: ["forest", "wilderness", "dog", "companion", "bond", "summoner", "robe
 tags_filter: ["duo", "mid-shot", "three-quarter-facing", "portrait-mode", "male-figure", "green-magic", "planeswalker-card", "legendary"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/164-jiang-yanggu-wildcrafter.png
 average_cost_paid: 0
-market_price: 0.33
-market_price_as_of: 2026-05-07
+market_price: 0.32
+market_price_as_of: 2026-05-10
 date_added: 2026-05-06
-last_seen: 2026-05-07
+last_seen: 2026-05-10
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
