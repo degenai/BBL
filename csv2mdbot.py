@@ -126,10 +126,18 @@ def sealed_path(row: dict, base_dir: Path) -> Path:
 
 
 def node_path(row: dict, base_dir: Path) -> Path:
-    """cards/<game>/<set>/<num>-<name-slug>[--variance][--condition].md"""
+    """cards/<game>/<set>/<num>-<name-slug>[--variance][--condition].md
+
+    Includes a fallback for the no-num case: if Collectr's CSV has an empty
+    Card Number but a numbered version of the same card already exists on
+    disk (because researchbot/backfill_no_num.py renamed it to <num>-<slug>.md
+    using Scryfall's collector_number), prefer the existing numbered file
+    over creating a stale `no-num-*` entry. This keeps the backfill from
+    being undone on the next CSV upload."""
     game = slug(row.get(COL_CATEGORY, ""))
     set_ = slug(row.get(COL_SET, ""))
-    num = slug(row.get(COL_NUMBER, "") or "no-num")
+    num_raw = (row.get(COL_NUMBER, "") or "").strip()
+    num = slug(num_raw or "no-num")
     name = slug(row.get(COL_NAME, ""))
     variance = (row.get(COL_VARIANCE, "") or DEFAULT_VARIANCE).strip()
     grade = (row.get(COL_GRADE, "") or DEFAULT_GRADE).strip()
@@ -145,7 +153,31 @@ def node_path(row: dict, base_dir: Path) -> Path:
     if condition and condition != DEFAULT_CONDITION:
         suffix += f"--{slug(condition)}"
 
-    return base_dir / game / set_ / f"{suffix}.md"
+    canonical = base_dir / game / set_ / f"{suffix}.md"
+
+    # No-num fallback: check if a numbered version of this card already exists.
+    # Match any file whose name ends with `-<name-slug>.md` in the same set dir
+    # and has a leading numeric (or alphanumeric collector-number) component.
+    if not num_raw and not canonical.exists():
+        set_dir = base_dir / game / set_
+        if set_dir.exists():
+            # Build the variance/condition suffix tail so we match the right variant
+            tail = ""
+            if variance and variance != DEFAULT_VARIANCE:
+                tail += f"--{slug(variance)}"
+            if grade and grade != DEFAULT_GRADE:
+                tail += f"--{slug(grade)}"
+            if condition and condition != DEFAULT_CONDITION:
+                tail += f"--{slug(condition)}"
+            target_tail = f"-{name}{tail}.md"
+            for existing in set_dir.iterdir():
+                if not existing.is_file() or not existing.name.endswith(target_tail):
+                    continue
+                if existing.name.startswith("no-num-"):
+                    continue  # don't fall back to another no-num file
+                return existing
+
+    return canonical
 
 
 # --- Frontmatter I/O (minimal, no PyYAML dependency) ---
@@ -370,6 +402,22 @@ def _inject_archived_on(text: str, archived_on: str) -> str:
     return text[:fm_end] + f"\narchived_on: {archived_on}" + text[fm_end:]
 
 
+def _is_non_card_node(path: Path, fm: dict) -> bool:
+    """Skip MDs that aren't inventory cards: hub concept pages, image-cache
+    sidecars, anything under an _underscore-prefixed directory inside cards/.
+    Hub pages declare `type: hub` in frontmatter; the path-based check is the
+    belt-and-suspenders guard so we never accidentally zero/archive these."""
+    if fm.get("type") == "hub":
+        return True
+    # Any path segment starting with `_` (e.g. cards/_hubs/, cards/_images/) is
+    # not inventory. _images/ is for cached PNGs and doesn't contain MDs, but
+    # the convention generalizes.
+    for part in path.parts:
+        if part.startswith("_"):
+            return True
+    return False
+
+
 def _zero_and_archive_dir(active_dir: Path, archive_dir: Path,
                           seen_paths: set[Path], report: dict, dry_run: bool,
                           report_prefix: str = "") -> None:
@@ -383,6 +431,9 @@ def _zero_and_archive_dir(active_dir: Path, archive_dir: Path,
         if existing in seen_paths:
             continue
         text = existing.read_text(encoding="utf-8")
+        fm = parse_frontmatter(text)
+        if _is_non_card_node(existing, fm):
+            continue
         new_text = re.sub(
             r"^(quantity:\s*)\d+",
             r"\g<1>0",
@@ -398,6 +449,8 @@ def _zero_and_archive_dir(active_dir: Path, archive_dir: Path,
     for existing in list(active_dir.rglob("*.md")):
         text = existing.read_text(encoding="utf-8")
         fm = parse_frontmatter(text)
+        if _is_non_card_node(existing, fm):
+            continue
         try:
             qty = int(fm.get("quantity") or 0)
         except ValueError:

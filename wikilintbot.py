@@ -177,9 +177,24 @@ class Finding:
 
 # --- Loader ---
 
+def _is_non_card_node(path: Path, fm: dict) -> bool:
+    """Skip MDs that aren't inventory cards: hub concept pages (frontmatter
+    `type: hub`), anything under an _underscore-prefixed directory inside
+    cards/ (e.g. cards/_hubs/, cards/_images/). Mirrors csv2mdbot's same guard
+    so the two scripts agree on what counts as inventory."""
+    if fm.get("type") == "hub":
+        return True
+    for part in path.parts:
+        if part.startswith("_"):
+            return True
+    return False
+
+
 def load_cards(cards_dir: Path, sealed_dir: Path,
                archive_dir: Path, sealed_archive_dir: Path) -> list[Card]:
-    """Walk all four dirs and return Card objects with parsed frontmatter."""
+    """Walk all four dirs and return Card objects with parsed frontmatter.
+    Hub concept pages (cards/_hubs/*.md with type: hub) are deliberately
+    skipped — they're conceptual anchors, not inventory."""
     cards: list[Card] = []
 
     def walk(root: Path, is_sealed: bool, is_archived: bool):
@@ -194,6 +209,8 @@ def load_cards(cards_dir: Path, sealed_dir: Path,
                 cards.append(Card(p, {"_read_error": str(e)}, "", is_sealed, is_archived))
                 continue
             fm = parse_frontmatter(text)
+            if _is_non_card_node(p, fm):
+                continue
             cards.append(Card(p, fm, text, is_sealed, is_archived))
 
     walk(cards_dir, is_sealed=False, is_archived=False)

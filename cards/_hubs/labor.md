@@ -1,0 +1,45 @@
+---
+type: hub
+name: Labor
+aliases: [labor, work, workers, toil, drudgery, exhaustion]
+tag_signals: [labor, exhaustion, drudgery, servant, tax-collector, scrubbing, burnout, hierarchy, oppression, working-class, peasant, soldier, worker, vow, ritual, captive, victim, coercion]
+anchored_lairs: []
+brand_weight: foundational
+---
+
+# Labor
+
+A foundational [[Bulk Graph Bundler]] hub. Not "workers" as cute aesthetic. Labor as the thing that gets *extracted* — by nobles, by tax-collectors, by the manor, by the church, by the racing-sponsor, by the gym franchise that takes 50%. The thing you owe and can't repay. The thing depicted in card art where one figure scrubs a floor while another stands on it.
+
+> Labor is rarely the loud subject in TCG art. It's almost always backdrop, ornament, ambient unfreedom. The bundle's job is to put the backdrop in the foreground.
+
+## What This Hub Anchors
+
+Card art that depicts labor — *especially* labor that's invisible-by-design. The servant in the corner of a noble's portrait. The militia conscripted off-frame. The slumped inventor at the workbench at 3am. The hooded acolyte in the procession's third row. The tax-collector knocking. The figure with the broken weapon overgrown by vines (their war ended, but the work didn't).
+
+Negative-space framing counts too: cards depicting forces that suppress labor (Crush Dissent, Witch's Vengeance crowd scenes) are part of this hub — they show what the system does *to* people who organize. A Labor lair includes both the workers and the apparatus pressing on them.
+
+## Tag-Cluster Signals (descriptive, not definitional)
+
+When `tags_hub` includes any combination of: `labor`, `exhaustion`, `drudgery`, `servant`, `tax-collector`, `scrubbing`, `burnout`, `hierarchy`, `oppression`, `peasant`, `worker`, `vow`, `captive`, `victim`, `coercion`, `procession`, `mob`, `villagers`, `mass-scene` — the card is a candidate for Labor.
+
+## Narrative Seeds (lair titles, not yet built)
+
+- **"Sleep when you're dead"** — Mind Rot (inventor slumped at workbench), Wicked Guardian (servant scrubbing for nobility), Charity Extractor (armored tax-collector with polearm), Deafening Silence (stitched-mouth vow-monks), Cabal Therapy.
+- **"What the manor doesn't tell you"** — Murders at Karlov Manor reread as class violence in evening wear; the mystery genre as a class-relations cipher.
+- **"Workers of the world, untap"** — Witch's Vengeance, Inspire Awe (rallying cry), Crush Dissent (negative-space framing — what the bundle is *against*).
+
+## Anti-Patterns
+
+This hub is NOT:
+- "Generic medieval peasants" with no thesis attached.
+- "Fantasy oppression" played as flavor without recognition that the depicted figures map to real people in real systems.
+- Solidarity-as-vibe. Labor is sharper. Solidarity is what you *do* to defend labor; it's downstream.
+
+## See Also
+
+- [[rebellion]] — sibling hub; rebellion is labor's load-bearing political verb
+- [[chinese-zodiac]] — sibling hub; zodiac uses functional-agrarian criteria that ARE labor-coded (rat = agrarian pest, ox = working animal, the whole grid is a peasant cosmology)
+- repo `cards/` — current candidate cards live here, tagged with the signals above
+- repo `docs/sketchbook.md` — narrative-first lair architect sketch
+- memory `bbl-narrative-first-lairs.md` — the principle that says hubs are narrative anchors, not tag clusters
