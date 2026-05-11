@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+symbols: ["orzhov-signet"]
 tags_hub: ["vampire", "noble", "feast", "wine", "blood", "candle", "chalice", "gold", "decadence", "ritual", "gothic", "night", "robed-figure", "aristocrat"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "creature-vampire", "multicolor-white-black", "white-magic", "black-magic", "lifegain", "extort", "indoor-scene"]
 reference_image: cards/_images/magic-the-gathering/dragon-s-maze/109-tithe-drinker.png

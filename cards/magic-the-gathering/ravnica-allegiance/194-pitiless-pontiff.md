@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+symbols: ["orzhov-signet"]
 tags_hub: ["vampire", "cleric", "priest", "ritual", "sacrifice", "blade", "dagger", "robed-figure", "gothic", "cathedral", "cult", "death-cult", "ceremony", "villain"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "portrait-mode", "no-background-figure", "creature-vampire", "creature-cleric", "multicolor-white-black", "white-magic", "black-magic"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/194-pitiless-pontiff.png

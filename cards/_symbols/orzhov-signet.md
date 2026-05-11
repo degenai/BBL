@@ -1,0 +1,67 @@
+---
+type: symbol
+name: Orzhov Signet
+aliases: [orzhov-signet, eclipsed-sun, orzhov-emblem, four-pronged-sun]
+faction: Orzhov Syndicate
+universe: Magic: The Gathering / Ravnica
+canonical_source: "Orzhov Signet (artifact card, Ravnica: City of Guilds onward, multiple printings)"
+confidence: canonical
+appears_on: [ravnica-allegiance/194-pitiless-pontiff, dragon-s-maze/109-tithe-drinker]
+related_hubs: [labor]
+---
+
+# Orzhov Signet
+
+The faction emblem of the Orzhov Syndicate, the white-black guild of Ravnica. Canonically called an "eclipsed sun" in lore: a four-pronged sun with a thin ring around its perimeter and a dark center. The same icon Wizards put on the `Orzhov Signet` artifact card itself.
+
+## The functional ideology
+
+The most BBL-relevant fact about this symbol is its **documented duality of meaning by form**. The Orzhov Signet artifact card's flavor text (Commander 2011 printing, Greg Hildebrandt art) reads:
+
+> "The form of the sigil is just as important as the sigil itself. If it's carried on a medallion, its bearer is a master. If it's tattooed on the body, its bearer is a slave."
+
+Later printings (Streets of New Capenna Commander, Duskmourn Commander, both Martina Pilcerova art) reframe the duality:
+
+> "The sigil holds different meanings depending on its form and presentation. While some wear it as a sign of status, others wear it as a sign of debt."
+
+Same icon, opposite meanings, determined by whether it's worn at the throat by choice or branded into the body by force. The institution stamps both ends of its hierarchy with itself, and the difference is whether the wearer can take it off. **Per Alex 2026-05-11: "literally functional ideology."** A symbol whose entire purpose is to mark the class position of its bearer through the manner of its bearing.
+
+For any BBL bundle on the apparatus-of-extraction thesis register (labor, hierarchy, class violence, institutional authority), the Orzhov Signet is the highest-leverage iconographic anchor available in the MTG corpus. Bundle prose that names it by name earns lore-aware buyer credibility and lets the canonical guild iconography do the thesis work without naming the thesis.
+
+## Where it appears
+
+Confirmed:
+- **Pitiless Pontiff** (Ravnica Allegiance #194) — throne back. Yongjae Choi art. The four-pronged sun directly behind the seated cleric, dark center at her head height.
+- **Tithe Drinker** (Dragon's Maze #109) — throne back. Slawomir Maniak art. Same iconographic device behind the seated vampire.
+
+Strong candidates pending visual confirmation (textual sources describe recurring throne / sun ornamentation on these):
+- Obzedat, Ghost Council (Gatecrash)
+- Teysa Karlov / Teysa, Envoy of Ghosts / Teysa, Orzhov Scion
+- Karlov of the Ghost Council
+- Orzhov Pontiff (Dissension)
+- Imperious Oligarch (Ravnica Allegiance)
+- Seraph of the Scales (Ravnica Allegiance)
+- Kaya, Orzhov Usurper (War of the Spark)
+- Orzhova, the Cathedral Opulent (the Orzhov guildhall land card)
+
+The artifact card itself (Orzhov Signet, multiple printings) IS the symbol depicted as its own primary subject.
+
+## Caveats
+
+- The Karlov family ouroboros is a *separate* house sigil within Orzhov canon. Not every Orzhov throne ornament is the guild eclipsed sun; some are house-specific. The four-pronged sun on Pontiff and Tithe Drinker thrones matches the guild-wide eclipsed-sun description, not the Karlov ouroboros.
+- Visual confirmation across the candidate cards above is pending. The research basis for this entry is the canonical Orzhov Signet artifact-card flavor text and MTG Wiki / CBR Orzhov-faction lore pages; the cross-card visual appearance was inferred from textual descriptions of Orzhov visual conventions, not directly verified at image resolution.
+
+## Sources
+
+- Orzhov Signet (Commander 2011, Greg Hildebrandt art) — primary flavor-text source for medallion/tattoo duality
+- Orzhov Signet (Streets of New Capenna Commander, Duskmourn Commander, Martina Pilcerova art) — primary flavor-text source for status/debt duality
+- [MTG Wiki — Orzhov Syndicate](https://mtg.fandom.com/wiki/Orzhov_Syndicate) — eclipsed-sun signet described as guild emblem
+- [CBR — The Orzhov Syndicate, Explained](https://www.cbr.com/magic-the-gathering-orzhov-syndicate-explained/) — confirms the medallion/brand duality
+- [Card Kingdom — Orzhov Art and Representation](https://blog.cardkingdom.com/orzhov-art-and-representation/) — recurring throne / coin-ornament visual language
+- [Wizards — The Art of Gatecrash](https://magic.wizards.com/en/news/feature/art-gatecrash-2013-01-23-0) — confirms Wizards art-directed Orzhov visual unity
+
+## See also
+
+- [[labor]] — the BBL hub this symbol most strongly supports
+- [[Bulk Graph Bundler]] (wiki) — the project this symbol enriches
+- Tithe (Discrete Lair 001) — the first BBL bundle to anchor on this symbol

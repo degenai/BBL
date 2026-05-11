@@ -403,11 +403,12 @@ def _inject_archived_on(text: str, archived_on: str) -> str:
 
 
 def _is_non_card_node(path: Path, fm: dict) -> bool:
-    """Skip MDs that aren't inventory cards: hub concept pages, image-cache
-    sidecars, anything under an _underscore-prefixed directory inside cards/.
-    Hub pages declare `type: hub` in frontmatter; the path-based check is the
-    belt-and-suspenders guard so we never accidentally zero/archive these."""
-    if fm.get("type") == "hub":
+    """Skip MDs that aren't inventory cards: hub concept pages, symbol pages
+    (iconographic ideology entries), image-cache sidecars, anything under an
+    _underscore-prefixed directory inside cards/. Hub pages declare
+    `type: hub`, symbol pages declare `type: symbol`; the path-based check is
+    the belt-and-suspenders guard so we never accidentally zero/archive these."""
+    if fm.get("type") in ("hub", "symbol"):
         return True
     # Any path segment starting with `_` (e.g. cards/_hubs/, cards/_images/) is
     # not inventory. _images/ is for cached PNGs and doesn't contain MDs, but
