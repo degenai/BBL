@@ -1,0 +1,48 @@
+{
+  "card_name": "Mortify",
+  "game": "Magic: The Gathering",
+  "set": "Ravnica Allegiance",
+  "collector_number": "192",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag from vision pass; no IP verification required. The depicted figure (a stern blonde woman casting a radial burst) is unnamed in all reviewed sources. Flavor-text attribution names 'Hilgur, Orzhov euthanist' as the speaker of the quote, but no Wizards article, Scryfall card-page note, or wiki entry identifies the woman in the art as Hilgur or as any other named Orzhov NPC. Role/guild overlap (Orzhov spellcaster) is not identity; triviabot leaves the figure anonymous.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Originally printed in Guildpact (GPT #79, 2006-02-03) — the second set of the original Ravnica block and the set that introduced the Orzhov Syndicate as a playable guild — and reprinted into Ravnica Allegiance (RNA #192, 2019-01-25) as Orzhov's guild-common removal at uncommon, complete with the Orzhov watermark [Scryfall: rna/192; Scryfall prints search for oracle_id faa01ed1].",
+      "sources": ["Scryfall: rna/192", "Scryfall prints search (oracle_id faa01ed1-ccfa-4e58-951f-cd81f9068027)"]
+    },
+    {
+      "category": "design",
+      "text": "Mortify has been reprinted across 29 distinct printings since 2006 — including Commander 2011/2016/2017/2018, Commander Anthology I & II, Conspiracy, Time Spiral Remastered, Foundations, The List, Secret Lair Drop, and crossover Commander decks for Warhammer 40,000, Assassin's Creed, The Lord of the Rings, and Final Fantasy — making it one of the most reprinted Orzhov instants in the game [Scryfall prints search for oracle_id faa01ed1].",
+      "sources": ["Scryfall prints search (oracle_id faa01ed1-ccfa-4e58-951f-cd81f9068027)"]
+    },
+    {
+      "category": "design",
+      "text": "The Ravnica Allegiance printing is illustrated by Anthony Palumbo and is a brand-new piece, replacing the original Glen Angus illustration that ran on Guildpact and the early Commander reprints [Scryfall: rna/192 artist field; Scryfall prints search].",
+      "sources": ["Scryfall: rna/192", "Scryfall prints search (oracle_id faa01ed1-ccfa-4e58-951f-cd81f9068027)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text on the Ravnica Allegiance printing reads: \"Your debt is erased.\" —Hilgur, Orzhov euthanist [Scryfall: rna/192 flavor_text field]. The speaker is named but otherwise unattested in Wizards story articles or MTG Wiki lore pages found in this pass; 'Orzhov euthanist' as a role echoes the Guildpact creature card 'Orzhov Euthanist' (GPT #54, 2006), the Orzhov's mercy-killer / debt-collector job class [Scryfall: gpt/54].",
+      "sources": ["Scryfall: rna/192 flavor_text field", "Scryfall: gpt/54 (Orzhov Euthanist)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Format-legal in Standard, Pioneer, Modern, Legacy, Vintage, Commander, and Pauper Commander adjacent formats; NOT legal in Pauper [Scryfall: rna/192 legalities]. Commander inclusion in roughly 213,000 decks (10.6% of eligible decks), commonly run by Edgar Markov, Kaalia of the Vast, Terra Herald of Hope, and Atraxa Praetor's Voice decks [EDHREC: Mortify]. Community sentiment on EDHREC is that the card is outclassed by Anguished Unmaking / Vindicate / Despark for the same slot — EDHREC's 'In the Margins: Mortify' column argues 'not a single' of the ~21k decks running it 'should have it as part of the 99,' which is the author's polemical framing, not consensus fact [EDHREC: In the Margins — Mortify].",
+      "sources": ["Scryfall: rna/192 legalities", "EDHREC: Mortify", "EDHREC: In the Margins — Mortify"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mortify", "set": "Guildpact (#79)", "note": "Original 2006 printing of the same card with Glen Angus art — the Ravnica Allegiance copy is a same-text reprint with new Anthony Palumbo illustration."},
+    {"name": "Anguished Unmaking", "set": "Shadows over Innistrad", "note": "EDHREC and community-discourse comparison point: same {1}{W}{B} cost, instant speed, but exiles any nonland permanent at 3 life — the card most often cited as the upgrade over Mortify."},
+    {"name": "Vindicate", "set": "Apocalypse (and reprints)", "note": "EDHREC's 'In the Margins' column calls this out as the better Orzhov 3-mana wide-hitting removal; same-cost sorcery that hits any permanent including lands."},
+    {"name": "Despark", "set": "War of the Spark", "note": "Newer {W}{B} instant that exiles any permanent with CMC 4+; community discourse cites it as one of the cards making Mortify obsolete in formats where both are legal."},
+    {"name": "Orzhov Euthanist", "set": "Guildpact (#54)", "note": "The 2006 Guildpact creature whose job title — 'Orzhov euthanist' — is reused as Hilgur's role in the Ravnica Allegiance flavor text; thematic anchor for the 'debt-collector / mercy-killer' Orzhov archetype."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

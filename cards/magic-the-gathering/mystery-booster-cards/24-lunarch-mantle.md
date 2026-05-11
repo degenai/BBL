@@ -47,3 +47,18 @@ A grim, dark-armored figure stands at center frame, gripping a long straight swo
 **Iconography:** wings, sword-point-down, angelic-mantle
 **Genre cues:** fantasy, gothic, dark-fantasy
 
+## Trivia
+
+- **Set context** — First printed in Eldritch Moon, not Shadows over Innistrad: EMN #35, released 2016-07-22, art by Anastasia Ovchinnikova `[Scryfall]`. Subsequently reprinted in Masters 25 (A25 #24, 2018), surfaced on The List as PLST A25-24 (2019 — the printing of this physical copy), Shadows over Innistrad Remastered digital (SIR #37, 2023), and Innistrad Remastered (INR #31 booster + #344 borderless retro, 2025) `[Scryfall prints search]`.
+- **Flavor text** — `"A boon from the angels should never be cast aside."` — Manfried Ulmach, Chief Inquisitor `[Scryfall]`. (The MD Vision section transcribes the speaker's surname as 'Ulnach' — Scryfall's canonical text is 'Ulmach'; minor upstream correction.)
+- **Flavor speaker, NOT depicted** — Manfried Ulmach is a named Innistrad NPC: Chief Inquisitor of the Lunarch Inquisition, the church's enforcement arm centered in Nephalia. Community lore archives describe him as notably cruel; Thalia is reported to have objected to his conduct at Elgaud `[MTG Wiki: Manfried Ulmach, via search snippet]`. He appears only in flavor text — the armored figure on this card is unnamed and is NOT a depiction of Ulmach; the quoted line is his commentary on the mantle, not a self-portrait.
+- **Design** — The same Ovchinnikova illustration has been carried through every paper and digital printing — no alternate-art or full-art versions exist; the only frame variant is the INR #344 borderless retro-frame reprint `[Scryfall prints search]`.
+- **Mechanical reputation** — Niche but coherent: EDHREC rank ~17,824, ~0.06% inclusion rate (~2,570 decks tracked). Top Commander homes are mono-white Voltron/aura shells — Light-Paws, Emperor's Voice (1.7% inclusion), Mazzy, Truesword Paladin (4.6%), Eriette of the Charmed Apple (0.7%) `[EDHREC: Lunarch Mantle]`. Pauper-legal, which is where it sees its most competitive interest as a cheap +2/+2 with sac-fueled evasion `[Scryfall legalities]`.
+
+### Related cards
+- Light-Paws, Emperor's Voice (Kamigawa: Neon Dynasty) — EDHREC's #1 commander home for Lunarch Mantle; tutors auras directly onto itself for Voltron buildup.
+- All That Glitters (Throne of Eldraine / various) — 31% co-inclusion on EDHREC; same aura-Voltron archetype.
+- Ethereal Armor (Return to Ravnica / various) — 31% co-inclusion; the cheap white aura most often paired with Lunarch Mantle in enchantress shells.
+- Kor Spiritdancer (Modern Masters / various) — aura-payoff creature EDHREC surfaces as a supporting piece in the same archetype.
+- Sram, Senior Edificer (Aether Revolt) — card-draw engine on aura casts; routine partner in mono-white aura builds.
+

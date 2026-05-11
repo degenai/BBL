@@ -1,0 +1,64 @@
+{
+  "card_name": "Secure the Scene",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "35",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag on this card; vision pass did not flag the depicted armored figures as a named lore character. Per spec anti-confab rule, generic armored figures in an M21 art do not get retro-fitted to a named NPC absent direct evidence (oracle/flavor text naming, Wizards story spotlight tying the art, or Scryfall card-page notes). None of those exist for this card, so the depicted figures remain anonymous.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Card details: {4}{W} sorcery, Core Set 2021 #35, common (the vision-pass MD lists rarity 'C'); oracle text 'Exile target nonland permanent. Its controller creates a 1/1 white Soldier creature token.' Illustrated by Zoltan Boros. [Scryfall (m21/35) via MTGAZone card listing; MTGNerdGirl M21 White Limited Review]",
+      "sources": [
+        "Scryfall (scryfall.com/card/m21/35/secure-the-scene)",
+        "MTGAZone card page (mtgazone.com/card/secure-the-scene)",
+        "MTGNerdGirl M21 White Limited Review (coolstuffinc.com)"
+      ]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (verbatim): \"You know it's a great show when the Azorius arrest the props, too!\" — Judith, the Scourge Diva. The speaker is the Cult of Rakdos's performance-artist grand dame from Ravnica Allegiance, an in-universe theatrical voice commenting cross-faction on the Azorius (white-blue law guild) — which fits the card's white-blue-glow exile imagery despite the card itself being mono-white. [Scryfall card page; MTG Wiki: Judith]",
+      "sources": [
+        "Scryfall card page",
+        "MTG Wiki: Judith (mtg.fandom.com/wiki/Judith)"
+      ]
+    },
+    {
+      "category": "design",
+      "text": "Artist Zoltan Boros is one of the most prolific MTG illustrators with ~248 cards in the Gatherer database; he worked for 25 years in the 'Boros-Szikszai' duo with Gabor Szikszai before going solo as a freelancer in 2010, contributing to MTG, D&D, Hearthstone, WoW, and Diablo. [MTG Wiki: Zoltan Boros; Gatherer artist index]",
+      "sources": [
+        "MTG Wiki: Zoltan Boros (mtg.fandom.com/wiki/Zoltan_Boros)",
+        "Gatherer artist search (gatherer.wizards.com)"
+      ]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanical reputation: rated a 3/5 in MTGNerdGirl's M21 white limited review as a 'typical 5-mana white exile' whose upside is hitting any nonland permanent (including planeswalkers), with the downside being the 1/1 token gift if used on a creature. EDHREC reports ~0.01% inclusion across 530 decks (effectively unplayed in Commander); reviewers note more efficient white removal exists. Community sentiment per the limited reviews: 'fine, most white decks like to play a single copy', not a build-around. [MTGNerdGirl review; EDHREC]",
+      "sources": [
+        "MTGNerdGirl M21 White Limited Review (coolstuffinc.com)",
+        "EDHREC card page (edhrec.com/cards/secure-the-scene)"
+      ]
+    },
+    {
+      "category": "set-lore",
+      "text": "Set context: Core Set 2021 (M21) is the 2020 summer Core Set anchored thematically by Teferi (the set's face planeswalker and the cover-art figure for several premium products). M21 is a 'core' product positioned as an evergreen on-ramp set rather than a top-down plane-specific narrative, which is why a flavor quote from a Ravnica character (Judith) is paired with art that isn't tied to any specific named NPC — core sets routinely re-use cross-block flavor voices on generic-illustration cards. [Scryfall set page; MTG Wiki Core Set 2021]",
+      "sources": [
+        "Scryfall set page (scryfall.com/sets/m21)",
+        "MTG Wiki: Core Set 2021"
+      ]
+    }
+  ],
+  "related_cards": [
+    {"name": "Judith, the Scourge Diva", "set": "Ravnica Allegiance (RNA, #185)", "note": "Speaker of this card's flavor text; her own card establishes the in-universe voice"},
+    {"name": "Kaya the Inexorable", "set": "Kaldheim (KHM) / later printings", "note": "Cited in community discussion as the higher-power exile-on-a-planeswalker comparison point against Secure the Scene"},
+    {"name": "Generous Gift", "set": "Modern Horizons (MH1)", "note": "EDHREC top co-played card with Secure the Scene (22% co-inclusion); same 'exile/destroy any permanent, give them a token' design space"},
+    {"name": "Path to Exile", "set": "multiple", "note": "EDHREC top co-played card (22% co-inclusion); the genre-defining white 'exile a creature, give them a downside' template Secure the Scene riffs on"},
+    {"name": "Raise the Alarm", "set": "multiple", "note": "EDHREC co-play partner (12%); pairs with Secure the Scene's token rider in go-wide soldier-token shells"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

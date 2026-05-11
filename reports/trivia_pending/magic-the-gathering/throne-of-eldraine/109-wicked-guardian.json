@@ -1,0 +1,48 @@
+{
+  "card_name": "Wicked Guardian",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "109",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged by vision pass. The depicted noblewoman is the 'wicked stepmother' fairy-tale archetype per the official Wizards preview article, but is NOT named as a specific Disney character (e.g. Lady Tremaine) in any Wizards source. Per spec anti-confab rule, depicted figures stay anonymous; archetype is fine to cite, named-IP identification is not.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "In Mark Rosewater's official Throne of Eldraine preview article 'Eldraine or Shine' (2019-09-09), Wicked Guardian is positioned within the set's Cinderella-fairy-tale cycle, illustrating the moment when 'her wicked stepmother begins treating her less like a stepdaughter and more like a servant.' [Wizards: Making Magic, 'Eldraine or Shine']",
+      "sources": ["Wizards article: magic.wizards.com/en/articles/archive/making-magic/eldraine-or-shine-2019-09-09"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Matt Stewart. The card is a 3B 4/2 Human Noble common whose enter-the-battlefield ability lets you optionally deal 2 damage to one of your own creatures to draw a card — a self-cruelty mechanic that maps directly onto the stepmother-abusing-servant flavor. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Some are born to greatness. You were born to scrub greatness's floors.\" The speaker is unattributed on the card; per the Wizards preview the line is read as the stepmother addressing the Cinderella-archetype servant. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Reprinted once in Jumpstart 2022 (#489); original printing is Throne of Eldraine #109 (2019-10-04). EDHREC rank ~27,298 with roughly 310 decks and a 0.01% inclusion rate — a deeply niche common. [Scryfall][EDHREC]",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Pauper Cube's Throne of Eldraine review notes Wicked Guardian 'either turns your small dorky creatures into card draw or pings something large enough to survive and cantrips,' and calls out that unlike Slum Reaper its damage-trigger is a 'may' — so it doesn't blow you out on an empty board. [The Pauper Cube: 'The Throne of Eldraine Pauper Cube Update,' 2019-10-08]",
+      "sources": ["thepaupercube.com"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Crystal Slipper", "set": "Throne of Eldraine", "note": "Same Cinderella-cycle, named alongside Wicked Guardian in the Mark Rosewater preview article."},
+    {"name": "Faerie Guidemother", "set": "Throne of Eldraine", "note": "Same Cinderella-cycle (fairy godmother archetype) per the Wizards preview's fairy-tale grouping."},
+    {"name": "Malevolent Noble", "set": "Innistrad: Crimson Vow", "note": "EDHREC lists as Wicked Guardian's top synergy partner at ~21% inclusion in decks running Wicked Guardian — same self-damage-for-value pattern."},
+    {"name": "Defiant Salvager", "set": "Innistrad: Crimson Vow", "note": "EDHREC high-synergy partner (~11%); pays off self-damage / sacrifice loops that Wicked Guardian feeds."},
+    {"name": "Slum Reaper", "set": "Innistrad", "note": "Explicitly contrasted in the Pauper Cube review: same 4-mana ETB damage shape but mandatory rather than 'may,' which is the comparison point reviewers used to grade Wicked Guardian."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

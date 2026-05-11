@@ -1,0 +1,52 @@
+{
+  "card_name": "Lunarch Mantle",
+  "game": "Magic: The Gathering",
+  "set": "Mystery Booster Cards",
+  "collector_number": "24",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag on this card. Depicted figure is unnamed armored cathar/inquisitor; not conflated with the flavor-text speaker Manfried Ulmach (named NPC, but only the speaker, never depicted on a card per available sources).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "First printed in Eldritch Moon (EMN #35, 2016-07-22), not Shadows over Innistrad. Scryfall lists EMN as the original (reprint:false), with later reprints in Masters 25 (A25 #24, 2018) and on The List slot A25-24 (2019) — the printing this copy is from, despite being sleeved as Mystery Booster.",
+      "sources": ["Scryfall", "Scryfall prints search"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text reads verbatim: \"A boon from the angels should never be cast aside.\" — Manfried Ulmach, Chief Inquisitor. Note: the card MD's Vision section transcribes the speaker as 'Ulnach' — the canonical Scryfall spelling is 'Ulmach' (worth correcting upstream).",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Speaker Manfried Ulmach is a named Innistrad NPC — Chief Inquisitor of the Lunarch Inquisition (the church's enforcement arm headquartered in Nephalia). MTG Wiki and community lore archives describe him as notably cruel; Thalia is reported to have objected to his conduct at Elgaud. He appears only in flavor text, not as a depicted card subject. The unnamed figure shown on this card is NOT Ulmach — Ulmach is the quoted speaker commenting on the mantle, not its wearer.",
+      "sources": ["MTG Wiki: Manfried Ulmach (via search snippet)", "MTG Wiki: List of secondary characters/Innistrad"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Anastasia Ovchinnikova; the same illustration has been used across every printing (EMN, A25, PLST, SIR digital, Innistrad Remastered INR #31 and the borderless retro-frame INR #344, released 2025-01-24).",
+      "sources": ["Scryfall", "Scryfall prints search"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Niche but not dead — EDHREC rank ~17,824; appears in roughly 0.06% of decks tracked. Top Commander homes are Aura/Voltron shells: Light-Paws, Emperor's Voice (1.7% inclusion), Mazzy, Truesword Paladin (4.6%), and Eriette of the Charmed Apple. Pauper-legal, which is where the card sees most competitive consideration as a cheap +2/+2 evasion-enabler.",
+      "sources": ["EDHREC: Lunarch Mantle", "Scryfall (legalities)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Light-Paws, Emperor's Voice", "set": "Kamigawa: Neon Dynasty", "note": "EDHREC's #1 commander home for Lunarch Mantle; tutors auras directly onto itself for Voltron buildup."},
+    {"name": "All That Glitters", "set": "Throne of Eldraine / various", "note": "31% co-inclusion with Lunarch Mantle on EDHREC — same aura-Voltron archetype."},
+    {"name": "Ethereal Armor", "set": "Return to Ravnica / various", "note": "31% co-inclusion; the canonical pauper-and-EDH cheap white aura paired with Lunarch Mantle in enchantress shells."},
+    {"name": "Kor Spiritdancer", "set": "Modern Masters / various", "note": "Aura-payoff creature surfaced by EDHREC as a supporting card for the Lunarch Mantle archetype."},
+    {"name": "Sram, Senior Edificer", "set": "Aether Revolt", "note": "Card-draw engine on each aura cast; routinely paired with Lunarch Mantle in mono-white aura builds."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "notes_for_curator": [
+    "Caller hint that the card is reprinted from Shadows over Innistrad (SOI #36) does not match Scryfall — the original print is Eldritch Moon (EMN #35), and the actual Scryfall set for this printing is 'The List' (PLST, collector A25-24), not Mystery Booster Cards. The CSV/frontmatter mapping to Mystery Booster may be incorrect; flagging upstream.",
+    "Flavor-text speaker spelling in MD body is 'Ulnach'; canonical Scryfall flavor text is 'Ulmach'. Not in triviabot's frontmatter-edit scope to fix the body Vision text; surfacing for the curator."
+  ]
+}

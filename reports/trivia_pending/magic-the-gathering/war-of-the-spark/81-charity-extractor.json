@@ -1,0 +1,48 @@
+{
+  "card_name": "Charity Extractor",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "81",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag from vision pass. The depicted figures are generic armored Orzhov knights; the Hipsters of the Coast preview confirms the art brief was for an unnamed 'Orzhov knight' tasked with collecting debts. No named character identification in any source consulted.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Charity Extractor is a War of the Spark common (set released 2019-05-03), the third Ravnica-focused set in the block and the climax of the Nicol Bolas storyline; its flavor sits with the Orzhov Syndicate, the guild known on Ravnica for tithe and debt collection. [Scryfall] [MTG Wiki: War of the Spark]",
+      "sources": ["Scryfall", "MTG Wiki: War of the Spark"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Matt Stewart, oil on Ampersand gessoboard at 16\" x 20\". Stewart's preview commentary notes the art brief specified a generic 'Orzhov knight' demanding payment from debtors; Stewart added the keys around the knight's neck and the lockbox at the figure's side as his own choices to underline the templar's seriousness about collection. [Hipsters of the Coast: 'Behind the Front Lines' preview, 2019-04]",
+      "sources": ["Hipsters of the Coast: 'Behind the Front Lines' preview (2019-04)", "Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Card flavor text reads verbatim: \"War or no war, your donations are due, as always.\" — no in-universe speaker is attributed on the printed card; the line is a guild-voice quip framing Orzhov tithe-collection as indifferent to the planeswalker war raging on Ravnica. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "{3}{B} 1/5 Human Knight with lifelink, common — a defensive grinder rather than an aggressive body. EDHREC tracks it in roughly 0.01% of decks (~585 of ~4.47M); its most common Commander shells lean on its high-toughness statline (Doran, Besieged by Time; Doran, the Siege Tower) or knight-tribal (Syr Gwyn, Hero of Ashvale). It sees no Standard play and was never reprinted. [EDHREC: Charity Extractor] [Scryfall]",
+      "sources": ["EDHREC: Charity Extractor", "Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Functionally and flavor-wise it sits next to other Orzhov 'collector' cards in WAR — most directly Tithebearer Giant (WAR #107), another debt-collection creature in the same set — supporting the read that WAR's Orzhov slot is doing a deliberate 'the church still bills you mid-apocalypse' beat rather than centering any specific named NPC. [Hipsters of the Coast: 'Behind the Front Lines' preview, 2019-04] [Scryfall set page: War of the Spark]",
+      "sources": ["Hipsters of the Coast: 'Behind the Front Lines' preview (2019-04)", "Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tithebearer Giant", "set": "War of the Spark", "note": "Sibling Orzhov-flavored debt-collection creature in the same set (WAR #107); explicitly grouped with Charity Extractor in the Hipsters preview as part of WAR's Orzhov 'collections' slot."},
+    {"name": "Tithe Drinker", "set": "Gatecrash", "note": "Earlier Orzhov common ({W}{B}, lifelink + extort) embodying the same guild trope of vampires/knights as tithe collectors; common touchstone for the Orzhov-tithe flavor archetype."},
+    {"name": "Syr Gwyn, Hero of Ashvale", "set": "Throne of Eldraine", "note": "One of the more common Commander shells that runs Charity Extractor on EDHREC; knight-tribal payoff that brings the card into a deck for its creature type rather than its lifelink."},
+    {"name": "Doran, the Siege Tower", "set": "Lorwyn / reprints", "note": "EDHREC-cited commander shell where Charity Extractor's 1/5 statline (toughness > power) becomes an actual offensive threat under Doran's static ability."},
+    {"name": "Kaya, Orzhov Usurper", "set": "Ravnica Allegiance", "note": "The Orzhov guildmaster during the War of the Spark arc; relevant lore context for any card carrying Orzhov tithe-collection flavor in this set, per MTG Wiki: War of the Spark."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

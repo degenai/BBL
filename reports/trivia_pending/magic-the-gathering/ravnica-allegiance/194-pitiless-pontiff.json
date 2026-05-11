@@ -1,0 +1,48 @@
+{
+  "card_name": "Pitiless Pontiff",
+  "game": "Magic: The Gathering",
+  "set": "Ravnica Allegiance",
+  "collector_number": "194",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag on this card; IP verification not in scope for this invocation. The depicted vampire cleric is anonymous — no Scryfall, Gatherer, or Wizards source identifies the figure as any named Orzhov character (Teysa Karlov, Obzedat, Kaya, etc).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ravnica Allegiance released 2019-01-25 as the second set of the Guilds-of-Ravnica block; it features the remaining five guilds (Azorius, Rakdos, Gruul, Simic, Orzhov), with the Orzhov Syndicate occupying the white-black slot. Community-summarized set framing describes the Orzhov plan as 'grinding out incremental advantage' via the Afterlife mechanic, where dying creatures leave behind 1/1 flying Spirit tokens. Pitiless Pontiff is an Orzhov-watermarked uncommon in that set [WebSearch summary: Ravnica Allegiance Wikipedia / MTG Wiki].",
+      "sources": ["en.wikipedia.org/wiki/Ravnica_Allegiance (via WebSearch summary)", "mtg.fandom.com/wiki/Ravnica_Allegiance (via WebSearch summary)"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Yongjae Choi. The card is {W}{B} Creature - Vampire Cleric, 2/2, uncommon, with the activated ability '{1}, Sacrifice another creature: This creature gains deathtouch and indestructible until end of turn.' Scryfall lists collector number 194 in Ravnica Allegiance (set code RNA) [Scryfall card page rna/194 via WebSearch] [ArtStation: Yongjae Choi 'Pitiless Pontiff / Magic the Gathering'].",
+      "sources": ["scryfall.com/card/rna/194/pitiless-pontiff (via WebSearch result snippet)", "artstation.com/artwork/ybAbY3"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Printed flavor text: \"Pay in gold. Pay in blood. Pay with the servitude of your spirit kin. But pay you must.\" The line is presented unattributed on the card, and the 'spirit kin' phrasing maps directly onto the set's Orzhov Afterlife mechanic — opponents who lose creatures still owe the Syndicate the resulting Spirit tokens [WebSearch result: gatherer.wizards.com RNA/194].",
+      "sources": ["gatherer.wizards.com/RNA/en-us/194/pitiless-pontiff (via WebSearch result snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC reports a 0.13% inclusion rate across ~2.01M tracked decks (~2,560 lists). Top commander homes are Edgar Markov (vampire tribal), Teysa Karlov (Orzhov aristocrats), Clavileño First of the Blessed, Orah Skyclave Hierophant (cleric tribal), and Elenda the Dusk Rose. Highest-lift synergy partners are Imperious Oligarch (67.2 lift), Final Payment (48.0), Cleric of Life's Bond (36.8), Bishop of Rebirth (34.2), and Orzhov Enforcer (32.4) [EDHREC: Pitiless Pontiff].",
+      "sources": ["edhrec.com/cards/pitiless-pontiff"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Community-discussed combo angle: Pitiless Pontiff functions as a free repeatable sacrifice outlet (the activation cost is just {1}, not the sac), which makes it a build-around for aristocrats loops involving Oathsworn Vampire, Pitiless Plunderer, and recursive bodies; TappedOut surfaces a documented Gutterbones + Pitiless Pontiff micro-combo. Treat as enthusiast-deckbuilder discourse, not tournament consensus [tappedout: 'MTG Combo: Gutterbones + Pitiless Pontiff'] [WebSearch result snippet].",
+      "sources": ["tappedout.net/mtg-combos/gutterbones+pitiless-pontiff/"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Imperious Oligarch", "set": "Ravnica Allegiance", "note": "Same-set Orzhov-watermarked WB Human Cleric (#184). EDHREC's #1 high-lift synergy partner for Pitiless Pontiff (67.2 lift, 17% co-inclusion) and a designated companion in the Ravnica Allegiance Orzhov Guild Kit deck list."},
+    {"name": "Teysa Karlov", "set": "Ravnica Allegiance", "note": "Same-set Orzhov legendary commander (death-trigger doubler). The #2 commander home for Pitiless Pontiff per EDHREC (2.0% inclusion, 396 decks) — the Pontiff's free sac outlet feeds Teysa's death-trigger payoff plan."},
+    {"name": "Edgar Markov", "set": "Commander 2017", "note": "EDHREC's most populous commander for Pitiless Pontiff (522 decks). Vampire-tribal eminence pile that values cheap WB vampires with utility abilities."},
+    {"name": "Final Payment", "set": "Ravnica Allegiance", "note": "Same-set Orzhov instant that requires sacrificing a creature; EDHREC lists it as a 48.0-lift synergy partner (12% co-inclusion). Same 'pay in lives' design idiom as the Pontiff's flavor text."},
+    {"name": "Cruel Celebrant", "set": "War of the Spark", "note": "Orzhov 'whenever a creature you control dies' drain effect; pairs naturally with the Pontiff's repeated sacrifice activation. Surfaced as a commonly-discussed pairing in TappedOut combo and EDH discourse."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

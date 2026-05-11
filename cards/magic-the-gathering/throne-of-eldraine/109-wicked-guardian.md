@@ -47,3 +47,18 @@ A stately noblewoman sits upright on a high-backed throne atop a stepped dais, d
 **Iconography:** throne, crown-of-status, hooded-figure
 **Genre cues:** fantasy, fairy-tale, gothic
 
+## Trivia
+
+- **Set context** — Mark Rosewater's official Throne of Eldraine preview, "Eldraine or Shine" (2019-09-09), places Wicked Guardian explicitly inside the set's Cinderella cycle, illustrating the moment when the protagonist's "wicked stepmother begins treating her less like a stepdaughter and more like a servant." The card depicts the archetype, not a specifically-named Disney character. `[Wizards: Making Magic, "Eldraine or Shine"]`
+- **Design** — Art by Matt Stewart. Mechanically a 3B 4/2 Human Noble common whose enter-the-battlefield ability lets you optionally deal 2 damage to one of your *own* creatures to draw a card — a self-cruelty trigger that maps onto the stepmother-abusing-servant flavor of the cycle. `[Scryfall]`
+- **Flavor text** — `"Some are born to greatness. You were born to scrub greatness's floors."` — unattributed on the card; per the Wizards preview the line reads as the stepmother addressing the Cinderella-archetype servant. `[Scryfall]`
+- **Mechanical reputation** — Reprinted once in Jumpstart 2022 (#489); original printing remains ELD #109 (2019-10-04). Deeply niche in Commander: EDHREC rank ~27,298, ~310 decks, 0.01% inclusion rate. `[Scryfall][EDHREC]`
+- **Community resonance** — Pauper-cube review consensus is that the card is a reasonable role-player because its damage trigger is a `may`: "either turns your small dorky creatures into card draw or pings something large enough to survive and cantrips," and unlike Slum Reaper it won't blow you out on an empty board (sentiment, from a cube-design context, not a competitive-format claim). `[The Pauper Cube: "The Throne of Eldraine Pauper Cube Update," 2019-10-08]`
+
+### Related cards
+- Crystal Slipper (Throne of Eldraine, #117) — same Cinderella cycle, named alongside Wicked Guardian in the Rosewater preview article.
+- Faerie Guidemother (Throne of Eldraine, #14) — same Cinderella cycle (fairy-godmother archetype) per the Wizards preview's fairy-tale grouping.
+- Malevolent Noble (Innistrad: Crimson Vow, #112) — EDHREC's top synergy partner (~21% co-inclusion); same self-damage-for-value pattern.
+- Defiant Salvager (Innistrad: Crimson Vow, #207) — EDHREC high-synergy partner (~11%); pays off the self-damage / sac loops Wicked Guardian feeds.
+- Slum Reaper (Innistrad, #119) — explicit comparison point in the Pauper Cube review: same 4-mana ETB-damage shape, but mandatory rather than `may`.
+

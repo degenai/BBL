@@ -1,0 +1,48 @@
+{
+  "card_name": "Reverent Hoplite",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "33",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip on frontmatter; vision pass did not flag external IP. The depicted figures are generic Theros hoplites and an unnamed robed standard-bearer; no Scryfall, oracle text, flavor text, or Wizards article ties the art to a named lore character, so they remain anonymous.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Theros Beyond Death (THB) was the 83rd MTG expansion, released 2020-01-24, returning to the plane of Theros for the storyline of Elspeth's escape from Erebos's Underworld; the set's keyword lineup brought back Devotion alongside the new Escape mechanic. [mtg.wiki: Theros Beyond Death]",
+      "sources": ["mtg.wiki: Theros Beyond Death", "Wizards: Theros Beyond Death Story Summary (2020-01-10)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The ETB ability is a near-verbatim reprise of Evangel of Heliod (Theros, 2013, #11, uncommon), which also creates 1/1 white Soldier tokens equal to devotion to white; Reverent Hoplite re-uses the same template at THB's Devotion revival, trading Evangel's Cleric subtype for Soldier and shaving one white pip off the cost ({4}{W} vs {4}{W}{W}). [Scryfall: Evangel of Heliod oracle text]",
+      "sources": ["Scryfall: Reverent Hoplite", "Scryfall: Evangel of Heliod"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Printed flavor text: \"Zeal is the sharpest blade, and piety the strongest shield.\" Scryfall returns no speaker attribution, so the line stands as anonymous Theros maxim rather than a named-character quote. [Scryfall]",
+      "sources": ["Scryfall: Reverent Hoplite"]
+    },
+    {
+      "category": "design",
+      "text": "Art is by Sidharth Chaturvedi, a Wizards illustrator since 2013 who has contributed to multiple Theros-themed Secret Lairs including the Theros Stargazing series. [artofmtg.com: Sidharth Chaturvedi artist page; Secret Lair: Artist Series: Sidharth Chaturvedi]",
+      "sources": ["artofmtg.com: Sidharth Chaturvedi", "Secret Lair: Artist Series: Sidharth Chaturvedi"]
+    },
+    {
+      "category": "sentiment",
+      "text": "EDHREC inclusion data: appears in ~0.63% of EDH decks tracked (25.9K of 4.08M), most often in mono-white token / soldier-tribal builds led by Myrel, Shield of Argive, Elesh Norn, Mother of Machines, Delney, Streetwise Lookout, Phelia, Exuberant Shepherd, and Greymond, Avacyn's Stalwart. Inclusion stat, not a strength claim. [EDHREC]",
+      "sources": ["EDHREC: Reverent Hoplite"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Evangel of Heliod", "set": "Theros (2013) #11", "note": "Mechanical predecessor — identical devotion-to-white token ETB template; Reverent Hoplite is the THB-era callback."},
+    {"name": "Heliod, Sun-Crowned", "set": "Theros Beyond Death #18", "note": "Same-set white god; Reverent Hoplite's flavor of zeal + piety reads as a devotee of Heliod's sun-cult, and both are pillars of THB white-devotion strategies."},
+    {"name": "Myrel, Shield of Argive", "set": "The Brothers' War #18", "note": "Top EDHREC commander pairing — mono-white soldier-tribal payoff that values Reverent Hoplite's wide token swarm."},
+    {"name": "Elesh Norn, Mother of Machines", "set": "Phyrexia: All Will Be One", "note": "Second-most-cited EDHREC commander home; her ETB-doubling effect doubles Reverent Hoplite's devotion-driven token output."},
+    {"name": "Delney, Streetwise Lookout", "set": "Murders at Karlov Manor", "note": "Third-cited EDHREC commander; Delney doubles ETB triggers on small creatures, which can double the soldier-token payload."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

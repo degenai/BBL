@@ -1,0 +1,48 @@
+{
+  "card_name": "Lawmage's Binding",
+  "game": "Magic: The Gathering",
+  "set": "Ravnica Allegiance",
+  "collector_number": "190",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag from vision pass; no IP verification required. Depicted figures are unnamed Azorius lawmages and an unnamed horned captive; no source identifies any of them as named lore characters and triviabot does not promote role overlap to identity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Lawmages on Ravnica belong to the Azorius Senate's Lyev Column and 'create spells that compel or restrain beings,' serving a constabulary/enforcement function in outlying districts [MTG Wiki: Azorius Senate].",
+      "sources": ["MTG Wiki: Azorius Senate"]
+    },
+    {
+      "category": "design",
+      "text": "Designed as the Azorius entry in Ravnica Allegiance's guild-common removal cycle; Hipsters of the Coast's set-design review notes it is the first instant-speed Pacifism variant ever printed and flags it as a possible footgun at common since 'such a card won't remove a creature from combat even though it looks like it would,' while still calling it 'just amazing' [Hipsters of the Coast: 'The Designs of Ravnica Allegiance', Jan 2019].",
+      "sources": ["Hipsters of the Coast: The Designs of Ravnica Allegiance (2019-01)"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Mark Behm, who has art credits on roughly 60 Magic cards across multiple sets [Scryfall artist search: Mark Behm]. Reprinted in Jumpstart (JMP #453, 2020) and circulated through 'The List' Set Boosters [Scryfall; Nerd Rage Gaming inventory listing].",
+      "sources": ["Scryfall artist search: Mark Behm", "Scryfall: JMP #453", "Nerd Rage Gaming: The List Reprints listing"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The Ravnica Allegiance printing has no flavor text — the textbox is pure rules text (Flash; Enchant creature; enchanted creature can't attack or block, and its activated abilities can't be activated) [MythicSpoiler: rna/lawmagesbinding].",
+      "sources": ["MythicSpoiler: rna/lawmagesbinding"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Niche in Commander: appears in roughly 3.85K decks at a 0.19% inclusion rate, leaning into enchantress / pillowfort shells under commanders like Zur the Enchanter, Tuvasa the Sunlit, and Grand Arbiter Augustin IV; top listed synergy partners are Prison Realm, Martial Law, Archon of the Triumvirate, and Arrest [EDHREC: Lawmage's Binding].",
+      "sources": ["EDHREC: Lawmage's Binding"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Stasis Snare", "set": "Battle for Zendikar", "note": "The card Hipsters of the Coast says they expected Lawmage's Binding to functionally be — instant-speed exile in Azorius colors, the design comparison point the article calls out explicitly."},
+    {"name": "Pacifism", "set": "Alpha (and many reprints)", "note": "The original mono-white aura template Lawmage's Binding is a flash, Azorius-color variant of; named directly in the Hipsters design article."},
+    {"name": "Arrest", "set": "Multiple", "note": "Listed by EDHREC as a top synergy partner / functional cousin (aura that also shuts off activated abilities); both share the 'shut the creature off entirely' design space."},
+    {"name": "Prison Realm", "set": "Throne of Eldraine", "note": "EDHREC's highest-lift synergy partner — enchantment-based creature lockdown, same archetype slot."},
+    {"name": "Archon of the Triumvirate", "set": "Return to Ravnica", "note": "EDHREC top synergy; another Azorius restrain-the-creature effect from the original Ravnica block, thematic sibling for the lawmage/detain flavor."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

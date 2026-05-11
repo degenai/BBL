@@ -47,3 +47,18 @@ Two armored figures stand in the foreground of the card art. The forward figure 
 **Iconography:** heraldry, winged-helm
 **Genre cues:** fantasy, medieval
 
+## Trivia
+
+- **Set context** — War of the Spark (released 2019-05-03) is the climax of the Nicol Bolas arc on Ravnica; Charity Extractor sits in the set's Orzhov-flavored debt-collection slot, the guild long associated on Ravnica with tithes and debt-as-power `[Scryfall]` `[MTG Wiki: War of the Spark]`.
+- **Design** — Art by Matt Stewart, oil on Ampersand gessoboard, 16" x 20". The art brief specified a generic "Orzhov knight" demanding payment from debtors; Stewart's own additions were the keys around the knight's neck and the lockbox at the figure's side, intended to underline how seriously the templar takes collection `[Hipsters of the Coast: "Behind the Front Lines" preview, 2019-04]`.
+- **Flavor text** — `"War or no war, your donations are due, as always."` — no in-universe speaker attributed on the printed card `[Scryfall]`.
+- **Mechanical reputation** — {3}{B} 1/5 Human Knight with lifelink, common; defensive statline, not aggressive. EDHREC tracks it in roughly 0.01% of decks (~585 of ~4.47M), most often slotted into toughness-matters shells (Doran, the Siege Tower; Doran, Besieged by Time) or knight-tribal (Syr Gwyn, Hero of Ashvale). Never reprinted. `[EDHREC: Charity Extractor]` `[Scryfall]`
+- **Cycle context** — Functionally adjacent to Tithebearer Giant (WAR #107), another Orzhov debt-collection creature in the same set; the Hipsters of the Coast preview groups them as part of WAR's "the church still bills you mid-apocalypse" Orzhov slot, supporting the read that the depicted figures are generic guild operatives rather than any named NPC `[Hipsters of the Coast: "Behind the Front Lines" preview, 2019-04]`.
+
+### Related cards
+- Tithebearer Giant (War of the Spark, #107) — sibling Orzhov debt-collection creature in the same set; explicitly grouped with Charity Extractor in the WAR preview coverage
+- Tithe Drinker (Gatecrash) — earlier Orzhov common (lifelink + extort) embodying the same tithe-collector flavor archetype on Ravnica
+- Syr Gwyn, Hero of Ashvale (Throne of Eldraine) — knight-tribal Commander shell that includes Charity Extractor on EDHREC for its creature type
+- Doran, the Siege Tower (Lorwyn / reprints) — EDHREC-cited shell where the 1/5 statline (toughness > power) becomes an offensive threat
+- Kaya, Orzhov Usurper (Ravnica Allegiance) — Orzhov guildmaster during the War of the Spark arc; lore frame for the guild's continued tithe operations during the invasion
+

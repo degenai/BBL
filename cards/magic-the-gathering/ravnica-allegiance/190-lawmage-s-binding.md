@@ -48,3 +48,18 @@ A red-skinned, sharply-horned creature is suspended in the center of the frame, 
 **Iconography:** azorius-emblem, binding-runes
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set context** — Lawmages on Ravnica belong to the Azorius Senate's Lyev Column and "create spells that compel or restrain beings," serving a constabulary / arrest function in outlying districts `[MTG Wiki: Azorius Senate]`.
+- **Design** — Designed as the Azorius entry in Ravnica Allegiance's guild-common removal cycle. Hipsters of the Coast's set-design review notes it is the first instant-speed Pacifism variant ever printed and flags it as a possible footgun at common, since "such a card won't remove a creature from combat even though it looks like it would" — while still calling it "just amazing" `[Hipsters of the Coast: "The Designs of Ravnica Allegiance" (2019-01)]`.
+- **Design** — Illustrated by Mark Behm (roughly 60 MTG art credits across multiple sets) `[Scryfall artist search: Mark Behm]`. Reprinted in Jumpstart as JMP #453 and circulated through "The List" Set Booster reprints `[Scryfall: JMP #453; Nerd Rage Gaming: The List Reprints listing]`.
+- **Flavor text** — No flavor text on the Ravnica Allegiance printing; the textbox is pure rules (Flash; Enchant creature; enchanted creature can't attack or block, and its activated abilities can't be activated) `[MythicSpoiler: rna/lawmagesbinding]`.
+- **Mechanical reputation** — Niche in Commander: appears in roughly 3.85K decks at a 0.19% inclusion rate, leaning into enchantress / pillowfort shells under commanders like Zur the Enchanter, Tuvasa the Sunlit, and Grand Arbiter Augustin IV; top listed synergy partners are Prison Realm, Martial Law, Archon of the Triumvirate, and Arrest `[EDHREC: Lawmage's Binding]`.
+
+### Related cards
+- Stasis Snare (Battle for Zendikar) — the card the Hipsters design article explicitly says they expected Lawmage's Binding to functionally be (instant-speed exile in Azorius colors); the design comparison point
+- Pacifism (Alpha / many reprints) — the original mono-white aura template Lawmage's Binding is a flash, Azorius-color variant of; named directly in the design article
+- Arrest (multiple sets) — EDHREC top synergy; aura that also shuts off activated abilities, same "switch the creature off entirely" design space
+- Prison Realm (Throne of Eldraine) — EDHREC's highest-lift synergy partner; enchantment-based creature lockdown in the same archetype slot
+- Archon of the Triumvirate (Return to Ravnica) — EDHREC top synergy; another Azorius restrain-the-creature effect from the original Ravnica block, thematic sibling for the lawmage/detain flavor
+

@@ -47,3 +47,18 @@ A foreground figure in flowing red and blue robes stands atop a grassy rise, rai
 **Iconography:** banner, shrine, raised-arm, procession
 **Genre cues:** fantasy, greek-myth, classical
 
+## Trivia
+
+- **Set context** — Theros Beyond Death (THB) was the 83rd MTG expansion, released 2020-01-24, returning to the plane of Theros for Elspeth's escape from Erebos's Underworld; the set's keyword lineup brought back **Devotion** alongside the new **Escape** mechanic `[mtg.wiki: Theros Beyond Death]` `[Wizards: Theros Beyond Death Story Summary, 2020-01-10]`.
+- **Mechanical precedent** — The ETB ability is a near-verbatim reprise of **Evangel of Heliod** (original Theros, 2013, #11, uncommon), which also creates 1/1 white Soldier tokens equal to devotion to white. Reverent Hoplite re-uses that template for THB's Devotion revival, swapping Evangel's Cleric subtype for Soldier and trimming one white pip off the cost ({4}{W} vs {4}{W}{W}) `[Scryfall: Reverent Hoplite]` `[Scryfall: Evangel of Heliod]`.
+- **Flavor text** — `"Zeal is the sharpest blade, and piety the strongest shield."` — Scryfall returns no speaker attribution, so the line stands as an anonymous Theros maxim rather than a named-character quote `[Scryfall]`.
+- **Design** — Art is by **Sidharth Chaturvedi**, a Wizards illustrator since 2013 with extensive Theros work including multiple Theros Stargazing Secret Lairs `[artofmtg.com: Sidharth Chaturvedi]` `[Secret Lair: Artist Series: Sidharth Chaturvedi]`.
+- **Community resonance (inclusion data, not strength claim)** — Appears in ~0.63% of EDH decks tracked on EDHREC (25.9K of 4.08M); most-cited commander homes are Myrel, Shield of Argive; Elesh Norn, Mother of Machines; Delney, Streetwise Lookout; Phelia, Exuberant Shepherd; and Greymond, Avacyn's Stalwart `[EDHREC: Reverent Hoplite]`.
+
+### Related cards
+- Evangel of Heliod (Theros, #11) — mechanical predecessor; identical devotion-to-white token ETB, Reverent Hoplite is the THB-era callback.
+- Heliod, Sun-Crowned (Theros Beyond Death, #18) — same-set white god whose sun-cult the hoplites' zeal-and-piety flavor reads as devotion to; both anchor THB white-devotion strategies.
+- Myrel, Shield of Argive (The Brothers' War, #18) — top EDHREC commander pairing; mono-white soldier-tribal payoff that values the wide token swarm.
+- Elesh Norn, Mother of Machines (Phyrexia: All Will Be One) — second-most-cited EDHREC home; her ETB-doubling doubles the devotion-driven token output.
+- Delney, Streetwise Lookout (Murders at Karlov Manor) — third-cited EDHREC home; doubles ETB triggers on small creatures, multiplying the soldier payload.
+
