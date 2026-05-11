@@ -49,3 +49,19 @@ A pale vampire with dark, slicked hair sits behind a heavy banquet table clutter
 **Iconography:** chalice, candle-flame, gilded-finery
 **Genre cues:** fantasy, gothic, horror
 
+## Trivia
+
+- **Set context** — Dragon's Maze (released 2013-05-03) closed the Return to Ravnica block; the Orzhov Syndicate is the WB guild, framed in lore sources as the "Church of Deals" — an amalgam of religion, banking, and organized crime where citizens pay tithes to syndics. Tithe Drinker is a common Orzhov-watermark vampire from that block. `[mtg.wtf DGM/109]` `[MTG Wiki: Orzhov Syndicate, via WebSearch summary]`
+- **Design** — Art by Slawomir Maniak. {W}{B} 2/1 Creature — Vampire with Lifelink and Extort, common rarity, Orzhov watermark. `[mtg.wtf DGM/109]`
+- **Mechanical reputation (EDH)** — EDHREC tracks Tithe Drinker in ~19,000 of ~2.01M decks (0.95% inclusion). Top homes are vampire-tribal / Orzhov life-drain: Licia, Sanguine Tribune (36% inclusion), Astarion, the Decadent (30%), Sorin of House Markov (29%). High-synergy partners include Sanguine Bond (53%), Exquisite Blood (37%), and Cruel Celebrant (38%). `[EDHREC: Tithe Drinker]`
+- **Mechanical reputation (Pauper)** — Known as a Pauper staple in WB extort decks, run as a 4-of alongside other extort commons. Community discussion treats it as an upgrade over Syndic of Tithes thanks to lifelink — with the rules caveat that lifelink triggers on the creature's combat damage, not on the extort drain itself. `[MTGSalvation: "Tithe Drinker - New Card Discussion"]` `[tappedout: Orzhov Pauper Extort]` `[mtggoldfish: Pauper Orzhov Extortion]`
+- **Community resonance** — Sentiment on the Dragon's Maze rumor-mill thread skewed strongly positive for Limited, with commenters calling it "a sort-of second Syndic of Tithes for Orzhov in limited" and arguing it "has the potential to be better" than Syndic. Minority concern: 1 toughness makes it a poor blocker. (Sentiment, not consensus fact.) `[MTGSalvation: "Tithe Drinker - New Card Discussion"]`
+- **Flavor text** — No printed flavor text; the Dragon's Maze original prints rules text only (Lifelink, Extort). `[mtg.wtf DGM/109]`
+
+### Related cards
+- Syndic of Tithes (Gatecrash, #16) — the directly-compared WB extort predecessor; Tithe Drinker is widely framed as its lifelink-bearing successor.
+- Basilica Screecher (Gatecrash, #154) — another common Orzhov extort creature from the same Return to Ravnica block; co-staple of WB extort Pauper builds.
+- Cruel Celebrant (War of the Spark, #190) — top Orzhov-vampire EDHREC synergy partner; on-death drain stacks with Tithe Drinker's lifelink/extort plan.
+- Sanguine Bond (Magic 2010 and reprints) — EDHREC 53% inclusion synergy in the vampire-tribal shells that play Tithe Drinker.
+- Exquisite Blood (Avacyn Restored and reprints) — EDHREC 37% inclusion synergy; pairs with the card's lifelink and extort drain in EDH.
+

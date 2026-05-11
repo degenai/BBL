@@ -1,0 +1,53 @@
+{
+  "card_name": "Tithe Drinker",
+  "game": "Magic: The Gathering",
+  "set": "Dragon's Maze",
+  "collector_number": "109",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag on this card; IP verification not in scope for this invocation.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Dragon's Maze (released 2013-05-03) closed the Return to Ravnica block, a three-set arc built around the ten Ravnica guilds; the Orzhov Syndicate is the white-black guild, described by community lore sources as the 'Church of Deals' — an amalgam of religion, banking, and organized crime where citizens pay tithes to the syndics. Tithe Drinker is a common Orzhov-watermarked vampire in that block. [mtg.wtf DGM/109] [MTG Wiki via WebSearch: Orzhov Syndicate]",
+      "sources": ["mtg.wtf/card/dgm/109/Tithe-Drinker", "MTG Wiki (Orzhov Syndicate, via WebSearch summary)"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Slawomir Maniak. The card is a {W}{B} 2/1 Creature - Vampire with Lifelink and Extort, common rarity, Orzhov watermark, released 2013-05-03 in Dragon's Maze. [mtg.wtf DGM/109]",
+      "sources": ["mtg.wtf/card/dgm/109/Tithe-Drinker"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC tracks Tithe Drinker in roughly 19,000 of ~2.01M decks (0.95% inclusion). Its top homes are vampire-tribal and Orzhov life-drain commanders: Licia, Sanguine Tribune (36% inclusion), Astarion, the Decadent (30%), and Sorin of House Markov (29%). It pairs heavily with Sanguine Bond, Exquisite Blood, and Cruel Celebrant in those shells. [EDHREC: Tithe Drinker]",
+      "sources": ["edhrec.com/cards/tithe-drinker"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Format-wise, Tithe Drinker is best known as a Pauper staple in WB extort decks, where players run a full four copies alongside other extort commons; community discussion frames it as a strict upgrade over Syndic of Tithes because of the lifelink rider. (Note: lifelink does not trigger on the extort damage itself — only on combat damage from the creature. [MTGSalvation rumor-mill thread on Tithe Drinker]) [tappedout: Orzhov Pauper Extort] [mtggoldfish: Pauper Orzhov Extortion]",
+      "sources": ["mtgsalvation.com (DGM Tithe Drinker rumor-mill)", "tappedout.net/mtg-decks/orzhov-pauper-extort", "mtggoldfish.com/deck/461861"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on the original Dragon's Maze rumor-mill thread skewed strongly positive for Limited, with one commenter calling it 'a sort-of second Syndic of Tithes for Orzhov in limited' and others arguing it 'has the potential to be better' than Syndic thanks to lifelink; the minority concern was the 1 toughness making it a poor blocker. Treat as sentiment, not consensus fact. [MTGSalvation: 'Tithe Drinker - New Card Discussion']",
+      "sources": ["mtgsalvation.com (DGM Tithe Drinker rumor-mill)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Tithe Drinker has no printed flavor text on the Dragon's Maze original — the card prints rules text only (Lifelink, Extort). [mtg.wtf DGM/109]",
+      "sources": ["mtg.wtf/card/dgm/109/Tithe-Drinker"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Syndic of Tithes", "set": "Gatecrash", "note": "The directly-compared predecessor: same Orzhov WB extort archetype, a 1/3 human cleric. Tithe Drinker is widely framed in community discussion as the lifelink-bearing successor."},
+    {"name": "Basilica Screecher", "set": "Gatecrash", "note": "Another common Orzhov extort creature from the same Return to Ravnica block; a co-staple of WB extort Pauper builds."},
+    {"name": "Cruel Celebrant", "set": "War of the Spark", "note": "Top Orzhov-vampire EDHREC synergy partner — life-drain on creature death stacks with Tithe Drinker's lifelink/extort drain plan."},
+    {"name": "Sanguine Bond", "set": "Magic 2010 / reprints", "note": "Listed by EDHREC as a 53% inclusion synergy in the same vampire-tribal lists that play Tithe Drinker; turns each gained life into opponent loss."},
+    {"name": "Exquisite Blood", "set": "Avacyn Restored / reprints", "note": "EDHREC 37% inclusion synergy; pairs with Tithe Drinker's lifelink and extort drain in vampire-tribal EDH shells."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

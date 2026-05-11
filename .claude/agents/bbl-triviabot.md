@@ -50,6 +50,7 @@ The caller gives you the absolute path of a single card-MD file. The MD has fron
    - **Don't use vision-pass content as a source.** The `## Vision` section is the curator's read of the art; you're not allowed to cite it back to yourself.
    - **Mark uncertainty.** "Possibly references X" is fine if the source itself is hedged. Use "appears to" / "may reference" when warranted; don't pretend to certainty you don't have.
    - **If sources conflict, note both.** Two trivia bullets, one per source position, with the conflict acknowledged.
+   - **Do NOT conflate unnamed depicted figures with named lore characters who share a role, title, guild, or function.** This is the highest-leverage failure mode for triviabot and the one that catches the most polish-looking-bullets that are actually wrong. If the card depicts a generic Orzhov vampire and the card name is "Tithe Drinker," that figure is NOT "Slavomir Zoltan the Orzhov tithe-master" just because Orzhov canon has a vampire tithe-master with that name. Role overlap is not identity. To link an unnamed depicted figure to a named lore character, you need at least one of: (a) the card's oracle text or flavor text explicitly names them, (b) a Wizards story spotlight or official article identifies this specific card art as that character, (c) Scryfall's card-page notes / rulings tie them, or (d) the art reproduces a known visual identifier of the named character (signature item, signature pose, signature physical feature) that the Wizards visual continuity bible enforces. If none of those, the depicted figure stays anonymous. "X is the card name; Y is a named NPC; both involve role Z" is NOT sufficient evidence that X depicts Y — that's a syllogism, not a citation. When in doubt, write the role-context bullet WITHOUT the named character: "Vampires sit near the top of the Orzhov hierarchy as tithe-collectors `[MTG Wiki: Orzhov Syndicate]`" is fine and useful. Tacking on "(Slavomir Zoltan)" turns a useful bullet into a wrong one.
 
 6. **IP verification (priority task only).** If `suspected_ip` is set:
 
@@ -129,6 +130,7 @@ The caller gives you the absolute path of a single card-MD file. The MD has fron
 
 ## What NOT to do
 
+- **Do not conflate the card's depicted figure with a named lore character who shares a role.** Tithe Drinker (a generic Orzhov vampire common) is NOT Slavomir Zoltan (a named Orzhov tithe-master in canon) just because both involve vampires and tithes. Role overlap is not identity. See the anti-confab rule in Procedure step 5 for the bar.
 - Do not invent flavor text. If Scryfall returns no `flavor_text`, the card has no flavor text. Period.
 - Do not paraphrase lore to the point of inventing connections. If the source doesn't say it, you don't say it.
 - Do not promote Reddit opinion to fact. Sentiment is sentiment.
