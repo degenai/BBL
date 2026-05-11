@@ -157,9 +157,12 @@ project conventions; BBL stays Python-only. Eventual buyer-facing variant
 can fork off the dev one with the file-picker and JSON-debug surfaces
 stripped out.
 
-### Bundle JSON schema (v0.2)
+### Bundle JSON schema (v0.3)
 
-Locked in 2026-05-11. Adds the `pricing` block + per-card market price to v0.1.
+Locked in 2026-05-11. Adds the `checkout` block (Stripe Payment Link URL) to
+v0.2. Earlier history: v0.1 had narrative + cards; v0.2 added `pricing` block
++ per-card market price.
+
 When the `bbl-bundler` agent lands, this is its emit contract.
 
 ```json
@@ -210,6 +213,11 @@ When the `bbl-bundler` agent lands, this is its emit contract.
     "buyer_savings_vs_diy_pct": 19,
     "premium_justification": "The $1.25 above cost basis pays for the writing, the framing, the thesis. The buyer is not buying $3.15 of cards — they're buying a zine with cards stapled in."
   },
+  "checkout": {
+    "stripe_payment_url": "https://buy.stripe.com/...",
+    "stripe_price_id": "price_1ABC...",
+    "checkout_provider": "stripe-payment-link"
+  },
   "metadata": {
     "generated_by": "bbl-bundler-v0",
     "generated_at": "2026-05-11",
@@ -219,6 +227,8 @@ When the `bbl-bundler` agent lands, this is its emit contract.
   }
 }
 ```
+
+**The `checkout` block** holds the payment integration metadata. `stripe_payment_url` is the Stripe Payment Link buyers click to actually purchase. `stripe_price_id` is the corresponding Stripe Price record (optional, used if we later switch from Payment Links to programmatic Checkout Sessions). `checkout_provider` describes which integration is in use. Possible future values: `stripe-checkout-session` (when we wire the Cloudflare Worker), `stripe-payment-link` (current), `manual` (PayPal/Venmo direct for testing). The bundle previewer renders a Buy button when `stripe_payment_url` is set and non-placeholder; placeholder URLs render as a disabled button with a hint to fill it in.
 
 **Hard policy (alex 2026-05-11):** `bundle_list_price_usd >= 5.00` always, no
 upper bound. Shipping is buyer-paid and itemized separately, NEVER baked into
@@ -246,6 +256,39 @@ arbitrary JSONs from disk for one-off testing without committing them.
 - Tag-heatmap matrix (rows=cards, cols=intent_tags, fill=match) — would be a nice dev-mode addition to spot which intent tags are "carrying" the bundle vs which are dead weight. Add later if useful.
 - Animated reveal-on-scroll for long bundles. Current entrance animation is one-shot on load. Acceptable for 5-15 card bundles; revisit if bundles get larger.
 - Print/PDF export. The buyer-facing port would benefit from a "print this bundle" button that emits a clean zine-format PDF.
+
+---
+
+## Storefront: Stripe Checkout, not Shopify
+
+**Decision (Alex 2026-05-11):** when the BBL storefront launches, use Stripe Checkout embedded into the bundle previewer page on the commercial-brand domain (Diamond Legendz is shelved for commerce per the wiki). Do not use Shopify.
+
+**Why not Shopify:**
+- Built to sell many-of-the-same-with-variants. BBL sells one-of-a-kind per SKU. The platform's UX assumptions (low-stock badges, upsells, variant pickers) don't fit the product.
+- $29-79/mo subscription baseline plus per-transaction fees plus app subscriptions if you want anything custom. Eats margin hard on low-volume bundles.
+- Theme templating constrains the bundle page. The previewer already does the editorial work; Shopify would force a rebuild inside its box.
+- Brand-thesis problem: BBL's pitch is curation-as-rebellion against algorithmic mass-output. Renting from the landlord of ecommerce undercuts the position.
+
+**Why Stripe Checkout:**
+- The bundle previewer is the product page. Add a Buy button below the cohesion panel, Stripe hosts the actual checkout (PCI-compliant, fraud-protected).
+- Zero monthly fee. ~2.9% + $0.30 per transaction. Standard payment processing rate, no platform rent.
+- Webhook on successful payment fires an email to a fulfillment queue with the bundle slug.
+- Dev work is small: Stripe.js button, server endpoint for `create-checkout-session`, webhook handler. Less than a day of work.
+- Scales to hundreds of bundles before we'd outgrow it.
+- Brand-aligned: the buyer pays the curator directly, no platform obscuring the relationship.
+
+**Other options considered:**
+- BigCartel: cheaper Shopify-alike (~$10-20/mo) for indie sellers. Fits BBL better than Shopify but still imposes templating. Use as fallback if Stripe-from-scratch turns out to be too much dev work.
+- Etsy: cross-listing surface for audience reach (~6.5% fee). Audience overlap with TCG collectors is weaker than the craft-curated aesthetic suggests. Consider as secondary, not primary.
+- Whatnot / TCGplayer / eBay: don't fit. Whatnot is livestream-auction (wrong format), TCGplayer search is single-name-focused (no merchandising surface for bundles), eBay audience doesn't know what BBL is.
+- Reddit/Discord direct sales with manual PayPal/Venmo: viable for the first 5-10 bundles before infra cost is justified. Zero platform fee, high admin overhead.
+
+**Implementation plan (when the commercial brand lands):**
+1. New domain points at the bundle previewer (forked from the dev-mode DL version with picker/metadata stripped).
+2. Stripe account with the commercial brand, single-product checkout sessions per bundle.
+3. Cloudflare Worker (since DL/PE already use Cloudflare) hosts the `create-checkout-session` endpoint and the post-payment webhook.
+4. Webhook fires an email to a fulfillment inbox + writes the order to a small queue (D1 or just append-only file in repo).
+5. Bundle JSON gains a `stripe_price_id` field linking each bundle to its Stripe product/price record. Schema bump to v0.3 when this lands.
 
 ---
 
