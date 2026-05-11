@@ -65,3 +65,13 @@ A pale vampire with dark, slicked hair sits behind a heavy banquet table clutter
 - Sanguine Bond (Magic 2010 and reprints) — EDHREC 53% inclusion synergy in the vampire-tribal shells that play Tithe Drinker.
 - Exquisite Blood (Avacyn Restored and reprints) — EDHREC 37% inclusion synergy; pairs with the card's lifelink and extort drain in EDH.
 
+
+## Bundle Use
+
+### Tithe (2026-05-11)
+
+**Bundle thesis:** the men they send. Institutional authority depicted in card art. The apparatus of extraction. Different uniforms, different institutions, same job description.
+
+**Why it fits:** A seated woman with dark hair holds a golden goblet while a hunched stone figure behind her pours a dark stream from a pitcher. Two gargoyle-like attendants flank the throne, their stone bodies built into the architecture of the room. The cup is not empty: it receives, and the woman sits ready to receive again.
+
+**Bundle JSON:** `diamondlegendz/bundle-previewer/sample-bundles/tithe.json`

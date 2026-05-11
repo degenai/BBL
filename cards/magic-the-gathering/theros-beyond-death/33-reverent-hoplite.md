@@ -62,3 +62,13 @@ A foreground figure in flowing red and blue robes stands atop a grassy rise, rai
 - Elesh Norn, Mother of Machines (Phyrexia: All Will Be One) — second-most-cited EDHREC home; her ETB-doubling doubles the devotion-driven token output.
 - Delney, Streetwise Lookout (Murders at Karlov Manor) — third-cited EDHREC home; doubles ETB triggers on small creatures, multiplying the soldier payload.
 
+
+## Bundle Use
+
+### Tithe (2026-05-11)
+
+**Bundle thesis:** the men they send. Institutional authority depicted in card art. The apparatus of extraction. Different uniforms, different institutions, same job description.
+
+**Why it fits:** A soldier in blue and bronze stands on the wide marble stairs, sword raised to the bright light at the top of the hall and shield held firm at his side. Behind him, a row of similarly armed figures waits on the tiered steps. The formation does the work the individual could not. "Zeal is the sharpest blade, and piety the strongest shield."
+
+**Bundle JSON:** `diamondlegendz/bundle-previewer/sample-bundles/tithe.json`

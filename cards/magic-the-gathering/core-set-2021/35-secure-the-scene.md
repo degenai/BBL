@@ -62,3 +62,13 @@ A bearded, helmeted guard in heavy plate armor stands in a forward-facing pose, 
 - Path to Exile — EDHREC top co-played card (~22% co-inclusion); the genre-defining white "exile a creature, give them a downside" template Secure the Scene riffs on
 - Raise the Alarm — EDHREC co-play partner (~12%); pairs with Secure the Scene's token rider in go-wide soldier-token shells
 
+
+## Bundle Use
+
+### Tithe (2026-05-11)
+
+**Bundle thesis:** the men they send. Institutional authority depicted in card art. The apparatus of extraction. Different uniforms, different institutions, same job description.
+
+**Why it fits:** A soldier in grey-blue armor stands squarely, one hand gripping a long ceremonial staff while the other rests near a row of cylinders at his waist. Behind him, a web of luminous blue beams and chains stretches across the sky. The arrest isn't just the soldier; it's the mesh of light around him. "You know it's a great show when the Azorius arrest the props, too!" —Judith, the Scourge Diva
+
+**Bundle JSON:** `diamondlegendz/bundle-previewer/sample-bundles/tithe.json`

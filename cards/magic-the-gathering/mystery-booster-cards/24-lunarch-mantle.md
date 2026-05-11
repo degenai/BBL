@@ -62,3 +62,13 @@ A grim, dark-armored figure stands at center frame, gripping a long straight swo
 - Kor Spiritdancer (Modern Masters / various) — aura-payoff creature EDHREC surfaces as a supporting piece in the same archetype.
 - Sram, Senior Edificer (Aether Revolt) — card-draw engine on aura casts; routine partner in mono-white aura builds.
 
+
+## Bundle Use
+
+### Tithe (2026-05-11)
+
+**Bundle thesis:** the men they send. Institutional authority depicted in card art. The apparatus of extraction. Different uniforms, different institutions, same job description.
+
+**Why it fits:** A single armored figure stands in the dark, one hand gripping a long sword while the other holds a blood-stained white wing slung over a shoulder like a ceremonial stole. The plate and visored helmet are standard for a soldier of an office. The wing is what makes him an enforcer of one. "A boon from the angels should never be cast aside." —Manfried Ulmach, Chief Inquisitor
+
+**Bundle JSON:** `diamondlegendz/bundle-previewer/sample-bundles/tithe.json`

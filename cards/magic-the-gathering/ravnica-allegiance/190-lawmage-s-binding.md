@@ -63,3 +63,13 @@ A red-skinned, sharply-horned creature is suspended in the center of the frame, 
 - Prison Realm (Throne of Eldraine) — EDHREC's highest-lift synergy partner; enchantment-based creature lockdown in the same archetype slot
 - Archon of the Triumvirate (Return to Ravnica) — EDHREC top synergy; another Azorius restrain-the-creature effect from the original Ravnica block, thematic sibling for the lawmage/detain flavor
 
+
+## Bundle Use
+
+### Tithe (2026-05-11)
+
+**Bundle thesis:** the men they send. Institutional authority depicted in card art. The apparatus of extraction. Different uniforms, different institutions, same job description.
+
+**Why it fits:** Two large hands clad in blue and silver gauntlets reach from the edges of the frame, gripping a binding ring of blue energy that encircles the arms of a smaller, horned figure in red armor. The captive stands upright but immobile, held in place by the gauntleted hands rather than chains or bars. The authority is in the frame but only barely: just the two hands, doing the work.
+
+**Bundle JSON:** `diamondlegendz/bundle-previewer/sample-bundles/tithe.json`

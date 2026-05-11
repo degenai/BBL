@@ -62,3 +62,13 @@ Two armored figures stand in the foreground of the card art. The forward figure 
 - Doran, the Siege Tower (Lorwyn / reprints) — EDHREC-cited shell where the 1/5 statline (toughness > power) becomes an offensive threat
 - Kaya, Orzhov Usurper (Ravnica Allegiance) — Orzhov guildmaster during the War of the Spark arc; lore frame for the guild's continued tithe operations during the invasion
 
+
+## Bundle Use
+
+### Tithe (2026-05-11)
+
+**Bundle thesis:** the men they send. Institutional authority depicted in card art. The apparatus of extraction. Different uniforms, different institutions, same job description.
+
+**Why it fits:** A knight in riveted gold-green armor extends a sparse pan with several bundles of coins on it. A locked strongbox, gold and ornate, sits attached to the saddle in front of him. His helmet is faceless and winged with a single eye-slit; keys hang around his neck. The other hand rests on the stirrups. The strongbox is locked because the collection isn't finished. "War or no war, your donations are due, as always."
+
+**Bundle JSON:** `diamondlegendz/bundle-previewer/sample-bundles/tithe.json`

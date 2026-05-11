@@ -63,3 +63,13 @@ A robed vampire cleric stands in a dramatic, theatrical pose, raising a curved s
 - Final Payment (Ravnica Allegiance) — same-set Orzhov instant that costs a creature sacrifice; 48.0-lift EDHREC synergy and a near-perfect flavor sibling for the Pontiff's "pay you must" idiom
 - Cruel Celebrant (War of the Spark) — Orzhov "whenever a creature dies" drain commonly paired with the Pontiff in EDH and combo discussion
 
+
+## Bundle Use
+
+### Tithe (2026-05-11)
+
+**Bundle thesis:** the men they send. Institutional authority depicted in card art. The apparatus of extraction. Different uniforms, different institutions, same job description.
+
+**Why it fits:** A pale cleric in black and white sits with one leg crossed over the other, holding a dark goblet in one hand. The back of her other hand extends to a figure kneeling in supplication. The smaller figure bows low, offering empty palms and a bent neck. "Pay in gold. Pay in blood. Pay with the servitude of your spirit kin. But pay you must."
+
+**Bundle JSON:** `diamondlegendz/bundle-previewer/sample-bundles/tithe.json`
