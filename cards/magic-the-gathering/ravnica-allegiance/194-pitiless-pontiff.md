@@ -70,6 +70,6 @@ A robed vampire cleric stands in a dramatic, theatrical pose, raising a curved s
 
 **Bundle thesis:** the men they send. Institutional authority depicted in card art. The apparatus of extraction. Different uniforms, different institutions, same job description.
 
-**Why it fits:** A pale cleric in black and white sits with one leg crossed over the other, holding a dark goblet in one hand. The back of her other hand extends to a figure kneeling in supplication. The smaller figure bows low, offering empty palms and a bent neck. "Pay in gold. Pay in blood. Pay with the servitude of your spirit kin. But pay you must."
+**Why it fits:** A pale cleric in black and white sits cross-legged on a throne backed by a four-pronged golden sun with small circles around its perimeter and a dark center. To her left, a buzz-cut supplicant in navy robes kneels with a line of coins dangling from his shoulder; the back of her hand rests on his head, the two figures connected by her trailing lacey sleeve. To her right, another supplicant wears the same coin-line as a headband, leaning in between her chalice and her face as if consulting. "Pay in gold. Pay in blood. Pay with the servitude of your spirit kin. But pay you must."
 
 **Bundle JSON:** `diamondlegendz/bundle-previewer/sample-bundles/tithe.json`
