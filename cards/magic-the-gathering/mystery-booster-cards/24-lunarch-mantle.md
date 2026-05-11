@@ -70,6 +70,6 @@ A grim, dark-armored figure stands at center frame, gripping a long straight swo
 
 **Bundle thesis:** the men they send. Institutional authority depicted in card art. The apparatus of extraction. Different uniforms, different institutions, same job description.
 
-**Why it fits:** A single armored figure stands in the dark, one hand gripping a long sword while the other holds a blood-stained white wing slung over a shoulder like a ceremonial stole. The plate and visored helmet are standard for a soldier of an office. The wing is what makes him an enforcer of one. "A boon from the angels should never be cast aside." –Manfried Ulmach, Chief Inquisitor
+**Why it fits:** A single armored figure stands in the dark, raising a bloodied white wing high in his right hand. The long sword in his left is stowed point-down, the blade catching light from above; his visored helmet catches the same light. The wing is what makes him an enforcer of one. "A boon from the angels should never be cast aside." –Manfried Ulmach, Chief Inquisitor
 
 **Bundle JSON:** `diamondlegendz/bundle-previewer/sample-bundles/tithe.json`
