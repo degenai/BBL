@@ -2,7 +2,7 @@
 name: Smoldering Tar
 game: Magic: The Gathering
 set: Invasion
-collector_number: 
+collector_number: 275
 rarity: U
 variance: Normal
 grade: Ungraded
@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["witch", "ritual", "smoke", "severed-hand", "blood-red", "sinister-priestess", "occult"]
 tags_filter: ["solo", "mid-shot", "portrait-mode", "forward-facing", "enchantment", "black-red", "female-figure"]
-reference_image: cards/_images/magic-the-gathering/invasion/no-num-smoldering-tar.png
+reference_image: cards/_images/magic-the-gathering/invasion/275-smoldering-tar.png
 average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-10
@@ -30,7 +30,7 @@ needs_manual_review: false
 
 ## Vision
 
-![no-num-smoldering-tar](../../_images/magic-the-gathering/invasion/no-num-smoldering-tar.png)
+![275-smoldering-tar](../../_images/magic-the-gathering/invasion/275-smoldering-tar.png)
 
 A frontally-posed woman dominates the composition. She wears segmented dark armor with reddish accents and multiple buckled straps, plus a tall pointed black-and-red conical headdress. Her gloved left hand holds a small severed/disembodied hand. Several short pedestal-braziers flank her, emitting thick rising pale-grey smoke columns. The background is a saturated deep red — flames, void, or hellish glow. Aesthetic is sinister-ritualistic, witchy, alchemical, high-fantasy classic.
 

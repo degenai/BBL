@@ -2,7 +2,7 @@
 name: Leechridden Swamp
 game: Magic: The Gathering
 set: Shadowmoor
-collector_number: 
+collector_number: 273
 rarity: U
 variance: Normal
 grade: Ungraded
@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["swamp", "bog", "wetland", "roots", "thorns", "decay", "rot", "gothic", "dark-fantasy", "cave", "landscape", "twilight", "disease"]
 tags_filter: ["land", "basic-land-type-swamp", "black-magic", "scene-mode", "wide-shot", "no-face", "no-figure-count", "shadowmoor", "no-figure"]
-reference_image: cards/_images/magic-the-gathering/shadowmoor/no-num-leechridden-swamp.png
+reference_image: cards/_images/magic-the-gathering/shadowmoor/273-leechridden-swamp.png
 average_cost_paid: 0
 market_price: 1.24
 market_price_as_of: 2026-05-10
@@ -31,7 +31,7 @@ setting: forest
 
 ## Vision
 
-![no-num-leechridden-swamp](../../_images/magic-the-gathering/shadowmoor/no-num-leechridden-swamp.png)
+![273-leechridden-swamp](../../_images/magic-the-gathering/shadowmoor/273-leechridden-swamp.png)
 
 The painting depicts a fetid swamp grotto seen from inside. Gnarled black roots and thorn-tangled branches frame the scene like a natural cathedral, twisting in from every edge to form a dark, claw-like vault around a central pool of glowing ochre-orange light. The light source is hidden below, bleeding upward through silhouettes of broken trunks and dripping vegetation, suggesting a bog or leech-pit. No figures are visible — the menace is environmental. Palette is almost entirely black, sepia-brown, and bilious yellow-orange, with no sky and no horizon. Texture is wet, root-bound, and decaying, in the always-twilight Shadowmoor signature style.
 

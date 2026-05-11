@@ -1,4 +1,4 @@
-cards/magic-the-gathering/classic-sixth-edition/no-num-wooden-sphere.md
+cards/magic-the-gathering/classic-sixth-edition/318-wooden-sphere.md
 cards/magic-the-gathering/core-set-2021/115-mind-rot.md
 cards/magic-the-gathering/core-set-2021/12-concordia-pegasus.md
 cards/magic-the-gathering/core-set-2021/132-bone-pit-brute.md
@@ -47,7 +47,7 @@ cards/magic-the-gathering/battlebond/231-urborg-drake.md
 cards/magic-the-gathering/battlebond/248-tyrant-s-machine.md
 cards/magic-the-gathering/battlebond/249-yotian-soldier.md
 cards/magic-the-gathering/champions-of-kamigawa/75-myojin-of-seeing-winds.md
-cards/magic-the-gathering/chronicles/no-num-runesword.md
+cards/magic-the-gathering/chronicles/106-runesword.md
 cards/magic-the-gathering/commander-legends-battle-for-baldur-s-gate/878-talisman-of-hierarchy.md
 cards/magic-the-gathering/commander-legends/100-spontaneous-mutation.md
 cards/magic-the-gathering/commander-legends/110-bladebrand.md
@@ -84,7 +84,7 @@ cards/magic-the-gathering/commander-legends/58-azure-fleet-admiral.md
 cards/magic-the-gathering/commander-legends/68-fall-from-favor.md
 cards/magic-the-gathering/commander-legends/7-angelic-gift.md
 cards/magic-the-gathering/commander-legends/85-prosperous-pirates.md
-cards/magic-the-gathering/commander-streets-of-new-capenna/no-num-nadir-kraken.md
+cards/magic-the-gathering/commander-streets-of-new-capenna/228-nadir-kraken.md
 cards/magic-the-gathering/core-set-2019/239-manalith.md
 cards/magic-the-gathering/core-set-2019/243-rogue-s-gloves.md
 cards/magic-the-gathering/core-set-2020/231-marauder-s-axe.md
@@ -177,11 +177,11 @@ cards/magic-the-gathering/duel-decks-sorin-vs-tibalt/74-rakdos-carnarium.md
 cards/magic-the-gathering/eternal-masters/231-relic-of-progenitus.md
 cards/magic-the-gathering/eternal-masters/245-swiftwater-cliffs.md
 cards/magic-the-gathering/eternal-masters/249-wind-scarred-crag.md
-cards/magic-the-gathering/fifth-edition/no-num-wall-of-spears.md
+cards/magic-the-gathering/fifth-edition/407-wall-of-spears.md
 cards/magic-the-gathering/gatecrash/179-mortus-strider.md
 cards/magic-the-gathering/gatecrash/186-paranoid-delusions.md
 cards/magic-the-gathering/gatecrash/204-urban-evolution.md
-cards/magic-the-gathering/guildpact/no-num-streetbreaker-wurm.md
+cards/magic-the-gathering/guildpact/133-streetbreaker-wurm.md
 cards/magic-the-gathering/guilds-of-ravnica/193-notion-rain.md
 cards/magic-the-gathering/guilds-of-ravnica/198-skyknight-legionnaire.md
 cards/magic-the-gathering/guilds-of-ravnica/199-sonic-assault.md
@@ -221,8 +221,8 @@ cards/magic-the-gathering/magic-2014-m14/226-vial-of-poison.md
 cards/magic-the-gathering/magic-2015-m15/214-bronze-sable.md
 cards/magic-the-gathering/magic-2015-m15/220-juggernaut.md
 cards/magic-the-gathering/masters-25/43-blue-elemental-blast.md
-cards/magic-the-gathering/mercadian-masques/no-num-saprazzan-skerry.md
-cards/magic-the-gathering/mirrodin/no-num-leonin-scimitar.md
+cards/magic-the-gathering/mercadian-masques/328-saprazzan-skerry.md
+cards/magic-the-gathering/mirrodin/193-leonin-scimitar.md
 cards/magic-the-gathering/modern-horizons/113-unearth.md
 cards/magic-the-gathering/modern-horizons/209-munitions-expert.md
 cards/magic-the-gathering/modern-horizons/212-rotwidow-pack.md
@@ -291,7 +291,7 @@ cards/magic-the-gathering/war-of-the-spark/243-saheeli-s-silverwing.md
 cards/magic-the-gathering/war-of-the-spark/46-contentious-plan.md
 cards/magic-the-gathering/war-of-the-spark/63-no-escape.md
 cards/magic-the-gathering/war-of-the-spark/84-davriel-s-shadowfugue.md
-cards/magic-the-gathering/shadowmoor/no-num-leechridden-swamp.md
+cards/magic-the-gathering/shadowmoor/273-leechridden-swamp.md
 cards/magic-the-gathering/shards-of-alara/226-jungle-shrine-ala.md
 cards/magic-the-gathering/the-list/084-274-waker-of-waves.md
 cards/magic-the-gathering/the-list/089-274-bad-deal.md
@@ -353,5 +353,5 @@ cards/magic-the-gathering/war-of-the-spark/27-rally-of-wings.md
 cards/magic-the-gathering/war-of-the-spark/33-teyo-s-lightshield.md
 cards/magic-the-gathering/war-of-the-spark/35-topple-the-statue.md
 cards/magic-the-gathering/war-of-the-spark/38-wanderer-s-strike.md
-cards/magic-the-gathering/alara-reborn/no-num-vectis-dominator.md
-cards/magic-the-gathering/invasion/no-num-smoldering-tar.md
+cards/magic-the-gathering/alara-reborn/84-vectis-dominator.md
+cards/magic-the-gathering/invasion/275-smoldering-tar.md

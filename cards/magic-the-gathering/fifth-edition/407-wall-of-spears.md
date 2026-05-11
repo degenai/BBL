@@ -2,7 +2,7 @@
 name: Wall of Spears
 game: Magic: The Gathering
 set: Fifth Edition
-collector_number: 
+collector_number: 407
 rarity: C
 variance: Normal
 grade: Ungraded
@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["soldier", "guard", "spears", "wall", "armor", "war", "battlefield", "sentinel", "fortification", "bearded-man", "weapons", "siege"]
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "male-figure", "portrait-mode", "artifact", "creature-wall", "colorless-magic", "first-strike"]
-reference_image: cards/_images/magic-the-gathering/fifth-edition/no-num-wall-of-spears.png
+reference_image: cards/_images/magic-the-gathering/fifth-edition/407-wall-of-spears.png
 average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-10
@@ -31,7 +31,7 @@ setting: other
 
 ## Vision
 
-![no-num-wall-of-spears](../../_images/magic-the-gathering/fifth-edition/no-num-wall-of-spears.png)
+![407-wall-of-spears](../../_images/magic-the-gathering/fifth-edition/407-wall-of-spears.png)
 
 A grim, dimly lit scene shows a heavily armored, bearded warrior standing watch behind a wall of tall, slender spears whose points rake the upper edge of the frame like a thicket of black needles. The figure is shown from roughly waist up, in three-quarter profile, helmet absent so his weathered face and dark hair are visible. The palette is dominated by deep blacks, dusky blues and cold steel-grays, with only faint highlights catching the spear-shafts and the metal of his pauldron. The background is a flat, smoky distance suggesting an aftermath rather than active combat — a defensive position holding ground.
 

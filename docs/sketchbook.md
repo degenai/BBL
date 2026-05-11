@@ -51,6 +51,28 @@ Catch-all for half-baked concepts, future work, and "wouldn't it be cool if" not
 
 ---
 
+## Archive folder as triviabot knowledge store
+
+**The idea:** generalize `archive/` from its current narrow use ("cards that dropped to qty=0 — sold, traded, or bundled") to also hold orphan knowledge nodes that triviabot creates during research.
+
+When triviabot researches Nissa's Triumph (suspected_ip flag from vision), it'll pull EDHREC trivia, Reddit sentiment, lore. In that process it learns relevant info about Nissa, Vital Force / Nissa, Worldwaker — planeswalkers we don't own. Instead of throwing that info away, write an `archive/magic-the-gathering/<set>/<num>-<slug>.md` for each, with the trivia attached and a flag like `source: triviabot-orphan`.
+
+**Why this is good:**
+- The folder semantics already generalize cleanly — `archive/` is "knowledge nodes for cards not currently in inventory," and the reason (we sold them vs we never had them) is just a frontmatter flag away.
+- More graph nodes per concept = better hub-curator signal on which tags are real anchors.
+- Triviabot's marginal cost: a scrape that mentions 5 cards costs the same whether we save 1 or 5 nodes.
+- Cleanly handles the "returning from archive" case: when a future CSV includes that card for real, csv2mdbot's existing archive-return path moves the MD into `cards/`, preserves the body, surgical-update writes the CSV-managed fields. Already works.
+
+**Coordination needed when implementing triviabot:**
+- archive/ MDs need `source` (or similar) flag distinguishing `triviabot-orphan` from `bundled` / `sold` / etc.
+- Lair architect's `available = quantity - held_for_lair - committed-this-run` query filters orphan cards out automatically since they have `quantity: 0`. No change needed.
+- Hub curator queries should *include* archive entries — they're real graph data for tag-promotion votes.
+- Storefront / inventory views must continue hiding archive entries (already implicit via `quantity > 0`).
+
+**Status:** future work, parked here while triviabot itself is unbuilt. When it lands, archive-write behavior should be in scope from day one.
+
+---
+
 ## (more to come)
 
 This file is intentionally append-only for now. Add new "wouldn't it be cool" concepts below as they form. When something graduates from idea to in-progress work, move it into the README's milestones section or its own dedicated doc.

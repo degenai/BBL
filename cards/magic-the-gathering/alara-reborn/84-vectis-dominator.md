@@ -2,7 +2,7 @@
 name: Vectis Dominator
 game: Magic: The Gathering
 set: Alara Reborn
-collector_number: 
+collector_number: 84
 rarity: C
 variance: Normal
 grade: Ungraded
@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["wizard", "spellcasting", "colossus", "psychic-dominance", "golden-light", "robed-figure"]
 tags_filter: ["solo", "wide-shot", "three-quarter-facing", "scene-mode", "artifact-creature", "multicolor-white-black", "named-character"]
-reference_image: cards/_images/magic-the-gathering/alara-reborn/no-num-vectis-dominator.png
+reference_image: cards/_images/magic-the-gathering/alara-reborn/84-vectis-dominator.png
 average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-10
@@ -30,7 +30,7 @@ needs_manual_review: false
 
 ## Vision
 
-![no-num-vectis-dominator](../../_images/magic-the-gathering/alara-reborn/no-num-vectis-dominator.png)
+![84-vectis-dominator](../../_images/magic-the-gathering/alara-reborn/84-vectis-dominator.png)
 
 A wizard in dark blue-black robes and ornate plated armor stands small but central atop the massive head/brow of a slumbering tan-and-gold construct that fills most of the lower frame. The wizard raises one arm to channel a brilliant beam of white-yellow light. A large pale-blue luminous orb (the construct's eye?) is visible at lower right, suggesting the colossus is sentient and being controlled. Sky is saturated yellow-gold with abstract mountainous forms in the distance. Strong vertical, dramatic, dominant composition.
 

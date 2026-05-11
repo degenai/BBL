@@ -311,10 +311,13 @@ def local_image_path(card_md_path: Path, cards_dir: Path, images_dir: Path, ext:
 
 
 def find_image_scryfall(card_name: str, set_name: str = "",
-                        set_map: dict | None = None) -> tuple[str | None, str]:
-    """Returns (image_url, confidence). confidence in {'high','low','none'}.
-    high = exact set matched, low = fuzzy fallback (art may be from wrong printing),
-    none = no image found at all."""
+                        set_map: dict | None = None) -> tuple[str | None, str, str]:
+    """Returns (image_url, confidence, collector_number).
+    confidence in {'high','low','none'}: high = exact set matched, low = fuzzy
+    fallback (art may be from wrong printing), none = no image found at all.
+    collector_number is the empty string when no match found, otherwise the
+    Scryfall-canonical `collector_number` field for the matched printing —
+    used by the prep loop to rename no-num-* MDs inline."""
     set_map = set_map if set_map is not None else fetch_scryfall_set_map()
     code = scryfall_set_code(set_name, set_map)
     # Strip Collectr quirks like trailing "(254)" before querying Scryfall.
@@ -329,7 +332,7 @@ def find_image_scryfall(card_name: str, set_name: str = "",
         if data and not data.get("status"):  # Scryfall returns {status: 404} on miss
             img = _extract_image(data)
             if img:
-                return img, "high"
+                return img, "high", str(data.get("collector_number") or "").strip()
 
     # Fallback: fuzzy without set filter — art may be wrong printing
     params = {"fuzzy": card_name}
@@ -339,43 +342,50 @@ def find_image_scryfall(card_name: str, set_name: str = "",
     if data and not data.get("status"):
         img = _extract_image(data)
         if img:
-            return img, "low"
-    return None, "none"
+            return img, "low", str(data.get("collector_number") or "").strip()
+    return None, "none", ""
 
 
-def find_image_pokemontcg(card_name: str, set_name: str = "") -> tuple[str | None, str]:
-    """PokemonTCG.io v2 API. Returns (url, confidence). High = matched with set,
-    low = matched name only, none = no match."""
-    def _query(q: str) -> str | None:
+def find_image_pokemontcg(card_name: str, set_name: str = "") -> tuple[str | None, str, str]:
+    """PokemonTCG.io v2 API. Returns (url, confidence, number). High = matched with set,
+    low = matched name only, none = no match. `number` is the PokemonTCG `number` field
+    of the matched printing, empty when no match."""
+    def _query(q: str) -> tuple[str | None, str]:
         url = f"{POKEMONTCG_API}/cards?q={urllib.parse.quote(q)}&pageSize=1"
         data = http_get_json(url)
         time.sleep(0.2)
         if not data:
-            return None
+            return None, ""
         cards = data.get("data") or []
         if not cards:
-            return None
-        images = cards[0].get("images") or {}
-        return images.get("large") or images.get("small")
+            return None, ""
+        card = cards[0]
+        images = card.get("images") or {}
+        img = images.get("large") or images.get("small")
+        number = str(card.get("number") or "").strip()
+        return img, number
 
     if set_name:
-        img = _query(f'name:"{card_name}" set.name:"{set_name}"')
+        img, number = _query(f'name:"{card_name}" set.name:"{set_name}"')
         if img:
-            return img, "high"
-    img = _query(f'name:"{card_name}"')
+            return img, "high", number
+    img, number = _query(f'name:"{card_name}"')
     if img:
-        return img, "low" if set_name else "high"
-    return None, "none"
+        return img, ("low" if set_name else "high"), number
+    return None, "none", ""
 
 
 def find_reference_image(game: str, card_name: str, set_name: str,
-                         set_map: dict | None = None) -> tuple[str | None, str]:
+                         set_map: dict | None = None) -> tuple[str | None, str, str]:
+    """Returns (image_url, confidence, collector_number). collector_number is "" when
+    no match. The prep loop uses it to rename no-num-* MDs inline so we never carry
+    Collectr's empty Card Number column forward."""
     strat = GAME_STRATEGY.get(game)
     if strat == "scryfall":
         return find_image_scryfall(card_name, set_name, set_map)
     if strat == "pokemontcg":
         return find_image_pokemontcg(card_name, set_name)
-    return None, "none"
+    return None, "none", ""
 
 
 # --- DeepSeek vision call ---
@@ -668,7 +678,7 @@ def process(cards_dir: Path, images_dir: Path, limit: int, game_filter: str | No
             report["skipped_no_strategy"] += 1
             continue
 
-        image_url, confidence = find_reference_image(game, name, set_, set_map)
+        image_url, confidence, collector_number = find_reference_image(game, name, set_, set_map)
         if not image_url:
             print(f"  -> reference image not found, flagging for manual review")
             report["skipped_no_image"] += 1
@@ -679,6 +689,23 @@ def process(cards_dir: Path, images_dir: Path, limit: int, game_filter: str | No
                             art_confidence="none",
                             manual_review_reason=f"No reference image found via {GAME_STRATEGY[game]} for set '{set_}'")
             continue
+
+        # Backfill no-num-* MDs inline: when Collectr's CSV had an empty Card Number
+        # but the upstream API knows the collector_number, rename the MD before any
+        # further work. Keeps the corpus tidy without a separate cleanup pass.
+        if collector_number and not dry_run and path.stem.startswith("no-num-"):
+            new_stem = f"{collector_number}-{path.stem[len('no-num-'):]}"
+            new_path = path.with_name(new_stem + ".md")
+            if not new_path.exists():
+                # Stamp collector_number into frontmatter before the rename so the
+                # file is internally consistent if anything else reads it before
+                # the image-cache write below.
+                text = path.read_text(encoding="utf-8")
+                text = update_frontmatter_field(text, "collector_number", collector_number)
+                path.write_text(text, encoding="utf-8")
+                path.rename(new_path)
+                print(f"  -> backfilled collector_number={collector_number}, renamed to {new_path.name}")
+                path = new_path  # downstream image-cache + frontmatter writes target the new path
 
         print(f"  -> image: {image_url}  (art_match: {confidence})")
 

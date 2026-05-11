@@ -2,7 +2,7 @@
 name: Saprazzan Skerry
 game: Magic: The Gathering
 set: Mercadian Masques
-collector_number: 
+collector_number: 328
 rarity: C
 variance: Normal
 grade: Ungraded
@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["sunset", "ocean", "seascape", "landscape", "coast", "tide-pool", "island", "sky", "clouds", "horizon", "reflection", "tranquility"]
 tags_filter: ["no-figure", "wide-shot", "scene-mode", "no-face", "land", "blue-magic", "mana-source"]
-reference_image: cards/_images/magic-the-gathering/mercadian-masques/no-num-saprazzan-skerry.png
+reference_image: cards/_images/magic-the-gathering/mercadian-masques/328-saprazzan-skerry.png
 average_cost_paid: 0
 market_price: 2.48
 market_price_as_of: 2026-05-10
@@ -30,7 +30,7 @@ setting: ocean
 
 ## Vision
 
-![no-num-saprazzan-skerry](../../_images/magic-the-gathering/mercadian-masques/no-num-saprazzan-skerry.png)
+![328-saprazzan-skerry](../../_images/magic-the-gathering/mercadian-masques/328-saprazzan-skerry.png)
 
 A serene coastal seascape rendered in painterly oils. A low rocky outcrop sits in the middle distance, half-submerged at low tide, with darker wet stones poking through a glassy stretch of shallow water. The foreground is a flat reflective tide pool catching the colors of the sky above. The horizon is low, putting roughly two-thirds of the composition into a vast sunset sky banded in salmon pink, peach, lavender, and dusty gold cloud. No figures are present. The mood is quiet, expansive, end-of-day calm.
 

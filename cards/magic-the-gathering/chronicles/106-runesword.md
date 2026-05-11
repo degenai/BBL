@@ -2,7 +2,7 @@
 name: Runesword
 game: Magic: The Gathering
 set: Chronicles
-collector_number: 
+collector_number: 106
 rarity: C
 variance: Normal
 grade: Ungraded
@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["sword", "weapon", "blade", "runes", "magical-weapon", "cursed-object", "artifact-relic", "glowing-runes", "dark-magic", "talisman", "void"]
 tags_filter: ["solo", "no-face", "no-figure", "object-portrait", "close-up", "centered-composition", "vertical-orientation", "black-background", "artifact", "colorless-magic"]
-reference_image: cards/_images/magic-the-gathering/chronicles/no-num-runesword.png
+reference_image: cards/_images/magic-the-gathering/chronicles/106-runesword.png
 average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-10
@@ -31,7 +31,7 @@ setting: void
 
 ## Vision
 
-![no-num-runesword](../../_images/magic-the-gathering/chronicles/no-num-runesword.png)
+![106-runesword](../../_images/magic-the-gathering/chronicles/106-runesword.png)
 
 A single weapon — a dagger or short sword — hangs vertically against a flat black void. The blade is jagged and asymmetric, with serrated edges and a wavy, almost flame-like silhouette. Glowing red-orange runes or veins of light run along the length of the blade, suggesting embedded magic or a cursed enchantment. The hilt is dark and textured, with a knobbed pommel. The weapon is the sole subject — no figure wields it, no environment surrounds it. The composition is pure object portraiture, isolated against negative space, presenting the artifact as a relic or talisman.
 
