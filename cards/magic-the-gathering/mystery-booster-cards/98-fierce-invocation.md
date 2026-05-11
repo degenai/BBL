@@ -1,7 +1,7 @@
 ---
 name: Fierce Invocation
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 98
 rarity: C
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/2/7/270b67e5-fbf
 mood: sublime
 time_of_day: indeterminate
 setting: mountain
+the_list_source_set: FRF
 ---
 
 # Fierce Invocation (Mystery Booster Cards)

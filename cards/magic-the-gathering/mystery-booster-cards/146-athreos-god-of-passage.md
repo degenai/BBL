@@ -1,7 +1,7 @@
 ---
 name: Athreos, God of Passage
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 146
 rarity: M
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/a/9/a9c87b4d-6e1
 mood: grim
 time_of_day: indeterminate
 setting: void
+the_list_source_set: JOU
 ---
 
 # Athreos, God of Passage (Mystery Booster Cards)

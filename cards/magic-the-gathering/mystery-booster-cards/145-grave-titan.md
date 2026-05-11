@@ -1,7 +1,7 @@
 ---
 name: Grave Titan
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 145
 rarity: M
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/e/c/ec6f4542-b5c
 mood: grim
 time_of_day: indeterminate
 setting: other
+the_list_source_set: C14
 ---
 
 # Grave Titan (Mystery Booster Cards)

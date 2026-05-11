@@ -11,10 +11,14 @@
             "id": "2f47d2ec7546c1fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_hubs/labor.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "labor"
             }
           }
         ]
@@ -181,6 +185,9 @@
   },
   "active": "2f47d2ec7546c1fd",
   "lastOpenFiles": [
+    "_symbols/orzhov-signet.md",
+    "_symbols/orzhov-signet.md.tmp.19032.bda86299e975",
+    "_symbols",
     "magic-the-gathering/theros-beyond-death/33-reverent-hoplite.md.tmp.19032.528871bb2fd3",
     "magic-the-gathering/mystery-booster-cards/24-lunarch-mantle.md.tmp.19032.6f9a1f7f4357",
     "magic-the-gathering/core-set-2021/35-secure-the-scene.md.tmp.19032.73522837a116",
@@ -189,10 +196,7 @@
     "magic-the-gathering/war-of-the-spark/81-charity-extractor.md.tmp.19032.d2091756e6df",
     "magic-the-gathering/throne-of-eldraine/109-wicked-guardian.md.tmp.19032.c3f870e4ae1d",
     "magic-the-gathering/ravnica-allegiance/194-pitiless-pontiff.md.tmp.19032.2035422b688b",
-    "magic-the-gathering/dragon-s-maze/109-tithe-drinker.md.tmp.19032.5a4651ed061e",
-    "magic-the-gathering/dragon-s-maze/109-tithe-drinker.md.tmp.19032.29e3bc2081b0",
     "_hubs/chinese-zodiac.md",
-    "_hubs/chinese-zodiac.md.tmp.19032.723b6406749e",
     "_hubs/rebellion.md",
     "_hubs/labor.md",
     "_images/magic-the-gathering/shadowmoor/273-leechridden-swamp.png",

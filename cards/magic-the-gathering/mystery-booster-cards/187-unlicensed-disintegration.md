@@ -1,7 +1,7 @@
 ---
 name: Unlicensed Disintegration
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 187
 rarity: U
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/3/b33fcc99-7c3
 mood: action
 time_of_day: indeterminate
 setting: other
+the_list_source_set: KLD
 ---
 
 # Unlicensed Disintegration (Mystery Booster Cards)

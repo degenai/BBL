@@ -1,7 +1,7 @@
 ---
 name: Borderland Ranger
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 31
 rarity: C
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/d/5/d5b9689f-e14
 mood: peaceful
 time_of_day: day
 setting: forest
+the_list_source_set: E02
 ---
 
 # Borderland Ranger (Mystery Booster Cards)

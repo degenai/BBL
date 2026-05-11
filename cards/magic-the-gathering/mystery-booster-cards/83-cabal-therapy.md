@@ -1,7 +1,7 @@
 ---
 name: Cabal Therapy
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 83
 rarity: U
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/2/a/2afc9aa7-eaf
 mood: grim
 time_of_day: indeterminate
 setting: void
+the_list_source_set: EMA
 ---
 
 # Cabal Therapy (Mystery Booster Cards)

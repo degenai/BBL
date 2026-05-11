@@ -1,7 +1,7 @@
 ---
 name: Warteye Witch
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 115
 rarity: C
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/5/b5be9b82-835
 mood: grim
 time_of_day: indeterminate
 setting: dungeon
+the_list_source_set: MH1
 ---
 
 # Warteye Witch (Mystery Booster Cards)

@@ -1,7 +1,7 @@
 ---
 name: Hamlet Captain
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 161
 rarity: U
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/f/d/fd8f9cd1-1c4
 mood: grim
 time_of_day: day
 setting: forest
+the_list_source_set: EMN
 ---
 
 # Hamlet Captain (Mystery Booster Cards)

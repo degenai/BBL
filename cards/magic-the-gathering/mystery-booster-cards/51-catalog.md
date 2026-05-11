@@ -1,7 +1,7 @@
 ---
 name: Catalog
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 51
 rarity: C
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/5/8/58c49167-38d
 mood: grim
 time_of_day: night
 setting: other
+the_list_source_set: SOI
 ---
 
 # Catalog (Mystery Booster Cards)

@@ -14,7 +14,18 @@
       "Bash(python apply_vision.py \"C:\\\\Users\\\\alexa\\\\Desktop\\\\Bulk Graph Bundler\\\\cards\\\\magic-the-gathering\\\\core-set-2021\\\\113-masked-blackguard.md\" \"reports/vision_pending/113-masked-blackguard.json\")",
       "Bash(python researchbot.py --prepare-only --limit 50 --game \"Magic: The Gathering\")",
       "Bash(python bbl_queue.py --count)",
-      "Bash(python bbl_queue.py --with-qty --limit 13 --game \"Magic: The Gathering\")"
+      "Bash(python bbl_queue.py --with-qty --limit 13 --game \"Magic: The Gathering\")",
+      "WebFetch(domain:api.scryfall.com)",
+      "Bash(curl *)",
+      "WebFetch(domain:edhrec.com)",
+      "WebFetch(domain:scryfall.com)",
+      "WebFetch(domain:mtg.fandom.com)",
+      "WebFetch(domain:magic.wizards.com)",
+      "Bash(not exist *)",
+      "WebFetch(domain:mtg-realm.tumblr.com)",
+      "WebFetch(domain:www.magicspoiler.com)",
+      "WebFetch(domain:www.hipstersofthecoast.com)",
+      "Bash(python -c \"import json; d=json.load\\(open\\(r'C:/Users/alexa/Desktop/Bulk Graph Bundler/reports/trivia_pending/magic-the-gathering/theros-beyond-death/33-reverent-hoplite.scryfall.json','r',encoding='utf-8'\\)\\); keys=['name','set','set_name','collector_number','rarity','released_at','mana_cost','type_line','oracle_text','power','toughness','flavor_text','artist','edhrec_uri','scryfall_uri','reprint','story_spotlight','watermark','frame_effects','promo_types']; [print\\(k+': '+repr\\(d.get\\(k\\)\\)\\) for k in keys]; leg=d.get\\('legalities',{}\\); [print\\('legalities.'+k+': '+leg[k]\\) for k in ['standard','commander','modern','pioneer','pauper'] if k in leg]; ru=d.get\\('related_uris',{}\\); [print\\('related.'+k+': '+ru[k]\\) for k in ru]\")"
     ]
   }
 }

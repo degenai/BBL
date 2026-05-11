@@ -1,7 +1,7 @@
 ---
 name: Phyrexian Rager
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 62
 rarity: C
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/a/8/a87aa7f3-958
 mood: horror
 time_of_day: indeterminate
 setting: void
+the_list_source_set: CMA
 ---
 
 # Phyrexian Rager (Mystery Booster Cards)

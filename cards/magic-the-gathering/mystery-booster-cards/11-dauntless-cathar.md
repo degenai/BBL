@@ -1,7 +1,7 @@
 ---
 name: Dauntless Cathar
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 11
 rarity: C
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/f/c/fc3b97d0-824
 mood: grim
 time_of_day: night
 setting: other
+the_list_source_set: SOI
 ---
 
 # Dauntless Cathar (Mystery Booster Cards)

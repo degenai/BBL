@@ -1,7 +1,7 @@
 ---
 name: Hinterland Drake
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 34
 rarity: C
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/c/f/cf393788-146
 mood: sublime
 time_of_day: day
 setting: mountain
+the_list_source_set: AER
 ---
 
 # Hinterland Drake (Mystery Booster Cards)

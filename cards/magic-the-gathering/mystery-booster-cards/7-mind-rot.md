@@ -1,7 +1,7 @@
 ---
 name: Mind Rot
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 7
 rarity: C
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/2/8/284afe0e-0e0
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+the_list_source_set: W16
 ---
 
 # Mind Rot (Mystery Booster Cards)

@@ -1,7 +1,7 @@
 ---
 name: Prowling Caracal
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 17
 rarity: C
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/9/09ae21d0-771
 mood: action
 time_of_day: day
 setting: urban
+the_list_source_set: RNA
 ---
 
 # Prowling Caracal (Mystery Booster Cards)

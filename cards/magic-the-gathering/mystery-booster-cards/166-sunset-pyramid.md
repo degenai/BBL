@@ -1,7 +1,7 @@
 ---
 name: Sunset Pyramid
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 166
 rarity: U
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/3/93165cd6-7a6
 mood: sublime
 time_of_day: sunset
 setting: desert
+the_list_source_set: HOU
 ---
 
 # Sunset Pyramid (Mystery Booster Cards)

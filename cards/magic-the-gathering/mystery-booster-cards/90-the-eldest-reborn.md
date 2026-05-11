@@ -1,7 +1,7 @@
 ---
 name: The Eldest Reborn
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 90
 rarity: U
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/d/7/d706ad46-6d0
 mood: grim
 time_of_day: indeterminate
 setting: other
+the_list_source_set: DOM
 ---
 
 # The Eldest Reborn (Mystery Booster Cards)

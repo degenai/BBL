@@ -1,7 +1,7 @@
 ---
 name: Madcap Skills
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 99
 rarity: C
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/c/2/c264c4b1-40b
 mood: comedic
 time_of_day: indeterminate
 setting: other
+the_list_source_set: MM3
 ---
 
 # Madcap Skills (Mystery Booster Cards)

@@ -1,7 +1,7 @@
 ---
 name: Conifer Strider
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 179
 rarity: C
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/a/baac2239-789
 mood: sublime
 time_of_day: indeterminate
 setting: mountain
+the_list_source_set: DTK
 ---
 
 # Conifer Strider (Mystery Booster Cards)

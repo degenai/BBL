@@ -1,7 +1,7 @@
 ---
 name: Toxin Sliver
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 84
 rarity: R
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/c/7/c7bdf2e4-ff7
 mood: horror
 time_of_day: indeterminate
 setting: dungeon
+the_list_source_set: LGN
 ---
 
 # Toxin Sliver (Mystery Booster Cards)

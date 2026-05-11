@@ -1,7 +1,7 @@
 ---
 name: Absorb Vis
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 126
 rarity: C
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/2/2/22984b84-559
 mood: grim
 time_of_day: indeterminate
 setting: void
+the_list_source_set: CN2
 ---
 
 # Absorb Vis (Mystery Booster Cards)

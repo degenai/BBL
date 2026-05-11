@@ -1,7 +1,7 @@
 ---
 name: Peel from Reality
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 40
 rarity: C
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/d/6/d600d048-92e
 mood: sublime
 time_of_day: indeterminate
 setting: void
+the_list_source_set: DDO
 ---
 
 # Peel from Reality (Mystery Booster Cards)

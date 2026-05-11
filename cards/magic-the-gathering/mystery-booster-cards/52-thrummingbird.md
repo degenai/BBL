@@ -1,7 +1,7 @@
 ---
 name: Thrummingbird
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 52
 rarity: U
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/e/4/e4adf2d0-5a7
 mood: other
 time_of_day: indeterminate
 setting: other
+the_list_source_set: CM2
 ---
 
 # Thrummingbird (Mystery Booster Cards)

@@ -1,7 +1,7 @@
 ---
 name: Lunarch Mantle
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 24
 rarity: C
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/6/b6eb3c20-e85
 mood: grim
 time_of_day: indeterminate
 setting: void
+the_list_source_set: A25
 ---
 
 # Lunarch Mantle (Mystery Booster Cards)
@@ -69,6 +70,6 @@ A grim, dark-armored figure stands at center frame, gripping a long straight swo
 
 **Bundle thesis:** the men they send. Institutional authority depicted in card art. The apparatus of extraction. Different uniforms, different institutions, same job description.
 
-**Why it fits:** A single armored figure stands in the dark, one hand gripping a long sword while the other holds a blood-stained white wing slung over a shoulder like a ceremonial stole. The plate and visored helmet are standard for a soldier of an office. The wing is what makes him an enforcer of one. "A boon from the angels should never be cast aside." —Manfried Ulmach, Chief Inquisitor
+**Why it fits:** A single armored figure stands in the dark, one hand gripping a long sword while the other holds a blood-stained white wing slung over a shoulder like a ceremonial stole. The plate and visored helmet are standard for a soldier of an office. The wing is what makes him an enforcer of one. "A boon from the angels should never be cast aside." –Manfried Ulmach, Chief Inquisitor
 
 **Bundle JSON:** `diamondlegendz/bundle-previewer/sample-bundles/tithe.json`

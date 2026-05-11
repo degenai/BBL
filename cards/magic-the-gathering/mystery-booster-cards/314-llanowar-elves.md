@@ -1,7 +1,7 @@
 ---
 name: Llanowar Elves
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 314
 rarity: C
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/5/7/57ebd34e-dfe
 mood: action
 time_of_day: indeterminate
 setting: forest
+the_list_source_set: M19
 ---
 
 # Llanowar Elves (Mystery Booster Cards)

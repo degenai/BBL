@@ -1,7 +1,7 @@
 ---
 name: Swords to Plowshares
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 78
 rarity: U
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/5/2/5287cab9-29f
 mood: sublime
 time_of_day: day
 setting: other
+the_list_source_set: VOC
 ---
 
 # Swords to Plowshares (Mystery Booster Cards)

@@ -1,7 +1,7 @@
 ---
 name: Magma Spray
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 141
 rarity: C
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/7/67b9fcc4-51d
 mood: action
 time_of_day: indeterminate
 setting: desert
+the_list_source_set: AKH
 ---
 
 # Magma Spray (Mystery Booster Cards)

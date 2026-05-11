@@ -1,7 +1,7 @@
 ---
 name: Ensoul Artifact
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 54
 rarity: U
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/c/7/c706a6b4-32c
 mood: sublime
 time_of_day: indeterminate
 setting: indoor
+the_list_source_set: M15
 ---
 
 # Ensoul Artifact (Mystery Booster Cards)

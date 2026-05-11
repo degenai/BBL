@@ -1,7 +1,7 @@
 ---
 name: Lead the Stampede
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 16
 rarity: C
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/c/6c977fe0-f0d
 mood: action
 time_of_day: day
 setting: other
+the_list_source_set: DDU
 ---
 
 # Lead the Stampede (Mystery Booster Cards)

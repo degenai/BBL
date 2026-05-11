@@ -1,7 +1,7 @@
 ---
 name: Uncaged Fury
 game: Magic: The Gathering
-set: Mystery Booster Cards
+set: The List
 collector_number: 155
 rarity: C
 variance: Normal
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/1/b18646ff-c8f
 mood: action
 time_of_day: indeterminate
 setting: indoor
+the_list_source_set: A25
 ---
 
 # Uncaged Fury (Mystery Booster Cards)

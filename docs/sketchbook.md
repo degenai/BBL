@@ -147,10 +147,11 @@ narrative-first by default, not tag-first.
 
 **Status (2026-05-11):** scaffold landed at `diamondlegendz/bundle-previewer/`.
 HTML/JS/CSS playground, CSP-safe, anime.js v4 from the facets vendor. Renders
-a single bundle JSON into a hero (title + subtitle + narrative + hub badges +
-anchor tags) + card grid (image + name + matched tags + why-it-fits) +
-cohesion panel + metadata footer. Default loads from
-`sample-bundles/sleep-when-youre-dead.json`. File picker for ad-hoc loads.
+a single bundle JSON into a hero (catalog-line + hub badges + title + subtitle
++ narrative) + anchor-tag chips + card grid (image + name + matched tags +
+why_it_fits + per-card pricing + multi-copy pill) + cohesion panel + sectioned
+pricing receipt with Stripe checkout button + metadata footer. Default loads
+`sample-bundles/tithe.json` (Discrete Lair 001).
 
 **Why on Diamond Legendz, not BBL:** DL is the html/js/css playground per
 project conventions; BBL stays Python-only. Eventual buyer-facing variant
@@ -167,10 +168,12 @@ When the `bbl-bundler` agent lands, this is its emit contract.
 
 ```json
 {
-  "schema_version": "0.2",
-  "title": "Sleep when you're dead",
-  "subtitle": "for the figures who never stop working",
-  "narrative": "Long-form prose paragraph that does the persuasion work. Reads as the bundle's marketing copy. NOT a tag-cluster description — a thesis.",
+  "schema_version": "0.3",
+  "series_label": "BBL",
+  "catalog_id": "Discrete Lair 001",
+  "title": "Tithe",
+  "subtitle": "the men they send",
+  "narrative": "Long-form prose paragraph that does the persuasion work. Reads as the bundle's marketing copy. NOT a tag-cluster description, a thesis.",
   "hubs": ["labor"],
   "anchor_tags": ["labor", "exhaustion", "servant", "drudgery"],
   "intent_tags": ["labor", "exhaustion", "servant", "drudgery", "tax-collector", "scrubbing", "burnout", "vow", "ritual", "captive", "coercion", "robed-figure", "hooded-figure"],
@@ -283,16 +286,20 @@ arbitrary JSONs from disk for one-off testing without committing them.
 - Whatnot / TCGplayer / eBay: don't fit. Whatnot is livestream-auction (wrong format), TCGplayer search is single-name-focused (no merchandising surface for bundles), eBay audience doesn't know what BBL is.
 - Reddit/Discord direct sales with manual PayPal/Venmo: viable for the first 5-10 bundles before infra cost is justified. Zero platform fee, high admin overhead.
 
+**Partially shipped 2026-05-11:** schema v0.3 landed with the `checkout` block (top-level `checkout.stripe_payment_url`, `checkout.stripe_price_id`, `checkout.checkout_provider`). The previewer renders a Buy button when the URL is set and non-placeholder. Current sample bundles ship with placeholder URLs (`https://buy.stripe.com/PLACEHOLDER_<slug>`) so the rendering can be verified before real Stripe account exists.
+
 **Implementation plan (when the commercial brand lands):**
 1. New domain points at the bundle previewer (forked from the dev-mode DL version with picker/metadata stripped).
 2. Stripe account with the commercial brand, single-product checkout sessions per bundle.
-3. Cloudflare Worker (since DL/PE already use Cloudflare) hosts the `create-checkout-session` endpoint and the post-payment webhook.
+3. Cloudflare Worker (since DL/PE already use Cloudflare) hosts the `create-checkout-session` endpoint and the post-payment webhook (upgrade from Payment Links to programmatic Checkout Sessions).
 4. Webhook fires an email to a fulfillment inbox + writes the order to a small queue (D1 or just append-only file in repo).
-5. Bundle JSON gains a `stripe_price_id` field linking each bundle to its Stripe product/price record. Schema bump to v0.3 when this lands.
+5. Bundle JSON's `checkout.checkout_provider` switches from `stripe-payment-link` to `stripe-checkout-session`. Forward-compatible; no schema bump required.
 
 ---
 
 ## Symbols layer: iconographic ideology as a first-class graph dimension
+
+**Status: SHIPPED 2026-05-11.** Layer is live at `cards/_symbols/` with one symbol (`orzhov-signet.md`) and 2 cards referencing it via the `symbols:` frontmatter field. Bot guards updated to recognize `type: symbol`. See memory file `bbl-symbols-layer-built.md` for the schema documentation and agent-integration plan. The historical sketch is preserved below for context on why the layer was built.
 
 **The idea** (Alex 2026-05-11 during Tithe-bundle research): there is a class
 of card-art content that doesn't fit cleanly into vision tags OR trivia OR
@@ -413,6 +420,32 @@ new bot guards in csv2mdbot / wikilintbot, new agent field, new schema
 documentation. Worth a clean session, not a mid-bundle scramble. The
 sketch records the design so when the work happens, the convention is
 already chosen.
+
+---
+
+## High-resolution source art for vision passes
+
+**The idea** (Alex 2026-05-11): the cached card PNGs at ~488×680 pixels (Scryfall's `image_uris.png` standard) leave a lot of detail too small to resolve, which is the root cause of the vision-pass confab failures we've documented all session (bat-pug-pet-with-fangs hidden under the cached-image's small frame, the four-pronged Orzhov sun motif mistaken for "halo," figure counts wrong, etc).
+
+The fix is upstream of the model: source art at higher resolution. Two TCG APIs offer this:
+
+- **Scryfall**: every card has an `image_uris.art_crop` URL that returns the painted illustration only, no frame, no text, no border. Same dimensions as the full card but every pixel is signal. For higher-resolution variants, the `large` and `border_crop` URLs are also available; some cards have full-art versions as separate prints.
+- **PokémonTCG API**: returns an `images.large` URL per card at ~600×825, plus high-resolution scans for newer sets.
+
+**Pipeline shape when this lands:**
+
+1. `researchbot.py --prepare-only` already caches the full card image to `cards/_images/<game>/<set>/<slug>.png`. Add a second cache: `cards/_images/<game>/<set>/<slug>.art-crop.png` that pulls the art-only URL when available.
+2. New frontmatter field `art_crop_image:` mirrors `reference_image:` but points at the art-only file.
+3. `bbl-researcher` (the vision-pass subagent) reads from `art_crop_image` when present, falling back to `reference_image` otherwise. The art-crop is what the model parses; the full card is what the human reviews.
+4. Visual lint step: after caching, a quick diff/check that the art_crop and the cached full card depict the same scene. Sanity check against Scryfall returning unrelated art.
+
+**Why this matters specifically for BBL:**
+
+The benchmark experiment (`docs/benchmark-tithe-prose.md`) showed that even with a tightened inline prompt, vision models reproduce the same failure modes (figure count wrong, missed secondary figures, color details wrong) on the cached card images. The bottleneck is pixel density on the painted area. Removing the frame doubles the resolution per painted-region pixel. That alone may move vision accuracy from "70% with human eyeball still needed" to "90% with occasional polish."
+
+**Status:** sketch only as of 2026-05-11. No art-crop caching yet. Park this until after the Mystery Booster = The List rename pass and any other near-term janitor work clears.
+
+**Caveat:** PokémonTCG API rate limits may apply; Scryfall is generous but still polite-by-default. The art-crop pass would run once per unique Scryfall UUID across the corpus, so even at 1000+ cards it's a one-shot job, not a per-bundle cost.
 
 ---
 
