@@ -73,6 +73,154 @@ When triviabot researches Nissa's Triumph (suspected_ip flag from vision), it'll
 
 ---
 
+## Narrative-first lair architect
+
+**The pivot** (2026-05-10): until this point the implicit lair-architect spec was
+*find dense tag intersections in the graph → label the cluster → ship.* Alex
+flipped it. The flow is **narrative → tag**, not tag → narrative. A bundle is
+not its tag cluster; it's a thesis with cards as evidence.
+
+> "We will naturally want to gravitate towards certain themes that fit our
+> brand, anti establishment, enjoyment of personal curation as rebellion from
+> chasing the most recently printed chase card. A celebration of labor and
+> societal critique can be strong narratives to wrap bundles around. Tie a
+> bundle not to just a set of tags but to a unique narrative."
+
+This separates BBL from Secret Lair (Wizards' product). Secret Lair sells
+themed boosters — random aesthetic groupings, "here are 5 cats." BBL sells
+zines with cards stapled in — the writing is the labor; the cards are
+substantiation.
+
+**Brand voice anchors** (the kinds of narratives that fit):
+- Labor critique (`labor`, `exhaustion`, `servant`, `drudgery`, `tax-collector`, `vow`)
+- Class struggle in disguise (Karlov Manor murder mystery = class violence in evening wear; tax-collector + servant + scrubbing scene as ambient unfreedom)
+- Anti-establishment / anti-FOMO (curation-as-rebellion against the chase-card treadmill)
+- Anti-colonial / nature-reclaims-civilization (overgrown ruins, broken golden spear in vines, empire ends)
+- Solidarity / collective action (crowd scenes, rallying cries, mass refusal)
+- Personal-political (Alex's politics legible without being preachy — show, don't lecture)
+
+**Example narrative seeds** the existing corpus would already support:
+- **"Sleep when you're dead"** — Mind Rot (inventor slumped at workbench, M21 art), Wicked Guardian (servant scrubbing for nobility, ToE), Charity Extractor (armored tax-collector, MKM), Cabal Therapy, Deafening Silence (stitched-mouth vow-monks, ToE). Spine: `labor` + `exhaustion` + `servant` + `drudgery` + `vow`.
+- **"The forest remembers"** — Bala Ged Recovery, Return to Nature (broken golden spear in undergrowth), War of the Spark Forest #262 (Ravnica reclaimed by green), the "overgrown ruins" cluster. Spine: `forest` + `ruins` + `moss` + `vines` + `overgrowth` + `nature-reclaims-civilization`. The "Forest" oversized cluster from co-occurrence analysis decomposes here.
+- **"Workers of the world, untap"** — Witch's Vengeance (crowd), Inspire Awe (rallying cry), Crush Dissent (negative-space framing — what the bundle is against). Spine: `crowd` + `mob` + `villagers` + `ritual` + `rallying-cry` + `oppression`.
+- **"What the manor doesn't tell you"** — Loxodon Eavesdropper, Coerced to Kill (showcase), Deadly Complication (showcase), Topiary Panther, Culvert Ambusher — Karlov Manor reread as class-violence-in-costume. Spine: `noir` + `crime-scene` + `investigation` + `manor` + class anxiety read into the mystery genre.
+
+**The titles ARE poems.** "Sleep when you're dead" or "The forest remembers"
+or "Workers of the world, untap" do the entire persuasion work on the
+storefront listing. The buyer reads the title alone and knows if they're the
+buyer for it. That's the bar for a BBL bundle title.
+
+**Architecture sketch** (three routes, none picked as of 2026-05-10):
+
+1. **Manual / Alex-authored.** Alex writes the narrative phrase AND a hand-curated set of intent tags. Lair architect just runs the matching math (find cards whose tags overlap the intent set, rank by overlap density, filter for visual/mood cohesion). Highest fidelity, slowest scale, doesn't help discovery.
+2. **LLM-mediated.** Alex writes narrative phrase only. LLM expands to ~10-15 candidate hub tags. Matcher finds best card subset. Most discovery, lowest precision, risks drifting from brand voice if LLM hallucinates "this is what labor-themed art looks like" away from Alex's actual aesthetic.
+3. **Hybrid** (probably the right default). Alex writes narrative + 3-5 anchor tags (the load-bearing ones). LLM expands the rest of the intent set. Matcher does the rest. Locks brand voice in Alex's hands; lets matcher cast a wider-than-Alex-would-bother net.
+
+**Matching math** (when we get there) — pseudocode:
+```
+def find_bundle(narrative, anchor_tags, intent_tags, n=5..15):
+    # intent_tags = anchor_tags + LLM-expanded set
+    candidates = []
+    for card in inventory_where_quantity_gt_held_for_lair:
+        overlap = len(set(card.tags_hub) & set(intent_tags))
+        if overlap >= 2:  # at least 2 intent tags must hit
+            candidates.append((overlap, card))
+    candidates.sort(reverse=True)
+    # cohesion pass: ensure mood/setting/palette don't fight each other
+    return filter_for_visual_cohesion(candidates[:n*3])[:n]
+```
+
+**Why filter for cohesion after density:** a bundle of 10 cards all tagged
+`labor` but spanning Greek-myth + Innistrad-gothic + Eldraine-fairytale +
+Aetherdrift-racing would feel incoherent even though every card hits the
+narrative. The visual register has to lock too. `mood` + `setting` +
+`time_of_day` + palette fields in frontmatter are exactly the tier_filter
+data the cohesion pass would use.
+
+**Status:** lair architect itself isn't built yet. This sketch parks the
+brand thesis and the architecture direction so when it gets built it starts
+narrative-first by default, not tag-first.
+
+---
+
+## Bundle Previewer + bundle JSON schema
+
+**Status (2026-05-11):** scaffold landed at `diamondlegendz/bundle-previewer/`.
+HTML/JS/CSS playground, CSP-safe, anime.js v4 from the facets vendor. Renders
+a single bundle JSON into a hero (title + subtitle + narrative + hub badges +
+anchor tags) + card grid (image + name + matched tags + why-it-fits) +
+cohesion panel + metadata footer. Default loads from
+`sample-bundles/sleep-when-youre-dead.json`. File picker for ad-hoc loads.
+
+**Why on Diamond Legendz, not BBL:** DL is the html/js/css playground per
+project conventions; BBL stays Python-only. Eventual buyer-facing variant
+can fork off the dev one with the file-picker and JSON-debug surfaces
+stripped out.
+
+### Bundle JSON schema (v0.1)
+
+Locked in to match what the previewer expects. When the lair architect lands,
+this is its emit contract.
+
+```json
+{
+  "schema_version": "0.1",
+  "title": "Sleep when you're dead",
+  "subtitle": "for the figures who never stop working",
+  "narrative": "Long-form prose paragraph that does the persuasion work. Reads as the bundle's marketing copy. NOT a tag-cluster description — a thesis.",
+  "hubs": ["labor"],
+  "anchor_tags": ["labor", "exhaustion", "servant", "drudgery"],
+  "intent_tags": ["labor", "exhaustion", "servant", "drudgery", "tax-collector", "scrubbing", "burnout", "vow", "ritual", "captive", "coercion", "robed-figure", "hooded-figure"],
+  "cards": [
+    {
+      "name": "Mind Rot",
+      "set": "Mystery Booster Cards",
+      "collector_number": "7",
+      "image_url": "https://cards.scryfall.io/png/front/.../<uuid>.png",
+      "tags_matched": ["inventor", "burnout", "exhaustion", "labor"],
+      "why_it_fits": "Per-card prose: 1-2 sentences explaining why this specific card embodies the bundle narrative. NOT generic — the curator's voice.",
+      "qty_in_bundle": 1
+    }
+  ],
+  "cohesion": {
+    "mood": "weary",
+    "register": "interior / ritual",
+    "palette_hex": ["#5a4a30", "#3a2a15", "#1a1208"],
+    "color_identities_present": ["mono-black", "mono-white"],
+    "set_diversity": ["Throne of Eldraine", "War of the Spark"]
+  },
+  "metadata": {
+    "generated_by": "lair-architect-v0",
+    "generated_at": "2026-05-11",
+    "edition_size": "1 of 1",
+    "price_floor_usd": 25,
+    "card_count": 6,
+    "rarity_distribution": {"common": 4, "uncommon": 2, "rare": 0, "mythic": 0}
+  }
+}
+```
+
+**Field discipline:**
+- `narrative` does the persuasion work. If the title alone is the pitch, the narrative is the album-back-cover liner. Sentences in Alex's voice (or LLM mimicking, then Alex-edited).
+- `anchor_tags` are the 2-5 hand-picked tags Alex (or the architect) anchored the bundle on. These should map to a hub's `tag_signals` list.
+- `intent_tags` is the expanded set the matcher used to find cards. Includes anchors + LLM-expanded related tags. Surfaced on the page only for dev-mode previewer; can be hidden in buyer-facing.
+- `tags_matched` per card = `intersection(card.tags_hub, intent_tags)`. Tells the user *why this card is in this bundle.*
+- `why_it_fits` is per-card editorial. The architect can generate a draft; Alex edits. This is the second-most-important text in the bundle after the narrative itself.
+- `hubs` is the list of foundational hub MDs this bundle anchors against. Drives the hub badges in the hero.
+- `cohesion` is optional-but-recommended. Drives the cohesion panel at the bottom. Palette swatches especially are good visual proof that the bundle is *intentional* and not just tag-cluster output.
+
+**Sample bundles directory** (`sample-bundles/`) is the validation corpus. Add
+new bundles here as you draft them. The previewer's file picker can also load
+arbitrary JSONs from disk for one-off testing without committing them.
+
+**What's NOT in v0.1** (deferred):
+- Per-card `flavor_text` and `oracle_text` — depends on the Scryfall flavor-text capture work parked in the earlier sketchbook entry. When that lands, previewer should display flavor text under each card image (or as a hover detail).
+- Tag-heatmap matrix (rows=cards, cols=intent_tags, fill=match) — would be a nice dev-mode addition to spot which intent tags are "carrying" the bundle vs which are dead weight. Add later if useful.
+- Animated reveal-on-scroll for long bundles. Current entrance animation is one-shot on load. Acceptable for 5-15 card bundles; revisit if bundles get larger.
+- Print/PDF export. The buyer-facing port would benefit from a "print this bundle" button that emits a clean zine-format PDF.
+
+---
+
 ## (more to come)
 
 This file is intentionally append-only for now. Add new "wouldn't it be cool" concepts below as they form. When something graduates from idea to in-progress work, move it into the README's milestones section or its own dedicated doc.
