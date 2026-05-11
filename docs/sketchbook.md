@@ -157,14 +157,14 @@ project conventions; BBL stays Python-only. Eventual buyer-facing variant
 can fork off the dev one with the file-picker and JSON-debug surfaces
 stripped out.
 
-### Bundle JSON schema (v0.1)
+### Bundle JSON schema (v0.2)
 
-Locked in to match what the previewer expects. When the lair architect lands,
-this is its emit contract.
+Locked in 2026-05-11. Adds the `pricing` block + per-card market price to v0.1.
+When the `bbl-bundler` agent lands, this is its emit contract.
 
 ```json
 {
-  "schema_version": "0.1",
+  "schema_version": "0.2",
   "title": "Sleep when you're dead",
   "subtitle": "for the figures who never stop working",
   "narrative": "Long-form prose paragraph that does the persuasion work. Reads as the bundle's marketing copy. NOT a tag-cluster description — a thesis.",
@@ -177,9 +177,12 @@ this is its emit contract.
       "set": "Mystery Booster Cards",
       "collector_number": "7",
       "image_url": "https://cards.scryfall.io/png/front/.../<uuid>.png",
-      "tags_matched": ["inventor", "burnout", "exhaustion", "labor"],
+      "tags_matched": ["body-horror", "burnout", "exhaustion", "labor"],
       "why_it_fits": "Per-card prose: 1-2 sentences explaining why this specific card embodies the bundle narrative. NOT generic — the curator's voice.",
-      "qty_in_bundle": 1
+      "qty_in_bundle": 1,
+      "market_price_usd": 0.20,
+      "market_price_as_of": "2026-05-10",
+      "market_price_source": "collectr"
     }
   ],
   "cohesion": {
@@ -189,16 +192,41 @@ this is its emit contract.
     "color_identities_present": ["mono-black", "mono-white"],
     "set_diversity": ["Throne of Eldraine", "War of the Spark"]
   },
+  "pricing": {
+    "card_value_subtotal_usd": 3.15,
+    "labor_and_sleeve_per_card_usd": 0.10,
+    "labor_and_sleeve_total_usd": 0.60,
+    "cost_basis_usd": 3.75,
+    "diy_seller_count_estimate": 2,
+    "diy_shipping_per_seller_usd": 1.50,
+    "diy_alternative_usd": 6.15,
+    "diy_alternative_note": "Realistic floor; 2-3 TCGplayer sellers at plain-envelope rates.",
+    "bundle_price_floor_usd": 5.00,
+    "bundle_list_price_usd": 5.00,
+    "shipping_policy": "buyer-paid, itemized separately at checkout; never included in list price",
+    "estimated_shipping_usd": 1.50,
+    "narrative_premium_usd": 1.25,
+    "buyer_savings_vs_diy_usd": 1.15,
+    "buyer_savings_vs_diy_pct": 19,
+    "premium_justification": "The $1.25 above cost basis pays for the writing, the framing, the thesis. The buyer is not buying $3.15 of cards — they're buying a zine with cards stapled in."
+  },
   "metadata": {
-    "generated_by": "lair-architect-v0",
+    "generated_by": "bbl-bundler-v0",
     "generated_at": "2026-05-11",
     "edition_size": "1 of 1",
-    "price_floor_usd": 25,
     "card_count": 6,
-    "rarity_distribution": {"common": 4, "uncommon": 2, "rare": 0, "mythic": 0}
+    "rarity_distribution": {"common": 5, "uncommon": 1, "rare": 0, "mythic": 0}
   }
 }
 ```
+
+**Hard policy (alex 2026-05-11):** `bundle_list_price_usd >= 5.00` always, no
+upper bound. Shipping is buyer-paid and itemized separately, NEVER baked into
+the list price. The `bbl-bundler` subagent must refuse to emit a bundle JSON
+where the list price drops below the floor or below cost basis (it can never
+clear money) — see `memory/bbl-bundle-pricing-codified.md` for the full
+pricing model and `memory/bbl-bundle-creation-subagent.md` for the agent
+spec.
 
 **Field discipline:**
 - `narrative` does the persuasion work. If the title alone is the pitch, the narrative is the album-back-cover liner. Sentences in Alex's voice (or LLM mimicking, then Alex-edited).
