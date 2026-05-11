@@ -68,6 +68,6 @@ A grim, finely-dressed woman casts a destructive spell at the viewer. Her arms a
 
 **Bundle thesis:** the men they send. Institutional authority depicted in card art. The apparatus of extraction. Different uniforms, different institutions, same job description.
 
-**Why it fits:** A woman in dark garments stands dissolving in a swirl of grey and white, her hands open and empty as if the structure of the world itself is pulling her apart. The red streaks across her chest read less like combat wounds and more like a bureaucratic unmaking, a physical erasure from the institution's ledger. "Your debt is erased." —Hilgur, Orzhov euthanist
+**Why it fits:** A woman in dark garments with a red-lined collar is being dissolved by a swirl of grey and white, her body fragmenting at the edges. Her face stays composed, her hands open and empty. The dissolution reads as bureaucratic unmaking, a physical erasure from the institution's ledger. "Your debt is erased." —Hilgur, Orzhov euthanist
 
 **Bundle JSON:** `diamondlegendz/bundle-previewer/sample-bundles/tithe.json`

@@ -69,6 +69,6 @@ A stately noblewoman sits upright on a high-backed throne atop a stepped dais, d
 
 **Bundle thesis:** the men they send. Institutional authority depicted in card art. The apparatus of extraction. Different uniforms, different institutions, same job description.
 
-**Why it fits:** A noble in deep purple robes stands stiffly upright, her hands cradling a broad-faced cat. Behind her, a second figure in muted clothes kneels on the stone floor with a cleaning cloth. The architecture is grand, but the real structure of the place is the vertical distance between the standing authority and the one scrubbing underneath it. "Some are born to greatness. You were born to scrub greatness's floors."
+**Why it fits:** A noble in deep purple robes stands stiffly upright, her hands cradling a small bat-faced pet with bulging eyes and wide ears, dressed up in a cute poofy dog shirt. Behind her, a second figure in muted clothes kneels on the stone floor with a cleaning cloth. The architecture is grand, but the real structure of the place is the vertical distance between the standing authority and the one scrubbing underneath it. "Some are born to greatness. You were born to scrub greatness's floors."
 
 **Bundle JSON:** `diamondlegendz/bundle-previewer/sample-bundles/tithe.json`
