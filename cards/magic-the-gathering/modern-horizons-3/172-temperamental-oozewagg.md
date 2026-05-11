@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["ooze", "goblin", "swamp", "marsh", "slime", "monster", "creature", "tantrum", "shouting", "teeth", "comedic", "small-creature", "wetlands", "green-creature"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face-obscured", "creature-ooze", "creature-brushwagg", "green-magic", "common"]
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/172-temperamental-oozewagg.png
 average_cost_paid: 0
 market_price: 0.17
@@ -21,6 +21,28 @@ last_seen: 2026-05-10
 reference_image_source_url: https://cards.scryfall.io/png/front/6/6/6625df2e-7046-411a-ae86-c46ac0953a0b.png?1717012602
 art_match_confidence: high
 needs_manual_review: false
+mood: comedic
+time_of_day: indeterminate
+setting: other
 ---
 
 # Temperamental Oozewagg (Modern Horizons 3)
+
+## Vision
+
+![172-temperamental-oozewagg](../../_images/magic-the-gathering/modern-horizons-3/172-temperamental-oozewagg.png)
+
+A small green creature with a goblin-like face — large pointed ears, oversized round eyes, snub nose, and a wide-open mouth lined with sharp pointed teeth — stands or crouches in a swampy patch. Its body appears to be partially made of green ooze or sludge, blending into a base of dripping slime. Long reed-like grass and stalks rise around it, and the background is a hazy, atmospheric green-grey wash suggesting a marsh or bog. Yellow-orange highlights on the chest and belly contrast the dominant slimy green palette. The creature looks startled, angry, or shouting — its expression is the focal element.
+
+**Subject:** A small green ooze-goblin hybrid creature (a Brushwagg) with pointed ears, wide eyes, and a gaping mouth full of sharp teeth, standing amid green sludge and reedy plants
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** other, indeterminate, calm
+**Foreground:** ooze-goblin creature dripping with green slime, surrounded by reed-grass stalks  *(palette: lime-green, olive-green, yellow-ochre, dark-green)*
+**Background:** hazy marsh atmosphere, soft green-grey wash with vertical reed silhouettes  *(palette: muted-green, grey-green, pale-yellow)*
+**Mood / lighting:** comedic, ambient
+**Emotion read:** wide-eyed open-mouthed shout — startled, angry, or yelling; comedic temper-tantrum read
+**Objects:** reeds, grass-stalks
+**Creatures:** ooze, goblin, brushwagg
+**Genre cues:** fantasy
+

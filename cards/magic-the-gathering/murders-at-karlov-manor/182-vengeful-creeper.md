@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["plant", "vine", "forest", "monster", "ambush", "mist", "elemental", "predator", "tendrils", "leaves", "stalking", "nature"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "no-face", "creature-plant-elemental", "green-magic", "disguise", "common"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/182-vengeful-creeper.png
 average_cost_paid: 0
 market_price: 0.13
@@ -21,6 +21,27 @@ last_seen: 2026-05-10
 reference_image_source_url: https://cards.scryfall.io/png/front/7/a/7a914416-effd-4eda-b609-2773c53a08ec.png?1706242102
 art_match_confidence: high
 needs_manual_review: false
+mood: grim
+time_of_day: indeterminate
+setting: forest
 ---
 
 # Vengeful Creeper (Murders at Karlov Manor)
+
+## Vision
+
+![182-vengeful-creeper](../../_images/magic-the-gathering/murders-at-karlov-manor/182-vengeful-creeper.png)
+
+A serpentine, vine-like plant creature winds through a hazy green forest, its leafy tendrils curling forward toward the viewer. The body is a sinuous stalk of overlapping leaves with a pale, almost mouth-like terminus that suggests a stalking predator. The background is a wash of soft green mist and indistinct tree trunks, lending an ambush-from-the-underbrush mood. Light is diffuse and atmospheric rather than directional, with the brightest area glowing behind the creature's coiled neck.
+
+**Subject:** An animate plant creature with grasping vine-tendrils lurking in a misty forest
+
+**Composition:** mid-shot, narrative, figures: solo, facing: forward
+**Setting:** forest, indeterminate, fog
+**Foreground:** coiling vine creature with leafy tendrils  *(palette: green, yellow-green, pale-cream, olive)*
+**Background:** misty green forest with faint tree silhouettes  *(palette: pale-green, white-mist, sage)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** predatory, lurking, about to strike
+**Creatures:** plant-creature, vine-monster
+**Genre cues:** fantasy, horror
+

@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["desert", "canyon", "flowers", "blossoms", "wings", "flight", "landscape", "vista", "wilderness", "sky", "rock-formation", "growth"]
+tags_filter: ["no-figures", "wide-shot", "scene-mode", "land", "green-magic", "white-magic", "multicolor-green-white", "landscape-orientation-art", "no-face"]
 reference_image: cards/_images/magic-the-gathering/aetherdrift/252-blossoming-sands.png
 average_cost_paid: 0
 market_price: 0.1
@@ -21,6 +21,28 @@ last_seen: 2026-05-10
 reference_image_source_url: https://cards.scryfall.io/png/front/6/9/69949863-2510-4fe2-a815-0682beeb08a3.png?1738356887
 art_match_confidence: high
 needs_manual_review: false
+mood: sublime
+time_of_day: day
+setting: desert
 ---
 
 # Blossoming Sands (Aetherdrift)
+
+## Vision
+
+![252-blossoming-sands](../../_images/magic-the-gathering/aetherdrift/252-blossoming-sands.png)
+
+A wide, sun-drenched vista of golden sandstone spires rising from a canyon floor under a hazy turquoise sky. Tufts of green vegetation and small bursts of pink and white blossoms cling to the eroded rock walls, suggesting an unexpectedly fertile desert. A single elongated creature with long, narrow wings glides high in the upper-right portion of the sky, silhouetted against the haze. The composition reads as a landscape painting with strong atmospheric perspective: warm tans and oranges in the foreground rocks, cooler greens and pinks at mid-range, and a soft cyan-to-cream sky receding to the horizon.
+
+**Subject:** A sunlit desert canyon with towering rock spires, blooming desert flora, and a winged creature soaring above on outstretched wings
+
+**Composition:** wide, narrative, figures: none, facing: n/a
+**Setting:** desert, day, clear
+**Foreground:** Eroded sandstone cliff edge with green grasses and small pink and white flowering plants clinging to the rock  *(palette: sandstone-tan, ochre, moss-green, pink, cream)*
+**Background:** Receding canyon spires fading into haze under a pale turquoise sky with a distant winged creature in flight  *(palette: turquoise, cream, soft-tan, dusty-blue)*
+**Mood / lighting:** sublime, ambient
+**Emotion read:** serene, expansive, hopeful
+**Objects:** sandstone-spires, flowering-plants, grasses, canyon
+**Creatures:** winged-creature, flying-beast
+**Genre cues:** fantasy, landscape
+
