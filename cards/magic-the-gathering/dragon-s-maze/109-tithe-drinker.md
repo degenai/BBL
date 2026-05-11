@@ -72,6 +72,6 @@ A pale vampire with dark, slicked hair sits behind a heavy banquet table clutter
 
 **Bundle thesis:** the men they send. Institutional authority depicted in card art. The apparatus of extraction. Different uniforms, different institutions, same job description.
 
-**Why it fits:** A seated woman with dark hair holds a golden goblet on a throne backed by a four-pronged golden sun with a thin ring perimeter and a dark center, the same icon that backs the Pitiless Pontiff's throne in this bundle. A hunched stone figure behind her pours a dark stream from a pitcher. Two gargoyle-like attendants flank the throne, their stone bodies built into the architecture of the room. The cup is not empty: it receives, and the woman sits ready to receive again.
+**Why it fits:** A seated woman with dark hair holds a golden goblet on a throne backed by the same Orzhov Signet that backs the Pitiless Pontiff in this bundle. A hunched stone figure behind her pours a dark stream from a pitcher. Two gargoyle-like attendants flank the throne, their stone bodies built into the architecture of the room. The cup is not empty: it receives, and the woman sits ready to receive again.
 
 **Bundle JSON:** `diamondlegendz/bundle-previewer/sample-bundles/tithe.json`

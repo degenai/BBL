@@ -292,6 +292,130 @@ arbitrary JSONs from disk for one-off testing without committing them.
 
 ---
 
+## Symbols layer: iconographic ideology as a first-class graph dimension
+
+**The idea** (Alex 2026-05-11 during Tithe-bundle research): there is a class
+of card-art content that doesn't fit cleanly into vision tags OR trivia OR
+bundle prose. It's the recurring iconographic symbols that institutions and
+factions in TCG worlds use to mark themselves and their property. The Orzhov
+Signet is the case study: a four-pronged eclipsed-sun emblem that appears on
+multiple Orzhov-faction cards (Pitiless Pontiff's throne, Tithe Drinker's
+throne, the Orzhov Signet artifact card itself, almost certainly other
+Orzhov cards). Per the artifact card's flavor text:
+
+> "The form of the sigil is just as important as the sigil itself. If it's
+> carried on a medallion, its bearer is a master. If it's tattooed on the
+> body, its bearer is a slave."
+
+That is, in Alex's framing, **literally functional ideology**: a single
+symbol whose meaning inverts depending on how it's worn. The same emblem
+marks the priest extracting tithes AND the indentured body that owes them.
+The institution stamps both ends of its hierarchy with itself.
+
+This kind of finding is too valuable to scatter across individual card MDs
+or bundle prose. It should live as a first-class graph dimension so
+multiple cards can reference it, future bundles can anchor on it, and
+triviabot/bbl-bundler agents can query it.
+
+**Proposed layer:** `cards/_symbols/` directory in the BBL repo, mirroring
+the existing `cards/_hubs/` pattern.
+
+Each symbol gets its own MD file with frontmatter and body:
+
+```
+cards/_symbols/orzhov-signet.md
+---
+type: symbol
+name: Orzhov Signet (the eclipsed sun)
+aliases: [orzhov-signet, eclipsed-sun, orzhov-emblem, four-pronged-sun]
+faction: Orzhov Syndicate
+universe: Magic: The Gathering / Ravnica
+canonical_source: "Orzhov Signet artifact card (Ravnica: City of Guilds, multiple reprints)"
+appears_on: [card-slug-1, card-slug-2, ...]
+---
+
+# Orzhov Signet
+
+A four-pronged sun (an "eclipsed sun" in canonical lore) with a thin ring
+perimeter and a dark center. The Orzhov Syndicate's faction emblem.
+
+## Meaning
+
+Per the Orzhov Signet artifact card flavor text: "The form of the sigil is
+just as important as the sigil itself. If it's carried on a medallion, its
+bearer is a master. If it's tattooed on the body, its bearer is a slave."
+Later reprints reframe the duality as "sign of status" vs "sign of debt"
+but the structural point is identical: the same icon serves opposite ends
+of the institutional hierarchy.
+
+## Where it appears
+
+- Pitiless Pontiff (RNA #194) — throne back
+- Tithe Drinker (DGM #109) — throne back
+- (more candidates pending visual confirmation: Obzedat, Teysa Karlov,
+  Orzhov Pontiff, Imperious Oligarch, etc.)
+
+## Why it matters for BBL
+
+This is the highest-leverage thesis detail for any Orzhov-anchored bundle
+on the Tithe / apparatus-of-extraction thesis register. The symbol's
+master-vs-slave functional duality IS the apparatus of extraction made
+into iconography. Bundle prose that names the Orzhov Signet by name (not
+"four-pronged golden sun") earns lore-aware buyer credibility and lets
+the iconography do the thesis work.
+```
+
+**Frontmatter shape for cards that reference symbols:**
+
+```yaml
+symbols: [orzhov-signet]   # array of symbol-MD slugs
+```
+
+Cards can reference multiple symbols (some cards depict multiple faction
+emblems, like guildgates or league-of-guilds collaboration art). The
+symbol MDs maintain their own appears_on list, which can be cross-checked
+against the cards' symbols arrays as a wikilintbot consistency check.
+
+**How agents consume this:**
+
+- **bbl-researcher** (vision pass) emits a `symbols_observed` field in its
+  JSON output when it can clearly identify a known symbol in the art. Cross-
+  referenced against the symbols/ library by apply_vision.
+- **triviabot** uses the symbol MDs as a research starting point. The
+  symbol's `canonical_source` field plus its appears_on list let triviabot
+  build cross-card lore context cheaply.
+- **bbl-bundler** uses symbols as a cohesion signal. A bundle whose cards
+  share a symbol is more cohesive than a bundle whose cards don't, all
+  else equal. Cross-card symbol references can be surfaced in the bundle's
+  why_it_fits prose ("the same Orzhov Signet that backs the Pitiless
+  Pontiff in this bundle").
+
+**Why this isn't just another hub:**
+
+- Hubs are conceptual themes (Labor, Rebellion, Chinese Zodiac).
+- Symbols are concrete visual artifacts depicted IN card art with documented
+  canonical meanings sourced from the published game.
+- A symbol can support a hub (the Orzhov Signet supports the Labor hub
+  because the institution-extracting-from-bodies framing is what Labor is
+  about) but it isn't itself a hub. Symbols are graph-leaf primitives;
+  hubs are graph-root concepts.
+
+**Status:** sketch only as of 2026-05-11. No symbols/ directory exists yet.
+First symbol that would land here: orzhov-signet.md, populated from the
+Tithe-bundle research. The Tithe-bundle Pontiff + Tithe Drinker copy
+already names "Orzhov Signet" as a forward-compatible move; when the
+symbols/ directory lands those references resolve to a real graph node.
+
+**Why park this in sketchbook vs build it now:**
+
+Building the symbols layer is real architectural work: new file convention,
+new bot guards in csv2mdbot / wikilintbot, new agent field, new schema
+documentation. Worth a clean session, not a mid-bundle scramble. The
+sketch records the design so when the work happens, the convention is
+already chosen.
+
+---
+
 ## (more to come)
 
 This file is intentionally append-only for now. Add new "wouldn't it be cool" concepts below as they form. When something graduates from idea to in-progress work, move it into the README's milestones section or its own dedicated doc.
