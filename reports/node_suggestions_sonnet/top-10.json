@@ -1,0 +1,188 @@
+{
+  "model": "sonnet",
+  "generated_at": "2026-05-12T00:00:00Z",
+  "graph_state_snapshot": {
+    "hubs_count": 3,
+    "symbols_count": 1,
+    "characters_count": 2,
+    "artists_count": 1,
+    "enriched_mtg_count": 390,
+    "enriched_pkm_count": 250,
+    "trivia_passed_count": 44
+  },
+  "candidates": [
+    {
+      "rank": 1,
+      "slug": "the-wanderer",
+      "type": "character",
+      "members": [
+        "cards/magic-the-gathering/war-of-the-spark/38-wanderer-s-strike.md"
+      ],
+      "citations": [
+        "[MTG Wiki: The Wanderer]",
+        "[Scryfall: WAR-37 type_line Legendary Planeswalker — The Wanderer]",
+        "[wargamer.com: MTG Kamigawa Neon Dynasty unmasks The Wanderer planeswalker]",
+        "[dotesports.com: The Wanderer returns to MTG with new card, revealed as emperor in Kamigawa: Neon Dynasty]",
+        "[MTG Wiki: The Wandering Emperor]"
+      ],
+      "case": "A 4-printing canonical MTG character (The Wanderer / Wandering Emperor / Eternal Wanderer / Wandering Rescuer) appears across multiple sets with one trivia-passed card in corpus plus Related cards pointing to 3 more printings; her identity arc (unknown wanderer revealed as Kamigawa's emperor) is one of the game's most narratively significant recent reveals and directly ties to an existing character node (Nicol Bolas: same WAR set) — the character layer already has precedent and the straw-hat visual identifier is a first-class iconographic anchor.",
+      "caveats": "Currently only one trivia-passed card (Wanderer's Strike) is in corpus; the Wandering Emperor and other printings are not in inventory. Node would be mostly forward-looking rather than anchoring existing corpus density. The ip_verified flag on WAR-38 is still false, meaning full identity lock is pending reviewer confirmation."
+    },
+    {
+      "rank": 2,
+      "slug": "war-of-the-spark-gatewatch-triumph-cycle",
+      "type": "symbol",
+      "members": [
+        "cards/magic-the-gathering/war-of-the-spark/55-jace-s-triumph.md",
+        "cards/magic-the-gathering/war-of-the-spark/170-nissa-s-triumph.md",
+        "cards/magic-the-gathering/war-of-the-spark/120-chandra-s-pyrohelix.md"
+      ],
+      "citations": [
+        "[Scryfall: set:war name:Triumph — 5 results, all Kieran Yanner, all uncommon]",
+        "[MTG Wiki: War of the Spark, Cycles section: 'a direct reflection of the Defeats from Hour of Devastation']",
+        "[Wizards: Waging War of the Spark Part 1, Mark Rosewater, 2019-04-01]",
+        "[Scryfall: flavor_text fields, all five WAR Triumph cards — shared templated construction]",
+        "[Scryfall: set:hou name:Defeat — matching bookend cycle]"
+      ],
+      "case": "The 5-card Triumph cycle (Gideon WAR-15, Jace WAR-55, Liliana WAR-98, Chandra WAR-121, Nissa WAR-170) is a Wizards-confirmed designer cycle: one per Gatewatch founder, one per color, all uncommon, all by Kieran Yanner, all sharing a templated flavor-text construction; 3 of the 5 Triumph cards are trivia-passed in the corpus plus Chandra's Pyrohelix (same set, same character) is also trivia-passed; this is the strongest multi-card designer-confirmed cycle in the trivia-passed layer and a symbol node (cycle-membership marker) would anchor all five to a shared structured identity instead of requiring each to carry the full citation in its own Trivia section.",
+      "caveats": "Symbol may be wrong type — this is a 'designer-confirmed cycle' not a visual iconographic symbol like the Orzhov Signet; the hub layer might be more appropriate, but a pure theme-hub conflicts with the existing hubs (Labor, Rebellion, Chinese Zodiac) which are foundational narrative concepts, not in-set design artifacts. A 'cycle' node type may need its own layer. Alternatively this could be modeled as 'other' type. Missing Gideon WAR-15 and Liliana WAR-98 as trivia-passed members."
+    },
+    {
+      "rank": 3,
+      "slug": "jace-beleren",
+      "type": "character",
+      "members": [
+        "cards/magic-the-gathering/war-of-the-spark/55-jace-s-triumph.md",
+        "cards/magic-the-gathering/zendikar-rising/63-jace-mirror-mage.md"
+      ],
+      "citations": [
+        "[Scryfall: WAR-55 oracle text references 'a Jace planeswalker'; ZNR-63 type_line Legendary Planeswalker — Jace]",
+        "[MTG Wiki: Jace Beleren]",
+        "[MTG Wiki: Jace Beleren, Zendikar Rising section]"
+      ],
+      "case": "Two trivia-passed, ip_verified cards depicting Jace Beleren across two different sets (WAR-55 and ZNR-63) already have a Connections edge between them; a character node would upgrade the 1:1 mirror edge into a proper branch topology, future-proofing for any additional Jace cards entering inventory and providing a canonical anchor the way Nicol Bolas already has one.",
+      "caveats": "The 1:1 edge between the two existing cards already exists and works; a character node adds structure but the existing corpus evidence is thin (exactly 2 cards). The Nicol Bolas precedent was set with 3 story-spotlight cards forming a narrative cluster; 2 cards across different sets is a lighter case. Most compelling if more Jace cards enter inventory."
+    },
+    {
+      "rank": 4,
+      "slug": "orzhov-syndicate",
+      "type": "hub",
+      "members": [
+        "cards/magic-the-gathering/dragon-s-maze/109-tithe-drinker.md",
+        "cards/magic-the-gathering/ravnica-allegiance/194-pitiless-pontiff.md",
+        "cards/magic-the-gathering/war-of-the-spark/81-charity-extractor.md",
+        "cards/magic-the-gathering/ravnica-allegiance/192-mortify.md",
+        "cards/magic-the-gathering/ravnica-allegiance/190-lawmage-s-binding.md"
+      ],
+      "citations": [
+        "[MTG Wiki: Orzhov Syndicate — Church of Deals, amalgam of religion banking and organized crime]",
+        "[MTG Wiki: War of the Spark, Orzhov-flavored debt-collection slot]",
+        "[Hipsters of the Coast: Behind the Front Lines preview, 2019-04 — confirmed Charity Extractor as Orzhov knight]",
+        "[Scryfall: Orzhov watermark on Tithe Drinker, Pitiless Pontiff, Charity Extractor]",
+        "[BBL memory: BBL-orzhov-eclipsed-sun — eclipsed sun signet serves as both master medallion and slave-brand tattoo per lore]"
+      ],
+      "case": "Five trivia-passed cards share explicit Orzhov Syndicate faction identity (the debt-extraction church-guild of Ravnica) — more than any other MTG guild or faction in the trivia-passed layer; all five are already in the Tithe bundle; the Orzhov Signet symbol node exists but anchors iconography, not faction identity; a hub would anchor the extraction-apparatus narrative that already drives the Tithe bundle and unlock the 'apparatus of extraction' lair concept properly without crowding the symbol layer.",
+      "caveats": "The Orzhov Signet symbol node already exists and partially covers this ground at the iconographic level; creating an Orzhov-Syndicate hub risks duplication if the symbol layer expands to include faction identity. The distinction matters: the Signet is a visual primitive; the Syndicate is a narrative apparatus. Could be modeled under Labor or Rebellion hubs instead if Alex prefers a politics-first over faction-first taxonomy."
+    },
+    {
+      "rank": 5,
+      "slug": "cinderella-cycle",
+      "type": "symbol",
+      "members": [
+        "cards/magic-the-gathering/throne-of-eldraine/218-enchanted-carriage.md",
+        "cards/magic-the-gathering/throne-of-eldraine/109-wicked-guardian.md"
+      ],
+      "citations": [
+        "[Wizards: Making Magic 'Eldraine or Shine', Mark Rosewater, 2019-09-09 — places Wicked Guardian explicitly inside the set's Cinderella cycle]",
+        "[Wizards: More Odds & Ends: Throne of Eldraine, 2019-10-21 — Rosewater groups pumpkin carriage among the fairy-tale objects; confirms Mouse tokens are from Cinderella]",
+        "[MTG Wiki: Throne of Eldraine, Cycles section — Cinderella cycle documented: Enchanted Carriage, Crystal Slipper, Faerie Guidemother, Glass Casket, Midnight Clock, Turn into a Pumpkin, Wicked Guardian]"
+      ],
+      "case": "Rosewater explicitly names and documents the Cinderella cycle in two Wizards preview articles; both trivia-passed Throne of Eldraine cards in the corpus (Enchanted Carriage and Wicked Guardian) are confirmed Cinderella-cycle members; the Related cards sections of both point to the same 5-7 card cycle without an anchor node to attach to — a symbol node for the cycle would enable edge-drawing across all members and future ELD acquisitions.",
+      "caveats": "Only 2 of the 7 cycle members are currently in the corpus and trivia-passed; the node would be forward-looking for the rest (Crystal Slipper, Faerie Guidemother, Glass Casket, Midnight Clock, Turn into a Pumpkin). Same type-classification ambiguity as the Triumph cycle: 'cycle' nodes don't have an established layer type yet. Could be modeled as 'other' until a cycles layer is established."
+    },
+    {
+      "rank": 6,
+      "slug": "tamiyo",
+      "type": "character",
+      "members": [
+        "cards/magic-the-gathering/the-list/220-tamiyo-collector-of-tales.md",
+        "cards/magic-the-gathering/modern-horizons-3/72-tamiyo-meets-the-story-circle.md"
+      ],
+      "citations": [
+        "[Scryfall: PLST-WAR-220 type_line Legendary Planeswalker — Tamiyo]",
+        "[MTG Wiki: Tamiyo — moonfolk scholar, scroll-magic, adopted children including Nashi]",
+        "[MTG Wiki: Tamiyo, compleated by Phyrexia in Kamigawa: Neon Dynasty as first Phyrexian planeswalker]",
+        "[Scryfall: MH3-72 flavor context — Story Circle is a Kamigawa-adjacent narrative beat]"
+      ],
+      "case": "Two enriched cards depicting Tamiyo are in the corpus (one trivia-passed, one vision-only) spanning two different sets; her arc from moonfolk scholar to compleated Phyrexian planeswalker to death-at-the-Wanderer's-hands is one of the most complete character arcs in recent MTG lore and directly intersects with the Wanderer node proposed at rank 1; a character node would anchor both cards and future Tamiyo acquisitions cleanly.",
+      "caveats": "The MH3-72 card (Tamiyo Meets the Story Circle) has ip_verified: false — vision pass suspected Tamiyo but reviewer has not confirmed. A character node before verification is premature. Should wait for ip_verified confirmation on at least one of the two cards (PLST-220 is verified)."
+    },
+    {
+      "rank": 7,
+      "slug": "oko",
+      "type": "character",
+      "members": [
+        "cards/magic-the-gathering/the-list/309-269-oko-the-trickster.md",
+        "cards/magic-the-gathering/throne-of-eldraine/312-oko-s-hospitality.md"
+      ],
+      "citations": [
+        "[Scryfall: PLST-ELD-309 type_line Legendary Planeswalker — Oko]",
+        "[MTG Wiki: Oko — shapeshifter fey planeswalker from Lorwyn-Shadowmoor, father of Kellan]",
+        "[MTG Wiki: Throne of Eldraine: The Wildered Quest — canonical stag-form shapeshifting]",
+        "[Scryfall: ELD-312 oracle text tutors specifically for 'Oko, the Trickster']"
+      ],
+      "case": "Two enriched cards depicting Oko are in the corpus — one trivia-passed planeswalker card and one trivia-passed companion spell — and already have a Connections edge between them; Oko's arc (Eldraine ban-infamous trickster, father of Kellan) is canonically rich; a character node would upgrade the existing 1:1 connection into a proper branch and anchor any future Oko acquisitions (Oko, Thief of Crowns; Oko, the Ringleader; Kellan relationship edge).",
+      "caveats": "The 1:1 Connection edge already exists between the two cards, so the immediate graph benefit is modest. Oko's notoriety (ban-history baggage) is narrative flavor not a graph argument. Node is valuable primarily as a forward hook for Kellan relationship edges and the Oko-ban cultural significance bundle potential."
+    },
+    {
+      "rank": 8,
+      "slug": "war-of-the-spark-uncommon-planeswalker-cycle",
+      "type": "other",
+      "members": [
+        "cards/magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner.md",
+        "cards/magic-the-gathering/war-of-the-spark/227-angrath-captain-of-chaos.md"
+      ],
+      "citations": [
+        "[Wizards: Waging War of the Spark Part 1, Mark Rosewater, 2019-04-01 — one static/triggered ability plus one negative-loyalty ability template documented for all 20 uncommon walkers]",
+        "[MTG Wiki: War of the Spark — 36 planeswalkers including 20 uncommons]",
+        "[Scryfall: set:war type:planeswalker rarity:uncommon — 20 cards]"
+      ],
+      "case": "Two trivia-passed cards (Kiora and Angrath) are already Connections-edged to each other as confirmed uncommon-planeswalker-cycle members; a node for the cycle would anchor all 20 uncommon walkers, four of which are currently trivia-passed in the corpus (Kiora, Angrath, Jace via Triumph, Nissa via Triumph, Chandra via Pyrohelix); the cycle is Rosewater-documented with explicit design-intent confirmation; weaker candidate, may not survive Judge review given it is a meta-design cycle rather than a narrative or iconographic first-class dimension.",
+      "caveats": "A 20-card designer cycle is a fundamentally different structural category than a character, symbol, or hub — it has no equivalent in the existing graph layers. The current Connection edge between Kiora and Angrath already captures the strongest pair in the corpus. This node risks being the thin edge between 'designer note' and 'graph dimension.' Flag as weaker candidate."
+    },
+    {
+      "rank": 9,
+      "slug": "teferi",
+      "type": "character",
+      "members": [
+        "cards/magic-the-gathering/core-set-2021/59-opt.md"
+      ],
+      "citations": [
+        "[Scryfall: M21-59 flavor_text names Teferi and Jhoira explicitly]",
+        "[MTG Wiki: Teferi Akosa — marquee M21 planeswalker, spark restored by Jhoira]",
+        "[Scryfall: M21 full Teferi named cycle at no. 75-78]"
+      ],
+      "case": "One trivia-passed card (Opt, M21) depicts Teferi with ip_verified true; the M21 core set is a Teferi-themed set with a full named cycle of 5+ Teferi cards; the flavor text on Opt directly names both Teferi and Jhoira creating a two-character narrative moment; a character node would anchor Teferi's presence in the corpus and forward-hook any future M21 Teferi cycle card acquisitions; weaker candidate, may not survive Judge review because only one trivia-passed card currently warrants it.",
+      "caveats": "Only a single trivia-passed card is the basis for this proposal. The 2-card threshold Edgelord operates at for named-character edges hasn't been met within the trivia-passed layer. This is a forward-looking proposal premised on M21 being a Teferi-themed set and the likelihood of more Teferi cards entering inventory. Thin evidence base by current corpus."
+    },
+    {
+      "rank": 10,
+      "slug": "johto-evolution-line",
+      "type": "hub",
+      "members": [
+        "cards/pokemon/chilling-reign/047-198-mareep.md",
+        "cards/pokemon/darkness-ablaze/086-189-larvitar.md",
+        "cards/pokemon/darkness-ablaze/085-189-dugtrio.md"
+      ],
+      "citations": [
+        "[Bulbapedia: Mareep — National Pokedex no. 179, Generation II Johto, evolves to Flaaffy at 15 then Ampharos at 30]",
+        "[Bulbapedia: Larvitar — National Pokedex no. 246, Generation II Johto, evolves to Pupitar at 30 then Tyranitar at 55 (pseudo-legendary)]",
+        "[Bulbapedia: Dugtrio — National Pokedex no. 051, Generation I but recurrently tied to Johto-era anime via Ash's Larvitar arc]",
+        "[PokemonTCG.io API: swsh6-47, swsh3-86, swsh3-85 set records]"
+      ],
+      "case": "Three trivia-passed Pokemon cards represent Pokemon from the Johto-era generation (Generation II) or Johto-adjacent evolutions, with both Mareep and Larvitar explicitly Johto-native species and Larvitar most famous for its Johto anime arc; a Johto hub would provide a Pokemon-side hub to mirror the MTG hub structure and anchor Pokemon cards by generation/region in the same way MTG cards anchor to guilds or planes; weaker candidate, may not survive Judge review because Dugtrio is Gen I not Johto, the regional-origin hub concept has not been tested in the BBL graph, and 'Johto' is a geographic/generational container not a thematic concept like Labor or Rebellion.",
+      "caveats": "Johto is a region not a thematic concept — it may be a filter-tier tag rather than a hub-eligible narrative anchor. The existing hub architecture (Labor, Rebellion, Chinese Zodiac) is thematic-first not taxonomic-first; a Johto hub would break that pattern. Dugtrio is Gen I, weakening the proposed membership. This candidate is here to fill the slot honestly; a more defensible Pokemon hub would be 'evolution-line' as a general concept or 'natural-world' as a pastoral aesthetic theme."
+    }
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

@@ -1,0 +1,34 @@
+{
+  "edge_id": "55-jace-s-triumph--63-jace-mirror-mage",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/war-of-the-spark/55-jace-s-triumph.md",
+      "name": "Jace's Triumph (WAR-55)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/zendikar-rising/63-jace-mirror-mage.md",
+      "name": "Jace, Mirror Mage (ZNR-63)"
+    }
+  ],
+  "description": "Edgelord notes for the record: WAR-55 already had the Connections bullet written. ZNR-63 had nothing. Classic sync-drift orphan — one side of a mirror left hanging like a dangling participle in an otherwise competent sentence. The edge itself is not in question: both cards are ip_verified Jace Beleren, the named-character-identity case is the strongest category on the list, and the two acts of the storyline (Ravnica war captivity vs. Zendikar pursuit of Nahiri) give the connection actual narrative weight rather than just shared subtype text. Completing the mirror required one surgical Edit. I sigh as protocol demands.",
+  "citations": [
+    "[Scryfall: WAR-55 record — oracle_text references 'a Jace planeswalker'; ip_verified: true]",
+    "[Scryfall: ZNR-63 record — type_line 'Legendary Planeswalker — Jace'; ip_verified: true]",
+    "[MTG Wiki: Jace Beleren — War of the Spark section and Zendikar Rising section]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/zendikar-rising/63-jace-mirror-mage.md"
+  ],
+  "note_on_war55": "WAR-55 Connections section was already present and correct. No edit required on that side.",
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "Jace's Triumph is part of the WAR Triumph cycle (five cards, five Gatewatch founders, all by Kieran Yanner) — a designer-confirmed-cycle edge exists between all five Triumphs. That cycle edge is not drawn here because WAR-55 and ZNR-63 are not both members of that cycle; the cycle edge is a separate pass warranting the other four Triumph cards as co-inputs.",
+    "The Defeat/Triumph bookend relationship (Jace's Defeat HOU-38 vs Jace's Triumph WAR-55) is a story-spotlight-adjacent named pair that could be a future edge if HOU-38 enters the corpus.",
+    "Jace Mirror Mage's kicker mechanic creates a non-legendary copy — a self-duplication mechanic that echoes the 'mirror-image / doppelganger' visual in the art. No second card in the current corpus exploits this; tagging not edging."
+  ]
+}

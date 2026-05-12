@@ -68,3 +68,7 @@ A bulbous, translucent sac of amber and golden membrane hangs in the foreground,
 - Killer's Mask (Duskmourn: House of Horror) — listed in EDHREC's top synergy partners with Manifest Dread.
 - Qarsi Deceiver (Fate Reforged) — MTG Wiki lists this 1U creature as one that interacts with manifested cards; a bridge for any deck combining classic manifest and manifest dread.
 
+## Connections
+
+- [[190-moldering-gym-weight-room]] — Oracle-text mechanical dependency: Weight Room's unlock effect reads "manifest dread" by name, directly invoking the keyword this card both names and defines. Manifest Dread is the only Magic card whose card name, keyword action, and complete rules text are identical; Weight Room's back-door trigger was designed to synergize with that keyword in the same set. [Scryfall: 190-moldering-gym-weight-room oracle_text] [Wizards: Top of the Duskmourning Part 1, Mark Rosewater 2024] [MTG Wiki: Manifest dread]
+

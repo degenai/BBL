@@ -1,0 +1,215 @@
+{
+  "model": "opus",
+  "generated_at": "2026-05-12",
+  "graph_state_snapshot": {
+    "hubs_count": 3,
+    "symbols_count": 1,
+    "characters_count": 2,
+    "artists_count": 1,
+    "enriched_mtg_count": 728,
+    "enriched_pkm_count": 20,
+    "trivia_passed_count": 44
+  },
+  "candidates": [
+    {
+      "rank": 1,
+      "slug": "jace-beleren",
+      "type": "character",
+      "members": [
+        "cards/magic-the-gathering/war-of-the-spark/55-jace-s-triumph.md",
+        "cards/magic-the-gathering/zendikar-rising/63-jace-mirror-mage.md"
+      ],
+      "citations": [
+        "Scryfall: WAR-55 oracle text references 'a Jace planeswalker'; ZNR-63 type_line carries the Jace planeswalker subtype",
+        "MTG Wiki: Jace Beleren character page (jace beleren, mind sculptor, the living guildpact)",
+        "Both cards already carry ip_verified: true with suspected_ip: Jace Beleren",
+        "Existing edge in cards/.../55-jace-s-triumph.md ## Connections section explicitly links the two depictions"
+      ],
+      "case": "Two trivia-passed cards already canonically depict the same character across two sets (WAR + ZNR) at two distinct narrative beats (trapped under the Immortal Sun vs. pursuing Nahiri at the Murasa Skyclave) by two different artists. The card-to-card edge has already been drawn, which means a future Edgelord pass on a third Jace card would write a duplicate edge pointing at an absent center. This is the textbook Mr. Nodeley trigger — promote to character node, attach both cards via the appears_on pattern (matches nicol-bolas precedent exactly).",
+      "caveats": "An enlightened-Edgelord pass would have to refactor the existing card-to-card connection bullet to instead route through the character node, which is non-trivial cleanup. Also, the character is large enough across Magic's history that someone might argue for splitting by era (pre-Mending Jace vs. post-Mending vs. Living Guildpact); recommend single node with aspect-clusters in the body like the Bolas-Falls cluster section in nicol-bolas.md."
+    },
+    {
+      "rank": 2,
+      "slug": "duskmourn-house",
+      "type": "hub",
+      "members": [
+        "cards/magic-the-gathering/duskmourn-house-of-horror/179-frantic-strength.md",
+        "cards/magic-the-gathering/duskmourn-house-of-horror/184-horrid-vigor.md",
+        "cards/magic-the-gathering/duskmourn-house-of-horror/189-manifest-dread.md",
+        "cards/magic-the-gathering/duskmourn-house-of-horror/190-moldering-gym-weight-room.md",
+        "cards/magic-the-gathering/duskmourn-house-of-horror/197-say-its-name.md",
+        "cards/magic-the-gathering/duskmourn-house-of-horror/198-slavering-branchsnapper.md"
+      ],
+      "citations": [
+        "MTG Wiki — Duskmourn: House of Horror set page; the plane is a single house-sized world ruled by Valgavoth",
+        "Wizards: Top of the Duskmourning Part 1 + Part 2 (Mark Rosewater, 2024) — designer-confirmed framing of the plane as a 1970s/80s/90s slasher-and-haunted-house homage",
+        "Wizards: Planeswalker's Guide to Duskmourn — primary lore source for Valgavoth, the consumed-suns motif, and the survivor-archetype design conceit",
+        "Six trivia-passed cards in the BBL corpus all explicitly anchor flavor or narrative on the haunted-house plane and Valgavoth's wing-shadow appetite"
+      ],
+      "case": "Six trivia-passed cards from a single set all share a load-bearing plane-as-plot concept that survives every tag-collapse pass: every card's trivia reads 'inside the House, ruled by Valgavoth.' That is genuine narrative cohesion, not a tag bridge. Without this hub, a future bundle assembled around modern-horror or haunted-house thesis would have to write the same plane-context paragraph six times. Promoting to hub lets bundle prose load by reference. The Survivor flavor cycle (Frantic Strength's Taros, Horrid Vigor's Sunrise) is the human-cost layer of the same anchor.",
+      "caveats": "Three competing framings could split this node: (a) duskmourn-house as the plane / setting (recommended); (b) valgavoth as the canonical antagonist character (would inherit fewer cards because not every card depicts him); (c) survivors as a faction-character (the named flavor speakers Taros, Sunrise, Zimone Wola). Edgelord should write the plane-node first; the antagonist and the survivor-faction could become sibling nodes once the corpus accumulates more depictions of each."
+    },
+    {
+      "rank": 3,
+      "slug": "orzhov-syndicate",
+      "type": "hub",
+      "members": [
+        "cards/magic-the-gathering/ravnica-allegiance/194-pitiless-pontiff.md",
+        "cards/magic-the-gathering/dragon-s-maze/109-tithe-drinker.md",
+        "cards/magic-the-gathering/ravnica-allegiance/192-mortify.md",
+        "cards/magic-the-gathering/ravnica-allegiance/190-lawmage-s-binding.md",
+        "cards/magic-the-gathering/war-of-the-spark/81-charity-extractor.md",
+        "cards/magic-the-gathering/core-set-2021/127-vito-thorn-of-the-dusk-rose.md"
+      ],
+      "citations": [
+        "MTG Wiki — Orzhov Syndicate guild page; the white-black 'Church of Deals' / debt-as-power guild",
+        "Existing cards/_symbols/orzhov-signet.md cites the canonical eclipsed-sun signet and faction lore",
+        "Hipsters of the Coast: 'Behind the Front Lines' preview (2019) — Charity Extractor depicted as generic Orzhov knight per Wizards art-brief",
+        "Hipsters of the Coast: Torbeck (2020) — Vito as Legion of Dusk / Orzhov-coded heretic vampire hierophant",
+        "All six cards' trivia sections name Orzhov by faction explicitly"
+      ],
+      "case": "Six trivia-passed cards already anchored to the same canonical guild-as-institution. The orzhov-signet symbol exists, but the symbol is the iconography; the SYNDICATE (the institution-as-political-actor) is the larger concept that Vito (Ixalan Legion of Dusk, Orzhov-adjacent), Mortify (Hilgur the Orzhov euthanist), Charity Extractor (Orzhov tax-collector), Pitiless Pontiff, Tithe Drinker, and Lawmage's Binding (Azorius lawmages, but the institutional-religion-as-extraction theme aligns) all share. The Tithe bundle was already authored around this institution. The hub anchors a load-bearing thesis for the BBL brand.",
+      "caveats": "Risks subsuming the orzhov-signet symbol — an enlightened-Edgelord would have to clarify the symbol-vs-hub relationship in both MDs (signet = iconographic primitive, syndicate = the institution that brands its hierarchy with the signet). Also, Lawmage's Binding depicts Azorius enforcers, not Orzhov; a careful read might split off Azorius Senate as a sibling hub later. Weaker candidate for a strict 6-card members list — Lawmage and Vito could be argued as sibling-but-not-member."
+    },
+    {
+      "rank": 4,
+      "slug": "war-of-the-spark-uncommon-planeswalker-cycle",
+      "type": "other",
+      "members": [
+        "cards/magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner.md",
+        "cards/magic-the-gathering/war-of-the-spark/227-angrath-captain-of-chaos.md"
+      ],
+      "citations": [
+        "Wizards: 'Waging War of the Spark, Part 1' by Mark Rosewater (2019-04-01) — designer-confirmed cycle template: one static/triggered ability plus one negative-loyalty ability, 20 uncommons across the set",
+        "MTG Wiki — War of the Spark set page; lists all 20 uncommon planeswalkers as a designed cycle",
+        "Both cards' Connections sections already cite the Rosewater article as the canonical designer-confirmed source",
+        "Scryfall: rarity=uncommon, type_line includes Planeswalker, set=WAR — returns the 20-card cycle"
+      ],
+      "case": "Designer-confirmed cycle membership is a first-class graph concept (cf. the bbl-edgelord 'designer-confirmed flavor cycle' edge category). 2 trivia-passed members and 18 more cards waiting to be added to the corpus eventually. Without a cycle node, every new Edgelord pass between two uncommon WAR walkers writes the same 'we are both members of Rosewater's confirmed 20-walker cycle' edge — pure duplication. A 'cycle' node would let cards declare cycle membership in frontmatter and unlock bundle-cohesion calls like 'WAR uncommon planeswalker draft cube of the underdogs.'",
+      "caveats": "This requires inventing a new graph dimension — neither hub nor symbol nor character nor artist quite fits a 'cycle' concept. A more conservative move is to call this a hub (cycle as a curatorial concept) and accept that its boundaries are designer-set rather than thematic. Type = other because it is genuinely a new layer the bbl-edgelord agent spec anticipates ('rarely - a brand-new node-type Alex hasn't built yet'). Caller should decide whether to extend the graph to support cycles, or fold this into hubs with a brand_weight: cycle annotation."
+    },
+    {
+      "rank": 5,
+      "slug": "tamiyo",
+      "type": "character",
+      "members": [
+        "cards/magic-the-gathering/the-list/220-tamiyo-collector-of-tales.md",
+        "cards/magic-the-gathering/modern-horizons-3/72-tamiyo-meets-the-story-circle.md"
+      ],
+      "citations": [
+        "Scryfall: WAR-220 (List reprint) type_line Legendary Planeswalker — Tamiyo; ip_verified: true",
+        "MTG Wiki — Tamiyo character page (Avacyn Restored, Eldritch Moon, WAR, Strixhaven, Kamigawa: Neon Dynasty, Modern Horizons 3 arc)",
+        "Scryfall: MH3-72 is a Saga that names Tamiyo in the title and depicts her story-circle scrolls",
+        "Tamiyo, Collector of Tales trivia already documents the character's full canonical arc from the Avacyn Restored debut to her Compleated form's death"
+      ],
+      "case": "Two enriched corpus cards (one trivia-passed, one vision-only) both anchor on the same canonical moonfolk-scholar planeswalker who appears across 8+ Wizards sets. The MH3 Saga is one of the most recent printings of the character; the List reprint is the WAR-era Phyrexian-precedent printing. Promoting to character node lets a future MH3-72 trivia pass write into the character entry rather than duplicating biographical context. The character arc (Moon Sage → Field Researcher → Collector → Compleated → killed by the Wanderer) is large enough to warrant the aspect-cluster pattern from nicol-bolas.md.",
+      "caveats": "MH3-72 is enriched but not yet trivia-passed (ip_verified: false in its frontmatter; the warning callout still asks a reviewer to confirm); the case rests partially on a card whose IP is high-confidence-unverified rather than canonically locked. Mr. Nodeley could defensibly say 'wait for trivia pass on 72-tamiyo-meets-the-story-circle before promoting' — but Tamiyo's identity is unambiguous from the card title alone, and the symmetric character-node precedent (nicol-bolas was promoted on three trivia-passed cards) suggests one trivia-passed plus one enriched-with-named-IP is enough."
+    },
+    {
+      "rank": 6,
+      "slug": "valgavoth",
+      "type": "character",
+      "members": [
+        "cards/magic-the-gathering/duskmourn-house-of-horror/179-frantic-strength.md",
+        "cards/magic-the-gathering/duskmourn-house-of-horror/184-horrid-vigor.md",
+        "cards/magic-the-gathering/duskmourn-house-of-horror/189-manifest-dread.md",
+        "cards/magic-the-gathering/duskmourn-house-of-horror/190-moldering-gym-weight-room.md",
+        "cards/magic-the-gathering/duskmourn-house-of-horror/197-say-its-name.md",
+        "cards/magic-the-gathering/duskmourn-house-of-horror/198-slavering-branchsnapper.md",
+        "cards/magic-the-gathering/duskmourn-house-of-horror/50-duskmourn-s-domination.md"
+      ],
+      "citations": [
+        "MTG Wiki — Duskmourn: House of Horror; Valgavoth named as the demon-ruler whose wings condemn everyone inside to feed his appetite for terror",
+        "Wizards: Planeswalker's Guide to Duskmourn — Valgavoth as the canonical antagonist of the plane's storyline",
+        "Multiple corpus cards mention Valgavoth by name in their trivia (Slavering Branchsnapper's consumed-suns lore, Manifest Dread's set lore, Horrid Vigor's slasher-villain framing)",
+        "Duskmourn's Domination flavor text directly names Valgavoth: 'All who enter the House hear Valgavoth's whispers'"
+      ],
+      "case": "Seven Duskmourn cards in the corpus reference Valgavoth as the architect of the plane or as the off-frame antagonist. A character node anchors all of them through a single canonical figure rather than scattering the citation chain. The Bolas-Falls precedent (off-frame antagonist as anchor for cards that don't strictly depict him) applies cleanly here.",
+      "caveats": "This is a sibling rather than a substitute for the proposed duskmourn-house hub (rank 2). Valgavoth is the antagonist; the plane is the setting. Both could exist; if only one is promoted in this pass the plane-hub is broader and load-bearing for more bundles. If the caller treats this as a competing candidate to rank 2, prefer rank 2 — but the structurally-correct move is to promote both and let Edgelord draw a related_characters edge from the hub to the character. Listed separately here because the prompt asked for 10 candidates, and the prompt's strength-test allows two related nodes to both stand."
+    },
+    {
+      "rank": 7,
+      "slug": "slawomir-maniak",
+      "type": "artist",
+      "members": [
+        "cards/magic-the-gathering/dragon-s-maze/109-tithe-drinker.md",
+        "cards/magic-the-gathering/war-of-the-spark/190-despark.md",
+        "cards/magic-the-gathering/war-of-the-spark/227-angrath-captain-of-chaos.md",
+        "cards/magic-the-gathering/murders-at-karlov-manor/351-culvert-ambusher-showcase.md"
+      ],
+      "citations": [
+        "Scryfall artist field on each card: 'Slawomir Maniak'",
+        "Despark is a designated WAR story-spotlight card painted by Maniak (per trivia: 'previewed by The Vorthos Cast', the magic-story-and-art podcast routing per Wizards' convention)",
+        "Tithe Drinker is the canonical second cell of the orzhov-signet symbol (per cards/_symbols/orzhov-signet.md)",
+        "Angrath, Captain of Chaos is a WAR uncommon-planeswalker-cycle member, also by Maniak"
+      ],
+      "case": "Four corpus cards by the same artist, three trivia-passed, two of which (Despark, Angrath) are part of the same WAR set's design-confirmed cycles. Maniak is also the artist on Tithe Drinker, the second canonical orzhov-signet appearance. The artist's stylistic coherence across these four pieces (chiaroscuro action, action-with-fallen-grandeur registers) is itself a load-bearing graph signal for any bundle considering art-direction-coherent cohesion. Mirrors the jenn-ravenna-tran precedent for promoting an artist when corpus credits accumulate.",
+      "caveats": "The bbl-edgelord agent spec explicitly cautions that 'shared-artist-with-thematic-intent' is the weakest valid edge category — used 'only when the artist's stylistic continuity is the point.' For Maniak, the case rests on him painting designer-confirmed cycle members in the SAME set (WAR-190 and WAR-227 both Maniak), which IS Wizards-confirmed art-direction continuity, not Edgelord overreach. Still, this is a weaker rank than the character/hub candidates above and Mr. Nodeley would defer in his sniveliest voice."
+    },
+    {
+      "rank": 8,
+      "slug": "kieran-yanner",
+      "type": "artist",
+      "members": [
+        "cards/magic-the-gathering/war-of-the-spark/55-jace-s-triumph.md",
+        "cards/magic-the-gathering/war-of-the-spark/170-nissa-s-triumph.md",
+        "cards/magic-the-gathering/war-of-the-spark/105-spark-harvest.md",
+        "cards/magic-the-gathering/war-of-the-spark/10-divine-arrow.md",
+        "cards/magic-the-gathering/throne-of-eldraine/166-maraleaf-rider.md",
+        "cards/magic-the-gathering/theros-beyond-death/56-naiad-of-hidden-coves.md",
+        "cards/magic-the-gathering/theros-beyond-death/197-return-to-nature.md"
+      ],
+      "citations": [
+        "Scryfall artist field on each card: 'Kieran Yanner'",
+        "MTG Wiki — War of the Spark set page: Triumph cycle painters (all 5 Triumphs by Yanner) and the cycle's role as direct callback to the HOU Defeat cycle (also Yanner)",
+        "Jace's Triumph and Nissa's Triumph trivia sections both name Yanner as the designed cycle painter unifying the two-set visual call-and-response"
+      ],
+      "case": "Seven corpus cards by the same artist, two trivia-passed, and the two trivia-passed are members of the Wizards-designer-confirmed Triumph cycle that the artist was specifically art-directed to unify (Yanner painted all five WAR Triumphs and the matching five HOU Defeats they callback to). The stylistic-continuity-is-the-point criterion is met by Wizards' own art direction decision. Promoting Yanner lets any future Triumph or Defeat card edge to the artist node and inherit the cycle context.",
+      "caveats": "Same caveat as rank 7 — artist nodes are the weakest category per Edgelord's standards. Yanner's case is slightly stronger than Maniak's because the Wizards-confirmed Triumph cycle's visual unity is the explicit design intent, not just a happens-to-be-in-the-corpus signal. Still rank 7 / 8 weighting is close and the caller may flip them."
+    },
+    {
+      "rank": 9,
+      "slug": "oko",
+      "type": "character",
+      "members": [
+        "cards/magic-the-gathering/the-list/309-269-oko-the-trickster.md",
+        "cards/magic-the-gathering/throne-of-eldraine/312-oko-s-hospitality.md"
+      ],
+      "citations": [
+        "Scryfall: ELD-309 type_line Legendary Planeswalker — Oko; ip_verified: true on both cards",
+        "MTG Wiki — Oko character page; canonical Lorwyn/Shadowmoor fey planeswalker, antler-form via Wildered Quest novella",
+        "ELD-312 oracle text explicitly tutors for 'Oko, the Trickster' by name and flavor text is signed '—Oko'",
+        "Existing edge in both cards' ## Connections sections already cites the same character with shared product-line context"
+      ],
+      "case": "Two trivia-passed cards both depict the same character, both from the same Throne of Eldraine planeswalker-deck precon (ELD-309 + ELD-312, sequential collector numbers). The card-to-card edge has already been drawn — once again the textbook Mr. Nodeley trigger where a future third Oko card (Oko, Thief of Crowns; Oko, the Ringleader; etc.) arriving would cause edge duplication. Same pattern as rank 1 (Jace Beleren), one of the canonical planeswalkers most likely to appear in future card additions to the corpus.",
+      "caveats": "Two cards from the same product (same precon, same product launch) is structurally weaker than two cards from different sets / different storylines (the Jace Beleren case). One could argue this is closer to an edge-replacement (the card-to-card connection already documents the character) than a node-promotion (would future Oko cards really inherit much from this node?). Mr. Nodeley flags this and asks the caller to consider whether a follow-up Edgelord pass should redirect the existing card-to-card edge to route through the new node."
+    },
+    {
+      "rank": 10,
+      "slug": "throne-of-eldraine-fairy-tale-cycle",
+      "type": "other",
+      "members": [
+        "cards/magic-the-gathering/throne-of-eldraine/218-enchanted-carriage.md",
+        "cards/magic-the-gathering/throne-of-eldraine/109-wicked-guardian.md",
+        "cards/magic-the-gathering/throne-of-eldraine/69-turn-into-a-pumpkin.md",
+        "cards/magic-the-gathering/throne-of-eldraine/15-glass-casket.md",
+        "cards/magic-the-gathering/throne-of-eldraine/237-witch-s-oven.md",
+        "cards/magic-the-gathering/throne-of-eldraine/249-witch-s-cottage.md",
+        "cards/magic-the-gathering/throne-of-eldraine/220-golden-egg.md",
+        "cards/magic-the-gathering/throne-of-eldraine/219-gingerbrute.md",
+        "cards/magic-the-gathering/throne-of-eldraine/245-gingerbread-cabin.md",
+        "cards/magic-the-gathering/throne-of-eldraine/232-sorcerer-s-broom.md",
+        "cards/magic-the-gathering/throne-of-eldraine/226-lucky-clover.md"
+      ],
+      "citations": [
+        "Wizards: 'More Odds & Ends: Throne of Eldraine' (Mark Rosewater, 2019-10-21) — designer-confirmed fairy-tale-object cycle: Excalibur, the Holy Grail, the Round Table, the glass slipper, the pumpkin carriage, the glass casket, Pinocchio, the Gingerbread Man, the Magic Mirror",
+        "Wizards: 'Eldraine or Shine' (Mark Rosewater, 2019-09-09) — Wicked Guardian named explicitly as the Cinderella-cycle stepmother card",
+        "Enchanted Carriage trivia documents Rosewater's verbatim quote about the pumpkin carriage and explicitly confirms the cycle membership",
+        "Throne of Eldraine set page describes the top-down Grimms' Fairy Tales + Arthurian Legend design conceit"
+      ],
+      "case": "Eleven enriched Throne of Eldraine cards (1 trivia-passed so far: Enchanted Carriage; plus Wicked Guardian + Oko's Hospitality though that's character-Oko not fairy-tale) all share the same Wizards-designer-confirmed fairy-tale-object cycle. Rosewater's preview article explicitly names the cycle and lists the artifacts. The cycle is a designer-confirmed flavor-cluster (the strongest valid edge category per Edgelord's spec), but it has no node — so future bundles built on Eldraine's fairy-tale conceit have to write the same designer-citation chain on every card. Weaker rank than 1-9 because only one corpus card is trivia-passed; the case rests largely on vision-pass tags + the Rosewater citation.",
+      "caveats": "Weaker candidate, may not survive Judge review. Only one trivia-passed member (Enchanted Carriage); the eleven enriched-only members carry the case via vision tags and the designer-confirmed cycle citation rather than per-card narrative weight. A more conservative move is to wait until 3+ trivia-passed members exist before promoting. Alternative slug names: 'cinderella-cycle' (too narrow — the cycle includes Snow White's casket, Hansel & Gretel's gingerbread house, Pinocchio etc., not just Cinderella), 'fairy-tale-object' (broader but less anchored to the specific Wizards-named cluster), 'eldraine-iconic-objects' (cycle-as-set-feature framing). Caller should pick the slug; the case for the NODE is stronger than the case for any specific slug."
+    }
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

@@ -1,0 +1,36 @@
+{
+  "edge_id": "55-jace-s-triumph--63-jace-mirror-mage",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/war-of-the-spark/55-jace-s-triumph.md",
+      "name": "Jace's Triumph (WAR-55)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/zendikar-rising/63-jace-mirror-mage.md",
+      "name": "Jace, Mirror Mage (ZNR-63)"
+    }
+  ],
+  "description": "Standard same-character mirror, two cards, ip_verified Jace Beleren on both sides — about as load-bearing as named-character-identity gets. The WAR-55 side already carried the bullet from a prior pass; the ZNR-63 side was missing its half, classic sync-drift orphan. The right move is to complete the mirror with a reciprocal bullet on ZNR-63 articulating the two-acts-of-one-storyline framing (Ravnica trapped under Bolas's Immortal Sun, then Zendikar pursuing Nahiri to Murasa Skyclave). I would have made exactly one surgical Edit on ZNR-63 adding the Connections section. The parallel Sonnet Edgelord landed the same edit while this pass was reading the spec, so the file on disk is already in the consensus state; this sidecar documents that I converged on the same proposal independently. The mood is sighed-but-mirrored because two equal card-endpoints demand bidirectional traversability and the sigh is professional, not personal.",
+  "citations": [
+    "[Scryfall: WAR-55 record — oracle_text references 'a Jace planeswalker'; subject_known_ip: Jace Beleren; ip_verified: true]",
+    "[Scryfall: ZNR-63 record — type_line 'Legendary Planeswalker — Jace' (subtype reserved for printings of Jace Beleren); ip_verified: true]",
+    "[MTG Wiki: Jace Beleren — War of the Spark section confirms Ravnica/Immortal-Sun captivity beat; Zendikar Rising section confirms Nahiri-pursuit / Murasa-Skyclave arc]"
+  ],
+  "files_modified": [],
+  "files_modified_note": "Zero edits applied in this pass. The parallel Sonnet Edgelord wrote the ZNR-63 Connections bullet while this pass was reading the spec — re-read of ZNR-63 mid-Edit showed the file had been modified by the parallel agent, and the resulting content is identical in shape and substantive content to what this pass would have written. Had this pass landed first, files_modified would read: ['cards/magic-the-gathering/zendikar-rising/63-jace-mirror-mage.md']. The WAR-55 side was already complete from a prior pass and required no touch from either Edgelord.",
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "Mr. Nodeley near-miss — proposing cards/_characters/jace-beleren.md as a character node (parallel to the existing cards/_characters/nicol-bolas.md precedent set by an earlier Nodeley pass). The case is real: Jace Beleren is the most-printed planeswalker in Magic, future Collectr uploads will absolutely bring more Jace cards into the corpus, and the characters layer already exists with a working schema. Rejected for THIS pass because the edgelord spec sets the Nodeley trigger threshold at '3+ candidate cards share a concept that has no graph node yet' and the caller passed only 2. The 1:1 mirror is structurally correct at N=2; the character node becomes the right move at N≥3, at which point a future enlightened pass could refactor (remove the 1:1, add the character anchor, attach all three+ Jace cards) without losing information. Surfacing here so the caller knows the inflection point.",
+    "Designer-confirmed-cycle edge across the WAR Triumph cycle — the five Triumph cards (Gideon WAR-15, Jace WAR-55, Liliana WAR-98, Chandra WAR-121, Nissa WAR-170) are a Kieran-Yanner-illustrated callback to the Hour of Devastation Defeat cycle, with the templated '_X_'s triumph came not from _Y_, but from _Z_' flavor-text construction across all five. This is a 5-card stack with strong designer intent. Not drawn here because (a) WAR-55 and ZNR-63 are not co-members of that cycle and (b) the cycle warrants its own pass with the other four Triumph cards as co-inputs — likely a future Mr. Nodeley pass proposing a flavor-cycle node or a 1:N branch from a Triumph-cycle anchor.",
+    "Story-spotlight bookend pairing — Jace's Defeat (HOU-38) and Jace's Triumph (WAR-55) are a designer-confirmed before/after pair across two sets, two years apart, both rendered as templated cycles. If HOU-38 enters the corpus this becomes a clean 1:1 named-pair edge."
+  ],
+  "future_passes_anticipated": [
+    "When a third Jace card enters the corpus, an enlightened Edgelord pass can refactor: remove the WAR-55↔ZNR-63 1:1 mirror, propose a cards/_characters/jace-beleren.md node mirroring the nicol-bolas.md schema, attach all three+ cards via frontmatter pointers, and let the character node accrue future printings without N^2/2 mirror edges.",
+    "The Triumph cycle (5 cards, all Kieran-Yanner, all WAR, all uncommon, all single-color, templated flavor text) is a designer-confirmed flavor cycle that warrants either a flavor-cycle node or a 1:N branch from a 'wotc-flavor-cycle' anchor once 3+ of the five are in the corpus."
+  ]
+}

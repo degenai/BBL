@@ -73,3 +73,7 @@ A hooded male spellcaster in a heavy blue cloak stands at center with both arms 
 - Nahiri, Heir of the Ancients (Zendikar Rising) — the antagonist Jace pursues in the ZNR story, the lithomancer at the Murasa Skyclave
 - Nissa of Shadowed Boughs (Zendikar Rising) — Jace's storyline partner; she recruits him from Ravnica before the events at the Singing City
 
+## Connections
+
+- [[55-jace-s-triumph]] — Same character across two sets. Both depict Jace Beleren (Scryfall `subject_known_ip: Jace Beleren`, `ip_verified: true` on both; ZNR-63 type_line carries the `— Jace` planeswalker subtype, WAR-55 oracle text references "a Jace planeswalker"). The WAR-55 art is a contemplative third-eye-sigil close-up set during the Ravnica war while Jace is trapped under Bolas's Immortal Sun; this ZNR-63 art is an active mirror-image kicker spell from the post-WAR Zendikar arc pursuing Nahiri to the Murasa Skyclave. Two acts of the same character's storyline rendered by different artists (Kieran Yanner WAR, Tyler Jacobson ZNR), bound through the canonical Jace Beleren identity. [Scryfall: WAR-55 and ZNR-63 records] [MTG Wiki: Jace Beleren]
+

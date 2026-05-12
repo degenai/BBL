@@ -1,0 +1,166 @@
+{
+  "comparison_type": "node-suggester-top-10",
+  "opus_list_path": "C:/Users/alexa/Desktop/Bulk Graph Bundler/reports/node_suggestions_opus/top-10.json",
+  "sonnet_list_path": "C:/Users/alexa/Desktop/Bulk Graph Bundler/reports/node_suggestions_sonnet/top-10.json",
+  "generated_at": "2026-05-12",
+  "overlap": {
+    "shared_candidates": [
+      {
+        "opus_slug": "jace-beleren",
+        "sonnet_slug": "jace-beleren",
+        "concept": "Jace Beleren character node anchoring WAR-55 + ZNR-63 (canonical planeswalker, existing 1:1 card edge already drawn)",
+        "agreement_strength": "strong",
+        "opus_rank": 1,
+        "sonnet_rank": 3,
+        "type_agreement": "both character",
+        "members_overlap": "identical (2/2 cards match exactly)"
+      },
+      {
+        "opus_slug": "orzhov-syndicate",
+        "sonnet_slug": "orzhov-syndicate",
+        "concept": "Orzhov Syndicate as faction-institution hub (distinct from existing orzhov-signet symbol)",
+        "agreement_strength": "strong",
+        "opus_rank": 3,
+        "sonnet_rank": 4,
+        "type_agreement": "both hub",
+        "members_overlap": "5 of 5 Sonnet members appear in Opus list (Opus adds Vito M21-127); both flag the signet-vs-syndicate scope split as the live caveat"
+      },
+      {
+        "opus_slug": "tamiyo",
+        "sonnet_slug": "tamiyo",
+        "concept": "Tamiyo character node (moonfolk planeswalker, PLST-220 + MH3-72)",
+        "agreement_strength": "strong",
+        "opus_rank": 5,
+        "sonnet_rank": 6,
+        "type_agreement": "both character",
+        "members_overlap": "identical (2/2 cards match exactly); both flag MH3-72 ip_verified:false as the live caveat"
+      },
+      {
+        "opus_slug": "oko",
+        "sonnet_slug": "oko",
+        "concept": "Oko character node (Eldraine planeswalker, PLST-309 + ELD-312)",
+        "agreement_strength": "strong",
+        "opus_rank": 9,
+        "sonnet_rank": 7,
+        "type_agreement": "both character",
+        "members_overlap": "identical (2/2 cards match exactly); both note the existing 1:1 card edge makes this a node-promotion question rather than a new-edge question"
+      },
+      {
+        "opus_slug": "war-of-the-spark-uncommon-planeswalker-cycle",
+        "sonnet_slug": "war-of-the-spark-uncommon-planeswalker-cycle",
+        "concept": "WAR uncommon-planeswalker 20-card designer-confirmed cycle (Rosewater-documented templated design)",
+        "agreement_strength": "medium",
+        "opus_rank": 4,
+        "sonnet_rank": 8,
+        "type_agreement": "both 'other' (both agents flag the type-classification ambiguity — neither hub, symbol, character, nor artist quite fits)",
+        "members_overlap": "identical (Kiora WAR-232 + Angrath WAR-227); Sonnet additionally flags this as the weakest of its top-10 while Opus ranks it higher because it would prevent edge duplication on future uncommon-walker additions"
+      },
+      {
+        "opus_slug": "throne-of-eldraine-fairy-tale-cycle",
+        "sonnet_slug": "cinderella-cycle",
+        "concept": "Wizards-designer-confirmed Throne of Eldraine fairy-tale-objects cycle (Rosewater preview articles 'Eldraine or Shine' + 'More Odds & Ends')",
+        "agreement_strength": "medium",
+        "opus_rank": 10,
+        "sonnet_rank": 5,
+        "type_agreement": "Opus says 'other'; Sonnet says 'symbol' — both flag the same cycle-as-node-type ambiguity",
+        "members_overlap": "scope divergence: Opus proposes the broader fairy-tale-OBJECT cycle (11 cards across multiple Grimms' tales: Cinderella's pumpkin carriage + Hansel & Gretel's gingerbread + Snow White's casket + etc.); Sonnet proposes only the narrow Cinderella sub-cycle (2 cards). Both cite the same Rosewater articles for the same underlying cycle. Tie-break consideration: Sonnet's Cinderella-only scope leaves out 9+ enriched ELD cards that Opus's broader fairy-tale framing would absorb."
+      },
+      {
+        "opus_slug": "kieran-yanner",
+        "sonnet_slug": "war-of-the-spark-gatewatch-triumph-cycle",
+        "concept": "The 5-card WAR Triumph cycle by Kieran Yanner (Wizards art-directed callback to the HOU Defeat cycle). Both agents anchor the same real-world cycle phenomenon; they disagree on whether to model it as an artist node or as a cycle-as-symbol node.",
+        "agreement_strength": "weak",
+        "opus_rank": 8,
+        "sonnet_rank": 2,
+        "type_agreement": "DISAGREE: Opus = artist, Sonnet = symbol. This is a structural-modeling divergence the parent must resolve.",
+        "members_overlap": "Opus's Yanner list = 7 cards across multiple sets including 2 Triumph members. Sonnet's Triumph-cycle list = 3 cards (Jace's Triumph, Nissa's Triumph, Chandra's Pyrohelix — note Pyrohelix is not strictly a Triumph but Sonnet bundles it as same-character-same-set). The shared substrate is real (WAR Triumphs by Yanner are both an artist credit AND a designer-confirmed cycle); the disagreement is taxonomic. Could plausibly be modeled as BOTH (an artist node AND a cycle node, with cross-references) rather than either/or."
+      }
+    ],
+    "top3_overlap_count": 1,
+    "top3_overlap_detail": "Only jace-beleren appears in both top-3 (Opus #1, Sonnet #3). Opus's #2 (duskmourn-house) and #3 (orzhov-syndicate) do not appear in Sonnet's top-3; Sonnet's #1 (the-wanderer) and #2 (triumph-cycle) do not appear in Opus's top-3.",
+    "top10_overlap_count": 7,
+    "top10_overlap_detail": "5 candidates match strongly or medium (jace, orzhov, tamiyo, oko, war-spark-uncommon-cycle). 2 candidates match weakly/conceptually with different framings (fairy-tale-cycle ↔ cinderella-cycle; kieran-yanner ↔ triumph-cycle). 3 candidates appear only on Opus's list (duskmourn-house, valgavoth, slawomir-maniak); 3 candidates appear only on Sonnet's list (the-wanderer, teferi, johto-evolution-line).",
+    "overlap_pct": 70.0
+  },
+  "divergences": {
+    "opus_only": [
+      {
+        "slug": "duskmourn-house",
+        "type": "hub",
+        "opus_rank": 2,
+        "judge_note": "This is the most surprising Opus-only candidate. Opus stakes 6 trivia-passed Duskmourn cards as a plane-as-plot hub; Sonnet does not propose any Duskmourn node at all (neither plane nor antagonist). Sonnet's omission is notable because the Duskmourn cards are demonstrably load-bearing for a future horror-themed bundle. The graph-state snapshot in Sonnet's sidecar reports 390 enriched MTG cards vs Opus's 728, suggesting the two agents may have been reading different graph snapshots and Sonnet's window into the Duskmourn corpus may have been smaller. This deserves caller follow-up: was the Duskmourn cluster fully visible to Sonnet?"
+      },
+      {
+        "slug": "valgavoth",
+        "type": "character",
+        "opus_rank": 6,
+        "judge_note": "Opus proposes Valgavoth as the Duskmourn antagonist character (off-frame Bolas-Falls precedent). Sonnet skips the entire Duskmourn cluster including this sibling candidate. Same observation as duskmourn-house: this may be a corpus-visibility gap on Sonnet's side, not a substantive disagreement."
+      },
+      {
+        "slug": "slawomir-maniak",
+        "type": "artist",
+        "opus_rank": 7,
+        "judge_note": "Opus proposes Maniak as a second artist node (after kieran-yanner). Sonnet proposes zero artist nodes in its top-10. This is a structural bias: Opus reaches more readily for the artist layer when the corpus carries 3+ credits, while Sonnet treats artist nodes as the weakest valid category and prefers to absorb the same evidence under cycle-symbol nodes instead. Worth surfacing to Alex — the brand has only one artist node so far (jenn-ravenna-tran) and the dual-pipeline reveals that Sonnet wouldn't have expanded the artist layer at all in this pass."
+      }
+    ],
+    "sonnet_only": [
+      {
+        "slug": "the-wanderer",
+        "type": "character",
+        "sonnet_rank": 1,
+        "judge_note": "Sonnet's #1 pick is striking because it rests on a single trivia-passed card (Wanderer's Strike) with ip_verified:false in frontmatter. Opus does not propose The Wanderer at all, presumably because the corpus-density threshold (2+ trivia-passed cards) is not met. Sonnet's case leans on forward-looking corpus growth (the multi-printing Wandering Emperor identity arc) rather than current evidence. Opus would have called this premature; the dual-pipeline correctly surfaces it as a Sonnet-bias toward narrative significance over corpus density."
+      },
+      {
+        "slug": "teferi",
+        "type": "character",
+        "sonnet_rank": 9,
+        "judge_note": "Same pattern as the-wanderer — Sonnet proposes a character node off a single trivia-passed card (Opt, M21-59) with flavor-text mention as the anchor. Opus's threshold rejects this. Sonnet flags it in its own caveats as the weakest of its top-10 ('Thin evidence base by current corpus'). Probably should not be commissioned in this pass; Sonnet's own self-assessment confirms the rank-9 placement is honest-filler."
+      },
+      {
+        "slug": "johto-evolution-line",
+        "type": "hub",
+        "sonnet_rank": 10,
+        "judge_note": "Sonnet is the only agent that reaches into the Pokemon corpus at all. Both agents treat 250 enriched Pokemon cards as substantially under-explored; Sonnet's Johto hub is its honest attempt to surface a Pokemon-side node. Sonnet itself flags it as a weak candidate because Johto is a region/generation (taxonomic) rather than a thematic concept (Labor / Rebellion / Chinese Zodiac pattern). Opus skips Pokemon entirely. The right read: BOTH agents identify a graph-shape gap on the Pokemon side, but neither has a strong candidate to propose. Surface this to Alex as a 'the Pokemon layer needs a deliberate node-architecture pass' signal, not as a commission target."
+      }
+    ]
+  },
+  "type_distribution_agreement": {
+    "opus_breakdown": {
+      "character": 4,
+      "hub": 2,
+      "symbol": 0,
+      "artist": 2,
+      "other": 2
+    },
+    "sonnet_breakdown": {
+      "character": 5,
+      "hub": 2,
+      "symbol": 2,
+      "artist": 0,
+      "other": 1
+    },
+    "agreement_score": "medium",
+    "agreement_notes": "Both agents agree on the character-heavy weighting (4 vs 5) and identical hub count (2 each). The structural disagreement is sharp on artist-vs-symbol: Opus has 2 artist nodes and 0 symbol nodes; Sonnet has 0 artist nodes and 2 symbol nodes. They are using different graph-layer strategies to absorb the same designer-confirmed-cycle evidence. Opus says 'this is the artist's stylistic continuity'; Sonnet says 'this is the cycle's design-template continuity.' Both readings are valid; the parent should decide which strategy fits the brand better. Note also that neither agent proposes a Pokemon-side node above rank 10 — the Pokemon layer is structurally underdeveloped in both readings."
+  },
+  "structural_observations_synthesis": "Both agents agree the graph's near-term growth is character-heavy: the 2 existing character nodes (nicol-bolas, jenn-ravenna-tran-as-character — actually jenn is an artist; nicol-bolas + one other) should be joined by 3-5 more in the next pass. Both agents agree the Orzhov layer is the highest-priority hub expansion, with the signet-vs-syndicate scope question as the live caveat both name. Both agents agree the WAR uncommon-planeswalker cycle, the ELD fairy-tale cycle, and the WAR Triumph cycle are first-class structural concepts that the graph's existing layer types do not cleanly accommodate — the 'cycle as a node type' question is now load-bearing across three independent proposals and the parent likely needs a deliberate decision on whether to introduce a cycles layer or fold cycles into hubs-with-design-intent annotation. They diverge on two systematic axes: (1) artist vs symbol weighting — Opus treats artist credit accumulation as a first-class node trigger (Yanner, Maniak); Sonnet treats artist credit as ancillary to the cycle-symbol the artist served, and prefers a cycle-as-symbol node over an artist node for the same evidence. (2) Density vs anticipation — Opus requires 2+ trivia-passed cards to propose a character node; Sonnet will propose a character node off 1 trivia-passed card if the character's narrative significance is high (the-wanderer, teferi). Opus's heuristic is more conservative; Sonnet's is more forward-looking. Neither is wrong; they expose a real strategy choice for the bbl-bundler downstream. Finally, both agents miss the Pokemon side of the corpus — Sonnet's rank-10 Johto hub is the only Pokemon candidate across both lists and it is honestly self-flagged as weak. The parent should treat the Pokemon graph-shape gap as a separate workstream rather than expecting node-suggester runs to surface it organically.",
+  "high_confidence_node_recommendations": [
+    "jace-beleren (character) — Opus #1, Sonnet #3, identical members, strong agreement, textbook Mr. Nodeley promotion trigger (existing 1:1 card edge already drawn, scales to future Jace acquisitions). COMMISSION FIRST.",
+    "orzhov-syndicate (hub) — Opus #3, Sonnet #4, 5 of 5 members shared, both flag identical signet-vs-syndicate caveat, anchors the existing Tithe bundle's apparatus-of-extraction thesis. COMMISSION SECOND with the Mr. Nodeley pass instructed to write the signet-symbol cross-reference into both MDs.",
+    "tamiyo (character) — Opus #5, Sonnet #6, identical members, strong agreement, one rank outside Sonnet's strict top-5 but functionally equivalent. Both flag MH3-72 ip_verified:false as the live caveat. COMMISSION CONDITIONAL on trivia-passing MH3-72 first, OR commission on the Wizards-confirmed PLST-220 identity alone (Tamiyo's identity is unambiguous from the card title and the existing trivia)."
+  ],
+  "secondary_recommendations": [
+    "oko (character) — both top-10, strong agreement, identical members, BUT both agents note the existing 1:1 card edge already covers the immediate work; this is a forward-looking commission. Lower priority than the high-confidence three; commission if the parent wants to lock the character layer's expansion pattern.",
+    "war-of-the-spark-uncommon-planeswalker-cycle / throne-of-eldraine-fairy-tale-cycle / war-of-the-spark-gatewatch-triumph-cycle — three independent cycle-as-node proposals across both agents. Do NOT commission as individual nodes until the parent decides on the cycles-layer architecture (new graph dimension vs hub-with-annotation vs symbol-with-design-intent). Surface this as a parent-decision blocker.",
+    "duskmourn-house (hub) — Opus #2 but Sonnet-blind. Verify Sonnet's corpus snapshot included Duskmourn before deciding. If Sonnet missed the cluster, this is a true high-confidence pick obscured by a corpus-visibility artifact; if Sonnet saw it and rejected, this is genuine divergence and the parent should examine why."
+  ],
+  "do_not_commission_yet": [
+    "the-wanderer (Sonnet #1) — single trivia-passed card, ip_verified:false, Sonnet's own narrative-significance bias drove the rank. Wait for second Wanderer card to enter inventory.",
+    "teferi (Sonnet #9) — single trivia-passed card with flavor-text mention; Sonnet self-flags as weak. Wait.",
+    "johto-evolution-line (Sonnet #10) — Sonnet self-flags as taxonomic-not-thematic and as breaking the hub-architecture pattern. Treat the Pokemon graph-shape gap as a separate workstream.",
+    "slawomir-maniak (Opus #7) — single-agent proposal in the contested artist-vs-symbol layer; defer until parent decides on artist-node expansion strategy.",
+    "valgavoth (Opus #6) — defer pending duskmourn-house hub resolution; if the hub is commissioned, Valgavoth becomes the natural sibling-character commission in the following pass."
+  ],
+  "parent_action": "commission-the-high-confidence-set",
+  "parent_action_detail": "Commission jace-beleren, orzhov-syndicate, and tamiyo as the Mr. Nodeley queue for the next pass. Treat oko as the immediate-next candidate after the three are live. Hold the cycle-as-node-type question for a deliberate Alex decision (it is now blocking three independent proposals across both agents). Verify Sonnet's corpus snapshot before treating duskmourn-house as divergence — the graph_state_snapshot field shows Sonnet read 390 enriched_mtg_count vs Opus's 728, which suggests a snapshot-mismatch artifact rather than a substantive disagreement.",
+  "judge_notes": "Two competent reasoners arrived at substantial agreement on the foundation of the next node-suggester pass: jace-beleren and orzhov-syndicate are unambiguously the highest-confidence commissions, with tamiyo the natural third once the MH3-72 ip-verified caveat is resolved. The interesting divergence is taxonomic — Opus reaches for artist nodes where Sonnet reaches for symbol-as-cycle nodes, both absorbing the same WAR Triumph evidence under different graph layers. Neither approach is wrong, but the brand only has one artist node so far and the dual-pipeline correctly surfaces that the artist layer's expansion strategy is now a deliberate-decision point rather than a default behavior. Three independent cycle-as-node proposals (WAR uncommon-walker cycle, ELD fairy-tale cycle, WAR Triumph cycle) make it clear the graph needs a cycles-layer architectural decision before any of them can be commissioned cleanly. Sonnet's narrative-significance bias produced one over-eager pick (the-wanderer at #1 on a single trivia-passed card) and one honest-filler pick (teferi at #9, self-flagged as weak). Opus's corpus-density discipline produced no such over-reaches but missed the Pokemon layer entirely. The most important diagnostic finding is the graph_state_snapshot mismatch: Sonnet reports 390 enriched_mtg_count while Opus reports 728, and Sonnet failed to surface any of the 6+ Duskmourn cards Opus stakes as hub-load-bearing. Before the parent treats duskmourn-house as a genuine Opus-only candidate, verify whether Sonnet's snapshot included the Duskmourn cluster. If it did not, the divergence is an artifact of asymmetric corpus visibility, not of model judgment. Commit the high-confidence three, hold the cycles-layer decision for Alex, and run the Pokemon-layer node-architecture pass as a separate workstream."
+}

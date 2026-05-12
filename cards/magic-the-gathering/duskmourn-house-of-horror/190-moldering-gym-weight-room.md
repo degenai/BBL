@@ -67,3 +67,7 @@ A two-panel composition depicting a ruined fitness facility. The left panel is t
 - `[[Mirror Room // Fractured Realm]]` (DSK) — featured on the Duskmourn key art per MTG Wiki; highest-profile Room in the set.
 - `[[Unwanted Remake]]` (DSK) — Wizards' designated example card for the *manifest dread* keyword that Weight Room triggers.
 
+## Connections
+
+- [[189-manifest-dread]] — Oracle-text mechanical dependency: Weight Room's unlock effect reads "manifest dread" by name, directly invoking the keyword that Manifest Dread both names and defines. Manifest Dread is the only Magic card whose card name, keyword action, and complete rules text are identical; the Room mechanic was designed for Duskmourn's labyrinthine plane in the same design cycle that finalized the manifest dread keyword. [Scryfall: 189-manifest-dread oracle_text] [Wizards: Top of the Duskmourning Part 1 and Part 2, Mark Rosewater 2024] [MTG Wiki: Manifest dread] [MTG Wiki: Room]
+

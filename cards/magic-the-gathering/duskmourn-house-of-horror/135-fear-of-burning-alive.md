@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
+characters: ["fear-of-cycle"]
 tags_hub: ["fire", "skull", "demon", "nightmare", "horror", "horns", "souls", "burning", "phobia", "monster", "screaming", "damnation"]
 tags_filter: ["solo", "mid-shot", "action-mode", "three-quarter-facing", "creature-nightmare", "enchantment-creature", "red-magic", "mono-red", "no-face-human", "delirium"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/135-fear-of-burning-alive.png

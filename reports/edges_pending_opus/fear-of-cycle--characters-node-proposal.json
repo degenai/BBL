@@ -1,0 +1,80 @@
+{
+  "edge_id": "fear-of-cycle--characters-node-proposal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "node_proposed": {
+    "layer": "characters",
+    "layer_status": "existing (nicol-bolas precedent)",
+    "path": "cards/_characters/fear-of-cycle.md",
+    "name": "Fear-of cycle (Duskmourn phobia-Nightmares)",
+    "type_field": "character",
+    "frontmatter_pattern_basis": "cards/_characters/endriders.md (the closest precedent — collective-entity character node with appears_on cycle-member list, related_hubs pointing to BBL hubs, caveats noting potential future re-home to a sibling layer)"
+  },
+  "endpoints_now_pointing_at_node": [
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/9-fear-of-abduction.md", "name": "Fear of Abduction (DSK-9)"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/55-fear-of-failed-tests.md", "name": "Fear of Failed Tests (DSK-55)"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/56-fear-of-falling.md", "name": "Fear of Falling (DSK-56)"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/134-fear-of-being-hunted.md", "name": "Fear of Being Hunted (DSK-134)"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/135-fear-of-burning-alive.md", "name": "Fear of Burning Alive (DSK-135)"}
+  ],
+  "description": "Sir, Edgelord steps aside. Mr. Nodeley apologizes for the inconvenience. Five inventory cards share the 'Fear of <phobia>' naming convention as a designer-coordinated Duskmourn cycle of Enchantment Creature — Nightmare cards, one phobia personified per card, name-pattern uniform across the cycle. Two are fully enriched (Fear of Being Hunted DSK-134, Fear of Burning Alive DSK-135 — vision pass complete, trivia pass not yet but the Vision Design Handoff 'phobias as antagonists' framing is already cited in Horrid Vigor DSK-184 trivia). Three are vision-stub bare-frontmatter (DSK-9, DSK-55, DSK-56) and currently have no graph attachment. Drawing 1:1 mirror edges between any pair would write 10 (5 choose 2) bullets all pointing at an absent center; the right shape is a cycle-anchor character node, mirroring the Endriders faction-collective precedent. Once anchored, the three stub cards already have a graph home before triviabot reaches them — the load-bearing connection is the design-cycle membership, not any single per-card narrative beat. I hope this is acceptable.",
+  "citations": [
+    "[MTG Wiki: Duskmourn: House of Horror — set page, Cycles section]",
+    "[Scryfall: set DSK; name-prefix `Fear of` returns shared Enchantment Creature — Nightmare type-line]",
+    "[Wizards: Duskmourn Vision Design Handoff — phobias-as-antagonists design register, cited via Horrid Vigor DSK-184 trivia and WebSearch snippet]",
+    "[Scryfall per-card pages for DSK-9, DSK-55, DSK-56, DSK-134, DSK-135 — primary source for oracle_text, type_line, flavor_text strings]"
+  ],
+  "files_modified": [
+    "cards/_characters/fear-of-cycle.md (CREATED)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/9-fear-of-abduction.md (added characters: [\"fear-of-cycle\"] frontmatter pointer)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/55-fear-of-failed-tests.md (added characters: [\"fear-of-cycle\"] frontmatter pointer)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/56-fear-of-falling.md (added characters: [\"fear-of-cycle\"] frontmatter pointer)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/134-fear-of-being-hunted.md (added characters: [\"fear-of-cycle\"] frontmatter pointer)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/135-fear-of-burning-alive.md (added characters: [\"fear-of-cycle\"] frontmatter pointer)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "alternatives_considered": [
+    {
+      "candidate": "Hub at cards/_hubs/duskmourn-set.md (the slasher/Freddy/Jason/Amityville/haunted-mansion-as-plane thesis hub anchoring all 6 trivia-passed Duskmourn cards)",
+      "why_skipped": "Per memory bbl-hubs-hand-curated: hubs are foundational brand-anchor concepts authored by Alex (Labor, Rebellion, Chinese Zodiac), never auto-generated from set context. A set-level hub for Duskmourn would violate that rule even though the slasher/Vision-Design-Handoff thesis is canonically documented across 6 cards. Wrong layer. If Alex wants a 'modern horror' or 'slasher' hub, that's a hand-curated authoring decision, not Mr. Nodeley's call."
+    },
+    {
+      "candidate": "Character node at cards/_characters/valgavoth.md (Duskmourn's demon antagonist, referenced in 7 cluster cards' trivia and depicted on Valgavoth, Harrower of Souls — DSK Commander 6)",
+      "why_skipped": "Only ONE trivia-passed corpus card (Slavering Branchsnapper DSK-198) explicitly anchors a canonical Valgavoth lore beat (the swallowed-suns / two-sun-consumption ascension narrative). The other six cards reference Valgavoth as 'the demon ruler of Duskmourn' in set-context boilerplate, not as a depicted-character anchor. Single-source for the load-bearing narrative beat is below the 3+ threshold. The marquee in-set Valgavoth card (Valgavoth, Harrower of Souls, DSK Commander 6, Chris Cold art) is NOT in inventory — flagged in Horrid Vigor DSK-184's Related cards as not-currently-owned. Without an in-inventory Valgavoth depiction to anchor, the character node would be a node-without-a-canonical-example-card. Defer until Valgavoth Harrower of Souls (or another Valgavoth depiction) lands in inventory."
+    },
+    {
+      "candidate": "Edgelord 1:1 mirror between Slavering Branchsnapper (DSK-198) and Horrid Vigor (DSK-184) on the Valgavoth-art-language tie",
+      "why_skipped": "Branchsnapper depicts the swallowed-suns motif (per its trivia); Horrid Vigor is Chris Cold art, the same artist as Valgavoth Harrower of Souls. The would-be connection is 'both reference Valgavoth contextually,' which is set-context, not narrative-load-bearing. Sharing 'set-villain implied in the background' is a tag-bridge through Valgavoth-as-set-concept, not a card-to-card edge. Worst proposed edge ever. Refuse."
+    },
+    {
+      "candidate": "Edgelord 1:1 mirror between Manifest Dread (DSK-189) and Moldering Gym // Weight Room (DSK-190): Weight Room triggers manifest dread on unlock, making it the canonical in-set Room-card example of the eponymous-keyword mechanic",
+      "why_skipped": "Mechanically clean and designer-confirmed (Weight Room reads 'manifest dread' in its oracle text). But the connection is mechanical-cycle membership, not narrative cohesion — Manifest Dread is a {U/G} instant naming the keyword, Weight Room is a basic-land tutor whose back-face triggers it. The two cards share an oracle-text reference, not an art or canon beat. Worth flagging for the bundler to consider as a manifest-dread mechanical micro-cluster (Manifest Dread + Innocuous Rat + Weight Room + Unwanted Remake), but the edge belongs to a future Mr. Nodeley pass proposing a manifest-dread keyword-cycle node, not a 1:1 edge between just these two. Defer."
+    },
+    {
+      "candidate": "Edgelord 1:1 mirror between Say Its Name (DSK-197) and Slavering Branchsnapper (DSK-198) — adjacent collector numbers, both Sam-Wolfe-Connelly-adjacent in the green-section of DSK, both reference larger monsters not in inventory (Altanak for Say Its Name; Valgavoth backdrop for Branchsnapper)",
+      "why_skipped": "Adjacency of collector numbers is meta-trivia, not narrative connection. Say Its Name's lore beat is the Bloody-Mary / Beetlejuice speak-the-name ritual that summons Altanak; Branchsnapper's lore beat is Zimone's Strixhaven-survivor cohort exploiting a Duskmourn beast's rampage to navigate the hedge maze. Different artists (Connelly vs Tedrick), different narrative pockets, different load-bearing canon. No real edge."
+    },
+    {
+      "candidate": "Edgelord 1:1 mirror between Horrid Vigor (DSK-184) and Slavering Branchsnapper (DSK-198) on shared Survivor-flavor-text speakers (Sunrise survivor sentry on Vigor; Zimone Wola's hedge-maze survivor band implied on Branchsnapper)",
+      "why_skipped": "Sunrise is a flavor-text-only one-off survivor sentry with no MTG Wiki page (Horrid Vigor trivia confirms). Zimone Wola is a canonical Strixhaven character, a named Planeswalker-survivor in Duskmourn. The two speakers are not the same survivor cohort and not designer-coordinated as a pair. The Survivor creature-type is a set-wide flavor design (the set has a Survivor typal subtheme tied to the Survival ability word) — that's a set-wide cycle/hub-tier concept, not a 1:1 edge between these two cards. Tag-bridge through the Survivor type, not narrative."
+    },
+    {
+      "candidate": "Edgelord 1:1 mirror between Betrayer's Bargain (DSK-126, Winter character) and a future Niko card — Winter's flavor text addresses Niko by name ('This is my way out. You'll have to find your own.' — Winter, to Niko)",
+      "why_skipped": "No Niko card in current corpus. The dialogue beat is real and canonical (Winter and Niko Aris are both Duskmourn story protagonists, Winter explicitly addresses Niko in the flavor text), but the edge endpoint card does not exist in our inventory. Flag for a future Edgelord pass when a Niko-Aris-depicting Duskmourn card lands. The Niko character node itself could be Mr. Nodeley fodder once 3+ Niko cards arrive."
+    }
+  ],
+  "future_passes_unlocked": [
+    "Trivia pass on the three vision-stub Fear-of cards (DSK-9, DSK-55, DSK-56) can canonicalize the full cycle roster via MTG Wiki cross-reference (whether DSK has additional Fear-of cards at other rarities, whether Alchemy: Duskmourn extended the cycle, whether the cycle is 5-color uniform or weighted) and update this node's appears_on: list accordingly.",
+    "A future 'Fears of Duskmourn' Discrete Lair could anchor on this node — 5 cards all converging on phobia-as-monster, sellable as a horror-themed bundle with the Vision Design Handoff thesis as buyer-facing context. Bundle-cohesion stack topology is in place.",
+    "If Alex wants a hand-curated 'modern horror' or 'slasher' hub at cards/_hubs/, this cycle node would related_hubs: into it cleanly. The hub edge in this node's frontmatter is empty for now — when the hub exists, this is a 1-line update.",
+    "A future _cycles/ layer (if Alex adopts one) becomes the canonical home for this entry and for sibling cycles (Cinderella in ELD, Survivor typal in DSK, manifest-dread keyword micro-cycle in DSK, the Bolas-Falls story-spotlight cluster in WAR which is currently in _characters/). The Endriders precedent's caveat already flags this re-home possibility; this node inherits the same flag."
+  ],
+  "layer_proposal_notes": {
+    "directory": "cards/_characters/ (already exists, nicol-bolas + endriders precedents)",
+    "underscore_prefix_satisfies_wikilintbot_non_card_guard": true,
+    "wikilintbot_type_list_currently_accepts": ["hub", "symbol", "artist", "character"],
+    "recommendation": "wikilintbot already accepts type: character (per wikilintbot.py line 188 — confirmed during this pass). No code changes required. The forward-compat note in the nicol-bolas proposal has already been incorporated.",
+    "frontmatter_schema_notes": "Schema follows the Endriders precedent (collective-entity character) rather than the Nicol-Bolas precedent (individual character). Key differences: faction: ~ (the cycle is not a faction), species: 'cycle of Enchantment Creature — Nightmare cards' (descriptive type-line rather than biological), ip_resolution_for field omitted (the cycle is not a Wizards-IP-resolution target for suspected_ip frontmatter the way individual named characters are)."
+  }
+}

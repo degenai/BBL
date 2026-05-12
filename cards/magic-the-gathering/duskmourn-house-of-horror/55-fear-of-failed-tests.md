@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
+characters: ["fear-of-cycle"]
 tags_hub: []
 tags_filter: []
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/55-fear-of-failed-tests.png

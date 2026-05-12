@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
+characters: ["fear-of-cycle"]
 tags_hub: ["fear", "hunted", "predator", "nightmare", "skull", "rabbit", "skeletal", "haunted-house", "trap", "stalking", "ghost", "horror", "monster", "bones"]
 tags_filter: ["solo", "mid-shot", "faces-left", "scene-mode", "no-face", "creature-nightmare", "enchantment-creature", "red-magic", "haste", "must-be-blocked", "duskmourn", "fear-of-cycle"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/134-fear-of-being-hunted.png

@@ -1,0 +1,42 @@
+{
+  "slice": "Jace Beleren pair — WAR-55 Jace's Triumph + ZNR-63 Jace, Mirror Mage",
+  "opus_proposal_path": "reports/edges_pending_opus/55-jace-s-triumph--63-jace-mirror-mage.json",
+  "sonnet_proposal_path": "reports/edges_pending_sonnet/55-jace-s-triumph--63-jace-mirror-mage.json",
+  "convergence_outcome": "full-converge",
+  "axes": {
+    "structural_agreement": "high",
+    "evidentiary_agreement": "high",
+    "refusal_symmetry": "n/a"
+  },
+  "agreed_move": {
+    "shape": "1:1",
+    "topology": "mirror",
+    "endpoints": [
+      "cards/magic-the-gathering/war-of-the-spark/55-jace-s-triumph.md",
+      "cards/magic-the-gathering/zendikar-rising/63-jace-mirror-mage.md"
+    ],
+    "category": "named-character-identity",
+    "citations_union": [
+      "Scryfall: WAR-55 record — oracle_text references 'a Jace planeswalker'; subject_known_ip: Jace Beleren; ip_verified: true",
+      "Scryfall: ZNR-63 record — type_line 'Legendary Planeswalker — Jace' (subtype reserved for printings of Jace Beleren); ip_verified: true",
+      "MTG Wiki: Jace Beleren — War of the Spark section confirms Ravnica/Immortal-Sun captivity beat; Zendikar Rising section confirms Nahiri-pursuit / Murasa-Skyclave arc"
+    ]
+  },
+  "divergences": [
+    {
+      "field": "files_modified",
+      "opus_value": "[] (parallel Sonnet pass landed the edit during Opus's spec read)",
+      "sonnet_value": "['cards/magic-the-gathering/zendikar-rising/63-jace-mirror-mage.md']",
+      "judge_note": "Not a substantive divergence — race condition on file landing. Both agents proposed identical surgical edits to ZNR-63 (reciprocal Connections bullet); Sonnet's hand reached the file first. Opus self-documents the convergence in its sidecar's files_modified_note. Outside scope of the judge's verdict on the proposed move."
+    },
+    {
+      "field": "other_candidates_considered (depth)",
+      "opus_value": "Surfaces three: Mr. Nodeley character-node near-miss at N=2 with explicit N>=3 trigger threshold; WAR Triumph 5-card designer-confirmed-cycle; Jace's Defeat HOU-38 bookend.",
+      "sonnet_value": "Surfaces three: WAR Triumph cycle; Defeat/Triumph bookend; Mirror Mage kicker-as-doppelganger tagging note.",
+      "judge_note": "Both lists cover the same airspace — Triumph cycle, Defeat bookend, plus one model-specific extra. Opus's Mr. Nodeley near-miss is more load-bearing for future passes (defines the refactor inflection point); Sonnet's kicker-mechanic note is a sharper one-card observation. Complementary, not contradictory. Not a divergence in the proposal."
+    }
+  ],
+  "parent_action": "commit-converged-proposal",
+  "recommended_implementation": "The Sonnet-landed edit on cards/magic-the-gathering/zendikar-rising/63-jace-mirror-mage.md is the converged proposal. Parent should verify the ZNR-63 Connections bullet on disk matches both sidecars' intent (reciprocal mirror back to WAR-55, two-acts-of-one-storyline framing). No further edits required on either card this pass.",
+  "judge_notes": "Both proposals match on shape (1:1), topology (mirror), endpoints (WAR-55 and ZNR-63 in the same order), category (named-character-identity), and mood (sighed-but-mirrored). Citation chains overlap on the two Scryfall records and the MTG Wiki Jace Beleren entry — same underlying facts, identical phrasing on the wiki cite. The only difference of substance is which agent's hand reached the disk first; Sonnet landed the ZNR-63 Connections bullet while Opus was still reading the spec, and Opus's sidecar acknowledges the race and confirms structural identity of the would-have-written edit. The auxiliary observations (Triumph cycle, Defeat bookend) appear in both other_candidates_considered lists with the same deferral reasoning. Opus additionally flags the Mr. Nodeley character-node inflection point at N>=3 Jace cards — worth keeping on file for the next pass but not material to this verdict. Commit."
+}

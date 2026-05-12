@@ -1,0 +1,38 @@
+{
+  "edge_id": "189-manifest-dread--190-moldering-gym-weight-room",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/duskmourn-house-of-horror/189-manifest-dread.md",
+      "name": "Manifest Dread"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/duskmourn-house-of-horror/190-moldering-gym-weight-room.md",
+      "name": "Moldering Gym // Weight Room"
+    }
+  ],
+  "description": "Two card-endpoints. Both equal nodes. Must be traversable from either side. Hence the mirror. The sigh is professional, not personal. But I will say this: the connection is cleaner than most I'm handed. Weight Room's oracle text literally reads 'manifest dread.' Manifest Dread is the only card in Magic where the card name, the keyword action, and the complete rules text are the same string. One card names the other's entire identity in a rules interaction. That's not a tag. That's load-bearing canonical text. The design articles confirm both mechanics — Room and manifest dread — were finalized in the same Duskmourn vision design cycle. The trivia passes documented it. The oracle text is right there. This one earns the mirror.",
+  "citations": [
+    "[Scryfall: 190-moldering-gym-weight-room oracle_text]",
+    "[Scryfall: 189-manifest-dread oracle_text]",
+    "[Wizards: Top of the Duskmourning Part 1, Mark Rosewater 2024]",
+    "[Wizards: Top of the Duskmourning Part 2, Mark Rosewater 2024-09-09]",
+    "[MTG Wiki: Manifest dread]",
+    "[MTG Wiki: Room]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/duskmourn-house-of-horror/189-manifest-dread.md",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/190-moldering-gym-weight-room.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "Fear-of cycle node (Mr. Nodeley trigger): 5 Fear-of cards in corpus (9, 55, 56, 134, 135), no cycle node yet, above 3+ threshold. Strongest Nodeley candidate in this batch — any 1:1 edge between two Fear-of cards is weakened by the absent cycle anchor. Recommend a dedicated Mr. Nodeley pass.",
+    "Say Its Name paired with Altanak the Thrice-Called: oracle text names the relationship, speak-the-name ritual mechanic, same artist. Altanak is not in inventory — edge would be card-to-absent-card. Deferred until Altanak joins the corpus.",
+    "Horrid Vigor / Slavering Branchsnapper toward a Duskmourn set hub: both trivia-passed with Valgavoth / design-influence citations, but only 2 cards meet the depth threshold — below 3+ for a set hub node. Not yet.",
+    "Betrayer's Bargain (walkman) and Manifest Dread (design unicorn): proposed by caller as aesthetic edge. They share a set, indoor horror setting, and music objects (walkman vs. no music object in Manifest Dread's art). No canonical story link, no character identity, no oracle text dependency. Tag bridge, not an edge. Rejected."
+  ]
+}
