@@ -1,0 +1,50 @@
+{
+  "edge_id": "angrath-captain-of-chaos--kiora-behemoth-beckoner",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/war-of-the-spark/227-angrath-captain-of-chaos.md",
+      "name": "Angrath, Captain of Chaos (WAR-227, U)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner.md",
+      "name": "Kiora, Behemoth Beckoner (WAR-232, U)"
+    }
+  ],
+  "description": "Two uncommon planeswalkers, same War of the Spark cycle, same Rosewater-walked design template. One static/triggered ability, one negative-loyalty ability. Cited in both cards' Trivia already, just not edged. Routine mirror. Two card-endpoints, equal nodes, must be traversable from either side. Hence the mirror. The sigh is professional, not personal. Note: this cycle has ~20 members total and currently only 2 are trivia-passed in the corpus. If that count climbs past 3, Mr. Nodeley will take over and propose a `war-of-the-spark-uncommon-walker-cycle` hub or symbol; until then, 1:1 mirror is correct and Edgelord owns it.",
+  "citations": [
+    "[magic.wizards.com: \"Waging War of the Spark, Part 1\", Mark Rosewater, 2019-04-01]",
+    "[MTG Wiki: War of the Spark]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/war-of-the-spark/227-angrath-captain-of-chaos.md",
+    "cards/magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    {
+      "candidate": "Aetherdrift racing cluster (~11 cards: vehicles, pilots, pit crew, refuelers)",
+      "verdict": "Mr. Nodeley considered. Refused. `racing` is set-themed, not brand-anchor. Alex would not author `racing.md` as a hub the way he authored `labor.md`, `rebellion.md`, `chinese-zodiac.md` — those are *foundational concepts* in the project's voice, not set themes. No shared iconographic primitive for a symbol either (cars, goggles, dracosaur mounts, hover-bikes — too varied). The `pit-crew` / `mechanic` / `service-worker` thread on Elvish Refueler is a genuine labor-hub bridge, but that's one card and it can attach to the existing labor hub directly without a new node. Defer."
+    },
+    {
+      "candidate": "Duskmourn slasher-horror cluster (~12 cards, body-horror, haunted-house, swallowed-suns)",
+      "verdict": "Mr. Nodeley considered. Valgavoth (the set boss who ate Duskmourn's two suns) is a candidate character node — only one trivia-passed card explicitly invokes him (Slavering Branchsnapper). Threshold of 3+ for a character-layer node not yet met. Hold for next pass once more Duskmourn cards land in trivia. The set-as-hub option (`duskmourn-horror.md`) is filter-tier, not hub-tier — same objection as racing. Defer."
+    },
+    {
+      "candidate": "Tamiyo character node (Tamiyo Collector of Tales trivia-passed + Tamiyo Meets the Story Circle vision-only)",
+      "verdict": "Mr. Nodeley considered. 1.5 cards — below the 3+ threshold. Add when Tamiyo Meets the Story Circle gets its trivia pass and at least one additional Tamiyo printing enters the corpus. Strong future candidate. Defer."
+    },
+    {
+      "candidate": "Despark / Topple the Statue / Prison Realm chain (story-spotlight trio)",
+      "verdict": "Already covered by the `nicol-bolas` character node from the prior pass. Topology there is `branch` (Bolas → 3 cards); the chain is anchored through the character node, not card-to-card. Enlightenment territory only if I wanted to refactor card-to-card edges to character-node edges — but the prior pass already did that work cleanly. No move."
+    }
+  ],
+  "future_passes_hinted": [
+    "When WAR uncommon planeswalker cycle count in corpus reaches 3+, transform to Mr. Nodeley and propose a designer-confirmed-cycle node (likely `cards/_symbols/war-uncommon-walker-cycle.md` or a small `cards/_hubs/`-adjacent cycle node — schema TBD). The 1:1 edge between Angrath and Kiora becomes a candidate for enlightened replacement at that point: dissolve the card-to-card mirror, fan both cards through the new cycle node.",
+    "Bundler-relevance signal: this edge is too thin to anchor a Discrete Lair on its own. War of the Spark as a whole could anchor a 'planeswalker-glut / labor-conscription' lair (the Dreadhorde as forced-labor army; the uncommon walkers as conscripts), and this Angrath-Kiora mirror is a small structural ingredient toward that — but the lair would need the full Bolas-Falls cluster plus 3–4 more uncommon walkers to be ready to author."
+  ]
+}

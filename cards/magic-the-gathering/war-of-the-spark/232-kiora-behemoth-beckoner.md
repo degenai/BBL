@@ -75,3 +75,7 @@ A blue-skinned female figure with long tendril-like cyan hair stands triumphant 
 - Kasmina, Enigmatic Mentor (War of the Spark, no. 196) — sibling uncommon planeswalker on the same WAR design template (hybrid cost, one ability, high loyalty for slot).
 - Vivien, Champion of the Wilds (War of the Spark, no. 175) — sibling WAR planeswalker, green half of Kiora's color identity, same overarching cycle.
 
+## Connections
+
+- [[227-angrath-captain-of-chaos]] — Designer-confirmed cycle members. Both are uncommon planeswalkers from War of the Spark's twenty-uncommon-walker cycle, built to the same one-static/triggered-ability + one-loyalty-ability template that Mark Rosewater walked through in his preview article (Kiora: power-4 ETB-draw trigger + −1 untap; Angrath: menace static + −2 Amass Zombies). [magic.wizards.com: "Waging War of the Spark, Part 1", Mark Rosewater, 2019-04-01] [MTG Wiki: War of the Spark]
+

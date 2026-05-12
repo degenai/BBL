@@ -75,3 +75,7 @@ An extreme close-up of a cowled figure in deep blue hooded robes, head tilted sl
 - Nissa's Triumph (War of the Spark, no. 170) — sibling Triumph-cycle card (green)
 - Jace, Arcane Strategist (War of the Spark) — face card of the WAR Jace Planeswalker Deck; the deck Jace's Triumph ships inside as a 1-of
 - Concentrate (various reprints) — mechanical template ancestor: `{2}{U}` sorcery, "Draw three cards"; the no-conditional baseline this card riffs on
+
+## Connections
+
+- [[63-jace-mirror-mage]] — Same character across two sets. Both depict Jace Beleren (Scryfall `subject_known_ip: Jace Beleren`, `ip_verified: true` on both; ZNR-63 type_line carries the `— Jace` planeswalker subtype, WAR-55 oracle text references "a Jace planeswalker"). The WAR-55 art is a contemplative third-eye-sigil close-up set during the Ravnica war while Jace is trapped under Bolas's Immortal Sun; the ZNR-63 art is an active mirror-image kicker spell from the post-WAR Zendikar arc pursuing Nahiri to the Murasa Skyclave. Two acts of the same character's storyline rendered by different artists (Kieran Yanner WAR, Tyler Jacobson ZNR), bound through the canonical Jace Beleren identity. [Scryfall: WAR-55 and ZNR-63 records] [MTG Wiki: Jace Beleren]

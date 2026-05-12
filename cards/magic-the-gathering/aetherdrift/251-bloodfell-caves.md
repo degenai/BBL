@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
+characters: ["endriders"]
 tags_hub: ["sunset", "desert", "canyon", "racing", "road", "fire", "dust", "vehicles", "horizon", "wasteland", "speed", "cliffs"]
 tags_filter: ["wide-shot", "scene-mode", "no-figures", "forward-facing", "backlit", "land", "red-magic", "black-magic", "multicolor-black-red", "dual-land"]
 reference_image: cards/_images/magic-the-gathering/aetherdrift/251-bloodfell-caves.png

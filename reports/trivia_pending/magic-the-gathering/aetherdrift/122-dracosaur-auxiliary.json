@@ -1,0 +1,48 @@
+{
+  "card_name": "Dracosaur Auxiliary",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "122",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag; general trivia harvest only.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Aetherdrift (set code DFT) is the 103rd MTG expansion, released 2026-02-14, and is built around the Ghirapur Grand Prix — a multiplanar 'death race' across three planes: Avishkar (formerly Kaladesh), Amonkhet, and the long-awaited Muraganda. Vision design was led by Mark Rosewater, who has said the death-race concept had been in discussion for over a decade and only became viable once the Omenpath (inter-planar travel) mechanic existed in canon [Wizards: 'You Get the Aetherdrift, Part 1', magic.wizards.com].",
+      "sources": ["Scryfall set page (dft)", "Wizards: You Get the Aetherdrift, Part 1"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Muraganda is the 'primordial plane' first teased 17 years before its Aetherdrift debut — a wild prehistoric world of dinosaurs, oozes, and raw early-world magic. Muragandan dinosaurs are drawn with deliberately exaggerated proportions to distinguish them from Ixalan's; the Wizards flavor team frames Muragandan racers as raiders who 'never signed nor would agree to the treaty terms' of the local Saurid Autocracy [MTG Wiki: Muraganda, via WebSearch snippet; Wargamer: 'Muraganda revealed by Rosewater'].",
+      "sources": ["MTG Wiki: Muraganda (via WebSearch snippet)", "Wargamer.com"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mount as a creature type and Saddle as a keyword were both introduced in Outlaws of Thunder Junction (set OTJ, 2025-04-19) — not in Lord of the Rings: Tales of Middle-earth, which introduced 'The Ring Tempts You' instead. Aetherdrift is Mount/Saddle's first reappearance after its OTJ debut. Saddle is the Mount-side analog of Vehicles/Crew (which premiered on Kaladesh/Avishkar), but Mounts differ from Vehicles in being already-creatures that can attack or block without being saddled [Wizards: 'Outlaws of Thunder Junction Mechanics'; Wizards: 'Aetherdrift Mechanics'].",
+      "sources": ["Wizards: Outlaws of Thunder Junction Mechanics", "Wizards: Aetherdrift Mechanics", "Scryfall search e:otj t:mount (17 cards) / e:ltr t:mount (0 cards)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Dracosaur Auxiliary is a 4/4 flying haste Dinosaur Dragon Mount for {4}{R}{R} with Saddle 3; the 'attacks while saddled' trigger deals 2 to any target. Draftsim and CardsRealm both flag it as one of red's best uncommons in Aetherdrift Limited, particularly in Sealed: 'a solid Volcanic Dragon variant with upside if you can saddle it' and 'the best of the bunch' among red uncommons. EDHREC rank is 19,722, so it sees little Commander play despite its limited reputation [Draftsim: 'The Ultimate Aetherdrift Limited Set Review'; CardsRealm: 'Aetherdrift Limited Guide'; Scryfall].",
+      "sources": ["Draftsim Aetherdrift Limited Set Review", "CardsRealm Aetherdrift Limited Guide", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Brian Valeza, a Philippines-based freelance illustrator with 233+ Magic cards to date and additional credits on D&D, Hearthstone, Pathfinder, and Artifact. Card has no flavor text on Scryfall. The 'dracosaur' label is a flavor descriptor (Dinosaur Dragon hybrid), not a creature subtype — it appears in only two card names across all of MTG: this card and Bonehoard Dracosaur (Lost Caverns of Ixalan, no. 134), making the archetype a deliberate cross-plane visual callback rather than a mechanical typeline [Scryfall artist page; ArtStation: tots.artstation.com; Scryfall name:dracosaur search].",
+      "sources": ["Scryfall", "ArtStation: tots.artstation.com (Brian Valeza)", "Art of MTG"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bonehoard Dracosaur", "set": "The Lost Caverns of Ixalan", "note": "The only other card whose name contains 'dracosaur'; same Dinosaur Dragon hybrid framing, mythic red, no. 134/LCI. Establishes the dracosaur archetype that Aetherdrift's Muragandan racers reuse."},
+    {"name": "Bounding Felidar", "set": "Outlaws of Thunder Junction", "note": "OTJ Mount uncommon (Cat Beast Mount, white, Saddle 2) — illustrative example of the Mount/Saddle keyword Aetherdrift inherits from OTJ."},
+    {"name": "Agonasaur Rex", "set": "Aetherdrift", "note": "Cited in coverage as the design that demonstrates how Muragandan dinosaurs are drawn with exaggerated proportions vs. Ixalan's; useful as flavor sibling to Dracosaur Auxiliary."},
+    {"name": "Regal Imperiosaur", "set": "Aetherdrift", "note": "Another Aetherdrift red dinosaur reference card in surface coverage of the set's Muraganda contingent."},
+    {"name": "Muraganda Raceway", "set": "Aetherdrift", "note": "Land cycle entry naming the plane where the Muragandan leg of the Ghirapur Grand Prix is run; ties the Dracosaur Auxiliary mount to its racing-circuit context."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

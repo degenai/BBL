@@ -1,0 +1,48 @@
+{
+  "card_name": "Purrloin",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "106/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card explicitly names the species 'Purrloin' in its title/header and the PokemonTCG.io API returns evolvesTo: ['Liepard'] with nationalPokedexNumbers: [509]. Internal Pokemon-original species, not an external-IP crossover risk, so no separate IP callout block required; ip_verified flipped to true and confidence stays high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Sword & Shield: Darkness Ablaze (SWSH3) is the third main expansion of the Sword & Shield series, released 2020-08-14 (English) and centered on Generation 8 Galar-region Pokemon including Charizard VMAX as the chase card; the set features 201 cards (printed total 189). [PokemonTCG.io API: swsh3 set object; Bulbapedia: Darkness Ablaze (TCG), via WebSearch snippet]",
+      "sources": ["PokemonTCG.io API", "Bulbapedia: Darkness Ablaze (TCG)"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrator is sowsow (born 1988), known for environmental-storytelling Pokemon art that depicts species mid-scene 'in their own unique environments' — debuted with Avalugg, Inkay, and Cubone in Sun & Moon Forbidden Light, and has illustrated approximately 150 TCG cards including the high-value Gengar VMAX Alt Art and Espeon V Alt Art. [Art of Pokemon: sowsow page, via WebSearch snippet; Bleeding Cool artist spotlight, via WebSearch snippet]",
+      "sources": ["The Art of Pokemon (artofpkm.com)", "Bleeding Cool: sowsow spotlight"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text on card: \"It steals things from people just to amuse itself with their frustration. A rivalry exists between this Pokemon and Nickit.\" The Nickit rivalry is a Galar-specific framing — both are Dark-type theft-archetype species and Nickit is the Galar-native counterpart (Galar Pokedex no. 29) to Purrloin (Galar Pokedex no. 44, National Pokedex no. 509). [PokemonTCG.io API flavorText field; Pokemondex / Serebii Galar Pokedex, via WebSearch snippet]",
+      "sources": ["PokemonTCG.io API", "Serebii Galar Pokedex"]
+    },
+    {
+      "category": "design",
+      "text": "Purrloin (National Pokedex no. 509) is a Dark-type Generation V Pokemon that evolves into Liepard starting at level 20; community design analysis on Bulbapedia frames both as cat-burglar archetypes, with Purrloin drawing on tuxedo-cat patterning and Liepard pulling from leopards, ocelots, servals, and Savannah cats. [Bulbapedia: Purrloin (Pokemon), via WebSearch snippet; Bulbapedia: Liepard (Pokemon), via WebSearch snippet]",
+      "sources": ["Bulbapedia: Purrloin (Pokemon)", "Bulbapedia: Liepard (Pokemon)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Card is a Basic Darkness-type with 70 HP, Grass weakness x2, 1 Colorless retreat cost, regulation mark D; legal in Unlimited and Expanded. Attacks: Dig Claws (1 Darkness for 10) and Fake Out (2 Colorless for 20, coin-flip Paralysis). Current TCGplayer market price for normal print is around $0.08 (reverse holo around $0.25), confirming common-bulk status. [PokemonTCG.io API: swsh3-106 legalities, attacks, tcgplayer prices]",
+      "sources": ["PokemonTCG.io API"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Liepard", "set": "Darkness Ablaze", "note": "Stage-1 evolution of Purrloin; same set; natural pair card for any cat-tribal Discrete Lair anchored on Purrloin"},
+    {"name": "Nickit", "set": "Sword & Shield base set / Galar prints", "note": "Card flavor text explicitly names Nickit as Purrloin's Galar-region rival — narrative pairing for any 'thief archetype' bundle"},
+    {"name": "Cubone (Forbidden Light)", "set": "Sun & Moon: Forbidden Light", "note": "sowsow's debut card; same illustrator; useful for any sowsow-illustrator-themed bundle"},
+    {"name": "Espeon V Alt Art", "set": "Evolving Skies", "note": "Another sowsow environmental-storytelling cat card; high-value reference point for sowsow's cat work"},
+    {"name": "Gengar VMAX Alt Art", "set": "Fusion Strike", "note": "sowsow's most-valued alt-art; illustrator continuity reference"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

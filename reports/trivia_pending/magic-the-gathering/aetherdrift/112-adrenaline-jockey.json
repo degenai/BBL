@@ -1,0 +1,54 @@
+{
+  "card_name": "Adrenaline Jockey",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "112",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag. Card is a Wizards-original Minotaur Pilot common-tier uncommon from the Aetherdrift racing set; no external-IP risk and no named lore character is depicted.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Aetherdrift is the 103rd MTG expansion (released 2025-02-14). The set frames a multiplanar circuit race — the Ghirapur Grand Prix — across the planes of Avishkar (the renamed post-revolution Kaladesh), Amonkhet, and Muraganda. The storyline follows Chandra Nalaar racing to win the Aetherspark, a trophy that houses a planeswalker's spark, for Nissa. Ten Limited archetypes correspond to ten in-fiction racing teams. [MTG Wiki: Aetherdrift], [Card Kingdom: What Happens in Aetherdrift]",
+      "sources": ["MTG Wiki: Aetherdrift (mtg.wiki/page/Aetherdrift)", "Card Kingdom Blog: What Happens in Aetherdrift", "Scryfall set page (dft)"]
+    },
+    {
+      "category": "design",
+      "text": "Exhaust is the keyword ability introduced in Aetherdrift, marking activated abilities that can be activated only once per game (Comprehensive Rules 702.177). Mark Rosewater placed it at Storm Scale 3, and as of August 2025 he indicated exhaust had a decent chance of becoming deciduous; that status was confirmed when exhaust returned in the Avatar: The Last Airbender set later in 2025. Adrenaline Jockey itself does not have an exhaust ability — it cares about you activating other exhaust abilities, growing with a +1/+1 counter each time. [MTG Wiki: Exhaust], [Mark Rosewater, Blogatog \"Where is Exhaust on the Storm Scale?\", 2025-04-24]",
+      "sources": ["MTG Wiki: Exhaust (mtg.wiki/page/Exhaust)", "Mark Rosewater Blogatog (markrosewater.tumblr.com/post/781762751786811392)", "Scryfall rulings"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Alfonso Santano. Santano contributed at least three pieces to Aetherdrift (Adrenaline Jockey no. 112, Pride of the Road no. 24, Spikeshell Harrier no. 65), one of dozens of illustrators on the set. The Pilot creature subtype was introduced in Kaladesh (2016) to designate creatures that drive Vehicles — Avishkar's race-themed return naturally brings new Pilots like this one. [Scryfall artist field], [MTG Wiki: Pilot]",
+      "sources": ["Scryfall (api.scryfall.com/cards/c8655373-320d-440d-b700-d03413f743fd)", "MTG Wiki: Pilot (mtg.wiki/page/Pilot)", "WebSearch: Alfonso Santano Aetherdrift"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 3/3 Minotaur Pilot for {2}{R} at uncommon. The first triggered ability (4 damage to a player whenever they cast a spell on a turn that isn't theirs) is reviewed as incidental burn that scales hard in multiplayer: every trigger is 10% of a 40-life Commander player's starting life, and in 1v1 it takes only five triggers to lethal. EDHREC's card page reports approximately 3,845 Commander decks playing the card at retrieval time with edhrec_rank 15,686 (niche / non-staple territory), with frequent co-inclusions Stampeding Scurryfoot, Pacesetter Paragon, and Rangers' Aetherhive. The reviewer also flagged it as Pioneer sideboard tech against Arclight Phoenix / control. [Commander's Herald: \"Aetherdrift Set Review – Minotaurs\"], [EDHREC: adrenaline-jockey], [Scryfall legalities]",
+      "sources": ["Commander's Herald (commandersherald.com/aetherdrift-set-review-minotaurs)", "EDHREC: edhrec.com/cards/adrenaline-jockey", "Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Either I win or we both lose. Take your pick.\" — Scryfall lists no in-fiction speaker attribution, so the line reads as the depicted minotaur driver's own threat to an unseen rival on the racetrack. The do-or-die framing aligns with Aetherdrift's death-defying-circuit-race tone described in Wizards' Planeswalker's Guide. [Scryfall flavor_text], [WebSearch: Planeswalker's Guide to Aetherdrift, Part 1]",
+      "sources": ["Scryfall flavor_text field", "WebSearch: Planeswalker's Guide to Aetherdrift"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment from Commander's Herald's Minotaur Reviewer: \"I wasn't certain what kind of Minotaurs we would get in this set, but I for one am pretty pleased with this Jockey\" — framed as well-aimed tech against flash / instant-heavy decks and counterspell-war pods. Sentiment, not consensus; EDHREC inclusion numbers and the 15,686 rank suggest most Commander brewers treat it as a niche pick rather than a staple. [Commander's Herald: \"Aetherdrift Set Review – Minotaurs\"]",
+      "sources": ["Commander's Herald (commandersherald.com/aetherdrift-set-review-minotaurs)", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Prowcatcher Specialist", "set": "Aetherdrift", "note": "MTG Wiki's headline example for the Exhaust keyword: 2/1 Goblin Warrior with Exhaust — 3R: put two +1/+1 counters on it. Pairs natively with Adrenaline Jockey's exhaust-activation trigger."},
+    {"name": "Stampeding Scurryfoot", "set": "Aetherdrift", "note": "Listed as a top co-inclusion alongside Adrenaline Jockey on EDHREC's card page."},
+    {"name": "Pacesetter Paragon", "set": "Aetherdrift", "note": "Top EDHREC co-inclusion on Adrenaline Jockey's page."},
+    {"name": "Rangers' Aetherhive", "set": "Aetherdrift", "note": "Top EDHREC co-inclusion on Adrenaline Jockey's page."},
+    {"name": "Loot, the Pathfinder", "set": "Aetherdrift", "note": "One of the five Aetherdrift exhaust cards MTG Wiki singles out as designed without a counter tracker; carries three different exhaust abilities, making it a natural Adrenaline Jockey enabler."},
+    {"name": "Redshift, Rocketeer Chief", "set": "Aetherdrift", "note": "Another exhaust card MTG Wiki flags as deliberately trackerless; useful as a Minotaur-adjacent red exhaust enabler."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

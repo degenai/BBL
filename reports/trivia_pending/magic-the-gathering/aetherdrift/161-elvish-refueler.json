@@ -1,0 +1,58 @@
+{
+  "card_name": "Elvish Refueler",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "161",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged on this card; Wizards-internal generic supporting-cast pit-crew figure, not a named lore character.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Aetherdrift (set code DFT, released 2025-02-14) is the 103rd MTG expansion and stages the Ghirapur Grand Prix, a death race across three planes: Avishkar (formerly Kaladesh), Amonkhet, and Muraganda. Ten racing teams compete for the Aetherspark, framing the set's commons and uncommons as the supporting cast — drivers, crew chiefs, mechanics, and pit-crew workers — around the legendary pilots and team leaders. [Scryfall set page; MTG Wiki: Aetherdrift]",
+      "sources": ["Scryfall", "MTG Wiki: Aetherdrift"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Aether Rangers — the Avishkar/Kaladesh home team co-led by Pia Nalaar (Chief Engineer) and pilot Spitfire — explicitly include elves on their roster alongside humans, vedalken, dwarves, loxodons, and merfolk, and field 'several lower-division squadrons' beyond their Grand Prix line-up. That's the lore frame for non-legendary green pit-crew figures like this card. [MTG Wiki: Aether Rangers]",
+      "sources": ["MTG Wiki: Aether Rangers"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Exhaust is a new Aetherdrift keyword: an activated ability you can only use once per game on each permanent. Designers framed it flavorwise as 'the MTG equivalent of nitrous' — a one-shot turbo boost that mirrors the racing-movie hit-the-NOS moment. Elvish Refueler's static ability is the set's most direct piece of refueling fiction: during your turn, if you haven't already activated an exhaust this turn, exhausts treat themselves as if not yet activated. The card is literally a refuel button for the set's one-shot mechanic. [Scryfall oracle text; Draftsim: Exhaust in MTG]",
+      "sources": ["Scryfall", "Draftsim: Exhaust in MTG"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Carly Milligan; oil and acrylic on paper mounted to cradled wood panel, 14 x 11 inches. This was Milligan's first Magic: The Gathering assignment. Her process notes: she built a costume with welding gloves and shot reference photos of a live model, then used 3D modeling to work out the brass railing and aether tanks. She has only two MTG cards to date (Elvish Refueler and Astelli Reclaimer). [Carly Milligan blog, via WebSearch snippet; mtg.wtf artist page]",
+      "sources": ["Carly Milligan blog, via WebSearch snippet", "mtg.wtf: Carly Milligan"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text is \"Anyone running low?\" — no speaker is attributed on the Scryfall record. The line reads as in-character pit-bay banter, in keeping with the set's race-day diegesis. [Scryfall API: flavor_text]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC reports ~3,101 Commander decks running Elvish Refueler, with a card rank of 16,407 — modest play, not a staple. Most-played alongside Pit Automaton, Afterburner Expert, and Greenbelt Guardian, all exhaust-payoff cards. The card functions as an engine piece for exhaust-focused builds, especially when combined with flicker effects that reset exhausts by making the permanent a new object on re-entry. [EDHREC card page; Scryfall rulings]",
+      "sources": ["EDHREC", "Scryfall"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on Aetherdrift's mechanics was mixed: critics on MTGRocks and Game Rant called 'Start Your Engines' a misnomer for how slow the speed mechanic actually plays and noted that Exhaust requires off-card tracking. Exhaust itself was the more positively received of the two — Mark Rosewater later confirmed the design team plans to keep using exhaust but not 'Start Your Engines.' [MTGRocks: Aetherdrift mechanic flavor disappointment; Game Rant: Start Your Engines]",
+      "sources": ["MTGRocks", "Game Rant"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pit Automaton", "set": "Aetherdrift", "note": "Most-cited synergy partner per EDHREC; artifact with exhaust ability that copies another exhaust on activation — the natural board-mate for an exhaust-refuel engine."},
+    {"name": "Afterburner Expert", "set": "Aetherdrift", "note": "EDHREC-listed synergy partner; another pit-crew/racing-themed exhaust enabler in the supporting-cast labor tier."},
+    {"name": "Greenbelt Guardian", "set": "Aetherdrift", "note": "EDHREC-listed green synergy partner — green's piece of the exhaust shell."},
+    {"name": "Pia Nalaar, Chief Mechanic", "set": "Aetherdrift Commander (DRC)", "note": "Named lore lead of the Aether Rangers and Chandra Nalaar's mother; the legendary pit-crew foreground figure whose supporting cast includes generic mechanic/refueler commons and uncommons like this one."},
+    {"name": "Dynamite Diver", "set": "Aetherdrift", "note": "Another non-legendary pit-crew/pilot supporting-cast card — Goblin Pilot that saddles and crews as though power were 2 greater; same design tier as Elvish Refueler in the labor-of-racing fiction."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

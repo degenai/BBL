@@ -1,0 +1,48 @@
+{
+  "card_name": "Endrider Spikespitter",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "125",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag from vision pass. Endriders are a Wizards-internal Aetherdrift faction; no external IP risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Aetherdrift (set code DFT, released 2025-02-14) is a death-race set staged across three planes — Avishkar (renamed Kaladesh), Muraganda, and the new plane Gastal — with ten competing teams in the Ghirapur Grand Prix [Scryfall API: dft set / card 4e58cb18; Wizards: Planeswalker's Guide to Aetherdrift, Part 1].",
+      "sources": ["Scryfall", "Wizards: Planeswalker's Guide to Aetherdrift, Part 1"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Endriders are the black-red team and hail from Gastal, described by Mark Rosewater as \"an apocalyptic plane of gas, draconic warlords, road warriors, and colossal dry lightning storms\" [Wizards: You Get the Aetherdrift, Part 2]. MTG Wiki frames them as \"nomadic apocalypse punk warriors\" — directly fitting the card art's spiked-armor / junkyard-rig read [MTG Wiki: Endriders].",
+      "sources": ["Wizards: You Get the Aetherdrift, Part 2", "MTG Wiki: Endriders"]
+    },
+    {
+      "category": "design",
+      "text": "Journalism coverage repeatedly framed Aetherdrift as \"Mad Max meets Wacky Races\" [Wargamer: MTG's next set features a plane we never thought we'd get to visit, 2024-11-25]. Wizards' own articles stop short of naming Mad Max directly but lean into the same vocabulary — \"road warriors,\" \"gas,\" \"chase glory ahead and leave the dead behind\" [Wizards: Planeswalker's Guide to Aetherdrift, Part 1]. The set was led in vision design by Mark Rosewater and handed to Yoni Skolnik for set design [Wizards: You Get the Aetherdrift, Part 1].",
+      "sources": ["Wargamer", "Wizards: Planeswalker's Guide to Aetherdrift, Part 1", "Wizards: You Get the Aetherdrift, Part 1"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Mila Pesic, a Wizards illustrator with 130+ Magic cards to her name across multiple sets [mtg.wtf artist page; Art of Magic: the Gathering]. Card has no flavor text on the printed face per Scryfall's flavor_text field (empty).",
+      "sources": ["mtg.wtf: Mila Pesic", "Art of Magic: the Gathering: Mila Pesic", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanically a {3}{R} 3/4 Human Mercenary with Reach and Start your engines! At max speed (4), it exiles the top card of your library each upkeep, castable that turn — a red exile-impulse engine gated behind the speed mechanic [Scryfall]. EDHREC rank 18541 places it well outside Commander staple territory; commentary on the Start your engines! / Speed system has flagged it as inherently slow for a mechanic named for acceleration, with concerns about Standard viability [Game Rant: \"Magic: The Gathering's Newest Mechanic May Be Dead on Arrival\"; CoolStuffInc: \"Mechanics of Magic: Start Your Engines/Speed\"].",
+      "sources": ["Scryfall", "Game Rant", "CoolStuffInc"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Far Fortune, End Boss", "set": "Aetherdrift", "note": "Leader of the Endriders faction; the team captain card Endrider Spikespitter races alongside."},
+    {"name": "Endrider Catalyzer", "set": "Aetherdrift", "note": "Same Endrider faction cycle; ramps red mana for Max Speed permanents."},
+    {"name": "Gastal Raider", "set": "Aetherdrift", "note": "Another Gastal-plane card depicting the apocalypse-punk visual language."},
+    {"name": "Gastal Blockbuster", "set": "Aetherdrift", "note": "Vehicle from the Endriders' home plane — same Mad Max-coded aesthetic family."},
+    {"name": "Start Your Engines! // Max Speed", "set": "Aetherdrift Tokens", "note": "Reference card for the speed mechanic Endrider Spikespitter triggers off."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

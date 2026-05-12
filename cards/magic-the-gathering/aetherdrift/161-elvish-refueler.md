@@ -51,3 +51,20 @@ A figure with dark curly hair shot through with purple highlights and a pair of 
 **Iconography:** goggles, fuel-nozzle, scrollwork
 **Genre cues:** fantasy, dieselpunk, racing
 
+## Trivia
+
+- **Set context** — Aetherdrift (set code DFT, released 2025-02-14) is the no. 103 MTG expansion and stages the Ghirapur Grand Prix, a death race across the planes of Avishkar (formerly Kaladesh), Amonkhet, and Muraganda; the set's commons and uncommons are written as the supporting cast — drivers, mechanics, pit-crew workers — around the legendary pilots and team leaders. `[Scryfall set page]` `[MTG Wiki: Aetherdrift]`
+- **Set context** — The Aether Rangers, the Avishkar/Kaladesh home team co-led by Pia Nalaar (Chief Engineer) and pilot Spitfire, explicitly include elves on their roster alongside humans, vedalken, dwarves, loxodons, and merfolk, and field "several lower-division squadrons" beyond their Grand Prix line-up — the lore frame for non-legendary green pit-crew figures. `[MTG Wiki: Aether Rangers]`
+- **Mechanical** — Exhaust is a new Aetherdrift keyword: an activated ability you can only use once per game on each permanent. Wizards' design framing calls it "the MTG equivalent of nitrous" — a one-shot turbo-boost analogue. This card's static ability is the set's most direct piece of refueling fiction: during your turn, if you haven't activated an exhaust this turn, exhausts treat themselves as not yet activated — literally a refuel button for the set's one-shot mechanic. `[Scryfall oracle text]` `[Draftsim: Exhaust in MTG]`
+- **Design** — Art by Carly Milligan; oil and acrylic on paper mounted to cradled wood panel, 14 x 11 inches. This was Milligan's first MTG assignment. Process notes from her own write-up: built a costume with welding gloves and shot a live model for reference, then used 3D modeling to work out the brass railing and aether tanks. Only two MTG cards in her bibliography to date (this one and Astelli Reclaimer). `[Carly Milligan blog, via WebSearch snippet]` `[mtg.wtf: Carly Milligan]`
+- **Flavor text** — `"Anyone running low?"` — no speaker attributed on the Scryfall record. Reads as in-character pit-bay banter. `[Scryfall]`
+- **Mechanical** — EDHREC lists ~3,101 Commander decks running the card and a rank of 16,407 — modest play, not a staple. Most-played alongside Pit Automaton, Afterburner Expert, and Greenbelt Guardian, all exhaust-payoff cards. Per Scryfall rulings, a permanent that leaves and returns to the battlefield becomes a new object and its exhaust resets — so flicker effects pair well with the engine. `[EDHREC]` `[Scryfall rulings]`
+- **Community resonance** — Community sentiment on Aetherdrift mechanics ran mixed: outlets reported that "Start Your Engines" was widely felt to be a misnomer for how slow the speed mechanic actually plays, and that Exhaust requires off-card tracking. Exhaust itself was the more positively received of the two — Wizards' Mark Rosewater has confirmed the design team intends to reuse exhaust in future sets but not "Start Your Engines." Sentiment, not consensus. `[MTGRocks: "MTG Players Disappointed With Awful Aetherdrift Mechanic Flavor"]` `[Game Rant: "Magic: The Gathering's Newest Mechanic May Be Dead on Arrival"]`
+
+### Related cards
+- Pit Automaton (Aetherdrift, no. unspecified) — most-cited synergy partner per EDHREC; exhaust-copy artifact, the natural board-mate for a refuel engine
+- Afterburner Expert (Aetherdrift) — EDHREC synergy partner; another pit-crew/racing-themed exhaust enabler in the supporting-cast labor tier
+- Greenbelt Guardian (Aetherdrift) — EDHREC green synergy partner; green's piece of the exhaust shell
+- Pia Nalaar, Chief Mechanic (Aetherdrift Commander, DRC no. 2) — named lore lead of the Aether Rangers and Chandra Nalaar's mother; the legendary pit-crew foreground figure whose supporting cast includes anonymous mechanics and refuelers like this one
+- Dynamite Diver (Aetherdrift) — non-legendary Goblin Pilot supporting-cast card that saddles and crews as though power were 2 greater; same labor-tier design slot
+

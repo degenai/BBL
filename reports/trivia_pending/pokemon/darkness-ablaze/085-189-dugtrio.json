@@ -1,0 +1,53 @@
+{
+  "card_name": "Dugtrio",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "085/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "PokemonTCG.io API returns name='Dugtrio', evolvesFrom='Diglett', nationalPokedexNumbers=[51], flavorText matches the card MD verbatim. Card is the canonical Generation I Dugtrio (Pokedex no. 051), reprinted as a Stage 1 Fighting-type in the Sword & Shield Darkness Ablaze expansion. Internal-Pokemon IP (not external crossover), so no `## IP` callout block is required; ip_verified flips to true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Released in the Sword & Shield Series expansion Darkness Ablaze (English release 2020-08-14; Japanese release as Infinity Zone 2020-06-05), the set headlined by Eternatus and a slate of Gigantamax Pokemon V/VMAX [PokemonTCG.io API; Pokemon.com set page]. Dugtrio (no. 085/189) is a baseline uncommon in an expansion otherwise dominated by V/VMAX rares.",
+      "sources": ["PokemonTCG.io API", "Pokemon.com: Sword & Shield-Darkness Ablaze"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrator Yukiko Baba has illustrated Pokemon TCG cards continuously since the Neo Discovery set (1998); her style is described as printmaking-influenced with sketchy, abstract backgrounds and small scene-setting around the Pokemon rather than dynamic battle poses [Bulbapedia: Yukiko Baba; Art of Pokemon profile]. The composition here -- mid-shot trio against a flat earth-tone ground -- fits that scene-mode signature.",
+      "sources": ["Bulbapedia: Yukiko Baba (via WebSearch snippet)", "Art of Pokemon: Yukiko Baba (via WebSearch snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Dugtrio is National Pokedex no. 051, a Generation I Pokemon that evolves from Diglett (no. 050) starting at level 26 [PokemonTCG.io API; Wikipedia: Diglett and Dugtrio]. Diglett was reportedly designed from a childhood sketch by Pokemon designer Shigeki Morimoto, and Dugtrio is canonically built by adding two more Diglett to make a trio rather than being a single creature [Wikipedia: Diglett and Dugtrio].",
+      "sources": ["PokemonTCG.io API", "Wikipedia: Diglett and Dugtrio"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Whether Dugtrio is one Pokemon or three has been a long-running canonical ambiguity. Older Pokedex entries describe it as 'a team of Diglett triplets' (the exact wording reprinted on this card's flavor text), and Wikipedia surveys the trope as 'three Diglett put together'; community sources frame the question as unresolved across generations [Wikipedia: Diglett and Dugtrio; Bulbagarden forum thread 'Dugtrio: three moles or one?'].",
+      "sources": ["Wikipedia: Diglett and Dugtrio", "Bulbagarden forum: 'Dugtrio: three moles or one?' (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text on the card reads verbatim: 'A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.' [PokemonTCG.io API]. The 60-mile depth and earthquake-triggering behavior tracks Bulbapedia's lore that Dugtrio tunnels at roughly 100 km (60 mi) depth, fast enough to register as seismic activity [Wikipedia: Diglett and Dugtrio].",
+      "sources": ["PokemonTCG.io API", "Wikipedia: Diglett and Dugtrio"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Alolan Dugtrio (introduced in Pokemon Sun and Moon, 2016) is a Ground/Steel regional variant whose three heads each sport a different gold hairstyle made from Pele's hair -- thin glassy filaments of cooled volcanic lava. In Alola lore the form is revered as an incarnation of the god of the land, and taking its hair out of the region is said to bring divine punishment [Wikipedia: Diglett and Dugtrio]. This is a sibling-form connection worth surfacing for any trio/triplets bundle bridge.",
+      "sources": ["Wikipedia: Diglett and Dugtrio"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Diglett", "set": "various (canonical pre-evolution)", "note": "Direct pre-evolution; National Pokedex no. 050. Any Diglett printing is a same-character bridge."},
+    {"name": "Alolan Dugtrio", "set": "various Sun & Moon / SWSH-era printings", "note": "Same Pokedex slot (no. 051) regional variant -- Ground/Steel, golden Pele's-hair heads. Strongest direct sibling for a trio/triplets or golden-hair bundle theme."},
+    {"name": "Wugtrio", "set": "Scarlet & Violet era", "note": "Convergent-evolution Water-type trio Pokemon introduced 2022; canonically NOT related to Dugtrio but visually patterned on it. Useful for a 'three-of-a-kind across the franchise' bundle bridge."},
+    {"name": "Dodrio", "set": "various (Pokedex no. 085)", "note": "Cited by TechRaptor (via Wikipedia) as a same-generation three-headed counterpart design. Cross-card multiplicity-as-theme anchor."},
+    {"name": "Magneton", "set": "various (Pokedex no. 082)", "note": "Same-generation three-of-one-creature design (three Magnemite fused). Same multiplicity-as-theme anchor as Dodrio."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

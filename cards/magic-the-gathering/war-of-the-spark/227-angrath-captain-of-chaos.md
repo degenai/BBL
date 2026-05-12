@@ -71,3 +71,7 @@ A massive minotaur figure dominates the foreground, mid-roar with mouth open and
 - Angrath's Rampage (War of the Spark) — same-set companion card carrying Angrath's name; B/R planeswalker-flavored spell.
 - Sethron, Hurloon General (Ikoria / Commander 2020) — top EDHREC commander for Angrath, Captain of Chaos (28% / 613 decks); leading Minotaur-tribal B/R commander.
 
+## Connections
+
+- [[232-kiora-behemoth-beckoner]] — Designer-confirmed cycle members. Both are uncommon planeswalkers from War of the Spark's twenty-uncommon-walker cycle, built to the same one-static/triggered-ability + one-loyalty-ability template that Mark Rosewater walked through in his preview article (Angrath: menace static + −2 Amass Zombies; Kiora: power-4 ETB-draw trigger + −1 untap). [magic.wizards.com: "Waging War of the Spark, Part 1", Mark Rosewater, 2019-04-01] [MTG Wiki: War of the Spark]
+

@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
+characters: ["endriders"]
 tags_hub: ["vehicle", "rocket", "spear", "fire", "warrior", "rider", "weapon", "battle", "smoke", "junkyard", "punk", "racing"]
 tags_filter: ["duo", "mid-shot", "forward-facing", "action-mode", "2-figures", "female-figure", "red-magic", "creature-human", "reach", "start-your-engines", "max-speed", "exile-matters"]
 reference_image: cards/_images/magic-the-gathering/aetherdrift/125-endrider-spikespitter.png
@@ -49,4 +50,19 @@ A rust-and-orange vehicle hull plated with riveted, X-marked sheet metal dominat
 **Objects:** rocket-spear, armored-vehicle, launcher-barrel, fuse-rope, coiled-rope, spiked-armor, lance, riveted-plating, shrapnel
 **Iconography:** x-mark, spikes, rivets
 **Genre cues:** fantasy, post-apocalyptic, vehicular-combat, punk, racing
+
+## Trivia
+
+- **Set context** — *Aetherdrift* (set code DFT, released 2025-02-14) is a death-race set staging the Ghirapur Grand Prix across three planes — Avishkar (renamed Kaladesh), Muraganda, and the new plane Gastal — with ten competing teams `[Scryfall API; Wizards: Planeswalker's Guide to Aetherdrift, Part 1]`.
+- **Faction lore** — The Endriders are the black-red team and hail from Gastal, described by Mark Rosewater as "an apocalyptic plane of gas, draconic warlords, road warriors, and colossal dry lightning storms" `[Wizards: You Get the Aetherdrift, Part 2]`. MTG Wiki frames them as "nomadic apocalypse punk warriors" — directly matching the card art's spiked-armor / junkyard-rig read `[MTG Wiki: Endriders]`.
+- **Design** — Journalism coverage repeatedly framed *Aetherdrift* as "Mad Max meets Wacky Races" `[Wargamer, 2024-11-25]`; Wizards' own articles stop short of naming Mad Max but lean on the same vocabulary — "road warriors," "gas," "chase glory ahead and leave the dead behind" `[Wizards: Planeswalker's Guide to Aetherdrift, Part 1]`. Vision design led by Mark Rosewater, set design handed to Yoni Skolnik `[Wizards: You Get the Aetherdrift, Part 1]`.
+- **Artist** — Illustrated by Mila Pesic, a Wizards illustrator with 130+ *Magic* cards across multiple sets `[mtg.wtf: Mila Pesic; Art of Magic: the Gathering: Mila Pesic]`. Card has no printed flavor text (Scryfall's `flavor_text` field is empty) `[Scryfall]`.
+- **Mechanical reputation** — A {3}{R} 3/4 Human Mercenary with Reach and Start your engines!; at Max Speed (4) it exiles the top of library each upkeep, castable that turn — a red exile-impulse engine gated behind the speed mechanic `[Scryfall]`. EDHREC rank 18,541 places it well outside Commander staple territory `[Scryfall: edhrec_rank]`. Community sentiment on the Start your engines! / Speed system has flagged it as inherently slow for a mechanic named for acceleration, with concerns about Standard viability `[Game Rant: "Magic: The Gathering's Newest Mechanic May Be Dead on Arrival"; CoolStuffInc: "Mechanics of Magic: Start Your Engines/Speed"]`.
+
+### Related cards
+- Far Fortune, End Boss (Aetherdrift) — Leader of the Endriders faction; the team captain card Endrider Spikespitter races alongside
+- Endrider Catalyzer (Aetherdrift) — Same Endrider faction cycle; ramps red mana for Max Speed permanents
+- Gastal Raider (Aetherdrift) — Another Gastal-plane card carrying the apocalypse-punk visual language
+- Gastal Blockbuster (Aetherdrift) — Vehicle from the Endriders' home plane — same junkyard-coded aesthetic family
+- Start Your Engines! // Max Speed (Aetherdrift Tokens) — Reference token for the speed mechanic Endrider Spikespitter triggers off
 
