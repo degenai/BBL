@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/magic-the-gathering/promo-pack-throne-of-eldraine/115-bonecrusher-giant--foil.png
 average_cost_paid: 0
 market_price: 0.92
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-05
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 art_match_confidence: low
 needs_manual_review: true
 manual_review_reason: Set 'Promo Pack: Throne of Eldraine' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.

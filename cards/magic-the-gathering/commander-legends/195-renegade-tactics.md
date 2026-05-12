@@ -15,9 +15,9 @@ tags_filter: ["duo", "2-figures", "mid-shot", "scene-mode", "narrative", "no-cle
 reference_image: cards/_images/magic-the-gathering/commander-legends/195-renegade-tactics.png
 average_cost_paid: 0
 market_price: 0.22
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-06
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

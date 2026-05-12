@@ -14,10 +14,10 @@ tags_hub: ["cheese", "food", "dairy", "cow", "miltank", "cozy", "comfort-food", 
 tags_filter: ["no-face", "no-figure", "forward-facing", "close-up", "centered-composition", "trainer-item", "pokemon-item", "healing-item", "object-only"]
 reference_image: cards/_images/pokemon/vivid-voltage/156-185-moomoo-cheese.png
 average_cost_paid: 0
-market_price: 0.05
-market_price_as_of: 2026-05-11
+market_price: 0.06
+market_price_as_of: 2026-05-12
 date_added: 2026-05-07
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://images.pokemontcg.io/swsh4/156_hires.png
 art_match_confidence: high
 needs_manual_review: false

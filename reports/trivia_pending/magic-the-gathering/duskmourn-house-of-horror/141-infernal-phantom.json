@@ -1,0 +1,58 @@
+{
+  "card_name": "Infernal Phantom",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "141",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag; depicted phantom is a generic Duskmourn nightmare/spirit, not a named lore character.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmourn: House of Horror (set code DSK, released 2024-09-27) is set on the plane of Duskmourn, which was collapsed into a single haunted mansion in an event called the Ascension by the trapped moth-demon Valgavoth; the House feeds on the fear of the few remaining Survivors. [Scryfall set page; Wizards: Planeswalker's Guide to Duskmourn, via WebSearch snippet]",
+      "sources": ["Scryfall", "magic.wizards.com: Planeswalker's Guide to Duskmourn"]
+    },
+    {
+      "category": "design",
+      "text": "Eerie is a triggered ability introduced in Duskmourn that fires whenever an enchantment you control enters and whenever you fully unlock a Room — meaning a single Room card can trigger Eerie twice (once on entry, once on full unlock); design lead Mark Rosewater framed Rooms as both the mechanical and flavor center of the set. [Wizards: Duskmourn Mechanics article, via WebSearch snippet; Wizards: Vision Design Handoff Part 1, via WebSearch snippet]",
+      "sources": ["magic.wizards.com: Duskmourn: House of Horror Mechanics", "magic.wizards.com: Vision Design Handoff Part 1"]
+    },
+    {
+      "category": "design",
+      "text": "Of the 15 cards with the Eerie keyword in Duskmourn, Infernal Phantom is the only red one — the rest are distributed across white, blue, black, green, multicolor, and colorless, which makes this card the de facto red splash piece for an Eerie-themed Limited or Standard build. [Scryfall search `set:dsk o:eerie`]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Limited reviewers flagged Infernal Phantom as a sleeper: a vanilla 2/3 for {3}{R} that Bolts any target on death is already a solid floor, and even one Eerie trigger turns it into a 4/3 threat with a 4-damage death-shot — well-suited to U/R Rooms or B/R sacrifice shells alongside Final Vengeance or Sawblade Skinripper. [Draftsim: Ultimate Duskmourn Limited Set Review, via WebSearch snippet; CoolStuffInc: Mechanics of Magic Overview: Eerie, via WebSearch snippet]",
+      "sources": ["draftsim.com: DSK Limited Set Review", "coolstuffinc.com: Roman Fusco on Eerie"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Despite the Limited praise, Constructed has largely ignored the card: Scryfall's EDHREC rank for Infernal Phantom sits at 21,480 and the market price has settled at USD 0.07 nonfoil / 0.08 foil — bulk-uncommon territory, consistent with a card that needs a dedicated Eerie shell to shine. [Scryfall (EDHREC rank, prices)]",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "The art is by Mike Sass, a Canadian traditional-media oil painter and former 12-year BioWare staff artist who has illustrated for Magic, World of Warcraft, Star Wars, Pathfinder, and Dungeons & Dragons. [sassart.com artist bio, via WebSearch snippet; Scryfall (artist field)]",
+      "sources": ["sassart.com", "Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The card has no flavor text on Scryfall — only oracle text. The horror is carried entirely by the art and the Eerie trigger rather than a quoted speaker. [Scryfall (`flavor_text` field absent)]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Balemurk Leech", "set": "Duskmourn: House of Horror", "note": "Black Eerie creature; the B/R sacrifice-Eerie pairing partner."},
+    {"name": "Erratic Apparition", "set": "Duskmourn: House of Horror", "note": "Another Eerie Spirit; flavor parallel as a House-bound nightmare."},
+    {"name": "Ghostly Dancers", "set": "Duskmourn: House of Horror", "note": "Eerie creature that anchors the U/W enchantment-trigger archetype the Phantom slots into when splashed."},
+    {"name": "Fear of Infinity", "set": "Duskmourn: House of Horror", "note": "Black Eerie Nightmare; canonical example of the 'fear-as-enchantment' design hook for the set."},
+    {"name": "Final Vengeance", "set": "Duskmourn: House of Horror", "note": "Limited reviewers cite this as the B/R sacrifice-payoff that doubles up Infernal Phantom's death-damage trigger."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

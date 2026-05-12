@@ -15,9 +15,9 @@ tags_filter: ["duo", "mid-shot", "three-quarter", "female-figure", "enchantment"
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/201-setessan-training.png
 average_cost_paid: 0
 market_price: 0.19
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-06
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

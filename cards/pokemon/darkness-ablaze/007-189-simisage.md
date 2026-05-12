@@ -14,10 +14,10 @@ tags_hub: ["monkey", "primate", "forest", "leaf", "canopy", "jungle", "leaping",
 tags_filter: ["solo", "mid-shot", "forward-facing", "action-pose", "creature-only", "no-face-detail-needed", "grass-type", "stage-1", "pokemon-card"]
 reference_image: cards/_images/pokemon/darkness-ablaze/007-189-simisage.png
 average_cost_paid: 0
-market_price: 0.07
-market_price_as_of: 2026-05-11
+market_price: 0.09
+market_price_as_of: 2026-05-12
 date_added: 2026-05-11
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://images.pokemontcg.io/swsh3/7_hires.png
 art_match_confidence: high
 needs_manual_review: false

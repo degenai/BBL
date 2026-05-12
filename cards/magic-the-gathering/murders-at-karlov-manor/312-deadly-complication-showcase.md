@@ -15,9 +15,9 @@ tags_filter: ["duo", "2-figures", "overhead-shot", "scene-mode", "no-face", "bla
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/312-deadly-complication-showcase.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-10
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/7/c/7c68981c-037c-42e7-9b7f-6f07edab5f2e.png?1706242142
 art_match_confidence: high
 needs_manual_review: false

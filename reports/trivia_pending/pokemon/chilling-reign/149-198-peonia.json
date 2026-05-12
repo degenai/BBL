@@ -1,0 +1,47 @@
+{
+  "card_name": "Peonia",
+  "game": "Pokemon",
+  "set": "Chilling Reign",
+  "collector_number": "149/198",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed: depicted figure is Peonia (Japanese: Shakuya), the Crown Tundra DLC NPC daughter of Peony, via PokemonTCG.io API (card name + set 'Chilling Reign' + Supporter type) and Bulbapedia/Pokemon Fandom wiki entries (via WebSearch snippets). She is NOT a Gym Leader — she is a civilian DLC NPC who traveled to Crown Tundra to try Dynamax Adventures. Internal Pokemon-original character, no external IP risk, but ip_verified flips to true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Peonia is a Crown Tundra DLC NPC, NOT a Galar Gym Leader — she is the daughter of Peony (a former Steel-type Gym Leader and once-briefly Galar Champion, and notably the younger brother of Chairman Rose of Macro Cosmos). Peonia traveled to the Crown Tundra hoping to try Dynamax Adventures on her own, only for her overbearing father to insist on a father-daughter 'adven-tour' [Bulbapedia: Peonia, via WebSearch snippet] [Pokemon Fandom Wiki: Peony, via WebSearch snippet].",
+      "sources": ["Bulbapedia: Peonia, via WebSearch snippet", "Pokemon Fandom Wiki: Peony, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Chilling Reign (SWSH6, PTCGO code CRE, released 2021-06-18) leans heavily on the Crown Tundra DLC roster: Galar Gym Leaders Melony (no. 146/198) and Avery (no. 130/198) appear as Supporters alongside Crown Tundra NPCs Peony and Peonia. Despite sharing the set, Peonia does NOT belong to the Galar Gym Leader cluster — she has no gym, no badge, no League role [PokemonTCG.io API: swsh6-149] [Bulbapedia: Peonia, via WebSearch snippet].",
+      "sources": ["PokemonTCG.io API: swsh6-149", "Bulbapedia: Peonia, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by kirisAki across all three Chilling Reign prints: the regular Uncommon (no. 149/198), the Full Art Ultra Rare (no. 196/198), and the Rainbow Rare (no. 219/198) [PokemonTCG.io API: swsh6-149] [Limitless TCG: CRE/149, via WebSearch snippet].",
+      "sources": ["PokemonTCG.io API: swsh6-149", "Limitless TCG: CRE/149, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text: 'Put up to 3 Prize cards into your hand. Then, for each Prize card you put into your hand in this way, put a card from your hand face down as a Prize card.' A Prize-manipulation Supporter — niche but with a real combo identity around digging for specific Prize-locked pieces. Market price holds around $0.18 normal / $0.20 reverse holo as of 2026-05-12 [PokemonTCG.io API: swsh6-149].",
+      "sources": ["PokemonTCG.io API: swsh6-149"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Familial framing context for bundle copy: Peony is the younger brother of Chairman Rose (Macro Cosmos), making Peonia Rose's niece — though Rose's villain arc happens in the base SWSH story, not the Crown Tundra DLC where Peonia appears. Peony himself is not the Macro Cosmos Chairman; his brother Rose is [Pokemon Fandom Wiki: Peony, via WebSearch snippet] [Serebii: Macro Cosmos, via WebSearch snippet].",
+      "sources": ["Pokemon Fandom Wiki: Peony, via WebSearch snippet", "Serebii: Macro Cosmos, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Peony", "set": "Chilling Reign", "note": "Peonia's father, also in SWSH6 as a Supporter — direct family pair"},
+    {"name": "Melony", "set": "Chilling Reign", "note": "Same set; IS a Galar Gym Leader (Ice, Circhester) — contrast case for the gym-leader cluster boundary"},
+    {"name": "Avery", "set": "Chilling Reign", "note": "Same set; Isle of Armor Gym Leader (Psychic) — another Galar Gym Leader in SWSH6"},
+    {"name": "Rose", "set": "Vivid Voltage (or other SWSH-era prints)", "note": "Peony's older brother, Chairman of Macro Cosmos — extended family connection if a Macro-Cosmos-family bundle ever surfaces"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

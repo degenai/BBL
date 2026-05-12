@@ -40,6 +40,8 @@ This hub is NOT:
 
 - [[rebellion]] — sibling hub; rebellion is labor's load-bearing political verb
 - [[chinese-zodiac]] — sibling hub; zodiac uses functional-agrarian criteria that ARE labor-coded (rat = agrarian pest, ox = working animal, the whole grid is a peasant cosmology)
+- [[sanosuke-sakuma]] — artist node; Pokemon TCG illustrator who also designed Galar's working-class NPC trainer-class roster (Worker, Backpacker, Office Lady, Doctor, Poke Kid). Cross-medium portfolio = artist-as-bridge into the Galarian labor cross-section.
+- [[aether-rangers]] — character node; Avishkar's home Grand Prix team in *Aetherdrift*. Wizards' Planeswalker's Guide names them in canonical text as a "cross-generation, cross-class team of comrades that combine the best of pre-revolutionary Avishkar with the hope-chasing cohort of the new generation" — labor-as-solidarity coded into the team's official mission statement. Three corpus cards (Skystreak Engineer, Sabotage Strategist, Elvish Refueler) trivia-confirmed members; supporting-cast pit-crew commons around named legends Pia Nalaar and Sita Varma.
 - repo `cards/` — current candidate cards live here, tagged with the signals above
 - repo `docs/sketchbook.md` — narrative-first lair architect sketch
 - memory `bbl-narrative-first-lairs.md` — the principle that says hubs are narrative anchors, not tag clusters

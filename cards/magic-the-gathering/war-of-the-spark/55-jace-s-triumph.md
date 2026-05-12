@@ -10,14 +10,15 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["jace-beleren"]
 tags_hub: ["robed-figure", "hooded-figure", "mage", "wizard", "psychic", "mind-magic", "arcane-sigil", "runes", "meditation", "third-eye", "scholar", "planeswalker"]
 tags_filter: ["solo", "close-up", "forward-facing", "portrait-mode", "male-figure", "no-visible-eyes", "blue-magic", "sorcery", "card-draw"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/55-jace-s-triumph.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-05
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -78,4 +79,3 @@ An extreme close-up of a cowled figure in deep blue hooded robes, head tilted sl
 
 ## Connections
 
-- [[63-jace-mirror-mage]] — Same character across two sets. Both depict Jace Beleren (Scryfall `subject_known_ip: Jace Beleren`, `ip_verified: true` on both; ZNR-63 type_line carries the `— Jace` planeswalker subtype, WAR-55 oracle text references "a Jace planeswalker"). The WAR-55 art is a contemplative third-eye-sigil close-up set during the Ravnica war while Jace is trapped under Bolas's Immortal Sun; the ZNR-63 art is an active mirror-image kicker spell from the post-WAR Zendikar arc pursuing Nahiri to the Murasa Skyclave. Two acts of the same character's storyline rendered by different artists (Kieran Yanner WAR, Tyler Jacobson ZNR), bound through the canonical Jace Beleren identity. [Scryfall: WAR-55 and ZNR-63 records] [MTG Wiki: Jace Beleren]

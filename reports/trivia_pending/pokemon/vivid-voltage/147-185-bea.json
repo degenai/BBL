@@ -1,0 +1,54 @@
+{
+  "card_name": "Bea",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "147/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card frame names 'Bea' and the depicted figure matches Bea's canonical character design (Galar karate uniform: sleeveless dark top, fingerless gloves, orange-accented athletic bottoms, silver-grey crop). The Vivid Voltage 147 print art depicts the interior of Stow-on-Side Stadium as it appears in Pokemon Sword, where Bea is the version-exclusive Fighting-type Gym Leader.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Bea is one of five Galar Gym Leader Supporter cards printed in Vivid Voltage (SWSH4): Allister (no. 146), Bea (no. 147), Leon (no. 154), Nessa (no. 157), and Opal (no. 158). [Bulbapedia: Vivid Voltage / via WebSearch snippet]",
+      "sources": ["Bulbapedia (Vivid Voltage)"]
+    },
+    {
+      "category": "design",
+      "text": "Regular print art by take; Full Art and Rainbow Rare prints feature artwork by Hideki Ishikawa. [Bulbapedia: Bea (Vivid Voltage 147), via WebSearch snippet]",
+      "sources": ["Bulbapedia (Bea VIV 147)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Bea is the version-exclusive Fighting-type Gym Leader of Stow-on-Side Stadium in Pokemon Sword; in Pokemon Shield, the slot is filled by Allister (Ghost-type) — the Stow-on-Side gym is the major version-asymmetric pair in Galar's league. [Bulbapedia: Bea / Stow-on-Side Stadium, via WebSearch snippet]",
+      "sources": ["Bulbapedia (Bea)", "Bulbapedia (Stow-on-Side Stadium)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Pokemon Sword/Shield game canon, Bea is an expert of Galar karate, known for a stoic demeanor and a four-Pokemon Fighting-type team headlined by a Gigantamax Machamp. [Bulbapedia: Bea, via WebSearch snippet]",
+      "sources": ["Bulbapedia (Bea)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text: 'Discard the top 5 cards of your deck, and attach any Energy cards you discarded in this way to your Benched Fighting Pokemon in any way you like.' — a milling-payoff Supporter that rewards Fighting-bench acceleration decks. [PokemonTCG.io / pokemon.com TCG database]",
+      "sources": ["pokemon.com TCG database"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "No flavor text printed (Supporter Trainer cards in SWSH-era Pokemon TCG carry mechanical text only, no flavor block). [pokemon.com TCG database]",
+      "sources": ["pokemon.com TCG database"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Allister", "set": "Vivid Voltage", "note": "no. 146/185 — Stow-on-Side Gym Leader pair (Shield version, Ghost-type); the version-asymmetric counterpart to Bea"},
+    {"name": "Nessa", "set": "Vivid Voltage", "note": "no. 157/185 — same Galar Gym Leader Supporter cycle in SWSH4"},
+    {"name": "Opal", "set": "Vivid Voltage", "note": "no. 158/185 — same Galar Gym Leader Supporter cycle in SWSH4"},
+    {"name": "Leon", "set": "Vivid Voltage", "note": "no. 154/185 — Galar Champion in the same Supporter cycle"},
+    {"name": "Milo", "set": "Rebel Clash", "note": "no. 161/192 — Galar Gym Leader Supporter from SWSH2 (Turffield, Grass-type); same broader Galar Gym Challenge character set"},
+    {"name": "Bea", "set": "Champion's Path", "note": "Full Art Supporter reprint cycle for Galar Gym Leaders; her core game appearance shares the karate-uniform character design"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

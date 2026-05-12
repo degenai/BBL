@@ -7,7 +7,7 @@ rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 9
+quantity: 11
 held_for_lair: 0
 bundles: []
 tags_hub: ["wizard", "spellcasting", "colossus", "psychic-dominance", "golden-light", "robed-figure"]
@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide-shot", "three-quarter-facing", "scene-mode", "artifa
 reference_image: cards/_images/magic-the-gathering/alara-reborn/84-vectis-dominator.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-07
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 mood: sublime
 time_of_day: indeterminate
 setting: other

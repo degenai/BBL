@@ -1,0 +1,54 @@
+{
+  "card_name": "Razorkin Hordecaller",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "152",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag from vision pass; the figure is a generic razorkin-faction antagonist, not a named lore character (the named razorkin leader is The Lord of Pain, a different card, DSC no. 3).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Razorkin are one of three named factions of Duskmourn alongside the Cult of Valgavoth and the Survivors — per Emily Teng's Planeswalker's Guide to Duskmourn, they are 'former survivors who now hunt the remaining survivors for their own twisted amusement,' operating loosely under The Lord of Pain (the first-ever razorkin) and inhabiting elaborate death-trap rooms in the Boilerbilges known as the razor mazes [Wizards: Planeswalker's Guide to Duskmourn, via WebFetch; MTG Wiki: Duskmourn #Razorkin].",
+      "sources": ["Wizards: Planeswalker's Guide to Duskmourn (via WebFetch)", "MTG Wiki: Duskmourn"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Only three cards in DSK proper carry the Razorkin name: Razorkin Hordecaller (no. 152, R), Razorkin Needlehead (no. 153, R), and Ripchain Razorkin (no. 154, R) — all three are red and collector-numbered consecutively as a flavor cycle. The full razorkin faction surfaces on roughly 40 cards by art across the DSK block per the Scryfall art-search index linked from MTG Wiki, but 'Razorkin' is not a creature subtype on any card — the antagonist tag exists in lore and card-name flavor only [Scryfall set search e:dsk; MTG Wiki: Duskmourn #Razorkin].",
+      "sources": ["Scryfall", "MTG Wiki: Duskmourn"]
+    },
+    {
+      "category": "design",
+      "text": "Scryfall type_line is 'Creature — Human Clown Berserker' — Hordecaller is the only Razorkin-named card carrying the Clown subtype (Razorkin Needlehead is typed Human Assassin, Ripchain Razorkin is Human Berserker). The Clown subtype across DSK is itself rare, appearing on just three cards in the set: Razorkin Hordecaller, Vicious Clown (no. 163), and The Jolly Balloon Man (no. 219) [Scryfall type-search t:clown e:dsk].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Razorkin Hordecaller was previewed 2024-09-06 by Bandit on Twitter; the print-stage card was archived on magicspoiler.com under the URL slug 'bloodslicer-horde-leader' suggesting a working/internal name was changed before release — the public name shifted from Bloodslicer Horde Leader to Razorkin Hordecaller to fit the named faction nomenclature [Scryfall preview field; magicspoiler.com URL slug evidence].",
+      "sources": ["Scryfall", "magicspoiler.com (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text reads verbatim: \"Know your place, pets! First blood is mine!\" — speaker unattributed on the print; the line is consistent with the canonical Razorkin disposition of pack-leadership-by-cruelty and competing among themselves for first kills when survivors aren't available, per the Planeswalker's Guide note that razorkin will turn on each other to satisfy their cravings [Scryfall flavor_text field; Wizards: Planeswalker's Guide to Duskmourn].",
+      "sources": ["Scryfall", "Wizards: Planeswalker's Guide to Duskmourn (via WebFetch)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 4/4 for {4}{R} with haste plus an attack-trigger 1/1 red Gremlin token-maker; Scryfall edhrec_rank 16256 puts it in the lower-popularity uncommon tier for commander, and the secondary-market price sits around $0.12 USD non-foil as of 2026-05-12. Gremlin is a niche subtype in DSK — only one other Gremlin-typed card prints in the set (Irreverent Gremlin no. 142), so the token stream is a callback rather than a tribal payoff [Scryfall card data; Scryfall type-search t:gremlin e:dsk].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "The Lord of Pain", "set": "Duskmourn: House of Horror Commander", "note": "DSC no. 3, mythic, BR Legendary Human Assassin — canonical leader figure the razorkin take directives from; primary lore anchor for any Razorkin-faction bundle copy."},
+    {"name": "Razorkin Needlehead", "set": "Duskmourn: House of Horror", "note": "DSK no. 153, R — direct cycle partner (consecutive collector number); the rare-slot razorkin with the chant-flavor 'Stitch your eyes, stitch your skin, stitch your mouth into a grin.'"},
+    {"name": "Ripchain Razorkin", "set": "Duskmourn: House of Horror", "note": "DSK no. 154, C — common-slot razorkin with cycling-via-sac-land utility text; rounds out the three-card faction cycle."},
+    {"name": "Diversion Specialist", "set": "Duskmourn: House of Horror", "note": "DSK no. 132 — the Survivor-side counterpart whose flavor (\"Hey! Fang-faces! Over here!\") is shouted at razorkin antagonists like Hordecaller; survivor vs. razorkin narrative pair."},
+    {"name": "Irreverent Gremlin", "set": "Duskmourn: House of Horror", "note": "DSK no. 142 — the only other Gremlin-typed creature in the set; the natural pairing partner for the gremlin token stream Hordecaller produces."},
+    {"name": "Meathook Massacre II", "set": "Duskmourn: House of Horror", "note": "per MTG Wiki, the razorkin recreated this on-plane after hearing the story of the original Innistrad Meathook Massacre — a piece of Razorkin-as-fandom worldbuilding worth surfacing for bundles."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

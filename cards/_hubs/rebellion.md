@@ -46,5 +46,6 @@ This hub is NOT:
 - [[labor]] — sibling hub; labor is the material condition rebellion responds to
 - [[chinese-zodiac]] — sibling hub; the zodiac project's gap-as-feature scholarship IS a small rebellion against type-mushy "everything qualifies" curation
 - [[mutual-aid]] (in [[Alex]]'s wiki) — the constructive side of rebellion; what comes after refusal
+- [[aether-rangers]] — character node; Avishkar's home Grand Prix team in *Aetherdrift*, constituted in the immediate aftermath of the Indigo Revolution. Wizards' Planeswalker's Guide describes them as a cross-generation, cross-class team of comrades bridging pre- and post-revolutionary Avishkar — the team's existence is rebellion's institutional aftermath, the political verb organized into a roster.
 - repo `docs/sketchbook.md` — narrative-first lair architect sketch
 - memory `bbl-narrative-first-lairs.md` — the principle that says hubs are political anchors, not aesthetic ones

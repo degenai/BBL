@@ -14,10 +14,10 @@ tags_hub: ["elf", "soldier", "hooded-figure", "forest", "fog", "patrol", "trio",
 tags_filter: ["group", "3-figures", "mid-shot", "forward-facing", "scene-mode", "narrative-mode", "green-magic", "creature-elf", "creature-soldier"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/224-entourage-of-trest.png
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-11
+market_price: 0.15
+market_price_as_of: 2026-05-12
 date_added: 2026-05-06
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

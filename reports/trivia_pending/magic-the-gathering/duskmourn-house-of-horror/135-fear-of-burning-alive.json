@@ -1,0 +1,59 @@
+{
+  "card_name": "Fear of Burning Alive",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "135",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "Original Wizards-design Nightmare enchantment-creature in the Duskmourn Fear-of cycle. No IP flag from vision pass; no external IP risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmourn: House of Horror (set code DSK) released 2024-09-27 as a standard expansion; the plane is a single haunted house grown to swallow an entire world, ruled by the demon Valgavoth, with Wizards designing the set top-down from 1970s-1990s slasher and haunted-house horror cinema. [Scryfall set page (dsk)] [Wizards: Duskmourn Vision Design Handoff Part 1, via WebSearch snippet]",
+      "sources": ["Scryfall", "magic.wizards.com Vision Design Handoff Part 1 (WebSearch snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Card sits inside the set's 'Fear of...' Nightmare cycle, an uncommon-and-up run of Enchantment Creature - Nightmare cards each naming a specific phobia and embodying it as a stalking creature. Corpus-anchored at [[fear-of-cycle]]; confirmed cycle members visible on Scryfall search of DSK with name prefix 'Fear of' include Fear of Abduction (no. 9, W), Fear of Surveillance (no. 11, W), Fear of Failed Tests (no. 55, U), Fear of Falling (no. 56, U), Fear of Isolation (no. 58, U), Fear of the Dark (no. 98, B), Fear of Being Hunted (no. 134, R), Fear of Burning Alive (no. 135, R), Fear of Missing Out (no. 136, R), and Fear of Infinity (no. 214, UB). [Scryfall: set DSK]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Wizards' Duskmourn Vision Design Handoff, authored by Annie Sardelis (lead Vision designer) and published as a two-part Mark Rosewater Making Magic article, names suspense-over-shock as the set's core emotional thesis (Hitchcock-style stewing dread rather than jump-scare) and identifies enchantments as the card type best suited to expressing horror because they have lingering board presence. The Fear-of cycle is the most direct mechanical expression of that design call: the phobia stays in play, stalking. [Wizards: Duskmourn Vision Design Handoff Part 1, via WebSearch snippet]",
+      "sources": ["magic.wizards.com Vision Design Handoff Part 1 (WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Six-mana {4}{R}{R} 4/4 Enchantment Creature - Nightmare whose ETB deals 4 to each opponent (a four-damage face-tax on entry), with a Delirium trigger that repeats the damage to a target creature each time a source you control deals noncombat damage to an opponent, gated on four-plus card types in the graveyard. Two damage-doublers in one frame: the ETB is unconditional, the Delirium ride-along scales with any pinger or ETB-burn in the deck. EDHREC rank 6,898 at retrieval (bulk-uncommon territory in Commander); Standard, Pioneer, Modern, Legacy, Vintage, Commander legal; Pauper not legal. Preview source DavyFJones on 2024-09-05. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "No flavor text on the card per Scryfall - the cycle frequently runs textless when the phobia name and creature type already do the flavor work, and DSK-135 is one of those. The name plus the screaming-skull-cluster art carry the conceit unsupported. [Scryfall flavor_text field empty]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by J.P. Targete, an award-winning freelance concept artist with 26-plus Magic credits across his career and at least three pieces in Duskmourn: Fear of Burning Alive (no. 135), Chainsaw (no. 128), and Arabella, Abandoned Doll (no. 208). His DSK work runs hot-palette and high-contrast - the kiln-glow lighting on Fear of Burning Alive and the saturated-red interiors of Chainsaw share a visual register. [Scryfall artist field] [mtg.wtf: J.P. Targete, via WebSearch snippet] [Gatherer artist index: J.P. Targete, via WebSearch snippet]",
+      "sources": ["Scryfall", "mtg.wtf (WebSearch snippet)", "Gatherer artist index (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fear of Being Hunted", "set": "Duskmourn: House of Horror", "note": "Adjacent red Fear-of cycle member (no. 134); shares the 134-135-136 red phobia run. Already corpus-anchored to [[fear-of-cycle]]."},
+    {"name": "Fear of Missing Out", "set": "Duskmourn: House of Horror", "note": "Third red Fear-of cycle member (no. 136); completes the 134-135-136 red run. Cycle roster expansion candidate (not yet in corpus)."},
+    {"name": "Fear of Abduction", "set": "Duskmourn: House of Horror", "note": "White Fear-of cycle member (no. 9) with Flying; anchored to [[fear-of-cycle]]."},
+    {"name": "Fear of Falling", "set": "Duskmourn: House of Horror", "note": "Blue Fear-of cycle member (no. 56); anchored to [[fear-of-cycle]]."},
+    {"name": "Fear of Failed Tests", "set": "Duskmourn: House of Horror", "note": "Blue Fear-of cycle member (no. 55); Zimone Wola flavor-text speaker. Anchored to [[fear-of-cycle]]."},
+    {"name": "Fear of Isolation", "set": "Duskmourn: House of Horror", "note": "Blue Fear-of cycle member (no. 58); expands cycle roster beyond corpus-anchored members. Candidate for orphan/archive write-up."},
+    {"name": "Fear of Surveillance", "set": "Duskmourn: House of Horror", "note": "White Fear-of cycle member (no. 11); adds a second white member to the cycle (alongside Abduction). Roster-expansion candidate."},
+    {"name": "Fear of the Dark", "set": "Duskmourn: House of Horror", "note": "Black Fear-of cycle member (no. 98); first black slot identified in the cycle. Roster-expansion candidate."},
+    {"name": "Fear of Infinity", "set": "Duskmourn: House of Horror", "note": "UB Fear-of cycle member (no. 214); first multicolor slot identified, suggesting the cycle has a multicolor capstone. Roster-expansion candidate."},
+    {"name": "Chainsaw", "set": "Duskmourn: House of Horror", "note": "Same artist (J.P. Targete) inside DSK; shares the saturated-red horror-interior visual register. Adjacent through artist, not cycle."},
+    {"name": "Arabella, Abandoned Doll", "set": "Duskmourn: House of Horror", "note": "Same artist (J.P. Targete) inside DSK. Adjacent through artist."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/181-cursed-wombat.png
 average_cost_paid: 0
 market_price: 0.22
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-11
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/a/0/a09a8de1-98b3-49e0-82f6-d90f1048de44.png?1717012671
 art_match_confidence: high
 needs_manual_review: false

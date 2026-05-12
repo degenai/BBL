@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", 
 reference_image: cards/_images/magic-the-gathering/magic-2015-m15/239-will-forged-golem.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-07
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/0/1/0175bafa-dc9f-464c-8f9e-dd4131732652.png?1562781782
 art_match_confidence: high
 needs_manual_review: false

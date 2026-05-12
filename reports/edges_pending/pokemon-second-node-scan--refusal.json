@@ -1,0 +1,199 @@
+{
+  "edge_id": "pokemon-second-node-scan--refusal",
+  "shape": "refusal",
+  "topology": null,
+  "category": "node-proposal (attempted, none clear threshold)",
+  "scope": "Pokemon-side second non-card-node scan. Mandate: find ONE more achievable Pokemon-side node beyond the existing sanosuke-sakuma artist node, OR refuse cleanly. Three candidates flagged by caller: sowsow artist node, Galarian Gym Leaders character cluster, Mareep evolution line. Verified each against corpus state; none clear the bar Sakuma cleared in Edgelord 1's pass.",
+  "endpoints_considered": [
+    {"type": "candidate-node", "category": "artist", "name": "sowsow", "verified_corpus_members": 7},
+    {"type": "candidate-node", "category": "character-cluster", "name": "Galarian Gym Leaders", "verified_corpus_members": 4},
+    {"type": "candidate-node", "category": "character/species-line", "name": "Mareep evolution line", "verified_corpus_members": 5}
+  ],
+  "candidate_evaluations": {
+    "sowsow_artist_node": {
+      "corpus_membership_audit": {
+        "method": "Grep ^artist: sowsow across cards/pokemon/, case-insensitive",
+        "raw_card_count": 7,
+        "cards_verified_on_disk": [
+          "cards/pokemon/darkness-ablaze/106-189-purrloin.md",
+          "cards/pokemon/vivid-voltage/065-185-girafarig.md",
+          "cards/pokemon/rebel-clash/115-192-skuntank.md",
+          "cards/pokemon/fusion-strike/133-264-mankey.md",
+          "cards/pokemon/darkness-ablaze/074-189-gothorita.md",
+          "cards/pokemon/darkness-ablaze/055-189-mareep.md",
+          "cards/pokemon/chilling-reign/033-198-castform-rainy-form.md"
+        ],
+        "enrichment_depth_audit": {
+          "trivia_passed": 1,
+          "trivia_passed_cards": ["106-189-purrloin (only)"],
+          "vision_passed_only_tags_hub_nonempty": 1,
+          "vision_only_cards": ["033-198-castform-rainy-form"],
+          "bare_corpus_tags_hub_empty": 5,
+          "bare_cards": ["065-185-girafarig", "115-192-skuntank", "133-264-mankey", "074-189-gothorita", "055-189-mareep"]
+        }
+      },
+      "verdict": "DEFER. Already adjudicated.",
+      "verdict_reasoning": "Edgelord 1's sidecar (sanosuke-sakuma--artist-node-proposal.json, alternatives_considered[0]) explicitly addressed sowsow and chose Sakuma over her on the load-bearing-bridge axis, not the card-count axis. The Sakuma-over-sowsow verdict was: 'Sowsow's signature is environmental storytelling... coherent thread, but does not bridge into any foundational BBL hub. Sakuma's cross-medium portfolio bridges directly into the labor hub.' That verdict was correct and re-running it here without new evidence would be litigating an already-decided question. The conditions Edgelord 1 set for a future sowsow pass were explicit: 'when more sowsow cards are trivia-passed AND/OR when a sowsow-coded bundle thesis emerges.' Neither has happened in the interval. Of 7 sowsow cards in corpus, exactly 1 is trivia-passed (Purrloin, unchanged from when Edgelord 1 audited) and 5 are bare-corpus entries with empty tags_hub. The bundle thesis hasn't been articulated. Building the sowsow node now would weaken Edgelord 1's verdict on the same evidence.",
+      "anti_pattern_diagnosis": "Proposing this node now would commit the artist-as-attribution failure mode the spec warns against. The Edgelord spec rejects 'Shared artist with thematic intent — same artist, same set, art-direction-coherent depiction (less common; only when the artist's stylistic continuity is the *point*).' Sowsow's continuity IS coherent (environmental storytelling) but the *point* (a bundle thesis, a hub bridge, a load-bearing curatorial anchor) is not yet articulated. Five cards bare-corpus and one card trivia-passed = the node would carry one substantive entry and six attribution-only stubs. Sakuma's appears_on field has the same imbalance (1 trivia + 4 vision/trivia pending) but Sakuma's load-bearing fact (the Galarian NPC-trainer-class cross-medium portfolio) is in-corpus on Larvitar's trivia and bridges to the labor hub. Sowsow has no comparable in-corpus bridge claim yet."
+    },
+    "galarian_gym_leaders_cluster": {
+      "corpus_membership_audit": {
+        "method": "Glob cards/pokemon/**/*<gym-leader-name>*.md for each Sword & Shield gym leader; verify each match's tags_hub / Trivia status",
+        "raw_card_count_named_gym_leaders": 4,
+        "cards_verified_on_disk": [
+          "cards/pokemon/vivid-voltage/146-185-allister.md (vision-passed, ip_verified: true, tags_hub includes 'gym-leader')",
+          "cards/pokemon/chilling-reign/146-198-melony.md (vision-passed, tags_hub includes 'gym-leader')",
+          "cards/pokemon/champion-s-path/55-73-kabu.md (bare, tags_hub empty)",
+          "cards/pokemon/chilling-reign/149-198-peonia.md (vision-passed; Peonia is NOT a gym leader — she is Peony's daughter, a Crown Tundra DLC NPC; tags_hub explicitly does NOT include 'gym-leader')"
+        ],
+        "enrichment_depth_audit": {
+          "trivia_passed": 0,
+          "vision_passed_only_tags_hub_nonempty": 2,
+          "bare_corpus_tags_hub_empty": 1,
+          "category_mismatch_excluded": "Peonia (NPC, not a gym leader)"
+        }
+      },
+      "verdict": "DEFER. Anti-confab violation if built now.",
+      "verdict_reasoning": "Of 4 candidate cards, ZERO are trivia-passed. The cluster claim itself ('Galarian Gym Leaders form a faction-coherent character cluster') is exactly the kind of N-character faction membership assertion the agent network's anti-confab discipline guards against. The bbl-triviabot-no-role-identity-conflation memory note codifies this precisely: 'Tithe Drinker (unnamed Orzhov vampire common) is NOT Slavomir Zoltan (named lore tithe-master) just because they share a role; requires explicit evidence (oracle/flavor text, Wizards article, signature visual identifier) before linking depicted figures to named characters.' The Pokemon-side cognate: 'gym-leader appearing in a card's tags_hub' is a role tag, not membership confirmation of a Wizards-canonical faction cluster. Without trivia-pass evidence on at least one of these cards confirming the cluster-level grouping (cross-card mentions, Bulbapedia citations, shared-storyline anchoring beyond just regional co-occurrence), building the node would rest on training-memory knowledge of Sword & Shield instead of in-corpus citations. Edgelord 1's sidecar already adjudicated this with the same logic: 'ZERO of these are trivia-passed yet. Without trivia evidence in-corpus for any of them, a hub or character cluster proposal would rest entirely on external Bulbapedia citations rather than on captured BBL trivia.' That verdict still holds.",
+      "structural_appeal_acknowledged": "Galar Gym Leaders as a character-cluster node is a structurally elegant move once the trivia layer catches up — parallel to the orzhov-syndicate faction node on the MTG side. The 'no faction without trivia' bar is what blocks it now, not the cluster's eventual graph-worthiness.",
+      "additional_findings_surfaced": "Peonia (CRE-149) is correctly NOT tagged as 'gym-leader' in her vision pass — the visionbot caught the distinction (she has 'trainer' but not 'gym-leader' in tags_hub). That's a good vision-discipline data point. She would be a category mismatch for any Gym Leaders cluster node anyway."
+    },
+    "mareep_evolution_line": {
+      "corpus_membership_audit": {
+        "method": "Glob cards/pokemon/**/*mareep*.md, *flaaffy*.md, *ampharos*.md",
+        "raw_card_count": 5,
+        "cards_verified_on_disk": [
+          "cards/pokemon/darkness-ablaze/055-189-mareep.md (artist: sowsow, tags_hub empty)",
+          "cards/pokemon/chilling-reign/047-198-mareep.md (artist: Miki Tanaka, tags_hub empty)",
+          "cards/pokemon/chilling-reign/047-198-mareep--reverse-holofoil.md (artist: Miki Tanaka, trivia-passed, tags_hub non-empty)",
+          "cards/pokemon/chilling-reign/048-198-flaaffy.md (artist: sui, tags_hub empty)",
+          "cards/pokemon/darkness-ablaze/056-189-flaaffy.md (artist: Tomokazu Komiya, tags_hub empty)"
+        ],
+        "ampharos_in_corpus": false,
+        "enrichment_depth_audit": {
+          "trivia_passed": 1,
+          "trivia_passed_cards": ["chilling-reign/047-198-mareep--reverse-holofoil (only)"],
+          "vision_passed_only_tags_hub_nonempty": 0,
+          "bare_corpus_tags_hub_empty": 4
+        }
+      },
+      "verdict": "REJECT. Wrong layer; subsumed; not a first-class graph dimension at this scale.",
+      "verdict_reasoning": "Edgelord 1's sidecar already rejected this on the layer-correctness axis: 'A 3-card evolution chain on a single species isn't a first-class graph dimension — that's better captured by the per-card Pre-evolution / Evolution Related-Cards bullets the triviabot already writes. Evolution lines as a layer might earn their own node-type in the future (e.g. cards/_species/) but proposing that layer on a single chain is premature.' The card count is now 5 rather than 3 (three Mareep prints across two sets + two Flaaffy prints across two sets), but the structural problem is the same: this is a species-tribal grouping, the Pokemon-side cognate of MTG's 'forest' tag bridge, not a character or hub. Building a 'mareep-evolution-line' character node would create a precedent where every multi-print Pokemon species in corpus could claim a node — and the corpus has many (Pikachu, Charmander, Magikarp, Riolu, Cubchoo all multi-print). That's a tag-layer responsibility, not a character-layer responsibility. Ampharos is not in corpus, breaking the 'evolution-line completeness' claim further. The Related-cards bullets on the trivia-passed Mareep already do the pre-evolution / next-stage linking work. No node is needed.",
+      "additional_concern_artist_incoherence": "The 5 cards span 4 different artists (sowsow, Miki Tanaka, sui, Tomokazu Komiya). There's no artist-cohesion story to layer underneath the species-cohesion story, so the cluster cannot be re-framed as an artist node (the way Sakuma was). Each card stands alone as an attribution, no cross-card thread."
+    }
+  },
+  "decision": {
+    "verdict": "REFUSE CLEANLY",
+    "topology": null,
+    "edgelord_mood": "refused-cleanly",
+    "rationale_summary": "All three candidates fail on different gates that the Edgelord spec, the agent network's memory notes, and Edgelord 1's prior verdicts have already articulated. Sowsow fails the load-bearing-bridge bar that Sakuma cleared (no in-corpus hub bridge yet; signature is stylistic-coherence, not curatorial-thesis). Galarian Gym Leaders fails the no-faction-without-trivia bar (zero trivia passes across 4 candidate cards). Mareep fails the wrong-layer bar (species-tribal, not character-cluster). The graph is better served by the existing one solid Sakuma node and an honest refusal than by a second thin node that a future Dark Nodesley EX pass would dissolve.",
+    "what_the_corpus_needs_before_the_second_node_can_land": [
+      "MORE TRIVIA PASSES on Pokemon cards. The Pokemon-side trivia layer is the bottleneck. Five trivia-passed cards across the entire Pokemon corpus (Larvitar, Purrloin, Mareep CRE-047-RH, Cubchoo CRE-042-or-similar pending verification, etc.) is too thin for cluster claims. The bbl-researcher queue should push more Pokemon cards through trivia.",
+      "SPECIFICALLY: trivia passes on the 4 Galar Gym Leader cards (Allister, Melony, Kabu, plus one or two more if acquired). If Allister's trivia pass confirms 'Stow-on-Side Gym Leader, Ghost-type specialist, part of the Galar Gym Challenge alongside Milo/Nessa/Kabu/Bea/Opal/Melony/Piers/Raihan' via Bulbapedia citation, the cluster node becomes proposable on three confirmed members. Currently zero confirmed.",
+      "SPECIFICALLY: trivia passes on more sowsow cards (Girafarig, Skuntank, Mankey, Gothorita) to surface whether sowsow's 'environmental storytelling' signature lands on a curatorial thesis stronger than 'she paints species in their habitats.' If a sowsow card's trivia surfaces a Wizards-equivalent designer statement (Pokemon Card Lab / The Art of Pokemon interview) that articulates her aesthetic as anti-battle / pro-ecological / labor-coded, the node becomes proposable.",
+      "POKEMON ACQUISITIONS that would unlock cluster nodes: Pia Nalaar's MTG-side analog on the Pokemon side would be a Sword & Shield-era Champion (Leon) or a recurring Gym Leader's V/VMAX card with explicit faction/region text on the card itself. Acquiring 1-2 such 'thesis card' anchors makes a cluster node land cleanly.",
+      "AMPHAROS specifically would not unlock the evolution-line node (still wrong layer), but a future Mega Ampharos or Ampharos V card with depicted lineage callout might raise the question whether species-evolution-lines should become a cards/_species/ layer. That's a layer-proposal-grade question, not an Edgelord-pass-grade question."
+    ]
+  },
+  "next_most_valuable_pokemon_side_move": {
+    "ranked_recommendations": [
+      {
+        "rank": 1,
+        "move": "Queue 3-5 Galar Gym Leader cards for bbl-triviabot trivia passes (priority: Allister, Melony, Kabu). Once trivia-passed with Bulbapedia citations confirming Galar Gym Challenge faction membership, a galar-gym-challenge character-cluster node becomes proposable in one clean Mr. Nodeley pass.",
+        "estimated_unblock": "After 3 trivia passes — single batch of researcher work"
+      },
+      {
+        "rank": 2,
+        "move": "Queue 2-3 sowsow cards for trivia passes (priority: cards where the environmental-storytelling signature is most visible — Girafarig, Skuntank, Gothorita). If a sowsow-coded curatorial thesis emerges (e.g. 'anti-battle / pro-habitat / labor-of-illustration'), the sowsow artist node becomes proposable.",
+        "estimated_unblock": "After 2-3 trivia passes — Pokemon-side researcher batch"
+      },
+      {
+        "rank": 3,
+        "move": "Acquire and enrich 1-2 high-thesis Pokemon cards that would carry a node by themselves — examples: a Sword & Shield Champion card (Leon Full Art), a Gym Leader's V/VMAX with explicit region text, a Pokemon Card Lab-tagged artist alt-art. A single 'thesis card' acquisition can unlock a cluster node faster than 3 commons-tier trivia passes.",
+        "estimated_unblock": "Depends on Collectr inventory pipeline"
+      },
+      {
+        "rank": 4,
+        "move": "DEFER the question of a Pokemon-side hub node entirely. The Pokemon corpus may be better served by deepening the artist layer (Sakuma → sowsow → Miki Tanaka → take → Yukiko Baba etc.) before introducing characters or hubs. The artist layer is canonical-by-default (every card has a credited artist); the character layer is interpretive (someone has to decide what counts as a faction-coherent grouping). Building out the artist layer first gives the bundler more attachment points without committing to interpretive groupings prematurely.",
+        "estimated_unblock": "Strategic posture, not blocked on data"
+      }
+    ],
+    "edgelord_recommendation": "Rank 1 (Galar Gym Challenge trivia batch) is the highest-leverage move. The cluster is structurally appealing, the cards are already in corpus and vision-passed, and three trivia passes would unblock a clean Mr. Nodeley pass to land the node. Rank 4 (defer interpretive layers) is the safest move — and the one with the lowest regret-risk if the corpus's center of gravity continues to shift toward the bundler's eventual interpretive demands."
+  },
+  "citations": [
+    "[reports/edges_pending/sanosuke-sakuma--artist-node-proposal.json — alternatives_considered[0] (sowsow rejection rationale), alternatives_considered[1] (Galar Gym Leaders rejection rationale), alternatives_considered[2] (Mareep evolution line rejection rationale). All three were already adjudicated by Edgelord 1 and the conditions for revisiting were stated explicitly. None of those conditions have changed.]",
+    "[cards/_artists/sanosuke-sakuma.md — existing artist node, the only Pokemon-side non-card-node anchor in the graph; demonstrates the standard Edgelord 1 set for Pokemon-side node proposals (cross-medium hub bridge, in-corpus trivia citation, load-bearing curatorial fact).]",
+    "[Grep audit: 'artist: sowsow' returns 7 corpus cards across darkness-ablaze, vivid-voltage, rebel-clash, fusion-strike, chilling-reign sets — confirmed]",
+    "[Glob audit: cards/pokemon/**/*mareep*.md returns 3 entries; *flaaffy*.md returns 2; *ampharos*.md returns 0 — confirmed Ampharos absence]",
+    "[Glob audit: gym-leader name searches confirm 4 named Galar Gym Leaders in corpus (Allister, Melony, Kabu, Peonia-NPC-not-a-leader)]",
+    "[Enrichment depth audit: per-card tags_hub and ## Trivia presence verified across all 16 candidate cards]",
+    "[Memory note bbl-triviabot-no-role-identity-conflation — codifies the anti-confab discipline applied here to the Galar Gym Leaders cluster claim]",
+    "[Memory note bbl-hubs-hand-curated — codifies the load-bearing-anchor bar that disqualifies the sowsow node at this stage]",
+    "[Memory note bbl-anti-confab-prompt — codifies the broader anti-confabulation discipline this refusal upholds]"
+  ],
+  "files_modified": [],
+  "voice_note": "Edgelord voice, not Mr. Nodeley voice. Three candidates evaluated; three different failure modes; one consistent refusal. I am not Mr. Nodeley today because there is no transformation-trigger condition: none of the candidates clear the threshold the spec sets. I am not Dark Nodesley EX either; no existing node is empty, subsumed, or wrong. This is a textbook Edgelord refusal — the cleanest possible verdict given the evidence. The Pokemon side of the graph is one solid Sakuma node strong, and that's a perfectly respectable graph state. The path to two nodes runs through more trivia passes, not through more Edgelord passes. I scanned, I verified, I cross-referenced against Edgelord 1's prior adjudications, I found that each candidate I was asked to consider had already been correctly deferred or rejected, and the conditions for revisiting them have not changed. The pass returns honest empty-handed. The Sakuma node is doing its job and the next move belongs to bbl-researcher, not to me.",
+  "voice_separation_audit": {
+    "edgelord_voice_confined_to": ["description / verdict_reasoning fields", "voice_note field", "final report text back to caller"],
+    "md_body_register": "no MD bodies were modified in this pass; voice-contamination risk is zero",
+    "frontmatter_register": "no frontmatter was modified in this pass; voice-contamination risk is zero"
+  },
+  "wikilintbot_compatibility": {
+    "no_files_modified": "Zero MDs touched. Wikilintbot impact: none.",
+    "no_new_nodes_created": "Zero new MDs created. No frontmatter type field to validate.",
+    "no_orphan_creation_risk": "Refusal is the operation; nothing emitted into the graph."
+  },
+  "other_candidates_considered": [
+    {
+      "candidate": "Edgelord 1:1 mirror between Purrloin (DAA-106) and Castform Rainy Form (CRE-033) — both sowsow, both 'environmental storytelling' framing, only the 2 sowsow cards both at least vision-passed",
+      "topology_if_built": "mirror",
+      "why_skipped": "Shared illustrator alone is a tag-tier connection per spec — 'Shared artist with thematic intent ... less common; only when the artist's stylistic continuity is the *point*.' The point is not yet articulated curatorially. Worse: drawing this mirror now would subvert a future sowsow node, because the mirror would point exactly where the node would otherwise gather. If sowsow eventually becomes a node, both cards attach to it; the mirror becomes redundant restatement. Refuse for the same reason a sowsow node refuses to be born here."
+    },
+    {
+      "candidate": "Edgelord 1:1 mirror between Allister (VIV-146) and Melony (CRE-146) — both Galar Gym Leaders, both vision-passed, both ip_verified",
+      "topology_if_built": "mirror",
+      "why_skipped": "Same disqualification as the cluster node: vision-pass + ip-verify confirms each card depicts a Galar Gym Leader, but the CLUSTER claim ('these two are siblings in a Wizards-canonical Gym Challenge faction') is the anti-confab violation. A 1:1 mirror citing 'both Galarian Gym Leaders per Bulbapedia' would lean on training-memory knowledge of Sword & Shield rather than in-corpus trivia citations. Edgelord refuses to draw an edge on the same evidence Mr. Nodeley refused to build a node on. Consistency."
+    },
+    {
+      "candidate": "Edgelord 1:1 mirror between Mareep CRE-047-reverse-holo (trivia-passed) and Flaaffy CRE-048 (bare-corpus) — same set, sequential collector numbers, evolution-line adjacency",
+      "topology_if_built": "mirror",
+      "why_skipped": "Mareep is trivia-passed, Flaaffy is bare. The spec requires BOTH endpoints to be enriched ('The caller gives you 2–N absolute card-MD paths. The cards must already be enriched (tags_hub non-empty) AND ideally trivia-passed'). Flaaffy fails the gate. Even if Flaaffy were enriched, the mirror would be a tag bridge (same species line) without the canonical-evidence weight the spec demands; the Mareep trivia already includes a Related-cards bullet for Flaaffy by name, which IS the correct lightweight cross-link for evolution-line adjacency. A formal Connections edge would be redundant."
+    },
+    {
+      "candidate": "Mr. Nodeley transformation: propose cards/_artists/sowsow.md NOW despite the bridge-thinness, betting that future sowsow trivia passes will catch up",
+      "topology_if_built": "branch (1 artist -> 7 attribution-only cards)",
+      "why_skipped": "Anti-pattern. Building a node speculatively before the trivia layer supports it means the node MD body has to be written from training memory ('sowsow is known for environmental storytelling, debuted in Sun & Moon Forbidden Light with Avalugg/Inkay/Cubone, has ~150 cards, etc.'). The Sakuma node body was different — its load-bearing facts came from in-corpus trivia (Larvitar's trivia bullet captured the cross-medium portfolio claim with citations). A sowsow node written today would have to claim citations the corpus doesn't yet have. That's the anti-confab violation the agent network explicitly guards against. Wait for the Purrloin-precedent to repeat on 1-2 more sowsow cards, then propose the node grounded in those trivia entries."
+    },
+    {
+      "candidate": "Mr. Nodeley transformation: propose cards/_characters/galar-gym-challenge.md NOW based on Allister's ip_verified + tags_hub: gym-leader markers as a substitute for trivia",
+      "topology_if_built": "branch (1 cluster -> 2-3 vision-passed members)",
+      "why_skipped": "ip_verified means 'the depicted figure is canonically Allister of Sword & Shield' (verified via PokemonTCG.io API name match, per the warning callout in his Vision body). It does NOT confirm the cluster-level grouping. A character-cluster node requires evidence that the cluster itself is a Wizards/Game Freak-canonical grouping (the Gym Challenge as a storyline event with Allister/Melony/Kabu/etc. as named participants) and that evidence has to live IN the corpus's trivia layer, not in training memory. Same disqualification as sowsow: the node would have to import its citations rather than cite them from in-corpus passes."
+    },
+    {
+      "candidate": "Enlightened-Edgelord pass: prune a weak edge from the Sakuma node's appears_on list and replace with a stronger edge — e.g. remove the bare-corpus Vanillite and add a trivia-passed Galar card if one emerges",
+      "topology_if_built": "n/a (enlightenment requires both a removal and a stronger replacement)",
+      "why_skipped": "No weak edge exists on the Sakuma node to remove. All 5 appears_on entries are Sakuma cards that legitimately have her credit; the bare-corpus four are not 'weak edges,' they are 'cards awaiting their own enrichment pass.' Their attachment is to-be-completed, not erroneous. Enlightenment requires a refactor opportunity; none exists on the Sakuma node in its current state."
+    },
+    {
+      "candidate": "DARK NODESLEY EX: dissolve the Sakuma node on the grounds that only 1 of its 5 appears_on cards is actually trivia-passed",
+      "topology_if_built": "n/a (dissolution proposal)",
+      "why_skipped": "Strongly rejected. The Sakuma node has 5 corpus cards with verified artist credit, an in-corpus trivia citation for the cross-medium portfolio claim, a documented bridge to the labor hub, and a planned thesis-anchor card (Dancer, fusion-strike/232-264) awaiting enrichment. It is exactly the kind of correctly-load-bearing node Dark Nodesley EX defends rather than dissolves. The fact that 4 of 5 appears_on cards await enrichment is a queue state, not a node-quality defect. Dissolution refused."
+    }
+  ],
+  "future_passes_unlocked": [
+    "When 3+ Galar Gym Leader cards in corpus get trivia passes confirming Gym Challenge faction membership via Bulbapedia citations: commission a galar-gym-challenge character-cluster node via Mr. Nodeley.",
+    "When 2-3 sowsow cards get trivia passes that articulate a sowsow-coded curatorial thesis (anti-battle / pro-habitat / labor-of-illustration / etc.): commission the sowsow artist node, schema mirroring Sakuma's expanded artist-layer pattern.",
+    "When Ampharos (any printing) lands in corpus AND 1-2 additional multi-stage species lines emerge with trivia coverage (Cubone/Marowak, Riolu/Lucario, etc.): consider proposing the cards/_species/ layer as a structural addition. NOT proposable on a single line.",
+    "When a 'thesis card' Pokemon card is acquired (a Champion Full Art, a region-specific V/VMAX, an art-rare with explicit faction-text on the card): single-card-anchored node proposals become viable.",
+    "When the bbl-bundler agent ships and a Pokemon-side Discrete Lair is being assembled, the bundler's intent_tags expansion will surface concrete attachment-point needs that may justify retroactive node creation. The graph is allowed to grow in response to bundler-driven demand, not just pre-emptively."
+  ],
+  "what_was_NOT_touched_per_scope_discipline": {
+    "untouched_files": [
+      "cards/_characters/aether-rangers.md (Edgelord 1's work, not in scope)",
+      "cards/_characters/fear-of-cycle.md (Edgelord 2's work, not in scope)",
+      "cards/_artists/sanosuke-sakuma.md (existing Pokemon-side anchor, not modified — the refusal is structural, not corrective to Sakuma)",
+      "Any non-Pokemon node, edge, or sidecar (out of scope)"
+    ],
+    "discipline_note": "Sequential Phase 2 scope was strict: Pokemon-side second non-card-node only. I did not look at MTG cards, MTG nodes, or the cross-side interaction surface. The aether-rangers node and the fear-of-cycle roster expansion are accepted as-is and remain the work of their respective Edgelord 1 and 2 passes."
+  }
+}

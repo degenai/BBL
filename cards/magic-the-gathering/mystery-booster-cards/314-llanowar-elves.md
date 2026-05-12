@@ -14,10 +14,10 @@ tags_hub: ["elf", "druid", "warrior", "forest", "blade", "shirtless", "long-hair
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "male-figure", "action-mode", "creature-elf", "creature-druid", "green-magic", "mana-dork", "scene-mode"]
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/314-llanowar-elves.png
 average_cost_paid: 0
-market_price: 0.44
-market_price_as_of: 2026-05-11
+market_price: 0.45
+market_price_as_of: 2026-05-12
 date_added: 2026-05-06
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

@@ -15,9 +15,9 @@ tags_filter: ["solo", "no-figure", "mid-shot", "forward-facing", "portrait-mode"
 reference_image: cards/_images/magic-the-gathering/magic-2011-m11/211-ornithopter.png
 average_cost_paid: 0
 market_price: 0.3
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-07
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/3/3/331a0a01-0c12-4999-9bd7-f26991e4dad5.png?1562455545
 art_match_confidence: high
 needs_manual_review: false

@@ -10,14 +10,16 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+symbols: ["orzhov-signet"]
+characters: ["orzhov-syndicate"]
 tags_hub: ["locket", "jewelry", "gold", "coins", "treasure", "wealth", "relic", "artifact-object", "ornament", "still-life", "gothic", "orzhov"]
 tags_filter: ["no-figure", "close-up", "scene-mode", "artifact", "white-magic", "black-magic", "multicolor-white-black", "card-draw", "mana-rock"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/236-orzhov-locket.png
 average_cost_paid: 0
-market_price: 0.13
-market_price_as_of: 2026-05-11
+market_price: 0.12
+market_price_as_of: 2026-05-12
 date_added: 2026-05-07
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,4 +53,9 @@ A gilded metal locket with an elaborate, symmetrical design dominates the frame,
 **Objects:** locket, gold-coins, filigree, chain-clasp
 **Iconography:** eye-motif, guild-sigil, orzhov-crest
 **Genre cues:** fantasy, gothic
+
+## Connections
+
+- [[orzhov-signet]] — jewelry form of the eclipsed-sun signet. The four-pronged sun with a dark central pupil set in the locket's heart-shape pendant is the same iconographic device that backs the Pitiless Pontiff and Tithe Drinker thrones; here it is rendered as the worn-at-the-throat master's medallion described in the *Orzhov Signet* artifact card's Commander 2011 flavor ("If it's carried on a medallion, its bearer is a master"). The flavor speaker on this card, *Milana, Orzhov prelate*, is wearing the institutional power-mark as a status object. [Scryfall: Orzhov Signet (CMD 2011, Greg Hildebrandt art) flavor text], [MTG Wiki: Orzhov Syndicate — eclipsed-sun signet], [cards/_symbols/orzhov-signet.md]
+- [[orzhov-syndicate]] — guild whose institutional iconography this object is. The locket is the guild's signet rendered as wearable wealth — an artifact card whose entire art and gameplay function (mana rock + sac-draw) compresses the syndicate's debt-past-death thesis into one object: spend the gold, sell the medallion, draw the cards. [MTG Wiki: Orzhov Locket], [cards/_characters/orzhov-syndicate.md]
 

@@ -14,10 +14,10 @@ tags_hub: ["scream", "agony", "torment", "hooded-figure", "robed-figure", "darkn
 tags_filter: ["solo", "close-up", "forward-facing", "portrait-mode", "no-creature-visible", "black-magic", "sorcery"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/106-specter-s-shriek.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-11
+market_price: 0.06
+market_price_as_of: 2026-05-12
 date_added: 2026-05-06
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

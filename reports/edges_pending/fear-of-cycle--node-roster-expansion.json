@@ -1,0 +1,127 @@
+{
+  "edge_id": "fear-of-cycle--node-roster-expansion",
+  "shape": "node-roster-expansion",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "commission_basis": "Phase 2 Edgelord-2-of-3 sequential wave. Caller (parent agent) supplied the expansion premise: the Fear of Burning Alive (DSK-135) trivia pass this wave canonicalized the full DSK Fear-of cycle roster against Scryfall (ten members across W/U/B/R/UB), wider than the five members currently in the node's appears_on. Caller asked Edgelord to (a) verify which not-yet-in-node members are actually in the BBL corpus and add them, (b) list the rest as not-yet-in-inventory caveats. Anti-confab discipline mandated: do not extend appears_on to Scryfall-only-known cards.",
+  "node_modified": {
+    "layer": "characters",
+    "path": "cards/_characters/fear-of-cycle.md",
+    "name": "Fear-of cycle (Duskmourn phobia-Nightmares)",
+    "modification_type": "caveats-section-canonical-roster-update; no appears_on changes; no card frontmatter changes; no body roster changes",
+    "rationale_for_no_appears_on_changes": "Corpus verification (Glob + Grep + direct ls of cards/magic-the-gathering/duskmourn-house-of-horror/) confirms exactly the five Fear-of cards already in appears_on. No additional Fear-of cards exist anywhere in cards/. The other five canonical cycle members (Surveillance DSK-11, Isolation DSK-58, the Dark DSK-98, Missing Out DSK-136, Infinity DSK-214) are NOT in the corpus and per anti-confab discipline must not be added to appears_on."
+  },
+  "corpus_verification": {
+    "method": "Glob 'cards/magic-the-gathering/duskmourn-house-of-horror/*-fear-of-*.md' + Glob 'cards/**/*fear-of*.md' + Grep '^name: Fear of' across cards/magic-the-gathering + direct ls of the DSK set folder",
+    "fear_of_cards_in_corpus": [
+      "9-fear-of-abduction.md (already in node)",
+      "55-fear-of-failed-tests.md (already in node)",
+      "56-fear-of-falling.md (already in node)",
+      "134-fear-of-being-hunted.md (already in node)",
+      "135-fear-of-burning-alive.md (already in node)"
+    ],
+    "fear_of_cards_in_corpus_but_NOT_in_node": [],
+    "verdict": "No appears_on additions. No card frontmatter additions. Node body roster section unchanged. Caveats section updated to canonicalize the broader cycle roster per the Burning Alive trivia."
+  },
+  "canonical_cycle_roster_canonicalized": {
+    "source": "Fear of Burning Alive (DSK-135) trivia 'Cycle membership' bullet, Scryfall-corroborated per-card pages",
+    "in_corpus_and_in_node": [
+      {"name": "Fear of Abduction", "collector_number": 9, "color": "W"},
+      {"name": "Fear of Failed Tests", "collector_number": 55, "color": "U"},
+      {"name": "Fear of Falling", "collector_number": 56, "color": "U"},
+      {"name": "Fear of Being Hunted", "collector_number": 134, "color": "R"},
+      {"name": "Fear of Burning Alive", "collector_number": 135, "color": "R"}
+    ],
+    "canonical_but_not_in_corpus": [
+      {"name": "Fear of Surveillance", "collector_number": 11, "color": "W", "scryfall_corroboration": "Burning Alive trivia 'Cycle membership' bullet, citing Scryfall per-card pages"},
+      {"name": "Fear of Isolation", "collector_number": 58, "color": "U", "scryfall_corroboration": "Burning Alive trivia 'Cycle membership' bullet"},
+      {"name": "Fear of the Dark", "collector_number": 98, "color": "B", "scryfall_corroboration": "Burning Alive trivia 'Cycle membership' bullet AND Say Its Name (DSK-197) trivia (Sam Wolfe Connelly's Duskmourn cluster; flagged 'not in current inventory')"},
+      {"name": "Fear of Missing Out", "collector_number": 136, "color": "R", "scryfall_corroboration": "Burning Alive trivia 'Cycle membership' bullet"},
+      {"name": "Fear of Infinity", "collector_number": 214, "color": "UB", "scryfall_corroboration": "Burning Alive trivia 'Cycle membership' bullet; multicolor capstone of the cycle"}
+    ],
+    "color_distribution_canonical": "W (2: Abduction, Surveillance); U (3: Failed Tests, Falling, Isolation); B (1: the Dark); R (3: Being Hunted, Burning Alive, Missing Out); UB (1: Infinity). Total: 10 members across DSK proper.",
+    "alchemy_duskmourn_and_dsk_commander_status": "Not surveyed in this pass. If those product lines added further Fear-of cards (the prompt mentioned this as 'possibly more in YDSK Alchemy + DSC Commander variants'), they are out of scope until the corpus or a follow-up trivia pass surfaces them. Caveats section reflects this scoping."
+  },
+  "anti_confab_audit": {
+    "claims_made_against_canonical_sources": [
+      "Five Fear-of cards confirmed in BBL corpus (Abduction, Failed Tests, Falling, Being Hunted, Burning Alive) — direct filesystem verification via Glob and ls",
+      "Five additional Fear-of cards Scryfall-confirmed but NOT in corpus (Surveillance DSK-11, Isolation DSK-58, the Dark DSK-98, Missing Out DSK-136, Infinity DSK-214) — cited to Fear of Burning Alive trivia's 'Cycle membership' bullet, which itself cites Scryfall per-card pages",
+      "Fear of the Dark independently corroborated via Say Its Name (DSK-197) trivia naming it as part of Sam Wolfe Connelly's Duskmourn artist cluster, flagged 'not in current inventory' — second independent in-corpus citation of its canonical existence"
+    ],
+    "claims_held_back_per_anti_confab_discipline": [
+      "Did NOT extend appears_on to include Surveillance, Isolation, the Dark, Missing Out, Infinity. These cards are not in the BBL corpus; per the prompt's explicit instruction ('Do not include them in appears_on: until they actually land') and the Edgelord anti-confab rule, they are surfaced only in the Caveats section.",
+      "Did NOT speculate on YDSK Alchemy or DSK Commander Fear-of variants. The prompt mentioned 'possibly more in YDSK Alchemy + DSC Commander variants' as a parenthetical; without Scryfall verification of specific members in those product lines, no claims are made. Caveats section explicitly scopes the canonical roster to DSK proper.",
+      "Did NOT modify any card MD frontmatter. With zero new corpus members to point at the node, there is no characters: pointer to add anywhere. The existing five corpus-card frontmatter pointers remain untouched."
+    ],
+    "no_extrapolation_beyond_cited_sources": "PASSED. Every claim in the Caveats addition traces to Fear of Burning Alive's trivia (which itself cites Scryfall) or Say Its Name's trivia (which cites Commander's Herald). No 'this seems like a theme' content."
+  },
+  "endpoints_now_pointing_at_node": [
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/9-fear-of-abduction.md", "name": "Fear of Abduction (DSK-9)", "status": "pre-existing, no change"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/55-fear-of-failed-tests.md", "name": "Fear of Failed Tests (DSK-55)", "status": "pre-existing, no change"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/56-fear-of-falling.md", "name": "Fear of Falling (DSK-56)", "status": "pre-existing, no change"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/134-fear-of-being-hunted.md", "name": "Fear of Being Hunted (DSK-134)", "status": "pre-existing, no change"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/135-fear-of-burning-alive.md", "name": "Fear of Burning Alive (DSK-135)", "status": "pre-existing, no change"}
+  ],
+  "description": "Sir, Mr. Nodeley humbly reports that the commissioned roster expansion of the Fear-of cycle character node turned out to be a Caveats-section-only modification. Filesystem verification confirmed the five Fear-of cards in the corpus are precisely the five already pointered at the node; no surprise members lurked. The Fear of Burning Alive trivia's 'Cycle membership' bullet, however, did canonicalize the full DSK-scope roster as ten members spanning W/U/B/R/UB (a UB multicolor capstone at DSK-214 specifically) — so the Caveats section was updated to record the five Scryfall-confirmed not-yet-in-inventory members (Fear of Surveillance DSK-11, Fear of Isolation DSK-58, Fear of the Dark DSK-98, Fear of Missing Out DSK-136, Fear of Infinity DSK-214) as cycle members that will attach when acquired. Anti-confab discipline held the line: not one of those five is in appears_on, not one card frontmatter was touched. The prompt's tentative 'no. ??' on Fear of Surveillance was resolved to DSK-11 via the Burning Alive trivia. A second-source corroboration of Fear of the Dark's canonical existence was found in Say Its Name (DSK-197) trivia, which flags it as part of Sam Wolfe Connelly's Duskmourn artist cluster and 'not in current inventory.' The corpus is five acquisitions away from full canonical Fear-of cycle coverage. I hope the commission lands clean.",
+  "citations": [
+    "[Corpus: cards/magic-the-gathering/duskmourn-house-of-horror/135-fear-of-burning-alive.md — Trivia 'Cycle membership' bullet enumerating all 10 DSK Fear-of cards with collector numbers and colors, citing Scryfall set DSK per-card pages]",
+    "[Corpus: cards/magic-the-gathering/duskmourn-house-of-horror/197-say-its-name.md — Trivia 'Design (artist)' bullet naming Fear of the Dark as part of Sam Wolfe Connelly's Duskmourn cluster, flagged 'not in current inventory'; citation source Commander's Herald 'Double Exposed: A Chat with Sam Wolfe Connelly' by Nick Wolf, 2024-09-05]",
+    "[Scryfall: set DSK per-card pages for DSK-11, DSK-58, DSK-98, DSK-136, DSK-214 — primary source for collector numbers, colors, and type-line confirmation of Enchantment Creature — Nightmare across the cycle]"
+  ],
+  "files_modified": [
+    "cards/_characters/fear-of-cycle.md (Caveats section: expanded second bullet to canonicalize the full DSK-scope cycle roster with Scryfall-confirmed not-yet-in-corpus members; updated third bullet color-distribution-across-corpus statement to note the corpus is five acquisitions away from full canonical coverage; fourth bullet on Fear-of-vs-Nightmare-typed-creatures distinction unchanged)"
+  ],
+  "edgelord_mood": "nodeley-meek",
+  "mood_justification": "Mr. Nodeley register applies because this is a roster-expansion follow-up to a previous Nodeley-class proposal (the fear-of-cycle node itself), not a fresh Edgelord 1:1 mirror. The expansion turned out smaller-than-expected: no new corpus members to add, only a Caveats canonicalization. nodeley-meek matches the modest-and-obvious shape of the work — the node grew tighter, not wider, and Mr. Nodeley is mildly apologetic that he had nothing more substantive to deliver in this slice.",
+  "topology_justification": "stack topology retained from the node's original creation. The Fear-of cycle remains a bundle-cohesion stack — five corpus cards converging on a single thematic anchor (the cycle node), each card pointered via the characters: frontmatter field; the cycle node anchors the stack with appears_on. The stack did not widen on the BBL side in this pass (no new corpus cards joined); the Caveats addition documents that the canonical stack is wider at the Wizards/Scryfall scope than the current BBL scope, and will widen on acquisition. Same anchor, same stack shape, just better-canonicalized.",
+  "alternatives_considered": [
+    {
+      "candidate": "Extend appears_on to include the five not-yet-in-corpus Fear-of members so the node mirrors the canonical Wizards roster",
+      "why_skipped": "Caller's prompt explicitly instructed: 'For Fear-of cards NOT yet in our corpus, list them in the node's Caveats section as cycle members not yet in BBL inventory; will attach when acquired. Do not include them in appears_on: until they actually land.' This is also the Edgelord anti-confab rule: appears_on edges to cards that exist on disk in the BBL corpus, not to canonical-but-uninventoried entities. The Caveats-only treatment is the correct shape."
+    },
+    {
+      "candidate": "Add Fear of the Dark to appears_on based on Say Its Name's trivia naming it as part of Connelly's Duskmourn cluster",
+      "why_skipped": "Say Its Name's trivia explicitly flags Fear of the Dark as 'not in current inventory.' Same anti-confab rule: a card's existence at canonical scope (Scryfall + an artist's portfolio) does not justify an appears_on edge if the card is not on disk in the BBL corpus. The note belongs in Caveats, which is where it was placed."
+    },
+    {
+      "candidate": "Survey YDSK Alchemy and DSK Commander product lines for additional Fear-of cards before writing the Caveats roster",
+      "why_skipped": "Out of scope for this pass. The prompt mentioned the possibility parenthetically ('possibly more in YDSK Alchemy + DSC Commander variants') without listing specific cards. Without a Scryfall search or a trivia citation surfacing specific Alchemy or Commander Fear-of members, the Caveats section's canonical-scope claim is bounded explicitly to DSK proper, and the Alchemy/Commander question is flagged for a separate follow-up pass. Anti-confab discipline applies: don't claim what you haven't verified."
+    },
+    {
+      "candidate": "Dark Nodesley EX: dissolve the fear-of-cycle node and re-home its members under a future _cycles/ layer instead of _characters/",
+      "why_skipped": "Strongly rejected. The fear-of-cycle node is not empty, not subsumed by a stronger node, not inaccurate, and not a mistaken proposal. It's a load-bearing character-layer entry following the Endriders precedent. The future _cycles/ layer is mentioned in the node's existing Caveats as a potential re-home target IF the corpus accumulates enough designer-confirmed flavor cycles to warrant the split, but that's a forward-looking surface, not a dissolution case. Not a Dark Nodesley case."
+    },
+    {
+      "candidate": "Enlightened Edgelord: prune one of the existing five card↔node edges as part of the expansion to enforce edge-count neutrality",
+      "why_skipped": "Misapplication of the enlightenment form. Enlightenment is for replacing a weaker edge with a stronger one when both endpoints already exist. Here, no edge is being removed — the node's appears_on is unchanged. The Caveats expansion is a metadata refinement at the node level, not an edge replacement. None of the existing five card↔node pointers is weak or replaceable; all five corpus cards are canonical cycle members per their own trivia. Enlightenment form does not apply."
+    }
+  ],
+  "future_passes_unlocked": [
+    "Fear of Surveillance (DSK-11) acquisition — when this card lands in the BBL corpus via a future Collectr CSV upload, edge to fear-of-cycle via characters: [\"fear-of-cycle\"] frontmatter pointer (slotted between bundles: and tags_hub:, mirroring the existing five) AND extend the node's appears_on: list to include the new path-key.",
+    "Fear of Isolation (DSK-58) acquisition — same pattern as Fear of Surveillance.",
+    "Fear of the Dark (DSK-98) acquisition — same pattern; will also activate a small edge cluster with Say Its Name (DSK-197) via the Sam Wolfe Connelly artist-Duskmourn-cluster connection.",
+    "Fear of Missing Out (DSK-136) acquisition — same pattern; completes the 134-135-136 red block on acquisition.",
+    "Fear of Infinity (DSK-214) acquisition — same pattern; the multicolor UB capstone gives the cycle a five-color-plus-capstone shape on the BBL side.",
+    "YDSK Alchemy and DSK Commander Fear-of survey — separate triviabot-or-Scryfall-API pass to determine whether any Fear-of-named cards exist outside DSK proper (Alchemy digital follow-on, DSC Commander preconstructed deck inserts). If any are found, they expand the Caveats roster (or appears_on, if any happen to be in the corpus).",
+    "Future Mr. Nodeley candidate (NOT this pass): cards/_cycles/ as a new graph layer. The fear-of-cycle node sits in _characters/ per the Endriders precedent for collective entities, but the BBL corpus has at least two designer-confirmed flavor cycles already (Fear-of in DSK; the Survivor cycle in DSK is the obvious second; the Cinderella cycle in ELD is a third known to Wizards' design articles). If a third designer-confirmed cycle gets corpus members, that's the threshold to commission a _cycles/ layer split and re-home this node. Surfaced as a long-tail commission target.",
+    "Bundle-cohesion Discrete Lair candidate — five corpus members converging on a single thematic anchor is the canonical stack shape a Discrete Lair can anchor on. The Fear-of cycle is bundle-ready RIGHT NOW from a graph-cohesion standpoint (one character node, five member cards spanning W/U/U/R/R, all enchantment-creatures-nightmares, all uncommon, all uniformly named 'Fear of...'). When the bbl-bundler agent is commissioned, this node should be among the first stacks it surveys for a discrete-lair candidate. The labor / rebellion hub edges flagged in the node's See-also section are activation candidates — the phobia-personified-as-monster reading anchors on the meta-rebellion thesis (the unkillable monster as the unrepayable debt) when triviabot enriches the three currently-vision-stub members (Abduction, Failed Tests, Falling) and surfaces specific flavor-text moments of refusal."
+  ],
+  "wikilintbot_compatibility": {
+    "type_field_accepted": true,
+    "type_field_value": "character",
+    "wikilintbot_line_188_already_includes_character": true,
+    "non_card_node_guard_satisfied": "cards/_characters/fear-of-cycle.md is under the _-prefix directory rule AND carries type: character; double-redundant guarding"
+  },
+  "voice_separation_audit": {
+    "mr_nodeley_voice_confined_to": ["description field of this JSON sidecar", "final report text back to caller"],
+    "md_body_register": "project-normal precise factual — no sniveling, no apologies, no fawning. The Caveats addition is in the same register as the rest of the node's body. Voice contamination check: PASSED.",
+    "frontmatter_register": "machine-readable schema only — no voice anywhere. Frontmatter unchanged in this pass. Voice contamination check: PASSED.",
+    "no_em_dash_in_buyer_facing_copy_check": "The MD body uses em dashes in the project-internal register (caveats body prose), which is permitted per the bbl-no-em-dash memory note's scope: 'em dashes are fine in commits, memory, sketchbook, code comments, conversation' — the node MD is project-internal canonical-reference content, not storefront / narrative / why_it_fits / marketing copy. Voice-and-formatting check: PASSED."
+  },
+  "sequential_phase_2_context": {
+    "this_pass": "Edgelord 2 of 3 — fear-of-cycle roster expansion (caveats-only outcome)",
+    "prior_pass_on_disk": "Edgelord 1 of 3 — aether-rangers character node creation (cards/_characters/aether-rangers.md + three card frontmatter pointers + two hub See-also bullets). Confirmed on disk via reports/edges_pending/aether-rangers--commissioned-node.json existence check.",
+    "no_interference_with_prior_pass": "This pass touched only cards/_characters/fear-of-cycle.md. The aether-rangers node, the Aetherdrift cards, the labor and rebellion hubs, and every non-Fear-of card in the corpus were NOT touched. Strict scoping honored.",
+    "handoff_to_edgelord_3": "Edgelord 3 of 3 receives a graph state where: (a) the aether-rangers character node is fully wired, (b) the fear-of-cycle node has a tightened Caveats section canonicalizing the full DSK-scope roster, (c) zero card frontmatter changes in this pass, (d) zero hub changes in this pass. The Edgelord 3 slice can proceed against this state without conflict."
+  }
+}

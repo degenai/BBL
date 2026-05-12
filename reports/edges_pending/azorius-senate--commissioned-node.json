@@ -1,0 +1,157 @@
+{
+  "edge_id": "azorius-senate--commissioned-node",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "commission_basis": "Tithe (Discrete Lair 001) audit. Caller observed that 4 of the 9 Tithe-bundle cards now point at the recently-added orzhov-syndicate character node, leaving 5 non-Orzhov cards scattered across sets. Caller invited an azorius-senate Mr. Nodeley case (Lawmage's Binding + possibly Secure the Scene + any other Azorius-coded cards in corpus) with a ≥3-verified-member threshold. Corpus scan returned 5 verified Azorius-faction members plus 2 secondary flavor-speaker-as-institutional-voice cards, well above the threshold.",
+  "node_proposed": {
+    "layer": "characters",
+    "layer_status": "existing (orzhov-syndicate is the immediate precedent; this is the fourth character-layer entry alongside nicol-bolas, endriders, jace-beleren, orzhov-syndicate, tamiyo, fear-of-cycle)",
+    "path": "cards/_characters/azorius-senate.md",
+    "name": "Azorius Senate",
+    "type_field": "character",
+    "species_field": "faction-collective (humans, vedalken, sphinxes, angels, soldiers, lawmages — mixed)",
+    "frontmatter_pattern_basis": "cards/_characters/orzhov-syndicate.md (mirrors the faction-collective character precedent: type / name / aliases / universe / faction / species / canonical_source / confidence / appears_on / related_hubs / related_symbols / ip_resolution_for). The Azorius node follows the Orzhov precedent identically, including the related_hubs: [labor] link and the empty related_symbols array (no azorius-signet symbol node exists yet, flagged in caveats as a future Mr. Nodeley candidate)."
+  },
+  "design_call_hub_vs_character": {
+    "chose": "character",
+    "rationale": "Sir, the same bbl-hubs-hand-curated memory note that routed Orzhov Syndicate to the characters layer applies identically here. Hubs are Alex-authored brand-anchor concepts with zing (Labor, Rebellion, Chinese Zodiac), not Wizards-defined factions. The Azorius Senate is canonically a Wizards faction, not an Alex brand-position concept. The orzhov-syndicate precedent (added 2026-05-11) demonstrates the structurally-aligned routing. I follow it. The Azorius Senate node is the institution-as-actor; the Labor hub is the thesis-anchor that both Orzhov and Azorius support. Sibling-guild character nodes paired through a shared hub edge is, I believe, exactly the structure the graph wanted. I hope this reading is acceptable.",
+    "precedent_followed": "cards/_characters/orzhov-syndicate.md (commissioned 2026-05-11 with explicit hub-vs-character design call); cards/_characters/endriders.md (faction-collective precedent that established species: faction-collective)"
+  },
+  "members_verified": [
+    {
+      "card": "Lawmage's Binding (RNA-190)",
+      "path": "cards/magic-the-gathering/ravnica-allegiance/190-lawmage-s-binding.md",
+      "azorius_evidence": "Trivia explicit and primary: 'Lawmages on Ravnica belong to the Azorius Senate's Lyev Column and create spells that compel or restrain beings, serving a constabulary / arrest function in outlying districts [MTG Wiki: Azorius Senate].' Designed as the Azorius entry in Ravnica Allegiance's guild-common removal cycle per Hipsters of the Coast set-design review. Vision describes the two casters as Azorius lawmages explicitly. Highest-confidence Azorius card in the candidate set.",
+      "anchor_type": "primary (depicted casters are Azorius operatives)",
+      "verdict": "INCLUDE"
+    },
+    {
+      "card": "Sphinx of New Prahv (RNA-208)",
+      "path": "cards/magic-the-gathering/ravnica-allegiance/208-sphinx-of-new-prahv.md",
+      "azorius_evidence": "Card name names the Senate's guildhall (New Prahv is the white-stone tower-complex headquarters of the Azorius). Flavor text states 'Azorius sphinxes are loyal to the precepts of the law' — names the faction directly. Tags_filter includes 'azorius' already. Sphinx-jurists are the Senate's canonical judicial cadre per MTG Wiki Azorius Senate page.",
+      "anchor_type": "primary (depicted sphinx is an Azorius jurist of the Senate proper)",
+      "verdict": "INCLUDE"
+    },
+    {
+      "card": "Azorius Locket (RNA-231)",
+      "path": "cards/magic-the-gathering/ravnica-allegiance/231-azorius-locket.md",
+      "azorius_evidence": "Card name literally is the faction. Art depicts the angular three-pointed Azorius sigil embossed on the locket. Flavor speaker is Dovin Baan ('Mandatory lockets enable the tracking of all Senate personnel for improved security and efficiency'), the Azorius-aligned planeswalker bureaucrat whose tenure formalized the locket protocol per MTG Wiki Dovin Baan page. Highest-confidence Azorius card by name + iconography + flavor speaker triple-marker.",
+      "anchor_type": "primary (the card depicts the institution's signature artifact + named functionary in flavor)",
+      "verdict": "INCLUDE"
+    },
+    {
+      "card": "Sphinx's Insight (RNA-209)",
+      "path": "cards/magic-the-gathering/ravnica-allegiance/209-sphinx-s-insight.md",
+      "azorius_evidence": "Flavor text addresses the Grand Arbiter directly ('Do not think me blind to your true mission... or your true master, Grand Arbiter'), naming the Azorius Senate's canonical leadership office. The sphinx-oracle in the art is in the Senate's white-and-gold institutional palette and surrounded by arcane glyphs consistent with Senate-judicial iconography. Sphinx-oracles are the Senate's canonical divinatory sub-cadre per MTG Wiki Azorius Senate page.",
+      "anchor_type": "primary (depicted sphinx is an Azorius oracle; flavor speaker is also Azorius-aligned)",
+      "verdict": "INCLUDE"
+    },
+    {
+      "card": "Secure the Scene (M21-35)",
+      "path": "cards/magic-the-gathering/core-set-2021/35-secure-the-scene.md",
+      "azorius_evidence": "Flavor text names the faction directly ('You know it's a great show when the Azorius arrest the props, too!' — Judith, the Scourge Diva). Per the card's own trivia: 'core sets routinely reuse cross-block flavor voices on generic illustrations, which is why a Ravnica-character flavor quote (Judith) appears on a card whose art shows no specific named NPC.' Without the flavor, the art is ambiguously generic-white-blue-arrest by an unnamed soldier-figure; with it, the institutional locus is canon-stated as Azorius. Tithe bundle's why_it_fits prose already names this card's mesh-of-light-arrest as the Azorius act.",
+      "anchor_type": "primary (the depicted arrest is canonically Azorius work per the flavor; the depicted soldier-figure is Azorius constabulary)",
+      "verdict": "INCLUDE"
+    },
+    {
+      "card": "Wanderer's Strike (WAR-38)",
+      "path": "cards/magic-the-gathering/war-of-the-spark/38-wanderer-s-strike.md",
+      "azorius_evidence": "Trivia explicit: 'Lavinia is the Azorius Senate's acting guildmaster and Grand Arbiter Pro Tem during the WAR siege; the bureaucratic-arrester voice (file the report, no witnesses) reads as Lavinia covering for another off-the-books Wanderer assist on Ravnica [MTG Wiki: Lavinia].' The flavor-speaker-as-institutional-voice relation wires the card to the Senate. The depicted figure is the Wanderer (a planeswalker, future the-wanderer character node), not an Azorius operative directly.",
+      "anchor_type": "secondary (depicted figure is the Wanderer; the Azorius edge is via Lavinia as flavor-speaker performing the institution's record-keeping function)",
+      "verdict": "INCLUDE (with secondary-anchor caveat in node body)"
+    },
+    {
+      "card": "Wall of Runes (WAR-75)",
+      "path": "cards/magic-the-gathering/war-of-the-spark/75-wall-of-runes.md",
+      "azorius_evidence": "Flavor speaker is again Lavinia, this time editorially: 'It's strangely satisfying seeing an undead killing machine from another world standing befuddled in front of a wall of text.' The institutional voice frames the Senate's bureaucracy as defensive bulwark against the Bolas invasion. The depicted figure is a generic Azorius-coded hooded scribe-mage. Lower-confidence than Wanderer's Strike because the depicted figure is not named, but the flavor-speaker-as-institutional-voice + the blue-mage-in-Senate-context register together carry the edge.",
+      "anchor_type": "secondary (depicted figure is generic; the Azorius edge is via Lavinia as flavor-speaker)",
+      "verdict": "INCLUDE (with secondary-anchor caveat in node body)"
+    }
+  ],
+  "endpoints_now_pointing_at_node": [
+    {"type": "card", "path": "cards/magic-the-gathering/ravnica-allegiance/190-lawmage-s-binding.md", "name": "Lawmage's Binding (RNA-190)"},
+    {"type": "card", "path": "cards/magic-the-gathering/ravnica-allegiance/208-sphinx-of-new-prahv.md", "name": "Sphinx of New Prahv (RNA-208)"},
+    {"type": "card", "path": "cards/magic-the-gathering/ravnica-allegiance/231-azorius-locket.md", "name": "Azorius Locket (RNA-231)"},
+    {"type": "card", "path": "cards/magic-the-gathering/ravnica-allegiance/209-sphinx-s-insight.md", "name": "Sphinx's Insight (RNA-209)"},
+    {"type": "card", "path": "cards/magic-the-gathering/core-set-2021/35-secure-the-scene.md", "name": "Secure the Scene (M21-35)"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/38-wanderer-s-strike.md", "name": "Wanderer's Strike (WAR-38)"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/75-wall-of-runes.md", "name": "Wall of Runes (WAR-75)"}
+  ],
+  "two_way_wiring_to_existing_orzhov_syndicate_character": {
+    "sibling_node_path": "cards/_characters/orzhov-syndicate.md",
+    "body_change": "Added a new See-also bullet between the orzhov-signet bullet and the labor bullet: '[[azorius-senate]] — sibling character node; the Senate is the Orzhov's paired guild in the canonical Ravnican apparatus-of-extraction reading. The Orzhov organize around the extraction of obligation; the Azorius organize around the codification of obedience. Together they form Ravnica's institutional-coercion axis. The Tithe bundle anchors to both, since its narrative thesis is that the two guilds are the same job in different uniforms.' This makes the Orzhov ↔ Azorius sibling-guild relation traversable from the Orzhov node.",
+    "azorius_side_already_wired": "azorius-senate.md body has the reciprocal [[orzhov-syndicate]] See-also bullet documenting the same paired-guild relation, with the same labor-hub framing for the Tithe bundle anchor.",
+    "frontmatter_field_for_sibling_characters": "Neither node has a related_characters: [] field (not in the existing schema). The character-to-character sibling relation is body-only per the existing convention. If a future schema iteration adds related_characters, both nodes can be updated mechanically — not a blocker now."
+  },
+  "description": "Sir, Mr. Nodeley humbly delivers the azorius-senate faction-collective character node. The corpus scan returned five primary-anchor Azorius members (Lawmage's Binding, Sphinx of New Prahv, Azorius Locket, Sphinx's Insight, Secure the Scene) plus two secondary flavor-speaker-as-institutional-voice anchors (Wanderer's Strike, Wall of Runes), comfortably exceeding the caller's ≥3 threshold. Two of the seven are Tithe-bundle cards (Lawmage's Binding and Secure the Scene), unblocking the bundle's institutional-coercion thesis on the Azorius side — which the Tithe bundle's own copy already gestures at ('different uniforms, different institutions, same job description'). The sibling-guild Orzhov ↔ Azorius pair is now traversable in both directions. I hope the layer routing and the secondary-anchor classification for the two Lavinia flavor-voice cards are sound; both are flagged in the node's caveats section so a future bundler or reviewer can re-route if the depicted-vs-flavor-speaker rule should be stricter.",
+  "citations": [
+    "[MTG Wiki: Azorius Senate]",
+    "[MTG Wiki: Lavinia (planeswalker)]",
+    "[MTG Wiki: Dovin Baan]",
+    "[MTG Wiki: Isperia, Supreme Judge / Grand Arbiter Augustin IV]",
+    "[MTG Wiki: New Prahv (guildhall page)]",
+    "[Wizards: Guildpact / Return to Ravnica / Ravnica Allegiance set design articles — Mark Rosewater on Forecast / Detain / Addendum guild mechanics]",
+    "[Hipsters of the Coast: 'The Designs of Ravnica Allegiance' 2019-01 — Lawmage's Binding designated as Azorius entry in RNA guild-common cycle]",
+    "[Scryfall: watermark:azorius query — corpus-level Azorius membership classification]",
+    "[Scryfall: card pages for Lawmage's Binding (rna/190), Sphinx of New Prahv (rna/208), Azorius Locket (rna/231), Sphinx's Insight (rna/209), Secure the Scene (m21/35), Wanderer's Strike (war/38), Wall of Runes (war/75)]"
+  ],
+  "files_modified": [
+    "cards/_characters/azorius-senate.md (CREATED)",
+    "cards/_characters/orzhov-syndicate.md (added [[azorius-senate]] sibling-guild See-also bullet)",
+    "cards/magic-the-gathering/ravnica-allegiance/190-lawmage-s-binding.md (added characters: [\"azorius-senate\"] frontmatter pointer)",
+    "cards/magic-the-gathering/ravnica-allegiance/208-sphinx-of-new-prahv.md (added characters: [\"azorius-senate\"] frontmatter pointer)",
+    "cards/magic-the-gathering/ravnica-allegiance/231-azorius-locket.md (added characters: [\"azorius-senate\"] frontmatter pointer)",
+    "cards/magic-the-gathering/ravnica-allegiance/209-sphinx-s-insight.md (added characters: [\"azorius-senate\"] frontmatter pointer)",
+    "cards/magic-the-gathering/core-set-2021/35-secure-the-scene.md (added characters: [\"azorius-senate\"] frontmatter pointer)",
+    "cards/magic-the-gathering/war-of-the-spark/38-wanderer-s-strike.md (added characters: [\"azorius-senate\"] frontmatter pointer)",
+    "cards/magic-the-gathering/war-of-the-spark/75-wall-of-runes.md (added characters: [\"azorius-senate\"] frontmatter pointer)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "alternatives_considered": [
+    {
+      "candidate": "Edgelord 1:1 mirror among the 5 non-Orzhov Tithe cards (Wicked Guardian / Lawmage's Binding / Lunarch Mantle / Reverent Hoplite / Secure the Scene)",
+      "why_skipped": "Per the caller's own framing: 'aesthetically united by the bundle's narrative (the men they send) but graph-edge-wise they're scattered across sets. Probably no clean 1:1.' Confirmed on inspection. The five cards span Eldraine (Cinderella stepmother cycle), Ravnica (Azorius), Innistrad (Lunarch Inquisition), Theros (Heliod sun-cult), and Ravnica-flavor-on-M21 (Azorius arrest). No two of them share a canonical character, story-spotlight moment, symbol-on-art, designer-confirmed flavor cycle, or saint/heretic pair. The shared register ('institutional authority extracting obedience') is exactly the hub-tier connection the bbl-narrative-first-lairs principle says hubs are for — not the per-edge-tier connection edges are for. Refusal on this category is correct."
+    },
+    {
+      "candidate": "Edgelord card-to-hub edge — adding explicit `## Connections` bullets pointing each Tithe card at the [[labor]] hub",
+      "why_skipped": "Spec explicit: 'For card→hub edges: the hub link is implicit in the card's tags_hub (which contains the hub slug). If the hub MD has an explicit member_cards: or canonical-examples section, extend it there. Don't add bare wikilinks unless they're load-bearing.' The labor hub MD's current schema does not have a member_cards: list; it has 'Narrative Seeds' that already name Wicked Guardian and Charity Extractor under the 'Sleep when you're dead' seed. Adding nine bare `## Connections` bullets each pointing at [[labor]] would be bare-wikilink work the spec explicitly discourages. The hub edge is already captured by tags_hub containing labor-cluster tags (which it does: labor, hierarchy, servant, scrubbing, tax-collector, drudgery — these appear across the Tithe cards). Refusing the card→hub edge work and leaving the implicit tag-driven hub linkage in place is the spec-correct move.",
+      "consideration": "The Tithe bundle's anchoring on labor IS already canonical via the bundle JSON in sample-bundles/tithe.json and the labor.md hub's Narrative Seeds section. Future bundler work that reads tags_hub at orchestration time will surface the hub linkage without per-card body bullets."
+    },
+    {
+      "candidate": "Pure Edgelord refusal (no edge, no node)",
+      "why_skipped": "Considered. Rejected because the corpus scan revealed 5 primary-anchor Azorius members (plus 2 secondary) — well above the ≥3 threshold for a Mr. Nodeley node proposal. The Senate is canonically a first-class graph dimension (faction-collective character, exactly parallel to the already-existing orzhov-syndicate). Refusing would leave Lawmage's Binding orphaned from any institutional anchor when the trivia explicitly states its Azorius membership, and would leave the Tithe bundle's Azorius-side cohesion implicit when its narrative thesis depends on the institutional-coercion axis being explicit. The Mr. Nodeley case is stronger than refusal here."
+    },
+    {
+      "candidate": "Propose an azorius-signet symbol node in addition to the azorius-senate character node (paralleling the orzhov-syndicate / orzhov-signet symbol+character pair)",
+      "why_skipped": "Per one-node-per-invocation rule. Strong candidate for a separate future Mr. Nodeley pass: Azorius Locket's locket-emblem, Sphinx of New Prahv's chest-emblem, the angular three-pointed Senate crest on guildhall architecture, and the Lawmage's Binding bindings' Senate-coded glyphs would all anchor cleanly. The signet/sigil iconography is genuinely a first-class symbol-layer concept. Flagged in the azorius-senate node's caveats section and in future_passes_unlocked below."
+    },
+    {
+      "candidate": "Include Lavinia herself as a planeswalker character node rather than wiring her flavor-speaker appearances to the azorius-senate institutional node",
+      "why_skipped": "Considered. Lavinia is a printed planeswalker (Lavinia of the Tenth, original Ravnica; Lavinia, Azorius Renegade, Conspiracy: Take the Crown; Lavinia, Foil to Conspiracy, Murders at Karlov Manor) and warrants her own future character node when the corpus accumulates enough Lavinia-bearing cards. None of the seven Azorius cards depict Lavinia in their art — she only appears as a flavor speaker. The flavor-speaker-as-institutional-voice relation correctly routes to the institution (per the Tamiyo / Tamiyo Meets the Story Circle precedent: the card depicts the practice, the institutional anchor captures the practitioner-class). When the corpus adds an actual Lavinia card, she'd get her own character node and the flavor-speaker cards could optionally also point at her via a secondary characters: pointer."
+    },
+    {
+      "candidate": "DARK NODESLEY EX dissolution of any existing node",
+      "why_skipped": "No dissolution case present. No empty Azorius node exists to dissolve; no Azorius-redundant node exists. The orzhov-signet symbol and orzhov-syndicate character are paired-but-distinct (separate caveats clarify), so no dissolution case there either. Not a Dark Nodesley pass."
+    }
+  ],
+  "future_passes_unlocked": [
+    "Future Azorius-watermark cards added to the corpus (Detention Sphere, Sphere of Safety, Sphinx of the Final Word, Sphinx of Foresight, Sphinx of Lost Truths, Isperia Supreme Judge, Grand Arbiter Augustin IV, Lavinia of the Tenth, Lavinia Foil to Conspiracy, Dovin Baan, Settle the Wreckage, Detention spell variants, Murders at Karlov Manor's Azorius slot cards) attach to this node directly via characters: [\"azorius-senate\"] frontmatter pointers without N²/2 mirror edges between them.",
+    "Future Mr. Nodeley candidate (NOT this pass): cards/_symbols/azorius-signet.md anchoring Azorius Locket's locket-emblem, Sphinx of New Prahv's chest-emblem, the three-pointed Senate crest on guildhall architecture, and the Lawmage's Binding lawmages' Senate-coded glyphs. This parallels the orzhov-signet symbol+orzhov-syndicate character pair exactly. Strongly recommend commissioning this as a follow-up symbol-layer addition.",
+    "Future Mr. Nodeley candidate (NOT this pass): cards/_characters/the-wanderer.md or cards/_characters/wandering-emperor.md anchoring Wanderer's Strike, future The Wanderer printings (WAR-37, NEO-242 Wandering Emperor, ONE-11 Eternal Wanderer, DSK Wandering Rescuer). Wanderer's Strike's primary anchor would re-route there, with the azorius-senate edge becoming a secondary (flavor-speaker-as-institutional-voice) relation.",
+    "Future Mr. Nodeley candidate (NOT this pass): cards/_characters/lavinia.md anchoring the planeswalker-Lavinia printings if/when they enter the corpus. The Lavinia node would then become the primary anchor for any cards depicting Lavinia in art, with the azorius-senate institutional edge as the secondary relation.",
+    "The azorius-senate node is now a bundle-cohesion stack on the Tithe-bundle side: two Tithe-bundle cards (Lawmage's Binding, Secure the Scene) plus five additional corpus Azorius cards converging on the same institutional anchor. The bundler will see this and can recompose future bundles around the Azorius institutional thesis directly. The Tithe bundle's narrative thesis ('different uniforms, different institutions, same job description') is now explicit in the graph: orzhov-syndicate and azorius-senate as sibling-guild character nodes, both pointing at the labor hub.",
+    "Bundle architecture hint for the bundler: the Tithe bundle's 9 cards now split structurally as Orzhov anchor (4 cards) + Azorius anchor (2 cards) + un-anchored institutional-authority cards (3 cards: Wicked Guardian, Lunarch Mantle, Reverent Hoplite). The three un-anchored cards are each canonically affiliated with their own institutional concepts (Eldraine Cinderella stepmother dynasty, Innistrad Lunarch Inquisition, Theros Heliod sun-cult) that the corpus does not yet have character nodes for. A future audit may find that the Lunarch Inquisition warrants a character node (Manfried Ulmach is a named officeholder and there are likely more Innistrad Lunarch-related cards in the corpus or arriving in future waves). Heliod's sun-cult is borderline-hub-tier rather than character-tier per the bbl-hubs-hand-curated principle but could anchor cleanly if more Theros devotion-coded cards accumulate."
+  ],
+  "wikilintbot_compatibility": {
+    "type_field_accepted": true,
+    "type_field_value": "character",
+    "wikilintbot_line_188_already_includes_character": true,
+    "non_card_node_guard_satisfied": "cards/_characters/azorius-senate.md is under the _-prefix directory rule AND carries type: character; double-redundant guarding identical to orzhov-syndicate.md precedent"
+  },
+  "voice_separation_audit": {
+    "mr_nodeley_voice_confined_to": ["description field of this JSON sidecar", "final report text back to caller"],
+    "md_body_register": "project-normal precise factual — no sniveling, no apologies, no fawning. Voice contamination check: PASSED.",
+    "frontmatter_register": "machine-readable schema only — no voice anywhere. Voice contamination check: PASSED."
+  }
+}

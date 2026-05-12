@@ -1,0 +1,55 @@
+{
+  "card_name": "Nessa",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "157/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card frame names 'Nessa' and the depicted figure matches Nessa's canonical character design: tall dark-skinned woman, long indigo-teal braid past the waist, fashion-model contrapposto, blue-and-yellow gym uniform, posed against a coastal Hulbury-style lighthouse backdrop. Print art by take.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Nessa is the Water-type Gym Leader of Hulbury Stadium in both Pokemon Sword and Shield (not version-asymmetric). [Bulbapedia: Nessa, via WebSearch snippet]",
+      "sources": ["Bulbapedia (Nessa)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Galar canon Nessa works a dual career: competitive Gym Leader and professional fashion model — popular enough in both that, per Bulbapedia, many fans assume the two Nessas are different people. [Bulbapedia: Nessa, via WebSearch snippet]",
+      "sources": ["Bulbapedia (Nessa)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Nessa's father is a fisher and her mother works the Hulbury marketplace, framing her Water-type specialty as inherited maritime context; she met fellow Gym Challenge participant Sonia (Magnolia's granddaughter) during the league. [Bulbapedia: Nessa, via WebSearch snippet]",
+      "sources": ["Bulbapedia (Nessa)"]
+    },
+    {
+      "category": "design",
+      "text": "Regular print art by take; matches the artist on the other Vivid Voltage Galar Gym Leader Supporters (Bea no. 147, Opal no. 158). [Bulbapedia: Nessa (Vivid Voltage 157), via WebSearch snippet]",
+      "sources": ["Bulbapedia (Nessa VIV 157)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text: 'Put up to 4 in any combination of Water Pokemon and Water Energy cards from your discard pile into your hand.' — a heavy-duty recursion Supporter for Water archetypes, prized in single-Prize Water decks during the SWSH era. [pokemon.com TCG database]",
+      "sources": ["pokemon.com TCG database"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "No flavor text printed. [pokemon.com TCG database]",
+      "sources": ["pokemon.com TCG database"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bea", "set": "Vivid Voltage", "note": "no. 147/185 — same Galar Gym Leader Supporter cycle"},
+    {"name": "Opal", "set": "Vivid Voltage", "note": "no. 158/185 — same Galar Gym Leader Supporter cycle"},
+    {"name": "Allister", "set": "Vivid Voltage", "note": "no. 146/185 — same Galar Gym Leader Supporter cycle"},
+    {"name": "Leon", "set": "Vivid Voltage", "note": "no. 154/185 — Galar Champion in same Supporter cycle"},
+    {"name": "Milo", "set": "Rebel Clash", "note": "no. 161/192 — earlier Galar Gym Leader Supporter from SWSH2"},
+    {"name": "Sonia", "set": "Sword & Shield Promo", "note": "Magnolia's granddaughter; Nessa's Gym Challenge friend per Bulbapedia"},
+    {"name": "Nessa", "set": "Champion's Path", "note": "Full Art reprint cycle, same character"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

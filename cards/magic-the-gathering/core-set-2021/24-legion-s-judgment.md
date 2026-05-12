@@ -15,9 +15,9 @@ tags_filter: ["duo", "2-figures", "mid-shot", "faces-right", "scene-mode", "male
 reference_image: cards/_images/magic-the-gathering/core-set-2021/24-legion-s-judgment.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-06
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/0/3/032f6c5a-8d88-4a55-a54b-28df42d801e1.png?1594735024
 art_match_confidence: high
 needs_manual_review: false

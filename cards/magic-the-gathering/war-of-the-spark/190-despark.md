@@ -15,10 +15,10 @@ tags_hub: ["spellcaster", "necromancer", "robed-figure", "ruins", "statue", "fal
 tags_filter: ["solo", "mid-shot", "forward-facing", "female-figure", "action-mode", "white-magic-black-magic", "multicolor-white-black", "instant", "exile-effect"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/190-despark.png
 average_cost_paid: 0
-market_price: 0.36
-market_price_as_of: 2026-05-11
+market_price: 0.34
+market_price_as_of: 2026-05-12
 date_added: 2026-05-06
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -77,4 +77,5 @@ A dark-robed female spellcaster stands at lower-center, arms thrown wide, conjur
 ## Connections
 
 - [[35-topple-the-statue]] — Paired story-spotlight beats of WAR's Bolas-Falls narrative arc. Topple is the Act 2 spotlight (Nissa's Vitu-Ghazi fells Bolas's Ravnican statue as a morale rally) and Despark is the Act 3 spotlight (Liliana, freed from Bolas's contract, turns the corrupted God-Eternals Oketra and Bontu against him). Both are designer-tagged Story Spotlight uncommons in the same set's Bolas-defeat cluster. `[Scryfall: story_spotlight: true on both]` `[MTG Wiki: War of the Spark Story Spotlights]`
+- [[26-prison-realm]] — Sequential story-spotlight beats in WAR's Bolas-Falls narrative chain. Despark is the Act 3 turning beat (Liliana commands the corrupted God-Eternals Oketra and Bontu against Bolas) and Prison Realm is the Act 3 coda (Bolas, his spark consumed, contained for eternity in the renamed Meditation Plane under Ugin's expansion). Both are designer-tagged Story Spotlight uncommons whose flavor text names Bolas directly; together with Topple the Statue they form the three-beat narrative arc of his defeat. `[Scryfall: story_spotlight: true on both]` `[MTG Wiki: War of the Spark Story Spotlights]` `[MTG Wiki: Meditation Plane]`
 

@@ -14,10 +14,10 @@ tags_hub: ["god", "death", "undead", "skeleton", "zombie", "hooded-figure", "gia
 tags_filter: ["group", "forward-facing", "wide-shot", "scene-mode", "no-face", "creature-zombie-god", "legendary", "black-magic", "menace", "sacrifice", "card-draw"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/92-god-eternal-bontu.png
 average_cost_paid: 0
-market_price: 1.16
-market_price_as_of: 2026-05-11
+market_price: 1.19
+market_price_as_of: 2026-05-12
 date_added: 2026-05-06
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

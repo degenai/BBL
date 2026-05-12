@@ -16,9 +16,9 @@ tags_filter: ["no-figures", "wide-shot", "scene-mode", "forward-facing", "monoch
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/35-topple-the-statue.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-06
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/2/8/2829fa40-92e4-4017-aacd-9d9feae04aa2.png?1557576101
 art_match_confidence: high
 needs_manual_review: false
@@ -78,4 +78,5 @@ An enormous stone statue depicting a horned, long-necked dragon-god figure pitch
 ## Connections
 
 - [[190-despark]] — Paired story-spotlight beats of WAR's Bolas-Falls narrative arc. Topple is the Act 2 spotlight (Nissa's Vitu-Ghazi fells Bolas's Ravnican statue as a morale rally) and Despark is the Act 3 spotlight (Liliana, freed from Bolas's contract, turns the corrupted God-Eternals Oketra and Bontu against him). Both are designer-tagged Story Spotlight uncommons in the same set's Bolas-defeat cluster. `[Scryfall: story_spotlight: true on both]` `[MTG Wiki: War of the Spark Story Spotlights]`
+- [[26-prison-realm]] — Opening and closing beats of WAR's Bolas-Falls story-spotlight arc. Topple is the Act 2 spotlight (the statue of Bolas falls on Ravnica as a morale rally; flavor text names him as dismissive of the toppling) and Prison Realm is the Act 3 coda (Bolas himself contained for eternity in the renamed Meditation Plane under Ugin's expansion; flavor text bookends the millennia of scheming with eternity of defeat). Both are designer-tagged Story Spotlight uncommons whose flavor text names Bolas directly; together with Despark they triangulate the three-beat narrative arc of his defeat. `[Scryfall: story_spotlight: true on both]` `[MTG Wiki: War of the Spark Story Spotlights]` `[MTG Wiki: Meditation Plane]`
 

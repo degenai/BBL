@@ -14,10 +14,10 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/124-expose-the-culprit.png
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-11
+market_price: 0.18
+market_price_as_of: 2026-05-12
 date_added: 2026-05-11
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/3/1/31aadd3d-5ce1-44ba-ac6d-b192a9ea491b.png?1706241859
 art_match_confidence: high
 needs_manual_review: false

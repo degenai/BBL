@@ -14,10 +14,10 @@ tags_hub: ["spirit", "kami", "wind", "serpent", "deity", "many-arms", "sky", "st
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "portrait-mode", "no-face-human", "blue-magic", "creature-spirit", "legendary"]
 reference_image: cards/_images/magic-the-gathering/champions-of-kamigawa/75-myojin-of-seeing-winds.png
 average_cost_paid: 0
-market_price: 6.5
-market_price_as_of: 2026-05-11
+market_price: 6.54
+market_price_as_of: 2026-05-12
 date_added: 2026-05-07
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

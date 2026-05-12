@@ -14,10 +14,10 @@ tags_hub: ["sword", "blade", "robed-figure", "lone-figure", "ritual", "oath", "w
 tags_filter: ["solo", "wide-shot", "forward-facing", "scene-mode", "white-magic", "instant", "no-face", "single-figure"]
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/78-swords-to-plowshares.png
 average_cost_paid: 0
-market_price: 2.71
-market_price_as_of: 2026-05-11
+market_price: 2.74
+market_price_as_of: 2026-05-12
 date_added: 2026-05-06
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

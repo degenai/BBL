@@ -14,10 +14,10 @@ tags_hub: ["forest", "foliage", "hiding", "concealment", "mystery", "witness", "
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "portrait-mode", "enchantment", "aura", "green-magic", "flash", "common", "single-figure", "no-face-visible-partial"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/149-airtight-alibi.png
 average_cost_paid: 0
-market_price: 0.14
-market_price_as_of: 2026-05-11
+market_price: 0.15
+market_price_as_of: 2026-05-12
 date_added: 2026-05-10
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/b/f/bffbbe21-0a1d-48b9-903e-81c109aa11de.png?1706241938
 art_match_confidence: high
 needs_manual_review: false

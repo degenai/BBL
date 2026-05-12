@@ -15,9 +15,9 @@ tags_filter: ["no-figure", "wide-shot", "scene-mode", "land", "dual-land", "red-
 reference_image: cards/_images/magic-the-gathering/aetherdrift/262-rugged-highlands.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-10
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/7/3/73b7484f-923c-46c5-95bf-c2c6706c0d48.png?1738356938
 art_match_confidence: high
 needs_manual_review: false

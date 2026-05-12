@@ -10,14 +10,15 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["azorius-senate"]
 tags_hub: ["robed-figure", "hood", "runes", "glyphs", "wall", "arcane-script", "language", "ritual", "spellcasting", "wizard", "mystery", "scholar", "sacred-text"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "no-face", "blue-magic", "creature-wall", "defender", "scry"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/75-wall-of-runes.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-06
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

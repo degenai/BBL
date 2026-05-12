@@ -14,10 +14,10 @@ tags_hub: ["insect", "parasite", "body-horror", "horror", "wound", "infection", 
 tags_filter: ["solo", "close-up", "forward-facing", "no-face", "creature-insect", "green-magic", "deathtouch", "scene-mode"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/178-flesh-burrower.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-11
+market_price: 0.23
+market_price_as_of: 2026-05-12
 date_added: 2026-05-10
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/6/0/60499c90-a512-4abb-98eb-0735a7138421.png?1726286526
 art_match_confidence: high
 needs_manual_review: false

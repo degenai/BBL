@@ -1,0 +1,136 @@
+{
+  "edge_id": "orzhov-syndicate--commissioned-node",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "commission_basis": "Dual-pipeline node-suggester verdict (Opus #3 / Sonnet #4, 5/5 member overlap). Caller pre-approved the node-creation pass and asked for the design call between hub vs character. Mr. Nodeley defers to caller's stated default (character) and writes a justification.",
+  "node_proposed": {
+    "layer": "characters",
+    "layer_status": "existing (added 2026-05-11 via nicol-bolas--characters-layer-proposal; orzhov-syndicate is the third entry alongside nicol-bolas and endriders)",
+    "path": "cards/_characters/orzhov-syndicate.md",
+    "name": "Orzhov Syndicate",
+    "type_field": "character",
+    "species_field": "faction-collective (humans, vampires, spirits, thrulls, archons, giants — mixed)",
+    "frontmatter_pattern_basis": "cards/_characters/endriders.md (mirrors the faction-collective character precedent: type / name / aliases / universe / faction / species / canonical_source / confidence / appears_on / related_hubs / related_symbols / ip_resolution_for)"
+  },
+  "design_call_hub_vs_character": {
+    "chose": "character",
+    "rationale": "Sir, the bbl-hubs-hand-curated memory note is explicit that hubs are Alex-authored brand-anchor concepts with zing (Labor, Rebellion, Chinese Zodiac), not Wizards-defined factions. Orzhov Syndicate is canonically a Wizards faction, not an Alex brand-position concept; it would be a generic-left signifier in the hub layer's vocabulary and would crowd out the curated hub roster. The endriders precedent (cards/_characters/endriders.md, added recently) already establishes faction-collective entities in the characters layer with species: faction-collective. Following that precedent is the structurally-aligned move. The Orzhov Syndicate node is the institution-as-actor; the Labor hub is the thesis-anchor; the Orzhov Signet symbol is the iconography. Three distinct graph dimensions, properly separated. I hope this reading of the layer scope is acceptable.",
+    "node_suggesters_proposed": "hub (both Opus #3 and Sonnet #4)",
+    "override_reason": "Per the bbl-hubs-hand-curated memory note and the endriders precedent which both post-date the node-suggester pipeline run. The dual-pipeline judges flagged this exact scope question (signet-vs-syndicate caveat); Mr. Nodeley resolves it by routing to the character layer."
+  },
+  "members_verified": [
+    {
+      "card": "Pitiless Pontiff (RNA-194)",
+      "path": "cards/magic-the-gathering/ravnica-allegiance/194-pitiless-pontiff.md",
+      "orzhov_evidence": "Orzhov watermark; trivia confirms 'second set of the Guilds-of-Ravnica block, featuring the white-black Orzhov Syndicate'; depicted as a vampire cleric in Orzhov-Signet-backed throne; flavor 'Pay in gold...' is institutional-extraction vocabulary",
+      "verdict": "INCLUDE"
+    },
+    {
+      "card": "Tithe Drinker (DGM-109)",
+      "path": "cards/magic-the-gathering/dragon-s-maze/109-tithe-drinker.md",
+      "orzhov_evidence": "Orzhov watermark per trivia ('common Orzhov-watermark vampire from that block'); explicit Church-of-Deals framing; Extort mechanic is the Orzhov-coded Return-to-Ravnica block mechanic; same Orzhov Signet throne back as Pitiless Pontiff",
+      "verdict": "INCLUDE"
+    },
+    {
+      "card": "Charity Extractor (WAR-81)",
+      "path": "cards/magic-the-gathering/war-of-the-spark/81-charity-extractor.md",
+      "orzhov_evidence": "Trivia explicit: 'The art brief specified a generic Orzhov knight demanding payment from debtors' (Hipsters of the Coast preview, 2019-04, Matt Stewart interview); Hipsters preview groups it with Tithebearer Giant as part of WAR's 'the church still bills you mid-apocalypse' Orzhov slot; flavor 'War or no war, your donations are due' is direct guild-institutional vocabulary",
+      "verdict": "INCLUDE"
+    },
+    {
+      "card": "Mortify (RNA-192)",
+      "path": "cards/magic-the-gathering/ravnica-allegiance/192-mortify.md",
+      "orzhov_evidence": "Orzhov watermark intact across all 29 printings since Guildpact 2006; flavor speaker is 'Hilgur, Orzhov euthanist' (named institutional officeholder); role 'Orzhov euthanist' echoes the 2006 Orzhov Euthanist creature card (GPT-54), the guild's mercy-killer / debt-collector job class; the card is the Orzhov guild-common removal slot in RNA's cycle",
+      "verdict": "INCLUDE"
+    },
+    {
+      "card": "Lawmage's Binding (RNA-190)",
+      "path": "cards/magic-the-gathering/ravnica-allegiance/190-lawmage-s-binding.md",
+      "orzhov_evidence": "NONE. Trivia explicit: 'Lawmages on Ravnica belong to the Azorius Senate's Lyev Column.' Card is the Azorius (white-blue) entry in RNA's guild-common removal cycle, not Orzhov. Depicted casters are Azorius lawmages; captive is a horned red figure (likely Rakdos). Card shares the Tithe-bundle apparatus-of-extraction register but belongs to a different guild.",
+      "verdict": "EXCLUDE — Azorius, not Orzhov. Future cards/_characters/azorius-senate.md would anchor this card; not creating that node in this pass per one-node-per-invocation rule."
+    },
+    {
+      "card": "Vito, Thorn of the Dusk Rose (M21-127)",
+      "path": "cards/magic-the-gathering/core-set-2021/127-vito-thorn-of-the-dusk-rose.md",
+      "orzhov_evidence": "NONE. Trivia explicit: 'Vito is canonically Vito Quijano de Pasamonte, a heretical vampire hierophant of the Church of Dusk on Ixalan, originally from the conquistador-coded Legion of Dusk on Torrezon.' Different plane (Ixalan / Torrezon, not Ravnica), different in-canon institution (Church of Dusk / Legion of Dusk, not Orzhov Syndicate). Aesthetic convergence (white-black vampire-priest, ecclesiastical-robes, blood-and-redemption vocabulary) does not equal institutional identity. The triviabot-no-role-identity-conflation memory note applies in inverse: shared archetype is a tag, not a faction membership.",
+      "verdict": "EXCLUDE — Ixalan Church of Dusk, not Ravnica Orzhov. Flagged for future cards/_characters/church-of-dusk.md or cards/_characters/legion-of-dusk.md anchor node; this is now a published Mr. Nodeley candidate for a subsequent commission. Surfacing in 'future_passes_unlocked' below."
+    }
+  ],
+  "endpoints_now_pointing_at_node": [
+    {"type": "card", "path": "cards/magic-the-gathering/ravnica-allegiance/194-pitiless-pontiff.md", "name": "Pitiless Pontiff (RNA-194)"},
+    {"type": "card", "path": "cards/magic-the-gathering/dragon-s-maze/109-tithe-drinker.md", "name": "Tithe Drinker (DGM-109)"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/81-charity-extractor.md", "name": "Charity Extractor (WAR-81)"},
+    {"type": "card", "path": "cards/magic-the-gathering/ravnica-allegiance/192-mortify.md", "name": "Mortify (RNA-192)"}
+  ],
+  "two_way_wiring_to_existing_orzhov_signet_symbol": {
+    "symbol_path": "cards/_symbols/orzhov-signet.md",
+    "frontmatter_change": "Added related_characters: [orzhov-syndicate] field (previously only had related_hubs: [labor]).",
+    "body_change": "Added a leading bullet to the 'See also' section: '[[orzhov-syndicate]] — the institution this symbol marks. The signet is the iconography; the syndicate is the actor. Cards that depict the signet as object edge to this symbol node; cards that depict the guild as actor edge to the character node; many cards do both.' This makes the symbol↔character traversal explicit in both directions.",
+    "character_side_already_wired": "orzhov-syndicate.md frontmatter has related_symbols: [orzhov-signet]; body cross-references [[orzhov-signet]] in the functional-ideology section AND in the See-also section."
+  },
+  "description": "Sir, Mr. Nodeley humbly delivers the commissioned faction-collective character node for the Orzhov Syndicate. Four of the six candidate cards verified as canonical-Orzhov (Pitiless Pontiff, Tithe Drinker, Charity Extractor, Mortify); two cards declined per their own trivia (Lawmage's Binding is Azorius, Vito is Ixalan Church of Dusk). The signet-vs-syndicate scope caveat both node-suggesters flagged is resolved by keeping the two as paired-but-distinct graph nodes — orzhov-signet is the iconography (symbol layer), orzhov-syndicate is the institution-as-actor (characters layer), with 2-way wiring between them. The design call between hub and character was settled in favor of character per the bbl-hubs-hand-curated memory note and the endriders faction-collective precedent. I hope the layer routing is sound. The future-passes-unlocked array surfaces three additional Mr. Nodeley candidates the corpus will eventually need (church-of-dusk for Vito, azorius-senate for Lawmage's Binding, karlov-house as a sub-faction of Orzhov), but per the one-node-per-invocation rule I only propose this one.",
+  "citations": [
+    "[MTG Wiki: Orzhov Syndicate]",
+    "[MTG Wiki: Obzedat, Ghost Council]",
+    "[Wizards: Guildpact and Ravnica Allegiance set design articles]",
+    "[Scryfall: watermark:orzhov query — corpus-level Orzhov membership classification]",
+    "[Hipsters of the Coast: 'Behind the Front Lines' Charity Extractor preview, 2019-04 — art brief 'generic Orzhov knight']",
+    "[Hipsters of the Coast: 'The Designs of Ravnica Allegiance' 2019-01 — Lawmage's Binding designated as Azorius entry in RNA guild-common cycle]",
+    "[CBR: The Orzhov Syndicate, Explained]",
+    "[Card Kingdom: Orzhov Art and Representation blog series]",
+    "[MTG Wiki: Vito Quijano de Pasamonte — confirms Church of Dusk / Legion of Dusk / Ixalan attribution, NOT Orzhov]",
+    "[MTG Wiki: Azorius Senate — confirms Lyev Column lawmages as Azorius operatives, NOT Orzhov]",
+    "[Orzhov Signet artifact card flavor text, multiple printings 2011 / 2022 / 2024 — institutional medallion/tattoo duality]"
+  ],
+  "files_modified": [
+    "cards/_characters/orzhov-syndicate.md (CREATED)",
+    "cards/_symbols/orzhov-signet.md (added related_characters: [orzhov-syndicate] frontmatter field; added [[orzhov-syndicate]] cross-reference bullet to See-also section)",
+    "cards/magic-the-gathering/ravnica-allegiance/194-pitiless-pontiff.md (added characters: [\"orzhov-syndicate\"] frontmatter pointer)",
+    "cards/magic-the-gathering/dragon-s-maze/109-tithe-drinker.md (added characters: [\"orzhov-syndicate\"] frontmatter pointer)",
+    "cards/magic-the-gathering/war-of-the-spark/81-charity-extractor.md (added characters: [\"orzhov-syndicate\"] frontmatter pointer)",
+    "cards/magic-the-gathering/ravnica-allegiance/192-mortify.md (added characters: [\"orzhov-syndicate\"] frontmatter pointer)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "alternatives_considered": [
+    {
+      "candidate": "Hub at cards/_hubs/orzhov-syndicate.md (the node-suggesters' original proposal)",
+      "why_skipped": "Per the bbl-hubs-hand-curated memory note: hubs are Alex-authored brand-anchor concepts (Labor, Rebellion, Chinese Zodiac), not Wizards-defined factions. Hubs need zing not generic-left signifiers; an Orzhov-Syndicate hub would be neither. The endriders character-node precedent demonstrates that faction-collectives belong in the characters layer with species: faction-collective. Strong precedent, stronger memory note, character it is."
+    },
+    {
+      "candidate": "Subsume Orzhov Syndicate into the existing orzhov-signet symbol node rather than creating a new character node",
+      "why_skipped": "Considered and rejected. The symbol and the institution are distinct graph dimensions and should not be conflated. The signet is iconography (a visual primitive present in card art); the syndicate is an institutional actor (a faction-collective whose operatives appear in card art). The symbol's body explicitly captures the medallion/tattoo duality; the character's body explicitly captures the organizational structure and institutional logic. A card can edge to both (Pitiless Pontiff, Tithe Drinker do); a card can edge to one but not the other (Charity Extractor edges to the syndicate via the Orzhov-knight art brief but not to the signet, since the signet does not appear in its art). The two-node split is the structurally correct routing."
+    },
+    {
+      "candidate": "Include Lawmage's Binding in appears_on (it was on the prompt's candidate list)",
+      "why_skipped": "Trivia-pass evidence is explicit and primary: 'Lawmages on Ravnica belong to the Azorius Senate's Lyev Column.' The card is the Azorius entry in RNA's guild-common removal cycle, not Orzhov. Including it would violate the anti-confab discipline and conflate two distinct guilds that happen to share half a color identity (white). Excluded; flagged in caveats; future azorius-senate node would anchor it."
+    },
+    {
+      "candidate": "Include Vito in appears_on (it was on the prompt's candidate list with a verification request)",
+      "why_skipped": "Trivia-pass evidence is explicit: Vito is canonically Ixalan Legion of Dusk / Church of Dusk, on the plane Ixalan, not Ravnica. The prompt itself flagged the caveat and Mr. Nodeley honors it. Surface-resemblance between the two white-black vampire-priest institutions is a tag-tier signal, not a faction-membership signal. The triviabot-no-role-identity-conflation memory note's spirit applies: shared archetype does not equal shared identity. Excluded; flagged in caveats; future church-of-dusk node would anchor him."
+    },
+    {
+      "candidate": "DARK NODESLEY EX dissolution of the existing orzhov-signet symbol now that the orzhov-syndicate character node exists",
+      "why_skipped": "Strongly rejected. The symbol and character nodes are distinct graph dimensions with non-overlapping anchoring functions (see two-way-wiring section above). The signet is iconography; the syndicate is institution. Both nodes carry load-bearing content the other cannot. Dissolution would be a graph-quality regression. Not a Dark Nodesley case."
+    }
+  ],
+  "future_passes_unlocked": [
+    "Future Orzhov-watermark cards added to the corpus (Teysa Karlov, Obzedat Ghost Council, Karlov of the Ghost Council, Orzhov Pontiff, Seraph of the Scales, Kaya Orzhov Usurper, Orzhova the Cathedral Opulent, Imperious Oligarch, Final Payment, Cruel Celebrant, Cleric of Life's Bond, the Murders at Karlov Manor 2024 cards) attach to this node directly via characters: [\"orzhov-syndicate\"] frontmatter pointers without N²/2 mirror edges between them.",
+    "Future Mr. Nodeley candidate (NOT this pass): cards/_characters/church-of-dusk.md anchoring Vito Thorn of the Dusk Rose, Elenda the Dusk Rose, Mavren Fein Dusk Apostle, Bloodthirsty Conqueror, and other Ixalan Legion-of-Dusk vampire-priests. The faction shares aesthetic conventions with Orzhov but is canonically distinct; the corpus already has Vito plus several Ixalan vampire-priest siblings that would slot in. Strongly recommend commissioning this as the next character-layer addition.",
+    "Future Mr. Nodeley candidate (NOT this pass): cards/_characters/azorius-senate.md anchoring Lawmage's Binding plus the broader Azorius corpus. The Senate is a Ravnica guild peer to the Orzhov and warrants its own character node when enough Azorius cards accumulate. The Lawmage's Binding precedent is sitting there waiting.",
+    "Future Mr. Nodeley candidate (NOT this pass): cards/_characters/karlov-house.md as a sub-faction within the Orzhov Syndicate. The Karlovs have their own iconography (the family ouroboros, distinct from the guild eclipsed-sun signet) and a discrete storyline arc (Teysa, Karlov of the Ghost Council, Murders at Karlov Manor 2024). Worth a sub-node if the corpus accumulates enough Karlov-specific cards.",
+    "The Orzhov Syndicate node is a bundle-cohesion stack: four cards already converging on a single thematic anchor with 2-way wiring to the Orzhov Signet symbol and the Labor hub. The bundler will love this. The Tithe Discrete Lair 001 was authored from three of these four cards; future bundles on extraction-thesis-adjacent registers (death-as-debt, institutional-violence-as-sacrament, the apparatus-of-tithe) can anchor here cleanly.",
+    "DARK NODESLEY EX candidate to consider in a future pass: the prior Pitiless-Pontiff ↔ Tithe-Drinker 1:1 card-to-card edge (if one was drawn before the orzhov-signet symbol or this orzhov-syndicate character node existed) MAY be subsumed by the symbol+character node pair, which carries the same connection at higher graph quality. Mr. Nodeley flags this for review but does not act on it; Dark Nodesley would need to verify the prior edge actually exists in the current state of the MDs and then propose dissolution with migration plan."
+  ],
+  "wikilintbot_compatibility": {
+    "type_field_accepted": true,
+    "type_field_value": "character",
+    "wikilintbot_line_188_already_includes_character": true,
+    "non_card_node_guard_satisfied": "cards/_characters/orzhov-syndicate.md is under the _-prefix directory rule AND carries type: character; double-redundant guarding"
+  },
+  "voice_separation_audit": {
+    "mr_nodeley_voice_confined_to": ["description field of this JSON sidecar", "final report text back to caller"],
+    "md_body_register": "project-normal precise factual — no sniveling, no apologies, no fawning. Voice contamination check: PASSED.",
+    "frontmatter_register": "machine-readable schema only — no voice anywhere. Voice contamination check: PASSED."
+  }
+}

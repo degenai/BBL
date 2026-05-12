@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", 
 reference_image: cards/_images/magic-the-gathering/mystery-booster-retail-exclusives/132-balefire-liege--foil.png
 average_cost_paid: 0
 market_price: 3.61
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-06
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: Set 'Mystery Booster: Retail Exclusives' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.

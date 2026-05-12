@@ -1,0 +1,59 @@
+{
+  "card_name": "Milo",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "161/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card frame names 'Milo' and the depicted figure matches Milo's canonical character design: tall blond bowl-cut, wide-brimmed straw hat, green-and-white striped shirt with forest-green dungarees, in a Turffield-pastoral setting. Print art by take.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Milo is the Grass-type Gym Leader of Turffield Stadium in both Pokemon Sword and Shield, and Turffield is the first stop on Galar's official league progression — the introductory gym. [Bulbapedia: Milo, via WebSearch snippet]",
+      "sources": ["Bulbapedia (Milo)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Milo was born to a farmer couple in Turffield and works the family farm; in-game he can be seen wrangling stray Wooloo with the help of a herding Yamper. [Bulbapedia: Milo, via WebSearch snippet]",
+      "sources": ["Bulbapedia (Milo)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "His battle team uses two pure-Grass Pokemon — Gossifleur and Eldegoss — and his Eldegoss enters play at Level 20, the highest level of any first-gym Leader's ace in the Pokemon series to that point. [Bulbapedia: Milo / Game8 walkthrough, via WebSearch snippet]",
+      "sources": ["Bulbapedia (Milo)", "Game8 (Milo guide)"]
+    },
+    {
+      "category": "design",
+      "text": "Regular print art by take; Full Art and Secret Rare prints in Rebel Clash feature artwork by Hitoshi Ariga. [Bulbapedia: Milo (Rebel Clash 161), via WebSearch snippet]",
+      "sources": ["Bulbapedia (Milo Rebel Clash 161)"]
+    },
+    {
+      "category": "design",
+      "text": "Regular print reprinted in Champion's Path (outside Asia); in Japan, reprinted in the Charizard VMAX Starter Set and as a Mirror Holofoil S-P promotional card. [Bulbapedia: Milo (Rebel Clash 161), via WebSearch snippet]",
+      "sources": ["Bulbapedia (Milo Rebel Clash 161)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text: 'Discard up to 2 cards from your hand, and draw 2 cards for each card you discarded in this way.' — a hand-flip Supporter (rummage / loot) that exchanges quality for quantity; saw competitive play in single-Prize and toolbox decks across SWSH-era Standard. [pokemon.com TCG database]",
+      "sources": ["pokemon.com TCG database"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "No flavor text printed. [pokemon.com TCG database]",
+      "sources": ["pokemon.com TCG database"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bea", "set": "Vivid Voltage", "note": "no. 147/185 — later Galar Gym Leader Supporter (Stow-on-Side, Fighting-type)"},
+    {"name": "Nessa", "set": "Vivid Voltage", "note": "no. 157/185 — later Galar Gym Leader Supporter (Hulbury, Water-type)"},
+    {"name": "Opal", "set": "Vivid Voltage", "note": "no. 158/185 — later Galar Gym Leader Supporter (Ballonlea, Fairy-type)"},
+    {"name": "Milo", "set": "Champion's Path", "note": "Regular-print reprint of this same Rebel Clash 161 art"},
+    {"name": "Milo (Full Art)", "set": "Rebel Clash", "note": "no. 190/192 — Full Art Supporter version, art by Hitoshi Ariga"},
+    {"name": "Eldegoss V", "set": "Rebel Clash", "note": "Milo's ace Pokemon as a V-card in the same expansion"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "edge_id": "sanosuke-sakuma--artist-node-proposal",
+  "shape": "node-proposal",
+  "topology": "branch",
+  "category": "shared-artist-thematic",
+  "node_proposed": {
+    "layer": "artists",
+    "layer_status": "existing (joins jenn-ravenna-tran.md as the second artist node and the first non-MTG one)",
+    "path": "cards/_artists/sanosuke-sakuma.md",
+    "name": "Sanosuke Sakuma",
+    "type_field": "artist",
+    "frontmatter_pattern_basis": "cards/_artists/jenn-ravenna-tran.md (mirrors the artist layer skeleton: type / name / aliases / universe / portfolio_url / social / confidence / notes); extended with appears_on / related_hubs / cross_medium / birth_year / birth_location / career_start to capture the labor-hub-bridge load-bearing facts"
+  },
+  "endpoints_now_pointing_at_node": [
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/086-189-larvitar.md", "name": "Larvitar (Darkness Ablaze 086/189) — trivia-passed, primary source for cross-medium portfolio claim"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/045-189-vanillite.md", "name": "Vanillite (Darkness Ablaze 045/189) — vision/trivia pending"},
+    {"type": "card", "path": "cards/pokemon/burning-shadows/66-147-rhydon.md", "name": "Rhydon (Burning Shadows 66/147) — vision/trivia pending"},
+    {"type": "card", "path": "cards/pokemon/vivid-voltage/040-185-cramorant.md", "name": "Cramorant (Vivid Voltage 040/185) — Galar-native species, vision/trivia pending"},
+    {"type": "card", "path": "cards/pokemon/fusion-strike/232-264-dancer.md", "name": "Dancer (Fusion Strike 232/264) — Supporter Trainer card depicting a Galarian NPC trainer class; the thesis-anchor card for the labor-hub bridge"},
+    {"type": "hub", "path": "cards/_hubs/labor.md", "name": "Labor (BBL foundational hub) — node added to See Also with cross-medium-bridge rationale"}
+  ],
+  "description": "Sir, Edgelord steps aside and Mr. Nodeley apologizes for the inconvenience. The Pokemon corpus has 5 cards illustrated by Sanosuke Sakuma — including the trivia-passed Larvitar entry where the cross-medium portfolio evidence was captured in-corpus — and one of those cards is Dancer, a Supporter Trainer card depicting a Galarian NPC trainer class. Sakuma's load-bearing fact is the cross-medium portfolio: in addition to TCG illustration, she designed several Sword & Shield in-game trainer-class character archetypes (Worker, Backpacker, Office Lady, Doctor, Poke Kid, Police Officer, Businessman, Artist) — exactly the working-class slice of Galar's NPC bench. That makes the artist a load-bearing labor-hub bridge node, not just an attribution. The right shape is a 1:N branch into an artist node, not five separate 1:1 mirrors between cards that share only an illustrator credit (which would be a tag bridge per the Edgelord spec, not an edge). The Pokemon side of the graph now has its first non-card-node anchor. I hope this helps, sir.",
+  "citations": [
+    "[Bulbapedia: Sanosuke Sakuma — biographical data, career start, in-game trainer-class character design credits]",
+    "[Art of Pokemon: Sanosuke Sakuma illustrator page — card count and ongoing-career confirmation]",
+    "cards/pokemon/darkness-ablaze/086-189-larvitar.md — in-corpus trivia entry that captured the original WebSearch evidence (see Design bullet, line 65 in that MD)"
+  ],
+  "files_modified": [
+    "cards/_artists/sanosuke-sakuma.md (CREATED — first non-MTG artist node, first Pokemon-side anchor of any non-card-node type)",
+    "cards/_hubs/labor.md (added [[sanosuke-sakuma]] to See Also with cross-medium-bridge rationale)"
+  ],
+  "files_unmodified_by_design": [
+    "cards/pokemon/darkness-ablaze/086-189-larvitar.md (already has artist: Sanosuke Sakuma frontmatter — implicit link to the new node via name match)",
+    "cards/pokemon/darkness-ablaze/045-189-vanillite.md (already has artist: Sanosuke Sakuma frontmatter)",
+    "cards/pokemon/burning-shadows/66-147-rhydon.md (already has artist: Sanosuke Sakuma frontmatter)",
+    "cards/pokemon/vivid-voltage/040-185-cramorant.md (already has artist: Sanosuke Sakuma frontmatter)",
+    "cards/pokemon/fusion-strike/232-264-dancer.md (already has artist: Sanosuke Sakuma frontmatter)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "alternatives_considered": [
+    {
+      "candidate": "sowsow artist node (7 cards in corpus, only Purrloin trivia-passed)",
+      "why_skipped": "Sowsow has more cards in corpus (7 vs 5) but the load-bearing-bridge case is weaker. Sowsow's signature is 'environmental storytelling — depicts species in their own unique environments' — coherent thread, but does not bridge into any foundational BBL hub. Sakuma's cross-medium portfolio (TCG + Galarian NPC trainer-class design) bridges directly into the labor hub. Per the bbl-hubs-hand-curated memory note, the value of a node is its load-bearing-anchor potential, not its raw card count. Sakuma wins on bridge strength. Sowsow remains a strong candidate-for-future-pass when more sowsow cards are trivia-passed AND/OR when a sowsow-coded bundle thesis emerges (e.g. 'a day in the life — environmental storytelling as anti-battle-card aesthetic')."
+    },
+    {
+      "candidate": "Galar Gym Leaders hub / character cluster (10+ named gym-leader cards: Allister, Bea, Opal, Nessa, Leon, Kabu ×2, Milo, Melony, Peonia, Marnie)",
+      "why_skipped": "Card count is there (10+), but ZERO of these are trivia-passed yet. Without trivia evidence in-corpus for any of them, a hub or character cluster proposal would rest entirely on external Bulbapedia citations rather than on captured BBL trivia. Mr. Nodeley's anti-confab rule requires that proposed node MD bodies cite real canonical sources — they would here — but the better hygiene is to defer until at least one Galar Gym Leader is trivia-passed. Strong future-Nodeley candidate. Surfaced to janitor_triage as a pending Pokemon-side node candidate (this run, separately)."
+    },
+    {
+      "candidate": "Mareep evolution-line character node (Mareep ×2 prints + Flaaffy in corpus, Ampharos not in corpus)",
+      "why_skipped": "Thin. Only 3 cards (and two are reprints of the same species), only Mareep-Chilling-Reign trivia-passed. A 3-card evolution chain on a single species isn't a first-class graph dimension — that's better captured by the per-card Pre-evolution / Evolution Related-Cards bullets the triviabot already writes. Evolution lines as a layer might earn their own node-type in the future (e.g. cards/_species/) but proposing that layer on a single chain is premature."
+    },
+    {
+      "candidate": "Set hub (Sword & Shield era as a brand-anchor)",
+      "why_skipped": "Per the bbl-hubs-hand-curated memory note, hubs are Alex-authored brand-anchor concepts (Chinese Zodiac, Rebellion, Labor) — not auto-generated set-categorizations. Sets are metadata (the set field already lives in frontmatter), not Discrete-Lair-anchors. Wrong layer. Set-tier groupings belong in a future bundler index, not in the hubs directory."
+    },
+    {
+      "candidate": "Decline to propose any node this pass; ask for more trivia-passes before the Pokemon side gets its first non-card anchor",
+      "why_skipped": "The Larvitar trivia entry is solid (citation-rich, primary-source-grounded), the cross-medium portfolio is the kind of load-bearing fact that anchors a future Discrete Lair, and 4 more Sakuma cards in corpus will benefit from the artist node the moment their vision/trivia passes complete — the node will already be there to attach to. Holding back here is the wrong move; the graph needs to start somewhere on the Pokemon side and this is the strongest opening anchor available."
+    }
+  ],
+  "future_passes_unlocked": [
+    "When Dancer's vision/trivia pass completes, the artist node is already in place — the labor-hub bridge content can be re-grounded on a Sakuma-illustrated Galarian Trainer card rather than only on Larvitar's trivia bullet. Highest-value next move on the Pokemon side.",
+    "When Cramorant's vision/trivia pass completes, the Galar-native-species + Sakuma combination tightens the bridge further (a Pokemon canonically from Galar, illustrated by the artist who designed Galar's NPC trainer-class bench).",
+    "Future Sakuma cards landing in inventory via Collectr uploads attach to the artist node directly without N²/2 mirror edges.",
+    "A future 'Galarian Working-Class' Discrete Lair becomes authorable: the why_it_fits prose can cite Sakuma by name (citation in-corpus on Larvitar), making the labor-hub bridge feel curatorially specific rather than generic.",
+    "Future artist-node proposals for sowsow / Yukiko Baba / Miki Tanaka / Sekio will follow this layer's expanded pattern (the appears_on / related_hubs / cross_medium / career_start extensions added here)."
+  ],
+  "layer_proposal_notes": {
+    "directory": "cards/_artists/",
+    "underscore_prefix_satisfies_wikilintbot_non_card_guard": true,
+    "wikilintbot_type_list_already_accepts": ["hub", "symbol", "artist", "character"],
+    "frontmatter_schema_extension_introduced_this_run": {
+      "fields_added_beyond_jenn-ravenna-tran_baseline": ["appears_on", "related_hubs", "cross_medium", "birth_year", "birth_location", "career_start"],
+      "rationale": "The baseline artist node (jenn-ravenna-tran) is a name-resolution node — its job is to reconcile alias drift across Scryfall-stored credits. The Sakuma node is a bridge node — its job is to carry load-bearing facts (cross-medium portfolio, hub bridge, working-class NPC-design credits) that future bundles will cite. Different job, expanded schema. Both patterns are valid and the layer accommodates both.",
+      "appears_on_path_key_format": "<game>/<set>/<num>-<slug>, matches the symbol layer's appears_on pattern in cards/_symbols/orzhov-signet.md (with the caveat that orzhov-signet's existing values omit the game prefix; spec says game prefix is required — this Sakuma node uses the spec-correct format)"
+    }
+  }
+}

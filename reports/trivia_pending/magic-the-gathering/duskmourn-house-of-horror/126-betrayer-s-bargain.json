@@ -1,0 +1,48 @@
+{
+  "card_name": "Betrayer's Bargain",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "126",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Scryfall flavor_text names Winter speaking to Niko verbatim. Winter is a named Wizards-original Duskmourn-internal character with two other DSK cards bearing his name (Winter's Intervention DSK no. 123 and Winter, Misanthropic Guide DSK no. 240). Niko Aris is the recurring Wizards-original planeswalker (debuted KHM no. 225). Both characters are Wizards-internal IP, so no external-IP callout block required. ip_confidence remains high; ip_verified flipped to true.",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text reads verbatim: \"This is my way out. You'll have to find your own.\" —Winter, to Niko. Winter is the human survivor-guide who agreed to deliver four lives to the demon Valgavoth in exchange for an escape door out of Duskmourn; this card depicts the moment he abandons Niko Aris, the Wanderer, and Nashi to the cultists. [Scryfall flavor_text]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Card is flagged story_spotlight: true on Scryfall, part of the Duskmourn: House of Horror (DSK) story-arc cycle alongside Winter's Intervention (DSK no. 123, where Niko first meets Winter) and the legendary commander Winter, Misanthropic Guide (DSK no. 240). [Scryfall API; Scryfall set:dsk is:story]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Winter came to Duskmourn through one of its doors over a decade earlier as a teenager with his best friend; per Wizards story summary, the four sacrifices he owed Valgavoth began with the person he loved most. After delivering his remaining victims, Valgavoth grants the bargain by opening a door to Innistrad — then drags Winter into Duskmourn's bowels himself, betraying the betrayer. [MTG Wiki: Winter, via WebSearch snippet; Star City Games: \"Valgavoth's True Form Is Revealed In Duskmourn Episode 6\"]",
+      "sources": ["MTG Wiki: Winter", "Star City Games: Duskmourn Episode 6"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Billy Christian; released 2024-09-27 as an uncommon (no. 126/271). The walkman, headphones, and cassette aesthetic on Niko anchors Duskmourn's 1980s-slasher / VHS-era horror styling, the set's stated genre register. [Scryfall artist + released_at + collector_number]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "{1}{R} instant with additional cost: sacrifice a creature or enchantment or pay {2}; deals 5 to target creature and exiles instead of letting it die this turn. EDHREC rank 17543 — niche/sleeper rather than staple. The sac-or-pay-{2} clause mechanically rhymes with the flavor: a price someone else pays so you walk away. [Scryfall oracle_text + edhrec_rank]",
+      "sources": ["Scryfall", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Winter's Intervention", "set": "Duskmourn: House of Horror (DSK no. 123)", "note": "Story-spotlight sibling: Niko's first meeting with Winter, where the Wanderer notes he's friendlier than what was chasing them. Same character, the introduction beat to this card's betrayal beat."},
+    {"name": "Winter, Misanthropic Guide", "set": "Duskmourn: House of Horror (DSK no. 240)", "note": "The legendary-creature print of Winter himself, {1}{B}{R}{G} 3/4 Human Warlock; the named character speaking the flavor text on Betrayer's Bargain."},
+    {"name": "Niko Aris", "set": "Kaldheim (KHM no. 225)", "note": "The planeswalker being abandoned in the flavor text; mythic {X}{W}{U}{U} planeswalker whose Shard tokens are the in-mechanic version of the mirror-shard magic Niko uses to ultimately trap Winter at the end of the Duskmourn arc."},
+    {"name": "Valgavoth, Terror Eater", "set": "Duskmourn: House of Horror", "note": "The demon Winter is bargaining with — the cherry-wood-door, moth-motif antagonist behind every Duskmourn bargain card."},
+    {"name": "The Wanderer", "set": "Duskmourn / Strixhaven / Ikoria cycle", "note": "Recurring planeswalker traveling with Niko and Nashi when Winter betrays them; appears in the same story cycle as Niko's foil."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

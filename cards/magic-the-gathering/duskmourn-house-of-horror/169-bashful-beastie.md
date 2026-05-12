@@ -14,10 +14,10 @@ tags_hub: ["beast", "forest", "hiding", "shy-creature", "wildlife", "fur", "tree
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "green-magic", "creature-beast", "no-face-human", "daytime"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/169-bashful-beastie.png
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-11
+market_price: 0.08
+market_price_as_of: 2026-05-12
 date_added: 2026-05-10
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/c/2/c20fa7ee-a4c2-4eb0-9467-195f3b894fa0.png?1726286489
 art_match_confidence: high
 needs_manual_review: false

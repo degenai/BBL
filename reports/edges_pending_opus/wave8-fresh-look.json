@@ -1,0 +1,57 @@
+{
+  "edge_id": "despark--prison-realm",
+  "shape": "1:1",
+  "category": "story-spotlight",
+  "topology": "chain",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/war-of-the-spark/190-despark.md",
+      "name": "Despark"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/war-of-the-spark/26-prison-realm.md",
+      "name": "Prison Realm"
+    }
+  ],
+  "description": "Two cards down, the chain wanted a third. Topple the Statue (Act 2) and Despark (Act 3 main) were already mirrored by a prior pass. Prison Realm — the Act 3 coda, Bolas contained for eternity under Ugin's expansion of the renamed Meditation Plane — sat unconnected to either, despite being the canonical bookend of the same Bolas-Falls story-spotlight cluster the existing edge names. Both endpoints carry Scryfall's story_spotlight: true. Both flavor texts name Bolas directly. The narrative ordering is Wizards-stated. A mirror was the obvious play. Sigh applies. The shape is now a chain (Topple → Despark → Prison Realm); a future pass to draw Topple ↔ Prison Realm completes the triangle.",
+  "citations": [
+    "[Scryfall: Despark, story_spotlight: true]",
+    "[Scryfall: Prison Realm, story_spotlight: true]",
+    "[MTG Wiki: War of the Spark — Story Spotlights]",
+    "[MTG Wiki: Meditation Plane — renamed Prison Realm post-WAR, eternal containment under Ugin]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/war-of-the-spark/190-despark.md",
+    "cards/magic-the-gathering/war-of-the-spark/26-prison-realm.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    {
+      "candidate": "Topple the Statue ↔ Prison Realm",
+      "shape": "1:1 mirror, story-spotlight",
+      "reason_deferred": "Adding the same pass would have completed the Topple-Despark-Prison-Realm triangle in one invocation. Spec is one edge per invocation. This is the next pass — draws the third leg, mood shifts to 'satisfied' on the triangle reward."
+    },
+    {
+      "candidate": "Jace's Triumph ↔ Nissa's Triumph (WAR-55 ↔ WAR-170)",
+      "shape": "1:1 mirror, designer-confirmed-cycle",
+      "reason_deferred": "Two of five Triumph cycle members enriched in corpus (Gideon WAR-015, Liliana WAR-098, Chandra WAR-121 absent). Same templated flavor construction ('X's triumph came not from Y, but from Z'), same artist (Kieran Yanner), same Hour of Devastation 'Defeat' cycle bookend. Strong category-clean mirror but a less elegant topology than the chain completion above. Worth a follow-up pass once a third Triumph card lands — that would trigger Mr. Nodeley with three cards on a designer-confirmed-cycle, paralleling the fear-of-cycle precedent."
+    },
+    {
+      "candidate": "Duskmourn Survivor-cluster character node",
+      "shape": "Mr. Nodeley node-proposal",
+      "reason_refused": "Only two corpus cards have the Survival mechanic (Cautious Survivor DSK-172, Glimmer Seeker DSK-14). E1 already refused Glimmer cycle on count grounds. Same count, same refusal. Re-surveys when the corpus accumulates 3+ Survival-mechanic cards."
+    },
+    {
+      "candidate": "Aetherdrift second-faction character node beyond Endriders",
+      "shape": "Mr. Nodeley node-proposal",
+      "reason_deferred": "Aether Rangers already exists as the Avishkar home-team node (commissioned in a prior pass). The next-strongest Aetherdrift faction node would require a corpus survey for canonical-faction-membership citations across the remaining eight Grand Prix teams (Gloryguard, Iron Squire, Smiling Slitherlords, etc.) and three or more enriched corpus members per faction. Out of scope for a single-edge invocation; flag as a future bbl-edgelord run with the Aetherdrift set as the candidate-scope."
+    },
+    {
+      "candidate": "Azorius signet symbol node (parallel to Orzhov Signet)",
+      "shape": "Mr. Nodeley symbol-node-proposal",
+      "reason_deferred": "Caveat on the Azorius Senate character node already names this as the obvious future split (three-pointed angular Azorius sigil on Sphinx of New Prahv chest emblem, Azorius Locket centerpiece, New Prahv architectural ornamentation). The three corpus cards plausibly carrying the sigil are not yet vision-survey-confirmed at iconographic resolution — same parity barrier as Orzhov Signet had before the symbols layer survey. Wait for an iconographic vision-pass to confirm sigil-on-art across at least two corpus cards before Mr. Nodeley triggers."
+    }
+  ]
+}

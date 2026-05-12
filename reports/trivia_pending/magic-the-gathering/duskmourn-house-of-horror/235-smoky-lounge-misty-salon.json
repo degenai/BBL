@@ -1,0 +1,59 @@
+{
+  "card_name": "Smoky Lounge // Misty Salon",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "235",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged in vision pass; original Wizards-internal art, no IP verification required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmourn: House of Horror (DSK, released 2024-09-27) is a top-down-designed set themed on 'modern horror' inspired by 1970s/80s slasher films and tropes like The Amityville Horror; the entire set takes place inside a single impossibly-large mansion plane ruled by the demonic Valgavoth. [MTG Wiki: Duskmourn: House of Horror, via WebSearch snippet]",
+      "sources": ["MTG Wiki: Duskmourn: House of Horror (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Room is a Duskmourn-debut enchantment subtype: a split card whose two halves are both enchantments (called 'doors'); cast one half to unlock it on the battlefield, then later pay the other half's mana cost as a sorcery to unlock that door too. Lead designer Mark Rosewater chose enchantments over lands because Rooms needed to evoke mood and impact gameplay, and 'locations are often lands, but lands have a lot of mechanical restrictions.' Storm Scale rating: 6. [MTG Wiki: Room, via WebSearch snippet] [Wizards: Top of the Duskmourning Part 1, Mark Rosewater 2024]",
+      "sources": ["MTG Wiki: Room (via WebSearch snippet)", "Wizards: Top of the Duskmourning Part 1 (Mark Rosewater 2024)"]
+    },
+    {
+      "category": "design",
+      "text": "Smoky Lounge // Misty Salon is one of Mark Rosewater's named preview examples in 'Top of the Duskmourning, Part 1.' Rosewater's article note: 'Misty Salon showcases how some Rooms can care about how many halves of a Room you have unlocked, and is stronger if you unlock Smoky Lounge first. Smoky Lounge's effect will also make it easier to cast Misty Salon ... shines in a blue-red deck.' The card is the design team's canonical example of the two-color, two-doors-on-one-card Room pattern. [Wizards: Top of the Duskmourning Part 1, Mark Rosewater 2024, via WebSearch snippet]",
+      "sources": ["Wizards: Top of the Duskmourning Part 1 (Mark Rosewater 2024, via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Marco Gorlei is a freelance concept artist (ArtStation: mvgorlei) with 23 Magic illustrations to date; in Duskmourn he illustrated both Smoky Lounge // Misty Salon and a second Room card, Ticket Booth // Tunnel of Hate (DSK 158), making him one of a small set of Duskmourn artists trusted with two Rooms in the same set. [Scryfall artist search a:'Marco Gorlei', via WebSearch snippet] [ArtStation: mvgorlei, via WebSearch snippet]",
+      "sources": ["Scryfall artist search (via WebSearch snippet)", "ArtStation: mvgorlei (via WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "In Duskmourn Limited, Smoky Lounge // Misty Salon is the main payoff for the Izzet (UR) Rooms archetype: Smoky Lounge generates {R}{R} restricted to Room spells / door-unlocks each first main phase, which fuels Misty Salon's payoff that creates an X/X blue Spirit token with flying where X is the number of unlocked doors among Rooms you control. EDHREC reports the card is played in roughly 9,400 EDH decks at ~44% inclusion / ~44% synergy, with frequent pairings including Scrabbling Skullcrab, Central Elevator // Promising Stairs, and Unwilling Vessel. [Aetherhub: Duskmourn Draft Archetypes & Limited Guide, via WebSearch snippet] [Draftsim: Ultimate Duskmourn Limited Set Review, via WebSearch snippet] [EDHREC: Smoky Lounge // Misty Salon, via WebSearch snippet]",
+      "sources": ["Aetherhub: Duskmourn Draft Archetypes & Limited Guide (via WebSearch snippet)", "Draftsim: Ultimate Duskmourn Limited Set Review (via WebSearch snippet)", "EDHREC: Smoky Lounge // Misty Salon (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Neither face of the card prints any flavor text; both halves carry oracle/reminder text only. This matches the Duskmourn Room cycle's general convention of skipping flavor text on Rooms to make room for the unlock reminder block. [Scryfall card page DSK 235, flavor_text absent across multiple WebSearch snippets]",
+      "sources": ["Scryfall (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Refuting one part of the working frame for this card: Smoky Lounge // Misty Salon and Moldering Gym // Weight Room (DSK 190) are Room-mechanic siblings (same set, same split-card design language, same mechanic debut) but they are NOT part of a shared stag-skull / trophy-hall visual cycle. Different artists (Marco Gorlei vs Helge C. Balzer) and different iconography: Moldering Gym's vision pass tags it as an overgrown gymnasium with a ghost-face, spider/cocoon, dead branches, and toxic-green decay (no antlers, no taxidermy); only Smoky Lounge // Misty Salon carries the trophy-lounge hunter's-manor iconography. The link between them is mechanical, not visual. [Scryfall artist credits, via WebSearch snippet] [BBL vision-pass records for DSK 190 and DSK 235]",
+      "sources": ["Scryfall (via WebSearch snippet)", "BBL vision-pass records DSK 190, DSK 235"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Moldering Gym // Weight Room", "set": "Duskmourn: House of Horror (DSK)", "note": "Sibling Room from same set; mechanically the same split-card door design but a DIFFERENT visual cycle (overgrown decaying gym vs trophy lounge/library); the connection is mechanical, not iconographic."},
+    {"name": "Ticket Booth // Tunnel of Hate", "set": "Duskmourn: House of Horror (DSK)", "note": "Second Marco Gorlei Room in Duskmourn — the artist's other DSK Room assignment; useful sibling for any Gorlei-artist Duskmourn lair."},
+    {"name": "Mirror Room // Fractured Realm", "set": "Duskmourn: House of Horror (DSK)", "note": "MTG Wiki notes this is the Room featured on Duskmourn key art; highest-profile Room in the set and a useful narrative anchor for any Room-themed bundle."},
+    {"name": "Grand Entryway // Elegant Rotunda", "set": "Duskmourn: House of Horror (DSK)", "note": "MTG Wiki's type-defining Room example; the most-cited Room in coverage of the mechanic."},
+    {"name": "Bottomless Pool // Locker Room", "set": "Duskmourn: House of Horror (DSK)", "note": "Used by Wizards' official rulings as the canonical example for Room rules interactions; sibling in the domestic-haunting flavor space."},
+    {"name": "Central Elevator // Promising Stairs", "set": "Duskmourn: House of Horror (DSK)", "note": "EDHREC names this as a frequent pairing partner for Smoky Lounge // Misty Salon; sibling Room cited in synergy data."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

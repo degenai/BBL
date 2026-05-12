@@ -310,42 +310,53 @@ The pattern: **writers get the keys to wikilintbot; watchers do not.** csv2mdbot
 
 ---
 
-## Status snapshot (2026-05-11)
+## Status snapshot (2026-05-12)
 
-- **1,221** active card MDs · **597** enriched (49% of corpus) · vision queue at **0** (drained)
-- **Manual review pile:** **9** genuine edge cases (tokens, art series, alt-art showcases)
-- **IP flags:** **20** suspected_ip cards (planeswalkers / named lore figures) — work queue for triviabot
-- **Hub-tag density:** 2,112 unique hub tags graph-wide; **945 shared by 2+ cards**. Top bridges: `forest` (115), `robed-figure` (115), `ritual` (104), `wilderness` (87), `fire` (80), `warrior` (62), `ruins` (58), `armor` (56), `wings` (55), `monster` (49), `fairy-tale` (49), `sky` (43).
+- **1,523** active card MDs · **666** enriched (43% of corpus) · vision queue refilled by 5/12 CSV ingest (+80 cards)
+  - MTG: 641 / 784 enriched (82%)
+  - Pokemon: 25 / 408 enriched (6%) — Galar Gym Leader cluster is the active Pokemon-side thread
+- **Character nodes:** **9** — nicol-bolas, fear-of-cycle (5 corpus members), endriders, aether-rangers, jace-beleren, tamiyo, orzhov-syndicate (6 corpus members), azorius-senate, **galar-gym-challenge** (8 corpus members — Allister, Bea, Leon, Nessa, Opal, Melony, Kabu, Milo). Pokemon-side institutional anchor for the apparatus-of-spectacle / labor-as-televised-competition thesis.
+- **Symbols:** **1** — `orzhov-signet`, now 4 corpus members (Pitiless Pontiff, Tithe Drinker, Orzhov Locket, Orzhov Guildgate — worn / mounted / stamped at three scales)
+- **Artists:** **2** — Jenn Ravenna Tran, Sanosuke Sakuma
 - **Foundational hubs:** 3 — `labor`, `rebellion`, `chinese-zodiac`
-- **Symbols:** 1 — `orzhov-signet`
-- **Discrete Lairs shipped:** 1 — **Discrete Lair 001: Tithe** (10 cards, $5.00, narrative-first, Stripe-ready)
-- **Subagents shipped:** 2 — `bbl-researcher`, `bbl-triviabot`. Sketched: `bbl-bundler`.
-- **DeepSeek vision verdict:** locked. NOT in public API. Re-probe trigger logged in memory.
-- **No-num-* backfill:** 1 straggler remaining (basically done)
+- **Bolas-Falls triangle:** closed (Topple ↔ Despark ↔ Prison Realm story-spotlight triangle complete; future enlightenment flagged when Liliana + Ugin nodes arrive — refactor 3 mirror legs into 1:N stack on nicol-bolas)
+- **Discrete Lairs shipped:** 1 — **Discrete Lair 001: Tithe** (extensible to 5-card via Orzhov Locket + Guildgate signet addition)
+- **Subagents shipped:** **5** — `bbl-researcher`, `bbl-triviabot`, `bbl-edgelord` (with Mr. Nodeley + DARK NODESLEY EX alters), `bbl-nurse-joy-md`, `bbl-judge`. Sketched: `bbl-bundler`.
+- **Model assignment locked:** Sonnet 4.6 for routine extraction (vision, trivia, triage); Opus 4.7 for graph-spanning judgment (Edgelord, Judge). "Opus is my Eva, Sonnet is the weapons."
+- **Dual-pipeline + Judge pattern: DROPPED** — single-Opus-Edgelord is standard; no Judge unless explicit dual-pipeline dispatch
+- **Agent batching pattern: LOCKED** (wave 10) — 1 batched agent for trivia (HTTP-bound, serial barely costs wall-clock), 2-3 micro-batched agents × 2-3 cards each for vision (LLM-bound, preserve parallel). ~50-70% per-wave token reduction. Memory at `bbl-agent-batching-pattern.md`.
+- **DeepSeek vision verdict:** still NOT in public API as of 2026-05-12. Watch signal: chat.deepseek.com beta-tag drop.
 
 ### For the next session — pass-the-ball brief
 
 **Pick up here without reconstructing anything from git log.**
 
-**1. The active enrichment loop is on pause** — queue drained, 49% of corpus enriched. Next push needs either:
-- Another Collectr CSV upload (new cards) → `python csv2mdbot.py <csv>` → `python researchbot.py --prepare-only --limit 600 ...` → fan out bbl-researcher batches
-- OR re-review walk via `python bbl_review.py next 13` → upgrade older enrichments under v4 anti-confab prompt
-- OR pivot to Pokémon (researchbot path is wired, never exercised)
+**1. Active enrichment loop is HOT.** Wave 10 ended cleanly. Next wave should use the **new batching pattern** locked in `bbl-agent-batching-pattern.md`:
+- **Trivia: 1 batched agent for N cards sequential** (HTTP-bound, serial barely costs wall-clock)
+- **Vision: 2-3 micro-batched agents × 2-3 cards each** (LLM-bound, preserve parallel)
+- Edgelord stays single-Opus, sequential when multiple
+- Wave 10 demo: 4 dispatches for 15 cards (vs old way ~15 dispatches). Same volume, ~57% fewer dispatches.
 
-**2. The bundle production line is hot.** Tithe shipped, the workflow is proven, the bottleneck now is doing more lairs:
-- Bundle #2 candidates: another thesis-led concept (Rebellion? Chinese Zodiac year-of-the-X?), OR a softer mood lair to test register variety
-- Build `bbl-bundler` subagent to automate the candidate-matching → why_it_fits drafting → JSON emission pipeline (sketched in `docs/sketchbook.md`)
-- Push Tithe to live Stripe product (create in dashboard, paste Payment Link into `checkout.stripe_payment_url`)
+**2. Wave 10 Phase 2 incomplete.** E1 (Edgelord wave-10 follow-up) hit a 529 server overload during dispatch and was held by user. E2 (fresh look) never dispatched. **Pick up by re-dispatching E1** on the unlucky-lands 10-card cycle scan (Raucous Carnival DSK-266 is anchor, designer-coordinated 13-life triskaidekaphobia cycle per trivia). If 3+ corpus members, Nodeley node-proposal for `cards/_characters/dsk-unlucky-lands-cycle.md`.
 
-**3. Symbols layer is alive but skeletal.** One symbol so far. Highest-leverage next additions: Boros gauntlet, Dimir cipher, Eldraine throne pattern, Theros constellation, Lorwyn fae cyphers. Each new symbol unlocks cross-card cohesion copy in future bundles.
+**3. galar-gym-challenge cluster is most-active Pokemon-side node** (8 corpus members). Leon arrived 5/12 — node body extended, vision/trivia pending on Leon (Vivid Voltage 154 holofoil). Bea/Opal/Nessa/Milo all got trivia wave 10 — `take` Game Freak designer chain triple-attested → quadruple-attested.
 
-**4. Janitorial backlog:**
-- 9 manual-review cards (tokens, art series — small triage batch)
-- Mystery Booster Cards = The List folder path migration (33 cards, defer until a holistic janitor pass)
-- `bundles: ["tithe"]` sync on the 9 Tithe cards' frontmatter (currently empty)
-- Forest Remembers narrative "X as Y" idiom fix
+**4. Open Edgelord-flagged future moves (cited in prior sidecars):**
+- **Bolas-Falls 1:N collapse** — when Liliana + Ugin character nodes exist, refactor the Topple/Despark/Prison Realm triangle into a 1:N stack on nicol-bolas. N²→N edge cost.
+- **Speed Demons DFT↔DSC cross-set bridge** — Ooze Patrol flavor canonically names Valgavoth's race team. Waiting for a DSC corpus member to mirror to.
+- **Razorkin faction node** — Hordecaller (DSK-152) is the only corpus member; Needlehead + Ripchain not in inventory. Trigger: 3+ in corpus.
+- **Norin character node** — Norin Swift Survivalist (DSK-297) flagged suspected_ip "Norin the Wary" (legacy MTG); triviabot work pending.
+- **dsk-room-cycle Nodeley** — 2 corpus members (Smoky Lounge + Moldering Gym). Trigger: 3rd Room card.
+- **Saw-references cluster** — Trial of Agony (DSK-159) is the lone Saw-homage card; Saw / Let's Play A Game / Lord of Pain not in corpus.
+- **HIJIKI OKA real-world brand integration** — surfaced via Opal trivia (real Galar textile sponsor on her uniform). Parallel to Macro Cosmos but no macro-cosmos node yet.
 
-**5. DeepSeek vision:** check `chat.deepseek.com` periodically. When the beta tag drops from vision input, re-run the 12-variant probe (script in conversation history of session 00607c0f). Until then, no change to vision workflow.
+**5. Janitorial backlog (mostly carried over):**
+- 9 manual-review cards (Marnie holofoil `art_match_confidence: low` triage)
+- Mystery Booster Cards = The List folder path migration (deferred to holistic janitor pass)
+- `bundles: ["tithe"]` sync on Tithe-anchored cards' frontmatter (currently empty)
+- Vision-pass agent occasionally over-conservative on color-magic tags when oracle_text omits mana cost (Norin/Keybearer/Domination in wave 10) — fixable in lint pass via mana_cost field
+
+**6. DeepSeek vision:** still chat-beta. Re-probe trigger unchanged.
 
 ### The most important rules locked into project memory
 
@@ -364,18 +375,23 @@ These live in `~/.claude/projects/C--Users-alexa-Desktop-Bulk-Graph-Bundler/memo
 - **Verify API capability by calling the API** — research agents citing AI-influencer blogs are unreliable; probe before reporting.
 - **Caveman mode is novelty only** — drop to verbose when explaining workflow or when Alex says "I'm lost."
 
-### What changed this session (2026-05-11)
+### What changed this session (2026-05-12)
 
-- **Discrete Lair 001 — Tithe shipped** — 10-card bundle, narrative-first, full JSON schema v0.3, Stripe-ready
-- **Foundational hubs built** — labor, rebellion, chinese-zodiac at `cards/_hubs/`
-- **Symbols layer built** — first symbol `orzhov-signet` at `cards/_symbols/`, with bot guards updated
-- **bbl-triviabot agent spec shipped** at `.claude/agents/bbl-triviabot.md`
-- **DeepSeek vision verdict locked** — 12-variant probe + 5 corroborating GitHub issues confirm NOT in public API; watch signal logged for chat-UI beta-tag drop
-- **csv2mdbot body-wipe bug fixed** — `surgical_update_existing()` preserves card body + BBL-internal fields across CSV reconciliations
-- **No-num-* backfill** — Scryfall UUID extraction restored proper collector numbers; 1 straggler remains
-- **Mystery Booster Cards = The List** — 33 cards re-tagged with `set: The List` + `the_list_source_set: <CODE>`; folder path migration deferred to holistic janitor pass
-- **Bundle previewer scaffolded** at `diamondlegendz/bundle-previewer/` — HTML + anime.js v4 + sectioned receipt + Stripe checkout button
-- **Brand architecture locked** — BBL = show, Discrete Lair NNN = series, numbers append-only
-- **Pricing model codified** — $5 floor, narrative_premium as line item, multi-copy lever (`qty_in_bundle > 1`)
-- **No em dash rule** scoped to buyer-facing copy only
-- **Anti-confab v4 extended** to role-identity conflation (caught in Tithe Drinker / Slavomir Zoltan false-link test)
+- **Wave 8 (6 vision + 6 trivia + 2 Edgelords)** — galar-gym-challenge character node landed (3 → 7 corpus members across waves)
+- **Wave 9 (6 vision + 6 trivia + 2 Edgelords)** — Bolas-Falls triangle closed (Topple ↔ Despark ↔ Prison Realm); orzhov-signet symbol node extended 2→4 + orzhov-syndicate character node 4→6 (Orzhov Locket + Guildgate as medallion + architectural-scale signet appearances — three-scale read: worn / mounted / stamped)
+- **Wave 10 — new batching pattern debuted** (9 vision + 6 trivia + 2 Edgelords scoped, E2 incomplete due to 529): 4 dispatches for 15 cards; Leon arrival completes Galar Supporter 5-cycle (galar-gym-challenge node now 8 members)
+- **Agents:** `bbl-edgelord` with Mr. Nodeley (node-proposals) + DARK NODESLEY EX (node-dissolutions) alters; `bbl-nurse-joy-md` (triage diagnoses); `bbl-judge` (dual-pipeline comparator, DROPPED operationally)
+- **Layers built:** `cards/_artists/` (Jenn Ravenna Tran, Sanosuke Sakuma); `cards/_characters/` expanded from 0 to 9 nodes
+- **Agent batching pattern locked** at `memory/bbl-agent-batching-pattern.md` — 1 trivia agent + 2-3 micro-batched vision agents; ~50-70% per-wave token reduction; applied wave 10
+- **Sonnet/Opus model assignment locked** at `memory/bbl-sonnet-for-routine-agents.md` — Sonnet for routine extraction, Opus for graph-spanning judgment, Edgelord locked to Opus via frontmatter after Sonnet visibility limit discovery (Sonnet snapshot saw 390 vs Opus 728 enriched count)
+- **Dual-pipeline + Judge pattern dropped** — single Opus Edgelord is standard; Judge only for explicit dual-pipeline dispatch (rare)
+- **Sequential Edgelord pattern** — when batching multiple Edgelords in one wave, run sequential (not parallel) to avoid MD-write race conditions
+- **csv2mdbot hub-protection guard** — frontmatter `type:` check + `_`-dir guard prevents zero/archive of layer nodes (hubs/symbols/artists/characters)
+- **Anti-confab catches this session:**
+  - Manifest Dread blue-magic palette-confab → "color-magic from oracle_text not palette" rule baked into bbl-researcher spec
+  - Aether Rangers Edgelord stale-input artifact → "sequential, not parallel" Edgelord rule
+  - Diversion Specialist "Duskmourn Survivor" creature-type → actually Human Warrior (triviabot caught)
+  - Razorkin faction-wide carnival framing → REFUTED (per-card art choice only, no Wizards Planeswalker's Guide support)
+  - Trial of Agony "Trial of cycle" → REFUTED (lone in DSK per Scryfall set search; Saw-homage cluster instead)
+  - Smoky Lounge / Moldering Gym stag-skull sibling reading → REFUTED (different artists, different art content; the wave-8 vision agent confabbed shared iconography that doesn't exist)
+- **Edgelord triangle topology** — Bolas-Falls (Topple/Despark/Prison Realm) is the corpus's first closed-triangle structural shape

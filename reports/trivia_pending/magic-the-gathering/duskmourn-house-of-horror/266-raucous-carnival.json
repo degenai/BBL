@@ -1,0 +1,62 @@
+{
+  "card_name": "Raucous Carnival",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "266",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Raucous Carnival is the red/white member of Duskmourn's ten-card common dual-land cycle (the 'unlucky lands' / 'life-check lands'). All ten enter tapped unless any player has 13 or less life and produce two colors of mana. The other nine are Abandoned Campground, Bleeding Woods, Etched Cornfield, Lakeside Shack, Murky Sewer, Neglected Manor, Peculiar Lighthouse, Razortrap Gorge, and Strangled Cemetery. [MTG Wiki: Unlucky land / CoolStuffInc preview article, via WebSearch snippets]",
+      "sources": ["MTG Wiki (Unlucky land)", "CoolStuffInc (Paige Smith DSK dual lands preview)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The 13-life trigger is a triskaidekaphobia gag baked into Duskmourn's horror-set design language; community nicknames include 'unlucky lands' and 'life-check lands'. [MTG Wiki: Unlucky land, via WebSearch snippet]",
+      "sources": ["MTG Wiki (Unlucky land)"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Josu Solano. Common rarity. Released 2024-09-27 as part of Duskmourn: House of Horror (set code DSK). [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'They say that those who enter the amusement park never come back, and their disembodied laughter joins the others on the wind.' — written in the urban-legend register the unlucky-lands cycle uses across the board. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text: 'This land enters tapped unless a player has 13 or less life. {T}: Add {R} or {W}.' Note the trigger reads 'a player' not 'an opponent' — your own life total counts, so paying life or self-damage can untap your own land. [Scryfall / MTG Rocks set review, via WebSearch snippet]",
+      "sources": ["Scryfall", "MTG Rocks (Duskmourn dual lands)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The cycle is the first time common dual lands have a real chance to enter untapped, which raised significant interest in Pauper specifically — Commander uptake is muted because 40-life starts make 13-life-or-less most-of-game a rare condition. [MTG Rocks / EDHREC DSK set review, via WebSearch snippets]",
+      "sources": ["MTG Rocks (Duskmourn dual lands)", "EDHREC (DSK set review)"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment via MTG Rocks coverage: the unlucky-lands cycle was widely received as a strong format-impact pickup for Standard / Modern / Pauper because of the untap condition; received as flavorful for Duskmourn but mechanically odd for Commander. [MTG Rocks: 'New Common Duskmourn Dual Lands Have Multi-Format Potential', via WebSearch snippet]",
+      "sources": ["MTG Rocks (Duskmourn dual lands)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Abandoned Campground", "set": "Duskmourn: House of Horror", "note": "no. 255 — same unlucky-lands cycle (white/black per cycle structure)"},
+    {"name": "Razortrap Gorge", "set": "Duskmourn: House of Horror", "note": "same unlucky-lands cycle"},
+    {"name": "Bleeding Woods", "set": "Duskmourn: House of Horror", "note": "same unlucky-lands cycle"},
+    {"name": "Murky Sewer", "set": "Duskmourn: House of Horror", "note": "same unlucky-lands cycle"},
+    {"name": "Etched Cornfield", "set": "Duskmourn: House of Horror", "note": "same unlucky-lands cycle"},
+    {"name": "Strangled Cemetery", "set": "Duskmourn: House of Horror", "note": "same unlucky-lands cycle"},
+    {"name": "Lakeside Shack", "set": "Duskmourn: House of Horror", "note": "same unlucky-lands cycle"},
+    {"name": "Peculiar Lighthouse", "set": "Duskmourn: House of Horror", "note": "same unlucky-lands cycle"},
+    {"name": "Neglected Manor", "set": "Duskmourn: House of Horror", "note": "same unlucky-lands cycle"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

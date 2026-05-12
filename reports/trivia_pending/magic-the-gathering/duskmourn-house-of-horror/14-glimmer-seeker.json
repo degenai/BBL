@@ -1,0 +1,53 @@
+{
+  "card_name": "Glimmer Seeker",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "14",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag on the card; generic Duskmourn Survivor archetype.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Glimmers are canon-defined as benevolent constructs that protect survivors from the set's villain: per Inquisitive Glimmer's flavor text, \"Glimmers are physical manifestations of survivors' hope and courage. Their presence is one of the few things that can protect from Valgavoth's malevolent influence.\" [Scryfall: Inquisitive Glimmer, DSK no. 217]",
+      "sources": ["Scryfall: Inquisitive Glimmer (DSK 217)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Survival is Duskmourn's white-green-flavored new keyword and the Survivor creature type was created specifically to carry it: \"Each survival ability is a triggered ability that triggers at the beginning of your second main phase, if the creature with the ability is tapped\" and \"all creatures with survival abilities have the new Survivor creature type.\" [Wizards: Duskmourn Mechanics, Matt Tabak, 2024-08-31] Glimmer Seeker is one of 14 Survivor-typed creatures in the set. [Scryfall search: t:survivor set:dsk]",
+      "sources": ["Wizards: Duskmourn Mechanics (Matt Tabak)", "Scryfall search t:survivor set:dsk"]
+    },
+    {
+      "category": "design",
+      "text": "The Glimmer subtype is a first-class design element across DSK rather than a one-off — Scryfall shows at least six Glimmer-creature-typed cards in the set (Glimmer Seeker, Glimmerburst no. 062, Glimmerlight no. 249, Inquisitive Glimmer no. 217, Lionheart Glimmer no. 019, Enduring Courage no. 133) plus a shared 1/1 white Glimmer enchantment-creature token. [Scryfall search: t:glimmer set:dsk; name:glimmer set:dsk]",
+      "sources": ["Scryfall searches t:glimmer set:dsk and name:glimmer set:dsk"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Kev Fang is a Wizards illustrator whose Magic credits include Commander Masters, Modern Horizons 3, and Outlaws of Thunder Junction; outside of Magic, his portfolio identifies him as a traditional-media artist and sideshow performer (knife-thrower). [kevfang.com; mtg.wtf artist page]",
+      "sources": ["kevfang.com", "mtg.wtf: Kev Fang"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Glimmer Seeker reads as a niche-but-real Commander inclusion in Survivor-tribal builds: EDHREC's card-page meta description reports 4,357 Glimmer Seeker decks tracked and lists it as commonly played with Savior of the Small, Rootwise Survivor, and Veteran Survivor. [EDHREC: Glimmer Seeker card page]",
+      "sources": ["EDHREC: Glimmer Seeker card page meta description"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Card prints the line \"Well, hello there. Want to come exploring?\" with no attributed speaker on Scryfall's record — the line sits ambiguous between the seeker greeting the Glimmer or vice versa. [Scryfall: Glimmer Seeker]",
+      "sources": ["Scryfall: Glimmer Seeker (DSK 14)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Inquisitive Glimmer", "set": "Duskmourn: House of Horror", "note": "WU Fox Glimmer that prints the canonical Glimmer lore in flavor text; shares the Glimmer subtype that Glimmer Seeker's token creates."},
+    {"name": "Glimmerlight", "set": "Duskmourn: House of Horror", "note": "Common 2-mana Equipment that creates the same 1/1 white Glimmer enchantment-creature token; its flavor text frames Glimmers as 'hope and reliable lighting'."},
+    {"name": "Glimmerburst", "set": "Duskmourn: House of Horror", "note": "Blue instant: draw two and create a Glimmer token. Pairs mechanically with Glimmer Seeker's draw mode and shares the token type."},
+    {"name": "Lionheart Glimmer", "set": "Duskmourn: House of Horror", "note": "White Cat Glimmer (5-mana) whose flavor text frames the survivor turn from prey to hunter — sits in the same color and Glimmer-creature space."},
+    {"name": "Acrobatic Cheerleader", "set": "Duskmourn: House of Horror", "note": "DSK no. 001, the other low-CMC white Human Survivor with Survival; rounds out the white Survivor pair."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

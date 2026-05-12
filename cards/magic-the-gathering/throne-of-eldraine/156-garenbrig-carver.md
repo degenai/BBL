@@ -15,9 +15,9 @@ tags_filter: ["mid-shot", "narrative-mode", "solo", "forward-facing", "creature-
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/156-garenbrig-carver.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-06
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/1/9/194b7a1c-291a-470e-9a40-61b72a46793b.png?1572490548
 art_match_confidence: high
 needs_manual_review: false

@@ -1,0 +1,55 @@
+{
+  "card_name": "Kabu",
+  "game": "Pokemon",
+  "set": "Champion's Path",
+  "collector_number": "55/73",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "PokemonTCG.io card metadata (id swsh35-55, name 'Kabu', Supporter Trainer) plus illustrator credit to 'take' (the official Game Freak character designer for Pokemon Sword & Shield Gym Leaders per Bulbapedia: take) confirms the depicted figure IS the canonical Galar Fire-type Gym Leader Kabu of Motostoke Stadium. Pokemon-internal IP (Game Freak / Nintendo first-party character) — no external-crossover risk, so ip_verified flips to true and the stale 'Suspected IP' warning callout + inline metadata line in the Vision body are reconciled, but no external ## IP callout block is required. Closes the loop on the third Galar Gym Leader card in the corpus (Allister + Melony + Kabu = 3 fully enriched).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "From Champion's Path (SWSH3.5, set code CPA, released 2020-09-25), a special expansion of the Sword & Shield Series designed to mirror the Galar region's Gym Challenge and the path to becoming a Champion. The set is small — 73 numbered cards plus 7 Secret Rares (80 total) — and its release model was equally unusual: it shipped only inside Elite Trainer Boxes, Pin Collections, Tin sets, and gym-pin product lines (the Motostoke gym pin product is one of them) rather than loose booster boxes [PokemonTCG.io set:swsh35] [Bulbapedia: Champion's Path (TCG), via WebSearch snippet] [Pokemon.com: Champion's Path Pin Collections — Turffield, Hulbury, and Motostoke Gyms, via WebSearch snippet].",
+      "sources": ["PokemonTCG.io API: swsh35", "Bulbapedia: Champion's Path (TCG)", "Pokemon.com: Champion's Path Pin Collections"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrator credit on this print is 'take' per PokemonTCG.io's authoritative artist field for swsh35-55 — the same single-word pen name behind the Allister (Vivid Voltage no. 146/185) and Melony (Chilling Reign no. 146/198) Supporter prints already in the corpus. Per Bulbapedia, 'take' is a professional artist and Game Freak character designer who designed the Galar Gym Leaders themselves for Pokemon Sword & Shield (and later Adaman and Irida for Pokemon Legends: Arceus) — so the card art on the regular Supporter print is by the same hand that designed the in-game character, not a third-party TCG-only illustrator interpretation. The Champion's Path Rainbow Rare variant (no. 077/073) is illustrated by Hitoshi Ariga instead [Bulbapedia: take (illustrator), via WebSearch snippet] [PokemonTCG.io API: swsh35-55, swsh35-77].",
+      "sources": ["Bulbapedia: take", "PokemonTCG.io API: swsh35-55", "PokemonTCG.io API: swsh35-77"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Character — Kabu is the Motostoke Stadium Fire-type Gym Leader of the Galar Pokemon League and, in canon, the only Galar Gym Leader who is NOT native to Galar: he was scouted as a Trainer in Hoenn and relocated to Galar to take the Motostoke post. He sits as the third Gym in the league's fixed-order major-division progression and is canonically the first 'real challenge' of the Gym Challenge — the disciplined-veteran trainer who plays a key narrative role in early-game pacing. Unlike Allister/Bea and Melony/Gordie, Kabu's Motostoke slot is NOT version-asymmetric: he holds the Fire-type major-division Gym in BOTH Pokemon Sword AND Pokemon Shield [Bulbapedia: Kabu, via WebSearch snippet] [Bulbapedia: Motostoke Stadium, via WebSearch snippet] [Pokemon Fandom Wiki: Kabu, via WebSearch snippet].",
+      "sources": ["Bulbapedia: Kabu", "Bulbapedia: Motostoke Stadium", "Pokemon Fandom Wiki: Kabu"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Character — Kabu's canonical character beat is the disciplined-veteran archetype with a humbling backstory: per Pokemon Fandom Wiki / Bulbapedia, Kabu is fiery and passionate, always striving to perfect his battling skills, but kept losing in earlier Gym Challenges and nearly retired in defeat; after a battle with Galar Champion Leon he restored his faith and rededicated himself to the craft. He is also the first Pokemon Gym Leader in series canon to Gigantamax his Pokemon, with his signature Centiskorch G-Max being a designer-confirmed showcase of the Dynamax-into-stadium-play apparatus the Galar League is built around [Pokemon Fandom Wiki: Kabu, via WebSearch snippet] [Bulbapedia: Kabu, via WebSearch snippet] [Game8: How to Beat Kabu, via WebSearch snippet].",
+      "sources": ["Pokemon Fandom Wiki: Kabu", "Bulbapedia: Kabu", "Game8: How to Beat Kabu"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rules text per PokemonTCG.io (verbatim): 'Shuffle your hand into your deck. Then, draw 4 cards. If your Active Pokemon is your only Pokemon in play, draw 8 cards instead. You may play only 1 Supporter card during your turn.' Originally printed in Darkness Ablaze (SWSH3 no. 163, 2020-08-14, same 'take' artist) and reprinted four weeks later as part of Champion's Path's Gym Leader rotation. Pojo's contemporaneous review framed Kabu as a niche-but-real tool: powerful in mulligan decks (the 8-card-draw mode rewards the typical mulligan board state of one Pokemon in play) and gets a meaningful boost in Expanded format via VS Seeker recursion. The mode-flip from 4 to 8 cards is what makes the card distinctive among SWSH-era draw-Supporters [PokemonTCG.io card:swsh35-55] [Pojo.com: Kabu Darkness Ablaze review, via WebSearch snippet].",
+      "sources": ["PokemonTCG.io API: swsh35-55", "Pojo.com: Kabu Darkness Ablaze review"]
+    },
+    {
+      "category": "design",
+      "text": "Print roster — there are 5 distinct Kabu prints across the SWSH era per PokemonTCG.io: Darkness Ablaze no. 163 (take, Uncommon, original print), Darkness Ablaze no. 186 (Hitoshi Ariga, Rare Ultra Full Art), Champion's Path no. 55 (take, Uncommon — this print), Champion's Path no. 77 (Hitoshi Ariga, Rare Rainbow Secret), and Lost Origin Trainer Gallery no. TG26 (Hideki Ishikawa, Rare Ultra, 2022). The take / Ariga split mirrors the Melony and Allister Supporter / Full Art split: take draws the canonical character designer's portrait on the regular Supporter print, while Ariga (a longtime Pokemon TCG illustrator working under a Ken Sugimori referral since 2015) handles the alternate-rarity Full Art and Rainbow Rare treatments [PokemonTCG.io API: name:Kabu] [Bulbapedia: Hitoshi Ariga, via WebSearch snippet].",
+      "sources": ["PokemonTCG.io API: name:Kabu", "Bulbapedia: Hitoshi Ariga"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kabu", "set": "Darkness Ablaze, no. 163/189", "note": "Original print of the same Supporter — same 'take' artist, same Uncommon Trainer slot, four weeks earlier (2020-08-14). The Champion's Path 55/73 print is functionally a reprint."},
+    {"name": "Kabu (Full Art)", "set": "Darkness Ablaze, no. 186/189", "note": "Full Art Rare Ultra alternate-rarity print of the same Supporter, illustrated by Hitoshi Ariga in the same set as the original Supporter print."},
+    {"name": "Kabu (Rainbow Rare)", "set": "Champion's Path, no. 77/73", "note": "Rainbow Rare Secret variant of this exact Champion's Path Supporter, Hitoshi Ariga — the chase pull from this set's Kabu print."},
+    {"name": "Kabu (Trainer Gallery)", "set": "Lost Origin Trainer Gallery, no. TG26", "note": "Later Trainer Gallery reprint by Hideki Ishikawa (2022-09-09) — the third distinct artist treatment of the same character on the same Supporter effect."},
+    {"name": "Centiskorch VMAX", "set": "Darkness Ablaze, no. 27/189", "note": "Kabu's signature Pokemon and the canonical first-Gigantamax demonstration in series lore; same set as the original Kabu Supporter print. Any narrative bundle leaning on Kabu's character should pair-check Centiskorch VMAX availability."},
+    {"name": "Allister", "set": "Vivid Voltage, no. 146/185", "note": "Galar Ghost-type Gym Leader (Stow-on-Side, Shield-version major-division), same 'take' artist chain; cluster mate in the galar-gym-challenge character node."},
+    {"name": "Melony", "set": "Chilling Reign, no. 146/198", "note": "Galar Ice-type Gym Leader (Circhester, Shield-version major-division), same 'take' artist chain; cluster mate in the galar-gym-challenge character node."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

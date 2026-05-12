@@ -1,0 +1,51 @@
+{
+  "card_name": "Sabotage Strategist",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "59",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "Vision pass did not flag a suspected_ip. The depicted figure is an unnamed Vedalken member of the Aether Rangers racing team (Wizards-internal Avishkar lore, no external IP risk). MTG Wiki lists Sabotage Strategist among the cards 'Depicted in' the Aether Rangers roster but does not link the figure to a named lore character. No frontmatter changes.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Set in Aetherdrift (DFT, released 2025-02-14), centered on the second annual interplanar Ghirapur Grand Prix held on Avishkar — the plane formerly called Kaladesh, renamed after its largely bloodless Indigo Revolution dismantled the Consulate and replaced it with the Avishkar Assembly. [Scryfall set page; Wizards: Planeswalker's Guide to Aetherdrift, Part 1]",
+      "sources": ["Scryfall", "Wizards: Planeswalker's Guide to Aetherdrift, Part 1"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Sabotage Strategist is listed on MTG Wiki's Aether Rangers roster under 'Depicted in,' alongside Elvish Refueler, Loxodon Surveyor, Nimble Thopterist, and Skystreak Engineer. The Aether Rangers are Avishkar's home Grand Prix team, founded by Pia Nalaar and co-led by her (Chief Engineer) and star pilot Spitfire; Wizards' official Planeswalker's Guide describes the team as 'a cross-generation, cross-class team of comrades that combine the best of pre-revolutionary Avishkar with the hope-chasing cohort of the new generation,' funded and outfitted by the Avishkar Assembly. [MTG Wiki: Aether Rangers; Wizards: Planeswalker's Guide to Aetherdrift, Part 1]",
+      "sources": ["MTG Wiki: Aether Rangers", "Wizards: Planeswalker's Guide to Aetherdrift, Part 1"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Darren Tan, a Singapore-based illustrator with extensive MTG, Star Wars, and Star Trek credits; this is one of his Aetherdrift contributions. The card prints in the 2015 frame as a non-reprint, non-promo uncommon. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Sabotage Strategist is a {2}{U}{U} 2/2 Vedalken Ranger with flying, vigilance, an attack-tax trigger (-1/-0 to all attackers each turn), and Exhaust — {5}{U}{U}: put three +1/+1 counters on this creature. Exhaust is Aetherdrift's signature once-per-game activated-ability mechanic — designed to evoke a one-time nitro burst on a racing vehicle but written generically so Wizards can reuse it in non-racing sets. The Ranger creature type ties the card directly to the Aether Rangers team identity. [Scryfall oracle_text; Wizards: Aetherdrift Mechanics]",
+      "sources": ["Scryfall", "Wizards: Aetherdrift Mechanics"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Limited sentiment: Draftsim's Aetherdrift Limited Set Review describes Sabotage Strategist as a card that 'slowly pecks away at your opponent, while nerfing their attacks and eventually becoming a legitimate wincon later on' — positioned as a defensive blue uncommon that scales into a real threat via exhaust. EDHREC rank 24,334 with ~549 decks tracked indicates very low Commander adoption — niche supporting-cast card, not a staple. [Draftsim: Ultimate Aetherdrift Limited Set Review; Scryfall edhrec_rank; EDHREC search snippet]",
+      "sources": ["Draftsim: Ultimate Aetherdrift Limited Set Review", "Scryfall", "EDHREC (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Skystreak Engineer", "set": "Aetherdrift", "note": "Fellow Aether Rangers supporting-cast card depicted on the team roster (Garima, the engineer test-piloting her own design). [MTG Wiki: Aether Rangers (Depicted in)]"},
+    {"name": "Elvish Refueler", "set": "Aetherdrift", "note": "Aether Rangers supporting-cast common, also on the Depicted-in roster. [MTG Wiki: Aether Rangers (Depicted in)]"},
+    {"name": "Loxodon Surveyor", "set": "Aetherdrift", "note": "Aether Rangers supporting-cast card depicted in the team roster. [MTG Wiki: Aether Rangers (Depicted in)]"},
+    {"name": "Nimble Thopterist", "set": "Aetherdrift", "note": "Aether Rangers supporting-cast common depicted in the team roster. [MTG Wiki: Aether Rangers (Depicted in)]"},
+    {"name": "Pia Nalaar, Chief Mechanic", "set": "Aetherdrift", "note": "Aether Rangers co-leader and Chief Engineer; the team's anchor legend. [MTG Wiki: Aether Rangers]"},
+    {"name": "Sita Varma, Masked Racer", "set": "Aetherdrift", "note": "Aether Rangers star pilot 'Spitfire'; the other co-leader. [MTG Wiki: Aether Rangers]"},
+    {"name": "Rangers' Aetherhive", "set": "Aetherdrift", "note": "Aether Rangers associated team-named card. [MTG Wiki: Aether Rangers]"},
+    {"name": "Rangers' Refueler", "set": "Aetherdrift", "note": "Aether Rangers associated team-named card. [MTG Wiki: Aether Rangers]"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

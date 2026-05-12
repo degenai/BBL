@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/pokemon/burning-shadows/57-147-whirlipede.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-08
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://images.pokemontcg.io/sm3/57_hires.png
 art_match_confidence: high
 needs_manual_review: false

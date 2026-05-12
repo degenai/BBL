@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/187-golden-tail-trainer.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-11
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/2/7/27d42bd9-0307-42ec-a4cd-b39b69b607d0.png?1717012714
 art_match_confidence: high
 needs_manual_review: false

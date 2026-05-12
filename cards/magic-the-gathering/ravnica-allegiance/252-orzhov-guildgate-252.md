@@ -10,14 +10,16 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+symbols: ["orzhov-signet"]
+characters: ["orzhov-syndicate"]
 tags_hub: ["cathedral", "gothic", "spire", "city", "wealth", "gold", "twilight", "architecture", "monument", "gate", "rooftops", "skyline"]
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "guildgate", "white-magic-black-magic", "establishing-shot"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/252-orzhov-guildgate-252.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-07
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,4 +53,9 @@ A vast gothic cathedral dominates the frame, built of pale ivory stone with a so
 **Objects:** cathedral, spire, arched-windows, rooftops, iron-filigree, gilded-trim
 **Iconography:** gothic-arch, rose-window, spire, gold-leaf, guildgate
 **Genre cues:** fantasy, gothic
+
+## Connections
+
+- [[orzhov-signet]] — architectural form of the eclipsed-sun signet. The large gold-and-iron four-pronged sun mounted as a rose window above the central arch is the same iconographic device the guild's clerics sit against (Pitiless Pontiff, Tithe Drinker) and wear at the throat (Orzhov Locket); on the guildgate the syndicate stamps the signet onto its own real-estate. The institution wears its mark at architectural scale. [MTG Wiki: Orzhov Syndicate — guild iconography], [cards/_symbols/orzhov-signet.md]
+- [[orzhov-syndicate]] — guild whose front door this is. The Ravnican Guildgates cycle (one per guild, Ravnica Allegiance prints the white-black guilds' gates) is Wizards' canonical architectural anchor for each faction; this is the Orzhov entry. The flavor speaker is *Kaya*, the planeswalker Bolas installed as Orzhov guildmaster during *War of the Spark*, and her line ("So much wealth. So much splendor. So much temptation to believe the gilded lie.") is the guild critique from the inside of the guildmaster's office. [Scryfall: Orzhov Guildgate (252) flavor text], [MTG Wiki: Kaya — Orzhov Usurper arc], [cards/_characters/orzhov-syndicate.md]
 

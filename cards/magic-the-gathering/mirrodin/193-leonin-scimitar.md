@@ -15,9 +15,9 @@ tags_filter: ["no-figure", "object-portrait", "close-up", "void-background", "ar
 reference_image: cards/_images/magic-the-gathering/mirrodin/193-leonin-scimitar.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-07
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/8/a/8abf4bbe-5b1c-4f6f-be32-5f61c66e1830.png?1562150085
 art_match_confidence: high
 needs_manual_review: false

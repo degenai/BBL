@@ -1,0 +1,177 @@
+{
+  "edge_id": "aetherdrift-named-pilot-scan--refusal",
+  "shape": "refusal",
+  "topology": null,
+  "category": "named-character-identity (attempted, not found in corpus)",
+  "scope": "Aetherdrift named-pilot-character scan across the 11-enriched-card cluster anchored on the existing endriders character node.",
+  "endpoints_considered": [
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/112-adrenaline-jockey.md", "name": "Adrenaline Jockey (DFT-112)"},
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/161-elvish-refueler.md", "name": "Elvish Refueler (DFT-161)"},
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/125-endrider-spikespitter.md", "name": "Endrider Spikespitter (DFT-125)"},
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/126-fuel-the-flames.md", "name": "Fuel the Flames (DFT-126)"},
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/122-dracosaur-auxiliary.md", "name": "Dracosaur Auxiliary (DFT-122)"},
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/139-outpace-oblivion.md", "name": "Outpace Oblivion (DFT-139)"},
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/140-pacesetter-paragon.md", "name": "Pacesetter Paragon (DFT-140)"},
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/59-sabotage-strategist.md", "name": "Sabotage Strategist (DFT-59)"},
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/61-skystreak-engineer.md", "name": "Skystreak Engineer (DFT-61)"},
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/69-trade-the-helm.md", "name": "Trade the Helm (DFT-69)"},
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/251-bloodfell-caves.md", "name": "Bloodfell Caves (DFT-251)"},
+    {"type": "character-node", "path": "cards/_characters/endriders.md", "name": "Endriders (existing faction-collective character node)"}
+  ],
+  "named_pilots_searched": [
+    {
+      "name": "Pia Nalaar, Chief Mechanic",
+      "set_per_corpus_trivia": "Aetherdrift Commander (DRC-2)",
+      "corpus_status": "ABSENT. The entire DRC set is absent from cards/magic-the-gathering/ — verified via directory listing. Pia is referenced as background lore in 2 enriched cards' trivia (Adrenaline Jockey 'set follows Chandra Nalaar trying to win the Aetherspark for Nissa' is mother/daughter framing only; Elvish Refueler explicitly names Pia as Aether Rangers co-lead alongside pilot Spitfire). Zero cards depict her.",
+      "verdict": "No node-creation possible. A pia-nalaar character node would have zero appears_on entries — Dark Nodesley EX would dissolve it on sight as empty-dependency dead weight."
+    },
+    {
+      "name": "Far Fortune, End Boss",
+      "set_per_corpus_trivia": "Aetherdrift (DFT) main set; Endriders team captain / legendary face",
+      "corpus_status": "ABSENT. Referenced in Endrider Spikespitter's Related cards list AND in the endriders character node's Caveats section ('Far Fortune, End Boss is the team captain card and the legendary face of the Endriders. Not currently in our corpus; flagged in Endrider Spikespitter's Related cards.'). Zero cards in corpus depict her.",
+      "verdict": "No node-creation possible. The endriders.md caveat already explicitly anticipates her future arrival ('When it lands, it edges here directly') — that anticipation IS the correct graph posture until the card is acquired."
+    },
+    {
+      "name": "Rido, Endrider",
+      "set_per_corpus_trivia": "Flavor-text speaker on Fuel the Flames (DFT-126)",
+      "corpus_status": "NEVER PRINTED. The endriders.md caveat is explicit: 'Rido, Endrider is a named individual referenced in Fuel the Flames's flavor text but not (yet) a printed card.' Scryfall confirms no card named Rido exists in MTG.",
+      "verdict": "Cannot node a character who has no printed card AND no other depicted appearance in inventory. Rido is a flavor-attribution name only."
+    },
+    {
+      "name": "Garima",
+      "set_per_corpus_trivia": "Flavor-text speaker on Skystreak Engineer (DFT-61): 'Garima was delighted to finally test out her design. The amazing views were a bonus.'",
+      "corpus_status": "NEVER PRINTED. Garima is the in-frame engineer-pilot of Skystreak Engineer but the card is non-legendary supporting cast, not a legendary card bearing her name. No standalone Garima card exists.",
+      "verdict": "Same as Rido — flavor-text-named non-legendary subject. Cannot anchor a character node when the only card she appears on is itself an unnamed-supporting-cast common."
+    },
+    {
+      "name": "Spitfire",
+      "set_per_corpus_trivia": "Elvish Refueler trivia: 'The Aether Rangers, the Avishkar/Kaladesh home team co-led by Pia Nalaar (Chief Engineer) and pilot Spitfire'",
+      "corpus_status": "ABSENT from corpus. Likely a DRC or Aetherdrift legendary printing; not in inventory.",
+      "verdict": "Co-lead of the Aether Rangers per trivia; not a card in our corpus. Same disposition as Pia."
+    }
+  ],
+  "aether_rangers_faction_node_evaluation": {
+    "considered": true,
+    "structural_appeal": "Parallel to the existing endriders character node — both are Wizards-canonical Grand Prix racing teams; endriders is the black-red Gastal team, Aether Rangers would be the home-team (Avishkar / Kaladesh). The graph would benefit aesthetically from a faction-parallel sibling.",
+    "rejection_basis": "Insufficient verified-member cards in the enriched Aetherdrift cluster.",
+    "member_audit": [
+      {
+        "card": "Elvish Refueler (DFT-161)",
+        "verification_status": "PLAUSIBLE but UNCONFIRMED",
+        "evidence_for": "Trivia explicitly names the Aether Rangers in its 'Set context' bullet ('include elves on their roster') as the lore frame for non-legendary green pit-crew figures. Card depicts an elf with goggles + fuel-nozzle + pit-lane filigree.",
+        "evidence_against": "Trivia is careful: the framing is 'the lore frame for non-legendary green pit-crew figures' — generic, not 'this card is canonically an Aether Ranger.' Wizards art briefs would have to confirm; bbl-researcher's trivia pass did not assert membership."
+      },
+      {
+        "card": "Sabotage Strategist (DFT-59)",
+        "verification_status": "UNCONFIRMED",
+        "evidence_for": "Vedalken mechanic-saboteur in racing harness; vedalken are Kaladesh natives and the Aether Rangers represent the Kaladesh/Avishkar home team.",
+        "evidence_against": "No trivia pass yet — card has Vision only. The 'saboteur' vision read suggests hostility TO another team rather than service ON the home team. Could equally be a saboteur planted by a rival team (Goblin Hellraisers / Howl Squad / Slime Fans). Anti-confab discipline: cannot infer faction from race + role."
+      },
+      {
+        "card": "Skystreak Engineer (DFT-61)",
+        "verification_status": "PLAUSIBLE but UNCONFIRMED",
+        "evidence_for": "Vision read: woman pilot on streamlined aircraft, scarf-and-hair-in-wind, confident-pilot register; the flavor text names 'Garima' which is Indian/Avishkar-coded naming. Avishkar is the Aether Rangers' home plane.",
+        "evidence_against": "No trivia pass — Vision only. Plane-coding via a single Indian name is suggestive not confirmatory. Could be a Khans-tier / unaffiliated independent pilot."
+      },
+      {
+        "card": "Pacesetter Paragon (DFT-140)",
+        "verification_status": "UNCONFIRMED",
+        "evidence_for": "Generic racer; no faction visual cues.",
+        "evidence_against": "tags_filter explicitly has 'no-named-character.' No flavor text, no trivia pass. Could be any of the ten teams."
+      },
+      {
+        "card": "Outpace Oblivion (DFT-139)",
+        "verification_status": "UNCONFIRMED",
+        "evidence_for": "Red-haired racer escaping fireball; no team identifier.",
+        "evidence_against": "No trivia, no flavor text speaker. Visual signal alone (red-haired racer) maps to multiple possible teams. Anti-confab discipline applies."
+      },
+      {
+        "card": "Adrenaline Jockey (DFT-112)",
+        "verification_status": "EXCLUDED — likely different team",
+        "evidence_against": "Minotaur driver. Trivia is explicit that Pia Nalaar is the Aether Rangers' Chief Mechanic and the team includes 'humans, vedalken, dwarves, loxodons, and merfolk' (and elves per the Elvish Refueler trivia) — minotaurs are not mentioned. Minotaurs in MTG are most commonly Amonkhet-coded; the Khenra Cohort or another team is the more likely affiliation."
+      }
+    ],
+    "verdict": "Of 6 candidate cards, only 1 (Elvish Refueler) is plausibly-Aether-Rangers per its own trivia, and that hedged. Building a faction node on 1 hedged-plausible card + 4 unconfirmed + 1 excluded violates anti-confab (specifically the 'no faction-from-archetype' rule, which is the Aetherdrift-cluster cognate of the no-role-identity-conflation memory note). The Aether Rangers faction node is the right move EVENTUALLY but not in this pass. It needs either (a) a confirmed Aether Rangers card landing in the corpus (Pia Nalaar in DRC, Spitfire if printed, a Watcher of the Aether Rangers type card with explicit faction text) or (b) a bbl-triviabot pass on the remaining DFT cards that explicitly resolves their faction affiliations via art-brief evidence."
+  },
+  "card_to_card_1_to_1_evaluation": {
+    "candidate": "Endrider Spikespitter (DFT-125) <-> Fuel the Flames (DFT-126)",
+    "shared_attributes": [
+      "Both already point to the existing endriders character node via characters: [\"endriders\"] frontmatter",
+      "Sequential collector numbers (125 / 126) — designer-stated print-run adjacency, both in the Endriders faction-slot in DFT's red section",
+      "Both depict the SAME visual idiom: armored vehicle + Endrider crew + projectile weapon firing through a wasteland battlefield",
+      "Both red, both uncommon, both DFT-DFT (no cross-set bridge)",
+      "Fuel the Flames flavor names 'Rido, Endrider'; Endrider Spikespitter's name IS the faction"
+    ],
+    "why_rejected": "Subsumed by the existing endriders character node. Per spec: 'the edge you could write between two of the cards would be made meaningless or redundant by the future addition of the missing node (i.e. you'd be writing duplicate edges all pointing at an absent center).' In this case the center is NOT absent — it exists as cards/_characters/endriders.md, and both cards already attach to it via frontmatter. A 1:1 card-to-card edge between them on top of the hub-membership would be redundant restatement. The endriders node body section 'Cards in our corpus pointing here (current)' already names both cards explicitly with the visual / mechanical / flavor context that would otherwise go in a Connections bullet. Drawing the 1:1 edge anyway would create the exact graph-quality regression Dark Nodesley EX is designed to dissolve (i.e. a future enlightened-Edgelord pass would remove it). Refusing to draw it now is the structurally honest move.",
+    "edgelord_voice_note": "I considered it. Two adjacent collector numbers. Same faction. Same visual idiom. Tempting. But the endriders character node is doing the cohesion work already and is doing it better than a card-to-card mirror could. To draw the 1:1 anyway would be to add an edge that the next enlightened pass would remove. I will not bait my own future pruning. The shape here is a stack (multiple cards converging on a single anchor), not a mirror, and the stack is already drawn. The graph is fine."
+  },
+  "description": "Refusing this pass cleanly. None of the four named-pilot-character candidates (Pia Nalaar, Far Fortune, Rido, Garima) have cards in our corpus to anchor a character node. The Aether Rangers faction node is structurally appealing as a parallel sibling to endriders but only 1 of 6 candidate cards (Elvish Refueler) is plausibly-affiliated per its own trivia, and even that is hedged; building the node on archetype-inference would violate anti-confab. The strongest card-to-card 1:1 (Endrider Spikespitter <-> Fuel the Flames) is subsumed by the existing endriders character node, which both cards already attach to via frontmatter pointers — drawing the redundant edge would invite future enlightened-Edgelord pruning. Hold the Aetherdrift cluster at endriders-only and surface three queued moves below for when the corpus expands.",
+  "citations": [
+    "[cards/_characters/endriders.md — Caveats section, explicit anticipation of Far Fortune and Rido's status]",
+    "[cards/magic-the-gathering/aetherdrift/161-elvish-refueler.md — Trivia bullet 'Set context' explicitly identifies Pia Nalaar as Chief Mechanic of the Aether Rangers, the Avishkar home team; explicitly cites DRC-2 as her card]",
+    "[cards/magic-the-gathering/aetherdrift/112-adrenaline-jockey.md — Trivia 'Set context' frames the set as Chandra Nalaar trying to win the Aetherspark, contextualizing Pia as Chandra's mother per established lore]",
+    "[cards/magic-the-gathering/aetherdrift/126-fuel-the-flames.md — Frontmatter flavor_text 'Our world died, but we survived. Funny how it's the opposite for you. —Rido, Endrider']",
+    "[cards/magic-the-gathering/aetherdrift/61-skystreak-engineer.md — Frontmatter flavor_text 'Garima was delighted to finally test out her design.']",
+    "[Glob audit: cards/magic-the-gathering/ directory listing — no aetherdrift-commander / DRC / Aetherdrift Commander set present]",
+    "[Grep audit: 'Pia Nalaar' returns 1 file (161-elvish-refueler.md trivia); 'Far Fortune' returns 2 files (125 + endriders node); 'Rido' returns 2 files (126 + endriders node); 'Aether Rangers' returns 2 files (161 + 266 thornwood-falls); 'Chief Mechanic' returns 1 file (161)]",
+    "[MTG Wiki: Aether Rangers — faction page, co-leadership of Pia Nalaar and pilot Spitfire, roster includes humans, vedalken, dwarves, loxodons, merfolk, elves — confirmation that minotaurs (Adrenaline Jockey) are NOT in the Aether Rangers roster per established lore]",
+    "[MTG Wiki: Pia Nalaar — character page; her Aetherdrift Commander DRC-2 printing as the deck face for the precon]"
+  ],
+  "files_modified": [],
+  "edgelord_mood": "refused-cleanly",
+  "voice_note": "Edgelord voice, not Mr. Nodeley voice. I was not asked to propose a node; I was asked to find the strongest move and I found that the strongest move is no move. Mr. Nodeley does not transform when there are no eligible-node-candidates to propose. Dark Nodesley EX does not transform when there are no nodes to dissolve. This is a clean Edgelord refusal. The pass returns honest empty-handed: I scanned, I verified, I found nothing worth writing today. The endriders node is doing its job and the next move belongs to the corpus, not to me.",
+  "other_candidates_considered": [
+    {
+      "candidate": "Mr. Nodeley transformation: propose pia-nalaar character node anchored on the two trivia references (Adrenaline Jockey + Elvish Refueler)",
+      "topology_if_built": "branch (1 character -> 2 cards, only as background-lore-reference)",
+      "why_skipped": "Both cards reference Pia in TRIVIA, neither DEPICTS her. Per the orzhov-syndicate precedent's caveat structure, a character node anchors cards that depict the character or center the character as narrative subject. Pia is off-frame in both candidate cards. Building the node would create a structurally hollow appears_on array. The endriders node by analogy includes only cards that depict the Endriders in art — it does NOT include cards whose trivia merely mentions the Endriders. Same standard applies to Pia. Wait for her DRC-2 card to land in inventory."
+    },
+    {
+      "candidate": "Mr. Nodeley transformation: propose far-fortune character node anchored on the related-cards mentions",
+      "topology_if_built": "isolated node (0 dependents)",
+      "why_skipped": "Far Fortune is referenced as a Related-cards bullet on Endrider Spikespitter AND as a Caveats line on endriders.md — but no card in our corpus depicts her. A character node with zero appears_on entries is a Dark Nodesley EX dissolution candidate the moment it's born. The endriders.md caveat ('When it lands, it edges here directly') is the structurally correct posture: anticipate, don't preempt."
+    },
+    {
+      "candidate": "Mr. Nodeley transformation: propose aether-rangers faction-collective character node parallel to endriders",
+      "topology_if_built": "branch (1 faction -> ~1 confirmed + ~3-4 plausible-but-unconfirmed cards)",
+      "why_skipped": "Only Elvish Refueler is plausibly-Aether-Rangers per its own trivia, and the trivia is explicit that the 'elves on the roster' framing is the LORE-FRAME for non-legendary green pit-crew, not a per-card faction-membership assertion. Sabotage Strategist, Skystreak Engineer, Outpace Oblivion, Pacesetter Paragon are unconfirmed (some not trivia-passed yet); Adrenaline Jockey is excluded (minotaur, not in Aether Rangers roster per established lore). 1 hedged-plausible member + several unconfirmed = below threshold. Anti-confab rule (no faction-from-archetype, cognate to the no-role-identity-conflation memory note) applies. CORRECT MOVE FOR A FUTURE PASS: commission this node ONLY AFTER (a) Pia Nalaar or another explicitly-Aether-Rangers card lands in corpus, OR (b) bbl-triviabot does an art-brief-evidenced faction-affiliation pass on the remaining DFT cards."
+    },
+    {
+      "candidate": "Edgelord 1:1: Endrider Spikespitter <-> Fuel the Flames",
+      "topology_if_built": "mirror (between two cards already attached to a shared character node)",
+      "why_skipped": "Subsumed by the existing endriders character node. The cohesion work is done by the node, not by a card-to-card mirror. Drawing the edge anyway would create exactly the kind of redundant-edge-pointing-at-an-existing-center that enlightened-Edgelord prunes. The current shape is a STACK (Endrider Spikespitter + Fuel the Flames + Bloodfell Caves all converging on endriders), and the stack is the correct topology for this cluster. A mirror on top of the stack is regression."
+    },
+    {
+      "candidate": "Edgelord 1:1: Elvish Refueler <-> Skystreak Engineer (Aether-Rangers-coded supporting-cast pair)",
+      "topology_if_built": "mirror (between two Avishkar-coded non-legendary labor/pilot figures)",
+      "why_skipped": "Both PLAUSIBLY Aether Rangers per their trivia/flavor framing, but neither is confirmed and the connection would rest on the same archetype-inference that disqualified the faction node above. Edgelord refuses to draw an edge on the same evidence Mr. Nodeley refused to build a node on. Consistency."
+    },
+    {
+      "candidate": "Edgelord 1:1: Adrenaline Jockey <-> Pacesetter Paragon (cited as EDHREC co-inclusion in Adrenaline Jockey's trivia)",
+      "topology_if_built": "mirror (between two cards co-included in EDHREC stats)",
+      "why_skipped": "EDHREC co-inclusion is a META-level signal (what builders pair together), not a NARRATIVE/CANONICAL connection. Per spec: 'Same color identity — that's filter-tier. Same rarity, same set without thematic glue, same release year — meta-trivia, not narrative connection.' EDHREC-co-inclusion is in the same disqualified category as 'same set without thematic glue.' Refuse."
+    },
+    {
+      "candidate": "DARK NODESLEY EX: dissolve the endriders node now that its 3-card cluster is thin",
+      "topology_if_built": "n/a (dissolution proposal)",
+      "why_skipped": "Strongly rejected. The endriders node has 3 corpus cards (Spikespitter, Fuel the Flames, Bloodfell Caves) with explicit attestation in its body's 'Cards in our corpus pointing here' section. It has documented canonical sources (MTG Wiki Endriders, Wizards Planeswalker's Guide to Aetherdrift Part 1+2, Wargamer coverage). It anchors a future bundle on apocalypse-punk vehicular-labor register. Not dead weight; not subsumed; not inaccurate; not a Nodeley overreach. Dissolution would be a graph-quality regression. Refused."
+    }
+  ],
+  "future_passes_unlocked": [
+    "When Pia Nalaar, Chief Mechanic (DRC-2) is acquired and added to corpus: commission a pia-nalaar character node OR (preferred) commission an aether-rangers faction-collective character node parallel to endriders, with Pia as the foreground-named legendary member and Elvish Refueler / any other confirmed Avishkar supporting-cast as the appears_on roster. The Aether Rangers node would be the structurally-elegant move because it mirrors the endriders precedent at the faction tier.",
+    "When Far Fortune, End Boss is acquired and added to corpus: she edges directly to the existing endriders node via characters: [\"endriders\"] frontmatter pointer (the endriders.md caveat already anticipates this). No new node needed.",
+    "When bbl-triviabot does an art-brief-evidenced faction-affiliation pass on the remaining DFT cards (Sabotage Strategist, Skystreak Engineer, Outpace Oblivion, Pacesetter Paragon, Adrenaline Jockey, Dracosaur Auxiliary, Trade the Helm): the per-card faction verdicts will unlock either (a) the aether-rangers node if 2-3 confirmed members emerge, or (b) one or more rival-team nodes (Goblin Hellraisers, Howl Squad, Slime Fans, Dynasty of the Endless, Spy Kids, Saurid Autocracy team, etc.) if the cards spread across multiple teams. Either outcome is a Mr. Nodeley pass waiting on the trivia layer.",
+    "Future bbl-bundler pass on a Discrete Lair anchored on the endriders node: the three-card cluster (Spikespitter + Fuel the Flames + Bloodfell Caves) is bundle-cohesion-ready as-is. Add a fourth card (when Far Fortune lands, or any Gastal-plane card depicting Endrider activity) and the apocalypse-punk/racing-as-worship bundle has its anchor.",
+    "Future Mr. Nodeley pass: a gastal place-level node (parallel to a future muraganda or amonkhet place node) would anchor Bloodfell Caves AND any future Gastal-set cards regardless of Endrider affiliation. Currently below threshold (only Bloodfell Caves is explicitly Gastal in our corpus) but worth tracking as the corpus expands."
+  ],
+  "wikilintbot_compatibility": {
+    "no_files_modified": "Zero MDs touched in this pass. Wikilintbot impact: none.",
+    "no_new_nodes_created": "Zero new MDs created. No frontmatter type field to validate.",
+    "no_orphan_creation_risk": "Refusal is the operation; nothing emitted into the graph."
+  },
+  "voice_separation_audit": {
+    "edgelord_voice_confined_to": ["description field of this JSON sidecar", "card_to_card_1_to_1_evaluation.edgelord_voice_note field", "voice_note field", "final report text back to caller"],
+    "md_body_register": "no MD bodies were modified in this pass; voice-contamination risk is zero",
+    "frontmatter_register": "no frontmatter was modified in this pass; voice-contamination risk is zero"
+  }
+}

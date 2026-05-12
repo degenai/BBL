@@ -16,9 +16,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "centered", "no-face", "ench
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/26-prison-realm.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-05
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/d/4/d476e8e5-2377-464b-b2d5-a3cd66ee2e45.png?1615326957
 art_match_confidence: high
 needs_manual_review: false
@@ -75,4 +75,9 @@ A horned, draconic humanoid figure with sweeping curved horns and dark wings is 
 - The Elderspell (War of the Spark) — Bolas's planeswalker-harvest macguffin; the apparatus Prison Realm's containment is the consequence of.
 - Ugin, the Ineffable (War of the Spark) — Bolas's twin and his eventual jailer; per MTG Wiki, Ugin expanded himself over the Meditation Realm to make it the prison depicted here.
 - Nicol Bolas, Dragon-God (War of the Spark) — Bolas at the height of his Elderspell-fueled apotheosis; the inverse pole of Prison Realm's depiction of his defeat.
+
+## Connections
+
+- [[190-despark]] — Sequential story-spotlight beats in WAR's Bolas-Falls narrative chain. Despark is the Act 3 turning beat (Liliana, freed from Bolas's contract, commands the corrupted God-Eternals Oketra and Bontu against him) and Prison Realm is the Act 3 coda (Bolas, his spark consumed, contained for eternity in the renamed Meditation Plane under Ugin's expansion). Both are designer-tagged Story Spotlight uncommons whose flavor text names Bolas directly; together with Topple the Statue they form the three-beat narrative arc of his defeat. `[Scryfall: story_spotlight: true on both]` `[MTG Wiki: War of the Spark Story Spotlights]` `[MTG Wiki: Meditation Plane]`
+- [[35-topple-the-statue]] — Opening and closing beats of WAR's Bolas-Falls story-spotlight arc. Topple is the Act 2 spotlight (Nissa's Vitu-Ghazi fells Bolas's Ravnican statue; flavor text frames him as dismissing the morale rally) and Prison Realm is the Act 3 coda (Bolas himself contained for eternity in the renamed Meditation Plane under Ugin's expansion; flavor text bookends millennia of scheming with eternity of defeat). Both are designer-tagged Story Spotlight uncommons whose flavor text names Bolas directly; together with Despark they triangulate the three-beat narrative arc of his defeat. `[Scryfall: story_spotlight: true on both]` `[MTG Wiki: War of the Spark Story Spotlights]` `[MTG Wiki: Meditation Plane]`
 

@@ -16,9 +16,9 @@ tags_filter: ["duo", "mid-shot", "forward-facing", "action-mode", "2-figures", "
 reference_image: cards/_images/magic-the-gathering/aetherdrift/125-endrider-spikespitter.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-11
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/4/e/4e58cb18-f216-4248-8f0d-65b0263c5c28.png?1738359369
 art_match_confidence: high
 needs_manual_review: false

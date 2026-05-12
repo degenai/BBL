@@ -10,14 +10,15 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["azorius-senate"]
 tags_hub: ["locket", "jewelry", "amulet", "sigil", "law", "bureaucracy", "documents", "heraldry", "silver", "chain", "emblem"]
 tags_filter: ["no-figure", "object-focus", "close-up", "forward-facing", "centered-composition", "artifact", "colorless", "azorius-guild", "blue-magic", "white-magic", "multicolor-blue-white", "card-draw"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/231-azorius-locket.png
 average_cost_paid: 0
 market_price: 0.24
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-07
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

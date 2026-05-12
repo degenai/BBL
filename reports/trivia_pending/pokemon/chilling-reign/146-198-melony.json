@@ -1,0 +1,49 @@
+{
+  "card_name": "Melony",
+  "game": "Pokemon",
+  "set": "Chilling Reign",
+  "collector_number": "146/198",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card metadata (PokemonTCG.io: name 'Melony', set Chilling Reign SWSH6, Supporter Trainer card) plus illustrator credit to 'take' (the official character designer for Pokemon Sword & Shield Gym Leaders, per Bulbapedia: List of TCG illustrators) confirms the depicted figure IS the canonical Galar Gym Leader Melony from Pokemon Sword & Shield. Pokemon-internal IP (Game Freak/Nintendo first-party character), so ip_verified flips to true but no external-IP ## IP callout block is needed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "From Sword & Shield—Chilling Reign (SWSH6, released 2021-06-18, set code CRE), the second SWSH expansion themed around the Crown Tundra DLC. The set centers on Calyrex's two formes—Ice Rider Calyrex VMAX and Shadow Rider Calyrex VMAX—plus Galarian Articuno, Zapdos, and Moltres, marketed by Pokemon.com as 'phantom hauntings, howling blizzards, and wild battles' in the land of spectral snow [PokemonTCG.io set:swsh6; pokemon.com SWSH6 set page].",
+      "sources": ["PokemonTCG.io API", "pokemon.com SWSH6 set page"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrator 'take' is the official character designer who created Melony for Pokemon Sword & Shield itself—the card art is by the same artist who designed the in-game Gym Leader, not a third-party TCG illustrator interpretation. 'take' also designed other SWSH Gym Leaders and Pokemon Legends: Arceus characters Adaman and Irida [Bulbapedia: take (illustrator), via WebSearch snippet]. Same artist credited on the parallel SWSH7 Gordie Supporter card (no. 149, Evolving Skies) [PokemonTCG.io card:swsh7-149].",
+      "sources": ["Bulbapedia: take", "PokemonTCG.io API"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Melony is the Circhester Gym Leader specializing in Ice-type Pokemon and is fightable only in Pokemon Shield—the Sword version replaces her with her son Gordie, who specializes in Rock-type instead. The Circhester slot is one of Galar's signature version-asymmetric Gym pairings [Pokemon Wiki: Melony; Bulbapedia: Circhester Stadium, via WebSearch snippet].",
+      "sources": ["Pokemon Fandom Wiki", "Bulbapedia: Circhester Stadium"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Canonical family: Gordie is Melony's son. Lore frames their estrangement—Melony wanted to step aside and pass the Gym to Gordie, but he refused to inherit her Ice specialty and switched to Rock-type; the pair fought and Circhester itself is split between their factions. Despite the feud, Melony is publicly listed as the no. 1 member of Gordie's fan club [Pokemon Fandom Wiki: Melony; TheGamer: 'Melony & Gordie's Feud In Pokemon Is A Reminder To Call Your Mother', via WebSearch snippet].",
+      "sources": ["Pokemon Fandom Wiki: Melony", "TheGamer feature article"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rules text per PokemonTCG.io: 'Attach a Water Energy card from your discard pile to 1 of your Pokemon V. If you do, draw 3 cards. You may play only 1 Supporter card during your turn.' Community-rated as a tournament staple of the SWSH era—Pojo ranked her no. 2 in the Top 15 of Chilling Reign, and Pokemon.com's official strategy article calls her the main Energy-acceleration + draw engine for Ice Rider Calyrex VMAX decks. Restriction: targets Pokemon V (and by extension VMAX) only [PokemonTCG.io card:swsh6-146; Pojo Top 15 Chilling Reign; pokemon.com 'Top Cards for the Competition'].",
+      "sources": ["PokemonTCG.io API", "Pojo.com", "pokemon.com strategy"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Melony", "set": "Chilling Reign #195 (Full Art Rare Ultra)", "note": "Same Supporter, alternate full-art treatment by Taira Akitsu in the same set—the chase version of this trainer card"},
+    {"name": "Melony", "set": "Chilling Reign #218 (Rare Rainbow)", "note": "Rainbow Rare secret variant of the same Supporter, Taira Akitsu, top-tier collector pull from the same pack"},
+    {"name": "Melony", "set": "Astral Radiance Trainer Gallery TG26", "note": "Trainer Gallery reprint with new art by nagimiso—reinforces Melony's standing as a recurring Galar Gym Leader cluster pull"},
+    {"name": "Melony", "set": "Crown Zenith Galarian Gallery GG64", "note": "Galarian Gallery reprint by saino misaki—the Crown Zenith Galar farewell set explicitly groups the Galar Gym Leaders as a cohesive cluster"},
+    {"name": "Gordie", "set": "Evolving Skies #149 (SWSH7)", "note": "Melony's canonical son and the Sword-version Circhester Gym Leader; also illustrated by 'take'; the Sword/Shield asymmetric Gym pair on cardboard"},
+    {"name": "Allister", "set": "Chilling Reign / SWSH Gym Leader cycle", "note": "Galar Ghost-type Gym Leader; part of the broader galar-gym-challenge cluster the Lair commission is gathering"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

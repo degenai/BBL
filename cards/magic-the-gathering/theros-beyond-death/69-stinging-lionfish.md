@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "portrait-mode", "three-quarter", "no-face", "
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/69-stinging-lionfish.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-05
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "female-figure", "human-figur
 reference_image: cards/_images/magic-the-gathering/core-set-2021/113-masked-blackguard.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-06
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/d/6/d61b4b71-3cbb-4422-8ce7-657ca3bb6a82.png?1594736285
 art_match_confidence: high
 needs_manual_review: false

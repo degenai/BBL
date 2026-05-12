@@ -10,14 +10,15 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["azorius-senate"]
 tags_hub: ["binding", "captivity", "imprisonment", "law", "judgment", "ritual", "horns", "demon", "robed-figure", "magic", "restraint", "arrest"]
 tags_filter: ["group", "trio", "3-figures", "mid-shot", "forward-facing", "scene-mode", "blue-magic", "white-magic", "multicolor-white-blue", "enchantment", "aura", "flash"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/190-lawmage-s-binding.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-07
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

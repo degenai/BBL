@@ -1,0 +1,52 @@
+{
+  "card_name": "Diversion Specialist",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "132",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag from vision pass; generic Duskmourn red-aligned human warrior.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmourn: House of Horror (no. DSK, released 2024-09-27) is a top-down designed expansion themed on 1970s-1990s slasher and haunted-house cinema; per head designer Mark Rosewater, the set was deliberately steered to be 'more about suspense than shock,' with enchantments chosen as the card type most expressive of horror mood [Wizards: Duskmourn Vision Design Handoff, Part 1, via WebSearch snippet; Scryfall set page].",
+      "sources": ["Scryfall", "Wizards: Duskmourn Vision Design Handoff Part 1 (via WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Diversion Specialist is a 4/3 Human Warrior for {3}{R} with Menace and a {1}, Sacrifice another creature or enchantment: exile-top-and-may-play-this-turn impulse-draw ability — Scryfall lists type_line 'Creature — Human Warrior,' so despite the slasher-flavored set, this figure is NOT one of the ten Duskmourn cards on the Human/Survivor subtype list per Gatherer [Scryfall card data; Gatherer subtype search 'Human AND Survivor', DSK, 10 results].",
+      "sources": ["Scryfall", "Gatherer subtype search (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text reads verbatim: \"Hey! Fang-faces! Over here!\" — speaker unattributed on the print, matching the art's depicted action of the warrior shouting to bait a pursuer away from a vulnerable figure off-frame [Scryfall flavor_text field].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The slasher villains of Duskmourn (the Razorkin, including Unstoppable Slasher at no. 119) are explicitly designed as homages to seemingly-unkillable horror-cinema killers like Freddy Krueger, Jason Voorhees, and Leatherface — Unstoppable Slasher returns from death with two stun counters to mechanically echo the get-up-again slasher trope [MTG Wiki / Wargamer summary of Duskmourn design; Gatherer DSK no. 119].",
+      "sources": ["MTG Wiki (via WebSearch snippet)", "Wargamer.com (via WebSearch snippet)", "Gatherer"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Tuan Duong Chu has illustrated 56 cards in the official Magic gallery per Gatherer, with at least two cards in Duskmourn (Diversion Specialist and Peer Past the Veil no. 226) plus an Art Series print (ADSK no. 13) [Gatherer artist page: Tuan Duong Chu, 56 cards; Scryfall].",
+      "sources": ["Gatherer artist page (via WebSearch snippet)", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Card carries a low secondary-market footprint — Scryfall reports edhrec_rank 22509 and a 2026-05-11 market price of $0.06 USD non-foil, consistent with a draft-chaff uncommon with no significant commander demand [Scryfall].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Unstoppable Slasher", "set": "Duskmourn: House of Horror", "note": "no. 119 — the canonical Razorkin/slasher-villain card the Diversion Specialist's flavor (final-girl distraction tactic) is reacting to; same set's thesis antagonist archetype."},
+    {"name": "Peer Past the Veil", "set": "Duskmourn: House of Horror", "note": "no. 226 — also illustrated by Tuan Duong Chu in DSK; artist-cohort link."},
+    {"name": "Horrid Vigor", "set": "Duskmourn: House of Horror", "note": "another DSK card already triviabot-pass enriched; same slasher-thesis set context."},
+    {"name": "Manifest Dread", "set": "Duskmourn: House of Horror", "note": "DSK suspense-mechanic card already in the corpus; shares the set's 'suspense over shock' design pillar."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

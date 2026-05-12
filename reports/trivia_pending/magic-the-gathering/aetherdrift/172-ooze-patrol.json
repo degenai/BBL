@@ -1,0 +1,53 @@
+{
+  "card_name": "Ooze Patrol",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "172",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag from vision pass; general trivia harvest only.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Aetherdrift (set code DFT, released 2025-02-14) is built around the Ghirapur Grand Prix, a death-defying interplanar race for the Aetherspark, an artificial planeswalker spark created by an Avishkari inventor during the New Phyrexian Invasion; the race crosses three planes — Amonkhet, Avishkar, and Muraganda [Scryfall set page; magic.wizards.com Planeswalker's Guide to Aetherdrift Part 1].",
+      "sources": ["Scryfall", "magic.wizards.com: Planeswalker's Guide to Aetherdrift Part 1"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Muraganda is the Aetherdrift leg most relevant to this card — a primordial plane teased for 17 years before its first set appearance, inhabited by dinosaurs, oozes, and other prehistoric beings, with the Grand Prix running along a specially built elevated track above the proteogenic jungles [MTG Rocks: 'MTG Plane Teased For 17 Years Confirmed As Third Aetherdrift Location'].",
+      "sources": ["mtgrocks.com: Muraganda confirmed as third Aetherdrift location"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"As it digested the demonic roadster, it too learned the thrill of speed.\" The \"demonic roadster\" reference points at the Speed Demons, the Duskmourn racing team of possessed drivers and specter-haunted vehicles led by Winter under the archdemon Valgavoth's compulsion — so the ooze in the art has eaten one of their cars off the track [Scryfall flavor_text; MTG Wiki: Speed Demons].",
+      "sources": ["Scryfall", "mtg.fandom.com: Speed Demons (via WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text: \"When this creature enters, mill two cards, then put a +1/+1 counter on this creature for each artifact and/or creature card in your graveyard.\" Draftsim's Aetherdrift Limited review notes Ooze Patrol \"can be quite large in the right deck, but if you just cast it empty, it's a Hill Giant on average, so you should try to do some trading or self-milling early before playing it\" — pairs with the set's black-green graveyard/reanimator archetype [Draftsim: Ultimate Aetherdrift Limited Set Review].",
+      "sources": ["Scryfall", "draftsim.com: Aetherdrift Limited Set Review (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Forrest Schehl, who illustrated three cards in Aetherdrift [Scryfall; mtg.wtf artist page (via WebSearch snippet)]. The card is uncommon, mana cost {3}{G}, 2/2 base body, EDHREC rank 19255 at time of writing (low Commander adoption) [Scryfall].",
+      "sources": ["Scryfall", "mtg.wtf: Forrest Schehl (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Aetherdrift was described by graveyard-archetype writers as \"secretly stacked with great graveyard support,\" with Ooze Patrol sitting alongside enablers like Molt Tender, Dredger's Insight, and Quag Feast in the green self-mill suite that feeds the BG reanimator pile [MTG Rocks: 'MTG Aetherdrift Is Secretly Stacked With Great Graveyard Support' (via WebSearch snippet)].",
+      "sources": ["mtgrocks.com: Aetherdrift graveyard support (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Terrian, World Tyrant", "set": "Aetherdrift", "note": "Legendary Dinosaur Ooze (no. 182), 9/7 for {2}{G}{G}{G}; Muraganda's signature ooze, described in flavor as having consumed entire ecosystems and keeping them suspended in its core — the apex version of the consumed-thing-inside-the-ooze visual gag Ooze Patrol does in miniature."},
+    {"name": "Mimeoplasm, Revered One", "set": "Aetherdrift", "note": "Legendary Sultai Ooze (no. 214); shares the consume-a-creature-and-take-its-power conceit; the mythic ooze of the set."},
+    {"name": "Slick Imitator", "set": "Aetherdrift", "note": "Uncommon blue ooze (no. 62) with Start Your Engines!; the other booster-common-cycle ooze that participates directly in the racing mechanic."},
+    {"name": "Molt Tender", "set": "Aetherdrift", "note": "Green uncommon self-mill enabler called out as a top Aetherdrift graveyard piece; feeds Ooze Patrol's +1/+1 counter trigger before it enters."},
+    {"name": "Quag Feast", "set": "Aetherdrift", "note": "Green self-mill removal spell; rounds out the green mill suite that turns Ooze Patrol into a payoff rather than a vanilla 2/2."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

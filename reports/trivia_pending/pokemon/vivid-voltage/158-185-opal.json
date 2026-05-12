@@ -1,0 +1,59 @@
+{
+  "card_name": "Opal",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "158/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card frame names 'Opal' and the depicted figure matches Opal's canonical character design: elderly woman in tall pointed wide-brimmed hat, layered deep-purple gown, pink-tinged hair, leaning on a curved cane, in a Ballonlea-style bauble-lit performance setting. Print art by take.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Opal is the Fairy-type Gym Leader of Ballonlea Stadium in both Pokemon Sword and Shield (not version-asymmetric). [Bulbapedia: Opal, via WebSearch snippet]",
+      "sources": ["Bulbapedia (Opal)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In game canon, Opal is 88 years old — the oldest Gym Leader in the series — and inherited Ballonlea Gym from her mother roughly 70 years prior to the game's events. [Bulbapedia: Opal, via WebSearch snippet]",
+      "sources": ["Bulbapedia (Opal)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Opal's in-game model carries the logo of HIJIKI OKA, a Galar textile company that sponsors Ballonlea Gym (and Opal's chosen successor Bede); her Japanese name 'Popura' derives from poplin fabric, consistent with the textile-sponsor branding. [Bulbapedia: Opal / List of clothing in Pokemon Sword and Shield, via WebSearch snippet]",
+      "sources": ["Bulbapedia (Opal)", "Bulbapedia (clothing brands)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Opal is nicknamed 'the wizard' in-game for her uncanny ability to predict opponents' moves; she eventually passes the Ballonlea Gym leadership to Bede. [Bulbapedia: Opal, via WebSearch snippet]",
+      "sources": ["Bulbapedia (Opal)"]
+    },
+    {
+      "category": "design",
+      "text": "Regular print art by take, matching the artist on the rest of the Vivid Voltage Galar Gym Leader Supporters (Bea no. 147, Nessa no. 157). [Bulbapedia: Opal (Vivid Voltage 158), via WebSearch snippet]",
+      "sources": ["Bulbapedia (Opal VIV 158)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text: 'Flip 2 coins. Search your deck for a number of cards up to the number of heads, put them into your hand, and shuffle your deck.' — a coin-flip tutor Supporter with variance ranging from zero to two cards. [pokemon.com TCG database]",
+      "sources": ["pokemon.com TCG database"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "No flavor text printed. [pokemon.com TCG database]",
+      "sources": ["pokemon.com TCG database"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bea", "set": "Vivid Voltage", "note": "no. 147/185 — same Galar Gym Leader Supporter cycle"},
+    {"name": "Nessa", "set": "Vivid Voltage", "note": "no. 157/185 — same Galar Gym Leader Supporter cycle"},
+    {"name": "Allister", "set": "Vivid Voltage", "note": "no. 146/185 — same Galar Gym Leader Supporter cycle"},
+    {"name": "Leon", "set": "Vivid Voltage", "note": "no. 154/185 — Galar Champion in the same Supporter cycle"},
+    {"name": "Bede", "set": "Champion's Path", "note": "Opal's chosen successor as Ballonlea Gym Leader; same HIJIKI OKA textile sponsor branding on uniform"},
+    {"name": "Milo", "set": "Rebel Clash", "note": "no. 161/192 — earlier Galar Gym Leader Supporter (Turffield, Grass-type)"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

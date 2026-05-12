@@ -1,0 +1,95 @@
+{
+  "edge_id": "jace-beleren--character-node-and-enlightened-refactor",
+  "shape": "replacement",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "mood": "enlightened-corrective",
+  "edgelord_mood": "enlightened-corrective",
+  "node_created": {
+    "layer": "characters",
+    "path": "cards/_characters/jace-beleren.md",
+    "name": "Jace Beleren",
+    "type_field": "character",
+    "frontmatter_pattern_basis": "cards/_characters/nicol-bolas.md + cards/_characters/endriders.md (mirrors the character layer's established skeleton: type / name / aliases / universe / faction / species / canonical_source / confidence / appears_on / related_hubs / related_symbols / ip_resolution_for)",
+    "appears_on_at_birth": [
+      "magic-the-gathering/war-of-the-spark/55-jace-s-triumph",
+      "magic-the-gathering/zendikar-rising/63-jace-mirror-mage"
+    ]
+  },
+  "edges_removed": [
+    {
+      "edge_id_implied": "war-55-jace-s-triumph--znr-63-jace-mirror-mage",
+      "shape_was": "1:1 mirrored",
+      "category_was": "named-character-identity",
+      "endpoints_was": [
+        {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/55-jace-s-triumph.md", "name": "Jace's Triumph (WAR-55)"},
+        {"type": "card", "path": "cards/magic-the-gathering/zendikar-rising/63-jace-mirror-mage.md", "name": "Jace, Mirror Mage (ZNR-63)"}
+      ],
+      "reason_for_removal": "Subsumed by the new character node. The 1:1 mirror was correct at N=2 trivia-passed Jace cards (this was the prior dual-pipeline pass's only available shape), but the moment a canon-grounded character node anchors both endpoints, the leaf-level card-to-card edge becomes redundant — both cards now fan through cards/_characters/jace-beleren.md, the canonical anchor. Edgelord retraction is clean: the bullet's content (same-character-identity, two acts across two sets, two artists, type-line + oracle-text linkage) is fully preserved in the node body's What this node anchors section. The section header remains for future bullets that don't fan through this node (e.g. a future WAR-55 ↔ HOU-38 Defeat-cycle mirror, which is a designer-confirmed-cycle relation distinct from same-character-identity)."
+    }
+  ],
+  "edges_added": [
+    {
+      "shape": "branch",
+      "category": "named-character-identity",
+      "endpoints": [
+        {"type": "character", "path": "cards/_characters/jace-beleren.md", "name": "Jace Beleren"},
+        {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/55-jace-s-triumph.md", "name": "Jace's Triumph (WAR-55)"}
+      ],
+      "description": "WAR-55 depicts Jace Beleren in close-up under the third-eye sigil during the Ravnica war while trapped under Bolas's Immortal Sun. Card flavor text names Bolas; oracle text uses 'a Jace planeswalker' as the upgrade condition. Linkage is type-line-and-oracle-text + Scryfall subject_known_ip + Kieran Yanner art-direction context for the WAR Triumph cycle."
+    },
+    {
+      "shape": "branch",
+      "category": "named-character-identity",
+      "endpoints": [
+        {"type": "character", "path": "cards/_characters/jace-beleren.md", "name": "Jace Beleren"},
+        {"type": "card", "path": "cards/magic-the-gathering/zendikar-rising/63-jace-mirror-mage.md", "name": "Jace, Mirror Mage (ZNR-63)"}
+      ],
+      "description": "ZNR-63 depicts Jace casting a mirror-image kicker spell during the post-WAR Zendikar arc pursuing Nahiri to the Murasa Skyclave. Linkage is the strictest possible: Legendary Planeswalker — Jace subtype on the type-line, reserved for printings of Jace Beleren; Tyler Jacobson art-direction context for the ZNR mythic 'walker."
+    }
+  ],
+  "description": "Behold. Two trivia-passed cards genuinely depict the same canonical character (Jace Beleren, type-line and oracle-text linkage on both), but a prior dual-pipeline pass at N=2 was forced to settle for a 1:1 mirror — the shape Edgelord sighs at. Now the character node exists. The 1:1 mirror is retracted (its content is fully preserved in the node body), both cards add characters: [\"jace-beleren\"] frontmatter pointers, and the topology shifts from mirror to stack (two cards converging on one canonical anchor, the shape the bundler will want when a Discrete Lair on Jace's arc is eventually authored). Enlightened-corrective: the older edge was correct at N=2 but the newer structure is better at N>=2 the moment canon-grounding becomes available. Net edge count is preserved (one removed, two added via fan); graph quality is up; redundant duplicate-edges-pointing-at-an-absent-center failure mode (the very failure mode the Mr. Nodeley spec warns about) is averted. Worth the work.",
+  "citations": [
+    "[Scryfall WAR-55: subject_known_ip Jace Beleren; ip_verified true; oracle text references 'a Jace planeswalker']",
+    "[Scryfall ZNR-63: type_line 'Legendary Planeswalker — Jace' (subtype reserved for Jace Beleren printings); subject_known_ip Jace Beleren; ip_verified true]",
+    "[MTG Wiki: Jace Beleren — biography, WAR Immortal-Sun internment, ZNR Murasa-Skyclave pursuit of Nahiri]",
+    "[MTG Wiki: War of the Spark — Triumph cycle context, bookend with HOU Defeat cycle]",
+    "[MTG Wiki: Zendikar Rising — Nahiri lithomancer arc, Lithoform Core, Murasa Skyclave]",
+    "[War of the Spark: Ravnica novel, Greg Weisman, Del Rey 2019 — canonical prose source for the Ravnica defense]",
+    "[Wizards story archive: magic.wizards.com/en/news/story]"
+  ],
+  "files_modified": [
+    "cards/_characters/jace-beleren.md (CREATED)",
+    "cards/magic-the-gathering/war-of-the-spark/55-jace-s-triumph.md (added characters: [\"jace-beleren\"] frontmatter pointer; removed the 1:1 Connections bullet pointing to ZNR-63; kept the ## Connections section header for future non-subsumed bullets)",
+    "cards/magic-the-gathering/zendikar-rising/63-jace-mirror-mage.md (added characters: [\"jace-beleren\"] frontmatter pointer; removed the 1:1 Connections bullet pointing to WAR-55; kept the ## Connections section header for future non-subsumed bullets)"
+  ],
+  "other_candidates_considered": [
+    {
+      "candidate": "Keep the 1:1 mirror AND add the character node (both edges co-exist)",
+      "why_skipped": "The dual-pipeline-judge verdict explicitly invoked the enlightened-replacement spec for this commission. The 1:1 mirror's load-bearing content (same-character-identity across two sets, two artists, type-line + oracle-text linkage) is now fully and more durably carried by the character node body. Keeping both would be the redundant-duplicate-edges-pointing-at-an-absent-center failure mode the Mr. Nodeley spec warns about. Compare the Bolas-Falls precedent's prior reasoning: the Despark↔Topple 1:1 edge was kept because its content was act-pairing-specific (Act 2 spotlight + Act 3 spotlight, designer-tagged), distinct from the character-identity anchor. The Jace WAR-55↔ZNR-63 1:1 has no such distinct content — its load-bearing claim is *same character*, which is exactly what the node now carries. Drop it cleanly."
+    },
+    {
+      "candidate": "Future Triumph-cycle character/event node (Gideon WAR-15 + Jace WAR-55 + Liliana WAR-98 + Chandra WAR-121 + Nissa WAR-170)",
+      "why_skipped": "Out of scope for this commission. Only Jace's Triumph is trivia-passed in the current wave. The five-card Kieran Yanner Triumph cycle bookended against the HOU Defeat cycle is a strong future Nodeley node-proposal once 3+ Triumph cards are trivia-passed. Flagged for a future pass."
+    },
+    {
+      "candidate": "Future character-to-character edge: Jace Beleren <-> Nicol Bolas (antagonist-of-the-act relation across WAR arc)",
+      "why_skipped": "The character-to-character edge category is not yet formalized in the edgelord spec (the spec covers card-to-card, card-to-hub, card-to-symbol, card-to-artist). Defer until the spec adds a character-to-character category, or until a Discrete Lair on the WAR arc is being authored and needs the cohesion data. The relation is real, canon-grounded (Bolas's Immortal Sun is the apparatus that traps Jace on Ravnica per Greg Weisman's novel), and indexed in the See also section of both character nodes."
+    },
+    {
+      "candidate": "Future character-to-character edge: Jace Beleren <-> Nahiri (antagonist-of-the-act relation across ZNR arc)",
+      "why_skipped": "Same reason as the Bolas relation above. Real, canon-grounded, deferred pending category formalization."
+    },
+    {
+      "candidate": "Future character-to-character edge: Jace Beleren <-> Nissa Revane (partner-of-the-act relation across ZNR arc)",
+      "why_skipped": "Same reason. Real, canon-grounded, deferred pending category formalization. Nissa recruits Jace from Ravnica in the ZNR opening; she is the Singing City actor whose Vitu-Ghazi cousin destroyed the Lithoform Core focal point."
+    }
+  ],
+  "future_passes_unlocked": [
+    "Future Jace-depicting cards (every printing carrying the `— Jace` planeswalker subtype, plus name-prefixed spells like Jace's Defeat HOU-38, Jace's Mindseeker, Jace's Ingenuity, Jace's Sanctum, plus the Magic Origins Jace flashback printings) attach to this node directly without N²/2 mirror edges — exactly the future-pass-cost reduction the Bolas node was created for.",
+    "When the Triumph cycle's other four cards are trivia-passed (Gideon WAR-15, Liliana WAR-98, Chandra WAR-121, Nissa WAR-170), Jace's Triumph will be a member of a designer-confirmed-cycle node anchoring all five — distinct from this character node (cycle membership is a flavor-cycle relation, not a character-identity relation), with WAR-55 legitimately co-occupying both anchors.",
+    "When a Nahiri character node lands, ZNR-63 picks up an antagonist-of-the-act edge to Nahiri alongside this same-character-identity edge — character nodes legitimately co-occupy a card (cf. Despark carries both Bolas anchor and the would-be future Liliana anchor as agent-of-defeat per the nicol-bolas.md caveat).",
+    "When a Nissa character node lands, ZNR-63 picks up a partner-of-the-act edge to Nissa alongside this same-character-identity edge.",
+    "The two cards now converge on one canonical anchor = stack topology. When the corpus accumulates 3+ Jace printings, a Discrete Lair on the Jace arc (Ravnica-trapped Triumph + Zendikar Mirror Mage + future printings) becomes authorable, with the why_it_fits prose anchored to this node's What this node anchors section."
+  ]
+}

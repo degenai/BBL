@@ -1,0 +1,55 @@
+{
+  "card_name": "Slick Imitator",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "62",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "Vision pass did not flag a suspected_ip. The depicted figure is a generic ooze impersonating an unnamed hammerhead Chordatan (Aetherdrift's official term for humanoid sharks); Wizards-internal worldbuilding, no external IP risk. No frontmatter changes.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Aetherdrift (DFT) is the 103rd MTG expansion, released 2025-02-14, themed as the Ghirapur Grand Prix — a multiplanar race across Avishkar (post-revolution Kaladesh), Amonkhet, and Muraganda — built around new keywords Start your engines!, Max speed, and Exhaust. The set's ten Limited archetypes are coded to ten in-fiction racing teams; the shark-folk pictured here race for The Chordatan Keelhaulers (UR), an interplanar shark-pirate crew sponsored by Kari Zev and captained by Captain Howler, Sea Scourge. [MTG Wiki: Aetherdrift; mtgrocks.com / butwhytho.net team writeups]",
+      "sources": ["MTG Wiki: Aetherdrift", "mtgrocks.com: MTG Aetherdrift Shark Pirate is the Ultimate Discard Payoff", "butwhytho.net: Aetherdrift's Grand Prix Teams"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Aetherdrift gives an official name to MTG's previously unnamed humanoid-shark race: Chordatans, per the Planeswalker's Guide. Chordatans are described as endemic to Avishkar's coastal regions, arriving via an instanced Omenpath, with a strong affinity for aether (which they use as fuel for their aethercycles); the vision pass describes the imitated figure as a hammerhead-shark-headed humanoid, and Wizards' guide explicitly notes hammerhead variants among the new race. [Commander's Herald: Maro's Aetherdrift Teaser Confirms New Creature Type; mtgrocks.com: Aetherdrift Gives Official Name To MTG Shark People]",
+      "sources": ["Commander's Herald: Maro's Aetherdrift Teaser", "mtgrocks.com: Aetherdrift shark-people article"]
+    },
+    {
+      "category": "design",
+      "text": "Despite the name and the obvious mimicry premise, Slick Imitator's printed creature type is Creature — Ooze, NOT Shapeshifter; per Scryfall's type_line. The card's only flavor signal that it's the imitator (not the imitated) is its translucent gelatinous body. Scryfall confirms the card has no flavor_text field — the art does the storytelling. [Scryfall: Slick Imitator]",
+      "sources": ["Scryfall: Slick Imitator API"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Xabi Gaztelua, a Bilbao-based fantasy illustrator working for Wizards of the Coast, Wise Wizard Games, Brotherwise and Arcana Games across TCG/TTRPG/board-game work; this is one of his Aetherdrift contributions (alongside Diversion Unit, no. 41). Approximately 43 MTG illustrations to his credit per Scryfall artist search. [Scryfall artist search a:'Xabi Gaztelua'; xabigaztelua.com]",
+      "sources": ["Scryfall artist search", "xabigaztelua.com"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Slick Imitator is a {1}{U} 1/3 Creature — Ooze with Start your engines! and a Max speed — {1}, Sacrifice this creature: Copy target spell you control (with new targets allowed). EDHREC has the card in 2,775 Commander decks at rank 17,419, with its top home being Vnwxt, Verbose Host (917 of 5,264 Vnwxt decks, 17.42% inclusion) — Aetherdrift's mono-blue Octopus commander; secondary homes are Mendicant Core, Guidelight (2.88%) and Captain Howler, Sea Scourge (1.59%, the Keelhaulers commander). [EDHREC: Slick Imitator]",
+      "sources": ["EDHREC: Slick Imitator", "Scryfall: Slick Imitator (edhrec_rank)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "WotC rules clarifications: speed is tracked per-player (one player at max speed doesn't push another); speed only changes when a spell/ability says so; and Start your engines! is a state-based action, not a triggered ability — so the moment Slick Imitator enters, your speed snaps to at least 1 automatically. Max speed is reached at 4. [Scryfall rulings, published 2025-02-07 by WotC]",
+      "sources": ["Scryfall rulings: Slick Imitator (WotC, 2025-02-07)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Captain Howler, Sea Scourge", "set": "Aetherdrift", "note": "UR Legendary Shark Pirate — captain of The Chordatan Keelhaulers, the same shark-folk team Slick Imitator is impersonating in the art. [MTG Wiki: Aetherdrift teams; Scryfall]"},
+    {"name": "Marauding Mako", "set": "Aetherdrift", "note": "Uncommon Shark Pirate from the Keelhaulers roster; another canonical Chordatan card in the same set, useful as art-context companion. [Scryfall set search: Aetherdrift Shark]"},
+    {"name": "Vnwxt, Verbose Host", "set": "Aetherdrift", "note": "Slick Imitator's top EDH home (17.42% of Vnwxt decks); a blue commander rewarding spell-copy lines. [EDHREC: Slick Imitator]"},
+    {"name": "Dualcaster Mage", "set": "Commander 2014", "note": "EDHREC 'similar cards' top hit: same enter-the-battlefield-then-copy-a-spell line in a 2/2 body, the archetypal red analog to Slick Imitator's max-speed sacrifice. [EDHREC: Slick Imitator (similar cards)]"},
+    {"name": "Naru Meha, Master Wizard", "set": "Dominaria", "note": "EDHREC 'similar cards' hit; another ETB-trigger spell-copier in mono-blue Wizards builds. [EDHREC: Slick Imitator (similar cards)]"},
+    {"name": "Meletis Charlatan", "set": "Theros", "note": "EDHREC 'similar cards' hit; older blue spell-doubling creature — useful as a curation-foil for Slick Imitator's lineage. [EDHREC: Slick Imitator (similar cards)]"},
+    {"name": "Ooze Patrol", "set": "Aetherdrift", "note": "Same set, fellow Ooze creature, very high lift (550.59) in shared Commander decks — pairs naturally in any Aetherdrift Ooze tribal frame. [EDHREC: Slick Imitator (high-synergy cards)]"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

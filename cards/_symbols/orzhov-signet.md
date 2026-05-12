@@ -6,8 +6,9 @@ faction: Orzhov Syndicate
 universe: Magic: The Gathering / Ravnica
 canonical_source: "Orzhov Signet (artifact card, Ravnica: City of Guilds onward, multiple printings)"
 confidence: canonical
-appears_on: [ravnica-allegiance/194-pitiless-pontiff, dragon-s-maze/109-tithe-drinker]
+appears_on: [ravnica-allegiance/194-pitiless-pontiff, dragon-s-maze/109-tithe-drinker, ravnica-allegiance/236-orzhov-locket, ravnica-allegiance/252-orzhov-guildgate-252]
 related_hubs: [labor]
+related_characters: [orzhov-syndicate]
 ---
 
 # Orzhov Signet
@@ -31,8 +32,10 @@ For any BBL bundle on the apparatus-of-extraction thesis register (labor, hierar
 ## Where it appears
 
 Confirmed:
-- **Pitiless Pontiff** (Ravnica Allegiance #194) — throne back. Yongjae Choi art. The four-pronged sun directly behind the seated cleric, dark center at her head height.
-- **Tithe Drinker** (Dragon's Maze #109) — throne back. Slawomir Maniak art. Same iconographic device behind the seated vampire.
+- **Pitiless Pontiff** (Ravnica Allegiance no. 194) — throne back. Yongjae Choi art. The four-pronged sun directly behind the seated cleric, dark center at her head height.
+- **Tithe Drinker** (Dragon's Maze no. 109) — throne back. Slawomir Maniak art. Same iconographic device behind the seated vampire.
+- **Orzhov Locket** (Ravnica Allegiance no. 236) — jewelry form. Volkan Baǵa art. The signet rendered as a wearable gold-and-ivory locket, the four-pronged eclipsed sun set in the heart-shape pendant's center with a dark pupil and an outer halo ring, spilled gold coins pooling around it. This is the canonical worn-at-the-throat-by-choice form of the medallion/brand duality — the master's medallion, the choosable side of the signet's class-marking function. The Commander 2011 flavor text ("If it's carried on a medallion, its bearer is a master") describes this object literally.
+- **Orzhov Guildgate (252)** (Ravnica Allegiance no. 252) — architectural form. Cliff Childs art. The signet mounted as a large gold-and-iron rose window above the central arch of the guild's gothic gateway-cathedral. The institution stamps the signet onto its own infrastructure: not worn by any individual member, worn by the guild's seat itself. Flavor speaker is Kaya (the planeswalker installed as Orzhov guildmaster during War of the Spark), naming the building and the guild it fronts as a "gilded lie." The signet here is the institutional self-portrait at architectural scale.
 
 Strong candidates pending visual confirmation (textual sources describe recurring throne / sun ornamentation on these):
 - Obzedat, Ghost Council (Gatecrash)
@@ -62,6 +65,7 @@ The artifact card itself (Orzhov Signet, multiple printings) IS the symbol depic
 
 ## See also
 
+- [[orzhov-syndicate]] — the institution this symbol marks. The signet is the iconography; the syndicate is the actor. Cards that depict the signet *as object* edge to this symbol node; cards that depict the guild *as actor* (operatives at work, institutional violence) edge to the character node; many cards do both.
 - [[labor]] — the BBL hub this symbol most strongly supports
 - [[Bulk Graph Bundler]] (wiki) — the project this symbol enriches
 - Tithe (Discrete Lair 001) — the first BBL bundle to anchor on this symbol

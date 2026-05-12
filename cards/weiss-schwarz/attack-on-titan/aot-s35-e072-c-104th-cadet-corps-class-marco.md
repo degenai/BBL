@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: 
 average_cost_paid: 0
 market_price: 0.23
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-05
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 ---
 
 # "104th Cadet Corps Class" Marco (Attack on Titan)

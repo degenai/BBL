@@ -14,10 +14,10 @@ tags_hub: ["gingerbread", "food", "baking", "cookies", "candy", "kitchen", "fair
 tags_filter: ["solo", "mid-shot", "action-pose", "three-quarter-facing", "scene-mode", "no-face-human", "artifact-creature", "food-golem", "colorless", "haste"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/219-gingerbrute.png
 average_cost_paid: 0
-market_price: 0.31
-market_price_as_of: 2026-05-11
+market_price: 0.32
+market_price_as_of: 2026-05-12
 date_added: 2026-05-06
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

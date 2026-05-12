@@ -1,0 +1,46 @@
+{
+  "edge_id": "wave9-followup-bolas-falls-triangle",
+  "shape": "1:1",
+  "topology": "triangle",
+  "category": "story-spotlight",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/war-of-the-spark/35-topple-the-statue.md",
+      "name": "Topple the Statue (WAR-35)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/war-of-the-spark/26-prison-realm.md",
+      "name": "Prison Realm (WAR-26)"
+    }
+  ],
+  "description": "Wave 9 evidence triaged: Speed Demons cross-set bridge wants a corpus Speed Demons / Winter / Eternal Night card (none exist; no DSC folder), the Trial-of cycle wants 3+ Trial cards (only Trial of Agony in corpus, alone), the Keelhauler faction node wants Captain Howler / Marauding Mako / Chordatan kin (none in corpus besides Slick Imitator), and the Infernal Phantom red-Eerie uniqueness was self-tagged as probably-not-an-edge. All four wave-9 candidates fall below threshold. That leaves the wave-8 carryover the prompt named: the Bolas-Falls triangle was sitting two-thirds closed. Topple ↔ Despark and Despark ↔ Prison Realm were both mirrored in prior passes; the Topple ↔ Prison Realm leg was the missing third side. Closing it converts an open chain (A↔B↔C) into a triangle (A↔B↔C↔A) — the rarest and structurally most satisfying topology in the vocab, three cards all mutually edged. Designer evidence is overwhelming: all three carry Scryfall's story_spotlight:true flag, all three have flavor text that names Bolas, all three live in the same set's Bolas-defeat cluster, all three already attach to cards/_characters/nicol-bolas.md as a character-anchored shape. The triangle is what the canon describes and the graph should mirror. Surgical edit: appended one Connections bullet to each card; existing bullets untouched. Honest about the mood — mirror is the routine sigh, but the SHAPE this completes is the triangle, which earns the higher mood. Behold. Story-spotlight, three beats, all designer-tagged, all flavor-text-named-Bolas. The graph improves because of this. Worth the work.",
+  "citations": [
+    "[Scryfall: is:storyspotlight set:war — 27-card WAR story-spotlight cycle including all three Bolas-Falls cards]",
+    "[Scryfall: Topple the Statue flavor_text — 'Bolas cared little when his statue fell, thinking it a useful distraction, underestimating the surge of resolve it gave his opponents.']",
+    "[Scryfall: Prison Realm flavor_text — 'After millennia to craft victory, Bolas had eternity to contemplate defeat.']",
+    "[MTG Wiki: War of the Spark Story Spotlights — names Topple the Statue as Act 2 morale beat (Vitu-Ghazi fells the Ravnican statue) and Prison Realm as Act 3 coda (Bolas contained in the renamed Meditation Plane)]",
+    "[MTG Wiki: Meditation Plane — confirms the plane was renamed the Prison Realm after WAR and serves as Bolas's eternal containment under Ugin's expansion]",
+    "[cards/_characters/nicol-bolas.md — the existing character node lists all three cards under appears_on and the 'War of the Spark — Bolas-Falls cluster' section, ratifying the trio's canonical cohesion]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/war-of-the-spark/35-topple-the-statue.md",
+    "cards/magic-the-gathering/war-of-the-spark/26-prison-realm.md"
+  ],
+  "edgelord_mood": "satisfied",
+  "edgelord_mood_note": "Mirror would normally be 'sighed-but-mirrored'. The shape this completes is a triangle. The triangle is its own reward per the topology calibration in the spec, hence 'satisfied'. The two new Connections bullets are bidirectional by necessity (mirror leg of the triangle), but the upgrade in topological shape — chain to triangle — is what earns the mood.",
+  "other_candidates_considered": [
+    "Speed Demons cross-set bridge (DFT Ooze Patrol ↔ DSC Eternal Night Speed Demons card). Refused — no DSC / Eternal Night folder exists, no Speed Demons / Winter card in corpus. Ooze Patrol's flavor text references the team via the 'demonic roadster' phrasing per the wave 9 trivia pass, but the mirror endpoint isn't in the inventory. When a corpus Speed Demons card lands, this becomes a clean 1:1 cross-set bridge — the canonical evidence is already pre-cited in Ooze Patrol's trivia and waiting.",
+    "Trial of Agony cycle anchor. Refused — Trial of Agony is the only Trial-named DSK card in corpus. A Grep for trial/ordeal/test across the duskmourn folder returned hits but only Trial of Agony actually carries 'Trial of' in the name; the other hits are flavor-text usages. Below the Nodeley 3+ threshold for a flavor-cycle node proposal. Re-evaluate if Trial of Resurrection / Trial of Possession / Trial of the Saw appear in a future CSV.",
+    "Keelhauler faction node (parallel to existing aether-rangers + endriders Aetherdrift faction nodes). Refused — Slick Imitator is the only Keelhaulers-adjacent card in corpus. Captain Howler, Marauding Mako, and other named Keelhauler cards are not present. Below the Nodeley 3+ threshold. The Aetherdrift faction set in the characters layer would benefit from this third faction once 3+ corpus members exist.",
+    "Infernal Phantom red-Eerie uniqueness mirror. Self-tagged as probably-not-an-edge in the prompt and confirmed on inspection — uniqueness is a mechanical-slot fact, not a narrative connection. Would require finding ANOTHER mono-color-unique Eerie card in corpus to draw a 'mono-color uniqueness slot' pseudo-cycle edge, and that's a thin mechanical-trivia bridge, not a real edge. Refused on the standards Edgelord exists to enforce.",
+    "Mr. Nodeley sidebar — Speed Demons faction node. Considered as a forward-looking proposal (a Duskmourn racing-faction node ready to absorb future Speed Demons / Winter cards as they enter the corpus). Rejected for THIS pass because the trigger condition is 3+ corpus members and currently only Ooze Patrol references the faction (and from outside, as a flavor-text quotation). Trigger reconsider when 2+ named Speed Demons cards (Winter, the possessed drivers, the cars themselves) enter the inventory."
+  ],
+  "future_passes_anticipated": [
+    "When a Speed Demons / Winter / Eternal Night card enters the corpus, dispatch Edgelord with that card + Ooze Patrol — the cross-set 1:1 mirror is pre-cited and waiting in Ooze Patrol's trivia bullet 3 ('Flavor text' analysis names Speed Demons, Winter, Valgavoth's compulsion by name).",
+    "When the second and third Keelhaulers cards (Captain Howler, Marauding Mako, or any other Chordatan) enter corpus, dispatch Mr. Nodeley for a cards/_characters/keelhaulers.md faction node mirroring aether-rangers and endriders schema. Aetherdrift then has three faction nodes — the canonical pattern for a set with ten in-fiction racing teams.",
+    "When the second Trial-named DSK card enters, re-evaluate the Trial cycle. If the third lands, dispatch Mr. Nodeley for a designer-confirmed flavor-cycle node — possibly under a new 'flavor-cycle' layer or attached to a parent dsk-cycle hub.",
+    "The Bolas-Falls triangle is now a closed three-card stack. With cards/_characters/nicol-bolas.md as the canonical anchor, an enlightened pass at some future date could refactor the three 1:1 mirror legs into a single 1:N stack attached to the character node, reducing N^2/2 edges to N. That's a Nodeley enlightenment for after Liliana and Ugin character nodes exist (both already flagged in nicol-bolas.md's Caveats section as forthcoming)."
+  ]
+}

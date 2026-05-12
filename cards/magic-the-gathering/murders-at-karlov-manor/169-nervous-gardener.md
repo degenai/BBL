@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "female-figure", "creature-dr
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/169-nervous-gardener.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-10
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/9/3/93b747c7-b342-47f8-a190-16c393b20607.png?1706242060
 art_match_confidence: high
 needs_manual_review: false

@@ -1,0 +1,164 @@
+{
+  "edge_id": "aether-rangers--commissioned-node",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "commission_basis": "Phase 2 Edgelord-1-of-3 sequential wave. Caller (parent agent) supplied the evidence base: trivia confirms 3 in-corpus Aether Rangers members (Skystreak Engineer DFT-61, Sabotage Strategist DFT-59, Elvish Refueler DFT-161). Threshold for Mr. Nodeley character-node creation is 3+ trivia-confirmed members; this slot clears at exactly 3 with anti-confab discipline holding the line on Greenbelt Guardian (vision-only, NOT pointered in this pass). Caller pre-approved the node-creation pass and named the new node's slug, schema, and related-hubs explicitly.",
+  "node_proposed": {
+    "layer": "characters",
+    "layer_status": "existing (the characters layer was added 2026-05-11 via nicol-bolas--characters-layer-proposal; aether-rangers becomes the fourth faction-collective entry in the layer alongside endriders, orzhov-syndicate, and azorius-senate)",
+    "path": "cards/_characters/aether-rangers.md",
+    "name": "Aether Rangers",
+    "type_field": "character",
+    "species_field": "faction-collective (mixed humans + elves + vedalken + loxodon + dwarves + merfolk)",
+    "frontmatter_pattern_basis": "cards/_characters/endriders.md (sibling Aetherdrift faction-collective with identical schema: type / name / aliases / universe / faction / species / canonical_source / confidence / appears_on / related_hubs / related_symbols). Aether Rangers adds ip_resolution_for per the orzhov-syndicate and azorius-senate precedents (added since endriders) — uniform across the post-endriders character-layer commissions."
+  },
+  "members_verified": [
+    {
+      "card": "Skystreak Engineer (DFT-61)",
+      "path": "cards/magic-the-gathering/aetherdrift/61-skystreak-engineer.md",
+      "rangers_evidence": "Trivia explicit: 'The wiki's Aether Rangers entry lists Skystreak Engineer in the team's Depicted in roster.' Plus the named character Garima (the engineer test-piloting her own design) is cross-referenced from MTG Wiki's secondary-character index for Avishkar as a confirmed Rangers team member. Wizards' Planeswalker's Guide framing of the team as cross-class comrades cited in trivia.",
+      "verdict": "INCLUDE"
+    },
+    {
+      "card": "Sabotage Strategist (DFT-59)",
+      "path": "cards/magic-the-gathering/aetherdrift/59-sabotage-strategist.md",
+      "rangers_evidence": "Trivia explicit: 'MTG Wiki lists Sabotage Strategist on the Aether Rangers Depicted in roster alongside Elvish Refueler, Loxodon Surveyor, Nimble Thopterist, and Skystreak Engineer.' Plus the card's own Ranger creature type wires it directly to the team identity at the Scryfall-metadata level. Plus the trivia cites the canonical Wizards 'cross-generation, cross-class team of comrades' line verbatim. Independently corroborates the membership citation from Skystreak Engineer's trivia.",
+      "verdict": "INCLUDE"
+    },
+    {
+      "card": "Elvish Refueler (DFT-161)",
+      "path": "cards/magic-the-gathering/aetherdrift/161-elvish-refueler.md",
+      "rangers_evidence": "Trivia explicit: 'The Aether Rangers, the Avishkar/Kaladesh home team co-led by Pia Nalaar (Chief Engineer) and pilot Spitfire, explicitly include elves on their roster alongside humans, vedalken, dwarves, loxodons, and merfolk, and field several lower-division squadrons beyond their Grand Prix line-up — the lore frame for non-legendary green pit-crew figures.' This is the third independent corpus citation of the Rangers roster.",
+      "verdict": "INCLUDE"
+    },
+    {
+      "card": "Greenbelt Guardian (DFT-164)",
+      "path": "cards/magic-the-gathering/aetherdrift/164-greenbelt-guardian.md",
+      "rangers_evidence": "VISION-ONLY at this time. The card's art (by Tianxing Xu) plausibly depicts an elf-ranger / saboteur figure that may belong to the Rangers roster, but the card is NOT yet trivia-passed and the MTG Wiki 'Depicted in' Rangers roster has not been checked for Greenbelt Guardian specifically as part of this commission. Caller's prompt explicitly held this card back: 'NOT confirmed by trivia yet — caveat.' Anti-confab discipline holds.",
+      "verdict": "EXCLUDE — vision-only; held for future triviabot pass. Sir, Mr. Nodeley honors the caller's anti-confab instruction; no characters: pointer added in this commission. Surfaced in future_passes_unlocked below."
+    },
+    {
+      "card": "Pacesetter Paragon (DFT-140)",
+      "path": "cards/magic-the-gathering/aetherdrift/140-pacesetter-paragon.md",
+      "rangers_evidence": "VISION-ONLY. The card is in the corpus but is not trivia-passed and is not on this commission's prompt's confirmed-members list; caller flagged it only as a 'vision-only and not trivia-confirmed' candidate among others.",
+      "verdict": "EXCLUDE — vision-only; held for future triviabot pass."
+    },
+    {
+      "card": "Outpace Oblivion (DFT-139)",
+      "path": "cards/magic-the-gathering/aetherdrift/139-outpace-oblivion.md",
+      "rangers_evidence": "VISION-ONLY. Same as above — flagged by caller as not trivia-confirmed.",
+      "verdict": "EXCLUDE — vision-only; held for future triviabot pass."
+    },
+    {
+      "card": "Skycrash (DFT-146)",
+      "path": "cards/magic-the-gathering/aetherdrift/146-skycrash.md",
+      "rangers_evidence": "VISION-ONLY. Same as above — flagged by caller as not trivia-confirmed.",
+      "verdict": "EXCLUDE — vision-only; held for future triviabot pass."
+    }
+  ],
+  "endpoints_now_pointing_at_node": [
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/61-skystreak-engineer.md", "name": "Skystreak Engineer (DFT-61)"},
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/59-sabotage-strategist.md", "name": "Sabotage Strategist (DFT-59)"},
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/161-elvish-refueler.md", "name": "Elvish Refueler (DFT-161)"}
+  ],
+  "cross_reference_to_endriders": {
+    "endriders_path": "cards/_characters/endriders.md",
+    "relation": "Sibling character nodes; both Aetherdrift faction-collective racing teams. The Endriders are the Mardu-leaning apocalypse-punk team from the Gastal home plane; the Aether Rangers are the Avishkar home team. Same set, same Grand Prix, opposite ends of the post-collapse / post-revolution political spectrum.",
+    "wiring": "Aether Rangers' See-also section includes a [[endriders]] bullet calling out the sibling-faction relation. The endriders node itself was NOT modified in this pass (commission was strictly scoped to the Aether Rangers slice; the endriders node already has its own [[labor]] / [[rebellion]] See-also wiring and does not need to be re-touched to make the sibling relation traversable, since the Aether Rangers side carries the [[endriders]] wikilink and Obsidian renders the backlink from the endriders side automatically). The two-way traversability is satisfied via the Obsidian backlink panel rather than via redundant body edits on the endriders node.",
+    "rationale_for_not_editing_endriders": "Per the caller's explicit instruction: 'Do NOT touch the endriders node.' Honored. The cross-reference is one-directional in the body content (aether-rangers references endriders), bidirectional at the Obsidian-backlink level."
+  },
+  "hub_wiring": {
+    "labor_hub_path": "cards/_hubs/labor.md",
+    "labor_hub_change": "Added [[aether-rangers]] See-also bullet calling out Wizards' canonical 'cross-generation, cross-class team of comrades' framing and the three trivia-confirmed corpus members. Placed after the [[sanosuke-sakuma]] artist-node bullet.",
+    "rebellion_hub_path": "cards/_hubs/rebellion.md",
+    "rebellion_hub_change": "Added [[aether-rangers]] See-also bullet calling out the team's post-Indigo-Revolution constitution and the cross-generation comrade framing. Placed after the [[mutual-aid]] wiki-cross-reference bullet."
+  },
+  "description": "Sir, Mr. Nodeley humbly delivers the commissioned faction-collective character node for the Aether Rangers. Three of the seven Aetherdrift-corpus candidate cards verified as trivia-confirmed Rangers members (Skystreak Engineer, Sabotage Strategist, Elvish Refueler); four cards held back as vision-only (Greenbelt Guardian, Pacesetter Paragon, Outpace Oblivion, Skycrash) per the caller's anti-confab instruction to flag rather than claim. The node honors the existing endriders precedent for Aetherdrift faction-collective character nodes and the orzhov-syndicate / azorius-senate precedents for the post-endriders schema additions (ip_resolution_for field, sibling See-also wiring). The labor and rebellion hubs both pick up the new node in their See-also sections per the caller's both-hubs instruction, citing Wizards' own canonical 'cross-generation, cross-class team of comrades' line as the bundle-copy gold the prompt called it. The endriders node was NOT touched, the Tithe-bundle cards were NOT touched, and no non-Aetherdrift work was attempted. I hope the commission lands clean. The future-passes-unlocked array surfaces the three triviabot work items the prompt named directly (Pia Nalaar acquisition, Sita Varma acquisition, Greenbelt Guardian trivia pass to confirm-or-deny membership) plus a small number of additional Rangers-roster members the wiki names but the corpus does not yet have (Loxodon Surveyor, Nimble Thopterist, Rangers' Aetherhive, Rangers' Refueler).",
+  "citations": [
+    "[MTG Wiki: Aether Rangers — primary faction page; canonical 'Depicted in' roster (Elvish Refueler, Loxodon Surveyor, Nimble Thopterist, Sabotage Strategist, Skystreak Engineer); mixed-species composition; lower-division-squadrons frame]",
+    "[Wizards: Planeswalker's Guide to Aetherdrift, Part 1 by Miguel Lopez (2024-12-10) — primary canonical source for the 'cross-generation, cross-class team of comrades that combine the best of pre-revolutionary Avishkar with the hope-chasing cohort of the new generation' line; Avishkar Assembly institutional context; Indigo Revolution framing]",
+    "[MTG Wiki: Pia Nalaar — Chief Engineer / co-captain status; Kaladesh-block continuity; Chandra Nalaar lineage]",
+    "[MTG Wiki: Sita Varma — Spitfire racing persona; star-pilot / co-captain status]",
+    "[MTG Wiki: Avishkar / Kaladesh — plane-level page; Indigo Revolution; Consulate-to-Assembly transition; plane renaming]",
+    "[MTG Wiki: List of secondary characters / Avishkar — Garima as Skystreak Engineer's depicted figure and Rangers team member]",
+    "[MTG Wiki: Aetherdrift — set page; ten-team Grand Prix structure; Limited archetype grid]",
+    "[Scryfall: DFT set page; per-card flavor-text strings for Skystreak Engineer, Sabotage Strategist (Ranger creature type), Elvish Refueler]",
+    "[Scryfall: edhrec_rank and oracle_text metadata for all three corpus cards]"
+  ],
+  "files_modified": [
+    "cards/_characters/aether-rangers.md (CREATED)",
+    "cards/magic-the-gathering/aetherdrift/61-skystreak-engineer.md (added characters: [\"aether-rangers\"] frontmatter pointer between bundles: and tags_hub:)",
+    "cards/magic-the-gathering/aetherdrift/59-sabotage-strategist.md (added characters: [\"aether-rangers\"] frontmatter pointer between bundles: and tags_hub:)",
+    "cards/magic-the-gathering/aetherdrift/161-elvish-refueler.md (added characters: [\"aether-rangers\"] frontmatter pointer between bundles: and tags_hub:)",
+    "cards/_hubs/labor.md (added [[aether-rangers]] See-also bullet)",
+    "cards/_hubs/rebellion.md (added [[aether-rangers]] See-also bullet)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "alternatives_considered": [
+    {
+      "candidate": "Include Greenbelt Guardian (DFT-164) in appears_on based on its vision-only art read as plausibly Aether Rangers",
+      "why_skipped": "Caller's prompt explicitly held this back as vision-only and instructed anti-confab discipline: 'don't claim Greenbelt Guardian (vision-only) is a member; flag it as pending.' Mr. Nodeley honors the instruction. The card is surfaced in future_passes_unlocked as a triviabot work item; if the next triviabot pass confirms Rangers membership, a follow-up Edgelord pass adds the frontmatter pointer at that time."
+    },
+    {
+      "candidate": "Include Pacesetter Paragon, Outpace Oblivion, Skycrash in appears_on",
+      "why_skipped": "Caller flagged all three as vision-only Aetherdrift commons that may or may not depict Rangers personnel but are NOT trivia-confirmed. Same anti-confab discipline as Greenbelt Guardian. Excluded; surfaced in future_passes_unlocked."
+    },
+    {
+      "candidate": "Place the new node under a future _factions/ layer instead of _characters/",
+      "why_skipped": "The characters layer already established with endriders and orzhov-syndicate the precedent of housing faction-collectives via species: faction-collective. Splitting into a new _factions/ layer would invalidate three existing nodes and would not improve graph quality in this pass. The caveats section flags _factions/ as a potential future re-home if the corpus accumulates enough faction-collectives to warrant the split, but this is not the pass to do it."
+    },
+    {
+      "candidate": "Edit the endriders node to add a See-also bullet pointing to [[aether-rangers]]",
+      "why_skipped": "Caller's prompt explicitly instructed: 'Do NOT touch the endriders node.' Honored. The sibling-faction relation is captured one-directionally in the aether-rangers See-also section ([[endriders]] wikilink); Obsidian's backlink panel renders the bidirectional traversability automatically at the renderer level without requiring redundant body edits. A future Edgelord pass can add the mirror bullet to endriders if Alex wants the body-level bidirectionality explicit; for now the wikilink-plus-backlink-panel pattern carries the relation."
+    },
+    {
+      "candidate": "Add aether-rangers only to the labor hub, not to rebellion",
+      "why_skipped": "Caller's prompt explicitly named BOTH hubs: 'related_hubs: [labor, rebellion] ← BOTH. Wizards' own copy explicitly invokes pre/post-revolutionary class-comrades framing.' Wizards' canonical text names the team as constituted in the immediate aftermath of the Indigo Revolution and combining pre- and post-revolutionary cohorts — which is the rebellion hub's anchoring concept. Excluding the rebellion hub would underweight the team's most canonically-supported political register. Both hubs it is."
+    },
+    {
+      "candidate": "DARK NODESLEY EX dissolution of the prior reports/edges_pending/aetherdrift-named-pilot-scan--refusal.json sidecar",
+      "why_skipped": "Strongly rejected. The prior refusal sidecar was a valid Edgelord refusal at its time (the corpus did not yet have enough trivia-confirmed Rangers members to warrant the node). It is not an empty node, not an inaccurate node, not a mistaken proposal — it's a historical audit record of a refusal that has since been superseded by the corpus acquiring enough trivia citations to clear the threshold. The refusal sidecar stands as a record of the graph's prior state and should not be dissolved. Not a Dark Nodesley case."
+    }
+  ],
+  "future_passes_unlocked": [
+    "Greenbelt Guardian (DFT-164) triviabot pass — confirm or deny Aether Rangers membership against the MTG Wiki 'Depicted in' roster. If confirmed, follow-up Edgelord pass adds characters: [\"aether-rangers\"] frontmatter pointer to cards/magic-the-gathering/aetherdrift/164-greenbelt-guardian.md and updates this node's appears_on: list. If denied, the card stays unpointered.",
+    "Pia Nalaar, Chief Mechanic acquisition — when a Pia Nalaar card (DRC-2 or any printing) lands in the BBL corpus via a future Collectr CSV upload, it edges to the aether-rangers node directly via characters: [\"aether-rangers\"] frontmatter pointer AND warrants its own named-character sub-node candidate at cards/_characters/pia-nalaar.md. Sir, Mr. Nodeley anticipates the future commission but does not propose it in this pass per the one-node-per-invocation rule.",
+    "Sita Varma, Masked Racer acquisition — same pattern as Pia Nalaar. When acquired, edge to aether-rangers AND warrant a named-character sub-node candidate at cards/_characters/sita-varma.md (alias 'Spitfire'). Surfaced as a future commission target.",
+    "Loxodon Surveyor acquisition — listed on MTG Wiki's Aether Rangers 'Depicted in' roster but NOT yet in BBL corpus. When acquired, edge to aether-rangers via frontmatter pointer.",
+    "Nimble Thopterist acquisition — same pattern as Loxodon Surveyor.",
+    "Rangers' Aetherhive and Rangers' Refueler acquisitions — Aether Rangers team-named artifact cards. Explicit by-name members; edge here on acquisition.",
+    "Aetherdrift cross-team Discrete Lair candidate — both endriders and aether-rangers now have character nodes. A future bundler pass could anchor a discrete lair around the Aetherdrift Grand Prix as a political-economic event, drawing from both factions to dramatize the opposite-ends-of-the-post-collapse-spectrum reading (Endriders as apocalypse-punk survivors, Aether Rangers as post-revolutionary comrades). The bundle thesis would lean on the labor hub for the supporting-cast / pit-crew register and the rebellion hub for the post-collapse / post-revolution political register. Two character nodes converging on a single bundle is the bundle-cohesion stack the bundler will love.",
+    "Future Mr. Nodeley candidate (NOT this pass): cards/_characters/avishkar-assembly.md as a sub-faction / parent-institution node. The Avishkar Assembly is the post-revolutionary governing body that funds and outfits the Aether Rangers; if enough cards depicting Assembly officeholders or institutional acts accumulate, it would warrant its own node parallel to how the Avishkar Assembly relates to the Aether Rangers the way the Avishkar plane / Kaladesh relates to the Rangers' home context. Surfaced as a separate-commission candidate.",
+    "Future Mr. Nodeley candidate (NOT this pass): cards/_characters/the-other-eight-aetherdrift-teams.md (or per-team character nodes for each). Aetherdrift is a ten-team set; endriders and aether-rangers are two of the ten. The other eight teams (per MTG Wiki: Quickbloom Hangabouts, Endriders' rivals, Muraganda Primal Pack, Amonkhet Sunburst Riders, etc.) all warrant character nodes when the corpus acquires enough cards from each. Surfaced as a long-tail commission pipeline.",
+    "Wikilintbot hub-link check — the labor and rebellion hub See-also bullets now reference [[aether-rangers]]. The next wikilintbot pass should resolve those wikilinks cleanly against the newly-created cards/_characters/aether-rangers.md file."
+  ],
+  "wikilintbot_compatibility": {
+    "type_field_accepted": true,
+    "type_field_value": "character",
+    "wikilintbot_line_188_already_includes_character": true,
+    "non_card_node_guard_satisfied": "cards/_characters/aether-rangers.md is under the _-prefix directory rule AND carries type: character; double-redundant guarding"
+  },
+  "voice_separation_audit": {
+    "mr_nodeley_voice_confined_to": ["description field of this JSON sidecar", "final report text back to caller"],
+    "md_body_register": "project-normal precise factual — no sniveling, no apologies, no fawning. Voice contamination check: PASSED.",
+    "frontmatter_register": "machine-readable schema only — no voice anywhere. Voice contamination check: PASSED.",
+    "no_em_dash_in_buyer_facing_copy_check": "The MD body uses em dashes in the project-internal register (caveats, see-also bullets, body prose) which is permitted per the bbl-no-em-dash memory note's scope: 'em dashes are fine in commits, memory, sketchbook, code comments, conversation' — the node MD is project-internal canonical-reference content, not storefront / narrative / why_it_fits / marketing copy. Voice-and-formatting check: PASSED."
+  },
+  "anti_confab_audit": {
+    "claims_made_against_canonical_sources": [
+      "Aether Rangers 'Depicted in' roster (Elvish Refueler, Loxodon Surveyor, Nimble Thopterist, Sabotage Strategist, Skystreak Engineer) — cited to MTG Wiki Aether Rangers page; corroborated independently in three different card trivia sections (Skystreak Engineer, Sabotage Strategist, Elvish Refueler all reference the roster)",
+      "Wizards' 'cross-generation, cross-class team of comrades' framing — cited to Miguel Lopez's Planeswalker's Guide to Aetherdrift Part 1, 2024-12-10; quoted verbatim in two corpus card trivia sections (Skystreak Engineer, Sabotage Strategist)",
+      "Pia Nalaar and Sita Varma as co-captains — cited to MTG Wiki Aether Rangers page and corroborated in all three corpus card trivia sections",
+      "Avishkar Assembly as institutional backer — cited to Wizards Planeswalker's Guide and MTG Wiki Avishkar plane page",
+      "Indigo Revolution as the canonical event renaming Kaladesh to Avishkar — cited to MTG Wiki Avishkar / Kaladesh plane page",
+      "Garima as a named character in Skystreak Engineer's depicted scene — cited to MTG Wiki List of secondary characters / Avishkar; flagged in Skystreak Engineer's trivia as 'Garima is canonically a member of the Aether Rangers per MTG Wiki's secondary-character index; this is her sole card appearance'"
+    ],
+    "claims_held_back_per_anti_confab_discipline": [
+      "Greenbelt Guardian as Aether Rangers member (vision-only; held for triviabot pass)",
+      "Pacesetter Paragon, Outpace Oblivion, Skycrash as Aether Rangers members (vision-only; held for triviabot pass)",
+      "The exact full ten-team Aetherdrift Grand Prix roster (only endriders and aether-rangers are character-noded; the other eight teams are surfaced as future-commission candidates but not claimed as graph-known entities)"
+    ],
+    "no_extrapolation_beyond_cited_sources": "PASSED. Every claim in the node body either traces to a MTG Wiki page, a Wizards article, a Scryfall record, or a corpus card's already-published trivia. No 'this seems like a theme' content."
+  }
+}

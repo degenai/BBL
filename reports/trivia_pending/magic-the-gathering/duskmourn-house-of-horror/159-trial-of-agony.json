@@ -1,0 +1,59 @@
+{
+  "card_name": "Trial of Agony",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "159",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Trial of Agony is one of multiple Duskmourn cards built as direct references to the Saw film franchise (the 'death game' horror subgenre). Wargamer and TheGamer film-reference roundups group it with Saw (the equipment), Let's Play A Game, and The Lord of Pain as the set's Saw-coordinated cards. [Wargamer: 'Every single horror reference in MTG Duskmourn' / TheGamer: '10 Best Horror Movie References' / Star City Games: 'Duskmourn Film References Explained', via WebSearch snippets]",
+      "sources": ["Wargamer (Duskmourn horror references)", "TheGamer (Duskmourn horror references)", "Star City Games (Duskmourn film references)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Despite the 'Trial of' prefix evoking earlier MTG cycles, no second 'Trial of'-named card was printed in Duskmourn — Scryfall set search returns Trial of Agony as the lone instance. The card is a Saw-franchise homage rather than a designer-coordinated DSK 'Trial of' cycle. [Scryfall set search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Mike Sass. Uncommon. Mono-red sorcery, cost {R}. Released 2024-09-27 as part of Duskmourn: House of Horror (DSK 159). [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'All it took to shatter their lifelong bond was a scrap of hope.' — written to match the card's coerced-choice mechanic, where one opponent is forced to choose which of two of their own creatures takes the hit. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text: 'Choose two target creatures controlled by the same opponent. That player chooses one of those creatures. Trial of Agony deals 5 damage to that creature, and the other can't block this turn.' — a one-mana 5-damage burn / removal with a secondary 'other can't block' rider, gated by the opponent's choice. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The card was given an early world preview by French outlet Numerama on 2024-09-06, positioning it as a marquee horror-flavor reveal in the DSK preview cycle. [Scryfall: preview metadata]",
+      "sources": ["Scryfall (preview metadata)"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community framing per published horror-reference roundups: Trial of Agony is read as a Jigsaw / death-game tribute — the sacrificial-choice mechanic operationalizes the Saw franchise's 'pick one' moral-coercion trope in MTG rules. [Wargamer / Star City Games coverage, via WebSearch snippets]",
+      "sources": ["Wargamer", "Star City Games"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Saw", "set": "Duskmourn: House of Horror", "note": "Equipment card directly named after the franchise; same Saw-cluster"},
+    {"name": "Let's Play A Game", "set": "Duskmourn: House of Horror", "note": "Title references Jigsaw's iconic 'I want to play a game' line; same Saw-cluster"},
+    {"name": "The Lord of Pain", "set": "Duskmourn: House of Horror Commander", "note": "DSC 3 — design references John Kramer / Jigsaw per published horror-reference coverage"},
+    {"name": "Trial of Ambition", "set": "Amonkhet", "note": "Earlier MTG 'Trial of' cycle (Amonkhet block) — same name prefix, different mechanical design"},
+    {"name": "Trial of Knowledge", "set": "Amonkhet", "note": "Earlier MTG 'Trial of' cycle anchor — name-prefix predecessor"},
+    {"name": "Trial of Solidarity", "set": "Amonkhet", "note": "Earlier MTG 'Trial of' cycle anchor — name-prefix predecessor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

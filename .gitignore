@@ -28,6 +28,9 @@ scratch/
 # Triviabot agent curl-cache scratch (sandbox can't delete on exit)
 reports/.cache_*
 
+# Parent-side Puppeteer / curl cache (web-scrape artifacts from triviabot research)
+.cache/
+
 # Obsidian per-user dev state (graph view position, pane layout — not session work)
 cards/.obsidian/workspace.json
 cards/.obsidian/workspace-mobile.json

@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "no-face", "mid-shot", "centered", "abstract-mode", 
 reference_image: cards/_images/magic-the-gathering/classic-sixth-edition/318-wooden-sphere.png
 average_cost_paid: 0
 market_price: 0.24
-market_price_as_of: 2026-05-11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-07
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/e/f/ef706d86-6e7f-4f3a-9e4d-8aa6d9aac74a.png?1562824402
 art_match_confidence: high
 needs_manual_review: false

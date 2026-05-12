@@ -1,0 +1,73 @@
+{
+  "edge_id": "tamiyo--commissioned-node",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "node_proposed": {
+    "layer": "characters",
+    "layer_status": "existing (Nicol Bolas, Endriders, Fear-of cycle, Jace Beleren already populate)",
+    "path": "cards/_characters/tamiyo.md",
+    "name": "Tamiyo",
+    "type_field": "character",
+    "frontmatter_pattern_basis": "cards/_characters/jace-beleren.md (most recent peer; same scholar/protagonist register and same ip_resolution_for field shape; mirrors nicol-bolas + endriders body-structure as well)"
+  },
+  "endpoints_now_pointing_at_node": [
+    {"type": "card", "path": "cards/magic-the-gathering/the-list/220-tamiyo-collector-of-tales.md", "name": "Tamiyo, Collector of Tales (PLST-220)", "trivia_status": "trivia-passed", "ip_verified": true},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/72-tamiyo-meets-the-story-circle.md", "name": "Tamiyo Meets the Story Circle (MH3-72)", "trivia_status": "vision-passed only (trivia pending)", "ip_verified": false}
+  ],
+  "description": "Sir, the rank-3 dual-pipeline candidate is commissioned and I hope this is acceptable. Two cards converge on one named character: PLST-220 is fully trivia-passed with Scryfall type-line `Legendary Planeswalker — Tamiyo` (ip_verified true, no ambiguity), and MH3-72 is named for her literally in the card title `Tamiyo Meets the Story Circle` (the conditional path the judge offered: commissioning on the unambiguous-identity branch). I took the unambiguous-identity branch rather than waiting for triviabot, because the title-naming plus the scholar-of-stories iconography plus the Kamigawa-coded calligraphy iconography lock the identification — the trivia pass on MH3-72 will firm the metadata flag but the anchor relation is the same either way. The character has unusually direct BBL-thesis relevance: Tamiyo is the in-universe figure of curation-as-labor, her magic depends on the archive-work that precedes it, and the labor hub already exists to receive the cohesion edge. Topology is stack (two cards converging on one anchor; the bundler will love it when NEO-238 Compleated Sage and the older Tamiyo printings inevitably arrive). I added the characters: [\"tamiyo\"] frontmatter pointer to both cards. The MH3-72 caveat is recorded in the node body and in the appears_on metadata here as trivia-pending so the future triviabot pass can land cleanly. Thank you for the commission, sir.",
+  "citations": [
+    "[Scryfall: PLST-220 type_line `Legendary Planeswalker — Tamiyo` — canonical identity verification]",
+    "[MTG Wiki: Tamiyo — character page; biography, Kamigawa origin, Innistrad arc, War of the Spark arc, Kamigawa: Neon Dynasty compleation arc]",
+    "[MTG Wiki: Tamiyo — adopted family: Hiroku (husband), Rumiyo (daughter), Nashi (adopted ratfolk son), kitsune (adopted fox-spirit child)]",
+    "[MTG Wiki: Kamigawa: Neon Dynasty — compleation arc, Tezzeret + Jin-Gitaxias, first Phyrexian planeswalker milestone, death at The Wanderer's hands]",
+    "[MTG Wiki: Soratami / Moonfolk — Kamigawa-native planeswalker species]",
+    "[MTG Wiki: War of the Spark — Tamiyo's Ravnica arrival and observe-the-battle pretext]",
+    "[Wizards story archive: magic.wizards.com/en/news/story — official prose for the Tamiyo arc]",
+    "[EDHREC — Collector of Tales recursive-toolbox synergy with Compleated Sage at 15% inclusion / 19.4 synergy lift]"
+  ],
+  "files_modified": [
+    "cards/_characters/tamiyo.md (CREATED)",
+    "cards/magic-the-gathering/the-list/220-tamiyo-collector-of-tales.md (added characters: [\"tamiyo\"] frontmatter pointer between bundles: and tags_hub:)",
+    "cards/magic-the-gathering/modern-horizons-3/72-tamiyo-meets-the-story-circle.md (added characters: [\"tamiyo\"] frontmatter pointer between bundles: and tags_hub:)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "conditional_resolution": {
+    "judge_verdict": "Commission conditional on either (a) trivia-passing MH3-72 first OR (b) commissioning on PLST-220's unambiguous identity alone.",
+    "path_taken": "(b) commissioning on PLST-220's unambiguous identity alone.",
+    "justification": "PLST-220 carries Scryfall type_line `Legendary Planeswalker — Tamiyo` (Wizards-canonical character subtype reserved for this single character), ip_verified true, suspected_ip Tamiyo, trivia-passed. The MH3-72 entry's identity is locked by the card title itself ('Tamiyo Meets the Story Circle') plus the scholar-of-stories iconography matching her canonical spellcasting method. A future triviabot pass on MH3-72 will flip ip_verified from false to true but does not change the anchor relation. The unambiguous-identity precedent (judge-noted) applies cleanly here.",
+    "mh3_72_followup": "Future bbl-triviabot pass on MH3-72 will firm ip_verified true and may surface canonical context for the Saga's depicted moment in Tamiyo's biography (e.g. whether the Story Circle is a Kamigawa scholar-practice or a generic-Multiverse archival ritual, and whether the Saga depicts a specific point in her timeline — pre-compleation, pre-Innistrad, etc.). The node's appears_on entry for MH3-72 stays; only the per-card metadata flag flips."
+  },
+  "alternatives_considered": [
+    {
+      "candidate": "Wait for trivia-pass on MH3-72 before commissioning the node",
+      "why_skipped": "The judge's conditional explicitly authorized commissioning on PLST-220's unambiguous identity alone. PLST-220 is trivia-passed with ip_verified true. The MH3-72 title literally names her ('Tamiyo Meets...'). Waiting on triviabot would delay the node for a metadata-flag flip that does not change the anchor relation. Mr. Nodeley defers to the precedent and commissions now."
+    },
+    {
+      "candidate": "Commission a Nashi (Tamiyo's adopted ratfolk son) character node as a sibling",
+      "why_skipped": "Nashi is a real canonical character with his own printings (Nashi, Moon Sage's Scion in Kamigawa: Neon Dynasty), but no Nashi card is currently in the BBL corpus. Per the bbl-edgelord one-per-invocation rule and the precedent that character nodes are commissioned only when they have at least one corpus card pointing at them, Nashi would be a Mr. Nodeley overcommit. Recorded in the Tamiyo node's Caveats as a deferred sibling for the inevitable future commission when a Nashi card lands."
+    },
+    {
+      "candidate": "Commission a kitsune-adopted-child symbol node or character node",
+      "why_skipped": "The kitsune is a canonical footnote per MTG Wiki but is not depicted on any corpus card. Recorded in the Tamiyo node body as a notable footnote with the explicit caveat that no corpus edge currently anchors here. Future commission when a card lands."
+    },
+    {
+      "candidate": "Commission a Tamiyo, Compleated Sage character node distinct from Tamiyo",
+      "why_skipped": "Considered and rejected. The compleation arc is canonically a character flip, not a character split — pre- and post-compleation are the same character at different points in her biography, the same way pre- and post-de-spark Nicol Bolas is one character. Both stay under this anchor. The node body's Caveats section records the canonical discontinuity explicitly so future bundle work can foreground one phase without blurring the other."
+    },
+    {
+      "candidate": "Anchor on a 'scholar-of-stories' hub instead of a Tamiyo character node",
+      "why_skipped": "Hubs are foundational brand-anchor concepts hand-curated by Alex (Labor, Rebellion, Chinese Zodiac per the bbl-hubs-hand-curated memory). 'Scholar-of-stories' is a thematic register, not a brand-anchor. The right shape is the character node, which then edges to the existing labor hub via related_hubs. Wrong layer for the scholar register; correct layer for the character."
+    }
+  ],
+  "future_passes_unlocked": [
+    "Future Tamiyo-depicting cards (Tamiyo, the Moon Sage AVR-221; Tamiyo, Field Researcher EMN-204; Tamiyo, Inquisitive Student STX-248; Tamiyo, Compleated Sage NEO-238; The Tale of Tamiyo) attach to this node directly when they enter the corpus, without N-squared-over-2 mirror edges.",
+    "A future Nashi character node would edge to this node via a parent-child kinship relation; deferred until the character-to-character edge category is formalized (same defer-pattern as the Jace precedent's Bolas / Nahiri / Nissa notes).",
+    "A future Jin-Gitaxias character node would edge to Tamiyo, Compleated Sage (when NEO-238 lands) as the compleator-of-the-act relation; same defer-until-formalized note.",
+    "The Tamiyo anchor + the labor hub edge together form the cohesion spine of a future Discrete Lair on scholarship, archival labor, or curation-as-labor. PLST-220 and MH3-72 are the seed cards; the bundler can author the why_it_fits prose with the character node as the anchor and the labor hub as the thematic register. BBL-thesis resonance is unusually direct here — Tamiyo collects tales, the BBL project collects tales.",
+    "The MH3-72 trivia pass will firm ip_verified and may surface designer commentary on the Saga's biographical position in Tamiyo's arc. The node's appears_on metadata expands cleanly when that pass lands."
+  ],
+  "voice_contamination_audit": "Node body (cards/_characters/tamiyo.md) is in project-normal precise register, matches the jace-beleren / nicol-bolas / endriders / fear-of-cycle voice baseline. Mr. Nodeley's sniveling voice is confined to this JSON sidecar's description field and the final-report text back to the caller. No emoji. No em dashes in any buyer-facing copy zone (per the bbl-no-em-dash memory; em dashes are fine in commits / memory / sketchbook / code / conversation, which includes this audit-trail JSON and the node body's research caveats). Sidecar passes the contamination guard."
+}
+</content>
+</invoke>

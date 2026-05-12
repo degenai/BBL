@@ -14,10 +14,10 @@ tags_hub: ["underground", "burrowing", "earth", "dirt", "trio", "mole", "rodent"
 tags_filter: ["group", "3-figures", "mid-shot", "forward-facing", "scene-mode", "no-human-figure", "fighting-type", "stage-1-evolution", "creature-only", "creature-collector"]
 reference_image: cards/_images/pokemon/darkness-ablaze/085-189-dugtrio.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-11
+market_price: 0.11
+market_price_as_of: 2026-05-12
 date_added: 2026-05-08
-last_seen: 2026-05-11
+last_seen: 2026-05-12
 reference_image_source_url: https://images.pokemontcg.io/swsh3/85_hires.png
 art_match_confidence: high
 needs_manual_review: false

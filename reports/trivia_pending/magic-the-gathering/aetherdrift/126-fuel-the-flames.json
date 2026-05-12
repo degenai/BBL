@@ -1,0 +1,48 @@
+{
+  "card_name": "Fuel the Flames",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "126",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag from vision pass. The depicted attacker is an Endrider (a Wizards-internal Aetherdrift faction confirmed via MTG Wiki's 'Depicted in' list, which names Fuel the Flames as Endrider-faction art) and the cat-folk targets are unnamed generic figures. No external IP risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Aetherdrift (set code DFT, released 2025-02-14) is a multi-plane death-race set staging the Ghirapur Grand Prix across Avishkar (renamed Kaladesh), Amonkhet, and Muraganda, with ten competing teams [Scryfall API: dft set; Wizards: Planeswalker's Guide to Aetherdrift, Part 1]. The set's vision design was led by Mark Rosewater and set design by Yoni Skolnik; codename was 'Tennis' [MTG Wiki: Aetherdrift].",
+      "sources": ["Scryfall", "Wizards: Planeswalker's Guide to Aetherdrift, Part 1", "MTG Wiki: Aetherdrift"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The attacker on this card is an Endrider — the black-red racing team from the dying plane Gastal. MTG Wiki explicitly lists Fuel the Flames under the Endriders' 'Depicted in' card cycle [MTG Wiki: Endriders]. The faction is described in Wizards' guide as scavengers and nomads who 'roar across permanently sunset-washed landscapes seeking rare oases to settle or raid' on a homeworld where 'gas and oil are plentiful' but water is scarce; after the Phyrexian invasion they 'rode their machines to freedom, leaving Gastal without a look in the rearview mirror' and now do mercenary work across the Multiverse to keep their tanks full [Wizards: Planeswalker's Guide to Aetherdrift, Part 1, via Miguel Lopez 2024-12-10]. MTG Wiki frames them as 'nomadic apocalypse punk warriors' [MTG Wiki: Endriders, citing the 'Buckle Up for a Race Across the Multiverse' Aetherdrift Debut video].",
+      "sources": ["MTG Wiki: Endriders", "Wizards: Planeswalker's Guide to Aetherdrift, Part 1"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text reads: \"Our world died, but we survived. Funny how it's the opposite for you.\" —Rido, Endrider [Scryfall flavor_text]. Rido is a confirmed member of Far Fortune's Endrider crew on the team roster alongside Mincemeat, Crash, and Wrench [MTG Wiki: Endriders, infobox 'Members' list]. The line frames the burning sequence: the Endriders are post-apocalypse survivors whose home plane already died, so their indifference to setting another team on fire is treated as gallows comedy.",
+      "sources": ["Scryfall", "MTG Wiki: Endriders"]
+    },
+    {
+      "category": "design",
+      "text": "Aetherdrift coverage repeatedly framed the Endriders as the set's most direct Mad Max homage — story author K. Arsenault Rivera cited Mad Max, Fast and the Furious, Redline, and Speed Racer as her main touchstones [Magic Untapped: 'An Interview With Aetherdrift Story Author K. Arsenault Rivera', via WebSearch snippet]. The plane's name itself reads as 'Gas + Pedal' [WebSearch snippet of Aetherdrift coverage]. Art on this card is by Nicholas Gregory [Scryfall artist field]. The card has no reprints — single printing in DFT [Scryfall prints_search].",
+      "sources": ["Magic Untapped (via WebSearch snippet)", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A {2}{R} instant dealing 2 damage to each creature with Cycling {2} [Scryfall oracle_text]. Functionally a Pyroclasm variant at instant speed with built-in card filtering — Draftsim's Aetherdrift Limited review notes that cycling makes 'situationally powerful cards like Fuel the Flames much more playable' since it doesn't become a dead card in matchups where a board wipe isn't needed [Draftsim: 'The Ultimate Aetherdrift Limited Set Review', via WebSearch snippet]. EDHREC rank 16,075 places it outside Commander staple territory [Scryfall: edhrec_rank]. Standard / Modern / Legacy / Vintage / Commander legal; Pauper not legal [Scryfall legalities].",
+      "sources": ["Scryfall", "Draftsim (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Endrider Spikespitter", "set": "Aetherdrift", "note": "Same Endrider faction; #125 (the card immediately before this one in the set order) — already trivia-passed in this corpus."},
+    {"name": "Far Fortune, End Boss", "set": "Aetherdrift", "note": "Leader of the Endriders; Rido (the flavor-text speaker on this card) rides under her command."},
+    {"name": "Ride's End", "set": "Aetherdrift", "note": "Another Endriders 'Depicted in' card per MTG Wiki — parallel example of the Endriders' burn-down-the-competition art language."},
+    {"name": "Ripclaw Wrangler", "set": "Aetherdrift", "note": "Endriders 'Depicted in' cycle; flavor text quotes the Endriders chanting 'The claw!' as they raid another racer."},
+    {"name": "Flood the Engine", "set": "Aetherdrift", "note": "Blue counterpart of this card in the Endriders 'Depicted in' set cycle — parallel removal-spell flavor showing Endriders raiding rival teams."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
