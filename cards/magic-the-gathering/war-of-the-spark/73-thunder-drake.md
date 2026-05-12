@@ -14,10 +14,10 @@ tags_hub: ["dragon", "drake", "elemental", "storm", "lightning", "sky", "clouds"
 tags_filter: ["solo", "mid-shot", "action-mode", "three-quarter-facing", "no-figure", "creature-elemental-drake", "blue-magic", "flying"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/73-thunder-drake.png
 average_cost_paid: 0
-market_price: 0.09
-market_price_as_of: 2026-05-10
+market_price: 0.1
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/f/8/f88a9bc4-1b1
 mood: action
 time_of_day: indeterminate
 setting: other
+artist: Yeong-Hao Han
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/73-thunder-drake--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/8/f88a9bc4-1b15-4a91-9376-730d2f5b3336.jpg?1557576348
+flavor_text: The arrival of the Planar Bridge caused eddies in the aether, creating some entirely new species while transforming others.
+oracle_text: Flying\nWhenever you cast your second spell each turn, put a +1/+1 counter on this creature.
 ---
 
 # Thunder Drake (War of the Spark)

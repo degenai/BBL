@@ -15,9 +15,9 @@ tags_filter: ["group", "3-figures", "mid-shot", "faces-right", "action-mode", "s
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/22-makeshift-battalion.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/8/2/82293d58-d3b
 mood: action
 time_of_day: indeterminate
 setting: other
+artist: Zoltan Boros
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/22-makeshift-battalion--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/2/82293d58-d3b4-4cf6-8a16-32ae3e509696.jpg?1557576006
+flavor_text: Their ranks are thin, their formation is improvised, their weapons are borrowed, and you'd best get out of their way.
+oracle_text: Battalion — Whenever this creature and at least two other creatures attack, put a +1/+1 counter on this creature.
 ---
 
 # Makeshift Battalion (War of the Spark)

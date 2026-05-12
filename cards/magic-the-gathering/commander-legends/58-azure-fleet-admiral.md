@@ -14,10 +14,10 @@ tags_hub: ["pirate", "captain", "sailor", "ship", "ocean", "sword", "swashbuckle
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "male-figure", "action-pose", "blue-magic", "creature-human", "creature-pirate", "daytime", "outdoor"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/58-azure-fleet-admiral.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-10
+market_price: 0.24
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/c/0/c0889e22-dea
 mood: action
 time_of_day: day
 setting: ocean
+artist: Sidharth Chaturvedi
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/58-azure-fleet-admiral--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/0/c0889e22-deab-48ba-bbd6-f0d49bee5d9c.jpg?1608909111
+flavor_text: \"Your concern for my safety is touching, but as long as your gunners remain reliably erratic, I see no reason to change course.\"\n—Admiral Yelise, to Commodore Axurik
+oracle_text: When this creature enters, you become the monarch.\nThis creature can't be blocked by creatures the monarch controls.
 ---
 
 # Azure Fleet Admiral (Commander Legends)

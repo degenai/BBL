@@ -1,7 +1,7 @@
 ---
 name: Llanowar Elves
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 314
 rarity: C
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter-facing", "male-figure", "action
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/314-llanowar-elves.png
 average_cost_paid: 0
 market_price: 0.44
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: action
 time_of_day: indeterminate
 setting: forest
 the_list_source_set: M19
+artist: Chris Rahn
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/314-llanowar-elves--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/7/57ebd34e-dfe1-4093-a302-db395047a546.jpg?1719593791
+flavor_text: As patient and generous as life, as harsh and merciless as nature.
+oracle_text: {T}: Add {G}.
 ---
 
 # Llanowar Elves (Mystery Booster Cards)

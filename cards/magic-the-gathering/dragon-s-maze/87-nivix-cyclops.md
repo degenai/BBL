@@ -14,10 +14,10 @@ tags_hub: ["cyclops", "one-eyed", "giant", "brute", "muscle", "forge", "smoke", 
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "male-figure", "no-background-architecture", "creature-cyclops", "multicolor-blue-red", "blue-magic", "red-magic", "defender", "common"]
 reference_image: cards/_images/magic-the-gathering/dragon-s-maze/87-nivix-cyclops.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-10
+market_price: 0.06
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/5/d/5d7a0e26-8cd
 mood: action
 time_of_day: indeterminate
 setting: other
+artist: Wayne Reynolds
+art_crop_image: cards/_images/magic-the-gathering/dragon-s-maze/87-nivix-cyclops--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/d/5d7a0e26-8cd4-4f53-8922-93ca28b1879b.jpg?1562912248
+oracle_text: Defender\nWhenever you cast an instant or sorcery spell, this creature gets +3/+0 until end of turn and can attack this turn as though it didn't have defender.
 ---
 
 # Nivix Cyclops (Dragon's Maze)

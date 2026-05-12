@@ -1,7 +1,7 @@
 ---
 name: Swords to Plowshares
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 78
 rarity: U
 variance: Normal
@@ -14,10 +14,10 @@ tags_hub: ["sword", "blade", "robed-figure", "lone-figure", "ritual", "oath", "w
 tags_filter: ["solo", "wide-shot", "forward-facing", "scene-mode", "white-magic", "instant", "no-face", "single-figure"]
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/78-swords-to-plowshares.png
 average_cost_paid: 0
-market_price: 2.73
-market_price_as_of: 2026-05-10
+market_price: 2.71
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: sublime
 time_of_day: day
 setting: other
 the_list_source_set: VOC
+artist: Jesper Ejsing
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/78-swords-to-plowshares--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/2/5287cab9-29f3-4516-b1f0-57ff6ebe889a.jpg?1693264063
+flavor_text: \"The arc of my blade has carved a path of light for the peace that will follow.\"
+oracle_text: Exile target creature. Its controller gains life equal to its power.
 ---
 
 # Swords to Plowshares (Mystery Booster Cards)

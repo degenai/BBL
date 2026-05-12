@@ -1,7 +1,7 @@
 ---
 name: Unlicensed Disintegration
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 187
 rarity: U
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["duo", "mid-shot", "three-quarter", "action-mode", "red-magic", "b
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/187-unlicensed-disintegration.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: action
 time_of_day: indeterminate
 setting: other
 the_list_source_set: KLD
+artist: Izzy
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/187-unlicensed-disintegration--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/3/b33fcc99-7c30-4f43-aab5-b842674f046f.jpg?1573515798
+flavor_text: \"I'd stand back if I were you.\"
+oracle_text: Destroy target creature. If you control an artifact, Unlicensed Disintegration deals 3 damage to that creature's controller.
 ---
 
 # Unlicensed Disintegration (Mystery Booster Cards)

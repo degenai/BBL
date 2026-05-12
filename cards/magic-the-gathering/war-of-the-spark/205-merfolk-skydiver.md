@@ -15,15 +15,19 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "blue-magic",
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/205-merfolk-skydiver.png
 average_cost_paid: 0
 market_price: 0.29
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/2/b/2bf211eb-837b-4c02-b02e-8d9e62f1abb1.png?1557577195
 art_match_confidence: high
 needs_manual_review: false
 mood: sublime
 time_of_day: day
 setting: other
+artist: Sara Winters
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/205-merfolk-skydiver--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/b/2bf211eb-837b-4c02-b02e-8d9e62f1abb1.jpg?1557577195
+oracle_text: Flying\nWhen this creature enters, put a +1/+1 counter on target creature you control.\n{3}{G}{U}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 ---
 
 # Merfolk Skydiver (War of the Spark)

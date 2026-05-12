@@ -15,9 +15,9 @@ tags_filter: ["solo", "close-up", "action-mode", "three-quarter-facing", "no-fac
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/141-infuriate.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/8/5/85a74392-405
 mood: action
 time_of_day: indeterminate
 setting: other
+artist: Tomasz Jedruszek
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/141-infuriate--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/5/85a74392-4056-428c-a807-b062957e838e.jpg?1581480233
+flavor_text: \"Renata launched a dozen arrows into the minotaur's thick hide, but the monster didn't slow its charge. The fury of Mogis was upon it.\"\n—Luphea of Setessa, *Histories*
+oracle_text: Target creature gets +3/+2 until end of turn.
 ---
 
 # Infuriate (Theros Beyond Death)

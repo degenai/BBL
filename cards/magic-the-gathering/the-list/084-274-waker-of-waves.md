@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide-shot", "scene-mode", "no-face", "creature-whale", "b
 reference_image: cards/_images/magic-the-gathering/the-list/084-274-waker-of-waves.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'The List'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/e/3e2c3304-1bd
 mood: sublime
 time_of_day: day
 setting: ocean
+artist: Svetlin Velinov
+art_crop_image: cards/_images/magic-the-gathering/the-list/084-274-waker-of-waves--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/e/3e2c3304-1bd9-44bb-bd91-00b3a089be00.jpg?1723439289
+flavor_text: On the open sea, there is nowhere to hide.
+oracle_text: Creatures your opponents control get -1/-0.\n{1}{U}, Discard this card: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.
 ---
 
 # Waker of Waves (The List)

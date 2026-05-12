@@ -15,9 +15,9 @@ tags_filter: ["no-face", "no-figures", "wide-shot", "scene-mode", "enchantment",
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/168-new-horizons.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/2/02c521da-677
 mood: peaceful
 time_of_day: day
 setting: forest
+artist: Eytan Zana
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/168-new-horizons--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/2/02c521da-677e-43b9-b5fe-c84dc64e66ec.jpg?1557576954
+oracle_text: Enchant land\nWhen this Aura enters, put a +1/+1 counter on target creature you control.\nEnchanted land has \"{T}: Add two mana of any one color.\"
 ---
 
 # New Horizons (War of the Spark)

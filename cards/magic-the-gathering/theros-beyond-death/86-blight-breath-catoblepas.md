@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "no-face-human", "scene-mode"
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/86-blight-breath-catoblepas.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/7/8/7865c079-1d9
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Antonio José Manzanedo
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/86-blight-breath-catoblepas--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/8/7865c079-1d91-48d4-852d-d104b6e0c157.jpg?1616399490
+flavor_text: Wherever it walks, famine follows behind.
+oracle_text: When this creature enters, target creature an opponent controls gets -X/-X until end of turn, where X is your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
 ---
 
 # Blight-Breath Catoblepas (Theros Beyond Death)

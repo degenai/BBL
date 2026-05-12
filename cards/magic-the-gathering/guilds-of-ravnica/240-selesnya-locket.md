@@ -14,10 +14,10 @@ tags_hub: ["jewelry", "locket", "treasure", "gold", "tree", "sigil", "heraldry",
 tags_filter: ["artifact", "no-figure", "close-up", "object-study", "green-magic", "white-magic", "multicolor-green-white", "mana-rock"]
 reference_image: cards/_images/magic-the-gathering/guilds-of-ravnica/240-selesnya-locket.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-10
+market_price: 0.23
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/e/a/ea0c04b9-c7f
 mood: peaceful
 time_of_day: indeterminate
 setting: indoor
+artist: Winona Nelson
+art_crop_image: cards/_images/magic-the-gathering/guilds-of-ravnica/240-selesnya-locket--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/a/ea0c04b9-c7fc-4204-9af2-5d1987bdd97e.jpg?1572894091
+flavor_text: \"Think of the locket as a seed you bear, spreading life from Vitu-Ghazi across all of Ravnica.\"\n—Heruj, Selesnya hierophant
+oracle_text: {T}: Add {G} or {W}.\n{G/W}{G/W}{G/W}{G/W}, {T}, Sacrifice this artifact: Draw two cards.
 ---
 
 # Selesnya Locket (Guilds of Ravnica)

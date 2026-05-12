@@ -1,7 +1,7 @@
 ---
 name: Uncaged Fury
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 155
 rarity: C
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["solo", "close-up", "forward-facing", "action-mode", "no-face-huma
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/155-uncaged-fury.png
 average_cost_paid: 0
 market_price: 0.22
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: action
 time_of_day: indeterminate
 setting: indoor
 the_list_source_set: A25
+artist: Jason Kang
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/155-uncaged-fury--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/1/b18646ff-c8ff-4541-b22c-f12122d74754.jpg?1573512783
+flavor_text: \"It's right to fear those that you keep locked away.\"\n—Rahilda, Vildin-Pack alpha
+oracle_text: Target creature gets +1/+1 and gains double strike until end of turn.
 ---
 
 # Uncaged Fury (Mystery Booster Cards)

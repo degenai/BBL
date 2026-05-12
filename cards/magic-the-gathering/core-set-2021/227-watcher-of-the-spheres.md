@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "portrait-mode", "no-face-hum
 reference_image: cards/_images/magic-the-gathering/core-set-2021/227-watcher-of-the-spheres.png
 average_cost_paid: 0
 market_price: 0.47
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/5/354b9ea4-3d5
 mood: sublime
 time_of_day: day
 setting: other
+artist: G-host Lee
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/227-watcher-of-the-spheres--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/5/354b9ea4-3d55-48cc-b426-c46b1d1bb397.jpg?1594737462
+oracle_text: Flying\nCreature spells with flying you cast cost {1} less to cast.\nWhenever another creature you control with flying enters, this creature gets +1/+1 until end of turn.
 ---
 
 # Watcher of the Spheres (Core Set 2021)

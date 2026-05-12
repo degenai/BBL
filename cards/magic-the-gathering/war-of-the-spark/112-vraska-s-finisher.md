@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide-shot", "three-quarter", "portrait-mode", "creature-g
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/112-vraska-s-finisher.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: grim
 time_of_day: night
 setting: void
 name: Vraska's Finisher
+artist: Igor Kieryluk
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/112-vraska-s-finisher--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/8/f89fa379-7fae-4fbf-8e31-0ef3645353c5.jpg?1557576597
+flavor_text: \"You might have pleaded your case with my queen earlier. Now I am here, and it is far too late.\"
+oracle_text: When this creature enters, destroy target creature or planeswalker an opponent controls that was dealt damage this turn.
 ---
 
 # Vraska's Finisher (War of the Spark)

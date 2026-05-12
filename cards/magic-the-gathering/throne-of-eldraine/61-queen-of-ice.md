@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "female-fig
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/61-queen-of-ice.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/d/e/de2f964a-e4e
 mood: sublime
 time_of_day: indeterminate
 setting: indoor
+artist: Eric Deschamps
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/61-queen-of-ice--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/e/de2f964a-e4e1-4321-92ad-34b781868e11.jpg?1572489973
+oracle_text: Whenever this creature deals combat damage to a creature, tap that creature. It doesn't untap during its controller's next untap step.
 ---
 
 # Queen of Ice (Throne of Eldraine)

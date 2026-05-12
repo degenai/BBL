@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "portrait-mode", "three-quarter", "female-figu
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/122-venomous-hierophant.png
 average_cost_paid: 0
 market_price: 0.16
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/d/9dc2b661-2f4
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+artist: Johannes Voss
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/122-venomous-hierophant--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/d/9dc2b661-2f42-419d-837f-bbf097c1153c.jpg?1581480034
+flavor_text: \"Many have sought snake-twined Pharika's panacea. Do you wish to share their fate?\"
+oracle_text: Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nWhen this creature enters, mill three cards. (Put the top three cards of your library into your graveyard.)
 ---
 
 # Venomous Hierophant (Theros Beyond Death)

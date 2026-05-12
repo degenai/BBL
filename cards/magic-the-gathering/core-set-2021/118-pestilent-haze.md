@@ -15,9 +15,9 @@ tags_filter: ["duo", "2-figures", "mid-shot", "three-quarter", "no-clear-face", 
 reference_image: cards/_images/magic-the-gathering/core-set-2021/118-pestilent-haze.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/8/08b78aa8-a63
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Sidharth Chaturvedi
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/118-pestilent-haze--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/8/08b78aa8-a63a-4aa2-bb82-3fbf2595ed7c.jpg?1594736339
+flavor_text: \"Your crops will rot. The air itself will turn against you. You will suffer as I have suffered.\"\n—Karaz, outcast
+oracle_text: Choose one —\n• All creatures get -2/-2 until end of turn.\n• Remove two loyalty counters from each planeswalker.
 ---
 
 # Pestilent Haze (Core Set 2021)

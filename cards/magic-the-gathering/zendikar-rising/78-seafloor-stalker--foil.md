@@ -15,9 +15,9 @@ tags_filter: ["solo", "scene-mode", "three-quarter-facing", "blue-magic", "creat
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/78-seafloor-stalker--foil.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/8/985e9696-6c7
 mood: grim
 time_of_day: indeterminate
 setting: ocean
+artist: Cristi Balanescu
+art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/78-seafloor-stalker--foil--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/8/985e9696-6c76-4241-97fc-f166fe2420ce.jpg?1604231466
+flavor_text: \"Sunken ruins? My specialty.\"
+oracle_text: {4}{U}: This creature gets +1/+0 until end of turn and can't be blocked this turn. This ability costs {1} less to activate for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)
 ---
 
 # Seafloor Stalker (Zendikar Rising)

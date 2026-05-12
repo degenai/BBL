@@ -15,9 +15,9 @@ tags_filter: ["duo", "scene-mode", "action", "three-quarter", "instant", "black-
 reference_image: cards/_images/magic-the-gathering/core-set-2021/99-finishing-blow.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/2/b/2b85a552-211
 mood: action
 time_of_day: indeterminate
 setting: other
+artist: Wylie Beckert
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/99-finishing-blow--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/b/2b85a552-2119-4d9c-b7c1-c09c2d9f2f38.jpg?1594736130
+flavor_text: \"In this world, it's kill or be killed. I'd rather not be the latter.\"
+oracle_text: Destroy target creature or planeswalker.
 ---
 
 # Finishing Blow (Core Set 2021)

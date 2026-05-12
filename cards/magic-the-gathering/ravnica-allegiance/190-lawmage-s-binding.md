@@ -15,9 +15,9 @@ tags_filter: ["group", "trio", "3-figures", "mid-shot", "forward-facing", "scene
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/190-lawmage-s-binding.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/a/8/a8a7be1f-3fb
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+artist: Mark Behm
+art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/190-lawmage-s-binding--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/8/a8a7be1f-3fba-4ff2-a4f1-aebd3d20da8f.jpg?1584831664
+oracle_text: Flash\nEnchant creature\nEnchanted creature can't attack or block, and its activated abilities can't be activated.
 ---
 
 # Lawmage's Binding (Ravnica Allegiance)
@@ -52,7 +56,7 @@ A red-skinned, sharply-horned creature is suspended in the center of the frame, 
 
 - **Set context** — Lawmages on Ravnica belong to the Azorius Senate's Lyev Column and "create spells that compel or restrain beings," serving a constabulary / arrest function in outlying districts `[MTG Wiki: Azorius Senate]`.
 - **Design** — Designed as the Azorius entry in Ravnica Allegiance's guild-common removal cycle. Hipsters of the Coast's set-design review notes it is the first instant-speed Pacifism variant ever printed and flags it as a possible footgun at common, since "such a card won't remove a creature from combat even though it looks like it would" — while still calling it "just amazing" `[Hipsters of the Coast: "The Designs of Ravnica Allegiance" (2019-01)]`.
-- **Design** — Illustrated by Mark Behm (roughly 60 MTG art credits across multiple sets) `[Scryfall artist search: Mark Behm]`. Reprinted in Jumpstart as JMP #453 and circulated through "The List" Set Booster reprints `[Scryfall: JMP #453; Nerd Rage Gaming: The List Reprints listing]`.
+- **Design** — Illustrated by Mark Behm (roughly 60 MTG art credits across multiple sets) `[Scryfall artist search: Mark Behm]`. Reprinted in Jumpstart as JMP no. 453 and circulated through "The List" Set Booster reprints `[Scryfall: JMP no. 453; Nerd Rage Gaming: The List Reprints listing]`.
 - **Flavor text** — No flavor text on the Ravnica Allegiance printing; the textbox is pure rules (Flash; Enchant creature; enchanted creature can't attack or block, and its activated abilities can't be activated) `[MythicSpoiler: rna/lawmagesbinding]`.
 - **Mechanical reputation** — Niche in Commander: appears in roughly 3.85K decks at a 0.19% inclusion rate, leaning into enchantress / pillowfort shells under commanders like Zur the Enchanter, Tuvasa the Sunlit, and Grand Arbiter Augustin IV; top listed synergy partners are Prison Realm, Martial Law, Archon of the Triumvirate, and Arrest `[EDHREC: Lawmage's Binding]`.
 

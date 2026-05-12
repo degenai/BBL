@@ -14,10 +14,10 @@ tags_hub: ["nightmare", "dream", "stone", "carving", "relief", "sculpture", "swo
 tags_filter: ["black-magic", "enchantment", "saga", "scene-mode", "narrative-mode", "no-face", "group", "portrait-orientation", "monochrome-palette"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/91-elspeth-s-nightmare.png
 average_cost_paid: 0
-market_price: 0.16
-market_price_as_of: 2026-05-10
+market_price: 0.17
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/7/37ccd974-d2b
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Jason Rainville
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/91-elspeth-s-nightmare--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/7/37ccd974-d2bc-4fcf-94a7-0a868a04cb98.jpg?1586801044
+oracle_text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Destroy target creature an opponent controls with power 2 or less.\nII — Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.\nIII — Exile target opponent's graveyard.
 ---
 
 # Elspeth's Nightmare (Theros Beyond Death)

@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "female-fig
 reference_image: cards/_images/magic-the-gathering/ultimate-masters/209-vengeful-rebirth.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Ultimate Masters'
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/0/b03bb160-811
 mood: sublime
 time_of_day: indeterminate
 setting: other
+artist: Seb McKinnon
+art_crop_image: cards/_images/magic-the-gathering/ultimate-masters/209-vengeful-rebirth--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/0/b03bb160-8113-409a-a130-2b3fdc476e6a.jpg?1547518128
+oracle_text: Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's mana value to any target.\nExile Vengeful Rebirth.
 ---
 
 # Vengeful Rebirth (Ultimate Masters)

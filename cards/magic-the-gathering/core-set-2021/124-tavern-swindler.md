@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "female-fig
 reference_image: cards/_images/magic-the-gathering/core-set-2021/124-tavern-swindler.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/d/0/d00850e4-6be
 mood: other
 time_of_day: night
 setting: indoor
+artist: Cynthia Sheppard
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/124-tavern-swindler--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/0/d00850e4-6be3-4246-ae45-c0e990e6d6e1.jpg?1594736401
+flavor_text: Rakdos cultists are her best customers. They never flinch at pain and are seldom good at math.
+oracle_text: {T}, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life.
 ---
 
 # Tavern Swindler (Core Set 2021)

@@ -14,10 +14,10 @@ tags_hub: ["castle", "drawbridge", "knights", "siege", "charge", "beacon", "armo
 tags_filter: ["group", "wide-shot", "scene-mode", "no-face", "forward-facing", "artifact", "creature-wall", "colorless", "defender", "haste-grant"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/217-crashing-drawbridge.png
 average_cost_paid: 0
-market_price: 0.54
-market_price_as_of: 2026-05-10
+market_price: 0.57
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/7/b7d7108f-635
 mood: action
 time_of_day: day
 setting: other
+artist: Mark Behm
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/217-crashing-drawbridge--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/7/b7d7108f-635c-423b-988a-bc8fc4c6edef.jpg?1572490956
+flavor_text: \"The Northern Beacon flared, and even before the drawbridge finished its descent, the knights charged out.\"\n—*Legend of the Gilded Knights*
+oracle_text: Defender\n{T}: Creatures you control gain haste until end of turn.
 ---
 
 # Crashing Drawbridge (Throne of Eldraine)

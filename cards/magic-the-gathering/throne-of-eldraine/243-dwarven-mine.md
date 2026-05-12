@@ -14,10 +14,10 @@ tags_hub: ["dwarves", "mine", "underground", "forge", "industry", "bridge", "cav
 tags_filter: ["wide-shot", "scene-mode", "crowd", "no-face", "land-card", "land-mountain", "red-magic", "warm-palette", "no-figure-focus"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/243-dwarven-mine.png
 average_cost_paid: 0
-market_price: 0.37
-market_price_as_of: 2026-05-10
+market_price: 0.36
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/5/c/5c83074d-0c9
 mood: sublime
 time_of_day: indeterminate
 setting: dungeon
+artist: Alexander Forssberg
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/243-dwarven-mine--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/c/5c83074d-0c9b-4b58-94ca-d75240485579.jpg?1572491198
+oracle_text: ({T}: Add {R}.)\nThis land enters tapped unless you control three or more other Mountains.\nWhen this land enters untapped, create a 1/1 red Dwarf creature token.
 ---
 
 # Dwarven Mine (Throne of Eldraine)

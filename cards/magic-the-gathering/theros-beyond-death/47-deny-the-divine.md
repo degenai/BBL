@@ -15,9 +15,9 @@ tags_filter: ["scene-mode", "wide-shot", "no-figure", "blue-magic", "instant", "
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/47-deny-the-divine.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/1/2/1200f68a-a8e
 mood: sublime
 time_of_day: night
 setting: ocean
+artist: Yigit Koroglu
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/47-deny-the-divine--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/2/1200f68a-a8ea-4777-b6b0-de48b2203fd1.jpg?1588900840
+flavor_text: \"A great wave crashed, and a mighty wind blew out the stars.\"\n—*The Cosmogony*
+oracle_text: Counter target creature or enchantment spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
 ---
 
 # Deny the Divine (Theros Beyond Death)

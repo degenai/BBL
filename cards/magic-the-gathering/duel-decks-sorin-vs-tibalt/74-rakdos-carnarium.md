@@ -15,9 +15,9 @@ tags_filter: ["wide-shot", "scene-mode", "no-face", "no-figure-focus", "land", "
 reference_image: cards/_images/magic-the-gathering/duel-decks-sorin-vs-tibalt/74-rakdos-carnarium.png
 average_cost_paid: 0
 market_price: 0.44
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/4/2/42bba982-aa0
 mood: grim
 time_of_day: indeterminate
 setting: dungeon
+artist: John Avon
+art_crop_image: cards/_images/magic-the-gathering/duel-decks-sorin-vs-tibalt/74-rakdos-carnarium--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/2/42bba982-aa07-4dcb-becb-1568021a94fc.jpg?1592714692
+oracle_text: This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {B}{R}.
 ---
 
 # Rakdos Carnarium (Duel Decks: Sorin vs. Tibalt)

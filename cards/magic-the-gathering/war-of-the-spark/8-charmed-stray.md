@@ -15,9 +15,9 @@ tags_filter: ["duo", "2-figures", "mid-shot", "forward-facing", "portrait-mode",
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/8-charmed-stray.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/5/357513b9-050
 mood: cozy
 time_of_day: indeterminate
 setting: urban
+artist: Chris Rahn
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/8-charmed-stray--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/5/357513b9-0505-4b67-9a29-36a705a175b1.jpg?1557575904
+flavor_text: \"There's something peculiar about the cats today.\"\n—Janoc, Tin Street tinker
+oracle_text: Lifelink\nWhen this creature enters, put a +1/+1 counter on each other creature you control named Charmed Stray.
 ---
 
 # Charmed Stray (War of the Spark)

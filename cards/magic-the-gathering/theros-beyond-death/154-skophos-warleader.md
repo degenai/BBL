@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "male-figure"
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/154-skophos-warleader.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/5/9/59c39c70-836
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Svetlin Velinov
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/154-skophos-warleader--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/9/59c39c70-8360-4c7c-b5fa-61c42828609a.jpg?1581480410
+flavor_text: The minotaur polis of Skophos boasts grand temples to the god of slaughter.
+oracle_text: {R}, Sacrifice another creature or an enchantment: This creature gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)
 ---
 
 # Skophos Warleader (Theros Beyond Death)

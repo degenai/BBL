@@ -15,15 +15,20 @@ tags_filter: ["duo", "wide-shot", "scene-mode", "three-quarter-facing", "green-m
 reference_image: cards/_images/magic-the-gathering/aetherdrift/156-broken-wings.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-10
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/1/d/1d7d5b71-7c1b-4fc2-a5ec-7285e17ffe0f.png?1738356489
 art_match_confidence: high
 needs_manual_review: false
 mood: action
 time_of_day: day
 setting: desert
+artist: Nils Hamm
+art_crop_image: cards/_images/magic-the-gathering/aetherdrift/156-broken-wings--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/d/1d7d5b71-7c1b-4fc2-a5ec-7285e17ffe0f.jpg?1738356489
+flavor_text: An early lead puts a target on your back.
+oracle_text: Destroy target artifact, enchantment, or creature with flying.
 ---
 
 # Broken Wings (Aetherdrift)

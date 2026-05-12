@@ -15,9 +15,9 @@ tags_filter: ["solo", "forward-facing", "mid-shot", "action-mode", "no-face", "r
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/124-devouring-hellion.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/8/8/88205574-bf2
 mood: horror
 time_of_day: indeterminate
 setting: other
+artist: Bayard Wu
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/124-devouring-hellion--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/8/88205574-bf2b-46e7-aac7-4b8ea217f94c.jpg?1557576672
+flavor_text: There's no crisis a hellion can't make worse.
+oracle_text: As this creature enters, you may sacrifice any number of creatures and/or planeswalkers. If you do, it enters with twice that many +1/+1 counters on it.
 ---
 
 # Devouring Hellion (War of the Spark)

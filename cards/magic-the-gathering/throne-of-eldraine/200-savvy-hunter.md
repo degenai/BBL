@@ -14,16 +14,21 @@ tags_hub: ["hunter", "archer", "bow", "stag", "deer", "forest", "snow", "winter"
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "female-figure", "action-mode", "creature-human", "creature-warrior", "black-magic", "green-magic", "multicolor-black-green", "sacrifice-payoff", "food-token", "card-draw"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/200-savvy-hunter.png
 average_cost_paid: 0
-market_price: 0.23
-market_price_as_of: 2026-05-10
+market_price: 0.22
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/1/5/15c98441-2b31-4e48-a399-f36dffcfa41d.png?1572490818
 art_match_confidence: high
 needs_manual_review: false
 mood: other
 time_of_day: indeterminate
 setting: forest
+artist: Dan Dos Santos
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/200-savvy-hunter--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/5/15c98441-2b31-4e48-a399-f36dffcfa41d.jpg?1572490818
+flavor_text: None of the other villagers dare venture into the wilds, so she feeds the whole hamlet herself.
+oracle_text: Whenever this creature attacks or blocks, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nSacrifice two Foods: Draw a card.
 ---
 
 # Savvy Hunter (Throne of Eldraine)

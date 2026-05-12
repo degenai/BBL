@@ -1,7 +1,7 @@
 ---
 name: Conifer Strider
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 179
 rarity: C
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "no-face", "cr
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/179-conifer-strider.png
 average_cost_paid: 0
 market_price: 0.22
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: sublime
 time_of_day: indeterminate
 setting: mountain
 the_list_source_set: DTK
+artist: YW Tang
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/179-conifer-strider--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/a/baac2239-789a-42e6-8eb6-0b26836efb64.jpg?1573513371
+flavor_text: Atarka's presence thaws the glaciers of Qal Sisma, forcing its elementals to migrate or adapt.
+oracle_text: Hexproof (This creature can't be the target of spells or abilities your opponents control.)
 ---
 
 # Conifer Strider (Mystery Booster Cards)

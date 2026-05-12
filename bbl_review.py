@@ -145,16 +145,40 @@ def cmd_build(_args: argparse.Namespace) -> int:
     return 0
 
 
+def _count_enriched_on_disk() -> int:
+    """Count cards in cards/ whose frontmatter currently shows a non-empty
+    tags_hub. Used to detect drift between the queue file and reality."""
+    cards_dir = ROOT / "cards"
+    if not cards_dir.exists():
+        return 0
+    count = 0
+    for p in cards_dir.rglob("*.md"):
+        if any(seg.startswith("_") for seg in p.parts):
+            continue  # skip _hubs/_symbols/_artists/_images
+        if is_currently_enriched(p):
+            count += 1
+    return count
+
+
 def cmd_status(_args: argparse.Namespace) -> int:
     queue = read_queue()
     cursor = read_cursor()
     total = len(queue)
     remaining = max(0, total - cursor)
     pct = (cursor / total * 100) if total else 0.0
+    on_disk = _count_enriched_on_disk()
+    drift = on_disk - total
     print(f"Total enriched cards in queue:  {total}")
+    print(f"Enriched cards on disk:         {on_disk}")
     print(f"Cursor (next to review):        {cursor}")
     print(f"Reviewed so far:                {cursor}  ({pct:.1f}%)")
     print(f"Remaining:                      {remaining}")
+    if drift > 0:
+        print(f"\n  ! Queue is stale by {drift} card(s) — enriched on disk but not in queue.")
+        print(f"    Run `python bbl_review.py build` to refresh the queue.")
+    elif drift < 0:
+        print(f"\n  ! Queue lists {-drift} card(s) that are no longer enriched on disk.")
+        print(f"    (Possible: cards reverted or moved.) Run `python bbl_review.py build`.")
     if cursor < total:
         print(f"\nNext card: {queue[cursor]}")
     return 0

@@ -15,15 +15,20 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "instant", 
 reference_image: cards/_images/magic-the-gathering/aetherdrift/155-bestow-greatness.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-10
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/b/6/b6a5adee-3482-4c5b-9260-58efa8fec5ba.png?1738356483
 art_match_confidence: high
 needs_manual_review: false
 mood: comedic
 time_of_day: indeterminate
 setting: other
+artist: Jeff Carpenter
+art_crop_image: cards/_images/magic-the-gathering/aetherdrift/155-bestow-greatness--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/6/b6a5adee-3482-4c5b-9260-58efa8fec5ba.jpg?1738356483
+flavor_text: Exercise kindness, for nothing remains small forever.\n—Alacrian proverb
+oracle_text: Target creature gets +4/+4 and gains trample until end of turn.
 ---
 
 # Bestow Greatness (Aetherdrift)

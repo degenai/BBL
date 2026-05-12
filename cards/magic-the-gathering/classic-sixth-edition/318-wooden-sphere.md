@@ -2,7 +2,7 @@
 name: Wooden Sphere
 game: Magic: The Gathering
 set: Classic: Sixth Edition
-collector_number: 318
+collector_number: 
 rarity: U
 variance: Normal
 grade: Ungraded
@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "no-face", "mid-shot", "centered", "abstract-mode", 
 reference_image: cards/_images/magic-the-gathering/classic-sixth-edition/318-wooden-sphere.png
 average_cost_paid: 0
 market_price: 0.24
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/e/f/ef706d86-6e7f-4f3a-9e4d-8aa6d9aac74a.png?1562824402
 art_match_confidence: high
 needs_manual_review: false
@@ -25,6 +25,10 @@ manual_review_reason:
 mood: peaceful
 time_of_day: day
 setting: forest
+artist: Donato Giancola
+art_crop_image: cards/_images/magic-the-gathering/classic-sixth-edition/318-wooden-sphere--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/f/ef706d86-6e7f-4f3a-9e4d-8aa6d9aac74a.jpg?1562824402
+oracle_text: Whenever a player casts a green spell, you may pay {1}. If you do, you gain 1 life.
 ---
 
 # Wooden Sphere (Classic: Sixth Edition)

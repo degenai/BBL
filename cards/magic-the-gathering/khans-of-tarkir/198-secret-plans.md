@@ -15,9 +15,9 @@ tags_filter: ["solo", "close-up", "portrait-mode", "forward-facing", "no-human",
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/198-secret-plans.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/1/01589046-a96
 mood: grim
 time_of_day: indeterminate
 setting: void
+artist: Daarken
+art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/198-secret-plans--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/1/01589046-a969-400f-b4ac-90cbbb814504.jpg?1562781791
+flavor_text: Rakshasa trade in secrets, amassing wealth from their careful revelation.
+oracle_text: Face-down creatures you control get +0/+1.\nWhenever a permanent you control is turned face up, draw a card.
 ---
 
 # Secret Plans (Khans of Tarkir)

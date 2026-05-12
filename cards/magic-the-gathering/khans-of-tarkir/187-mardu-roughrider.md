@@ -15,9 +15,9 @@ tags_filter: ["duo", "mid-shot", "forward-facing", "action-mode", "male-figure",
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/187-mardu-roughrider.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/d/6/d6341345-55a
 mood: action
 time_of_day: indeterminate
 setting: other
+artist: Kev Walker
+art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/187-mardu-roughrider--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/6/d6341345-55a6-43f3-915a-c03afea92ec3.jpg?1562794206
+flavor_text: The most ferocious saddlebrutes lead the assault, ramming through massed pikes and stout barricades as if they were paper and silk.
+oracle_text: Whenever this creature attacks, target creature can't block this turn.
 ---
 
 # Mardu Roughrider (Khans of Tarkir)

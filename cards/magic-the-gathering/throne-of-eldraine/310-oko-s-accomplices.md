@@ -15,15 +15,20 @@ tags_filter: ["mid-shot", "portrait-mode", "2-figures", "three-quarter-facing", 
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/310-oko-s-accomplices.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/7/1/71c52b50-35aa-4858-8c8e-c81dcb29a7fc.png?1572482736
 art_match_confidence: high
 needs_manual_review: false
 mood: comedic
 time_of_day: indeterminate
 setting: other
+artist: Zezhou Chen
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/310-oko-s-accomplices--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/1/71c52b50-35aa-4858-8c8e-c81dcb29a7fc.jpg?1572482736
+flavor_text: They function as everything from assassins to jesters in the name of their fae king.
+oracle_text: Flying
 ---
 
 # Oko's Accomplices (Throne of Eldraine)

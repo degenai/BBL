@@ -1,7 +1,7 @@
 ---
 name: Ensoul Artifact
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 54
 rarity: U
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "close-up", "object-focus", "blue-magic", "enchantme
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/54-ensoul-artifact.png
 average_cost_paid: 0
 market_price: 0.3
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: sublime
 time_of_day: indeterminate
 setting: indoor
 the_list_source_set: M15
+artist: Jasper Sandner
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/54-ensoul-artifact--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/7/c706a6b4-32cb-4fe9-97f5-289f8c499ae8.jpg?1573507444
+flavor_text: Too often, some self-described genius comes up with a \"labor-saving device\" that ends up creating far more work.
+oracle_text: Enchant artifact\nEnchanted artifact is a creature with base power and toughness 5/5 in addition to its other types.
 ---
 
 # Ensoul Artifact (Mystery Booster Cards)

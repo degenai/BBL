@@ -14,10 +14,10 @@ tags_hub: ["mountain", "canyon", "desert", "cliffs", "landscape", "wilderness", 
 tags_filter: ["wide-shot", "scene-mode", "no-face", "no-figure-count", "basic-land", "land", "red-magic", "no-figure"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/253-mountain.png
 average_cost_paid: 0
-market_price: 1.49
-market_price_as_of: 2026-05-10
+market_price: 1.54
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/d/c/dc3f4154-934
 mood: sublime
 time_of_day: day
 setting: mountain
+artist: Sam Burley
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/253-mountain--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/c/dc3f4154-9347-4ceb-8744-9f1ace90d33f.jpg?1581482260
+oracle_text: ({T}: Add {R}.)
 ---
 
 # Mountain (Theros Beyond Death)

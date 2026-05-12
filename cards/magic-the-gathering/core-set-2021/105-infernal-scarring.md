@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "faces-away", "portrait-mode", "male-figure", 
 reference_image: cards/_images/magic-the-gathering/core-set-2021/105-infernal-scarring.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/7/975e4b8e-add
 mood: grim
 time_of_day: indeterminate
 setting: void
+artist: Mike Bierek
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/105-infernal-scarring--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/7/975e4b8e-add9-439c-9463-e2facee96c10.jpg?1594736195
+flavor_text: One who is marked by a demon in life is sure to be remembered as one in death.
+oracle_text: Enchant creature\nEnchanted creature gets +2/+0 and has \"When this creature dies, draw a card.\"
 ---
 
 # Infernal Scarring (Core Set 2021)

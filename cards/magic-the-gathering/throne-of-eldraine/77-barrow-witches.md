@@ -15,9 +15,9 @@ tags_filter: ["duo", "2-figures", "plus-one-corpse", "mid-shot", "scene-mode", "
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/77-barrow-witches.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/4/5/45707c22-fce
 mood: grim
 time_of_day: night
 setting: dungeon
+artist: Alex Brock
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/77-barrow-witches--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/5/45707c22-fce8-4dbd-9d19-73f08c68f449.jpg?1572490072
+flavor_text: \"Taste the sweetness, breath for breath. Keep the balance, death for death.\"\n—Barrow witch incantation
+oracle_text: When this creature enters, return target Knight card from your graveyard to your hand.
 ---
 
 # Barrow Witches (Throne of Eldraine)

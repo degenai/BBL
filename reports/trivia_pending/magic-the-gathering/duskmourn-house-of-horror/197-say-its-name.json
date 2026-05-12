@@ -1,0 +1,48 @@
+{
+  "card_name": "Say Its Name",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "197",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag from vision pass. Card depicts an unnamed, generic horror-trope scene (cracked mirror, infested reflection); no external-IP risk. The named entity in the oracle text (Altanak, the Thrice-Called) is an in-universe Duskmourn creature, not an external IP.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmourn: House of Horror is the 102nd MTG expansion (released 2024-09-27), a top-down horror plane consisting of a single plane-spanning haunted house ruled by the demonic Valgavoth, whose wings condemn everyone inside to feed his hunger for terror [Wizards: Planeswalker's Guide to Duskmourn][MTG Wiki: Duskmourn, via WebSearch snippet].",
+      "sources": ["Wizards: Planeswalker's Guide to Duskmourn", "MTG Wiki: Duskmourn"]
+    },
+    {
+      "category": "design",
+      "text": "The card pairs with Altanak, the Thrice-Called (no. 166, same set), a 9/9 trample legendary Insect Beast — the 'Thrice-Called' epithet is the mechanic: exile three copies of Say Its Name from your graveyard to summon Altanak [Scryfall: Altanak, the Thrice-Called]. Wargamer and CoolStuffInc both read this as a deliberate reference to the speak-the-monster's-name-three-times horror trope (Bloody Mary, Candyman, Beetlejuice); the giant-insect payoff makes Beetlejuice the most pointed pun, though the cracked-mirror art skews Bloody Mary / Candyman [Wargamer: 'MTG Duskmourn's latest horror reference is a Beetlejuice Beetle'][CoolStuffInc: Travis Hall, 'Altanak, Altanak, Altanak'].",
+      "sources": ["Scryfall: Altanak, the Thrice-Called", "Wargamer: duskmourn-beetlejuice-card", "CoolStuffInc: Travis Hall 'Altanak, Altanak, Altanak'"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Sam Wolfe Connelly has been doing MTG art since Avacyn Restored (2012), including the 2013 Judge Gift promo Swords to Plowshares, and contributed multiple Duskmourn pieces — Say Its Name, Altanak, Fear of the Dark, and The Swarmweaver (the last two being Connelly's 'Double Exposure' showcase entries). Connelly works primarily in Conte (an oily chalk medium); Say Its Name began as a Conte drawing with significant digital additions added on top [Commander's Herald: 'Double Exposed: A Chat with Sam Wolfe Connelly,' Nick Wolf, 2024-09-05].",
+      "sources": ["Commander's Herald: Double Exposed: A Chat with Sam Wolfe Connelly"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Common at rarity, EDHREC rank 16548 (low Commander adoption); reads as Limited / draft-archetype 'glue' rather than a Constructed staple — Travis Hall calls it a card that 'barely makes the line of playability on its own,' redeemed by its role as the three-piece key to the Altanak combo [CoolStuffInc: Travis Hall][Scryfall edhrec_rank]. The combo is buildable in draft because Say Its Name is common and Altanak is only uncommon, an unusually low rarity floor for a 9/9 build-around payoff [Wargamer].",
+      "sources": ["CoolStuffInc: Travis Hall 'Altanak, Altanak, Altanak'", "Scryfall", "Wargamer: duskmourn-beetlejuice-card"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Card has no printed flavor text — the flavor work is done entirely by the card name, the oracle-text ritual (\"two other cards named Say Its Name\"), and the cracked-mirror infested-reflection art [Scryfall].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Altanak, the Thrice-Called", "set": "Duskmourn: House of Horror", "note": "The payoff creature this card searches for; explicitly named in oracle text. Same artist (Sam Wolfe Connelly). Not in current inventory — orphan candidate."},
+    {"name": "Fear of the Dark", "set": "Duskmourn: House of Horror", "note": "Same artist (Sam Wolfe Connelly), same Conte medium per Commander's Herald interview. Part of the Connelly Duskmourn cluster. Not in current inventory."},
+    {"name": "The Swarmweaver", "set": "Duskmourn: House of Horror", "note": "Same artist (Sam Wolfe Connelly), Double Exposure showcase legendary, green-aligned insect/swarm flavor — adjacent to Altanak's insect-beast payoff. Not in current inventory."},
+    {"name": "Spineseeker Centipede", "set": "Duskmourn: House of Horror", "note": "In current inventory (no. 199). Same set, green segmented-creature flavor — visually adjacent to the chitinous mandibles framing Say Its Name's reflection."},
+    {"name": "Overlord of the Balemurk", "set": "Duskmourn: House of Horror", "note": "Travis Hall's Standard build around Altanak slots Overlord as the early-game graveyard filler that pairs with Say Its Name. Not in current inventory."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

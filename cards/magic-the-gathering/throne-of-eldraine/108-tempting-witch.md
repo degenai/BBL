@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "no-face", "creature-human",
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/108-tempting-witch.png
 average_cost_paid: 0
 market_price: 0.24
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/8/b/8b217e5a-3c1
 mood: grim
 time_of_day: night
 setting: other
+artist: Mila Pesic
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/108-tempting-witch--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/b/8b217e5a-3c18-48b4-8124-b8c4fd7b2df1.jpg?1572490260
+flavor_text: \"Murder clad in crimson beauty,\nAn end to life and love and duty.\"\n—Barrow witch incantation
+oracle_text: When this creature enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\n{2}, {T}, Sacrifice a Food: Target player loses 3 life.
 ---
 
 # Tempting Witch (Throne of Eldraine)

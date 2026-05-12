@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", 
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/224-polukranos-unchained.png
 average_cost_paid: 0
 market_price: 0.74
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/8/7/87858278-632
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Chris Rahn
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/224-polukranos-unchained--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/7/87858278-632c-4d82-b3a3-adfc6f2f4fc6.jpg?1581481126
+oracle_text: Polukranos enters with six +1/+1 counters on it. It escapes with twelve +1/+1 counters on it instead.\nIf damage would be dealt to Polukranos while it has a +1/+1 counter on it, prevent that damage and remove that many +1/+1 counters from it.\n{1}{B}{G}: Polukranos fights another target creature.\nEscape—{4}{B}{G}, Exile six other cards from your graveyard.
 ---
 
 # Polukranos, Unchained (Theros Beyond Death)

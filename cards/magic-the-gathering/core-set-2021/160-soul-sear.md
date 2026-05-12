@@ -15,15 +15,20 @@ tags_filter: ["wide-shot", "action-mode", "duo", "faces-right", "instant", "red-
 reference_image: cards/_images/magic-the-gathering/core-set-2021/160-soul-sear.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/6/2/62584e4f-dac1-4d99-ac0a-6a2451603889.png?1594736775
 art_match_confidence: high
 needs_manual_review: false
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Mathias Kollros
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/160-soul-sear--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/2/62584e4f-dac1-4d99-ac0a-6a2451603889.jpg?1594736775
+flavor_text: There was no witty retort, no confident boast to accompany the attack. There was only pain.
+oracle_text: Soul Sear deals 5 damage to target creature or planeswalker. That permanent loses indestructible until end of turn.
 ---
 
 # Soul Sear (Core Set 2021)

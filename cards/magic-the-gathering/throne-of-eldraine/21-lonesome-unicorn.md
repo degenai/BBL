@@ -14,10 +14,10 @@ tags_hub: ["unicorn", "forest", "bridge", "pilgrim", "robed-figure", "horse", "f
 tags_filter: ["duo", "mid-shot", "faces-left", "scene-mode", "no-face", "white-magic", "creature-unicorn", "vigilance", "adventure-card"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/21-lonesome-unicorn.png
 average_cost_paid: 0
-market_price: 0.15
-market_price_as_of: 2026-05-10
+market_price: 0.16
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/9/99083707-215
 mood: peaceful
 time_of_day: day
 setting: forest
+artist: Winona Nelson
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/21-lonesome-unicorn--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/9/99083707-2152-42c0-b5c3-b4f97ec20190.jpg?1572489726
+oracle_text: Vigilance
 ---
 
 # Lonesome Unicorn (Throne of Eldraine)

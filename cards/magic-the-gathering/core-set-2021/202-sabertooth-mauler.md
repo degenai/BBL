@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter-facing", "faces-left", "action-
 reference_image: cards/_images/magic-the-gathering/core-set-2021/202-sabertooth-mauler.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/f/e/fe39e38e-76e
 mood: action
 time_of_day: day
 setting: forest
+artist: Randy Vargas
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/202-sabertooth-mauler--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/e/fe39e38e-76e5-4883-b530-d3e30e88ccad.jpg?1594737189
+flavor_text: \"I hope the idiot who introduced these creatures to the jungle was their first meal.\"\n—Opar, veteran guide
+oracle_text: At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on this creature and untap it.
 ---
 
 # Sabertooth Mauler (Core Set 2021)

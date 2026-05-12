@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "no-face", "action-pose", "cr
 reference_image: cards/_images/magic-the-gathering/theros/204-spellheart-chimera.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/a/0a19670c-5af
 mood: action
 time_of_day: day
 setting: other
+artist: Svetlin Velinov
+art_crop_image: cards/_images/magic-the-gathering/theros/204-spellheart-chimera--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/a/0a19670c-5afa-4e22-b3ff-258faca19556.jpg?1562814464
+flavor_text: Thaumaturges remain silent around chimeras, lest their words conjure even stranger beasts.
+oracle_text: Flying, trample\nSpellheart Chimera's power is equal to the number of instant and sorcery cards in your graveyard.
 ---
 
 # Spellheart Chimera (Theros)

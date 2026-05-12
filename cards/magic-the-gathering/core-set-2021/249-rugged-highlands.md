@@ -14,10 +14,10 @@ tags_hub: ["mountain", "forest", "lake", "wilderness", "landscape", "peaks", "ev
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "dual-land", "red-magic-green-magic", "daytime"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/249-rugged-highlands.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-10
+market_price: 0.11
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/9/d/9daef8db-56a5-4b1e-b4bf-734d0516557c.png?1594737663
 art_match_confidence: high
 needs_manual_review: false
@@ -25,6 +25,10 @@ manual_review_reason: No reference image found via scryfall for set 'Core Set 20
 mood: sublime
 time_of_day: day
 setting: mountain
+artist: Eytan Zana
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/249-rugged-highlands--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/d/9daef8db-56a5-4b1e-b4bf-734d0516557c.jpg?1594737663
+oracle_text: This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {R} or {G}.
 ---
 
 # Rugged Highlands (Core Set 2021)

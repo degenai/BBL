@@ -15,15 +15,20 @@ tags_filter: ["solo", "close-up", "forward-facing", "portrait-mode", "creature-o
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/311-bramblefort-fink.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/f/c/fc83a142-9d0f-4a39-baeb-4e2f62009204.png?1572482742
 art_match_confidence: high
 needs_manual_review: false
 mood: other
 time_of_day: magic-hour
 setting: forest
+artist: Uriah Voth
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/311-bramblefort-fink--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/c/fc83a142-9d0f-4a39-baeb-4e2f62009204.jpg?1572482742
+flavor_text: No matter the cruelty of Oko's jokes, he's always guaranteed the sycophant's laughter.
+oracle_text: {8}: This creature has base power and toughness 10/10 until end of turn. Activate only if you control an Oko planeswalker.
 ---
 
 # Bramblefort Fink (Throne of Eldraine)

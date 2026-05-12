@@ -14,10 +14,10 @@ tags_hub: ["goblin", "thief", "rogue", "loot", "treasure", "rummaging", "scaveng
 tags_filter: ["solo", "mid-shot", "three-quarter", "narrative-mode", "creature-goblin", "creature-rogue", "red-magic", "discard", "card-draw", "looter", "single-figure", "indoor-scene"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/198-rummaging-goblin.png
 average_cost_paid: 0
-market_price: 0.24
-market_price_as_of: 2026-05-10
+market_price: 0.23
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/2/5/254391a3-c12
 mood: comedic
 time_of_day: indeterminate
 setting: indoor
+artist: Karl Kopinski
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/198-rummaging-goblin--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/5/254391a3-c12a-4944-9da5-ae166094480f.jpg?1608910383
+flavor_text: To a goblin, value is based on the four S's: shiny, stabby, smelly, and super smelly.
+oracle_text: {T}, Discard a card: Draw a card.
 ---
 
 # Rummaging Goblin (Commander Legends)

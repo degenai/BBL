@@ -1,0 +1,48 @@
+{
+  "card_name": "Opt",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "59",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Verified as Teferi Akosa. Scryfall flavor text on this exact printing explicitly names Teferi and references Jhoira (canonical Tolarian Academy ally) giving him a crystal containing his Planeswalker spark. The depicted figure (bald, dark-skinned, scholar's robes, cupping a glowing crystal) matches Teferi's M21-era visual continuity and the set's central story beat: Jhoira crafted a powerstone amulet at the Thran Mana Rig that returned Teferi's spark to him. Internal Wizards IP; no external crossover risk, so no separate ## IP callout block required.",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text reads: \"The crystal pulsed with the power of Teferi's Planeswalker spark. Had Jhoira given him a blessing or a curse?\" The crystal in the art IS Teferi's restored spark, contained in the powerstone amulet Jhoira crafted at the Thran Mana Rig in Shiv. [Scryfall flavor_text field; MTG Wiki: Teferi Akosa]",
+      "sources": ["Scryfall", "mtg.wiki: Teferi Akosa"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Core Set 2021 is the Teferi-themed core set: he is the marquee planeswalker, with a six-card cycle bearing his name (no. 75-78, plus the planeswalker-deck cards at no. 324 and 327). The set's story picks up sixty years after the Mending and centers on Teferi regaining his lost spark with help from Jhoira and the Weatherlight crew. [MTGGoldfish: \"The Lore of Core 2021\"; Scryfall set page m21]",
+      "sources": ["mtggoldfish.com/articles/the-lore-of-core-2021", "Scryfall set m21"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Tyler Jacobson. Opt was first printed in Invasion (2000) and has been reprinted many times; the M21 print is the first to re-skin the art around a specific named planeswalker rather than a generic mage. [Scryfall artist field; Scryfall prints_search_uri]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "One of the format-defining one-mana blue cantrips. EDHREC rank 212 across all MTG cards, making it one of the most-played blue instants in Commander. Legal in Standard, Pioneer, Modern, Legacy, Pauper, Vintage, and Commander as of this print. [Scryfall legalities + edhrec_rank fields]",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Jhoira (the flavor-text speaker referenced obliquely) is Teferi's centuries-old ally from the Tolarian Academy; in the Dominaria-era story she becomes captain of the Weatherlight and is the one who physically delivers the spark-bearing crystal depicted on Opt. The card thus quietly hinges on a millennium-long friendship between two Dominarian planeswalker-adjacent characters. [mtg.wiki: Teferi Akosa; MTGGoldfish lore summary]",
+      "sources": ["mtg.wiki: Teferi Akosa", "mtggoldfish.com/articles/the-lore-of-core-2021"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Teferi, Master of Time", "set": "Core Set 2021 (no. 75)", "note": "Same set, same character, the marquee mythic depicting Teferi after his spark is restored — directly the next narrative beat after the moment shown on Opt."},
+    {"name": "Teferi's Ageless Insight", "set": "Core Set 2021 (no. 76)", "note": "Same Teferi cycle; Chandra flavor text places it in the M21 character lineup. Cantrip-doubling enchantment thematically extends Opt's draw-trigger."},
+    {"name": "Teferi's Tutelage", "set": "Core Set 2021 (no. 78)", "note": "Same Teferi cycle; references Teferi's Tolarian time-magic legacy. Pairs mechanically with Opt as a mill engine fed by cantrips."},
+    {"name": "Teferi, Timeless Voyager", "set": "Core Set 2021 (no. 324)", "note": "Planeswalker-deck Teferi from the same set, same restored-spark story beat — included for completeness of the M21 Teferi appearance cycle."},
+    {"name": "Opt (Invasion, no. 73)", "set": "Invasion (2000)", "note": "The card's original printing, art and flavor unrelated to Teferi. Useful as a contrast point for the M21 re-skin's narrative role."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Teferi",
+    "ip_confidence": "high"
+  }
+}

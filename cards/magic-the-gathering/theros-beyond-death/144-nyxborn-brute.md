@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "male-figure", "action-mode",
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/144-nyxborn-brute.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/5/05bc4236-566
 mood: action
 time_of_day: night
 setting: void
+artist: Zoltan Boros
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/144-nyxborn-brute--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/5/05bc4236-566f-401b-b9d7-f58126fa228b.jpg?1581480309
+flavor_text: \"One-eyed and frightful, the cyclops\nlifted a boulder and hurled it\nseaward from cliff's edge, shattering\nmasts and scattering sailors.\"\n—*The Callapheia*
 ---
 
 # Nyxborn Brute (Theros Beyond Death)

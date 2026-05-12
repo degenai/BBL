@@ -1,7 +1,7 @@
 ---
 name: Dauntless Cathar
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 11
 rarity: C
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "female-figure", "white-magi
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/11-dauntless-cathar.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: grim
 time_of_day: night
 setting: other
 the_list_source_set: SOI
+artist: Zack Stella
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/11-dauntless-cathar--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/c/fc3b97d0-8245-48de-aa05-e6800c0339ad.jpg?1573505164
+flavor_text: \"The harder they try to extinguish my faith, the brighter it burns in the darkness.\"
+oracle_text: {1}{W}, Exile this card from your graveyard: Create a 1/1 white Spirit creature token with flying. Activate only as a sorcery.
 ---
 
 # Dauntless Cathar (Mystery Booster Cards)

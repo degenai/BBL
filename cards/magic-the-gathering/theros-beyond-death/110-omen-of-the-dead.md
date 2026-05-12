@@ -15,9 +15,9 @@ tags_filter: ["duo", "mid-shot", "forward-facing", "portrait-mode", "no-color-ma
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/110-omen-of-the-dead.png
 average_cost_paid: 0
 market_price: 0.23
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/8/0/8023fc44-fb8
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Piotr Dura
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/110-omen-of-the-dead--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/0/8023fc44-fb8e-420d-a68c-b45912c4e5bd.jpg?1581479918
+flavor_text: \"My time will come, when life's frantic striving will fade into the boundless quiet of death.\"
+oracle_text: Flash\nWhen this enchantment enters, return target creature card from your graveyard to your hand.\n{2}{B}, Sacrifice this enchantment: Scry 2.
 ---
 
 # Omen of the Dead (Theros Beyond Death)

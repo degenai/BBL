@@ -1,7 +1,7 @@
 ---
 name: The Eldest Reborn
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 90
 rarity: U
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["solo", "forward-facing", "mid-shot", "narrative-mode", "no-face",
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/90-the-eldest-reborn.png
 average_cost_paid: 0
 market_price: 0.34
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,10 @@ mood: grim
 time_of_day: indeterminate
 setting: other
 the_list_source_set: DOM
+artist: Ravenna Tran
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/90-the-eldest-reborn--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/7/d706ad46-6d00-4cad-8666-c673d0cad4fb.jpg?1573509535
+oracle_text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Each opponent sacrifices a creature or planeswalker of their choice.\nII — Each opponent discards a card.\nIII — Put target creature or planeswalker card from a graveyard onto the battlefield under your control.
 ---
 
 # The Eldest Reborn (Mystery Booster Cards)

@@ -14,10 +14,10 @@ tags_hub: ["construct", "clockwork", "spider", "dragon", "workshop", "machinery"
 tags_filter: ["duo", "mid-shot", "three-quarter-facing", "no-face", "creature-construct", "creature-artifact", "colorless-magic", "scene-mode", "indoor-scene"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/348-workshop-assistant.png
 average_cost_paid: 0
-market_price: 0.34
-market_price_as_of: 2026-05-10
+market_price: 0.33
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/e/9/e9387e8f-0e7
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+artist: Victor Adame Minguez
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/348-workshop-assistant--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/9/e9387e8f-0e72-4212-81c8-e64050700c52.jpg?1608911774
+flavor_text: Sometimes the smallest things make the biggest difference.
+oracle_text: When this creature dies, return another target artifact card from your graveyard to your hand.
 ---
 
 # Workshop Assistant (Commander Legends)

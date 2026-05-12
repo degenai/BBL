@@ -14,10 +14,10 @@ tags_hub: ["ritual", "sacrifice", "cult", "robed-figure", "hooded-figure", "vill
 tags_filter: ["group", "mid-shot", "forward-facing", "scene-mode", "no-face", "black-magic", "instant", "sacrifice-mechanic"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/126-village-rites.png
 average_cost_paid: 0
-market_price: 0.36
-market_price_as_of: 2026-05-10
+market_price: 0.35
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/c/9c0f60a6-b5c
 mood: grim
 time_of_day: night
 setting: other
+artist: Bud Cook
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/126-village-rites--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/c/9c0f60a6-b5c8-4704-8b61-94e8fc463e5d.jpg?1594736427
+flavor_text: \"You were so eager to take and consume. Yet when asked to give, you refuse?\"
+oracle_text: As an additional cost to cast this spell, sacrifice a creature.\nDraw two cards.
 ---
 
 # Village Rites (Core Set 2021)

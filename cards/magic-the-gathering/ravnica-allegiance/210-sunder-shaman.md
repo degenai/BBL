@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "action-pose",
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/210-sunder-shaman.png
 average_cost_paid: 0
 market_price: 0.21
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/b/9bb6a8bb-9ee
 mood: action
 time_of_day: indeterminate
 setting: urban
+artist: Jason Rainville
+art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/210-sunder-shaman--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/b/9bb6a8bb-9eec-4f9b-a5a8-604631e4b823.jpg?1584831885
+flavor_text: \"You take our wilds, we take your city.\"
+oracle_text: This creature can't be blocked by more than one creature.\nWhenever this creature deals combat damage to a player, destroy target artifact or enchantment that player controls.
 ---
 
 # Sunder Shaman (Ravnica Allegiance)

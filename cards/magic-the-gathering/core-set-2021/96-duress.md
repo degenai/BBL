@@ -14,10 +14,10 @@ tags_hub: ["anguish", "scream", "interrogation", "torment", "fear", "hood", "rob
 tags_filter: ["solo", "close-up", "forward-facing", "portrait-mode", "female-figure", "no-background", "black-magic", "sorcery", "discard", "mono-black"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/96-duress.png
 average_cost_paid: 0
-market_price: 0.23
-market_price_as_of: 2026-05-10
+market_price: 0.25
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/4/9/49c07ea0-27f
 mood: horror
 time_of_day: indeterminate
 setting: void
+artist: Steven Belledin
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/96-duress--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/9/49c07ea0-27ff-46fb-a41f-3e378c977b5d.jpg?1594736092
+flavor_text: Resistance is unthinkable.
+oracle_text: Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.
 ---
 
 # Duress (Core Set 2021)

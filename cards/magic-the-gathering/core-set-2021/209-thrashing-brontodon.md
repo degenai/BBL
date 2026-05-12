@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "action-mode", "no-figure", "
 reference_image: cards/_images/magic-the-gathering/core-set-2021/209-thrashing-brontodon.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/c/6/c6cf27a3-9bc
 mood: action
 time_of_day: day
 setting: forest
+artist: Jakub Kasper
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/209-thrashing-brontodon--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/6/c6cf27a3-9bcf-475c-a324-7c3af50496dd.jpg?1594737267
+flavor_text: It cares more about preserving the herd's territory than about preserving itself.
+oracle_text: {1}, Sacrifice this creature: Destroy target artifact or enchantment.
 ---
 
 # Thrashing Brontodon (Core Set 2021)

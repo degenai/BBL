@@ -14,10 +14,10 @@ tags_hub: ["beetle", "insect", "bug", "horn", "iridescence", "jungle", "forest",
 tags_filter: ["solo", "close-up", "portrait-mode", "faces-left", "no-face", "green-magic", "creature-insect", "token-generator", "counters-matter"]
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/187-iridescent-hornbeetle.png
 average_cost_paid: 0
-market_price: 0.27
-market_price_as_of: 2026-05-10
+market_price: 0.24
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/2/1/214ef641-b08
 mood: peaceful
 time_of_day: indeterminate
 setting: forest
+artist: Simon Dominic
+art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/187-iridescent-hornbeetle--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/1/214ef641-b08c-42d0-94a5-3054fa7fcebc.jpg?1604263662
+flavor_text: The hatchlings will fill the jungles of Murasa in a glittering tide.
+oracle_text: At the beginning of your end step, create a 1/1 green Insect creature token for each +1/+1 counter you've put on creatures under your control this turn.
 ---
 
 # Iridescent Hornbeetle (Zendikar Rising)

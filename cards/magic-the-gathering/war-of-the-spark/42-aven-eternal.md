@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "blue-magic",
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/42-aven-eternal.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/f/e/fe479484-a82
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Johan Grenier
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/42-aven-eternal--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/e/fe479484-a827-4d3c-8e35-e905e4f6664a.jpg?1557576152
+flavor_text: \"I've never seen the firemane angels so anxious.\"\n—Tajic
+oracle_text: Flying\nWhen this creature enters, amass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)
 ---
 
 # Aven Eternal (War of the Spark)

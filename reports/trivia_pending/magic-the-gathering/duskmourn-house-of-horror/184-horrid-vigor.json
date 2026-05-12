@@ -1,0 +1,48 @@
+{
+  "card_name": "Horrid Vigor",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "184",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag from vision pass; the depicted horror is a generic Duskmourn nightmare creature, not a named lore character.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmourn: House of Horror (no. DSK) is the 102nd Magic expansion, released 2024-09-27. The set is top-down designed around modern horror, drawing on 70s/80s/90s slasher cinema and haunted-house tropes — Wizards' Vision Design Handoff explicitly cites suspense-over-shock, the Amityville Horror, and Freddy/Jason-type unkillable antagonists as influences [Scryfall set page; Wizards Vision Design Handoff, via WebSearch snippet; MTG Wiki: Duskmourn].",
+      "sources": ["Scryfall", "Wizards: Duskmourn Vision Design Handoff (via WebSearch snippet)", "MTG Wiki: Duskmourn"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"We set it on fire. It lived. We cut off its head. It lived. We fell to it, one by one. It lives.\" —Sunrise, survivor sentry [Scryfall flavor_text]. The escalation-by-failed-kill cadence is a direct slasher-villain trope (\"the killer always comes back\"), and the speaker is a flavor-text-only Survivor — the set's Survivor creature type is tied to the Survival mechanic, primarily in green/white, where tapped creatures get rewarded for outliving the turn [MTG Wiki: Survivor, via WebSearch snippet].",
+      "sources": ["Scryfall", "MTG Wiki: Survivor (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Horrid Vigor is a colorshift of Offer Immortality (Phyrexia: All Will Be One no. 102 / Foundations no. 525), which is the black {1}{B} instant with identical text. Horrid Vigor moves the deathtouch+indestructible package into green, a color that historically pays for deathtouch but rarely gets it stapled to indestructible — and is also strictly better than Serpent's Gift (Magic 2013 no. 190, {2}{G}, deathtouch-only) [Scryfall; WebSearch snippet citing card comparisons].",
+      "sources": ["Scryfall: Offer Immortality", "Scryfall: Serpent's Gift", "WebSearch snippet: DSK card comparisons"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Chris Cold, who illustrated several major Duskmourn pieces including Valgavoth, Harrower of Souls (Duskmourn Commander no. 6) and Dollmaker's Shop // Porcelain Gallery (DSK no. 4) — placing this common in the same painterly horror visual language as the set's marquee demon-lord [Scryfall artist credit; mtg.wtf artist page, via WebSearch snippet].",
+      "sources": ["Scryfall", "mtg.wtf: Chris Cold (via WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 5672; appears in 24,174 Commander decks per EDHREC's index — meaningful for a common combat trick, suggesting it's earned green-deathtouch-package inclusion in casual brews despite no keyword on the card itself [Scryfall edhrec_rank; EDHREC card page meta description].",
+      "sources": ["Scryfall", "EDHREC: Horrid Vigor"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Offer Immortality", "set": "Phyrexia: All Will Be One (no. 102) / Foundations (no. 525)", "note": "The black original this card is colorshifted from — identical oracle text at {1}{B}"},
+    {"name": "Serpent's Gift", "set": "Magic 2013 (no. 190)", "note": "Older green deathtouch-only instant at {2}{G} that Horrid Vigor is strictly better than"},
+    {"name": "Veteran Survivor", "set": "Duskmourn: House of Horror (no. 40)", "note": "White Survivor with the Survival ability word — same set, same survivor-flavor cycle as the speaker"},
+    {"name": "Cautious Survivor", "set": "Duskmourn: House of Horror (no. 172)", "note": "Green Survivor in the same survivor-flavor cycle, ties to the green-color slice of Survival"},
+    {"name": "Valgavoth, Harrower of Souls", "set": "Duskmourn: House of Horror Commander (no. 6)", "note": "Set's marquee demon-lord, also illustrated by Chris Cold — shares painterly horror visual language"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

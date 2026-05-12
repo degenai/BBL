@@ -2,18 +2,20 @@
 
 **This is a curation project.** The goal — the whole goal, end to end — is to produce **as many unique, curated card bundles as possible** from a personal bulk inventory the rest of the market treats as weight-priced filler. Every script, agent, tag, schema choice, and pipeline decision in this repo is in service of that one outcome: more well-curated bundles.
 
-A "Discrete Lair" is the unit of work: a one-off, named, theme-driven bundle of cards that share a concept the market doesn't see. Mechanics, flavor, art, jokes, vibes. Each bundle is its own SKU. Each tells a story. Each is the labor that creates the value.
+The unit of work is the **Discrete Lair**: a one-off, named, theme-driven bundle of cards that share a concept the market doesn't see. Mechanics, flavor, art, jokes, vibes. Each bundle is its own SKU. Each tells a story. Each is the labor that creates the value.
 
 The thesis: bulk has near-zero exchange-value individually but rich use-value collectively when sorted with intent. Most bulk sellers move it by weight or by random pack. BBL moves it by *theme* — and the theme is what we sell.
 
-The graph (the tag network, the hub-and-filter taxonomy, the vision-pass enrichment, the lair architect) exists to make those bundles assemblable at scale. Hub tags = candidate bundle anchors. Filter tags = combinatorial narrowing dimensions. The whole BBL stack is a machine for surfacing "here's a bundle people will want, here's why, and here are 30 cards that compose it."
+**Brand architecture (locked 2026-05-11):** BBL is the show / label. **Discrete Lair** is the catalog series. Bundles are numbered append-only. The first bundle is **Discrete Lair 001 — Tithe (the men they send)**, an anti-establishment lair anchored on the apparatus of extraction across MTG's various authority castes. Catalog numbers never get reused.
+
+The graph (the tag network, the hub-and-filter taxonomy, the vision-pass enrichment, the symbols layer, the narrative-first lair architect) exists to make those bundles assemblable at scale. Hub tags = candidate bundle anchors. Filter tags = combinatorial narrowing dimensions. Foundational hubs are hand-curated brand-position anchors (Labor, Rebellion, Chinese Zodiac), not auto-generated frequency artifacts. The whole BBL stack is a machine for surfacing "here's a bundle people will want, here's why, and here are 10 cards that compose it."
 
 See also:
 - [`BBL-project-spec.md`](BBL-project-spec.md) — full concept, brand voice, political framing.
 - [`subagents.md`](subagents.md) — the agent roster spec.
-- [`docs/curation-modes.md`](docs/curation-modes.md) — the *forms* a curated bundle can take (haiku set, sonnet set, mood lair, etc.). Forms are part of the pitch — they're what makes "why would I want this curation?" answerable in one sentence.
-- [`docs/sketchbook.md`](docs/sketchbook.md) — catch-all for half-baked concepts and future work that isn't ready to be a milestone yet. Currently sketching: a collection-timeline HTML page that renders the git log as a visual narrative of the curation labor.
-- [`references/`](references/) — visual references for what a well-curated themed binder looks like in practice.
+- [`docs/curation-modes.md`](docs/curation-modes.md) — the *forms* a curated bundle can take.
+- [`docs/sketchbook.md`](docs/sketchbook.md) — catch-all for half-baked concepts. Currently sketching: bundle-creation subagent (`bbl-bundler`), high-res source art capture, collection-timeline HTML.
+- [`references/`](references/) — visual references for well-curated themed binders.
 
 ---
 
@@ -24,99 +26,135 @@ Collectr CSV export
         │
         ▼
    ┌─────────────┐         cards/<game>/<set>/*.md  ◄── source of truth, BBL-internal
-   │  csv2mdbot  │  ─────► sealed/<game>/*.md            held_for_lair, tags, bundles
+   │  csv2mdbot  │  ─────► sealed/<game>/*.md            held_for_lair, tags, bundles, symbols
    └─────────────┘         archive/  (qty=0)
-        │
-        ▼
-   ┌──────────────┐  set-aware lookup, IP guards, qty-priority,
-   │ researchbot  │  manual-review queue. Image cache in images/.
-   │  ──────────  │
-   │ Plan A: DeepSeek V4 vision (BLOCKED — not in API yet)
-   │ Plan B: --prepare-only + bbl-researcher subagent (ACTIVE)
+        │                  cards/_hubs/<hub>.md   ◄── foundational concepts (hand-curated)
+        ▼                  cards/_symbols/<sym>.md ◄── iconographic primitives
+   ┌──────────────┐
+   │ researchbot  │  set-aware lookup, IP guards, qty-priority, manual-review queue.
+   │  ──────────  │  Plan A: DeepSeek vision API — confirmed NOT in public REST API (chat UI only)
+   │              │  Plan B: --prepare-only + bbl-researcher subagent (ACTIVE — the pipeline)
    └──────────────┘
         │
         ▼
    ┌─────────────────────┐
-   │ lair architect ─────│──► lairs/pending/   (manifests for review)
-   │ hub curator   ──────│──► _hubs/<tag>.md   (Tier 1 graph nodes)
-   │ triviabot     ──────│──► card body ## Trivia
-   │ wikilintbot   ──────│──► lint reports, safe auto-fixes
+   │ bbl-researcher ─────│──► card body ## Vision section (tags_hub / tags_filter / symbols)
+   │ bbl-triviabot ──────│──► card body ## Trivia (canonical web research, anti-confab rules)
+   │ wikilintbot   ──────│──► lint reports, safe auto-fixes (self-lint after every write)
    └─────────────────────┘
+        │
+        ▼
+   ┌─────────────────────┐
+   │ bbl-bundler (future)│──► bundles/<slug>.json (Discrete Lair NNN — narrative-first)
+   └─────────────────────┘
+        │
+        ▼
+   diamondlegendz/bundle-previewer/   ◄── HTML preview + Stripe Payment Link checkout
 ```
 
 ---
 
 ## Milestones
 
-### ✅ Phase 0 — Spec
+### Phase 0 — Spec
 - [x] BBL concept locked (`BBL-project-spec.md`)
 - [x] Subagent roster + two-tier tag architecture (`subagents.md`)
 - [x] HELDFORLAIR commitment-counter design
 - [x] Discrete Lair manifest workflow
+- [x] **Brand architecture locked** — BBL = show/label, Discrete Lair NNN = series, numbers append-only never reused
 
-### ✅ Phase 1 — csv2mdbot
+### Phase 1 — csv2mdbot
 - [x] Collectr CSV → per-card MD graph
 - [x] Singles vs sealed split with heuristic
 - [x] Archive-on-zero with `archived_on:` stamp
-- [x] Persistent BBL-internal field preservation across runs (`held_for_lair`, `tags_*`, `bundles`, `reference_image`)
+- [x] Persistent BBL-internal field preservation across runs (`held_for_lair`, `tags_*`, `bundles`, `reference_image`, `symbols`)
 - [x] CSV-hash skip (idempotent reruns)
 - [x] Append-only run history at `reports/history.md`
-- [x] **First reconciliation run (2026-05-07): 977 singles + 16 sealed.**
+- [x] **`surgical_update_existing()`** — preserves body content (`## Vision`, `## Trivia`, `## Bundle Use`) across CSV reconciliations. Critical fix after the body-wipe bug destroyed enrichments in May 2026.
+- [x] **`_is_non_card_node()`** — recognizes `type: hub` and `type: symbol` plus underscored-path rule so foundational nodes never get clobbered by CSV runs.
 
-### 🔄 Phase 2 — researchbot (in progress)
+### Phase 2 — researchbot
 - [x] Scryfall image lookup (MTG) with set-aware confidence flag (`high` / `low` / `none`)
 - [x] PokemonTCG.io image lookup (Pokémon)
 - [x] IP guardrails: `suspected_ip`, `ip_confidence`, `ip_verified` — never invent character identities
 - [x] Manual-review flagging (low-confidence printings)
-- [x] Local image cache mirroring `cards/` tree
+- [x] Local image cache mirroring `cards/` tree at `cards/_images/`
 - [x] qty-DESC priority
-- [x] 3 hand-curated MTG vision passes as format reference (`_phase1_apply.py`)
-- [x] **Plan B fallback for vision** — DeepSeek hosted API does not yet serve a multimodal model; vision pass ports to a Claude Code subagent
-  - [x] `researchbot.py --prepare-only` — image fetch + cache + frontmatter stamp, no LLM call
+- [x] **No-num-* backfill** — cards without a Collectr collector number get their number filled from Scryfall UUID via `--backfill-num` / go-forward fix in researchbot. 1 stragglers remain.
+- [x] **Plan B subagent vision pipeline** — `--prepare-only` + `bbl-researcher` subagent (`.claude/agents/bbl-researcher.md`)
   - [x] `apply_vision.py` — single-source-of-truth helper wrapping `update_card`
-  - [x] `.claude/agents/bbl-researcher.md` — subagent definition
-- [ ] Vision pass at scale across MTG inventory
+  - [x] Anti-confab prompt v4 (hair / race / gender / weapons-from-archetype / card-frame-metadata / role-identity conflation)
+- [x] **Vision pass at scale across MTG inventory** — 597 cards enriched (49% of 1221-card corpus). Queue: 0.
 - [ ] Vision pass at scale across Pokémon inventory
 - [ ] Image-source strategy for Dragon Ball Super (no Scryfall equivalent)
 
-### 🔄 Phase 3 — wikilintbot
+### Phase 3 — wikilintbot
 - [x] Structural checks: missing frontmatter, qty sanity, duplicate nodes, stale `last_seen`, sealed misclassification, missing reference image
-- [x] Tag-tier checks: `tier_confusion` (color-magic + composition + rarity/type tags in `tags_hub`), `format_drift` (non-kebab-case), `intra_tier_duplicates`, `cross_tier_duplicates`, `singleton_tags`, `missing_tags`
-- [x] **`vocabulary_drift` (plural/singular) check REMOVED 2026-05-08.** Singular vs plural can carry distinct visual content (`sword` = one blade, `swords` = a rack); collapsing them is a synonym/semantics decision, not a string-edit one. Punted to Phase 5 janitor.
-- [x] HELDFORLAIR sanity: `held_for_lair > quantity`, negative or non-numeric values
-- [x] `--fix` mode for the unambiguous transforms (move filter-tier tags from `tags_hub` to `tags_filter`, resolve cross-tier duplicates, dedupe within tier). Other findings remain report-only.
+- [x] Tag-tier checks: `tier_confusion`, `format_drift`, `intra_tier_duplicates`, `cross_tier_duplicates`, `singleton_tags`, `missing_tags`
+- [x] HELDFORLAIR sanity
+- [x] `--fix` mode for unambiguous transforms
 - [x] Markdown report output via `--report <path>`
-- [ ] Broken wikilinks check (no wikilinks in graph yet — defer until lairs exist)
-- [ ] Hub registry checks: registry drift, orphan hubs, promotion candidates, vocabulary cap warnings (defer until hubs exist)
+- [x] **Self-lint wired into bbl-researcher** — every vision-pass write triggers a follow-up lint pass on the affected card; tier confusion gets surfaced immediately, not at end-of-sprint.
+- [x] **Hub / symbol awareness** — `_is_non_card_node()` recognizes foundational nodes so they don't get treated as malformed cards
+- [ ] Broken wikilinks check (no wikilinks in graph yet — defer until cross-card lair references)
+- [ ] Hub registry checks (defer — hubs are hand-curated not frequency-elected, so registry-drift logic doesn't apply yet)
 - [ ] `--review` mode: guided manual-review walkthrough for `needs_manual_review` cards
 
-### ⏳ Phase 4 — lair architect *(blocked on vision tags)*
-- [ ] Theme/concept parameter parsing → graph query
+### Phase 4 — Lair architect *(reframed: narrative-first, not tag-frequency-first)*
+- [x] **First lair shipped: Discrete Lair 001 — Tithe** (2026-05-11). 10-card bundle, 9 distinct cards (Secure the Scene ×2), $5.00 list price. Manual-curated through the workflow that will become `bbl-bundler`.
+- [x] **Bundle JSON schema v0.3** at `diamondlegendz/bundle-previewer/sample-bundles/tithe.json` — catalog_id + series_label, hubs/anchors/intent tags, cards array with qty_in_bundle + market_price_usd, cohesion block, pricing block (cost_basis, DIY_alternative, narrative_premium), checkout block (Stripe Payment Link)
+- [x] **Pricing model codified** — $5.00 floor, shipping buyer-paid extra, narrative_premium as visible line item so curation labor is legible
+- [x] **Multi-copy support** — `qty_in_bundle > 1` when inventory has dupes; bulk-disposal lever that grows with every CSV upload
+- [ ] `bbl-bundler` subagent — deterministic Python orchestration + exactly 2 LLM calls (intent_tags expansion + why_it_fits drafts); sketched in `docs/sketchbook.md`
+- [ ] Theme/concept parameter parsing → graph query → candidate manifest
 - [ ] `available = quantity - held_for_lair - committed-this-run` calculation
-- [ ] Candidate-manifest generation (no double-booking)
-- [ ] `lairs/pending/` review workflow
-- [ ] HELDFORLAIR increment on approval, decrement on ship/dissolve
+- [ ] HELDFORLAIR increment on bundle approval, decrement on ship/dissolve
 
-### ⏳ Phase 5 — hub curator *(blocked on vision tags)*
-- [ ] Tag-frequency tally across enriched graph
-- [ ] Top-N candidate proposal
-- [ ] Human-in-the-loop confirmation flow (one batch at a time)
-- [ ] Hub MD generation + wikilink injection
-- [ ] `_hubs/_registry.md` maintenance + cap warnings (30/50)
+### Phase 5 — Foundational hubs *(reframed: hand-curated, not auto-elected)*
+- [x] **Three foundational hubs shipped** at `cards/_hubs/`: `labor.md`, `rebellion.md`, `chinese-zodiac.md` (2026-05-10)
+- [x] `type: hub` frontmatter schema with tag_signals, narrative seeds, anti-patterns
+- [x] Bot guards updated to recognize `type: hub` nodes (csv2mdbot, wikilintbot)
+- [x] **Hubs serve as brand-position anchors, not frequency artifacts** — Alex authors them; they reflect curator judgment about what BBL is, not what the corpus accidentally clusters around
+- [ ] Cross-hub linking once more bundles share themes
+- [ ] Auto-elected hub *candidate* list (NOT promoted hubs) — future signal to Alex about emerging clusters worth considering as new hand-curated hubs
 
-### ⏳ Phase 6 — triviabot
-- [ ] Community-source search (Reddit, EDHREC, Bulbapedia, etc.)
-- [ ] Synthesis + writeback to `## Trivia` section
+### Phase 6 — Symbols layer *(new — shipped 2026-05-11)*
+- [x] **First symbol shipped: `orzhov-signet`** at `cards/_symbols/orzhov-signet.md` (eclipsed sun, master-medallion/slave-brand canonical Orzhov iconography)
+- [x] `type: symbol` frontmatter schema with name, aliases, faction, canonical_source, confidence, appears_on, related_hubs
+- [x] Cards reference symbols via `symbols: ["slug"]` frontmatter field
+- [x] Bot guards updated (csv2mdbot, wikilintbot) to recognize `type: symbol` nodes
+- [x] **First cross-card cohesion application:** Tithe bundle's why_it_fits prose names the Orzhov Signet on Pitiless Pontiff and cross-references it on Tithe Drinker. The symbol is "literally functional ideology" per Alex.
+- [ ] Vision-pass `symbols_observed` field — bbl-researcher proposes a symbol slug when it spots known iconography; apply_vision.py cross-references the library and writes to `symbols: [...]`
+- [ ] Wikilintbot bidirectional consistency check between card `symbols:` field and symbol MD `appears_on:` list
+- [ ] More symbols: Boros gauntlet, Dimir cipher, Eldraine throne pattern, Theros constellation, etc.
+
+### Phase 7 — triviabot
+- [x] **Agent spec shipped** at `.claude/agents/bbl-triviabot.md` (~200 lines)
+- [x] Anti-confab rules baked in: no role-identity conflation (caught in first Tithe Drinker test where the agent linked an unnamed common to a named NPC on role overlap alone)
+- [x] Writes to card body `## Trivia` section, never frontmatter (frontmatter is for structured data, body is for prose)
+- [x] First test run completed on the 9 Tithe-bundle cards
+- [ ] Synthesis pass across the rest of the enriched corpus
+- [ ] Reddit / EDHREC / Wizards-article integration for community sentiment data
 - [ ] Crickets fallback for cards with no signal
 
+### Phase 8 — Storefront / Bundle preview
+- [x] **`diamondlegendz/bundle-previewer/`** — separate repo, sibling to BBL. HTML preview page renders bundle JSON into buyer-facing layout
+- [x] Sectioned pricing receipt (card values / labor / DIY alternative / narrative premium)
+- [x] Stripe Payment Link integration field in schema (placeholder URLs until products go live in Stripe dashboard)
+- [x] anime.js v4 entrance animations, CSP-safe
+- [x] **Print-shippable** — preview page is printable as bundle inclusion card; date stamped on prices
+- [ ] Live Stripe products for shipped bundles
+- [ ] Order routing / shipping label generation
+- [ ] Multi-bundle catalog page (currently single-bundle preview)
+
 ### Future / TBD
-- [ ] Re-enable Plan A (DeepSeek V4 vision) when the API endpoint ships — drop-in via `--model` flag
-- [ ] Storefront / order flow (Shopify? something simpler? indie marketplace? — open question)
+- [ ] **Re-probe DeepSeek vision when beta tag drops from chat.deepseek.com** — currently chat-UI-only, watch signal logged. Open-source VL2/Janus weights mean it's the strongest non-OpenAI/non-Anthropic vision model available.
 - [ ] Dragon Ball Super / Yu-Gi-Oh / Lorcana / Force of Will image-source strategies
 - [ ] Cat Pack assembly automation (recurring-SKU, variable contents)
-- [ ] Convert `subagents.md` specs into invokable Claude Code subagents (`.claude/agents/*.md`) once each pipeline stabilizes — `bbl-researcher` is the first
-- [ ] **Janitorbot** (Phase 5+) — operates on the populated tag graph, not single cards: synonym collapse (`cat`/`feline`), redundant-pair pruning, hub↔filter tier swaps when a tag's actual usage contradicts its tier. Not the same as wikilintbot — wikilintbot enforces structural rules per-card; the janitor makes whole-graph curation calls.
-- [ ] Rename `researchbot.py` → something like `sourcebot.py` / `layer1bot.py` — current name is a holdover from when it was going to do vision too. Now it only sources layer-1 data (images, IP guards, set lookups). Cosmetic; do as separate clean-rename commit.
+- [ ] **Mystery Booster Cards = The List path migration** — Collectr labels The List (PLST) inserts as "Mystery Booster Cards"; affected 33 cards have been re-tagged with `set: The List` + `the_list_source_set: <ORIG_CODE>` but folder path still says `mystery-booster-cards/`. Holistic janitor pass needed before launch.
+- [ ] **Janitorbot** (Phase 9+) — operates on the populated tag graph, not single cards: synonym collapse (`cat`/`feline`), redundant-pair pruning, hub↔filter tier swaps. Different from wikilintbot (per-card structural rules) — janitor makes whole-graph curation calls.
+- [ ] **High-res source art** — sketched in `docs/sketchbook.md`. Current image cache is 488×680 card scans; future tier would pull artist-original art from Scryfall's `art_crop` URL or external sources for bundle hero imagery.
+- [ ] Rename `researchbot.py` → `sourcebot.py` (cosmetic; current name is a holdover)
 
 ---
 
@@ -132,11 +170,15 @@ Collectr CSV export
 - Dragon Ball Super → not yet wired
 - Other games → not yet wired
 
-**Vision model:** Pending DeepSeek V4 multimodal API rollout. Until then, the `bbl-researcher` Claude Code subagent runs the vision pass.
+**Vision model:** Claude (via the `bbl-researcher` subagent). DeepSeek vision was probed thoroughly in May 2026 — **confirmed NOT in the public REST API**. The chat.deepseek.com web UI uses a separate internal pipeline beta-tagged on the consumer side. 12-variant payload probe + 5 corroborating GitHub issues across unrelated SDKs all hit the same Rust deserialization error: server's message-content enum has exactly one variant declared (`text`). Watch signal: chat UI beta tag drops → re-probe the API.
 
-**Tag architecture:** Two-tier — `tags_hub` (Tier 1, hub-eligible, thematic, becomes graph nodes; ~30 max curated) and `tags_filter` (Tier 2, mechanical/structural, frontmatter only, never nodes). The split is the load-bearing design decision for graph quality.
+**Tag architecture:** Two-tier — `tags_hub` (Tier 1, hub-eligible, thematic, becomes graph nodes) and `tags_filter` (Tier 2, mechanical/structural, frontmatter only, never nodes). The split is the load-bearing design decision for graph quality. Color-magic is filter-tier (`blue-magic` etc. NEVER in tags_hub).
 
-**Frontmatter:** Minimal Markdown frontmatter, parsed with regex (no YAML library). BBL-internal fields are preserved across CSV reconciliations.
+**Foundational layers:** Hubs (`cards/_hubs/`) are hand-curated concepts that anchor brand position. Symbols (`cards/_symbols/`) are iconographic primitives with documented canonical meanings from the published source material. Both are first-class graph dimensions with their own MD nodes; cards reference them by slug in frontmatter.
+
+**Buyer-facing copy rule:** No em dashes anywhere a buyer will see (bundle narrative, why_it_fits, marketing copy). Em dashes are fine in commits, memory, sketchbook, code comments, conversation. Scope: anything that reads as AI to the buyer.
+
+**Frontmatter:** Minimal Markdown frontmatter, parsed with regex (no YAML library). BBL-internal fields are preserved across CSV reconciliations via `surgical_update_existing()` in csv2mdbot.
 
 ---
 
@@ -144,29 +186,38 @@ Collectr CSV export
 
 ```
 .
-├── BBL-project-spec.md           # concept, brand voice, political framing
-├── subagents.md                   # full subagent roster spec
-├── csv2mdbot.py                   # CSV → graph reconciler
-├── researchbot.py                 # image lookup + vision dispatch  (a.k.a. "layer 1 sourcing" — rename pending)
-├── bbl_queue.py                   # next-batch picker: cards truly ready for vision (3-prong check)
-├── apply_vision.py                # vision-JSON → MD writer (subagent helper)
-├── wikilintbot.py                 # graph linter (structural + tag tier checks)
-├── bbl_review.py                  # chronological re-review queue + cursor for prompt-version drift
+├── BBL-project-spec.md                # concept, brand voice, political framing
+├── subagents.md                       # full subagent roster spec
+├── csv2mdbot.py                       # CSV → graph reconciler (with surgical_update_existing)
+├── researchbot.py                     # image lookup + vision dispatch (rename to sourcebot pending)
+├── bbl_queue.py                       # next-batch picker: 3-prong ready-for-vision check
+├── apply_vision.py                    # vision-JSON → MD writer (subagent helper)
+├── wikilintbot.py                     # graph linter (structural + tag tier + hub/symbol awareness)
+├── bbl_review.py                      # chronological re-review queue + cursor
 ├── .claude/
 │   └── agents/
-│       └── bbl-researcher.md      # vision-pass subagent
-├── cards/<game>/<set>/*.md        # active card-node graph (this is the Obsidian vault)
-├── cards/_images/<game>/<set>/*.png  # cached reference art (inside vault so embeds resolve;
-│                                     # PNGs aren't graphed by Obsidian so the graph stays card-only)
-├── sealed/<game>/*.md             # sealed-product nodes
-├── archive/                       # qty=0 nodes (created on demand)
+│       ├── bbl-researcher.md          # vision-pass subagent
+│       └── bbl-triviabot.md           # web-research subagent (anti-role-identity-conflation rules)
+├── cards/<game>/<set>/*.md            # active card-node graph (Obsidian vault root)
+├── cards/_images/<game>/<set>/*.png   # cached reference art (inside vault so embeds resolve)
+├── cards/_hubs/*.md                   # foundational hubs (labor, rebellion, chinese-zodiac)
+├── cards/_symbols/*.md                # iconographic primitives (orzhov-signet, ...)
+├── sealed/<game>/*.md                 # sealed-product nodes
+├── archive/                           # qty=0 nodes + triviabot orphans
 ├── reports/
-│   ├── history.md                 # csv2mdbot run log
-│   ├── scryfall_sets.json         # cached set-name → code map
-│   └── vision_pending/<game>/<set>/<slug>.json   # vision payloads, set-namespaced (mirrors cards/ tree)
-├── MTG-artists.md                 # artist reference notes
-├── Pokemon-artists.md             # artist reference notes
-└── collectrexport*.csv            # raw inventory exports
+│   ├── history.md                     # csv2mdbot run log
+│   ├── scryfall_sets.json             # cached set-name → code map
+│   ├── review_queue.txt               # chronological enrichment order (IS the prompt-version control)
+│   └── vision_pending/<game>/<set>/<slug>.json   # vision payloads, set-namespaced
+├── MTG-artists.md                     # artist reference notes
+├── Pokemon-artists.md                 # artist reference notes
+└── collectrexport*.csv                # raw inventory exports
+
+# Sibling repo (separate, public-facing storefront preview):
+../diamondlegendz/bundle-previewer/
+├── index.html                         # bundle previewer page
+├── app.js                             # animations, schema-aware render
+└── sample-bundles/tithe.json          # Discrete Lair 001 — first bundle shipped
 ```
 
 ---
@@ -174,197 +225,157 @@ Collectr CSV export
 ## Common operations
 
 ```powershell
-# Re-review queue: walk older enrichments under the latest prompt
-python bbl_review.py status              # progress report
-python bbl_review.py next 13             # show next 13 card paths (oldest enrichment first)
-python bbl_review.py advance 13          # move cursor forward after re-processing
-python bbl_review.py rewind all          # reset cursor to 0 (after a major prompt change)
-python bbl_review.py build               # one-time / after big restructures: rebuild from git history
-
 # Reconcile a fresh Collectr export into the graph
-python csv2mdbot.py collectrexport5_7_2026.csv
-
-# Probe what models the DeepSeek hosted API actually serves today
-python researchbot.py --list-models
-
-# Plan B vision flow: prep cached images for the bbl-researcher subagent
-python researchbot.py --prepare-only --limit 50 --game "Magic: The Gathering"
+python csv2mdbot.py collectrexport5_10_2026.csv
 
 # Show the next-batch queue (cards truly ready for vision, qty-DESC)
-python bbl_queue.py --with-qty --limit 25 --game "Magic: The Gathering"
-python bbl_queue.py --count                          # just the integer
+python bbl_queue.py --with-qty --limit 13 --game "Magic: The Gathering"
+python bbl_queue.py --count
 
-# Plan A vision flow (re-enable once DeepSeek V4 vision endpoint ships)
-python researchbot.py --limit 25 --model deepseek-v4-pro
+# Plan B vision flow: prep cached images for the bbl-researcher subagent
+python researchbot.py --prepare-only --limit 600 --game "Magic: The Gathering" --scryfall-sleep 1.0
 
 # Apply a vision JSON onto a card by hand
-python apply_vision.py cards/path/to/card.md reports/vision_pending/card.json
+python apply_vision.py cards/path/to/card.md reports/vision_pending/.../card.json
 
 # Lint the graph (report-only)
 python wikilintbot.py --quiet --report reports/wikilint_$(Get-Date -Format yyyy-MM-dd).md
 
-# Lint and apply safe auto-fixes (tier confusion, cross-tier dupes)
+# Lint and apply safe auto-fixes
 python wikilintbot.py --fix
+
+# Re-review queue: walk older enrichments under the latest prompt
+python bbl_review.py status
+python bbl_review.py next 13
+python bbl_review.py advance 13
+python bbl_review.py rewind all
+
+# Re-probe DeepSeek (still text-only as of 2026-05-11)
+python researchbot.py --list-models
 ```
 
 ---
 
-## Findings & lessons (2026-05-08)
+## Findings & lessons (durable across sessions)
 
-These are durable observations that survive the rolling status snapshot below — load-bearing facts the next session shouldn't have to rediscover.
+These survive the rolling status snapshot — load-bearing facts the next session shouldn't have to rediscover.
 
 **On the picker / queue:**
 - `csv2mdbot` writes an empty placeholder `reference_image:` line on every card from day one. Any "ready for vision" check that reads only frontmatter without verifying the path on disk will over-count by ~500×. The 3-prong filter in `bbl_queue.py` (non-empty path + on-disk + empty `tags_hub` + not `needs_manual_review`) is the canonical answer.
-- `--limit 600` on `researchbot.py --prepare-only` is the magic number for refilling. At `--limit 25` to `--limit 50`, the queue often drains to 0 after one fan-out round because the qty-DESC frontier is choked by cards Scryfall couldn't match on first try. Deeper limits expose successful fallback-name matches and produce queues of 50+ ready cards.
+- `--limit 600` on `researchbot.py --prepare-only` is the magic number for refilling. Deeper limits expose successful fallback-name matches and produce queues of 50+ ready cards.
 
 **On researchbot's idempotency:**
-- Re-running `--prepare-only` can flap a card between `prepared` (with `reference_image` populated, `art_match_confidence: high`) and `manual_review` (with `reference_image: ` empty, `art_match_confidence: none`). Theros Beyond Death cards demonstrated this clearly — a deeper-limit re-run reverted them mid-session. Bug: researchbot does not guard against downgrading an already-prepared card. Fix: skip the lookup entirely when frontmatter already shows `art_match_confidence: high` AND `os.path.exists(reference_image)`.
+- Re-running `--prepare-only` can flap a card between `prepared` and `manual_review` if Scryfall returns a different best-match on the second pass. The bbl-researcher refusal logic catches this downstream, but the bug remains: `--prepare-only` should skip cards already showing `art_match_confidence: high` AND `os.path.exists(reference_image)`.
 
 **On the IP guardrail:**
-- `bbl-researcher` correctly populates `suspected_ip` for in-universe MTG planeswalkers without putting their names in `subject`. As of the 2026-05-08 session, 6 cards carry IP flags: Garruk Wildspeaker, Kiora, Nicol Bolas (×2), Teyo, the Wanderer. Verification step is downstream and not yet built — these flags accumulate until something consumes them. Worth a small `python ip_review.py` script eventually that lists all `suspected_ip` cards for human verification.
+- `bbl-researcher` correctly populates `suspected_ip` for in-universe MTG planeswalkers without putting their names in `subject`. 20 cards currently carry IP flags. Verification is downstream and triviabot's responsibility.
 
 **On prompt versioning without metadata:**
-- The bbl-researcher prompt evolves (anti-confabulation rules added 2026-05-08, weapons/props rule added later same day, more to come). Cards enriched under v1 of the prompt may have descriptions or tags v2/v3 would catch and fix.
-- We deliberately do NOT stamp `prompt_version: N` into every card's frontmatter. That's noisy metadata that needs maintenance. Instead, **the order of cards in `reports/review_queue.txt` IS the version control** — cards near the top were enriched earliest (oldest prompt era), cards at the bottom are recent.
-- `bbl_review.py` manages a cursor that tracks "everything before this index has been re-reviewed under the current prompt." Walk the queue from the top, re-running vision per card, advancing the cursor. When the prompt changes substantially, `rewind all` resets the cursor to 0 and the corpus walks again under the new rules.
-- The list is the source of truth. No per-card metadata required.
+- The bbl-researcher prompt is at v4 (anti-confab + role-identity-conflation rules). We deliberately do NOT stamp `prompt_version: N` into card frontmatter. Instead, **the order of cards in `reports/review_queue.txt` IS the version control** — earlier cards = older prompt era. `bbl_review.py` manages a cursor that tracks "everything before this index has been re-reviewed under the current prompt."
 
 **On Obsidian image embeds:**
-- The Obsidian vault is rooted at `cards/`. Anything outside the vault is invisible to Obsidian's image-resolver, even with standard-markdown `![](path)` syntax. The fix: **the image cache lives inside the vault** at `cards/_images/<game>/<set>/<slug>.png`. PNGs aren't graphed by Obsidian (only `.md` files become nodes), so the card-only graph constraint is preserved. The underscore prefix sorts the folder visually distinct from card-game directories. Embeds use standard-markdown with a relative path: `![<slug>](../../_images/<game>/<set>/<slug>.png)` from a card MD. Migrated via `reports/migrate_images_into_cards.py` (idempotent, safe to re-run).
-- The Vision section also begins with a prominent `> [!warning] Suspected IP: **<name>**` callout for any card whose vision pass flagged an IP. Renders as a yellow warning callout in Obsidian, falls back to a styled blockquote elsewhere. Reviewer instructions inline.
+- The vault is rooted at `cards/`. Anything outside is invisible to Obsidian's resolver. The image cache lives at `cards/_images/<game>/<set>/<slug>.png`. PNGs aren't graphed (only `.md` files become nodes), so the card-only graph constraint is preserved. The underscore prefix sorts visually distinct from card-game directories. Same convention for `_hubs/` and `_symbols/` — foundational nodes outside the card namespace.
 
-**On `apply_vision.py`'s tier normalizer:**
-- The helper has a small built-in normalizer that auto-moves certain tags from `tags_hub` to `tags_filter` regardless of what the vision JSON emits — `crowd`, `no-figure`, `artifact` are confirmed cases. This is *good* (reinforces the tier rules) but undocumented; future agent definitions may want to know which tags are "always-filter" so they don't waste judgment on them. Source: `researchbot.update_card`.
+**On the body-wipe bug (csv2mdbot, fixed):**
+- csv2mdbot was unconditionally re-rendering each card MD on every CSV reconciliation, destroying `## Vision`, `## Trivia`, `## Bundle Use` sections and any non-CSV frontmatter fields. Fixed via `surgical_update_existing()` which only touches CSV-managed fields and leaves body + BBL-internal fields alone. Bodies restored from git history (commit dcfea4d). **Lesson:** never re-render existing nodes; always merge.
 
-**On synonym overlap (Phase-5 janitor's homework):**
-- The graph already has confirmed synonym pairs surfacing: `cat` (×4) and `feline` (×3); `book` (×3) and `tome` (×3); `flight` (×6) and `flying` (×3); `weapon` (×5) and `weapons` (variable). These are NOT a bug — they reflect honest description of different cards' content. Synonym/redundancy resolution is the future janitorbot's job: detect, propose canonical form, sweep + collapse + leave audit trail.
+**On synonym overlap (Phase-9 janitor's homework):**
+- The graph has confirmed synonym pairs surfacing: `cat`/`feline`, `book`/`tome`, `flight`/`flying`, `weapon`/`weapons`. NOT a bug — they reflect honest description of different cards' content. Synonym/redundancy resolution is the future janitorbot's job.
 
-**On hub-tag density (the lair-architect unlock):**
-- At 22 enriched cards, ~53 hub tags appeared in 2+ cards. At 100 enriched cards, **222 hub tags** appear in 2+ cards. The bridge density grew much faster than card count — not 4.5× linear but closer to 4× hub density per 4.5× card count, which means the graph is genuinely composing rather than just accumulating. Top bridges as of 100-card mark: `forest`(22), `armor`(17), `warrior`(14), `wings`(13), `robed-figure`(12), `wilderness`(12), `fire`(11), `ruins`(11), `ritual`(10), `monster`(10), `predator`(10).
+**On hub-tag density:**
+- At 22 enriched cards, ~53 hub tags appeared in 2+ cards. At 597 enriched, **945 hub tags shared by 2+** (2112 unique). Bridge density grew super-linear in card count. Lair architect activation threshold is well past.
 
 **On parallel fan-out:**
-- The `bbl-researcher` subagent runs 50–135 s per card depending on parallelism load. Up to 16 in flight verified clean across multiple rounds. Beyond that not yet tested. Refusal logic is robust — the agent will not write tags from a wrong-printing image, and its refusal preserves graph cleanliness even when the dispatch picker has a bug.
+- The `bbl-researcher` subagent runs 50–135 s per card. Up to 16 in flight verified clean. The refusal logic is robust — agents will not write tags from a wrong-printing image.
+
+**On bundles as narrative-first, not tag-first:**
+- Bundles are narrative → tags, not tags → narrative. The title does the persuasion work. Brand voice is anti-establishment / labor / curation-as-rebellion, not "themed boosters." Tithe's title ("the men they send") locks the thesis before any card is named.
+
+**On hubs as hand-curated, not frequency-elected:**
+- Hubs are foundational concepts Alex authors. They reflect curator judgment about what BBL stands for, not what the corpus accidentally clusters around. "Labor > solidarity" because hub names need *zing*, not generic-left signifiers. Auto-elected frequency lists are useful as candidate signals but never as promotion sources.
+
+**On symbols as functional ideology:**
+- The Orzhov Signet's master-medallion/slave-brand duality is "literally functional ideology" — the same icon meaning opposite things depending on the manner of its bearing. Symbols layer captures this kind of canonical iconographic load. Highest-leverage bundle copy device for cohesion.
+
+**On the DeepSeek vision API:**
+- Confirmed NOT in public REST API as of 2026-05-11. 12 payload variants probed, all schema-rejected. 5 corroborating GitHub issues across unrelated SDKs. The chat.deepseek.com UI uses a separate internal pipeline. Re-probe trigger: chat UI drops the beta tag from vision. Until then BBL stays on Claude vision + manual chat-paste workflow.
 
 ---
 
 ## A note on the agent roster
 
-The mix of scripts (`csv2mdbot.py`, `researchbot.py`, `apply_vision.py`, `wikilintbot.py`) and Claude Code subagents (`.claude/agents/bbl-researcher.md`, with lair architect / hub curator / triviabot still spec-only in `subagents.md`) is **deliberately not consolidated**. Each has a distinct verb and runs on a different cadence. Premature merging would freeze interfaces that are still evolving. The right consolidation, *when* it comes, is a thin top-level CLI wrapper (`bbl reconcile <csv>`, `bbl prepare`, `bbl lint --fix`) — not folding agents into each other.
+The mix of scripts (`csv2mdbot.py`, `researchbot.py`, `apply_vision.py`, `wikilintbot.py`) and Claude Code subagents (`.claude/agents/bbl-researcher.md`, `.claude/agents/bbl-triviabot.md`, with `bbl-bundler` sketched) is **deliberately not consolidated**. Each has a distinct verb and runs on a different cadence. Premature merging would freeze interfaces that are still evolving. The right consolidation, *when* it comes, is a thin top-level CLI wrapper (`bbl reconcile <csv>`, `bbl prepare`, `bbl lint --fix`, `bbl bundle <theme>`) — not folding agents into each other.
 
-The pattern that's emerging: **writers get the keys to wikilintbot; watchers do not.** csv2mdbot, bbl-researcher, and (future) hub curator self-lint after writing. Lair architect is a writer too but its specific output (`held_for_lair`) is exactly what wikilintbot's `held_for_lair_sanity` check audits from outside — separation of concerns.
+The pattern: **writers get the keys to wikilintbot; watchers do not.** csv2mdbot, bbl-researcher, and (future) bbl-bundler self-lint after writing. Wikilintbot audits from outside.
 
 ---
 
-## Status snapshot (2026-05-10, end of multi-day sprint)
+## Status snapshot (2026-05-11)
 
-- **977** active singles · **16** sealed products · **357** MTG cards fully enriched (was 22 at sprint start → **+335**, ~16× growth)
-- **Vision queue right now:** `python bbl_queue.py --count` → **207**. Drain steadily in 13-card parallel batches.
-- **Manual review pile:** **9** genuine edge cases (tokens, art series, alt-art showcases, foil-only promos). Down from 398 at sprint start. Triage UI eventually, not blocking.
-- **Hub-tag density:** 1,565 unique hub tags graph-wide; **647 shared by 2+ cards** (was 53 at sprint start — ~12× growth, super-linear in card count). Bridge density is well past lair-architect activation threshold.
-- **IP cards flagged:** **13** (Garruk, Radha, Teferi, Tamiyo, Oko, Kiora, Nicol Bolas ×2, Teyo, the Wanderer, Angrath, Vito, plus assorted other planeswalker references). Each has the `> [!warning] Suspected IP` callout at the top of its Vision section in Obsidian.
-- **Re-review queue:** `python bbl_review.py status` → 357 cards in chronological order, cursor at 0. Use this when prompt evolves and older enrichments need revisiting under the newer rules.
-
-### bbl-researcher prompt versions (chronological)
-
-The agent prompt has evolved several times. Each version tightens a specific class of failure mode. Cards enriched under earlier versions are oldest-first in `bbl_review.py`'s queue; walk that queue under the latest prompt to upgrade them.
-
-- **v1** — initial prompt. Broad-net hub tags, color-magic-as-filter rule, IP guardrail, two-tier tag emission.
-- **v2** (added ~card 200) — explicit anti-confabulation rules: don't commit to hair color / eye color / skin tone / race / gender / fine pattern detail unless unambiguously visible. Under-specify rather than guess.
-- **v3** (~card 240) — anti-confab extended to weapons / props / tools. Don't add a sword because the figure is a "knight"; don't add a blade because the figure is an "assassin". Empty hands stay empty hands.
-- **v4** (current, post-card-357) — anti-confab extended to card-frame metadata: do NOT read set codes, collector numbers, copyright years, or printing identifiers from the cached image. The frontmatter has authoritative values from Scryfall; trust those, not the pixels. (Discovered when agents fabricated "DMR 2023" / "FDN 2024" reprint claims that turned out to be Scryfall-confirmed M11 / M14 originals.)
-
-### Tooling shipped this sprint (all in repo root unless noted)
-
-- `bbl_queue.py` — the canonical "ready for vision" picker. 3-prong filter: `reference_image` set + file on disk + `tags_hub` empty + not `needs_manual_review`. Use this, never re-implement inline.
-- `bbl_review.py` — chronological re-review queue + cursor for prompt-version drift. `build` / `status` / `next N` / `advance N` / `rewind N|all` / `append <path>`.
-- `researchbot.py --retry-flagged` — walks the manual-review pile and re-runs lookups. Most "no image found" flags are transient 429s, not real misses.
-- `researchbot.py --prepare-only --scryfall-sleep N` — long-sweep prep with configurable rate-limit hygiene (default 0.1s, bump to 1.0 for sustained sweeps).
-- `researchbot.py --refresh-set-map` — rebuilds the cached `reports/scryfall_sets.json` from a fresh /sets call.
-- `is_already_prepared()` idempotency guard — `--prepare-only` skips cards already prepared on disk so re-runs don't burn API calls.
-- `SET_NAME_ALIASES` table — handles Collectr set names that don't normalize cleanly (Mystery Booster Cards → mb1, Promo Pack: X → ppXXX, Classic: Sixth Edition → 6ed).
-- `_SET_PAREN_SUFFIX_RE` + `normalize_card_name_for_lookup()` — strips trailing `(M14)` from set names and trailing `(254)` collector-numbers from card names before Scryfall query.
-- `http_get_json` hardened with retry-on-429/5xx + exponential backoff (3 attempts, base 1.5s).
-- `reports/migrate_images_into_cards.py` — one-shot migration script (idempotent). Moved `images/` → `cards/_images/` so embeds resolve in Obsidian (vault is rooted at cards/).
-- `reports/fix_image_embeds_v2.py` — one-shot migration: rewrites image embeds to standard markdown with relative paths + injects IP callout block at top of Vision section.
-- **Six parallel rounds today across 7+ batches:** 8 + 10 + 16 + 15 + 7 + 15 + 13 + 13 + 13 + 13 + 10 = **133 successful subagent dispatches**, all tier-clean. **10 IP cards flagged correctly:** Kiora, Nicol Bolas (×2), Teyo, the Wanderer, Garruk, Radha, Teferi, Tamiyo, Oko — all `suspected_ip` set, names kept out of `subject`.
-- **Hub-tag density:** 1029 unique hub tags emitted, **362 shared by 2+ cards** (was 53 at session start → 222 at 100-mark → 362 at 175-mark). The bridge-density growth is super-linear in card count, which is exactly what the lair architect needs.
-- **JSON path migration completed:** `reports/vision_pending/<game>/<set>/<slug>.json` now mirrors the `cards/` tree — protects against MTG reprint name-collisions (Opt, Cancel, basic lands appear in dozens of sets). All 124 pre-existing JSONs migrated via `git mv` to preserve history.
-- **`vocabulary_drift` lint check removed** — singular/plural splits intentionally allowed; semantic synonym collapse is Phase-5 janitorbot work.
-- **Researchbot non-idempotency bug** (logged in Findings): re-running `--prepare-only` can flap a card from `prepared` back to `manual_review`. bbl-researcher refusal logic catches it; not blocking but worth fixing.
-- **Wikilintbot graph-wide:** 2 info-only findings (singleton aggregations). 0 warns, 0 errors.
-- **Plan A (DeepSeek vision):** still text-only.
-- **Plan B (subagent vision):** running smoothly — 13 in parallel completes ~1 min wall-clock when the API is responsive.
-- **Repo:** local only, branch `main`. Commits this session: 5–6 stacked, all clean.
+- **1,221** active card MDs · **597** enriched (49% of corpus) · vision queue at **0** (drained)
+- **Manual review pile:** **9** genuine edge cases (tokens, art series, alt-art showcases)
+- **IP flags:** **20** suspected_ip cards (planeswalkers / named lore figures) — work queue for triviabot
+- **Hub-tag density:** 2,112 unique hub tags graph-wide; **945 shared by 2+ cards**. Top bridges: `forest` (115), `robed-figure` (115), `ritual` (104), `wilderness` (87), `fire` (80), `warrior` (62), `ruins` (58), `armor` (56), `wings` (55), `monster` (49), `fairy-tale` (49), `sky` (43).
+- **Foundational hubs:** 3 — `labor`, `rebellion`, `chinese-zodiac`
+- **Symbols:** 1 — `orzhov-signet`
+- **Discrete Lairs shipped:** 1 — **Discrete Lair 001: Tithe** (10 cards, $5.00, narrative-first, Stripe-ready)
+- **Subagents shipped:** 2 — `bbl-researcher`, `bbl-triviabot`. Sketched: `bbl-bundler`.
+- **DeepSeek vision verdict:** locked. NOT in public API. Re-probe trigger logged in memory.
+- **No-num-* backfill:** 1 straggler remaining (basically done)
 
 ### For the next session — pass-the-ball brief
 
-**Pick up here without reconstructing anything from git log.** The active loop is the same every session.
+**Pick up here without reconstructing anything from git log.**
 
-**1. The active enrichment loop:**
-```powershell
-python bbl_queue.py --with-qty --limit 13 --game "Magic: The Gathering"
-# fan out 13 Agent(subagent_type="bbl-researcher") calls in parallel,
-# one per card path, telling each agent:
-#   "BBL vision pass: <path>. Per agent definition (anti-confab applies).
-#    JSON: reports/vision_pending/<game>/<set>/<slug>.json. Stay focused on this card only."
-# wait for all to return
-git add -A cards/ reports/vision_pending/ .claude/settings.local.json
-git commit -m "Enrich +13 (... -> ...); <one-line note about cluster or notable IP catches>"
-python bbl_queue.py --count   # confirm new total
-# ask Alex if he wants another batch
-```
+**1. The active enrichment loop is on pause** — queue drained, 49% of corpus enriched. Next push needs either:
+- Another Collectr CSV upload (new cards) → `python csv2mdbot.py <csv>` → `python researchbot.py --prepare-only --limit 600 ...` → fan out bbl-researcher batches
+- OR re-review walk via `python bbl_review.py next 13` → upgrade older enrichments under v4 anti-confab prompt
+- OR pivot to Pokémon (researchbot path is wired, never exercised)
 
-**2. When the queue depletes:**
-```powershell
-python researchbot.py --prepare-only --limit 600 --game "Magic: The Gathering" --scryfall-sleep 1.0
-# topful refill. Already-prepared cards are skipped automatically.
-python bbl_queue.py --count   # see what's freshly ready
-```
+**2. The bundle production line is hot.** Tithe shipped, the workflow is proven, the bottleneck now is doing more lairs:
+- Bundle #2 candidates: another thesis-led concept (Rebellion? Chinese Zodiac year-of-the-X?), OR a softer mood lair to test register variety
+- Build `bbl-bundler` subagent to automate the candidate-matching → why_it_fits drafting → JSON emission pipeline (sketched in `docs/sketchbook.md`)
+- Push Tithe to live Stripe product (create in dashboard, paste Payment Link into `checkout.stripe_payment_url`)
 
-**3. When prep shows lots of `Skipped (no image found):` for sets that should obviously match:**
-```powershell
-python researchbot.py --retry-flagged --game "Magic: The Gathering" --retry-sleep 0.3
-# walks needs_manual_review: true cards and re-runs the lookup.
-# Most "no image found" cards were transient 429s, not real misses.
-```
+**3. Symbols layer is alive but skeletal.** One symbol so far. Highest-leverage next additions: Boros gauntlet, Dimir cipher, Eldraine throne pattern, Theros constellation, Lorwyn fae cyphers. Each new symbol unlocks cross-card cohesion copy in future bundles.
 
-**4. When Alex spots a wrong detail in a card (in Obsidian):**
-- Single-card fix: dispatch one bbl-researcher with explicit guidance about what to correct
-- Pattern catch (multiple cards with same failure mode): tighten the agent prompt at `.claude/agents/bbl-researcher.md`, then walk `bbl_review.py` from the top to upgrade the corpus
-- Don't panic-rebuild — the cursor system is designed for exactly this drift
+**4. Janitorial backlog:**
+- 9 manual-review cards (tokens, art series — small triage batch)
+- Mystery Booster Cards = The List folder path migration (33 cards, defer until a holistic janitor pass)
+- `bundles: ["tithe"]` sync on the 9 Tithe cards' frontmatter (currently empty)
+- Forest Remembers narrative "X as Y" idiom fix
 
-**5. Re-probe DeepSeek occasionally:** `python researchbot.py --list-models`. As of 2026-05-10 it's still text-only (`deepseek-v4-pro` and `deepseek-v4-flash`). If V4 vision ever ships, drop `--prepare-only` and run inline with `--model <new-id>`. Until then the bbl-researcher Claude Code subagent IS the vision pipeline.
+**5. DeepSeek vision:** check `chat.deepseek.com` periodically. When the beta tag drops from vision input, re-run the 12-variant probe (script in conversation history of session 00607c0f). Until then, no change to vision workflow.
 
-**6. The longer-term moves** (after MTG approaches all-enriched):
-- Stand up lair architect — graph density is well past activation (647 hub tags shared by 2+).
-- Re-review pass: `bbl_review.py next 13` → fan out subagents under latest prompt → `advance 13`. Walks all 357 cards under v4 (current) ruleset.
-- Pokémon enrichment first run (path is wired, never exercised).
-- Dragon Ball Super image-source strategy (no Scryfall equivalent).
-- Push to GitHub (`degenai/bulk-graph-bundler`, private).
-- Manual-review triage UI for the 9 stuck cards.
-- Collection-timeline HTML (sketched in `docs/sketchbook.md`).
-- Rename `researchbot.py` → `sourcebot.py`.
+### The most important rules locked into project memory
 
-### The most important rules locked into the project's memory
-
-These live in `~/.claude/projects/C--Users-alexa-Desktop-Bulk-Graph-Bundler/memory/` and the next Claude instance pulls them automatically. Don't re-derive them:
+These live in `~/.claude/projects/C--Users-alexa-Desktop-Bulk-Graph-Bundler/memory/` and the next Claude instance pulls them automatically:
 
 - **Vision queue uses 3-prong check, never frontmatter alone** — `bbl_queue.py` is the picker.
 - **Broad-net tags_hub** — 8–12 broad tags per card, never coined compounds.
 - **Color-magic is filter-tier** — `blue-magic` etc. NEVER in `tags_hub`.
-- **Singular/plural is intentional** — `sword` and `swords` are different lair anchors. Synonym collapse is Phase-5 janitor work.
+- **Singular/plural is intentional** — synonym collapse is Phase-9 janitor work.
 - **Update README status snapshot at session close** — Alex has session-close anxiety, the snapshot is the load-bearing artifact.
-- **Anti-confab principles** — under-specify rather than guess; no role-noun-imports-default-weapon; no card-frame-metadata reads. Authoritative spec at `.claude/agents/bbl-researcher.md`.
+- **Anti-confab principles** — under-specify rather than guess; no role-noun-imports-default-weapon; no card-frame-metadata reads; no role-identity-from-role-overlap conflation.
+- **Bundles are narrative-first** — title does the persuasion work, brand voice is anti-establishment / labor / curation-as-rebellion.
+- **Hubs are hand-curated** — foundational concepts authored by Alex, never auto-promoted from frequency.
+- **Bundle pricing codified** — $5 floor, shipping buyer-paid extra, narrative_premium as visible line item.
+- **No em dash in buyer-facing copy** — em dashes fine in commits/memory/sketchbook, scope is buyer-facing only.
+- **Verify API capability by calling the API** — research agents citing AI-influencer blogs are unreliable; probe before reporting.
 - **Caveman mode is novelty only** — drop to verbose when explaining workflow or when Alex says "I'm lost."
 
-### What this session actually did (2026-05-08 → 2026-05-10)
+### What changed this session (2026-05-11)
 
-For audit / continuity / "wait what happened":
-
-- **22 → 357 enriched MTG cards** across the multi-day sprint. ~16× growth.
-- **Scryfall recovery work**: discovered most "no image found" flags were rate-limit 429s being treated as real misses. Built `--retry-flagged` mode + hardened http_get_json + SET_NAME_ALIASES + name normalization. Recovered 387 cards from a dead-letter pile.
-- **Layout migration**: image cache moved from `images/` to `cards/_images/` so Obsidian (vault rooted at cards/) can render embeds inline. Standard markdown image syntax with relative paths. Migration scripts at `reports/migrate_images_into_cards.py` and `reports/fix_image_embeds_v2.py`.
-- **IP callout block** added prominently at top of Vision section for any card with `suspected_ip` set. Renders as a yellow Obsidian callout.
-- **Anti-confab prompt evolution**: v1 → v4 (current). Each version tightens a class of failure mode discovered live. v4 includes hair color / race / gender / weapons-from-archetype / card-frame-metadata.
-- **`bbl_review.py`**: chronological re-review queue + cursor for prompt-version drift. The list is the version control. 357 cards in queue, cursor at 0 (rebuilt at end-of-sprint).
-- **`docs/sketchbook.md`**: catch-all for forming ideas. First entry: collection-timeline HTML to render the git log as a visual narrative of the curation labor.
+- **Discrete Lair 001 — Tithe shipped** — 10-card bundle, narrative-first, full JSON schema v0.3, Stripe-ready
+- **Foundational hubs built** — labor, rebellion, chinese-zodiac at `cards/_hubs/`
+- **Symbols layer built** — first symbol `orzhov-signet` at `cards/_symbols/`, with bot guards updated
+- **bbl-triviabot agent spec shipped** at `.claude/agents/bbl-triviabot.md`
+- **DeepSeek vision verdict locked** — 12-variant probe + 5 corroborating GitHub issues confirm NOT in public API; watch signal logged for chat-UI beta-tag drop
+- **csv2mdbot body-wipe bug fixed** — `surgical_update_existing()` preserves card body + BBL-internal fields across CSV reconciliations
+- **No-num-* backfill** — Scryfall UUID extraction restored proper collector numbers; 1 straggler remains
+- **Mystery Booster Cards = The List** — 33 cards re-tagged with `set: The List` + `the_list_source_set: <CODE>`; folder path migration deferred to holistic janitor pass
+- **Bundle previewer scaffolded** at `diamondlegendz/bundle-previewer/` — HTML + anime.js v4 + sectioned receipt + Stripe checkout button
+- **Brand architecture locked** — BBL = show, Discrete Lair NNN = series, numbers append-only
+- **Pricing model codified** — $5 floor, narrative_premium as line item, multi-copy lever (`qty_in_bundle > 1`)
+- **No em dash rule** scoped to buyer-facing copy only
+- **Anti-confab v4 extended** to role-identity conflation (caught in Tithe Drinker / Slavomir Zoltan false-link test)

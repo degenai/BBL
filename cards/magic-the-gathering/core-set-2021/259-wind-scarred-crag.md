@@ -15,9 +15,9 @@ tags_filter: ["no-figure", "wide-shot", "scene-mode", "no-face", "land", "dual-l
 reference_image: cards/_images/magic-the-gathering/core-set-2021/259-wind-scarred-crag.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/5/6/56d7428b-25a
 mood: sublime
 time_of_day: sunset
 setting: mountain
+artist: Eytan Zana
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/259-wind-scarred-crag--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/6/56d7428b-25a7-4185-8c3e-69017bd1ba6d.jpg?1594737759
+oracle_text: This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {R} or {W}.
 ---
 
 # Wind-Scarred Crag (Core Set 2021)

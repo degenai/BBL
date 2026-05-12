@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "action-mode", "three-quarter-facing", "male-f
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/152-satyr-s-cunning.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/4/646d8201-be6
 mood: action
 time_of_day: indeterminate
 setting: dungeon
+artist: Deruchenko Alexander
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/152-satyr-s-cunning--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/4/646d8201-be68-42fa-bcfd-42d81a2ad195.jpg?1581480393
+flavor_text: It's hard to keep a satyr down, even in the Underworld.
+oracle_text: Create a 1/1 red Satyr creature token with \"This token can't block.\"\nEscape—{2}{R}, Exile two other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
 ---
 
 # Satyr's Cunning (Theros Beyond Death)

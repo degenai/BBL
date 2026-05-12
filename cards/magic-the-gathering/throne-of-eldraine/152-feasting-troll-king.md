@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "creature-troll", "creature-n
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/152-feasting-troll-king.png
 average_cost_paid: 0
 market_price: 0.74
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/a/9a6bb435-120
 mood: grim
 time_of_day: indeterminate
 setting: forest
+artist: Nicholas Gregory
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/152-feasting-troll-king--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/a/9a6bb435-1205-416a-a5a0-ca6d37b4dcb2.jpg?1572490524
+oracle_text: Vigilance, trample\nWhen this creature enters, if you cast it from your hand, create three Food tokens. (They're artifacts with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nSacrifice three Foods: Return this card from your graveyard to the battlefield. Activate only during your turn.
 ---
 
 # Feasting Troll King (Throne of Eldraine)

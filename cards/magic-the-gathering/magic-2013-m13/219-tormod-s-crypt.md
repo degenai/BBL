@@ -15,9 +15,9 @@ tags_filter: ["artifact", "no-figures", "scene-mode", "mid-shot", "no-face", "co
 reference_image: cards/_images/magic-the-gathering/magic-2013-m13/219-tormod-s-crypt.png
 average_cost_paid: 0
 market_price: 0.39
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/e/f/efdfb60b-948b-40fb-b18e-08f0300624b3.png?1562561704
 art_match_confidence: high
 needs_manual_review: false
@@ -25,6 +25,11 @@ manual_review_reason:
 mood: grim
 time_of_day: twilight
 setting: other
+artist: Lars Grant-West
+art_crop_image: cards/_images/magic-the-gathering/magic-2013-m13/219-tormod-s-crypt--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/f/efdfb60b-948b-40fb-b18e-08f0300624b3.jpg?1562561704
+flavor_text: Dominaria's most extravagant crypt nevertheless holds an empty grave.
+oracle_text: {T}, Sacrifice this artifact: Exile target player's graveyard.
 ---
 
 # Tormod's Crypt (Magic 2013 (M13))

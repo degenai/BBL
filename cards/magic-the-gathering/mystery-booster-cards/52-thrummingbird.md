@@ -1,7 +1,7 @@
 ---
 name: Thrummingbird
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 52
 rarity: U
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["solo", "close-up", "portrait-mode", "faces-left", "no-face", "cre
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/52-thrummingbird.png
 average_cost_paid: 0
 market_price: 0.32
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,10 @@ mood: other
 time_of_day: indeterminate
 setting: other
 the_list_source_set: CM2
+artist: Efrem Palacios
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/52-thrummingbird--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/4/e4adf2d0-5a76-498e-88d4-474d6934a2f5.jpg?1573508621
+oracle_text: Flying\nWhenever this creature deals combat damage to a player, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 ---
 
 # Thrummingbird (Mystery Booster Cards)

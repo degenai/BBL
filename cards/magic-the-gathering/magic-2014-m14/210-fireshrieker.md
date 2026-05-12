@@ -15,9 +15,9 @@ tags_filter: ["no-face", "no-figure", "scene-mode", "mid-shot", "red-magic", "ar
 reference_image: cards/_images/magic-the-gathering/magic-2014-m14/210-fireshrieker.png
 average_cost_paid: 0
 market_price: 0.35
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/9/f/9f653742-b92a-4cfa-b3b5-8d20aabdb5dd.png?1562832986
 art_match_confidence: high
 needs_manual_review: false
@@ -25,6 +25,10 @@ manual_review_reason:
 mood: action
 time_of_day: indeterminate
 setting: other
+artist: Christopher Moeller
+art_crop_image: cards/_images/magic-the-gathering/magic-2014-m14/210-fireshrieker--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/f/9f653742-b92a-4cfa-b3b5-8d20aabdb5dd.jpg?1562832986
+oracle_text: Equipped creature has double strike. (It deals both first-strike and regular combat damage.)\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 ---
 
 # Fireshrieker (Magic 2014 (M14))

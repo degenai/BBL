@@ -15,15 +15,19 @@ tags_filter: ["solo", "mid-shot", "faces-left", "scene-mode", "no-face", "creatu
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/199-spineseeker-centipede.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-10
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/b/5/b50d697c-8358-429b-8f79-7ad9d01a5edd.png?1726286608
 art_match_confidence: high
 needs_manual_review: false
 mood: horror
 time_of_day: indeterminate
 setting: forest
+artist: Dave Kendall
+art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/199-spineseeker-centipede--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/5/b50d697c-8358-429b-8f79-7ad9d01a5edd.jpg?1726286608
+oracle_text: When this creature enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nDelirium — This creature gets +1/+2 and has vigilance as long as there are four or more card types among cards in your graveyard.
 ---
 
 # Spineseeker Centipede (Duskmourn: House of Horror)

@@ -1,7 +1,7 @@
 ---
 name: Hinterland Drake
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 34
 rarity: C
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide-shot", "scene-mode", "no-face", "creature-drake", "b
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/34-hinterland-drake.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: sublime
 time_of_day: day
 setting: mountain
 the_list_source_set: AER
+artist: Lake Hurwitz
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/34-hinterland-drake--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/f/cf393788-1465-4d3b-95a8-0fd08d7f12e2.jpg?1573507714
+flavor_text: \"As a kid, I dreamed of flying on those wild drakes. They inspired me to build wings of my own.\"\n—Nadja Cloudtoucher, aerowright
+oracle_text: Flying\nThis creature can't block artifact creatures.
 ---
 
 # Hinterland Drake (Mystery Booster Cards)

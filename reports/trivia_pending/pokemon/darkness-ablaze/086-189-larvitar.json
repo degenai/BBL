@@ -1,0 +1,53 @@
+{
+  "card_name": "Larvitar",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "086/189",
+  "task_profile": "general",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card prints the species name 'Larvitar' on the card face; National Pokedex #246, Rock Skin Pokemon, introduced in Generation II / Johto (Gold/Silver, 1999/2000). Pokemon-internal IP, no external-crossover risk, so no ## IP block is required. Vision pass already flipped ip_verified to true; triviabot reconciles the stale 'Suspected IP' warning callout in the body.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Darkness Ablaze (SWSH3) is the third main Sword & Shield Series expansion, released August 14, 2020 — 201 cards total (189 numbered + 12 secret rares). The set is built around Charizard VMAX (#020/189), one of the most chased modern-era TCG headliners; Eternatus VMAX (#192/189) and Scizor VMAX (#193/189) round out the secret-rare ceiling. [PokemonTCG.io API: swsh3 set] [Bulbapedia: Darkness Ablaze, via WebSearch snippet]",
+      "sources": ["PokemonTCG.io API: swsh3", "Bulbapedia: Darkness Ablaze (TCG)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Larvitar is the 'Rock Skin Pokemon,' National Pokedex #246, a Rock/Ground-type basic introduced in Generation II (Gold/Silver, Johto region, 1999/2000). It evolves into Pupitar at level 30, which evolves into Tyranitar at level 55 — Tyranitar is one of Gen II's two pseudo-legendaries (alongside Dragonite-line successor logic) and the apex of the Johto roster. In TCG terms the Rock/Ground species maps onto Fighting energy, which is why this print runs Sand Spray (F) and Pierce (CC). [Bulbapedia: Larvitar (Pokemon), via WebSearch snippet] [PokemonDB: Larvitar]",
+      "sources": ["Bulbapedia: Larvitar (Pokemon)", "PokemonDB: Larvitar"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Printed flavor text on this card: 'Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.' This is continuous with the wider Pokedex framing of the species as a subterranean grub that eats its way out of mountains — Gold/Silver-era entries establish that Larvitar lives in mountain interiors, surfacing only after consuming an entire mountain's worth of earth, at which point it pupates into Pupitar. [PokemonTCG.io API: swsh3-86 flavorText] [Bulbapedia: Larvitar Pokedex entries, via WebSearch snippet]",
+      "sources": ["PokemonTCG.io API: swsh3-86", "Bulbapedia: Larvitar (Pokemon)"]
+    },
+    {
+      "category": "design",
+      "text": "Card art is by Sanosuke Sakuma (born Oct 31, 1990, Kanagawa; began illustrating Pokemon TCG in 2013; ~159 cards in the main TCG plus 32 in Pocket as of recent count). Notably, Sakuma also designed several Sword & Shield trainer-class character designs in-game — Worker, Backpacker, Businessman, Office Lady, Artist, Police Officer, Doctor, Poke Kid — which makes her a rare cross-medium artist whose work shows up both on TCG cards and in the regional NPC bench of the games this set ties into. [Bulbapedia: Sanosuke Sakuma, via WebSearch snippet] [Art of Pokemon: Sanosuke Sakuma]",
+      "sources": ["Bulbapedia: Sanosuke Sakuma", "Art of Pokemon illustrator page"]
+    },
+    {
+      "category": "design",
+      "text": "Larvitar's TCG history runs deep: 30 prints across the database, with the species' first TCG appearance in Neo Discovery (#57/75, released June 1, 2001, illustrated by Hironobu Yoshida — a Game Freak / TPC art director associated with foundational Pokemon character design work). The Sakuma garden-walkway print is the only Sword & Shield-era Larvitar in the main series. Reverse-holo variants of this print trade meaningfully above the normal-print floor (~$0.22 reverse-holo market vs ~$0.05 normal, per PokemonTCG.io price snapshot 2026-05-11). [PokemonTCG.io API: name:Larvitar query] [PokemonTCG.io API: swsh3-86 tcgplayer prices]",
+      "sources": ["PokemonTCG.io API: name:Larvitar", "PokemonTCG.io API: swsh3-86"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Anime context that often surfaces in Larvitar discourse: Ash Ketchum hatched a Larvitar in the Johto-arc episode 'Hatch Me If You Can' (EP258), from an egg stolen by poachers off Mt. Silver; the storyline returned Larvitar to its Tyranitar mother on Mt. Silver rather than letting it evolve in-party. The egg-hatching / lost-baby framing is the dominant emotional reference point for the species in fan-facing material, and pairs naturally with this card's calm-garden-setting art (not a battle scene; a small creature in a quiet outdoor moment). [Bulbapedia: Ash's Larvitar, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Ash's Larvitar", "Bulbapedia: EP258 'Hatch Me If You Can'"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pupitar", "set": "Darkness Ablaze or various", "note": "Direct evolution from Larvitar at level 30; the pupa-stage Pokemon directly referenced in this card's flavor text ('becomes a pupa once it has finished eating the surrounding soil')."},
+    {"name": "Tyranitar", "set": "Darkness Ablaze or various", "note": "Final evolution; Gen II pseudo-legendary and the apex of the Johto Pokedex. Any bundle framing this Larvitar passes through Tyranitar — the line's narrative weight is loaded at the top."},
+    {"name": "Charizard VMAX", "set": "Darkness Ablaze, #020/189", "note": "Set headliner and most chased card in SWSH3; the marketing anchor for any Darkness Ablaze-coded bundle."},
+    {"name": "Eternatus VMAX", "set": "Darkness Ablaze, #192/189", "note": "Secret-rare set boss; thematic anchor for the set's 'darkness' branding (Galar's apocalyptic threat in SwSh main game)."},
+    {"name": "Larvitar", "set": "Neo Discovery (2001), #57/75", "note": "Species' first TCG print, illustrated by Hironobu Yoshida; vintage Johto-era touchstone for any Larvitar-line bundle."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

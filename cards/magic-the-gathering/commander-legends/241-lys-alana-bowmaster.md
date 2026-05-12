@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "faces-right", "action-mode", "female-figure",
 reference_image: cards/_images/magic-the-gathering/commander-legends/241-lys-alana-bowmaster.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/8/3888e2f0-223
 mood: action
 time_of_day: day
 setting: forest
+artist: Dan Murayama Scott
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/241-lys-alana-bowmaster--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/8/3888e2f0-223b-4509-8071-fe1b87a65b72.jpg?1608910787
+oracle_text: Reach\nWhenever you cast an Elf spell, you may have this creature deal 2 damage to target creature with flying.
 ---
 
 # Lys Alana Bowmaster (Commander Legends)

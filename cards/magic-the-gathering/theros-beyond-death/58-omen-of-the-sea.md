@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face-vi
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/58-omen-of-the-sea.png
 average_cost_paid: 0
 market_price: 0.24
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/a/5/a5f30ecd-d00
 mood: sublime
 time_of_day: indeterminate
 setting: ocean
+artist: Piotr Dura
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/58-omen-of-the-sea--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/5/a5f30ecd-d009-4d44-aef4-c926ed55a521.jpg?1581479435
+flavor_text: \"My time will come, when the rising tide will surge above the tallest mountain.\"
+oracle_text: Flash (You may cast this spell any time you could cast an instant.)\nWhen this enchantment enters, scry 2, then draw a card.\n{2}{U}, Sacrifice this enchantment: Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)
 ---
 
 # Omen of the Sea (Theros Beyond Death)

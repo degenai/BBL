@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "female-fig
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/205-sultai-soothsayer.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/a/e/ae0de2c9-957
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Cynthia Sheppard
+art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/205-sultai-soothsayer--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/e/ae0de2c9-957e-41ee-8899-b93e6f1091dc.jpg?1562791937
+flavor_text: The naga of the Sultai Brood made deals with dark forces to keep their power.
+oracle_text: When this creature enters, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
 ---
 
 # Sultai Soothsayer (Khans of Tarkir)

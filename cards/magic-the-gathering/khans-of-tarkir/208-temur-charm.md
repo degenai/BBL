@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide-shot", "scene-mode", "forward-facing", "no-face", "i
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/208-temur-charm.png
 average_cost_paid: 0
 market_price: 0.21
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/e/2/e2ee3e36-a84
 mood: sublime
 time_of_day: indeterminate
 setting: mountain
+artist: Mathias Kollros
+art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/208-temur-charm--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/2/e2ee3e36-a849-42b0-b84b-027a08427c35.jpg?1562794960
+oracle_text: Choose one —\n• Target creature you control gets +1/+1 until end of turn. It fights target creature you don't control.\n• Counter target spell unless its controller pays {3}.\n• Creatures with power 3 or less can't block this turn.
 ---
 
 # Temur Charm (Khans of Tarkir)

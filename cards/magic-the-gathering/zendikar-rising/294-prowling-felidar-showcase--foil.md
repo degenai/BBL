@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "faces-left", "portrait-mode", "no-human-figur
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/294-prowling-felidar-showcase--foil.png
 average_cost_paid: 0
 market_price: 0.19
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/9/b9d1c11a-a32
 mood: action
 time_of_day: indeterminate
 setting: other
+artist: Ilse Gort
+art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/294-prowling-felidar-showcase--foil--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/9/b9d1c11a-a32c-449c-95c6-450dce6c26d2.jpg?1604193011
+flavor_text: On occasion, felidars leave meaty \"gifts\" outside the tents of explorers they consider worthy.
+oracle_text: Vigilance\nLandfall — Whenever a land you control enters, put a +1/+1 counter on this creature.
 ---
 
 # Prowling Felidar (Showcase) (Zendikar Rising)

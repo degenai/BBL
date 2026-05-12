@@ -14,10 +14,10 @@ tags_hub: ["ghost", "spirit", "ethereal", "luminous", "afterlife", "mourning", "
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "no-face", "portrait-mode", "creature-spirit", "white-magic", "flying", "1-figure", "void-background"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/17-grateful-apparition.png
 average_cost_paid: 0
-market_price: 0.3
-market_price_as_of: 2026-05-10
+market_price: 0.29
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/7/d/7dcb1f9d-105
 mood: peaceful
 time_of_day: indeterminate
 setting: void
+artist: Izzy
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/17-grateful-apparition--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/d/7dcb1f9d-105d-48c6-bd66-d7e8839de9e1.jpg?1557575969
+oracle_text: Flying\nWhenever this creature deals combat damage to a player or planeswalker, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 ---
 
 # Grateful Apparition (War of the Spark)

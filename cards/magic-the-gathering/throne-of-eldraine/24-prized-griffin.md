@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "action", "forward-facing", "three-quarter", "
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/24-prized-griffin.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/8/7/877bd423-83f
 mood: sublime
 time_of_day: day
 setting: other
+artist: Jesper Ejsing
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/24-prized-griffin--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/7/877bd423-83ff-4a28-b0d2-447a7821bb8c.jpg?1572489744
+flavor_text: \"I wrote these tales with a quill made from a griffin's feather. And the winning of that feather is quite a tale itself.\"\n—Chulane, Teller of Tales
+oracle_text: Flying
 ---
 
 # Prized Griffin (Throne of Eldraine)

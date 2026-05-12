@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "no-face", "close-up", "object-only", "artifact", "e
 reference_image: cards/_images/magic-the-gathering/commander-legends/333-pirate-s-cutlass.png
 average_cost_paid: 0
 market_price: 0.19
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/c/5/c5dc0635-0cc
 mood: other
 time_of_day: indeterminate
 setting: ocean
+artist: John Stanko
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/333-pirate-s-cutlass--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/5/c5dc0635-0cc4-419e-ab64-c07a69f34f75.jpg?1608911636
+oracle_text: When this Equipment enters, attach it to target Pirate you control.\nEquipped creature gets +2/+1.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 ---
 
 # Pirate's Cutlass (Commander Legends)

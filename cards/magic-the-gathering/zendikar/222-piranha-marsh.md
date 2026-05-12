@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "wide-shot", "scene-mode", "land", "black-magic", "n
 reference_image: cards/_images/magic-the-gathering/zendikar/222-piranha-marsh.png
 average_cost_paid: 0
 market_price: 0.24
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/e/a/ea077cff-b5c
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Nic Klein
+art_crop_image: cards/_images/magic-the-gathering/zendikar/222-piranha-marsh--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/a/ea077cff-b5c9-4a40-8e66-8810c37be5cb.jpg?1562617915
+oracle_text: This land enters tapped.\nWhen this land enters, target player loses 1 life.\n{T}: Add {B}.
 ---
 
 # Piranha Marsh (Zendikar)

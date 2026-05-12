@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide-shot", "three-quarter", "action-mode", "no-face-huma
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/223-mischievous-chimera.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/f/8/f8a3df0e-4ee
 mood: sublime
 time_of_day: day
 setting: ocean
+artist: Antonio José Manzanedo
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/223-mischievous-chimera--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/8/f8a3df0e-4ee8-458b-adf5-56aca20493e9.jpg?1581481116
+flavor_text: Some curiosities are best left alone.
+oracle_text: Flying\nWhenever you cast your first spell during each opponent's turn, this creature deals 1 damage to each opponent. Scry 1.
 ---
 
 # Mischievous Chimera (Theros Beyond Death)

@@ -1,0 +1,70 @@
+{
+  "edge_id": "nicol-bolas--characters-layer-proposal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "node_proposed": {
+    "layer": "characters",
+    "layer_status": "new (this proposal introduces the layer)",
+    "path": "cards/_characters/nicol-bolas.md",
+    "name": "Nicol Bolas",
+    "type_field": "character",
+    "frontmatter_pattern_basis": "cards/_artists/jenn-ravenna-tran.md (mirrors the artist layer's skeleton: type / name / aliases / universe / canonical_source / confidence / appears_on / related_hubs)"
+  },
+  "endpoints_now_pointing_at_node": [
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/26-prison-realm.md", "name": "Prison Realm (WAR-26)"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/35-topple-the-statue.md", "name": "Topple the Statue (WAR-35)"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/190-despark.md", "name": "Despark (WAR-190)"}
+  ],
+  "description": "Sir, Edgelord steps aside and Mr. Nodeley apologizes for the inconvenience. Three trivia-passed cards depict adjacent narrative beats of one named character's defeat (Bolas-Falls cluster: Topple the Statue Act 2 + Despark Act 3 + Prison Realm Act 3 coda), all carry Scryfall story_spotlight: true, all are designer-confirmed for the same set's spotlight cycle, and the load-bearing connection across them is the character himself, not an iconographic primitive or a single visual motif — Topple shows his statue, Despark shows his slave-mage commanding his Eternals against him, Prison Realm shows him in person bound under Ugin's containment. The right shape is a character node, which also means proposing the characters layer (more sniveling). The existing Despark↔Topple 1:1 edge stays as a card-to-card cohesion mirror; the new character node accrues future Bolas printings (Nicol Bolas Dragon-God, Bolas's Citadel, the Amonkhet block, the Conflux block) cleanly without requiring N²/2 mirror edges. I hope this is acceptable.",
+  "citations": [
+    "[Scryfall: story_spotlight: true on WAR-26, WAR-35, WAR-190]",
+    "[MTG Wiki: Nicol Bolas]",
+    "[MTG Wiki: Meditation Plane — confirms post-WAR rename to Prison Realm under Ugin's containment]",
+    "[MTG Wiki: War of the Spark — confirms 27-card story-spotlight cycle and Bolas-Falls cluster]",
+    "[War of the Spark: Ravnica novel, Greg Weisman, Del Rey 2019 — canonical prose source for the defeat sequence]",
+    "[Wizards story archive: magic.wizards.com/en/news/story]"
+  ],
+  "files_modified": [
+    "cards/_characters/nicol-bolas.md (CREATED — also introduces the cards/_characters/ directory)",
+    "cards/magic-the-gathering/war-of-the-spark/26-prison-realm.md (added characters: [\"nicol-bolas\"] frontmatter pointer)",
+    "cards/magic-the-gathering/war-of-the-spark/35-topple-the-statue.md (added characters: [\"nicol-bolas\"] frontmatter pointer)",
+    "cards/magic-the-gathering/war-of-the-spark/190-despark.md (added characters: [\"nicol-bolas\"] frontmatter pointer)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "alternatives_considered": [
+    {
+      "candidate": "Hub at cards/_hubs/story-spotlight-bolas-falls.md",
+      "why_skipped": "Hubs are foundational brand-anchor concepts hand-curated by Alex (Labor, Rebellion, Chinese Zodiac per memory bbl-hubs-hand-curated). Bolas-Falls is a specific 3-card narrative event inside a single set, not a brand-anchor. Wrong layer."
+    },
+    {
+      "candidate": "Symbol at cards/_symbols/fallen-idol.md (or similar — toppled-monumental-sculpture-of-tyrant iconography)",
+      "why_skipped": "The three cards do not share a single iconographic primitive — Topple has a literal collapsing dragon-god statue, Despark has broken god-statues as background behind Liliana, Prison Realm has Bolas in person bound in a magenta void. The load-bearing connection is the character, not the iconography. A future fallen-idol symbol could legitimately edge to Topple specifically, but it would not unify the cluster."
+    },
+    {
+      "candidate": "Broader hub at cards/_hubs/story-spotlight.md (all Scryfall story-spotlights across all sets)",
+      "why_skipped": "Metadata-tier, not narrative-tier. story_spotlight is a Scryfall flag — useful as a search predicate, but not the kind of foundational thesis-concept that anchors a Discrete Lair. The 27-card WAR cycle alone wouldn't make a coherent bundle; the Bolas-Falls subset would. The narrative subset is where the gravity lives, and the character anchor captures it."
+    },
+    {
+      "candidate": "DARK NODESLEY EX dissolution of the existing Despark↔Topple 1:1 edge (subsumed by character node?)",
+      "why_skipped": "Considered and rejected. The Despark↔Topple 1:1 edge has its own load-bearing content (paired story-spotlight Acts of the same arc, designer-tagged, mirrored bidirectionally) and remains valid card-to-card cohesion data even with the character node in place. It is not subsumed in the symbol-replaced-1:1 sense; it complements. The character node anchors the cluster; the 1:1 mirror records the act-pairing. Both stay. No dissolution needed."
+    }
+  ],
+  "future_passes_unlocked": [
+    "Future Bolas-depicting cards (Nicol Bolas Dragon-God WAR-207, Nicol Bolas Planeswalker, Bolas's Citadel WAR-79, Liliana Dreadhorde General WAR-97 as agent-of-defeat-edges-to-Bolas) attach to this node directly without N²/2 mirror edges.",
+    "A future Ugin character node would edge to Prison Realm as the jailer side of the same beat (twin/counterposition relation between Nicol Bolas and Ugin).",
+    "A future Liliana character node would edge to Despark as the protagonist-of-the-act side; Despark would carry edges to both Bolas (object of defeat) and Liliana (agent of defeat) — character nodes legitimately co-occupy a card.",
+    "The Bolas-Falls cluster is now a bundle-cohesion stack. Three cards converging on one thematic anchor is a 'stack' topology per the edgelord spec; the bundler will love this. A Discrete Lair on Bolas's defeat could be authored from these three cards plus future Bolas-arc additions, with the why_it_fits prose anchored to the character node's canonical content."
+  ],
+  "layer_proposal_notes": {
+    "directory": "cards/_characters/",
+    "underscore_prefix_satisfies_wikilintbot_non_card_guard": true,
+    "wikilintbot_type_list_currently_accepts": ["hub", "symbol", "artist"],
+    "recommendation": "wikilintbot.py line 187 should be extended to include \"character\" in the type tuple of _is_non_card_node, so character MDs are properly excluded from inventory checks even if a future one is placed outside _characters/. The current _-prefix directory rule already covers everything under cards/_characters/, so this is a forward-compatibility recommendation rather than a blocker.",
+    "frontmatter_schema": {
+      "required": ["type", "name", "aliases", "universe", "canonical_source", "confidence", "appears_on"],
+      "optional": ["faction", "species", "related_hubs", "related_symbols", "ip_resolution_for", "notes"],
+      "ip_resolution_for": "Optional field: when a character is the canonical resolution for one or more cards' suspected_ip frontmatter value, list the IP string here. Mirrors the artist layer's aliases-driven name resolution pattern. Enables a future triviabot pass to validate that suspected_ip values across the corpus resolve to a character node."
+    }
+  }
+}

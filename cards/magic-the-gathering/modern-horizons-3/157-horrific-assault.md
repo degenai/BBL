@@ -15,15 +15,20 @@ tags_filter: ["solo", "mid-shot", "female-figure", "three-quarter-facing", "scen
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/157-horrific-assault.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-10
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/c/f/cfa6ed13-7bba-40c0-8e0e-4ffd3cea6241.png?1717012485
 art_match_confidence: high
 needs_manual_review: false
 mood: horror
 time_of_day: indeterminate
 setting: forest
+artist: Justine Jones
+art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/157-horrific-assault--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/f/cfa6ed13-7bba-40c0-8e0e-4ffd3cea6241.jpg?1717012485
+flavor_text: With shifting forms and no angel to pray to, Innistrad's werewolves were especially susceptible to Emrakul's influence.
+oracle_text: Target creature you control deals damage equal to its power to target creature or planeswalker you don't control. If you control an Eldrazi, you gain 3 life.
 ---
 
 # Horrific Assault (Modern Horizons 3)

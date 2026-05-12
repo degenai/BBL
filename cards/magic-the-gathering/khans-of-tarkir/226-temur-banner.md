@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "no-face", "mid-shot", "forward-facing", "artifact",
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/226-temur-banner.png
 average_cost_paid: 0
 market_price: 0.16
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/9/9990bdff-c27
 mood: grim
 time_of_day: indeterminate
 setting: mountain
+artist: Daniel Ljunggren
+art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/226-temur-banner--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/9/9990bdff-c27a-447f-b530-d8b7614fe9a0.jpg?1562790835
+flavor_text: Savagery to survive, courage to triumph.
+oracle_text: {T}: Add {G}, {U}, or {R}.\n{G}{U}{R}, {T}, Sacrifice this artifact: Draw a card.
 ---
 
 # Temur Banner (Khans of Tarkir)

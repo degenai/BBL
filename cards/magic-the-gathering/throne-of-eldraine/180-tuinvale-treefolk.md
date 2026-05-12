@@ -14,16 +14,20 @@ tags_hub: ["treefolk", "forest", "ancient", "druid", "mentor", "verdant", "moss"
 tags_filter: ["mid-shot", "portrait-mode", "solo", "forward-facing", "creature-treefolk", "green-mono", "uncommon"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/180-tuinvale-treefolk.png
 average_cost_paid: 0
-market_price: 0.15
-market_price_as_of: 2026-05-10
+market_price: 0.16
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/8/b/8bc518fc-904e-4e39-aeda-ffb222bfcc82.png?1572490693
 art_match_confidence: high
 needs_manual_review: false
 mood: peaceful
 time_of_day: day
 setting: forest
+artist: Jason A. Engle
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/180-tuinvale-treefolk--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/b/8bc518fc-904e-4e39-aeda-ffb222bfcc82.jpg?1572490693
+flavor_text: \"Right now you are a feeble stick, but I will help you grow some rings.\"
 ---
 
 # Tuinvale Treefolk (Throne of Eldraine)

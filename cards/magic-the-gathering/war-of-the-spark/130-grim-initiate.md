@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "no-face", "b
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/130-grim-initiate.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/2/9/29b6ec9d-386
 mood: grim
 time_of_day: indeterminate
 setting: desert
+artist: Jason Felix
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/130-grim-initiate--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/9/29b6ec9d-3861-48bf-a198-dc7efba5d89c.jpg?1557576710
+flavor_text: Beneath each gleaming mineral shell rots a once-proud warrior of Amonkhet.
+oracle_text: First strike\nWhen this creature dies, amass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)
 ---
 
 # Grim Initiate (War of the Spark)

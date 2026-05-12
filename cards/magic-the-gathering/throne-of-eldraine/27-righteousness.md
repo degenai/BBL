@@ -15,9 +15,9 @@ tags_filter: ["duo", "mid-shot", "three-quarter", "action-mode", "male-figure", 
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/27-righteousness.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/d/2/d2910df2-e28
 mood: sublime
 time_of_day: indeterminate
 setting: other
+artist: Howard Lyon
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/27-righteousness--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/2/d2910df2-e288-4fa0-9859-c5ca35da2d55.jpg?1572489762
+flavor_text: Syr Damon looked at the dragon and saw the faces of every innocent it had devoured. Suddenly, his sword blazed like the sun.
+oracle_text: Target blocking creature gets +7/+7 until end of turn.
 ---
 
 # Righteousness (Throne of Eldraine)

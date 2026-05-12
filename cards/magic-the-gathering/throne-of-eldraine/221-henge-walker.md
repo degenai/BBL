@@ -15,9 +15,9 @@ tags_filter: ["solo", "forward-facing", "mid-shot", "portrait-mode", "no-face", 
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/221-henge-walker.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/9/9925f0bc-868
 mood: sublime
 time_of_day: day
 setting: forest
+artist: Titus Lunter
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/221-henge-walker--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/9/9925f0bc-8685-4e38-8864-0ad3a9549ab5.jpg?1572490988
+flavor_text: Everything that inhabits Garenbrig is affected by the wild magic flowing through the Great Henge.
+oracle_text: Adamant — If at least three mana of the same color was spent to cast this spell, this creature enters with a +1/+1 counter on it.
 ---
 
 # Henge Walker (Throne of Eldraine)

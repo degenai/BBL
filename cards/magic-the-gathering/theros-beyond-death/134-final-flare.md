@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "no-face", "i
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/134-final-flare.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/f/0/f0c95dee-a48
 mood: action
 time_of_day: indeterminate
 setting: other
+artist: Kev Walker
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/134-final-flare--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/0/f0c95dee-a480-4878-a967-9e46be9ee372.jpg?1581480144
+flavor_text: Those who fought without honor in life are taken to Agonas and doomed to fight forever in its arenas.
+oracle_text: As an additional cost to cast this spell, sacrifice a creature or enchantment.\nFinal Flare deals 5 damage to target creature.
 ---
 
 # Final Flare (Theros Beyond Death)

@@ -1,0 +1,46 @@
+{
+  "card_name": "Teyo's Lightshield",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "33",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Teyo's Lightshield' plus Scryfall flavor_text ('Teyo gifted his shields to as many allies as possible, knowing he could not always be there to protect them himself.') name the depicted figure as Teyo directly. The companion card 'Teyo, the Shieldmage' (WAR no. 032, Legendary Planeswalker — Teyo subtype, Magali Villeneuve) is the planeswalker version of the same character, also released in WAR with the same {2}{W} mana cost and a -2 ability creating a 0/3 white Wall token with defender — exactly mirroring this common's 0/3 Illusion creature line. MTG Wiki confirms Teyo Verada is the human shieldmage / geometrist planeswalker from Gobakhan introduced in War of the Spark. Teyo is a Wizards-internal Magic-original character, so no external IP risk; ip_verified flips to true and no IP callout block is added to the body.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "War of the Spark (released 2019-05-03) is the climax of the four-set Bolas arc culminating on Ravnica; the set introduced Teyo Verada, a human shieldmage / 'geometrist' from the desert plane Gobakhan, one of several rookie planeswalkers whose sparks ignited when Bolas's Interplanar Beacon called walkers to Ravnica [Scryfall set:war] [MTG Wiki: Teyo Verada, via WebSearch snippet].",
+      "sources": ["Scryfall API (set:war)", "MTG Wiki: Teyo Verada (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Teyo's Lightshield (no. 033, common) is paired directly with 'Teyo, the Shieldmage' (WAR no. 032, uncommon Legendary Planeswalker — Teyo, illustrated by Magali Villeneuve). Both share mana cost {2}{W}; the Lightshield is a 0/3 Illusion, and the planeswalker's -2 ability creates a 0/3 white Wall token with defender — the common is effectively a portable, named version of Teyo's signature shield-summon ability [Scryfall: Teyo's Lightshield; Scryfall: Teyo, the Shieldmage].",
+      "sources": ["Scryfall API (Teyo's Lightshield)", "Scryfall API (Teyo, the Shieldmage)"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Igor Kieryluk; frame 2015; not a Story Spotlight (story_spotlight: false). The card is a {2}{W} 0/3 Creature — Illusion with ETB trigger 'When this creature enters, put a +1/+1 counter on target creature you control.' Format legality: Pioneer / Modern / Legacy / Pauper / Vintage / Commander / Pauper Commander all legal [Scryfall].",
+      "sources": ["Scryfall API (artist, frame, oracle_text, legalities, story_spotlight)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Scryfall flavor_text verbatim: 'Teyo gifted his shields to as many allies as possible, knowing he could not always be there to protect them himself.' No in-fiction speaker is credited on the card; the flavor reads as narrator-voice. This is the citation that resolves the IP-verification flag — the flavor text names Teyo directly, and the companion planeswalker card establishes him as a Magic-original character [Scryfall flavor_text].",
+      "sources": ["Scryfall API (flavor_text field)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Scryfall edhrec_rank 27193 (deep niche), USD price 0.03 / foil 0.49 as of 2026-05-11. Pauper-legal and Commander-legal but rarely played outside dedicated Teyo-tribal or +1/+1 counter Pauper brews; a 0/3 body with a single counter trigger reads as fair-but-unexciting limited filler at common [Scryfall: edhrec_rank, prices, legalities].",
+      "sources": ["Scryfall API (edhrec_rank, prices, legalities)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Teyo, the Shieldmage", "set": "War of the Spark", "note": "Planeswalker version of the same character; direct mechanical and flavor mirror at the same {2}{W} cost; same set, adjacent collector numbers (032 / 033)"},
+    {"name": "Wall", "set": "War of the Spark", "note": "0/3 white Wall token with defender created by Teyo, the Shieldmage's -2 ability; same 0/3 stat line as Teyo's Lightshield — both represent Teyo's summoned shield-creatures"},
+    {"name": "Teyo, Geometric Tactician", "set": "Commander Masters", "note": "Teyo's second printing as a planeswalker (CMM no. 725, 2023); confirms Teyo as a recurring named character in Wizards' planeswalker roster post-WAR"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

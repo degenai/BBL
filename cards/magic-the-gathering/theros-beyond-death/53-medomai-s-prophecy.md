@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "object-focus", "close-up", "scene-mode", "blue-magi
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/53-medomai-s-prophecy.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/d/3d2bd7b4-28d
 mood: sublime
 time_of_day: indeterminate
 setting: indoor
+artist: Seb McKinnon
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/53-medomai-s-prophecy--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/d/3d2bd7b4-28de-4d9e-86c5-a46bd608cb02.jpg?1581479392
+oracle_text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)\nI — Scry 2.\nII — Choose a card name.\nIII — When you cast a spell with the chosen name for the first time this turn, draw two cards.\nIV — Look at the top card of each player's library.
 ---
 
 # Medomai's Prophecy (Theros Beyond Death)

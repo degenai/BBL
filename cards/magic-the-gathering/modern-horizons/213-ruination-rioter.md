@@ -15,15 +15,20 @@ tags_filter: ["solo", "mid-shot", "action-mode", "three-quarter-facing", "male-f
 reference_image: cards/_images/magic-the-gathering/modern-horizons/213-ruination-rioter.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/5/a/5a00ac82-a884-40c4-9d09-3190a1099726.png?1562202403
 art_match_confidence: high
 needs_manual_review: false
 mood: action
 time_of_day: indeterminate
 setting: urban
+artist: Dmitry Burmak
+art_crop_image: cards/_images/magic-the-gathering/modern-horizons/213-ruination-rioter--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/a/5a00ac82-a884-40c4-9d09-3190a1099726.jpg?1562202403
+flavor_text: \"Those urbanist cobble-roaches won't know what hit them!\"
+oracle_text: When this creature dies, you may have it deal damage to any target equal to the number of land cards in your graveyard.
 ---
 
 # Ruination Rioter (Modern Horizons)

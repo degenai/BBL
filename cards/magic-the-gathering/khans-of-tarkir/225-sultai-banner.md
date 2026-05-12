@@ -15,9 +15,9 @@ tags_filter: ["artifact", "no-figures", "mid-shot", "object-focus", "scene-mode"
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/225-sultai-banner.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/1/6/1695cf35-8f7
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Daniel Ljunggren
+art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/225-sultai-banner--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/6/1695cf35-8f7c-4674-bfd3-43520b13d084.jpg?1562783039
+flavor_text: Power to dominate, cruelty to rule.
+oracle_text: {T}: Add {B}, {G}, or {U}.\n{B}{G}{U}, {T}, Sacrifice this artifact: Draw a card.
 ---
 
 # Sultai Banner (Khans of Tarkir)

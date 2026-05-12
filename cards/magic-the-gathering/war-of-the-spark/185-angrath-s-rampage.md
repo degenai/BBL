@@ -14,10 +14,10 @@ tags_hub: ["fire", "whip", "destruction", "warrior", "rage", "ruins", "shirtless
 tags_filter: ["solo", "mid-shot", "forward-facing", "male-figure", "action-mode", "red-magic", "black-magic", "multicolor-red-black", "sorcery"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/185-angrath-s-rampage.png
 average_cost_paid: 0
-market_price: 0.28
-market_price_as_of: 2026-05-10
+market_price: 0.27
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/f/5/f5a39379-731
 mood: action
 time_of_day: indeterminate
 setting: other
+artist: Victor Adame Minguez
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/185-angrath-s-rampage--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/5/f5a39379-7313-463a-9a02-e5157b9557f4.jpg?1557577065
+flavor_text: \"Grand city? No. This is nothing but another squalid cage.\"
+oracle_text: Choose one —\n• Target player sacrifices an artifact of their choice.\n• Target player sacrifices a creature of their choice.\n• Target player sacrifices a planeswalker of their choice.
 ---
 
 # Angrath's Rampage (War of the Spark)

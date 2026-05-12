@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide-shot", "forward-facing", "portrait-mode", "no-face",
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/165-arasta-of-the-endless-web.png
 average_cost_paid: 0
 market_price: 0.48
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/7/c/7c38833a-96c
 mood: sublime
 time_of_day: night
 setting: void
+artist: Sam Rowan
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/165-arasta-of-the-endless-web--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/c/7c38833a-96c5-48b5-8dd8-23f10e798537.jpg?1581480541
+flavor_text: Her webs, spun from her own hair, reach from Nyx to the mortal world and even into the Underworld.
+oracle_text: Reach\nWhenever an opponent casts an instant or sorcery spell, create a 1/2 green Spider creature token with reach.
 ---
 
 # Arasta of the Endless Web (Theros Beyond Death)

@@ -15,9 +15,9 @@ tags_filter: ["solo", "close-up", "forward-facing", "portrait-mode", "no-creatur
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/36-sentinel-s-eyes.png
 average_cost_paid: 0
 market_price: 0.31
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/2/32adc118-b81
 mood: sublime
 time_of_day: indeterminate
 setting: other
+artist: Wisnu Tan
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/36-sentinel-s-eyes--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/2/32adc118-b81e-48c2-b7ef-b62e8c3308d6.jpg?1581479235
+oracle_text: Enchant creature\nEnchanted creature gets +1/+1 and has vigilance.\nEscape—{W}, Exile two other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
 ---
 
 # Sentinel's Eyes (Theros Beyond Death)

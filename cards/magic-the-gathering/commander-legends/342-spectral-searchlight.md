@@ -15,9 +15,9 @@ tags_filter: ["no-figure", "no-face", "object-only", "close-up", "abstract-mode"
 reference_image: cards/_images/magic-the-gathering/commander-legends/342-spectral-searchlight.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/a/0a7dd6c9-628
 mood: peaceful
 time_of_day: indeterminate
 setting: other
+artist: Martina Pilcerova
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/342-spectral-searchlight--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/a/0a7dd6c9-628b-4dde-a385-604501dd0979.jpg?1608911718
+flavor_text: The first searchlights were given as gifts, symbols of cooperation, to the emissaries present at the signing of the Guildpact.
+oracle_text: {T}: Choose a player. That player adds one mana of any color they choose.
 ---
 
 # Spectral Searchlight (Commander Legends)

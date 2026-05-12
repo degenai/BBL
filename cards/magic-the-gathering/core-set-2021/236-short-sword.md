@@ -15,9 +15,9 @@ tags_filter: ["no-face", "no-figure-count", "close-up", "portrait-mode", "center
 reference_image: cards/_images/magic-the-gathering/core-set-2021/236-short-sword.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/7/973c166e-3e9
 mood: sublime
 time_of_day: indeterminate
 setting: indoor
+artist: John Severin Brassell
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/236-short-sword--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/7/973c166e-3e93-4ed5-b4c5-84dc158a8e4f.jpg?1594737540
+flavor_text: \"Sometimes the only difference between a martyr and a hero is a sword.\"\n—Captain Sisay, *Memoirs*
+oracle_text: Equipped creature gets +1/+1.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 ---
 
 # Short Sword (Core Set 2021)

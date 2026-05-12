@@ -12,12 +12,18 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image: cards/_images/pokemon/rebel-clash/014-192-phantump.png
 average_cost_paid: 0
-market_price: 0.07
-market_price_as_of: 2026-05-10
+market_price: 0.09
+market_price_as_of: 2026-05-11
 date_added: 2026-05-08
-last_seen: 2026-05-10
+last_seen: 2026-05-11
+reference_image_source_url: https://images.pokemontcg.io/swsh2/14_hires.png
+art_match_confidence: high
+needs_manual_review: false
+artist: sui
+flavor_text: After a lost child perished in the forest, their spirit possessed a tree stump, causing the spirit's rebirth as this Pokémon.
+oracle_text: Dark Guidance (Colorless): Put a Basic Pokémon from your discard pile onto your Bench.\nSeed Bomb (GrassColorless) 30
 ---
 
 # Phantump (Rebel Clash)

@@ -1,0 +1,53 @@
+{
+  "card_name": "Moldering Gym // Weight Room",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "190",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged in vision pass; original Wizards-internal art, no IP verification required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmourn: House of Horror (set code DSK, released 2024-09-27) is a top-down-designed set themed on 'modern horror' inspired by 1970s/80s slasher films and tropes like The Amityville Horror; the entire set takes place inside a single impossibly-large mansion ruled by the demonic Valgavoth. [MTG Wiki: Duskmourn: House of Horror]",
+      "sources": ["MTG Wiki: Duskmourn: House of Horror"]
+    },
+    {
+      "category": "design",
+      "text": "Room is a new enchantment subtype debuted in Duskmourn to evoke the 'twisted, labyrinthine nature of the plane.' Mechanically, a Room is a split card whose two halves are both enchantments (called 'doors'); you cast one half to 'unlock' it on the battlefield, and may later pay the other half's mana cost as a sorcery to unlock that door too. Lead designer Mark Rosewater notes the team chose enchantments over lands because Rooms needed to evoke mood and impact gameplay, and locations are 'often lands, but lands have a lot of mechanical restrictions.' Storm Scale rating: 6. [MTG Wiki: Room][Wizards: Top of the Duskmourning, Part 1, Mark Rosewater 2024]",
+      "sources": ["MTG Wiki: Room", "Wizards: Top of the Duskmourning Part 1 (Mark Rosewater 2024)"]
+    },
+    {
+      "category": "design",
+      "text": "Earlier exploratory-design versions of the Room mechanic were a separate 'Mansion' deck with a meeple game-piece that moved between Rooms (cut as too complex for tournament play); a four-rooms-per-card variant; and a three-rooms-per-card variant before landing on the final two-doors-per-card split layout. [Wizards: Top of the Duskmourning, Part 1, Mark Rosewater 2024]",
+      "sources": ["Wizards: Top of the Duskmourning Part 1 (Mark Rosewater 2024)"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrator Helge C. Balzer is a German fantasy/concept artist based in Marburg, Germany, with 20+ years of work for Wizards of the Coast, Games Workshop, Black Library, Fantasy Flight, Paizo and others; he illustrates both faces of this card. [helgecbalzer.com / artist site, via WebSearch snippet]",
+      "sources": ["helgecbalzer.com (via WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Weight Room (the back half) triggers 'manifest dread' on unlock, then puts three +1/+1 counters on that face-down 2/2 creature; manifest dread is a Duskmourn keyword that asks you to look at the top two cards of your library, manifest one face-down and mill the other, introducing 'the threat of the unknown.' Moldering Gym (the front half) is a basic-land tutor that puts the land onto the battlefield tapped for {2}{G}. EDHREC reports 15,408 EDH decks playing the card and notes commonly-paired cards include Keys to the House, Rampaging Soulrager, and Underwater Tunnel // Slimy Aquarium. [Scryfall][Wizards: Duskmourn Mechanics article][EDHREC: Moldering Gym // Weight Room]",
+      "sources": ["Scryfall", "Wizards: Duskmourn Mechanics", "EDHREC: Moldering Gym // Weight Room"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Neither face of the card prints any flavor text — only oracle/reminder text on each door. [Scryfall card_faces.flavor_text absent]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Grand Entryway // Elegant Rotunda", "set": "Duskmourn: House of Horror (DSK)", "note": "Cited by MTG Wiki as the type-defining Room example; same Room enchantment subtype, same split-card design language."},
+    {"name": "Bottomless Pool // Locker Room", "set": "Duskmourn: House of Horror (DSK)", "note": "Used by Wizards' own rulings as the canonical example for Room rules interactions; also a domestic / pool-house suburban setting, sibling in flavor."},
+    {"name": "Smoky Lounge // Misty Salon", "set": "Duskmourn: House of Horror (DSK)", "note": "Rosewater's own preview-article Room example; demonstrates the two-color Room design pattern."},
+    {"name": "Mirror Room // Fractured Realm", "set": "Duskmourn: House of Horror (DSK)", "note": "Featured on the Duskmourn key art per MTG Wiki; highest-profile Room in the set."},
+    {"name": "Unwanted Remake", "set": "Duskmourn: House of Horror (DSK)", "note": "Wizards' designated example card for the manifest dread keyword that Weight Room triggers."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

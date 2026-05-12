@@ -14,16 +14,20 @@ tags_hub: ["cottage", "swamp", "willow", "witch", "twilight", "fairy-tale", "hom
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "swamp-land", "black-magic", "landscape-composition"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/249-witch-s-cottage.png
 average_cost_paid: 0
-market_price: 3.7
-market_price_as_of: 2026-05-10
+market_price: 3.71
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/b/8/b87891cd-b457-4dff-8d18-a7eaf6748fc6.png?1572491253
 art_match_confidence: high
 needs_manual_review: false
 mood: cozy
 time_of_day: twilight
 setting: forest
+artist: Gabor Szikszai
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/249-witch-s-cottage--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/8/b87891cd-b457-4dff-8d18-a7eaf6748fc6.jpg?1572491253
+oracle_text: ({T}: Add {B}.)\nThis land enters tapped unless you control three or more other Swamps.\nWhen this land enters untapped, you may put target creature card from your graveyard on top of your library.
 ---
 
 # Witch's Cottage (Throne of Eldraine)

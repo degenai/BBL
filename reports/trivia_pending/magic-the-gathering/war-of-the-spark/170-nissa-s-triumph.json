@@ -1,0 +1,44 @@
+{
+  "card_name": "Nissa's Triumph",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "170",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Nissa's Triumph' plus oracle text 'If you control a Nissa planeswalker, instead search your library for up to three land cards' directly names the depicted figure as Nissa Revane. MTG Wiki entry for Nissa Revane confirms she is a Joraga Zendikari elf planeswalker, member of the Gatewatch, green color identity — matching the art's elven green-cloaked figure, glowing-green planeswalker eye, and forest setting. Nissa is an internal Wizards-original character (no external-IP risk), so frontmatter ip_verified flips to true and no IP callout block is required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Part of a 5-card 'Triumphs' cycle in War of the Spark (Gideon WAR no. 015, Jace no. 055, Liliana no. 098, Chandra no. 121, Nissa no. 170) — one per Gatewatch founder, one per color, all uncommon, all illustrated by Kieran Yanner, all using the same 'if you control a [character] planeswalker' upgrade clause. The MTG Wiki War of the Spark page explicitly frames the cycle as 'a direct reflection of the \"Defeats\" from Hour of Devastation' (2017) — together the two cycles bookend the Gatewatch's arc against Bolas, with the Defeats showing each member at their lowest and the Triumphs showing each member's resolution `[MTG Wiki: War of the Spark, Cycles section]`. Nissa's specific bookend partner is Nissa's Defeat (HOU no. 123), also by Yanner, also {2}G — itself flavored with a Bolas quote `[Scryfall: Nissa's Defeat HOU]`.",
+      "sources": ["MTG Wiki: War of the Spark (Cycles section)", "Scryfall API (set:war name:Triumph search)", "Scryfall API (Nissa's Defeat HOU 123)"]
+    },
+    {
+      "category": "design",
+      "text": "Flavor text reads `\"Her triumph came not from destroying the unnatural, but from fostering life.\"` — third-person, no speaker attributed `[Scryfall flavor_text]`. All five Triumph cards share the templated 'X's triumph came not from Y, but from Z' construction (Gideon: not victory but salvation of survivors; Jace: not outsmarting Bolas's plan but understanding why ultimate power is self-defeating; Liliana: not escaping death but claiming independence; Chandra: not perfection but rejecting it; Nissa: not destroying the unnatural but fostering life) — a flavor cycle as deliberate as the mechanical cycle `[Scryfall flavor_text fields, all five cards]`. The Nissa entry is notably the most pacifist of the five — Gideon and Chandra still frame triumph in opposition, Nissa reframes it as cultivation.",
+      "sources": ["Scryfall (flavor_text on each of the 5 Triumph cards)"]
+    },
+    {
+      "category": "design",
+      "text": "Uncommon sorcery, mana cost {G}{G}, illustrator Kieran Yanner (who illustrated all five Triumphs AND the matching Hour of Devastation Defeats — unifying the two-set visual cycle under one hand) `[Scryfall; MTG Wiki: War of the Spark]`. Released 2019-05-03, no reprints to date — only one printing exists (Scryfall prints_search returns 1 result for this oracle_id). Preview was via Twitter on 2019-04-10 by the community account @NissaCosplay, an unusual cosplayer-as-preview-source choice `[Scryfall preview field]`.",
+      "sources": ["Scryfall (artist, prints_search, preview)", "MTG Wiki: War of the Spark"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text: 'Search your library for up to two basic Forest cards. If you control a Nissa planeswalker, instead search your library for up to three land cards. Reveal those cards, put them into your hand, then shuffle.' The upgrade is meaningful: without a Nissa walker it's a strictly-worse Cultivate (no land enters), but WITH a Nissa walker it becomes a 3-of-any-land tutor at sorcery speed for {G}{G} — strong in dedicated Nissa-tribal Commander or Oathbreaker. Scryfall edhrec_rank 13,603 (mid-niche), legal in Commander/Modern/Legacy/Vintage/Pioneer but not Standard or Pauper `[Scryfall oracle_text, edhrec_rank, legalities]`.",
+      "sources": ["Scryfall (oracle_text, edhrec_rank, legalities)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Nissa's Defeat", "set": "Hour of Devastation", "note": "Direct bookend mirror — same character, same artist (Kieran Yanner), same color, same uncommon slot; MTG Wiki explicitly names the WAR Triumphs as the callback to the HOU Defeats. Defeat text destroys a Forest/green-enchantment/green-walker and is flavored with a Bolas quote."},
+    {"name": "Gideon's Triumph", "set": "War of the Spark", "note": "Sibling Triumph-cycle card (white, no. 015)"},
+    {"name": "Jace's Triumph", "set": "War of the Spark", "note": "Sibling Triumph-cycle card (blue, no. 055) — already verified in BBL graph"},
+    {"name": "Liliana's Triumph", "set": "War of the Spark", "note": "Sibling Triumph-cycle card (black, no. 098)"},
+    {"name": "Chandra's Triumph", "set": "War of the Spark", "note": "Sibling Triumph-cycle card (red, no. 121)"},
+    {"name": "Cultivate", "set": "various", "note": "Mechanical-template ancestor: {2}{G} sorcery, search two basic lands, put one onto battlefield, one to hand. Nissa's Triumph is the cheaper-but-conditional-upgrade riff on this lineage."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

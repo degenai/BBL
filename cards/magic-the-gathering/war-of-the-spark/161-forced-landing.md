@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "action-mode", "three-quarter-facing", "no-fig
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/161-forced-landing.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/5/c/5cb319a7-564
 mood: action
 time_of_day: day
 setting: forest
+artist: Svetlin Velinov
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/161-forced-landing--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/c/5cb319a7-564c-4748-82cf-c26ab110c32c.jpg?1557576912
+flavor_text: The druid knew only one spell, a charm to encourage rapid plant growth. When airborne Eternals invaded her arboretum, she had to get creative.
+oracle_text: Put target creature with flying on the bottom of its owner's library.
 ---
 
 # Forced Landing (War of the Spark)

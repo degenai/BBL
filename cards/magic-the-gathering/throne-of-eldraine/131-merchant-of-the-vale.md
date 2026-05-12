@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "female-figure", "portrait-m
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/131-merchant-of-the-vale.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/b/0b4399b6-e67
 mood: cozy
 time_of_day: day
 setting: other
+artist: David Gaillet
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/131-merchant-of-the-vale--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/b/0b4399b6-e67f-40d8-8676-f5db7e04a6c9.jpg?1572490397
+flavor_text: \"Buying old, worn-out junk. Selling marvels of real value.\"
 ---
 
 # Merchant of the Vale (Throne of Eldraine)

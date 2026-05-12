@@ -1,0 +1,53 @@
+{
+  "card_name": "Tamiyo, Collector of Tales",
+  "game": "Magic: The Gathering",
+  "set": "The List",
+  "collector_number": "220",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Verified. Scryfall API returns type_line 'Legendary Planeswalker — Tamiyo' for UUID aeae9feb-8153-496c-bb12-8db5e2e089a9, confirming the card's official planeswalker subtype IS Tamiyo — i.e. the depicted figure is canonically the named planeswalker, not a generic figure who happens to share her role. MTG Wiki describes Tamiyo as a soratami (moonfolk) field-researcher planeswalker from Kamigawa whose magic centers on stories recorded in scrolls, with signature visual identifiers including pale skin, long pale/white hair, layered scholar's robes in cool blues/greens, and a glowing scroll — every one of those identifiers is present in the depicted figure (per the existing Vision section). The War of the Spark printing depicts her on Ravnica during Nicol Bolas's invasion, observing and recording events. Internal Wizards IP (Wizards-original character on a Wizards-original plane), so no external-IP risk callout required; ip_verified flips to true, ip_confidence remains high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "This is the The List (PLST) reprint of the War of the Spark card; Scryfall lists set 'plst' / set_name 'The List' with released_at 2022-02-18 and collector_number 'WAR-220' — The List is Wizards' rotating-catalogue reprint program (introduced 2020) where past cards appear inside Set Boosters / Play Boosters with their original art, frame, and collector number, marked only by a small planeswalker symbol in the lower-left [Scryfall API; MTG Wiki: The List].",
+      "sources": ["Scryfall API", "MTG Wiki: The List"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Original printing was War of the Spark (released 2019-05-03), the Ravnica-set finale of Nicol Bolas's invasion arc and the block in which Tamiyo, who at this point had returned to her Kamigawa research after the events of Innistrad, arrived on Ravnica to observe and record the battle — an encounter with the eternalized zombie-gods of Amonkhet convinced her she could no longer remain a neutral observer [MTG Wiki: Tamiyo, via WebSearch snippet].",
+      "sources": ["MTG Wiki: Tamiyo (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "One of War of the Spark's planeswalker cards; Tamiyo, Collector of Tales is the rare Green/Blue version of Tamiyo in this set (mana cost {2}{G}{U}, loyalty 5, rarity 'rare' per Scryfall) — distinct from the mythic Tamiyo, Field Researcher and other Tamiyo printings. Card has no printed flavor text (Scryfall returns no flavor_text field for this print) [Scryfall API].",
+      "sources": ["Scryfall API"]
+    },
+    {
+      "category": "design",
+      "text": "Artist is Chase Stone. The art shows Tamiyo with her signature scholar's robes and a glowing scroll — her magic canonically works by reading stories from scrolls, with each story providing a different power, making the glowing-scroll visual a direct read of her in-universe spellcasting method [Scryfall API: artist; MTG Wiki: Tamiyo, via WebSearch snippet].",
+      "sources": ["Scryfall API", "MTG Wiki: Tamiyo (via WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanically the card is a recursive-toolbox piece: the static ability blocks opponent discard and forced sacrifice, the +1 mills four to find a named card, and the −3 returns a card from graveyard to hand. EDHREC shows ~15,464 Commander deck appearances and notable cross-inclusion in the later Tamiyo, Compleated Sage decks (15% inclusion, 19.4 synergy lift) and Tamiyo, Inquisitive Student decks (18% inclusion) [EDHREC via WebSearch snippet; Scryfall edhrec_rank: 7872].",
+      "sources": ["EDHREC (via WebSearch snippet)", "Scryfall API: edhrec_rank"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Tamiyo's arc later included Phyrexian compleation: in Kamigawa: Neon Dynasty (2022) she became Tamiyo, Compleated Sage — captured by Tezzeret, delivered to praetor Jin-Gitaxias, and compleated as the first Phyrexian planeswalker. She corrupted Boseiju on her return to Kamigawa and was eventually killed by The Wanderer [MTG Wiki: Tamiyo, via WebSearch snippet; Scryfall: Tamiyo, Compleated Sage (NEO #238)].",
+      "sources": ["MTG Wiki: Tamiyo (via WebSearch snippet)", "Scryfall: Tamiyo, Compleated Sage (NEO #238)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tamiyo, the Moon Sage", "set": "Avacyn Restored", "note": "Tamiyo's debut planeswalker printing (AVR #221); establishes the moonfolk-scholar visual identity reused in every later Tamiyo card [MTG Wiki: Tamiyo]."},
+    {"name": "Tamiyo, Field Researcher", "set": "Eldritch Moon", "note": "The mythic White/Green/Blue version of Tamiyo from Eldritch Moon — her three-color form, depicting her active investigation of Innistrad's Eldrazi corruption [MTG Wiki: Tamiyo]."},
+    {"name": "Tamiyo, Compleated Sage", "set": "Kamigawa: Neon Dynasty", "note": "Tamiyo's compleated form (NEO #238), the first Phyrexian planeswalker; same character, post-compleation. Highest EDHREC synergy partner with Collector of Tales (15% inclusion, 19.4 lift) [Scryfall; EDHREC]."},
+    {"name": "Tamiyo, Inquisitive Student", "set": "Strixhaven: School of Mages", "note": "Younger Tamiyo as a Strixhaven student; same character earlier in her life. 18% inclusion overlap with Collector of Tales [EDHREC via WebSearch snippet]."},
+    {"name": "The Tale of Tamiyo", "set": "Modern Horizons 3 / commander", "note": "Saga-style card narrating Tamiyo's story; designated as a related-card by EDHREC and the canonical narrative companion piece [EDHREC via WebSearch snippet]."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

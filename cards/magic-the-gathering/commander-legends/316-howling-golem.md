@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide-shot", "three-quarter-facing", "scene-mode", "no-fac
 reference_image: cards/_images/magic-the-gathering/commander-legends/316-howling-golem.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/5/05b54aaa-93e
 mood: grim
 time_of_day: day
 setting: other
+artist: Grzegorz Rutkowski
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/316-howling-golem--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/5/05b54aaa-93e2-4f8b-8d06-2a848498d1fd.jpg?1608911481
+flavor_text: It wails of buried riches and the souls lost seeking them.
+oracle_text: Whenever this creature attacks or blocks, each player draws a card.
 ---
 
 # Howling Golem (Commander Legends)

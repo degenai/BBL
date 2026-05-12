@@ -24,3 +24,10 @@ node_modules/
 # Logs / scratch
 *.log
 scratch/
+
+# Triviabot agent curl-cache scratch (sandbox can't delete on exit)
+reports/.cache_*
+
+# Obsidian per-user dev state (graph view position, pane layout — not session work)
+cards/.obsidian/workspace.json
+cards/.obsidian/workspace-mobile.json

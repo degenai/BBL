@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "wide-shot", "scene-mode", "blue-magic", "instant", 
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/63-no-escape.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/c/bc9888a1-6f3
 mood: grim
 time_of_day: night
 setting: urban
+artist: G-host Lee
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/63-no-escape--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/c/bc9888a1-6f35-4802-b8fb-902017736d4a.jpg?1557576285
+flavor_text: Jace surmised that they were walking into Bolas's trap. He felt no joy in being right.
+oracle_text: Counter target creature or planeswalker spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.\nScry 1.
 ---
 
 # No Escape (War of the Spark)

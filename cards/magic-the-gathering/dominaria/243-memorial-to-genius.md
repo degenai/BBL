@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "blue-magic", 
 reference_image: cards/_images/magic-the-gathering/dominaria/243-memorial-to-genius.png
 average_cost_paid: 0
 market_price: 0.24
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/9/b97bb62e-45c
 mood: sublime
 time_of_day: indeterminate
 setting: other
+artist: James Paick
+art_crop_image: cards/_images/magic-the-gathering/dominaria/243-memorial-to-genius--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/9/b97bb62e-45cf-4862-b181-5af463a442b5.jpg?1562741840
+oracle_text: This land enters tapped.\n{T}: Add {U}.\n{4}{U}, {T}, Sacrifice this land: Draw two cards.
 ---
 
 # Memorial to Genius (Dominaria)

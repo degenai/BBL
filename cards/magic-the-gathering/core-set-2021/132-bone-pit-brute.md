@@ -15,15 +15,20 @@ tags_filter: ["mid-shot", "narrative-mode", "group", "forward-facing", "creature
 reference_image: cards/_images/magic-the-gathering/core-set-2021/132-bone-pit-brute.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/6/0/6075e0a3-a0ab-4a11-8ad2-7dabb071d309.png?1594736498
 art_match_confidence: high
 needs_manual_review: false
 mood: comedic
 time_of_day: day
 setting: desert
+artist: Victor Adame Minguez
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/132-bone-pit-brute--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/0/6075e0a3-a0ab-4a11-8ad2-7dabb071d309.jpg?1594736498
+flavor_text: Welcome to the club.
+oracle_text: Menace (This creature can't be blocked except by two or more creatures.)\nWhen this creature enters, target creature gets +4/+0 until end of turn.
 ---
 
 # Bone Pit Brute (Core Set 2021)

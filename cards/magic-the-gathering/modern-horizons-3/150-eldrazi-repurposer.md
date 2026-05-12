@@ -15,15 +15,20 @@ tags_filter: ["solo", "mid-shot", "three-quarter-facing", "scene-mode", "no-face
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/150-eldrazi-repurposer.png
 average_cost_paid: 0
 market_price: 0.23
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-10
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/3/7/37f79ba7-7b65-4387-b498-f770816ce8dd.png?1717012430
 art_match_confidence: high
 needs_manual_review: false
 mood: horror
 time_of_day: indeterminate
 setting: forest
+artist: Daren Bader
+art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/150-eldrazi-repurposer--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/7/37f79ba7-7b65-4387-b498-f770816ce8dd.jpg?1717012430
+flavor_text: \"I almost admire their ability to avoid waste. Almost.\"\n—General Tazri, allied commander
+oracle_text: Devoid (This card has no color.)\nWhen you cast this spell and when this creature dies, create a 0/1 colorless Eldrazi Spawn creature token with \"Sacrifice this token: Add {C}.\"
 ---
 
 # Eldrazi Repurposer (Modern Horizons 3)

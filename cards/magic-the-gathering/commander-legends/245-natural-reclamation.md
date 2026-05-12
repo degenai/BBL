@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "wide-shot", "scene-mode", "landscape", "no-face", "
 reference_image: cards/_images/magic-the-gathering/commander-legends/245-natural-reclamation.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/e/3e98fb7c-696
 mood: sublime
 time_of_day: day
 setting: forest
+artist: Alayna Danner
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/245-natural-reclamation--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/e/3e98fb7c-6962-4b57-b7b7-c71899564002.jpg?1608910823
+oracle_text: Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)\nDestroy target artifact or enchantment.
 ---
 
 # Natural Reclamation (Commander Legends)

@@ -1,0 +1,47 @@
+{
+  "card_name": "Oko, the Trickster",
+  "game": "Magic: The Gathering",
+  "set": "The List",
+  "collector_number": "309/269",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via Scryfall: type_line is 'Legendary Planeswalker — Oko' and the card is named 'Oko, the Trickster'. The depicted figure is the planeswalker Oko himself; this is one of two Throne of Eldraine printings of the character (the other is the famously-banned 'Oko, Thief of Crowns', ELD-197). The art (antlered shirtless figure conjuring twin green/pink energy ribbons) matches Oko's canonical visual identifiers — antler-crown (his Shadowmoor aspect feature per MTG Wiki) and shapeshifter / fey-trickster framing. Oko is a Wizards-internal IP (Magic: The Gathering original character from Throne of Eldraine, 2019), not an external crossover risk, so no '## IP' callout block is required — only ip_verified flips to true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "This is the planeswalker-deck-exclusive printing of Oko (ELD-309), reprinted on The List (PLST) on 2023-09-08 to coincide with the Wilds of Eldraine launch. The List is Wizards' rotating reprint-in-boosters pool; cards from it are legal in whatever formats they were already legal in [Scryfall, via WebSearch snippet of magic.wizards.com 'What's New on The List for Wilds of Eldraine'].",
+      "sources": ["Scryfall: https://scryfall.com/card/plst/ELD-309/oko-the-trickster", "magic.wizards.com: What's New on The List for Wilds of Eldraine"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Chris Rallis, a Greek-born fantasy illustrator based in England who has worked almost exclusively for Wizards of the Coast since 2013 after Jeremy Jarvis picked up his portfolio; ~158 MTG cards to his name, including Liliana, Death's Majesty and Dragon Whisperer [Chris Rallis: rallisart.com about page; Dragon Shield artist interview, via WebSearch snippets].",
+      "sources": ["rallisart.com/about", "about.dragonshield.com/artist-interview/chris-rallis"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Not the banned Oko — important distinction. 'Oko, the Trickster' is the weaker planeswalker-deck variant: six mana ({4}{G}{U}), 4 loyalty, abilities are +1/+1 counters, copy-a-creature, and a -7 ultimate that makes your team 10/10 trample. 'Oko, Thief of Crowns' (ELD-197, the famously-banned one) costs three mana ({1}{G}{U}) and does roughly the same job a turn earlier with Food tokens and Elk-conversion; that card was banned in Standard (2019-11-18), Brawl, Pioneer, and Modern within months of release for warping every format it touched [Scryfall card pages for both prints; magic.wizards.com Banned and Restricted Announcement, November 18, 2019].",
+      "sources": ["Scryfall: oracle text + legalities for both Oko prints", "magic.wizards.com/en/news/announcements/november-18-2019-banned-and-restricted-announcement"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 16704 — essentially unplayed in Commander, which tracks: planeswalker-deck exclusives are typically casual-precon stat sticks, not staples. The List reprint trades around USD 0.90 [Scryfall].",
+      "sources": ["Scryfall: edhrec_rank + prices fields"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The depicted figure is Oko, a shapeshifter fey planeswalker originally from Lorwyn-Shadowmoor; his Shadowmoor aspect grows antlers atop his head, which is the visual cue this art leans on. He is charismatic, vain, and a notorious trickster; in the Throne of Eldraine story arc he met the human hedgewitch Alyse and fathered the half-fae Kellan [MTG Wiki: Oko, via WebSearch snippet].",
+      "sources": ["mtg.fandom.com/wiki/Oko (via WebSearch snippet — direct fetch blocked by Cloudflare)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Oko, Thief of Crowns", "set": "Throne of Eldraine (ELD #197)", "note": "The other Oko print from the same set — the famously-banned three-mana mythic. Same character, vastly stronger card."},
+    {"name": "Oko's Hospitality", "set": "Throne of Eldraine (ELD #310)", "note": "Companion piece in the same planeswalker deck — listed as a related card by Scryfall ('combo_piece'); part of the Oko, the Trickster planeswalker deck product."},
+    {"name": "Oko, the Ringleader", "set": "Wilds of Eldraine", "note": "Oko's return printing on his home plane during the Wilds of Eldraine set window when this List reprint was inserted. Same character, different card."},
+    {"name": "Kellan, the Fae-Blooded", "set": "Wilds of Eldraine", "note": "Oko's half-fae son per MTG Wiki lore — directly tied to Oko's Eldraine story arc."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

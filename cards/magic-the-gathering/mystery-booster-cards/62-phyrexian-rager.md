@@ -1,7 +1,7 @@
 ---
 name: Phyrexian Rager
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 62
 rarity: C
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["solo", "forward-facing", "mid-shot", "portrait-mode", "no-face", 
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/62-phyrexian-rager.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: horror
 time_of_day: indeterminate
 setting: void
 the_list_source_set: CMA
+artist: Stephan Martiniere
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/62-phyrexian-rager--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/8/a87aa7f3-9582-4499-a1ec-d5385ffd94ed.jpg?1573510197
+flavor_text: \"I believe many worlds will bow to Phyrexia. Mirrodin is merely the first.\"\n—Sheoldred, Whispering One
+oracle_text: When this creature enters, you draw a card and you lose 1 life.
 ---
 
 # Phyrexian Rager (Mystery Booster Cards)

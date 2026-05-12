@@ -2,7 +2,7 @@
 name: Leechridden Swamp
 game: Magic: The Gathering
 set: Shadowmoor
-collector_number: 273
+collector_number: 
 rarity: U
 variance: Normal
 grade: Ungraded
@@ -15,9 +15,9 @@ tags_filter: ["land", "basic-land-type-swamp", "black-magic", "scene-mode", "wid
 reference_image: cards/_images/magic-the-gathering/shadowmoor/273-leechridden-swamp.png
 average_cost_paid: 0
 market_price: 1.24
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Shadowmoor'
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/a/f/afa47202-582
 mood: grim
 time_of_day: twilight
 setting: forest
+artist: Lars Grant-West
+art_crop_image: cards/_images/magic-the-gathering/shadowmoor/273-leechridden-swamp--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/f/afa47202-5824-4f6a-b306-465976d4d422.jpg?1562834725
+oracle_text: ({T}: Add {B}.)\nThis land enters tapped.\n{B}, {T}: Each opponent loses 1 life. Activate only if you control two or more black permanents.
 ---
 
 # Leechridden Swamp (Shadowmoor)

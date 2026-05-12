@@ -15,9 +15,9 @@ tags_filter: ["duo", "mid-shot", "three-quarter-facing", "action-mode", "creatur
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/106-spark-reaper.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/2/922537f0-4ca
 mood: grim
 time_of_day: indeterminate
 setting: void
+artist: Zoltan Boros
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/106-spark-reaper--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/2/922537f0-4caf-481c-b431-826f0c44e5c5.jpg?1557576562
+flavor_text: \"I know they're unstoppable fighters created to harvest souls—it's just they're so rude about it.\"\n—Kaya
+oracle_text: {3}, Sacrifice a creature or planeswalker: You gain 1 life and draw a card.
 ---
 
 # Spark Reaper (War of the Spark)

@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "portrait-mode", "three-quarter", "no-face", "
 reference_image: cards/_images/magic-the-gathering/magic-2015-m15/214-bronze-sable.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/e/8/e8ba6d7d-fad0-4af1-be12-44be326a031e.png?1593860900
 art_match_confidence: high
 needs_manual_review: false
@@ -25,6 +25,10 @@ manual_review_reason:
 mood: sublime
 time_of_day: indeterminate
 setting: indoor
+artist: Jasper Sandner
+art_crop_image: cards/_images/magic-the-gathering/magic-2015-m15/214-bronze-sable--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/8/e8ba6d7d-fad0-4af1-be12-44be326a031e.jpg?1593860900
+flavor_text: The Champion stood alone between the horde of the Returned and the shrine to Karametra, cutting down scores among hundreds. She would have been overcome if not for the aid of the temple guardians whom Karametra awakened.\n—*The Theriad*
 ---
 
 # Bronze Sable (Magic 2015 (M15))

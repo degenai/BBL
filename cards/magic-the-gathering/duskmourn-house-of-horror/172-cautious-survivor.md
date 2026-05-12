@@ -15,15 +15,20 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "female-figure", "creature-el
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/172-cautious-survivor.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-10
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/e/e/ee2b4c1a-e058-4e06-bc46-e250fd9c9b54.png?1726286500
 art_match_confidence: high
 needs_manual_review: false
 mood: horror
 time_of_day: indeterminate
 setting: forest
+artist: Jodie Muir
+art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/172-cautious-survivor--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/e/ee2b4c1a-e058-4e06-bc46-e250fd9c9b54.jpg?1726286500
+flavor_text: She came back alone, with her recorder broken and its footage scrambled. Whatever she had experienced, she never spoke of again.
+oracle_text: Survival — At the beginning of your second main phase, if this creature is tapped, you gain 2 life.
 ---
 
 # Cautious Survivor (Duskmourn: House of Horror)

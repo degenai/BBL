@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide-shot", "scene-mode", "faces-left", "no-face-human", 
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/64-shimmerwing-chimera.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/f/3/f3b54bea-f2c
 mood: sublime
 time_of_day: day
 setting: ocean
+artist: Christopher Burdett
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/64-shimmerwing-chimera--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/3/f3b54bea-f2c5-4000-9cbd-04c03a1d2ea2.jpg?1581479499
+flavor_text: It swims upon the winds and soars through the waves.
+oracle_text: Flying\nAt the beginning of your upkeep, return up to one other target enchantment you control to its owner's hand.
 ---
 
 # Shimmerwing Chimera (Theros Beyond Death)

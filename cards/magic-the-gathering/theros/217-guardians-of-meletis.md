@@ -15,9 +15,9 @@ tags_filter: ["duo", "wide-shot", "scene-mode", "no-face", "forward-facing", "ar
 reference_image: cards/_images/magic-the-gathering/theros/217-guardians-of-meletis.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/8/5/85284586-7a9
 mood: sublime
 time_of_day: day
 setting: ocean
+artist: Magali Villeneuve
+art_crop_image: cards/_images/magic-the-gathering/theros/217-guardians-of-meletis--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/5/85284586-7a9d-4344-aebd-f0e072c1f266.jpg?1562820812
+flavor_text: The histories speak of two feuding rulers whose deaths were celebrated and whose monuments symbolized the end of their wars. In truth they were peaceful lovers, their story lost to the ages.
+oracle_text: Defender (This creature can't attack.)
 ---
 
 # Guardians of Meletis (Theros)

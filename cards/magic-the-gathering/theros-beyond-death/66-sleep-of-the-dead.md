@@ -14,10 +14,10 @@ tags_hub: ["sleep", "cerberus", "hound", "dog", "guardian-beast", "underworld", 
 tags_filter: ["solo", "mid-shot", "no-face-human", "blue-magic", "sorcery", "creature-absent-human", "narrative-mode"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/66-sleep-of-the-dead.png
 average_cost_paid: 0
-market_price: 0.16
-market_price_as_of: 2026-05-10
+market_price: 0.17
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/4/0/4007572b-a6c
 mood: peaceful
 time_of_day: night
 setting: other
+artist: Kari Christensen
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/66-sleep-of-the-dead--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/0/4007572b-a6c8-4a56-b1a7-ff099189c9c0.jpg?1581479523
+flavor_text: Normally, a cerberus sleeps one head at a time.
+oracle_text: Tap target creature. It doesn't untap during its controller's next untap step.\nEscape—{2}{U}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
 ---
 
 # Sleep of the Dead (Theros Beyond Death)

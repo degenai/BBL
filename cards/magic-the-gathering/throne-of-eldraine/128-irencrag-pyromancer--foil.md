@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "faces-away", "no-face", "scene-mode", "red-ma
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/128-irencrag-pyromancer--foil.png
 average_cost_paid: 0
 market_price: 0.48
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/a/9a7b0ead-562
 mood: action
 time_of_day: indeterminate
 setting: indoor
+artist: Jason Rainville
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/128-irencrag-pyromancer--foil--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/a/9a7b0ead-5629-429d-bede-8154f3fae96d.jpg?1572490380
+flavor_text: \"Fear of fire is a sensible instinct. If I were you, I'd be terrified.\"
+oracle_text: Whenever you draw your second card each turn, this creature deals 3 damage to any target.
 ---
 
 # Irencrag Pyromancer (Throne of Eldraine)

@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "male-figur
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/132-ogre-errant.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/e/0e96f3dc-dc5
 mood: grim
 time_of_day: sunset
 setting: forest
+artist: Mitchell Malloy
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/132-ogre-errant--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/e/0e96f3dc-dc58-4034-8d3d-3ae74fa64562.jpg?1572490402
+flavor_text: Knights kept returning from Ogre's Pass wearing nothing but bruises, so they decided to just pretend it was on their side.
+oracle_text: Whenever this creature attacks, another target attacking Knight gains menace until end of turn. (It can't be blocked except by two or more creatures.)
 ---
 
 # Ogre Errant (Throne of Eldraine)

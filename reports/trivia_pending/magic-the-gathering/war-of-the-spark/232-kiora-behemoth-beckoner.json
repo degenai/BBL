@@ -1,0 +1,48 @@
+{
+  "card_name": "Kiora, Behemoth Beckoner",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "232",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Scryfall type_line is 'Legendary Planeswalker — Kiora', confirming the depicted figure is the Zendikari merfolk planeswalker Kiora. Kiora is an internal Wizards-original character (no external-IP risk), so frontmatter ip_verified flipped to true and no IP callout block is required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Part of War of the Spark's 36-planeswalker set (May 2019) — the first set to print uncommon planeswalkers as a designed cycle, with 3 mythic, 13 rare, and 20 uncommon walkers all depicting figures answering Bolas's summons to Ravnica [MTG Wiki: War of the Spark].",
+      "sources": ["MTG Wiki: War of the Spark", "Wikipedia: War of the Spark"]
+    },
+    {
+      "category": "design",
+      "text": "Kiora is one of the 20 uncommon planeswalkers from WAR. The uncommon-walker design pattern Mark Rosewater described in 'Waging War of the Spark, Part 1' gives each uncommon walker exactly one ability — a static/triggered effect plus a single loyalty ability — so they slot into Limited without breaking the format; Kiora's static-trigger (card draw on power-4+ creature ETB) plus a single -1 (untap a permanent) follows that template exactly [Wizards: 'Waging War of the Spark, Part 1', Mark Rosewater, 2019-04-01].",
+      "sources": ["Wizards: Waging War of the Spark Part 1", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Hybrid mana cost {2}{G/U} — a Simic-coded hybrid that lets her run in mono-blue or mono-green decks. The G/U hybrid signals Kiora's continued ties to Simic-style ocean/leviathan magic established on her earlier Born of the Gods and Battle for Zendikar printings [Scryfall]. Artist: Jaime Jones [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanically considered a strong uncommon walker for the cycle: 7 starting loyalty (high for the slot) and a -1 cost on her only activated ability means she's hard to kill and can untap repeatedly. EDHREC rank ~2258. Community write-ups frame her as an under-discussed role-player whose untap effect isn't restricted to lands — it untaps any permanent, enabling combos with tap-activated creatures and artifacts [MTGGoldfish: 'The Beauty of Uncommon Planeswalkers'; SCG: 'Kickin' It With Kiora, Behemoth Beckoner'].",
+      "sources": ["Scryfall (edhrec_rank, loyalty)", "MTGGoldfish: The Beauty of Uncommon Planeswalkers", "Star City Games: Kickin' It With Kiora, Behemoth Beckoner"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Kiora's in-world context: a merfolk planeswalker born on Zendikar who venerates leviathans, krakens, and the deep sea, and wields a bident stolen from the god Thassa [MTG Wiki: Kiora]. The art shows her atop a surfacing leviathan in the middle of the Ravnica conflict, consistent with WAR's framing of every planeswalker arriving on Ravnica to face Bolas.",
+      "sources": ["MTG Wiki: Kiora"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kiora, the Crashing Wave", "set": "Born of the Gods", "note": "Kiora's first printed planeswalker card; Theros block; establishes the leviathan-summoner identity"},
+    {"name": "Kiora, Master of the Depths", "set": "Oath of the Gatewatch", "note": "Battle-for-Zendikar-era Kiora card; same merfolk planeswalker, same bident"},
+    {"name": "Kiora's Follower", "set": "Born of the Gods", "note": "Original Kiora-flavored creature; tied directly to her character"},
+    {"name": "Kasmina, Enigmatic Mentor", "set": "War of the Spark", "note": "Another WAR uncommon planeswalker on the same design template (hybrid cost, one ability, high loyalty for slot)"},
+    {"name": "Vivien, Champion of the Wilds", "set": "War of the Spark", "note": "Sibling uncommon-walker in the WAR cycle; green half of Kiora's color identity"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

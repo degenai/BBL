@@ -2,7 +2,7 @@
 name: Rod of Ruin
 game: Magic: The Gathering
 set: 8th Edition
-collector_number: 217
+collector_number: 
 rarity: U
 variance: Normal
 grade: Ungraded
@@ -15,13 +15,15 @@ tags_filter: []
 reference_image: cards/_images/magic-the-gathering/8th-edition/217-rod-of-ruin.png
 average_cost_paid: 0
 market_price: 0.19
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: low
 needs_manual_review: true
 manual_review_reason: Set '8th Edition' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 reference_image_source_url: https://cards.scryfall.io/png/front/9/a/9a0e90b8-bc38-4e1c-92ca-ac562cc57e31.png?1562832749
+flavor_text: The good news is it's so simple a goblin could use it. The bad news is it's so simple a goblin could use it.
+oracle_text: {3}, {T}: This artifact deals 1 damage to any target.
 ---
 
 # Rod of Ruin (8th Edition)

@@ -15,9 +15,9 @@ tags_filter: ["solo", "forward-facing", "mid-shot", "no-face", "black-magic", "i
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/95-final-death.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/8/e/8e5b8580-919
 mood: grim
 time_of_day: indeterminate
 setting: void
+artist: Johann Bodin
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/95-final-death--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/e/8e5b8580-9198-4735-83c1-289400c1d814.jpg?1581479774
+flavor_text: The Underworld erodes memory, identity, and eventually the physical form, leaving only crumbling statues called misera—hollow monuments to mortal futility.
+oracle_text: Exile target creature.
 ---
 
 # Final Death (Theros Beyond Death)

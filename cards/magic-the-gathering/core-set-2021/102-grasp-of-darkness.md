@@ -15,15 +15,20 @@ tags_filter: ["solo", "wide-shot", "scene-mode", "forward-facing", "no-face", "i
 reference_image: cards/_images/magic-the-gathering/core-set-2021/102-grasp-of-darkness.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/7/7/7737b578-8ae3-4846-b508-93ef40f25244.png?1594736166
 art_match_confidence: high
 needs_manual_review: false
 mood: grim
 time_of_day: twilight
 setting: other
+artist: Daarken
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/102-grasp-of-darkness--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/7/7737b578-8ae3-4846-b508-93ef40f25244.jpg?1594736166
+flavor_text: \"I welcome the use of even the foulest magic if it will rid us of the monstrosities that plague our world.\"\n—Munda, ambush leader
+oracle_text: Target creature gets -4/-4 until end of turn.
 ---
 
 # Grasp of Darkness (Core Set 2021)

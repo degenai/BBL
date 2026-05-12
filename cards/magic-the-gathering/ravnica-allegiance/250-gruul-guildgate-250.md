@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "wide-shot", "scene-mode", "land", "guildgate", "red
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/250-gruul-guildgate-250.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/3/33d10573-169
 mood: grim
 time_of_day: twilight
 setting: forest
+artist: Alexander Forssberg
+art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/250-gruul-guildgate-250--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/3/33d10573-1695-4a73-b92d-d478572b85ec.jpg?1584832262
+flavor_text: \"Beyond this gate there are no citizens, only predators and prey.\"\n—Domri Rade
+oracle_text: This land enters tapped.\n{T}: Add {R} or {G}.
 ---
 
 # Gruul Guildgate (250) (Ravnica Allegiance)

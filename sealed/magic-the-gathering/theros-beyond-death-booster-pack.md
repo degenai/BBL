@@ -5,10 +5,10 @@ set: Theros Beyond Death
 sealed: true
 quantity: 4
 average_cost_paid: 0
-market_price: 5.86
-market_price_as_of: 2026-05-10
+market_price: 5.93
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 ---
 
 # Theros Beyond Death - Booster Pack

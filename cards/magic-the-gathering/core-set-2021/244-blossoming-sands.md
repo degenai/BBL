@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "dual-
 reference_image: cards/_images/magic-the-gathering/core-set-2021/244-blossoming-sands.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/c/8/c8483586-9a0
 mood: peaceful
 time_of_day: magic-hour
 setting: desert
+artist: Sam Burley
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/244-blossoming-sands--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/8/c8483586-9a07-4f54-a390-7dd97fcea5cb.jpg?1594737617
+oracle_text: This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {G} or {W}.
 ---
 
 # Blossoming Sands (Core Set 2021)

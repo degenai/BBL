@@ -1,7 +1,7 @@
 ---
 name: Cabal Therapy
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 83
 rarity: U
 variance: Normal
@@ -14,10 +14,10 @@ tags_hub: ["robed-figure", "hooded-figure", "cultist", "ritual", "spellcaster", 
 tags_filter: ["solo", "mid-shot", "forward-facing", "no-face", "scene-mode", "black-magic", "sorcery", "discard", "sacrifice-mechanic", "flashback"]
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/83-cabal-therapy.png
 average_cost_paid: 0
-market_price: 7.08
-market_price_as_of: 2026-05-10
+market_price: 7.07
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,10 @@ mood: grim
 time_of_day: indeterminate
 setting: void
 the_list_source_set: EMA
+artist: Raymond Swanland
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/83-cabal-therapy--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/a/2afc9aa7-eaf2-453d-942c-23bf216a1844.jpg?1573509099
+oracle_text: Choose a nonland card name. Target player reveals their hand and discards all cards with that name.\nFlashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 ---
 
 # Cabal Therapy (Mystery Booster Cards)

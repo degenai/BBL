@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", 
 reference_image: cards/_images/magic-the-gathering/magic-2015-m15/239-will-forged-golem.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/0/1/0175bafa-dc9f-464c-8f9e-dd4131732652.png?1562781782
 art_match_confidence: high
 needs_manual_review: false
@@ -25,6 +25,11 @@ manual_review_reason:
 mood: other
 time_of_day: indeterminate
 setting: indoor
+artist: Jason Felix
+art_crop_image: cards/_images/magic-the-gathering/magic-2015-m15/239-will-forged-golem--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/1/0175bafa-dc9f-464c-8f9e-dd4131732652.jpg?1562781782
+flavor_text: The modular nature of the automaton's design makes assembly perfectly intuitive.
+oracle_text: Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
 ---
 
 # Will-Forged Golem (Magic 2015 (M15))

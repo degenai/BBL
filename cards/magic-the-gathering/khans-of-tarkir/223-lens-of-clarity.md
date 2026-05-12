@@ -15,9 +15,9 @@ tags_filter: ["no-face", "close-up", "portrait-mode", "no-figures", "artifact", 
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/223-lens-of-clarity.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/c/3c82e2b8-f0f
 mood: sublime
 time_of_day: indeterminate
 setting: void
+artist: Raymond Swanland
+art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/223-lens-of-clarity--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/c/3c82e2b8-f0f6-44da-83ee-8a671344ac62.jpg?1562785174
+flavor_text: \"Water shifts and confuses, but as ice it holds the stillness of truth.\"\n—Arel the Whisperer
+oracle_text: You may look at the top card of your library and at face-down creatures you don't control any time.
 ---
 
 # Lens of Clarity (Khans of Tarkir)

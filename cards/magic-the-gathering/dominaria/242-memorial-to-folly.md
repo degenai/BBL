@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "black
 reference_image: cards/_images/magic-the-gathering/dominaria/242-memorial-to-folly.png
 average_cost_paid: 0
 market_price: 0.23
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/e/b/ebbe56f2-aec
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Sung Choi
+art_crop_image: cards/_images/magic-the-gathering/dominaria/242-memorial-to-folly--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/b/ebbe56f2-aec5-4e8b-8003-1bf1ca7f5659.jpg?1562744964
+oracle_text: This land enters tapped.\n{T}: Add {B}.\n{2}{B}, {T}, Sacrifice this land: Return target creature card from your graveyard to your hand.
 ---
 
 # Memorial to Folly (Dominaria)

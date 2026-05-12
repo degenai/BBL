@@ -1,0 +1,90 @@
+{
+  "card_name": "Enchanted Carriage",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "218",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Cinderella reference confirmed as intentional Wizards of the Coast top-down fairy-tale design, not external-IP infringement risk. Throne of Eldraine is Wizards' explicit Grimms' Fairy Tales + Arthurian set [CBR interview with Mark Rosewater]. Wizards designer Mark Rosewater's 'More Odds & Ends: Throne of Eldraine' (2019-10-21) lists 'the pumpkin carriage' among the iconic fairy-tale objects the set's artifacts draw from, and states verbatim that the Mouse creature type 'exists only because the Enchanted Carriage needed white Mice for flavor' — confirming the card is the pumpkin-coach-plus-mice Cinderella reference by design. Cinderella itself is public domain (Charles Perrault 1697 / Brothers Grimm 1812); no external IP risk. ip_verified set to true; no ## IP callout block required (Wizards-internal top-down design, not a Universes Beyond crossover).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Throne of Eldraine (released 2019-10-04) is Wizards' top-down designed homage set drawing on Grimms' Fairy Tales and Arthurian legend; Mark Rosewater said he had been 'waiting 10 years to do a Grimm's world' [CBR: 'Grimms' Fairy Tales Meet Arthurian Legend in New Magic: The Gathering Set'].",
+      "sources": [
+        "CBR interview with Mark Rosewater (cbr.com)",
+        "Wikipedia: Throne of Eldraine"
+      ]
+    },
+    {
+      "category": "design",
+      "text": "Wizards designer Mark Rosewater explicitly groups 'the pumpkin carriage' with the other fairy-tale objects that drove the set's artifact design — 'those had a lot of objects in them (Excalibur, the Holy Grail, the Round Table, the glass slipper, the pumpkin carriage, the glass casket, Pinocchio, the Gingerbread Man, the Magic Mirror, etc.)' [Wizards: 'More Odds & Ends: Throne of Eldraine' 2019-10-21].",
+      "sources": [
+        "magic.wizards.com: More Odds & Ends: Throne of Eldraine (2019-10-21)"
+      ]
+    },
+    {
+      "category": "design",
+      "text": "The Mouse creature type was invented for this card specifically — Rosewater writes verbatim: 'This creature type exists only because the Enchanted Carriage needed white Mice for flavor.' The two 1/1 white Mouse tokens directly reference the mice-turned-coachmen of the Cinderella tale [Wizards: 'More Odds & Ends: Throne of Eldraine' 2019-10-21].",
+      "sources": [
+        "magic.wizards.com: More Odds & Ends: Throne of Eldraine (2019-10-21)"
+      ]
+    },
+    {
+      "category": "design",
+      "text": "Rosewater himself uses the card as a modular-flavor example in his earlier design diary, gesturing at how fairy-tale tropes were built to remix: 'my Gingerbrute and my Flaxen Intruder crew my Enchanted Carriage' [Wizards: 'Odds & Ends: Throne of Eldraine' 2019-10-14]. Artist: Zoltan Boros [scryfall.com card page metadata via search results].",
+      "sources": [
+        "magic.wizards.com: Odds & Ends: Throne of Eldraine (2019-10-14)",
+        "Scryfall card page (metadata via search engine summary)"
+      ]
+    },
+    {
+      "category": "mechanical",
+      "text": "5-mana 4/4 Artifact - Vehicle, Crew 2, enters with two 1/1 white Mouse tokens [search-result summary of Scryfall card data]. EDHREC: included in roughly 2,640 of 8.78M decks (~0.03% overall inclusion); the strongest commander synergy is Mabel, Heir to Cragflame at ~10% inclusion (Mouse tribal, Bloomburrow), followed by Greasefang, Okiba Boss (vehicles) at ~5.1% [EDHREC: enchanted-carriage].",
+      "sources": [
+        "EDHREC: enchanted-carriage",
+        "Card metadata via search-result summaries (Scryfall, AetherHub, Card Kingdom, Gatherer)"
+      ]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community deckbuilding reception treats the card as the foundation of post-Bloomburrow Mouse tribal: TappedOut, Archidekt and Moxfield Mabel, Heir to Cragflame Mouse-tribal lists routinely run it as 'the first mouse card ever made' [community deck-page descriptions]. Direct Reddit-thread results were sparse for this query — sentiment here is sourced from deckbuilding sites rather than r/EDH discourse threads.",
+      "sources": [
+        "tappedout.net: Mabel Mouse Tribal and Equipment",
+        "moxfield.com: Mouse Tribal (I gave it a knife)",
+        "archidekt.com: Mabel Mouse tribal"
+      ]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Turn into a Pumpkin",
+      "set": "Throne of Eldraine",
+      "note": "Same set, same Cinderella-pumpkin flavor cycle — paired Cinderella reference on the spell side (transformation back into a pumpkin at midnight)."
+    },
+    {
+      "name": "Fairy Guidemother",
+      "set": "Throne of Eldraine",
+      "note": "Same set, identified in folklore-mapping coverage as the fairy godmother who enables the Cinderella story this card depicts the conjuring-result of."
+    },
+    {
+      "name": "Midnight Clock",
+      "set": "Throne of Eldraine",
+      "note": "Same set, the midnight-tolls beat of the Cinderella story — coheres with the twilight/about-to-break-magic mood the Vision pass flagged on this card."
+    },
+    {
+      "name": "Mabel, Heir to Cragflame",
+      "set": "Bloomburrow",
+      "note": "Top EDHREC commander synergy partner (~10% inclusion); the canonical Mouse-tribal commander that brought Enchanted Carriage back into format-relevant decks."
+    },
+    {
+      "name": "Greasefang, Okiba Boss",
+      "set": "Neon Dynasty / Kamigawa: Neon Dynasty",
+      "note": "Second-highest EDHREC synergy (~5.1% inclusion); reanimator-vehicles commander that wants any cheap-ish artifact vehicle."
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Cinderella (fairy tale, public domain)",
+    "ip_confidence": "high"
+  }
+}

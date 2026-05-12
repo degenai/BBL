@@ -1,7 +1,7 @@
 ---
 name: Borderland Ranger
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 31
 rarity: C
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter-facing", "male-figure", "portra
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/31-borderland-ranger.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: peaceful
 time_of_day: day
 setting: forest
 the_list_source_set: E02
+artist: Zoltan Boros
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/31-borderland-ranger--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/5/d5b9689f-e146-4b00-bcad-10e4112109a5.jpg?1573513209
+flavor_text: \"There's only one route from Kessig into Stensia. Unless you come with me.\"
+oracle_text: When this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 ---
 
 # Borderland Ranger (Mystery Booster Cards)

@@ -14,10 +14,10 @@ tags_hub: ["wings", "angel", "ascension", "robed-figure", "light", "feathers", "
 tags_filter: ["solo", "mid-shot", "facing-away", "no-face", "narrative-mode", "white-magic", "enchantment", "aura", "flying", "card-draw"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/7-angelic-gift.png
 average_cost_paid: 0
-market_price: 0.13
-market_price_as_of: 2026-05-10
+market_price: 0.14
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/d/b/db0775f2-3fd
 mood: sublime
 time_of_day: magic-hour
 setting: other
+artist: Josu Hernaiz
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/7-angelic-gift--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/b/db0775f2-3fd9-42aa-80e3-edac67764fa2.jpg?1612228525
+flavor_text: \"Zendikar will triumph this day, and our armies will fly with angels.\"
+oracle_text: Enchant creature\nWhen this Aura enters, draw a card.\nEnchanted creature has flying.
 ---
 
 # Angelic Gift (Commander Legends)

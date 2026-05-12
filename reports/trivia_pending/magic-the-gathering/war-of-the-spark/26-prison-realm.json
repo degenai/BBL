@@ -1,0 +1,48 @@
+{
+  "card_name": "Prison Realm",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "26",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Verified: the depicted figure is Nicol Bolas, bound within the Meditation Plane after his defeat at the close of the War of the Spark. Scryfall flags the card with story_spotlight: true and the flavor_text names Bolas directly (\"After millennia to craft victory, Bolas had eternity to contemplate defeat.\"). MTG Wiki confirms that the Meditation Plane is 'also known as Bolas's Meditation Realm and after the War of the Spark as the Prison Realm,' and that Ugin expanded himself over the realm to serve as eternal jailer to his brother. Bolas is internal Wizards IP (no external-crossover risk), so no ## IP callout is required; only ip_verified flip, Vision-warning reconciliation, and the inline 'verified: False' line need updating. This is the third confirmed member of the WAR Bolas-Falls story-spotlight cluster alongside Topple the Statue (no. 35) and Despark (no. 190).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Story-spotlight card in War of the Spark (Act 3, the post-defeat coda) depicting Nicol Bolas imprisoned within the Meditation Plane. Per MTG Wiki, the Meditation Plane is 'also known as Bolas's Meditation Realm and after the War of the Spark as the Prison Realm'; after Ugin's terms are imposed, 'Ugin expanded himself over the Meditation Realm. The Realm thus became an eternal prison for Bolas and Ugin alike. Neither could leave.' `[Scryfall story_spotlight: true]` `[MTG Wiki: Meditation Plane]`",
+      "sources": ["Scryfall", "MTG Wiki: Meditation Plane"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"After millennia to craft victory, Bolas had eternity to contemplate defeat.\" — narratorial, not character-attributed; explicitly names Bolas and frames the card as the bookend to the elder dragon's millennia-long planeswalker-harvest scheme. `[Scryfall]`",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Third member of the WAR Bolas-Falls story-spotlight cluster alongside Topple the Statue (no. 035, the moment Vitu-Ghazi knocks down the Bolas statue on Ravnica) and Despark (no. 190, the moment Liliana commands the God-Eternals against him). Scryfall's `is:storyspotlight` search confirms 27 such cards in WAR; Prison Realm is the cluster's narrative terminus, depicting Bolas's final containment rather than the battle itself. `[Scryfall is:storyspotlight set:war]`",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Daarken; previewed 2019-04-18 by The Vorthos Cast, the Magic story-and-art podcast — consistent with WAR's pattern of routing story-spotlight previews to flavor-focused outlets. Uncommon rarity, never reprinted as of the 2026-05-11 Scryfall prints index. `[Scryfall artist + preview fields]`",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Three-mana white Banishing Light variant: exile target opponent creature-or-planeswalker plus a scry-1 trigger, both on enters-the-battlefield. EDHREC tracks Prison Realm in roughly 3,175 commander decks (rank ~16,710) — niche relative to staples like Banishing Light, but the scry rider gives it a home in blink and library-manipulation shells; EDHREC's WAR set review noted it 'won't be kicking Grasp of Fate out' of removal lineups but found a place in Aminatou-style filter decks. `[EDHREC: Prison Realm card page]` `[EDHREC: War of the Spark Set Review - White]`",
+      "sources": ["EDHREC: Prison Realm", "EDHREC: War of the Spark Set Review - White"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Topple the Statue", "set": "War of the Spark", "note": "Already-verified Bolas-Falls cluster sibling (no. 035); depicts Vitu-Ghazi knocking down Bolas's Ravnican statue earlier in the same Act-2/Act-3 narrative arc."},
+    {"name": "Despark", "set": "War of the Spark", "note": "Already-verified Bolas-Falls cluster sibling (no. 190); depicts Liliana freed from Bolas's contract commanding the God-Eternals against him. Same story-spotlight cycle."},
+    {"name": "The Elderspell", "set": "War of the Spark", "note": "Bolas's planeswalker-harvest macguffin — the apparatus Prison Realm's containment is the consequence of. WAR story-spotlight."},
+    {"name": "Ugin, the Ineffable", "set": "War of the Spark", "note": "Bolas's twin and his eventual jailer; per MTG Wiki, Ugin expanded himself over the Meditation Realm to make it the eternal prison depicted here."},
+    {"name": "Nicol Bolas, Dragon-God", "set": "War of the Spark", "note": "The mythic-rare planeswalker depicting Bolas at the height of his Elderspell-fueled apotheosis — the inverse pole of Prison Realm's depiction of his defeat."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Nicol Bolas",
+    "ip_confidence": "high"
+  }
+}

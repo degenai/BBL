@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "portrait-mode", "three-quarter-facing", "fema
 reference_image: cards/_images/magic-the-gathering/commander-legends/154-thorn-of-the-black-rose.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/2/b/2b7538ad-cc4
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+artist: David Gaillet
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/154-thorn-of-the-black-rose--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/b/2b7538ad-cc41-4229-8a39-c1db21f2899a.jpg?1669010258
+flavor_text: If bribery and intimidation fail, Marchesa turns to her favorite form of persuasion.
+oracle_text: Deathtouch\nWhen this creature enters, you become the monarch.
 ---
 
 # Thorn of the Black Rose (Commander Legends)

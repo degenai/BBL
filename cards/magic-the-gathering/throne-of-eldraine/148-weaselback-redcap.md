@@ -15,9 +15,9 @@ tags_filter: ["duo", "mid-shot", "faces-right", "action-mode", "creature-goblin-
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/148-weaselback-redcap.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/3/33a78207-fd7
 mood: comedic
 time_of_day: indeterminate
 setting: other
+artist: Grzegorz Rutkowski
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/148-weaselback-redcap--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/3/33a78207-fd76-4112-a257-54a25da6f818.jpg?1579623767
+flavor_text: \"I would rather cast myself into the abyss than let my blood stain the cap of those monsters.\"\n—Syr Alin, the Lion's Claw
+oracle_text: {1}{R}: This creature gets +2/+0 until end of turn.
 ---
 
 # Weaselback Redcap (Throne of Eldraine)

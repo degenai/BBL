@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter-facing", "action-mode", "no-fig
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/179-thundering-ceratok.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/8/9888d9a4-ad7
 mood: action
 time_of_day: indeterminate
 setting: urban
+artist: Izzy
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/179-thundering-ceratok--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/8/9888d9a4-ad72-43f6-8031-1031877171a9.jpg?1615415451
+flavor_text: \"I thought this was a civilized plane. How are there so many feral beasts?\"\n—Dovin Baan
+oracle_text: Trample\nWhen this creature enters, other creatures you control gain trample until end of turn.
 ---
 
 # Thundering Ceratok (War of the Spark)

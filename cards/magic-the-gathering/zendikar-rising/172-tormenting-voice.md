@@ -14,10 +14,10 @@ tags_hub: ["dragon", "goblin", "fire", "mountain", "scale-contrast", "monster", 
 tags_filter: ["duo", "mid-shot", "red-magic", "sorcery", "no-face", "three-quarter-facing", "scene-mode"]
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/172-tormenting-voice.png
 average_cost_paid: 0
-market_price: 0.16
-market_price_as_of: 2026-05-10
+market_price: 0.17
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/d/6da46103-a14
 mood: grim
 time_of_day: indeterminate
 setting: mountain
+artist: Izzy
+art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/172-tormenting-voice--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/d/6da46103-a14c-4aa2-92fc-fd758335caf4.jpg?1604198268
+flavor_text: Kargan tribal lands rarely have issues with goblin raids. Coincidentally, they also rarely have issues keeping their dragons fed.
+oracle_text: As an additional cost to cast this spell, discard a card.\nDraw two cards.
 ---
 
 # Tormenting Voice (Zendikar Rising)

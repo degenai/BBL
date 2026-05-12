@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", 
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/37-youthful-knight.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/d/3d1a3fec-39d
 mood: peaceful
 time_of_day: indeterminate
 setting: mountain
+artist: Heonhwa
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/37-youthful-knight--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/d/3d1a3fec-39de-4223-9da2-22749a58cd62.jpg?1572489827
+flavor_text: \"In the wilds, your true training will begin.\"\n—Syr Alin, the Lion's Claw
+oracle_text: First strike
 ---
 
 # Youthful Knight (Throne of Eldraine)

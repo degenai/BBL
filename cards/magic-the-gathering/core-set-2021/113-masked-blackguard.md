@@ -15,15 +15,20 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "female-figure", "human-figur
 reference_image: cards/_images/magic-the-gathering/core-set-2021/113-masked-blackguard.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/d/6/d61b4b71-3cbb-4422-8ce7-657ca3bb6a82.png?1594736285
 art_match_confidence: high
 needs_manual_review: false
 mood: grim
 time_of_day: night
 setting: urban
+artist: Bryan Sola
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/113-masked-blackguard--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/6/d61b4b71-3cbb-4422-8ce7-657ca3bb6a82.jpg?1594736285
+flavor_text: Her footsteps are whispers, her passage a last breath.
+oracle_text: Flash (You may cast this spell any time you could cast an instant.)\n{2}{B}: This creature gets +1/+1 until end of turn.
 ---
 
 # Masked Blackguard (Core Set 2021)

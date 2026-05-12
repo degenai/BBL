@@ -1,0 +1,48 @@
+{
+  "card_name": "Jace, Mirror Mage",
+  "game": "Magic: The Gathering",
+  "set": "Zendikar Rising",
+  "collector_number": "63",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Verified as Jace Beleren. Scryfall returns type_line 'Legendary Planeswalker — Jace' (the 'Jace' subtype is reserved on canonical printings of Jace Beleren). MTG Wiki's Jace Beleren article includes a dedicated 'Zendikar Rising' section and lists 'Jace, Mirror Mage' under his card printings, with the card image captioned as Jace returning to Zendikar to meet Nissa and Nahiri. Both sources independently identify this card as a printing of the canonical Jace Beleren. IP is internal Wizards-original (not a crossover risk), so no '## IP' callout block is required, but ip_verified flips to true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Zendikar Rising (set code ZNR) is the 85th Magic expansion, released September 25, 2020 [Scryfall set data]. The set's central storyline follows Jace and Nissa pursuing the lithomancer Nahiri to a Murasa Skyclave, where Nahiri attempts to use the Lithoform Core to reshape Zendikar into a stable, prosperous plane like Ravnica — ending in an all-out battle after Nissa destroys the focal point [MTG Wiki: Jace Beleren, Zendikar Rising section].",
+      "sources": ["Scryfall", "MTG Wiki: Jace Beleren"]
+    },
+    {
+      "category": "design",
+      "text": "Jace, Mirror Mage is the first planeswalker ever printed with the kicker mechanic, and at 3 mana it's an unusually cheap legendary 'walker; if kicked for an extra 2 mana, it enters with a copy token of itself (non-legendary, starting loyalty 1) [Star City Games: 'Zendikar Rising Introduces Jace, Mirror Mage']. Kicker's return in Zendikar Rising was its first appearance since Dominaria (2018) [Star City Games].",
+      "sources": ["Star City Games: Zendikar Rising Introduces Jace, Mirror Mage"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Tyler Jacobson; mythic rare; loyalty 4 [Scryfall]. Set release date 2020-09-25; legal in Pioneer, Modern, Legacy, Vintage, Commander, and Pauper-adjacent Pioneer formats but rotated out of Standard [Scryfall legalities].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Listed in roughly 17,400+ Commander decks on EDHREC at about a 0.41% inclusion rate, scoring as a flexible cheap card-selection 'walker rather than a stax piece — it gives 'draw-go control' tempo without locking opponents out [EDHREC: Jace, Mirror Mage, via WebSearch snippet]. A Pojo review at release rated it 3.75 Constructed / 4.00 Casual / 3.50 Limited / 3.67 Commander [Pojo: Jace, Mirror Mage Zendikar Rising MTG Review, via WebSearch snippet].",
+      "sources": ["EDHREC: Jace, Mirror Mage", "Pojo: Jace, Mirror Mage Zendikar Rising MTG Review"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Scryfall rulings note a rare interaction: 'You can control one legendary Jace, Mirror Mage in addition to any number of nonlegendary copies of Jace, Mirror Mage' — the copy tokens dodge the legend rule by design, which is unusual for a planeswalker [Scryfall rulings, 2020-09-25].",
+      "sources": ["Scryfall rulings"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Jace, the Mind Sculptor", "set": "Worldwake", "note": "the iconic earlier printing of Jace Beleren; sets the 'previous Jace' canonical comparison point Alex's prompt called out"},
+    {"name": "Jace, the Living Guildpact", "set": "Magic Origins / Gatecrash era", "note": "Jace's Ravnica-era title; per MTG Wiki, the persona Jace carries into the Zendikar Rising story"},
+    {"name": "Jace, Ingenious Mind-Mage", "set": "Zendikar Rising Commander", "note": "the companion Jace printing released in the same set's Commander product (post-MDFC era)"},
+    {"name": "Nahiri, Heir of the Ancients", "set": "Zendikar Rising", "note": "the antagonist Jace pursues in Zendikar Rising's main story; the lithomancer at the Murasa Skyclave"},
+    {"name": "Nissa of Shadowed Boughs", "set": "Zendikar Rising", "note": "Jace's storyline partner in the set; she recruits him from Ravnica before the events at the Singing City"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

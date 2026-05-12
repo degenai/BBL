@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "action-mode", "three-quarter-facing", "male-f
 reference_image: cards/_images/magic-the-gathering/core-set-2021/141-destructive-tampering.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/f/bfe6a3a9-8d6
 mood: action
 time_of_day: indeterminate
 setting: other
+artist: Titus Lunter
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/141-destructive-tampering--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/f/bfe6a3a9-8d62-47c4-a78b-9baa9133a540.jpg?1594736589
+flavor_text: \"I don't think they'll appreciate my . . . adjustments.\"\n—Karavin, renegade saboteur
+oracle_text: Choose one —\n• Destroy target artifact.\n• Creatures without flying can't block this turn.
 ---
 
 # Destructive Tampering (Core Set 2021)

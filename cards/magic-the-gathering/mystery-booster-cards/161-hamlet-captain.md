@@ -1,7 +1,7 @@
 ---
 name: Hamlet Captain
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 161
 rarity: U
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "male-figur
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/161-hamlet-captain.png
 average_cost_paid: 0
 market_price: 0.36
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: grim
 time_of_day: day
 setting: forest
 the_list_source_set: EMN
+artist: Wayne Reynolds
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/161-hamlet-captain--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/d/fd8f9cd1-1c43-4778-b8e9-ce51b81984d3.jpg?1573513827
+flavor_text: \"Bloodsuckers, howlers, monsters from the beyond . . . it doesn't much matter. I won't have to face them alone.\"
+oracle_text: Whenever this creature attacks or blocks, other Humans you control get +1/+1 until end of turn.
 ---
 
 # Hamlet Captain (Mystery Booster Cards)

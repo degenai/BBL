@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", 
 reference_image: cards/_images/magic-the-gathering/core-set-2020/235-prismite.png
 average_cost_paid: 0
 market_price: 0.27
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/5/c/5c9fdb01-ba5
 mood: sublime
 time_of_day: day
 setting: forest
+artist: Alayna Danner
+art_crop_image: cards/_images/magic-the-gathering/core-set-2020/235-prismite--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/c/5c9fdb01-ba52-4510-897e-0d69558fdaee.jpg?1592517711
+flavor_text: Even its shadow is a dazzling rainbow.
+oracle_text: {2}: Add one mana of any color.
 ---
 
 # Prismite (Core Set 2020)

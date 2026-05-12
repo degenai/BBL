@@ -14,10 +14,10 @@ tags_hub: ["pegasus", "winged-horse", "wings", "arrow", "flight", "falling", "de
 tags_filter: ["solo", "mid-shot", "action", "no-face", "white-magic", "instant", "creature-pegasus-target", "scene-mode"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/10-divine-arrow.png
 average_cost_paid: 0
-market_price: 0.11
-market_price_as_of: 2026-05-10
+market_price: 0.12
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/7/3/73cbb58a-1b0
 mood: grim
 time_of_day: day
 setting: other
+artist: Kieran Yanner
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/10-divine-arrow--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/3/73cbb58a-1b00-4883-9b45-da7ded7317e3.jpg?1557575917
+flavor_text: Ravnica's defenders watched in horror as Oketra's shot pierced the body of the pegasus. Gideon tumbled through the air, Blackblade in hand.
+oracle_text: Divine Arrow deals 4 damage to target attacking or blocking creature.
 ---
 
 # Divine Arrow (War of the Spark)

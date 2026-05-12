@@ -14,10 +14,10 @@ tags_hub: ["silence", "vow", "ritual", "monks", "robed-figure", "suffering", "tr
 tags_filter: ["group", "3-figures", "close-up", "portrait-mode", "three-quarter-facing", "no-background", "male-figure", "white-magic", "enchantment"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/10-deafening-silence.png
 average_cost_paid: 0
-market_price: 2.5
-market_price_as_of: 2026-05-10
+market_price: 2.66
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/0/6072d9b0-d3c
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Igor Kieryluk
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/10-deafening-silence--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/0/6072d9b0-d3c7-46f4-bd24-095bb13c4dea.jpg?1572489660
+flavor_text: \"They have forsaken their vows. The edict of the Circle demands their voices be silenced.\"\n—Syr Tasdale, knight of Ardenvale
+oracle_text: Each player can't cast more than one noncreature spell each turn.
 ---
 
 # Deafening Silence (Throne of Eldraine)

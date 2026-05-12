@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "wide-shot", "scene-mode", "artifact", "colorless", 
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/231-altar-of-the-pantheon.png
 average_cost_paid: 0
 market_price: 0.28
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/e/1/e1f2a587-443
 mood: peaceful
 time_of_day: day
 setting: other
+artist: Jonas De Ro
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/231-altar-of-the-pantheon--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/1/e1f2a587-443d-4626-a6f6-9a26838a42b1.jpg?1581481176
+oracle_text: Your devotion to each color and each combination of colors is increased by one.\n{T}: Add one mana of any color. If you control a God, a Demigod, or a legendary enchantment, you gain 1 life.
 ---
 
 # Altar of the Pantheon (Theros Beyond Death)

@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "white-magi
 reference_image: cards/_images/magic-the-gathering/core-set-2021/11-celestial-enforcer.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/4/6/46666fba-d4a
 mood: peaceful
 time_of_day: indeterminate
 setting: other
+artist: Bastien L. Deharme
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/11-celestial-enforcer--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/6/46666fba-d4a7-4687-8747-a42e4c6d853e.jpg?1594734826
+flavor_text: \"I look to the heavens for hope, but you will kneel.\"
+oracle_text: {1}{W}, {T}: Tap target creature. Activate only if you control a creature with flying.
 ---
 
 # Celestial Enforcer (Core Set 2021)

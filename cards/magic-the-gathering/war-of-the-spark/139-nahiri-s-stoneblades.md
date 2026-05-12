@@ -14,10 +14,10 @@ tags_hub: ["weapon", "blade", "stone", "war", "grudge", "vengeance", "ritual-obj
 tags_filter: ["red-magic", "instant", "no-figure", "frame-art", "abstract-composition", "close-up", "object-focus"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/139-nahiri-s-stoneblades.png
 average_cost_paid: 0
-market_price: 0.13
-market_price_as_of: 2026-05-10
+market_price: 0.12
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/a/0a14331e-8da
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Micah Epstein
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/139-nahiri-s-stoneblades--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/a/0a14331e-8da5-4455-ac69-e510684e989c.jpg?1557576781
+flavor_text: The ancient Planeswalkers Sorin and Nahiri battled across Ravnica, their blows cutting as deep as their grudge.
+oracle_text: Up to two target creatures each get +2/+0 until end of turn.
 ---
 
 # Nahiri's Stoneblades (War of the Spark)

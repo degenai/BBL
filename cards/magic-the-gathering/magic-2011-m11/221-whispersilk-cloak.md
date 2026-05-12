@@ -14,10 +14,10 @@ tags_hub: ["assassin", "rooftop", "hood", "cloak", "stalker", "night", "spy", "s
 tags_filter: ["solo", "mid-shot", "no-face", "robed-figure", "blue-magic", "artifact", "equipment", "narrative-mode", "three-quarter-facing"]
 reference_image: cards/_images/magic-the-gathering/magic-2011-m11/221-whispersilk-cloak.png
 average_cost_paid: 0
-market_price: 3.41
-market_price_as_of: 2026-05-10
+market_price: 3.68
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/d/8/d83821b3-a6a6-4a15-9169-5c6d1942903d.png?1562477224
 art_match_confidence: high
 needs_manual_review: false
@@ -25,6 +25,10 @@ manual_review_reason:
 mood: grim
 time_of_day: night
 setting: urban
+artist: Daren Bader
+art_crop_image: cards/_images/magic-the-gathering/magic-2011-m11/221-whispersilk-cloak--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/8/d83821b3-a6a6-4a15-9169-5c6d1942903d.jpg?1562477224
+oracle_text: Equipped creature can't be blocked and has shroud. (It can't be the target of spells or abilities.)\nEquip {2}
 ---
 
 # Whispersilk Cloak (Magic 2011 (M11))

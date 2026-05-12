@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "action", "three-quarter-facing", "male-figure
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/203-savage-smash.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/4/c/4ca942d7-a3a
 mood: action
 time_of_day: indeterminate
 setting: urban
+artist: Zoltan Boros
+art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/203-savage-smash--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/c/4ca942d7-a3a3-429f-a159-fc2363d9bca6.jpg?1584831798
+flavor_text: A Gruul berserker is never unarmed.
+oracle_text: Target creature you control gets +2/+2 until end of turn. It fights target creature you don't control. (Each deals damage equal to its power to the other.)
 ---
 
 # Savage Smash (Ravnica Allegiance)

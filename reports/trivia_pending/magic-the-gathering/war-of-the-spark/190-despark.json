@@ -1,0 +1,48 @@
+{
+  "card_name": "Despark",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "190",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Verified: depicted figure is Liliana Vess. Scryfall flavor_text explicitly names Liliana (\"Liliana whispered to whatever consciousness Oketra and Bontu had left.\"); Scryfall flags story_spotlight: true (canonical War of the Spark narrative moment); multiple lore sources (MTG Wiki, Wargamer, Upcomer story recap) corroborate that this is the moment Liliana, freed from Bolas' contract, turns the God-Eternals Oketra and Bontu against him. Liliana is Wizards-internal IP (no external-crossover risk), so no ## IP callout required, only ip_verified flip and Vision-warning reconciliation.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Despark is a designated DailyMTG Story Spotlight card from War of the Spark; the art depicts the moment Liliana Vess, freed from Nicol Bolas' contract, commands the corrupted God-Eternals Oketra and Bontu (the two cracked god-statue heads behind her) to turn on Bolas himself. The exiled-permanent mechanic mirrors the narrative beat of unmaking the Elder Dragon's apparatus of control. [Scryfall: story_spotlight=true], [Wargamer: War of the Spark story guide], [MTG Wiki: War of the Spark/Event]",
+      "sources": ["Scryfall", "Wargamer (War of the Spark guide)", "MTG Wiki: War of the Spark/Event", "Upcomer: War of the Spark Story Recap Act III"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Liliana whispered to whatever consciousness Oketra and Bontu had left. 'You are the gods. He is the usurper. You know what to do.'\" — direct quote of Liliana's command to the God-Eternals at the turning point of the Bolas confrontation. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Slawomir Maniak, who illustrated several War of the Spark planeswalker-adjacent moments. The card was previewed by The Vorthos Cast in April 2019, a podcast focused on Magic's story/art, consistent with the card's status as a story-spotlight piece. [Scryfall: artist + preview source]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Despark is a heavily-played Orzhov removal staple in Commander: EDHREC lists it in roughly 30% of Orzhov (W/B) decks (~99K of 327K Orzhov decks tracked). Two-mana instant-speed exile that ignores indestructible and most protection clauses is the appeal; the mana-value-4-or-greater restriction is the cost. [EDHREC: Despark card page], [EDHREC: Orzhov staples]",
+      "sources": ["EDHREC: Despark", "EDHREC: Orzhov staples"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Despark belongs to the War of the Spark removal cycle alongside other Orzhov narrative-removal pieces; the set's design conceit was that every rare/mythic includes a planeswalker, making story-spotlight uncommons like this one the primary vehicle for non-planeswalker plot beats. [MTG Wiki: War of the Spark]",
+      "sources": ["MTG Wiki: War of the Spark"]
+    }
+  ],
+  "related_cards": [
+    {"name": "God-Eternal Oketra", "set": "War of the Spark", "note": "One of the two God-Eternals Liliana commands in the Despart moment; the pale-stone bearded statue head in the Despark art is consistent with Oketra's iconography."},
+    {"name": "God-Eternal Bontu", "set": "War of the Spark", "note": "The other God-Eternal in the Despart moment; per the WAR story recap, Bontu is the one that bit Bolas and harvested his spark before exploding."},
+    {"name": "Liliana, Dreadhorde General", "set": "War of the Spark", "note": "Liliana's mythic-rare planeswalker card from the same set, depicting her commanding the Dreadhorde — the broader Bolas-war narrative arc."},
+    {"name": "Anguished Unmaking", "set": "Shadows over Innistrad", "note": "The most-compared Orzhov exile-anything-permanent instant; Despark is the cheaper, mana-value-gated cousin in the same removal lineage."},
+    {"name": "Utter End", "set": "Khans of Tarkir", "note": "Predecessor Orzhov exile-any-permanent instant at 4 mana; Despark trades the no-restriction clause for a steep 2-mana cost when targets qualify."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Liliana Vess",
+    "ip_confidence": "high"
+  }
+}

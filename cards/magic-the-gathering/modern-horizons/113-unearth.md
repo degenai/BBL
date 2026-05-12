@@ -14,16 +14,21 @@ tags_hub: ["undead", "skeleton", "dragon", "necromancy", "resurrection", "grave"
 tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "no-face", "black-magic", "sorcery", "reanimate"]
 reference_image: cards/_images/magic-the-gathering/modern-horizons/113-unearth.png
 average_cost_paid: 0
-market_price: 0.51
-market_price_as_of: 2026-05-10
+market_price: 0.5
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/b/6/b62abd0c-ec3e-45d7-989d-da269812aeef.png?1562201767
 art_match_confidence: high
 needs_manual_review: false
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Jehan Choo
+art_crop_image: cards/_images/magic-the-gathering/modern-horizons/113-unearth--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/6/b62abd0c-ec3e-45d7-989d-da269812aeef.jpg?1562201767
+flavor_text: No matter how deep you bury it, some evil refuses to stay dead.
+oracle_text: Return target creature card with mana value 3 or less from your graveyard to the battlefield.\nCycling {2} ({2}, Discard this card: Draw a card.)
 ---
 
 # Unearth (Modern Horizons)

@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "humanoid-f
 reference_image: cards/_images/magic-the-gathering/core-set-2021/128-walking-corpse.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/5/053b59b4-a22
 mood: grim
 time_of_day: night
 setting: other
+artist: Igor Kieryluk
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/128-walking-corpse--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/5/053b59b4-a22c-4228-aadc-ae9da6bb465e.jpg?1594736452
+flavor_text: \"Feeding a normal army is a problem of logistics. With zombies, it is an asset. Feeding is why they fight. Feeding is why they are feared.\"\n—Jadar, ghoulcaller of Nephalia
 ---
 
 # Walking Corpse (Core Set 2021)

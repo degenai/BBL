@@ -1,7 +1,7 @@
 ---
 name: Asceticism
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 110
 rarity: R
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["no-figure", "wide-shot", "scene-mode", "no-face", "enchantment", 
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/110-asceticism.png
 average_cost_paid: 0
 market_price: 6.79
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: sublime
 time_of_day: indeterminate
 setting: forest
 the_list_source_set: SOM
+artist: Daarken
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/110-asceticism--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/2/72eefa85-39de-4f9f-aba1-7520b358c6c4.jpg?1573513060
+flavor_text: \"Let my ignominy build walls thicker than iron and stronger than darksteel.\"\n—Thrun, the last troll
+oracle_text: Creatures you control have hexproof.\n{1}{G}: Regenerate target creature. (The next time it would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)
 ---
 
 # Asceticism (Mystery Booster Cards)

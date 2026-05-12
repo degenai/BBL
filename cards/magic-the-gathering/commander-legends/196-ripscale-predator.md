@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "no-face-huma
 reference_image: cards/_images/magic-the-gathering/commander-legends/196-ripscale-predator.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/0/00924a16-fb8
 mood: action
 time_of_day: indeterminate
 setting: forest
+artist: Volkan Baǵa
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/196-ripscale-predator--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/0/00924a16-fb85-41a4-bd7a-88f51f728333.jpg?1608910367
+flavor_text: As Ravnica's wilds expanded, even advocates for nature had to confront fiercer natural threats.
+oracle_text: Menace (This creature can't be blocked except by two or more creatures.)
 ---
 
 # Ripscale Predator (Commander Legends)

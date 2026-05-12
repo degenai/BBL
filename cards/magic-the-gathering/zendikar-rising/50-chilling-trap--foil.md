@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "action-mode", "single-figure", "blue-magic", 
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/50-chilling-trap--foil.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/0/60f9adfd-a94
 mood: action
 time_of_day: indeterminate
 setting: other
+artist: Johann Bodin
+art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/50-chilling-trap--foil--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/0/60f9adfd-a940-4d62-894b-84f17c693a10.jpg?1604193730
+flavor_text: \"Serves you right for rushing ahead.\"\n—Kaliea, Sea Gate trapfinder
+oracle_text: Target creature gets -4/-0 until end of turn. If you control a Wizard, draw a card.
 ---
 
 # Chilling Trap (Zendikar Rising)

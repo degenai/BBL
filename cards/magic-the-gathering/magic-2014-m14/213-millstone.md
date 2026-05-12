@@ -15,9 +15,9 @@ tags_filter: ["no-figure", "no-face-human", "forward-facing", "mid-shot", "portr
 reference_image: cards/_images/magic-the-gathering/magic-2014-m14/213-millstone.png
 average_cost_paid: 0
 market_price: 0.21
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/2/3/23f28acb-8ccb-4b89-ba7f-ff7ce59852aa.png?1710406441
 art_match_confidence: high
 needs_manual_review: false
@@ -25,6 +25,11 @@ manual_review_reason:
 mood: grim
 time_of_day: indeterminate
 setting: mountain
+artist: Yeong-Hao Han
+art_crop_image: cards/_images/magic-the-gathering/magic-2014-m14/213-millstone--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/3/23f28acb-8ccb-4b89-ba7f-ff7ce59852aa.jpg?1710406441
+flavor_text: Minds, like mountains, are never so grand and mighty that they can't be reduced to dust.
+oracle_text: {2}, {T}: Target player mills two cards.
 ---
 
 # Millstone (Magic 2014 (M14))

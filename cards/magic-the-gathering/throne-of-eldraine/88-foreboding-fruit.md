@@ -15,9 +15,9 @@ tags_filter: ["solo", "close-up", "indoor-scene", "no-face", "scene-mode", "blac
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/88-foreboding-fruit.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/c/5/c5f79ec4-372
 mood: grim
 time_of_day: night
 setting: indoor
+artist: Drew Baker
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/88-foreboding-fruit--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/5/c5f79ec4-3722-4fda-824b-e80dc7608d01.jpg?1572490138
+oracle_text: Target player draws two cards and loses 2 life.\nAdamant — If at least three black mana was spent to cast this spell, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")
 ---
 
 # Foreboding Fruit (Throne of Eldraine)

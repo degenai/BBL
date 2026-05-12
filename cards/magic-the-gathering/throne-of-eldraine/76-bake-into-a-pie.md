@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "indoor-settin
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/76-bake-into-a-pie.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/4/2/42a4d090-1bb
 mood: cozy
 time_of_day: indeterminate
 setting: indoor
+artist: Zoltan Boros
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/76-bake-into-a-pie--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/2/42a4d090-1bb7-4334-ab22-e2527391e79b.jpg?1572490064
+flavor_text: \"My secret ingredient? Well, I can't tell you that. But here's a hint. It's not love.\"
+oracle_text: Destroy target creature. Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")
 ---
 
 # Bake into a Pie (Throne of Eldraine)

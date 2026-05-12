@@ -1,0 +1,49 @@
+{
+  "card_name": "Ral's Outburst",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "212",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Triple-confirmed as Ral Zarek: (a) Scryfall flavor_text directly attributes the quote 'Time to find the melting point of lazotep.' to Ral Zarek; (b) card name uses the Wizards 'Ral's <Spell>' possessive convention reserved for spells canonically attributed to the Izzet planeswalker (multiple cards on Scryfall in this cycle); (c) MTG Wiki character page confirms Ral Zarek as a Ravnican-born Izzet storm-mage planeswalker, current Izzet guildmaster, with categories 'Wizards / Blue mana characters / Red mana characters / Ravnica guildmasters / Typed planeswalkers'. UR color identity on the card matches Ral's signature Izzet palette. Internal Wizards IP (Ravnica original character) — no external crossover risk, so no `## IP` callout block appended.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Released in War of the Spark (set code WAR) on 2019-05-03, the set centers on Nicol Bolas's invasion of Ravnica with his Eternal army of lazotep-encased zombies built from planeswalker husks [Scryfall: set page]. The card's flavor-text mention of 'melting point of lazotep' situates this spell directly in the Eternal-army battle sequence, where Ral defected from Bolas's payroll to defend Ravnica [WebSearch: dotesports / Card Kingdom MTG Character Profile].",
+      "sources": ["Scryfall API", "dotesports.com", "blog.cardkingdom.com"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Joseph Meehan, depicting Ral mid-cast unleashing forked blue-white lightning — visually consistent with Ral's storm-mage identity (planeswalking is heralded by lightning cracks per MTG Wiki) [Scryfall: artist credit; MTG Wiki: Ral Zarek].",
+      "sources": ["Scryfall API", "mtg.wiki: Ral Zarek"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Uncommon UR instant: 3 damage to any target plus a top-two impulse-style card-select (one to hand, one to graveyard) for {2}{U}{R}. Rated tier A+ in War of the Spark Limited draft guides as a strong removal-plus-card-advantage two-for-one in Izzet colors [WebSearch: MTG Arena Zone / Untapped.gg WAR draft tier lists].",
+      "sources": ["mtgazone.com", "mtga.untapped.gg"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Time to find the melting point of lazotep.\" —Ral Zarek [Scryfall flavor_text]. Lazotep is the alchemical material Bolas used to encase his Eternal army; Ral, an Izzet pyrothermal experimenter, is framing the battle as a literal materials-science problem — a characteristically Izzet way to declare a betrayal [Tumblr: bacejelerenvorthos War of the Spark Flavor Spotlight on Ral's Outburst, via WebSearch snippet].",
+      "sources": ["Scryfall API", "WebSearch snippet: bacejelerenvorthos Tumblr"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Part of the 'Ral's <Spell>' flavor cycle attributed to the Izzet planeswalker (sibling cards on Scryfall include Ral's Dispersal, Ral's Staticaster, Ral's Vanguard, and the planeswalker card Ral, Storm Conduit also in War of the Spark) [Scryfall search: name:\"Ral's\"]. Ral chose Ravnica over Bolas in War of the Spark, working with Jace and Vraska to resurrect Niv-Mizzet as the city's protector [MTG Wiki: Ral Zarek, via WebSearch snippet].",
+      "sources": ["Scryfall API", "mtg.wiki: Ral Zarek"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ral, Storm Conduit", "set": "War of the Spark (WAR)", "note": "The named planeswalker card for Ral Zarek in the same set; depicts the same character at full planeswalker rarity"},
+    {"name": "Ral's Dispersal", "set": "Ravnica Allegiance (RNA)", "note": "Sibling card in the 'Ral's <Spell>' attribution cycle; UR instant"},
+    {"name": "Ral's Staticaster", "set": "Ravnica Allegiance (RNA)", "note": "Sibling card in the 'Ral's <Spell>' attribution cycle"},
+    {"name": "Ral's Vanguard", "set": "Modern Horizons 3 (MH3) / multiple printings", "note": "Sibling Ral-attributed card; further entry in the Ral spell cycle"},
+    {"name": "Ral Zarek", "set": "Dragon's Maze (DGM)", "note": "Ral's debut planeswalker card; the character's first canonical printing"},
+    {"name": "Niv-Mizzet, Parun", "set": "Guilds of Ravnica (GRN)", "note": "Izzet guildmaster dragon; resurrected by Ral, Jace, and Vraska in War of the Spark"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Ral Zarek",
+    "ip_confidence": "high"
+  }
+}

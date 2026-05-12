@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "no-face", "creature-chimera
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/177-loathsome-chimera.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/a/3afe6283-364
 mood: grim
 time_of_day: indeterminate
 setting: forest
+artist: Paul Scott Canavan
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/177-loathsome-chimera--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/a/3afe6283-3642-4883-ac6e-83ae3280af9c.jpg?1581480674
+flavor_text: \"I see... elk? And lion? And... teeth! A lot of teeth!\"\n—Teraklos of Meletis
+oracle_text: Escape—{4}{G}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)\nThis creature escapes with a +1/+1 counter on it.
 ---
 
 # Loathsome Chimera (Theros Beyond Death)

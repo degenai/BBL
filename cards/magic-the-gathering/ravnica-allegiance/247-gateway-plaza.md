@@ -14,10 +14,10 @@ tags_hub: ["architecture", "gateway", "arch", "plaza", "city", "guildhall", "tow
 tags_filter: ["land", "gate", "no-figures", "wide-shot", "scene-mode", "forward-facing", "multicolor-any", "color-fixing"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/247-gateway-plaza.png
 average_cost_paid: 0
-market_price: 0.37
-market_price_as_of: 2026-05-10
+market_price: 0.36
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/4/3433a2c2-d25
 mood: sublime
 time_of_day: day
 setting: urban
+artist: Jedd Chevrier
+art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/247-gateway-plaza--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/4/3433a2c2-d252-4cd8-97e8-389875b2cda0.jpg?1584832247
+flavor_text: The Chamber of the Guildpact has fallen silent, its bright promise broken.
+oracle_text: This land enters tapped.\nWhen this land enters, sacrifice it unless you pay {1}.\n{T}: Add one mana of any color.
 ---
 
 # Gateway Plaza (Ravnica Allegiance)

@@ -14,10 +14,10 @@ tags_hub: ["vampire", "wizard", "divination", "scrying", "ritual", "robed-figure
 tags_filter: ["solo", "close-up", "portrait-mode", "three-quarter", "no-background", "black-magic", "creature-vampire", "creature-wizard", "chiaroscuro", "sacrifice-outlet", "scry"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/158-viscera-seer.png
 average_cost_paid: 0
-market_price: 1.16
-market_price_as_of: 2026-05-10
+market_price: 1.11
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/d/4/d49203dd-89b
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+artist: John Stanko
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/158-viscera-seer--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/4/d49203dd-89b6-4e91-b3ff-5f9f5ce981f8.jpg?1608910025
+flavor_text: In matters of life and death, he trusts his gut.
+oracle_text: Sacrifice a creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)
 ---
 
 # Viscera Seer (Commander Legends)

@@ -14,10 +14,10 @@ tags_hub: ["castle", "fortress", "sunset", "mountain", "banners", "architecture"
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "landscape", "no-face", "red-magic", "land", "castle-cycle"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/239-castle-embereth.png
 average_cost_paid: 0
-market_price: 0.43
-market_price_as_of: 2026-05-10
+market_price: 0.44
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/8/b/8bb8512e-691
 mood: sublime
 time_of_day: sunset
 setting: mountain
+artist: Jaime Jones
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/239-castle-embereth--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/b/8bb8512e-6913-4be6-8828-24cfcbec042e.jpg?1572491168
+flavor_text: Without Embereth's courage, the realm would falter and fall.
+oracle_text: This land enters tapped unless you control a Mountain.\n{T}: Add {R}.\n{1}{R}{R}, {T}: Creatures you control get +1/+0 until end of turn.
 ---
 
 # Castle Embereth (Throne of Eldraine)

@@ -14,10 +14,10 @@ tags_hub: ["god", "death", "undead", "skeleton", "zombie", "hooded-figure", "gia
 tags_filter: ["group", "forward-facing", "wide-shot", "scene-mode", "no-face", "creature-zombie-god", "legendary", "black-magic", "menace", "sacrifice", "card-draw"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/92-god-eternal-bontu.png
 average_cost_paid: 0
-market_price: 1.18
-market_price_as_of: 2026-05-10
+market_price: 1.16
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/7/3714a135-e2b
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Lius Lasahido
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/92-god-eternal-bontu--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/7/3714a135-e2b9-43a7-a2a2-fa5a2e0ac61a.jpg?1557576478
+oracle_text: Menace\nWhen God-Eternal Bontu enters, sacrifice any number of other permanents, then draw that many cards.\nWhen God-Eternal Bontu dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.
 ---
 
 # God-Eternal Bontu (War of the Spark)

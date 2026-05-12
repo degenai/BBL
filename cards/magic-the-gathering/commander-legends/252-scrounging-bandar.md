@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "creature",
 reference_image: cards/_images/magic-the-gathering/commander-legends/252-scrounging-bandar.png
 average_cost_paid: 0
 market_price: 0.29
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/2/02c8aab5-ed0
 mood: other
 time_of_day: indeterminate
 setting: forest
+artist: Shreya Shetty
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/252-scrounging-bandar--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/2/02c8aab5-ed0d-489d-87af-7eb3193b75db.jpg?1608910887
+flavor_text: \"It was right here a second ago . . .\"
+oracle_text: This creature enters with two +1/+1 counters on it.\nAt the beginning of your upkeep, you may move any number of +1/+1 counters from this creature onto another target creature.
 ---
 
 # Scrounging Bandar (Commander Legends)

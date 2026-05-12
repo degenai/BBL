@@ -1,0 +1,56 @@
+{
+  "edge_id": "despark--topple-the-statue",
+  "shape": "1:1",
+  "category": "story-spotlight",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/war-of-the-spark/190-despark.md",
+      "name": "Despark (War of the Spark / WAR-190)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/war-of-the-spark/35-topple-the-statue.md",
+      "name": "Topple the Statue (War of the Spark / WAR-35)"
+    }
+  ],
+  "description": "Paired story-spotlight beats of WAR's Bolas-Falls narrative arc. Topple is the Act 2 spotlight (Nissa's Vitu-Ghazi fells Bolas's Ravnican statue as a morale rally) and Despark is the Act 3 spotlight (Liliana, freed from Bolas's contract, turns the corrupted God-Eternals Oketra and Bontu against him). Both are designer-tagged Story Spotlight uncommons in the same set's Bolas-defeat cluster.",
+  "citations": [
+    "[Scryfall: story_spotlight: true on both WAR-35 and WAR-190]",
+    "[MTG Wiki: War of the Spark Story Spotlights]",
+    "[MTG Wiki: Vitu-Ghazi]",
+    "[MTG Wiki: Liliana Vess (WAR arc)]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/war-of-the-spark/190-despark.md",
+    "cards/magic-the-gathering/war-of-the-spark/35-topple-the-statue.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    {
+      "candidate": "Bolas-Falls cluster as a Nodeley node proposal (Despark + Topple the Statue + Prison Realm)",
+      "category": "story-spotlight-cluster",
+      "why_skipped": "Prison Realm is in wave 2's triviabot batch but its MD has Vision only (no Trivia section landed yet). With only 2 trivia-passed cluster members, the Nodeley threshold (3+ shared-concept cards) is not met. Flagging this as a Mr. Nodeley candidate once Prison Realm's trivia pass lands; a war-of-the-spark/bolas-falls-cluster MD (or a story-spotlights cycle node, or a bolas-falls character/event node) would anchor Despark + Topple + Prison Realm + future cluster members (Awakening of Vitu-Ghazi, Enter the God-Eternals, The Elderspell, Deliver Unto Evil, Spark Harvest) cleanly."
+    },
+    {
+      "candidate": "Gatewatch Triumph cycle (Jace's Triumph + Nissa's Triumph)",
+      "category": "designer-confirmed-cycle",
+      "why_skipped": "Only Jace's Triumph is trivia-passed in wave 2. Nissa's Triumph has Vision but no Trivia section landed. Insufficient for a 1:1 trivia-aware edge AND below the Nodeley 3+ threshold. Flagging for a future pass: the 5-card Kieran Yanner Triumph cycle (Gideon WAR-15, Jace WAR-55, Liliana WAR-98, Chandra WAR-121, Nissa WAR-170) bookends the Hour of Devastation Defeat cycle and is a strong future Nodeley node-proposal once 3+ Triumph cards are trivia-passed."
+    },
+    {
+      "candidate": "Vito ↔ Pitiless Pontiff",
+      "category": "saint-heretic-pair (proposed by caller)",
+      "why_skipped": "REJECTED — wrong factions. Vito is Church of Dusk / Legion of Dusk on Ixalan; Pitiless Pontiff is Orzhov Syndicate on Ravnica. They do NOT share the Orzhov Signet throne motif: Vito's Vision describes a generic gothic cathedral with pointed arches and ribbed vaults, with NO eclipsed-sun signet behind him, and his frontmatter has no `symbols:` field. They share only the priest-vampire visual archetype — a tag bridge, not an edge. The caller's framing 'both Orzhov, both with the Orzhov Signet on their thrones' is factually incorrect; conflating their factions would corrupt the graph."
+    },
+    {
+      "candidate": "Tamiyo Collector of Tales ↔ Tamiyo Meets the Story Circle",
+      "category": "named-character-identity",
+      "why_skipped": "Tamiyo Meets the Story Circle has Vision but no Trivia section landed (not in trivia_pending queue either). Drawing a 1:1 named-character-identity edge to an un-trivia-passed endpoint would be premature; the trivia layer carries the story-circle / scholarship-arc grounding that makes the edge load-bearing. Strong candidate for a future pass once trivia is applied to the MH3 saga."
+    },
+    {
+      "candidate": "Despark ↔ Liliana, Dreadhorde General (named character + adjacent narrative beat)",
+      "category": "named-character-identity",
+      "why_skipped": "Liliana, Dreadhorde General is cited in Despark's Related cards as the same-character planeswalker from the same set, but is not in our enriched corpus this wave. Future pass candidate."
+    }
+  ]
+}

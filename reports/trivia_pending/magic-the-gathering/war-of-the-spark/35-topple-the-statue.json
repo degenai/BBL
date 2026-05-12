@@ -1,0 +1,48 @@
+{
+  "card_name": "Topple the Statue",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "35",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Verified as a depiction of Nicol Bolas's statue being toppled during the climax of the War of the Spark storyline. Scryfall flags the card with story_spotlight: true and the flavor text explicitly names Bolas. The Wizards/MTG-Wiki narrative beat: Nissa animates Vitu-Ghazi, which then topples the Bolas statue on Ravnica, briefly rallying the defenders before the God-Eternals turn the tide. Bolas is an internal MTG character, not an external IP; ip_verified: true is recorded but no external-IP warning callout is required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Story-spotlight card in War of the Spark (Act 2 of the set's narrative arc), commemorating the moment Nissa animates Vitu-Ghazi and the colossal tree topples Bolas's statue on Ravnica — a brief rally before the God-Eternals enter the fray and turn the tide [Scryfall story_spotlight: true; MTG Wiki: War of the Spark / Vitu-Ghazi].",
+      "sources": ["Scryfall", "MTG Wiki: Vitu-Ghazi", "MTG Wiki: War of the Spark"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Bolas cared little when his statue fell, thinking it a useful distraction, underestimating the surge of resolve it gave his opponents.\" — narratorial, not attributed to a character; frames the toppling as a morale beat Bolas tactically dismissed [Scryfall flavor_text].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Sidharth Chaturvedi. Common in the original WAR printing; reprinted at uncommon in Double Masters (2XM, 2020) with the same art and flavor text, though only the WAR printing retains the story_spotlight flag [Scryfall prints index].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Three-mana white instant: tap any permanent, destroy it if it's an artifact, then draw a card. Format-legal in Modern, Pioneer, Pauper, Legacy, Vintage, and Commander; format-staple status is low (EDHREC rank ~20,132) but the cantrip-tap-or-blow-up flexibility keeps it in Pauper and budget-EDH conversations [Scryfall legalities, EDHREC].",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Part of the Bolas-Falls narrative cluster within WAR: pairs directly with Awakening of Vitu-Ghazi (the animation cause) and sits in the broader Act 2 / Act 3 arc that includes Despark and The Elderspell. The Act 2 story-spotlight cycle is: Pledge of Unity, Rally of Wings, Awakening of Vitu-Ghazi, Topple the Statue, Enter the God-Eternals, Spark Harvest, The Elderspell, Deliver Unto Evil [MTG Wiki: Story Spotlight; epicstream WAR Act 2 spotlight coverage].",
+      "sources": ["MTG Wiki: Story Spotlight", "epicstream.com WAR Act 2 article"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Awakening of Vitu-Ghazi", "set": "War of the Spark", "note": "Direct narrative cause: Nissa animates Vitu-Ghazi, which then topples the Bolas statue depicted here. Same Act 2 story-spotlight cycle."},
+    {"name": "Despark", "set": "War of the Spark", "note": "Already-verified Bolas-Falls cluster member; Act 3 story-spotlight, same set, same Bolas-defeat narrative beat."},
+    {"name": "The Elderspell", "set": "War of the Spark", "note": "The macguffin spell at the center of WAR's plot — Bolas's planeswalker-harvest mechanism, the thing the toppling resists. Act 2 story-spotlight."},
+    {"name": "Enter the God-Eternals", "set": "War of the Spark", "note": "The very next narrative beat after Topple: Bolas's response, when the God-Eternals step through the portal and destroy Vitu-Ghazi. Act 2 story-spotlight."},
+    {"name": "God-Pharaoh's Statue", "set": "War of the Spark", "note": "Sibling statue card in the same set — Bolas's earlier monumentalization on Amonkhet — frames the iconography of the toppling here."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

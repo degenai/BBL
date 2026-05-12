@@ -404,11 +404,13 @@ def _inject_archived_on(text: str, archived_on: str) -> str:
 
 def _is_non_card_node(path: Path, fm: dict) -> bool:
     """Skip MDs that aren't inventory cards: hub concept pages, symbol pages
-    (iconographic ideology entries), image-cache sidecars, anything under an
-    _underscore-prefixed directory inside cards/. Hub pages declare
-    `type: hub`, symbol pages declare `type: symbol`; the path-based check is
-    the belt-and-suspenders guard so we never accidentally zero/archive these."""
-    if fm.get("type") in ("hub", "symbol"):
+    (iconographic ideology entries), artist identity pages, character identity
+    pages, image-cache sidecars, anything under an _underscore-prefixed
+    directory inside cards/. Hub pages declare `type: hub`, symbol pages
+    `type: symbol`, artist pages `type: artist`, character pages
+    `type: character`; the path-based check is the belt-and-suspenders guard
+    so we never accidentally zero/archive these."""
+    if fm.get("type") in ("hub", "symbol", "artist", "character"):
         return True
     # Any path segment starting with `_` (e.g. cards/_hubs/, cards/_images/) is
     # not inventory. _images/ is for cached PNGs and doesn't contain MDs, but
@@ -475,13 +477,24 @@ def _cleanup_misplaced_sealed_in_cards(cards_dir: Path, dry_run: bool) -> int:
     """One-shot migration: any node in cards/ with empty collector_number AND empty
     rarity in its frontmatter is a sealed product that was misclassified before the
     sealed-routing logic existed. Delete it so the main pass re-creates it in sealed/.
-    Idempotent: noop if there are no misplaced nodes."""
+    Idempotent: noop if there are no misplaced nodes.
+
+    **CRITICAL:** Must skip non-card nodes (hub / symbol / artist MDs under
+    underscored directories). They also have no collector_number and no rarity
+    because they're not cards. Without this guard the migration nukes the
+    foundational layers. Caught the hard way 2026-05-11 — 3 hubs, 1 symbol, and
+    1 artist MD were wiped in one csv2mdbot run before the guard was added."""
     if not cards_dir.exists():
         return 0
     moved = 0
     for path in list(cards_dir.rglob("*.md")):
         text = path.read_text(encoding="utf-8")
         fm = parse_frontmatter(text)
+        # Belt-and-suspenders: hubs/symbols/artists live under _underscored
+        # directories AND declare type:hub/symbol/artist. Both checks live
+        # in _is_non_card_node so we reuse it.
+        if _is_non_card_node(path, fm):
+            continue
         # collector_number and rarity both empty (or missing) = sealed
         cn = (fm.get("collector_number") or "").strip()
         rar = (fm.get("rarity") or "").strip()
@@ -716,6 +729,17 @@ def main():
         print(f"  Errors:   {len(report['errors'])}")
         for e in report["errors"][:10]:
             print(f"    - {e}")
+
+    # Ergonomic hint: when new cards were created, the chronological review
+    # queue is stale until those cards are enriched and the queue is rebuilt.
+    new_cards = report["created"]
+    if new_cards and not args.dry_run:
+        print(f"\n  Note: {new_cards} new card(s) created. Next steps:")
+        print(f"    1. python researchbot.py --prepare-only --limit 600 [--game ...]")
+        print(f"    2. Run bbl-researcher batches on the ready queue.")
+        print(f"    3. After enrichment + commit, run `python bbl_review.py build`")
+        print(f"       to refresh the review queue with the new cards.")
+        print(f"  (`python bbl_review.py status` warns when the queue is stale.)")
 
     if not args.dry_run:
         write_last_hash(args.reports_dir, csv_hash)

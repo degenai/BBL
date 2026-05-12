@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "creature-elf
 reference_image: cards/_images/magic-the-gathering/core-set-2021/193-llanowar-visionary.png
 average_cost_paid: 0
 market_price: 0.28
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/d/6/d6e23afa-7e08-4049-baf0-d4d0134ba2c8.png?1594737093
 art_match_confidence: high
 needs_manual_review: false
@@ -25,6 +25,11 @@ manual_review_reason: No reference image found via scryfall for set 'Core Set 20
 mood: sublime
 time_of_day: day
 setting: forest
+artist: Cristi Balanescu
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/193-llanowar-visionary--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/6/d6e23afa-7e08-4049-baf0-d4d0134ba2c8.jpg?1594737093
+flavor_text: The elves of Llanowar look to their past to determine the shape of their future.
+oracle_text: When this creature enters, draw a card.\n{T}: Add {G}.
 ---
 
 # Llanowar Visionary (Core Set 2021)

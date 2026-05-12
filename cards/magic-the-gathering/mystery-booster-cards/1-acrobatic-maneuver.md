@@ -1,7 +1,7 @@
 ---
 name: Acrobatic Maneuver
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 1
 rarity: C
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide-shot", "three-quarter", "action-mode", "no-face-visi
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/1-acrobatic-maneuver.png
 average_cost_paid: 0
 market_price: 0.37
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: action
 time_of_day: day
 setting: urban
 the_list_source_set: KLD
+artist: Winona Nelson
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/1-acrobatic-maneuver--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/5/655d23a2-0fdd-4691-84fe-33917f224884.jpg?1573504682
+flavor_text: Renegades find ever more creative ways to work around the Consulate's aether regulations.
+oracle_text: Exile target creature you control, then return that card to the battlefield under its owner's control.\nDraw a card.
 ---
 
 # Acrobatic Maneuver (Mystery Booster Cards)

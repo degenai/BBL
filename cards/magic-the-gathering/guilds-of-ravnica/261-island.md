@@ -15,9 +15,9 @@ tags_filter: ["wide-shot", "scene-mode", "no-face", "blue-magic", "basic-land", 
 reference_image: cards/_images/magic-the-gathering/guilds-of-ravnica/261-island.png
 average_cost_paid: 0
 market_price: 0.42
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/2/9/29bfbf3e-3a6
 mood: sublime
 time_of_day: indeterminate
 setting: urban
+artist: Richard Wright
+art_crop_image: cards/_images/magic-the-gathering/guilds-of-ravnica/261-island--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/9/29bfbf3e-3a6c-40d4-8e1b-255f429de6cc.jpg?1750920748
+oracle_text: ({T}: Add {U}.)
 ---
 
 # Island (Guilds of Ravnica)

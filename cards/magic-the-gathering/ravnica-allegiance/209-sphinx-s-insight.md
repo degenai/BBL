@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "blue-magic
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/209-sphinx-s-insight.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/d/7/d71c2435-031
 mood: sublime
 time_of_day: indeterminate
 setting: void
+artist: Scott Murphy
+art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/209-sphinx-s-insight--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/7/d71c2435-0312-4279-a9e1-fab7432756b7.jpg?1584831877
+flavor_text: \"Do not think me blind to your true mission...or your true master, Grand Arbiter.\"
+oracle_text: Draw two cards.\nAddendum — If you cast this spell during your main phase, you gain 2 life.
 ---
 
 # Sphinx's Insight (Ravnica Allegiance)

@@ -16,9 +16,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "portrait-mode", "no-backgrou
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/194-pitiless-pontiff.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/8/98f66c03-cf7
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+artist: Yongjae Choi
+art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/194-pitiless-pontiff--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/8/98f66c03-cf79-4de0-be55-b921cbdc5038.jpg?1584831707
+flavor_text: \"Pay in gold. Pay in blood. Pay with the servitude of your spirit kin. But pay you must.\"
+oracle_text: {1}, Sacrifice another creature: This creature gains deathtouch and indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)
 ---
 
 # Pitiless Pontiff (Ravnica Allegiance)
@@ -58,8 +63,8 @@ A robed vampire cleric stands in a dramatic, theatrical pose, raising a curved s
 - **Community resonance** — Community deckbuilding discourse frames Pitiless Pontiff as a free repeatable sacrifice outlet (the {1} cost is the activation, not the sac itself), making it an enabler in aristocrats loops with Oathsworn Vampire / Pitiless Plunderer and a documented Gutterbones micro-combo. Treat as enthusiast-builder sentiment, not tournament consensus. `[tappedout: "MTG Combo: Gutterbones + Pitiless Pontiff"]`
 
 ### Related cards
-- Imperious Oligarch (Ravnica Allegiance, #184) — same-set Orzhov WB cleric; EDHREC's #1 high-lift synergy partner (67.2 lift) and a designated companion in the Orzhov Guild Kit list
-- Teysa Karlov (Ravnica Allegiance, #212) — same-set Orzhov legendary; #2 commander home for the Pontiff per EDHREC; the Pontiff's free sac outlet feeds her death-trigger doubler plan
+- Imperious Oligarch (Ravnica Allegiance, no. 184) — same-set Orzhov WB cleric; EDHREC's no. 1 high-lift synergy partner (67.2 lift) and a designated companion in the Orzhov Guild Kit list
+- Teysa Karlov (Ravnica Allegiance, no. 212) — same-set Orzhov legendary; no. 2 commander home for the Pontiff per EDHREC; the Pontiff's free sac outlet feeds her death-trigger doubler plan
 - Edgar Markov (Commander 2017) — most populous commander home (522 decks) per EDHREC; vampire-tribal eminence pile that values cheap WB vampire utility creatures
 - Final Payment (Ravnica Allegiance) — same-set Orzhov instant that costs a creature sacrifice; 48.0-lift EDHREC synergy and a near-perfect flavor sibling for the Pontiff's "pay you must" idiom
 - Cruel Celebrant (War of the Spark) — Orzhov "whenever a creature dies" drain commonly paired with the Pontiff in EDH and combo discussion

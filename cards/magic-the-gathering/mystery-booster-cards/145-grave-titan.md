@@ -1,7 +1,7 @@
 ---
 name: Grave Titan
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 145
 rarity: M
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", 
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/145-grave-titan.png
 average_cost_paid: 0
 market_price: 1.07
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: grim
 time_of_day: indeterminate
 setting: other
 the_list_source_set: C14
+artist: Nils Hamm
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/145-grave-titan--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/c/ec6f4542-b5ca-4464-afc6-8bada09b7f6c.jpg?1573509770
+flavor_text: Death in form and function.
+oracle_text: Deathtouch\nWhenever this creature enters or attacks, create two 2/2 black Zombie creature tokens.
 ---
 
 # Grave Titan (Mystery Booster Cards)

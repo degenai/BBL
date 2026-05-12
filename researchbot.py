@@ -29,6 +29,18 @@ import urllib.request
 from pathlib import Path
 from typing import Any
 
+# Force UTF-8 on stdout/stderr. Without this, printing artist names with
+# accented characters (Volkan Baǵa, Manuel Castañón, Sławomir Maniak, et al)
+# crashes the prep loop on Windows because Python defaults to cp1252 for
+# console output. Caught twice 2026-05-11 — first in backfill_artist.py
+# (already fixed there), then again here when the MTG prep hit Diego Gisbert's
+# accented name. Applied at module init so every subcommand benefits.
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
+
 # --- Configuration ---
 
 DEFAULT_CARDS_DIR = "cards"
@@ -48,6 +60,12 @@ SCRYFALL_API = "https://api.scryfall.com"
 # Set via --scryfall-sleep CLI flag.
 SCRYFALL_SLEEP = 0.1
 POKEMONTCG_API = "https://api.pokemontcg.io/v2"
+BULBAPEDIA_API = "https://bulbapedia.bulbagarden.net/w/api.php"
+# Bulbapedia upgrade is only worth taking when the image is meaningfully larger
+# than what PokemonTCG.io serves (734×1024). Below this width threshold we
+# stick with PokemonTCG.io to avoid older-set lossy uploads (e.g. Base Set
+# Charizard on Bulbapedia is only 350×495 vs 734×1024 on PokemonTCG.io).
+BULBAPEDIA_MIN_WIDTH = 800
 
 USER_AGENT = "BBL-researchbot/0.1 (alex.adamczyk@gmail.com)"
 
@@ -280,6 +298,79 @@ def _extract_image(data: dict) -> str | None:
     return images.get("png") or images.get("large") or images.get("normal")
 
 
+def _extract_art_crop(data: dict) -> str | None:
+    """Pick the Scryfall art_crop URL — the painting alone, no card frame.
+    This is what the bbl-researcher vision pass should read; the framed card
+    image is kept for human/Obsidian scannability and storefront rendering."""
+    images = data.get("image_uris") or {}
+    if not images and "card_faces" in data:
+        faces = data.get("card_faces", [])
+        if faces and faces[0].get("image_uris"):
+            images = faces[0]["image_uris"]
+    return images.get("art_crop")
+
+
+def _flatten_for_frontmatter(text: str) -> str:
+    """Collapse a multi-line string into a single line with literal `\\n`
+    separators so it survives our regex-based frontmatter parser. Consumers
+    that want to render multi-line can split on `\\n`. Strips leading/
+    trailing whitespace. Empty input returns empty string."""
+    if not text:
+        return ""
+    # Normalize line endings, then escape newlines + backslashes + double quotes
+    # so the value survives a YAML-style "key: value" line.
+    s = text.replace("\r\n", "\n").replace("\r", "\n").strip()
+    s = s.replace("\\", "\\\\").replace("\"", "\\\"").replace("\n", "\\n")
+    return s
+
+
+def _extract_card_text_scryfall(data: dict) -> tuple[str, str]:
+    """Pull (flavor_text, oracle_text) from a Scryfall card response.
+    Both are returned as single-line strings via _flatten_for_frontmatter.
+    For double-faced cards, the front face's text is used."""
+    flavor = (data.get("flavor_text") or "").strip()
+    oracle = (data.get("oracle_text") or "").strip()
+    if not flavor and not oracle:
+        faces = data.get("card_faces") or []
+        if faces and isinstance(faces, list):
+            face = faces[0]
+            flavor = flavor or (face.get("flavor_text") or "").strip()
+            oracle = oracle or (face.get("oracle_text") or "").strip()
+    return _flatten_for_frontmatter(flavor), _flatten_for_frontmatter(oracle)
+
+
+def _extract_card_text_pokemontcg(card: dict) -> tuple[str, str]:
+    """Pull (flavor_text, oracle_text) from a PokemonTCG.io card response.
+    Pokémon doesn't have a single oracle_text — we compose it from the card's
+    rules + abilities + attacks so the local copy contains everything triviabot
+    or the bundler might want without a re-fetch."""
+    flavor = (card.get("flavorText") or "").strip()
+
+    parts: list[str] = []
+    for rule in card.get("rules") or []:
+        rule = (rule or "").strip()
+        if rule:
+            parts.append(rule)
+    for ability in card.get("abilities") or []:
+        name = (ability.get("name") or "").strip()
+        atype = (ability.get("type") or "").strip()
+        text = (ability.get("text") or "").strip()
+        if name or text:
+            head = f"{atype}: {name}".strip(": ").strip()
+            parts.append(f"[{head}] {text}" if head else text)
+    for attack in card.get("attacks") or []:
+        name = (attack.get("name") or "").strip()
+        cost = "".join(attack.get("cost") or [])
+        damage = (attack.get("damage") or "").strip()
+        text = (attack.get("text") or "").strip()
+        head_bits = [b for b in [name, cost and f"({cost})", damage] if b]
+        head = " ".join(head_bits)
+        parts.append(f"{head}: {text}" if text else head)
+    oracle = "\n".join(parts).strip()
+
+    return _flatten_for_frontmatter(flavor), _flatten_for_frontmatter(oracle)
+
+
 def url_extension(url: str) -> str:
     path = urllib.parse.urlparse(url).path
     if "." in path:
@@ -311,81 +402,188 @@ def local_image_path(card_md_path: Path, cards_dir: Path, images_dir: Path, ext:
 
 
 def find_image_scryfall(card_name: str, set_name: str = "",
-                        set_map: dict | None = None) -> tuple[str | None, str, str]:
-    """Returns (image_url, confidence, collector_number).
-    confidence in {'high','low','none'}: high = exact set matched, low = fuzzy
-    fallback (art may be from wrong printing), none = no image found at all.
-    collector_number is the empty string when no match found, otherwise the
-    Scryfall-canonical `collector_number` field for the matched printing —
-    used by the prep loop to rename no-num-* MDs inline."""
+                        set_map: dict | None = None
+                        ) -> tuple[str | None, str, str, str, str, str, str]:
+    """Returns (image_url, confidence, collector_number, artist, art_crop_url,
+    flavor_text, oracle_text).
+    confidence in {'high','low','none'}; trailing strings are "" on miss.
+    flavor_text and oracle_text are flattened to single-line (literal `\\n`
+    separators) so they survive frontmatter; consumers may split to render.
+    For double-faced cards, front-face text is used."""
     set_map = set_map if set_map is not None else fetch_scryfall_set_map()
     code = scryfall_set_code(set_name, set_map)
-    # Strip Collectr quirks like trailing "(254)" before querying Scryfall.
     card_name = normalize_card_name_for_lookup(card_name)
 
-    # Try set-specific lookup first
+    def _artist(data: dict) -> str:
+        a = (data.get("artist") or "").strip()
+        if a:
+            return a
+        faces = data.get("card_faces") or []
+        if faces and isinstance(faces, list):
+            fa = (faces[0].get("artist") or "").strip()
+            if fa:
+                return fa
+        return ""
+
+    def _build(data: dict, conf: str) -> tuple[str | None, str, str, str, str, str, str]:
+        img = _extract_image(data)
+        if not img:
+            return None, "none", "", "", "", "", ""
+        flavor, oracle = _extract_card_text_scryfall(data)
+        return (img, conf,
+                str(data.get("collector_number") or "").strip(),
+                _artist(data),
+                _extract_art_crop(data) or "",
+                flavor, oracle)
+
     if code:
         params = {"fuzzy": card_name, "set": code}
         url = f"{SCRYFALL_API}/cards/named?{urllib.parse.urlencode(params)}"
         data = http_get_json(url)
         time.sleep(SCRYFALL_SLEEP)
-        if data and not data.get("status"):  # Scryfall returns {status: 404} on miss
-            img = _extract_image(data)
-            if img:
-                return img, "high", str(data.get("collector_number") or "").strip()
+        if data and not data.get("status"):
+            r = _build(data, "high")
+            if r[0]:
+                return r
 
-    # Fallback: fuzzy without set filter — art may be wrong printing
     params = {"fuzzy": card_name}
     url = f"{SCRYFALL_API}/cards/named?{urllib.parse.urlencode(params)}"
     data = http_get_json(url)
     time.sleep(SCRYFALL_SLEEP)
     if data and not data.get("status"):
-        img = _extract_image(data)
-        if img:
-            return img, "low", str(data.get("collector_number") or "").strip()
-    return None, "none", ""
+        r = _build(data, "low")
+        if r[0]:
+            return r
+    return None, "none", "", "", "", "", ""
 
 
-def find_image_pokemontcg(card_name: str, set_name: str = "") -> tuple[str | None, str, str]:
-    """PokemonTCG.io v2 API. Returns (url, confidence, number). High = matched with set,
-    low = matched name only, none = no match. `number` is the PokemonTCG `number` field
-    of the matched printing, empty when no match."""
-    def _query(q: str) -> tuple[str | None, str]:
+def _bulbapedia_filename_candidates(name: str, set_name: str, number: str) -> list[str]:
+    """Build a list of likely Bulbapedia File: page names for this card. The
+    canonical pattern is `{Name}{SetName}{Number}.jpg` with spaces stripped.
+    A few common name variations are also worth trying:
+      - apostrophes stripped ("Farfetch'd" -> "Farfetchd")
+      - number with leading zero stripped ("047" -> "47")
+      - number as-given (some sets keep leading zeros)
+    Returns the candidates in priority order; caller probes each until one hits."""
+    if not name or not set_name or not number:
+        return []
+    name_strip = re.sub(r"[^A-Za-z0-9]", "", name)
+    set_strip = re.sub(r"[^A-Za-z0-9]", "", set_name)
+    num_unpadded = number.lstrip("0") or number
+    cands = []
+    # Bulbapedia tends to use unpadded numbers, but try both.
+    for n in (num_unpadded, number):
+        cands.append(f"{name_strip}{set_strip}{n}.jpg")
+        cands.append(f"{name_strip}{set_strip}{n}.png")
+    # Dedup preserving order
+    seen: set[str] = set()
+    out = []
+    for c in cands:
+        if c not in seen:
+            seen.add(c)
+            out.append(c)
+    return out
+
+
+def find_image_bulbapedia(card_name: str, set_name: str, number: str
+                          ) -> tuple[str | None, int]:
+    """Try Bulbapedia's MediaWiki API for a higher-resolution card image.
+    Returns (url, width) or (None, 0) on miss. Only modern (Sword & Shield
+    onward) sets reliably have >800px uploads — caller should compare width
+    to BULBAPEDIA_MIN_WIDTH before adopting. No auth, no rate-limit issues
+    at our request volume, but Bulbapedia asks for a descriptive User-Agent
+    in their bot policy (set globally via USER_AGENT)."""
+    for filename in _bulbapedia_filename_candidates(card_name, set_name, number):
+        params = {
+            "action": "query",
+            "titles": f"File:{filename}",
+            "prop": "imageinfo",
+            "iiprop": "url|size|mime",
+            "format": "json",
+        }
+        url = f"{BULBAPEDIA_API}?{urllib.parse.urlencode(params)}"
+        data = http_get_json(url, timeout=10.0, retries=1)
+        if not data:
+            continue
+        pages = (data.get("query") or {}).get("pages") or {}
+        for _, page in pages.items():
+            # MediaWiki quirk: pages from a shared image repo (Bulbagarden
+            # Archives) include `"missing": ""` even when `imageinfo` is
+            # fully populated. So we check `imageinfo` directly rather than
+            # gating on `missing`.
+            infos = page.get("imageinfo") or []
+            if not infos:
+                continue
+            info = infos[0]
+            img_url = info.get("url")
+            width = info.get("width") or 0
+            if img_url:
+                return img_url, width
+    return None, 0
+
+
+def find_image_pokemontcg(card_name: str, set_name: str = ""
+                          ) -> tuple[str | None, str, str, str, str, str, str]:
+    """PokemonTCG.io v2 API. Returns (url, confidence, number, artist,
+    art_crop_url, flavor_text, oracle_text).
+    art_crop_url is ALWAYS "" for Pokémon (no art-only crop endpoint). The
+    Pokémon `oracle_text` is composed from rules + abilities + attacks via
+    _extract_card_text_pokemontcg, so the local copy contains everything
+    triviabot or the bundler might want without a re-fetch."""
+    def _query(q: str) -> tuple[dict | None, str | None, str, str]:
+        """Returns (raw_card, img_url, number, artist) — raw_card lets the
+        caller pull flavor/oracle text without a second API call."""
         url = f"{POKEMONTCG_API}/cards?q={urllib.parse.quote(q)}&pageSize=1"
         data = http_get_json(url)
         time.sleep(0.2)
         if not data:
-            return None, ""
+            return None, None, "", ""
         cards = data.get("data") or []
         if not cards:
-            return None, ""
+            return None, None, "", ""
         card = cards[0]
         images = card.get("images") or {}
         img = images.get("large") or images.get("small")
         number = str(card.get("number") or "").strip()
-        return img, number
+        artist = str(card.get("artist") or "").strip()
+        return card, img, number, artist
+
+    def _pack(card: dict | None, img: str | None, number: str, artist: str,
+              conf: str) -> tuple[str | None, str, str, str, str, str, str]:
+        if not img:
+            return None, "none", "", "", "", "", ""
+        # Upgrade to Bulbapedia image when it's meaningfully higher-res than
+        # PokemonTCG.io's ~734px ceiling. SWSH-era and later usually win;
+        # older sets often have weaker uploads — the width gate filters those.
+        bulba_url, bulba_w = find_image_bulbapedia(card_name, set_name, number)
+        if bulba_url and bulba_w >= BULBAPEDIA_MIN_WIDTH:
+            img = bulba_url
+        flavor, oracle = _extract_card_text_pokemontcg(card or {})
+        return img, conf, number, artist, "", flavor, oracle
 
     if set_name:
-        img, number = _query(f'name:"{card_name}" set.name:"{set_name}"')
+        card, img, number, artist = _query(f'name:"{card_name}" set.name:"{set_name}"')
         if img:
-            return img, "high", number
-    img, number = _query(f'name:"{card_name}"')
+            return _pack(card, img, number, artist, "high")
+    card, img, number, artist = _query(f'name:"{card_name}"')
     if img:
-        return img, ("low" if set_name else "high"), number
-    return None, "none", ""
+        return _pack(card, img, number, artist, "low" if set_name else "high")
+    return None, "none", "", "", "", "", ""
 
 
 def find_reference_image(game: str, card_name: str, set_name: str,
-                         set_map: dict | None = None) -> tuple[str | None, str, str]:
-    """Returns (image_url, confidence, collector_number). collector_number is "" when
-    no match. The prep loop uses it to rename no-num-* MDs inline so we never carry
-    Collectr's empty Card Number column forward."""
+                         set_map: dict | None = None
+                         ) -> tuple[str | None, str, str, str, str, str, str]:
+    """Returns (image_url, confidence, collector_number, artist, art_crop_url,
+    flavor_text, oracle_text). Empty strings on miss. Prep loop captures all
+    seven into frontmatter so downstream agents (vision, trivia, bundler)
+    never need to re-fetch the source API for canonical card data."""
     strat = GAME_STRATEGY.get(game)
     if strat == "scryfall":
         return find_image_scryfall(card_name, set_name, set_map)
     if strat == "pokemontcg":
         return find_image_pokemontcg(card_name, set_name)
-    return None, "none", ""
+    return None, "none", "", "", "", "", ""
 
 
 # --- DeepSeek vision call ---
@@ -678,7 +876,7 @@ def process(cards_dir: Path, images_dir: Path, limit: int, game_filter: str | No
             report["skipped_no_strategy"] += 1
             continue
 
-        image_url, confidence, collector_number = find_reference_image(game, name, set_, set_map)
+        image_url, confidence, collector_number, artist, art_crop_url, flavor_text, oracle_text = find_reference_image(game, name, set_, set_map)
         if not image_url:
             print(f"  -> reference image not found, flagging for manual review")
             report["skipped_no_image"] += 1
@@ -709,14 +907,25 @@ def process(cards_dir: Path, images_dir: Path, limit: int, game_filter: str | No
 
         print(f"  -> image: {image_url}  (art_match: {confidence})")
 
-        # Download to local cache (high-res). Skip on dry-run.
+        # Download full card image to local cache. Skip on dry-run.
         local_rel = ""
+        local_art_rel = ""
         if not dry_run:
             ext = url_extension(image_url)
             local_path = local_image_path(path, cards_dir, images_dir, ext)
             if download_image(image_url, local_path, force=force):
                 local_rel = str(local_path).replace("\\", "/")
                 print(f"  -> cached: {local_rel}")
+            # Also cache art_crop (frameless artwork) when present. Filename
+            # stem gets a "--art" suffix so it sits beside the full-card image
+            # in the same directory: <slug>.png + <slug>--art.jpg. This is the
+            # vision-agent input; the full card is the human/Obsidian view.
+            if art_crop_url:
+                art_ext = url_extension(art_crop_url)
+                art_local_path = local_path.with_name(local_path.stem + "--art" + art_ext)
+                if download_image(art_crop_url, art_local_path, force=force):
+                    local_art_rel = str(art_local_path).replace("\\", "/")
+                    print(f"  -> art_crop cached: {local_art_rel}")
 
         if confidence == "low":
             print(f"  -> art match uncertain (set lookup failed); deferring to manual review with text-only tags")
@@ -747,8 +956,19 @@ def process(cards_dir: Path, images_dir: Path, limit: int, game_filter: str | No
                     text = update_frontmatter_field(text, "reference_image", image_url or "")
                 text = update_frontmatter_field(text, "art_match_confidence", "high")
                 text = update_frontmatter_field(text, "needs_manual_review", "false")
+                if artist:
+                    text = update_frontmatter_field(text, "artist", artist)
+                if local_art_rel:
+                    text = update_frontmatter_field(text, "art_crop_image", local_art_rel)
+                    text = update_frontmatter_field(text, "art_crop_source_url", art_crop_url or "")
+                if flavor_text:
+                    text = update_frontmatter_field(text, "flavor_text", flavor_text)
+                if oracle_text:
+                    text = update_frontmatter_field(text, "oracle_text", oracle_text)
                 path.write_text(text, encoding="utf-8")
-                print(f"  -> prepared (image cached, awaiting vision subagent)")
+                art_note = "+art_crop" if local_art_rel else ""
+                txt_note = " +text" if (flavor_text or oracle_text) else ""
+                print(f"  -> prepared (image cached {art_note}{txt_note}, artist={artist or '?'}, awaiting vision subagent)")
             report["prepared_for_vision"] += 1
             continue
 
@@ -820,7 +1040,7 @@ def retry_flagged(cards_dir: Path, images_dir: Path,
             no_strategy += 1
             continue
 
-        image_url, confidence = find_reference_image(game, name, set_, set_map)
+        image_url, confidence, _collector_number, artist, art_crop_url, flavor_text, oracle_text = find_reference_image(game, name, set_, set_map)
         # Slightly longer sleep than the bulk prep loop — we're re-trying the cards Scryfall
         # already failed on once, so be polite.
         time.sleep(sleep_s)
@@ -838,10 +1058,27 @@ def retry_flagged(cards_dir: Path, images_dir: Path,
             continue
         local_rel = str(local_path).replace("\\", "/")
 
+        # Cache art_crop alongside the full card image when present.
+        local_art_rel = ""
+        if art_crop_url:
+            art_ext = url_extension(art_crop_url)
+            art_local_path = local_path.with_name(local_path.stem + "--art" + art_ext)
+            if download_image(art_crop_url, art_local_path, force=force):
+                local_art_rel = str(art_local_path).replace("\\", "/")
+
         text = path.read_text(encoding="utf-8")
         text = update_frontmatter_field(text, "reference_image", local_rel)
         text = update_frontmatter_field(text, "reference_image_source_url", image_url)
         text = update_frontmatter_field(text, "art_match_confidence", confidence)
+        if artist:
+            text = update_frontmatter_field(text, "artist", artist)
+        if local_art_rel:
+            text = update_frontmatter_field(text, "art_crop_image", local_art_rel)
+            text = update_frontmatter_field(text, "art_crop_source_url", art_crop_url)
+        if flavor_text:
+            text = update_frontmatter_field(text, "flavor_text", flavor_text)
+        if oracle_text:
+            text = update_frontmatter_field(text, "oracle_text", oracle_text)
         if confidence == "high":
             text = update_frontmatter_field(text, "needs_manual_review", "false")
             text = update_frontmatter_field(

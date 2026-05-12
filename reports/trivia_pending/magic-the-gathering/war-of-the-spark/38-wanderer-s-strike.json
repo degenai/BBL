@@ -1,0 +1,58 @@
+{
+  "card_name": "Wanderer's Strike",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "38",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Verified. The depicted figure meets the agent's evidence bar (d) — the art reproduces the Wanderer's canonical visual identifier as documented by Wizards: a mysterious swordswoman concealing her face under a wide-brimmed straw/sedge hat, wielding a long blade, rendered in a white/cool palette. MTG Wiki cites Wizards design notes for The Wanderer: 'the idea was simple: a mysterious PWalker and powerful swordswoman with a fancy hat,' and her on-card design at WAR #37 shows the same wide-brimmed hat plus a golden face-concealing mask. The card sits at WAR #38, immediately adjacent to The Wanderer planeswalker at WAR #37 — consistent with War of the Spark's deliberate design convention of pairing each planeswalker with a companion spell that 'sheds light on how they are coping with the growing conflict' (Wizards-confirmed design intent per heavy.com summary of the WAR planeswalker cycle). One community summary (TappedOut forum, surfaced via search) argues Wanderer's Strike 'represents the Planeswalker in the card's name, rather than a card that depicts the planeswalker in its artwork' — noted as the qualifying counter-position in trivia, but the visual-identifier criterion plus the WAR companion-card convention is the load-bearing evidence, so ip_verified flips to true. The Wanderer is a Wizards-internal IP (later revealed in Kamigawa: Neon Dynasty as the Wandering Emperor of Kamigawa), so no external-IP risk callout is required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Released 2019-05-03 in War of the Spark, the Ravnica-set finale of Nicol Bolas's invasion arc; the set's signature Amass and Proliferate mechanics push counter-based gameplay throughout the format, and Wanderer's Strike folds the format's Proliferate identity onto a white exile spell [Scryfall API: released_at + set_name; MTG Wiki: War of the Spark].",
+      "sources": ["Scryfall API", "MTG Wiki: War of the Spark"]
+    },
+    {
+      "category": "design",
+      "text": "Sits at WAR #38, the slot immediately after The Wanderer planeswalker at WAR #37 — part of War of the Spark's planeswalker companion-card cycle, where each planeswalker is paired with a supporting spell that, per the Wizards-confirmed design intent for the set, sheds light on how that planeswalker is coping with the conflict [heavy.com: 'MTG War of the Spark All Planeswalker Cards', April 2019; corroborated by Mark Rosewater, 'Waging War of the Spark, Part 1', magic.wizards.com, 2019-04-01].",
+      "sources": ["heavy.com: MTG War of the Spark All Planeswalker Cards (April 2019)", "magic.wizards.com: Waging War of the Spark, Part 1 (2019-04-01)"]
+    },
+    {
+      "category": "design",
+      "text": "The depicted figure's wide-brimmed straw hat with concealed face is The Wanderer's canonical visual identifier; MTG Wiki cites Wizards design notes for the character as 'a mysterious PWalker and powerful swordswoman with a fancy hat,' and her WAR #37 card art shows the same hat plus a golden face-mask [MTG Wiki: The Wanderer]. Community-discourse qualification: one TappedOut/MTG-Salvation forum summary argues Wanderer's Strike 'represents the Planeswalker in the card's name, rather than a card that depicts the planeswalker in its artwork' — listed for honesty though outweighed by the signature-hat visual identifier and the WAR companion-card design convention [TappedOut: 'the wanderer planeswalker in what cards' forum thread].",
+      "sources": ["MTG Wiki: The Wanderer", "TappedOut MTG forum: the wanderer planeswalker in what cards"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Precise, clean cuts. No one saw anything. Again. Tag the report with my code and file it.\" — Lavinia. Lavinia is the Azorius Senate's acting guildmaster and Grand Arbiter Pro Tem during WAR; the bureaucratic-arrester voice (file the report, no witnesses) reads as Lavinia filing away another off-the-books Wanderer assist during the Bolas siege of Ravnica [Scryfall card page; MTG Wiki: Lavinia].",
+      "sources": ["Scryfall: scryfall.com/card/war/38/wanderers-strike", "MTG Wiki: Lavinia"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text: {4}{W} Sorcery — 'Exile target creature, then proliferate.' Considered one of white's strong WAR-Limited common removal options (5-mana sorcery-speed exile already passes, and the Proliferate rider compounds value once any counters are on board); MTG Arena Zone's exhaustive WAR draft guide flags it as 'really busted rate' when paired with creatures already carrying counters [MTG Arena Zone: 'Revisiting My Revisit to War of the Spark: The Exhaustive Draft Guide'].",
+      "sources": ["Scryfall API: oracle_text", "MTG Arena Zone: Revisiting My Revisit to War of the Spark: The Exhaustive Draft Guide"]
+    },
+    {
+      "category": "design",
+      "text": "Artist is Sara Winters; the card has been reprinted in Commander Masters (CMM #69) and was included on The List (Mystery Booster Cards) per MTGNexus's database entry, giving collectors three printings to chase [Scryfall: scryfall.com/card/cmm/69/wanderers-strike; MTGNexus: 'Wanderer's Strike' (The List entry)].",
+      "sources": ["Scryfall: CMM #69 print", "MTGNexus: Wanderer's Strike (The List)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Wanderer's identity stayed a mystery until Kamigawa: Neon Dynasty (2022), where she was revealed as the Wandering Emperor of Kamigawa and childhood friend of Kaito Shizuki; she lacks control of her spark and planeswalks erratically, which is the in-fiction explanation for her dropping in across multiple planes (Ravnica during WAR, briefly Ikoria where Vivien Reid witnessed her cut down a beast) [MTG Wiki: The Wanderer; wargamer.com: 'MTG: Kamigawa Neon Dynasty unmasks The Wanderer planeswalker'; dotesports.com: 'The Wanderer returns to MTG with new card, revealed as emperor in Kamigawa: Neon Dynasty'].",
+      "sources": ["MTG Wiki: The Wanderer", "wargamer.com: Kamigawa Neon Dynasty unmasks The Wanderer", "dotesports.com: The Wanderer returns to MTG with new card"]
+    }
+  ],
+  "related_cards": [
+    {"name": "The Wanderer", "set": "War of the Spark", "note": "WAR #37, the planeswalker this companion spell pairs with; same set, adjacent collector number, same character."},
+    {"name": "The Wandering Emperor", "set": "Kamigawa: Neon Dynasty", "note": "The canonical 2022 reveal of who the Wanderer actually is — the Emperor of Kamigawa, childhood friend of Kaito Shizuki. Same character, identity unmasked."},
+    {"name": "The Eternal Wanderer", "set": "Phyrexia: All Will Be One", "note": "Third planeswalker card for the same character (ONE #11); same wide-brimmed hat visual identifier continues."},
+    {"name": "The Wandering Rescuer", "set": "Duskmourn: House of Horror", "note": "Most recent printing of the same character; EDHREC currently shows Wanderer's Strike at 15% inclusion in 796 Wandering Rescuer decks — a direct mechanical-and-flavor pairing [EDHREC]."},
+    {"name": "Kaito Shizuki", "set": "Kamigawa: Neon Dynasty", "note": "The Wanderer's childhood friend in Kamigawa canon; same Neon Dynasty story reveal that unmasked her [MTG Wiki: Kaito Shizuki]."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

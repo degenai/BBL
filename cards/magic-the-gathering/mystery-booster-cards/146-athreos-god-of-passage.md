@@ -1,7 +1,7 @@
 ---
 name: Athreos, God of Passage
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 146
 rarity: M
 variance: Normal
@@ -14,10 +14,10 @@ tags_hub: ["death", "skeleton", "psychopomp", "ferryman", "robed-figure", "god",
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "white-magic", "black-magic", "multicolor-white-black", "enchantment", "creature-god", "legendary"]
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/146-athreos-god-of-passage.png
 average_cost_paid: 0
-market_price: 15.01
-market_price_as_of: 2026-05-10
+market_price: 15.06
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,10 @@ mood: grim
 time_of_day: indeterminate
 setting: void
 the_list_source_set: JOU
+artist: Ryan Barger
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/146-athreos-god-of-passage--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/9/a9c87b4d-6e19-4b28-9041-821289f9cd1a.jpg?1588680943
+oracle_text: Indestructible\nAs long as your devotion to white and black is less than seven, Athreos isn't a creature.\nWhenever another creature you own dies, return it to your hand unless target opponent pays 3 life.
 ---
 
 # Athreos, God of Passage (Mystery Booster Cards)

@@ -15,9 +15,9 @@ tags_filter: ["no-figure", "no-face", "close-up", "object-mode", "top-down", "ar
 reference_image: cards/_images/magic-the-gathering/commander-legends-battle-for-baldur-s-gate/878-talisman-of-hierarchy.png
 average_cost_paid: 0
 market_price: 0.85
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/2/2/2299c93e-f3a
 mood: other
 time_of_day: indeterminate
 setting: indoor
+artist: Lindsey Look
+art_crop_image: cards/_images/magic-the-gathering/commander-legends-battle-for-baldur-s-gate/878-talisman-of-hierarchy--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/2/2299c93e-f3a6-4b41-857b-e3d1aff0f622.jpg?1674142768
+flavor_text: \"You'll never get to the top if you don't know who's already there.\"\n—Kaya
+oracle_text: {T}: Add {C}.\n{T}: Add {W} or {B}. This artifact deals 1 damage to you.
 ---
 
 # Talisman of Hierarchy (Commander Legends: Battle for Baldur's Gate)

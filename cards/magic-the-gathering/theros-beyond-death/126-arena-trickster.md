@@ -15,15 +15,20 @@ tags_filter: ["mid-shot", "portrait-mode", "solo", "forward-facing", "creature-s
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/126-arena-trickster.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/e/0/e096049d-9f02-4abb-bb5a-97b14fd17099.png?1581480067
 art_match_confidence: high
 needs_manual_review: false
 mood: comedic
 time_of_day: indeterminate
 setting: indoor
+artist: PINDURSKI
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/126-arena-trickster--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/0/e096049d-9f02-4abb-bb5a-97b14fd17099.jpg?1581480067
+flavor_text: \"It's not enough to surprise your opponent. You have to delight the crowd as well.\"
+oracle_text: Whenever you cast your first spell during each opponent's turn, put a +1/+1 counter on this creature.
 ---
 
 # Arena Trickster (Theros Beyond Death)

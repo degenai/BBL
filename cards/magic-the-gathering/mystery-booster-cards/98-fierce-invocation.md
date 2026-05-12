@@ -1,7 +1,7 @@
 ---
 name: Fierce Invocation
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 98
 rarity: C
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide-shot", "scene-mode", "faces-away", "no-face", "red-m
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/98-fierce-invocation.png
 average_cost_paid: 0
 market_price: 0.02
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: sublime
 time_of_day: indeterminate
 setting: mountain
 the_list_source_set: FRF
+artist: Tyler Jacobson
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/98-fierce-invocation--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/7/270b67e5-fbf2-42af-b872-04bbaee2a9b4.jpg?1573511602
+flavor_text: Anger can empower those who embrace it.
+oracle_text: Manifest the top card of your library, then put two +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)
 ---
 
 # Fierce Invocation (Mystery Booster Cards)

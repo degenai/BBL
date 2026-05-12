@@ -15,15 +15,19 @@ tags_filter: ["solo", "mid-shot", "three-quarter-facing", "action-pose", "creatu
 reference_image: cards/_images/magic-the-gathering/aetherdrift/152-alacrian-jaguar.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-10
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/2/b/2bd40bca-aa54-4e52-8d48-b3709a11e633.png?1738356479
 art_match_confidence: high
 needs_manual_review: false
 mood: action
 time_of_day: day
 setting: forest
+artist: Andrey Kuzinskiy
+art_crop_image: cards/_images/magic-the-gathering/aetherdrift/152-alacrian-jaguar--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/b/2bd40bca-aa54-4e52-8d48-b3709a11e633.jpg?1738356479
+oracle_text: Vigilance\nWhenever this creature attacks while saddled, it gets +2/+2 until end of turn.\nSaddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)
 ---
 
 # Alacrian Jaguar (Aetherdrift)

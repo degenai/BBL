@@ -179,11 +179,13 @@ class Finding:
 
 def _is_non_card_node(path: Path, fm: dict) -> bool:
     """Skip MDs that aren't inventory cards: hub concept pages (frontmatter
-    `type: hub`), symbol pages (frontmatter `type: symbol`), anything under
-    an _underscore-prefixed directory inside cards/ (e.g. cards/_hubs/,
-    cards/_symbols/, cards/_images/). Mirrors csv2mdbot's same guard so the
-    two scripts agree on what counts as inventory."""
-    if fm.get("type") in ("hub", "symbol"):
+    `type: hub`), symbol pages (`type: symbol`), artist identity pages
+    (`type: artist`), character identity pages (`type: character`), anything
+    under an _underscore-prefixed directory inside cards/ (e.g. cards/_hubs/,
+    cards/_symbols/, cards/_artists/, cards/_characters/, cards/_images/).
+    Mirrors csv2mdbot's same guard so the two scripts agree on what counts
+    as inventory."""
+    if fm.get("type") in ("hub", "symbol", "artist", "character"):
         return True
     for part in path.parts:
         if part.startswith("_"):

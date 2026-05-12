@@ -15,9 +15,9 @@ tags_filter: ["no-figure", "scene-mode", "mid-shot", "artifact", "multicolor-blu
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/222-jeskai-banner.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/8/684dc050-a66
 mood: peaceful
 time_of_day: day
 setting: mountain
+artist: Daniel Ljunggren
+art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/222-jeskai-banner--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/8/684dc050-a66b-4364-9880-56f383db6c0a.jpg?1562787889
+flavor_text: Discipline to persevere, insight to discover.
+oracle_text: {T}: Add {U}, {R}, or {W}.\n{U}{R}{W}, {T}, Sacrifice this artifact: Draw a card.
 ---
 
 # Jeskai Banner (Khans of Tarkir)

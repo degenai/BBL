@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "female-figure", "portrait-mo
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/56-kasmina-enigmatic-mentor.png
 average_cost_paid: 0
 market_price: 0.3
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/c/7/c77d9454-a78
 mood: sublime
 time_of_day: indeterminate
 setting: other
+artist: Magali Villeneuve
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/56-kasmina-enigmatic-mentor--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/7/c77d9454-a78c-4063-ad66-46b2f5a030aa.jpg?1557576244
+oracle_text: Spells your opponents cast that target a creature or planeswalker you control cost {2} more to cast.\n−2: Create a 2/2 blue Wizard creature token. Draw a card, then discard a card.
 ---
 
 # Kasmina, Enigmatic Mentor (War of the Spark)

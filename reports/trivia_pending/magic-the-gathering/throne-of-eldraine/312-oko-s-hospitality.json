@@ -1,0 +1,63 @@
+{
+  "card_name": "Oko's Hospitality",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "312",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Verified at the CARD level: this is unambiguously an Oko card. The title names Oko, the rules text searches the library/graveyard for a card named 'Oko, the Trickster,' and the printed flavor text is signed by Oko ('My advisors recommend I let them eat you.' —Oko). Per the agent's anti-confab guard against role-identity conflation, the DEPICTED antlered figure in red is best read as Oko in shifted stag/antler form rather than asserting strict identity: MTG Wiki and search-returned Wiki excerpts document that during the Eldraine escape Oko 'shifted form into a drake once more, then a raven, a crested eagle, then an antler before dissolving into golden sparks,' and the Wildered Quest novella has Oko escaping Garruk 'in the form of a stag,' so stag/antler shapeshift is canonically attested. Oko is an internal Wizards IP (a planeswalker, not an external Disney/UB crossover risk), so no `## IP` callout block is required; ip_verified flips to true, ip_confidence stays high. NOTE: the caller's brief framed #312 as a 'showcase storybook' variant; in reality ELD #312 is the Throne of Eldraine Oko, the Trickster Planeswalker Deck exclusive (deck-exclusive collector range 309-313), NOT a showcase/extended-art variant.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Card is exclusive to the Throne of Eldraine 'Oko, the Trickster' Planeswalker Deck (green-blue), not the main booster set; collector numbers 309-313 are the five Oko deck exclusives, with #312 being Oko's Hospitality at rare [Wizards 'Throne of Eldraine Planeswalker Decks' preview, 2019-09-18; Card Kingdom 'oko-the-trickster-planeswalker-deck' slug].",
+      "sources": ["magic.wizards.com: Throne of Eldraine Planeswalker Decks (2019-09-18)", "Card Kingdom product listings"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Throne of Eldraine storyline (novella 'The Wildered Quest' by Kate Elliott) is built around Oko transforming High King Algenus Kenrith into a stag to be hunted at the midwinter Wild Hunt — the stag/antler imagery on this card sits inside that plot, not as decoration [MTG Wiki: Throne of Eldraine: The Wildered Quest].",
+      "sources": ["MTG Wiki: Throne of Eldraine: The Wildered Quest"]
+    },
+    {
+      "category": "design",
+      "text": "Card searches the library AND/OR graveyard for a card named 'Oko, the Trickster' — a tutor specifically wired to the deck's flagship planeswalker, a common Planeswalker-Deck template that makes the exclusive support cards basically unplayable outside the precon [Scryfall card text via search snippets].",
+      "sources": ["Scryfall (via search snippets)"]
+    },
+    {
+      "category": "design",
+      "text": "Artist is Deruchenko Alexander, a prolific MTG illustrator with 94 official Magic cards on Gatherer (210 across all printings); other Throne of Eldraine work includes Bartered Cow (#6) and Rowan's Stalwarts (#307) [Gatherer artist search; Art of MTG artist page].",
+      "sources": ["Gatherer artist search: Deruchenko Alexander", "artofmtg.com/artist/deruchenko-alexander"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Printed flavor text: \"My advisors recommend I let them eat you.\" —Oko. The speaker tag confirms the card is Oko-pov; ties to the 'Hospitality' framing where Oko plays gracious-host-with-teeth [search-returned flavor text matches Gatherer ELD #312 listing].",
+      "sources": ["Gatherer: Oko's Hospitality ELD #312", "Scryfall (via search snippets)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oko's Hospitality itself is NOT banned in any format — the famous Oko ban wave (Standard 2019-11-18, Brawl 2019-11-05, Pioneer 2019-12-12, Modern 2020-01) hit Oko, Thief of Crowns (ELD #197), a different card. The Planeswalker-Deck variant Oko, the Trickster is also legal everywhere it's printed and is significantly weaker [Card Kingdom Blog 'Oko Banned in Standard'; MTG Goldfish 'Banned and Restricted Update December 12, 2019'; Games Learning Society 'Why is Oko banned?'].",
+      "sources": ["Card Kingdom Blog: Oko Banned in Standard", "MTG Goldfish: Banned and Restricted Update 2019-12-12", "gameslearningsociety.org: Why is Oko banned"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Community sentiment / EDHREC: Oko's Hospitality is a low-traffic card with roughly 258 listings on EDHREC at ~0.01% inclusion across 1.80 million decks; top Commander homes are Maralen, Fae Ascendant, Mr. Foxglove, Adrix and Nev Twincasters, and Kellan the Kid — all niche tribal/spell shells where the in-deck Oko tutor matters [EDHREC: okos-hospitality, via search summary].",
+      "sources": ["EDHREC: okos-hospitality (via search summary)"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community resonance — sentiment, not fact: 'Oko, Thief of Crowns' has its own Know Your Meme entry framing Oko-the-character as a 2019 community shorthand for 'busted designs that warp formats,' which is the broader cultural baggage every Oko-named card carries even when, as here, the printed card is harmless [knowyourmeme.com: Oko, Thief of Crowns].",
+      "sources": ["knowyourmeme.com: Oko, Thief of Crowns"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Oko, the Trickster", "set": "Throne of Eldraine (Planeswalker Deck)", "note": "The named target of this card's tutor effect; the exclusive Oko walker shipped in the same precon (ELD #309), strictly weaker than ELD #197's main-set Oko [Wizards 'Throne of Eldraine Planeswalker Decks' preview]."},
+    {"name": "Oko, Thief of Crowns", "set": "Throne of Eldraine", "note": "ELD #197, the main-set Oko and the card that took the bans across Standard/Brawl/Pioneer/Modern in late 2019 — the same character on the same plane, but a different card name so this Hospitality doesn't tutor for it [Card Kingdom Blog: Oko Banned in Standard]."},
+    {"name": "Oko's Accomplices", "set": "Throne of Eldraine (Planeswalker Deck)", "note": "Sibling deck-exclusive (ELD #311) from the same Oko, the Trickster precon — useful as a co-bundle anchor if the lair is built around 'the Planeswalker-Deck Oko cards' as a set-piece [search summary of Planeswalker Deck contents]."},
+    {"name": "Bramblefort Fink", "set": "Throne of Eldraine (Planeswalker Deck)", "note": "Sibling deck-exclusive (uncommon) from the same Oko precon; rounds out the five-card 309-313 exclusive group [search summary of Planeswalker Deck contents]."},
+    {"name": "Throne of Eldraine: The Wildered Quest", "set": "n/a (novella)", "note": "Kate Elliott's tie-in novella — the canonical source for the stag-form / Wild-Hunt plot that this card's title and art belong to [MTG Wiki: The Wildered Quest]."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

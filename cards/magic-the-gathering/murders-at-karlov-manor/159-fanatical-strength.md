@@ -15,15 +15,20 @@ tags_filter: ["duo", "mid-shot", "forward-facing", "action-mode", "no-weapon", "
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/159-fanatical-strength.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-10
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/4/9/4941fa74-c7b9-4468-8080-de8057d3d27b.png?1706241967
 art_match_confidence: high
 needs_manual_review: false
 mood: horror
 time_of_day: night
 setting: other
+artist: Durion
+art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/159-fanatical-strength--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/9/4941fa74-c7b9-4468-8080-de8057d3d27b.jpg?1706241967
+flavor_text: \"What is this? An ambush or a staring contest?\" Kaya taunted. As if in answer, the robed figure lunged forward.
+oracle_text: Target creature gets +3/+3 and gains trample until end of turn.
 ---
 
 # Fanatical Strength (Murders at Karlov Manor)

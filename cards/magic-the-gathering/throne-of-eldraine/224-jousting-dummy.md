@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "portrait-mode", "no-face", "
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/224-jousting-dummy.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/f/6/f6601056-af0
 mood: comedic
 time_of_day: day
 setting: other
+artist: Milivoj Ćeran
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/224-jousting-dummy--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/6/f6601056-af08-4239-97d5-5e11597fce18.jpg?1572491020
+flavor_text: \"Don't let it fool you. Many of us got our first scars from Syr Nobody.\"\n—Syr Layne, knight of Embereth
+oracle_text: {3}: This creature gets +1/+0 until end of turn.
 ---
 
 # Jousting Dummy (Throne of Eldraine)

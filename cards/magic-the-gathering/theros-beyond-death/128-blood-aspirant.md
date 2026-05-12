@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter-facing", "male-figure", "action
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/128-blood-aspirant.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/8/d/8d4f3fa3-ba1
 mood: action
 time_of_day: indeterminate
 setting: other
+artist: Tyler Walpole
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/128-blood-aspirant--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/d/8d4f3fa3-ba1f-48dc-a56b-738936f1bf86.jpg?1581480083
+flavor_text: It's a small step from revel to bloodbath.
+oracle_text: Whenever you sacrifice a permanent, put a +1/+1 counter on this creature.\n{1}{R}, {T}, Sacrifice a creature or enchantment: This creature deals 1 damage to target creature. That creature can't block this turn.
 ---
 
 # Blood Aspirant (Theros Beyond Death)

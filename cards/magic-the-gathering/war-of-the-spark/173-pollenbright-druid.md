@@ -14,10 +14,10 @@ tags_hub: ["elf", "druid", "forest", "wings", "insect", "nature-magic", "robed-f
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "female-figure", "creature-elf", "creature-druid", "green-magic", "common", "proliferate", "plus-one-counters"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/173-pollenbright-druid.png
 average_cost_paid: 0
-market_price: 0.26
-market_price_as_of: 2026-05-10
+market_price: 0.25
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/4/b/4b0f478c-54f
 mood: peaceful
 time_of_day: indeterminate
 setting: forest
+artist: Matt Stewart
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/173-pollenbright-druid--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/b/4b0f478c-54f8-4087-ad52-d089e2049dda.jpg?1557576985
+oracle_text: When this creature enters, choose one —\n• Put a +1/+1 counter on target creature.\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 ---
 
 # Pollenbright Druid (War of the Spark)

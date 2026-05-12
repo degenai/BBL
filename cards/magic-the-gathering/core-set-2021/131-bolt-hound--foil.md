@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "no-figure", 
 reference_image: cards/_images/magic-the-gathering/core-set-2021/131-bolt-hound--foil.png
 average_cost_paid: 0
 market_price: 0.37
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/f/9f8cf3f9-4e3
 mood: action
 time_of_day: indeterminate
 setting: other
+artist: Forrest Imel
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/131-bolt-hound--foil--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/f/9f8cf3f9-4e3b-4af2-b5ef-a97eb1d2b674.jpg?1594736483
+flavor_text: Its spark is worse than its bite.
+oracle_text: Haste (This creature can attack and {T} as soon as it comes under your control.)\nWhenever this creature attacks, other creatures you control get +1/+0 until end of turn.
 ---
 
 # Bolt Hound (Core Set 2021)

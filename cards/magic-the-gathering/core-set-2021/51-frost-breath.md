@@ -15,15 +15,20 @@ tags_filter: ["wide-shot", "action-mode", "solo", "faces-left", "instant", "blue
 reference_image: cards/_images/magic-the-gathering/core-set-2021/51-frost-breath.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/3/9/393fc485-d3c1-4826-933d-89f66df769d4.png?1594735496
 art_match_confidence: high
 needs_manual_review: false
 mood: sublime
 time_of_day: day
 setting: mountain
+artist: Mike Bierek
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/51-frost-breath--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/9/393fc485-d3c1-4826-933d-89f66df769d4.jpg?1594735496
+flavor_text: \"I'll make ice chimes of your bones.\"
+oracle_text: Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.
 ---
 
 # Frost Breath (Core Set 2021)

@@ -14,10 +14,10 @@ tags_hub: ["dog", "pet", "animal", "playful", "chaos", "mischief", "indoor-scene
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "scene-mode", "no-face-human", "creature-dog", "white-magic", "creature"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/30-rambunctious-mutt.png
 average_cost_paid: 0
-market_price: 0.36
-market_price_as_of: 2026-05-10
+market_price: 0.35
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/f/3f602ecc-c26
 mood: comedic
 time_of_day: indeterminate
 setting: indoor
+artist: Campbell White
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/30-rambunctious-mutt--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/f/3f602ecc-c264-4f3e-adeb-d0186668653e.jpg?1599435086
+flavor_text: Emphatic words with powerful gestures. Clearly this was playtime.
+oracle_text: When this creature enters, destroy target artifact or enchantment an opponent controls.
 ---
 
 # Rambunctious Mutt (Core Set 2021)

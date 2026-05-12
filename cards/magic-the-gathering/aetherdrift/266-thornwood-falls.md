@@ -14,16 +14,21 @@ tags_hub: ["forest", "waterfall", "road", "racetrack", "cliff", "canopy", "wilde
 tags_filter: ["wide-shot", "scene-mode", "no-figure", "land", "green-magic", "landscape-orientation"]
 reference_image: cards/_images/magic-the-gathering/aetherdrift/266-thornwood-falls.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-10
+market_price: 0.09
+market_price_as_of: 2026-05-11
 date_added: 2026-05-10
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/4/7/4723a303-7f20-4399-8bc6-6a27a61a3532.png?1738356957
 art_match_confidence: high
 needs_manual_review: false
 mood: sublime
 time_of_day: twilight
 setting: forest
+artist: Eddie Mendoza
+art_crop_image: cards/_images/magic-the-gathering/aetherdrift/266-thornwood-falls--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/7/4723a303-7f20-4399-8bc6-6a27a61a3532.jpg?1738356957
+flavor_text: The Indigo Revolution ousted the Consulate once and for all. Now the citizens of Avishkar cheer for the Aether Rangers as they try to bring victory and glory to their new nation.
+oracle_text: This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {G} or {U}.
 ---
 
 # Thornwood Falls (Aetherdrift)

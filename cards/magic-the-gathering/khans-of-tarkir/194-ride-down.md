@@ -15,9 +15,9 @@ tags_filter: ["duo", "mid-shot", "action-mode", "three-quarter-facing", "red-mag
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/194-ride-down.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/b/3bc9a434-961
 mood: action
 time_of_day: day
 setting: other
+artist: Daarken
+art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/194-ride-down--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/b/3bc9a434-9617-4a20-88f0-355b20f2c538.jpg?1562785134
+flavor_text: \"I will wash you from my hooves!\"\n—Mardu taunt
+oracle_text: Destroy target blocking creature. Creatures that were blocked by that creature this combat gain trample until end of turn.
 ---
 
 # Ride Down (Khans of Tarkir)

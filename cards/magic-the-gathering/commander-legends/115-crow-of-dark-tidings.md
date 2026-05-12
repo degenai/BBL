@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "no-face", "creature-zombie",
 reference_image: cards/_images/magic-the-gathering/commander-legends/115-crow-of-dark-tidings.png
 average_cost_paid: 0
 market_price: 0.22
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/d/8/d8e0654c-8c8
 mood: grim
 time_of_day: indeterminate
 setting: forest
+artist: Tianhua X
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/115-crow-of-dark-tidings--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/8/d8e0654c-8c84-47a7-ba0b-de5b1268c27b.jpg?1608909628
+flavor_text: \"Well, this can't be a good sign.\"\n—Old Rutstein
+oracle_text: Flying\nWhen this creature enters or dies, mill two cards. (Put the top two cards of your library into your graveyard.)
 ---
 
 # Crow of Dark Tidings (Commander Legends)

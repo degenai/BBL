@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide-shot", "faces-right", "scene-mode", "no-face", "whit
 reference_image: cards/_images/magic-the-gathering/commander-legends/25-iona-s-judgment.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/e/7/e792e689-0cf
 mood: sublime
 time_of_day: indeterminate
 setting: mountain
+artist: Mike Bierek
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/25-iona-s-judgment--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/7/e792e689-0cf8-4bd0-b2f1-4edff9972e18.jpg?1608908809
+flavor_text: Beneath the gaze of angels, only the righteous may stand without fear.
+oracle_text: Exile target creature or enchantment.
 ---
 
 # Iona's Judgment (Commander Legends)

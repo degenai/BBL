@@ -15,9 +15,9 @@ tags_filter: ["wide-shot", "scene-mode", "group", "no-face", "silhouette", "mult
 reference_image: cards/_images/magic-the-gathering/dragon-s-maze/86-morgue-burst.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/7/b/7b3c2909-87a
 mood: grim
 time_of_day: indeterminate
 setting: dungeon
+artist: Raymond Swanland
+art_crop_image: cards/_images/magic-the-gathering/dragon-s-maze/86-morgue-burst--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/b/7b3c2909-87ab-4027-9b56-58a2abae3fa3.jpg?1562917758
+flavor_text: \"Let him in. He's on the list.\"\n—Olrich, Rakdos club owner
+oracle_text: Return target creature card from your graveyard to your hand. Morgue Burst deals damage to any target equal to the power of the card returned this way.
 ---
 
 # Morgue Burst (Dragon's Maze)

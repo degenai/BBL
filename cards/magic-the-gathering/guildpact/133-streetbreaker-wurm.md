@@ -2,7 +2,7 @@
 name: Streetbreaker Wurm
 game: Magic: The Gathering
 set: Guildpact
-collector_number: 133
+collector_number: 
 rarity: C
 variance: Normal
 grade: Ungraded
@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide-shot", "three-quarter", "scene-mode", "no-face", "cr
 reference_image: cards/_images/magic-the-gathering/guildpact/133-streetbreaker-wurm.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Guildpact'
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/d/5/d5313054-91a
 mood: action
 time_of_day: day
 setting: urban
+artist: Greg Hildebrandt
+art_crop_image: cards/_images/magic-the-gathering/guildpact/133-streetbreaker-wurm--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/5/d5313054-91a5-401c-84d1-03a2cd265060.jpg?1593272809
+flavor_text: The Orzhov run a construction unit whose only business is rebuilding the wreckage left in the wake of wurms. When business is slow, they pay Golgari carnomancers to lure the wurms to the surface.
 ---
 
 # Streetbreaker Wurm (Guildpact)

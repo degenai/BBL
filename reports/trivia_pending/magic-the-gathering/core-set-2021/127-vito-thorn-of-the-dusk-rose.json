@@ -1,0 +1,53 @@
+{
+  "card_name": "Vito, Thorn of the Dusk Rose",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "127",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure confirmed as Vito Quijano de Pasamonte, a vampire hierophant of the Church of Dusk on the Ixalan plane (originally from Torrezon, faction: Legion of Dusk). Identity confirmed by MTG Wiki (Vito Quijano de Pasamonte page) and by independent lore commentary at Hipsters of the Coast (Jacob Torbeck, 2020-08-11). This is a Wizards-internal named character, not an external-IP crossover, so no `## IP` callout block is required. Frontmatter `ip_verified` flipped to true; `ip_confidence` was already `high` and is retained.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Vito is canonically Vito Quijano de Pasamonte, a heretical vampire priest (hierophant) of the Church of Dusk on Ixalan, originating from the conquistador-coded Legion of Dusk faction across the sea on Torrezon. After the saint Elenda returned preaching humility, Vito symbolically broke with her by spilling a carafe of blood across a church floor and helped install the schismatic Antifex. [MTG Wiki: Vito Quijano de Pasamonte] [Hipsters of the Coast: Jacob Torbeck, 'The Thorn in Our Side: Vito & The Legacy of Spanish Conquest', 2020-08-11]",
+      "sources": ["MTG Wiki: Vito Quijano de Pasamonte", "Hipsters of the Coast: Jacob Torbeck, 2020-08-11"]
+    },
+    {
+      "category": "design",
+      "text": "Printed in Core Set 2021 (set code M21, released 2020-07-03), illustrated by Lie Setiawan, collector number 127, rare. Mana cost {2}{B}, legendary creature - Vampire Cleric, 1/3. Reprinted in Jumpstart 2022 and Jumpstart 2025 per Wizards' Gatherer database. [Scryfall: m21/127] [Gatherer: M21/127, J22/487, J25/71]",
+      "sources": ["Scryfall: m21/127", "Gatherer: M21/127", "Gatherer: J22/487", "Gatherer: J25/71"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text: 'Whenever you gain life, target opponent loses that much life.' plus an activated `{3}{B}{B}: Creatures you control gain lifelink until end of turn.` In EDH this functions as a stapled Sanguine Bond on a 2/3-mana body, enabling two-card infinite-drain combos with Sanguine Bond, Exquisite Blood, Bloodthirsty Conqueror, or Beacon of Immortality. [Scryfall: m21/127] [Commander Spellbook: combos 314-3966, 314-1612, 314-6191, 314-4996]",
+      "sources": ["Scryfall: m21/127", "Commander Spellbook: 314-3966", "Commander Spellbook: 314-1612", "Commander Spellbook: 314-6191", "Commander Spellbook: 314-4996"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC inclusion: appears in 5.09% of relevant Commander decks (roughly 228K of 4.48M tracked decks) and is most often played as the deck's commander rather than as a 99 inclusion. Highest-lift co-inclusions in Vito decks include Will, Scion of Peace, Vampire Socialite, Falkenrath Pit Fighter, and Stromkirk Captain; core combo enablers Sanguine Bond (~56%) and Exquisite Blood (~48%) are near-default. [EDHREC: Vito, Thorn of the Dusk Rose]",
+      "sources": ["EDHREC: vito-thorn-of-the-dusk-rose"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text on the M21 #127 print: 'Through the blood of the wicked, we shall be redeemed. Let us pray.' Read alongside the lore, this is Vito speaking in his own voice as the Church of Dusk's heretic-priest after the schism, framing predation as sacrament. [Scryfall: m21/127]",
+      "sources": ["Scryfall: m21/127"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment treats Vito as a build-around staple for mono-black lifegain/drain in Commander, with Goonhammer's commander-focus piece calling it the deck's combo linchpin; Hipsters of the Coast frames the character as a Wizards critique of the historical conquistador-and-church alliance, drawing an explicit parallel to the 1511 backlash against Friar Antonio de Montesinos's anti-exploitation sermon. Sentiment is sentiment, not Wizards-canon, but the conquistador reading is widely accepted. [Goonhammer: 'Commander Focus: Vito, the Dusk Rose'] [Hipsters of the Coast: Torbeck, 2020-08-11]",
+      "sources": ["Goonhammer: Commander Focus: Vito, the Dusk Rose", "Hipsters of the Coast: Torbeck, 2020-08-11"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sanguine Bond", "set": "various reprints (originally Magic 2010)", "note": "The other half of Vito's signature infinite-drain combo; functionally redundant with Vito's static."},
+    {"name": "Exquisite Blood", "set": "various reprints (originally Avacyn Restored)", "note": "Pairs with Vito for a two-card infinite drain: opponent loses life -> you gain life -> Vito triggers, loop."},
+    {"name": "Bloodthirsty Conqueror", "set": "The Lost Caverns of Ixalan", "note": "Another Ixalan vampire that goes infinite with Vito under the same gain/loss loop; same Legion-of-Dusk lineage flavor."},
+    {"name": "Elenda, the Dusk Rose", "set": "Rivals of Ixalan", "note": "The saint Vito broke with in canon; 'Dusk Rose' epithet directly links the two cards; useful for any Church-of-Dusk schism narrative."},
+    {"name": "Mavren Fein, Dusk Apostle", "set": "Ixalan", "note": "Same Church of Dusk faction; another named Legion-of-Dusk vampire priest from the original Ixalan block."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

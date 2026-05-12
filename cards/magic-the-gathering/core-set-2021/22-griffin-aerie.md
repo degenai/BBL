@@ -15,9 +15,9 @@ tags_filter: ["no-figure", "creature-absent", "wide-shot", "scene-mode", "group"
 reference_image: cards/_images/magic-the-gathering/core-set-2021/22-griffin-aerie.png
 average_cost_paid: 0
 market_price: 0.31
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/e/6ea1ee60-564
 mood: sublime
 time_of_day: day
 setting: mountain
+artist: Milivoj Ćeran
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/22-griffin-aerie--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/e/6ea1ee60-5644-4f78-913d-32c36065957f.jpg?1594734998
+flavor_text: When griffins started nesting atop the northern tower, the castellan worried they'd be a nuisance. Instead, they took the entire castle under their protection.
+oracle_text: At the beginning of your end step, if you gained 3 or more life this turn, create a 2/2 white Griffin creature token with flying.
 ---
 
 # Griffin Aerie (Core Set 2021)

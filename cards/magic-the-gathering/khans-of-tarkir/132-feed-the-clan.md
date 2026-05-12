@@ -15,9 +15,9 @@ tags_filter: ["green-magic", "instant", "lifegain", "group", "wide-shot", "scene
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/132-feed-the-clan.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/5/2/52f7c53d-0b5
 mood: cozy
 time_of_day: night
 setting: other
+artist: Winona Nelson
+art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/132-feed-the-clan--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/2/52f7c53d-0b53-400f-aa67-967547f3e394.jpg?1562786646
+flavor_text: The Temur believe three things only are needed in life: a hot fire, a full belly, and a strong companion.
+oracle_text: You gain 5 life.\nFerocious — You gain 10 life instead if you control a creature with power 4 or greater.
 ---
 
 # Feed the Clan (Khans of Tarkir)

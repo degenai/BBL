@@ -4,6 +4,40 @@ Catch-all for half-baked concepts, future work, and "wouldn't it be cool if" not
 
 ---
 
+## Thumbnail composer (anti-slop A/B workflow)
+
+**The idea (Alex 2026-05-11):** bundle thumbnails for storefront / catalog grid / social preview should NEVER be straight AI-generated. That reads as cheap and slop-y to anyone who recognizes the aesthetic, which is everyone now. Instead: AI assists *composition*, not generation. Library of real assets, programmatic combinatorial layouts, flashcard A/B picker for Alex to choose the winner.
+
+**Visual grammar (the asset library):**
+- **Transparent cutouts of "our" faces** — Alex, Sarah, possibly Babycakes the cat. Sourced from real photos with bg removed. Expression library: deadpan, raised eyebrow, knowing glance, wide-eyed shock. The Erik Hoffstad / Internet Comment Etiquette aesthetic — clickbait conventions used unironically to sell something real.
+- **Red arrows** — the universal "look at this" indicator. Multiple angles, sizes, line weights. Memetic; reads as parody-of-Bandcamp / parody-of-YouTube-thumbnail.
+- **Game brand logos** — MTG logo, Pokémon logo, the wordmarks themselves. Provides instant "this is about THAT trading card" recognition before the buyer has read a word.
+- **Set logos / symbols** — set-specific. Throne of Eldraine crown, War of the Spark thorn, Ravnica guild marks. Sourced from Scryfall set-icon SVGs (which are public and consistent). Pulled per-bundle based on which sets the cards in the lair span.
+- **DISCRETE LAIR #NNN badge** — generated from a template per bundle. Matches the catalog-line "BBL · Discrete Lair NNN" branding from the previewer. Bold, geometric, single-color, sticker-shape.
+- **Card art crops** — the actual art_crop images from the bundle. Featured prominently (one or two cards as visual anchor) rather than the full bundle.
+
+**The workflow:**
+1. **Library curation** — one-time setup. Build `assets/thumbnail-library/{faces,arrows,logos,set-icons,badges}/` with PNG/SVG. Each asset has a small JSON sidecar (`alex-deadpan.png` + `alex-deadpan.json` with metadata: vibe tags, size, recommended pairings).
+2. **Programmatic composition** — per bundle: a Python script reads the bundle JSON, picks N variations of (background card-art + 1-2 face cutouts + 1-2 red arrows + game logo + set icon(s) + LAIR badge), composes via PIL or similar, emits N candidate thumbnails to `bundles/<slug>/thumbnails/cand-N.png`.
+3. **Flashcard A/B picker** — small HTML page (or built into the bundle previewer): shows pairs of candidate thumbnails, Alex clicks the winner, the loser drops out, tournament-style. Final winner gets stamped as `bundles/<slug>/thumbnail.png` and referenced in the bundle JSON.
+4. **Optional ranking variant** — show 10 at a time, Alex sorts by drag, top one wins. Lower friction for "all candidates are bad, regenerate" scenarios.
+
+**Why this matters:**
+- AI thumbnails read as slop. Slop kills trust. Trust is the only thing BBL has that the Reddit-grade bulk seller doesn't.
+- The composition step is real labor that's *visible* to the buyer when they look at the thumbnail. Faces > stock art. Red arrows > generic frame. Game logo > "Magic: The Gathering" in 14pt Helvetica.
+- The A/B flashcard step keeps Alex's judgment in the loop. Composition is mechanical, curation is human.
+- The aesthetic is anti-establishment by referencing internet-clickbait grammar without surrendering to it. Same energy as the brand voice across the rest of BBL.
+
+**Open questions when this gets built:**
+- Where do face cutouts live (private repo? local-only?) — privacy boundary
+- How many candidate thumbnails per bundle? (Suggest 8–12 to keep tournament short)
+- Does the composer reuse anime.js v4 animations or does it produce static PNGs? (Static for thumbnail; animated preview is the existing previewer page's job)
+- Does this need a dedicated agent (`bbl-thumbnailer`?) or is it pure Python orchestration like csv2mdbot?
+
+**Probably:** pure Python composition + HTML A/B picker, no LLM in the loop except for "given the bundle's narrative + intent tags, suggest 3 face expressions and 1 LAIR-badge color that fit the mood." That single LLM call decides asset *flavor*; deterministic Python does the *combinatorics*. Same shape as the bundler design: ≤2 LLM calls per task, deterministic everywhere else.
+
+---
+
 ## Collection timeline HTML
 
 **The idea:** the git commit log of this repo IS a story — when each card got enriched, what prompts were active, when bugs got fixed, what insights surfaced. Render that as an HTML page: a scrolling visual timeline of the curation work itself.

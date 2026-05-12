@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "action", "three-quarter-facing", "forward-fac
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/219-hero-of-the-nyxborn.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/8/9854e673-181
 mood: action
 time_of_day: day
 setting: other
+artist: Victor Adame Minguez
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/219-hero-of-the-nyxborn--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/8/9854e673-1816-4a76-b9db-bb399ac7489f.jpg?1581481079
+flavor_text: Heroic deeds inspire new heroes.
+oracle_text: When this creature enters, create a 1/1 white Human Soldier creature token.\nWhenever you cast a spell that targets this creature, creatures you control get +1/+0 until end of turn.
 ---
 
 # Hero of the Nyxborn (Theros Beyond Death)

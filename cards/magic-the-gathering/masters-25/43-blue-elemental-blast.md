@@ -14,16 +14,21 @@ tags_hub: ["fire", "lightning", "elemental", "magic", "energy-beam", "counterspe
 tags_filter: ["no-figures", "close-up", "abstract-mode", "instant", "blue-magic", "anti-red"]
 reference_image: cards/_images/magic-the-gathering/masters-25/43-blue-elemental-blast.png
 average_cost_paid: 0
-market_price: 1.43
-market_price_as_of: 2026-05-10
+market_price: 1.45
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/2/f/2f51f88f-f662-4572-a371-9a77718ed079.png?1562434032
 art_match_confidence: high
 needs_manual_review: false
 mood: action
 time_of_day: indeterminate
 setting: void
+artist: Izzy
+art_crop_image: cards/_images/magic-the-gathering/masters-25/43-blue-elemental-blast--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/f/2f51f88f-f662-4572-a371-9a77718ed079.jpg?1562434032
+flavor_text: Nothing escapes a sharp mind.
+oracle_text: Choose one —\n• Counter target red spell.\n• Destroy target red permanent.
 ---
 
 # Blue Elemental Blast (Masters 25)

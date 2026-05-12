@@ -15,9 +15,9 @@ tags_filter: ["solo", "close-up", "portrait-mode", "three-quarter-facing", "huma
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/116-temple-thief--foil.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/f/c/fc4a61aa-75d
 mood: grim
 time_of_day: night
 setting: indoor
+artist: Evyn Fong
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/116-temple-thief--foil--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/c/fc4a61aa-75d2-46bc-b13f-b863f5f49d32.jpg?1581479972
+flavor_text: \"I don't know if the gods watch over their temples, but I figure it's best to be stealthy just in case.\"
+oracle_text: This creature can't be blocked by enchanted creatures or enchantment creatures.
 ---
 
 # Temple Thief (Theros Beyond Death)

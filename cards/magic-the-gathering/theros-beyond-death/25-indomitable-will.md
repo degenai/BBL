@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide-shot", "scene-mode", "three-quarter", "male-figure",
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/25-indomitable-will.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/4/7/47772a34-c72
 mood: sublime
 time_of_day: day
 setting: mountain
+artist: Micah Epstein
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/25-indomitable-will--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/7/47772a34-c72f-44e8-b272-4ef2d2af5c82.jpg?1581479150
+flavor_text: \"Charge bravely. Fight selflessly. Act honorably. Iroas will watch over you.\"\n—Verenis, priest of Iroas
+oracle_text: Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature\nEnchanted creature gets +1/+2.
 ---
 
 # Indomitable Will (Theros Beyond Death)

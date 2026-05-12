@@ -1,0 +1,48 @@
+{
+  "card_name": "Switch",
+  "game": "Pokemon",
+  "set": "Crown Zenith",
+  "collector_number": "144/159",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag from vision pass; depicted item is a generic energy-transfer apparatus (not a character). Note: data-integrity issue flagged — inventory name is 'Switch' (#144, Studio Bora Inc., Common) but reference_image_source_url, artist, and oracle_text in frontmatter all point to 'Energy Switch' (#129, Toyste Beach, Uncommon). Vision pass describes the Energy Switch art. Triviabot does not own this metadata reconciliation — flagged in trivia bullet for downstream curator.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Crown Zenith (set ID swsh12pt5, ptcgoCode CRZ) released 2023-01-20 as the final Sword & Shield-era special expansion in the West before the Scarlet & Violet transition. [PokemonTCG.io API: swsh12pt5] The set introduced the Galarian Gallery subset of 70 alternate-art cards highlighting Pokemon V, VMAX, VSTAR, and Supporters, plus a linked-illustration feature where nine specific Galarian Gallery cards connect to form a single larger image. [Pokemon Company press release via gamespress.com]",
+      "sources": ["PokemonTCG.io API", "press.pokemon.com / gamespress.com"]
+    },
+    {
+      "category": "design",
+      "text": "DATA-INTEGRITY FLAG for downstream curator: card MD frontmatter is internally inconsistent. Inventory name is 'Switch' and collector_number 144/159, which per PokemonTCG.io is the Studio Bora Inc.-illustrated Common with rule text 'Switch your Active Pokemon with 1 of your Benched Pokemon.' But reference_image_source_url (swsh12pt5/129_hires.png), artist (Toyste Beach), and oracle_text ('Move a basic Energy from 1 of your Pokemon to another of your Pokemon') in the same frontmatter all match Energy Switch #129 (Uncommon). The vision pass describes the Energy Switch art. Either the Collectr CSV name is wrong for this slot, or the vision pass matched against the wrong reference image. [PokemonTCG.io API: swsh12pt5-144 vs swsh12pt5-129]",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "design",
+      "text": "Energy Switch has been reprinted 20 times across Pokemon TCG history, debuting in Aquapolis (2003, art by Mikio Menjo) and seeing recurring printings in nearly every era through Mega Evolution (2025). For the Sword & Shield generation specifically — base SwSh (2020, #162), Silver Tempest secret rare (2022, #212), and Crown Zenith (2023, #129) — the art is by Toyste Beach, a 3D-CG studio that has illustrated Pokemon TCG cards since the Boundaries Crossed era (2012). [PokemonTCG.io API queries for name:'Energy Switch'] [Bulbapedia: Toyste Beach via WebSearch snippet]",
+      "sources": ["PokemonTCG.io API", "Bulbapedia: Toyste Beach"]
+    },
+    {
+      "category": "design",
+      "text": "The plain Switch trainer item has 35 printings on record going back to Base Set (1999, #95, art by Keiji Kinebuchi), making it one of the longest-running cards in the Pokemon TCG. The Crown Zenith #144 reprint is illustrated by Studio Bora Inc., a frequent recurring trainer-card studio for the late-Sword-&-Shield and Scarlet-&-Violet generations. [PokemonTCG.io API queries for name:'Switch']",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Switch and Energy Switch are both Item-class trainer cards with no play-count limit per turn ('You may play any number of Item cards during your turn'). Both are currently Legal in Standard, Expanded, and Unlimited per their 2023 printing. Energy Switch in particular is considered a long-tenured Expanded-format utility card; reprints of older cards are also Expanded-legal under the format's reprint rule. [PokemonTCG.io API: swsh12pt5-144, swsh12pt5-129] [Bulbapedia: Expanded format (TCG) via WebSearch snippet]",
+      "sources": ["PokemonTCG.io API", "Bulbapedia: Expanded format"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Energy Switch", "set": "Crown Zenith", "note": "Companion item card in same set (#129); the vision-pass art on this MD actually depicts THIS card, not the Switch #144 the inventory names. Toyste Beach illustration. Uncommon."},
+    {"name": "Energy Switch", "set": "Aquapolis", "note": "First printing of Energy Switch (2003, #120). Art by Mikio Menjo. Origin point for the trainer-item lineage."},
+    {"name": "Switch", "set": "Base", "note": "First printing of plain Switch (1999, #95). Art by Keiji Kinebuchi. One of the longest-running Pokemon TCG cards."},
+    {"name": "Energy Switch", "set": "Silver Tempest", "note": "Secret rare printing (2022, #212) in the set immediately preceding Crown Zenith. Same Toyste Beach art lineage as Crown Zenith #129."},
+    {"name": "Energy Switch", "set": "Sword & Shield (base)", "note": "First Toyste Beach Energy Switch printing (2020, #162). Established the SwSh-era art for this card."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -15,9 +15,9 @@ tags_filter: ["no-figure", "close-up", "object-study", "forward-facing", "artifa
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/247-relic-amulet.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/a/0ab97a84-fe8
 mood: sublime
 time_of_day: indeterminate
 setting: other
+artist: Yeong-Hao Han
+art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/247-relic-amulet--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/a/0ab97a84-fe8c-4986-afd8-3abdcc029f7f.jpg?1604200828
+flavor_text: Old power finds new purpose.
+oracle_text: Whenever you cast an instant, sorcery, or Wizard spell, put a charge counter on this artifact.\n{2}, {T}, Remove all charge counters from this artifact: It deals that much damage to target creature.
 ---
 
 # Relic Amulet (Zendikar Rising)

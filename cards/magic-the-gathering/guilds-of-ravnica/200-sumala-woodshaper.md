@@ -14,10 +14,10 @@ tags_hub: ["elf", "druid", "forest", "nature-magic", "spellcaster", "meditation"
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "female-figure", "portrait-mode", "creature-elf", "creature-druid", "green-magic", "common", "multicolor-green-blue"]
 reference_image: cards/_images/magic-the-gathering/guilds-of-ravnica/200-sumala-woodshaper.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-10
+market_price: 0.11
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/8/c/8c4e427e-c06
 mood: peaceful
 time_of_day: day
 setting: forest
+artist: Sara Winters
+art_crop_image: cards/_images/magic-the-gathering/guilds-of-ravnica/200-sumala-woodshaper--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/c/8c4e427e-c061-43c5-9e8e-34bf5b447ab1.jpg?1572893819
+oracle_text: When this creature enters, look at the top four cards of your library. You may reveal a creature or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 ---
 
 # Sumala Woodshaper (Guilds of Ravnica)

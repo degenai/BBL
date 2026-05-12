@@ -15,15 +15,20 @@ tags_filter: ["group", "mid-shot", "forward-facing", "scene-mode", "action", "wh
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/27-rally-of-wings.png
 average_cost_paid: 0
 market_price: 0.29
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/f/0/f043642d-35fe-4ea9-a1d3-78ddfdddeaf4.png?1557576044
 art_match_confidence: high
 needs_manual_review: false
 mood: sublime
 time_of_day: day
 setting: other
+artist: Magali Villeneuve
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/27-rally-of-wings--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/0/f043642d-35fe-4ea9-a1d3-78ddfdddeaf4.jpg?1557576044
+flavor_text: Even the clouds became a field of battle. Known as the Sky Theater, it saw the Eternals clash with squadrons of angels.
+oracle_text: Untap all creatures you control. Creatures you control with flying get +2/+2 until end of turn.
 ---
 
 # Rally of Wings (War of the Spark)

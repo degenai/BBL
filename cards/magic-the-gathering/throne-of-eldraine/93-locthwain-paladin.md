@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "action", "three-quarter-facing", "male-figure
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/93-locthwain-paladin.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/d/a/da6f21a8-3dd
 mood: grim
 time_of_day: twilight
 setting: other
+artist: Zack Stella
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/93-locthwain-paladin--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/a/da6f21a8-3dd0-42af-8a93-84f98968c781.jpg?1572490167
+flavor_text: \"I will find the king if I have to ride from summer to winter and back again.\"
+oracle_text: Menace (This creature can't be blocked except by two or more creatures.)\nAdamant — If at least three black mana was spent to cast this spell, this creature enters with a +1/+1 counter on it.
 ---
 
 # Locthwain Paladin (Throne of Eldraine)

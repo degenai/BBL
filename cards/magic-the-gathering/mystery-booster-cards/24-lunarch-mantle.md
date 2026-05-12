@@ -1,7 +1,7 @@
 ---
 name: Lunarch Mantle
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 24
 rarity: C
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", 
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/24-lunarch-mantle.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: grim
 time_of_day: indeterminate
 setting: void
 the_list_source_set: A25
+artist: Anastasia Ovchinnikova
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/24-lunarch-mantle--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/6/b6eb3c20-e853-4399-a107-c3308b2e5d4e.jpg?1573505941
+flavor_text: \"A boon from the angels should never be cast aside.\"\n—Manfried Ulmach, Chief Inquisitor
+oracle_text: Enchant creature\nEnchanted creature gets +2/+2 and has \"{1}, Sacrifice a permanent: This creature gains flying until end of turn.\"
 ---
 
 # Lunarch Mantle (Mystery Booster Cards)
@@ -50,14 +55,14 @@ A grim, dark-armored figure stands at center frame, gripping a long straight swo
 
 ## Trivia
 
-- **Set context** — First printed in Eldritch Moon, not Shadows over Innistrad: EMN #35, released 2016-07-22, art by Anastasia Ovchinnikova `[Scryfall]`. Subsequently reprinted in Masters 25 (A25 #24, 2018), surfaced on The List as PLST A25-24 (2019 — the printing of this physical copy), Shadows over Innistrad Remastered digital (SIR #37, 2023), and Innistrad Remastered (INR #31 booster + #344 borderless retro, 2025) `[Scryfall prints search]`.
+- **Set context** — First printed in Eldritch Moon, not Shadows over Innistrad: EMN no. 35, released 2016-07-22, art by Anastasia Ovchinnikova `[Scryfall]`. Subsequently reprinted in Masters 25 (A25 no. 24, 2018), surfaced on The List as PLST A25-24 (2019 — the printing of this physical copy), Shadows over Innistrad Remastered digital (SIR no. 37, 2023), and Innistrad Remastered (INR no. 31 booster + no. 344 borderless retro, 2025) `[Scryfall prints search]`.
 - **Flavor text** — `"A boon from the angels should never be cast aside."` — Manfried Ulmach, Chief Inquisitor `[Scryfall]`. (The MD Vision section transcribes the speaker's surname as 'Ulnach' — Scryfall's canonical text is 'Ulmach'; minor upstream correction.)
 - **Flavor speaker, NOT depicted** — Manfried Ulmach is a named Innistrad NPC: Chief Inquisitor of the Lunarch Inquisition, the church's enforcement arm centered in Nephalia. Community lore archives describe him as notably cruel; Thalia is reported to have objected to his conduct at Elgaud `[MTG Wiki: Manfried Ulmach, via search snippet]`. He appears only in flavor text — the armored figure on this card is unnamed and is NOT a depiction of Ulmach; the quoted line is his commentary on the mantle, not a self-portrait.
-- **Design** — The same Ovchinnikova illustration has been carried through every paper and digital printing — no alternate-art or full-art versions exist; the only frame variant is the INR #344 borderless retro-frame reprint `[Scryfall prints search]`.
+- **Design** — The same Ovchinnikova illustration has been carried through every paper and digital printing — no alternate-art or full-art versions exist; the only frame variant is the INR no. 344 borderless retro-frame reprint `[Scryfall prints search]`.
 - **Mechanical reputation** — Niche but coherent: EDHREC rank ~17,824, ~0.06% inclusion rate (~2,570 decks tracked). Top Commander homes are mono-white Voltron/aura shells — Light-Paws, Emperor's Voice (1.7% inclusion), Mazzy, Truesword Paladin (4.6%), Eriette of the Charmed Apple (0.7%) `[EDHREC: Lunarch Mantle]`. Pauper-legal, which is where it sees its most competitive interest as a cheap +2/+2 with sac-fueled evasion `[Scryfall legalities]`.
 
 ### Related cards
-- Light-Paws, Emperor's Voice (Kamigawa: Neon Dynasty) — EDHREC's #1 commander home for Lunarch Mantle; tutors auras directly onto itself for Voltron buildup.
+- Light-Paws, Emperor's Voice (Kamigawa: Neon Dynasty) — EDHREC's no. 1 commander home for Lunarch Mantle; tutors auras directly onto itself for Voltron buildup.
 - All That Glitters (Throne of Eldraine / various) — 31% co-inclusion on EDHREC; same aura-Voltron archetype.
 - Ethereal Armor (Return to Ravnica / various) — 31% co-inclusion; the cheap white aura most often paired with Lunarch Mantle in enchantress shells.
 - Kor Spiritdancer (Modern Masters / various) — aura-payoff creature EDHREC surfaces as a supporting piece in the same archetype.

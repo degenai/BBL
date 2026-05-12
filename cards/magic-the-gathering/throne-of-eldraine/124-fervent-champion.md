@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "faces-left", "action-mode", "male-figure", "n
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/124-fervent-champion.png
 average_cost_paid: 0
 market_price: 0.34
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/c/5/c52d66db-557
 mood: action
 time_of_day: indeterminate
 setting: other
+artist: Steve Argyle
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/124-fervent-champion--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/5/c52d66db-5570-48a1-99cf-e0417517747b.jpg?1636491502
+flavor_text: 2018 World Champion Javier Domínguez
+oracle_text: First strike, haste\nWhenever this creature attacks, another target attacking Knight you control gets +1/+0 until end of turn.\nEquip abilities you activate that target this creature cost {3} less to activate.
 ---
 
 # Fervent Champion (Throne of Eldraine)

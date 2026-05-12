@@ -15,9 +15,9 @@ tags_filter: ["enchantment", "aura", "blue-magic", "no-figure", "no-face", "abst
 reference_image: cards/_images/magic-the-gathering/commander-legends/100-spontaneous-mutation.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/9/6919154c-154
 mood: horror
 time_of_day: indeterminate
 setting: void
+artist: Christopher Moeller
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/100-spontaneous-mutation--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/9/6919154c-154e-4430-b7fd-ab9fe70326dc.jpg?1608909494
+flavor_text: When the body turns, the mind soon follows.
+oracle_text: Flash\nEnchant creature\nEnchanted creature gets -X/-0, where X is the number of cards in your graveyard.
 ---
 
 # Spontaneous Mutation (Commander Legends)

@@ -14,10 +14,10 @@ tags_hub: ["horse", "rider", "heist", "conspirator", "hooded-figure", "distracti
 tags_filter: ["duo", "2-figures", "mid-shot", "scene-mode", "narrative", "no-clear-face", "red-magic", "sorcery", "indoor-scene", "warm-palette"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/195-renegade-tactics.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-10
+market_price: 0.22
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/7/d/7dfa0e65-1ce
 mood: action
 time_of_day: indeterminate
 setting: indoor
+artist: Yeong-Hao Han
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/195-renegade-tactics--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/d/7dfa0e65-1ce0-4f8e-a78b-2ade2d25e748.jpg?1608910360
+flavor_text: \"Nothing against you. It's just that waiting for Consulate clearance was never really my thing.\"
+oracle_text: Target creature can't block this turn.\nDraw a card.
 ---
 
 # Renegade Tactics (Commander Legends)

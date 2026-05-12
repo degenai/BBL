@@ -15,9 +15,9 @@ tags_filter: ["duo", "mid-shot", "three-quarter-facing", "scene-mode", "female-f
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/114-scavenging-harpy.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/0/b0e237c5-45b
 mood: grim
 time_of_day: indeterminate
 setting: mountain
+artist: Daniel Ljunggren
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/114-scavenging-harpy--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/0/b0e237c5-45b4-49df-adb9-62b9f3b62986.jpg?1581479949
+flavor_text: Desecrating the dead is a convenient way for harpies to expand their foul collections.
+oracle_text: Flying\nWhen this creature enters, exile target card from an opponent's graveyard.
 ---
 
 # Scavenging Harpy (Theros Beyond Death)

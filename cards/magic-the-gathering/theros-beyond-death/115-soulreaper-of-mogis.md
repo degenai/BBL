@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "action", "single-figure", "m
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/115-soulreaper-of-mogis.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/5/5/55e2f383-d2a
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Dmitry Burmak
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/115-soulreaper-of-mogis--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/5/55e2f383-d2a0-4424-bf7a-79e82d6f691f.jpg?1616399505
+flavor_text: \"We offer to Mogis the blood of the weak, and in return he makes us strong.\"
+oracle_text: {2}{B}, Sacrifice a creature: Draw a card.
 ---
 
 # Soulreaper of Mogis (Theros Beyond Death)

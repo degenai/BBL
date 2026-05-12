@@ -2,7 +2,7 @@
 name: Wall of Spears
 game: Magic: The Gathering
 set: Fifth Edition
-collector_number: 407
+collector_number: 
 rarity: C
 variance: Normal
 grade: Ungraded
@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter-facing", "male-figure", "portra
 reference_image: cards/_images/magic-the-gathering/fifth-edition/407-wall-of-spears.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/0/60a116c9-2f8
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Zak Plucinski
+art_crop_image: cards/_images/magic-the-gathering/fifth-edition/407-wall-of-spears--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/0/60a116c9-2f80-4e76-b158-c23f101872db.jpg?1562591334
+flavor_text: Even the most conservative generals revised their tactics after the Battle of Sarinth, during which a handful of peasant-pikemen held off a trio of rampaging craw wurms.
+oracle_text: Defender (This creature can't attack.)\nFirst strike
 ---
 
 # Wall of Spears (Fifth Edition)

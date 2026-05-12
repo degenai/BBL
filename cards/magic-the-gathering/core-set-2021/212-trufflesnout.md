@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "creature-boar", "green-magic
 reference_image: cards/_images/magic-the-gathering/core-set-2021/212-trufflesnout.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/8/b/8bba47c1-a874-456e-bea3-e99e2d61cfba.png?1594737296
 art_match_confidence: high
 needs_manual_review: false
@@ -25,6 +25,11 @@ manual_review_reason: No reference image found via scryfall for set 'Core Set 20
 mood: peaceful
 time_of_day: day
 setting: forest
+artist: Jason Kang
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/212-trufflesnout--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/b/8bba47c1-a874-456e-bea3-e99e2d61cfba.jpg?1594737296
+flavor_text: Its exploits are the stuff of legends among local chefs and fuel for nightmares among the forest thallids.
+oracle_text: When this creature enters, choose one —\n• Put a +1/+1 counter on this creature.\n• You gain 4 life.
 ---
 
 # Trufflesnout (Core Set 2021)

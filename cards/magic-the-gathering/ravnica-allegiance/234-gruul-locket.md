@@ -15,9 +15,9 @@ tags_filter: ["red-magic", "green-magic", "multicolor-red-green", "artifact", "n
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/234-gruul-locket.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/1/e/1ec78880-a8e
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Kev Walker
+art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/234-gruul-locket--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/e/1ec78880-a8ec-4c87-bc3f-e2a79d154884.jpg?1584832121
+flavor_text: \"In life, it was a cunning survivor, fearless and quick. May its power pass to you as you wear its skull.\"\n—Gna, Gruul shaman
+oracle_text: {T}: Add {R} or {G}.\n{R/G}{R/G}{R/G}{R/G}, {T}, Sacrifice this artifact: Draw two cards.
 ---
 
 # Gruul Locket (Ravnica Allegiance)

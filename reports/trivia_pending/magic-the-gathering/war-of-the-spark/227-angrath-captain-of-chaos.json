@@ -1,0 +1,53 @@
+{
+  "card_name": "Angrath, Captain of Chaos",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "227",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Verified. Scryfall API returns type_line 'Legendary Planeswalker — Angrath' for UUID aa3a4cb5-945e-4caf-8a18-1ef977879fe8, confirming the card's official planeswalker subtype IS Angrath (not an unnamed minotaur sharing his role). MTG Wiki describes Angrath canonically as a minotaur planeswalker from Aranzhur whose signature visual identifiers include fiery chain whips, heavy build, dark hair/beard, and red/black color identity — all present in the depicted figure (horns, axe, manacles/hooks/chain-links at belt, red-skinned weathered face, dark plate). Internal Wizards IP, so no external IP risk callout required; ip_verified flips to true, ip_confidence remains high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Released 2019-05-03 in War of the Spark, the Ravnica-set finale of Nicol Bolas's invasion arc; the set's signature Amass mechanic represents the Dreadhorde — Bolas's army of resurrected Eternals — being commanded across the battlefield [Scryfall API: released_at + set_name; MTG Wiki: War of the Spark].",
+      "sources": ["Scryfall API", "MTG Wiki: War of the Spark"]
+    },
+    {
+      "category": "design",
+      "text": "One of War of the Spark's 20 uncommon planeswalkers; Mark Rosewater explains in 'Waging War of the Spark, Part 1' that the set forced a new uncommon-PW template after early single-ability designs felt weak, landing on 'one static/triggered ability and one negative-loyalty ability' — Angrath's menace static + −2 Amass Zombies fits this template exactly [magic.wizards.com: 'Waging War of the Spark, Part 1', April 1, 2019].",
+      "sources": ["magic.wizards.com: Waging War of the Spark, Part 1 (2019-04-01)"]
+    },
+    {
+      "category": "design",
+      "text": "Mark Rosewater clarified on Blogatog that Amass appears on Angrath not because he's allied with Bolas, but because Angrath's magic 'sways others temporarily to his side' — he's pulling Eternals to fight for him mid-battle, not serving the Dreadhorde [MTG Wiki: Angrath, Captain of Chaos, citing Rosewater Blogatog].",
+      "sources": ["MTG Wiki: Angrath, Captain of Chaos", "Mark Rosewater Blogatog (Tumblr)"]
+    },
+    {
+      "category": "design",
+      "text": "Artist is Slawomir Maniak; no flavor text printed on the War of the Spark version (Scryfall returns no flavor_text field for this print) [Scryfall API].",
+      "sources": ["Scryfall API"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC shows Angrath, Captain of Chaos at ~0.42% inclusion across 8,550 Commander decks (Scryfall edhrec_rank: 11216) — niche but not unplayed; top homes are Sauron, the Dark Lord (LotR) and Sethron, Hurloon General (Minotaur tribal), the latter at 28% inclusion in 613 decks [EDHREC].",
+      "sources": ["EDHREC", "Scryfall API: edhrec_rank"]
+    },
+    {
+      "category": "design",
+      "text": "Reprinted as a foil-only stained-glass Secret Lair printing (SLD #527), making the War of the Spark #227 print the standard non-promo version [Scryfall: SLD #527 listing].",
+      "sources": ["Scryfall: scryfall.com/card/sld/527"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Angrath, Minotaur Pirate", "set": "Rivals of Ixalan", "note": "Same character's debut printing (RIX #201); establishes him as a minotaur planeswalker stranded on Ixalan and captaining the Devil's Chains [MTG Wiki: Angrath]."},
+    {"name": "Angrath, the Flame-Chained", "set": "Rivals of Ixalan", "note": "Second Angrath card from the same block, mythic rare; further establishes the chains-as-magic visual identifier the WAR print continues [MTG Wiki: Angrath]."},
+    {"name": "Angrath's Marauders", "set": "Ixalan", "note": "Crew-of-the-Devil's-Chains flavor card from the original Ixalan set, predating Angrath's full character reveal [Scryfall search by name]."},
+    {"name": "Angrath's Rampage", "set": "War of the Spark", "note": "Same-set companion card; the only other War of the Spark card with Angrath's name on it, ties into the same B/R planeswalker identity [Scryfall search by name]."},
+    {"name": "Sethron, Hurloon General", "set": "Commander 2020 / Ikoria", "note": "Top EDHREC commander for Angrath, Captain of Chaos (28% inclusion in 613 decks); the leading Minotaur-tribal commander in B/R, mechanically and flavor-aligned [EDHREC]."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

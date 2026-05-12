@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "blue-magic", "black-magic", 
 reference_image: cards/_images/magic-the-gathering/guilds-of-ravnica/193-notion-rain.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/f/4/f4db287e-34c
 mood: grim
 time_of_day: indeterminate
 setting: urban
+artist: Lius Lasahido
+art_crop_image: cards/_images/magic-the-gathering/guilds-of-ravnica/193-notion-rain--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/4/f4db287e-34c1-459b-882d-3db58f13eade.jpg?1572893773
+flavor_text: City air is a constant drizzle of private thoughts.
+oracle_text: Surveil 2, then draw two cards. Notion Rain deals 2 damage to you. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 ---
 
 # Notion Rain (Guilds of Ravnica)

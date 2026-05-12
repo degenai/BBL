@@ -15,9 +15,9 @@ tags_filter: ["artifact", "duo", "2-figures", "mid-shot", "indoor", "no-face", "
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/229-scalding-cauldron.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/7/1/710d2782-2b2
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+artist: Craig J Spearing
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/229-scalding-cauldron--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/1/710d2782-2b23-441f-9890-6fa9c923b701.jpg?1572491061
+flavor_text: \"It's a witch's trick, this cauldron full of pain. I wouldn't dump it on any but the wicked.\"
+oracle_text: {3}, {T}, Sacrifice this artifact: It deals 3 damage to target creature.
 ---
 
 # Scalding Cauldron (Throne of Eldraine)

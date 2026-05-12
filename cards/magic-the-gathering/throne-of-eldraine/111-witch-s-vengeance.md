@@ -15,9 +15,9 @@ tags_filter: ["scene-mode", "crowd", "forward-facing", "female-figure", "indoor-
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/111-witch-s-vengeance.png
 average_cost_paid: 0
 market_price: 0.29
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/d/b/dbf16457-344
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+artist: Titus Lunter
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/111-witch-s-vengeance--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/b/dbf16457-3444-4130-b220-834b69d9faa3.jpg?1572490276
+flavor_text: The hex swept through the village, its citizens falling one by one.
+oracle_text: Creatures of the creature type of your choice get -3/-3 until end of turn.
 ---
 
 # Witch's Vengeance (Throne of Eldraine)

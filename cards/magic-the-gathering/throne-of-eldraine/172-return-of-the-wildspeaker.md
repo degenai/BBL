@@ -14,10 +14,10 @@ tags_hub: ["druid", "elder", "beard", "wilderness", "forest", "brambles", "thorn
 tags_filter: ["solo", "mid-shot", "forward-facing", "male-figure", "green-magic", "instant", "scene-mode"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/172-return-of-the-wildspeaker.png
 average_cost_paid: 0
-market_price: 1.65
-market_price_as_of: 2026-05-10
+market_price: 1.69
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/8/b88a4943-bd1
 mood: sublime
 time_of_day: indeterminate
 setting: forest
+artist: Chris Rallis
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/172-return-of-the-wildspeaker--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/8/b88a4943-bd1b-4d10-9cd3-b2ab91b25c10.jpg?1572490646
+flavor_text: \"The curse is broken.\"
+oracle_text: Choose one —\n• Draw cards equal to the greatest power among non-Human creatures you control.\n• Non-Human creatures you control get +3/+3 until end of turn.
 ---
 
 # Return of the Wildspeaker (Throne of Eldraine)

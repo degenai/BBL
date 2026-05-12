@@ -14,10 +14,10 @@ tags_hub: ["construct", "golem", "runes", "stone", "ruins", "relic", "wasteland"
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "artifact-creature", "construct-type", "colorless-magic"]
 reference_image: cards/_images/magic-the-gathering/rise-of-the-eldrazi/224-runed-servitor.png
 average_cost_paid: 0
-market_price: 0.11
-market_price_as_of: 2026-05-10
+market_price: 0.1
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/d/9dbbbbf6-e3e
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Mike Bierek
+art_crop_image: cards/_images/magic-the-gathering/rise-of-the-eldrazi/224-runed-servitor--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/d/9dbbbbf6-e3ed-4a36-bedf-11c3514ff965.jpg?1562706780
+flavor_text: Scholars had puzzled for centuries over the ruins at Tal Terig. Its secrets had always lived within one rune-carved head.
+oracle_text: When this creature dies, each player draws a card.
 ---
 
 # Runed Servitor (Rise of the Eldrazi)

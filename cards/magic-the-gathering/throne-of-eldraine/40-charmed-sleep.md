@@ -15,15 +15,19 @@ tags_filter: ["group", "mid-shot", "three-quarter", "narrative-mode", "blue-magi
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/40-charmed-sleep.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/f/1/f1f97d9e-650b-4b69-8733-d80c8e0f723f.png?1572489844
 art_match_confidence: high
 needs_manual_review: false
 mood: peaceful
 time_of_day: day
 setting: other
+artist: Titus Lunter
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/40-charmed-sleep--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/1/f1f97d9e-650b-4b69-8733-d80c8e0f723f.jpg?1572489844
+oracle_text: Enchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.
 ---
 
 # Charmed Sleep (Throne of Eldraine)

@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter-facing", "action", "male-figure
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/140-neheb-dreadhorde-champion.png
 average_cost_paid: 0
 market_price: 0.84
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/0/60c90d5d-7b3
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Igor Kieryluk
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/140-neheb-dreadhorde-champion--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/0/60c90d5d-7b3b-48d2-85f6-d6a2a452c0e9.jpg?1559959426
+oracle_text: Trample\nWhenever Neheb deals combat damage to a player or planeswalker, you may discard any number of cards. If you do, draw that many cards and add that much {R}. Until end of turn, you don't lose this mana as steps and phases end.
 ---
 
 # Neheb, Dreadhorde Champion (War of the Spark)

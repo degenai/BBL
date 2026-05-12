@@ -1,7 +1,7 @@
 ---
 name: Peel from Reality
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 40
 rarity: C
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide-shot", "abstract-mode", "no-face", "blue-magic", "in
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/40-peel-from-reality.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: sublime
 time_of_day: indeterminate
 setting: void
 the_list_source_set: DDO
+artist: Jason Felix
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/40-peel-from-reality--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/6/d600d048-92ee-45f8-9db3-2fb8fc9cd879.jpg?1573508090
+flavor_text: \"Soulless demon, you are bound to me. Now we will both dwell in oblivion.\"
+oracle_text: Return target creature you control and target creature you don't control to their owners' hands.
 ---
 
 # Peel from Reality (Mystery Booster Cards)

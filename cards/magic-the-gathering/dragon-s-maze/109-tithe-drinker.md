@@ -16,9 +16,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "creature-v
 reference_image: cards/_images/magic-the-gathering/dragon-s-maze/109-tithe-drinker.png
 average_cost_paid: 0
 market_price: 0.3
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/e/0/e069aa06-35b
 mood: grim
 time_of_day: night
 setting: indoor
+artist: Slawomir Maniak
+art_crop_image: cards/_images/magic-the-gathering/dragon-s-maze/109-tithe-drinker--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/0/e069aa06-35b0-4af8-89cb-af653708ed32.jpg?1562936862
+oracle_text: Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nExtort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)
 ---
 
 # Tithe Drinker (Dragon's Maze)
@@ -60,9 +64,9 @@ A pale vampire with dark, slicked hair sits behind a heavy banquet table clutter
 - **Flavor text** — No printed flavor text; the Dragon's Maze original prints rules text only (Lifelink, Extort). `[mtg.wtf DGM/109]`
 
 ### Related cards
-- Syndic of Tithes (Gatecrash, #16) — the directly-compared WB extort predecessor; Tithe Drinker is widely framed as its lifelink-bearing successor.
-- Basilica Screecher (Gatecrash, #154) — another common Orzhov extort creature from the same Return to Ravnica block; co-staple of WB extort Pauper builds.
-- Cruel Celebrant (War of the Spark, #190) — top Orzhov-vampire EDHREC synergy partner; on-death drain stacks with Tithe Drinker's lifelink/extort plan.
+- Syndic of Tithes (Gatecrash, no. 16) — the directly-compared WB extort predecessor; Tithe Drinker is widely framed as its lifelink-bearing successor.
+- Basilica Screecher (Gatecrash, no. 154) — another common Orzhov extort creature from the same Return to Ravnica block; co-staple of WB extort Pauper builds.
+- Cruel Celebrant (War of the Spark, no. 190) — top Orzhov-vampire EDHREC synergy partner; on-death drain stacks with Tithe Drinker's lifelink/extort plan.
 - Sanguine Bond (Magic 2010 and reprints) — EDHREC 53% inclusion synergy in the vampire-tribal shells that play Tithe Drinker.
 - Exquisite Blood (Avacyn Restored and reprints) — EDHREC 37% inclusion synergy; pairs with the card's lifelink and extort drain in EDH.
 

@@ -15,9 +15,9 @@ tags_filter: ["solo", "forward-facing", "mid-shot", "portrait-mode", "no-face-hu
 reference_image: cards/_images/magic-the-gathering/core-set-2021/36-selfless-savior.png
 average_cost_paid: 0
 market_price: 0.41
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/9/6911759c-717
 mood: cozy
 time_of_day: twilight
 setting: urban
+artist: Ralph Horsley
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/36-selfless-savior--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/9/6911759c-7177-402c-a95a-f9f46efaf521.jpg?1594735224
+flavor_text: She raised him from an orphaned pup and gave him a life of love. With his last act, he thanked her.
+oracle_text: Sacrifice this creature: Another target creature you control gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)
 ---
 
 # Selfless Savior (Core Set 2021)

@@ -15,9 +15,9 @@ tags_filter: ["duo", "2-figures", "mid-shot", "faces-left", "scene-mode", "no-fa
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/56-mistford-river-turtle.png
 average_cost_paid: 0
 market_price: 0.19
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/c/0c78c386-c64
 mood: peaceful
 time_of_day: day
 setting: ocean
+artist: Milivoj Ćeran
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/56-mistford-river-turtle--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/c/0c78c386-c64b-4fab-a718-f18b46360e20.jpg?1572489944
+flavor_text: The fae raised the turtle from a tiny hatchling. They taught it whom to ferry—and whom to drown.
+oracle_text: Whenever this creature attacks, another target attacking non-Human creature can't be blocked this turn.
 ---
 
 # Mistford River Turtle (Throne of Eldraine)

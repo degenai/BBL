@@ -15,9 +15,9 @@ tags_filter: ["duo", "mid-shot", "three-quarter", "male-figure", "blue-magic", "
 reference_image: cards/_images/magic-the-gathering/commander-legends/85-prosperous-pirates.png
 average_cost_paid: 0
 market_price: 0.26
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/5/d/5d778bde-f92
 mood: other
 time_of_day: day
 setting: ocean
+artist: Josh Hass
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/85-prosperous-pirates--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/d/5d778bde-f927-419e-8052-6230562bdedd.jpg?1608909355
+flavor_text: The floating city of High and Dry hasn't yet sunk under the weight of gold, but it's not for want of trying.
+oracle_text: When this creature enters, create two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")
 ---
 
 # Prosperous Pirates (Commander Legends)

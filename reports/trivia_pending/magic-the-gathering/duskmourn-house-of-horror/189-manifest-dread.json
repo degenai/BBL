@@ -1,0 +1,58 @@
+{
+  "card_name": "Manifest Dread",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "189",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag on this card; vision pass identified the art as generic body-horror cocoon imagery, not a named character.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Manifest Dread (no. 189/270) is the only Magic card whose card name exactly matches both its rules text and its keyword ability — the entire card body reads 'Manifest dread.' plus reminder text [MTG Wiki: Manifest].",
+      "sources": ["MTG Wiki: Manifest"]
+    },
+    {
+      "category": "design",
+      "text": "Manifest dread is a Duskmourn variant of the Manifest keyword action originally introduced in Fate Reforged (2015); it was designed in Duskmourn vision design before cloak was created for Murders at Karlov Manor, which is why the older manifest framing was retained rather than the newer cloak action word [MTG Wiki: Manifest, citing Mark Rosewater Blogatog 2024-09-01; Wizards: 'Top of the Duskmourning, Part 2' 2024-09-09].",
+      "sources": ["MTG Wiki: Manifest", "magic.wizards.com/en/news/making-magic/top-of-the-duskmourning-part-2"]
+    },
+    {
+      "category": "design",
+      "text": "During development, manifest dread was originally called 'manifest evil' before being renamed [MTG Wiki: Manifest, Trivia section].",
+      "sources": ["MTG Wiki: Manifest"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Duskmourn: House of Horror released 2024-09-27 as a top-down modern-horror plane inspired by 1970s-1990s slasher, creature-feature, and haunted-house films; the set leans on graveyard-matters and the Delirium subtheme, which manifest dread feeds directly by milling one of the two looked-at cards each cast [Scryfall set: dsk; MTG Wiki: Manifest dread section].",
+      "sources": ["Scryfall API: sets/dsk", "MTG Wiki: Manifest"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"That's why I never travel without a flamethrower.\" — Rip, spawn hunter [Scryfall].",
+      "sources": ["Scryfall API: cards/a649265b-6c32-49e7-b6cb-6086c40d26e8"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Despite being a common, Manifest Dread appears in 4,558 Commander decklists tracked by EDHREC (rank no. 14767 across all Magic cards) — the card is the eponymous, lowest-cost printed instance of its own keyword and reads as a clean budget enabler for graveyard/Delirium brews [EDHREC: Manifest Dread; Scryfall edhrec_rank].",
+      "sources": ["EDHREC: Manifest Dread", "Scryfall API: cards/a649265b-6c32-49e7-b6cb-6086c40d26e8"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Limited-format consensus across multiple set reviews (Card Kingdom, EDHREC, Draftsim, Goonhammer) framed manifest dread as 'a bit stronger than classic manifest' because seeing two cards substantially raises the odds of having a flippable creature, with green positioned as the color with the largest Delirium/manifest dread focus in the set; this is reviewer sentiment, not formal tier data [Card Kingdom Blog: 'Manifesting Dread in Duskmourn'; EDHREC: 'Duskmourn Set Review - Green'; Draftsim Limited Review via WebSearch snippet].",
+      "sources": ["blog.cardkingdom.com: Manifesting Dread in Duskmourn", "edhrec.com: Duskmourn Set Review - Green", "draftsim.com: Ultimate Duskmourn Limited Set Review"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Soul Summons", "set": "Fate Reforged", "note": "Original 1W manifest card from the mechanic's debut set; cited as the closest precedent to Manifest Dread's design lineage."},
+    {"name": "Write into Being", "set": "Fate Reforged", "note": "MTG Wiki explicitly names this card as the 1U precedent that Manifest Dread 'resembles' — look at top two, manifest one, put the other on top/bottom (Write into Being) vs. into graveyard (Manifest Dread)."},
+    {"name": "Innocuous Rat", "set": "Duskmourn: House of Horror", "note": "1B common in the same set with 'when this creature dies, manifest dread' — used as the canonical example of the mechanic on MTG Wiki and called out as a top synergy partner on EDHREC."},
+    {"name": "Killer's Mask", "set": "Duskmourn: House of Horror", "note": "Top EDHREC synergy partner with Manifest Dread (per EDHREC og:description meta)."},
+    {"name": "Qarsi Deceiver", "set": "Fate Reforged", "note": "Listed on MTG Wiki as a card that interacts with manifested cards — surfaced as an older bridge for any deck combining classic manifest and manifest dread."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

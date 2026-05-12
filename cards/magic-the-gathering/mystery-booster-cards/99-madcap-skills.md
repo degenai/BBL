@@ -1,7 +1,7 @@
 ---
 name: Madcap Skills
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 99
 rarity: C
 variance: Normal
@@ -14,10 +14,10 @@ tags_hub: ["goblin", "juggler", "fire", "performer", "trickster", "flames", "sho
 tags_filter: ["solo", "mid-shot", "forward-facing", "male-figure", "action-mode", "red-magic", "enchantment", "aura", "menace"]
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/99-madcap-skills.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-10
+market_price: 0.22
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: comedic
 time_of_day: indeterminate
 setting: other
 the_list_source_set: MM3
+artist: Anthony Palumbo
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/99-madcap-skills--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/2/c264c4b1-40b7-4133-80b9-36d6ef60b64d.jpg?1573512198
+flavor_text: The larger the crowd, the harder it is for them to run away.
+oracle_text: Enchant creature\nEnchanted creature gets +3/+0 and has menace.
 ---
 
 # Madcap Skills (Mystery Booster Cards)

@@ -1,0 +1,49 @@
+{
+  "card_name": "Chandra's Pyrohelix",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "120",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Triple-confirmed as Chandra Nalaar: (a) card name uses Wizards' 'Chandra's <Spell>' possessive cycle convention reserved for spells canonically attributed to the planeswalker (17 such cards on Scryfall); (b) Scryfall flavor_text directly attributes the quote to 'Chandra Nalaar, to Dovin Baan'; (c) MTG Wiki character page confirms Chandra Nalaar as a human pyromancer planeswalker / Gatewatch member from Avishkar. Internal Wizards IP — no external crossover risk, so no `## IP` callout block appended (per agent spec: Wizards/Pokemon-internal characters don't need the warning block, only `ip_verified: true`).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Released in War of the Spark (set code WAR) on 2019-05-03, the set centered on Bolas's Eternal army invading Ravnica with all 36 planeswalkers in the set [Scryfall: set page]. Chandra was a frontline Gatewatch combatant; Dovin Baan (the flavor-text target) had defected to Bolas, making this card's quote a direct in-fiction insult mid-battle [Scryfall flavor_text].",
+      "sources": ["Scryfall API", "Scryfall set page"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Aleksi Briclot, one of Chandra's signature artists — Briclot painted the original 2007 'Chandra Nalaar' planeswalker card from Lorwyn as well as 'Chandra's Phoenix', giving this commons-slot spell unusual portrait-grade pedigree [Scryfall: artist credit].",
+      "sources": ["Scryfall API"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Plays in 6,569 Commander decks tracked by EDHREC, frequently alongside Renegade Firebrand, Chandra's Revolution, and Furious Reprisal — a budget red split-damage instant whose appeal is flexibility (2 damage to one target or 1-and-1 split) at common rarity [EDHREC: Chandra's Pyrohelix card page].",
+      "sources": ["EDHREC"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Now that I've dealt with your little toys, I can focus on the real problem: you.\" —Chandra Nalaar, to Dovin Baan [Scryfall flavor_text]. Dovin Baan is the Kaladesh-born planeswalker who betrayed the Gatewatch and built the Thopter constructs ('little toys') Bolas deployed on Ravnica [MTG Wiki: Dovin Baan, via context of WAR set narrative].",
+      "sources": ["Scryfall API", "MTG Wiki"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Part of the 'Chandra's <Spell>' flavor cycle — 17 cards across MTG history (including Chandra's Outrage, Ignition, Phoenix, Embercat, Firemaw, Defeat, Spitfire, Triumph, Revolution, Magmutt, Pyreling, Regulator, Flame Wave, Fury, Incinerator) all canonically depicting or attributed to Chandra Nalaar's pyromancy [Scryfall search: name:\"Chandra's\"].",
+      "sources": ["Scryfall API"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Chandra Nalaar", "set": "Lorwyn (LRW) / multiple reprints", "note": "Original 2007 planeswalker card depicting Chandra; same artist (Aleksi Briclot)"},
+    {"name": "Chandra's Phoenix", "set": "Magic 2012 (M12)", "note": "Sibling card by the same artist depicting Chandra-canon imagery"},
+    {"name": "Chandra's Revolution", "set": "Aether Revolt (AER)", "note": "Cited by EDHREC as a frequent co-deck inclusion with this card"},
+    {"name": "Renegade Firebrand", "set": "Aether Revolt (AER)", "note": "Top EDHREC synergy partner per the Pyrohelix card page"},
+    {"name": "Furious Reprisal", "set": "Multiple printings", "note": "Direct mechanical cousin: red instant that deals 2 damage divided between targets; EDHREC names it as a play-pattern relative"},
+    {"name": "Dovin's Veto", "set": "War of the Spark (WAR)", "note": "Companion-cycle counterpart for Dovin Baan, the flavor-text target named in this card's quote"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Chandra Nalaar",
+    "ip_confidence": "high"
+  }
+}

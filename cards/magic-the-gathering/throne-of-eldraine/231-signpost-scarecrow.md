@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", 
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/231-signpost-scarecrow.png
 average_cost_paid: 0
 market_price: 0.22
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/a/2/a2c5f336-c10
 mood: other
 time_of_day: day
 setting: other
+artist: Jung Park
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/231-signpost-scarecrow--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/2/a2c5f336-c100-4bec-89d5-548f60064d7f.jpg?1572491077
+flavor_text: \"Accursed scarecrow! Sending folk in every direction is the same as sending them nowhere at all.\"\n—Corliss the Wanderer
+oracle_text: Vigilance\n{2}: Add one mana of any color.
 ---
 
 # Signpost Scarecrow (Throne of Eldraine)

@@ -14,10 +14,10 @@ tags_hub: ["fish", "transformation", "curse", "ocean", "underwater", "metamorpho
 tags_filter: ["solo", "close-up", "portrait-mode", "three-quarter", "blue-magic", "enchantment", "aura", "no-architecture"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/51-ichthyomorphosis.png
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price: 0.07
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/e/4/e4763b6c-647
 mood: other
 time_of_day: indeterminate
 setting: ocean
+artist: Campbell White
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/51-ichthyomorphosis--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/4/e4763b6c-6471-41bd-b3e4-785564bcf06f.jpg?1581479371
+flavor_text: Tycthis's military career was a flop.
+oracle_text: Enchant creature\nEnchanted creature loses all abilities and is a blue Fish with base power and toughness 0/1.
 ---
 
 # Ichthyomorphosis (Theros Beyond Death)

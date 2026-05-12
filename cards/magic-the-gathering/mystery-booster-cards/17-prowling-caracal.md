@@ -1,7 +1,7 @@
 ---
 name: Prowling Caracal
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 17
 rarity: C
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "action-pose",
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/17-prowling-caracal.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,10 @@ mood: action
 time_of_day: day
 setting: urban
 the_list_source_set: RNA
+artist: Jonathan Kuo
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/17-prowling-caracal--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/9/09ae21d0-771e-4b04-826e-e352fff31ad6.jpg?1573506208
+flavor_text: A hunter in the city requires the utmost cunning to survive. It must pounce only if the kill is certain, and leave the remains where no one will see.
 ---
 
 # Prowling Caracal (Mystery Booster Cards)

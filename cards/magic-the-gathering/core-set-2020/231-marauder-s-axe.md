@@ -15,9 +15,9 @@ tags_filter: ["no-figure", "object-focus", "mid-shot", "backlit", "still-life", 
 reference_image: cards/_images/magic-the-gathering/core-set-2020/231-marauder-s-axe.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/7/3/73ac5204-69e
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Mitchell Malloy
+art_crop_image: cards/_images/magic-the-gathering/core-set-2020/231-marauder-s-axe--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/3/73ac5204-69ef-491d-9ca8-f522b99f1412.jpg?1592517681
+flavor_text: A sharp axe solves most problems.
+oracle_text: Equipped creature gets +2/+0.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 ---
 
 # Marauder's Axe (Core Set 2020)

@@ -14,10 +14,10 @@ tags_hub: ["tower", "ruin", "island", "mist", "water", "ocean", "dawn", "solitud
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "island-land", "blue-magic", "landscape"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/247-mystic-sanctuary.png
 average_cost_paid: 0
-market_price: 2.4
-market_price_as_of: 2026-05-10
+market_price: 2.42
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/1/7/170e792c-80d
 mood: peaceful
 time_of_day: dawn
 setting: ocean
+artist: Randy Vargas
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/247-mystic-sanctuary--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/7/170e792c-80d5-4775-ad95-37614574ab84.jpg?1613386906
+oracle_text: ({T}: Add {U}.)\nThis land enters tapped unless you control three or more other Islands.\nWhen this land enters untapped, you may put target instant or sorcery card from your graveyard on top of your library.
 ---
 
 # Mystic Sanctuary (Throne of Eldraine)

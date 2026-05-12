@@ -15,9 +15,9 @@ tags_filter: ["land", "no-figure", "scene-mode", "wide-shot", "blue-magic", "red
 reference_image: cards/_images/magic-the-gathering/eternal-masters/245-swiftwater-cliffs.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/e/6ecc7fdf-ff3
 mood: sublime
 time_of_day: day
 setting: mountain
+artist: Eytan Zana
+art_crop_image: cards/_images/magic-the-gathering/eternal-masters/245-swiftwater-cliffs--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/e/6ecc7fdf-ff3e-4c09-9d5c-f08cf986689b.jpg?1580015360
+oracle_text: This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {U} or {R}.
 ---
 
 # Swiftwater Cliffs (Eternal Masters)

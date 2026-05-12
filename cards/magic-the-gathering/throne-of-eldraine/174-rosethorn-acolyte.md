@@ -14,10 +14,10 @@ tags_hub: ["roses", "thorns", "druid", "acolyte", "robed-figure", "hooded-figure
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "female-figure", "green-magic", "creature-elf", "creature-druid", "mana-fixing", "adventure"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/174-rosethorn-acolyte.png
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-10
+market_price: 0.18
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/2/a/2a0d430f-da8
 mood: other
 time_of_day: indeterminate
 setting: forest
+artist: Johannes Voss
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/174-rosethorn-acolyte--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/a/2a0d430f-da84-4752-940c-8457c525aac9.jpg?1572490659
+flavor_text: \"Old battlefields make great gardens. So rich from the blood of the fallen.\"
 ---
 
 # Rosethorn Acolyte (Throne of Eldraine)

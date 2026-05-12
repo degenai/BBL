@@ -14,10 +14,10 @@ tags_hub: ["princess", "royalty", "fairytale", "rabbit", "forest", "young-woman"
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "portrait-mode", "female-figure", "white-magic", "creature-human", "lifegain", "unblockable-conditional"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/7-beloved-princess.png
 average_cost_paid: 0
-market_price: 0.09
-market_price_as_of: 2026-05-10
+market_price: 0.1
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/4/c/4c6ee4eb-70b
 mood: peaceful
 time_of_day: magic-hour
 setting: forest
+artist: Howard Lyon
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/7-beloved-princess--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/c/4c6ee4eb-70b2-4f99-9d54-5caf2d3713be.jpg?1578068487
+flavor_text: Sometimes a gentle slipper can travel where an armored boot's been denied.
+oracle_text: Lifelink\nThis creature can't be blocked by creatures with power 3 or greater.
 ---
 
 # Beloved Princess (Throne of Eldraine)

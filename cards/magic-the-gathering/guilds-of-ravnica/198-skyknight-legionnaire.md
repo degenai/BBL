@@ -15,9 +15,9 @@ tags_filter: ["duo", "mid-shot", "three-quarter", "action-mode", "male-figure", 
 reference_image: cards/_images/magic-the-gathering/guilds-of-ravnica/198-skyknight-legionnaire.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/c/3c27f2ce-702
 mood: action
 time_of_day: day
 setting: urban
+artist: Chase Stone
+art_crop_image: cards/_images/magic-the-gathering/guilds-of-ravnica/198-skyknight-legionnaire--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/c/3c27f2ce-702a-4ec2-a470-982171a9ec73.jpg?1572893806
+flavor_text: Squadrons of skyknights are available for deployment around the clock, capable of reaching any district in the city within minutes.
+oracle_text: Flying, haste
 ---
 
 # Skyknight Legionnaire (Guilds of Ravnica)

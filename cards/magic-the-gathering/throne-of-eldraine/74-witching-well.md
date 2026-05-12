@@ -15,9 +15,9 @@ tags_filter: ["no-figure", "scene-mode", "wide-shot", "no-face", "blue-magic", "
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/74-witching-well.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/2/62d3132f-f89
 mood: grim
 time_of_day: night
 setting: forest
+artist: John Avon
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/74-witching-well--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/2/62d3132f-f897-4a7a-9de4-c6388e83f5ad.jpg?1615508418
+flavor_text: It was built by the Witch of Lochmere. Most of the wishes it grants are its own.
+oracle_text: When this artifact enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)\n{3}{U}, Sacrifice this artifact: Draw two cards.
 ---
 
 # Witching Well (Throne of Eldraine)

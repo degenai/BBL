@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "female-fig
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/103-lampad-of-death-s-vigil.png
 average_cost_paid: 0
 market_price: 0.24
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/e/8/e8c9ada9-ea2
 mood: grim
 time_of_day: night
 setting: other
+artist: Jason Felix
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/103-lampad-of-death-s-vigil--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/8/e8c9ada9-ea25-4a96-a4be-e4cf8f7a014f.jpg?1581479856
+flavor_text: \"Grief-struck, she weeps for each mortal's final death.\"\n—Psemilla, Meletian poet
+oracle_text: {1}, Sacrifice a creature: Each opponent loses 1 life and you gain 1 life.
 ---
 
 # Lampad of Death's Vigil (Theros Beyond Death)

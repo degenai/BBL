@@ -15,9 +15,9 @@ tags_filter: ["duo", "mid-shot", "three-quarter-facing", "action-mode", "no-face
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/72-vantress-paladin.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/5/2/52dd633f-9a0
 mood: sublime
 time_of_day: day
 setting: other
+artist: Lucas Graciano
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/72-vantress-paladin--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/2/52dd633f-9a07-47df-adb1-36013fc2f43a.jpg?1576313470
+flavor_text: \"Someone knows where the king is. They can't expect to keep it a secret from us.\"
+oracle_text: Flying\nAdamant — If at least three blue mana was spent to cast this spell, this creature enters with a +1/+1 counter on it.
 ---
 
 # Vantress Paladin (Throne of Eldraine)

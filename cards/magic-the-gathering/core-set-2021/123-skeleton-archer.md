@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter-facing", "no-face", "black-magi
 reference_image: cards/_images/magic-the-gathering/core-set-2021/123-skeleton-archer.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/f/c/fcb8d414-7f8
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Randy Vargas
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/123-skeleton-archer--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/c/fcb8d414-7f80-4a61-a0f2-0f16bf53e1b9.jpg?1594736387
+flavor_text: \"Soul, flesh, even eyes—none of these are strictly necessary for deadly precision.\"\n—Modriss of Zargoth Fen
+oracle_text: When this creature enters, it deals 1 damage to any target.
 ---
 
 # Skeleton Archer (Core Set 2021)

@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "narrative-mode", "blue-magic
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/74-thirst-for-meaning.png
 average_cost_paid: 0
 market_price: 0.27
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/2/4/2422973d-36e
 mood: sublime
 time_of_day: indeterminate
 setting: other
+artist: Brian Valeza
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/74-thirst-for-meaning--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/4/2422973d-36ee-4b8c-9a47-fcd160aa9f63.jpg?1581479595
+flavor_text: A sip of recollection, an ocean of regrets.
+oracle_text: Draw three cards. Then discard two cards unless you discard an enchantment card.
 ---
 
 # Thirst for Meaning (Theros Beyond Death)

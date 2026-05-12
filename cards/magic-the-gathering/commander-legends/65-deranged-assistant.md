@@ -15,15 +15,20 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "male-figur
 reference_image: cards/_images/magic-the-gathering/commander-legends/65-deranged-assistant.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/7/3/73373421-c43d-4152-818a-55abc85b477a.png?1608909173
 art_match_confidence: high
 needs_manual_review: false
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+artist: Nils Hamm
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/65-deranged-assistant--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/3/73373421-c43d-4152-818a-55abc85b477a.jpg?1608909173
+flavor_text: \"Garl, adjust the slurry dispensers. Garl, fetch more corpses. Garl, quit crying and give me your brain tissue. If he doesn't stop being so rude, I'm quitting.\"
+oracle_text: {T}, Mill a card: Add {C}. (To mill a card, put the top card of your library into your graveyard.)
 ---
 
 # Deranged Assistant (Commander Legends)

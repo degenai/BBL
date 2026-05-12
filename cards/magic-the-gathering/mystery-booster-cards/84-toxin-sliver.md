@@ -1,7 +1,7 @@
 ---
 name: Toxin Sliver
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 84
 rarity: R
 variance: Normal
@@ -14,10 +14,10 @@ tags_hub: ["sliver", "monster", "parasite", "claws", "venom", "poison", "stinger
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "no-face", "creature-sliver", "black-magic", "centered-composition", "scene-mode"]
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/84-toxin-sliver.png
 average_cost_paid: 0
-market_price: 1.82
-market_price_as_of: 2026-05-10
+market_price: 1.83
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: horror
 time_of_day: indeterminate
 setting: dungeon
 the_list_source_set: LGN
+artist: Lars Grant-West
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/84-toxin-sliver--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/7/c7bdf2e4-ff7c-4be2-a5a0-d56be820918e.jpg?1573510688
+flavor_text: It doesn't need to use its venom—it just needs you to know it can.
+oracle_text: Whenever a Sliver deals combat damage to a creature, destroy that creature. It can't be regenerated.
 ---
 
 # Toxin Sliver (Mystery Booster Cards)

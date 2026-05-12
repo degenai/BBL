@@ -14,10 +14,10 @@ tags_hub: ["weapons", "armor", "shields", "helmets", "swords", "spears", "ritual
 tags_filter: ["no-figure", "no-face", "still-life", "mid-shot", "scene-mode", "monochrome-palette", "colorless-magic", "artifact", "equipment"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/299-armory-of-iroas.png
 average_cost_paid: 0
-market_price: 0.26
-market_price_as_of: 2026-05-10
+market_price: 0.28
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/7/0/703a03ac-5bb
 mood: sublime
 time_of_day: indeterminate
 setting: other
+artist: Yeong-Hao Han
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/299-armory-of-iroas--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/0/703a03ac-5bb5-4e36-ab9b-a5c007ffc03d.jpg?1608911321
+flavor_text: Each weapon is as unique as the champion who carried it to battle.
+oracle_text: Whenever equipped creature attacks, put a +1/+1 counter on it.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 ---
 
 # Armory of Iroas (Commander Legends)

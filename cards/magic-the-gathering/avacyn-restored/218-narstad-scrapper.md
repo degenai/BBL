@@ -15,9 +15,9 @@ tags_filter: ["solo", "forward-facing", "mid-shot", "portrait-mode", "no-face", 
 reference_image: cards/_images/magic-the-gathering/avacyn-restored/218-narstad-scrapper.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/f/8/f808ed9b-95a
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Steven Belledin
+art_crop_image: cards/_images/magic-the-gathering/avacyn-restored/218-narstad-scrapper--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/8/f808ed9b-95ac-4069-bdca-b100bc816b5b.jpg?1592709584
+flavor_text: \"Finally, the principles of corpse animation applied to bloodless materials!\"\n—Ludevic, necro-alchemist
+oracle_text: {2}: This creature gets +1/+0 until end of turn.
 ---
 
 # Narstad Scrapper (Avacyn Restored)

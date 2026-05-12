@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", 
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/102-reaper-of-night.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/4/d/4dc774b4-3f7
 mood: grim
 time_of_day: night
 setting: void
+artist: Jeff Simpson
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/102-reaper-of-night--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/d/4dc774b4-3f70-4351-b1b8-8a0193cb3a50.jpg?1572490223
+oracle_text: Whenever this creature attacks, if defending player has two or fewer cards in hand, it gains flying until end of turn.
 ---
 
 # Reaper of Night (Throne of Eldraine)

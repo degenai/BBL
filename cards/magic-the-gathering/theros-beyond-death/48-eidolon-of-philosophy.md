@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "no-face", "bl
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/48-eidolon-of-philosophy.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/d/2/d2897635-b38
 mood: sublime
 time_of_day: day
 setting: other
+artist: Adam Paquette
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/48-eidolon-of-philosophy--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/2/d2897635-b387-485d-932f-5655244a381f.jpg?1581479342
+flavor_text: \"And what did Erekastos teach us is the nature of the soul?\"
+oracle_text: {6}{U}, Sacrifice this creature: Draw three cards.
 ---
 
 # Eidolon of Philosophy (Theros Beyond Death)

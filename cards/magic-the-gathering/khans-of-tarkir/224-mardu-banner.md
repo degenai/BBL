@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "object-focus", "mid-shot", "no-face", "artifact", "
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/224-mardu-banner.png
 average_cost_paid: 0
 market_price: 0.16
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/f/e/fe10c56d-a8e
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Daniel Ljunggren
+art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/224-mardu-banner--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/e/fe10c56d-a8e1-495d-a03a-0b920b44182f.jpg?1562796606
+flavor_text: Speed to strike, fury to smash.
+oracle_text: {T}: Add {R}, {W}, or {B}.\n{R}{W}{B}, {T}, Sacrifice this artifact: Draw a card.
 ---
 
 # Mardu Banner (Khans of Tarkir)

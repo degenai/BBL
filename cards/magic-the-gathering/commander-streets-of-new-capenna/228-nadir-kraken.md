@@ -2,7 +2,7 @@
 name: Nadir Kraken
 game: Magic: The Gathering
 set: Commander: Streets of New Capenna
-collector_number: 228
+collector_number: 
 rarity: R
 variance: Normal
 grade: Ungraded
@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide-shot", "scene-mode", "no-figure", "creature-kraken",
 reference_image: cards/_images/magic-the-gathering/commander-streets-of-new-capenna/228-nadir-kraken.png
 average_cost_paid: 0
 market_price: 0.39
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/7/9/793f0ac2-39b
 mood: grim
 time_of_day: indeterminate
 setting: ocean
+artist: Dan Murayama Scott
+art_crop_image: cards/_images/magic-the-gathering/commander-streets-of-new-capenna/228-nadir-kraken--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/9/793f0ac2-39b8-4cb2-aeac-f901bf5bd7ea.jpg?1673483962
+oracle_text: Whenever you draw a card, you may pay {1}. If you do, put a +1/+1 counter on this creature and create a 1/1 blue Tentacle creature token.
 ---
 
 # Nadir Kraken (Commander: Streets of New Capenna)

@@ -15,15 +15,20 @@ tags_filter: ["duo", "wide-shot", "scene-mode", "no-face", "land", "basic-land-c
 reference_image: cards/_images/magic-the-gathering/aetherdrift/254-dismal-backwater.png
 average_cost_paid: 0
 market_price: 0.16
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-10
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/f/2/f20aef3f-79f6-4357-8631-1d141f437def.png?1753618484
 art_match_confidence: high
 needs_manual_review: false
 mood: grim
 time_of_day: twilight
 setting: other
+artist: Wayne Wu
+art_crop_image: cards/_images/magic-the-gathering/aetherdrift/254-dismal-backwater--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/2/f20aef3f-79f6-4357-8631-1d141f437def.jpg?1753618484
+flavor_text: The doomed souls of the Speed Demons race in uneasy unity, each one hoping to escape their own fate.
+oracle_text: This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {U} or {B}.
 ---
 
 # Dismal Backwater (Aetherdrift)

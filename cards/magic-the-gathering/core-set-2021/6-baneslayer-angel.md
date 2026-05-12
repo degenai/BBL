@@ -14,10 +14,10 @@ tags_hub: ["angel", "demon", "wings", "sword", "armor", "smiting", "good-vs-evil
 tags_filter: ["duo", "mid-shot", "action-mode", "three-quarter-facing", "female-figure", "white-magic", "creature-angel", "flying", "first-strike", "lifelink", "protection", "mythic-rarity"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/6-baneslayer-angel.png
 average_cost_paid: 0
-market_price: 3.34
-market_price_as_of: 2026-05-10
+market_price: 3.28
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/4/b/4bd3014b-94b
 mood: sublime
 time_of_day: day
 setting: mountain
+artist: Greg Staples
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/6-baneslayer-angel--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/b/4bd3014b-94bb-4a9f-92cf-239a2dcc7e97.jpg?1594734758
+flavor_text: Some angels protect the meek and innocent. Others seek out and smite evil wherever it lurks.
+oracle_text: Flying, first strike, lifelink, protection from Demons and from Dragons
 ---
 
 # Baneslayer Angel (Core Set 2021)

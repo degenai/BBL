@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "mid-shot", "scene-mode", "forward-facing", "no-face
 reference_image: cards/_images/magic-the-gathering/eternal-masters/231-relic-of-progenitus.png
 average_cost_paid: 0
 market_price: 5.89
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/4/3/436cd66c-062
 mood: peaceful
 time_of_day: day
 setting: forest
+artist: Jean-Sébastien Rossbach
+art_crop_image: cards/_images/magic-the-gathering/eternal-masters/231-relic-of-progenitus--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/3/436cd66c-0622-43cd-8748-af4d21a2db3f.jpg?1580015265
+flavor_text: Elves believe the hydra-god Progenitus sleeps beneath Naya, feeding on forgotten magics.
+oracle_text: {T}: Target player exiles a card from their graveyard.\n{1}, Exile this artifact: Exile all graveyards. Draw a card.
 ---
 
 # Relic of Progenitus (Eternal Masters)

@@ -15,9 +15,9 @@ tags_filter: ["solo", "forward-facing", "mid-shot", "portrait-mode", "no-face", 
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/216-clockwork-servant.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/c/3/c3af5942-d17
 mood: other
 time_of_day: night
 setting: indoor
+artist: David Palumbo
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/216-clockwork-servant--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/3/c3af5942-d171-401a-9444-3b59c579e4db.jpg?1572490948
+flavor_text: Some are annoyed by the constant ticking as they clean the cobbles, but to the castle custodians, there's no sweeter sound.
+oracle_text: Adamant — When this creature enters, if at least three mana of the same color was spent to cast it, draw a card.
 ---
 
 # Clockwork Servant (Throne of Eldraine)

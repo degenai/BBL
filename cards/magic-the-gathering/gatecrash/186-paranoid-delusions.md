@@ -15,9 +15,9 @@ tags_filter: ["solo", "close-up", "narrative-mode", "three-quarter-facing", "no-
 reference_image: cards/_images/magic-the-gathering/gatecrash/186-paranoid-delusions.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/a/f/af406038-91c
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+artist: Christopher Moeller
+art_crop_image: cards/_images/magic-the-gathering/gatecrash/186-paranoid-delusions--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/f/af406038-91ce-41fe-8b6d-55408a96d0a2.jpg?1561841905
+oracle_text: Target player mills three cards.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)
 ---
 
 # Paranoid Delusions (Gatecrash)

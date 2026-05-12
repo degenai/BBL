@@ -1,7 +1,7 @@
 ---
 name: Sunset Pyramid
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 166
 rarity: U
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["no-figure", "wide-shot", "scene-mode", "artifact", "colorless", "
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/166-sunset-pyramid.png
 average_cost_paid: 0
 market_price: 0.21
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: sublime
 time_of_day: sunset
 setting: desert
 the_list_source_set: HOU
+artist: Jonas De Ro
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/166-sunset-pyramid--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/3/93165cd6-7a6b-40e6-83fa-97575a03bbb5.jpg?1573517498
+flavor_text: Decades to build. Hours to demolish.
+oracle_text: This artifact enters with three brick counters on it.\n{2}, {T}, Remove a brick counter from this artifact: Draw a card.\n{2}, {T}: Scry 1.
 ---
 
 # Sunset Pyramid (Mystery Booster Cards)

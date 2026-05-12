@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide-shot", "scene-mode", "faces-away", "no-face", "green
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/195-relentless-pursuit.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/7/5/752b9560-b1d
 mood: sublime
 time_of_day: indeterminate
 setting: other
+artist: Magali Villeneuve
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/195-relentless-pursuit--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/5/752b9560-b1d6-441c-8bc8-bf6988112d25.jpg?1581480858
+flavor_text: Calix was patient, steadily following Elspeth until their destined confrontation.
+oracle_text: Reveal the top four cards of your library. You may put a creature card and/or a land card from among them into your hand. Put the rest into your graveyard.
 ---
 
 # Relentless Pursuit (Theros Beyond Death)

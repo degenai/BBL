@@ -1,0 +1,50 @@
+{
+  "edge_id": "okos-hospitality--eld309-oko-the-trickster",
+  "shape": "1:1",
+  "category": "named-character-identity",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/the-list/309-269-oko-the-trickster.md",
+      "name": "Oko, the Trickster (The List / ELD-309)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/throne-of-eldraine/312-oko-s-hospitality.md",
+      "name": "Oko's Hospitality (Throne of Eldraine / ELD-312)"
+    }
+  ],
+  "description": "Same character (Oko) within the same product line. Both cards are exclusives of the Throne of Eldraine Planeswalker Deck precon (ELD-309 and ELD-312). Oko's Hospitality tutors for 'Oko, the Trickster' by name in its rules text and is flavor-signed '—Oko'; its art shows Oko in the canonical stag/antler shapeshift form from the Wildered Quest novella, while ELD-309 shows him in his standard antlered-fey form.",
+  "citations": [
+    "[Scryfall: ELD-309 oracle text + ELD-312 oracle text and flavor_text]",
+    "[MTG Wiki: Throne of Eldraine: The Wildered Quest]",
+    "[MTG Wiki: Oko]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/the-list/309-269-oko-the-trickster.md",
+    "cards/magic-the-gathering/throne-of-eldraine/312-oko-s-hospitality.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    {
+      "candidate": "WAR uncommon planeswalker cycle (Angrath, Captain of Chaos + Kiora, Behemoth Beckoner)",
+      "category": "designer-confirmed-cycle",
+      "why_skipped": "Only 2 candidate cards from the 20-card cycle are in this batch. Edge would be redundant once the cycle node exists; flagged as a Mr. Nodeley candidate for a future pass once a third batch member surfaces (Kasmina or Vivien at #196 / #175 already cited as sibling members in Kiora's Related cards)."
+    },
+    {
+      "candidate": "Despark (Liliana commanding God-Eternals) story-spotlight cluster",
+      "category": "story-spotlight",
+      "why_skipped": "Story-spotlight partners (God-Eternal Oketra/Bontu, Liliana Dreadhorde General) are referenced in Despark's Related cards but none are trivia-passed in this batch. No second endpoint available."
+    },
+    {
+      "candidate": "Vito, Thorn of the Dusk Rose ↔ Elenda, the Dusk Rose (saint-heretic pair)",
+      "category": "saint-heretic-pair",
+      "why_skipped": "Elenda is named in Vito's Related cards as the canonical saint Vito broke with, but Elenda is not in our enriched corpus for this batch. Strong candidate for a future pass if Elenda surfaces."
+    },
+    {
+      "candidate": "Enchanted Carriage Cinderella-cycle (Turn into a Pumpkin / Fairy Guidemother / Midnight Clock)",
+      "category": "designer-confirmed-cycle",
+      "why_skipped": "Designer-confirmed cycle per Rosewater's 'More Odds & Ends: Throne of Eldraine', but only one cycle member (Enchanted Carriage) is in this enriched batch. Flagged as a Mr. Nodeley candidate for a future pass."
+    }
+  ]
+}

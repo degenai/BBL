@@ -15,9 +15,9 @@ tags_filter: ["no-figure", "no-face", "close-up", "object-focus", "artifact", "c
 reference_image: cards/_images/magic-the-gathering/core-set-2019/243-rogue-s-gloves.png
 average_cost_paid: 0
 market_price: 0.3
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/1/c/1c3c7d24-7d5
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+artist: Cyril Van Der Haegen
+art_crop_image: cards/_images/magic-the-gathering/core-set-2019/243-rogue-s-gloves--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/c/1c3c7d24-7d5c-49de-b9f8-35c6d6c8c52a.jpg?1562300764
+flavor_text: Thievery requires subtlety, from the beginning of the heist to the end.
+oracle_text: Whenever equipped creature deals combat damage to a player, you may draw a card.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 ---
 
 # Rogue's Gloves (Core Set 2019)

@@ -1,7 +1,7 @@
 ---
 name: Drana, Kalastria Bloodchief
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 112
 rarity: R
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter-facing", "female-figure", "port
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/112-drana-kalastria-bloodchief.png
 average_cost_paid: 0
 market_price: 0.5
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: grim
 time_of_day: indeterminate
 setting: indoor
 the_list_source_set: C17
+artist: Mike Bierek
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/112-drana-kalastria-bloodchief--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/f/8f6bbbd5-ecce-48d7-9192-91ed9ceb7fa1.jpg?1580561399
+flavor_text: \"If our former masters would have us kneel again, they shall feel our defiance slashed across their membranes.\"
+oracle_text: Flying\n{X}{B}{B}: Target creature gets -0/-X until end of turn and Drana gets +X/+0 until end of turn.
 ---
 
 # Drana, Kalastria Bloodchief (Mystery Booster Cards)

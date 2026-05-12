@@ -14,10 +14,10 @@ tags_hub: ["gemstone", "ruby", "fire", "treasure", "hand", "artifact-object", "o
 tags_filter: ["solo", "close-up", "portrait-mode", "no-face", "single-hand", "artifact", "mana-rock", "colorless-magic"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/309-fire-diamond.png
 average_cost_paid: 0
-market_price: 0.39
-market_price_as_of: 2026-05-10
+market_price: 0.4
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/f/3f65f1fa-419
 mood: sublime
 time_of_day: indeterminate
 setting: dungeon
+artist: Lindsey Look
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/309-fire-diamond--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/f/3f65f1fa-4196-40ba-8ca3-e68560fef392.jpg?1608911413
+flavor_text: The essence of flame to stoke the spirit.
+oracle_text: This artifact enters tapped.\n{T}: Add {R}.
 ---
 
 # Fire Diamond (Commander Legends)

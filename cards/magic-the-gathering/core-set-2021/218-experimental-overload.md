@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "wide-shot", "scene-mode", "blue-magic", "red-magic"
 reference_image: cards/_images/magic-the-gathering/core-set-2021/218-experimental-overload.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/f/6f1bace4-a32
 mood: action
 time_of_day: indeterminate
 setting: indoor
+artist: Lie Setiawan
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/218-experimental-overload--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/f/6f1bace4-a327-4eb6-a6ef-8394e76c06b7.jpg?1594737377
+flavor_text: Explosions aren't necessarily failures, just a different kind of success.
+oracle_text: Create an X/X blue and red Weird creature token, where X is the number of instant and sorcery cards in your graveyard. Then you may return an instant or sorcery card from your graveyard to your hand. Exile Experimental Overload.
 ---
 
 # Experimental Overload (Core Set 2021)

@@ -15,15 +15,20 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "no-face", "ar
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/242-prismite.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/4/0/40475e96-0283-445f-97fb-1da008707399.png?1559898532
 art_match_confidence: high
 needs_manual_review: false
 mood: grim
 time_of_day: indeterminate
 setting: dungeon
+artist: Alayna Danner
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/242-prismite--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/0/40475e96-0283-445f-97fb-1da008707399.jpg?1559898532
+flavor_text: It didn't budge when the portal opened, nor when the ancient gods emerged. It came to life only when all ten guilds came together to face a common threat.
+oracle_text: {2}: Add one mana of any color.
 ---
 
 # Prismite (War of the Spark)

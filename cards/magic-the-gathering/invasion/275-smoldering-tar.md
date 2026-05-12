@@ -2,7 +2,7 @@
 name: Smoldering Tar
 game: Magic: The Gathering
 set: Invasion
-collector_number: 275
+collector_number: 
 rarity: U
 variance: Normal
 grade: Ungraded
@@ -15,15 +15,19 @@ tags_filter: ["solo", "mid-shot", "portrait-mode", "forward-facing", "enchantmen
 reference_image: cards/_images/magic-the-gathering/invasion/275-smoldering-tar.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 mood: grim
 time_of_day: indeterminate
 setting: indoor
 reference_image_source_url: https://cards.scryfall.io/png/front/f/c/fcdc55c0-c8ac-49d5-969b-9bf0ee8e696c.png?1562946036
 art_match_confidence: high
 needs_manual_review: false
+artist: David Day
+art_crop_image: cards/_images/magic-the-gathering/invasion/275-smoldering-tar--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/c/fcdc55c0-c8ac-49d5-969b-9bf0ee8e696c.jpg?1562946036
+oracle_text: At the beginning of your upkeep, target player loses 1 life.\nSacrifice this enchantment: It deals 4 damage to target creature. Activate only as a sorcery.
 ---
 
 # Smoldering Tar (Invasion)

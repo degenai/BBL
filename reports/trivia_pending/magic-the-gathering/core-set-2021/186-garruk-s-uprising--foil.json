@@ -1,0 +1,53 @@
+{
+  "card_name": "Garruk's Uprising",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "186",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure confirmed as Garruk Wildspeaker, the warrior-druid planeswalker. Identity is canonical by Wizards-internal naming convention: the card title 'Garruk's Uprising' explicitly names the character, the M21 set features him as one of five planeswalker-deck faces (Basri, Teferi, Liliana, Chandra, Garruk), and the depicted figure (burly bearded man in green-and-brown leathers, axe, accompanied by a beast in a forest) matches MTG Wiki's canonical description of Garruk (human druid, warrior-druid abilities, special affinity with animals and beasts). The M21 print specifically depicts him in his cleansed/'Unleashed' phase — Wizards' product page notes Garruk 'had just lost his curse in Throne of Eldraine and was back to mono-green' for M21. This is a Wizards-internal named character, not an external-IP crossover, so no `## IP` callout block is required. Frontmatter `ip_verified` flipped to true; `ip_confidence` was already `high` and is retained.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Garruk's Uprising prints in Core Set 2021 (set code M21, released 2020-07-03). M21 has no story spotlights and no overarching narrative — its theme is 'Dogs vs. Cats' and Garruk was included because 'he had just lost his curse in Throne of Eldraine and was back to mono-green. It felt right to have Garruk back in the core set' per Wizards' M21 product overview. [Scryfall: m21/186] [Wizards: 'Core Set 2021 Product Overview', 2020-06-05] [Wizards: Mark Rosewater, 'Need I Say Core', 2020-06-08]",
+      "sources": ["Scryfall: m21/186", "Wizards: Core Set 2021 Product Overview 2020-06-05", "Wizards: Mark Rosewater Need I Say Core 2020-06-08"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The 'Uprising' framing references Garruk's character arc: cursed by Liliana Vess's Chain Veil in an Onakke temple on Shandalar (warping his summoning into demonic black-mana hunting), he was eventually cleansed by the Cauldron of Eternity in the Throne of Eldraine storyline, returning him to mono-green and his beasts in M21. His full canonical arc reads Wildspeaker (Lorwyn-era) -> Cursed/Veil-Cursed (post-Liliana) -> Apex Predator (M15) -> Unleashed (M21, post-cleansing). [MTG Wiki: Garruk] [MTG Wiki: Chain Veil]",
+      "sources": ["MTG Wiki: Garruk", "MTG Wiki: Chain Veil"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Wisnu Tan; uncommon enchantment at {2}{G}. Previewed 2020-06-09 by Santiago Bigatti. The set has two collector-number prints of this card — #186 (standard frame) and #308 (showcase/alt frame) — both same art and rules text per Scryfall and Gatherer. [Scryfall: m21/186] [Gatherer: multiverseid=485509]",
+      "sources": ["Scryfall: m21/186", "Gatherer: multiverseid=485509"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC ranks Garruk's Uprising at #92 overall and lists it as the top-ranked green enchantment with roughly 17% inclusion across approximately 698K of 4.06M tracked decks. In Beast-tribal decks specifically, inclusion climbs to ~79% with 62% synergy. The 'power 4 or greater' threshold is trivial to meet in green, and the trample rider adds evasion to creatures that don't already have it — EDHREC's M21 green set review compared it to Sylvan Library as a snowballing value enchantment. [Scryfall: edhrec_rank=92] [EDHREC: garruks-uprising] [EDHREC: 'Core 2021 Set Review - Green']",
+      "sources": ["Scryfall: m21/186", "EDHREC: garruks-uprising", "EDHREC: Core 2021 Set Review - Green"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Reprint history confirms staple status: New Capenna Commander (NCC #292), Forgotten Realms Commander, Wilds of Eldraine 'Enchanting Tales' bonus sheet, Lorwyn Eclipsed Commander (ECC #109), and Foundations (FDN #220). Reprint frequency in Commander-format products is Wizards' usual signal that a card is a Commander format pillar. [Scryfall: prints for oracleid 3127ae9b-a7a7-43ec-89d7-688f8445b33d]",
+      "sources": ["Scryfall: prints index"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The M21 #186 print has no flavor text — Scryfall returns no flavor_text field for this card. Card is mechanically focused; the narrative work is done by the title 'Garruk's Uprising' and the art itself rather than a quoted line. [Scryfall: m21/186]",
+      "sources": ["Scryfall: m21/186"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Garruk, Unleashed", "set": "Core Set 2021 (M21 #183)", "note": "The M21 planeswalker card of the same Garruk in the same post-curse phase — the obvious pairing; same art era, same character beat."},
+    {"name": "Garruk's Harbinger", "set": "Core Set 2021 (M21 #185)", "note": "Adjacent M21 collector number, same character's named-companion creature; uncommon green 3/3 with power-4 synergy."},
+    {"name": "Garruk, Savage Herald", "set": "Core Set 2021 (M21 #336)", "note": "The Garruk planeswalker-deck face for M21 — same character, beginner-product version of the same Unleashed-phase Garruk."},
+    {"name": "Garruk, Caller of Beasts", "set": "Magic 2014 (M14 #172)", "note": "Earlier mono-green Garruk planeswalker with the same power-4-matters / beast-tribal mechanical identity; the design ancestor of Uprising's trigger condition."},
+    {"name": "Garruk, Apex Predator", "set": "Magic 2015 (M15 #210)", "note": "The five-color (BUG-coded but printed as all-color) Veil-cursed Garruk; the immediate prior arc beat before he was cleansed for the M21 'Unleashed' version."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -15,15 +15,20 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "female-fig
 reference_image: cards/_images/magic-the-gathering/commander-legends/8-anointer-of-valor.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/d/6/d66fcbb8-0fa5-48a9-b40c-d5a12f09a858.png?1612228481
 art_match_confidence: high
 needs_manual_review: false
 mood: sublime
 time_of_day: indeterminate
 setting: other
+artist: Antonio José Manzanedo
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/8-anointer-of-valor--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/6/d66fcbb8-0fa5-48a9-b40c-d5a12f09a858.jpg?1612228481
+flavor_text: Light streaked down from the heavens, and a voice whispered in the soldier's ear: \"You shall not fall today.\"
+oracle_text: Flying\nWhenever a creature attacks, you may pay {3}. When you do, put a +1/+1 counter on that creature.
 ---
 
 # Anointer of Valor (Commander Legends)

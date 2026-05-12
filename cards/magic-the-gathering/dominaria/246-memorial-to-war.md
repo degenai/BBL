@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "wide-shot", "scene-mode", "landscape", "land", "red
 reference_image: cards/_images/magic-the-gathering/dominaria/246-memorial-to-war.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/5/3/53920ed7-fc9
 mood: grim
 time_of_day: twilight
 setting: mountain
+artist: Richard Wright
+art_crop_image: cards/_images/magic-the-gathering/dominaria/246-memorial-to-war--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/3/53920ed7-fc9a-4b50-85c8-d62de05b2390.jpg?1562735726
+oracle_text: This land enters tapped.\n{T}: Add {R}.\n{4}{R}, {T}, Sacrifice this land: Destroy target land.
 ---
 
 # Memorial to War (Dominaria)

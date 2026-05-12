@@ -15,15 +15,20 @@ tags_filter: ["solo", "mid-shot", "three-quarter-facing", "action-mode", "male-f
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/118-chainwhip-cyclops.png
 average_cost_paid: 0
 market_price: 0.02
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/d/2/d2f18df2-5910-4c5d-8b04-6fe5d04e8150.png?1557576635
 art_match_confidence: high
 needs_manual_review: false
 mood: action
 time_of_day: indeterminate
 setting: other
+artist: Johann Bodin
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/118-chainwhip-cyclops--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/2/d2f18df2-5910-4c5d-8b04-6fe5d04e8150.jpg?1557576635
+flavor_text: \"You say this Tenth District, not Rubblebelt. But where smash happen, that Rubblebelt. Rubblebelt state of mind.\"\n—Urgdar, cyclops philosopher
+oracle_text: {3}{R}: Target creature can't block this turn.
 ---
 
 # Chainwhip Cyclops (War of the Spark)

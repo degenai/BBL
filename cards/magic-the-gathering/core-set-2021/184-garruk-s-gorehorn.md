@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "portrait-mode", "no-face-hum
 reference_image: cards/_images/magic-the-gathering/core-set-2021/184-garruk-s-gorehorn.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/9/3928bbce-87b
 mood: grim
 time_of_day: day
 setting: forest
+artist: Svetlin Velinov
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/184-garruk-s-gorehorn--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/9/3928bbce-87b7-4b28-9af4-20362935c909.jpg?1594736993
+flavor_text: \"It certainly takes after its master: big and brutish, and you can smell it from a mile away.\"\n—Liliana Vess
 ---
 
 # Garruk's Gorehorn (Core Set 2021)

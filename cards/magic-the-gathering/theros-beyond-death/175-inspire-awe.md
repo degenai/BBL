@@ -15,9 +15,9 @@ tags_filter: ["group", "wide-shot", "forward-facing", "scene-mode", "green-magic
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/175-inspire-awe.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/2/b23c8b5a-2e1
 mood: sublime
 time_of_day: day
 setting: forest
+artist: Ekaterina Burmak
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/175-inspire-awe--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/2/b23c8b5a-2e18-4dd8-b236-5b1fd356f867.jpg?1581480652
+flavor_text: Nylea appeared amid the howl of a hundred beasts.
+oracle_text: Prevent all combat damage that would be dealt this turn except combat damage that would be dealt by enchanted creatures and enchantment creatures. Scry 2.
 ---
 
 # Inspire Awe (Theros Beyond Death)

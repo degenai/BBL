@@ -1,0 +1,50 @@
+{
+  "card_name": "Jace's Triumph",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "55",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Jace's Triumph' plus oracle text 'If you control a Jace planeswalker, draw three cards instead' directly names the depicted figure as Jace Beleren. MTG Wiki and Scryfall both confirm Jace Beleren is the blue Mind Sculptor / Living Guildpact planeswalker, and the WAR narrative places him on Ravnica fighting Bolas. Jace is an internal Wizards-original character (no external-IP risk), so frontmatter ip_verified flips to true and no IP callout block is required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Part of a 5-card 'Triumph' cycle in War of the Spark (Gideon WAR #15, Jace #55, Liliana #98, Chandra #121, Nissa #170) — one per Gatewatch founder, one per color, all uncommon, all illustrated by Kieran Yanner, all using the same 'if you control a [character] planeswalker' upgrade clause. The cycle is the in-set callback to the 'Defeat' cycle from Hour of Devastation (2017), where the same five Gatewatch members each had a low-cost spell that punished their named opposite — together the two cycles bookend the Gatewatch's arc against Bolas [Scryfall set:war name:Triumph; Scryfall set:hou name:Defeat].",
+      "sources": ["Scryfall API (set:war name:Triumph search)", "Scryfall API (set:hou name:Defeat search)", "WebSearch snippet: cardgameduelist.com 'Review War of the Spark Mechanics'"]
+    },
+    {
+      "category": "design",
+      "text": "Flavor text on Jace's Triumph reads `\"His triumph was not in outsmarting Bolas's plan, but in understanding why ultimate power is self-defeating.\"` All five Triumph cards use the same templated 'X's triumph came not from Y, but from Z' construction (Gideon: not victory but salvation of survivors; Liliana: not escaping death but claiming independence; Chandra: not perfection but rejecting it; Nissa: not destroying the unnatural but fostering life) — a flavor cycle as deliberate as the mechanical cycle [Scryfall flavor_text fields, all five cards].",
+      "sources": ["Scryfall (flavor_text on each of the 5 Triumph cards)"]
+    },
+    {
+      "category": "design",
+      "text": "Uncommon sorcery, mana cost {2}{U}, illustrator Kieran Yanner (who illustrated all five Triumph cards as a unified visual cycle). Released 2019-05-03 as a War of the Spark booster card AND included as a 1-of in the Jace, Arcane Strategist Planeswalker Deck [Scryfall; Wizards 'War of the Spark Planeswalker Deck Lists', 2019-04-18].",
+      "sources": ["Scryfall", "Wizards: War of the Spark Planeswalker Deck Lists, 2019-04-18"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Plain text: 'Draw two cards. If you control a Jace planeswalker, draw three cards instead.' Functions as a flexible card-draw spell that becomes a strict Concentrate-on-roids when paired with any Jace walker on board. Scryfall edhrec_rank ~18,213 (mid-niche). EDHREC reports it in roughly 78% of dedicated Jace-tribal lists (WebSearch snippet) but it sees little play outside Jace-themed Commander/Brawl decks — the upgrade trigger is too narrow to make it a generic blue draw spell.",
+      "sources": ["Scryfall (oracle_text, edhrec_rank)", "WebSearch snippet: EDHREC inclusion 154/197 Jace decks"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In-fiction context: during the War of the Spark, Jace was trapped on Ravnica by Bolas's Immortal Sun and lost his Living Guildpact powers when Bolas's Planar Bridge disrupted the leylines that fed the Guildpact's magic. The card depicts a story-adjacent moment — Jace casting mind-magic during the Ravnica defense — rather than a Story Spotlight scene (Scryfall returns story_spotlight: false; the WAR Story Spotlight slot for Jace's narrative beat was 'No Escape' WAR #54-adjacent, not this card) [MTG Wiki: Jace Beleren, War of the Spark section; MTG Wiki: War of the Spark, Story Spotlights list].",
+      "sources": ["MTG Wiki: Jace Beleren", "MTG Wiki: War of the Spark (Story Spotlight list)", "Scryfall (story_spotlight field)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Jace's Defeat", "set": "Hour of Devastation", "note": "Direct in-set mirror — same character, same 'upgrade if planeswalker matches' templating, same mana color; Triumph cycle is the explicit callback to the Defeat cycle two years later"},
+    {"name": "Gideon's Triumph", "set": "War of the Spark", "note": "Sibling Triumph-cycle card (white, #15)"},
+    {"name": "Liliana's Triumph", "set": "War of the Spark", "note": "Sibling Triumph-cycle card (black, #98)"},
+    {"name": "Chandra's Triumph", "set": "War of the Spark", "note": "Sibling Triumph-cycle card (red, #121)"},
+    {"name": "Nissa's Triumph", "set": "War of the Spark", "note": "Sibling Triumph-cycle card (green, #170)"},
+    {"name": "Jace, Arcane Strategist", "set": "War of the Spark", "note": "Face card of the WAR Jace Planeswalker Deck — the deck Jace's Triumph ships inside as a 1-of"},
+    {"name": "Concentrate", "set": "various", "note": "Mechanical template ancestor: {2}{U} sorcery, 'Draw three cards', the no-conditional baseline Jace's Triumph riffs on"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

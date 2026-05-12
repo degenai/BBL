@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter-facing", "action-mode", "male-f
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/84-tazeem-roilmage--foil.png
 average_cost_paid: 0
 market_price: 0.21
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/f/6f222fb7-375
 mood: sublime
 time_of_day: day
 setting: other
+artist: Manuel Castañón
+art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/84-tazeem-roilmage--foil--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/f/6f222fb7-375d-4ee2-9ff6-bd71f63ab31a.jpg?1604195025
+flavor_text: \"The Roil can be directed. Observe.\"
+oracle_text: Kicker {4} (You may pay an additional {4} as you cast this spell.)\nWhen this creature enters, if it was kicked, return target instant or sorcery card from your graveyard to your hand.
 ---
 
 # Tazeem Roilmage (Zendikar Rising)

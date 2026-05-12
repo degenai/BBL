@@ -14,10 +14,10 @@ tags_hub: ["horror", "shadow", "smoke", "storm", "giant", "darkness", "despair",
 tags_filter: ["solo", "wide-shot", "scene-mode", "no-face", "forward-facing", "creature-horror", "black-magic", "monochrome-palette"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/100-gloom-sower.png
 average_cost_paid: 0
-market_price: 0.13
-market_price_as_of: 2026-05-10
+market_price: 0.14
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/a/1/a1b4f7ec-ea2
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Chris Cold
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/100-gloom-sower--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/1/a1b4f7ec-ea2e-4d90-98cd-0c92bd9f64c1.jpg?1594736141
+flavor_text: \"First, the darkness fell. Terror came next. After that, only despair remained.\"\n—*The Tragedy of Morein*
+oracle_text: Whenever this creature becomes blocked by a creature, that creature's controller loses 2 life and you gain 2 life.
 ---
 
 # Gloom Sower (Core Set 2021)

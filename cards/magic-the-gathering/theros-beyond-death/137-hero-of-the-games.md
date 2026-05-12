@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter-facing", "male-figure", "scene-
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/137-hero-of-the-games.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/c/d/cdb7c7a6-4e9
 mood: action
 time_of_day: magic-hour
 setting: other
+artist: Josh Hass
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/137-hero-of-the-games--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/d/cdb7c7a6-4e9b-4300-a776-b7e7916950c8.jpg?1581480168
+flavor_text: Winners of the Iroan Games are forever remembered as heroes of their people.
+oracle_text: Whenever you cast a spell that targets this creature, creatures you control get +1/+0 until end of turn.
 ---
 
 # Hero of the Games (Theros Beyond Death)

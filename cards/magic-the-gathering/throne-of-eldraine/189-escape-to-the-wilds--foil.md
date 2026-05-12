@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "scene-mode", "forward-facing", "wide-shot", "interi
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/189-escape-to-the-wilds--foil.png
 average_cost_paid: 0
 market_price: 0.55
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/e/3e26c10b-179
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+artist: Chris Ostrowski
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/189-escape-to-the-wilds--foil--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/e/3e26c10b-179f-4a6e-bc8d-3ec1d6783fb9.jpg?1602499769
+flavor_text: The guards kindled the hearth and locked the door to Ellwen's chamber. By morning, the fire was out and Ellwen was gone.
+oracle_text: Exile the top five cards of your library. You may play cards exiled this way until the end of your next turn.\nYou may play an additional land this turn.
 ---
 
 # Escape to the Wilds (Throne of Eldraine)

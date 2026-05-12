@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "action-mode",
 reference_image: cards/_images/magic-the-gathering/core-set-2021/82-unsubstantiate.png
 average_cost_paid: 0
 market_price: 0.31
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/2/d/2dc0bafd-deb
 mood: action
 time_of_day: indeterminate
 setting: other
+artist: Victor Adame Minguez
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/82-unsubstantiate--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/d/2dc0bafd-debc-4b62-9fe0-56b4aad02484.jpg?1594735888
+flavor_text: \"Nicely done, Jace. You always were good at disappearing acts.\"\n—Liliana Vess
+oracle_text: Return target spell or creature to its owner's hand.
 ---
 
 # Unsubstantiate (Core Set 2021)

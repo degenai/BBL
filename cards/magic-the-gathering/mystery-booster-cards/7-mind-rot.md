@@ -1,7 +1,7 @@
 ---
 name: Mind Rot
 game: Magic: The Gathering
-set: The List
+set: Mystery Booster Cards
 collector_number: 7
 rarity: C
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: ["solo", "close-up", "faces-away", "no-face-visible", "narrative-mo
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/7-mind-rot.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,11 @@ mood: grim
 time_of_day: indeterminate
 setting: indoor
 the_list_source_set: W16
+artist: Steve Luke
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/7-mind-rot--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/8/284afe0e-0e0e-44eb-ad75-08d4b6fc338d.jpg?1573510052
+flavor_text: \"It saddens me to lose a source of inspiration. This one seemed especially promising.\"\n—Ashiok
+oracle_text: Target player discards two cards.
 ---
 
 # Mind Rot (Mystery Booster Cards)

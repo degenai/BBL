@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "single-figure", "no-backgrou
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/131-heartfire.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/7/d/7db219ea-2ed
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Craig J Spearing
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/131-heartfire--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/d/7db219ea-2ed1-4a86-955c-d61ecedbc019.jpg?1557576716
+flavor_text: The mage looked within and realized there was still one piece of fuel to burn.
+oracle_text: As an additional cost to cast this spell, sacrifice a creature or planeswalker.\nHeartfire deals 4 damage to any target.
 ---
 
 # Heartfire (War of the Spark)

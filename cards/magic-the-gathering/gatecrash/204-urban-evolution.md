@@ -15,9 +15,9 @@ tags_filter: ["solo", "scene-mode", "wide-shot", "no-face", "multicolor-green-bl
 reference_image: cards/_images/magic-the-gathering/gatecrash/204-urban-evolution.png
 average_cost_paid: 0
 market_price: 0.16
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/f/9fcd6fac-2cd
 mood: sublime
 time_of_day: day
 setting: urban
+artist: Eytan Zana
+art_crop_image: cards/_images/magic-the-gathering/gatecrash/204-urban-evolution--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/f/9fcd6fac-2cde-4a89-b484-b910be2dcecf.jpg?1561839459
+flavor_text: As the Simic released more of their krasis experiments, they required new habitats, always at the expense of the locals.
+oracle_text: Draw three cards. You may play an additional land this turn.
 ---
 
 # Urban Evolution (Gatecrash)

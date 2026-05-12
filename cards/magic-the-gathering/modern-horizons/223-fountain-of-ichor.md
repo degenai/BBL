@@ -15,9 +15,9 @@ tags_filter: ["scene-mode", "wide-shot", "no-face", "artifact", "colorless-magic
 reference_image: cards/_images/magic-the-gathering/modern-horizons/223-fountain-of-ichor.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Modern Horizons'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/0/b022a628-488
 mood: peaceful
 time_of_day: day
 setting: other
+artist: Grzegorz Rutkowski
+art_crop_image: cards/_images/magic-the-gathering/modern-horizons/223-fountain-of-ichor--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/0/b022a628-4883-427a-8477-0e87d1a71028.jpg?1562202462
+flavor_text: Sun Empire priests thought they were digging a well. What they tapped was something different entirely.
+oracle_text: {T}: Add one mana of any color.\n{3}: This artifact becomes a 3/3 Dinosaur artifact creature until end of turn.
 ---
 
 # Fountain of Ichor (Modern Horizons)

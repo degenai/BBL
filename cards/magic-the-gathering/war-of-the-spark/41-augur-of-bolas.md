@@ -14,10 +14,10 @@ tags_hub: ["merfolk", "wizard", "divination", "horns", "ritual", "servant", "aug
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "blue-magic", "creature-merfolk", "creature-wizard", "no-background-scene", "humanoid-figure"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/41-augur-of-bolas.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-10
+market_price: 0.22
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/d/1/d19fbfe6-69b
 mood: grim
 time_of_day: indeterminate
 setting: void
+artist: Alex Konstad
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/41-augur-of-bolas--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/1/d19fbfe6-69bb-452a-be3c-b9c625e23193.jpg?1557576145
+flavor_text: \"There is no future save the one my master wills.\"
+oracle_text: When this creature enters, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 ---
 
 # Augur of Bolas (War of the Spark)

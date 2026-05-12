@@ -15,15 +15,20 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "green-magi
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/169-bashful-beastie.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-10
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/c/2/c20fa7ee-a4c2-4eb0-9467-195f3b894fa0.png?1726286489
 art_match_confidence: high
 needs_manual_review: false
 mood: cozy
 time_of_day: day
 setting: forest
+artist: Aaron Miller
+art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/169-bashful-beastie--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/2/c20fa7ee-a4c2-4eb0-9467-195f3b894fa0.jpg?1726286489
+flavor_text: No one knows what hides beneath the beasties' masks.
+oracle_text: When this creature dies, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)
 ---
 
 # Bashful Beastie (Duskmourn: House of Horror)

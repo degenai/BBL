@@ -15,9 +15,9 @@ tags_filter: ["solo", "forward-facing", "scene-mode", "creature-horror", "black-
 reference_image: cards/_images/magic-the-gathering/core-set-2021/93-crypt-lurker.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/c/0/c0bba170-517
 mood: horror
 time_of_day: night
 setting: dungeon
+artist: Svetlin Velinov
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/93-crypt-lurker--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/0/c0bba170-5176-4fab-a10d-e23d70128875.jpg?1594736052
+flavor_text: \"Even the rats refuse to set foot inside. I fear to think what might be waiting in there.\"\n—Gravedigger's journal
+oracle_text: When this creature enters, you may sacrifice a creature or discard a creature card. If you do, draw a card.
 ---
 
 # Crypt Lurker (Core Set 2021)

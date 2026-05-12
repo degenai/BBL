@@ -15,15 +15,20 @@ tags_filter: ["mid-shot", "portrait-mode", "solo", "forward-facing", "creature-c
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/163-keeper-of-fables.png
 average_cost_paid: 0
 market_price: 0.34
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/6/7/6754d6cf-3506-48b5-a0ef-8a90b8dd2701.png?1572490595
 art_match_confidence: high
 needs_manual_review: false
 mood: sublime
 time_of_day: day
 setting: forest
+artist: Alex Konstad
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/163-keeper-of-fables--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/7/6754d6cf-3506-48b5-a0ef-8a90b8dd2701.jpg?1572490595
+flavor_text: \"Only the lion knows more stories than I do.\"\n—Chulane, Teller of Tales
+oracle_text: Whenever one or more non-Human creatures you control deal combat damage to a player, draw a card.
 ---
 
 # Keeper of Fables (Throne of Eldraine)

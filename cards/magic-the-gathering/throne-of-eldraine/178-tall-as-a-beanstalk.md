@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "wide-shot", "scene-mode", "vertical-composition", "
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/178-tall-as-a-beanstalk.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/9/098bfd71-a47
 mood: sublime
 time_of_day: day
 setting: forest
+artist: Emrah Elmasli
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/178-tall-as-a-beanstalk--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/9/098bfd71-a47f-4dfc-b516-b88a388fb7b5.jpg?1572490680
+flavor_text: He realized a bit late that he was supposed to *plant* the magic beans.
+oracle_text: Enchant creature\nEnchanted creature gets +3/+3, has reach, and is a Giant in addition to its other types.
 ---
 
 # Tall as a Beanstalk (Throne of Eldraine)

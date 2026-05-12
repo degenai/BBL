@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "faces-right", "portrait-mode", "no-figure", "
 reference_image: cards/_images/magic-the-gathering/theros/218-opaline-unicorn.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/c/f/cfba304c-9cb
 mood: sublime
 time_of_day: day
 setting: forest
+artist: Christine Choi
+art_crop_image: cards/_images/magic-the-gathering/theros/218-opaline-unicorn--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/f/cfba304c-9cb8-4d5c-b70d-b7f61a365977.jpg?1562831841
+flavor_text: Purphoros once loved Nylea, the god of the hunt. His passion inspired his most astounding works of art.
+oracle_text: {T}: Add one mana of any color.
 ---
 
 # Opaline Unicorn (Theros)

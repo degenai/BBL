@@ -15,9 +15,9 @@ tags_filter: ["duo", "close-up", "no-face", "abstract-mode", "black-magic", "sor
 reference_image: cards/_images/magic-the-gathering/the-list/089-274-bad-deal.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'The List'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/8/c/8c957811-e04
 mood: grim
 time_of_day: indeterminate
 setting: void
+artist: Zoltan Boros
+art_crop_image: cards/_images/magic-the-gathering/the-list/089-274-bad-deal--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/c/8c957811-e041-4287-9a1f-1788948ec386.jpg?1723439297
+flavor_text: There are still places where a smile and a handshake are all you need to seal a deal.
+oracle_text: You draw two cards and each opponent discards two cards. Each player loses 2 life.
 ---
 
 # Bad Deal (The List)

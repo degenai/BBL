@@ -15,9 +15,9 @@ tags_filter: ["red-magic", "instant", "scene-mode", "no-face", "wide-shot", "abs
 reference_image: cards/_images/magic-the-gathering/mystery-booster-retail-exclusives/153-pyretic-ritual--foil.png
 average_cost_paid: 0
 market_price: 15.01
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: Set 'Mystery Booster: Retail Exclusives' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/a/c/ac3f40b1-fcd
 mood: sublime
 time_of_day: indeterminate
 setting: other
+artist: James Paick
+art_crop_image: cards/_images/magic-the-gathering/mystery-booster-retail-exclusives/153-pyretic-ritual--foil--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/c/ac3f40b1-fcd7-456c-afb9-759df8352e43.jpg?1583453654
+flavor_text: The Multiverse is filled with limitless power just waiting for someone to reach out and seize it.
+oracle_text: Add {R}{R}{R}.
 ---
 
 # Pyretic Ritual (Mystery Booster: Retail Exclusives)

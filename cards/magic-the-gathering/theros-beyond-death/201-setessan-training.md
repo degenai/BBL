@@ -15,9 +15,9 @@ tags_filter: ["duo", "mid-shot", "three-quarter", "female-figure", "enchantment"
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/201-setessan-training.png
 average_cost_paid: 0
 market_price: 0.19
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/8/b8322d31-619
 mood: other
 time_of_day: day
 setting: other
+artist: Scott Murphy
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/201-setessan-training--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/8/b8322d31-6194-4fda-99a3-b6426c57488a.jpg?1581480908
+flavor_text: In the heart of Setessa, the warriors of Leina Tower defend the polis and train its daughters.
+oracle_text: Enchant creature you control\nWhen this Aura enters, draw a card.\nEnchanted creature gets +1/+0 and has trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)
 ---
 
 # Setessan Training (Theros Beyond Death)

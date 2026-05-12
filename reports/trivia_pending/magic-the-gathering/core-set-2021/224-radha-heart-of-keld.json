@@ -1,0 +1,48 @@
+{
+  "card_name": "Radha, Heart of Keld",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "224",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via Scryfall (type_line 'Legendary Creature — Elf Warrior', name 'Radha, Heart of Keld') and MTG Wiki Fandom (via WebSearch snippet): Radha is a canonical named character — granddaughter of Keldon warlord Astor, Skyshroud elf hybrid, and eventual Grand Warlord of Keld. M21 is her third card printing (after Planar Chaos 'Radha, Heir to Keld' and Dominaria 'Grand Warlord Radha'). Wizards-internal IP; no external crossover risk, so no `## IP` callout block appended.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Radha is the granddaughter of Keldon warlord Astor and an elf of Skyshroud — a Keldon/Skyshroud-elf hybrid with Keldon ash-colored skin offset by the pointed ears and blue Skyshroud markings. After defeating the last Gathan warlord she became Grand Warlord of Keld and abolished slave-taking. [MTG Wiki: Radha, via WebSearch snippet]",
+      "sources": ["MTG Wiki: Radha (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "M21 is the third Magic card to depict Radha. The prior two were 'Radha, Heir to Keld' (Planar Chaos, 2007; reprinted Time Spiral Remastered TSR #259 and Dominaria Remastered DMR #196) and 'Grand Warlord Radha' (Dominaria, 2018). Star City Games framed the M21 printing as 'third time's the charm.' Art is by Chris Rahn. [Scryfall: Radha, Heart of Keld] [Star City Games: 'Third Time's The Charm For Radha, Heart Of Keld']",
+      "sources": ["Scryfall", "Star City Games (via WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Radha, Heart of Keld is a {1}{R}{G} 3/3 Legendary Elf Warrior with conditional first strike on your turn, library-top reveal, lands-from-top, and an X-pump activated ability scaling off lands controlled. Scryfall EDHREC rank: 7,451. EDHREC tracks her in Commander land-matters / landfall / ramp / Voltron / elves / warriors / land-destruction archetypes; high-synergy partners include Mina and Denn, Wildborn and Rampaging Baloths. [Scryfall] [EDHREC: Radha, Heart of Keld via WebSearch snippet]",
+      "sources": ["Scryfall", "EDHREC (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The card has no flavor text on Scryfall — the textbox is full of rules text and the printed card uses no italic quote. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on commander-strategy outlets frames Radha as a Gruul spin on Courser of Kruphix — a virtual-card-advantage commander that smooths draws by playing lands off the top, with a Voltron finish line via her +X/+X land-count pump. [Star City Games: Commander Top 10 — Radha, Heart of Keld via WebSearch snippet]",
+      "sources": ["Star City Games (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Radha, Heir to Keld", "set": "Planar Chaos", "note": "Original printing of the same character (2007). Same Keldon/Skyshroud-elf identity, R/G, ramp-shaped abilities."},
+    {"name": "Grand Warlord Radha", "set": "Dominaria", "note": "Second printing of the same character (2018). Depicts Radha later in her arc as the Keldon Grand Warlord."},
+    {"name": "Mina and Denn, Wildborn", "set": "Battle for Zendikar", "note": "EDHREC-flagged high-synergy partner for Radha, Heart of Keld in lands-matter / landfall Commander builds."},
+    {"name": "Rampaging Baloths", "set": "Zendikar / multiple reprints", "note": "EDHREC-flagged high-synergy include for Radha lands-matter decks (landfall token generator)."},
+    {"name": "Courser of Kruphix", "set": "Born of the Gods", "note": "Mechanical and sentiment lineage — community framing positions Radha, Heart of Keld as a Gruul evolution of Courser's lands-from-top-of-library effect."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

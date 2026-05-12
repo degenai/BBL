@@ -15,9 +15,9 @@ tags_filter: ["no-face", "no-figure", "object-study", "centered-composition", "c
 reference_image: cards/_images/magic-the-gathering/modern-masters-2015/233-tumble-magnet.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Modern Masters 2015'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/c/1/c158f888-187
 mood: other
 time_of_day: indeterminate
 setting: other
+artist: Drew Baker
+art_crop_image: cards/_images/magic-the-gathering/modern-masters-2015/233-tumble-magnet--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/1/c158f888-1870-4be7-9afd-39e859f261a6.jpg?1562266933
+flavor_text: Magnetic devices that keep massive golems and structures standing can also be used for the opposite purpose.
+oracle_text: This artifact enters with three charge counters on it.\n{T}, Remove a charge counter from this artifact: Tap target artifact or creature.
 ---
 
 # Tumble Magnet (Modern Masters 2015)

@@ -14,16 +14,20 @@ tags_hub: ["battle", "combat", "violence", "soldier", "polearm", "fire", "smoke"
 tags_filter: ["duo", "2-figures", "mid-shot", "action-mode", "faces-right", "backlit", "scene-mode", "black-magic", "red-magic", "multicolor-black-red", "sorcery", "armor-clad"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/226-widespread-brutality.png
 average_cost_paid: 0
-market_price: 0.9
-market_price_as_of: 2026-05-10
+market_price: 0.91
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/9/7/97715d22-f432-4f67-b4ea-47b8fe6edca5.png?1557577331
 art_match_confidence: high
 needs_manual_review: false
 mood: action
 time_of_day: indeterminate
 setting: other
+artist: Victor Adame Minguez
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/226-widespread-brutality--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/7/97715d22-f432-4f67-b4ea-47b8fe6edca5.jpg?1557577331
+oracle_text: Amass Zombies 2, then the Army you amassed deals damage equal to its power to each non-Army creature. (To amass Zombies 2, put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)
 ---
 
 # Widespread Brutality (War of the Spark)

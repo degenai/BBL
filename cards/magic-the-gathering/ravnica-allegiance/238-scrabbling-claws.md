@@ -14,10 +14,10 @@ tags_hub: ["bones", "skeleton", "claws", "hands", "furnace", "fire", "crematoriu
 tags_filter: ["artifact", "colorless", "duo", "mid-shot", "forward-facing", "no-face", "scene-mode", "indoor"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/238-scrabbling-claws.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-10
+market_price: 0.23
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/7/67b06cb5-5e7
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+artist: James Paick
+art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/238-scrabbling-claws--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/7/67b06cb5-5e74-456f-81b1-fced1346cc47.jpg?1584832162
+flavor_text: Feed it steel. Feed it gold. Feed it bone. In the belly of the furnace, the flames know no difference.
+oracle_text: {T}: Target player exiles a card from their graveyard.\n{1}, Sacrifice this artifact: Exile target card from a graveyard. Draw a card.
 ---
 
 # Scrabbling Claws (Ravnica Allegiance)

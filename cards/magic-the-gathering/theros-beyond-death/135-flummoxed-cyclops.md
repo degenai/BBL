@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "male-figure", "creature-cyc
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/135-flummoxed-cyclops.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/1/f/1f70bcef-7ab
 mood: comedic
 time_of_day: indeterminate
 setting: other
+artist: Mark Behm
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/135-flummoxed-cyclops--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/f/1f70bcef-7ab6-4547-aca4-dd3ba68fd26b.jpg?1581480152
+flavor_text: \"A cyclops thinks slowly but strikes quickly. Try to keep it thinking.\"\n—Brigone, soldier of Meletis
+oracle_text: Reach\nWhenever two or more creatures your opponents control attack, this creature can't block this combat.
 ---
 
 # Flummoxed Cyclops (Theros Beyond Death)

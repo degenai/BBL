@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "action-mode", "three-quarter-facing", "male-f
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/177-syr-faren-the-hengehammer.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/a/9a8b1fea-3c5
 mood: action
 time_of_day: day
 setting: forest
+artist: Chris Rallis
+art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/177-syr-faren-the-hengehammer--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/a/9a8b1fea-3c5d-43d2-b4d2-e8938f3f7b9c.jpg?1572490675
+flavor_text: \"Words are pointless. It's what you do with your hammer that counts.\"
+oracle_text: Whenever Syr Faren attacks, another target attacking creature gets +X/+X until end of turn, where X is Syr Faren's power.
 ---
 
 # Syr Faren, the Hengehammer (Throne of Eldraine)

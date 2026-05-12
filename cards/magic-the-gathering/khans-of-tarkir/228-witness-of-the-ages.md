@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", 
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/228-witness-of-the-ages.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/7/6/763ac4c4-af2
 mood: sublime
 time_of_day: day
 setting: mountain
+artist: Izzy
+art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/228-witness-of-the-ages--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/6/763ac4c4-af2d-4b71-9fb3-244c96f93860.jpg?1562788742
+flavor_text: It strode through the clash of dragons, the fall of Ugin, and the rise of the khans.
+oracle_text: Morph {5} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
 ---
 
 # Witness of the Ages (Khans of Tarkir)

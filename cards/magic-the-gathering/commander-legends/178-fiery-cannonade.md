@@ -15,9 +15,9 @@ tags_filter: ["red-magic", "instant", "no-face", "group", "wide-shot", "scene-mo
 reference_image: cards/_images/magic-the-gathering/commander-legends/178-fiery-cannonade.png
 average_cost_paid: 0
 market_price: 0.24
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/9/396f1cdf-712
 mood: action
 time_of_day: indeterminate
 setting: other
+artist: Ben Wootten
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/178-fiery-cannonade--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/9/396f1cdf-712b-4518-a0e8-0039303dccdc.jpg?1608910204
+flavor_text: Wary of the ferocious dinosaurs, the Legion of Dusk built up the walls of their fort—just in time for the pirates to burn them down.
+oracle_text: Fiery Cannonade deals 2 damage to each non-Pirate creature.
 ---
 
 # Fiery Cannonade (Commander Legends)

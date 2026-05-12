@@ -15,15 +15,20 @@ tags_filter: ["group", "wide-shot", "scene-mode", "forward-facing", "no-face", "
 reference_image: cards/_images/magic-the-gathering/modern-horizons/212-rotwidow-pack.png
 average_cost_paid: 0
 market_price: 0.35
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/2/c/2cda35eb-ae42-43be-9015-3c468c7ebede.png?1562202397
 art_match_confidence: high
 needs_manual_review: false
 mood: horror
 time_of_day: indeterminate
 setting: forest
+artist: Kev Walker
+art_crop_image: cards/_images/magic-the-gathering/modern-horizons/212-rotwidow-pack--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/c/2cda35eb-ae42-43be-9015-3c468c7ebede.jpg?1562202397
+flavor_text: For each one you see, ten see you.
+oracle_text: Reach\n{3}{B}{G}, Exile a creature card from your graveyard: Create a 1/2 green Spider creature token with reach, then each opponent loses 1 life for each Spider you control.
 ---
 
 # Rotwidow Pack (Modern Horizons)

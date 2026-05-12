@@ -14,16 +14,21 @@ tags_hub: ["insect", "parasite", "body-horror", "horror", "wound", "infection", 
 tags_filter: ["solo", "close-up", "forward-facing", "no-face", "creature-insect", "green-magic", "deathtouch", "scene-mode"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/178-flesh-burrower.png
 average_cost_paid: 0
-market_price: 0.2
-market_price_as_of: 2026-05-10
+market_price: 0.22
+market_price_as_of: 2026-05-11
 date_added: 2026-05-10
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/6/0/60499c90-a512-4abb-98eb-0735a7138421.png?1726286526
 art_match_confidence: high
 needs_manual_review: false
 mood: horror
 time_of_day: indeterminate
 setting: other
+artist: Maxime Minard
+art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/178-flesh-burrower--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/0/60499c90-a512-4abb-98eb-0735a7138421.jpg?1726286526
+flavor_text: Symptoms of a burrower bite include fevers, chills, gangrene, subcutaneous writhing, a growing urge to eat the flesh of the living, and if you're lucky, death.
+oracle_text: Deathtouch\nWhenever this creature attacks, another target creature you control gains deathtouch until end of turn.
 ---
 
 # Flesh Burrower (Duskmourn: House of Horror)

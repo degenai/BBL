@@ -15,9 +15,9 @@ tags_filter: ["solo", "close-up", "forward-facing", "action-mode", "no-face-huma
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/199-rabid-bite.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/e/f/effe3fab-6d1
 mood: action
 time_of_day: indeterminate
 setting: forest
+artist: John Thacker
+art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/199-rabid-bite--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/f/effe3fab-6d13-4603-8a21-8a3c2a0d9e08.jpg?1604199283
+flavor_text: A healthy felidar is voracious yet regal. A rabid felidar is nothing more than appetite lashed to frothing jaws.
+oracle_text: Target creature you control deals damage equal to its power to target creature you don't control.
 ---
 
 # Rabid Bite (Zendikar Rising)

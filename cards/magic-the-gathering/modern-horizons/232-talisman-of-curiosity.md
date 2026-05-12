@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "close-up", "object-portrait", "blue-magic", "multic
 reference_image: cards/_images/magic-the-gathering/modern-horizons/232-talisman-of-curiosity.png
 average_cost_paid: 0
 market_price: 0.44
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Modern Horizons'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/f/d/fd52688a-39f
 mood: peaceful
 time_of_day: indeterminate
 setting: indoor
+artist: Lindsey Look
+art_crop_image: cards/_images/magic-the-gathering/modern-horizons/232-talisman-of-curiosity--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/d/fd52688a-39fd-430f-b950-cb56e0004396.jpg?1562202516
+flavor_text: \"The pain of exploring is less than the pain of not knowing.\"\n—Tamiyo
+oracle_text: {T}: Add {C}.\n{T}: Add {G} or {U}. This artifact deals 1 damage to you.
 ---
 
 # Talisman of Curiosity (Modern Horizons)

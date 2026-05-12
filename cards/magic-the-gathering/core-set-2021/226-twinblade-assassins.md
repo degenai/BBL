@@ -15,9 +15,9 @@ tags_filter: ["duo", "2-figures", "mid-shot", "three-quarter-facing", "scene-mod
 reference_image: cards/_images/magic-the-gathering/core-set-2021/226-twinblade-assassins.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/5/d/5d387b19-a0a
 mood: grim
 time_of_day: twilight
 setting: forest
+artist: Campbell White
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/226-twinblade-assassins--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/d/5d387b19-a0a7-45c0-b1e9-71ca55fb4adc.jpg?1620845035
+flavor_text: Rumors swirl of a pair of deadly Golgari assassins known only as the Left and Right Hands of the Ochran.
+oracle_text: At the beginning of your end step, if a creature died this turn, draw a card.
 ---
 
 # Twinblade Assassins (Core Set 2021)

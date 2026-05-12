@@ -15,9 +15,9 @@ tags_filter: ["duo", "mid-shot", "action-mode", "faces-right", "two-figures", "w
 reference_image: cards/_images/magic-the-gathering/core-set-2021/40-swift-response.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/a/9/a90c1ad0-83b
 mood: action
 time_of_day: indeterminate
 setting: other
+artist: Deruchenko Alexander
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/40-swift-response--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/9/a90c1ad0-83bd-471c-8d4c-e65bc2abaa18.jpg?1594735305
+flavor_text: \"There's nothing quite as satisfying as delivering a good kick to the face.\"\n—Adrasteia, Akroan captain
+oracle_text: Destroy target tapped creature.
 ---
 
 # Swift Response (Core Set 2021)

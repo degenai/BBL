@@ -1,0 +1,48 @@
+{
+  "card_name": "Frantic Strength",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "179",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "suspected_ip empty on input; no IP verification required. Taros is the named figure in the flavor text but has no MTG Wiki page (search returns 'page does not exist'); the depicted figure is a generic Duskmourn Survivor and is not flagged as crossover IP.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmourn: House of Horror released 2024-09-27 as the 102nd Magic expansion and the second set of the Dragonstorm Arc; it's a top-down horror set inspired by 70s/80s/90s slasher films and the Haunted House trope, with the entire set taking place inside one giant haunted mansion ruled by the demonic Valgavoth [MTG Wiki: Duskmourn: House of Horror].",
+      "sources": ["MTG Wiki: Duskmourn: House of Horror", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Frantic Strength is a {2}{G} Aura common with Flash that grants the enchanted creature +2/+2 and trample [Scryfall]. It sits inside Duskmourn's enchantments-matter set design, where green cards lean into the new 'Survival' ability word (triggers if the creature is tapped during your second main phase) and the GW limited archetype is explicitly tagged 'Survival' [MTG Wiki: Duskmourn — Themes and mechanics].",
+      "sources": ["Scryfall", "MTG Wiki: Duskmourn: House of Horror"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"With his friends dead and his weapons broken, Taros seized the only thing he could to defend himself.\" [Scryfall]. The card belongs to Duskmourn's slasher-survivor visual cycle — the depicted elf has improvised a tambourine as a weapon, fitting Duskmourn's design conceit that the House strips its victims of resources. Taros himself has no dedicated MTG Wiki entry (page does not exist), so he reads as a one-shot survivor-victim flavor character rather than a recurring named planeswalker or NPC.",
+      "sources": ["Scryfall", "MTG Wiki: Taros (page does not exist)"]
+    },
+    {
+      "category": "design",
+      "text": "Artist: Flavio Greco Paglia, an illustrator/visual-development artist who illustrated four Magic cards including Frantic Strength and the Alchemy: Duskmourn card Enduring Friendship [Scryfall; artist portfolio at flaviogreco.artstation.com, via WebSearch snippet]. Frantic Strength is on Scryfall as no. 179/271 in DSK, common rarity, illustration_id c92ecc7b-3500-4bcd-a774-d9bff573e3ab.",
+      "sources": ["Scryfall", "flaviogreco.artstation.com via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Casual-Commander adoption is modest: EDHREC rank 10148 and roughly 10,343 listed decks; top commander pulls include Wolverine, Best There Is (UB Marvel crossover), Fynn, the Fangbearer (mono-green deathtouch/trample voltron), Ygra, Eater of All, Uril, the Miststalker (a classic aura-voltron commander), and Lathril, Blade of the Elves [EDHREC: Frantic Strength]. The Flash + trample combination on a cheap aura earns it a slot in voltron-style decks that want a surprise lethal swing.",
+      "sources": ["EDHREC: Frantic Strength", "Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Defiant Survivor", "set": "Duskmourn: House of Horror", "note": "DSK no. 175, green Human Survivor at {2}{G} with the Survival ability word — same set, same color, same survivor flavor cycle as Taros, four cards earlier in the collector-number order."},
+    {"name": "Give In to Violence", "set": "Duskmourn: House of Horror", "note": "DSK no. 101, {1}{B} instant granting +2/+2 and lifelink — DSK's color-shifted parallel pump effect; surfaces alongside Frantic Strength as a top synergy card on EDHREC."},
+    {"name": "Beastie Beatdown", "set": "Duskmourn: House of Horror", "note": "DSK no. 210, {R}{G} Delirium fight-effect sorcery — surfaces as an EDHREC synergy pull for Frantic Strength, both sit in Duskmourn's RG Delirium aggro draft archetype."},
+    {"name": "Vines of Vastwood", "set": "Modern Masters 2015", "note": "{G} instant kicker for +4/+4 plus hexproof — the genre-defining green combat-trick comparable to Frantic Strength's Flash-aura design space; useful as a 'play patterns' reference point."},
+    {"name": "Rootwise Survivor", "set": "Duskmourn: House of Horror", "note": "DSK no. 196, mono-green Human Survivor — anchors the green-side Survivor tribal/typal pool that any flavor-driven Taros bundle would draw from."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

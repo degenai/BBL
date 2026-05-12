@@ -14,10 +14,10 @@ tags_hub: ["mage", "wizard", "robed-figure", "spellcaster", "fog", "mountain", "
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "scene-mode", "no-face", "blue-magic", "sorcery", "mono-blue"]
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/66-lullmage-s-domination.png
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price: 0.07
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/c/9/c9944393-348
 mood: grim
 time_of_day: indeterminate
 setting: mountain
+artist: Zezhou Chen
+art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/66-lullmage-s-domination--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/9/c9944393-348f-4f0e-a0c7-9adcc5a30749.jpg?1604194383
+flavor_text: \"One spell to quiet the Roil, one to quash the will. The principle is the same.\"
+oracle_text: This spell costs {3} less to cast if it targets a creature whose controller has eight or more cards in their graveyard.\nGain control of target creature with mana value X.
 ---
 
 # Lullmage's Domination (Zendikar Rising)

@@ -15,15 +15,20 @@ tags_filter: ["mid-shot", "portrait-mode", "solo", "three-quarter-facing", "crea
 reference_image: cards/_images/magic-the-gathering/core-set-2021/12-concordia-pegasus.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/6/0/600d3517-e370-47ae-ac4f-c7ef8995a89c.png?1594734840
 art_match_confidence: high
 needs_manual_review: false
 mood: sublime
 time_of_day: day
 setting: mountain
+artist: Chris Rahn
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/12-concordia-pegasus--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/0/600d3517-e370-47ae-ac4f-c7ef8995a89c.jpg?1594734840
+flavor_text: In the cloudy skies and dim light of autumn, a flash of white wings is a reminder that better times lie ahead.
+oracle_text: Flying
 ---
 
 # Concordia Pegasus (Core Set 2021)

@@ -15,9 +15,9 @@ tags_filter: ["land", "no-face", "no-figure", "wide-shot", "scene-mode", "horizo
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/246-tranquil-cove.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/f/0f840bd2-c4f
 mood: peaceful
 time_of_day: magic-hour
 setting: ocean
+artist: John Avon
+art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/246-tranquil-cove--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/f/0f840bd2-c4f5-4ac4-918c-91b4feeb8783.jpg?1562782605
+oracle_text: This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {W} or {U}.
 ---
 
 # Tranquil Cove (Khans of Tarkir)

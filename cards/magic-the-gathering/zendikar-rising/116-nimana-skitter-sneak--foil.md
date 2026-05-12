@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter-facing", "no-face", "human-figu
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/116-nimana-skitter-sneak--foil.png
 average_cost_paid: 0
 market_price: 0.02
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/e/a/ea080141-626
 mood: grim
 time_of_day: indeterminate
 setting: mountain
+artist: Campbell White
+art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/116-nimana-skitter-sneak--foil--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/a/ea080141-6262-4595-8058-b2969b3f016b.jpg?1604196156
+flavor_text: \"When navigating dangerous terrain, one hundred legs are better than two.\"
+oracle_text: As long as an opponent has eight or more cards in their graveyard, this creature gets +1/+0 and has menace. (It can't be blocked except by two or more creatures.)
 ---
 
 # Nimana Skitter-Sneak (Zendikar Rising)

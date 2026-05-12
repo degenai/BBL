@@ -14,10 +14,10 @@ tags_hub: ["huntress", "hunter", "archer", "bow", "forest", "mist", "foliage", "
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "female-figure", "green-magic", "enchantment", "scry"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/192-omen-of-the-hunt.png
 average_cost_paid: 0
-market_price: 0.23
-market_price_as_of: 2026-05-10
+market_price: 0.24
+market_price_as_of: 2026-05-11
 date_added: 2026-05-05
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/7/d/7d4ebdea-78d
 mood: peaceful
 time_of_day: indeterminate
 setting: forest
+artist: Piotr Dura
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/192-omen-of-the-hunt--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/d/7d4ebdea-78d4-4034-921b-735bdb11a716.jpg?1581480831
+flavor_text: \"My time will come, when no road will divide the endless verdure of the trees.\"
+oracle_text: Flash\nWhen this enchantment enters, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\n{2}{G}, Sacrifice this enchantment: Scry 2.
 ---
 
 # Omen of the Hunt (Theros Beyond Death)

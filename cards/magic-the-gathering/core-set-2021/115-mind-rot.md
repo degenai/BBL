@@ -15,15 +15,20 @@ tags_filter: ["close-up", "narrative-mode", "solo", "faces-away", "no-face", "so
 reference_image: cards/_images/magic-the-gathering/core-set-2021/115-mind-rot.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/8/3/833a8604-92d5-443b-9bc0-bd91c973ef07.png?1594736305
 art_match_confidence: high
 needs_manual_review: false
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+artist: Seb McKinnon
+art_crop_image: cards/_images/magic-the-gathering/core-set-2021/115-mind-rot--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/3/833a8604-92d5-443b-9bc0-bd91c973ef07.jpg?1594736305
+flavor_text: Many an inventor has collapsed under the pressure to create a flawless design.
+oracle_text: Target player discards two cards.
 ---
 
 # Mind Rot (Core Set 2021)

@@ -14,10 +14,10 @@ tags_hub: ["sliver", "construct", "artifact-creature", "hive", "claws", "blades"
 tags_filter: ["solo", "mid-shot", "faces-left", "portrait-mode", "no-face", "creature-construct", "creature-sliver", "artifact", "colorless-magic"]
 reference_image: cards/_images/magic-the-gathering/magic-2014-m14/218-sliver-construct.png
 average_cost_paid: 0
-market_price: 0.3
-market_price_as_of: 2026-05-10
+market_price: 0.29
+market_price_as_of: 2026-05-11
 date_added: 2026-05-07
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 reference_image_source_url: https://cards.scryfall.io/png/front/3/1/3129645a-221c-4eb5-88fd-12cc742a1dfe.png?1562827665
 art_match_confidence: high
 needs_manual_review: false
@@ -25,6 +25,10 @@ manual_review_reason:
 mood: grim
 time_of_day: indeterminate
 setting: void
+artist: Mathias Kollros
+art_crop_image: cards/_images/magic-the-gathering/magic-2014-m14/218-sliver-construct--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/1/3129645a-221c-4eb5-88fd-12cc742a1dfe.jpg?1562827665
+flavor_text: Slivers destroy those who come close to the Skep, the central hive. Shards of torn metal litter the ground as a warning to any artificers inquisitive about the hive's inner workings.
 ---
 
 # Sliver Construct (Magic 2014 (M14))

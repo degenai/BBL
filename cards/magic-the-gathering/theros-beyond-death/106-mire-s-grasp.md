@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "no-face-featu
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/106-mire-s-grasp.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-10
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/0/a/0ae0c536-612
 mood: horror
 time_of_day: indeterminate
 setting: other
+artist: Chris Rallis
+art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/106-mire-s-grasp--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/a/0ae0c536-612d-4916-a8da-5aaaf14218b1.jpg?1581479882
+flavor_text: Those caught attempting to escape the Underworld spend the rest of their existence trapped in the Mire of Punishment.
+oracle_text: Enchant creature\nEnchanted creature gets -3/-3.
 ---
 
 # Mire's Grasp (Theros Beyond Death)

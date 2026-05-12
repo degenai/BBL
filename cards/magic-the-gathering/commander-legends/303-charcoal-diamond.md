@@ -14,10 +14,10 @@ tags_hub: ["diamond", "gemstone", "black-stone", "skull", "bone", "binding", "co
 tags_filter: ["no-figure", "no-face", "close-up", "object-mode", "black-magic", "artifact", "mana-rock", "common"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/303-charcoal-diamond.png
 average_cost_paid: 0
-market_price: 0.61
-market_price_as_of: 2026-05-10
+market_price: 0.68
+market_price_as_of: 2026-05-11
 date_added: 2026-05-06
-last_seen: 2026-05-10
+last_seen: 2026-05-11
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,11 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/d/3d99f4cd-7f6
 mood: grim
 time_of_day: indeterminate
 setting: other
+artist: Lindsey Look
+art_crop_image: cards/_images/magic-the-gathering/commander-legends/303-charcoal-diamond--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/d/3d99f4cd-7f6d-4f1a-a1d9-f8c3b6645038.jpg?1608911357
+flavor_text: The essence of night to harden the soul.
+oracle_text: This artifact enters tapped.\n{T}: Add {B}.
 ---
 
 # Charcoal Diamond (Commander Legends)
