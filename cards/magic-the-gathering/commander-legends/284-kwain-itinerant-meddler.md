@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["rabbit", "forest", "night", "mischief", "trickster", "magic", "fireflies", "traveler", "anthropomorphic", "blue-glow"]
+tags_filter: ["solo", "mid-shot", "faces-right", "action", "blue-white-magic", "creature-rabbit-wizard", "legendary"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/284-kwain-itinerant-meddler.png
 average_cost_paid: 0
 market_price: 0.27
@@ -29,6 +29,29 @@ oracle_text: {T}: Each player may draw a card, then each player who drew a card 
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: comedic
+time_of_day: night
+setting: forest
 ---
 
 # Kwain, Itinerant Meddler (Commander Legends)
+
+## Vision
+
+![284-kwain-itinerant-meddler](../../_images/magic-the-gathering/commander-legends/284-kwain-itinerant-meddler.png)
+
+A humanoid rabbit — upright, wearing a dark vest and rolled-up trousers — sprints through a night forest with obvious energy. Both hands are outstretched and emitting glowing blue-white magical light. The forest floor is mossy and damp. Warm yellow fireflies and cool blue magical motes float around the figure. Stone ruins or arched structures are faintly visible in the background. The mood is lively and mischievous despite the dark setting — the rabbit's posture reads as enthusiasm not fear.
+
+**Subject:** A bipedal rabbit figure in travelers' clothes runs through a dark forest at night, casting blue magical energy from both hands; fireflies and glowing motes surround it
+
+**Composition:** mid-shot, action, figures: solo, facing: right
+**Setting:** forest, ruined, night, calm
+**Foreground:** bipedal rabbit in travelers' vest running, blue magic from both hands  *(palette: dark-brown, blue-white, yellow)*
+**Background:** dark forest, mossy ground, stone ruins, fireflies, blue motes  *(palette: dark-green, dark-brown, blue)*
+**Mood / lighting:** comedic, rim
+**Emotion read:** mischievous delight, impish energy — sprinting through the night with magical cargo
+**Objects:** magical energy
+**Creatures:** rabbit, anthropomorphic-rabbit
+**Iconography:** blue magic glow, fireflies
+**Genre cues:** fantasy
+

@@ -1,0 +1,35 @@
+{
+  "edge_id": "wave73-e3-bfz-triple-thesis-trivium",
+  "shape": "triangle (3-card mutual mirror)",
+  "category": "designer-coordinated-cycle-hitting-all-three-thesis-verbs",
+  "topology": "triangle",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/129-kozilek-s-sentinel.md", "name": "Kozilek's Sentinel (BFZ-129) — LABOR / apparatus-consumes face"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/152-reckless-cohort.md", "name": "Reckless Cohort (BFZ-152) — REBELLION / resistance-refuses face"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/46-serene-steward.md", "name": "Serene Steward (BFZ-46) — STEWARDSHIP / steward-holds-the-ground face"},
+    {"type": "hub", "path": "cards/_hubs/_triple-thesis.md", "name": "Triple Thesis (meta-hub)"}
+  ],
+  "description": "Corpus's first 3-card designer-coordinated cycle hitting all three thesis-verbs simultaneously. Battle for Zendikar (2015) is canonically a set built around the Zendikar-vs-Eldrazi cosmological-scale extraction war: the Eldrazi drones consume the plane's mana (LABOR / apparatus-of-extraction), the Zendikari Ally resistance organizes refusal (REBELLION / Allies-as-unified-resistance reframe per MTG Wiki BFZ page), and the white-magic stewards offer care-without-taking ('I can give you strength, but you'll have to bring your own courage' flavor; lifelink-pump oracle text). All three cards are commons in the same set, designer-coordinated by Wizards' BFZ creative team as the three thematic positions of the resistance arc. Bundle-copy potential: 'Battle for Zendikar in three cards: the apparatus consumes, the resistance refuses, the steward holds the ground.' Topology: triangle — each card has a `## Connections` bullet pointing at both other endpoints, completing the 3-edge mutual mirror.",
+  "citations": [
+    "[MTG Wiki: Battle for Zendikar — Eldrazi-invasion as cosmological-scale extraction, Zendikar as extraction-victim]",
+    "[MTG Wiki: Sea Gate — Zendikar's most organized resistance fell to the Eldrazi]",
+    "[MTG Wiki: BFZ — Allies-as-unified-resistance reframe from Zendikar-block's adventuring-party concept]",
+    "[Scryfall: Devoid mechanic encoding mana-identity-stripping]",
+    "[Scryfall: oracle_text + flavor_text on Serene Steward — care-without-coercion register]",
+    "[[_triple-thesis]] — foundational meta-hub for the three-verb triangle architecture"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/battle-for-zendikar/129-kozilek-s-sentinel.md",
+    "cards/magic-the-gathering/battle-for-zendikar/152-reckless-cohort.md",
+    "cards/magic-the-gathering/battle-for-zendikar/46-serene-steward.md"
+  ],
+  "edgelord_mood": "satisfied",
+  "other_candidates_considered": [
+    "Vile Aggregate (BFZ-137) as alternative LABOR anchor — has Ingest mechanic (canonical extraction-of-cards) but is vision-only without trivia; Kozilek's Sentinel preferred for its trivia-confirmed 'extraction at cosmological scale' citation.",
+    "Ondu Champion (BFZ-149) as alternative REBELLION anchor — minotaur Ally with Rally granting trample, Gideon-flavor on resistance-rallying; deferred to Reckless Cohort for the Sea Gate grief-driven solo-survivor framing which carries the rebellion-verb at the individual-refusal scale rather than the army-rallying scale (army-rallying is shared with the unified-resistance reframe but Reckless Cohort's 'You go to yours, and I'll go to mine' encodes the individual-refusal moment that the triangle needs as its rebellion-vertex). Ondu Champion is a viable adjacent-edge future commission.",
+    "Retreat to Emeria (BFZ-44) as alternative STEWARDSHIP anchor — encodes refuge/sanctuary register but vision-only without trivia; Serene Steward preferred for the trivia-pass-equivalent flavor + oracle text explicitly encoding care-without-coercion as a designer-coordinated white-magic stewardship register.",
+    "DBS xenoverse-villains 3-card internal trio (Demigra-Towa-Mira) audited and rejected: all three are antagonist-register (corrupted operators of the Time Breaker apparatus); the cohort body cites no rebellion or stewardship verbs, only apparatus-of-extraction-via-mind-control labor-register. Single-attribution by canonical evidence.",
+    "DBS dark-vassal-trio audited and rejected per prompt's anticipation: Tambourine/Cymbal/Drum all carry labor-disposable-worker register only; no rebellion or stewardship in the body."
+  ],
+  "notes": "Triangle topology is rare and structurally satisfying. This is the corpus's first explicit 3-card triple-thesis cycle anchored on canonical-evidence per the [[_triple-thesis]] meta-hub's compression-point discipline. Future BFZ Discrete Lair (if commissioned) inherits the triangle as its narrative spine."
+}

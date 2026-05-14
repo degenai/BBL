@@ -1,0 +1,40 @@
+{
+  "card_name": "Mercenary Tao, Trading Moves",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-048",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Mercenary Tao'. Art depicts a bald robed figure with a glowing energy sphere in a tournament setting — consistent with Tao's canonical appearance and signature Dodonpa energy technique.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Mercenary Tao (also known as Tao Pai Pai) is the younger brother of Master Shen and the first professional assassin contracted to kill Goku in Dragon Ball canon. He charges ten billion Zeni per kill (100 million in the Japanese version), making his labor purely transactional. [Dragon Ball Wiki: Mercenary Tao, via WebSearch snippet]",
+      "sources": ["dragonball.fandom.com/wiki/Mercenary_Tao"]
+    },
+    {
+      "category": "design",
+      "text": "After being badly injured in the Red Ribbon Army arc, Tao paid to have his body extensively converted into a cyborg, gaining hidden blade and cannon weapons in his arms and a more powerful Super Dodonpa. He is one of Dragon Ball's earliest examples of the 'body-as-commodity' cyborg villain archetype. [Dragon Ball Wiki: Mercenary Tao, via WebSearch snippet]",
+      "sources": ["dragonball.fandom.com/wiki/Mercenary_Tao"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Tao's signature technique, the Dodonpa, is also the Crane School's foundational technique — connecting him directly to Master Shen and, by lineage, to students Tien Shinhan and Chiaotzu. His mercenary practice sits adjacent to the Crane School's assassination-focused martial arts philosophy. [Dragon Ball Wiki: Mercenary Tao, via WebSearch snippet]",
+      "sources": ["dragonball.fandom.com/wiki/Mercenary_Tao"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment: fans frequently note Tao as an underrated early-series villain who punched above his narrative weight — the first character to defeat Goku in single combat. [Kanzenshuu forum thread: Tao Pai Pai, via WebSearch snippet]",
+      "sources": ["kanzenshuu.com/forum/viewtopic.php?t=33236"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Master Shen, Martial Meister", "set": "World Martial Arts Tournament", "note": "Tao is Shen's younger brother; both are Crane School figures and canonical apparatus-of-extraction."},
+    {"name": "Unyielding Victory Jackie Chun", "set": "World Martial Arts Tournament", "note": "Roshi and Shen trained together under Master Mutaito; Tao's existence as Shen's brother links the rival school lineages."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

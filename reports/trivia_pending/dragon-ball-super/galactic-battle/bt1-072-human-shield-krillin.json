@@ -1,0 +1,41 @@
+{
+  "card_name": "Human Shield Krillin",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-072",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Human Shield Krillin'. Short stature, bald head, no visible nose, dark purple gi with white-and-gold armor vest, defensive block stance — all canonical visual identifiers of Krillin from Dragon Ball Z/Super. Confirmed via card name, Wikipedia: Krillin, and CBR death-count articles.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Human Shield Krillin (BT1-072) is a Common in Galactic Battle. Krillin is the strongest human fighter in the Dragon Ball Z roster and Goku's oldest Earth-based friend — Akira Toriyama created him specifically to give Goku a peer for contrast and depth, as his editor flagged Goku as 'too plain' without a rival companion. [Wikipedia: Krillin]",
+      "sources": ["Wikipedia: Krillin"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Krillin holds the canonical record for most deaths of any Dragon Ball character: three confirmed deaths in the main timeline — killed by Tambourine (Dragon Ball), blown apart by Frieza (Dragon Ball Z; this death triggered Goku's first Super Saiyan transformation), and turned to chocolate and eaten by Super Buu (Dragon Ball Z Buu Saga). He also died off-screen of old age in Dragon Ball GT. The 'Human Shield' card title literalizes the role he inhabits across the entire franchise: a lower-power fighter who shows up anyway, absorbs the cost, and keeps going. [CBR: How Many Times Does Krillin Really Die?; Game Rant: All of Krillin's Deaths, Ranked]",
+      "sources": ["CBR: How Many Times Does Krillin Really Die?", "Game Rant: Dragon Ball: All Of Krillin's Deaths, Ranked"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Krillin's late-series arc is explicitly one of custody-of-relationships: he spared Android 18's life during the Cell Arc when Bulma's remote would have destroyed her, married her between the Cell and Buu Sagas, and had a daughter (Marron) — making him the Z-Warrior who most concretely converted battlefield loyalty into domestic stewardship. His marriage to Android 18 is one of the few lasting interpersonal bonds forged from conflict in the entire franchise. [Wikipedia: Android 18; CBR: Dragon Ball Z: Krillin Was Right to Spare Android 18's Life]",
+      "sources": ["Wikipedia: Android 18", "CBR: Dragon Ball Z: Krillin Was Right to Spare Android 18's Life During the Cell Arc"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The 'Human Shield' card name and defensive-block art position Krillin as a protective-type card within BT1's battle system — consistent with his narrative function: the character whose work-shape is absorbing damage and protecting others while Saiyans do the apex-power lifting. Community sentiment recognizes Krillin as the emotional anchor of the Z roster despite (and because of) his lower power ceiling. [CBR: Krillin died Dragon Ball; sentiment per Dragon Ball fan community sources]",
+      "sources": ["CBR: Every Time Krillin Has Died In Dragon Ball", "CBR: Dragon Ball Z: Krillin Was Right to Spare Android 18's Life"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Son Gohan, Family of Justice", "set": "Galactic Battle", "note": "Krillin's stewardship role is most visible in protecting Gohan across Z arcs"},
+    {"name": "Boost Attack Piccolo", "set": "Galactic Battle", "note": "Both Krillin and Piccolo occupy the stewardship register — Piccolo as mentor, Krillin as loyal human shield"},
+    {"name": "Frieza, The Galactic Emperor", "set": "Galactic Battle", "note": "Frieza's murder of Krillin is the canonical trigger for Goku's Super Saiyan transformation — Krillin's death is load-bearing in the Saiyan mythology"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

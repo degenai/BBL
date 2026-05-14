@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["lion", "predator", "victory", "dominance", "armor", "ruin", "hunter", "beast", "storm", "aftermath"]
+tags_filter: ["solo", "mid-shot", "faces-right", "narrative", "colorless-magic", "artifact-creature", "protection"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/240-sparkhunter-masticore.png
 average_cost_paid: 0
 market_price: 0.1
@@ -28,6 +28,28 @@ oracle_text: As an additional cost to cast this spell, discard a card.\nProtecti
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: grim
+time_of_day: twilight
+setting: other
 ---
 
 # Sparkhunter Masticore (Core Set 2021)
+
+## Vision
+
+![240-sparkhunter-masticore](../../_images/magic-the-gathering/core-set-2021/240-sparkhunter-masticore.png)
+
+A large feline creature — its body covered in dark overlapping armor plating — stands on all fours atop a mound of collapsed armored figures. The creature has a leonine mane rendered in dark grey and a single glowing eye visible. The heap beneath it appears to be defeated or destroyed humanoid forms in armor. The background is a stormy, dusty sky in warm amber-grey tones. The posture is one of dominance — surveying from a high point after victory.
+
+**Subject:** An armored lion-like creature with a glowing eye stands atop a heap of defeated mechanical or armored figures under a stormy sky
+
+**Composition:** mid-shot, narrative, figures: solo, facing: right
+**Setting:** other, twilight, storm
+**Foreground:** armored lion-creature atop pile of defeated armored figures, glowing eye  *(palette: dark-grey, black, amber)*
+**Background:** stormy amber-grey sky, dusty atmosphere  *(palette: amber, grey, brown)*
+**Mood / lighting:** grim, rim
+**Emotion read:** cold dominance, predatory victory — standing over the fallen without celebration
+**Creatures:** masticore, lion-creature, armored-beast
+**Iconography:** glowing eye, armor plating
+**Genre cues:** fantasy
+

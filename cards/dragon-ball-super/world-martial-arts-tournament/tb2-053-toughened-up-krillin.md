@@ -30,6 +30,7 @@ setting: other
 suspected_ip: Krillin
 ip_confidence: high
 ip_verified: true
+characters: [krillin]
 ---
 
 # Toughened Up Krillin (World Martial Arts Tournament)

@@ -1,0 +1,41 @@
+{
+  "card_name": "Cooler's Armored Squadron Leader Salza",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-115",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies the figure as Salza, leader of Cooler's Armored Squadron. Union Force is an official Bandai-licensed DBS TCG product. Salza is a canonical character from Dragon Ball Z: Cooler's Revenge (Movie 5, 1991) — internal Toei Animation IP. No external crossover risk. This card also closes the wave-65 Angila misattribution: Angila (BT2-or-adjacent) is from Dragon Ball Z: Lord Slug (Movie 4, 1991), a different film with a different villain, not from Cooler's Revenge. The Armored Squadron is Salza, Dore, and Neiz — NOT Angila, who serves Lord Slug.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "IP verified: Card name directly identifies Salza as the leader of Cooler's Armored Squadron. Salza is the captain of the three-member mercenary platoon (Salza, Dore, and Neiz) that works under Cooler, Frieza's brother, in Dragon Ball Z: Cooler's Revenge — the fifth Dragon Ball Z theatrical film, released in Japan on July 20, 1991 [WebSearch: Salza Cooler's Armored Squadron Dragon Ball Z Cooler's Revenge 1991; Wikipedia: Dragon Ball Z: Cooler's Revenge]. Salza's name is a pun on the Spanish sauce 'salsa' — consistent with the condiment-naming pattern of Cooler's squad [WebSearch: Dragon Ball Wiki via search snippet].",
+      "sources": ["WebSearch: Salza Cooler's Armored Squadron Dragon Ball Z Cooler's Revenge film 1991 Angila Neiz"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Wave-65 correction: Angila (the villain previously misattributed to this slot) is from Dragon Ball Z: Lord Slug — Movie 4, a separate 1991 film featuring Lord Slug, a Namekian villain, and his mercenary trio. Angila is Lord Slug's right-hand man: tall with cyan skin, pointy ears, short horns, and blonde hair in a toga [WebSearch: Angila Dragon Ball Z Lord Slug villain]. Salza (this card) is from Movie 5 under Cooler — an entirely different film, villain, and mercenary group. The confusion appears to stem from both films releasing in the same year (1991) with both featuring a named three-person villain squad.",
+      "sources": ["WebSearch: Angila Dragon Ball Z Lord Slug film villain mercenary NOT Cooler", "WebSearch: Salza Cooler's Armored Squadron Dragon Ball Z Cooler's Revenge film 1991"]
+    },
+    {
+      "category": "design",
+      "text": "Salza originates from planet Coola no. 98 — the same star system as Ginyu Force member Jeice — establishing a background lore link between Cooler's Armored Squadron and Frieza's Ginyu Force as parallel elite mercenary units serving the Cold family's space empire [WebSearch: Dragon Ball Wiki Cooler's Armored Squadron via search snippet]. This planet-of-origin detail positions Salza as an elite within a known imperial framework rather than a random mercenary.",
+      "sources": ["WebSearch: Salza Cooler's Armored Squadron Dragon Ball Z Cooler's Revenge film 1991 Angila Neiz"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Union Force (DBS-B02) released November 2017 by Bandai [WebSearch: Dragon Ball Super Union Force BT2 2017]. As an uncommon card featuring a secondary film antagonist (Salza appears only in Cooler's Revenge and its sequel), this card targets the collector audience invested in the DBZ movie continuity rather than the main series canon.",
+      "sources": ["WebSearch: Dragon Ball Super Union Force BT2 release date 2017 Bandai"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Cooler, the Approaching Shadow", "set": "various DBS sets", "note": "The commander Salza serves — Frieza's brother, antagonist of Cooler's Revenge"},
+    {"name": "Dore, Cooler's Armored Squadron", "set": "various DBS sets", "note": "Second member of the three-person Armored Squadron alongside Salza and Neiz"},
+    {"name": "Neiz, Cooler's Armored Squadron", "set": "various DBS sets", "note": "Third member of the Armored Squadron — amphibian alien from planet Coola no. 6"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Salza (Dragon Ball Z: Cooler's Revenge)",
+    "ip_confidence": "high"
+  }
+}

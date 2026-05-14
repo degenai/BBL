@@ -1,0 +1,22 @@
+{
+  "edge_id": "wave73-e4-saiyan-lineage-thesis-trajectory-refusal",
+  "shape": "refusal-with-receipts",
+  "category": "triple-thesis-trajectory-audit-on-character-lineage",
+  "topology": "n/a (refusal)",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/son-goku.md", "name": "Son Goku (related_hubs: [])"},
+    {"type": "character", "path": "cards/_characters/son-gohan.md", "name": "Son Gohan (related_hubs: [labor])"},
+    {"type": "character", "path": "cards/_characters/pan.md", "name": "Pan (related_hubs: [labor])"}
+  ],
+  "description": "Edgelord audited the son-goku → son-gohan → pan three-generation lineage for trajectory-canonical evidence supporting triple-hub attribution either at lineage-level or per individual node. VERDICT: the node bodies as currently written DO NOT carry canonical-evidence-citations for rebellion or stewardship at the rigor-standard the [[_triple-thesis]] discipline requires. Goku's body has no Frieza-Force-grunt citation, no Uub-mentorship citation, no Goku-trains-Goten citation; the body is overwhelmingly multi-incarnation-character-arc-canonical, not thesis-political-canonical. Gohan's body is heavily labor-credit-erasure-canonical (the LABOR vertex anchors cleanly) but rebellion (refusal-of-Cell-apparatus is canonically self-defense not political-refusal) and stewardship (Saiyaman-vigilante is canonically scholar-vigilante not steward-tier care-without-extraction) lack the citation-rigor the discipline requires. Pan's body anchors LABOR via the workforce-lineage-survives thesis but offers no canonical rebellion or stewardship citations. Per the [[_triple-thesis]] 'refusal-with-receipts' anti-pattern guard: 'If hubs start being attached to cards because we want the triangle to look full rather than because the canonical-evidence supports the attribution, the curation has begun to lie.' Refusing to extend triple-attribution to any of the three nodes WITHOUT first commissioning canonical-citation prose extensions to the node bodies. Each verb-vertex needs canonical citation per node — the bar is high, and the wave-71 discipline applies.",
+  "citations": [
+    "[[_triple-thesis]] — refusal-with-receipts as first-class output; 'hubs get stripped if attribution can't survive what's-the-canonical-citation question']",
+    "[memory: bbl-museum-curation-framing — refusal-with-receipts is curator behavior not bug]",
+    "[memory: bbl-edgelord-node-rigor-audit — periodic audits against rigor checklist]",
+    "[Existing node bodies for son-goku.md, son-gohan.md, pan.md — surveyed for canonical thesis-political citations; LABOR vertex anchors in body prose where present, but rebellion + stewardship not cited at canonical-source rigor]"
+  ],
+  "files_modified": [],
+  "edgelord_mood": "enlightened-corrective",
+  "deferred_to_future_wave": "If a future Edgelord or Mr.-Nodeley pass wants to surface the rebellion-vertex on son-goku (Goku-refuses-Frieza's-order canonical Frieza-Saga beat per Dragon Ball Wiki's Goku page) or the stewardship-vertex (Goku-mentors-Uub canonical End-of-Z beat per Dragon Ball Wiki's Uub page), the move is to (1) extend the node body prose with the canonical-citation paragraph, then (2) extend related_hubs in the same pass. The two-step is the discipline. Same applies to Gohan (Mystic-Gohan-protects-Earth-from-Buu canonical-Buu-Saga beat for rebellion; Piccolo-mentor-lineage-inheritance for stewardship via Gohan-mentors-the-next-Z-fighter-generation if a canonical beat lands) and Pan (canonical-refusal beats in GT against Baby-possession if the Pan-resists-Baby-saga beats meet the bar, plus the Mr.-Satan-maternal-grandfather stewardship-via-credit-deflection beat). NONE of these are commissioned in wave 73 — the discipline holds.",
+  "notes": "This is the third triple-thesis-audit refusal of the corpus (sibling pattern: wave 71's refusal on multiple candidates against premature triple-attribution; wave 72's refusal on 'weave'/'chain' topology-jargon framings). Refusal-with-receipts is the curator-behavior; the substrate's quality compounds over time precisely because Edgelord refuses to fill in attribution on vibe."
+}

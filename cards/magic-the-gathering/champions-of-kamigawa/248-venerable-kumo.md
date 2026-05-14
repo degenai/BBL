@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["spider", "web", "egg", "ancient", "patience", "carapace", "creature", "Kamigawa", "spirit", "predator"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "no-face", "green-magic", "creature-spirit-spider", "reach", "soulshift"]
 reference_image: cards/_images/magic-the-gathering/champions-of-kamigawa/248-venerable-kumo.png
 average_cost_paid: 0
 market_price: 0.09
@@ -28,6 +28,29 @@ oracle_text: Reach (This creature can block creatures with flying.)\nSoulshift 4
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: indeterminate
+setting: other
 ---
 
 # Venerable Kumo (Champions of Kamigawa)
+
+## Vision
+
+![248-venerable-kumo](../../_images/magic-the-gathering/champions-of-kamigawa/248-venerable-kumo.png)
+
+A massive spider occupies the center of the image, its body heavily plated and armored-looking, with multiple articulated legs spread wide. The creature's body has a rounded, dome-like quality. Around it, small spherical objects — egg sacs or prey wrapped in webbing — are visible floating or attached nearby. The entire image is rendered in muted green and grey tones with white silk-like web filaments crossing the frame. The creature appears to be at rest or in the act of tending to its surroundings.
+
+**Subject:** A large armored spider creature in a web-filled green-toned environment, with egg sacs or cocoons visible around it
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** other, indeterminate
+**Foreground:** large armored spider, plated carapace, multiple legs spread  *(palette: green-grey, dark-grey, white)*
+**Background:** web filaments, green-tinged void, egg sac clusters  *(palette: muted-green, white, grey)*
+**Mood / lighting:** horror, soft
+**Emotion read:** ancient, patient menace — the spider is unhurried in its domain
+**Objects:** web, egg sacs
+**Creatures:** spider, kumo
+**Iconography:** web, egg sacs
+**Genre cues:** fantasy
+

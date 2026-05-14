@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["gate", "fortress", "gold", "light", "architecture", "authority", "threshold", "Ravnica", "monumental", "stone"]
+tags_filter: ["wide", "abstract", "no-face", "none", "red-white-magic", "land", "enters-tapped"]
 reference_image: cards/_images/magic-the-gathering/dragon-s-maze/147-boros-guildgate.png
 average_cost_paid: 0
 market_price: 0.13
@@ -29,6 +29,27 @@ oracle_text: This land enters tapped.\n{T}: Add {R} or {W}.
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: sublime
+time_of_day: indeterminate
+setting: urban
 ---
 
 # Boros Guildgate (Dragon's Maze)
+
+## Vision
+
+![147-boros-guildgate](../../_images/magic-the-gathering/dragon-s-maze/147-boros-guildgate.png)
+
+The image is an architectural scene with no humanoid figures — a massive gate or fortified wall structure fills the frame, viewed from a low angle looking upward. The structure is composed of large pale stone blocks arranged in a stairstepping or crenellated pattern. The entire scene is flooded with intense golden-orange light from above, creating a warm glow across all surfaces. The lower foreground transitions to dark rocky ground. The composition emphasizes the monumental scale and authority of the structure.
+
+**Subject:** A monumental gate or wall structure bathed in intense golden-orange light, viewed from a low angle looking up; no figures present
+
+**Composition:** wide, abstract, figures: none, facing: n/a
+**Setting:** urban, modern, indeterminate, clear
+**Foreground:** dark rocky ground transitioning to pale stone base of gate  *(palette: dark-brown, gold, pale-stone)*
+**Background:** upper gate structure, intense golden-orange light source  *(palette: gold, orange, pale-yellow)*
+**Mood / lighting:** sublime, harsh
+**Emotion read:** institutional authority, imposing grandeur — a threshold between worlds or jurisdictions
+**Iconography:** gate, fortified wall
+**Genre cues:** fantasy
+

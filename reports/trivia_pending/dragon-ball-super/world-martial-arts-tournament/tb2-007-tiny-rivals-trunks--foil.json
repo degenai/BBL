@@ -1,0 +1,36 @@
+{
+  "card_name": "Tiny Rivals Trunks",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-007",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Tiny Rivals Trunks' explicitly names Trunks. The lavender/light-purple hair in the vision pass is Trunks's single most distinctive visual marker in the franchise. The 'Tiny Rivals' title places this as Kid Trunks (present-timeline child version), consistent with the World Martial Arts Tournament set's focus on the 25th Budokai where Kid Trunks competed in the Junior Division. IP verified as Trunks (Dragon Ball Z / Dragon Ball Super) — Kid Trunks version.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The World Martial Arts Tournament (DBS-TB02) is a Themed Booster set released by Bandai in September 2018. The set focuses on the in-universe tournament history of the Dragon Ball franchise, including the 25th World Martial Arts Tournament (the Budokai arc of Dragon Ball Z) where Kid Trunks competed in the Junior Division and won. [WebSearch: Dragon Ball Super World Martial Arts Tournament TB2 release September 2018]",
+      "sources": ["WebSearch: DBS-TB02 World Martial Arts Tournament Bandai 2018"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Kid Trunks competed in the Junior Division of the 25th World Martial Arts Tournament and defeated his best friend Goten in the finals, becoming Junior Champion. The 'Tiny Rivals' title references the rivalry between Kid Trunks and Goten — both demi-Saiyans of similar age and power, sons of the two most prominent Z Fighters. [WebSearch: Trunks 25th World Martial Arts Tournament Junior Division Goten]",
+      "sources": ["WebSearch: Trunks Dragon Ball Wikipedia Junior Division Budokai"]
+    },
+    {
+      "category": "design",
+      "text": "The sword visible in the card art is a point of canonical complexity. Kid Trunks received the Brave Sword from Tapion at the end of the non-canon film Dragon Ball Z: Wrath of the Dragon. Future Trunks carries an entirely separate sword from a different timeline — the two are visually similar but canonically unrelated. The card likely depicts Kid Trunks with a sword referencing the broader Trunks-sword iconography rather than a specific canon sword-acquisition. [WebSearch: Future Trunks sword Kid Trunks Tapion Wrath of the Dragon distinction]",
+      "sources": ["WebSearch: Future Trunks sword Tapion Wrath of the Dragon Kid Trunks distinction"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tiny Rivals Goten", "set": "World Martial Arts Tournament", "note": "Goten is the canonical 'Tiny Rival' — he and Trunks fought in the Junior Division finals"},
+    {"name": "Future Trunks (various DBS sets)", "set": "various", "note": "Alternate-timeline Trunks — same character, different era, different sword origin"},
+    {"name": "Vegeta (World Martial Arts Tournament)", "set": "World Martial Arts Tournament", "note": "Kid Trunks's father; competed in the adult division of the same tournament"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Trunks (Dragon Ball Z / Dragon Ball Super)",
+    "ip_confidence": "high"
+  }
+}

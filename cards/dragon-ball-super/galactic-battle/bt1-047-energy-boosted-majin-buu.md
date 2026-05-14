@@ -29,7 +29,7 @@ time_of_day: night
 setting: space
 suspected_ip: Majin Buu (Dragon Ball Z)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Energy Boosted Majin Buu (Galactic Battle)
@@ -38,8 +38,8 @@ ip_verified: false
 
 ![bt1-047-energy-boosted-majin-buu](../../_images/dragon-ball-super/galactic-battle/bt1-047-energy-boosted-majin-buu.png)
 
-> [!warning] Suspected IP: **Majin Buu (Dragon Ball Z)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Majin Buu (Dragon Ball Z)**
+> Confirmed via card name and Wikipedia: Majin Buu. Rotund pink figure, round head with knob, baggy pale vest, floating with energy sphere — canonical Fat Buu form identifiers present.
 
 A round, pudgy pink-skinned figure floats in a dark starry void, arms spread wide with a massive luminous energy sphere hovering overhead. The figure has a large round head with a small knob on top and wears a baggy pale purple vest-like garment. The expression reads as gleeful or unsettlingly relaxed. The background is deep dark blue-black space with faint stars, contrasting with the bright blasting energy above. The composition is a mid-shot capturing the full upper body and arms in a wide open pose.
 
@@ -55,4 +55,14 @@ A round, pudgy pink-skinned figure floats in a dark starry void, arms spread wid
 **Creatures:** pink-creature
 **Iconography:** energy-sphere, ki-ball, cosmic-power
 **Genre cues:** anime, fantasy, sci-fi
+
+## Trivia
+
+- **Set context** — Energy Boosted Majin Buu (BT1-047) is a Common in Galactic Battle. The art depicts Fat Buu — the form produced when the original Kid Buu absorbed the Grand Supreme Kai, whose influence dulled the Majin's pure destructive nature into something simultaneously more docile and uncannily jovial. This form was sealed by Bibidi and reawakened by Babidi during the Dragon Ball Z Buu Saga. [Wikipedia: Majin Buu]
+- **Lore context** — Majin Buu's origin is one of Dragon Ball's most-retconned threads: Akira Toriyama originally framed Bibidi as Buu's creator, but later clarified Buu predates Bibidi, who only knew how to awaken him. Dragon Ball Daima (2024) further revised this, introducing Marba as Buu's actual originator in the First Demon World. [Screen Rant: Dragon Ball Daima Introduced a Major Majin Buu Retcon; Wikipedia: Majin Buu]
+- **Design** — The 'gleeful menace' affect in the vision pass is a core Toriyama design tension: Fat Buu is portrayed as childlike and playful while casually launching planet-level energy attacks — the horror-mood read comes from the uncanny calm during mass-scale destruction, not from any overtly threatening expression. [Wikipedia: Majin Buu]
+
+### Related cards
+- Frieza, The Galactic Emperor (Galactic Battle, BT1-084) — Frieza and Buu are the two apex villain archetypes in BT1: Frieza is imperial/calculated, Buu is primordial/chaotic
+- King Cold, Father of the Emperor (Galactic Battle, BT1-091) — both Buu and the Cold-family cards represent mass-destruction villain archetypes in the same set
 

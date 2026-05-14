@@ -1,0 +1,40 @@
+{
+  "card_name": "Master Shen, Martial Meister",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-063",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Master Shen'. Art depicts a tall lean older figure with a distinctive topknot in a martial arts uniform — consistent with Shen's canonical appearance as the Crane Hermit. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Master Shen holds the title Crane Hermit (Tsuru Sennin) and leads the Crane School, a rival dojo to Roshi's Turtle School. The Crane School's philosophy centers on killing one's opponent rather than tournament sportsmanship — making Shen a corrupted-mentor figure whose students were trained as weapons, not martial artists. [Dragon Ball Wiki: Master Shen, via WebSearch snippet]",
+      "sources": ["dragonball.fandom.com/wiki/Master_Shen"]
+    },
+    {
+      "category": "design",
+      "text": "Shen and Roshi trained together under Master Mutaito. Their eventual falling-out placed Shen on the path of assassination-focused martial arts — the same path his younger brother Mercenary Tao monetized as a paid killer. The shared origin under Mutaito makes Shen/Roshi the canonical split of the mentor archetype in Dragon Ball: one good, one corrupted. [Dragon Ball Wiki: Master Shen; WebSearch snippet]",
+      "sources": ["dragonball.fandom.com/wiki/Master_Shen"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "During the 22nd World Martial Arts Tournament, Shen ordered Chiaotzu to psychically paralyze Goku repeatedly during Tien's match. When Tien refused to kill Goku and defected, Shen ordered Chiaotzu to kill both — at which point Roshi blasted Shen out of the stadium with a Kamehameha. This moment is Shen's canonical 'boss reveals true nature' beat. [CBR: Forgotten Dragon Ball Decision Ruined Tien's Life; WebSearch snippet]",
+      "sources": ["cbr.com/dragon-ball-turtle-school-no-tien-mistake/"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Shen's student Tien Shinhan eventually defected from the Crane School entirely, choosing Roshi's path. Tien's defection is one of Dragon Ball's clearest 'labor breaks from the contractor' moments — the student refusing the apparatus-of-extraction his master built. [Dragon Ball Wiki: Master Shen, via WebSearch snippet]",
+      "sources": ["dragonball.fandom.com/wiki/Master_Shen"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mercenary Tao, Trading Moves", "set": "World Martial Arts Tournament", "note": "Tao is Shen's younger brother; both Crane School / apparatus-of-extraction."},
+    {"name": "Unyielding Victory Jackie Chun", "set": "World Martial Arts Tournament", "note": "Roshi/Jackie Chun is Shen's canonical rival from their shared Mutaito training lineage."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "edge_id": "wave-70-e4--skip-with-receipts",
+  "shape": "refusal",
+  "category": "refusal-with-receipts",
+  "endpoints": [],
+  "description": "E4 skipped after E2 (4-node stewardship hub-wiring) + E3 (Hercule solo-node commission with 3-card frontmatter wiring) jointly delivered a substantive wave. Candidates surveyed for E4: (a) Kibito Kai's Attendant BT3-042 — canonically stewardship-coded per the hub body but no Kibito solo node exists yet AND cards don't carry related_hubs (only layer-nodes do per the brief), so card-direct stewardship wiring is structurally unavailable; (b) Videl solo node — 2 corpus prints meets threshold-relaxed-precedent but Mr. Nodeley budget already spent on Hercule this pass (one-per-invocation rule); Videl is a clean follow-up commission for the next wave; (c) generic unwired-pair from edgelord_queue — would dilute the wave by adding a thin third edge after two strong moves landed. Quality of one good edge > quantity of weak edges. Refusal-with-receipts is first-class per Edgelord doctrine.",
+  "citations": [
+    "[bbl-edgelord-target-enriched-not-random memory — Edgelord retains full corpus-walking authority including authority to SKIP]",
+    "[Edgelord prompt doctrine — refusal is first-class; quality over quantity]"
+  ],
+  "files_modified": [],
+  "topology": "n/a",
+  "edgelord_mood": "satisfied",
+  "other_candidates_considered": [
+    "Videl solo node — strong follow-up candidate for next wave (2 corpus prints TB2-011 + TB2-018 at threshold-relaxed-precedent)",
+    "Kibito solo node — pending Kibito-specific corpus card beyond BT3-042's attendant framing",
+    "Korin solo node — pending direct corpus card depicting Korin",
+    "alola-trial-captains / alola-elite-four stewardship-extension — defer until a future pass surfaces a cohort-level (not just Acerola-individual) stewardship reading"
+  ]
+}

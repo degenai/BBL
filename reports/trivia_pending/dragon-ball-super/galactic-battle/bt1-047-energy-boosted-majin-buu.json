@@ -1,0 +1,35 @@
+{
+  "card_name": "Energy Boosted Majin Buu",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-047",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Energy Boosted Majin Buu'. Rotund pink-skinned figure, round head with knob protrusion, baggy pale purple vest, floating in space with large energy sphere — all canonical visual identifiers of Majin Buu (specifically the 'Fat Buu' form) from Dragon Ball Z. Confirmed via card name and Wikipedia: Majin Buu.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Energy Boosted Majin Buu (BT1-047) is a Common in Galactic Battle. The art depicts Fat Buu — the form produced when the original Kid Buu absorbed the Grand Supreme Kai, whose influence dulled the Majin's pure destructive nature into something simultaneously more docile and uncannily jovial. This form was sealed away by sorcerer Bibidi and later reawakened by Babidi during the Dragon Ball Z Buu Saga. [Wikipedia: Majin Buu]",
+      "sources": ["Wikipedia: Majin Buu", "CBR: Dragon Ball DAIMA: Majin Family Tree, Explained"]
+    },
+    {
+      "category": "design",
+      "text": "Majin Buu's origin is one of Dragon Ball's most retconned lore threads: Akira Toriyama originally framed Bibidi as Buu's creator, but later clarified that Buu predates Bibidi, who only knew how to awaken him. Dragon Ball Daima (2024) further revised this, introducing Marba as Buu's actual originator, placing his creation in the First Demon World. [Screen Rant: Dragon Ball Daima Introduced a Major Majin Buu Retcon]",
+      "sources": ["Wikipedia: Majin Buu", "Screen Rant: Dragon Ball Daima Introduced a Major Majin Buu Retcon"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card title 'Energy Boosted' reflects Fat Buu's combat approach in DBZ: despite his childlike demeanor, he casually launches planet-level energy attacks, consistent with the art showing a massive energy sphere held overhead in open cosmic space. The horror-coded mood tag from the vision pass is apt — Buu's gleeful calm during planet-scale destruction is a foundational design tension in his character. [Wikipedia: Majin Buu]",
+      "sources": ["Wikipedia: Majin Buu"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Frieza, The Galactic Emperor", "set": "Galactic Battle", "note": "Frieza and Buu are the two apex villain archetypes in the same BT1 set — Frieza is imperial/calculated, Buu is primordial/chaotic"},
+    {"name": "King Cold, Father of the Emperor", "set": "Galactic Battle", "note": "Both Buu and Cold-family cards represent mass-destruction villain archetypes in BT1"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

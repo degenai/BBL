@@ -1,0 +1,41 @@
+{
+  "card_name": "Kozilek's Sentinel",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "129",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Battle for Zendikar (released October 2, 2015) is the first set of the Battle for Zendikar block, depicting the plane of Zendikar under full Eldrazi invasion. The Eldrazi titans Ulamog and Kozilek had been released from their hedron prison and were consuming the plane's mana and life energy — Zendikar itself was the extraction victim at cosmological scale [MTG Wiki: Battle for Zendikar, via mtg.wiki].",
+      "sources": ["MTG Wiki: Battle for Zendikar (mtg.wiki)", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Kozilek's Sentinel is typed Eldrazi Drone — the drone subtype denotes servant-caste Eldrazi spawned by one of the three titans. Devoid (a keyword introduced in BFZ) strips the card of color despite its red mana cost, mechanically representing the Eldrazi's colorless-consuming nature: they strip mana identity from the plane as they move through it [Scryfall: oracle_text; WebSearch: BFZ Eldrazi devoid lore]. Artist Raymond Swanland [Scryfall].",
+      "sources": ["Scryfall", "WebSearch: Battle for Zendikar Eldrazi devoid mechanic lore 2015"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"It moves through the tunnels as slowly and surely as the shifting stones.\" [Scryfall] — No named speaker. The line frames the drone not as an attacker but as geological inevitability: it doesn't rush, it simply arrives.",
+      "sources": ["Scryfall: flavor_text field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanically, the Sentinel rewards colorless-spell density: every colorless spell cast pumps it +1/+0 until end of turn. It is Pauper-legal [Scryfall: legalities] and carries an EDHREC rank of 26929 [Scryfall: edhrec_rank], placing it in the deep-bulk tier — a functional common that sees niche use in Eldrazi-tribal Pauper builds but rarely headlines a strategy.",
+      "sources": ["Scryfall: legalities, edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Eldrazi Devastator", "set": "Battle for Zendikar", "note": "Larger colorless Eldrazi Drone — same drone subtype, same set"},
+    {"name": "Kozilek, Butcher of Truth", "set": "Rise of the Eldrazi", "note": "Named titan whose brood includes the Sentinel; origin of the Kozilek drone lineage"},
+    {"name": "Ulamog's Nullifier", "set": "Battle for Zendikar", "note": "Eldrazi Drone with Devoid and flash — same drone-tier mechanical role in BFZ Eldrazi shell"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

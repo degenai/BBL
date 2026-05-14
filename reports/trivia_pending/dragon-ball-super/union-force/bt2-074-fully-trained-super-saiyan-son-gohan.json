@@ -1,0 +1,36 @@
+{
+  "card_name": "Fully Trained Super Saiyan Son Gohan",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-074",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies the depicted figure as Son Gohan, and the Union Force set is an official licensed Dragon Ball Super TCG product published by Bandai (November 2017). The card name 'Fully Trained Super Saiyan Son Gohan' is a direct named-character card — identity is confirmed by oracle text (card name) itself, not inferred from visual resemblance. Gohan is an internal Toei Animation / Bird Studio IP, not an external crossover risk; no IP callout block required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Union Force (DBS-B02) is the second main booster set of the Dragon Ball Super Card Game, released November 2017 by Bandai [WebSearch: Dragon Ball Super Union Force BT2 release date]. The set draws from Dragon Ball Z's Cell Saga arc as a primary source period for its character roster.",
+      "sources": ["WebSearch: Dragon Ball Super Union Force BT2 release date 2017 Bandai"]
+    },
+    {
+      "category": "set-lore",
+      "text": "IP verified: This card explicitly names Son Gohan in its card title. During the Cell Saga, Goku and Gohan trained in the Hyperbolic Time Chamber — where one year inside equals one day outside — with the goal of achieving Super Saiyan Full Power, a state where the transformation becomes as natural as the base form, eliminating the physical strain of staying transformed [WebSearch: Dragon Ball Z Gohan Super Saiyan Full Power Cell Saga Hyperbolic Time Chamber]. The card title 'Fully Trained' directly references this mastered-transformation milestone.",
+      "sources": ["WebSearch: Dragon Ball Z Son Gohan Super Saiyan Full Power Cell Saga training Hyperbolic Time Chamber"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Gohan's Super Saiyan 2 transformation — distinct from the 'Fully Trained' Super Saiyan Full Power state on this card — occurred during the Cell Games outside the chamber, triggered by Android 16's death. The 'Fully Trained Super Saiyan' title maps to the Full Power SSJ state achieved inside the chamber, not SSJ2 [WebSearch: Gohan hyperbolic time chamber SSJ2].",
+      "sources": ["WebSearch: Dragon Ball Z Son Gohan Super Saiyan Full Power Cell Saga training Hyperbolic Time Chamber"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Super Saiyan Son Gohan", "set": "Union Force", "note": "Base SSJ Gohan — earlier transformation state; same set"},
+    {"name": "Son Gohan, the Fighter", "set": "various DBS sets", "note": "Same character across the DBS card game; tracks Gohan through multiple arcs"},
+    {"name": "Son Goku, the Training Partner", "set": "Union Force", "note": "Goku trained with Gohan in the Hyperbolic Time Chamber — co-trainer canonical pair"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Son Gohan (Dragon Ball Z)",
+    "ip_confidence": "high"
+  }
+}

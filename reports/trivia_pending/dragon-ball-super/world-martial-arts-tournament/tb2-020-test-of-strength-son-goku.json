@@ -1,0 +1,36 @@
+{
+  "card_name": "Test of Strength Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-020",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies Son Goku. The vision pass shows a figure in a martial arts gi executing a hand-strike — the orange gi is Goku's canonical uniform, worn in every tournament appearance across all Dragon Ball series. The 'Test of Strength' title and the base-form gi composition (no Super Saiyan aura visible) place this as Goku in base/normal form at the tournament, consistent with how he typically enters early tournament rounds. IP verified as Son Goku (Dragon Ball Z / Dragon Ball Super).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Goku has competed in the World Martial Arts Tournament since his childhood in the original Dragon Ball series. The orange gi visible in the card art is his signature tournament uniform, worn consistently across all tournament arcs. As a Rare-rarity card (TB2-020) in the World Martial Arts Tournament set, this represents Goku in a martial-arts-discipline framing rather than the peak-power framing of the Super Rare TB2-002. [WebSearch: Dragon Ball Super World Martial Arts Tournament TB2 2018 Bandai]",
+      "sources": ["WebSearch: DBS-TB02 World Martial Arts Tournament set 2018"]
+    },
+    {
+      "category": "design",
+      "text": "The 'Test of Strength' framing — base form, gi, physical strike rather than energy beam — is a design choice that foregrounds Goku's martial arts discipline over his Saiyan power. Goku in the World Martial Arts Tournament often deliberately suppresses his ki to avoid exposing his true power level to opponents early in a match, which aligns with the 'test' reading of the title. [WebSearch: Dragon Ball World Martial Arts Tournament Goku base form strategy]",
+      "sources": ["WebSearch: World Martial Arts Tournament Dragon Ball Wiki Fandom"]
+    },
+    {
+      "category": "mechanical",
+      "text": "TB2-020 is a Rare-rarity Battle Card in the World Martial Arts Tournament themed booster (DBS-TB02, September 2018). The set contained 77 unique cards across Common, Uncommon, Rare, Super Rare, Special Rare, and Secret Rare tiers, expanding to 125 cards when including foil variants of commons and uncommons. [WebSearch: DBS-TB02 World Martial Arts Tournament set card count breakdown]",
+      "sources": ["WebSearch: Dragon Ball Super World Martial Arts Tournament TB2 release September 2018"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Supreme Showdown Son Goku", "set": "World Martial Arts Tournament", "note": "TB2-002 Super Rare — paired Goku in same set; contrast base-form vs. SSJ peak-power depictions"},
+    {"name": "Tiny Rivals Trunks", "set": "World Martial Arts Tournament", "note": "TB2-007 — tournament co-participant; Kid Trunks competed in the Junior Division of the same 25th Budokai"},
+    {"name": "Babidi's Spaceship", "set": "World Martial Arts Tournament", "note": "TB2-018 — the Babidi arc interrupted the tournament Goku entered to fight"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Son Goku (Dragon Ball Z / Dragon Ball Super)",
+    "ip_confidence": "high"
+  }
+}

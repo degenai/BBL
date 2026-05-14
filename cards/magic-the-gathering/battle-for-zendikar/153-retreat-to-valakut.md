@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["volcano", "fire", "canyon", "landscape", "mountain", "zendikar", "landfall", "geological", "ancient", "power", "retreat", "wilderness"]
+tags_filter: ["no-face", "wide-shot", "narrative-mode", "no-figures", "red-magic", "enchantment"]
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/153-retreat-to-valakut.png
 average_cost_paid: 0
 market_price: 0.15
@@ -28,6 +28,27 @@ oracle_text: Landfall — Whenever a land you control enters, choose one —\n�
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: sublime
+time_of_day: indeterminate
+setting: mountain
 ---
 
 # Retreat to Valakut (Battle for Zendikar)
+
+## Vision
+
+![153-retreat-to-valakut](../../_images/magic-the-gathering/battle-for-zendikar/153-retreat-to-valakut.png)
+
+The art crop shows a dramatic volcanic landscape: a deep rocky canyon or ravine viewed from above or at an oblique angle. Columns of fire or lava-driven flame rise upward through the crevices of dark fractured rock. The upper portion reveals a pale blue-gray sky through the opening of the canyon. Purple and red tones dominate the rock surfaces, with the fire columns providing the primary light source. No figures, structures, or creatures are visible — this is pure environmental landscape painting.
+
+**Subject:** Volcanic rocky canyon or ravine with fire columns rising, no figures — Valakut landscape
+
+**Composition:** wide, narrative, figures: none, facing: n/a
+**Setting:** mountain, indeterminate, fire
+**Foreground:** dark fractured rock surfaces and fire columns rising from crevices  *(palette: dark-red, purple, orange)*
+**Background:** pale blue-gray sky visible through canyon opening  *(palette: blue-gray, pale-blue, white)*
+**Mood / lighting:** sublime, chiaroscuro
+**Emotion read:** austere power, geological violence, inhuman scale
+**Iconography:** fire-columns, volcanic-fissure, zendikar-landscape
+**Genre cues:** fantasy
+

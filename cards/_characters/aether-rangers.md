@@ -11,7 +11,7 @@ appears_on:
   - magic-the-gathering/aetherdrift/61-skystreak-engineer
   - magic-the-gathering/aetherdrift/59-sabotage-strategist
   - magic-the-gathering/aetherdrift/161-elvish-refueler
-related_hubs: [labor, rebellion]
+related_hubs: [labor, rebellion, stewardship]
 related_symbols: []
 related_characters: [endriders]
 ip_resolution_for: ["Aether Rangers", "Pia Nalaar's team", "Avishkar Rangers"]

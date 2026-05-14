@@ -1,0 +1,41 @@
+{
+  "card_name": "Father-Son Kamehameha",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-098",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names the technique. The Father-Son Kamehameha is canonically the finishing blow of the Cell Games: Gohan (SSJ2, one arm injured) fires the beam with the spirit of Goku manifesting from the afterlife behind him to amplify it. Both Goku and Gohan are depicted — the adult/youth duo in the card art matches this exactly. IP verified as Son Goku and Son Gohan (Dragon Ball Z).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Father-Son Kamehameha is the canonical finishing blow of the Cell Games arc (Dragon Ball Z Season 6, Episode 26 'Save the World'). Gohan, fighting with one injured arm after shielding Vegeta, fires the Kamehameha with Goku's spirit manifesting from the Other World behind him to amplify the beam and overpower Cell's counterblast. [WebSearch: Father-Son Kamehameha Dragon Ball Wiki Cell Games]",
+      "sources": ["WebSearch: Father-Son Kamehameha Dragon Ball Wiki Fandom"]
+    },
+    {
+      "category": "design",
+      "text": "The card title 'Father-Son Kamehameha' credits both figures equally, but the technique was executed by Gohan alone — Goku was dead at the time. Goku's contribution was a spiritual amplification from the afterlife, made possible because Gohan faltered under pressure. The credit structure in the title obscures the labor distribution: Gohan did the physical fighting; Goku supplied the emotional scaffold. [WebSearch: Father-Son Kamehameha episode Save the World Gohan one arm]",
+      "sources": ["WebSearch: Father-Son Kamehameha Dragon Ball Wiki Fandom", "WebSearch: Dragon Ball Z Cell Games Saga explained"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Vegeta's sideline energy blast was the tactical turning point: Cell was overpowering Gohan's Kamehameha until Vegeta — who had previously sworn off fighting — intervened with a distraction blast, giving Gohan the opening to push his full remaining energy into the beam. This makes the Father-Son Kamehameha canonically a three-participant technique even though only two are named in the title. [WebSearch: Father-Son Kamehameha Vegeta distraction Cell Games]",
+      "sources": ["WebSearch: Father-Son Kamehameha Dragon Ball Wiki Fandom"]
+    },
+    {
+      "category": "set-lore",
+      "text": "As a Common-rarity Extra card in Union Force (BT2), the Father-Son Kamehameha functions mechanically as an attack/event card. The DBS TCG treats iconic techniques as Extra cards separate from Battle Cards, allowing the move to be played independently of the character card that canonically executes it. [DBZ Exchange: BT2-098]",
+      "sources": ["WebSearch: Dragon Ball Super Union Force BT2 release"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fully Trained Super Saiyan Son Gohan", "set": "Union Force", "note": "BT2-074 — Gohan as the primary executor of the Father-Son Kamehameha"},
+    {"name": "Son Goku (any Cell Saga card)", "set": "Union Force", "note": "Goku's spirit amplifies the beam from the afterlife — his Union Force Battle Card is the canonical anchor"},
+    {"name": "Cell (Perfect Form)", "set": "Union Force", "note": "Cell is the target of the finishing blow this card depicts"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Son Goku and Son Gohan (Dragon Ball Z)",
+    "ip_confidence": "high"
+  }
+}

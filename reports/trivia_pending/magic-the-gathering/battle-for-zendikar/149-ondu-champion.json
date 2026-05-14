@@ -1,0 +1,41 @@
+{
+  "card_name": "Ondu Champion",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "149",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ondu is one of Zendikar's seven continents, located in the plane's southwestern quadrant — a vast plateau of jagged cliffs, windswept mesas, and cavern-cathedral chambers beneath sheer cliffs. After the Eldrazi titans' release, Ondu's forests and canyons 'teemed with their broods,' but the land itself reportedly resisted: crystalline shards erupted to impale Eldrazi, canyons opened beneath them, and mesas developed limbs to crush them [MTG Wiki: Ondu, via mtg.wiki]. Ondu supports diverse communities including kor, goblins, and elves.",
+      "sources": ["MTG Wiki: Ondu (mtg.wiki)"]
+    },
+    {
+      "category": "design",
+      "text": "Ondu Champion is typed Minotaur Warrior Ally — the Ally subtype was retooled for Battle for Zendikar from its original Zendikar-block 'adventuring party' framing into a united resistance army against the Eldrazi [WebSearch: BFZ Allies Rally mechanic Zendikari resistance]. The Rally keyword (BFZ's Ally-exclusive mechanic) triggers whenever any Ally enters, granting all controlled creatures trample until end of turn — representing the momentum of a rallying force [Scryfall: oracle_text; MTG Wiki: Rally, via mtg.wiki].",
+      "sources": ["Scryfall: type_line, oracle_text", "MTG Wiki: Rally (mtg.wiki)", "WebSearch: Battle for Zendikar Allies mechanic Rally keyword 2015"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"'Put a minotaur at the head of an army and suddenly all the soldiers act like they have horns.' —Gideon Jura\" [Scryfall]. The speaker is Gideon Jura, the planeswalker who spent BFZ rallying Zendikar's survivors into organized resistance — his observation here is pragmatic: minotaur presence transforms troop psychology, not just tactics.",
+      "sources": ["Scryfall: flavor_text field"]
+    },
+    {
+      "category": "design",
+      "text": "Artist: Volkan Baga [Scryfall]. Baga also illustrated Reckless Cohort (152) in the same set — two BFZ resistance-themed cards sharing an artist, suggestive of a deliberate visual-cohesion pairing within the red Ally cluster. Ondu Champion is Pauper-legal [Scryfall: legalities], EDHREC rank 15154 [Scryfall: edhrec_rank] — the strongest EDHREC showing of the four BFZ cards in this wave, reflecting Ally-tribal's dedicated casual audience.",
+      "sources": ["Scryfall: artist, legalities, edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Reckless Cohort", "set": "Battle for Zendikar", "note": "Same artist (Volkan Baga), same set, same red Ally resistance cluster"},
+    {"name": "Gideon, Ally of Zendikar", "set": "Battle for Zendikar", "note": "The planeswalker quoted in flavor text; central BFZ resistance figure"},
+    {"name": "Zulaport Cutthroat", "set": "Battle for Zendikar", "note": "Key Ally-tribal payoff card; shares BFZ Ally-resistance mechanical theme"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

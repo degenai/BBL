@@ -22,7 +22,7 @@ appears_on:
   - dragon-ball-super/union-force/bt2-066-trunks-time-machine
 related_hubs: []
 related_symbols: []
-related_characters: [xenoverse-villains, baby-dbgt, son-goku, vegeta, wrath-of-the-dragon-saga, namekian]
+related_characters: [xenoverse-villains, baby-dbgt, son-goku, vegeta, wrath-of-the-dragon-saga, namekian, son-gohan]
 ip_resolution_for: trunks
 ---
 

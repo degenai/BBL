@@ -1,0 +1,41 @@
+{
+  "card_name": "Vile Aggregate",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "137",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Vile Aggregate's Ingest keyword — 'whenever this creature deals combat damage to a player, that player exiles the top card of their library' — is the drone-tier expression of the BFZ Eldrazi consumption engine. The mechanic represents the Eldrazi literally eating the substance of a plane: cards exiled by Ingest feed the Processors mechanic, which converts that exiled matter into usable energy, modeling an extractive pipeline at cosmological scale [WebSearch: BFZ Eldrazi Ingest-Processor dynamic; Scryfall: oracle_text].",
+      "sources": ["Scryfall: oracle_text", "WebSearch: Battle for Zendikar Eldrazi devoid mechanic plane consumption lore 2015"]
+    },
+    {
+      "category": "design",
+      "text": "Vile Aggregate's power is a star (*) equal to the number of colorless creatures controlled — making its strength scale with Eldrazi swarm density. This means the card mechanically rewards the same Eldrazi-flood strategy that the Ingest-Processor pipeline demands, creating tight internal cohesion within the BFZ Eldrazi theme. Artist: Chris Rallis [Scryfall]. EDHREC rank 19195 [Scryfall] — modestly more played than the Sentinel, likely because Trample + variable power creates a glass-cannon payoff in casual Eldrazi-tribal shells.",
+      "sources": ["Scryfall: oracle_text, edhrec_rank, artist"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Vile Aggregate has no flavor text [Scryfall confirms flavor_text field is absent]. Its art depicts unnamed Eldrazi drones swarming a fallen prey figure — unnamed creatures consistent with the anti-confabulation rule: Vile Aggregate depicts generic Eldrazi drone swarm, not any named Eldrazi titan (Ulamog, Kozilek, or Emrakul), who appear on their own named cards.",
+      "sources": ["Scryfall: flavor_text absent"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Vile Aggregate is not Pauper-legal (uncommon), but is Pioneer- and Modern-legal [Scryfall: legalities]. Its Trample + Ingest combination was noted at the time of BFZ previews as a rare confluence: Ingest usually appears on smaller utility drones, while Trample is a finisher keyword. The combination was mechanically intentional — the aggregate-swarm creature that also devours the library mid-combat.",
+      "sources": ["Scryfall: legalities, keywords"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Wasteland Strangler", "set": "Battle for Zendikar", "note": "Processor creature that consumes exiled cards from Ingest — direct mechanical partner to Vile Aggregate's Ingest output"},
+    {"name": "Ulamog's Reclaimer", "set": "Battle for Zendikar", "note": "Processor mechanic on same side of the Ingest-Processor pipeline"},
+    {"name": "Eldrazi Obligator", "set": "Oath of the Gatewatch", "note": "Follow-up BFZ block Eldrazi Drone with Devoid; same tribal shell"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

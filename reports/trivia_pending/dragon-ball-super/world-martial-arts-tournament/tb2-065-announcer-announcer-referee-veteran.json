@@ -1,0 +1,40 @@
+{
+  "card_name": "Announcer // Announcer, Referee Veteran",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-065",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name states 'Announcer // Announcer, Referee Veteran'. Suspected IP was 'Tournament Announcer (Dragon Ball)' at medium confidence. Art depicts a blonde suited figure with a large microphone in an arena — fully consistent with the World Martial Arts Tournament Announcer's canonical appearance. Character is unnamed in canon but is a recurring figure across Dragon Ball, DBZ, and GT. IP verified as the unnamed WMA Tournament Announcer; no external IP risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The World Martial Arts Tournament Announcer is a nameless recurring character who appears across Dragon Ball, Dragon Ball Z, and Dragon Ball GT — one of the few non-combatant faces present at nearly every major tournament in the franchise. His job is entirely service-labor: narrating the spectacle for an audience while the combatants receive glory. [Dragon Ball Wiki: World Tournament Announcer, via WebSearch snippet]",
+      "sources": ["dragonball.fandom.com/wiki/World_Tournament_Announcer"]
+    },
+    {
+      "category": "design",
+      "text": "This card's double-sided format ('Announcer // Announcer, Referee Veteran') is a DBS card game mechanic for leader or battle cards with two states — in this case, the Announcer's role escalating to referee-veteran status within the set's tournament framing. It is the only card in DBS-TB02 to canonize this nameless recurring character as a playable unit. [dbs-cardgame.com card list, via WebSearch snippet]",
+      "sources": ["dbs-cardgame.com/us-en/cardlist/?search=true&category=428102"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment: the Announcer is a long-running fan-favorite background character precisely because of his longevity and anonymity — he has witnessed every major tournament since the original Dragon Ball without ever earning a canonical name. His card inclusion in TB2 is widely noted as a 'deep cut' pull for fans who appreciate series continuity. [Behind the Voice Actors: World Martial Arts Tournament Announcer, via WebSearch snippet]",
+      "sources": ["behindthevoiceactors.com/characters/Dragon-Ball/World-Martial-Arts-Tournament-Announcer/"]
+    },
+    {
+      "category": "mechanical",
+      "text": "TB2-065 is an Uncommon in DBS-TB02, the highest-number card in the set (set runs to TB2-069), placing him at the tail end of the print run — structurally appropriate for a figure who always appears at the end of the event, not the beginning. [dbs-cardgame.com; bleedingcool.com: TB02 checklist]",
+      "sources": ["dbs-cardgame.com/us-en/product/dbs-tb02.php", "bleedingcool.com/games/dragon-ball-super-card-game-world-martial-arts-tournament-checklist/"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Master Shen, Martial Meister", "set": "World Martial Arts Tournament", "note": "Shen's match-fixing at the 22nd Tournament was the kind of event the Announcer would have narrated without knowing the full corruption happening on the floor."},
+    {"name": "Unyielding Victory Jackie Chun", "set": "World Martial Arts Tournament", "note": "The Announcer called Jackie Chun's matches without knowing he was Master Roshi — canonical witness to the disguise from the outside."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "med"
+  }
+}

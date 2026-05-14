@@ -1,0 +1,36 @@
+{
+  "card_name": "Twin Sister Android 18",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-091",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies the figure as Android 18. Union Force is an official Bandai-licensed DBS TCG product. Android 18 (originally named Lazuli) is a canonical Dragon Ball Z character — internal Toei Animation / Bird Studio IP. No external crossover risk; no IP callout block required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "IP verified: The card name 'Twin Sister Android 18' directly identifies the depicted figure. Android 18's birth name is Lazuli — the older twin sister to Lapis (Android 17). Both were human juvenile delinquents forcibly converted into cyborgs by Dr. Gero [WebSearch: Android 17 Android 18 Dragon Ball Z Dr Gero twins Lapis Lazuli]. The gemstone naming pun (Lapis Lazuli) is a canonical Akira Toriyama naming convention.",
+      "sources": ["WebSearch: Android 17 Android 18 Dragon Ball Z Dr Gero twins Lapis Lazuli Cell absorption"]
+    },
+    {
+      "category": "set-lore",
+      "text": "After the Cell Saga, Android 18 married Krillin — a relationship that Toriyama described by noting that 18 'found Krillin's seriousness and straightforwardness refreshing, and somehow or other she ended up falling for him' [WebSearch: Android 18 Krillin marriage Dragon Ball Z; Screen Rant citing Toriyama]. They had a daughter, Marron, and remained a stable couple through Dragon Ball Super. Krillin's connection to Android 18 makes her a stewardship-relevant figure for a potential future Krillin character node.",
+      "sources": ["WebSearch: Android 18 marries Krillin Dragon Ball Z Cell Saga ending Lazuli"]
+    },
+    {
+      "category": "design",
+      "text": "Android 18 (BT2-091) and Android 17 (BT2-089) share consecutive card numbers in Union Force with mirrored 'Twin Sister / Twin Brother' title structure — a designer-coordinated dyad encoding both halves of the canonical sibling pair in adjacent slots [Scryfall-analog: collector_numbers BT2-089 and BT2-091]. This is the closest thing in the BBL corpus to an explicitly packaged mechanical-and-narrative pair at the card-number level.",
+      "sources": ["DBS card collector_numbers BT2-089 / BT2-091"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Twin Brother Android 17", "set": "Union Force", "note": "Canonical sibling pair; card no. BT2-089 — consecutive numbers encode the dyad"},
+    {"name": "Krillin, the Fighter", "set": "various DBS sets", "note": "Future spouse of Android 18; stewardship node candidate"},
+    {"name": "Cell, the Gifted", "set": "various DBS sets", "note": "Cell absorbed Android 18 to achieve Perfect form — she was later expelled alive"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Android 18 (Dragon Ball Z)",
+    "ip_confidence": "high"
+  }
+}

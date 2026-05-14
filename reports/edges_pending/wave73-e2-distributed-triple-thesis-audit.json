@@ -1,0 +1,24 @@
+{
+  "edge_id": "wave73-e2-universe-6-tournament-cohort-dual-attribution",
+  "shape": "node-attribution-extension",
+  "category": "thesis-hub-dual-attribution-via-distributed-cohort-evidence",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/universe-6-tournament-cohort.md", "name": "Universe 6 Tournament cohort"},
+    {"type": "hub", "path": "cards/_hubs/labor.md", "name": "labor (produce)"},
+    {"type": "hub", "path": "cards/_hubs/stewardship.md", "name": "stewardship (tend)"}
+  ],
+  "description": "E2 hypothesis was triple-attribution (labor + rebellion + stewardship) on the U6 cohort distributed across its members. Audit of the node body found canonical citations for LABOR (cosmic-class divine entities deploy cross-species mortal-warrior-labor in a god-wager-feud, per body's existing 'functional ideology' section) and for STEWARDSHIP (Vados-as-trainer-attendant per Dragon Ball Wiki's Vados page + Vegeta-mentors-Cabba canonical knowledge-transmission beat per Dragon Ball Wiki's Cabba page — added to body as new 'Stewardship-register internal to the cohort' bullet citing the destroyer-god-attendant-dyad node as the canonical-stewardship precedent register). REBELLION refused with receipts: the hypothesis-text 'Frost = corrupted-rebellion' is Z-canon antagonist-villainy not refusal-as-political-praxis, and the cohort is canonically compelled-into-tournament-deployment rather than refusing-the-apparatus. Verdict: dual-hub compression-point, NOT triple. related_hubs: [labor] → [labor, stewardship]. The first dual-attribution where the canonical-evidence is *distributed across cohort members* rather than carried by a single named individual.",
+  "citations": [
+    "[Dragon Ball Wiki: Vados — angel attendant, Champa's combat instructor]",
+    "[Dragon Ball Wiki: Cabba — Vegeta-mentors-Cabba canonical training-beat and the cross-universe promise-to-protect register]",
+    "[Existing node body: 'cosmic-class destroyer-god deploys mortal-class warrior-labor' apparatus-of-extraction citation]",
+    "[[destroyer-god-attendant-dyad]] — structural precedent for the angel-attendant-stewardship register]",
+    "[[_triple-thesis]] — dual-hub compression-point cardinality discipline; refusal-with-receipts on the absent verb]"
+  ],
+  "files_modified": [
+    "cards/_characters/universe-6-tournament-cohort.md"
+  ],
+  "edgelord_mood": "enlightened-deliberate",
+  "notes": "Refusal-with-receipts on the rebellion-hypothesis is first-class output. The body's prior single-attribution `related_hubs: [labor]` was correct under the wave-67-commission citation set; the wave-73 audit surfaces the stewardship-register that was *latent in the existing prose* (Vados-as-trainer was always cited as 'Champa's combat instructor'; the [[destroyer-god-attendant-dyad]] node's later commission canonicalized that as stewardship-register). The dual-attribution is recovered, not invented. The corpus now has its first dual-attribution where the canonical-evidence is *distributed across cohort members* rather than carried by a single named individual — sibling pattern to single-character dual-attribution exemplars like [[bardock]] (labor + rebellion) and [[aether-foundation]] (labor + stewardship)."
+}

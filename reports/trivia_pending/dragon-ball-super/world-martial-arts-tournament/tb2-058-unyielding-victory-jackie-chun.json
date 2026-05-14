@@ -1,0 +1,40 @@
+{
+  "card_name": "Unyielding Victory Jackie Chun",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-058",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Jackie Chun' — the canonical tournament alias of Master Roshi. The alias is explicitly named in Dragon Ball lore as Roshi's disguise identity used in the 21st World Martial Arts Tournament. Art matches: white-haired elder in white gi with electric energy, consistent with Roshi/Jackie Chun's canonical tournament appearance.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Jackie Chun is the tournament alias Master Roshi adopted by gluing on a white hair toupee and removing his glasses. He entered the 21st World Martial Arts Tournament under this name specifically so his students would not know they were fighting him. [CBR: How Master Roshi Got the Nickname Jackie Chun]",
+      "sources": ["cbr.com/dragon-ball-master-roshi-jackie-chun-explained/"]
+    },
+    {
+      "category": "design",
+      "text": "Roshi's stated rationale for the disguise: if his students Goku and Krillin won the tournament easily, they might believe themselves the strongest in the world and stop training. By entering as a formidable unknown opponent, Roshi ensured they would face defeat and remain driven. Corrupted-stewardship-by-mask is the operative register: mentorship exercised through deliberate concealment. [CBR: How Master Roshi Got the Nickname Jackie Chun]",
+      "sources": ["cbr.com/dragon-ball-master-roshi-jackie-chun-explained/"]
+    },
+    {
+      "category": "mechanical",
+      "text": "This card is a Super Rare (TB2-058) in the DBS-TB02 World Martial Arts Tournament set released September 21, 2018, placing it among the highest-rarity pulls in the themed booster — appropriate for the tournament's iconic disguised elder. [dbs-cardgame.com]",
+      "sources": ["dbs-cardgame.com/us-en/product/dbs-tb02.php"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Roshi and Master Shen (Crane School) trained together under the legendary Master Mutaito, making the Jackie Chun / Master Shen pairing within this same set a canonical rivalry between two students of the same lineage who chose opposite philosophical paths. [Dragon Ball Wiki: Master Shen, via WebSearch snippet]",
+      "sources": ["dragonball.fandom.com/wiki/Master_Shen"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Master Shen, Martial Meister", "set": "World Martial Arts Tournament", "note": "Roshi and Shen share the same origin master (Mutaito); rival school dynamic."},
+    {"name": "Trusting Relationship Kami", "set": "World Martial Arts Tournament", "note": "Both Kami and Roshi/Jackie Chun are canonical elder-stewardship figures in the same set."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "card_name": "Trusting Relationship Kami",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-046",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Kami'. Art depicts a green-skinned Namekian elder in white and blue robes with a red kanji circle on the chest — canonical Kami iconography confirmed. Dragon Ball official site and multiple lore sources confirm Kami as the Namekian Guardian of Earth.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "TB2-046 is part of DBS-TB02, the World Martial Arts Tournament Themed Booster, released September 21, 2018. The set spans the classic Dragon Ball tournament sagas and includes 125 cards. [dbs-cardgame.com]",
+      "sources": ["dbs-cardgame.com/us-en/product/dbs-tb02.php"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Kami is the Namekian Guardian of Earth, the 'good half' produced when a nameless Namekian split his evil from himself, creating King Piccolo as the evil counterpart. The original Guardian (his predecessor) relinquished the title after sensing the darkness in the Nameless Namekian and died shortly after. [CBR: How Kami Became Earth's Guardian]",
+      "sources": ["cbr.com/dragon-ball-how-kami-became-earth-guardian/", "en.dragon-ball-official.com/news/01_1657.html"]
+    },
+    {
+      "category": "design",
+      "text": "During the Android Saga, Kami fused permanently with Piccolo to boost Piccolo's power against the oncoming android threat, temporarily leaving Earth without a Guardian until Dende took the role. This fusion is the canonical endpoint of Kami's independent existence. [CBR: Kami/Piccolo/Dende Connection]",
+      "sources": ["cbr.com/dragon-ball-kami-piccolo-dende-namekian-connection/"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Kami served as a mentor to young Goku and, later, to Gohan during training at the Lookout, functioning as a stewardship-tier elder in the Dragon Ball lineage — the predecessor to Piccolo's own mentor role with Gohan. [en.dragon-ball-official.com]",
+      "sources": ["en.dragon-ball-official.com/news/01_1657.html"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Speed Attack Piccolo Jr.", "set": "World Martial Arts Tournament", "note": "Piccolo is Kami's other half — the evil split of the Nameless Namekian. Their fusion in the Android Saga is the canonical resolution of Kami's arc."},
+    {"name": "Trusting Relationship Kami", "set": "World Martial Arts Tournament", "note": "Self-reference for sidecar completeness."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

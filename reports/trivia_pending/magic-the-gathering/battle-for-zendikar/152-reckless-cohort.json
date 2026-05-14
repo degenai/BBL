@@ -1,0 +1,41 @@
+{
+  "card_name": "Reckless Cohort",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "152",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"'You have a family. Mine died at Sea Gate. You go to yours, and I'll go to mine.'\" [Scryfall]. No named speaker. Sea Gate was Zendikar's largest city — built atop a massive stone dam on Tazeem — and maintained the most organized resistance against the Eldrazi incursion [MTG Wiki: Sea Gate, via mtg.wiki]. The flavor text places this unnamed soldier as a survivor of Sea Gate's fall, fighting not for hope but for grief.",
+      "sources": ["Scryfall: flavor_text field", "MTG Wiki: Sea Gate (mtg.wiki)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The oracle text — 'This creature attacks each combat if able unless you control another Ally' — mechanically encodes the flavor: the Cohort is reckless when alone, a solo survivor with nothing to hold back, but calms into unit discipline when fighting alongside fellow Allies. The self-attack drawback vanishes the moment another Ally is present, directly mirroring the flavor text's grief-without-community theme [Scryfall: oracle_text].",
+      "sources": ["Scryfall: oracle_text"]
+    },
+    {
+      "category": "design",
+      "text": "Artist: Volkan Baga [Scryfall] — the same artist as Ondu Champion (149) in this set. Pauper-legal, EDHREC rank 28831 [Scryfall: legalities, edhrec_rank] — deep bulk tier, but the flavor-text/mechanics alignment makes it a strong narrative object for bundling even at low market value ($0.04–$0.05) [Scryfall: prices].",
+      "sources": ["Scryfall: artist, legalities, edhrec_rank, prices"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Battle for Zendikar, the Allies mechanic was reframed from the original Zendikar block's 'adventuring party' concept into a unified resistance army against the Eldrazi invasion. Reckless Cohort's type line — Human Warrior Ally — places it in that resistance force, though the flavor text reveals the soldier's motivation is personal loss rather than collective cause [WebSearch: BFZ Allies Rally mechanic; Scryfall: type_line].",
+      "sources": ["Scryfall: type_line", "WebSearch: Battle for Zendikar Allies mechanic Rally keyword Zendikari resistance 2015"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ondu Champion", "set": "Battle for Zendikar", "note": "Same artist (Volkan Baga), same set, same red Ally resistance cluster — natural pair"},
+    {"name": "Sea Gate Wreckage", "set": "Oath of the Gatewatch", "note": "Named location referenced in flavor text; BFZ block follow-up set"},
+    {"name": "Firemantle Mage", "set": "Battle for Zendikar", "note": "BFZ red Ally with Rally that grants menace — same Ally-resistance shell"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

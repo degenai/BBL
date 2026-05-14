@@ -55,3 +55,15 @@ A mid-shot of a minotaur warrior — the bovine horns and broad head with animal
 **Iconography:** horns, chains, warrior-stance
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set / lore context** — Ondu is one of Zendikar's seven continents, located in the plane's southwestern quadrant — jagged cliffs, windswept mesas, cavern-cathedral chambers. After the Eldrazi titans' release, Ondu's canyons and forests teemed with their broods, but the land itself reportedly resisted: crystalline shards erupted to impale Eldrazi, canyons opened beneath them, and mesas developed limbs to crush them. Ondu supports diverse communities including kor, goblins, and elves `[MTG Wiki: Ondu, mtg.wiki]`.
+- **Design / mechanic** — Typed Minotaur Warrior Ally. The Ally subtype was reframed in BFZ from the original Zendikar block's "adventuring party" concept into a unified resistance army against the Eldrazi. Rally (Ondu Champion's keyword) triggers whenever any Ally enters, granting all controlled creatures trample until end of turn — representing momentum of a rallying force `[Scryfall: oracle_text; MTG Wiki: Rally, mtg.wiki; WebSearch: BFZ Allies mechanic]`.
+- **Flavor text** — "Put a minotaur at the head of an army and suddenly all the soldiers act like they have horns." — Gideon Jura `[Scryfall]`. Gideon is the planeswalker who spent BFZ rallying Zendikar's survivors into organized resistance; his observation here is pragmatic: minotaur presence transforms troop psychology, not just tactics.
+- **Design** — Artist: Volkan Baga, who also illustrated Reckless Cohort (152) in the same set — two BFZ red Ally resistance-themed cards sharing an artist, a deliberate visual-cohesion pairing. Pauper-legal; EDHREC rank 15154 `[Scryfall]` — strongest EDHREC showing of the four BFZ cards in this wave, reflecting Ally-tribal's dedicated casual audience.
+
+### Related cards
+- Reckless Cohort (Battle for Zendikar, no. 152) — same artist (Volkan Baga), same set, same red Ally resistance cluster
+- Gideon, Ally of Zendikar (Battle for Zendikar) — the planeswalker quoted in flavor text; central BFZ resistance figure
+- Zulaport Cutthroat (Battle for Zendikar) — key Ally-tribal payoff card sharing BFZ Ally-resistance mechanical theme
+

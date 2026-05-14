@@ -1,0 +1,36 @@
+{
+  "card_name": "Supreme Showdown Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-002",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies Son Goku. The extreme close-up portrait with golden Super Saiyan aura and lightning matches standard DBS TCG Super Rare composition for Goku cards. The 'Supreme Showdown' title, combined with the World Martial Arts Tournament set context, places this as Goku in the 25th World Martial Arts Tournament (Budokai arc), where Goku fought Vegeta in what was considered a supreme/peak showdown. IP verified as Son Goku (Dragon Ball Z / Dragon Ball Super).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The World Martial Arts Tournament themed booster (DBS-TB02) was released by Bandai in September 2018 and focuses on the 25th World Martial Arts Tournament arc of Dragon Ball Z, where Goku returned from the dead for a single day to compete. As a Super Rare (rarity SR), TB2-002 is one of the premium pulls in the set. [WebSearch: Dragon Ball Super World Martial Arts Tournament TB2 September 2018]",
+      "sources": ["WebSearch: DBS-TB02 World Martial Arts Tournament Bandai 2018"]
+    },
+    {
+      "category": "design",
+      "text": "The extreme close-up portrait composition — face and upper chest filling the frame — is the DBS TCG's visual language for high-rarity Goku cards. The close-up conveys power intensity through proximity rather than action posing, a design choice that distinguishes Super Rare cards from Common/Uncommon Battle Cards in the same set. [DBZ Exchange: TB2-002 Supreme Showdown Son Goku]",
+      "sources": ["WebSearch: Dragon Ball Super World Martial Arts Tournament TB2 set card list"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The 25th World Martial Arts Tournament (the Budokai arc) was the narrative pivot of Dragon Ball Z's Majin Buu Saga: Goku was granted one day of life by King Yemma to compete, which became the occasion for the Z Fighters to encounter Babidi's forces. Goku's 'supreme showdown' at this tournament is ambiguous — his scheduled match against Vegeta was never completed, interrupted by the Majin threat. [WebSearch: Dragon Ball Z 25th World Martial Arts Tournament Goku one day alive Budokai Majin Buu]",
+      "sources": ["WebSearch: World Martial Arts Tournament Dragon Ball Wiki Fandom"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Test of Strength Son Goku", "set": "World Martial Arts Tournament", "note": "TB2-020 — second Goku card in this set, different rarity and pose mode; paired Goku representation"},
+    {"name": "Vegeta (World Martial Arts Tournament)", "set": "World Martial Arts Tournament", "note": "Goku's scheduled opponent in the 25th tournament — the 'supreme showdown' that never finished"},
+    {"name": "Babidi's Spaceship", "set": "World Martial Arts Tournament", "note": "TB2-018 — the Babidi plot interrupted the tournament Goku returned for"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Son Goku (Dragon Ball Z / Dragon Ball Super)",
+    "ip_confidence": "high"
+  }
+}

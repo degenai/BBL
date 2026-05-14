@@ -1,0 +1,41 @@
+{
+  "card_name": "Awakening Talent Pan",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-024",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Pan' and the characters field already has [pan]. Art depicts a young girl in an orange gi with dark hair and energy aura — consistent with Pan's canonical appearance across Dragon Ball Z and GT.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Pan is the daughter of Gohan and Videl, granddaughter of Goku and Mr. Satan, and great-granddaughter of both Ox-King and Bardock. She is a quarter-Saiyan — the furthest dilution of Saiyan blood in the main Dragon Ball family tree to demonstrate combat ability. [Dragon Ball Wiki: Pan; Wikipedia: Chi-Chi (Dragon Ball)]",
+      "sources": ["dragonball.fandom.com/wiki/Pan", "en.wikipedia.org/wiki/Chi-Chi_(Dragon_Ball)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Pan represents four living generations in the Son family: Goku (great-grandparent generation) → Gohan (parent) → Pan → Goku Jr. (in GT timeline). Chi-Chi is her paternal grandmother, making Chi-Chi the maternal link in this lineage chain from fighter to fighter. [CBR: Goku's Complete Family Tree; Dragon Ball Official Site: Pan showcase]",
+      "sources": ["cbr.com/dragon-ball-goku-complete-family-tree/", "en.dragon-ball-official.com/news/01_3374.html"]
+    },
+    {
+      "category": "design",
+      "text": "Despite being only a quarter-Saiyan, Pan demonstrated enough latent power to fly as an infant in Dragon Ball Super — a feat that surprised even veteran characters. In GT she is one of the primary protagonists accompanying Goku. The 'Awakening Talent' card title directly references her exceptional latent capacity. [Dragon Ball Official Site: Pan showcase, via WebSearch snippet]",
+      "sources": ["en.dragon-ball-official.com/news/01_1126.html"]
+    },
+    {
+      "category": "mechanical",
+      "text": "TB2-024 is a Rare rarity card, the same rarity as Chi-Chi (TB2-037), signaling the set's consistent treatment of the Son family female fighters as mid-tier pulls. At $0.22 market price it is Pan's only TB2 representation and functions as her fifth canonical anchor card across the overall inventory. [dbs-cardgame.com]",
+      "sources": ["dbs-cardgame.com/us-en/product/dbs-tb02.php"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fateful Reunion Chi-Chi", "set": "World Martial Arts Tournament", "note": "Chi-Chi is Pan's paternal grandmother; same 4-generation lineage chain."},
+    {"name": "Speed Attack Piccolo Jr.", "set": "World Martial Arts Tournament", "note": "Piccolo mentored Gohan who is Pan's father; mentor-chain connects these cards."},
+    {"name": "Trusting Relationship Kami", "set": "World Martial Arts Tournament", "note": "Kami → Piccolo → Gohan → Pan: the stewardship-lineage runs through this chain."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

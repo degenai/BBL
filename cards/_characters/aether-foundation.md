@@ -12,7 +12,7 @@ appears_on:
   - pokemon/shining-legends/62-lillie
   - pokemon/cosmic-eclipse/100-236-cosmog
   - pokemon/burning-shadows/112-147-acerola
-related_hubs: [labor]
+related_hubs: [labor, stewardship]
 related_symbols: []
 related_characters: [macro-cosmos, team-skull, team-rocket, alola-elite-four, alola-trial-captains, alolan-regional-forms]
 ip_resolution_for: aether-foundation

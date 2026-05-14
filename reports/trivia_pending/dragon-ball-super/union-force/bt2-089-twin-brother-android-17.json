@@ -1,0 +1,36 @@
+{
+  "card_name": "Twin Brother Android 17",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-089",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies the figure as Android 17. Union Force is an official Bandai-licensed DBS TCG product. Android 17 (originally named Lapis) is a canonical Dragon Ball Z character — internal Toei Animation / Bird Studio IP. No external crossover risk; no IP callout block required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "IP verified: The card name 'Twin Brother Android 17' directly identifies the depicted figure. Android 17's birth name is Lapis — his twin sister Android 18 (born Lazuli) shares the gemstone naming pun. The twins were human juvenile delinquents encountered by Dr. Gero, who forcibly converted them into cyborgs (more precisely, cybernetically enhanced humans) to serve as weapons against Goku [WebSearch: Android 17 Android 18 Dragon Ball Z Dr Gero twins Lapis Lazuli].",
+      "sources": ["WebSearch: Android 17 Android 18 Dragon Ball Z Dr Gero twins Lapis Lazuli Cell absorption"]
+    },
+    {
+      "category": "set-lore",
+      "text": "During the Cell Saga, Android 17 was absorbed by Cell to achieve his Semi-Perfect form. Unlike Android 18 (who was later expelled by Cell), Android 17 was still inside Cell when Cell self-destructed — dying in the explosion before being revived via the Dragon Balls after Cell's defeat [WebSearch: Android 17 Android 18 Cell absorption Dragon Ball Z]. The card title's 'Twin Brother' framing emphasizes the 17/18 sibling-dyad as a canonical design unit.",
+      "sources": ["WebSearch: Android 17 Android 18 Dragon Ball Z Dr Gero twins Lapis Lazuli Cell absorption"]
+    },
+    {
+      "category": "design",
+      "text": "Union Force (BT2) released November 2017 by Bandai [WebSearch: Dragon Ball Super Union Force BT2 2017]. The parallel 'Twin Brother / Twin Sister' card naming for Android 17 (BT2-089) and Android 18 (BT2-091) is a deliberate designer-coordinated dyad: consecutive card numbers with mirrored titles, the same set encoding both halves of a canonical sibling pair. This is analogous to the dark-vassal-trio designer-coordinated cohort pattern in the BBL corpus.",
+      "sources": ["WebSearch: Dragon Ball Super Union Force BT2 release date 2017 Bandai", "Scryfall-analog: collector_numbers BT2-089 and BT2-091"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Twin Sister Android 18", "set": "Union Force", "note": "Canonical sibling pair; card no. BT2-091 — consecutive numbers encode the dyad"},
+    {"name": "Cell, the Gifted", "set": "various DBS sets", "note": "Cell absorbed Android 17 to achieve Semi-Perfect form"},
+    {"name": "Dr. Gero", "set": "various DBS sets", "note": "Creator — the twins were his 17th and 18th android creations"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Android 17 (Dragon Ball Z)",
+    "ip_confidence": "high"
+  }
+}

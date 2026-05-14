@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["mountain", "landscape", "river", "forest", "peaks", "wilderness", "sublime", "twilight", "cold", "valley"]
+tags_filter: ["none", "wide", "narrative", "no-face", "multicolor-red-green", "land", "tarkir", "tapland", "cycle-cohort"]
 reference_image: cards/_images/magic-the-gathering/fate-reforged/170-rugged-highlands.png
 average_cost_paid: 0
 market_price: 0.2
@@ -28,6 +28,26 @@ oracle_text: This land enters tapped.\nWhen this land enters, you gain 1 life.\n
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: sublime
+time_of_day: twilight
+setting: mountain
 ---
 
 # Rugged Highlands (Fate Reforged)
+
+## Vision
+
+![170-rugged-highlands](../../_images/magic-the-gathering/fate-reforged/170-rugged-highlands.png)
+
+A sweeping mountain landscape painting. Two massive rocky peaks dominate the upper portion, their faces lit by a low-angle light that catches the warm stone tones against a cool blue-grey sky. A narrow river or glacial stream runs through the valley at the base of the peaks. Dense conifer forest — dark green, almost black — covers the lower slopes and foreground ridge. Snow or ice is visible at the base of the valley. The scene has a grand, sublime quality, with no human or creature presence visible.
+
+**Subject:** A dramatic alpine landscape with steep rocky peaks, a river valley, and dark conifer forest under a twilight sky
+
+**Composition:** wide, narrative, figures: none, facing: n/a
+**Setting:** mountain, twilight, clear
+**Foreground:** Dark conifer forest on rocky ridge with hints of snow  *(palette: dark green, near-black, grey-blue)*
+**Background:** Massive rocky peaks and open sky with river valley below  *(palette: warm tan-orange, cool grey-blue, steel blue)*
+**Mood / lighting:** sublime, ambient
+**Emotion read:** grand, vast, imposing silence
+**Genre cues:** fantasy
+

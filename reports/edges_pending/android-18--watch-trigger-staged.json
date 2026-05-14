@@ -1,0 +1,25 @@
+{
+  "edge_id": "android-18--watch-trigger-staged",
+  "shape": "watch-trigger-staged",
+  "wave": 72,
+  "move_number": "E3",
+  "category": "deferred-node-candidate",
+  "description": "Lightweight E3 after the wave-72 son-gohan node commissioning. Krillin's Eighteen-husband relation is canonical-evidenced at the krillin.md body-prose layer (14+ references) but lacks a graph endpoint — Android 18 has only one corpus anchor (BT2-091 Twin Sister Android 18), sub-threshold for solo character-node commission. Rather than forward-pointer with a dangling [[android-18]] wikilink (which would fail bbl_node_audit.py's wikilink check), I'm staging the future-commission trigger in reports/janitor_triage.md as a 'Nodeley trigger when ≥1 additional Android 18-depicting card enters corpus' entry. The triage parking-lot is the right home for this per [[bbl-janitor-triage-file]]; no substrate change, no false-edge drift, the relation remains canonical in krillin.md prose, and the future commission lands cleanly when corpus density catches up. Edgelord refusal-with-receipts: anchor count is 1, threshold is ≥2, no node yet. Note also the canonical Twin-Androids cohort (BT2-089 Twin Brother Android 17 corpus-present) implies a future android-17 dual-commission once android-18 lands.",
+  "endpoints_considered": [
+    {"type": "card", "path": "cards/dragon-ball-super/union-force/bt2-091-twin-sister-android-18.md", "name": "Twin Sister Android 18 (BT2-091)"},
+    {"type": "card", "path": "cards/dragon-ball-super/union-force/bt2-089-twin-brother-android-17.md", "name": "Twin Brother Android 17 (BT2-089)"},
+    {"type": "character-node-existing", "path": "cards/_characters/krillin.md", "name": "Krillin (wave 71 solo)"}
+  ],
+  "verdict": "refuse-and-stage-trigger",
+  "files_modified": [
+    "reports/janitor_triage.md (new Android 18 future-node-trigger entry added under Open — future-node candidates)"
+  ],
+  "citations": [
+    "[Dragon Ball Wiki: Android 18]",
+    "[Krillin node body prose: 14+ Eighteen-references already canonicalized]",
+    "[CBR: Dragon Ball Z Krillin Was Right to Spare Android 18's Life During the Cell Arc — already cited in krillin.md]"
+  ],
+  "substrate_delta": {"before": 78, "after": 78},
+  "edgelord_mood": "satisfied",
+  "rationale_for_satisfied_not_blueballed": "The refusal itself is the elegant move. Anchor count is honest at 1; trigger-staging in janitor_triage.md is the structurally-correct cleanup move per [[bbl-janitor-triage-file]] without inflating substrate or creating dangling-wikilink drift. The Krillin-Eighteen relation stays canonical at the body-prose layer where it already lives."
+}

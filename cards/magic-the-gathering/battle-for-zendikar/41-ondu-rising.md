@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["stone-creature", "elemental", "desert", "Zendikar", "floating-islands", "awakening", "landscape", "giant", "sky", "landmass"]
+tags_filter: ["wide", "narrative", "no-face", "white-magic", "instant", "awaken"]
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/41-ondu-rising.png
 average_cost_paid: 0
 market_price: 0.05
@@ -29,18 +29,28 @@ oracle_text: Whenever a creature attacks this turn, it gains lifelink until end 
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: sublime
+time_of_day: day
+setting: desert
 ---
 
 # Ondu Rising (Battle for Zendikar)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![41-ondu-rising](../../_images/magic-the-gathering/battle-for-zendikar/41-ondu-rising.png)
 
+A towering stone creature — its body formed from the same sandy rock as the Zendikari landscape — walks across an open plain. Its silhouette reads as a stocky quadruped or bipedal elemental with thick limbs. Around and behind it, flat angular stone fragments float in the air, characteristic of Zendikar's gravity-defying terrain. The sky is pale blue with scattered clouds. The palette is warm sandy tan and pale blue. A tiny secondary figure or object appears in the distant right sky.
 
-**Subject:** 
+**Subject:** A massive stone elemental or land-creature strides across a desert plain; smaller floating rock formations and landmasses drift in the sky behind it
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, narrative, figures: solo, facing: right
+**Setting:** desert, day, clear
+**Foreground:** massive stone elemental walking across sand, angular stone body  *(palette: tan, sandy-brown, grey)*
+**Background:** pale blue sky, floating stone fragments, open desert plain  *(palette: pale-blue, white, tan)*
+**Mood / lighting:** sublime, ambient
+**Emotion read:** quiet geological power, unhurried enormity
+**Creatures:** stone elemental, land-creature
+**Iconography:** floating stones, Zendikar hedrons
+**Genre cues:** fantasy
 

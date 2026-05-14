@@ -1,0 +1,40 @@
+{
+  "card_name": "Fateful Reunion Chi-Chi",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-037",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Chi-Chi'. Art depicts a female-presenting fighter in blue and white martial arts uniform with dark hair pulled back — consistent with Chi-Chi's tournament-era appearance in Dragon Ball. Title 'Fateful Reunion' references her and Goku's reunion at the 23rd World Tournament.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Chi-Chi's canonical tournament debut is the 23rd World Martial Arts Tournament, where she competed under the alias 'Anonymous' (entry number 59 in the preliminaries). She and Goku faced each other in a match before Goku recognized her — this is the 'fateful reunion' the card title references. [Chi-Chi Dragon Ball Wiki, via WebSearch snippet]",
+      "sources": ["dragonball.fandom.com/wiki/Chi-Chi"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Chi-Chi is the daughter of the Ox-King, wife of Goku, mother of Gohan and Goten, grandmother of Pan, and great-great-grandmother of Goku Jr. in the GT timeline — a 4-generation matrilineal lineage that anchors the Son family's earthly human side across the entire Dragon Ball franchise. [Wikipedia: Chi-Chi (Dragon Ball); CBR: Goku's Complete Family Tree]",
+      "sources": ["en.wikipedia.org/wiki/Chi-Chi_(Dragon_Ball)", "cbr.com/dragon-ball-goku-complete-family-tree/"]
+    },
+    {
+      "category": "design",
+      "text": "Chi-Chi is a quarter-Saiyan great-grandmother of Pan: Goku (Saiyan) → Gohan (half-Saiyan) → Pan (quarter-Saiyan), with Chi-Chi as the human grounding force in each generational transition. Pan inherits the fighting spirit through both lines. [Wikipedia: Chi-Chi; Pan Dragon Ball Wiki, via WebSearch snippet]",
+      "sources": ["en.wikipedia.org/wiki/Chi-Chi_(Dragon_Ball)", "dragonball.fandom.com/wiki/Pan"]
+    },
+    {
+      "category": "mechanical",
+      "text": "This card is a Rare (TB2-037) in DBS-TB02, one rarity below the Super Rares like Jackie Chun (TB2-058) — reflecting Chi-Chi's status as a significant but non-tier-1 tournament fighter in the source material. [dbs-cardgame.com]",
+      "sources": ["dbs-cardgame.com/us-en/product/dbs-tb02.php"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Awakening Talent Pan", "set": "World Martial Arts Tournament", "note": "Pan is Chi-Chi's granddaughter; 4-generation lineage node."},
+    {"name": "Speed Attack Piccolo Jr.", "set": "World Martial Arts Tournament", "note": "Piccolo mentored Gohan, Chi-Chi's son — the two primary adult influences on the next generation."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

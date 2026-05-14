@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["archer", "elf", "forest", "hunter", "ambush", "warrior", "armor", "bow", "undergrowth", "nature-warrior", "predator"]
+tags_filter: ["solo", "mid-shot", "action", "three-quarter", "green-magic", "creature-elf-archer", "deathtouch", "reach", "forward-facing"]
 reference_image: cards/_images/magic-the-gathering/eternal-masters/189-thornweald-archer.png
 average_cost_paid: 0
 market_price: 0.21
@@ -29,6 +29,27 @@ oracle_text: Reach (This creature can block creatures with flying.)\nDeathtouch 
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: forest
 ---
 
 # Thornweald Archer (Eternal Masters)
+
+## Vision
+
+![189-thornweald-archer](../../_images/magic-the-gathering/eternal-masters/189-thornweald-archer.png)
+
+A compact, heavily armored elf figure occupies the center of the frame, wearing ornate green and gold plate armor with layered shoulder pieces. The figure is crouched or braced among a mass of dark twisted roots and shadowed undergrowth, drawing back a longbow. The arrow shaft is clearly visible. The armor has organic, leaf-like decorative elements. The background is dark and crowded with tangled vegetation. The overall palette is muted olive, dark green, and deep shadow with gold highlights on the armor.
+
+**Subject:** An armored elf archer in elaborate green and gold armor, drawing back a long bow among tangled dark roots and foliage
+
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** forest, indeterminate
+**Foreground:** Armored elf drawing a longbow amid twisted roots and dark undergrowth  *(palette: olive green, gold, dark brown, shadow black)*
+**Background:** Dense tangled roots and dark forest shadow  *(palette: dark green, deep brown, shadow black)*
+**Mood / lighting:** action, chiaroscuro
+**Emotion read:** focused, tense, predatory readiness
+**Objects:** longbow, arrow, armor
+**Genre cues:** fantasy
+

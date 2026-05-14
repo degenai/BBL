@@ -30,6 +30,7 @@ setting: void
 suspected_ip: Son Gohan — Mystic/Ultimate form (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
+characters: ["son-gohan"]
 ---
 
 # Newfound Power Son Gohan (Colossal Warfare)

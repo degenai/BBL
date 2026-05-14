@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["goblin", "defiance", "fire", "tentacles", "underdog", "recklessness", "scale-contrast", "charge", "Eldrazi", "volcanic"]
+tags_filter: ["solo", "mid-shot", "action", "faces-right", "red-magic", "instant", "creature-goblin"]
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/157-sure-strike.png
 average_cost_paid: 0
 market_price: 0.05
@@ -30,18 +30,28 @@ oracle_text: Target creature gets +3/+0 and gains first strike until end of turn
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: mountain
 ---
 
 # Sure Strike (Battle for Zendikar)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![157-sure-strike](../../_images/magic-the-gathering/battle-for-zendikar/157-sure-strike.png)
 
+A small goblin figure occupies the center of the image, crouching and thrusting a spear forward with evident aggression. The goblin is surrounded by massive curling tentacle-like Eldrazi appendages that dwarf the figure in scale. The entire scene is bathed in intense orange-gold fire light, with smoke and flame filling the background. The scale mismatch between the tiny goblin and the looming tentacles is the visual core of the composition — a reckless charge into overwhelming odds.
 
-**Subject:** 
+**Subject:** A goblin holding a spear charges forward against massive Eldrazi tentacle limbs in a fiery volcanic landscape
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: right
+**Setting:** mountain, indeterminate, fire
+**Foreground:** goblin with spear mid-charge  *(palette: orange, gold, brown)*
+**Background:** fire, smoke, massive Eldrazi tentacles  *(palette: orange, gold, red)*
+**Mood / lighting:** action, harsh
+**Emotion read:** reckless bravery, defiance against overwhelming odds
+**Objects:** spear
+**Creatures:** goblin, Eldrazi tentacles
+**Genre cues:** fantasy
 

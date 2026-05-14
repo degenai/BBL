@@ -1,0 +1,33 @@
+{
+  "edge_id": "wave-72-e4--skip-with-receipts",
+  "shape": "skip-with-receipts",
+  "wave": 72,
+  "move_number": "E4",
+  "verdict": "skip",
+  "description": "Wave 72 E4 skip-with-receipts. E2 commissioned son-gohan (8 card-wires + 5 character-cross-mirrors + dual-IP BT2-098 wired to both son-goku and son-gohan — substrate 77→78). E3 staged the Android 18 future-node trigger in janitor_triage.md without inflating substrate. The remaining wave-72 candidates from the brief (Babidi's Spaceship artifact wire was already-applied wave-72-trivia state; Serene Steward stewardship-hub first-MTG-side anchor is sub-threshold with 1 anchor; Cell Jr. cohort is sub-threshold at 1 anchor) are all either already-resolved or below threshold. Curator's call: stop here. The wave-72 son-gohan commission is load-bearing enough that an E4 second-Nodeley pass in the same wave would risk substrate-inflation without canonical-evidence-density backing. Standard Edgelord refusal discipline applies: do nothing rather than something thin.",
+  "candidates_considered": [
+    {
+      "candidate": "Babidi's Spaceship TB2-018 dual-wire to babidi node",
+      "verdict": "already-resolved",
+      "rationale": "TB2-018 frontmatter already has characters: [babidi] (applied wave 72 trivia) and is in babidi.md appears_on list. No work needed."
+    },
+    {
+      "candidate": "Serene Steward BFZ-46 first-MTG-side stewardship-hub anchor",
+      "verdict": "defer per brief",
+      "rationale": "1 corpus anchor only; sub-threshold for solo node. Brief explicitly suggests deferring until 2nd MTG-side steward-coded card emerges. No janitor_triage.md trigger entry created this wave — the stewardship hub itself ([[stewardship]]) already exists in cards/_hubs/ and Serene Steward's connection lives at the hub-tag layer via tags_hub if applied. Sufficient at the current density."
+    },
+    {
+      "candidate": "Cell Jr. cohort node from BT2-087",
+      "verdict": "defer",
+      "rationale": "1 corpus anchor (BT2-087 Uncountable Many Cell Jr.); sub-threshold for solo cohort node. Cell + Dr. Gero are enriched but no Cell solo node exists yet — a future Cell-Saga-roster cohort node would require Cell + Cell Jr. + Dr. Gero + others as members. Below threshold this wave; surface in janitor_triage.md only if a future wave commissions Cell first."
+    },
+    {
+      "candidate": "Father-Son Kamehameha BT2-098 dual-wire",
+      "verdict": "absorbed into E2",
+      "rationale": "BT2-098 was wired in E2 as part of the son-gohan commission (characters: [son-goku, son-gohan]); son-goku.md appears_on extended to include BT2-098. The dual-IP relation is fully closed."
+    }
+  ],
+  "substrate_delta": {"before": 78, "after": 78},
+  "edgelord_mood": "satisfied",
+  "rationale_for_skip": "Refusal-with-receipts is first-class per the spec. Substrate is 78, audit is clean (0 drift / 0 appears_on / 0 yaml / 0 dangling-wikilinks / 1 expected sentinel below-threshold _triple-thesis), wave-72 vision and trivia both fully applied, son-gohan commission is the wave's load-bearing move. A second commission this wave would be thin-energy."
+}

@@ -30,6 +30,7 @@ setting: void
 suspected_ip: Son Gohan
 ip_confidence: high
 ip_verified: true
+characters: ["son-gohan"]
 ---
 
 # Son Gohan, Family of Justice (Galactic Battle)

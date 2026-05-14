@@ -1,0 +1,36 @@
+{
+  "card_name": "Ginyu // Ginyu, The Malicious Transformation",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-085",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Ginyu // Ginyu, The Malicious Transformation'. Purple-skinned, horned humanoid in white-and-orange Ginyu Force battle armor, dramatic battle pose — all canonical visual identifiers of Captain Ginyu from Dragon Ball Z. Confirmed via card name, DBZ Wiki, CBR, and official Dragon Ball website character showcase.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "BT1-085 is a flip card (Leader Card format) in Galactic Battle: the front side depicts Ginyu in standard battle pose with a Life Card flip mechanic tied to Ginyu Force card identity; the awakened back side (Ginyu, The Malicious Transformation) adds Double Strike and a +5000 power bonus when two or more Ginyu Force cards are in play. The mechanic thematically encodes Ginyu's body-swap ability — the card 'transforms' just as Ginyu inhabits new bodies. [dbscards.fr: BT1-085 card mechanics; DBSCG official site]",
+      "sources": ["dbscards.fr: BT1-085-UC Ginyu // Ginyu, la transformation fourbe", "DBSCG official site"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Captain Ginyu's 'Body Change' technique (shouted as 'Change Now!' or 'Switch!') allows him to swap bodies with any target by firing a beam of light. During the Frieza Saga, Ginyu used it on Goku after inflicting a severe self-injury to trade into Goku's more powerful body — but his inability to tap Goku's full power, combined with Goku intercepting a second swap attempt, left Ginyu permanently trapped in the body of a Namekian frog. [CBR: DBZ Captain Ginyu Body Swap OP Anime Attack; Dragon Ball Wiki Fandom: Body Change]",
+      "sources": ["CBR: 35 Years Ago, Dragon Ball Z Debuted the Most Busted Anime Ability of All Time", "Dragon Ball Wiki Fandom: Body Change"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Captain Ginyu leads the Ginyu Force, an elite mercenary squad in Frieza's Planet Trade Organization. The Force is notable for its camp-theatrical pose routines — a comedic contrast to their genuine power level — and includes Recoome, Burter, Jeice, and Guldo. In BT1, multiple Ginyu Force members have their own cards (Guldo at BT1-099), reflecting the squad's collective identity. [Dragon Ball official site: Weekly Character Showcase no. 117: Ginyu!; Villains Wiki: Galactic Frieza Army]",
+      "sources": ["Dragon Ball official site: Weekly Character Showcase #117: Ginyu!", "Villains Wiki: Galactic Frieza Army"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ginyu Force Guldo", "set": "Galactic Battle", "note": "BT1-099 — fellow Ginyu Force member in same set"},
+    {"name": "Frieza, The Galactic Emperor", "set": "Galactic Battle", "note": "Ginyu reports directly to Frieza in the Planet Trade Organization hierarchy"},
+    {"name": "King Cold, Father of the Emperor", "set": "Galactic Battle", "note": "King Cold originally founded the empire Ginyu Force serves; both in BT1"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

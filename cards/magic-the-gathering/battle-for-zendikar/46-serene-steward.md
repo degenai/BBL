@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["steward", "guardian", "ruins", "staff", "traveler", "watchfulness", "cleric", "calm", "resolve", "protector"]
+tags_filter: ["solo", "mid-shot", "three-quarter", "portrait", "female-figure", "white-magic", "creature-kor-cleric"]
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/46-serene-steward.png
 average_cost_paid: 0
 market_price: 0.08
@@ -30,18 +30,33 @@ oracle_text: Whenever you gain life, you may pay {W}. If you do, put a +1/+1 cou
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: peaceful
+time_of_day: indeterminate
+setting: other
 ---
 
 # Serene Steward (Battle for Zendikar)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![46-serene-steward](../../_images/magic-the-gathering/battle-for-zendikar/46-serene-steward.png)
 
+A female-presenting figure stands confidently in a ruined stone archway, looking upward and slightly off to the side with an expression of calm resolve. She wears layered traveling clothes — a cloak, fitted vest, belt with pouches — and goggles pushed up on her forehead. Her hair is short and appears to have a reddish-pinkish hue. She holds a staff in one hand at her side. The ruins behind her are pale stone columns and archways; chains hang in the background. The overall palette is warm grey and brown with muted warm tones.
 
-**Subject:** 
+**Subject:** A female-presenting humanoid figure in traveling clothes and goggles, holding a staff, stands amid stone ruins with a calm, upward-gazing expression
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: three-quarter
+**Setting:** other, ruined, indeterminate, calm
+**Foreground:** female-presenting figure with staff in ruined stone archway, goggles on forehead  *(palette: grey, brown, warm-tan)*
+**Background:** pale stone ruins, hanging chains, archways  *(palette: pale-grey, warm-grey, brown)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** calm resolve, quiet guardianship, upward gaze suggests hope or watchfulness
+**Objects:** staff, goggles, belt pouches
+**Iconography:** staff, ruins, chains
+**Genre cues:** fantasy
+
+## Connections
+
+- [[129-kozilek-s-sentinel]] — Battle for Zendikar triple-thesis cycle, stewardship-verb anchor. This card canonically depicts the white-magic protector-tier of the BFZ resistance: a steward in Zendikari ruins offering strength to others rather than taking from them. The flavor "I can give you strength, but you'll have to bring your own courage" frames care-without-coercion as the stewardship-register; the lifelink-pump oracle text mechanically encodes care-while-resisting (`Whenever you gain life, you may pay {W}. If you do, put a +1/+1 counter on target creature`). Kozilek's Sentinel canonically depicts the apparatus the steward is *holding the ground against* — the Eldrazi drone-caste pressing through Zendikar's tunnels, Devoid encoding mana-identity-stripping as the cosmological-scale extraction. Citations: [Scryfall: oracle_text + flavor_text on Serene Steward]; [[_triple-thesis]] triangle cardinality.
+- [[152-reckless-cohort]] — Battle for Zendikar triple-thesis cycle, completes the three-position triangle via the *resistance refuses* face. Reckless Cohort canonically depicts the Ally-resistance army's rebellion-tier (Sea Gate survivor, organized-Ally-tribal mechanics encoding unified refusal of the Eldrazi extraction-apparatus). The three BFZ commons together compose the corpus's first 3-card MTG cycle hitting all three thesis-verbs simultaneously: this card is the *steward holds the ground* face alongside Reckless Cohort's *resistance refuses* and Kozilek's Sentinel's *apparatus consumes*. Citation: [[_triple-thesis]] foundational meta-hub for the three-verb triangle architecture.
 

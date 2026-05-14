@@ -1,0 +1,40 @@
+{
+  "card_name": "Boost Attack Piccolo",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-045",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Boost Attack Piccolo'. Green skin, white flowing cape, white turban, antennae/ear-stalks, palm-forward energy blast — all canonical visual identifiers of Piccolo (Namekian warrior, son of Piccolo Daimao) across DBZ through DBS. Confirmed via card name and Wikipedia: Piccolo (Dragon Ball).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Boost Attack Piccolo (BT1-045) is a Common in Galactic Battle, the first Dragon Ball Super Card Game set (July 28, 2017). The card depicts Piccolo in his post-fusion state — following his permanent absorption of Nail on Planet Namek during the Frieza Saga, which gave him a massive power increase sufficient to challenge Frieza's Second Form. [Wikipedia: Piccolo (Dragon Ball); CBR: Dragon Ball: What Makes Namekian Fusion So Unique?]",
+      "sources": ["Wikipedia: Piccolo (Dragon Ball)", "CBR: Dragon Ball: What Makes Namekian Fusion So Unique?"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Piccolo is the canonical mentor-figure of Gohan across the entire Z-through-Super continuity. He began training Gohan before the Saiyan Saga to prepare for Vegeta and Nappa's arrival, and his mentorship reached its apex in the Cell Saga: Gohan explicitly requested a copy of Piccolo's gi before the Cell Games, wearing his mentor's uniform as an act of connection and confidence. This makes Piccolo the clearest stewardship-register in the Z roster — a former antagonist whose entire late-series arc is the labor of raising another fighter. [CBR: Dragon Ball: Everything You Need to Know About Gohan and Piccolo; CBR: 5 Times Gohan and Piccolo Were the Best Dragon Ball Duo]",
+      "sources": ["CBR: Dragon Ball: Everything You Need to Know About Gohan & Piccolo", "CBR: 5 Times Gohan & Piccolo Were The Best Dragon Ball Duo"]
+    },
+    {
+      "category": "design",
+      "text": "Piccolo's white cape and turban are his signature visual identifiers, worn throughout DBZ and Dragon Ball Super — they are removed before combat but the card art retains them, suggesting a pre-battle charge-up moment rather than active fighting stance. [Wikipedia: Piccolo (Dragon Ball)]",
+      "sources": ["Wikipedia: Piccolo (Dragon Ball)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The 'boost attack' title references Piccolo's combat style of energy-amplified strikes rather than physical-only martial arts. His signature technique is the Makankosappo (Special Beam Cannon) — a focused drill-beam requiring extended charge time, thematically consistent with the 'boost before attack' framing. [Wikipedia: Piccolo (Dragon Ball)]",
+      "sources": ["Wikipedia: Piccolo (Dragon Ball)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Son Gohan, Family of Justice", "set": "Galactic Battle", "note": "Gohan is Piccolo's canonical student; BT1-062 in same set"},
+    {"name": "Boost Attack Piccolo", "set": "Galactic Battle", "note": "Self-reference for archive tracking"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -14,7 +14,7 @@ appears_on:
   - dragon-ball-super/world-martial-arts-tournament/tb2-024-awakening-talent-pan
 related_hubs: [labor]
 related_symbols: []
-related_characters: [son-goku, trunks, saiyan, bulma]
+related_characters: [son-goku, son-gohan, trunks, saiyan, bulma]
 ip_resolution_for: ["Pan", "Pan (Dragon Ball)", "Pan (Dragon Ball GT)", "Pan (Dragon Ball Super)"]
 ---
 

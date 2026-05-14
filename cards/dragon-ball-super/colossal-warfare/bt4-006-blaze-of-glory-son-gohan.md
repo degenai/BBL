@@ -30,6 +30,7 @@ setting: void
 suspected_ip: Son Gohan (Dragon Ball)
 ip_confidence: high
 ip_verified: true
+characters: ["son-gohan"]
 ---
 
 # Blaze of Glory Son Gohan (Colossal Warfare)

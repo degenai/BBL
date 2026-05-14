@@ -13,7 +13,7 @@ appears_on:
   - dragon-ball-super/galactic-battle/bt1-007-manipulating-god-champa
   - dragon-ball-super/galactic-battle/bt1-042-energy-boost-beerus
   - dragon-ball-super/galactic-battle/bt1-043-whis-judge-of-the-gods
-related_hubs: [labor]
+related_hubs: [labor, stewardship]
 related_symbols: []
 related_characters: [universe-6-tournament-cohort]
 ip_resolution_for: ["destroyer god / angel attendant dyad", "Hakai-god + angel pair", "Beerus and Whis", "Champa and Vados", "DBS divine command-tier"]

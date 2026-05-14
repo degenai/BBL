@@ -1,0 +1,36 @@
+{
+  "card_name": "King Cold, Father of the Emperor",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-091",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'King Cold, Father of the Emperor'. Large imposing build in blue/white/gold battle armor with distinctive Frieza-clan horned helmet design, commanding-point gesture — consistent with canonical King Cold design from DBZ. Low-resolution source image limits fine visual detail but card name is explicit. Verified via card name, CBR: King Cold and Frieza Built a Universal Planet Trade Business, and Villains Wiki: King Cold.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "King Cold, Father of the Emperor (BT1-091) is a Rare in Galactic Battle. King Cold is the founder and original leader of what became the Planet Trade Organization — a galactic empire that conquered and sold inhabited planets to the highest bidder, using enslaved powerful races (most notably the Saiyans) as its acquisition force. He ceded control to Frieza because Frieza was the strongest and most cunning member of the Cold family. [CBR: Dragon Ball Z: How King Cold and Frieza Built a Universal Planet Trade Business; Villains Wiki: King Cold]",
+      "sources": ["CBR: Dragon Ball Z: How King Cold & Frieza Built a Universal Planet Trade Business", "Villains Wiki: King Cold"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The card title 'Father of the Emperor' makes the dynastic structure explicit: King Cold built the apparatus; Frieza inherited and operated it. Together they constitute a father-son colonial-extraction dyad — the apparatus of planet-trafficking existed before Frieza, was shaped by Cold, and was destroyed (in the main timeline) only when Future Trunks killed both of them upon arrival from the future. [CBR: Dragon Ball Z: How King Cold and Frieza Built a Universal Planet Trade Business; CBR: Future Trunks Alternate Timeline Explained]",
+      "sources": ["CBR: Dragon Ball Z: How King Cold & Frieza Built a Universal Planet Trade Business", "CBR: Dragon Ball: Future Trunks' Alternate Timeline, Explained"]
+    },
+    {
+      "category": "design",
+      "text": "King Cold's visual design shares the Frieza-clan bio-armor aesthetic — horned smooth helmet dome, elongated limbs, commanding presence — but scaled up considerably in body mass relative to Frieza, communicating a dynasty of power. In BT1 he appears alongside Frieza (BT1-084) as a father-son pair in the same set, making the dynastic read legible within the card pool itself. [Wikipedia: Frieza (Dragon Ball); Villains Wiki: King Cold]",
+      "sources": ["Wikipedia: Frieza (Dragon Ball)", "Villains Wiki: King Cold"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Frieza, The Galactic Emperor", "set": "Galactic Battle", "note": "BT1-084 — Frieza is King Cold's son and successor; the father-son dyad is complete within BT1"},
+    {"name": "Trunks", "set": "Galactic Battle", "note": "Future Trunks kills both King Cold and Frieza upon his arrival in the main timeline"},
+    {"name": "Ginyu // Ginyu, The Malicious Transformation", "set": "Galactic Battle", "note": "The Ginyu Force serves the Cold/Frieza empire hierarchy"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

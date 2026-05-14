@@ -1,0 +1,42 @@
+{
+  "card_name": "Babidi's Spaceship",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-018",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies the artifact. Babidi's Spaceship is a canonical location/artifact from the Majin Buu Saga of Dragon Ball Z. The card art depicts a rounded alien interior with a dome/pod structure and tiered arena walls — consistent with the canon description of the ship's multi-level battle-arena interior where Goku, Gohan, Vegeta and Shin faced Pui Pui, Yakon, and Dabura. IP verified as Babidi's Spaceship (Dragon Ball Z).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Babidi's Spaceship is a canonical artifact from the Majin Buu Saga of Dragon Ball Z. The ship was buried underground in the Southwest Forest on Earth, serving as Babidi's hidden headquarters and a multi-level battle-arena where the Z Fighters faced progressively stronger opponents (Pui Pui, Yakon, Dabura) while descending toward the Sealed Ball containing Majin Buu. [WebSearch: Babidi's Spaceship Dragon Ball Wiki Majin Buu Saga underground]",
+      "sources": ["WebSearch: Babidi's Spaceship Dragon Ball Wiki Fandom"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Babidi is the son — or more precisely, the clone — of Bibidi, the ancient wizard who originally created Majin Buu. The spaceship is thus an artifact of Bibidi's lineage, not solely Babidi's own creation; it may predate Babidi himself as an instrument of the broader Majin revival project spanning millennia. The ship was ultimately destroyed by Majin Vegeta's energy blast. [WebSearch: Babidi Dragon Ball Z Bibidi clone spaceship destroyed Vegeta]",
+      "sources": ["WebSearch: Babidi Dragon Ball Wiki Bibidi origin Majin Buu"]
+    },
+    {
+      "category": "design",
+      "text": "As a location/artifact card with no figures depicted, Babidi's Spaceship follows the artifact-as-character-extension pattern in the DBS TCG — an object so strongly associated with a character that it becomes a standalone card anchor. This parallels the artifact pattern seen in BT2-066 Trunks's Time Machine, another vessel-as-character card from the same product era. Both cards use an interior-architecture composition to establish place rather than depicting a named figure. [DBS-TB02 card list comparison]",
+      "sources": ["WebSearch: Dragon Ball Super World Martial Arts Tournament TB2 set 2018"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The World Martial Arts Tournament set (DBS-TB02, September 2018) draws from the Majin Buu Saga in addition to the Budokai tournament arc — Babidi's ship is included because it serves as the arena where the Majin Buu resurrection plot begins, directly interrupting the 25th World Martial Arts Tournament. The two narrative threads (tournament + Babidi plot) run in parallel in the anime. [WebSearch: DBS-TB02 World Martial Arts Tournament Babidi Majin Buu saga]",
+      "sources": ["WebSearch: Dragon Ball Super World Martial Arts Tournament TB2 release 2018"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Babidi", "set": "World Martial Arts Tournament", "note": "Owner and operator of the spaceship; primary Babidi node anchor candidate"},
+    {"name": "Majin Buu (sealed)", "set": "World Martial Arts Tournament", "note": "The Sealed Ball aboard the ship is the goal of the entire Babidi arc — Buu's release is the ship's narrative payload"},
+    {"name": "Dabura", "set": "World Martial Arts Tournament", "note": "Babidi's champion, who occupied the lowest combat level of the ship"},
+    {"name": "Trunks's Time Machine (BT2-066)", "set": "Union Force", "note": "Parallel artifact-as-character-extension pattern — vessel card with no figures"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Babidi's Spaceship (Dragon Ball Z)",
+    "ip_confidence": "high"
+  }
+}

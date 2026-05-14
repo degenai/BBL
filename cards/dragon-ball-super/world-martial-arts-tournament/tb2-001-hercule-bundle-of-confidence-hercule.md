@@ -30,6 +30,7 @@ setting: indoor
 suspected_ip: Hercule (Mr. Satan)
 ip_confidence: high
 ip_verified: true
+characters: [hercule]
 ---
 
 # Hercule // Bundle of Confidence Hercule (World Martial Arts Tournament)

@@ -1,0 +1,42 @@
+{
+  "card_name": "Frieza // Frieza, The Galactic Emperor",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-084",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Frieza // Frieza, The Galactic Emperor'. Slim elongated build, white-and-purple bio-armor, smooth horned dome helmet, visible tail, cold imperial pose — all canonical first-form visual identifiers of Frieza from DBZ. Confirmed via card name, Wikipedia: Frieza, and multiple cited sources.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Frieza // Frieza, The Galactic Emperor (BT1-084) is an Uncommon flip card in Galactic Battle. Frieza is the canonical perpetrator of the Saiyan genocide: fearing the legend of the Super Saiyan, he called all Saiyans back to Planet Vegeta and personally destroyed it — effortlessly killing King Vegeta and his elite guard first — then covering the act with a false 'giant meteorite collision' story to prevent backlash from surviving Saiyans. [Dragon Ball Wiki Fandom: Genocide of the Saiyans; Wikipedia: Frieza (Dragon Ball)]",
+      "sources": ["Dragon Ball Wiki Fandom: Genocide of the Saiyans", "Wikipedia: Frieza (Dragon Ball)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Frieza's Planet Trade Organization (formerly the Cold Force) operated by conquering habitable planets and selling them to the highest bidder — a galactic extraction empire trafficking in worlds. The Saiyans were enslaved as the acquisition force, dispatched to clear planets for sale. This makes Frieza the apex apparatus-of-extraction figure in the Dragon Ball universe: a colonial emperor whose economy is literally the commodification of planetary real estate. [CBR: Dragon Ball: How King Cold and Frieza Built a Universal Planet Trade Business; Game Rant: Dragon Ball: Frieza's Planetary Trade, Explained]",
+      "sources": ["CBR: Dragon Ball Z: How King Cold & Frieza Built a Universal Planet Trade Business", "Game Rant: Dragon Ball: Frieza's Planetary Trade, Explained"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The flip-card format for BT1-084 mirrors the flip-card for Ginyu (BT1-085) — both are 'Leader Cards' with dual-sided awakened states. Frieza's awakened side, 'Frieza, The Galactic Emperor,' represents his full power release, consistent with the DBZ Namek arc climax where Frieza's transformations (four forms total) are the escalating reveal structure of the entire saga. The card pool places Frieza and Ginyu as flip-card Uncommons in close numerical proximity, reflecting their narrative closeness in the Frieza Saga. [DBSCG official site; Bleeding Cool: Galactic Battle Checklist]",
+      "sources": ["DBSCG official site", "Bleeding Cool: Dragon Ball Super Card Game: Galactic Battle Checklist"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Frieza's murder of Krillin (BT1-072) during the Namek arc is the canonical trigger for Goku's first Super Saiyan transformation — making the two cards in this same BT1 set (Frieza at 084, Krillin at 072) a cause-and-effect pair whose relationship is load-bearing in the Saiyan mythology. The Human Shield and the Galactic Emperor occupy the same card pool, separated by twelve card numbers. [CBR: How Many Times Does Krillin Really Die?; Wikipedia: Frieza (Dragon Ball)]",
+      "sources": ["CBR: How Many Times Does Krillin Really Die?", "Wikipedia: Frieza (Dragon Ball)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "King Cold, Father of the Emperor", "set": "Galactic Battle", "note": "BT1-091 — Frieza's father and the dynasty's founder; the father-son dyad is complete in BT1"},
+    {"name": "Human Shield Krillin", "set": "Galactic Battle", "note": "BT1-072 — Frieza's murder of Krillin triggers Goku's Super Saiyan transformation; cause-and-effect pair in same set"},
+    {"name": "Ginyu // Ginyu, The Malicious Transformation", "set": "Galactic Battle", "note": "BT1-085 — Ginyu Force is Frieza's elite mercenary squad; both are flip-card Uncommons in BT1"},
+    {"name": "Trunks", "set": "Galactic Battle", "note": "BT1-039 — Future Trunks kills Frieza upon arrival in the main timeline"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

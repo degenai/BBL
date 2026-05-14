@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["giant", "subjugation", "chains", "blade", "survival", "darkness", "power-imbalance", "rubble", "Eldrazi", "domination"]
+tags_filter: ["group", "wide", "narrative", "red-magic", "creature-human-warrior", "menace"]
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/155-shatterskull-recruit.png
 average_cost_paid: 0
 market_price: 0.05
@@ -29,6 +29,28 @@ oracle_text: Menace (This creature can't be blocked except by two or more creatu
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: grim
+time_of_day: twilight
+setting: mountain
 ---
 
 # Shatterskull Recruit (Battle for Zendikar)
+
+## Vision
+
+![155-shatterskull-recruit](../../_images/magic-the-gathering/battle-for-zendikar/155-shatterskull-recruit.png)
+
+The composition is dominated by a massive dark figure in the upper right — a towering creature with a curved blade raised, connected by chain to what appears to be a restrained figure. In the lower left, two smaller humanoid figures (one with pale hair visible) crouch or kneel amid rocky rubble under a dark blue sky. The scale contrast is stark: the creature looms over the smaller figures. The palette is dark blue and grey throughout, with the rocky terrain lending a desolate quality.
+
+**Subject:** A massive towering dark humanoid creature dominating the upper frame, holding a curved blade and chain; smaller humanoid figures crouch below it in a rocky landscape under a dark sky
+
+**Composition:** wide, narrative, figures: group, facing: right
+**Setting:** mountain, ruined, twilight, calm
+**Foreground:** two small humanoid figures crouching in rubble, one with pale hair  *(palette: grey, dark-blue, brown)*
+**Background:** dark blue sky, rocky terrain, distant shadowy forms  *(palette: dark-blue, grey)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** subjugation, menace, precariousness — the smaller figures appear vulnerable beneath the looming giant
+**Objects:** curved blade, chain
+**Creatures:** towering dark humanoid creature
+**Genre cues:** fantasy
+

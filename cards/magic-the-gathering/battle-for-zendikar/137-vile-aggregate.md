@@ -53,3 +53,15 @@ A wide, low scene depicting a group of Eldrazi creatures converging on a locatio
 **Iconography:** swarm, consumption, tendrils, glowing-eye
 **Genre cues:** fantasy, cosmic-horror
 
+## Trivia
+
+- **Set context / apparatus of extraction** — Vile Aggregate's Ingest keyword ("whenever this creature deals combat damage to a player, that player exiles the top card of their library") is the drone-tier expression of the BFZ Eldrazi consumption engine. The Ingest-Processor dynamic models an extractive pipeline at cosmological scale: drones ingest raw material from the plane, Processor creatures convert that exiled matter into usable energy `[WebSearch: BFZ Eldrazi Ingest-Processor dynamic; Scryfall: oracle_text]`.
+- **Design** — Power is a star (*) equal to the number of colorless creatures controlled — scaling with Eldrazi swarm density, which the Ingest-Processor pipeline itself demands. Trample plus variable power creates a glass-cannon payoff. Artist: Chris Rallis. EDHREC rank 19195 `[Scryfall]`. No flavor text on this printing `[Scryfall: flavor_text absent]`.
+- **Set context** — The depicted figures are unnamed Eldrazi drones swarming an unnamed humanoid prey figure. They are not any named Eldrazi titan (Ulamog, Kozilek, Emrakul), who each appear on their own named cards. Role: unnamed drone-swarm extraction unit `[Scryfall: type_line — Eldrazi Drone]`.
+- **Mechanical** — Uncommon; not Pauper-legal. Pioneer- and Modern-legal `[Scryfall: legalities]`. The Trample + Ingest combination was noted at BFZ preview time as a rare confluence — Ingest typically appears on smaller utility drones while Trample is a finisher keyword; combining them on one creature was mechanically intentional.
+
+### Related cards
+- Wasteland Strangler (Battle for Zendikar) — Processor creature that consumes Ingest-exiled cards; direct mechanical partner
+- Ulamog's Reclaimer (Battle for Zendikar) — second Processor creature on the same extraction pipeline
+- Eldrazi Obligator (Oath of the Gatewatch) — follow-up BFZ block Eldrazi Drone with Devoid; same tribal shell
+

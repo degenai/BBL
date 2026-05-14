@@ -1,0 +1,33 @@
+{
+  "edge_id": "stewardship-hub-wiring-wave-70",
+  "shape": "1:N",
+  "category": "hub-anchor-wiring",
+  "endpoints": [
+    {"type": "hub", "path": "cards/_hubs/stewardship.md", "name": "Stewardship"},
+    {"type": "character", "path": "cards/_characters/aether-foundation.md", "name": "Aether Foundation"},
+    {"type": "character", "path": "cards/_characters/destroyer-god-attendant-dyad.md", "name": "Destroyer God / Angel Attendant dyad"},
+    {"type": "character", "path": "cards/_characters/aether-rangers.md", "name": "Aether Rangers"},
+    {"type": "character", "path": "cards/_characters/acerola.md", "name": "Acerola"}
+  ],
+  "description": "Wave 70 E2: wire 4 existing character-layer nodes to the newly-commissioned `stewardship` foundational hub via `related_hubs:` extension. Coverage spans BOTH stewardship registers the hub anchors: (1) GENUINE-STEWARDSHIP — Acerola as the canonical Aether House caretaker on Ula'ula Island (Aether Foundation's orphan-and-Pokemon-shelter satellite branch; the Supporter mechanic that returns a damaged Pokemon plus attachments to hand mechanically encodes the rehabilitation/care-work role); Aether Rangers as Wizards-canonical 'cross-generation, cross-class team of comrades' explicitly framed in Lopez's Aetherdrift Planeswalker's Guide as mutual-aid-cross-class-pit-crew with the elf refueler, vedalken saboteur, and loxodon surveyor all stewarding the racing rig as commons (the hub's labor-tier-as-stewardship register). (2) CORRUPTED-STEWARDSHIP — Aether Foundation as the cleanest institutional-conservation-laundering-Ultra-Beast-weaponization case in current corpus (Pokemon Sun-Moon canon Act 3 reveal of Lusamine's Nihilego fusion behind the regional Pokemon-rehabilitation charity); Destroyer-God-Attendant-Dyad as the inverted-hierarchy-of-cosmic-care register (Whis/Vados canonically stronger than the destroyer-gods they serve per Toriyama 2013 Battle of Gods interview — angel stewards the cosmos, destroyer-god takes the credit, the apparatus-of-extraction-via-care thesis at divine command-tier). The hub-body's See Also already names aether-foundation and destroyer-god-attendant-dyad explicitly; this commission closes the two-way reference loop. Stewardship is orthogonal to labor (which anchors EXTRACTION) and rebellion (which anchors REFUSAL): the three foundational hubs now cover the Marxist verbs of work-engagement — produce / refuse / tend — at full triangulation.",
+  "citations": [
+    "[cards/_hubs/stewardship.md — hub body explicitly naming aether-foundation as cleanest corrupted-stewardship case]",
+    "[cards/_hubs/stewardship.md — hub body explicitly naming destroyer-god-attendant-dyad as canonical-stewardship-of-cosmic-apparatus]",
+    "[cards/_characters/acerola.md — canonical Aether House caretaker per Bulbapedia Acerola page]",
+    "[cards/_characters/aether-rangers.md — Wizards Lopez Planeswalker's Guide to Aetherdrift Part 1 'cross-generation cross-class comrades' framing]",
+    "[Akira Toriyama 2013 Battle of Gods production interview — Whis canonically stronger than Beerus, codifying inverted-hierarchy operator-of-record reading]"
+  ],
+  "files_modified": [
+    "cards/_characters/aether-foundation.md",
+    "cards/_characters/destroyer-god-attendant-dyad.md",
+    "cards/_characters/aether-rangers.md",
+    "cards/_characters/acerola.md"
+  ],
+  "topology": "branch",
+  "edgelord_mood": "satisfied",
+  "other_candidates_considered": [
+    "alola-trial-captains / alola-elite-four — both contain Acerola but the Acerola solo-node already wires stewardship; the cohort nodes themselves are league-institutional, not stewardship-primary. Defer until a future pass surfaces a cohort-level stewardship reading.",
+    "kor — Zendikari hedron-reclamation has stewardship-of-the-land valence per labor hub See Also (land-tender register); deferred to a future pass when explicit kor-stewardship card-anchors are surfaced.",
+    "theros-pantheon — Heliod / Karametra / Pharika have care-coded canonical lore but the pantheon node is divine-pantheon-aggregate, mixed registers; deferred."
+  ]
+}

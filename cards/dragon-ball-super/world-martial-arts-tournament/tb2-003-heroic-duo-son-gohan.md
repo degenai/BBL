@@ -30,6 +30,7 @@ ip_verified: true
 image_width: 624
 image_height: 871
 image_quality: med
+characters: ["son-gohan"]
 ---
 
 # Heroic Duo Son Gohan (World Martial Arts Tournament)

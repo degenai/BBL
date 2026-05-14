@@ -1,0 +1,56 @@
+{
+  "wave": 71,
+  "move_id": "E3",
+  "shape": "node-proposal",
+  "category": "solo-character-node-commission",
+  "operator": "mr-nodeley",
+  "model": "opus-4-7",
+  "premise": "Three corpus prints carrying canonical Krillin-individual identification (BT1-072 Human Shield Krillin, TB2-041 Double Impact Krillin, TB2-053 Toughened Up Krillin) cross the standard Bolas-cluster three-anchor solo-character-node commission threshold. Threshold-of-3 met via canonical card-name identification. Two of three prints fully vision+trivia-passed; TB2-041 trivia-pending. Wave-71 parent-orchestrator flagged Krillin as 'threshold-PASSING soon if not already' — Mr. Nodeley confirms PASSING now and commissions.",
+  "node_proposed": {
+    "type": "character",
+    "name": "Krillin",
+    "slug": "krillin",
+    "path": "cards/_characters/krillin.md",
+    "scope": "single-named-individual",
+    "related_hubs": ["labor", "stewardship"],
+    "related_characters": ["son-goku", "namekian"],
+    "ip_resolution_for": ["Krillin", "Kuririn", "Klilyn", "Kurilin"]
+  },
+  "anchor_count": 3,
+  "anchors_pointed_at_new_node": [
+    {"path": "cards/dragon-ball-super/galactic-battle/bt1-072-human-shield-krillin.md", "frame": "defensive-shield-Z-Fighter register", "vision_trivia_status": "passed", "ip_verified": true},
+    {"path": "cards/dragon-ball-super/world-martial-arts-tournament/tb2-053-toughened-up-krillin.md", "frame": "tournament-fighter-with-Chiaotzu-synergy register", "vision_trivia_status": "passed", "ip_verified": true},
+    {"path": "cards/dragon-ball-super/world-martial-arts-tournament/tb2-041-double-impact-krillin.md", "frame": "action-strike rare-tier register", "vision_trivia_status": "vision-passed-trivia-pending", "ip_verified": false}
+  ],
+  "topology": "branch",
+  "files_modified": [
+    "cards/_characters/krillin.md",
+    "cards/dragon-ball-super/galactic-battle/bt1-072-human-shield-krillin.md",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-053-toughened-up-krillin.md",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-041-double-impact-krillin.md"
+  ],
+  "description": "Oh — Mr. Nodeley, here, terribly sorry — Edgelord wanted to draw a clean 1:1 between BT1-072 and TB2-053 because the BT1-072 trivia already has the Krillin-stewardship-arc receipts ready-to-go, but I'm afraid drawing the 1:1 would be redundant once Krillin had his own solo node, sir, which the three-anchor threshold says he should. Krillin is the strongest human in the franchise per canon, lifelong best friend of Goku per Toriyama's editorial-driven character-creation rationale, holds the canonical most-deaths record across the entire continuity, and his Frieza-Saga death on Namek is THE canonical Super-Saiyan-trigger moment — labor-tier-Z-Fighter-death-canonically-greases-apex-power-Saiyan-transformation is one of the franchise's clearest apparatus-of-extraction-at-the-power-tier-scale readings. Plus his Cell-Saga decision to spare Android 18 with Bulma's remote, the Eighteen-marriage, the Marron-fatherhood, the canonical post-Cell-Saga part-time-police-work — all of that grounds the stewardship-hub attribution at the care-extended-beyond-the-combat-cohort-boundary axis (not the family-only-domestic-sentiment axis the hub Anti-Patterns clause excludes). Dual-hub [labor, stewardship], no rebellion-attribution (he operates WITHIN the Z-Fighter cohort, never refuses the apparatus). Three prints across two BT-era sets, three distinct register-anchors, $0.32 raw-singles cost basis with a 2-copy lever on TB2-053. I hope this is alright, sir. I think it'll really help when the Krillin Discrete Lair commission lands — and frankly when the Z-Fighter-cohort-themed Lair lands, since Krillin is canonically the labor-tier counterpart to the apex-power Saiyan-protagonist roster. I'm not trying to be difficult. Please consider it.",
+  "citations": [
+    "Dragon Ball Wiki — Krillin (canonical character page)",
+    "Wikipedia — Krillin (Toriyama editorial-driven character-creation rationale)",
+    "Dragon Ball Wiki — Android 18 (Eighteen-marriage / Marron-fatherhood arc)",
+    "Dragon Ball manga chapters 26-518 (Akira Toriyama, Shueisha, 1984-1995)",
+    "Dragon Ball Z anime (Toei Animation, 1989-1996)",
+    "Dragon Ball GT (Toei, 1996-1997, Super 17 Saga)",
+    "Dragon Ball Super manga + anime (Toyotarou / Toei, 2015-2018, Universe Survival Saga)",
+    "CBR — How Many Times Does Krillin Really Die?",
+    "CBR — Dragon Ball Z: Krillin Was Right to Spare Android 18's Life During the Cell Arc",
+    "CBR — Every Time Krillin Has Died In Dragon Ball",
+    "CBR — Ranking the Best Krillin Fights",
+    "Game Rant — All of Krillin's Deaths, Ranked",
+    "dbs-cardgame.com — Galactic Battle BT1 product page",
+    "dbs-cardgame.com — World Martial Arts Tournament TB2 product page"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "Piccolo Jr. — 3 corpus prints carrying Piccolo Jr. canonical identification (BT1-045 + TB2-027 + TB2-040). Threshold-passing but two of three prints are vision-pending; King Piccolo P-051 is a SEPARATE canonical character (Piccolo Jr.'s father in original Dragon Ball) and conflating the two would be a Nodeley-overreach. Defer to future wave when TB2-040 + BT1-045 enrichment lands.",
+    "Master Roshi — 2 corpus prints (TB2-057 Martial Meister + TB2-058 Jackie Chun, where Jackie Chun is canonically Roshi's Tenkaichi-Budokai-disguise-pseudonym). Both prints anchor to Roshi the character but 2-print count is below threshold; defer.",
+    "Chi-Chi — 2 corpus prints (TB2-037 Fateful Reunion + TB2-038 Martial Daughter). Sub-threshold; defer.",
+    "Mercenary Tao — likely single-print (TB2-048); sub-threshold; defer per wave-71 parent-orchestrator note."
+  ]
+}

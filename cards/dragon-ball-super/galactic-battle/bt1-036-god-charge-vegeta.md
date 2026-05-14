@@ -29,7 +29,7 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Vegeta (Dragon Ball Super)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 characters: [vegeta]
 ---
 
@@ -39,8 +39,8 @@ characters: [vegeta]
 
 ![bt1-036-god-charge-vegeta](../../_images/dragon-ball-super/galactic-battle/bt1-036-god-charge-vegeta.png)
 
-> [!warning] Suspected IP: **Vegeta (Dragon Ball Super)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Vegeta (Dragon Ball Super)**
+> Confirmed via card name and Wikipedia: Vegeta (Dragon Ball). Blue upswept hair, white chest armor, Super Saiyan Blue form energy aura — canonical identifiers present.
 
 A humanoid figure in a blue transformation state stands at center, both hands thrust forward and slightly apart as if gathering or projecting energy. The figure has blue hair swept upward and wears a dark bodysuit with a white chest plate or armor piece. The background is an intense explosion of blue and teal energy radiating outward in all directions. The overall palette is deep blue and electric teal. The figure's posture is aggressive and forward-thrusting. The expression is intense and prideful.
 
@@ -54,4 +54,15 @@ A humanoid figure in a blue transformation state stands at center, both hands th
 **Emotion read:** intense pride, aggressive charge, godlike power
 **Iconography:** energy-aura, ki-blast
 **Genre cues:** anime, fantasy
+
+## Trivia
+
+- **Set context** — God Charge Vegeta (BT1-036) is a Rare in Galactic Battle, the inaugural Dragon Ball Super Card Game set (released July 28, 2017). Rare cards comprise 12 of the 114-card set. [PSA CardFacts: 2017 Dragon Ball Super Series 1 Galactic Battle]
+- **Design** — The 'God Charge' title and blue-aura visual reference Vegeta's Super Saiyan Blue form — officially named "Super Saiyan God Super Saiyan" by Akira Toriyama in his original character designs — achieved by combining Super Saiyan God ki with a standard Super Saiyan transformation. The anime and manga popularized the shorter name "Super Saiyan Blue." [Game Rant: Dragon Ball: Super Saiyan Blue, Explained]
+- **Character context** — Vegeta achieved Super Saiyan God ki while training under Whis, reaching Super Saiyan Blue without the five-Saiyan ritual Goku used for Super Saiyan God — a route driven entirely by Vegeta's individualist pride and refusal to rely on a group transformation. [Kanzenshuu: Exactly HOW did Vegeta achieve Super Saiyan God while training under Whis?]
+- **Design** — The 'charge' mechanic in the card name mirrors Vegeta's combat philosophy of accumulated ki-charge attacks (Final Flash, Galick Gun) rather than Goku's instinctive techniques — a contrast Toriyama built into both characters from the Saiyan Saga onward. [CBR: Dragon Ball: How Vegeta Achieved Super Saiyan God]
+
+### Related cards
+- Trunks (Galactic Battle, BT1-039) — Trunks is Vegeta's son; both Saiyan-type cards in same set
+- Tenacious Vegeta (Galactic Battle, BT1-066) — second Vegeta card in BT1, different rarity and moment
 

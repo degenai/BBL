@@ -30,6 +30,7 @@ setting: other
 suspected_ip: Son Gohan
 ip_confidence: high
 ip_verified: true
+characters: ["son-gohan"]
 ---
 
 # Top of His Game Son Gohan (World Martial Arts Tournament)

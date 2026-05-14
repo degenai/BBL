@@ -30,6 +30,7 @@ setting: void
 suspected_ip: Son Gohan (Dragon Ball Super)
 ip_confidence: high
 ip_verified: false
+characters: ["son-gohan"]
 ---
 
 # Intrepid Dynasty Son Gohan (Expansion Deck Box Set 08: Magnificent Collection - Forsaken Warrior)

@@ -1,0 +1,40 @@
+{
+  "card_name": "God Charge Vegeta",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-036",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'God Charge Vegeta'. Blue upswept hair, white chest armor over dark bodysuit, forward-thrust energy-gathering pose — all canonical identifiers of Vegeta in Super Saiyan Blue (Super Saiyan God Super Saiyan) form from Dragon Ball Super. Confirmed via card name, Wikipedia Vegeta entry, and Dragon Ball Wiki sources.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "God Charge Vegeta (BT1-036) is a Rare card in Galactic Battle, the inaugural Dragon Ball Super Card Game set (released July 28, 2017). Rare cards comprise 12 of the 114-card set. [PSA CardFacts: 2017 Dragon Ball Z Dragon Ball Super Series 1 Galactic Battle]",
+      "sources": ["PSA CardFacts: 2017 Dragon Ball Super Series 1 Galactic Battle"]
+    },
+    {
+      "category": "design",
+      "text": "The 'God Charge' title and blue-aura visual reference Vegeta's Super Saiyan Blue form — officially named 'Super Saiyan God Super Saiyan' by Akira Toriyama in his original character designs — achieved by combining Super Saiyan God ki with a standard Super Saiyan transformation. The anime and Dragon Ball Super manga popularized the shorter name 'Super Saiyan Blue.' [Game Rant: Dragon Ball Super Saiyan Blue Explained]",
+      "sources": ["Game Rant: Dragon Ball: Super Saiyan Blue, Explained", "CBR: Every Super Saiyan Vegeta Form in Chronological Order"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Vegeta achieved Super Saiyan God ki while training under Whis, reaching Super Saiyan Blue without going through the five-Saiyan ritual that Goku used for Super Saiyan God — a route driven entirely by Vegeta's individualist pride and refusal to rely on a group transformation. [Kanzenshuu: Exactly 'HOW' did Vegeta achieve Super Saiyan God while training under Whis?]",
+      "sources": ["Kanzenshuu: Exactly HOW did Vegeta achieve Super Saiyan God while training under Whis"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The 'charge' mechanic in the card name mirrors Vegeta's combat style of ki-charge attacks (Final Flash, Galick Gun) rather than instinctive techniques, emphasizing discipline and accumulated power over Goku's reflex-driven approach — a contrast Toriyama built into the two characters from the Saiyan Saga onward. [CBR: Dragon Ball: How Vegeta Achieved Super Saiyan God]",
+      "sources": ["CBR: Dragon Ball: How Vegeta Achieved Super Saiyan God"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Trunks", "set": "Galactic Battle", "note": "Vegeta is Trunks' father; both Saiyan-type in same set"},
+    {"name": "Tenacious Vegeta", "set": "Galactic Battle", "note": "Second Vegeta card in BT1, different rarity/moment"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "wave": 71,
+  "move_id": "E2",
+  "shape": "audit-diagnostic",
+  "category": "triple-thesis-hub-attribution-audit",
+  "operator": "edgelord",
+  "model": "opus-4-7",
+  "premise": "Wave 71 parent-orchestrator commissioned a corpus-wide audit of layer-nodes whose existing related_hubs attribution may extend to a third hub via canonical evidence — surfacing additional candidate triple-hub-attribution nodes beyond aether-rangers. Bar is HIGH: each of the three hub attributions must be backed by canonical evidence in each of the three hubs' bodies; performative-third-hub attribution forbidden per the triple-thesis hub-meta doc's anti-pattern section ('the triangle becomes performative').",
+  "candidates_audited": [
+    {
+      "candidate": "saiyan",
+      "current_related_hubs": ["labor"],
+      "proposed_extension": "[labor, rebellion, stewardship]",
+      "verdict": "PARTIAL-ACCEPT — labor confirmed, rebellion newly attributed, stewardship REFUSED",
+      "labor_evidence": "Race body explicit on imperial-mercenary-workforce-under-Frieza apparatus-of-extraction reading; canonical via Dragon Ball Wiki Saiyan / Planet Vegeta / Genocide of the Saiyans pages. Confirmed.",
+      "rebellion_evidence_accepted": "Two canonical citations carry the rebellion attribution at the race-scale: (1) Bardock's 1990-TV-special canonical last-stand against Frieza is the franchise's canonical Saiyan-side-of-an-organized-refusal-against-Emperor moment, and the Saiyan race body itself catalogs the canonical workforce-refuses-to-organize beat (the other Saiyans dismissing Bardock as a lunatic) as a foundational Saiyan-race apparatus-failure moment; (2) Cabba's awakening / Universe 6 Saiyan Defenders are canonically the STRUCTURAL INVERSE of Frieza-Force-mercenary-occupation-mode — the race-body literally cites 'Universe-6-Saiyan-Defenders organized-planetary-protection-force operating mode as the structural inverse of Universe 7's Frieza-Force-mercenary-occupation mode' (Dragon Ball Wiki — Universe 6 Saiyans; Dragon Ball Super Universe Survival Saga). The Super Saiyan transformation itself is canonically Frieza's PREEMPTIVELY-FEARED rebellion-of-the-workforce that motivates the Age-737 genocide. The rebellion hub attaches at the race-scale via the canonical refusal-instantiated-in-Universe-6 + the canonical Bardock-precognitive-resistance + the canonical Super-Saiyan-prophecy-feared-by-employer threads.",
+      "stewardship_evidence_refused": "The Saiyan race is canonically a warrior-race-mercenary collective; care-without-ownership is not a Saiyan-race operating mode. Specific points considered and refused: (a) Gohan-trained-by-Piccolo is canonically NAMEKIAN stewardship of a half-Saiyan, not Saiyan-internal stewardship; the stewardship attribution there lands at namekian, not saiyan. (b) The Saiyan parental-cohort (Gine, Bardock) carry family/kin care but the stewardship hub Anti-Patterns section explicitly excludes family/kin sentiment ('Family / bloodline / lineage cards belong to character-cohort nodes ... Stewardship is care-without-ownership; family is care-by-blood'). (c) Bardock's attempt to organize the Saiyan workforce against Frieza reads as labor-realization + rebellion-organizing-attempt, which is already credited to the labor+rebellion attribution; calling the same beats stewardship would triple-count a binary act. The bar from the triple-thesis hub-meta doc ('any node whose hub-attribution can't survive a what's-the-canonical-citation question gets the hub stripped') refuses the stewardship attribution. REFUSED.",
+      "applied": "related_hubs extended from [labor] to [labor, rebellion]"
+    },
+    {
+      "candidate": "bardock",
+      "current_related_hubs": ["labor", "rebellion"],
+      "proposed_extension": "[labor, rebellion, stewardship]",
+      "verdict": "REFUSED — stewardship attribution would triple-count canonical beats already credited under labor+rebellion",
+      "stewardship_evidence_refused": "The 1990 TV special's narrative beats (worker-realizes-employer-intends-genocide, worker-tries-to-organize-fellow-workers, worker-confronts-employer-alone) read canonically as labor-realization (already credited) + rebellion-organizing-attempt-then-solo-confrontation (already credited). The 'tries to warn his comrades' beat is care-attempted-toward-the-Saiyan-workforce, but the workforce IS Bardock's race / kin-line; per the stewardship hub Anti-Patterns section, family/bloodline care belongs to character-cohort nodes, not to stewardship ('Stewardship is care-without-ownership; family is care-by-blood. Different axes. Adjacent, not redundant.'). The beat is labor-solidarity attempted within the kin-line, not commons-care across the kin-line. Triple-counting the same canonical act under all three hubs would dissolve the triangle's structural integrity per the triple-thesis-doc's third anti-pattern ('the triangle becomes performative'). REFUSED with explicit citation to the stewardship hub's family/kin exclusion clause.",
+      "applied": "no change — related_hubs remains [labor, rebellion]"
+    },
+    {
+      "candidate": "hercule",
+      "current_related_hubs": ["labor", "stewardship"],
+      "proposed_extension": "[labor, rebellion, stewardship]",
+      "verdict": "REFUSED — Hercule operates WITHIN the apparatus, not against it; no canonical rebellion evidence",
+      "rebellion_evidence_refused": "Hercule is canonically the reigning World Martial Arts Champion whose career is constituted by RIDING the celebrity-credit-extraction apparatus, not refusing it. Per his node body's own Caveats section: 'Hercule is NOT a Z-Fighter in canon' — he operates at the normal-human power tier and participates in cosmic-stakes events VIA the credit-thief role, not VIA combat-resistance to the apparatus. The Buu-Saga friendship-labor is stewardship-corrupted (already credited); the Cell-Games credit-claim is labor-and-credit uncoupling (already credited). No canonical Hercule beat depicts him refusing the apparatus, organizing against the employer-empire, or stepping out of formation. The rebellion-hub attribution would require canonical refusal-of-the-apparatus, which the character does not perform. REFUSED with receipts.",
+      "applied": "no change — related_hubs remains [labor, stewardship]"
+    }
+  ],
+  "audit_summary": {
+    "triple_hub_attributions_added_this_wave": 0,
+    "dual_hub_attributions_added_this_wave": 1,
+    "candidates_audited": 3,
+    "candidates_refused": 2,
+    "candidates_partially_accepted": 1,
+    "triple_hub_corpus_count_after_wave": 1,
+    "triple_hub_corpus_roster_after_wave": ["aether-rangers"]
+  },
+  "files_modified": [
+    "cards/_characters/saiyan.md"
+  ],
+  "edge_count_delta": "+1 (saiyan node gains rebellion-hub attribution; one new related_hubs entry on an existing node)",
+  "edgelord_mood": "enlightened-deliberate",
+  "edgelord_voice_audit_trail": "Three candidates audited. Two refused with explicit canonical-citation receipts (Bardock's stewardship attribution would triple-count beats already credited; Hercule has no canonical rebellion-refusal evidence — he operates WITHIN the apparatus by definition). One partially accepted (Saiyan earns the rebellion-hub attribution via Universe-6-Saiyan-Defenders-as-structural-inverse-of-Frieza-Force-mercenaries + Super-Saiyan-prophecy-feared-by-employer-empire canonical threads). NO new triple-hub attribution this wave — aether-rangers remains the corpus's only triple. The triangle stays unperformative. Mood is enlightened-deliberate because the right call here was to ADD one hub to one node and REFUSE two performative-third-hub temptations; that's the discipline the triple-thesis doc itself calls for. Refusal-with-receipts as first-class output, per the museum-curation framing.",
+  "other_candidates_considered": [
+    "destroyer-god-attendant-dyad currently [labor, stewardship] — rebellion attribution would require canonical refusal-of-the-cosmic-management-apparatus, which Whis/Vados explicitly do NOT perform (they ARE the apparatus). REFUSED preemptively without formal audit.",
+    "aether-foundation currently [labor, stewardship] — rebellion attribution would require canonical anti-establishment refusal, but Lusamine's Aether Foundation IS the corrupted-stewardship-as-establishment-cover apparatus. REFUSED preemptively.",
+    "pia-nalaar future Aether Rangers parent node — likely triple-hub if/when commissioned per parent-orchestrator note, but pia-nalaar is NOT yet a node and her solo-character status is below threshold in current corpus. Surface for future Mr. Nodeley pass when corpus enrichment supports."
+  ]
+}

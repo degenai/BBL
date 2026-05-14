@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["transformation", "rage", "savage", "beast", "violence", "blood", "power", "wildness", "gruul", "feral", "berserker"]
+tags_filter: ["solo", "mid-shot", "action", "away-facing", "green-magic", "enchantment-aura", "haste"]
 reference_image: cards/_images/magic-the-gathering/gatecrash/187-primal-visitation.png
 average_cost_paid: 0
 market_price: 0.08
@@ -29,6 +29,28 @@ oracle_text: Enchant creature\nEnchanted creature gets +3/+3 and has haste.
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: other
 ---
 
 # Primal Visitation (Gatecrash)
+
+## Vision
+
+![187-primal-visitation](../../_images/magic-the-gathering/gatecrash/187-primal-visitation.png)
+
+A muscular, massive humanoid figure fills the frame, its body partially transformed — the right arm terminates in enormous clawed hands with visibly animal-like talons, and the skin takes on a dark green hue across much of the torso. The figure's head is thrown back in what reads as a roar or cry of transformation. Red streaks — suggesting blood or violent energy — arc across the composition. A circular medallion or emblem is visible on the chest. The background is a pale, stormy grey-white. The overall tone is savage and visceral.
+
+**Subject:** A large humanoid figure in a state of savage transformation, raising clawed arms amid sprays of blood or red energy
+
+**Composition:** mid-shot, action, figures: solo, facing: away
+**Setting:** other, indeterminate
+**Foreground:** Partially transformed humanoid figure with clawed arms raised, red streaks across frame  *(palette: dark green, olive, crimson red, bone white)*
+**Background:** Pale stormy grey-white  *(palette: pale grey, white, warm off-white)*
+**Mood / lighting:** action, harsh
+**Emotion read:** feral ecstasy, primal release, savage transformation
+**Objects:** chest medallion
+**Iconography:** medallion
+**Genre cues:** fantasy
+

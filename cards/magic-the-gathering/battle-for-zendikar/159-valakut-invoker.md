@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["fire", "channeling", "magic-user", "volcano", "power", "ritual", "close-up-portrait", "warrior", "invoker", "heat"]
+tags_filter: ["solo", "close-up", "three-quarter", "action", "red-magic", "creature-human-shaman"]
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/159-valakut-invoker.png
 average_cost_paid: 0
 market_price: 0.05
@@ -30,18 +30,28 @@ oracle_text: {8}: This creature deals 3 damage to any target.
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: mountain
 ---
 
 # Valakut Invoker (Battle for Zendikar)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![159-valakut-invoker](../../_images/magic-the-gathering/battle-for-zendikar/159-valakut-invoker.png)
 
+A humanoid figure fills the frame in a close portrait crop, head tilted back with eyes closed or near-closed, suggesting concentration or ecstasy in channeling. A glowing sphere of fire energy is visible at the figure's chest, held between the hands. The figure wears dark clothing with what appears to be a bandolier or armored vest. The background shows orange-red rocky volcanic walls. The lighting is entirely warm — deep red and orange — casting the face in dramatic chiaroscuro.
 
-**Subject:** 
+**Subject:** A humanoid figure in close-up, head tilted back, channeling a glowing fire orb held at the chest, in a volcanic rocky environment
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** close-up, action, figures: solo, facing: three-quarter
+**Setting:** mountain, indeterminate, fire
+**Foreground:** humanoid figure channeling fire orb at chest, head back  *(palette: orange, red, brown)*
+**Background:** volcanic rock walls, warm orange-red glow  *(palette: orange, red, dark-brown)*
+**Mood / lighting:** action, chiaroscuro
+**Emotion read:** concentration, power-channeling, barely-contained intensity
+**Objects:** fire orb
+**Iconography:** fire orb, channeling gesture
+**Genre cues:** fantasy
 

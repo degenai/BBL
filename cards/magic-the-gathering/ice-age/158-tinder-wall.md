@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["shaman", "trees", "forest", "ritual", "summoning", "robed-figure", "magic", "nature", "war", "tundra", "defender"]
+tags_filter: ["group", "wide", "narrative", "three-quarter", "green-magic", "creature-plant-wall", "sacrifice"]
 reference_image: cards/_images/magic-the-gathering/ice-age/158-tinder-wall.png
 average_cost_paid: 0
 market_price: 1.04
@@ -28,6 +28,28 @@ oracle_text: Defender (This creature can't attack.)\nSacrifice this creature: Ad
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: day
+setting: other
 ---
 
 # Tinder Wall (Ice Age)
+
+## Vision
+
+![158-tinder-wall](../../_images/magic-the-gathering/ice-age/158-tinder-wall.png)
+
+In the foreground stands a robed figure draped in a long purple-blue garment with decorative trim, facing partially left. The figure holds a glowing white orb or flame in one raised hand. To the right, two large pine or fir trees lean dynamically, as if animated or lurching into motion. Behind the trees, small mounted warriors on horseback are visible — rendered simply, suggesting a charge or advance. The background is a warm tan desert or tundra landscape with a pale blue sky. The scene has a composed, older illustration style consistent with early-era MTG art.
+
+**Subject:** A robed figure holding a glowing orb, standing before a row of animated or moving large pine trees, with mounted warriors in the background
+
+**Composition:** wide, narrative, figures: group, facing: three-quarter
+**Setting:** other, day, clear
+**Foreground:** Robed figure holding a glowing orb with animated pine trees  *(palette: purple-blue, warm tan, dark green, glowing white)*
+**Background:** Desert or tundra landscape with mounted warriors  *(palette: warm tan, pale blue, earthy brown)*
+**Mood / lighting:** action, ambient
+**Emotion read:** commanding, calling forth the natural world as weapon or shield
+**Objects:** glowing orb, pine trees
+**Creatures:** horses
+**Genre cues:** fantasy
+

@@ -29,7 +29,7 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Trunks (Dragon Ball Z)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 characters: [trunks]
 ---
 
@@ -39,8 +39,8 @@ characters: [trunks]
 
 ![bt1-039-trunks](../../_images/dragon-ball-super/galactic-battle/bt1-039-trunks.png)
 
-> [!warning] Suspected IP: **Trunks (Dragon Ball Z)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Trunks (Dragon Ball Z)**
+> Confirmed via card name, Wikipedia: Trunks (Dragon Ball), and CBR: Future Trunks' Life in DBZ & DBS. Blue jacket, swept light hair, gold energy aura — canonical identifiers present.
 
 A young fighter is shown in a mid-shot action pose, body turned slightly with fists raised and energy radiating outward in golden-yellow bursts. He wears a blue jacket over a dark inner layer. His hair is short and light-colored, swept to the side. The background is a warm yellow-gold gradient suggesting an intense energy release. The overall composition is dynamic and forward-pressing.
 
@@ -54,4 +54,16 @@ A young fighter is shown in a mid-shot action pose, body turned slightly with fi
 **Emotion read:** intense concentration, aggressive charge
 **Iconography:** energy-aura, ki-blast
 **Genre cues:** anime, fantasy
+
+## Trivia
+
+- **Set context** — BT1-039 is a Common in Galactic Battle (set code BT1/DBS-B01), the inaugural set of the Dragon Ball Super Card Game, released July 28, 2017 by Bandai. [PSA CardFacts: 2017 Dragon Ball Super Series 1 Galactic Battle]
+- **Character context** — Trunks is the half-Saiyan son of Vegeta and Bulma. The version narratively dominant during BT1's Frieza-Saga era is Future Trunks, who originates from an alternate timeline devastated by Androids 17 and 18 after Goku died of a heart virus — he was trained by Future Gohan and is the last Z-Warrior in his timeline. [Wikipedia: Trunks (Dragon Ball); CBR: Dragon Ball Z: Everything That Happened Differently in Future Trunks' Timeline]
+- **Design** — Future Trunks' debut in Dragon Ball Z is the moment he kills Frieza and King Cold in the main timeline — the first time a character from the future appears to warn of the Android threat. His blue jacket is his signature visual identifier across the entire Frieza Saga and Cell Saga. [CBR: Future Trunks' Life in Dragon Ball Z and Dragon Ball Super]
+- **Mechanical** — Trunks is a Common Battle Card in BT1's Saiyan color identity, consistent with the Galactic Battle set's confirmed 60-Common / 30-Uncommon / 12-Rare distribution at launch. [Bleeding Cool: Dragon Ball Super Card Game: Galactic Battle Checklist]
+
+### Related cards
+- God Charge Vegeta (Galactic Battle, BT1-036) — Vegeta is Trunks' father; both Saiyan-type Battle Cards in same set
+- King Cold, Father of the Emperor (Galactic Battle, BT1-091) — Future Trunks kills both Frieza and King Cold upon arrival in the main timeline; BT1-091 is the antagonist Trunks dispatches
+- Frieza, The Galactic Emperor (Galactic Battle, BT1-084) — Future Trunks' first on-screen act in the main timeline is killing Frieza
 

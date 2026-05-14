@@ -1,0 +1,41 @@
+{
+  "card_name": "Speed Attack Piccolo Jr.",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-040",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Piccolo Jr.' — the canonical name of King Piccolo's reincarnation during the 23rd World Martial Arts Tournament arc. Art depicts a green-skinned Namekian in purple gi with white turban-style headwrap and pointed ears, consistent with Piccolo Jr.'s canonical early appearance before adopting his later look.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Piccolo Jr. is the complete reincarnation of King Piccolo — born from an egg spat out as King Piccolo died, inheriting all of his father's memories. He entered the 23rd World Martial Arts Tournament under the alias 'Ma Junior' to conceal his identity before his confrontation with Goku. [Wikipedia: Piccolo (Dragon Ball)]",
+      "sources": ["en.wikipedia.org/wiki/Piccolo_(Dragon_Ball)"]
+    },
+    {
+      "category": "design",
+      "text": "Piccolo Jr.'s arc is Dragon Ball's most structurally complete villain-to-mentor pipeline: reincarnated demon king → rival who fights Goku at the 23rd Tournament → Gohan's harsh but devoted mentor in DBZ → eventual fusion with Kami that recombines the original Nameless Namekian split. The TB2-040 card captures the earliest stage of this trajectory. [Wikipedia: Piccolo (Dragon Ball); Saiyan Warrior: From Demon King to Dad of the Year]",
+      "sources": ["en.wikipedia.org/wiki/Piccolo_(Dragon_Ball)", "saiyanwarrior.com/from-demon-king-to-dad-of-the-year-the-evolution-of-piccolo/"]
+    },
+    {
+      "category": "set-lore",
+      "text": "As Gohan's mentor, Piccolo is the canonical stewardship figure for the third Son generation — completing a mentor chain from Kami (Guardian predecessor) → Piccolo (Kami's other half) → Gohan's trainer. Piccolo sacrificed himself protecting Gohan from Nappa's attack, the first moment the series presents him as redeemed. [Wikipedia: Piccolo (Dragon Ball)]",
+      "sources": ["en.wikipedia.org/wiki/Piccolo_(Dragon_Ball)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "TB2-040 is a Common rarity card despite depicting Piccolo Jr. — the set's highest-value character common, as Piccolo commands significantly more secondary-market attention than other commons in DBS-TB02. At $0.36 market price it sits well above typical common floor. [dbs-cardgame.com; pricecharting.com]",
+      "sources": ["dbs-cardgame.com/us-en/product/dbs-tb02.php", "pricecharting.com/console/dragon-ball-super-world-martial-arts-tournament"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Trusting Relationship Kami", "set": "World Martial Arts Tournament", "note": "Kami and Piccolo Jr. are the two halves of the Nameless Namekian — their fusion in the Android Saga resolves Kami's arc."},
+    {"name": "Awakening Talent Pan", "set": "World Martial Arts Tournament", "note": "Piccolo mentors Gohan who fathers Pan — mentor-chain connects these three cards."},
+    {"name": "Fateful Reunion Chi-Chi", "set": "World Martial Arts Tournament", "note": "Chi-Chi and Piccolo compete for influence over Gohan's upbringing; canonical tension."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

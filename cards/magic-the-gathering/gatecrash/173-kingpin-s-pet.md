@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["chains", "servitude", "thrall", "gargoyle", "wings", "gothic", "city", "bondage", "gold", "labor-corrupted", "orzhov", "collar"]
+tags_filter: ["solo", "mid-shot", "narrative", "forward-facing", "multicolor-white-black", "creature-zombie-thrull", "flying", "extort"]
 reference_image: cards/_images/magic-the-gathering/gatecrash/173-kingpin-s-pet.png
 average_cost_paid: 0
 market_price: 0.08
@@ -29,6 +29,29 @@ oracle_text: Flying\nExtort (Whenever you cast a spell, you may pay {W/B}. If yo
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: grim
+time_of_day: day
+setting: urban
 ---
 
 # Kingpin's Pet (Gatecrash)
+
+## Vision
+
+![173-kingpin-s-pet](../../_images/magic-the-gathering/gatecrash/173-kingpin-s-pet.png)
+
+A compact, grotesque creature with large bat-like wings, a hunched wrinkled body, and a visibly chained neck occupies the center of the composition. The creature wears a heavy gold chain collar — clearly a marker of ownership or servitude — and its feet are fitted with spiked metal rings or manacles. It appears to be airborne, its posture that of something flying or descending. Below and to the left, the spires of a gothic city are visible in a pale, hazy sky. The overall palette is warm rose-tan for the creature against a cool pastel background.
+
+**Subject:** A winged gargoyle-like thrull creature bearing a gold chain collar, clawed feet fitted with spiked rings, flying over a gothic cityscape
+
+**Composition:** mid-shot, narrative, figures: solo, facing: forward
+**Setting:** urban, gothic, day
+**Foreground:** Thrull creature with gold chain collar and spiked foot-rings  *(palette: warm tan, rose-grey, gold)*
+**Background:** Gothic city spires in pale hazy sky  *(palette: pale rose, cream, cool grey)*
+**Mood / lighting:** grim, soft
+**Emotion read:** subservient power — creature capable of harm but visibly bound
+**Objects:** gold chain collar, spiked rings, wings
+**Creatures:** thrull, winged creature
+**Iconography:** chain, collar
+**Genre cues:** fantasy
+

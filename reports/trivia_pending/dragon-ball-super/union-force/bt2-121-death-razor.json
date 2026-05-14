@@ -1,0 +1,36 @@
+{
+  "card_name": "Death Razor",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-121",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Salza is the captain of Cooler's Armored Squadron and the primary antagonist of Dragon Ball Z: Cooler's Revenge (1991 film). His signature technique is the Salza Blade — a blade-type energy attack. The card name 'Death Razor' is a DBS TCG technique card associated with the Cooler's Armored Squadron faction in BT2. The card's vision describes a small compact alien executing a slashing/razor energy attack in pink-yellow colors — consistent with Salza's energy-blade techniques. Confidence: med (no direct technique-name confirmation via canonical Dragon Ball source, but the card is mechanically associated with the Cooler faction in BT2 and Salza's blade technique is the most prominent razor-type move in that film). Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Salza is the captain of Cooler's Armored Squadron, the elite strike team serving Cooler (Frieza's older brother) in the non-canon film Dragon Ball Z: Cooler's Revenge (1991). The Squadron consists of Salza, Dore, and Neiz. Salza is described as the strongest of the three. [WebSearch: Salza Dragon Ball Wiki Cooler's Armored Squadron Cooler's Revenge]",
+      "sources": ["WebSearch: Salza Dragon Ball Wiki Fandom", "Wikipedia: Dragon Ball Z: Cooler's Revenge"]
+    },
+    {
+      "category": "design",
+      "text": "Salza's signature technique is the Salza Blade — an energy blade projected from his hand, called Salza Blade Rush in the Budokai Tenkaichi and Raging Blast game series. The card 'Death Razor' uses a razor/slash naming convention consistent with Salza's blade-type energy attacks. The DBS TCG often creates technique card names not verbatim from the anime when adapting film-exclusive characters. [WebSearch: Salza technique Salza Blade Cooler's Revenge Dragon Ball Wiki]",
+      "sources": ["WebSearch: Salza Dragon Ball Wiki Fandom"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a Common-rarity Extra card (BT2-121) in Union Force, Death Razor has the effect 'Activate Main: Choose 1 of your opponent's Battle Cards in Rest Mode and KO it' for 2 Yellow energy. The KO-in-rest-mode effect mirrors the ambush/assassination style of Cooler's Armored Squadron, who attacked the Z Fighters on Earth via surprise. [DBZ Exchange: BT2-121]",
+      "sources": ["DBZ Exchange: BT2-121 Death Razor", "WebSearch: Salza Dragon Ball Wiki"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Cooler (any BT2 card)", "set": "Union Force", "note": "Salza serves Cooler directly — canonical commander"},
+    {"name": "Dore", "set": "Union Force", "note": "Fellow Armored Squadron member alongside Salza and Neiz"},
+    {"name": "Neiz", "set": "Union Force", "note": "Third member of Cooler's Armored Squadron"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Salza (Dragon Ball Z: Cooler's Revenge)",
+    "ip_confidence": "med"
+  }
+}

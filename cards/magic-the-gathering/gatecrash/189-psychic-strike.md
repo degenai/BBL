@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["mind", "psychic", "memory", "horror", "glow", "dimir", "possession", "void", "faces", "manipulation", "ghost"]
+tags_filter: ["solo", "mid-shot", "action", "forward-facing", "multicolor-blue-black", "instant", "mill", "counterspell"]
 reference_image: cards/_images/magic-the-gathering/gatecrash/189-psychic-strike.png
 average_cost_paid: 0
 market_price: 0.35
@@ -29,6 +29,27 @@ oracle_text: Counter target spell. Its controller mills two cards.
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: night
+setting: void
 ---
 
 # Psychic Strike (Gatecrash)
+
+## Vision
+
+![189-psychic-strike](../../_images/magic-the-gathering/gatecrash/189-psychic-strike.png)
+
+A pale, gaunt figure with spiny protrusions along its head and a single red gem or marking at its brow dominates the center. Both arms are extended forward, hands outstretched, channeling a glowing mass of teal-green and white psychic energy. Within the energy mass, multiple ghostly or distorted face-like shapes are visible, suggesting memories or minds being consumed or suppressed. Tendrils of organic, pale purple matter extend from the figure's body. The background is deep dark near-black. The overall composition has a radiating, outward-pushing energy.
+
+**Subject:** A gaunt, spiny humanoid figure with a gem on its forehead channeling luminous psychic energy through outstretched hands, with ghostly faces visible in the energy
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** void, night
+**Foreground:** Gaunt spiny humanoid channeling psychic energy with ghostly faces in the glow  *(palette: pale grey, teal, luminous white, deep purple)*
+**Background:** Near-black void  *(palette: near-black, dark charcoal)*
+**Mood / lighting:** horror, rim
+**Emotion read:** cold malice, dominating focus, psychic aggression
+**Iconography:** gem, glowing energy
+**Genre cues:** fantasy
+

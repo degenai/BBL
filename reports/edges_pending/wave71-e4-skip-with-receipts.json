@@ -1,0 +1,50 @@
+{
+  "wave": 71,
+  "move_id": "E4",
+  "shape": "skip-with-receipts",
+  "operator": "edgelord",
+  "model": "opus-4-7",
+  "verdict": "SKIP — three substantive moves already landed (E1 audit-clean, E2 saiyan-rebellion-attribution + 2 refusals-with-receipts, E3 krillin solo-node commission); a fourth additive move risks performative-edge-creation against the triple-thesis-doc's anti-pattern clause #3 ('the triangle becomes performative... hubs being attached because we want the triangle to look full rather than because the canonical-evidence supports the attribution... the curation has begun to lie').",
+  "candidates_considered_and_refused": [
+    {
+      "candidate": "Piccolo Jr. solo-node commission",
+      "verdict": "DEFER — threshold-passing on count (3 prints: BT1-045 + TB2-027 + TB2-040) but two of three prints vision-pending. Commissioning the node now means leaning on canonical card-name identification before the vision-pass register-anchors are established. The Edgelord-rigor-audit memory bbl-edgelord-node-rigor-audit.md instructs us to wait for vision-pass completion before commissioning to avoid post-hoc register-anchor drift. Defer to wave when TB2-040 + BT1-045 vision-passes land. (Note: BT1-045 has tags_hub populated already — that's vision-passed actually. Re-check next wave; Piccolo Jr. may be commissionable as soon as TB2-040 vision lands.)"
+    },
+    {
+      "candidate": "destroyer-god-attendant-dyad triple-hub-audit re-examination",
+      "verdict": "REFUSE preemptively — Whis and Vados are canonically the cosmic-management apparatus (stewardship-corrupted-by-credit-uncoupling); they explicitly do NOT refuse the apparatus, they ARE the apparatus. No canonical rebellion-attribution evidence. Same logic as the Hercule refusal in E2."
+    },
+    {
+      "candidate": "aether-foundation triple-hub-audit re-examination",
+      "verdict": "REFUSE preemptively — Lusamine's Aether Foundation IS the corrupted-stewardship-as-establishment-cover apparatus by canonical definition. Adding rebellion attribution to the node that anchors the cleanest corrupted-stewardship case in the corpus would dissolve the canonical-reading the stewardship hub Anti-Patterns section relies on."
+    },
+    {
+      "candidate": "Master Roshi / Jackie Chun solo-node commission",
+      "verdict": "DEFER — 2 corpus prints (TB2-057 + TB2-058 Jackie Chun-is-Roshi-disguise). The two-print count is sub-threshold per the Bolas-cluster three-anchor commission threshold. Surface for future wave if a third Roshi print enters corpus. The canonical Jackie-Chun-is-Roshi identification is a clean future register-pair when the third print arrives."
+    },
+    {
+      "candidate": "Chi-Chi solo-node commission",
+      "verdict": "DEFER — 2 corpus prints (TB2-037 + TB2-038). Sub-threshold. Future wave."
+    },
+    {
+      "candidate": "edge-replacement (enlightened form)",
+      "verdict": "NO CANDIDATE SURFACED — the substrate audit didn't surface an edge that wants replacing. The Saiyan rebellion-attribution in E2 was a hub-extension, not an edge-replacement. The Krillin commission in E3 was an additive new node, not a replacement. Enlightened-form not triggered this wave."
+    },
+    {
+      "candidate": "Dark Nodesley EX dissolution",
+      "verdict": "NO CANDIDATE SURFACED — the substrate has no empty / subsumed / inaccurate / mistakenly-proposed nodes pending. Most recent additions (stewardship hub, Hercule solo, _triple-thesis meta) are all load-bearing and well-cited. Dark Nodesley remains in his sheath."
+    }
+  ],
+  "edge_count_delta": "0 (no E4 move applied)",
+  "edgelord_mood": "satisfied",
+  "edgelord_voice_audit_trail": "Three substantive moves landed this wave — that's enough work for the substrate to digest. A fourth move risks forcing the triangle. The discipline says refusal-with-receipts is first-class output; here that means refusing to manufacture a fourth move when three is the right count. E4 = skip-with-receipts, audit-trail preserved, future-wave candidates surfaced.",
+  "future_wave_candidates_surfaced": [
+    "Piccolo Jr. solo-node commission — re-check after TB2-040 vision-pass lands",
+    "Master Roshi solo-node commission — wait for third corpus print",
+    "Chi-Chi solo-node commission — wait for third corpus print",
+    "Eighteen solo-node commission — wait for any corpus prints (currently 0)",
+    "Chiaotzu solo-node commission — wait for 2nd and 3rd corpus prints (currently 1: TB2-056)",
+    "Z-Fighter-cohort character-cohort node — possible future Mr. Nodeley commission if the canonical Z-Fighter-Earth-defender cohort warrants a collective node alongside the individual-character solo nodes",
+    "pia-nalaar future Aether Rangers parent node — likely triple-hub if/when commissioned per wave-71 parent-orchestrator note"
+  ]
+}

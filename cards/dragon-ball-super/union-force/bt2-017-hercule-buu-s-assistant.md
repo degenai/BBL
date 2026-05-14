@@ -30,6 +30,7 @@ setting: other
 suspected_ip: Hercule / Mr. Satan (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
+characters: [hercule]
 ---
 
 # Hercule, Buu's Assistant (Union Force)

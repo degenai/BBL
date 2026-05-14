@@ -1,0 +1,41 @@
+{
+  "card_name": "Uncountable Many Cell Jr.",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-087",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies Cell Jr. offspring. Seven Cell Jrs. were spawned by Cell via cellular mitosis from his tail during the Cell Games arc. The card title 'Uncountable Many' treats them as a cohort, not named individuals — consistent with anti-conflation rule. IP verified as Cell Jr. (Dragon Ball Z) cohort-generic.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Union Force (DBS-B02) is the second main booster set of the Dragon Ball Super Card Game, released November 2017 by Bandai. The set draws heavily from Dragon Ball Z's Cell Saga as its primary narrative period. [WebSearch: Dragon Ball Super Union Force BT2 release date]",
+      "sources": ["WebSearch: Dragon Ball Super Union Force BT2 2017"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Cell Jr. are bio-androids spawned by Perfect Cell via cellular mitosis from his tail during the Cell Games arc. Seven were created, each matching Cell's power level. The card title 'Uncountable Many' treats them as a horde-cohort rather than named individuals — the seven were effectively identical and fought collectively. [WebSearch: Dragon Ball Wiki Cell Jr. Cell Games seven offspring]",
+      "sources": ["WebSearch: Cell Jr. Dragon Ball Wiki Fandom"]
+    },
+    {
+      "category": "design",
+      "text": "As a Common rarity card, BT2-087 represents a swarm/horde design archetype. The plural title ('Uncountable Many') is unusual for a Battle Card in the DBS TCG, which typically names a single character. The cohort framing aligns with the in-series role of the Cell Jrs. as a simultaneous threat dispatched against all the Z Fighters at once during the Cell Games. [DBZ Exchange: BT2-087]",
+      "sources": ["DBZ Exchange", "WebSearch: Cell Jr. Cell Games"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Cell Jr. represent the bio-mechanical lineage of Dr. Gero's Android project carried to its reproductive extreme: Cell was designed to absorb and replicate genetic material, and his ability to spawn offspring via cellular division extends that logic into the Cell Games as a tactical weapon — spawning seven fighters simultaneously to break the Z Fighters' morale. [WebSearch: Cell Jr. Dragon Ball Wiki bio-android cellular mitosis]",
+      "sources": ["WebSearch: Cell Jr. Dragon Ball Wiki Fandom", "WebSearch: Bio-Android Dragon Ball Wiki"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Cell (Perfect Form)", "set": "Union Force", "note": "Cell is the progenitor of the Cell Jrs.; any Perfect Cell card in BT2 is the canonical parent"},
+    {"name": "Android 16", "set": "Union Force", "note": "Android 16's death at the Cell Games triggered Gohan's SSJ2 — the event that ended the Cell Jrs.' rampage"},
+    {"name": "Fully Trained Super Saiyan Son Gohan", "set": "Union Force", "note": "Gohan SSJ2 is the in-universe answer to the Cell Jr. threat at the Cell Games"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Cell Jr. (Dragon Ball Z)",
+    "ip_confidence": "high"
+  }
+}

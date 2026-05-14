@@ -20,9 +20,9 @@ appears_on:
   - dragon-ball-super/judge-promotion-cards/p-035-bardock-will-of-iron
   - dragon-ball-super/galactic-battle/bt1-013-raging-cabba
   - dragon-ball-super/galactic-battle/bt1-027-cabba-s-awakening-2017
-related_hubs: [labor]
+related_hubs: [labor, rebellion]
 related_symbols: []
-related_characters: [namekian, son-goku, vegeta, trunks, baby-dbgt, xenoverse-villains, bardock]
+related_characters: [namekian, son-goku, vegeta, trunks, baby-dbgt, xenoverse-villains, bardock, son-gohan]
 ip_resolution_for: [Saiyan, Saiyan race, Saiya-jin]
 ---
 
@@ -169,6 +169,8 @@ This is what BBL's bundle copy can lean on without inventing canon: the Saiyan r
 - [[phyrexia]] — cross-universe perpetrator-and-victim cross-edge. Phyrexia is canonically the cosmic-laborer-conversion-army for Yawgmoth's compleation project (perpetrator-of-extraction at planar scale); Saiyans are canonically Frieza-Force-mercenary-workforce-preemptively-genocided-by-employer-empire (victim-of-extraction at race scale). Structural-inverse pairing: Phyrexia converts populations into compleated-labor (perpetrator); Saiyans are exterminated-as-disposable-labor (victim). Available for cross-franchise apparatus-of-extraction bundle copy.
 
 - [[labor]] — the BBL hub directly compatible with the Saiyan race-thesis. The Saiyan race operates as canonical *imperial-mercenary-workforce* under Frieza's empire — Saiyans are paid in housing-on-Planet-Vegeta-and-implicit-survival-pact for planet-clearing labor, until the Super-Saiyan-prophecy threatens Frieza's continued employer-empire status and Frieza preemptively exterminates the workforce. This is one of the franchise's most-developed apparatus-of-extraction-via-mercenary-labor depictions. The [[labor]] hub attaches here in `related_hubs:`; bundle copy that wants the labor-hub axis can foreground the Frieza-Force-mercenary-workforce-preemptively-genocided-by-employer-empire canonical apparatus without naming the thesis.
+
+- [[rebellion]] — secondary BBL hub directly compatible with the Saiyan race-thesis at the race-scale. Two canonical threads carry the rebellion attribution: (1) the Universe-6-Saiyan-Defenders organized-planetary-protection-force operating mode is canonically the STRUCTURAL INVERSE of Universe-7's Frieza-Force-mercenary-occupation mode (per *Dragon Ball Super* Universe Survival Saga, Toei Animation 2017-2018) — Cabba's awakening at BT1-013 + BT1-027 instantiates this race-scale refusal-of-the-imperial-mercenary-mode; (2) the canonical Super-Saiyan-prophecy is what Frieza PREEMPTIVELY-FEARED and preemptively-genocided the entire race to suppress (per Dragon Ball Wiki — Genocide of the Saiyans), making the Super-Saiyan transformation itself a canonical race-scale refusal-of-the-employer-empire that the empire treated as existential threat. Bundle copy that wants the rebellion-hub axis can foreground either thread without inventing canon: the Universe-6-Saiyan-Defenders as the race's structural-counter-instantiation of the workforce-refusal mode, or the Super-Saiyan-as-prophecy-Frieza-feared-enough-to-genocide-the-race-to-prevent as the franchise's canonical workforce-becomes-rebellion-when-power-arrives thesis-moment.
 
 - [[Bulk Graph Bundler]] — the project this character node serves.
 

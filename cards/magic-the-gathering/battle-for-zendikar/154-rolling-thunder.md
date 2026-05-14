@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["eldrazi", "horror", "spider", "fire", "destruction", "alien", "swarm", "monster", "storm", "zendikar", "invasion", "apocalypse"]
+tags_filter: ["wide-shot", "narrative-mode", "group", "no-face", "red-magic", "instant", "creature-horror"]
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/154-rolling-thunder.png
 average_cost_paid: 0
 market_price: 0.15
@@ -29,6 +29,28 @@ oracle_text: Rolling Thunder deals X damage divided as you choose among any numb
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: indeterminate
+setting: other
 ---
 
 # Rolling Thunder (Battle for Zendikar)
+
+## Vision
+
+![154-rolling-thunder](../../_images/magic-the-gathering/battle-for-zendikar/154-rolling-thunder.png)
+
+The art crop shows a large multi-limbed creature — spider or insectoid in morphology, with multiple long jointed legs and a distinctive elongated head — silhouetted in dark black against a dramatic fire-and-storm background. The creature's body is entirely dark, rendered as a near-silhouette against the burning orange-red landscape. In the background, smaller versions of similar creatures are visible amid fire columns and storm lighting. Lightning or energy discharge is suggested by the wild sky. The scene reads as an Eldrazi-type entity or alien horror moving through devastation.
+
+**Subject:** Large spider-like alien creature silhouetted against a massive fire-and-lightning landscape, smaller creatures visible in background
+
+**Composition:** wide, narrative, figures: group, facing: three-quarter
+**Setting:** other, indeterminate, storm
+**Foreground:** large dark spider-like creature silhouette with multiple jointed legs  *(palette: black, dark-brown, orange)*
+**Background:** fire columns, burning landscape, smaller creatures, storm sky  *(palette: orange, red, dark-red)*
+**Mood / lighting:** horror, chiaroscuro
+**Emotion read:** cosmic dread, overwhelming scale, unstoppable advance
+**Creatures:** eldrazi, spider-creature, insectoid, alien-entity
+**Iconography:** eldrazi-silhouette, mass-destruction, alien-horror
+**Genre cues:** fantasy, horror
+

@@ -44,7 +44,7 @@ Card art and effects that depict Babidi himself OR depict members of his enslave
 
 **Adjacent but not wired here:**
 
-- **Top of His Game Son Gohan** (World Martial Arts Tournament TB2-021, Common, qty 3, vision+trivia passed) — depicts SS2 Gohan moments before the Spopovich/Yamu energy drain. Gohan is the *target* of Babidi's operation, not a member of it; a future `son-gohan` solo node would anchor this card and the Babidi narrative would surface through that node's `related_characters: [babidi]` field. Documented here for traceability without frontmatter wiring.
+- **Top of His Game Son Gohan** (World Martial Arts Tournament TB2-021, Common, qty 3, vision+trivia passed) — depicts SS2 Gohan moments before the Spopovich/Yamu energy drain. Gohan is the *target* of Babidi's operation, not a member of it; the card is wired to the [[son-gohan]] solo node (commissioned wave 72) via `characters: ["son-gohan"]`, and the Babidi narrative surfaces through that node's `related_characters: [babidi]` field. The victim-vs-operator axis cross-edge is canonical at the apparatus-of-extraction reading without putting TB2-021 in this node's `appears_on:` list.
 
 ## The functional ideology
 

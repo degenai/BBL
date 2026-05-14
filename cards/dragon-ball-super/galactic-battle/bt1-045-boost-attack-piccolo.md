@@ -29,7 +29,7 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Piccolo (Dragon Ball Z)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Boost Attack Piccolo (Galactic Battle)
@@ -38,8 +38,8 @@ ip_verified: false
 
 ![bt1-045-boost-attack-piccolo](../../_images/dragon-ball-super/galactic-battle/bt1-045-boost-attack-piccolo.png)
 
-> [!warning] Suspected IP: **Piccolo (Dragon Ball Z)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Piccolo (Dragon Ball Z)**
+> Confirmed via card name and Wikipedia: Piccolo (Dragon Ball). Green skin, white cape and turban, antennae, palm-forward energy blast — canonical identifiers present.
 
 A tall green-skinned humanoid figure stands in a wide action stance with one arm fully extended forward, palm open and pointed outward, with a vivid green energy charge radiating from the hand. The figure wears a white flowing cape and white turban-style head wrap, with a dark bodysuit underneath. Antennae or ear-stalks are partially visible on the head. The background features bright green energy effects on a lighter gradient, giving the impression of tremendous force being projected outward. The expression is focused and intense.
 
@@ -53,4 +53,14 @@ A tall green-skinned humanoid figure stands in a wide action stance with one arm
 **Emotion read:** intense focused aggression
 **Iconography:** energy-blast, ki, cape
 **Genre cues:** anime, fantasy
+
+## Trivia
+
+- **Set context** — Boost Attack Piccolo (BT1-045) is a Common in Galactic Battle (July 28, 2017). The card depicts Piccolo in his post-Nail-fusion state: during the Frieza Saga, Piccolo permanently absorbed the Namekian warrior Nail on Planet Namek, gaining a massive power increase sufficient to challenge Frieza's Second Form. [Wikipedia: Piccolo (Dragon Ball); CBR: Dragon Ball: What Makes Namekian Fusion So Unique?]
+- **Stewardship register** — Piccolo is the canonical mentor-figure of Gohan across Z through Super. He began training Gohan before the Saiyan Saga and his mentorship reached its apex in the Cell Saga: Gohan explicitly requested a copy of Piccolo's gi before the Cell Games, wearing his mentor's uniform as an act of connection and confidence. This makes Piccolo the clearest stewardship-register in the Z roster — a former antagonist whose entire late-series arc is the labor of raising another fighter. [CBR: Dragon Ball: Everything You Need to Know About Gohan and Piccolo; CBR: 5 Times Gohan and Piccolo Were the Best Dragon Ball Duo]
+- **Design** — Piccolo's white cape and turban are his signature visual identifiers, worn throughout DBZ and Dragon Ball Super; they are removed before combat. The card art retains them, suggesting a pre-battle charge-up moment. His signature technique is the Makankosappo (Special Beam Cannon) — a focused drill-beam requiring extended charge time, thematically consistent with the 'boost before attack' card title. [Wikipedia: Piccolo (Dragon Ball)]
+
+### Related cards
+- Son Gohan, Family of Justice (Galactic Battle, BT1-062) — Gohan is Piccolo's canonical student; mentor-student pair complete within BT1
+- Human Shield Krillin (Galactic Battle, BT1-072) — both Piccolo and Krillin occupy the stewardship register in different modes: mentor vs. loyal human shield
 

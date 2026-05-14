@@ -1,0 +1,41 @@
+{
+  "card_name": "Trunks",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-039",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Trunks'. Blue jacket, short light-colored swept hair, golden energy aura, young fighter build — all canonical visual identifiers of Trunks (son of Vegeta and Bulma) from Dragon Ball Z/Super. Verified via card name, Wikipedia character entry, and CBR timeline article.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT1-039 is part of Galactic Battle (set code BT1/DBS-B01), the inaugural set of the Dragon Ball Super Card Game, released July 28, 2017 by Bandai — the first major TCG release for the Dragon Ball Super IP. [PSA CardFacts]",
+      "sources": ["PSA CardFacts: 2017 Dragon Ball Super Series 1 Galactic Battle"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The card depicts Trunks, the half-Saiyan son of Vegeta and Bulma. The version relevant to the Galactic Battle set's era is Future Trunks, who originates from an alternate timeline devastated by Androids 17 and 18 after Goku died of a heart virus — his Future Gohan was killed before him, making him the last Z-Warrior in his timeline. [Wikipedia: Trunks (Dragon Ball)]",
+      "sources": ["Wikipedia: Trunks (Dragon Ball)", "CBR: Future Trunks Alternate Timeline Explained"]
+    },
+    {
+      "category": "design",
+      "text": "Future Trunks' debut in Dragon Ball Z is the moment he kills Frieza and King Cold in the main timeline — the first time a character from the future appears to warn of the Android threat. His blue jacket is his signature visual identifier across the entire Frieza Saga and Cell Saga. [CBR: Future Trunks' Life in DBZ & DBS]",
+      "sources": ["CBR: Future Trunks' Life in Dragon Ball Z & Dragon Ball Super"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At BT1-039, Trunks is a Common-rarity Battle Card in the set's Saiyan color identity, consistent with the Galactic Battle set's 60-Common / 30-Uncommon / 12-Rare distribution that was confirmed at launch. [Bleeding Cool: Galactic Battle Checklist]",
+      "sources": ["Bleeding Cool: Dragon Ball Super Card Game: Galactic Battle Checklist"]
+    }
+  ],
+  "related_cards": [
+    {"name": "God Charge Vegeta", "set": "Galactic Battle", "note": "Vegeta is Trunks' father; both Saiyan-type cards in the same set"},
+    {"name": "King Cold, Father of the Emperor", "set": "Galactic Battle", "note": "Future Trunks kills both Frieza and King Cold upon arrival in the main timeline — BT1-091 is the antagonist Trunks dispatches"},
+    {"name": "Frieza, The Galactic Emperor", "set": "Galactic Battle", "note": "Future Trunks' first on-screen act is killing Frieza in the main timeline"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}
