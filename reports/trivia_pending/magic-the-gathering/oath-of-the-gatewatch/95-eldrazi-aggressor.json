@@ -1,0 +1,38 @@
+{
+  "card_name": "Eldrazi Aggressor",
+  "game": "Magic: The Gathering",
+  "set": "Oath of the Gatewatch",
+  "collector_number": "95",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Eldrazi Aggressor is an Eldrazi Drone — a creature subtype used for smaller Eldrazi whose mechanics are entangled with colored mana despite being devoid. Drone-type Eldrazi in OGW represent Kozilek's brood lineage, which is mechanically distinguished from Ulamog's brood by using the {C} colorless mana symbol rather than colored hybrid pips. [Scryfall type_line, Wizards OGW Mechanics article]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/oath-gatewatch-mechanics-2015-12-28"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"They employ a foul sort of teamwork.\" — General Tazri, allied commander. [Scryfall] Tazri was the Zendikari military commander who rallied the allied forces at Sea Gate during the Eldrazi siege, and later assumed command of Sea Gate after Gideon departed the plane. [WebSearch: MTG Wiki Tazri snippet via mtg.fandom.com]",
+      "sources": ["Scryfall", "mtg.fandom.com/wiki/Tazri via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The haste trigger — active while you control another colorless creature — rewards building a dedicated colorless shell. In OGW draft, this pushed players toward all-in Eldrazi Devoid decks where a single colorless creature already on the board turned this into an aggressive threat on curve. Legal in Pauper and Pauper Commander. EDHREC rank 26433. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "General Tazri", "set": "Oath of the Gatewatch", "note": "The flavor-text speaker; 5-color Ally commander representing the Zendikari resistance"},
+    {"name": "Eldrazi Aggressor", "set": "Oath of the Gatewatch", "note": "self"},
+    {"name": "Eldrazi Displacer", "set": "Oath of the Gatewatch", "note": "Another OGW Eldrazi that uses the {C} colorless mana symbol introduced in the set"},
+    {"name": "Maw of Kozilek", "set": "Oath of the Gatewatch", "note": "Sister Eldrazi Drone in inventory; also uses {C} activation"},
+    {"name": "Immobilizer Eldrazi", "set": "Oath of the Gatewatch", "note": "Sister Eldrazi Drone in inventory with devoid and {C} mechanic"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

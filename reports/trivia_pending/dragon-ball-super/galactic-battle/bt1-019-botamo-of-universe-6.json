@@ -1,0 +1,36 @@
+{
+  "card_name": "Botamo of Universe 6",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-019",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names Botamo. The large round yellow bear-like creature with small tail and defiant open-armed stance matches Botamo's canonical design exactly. IP verified via explicit card name and canonical visual identifiers.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Botamo is a Universe 6 fighter selected by Vados for Champa's team at the Tournament of Destroyers alongside Frost, Magetta, Cabba, and Hit. He was the first of Universe 6's fighters to face Goku in the ring. [Dragon Ball Wiki: Tournament of Destroyers, via WebSearch]",
+      "sources": ["Dragon Ball Wiki (WebSearch snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Botamo's most notable mechanical trait is a rubber-like body that makes him immune to conventional punches, kicks, and even Goku's Kamehameha — damage from attacks simply vanishes into his body without effect. Goku defeated him not by overpowering him but by dragging him to the ring's edge by his legs and throwing him out — a ring-out, not a knockout. [Dragon Ball Wiki: Tournament of Destroyers, via WebSearch; CBR Universe 6 Tournament match recap]",
+      "sources": ["Dragon Ball Wiki (WebSearch snippet)", "CBR: Universe 6 Tournament every match (WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Botamo returned for the Tournament of Power (Dragon Ball Super anime) and was once again eliminated by ring-out — Vegeta tied his arms into a knot to exploit the same mobility vulnerability Goku had found earlier. The recurring pattern (unkillable but immobilizable) makes him one of the more mechanically distinctive U6 fighters despite low overall narrative stakes. [Dragon Ball Wiki: Botamo, via WebSearch]",
+      "sources": ["Dragon Ball Wiki (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Unceasing Evolution Frost", "set": "Galactic Battle (BT1-016)", "note": "Same set, same Universe 6 Tournament of Destroyers cohort"},
+    {"name": "Hit", "set": "Galactic Battle and later sets", "note": "Universe 6 team anchor; cohort centerpiece"},
+    {"name": "Cabba", "set": "Galactic Battle and later sets", "note": "Universe 6 Saiyan; same Tournament of Destroyers team"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

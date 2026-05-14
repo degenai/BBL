@@ -73,6 +73,30 @@ The triangle breaks if:
 
 3. **The triangle becomes performative.** If hubs start being attached to cards because *we want the triangle to look full* rather than because the canonical-evidence supports the attribution, the curation has begun to lie. Refusal-with-receipts is the antidote: any node whose hub-attribution can't survive a "what's the canonical citation?" question gets the hub stripped.
 
+## The Potion Rule — canon is what the canon does; the curatorial reading is what we add
+
+A foundational anti-pattern guard, named after the Pokémon Potion item card during the wave-69 graph-expert review with [[Alex]]. The rule:
+
+> **A Potion is a Potion. It heals. It is NOT an instrument of medical-industrial-complex oppression — UNLESS the canon says it is.**
+
+The Potion rule names the discipline that keeps the BBL graph from collapsing into a star-graph centered on the apparatus-of-extraction thesis. Every card on every game COULD be read as labor-rebellion-stewardship if you squint hard enough — a Pokémon Potion is "labor-supply-chain healing-economy" if you stretch; a generic Forest is "stewardship of land-as-commons" if you stretch; a basic Fog spell is "rebellion-via-obfuscation" if you stretch. **The rule says: don't stretch.**
+
+What the rule protects:
+
+1. **Node body language must distinguish canonical-event from curatorial-overlay.** A canonical event is what Toriyama / Wizards / Bandai / The Pokémon Company / Sora wrote. A curatorial overlay is the labor-rebellion-stewardship reading BBL applies on top. The body can carry both, but it must NAME WHICH IS WHICH. Phrases like *"the franchise's clearest articulation of the apparatus-of-extraction"* claim Toriyama articulated the thesis. He did not. He articulated villain-escalation. We articulate the apparatus-of-extraction reading on top. Rewrite to *"BBL reads this canonical villain-escalation as the apparatus-of-extraction's progressive autonomy"* or similar — visibility on the overlay.
+
+2. **Hub-attribution must be supported by canonical evidence per node, not by analytic-pressure.** This is the anti-pattern guard from the wave-71 audit: every `related_hubs:` entry must survive a *"what's the canonical citation?"* question. Node-body prose is held to the same standard. If a card's only labor-coding comes from BBL squinting at the artwork, no labor attribution. If it comes from canonical-flavor-text or oracle-mechanics or designer-statement, attribution earned.
+
+3. **Bundle copy may extrapolate where node bodies cannot.** Bundle titles like *"Workers of the world, untap"* and *"Sleep when you're dead"* and *"The Mentor They Murdered"* are *brand-voice extrapolations on the curatorial overlay*, written for buyer-facing storefront use. The node-body discipline is stricter than the bundle-copy discipline — the node body is the substrate, the bundle copy is the surface. Buyers can read protest-sign rhythm; the substrate must read with curator-receipts.
+
+4. **The thesis travels where the receipts carry it.** Per the Wave-69 extraction-as-hub refusal: the apparatus-of-extraction reading is the *lens*, not the *content*. Cards that demonstrate the lens at their canonical level (e.g., Kingpin's Pet with the chain-collar Orzhov-thrull canonical text + Milana flavor-quote about debt-as-death; Whis Auto-skill canonically requiring Beerus Leader as the mechanical-encoding of attendant-must-serve-paired-destroyer) ARE thesis-anchored. Cards that don't (a Pokémon Potion, a basic Plains, a generic Naturalize) are not — they live in the graph as nodes-without-hub-attribution and that's correct.
+
+5. **When in doubt, refuse the attribution.** The wave-71 and wave-74 Saiyan-lineage triple-attribution refusals are the canonical examples — the node bodies didn't carry citations meeting the rigor-bar, so the third hub was withheld pending prose-extension. The refusal is itself the discipline working.
+
+The Potion rule is the structural sibling of the refusal-of-extraction-as-hub (wave 69) and the refusal-of-invented-topology-jargon (wave 72). All three are the same move: **don't let analytic ambition outrun what the canon supports**. The BBL graph's value is precisely its empirical anchoring; if we project the thesis onto cards that don't earn it, the graph becomes our own private essay, not a curation.
+
+> Named for: the Pokémon Potion (Evolutions 83-108 / multiple printings) — the exemplar item card whose entire visual register is *small bottle of healing liquid*, used by trainers to restore Pokémon HP, with no canonical evidence of any medical-industrial-complex framing, mass-production-of-medication apparatus, gig-economy-pokemon-trainer-medical-supply-chain reading, or any other apparatus-of-extraction overlay supported by Toriyama, Tajiri, or The Pokémon Company. The card is not nothing — it can anchor to character-cohort nodes (any Trainer-class node), to mechanical-cycle nodes (item-cards-of-evolution-era), to aesthetic-bundles (healing-economy-as-tcg-genre-element). But it is not a labor card. The rule keeps it not-a-labor-card.
+
 ## Standing forward-pointers
 
 - The graph will likely produce more dual-hub compression points. Already-surfaced candidates: [[saiyan]] (race-collective with both labor-mercenary register AND rebellion-via-Bardock-and-Cabba-awakening), [[hercule]] (labor-credit-theft + stewardship-Buu-friendship — though absent rebellion). Edgelord audits will surface them.

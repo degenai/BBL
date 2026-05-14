@@ -29,7 +29,7 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Son Goku (Dragon Ball)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Fateful Reunion Son Goku (World Martial Arts Tournament)
@@ -38,8 +38,8 @@ ip_verified: false
 
 ![tb2-035-fateful-reunion-son-goku](../../_images/dragon-ball-super/world-martial-arts-tournament/tb2-035-fateful-reunion-son-goku.png)
 
-> [!warning] Suspected IP: **Son Goku (Dragon Ball)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Son Goku (Dragon Ball)**
+> Confirmed via card name (explicit: "Fateful Reunion Son Goku") and canonical visual: orange gi, dark spiky hair, running forward with energy aura. [dbs-cardgame.com; TCGPlayer: TB2-035, via WebSearch]
 
 A young male-presenting fighter with dark spiky hair runs forward in an orange gi, motion energy trailing behind him. A second figure in blue with dark hair appears in the background to the left, suggesting a reunion or approach toward each other. The scene has warm pink-orange energy filling the background. The card title 'Fateful Reunion' reinforces the two-figure dynamic even though the second figure is small in frame.
 
@@ -53,4 +53,14 @@ A young male-presenting fighter with dark spiky hair runs forward in an orange g
 **Emotion read:** urgency, joy, reunion energy
 **Objects:** energy-aura
 **Genre cues:** anime, martial-arts
+
+## Trivia
+
+- **Set context** — World Martial Arts Tournament (DBS-TB02) is the second Themed Booster set for the Dragon Ball Super Card Game, focused on the Tenka'ichi Budokai tournament narrative. TB2-035 is a Rare card. [TCGPlayer: TB2-035 product data; dbs-cardgame.com, via WebSearch]
+- **Fateful Reunion cycle** — The set includes a named "Fateful Reunion" card cycle: TB2-035 (Son Goku) and TB2-037 (Chi-Chi). The cycle has mechanical synergy: when Fateful Reunion Son Goku is played, it grants +10000 power to itself and one other Fateful Reunion Son Goku in the Battle Area, then draws a card. Chi-Chi's version triggers a Barrier when Goku hits the field. The cycle models reunion as mutual power amplification. [TCGPlayer: Fateful Reunion Son Goku TB2-035; Rochester CCG: TB2-037, via WebSearch]
+- **Narrative reference** — The "Fateful Reunion" framing likely references the 23rd Tenka'ichi Budokai in Dragon Ball, where adult Goku reunites with Chi-Chi — the tournament that leads to their engagement and marriage. The second figure in blue in the card's background is consistent with Chi-Chi's gi color at this tournament. [Kanzenshuu: Episode Guide — 23rd Tenka'ichi Budokai arc, via WebSearch]
+
+### Related cards
+- Fateful Reunion Chi-Chi (TB2-037, World Martial Arts Tournament) — mechanical synergy partner in the cycle; likely the blue figure in the background
+- Son Goku // Full Power Son Goku (P-044, Promotion Cards) — same character in powered-up state; anchor card for Goku in the corpus
 

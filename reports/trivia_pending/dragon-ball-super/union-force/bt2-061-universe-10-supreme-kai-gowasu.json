@@ -1,0 +1,41 @@
+{
+  "card_name": "Universe 10 Supreme Kai Gowasu",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-061",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names Gowasu; green-skinned elder in Supreme Kai robes with dark energy is visually canonical to the character as depicted in Dragon Ball Super anime. ip_verified set to true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Union Force (DBS-B02) was the second booster set for the Dragon Ball Super Card Game, released November 3, 2017. BT2-061 is a Common-rarity card. [PSACardFacts: 2017 Dragon Ball Super Series 2 Union Force, via WebSearch]",
+      "sources": ["WebSearch: PSACardFacts Union Force release date"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Gowasu is the Supreme Kai (God of Creation) of Universe 10 and the master who mentored Zamasu. His stewardship role is canonical: he taught Zamasu the duties of a god, including observing mortals from Universe 6 vs. 7 exhibition matches — the same events that ignited Zamasu's contempt for mortals after witnessing Goku's power. [Dragon Ball Wiki: Gowasu, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: Gowasu", "WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Zamasu murdered Gowasu — his own master — to steal his Potara earring and a Time Ring, which allows travel through time without being erased from existence. This act of student-killing-mentor is the canonical betrayed-stewardship beat of the Future Trunks arc. In the anime, Whis rewound time to prevent the death; Gowasu was explicitly warned of his student's homicidal intent. In the manga, Goku Black (a future Zamasu in Goku's body) impales Gowasu when feigning reconciliation. [Zamasu — Wikipedia; 'Protect The Supreme Kai Gowasu Destroy Zamasu!' — Dragon Ball Wiki, via WebSearch]",
+      "sources": ["Wikipedia: Zamasu", "Dragon Ball Wiki: Protect The Supreme Kai Gowasu Destroy Zamasu!"]
+    },
+    {
+      "category": "sentiment",
+      "text": "The dark energy (purple-black lightning) rising around Gowasu in this card's art is notable: it depicts the Supreme Kai in an active power state — not the passive, philosophical elder he is in most of his anime appearances. The card may reference his brief combat posture or simply the divine energy associated with his rank. The dark-energy visual register is consistent with how the card game depicts Supreme Kai divine power across the BT2 set. [Visual read grounded in card art; set context from WebSearch]",
+      "sources": ["WebSearch: DBS card game BT2"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Zamasu", "set": "Various DBS sets", "note": "Gowasu's student; the murderer; the canonical betrayed-stewardship antagonist"},
+    {"name": "Goku Black", "set": "Various DBS sets", "note": "Zamasu in Goku's stolen body — the Time Ring theft from Gowasu enabled this"},
+    {"name": "Supreme Kai Shin", "set": "Various DBS sets", "note": "Fellow Supreme Kai; same divine-stewardship tier as Gowasu"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["mob", "wolf", "fire", "pitchfork", "collective-violence", "cornered", "persecution", "night", "danger"]
+tags_filter: ["crowd", "mid-shot", "narrative-mode", "forward-facing", "white-magic", "instant", "convoke"]
 reference_image: cards/_images/magic-the-gathering/modern-horizons/97-mob.png
 average_cost_paid: 0
 market_price: 0.11
@@ -29,6 +29,29 @@ oracle_text: Convoke (Your creatures can help cast this spell. Each creature you
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: grim
+time_of_day: night
+setting: urban
 ---
 
 # Mob (Modern Horizons)
+
+## Vision
+
+![97-mob](../../_images/magic-the-gathering/modern-horizons/97-mob.png)
+
+The art is framed from ground-level, looking up. In the center foreground, a wolf or canine creature crouches low, teeth bared in a snarl, appearing cornered and terrified. Above and around it, the lower halves of multiple humanoid figures in dark clothing frame the scene — legs and torsos only, no faces visible. A pitchfork is clearly visible held from above, pointed downward toward the animal. Fire blazes in the background, orange and red filling the upper frame. The composition powerfully conveys a mob encirclement — the animal is the center of collective violence.
+
+**Subject:** A cornered wolf or canine creature snarling on the ground, surrounded by the legs of standing figures and a pitchfork visible above it
+
+**Composition:** mid-shot, narrative, figures: crowd, facing: forward
+**Setting:** urban, night, fire
+**Foreground:** Snarling wolf cornered on the ground, pitchfork above it  *(palette: grey-white, black, orange)*
+**Background:** Fire, orange-red flames filling upper frame, dark clothing of crowd  *(palette: orange, red, black)*
+**Mood / lighting:** grim, harsh
+**Emotion read:** collective menace from above; fear and defiance from the cornered animal
+**Objects:** pitchfork, fire
+**Creatures:** wolf
+**Iconography:** pitchfork, mob-encirclement
+**Genre cues:** fantasy, horror
+

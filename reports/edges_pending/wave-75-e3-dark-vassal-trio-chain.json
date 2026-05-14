@@ -1,0 +1,26 @@
+{
+  "edge_id": "wave-75-e3-dark-vassal-trio-chain-cycle",
+  "shape": "1:1 (mutual mirror, 3-card chain — 6 bullets total)",
+  "category": "designer-confirmed-cycle",
+  "topology": "chain",
+  "endpoints": [
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-064-dark-vassal-tambourine.md", "name": "Dark Vassal Tambourine"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-065-dark-vassal-cymbal.md", "name": "Dark Vassal Cymbal"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-066-dark-vassal-drum.md", "name": "Dark Vassal Drum"}
+  ],
+  "description": "Second corpus trivium after the BFZ triple-thesis triangle, but structurally DIFFERENT. The Dark Vassal trio is a single-register-corrupted-labor CHAIN, not a thesis-triangle — Bandai's adjacent collector-number positioning (BT4-064 / BT4-065 / BT4-066) plus shared 'Dark Vassal' card-name prefix plus canonical chronological-deployment-order positioning (Tambourine Saga-opening, Cymbal Saga-middle, Drum Saga-climactic) gives the cycle its single-axis chain topology. Each card receives N-1 = 2 bullets per the connections-standard cycle treatment. Total bullets written: 6 (Cymbal's pre-existing Yajirobe bullet preserved; 2 new sibling bullets per card). Three cards, six new bullets, fully mirrored. Designer-coordination citation is dbs-cardgame.com BT4-064/065/066 per-card pages plus Dragon Ball Wiki per-character pages for Tambourine, Cymbal, Drum.",
+  "citations": [
+    "[Dragon Ball Wiki: Tambourine]",
+    "[Dragon Ball Wiki: Cymbal]",
+    "[Dragon Ball Wiki: Drum]",
+    "[dbs-cardgame.com: BT4-064 / BT4-065 / BT4-066 per-card pages]",
+    "[Dragon Ball manga: King Piccolo Saga chapters 134-194 (Toriyama, Shueisha, 1976)]",
+    "[[dark-vassal-trio]]"
+  ],
+  "files_modified": [
+    "cards/dragon-ball-super/colossal-warfare/bt4-064-dark-vassal-tambourine.md",
+    "cards/dragon-ball-super/colossal-warfare/bt4-065-dark-vassal-cymbal.md",
+    "cards/dragon-ball-super/colossal-warfare/bt4-066-dark-vassal-drum.md"
+  ],
+  "edgelord_mood": "satisfied"
+}

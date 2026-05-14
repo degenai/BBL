@@ -1,0 +1,36 @@
+{
+  "card_name": "Make a Stand",
+  "game": "Magic: The Gathering",
+  "set": "Oath of the Gatewatch",
+  "collector_number": "26",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'For a moment they stood tall, all fear forgotten.' [Scryfall] — Authorless, omniscient-narrator voice. The 'for a moment' phrasing is quietly devastating — it doesn't promise survival, only a single instant of courage. Mechanically the indestructible effect lasts only until end of turn, which mirrors the text perfectly.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Make a Stand gives all your creatures +1/+0 and indestructible until end of turn for 2W instant. It has been reprinted in Core Set 2019 (2018), Commander Legends (2020), Jumpstart 2022, and MTG Foundations (2024), earning Standard legality again via Foundations. [Scryfall: prints search] EDHREC rank 3239 — this is a genuine Commander staple, among the better token/go-wide protection spells. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Magali Villeneuve, one of MTG's most prominent contemporary illustrators with credits on major planeswalker cards across multiple sets. The glowing dome composition — small group inside a magical sphere against a barren field — is a recurring Villeneuve visual motif for protection magic. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Heroic Intervention", "set": "Aether Revolt", "note": "Analogous green instant giving indestructible + hexproof; the frequently-cited comparison card"},
+    {"name": "Teferi's Protection", "set": "Commander 2017", "note": "White's premier protection spell in Commander, often discussed alongside Make a Stand"},
+    {"name": "Rootborn Defenses", "set": "Return to Ravnica", "note": "Earlier white indestructible pump spell; direct design predecessor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

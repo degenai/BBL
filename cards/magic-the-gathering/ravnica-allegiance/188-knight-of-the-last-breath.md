@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["knight", "armor", "blade", "orzhov", "sacrifice", "death-knight", "sealed-helm", "gold", "gothic"]
+tags_filter: ["solo", "mid-shot", "action", "forward-facing", "multicolor-white-black", "creature-human-knight", "no-face"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/188-knight-of-the-last-breath.png
 average_cost_paid: 0
 market_price: 0.07
@@ -28,6 +28,28 @@ oracle_text: {3}, Sacrifice another nontoken creature: Create a 1/1 white and bl
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Knight of the Last Breath (Ravnica Allegiance)
+
+## Vision
+
+![188-knight-of-the-last-breath](../../_images/magic-the-gathering/ravnica-allegiance/188-knight-of-the-last-breath.png)
+
+A heavily armored figure crouches in a dynamic low stance, holding a large sword extended forward. The armor is dark gold-green with pale oval inlays at the joints — a distinctly Orzhov-aesthetic plate suit. The blade catches a burst of white-gold light at its tip. The background is a pale stone architectural space with angular beams and recessed panels suggesting a vaulted interior. The composition is all forward momentum and crouching readiness. No face is visible — the figure's helmet is sealed. The overall palette is dark olive, gold, and white-flash.
+
+**Subject:** An armored humanoid figure in dark mechanical armor crouching and wielding a large blade, surrounded by glowing energy in an architectural setting
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** indoor, gothic, indeterminate
+**Foreground:** armored knight crouching with sword extended, glowing blade tip  *(palette: dark gold-green, olive, ivory, white-flash)*
+**Background:** pale stone vaulted interior, angular architectural beams  *(palette: pale stone, warm grey, muted cream)*
+**Mood / lighting:** action, rim
+**Emotion read:** coiled readiness, menace, no-face blankness
+**Objects:** sword, plate armor, blade
+**Iconography:** oval inlays, glowing blade
+**Genre cues:** fantasy
+

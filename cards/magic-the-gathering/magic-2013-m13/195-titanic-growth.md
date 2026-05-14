@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["wolf", "giant-creature", "forest", "confrontation", "warrior", "predator", "beast", "nature", "scale", "threat", "wild", "courage"]
+tags_filter: ["mid-shot", "duo", "forward-facing", "action-mode", "green-magic", "instant"]
 reference_image: cards/_images/magic-the-gathering/magic-2013-m13/195-titanic-growth.png
 average_cost_paid: 0
 market_price: 0.1
@@ -30,18 +30,29 @@ oracle_text: Target creature gets +4/+4 until end of turn.
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: day
+setting: forest
 ---
 
 # Titanic Growth (Magic 2013 (M13))
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![195-titanic-growth](../../_images/magic-the-gathering/magic-2013-m13/195-titanic-growth.png)
 
+A colossal wolf — its fur dark with a mane around its face, eyes glowing a vivid green — rears up or confronts the viewer from the left side of the composition. Its mouth is open showing teeth. To the right, a smaller armored humanoid figure stands holding a sword, viewed from behind and slightly below, giving a sense of perspective that makes the wolf look enormous by comparison. The setting is a forest with trees visible behind both figures. The sky is clear blue. The mood is tense confrontation — the warrior is clearly overmatched in size but stands their ground.
 
-**Subject:** 
+**Subject:** A massive wolf with glowing green eyes faces off against an armored warrior in a forest clearing; the wolf is titanic in scale relative to the human
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: duo, facing: forward
+**Setting:** forest, day, clear
+**Foreground:** armored warrior holding sword, viewed from behind; massive glowing-eyed wolf looming  *(palette: dark brown, green, grey)*
+**Background:** forest treeline, blue sky  *(palette: green, blue, grey)*
+**Mood / lighting:** action, ambient
+**Emotion read:** tension and confrontation; warrior stands against overwhelming size
+**Objects:** sword
+**Creatures:** giant wolf
+**Iconography:** glowing eyes
+**Genre cues:** fantasy
 

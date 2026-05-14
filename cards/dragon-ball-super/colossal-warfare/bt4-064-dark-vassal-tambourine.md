@@ -68,3 +68,8 @@ A green-skinned humanoid figure with large visible wings spread wide occupies th
 - Dark Vassal Drum (Colossal Warfare, BT4-066) — Dark Vassal triplet sibling
 - King Piccolo, Lord of Terror (Colossal Warfare, SD4-04) — Bond leader card these vassals feed
 - Sacrifice (Colossal Warfare, BT4-070) — Namekian counter in the same set
+
+## Connections
+
+- [[bt4-065-dark-vassal-cymbal]] — Colossal Warfare Dark Vassal trio, Saga-opening-beat anchor. This card depicts the first-deployed of King Piccolo's three named warrior-children — the winged aerial-predator who canonically kills Krillin and Yamcha before being killed by Goku in retribution; Cymbal occupies the Saga middle-beat carapaced-ground-combatant position (canonically eaten by Yajirobe rather than fought in conventional duel). Bandai's adjacent collector-number positioning (BT4-064 / BT4-065 / BT4-066) plus the shared *Dark Vassal* card-name prefix encodes the chronological-deployment-order-preserved cycle at the set-architecture level. `[Dragon Ball Wiki: Tambourine]` `[Dragon Ball Wiki: Cymbal]` `[[dark-vassal-trio]]`
+- [[bt4-066-dark-vassal-drum]] — Colossal Warfare Dark Vassal trio, Saga-opening-beat anchor. This card depicts the first-deployed brother (Tambourine, Saga chapters 138-148, 1976 manga); Drum occupies the climactic third position — the brute-force charger who defeats Tien Shinhan at Korin Tower before being killed by Goku in the post-rejuvenation finale. The three cards together compose Bandai's compressed roster-citation of the King Piccolo Saga villain-cohort, single-register labor-corrupted across the boss-spawns-disposable-warrior-children template per [[labor]]'s apparatus-of-extraction axis. `[Dragon Ball Wiki: Tambourine]` `[Dragon Ball Wiki: Drum]` `[[dark-vassal-trio]]`

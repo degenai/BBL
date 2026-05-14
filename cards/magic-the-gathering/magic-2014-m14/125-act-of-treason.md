@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["angel", "wings", "wrath", "fire", "betrayal", "sword", "domination", "rage", "control", "oppression", "violence", "red-sky"]
+tags_filter: ["mid-shot", "duo", "three-quarter", "action-mode", "red-magic", "sorcery", "female-figure"]
 reference_image: cards/_images/magic-the-gathering/magic-2014-m14/125-act-of-treason.png
 average_cost_paid: 0
 market_price: 0.03
@@ -30,18 +30,29 @@ oracle_text: Gain control of target creature until end of turn. Untap that creat
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: void
 ---
 
 # Act of Treason (Magic 2014 (M14))
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![125-act-of-treason](../../_images/magic-the-gathering/magic-2014-m14/125-act-of-treason.png)
 
+Against a blazing red-orange background, a winged humanoid figure — white-feathered wings spread wide — wields a sword in a downward strike. The figure appears to be mid-descent, bearing down on a second figure in dark heavy armor who is below and partially out of frame. The angel's posture is aggressive: arm raised, momentum descending. The palette is almost entirely deep crimson, orange, and burnished gold, giving the scene an infernal or wrath-filled atmosphere despite the angelic form. The composition emphasizes power and domination from above.
 
-**Subject:** 
+**Subject:** A winged angelic figure in mid-air drives a sword downward toward an armored figure below, rendered in deep red and orange fire-lit tones
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: duo, facing: three-quarter
+**Setting:** void, indeterminate, fire
+**Foreground:** winged angelic figure swinging sword downward; armored figure below receiving the blow  *(palette: crimson, orange, gold, white)*
+**Background:** blazing fire-red sky  *(palette: deep red, orange, burnt gold)*
+**Mood / lighting:** action, rim
+**Emotion read:** rage, dominance; the angel's expression and posture convey fury rather than mercy
+**Objects:** sword
+**Creatures:** angel
+**Iconography:** wings, sword, fire
+**Genre cues:** fantasy
 

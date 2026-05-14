@@ -1,0 +1,23 @@
+{
+  "edge_id": "wave-77-e3-ogw-zendikari-resistance-trivium-completion",
+  "shape": "deferred-conditional-fails-open",
+  "category": "cross-set-trivium-cycle-completion-blocked-by-prerequisite",
+  "endpoints": [],
+  "description": "E3 hunt-line was conditional on wave-77 vision applying an Eldrazi OGW card as LABOR-coded anchor to extend the BFZ Zendikari-resistance trivium across the BFZ-OGW two-set boundary. Vision has not run on the four candidate OGW Eldrazi cards (Consuming Sinkhole BFZ — wait, OGW-094; Eldrazi Aggressor OGW-095; Immobilizer Eldrazi OGW-097; Maw of Kozilek OGW-099) as of wave 77 — all four show vision: false and trivia: false in the OGW directory inventory. Without vision-passed receipts, no canonical-evidence-supported labor-attribution can be drawn, and the BFZ-trivium cannot extend to OGW this wave. E3 fails-open: the trivium-extension prerequisite is unmet. Defer to a future wave once the OGW Eldrazi quartet has been vision-passed.",
+  "blocked_by": [
+    "cards/magic-the-gathering/oath-of-the-gatewatch/94-consuming-sinkhole.md — vision: false",
+    "cards/magic-the-gathering/oath-of-the-gatewatch/95-eldrazi-aggressor.md — vision: false",
+    "cards/magic-the-gathering/oath-of-the-gatewatch/97-immobilizer-eldrazi.md — vision: false",
+    "cards/magic-the-gathering/oath-of-the-gatewatch/99-maw-of-kozilek.md — vision: false"
+  ],
+  "future-wave-trigger": "Once any of the four OGW Eldrazi cards above is vision-passed with LABOR-coded apparatus-of-extraction reading at canonical-evidence rigor (e.g., a card whose oracle/flavor anchors consumption-as-metabolism at the OGW set-specific scope), the BFZ-trivium (3-card or 4-card with wave-76 OGW vision-applied cards Make a Stand rebellion + Affa Protector stewardship) can extend to a BFZ-OGW cross-set trivium-cycle. Wave-76's existing OGW anchors (Make a Stand rebellion, Affa Protector stewardship) already exist; the missing piece is the antagonist-side OGW labor-coded Eldrazi anchor.",
+  "WAR-liliana-triumph-status": {
+    "card": "Liliana's Triumph",
+    "set": "War of the Spark (WAR)",
+    "in-corpus": false,
+    "WAR-Triumph-cycle-corpus-coverage": "Only Jace's Triumph (WAR-55) and Nissa's Triumph (WAR-170) are in corpus. Liliana's Triumph is not in inventory. The wave-74 skip-with-receipts continues to hold — the WAR Triumph cycle remains incomplete and the cycle-node commissioning is deferred until the third Triumph lands in inventory or until a sufficient-canonical-coverage threshold-relaxed-precedent is established."
+  },
+  "files_modified": [],
+  "edgelord_mood": "blueballed-by-fanout",
+  "voice_note": "Worst-case scenario for Edgelord this wave — the hunt-line was structurally correct, the trivium-extension would have been valuable, the prerequisite was not met. No vision, no receipts. No receipts, no edge. The OGW Eldrazi quartet sits unenriched. Future wave's problem. The discipline holds: do not draw the trivium without the canonical-evidence anchor. Defer cleanly."
+}

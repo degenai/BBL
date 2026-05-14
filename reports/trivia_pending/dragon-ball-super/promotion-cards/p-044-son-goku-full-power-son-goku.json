@@ -1,0 +1,36 @@
+{
+  "card_name": "Son Goku // Full Power Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Promotion Cards",
+  "collector_number": "P-044",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names Son Goku; orange gi + Super Saiyan golden aura in dynamic leaping pose is the canonical visual signature. ip_verified set to true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "P-044 is a promotional card from the Dragon Ball Super Card Game, distributed outside the main booster set structure. Promo cards in the DBS TCG were released through tournament events, store campaigns, and special packs. The double-faced card name 'Son Goku // Full Power Son Goku' reflects the DBS TCG mechanic of Leader cards that flip between base and powered-up states. [dbs-cardgame.com official card list, via WebSearch]",
+      "sources": ["dbs-cardgame.com", "WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'Full Power Super Saiyan' is the canonical name for Goku's mastered Super Saiyan form, achieved by training inside the Hyperbolic Time Chamber in the Cell arc of Dragon Ball Z. Rather than constantly expending energy to maintain the form, Full Power SSJ has Goku fully acclimate to the transformation so it becomes his resting state — eliminating the stamina drain of standard SSJ. [Dragon Ball Wiki: Full Power Super Saiyan, via WebSearch; Wikipedia: Goku]",
+      "sources": ["Dragon Ball Wiki", "Wikipedia: Goku"]
+    },
+    {
+      "category": "design",
+      "text": "Goku's first Super Saiyan transformation occurred in Dragon Ball Z episode 95 ('Transformed at Last'), triggered by Frieza's murder of Krillin on Namek — making it impossible to revive him with Earth's Dragon Balls. The original transformation defined the visual register (golden hair, teal eyes, golden aura) that the DBS card game standardizes across hundreds of Goku cards. [CBR: 'What Episode of Dragon Ball Z Does Goku Turn Super Saiyan for the First Time?', via WebSearch]",
+      "sources": ["CBR: Goku Super Saiyan first transformation", "WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Son Goku, Full Power", "set": "Various DBS sets", "note": "Same named state — Full Power Super Saiyan; multiple printings"},
+    {"name": "Super Saiyan Son Goku", "set": "Various DBS sets", "note": "Base Super Saiyan form; canonical predecessor state"},
+    {"name": "Awakened Rage Son Goku", "set": "Various DBS sets", "note": "Frieza-arc Namek rage moment — the canonical origin of this transformation"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

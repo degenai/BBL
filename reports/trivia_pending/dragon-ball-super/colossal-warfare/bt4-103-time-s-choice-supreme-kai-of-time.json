@@ -1,0 +1,41 @@
+{
+  "card_name": "Time's Choice, Supreme Kai of Time",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-103",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Supreme Kai of Time', a title unique to Chronoa in Dragon Ball canon. Physical description — pink/lavender skin, distinctive tall top-knot, youthful appearance, purple outfit — matches Chronoa's canonical design across Dragon Ball Xenoverse 1 and 2 and Dragon Ball Heroes. IP verified via card name + canonical visual identifiers.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Colossal Warfare (BT4) launched July 13, 2018 as the fourth main booster set for the Dragon Ball Super Card Game, and was the largest set released at that time with 218 cards (124 unique). [WebSearch: Cardmarket Colossal Warfare listing]",
+      "sources": ["WebSearch: Cardmarket Colossal Warfare"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Chronoa, the Supreme Kai of Time, was born over 75 million years ago as an ordinary Kai before succeeding to her role as supreme guardian of the flow of time. As leader of the Time Patrol in Dragon Ball Xenoverse lore, she functions as supreme commander and mentor while Xeno Trunks acts as field operative. [Dragon Ball Wiki: Chronoa, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: Chronoa, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "As Supreme Kai of Time, Chronoa holds the authority to erase Alternate Timelines from official history — a power she treats as a last resort because doing so would erase everyone inhabiting that timeline. This positions her as a stewardship figure defined by restraint as much as power. [Dragon Ball Wiki: Chronoa, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: Chronoa, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card title 'Time's Choice' evokes Chronoa's core dramatic tension in Xenoverse: the Supreme Kai of Time must constantly decide whether to correct a timeline distortion or erase the timeline entirely. The choice framework is built into her lore role. [Dragon Ball Wiki: Chronoa, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: Chronoa, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Xeno Trunks", "set": "Various DBS sets", "note": "Field leader of the Time Patrol under Chronoa's command in Xenoverse lore"},
+    {"name": "Future Trunks", "set": "Various DBS sets", "note": "Canonical predecessor figure; timeline-correction is shared thematic register"},
+    {"name": "Mechikabura", "set": "Various DBS sets", "note": "Chronoa's rival whose conflict led to her ascension as Supreme Kai of Time"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

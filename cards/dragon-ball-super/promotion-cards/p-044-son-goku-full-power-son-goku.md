@@ -29,7 +29,7 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Son Goku (Dragon Ball Z / Dragon Ball Super)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Son Goku // Full Power Son Goku (Promotion Cards)
@@ -38,8 +38,8 @@ ip_verified: false
 
 ![p-044-son-goku-full-power-son-goku](../../_images/dragon-ball-super/promotion-cards/p-044-son-goku-full-power-son-goku.png)
 
-> [!warning] Suspected IP: **Son Goku (Dragon Ball Z / Dragon Ball Super)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Son Goku (Dragon Ball Z / Dragon Ball Super)**
+> Confirmed via card name (explicit: "Son Goku // Full Power Son Goku") and canonical visual: orange gi, Super Saiyan golden aura, dynamic leaping attack pose. [Wikipedia: Goku; dbs-cardgame.com, via WebSearch]
 
 A Super Saiyan fighter is shown in a wide-angle dynamic pose, leaping or lunging forward with one fist extended. His hair stands upright in Super Saiyan form. He wears an orange gi. Golden-yellow energy aura radiates strongly from his entire body, filling the background with warm bright light. The composition is a wide or full-body shot emphasizing the full figure in motion. Background is dominated by golden energy effects and light rays. The image quality is low resolution but the key visual elements are readable.
 
@@ -53,4 +53,15 @@ A Super Saiyan fighter is shown in a wide-angle dynamic pose, leaping or lunging
 **Emotion read:** fierce determination, explosive power
 **Iconography:** energy-aura, super-saiyan-aura, golden-aura
 **Genre cues:** anime, fantasy
+
+## Trivia
+
+- **Promo structure** — P-044 is a promotional card from the Dragon Ball Super Card Game distributed outside the main booster set structure, through tournament events, store campaigns, and special packs. The double-faced card name "Son Goku // Full Power Son Goku" reflects the DBS TCG Leader-card mechanic: base and powered-up states on a single card that flips. [dbs-cardgame.com official card list, via WebSearch]
+- **Full Power Super Saiyan** — "Full Power Super Saiyan" (FPSSJ) is the canonical name for the mastered Super Saiyan form Goku achieves by training in the Hyperbolic Time Chamber during the Cell arc of Dragon Ball Z. Rather than constantly burning energy to sustain the transformation, FPSSJ makes the Super Saiyan state Goku's resting condition — eliminating stamina drain by total acclimation to the form. [Dragon Ball Wiki: Full Power Super Saiyan, via WebSearch; Wikipedia: Goku]
+- **First transformation origin** — Goku's original Super Saiyan transformation (DBZ episode 95, "Transformed at Last") was triggered by Frieza's murder of Krillin on Namek — a kill that made Krillin unrevivable by Earth's Dragon Balls. The golden-hair, teal-eye, golden-aura visual register established in that moment is the template the DBS card game standardizes across hundreds of Goku card printings including this one. [CBR: 'What Episode Does Goku Turn Super Saiyan for the First Time?', via WebSearch]
+
+### Related cards
+- Son Goku, Full Power (various DBS sets) — same named state across multiple printings
+- Super Saiyan Son Goku (various DBS sets) — base Super Saiyan form; canonical predecessor state on the transformation ladder
+- Awakened Rage Son Goku (various DBS sets) — Namek rage moment; the canonical origin trigger for this transformation line
 

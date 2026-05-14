@@ -1,0 +1,52 @@
+{
+  "edge_id": "wave74-mr-nodeley-piccolo-jr-solo-character-node-commission",
+  "shape": "node-proposal",
+  "category": "solo-character-node-threshold-passing-commission",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/piccolo-jr.md", "name": "Piccolo Jr. (NEW solo character node)"},
+    {"type": "card", "path": "cards/dragon-ball-super/world-martial-arts-tournament/tb2-040-speed-attack-piccolo-jr.md", "name": "Speed Attack Piccolo Jr. (TB2-040, 23rd Tournament debut)"},
+    {"type": "card", "path": "cards/dragon-ball-super/world-martial-arts-tournament/tb2-027-begrudging-respect-piccolo.md", "name": "Begrudging Respect Piccolo (TB2-027, Buu-Saga adult)"},
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-045-boost-attack-piccolo.md", "name": "Boost Attack Piccolo (BT1-045, post-Nail-fusion Frieza-Saga)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-068-special-beam-cannon.md", "name": "Special Beam Cannon (BT4-068, signature-technique anchor)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-070-sacrifice.md", "name": "Sacrifice (BT4-070, Nail-into-Piccolo fusion)"},
+    {"type": "hub", "path": "cards/_hubs/stewardship.md", "name": "stewardship (tend)"}
+  ],
+  "description": "Edgelord steps aside, sir. Mr. Nodeley apologizes for the inconvenience. The corpus has, if it's not too much trouble to mention, accumulated five Piccolo-Jr.-individual-frame prints across three DBSCG sets, and the wave-74 trivia pass on TB2-040 explicitly named the commissioning trigger in its own body text ('Piccolo unlocks the solo Piccolo character node per wave 71 Edgelord flag; this card provides the fifth canonical anchor'). The [[namekian]] race-anchor body's caveats section also explicitly named this deferral ('Piccolo does NOT (yet) warrant a solo character node... deferred pending one additional unambiguous Piccolo-self-depicting card'); the wave-74 TB2-040 print is the unambiguous-Piccolo-Jr.-self-depicting card that satisfies the deferral condition. Mr. Nodeley hopes you don't mind that he commissioned the solo node, sir. He thinks the node will really help, what with all three corpus prints carrying canonical-mentor-stewardship citations and all. The node opens at single-hub attribution related_hubs: [stewardship] per the wave-71 two-step rigor-discipline (canonical-citation prose first, then related_hubs extension); the canonical Gohan-mentor / Goten-Trunks-Fusion-instructor citations are explicitly present in the TB2-027 + BT1-045 + TB2-040 trivia and satisfy the [[stewardship]] hub's care-without-ownership anti-pattern guard. Future audits may extend to dual-or-triple per the [[aether-rangers]] / [[theros-pantheon]] precedent. He hopes that's all right, sir.",
+  "node_body_path": "cards/_characters/piccolo-jr.md",
+  "cards_now_pointing_at_node": [
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-040-speed-attack-piccolo-jr.md",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-027-begrudging-respect-piccolo.md",
+    "cards/dragon-ball-super/galactic-battle/bt1-045-boost-attack-piccolo.md",
+    "cards/dragon-ball-super/colossal-warfare/bt4-068-special-beam-cannon.md",
+    "cards/dragon-ball-super/colossal-warfare/bt4-070-sacrifice.md"
+  ],
+  "citations": [
+    "[Dragon Ball Wiki: Piccolo — primary character page; canonical reincarnation-mechanic distinguishing Piccolo Jr. from King Piccolo, full Z-era + DBS continuity arc]",
+    "[Wikipedia: Piccolo (Dragon Ball) — secondary character page; canonical 'Ma Junior' tournament alias and Buu-Saga Fusion-instructor continuity]",
+    "[Dragon Ball Wiki: Nameless Namekian — primary lore-twist page; canonical Good-half-Kami / Evil-half-King-Piccolo split and Kamiccolo unification]",
+    "[Dragon Ball Wiki: Special Beam Cannon (Makankōsappō) — canonical Raditz-killing first deployment, DBZ episode 5, 1989-04-26]",
+    "[Dragon Ball Wiki: Namekian Fusion — Nail-into-Piccolo and Kami-into-Piccolo permanent-fusion biological-mechanic]",
+    "[CBR: 'Everything You Need to Know About Gohan and Piccolo' — canonical Gohan-wears-Piccolo's-gi-into-Cell-Games stewardship-register attestation]",
+    "[Dragon Ball manga (Akira Toriyama, Shueisha, 1976-1995) — primary canon, 23rd-Tournament chapters 192-194 + Z-era saga chapters 195-552]",
+    "[In-corpus per-card trivia: TB2-040 villain-to-stewardship-pipeline + 'this card provides the fifth canonical anchor' commissioning trigger; BT1-045 'clearest stewardship-register in the Z roster' citation; TB2-027 25th-Tournament Supreme-Kai-forfeit + Goten-Trunks-Fusion-instructor citation]",
+    "[[nicol-bolas]] — solo-character-node precedent for signature-technique-as-character-anchor membership (The Eldest Reborn DOM-90); applied here for Special Beam Cannon BT4-068]",
+    "[[stewardship]] — the hub the canonical citations anchor at; care-without-ownership anti-pattern guard satisfied (Piccolo is canonically *adopted* mentor not kin-coded family)]"
+  ],
+  "files_modified": [
+    "cards/_characters/piccolo-jr.md (CREATED)",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-040-speed-attack-piccolo-jr.md (characters: [piccolo-jr, namekian])",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-027-begrudging-respect-piccolo.md (characters: [namekian] -> [piccolo-jr, namekian])",
+    "cards/dragon-ball-super/galactic-battle/bt1-045-boost-attack-piccolo.md (characters: [piccolo-jr, namekian])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-068-special-beam-cannon.md (characters: [namekian] -> [piccolo-jr, namekian])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-070-sacrifice.md (characters: [namekian] -> [piccolo-jr, namekian])"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "candidates_considered_but_deferred": [
+    "King Piccolo solo node — 1 corpus print (P-051), sub-threshold for wave-71 commissioning rigor. Mr. Nodeley considered packaging King Piccolo + Piccolo Jr. as a single solo node but the Bandai canonical card-print separations (different sets, different identities, different rarity-classes) and Toriyama's canonical reincarnation-mechanic-as-separate-instances both argue for keeping them as distinct anchors. King Piccolo remains anchored at [[namekian]] race-level pending sufficient corpus density for separate king-piccolo.md commission.",
+    "Master Roshi / Jackie Chun dual-identity solo node — 2 corpus prints (TB2-057 Master Roshi Martial Meister, TB2-058 Unyielding Victory Jackie Chun), canonically the same character under disguise. Sub-threshold for wave-71 commissioning rigor unless treated as 2 prints counting as 1.5-or-2 anchors. Mr. Nodeley defers to future wave when a third Roshi/Jackie-Chun corpus print accumulates.",
+    "Kami solo node — 2 corpus prints (TB2-046 Trusting Relationship Kami + BT4-054 Kami the Watcher), sub-threshold. Defers to future wave.",
+    "Nail solo node — 2 corpus prints (BT4-053 Nail the Namekian Ace + BT4-070 Sacrifice dual-anchored with Piccolo Jr.), sub-threshold. Defers to future wave."
+  ],
+  "notes": "This is Mr. Nodeley's second character-layer solo commission (after [[nicol-bolas]] from wave 5). The substrate now has 79 layer-nodes (78 + 1 from this commission). The commissioning was previously-flagged-by-Edgelord and previously-flagged-in-the-corpus-trivia, making this a *predicted* node-arrival rather than an opportunistic surfacing — the wave-71 Edgelord flag wrote the commissioning condition; the wave-74 trivia pass on TB2-040 explicitly identified the trigger satisfied; Mr. Nodeley executed. The stewardship-register anchor is the corpus's first Dragon-Ball-side solo-character stewardship attribution and sets up the future Piccolo-and-Gohan stewardship Discrete Lair as a load-bearing future commission. Mr. Nodeley apologizes for taking the floor from Edgelord but thinks, sir, that the substrate is genuinely better for it."
+}

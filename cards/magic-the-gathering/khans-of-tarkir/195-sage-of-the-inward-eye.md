@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["mask", "levitation", "lotus", "sage", "meditation", "robed-figure", "flying", "enlightenment", "jeskai", "tarkir", "monk", "inner-eye"]
+tags_filter: ["mid-shot", "solo", "forward-facing", "portrait-mode", "multicolor-white-blue-red", "creature-sphinx"]
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/195-sage-of-the-inward-eye.png
 average_cost_paid: 0
 market_price: 0.19
@@ -29,6 +29,28 @@ oracle_text: Flying\nWhenever you cast a noncreature spell, creatures you contro
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: sublime
+time_of_day: night
+setting: mountain
 ---
 
 # Sage of the Inward Eye (Khans of Tarkir)
+
+## Vision
+
+![195-sage-of-the-inward-eye](../../_images/magic-the-gathering/khans-of-tarkir/195-sage-of-the-inward-eye.png)
+
+A solitary robed figure hovers in a dark, cloud-filled sky. The figure's face is a smooth, featureless white oval — mask-like, with no visible eyes, nose, or mouth. One hand is raised palm-up, holding or manifesting a small glowing object that resembles a lotus flower. The figure wears flowing dark robes with a red sash at the waist. Below, dark rock formations or tower structures rise through mist. The color palette is deep blue-grey and black, with the single point of glowing white-blue light drawing the eye. The mood is contemplative and otherworldly — hovering stillness in a turbulent atmosphere.
+
+**Subject:** A robed figure with a smooth white mask for a face levitates in a stormy sky, one arm raised upward cradling a glowing lotus-shaped light; dark stone towers rise in the background
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** mountain, night, fog
+**Foreground:** robed masked figure levitating with raised arm, glowing lotus in hand  *(palette: dark grey, white, red, blue-white glow)*
+**Background:** stormy dark sky, mist, dark stone towers  *(palette: dark blue-grey, black, charcoal)*
+**Mood / lighting:** sublime, chiaroscuro
+**Emotion read:** serene detachment; the featureless mask and hovering posture project inward focus rather than outward engagement
+**Objects:** lotus, robes, mask
+**Iconography:** lotus, mask, levitation
+**Genre cues:** fantasy
+

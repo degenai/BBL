@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["tower", "lightning", "metal", "citadel", "fortress", "electricity", "spire", "industrial", "indestructible", "power", "cold", "machine"]
+tags_filter: ["wide", "abstract-mode", "none-figures", "no-face", "colorless-magic", "land-artifact"]
 reference_image: cards/_images/magic-the-gathering/magic-2015-m15/242-darksteel-citadel.png
 average_cost_paid: 0
 market_price: 1.64
@@ -29,6 +29,28 @@ oracle_text: Indestructible\n{T}: Add {C}.
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: sublime
+time_of_day: indeterminate
+setting: other
 ---
 
 # Darksteel Citadel (Magic 2015 (M15))
+
+## Vision
+
+![242-darksteel-citadel](../../_images/magic-the-gathering/magic-2015-m15/242-darksteel-citadel.png)
+
+A single massive dark-metal spire dominates the composition, rising to a sharp point crowned with a jagged cluster of prongs. Arcs of yellow and gold energy crackle and sweep around the structure in curving ribbons of light. The spire's surface has a cold steel-blue sheen. In the misty grey background, smaller versions of similar spire structures are visible, suggesting a skyline of metal towers. The sky is overcast and grey with shafts of white light filtering through. No figures are present. The mood is cold, imposing, and industrial-sublime.
+
+**Subject:** A tall, impossibly slender metallic spire rises from a barren landscape, crackling with arcs of yellow-gold energy; secondary smaller spires are visible in the misty background
+
+**Composition:** wide, abstract, figures: none, facing: n/a
+**Setting:** other, modern, indeterminate, storm
+**Foreground:** primary dark-metal spire crackling with gold energy arcs  *(palette: steel blue, dark grey, gold-yellow)*
+**Background:** mist, secondary metal spires, grey overcast sky with light shafts  *(palette: grey, white, pale blue)*
+**Mood / lighting:** sublime, harsh
+**Emotion read:** cold grandeur; the structure radiates permanence and power without warmth
+**Objects:** spire, lightning arcs
+**Iconography:** lightning, tower, spire, electricity
+**Genre cues:** sci-fi, fantasy
+

@@ -1,0 +1,36 @@
+{
+  "card_name": "Affa Protector",
+  "game": "Magic: The Gathering",
+  "set": "Oath of the Gatewatch",
+  "collector_number": "14",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Affa is a named settlement on Zendikar that survived the Eldrazi invasion by relocating into a large underground cavern. [WebSearch: MTG Salvation Zendikar world lore article] The card's flavor text — 'Through all the terrors we face, I hold on to the memory of the world before the Eldrazi came. I'd like to see that world again.' — is an unnamed civilian voice speaking to the physical and psychological toll of the Eldrazi occupation during the Battle for Zendikar/OGW era. [Scryfall]",
+      "sources": ["Scryfall", "WebSearch: MTGSalvation Zendikar world article"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Affa Protector is a 1/4 Human Soldier Ally with Vigilance for 2W — a defensive statline that matches its thematic role as a wall-holding defender. It is pauper-legal and penny-dreadful legal. [Scryfall] EDHREC rank 26269 reflects narrow competitive appeal outside dedicated Ally-tribal builds.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Izzy (Sahana D. Mohan), a Seattle-based illustrator with a long MTG credential list. Affa Protector is her only OGW credit per Scryfall. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Affa Guard Hound", "set": "Rise of the Eldrazi", "note": "Earlier Affa-named card from the same plane/settlement"},
+    {"name": "Sea Gate Loremaster", "set": "Zendikar", "note": "Flavor text references Sea Gate, the major settlement the speaker mourns"},
+    {"name": "Ondu War Cleric", "set": "Oath of the Gatewatch", "note": "Same set, same Ally type, same resistance-to-Eldrazi thematic cluster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

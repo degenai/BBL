@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["skull", "undead", "zombie", "death", "divination", "ritual", "necromancy", "darkness", "horror", "vortex"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "black-magic", "creature-zombie"]
 reference_image: cards/_images/magic-the-gathering/modern-horizons/112-undead-augur.png
 average_cost_paid: 0
 market_price: 0.34
@@ -29,6 +29,29 @@ oracle_text: Whenever this creature or another Zombie you control dies, you draw
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: indeterminate
+setting: void
 ---
 
 # Undead Augur (Modern Horizons)
+
+## Vision
+
+![112-undead-augur](../../_images/magic-the-gathering/modern-horizons/112-undead-augur.png)
+
+A zombie or undead figure stands in a wide-shot framing, body visibly decomposed with mottled grey-tan flesh, loose pale hair, and glowing eyes. The figure clutches a skull in both clawed hands, holding it forward as if in offering or divination. Swirling purple-black energy curls around the figure in great arcs, filling the background entirely. The composition is theatrical — the figure is centered, arms extended, the skull occupying the visual foreground. The overall palette is deep black, purple, and sickly pale.
+
+**Subject:** A decayed undead figure cradling a skull in both hands, surrounded by swirling purple magical energy
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** void, indeterminate
+**Foreground:** Zombie figure holding skull, claw-like hands visible  *(palette: grey, pale-tan, purple)*
+**Background:** Swirling purple-black magical vortex  *(palette: black, purple, violet)*
+**Mood / lighting:** horror, ambient
+**Emotion read:** ecstatic or reverent — the figure's posture is upward-tilted and arms extended as if receiving power
+**Objects:** skull
+**Creatures:** zombie
+**Iconography:** skull, swirling-energy
+**Genre cues:** fantasy, horror
+

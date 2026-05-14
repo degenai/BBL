@@ -1,0 +1,36 @@
+{
+  "card_name": "Mighty Leap",
+  "game": "Magic: The Gathering",
+  "set": "Oath of the Gatewatch",
+  "collector_number": "28",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Mighty Leap has been printed in 14 different sets since its debut in Magic 2011, making it one of the most-reprinted common white instants of the 2010s. Sets include Magic 2011, Magic 2012, Duel Decks: Elspeth vs. Tezzeret, Modern Masters 2015, Amonkhet, Core Set 2019, Game Night 2019, and The List (2024). The OGW printing carries unique art by Winona Nelson and a new Munda flavor text not found on other printings. [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (OGW printing): \"We may have lost faith in our gods, but we are far from losing faith in ourselves.\" — Munda, ambush leader. [Scryfall] Munda is a named Kor Ally commander in the BFZ/OGW storyline, known for his skill with ropes and ambush tactics. He served under Gideon Jura and coordinated the hedron network alignment that trapped Ulamog. This specific flavor text appears only on the OGW printing and reflects the Zendikari's theological crisis — the Eldrazi turned out to be the corrupted origin of their sky-deity beliefs. [WebSearch: mtg.wiki/page/Munda snippet]",
+      "sources": ["Scryfall", "mtg.wiki/page/Munda via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "+2/+2 and flying until end of turn for {1}{W} is a classic combat trick rate. Pauper-legal across all 14 printings, making it a staple of white Pauper and Pauper Commander decks as a combat finisher or evasion enabler. EDHREC rank 18799 — the most popular card in this OGW wave by a significant margin. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Munda, Ambush Leader", "set": "Battle for Zendikar", "note": "The flavor-text speaker; named Kor Ally legend from the BFZ/OGW narrative"},
+    {"name": "Titanic Growth", "set": "Magic 2013", "note": "Green functional analog (+4/+4 without flying); common comparison in Pauper combat trick discussions"},
+    {"name": "Gust of Wind", "set": "Various", "note": "Mechanical comparison for white flying-grant instants in Pauper"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

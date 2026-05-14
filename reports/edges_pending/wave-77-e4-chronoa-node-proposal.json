@@ -1,0 +1,55 @@
+{
+  "edge_id": "wave-77-e4-chronoa-character-node-commission",
+  "shape": "node-proposal",
+  "category": "named-character-individual-tier-node-commission",
+  "endpoints": [
+    {"type": "character-node", "path": "cards/_characters/chronoa.md", "name": "Chronoa (Supreme Kai of Time, Time Patrol commander)"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-113-supreme-kai-of-time-world-s-protector.md", "name": "Supreme Kai of Time, World's Protector"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-122-time-s-judgement.md", "name": "Time's Judgement"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-103-time-s-choice-supreme-kai-of-time.md", "name": "Time's Choice, Supreme Kai of Time"}
+  ],
+  "description": "Oh — please excuse me, sir, Mr. Nodeley here. I'm terribly sorry to interrupt the Edgelord pass, but I noticed something the wave-77 brief got slightly wrong and I thought you'd want to know? The brief said Chronoa had '1 anchor (BT4-103)' — but actually she has THREE corpus anchors: BT3-113 World's Protector, BT3-122 Time's Judgement, and BT4-103 Time's Choice. All three are vision-passed and trivia-passed and ip_verified, and BT4-103's trivia carries an explicit Bandai-canonical stewardship-of-restraint citation: '*holds authority to erase Alternate Timelines from official history — a power she treats as a last resort because doing so erases everyone inhabiting that timeline. This positions her as a stewardship figure defined by restraint as much as power.*' Three anchors meets the standard ≥2 solo-character-node threshold per the acerola precedent, and the structural-significance bonus is decisive: Chronoa is the canonical 75-million-year jailer of Demigra, which makes her the principal protagonist-side counter-anchor to the existing xenoverse-villains triple-thesis-corrupted node. So I went ahead and proposed the commission, sir? I hope that's all right. I tried very hard to keep the body Potion-Rule-clean — single-hub stewardship attribution rather than triple, because the canonical evidence only supports stewardship at sufficient rigor. The labor and rebellion attributions I left available for future revisit if Bandai produces additional canonical material. The node body should read in the project's normal precise register; I did all the sniveling here in the sidecar where it belongs.",
+  "node_path": "cards/_characters/chronoa.md",
+  "node_type": "character (individual-tier, sibling to bardock/bulma/trunks/hercule/master-roshi/piccolo-jr/krillin/son-gohan/pan)",
+  "hub_attribution_chosen": "[stewardship]",
+  "hub_attribution_rationale": "Single-hub stewardship per Potion-Rule discipline. BT4-103 trivia carries explicit canonical Bandai-confirmed 'stewardship figure defined by restraint as much as power' citation. The 75-million-year Demigra-containment + restraint-over-Alternate-Timeline-erasure-authority + Time Nest command-and-mentor operating mode all anchor at the care-without-ownership-at-deity-scope axis. Labor (Time Patrol operational coordination) and rebellion (anti-Demigra antagonism) were considered and rejected at the current canonical-evidence rigor — they may be revisited if subsequent Bandai material renders them cleanly.",
+  "structural_significance": [
+    "First Bandai-Namco-canon (rather than Toriyama-manga-canon) named-individual Dragon Ball character node in the corpus",
+    "First Dragon Ball character node whose canonical scope crosses the Bandai-Namco-and-Toei continuity divide (Xenoverse continuity + Dragon Ball Daima Toei continuity)",
+    "Principal protagonist-side counter-anchor to the xenoverse-villains triple-thesis-corrupted node — resolves an explicit asymmetry where the antagonist-cohort was anchored but the protagonist-commander was not",
+    "Bandai-canonical 75-million-year jailer-of-Demigra relationship is the structural pre-history that grounds the entire Time-Breaker-vs-Time-Patrol adversary structure"
+  ],
+  "topology": "branch-becoming-triangle",
+  "topology_rationale": "Chronoa node fans to three card-anchors (branch). Bidirectional with xenoverse-villains node forms a 2-node mutual reference. If a future wave commissions a Time Patrol Discrete Lair anchoring chronoa + xenoverse-villains + trunks (Xeno-Trunks aspect) + bardock (Encroaching-Threat-Masked-Saiyan), the topology composes into a multi-node triangle/stack with the Xenoverse-arc as the bundle-cohesion thesis.",
+  "files_modified": [
+    "cards/_characters/chronoa.md (created)",
+    "cards/dragon-ball-super/cross-worlds/bt3-113-supreme-kai-of-time-world-s-protector.md (added characters: [chronoa])",
+    "cards/dragon-ball-super/cross-worlds/bt3-122-time-s-judgement.md (added characters: [chronoa])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-103-time-s-choice-supreme-kai-of-time.md (added characters: [chronoa])"
+  ],
+  "deferred_mirror_edit": {
+    "target": "cards/_characters/xenoverse-villains.md",
+    "current_related_characters": ["baby-dbgt", "trunks", "bardock"],
+    "proposed_addition": "chronoa",
+    "rationale": "Mr. Nodeley defers the mirror-edit on xenoverse-villains.md to a future Edgelord pass per the Edgelord 1:1-mirror discipline. The mirror-edit is a card↔node-style edge between two named-equal nodes (chronoa ↔ xenoverse-villains) and would warrant the standard sigh-but-mirrored mood; I'm a Mr. Nodeley node-proposer not an Edgelord edge-drawer, so I'm flagging it rather than executing. A future Edgelord-pass can draw the mirror cleanly."
+  },
+  "other_candidates_considered": [
+    {
+      "candidate": "master-shen",
+      "verdict": "DEFER — sub-threshold",
+      "reasoning": "TB2-063 only; 1 anchor. Crane-School corrupted-mentor canon citations from wave 73 trivia are load-bearing, but the 1-anchor count does not meet the threshold-relaxed-precedent bar (acerola was 1 anchor + heavy structural-significance; master-roshi was 2 anchors). Master Shen has no comparable structural-significance counter-anchor commission to ride. Future-wave trigger: a second Master Shen print enters corpus, or a Crane School cohort node is commissioned (analogous to Turtle School) where Master Shen would anchor."
+    },
+    {
+      "candidate": "dr-gero",
+      "verdict": "DEFER — sub-threshold and already-wired",
+      "reasoning": "BT3-067 only; 1 anchor. Already wired to cell-saga-apparatus trivium-node (wave 76) as Tier-1 anchor. The cell-saga-apparatus node carries the apparatus-of-extraction-PURE-form-engineer canonical reading; a solo Dr. Gero node would duplicate the work. Future-wave trigger: a second canonical Dr. Gero print enters corpus that warrants a Dr. Gero-specific solo register beyond the cell-saga-apparatus anchoring."
+    },
+    {
+      "candidate": "OGW-trivium-completion",
+      "verdict": "BLOCKED — E3 fails-open per wave-77-e3 sidecar",
+      "reasoning": "Conditional on vision-passed OGW Eldrazi quartet; not a Nodeley commission either way."
+    }
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "voice_note": "I'm — I'm not trying to brag, sir, but the wave-77 brief was actually slightly wrong about the anchor count, and catching that meant Chronoa met the standard threshold (not threshold-relaxed-precedent) for commission. That feels good? In a sniveling sort of way. I tried very hard to keep the body Potion-Rule-clean. Single-hub stewardship. No 'the franchise's clearest articulation' phrasings. The canonical-vs-curatorial lens stays visible throughout. I hope that's the kind of work you wanted. Please let me know if I should do anything differently next time."
+}

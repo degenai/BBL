@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["cow", "market", "trade", "curse", "fae", "animal", "commerce", "cozy", "livestock"]
+tags_filter: ["group", "mid-shot", "narrative", "three-quarter", "white-magic", "creature-ox", "female-figure", "enchantment"]
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/6-bartered-cow.png
 average_cost_paid: 0
 market_price: 0.2
@@ -29,6 +29,29 @@ oracle_text: When this creature dies and when you discard this card, create a Fo
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: other
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Bartered Cow (Mystery Booster Cards)
+
+## Vision
+
+![6-bartered-cow](../../_images/magic-the-gathering/mystery-booster-cards/6-bartered-cow.png)
+
+An indoor or covered market scene under warm amber-red drapery. A cow — large, pale-coated, and emanating a soft golden magical glow — stands in the center right. A smaller figure in red holds the cow's lead. To the left, a taller armored or heavily cloaked figure reaches out, apparently receiving or offering small objects (coins or seeds) to the smaller figure. The background is draped fabric suggesting a market stall or festival tent setting. The cow's glow is the supernatural tell — its body radiates a warm light suggesting enchantment or curse, consistent with the flavor text about a fae curse. The scene is transactional, mundane in register but magically charged.
+
+**Subject:** A market scene: a robed figure hands coins to a buyer while a glowing cow stands nearby, held on a lead by a smaller figure in red
+
+**Composition:** mid-shot, narrative, figures: group, facing: three-quarter
+**Setting:** indoor, indeterminate
+**Foreground:** glowing cow held on a lead by a small red-cloaked figure; a taller figure reaches toward the smaller one  *(palette: amber, red, pale gold, brown)*
+**Background:** red and amber draped fabric, covered market interior  *(palette: deep red, amber, shadow)*
+**Mood / lighting:** other, soft
+**Emotion read:** transactional, slightly uneasy
+**Objects:** coins, lead-rope
+**Creatures:** cow
+**Iconography:** glowing-animal, market-stall
+**Genre cues:** fantasy
+

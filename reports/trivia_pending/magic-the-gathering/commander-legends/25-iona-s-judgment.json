@@ -1,0 +1,36 @@
+{
+  "card_name": "Iona's Judgment",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "25",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Iona's Judgment originated in Worldwake (February 2010) as a Zendikar-block card. [Scryfall: prints search] This Commander Legends printing (November 2020) is a reprint — the Worldwake version predates Iona's lore role in the Eldrazi crisis by over a year in real time, from a period when Zendikar's angels were still largely defined by their Shield of Emeria mythology. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Beneath the gaze of angels, only the righteous may stand without fear.' [Scryfall] — The phrase inverts Iona's actual lore tragedy: Iona's gaze was ultimately powerless against the Eldrazi, and even her legacy 'had become a tool for their cause.' [WebSearch: Iona MTG Fandom page snippet] The flavor text presents divine certainty; the lore records divine failure.",
+      "sources": ["Scryfall", "WebSearch: Iona MTG Fandom page snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Exile target creature or enchantment for 4W sorcery. At 5 mana, this is one of the less efficient white removal spells — broad exile (creatures OR enchantments) is its appeal. Pauper-legal, penny-legal. [Scryfall] EDHREC rank 22533; Commander Legends was the first draft set designed for Commander, giving this pauper-quality card unusual exposure in the format.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Iona, Shield of Emeria", "set": "Zendikar", "note": "The named source character; a 9-mana legendary angel banned in Legacy for color-locking opponents"},
+    {"name": "Iona's Blessing", "set": "Oath of the Gatewatch", "note": "Also in the inventory; sister Iona-named card from the same plane"},
+    {"name": "Banishing Light", "set": "Journey into Nyx", "note": "Direct mechanical comparison — efficient white exile enchantment often discussed in the same slot"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

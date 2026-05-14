@@ -1,0 +1,36 @@
+{
+  "card_name": "Relief Captain",
+  "game": "Magic: The Gathering",
+  "set": "Oath of the Gatewatch",
+  "collector_number": "32",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Relief Captain is a Kor Knight Ally — one of Zendikar's most prominent humanoid species, who survived the Eldrazi's return by forming the multiracial allied forces depicted throughout OGW and Battle for Zendikar. The Kor's nomadic, rope-based culture made them natural cavalry and scouting troops in the Zendikari resistance. [Scryfall type_line; WebSearch: mtg.fandom.com Munda/Kor snippets]",
+      "sources": ["Scryfall", "mtg.fandom.com/wiki/Munda via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Sometimes gestures of support are small. Sometimes not.\" [Scryfall] The line is a clean thematic statement for the Support mechanic — OGW's keyword for distributing +1/+1 counters across allies. Support 3 on a 3/3 for 4 mana was considered a reasonable rate for Limited, though it was designed primarily as a draft archetype glue card. [Wizards OGW Mechanics article]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/oath-gatewatch-mechanics-2015-12-28"]
+    },
+    {
+      "category": "design",
+      "text": "Relief Captain has been reprinted 4 times since OGW: Archenemy: Nicol Bolas (2017), Game Night 2019, Double Masters 2022, and Foundations Jumpstart (2024). The Foundations Jumpstart reprint is notable — Foundations is designed as an evergreen entry-level product, suggesting the card's ETB Support 3 was deemed clean enough to serve as a teaching tool for the counter mechanic. EDHREC rank 21996, the highest (most popular) of the OGW supporting cards in this inventory cluster. [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "General Tazri", "set": "Oath of the Gatewatch", "note": "5-color Ally commander; leads the Zendikari allied forces that Relief Captain belongs to"},
+    {"name": "Munda, Ambush Leader", "set": "Battle for Zendikar", "note": "Kor Ally legend; a named Kor commander figure in the same resistance coalition"},
+    {"name": "Spawnbinder Mage", "set": "Oath of the Gatewatch", "note": "Sister OGW Ally in inventory; shares the cohort/ally tribal mechanical space"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

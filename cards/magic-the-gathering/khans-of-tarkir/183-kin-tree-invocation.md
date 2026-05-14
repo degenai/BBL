@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["warrior", "charge", "war", "desert", "soldier", "armor", "battle", "invasion", "abzan", "tarkir", "polearm", "dust-storm"]
+tags_filter: ["mid-shot", "solo", "faces-left", "action-mode", "multicolor-white-black-green", "sorcery"]
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/183-kin-tree-invocation.png
 average_cost_paid: 0
 market_price: 0.15
@@ -30,18 +30,27 @@ oracle_text: Create an X/X black and green Spirit Warrior creature token, where 
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: day
+setting: desert
 ---
 
 # Kin-Tree Invocation (Khans of Tarkir)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![183-kin-tree-invocation](../../_images/magic-the-gathering/khans-of-tarkir/183-kin-tree-invocation.png)
 
+A single large armored warrior figure is shown in a low, aggressive running charge across a sandy, dust-swept terrain. The figure wears layered armor and a horned or crested helmet, and carries a large broad-bladed polearm — the weapon's head is clearly visible. The dust and haze of motion blur the lower body slightly. In the far right background, the outline of a walled settlement or citadel is faintly visible. The overall palette is warm sandy ochre and tan with atmospheric haze. The mood is aggressive and kinetic.
 
-**Subject:** 
+**Subject:** A heavily armored warrior figure charges across a dusty plain wielding a large polearm weapon, with a settlement visible in the far background
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: left
+**Setting:** desert, day, fog
+**Foreground:** armored warrior in mid-charge with large polearm, dust at feet  *(palette: tan, ochre, brown, grey)*
+**Background:** dusty plain, hazy sky, distant walled settlement  *(palette: pale ochre, white, dusty grey)*
+**Mood / lighting:** action, ambient
+**Emotion read:** aggressive, charging; warrior in full combat momentum
+**Objects:** polearm, horned helmet
+**Genre cues:** fantasy
 

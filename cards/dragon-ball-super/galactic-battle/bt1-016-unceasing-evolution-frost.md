@@ -29,7 +29,7 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Frost (Dragon Ball Super)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 characters: [universe-6-tournament-cohort]
 ---
 
@@ -39,8 +39,8 @@ characters: [universe-6-tournament-cohort]
 
 ![bt1-016-unceasing-evolution-frost](../../_images/dragon-ball-super/galactic-battle/bt1-016-unceasing-evolution-frost.png)
 
-> [!warning] Suspected IP: **Frost (Dragon Ball Super)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Frost (Dragon Ball Super)**
+> Confirmed via explicit card name "Frost" and canonical visual identifiers: Frieza-race figure with dome-like rounded head, teal/white coloring, compact mid-form body — matching Frost's Tournament of Destroyers appearance. [Dragon Ball Wiki: Frost, via WebSearch]
 
 A non-humanoid alien figure occupies the center of the frame, rendered in teal and white tones. The figure has a distinctive large rounded head structure with a dome-like cranium and a compact body. White highlights and icy-blue energy swirls frame the figure. The overall composition is a mid-shot centered portrait. The background is cool blue-white with light energy streaks. The figure's posture is upright and composed, with no clearly visible arms or aggressive stance — the pose is neutral to slightly guarded.
 
@@ -54,4 +54,20 @@ A non-humanoid alien figure occupies the center of the frame, rendered in teal a
 **Emotion read:** composed, neutral, watchful
 **Iconography:** energy-aura
 **Genre cues:** anime, sci-fi
+
+**Verified IP:** Frost (Dragon Ball Super) (confidence: high)
+
+## Trivia
+
+- **Set context** — Galactic Battle (BT1) released July 28, 2017 as the debut booster set for the Dragon Ball Super Card Game (114 cards). Frost appears here among the inaugural wave of DBS-TCG characters, alongside fellow Universe 6 Tournament of Destroyers representatives Botamo (BT1-019), Cabba, and Hit. `[WebSearch: Galactic Battle BT1 release 2017]`
+- **Character lore** — Frost is a Galactic Overlord of Universe 6 and a member of Frieza's Race who publicly positioned himself as a peacemaker ending galactic conflicts — while secretly instigating those same wars for profit. His true nature as a war profiteer was exposed after the Tournament of Destroyers. `[Dragon Ball Wiki: Frost, via WebSearch; Villains Wiki: Frost, via WebSearch]`
+- **The cheating incident** — At the Tournament of Destroyers, Frost defeated Goku by injecting him with a concealed wrist-needle poison (a sedative toxin), then kicked the disoriented Goku out of the ring. He used the same technique to eliminate Piccolo. Jaco identified the foul; Frost was disqualified and Goku's elimination was retroactively reversed. This is Z-antagonist rule-violation, not political resistance. `[Dragon Ball Wiki: Tournament of Destroyers, via WebSearch; ComicBook.com DBS episode 33-34, via WebSearch]`
+- **Card title** — "Unceasing Evolution" references Frieza-race transformation mechanics: Frost ultimately reached his full power form against Vegeta at the same tournament. The title applies the same escalation framing the DBS-TCG uses for Frieza's own transformation cards. `[Dragon Ball Wiki: Frost, via WebSearch]`
+
+### Related cards
+- Botamo of Universe 6 (Galactic Battle, BT1-019) — same set, same Universe 6 Tournament of Destroyers cohort
+- Hit (Galactic Battle and later sets) — Universe 6 team anchor at Tournament of Destroyers
+- Cabba (Galactic Battle and later sets) — Universe 6 Saiyan fighter; same team as Frost
+- Frieza (Multiple sets) — Frost is the Universe 6 Frieza-race analogue — same species, parallel escalation arc
+
 

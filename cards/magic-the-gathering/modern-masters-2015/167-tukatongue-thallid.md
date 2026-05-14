@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["fungus", "creature", "forest", "spines", "horror", "swamp", "eye", "thallid", "camouflage", "spores"]
+tags_filter: ["solo", "mid-shot", "narrative-mode", "three-quarter", "green-magic", "creature-fungus"]
 reference_image: cards/_images/magic-the-gathering/modern-masters-2015/167-tukatongue-thallid.png
 average_cost_paid: 0
 market_price: 0.1
@@ -29,6 +29,28 @@ oracle_text: When this creature dies, create a 1/1 green Saproling creature toke
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: indeterminate
+setting: forest
 ---
 
 # Tukatongue Thallid (Modern Masters 2015)
+
+## Vision
+
+![167-tukatongue-thallid](../../_images/magic-the-gathering/modern-masters-2015/167-tukatongue-thallid.png)
+
+A thallid — a fungal creature with a roughly quadrupedal or upright posture — moves through a dim, swampy forest. Its body is covered in dense dark spines or thorns, with a single round glowing red eye at the center of its face-like front surface. A cluster of reddish-orange flame-like or spore-like material crowns its head. The surrounding environment is dark and misty, with pale tree trunks and hanging vegetation. The creature blends in with the forest floor. The overall palette is muted dark green and grey with the single red eye as the only vivid accent.
+
+**Subject:** A spiny fungal creature with a round body covered in thorn-like protrusions and a single glowing red eye, stalking through a dark swampy forest
+
+**Composition:** mid-shot, narrative, figures: solo, facing: three-quarter
+**Setting:** forest, indeterminate, fog
+**Foreground:** Spiny fungal thallid creature with glowing red eye and flame-like crown  *(palette: dark-green, grey, red, orange)*
+**Background:** Dark swampy forest with pale tree trunks and hanging moss  *(palette: dark-green, grey, black)*
+**Mood / lighting:** horror, ambient
+**Emotion read:** unsettling, predatory patience — creature is alert but unhurried
+**Creatures:** thallid, fungal-creature
+**Iconography:** single-eye, spines, spores
+**Genre cues:** fantasy, horror
+

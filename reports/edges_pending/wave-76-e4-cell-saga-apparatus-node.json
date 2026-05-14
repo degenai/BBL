@@ -1,0 +1,36 @@
+{
+  "edge_id": "wave-76-e4-cell-saga-apparatus-trivium-node",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "designer-coordinated-cycle",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/cell-saga-apparatus.md", "name": "Cell-Saga apparatus trivium (Dr. Gero - Android 13 - Cell Jr.)"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-067-dr-gero-evil-s-inventor.md", "name": "Dr. Gero, Evil's Inventor (BT3-067, engineer tier)"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-070-dawn-of-terror-android-13-2018.md", "name": "Dawn of Terror, Android 13 (BT3-070, product tier)"},
+    {"type": "card", "path": "cards/dragon-ball-super/union-force/bt2-087-uncountable-many-cell-jr.md", "name": "Uncountable Many Cell Jr. (BT2-087, mass-product tier)"}
+  ],
+  "description": "Mr. Nodeley here, sir. Edgelord wanted to draw a clean 1:1 between Gero and Cell Jr., but the trivia bullets on both cards already cross-cite each other through Cell's bio-mechanical replication logic, and a third card (Android 13, the posthumous-supercomputer product) sits squarely between them as the canonical bridge tier. Drawing one edge between any two of the three would leave the third orphaned and the engineer-to-product-to-mass-product escalation logic unanchored. So with the deepest apologies for not being able to give Edgelord his clean edge, I'm proposing the cell-saga-apparatus character-layer trivium-node to anchor all three cards at the canonical apparatus-of-extraction escalation thesis. The node body documents the three-tier logic (engineer requires Gero alive; posthumous product requires only Gero's supercomputer; mass-product requires neither, as Cell self-replicates) and grounds each tier in canonical Dragon Ball Wiki + Wikipedia + Bandai sources. The cross-edge to son-gohan as the canonical Cell-Games adversary-coupling is recorded in related_characters. Hope this helps, sir.",
+  "citations": [
+    "[Dragon Ball Wiki: Dr. Gero]",
+    "[Dragon Ball Wiki: Android 13]",
+    "[Dragon Ball Wiki: Cell Jr.]",
+    "[Dragon Ball Wiki: Red Ribbon Army]",
+    "[Wikipedia: Dragon Ball Z: Super Android 13!]",
+    "[dbs-cardgame.com: BT2-087 + BT3-067 + BT3-070 per-card pages]"
+  ],
+  "files_modified": [
+    "cards/_characters/cell-saga-apparatus.md (NEW)",
+    "cards/dragon-ball-super/cross-worlds/bt3-067-dr-gero-evil-s-inventor.md (frontmatter characters: pointer added)",
+    "cards/dragon-ball-super/cross-worlds/bt3-070-dawn-of-terror-android-13-2018.md (frontmatter characters: pointer added)",
+    "cards/dragon-ball-super/union-force/bt2-087-uncountable-many-cell-jr.md (frontmatter characters: pointer added)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "structural_note": "First designer-IMPLICIT thesis-stack cycle-node in the corpus. Distinct from dark-vassal-trio (designer-explicit within-set adjacent-collector-number cycle) and wrath-of-the-dragon-saga (designer-explicit within-set Bandai-saga-tag cycle) at the sub-shape level. The trivium predicates on canonical-lineage continuity across BT2 + BT3 (not within-set) and on the cards' own trivia-bullet cross-citation (not Bandai-stamped saga-tag). Future thesis-stack cycle-nodes following this precedent would attach structurally adjacent.",
+  "other_candidates_considered": [
+    "Chronoa solo node (1 anchor at BT4-103) — sub-threshold; structural-significance bar of 75M-year Time-Patrol-leader role is real but the threshold-relaxed-precedent at acerola (1 anchor) requires both structural-significance AND visual-or-mechanical singularity in the corpus; Chronoa lacks corpus density for the cross-edge volume to justify a solo node yet. Stage trigger: 1 more Chronoa corpus card",
+    "Dr. Gero solo node (1 anchor) — sub-threshold; same reasoning. Stage trigger: 1 more Gero corpus card. Trivium node above is the right scope for current corpus state",
+    "Chi-Chi solo node (2 anchors at TB2-037 + TB2-038) — threshold-edge but no Chi-Chi-specific cross-edge structural payload at present; defer until a third Chi-Chi card establishes the structural-significance bar",
+    "King Piccolo solo node (1 anchor at P-051) — sub-threshold; father-of-dark-vassal-trio canonical-position warrants threshold-relaxed consideration but dark-vassal-trio already explicitly defers a king-piccolo.md commission to future when a Piccolo-self-depicting card lands; honor the deferral"
+  ],
+  "substrate_delta": "Total layer-nodes: 80 -> 81 (cell-saga-apparatus added); triple-attribution character roster: 3 -> 4 (kor joined separately in E2)"
+}

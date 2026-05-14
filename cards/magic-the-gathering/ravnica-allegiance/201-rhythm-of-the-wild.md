@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["boar", "stampede", "wild", "rebellion", "city-invasion", "rider", "herd", "chaos", "gruul", "nature-vs-civilization"]
+tags_filter: ["duo", "wide", "action", "forward-facing", "multicolor-red-green", "enchantment", "crowd"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/201-rhythm-of-the-wild.png
 average_cost_paid: 0
 market_price: 4.84
@@ -29,6 +29,28 @@ oracle_text: Creature spells you control can't be countered.\nNontoken creatures
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: day
+setting: urban
 ---
 
 # Rhythm of the Wild (Ravnica Allegiance)
+
+## Vision
+
+![201-rhythm-of-the-wild](../../_images/magic-the-gathering/ravnica-allegiance/201-rhythm-of-the-wild.png)
+
+A humanoid figure rides atop the lead boar of a thundering stampede. The rider holds a long staff or spear aloft and wears a red headband with trailing cloth. The boars are large, dark, and armored with natural tusks, their red-tinged eyes glowing. The herd fills the entire street from side to side and recedes deep into the background. The setting is an urban city street flanked by tall stone buildings; green-yellow atmospheric haze fills the air. Behind the stampede, a mass of more boars and indistinct figures stretches to the horizon. Autumn leaves scatter at ground level. The scene is pure forward momentum and wild force breaking into a civilized space.
+
+**Subject:** A humanoid rider atop a charging boar leading a stampede of boars through a city street
+
+**Composition:** wide, action, figures: crowd, facing: forward
+**Setting:** urban, modern, day, fog
+**Foreground:** humanoid rider on a large boar leading a dense stampede  *(palette: dark grey, black, red, amber-green)*
+**Background:** city street, stone buildings, green-yellow haze, trailing boar herd  *(palette: olive green, grey stone, amber, yellow-green)*
+**Mood / lighting:** action, ambient
+**Emotion read:** wild exhilaration, unstoppable force, defiant charge
+**Objects:** staff, red headband
+**Creatures:** boars, stampede
+**Genre cues:** fantasy
+

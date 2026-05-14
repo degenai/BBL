@@ -30,7 +30,7 @@ setting: void
 suspected_ip: Piccolo and/or Nail (Dragon Ball Z — Frieza Saga sacrifice scene)
 ip_confidence: med
 ip_verified: false
-characters: [namekian]
+characters: [piccolo-jr, namekian]
 ---
 
 # Sacrifice (Colossal Warfare)

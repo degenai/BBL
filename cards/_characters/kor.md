@@ -20,7 +20,7 @@ appears_on:
   - magic-the-gathering/battle-for-zendikar/53-unified-front
   - magic-the-gathering/zendikar-rising/14-farsight-adept--foil
   - magic-the-gathering/oath-of-the-gatewatch/24-kor-sky-climber
-related_hubs: []
+related_hubs: [labor, rebellion, stewardship]
 related_symbols: []
 related_characters: [eldrazi]
 ip_resolution_for: kor
@@ -66,6 +66,18 @@ The kor's BBL-relevant property is **coordinated-defense-as-cultural-cohesion-un
 - **Named kor characters exist but are flavor-speakers, not (yet) printed-card depictions.** Akiri the kor line-slinger is the most-cited named kor in BFZ flavor text (Kor Castigator quote). The wave-39 corpus precedent on Slobad — flavor-speaker named characters are deferred sub-node candidates pending printed-card-depiction — applies here. Future printings of Akiri as a depicted-card character would warrant her own character sub-node edged to this one.
 
 This is what BBL bundle copy can lean on without inventing canon: the kor are, in-universe, a designer-confirmed indigenous Zendikari plate-armored nomadic warrior race organized around coordinated-defense-against-existential-threat thesis, with the BFZ-block as their canonical narrative arc and the ZNR-block as their canonical post-arc cultural continuation. Bundle prose anchored on the kor (especially in a BFZ-focused Discrete Lair) can lean on Wizards' own block-design framework — Allies, Rally, Convergence, anti-Eldrazi mechanical hooks — to do the thesis work.
+
+## Hub attribution
+
+The kor occupy all three foundational BBL hub axes simultaneously — the corpus's fourth canonical triple-attribution character node after [[aether-rangers]], [[theros-pantheon]], and [[xenoverse-villains]] (waves 73-75). The three legs are load-bearing-by-canon:
+
+- **[[labor]]** — the kor's nomadic-warrior race produces the canonical Zendikari scout-and-expedition-house workforce (Expedition Envoy's "every expedition house is 'ready for anything'" flavor; Cliffside Lookout's Stone Havens scout duty-roster; Kitesail Scout's airborne reconnaissance work). Their work is *survival-labor under existential threat* — the rope-and-hook climbing rigs, the kitesail traversal, the plate-armor-calibrated-for-mountain-combat are all materially produced and materially maintained labor outputs. The labor leg sits at the **producing-the-coordinated-defensive-apparatus** axis the BBL hub indexes.
+
+- **[[rebellion]]** — the kor's response to the Eldrazi invasion IS the canonical *coordinated noncompliance* register at racial scale. Where the Eldrazi extract value from worlds without political negotiation, the kor organize Rally-mechanic militias (Kor Bladewhirl + Kor Entanglers + Expedition Envoy as triggered-coordinated-resistance), build multi-color Convergence Allies tokens (Unified Front as the cross-race-resistance-coalition rendered mechanically), and execute anti-Eldrazi defensive operations with explicit oracle clauses ("can't be blocked by Eldrazi Scions" on Kor Castigator). The Rally + Allies + Convergence stack is *organized refusal of the consumption-apparatus* at the canonical-block-design-mechanic level — the rebellion verb encoded into the cards' play patterns.
+
+- **[[stewardship]]** — the Stone Havens defensive-infrastructure-network, the Stone Haven Medic care-tier (BFZ-51, anchored at the place-layer but operating within kor settlement-context), and the Kitesail Scout's "the next generation of kor must know this kind of peace" flavor all sit at the **tending-the-commons-under-existential-threat** axis. The kor's coordinated-defense is canonically a *defending-what-belongs-to-more-than-the-defender* posture — Zendikar itself, the broader Zendikari indigenous-race coalition, the future generation's right to open skies. This is care-without-ownership at the racial-survival scale.
+
+The triple-attribution composes structurally with the [[eldrazi]] sibling node's apparatus-of-consumption thesis at the adversary-coupling axis. Where the Eldrazi anchor the **apparatus-of-extraction-at-cosmological-scale** as the inverse of all three hub legs (Eldrazi reduce labor to drone-caste, foreclose rebellion via mana-identity-stripping, dissolve stewardship via consumption-of-plane), the kor anchor the **mortal-resistance-organizing-all-three-verbs-simultaneously** as the canonical answering register. The two nodes together form the corpus's clearest racial-scale rendering of the produce-refuse-tend hub triangulation versus the apparatus-of-extraction adversary pole.
 
 ## Canonical sources
 

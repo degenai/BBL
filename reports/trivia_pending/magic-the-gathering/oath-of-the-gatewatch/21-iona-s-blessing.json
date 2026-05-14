@@ -1,0 +1,36 @@
+{
+  "card_name": "Iona's Blessing",
+  "game": "Magic: The Gathering",
+  "set": "Oath of the Gatewatch",
+  "collector_number": "21",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Walk now in my light. When the rest of the world closes its eyes, you will still see.' — Iona [Scryfall] — The closing-eyes imagery directly references the MTG lore explanation for why Zendikar's angels wear halos down over their eyes: after the Eldrazi's first awakening, the angels 'closed their eyes' to the Eldrazi's atrocities, symbolizing powerlessness and complicity. [WebSearch: MTG Fandom, Iona character page via WebSearch snippet] Iona's gift of sight carries a pointed moral weight in that context.",
+      "sources": ["Scryfall", "WebSearch: Iona MTG Fandom page snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Iona, Shield of Emeria is one of the greater archangels of Zendikar — described as gargantuan, six-winged, with pupil-less glowing white eyes and no halo across her own eyes, unlike other Zendikari angels. [WebSearch: Iona MTG Fandom page snippet] The aura depicted in this card shows her blessing passing to a mortal warrior rather than Iona herself.",
+      "sources": ["WebSearch: Iona MTG Fandom page snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 3W Aura giving +2/+2, vigilance, and 'block an additional creature each combat.' The multi-block clause is mechanically rare in white Auras and synergizes strongly with already-large defensive creatures. EDHREC rank 18736. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Iona, Shield of Emeria", "set": "Zendikar", "note": "The named source of the blessing; banned in Legacy"},
+    {"name": "Iona's Judgment", "set": "Commander Legends", "note": "Same Iona-named card cycle in the inventory"},
+    {"name": "Linvala, Keeper of Silence", "set": "Rise of the Eldrazi", "note": "Fellow Zendikari archangel from the same plane and era"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

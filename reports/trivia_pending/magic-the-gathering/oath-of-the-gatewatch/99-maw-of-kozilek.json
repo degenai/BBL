@@ -1,0 +1,37 @@
+{
+  "card_name": "Maw of Kozilek",
+  "game": "Magic: The Gathering",
+  "set": "Oath of the Gatewatch",
+  "collector_number": "99",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The 'Maw' naming convention links this creature to Kozilek, the Eldrazi Titan of distortion and confusion — OGW's central antagonist titan alongside Ulamog. Kozilek's brood is mechanically distinguished by using the {C} colorless mana symbol; this card's {C} activation is canonical brood-lineage identification. [Scryfall type_line, Wizards OGW Mechanics article]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/oath-gatewatch-mechanics-2015-12-28"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"The Eldrazi make worse than ruins — they make a world where not even ruins stand.\" — Gideon Jura. [Scryfall] Gideon's line captures Wizards' canonical 'metabolism-not-malice' framing: the Eldrazi don't hate; they process. The absence of ruins is not cruelty — it is the complete erasure of the substrate that cruelty would need to operate on.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The {C} activation pumps power at the cost of toughness (+2/-2), making it a high-risk aggro enabler — best used when the creature is guaranteed to deal damage unblocked or is finishing a trade. Pauper-legal. EDHREC rank 28888, the lowest of the four OGW Eldrazi in this inventory cluster. Artist Daarken is a prolific MTG contributor known for dark, kinetic creature art across dozens of sets. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kozilek, the Great Distortion", "set": "Oath of the Gatewatch", "note": "The Titan this creature is named for; the titular antagonist of OGW"},
+    {"name": "Eldrazi Aggressor", "set": "Oath of the Gatewatch", "note": "Sister Eldrazi Drone in inventory; same Kozilek brood devoid cluster"},
+    {"name": "Immobilizer Eldrazi", "set": "Oath of the Gatewatch", "note": "Sister Eldrazi Drone in inventory; same brood cluster"},
+    {"name": "Consuming Sinkhole", "set": "Oath of the Gatewatch", "note": "Sister OGW devoid instant in inventory; same consumption/erasure thematic register"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

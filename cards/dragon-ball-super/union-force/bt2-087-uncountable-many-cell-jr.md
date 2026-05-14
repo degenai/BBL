@@ -30,6 +30,7 @@ setting: void
 suspected_ip: Cell Jr. (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
+characters: ["cell-saga-apparatus"]
 ---
 
 # Uncountable Many Cell Jr. (Union Force)

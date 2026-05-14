@@ -1,0 +1,41 @@
+{
+  "card_name": "The Masked Saiyan // Bardock, Unbound by Darkness (2018 Big Card Pack)",
+  "game": "Dragon Ball Super",
+  "set": "Promotion Cards",
+  "collector_number": "SD3-01",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names both identities: 'The Masked Saiyan' (controlled form) and 'Bardock, Unbound by Darkness' (freed form). The double-face name structure is the canonical presentation of Bardock's Xenoverse/Heroes arc. Dark armor + white mask + black ki is the canonical Masked Saiyan visual register. ip_verified set to true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "SD3-01 is a promotional card from the DBS Card Game's 2018 Big Card Pack (Starter Deck 3). The double-faced card name 'The Masked Saiyan // Bardock, Unbound by Darkness' encodes both sides of the arc: Bardock under Towa's mask-control, and Bardock freed when the mask is broken. [dbs-cardgame.com official card list, via WebSearch]",
+      "sources": ["dbs-cardgame.com", "WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The Masked Saiyan's identity was first revealed in Dragon Ball Xenoverse 2's story campaign: Bardock was pulled from the moment before his death by Frieza's Supernova and brainwashed by Towa using Demon Realm technology. The mask provided a constant supply of Dark Ki keeping him under her control. The mask is broken when the Future Warrior defeats him in battle — purging the Dark Ki and freeing Bardock. This is the canonical mask-reveal moment across Xenoverse 2 and Dragon Ball Heroes. [Dragon Ball Wiki: The Masked Saiyan Saga; Dragon Ball Xenoverse 2 Wiki: Masked Saiyan, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: The Masked Saiyan Saga", "Dragon Ball Xenoverse 2 Wiki: Masked Saiyan"]
+    },
+    {
+      "category": "design",
+      "text": "Bardock as the Masked Saiyan originates in the Dragon Ball Heroes arcade game (Japan) and was then adapted into Xenoverse 2 as story content. The card art depicts the masked form — dark armor, white mask, black/dark-red ki — not the unmasked reveal. This is the controlled-identity face of the double-card, framing the art as the moment of maximum suppression before the break. [Dragon Ball Wiki: The Masked Saiyan Saga; Masked Saiyan — Videogaming Wiki, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: The Masked Saiyan Saga", "WebSearch"]
+    },
+    {
+      "category": "sentiment",
+      "text": "The Masked Saiyan arc functions as a retroactive tragedy for Bardock — a character originally known only from the 1990 TV special as Goku's father who died predicting Frieza's betrayal. Xenoverse 2 extends his story: he survives (sort of), is enslaved, is freed, and then fights alongside the Time Patrol. The mask-concealment / identity-restoration arc is the structural core of his post-Frieza narrative. [Dragon Ball Wiki: Bardock; Videogaming Wiki: Masked Saiyan, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: Bardock", "WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bardock", "set": "Various DBS sets", "note": "Unmasked canonical ancestor; same character, pre-mask state"},
+    {"name": "Towa", "set": "Various DBS sets", "note": "The Demon Realm scientist who built the mask and enslaved Bardock"},
+    {"name": "Future Warrior", "set": "DBS game content", "note": "The player character who breaks the mask in Xenoverse 2"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

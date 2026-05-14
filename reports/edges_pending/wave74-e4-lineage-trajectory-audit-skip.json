@@ -1,0 +1,25 @@
+{
+  "edge_id": "wave74-e4-lineage-trajectory-audit-skip-with-receipts",
+  "shape": "refusal-with-receipts",
+  "category": "lineage-subgraph-thesis-trajectory-audit",
+  "topology": "n/a (refusal)",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/saiyan.md", "name": "Saiyan race (related_hubs: [labor, rebellion])"},
+    {"type": "character", "path": "cards/_characters/son-goku.md", "name": "Son Goku"},
+    {"type": "character", "path": "cards/_characters/son-gohan.md", "name": "Son Gohan (related_hubs: [labor])"},
+    {"type": "character", "path": "cards/_characters/pan.md", "name": "Pan (related_hubs: [labor])"},
+    {"type": "character", "path": "cards/_characters/bardock.md", "name": "Bardock (related_hubs: [labor, rebellion])"}
+  ],
+  "description": "Wave-74 trivia surfaced new prose for Piccolo Jr. cards (TB2-040), Master Roshi (TB2-057), and Jackie Chun (TB2-058) — none of which is Saiyan-lineage trivia. The Saiyan-line refusal from wave 73 holds: Gowasu-Zamasu stewardship-betrayed beat is canonical for Universe-10 Supreme-Kai-lineage NOT Saiyan-lineage; Goku-mentors-Uub canonical-End-of-Z beat would carry stewardship but no wave-74 prose surfaced it; Pan-resists-Baby-possession canonical-GT-Saga beat would carry rebellion but no wave-74 prose surfaced it; Bardock-Goku-Gohan-Pan four-generation lineage would need each node's body to carry canonical-citations for the missing verbs and the wave-74 trivia pass did not extend any of the four. Wave-74 trivia DID surface stewardship-citations for Piccolo Jr. (TB2-027 + BT1-045 + TB2-040 all citing Gohan-mentor / Goten-Trunks-Fusion-instructor / villain-to-stewardship-pipeline registers); that finding is transferred to the Mr. Nodeley commission for piccolo-jr.md (see wave74-mr-nodeley sidecar). The Saiyan-line + Bardock-line + Goku-line trajectories remain at their existing single-or-dual hub attributions until canonical-citation prose surfaces in their node bodies. The discipline holds.",
+  "citations": [
+    "[[_triple-thesis]] — refusal-with-receipts as first-class output; hubs get stripped if attribution can't survive what's-the-canonical-citation question]",
+    "[memory: bbl-museum-curation-framing — refusal-with-receipts is curator behavior not bug]",
+    "[memory: bbl-edgelord-node-rigor-audit — periodic audits against rigor checklist]",
+    "[Wave 73 sidecar: wave73-e4-saiyan-lineage-thesis-trajectory.json — prior refusal precedent]",
+    "[Existing node bodies for son-goku.md, son-gohan.md, pan.md, saiyan.md, bardock.md — surveyed for canonical thesis-political citations; LABOR vertex anchors in body prose where present, REBELLION vertex anchors on Bardock + Saiyan via Universe-6-Defenders + Super-Saiyan-prophecy-Frieza-feared registers, STEWARDSHIP not cited at canonical-source rigor on any Saiyan-lineage node]"
+  ],
+  "files_modified": [],
+  "edgelord_mood": "enlightened-corrective",
+  "deferred_to_future_wave": "If a future Edgelord/Mr-Nodeley pass extends one or more Saiyan-lineage node bodies with canonical-citation paragraphs sourced from Wizards-Wikipedia-Dragon-Ball-Wiki / Bandai-DBSCG / Toriyama-manga-or-anime — Goku-mentors-Uub end-of-Z beat for son-goku stewardship; Pan-resists-Baby-possession GT-Saga beat for pan rebellion; Gohan-mentors-the-next-generation Buu-Saga prelude for son-gohan stewardship — then dual or triple attribution becomes viable per the two-step discipline (body-citation first, related_hubs extension second).",
+  "notes": "The fourth refusal-with-receipts of the corpus on triple-thesis-trajectory-audit lineage-subgraph candidates (sibling pattern: wave 71's refusal on multiple candidates against premature triple-attribution; wave 72's refusal on weave/chain topology-jargon framings; wave 73's refusal on Saiyan-lineage triple-attribution). Refusal-with-receipts is the curator-behavior; the substrate's quality compounds over time precisely because Edgelord refuses to fill in attribution on vibe. The discipline holds. Note that the wave-74 trivia HUNT surfaced a stewardship-citation-rich candidate at piccolo-jr (5 corpus prints, all carrying canonical mentor-register citations, threshold-passing per the wave-71 solo-character-node commissioning rigor) — that candidate transferred to Mr. Nodeley commission rather than remaining a lineage-subgraph audit, because the canonical evidence is sufficient at the single-character solo scope without needing distributed-lineage trajectory."
+}

@@ -31,6 +31,7 @@ subject_known_ip: true
 suspected_ip: Supreme Kai of Time (Chronoa) — Dragon Ball Xenoverse / Dragon Ball Heroes
 ip_confidence: high
 ip_verified: true
+characters: ["chronoa"]
 ---
 
 # Time's Judgement (Cross Worlds)

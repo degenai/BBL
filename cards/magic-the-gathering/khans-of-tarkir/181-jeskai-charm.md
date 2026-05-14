@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["fire", "ritual", "temple", "lotus", "shrine", "flame", "sacred-space", "magic", "inner-fire", "monastery", "ceremony", "jeskai"]
+tags_filter: ["wide", "abstract-mode", "none-figures", "multicolor-white-blue-red", "instant"]
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/181-jeskai-charm.png
 average_cost_paid: 0
 market_price: 0.3
@@ -28,6 +28,28 @@ oracle_text: Choose one —\n• Put target creature on top of its owner's libra
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: sublime
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Jeskai Charm (Khans of Tarkir)
+
+## Vision
+
+![181-jeskai-charm](../../_images/magic-the-gathering/khans-of-tarkir/181-jeskai-charm.png)
+
+A large circular stone brazier sits in the center of a grand vaulted interior space. From it rises a tall column of fire with swirling golden flames that suggest — but do not clearly depict — a humanoid silhouette. The chamber features high arched windows that admit shafts of bright light, creating a dramatic contrast against the purple-dark surroundings. Around the base of the brazier, at ground level, pink lotus flowers float on dark still water. The overall composition is symmetrical and ceremonial. The palette is deep violet and purple for the chamber, with bright orange and gold fire at center.
+
+**Subject:** A ritual flame burns in a stone brazier set within a temple interior, its fire forming a swirling vaguely humanoid shape; lotus flowers float in water around the base of the brazier
+
+**Composition:** wide, abstract, figures: none, facing: n/a
+**Setting:** indoor, gothic, indeterminate
+**Foreground:** lotus flowers floating on dark water around the base of the brazier  *(palette: pink, dark purple, black)*
+**Background:** vaulted stone arches, tall windows with bright light beyond  *(palette: deep violet, grey-blue, white)*
+**Mood / lighting:** sublime, chiaroscuro
+**Emotion read:** awe-inspiring, ceremonial; the controlled flame within a sacred space projects power and discipline
+**Objects:** brazier, lotus flowers, arched windows
+**Iconography:** lotus, fire, temple
+**Genre cues:** fantasy
+

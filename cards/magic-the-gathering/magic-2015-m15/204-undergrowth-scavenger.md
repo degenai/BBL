@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["scavenger", "insect", "swamp", "decay", "predator", "graveyard", "forest", "horror", "creature", "undergrowth", "chitin", "darkness"]
+tags_filter: ["mid-shot", "solo", "faces-left", "narrative-mode", "no-face", "green-magic", "creature-insect"]
 reference_image: cards/_images/magic-the-gathering/magic-2015-m15/204-undergrowth-scavenger.png
 average_cost_paid: 0
 market_price: 0.18
@@ -29,6 +29,27 @@ oracle_text: This creature enters with a number of +1/+1 counters on it equal to
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: grim
+time_of_day: indeterminate
+setting: forest
 ---
 
 # Undergrowth Scavenger (Magic 2015 (M15))
+
+## Vision
+
+![204-undergrowth-scavenger](../../_images/magic-the-gathering/magic-2015-m15/204-undergrowth-scavenger.png)
+
+A lean, multi-limbed creature with a large smooth domed head — mottled green-grey — clings to or crawls along a bare dead branch in a dark, swamp-like environment. Its body is elongated and its limbs are long and spindly with visible joints. The overall texture is chitinous and organic. The background is murky dark browns, purples, and greens — dead wood and decaying undergrowth. A small secondary creature is barely visible at the lower right. The creature's posture suggests foraging or scavenging motion. The mood is grim and predatory.
+
+**Subject:** A gaunt insectoid or crustacean-like creature with bulbous green head-casing clings to a dead tree branch in a murky swamp or undergrowth setting
+
+**Composition:** mid-shot, narrative, figures: solo, facing: left
+**Setting:** forest, indeterminate
+**Foreground:** spindly insectoid scavenger creature on dead branch  *(palette: muted green, grey-brown, dark purple)*
+**Background:** dark murky swamp, dead wood, decaying vegetation  *(palette: dark brown, dark purple, charcoal)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** predatory hunger; the creature forages through decay
+**Creatures:** insectoid creature, scavenger
+**Genre cues:** fantasy
+

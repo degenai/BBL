@@ -1,0 +1,37 @@
+{
+  "card_name": "Immobilizer Eldrazi",
+  "game": "Magic: The Gathering",
+  "set": "Oath of the Gatewatch",
+  "collector_number": "97",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "OGW introduced the {C} colorless mana symbol — the first symbol in Magic history specifically representing colorless mana rather than generic mana. Immobilizer Eldrazi's activated ability ({2}{C}) was among the first cards to use it in print. The symbol was designed to clarify the distinction between 'any mana can pay this' (generic) and 'only colorless mana pays this.' [Wizards OGW Mechanics article: magic.wizards.com/en/news/feature/oath-gatewatch-mechanics-2015-12-28]",
+      "sources": ["magic.wizards.com/en/news/feature/oath-gatewatch-mechanics-2015-12-28"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"It denied the Zendikari the chance to stand and die fighting.\" [Scryfall] The framing here is specifically about the removal of agency — the Eldrazi's ability is not merely lethal but depriving. Wizards' canonical framing for Eldrazi describes them as beings of metabolism, not malice: they process life the way a stomach processes food, and this creature's flavor reflects that indifference. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The activated ability — each creature with toughness greater than its power can't block this turn — is a precision attack on defensive creatures (walls, high-toughness blockers). In combination with other aggressive Eldrazi, it functions as a pseudo-Fog-bypass for opponents relying on bulky defenders. Uncommon rarity; not reprinted as of May 2026. EDHREC rank 26511. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Eldrazi Aggressor", "set": "Oath of the Gatewatch", "note": "Sister Eldrazi Drone in inventory; also uses {C} devoid design"},
+    {"name": "Maw of Kozilek", "set": "Oath of the Gatewatch", "note": "Sister Eldrazi Drone in inventory; named for Kozilek whose brood this lineage belongs to"},
+    {"name": "Consuming Sinkhole", "set": "Oath of the Gatewatch", "note": "Sister OGW devoid card in inventory; Kozilek's brood lineage"},
+    {"name": "Wastes", "set": "Oath of the Gatewatch", "note": "First typeless basic land; introduced alongside {C} to enable colorless mana production in Constructed"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

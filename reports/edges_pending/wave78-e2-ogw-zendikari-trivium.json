@@ -1,0 +1,46 @@
+{
+  "edge_id": "wave78-e2-ogw-zendikari-resistance-trivium",
+  "shape": "triangle",
+  "topology": "triangle",
+  "category": "designer-coordinated-cycle",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/oath-of-the-gatewatch/97-immobilizer-eldrazi.md",
+      "name": "Immobilizer Eldrazi (OGW-97)",
+      "axis": "labor"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/oath-of-the-gatewatch/26-make-a-stand.md",
+      "name": "Make a Stand (OGW-26)",
+      "axis": "rebellion"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/oath-of-the-gatewatch/14-affa-protector.md",
+      "name": "Affa Protector (OGW-14)",
+      "axis": "stewardship"
+    }
+  ],
+  "description": "Corpus's SECOND explicit triple-thesis triangle, after the BFZ triangle (Kozilek's Sentinel + Reckless Cohort + Serene Steward). 3-way mutual mirror via ## Connections, one card per axis. Labor anchor (Immobilizer Eldrazi) sourced from Scryfall flavor text 'It denied the Zendikari the chance to stand and die fighting' + the canonical Eldrazi-overhead/Zendikari-kneeling composition; Potion-rule discipline visibly applied — the canonical visual carries the labor-relation via composition, BBL reads the apparatus-of-extraction overlay on top, no hub-attribution claims labor as canonical-thesis. Rebellion anchor (Make a Stand) sourced from Scryfall flavor + indestructible-until-end-of-turn oracle text encoding impermanent-unity. Stewardship anchor (Affa Protector) sourced from MTG Wiki Affa-underground-refuge lore + flavor text + Vigilance oracle. The OGW triangle pairs canonically with the BFZ triangle as a 6-card BFZ+OGW Zendikari-resistance cluster — that cross-set cycle is a future zendikari-resistance.md Mr. Nodeley candidate but premature this wave.",
+  "citations": [
+    "[Scryfall: Immobilizer Eldrazi flavor_text + oracle_text]",
+    "[Scryfall: Make a Stand flavor_text + oracle_text]",
+    "[Scryfall: Affa Protector flavor_text + oracle_text]",
+    "[MTG Wiki: Zendikar — Affa settlement underground-refuge during Eldrazi invasion]",
+    "[[_triple-thesis]]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/oath-of-the-gatewatch/97-immobilizer-eldrazi.md",
+    "cards/magic-the-gathering/oath-of-the-gatewatch/26-make-a-stand.md",
+    "cards/magic-the-gathering/oath-of-the-gatewatch/14-affa-protector.md"
+  ],
+  "edgelord_mood": "satisfied",
+  "notes": [
+    "Triangle is the rarest and most structurally satisfying topology. Edgelord's most respectful mood applies.",
+    "OGW Eldrazi cards (95, 97, 99, 94) have NO ## Trivia section yet — wave 78 trivia pass for these is in flight. The triangle did not wait for those; the Immobilizer Eldrazi anchor cites Scryfall flavor_text directly (canonical Wizards-published evidence) plus the canonical Vision-pass composition. No claim depends on text not yet written.",
+    "Potion-rule discipline applied throughout: the Immobilizer Eldrazi bullet explicitly writes 'BBL reads the composition as the labor-relation rendered as visual primitive' — overlay-named, no canonical-thesis-projected. The card's hub-attribution remains [labor] only (per parent dispatch), not [apparatus-of-extraction] (BBL's lens-noun, not a hub).",
+    "Future Mr. Nodeley trigger logged: zendikari-resistance.md as a 6-card BFZ+OGW cross-set cycle-node, anchor-able if a 4th OGW Zendikari-resistance card enters corpus enriched (Kor Sky Climber OGW-24 is the obvious candidate — currently in corpus, vision pending per the [[kor]] node)."
+  ]
+}

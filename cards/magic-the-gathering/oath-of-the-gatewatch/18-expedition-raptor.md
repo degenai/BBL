@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["bird", "raptor", "flight", "wilderness", "cliff", "speed", "predator", "sky", "rope", "expedition", "freedom"]
+tags_filter: ["solo", "close-up", "action", "forward-facing", "white-magic", "creature-bird", "flying"]
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/18-expedition-raptor.png
 average_cost_paid: 0
 market_price: 0.05
@@ -28,6 +28,28 @@ oracle_text: Flying\nWhen this creature enters, support 2. (Put a +1/+1 counter 
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: day
+setting: mountain
 ---
 
 # Expedition Raptor (Oath of the Gatewatch)
+
+## Vision
+
+![18-expedition-raptor](../../_images/magic-the-gathering/oath-of-the-gatewatch/18-expedition-raptor.png)
+
+The image is shot from a dramatic upward angle between two enormous rock formations or cliff faces. A large bird — raptor-type, with visible beak and wings spread — is caught mid-dive or swoop through the narrow gap. Ropes or cables crisscross the frame in multiple directions, suggesting the ropes are attached to the cliffs or to the bird itself as part of some expedition or climbing apparatus. Debris and small rocks are visible falling through the air. The sky is pale blue with clouds visible through the gap. The composition is vertiginous — the viewer feels positioned below the bird looking up.
+
+**Subject:** A large bird of prey in extreme low-angle close-up, swooping between massive cliff faces with ropes or cables visible
+
+**Composition:** close-up, action, figures: solo, facing: forward
+**Setting:** mountain, day, clear
+**Foreground:** large raptor bird mid-swoop, ropes in foreground  *(palette: brown, tan, rust, dark-gray)*
+**Background:** cliff walls, pale sky, falling debris  *(palette: pale-blue, stone-gray, beige)*
+**Mood / lighting:** action, ambient
+**Emotion read:** wild speed, predatory plunge
+**Objects:** ropes, falling-rocks
+**Creatures:** raptor, bird-of-prey
+**Genre cues:** fantasy
+

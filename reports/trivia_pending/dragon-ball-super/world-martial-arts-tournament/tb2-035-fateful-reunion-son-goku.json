@@ -1,0 +1,36 @@
+{
+  "card_name": "Fateful Reunion Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-035",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names Son Goku; orange gi + spiky dark hair running forward is canonical. ip_verified set to true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "World Martial Arts Tournament (DBS-TB02) is the second Themed Booster set for the Dragon Ball Super Card Game, focused on the Tenka'ichi Budokai tournament narrative. TB2-035 is a Rare card. The set concentrates on reunion and rivalry dynamics anchored in tournament brackets — 'Fateful Reunion' is a named card cycle within the set, including TB2-035 (Son Goku) and TB2-037 (Chi-Chi). [dbs-cardgame.com official card list; TCGPlayer product data, via WebSearch]",
+      "sources": ["dbs-cardgame.com", "TCGPlayer", "WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "The 'Fateful Reunion' cycle in TB2 has a mechanical synergy: when Fateful Reunion Son Goku is played, it grants +10000 power to itself and one other Fateful Reunion Son Goku card in your Battle Area, then draws a card. Fateful Reunion Chi-Chi (TB2-037) triggers a Barrier effect when Goku's version hits the field. The cycle models reunion as a mutual power amplification — two cards activating each other. [TCGPlayer: TB2-035 card description, via WebSearch]",
+      "sources": ["TCGPlayer: Fateful Reunion Son Goku TB2-035", "WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The 'Fateful Reunion' framing most likely references the 23rd Tenka'ichi Budokai in Dragon Ball, where an adult Goku reunites with Chi-Chi — the reunion that leads to their marriage. The second figure in blue visible in the card's background is consistent with Chi-Chi's gi color at this tournament. Kanzenshuu's episode guide documents the 23rd Budokai arc as a dedicated story arc. [Kanzenshuu: Episode Guide — 23rd Tenka'ichi Budokai arc, via WebSearch]",
+      "sources": ["Kanzenshuu: Episode Guide 23rd Budokai arc", "WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fateful Reunion Chi-Chi (TB2-037)", "set": "World Martial Arts Tournament", "note": "Mechanical synergy partner in the Fateful Reunion cycle; second figure in the card background"},
+    {"name": "Son Goku, Full Power (P-044)", "set": "Promotion Cards", "note": "Same character in powered-up state; anchor for Goku cards in the corpus"},
+    {"name": "Fateful Reunion Son Goku (TB2-035)", "set": "World Martial Arts Tournament", "note": "Self-referential: the mechanic requires 2 copies for full effect"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

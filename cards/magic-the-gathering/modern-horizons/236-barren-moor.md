@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["swamp", "moor", "night", "desolation", "wasteland", "toxic-sky", "wetland", "barren", "storm", "dread"]
+tags_filter: ["none", "wide", "abstract-mode", "scene-mode", "black-magic", "land"]
 reference_image: cards/_images/magic-the-gathering/modern-horizons/236-barren-moor.png
 average_cost_paid: 0
 market_price: 0.23
@@ -28,6 +28,27 @@ oracle_text: This land enters tapped.\n{T}: Add {B}.\nCycling {B} ({B}, Discard 
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: grim
+time_of_day: night
+setting: other
 ---
 
 # Barren Moor (Modern Horizons)
+
+## Vision
+
+![236-barren-moor](../../_images/magic-the-gathering/modern-horizons/236-barren-moor.png)
+
+A wide landscape of flat, marshy terrain stretches under a dark stormy sky. The sky is dominated by heavy purple-black clouds with a strange yellow-green glow at the horizon where some unseen light source illuminates the clouds from below. The ground is a mix of wet stone, shallow standing water, and clumps of reeds or tall grass on the right edge. The water reflects the sickly green-yellow sky glow, giving the whole scene a toxic, haunted feel. No figures or structures are present. The scene is desolate and atmospheric.
+
+**Subject:** A bleak wetland landscape at night under green-tinged storm clouds, flat water reflecting sickly light
+
+**Composition:** wide, abstract, figures: none, facing: n/a
+**Setting:** other, night, storm
+**Foreground:** Flat wet ground, stepping stones visible in shallow water, reeds at right edge  *(palette: dark-brown, black, grey)*
+**Background:** Stormy sky with yellow-green glow at horizon, heavy cloud cover  *(palette: yellow-green, purple-black, dark-grey)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** desolate, haunted, oppressive stillness
+**Objects:** stepping stones, reeds
+**Genre cues:** fantasy
+

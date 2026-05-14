@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["rocks", "destruction", "projectile", "sky", "power", "geology", "barrage", "force", "raw-power"]
+tags_filter: ["none", "wide", "abstract", "no-face", "red-magic", "instant"]
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/102-boulder-salvo.png
 average_cost_paid: 0
 market_price: 0.12
@@ -29,6 +29,27 @@ oracle_text: Surge {1}{R} (You may cast this spell for its surge cost if you or 
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: day
+setting: mountain
 ---
 
 # Boulder Salvo (Oath of the Gatewatch)
+
+## Vision
+
+![102-boulder-salvo](../../_images/magic-the-gathering/oath-of-the-gatewatch/102-boulder-salvo.png)
+
+The entire frame is occupied by several large irregular boulders — dark, rough-surfaced — floating or launched in mid-air. Smaller rock fragments accompany them in a scattered salvo pattern. The background is pale gray-white cloudy sky with some warm orange at the edges, suggesting an arid or mountainous environment. There are no humanoid figures visible. The composition reads as a projectile volley caught at peak suspension.
+
+**Subject:** Multiple large boulders and rock fragments suspended in mid-air against a pale cloudy sky, no figures visible
+
+**Composition:** wide, abstract, figures: none, facing: n/a
+**Setting:** mountain, day
+**Foreground:** large dark boulders suspended mid-air with rock debris  *(palette: dark-gray, black, charcoal)*
+**Background:** pale cloudy sky, warm-orange tinge at edges  *(palette: pale-gray, white, warm-tan)*
+**Mood / lighting:** action, ambient
+**Emotion read:** raw kinetic force, impact imminent
+**Objects:** boulders, rock-fragments
+**Genre cues:** fantasy
+

@@ -30,6 +30,7 @@ setting: indoor
 suspected_ip: Master Roshi
 ip_confidence: high
 ip_verified: true
+characters: [master-roshi]
 ---
 
 # Master Roshi, Martial Meister (World Martial Arts Tournament)

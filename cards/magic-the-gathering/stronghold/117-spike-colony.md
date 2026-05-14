@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["colony", "eyes", "cave", "underground", "creature", "spike", "horror", "hive-mind", "chitin", "many-eyes"]
+tags_filter: ["group", "mid-shot", "narrative", "green-magic", "creature-spike", "forward-facing"]
 reference_image: cards/_images/magic-the-gathering/stronghold/117-spike-colony.png
 average_cost_paid: 0
 market_price: 0.1
@@ -28,6 +28,28 @@ oracle_text: This creature enters with four +1/+1 counters on it.\n{2}, Remove a
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: indeterminate
+setting: dungeon
 ---
 
 # Spike Colony (Stronghold)
+
+## Vision
+
+![117-spike-colony](../../_images/magic-the-gathering/stronghold/117-spike-colony.png)
+
+Two bulbous dark creatures dominate the foreground, occupying the lower two-thirds of the image. Each has a rounded, hunched body covered in dark chitin or hide, studded with multiple round yellow eyes of varying sizes arranged across the face and body. Their mouths show small curved fang-like projections. Additional smaller versions of the same creature appear in the midground. The background is a pale lavender-pink cave or rocky landscape with dark columnar formations rising like stalagmites. The overall palette is dark grey-black for the creatures against a warm pale lavender environment. The art style is older — this is a Stronghold-era card with a more painterly, lower-detail aesthetic.
+
+**Subject:** Two large slug-like or chitin-covered creatures with multiple yellow eyes facing the viewer, in a rocky underground or cave setting
+
+**Composition:** mid-shot, narrative, figures: group, facing: forward
+**Setting:** dungeon, indeterminate
+**Foreground:** two large chitin-covered multi-eyed creatures with fangs, facing viewer  *(palette: dark grey-black, yellow, tan-cream)*
+**Background:** pale lavender cave, dark columnar rock formations  *(palette: lavender-pink, pale cream, dark grey)*
+**Mood / lighting:** horror, ambient
+**Emotion read:** alien blankness, colony-mind, no-individual-expression
+**Creatures:** spike creatures, multi-eyed chitin creatures, colony creatures
+**Iconography:** multiple eyes, yellow eyes
+**Genre cues:** fantasy
+

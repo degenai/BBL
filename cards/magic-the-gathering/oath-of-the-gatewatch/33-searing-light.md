@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["insect", "forest", "egg", "nature", "creature", "predator", "growth", "magic", "light", "beast"]
+tags_filter: ["duo", "mid-shot", "narrative", "three-quarter", "white-magic", "instant", "no-face"]
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/33-searing-light.png
 average_cost_paid: 0
 market_price: 0.05
@@ -29,6 +29,29 @@ oracle_text: Destroy target attacking or blocking creature with power 2 or less.
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: other
+time_of_day: day
+setting: forest
 ---
 
 # Searing Light (Oath of the Gatewatch)
+
+## Vision
+
+![33-searing-light](../../_images/magic-the-gathering/oath-of-the-gatewatch/33-searing-light.png)
+
+The foreground shows a large creature with prominent dark horns and a segmented, spiny body — clearly non-humanoid, insectoid or arthropod in form. It crouches beside what appears to be a large luminous egg or magical orb, which pulses with iridescent blue-white light. A second similar but smaller creature stands further back. The setting is a lush, verdant forest with dappled light; wooden debris is visible on the ground. The overall composition centers on the orb as the primary light source, casting a cool glow on the surrounding greenery. No humanoid figure is present.
+
+**Subject:** A large horned insectoid creature in a forest setting next to a glowing magical orb or egg
+
+**Composition:** mid-shot, narrative, figures: duo, facing: three-quarter
+**Setting:** forest, day, calm
+**Foreground:** large horned insectoid creature beside a glowing orb or egg  *(palette: dark green, black, iridescent blue-white)*
+**Background:** lush forest, wooden debris on ground, soft green light filtering through canopy  *(palette: green, yellow-green, brown)*
+**Mood / lighting:** other, soft
+**Emotion read:** predatory, curious
+**Objects:** glowing-orb, egg
+**Creatures:** insectoid-creature, horned-creature
+**Iconography:** glowing-egg, magical-light
+**Genre cues:** fantasy
+

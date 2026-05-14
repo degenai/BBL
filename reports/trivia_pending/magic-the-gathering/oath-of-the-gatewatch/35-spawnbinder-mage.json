@@ -1,0 +1,36 @@
+{
+  "card_name": "Spawnbinder Mage",
+  "game": "Magic: The Gathering",
+  "set": "Oath of the Gatewatch",
+  "collector_number": "35",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Spawnbinder Mage is a Human Wizard Ally — a mage in the Zendikari resistance who has learned to trap and restrain Eldrazi Spawn. The 'Spawnbinder' name positions this figure as a specialized anti-Eldrazi operative, consistent with the OGW narrative that allied forces adapted their tactics specifically to the Eldrazi threat. [Scryfall type_line]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Follow me. Step lightly. And resist the urge to kick them.\" [Scryfall] The humor is sharp — a tactical command not to provoke captured Eldrazi spawn in transit. The throwaway 'urge to kick them' line implies the spawn are conscious enough to react, which reinforces the metabolic-indifference framing: they're dangerous but not actively malicious, more like caged animals than enemy soldiers.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Cohort — tap this creature and an untapped Ally to tap target creature — was OGW's keyword for Ally cooperation. The Cohort trigger requires the tapped Ally to have been under your control since your last turn began, which prevents instant-speed abuse with newly cast creatures. Spawnbinder Mage is Pauper-legal. Only one printing exists. EDHREC rank 27010. [Scryfall; Wizards OGW Mechanics article]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/oath-gatewatch-mechanics-2015-12-28"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Relief Captain", "set": "Oath of the Gatewatch", "note": "Sister OGW Ally in inventory; Support 3 counterpart to Cohort control"},
+    {"name": "Stoneforge Acolyte", "set": "Oath of the Gatewatch", "note": "Sister OGW Cohort Ally in inventory; different Cohort payoff (Equipment tutor)"},
+    {"name": "General Tazri", "set": "Oath of the Gatewatch", "note": "Ally tribal commander; represents the coalition this mage fights for"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

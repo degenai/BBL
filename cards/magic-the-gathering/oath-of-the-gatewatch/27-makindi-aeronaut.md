@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["flight", "rider", "mount", "aerial", "bat", "scout", "surveillance", "speed", "guardian", "sky"]
+tags_filter: ["duo", "mid-shot", "action", "faces-forward", "white-magic", "creature-ally", "flying", "low-angle"]
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/27-makindi-aeronaut.png
 average_cost_paid: 0
 market_price: 0.05
@@ -29,6 +29,27 @@ oracle_text: Flying
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: day
+setting: mountain
 ---
 
 # Makindi Aeronaut (Oath of the Gatewatch)
+
+## Vision
+
+![27-makindi-aeronaut](../../_images/magic-the-gathering/oath-of-the-gatewatch/27-makindi-aeronaut.png)
+
+The scene is shot from a dramatically low angle looking up at a small humanoid rider clinging to a large dark bat-like creature as they bank through the air. The rider is compact and lightly armored, arms outstretched, expression alert and focused. The background is suffused with warm golden-yellow tones suggesting sunlit rock or clouds. A second, smaller bat silhouette is visible further back. The composition emphasizes height, speed, and the scale mismatch between rider and sky.
+
+**Subject:** A small humanoid figure gliding on a large bat-like creature, viewed from below against a golden-hued sky and rock formations
+
+**Composition:** mid-shot, action, figures: duo, facing: forward
+**Setting:** mountain, day, clear
+**Foreground:** small humanoid rider on the back of a large dark bat-like flying creature, viewed from below  *(palette: dark brown, pale gray, black)*
+**Background:** warm golden-yellow sky and rock formations, second bat silhouette in distance  *(palette: golden yellow, ochre, pale green)*
+**Mood / lighting:** action, ambient
+**Emotion read:** determined, alert
+**Creatures:** bat, flying-mount
+**Genre cues:** fantasy
+

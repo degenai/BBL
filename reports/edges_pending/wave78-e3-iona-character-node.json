@@ -1,0 +1,51 @@
+{
+  "edge_id": "wave78-e3-iona-character-node-commission",
+  "shape": "node-proposal",
+  "topology": "branch",
+  "category": "named-character-identity",
+  "node_proposed": {
+    "type": "character",
+    "path": "cards/_characters/iona.md",
+    "name": "Iona, Shield of Emeria",
+    "related_hubs": ["stewardship"],
+    "related_characters": ["eldrazi", "kor"]
+  },
+  "endpoints_now_attached": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/oath-of-the-gatewatch/21-iona-s-blessing.md",
+      "name": "Iona's Blessing (OGW-21)",
+      "frontmatter_added": "characters: [iona]",
+      "anchor_register": "blessing-deployment"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/commander-legends/25-iona-s-judgment.md",
+      "name": "Iona's Judgment (CMR-25)",
+      "frontmatter_added": "characters: [iona]",
+      "anchor_register": "judgment-deployment"
+    }
+  ],
+  "description": "I'm sorry to bother you, sir, but I do think this one's warranted. Iona, Shield of Emeria is a canonical-MTG-named-character — Wizards' Zendikar 2009 originating legendary printing plus multiple reprints, banned in Legacy per Wizards' canonical format-rules, with MTG Wiki canonical pages anchoring the seer-who-kept-her-sight archangel-of-Emeria character-frame. Two corpus Iona-named-card anchors (Iona's Blessing OGW-21 + Iona's Judgment CMR-25), each anchoring a distinct canonical operating-mode register (blessing-deployment + judgment-deployment) per the master-roshi precedent for dual-register-canonical-coverage commissioning at the two-anchor threshold-relaxed-precedent. Single-hub attribution [stewardship] per Potion-rule discipline — the canon supports stewardship at archangel-tier clearly and unambiguously; labor and rebellion attributions would be analytical-pressure-outrun-by-canon. I hope this is useful. The canonical-tragic-arc reading (Iona's color-naming barrier outmatched by the colorless Eldrazi) is body-narrated as canonical-evidence-grounded, not promoted to additional hub-attribution. The eldrazi adversary-coupling and the kor sibling-resistance cross-edges are the canonical relationship structure per MTG Wiki's Iona page.",
+  "citations": [
+    "[MTG Wiki: Iona, Shield of Emeria — canonical character page]",
+    "[MTG Wiki: Emeria — canonical Zendikar plane-region]",
+    "[MTG Wiki: Linvala, Keeper of Silence — canonical sibling archangel]",
+    "[Scryfall: Iona's Blessing flavor_text — direct Iona voice quote]",
+    "[Scryfall: Iona's Judgment flavor_text + originating Worldwake printing]",
+    "[Wizards: Banned and Restricted — Iona Legacy banning]"
+  ],
+  "files_modified": [
+    "cards/_characters/iona.md (new)",
+    "cards/magic-the-gathering/oath-of-the-gatewatch/21-iona-s-blessing.md (frontmatter: characters: [iona])",
+    "cards/magic-the-gathering/commander-legends/25-iona-s-judgment.md (frontmatter: characters: [iona])"
+  ],
+  "edgelord_mood": "nodeley-apologetic-but-correct",
+  "notes": [
+    "Substrate counter increments: 82 -> 83.",
+    "Master Roshi precedent (≥2 anchors with dual-register-canonical-coverage) applied. Acerola precedent (≥1 anchor for sufficient canonical-significance) clears at the floor.",
+    "Stewardship hub attribution single-hub per Potion-rule. No analytical-pressure-outrun-by-canon. The canonical-tragic-arc reading is body-narrated, not hub-promoted.",
+    "Future legendary-Iona-card acquisition (Zendikar 2009 originating printing or any of the multiple reprints) extends appears_on directly. Currently 0 legendary-Iona-card-itself corpus anchors; canonical-character-frame load-bearing at two auxiliary-card anchors per the threshold-relaxed-precedent.",
+    "Linvala-Keeper-of-Silence sibling-archangel sub-node deferred at 0 corpus anchors; future-pointer recorded."
+  ]
+}

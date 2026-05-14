@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["cave", "gold", "mineral", "temptation", "underground", "treasure", "darkness", "hidden-power", "geology", "glow"]
+tags_filter: ["none", "close-up", "abstract-mode", "colorless-magic", "land"]
 reference_image: cards/_images/magic-the-gathering/modern-horizons/237-cave-of-temptation.png
 average_cost_paid: 0
 market_price: 0.26
@@ -28,6 +28,28 @@ oracle_text: {T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{4}, {T}, Sacr
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: other
+time_of_day: indeterminate
+setting: dungeon
 ---
 
 # Cave of Temptation (Modern Horizons)
+
+## Vision
+
+![237-cave-of-temptation](../../_images/magic-the-gathering/modern-horizons/237-cave-of-temptation.png)
+
+A cave interior rendered in a downward or angled perspective, the rock face filling the frame. Veins of orange-gold luminescent mineral run through dark purple-black rock in branching patterns, glowing as if lit from within. The effect is both geological and magical — the cave appears to contain a seam of something rare and powerful. A trickle of water or liquid may be visible at the lower portion. There are no figures. The glow of the mineral veins provides the only light source in an otherwise dark and enclosed space.
+
+**Subject:** The interior of a cave with veins of glowing orange-gold mineral running through dark rock walls and ceiling
+
+**Composition:** close-up, abstract, figures: none, facing: n/a
+**Setting:** dungeon, indeterminate
+**Foreground:** Dark rock face with branching orange-gold mineral veins glowing from within  *(palette: orange, gold, dark-purple, black)*
+**Background:** Deeper cave darkness  *(palette: black, deep-purple)*
+**Mood / lighting:** other, ambient
+**Emotion read:** mysterious, enticing — the glow implies hidden value or danger
+**Objects:** mineral veins
+**Iconography:** glowing-veins
+**Genre cues:** fantasy
+

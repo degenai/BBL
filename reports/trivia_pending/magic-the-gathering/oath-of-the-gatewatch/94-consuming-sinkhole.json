@@ -1,0 +1,37 @@
+{
+  "card_name": "Consuming Sinkhole",
+  "game": "Magic: The Gathering",
+  "set": "Oath of the Gatewatch",
+  "collector_number": "94",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Consuming Sinkhole is one of a small number of OGW devoid spells (non-creature) that use the {C} colorless mana symbol. As a modal instant with devoid, it represents the Eldrazi's environmental transformation of Zendikar — the plane's living landscape (land creatures like Oran-Rief Hydra in its land-creature mode) was a literal target for Eldrazi consumption. [Scryfall oracle_text, Wizards OGW Mechanics article]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/oath-gatewatch-mechanics-2015-12-28"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"What will not yield will be consumed.\" — Ayli, high priest of the Eternal Pilgrims. [Scryfall] Ayli is a Kor cleric whose cult, the Eternal Pilgrims, came to worship the Eldrazi as gods — believing them to be the divine beings underlying the Kor's ancient sky-deity traditions. Her quote here is not defiance but acceptance: surrender as doctrine. [WebSearch: mtg.fandom.com/wiki/Ayli snippet]",
+      "sources": ["Scryfall", "mtg.fandom.com/wiki/Ayli via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The modal structure — exile a land creature OR deal 4 damage to a player/planeswalker — is unusually wide for a common at 4 mana. The land-creature mode was narrow in Standard but made the card relevant against Zendikar's creature-lands (Lumbering Falls, Hissing Quagmire). Pauper-legal. EDHREC rank 27490. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ayli, Eternal Pilgrim", "set": "Oath of the Gatewatch", "note": "The flavor-text speaker; legendary Kor cleric whose cult worshipped the Eldrazi"},
+    {"name": "Maw of Kozilek", "set": "Oath of the Gatewatch", "note": "Sister Eldrazi card in inventory; shares consumption/erasure thematic register"},
+    {"name": "Hissing Quagmire", "set": "Oath of the Gatewatch", "note": "Creature-land from the same set; a primary target for the card's exile mode in Standard"},
+    {"name": "Lumbering Falls", "set": "Battle for Zendikar", "note": "Creature-land from the preceding set; another target for the exile mode"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

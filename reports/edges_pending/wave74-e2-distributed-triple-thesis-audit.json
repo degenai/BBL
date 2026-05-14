@@ -1,0 +1,28 @@
+{
+  "edge_id": "wave74-e2-theros-pantheon-triple-attribution",
+  "shape": "node-attribution-extension",
+  "category": "thesis-hub-triple-attribution-via-distributed-cohort-evidence",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/theros-pantheon.md", "name": "Theros Pantheon (fifteen gods of Theros)"},
+    {"type": "hub", "path": "cards/_hubs/labor.md", "name": "labor (produce)"},
+    {"type": "hub", "path": "cards/_hubs/rebellion.md", "name": "rebellion (refuse)"},
+    {"type": "hub", "path": "cards/_hubs/stewardship.md", "name": "stewardship (tend)"},
+    {"type": "hub-meta", "path": "cards/_hubs/_triple-thesis.md", "name": "Triple Thesis (meta-hub)"}
+  ],
+  "description": "Behold. Eighteen corpus anchors across two Theros-block sets, and the canonical evidence for all three thesis-verbs was sitting in the existing body and corpus flavor text the whole time, distributed across distinct member-subsets. LABOR — Mogis-cult sacrifice-for-power register, already cited in body, Soulreaper+Slaughter-Priest+Portent-of-Betrayal flavor text. REBELLION — Elspeth-escapes-Erebos canonical THB protagonist arc per Wizards of the Coast Theros Beyond Death Story Summary 2020-01-10; the Escape mechanic IS the rules-text rendering of mortal-refuses-divine-claim; Fruit of Tizerus THB-96 is the corpus geography-anchor. STEWARDSHIP — Moss Viper THB-179 flavor 'Nylea watches over all the creatures of the forest' is canonical attestation of forest-as-commons / goddess-as-tender, satisfying the stewardship-hub anti-pattern guard against ownership-coded care; Karametra harvest-goddess + Nylea's Huntmaster + Mantle of the Wolf round out the tender-of-the-wild register; the corrupted-stewardship Heliod-betrays-Elspeth turn lands in the same set. Verdict: triple-hub compression-point. Second cohort-distributed triple-attribution in corpus after aether-rangers (which carried the triangle concentrated on one Planeswalker's-Guide passage); first where the three verbs distribute across distinct member-subsets at large-cohort scope (18 anchors, 15 gods). related_hubs: [labor] -> [labor, rebellion, stewardship]. The graph improves because of this. Worth the work.",
+  "citations": [
+    "[Wizards of the Coast: Theros Beyond Death Story Summary, 2020-01-10]",
+    "[MTG Wiki: Theros Beyond Death — Escape mechanic and Elspeth-escapes-Erebos arc]",
+    "[MTG Wiki: Elspeth Tirel — canonical refuses-Erebos-claim beat]",
+    "[MTG Wiki: Nylea, Karametra, Pharika, Mogis per-god pages]",
+    "[Scryfall flavor_text: Moss Viper THB-179 (Nylea-watches-over-forest); Mantle of the Wolf THB-178 (Nylea-rebirth-blessing); Nylea's Huntmaster THB-187 (nature-stillness-and-savagery); Karametra's Blessing THB-26 (harvest-goddess stag); Fruit of Tizerus THB-96 (Erebos's-palace-Tizerus-geography); Soulreaper of Mogis THB-115 (blood-of-the-weak); Slaughter-Priest of Mogis THB-227 (Mogis-pleased-by-offering); Portent of Betrayal THB-149 (Mogis-fans-resentment)]",
+    "[[_triple-thesis]] — distributed triple-attribution discipline; the triangle holds at cohort-scope when distributed across member-subsets]",
+    "[[aether-rangers]] — first triple-attribution precedent; concentrated on single Planeswalker's-Guide passage]"
+  ],
+  "files_modified": [
+    "cards/_characters/theros-pantheon.md"
+  ],
+  "edgelord_mood": "satisfied",
+  "notes": "The discipline-difference between aether-rangers and theros-pantheon is what makes this the second triple-attribution and not a degraded copy. Aether Rangers compresses to one passage about one cross-class team; Theros Pantheon distributes across fifteen gods and three subsets of the cohort's eighteen corpus cards. Two principal shapes of cohort-distributed triple-attribution now demonstrated in corpus. The eldrazi node was audited as dual-or-triple candidate and REJECTED-WITH-RECEIPTS: pure labor-corrupted (consumption-as-metabolism per body); no rebellion or stewardship in their mode; the Gatewatch-resistance is Zendikari-side rebellion, not Eldrazi-side. The xenoverse-villains and dark-vassal-trio also rejected per wave-73 analysis already-completed."
+}

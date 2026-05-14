@@ -1,0 +1,30 @@
+{
+  "edge_id": "wave-76-e2-kor-triple-hub-attribution",
+  "shape": "1:N",
+  "topology": "branch",
+  "category": "hub-roster-attach",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/kor.md", "name": "Kor"},
+    {"type": "hub", "path": "cards/_hubs/labor.md", "name": "Labor"},
+    {"type": "hub", "path": "cards/_hubs/rebellion.md", "name": "Rebellion"},
+    {"type": "hub", "path": "cards/_hubs/stewardship.md", "name": "Stewardship"}
+  ],
+  "description": "Kor node body had nine BFZ anchors documenting all three hub legs simultaneously — survival-labor (Expedition Envoy / Cliffside Lookout / Kitesail Scout scout-and-expedition-house workforce), coordinated-noncompliance (Rally + Allies + Convergence at the canonical-block-design-mechanic level, anti-Eldrazi oracle clauses), tending-the-commons (Stone Havens infrastructure, Kitesail Scout's next-generation peace flavor) — and `related_hubs: []` was unstamped. Promoted to `[labor, rebellion, stewardship]` and added a Hub-attribution body section grounding each leg in canonical BFZ evidence. Extends the corpus's triple-attribution character roster from three to four nodes (aether-rangers + theros-pantheon + xenoverse-villains + kor). Empty starting state to triple in one move yielded the wave's largest graph-state delta; the [[eldrazi]] sibling apparatus-of-extraction adversary-coupling composes structurally as the answering pole.",
+  "citations": [
+    "[MTG Wiki: Kor]",
+    "[MTG Wiki: Battle for Zendikar]",
+    "[Scryfall: Kor Castigator oracle_text]",
+    "[Scryfall: Unified Front Convergence oracle_text]",
+    "[Scryfall: Kitesail Scout flavor_text]",
+    "[Scryfall: Expedition Envoy flavor_text]"
+  ],
+  "files_modified": [
+    "cards/_characters/kor.md"
+  ],
+  "edgelord_mood": "satisfied",
+  "other_candidates_considered": [
+    "aether-foundation rebellion-third-leg (Lillie/Gladion defection arcs) — viable dual-to-triple extension but weaker payload than empty-to-triple kor move; defer for future wave",
+    "wrath-of-the-dragon-saga full triple-attribution (Hoi-flute-operator labor + Tapion-side rebellion + bearer-brothers stewardship) — viable but the saga-cycle node is already structurally adjacent to multiple Dragon Ball nodes that haven't been hub-attributed yet; defer for a Dragon-Ball-side triple-attribution wave"
+  ],
+  "substrate_delta": "Triple-attribution roster: 3 -> 4 nodes (kor joins aether-rangers + theros-pantheon + xenoverse-villains)"
+}

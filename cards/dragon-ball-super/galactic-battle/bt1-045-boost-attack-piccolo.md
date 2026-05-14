@@ -30,6 +30,7 @@ setting: void
 suspected_ip: Piccolo (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
+characters: [piccolo-jr, namekian]
 ---
 
 # Boost Attack Piccolo (Galactic Battle)

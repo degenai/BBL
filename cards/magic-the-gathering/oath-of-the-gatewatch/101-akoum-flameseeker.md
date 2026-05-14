@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["fire", "cave", "volcano", "danger", "seeker", "infiltration", "underground", "survival", "heat", "shadow", "stealth"]
+tags_filter: ["duo", "mid-shot", "action", "three-quarter", "red-magic", "creature-human-shaman-ally"]
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/101-akoum-flameseeker.png
 average_cost_paid: 0
 market_price: 0.04
@@ -29,6 +29,27 @@ oracle_text: Cohort — {T}, Tap an untapped Ally you control: Discard a card. I
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: dungeon
 ---
 
 # Akoum Flameseeker (Oath of the Gatewatch)
+
+## Vision
+
+![101-akoum-flameseeker](../../_images/magic-the-gathering/oath-of-the-gatewatch/101-akoum-flameseeker.png)
+
+The image is dominated by warm orange and black tones — a fiery cavern interior with glowing cracks or lava in the rock surfaces. A humanoid figure in dark clothing crouches or moves through a narrow passage in the foreground right, holding what appears to be a small bladed implement. In the upper-left background, a larger figure or creature with a masked or helmeted face is visible through the heat haze, looming above. The scene evokes underground traversal through a dangerous volcanic environment.
+
+**Subject:** A humanoid figure moves through a narrow fiery cavern passage, holding a bladed tool, with a masked or helmeted creature looming in the background shadows
+
+**Composition:** mid-shot, action, figures: duo, facing: three-quarter
+**Setting:** dungeon, indeterminate, fire
+**Foreground:** dark-clothed humanoid with bladed tool moving through fiery cavern  *(palette: amber, deep-orange, black, rust)*
+**Background:** lava-lit cavern walls, masked figure in shadow  *(palette: deep-orange, black, dark-red)*
+**Mood / lighting:** action, chiaroscuro
+**Emotion read:** urgency, danger, infiltration
+**Objects:** bladed-tool, lava-cracks, cavern-walls
+**Genre cues:** fantasy
+

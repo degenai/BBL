@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["mind-control", "extraction", "domination", "villain", "horror", "magic-violence", "soul", "predator", "robed-figure", "darkness"]
+tags_filter: ["duo", "wide", "narrative-mode", "three-quarter", "black-magic", "sorcery"]
 reference_image: cards/_images/magic-the-gathering/modern-horizons/96-mind-rake.png
 average_cost_paid: 0
 market_price: 0.11
@@ -29,6 +29,28 @@ oracle_text: Target player discards two cards.\nOverload {1}{B} (You may cast th
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: indeterminate
+setting: void
 ---
 
 # Mind Rake (Modern Horizons)
+
+## Vision
+
+![96-mind-rake](../../_images/magic-the-gathering/modern-horizons/96-mind-rake.png)
+
+A dark-robed figure hovers or crouches over a second figure who lies prostrate on the ground. From the prone figure, jagged red-orange energy tears outward in claw-like shreds — as though something is being forcibly extracted. The standing figure's posture is predatory, leaning forward over its victim. The background is a swirling dark teal-black cloud or void with red energy intermixed. The victim's clothing appears formal or noble — white and green tones visible. The overall image reads as violent mental or soul extraction from above.
+
+**Subject:** A dark-robed figure looming over a prone figure on the ground, clawed red energy tearing from the prone figure's body
+
+**Composition:** wide, narrative, figures: duo, facing: three-quarter
+**Setting:** void, indeterminate
+**Foreground:** Prone figure on ground with red energy tearing from body; dark-robed figure looming above  *(palette: red, orange, dark-brown, white)*
+**Background:** Dark teal-black void with red energy streaks  *(palette: dark-teal, black, red)*
+**Mood / lighting:** horror, chiaroscuro
+**Emotion read:** domination and helplessness — predator over victim
+**Objects:** robes
+**Iconography:** claw-energy, extraction
+**Genre cues:** fantasy
+

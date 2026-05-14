@@ -1,0 +1,28 @@
+{
+  "edge_id": "wave78-e4-hercule-potion-rule-retrofit",
+  "shape": "node-edit",
+  "topology": "in-place-retrofit",
+  "category": "potion-rule-retrofit",
+  "target_node": {
+    "type": "character",
+    "path": "cards/_characters/hercule.md",
+    "name": "Hercule (Mr. Satan)",
+    "line_retrofitted": "line 94 (See also -> son-goku cross-edge)"
+  },
+  "before": "The labor-and-credit relationship between Goku and Hercule is one of the franchise's clearest two-character apparatus-of-extraction articulations.",
+  "after": "Toriyama canonically authored the Goku-does-the-work / Hercule-takes-the-credit asymmetry across the Cell Games and Buu Saga; BBL reads this canonical asymmetry as the apparatus-of-extraction articulated at the two-character mortal-tier register — the canonical-event is Toriyama's villain-and-celebrity character-design, the curatorial overlay is BBL's labor-and-credit-uncoupling reading on top.",
+  "description": "Potion-rule retrofit. The 'franchise's clearest articulation of apparatus-of-extraction' phrasing claimed Toriyama articulated the BBL thesis. He did not. He authored the villain-and-celebrity character-design; BBL reads the apparatus-of-extraction overlay on top of his canonical-event. The retrofit names this distinction explicitly: canonical-event = Toriyama's character-design; curatorial-overlay = BBL's labor-and-credit-uncoupling reading. The overlay is visible per Potion-rule discipline. Single-cluster-per-wave pacing respected — the other 4 Potion-rule retrofit candidates (piccolo-jr line 86, aether-foundation line 37, xenoverse-villains line 69, xenoverse-villains additional) remain queued for subsequent waves.",
+  "citations": [
+    "[[_triple-thesis]] — Potion Rule section",
+    "[Dragon Ball manga: Cell Games + Buu Saga canonical Toriyama-authored character-design]"
+  ],
+  "files_modified": [
+    "cards/_characters/hercule.md (line 94)"
+  ],
+  "edgelord_mood": "enlightened-corrective",
+  "notes": [
+    "Single-cluster retrofit per the wave 77 audit's single-cluster-per-wave pacing rule.",
+    "Remaining Potion-rule retrofit queue: piccolo-jr.md:86, aether-foundation.md:37, xenoverse-villains.md:69, xenoverse-villains.md:additional. Will retrofit one per subsequent wave.",
+    "The retrofit preserves the canonical-evidence-grounded reading while making the BBL-overlay visible. No canonical-evidence claim is weakened; the overlay is named where it was previously implicit-as-canon."
+  ]
+}

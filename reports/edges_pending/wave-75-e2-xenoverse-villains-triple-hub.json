@@ -1,0 +1,26 @@
+{
+  "edge_id": "wave-75-e2-xenoverse-villains-triple-hub-attribution",
+  "shape": "1:N",
+  "category": "designer-confirmed-cycle",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/xenoverse-villains.md", "name": "Xenoverse Villains (Time Breakers)"},
+    {"type": "hub", "path": "cards/_hubs/labor.md", "name": "Labor (corrupted register)"},
+    {"type": "hub", "path": "cards/_hubs/rebellion.md", "name": "Rebellion (corrupted register)"},
+    {"type": "hub", "path": "cards/_hubs/stewardship.md", "name": "Stewardship (corrupted register)"}
+  ],
+  "description": "Triple-hub compression — the corpus's THIRD triple-attribution node and the FIRST where all three verbs land in their CORRUPTED register simultaneously. Towa's bio-engineering-of-Mira apparatus-of-extraction-via-manufacture (labor-corrupted), the Time Breakers' charter to corrupt-canon-itself rather than refuse-any-particular-apparatus (rebellion-corrupted, the aestheticized-refusal-of-the-given-for-personal-elevation maximum case), and Towa's scientist-mother-witch role oscillating between maternal-care register and weapons-development register (stewardship-corrupted, the aether-foundation register one scale up). Worth Behold-ing — the prior two triple-hubs (aether-rangers wave 60, theros-pantheon wave 74) both land at least one verb clean; this is the first all-three-corrupted triple. Bundle copy can lean on the complete-corruption-of-the-political-verb-triangle framing without inventing canon. Body augmented with a Triple-thesis attribution section enumerating the three corrupted-register verbs with canonical-evidence anchors.",
+  "citations": [
+    "[Dragon Ball Wiki: Time Breakers]",
+    "[Dragon Ball Wiki: Demigra]",
+    "[Dragon Ball Wiki: Towa]",
+    "[Dragon Ball Wiki: Mira]",
+    "[dbs-cardgame.com: BT4 Colossal Warfare design concept]",
+    "[BT4-121 Dark Kamehameha card text]",
+    "[[_triple-thesis]]"
+  ],
+  "files_modified": [
+    "cards/_characters/xenoverse-villains.md"
+  ],
+  "edgelord_mood": "satisfied"
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Rhizome Lurcher",
+  "game": "Magic: The Gathering",
+  "set": "Guilds of Ravnica",
+  "collector_number": "196",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Guilds of Ravnica (released October 5, 2018) returned to the city-plane, focusing on Dimir, Golgari, Izzet, Selesnya, and Boros. Rhizome Lurcher is a Common in the Golgari guild slot (watermark: Golgari), typed Fungus Zombie. [Scryfall: Rhizome Lurcher, released_at 2018-10-05, type_line Creature — Fungus Zombie, watermark golgari]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"The dead gain new purpose here. What is strange in the eyes of other guilds is harmonious in ours.\" — Devesh, Golgari shaman [Scryfall]. The quote is the canonical Golgari philosophical declaration: the guild does not see death as waste or contradiction, but as a resource transformation. The phrase 'new purpose' is the key: the dead are not mourned; they are composted.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Golgari Swarm's core philosophy: life and death are not opposing forces but a continuous cycle. The guild manages Ravnica's waste and unclaimed dead, and cultivates vast underground fungal farms for the city's food supply. Death feeds the living — literally. The Undergrowth mechanic (this card enters with +1/+1 counters equal to creature cards in your graveyard) mechanically encodes this directly: the more dead you have banked, the larger the creature that rises from them. [Golgari Swarm — MTG Wiki, via WebSearch; Scryfall oracle text]",
+      "sources": ["MTG Wiki: Golgari Swarm, via WebSearch", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rhizome Lurcher enters as a base 2/2 that scales to a 2+N/2+N based on graveyard creature count. In dedicated Undergrowth or self-mill strategies, this is a substantially undercosted threat for 4 mana. EDHREC rank 17205 [Scryfall]; Pauper-legal and Paupercommander-legal. Artist: Mathias Kollros [Scryfall].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Charnel Troll", "set": "Guilds of Ravnica", "note": "Golgari rare with Undergrowth trigger — same set, same mechanic"},
+    {"name": "Lotleth Giant", "set": "Guilds of Ravnica", "note": "Golgari Undergrowth common — damage scales with graveyard; sister card in the Undergrowth cycle"},
+    {"name": "Izoni, Thousand-Eyed", "set": "Guilds of Ravnica", "note": "Golgari Undergrowth legendary — spawns insects equal to graveyard count; thematic apex of the mechanic"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

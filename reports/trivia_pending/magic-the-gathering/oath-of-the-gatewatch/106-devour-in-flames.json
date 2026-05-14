@@ -1,0 +1,42 @@
+{
+  "card_name": "Devour in Flames",
+  "game": "Magic: The Gathering",
+  "set": "Oath of the Gatewatch",
+  "collector_number": "106",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Flavor text on the card itself names 'Chandra Nalaar' explicitly. Scryfall oracle_id confirms this is the OGW printing. Chandra is a Wizards-internal planeswalker (not external IP). ip_verified set to true, ip_confidence raised to high.",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text reads: 'Ob Nixilis had prepared for every eventuality—except Chandra Nalaar.' [Scryfall] — The card names Chandra directly, confirming the depicted figure is her. This moment refers to Chandra's rescue of Gideon, Jace, and Nissa from Ob Nixilis on Zendikar, the encounter that led to the formation of the Gatewatch. [WebSearch: magic.wizards.com/en/news/magic-story/oath-gatewatch-2016-02-03]",
+      "sources": ["Scryfall", "magic.wizards.com: Oath of the Gatewatch story article"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Devour in Flames is a red sorcery from Oath of the Gatewatch (OGW, January 2016), the second set of the Battle for Zendikar block. The set chronicles the Gatewatch's founding and the defeat of the Eldrazi titans Ulamog and Kozilek on the plane of Zendikar. [Scryfall set data]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's additional cost — returning a land to hand — represents the chaotic, resource-burning nature of Chandra's power. As a 5-damage sorcery for 3 mana (net land cost), it sits at the high end of efficient red removal against creatures and planeswalkers. EDHREC rank 23986 indicates limited Commander presence. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Svetlin Velinov. Velinov is a Bulgarian fantasy illustrator with a substantial MTG portfolio spanning multiple sets. This is his only OGW card credit per Scryfall. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ob Nixilis Reignited", "set": "Battle for Zendikar", "note": "The antagonist named in the flavor text; the encounter depicted is their direct conflict"},
+    {"name": "Chandra, Torch of Defiance", "set": "Kaladesh", "note": "Major Chandra planeswalker card in the same era of the storyline"},
+    {"name": "Chandra Nalaar", "set": "Magic 2012", "note": "Original Chandra planeswalker card bearing her full name"},
+    {"name": "Oath of Chandra", "set": "Oath of the Gatewatch", "note": "Same set; depicts Chandra's oath to the Gatewatch"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Chandra Nalaar",
+    "ip_confidence": "high"
+  }
+}

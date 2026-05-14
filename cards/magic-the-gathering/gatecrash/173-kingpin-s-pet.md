@@ -55,3 +55,15 @@ A compact, grotesque creature with large bat-like wings, a hunched wrinkled body
 **Iconography:** chain, collar
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Gatecrash (released February 1, 2013) is the second set in the Return to Ravnica block, spotlighting five guilds including the Orzhov Syndicate. Kingpin's Pet is a Common in the Orzhov slot (watermark: Orzhov), typed Creature — Thrull. [Scryfall: released_at 2013-02-01, set_name Gatecrash, watermark orzhov]
+- **Flavor text** — "Debt and death sound so similar, and thrulls are so hard of hearing. Mistakes are inevitable." — Milana, Orzhov prelate [Scryfall]. The quote makes the guild's extractive theology explicit: in the Orzhov Syndicate's legal framework, debt and death are functionally interchangeable — those who cannot repay become thrulls, and death does not dissolve the contract.
+- **Thrull lore** — Thrulls are constructed from the remnants of past debtors: flesh melted down, recombined, and reborn as mindless servants. They occupy the absolute bottom of the Orzhov hierarchy. The gold chain collar and spiked foot-rings visible on Kingpin's Pet are canonical Orzhov thrall-aesthetic markers — visual indicators of ownership embedded in the creature's body. Skilled death-priests (thrull-fashioners) create flying variants like this one for use as couriers and mounts. [MTG Wiki: Orzhov Syndicate, via WebSearch]
+- **Mechanical context** — Extort (the Orzhov mechanic in Gatecrash): whenever you cast a spell, pay {W/B} optionally; each opponent loses 1 life and you gain that much. The mechanic mechanically literalizes extractive theology — every action the Orzhov take bleeds opponents and enriches the caster. EDHREC rank 17328 [Scryfall]; Pauper-legal and Paupercommander-legal.
+
+### Related cards
+- Tithe Drinker (Dragon's Maze) — Orzhov vampire with Extort; same guild, same extraction mechanic
+- Basilica Screecher (Gatecrash) — Orzhov flying creature with Extort from the same set
+- Crypt Ghast (Gatecrash) — Orzhov Extort engine rare; same block and guild
+

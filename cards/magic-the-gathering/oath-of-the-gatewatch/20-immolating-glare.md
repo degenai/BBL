@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["light", "divine", "power", "sacrifice", "sublime", "isolation", "scale", "sky", "desert", "destruction", "lone-figure"]
+tags_filter: ["solo", "wide", "narrative", "forward-facing", "white-magic", "instant", "no-face"]
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/20-immolating-glare.png
 average_cost_paid: 0
 market_price: 0.08
@@ -30,18 +30,28 @@ oracle_text: Destroy target attacking creature.
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: sublime
+time_of_day: day
+setting: desert
 ---
 
 # Immolating Glare (Oath of the Gatewatch)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![20-immolating-glare](../../_images/magic-the-gathering/oath-of-the-gatewatch/20-immolating-glare.png)
 
+A wide shot establishes massive scale disparity: a tiny lone humanoid figure stands at the base of two angled rock formations, arms slightly raised, while above them an enormous bloom of white light erupts outward in branching tendrils. Around the central blast, several smaller winged shapes or fragments are scattered — silhouetted against the bright light. The ground is arid and flat. The sky behind is pale yellow-gold. The mood is one of divine or elemental power dwarfing the individual below. No facial details are visible at this scale.
 
-**Subject:** 
+**Subject:** A solitary small figure stands between two rock formations as an enormous burst of white radiant energy explodes overhead, with winged shapes scattered around the blast
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, narrative, figures: solo, facing: forward
+**Setting:** desert, day
+**Foreground:** tiny humanoid figure between two rock formations, arms raised  *(palette: ochre, dark-brown, silhouette-black)*
+**Background:** massive white radiant burst, pale gold sky, winged fragments  *(palette: white, pale-gold, light-gray)*
+**Mood / lighting:** sublime, backlit
+**Emotion read:** overwhelm, awe, the individual before cosmic power
+**Objects:** radiant-energy-burst, rock-formations
+**Iconography:** radiant-light, wings-silhouettes
+**Genre cues:** fantasy
 

@@ -91,7 +91,7 @@ This is what BBL's bundle copy can lean on without inventing canon: Hercule is, 
 
 ## See also
 
-- [[son-goku]] — sibling individual-character node; the canonical Z-Fighter whose Cell Games and Buu Saga combat-labor Hercule's credit-theft canonically rests on. Goku defeats Kid Buu (with Vegeta's assistance); the Z-Fighters consent to Hercule's public credit-claim because Goku has no interest in celebrity status. The labor-and-credit relationship between Goku and Hercule is one of the franchise's clearest two-character apparatus-of-extraction articulations.
+- [[son-goku]] — sibling individual-character node; the canonical Z-Fighter whose Cell Games and Buu Saga combat-labor Hercule's credit-theft canonically rests on. Goku defeats Kid Buu (with Vegeta's assistance); the Z-Fighters consent to Hercule's public credit-claim because Goku has no interest in celebrity status. Toriyama canonically authored the *Goku-does-the-work / Hercule-takes-the-credit* asymmetry across the Cell Games and Buu Saga; BBL reads this canonical asymmetry as the apparatus-of-extraction articulated at the two-character mortal-tier register — the canonical-event is Toriyama's villain-and-celebrity character-design, the curatorial overlay is BBL's labor-and-credit-uncoupling reading on top.
 
 - [[pan]] — sibling individual-character node; Hercule's granddaughter via Videl + Gohan. The three-generation Hercule-side family-tree (Hercule → Videl → Pan) extends canonically across the Z / Super / GT continuity.
 

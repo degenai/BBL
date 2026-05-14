@@ -1,0 +1,35 @@
+{
+  "card_name": "Frieza // Bionic Strike Mecha Frieza",
+  "game": "Dragon Ball Super",
+  "set": "Promotion Cards",
+  "collector_number": "P-028",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Frieza // Bionic Strike Mecha Frieza'. Both sides of the flip card are named after Frieza. The card art (per Vision section) shows Frieza's distinctive pale-skinned alien Frieza-clan face — no ambiguity. Frieza is a Bandai/Toei Animation-owned character, not a Wizards-internal character. ip_verified set to true, ip_confidence raised to high. External IP callout block warranted.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "P-028 is a DBS Card Game Promotion Card — a distributed promo, not part of a standard booster set. The card is a Leader flip card: the base side is 'Frieza' and the awakened side is 'Bionic Strike Mecha Frieza.' Mecha Frieza is the mechanically-rebuilt form of Frieza following his death at the hands of Future Trunks in the Dragon Ball Z Trunks Saga. [Verified IP: Bandai/Toei Animation]",
+      "sources": ["Card name text", "WebSearch: dbs-cardgame.com P-028 strategy page"]
+    },
+    {
+      "category": "mechanical",
+      "text": "P-028 was added to the official DBS Card Game Watch List due to its role in enabling turn-two kill strategies. The Bionic Strike Mecha Frieza awakened side reduced Extra Card costs while generating card advantage via life trading, enabling powerful plays like BT3-003 Victorious Fist Super Saiyan 3 Son Goku by turn two. Bandai subsequently issued errata to P-028's [Permanent] skill. [WebSearch: dbs-cardgame.com/us-en/strategy/errata/p028-frieza.php]",
+      "sources": ["WebSearch: DBS Card Game official errata page for P-028"]
+    },
+    {
+      "category": "design",
+      "text": "As a promo Leader card, P-028 was distributed through event or store channels rather than booster packs — the image resolution in inventory (260x363, low quality) reflects the source image from dbs-cardgame.com's promotional image hosting, not a full-resolution scan. [Scryfall-equivalent: dbs-cardgame.com card image]",
+      "sources": ["card frontmatter: image_quality: low, reference_image_source_url"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Frieza, Emperor of Universe 7", "set": "Galactic Battle BT1", "note": "BT1-era standard Frieza Leader card for comparison"},
+    {"name": "Mecha Frieza", "set": "various DBS sets", "note": "Multiple printings of the mechanized form across the card game's history"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Frieza",
+    "ip_confidence": "high"
+  }
+}

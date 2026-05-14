@@ -1,0 +1,36 @@
+{
+  "card_name": "Stoneforge Acolyte",
+  "game": "Magic: The Gathering",
+  "set": "Oath of the Gatewatch",
+  "collector_number": "38",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The 'Stoneforge' name is a deliberate echo of Stoneforge Mystic — one of the most powerful Equipment tutors ever printed (banned in Modern, restricted in Legacy). Stoneforge Acolyte's Cohort version of the same ability (look at top 4, find Equipment) is a significantly weaker version gated behind the Ally synergy requirement. The naming is a flavor connection: the Kor's tradition of crafting and wielding magical weapons stretches across multiple Zendikar sets. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"The stone speaks. We are merely interpreters.\" [Scryfall] The line frames the Kor forge-craft as receptive rather than creative — the craftsperson listens to the material rather than imposing a design on it. This is consistent with Kor culture across Zendikar story materials, where craft and spiritual practice are intertwined.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Cohort Equipment tutor: tap this and an untapped Ally to look at the top 4 cards and pull an Equipment card to hand. The ability is uncommon-only and has no reprint — it's a single-printing card. EDHREC rank 22471. In Pauper Commander, Stoneforge Acolyte has been used as a commander for voltron-style Equipment builds, exploiting its built-in Equipment-search as a repeatable value engine. [Scryfall; WebSearch: moxfield.com Pauper EDH deck snippet]",
+      "sources": ["Scryfall", "moxfield.com via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Stoneforge Mystic", "set": "Worldwake", "note": "The iconic predecessor; same Equipment-tutor function but dramatically more powerful and format-banned"},
+    {"name": "Spawnbinder Mage", "set": "Oath of the Gatewatch", "note": "Sister OGW Cohort Ally in inventory; shared Cohort design space"},
+    {"name": "Kor Artificer", "set": "Various Zendikar sets", "note": "Kor creature type context; the artificer subtype connects to the forge-craft Kor tradition"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

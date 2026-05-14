@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/e/7/e792e689-0cf
 mood: sublime
 time_of_day: indeterminate
 setting: mountain
+characters: [iona]
 artist: Mike Bierek
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/25-iona-s-judgment--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/7/e792e689-0cf8-4bd0-b2f1-4edff9972e18.jpg?1608908809
@@ -53,3 +54,13 @@ A solitary robed figure with hood drawn stands in profile on a low hill or rocky
 **Iconography:** divine-light, judgment-beam, angelic-silhouette
 **Genre cues:** fantasy, religious, high-fantasy
 
+## Trivia
+
+- **Set / design context** — Iona's Judgment originated in Worldwake (February 2010), not OGW. `[Scryfall: prints search]` This Commander Legends printing (November 2020) is a reprint. Commander Legends was the first booster set designed specifically for Commander draft — an innovation that gave otherwise-overlooked cards like this one unusual format exposure. `[Scryfall]`
+- **Flavor text** — "Beneath the gaze of angels, only the righteous may stand without fear." `[Scryfall]` — The phrase presents divine certainty. Iona's actual lore trajectory undermines it: she was ultimately powerless against the colorless Eldrazi, and her legacy ironically served as a tool for their cause. `[WebSearch: Iona MTG Fandom page snippet]` The older flavor text predates that tragic arc.
+- **Mechanical note** — Exile target creature or enchantment for 4W sorcery. The dual targeting (creatures OR enchantments) at 5 mana is less efficient than dedicated white exile spells but broader. Pauper-legal, penny-legal, predh-legal. EDHREC rank 22533. `[Scryfall]`
+
+### Related cards
+- Iona, Shield of Emeria (Zendikar) — the named source character; a 9-mana legendary angel banned in Legacy
+- Iona's Blessing (Oath of the Gatewatch) — also in inventory; sister Iona-named card
+- Banishing Light (Journey into Nyx) — more efficient white exile enchantment; common comparison in the same removal slot

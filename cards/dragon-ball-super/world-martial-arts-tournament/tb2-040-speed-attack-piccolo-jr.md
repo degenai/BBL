@@ -30,6 +30,7 @@ setting: void
 suspected_ip: Piccolo (Dragon Ball)
 ip_confidence: high
 ip_verified: true
+characters: [piccolo-jr, namekian]
 ---
 
 # Speed Attack Piccolo Jr. (World Martial Arts Tournament)

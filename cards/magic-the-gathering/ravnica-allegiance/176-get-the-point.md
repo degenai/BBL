@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["circus", "mask", "death", "pinned", "blood", "pattern", "violence", "spectacle", "rakdos", "starburst"]
+tags_filter: ["solo", "close-up", "narrative", "overhead-view", "multicolor-black-red", "instant", "no-face"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/176-get-the-point.png
 average_cost_paid: 0
 market_price: 0.06
@@ -30,18 +30,28 @@ oracle_text: Destroy target creature. Scry 1.
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Get the Point (Ravnica Allegiance)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![176-get-the-point](../../_images/magic-the-gathering/ravnica-allegiance/176-get-the-point.png)
 
+The image is viewed from directly above, looking down onto a figure lying spread-eagle on what appears to be a checkered circus tent floor of red and blue-purple. The figure wears a pale, featureless mask and has arms flung wide. Dozens of small dark spike-like projectiles radiate outward from the figure's body and across the surface, several appear to have pierced the fabric around it. Blood spatters are visible on the checkered material. The composition creates a strong wheel or starburst pattern with the figure at the center. The framing and palette are unmistakably Rakdos circus aesthetic.
 
-**Subject:** 
+**Subject:** A figure pinned to a circus tent floor by a swarm of spike-like projectiles, arms outstretched, face obscured by a pale mask
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** close-up, narrative, figures: solo, facing: away
+**Setting:** indoor, indeterminate
+**Foreground:** masked figure pinned spread-eagle on a checkered surface, surrounded by spike projectiles  *(palette: crimson, deep red, blue-purple, pale ivory)*
+**Background:** checkered red and purple tent fabric extending to frame edges  *(palette: crimson, cobalt purple, dark shadow)*
+**Mood / lighting:** horror, harsh
+**Emotion read:** victim, pinned, helpless
+**Objects:** mask, spike projectiles, checkered tent floor
+**Iconography:** starburst pattern, mask
+**Genre cues:** fantasy, dark circus
 

@@ -30,6 +30,7 @@ setting: void
 suspected_ip: Jackie Chun / Master Roshi (Dragon Ball)
 ip_confidence: high
 ip_verified: true
+characters: [master-roshi]
 ---
 
 # Unyielding Victory Jackie Chun (World Martial Arts Tournament)

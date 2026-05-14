@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["stone", "earth", "awakening", "ruins", "elemental", "scale", "landscape", "siege", "fortress", "power"]
+tags_filter: ["none", "wide", "narrative", "white-magic", "creature-elemental", "no-face", "scene-mode"]
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/39-wall-of-resurgence.png
 average_cost_paid: 0
 market_price: 0.06
@@ -28,6 +28,28 @@ oracle_text: Defender\nWhen this creature enters, you may put three +1/+1 counte
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: sublime
+time_of_day: day
+setting: mountain
 ---
 
 # Wall of Resurgence (Oath of the Gatewatch)
+
+## Vision
+
+![39-wall-of-resurgence](../../_images/magic-the-gathering/oath-of-the-gatewatch/39-wall-of-resurgence.png)
+
+A towering cliff or rock mass dominates the frame, draped in hanging vegetation and covered in geometric carved or etched patterns. To the left, two large luminous blue triangular shapes — clearly magical constructs or debris — float in the air. Smaller stones and rubble hang suspended mid-air around the cliff face. At the base, a vast ruined plain extends to the horizon, marked by a mosaic-like pattern of interlocking shapes. The overall scene reads as geological-scale upheaval or a land mass awakening. Tiny humanoid figures are barely visible on the plain below, emphasizing the monumental scale.
+
+**Subject:** A massive cliff or rock formation animating and rising, flanked by blue geometric floating shapes, with a ruined landscape below
+
+**Composition:** wide, narrative, figures: none, facing: n/a
+**Setting:** mountain, ruined, day, fog
+**Foreground:** base of the towering cliff with ruined patterned ground  *(palette: gray-green, teal, stone gray)*
+**Background:** cliff face with carved patterns, blue floating geometric shapes, hazy sky  *(palette: pale blue, gray, green-gray, blue)*
+**Mood / lighting:** sublime, ambient
+**Emotion read:** awe, upheaval
+**Objects:** floating-stones, geometric-shapes, cliff-face
+**Iconography:** geometric-patterns, blue-triangles, carved-stone
+**Genre cues:** fantasy
+

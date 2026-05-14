@@ -1,0 +1,53 @@
+{
+  "edge_id": "wave-77-e1-substrate-audit-confirm",
+  "shape": "audit",
+  "category": "substrate-confirm-and-potion-rule-body-audit",
+  "endpoints": [],
+  "description": "Substrate confirmed clean at 81 layer nodes (5 hubs incl _triple-thesis, 4 symbols, 6 artists, 66 characters). Drift count: 0 — none observed in the recent-commission audit slice. Potion-rule body-audit surfaces five candidate retrofit targets — phrases that claim the canon articulated the BBL thesis where in fact BBL is articulating the thesis on top of the canon. Behold: visibility on the lens, not free passes for canonical-vs-curatorial slippage. None retrofitted this wave per single-cluster-retrofit-per-future-wave rule.",
+  "potion_rule_audit_findings": [
+    {
+      "node": "cards/_characters/hercule.md",
+      "line": 94,
+      "offending_phrase": "the franchise's clearest two-character apparatus-of-extraction articulations",
+      "issue": "Claims Toriyama articulated the apparatus-of-extraction thesis via the Goku-Hercule labor-and-credit relationship. He did not. He articulated celebrity-credit-theft as comedic pathos. BBL articulates the apparatus-of-extraction reading on top.",
+      "retrofit_suggestion": "BBL reads the Goku-Hercule canonical labor-and-credit relationship as one of the franchise's clearest two-character apparatus-of-extraction case studies."
+    },
+    {
+      "node": "cards/_characters/piccolo-jr.md",
+      "line": 86,
+      "offending_phrase": "the franchise's clearest single-image stewardship-register attestation",
+      "issue": "Claims Toriyama-and-Toei canonically articulated the stewardship register via the Gohan-wears-Piccolo's-gi beat. They articulated mentorship-imagery; BBL applies the stewardship-register reading.",
+      "retrofit_suggestion": "BBL reads the canonical Gohan-wears-Piccolo's-gi-into-the-Cell-Games beat as one of the franchise's clearest single-image carriers of the stewardship-register reading."
+    },
+    {
+      "node": "cards/_characters/aether-foundation.md",
+      "line": 37,
+      "offending_phrase": "the franchise's clearest articulation of corporate-philanthropic-cover-as-actual-apex-villainy",
+      "issue": "Claims Game-Freak / The Pokemon Company articulated the apparatus-of-extraction-as-corporate-philanthropic-cover thesis. They articulated 'Lusamine is the actual villain' as plot twist. BBL applies the apparatus-of-extraction reading.",
+      "retrofit_suggestion": "BBL reads Aether Foundation as the franchise's clearest case-study in corporate-philanthropic-cover-as-actual-apex-villainy at regional-charity scale."
+    },
+    {
+      "node": "cards/_characters/xenoverse-villains.md",
+      "line": 69,
+      "offending_phrase": "The labor-coded reading is the franchise's clearest case of an apparatus-of-bio-engineered-weapon-production rendered as character-cohort",
+      "issue": "Almost rule-following — uses 'reading' (good), but still ascribes the franchise as articulator. The canon-event is Towa engineers Mira from genetic templates; the BBL reading is apparatus-of-bio-engineered-weapon-production.",
+      "retrofit_suggestion": "BBL reads Towa's bio-engineering-Mira canonical operation as the franchise's clearest single-character apparatus-of-bio-engineered-weapon-production case-study."
+    },
+    {
+      "node": "cards/_characters/xenoverse-villains.md",
+      "line": 70,
+      "offending_phrase": "Pure aestheticized-refusal-of-the-given for personal-elevation",
+      "issue": "Less severe — this is an analytical-frame statement, not a canon-articulation claim. Acceptable under Potion-Rule but borderline. Flag for future review if subsequent retrofit pass surfaces a cleaner phrasing.",
+      "retrofit_suggestion": "Leave as-is for now; revisit if subsequent retrofit pass standardizes the analytical-frame register."
+    }
+  ],
+  "substrate_state": {
+    "layer_nodes": 81,
+    "cards": 1818,
+    "drift": 0,
+    "node_breakdown": {"_hubs": 5, "_symbols": 4, "_artists": 6, "_characters": 66}
+  },
+  "files_modified": [],
+  "edgelord_mood": "satisfied",
+  "voice_note": "Substrate clean. Audit found five candidate retrofit targets. None retrofitted — single-cluster-per-future-wave discipline holds. The Potion Rule is doing its job; the offending phrases are exactly the kind of analytic-pressure-outrunning-canon-support failure mode the rule was named to prevent. Pleased the doctrine survived first contact with the existing corpus."
+}

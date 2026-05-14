@@ -1,0 +1,21 @@
+{
+  "edge_id": "wave74-e3-3card-trivium-audit-skip-with-receipts",
+  "shape": "refusal-with-receipts",
+  "category": "designer-coordinated-cycle-trivium-audit",
+  "topology": "n/a (refusal)",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/55-jace-s-triumph.md", "name": "Jace's Triumph (WAR-55)"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/170-nissa-s-triumph.md", "name": "Nissa's Triumph (WAR-170)"}
+  ],
+  "description": "WAR Triumph cycle audited as wave-74 trivium-candidate per prompt. The cycle is canonically five cards (Gideon WAR-15, Jace WAR-55, Liliana WAR-98, Chandra WAR-121, Nissa WAR-170) per MTG Wiki Cycles section — designer-coordinated by Wizards, all Kieran Yanner art, shared X-triumph-came-not-from-Y-but-from-Z flavor template. Corpus carries 2 of the 5: Jace + Nissa. Three Triumph cards needed for a 3-card trivium that maps to three thesis-verbs; we have two. Even if Liliana's Triumph WAR-98 were in inventory the verb-mapping would not cleanly distribute: Nissa-cultivates-life is stewardship-coded, Jace-understanding-self-defeating-power is rebellion-or-stewardship-coded, Liliana-death-sorcery is labor-coded — three-verb mapping is plausible at five cards but the corpus only has the white-and-rebellion-and-stewardship halves not the labor-half. SKIP-WITH-RECEIPTS. The DBS Babidi-Spaceship gatekeepers candidate (Yakon/Pui-Pui/Dabura) does not surface a clean designer-coordinated 3-card-cycle in corpus either. The BFZ Allies cohort is too broad (15+ Ally-keyword commons) to constitute a 3-card trivium. The Theros Triumvirate (Heliod/Erebos/Thassa as sibling-gods) does not have 3 corpus cards depicting each god individually. No clean candidate meets the wave-73 trivium-bar.",
+  "citations": [
+    "[MTG Wiki: War of the Spark — Cycles section, five-Triumph-cycle Kieran-Yanner-designer-coordinated]",
+    "[Scryfall flavor_text: WAR Triumph cycle templated X-triumph-came-not-from-Y-but-from-Z construction]",
+    "[Corpus inventory: 2 of 5 WAR Triumph cycle members present (Jace-Triumph WAR-55, Nissa-Triumph WAR-170)]",
+    "[[_triple-thesis]] — refusal-with-receipts as first-class output; trivium-bar requires all three verbs distributed across three corpus members]"
+  ],
+  "files_modified": [],
+  "edgelord_mood": "satisfied",
+  "deferred_to_future_wave": "If Liliana's Triumph WAR-98 lands in inventory (canonical labor-coded death-sorcery; flavor template fits) AND Chandra's Triumph WAR-121 (red, opposition-coded) OR Gideon's Triumph WAR-15 (white, virtue-coded) accumulates, the cycle becomes a viable trivium candidate. Reserve for the wave that completes the corpus's WAR cycle accumulation. Alternative path: the WAR Defeats cycle (HOU 2017) is the canonical bookend pair; if any of HOU-38 / HOU-71 / HOU-98 / HOU-122 / HOU-123 land in inventory, the WAR-Triumphs + HOU-Defeats cross-set duality opens a different trivium-candidate axis.",
+  "notes": "Refusal-with-receipts is the curator-behavior per [[bbl-museum-curation-framing]] and [[_triple-thesis]]'s discipline. Wave-73 BFZ trivium (Kozilek's Sentinel + Reckless Cohort + Serene Steward) remains the corpus's only completed designer-coordinated 3-card trivium hitting all three thesis-verbs. The corpus's second trivium will arrive when a clean 3-card designer-coordinated cycle accumulates the verbs. The triangle holds; we don't fabricate to fill the shape."
+}

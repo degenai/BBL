@@ -18,7 +18,9 @@ appears_on:
   - dragon-ball-super/colossal-warfare/bt4-066-dark-vassal-drum
   - dragon-ball-super/colossal-warfare/bt4-068-special-beam-cannon
   - dragon-ball-super/colossal-warfare/bt4-070-sacrifice
+  - dragon-ball-super/galactic-battle/bt1-045-boost-attack-piccolo
   - dragon-ball-super/world-martial-arts-tournament/tb2-027-begrudging-respect-piccolo
+  - dragon-ball-super/world-martial-arts-tournament/tb2-040-speed-attack-piccolo-jr
 related_hubs: []
 related_symbols: []
 related_characters: [son-goku, trunks, wrath-of-the-dragon-saga, dark-vassal-trio, universe-6-tournament-cohort, son-gohan]

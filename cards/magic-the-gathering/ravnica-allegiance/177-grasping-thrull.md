@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["thrull", "mask", "wings", "flying", "debt-collector", "pigeon", "city", "monster", "grotesque", "golden-face", "orzhov"]
+tags_filter: ["solo", "mid-shot", "action", "multicolor-white-black", "creature-zombie-bird"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/177-grasping-thrull.png
 average_cost_paid: 0
 market_price: 0.06
@@ -29,6 +29,29 @@ oracle_text: Flying\nWhen this creature enters, it deals 2 damage to each oppone
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: indeterminate
+setting: urban
 ---
 
 # Grasping Thrull (Ravnica Allegiance)
+
+## Vision
+
+![177-grasping-thrull](../../_images/magic-the-gathering/ravnica-allegiance/177-grasping-thrull.png)
+
+A grotesque creature dominates the center of the image in mid-flight. Its body is leathery and bat-winged, brown-bronze in color, with large membranous wings spread wide. Its face is a smooth, elongated golden mask-like visage with a wide open jaw showing teeth — unsettling and expressionless. The creature's lower limbs end in grasping claws. Several ordinary grey pigeons fly alongside and around it, incongruously domestic next to the monstrous form. Below, a hazy city skyline of pale towers and domes is visible in the foggy distance. The sky is diffuse grey-gold. The contrast between mundane birds and the thrull reads as darkly comedic.
+
+**Subject:** A winged thrull creature with a golden mask-face soaring above a city, surrounded by pigeons
+
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** urban, indeterminate, fog
+**Foreground:** leathery bat-winged creature with golden mask-face, claws extended  *(palette: brown, bronze, golden yellow, grey)*
+**Background:** hazy city skyline and diffuse pale sky, pigeons in flight  *(palette: pale grey, warm gold, muted tan)*
+**Mood / lighting:** horror, soft
+**Emotion read:** predatory, uncanny, mask-faced blankness
+**Objects:** mask
+**Creatures:** thrull, bat-wings, pigeons
+**Iconography:** mask, golden face
+**Genre cues:** fantasy, dark fantasy
+

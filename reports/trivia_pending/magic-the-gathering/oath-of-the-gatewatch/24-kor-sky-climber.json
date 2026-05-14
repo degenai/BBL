@@ -1,0 +1,36 @@
+{
+  "card_name": "Kor Sky Climber",
+  "game": "Magic: The Gathering",
+  "set": "Oath of the Gatewatch",
+  "collector_number": "24",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Kor of Zendikar are nomadic cliff-dwellers who are masters of ropes and hooks, using them for travel, hunting, and spirituality. A hooked line is a sacred symbol representing connection to each other and to the world. They 'rarely use unreliable devices such as crossbows to propel their grappling hooks' — skill of arm over mechanism. [WebSearch: Kor MTG Wiki via coolstuffinc ecology article] The flavor text — 'With rope, I can fly as far as the rope can reach. But with light, the sky is the limit.' — captures this philosophy: tool-mastery as foundation, light/spirit as transcendence. [Scryfall]",
+      "sources": ["Scryfall", "WebSearch: Ecology of the Kor, CoolStuffInc"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Kor Sky Climber is a 3/2 Kor Soldier Ally for 2W with a pay-1W activated flying ability. The stat line is aggressively costed for white commons; the flying activation makes it a threat that demands an answer. Pauper-legal and penny-legal. [Scryfall] EDHREC rank 28868 reflects its role as a draft staple rather than a Commander card.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Victor Adame Minguez, a Spanish illustrator with extensive MTG credits. This is one of his OGW commissions. [Scryfall] The sunset color palette (deep purple, warm orange) against the Kor's pale skin and glowing golden energy lines is a visual signature of the Zendikar art direction in this block.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kor Hookmaster", "set": "Zendikar", "note": "Original Kor hook-and-rope warrior card from Zendikar"},
+    {"name": "Kor Skyfisher", "set": "Zendikar", "note": "Classic Kor flying-adjacent card; long Modern/Pauper playable"},
+    {"name": "Kor Spiritdancer", "set": "Rise of the Eldrazi", "note": "Same race, same block era; top-tier Kor card for enchantment synergy"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

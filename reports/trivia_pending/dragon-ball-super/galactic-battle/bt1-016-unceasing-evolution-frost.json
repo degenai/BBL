@@ -1,0 +1,42 @@
+{
+  "card_name": "Unceasing Evolution Frost",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-016",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names Frost. The Frieza-race teal/white dome-headed figure with compact body is Frost's canonical visual identifier — his mid-form transformation matches his Tournament of Destroyers appearance in Dragon Ball Super anime. IP verified via explicit card name and canonical visual identifiers.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Galactic Battle (BT1) released July 28, 2017 as the debut booster set for the Dragon Ball Super Card Game, containing 114 cards. Frost appears here as a Common alongside fellow Universe 6 Tournament of Destroyers representatives, placing him in the inaugural wave of DBS-TCG characters. [WebSearch: Galactic Battle release date / Bleeding Cool checklist]",
+      "sources": ["WebSearch: Galactic Battle BT1 release 2017"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Frost is a Galactic Overlord of Universe 6 and a member of Frieza's Race — he publicly positioned himself as a peacemaker ending galactic wars, while secretly instigating those same conflicts for profit. His true nature was exposed during the Tournament of Destroyers. [Dragon Ball Wiki: Frost, via WebSearch; Villains Wiki: Frost, via WebSearch]",
+      "sources": ["Dragon Ball Wiki (WebSearch snippet)", "Villains Wiki (WebSearch snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "At the Tournament of Destroyers, Frost defeated Goku by injecting him with a concealed wrist-needle poison (a sedative toxin), then kicked the drowsy Goku out of the ring. He later used the same poison to eliminate Piccolo. Jaco identified the cheating; Frost was disqualified and Goku's elimination was retroactively reversed. This is the canonical citation for Frost's rule-cheating — it is Z-villainy via deception, not political resistance. [Dragon Ball Wiki: Tournament of Destroyers, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: Tournament of Destroyers (WebSearch snippet)", "ComicBook.com Dragon Ball Super episode 33-34 recap (WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "The card title 'Unceasing Evolution' references Frost's transforming nature — Frieza-race members evolve through transformation states (similar to Frieza's four forms). At the Tournament of Destroyers, Frost ultimately reached his full power form against Vegeta. [Dragon Ball Wiki: Frost, via WebSearch]",
+      "sources": ["Dragon Ball Wiki (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Botamo of Universe 6", "set": "Galactic Battle (BT1-019)", "note": "Same set, same Universe 6 Tournament cohort"},
+    {"name": "Hit", "set": "Galactic Battle and later sets", "note": "Universe 6 team member at Tournament of Destroyers; cohort anchor"},
+    {"name": "Cabba", "set": "Galactic Battle and later sets", "note": "Universe 6 Saiyan fighter; same Tournament of Destroyers team as Frost"},
+    {"name": "Frieza (various forms)", "set": "Multiple sets", "note": "Frost is a Universe 6 Frieza-race analogue — same species, parallel narrative arc"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -30,7 +30,7 @@ setting: void
 suspected_ip: Piccolo
 ip_confidence: high
 ip_verified: true
-characters: [namekian]
+characters: [piccolo-jr, namekian]
 ---
 
 # Begrudging Respect Piccolo (World Martial Arts Tournament)

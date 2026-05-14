@@ -1,0 +1,36 @@
+{
+  "card_name": "Allied Reinforcements",
+  "game": "Magic: The Gathering",
+  "set": "Oath of the Gatewatch",
+  "collector_number": "15",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Our formation was scattered after Sea Gate fell. If you're fighting the Eldrazi, consider us your newest recruits.' [Scryfall] — Sea Gate was the largest city on Zendikar's continent of Tazeem, described as the center of commerce and learning before its fall during the Eldrazi assault. [WebSearch: Sea Gate MTG Wiki] The speaker is an unnamed Knight Ally joining forces against the Eldrazi — exactly the two Knight Ally tokens this card creates.",
+      "sources": ["Scryfall", "WebSearch: Sea Gate MTG Wiki"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Allied Reinforcements creates two 2/2 white Knight Ally tokens for 3W. As a token doubler for Ally-tribal strategies, it synergizes with Ally enter-the-battlefield triggers. EDHREC rank 18970 and penny-dreadful legal. [Scryfall] The related token card is officially part of the same Scryfall record.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Matt Stewart, a prolific MTG illustrator with credits across dozens of sets. The mounted charge composition depicts two distinct mount types — a boar and a horse — suggesting the Ally coalition draws fighters from multiple peoples of Zendikar. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ally Encampment", "set": "Battle for Zendikar", "note": "Core Ally-tribal support land from the same block"},
+    {"name": "Sea Gate Wreckage", "set": "Oath of the Gatewatch", "note": "Same set, references Sea Gate's destruction directly"},
+    {"name": "Captain's Claws", "set": "Oath of the Gatewatch", "note": "Same set, also creates Kor Ally tokens for tribal synergy"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

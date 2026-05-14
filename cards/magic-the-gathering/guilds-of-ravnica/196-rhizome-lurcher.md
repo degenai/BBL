@@ -53,3 +53,15 @@ A large, lumbering creature fills the frame. Its body is a fusion of decaying or
 **Creatures:** plant-zombie, treefolk-adjacent
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Guilds of Ravnica (released October 5, 2018) returned to the city-plane, spotlighting five guilds including the Golgari Swarm. Rhizome Lurcher is a Common in the Golgari slot (watermark: Golgari), typed Creature — Fungus Zombie. Artist: Mathias Kollros. [Scryfall: released_at 2018-10-05, type_line Creature — Fungus Zombie, watermark golgari]
+- **Flavor text** — "The dead gain new purpose here. What is strange in the eyes of other guilds is harmonious in ours." — Devesh, Golgari shaman [Scryfall]. The canonical Golgari philosophical declaration: death is not waste or contradiction but resource transformation. "New purpose" is the operative phrase — the dead are not mourned, they are composted.
+- **Golgari guild philosophy** — The Golgari Swarm holds that life and death are not opposing forces but a continuous cycle. The guild manages Ravnica's unclaimed dead and cultivates vast underground fungal farms for the city's food supply — death feeds the living, literally. The Undergrowth mechanic encodes this directly: the card enters with +1/+1 counters equal to creature cards in your graveyard, meaning the more dead you have banked, the larger the creature that rises from them. [MTG Wiki: Golgari Swarm, via WebSearch; Scryfall oracle_text]
+- **Mechanical context** — Rhizome Lurcher is a base 2/2 that scales to 2+N/2+N based on graveyard creature count. In Undergrowth or self-mill strategies it is substantially undercosted for 4 mana. EDHREC rank 17205 [Scryfall]; Pauper-legal and Paupercommander-legal.
+
+### Related cards
+- Charnel Troll (Guilds of Ravnica) — Golgari rare with Undergrowth; same set and mechanic
+- Lotleth Giant (Guilds of Ravnica) — Golgari Undergrowth common; damage scales with graveyard count; sister card in the cycle
+- Izoni, Thousand-Eyed (Guilds of Ravnica) — Golgari Undergrowth legendary; spawns insects equal to graveyard count; thematic apex of the mechanic
+

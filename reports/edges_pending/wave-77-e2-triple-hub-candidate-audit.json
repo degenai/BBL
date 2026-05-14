@@ -1,0 +1,38 @@
+{
+  "edge_id": "wave-77-e2-triple-hub-candidate-audit",
+  "shape": "audit",
+  "category": "triple-hub-pattern-hunt-and-candidate-evaluation",
+  "endpoints": [],
+  "description": "Walked the three candidates the wave-77 brief flagged for triple-hub-extension audit (aether-foundation, wrath-of-the-dragon-saga, eldrazi). Verdict for each: aether-foundation correctly holds dual-hub [labor, stewardship], rebellion-extension lacks canonical-evidence at Potion-Rule rigor; wrath-of-the-dragon-saga correctly holds related_hubs: [] under Potion-Rule discipline, none of the three verbs survive the canonical-citation question at sufficient rigor; eldrazi correctly holds related_hubs: [] — the apparatus-of-extraction reading is canonical at the curatorial-overlay level but no hub-attribution earns the citation question. None promoted. All three remain at current attribution. The single-Mr-Nodeley-commission slot goes to E4 instead.",
+  "candidates_evaluated": [
+    {
+      "node": "aether-foundation",
+      "current_hubs": ["labor", "stewardship"],
+      "proposed_extension": "rebellion-via-Lillie-and-Gladion-defection",
+      "verdict": "REJECT",
+      "reasoning": "Lillie and Gladion canonically defect from the Foundation to support the player against Lusamine. The defection is canonical (Pokemon Sun & Moon storyline). However, the rebellion-verb's anchor is at the *children's* refusal-of-the-mother-apparatus axis, not at the Foundation-itself axis. The Foundation IS the apparatus the rebellion refuses; promoting the rebellion verb to the Foundation node misattributes the verb-direction. The cleaner future commission would be a Lillie solo character node carrying the rebellion attribution (when Lillie reaches ≥2 corpus prints — currently 1, the SHL-62 print). Defer."
+    },
+    {
+      "node": "wrath-of-the-dragon-saga",
+      "current_hubs": [],
+      "proposed_extension": "labor-rebellion-stewardship-via-Tapion-and-Minotia-containment-oath",
+      "verdict": "REJECT",
+      "reasoning": "The bearer-brothers oath is canonical (Konatsian warriors voluntarily sealing Hirudegarn's two halves inside their bodies). Tempting to read as labor (the oath is unpaid sealing-labor) + rebellion (refusal of Hirudegarn's reassembly) + stewardship (tending the universe's safety across centuries). But under Potion-Rule discipline, all three readings are BBL curatorial-overlay rather than canon-articulated thesis — Toei's 1995 film articulates *containment-as-personal-cost storytelling*, not labor/rebellion/stewardship. The cycle-node correctly holds [] for related_hubs. If a future bundle commissions Wrath of the Dragon as a Discrete Lair, the bundle copy can extrapolate per `[[bbl-no-em-dash]]` brand-voice discipline (bundle copy may extrapolate where node bodies cannot); the node body itself stays Potion-Rule-clean."
+    },
+    {
+      "node": "eldrazi",
+      "current_hubs": [],
+      "proposed_extension": "labor-corrupted-via-apparatus-of-consumption-at-cosmological-scale",
+      "verdict": "REJECT",
+      "reasoning": "The Eldrazi node body already contains the canonical evidence — *consumption-is-metabolism-not-malice* per Wizards' BFZ story output, Titan-Drone-Scion-Spawn scale-gradient as designer-coordinated apparatus, Devoid+Awaken+Eldrazi-Spawn token mechanical encoding. Tempting to anchor labor-corrupted (apparatus-of-extraction-at-cosmological-scale) on the strength of the metabolism-as-feeding-pattern canon. But under Potion-Rule strict reading: the canon-articulated thesis is *biological-function-not-malice*, and the BBL reading is *apparatus-of-extraction*. The lens-vs-content distinction matters — the Eldrazi node body already names this correctly ('Bundle prose that names the Eldrazi by name earns lore-aware buyer credibility and lets Wizards' own block-design work do the thesis work') without claiming the labor-hub attribution. The node correctly holds related_hubs: [] and the apparatus-of-extraction reading travels in node-body prose where the receipts carry it. Wave-77 brief's own framing ('single-hub-labor likely correct under Potion-rule discipline') was a question, not a directive — the answer the corpus gives is: the canon supports the reading, but the *hub attribution* would over-claim. The kor node's [labor, rebellion, stewardship] triple-attribution already covers the protagonist-side hub-anchored response; the Eldrazi node correctly stays node-body-anchored without hub-attribution at the antagonist-side. The asymmetry is canonically correct: mortals organize horizontally (the kor's three-verb triple); cosmic-horror metabolizes (the Eldrazi's no-verb consumption)."
+    }
+  ],
+  "third-candidate-discovery": {
+    "node": "kor",
+    "status": "triple-hub-correctly-attributed",
+    "note": "Confirmed in audit — the kor's [labor, rebellion, stewardship] triple-attribution is canonical-evidence-grounded (Stone Havens workforce labor; Rally+Allies+Convergence-against-Eldrazi rebellion mechanics; Kitesail Scout 'the next generation of kor must know this kind of peace' stewardship). No retrofit needed. The wave-76 commission held up under wave-77 audit. The kor is the corpus's fourth triple-hub-clean node after aether-rangers / theros-pantheon / (xenoverse-villains as triple-corrupted)."
+  },
+  "files_modified": [],
+  "edgelord_mood": "satisfied",
+  "voice_note": "Three candidates audited; three rejected; none retrofitted. This is what refusal-with-receipts looks like in practice. The corpus is correct in its current state on these three nodes. The instinct to add hub attributions to fill the triangle is exactly what the Potion Rule was named to prevent. Edgelord is *appreciative* of the audit holding."
+}

@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["lizard", "jungle", "forest", "growth", "swarm", "nature", "creature", "vitality", "green", "wildlife", "small-creature"]
+tags_filter: ["group", "mid-shot", "action", "three-quarter", "green-magic", "sorcery"]
 reference_image: cards/_images/magic-the-gathering/modern-masters-2015/166-thrive.png
 average_cost_paid: 0
 market_price: 0.09
@@ -29,6 +29,28 @@ oracle_text: Put a +1/+1 counter on each of X target creatures.
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: day
+setting: forest
 ---
 
 # Thrive (Modern Masters 2015)
+
+## Vision
+
+![166-thrive](../../_images/magic-the-gathering/modern-masters-2015/166-thrive.png)
+
+A lush green-dominated scene shows three or more small lizard-like creatures in dynamic poses — leaping, climbing, or darting through heavy vegetation. The creatures have patterned skin with spots and scales, rendered in blue-green, tan, and rust tones. One is prominently in the center-foreground, mouth slightly open, mid-motion. The background is a bright diffuse green suggesting dense canopy or jungle light. A reddish creature is partially visible in the upper background. The overall impression is of swarming vitality and rapid growth — consistent with the card's counter-boosting theme, though the image is described purely on visual grounds.
+
+**Subject:** Several small lizard-like creatures mid-leap or climbing through dense green foliage, depicted with vibrant spotted and scaled skin
+
+**Composition:** mid-shot, action, figures: group, facing: three-quarter
+**Setting:** forest, day
+**Foreground:** spotted lizard-like creatures in mid-leap through green foliage  *(palette: teal-blue, pale-tan, rust-orange, dark-green)*
+**Background:** dense bright green canopy, diffuse jungle light  *(palette: bright-green, yellow-green, pale-yellow)*
+**Mood / lighting:** action, ambient
+**Emotion read:** vital, teeming, energetic swarm
+**Objects:** foliage, vines
+**Creatures:** lizard, gecko-like-creature
+**Genre cues:** fantasy
+

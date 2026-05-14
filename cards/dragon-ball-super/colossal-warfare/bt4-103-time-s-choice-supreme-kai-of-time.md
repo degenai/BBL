@@ -29,7 +29,8 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Supreme Kai of Time / Chronoa (Dragon Ball Xenoverse)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
+characters: ["chronoa"]
 ---
 
 # Time's Choice, Supreme Kai of Time (Colossal Warfare)
@@ -38,8 +39,8 @@ ip_verified: false
 
 ![bt4-103-time-s-choice-supreme-kai-of-time](../../_images/dragon-ball-super/colossal-warfare/bt4-103-time-s-choice-supreme-kai-of-time.png)
 
-> [!warning] Suspected IP: **Supreme Kai of Time / Chronoa (Dragon Ball Xenoverse)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Supreme Kai of Time / Chronoa (Dragon Ball Xenoverse)**
+> Confirmed via explicit card name "Supreme Kai of Time" (a title unique to Chronoa in Dragon Ball canon) and canonical visual identifiers: pink/lavender skin, tall top-knot hairstyle, purple outfit, youthful appearance — all matching Chronoa's design across Dragon Ball Xenoverse 1 and 2. [Dragon Ball Wiki: Chronoa, via WebSearch]
 
 A small humanoid figure with pink or lavender skin stands amid swirling pink and purple energy effects. The figure has a distinctive oversized top-knot hairstyle. Wide, expressive eyes give the figure a look of concern or determination. The outfit is purple and form-fitting. The background is a wash of pink, lavender, and light purple energy. The composition is a mid-shot with the figure slightly off-center, energy effects filling the surrounding space.
 
@@ -53,4 +54,18 @@ A small humanoid figure with pink or lavender skin stands amid swirling pink and
 **Emotion read:** concern or determination, wide-eyed focus
 **Iconography:** energy-aura, top-knot, time-magic
 **Genre cues:** anime, fantasy
+
+**Verified IP:** Supreme Kai of Time / Chronoa (Dragon Ball Xenoverse) (confidence: high)
+
+## Trivia
+
+- **Set context** — Colossal Warfare (BT4) launched July 13, 2018 as the fourth main booster for the Dragon Ball Super Card Game, and was the largest DBS-TCG booster released at that point with 218 cards (124 unique). `[WebSearch: Cardmarket Colossal Warfare listing]`
+- **Character lore** — Chronoa, the Supreme Kai of Time, was born over 75 million years ago as an ordinary Kai before succeeding to the role of supreme guardian of the flow of time. In Dragon Ball Xenoverse lore, she leads the Time Patrol as supreme commander and mentor while Xeno Trunks serves as field operative. `[Dragon Ball Wiki: Chronoa, via WebSearch]`
+- **Stewardship register** — As Supreme Kai of Time, Chronoa holds authority to erase Alternate Timelines from official history — a power she treats as a last resort because doing so erases everyone inhabiting that timeline. This positions her as a stewardship figure defined by restraint as much as power. `[Dragon Ball Wiki: Chronoa, via WebSearch]`
+- **Card title** — "Time's Choice" evokes Chronoa's core dramatic tension in Xenoverse: she must constantly decide whether to correct a timeline distortion or erase the timeline entirely. The binary-decision framing is built into her lore role as Time Patrol leader. `[Dragon Ball Wiki: Chronoa / Time Patrol (Xenoverse), via WebSearch]`
+
+### Related cards
+- Xeno Trunks (Various DBS sets) — field leader of the Time Patrol under Chronoa's command
+- Future Trunks (Various DBS sets) — canonical predecessor figure; timeline-correction is a shared thematic register
+- Mechikabura (Various DBS Heroes sets) — Chronoa's rival whose conflict led to her ascension as Supreme Kai of Time
 

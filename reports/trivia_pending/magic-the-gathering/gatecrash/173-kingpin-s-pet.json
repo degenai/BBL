@@ -1,0 +1,41 @@
+{
+  "card_name": "Kingpin's Pet",
+  "game": "Magic: The Gathering",
+  "set": "Gatecrash",
+  "collector_number": "173",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Gatecrash (released February 1, 2013) is the second set in the Return to Ravnica block, focusing on the five guilds not featured in Return to Ravnica: Orzhov, Dimir, Gruul, Boros, and Simic. Kingpin's Pet is a Common in the Orzhov guild slot (watermark: Orzhov). [Scryfall: Kingpin's Pet, released_at 2013-02-01, set_name Gatecrash, watermark orzhov]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Debt and death sound so similar, and thrulls are so hard of hearing. Mistakes are inevitable.\" — Milana, Orzhov prelate [Scryfall]. The quote encodes the Orzhov's core extractive mechanics: 'debt' and 'death' are functionally interchangeable in the Syndicate's legal framework — those who cannot pay their debts become thrulls, and death does not dissolve the contract.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Thrulls in Orzhov lore are constructed from the remnants of past debtors — flesh melted down, recombined, and reborn as mindless servants. They occupy the absolute bottom rung of the Orzhov hierarchy. The Kingpin's Pet's gold chain collar and spiked foot-rings are canonical Orzhov thrall-aesthetic markers: visual indicators of ownership embedded in the creature's body. Skilled death-priests (thrull-fashioners) create flying variants like this one for use as mounts and couriers. [MTG Wiki: Orzhov Syndicate, via WebSearch; Scryfall flavor text]",
+      "sources": ["MTG Wiki: Orzhov Syndicate, via WebSearch", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Extort — the Orzhov mechanic in Gatecrash — reads: whenever you cast a spell, you may pay {W/B}; if you do, each opponent loses 1 life and you gain that much life. The mechanic mechanically literalizes the guild's extractive theology: every action the Orzhov take bleeds opponents and enriches the caster. EDHREC rank 17328 [Scryfall]; Pauper-legal and Paupercommander-legal. A functional extort enabler in budget Orzhov decks.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tithe Drinker", "set": "Dragon's Maze", "note": "Orzhov vampire with Extort — same guild, same extraction mechanic"},
+    {"name": "Basilica Screecher", "set": "Gatecrash", "note": "Orzhov flying creature with Extort from the same set"},
+    {"name": "Crypt Ghast", "set": "Gatecrash", "note": "Orzhov Extort engine rare; same block and guild as Kingpin's Pet"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
