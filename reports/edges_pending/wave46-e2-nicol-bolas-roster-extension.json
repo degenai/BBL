@@ -1,0 +1,27 @@
+{
+  "edge_id": "wave46-e2-nicol-bolas-roster-extension",
+  "shape": "1:N",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/nicol-bolas.md", "name": "Nicol Bolas"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/92-god-eternal-bontu.md", "name": "God-Eternal Bontu"},
+    {"type": "card", "path": "cards/magic-the-gathering/mystery-booster-cards/90-the-eldest-reborn.md", "name": "The Eldest Reborn"}
+  ],
+  "description": "Two roster extensions to nicol-bolas in a single pass — both wires pass the wave 45 valgavoth bar (direct flavor citation OR narrative-agent OR set-context-with-load-bearing-iconographic-detail). God-Eternal Bontu (WAR-92) wires via narrative-agent: the corpus trivia and MTG Wiki War of the Spark event page name Bontu as the canonical mechanism of Bolas's defeat — she bit into Bolas at Liliana's command and absorbed the harvested sparks, exploding from the overload. Same WAR Bolas-Falls cluster as the three existing wires, just the apparatus-of-defeat side rather than the depicted-figure side. The Eldest Reborn (DOM-90, in corpus as PLST insert) wires via load-bearing-card-name: 'the Eldest' is the canonical reference to Bolas as the oldest of Magic's original five Elder Dragons, and EDHREC reports ~52% inclusion in Nicol Bolas, the Ravager builds — 'Bolas in your Bolas deck' is the inclusion-pattern evidence the title's referent is canonical. Edgelord notes a satisfying branch-shape forming around the existing Bolas-Falls cluster: depicted-Bolas wires (Topple, Despark, Prison Realm) + apparatus-of-defeat wires (Bontu) + named-resurrection-saga wires (Eldest Reborn). The character node now spans depiction, apparatus, and lore-by-title. Mood: sighed-but-mirrored is the wrong enum because both wires are fanned (1:N from card → existing node, no bidirectional update because the character node already has appropriate Aspects coverage). The Eldest Reborn finding is also worth saving as a fun-fact: the original five Elder Dragons (Chromium, Arcades Sabboth, Palladia-Mors, Nicol Bolas, Vaevictis Asmadi) have a canonical birth order making Bolas literally the eldest; the Saga's title is a clinical fact, not a metaphor.",
+  "citations": [
+    "[MTG Wiki: War of the Spark event page — names Bontu as the absorber-of-sparks mechanism of Bolas's defeat]",
+    "[MTG Wiki: God-Eternal — Amonkhet gods zombified by Bolas as Dreadhorde generals]",
+    "[Scryfall: war/92 — God-Eternal Bontu oracle text and the die-to-library-third-from-top trigger encoding the canonical can't-be-permanently-stopped boast]",
+    "[Scryfall: DOM/90 — The Eldest Reborn original print; PLST insert in corpus]",
+    "[EDHREC: nicol-bolas-the-ravager commander page — ~52% inclusion of The Eldest Reborn]",
+    "[Draftsim: 'All 32 Elder Dragons Ranked' — canonical birth-order of the original five Elder Dragons]",
+    "[wave 45 valgavoth precedent: cards/_characters/valgavoth.md drift-fix established narrative-agent + load-bearing-iconographic-detail criteria for character-layer wires]"
+  ],
+  "files_modified": [
+    "cards/_characters/nicol-bolas.md (extended appears_on by 2; extended Aspects section with new sub-bullet 'Bolas's apparatus and its turning')",
+    "cards/magic-the-gathering/war-of-the-spark/92-god-eternal-bontu.md (added characters: [nicol-bolas])",
+    "cards/magic-the-gathering/mystery-booster-cards/90-the-eldest-reborn.md (added characters: [nicol-bolas])"
+  ],
+  "edgelord_mood": "satisfied"
+}

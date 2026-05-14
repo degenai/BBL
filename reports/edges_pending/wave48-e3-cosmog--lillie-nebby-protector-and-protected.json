@@ -1,0 +1,58 @@
+{
+  "wave": 48,
+  "edge_id": "wave48-e3-cosmog--lillie-nebby-protector-and-protected",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "category_note": "This Cosmog IS the canonical Cosmog at the center of Pokemon Sun and Moon's storyline — Nebby. The card's trivia explicitly names Nebby. Lillie's corpus card depicts the mid-storyline travel arc the aether-foundation node body specifically describes as 'journeying-with-Nebby' with the wicker basket on her arm. Named-character-identity edge at strongest tier: two cards canonically depicting the SAME named entity in the SAME narrative arc, just from the carrier-side (Lillie) and the cargo-side (Cosmog/Nebby) perspectives. Both Sun & Moon-era SM-subset prints.",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/cosmic-eclipse/100-236-cosmog.md", "name": "Cosmog (Cosmic Eclipse 100/236)"},
+    {"type": "card", "path": "cards/pokemon/shining-legends/62-lillie.md", "name": "Lillie (Shining Legends 62)"}
+  ],
+  "description": "Named-character-identity edge at the protector-and-protected tier. Lillie's inciting act in Pokemon Sun and Moon is rescuing the Cosmog nicknamed Nebby from her mother's Aether Foundation; the SHL-62 art depicts Lillie's mid-storyline 'journeying-with-Nebby' travel arc per the aether-foundation node body, with the wicker basket on her arm being canonically the basket Nebby travels in during the early game. The CEC-100 Cosmog is the corpus's only Cosmog print and is canonically the specific Cosmog at the center of that arc. The two cards render the protector-and-protected pair: Cosmog as the carefree cargo of cosmic importance whose evolution into Solgaleo/Lunala is the storyline's mythic axis, Lillie as the resource-replenishment companion (draw-to-6 Supporter, first-turn-draw-to-8) who shields it from her mother's Foundation. Both prints are Sun & Moon-era SM-subset Trainer cards (Shining Legends sm35 + Cosmic Eclipse sm12). The mirror also fixes a sync drift: Cosmog had no `characters:` frontmatter pointer to [[aether-foundation]] even though its trivia explicitly cites Lillie smuggling Nebby out of Aether Paradise — added in this pass. The aether-foundation node's `appears_on:` list was likewise missing Cosmog — added in this pass.",
+  "citations": [
+    "[Bulbapedia: Cosmog (Pokemon) — National Pokedex no. 789; canonically referred to as 'the child of the stars'; Nebby is the specific Cosmog at the center of Pokemon Sun and Moon's storyline]",
+    "[Bulbapedia: Lillie (Pokemon) — Lusamine's daughter; her inciting act is rescuing Nebby from Aether Paradise; mid-storyline travel arc with wicker basket carrying Nebby]",
+    "[Pokemon Sun and Moon (Game Freak, 2016) primary canon — Nebby plotline, Lillie's defection from Aether Foundation]",
+    "[Corpus: cards/_characters/aether-foundation.md node body — Lillie SHL-62 already declared as the 'journeying-with-Nebby' travel arc depiction; cross-reference confirmed]",
+    "[PokemonTCG.io: sm12-99 (Cosmog Cosmic Eclipse) — artist Mizue, flavor text + Ascension oracle text]",
+    "[PokemonTCG.io: sm35-62 (Lillie Shining Legends) — artist Ken Sugimori, draw-to-6 + first-turn-draw-to-8 oracle text]",
+    "[Corpus: cards/pokemon/cosmic-eclipse/100-236-cosmog.md trivia — explicit Nebby/Lillie/Aether Paradise citation]",
+    "[Corpus: cards/pokemon/shining-legends/62-lillie.md trivia — explicit Cosmog/Nebby citation]"
+  ],
+  "files_modified": [
+    "cards/pokemon/cosmic-eclipse/100-236-cosmog.md (frontmatter: added `characters: [\"aether-foundation\"]`; body: appended ## Connections section after ### Related cards block)",
+    "cards/pokemon/shining-legends/62-lillie.md (body: appended ## Connections section after ### Related cards block)",
+    "cards/_characters/aether-foundation.md (frontmatter: extended appears_on: list with `pokemon/cosmic-eclipse/100-236-cosmog`)"
+  ],
+  "edgelord_mood": "satisfied",
+  "mood_justification": "Named-character-identity mirror at the strongest tier (this Cosmog IS Nebby, this Lillie carries Nebby, the depicted arc is the same arc from carrier-side and cargo-side perspectives), plus a sync-drift correction at the aether-foundation appears_on: list and at Cosmog's missing characters: frontmatter pointer. Multi-layer move within the 1:1 envelope: the edge is one mirror but it incidentally fixes two body-vs-frontmatter consistency gaps. The Sun-and-Moon SM-subset Trainer pair plus the Aether Foundation stack-extending makes this a future-Discrete-Lair-ready triplet (Lillie + Cosmog + Aether Foundation Employee, all SM-era, all aether-foundation-cohort). CBG mood: 'The mirror is correct. The sync drift is also correct. The graph is one step closer to a Sun and Moon discrete lair on Lillie's defection and the Foundation's apex-villain arc.'",
+  "topology_note": "topology: mirror at the 1:1 wikilink layer between Cosmog and Lillie; topology: stack at the aether-foundation cohort layer (Cosmog joins Lillie + Aether Foundation Employee as the third member of the SM-era Aether-Foundation cohort, with cross-card connective tissue running through Nebby). The stack is bundle-relevant: 3 cohort members at trivia-passed enrichment level is the Discrete Lair candidacy threshold per the macro-cosmos node body's threshold-of-3 framing.",
+  "other_candidates_considered": [
+    {
+      "candidate": "Cosmog attached to solrock-lunatone-pair character node as a third celestial Pokemon member",
+      "decision": "REJECT — explicitly disallowed by node caveat",
+      "reason": "The solrock-lunatone-pair node body explicitly states: 'this node is for the version-exclusive Hoenn dyad specifically' and 'Solgaleo/Lunala as the Alola legendary pair... would warrant their own character nodes if they enter the corpus, NOT a generic Pokemon sun/moon duality hub.' Cosmog is Generation VII Alola, not Generation III Hoenn. Attaching Cosmog to the Hoenn-specific dyad would violate the node's own scope-caveat and create a generic 'celestial Pokemon' container the node body refused to be. Refused."
+    },
+    {
+      "candidate": "Cosmog n=1 cosmog-line / nebby character node",
+      "decision": "reject at n=1",
+      "reason": "Only one Cosmog print in corpus (CEC-100) and no Cosmoem or Solgaleo or Lunala prints in corpus. The line-node precedent (mareep-line, ralts-line, staraptor-line, charizard-line) is 3+ corpus prints across 2+ stages. Below threshold. Defer until at least Cosmoem or one of the cover-legendary final forms enters corpus. The wikilink edge to Lillie + characters: aether-foundation frontmatter pointer is the appropriate current-state anchoring."
+    },
+    {
+      "candidate": "Mirror-back to lusamine / gladion via Lillie's Related cards bullets",
+      "decision": "defer — no corresponding corpus cards",
+      "reason": "Lillie's Related cards section names Lusamine (Crimson Invasion) and Gladion (Forbidden Light) but neither is in BBL corpus. Mirror-back would point at non-existent endpoints. Not done. Future-acquisition target if a Lusamine or Gladion print enters corpus — both would attach to [[aether-foundation]] on entry (Lusamine as President / apex-villain; Gladion as second Aether-defector-child alongside Lillie)."
+    },
+    {
+      "candidate": "Cosmog ↔ Aether Foundation Employee (LOT-168) direct edge",
+      "decision": "rejected — wrong shape",
+      "reason": "Cosmog is the rescued cargo and Aether Foundation Employee is the institutional rank-and-file. A direct edge between cargo and rank-and-file skips Lillie (the rescuer) as the load-bearing intermediary in the narrative. The right shape is Cosmog → Lillie (rescuer-and-cargo wikilink) + Cosmog → aether-foundation (characters: frontmatter, the institution Lillie defects from). That's what this pass did. A direct Cosmog ↔ AF-Employee edge would be unloaded."
+    },
+    {
+      "candidate": "Sonia ↔ Magnolia future edge (academia-side adversary cohort)",
+      "decision": "defer — no Magnolia card in corpus",
+      "reason": "Sonia is Magnolia's heir; the natural sibling edge would be Sonia ↔ Magnolia at the academic-lineage tier. But Magnolia has zero corpus prints. Future-acquisition target."
+    }
+  ]
+}

@@ -14,10 +14,10 @@ tags_hub: ["oven", "hearth", "fire", "green-fire", "kitchen", "cooking", "witch"
 tags_filter: ["no-face", "scene-mode", "mid-shot", "forward-facing", "object-focus", "indoor", "night-interior", "artifact", "black-magic", "food-token", "no-figure"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/237-witch-s-oven.png
 average_cost_paid: 0
-market_price: 0.93
-market_price_as_of: 2026-05-13
+market_price: 1.04
+market_price_as_of: 2026-05-14
 date_added: 2026-05-07
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'

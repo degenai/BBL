@@ -14,10 +14,10 @@ tags_hub: ["crow", "bird", "undead", "zombie", "skeleton", "death", "decay", "gr
 tags_filter: ["solo", "mid-shot", "three-quarter", "no-face", "creature-zombie", "creature-bird", "black-magic", "flying", "mill", "portrait-mode"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/115-crow-of-dark-tidings.png
 average_cost_paid: 0
-market_price: 0.24
-market_price_as_of: 2026-05-13
+market_price: 0.23
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide", "portrait", "faces-left", "psychic-type", "creatur
 reference_image: cards/_images/pokemon/vivid-voltage/065-185-girafarig.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh4/65_hires.png
 art_match_confidence: high
 needs_manual_review: false

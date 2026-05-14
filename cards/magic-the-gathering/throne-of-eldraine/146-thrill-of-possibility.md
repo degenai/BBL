@@ -7,17 +7,17 @@ rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
 tags_hub: ["rider", "horse", "horseback", "torch", "fire", "sparks", "night", "stars", "bridge", "adventure", "journey", "knight", "moonlight"]
 tags_filter: ["solo", "wide-shot", "scene-mode", "three-quarter-facing", "red-magic", "instant", "no-face", "action-pose"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/146-thrill-of-possibility.png
 average_cost_paid: 0
-market_price: 0.2
-market_price_as_of: 2026-05-13
+market_price: 0.18
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "action", "creature-kor-warr
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/34-kor-bladewhirl.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-12
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/e/3/e31b12c7-df11-4450-95e1-b9a5aa97af0e.png?1562949080
 art_match_confidence: high
 needs_manual_review: false

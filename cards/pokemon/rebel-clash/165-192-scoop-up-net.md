@@ -14,10 +14,10 @@ tags_hub: ["net", "tool", "fishing", "object-portrait", "catch", "rescue", "util
 tags_filter: ["no-face", "no-figure", "object-mode", "close-up", "centered", "trainer-item", "item-card", "pale-background", "red-accent", "silver-accent"]
 reference_image: cards/_images/pokemon/rebel-clash/165-192-scoop-up-net.png
 average_cost_paid: 0
-market_price: 0.34
-market_price_as_of: 2026-05-13
+market_price: 0.33
+market_price_as_of: 2026-05-14
 date_added: 2026-05-08
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh2/165_hires.png
 art_match_confidence: high
 needs_manual_review: false

@@ -11,6 +11,8 @@ appears_on:
   - magic-the-gathering/war-of-the-spark/26-prison-realm
   - magic-the-gathering/war-of-the-spark/35-topple-the-statue
   - magic-the-gathering/war-of-the-spark/190-despark
+  - magic-the-gathering/war-of-the-spark/92-god-eternal-bontu
+  - magic-the-gathering/mystery-booster-cards/90-the-eldest-reborn
 related_hubs: [rebellion]
 related_symbols: []
 ip_resolution_for: nicol-bolas
@@ -32,6 +34,10 @@ Card art that depicts Bolas himself — in flesh, in monumentalization, or in th
   - **Prison Realm** (WAR-26, uncommon, Daarken art) — Bolas imprisoned in the Meditation Plane (renamed the Prison Realm post-WAR) under Ugin's containment; Act 3 coda. Flavor text names him.
 
 All three carry Scryfall's `story_spotlight: true` flag, depict the same character at adjacent narrative beats, and were art-directed as part of the same set's twenty-seven-card story-spotlight cycle.
+
+- **War of the Spark — Bolas's apparatus and its turning** — two non-spotlight WAR cards that are Bolas's apparatus in the world (his harvested gods, his named-after-the-eldest-dragon resurrection saga) rather than his depiction:
+  - **God-Eternal Bontu** (WAR-92, Mythic, Lius Lasahido art) — one of the five Amonkhet gods Bolas zombified and deployed as Dreadhorde generals during the invasion of Ravnica. Bontu is the canonical narrative mechanism of Bolas's defeat: per MTG Wiki's WAR event page, after Gideon Jura died to lift Bolas's death-curse from Liliana Vess, Liliana commanded the God-Eternals to turn on Bolas; Bontu bit into Bolas and absorbed all the harvested sparks (including her own godhood's), then exploded from the overload. The depicted figure is Bontu (not Bolas), but the *narrative subject* of her role in the WAR storyline is Bolas's defeat-by-his-own-weapon, parallel to the Despark wiring. The die-to-library-third-from-top trigger encodes Bolas's boast that his God-Eternals cannot be permanently stopped. Card wires via narrative-agent criterion (same WAR Bolas-Falls cluster, named-by-MTG-Wiki as the defeat mechanism).
+  - **The Eldest Reborn** (DOM-90, Uncommon, Ravenna Tran art; in corpus as PLST-DOM-90 Mystery Booster insert) — Saga whose title canonically names Nicol Bolas as "the Eldest" (the canonical eldest of Magic's original Elder Dragon cycle: Chromium, Arcades Sabboth, Palladia-Mors, Nicol Bolas, Vaevictis Asmadi) and whose three chapters mechanically storyboard Bolas's resurrection arc: opponent-sacrifice (corrupting allies), opponent-discard (psychic assault), reanimation (placing Bolas back into the world). EDHREC reports the card in approximately 52% of Nicol Bolas, the Ravager Commander builds and 63% of Bolas Planeswalker-focused builds — "Bolas in your Bolas deck" treated as mandatory. The figure depicted in the art is a hooded skeletal undead, not literally Bolas; the title and the inclusion-pattern wire the card here. Card wires via load-bearing-name criterion (the title is the canonical reference) and corroborating community inclusion-pattern (the deck-building evidence is itself proof of canonical interpretation).
 
 ## Canonical sources
 

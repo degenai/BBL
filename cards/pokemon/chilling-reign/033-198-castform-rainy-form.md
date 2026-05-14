@@ -14,10 +14,10 @@ tags_hub: ["rain", "water", "weather", "flowers", "meadow", "spring", "cute", "f
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face-detail", "blue-dominant", "pokemon-common", "pokemon-basic", "water-type"]
 reference_image: cards/_images/pokemon/chilling-reign/033-198-castform-rainy-form.png
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-13
+market_price: 0.19
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh6/33_hires.png
 art_match_confidence: high
 needs_manual_review: false

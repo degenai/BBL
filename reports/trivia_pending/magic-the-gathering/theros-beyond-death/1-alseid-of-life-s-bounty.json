@@ -1,0 +1,37 @@
+{
+  "card_name": "Alseid of Life's Bounty",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "1",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Alseid of Life's Bounty is an Enchantment Creature — Nymph, a creature type unique to the Theros setting. In Theros lore, nymphs are physical embodiments of divine concepts made manifest as enchantments in the mortal world; the Enchantment Creature type mechanically represents this — they count toward constellation triggers and behave as both creatures and enchantments on the battlefield. [Scryfall: thb/1; MTG Wiki: Nymph, via WebSearch snippet]",
+      "sources": ["Scryfall: thb/1", "MTG Wiki: Nymph, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Dawn-kissed, he nourishes the golden grain.\" — Psemilla, Meletian poet. [Scryfall: thb/1]. The speaker, Psemilla, is a named Meletian poet (Meletis being the Theros city-state built on logic and philosophy, analog to classical Athens). The use of 'he' is notable — the art depicts the alseid (a Greek harvest-nymph) in a feminized form, while the flavor text uses a masculine pronoun, an intentional Wizards ambiguity signal consistent with Theros's mortal-perspective-filtered view of divine beings. [Scryfall: thb/1]",
+      "sources": ["Scryfall: thb/1"]
+    },
+    {
+      "category": "design",
+      "text": "THB no. 1, Uncommon, illustrated by Magali Villeneuve, released 2020-01-24. Reprinted in Jumpstart 2022 (J22, no. 143). The card's protection ability (sacrifice: target creature or enchantment you control gains protection from the color of your choice until end of turn) makes it a widely-played 1-drop in enchantress and aura-based Commander brews — EDHREC tracks it in approximately 53,857 decks. [Scryfall: thb/1; Scryfall: j22/143; EDHREC: alseid-of-lifes-bounty, via WebSearch snippet]",
+      "sources": ["Scryfall: thb/1", "Scryfall: j22/143", "EDHREC: alseid-of-lifes-bounty, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Setessan Champion", "set": "Theros Beyond Death (198)", "note": "THB enchantress payoff; constellation synergy with Alseid as a cheap enchantment creature"},
+    {"name": "Eidolon of Blossoms", "set": "Journey into Nyx (120)", "note": "Earlier Theros enchantment-creature that draws on ETB; predecessor enchantress engine"},
+    {"name": "Altar of the Pantheon", "set": "Theros Beyond Death (231)", "note": "Same set; both are Theros devotion/enchantment-support pieces in corpus"},
+    {"name": "Siona, Captain of the Pyleas", "set": "Theros Beyond Death (226)", "note": "THB aura commander; Alseid's protection ability pairs with aura strategies"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

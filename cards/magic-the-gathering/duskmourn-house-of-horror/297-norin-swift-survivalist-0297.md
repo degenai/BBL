@@ -14,10 +14,10 @@ tags_hub: ["survivor", "fleeing", "haunted-house", "ghost", "corridor", "doorway
 tags_filter: ["duo", "mid-shot", "three-quarter-facing", "action-pose", "creature-human", "legendary", "named-character"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/297-norin-swift-survivalist-0297.png
 average_cost_paid: 0
-market_price: 0.14
-market_price_as_of: 2026-05-13
+market_price: 0.16
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/4/9/49f0fdf4-3881-4327-924f-2c1b67ccda93.png?1726286390
 art_match_confidence: high
 needs_manual_review: false

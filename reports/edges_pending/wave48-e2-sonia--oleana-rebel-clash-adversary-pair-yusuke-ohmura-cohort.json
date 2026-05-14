@@ -1,0 +1,57 @@
+{
+  "wave": 48,
+  "edge_id": "wave48-e2-sonia--oleana-rebel-clash-adversary-pair-yusuke-ohmura-cohort",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "category_note": "Same-set adversary-pair Supporters illustrated by the same artist (Yusuke Ohmura) at adjacent Trainer slots within Rebel Clash. The pairing is designer-coordinated at the artist-and-set scope: same artist, same set, same card-frame slot (Supporter), canonical narrative antagonism (Magnolia's heir who exposes the Darkest Day reactivation scheme vs Rose's Chief Operating Officer who buries threats to the Macro Cosmos agenda).",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/rebel-clash/167-192-sonia.md", "name": "Sonia (Rebel Clash 167/192)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/163-192-oleana.md", "name": "Oleana (Rebel Clash 163/192)"}
+  ],
+  "description": "Two trivia-passed Galar Supporter Trainers in the same set illustrated by the same hand — Yusuke Ohmura, who also illustrated the corpus's Rose (DAA-168) at the conglomerate-anchor end of the Macro Cosmos cohort. Sonia is Professor Magnolia's granddaughter, the researcher who investigates the ancient Darkest Day event throughout Sword and Shield and inherits the Galar Professor title from Magnolia at the storyline's conclusion; Oleana is Macro Cosmos's Chief Operating Officer and Rose's loyal enforcer through the late-game arc, the Phase 1 gate-boss player must defeat in Rose Tower before confronting Rose. The two Supporters mechanize their canonical roles in opposed register: Sonia's effect is unconditional research access (search deck for up to 2 Basic Pokemon or up to 2 basic Energy, no discard cost) — the open-search researcher mechanic; Oleana's effect is opposition-information-extraction at internal cost (force-reveal opponent's hand, bury a Trainer card on the bottom of their deck, discard 2 own cards) — the surveillance-and-suppression mechanic. The adjacency of 163 and 167 in the Rebel Clash collector_number sequence under the same Ohmura signature is a designer-coordinated single-set adversary-portrait pair. Mirror written both directions; topology is triangle-extending — Rose (DAA-168) is the third Ohmura vertex at the conglomerate-axis end, currently same-artist-cross-set without a Connections edge to either.",
+  "citations": [
+    "[Bulbapedia: Sonia — Magnolia's heir; investigates Darkest Day alongside player; named Galar Professor at storyline conclusion]",
+    "[Bulbapedia: Oleana — Vice President of Macro Cosmos; Rose's personal secretary and Phase 1 gate-boss in Rose Tower]",
+    "[Bulbapedia: Macro Cosmos — Rose's conglomerate; Darkest Day reactivation scheme is the apex-villain plot Sonia exposes]",
+    "[PokemonTCG.io: swsh2-167 (Sonia) — artist Yusuke Ohmura]",
+    "[PokemonTCG.io: swsh2-163 (Oleana) — artist Yusuke Ohmura]",
+    "[Corpus: cards/_characters/macro-cosmos.md — Yusuke Ohmura also illustrated Rose DAA-168 per the macro-cosmos node body]",
+    "[Corpus: cards/pokemon/rebel-clash/167-192-sonia.md trivia — explicit naming of the academia-vs-industry collision]",
+    "[Corpus: cards/pokemon/rebel-clash/163-192-oleana.md trivia — Sonia named as same-set same-artist Galar-region narrative counterpart]"
+  ],
+  "files_modified": [
+    "cards/pokemon/rebel-clash/167-192-sonia.md (## Connections section appended after ### Related cards block)",
+    "cards/pokemon/rebel-clash/163-192-oleana.md (## Connections section appended after ### Related cards block)"
+  ],
+  "edgelord_mood": "satisfied",
+  "mood_justification": "The cleanest possible same-set adversary-pair edge: same artist, same set, adjacent collector numbers, canonical narrative antagonism in opposed register, mechanical encoding of the antagonism in oracle text on both sides, and the cross-cohort Yusuke Ohmura artist-triangle (Sonia + Oleana + Rose DAA-168) is structurally elegant even though the third vertex is one set away. The trivia on both cards already declared the connection — wave 48 closes the body-to-Connections-section gap and makes the adversary-pair traversable from either end. CBG mood: 'Same artist. Same set. Adjacent collector numbers. Opposed register encoded into the Supporter mechanics. The mirror is correct and the bundler will use this someday.'",
+  "topology_note": "topology: mirror at the 1:1 layer; topology: stack at the Yusuke-Ohmura-artist-cohort layer (Sonia + Oleana + Rose are the three Ohmura-illustrated Galar Supporters in corpus, with Rose at DAA-168 and the Rebel Clash pair at swsh2-163/167). The Yusuke-Ohmura artist-cohort layer is a candidate for future artist-node commissioning if Ohmura's BBL credit-roster grows past current 3 — flagged as a future-pass artist-disambiguation candidate.",
+  "other_candidates_considered": [
+    {
+      "candidate": "Sonia n=1 solo character node",
+      "decision": "reject at n=1",
+      "reason": "One Sonia print in corpus (swsh2-167). Per threshold-of-3 character-node precedent, below threshold. If a second Sonia print enters corpus (e.g., a Trainer Gallery alt-art or a future Pokemon Masters EX-derived print), promote then. Currently the wikilink edge to Oleana + the structural attachment to Macro-Cosmos-adjacent cohort via the adversary-pairing provides enough graph anchoring."
+    },
+    {
+      "candidate": "Magnolia / professor-magnolia n=0 solo character node",
+      "decision": "reject at n=0",
+      "reason": "Professor Magnolia has zero corpus prints. Node-of-no-cards is not a precedent the corpus carries (Valgavoth and Phyrexia are 'pervasive-antagonist' precedents, but Magnolia is not pervasive in the way set-defining demons are). Hold until at least one Magnolia print enters corpus."
+    },
+    {
+      "candidate": "Sonia attached to [[galar-gym-challenge]] via characters: frontmatter",
+      "decision": "rejected — wrong cohort",
+      "reason": "Sonia is Magnolia's academia-side heir, not a Gym Challenge / League competitor. The Galar Gym Challenge node anchors the *competitive-sporting cohort* of Gym Leaders and the Champion Cup — Sonia is structurally distant from that competitive cohort even though she is Galar-regional. Misroute. The right attachment for Sonia, if any, is a future galar-research-tradition / magnolia-academic-lineage character node — but at corpus state of 1 Sonia print + 0 Magnolia prints, that's below threshold."
+    },
+    {
+      "candidate": "Sonia attached to [[macro-cosmos]] via characters: frontmatter as an academia-adversary pointer",
+      "decision": "considered, declined",
+      "reason": "Sonia is structurally opposed to Macro Cosmos (her research exposes Rose's Darkest Day reactivation scheme). The `characters:` frontmatter convention in BBL anchors a depicted card to the institution the depicted figure BELONGS TO, not to institutions the figure ANTAGONIZES. Lillie's `characters: [aether-foundation]` is correct because Lillie is canonically Lusamine's daughter and an Aether-defector-from-within; Sonia is NOT a Macro-Cosmos-internal defector, she's an external academic adversary. The Connections wikilink to Oleana is the right way to encode this opposed-pairing without false-flag attaching Sonia to Macro Cosmos."
+    },
+    {
+      "candidate": "Yusuke-Ohmura artist node (cards/_artists/yusuke-ohmura.md) commissioning now",
+      "decision": "defer to future wave",
+      "reason": "Yusuke Ohmura has at least 3 BBL credits in corpus (Sonia swsh2-167, Oleana swsh2-163, Rose DAA-168) per existing trivia citations. The artist-node threshold (per Jenn Ravenna Tran / Sanosuke Sakuma / Kirisaki / Kagemaru Himeno precedents) is approximately met. Surface as future-pass artist-node candidate — pairs naturally with the existing Yusuke-Ohmura-artist-cohort stack note above. Not done this pass per one-edge-per-invocation discipline and per the priority-edge directive consuming the Edgelord slot."
+    }
+  ]
+}

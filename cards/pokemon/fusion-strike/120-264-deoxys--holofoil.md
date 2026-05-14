@@ -14,10 +14,10 @@ tags_hub: ["alien", "space", "aurora", "crystal", "mythical", "cosmic", "tentacl
 tags_filter: ["solo", "mid-shot", "action", "forward-facing", "psychic-type", "holo-rare", "holofoil", "pokemon", "normal-forme"]
 reference_image: cards/_images/pokemon/fusion-strike/120-264-deoxys--holofoil.png
 average_cost_paid: 0
-market_price: 0.27
-market_price_as_of: 2026-05-13
+market_price: 0.29
+market_price_as_of: 2026-05-14
 date_added: 2026-05-05
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh8/120_hires.png
 art_match_confidence: high
 needs_manual_review: false

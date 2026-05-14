@@ -17,10 +17,10 @@ tags_hub: ["amulet", "charm", "gem", "protection", "sacred", "talisman", "jewelr
 tags_filter: ["no-figure", "close-up", "trainer-tool", "uncommon", "item-card", "pokemon-tool", "artifact"]
 reference_image: cards/_images/pokemon/phantasmal-flames/093-094-sacred-charm.png
 average_cost_paid: 0
-market_price: 0.07
-market_price_as_of: 2026-05-13
+market_price: 0.09
+market_price_as_of: 2026-05-14
 date_added: 2026-05-08
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/me2/93_hires.png
 art_match_confidence: high
 needs_manual_review: false

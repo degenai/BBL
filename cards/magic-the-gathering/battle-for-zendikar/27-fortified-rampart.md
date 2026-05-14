@@ -14,10 +14,10 @@ tags_hub: ["fortress", "wall", "Eldrazi", "horror", "defense", "siege", "surviva
 tags_filter: ["duo", "wide", "scene-mode", "creature-wall", "defender", "white-magic"]
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/27-fortified-rampart.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-13
+market_price: 0.22
+market_price_as_of: 2026-05-14
 date_added: 2026-05-12
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/5/0/5095e2ab-a7f5-45bc-8b2f-31198ea27bba.png?1562913875
 art_match_confidence: high
 needs_manual_review: false

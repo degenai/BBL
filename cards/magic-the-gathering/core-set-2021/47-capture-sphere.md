@@ -15,9 +15,9 @@ tags_filter: ["mid-shot", "scene-mode", "duo", "enchantment-aura", "blue-mono", 
 reference_image: cards/_images/magic-the-gathering/core-set-2021/47-capture-sphere.png
 average_cost_paid: 0
 market_price: 0.16
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/f/5/f5ed9f08-56e8-4e24-aae2-05270d7c1ba8.png?1594735438
 art_match_confidence: high
 needs_manual_review: false

@@ -1,0 +1,36 @@
+{
+  "card_name": "Heroic Duo Son Gohan",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-003",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Son Gohan'. Depicted figure is a young fighter in a green gi with spiky dark hair matching Gohan's adolescent appearance during the Buu Saga. The card's special traits (Saiyan/Earthling/World Tournament) and era (The Evil Wizard Babidi Saga) confirm this is teenage Gohan from the Majin Buu arc of Dragon Ball Z.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "World Martial Arts Tournament (DBS-TB02) is a themed booster set released by Bandai in 2018, containing 125 cards (30 Commons, 18 Uncommons, 12 Rares, 8 Super Rares, 8 Special Rares, 1 Secret Rare). The set focuses on the 25th World Martial Arts Tournament story arc and the Babidi/Majin Buu buildup, featuring leader cards for Hercule, Uub, Son Goku, Jackie Chun, and the Announcer [WebSearch snippet: dbs-cardgame.com TB02 product page].",
+      "sources": ["dbs-cardgame.com: DBS-TB02 product page", "WebSearch snippet: World Martial Arts Tournament TB2 set overview"]
+    },
+    {
+      "category": "design",
+      "text": "TB2-003 is a Common Battle card (Red, 10000 power) carrying the special traits Saiyan/Earthling/World Tournament and the era The Evil Wizard Babidi Saga. Its game effect — KO one opponent Battle Card with 10000 power or less on play — places it in the 'removal on entry' design space, reflecting Gohan's lore role as the fighter who defeated Babidi's general Dabura [WebSearch snippet: Heroic Duo Son Gohan TCG details].",
+      "sources": ["WebSearch snippet: Heroic Duo Son Gohan TCG details", "WebSearch snippet: Gohan Buu Saga role"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "During the Babidi Saga, Gohan (then 16, in his 'Adolescence' form) and the Z-Warriors tracked Yamu and Spopovich to Babidi's ship, where Gohan fought and defeated Dabura. The 'Heroic Duo' naming references the paired identity of Gohan and his father Goku as the two most powerful Saiyans present during the World Tournament arc — though the green gi in this card's art is Gohan's training uniform, not his Great Saiyaman costume [Kanzenshuu: Gohan age breakdown; CBR: Dragon Ball Gohan Complete Timeline].",
+      "sources": ["Kanzenshuu: Gohan age breakdown", "CBR: Dragon Ball Gohan Complete Timeline", "WebSearch snippet: Gohan Buu Saga"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dark Duo Dabura", "set": "World Martial Arts Tournament", "note": "TB2-014 — Gohan's canonical antagonist in the Babidi Saga; paired 'Duo' naming convention across the set"},
+    {"name": "Razor's Edge Yakon", "set": "World Martial Arts Tournament", "note": "TB2-017 — fellow Babidi Saga villain in the same TB2 set"},
+    {"name": "Quick Rush Trunks", "set": "Cross Worlds", "note": "BT3-011 — Trunks is Gohan's generational peer among half-Saiyan adolescent heroes"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Son Gohan",
+    "ip_confidence": "high"
+  }
+}

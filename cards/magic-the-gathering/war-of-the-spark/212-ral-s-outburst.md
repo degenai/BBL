@@ -14,10 +14,10 @@ tags_hub: ["lightning", "storm", "spellcaster", "planeswalker", "robed-figure", 
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "action-mode", "male-figure", "blue-magic", "red-magic", "multicolor-blue-red", "instant"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/212-ral-s-outburst.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-13
+market_price: 0.19
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/6/b/6be3dd3e-50d2-4729-9caa-b2cd984f4c97.png?1557577237
 art_match_confidence: high
 needs_manual_review: false

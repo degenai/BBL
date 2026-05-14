@@ -15,9 +15,9 @@ tags_filter: ["mid-shot", "portrait-mode", "solo", "forward-facing", "creature-c
 reference_image: cards/_images/magic-the-gathering/core-set-2021/4-anointed-chorister.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/9/c/9c977c67-b0c0-40b0-b129-28de094aaf40.png?1594734721
 art_match_confidence: high
 needs_manual_review: false

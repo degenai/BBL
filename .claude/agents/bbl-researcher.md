@@ -47,6 +47,18 @@ The caller gives you the absolute path of a single card-node MD file. The MD has
 
    This applies to BOTH the description paragraph AND any tags. If `red-hair` is going into `tags_hub` because you "kind of see red," drop it. The graph would rather miss a hub bridge than carry a wrong one.
 
+   **Uncertainty flagging — when you under-specify, FLAG don't silently drop.** Under-specifying is correct, but invisible under-specification is a problem for downstream consumers. When you omit a tag or leave a field thin because the image is sub-resolution / unclear / occluded, record the omission in the `vision_uncertainty` JSON array. This converts "agent dropped fields silently" into "agent surfaced honest data-quality signal that triviabot, Edgelord, and the curator can route on."
+   - Use one or more of these standard flag codes (multi-tag if multiple apply):
+     - `low-resolution-source` — the image is <=400px wide (vision-pass quality compromise documented for the whole card)
+     - `secondary-figures-unresolved` — primary subject is clear but background/co-figures are too small/blurred to identify
+     - `creature-features-unresolved` — couldn't determine specific creature type or distinctive features (e.g. alien with N protrusions, monster with claws-or-not-claws)
+     - `weapon-or-prop-unresolved` — knew SOMETHING was in-hand but couldn't identify what
+     - `hair-eye-skin-unresolved` — diagnostic colors weren't readable (you correctly dropped them; flag it)
+     - `text-or-symbol-illegible` — visible heraldry / insignia / inscription but resolution defeats reading it
+     - `composition-ambiguous` — couldn't confidently choose between portrait/scene/action or solo/duo
+   - The DBS 5-card test wave (Yakon, alien features unresolvable) is the prototype: Yakon got correct anti-confab behavior (no specific features tagged) but the omission was only surfaced in the verbal report. With this flag list, it would have shown up as `vision_uncertainty: ["creature-features-unresolved", "weapon-or-prop-unresolved"]` for any future triviabot/Edgelord pass to consult.
+   - Empty array `vision_uncertainty: []` is the default. Only populate when there's a genuine uncertainty signal. Don't flag every card.
+
    **Two-tier tag emission is the load-bearing decision.** The whole point of BBL is a curated graph of thematic bridges; getting the tier split wrong corrupts the graph.
 
    - `tags_hub` — thematically rich, cross-cutting. Each one is a candidate to become a hub node in the Obsidian graph view. Ask: **"Would I curate a Discrete Lair around this concept?"** Yes-tags: `cat`, `sunset`, `pie`, `cozy`, `gothic`, `service-worker`, `labor`, `villain`, `comic-relief`, `fire`, `forest`, `ocean`, `ritual`, `witch`. Hub tags should generally be 1–2 words, kebab-case if multi-word.
@@ -101,7 +113,8 @@ The caller gives you the absolute path of a single card-node MD file. The MD has
      "iconography": ["symbol", "..."],
      "emotion": "facial expression / body language read",
      "tags_hub": ["thematic-tag", "..."],
-     "tags_filter": ["mechanical-tag", "..."]
+     "tags_filter": ["mechanical-tag", "..."],
+     "vision_uncertainty": ["flag-code", "..."]
    }
    ```
 
@@ -131,6 +144,7 @@ The caller gives you the absolute path of a single card-node MD file. The MD has
 - Do not edit the card MD directly — always go through `apply_vision.py`.
 - Do not run the vision pass on cards with `art_match_confidence: low` or `none` — the printing may not match the cached image.
 - Do not process cards with non-empty `tags_hub` in frontmatter — that's already-enriched.
+- Do not silently drop fields you couldn't resolve — use `vision_uncertainty` to flag honestly. Silent dropping makes downstream consumers blind to quality variance across cards.
 
 ## Voice
 

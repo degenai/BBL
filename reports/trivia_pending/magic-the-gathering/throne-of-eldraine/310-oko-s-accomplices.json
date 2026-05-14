@@ -1,0 +1,42 @@
+{
+  "card_name": "Oko's Accomplices",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "310",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Oko's Accomplices is a Planeswalker Deck exclusive — it appears only in the 'Oko, Thief of Crowns' Planeswalker Deck (collector numbers 309-313), not in draft boosters. It shares the deck's green-blue color identity with Oko, the Trickster, the simplified Planeswalker Deck Oko version.",
+      "sources": ["Scryfall ELD-310", "Wizards.com: Throne of Eldraine Planeswalker Decks 2019-09-18"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Flavor text: 'They function as everything from assassins to jesters in the name of their fae king.' Oko in ELD lore is a shapeshifter fey planeswalker whose spark ignited during a suppression procedure. Community and lore coverage describes Oko as playing an Oberon-adjacent role — a fae king whose followers perform whatever role he requires.",
+      "sources": ["card frontmatter flavor_text", "MTG Wiki: Oko via WebSearch snippet", "Bell of Lost Souls: The Tale of Oko 2024"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A {2}{U} 2/3 Flying faerie creature is a solid Limited body but sees essentially no Constructed or Commander play outside of Faerie tribal. As a Planeswalker Deck card it is intentionally simple — designed to be entry-level introductory.",
+      "sources": ["Scryfall ELD-310 format legalities", "MTGSalvation: Oko's Accomplices listing via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Oko, Thief of Crowns (ELD-197) was banned from Standard and Brawl in November 2019, one of the fastest Standard bannings in modern MTG history. Oko's Accomplices is permanently linked to a banned planeswalker's Planeswalker Deck — an unusual position. The Deck's simplified 'Oko, the Trickster' (ELD-309) was not banned.",
+      "sources": ["Wizards.com November 2019 banning announcement via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Oko, Thief of Crowns", "set": "ELD", "note": "lore-canonical Oko whose accomplices this card depicts; banned Standard November 2019"},
+    {"name": "Oko, the Trickster", "set": "ELD", "note": "the Planeswalker Deck version of Oko; this card's home product"},
+    {"name": "Faerie Vandal", "set": "CMZ", "note": "blue flying faerie creature in the corpus; faerie-tribal parallel"},
+    {"name": "Charmed Sleep", "set": "ELD", "note": "fellow ELD card in the corpus"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

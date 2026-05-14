@@ -1,0 +1,36 @@
+{
+  "card_name": "Hidden Power Uub",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-014",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Uub'. Depicted figure is a young dark-skinned boy in a fighting stance matching Uub's canonical appearance. The card's Earthling special trait and Black Star Dragon Ball Saga era designation confirm this is Uub as he appears in Dragon Ball GT after five years of training with Goku.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cross Worlds (BT3) released March 9, 2018, and indexes Uub under the Black Star Dragon Ball Saga era — placing this card during Dragon Ball GT, after Uub has trained with Goku for five years following the end of Dragon Ball Z [dbs-cardgame.com: BT3-014 card entry].",
+      "sources": ["dbs-cardgame.com: BT3-014 card entry", "WebSearch snippet: Hidden Power Uub TCG details"]
+    },
+    {
+      "category": "design",
+      "text": "BT3-014 is a Common Battle card (Red, 20000 power) whose game mechanic gives it Double Strike — dealing 2 damage instead of 1 when attacking — which directly mirrors Uub's character arc: his power is hidden and disproportionate to his humble appearance [WebSearch snippet: dbs-cardgame.com BT3-014].",
+      "sources": ["WebSearch snippet: Hidden Power Uub TCG details"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Uub is the human reincarnation of Kid Buu — King Yemma reincarnated Kid Buu in response to Goku's wish for a worthy opponent. As the purest form of Majin Buu reborn human, Uub retains immense latent power but loses the Majin's regeneration and body-manipulation abilities. The 'Hidden Power' card name directly references this premise: a child who appears ordinary but contains the compressed evil of the universe's most dangerous being, reformed [Dragon Ball official site: Weekly Character Showcase no. 78, Uub; Game Rant: Dragon Ball Who Is Uub].",
+      "sources": ["en.dragon-ball-official.com: Weekly Character Showcase Uub", "Game Rant: Dragon Ball Who Is Uub"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Quick Rush Trunks", "set": "Cross Worlds", "note": "Same set (BT3), same Red color, same 2018 release cohort"},
+    {"name": "Uub Leader cards", "set": "World Martial Arts Tournament (TB2)", "note": "TB2 set includes a dedicated Uub leader card, showing the character's importance across DBS TCG sets"},
+    {"name": "Majuub", "set": "Various DBS sets", "note": "Uub's fusion form with Good Buu appears in later DBS TCG sets"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Uub",
+    "ip_confidence": "high"
+  }
+}

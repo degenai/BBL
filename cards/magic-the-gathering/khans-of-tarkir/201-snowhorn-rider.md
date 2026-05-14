@@ -14,10 +14,10 @@ tags_hub: ["mammoth", "horned-beast", "mount", "rider", "charge", "snow", "winte
 tags_filter: ["duo", "mid-shot", "action-mode", "three-quarter-facing", "creature-human-warrior", "multicolor-bant", "green-magic", "white-magic", "blue-magic", "trample", "morph", "armor", "no-architecture"]
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/201-snowhorn-rider.png
 average_cost_paid: 0
-market_price: 0.07
-market_price_as_of: 2026-05-13
+market_price: 0.08
+market_price_as_of: 2026-05-14
 date_added: 2026-05-07
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

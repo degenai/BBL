@@ -17,10 +17,10 @@ tags_hub: ["eldrazi", "worship", "idol", "tentacles", "cult", "monster", "scale"
 tags_filter: ["crowd", "wide", "scene-mode", "forward-facing", "colorless-artifact", "artifact-creature", "eldrazi-spawn", "annihilator"]
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/210-idol-of-false-gods.png
 average_cost_paid: 0
-market_price: 0.32
-market_price_as_of: 2026-05-13
+market_price: 0.3
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/d/5/d5e1ff6d-190a-497f-89c3-35e0979c93b5.png?1717012902
 art_match_confidence: high
 needs_manual_review: false

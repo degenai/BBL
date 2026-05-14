@@ -1,0 +1,36 @@
+{
+  "card_name": "Alacrian Jaguar",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "152",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The 'Alacrian' in the card name refers to Alacria, a plane connected to Avishkar by a relatively stable, predictable Omenpath that opens and closes on regular cycles. Alacrian Quickbeasts — the racing team represented by this card — are ancient, intelligent creatures fueled by aether that can sustain high speeds across varied terrain for days between feedings. The team is led by a rider-and-Quickbeast pair named Caradora and Lagorin, bound together by tragic circumstances back home [magic.wizards.com: Planeswalker's Guide to Aetherdrift Part 1; WebSearch snippet: Alacrian Quickbeasts MTG Wiki].",
+      "sources": ["magic.wizards.com: Planeswalker's Guide to Aetherdrift Part 1", "WebSearch snippet: Alacrian Quickbeasts MTG Wiki Fandom"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Alacrian Jaguar is a 4/4 Cat Mount (5 mana, Green) with Vigilance and the Saddle 1 mechanic: tap one or more other creatures you control with total power 1 or more to saddle it at sorcery speed. While saddled and attacking, it gets +2/+2 until end of turn (making it a 6/6 attacker). Scryfall confirms it is Pauper-legal — one of the few Mounts in Aetherdrift legal at that rarity floor. EDHREC rank 21,789. No flavor text [Scryfall: card 2bd40bca].",
+      "sources": ["Scryfall: card 2bd40bca — oracle_text, legalities, edhrec_rank"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Andrey Kuzinskiy. The Saddle mechanic was first introduced in Outlaws of Thunder Junction (2024), making Aetherdrift its second outing. Key difference from Vehicles: Mounts are already creatures and attack unsaddled; Saddle activates at sorcery speed (unlike Crew, which works at instant speed). Alacrian Jaguar's Saddle 1 threshold is extremely low — nearly any creature qualifies — making it one of the most easily saddled Mounts in the set [Scryfall: card 2bd40bca; magic.wizards.com: Aetherdrift Mechanics].",
+      "sources": ["Scryfall: card 2bd40bca — artist", "magic.wizards.com: Aetherdrift Mechanics", "WebSearch snippet: Saddle mechanic Draftsim"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Outpace Oblivion", "set": "Aetherdrift", "note": "DFT-139 — same set, Red companion; the Aetherdrift racing package spans Red speed/damage and Green mount/creature cards"},
+    {"name": "Pacesetter Paragon", "set": "Aetherdrift", "note": "DFT-140 — Human Pilot; Saddle pairs Mounts with Pilots, creating natural thematic links across creature types"},
+    {"name": "Gloryheath Lynx", "set": "Aetherdrift", "note": "Another Cat Mount in DFT — parallel design within the Mount creature subtype"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

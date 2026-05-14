@@ -1,0 +1,42 @@
+{
+  "card_name": "Turn into a Pumpkin",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "69",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Turn into a Pumpkin is one of the core members of the Cinderella thematic cycle in Throne of Eldraine (ELD, released October 4, 2019). The cycle includes Enchanted Carriage (no. 218), Faerie Guidemother (no. 11), and Midnight Clock (no. 54), each encoding a key beat of the Cinderella fairy tale as a Magic card. This card encodes the stroke-of-midnight reversal: the pumpkin-coach turning back at the deadline. [Wizards: Mark Rosewater 'Eldraine or Shine' 2019-09-09; dotesports.com coverage of MaRo ELD spoiler story]",
+      "sources": ["Wizards of the Coast: 'Eldraine or Shine' Rosewater article 2019-09-09", "dotesports.com: 'Mark Rosewater shares the Throne of Eldraine tale'"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Vincent Proce, ELD no. 69, released 2019-10-04. Proce's art depicts a creature already mid-transformation: the hunched figure in the pumpkin patch reads simultaneously as the ogre the target is becoming AND as Cinderella's coach caught in the act of reverting. The Adamant ability (requiring triple blue mana for the Food token bonus) situates the card in the blue-heavy tempo identity of ELD's courtly magic. [Scryfall: eld/69]",
+      "sources": ["Scryfall: eld/69"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text: 'Return target nonland permanent to its owner's hand. Draw a card. Adamant — If at least three blue mana was spent to cast this spell, create a Food token.' The base bounce-plus-draw effect (cost {3}{U}) makes this a functional tempo tool in blue. The Food token bonus links to the set's Food-token subtheme (also present on Enchanted Carriage's Mouse tokens and the Jack and the Beanstalk storyline). Scryfall edhrec_rank puts this mid-niche — it sees play in ELD-themed Commander brews but not in format-defining blue tempo decks. [Scryfall: eld/69; oracle_text in frontmatter]",
+      "sources": ["Scryfall: eld/69"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Cinderella cycle is one of several fairy-tale micro-cycles Wizards explicitly designed into ELD: others include the Jack and the Beanstalk cluster (Beanstalk Giant / Henge Walker / Tall as a Beanstalk) and the Hansel & Gretel cluster (Gingerbread Cabin / Witch's Oven / Tempting Witch). Mark Rosewater confirmed ELD's design philosophy was 'fairy tale top-down first, mechanical second' in the 'Eldraine or Shine' column, making cycle-spotting a first-class curation tool for ELD cards. [Wizards: Rosewater 'Eldraine or Shine' 2019-09-09; CardKingdom blog 'Top 10 Folklore References in Throne of Eldraine']",
+      "sources": ["Wizards of the Coast: 'Eldraine or Shine' 2019-09-09", "CardKingdom blog: 'Top 10 Folklore References in Throne of Eldraine'"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Enchanted Carriage", "set": "Throne of Eldraine (218)", "note": "Fellow Cinderella cycle member; already trivia'd in corpus; pumpkin-to-carriage transformation"},
+    {"name": "Faerie Guidemother", "set": "Throne of Eldraine (11)", "note": "The fairy godmother beat of the cycle; Adventure card"},
+    {"name": "Midnight Clock", "set": "Throne of Eldraine (54)", "note": "The stroke-of-midnight beat; completes the 4-card Cinderella cycle"},
+    {"name": "Beloved Princess", "set": "Throne of Eldraine (7)", "note": "Cinderella-adjacent common; wicked-guardian cycle sibling"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

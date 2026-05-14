@@ -17,10 +17,10 @@ tags_hub: ["ring", "energy", "link", "tether", "glow", "green", "circle", "conne
 tags_filter: ["close-up", "abstract", "no-face", "trainer-item", "none-figure", "grass-type"]
 reference_image: cards/_images/pokemon/evolutions/89-108-venusaur-spirit-link.png
 average_cost_paid: 0
-market_price: 0.28
-market_price_as_of: 2026-05-13
+market_price: 0.3
+market_price_as_of: 2026-05-14
 date_added: 2026-05-07
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/xy12/89_hires.png
 art_match_confidence: high
 needs_manual_review: false

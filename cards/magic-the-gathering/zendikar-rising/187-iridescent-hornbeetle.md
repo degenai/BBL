@@ -14,10 +14,10 @@ tags_hub: ["beetle", "insect", "bug", "horn", "iridescence", "jungle", "forest",
 tags_filter: ["solo", "close-up", "portrait-mode", "faces-left", "no-face", "green-magic", "creature-insect", "token-generator", "counters-matter"]
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/187-iridescent-hornbeetle.png
 average_cost_paid: 0
-market_price: 0.2
-market_price_as_of: 2026-05-13
+market_price: 0.24
+market_price_as_of: 2026-05-14
 date_added: 2026-05-05
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

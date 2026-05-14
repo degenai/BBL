@@ -1,0 +1,36 @@
+{
+  "card_name": "Razor's Edge Yakon",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-017",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Yakon'. Depicted figure is a hulking green alien creature with spiky protrusions, large clawed hands, and a wide mouth — matching Yakon's canonical appearance as a giant insectoid/reptilian alien from the Planet of Darkness. Card special traits Alien/World Tournament and era The Evil Wizard Babidi Saga confirm identity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Razor's Edge Yakon (TB2-017) is a Common Battle card from the World Martial Arts Tournament themed booster set (2018), indexed to The Evil Wizard Babidi Saga and carrying the special traits Alien/World Tournament. Yakon is one of Babidi's three primary henchmen (alongside Pui Pui and Dabura), deployed to drain energy for Majin Buu's resurrection [dbs-cardgame.com: TB02 card list].",
+      "sources": ["dbs-cardgame.com: TB02 card list", "WebSearch snippet: Razor's Edge Yakon TCG details"]
+    },
+    {
+      "category": "design",
+      "text": "TB2-017's game mechanic accumulates cards under itself (placed from the top of your deck when your opponent attacks), gaining +5000 power per card stacked beneath it — a 'growth under pressure' effect. The card self-destructs when 5 or more cards are placed under it. This mirrors Yakon's in-story ability: he can absorb light energy to grow stronger, but overloads and explodes when Goku feeds him too much by transforming into a Super Saiyan [WebSearch snippet: Razor's Edge Yakon card details; Dragon Ball Wiki: Yakon].",
+      "sources": ["WebSearch snippet: Razor's Edge Yakon card details", "dragon-ball-official.com: Weekly Character Showcase Yakon no. 163"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Yakon originates from the Planet of Darkness, a world permanently shrouded in shadow. His species — Anoku-seijin — evolved to see in the dark and absorb light as sustenance. Goku defeats him not through superior combat, but by overfeeding his light-absorbing ability: going Super Saiyan produces so much light energy that Yakon literally explodes from overload. This makes Yakon one of the few Dragon Ball Z antagonists defeated by the mechanic of his own power rather than being outmatched in a fight [dragon-ball-official.com: Weekly Character Showcase Yakon no. 163; Dragon Ball Wiki: Yakon via WebSearch snippet].",
+      "sources": ["dragon-ball-official.com: Weekly Character Showcase Yakon no. 163", "WebSearch snippet: Dragon Ball Wiki Yakon"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dark Duo Dabura", "set": "World Martial Arts Tournament", "note": "TB2-014 — fellow Babidi henchman, same TB2 set"},
+    {"name": "Heroic Duo Son Gohan", "set": "World Martial Arts Tournament", "note": "TB2-003 — Gohan fought Dabura; Goku fought Yakon; both hero/villain pairs from the Babidi Saga"},
+    {"name": "Hidden Power Uub", "set": "Cross Worlds", "note": "BT3-014 — another character whose power mechanic thematically mirrors their in-story ability"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Yakon",
+    "ip_confidence": "high"
+  }
+}

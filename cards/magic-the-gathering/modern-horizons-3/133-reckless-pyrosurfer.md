@@ -18,9 +18,9 @@ tags_filter: ["solo", "wide", "three-quarter", "red-magic", "creature", "haste",
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/133-reckless-pyrosurfer.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/2/d/2d1bb8ac-7125-4537-b2da-e23a8c28df79.png?1717012281
 art_match_confidence: high
 needs_manual_review: false

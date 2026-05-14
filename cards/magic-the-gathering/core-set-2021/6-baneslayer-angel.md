@@ -14,10 +14,10 @@ tags_hub: ["angel", "demon", "wings", "sword", "armor", "smiting", "good-vs-evil
 tags_filter: ["duo", "mid-shot", "action-mode", "three-quarter-facing", "female-figure", "white-magic", "creature-angel", "flying", "first-strike", "lifelink", "protection", "mythic-rarity"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/6-baneslayer-angel.png
 average_cost_paid: 0
-market_price: 3.02
-market_price_as_of: 2026-05-13
+market_price: 2.95
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'

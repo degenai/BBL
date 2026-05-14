@@ -16,9 +16,9 @@ tags_filter: ["solo", "mid-shot", "action-mode", "three-quarter-facing", "creatu
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/135-fear-of-burning-alive.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/b/2/b282f8e3-8b79-47e9-8c18-62284211442b.png?1726286352
 art_match_confidence: high
 needs_manual_review: false

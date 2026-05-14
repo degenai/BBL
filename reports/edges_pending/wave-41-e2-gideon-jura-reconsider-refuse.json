@@ -1,0 +1,26 @@
+{
+  "edge_id": "wave-41-e2-gideon-jura-reconsider-maintained-refusal",
+  "shape": "refusal-with-receipts-plus-corrective-frontmatter-edit",
+  "category": "named-character-identity",
+  "topology": "no-edge",
+  "endpoints": [
+    {"type": "candidate-node", "path": "cards/_characters/gideon-jura.md (NOT created)", "name": "Gideon Jura (refused)"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/30-gideon-s-reproach.md", "name": "Gideon's Reproach (BFZ-30) — 1 depiction"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/49-smite-the-monstrous.md", "name": "Smite the Monstrous (BFZ-49) — flavor-speaker only"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/51-stone-haven-medic.md", "name": "Stone Haven Medic (BFZ-51) — wave 41 suspicion REJECTED"}
+  ],
+  "description": "Maintaining refusal. Worst proposed Gideon-anchor since the last one — wave 41 vision agent stamped Stone Haven Medic with suspected_ip: Gideon Jura at LOW confidence because tall muscular figure healing in a cave. Long pale hair. Gideon Jura's canonical visual identifier across the entire BFZ block is SHORT DARK HAIR. The Stone Havens are canonical kor settlement infrastructure per Cliffside Lookout's flavor. A long-pale-haired healer at a Stone-Havens-named card is a kor field-medic, not the planeswalker. Suspicion cleared in frontmatter. Total Gideon-anchor count holds at 1 depiction (Gideon's Reproach BFZ-30) + 1 flavor-speaker (Smite the Monstrous BFZ-49) = below the standard 2-depictions threshold. Considered the Valgavoth precedent (referenced-not-depicted-but-load-bearing) and rejected it on structural-symmetry grounds: Valgavoth's case was load-bearing because Duskmourn's whole arc thesis routes through him; Gideon's BFZ presence is one beat in a Gatewatch ensemble where four other planeswalkers (Chandra, Nissa, Kiora, Jace) all sit at the same low-anchor count, so singling out Gideon would break the ensemble's structural symmetry. The Ajani-wave-35 precedent holds. Refused.",
+  "citations": [
+    "In-corpus Gideon's Reproach BFZ-30 vision body (canonical short-dark-hair Gideon reference)",
+    "In-corpus Cliffside Lookout BFZ-20 flavor text ('Stone Havens' canonical kor settlement infrastructure)",
+    "Wave 35 Ajani Goldmane refusal precedent (1 depicted + 2 flavor-speakers = below threshold)",
+    "Wave 39 Valgavoth precedent (referenced-not-depicted-but-load-bearing — distinguished on structural-symmetry grounds)",
+    "MTG Wiki: Gideon Jura character page (visual reference)",
+    "MTG Wiki: Battle for Zendikar story archive (Gatewatch ensemble context)"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/battle-for-zendikar/51-stone-haven-medic.md (suspected_ip cleared, replaced with ip_cleared note + Vision callout swapped from warning to cleared-note)",
+    "reports/janitor_triage.md (Gideon Jura entry updated with wave 41 E2 reconsideration verdict)"
+  ],
+  "edgelord_mood": "satisfied"
+}

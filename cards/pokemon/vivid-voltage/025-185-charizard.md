@@ -14,10 +14,10 @@ tags_hub: ["fire", "dragon", "wings", "power", "flame", "blue-flame", "evolution
 tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "colorless-magic", "rare", "stage-2-pokemon"]
 reference_image: cards/_images/pokemon/vivid-voltage/025-185-charizard.png
 average_cost_paid: 0
-market_price: 4.28
-market_price_as_of: 2026-05-13
+market_price: 4.23
+market_price_as_of: 2026-05-14
 date_added: 2026-05-05
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh4/25_hires.png
 art_match_confidence: high
 needs_manual_review: false

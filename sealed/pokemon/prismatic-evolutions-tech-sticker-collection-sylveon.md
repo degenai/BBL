@@ -5,10 +5,10 @@ set: Prismatic Evolutions
 sealed: true
 quantity: 1
 average_cost_paid: 0
-market_price: 38.35
-market_price_as_of: 2026-05-13
+market_price: 38.13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-05
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 ---
 
 # Prismatic Evolutions Tech Sticker Collection [Sylveon]

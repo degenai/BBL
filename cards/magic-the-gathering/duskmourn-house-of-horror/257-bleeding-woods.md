@@ -15,10 +15,10 @@ tags_hub: ["haunted-forest", "forest", "blood", "gothic", "graveyard", "stained-
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "land", "red-magic", "green-magic", "multicolor-red-green", "dual-land"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/257-bleeding-woods.png
 average_cost_paid: 0
-market_price: 0.13
-market_price_as_of: 2026-05-13
+market_price: 0.12
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/c/b/cb224874-aff5-461f-82ee-89b06663231a.png?1726286833
 art_match_confidence: high
 needs_manual_review: false

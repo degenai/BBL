@@ -14,10 +14,10 @@ tags_hub: ["bell", "wind", "music", "psychic", "floating", "sky", "gentle", "chi
 tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "psychic-type", "creature-psychic", "pokemon"]
 reference_image: cards/_images/pokemon/vivid-voltage/072-185-chimecho.png
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-13
+market_price: 0.19
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh4/72_hires.png
 art_match_confidence: high
 needs_manual_review: false

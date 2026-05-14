@@ -14,10 +14,10 @@ tags_hub: ["forest", "trees", "wilderness", "vines", "roots", "moss", "overgrowt
 tags_filter: ["no-figure", "wide-shot", "scene-mode", "no-face", "enchantment", "green-magic", "landscape"]
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/110-asceticism.png
 average_cost_paid: 0
-market_price: 6.75
-market_price_as_of: 2026-05-13
+market_price: 6.67
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

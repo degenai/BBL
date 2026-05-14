@@ -14,10 +14,10 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/pokemon/sword-shield-base-set/179-202-quick-ball.png
 average_cost_paid: 0
-market_price: 0.15
-market_price_as_of: 2026-05-13
+market_price: 0.14
+market_price_as_of: 2026-05-14
 date_added: 2026-05-08
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/dp5/86_hires.png
 art_match_confidence: low
 needs_manual_review: true

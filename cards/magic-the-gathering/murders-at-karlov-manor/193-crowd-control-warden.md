@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "action", "three-quarter", "green-magic", "whi
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/193-crowd-control-warden.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/c/d/cdf0578f-4966-4ecd-81e1-83ae13126f13.png?1706242133
 art_match_confidence: high
 needs_manual_review: false

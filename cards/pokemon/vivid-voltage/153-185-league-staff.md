@@ -18,10 +18,10 @@ tags_hub: ["uniform", "labor", "service-worker", "staff", "institution", "galar"
 tags_filter: ["duo", "mid-shot", "portrait", "forward-facing", "trainer-supporter", "colorless-energy"]
 reference_image: cards/_images/pokemon/vivid-voltage/153-185-league-staff.png
 average_cost_paid: 0
-market_price: 0.05
-market_price_as_of: 2026-05-13
+market_price: 0.04
+market_price_as_of: 2026-05-14
 date_added: 2026-05-07
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh4/153_hires.png
 art_match_confidence: high
 needs_manual_review: false

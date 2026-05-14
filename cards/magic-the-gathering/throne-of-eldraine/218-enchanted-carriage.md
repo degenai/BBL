@@ -15,9 +15,9 @@ tags_filter: ["no-figures", "mid-shot", "scene-mode", "three-quarter-view", "art
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/218-enchanted-carriage.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,6 +28,7 @@ setting: other
 suspected_ip: Cinderella (fairy tale, public domain)
 ip_confidence: high
 ip_verified: true
+characters: [eld-cinderella-cycle]
 artist: Zoltan Boros
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/218-enchanted-carriage--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/0/0057c2ae-ea4f-404a-ab95-f3979efd1b3b.jpg?1572490964
@@ -40,8 +41,8 @@ oracle_text: When this Vehicle enters, create two 1/1 white Mouse creature token
 
 ![218-enchanted-carriage](../../_images/magic-the-gathering/throne-of-eldraine/218-enchanted-carriage.png)
 
-> [!warning] Suspected IP: **Cinderella (fairy tale, public domain)** (confidence: low, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Cinderella (fairy tale, public domain)**
+> Confirmed via Rosewater's design articles explicitly naming "the pumpkin carriage" as the Cinderella object driving ELD's artifact suite, plus Scryfall card metadata. Public-domain fairy tale; no external IP risk.
 
 A bulbous orange pumpkin has been transformed into an elegant carriage, its ridged gourd-body forming the cabin, capped with a small curling stem on top. Gold scrollwork frames an arched door and small windows. The coach rests on four spoked wooden wheels and is parked on grey cobblestone paving beside a tall wooden post. The sky behind is overcast and pale, suggesting early evening or the moment before the magic fades. The mood is whimsical and storybook, with a faint sense of impending midnight.
 

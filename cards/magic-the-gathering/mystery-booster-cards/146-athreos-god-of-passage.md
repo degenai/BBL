@@ -14,10 +14,10 @@ tags_hub: ["death", "skeleton", "psychopomp", "ferryman", "robed-figure", "god",
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "white-magic", "black-magic", "multicolor-white-black", "enchantment", "creature-god", "legendary"]
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/146-athreos-god-of-passage.png
 average_cost_paid: 0
-market_price: 15.06
-market_price_as_of: 2026-05-13
+market_price: 14.99
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

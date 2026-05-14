@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "action", "three-quarter", "pointed-ears", "al
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/59-furtive-courier.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/6/f/6f359fc2-b9e4-4a01-9d04-442bb160b01e.png?1706241613
 art_match_confidence: high
 needs_manual_review: false

@@ -19,9 +19,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "action", "red-magic", "inst
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/134-reiterating-bolt.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/5/1/51f57902-85d1-4c40-b79c-6cffafb4557a.png?1717012291
 art_match_confidence: high
 needs_manual_review: false

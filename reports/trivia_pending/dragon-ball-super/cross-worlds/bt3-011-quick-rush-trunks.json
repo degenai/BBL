@@ -1,0 +1,36 @@
+{
+  "card_name": "Quick Rush Trunks",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-011",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Trunks'. Depicted figure has purple hair and brown jacket matching Dragon Ball GT Trunks (Adolescence) appearance confirmed by card's special trait 'Saiyan/Earthling' and Black Star Dragon Ball Saga era designation. Identity confirmed via card oracle text.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cross Worlds (DBS-B03) is the third booster set for the Dragon Ball Super Card Game, released March 9, 2018, and draws from multiple Dragon Ball eras including the Black Star Dragon Ball Saga (Dragon Ball GT) and the Majin Buu Saga [TCGPlayer: Cross Worlds set listing].",
+      "sources": ["TCGPlayer: Cross Worlds set listing", "dbs-cardgame.com: BT3 card list"]
+    },
+    {
+      "category": "design",
+      "text": "Quick Rush Trunks (BT3-011) is an Uncommon Battle card carrying the special traits Saiyan/Earthling and the era designation Black Star Dragon Ball Saga, placing this version of Trunks in Dragon Ball GT continuity rather than Dragon Ball Z's future timeline. The card's [Critical] skill deals damage directly to the opponent's life area [dbs-cardgame.com card list].",
+      "sources": ["dbs-cardgame.com: BT3-011 card entry", "WebSearch snippet: Quick Rush Trunks TCG details"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "In Dragon Ball GT, Trunks is the adult president of Capsule Corporation and wears a brown jacket over dark clothing — the brown open jacket and purple hair seen in this card's art are signature visual identifiers of GT-era Trunks, distinguishing him from the lavender-to-blue-haired Future Trunks of Dragon Ball Z and Dragon Ball Super [Wikipedia: Trunks (Dragon Ball)].",
+      "sources": ["Wikipedia: Trunks (Dragon Ball)", "CBR: Dragon Ball Super Why Present and Future Trunks Have Different Hair Colors"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Trunks // Super Saiyan Trunks, Protector of Time", "set": "Cross Worlds", "note": "Alternate Trunks leader card from the same BT3 set"},
+    {"name": "Hidden Power Uub", "set": "Cross Worlds", "note": "Same set (BT3), same Red color, same 2018 release"},
+    {"name": "Heroic Duo Son Gohan", "set": "World Martial Arts Tournament", "note": "Gohan and Trunks are both half-Saiyan adolescent heroes in the DBS TCG roster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Trunks",
+    "ip_confidence": "high"
+  }
+}

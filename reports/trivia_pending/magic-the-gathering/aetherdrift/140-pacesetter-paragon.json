@@ -1,0 +1,36 @@
+{
+  "card_name": "Pacesetter Paragon",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "140",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Aetherdrift (DFT) released February 14, 2025. Pacesetter Paragon is a Human Pilot creature in the set's racing framework, representing one of the ten competing teams in the Ghirapur Grand Prix — the interplanar death-race at the set's center [Scryfall: card 7364b4dc; magic.wizards.com: The Legends of Aetherdrift].",
+      "sources": ["Scryfall: card 7364b4dc", "magic.wizards.com: The Legends of Aetherdrift"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Pacesetter Paragon (2/3 for 2R) carries the Exhaust mechanic introduced in Aetherdrift: pay {2}{R} once to place a +1/+1 counter on it and grant double strike until end of turn. Exhaust abilities can only be activated once per card per game — flavored as a nitrous-style one-shot burst. The card was previewed January 24, 2025, via CNet. EDHREC rank 25,561 reflects niche use. No flavor text [Scryfall: card 7364b4dc].",
+      "sources": ["Scryfall: card 7364b4dc — oracle_text, preview, edhrec_rank"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Wonchun Choi. The type line 'Creature — Human Pilot' uses Pilot as a creature subtype introduced for Aetherdrift's vehicle-and-mount racing theme; Pilot had precedent from Kaladesh block (2016) where it was used for vehicle-crew synergy. The Exhaust mechanic's one-use-per-game restriction makes double strike on a 2/3 body a strong but non-repeatable combat swing [Scryfall: card 7364b4dc; magic.wizards.com: Aetherdrift Mechanics].",
+      "sources": ["Scryfall: card 7364b4dc — artist, type_line", "magic.wizards.com: Aetherdrift Mechanics"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Outpace Oblivion", "set": "Aetherdrift", "note": "DFT-139 — same set, same Red color, consecutive collector number, same racing theme"},
+    {"name": "Alacrian Jaguar", "set": "Aetherdrift", "note": "DFT-152 — same set, Green Mount; the Saddle mechanic pairs Mounts with Pilots"},
+    {"name": "Back on Track", "set": "Aetherdrift", "note": "Previewed alongside Pacesetter Paragon by CNet on January 24, 2025 — same preview event"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

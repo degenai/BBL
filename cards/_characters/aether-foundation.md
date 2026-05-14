@@ -10,6 +10,7 @@ confidence: canonical
 appears_on:
   - pokemon/lost-thunder/168-aether-foundation-employee
   - pokemon/shining-legends/62-lillie
+  - pokemon/cosmic-eclipse/100-236-cosmog
 related_hubs: [labor]
 related_symbols: []
 related_characters: [macro-cosmos, team-skull, team-rocket, alola-elite-four, alola-trial-captains, alolan-regional-forms]

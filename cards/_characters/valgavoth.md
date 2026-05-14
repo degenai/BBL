@@ -7,7 +7,13 @@ faction: ~
 species: Demon (moth-coded); pre-Ascension a trapped lesser entity that fed on Duskmourn's fear until it grew large enough to consume the plane
 canonical_source: "MTG Wiki — Valgavoth (character page); MTG Wiki — Duskmourn: House of Horror (set page); Wizards: Planeswalker's Guide to Duskmourn; Star City Games — Duskmourn Episode 6 'Valgavoth's True Form Is Revealed'"
 confidence: canonical
-appears_on: []
+appears_on:
+  - magic-the-gathering/duskmourn-house-of-horror/50-duskmourn-s-domination
+  - magic-the-gathering/duskmourn-house-of-horror/126-betrayer-s-bargain
+  - magic-the-gathering/duskmourn-house-of-horror/141-infernal-phantom
+  - magic-the-gathering/duskmourn-house-of-horror/197-say-its-name
+  - magic-the-gathering/duskmourn-house-of-horror/198-slavering-branchsnapper
+  - magic-the-gathering/duskmourn-house-of-horror/206-wary-watchdog
 related_hubs: []
 related_symbols: []
 ip_resolution_for: valgavoth
@@ -21,7 +27,7 @@ The malevolent moth-demon intelligence who consumed the plane of Duskmourn from 
 
 Cards that reference Valgavoth by name in flavor text, depict the consequences of his Ascension (the swallowed suns, the House overtaking the plane, the survivors' fear-state being farmed), or render the narrative beats of his contract / dominion / pursuit. The character is large enough that he splits into substantively different aspects across the set's design — direct flavor citation, atmospheric set-context, Glimmer-opposition iconography, story-spotlight contract narrative — and the BBL graph can edge those aspects together through this anchor node rather than card-to-card.
 
-**Referenced-not-depicted caveat:** No current BBL corpus card depicts Valgavoth himself. The two named printings (DSK-120 and DSC-6) are not in inventory. This node is created on the **pervasive-antagonist** precedent (cf. [[phyrexia]], which similarly anchors faction-level pervasive presence even where specific named-character printings are absent), not on the depicted-anchor precedent (cf. [[acerola]], [[nicol-bolas]], which require ≥1 depicted print). The pervasive-antagonist threshold here is met by **9 corpus cards referencing the character across multiple referential vectors**, documented below.
+**Referenced-not-depicted caveat:** No current BBL corpus card depicts Valgavoth himself. The two named printings (DSK-120 and DSC-6) are not in inventory. This node is created on the **pervasive-antagonist** precedent (cf. [[phyrexia]], which similarly anchors faction-level pervasive presence even where specific named-character printings are absent), not on the depicted-anchor precedent (cf. [[acerola]], [[nicol-bolas]], which require ≥1 depicted print). The pervasive-antagonist threshold here is met by **9 corpus cards referencing the character across multiple referential vectors**, documented below. **The node's `appears_on:` frontmatter list (6 cards as of wave 45) is a strict subset of the 9-card body reference roster** — wired cards are those whose trivia carries either direct flavor-text citation (Wary Watchdog, Duskmourn's Domination), narrative-agent citation (Betrayer's Bargain), or set-context citation with load-bearing Valgavoth-specific detail (Infernal Phantom's moth-demon coding, Say Its Name's wings-condemn iconography, Slavering Branchsnapper's swallowed-suns cosmology). Generic set-context-only citations that name Valgavoth solely as plane-ruler boilerplate (Razorkin Hordecaller, Frantic Strength, Moldering Gym // Weight Room, Smoky Lounge // Misty Salon) remain documented in the body roster but are NOT frontmatter-wired here — their Valgavoth-mentions are inheritable from set membership rather than load-bearing on the character himself.
 
 ## Corpus references (current)
 

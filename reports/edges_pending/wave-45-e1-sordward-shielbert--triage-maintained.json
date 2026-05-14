@@ -1,0 +1,15 @@
+{
+  "edge_id": "wave-45-e1-sordward-shielbert--triage-maintained",
+  "shape": "refusal",
+  "category": "below-threshold-character-node",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/battle-styles/135-163-sordward-shielbert.md", "name": "Sordward & Shielbert (Battle Styles 135/163)"}
+  ],
+  "description": "Worst proposed character node ever — kidding. The pair is real, IP-verified, and canonically rich (Galar post-game DLC villains, sword/shield-hair design pun, redemption arc, etc.). But the corpus has exactly ONE anchor: BST-135/163. The slate-noted BST-171/163 Full Art is the same character on the same art at higher rarity — a reprint, not a different narrative beat. Solo-pair character-node threshold (per Acerola / Team Rocket / Endriders precedent) is ≥2 corpus cards with distinct beats. Macro Cosmos parallel considered: rejected. Sordward and Shielbert are aristocratic-pretender post-game villains operating independently of the League's institutional apparatus — they're not League-sponsored or Macro-Cosmos-affiliated, not a gang-with-rank-and-file like Team Skull, just a closed two-person unit. Faction-collective shape doesn't fit; solo-pair shape doesn't yet clear threshold. Triage entry updated with the wave-45 re-look verdict, condition (a) ip_verified satisfied, condition (b) distinct-beat-corpus-card still pending.",
+  "citations": ["[Bulbapedia: Sordward; Serebii: Sordward & Shielbert]", "[in-corpus reports/janitor_triage.md wave-16 + wave-45 triage entry]"],
+  "files_modified": [
+    "reports/janitor_triage.md"
+  ],
+  "topology": "n/a (no edge drawn)",
+  "edgelord_mood": "satisfied"
+}

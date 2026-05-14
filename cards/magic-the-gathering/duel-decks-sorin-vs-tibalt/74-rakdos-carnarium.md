@@ -14,10 +14,10 @@ tags_hub: ["arena", "cavern", "altar", "cult", "blood-sport", "underground", "to
 tags_filter: ["wide-shot", "scene-mode", "no-face", "no-figure-focus", "land", "black-magic", "red-magic", "multicolor-black-red", "landscape-orientation", "deep-perspective", "crowd"]
 reference_image: cards/_images/magic-the-gathering/duel-decks-sorin-vs-tibalt/74-rakdos-carnarium.png
 average_cost_paid: 0
-market_price: 0.43
-market_price_as_of: 2026-05-13
+market_price: 0.42
+market_price_as_of: 2026-05-14
 date_added: 2026-05-07
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

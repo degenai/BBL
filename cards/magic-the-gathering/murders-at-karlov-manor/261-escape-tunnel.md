@@ -14,10 +14,10 @@ tags_hub: ["dungeon", "underground", "secret-room", "escape", "stash", "cellar",
 tags_filter: ["wide", "scene-mode", "no-face", "none-figures", "land", "colorless-land"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/261-escape-tunnel.png
 average_cost_paid: 0
-market_price: 0.29
-market_price_as_of: 2026-05-13
+market_price: 0.28
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/9/3/93ddde4f-d35e-4128-8f43-d0eadbd715de.png?1706242339
 art_match_confidence: high
 needs_manual_review: false

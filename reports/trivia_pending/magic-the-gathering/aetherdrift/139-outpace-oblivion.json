@@ -1,0 +1,36 @@
+{
+  "card_name": "Outpace Oblivion",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "139",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Aetherdrift (set code: DFT) released February 14, 2025, as MTG's 103rd expansion. The set is a multiplanar death-race spanning three planes: Avishkar (formerly Kaladesh, renamed to remove racial connotations), Amonkhet, and Muraganda. The race's prize is the Aetherspark — an artificial planeswalker spark created by an Avishkari inventor during the New Phyrexian Invasion [Scryfall: DFT set; magic.wizards.com: Planeswalker's Guide to Aetherdrift Part 1].",
+      "sources": ["Scryfall: DFT set metadata", "magic.wizards.com: Planeswalker's Guide to Aetherdrift Part 1"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Outpace Oblivion carries the 'Start your engines!' keyword, Aetherdrift's core speed mechanic. Speed starts at 1 on first trigger and increases by 1 on each of your turns when an opponent loses life, capping at max speed (4). The card deals 5 damage on entry and can sacrifice itself for 2 damage to all players not at max speed — punishing opponents who fall behind the speed curve [Scryfall: card c22e415f].",
+      "sources": ["Scryfall: card c22e415f", "magic.wizards.com: Aetherdrift Mechanics"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Raymond Swanland, a veteran Magic illustrator known for high-contrast, cinematic compositions. Outpace Oblivion was previewed January 30, 2025, via the official Wizards of the Coast YouTube channel. EDHREC rank 16838 indicates limited Commander demand — the card's strength is in Standard, not in singleton formats [Scryfall: artist Raymond Swanland; Scryfall: preview source YouTube link].",
+      "sources": ["Scryfall: card c22e415f — artist, preview fields"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Start Your Engines! // Max Speed", "set": "Aetherdrift", "note": "Scryfall marks this as a combo_piece partner for Outpace Oblivion — the double-faced card that represents the speed mechanic itself"},
+    {"name": "Pacesetter Paragon", "set": "Aetherdrift", "note": "DFT-140 — same set, same Red color, same release date; consecutive collector numbers suggest design proximity"},
+    {"name": "Alacrian Jaguar", "set": "Aetherdrift", "note": "DFT-152 — same set, Green complement in the racing-multiverse theme"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

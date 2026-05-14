@@ -14,10 +14,10 @@ tags_hub: ["tropical", "mentor", "leader", "elder", "rival", "island", "alola", 
 tags_filter: ["duo", "mid-shot", "forward-facing", "portrait-mode", "trainer-card", "supporter-card", "tag-team", "pokemon-ip"]
 reference_image: cards/_images/pokemon/cosmic-eclipse/193-236-guzma-hala.png
 average_cost_paid: 0
-market_price: 6.3
-market_price_as_of: 2026-05-13
+market_price: 6.33
+market_price_as_of: 2026-05-14
 date_added: 2026-05-08
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/sm12/193_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -29,7 +29,7 @@ setting: other
 suspected_ip: Guzma & Hala
 ip_confidence: high
 ip_verified: true
-characters: [team-skull, alola-elite-four]
+characters: [team-skull, alola-kahunas]
 ---
 
 # Guzma & Hala (Cosmic Eclipse)

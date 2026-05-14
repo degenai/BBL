@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide", "scene-mode", "no-face", "creature-eldrazi", "whit
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/23-encircling-fissure.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-12
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/5/7/575da7cb-6715-43df-a7b4-a4ca00216a1d.png?1562915475
 art_match_confidence: high
 needs_manual_review: false

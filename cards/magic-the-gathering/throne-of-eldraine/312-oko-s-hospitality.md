@@ -16,9 +16,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "green-magic",
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/312-oko-s-hospitality.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -42,8 +42,8 @@ oracle_text: Creatures you control have base power and toughness 3/3 until end o
 
 ![312-oko-s-hospitality](../../_images/magic-the-gathering/throne-of-eldraine/312-oko-s-hospitality.png)
 
-> [!warning] Suspected IP: **Oko** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Oko**
+> Confirmed via card title, oracle text (tutors for "Oko, the Trickster" by name), flavor text signed "—Oko," and MTG Wiki documentation of Oko's canonical stag/antler shapeshift form in the Wildered Quest novella. Internal Wizards character; no external IP risk.
 
 A tall antlered humanoid figure stands at center, draped in a long red cape or robe that flares dramatically. The figure has the head of a stag or elk with prominent branching antlers. Around the figure swirls a dome of luminous blue-teal magical energy with bright spark-like points of light, suggesting an enchantment or summoning being cast. The setting is a dim forested clearing rendered in muted blues and purples, with hints of foliage and tree silhouettes in the background. The contrast between the warm red garment and the cold blue magic dominates the composition.
 

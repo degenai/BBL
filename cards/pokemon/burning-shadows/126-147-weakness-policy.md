@@ -17,10 +17,10 @@ tags_hub: ["scroll", "document", "policy", "bubble", "protection", "iridescent",
 tags_filter: ["close-up", "abstract", "no-face", "trainer-item", "none-figure"]
 reference_image: cards/_images/pokemon/burning-shadows/126-147-weakness-policy.png
 average_cost_paid: 0
-market_price: 0.15
-market_price_as_of: 2026-05-13
+market_price: 0.14
+market_price_as_of: 2026-05-14
 date_added: 2026-05-08
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/sm3/126_hires.png
 art_match_confidence: high
 needs_manual_review: false

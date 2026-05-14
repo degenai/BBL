@@ -15,10 +15,10 @@ tags_hub: ["bird", "warrior", "fighter", "leek", "weapon", "galar", "regional-fo
 tags_filter: ["solo", "mid-shot", "action", "three-quarter", "fighting-magic", "basic-pokemon"]
 reference_image: cards/_images/pokemon/rebel-clash/094-192-galarian-farfetch-d.png
 average_cost_paid: 0
-market_price: 0.13
-market_price_as_of: 2026-05-13
+market_price: 0.11
+market_price_as_of: 2026-05-14
 date_added: 2026-05-08
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh2/94_hires.png
 art_match_confidence: high
 needs_manual_review: false

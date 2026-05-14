@@ -14,10 +14,10 @@ tags_hub: ["gothic", "stars", "witch", "psychic", "night", "ribbon", "dark", "fo
 tags_filter: ["solo", "mid-shot", "forward-facing", "psychic-type", "portrait-mode", "uncommon"]
 reference_image: cards/_images/pokemon/darkness-ablaze/074-189-gothorita.png
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-13
+market_price: 0.07
+market_price_as_of: 2026-05-14
 date_added: 2026-05-08
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh3/74_hires.png
 art_match_confidence: high
 needs_manual_review: false

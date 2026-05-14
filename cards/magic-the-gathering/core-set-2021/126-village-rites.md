@@ -14,10 +14,10 @@ tags_hub: ["ritual", "sacrifice", "cult", "robed-figure", "hooded-figure", "vill
 tags_filter: ["group", "mid-shot", "forward-facing", "scene-mode", "no-face", "black-magic", "instant", "sacrifice-mechanic"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/126-village-rites.png
 average_cost_paid: 0
-market_price: 0.33
-market_price_as_of: 2026-05-13
+market_price: 0.32
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

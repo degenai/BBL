@@ -14,10 +14,10 @@ tags_hub: ["fish", "ocean", "beach", "summer", "leap", "water", "comedy", "under
 tags_filter: ["duo", "mid-shot", "forward-facing", "water-type", "common", "basic-pokemon", "action-pose"]
 reference_image: cards/_images/pokemon/rebel-clash/039-192-magikarp.png
 average_cost_paid: 0
-market_price: 1.62
-market_price_as_of: 2026-05-13
+market_price: 1.7
+market_price_as_of: 2026-05-14
 date_added: 2026-05-08
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh2/39_hires.png
 art_match_confidence: high
 needs_manual_review: false

@@ -15,9 +15,9 @@ tags_filter: ["black-magic", "enchantment", "saga", "scene-mode", "narrative-mod
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/91-elspeth-s-nightmare.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

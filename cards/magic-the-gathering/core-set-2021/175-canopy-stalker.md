@@ -14,10 +14,10 @@ tags_hub: ["cat", "big-cat", "panther", "predator", "hunt", "stalking", "forest"
 tags_filter: ["solo", "mid-shot", "faces-left", "scene-mode", "no-face-human", "creature-cat", "green-magic", "action-pose", "backlit"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/175-canopy-stalker.png
 average_cost_paid: 0
-market_price: 0.07
-market_price_as_of: 2026-05-13
+market_price: 0.08
+market_price_as_of: 2026-05-14
 date_added: 2026-05-07
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'

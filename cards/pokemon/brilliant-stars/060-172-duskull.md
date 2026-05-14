@@ -14,10 +14,10 @@ tags_hub: ["ghost", "skull", "eye", "darkness", "horror", "spirit", "haunting", 
 tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "psychic-magic", "creature", "pokemon-psychic-type"]
 reference_image: cards/_images/pokemon/brilliant-stars/060-172-duskull.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-13
+market_price: 0.08
+market_price_as_of: 2026-05-14
 date_added: 2026-05-07
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh9/60_hires.png
 art_match_confidence: high
 needs_manual_review: false

@@ -14,10 +14,10 @@ tags_hub: ["scheming", "planning", "conspiracy", "robed-figure", "scrolls", "blu
 tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "no-face", "indoor", "blue-magic", "sorcery", "proliferate", "card-draw"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/46-contentious-plan.png
 average_cost_paid: 0
-market_price: 0.4
-market_price_as_of: 2026-05-13
+market_price: 0.41
+market_price_as_of: 2026-05-14
 date_added: 2026-05-05
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

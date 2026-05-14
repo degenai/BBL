@@ -14,7 +14,7 @@ appears_on:
   - pokemon/mega-evolution/113-132-acerola-s-mischief
 related_hubs: []
 related_symbols: []
-related_characters: [alola-elite-four, acerola, aether-foundation]
+related_characters: [alola-elite-four, alola-kahunas, acerola, aether-foundation]
 ip_resolution_for: alola-trial-captains
 ---
 # Alola Trial Captains
@@ -66,7 +66,7 @@ The seven members' canonical-source frames also form a designer-coordinated **lo
 
 - **Akala friendship cluster is the cohort's strongest sub-cluster but not a separate cohort.** Lana, Mallow, and Kiawe are designer-confirmed close friends, all run Akala Island Trials, and frequently appear together in Pokemon Sun and Moon anime episodes and game cutscenes. The Mallow & Lana TAG TEAM Supporter is the canonical TCG manifestation of this friendship cluster — the cohort's only same-cohort TAG TEAM pairing. A future Akala-friendship-cluster sub-node could be commissioned if the threshold of in-corpus Akala-trio Trial Captain depictions reaches a critical mass, but for now the friendship cluster is documented in the cohort's body content rather than spun out as a separate node.
 
-- **The Trial Captain role is canonically continuous with the Island Kahuna role one tier above.** Pokemon Sun and Moon's three-tier league progression (Trial Captain → Island Kahuna → Elite Four) is canonically a continuous apprenticeship-and-promotion sequence: a senior Trial Captain can be promoted to Island Kahuna (Hala was Melemele's Kahuna and an E4; Olivia was Akala's Kahuna and an E4); a Trial Captain can be promoted directly to Elite Four (Acerola). A future `alola-island-kahunas` character node would host the Kahuna tier as the middle-to-summit-tier institutional cohort, with the Trial Captains as the apprenticeship-tier feed.
+- **The Trial Captain role is canonically continuous with the Island Kahuna role one tier above.** Pokemon Sun and Moon's three-tier league progression (Trial Captain → Island Kahuna → Elite Four) is canonically a continuous apprenticeship-and-promotion sequence: a senior Trial Captain can be promoted to Island Kahuna (Hala was Melemele's Kahuna and an E4; Olivia was Akala's Kahuna and an E4); a Trial Captain can be promoted directly to Elite Four (Acerola). The [[alola-kahunas]] character node was commissioned wave 41 E1 as the Kahuna-tier institutional cohort node, with the Trial Captains as the apprenticeship-tier feed; the structural triangle (Trial Captains → Kahunas → Elite Four) is now fully node-anchored at the character layer.
 
 - **Modeled as a character-layer node, not a hub.** Like [[alola-elite-four]], [[galar-gym-challenge]], [[team-rocket]], [[team-skull]], [[endriders]], [[aether-rangers]], [[orzhov-syndicate]], and [[azorius-senate]], this is a faction-collective entity hosted on the character layer per the Endriders precedent (the character layer accepts both individual named characters and collective institutional entities). A future `_factions/` layer could re-home all institutional-collective entries; for now, single character layer, same precedent.
 

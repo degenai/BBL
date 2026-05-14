@@ -14,10 +14,10 @@ tags_hub: ["dragon", "desert", "skulls", "predator", "roar", "monster", "retro-f
 tags_filter: ["duo", "wide", "scene-mode", "three-quarter-facing", "blue-magic", "creature-drake", "flying"]
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/272-shrieking-drake.png
 average_cost_paid: 0
-market_price: 0.26
-market_price_as_of: 2026-05-13
+market_price: 0.25
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/9/f/9f1cc39f-898c-4e92-82a0-a17606b60574.png?1717047439
 art_match_confidence: high
 needs_manual_review: false

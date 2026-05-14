@@ -15,9 +15,9 @@ tags_filter: ["scene-mode", "wide-shot", "no-figure", "split-card", "room-mechan
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/235-smoky-lounge-misty-salon.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/4/7/4700987d-fc55-44eb-bc9f-0e0316ca65e2.png?1726780766
 art_match_confidence: high
 needs_manual_review: false

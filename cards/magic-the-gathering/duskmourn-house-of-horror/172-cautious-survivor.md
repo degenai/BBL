@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "female-figure", "creature-el
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/172-cautious-survivor.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-10
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/e/e/ee2b4c1a-e058-4e06-bc46-e250fd9c9b54.png?1726286500
 art_match_confidence: high
 needs_manual_review: false

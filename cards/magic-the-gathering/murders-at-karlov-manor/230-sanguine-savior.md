@@ -15,9 +15,9 @@ tags_filter: ["duo", "mid-shot", "narrative", "three-quarter", "white-magic", "b
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/230-sanguine-savior.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/9/c/9cba5503-ba99-43d8-8062-66d905e0d86b.png?1706242243
 art_match_confidence: high
 needs_manual_review: false

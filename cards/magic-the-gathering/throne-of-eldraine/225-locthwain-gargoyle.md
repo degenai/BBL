@@ -14,10 +14,10 @@ tags_hub: ["gargoyle", "stone", "statue", "castle", "tower", "gothic", "wings", 
 tags_filter: ["solo", "mid-shot", "portrait-mode", "no-face", "three-quarter", "artifact-creature", "colorless-magic", "flying", "common"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/225-locthwain-gargoyle.png
 average_cost_paid: 0
-market_price: 0.04
-market_price_as_of: 2026-05-13
+market_price: 0.05
+market_price_as_of: 2026-05-14
 date_added: 2026-05-07
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'

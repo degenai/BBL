@@ -14,10 +14,10 @@ tags_hub: ["ghost", "tea", "vessel", "containment", "haunted", "antique", "spiri
 tags_filter: ["solo", "mid-shot", "forward-facing", "ghost-type", "portrait-mode", "no-face"]
 reference_image: cards/_images/pokemon/darkness-ablaze/083-189-polteageist.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-13
+market_price: 0.07
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh3/83_hires.png
 art_match_confidence: high
 needs_manual_review: false

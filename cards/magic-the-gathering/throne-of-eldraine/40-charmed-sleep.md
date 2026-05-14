@@ -15,9 +15,9 @@ tags_filter: ["group", "mid-shot", "three-quarter", "narrative-mode", "blue-magi
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/40-charmed-sleep.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/f/1/f1f97d9e-650b-4b69-8733-d80c8e0f723f.png?1572489844
 art_match_confidence: high
 needs_manual_review: false
@@ -50,4 +50,19 @@ A knight in plate armor sits astride a large mount, head bowed and body slumped 
 **Creatures:** horse
 **Iconography:** rainbow, knight, tournament
 **Genre cues:** fantasy, fairy-tale, medieval
+
+## Trivia
+
+- **Set context** — Throne of Eldraine (ELD) was released October 4, 2019 as a top-down fairy-tale and Arthurian-legend set. Charmed Sleep is an explicit Sleeping Beauty reference: an enchanted knight falls into an unbreakable sleep. The set was designed with named fairy-tale homages in mind, and Mark Rosewater's "Odds & Ends: Throne of Eldraine" (2019-10-14) confirms the team built individual cards as deliberate story callbacks [Wizards.com: "Odds & Ends: Throne of Eldraine" 2019-10-14; Scryfall card page ELD-40].
+- **Reprint history** — Charmed Sleep has been reprinted twice: Adventures in the Forgotten Realms (AFR-50, 2021, art by Zoltan Boros depicting a dragon asleep mid-flight) and Bloomburrow (BLB-388, 2024, art by Titus Lunter — same artist as the ELD original). The Bloomburrow printing signals the card has a recurring design function across fairy-tale-coded sets [Scryfall all-printings search for Charmed Sleep].
+- **Mechanical note** — Charmed Sleep costs {1}{U}{U} and functions as a permanent tap lock: it taps the enchanted creature on entry and prevents it from untapping. EDHREC tracks it in approximately 3,257 decks (0.10% of all), with the highest inclusion in Hylda of the Icy Crown builds (1.82%) and Bria, Riptide Rogue (3.16%) — commanders that care about tapping or permanents being tapped [EDHREC: Charmed Sleep card page].
+- **Artist** — Art by Titus Lunter, who also illustrated the 2024 Bloomburrow reprint of the same card. The ELD composition shows a sleeping knight astride a horse beneath a rainbow — the rainbow functions here as a magical effect visualized, a palette choice consistent with Lunter's bright-chromatic approach in the ELD set [card frontmatter artist field; Scryfall ELD-40].
+- **Flavor text** — No flavor text appears on this printing; the card carries rules text only [card frontmatter; Scryfall ELD-40].
+
+### Related cards
+- Sleeping Potion (any set) — generic sleep-lock effect; thematic predecessor in the same design space
+- Spin into Myth (Lorwyn) — earlier "put creature on top of library" sleep-lock variant in blue
+- Hylda of the Icy Crown (WOE, no. 240) — top EDHREC commander synergy for Charmed Sleep; taps payoff
+- Enchanted Carriage (ELD, no. 218) — fellow Cinderella-cycle card in the corpus; Rosewater confirmed the Mouse creature type was invented for this card specifically [Wizards.com: "More Odds & Ends: Throne of Eldraine"]
+- Turn into a Pumpkin (ELD, no. 74) — another Cinderella-cycle card in ELD; bounces a creature back and creates a Food token
 

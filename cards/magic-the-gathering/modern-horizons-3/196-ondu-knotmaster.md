@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "action-mode", "away-facing", "white-magic", "
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/196-ondu-knotmaster.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/2/7/27912e61-97ef-406b-bb88-4fe89a54726e.png?1717012781
 art_match_confidence: high
 needs_manual_review: false

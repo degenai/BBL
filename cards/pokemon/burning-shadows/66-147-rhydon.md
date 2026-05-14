@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "action", "forward-facing", "fighting-magic", 
 reference_image: cards/_images/pokemon/burning-shadows/66-147-rhydon.png
 average_cost_paid: 0
 market_price: 0.16
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-08
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/sm3/66_hires.png
 art_match_confidence: high
 needs_manual_review: false

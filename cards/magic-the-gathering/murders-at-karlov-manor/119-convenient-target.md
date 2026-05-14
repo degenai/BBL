@@ -14,10 +14,10 @@ tags_hub: ["demon", "fire", "trap", "power", "villain", "dominance", "predator",
 tags_filter: ["close-up", "duo", "forward-facing", "red-magic", "enchantment-aura", "female-figure"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/119-convenient-target.png
 average_cost_paid: 0
-market_price: 0.25
-market_price_as_of: 2026-05-13
+market_price: 0.24
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/2/d/2d2cf2ae-9152-41c4-9dc4-a19da5812869.png?1706241843
 art_match_confidence: high
 needs_manual_review: false

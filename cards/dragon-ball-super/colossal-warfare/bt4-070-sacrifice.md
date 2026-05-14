@@ -12,12 +12,18 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-070-sacrifice.png
 average_cost_paid: 0
 market_price: 0.01
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-12
-last_seen: 2026-05-12
+last_seen: 2026-05-13
+reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401034559/F29A3D90AEEB29E28E9B942A0F9B69966D590DDC/
+image_width: 624
+image_height: 871
+image_quality: med
+art_match_confidence: high
+needs_manual_review: false
 ---
 
 # Sacrifice (Colossal Warfare)

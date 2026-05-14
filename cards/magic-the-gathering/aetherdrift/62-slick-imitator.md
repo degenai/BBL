@@ -15,9 +15,9 @@ tags_filter: ["group", "3-figures-plus", "mid-shot", "forward-facing", "scene-mo
 reference_image: cards/_images/magic-the-gathering/aetherdrift/62-slick-imitator.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/3/e/3e86ef50-4939-4e7c-853d-438f0f3e0411.png?1738356253
 art_match_confidence: high
 needs_manual_review: false

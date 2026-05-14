@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "creature-hum
 reference_image: cards/_images/magic-the-gathering/aetherdrift/140-pacesetter-paragon.png
 average_cost_paid: 0
 market_price: 0.02
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/7/3/7364b4dc-8cce-498d-a62e-eabc612b062a.png?1738356448
 art_match_confidence: high
 needs_manual_review: false
@@ -49,4 +49,15 @@ A single racer fills the frame, leaning forward in the cockpit of a streamlined 
 **Objects:** racing-helmet, goggles, vehicle-controls, racing-suit, chest-emblem, energy-gauntlet
 **Iconography:** chest-emblem, speed-lines
 **Genre cues:** sci-fi, racing, fantasy
+
+## Trivia
+
+- **Set context** — Aetherdrift (DFT) released February 14, 2025. Pacesetter Paragon's type line "Creature — Human Pilot" places it within the set's ten-team interplanar racing framework. The Pilot creature subtype first appeared in Kaladesh block (2016) for vehicle-crew synergy; Aetherdrift revives and expands it for the Ghirapur Grand Prix narrative. The card was previewed January 24, 2025, via CNet alongside Back on Track `[Scryfall: card 7364b4dc — preview source CNet; magic.wizards.com: The Legends of Aetherdrift]`.
+- **Mechanical** — Pacesetter Paragon is a 2/3 Human Pilot for 2R with the Exhaust mechanic: pay {2}{R} once per game to place a +1/+1 counter on it and grant double strike until end of turn. Exhaust is Aetherdrift's "nitrous" mechanic — a one-shot burst of extra power that cannot be reused without specialized reset effects. Double strike on a 3/4 body (after the counter) makes the Exhaust activation a significant combat swing in aggressive decks. No flavor text. EDHREC rank 25,561 indicates limited Commander adoption `[Scryfall: card 7364b4dc; magic.wizards.com: Aetherdrift Mechanics]`.
+- **Design** — Art by Wonchun Choi. The Exhaust mechanic's flavor explicitly mirrors an in-world "nitrous oxide" burst for vehicles and racers — from the official mechanic article: "Sure, having it in your car can give you a huge boost of power and speed, but you might blow up your engine." For the Paragon, the one-use Exhaust frames the pilot as someone burning their reserves to cross the finish line `[magic.wizards.com: Aetherdrift Mechanics; Scryfall: artist Wonchun Choi]`.
+
+### Related cards
+- Outpace Oblivion (Aetherdrift, no. 139) — same set, same Red color, consecutive collector number, shared racing theme
+- Alacrian Jaguar (Aetherdrift, no. 152) — same set, Green Mount; Saddle mechanic pairs Mounts with Pilots like this one
+- Back on Track (Aetherdrift) — previewed on the same CNet reveal date (January 24, 2025)
 

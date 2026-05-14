@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "action", "creature-kor-scout
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/24-expedition-envoy.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-12
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/4/1/41193ef1-1619-4448-9905-26b05079c79a.png?1562910357
 art_match_confidence: high
 needs_manual_review: false

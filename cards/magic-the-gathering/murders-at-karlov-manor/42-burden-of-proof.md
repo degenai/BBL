@@ -15,10 +15,10 @@ tags_hub: ["interrogation", "authority", "gothic", "detective", "noir", "magic",
 tags_filter: ["group", "wide", "scene-mode", "blue-magic", "enchantment-aura", "forward-facing", "crowd"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/42-burden-of-proof.png
 average_cost_paid: 0
-market_price: 0.07
-market_price_as_of: 2026-05-13
+market_price: 0.06
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/4/e/4ea29c34-4b55-4170-9120-0a8dda61f2eb.png?1706241564
 art_match_confidence: high
 needs_manual_review: false

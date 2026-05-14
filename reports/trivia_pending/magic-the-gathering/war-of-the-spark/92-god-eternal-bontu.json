@@ -1,0 +1,43 @@
+{
+  "card_name": "God-Eternal Bontu",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "92",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "God-Eternal Bontu is one of five God-Eternals in War of the Spark (WAR, released 2019-05-03) — the Amonkhet gods zombified by Nicol Bolas and deployed as generals of his Dreadhorde army on Ravnica. The five are: Oketra (white, WAR no. 16), Kefnet (blue, WAR no. 58), Bontu (black, WAR no. 92), Rhonas (green, WAR no. 194), and Hazoret (red, WAR no. 136). [Scryfall: set:war type:zombie+god; MTG Wiki: God-Eternal via WebSearch snippet]",
+      "sources": ["Scryfall: set:war", "MTG Wiki: God-Eternal (via WebSearch snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In the WAR story climax, Bontu's fate is the decisive narrative pivot: after Liliana Vess broke with Nicol Bolas and was condemned to death by him, Gideon Jura transferred the lethal curse to himself, dying to save her. Free of her debt, Liliana commanded the God-Eternals to attack Bolas. Bontu bit into Bolas and absorbed all of the sparks Bolas had harvested via the Immortal Sun's Planar Bridge operation — including his own godhood's spark — and then Bontu exploded from the overload. This is the literal mechanism of Bolas's defeat in canon. [MTG Wiki: War of the Spark event; WebSearch: upcomer.com 'WAR Story Recap'; WebSearch: coolstuffinc.com Annelli WAR recap]",
+      "sources": ["MTG Wiki: War of the Spark (via WebSearch snippet)", "upcomer.com: 'War of the Spark Story Recap Act I'", "coolstuffinc.com: Jay Annelli WAR recap"]
+    },
+    {
+      "category": "design",
+      "text": "WAR no. 92, Mythic Rare, {3}{B}{B}, 5/6, illustrated by Lius Lasahido, released 2019-05-03. The God-Eternal die-to-library trigger (goes to its owner's library third from the top rather than the graveyard) mechanically represents Bolas's claim that his God-Eternals cannot be permanently stopped — they simply return to the deck of his forces. Bontu's ETB (sacrifice any number of permanents, draw that many cards) mechanizes her canonical role as Goddess of Ambition, whose domain was sacrifice and the passage of the dead. No flavor text is printed on this card per Scryfall. [Scryfall: war/92; MTG Wiki: Bontu (via WebSearch snippet)]",
+      "sources": ["Scryfall: war/92", "MTG Wiki: Bontu (via WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC reports God-Eternal Bontu in approximately 36,685 Commander decks with 275 commander-slot tracked builds, making her the second-most-popular God-Eternal as a commander (behind Oketra in white-based lifegain decks). Primary archetype: black sacrifice-payoff / Aristocrats — the ETB synergizes with any token-generating package (sacrificing 6+ tokens on entry to draw 6+ cards is a common combo trigger). [EDHREC: god-eternal-bontu (via WebSearch snippet)]",
+      "sources": ["EDHREC: god-eternal-bontu (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "God-Eternal Oketra", "set": "War of the Spark (16)", "note": "God-Eternal cycle sibling; white; the God who attacked Bolas alongside Bontu"},
+    {"name": "God-Eternal Kefnet", "set": "War of the Spark (58)", "note": "God-Eternal cycle sibling; blue"},
+    {"name": "Liliana, Dreadhorde General", "set": "War of the Spark (97)", "note": "Bolas's general who commanded Bontu to attack him in the story climax — the direct narrative antecedent"},
+    {"name": "Bontu the Glorified", "set": "Amonkhet (88)", "note": "Bontu's original pre-zombification print; the goddess before Bolas corrupted her"},
+    {"name": "Despark", "set": "War of the Spark (190)", "note": "Corpus-trivia'd story-adjacent WAR card in the Liliana-strikes-back cluster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

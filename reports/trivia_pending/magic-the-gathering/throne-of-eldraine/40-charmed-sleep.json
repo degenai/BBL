@@ -1,0 +1,48 @@
+{
+  "card_name": "Charmed Sleep",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "40",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Throne of Eldraine (ELD) was released October 4, 2019 as a top-down fairy-tale and Arthurian-legend set. Charmed Sleep is an explicit Sleeping Beauty reference: an enchanted knight falls into an unbreakable sleep. Mark Rosewater's 'Odds & Ends: Throne of Eldraine' confirms the team built individual cards as deliberate story callbacks.",
+      "sources": ["Wizards.com: Odds & Ends: Throne of Eldraine 2019-10-14", "Scryfall ELD-40"]
+    },
+    {
+      "category": "design",
+      "text": "Charmed Sleep has been reprinted twice: Adventures in the Forgotten Realms (AFR-50, 2021, art by Zoltan Boros) and Bloomburrow (BLB-388, 2024, art by Titus Lunter — same artist as the ELD original). The Bloomburrow printing signals the card has a recurring design function across fairy-tale-coded sets.",
+      "sources": ["Scryfall all-printings search for Charmed Sleep"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Charmed Sleep costs {1}{U}{U} and functions as a permanent tap lock. EDHREC tracks it in approximately 3,257 decks (0.10% of all), with the highest inclusion in Hylda of the Icy Crown builds (1.82%) and Bria, Riptide Rogue (3.16%) — commanders that care about tapping.",
+      "sources": ["EDHREC: Charmed Sleep card page"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Titus Lunter, who also illustrated the 2024 Bloomburrow reprint of the same card. The ELD composition shows a sleeping knight astride a horse beneath a rainbow — a palette choice consistent with Lunter's bright-chromatic approach in the ELD set.",
+      "sources": ["card frontmatter artist field", "Scryfall ELD-40"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "No flavor text appears on this printing; the card carries rules text only.",
+      "sources": ["card frontmatter", "Scryfall ELD-40"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Enchanted Carriage", "set": "ELD", "note": "fellow Cinderella-cycle card in corpus; Rosewater confirmed Mouse creature type invented for this card"},
+    {"name": "Turn into a Pumpkin", "set": "ELD", "note": "another Cinderella-cycle card in ELD; bounces creature and creates Food token"},
+    {"name": "Hylda of the Icy Crown", "set": "WOE", "note": "top EDHREC commander synergy for Charmed Sleep"},
+    {"name": "Sleeping Potion", "set": "any", "note": "generic sleep-lock thematic predecessor"},
+    {"name": "Spin into Myth", "set": "LOR", "note": "earlier blue sleep-lock design-space variant"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -14,10 +14,10 @@ tags_hub: ["desert", "canyon", "flowers", "blossoms", "wings", "flight", "landsc
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "land", "green-magic", "white-magic", "multicolor-green-white", "landscape-orientation-art", "no-face"]
 reference_image: cards/_images/magic-the-gathering/aetherdrift/252-blossoming-sands.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-13
+market_price: 0.07
+market_price_as_of: 2026-05-14
 date_added: 2026-05-10
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/6/9/69949863-2510-4fe2-a815-0682beeb08a3.png?1738356887
 art_match_confidence: high
 needs_manual_review: false

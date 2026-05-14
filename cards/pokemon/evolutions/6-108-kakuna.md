@@ -14,10 +14,10 @@ tags_hub: ["cocoon", "metamorphosis", "forest", "transformation", "insect", "dor
 tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "grass-type", "stage-1-pokemon", "no-face"]
 reference_image: cards/_images/pokemon/evolutions/6-108-kakuna.png
 average_cost_paid: 0
-market_price: 0.14
-market_price_as_of: 2026-05-13
+market_price: 0.18
+market_price_as_of: 2026-05-14
 date_added: 2026-05-08
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/xy12/6_hires.png
 art_match_confidence: high
 needs_manual_review: false

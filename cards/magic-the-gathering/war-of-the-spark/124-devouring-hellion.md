@@ -14,10 +14,10 @@ tags_hub: ["monster", "hellion", "beast", "predator", "maw", "claws", "smoke", "
 tags_filter: ["solo", "forward-facing", "mid-shot", "action-mode", "no-face", "red-magic", "creature-hellion"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/124-devouring-hellion.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-13
+market_price: 0.11
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

@@ -1,0 +1,41 @@
+{
+  "card_name": "Arena Trickster",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "126",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Theros Beyond Death (THB) was released January 24, 2020 as the third set in the Theros block family. THB returned to the Greek-mythology-themed plane and emphasized the underworld of Nyx, escape mechanics, and mortal arena-combat culture. The Arena Trickster's flavor text captures Theros's theatrical gladiatorial spectacle: 'It's not enough to surprise your opponent. You have to delight the crowd as well.'",
+      "sources": ["card frontmatter flavor_text", "Theros Beyond Death set page via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Arena Trickster is a {3}{R} 3/3 Human Shaman with a flash-responsive trigger: whenever you cast your first spell during each opponent's turn, it gains a +1/+1 counter. EDHREC tracks it in approximately 320 decks (0.01% of all) — functional in Standard-era draft where flash spells were common, but too slow for most EDH contexts.",
+      "sources": ["EDHREC: Arena Trickster via WebSearch snippet", "MTGGoldfish: Theros Beyond Death Instant-Speed Tricks via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by PINDURSKI, a Polish digital artist with multiple MTG set credits. The Arena Trickster composition — red-lit stone archway, theatrical mask, mid-laugh performer — uses a high-saturation dramatic-figure approach characteristic of PINDURSKI's work.",
+      "sources": ["card frontmatter artist field", "Scryfall THB-126"]
+    },
+    {
+      "category": "set-lore",
+      "text": "On Theros, arena combat is explicitly public entertainment tied to religious devotion: the gods watch and grant boons to warriors who earn crowd approval. The theatrical mask the figure holds is a performance prop rather than protective gear, underlining the performance-over-function ethos of the Theros arena tradition.",
+      "sources": ["MTG Wiki: Theros via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Satyr Enchanter", "set": "M19", "note": "Human Shaman type parallel in the Theros Greek-myth design family"},
+    {"name": "Eidolon of the Great Revel", "set": "Theros", "note": "red Theros shaman with combat-phase punish trigger; design-family companion"},
+    {"name": "Ire Shaman", "set": "DTK", "note": "red Shaman type and counter-mechanic parallel"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

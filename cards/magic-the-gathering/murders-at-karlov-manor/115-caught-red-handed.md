@@ -15,9 +15,9 @@ tags_filter: ["mid-shot", "solo", "forward-facing", "red-magic", "instant", "mal
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/115-caught-red-handed.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/9/5/95bc5f89-2f01-40c4-9883-4c90ab89fcbb.png?1706241833
 art_match_confidence: high
 needs_manual_review: false

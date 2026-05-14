@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "grass-type", "common", "basi
 reference_image: cards/_images/pokemon/rebel-clash/001-192-caterpie.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-08
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh2/1_hires.png
 art_match_confidence: high
 needs_manual_review: false

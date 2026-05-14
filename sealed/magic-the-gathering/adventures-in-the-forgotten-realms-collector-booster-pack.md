@@ -6,9 +6,9 @@ sealed: true
 quantity: 3
 average_cost_paid: 0
 market_price: 33.91
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-05
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 ---
 
 # Adventures in the Forgotten Realms - Collector Booster Pack

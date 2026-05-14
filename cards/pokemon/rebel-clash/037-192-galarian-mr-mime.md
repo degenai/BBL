@@ -14,10 +14,10 @@ tags_hub: ["dance", "performer", "ice", "winter", "comedy", "entertainer", "huma
 tags_filter: ["solo", "mid-shot", "forward-facing", "water-type", "common", "basic-pokemon", "galarian-form", "action-pose"]
 reference_image: cards/_images/pokemon/rebel-clash/037-192-galarian-mr-mime.png
 average_cost_paid: 0
-market_price: 0.07
-market_price_as_of: 2026-05-13
+market_price: 0.05
+market_price_as_of: 2026-05-14
 date_added: 2026-05-08
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh2/37_hires.png
 art_match_confidence: high
 needs_manual_review: false

@@ -14,10 +14,10 @@ tags_hub: ["cocoon", "chrysalis", "waiting", "transformation", "evolution-line",
 tags_filter: ["solo", "mid-shot", "forward-facing", "grass-type", "uncommon", "stage-1-pokemon"]
 reference_image: cards/_images/pokemon/rebel-clash/002-192-metapod.png
 average_cost_paid: 0
-market_price: 0.4
-market_price_as_of: 2026-05-13
+market_price: 0.46
+market_price_as_of: 2026-05-14
 date_added: 2026-05-08
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh2/2_hires.png
 art_match_confidence: high
 needs_manual_review: false

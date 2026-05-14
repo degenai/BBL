@@ -15,9 +15,9 @@ tags_filter: ["red-magic", "enchantment", "single-figure-focal", "group", "close
 reference_image: cards/_images/magic-the-gathering/aetherdrift/139-outpace-oblivion.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/c/2/c22e415f-636f-4394-9b21-600ab720ac98.png?1738356442
 art_match_confidence: high
 needs_manual_review: false
@@ -50,4 +50,15 @@ Dynamic forward-thrust composition. A red-haired racer in red-tinted goggles, pl
 **Creatures:** birds
 **Iconography:** goggles, speed-track, explosion
 **Genre cues:** fantasy, sci-fi, post-apocalyptic, racing
+
+## Trivia
+
+- **Set context** — Aetherdrift (DFT) released February 14, 2025, as MTG's 103rd expansion. The set stages an interplanar death-race across Avishkar (formerly Kaladesh — renamed by Wizards in consultation with cultural advisors to remove racial connotations from the Hindi-derived original name), Amonkhet, and Muraganda. The race's prize is the Aetherspark, an artificial planeswalker spark built by an Avishkari inventor during the New Phyrexian Invasion `[magic.wizards.com: Planeswalker's Guide to Aetherdrift Part 1; Scryfall: DFT set metadata]`.
+- **Mechanical** — Outpace Oblivion carries Aetherdrift's core keyword "Start your engines!" — speed begins at 1 on first trigger and increases by 1 on each of your turns when an opponent loses life, capping at 4 (max speed). The card deals 5 damage on entry and can sacrifice itself to deal 2 damage to each player not at max speed, punishing opponents who fall behind the acceleration curve. No flavor text `[Scryfall: card c22e415f]`.
+- **Design** — Art by Raymond Swanland, a veteran Magic illustrator known for high-contrast, cinematic action compositions. The card was previewed January 30, 2025, via the official Wizards of the Coast YouTube channel. EDHREC rank 16,838 reflects limited Commander demand; the card's design is oriented toward Standard and speed-focused aggro builds rather than singleton formats `[Scryfall: card c22e415f — artist, edhrec_rank, preview fields]`.
+
+### Related cards
+- Start Your Engines! // Max Speed (Aetherdrift) — Scryfall marks this as a direct combo_piece partner for Outpace Oblivion; it's the double-faced card representing the speed mechanic itself
+- Pacesetter Paragon (Aetherdrift, no. 140) — same set, same Red color, consecutive collector number; shares the racing-pilot theme
+- Alacrian Jaguar (Aetherdrift, no. 152) — same set, Green, the Mount-based counterpart to the Red racer cards in the DFT lineup
 

@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "creature-card", "stage-2", 
 reference_image: cards/_images/pokemon/battle-styles/065-163-orbeetle--reverse-holofoil.png
 average_cost_paid: 0
 market_price: 0.23
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-05
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh5/65_hires.png
 art_match_confidence: high
 needs_manual_review: false

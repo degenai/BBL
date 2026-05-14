@@ -14,10 +14,10 @@ tags_hub: ["insect", "wings", "tiny", "pink", "fairy", "flower-adjacent", "cute"
 tags_filter: ["solo", "close-up", "forward-facing", "bug-type", "fairy-type", "alola-lore", "creature-card", "no-face"]
 reference_image: cards/_images/pokemon/lost-thunder/145-cutiefly.png
 average_cost_paid: 0
-market_price: 0.31
-market_price_as_of: 2026-05-13
+market_price: 0.3
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/sm8/145_hires.png
 art_match_confidence: high
 needs_manual_review: false

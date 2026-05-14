@@ -1,0 +1,36 @@
+{
+  "card_name": "Dark Duo Dabura",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-014",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Dabura'. Depicted figure is a large muscular humanoid in white cape, purple bodysuit with golden belt, arms crossed — matching Dabura's canonical appearance as King of the Demon Realm and Babidi's right-hand enforcer. Card special trait Demon Realm Race/World Tournament and era The Evil Wizard Babidi Saga confirm identity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Dark Duo Dabura (TB2-014) is a Common Battle card from the World Martial Arts Tournament themed booster set (2018), indexed to The Evil Wizard Babidi Saga. The set focuses on the Babidi arc, and Dabura is one of the arc's key antagonists — Babidi's most powerful enforcer before Majin Buu's resurrection [dbs-cardgame.com: TB02 card list].",
+      "sources": ["dbs-cardgame.com: TB02 card list", "WebSearch snippet: Dark Duo Dabura TCG details"]
+    },
+    {
+      "category": "design",
+      "text": "TB2-014 carries the special traits Demon Realm Race/World Tournament and functions as a Link Card: it gains Barrier (cannot be attacked by the opponent's Battle Cards) when Dark Duo Babidi is present in the battle area. Its play effect Warps two cards from the opponent's hand for as long as Dabura remains on the field — a persistent, board-control mechanic fitting for a character who dominated the Babidi Saga through sustained threat rather than speed [WebSearch snippet: Dark Duo Dabura card details; dbzexchange.com: TB2-014].",
+      "sources": ["dbzexchange.com: TB2-014", "WebSearch snippet: Dark Duo Dabura TCG details"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Dabura is the Supreme King of the Demon Realm, enslaved to Babidi's will approximately 300 years before the events of Dragon Ball Z. His power is compared to that of Perfect Cell. After being devoured by Majin Buu (who turns him into a cookie and eats him), Lord Enma — realizing that Dabura would enjoy Hell — sends him to Heaven instead, where he reforms and becomes gentle. Dragon Ball DAIMA (2024) retroactively positions Dabura and Babidi as originating from another universe, deepening the character's lore [dragon-ball-official.com: Weekly Character Showcase Dabura; CBR: Dragon Ball DAIMA Confirms Babidi/Dabura origin].",
+      "sources": ["dragon-ball-official.com: Weekly Character Showcase Dabura no. 34", "CBR: Dragon Ball DAIMA Confirms These DBZ Villains Were From Another Universe All Along"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Heroic Duo Son Gohan", "set": "World Martial Arts Tournament", "note": "TB2-003 — Gohan is Dabura's canonical Babidi Saga opponent; paired 'Duo' naming"},
+    {"name": "Razor's Edge Yakon", "set": "World Martial Arts Tournament", "note": "TB2-017 — fellow Babidi henchman in the same TB2 set"},
+    {"name": "Dark Duo Babidi", "set": "World Martial Arts Tournament", "note": "Dabura's Link Card partner; must be in battle area for Dabura's Barrier to activate"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Dabura",
+    "ip_confidence": "high"
+  }
+}

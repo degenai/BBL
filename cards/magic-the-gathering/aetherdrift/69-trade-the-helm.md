@@ -14,10 +14,10 @@ tags_hub: ["shark", "goblin", "vehicle", "race", "explosion", "fire", "boarding"
 tags_filter: ["group", "mid-shot", "action", "three-quarter", "rim-lit", "multicolor", "instant-or-sorcery", "cycling", "control-swap"]
 reference_image: cards/_images/magic-the-gathering/aetherdrift/69-trade-the-helm.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-13
+market_price: 0.11
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/e/b/eb0b5c09-6c21-4080-81c4-a8376deb729f.png?1738356269
 art_match_confidence: high
 needs_manual_review: false

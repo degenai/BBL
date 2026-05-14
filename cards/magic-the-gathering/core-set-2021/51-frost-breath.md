@@ -15,9 +15,9 @@ tags_filter: ["wide-shot", "action-mode", "solo", "faces-left", "instant", "blue
 reference_image: cards/_images/magic-the-gathering/core-set-2021/51-frost-breath.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/3/9/393fc485-d3c1-4826-933d-89f66df769d4.png?1594735496
 art_match_confidence: high
 needs_manual_review: false

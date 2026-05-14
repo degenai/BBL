@@ -14,10 +14,10 @@ tags_hub: ["scorpion", "poison", "predator", "purple", "armor", "claws", "darkne
 tags_filter: ["solo", "mid-shot", "action", "forward-facing", "darkness-energy", "colorless-energy", "pokemon-v", "no-face"]
 reference_image: cards/_images/pokemon/vivid-voltage/106-185-drapion-v--holofoil.png
 average_cost_paid: 0
-market_price: 0.73
-market_price_as_of: 2026-05-13
+market_price: 0.65
+market_price_as_of: 2026-05-14
 date_added: 2026-05-05
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh4/106_hires.png
 art_match_confidence: high
 needs_manual_review: false

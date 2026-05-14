@@ -14,10 +14,10 @@ tags_hub: ["explosion", "wreckage", "lightning", "fire", "vehicle", "racing", "d
 tags_filter: ["no-figure", "wide-shot", "scene-mode", "action-scene", "red-magic", "instant", "artifact-destruction", "cycling"]
 reference_image: cards/_images/magic-the-gathering/aetherdrift/146-skycrash.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-13
+market_price: 0.2
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/8/7/87e82be6-d2b4-4c95-8466-477e8c6832e9.png?1738356462
 art_match_confidence: high
 needs_manual_review: false

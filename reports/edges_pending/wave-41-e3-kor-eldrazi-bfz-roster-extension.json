@@ -1,0 +1,32 @@
+{
+  "edge_id": "wave-41-e3-kor-eldrazi-bfz-roster-extension",
+  "shape": "1:N + 1:N (fanout to existing nodes)",
+  "category": "named-character-identity",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/kor.md", "name": "Kor (existing node, roster extended)"},
+    {"type": "character", "path": "cards/_characters/eldrazi.md", "name": "Eldrazi (existing node, roster extended)"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/47-shadow-glider.md", "name": "Shadow Glider"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/52-tandem-tactics.md", "name": "Tandem Tactics"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/53-unified-front.md", "name": "Unified Front"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/49-smite-the-monstrous.md", "name": "Smite the Monstrous (dual-anchor)"}
+  ],
+  "description": "Standard roster-extension fanout — four wave 41 BFZ cards attach to existing character nodes. Shadow Glider, Tandem Tactics, Unified Front all anchor at [[kor]] per oracle/flavor/visual canonical identifiers; Smite the Monstrous dual-anchors at both [[eldrazi]] (depicted titan target) and [[kor]] (depicted rope-and-cable attackers). Tandem Tactics needed the characters: ['kor'] frontmatter wired (previously missing); Smite the Monstrous needed characters: ['eldrazi', 'kor'] wired. All four cards now have ## Connections body sections with brief 1-sentence + 1-cite entries per the museum-curation discipline. Kor.md and eldrazi.md appears_on lists extended; bodies extended with new bullets; caveats updated to note BFZ-coverage-complete status. Sighing through the fanout but the BFZ block kor + eldrazi adversary structure now has its strongest single-frame anchor in Smite the Monstrous, which is the rare card where both sides of the conflict appear at recognizable scale in the same composition. Makindi Patrol (BFZ-39, mounted patrolman) and Ondu Greathorn (BFZ-40, megafauna beast) were considered for kor.md attachment and REJECTED — Makindi Patrol's depicted rider has no kor-specific visual identifier (no pale hair, no hook-cord gear; could be human Stone-Havens sentinel), and Ondu Greathorn is a Beast creature subtype with no humanoid figure in art. Neither belongs at the kor node.",
+  "citations": [
+    "Scryfall: BFZ-47 Shadow Glider (type_line: Creature — Kor Spirit; flavor refugee-bands-in-the-caves)",
+    "Scryfall: BFZ-52 Tandem Tactics flavor (strike in unison)",
+    "Scryfall: BFZ-53 Unified Front (Converge oracle + community flavor)",
+    "Scryfall: BFZ-49 Smite the Monstrous (Gideon-watching-kor flavor + destroy-power-4-or-greater oracle)",
+    "MTG Wiki: Kor (canonical visual identifiers: pale hair + hook-cord climbing gear)",
+    "MTG Wiki: Battle for Zendikar (block design framework: kor-versus-Eldrazi adversary structure)"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/battle-for-zendikar/52-tandem-tactics.md (characters: ['kor'] wired + ## Connections added)",
+    "cards/magic-the-gathering/battle-for-zendikar/49-smite-the-monstrous.md (characters: ['eldrazi', 'kor'] wired + ## Connections added)",
+    "cards/magic-the-gathering/battle-for-zendikar/47-shadow-glider.md (## Connections added)",
+    "cards/magic-the-gathering/battle-for-zendikar/53-unified-front.md (## Connections added)",
+    "cards/_characters/kor.md (appears_on +Tandem Tactics +Smite the Monstrous; body bullets for Tandem Tactics + Smite the Monstrous + Unified-Front-art-detail; Shadow Glider unenriched-caveat replaced with enriched-anchor caveat; BFZ-complete caveat added)",
+    "cards/_characters/eldrazi.md (appears_on +Smite the Monstrous; body bullet for Smite the Monstrous; BFZ-coverage caveat added)"
+  ],
+  "edgelord_mood": "blueballed-by-fanout"
+}

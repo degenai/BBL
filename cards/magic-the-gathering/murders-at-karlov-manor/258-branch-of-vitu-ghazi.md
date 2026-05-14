@@ -14,10 +14,10 @@ tags_hub: ["tree", "world-tree", "vitu-ghazi", "ancient", "forest", "sanctuary",
 tags_filter: ["wide", "scene-mode", "no-face", "none-figures", "colorless-land", "land"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/258-branch-of-vitu-ghazi.png
 average_cost_paid: 0
-market_price: 0.29
-market_price_as_of: 2026-05-13
+market_price: 0.3
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/7/3/73a8169f-b858-47a5-9c76-2e7c50ad4ecd.png?1706242330
 art_match_confidence: high
 needs_manual_review: false

@@ -18,9 +18,9 @@ tags_filter: ["no-face", "close-up", "no-figures", "item-card", "trainer-card", 
 reference_image: cards/_images/pokemon/crown-zenith/138-159-pokemon-catcher.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-07
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh12pt5/138_hires.png
 art_match_confidence: high
 needs_manual_review: false

@@ -1,0 +1,19 @@
+{
+  "edge_id": "wave-45-e2-galar-trainer-sweep--no-op",
+  "shape": "refusal",
+  "category": "slate-already-wired-plus-orphan-refusals",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/galar-gym-challenge.md", "name": "Galar Gym Challenge (existing node)"},
+    {"type": "character", "path": "cards/_characters/macro-cosmos.md", "name": "Macro Cosmos (existing node)"},
+    {"type": "card", "path": "cards/pokemon/vivid-voltage/149-185-cara-liss.md", "name": "Cara Liss (unwired, refused)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/159-189-bird-keeper.md", "name": "Bird Keeper (unwired, refused per anti-confab v4)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/167-192-sonia.md", "name": "Sonia (unwired, refused)"}
+  ],
+  "description": "Slate-prescribed mass extension: Bea, Allister, Opal, Nessa, Cara Liss, Leon, Melony, Kabu, Bird Keeper, Rose, Rose Tower, Boss's Orders, Milo, Oleana, Sonia. Grep-check: ELEVEN of those FIFTEEN cards are ALREADY wired to galar-gym-challenge or macro-cosmos or team-rocket from prior waves (Bea, Allister, Opal, Nessa, Leon, Melony, Kabu, Milo wired to galar-gym-challenge; Rose, Rose Tower, Oleana wired to macro-cosmos; Boss's Orders wired to team-rocket as Giovanni). Edgelord steps aside, the wiring is done. Of the four REMAINING candidates, three are refused: Cara Liss is a Galar fossil-paleontologist NPC at Route 6 (researcher, not Gym Leader, not Macro Cosmos — doesn't fit either existing node, and at N=2 with Sonia falls below per-cohort threshold for a `galar-researchers` candidate); Sonia is Professor Magnolia's granddaughter and post-game Galar Professor (researcher, parallel refusal); Bird Keeper is the canonical Pokemon Trainer-class card (a recurring NPC archetype, NOT a named individual — anti-confab v4 forbids wiring an unnamed Trainer-class Supporter to a character node). Future Galar-researchers cohort triaged at N=2-below-threshold. NO wiring drawn this pass; what the slate prescribed was already done; what wasn't done can't be done correctly. Edgelord remains laconic.",
+  "citations": ["[in-corpus cards/_characters/galar-gym-challenge.md appears_on roster]", "[in-corpus cards/_characters/macro-cosmos.md appears_on roster]", "[Bulbapedia: Sonia; Bulbapedia: Cara Liss; Bulbapedia: Bird Keeper (Trainer class)]"],
+  "files_modified": [
+    "reports/janitor_triage.md"
+  ],
+  "topology": "n/a (no edge drawn)",
+  "edgelord_mood": "satisfied"
+}

@@ -14,10 +14,10 @@ tags_hub: ["castle", "drawbridge", "knights", "siege", "charge", "beacon", "armo
 tags_filter: ["group", "wide-shot", "scene-mode", "no-face", "forward-facing", "artifact", "creature-wall", "colorless", "defender", "haste-grant"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/217-crashing-drawbridge.png
 average_cost_paid: 0
-market_price: 0.67
-market_price_as_of: 2026-05-13
+market_price: 0.66
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

@@ -14,10 +14,10 @@ tags_hub: ["construct", "clockwork", "spider", "dragon", "workshop", "machinery"
 tags_filter: ["duo", "mid-shot", "three-quarter-facing", "no-face", "creature-construct", "creature-artifact", "colorless-magic", "scene-mode", "indoor-scene"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/348-workshop-assistant.png
 average_cost_paid: 0
-market_price: 0.34
-market_price_as_of: 2026-05-13
+market_price: 0.35
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

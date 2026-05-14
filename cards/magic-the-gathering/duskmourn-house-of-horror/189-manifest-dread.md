@@ -14,10 +14,10 @@ tags_hub: ["cocoon", "chrysalis", "body-horror", "horror", "overgrowth", "leaves
 tags_filter: ["no-figures", "close-up", "narrative-mode", "blue-magic", "green-magic", "multicolor-blue-green", "instant", "amber-palette", "teal-palette", "backlit"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/189-manifest-dread.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-13
+market_price: 0.12
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/a/6/a649265b-6c32-49e7-b6cb-6086c40d26e8.png?1726286570
 art_match_confidence: high
 needs_manual_review: false

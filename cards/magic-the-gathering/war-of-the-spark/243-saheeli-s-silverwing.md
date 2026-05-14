@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide-shot", "scene-mode", "faces-left", "no-face", "actio
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/243-saheeli-s-silverwing.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

@@ -14,10 +14,10 @@ tags_hub: ["monster", "dragon", "reptile", "predator", "roar", "hedge-maze", "ch
 tags_filter: ["solo", "wide-shot", "faces-left", "scene-mode", "no-face-human", "creature-beast", "green-magic", "trample", "forestcycling"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/198-slavering-branchsnapper.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-13
+market_price: 0.11
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/5/e/5ed7ca4d-5895-4074-8315-656363d14862.png?1726286606
 art_match_confidence: high
 needs_manual_review: false
@@ -29,6 +29,7 @@ oracle_text: Trample\nForestcycling {2} ({2}, Discard this card: Search your lib
 mood: horror
 time_of_day: twilight
 setting: forest
+characters: ["valgavoth"]
 ---
 
 # Slavering Branchsnapper (Duskmourn: House of Horror)
@@ -67,4 +68,8 @@ A huge scaled creature fills the right two-thirds of the composition, its head t
 - Twitching Doll (Duskmourn: House of Horror) — John Tedrick Duskmourn piece
 - Scrabbling Skullcrab (Duskmourn: House of Horror) — John Tedrick Duskmourn piece
 - Valgavoth, Harrower of Souls (Duskmourn: House of Horror) — the set's antagonist; the consumed-suns lore originates from his Ascension; anchor card for any Duskmourn-lore bundle
+
+## Connections
+
+- [[_characters/valgavoth]] — set-context citation with Valgavoth-specific cosmology load. The trivia bullet quotes the swallowed-suns origin lore directly (`"Valgavoth consumed both [suns] as the House grew a tower piercing the clouds, and with the suns gone crops failed and the plane collapsed"`), and the low amber sun behind the beast reads as the swallowed-sun motif rather than ordinary daylight — the art's background composition encodes Valgavoth's cosmological consequence even though the demon himself is off-frame. `[MTG Wiki: Duskmourn (plane) — swallowed-suns cosmology]` `[in-corpus _characters/valgavoth.md set-context citation roster]`
 

@@ -1,0 +1,36 @@
+{
+  "card_name": "Klang",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "126/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Klang'; the depicted figure is canonically Klang (National Pokedex no. 600, Steel-type Stage 1 in the Klink line). Verified via pokemondb.net and card name match — depicted gear figure with face-like center on large gear matches Klang's canonical design. Flavor text from PokemonTCG.io also confirms species. ip_verified set to true, ip_confidence remains high (no downgrade needed). Internal Pokemon IP — no IP callout block required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Klang is National Pokedex no. 600, the Stage 1 mid-form of the Klink evolution line: Klink (no. 599) -> Klang (no. 600, evolves at level 38) -> Klinklang (no. 601, evolves at level 49). Introduced in Generation 5 (Unova) in Pokemon Black and White (2010/2011). The Klink line was one of the first Pokemon designed as purely mechanical entities rather than animals adapted with metallic features. [pokemondb.net: Klang Pokedex page; Bulbapedia: Klang, via WebSearch snippet]",
+      "sources": ["pokemondb.net: Klang Pokedex entry", "Bulbapedia: Klang, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pokemon's rotation speed increases sharply.' [pokemon.com TCG database: Darkness Ablaze 126]. This mechanically describes the same gear-linkage visible in the card art — the smaller minigear aligned with the larger gear's outer ring, conveying mechanical efficiency as a game state escalation.",
+      "sources": ["pokemon.com TCG database: Darkness Ablaze 126"]
+    },
+    {
+      "category": "design",
+      "text": "Darkness Ablaze no. 126/189, Stage 1, Steel-type, 90 HP, Uncommon, illustrated by NC Empire, released 2020-08-14. NC Empire is a studio illustrator with a large catalog on Serebii's artist index; credited on multiple Steel-type and mechanical-Pokemon cards across SWSH era. The Darkness Ablaze set (SWSH3) is themed around Charizard VMAX and includes Eternatus VMAX as its second marquee card; Klang is a filler uncommon in the Steel-type slot. [Scryfall-equivalent: pokemon.com TCG database; Serebii: NC Empire artist page, via WebSearch snippet]",
+      "sources": ["pokemon.com TCG database: SWSH3 126", "Serebii: NC Empire artist index, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Klink", "set": "Darkness Ablaze (125/189)", "note": "Pre-evolution; same set, same evolution line"},
+    {"name": "Klinklang", "set": "Darkness Ablaze (127/189)", "note": "Final evolution; same set, completes the line"},
+    {"name": "Klinklang (Plasma)", "set": "Plasma Storm", "note": "Famous Metal-energy acceleration Klinklang used in Plasma Steel decks"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

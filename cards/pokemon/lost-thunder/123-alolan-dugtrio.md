@@ -15,9 +15,9 @@ tags_filter: ["group", "mid-shot", "forward-facing", "fighting-type", "alolan-fo
 reference_image: cards/_images/pokemon/lost-thunder/123-alolan-dugtrio.png
 average_cost_paid: 0
 market_price: 3.36
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/sm8/123_hires.png
 art_match_confidence: high
 needs_manual_review: false

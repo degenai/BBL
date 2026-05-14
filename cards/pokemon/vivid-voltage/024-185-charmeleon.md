@@ -14,10 +14,10 @@ tags_hub: ["fire", "dragon", "monster", "rage", "evolution", "lizard", "flame", 
 tags_filter: ["solo", "mid-shot", "action", "forward-facing", "fire-type", "creature-fire", "stage-1", "pokemon"]
 reference_image: cards/_images/pokemon/vivid-voltage/024-185-charmeleon.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-13
+market_price: 0.13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh4/24_hires.png
 art_match_confidence: high
 needs_manual_review: false

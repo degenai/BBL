@@ -1,0 +1,38 @@
+{
+  "card_name": "Single Strike Scroll of Piercing",
+  "game": "Pokemon",
+  "set": "Chilling Reign",
+  "collector_number": "154/198",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Single Strike and Rapid Strike mechanics were introduced in Battle Styles (SWSH5, March 2021) and continued through Chilling Reign (SWSH6, June 2021). Single Strike cards represent hard-hitting, all-or-nothing combat philosophy (contrast: Rapid Strike = technical, multi-hit). The mechanic is tied narratively to Kubfu/Urshifu's two forms — Single Strike Style (Dark-type) and Rapid Strike Style (Water-type). [pokemon.com: 'Rapid Strike Style Mustard, Tower of Darkness' article; pokebeach.com: Battle Styles introduction]",
+      "sources": ["pokemon.com: Battle Styles article", "pokebeach.com: Battle Styles introduction article, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Chilling Reign no. 154/198, Uncommon Pokemon Tool, illustrated by 5ban Graphics. No flavor text. 5ban Graphics is a major studio illustrator responsible for a large share of SWSH-era V/VMAX cards and Item cards; their signature is clean, high-contrast graphic design — well suited to the stylized scroll aesthetic here. The Scroll's Bullet Breakthrough attack (120 damage, unaffected by Weakness/Resistance and opponent effects) is designed as a tech option grafted onto a Single Strike Pokemon via the Tool mechanic rather than a standalone attack. [pokemon.com TCG database: SWSH6 154]",
+      "sources": ["pokemon.com TCG database: SWSH6 154"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Single Strike Scroll cycle in the corpus now has three confirmed members: Single Strike Scroll of Scorn (Battle Styles, no. 133/163) — trivia-enriched; Urn of Vitality (Battle Styles, no. 139/163) — trivia-enriched; Single Strike Scroll of Piercing (Chilling Reign, no. 154/198) — this card. Scroll of Scorn deals damage based on your own damage counters; Scroll of Piercing bypasses all modifiers flat. Tower of Darkness (Battle Styles stadium) is the cycle's draw engine. Houndoom's ability accelerates Single Strike Energy for the attack costs. [pokemon.com TCG database; Battle Styles corpus trivia; codedyellow.com: Pokemon Single Strike Card List, via WebSearch snippet]",
+      "sources": ["pokemon.com TCG database", "codedyellow.com: Pokemon Single Strike Card List, via WebSearch snippet", "Corpus trivia: Battle Styles 133, 139"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Single Strike Scroll of Scorn", "set": "Battle Styles (133/163)", "note": "Sister scroll; Single Strike Tool; already trivia-enriched in corpus"},
+    {"name": "Urn of Vitality", "set": "Battle Styles (139/163)", "note": "Single Strike energy recovery; same mechanic cluster; already trivia-enriched in corpus"},
+    {"name": "Tower of Darkness", "set": "Battle Styles (137/163)", "note": "Single Strike Stadium; the cycle's draw engine"},
+    {"name": "Houndoom", "set": "Battle Styles (96/163)", "note": "Single Strike energy acceleration ability; key enabler for Scroll attacks"},
+    {"name": "Urshifu Single Strike VMAX", "set": "Battle Styles (86/163)", "note": "Flagship Single Strike Pokemon; the mechanic's namesake and marquee card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

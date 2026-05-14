@@ -17,10 +17,10 @@ tags_hub: ["shadow", "nightmare", "horror", "darkness", "claws", "spider", "mons
 tags_filter: ["solo", "close-up", "forward-facing", "no-face", "black-magic", "creature-horror", "lifelink"]
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/188-horrid-shadowspinner.png
 average_cost_paid: 0
-market_price: 0.16
-market_price_as_of: 2026-05-13
+market_price: 0.18
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/6/2/62b69aaf-0aae-4f6e-a27f-0129882dfe1d.png?1717012721
 art_match_confidence: high
 needs_manual_review: false

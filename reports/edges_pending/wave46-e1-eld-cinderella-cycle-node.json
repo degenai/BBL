@@ -1,0 +1,29 @@
+{
+  "edge_id": "wave46-e1-eld-cinderella-cycle-node",
+  "shape": "node-proposal",
+  "category": "designer-confirmed-cycle",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/eld-cinderella-cycle.md", "name": "Cinderella cycle (Throne of Eldraine fairy-tale homage)"},
+    {"type": "card", "path": "cards/magic-the-gathering/throne-of-eldraine/218-enchanted-carriage.md", "name": "Enchanted Carriage"},
+    {"type": "card", "path": "cards/magic-the-gathering/throne-of-eldraine/69-turn-into-a-pumpkin.md", "name": "Turn into a Pumpkin"},
+    {"type": "card", "path": "cards/magic-the-gathering/throne-of-eldraine/109-wicked-guardian.md", "name": "Wicked Guardian"}
+  ],
+  "description": "Pardon me, sir — Edgelord asked me to step in because three Throne of Eldraine cards in corpus are designer-confirmed members of the same Cinderella cycle per Rosewater's Making Magic columns, and there was no graph node anchoring them. I do hope this helps. The cycle is named verbatim in 'More Odds & Ends: Throne of Eldraine' (where Rosewater confirms the Mouse creature type was invented for Enchanted Carriage to homage Cinderella's mice-turned-coachmen) and again in 'Eldraine or Shine' (where he places Wicked Guardian inside the cycle as the stepmother-treats-stepdaughter-as-servant moment). Modeled as a character-layer cycle node following the dsk-unlucky-lands-cycle precedent — which actually named 'Cinderella cycle in ELD' as a future-cycles-layer candidate, so I was, um, expected. The threshold from janitor_triage (≥3 cycle members enriched) cleared cleanly. I tried not to overreach: roster lists 6 strict-membership cards from Rosewater's named-in-print roster (Enchanted Carriage, Turn into a Pumpkin, Wicked Guardian, Faerie Guidemother, Midnight Clock, Crystal Slipper) plus 1 inferred-membership candidate (Beloved Princess, vision-only, deferred to triviabot). I hope I haven't caused any trouble.",
+  "citations": [
+    "[Wizards: Mark Rosewater, 'Eldraine or Shine,' Making Magic, 2019-09-09]",
+    "[Wizards: Mark Rosewater, 'More Odds & Ends: Throne of Eldraine,' Making Magic, 2019-10-21]",
+    "[Wizards: Mark Rosewater, 'Odds & Ends: Throne of Eldraine,' Making Magic, 2019-10-14]",
+    "[Scryfall: ELD per-card pages 218 / 69 / 109 / 11 / 54 / 117 / 7]",
+    "[MTG Wiki: Throne of Eldraine]",
+    "[in-corpus precedent: cards/_characters/dsk-unlucky-lands-cycle.md (cycle-as-character-layer pattern, names 'Cinderella cycle in ELD' as future-cycles-split candidate)]"
+  ],
+  "files_modified": [
+    "cards/_characters/eld-cinderella-cycle.md (created)",
+    "cards/magic-the-gathering/throne-of-eldraine/218-enchanted-carriage.md (added characters: [eld-cinderella-cycle])",
+    "cards/magic-the-gathering/throne-of-eldraine/69-turn-into-a-pumpkin.md (added characters: [eld-cinderella-cycle])",
+    "cards/magic-the-gathering/throne-of-eldraine/109-wicked-guardian.md (added characters: [eld-cinderella-cycle])",
+    "reports/janitor_triage.md (closed the Cinderella Cycle (ELD) future-node candidate item)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

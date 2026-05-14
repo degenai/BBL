@@ -1,0 +1,117 @@
+{
+  "wave": 47,
+  "edge_id": "wave47-e1-mareep-line--commissioned-node",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/mareep-line.md", "name": "Mareep evolutionary line (Mareep / Flaaffy / Ampharos)"},
+    {"type": "card", "path": "cards/pokemon/chilling-reign/047-198-mareep.md", "name": "Mareep (Chilling Reign 047/198)"},
+    {"type": "card", "path": "cards/pokemon/chilling-reign/047-198-mareep--reverse-holofoil.md", "name": "Mareep (Chilling Reign 047/198 Reverse Holofoil)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/055-189-mareep.md", "name": "Mareep (Darkness Ablaze 055/189)"},
+    {"type": "card", "path": "cards/pokemon/chilling-reign/048-198-flaaffy.md", "name": "Flaaffy (Chilling Reign 048/198)"}
+  ],
+  "description": "Sorry to inconvenience, sir, but Edgelord did spot a clean Mareep ~ Flaaffy 1:1 cross-print and wanted to draw it — except the corpus already has four trivia-passed Mareep-line prints across two stages (two Mareep CRE prints incl. Reverse Holofoil + one Mareep DAA + one Flaaffy CRE), plus a fifth vision-only Flaaffy DAA awaiting trivia pass, and per the staraptor-line precedent (3+ corpus prints across 2+ stages = line-node threshold) this is firmly above threshold. Drawing a 1:1 here would generate redundant cross-print edges that all point at an absent center, when a `mareep-line` character node anchors the cohort cleanly. The line also carries thesis-grade fun-fact material — the species name 'Mareep' is an anagram of 'ampere,' the 'Ampharos' name is 'ampere' + Greek 'pharos' (lighthouse), and the line is widely community-read as a reference to Philip K. Dick's 'Do Androids Dream of Electric Sheep?' (1968, the source novel for Blade Runner) — so the node is also a future-Discrete-Lair anchor. Hope you don't mind. Please consider it.",
+  "citations": [
+    "[Bulbapedia: Mareep (Pokemon) / Flaaffy (Pokemon) / Ampharos (Pokemon)]",
+    "[Pokemon.com: official Pokedex no. 179 / 180 / 181]",
+    "[Pokemon Gold and Silver (Game Freak / Creatures Inc. / Nintendo, 1999) primary canon]",
+    "[Pokemon X and Y (Game Freak, 2013) primary canon for Mega Ampharos]",
+    "[Game Informer: Sableye and Mareep design origins interview, 2015]",
+    "[GameFAQs / r/pokemon community threads on the Philip K. Dick reference]",
+    "[PokemonTCG.io: swsh3-55 + swsh6-47 + swsh6-48 + swsh3-56 per-card data]",
+    "[Bulbapedia: Mareep line (TCG)]"
+  ],
+  "files_modified": [
+    "cards/_characters/mareep-line.md",
+    "cards/pokemon/chilling-reign/047-198-mareep.md",
+    "cards/pokemon/chilling-reign/047-198-mareep--reverse-holofoil.md",
+    "cards/pokemon/darkness-ablaze/055-189-mareep.md",
+    "cards/pokemon/chilling-reign/048-198-flaaffy.md"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    {
+      "candidate": "ralts-line character node (Ralts CRE 059 + Kirlia CRE 060 + Kirlia BST 92 + stubby Kirlia LT 140)",
+      "decision": "defer to future wave",
+      "reason": "Equally above threshold (3 trivia-passed across 2 stages), but the existing wired Ralts CRE 059 ~ Kirlia CRE 060 same-set evolution mirror already absorbs the narrative thrust on this line. A future wave can commission the ralts-line node once a Gardevoir or Gallade print enters corpus, making it a 4-print across-3-stage cohort with a stronger structural case than the current 2-stage state."
+    },
+    {
+      "candidate": "Kirlia BST 92 ~ Kirlia CRE 060 cross-print 1:1 mirror",
+      "decision": "reject in favor of future ralts-line node",
+      "reason": "A clean cross-print mirror is available, but commissioning the line node in a future wave makes this 1:1 redundant. Per the staraptor-line precedent, the line node absorbs cross-print and within-line mirrors at the species level."
+    },
+    {
+      "candidate": "theros-pantheon-devotion hub or character node (Alseid of Life's Bounty + Altar of the Pantheon + Reverent Hoplite, all THB)",
+      "decision": "defer",
+      "reason": "Three THB cards share devotion-mechanic flavor and Greek-mythology setting, but at n=3 a Theros-pantheon-devotion node is thin. Devotion is a return mechanic (Theros 2013 + THB 2020) with substantial coverage potential as corpus grows. Surface as Nodeley candidate for a future wave once Heliod / Erebos / Klothys / Athreos / other THB devotion-payoff or god prints enter corpus."
+    },
+    {
+      "candidate": "garruk character node (Garruk's Uprising + Garruk's Gorehorn)",
+      "decision": "defer",
+      "reason": "Two M21 Garruk-named cards in corpus, but Garruk's Gorehorn is stubby (no trivia pass, no IP-verification). Per wave 46's 'stubby cards stay stubby' standard, hold the node proposal until Gorehorn receives trivia enrichment. Note: Gorehorn's flavor text is from Liliana Vess about Garruk, which would make for strong character-node content once trivia'd."
+    },
+    {
+      "candidate": "WAR Triumph cycle character node (Nissa's Triumph + Jace's Triumph)",
+      "decision": "REJECT — re-walks wave 46 territory",
+      "reason": "Wave 46 already evaluated this and rejected with 'cycle is the right anchor; 2/5 below threshold.' Holds: corpus has 2 of 5 Triumphs (Nissa + Jace), no Defeats, no Gideon/Liliana/Chandra Triumphs. Threshold not met."
+    },
+    {
+      "candidate": "DSK Saw-franchise reference cluster node (Trial of Agony + the corpus-absent Saw, Let's Play A Game, The Lord of Pain)",
+      "decision": "reject at n=1",
+      "reason": "Trial of Agony is canonically part of a designer-coordinated Saw / Jigsaw tribute cluster (cited in Trial of Agony's trivia via Wargamer, TheGamer, Star City Games), but Trial of Agony is the only Saw-cluster member in corpus. n=1, threshold not met."
+    },
+    {
+      "candidate": "DSK Glimmer subtype node (Glimmer Seeker as only member)",
+      "decision": "reject at n=1",
+      "reason": "Glimmers are a designer-coordinated DSK subtype (canonical lore per Inquisitive Glimmer flavor: 'physical manifestations of survivors' hope and courage'), structurally analogous to the Valgavoth node as the narrative counterweight to the set's antagonist. But Glimmer Seeker is corpus-singleton for the Glimmer subtype. n=1, threshold not met. Strong future candidate once Inquisitive Glimmer / Glimmerlight / Lionheart Glimmer / Glimmerburst enter corpus."
+    },
+    {
+      "candidate": "Vito (Thorn of the Dusk Rose) edges via Sanguine Bond / Mavren Fein / Bloodthirsty Conqueror",
+      "decision": "reject — no in-corpus counterparts",
+      "reason": "Vito's Related cards section names Sanguine Bond + Bloodthirsty Conqueror + Mavren Fein as canonical lifegain-drain or Legion-of-Dusk faction connections, but none of those are in BBL corpus. The wave 46 sign-off already noted Elenda isn't in corpus either. Vito is corpus-singleton for the Church-of-Dusk-Vito-stack at present."
+    },
+    {
+      "candidate": "Furnace Hellkite ~ Mogg Mob MH3 red pair",
+      "decision": "reject as tag-tier",
+      "reason": "Both MH3 + both red + both creature, but Hellkite is artifact-affinity dragon and Mogg Mob is goblin sac. No narrative overlap. Set + color + supertype is tag-tier, not edge-tier."
+    },
+    {
+      "candidate": "Galarian NPC cluster (Sonia + Cara Liss + Sordward & Shielbert)",
+      "decision": "reject as thematically diffuse",
+      "reason": "All three are named Sword/Shield NPCs, but Sonia is Magnolia's heir / new Galar Professor, Cara Liss is the Route 6 fossil-revival NPC, Sordward & Shielbert are post-game antagonists. Three distinct narrative slots with no story-arc cohesion. Per wave 46's Sordward & Shielbert refusal, a 'Galar NPCs' container node would be tag-tier rather than canon-tier."
+    },
+    {
+      "candidate": "ghirapur-grand-prix racing-event parent node (Adrenaline Jockey + Dracosaur Auxiliary + Skycrash + Ooze Patrol + Slick Imitator)",
+      "decision": "defer per wave 46's instruction to focused future wave + surface team taxonomy now",
+      "reason": "Per user's wave-47 prompt instruction 'if you DO survey it, surface 3-5 race teams not 1 generic team' — surveyed. The 5 corpus Aetherdrift cards in this batch trace to at least 3 distinct race teams (Speed Demons / Duskmourn-Valgavoth racing crew cited in Ooze Patrol trivia, The Chordatan Keelhaulers / Avishkar shark-pirate crew with Captain Howler cited in Slick Imitator trivia, Muragandan dinosaur racing contingent implied through Dracosaur Auxiliary, plus the already-commissioned Endriders / Gastal team from previous waves, plus Aether Rangers / Avishkar from earlier corpus). A focused future wave should commission per-team nodes (speed-demons, chordatan-keelhaulers, muragandan-racers) where threshold is met, OR commission a parent ghirapur-grand-prix racing-event node anchoring the 10-team taxonomy. Holding for that wave."
+    }
+  ],
+  "wave47_aetherdrift_race_team_survey": {
+    "surveyed_under_user_directive": "surface 3-5 race teams not 1 generic team",
+    "in_corpus_aetherdrift_cards_count": 25,
+    "currently_node_anchored_teams": [
+      {"team": "Endriders", "node": "cards/_characters/endriders.md", "plane": "Gastal", "color_id": "BR", "in_corpus_cards": 3, "examples": ["Endrider Spikespitter DFT-125", "Fuel the Flames DFT-126", "Bloodfell Caves DFT-251"]},
+      {"team": "Aether Rangers", "node": "cards/_characters/aether-rangers.md", "plane": "Avishkar", "color_id": "GW", "in_corpus_cards": "verify in future wave"}
+    ],
+    "additional_teams_surfaced_from_trivia_for_future_node_commissioning": [
+      {"team": "Speed Demons", "plane": "Duskmourn / Valgavoth-controlled", "color_id": "BR-or-mono-B", "canonical_source": "MTG Wiki: Speed Demons", "trivia_anchor_in_corpus": "Ooze Patrol DFT-172 flavor text 'demonic roadster' + trivia note 'Speed Demons are Duskmourn's racing crew of possessed drivers led by Winter under archdemon Valgavoth's compulsion'", "in_corpus_cards_pointing_at_team": ["Ooze Patrol DFT-172 (indirect — ate one of their cars)"], "threshold_status": "n=1 indirect, below threshold"},
+      {"team": "The Chordatan Keelhaulers", "plane": "Avishkar (Chordatan / hammerhead-shark-folk race)", "color_id": "UR", "canonical_source": "MTG Wiki: The Chordatan Keelhaulers / Captain Howler, Sea Scourge / Planeswalker's Guide to Aetherdrift", "trivia_anchor_in_corpus": "Slick Imitator DFT-062 trivia + EDHREC top-co-inclusion data showing Captain Howler as 2nd-tier home", "in_corpus_cards_pointing_at_team": ["Slick Imitator DFT-062 (impersonating a Keelhauler shark-folk in art)"], "threshold_status": "n=1 with one in-corpus card depicting team-impersonation, below threshold but interesting"},
+      {"team": "Muragandan racing contingent (un-named in-corpus, possibly 'Saurid Autocracy' raiders per MTG Wiki)", "plane": "Muraganda (primordial / dinosaur)", "color_id": "RG-or-naya", "canonical_source": "MTG Wiki: Muraganda + Wargamer 'Muraganda revealed by Rosewater'", "trivia_anchor_in_corpus": "Dracosaur Auxiliary DFT-122 trivia + Ooze Patrol DFT-172 'Muraganda primordial plane full of dinosaurs and oozes' + Skycrash DFT-146 Stage 3 Muraganda leg flavor", "in_corpus_cards_pointing_at_team": ["Dracosaur Auxiliary DFT-122", "Ooze Patrol DFT-172 (probable Muragandan ooze, racing context)", "Skycrash DFT-146 (Stage 3 Muraganda raceway wreck)"], "threshold_status": "n=3 indirect, marginal threshold; depends on whether the Muraganda contingent is a single team or multiple raider groups per MTG Wiki canon"},
+      {"team": "Generic Aetherdrift Grand Prix racing-event parent (10-team taxonomy)", "plane": "Multiplanar (Avishkar / Amonkhet / Muraganda Grand Prix)", "color_id": "all-WUBRG", "canonical_source": "MTG Wiki: Aetherdrift + Wizards: 'You Get the Aetherdrift, Part 1 + Part 2' + butwhytho.net Aetherdrift's Grand Prix Teams writeup", "trivia_anchor_in_corpus": "every Aetherdrift card's set-context trivia references the Ghirapur Grand Prix 10-team structure", "in_corpus_cards_pointing_at_team": ["all 25 Aetherdrift cards in corpus"], "threshold_status": "EVENT-LEVEL, not team-level — a parent racing-event node would anchor the 10-team taxonomy and absorb per-team-too-thin Speed Demons / Keelhaulers / Muragandan contingent references"}
+    ],
+    "recommendation_for_future_wave": "Commission a parent ghirapur-grand-prix or aetherdrift-grand-prix character node (event-level) FIRST, with the 10-team taxonomy and the 25-corpus-card roster. Per-team child nodes (speed-demons, chordatan-keelhaulers, muragandan-racers) get commissioned when each team's in-corpus count crosses threshold individually. Endriders + Aether Rangers stay as siblings of the parent event node."
+  },
+  "fun_facts_surfaced_worth_saving": [
+    "Mareep's name is an anagram of 'ampere' (the SI unit of electric current). The line's endpoint Ampharos combines 'ampere' + Greek 'pharos' (lighthouse). The species-name etymology is scientifically and linguistically deliberate at the franchise level.",
+    "The Mareep line is widely community-read as a reference to Philip K. Dick's 'Do Androids Dream of Electric Sheep?' (1968, the source novel for Ridley Scott's Blade Runner, 1982). Multiple GameFAQs / r/pokemon threads converge on this reading. Available for bundle copy that wants to operate at the literary-canon level.",
+    "Flaaffy's Pokedex flavor text 'It stores electricity in its fluffy fleece. If it stores up too much, it will start to go bald in those patches' is one of the franchise's few Pokemon flavor texts that describes a visible physical consequence of the Pokemon's power increasing — wool-as-charge-storage as a literal cost-of-power motif rendered as biology.",
+    "The Aetherdrift 10-team racing structure has at least 5 in-corpus teams represented (Endriders / Aether Rangers / Speed Demons / The Chordatan Keelhaulers / Muragandan racing contingent), with Speed Demons being a Duskmourn-Valgavoth racing crew led by Winter — the Aetherdrift / Duskmourn cross-set Valgavoth-canon thread is structurally interesting. Future wave node-proposal candidate for either a 'speed-demons' team node or a 'valgavoth-racing-crew' Valgavoth-attached sub-node.",
+    "Trial of Agony (DSK-159) is canonically part of a Saw-franchise reference cluster (Saw + Let's Play A Game + The Lord of Pain + Trial of Agony) cited in Wargamer / TheGamer / Star City Games coverage. Three of the four cluster members are NOT in BBL corpus. Future-acquisition target if the Saw/Jigsaw narrative becomes a Discrete Lair thesis."
+  ],
+  "considered_and_rejected_log_for_wave_48": [
+    "Re-walking wave 46 territory: Nissa's Triumph ~ Jace's Triumph 1:1 (cycle anchor at 2/5), Vito ~ Elenda edge (Elenda not in corpus), God-Eternal Bontu ~ Liliana node (no Liliana node yet), Charmed Sleep + Turn into a Pumpkin fairy-tale cycle edge (Charmed Sleep is Sleeping Beauty distinct from Cinderella), Beloved Princess as Cinderella 4th member (vision-only inferred-status), Smoky Lounge + Moldering Gym sibling edge (refuted), Chainwhip Cyclops ~ Gruul/Domri (no Gruul / Domri node), Aetherdrift racing-team cluster (per wave-46 deferral + wave-47 survey-only directive). HOLDS.",
+    "Wave-47 newly rejected: garruk character node (Gorehorn stubby — defer until trivia pass), ralts-line node (defer in favor of mareep-line; ralts-line commissioned next wave once Gardevoir / Gallade enters corpus), theros-pantheon-devotion node (n=3, marginal, defer), DSK Saw cluster (n=1, defer), DSK Glimmer subtype (n=1, defer), Vito lifegain-drain stack (no in-corpus counterparts), Furnace Hellkite ~ Mogg Mob (tag-tier), Galarian NPC cluster Sonia + Cara Liss + Sordward & Shielbert (thematically diffuse), Trial of Agony ~ DSK Survivors edge (no narrative overlap beyond shared set).",
+    "Wave-47 NEW future-wave Nodeley candidates surfaced: (1) ralts-line node when 4th line member enters corpus, (2) ghirapur-grand-prix event-level parent node + per-team children when threshold lands, (3) DSK Glimmer subtype node when 3+ Glimmer cards enter corpus, (4) garruk character node when Garruk's Gorehorn receives trivia pass, (5) theros-pantheon-devotion hub when 5+ devotion-mechanic Theros cards land, (6) DSK Saw / Jigsaw reference cluster when 2nd Saw-cluster card enters corpus."
+  ]
+}

@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "portrait", "three-quarter", "black-magic", "r
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/231-shady-informant.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/0/d/0de36e63-8190-415f-b65b-bae1e595845d.png?1706242250
 art_match_confidence: high
 needs_manual_review: false

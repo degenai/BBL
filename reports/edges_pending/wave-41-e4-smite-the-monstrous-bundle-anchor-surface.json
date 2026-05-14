@@ -1,0 +1,23 @@
+{
+  "edge_id": "wave-41-e4-smite-the-monstrous-bundle-anchor-surface",
+  "shape": "triage-surface (no node, no edge — bundle anchor logged for future curation)",
+  "category": "designer-confirmed-cycle / bundle-cohesion-stack",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/49-smite-the-monstrous.md", "name": "Smite the Monstrous (BFZ-49)"},
+    {"type": "character", "path": "cards/_characters/kor.md", "name": "Kor (9 BFZ anchors post wave 41)"},
+    {"type": "character", "path": "cards/_characters/eldrazi.md", "name": "Eldrazi (3 BFZ anchors post wave 41)"},
+    {"type": "triage", "path": "reports/janitor_triage.md", "name": "Bundle-anchor-candidates section (created)"}
+  ],
+  "description": "Curatorial light touch — option (b) per the brief. Smite the Monstrous bridges five hubs in a single composition (eldrazi + body-horror + scale + heroism + mass-combat) and visually argues the whole BFZ block adversary thesis. Considered creating cards/_symbols/eldrazi-resistance.md as a 'small-figures-grappling-titan' symbol but rejected on threshold grounds — Smite is the only single-frame attacking-tableau card in corpus; Fortified Rampart is defenders-behind-wall, not grappling-attackers, so a 2-card symbol-tier threshold is not met. The right move is to surface the card as a future Discrete Lair cover-art anchor in janitor_triage.md so that when the BFZ-Eldrazi-resistance bundle is assembled (anchored on the 9 kor + 3 BFZ Eldrazi roster), the cover-anchor is already identified. New 'Open — bundle-anchor candidates (curatorial spotlight)' section added to janitor_triage.md for the parking-lot use case. Don't over-engineer; the symbol node can be commissioned later if a second similar attacking-tableau card surfaces (e.g. a Stalwart Aven, a Resolute Blademaster, a future OGW kor-attacks-titan card).",
+  "citations": [
+    "Wave 41 vision pass on Smite the Monstrous (bridging-five-hubs surface notation)",
+    "In-corpus eldrazi.md (post wave 41 E3 BFZ-coverage caveat)",
+    "In-corpus kor.md (post wave 41 E3 BFZ-coverage-exhaustive caveat)",
+    "BBL bundle-anchor pattern (Discrete Lair cover-art anchor selection precedent)"
+  ],
+  "files_modified": [
+    "reports/janitor_triage.md (new 'Open — bundle-anchor candidates' section + Smite the Monstrous entry)"
+  ],
+  "edgelord_mood": "enlightened-deliberate"
+}

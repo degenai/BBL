@@ -17,10 +17,10 @@ tags_hub: ["alien", "canyon", "eldrazi", "void", "predator", "creature", "wilder
 tags_filter: ["duo", "mid-shot", "three-quarter", "action", "white-magic", "creature-human-wizard", "kicker"]
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/17-wastescape-battlemage.png
 average_cost_paid: 0
-market_price: 0.19
-market_price_as_of: 2026-05-13
+market_price: 0.23
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/6/b/6bc119b8-429c-4ab6-adba-b65b03810e98.png?1770815948
 art_match_confidence: high
 needs_manual_review: false

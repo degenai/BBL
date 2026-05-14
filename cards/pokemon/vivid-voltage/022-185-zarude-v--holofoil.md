@@ -14,10 +14,10 @@ tags_hub: ["jungle", "primate", "forest", "dark", "vines", "wild", "predator", "
 tags_filter: ["solo", "mid-shot", "action", "forward-facing", "grass-type", "dark-type", "creature-grass", "pokemon-v", "holofoil", "pokemon"]
 reference_image: cards/_images/pokemon/vivid-voltage/022-185-zarude-v--holofoil.png
 average_cost_paid: 0
-market_price: 0.69
-market_price_as_of: 2026-05-13
+market_price: 0.68
+market_price_as_of: 2026-05-14
 date_added: 2026-05-05
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh4/22_hires.png
 art_match_confidence: high
 needs_manual_review: false

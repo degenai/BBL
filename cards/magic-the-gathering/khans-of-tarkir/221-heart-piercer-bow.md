@@ -14,10 +14,10 @@ tags_hub: ["bow", "archery", "weapon", "arrow", "hunt", "dragon-bone", "wind", "
 tags_filter: ["no-figure", "close-up", "object-study", "faces-right", "artifact", "equipment", "colorless", "no-face", "scene-mode", "khans-of-tarkir-mardu"]
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/221-heart-piercer-bow.png
 average_cost_paid: 0
-market_price: 0.11
-market_price_as_of: 2026-05-13
+market_price: 0.12
+market_price_as_of: 2026-05-14
 date_added: 2026-05-07
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

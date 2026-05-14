@@ -1,0 +1,41 @@
+{
+  "card_name": "Chainwhip Cyclops",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "118",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "War of the Spark (WAR) was released May 3, 2019 and depicted Nicol Bolas's invasion of Ravnica. The Gruul Clans — whose cyclops forces lived in the Rubblebelt on the city's outskirts — were drawn into the chaos. Domri Rade, the Gruul Guildmaster, aligned with Bolas and was the first named planeswalker to have his spark harvested by the Elderspell.",
+      "sources": ["Scryfall WAR-118", "MTG Wiki: War of the Spark/Event via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'You say this Tenth District, not Rubblebelt. But where smash happen, that Rubblebelt. Rubblebelt state of mind.' — Urgdar, cyclops philosopher. The Rubblebelt is canonically the Gruul-controlled zone of destroyed buildings on Ravnica's outskirts; Bolas's invasion turned much of the Tenth District into de facto Rubblebelt. Urgdar's philosophical position is the card's lone comedy note in an otherwise grim set.",
+      "sources": ["card frontmatter flavor_text", "MTG Wiki: Gruul Clans via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A {4}{R} 4/4 with {3}{R}: target creature can't block this turn. EDHREC tracks the card in approximately 240 decks (0.0% of all), ranking it as one of the lower-inclusion WAR commons in Commander. Standard relevance was minimal given its cost and the competitive environment of WAR Standard.",
+      "sources": ["EDHREC: Chainwhip Cyclops via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Chainwhip Cyclops was reprinted in Ravnica: Clue Edition (CLU-127, 2024), a crossover product themed around the Ravnica setting and the Clue board game. The reprint recontextualizes the card inside Ravnica's city geography.",
+      "sources": ["Gatherer.wizards.com CLU/127 via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Gruul Spellbreaker", "set": "RNA", "note": "Gruul-watermarked red-green creature; thematic faction companion"},
+    {"name": "Borborygmos Enraged", "set": "GTC", "note": "Gruul Guildmaster cyclops before Domri's takeover; lore anchor for cyclops-as-Gruul archetype"},
+    {"name": "Domri Rade", "set": "WAR", "note": "canonical Gruul Guildmaster who aligned with Bolas in WAR; block-political context for this card's setting"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

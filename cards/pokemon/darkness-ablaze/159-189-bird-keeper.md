@@ -17,10 +17,10 @@ tags_hub: ["bird", "cage", "keeper", "labor", "caretaker", "nature", "trainer", 
 tags_filter: ["solo", "mid-shot", "portrait-mode", "trainer-card", "supporter", "swsh-era", "pokemon-trainer"]
 reference_image: cards/_images/pokemon/darkness-ablaze/159-189-bird-keeper.png
 average_cost_paid: 0
-market_price: 0.13
-market_price_as_of: 2026-05-13
+market_price: 0.14
+market_price_as_of: 2026-05-14
 date_added: 2026-05-07
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh3/159_hires.png
 art_match_confidence: high
 needs_manual_review: false

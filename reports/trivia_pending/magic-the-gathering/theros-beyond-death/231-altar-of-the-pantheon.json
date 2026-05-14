@@ -1,0 +1,37 @@
+{
+  "card_name": "Altar of the Pantheon",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "231",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Altar of the Pantheon is a Common artifact from Theros Beyond Death (THB, released 2020-01-24), a set built around the Greek-mythology-inspired plane of Theros. THB returned to the Theros setting first introduced in 2013 and doubled down on the devotion mechanic (first appearing in original Theros, also 2013), the constellation mechanic (rewarding enchantment-enters triggers), and a newly introduced underworld-journey mechanic called Escape. [Scryfall: thb/231; WebSearch snippet: Theros Beyond Death set page]",
+      "sources": ["Scryfall: thb/231", "WebSearch: Scryfall THB set page"]
+    },
+    {
+      "category": "design",
+      "text": "THB no. 231, Common, illustrated by Jonas De Ro, released 2020-01-24. No flavor text is printed on this card. The Altar's first ability — 'Your devotion to each color and each combination of colors is increased by one' — is a unique devotion-pump effect: it adds +1 to each individual color devotion count AND to each multi-color combination, but does NOT stack (your devotion to red/green increases by one total, not by two). The second ability (tap for any color; if you control a God, Demigod, or legendary enchantment, gain 1 life) bundles color-fixing with a lifegain payoff timed to the set's highest-rarity permanents. [Scryfall: thb/231; mtgassist.com: Altar of the Pantheon rulings]",
+      "sources": ["Scryfall: thb/231", "mtgassist.com: Altar of the Pantheon rulings"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC reports Altar of the Pantheon in approximately 21,900 Commander decks (0.3% inclusion rate across tracked decks). Its niche is Theros-god-themed Commander builds — particularly multicolor god commanders (Athreos, Klothys, etc.) where the devotion boost helps meet the threshold that animates legendary gods into creatures. Outside god-focused brews it is rarely played. [EDHREC: thb set page, via WebSearch snippet]",
+      "sources": ["EDHREC: Theros Beyond Death set page, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Nyxborn Behemoth", "set": "Theros Beyond Death", "note": "Same set; shares thematic space as a bulk Theros enchantment creature"},
+    {"name": "Klothys, God of Destiny", "set": "Theros Beyond Death (149)", "note": "THB God; the Altar's lifegain trigger fires when Klothys is on board"},
+    {"name": "Athreos, Shroud-Veiled", "set": "Theros Beyond Death (269)", "note": "THB God; same Altar lifegain synergy"},
+    {"name": "Chromatic Lantern", "set": "Return to Ravnica (224)", "note": "Comparable color-fixer artifact; often compared to Altar in discussions of mana-rock design"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

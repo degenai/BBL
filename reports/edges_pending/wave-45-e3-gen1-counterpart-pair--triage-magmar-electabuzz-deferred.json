@@ -1,0 +1,17 @@
+{
+  "edge_id": "wave-45-e3-gen1-counterpart-pair--triage-magmar-electabuzz-deferred",
+  "shape": "refusal",
+  "category": "below-threshold-character-node-AND-pattern-symbol-refused",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/rebel-clash/029-192-magmar.md", "name": "Magmar (Rebel Clash 029/192)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/058-192-electabuzz.md", "name": "Electabuzz (Rebel Clash 058/192)"},
+    {"type": "character", "path": "cards/_characters/solrock-lunatone-pair.md", "name": "Solrock / Lunatone pair (precedent invoked + caveat invoked)"}
+  ],
+  "description": "Wave 45 E3 considered TWO candidate moves on the Gen I counterpart-pair axis and refused BOTH. Move 1: `magmar-electabuzz-pair` solo-pair character node modeled on the solrock-lunatone-pair (Hoenn version-exclusive Meteorite-Pokemon dyad founded at N=3 corpus cards across 2 species, wave 23). Current Magmar/Electabuzz state: N=2 corpus cards (RBC-029 + RBC-058), 2 species, same set, designer-coordinated production pairing — but N=2 is the WAVE 18 deferral state of solrock-lunatone-pair, NOT the founding state (N=3). Wave 32-33 trivia + Edgelord already mirrored the 1:1 Connections edge between Magmar and Electabuzz on canonical pair grounds; the 1:1 mirror is sufficient at N=2. Move 2: `gen1-counterpart-pair` generic symbol or hub node unifying multiple Gen I version-exclusive pairs (Magmar/Electabuzz, Vulpix/Growlithe, etc.). REFUSED per the solrock-lunatone-pair wave-23 caveat: 'other sun/moon Pokemon pairs would warrant their own character nodes if they enter the corpus, NOT a generic Pokemon sun/moon duality hub. Membership predicates on the species identity AND the paired-design thesis together.' The established graph convention is instance-level per-pair character nodes, NOT a pattern-level wrapper. Both moves filed to triage with the per-pair threshold trigger and the no-generic-wrapper architectural decision documented. The graph's existing convention is sound; Edgelord declines to override it.",
+  "citations": ["[in-corpus cards/_characters/solrock-lunatone-pair.md wave-23 founding state + caveats]", "[Bulbapedia: Magmar; Bulbapedia: Electabuzz; List of Pokemon with counterparts]", "[in-corpus cards/pokemon/rebel-clash/029-192-magmar.md + 058-192-electabuzz.md Connections sections, wave-32/33]"],
+  "files_modified": [
+    "reports/janitor_triage.md"
+  ],
+  "topology": "n/a (no edge drawn)",
+  "edgelord_mood": "satisfied"
+}

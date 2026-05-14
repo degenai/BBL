@@ -1,0 +1,17 @@
+{
+  "edge_id": "wave-45-e4-slavering-branchsnapper--valgavoth-wire-plus-appears-on-sync",
+  "shape": "1:1",
+  "category": "story-spotlight",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/198-slavering-branchsnapper.md", "name": "Slavering Branchsnapper (DSK-198)"},
+    {"type": "character", "path": "cards/_characters/valgavoth.md", "name": "Valgavoth (existing DSK pervasive-antagonist node)"}
+  ],
+  "description": "Card-to-character wiring with corrective enlightenment energy. Slavering Branchsnapper's trivia quotes Valgavoth's swallowed-suns cosmology directly ('Valgavoth consumed both [suns] as the House grew a tower piercing the clouds') and the low amber sun in the art's background reads as the swallowed-sun motif — load-bearing Valgavoth-specific detail, NOT generic plane-ruler boilerplate. Per the valgavoth.md wiring criterion (direct flavor citation OR narrative-agent OR set-context-with-load-bearing-iconographic-detail), Slavering Branchsnapper qualifies on the third path, joining the existing wired roster (Wary Watchdog + Duskmourn's Domination via flavor citation, Betrayer's Bargain via narrative-agent, Infernal Phantom + Say Its Name via load-bearing iconographic detail). Discovered en route to E4 that valgavoth.md had `appears_on: []` despite 5 cards already carrying `characters: [\"valgavoth\"]` in frontmatter — a Mr. Nodeley node-creation drift. Edge is 1:1 (card → character) but the pass corrects that drift simultaneously: appears_on now lists all 6 wired cards. The valgavoth body's referenced-not-depicted caveat is updated to articulate the wiring criterion (subset of body roster = frontmatter-wired = direct/narrative-agent/load-bearing-iconographic-detail; remainder = body-documented but un-wired, set-context-only). The four set-context-only cards (Razorkin Hordecaller, Frantic Strength, Moldering Gym // Weight Room, Smoky Lounge // Misty Salon) stay body-documented but un-wired. **Topology: 1:1 mirror with frontmatter-side sync of the receiving node's appears_on roster.** Surprise lore worth saving: the swallowed-suns cosmology is BBL's strongest cosmic-extinction-via-extraction frame in the DSK slice — Valgavoth literally ATE both of the plane's suns to fuel the House's growth, an apex-villain energy-economy plot one register more cosmic than Macro Cosmos's planetary-scale Eternatus summoning. Any future Duskmourn Discrete Lair can lean on swallowed-suns + Dynamax-engineered-into-Champion-Cup as the two clearest franchise renderings of apex-villain-as-energy-economy-architect.",
+  "citations": ["[in-corpus cards/_characters/valgavoth.md set-context citation roster + wiring criterion caveat]", "[in-corpus cards/magic-the-gathering/duskmourn-house-of-horror/198-slavering-branchsnapper.md trivia bullet quoting swallowed-suns lore]", "[MTG Wiki: Duskmourn (plane) — swallowed-suns cosmology; MTG Wiki: Valgavoth]"],
+  "files_modified": [
+    "cards/magic-the-gathering/duskmourn-house-of-horror/198-slavering-branchsnapper.md",
+    "cards/_characters/valgavoth.md"
+  ],
+  "topology": "mirror",
+  "edgelord_mood": "enlightened-cleanup"
+}

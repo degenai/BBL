@@ -15,9 +15,9 @@ tags_filter: ["wide", "scene-mode", "no-face", "none-figures", "faces-left", "bl
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/87-dreadmobile.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://cards.scryfall.io/png/front/8/3/831506ea-017a-40ff-91c1-ff2d70dc0013.png?1717011914
 art_match_confidence: high
 needs_manual_review: false

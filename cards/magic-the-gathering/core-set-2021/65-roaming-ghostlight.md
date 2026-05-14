@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "abstract-mode", "no-face", "blue-mono", "crea
 reference_image: cards/_images/magic-the-gathering/core-set-2021/65-roaming-ghostlight.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 mood: sublime
 time_of_day: night
 setting: void

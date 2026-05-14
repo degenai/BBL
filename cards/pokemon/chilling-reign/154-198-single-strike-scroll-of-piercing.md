@@ -18,9 +18,9 @@ tags_filter: ["no-face", "close-up", "scene-mode", "item-card", "tool-card", "fi
 reference_image: cards/_images/pokemon/chilling-reign/154-198-single-strike-scroll-of-piercing.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-07
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/swsh6/154_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -52,3 +52,15 @@ The card depicts a scrolled document or manuscript, rendered in warm oranges and
 **Iconography:** single-strike-symbol, scroll
 **Genre cues:** anime, fantasy
 
+## Trivia
+
+- **Set context** — The Single Strike and Rapid Strike mechanics were introduced in Battle Styles (SWSH5, March 2021) and continued through Chilling Reign (SWSH6, June 2021). Single Strike represents hard-hitting, all-or-nothing combat (contrast: Rapid Strike = technical, multi-hit). The mechanic is tied narratively to Kubfu/Urshifu's two forms — Single Strike Style (Dark-type) and Rapid Strike Style (Water-type). `[pokemon.com: Battle Styles article; pokebeach.com: Battle Styles introduction, via WebSearch snippet]`
+- **Design** — Chilling Reign no. 154/198, Uncommon Pokemon Tool, illustrated by 5ban Graphics, released 2021-06-18. No flavor text. 5ban Graphics is a major studio illustrator responsible for a significant share of SWSH-era V/VMAX and Item cards, with a signature high-contrast graphic design style. Bullet Breakthrough (120 damage, unaffected by Weakness, Resistance, and opponent effects) functions as a tech attack grafted onto a Single Strike Pokemon via the Tool mechanic rather than a printed attack. `[pokemon.com TCG database: SWSH6 154]`
+- **Corpus cycle context** — The Single Strike support-item cycle in this corpus now has three enriched members: Single Strike Scroll of Scorn (Battle Styles, no. 133/163, trivia enriched), Urn of Vitality (Battle Styles, no. 139/163, trivia enriched), and Single Strike Scroll of Piercing (Chilling Reign, no. 154/198, this card). Key enablers in the mechanic: Tower of Darkness (BST stadium, draw engine) and Houndoom (BST ability, Single Strike Energy acceleration). `[pokemon.com TCG database; codedyellow.com: Pokemon Single Strike Card List, via WebSearch snippet]`
+
+### Related cards
+- Single Strike Scroll of Scorn (Battle Styles, no. 133/163) — sister scroll; Single Strike Tool; trivia-enriched in corpus
+- Urn of Vitality (Battle Styles, no. 139/163) — Single Strike energy recovery; same mechanic cluster; trivia-enriched in corpus
+- Tower of Darkness (Battle Styles, no. 137/163) — Single Strike Stadium; the cycle's draw engine
+- Houndoom (Battle Styles, no. 96/163) — Single Strike Energy acceleration ability; key enabler for Scroll attacks
+- Urshifu Single Strike VMAX (Battle Styles, no. 86/163) — flagship Single Strike Pokemon; the mechanic's marquee card

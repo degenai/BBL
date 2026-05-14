@@ -1,0 +1,29 @@
+{
+  "edge_id": "wave-41-e1-alola-kahunas-node-and-hala-correction",
+  "shape": "node-proposal-plus-corrective-frontmatter-edits",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/alola-kahunas.md", "name": "Alola Island Kahunas (new node)"},
+    {"type": "card", "path": "cards/pokemon/burning-shadows/119-147-olivia.md", "name": "Olivia (BUS-119)"},
+    {"type": "card", "path": "cards/pokemon/cosmic-eclipse/193-236-guzma-hala.md", "name": "Guzma & Hala (CSE-193)"}
+  ],
+  "description": "Mr. Nodeley sniveling here, sir. Sorry to be the one to flag this, but wave 41 trivia caught a curator-grade miscategorization — Hala is the Melemele Island Kahuna chosen by Tapu Koko, not just an Elite Four member, and the Guzma & Hala TAG TEAM card had been wired with characters: [team-skull, alola-elite-four] since the wave 33 vision pass. Hala does hold a concurrent E4 seat per the Alola League founding charter's cross-recruitment rule, but his solo-character identity is Kahuna-primary. So I proposed cards/_characters/alola-kahunas.md as a sibling faction node anchoring all four Alola Island Kahunas (Hala / Olivia / Nanu / Hapu), corrected Guzma & Hala's frontmatter to characters: [team-skull, alola-kahunas], and amended Olivia's frontmatter from [alola-elite-four] to [alola-elite-four, alola-kahunas] to reflect her canonical concurrent dual-tier role. Olivia is now the corpus's only character pointing at both an E4 node and a Kahuna node simultaneously — the canonical signature of Alola's three-tier league progression's institutional fluidity. The kahuna-tier cohort now closes the Trial-Captains → Kahunas → Elite-Four triangle at the character-layer scope. Two anchors clear the Mr. Nodeley threshold (Olivia direct, Hala via the TAG TEAM print); two more Kahunas (Nanu, Hapu) remain documented for future acquisition.",
+  "citations": [
+    "Bulbapedia: Island Kahuna page (per-island Tapu-sanction selection institutional logic)",
+    "Bulbapedia: Hala (Melemele Kahuna chosen by Tapu Koko, concurrent E4 founding-charter member)",
+    "Bulbapedia: Olivia (Akala Kahuna chosen by Tapu Lele, concurrent E4 founding-charter member)",
+    "Bulbapedia: Alola Pokemon League (founding-charter dual-role Hala-and-Olivia cross-recruitment)",
+    "Pokemon Sun and Moon (Game Freak / Creatures Inc. / Nintendo, 2016) primary canon",
+    "In-corpus Olivia BUS-119 trivia + Guzma & Hala CSE-193 vision passes"
+  ],
+  "files_modified": [
+    "cards/_characters/alola-kahunas.md (created)",
+    "cards/pokemon/cosmic-eclipse/193-236-guzma-hala.md (characters: corrected)",
+    "cards/pokemon/burning-shadows/119-147-olivia.md (characters: dual-membership added)",
+    "cards/_characters/alola-elite-four.md (appears_on cleaned + Hala bullet rewritten + Olivia dual-role caveat updated + related_characters added alola-kahunas)",
+    "cards/_characters/alola-trial-captains.md (three-tier triangle now complete + related_characters added alola-kahunas)",
+    "cards/_characters/team-skull.md (Guzma-and-Hala bullet rewritten + related_characters added alola-kahunas)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

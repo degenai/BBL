@@ -14,10 +14,10 @@ tags_hub: ["god", "death", "undead", "skeleton", "zombie", "hooded-figure", "gia
 tags_filter: ["group", "forward-facing", "wide-shot", "scene-mode", "no-face", "creature-zombie-god", "legendary", "black-magic", "menace", "sacrifice", "card-draw"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/92-god-eternal-bontu.png
 average_cost_paid: 0
-market_price: 1.21
-market_price_as_of: 2026-05-13
+market_price: 1.19
+market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,6 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/7/3714a135-e2b
 mood: grim
 time_of_day: indeterminate
 setting: other
+characters: [nicol-bolas]
 artist: Lius Lasahido
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/92-god-eternal-bontu--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/7/3714a135-e2b9-43a7-a2a2-fa5a2e0ac61a.jpg?1557576478
@@ -51,4 +52,22 @@ A monumental zombified god looms in the foreground, draped in dark blue and blac
 **Creatures:** undead-god, zombie, skeleton
 **Iconography:** hood, skull, scythe, egyptian-deity
 **Genre cues:** fantasy, dark-fantasy, egyptian-mythology
+
+## Trivia
+
+- **Set context** — God-Eternal Bontu is one of five God-Eternals in War of the Spark (WAR, released 2019-05-03): Oketra (white, no. 16), Kefnet (blue, no. 58), Bontu (black, no. 92), Rhonas (green, no. 194), and Hazoret (red, no. 136). All five are Amonkhet gods zombified by Nicol Bolas and deployed as generals of his Dreadhorde army during the invasion of Ravnica. `[Scryfall: set:war type:zombie+god; MTG Wiki: God-Eternal, via WebSearch snippet]`
+- **Set context** — In the WAR story climax, Bontu's role is the decisive narrative pivot: after Gideon Jura died to lift Nicol Bolas's death-curse from Liliana Vess, Liliana commanded the God-Eternals to turn against Bolas. Bontu bit into Bolas and absorbed all of the sparks Bolas had harvested — including his own godhood's spark — then exploded from the overload. This is the canonical mechanism of Bolas's defeat. `[MTG Wiki: War of the Spark event, via WebSearch snippet; coolstuffinc.com: Jay Annelli WAR recap]`
+- **Design** — WAR no. 92, Mythic Rare, illustrated by Lius Lasahido, released 2019-05-03. No flavor text is printed on this card. The die-to-library-third-from-top trigger mechanically encodes Bolas's boast that his God-Eternals cannot be permanently stopped. Bontu's ETB (sacrifice any number of permanents, draw that many cards) mechanizes her canonical domain as Goddess of Ambition — sacrifice and the passage of the dead. `[Scryfall: war/92; MTG Wiki: Bontu, via WebSearch snippet]`
+- **Mechanical reputation** — EDHREC reports God-Eternal Bontu in approximately 36,685 Commander decks with around 275 commander-slot tracked builds, making her one of the most-played God-Eternals as a commander. Primary archetype: black sacrifice-payoff / Aristocrats — the ETB synergizes with any token-generating package (sacrificing 6+ tokens on entry to draw 6+ cards is a common combo trigger). `[EDHREC: god-eternal-bontu, via WebSearch snippet]`
+
+### Related cards
+- God-Eternal Oketra (War of the Spark, no. 16) — God-Eternal cycle sibling; white; the God who attacked Bolas alongside Bontu
+- God-Eternal Kefnet (War of the Spark, no. 58) — God-Eternal cycle sibling; blue
+- Liliana, Dreadhorde General (War of the Spark, no. 97) — commanded the God-Eternals to attack Bolas; direct narrative antecedent
+- Bontu the Glorified (Amonkhet, no. 88) — Bontu's pre-zombification original print; the goddess before Bolas corrupted her
+- Despark (War of the Spark, no. 190) — corpus-trivia'd Bolas Falls cluster card; story-adjacent WAR removal spell
+
+## Connections
+
+- [[tb2-017-razor-s-edge-yakon]] — Cross-franchise apparatus-of-extraction parallel: both depicted creatures are energy-eating apparatuses canonically destroyed by overconsumption. God-Eternal Bontu bites Nicol Bolas at Liliana's command and absorbs every planeswalker spark Bolas had harvested plus her own dying godhood-spark, then explodes from the overload; Yakon, in the World of the Kais arc of the Buu Saga, eats Goku's energy attacks until Goku force-feeds him an overwhelming Super Saiyan aura and Yakon explodes from absorbing more energy than his body can contain. Two franchises' canonical apparatus-eats-its-feeder collapse beat at the same structural shape: the weapon dies of its own appetite. `[MTG Wiki: War of the Spark event; coolstuffinc.com Jay Annelli WAR recap; Scryfall: war/92]` `[Dragon Ball Z anime/manga: Buu Saga / World of the Kais arc, Yakon vs Goku; Dragon Ball Wiki: Yakon]`
 

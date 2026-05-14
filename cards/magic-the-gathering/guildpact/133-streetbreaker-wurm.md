@@ -15,9 +15,9 @@ tags_filter: ["solo", "wide-shot", "three-quarter", "scene-mode", "no-face", "cr
 reference_image: cards/_images/magic-the-gathering/guildpact/133-streetbreaker-wurm.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-07
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Guildpact'

@@ -15,9 +15,9 @@ tags_filter: ["solo", "mid-shot", "female-figure", "portrait-mode", "trainer-car
 reference_image: cards/_images/pokemon/shining-legends/62-lillie.png
 average_cost_paid: 0
 market_price: 0.23
-market_price_as_of: 2026-05-13
+market_price_as_of: 2026-05-14
 date_added: 2026-05-07
-last_seen: 2026-05-12
+last_seen: 2026-05-13
 reference_image_source_url: https://images.pokemontcg.io/sm35/62_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -65,4 +65,8 @@ A slight figure dressed entirely in white — flowing dress, wide hat with a rib
 - Lusamine (Crimson Invasion) — Lillie's mother and antagonist, Aether Foundation president
 - Gladion (Forbidden Light) — Lillie's brother, fellow escapee from Lusamine
 - Cosmog (various) — Nebby, the Pokemon Lillie was protecting and the catalyst for her entire arc
+
+## Connections
+
+- [[100-236-cosmog]] — Named-character-identity edge: this Lillie art depicts the mid-storyline "journeying-with-Nebby" travel arc per the aether-foundation node body, and the corpus's only Cosmog print is the specific Cosmog (Nebby) at the center of that arc. The wicker basket on Lillie's arm in the SHL-62 art is the canonical basket that carried Nebby through Sun and Moon's early game; the Cosmog CEC-100 art depicts the same cosmic-creature in unprotected floating form. The two cards render the protector-and-protected pair across two SM-era subsets (Cosmic Eclipse sm12 + Shining Legends sm35): Cosmog as the carefree cargo of cosmic importance whose evolution into Solgaleo/Lunala is the storyline's mythic axis, Lillie as the resource-replenishment companion (draw-to-6, first-turn-draw-to-8) who shields it from her mother's Foundation. The pair is the corpus's first named-character-identity cross-set protector-and-protected edge inside the Aether Foundation Sun-and-Moon cohort. `[Bulbapedia: Lillie; Bulbapedia: Cosmog / Nebby; Pokemon Sun and Moon (Game Freak, 2016) primary canon]` `[PokemonTCG.io: sm35-62 + sm12-99]`
 

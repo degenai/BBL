@@ -69,10 +69,38 @@ BULBAPEDIA_MIN_WIDTH = 800
 
 USER_AGENT = "BBL-researchbot/0.1 (alex.adamczyk@gmail.com)"
 
+# Bandai DBSCG image CDN. Single-URL formula keyed on collector_number,
+# verified 100% coverage of the legacy DBSCG corpus (BT/TB/SD/P + EDBS reprints).
+# Images are 260x363 thumbnails — below the Pokemon baseline but acceptable for
+# vision tag-extraction. Investigation: reports/dbs_vision_strategy_findings.md.
+DBS_IMAGE_BASE = "https://www.dbs-cardgame.com/images/cardlist/cardimg"
+DBS_REFERER = "https://www.dbs-cardgame.com/us-en/cardlist/"
+# dbzexchange Shopify store has high-res scans (867x1210) for ~30% of DBSCG
+# corpus. Used as primary; Bandai is fallback. Discovery via search-suggest
+# JSON API + featured_image width metadata filter.
+DBZEXCHANGE_SUGGEST = "https://dbzexchange.com/search/suggest.json"
+
+# Bushiroad EN Weiss Schwarz cardlist. 400x558 PNGs, ~100% coverage of the
+# corpus's 6 active anime sets. Two-step discovery: search endpoint returns
+# HTML with <img src="..."> for the matched card. Strip rarity suffix from
+# collector number before searching. Investigation: reports/weiss_schwarz_vision_strategy_findings.md.
+WEISS_SEARCH_BASE = "https://en.ws-tcg.com/cardlist/searchresults/"
+WEISS_HOST = "https://en.ws-tcg.com"
+
+# Image-quality buckets. Stamped at prep time so downstream queries can grep
+# `image_quality: low` to find candidates for source-upgrade later.
+#   high: ≥700px width (Scryfall/PokemonTCG.io baseline, dbzexchange hi-res hits)
+#   med:  400-699px (Bushiroad EN Weiss 400x558, mid-tier scans)
+#   low:  <400px (Bandai DBS 260x363, dbzexchange low-res mirrors, smaller Pokemon)
+IMAGE_QUALITY_HIGH_MIN = 700
+IMAGE_QUALITY_MED_MIN = 400
+
 # Map Collectr game name → image-source strategy
 GAME_STRATEGY = {
     "Magic: The Gathering": "scryfall",
     "Pokemon": "pokemontcg",
+    "Dragon Ball Super": "dbs",
+    "Weiss Schwarz": "weiss",
     # Other games fall through with a warning until we wire APIs for them.
 }
 
@@ -571,19 +599,176 @@ def find_image_pokemontcg(card_name: str, set_name: str = ""
     return None, "none", "", "", "", "", ""
 
 
+def _head_ok(url: str, referer: str | None = None, timeout: float = 10.0) -> bool:
+    """HEAD probe — treat 200 as truthy. Saves downloading a thumbnail just to
+    discover it's a 404 page. Used by find_image_dbs (Bandai CDN is single-URL
+    formula; cheap to HEAD-check before committing to GET)."""
+    headers = {"User-Agent": USER_AGENT}
+    if referer:
+        headers["Referer"] = referer
+    try:
+        req = urllib.request.Request(url, headers=headers, method="HEAD")
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            return resp.status == 200
+    except Exception:
+        return False
+
+
+def _try_dbzexchange_hires(collector_number: str
+                           ) -> tuple[str | None, int]:
+    """Probe dbzexchange Shopify search-suggest for a HIGH-RES (>=500px wide)
+    scan of the given DBSCG collector_number. Returns (url, width_px) on hit
+    or (None, 0) on miss / low-res / wrong-card-match. ~30% of legacy DBSCG
+    corpus hits per investigation, rest are 260px mirrors of Bandai (we filter
+    those out — Bandai fallback wins on those because it's faster + canonical)."""
+    url = f"{DBZEXCHANGE_SUGGEST}?q={urllib.parse.quote(collector_number)}&resources%5Btype%5D=product&resources%5Blimit%5D=3"
+    data = http_get_json(url, timeout=10.0)
+    if not data:
+        return None, 0
+    products = (data.get("resources", {}).get("results", {}).get("products") or [])
+    for p in products:
+        title = str(p.get("title", "")).strip()
+        # The product title starts with the collector number for correct matches
+        # (e.g. "BT4-002 Baby - Rampaging Great Ape Baby"). P-prefix searches
+        # alphanumerically collide with BT* cards, so verify the title matches.
+        if not title.upper().startswith(collector_number.upper()):
+            continue
+        img = p.get("featured_image") or {}
+        width = int(img.get("width") or 0)
+        if width < 500:
+            continue
+        img_url = img.get("url") or ""
+        if img_url:
+            return img_url, width
+    return None, 0
+
+
+def find_image_dbs(card_name: str, set_name: str = "",
+                   collector_number: str = ""
+                   ) -> tuple[str | None, str, str, str, str, str, str]:
+    """DBSCG image fetch. Tries dbzexchange Shopify hi-res first (~30% coverage
+    at 867x1210); falls back to Bandai CDN (universal 260x363). Returns
+    (url, confidence, number, artist='', art_crop_url='', flavor_text='',
+    oracle_text=''). Artist + oracle/flavor are NOT URL-derivable from either
+    source — capture deferred to triviabot OCR."""
+    if not collector_number:
+        return None, "none", "", "", "", "", ""
+    number = collector_number.strip().upper()
+    # Strip any --foil/--alt suffix that may have crept in from filename normalization.
+    number = number.split("--")[0]
+    # Primary: try dbzexchange hi-res
+    hires_url, hires_w = _try_dbzexchange_hires(number)
+    if hires_url:
+        return hires_url, "high", number, "", "", "", ""
+    # Fallback: Bandai 260x363 thumbnail
+    url = f"{DBS_IMAGE_BASE}/{number}.png"
+    if _head_ok(url, referer=DBS_REFERER):
+        return url, "high", number, "", "", "", ""
+    return None, "none", "", "", "", "", ""
+
+
+def _strip_weiss_rarity_suffix(collector_number: str) -> str:
+    """Bushiroad EN search expects card numbers WITHOUT a trailing rarity
+    suffix. Corpus filenames sometimes carry the rarity (e.g. "BD/WE35-E20 C"
+    or "AOT/S35-E024-C"). Strip the trailing ` X` / `-X` where X is a 1-3
+    char rarity code (C, U, R, RR, RRR, SR, CC, SP, PR)."""
+    if not collector_number:
+        return ""
+    cn = collector_number.strip()
+    # Match trailing ` C`, `-C`, ` RR`, etc.
+    cn = re.sub(r'[-\s](C|U|R|RR|RRR|SR|CC|SP|PR|TD|PPR)$', '', cn)
+    return cn
+
+
+def find_image_weiss(card_name: str, set_name: str = "",
+                     collector_number: str = ""
+                     ) -> tuple[str | None, str, str, str, str, str, str]:
+    """Bushiroad EN Weiss Schwarz cardlist search. Returns (url, confidence,
+    number, artist='', art_crop_url='', flavor_text='', oracle_text='').
+    Two-step: search endpoint returns HTML with <img src="..."> for the
+    matched card. Image URLs are NOT formula-derivable across all sets
+    (BD/WE35 uses non-standard product folders), so we always go via search."""
+    if not collector_number:
+        return None, "none", "", "", "", "", ""
+    keyword = _strip_weiss_rarity_suffix(collector_number)
+    if not keyword:
+        return None, "none", "", "", "", "", ""
+    url = f"{WEISS_SEARCH_BASE}?keyword={urllib.parse.quote(keyword)}"
+    headers = {"User-Agent": USER_AGENT}
+    try:
+        req = urllib.request.Request(url, headers=headers)
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            html = resp.read().decode("utf-8", errors="replace")
+    except Exception as e:
+        print(f"  [warn] weiss search failed ({keyword}): {e}", file=sys.stderr)
+        return None, "none", "", "", "", "", ""
+    # Zero-result detection per investigator findings
+    if "No cards were found." in html:
+        return None, "none", "", "", "", "", ""
+    # Parse: <div class="image"><img src="..."> — first match wins (search
+    # returns one card per keyword in the corpus's collector-number pattern)
+    m = re.search(r'<div class="image">\s*<img[^>]*src="([^"]+)"', html)
+    if not m:
+        # Fallback: any <img> within a card-result block
+        m = re.search(r'<img[^>]*src="([^"]+\.(?:png|jpg|jpeg))"', html)
+    if not m:
+        return None, "none", "", "", "", "", ""
+    img_path = m.group(1)
+    if img_path.startswith("http"):
+        img_url = img_path
+    elif img_path.startswith("/"):
+        img_url = WEISS_HOST + img_path
+    else:
+        # Relative path like "./images/..." or "images/..."
+        img_url = WEISS_HOST + "/" + img_path.lstrip("./")
+    return img_url, "high", keyword, "", "", "", ""
+
+
 def find_reference_image(game: str, card_name: str, set_name: str,
-                         set_map: dict | None = None
+                         set_map: dict | None = None,
+                         collector_number: str = ""
                          ) -> tuple[str | None, str, str, str, str, str, str]:
     """Returns (image_url, confidence, collector_number, artist, art_crop_url,
     flavor_text, oracle_text). Empty strings on miss. Prep loop captures all
     seven into frontmatter so downstream agents (vision, trivia, bundler)
-    never need to re-fetch the source API for canonical card data."""
+    never need to re-fetch the source API for canonical card data.
+
+    The collector_number kwarg is required by DBS (Bandai's CDN is keyed on
+    number, not name) and ignored by Scryfall/PokemonTCG strategies."""
     strat = GAME_STRATEGY.get(game)
     if strat == "scryfall":
         return find_image_scryfall(card_name, set_name, set_map)
     if strat == "pokemontcg":
         return find_image_pokemontcg(card_name, set_name)
+    if strat == "dbs":
+        return find_image_dbs(card_name, set_name, collector_number)
+    if strat == "weiss":
+        return find_image_weiss(card_name, set_name, collector_number)
     return None, "none", "", "", "", "", ""
+
+
+def measure_image(path: Path) -> tuple[int, int, str]:
+    """Returns (width_px, height_px, quality_bucket) for a downloaded image.
+    quality_bucket ∈ {'high', 'med', 'low', 'unknown'}. Used to stamp
+    image quality into frontmatter so downstream queries can grep cards
+    that may benefit from a source upgrade later (Alex 2026-05-14: "we
+    need a tag for low quality images that it looks like we'll be snagging").
+    PIL is optional — falls back to ('unknown') on import error so the
+    pipeline doesn't break for environments without Pillow."""
+    try:
+        from PIL import Image  # noqa: PLC0415 (lazy import is intentional)
+    except ImportError:
+        return 0, 0, "unknown"
+    try:
+        with Image.open(path) as im:
+            w, h = im.size
+    except Exception:
+        return 0, 0, "unknown"
+    if w >= IMAGE_QUALITY_HIGH_MIN:
+        return w, h, "high"
+    if w >= IMAGE_QUALITY_MED_MIN:
+        return w, h, "med"
+    return w, h, "low"
 
 
 # --- DeepSeek vision call ---
@@ -876,7 +1061,8 @@ def process(cards_dir: Path, images_dir: Path, limit: int, game_filter: str | No
             report["skipped_no_strategy"] += 1
             continue
 
-        image_url, confidence, collector_number, artist, art_crop_url, flavor_text, oracle_text = find_reference_image(game, name, set_, set_map)
+        image_url, confidence, collector_number, artist, art_crop_url, flavor_text, oracle_text = find_reference_image(
+            game, name, set_, set_map, collector_number=fm.get("collector_number", "") or "")
         if not image_url:
             print(f"  -> reference image not found, flagging for manual review")
             report["skipped_no_image"] += 1
@@ -910,12 +1096,15 @@ def process(cards_dir: Path, images_dir: Path, limit: int, game_filter: str | No
         # Download full card image to local cache. Skip on dry-run.
         local_rel = ""
         local_art_rel = ""
+        img_w, img_h, img_quality = 0, 0, "unknown"
         if not dry_run:
             ext = url_extension(image_url)
             local_path = local_image_path(path, cards_dir, images_dir, ext)
             if download_image(image_url, local_path, force=force):
                 local_rel = str(local_path).replace("\\", "/")
-                print(f"  -> cached: {local_rel}")
+                img_w, img_h, img_quality = measure_image(local_path)
+                quality_note = f" [{img_w}x{img_h} {img_quality}]" if img_w else ""
+                print(f"  -> cached: {local_rel}{quality_note}")
             # Also cache art_crop (frameless artwork) when present. Filename
             # stem gets a "--art" suffix so it sits beside the full-card image
             # in the same directory: <slug>.png + <slug>--art.jpg. This is the
@@ -965,10 +1154,15 @@ def process(cards_dir: Path, images_dir: Path, limit: int, game_filter: str | No
                     text = update_frontmatter_field(text, "flavor_text", flavor_text)
                 if oracle_text:
                     text = update_frontmatter_field(text, "oracle_text", oracle_text)
+                if img_w:
+                    text = update_frontmatter_field(text, "image_width", str(img_w))
+                    text = update_frontmatter_field(text, "image_height", str(img_h))
+                    text = update_frontmatter_field(text, "image_quality", img_quality)
                 path.write_text(text, encoding="utf-8")
                 art_note = "+art_crop" if local_art_rel else ""
                 txt_note = " +text" if (flavor_text or oracle_text) else ""
-                print(f"  -> prepared (image cached {art_note}{txt_note}, artist={artist or '?'}, awaiting vision subagent)")
+                qual_note = f" {img_quality}" if img_w else ""
+                print(f"  -> prepared (image cached{qual_note} {art_note}{txt_note}, artist={artist or '?'}, awaiting vision subagent)")
             report["prepared_for_vision"] += 1
             continue
 
@@ -1040,7 +1234,8 @@ def retry_flagged(cards_dir: Path, images_dir: Path,
             no_strategy += 1
             continue
 
-        image_url, confidence, _collector_number, artist, art_crop_url, flavor_text, oracle_text = find_reference_image(game, name, set_, set_map)
+        image_url, confidence, _collector_number, artist, art_crop_url, flavor_text, oracle_text = find_reference_image(
+            game, name, set_, set_map, collector_number=fm.get("collector_number", "") or "")
         # Slightly longer sleep than the bulk prep loop — we're re-trying the cards Scryfall
         # already failed on once, so be polite.
         time.sleep(sleep_s)
