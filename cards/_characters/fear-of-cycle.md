@@ -13,6 +13,8 @@ appears_on:
   - magic-the-gathering/duskmourn-house-of-horror/56-fear-of-falling
   - magic-the-gathering/duskmourn-house-of-horror/134-fear-of-being-hunted
   - magic-the-gathering/duskmourn-house-of-horror/135-fear-of-burning-alive
+  - magic-the-gathering/duskmourn-house-of-horror/177-fear-of-exposure
+  - magic-the-gathering/duskmourn-house-of-horror/214-fear-of-infinity
 related_hubs: []
 related_symbols: [manifest-dread]
 ---
@@ -98,6 +100,7 @@ The cycle interacts mechanically and thematically with adjacent Duskmourn design
 ## See also
 
 - [[valgavoth]] — character node for the demon whose plane this cycle embodies at the creature-side. The Fear-of cycle and Valgavoth are the two faces of the same set-defining horror thesis.
+- [[dsk-toy-horror]] — sibling DSK cohort character node; the **objects-as-monsters** axis of the same horror cosmology (this node anchors the **dreads-as-monsters** axis). The two cohorts together cover the two principal horror-source axes of the set.
 - [[manifest-dread]] — symbol node for the DSK signature mechanic; mechanical-thematic bridge via the set's graveyard / Delirium subtheme.
 - [[rebellion]] — the BBL hub most thematically near-but-not-coextensive with this cycle. A "phobia personified as monster" lair could anchor on the meta-rebellion thesis (the unkillable monster as the unrepayable debt, the slasher-as-systemic-collapse, the survivor refusing to play the script the cycle hands them). The hub edge is potential, not yet load-bearing — when the three vision-stub Fear-of cards are enriched and the triviabot identifies specific flavor-text moments of refusal-against-the-phobia, this edge may activate.
 - [[Bulk Graph Bundler]] — the project this character node serves.

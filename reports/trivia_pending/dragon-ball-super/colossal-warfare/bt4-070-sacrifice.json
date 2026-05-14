@@ -1,0 +1,37 @@
+{
+  "card_name": "Sacrifice",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-070",
+  "task_profile": "ip-priority",
+  "ip_decision": "qualify",
+  "ip_outcome_note": "The vision pass flagged 'Piccolo and/or Nail (Dragon Ball Z — Frieza Saga sacrifice scene)' at medium confidence. Research confirms both Nail and Piccolo are Namekian characters in the Frieza Saga whose most famous shared scene involves Nail sacrificing himself to Piccolo by allowing Piccolo to absorb him, giving Piccolo a massive power boost to fight Frieza. The card's mechanic (Counter: Attack, negate, add life card to hand when Leader is Namekian) is structurally sacrifice-themed. However, the two-figure composition — a collapsed smaller green figure with a looming larger one — could also depict Nail's battle against Frieza before Piccolo arrived, or another Namekian sacrifice moment. Without oracle text or flavor text explicitly naming the depicted figures, we cannot determine which figures are shown. Qualifying: consistent with Nail-Piccolo, not definitively confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "mechanical",
+      "text": "BT4-070 is a Green Extra card with oracle text: [Counter: Attack] Negate the attack. If your Leader Card is a Namekian, when you activate this card's [Counter], you may choose 1 card from your life and add it to your hand. If you do so, you may activate this card's [Counter] without paying its energy cost. The effect encodes the sacrifice theme directly — trading life cards for hand advantage mirrors Nail's canon act of sacrificing himself so Piccolo could grow stronger. [DBZ Exchange: BT4-070 card listing]",
+      "sources": ["DBZ Exchange: BT4-070 card listing"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Nail was a Warrior-type Namekian and guardian of Guru on Planet Namek, with a power level of 42,000 — the strongest Namekian when Frieza attacked. He fought Frieza to buy time for the Dragon Balls to be used, then merged with Piccolo, permanently boosting Piccolo's power and allowing him to fight Frieza's second form. [Dragon Ball official site: Weekly Character Showcase — Nail]",
+      "sources": ["Dragon Ball official site: Weekly Character Showcase #132 — Nail"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Namekian Fusion — the mechanic by which Piccolo absorbs Nail — is described in Dragon Ball lore as a permanent union where the absorbed person retains consciousness within the dominant Namekian. Unlike Fusion Dance or Potara Earring fusion, Namekian Fusion cannot be undone. [CBR: What Makes Namekian Fusion Unique]",
+      "sources": ["CBR: Dragon Ball — What Makes Namekian Fusion Unique"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dark Vassal Tambourine", "set": "Colossal Warfare", "note": "BT4-064 — fellow Namekian green common in the same set"},
+    {"name": "King Piccolo, Lord of Terror", "set": "Colossal Warfare", "note": "SD4-04 — Namekian leader the Counter's bonus condition references"},
+    {"name": "Indomitable Dynasty SS Son Goku", "set": "Colossal Warfare", "note": "BT4-077 — contrasting hero card in same set"},
+    {"name": "Fused with Nail Piccolo", "set": "Dragon Ball Legends", "note": "Named card for the post-fusion state; archival node candidate"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "false",
+    "suspected_ip": "Piccolo and/or Nail (Dragon Ball Z — Frieza Saga sacrifice scene)",
+    "ip_confidence": "med"
+  }
+}

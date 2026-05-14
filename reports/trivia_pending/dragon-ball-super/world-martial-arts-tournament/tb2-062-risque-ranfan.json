@@ -1,0 +1,36 @@
+{
+  "card_name": "Risque Ranfan",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-062",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name contains 'Ranfan' explicitly. The title 'Risque Ranfan' directly names the character and encodes her fighting tactic (using her appearance as a weapon). Ranfan is the only female fighter in the 21st Tenkaichi Budokai quarter-finals — the depicted female figure in a tournament arena setting with blue outfit and confident pose matches her canonical appearance and context. Verified via card name and lore alignment.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ranfan was the only female fighter to reach the quarter-finals of the 21st World Martial Arts Tournament. Her fighting style weaponizes her appearance: she feigns vulnerability to get opponents to hesitate, then delivers crushing blows. If that fails, she removes her outer garments to shock or embarrass them into dropping their guard. She lost to Nam, who closed his eyes to avoid being distracted by her tactics.",
+      "sources": ["WebSearch: Dragon Ball Wiki Fandom search result snippet on Ranfan", "WebSearch: TV Tropes 'Characters in Dragon Ball Tournament Characters'"]
+    },
+    {
+      "category": "design",
+      "text": "Risque Ranfan (TB2-062) is a yellow-color Common Battle card (1 yellow energy, 5,000 power, 5,000 combo). Its auto-ability: when played, choose up to 1 opponent Battle Card with energy cost 3 or less and switch it to Rest Mode; this card gains +5,000 power for the turn. The Rest Mode effect mechanically mirrors Ranfan's combat tactic — neutralizing an opponent by exploiting a vulnerability.",
+      "sources": ["WebSearch: DBZ Exchange TB2-062 product page", "WebSearch: Big Orbit Cards TB2-062 listing"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At 1 energy with an on-play Rest Mode effect, Ranfan is a tempo play: she arrives, locks an opposing Battle Card, and pushes with effectively 10,000 power that turn. The cap at energy-cost-3-or-less means she shuts down commons and some uncommons but cannot touch high-cost threats — consistent with her lore role as a mid-bracket fighter who can beat ordinary opponents but falls to genuinely extraordinary ones.",
+      "sources": ["WebSearch: DBZ Exchange TB2-062", "WebSearch: Final Round Games TB2-062 listing"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Announcer, Ever-Curious", "set": "World Martial Arts Tournament", "note": "The Announcer hosted the 21st tournament where Ranfan competed; both are non-fighter supporting cast of the tournament arc."},
+    {"name": "I'm the World Champion!", "set": "World Martial Arts Tournament", "note": "Thematic counterpart — Ranfan is the tournament underdog using personality as a weapon; Mr. Satan is the champion who won through personality alone."},
+    {"name": "Toughened Up Krillin", "set": "World Martial Arts Tournament", "note": "Both are 21st/22nd Tenkaichi Budokai participants in the same set; Krillin is the contemporary male fighter Ranfan parallels."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Ranfan",
+    "ip_confidence": "high"
+  }
+}

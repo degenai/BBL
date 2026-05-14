@@ -1,0 +1,36 @@
+{
+  "card_name": "Shocking Latent Ability",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-033",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip in frontmatter. TCG community sources identify the depicted fighter as Uub, confirmed by the card's mechanic text which specifically activates when Uub is the Leader Card.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The depicted fighter is Uub — the reincarnated human form of Kid Buu, born from Goku's wish moments before defeating Buu with the Super Spirit Bomb. Uub competes in the 28th World Martial Arts Tournament as a ten-year-old seeking prize money to feed his impoverished family; his match against Goku is the final story beat of Dragon Ball Z before the time skip. [WebSearch: Dragon Ball Official Site Uub showcase / Game Rant 'Who Is Uub?']",
+      "sources": ["WebSearch: en.dragon-ball-official.com Uub character showcase", "WebSearch: Game Rant Dragon Ball Who Is Uub"]
+    },
+    {
+      "category": "mechanical",
+      "text": "TB2-033's skill activates specifically when the Leader Card is Uub, granting +10000 power for the turn and a card draw — tying this uncommon event card directly to the Uub Leader synergy package in the TB02 set. Without an Uub Leader it functions only as an Uncommon battle card with no skill trigger. [WebSearch snippet: CoreTCG TB2-033 listing]",
+      "sources": ["WebSearch: CoreTCG TB2-033 Shocking Latent Ability"]
+    },
+    {
+      "category": "design",
+      "text": "The card title 'Shocking Latent Ability' references the in-universe revelation that Uub's power dwarfs what his appearance suggests — his ki was suppressed by inexperience, and Goku had to provoke him to anger to unlock it during their tournament match. The 'latent' framing is a direct callback to that scene. [WebSearch: Game Rant 'Who Is Uub?' / Dragon Ball Official Site Uub]",
+      "sources": ["WebSearch: Game Rant Dragon Ball Who Is Uub", "WebSearch: Dragon Ball Official Site Uub character showcase"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Uub (Leader)", "set": "World Martial Arts Tournament", "note": "This card's skill only triggers under an Uub Leader Card"},
+    {"name": "Trading Blows Son Goku (TB2-036)", "set": "World Martial Arts Tournament", "note": "Goku's match with Uub is the source scene for this card's lore context"},
+    {"name": "Wild Tiger, the Imposing (TB2-031)", "set": "World Martial Arts Tournament", "note": "Same set, same tournament arc"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

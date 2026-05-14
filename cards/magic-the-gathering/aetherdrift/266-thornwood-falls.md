@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-14
 date_added: 2026-05-10
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://cards.scryfall.io/png/front/4/7/4723a303-7f20-4399-8bc6-6a27a61a3532.png?1738356957
 art_match_confidence: high
 needs_manual_review: false
@@ -50,4 +50,16 @@ A sweeping aerial-leaning vista of a forested canyon lit in vivid teal and chart
 **Objects:** road, racetrack, waterfall, cliff, vehicle, infrastructure
 **Iconography:** glowing-path, winding-road
 **Genre cues:** fantasy, sci-fi, solarpunk
+
+## Trivia
+
+- **Set context** — Thornwood Falls is the most reprinted card overall in this wave: its 23rd printing as of Aetherdrift (February 2025), first appearing in Khans of Tarkir (September 2014) [Scryfall]. Legal in Pauper and every major format.
+- **Flavor text / faction** — `"The Indigo Revolution ousted the Consulate once and for all. Now the citizens of Avishkar cheer for the Aether Rangers as they try to bring victory and glory to their new nation."` `[Scryfall]` The Indigo Revolution was a largely bloodless transfer of power on Avishkar, replacing the reformed Consulate with the democratically elected Avishkar Assembly. The name "Avishkar" itself is drawn from the Hindi word "aavishkar," meaning "invention" [MTG Wiki: Indigo Revolution, via WebSearch snippet].
+- **Design** — Artist Eddie Mendoza renders the Thornwood Falls as a sci-fi nature vista — a glowing engineered racetrack threading through lush forest with a waterfall — directly evoking Avishkar's post-revolutionary solarpunk aesthetic rather than the original Khans-era tundra setting of the card's first printing. The Aether Rangers are the home faction for this land in the set's narrative, tying the green-blue color pair to the plane's new government.
+
+### Related cards
+- Blossoming Sands (Aetherdrift, DFT no. 252) — same gain-land cycle, green-white pair; same set
+- Thornwood Falls (Khans of Tarkir) — first printing of this oracle text
+- Avishkar Raceway (Aetherdrift, DFT no. 249) — Avishkar Grand Prix anchor land; same set
+- Samut, the Driving Force (Aetherdrift, DFT no. 222) — Aether Rangers top pilot; faction in flavor text
 

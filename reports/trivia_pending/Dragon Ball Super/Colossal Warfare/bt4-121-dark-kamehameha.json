@@ -1,0 +1,37 @@
+{
+  "card_name": "Dark Kamehameha",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-121",
+  "task_profile": "ip-priority",
+  "ip_decision": "refute",
+  "ip_outcome_note": "Vision flagged 'Corrupted Goku or dark-controlled fighter' at med confidence. Card skill text reads: 'If your Leader Card is Mira, it gains +15000 power...' The card is Mira-locked, not Goku-locked. The depicted white-haired figure firing a dark corrupted beam is Mira (the Time Breakers' primary fighter) under Demigra's dark influence — not Goku. The 'Dark Kamehameha' is a technique used by fighters under dark/Time Breaker mind control in Xenoverse canon, and Mira is the expected Leader synergy target for this card. The white hair is consistent with Mira's design (silver/white), not a corrupted Goku (who would retain black spiky hair with SS transformation changes). Refute 'Corrupted Goku' — figure is more consistent with Mira or a dark-controlled fighter as defined by Time Breaker lore, with the Mira Leader lock as definitive mechanical evidence.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Dark Kamehameha (BT4-121) is a black Uncommon Extra card from Colossal Warfare (DBS-B04, July 2018). It is Mira-Leader-locked: the card text reads 'If your Leader Card is Mira, it gains +15000 power for the duration of the battle, and if it's your turn, choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and send it to their Warp.' The card is mechanically part of the BT4 Time Breakers / Mira-leader package [Source: WebSearch snippets from levelupgamesmd.com and coretcg.com for BT4-121].",
+      "sources": ["WebSearch snippet: levelupgamesmd.com BT4-121 listing", "WebSearch snippet: coretcg.com BT4-121 listing"]
+    },
+    {
+      "category": "design",
+      "text": "The 'Dark Kamehameha' in Dragon Ball Xenoverse lore is a corrupted version of Goku's Kamehameha used by fighters under Time Breaker dark energy influence. The depicted white-haired figure is consistent with Mira's canonical appearance (silver-white hair, muscular humanoid) rather than Goku (who retains black or golden SS hair in all forms). The card's Mira Leader synergy is the decisive mechanical identifier [Source: Dragon Ball Xenoverse via WebSearch: Demigra/Time Breakers lore; card text via WebSearch snippets].",
+      "sources": ["WebSearch: Demigra/Time Breakers lore (villains.fandom.com, redscotgaming.fandom.com)", "WebSearch snippets: BT4-121 card text listings"]
+    },
+    {
+      "category": "set-lore",
+      "text": "BT4 introduced [Dark Over Realm] as a more powerful version of BT3's [Over Realm] mechanic, specifically attached to Demigra and his Time Breaker faction. Dark Kamehameha (BT4-121) is a support piece in that same faction's Extra card slot, providing a massive power boost (+15000) plus removal when paired with a Mira Leader — making it one of BT4's high-impact Extra cards for the black/dark archetype [Source: dbs-cardgame.com design concept page via WebSearch; BT4-121 card text].",
+      "sources": ["dbs-cardgame.com/asia/strategy/series4/design-concept.php (via WebSearch)", "WebSearch snippets: BT4-121 listing (coretcg.com, levelupgamesmd.com)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Temporal Darkness Demigra", "set": "Colossal Warfare", "note": "The [Dark Over Realm] flagship; Demigra heads the faction this card serves"},
+    {"name": "Mira", "set": "Colossal Warfare / various", "note": "The Leader card this Extra is locked to; Time Breakers' primary fighter"},
+    {"name": "Heavenly Wizard Demigra", "set": "Colossal Warfare", "note": "BT4-107 — narrative cluster partner in the same set"},
+    {"name": "Towa", "set": "various DBS sets", "note": "Time Breakers co-leader; lore context for the dark-energy faction"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "",
+    "ip_confidence": "none"
+  }
+}

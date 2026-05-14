@@ -1,0 +1,36 @@
+{
+  "card_name": "Son Gohan, Family of Justice",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-062",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Son Gohan'. Special Trait is 'Saiyan/Earthling' — Gohan's canonical mixed-heritage trait. Era designation is 'Broly Saga'. Golden Super Saiyan hair and young male figure consistent with Gohan's known design. Verified via card name and Bandai official card database.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Galactic Battle (BT1) was the inaugural English-language booster set for the Dragon Ball Super Card Game, released July 28, 2017. With 114 cards (60 Commons, 30 Uncommons, 12 Rares, 8 Super Rares, 4 Special Rares), it established the game's color system, card types, and leader mechanic as the foundational template for all subsequent sets. [PSA CardFacts: 2017 Dragon Ball Super Series 1 Galactic Battle]",
+      "sources": ["PSA CardFacts: 2017 Dragon Ball Z Dragon Ball Super Series 1 Galactic Battle"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT1-062 is a Green Battle card with Power 10,000, energy cost 2 Green, and the Blocker skill — allowing the player to switch this card to Rest Mode and redirect an attack targeting another of their cards onto Gohan instead. The Special Trait 'Saiyan/Earthling' reflects Gohan's canonical dual heritage as the son of Goku (Saiyan) and Chi-Chi (Earthling). [CoreTCG retailer listing BT1-062; WebSearch card search result]",
+      "sources": ["CoreTCG: Son Gohan Family of Justice BT1-062 listing", "Bandai official card search"]
+    },
+    {
+      "category": "design",
+      "text": "The 'Family of Justice' subtitle and the Broly Saga era designation link this card to the DBS: Broly film continuity, where Gohan (now an adult scholar turned warrior) is framed as a pillar of the Son family legacy. However, the card art depicts a young Super Saiyan Gohan, visually consistent with his Cell Saga teenager form, creating a deliberate layering of past heroism onto a present-era card framing. [WebSearch card search BT1-062; PSA Set Registry article on Galactic Battle]",
+      "sources": ["PSA Set Registry: Collecting 2017 Dragon Ball Super Card Game", "CoreTCG BT1-062 listing"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dependable Dynasty Son Goku", "set": "Magnificent Collection Forsaken Warrior (BT4-078)", "note": "Father — Goku's Lineage card pair"},
+    {"name": "Father-Son Galick Gun", "set": "Union Force (BT2-063)", "note": "Parallel family-bond framing across the two Saiyan lineages"},
+    {"name": "Tenacious Vegeta", "set": "Galactic Battle (BT1-066)", "note": "Same set, rival Saiyan cluster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

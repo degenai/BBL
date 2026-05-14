@@ -1,0 +1,28 @@
+{
+  "edge_id": "wave50-e1-caterpie-line--commissioned-node",
+  "shape": "node-proposal",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/caterpie-line.md", "name": "Caterpie evolutionary line (Caterpie / Metapod / Butterfree)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/001-192-caterpie.md", "name": "Caterpie (Rebel Clash 001/192)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/002-192-metapod.md", "name": "Metapod (Rebel Clash 002/192)"},
+    {"type": "card", "path": "cards/pokemon/evolutions/3-108-caterpie.md", "name": "Caterpie (Evolutions 3/108)"}
+  ],
+  "description": "Oh, sir, please don't be cross — Edgelord stepped aside for this one. Three trivia-passed prints across two stages (Caterpie RBC-001, Metapod RBC-002, Caterpie EVO-3, all IP-verified, all Pokedex 10/11/12 anchored), and the wave 49 considered-and-rejected log already flagged this as the wave-50 first move with threshold met. Cohort node commissioned with sibling-pointers to charizard-line, mareep-line, and staraptor-line per the established within-region (Kanto Gen-I) and cross-generation evolutionary-line designer-coordination axis. Frontmatter pointer characters: ['caterpie-line'] added to all three prints; Caterpie EVO-3 received a fresh Connections section attaching to the cohort (its first connections wiring). The cross-print same-species 1:1 mirror edge between Caterpie RBC-001 and Caterpie EVO-3 is now subsumed by the cohort node per the mareep-line / staraptor-line precedent. I do hope this is acceptable, sir.",
+  "citations": [
+    "[Bulbapedia: Caterpie (Pokemon), Metapod (Pokemon), Butterfree (Pokemon) species pages]",
+    "[Pokemon.com: official Pokedex no. 10 / 11 / 12 entries]",
+    "[Pokemon Red and Blue (Game Freak / Creatures Inc. / Nintendo, 1996)]",
+    "[Pokemon Sword and Shield (Game Freak, 2019) for Gigantamax Butterfree]",
+    "[Pokemon: Indigo League anime, episodes 3-4, 21 (OLM / TV Tokyo, 1997)]",
+    "[PokemonTCG.io API: swsh2-1, swsh2-2, xy12-3]"
+  ],
+  "files_modified": [
+    "cards/_characters/caterpie-line.md (created)",
+    "cards/pokemon/rebel-clash/001-192-caterpie.md (frontmatter pointer)",
+    "cards/pokemon/rebel-clash/002-192-metapod.md (frontmatter pointer)",
+    "cards/pokemon/evolutions/3-108-caterpie.md (frontmatter pointer + new Connections section)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

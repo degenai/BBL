@@ -1,0 +1,37 @@
+{
+  "card_name": "Hoi, Emissary of Flame",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-042",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Hoi, Emissary of Flame.' The small robed alien figure in elaborate ceremonial garb with flame energy effects matches Hoi's canonical design: a diminutive non-human sorcerer whose power is manipulation and ceremony, not physical combat. Character name is in the title.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Hoi is the secondary antagonist of Dragon Ball Z: Wrath of the Dragon and the last surviving member of the Kashvar — an alien race of evil sorcerers who believe themselves superior to all other species. His stated goal is to use Hirudegarn to 'cleanse' the universe of all non-Kashvars [Villains Wiki: Hoi, WebSearch: Hoi Kashvar villain role].",
+      "sources": ["Villains Wiki: Hoi", "WebSearch: Hoi Dragon Ball villain Kashvar Wrath of the Dragon"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Hoi's scheme involves sustained deception: he manipulates the Z-Fighters into opening Tapion's Music Box by fabricating a cover story, presenting himself as a desperate victim seeking the heroes' help. His manipulation of Bulma and the Z cast into inadvertently freeing Tapion — and thereby eventually freeing Hirudegarn — is his primary narrative function. He is not a fighter; he uses others as instruments [Villains Wiki: Hoi, Wikipedia: Dragon Ball Z: Wrath of the Dragon].",
+      "sources": ["Villains Wiki: Hoi", "Wikipedia: Dragon Ball Z: Wrath of the Dragon"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Hoi dies by irony: after engineering Hirudegarn's full resurrection, he is killed by the monster itself — inadvertently crushed underfoot — ending the Kashvar bloodline entirely. This eliminates the only entity capable of controlling Hirudegarn, making the monster's defeat by Goku all the more final [Villains Wiki: Hoi, WebSearch: Hoi death Hirudegarn crushes].",
+      "sources": ["Villains Wiki: Hoi", "WebSearch: Hoi Dragon Ball villain Kashvar Wrath of the Dragon"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Impenetrable Defense Hirudegarn", "set": "Colossal Warfare", "note": "BT4-037 — the creature Hoi worked to resurrect"},
+    {"name": "Hirudegarn, the Wanderer", "set": "Colossal Warfare", "note": "BT4-038 — Hirudegarn's final form; ultimately kills Hoi"},
+    {"name": "Hidden Darkness Minotia", "set": "Colossal Warfare", "note": "BT4-041 — Hoi killed Minotia to break the lower-half seal"},
+    {"name": "Oath's Power, Tapion", "set": "Colossal Warfare", "note": "BT4-039 — Tapion is the other target of Hoi's Music Box scheme"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

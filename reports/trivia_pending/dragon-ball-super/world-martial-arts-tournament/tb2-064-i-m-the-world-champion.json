@@ -1,0 +1,36 @@
+{
+  "card_name": "I'm the World Champion!",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-064",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'I'm the World Champion!' is Mr. Satan's catchphrase/self-proclamation. The depicted figure has Mr. Satan's canonical identifiers: prominent dark mustache, curly dark hair, dark suit, and an exuberant arms-spread victory pose in front of tournament signage. The French card database confirms this card as 'M. Satan'. Verified via card name, oracle text reference to childhood Son Goku, and canonical visual identifiers.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Mr. Satan (known as Hercule in some English dubs; real name Mark) legitimately won the 24th World Martial Arts Tournament against non-superhuman fighters during the period when Goku and other Z fighters were absent from the events. He then leveraged that title into celebrity status — something Master Roshi, Tien, and Goku had never done. He is one of the few humans in the series who parlayed tournament victory into cultural influence.",
+      "sources": ["WebSearch: Wikipedia 'Mr. Satan'", "WebSearch: CBR 'Dragon Ball: The World Protector's Mr. Satan, Explained'"]
+    },
+    {
+      "category": "design",
+      "text": "I'm the World Champion! (TB2-064) is a yellow-color Common Extra card (1 energy). Its effect: if a Son Goku: Childhood Battle Card is in the Battle Area, draw two cards. The mechanic places Mr. Satan as a support piece for young Goku — a deliberately ironic design, since in lore Mr. Satan claims credit for Goku's victories and would not acknowledge needing Goku's presence to function.",
+      "sources": ["WebSearch: dbscards.fr French card DB TB2-064 entry", "WebSearch: DBZ Exchange TB2-064 product page"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The card title is Mr. Satan's signature declaration, and the art shows him in his characteristic arms-wide victory pose in front of tournament signage with Chinese/East Asian characters. Community sentiment on r/dragonball and DBS card game forums has noted Mr. Satan cards tend to have the highest comedy-to-text ratio in the set — his Extra card requires Goku to actually function, which fans describe as accurate to his character.",
+      "sources": ["WebSearch: WebSearch general DBS card community references", "WebSearch: DBZ Exchange TB2-064"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Future Martial Artist Son Goku", "set": "World Martial Arts Tournament", "note": "TB2-064's draw effect activates when Son Goku: Childhood is in the Battle Area — direct mechanical dependency."},
+    {"name": "Announcer, Ever-Curious", "set": "World Martial Arts Tournament", "note": "The Announcer is one of the few humans in Dragon Ball who knows Mr. Satan is not the true champion — both are tournament-stage characters in the same set."},
+    {"name": "Risque Ranfan", "set": "World Martial Arts Tournament", "note": "Ranfan and Mr. Satan both weaponize personality and spectacle over raw power — thematic pair in the set."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Mr. Satan (Hercule)",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "edge_id": "xenoverse-villains-node-proposal",
+  "shape": "node-proposal",
+  "category": "parent-cohort-character",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/xenoverse-villains.md", "name": "Xenoverse Villains (Time Breakers / Dragon Ball Xenoverse antagonist cohort)"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-115-towa-space-time-unleashed.md", "name": "Towa, Space Time Unleashed"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/sd3-05-power-aura-mira.md", "name": "Power Aura Mira"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-107-heavenly-wizard-demigra.md", "name": "Heavenly Wizard Demigra"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-110-dark-absorption-mira.md", "name": "Dark Absorption Mira"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-111-umbral-invitation-towa.md", "name": "Umbral Invitation Towa"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-121-dark-kamehameha.md", "name": "Dark Kamehameha"}
+  ],
+  "description": "Mr. Nodeley again, sir, terribly sorry — Edgelord did want to draw a Demigra-Mira mechanical-lockout edge first but the cohort is real and the corpus has six anchors across two consecutive Bandai-designed sets (Cross Worlds BT3 + Colossal Warfare BT4). A parent-cohort character node for the Time Breakers: Demigra (mastermind), Towa (scientist-witch), Mira (bio-engineered ultimate-fighter). Sibling continuity-strand to baby-dbgt (different non-Toriyama-canon Dragon Ball faction, same Bandai-elevated-to-set-defining-antagonist node-shape). Six corpus anchors meeting the three-anchor cohort-establishment threshold; 12 total inventory accounting for multi-copy quantities. The Mira-Leader-locked BT4-121 Dark Kamehameha provides the mechanical-capstone evidence Bandai engineered the faction at the rules-text level. I hope this is the right call, sir.",
+  "citations": [
+    "[Dragon Ball Wiki: Time Breakers]",
+    "[Dragon Ball Wiki: Demigra, Towa, Mira character pages]",
+    "[Bandai Namco: Dragon Ball Xenoverse 2015 / Xenoverse 2 2016 primary canon]",
+    "[dbs-cardgame.com/asia/strategy/series4/design-concept.php — BT4 Demigra-as-set-antagonist framing]",
+    "[BT4-121 card text: Mira-Leader-locked Dark Kamehameha rules-text]",
+    "[In-corpus BT4-107 Heavenly Wizard Demigra + BT4-121 Dark Kamehameha trivia passes]"
+  ],
+  "files_modified": [
+    "cards/_characters/xenoverse-villains.md",
+    "cards/dragon-ball-super/cross-worlds/bt3-115-towa-space-time-unleashed.md",
+    "cards/dragon-ball-super/cross-worlds/sd3-05-power-aura-mira.md",
+    "cards/dragon-ball-super/colossal-warfare/bt4-107-heavenly-wizard-demigra.md",
+    "cards/dragon-ball-super/colossal-warfare/bt4-110-dark-absorption-mira.md",
+    "cards/dragon-ball-super/colossal-warfare/bt4-111-umbral-invitation-towa.md",
+    "cards/dragon-ball-super/colossal-warfare/bt4-121-dark-kamehameha.md"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

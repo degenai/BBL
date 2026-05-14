@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-14
 date_added: 2026-05-12
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401025786/29CC939A505233B0F7532E63FF836C4080E1A63A/
 image_width: 624
 image_height: 871
@@ -29,7 +29,8 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Baby (Dragon Ball GT)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
+characters: ["baby-dbgt"]
 ---
 
 # Baby, Vengeance Unleashed (Colossal Warfare)
@@ -38,8 +39,8 @@ ip_verified: false
 
 ![bt4-018-baby-vengeance-unleashed](../../_images/dragon-ball-super/colossal-warfare/bt4-018-baby-vengeance-unleashed.png)
 
-> [!warning] Suspected IP: **Baby (Dragon Ball GT)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Baby (Dragon Ball GT)**
+> Confirmed via card name (Baby, Vengeance Unleashed) and Machine Mutant trait. Tuffle Parasite primary antagonist of Dragon Ball GT. [dbs-cardgame.com strategy page; Villains Wiki: Baby (Dragon Ball)]
 
 A blue-skinned lean humanoid — Baby in his Tuffle Parasite form — stands in the foreground, looking directly forward with a cold, menacing expression. Behind him and looming large is a shadowed or dark figure that appears to be a larger, more powerful form — likely referencing Baby's possession of Vegeta, shown as a darker silhouette or dim impression rather than fully rendered. Blue and purple energy colors dominate the palette. The composition places Baby small in the lower foreground with the imposing back presence adding narrative depth about possession and escalating threat.
 
@@ -53,4 +54,15 @@ A blue-skinned lean humanoid — Baby in his Tuffle Parasite form — stands in 
 **Emotion read:** cold menace, calculating hatred
 **Iconography:** possession, shadow-looming
 **Genre cues:** anime
+
+## Trivia
+
+- **Mechanical design** — BT4-018 is a red Common Battle card: 1000 power, 5000 combo power, 1-red energy cost. Its [Union-Absorb] ability is the BT4 Machine Mutant engine piece: place one of your Battle Cards under this card; if your Leader is a red Machine Mutant, search your deck for a Baby card with 4 or less energy cost sharing the placed card's character name and play it on top. Bandai's own strategy notes explicitly call this out: "Pair him with the BT4-018 Baby card to get him on the board ASAP." This card is designed to be the turbo-search mechanism for the BT4-002 Baby Leader. `[Source: dbs-cardgame.com/us-en/strategy/series4/red.php; WebSearch: DBZ Exchange BT4-018]`
+- **Set context / character lore** — The larger shadowed figure looming behind Baby in this card's composition is consistent with Baby-possessed Vegeta — Baby's ultimate host in Dragon Ball GT. Baby chose Vegeta as his permanent host due to superior Saiyan power; Baby Vegeta is the primary combat form Baby assumes for the final arc confrontation. The dual-figure composition encodes the possession narrative directly: Baby (foreground) and his Vegeta-host (background). `[Source: WebSearch: Villains Wiki Baby Dragon Ball; CBR: Dragon Ball Baby no longer exists article]`
+- **Character lore** — Baby's creation contains a canonical bootstrap paradox: he created Dr. Myuu (credited as his inventor) in Age 740 — ten years after Baby's own creation in Age 730. Baby engineered his own creator retroactively, making him effectively self-caused. CBR's analysis notes this is one of Dragon Ball GT's more unusual lore constructions. `[Source: CBR: 'Dragon Ball GT's Baby Created Dr. Myuu Oddity, Explained as Simply as Possible']`
+
+### Related cards
+- Baby // Rampaging Great Ape Baby (Colossal Warfare, BT4-002) — the Leader card this card is designed to pair with; Bandai strategy notes explicitly recommend this pairing
+- Blazing Spirit Son Goku (Colossal Warfare, BT4-005) — primary GT-era hero narratively opposing Baby
+- Power of Friendship Pan (Colossal Warfare, BT4-009) — Pan evaded Baby's possession and opposed him; narrative foil to this card
 

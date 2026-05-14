@@ -1,0 +1,36 @@
+{
+  "card_name": "Bodyguard Ledgic",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-015",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Ledgic' with the 'Bodyguard' title matching his canonical role as personal bodyguard to Don Kee on Planet Imecka in Dragon Ball GT. The blue-skinned alien with an elongated, cobra-like head in layered red armor matches Ledgic's canonical physical description. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ledgic is the personal bodyguard of Don Kee, ruler of Planet Imecka, encountered early in Dragon Ball GT's Black Star Dragon Ball Saga. He is notable for being the first opponent in GT to force Goku to transform into a Super Saiyan — a meaningful threshold in Dragon Ball power-scaling that the early GT arc used to establish the new threat level for the universe-spanning journey. [Source: dragonball.fandom.com/wiki/Ledgic]",
+      "sources": ["dragonball.fandom.com/wiki/Ledgic"]
+    },
+    {
+      "category": "design",
+      "text": "Despite working for Don Kee, Ledgic refuses the tyrant's money after the fight and declines further service, citing honor as a reason — an unusual characterization for a one-arc antagonist in Dragon Ball. His physical design (muscular blue skin, elongated cobra-shaped head, spiked red armor) marks him as a non-human alien in a saga that introduced many exotic alien races. [Source: dragonball.fandom.com/wiki/Ledgic]",
+      "sources": ["dragonball.fandom.com/wiki/Ledgic"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Ledgic fights using two swords and a spear in the GT anime, explicitly asking Goku not to hold back because he knows Goku is a Saiyan — a rare case of an early-arc villain requesting full power rather than underestimating the hero. In the DBS card game his card sits in the Uncommon slot (BT3-015) within the Black Star Dragon Ball Saga cluster of Cross Worlds. [Source: dragonball.fandom.com/wiki/Ledgic / dbs-cardgame.com]",
+      "sources": ["dragonball.fandom.com/wiki/Ledgic", "dbs-cardgame.com"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Shocking Future Son Goku (BT3-007)", "set": "Cross Worlds", "note": "Goku fought Ledgic on Planet Imecka — first GT fight requiring Super Saiyan"},
+    {"name": "Pan (BT3-009)", "set": "Cross Worlds", "note": "Pan was present during the Planet Imecka arc"},
+    {"name": "Power-absorbing Luud (BT3-016)", "set": "Cross Worlds", "note": "Both are antagonist characters from the Black Star Dragon Ball Saga in this set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

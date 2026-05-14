@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.36
 market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://images.pokemontcg.io/swsh3/81_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -67,4 +67,8 @@ A small creature draped in a crude cloth disguise shaped like a cartoon face wit
 ### Related cards
 - Acerola (Burning Shadows, various) — Trainer card featuring Mimikyu's canonical partner, Trial Captain of Ula'ula Island
 - Mimikyu (multiple sets) — one of the most frequently printed fan-favorite Pokemon; appears across Sun & Moon, Sword & Shield, and Scarlet & Violet eras
+
+## Connections
+
+- [[112-147-acerola]] — Named-trainer + signature-Pokemon canonical pair. Acerola is the Alola Trial Captain of the Thrifty Megamart Ghost-type Trial on Ula'ula Island (Sun and Moon, 2016) and the only canonical Trainer to own a *named* Mimikyu — her Shiny Mimikyu "Mimikins" is described in canon as the ghost of a deceased Mimikyu, capable of floating and passing through solid objects unlike a living member of the species. Mimikyu is Acerola's signature partner across Pokemon Sun and Moon (the Totem Mimikyu at her Thrifty Megamart Trial), the Pokemon Sun and Moon anime, and Pokemon Masters EX. The Mimikyu species's canonical loneliness-and-disguise lore (a creature that fashions a Pikachu costume to be loved, whose true form may cause illness or death) thematically composes with Acerola's Aether House caretaker role — the canonical caretaker-of-the-lonely partnered with the lonely-creature-in-disguise is one of the franchise's most directly designer-coordinated trainer-and-signature-Pokemon pairings. `[Bulbapedia: Acerola; Bulbapedia: Mimikyu; Bulbapedia: Mimikins (Acerola's Shiny Mimikyu)]` `[Pokemon Sun and Moon, Game Freak 2016, primary canon for Thrifty Megamart Trial Totem Mimikyu]`
 

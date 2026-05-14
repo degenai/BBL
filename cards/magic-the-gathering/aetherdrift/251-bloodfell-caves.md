@@ -18,7 +18,7 @@ average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-14
 date_added: 2026-05-10
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://cards.scryfall.io/png/front/4/9/49195d90-de0c-4290-aa1c-9f4d948b5521.png?1738356883
 art_match_confidence: high
 needs_manual_review: false
@@ -51,4 +51,16 @@ A long open road or dirt track cuts through a red-rock canyon, receding toward a
 **Objects:** road, dust-trail, exhaust-plumes, racing-vehicles
 **Iconography:** setting-sun, open-road, canyon
 **Genre cues:** fantasy, post-apocalyptic, racing
+
+## Trivia
+
+- **Set context** — Bloodfell Caves is part of the cycle of ten "gain lands" (tapped dual lands that grant 1 life on entry) first printed in Khans of Tarkir (September 2014). The Aetherdrift printing is its 15th appearance across MTG sets, confirming it as one of the game's most widely reprinted land cycles [Scryfall].
+- **Flavor text / faction** — `"To the Endriders, racing is worship. Their prayers rise on the howls of straining engines. Explosions punctuate their chorus of shouts, forming a hymn of glory to the open road and all roads to come."` `[Scryfall]` The Endriders are described in MTG lore as nomadic apocalypse-punk warriors from Gastal, a dying plane of permanent sunset — which explains the art's fiery, end-of-days aesthetic [MTG Wiki: Endriders].
+- **Design** — Artist Ron Spencer is one of the original 25 Magic: The Gathering artists from Alpha (1993). He was largely inactive throughout the 2010s before returning with Double Masters; his Aetherdrift contribution represents his continued comeback presence [MTG Wiki: Ron Spencer].
+
+### Related cards
+- Rugged Highlands (Aetherdrift, DFT no. 262) — same gain-land cycle, red-green pair; same set
+- Swiftwater Cliffs (Aetherdrift, DFT no. 265) — same gain-land cycle, blue-red pair; same set
+- Bloodfell Caves (Khans of Tarkir) — first printing of this oracle text
+- Endriders commander card (Aetherdrift) — faction represented in the flavor text
 

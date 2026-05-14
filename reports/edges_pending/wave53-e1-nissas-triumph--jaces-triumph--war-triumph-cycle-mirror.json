@@ -1,0 +1,23 @@
+{
+  "edge_id": "wave53-e1-nissas-triumph--jaces-triumph--war-triumph-cycle-mirror",
+  "wave": 53,
+  "shape": "1:1",
+  "category": "designer-confirmed-cycle",
+  "topology": "mirror",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/170-nissa-s-triumph.md", "name": "Nissa's Triumph"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/55-jace-s-triumph.md", "name": "Jace's Triumph"}
+  ],
+  "description": "WAR Gatewatch Triumph cycle 1:1 mirror. Two trivia-passed in-corpus members of the five-card designer-coordinated Triumph cycle (Gideon WAR-15, Jace WAR-55, Liliana WAR-98, Chandra WAR-121, Nissa WAR-170). All five share: same Kieran Yanner artist, same {X}{X} mana template with own-walker conditional upgrade, same templated flavor construction ('X's triumph came not from Y, but from Z'), all uncommon, all bookend HOU Defeat cycle per MTG Wiki. Both cards already named each other in `### Related cards`; the Connections edge formalizes the cycle bond bidirectionally. The other three siblings (Gideon, Liliana, Chandra) are not in BBL corpus — when ≥3 cycle members land, this mirror upgrades to a designer-confirmed-flavor-cycle character node analogous to [[eld-cinderella-cycle]] / [[dsk-unlucky-lands-cycle]] / [[fear-of-cycle]].",
+  "citations": [
+    "[MTG Wiki: War of the Spark, Cycles section]",
+    "[Scryfall: WAR Triumph cycle (5 cards by name=Triumph + set=war)]",
+    "[Scryfall: WAR-55 Jace's Triumph; WAR-170 Nissa's Triumph]",
+    "[In-corpus trivia: cards/magic-the-gathering/war-of-the-spark/55-jace-s-triumph.md Set context bullet; cards/magic-the-gathering/war-of-the-spark/170-nissa-s-triumph.md Set context bullet (both already cite the cycle explicitly)]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/war-of-the-spark/55-jace-s-triumph.md",
+    "cards/magic-the-gathering/war-of-the-spark/170-nissa-s-triumph.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored"
+}

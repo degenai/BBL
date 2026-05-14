@@ -1,0 +1,36 @@
+{
+  "card_name": "Tiny Rivals Trunks",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-007",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies the character as Trunks (Kid Trunks). Visual match is canonical: young child with short lavender/light-colored hair, arm outstretched firing a ki blast in purple-pink energy — matches Kid Trunks' standard depiction including his signature purple/lavender hair color inherited from his mother Bulma. The 'Tiny Rivals' series title links this card mechanically to TB2-004 Son Goten. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Kid Trunks is the son of Vegeta and Bulma, distinguishable from Future Trunks by his lavender/light-purple hair, cocky personality, and the relative peace he grew up in (no Android apocalypse). He entered the 25th World Tournament alongside Goten, first by helping steal the Mighty Mask disguise costume, then as himself in the Junior Division — where he defeated Goten in the final by going Super Saiyan, violating the rules. [Dragon Ball Wiki: Trunks / Wikipedia: Trunks (Dragon Ball)]",
+      "sources": ["Dragon Ball Wiki: Trunks", "Wikipedia: Trunks (Dragon Ball)", "Dragon Ball Official Site"]
+    },
+    {
+      "category": "set-lore",
+      "text": "TB2-007 is the Link Card partner to TB2-004 Son Goten in the World Martial Arts Tournament set. The 'Tiny Rivals' pairing reflects Goten and Trunks's canonical dynamic: best friends, near-equals in power, and perpetual sparring partners whose playful rivalry is the emotional core of the late DBZ Buu arc's lighter moments. The TB2 set introduced Link Cards as a mechanic where paired cards' art and effects connect. [Official DBS Card Game: WMAT Design Concept]",
+      "sources": ["dbs-cardgame.com: WMAT Design Concept"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At $0.06 market price, TB2-007 is bulk but slightly higher than its Link partner TB2-004 Goten ($0.04) — Trunks cards historically carry a small premium due to the character's broader popularity across multiple Dragon Ball timelines (Kid Trunks, Future Trunks). The Uncommon slot suggests modest mechanical utility relative to the Link pairing. [TCGplayer: World Martial Arts Tournament]",
+      "sources": ["TCGplayer: Dragon Ball Super CCG World Martial Arts Tournament"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tiny Rivals Son Goten", "set": "World Martial Arts Tournament (TB2-004)", "note": "The Link Card pair — Goten is Trunks's best friend and Tiny Rivals counterpart"},
+    {"name": "Mighty Mask, Powers Combined", "set": "World Martial Arts Tournament (TB2-008)", "note": "Trunks and Goten in disguise — TB2-008 depicts the result of their tournament scheme"},
+    {"name": "Vegeta, Power Misused", "set": "World Martial Arts Tournament (TB2-006)", "note": "Vegeta is Trunks's father; both appear in the same TB2 set within the same tournament arc"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Kid Trunks",
+    "ip_confidence": "high"
+  }
+}

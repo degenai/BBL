@@ -1,0 +1,37 @@
+{
+  "card_name": "At All Costs Vegeta",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-030",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names Vegeta. Blue color, Saiyan/Universe 7 traits, 20000 power, energy cost 4(B) — all consistent with a Super Saiyan Blue Vegeta card. Electric-blue aura in art matches SSB's canonical blue ki coloration.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Colossal Warfare (BT4) was released in July 2018 as the fourth main booster set for the Dragon Ball Super Card Game. Its primary antagonist theme is the Xenoverse villain Demigra, with heroes organized around a 'Goku's Lineage' sub-archetype tracing Goku's family from Bardock onward. [Bleeding Cool: Colossal Warfare Checklist] [dbs-cardgame.com design-concept page]",
+      "sources": ["bleedingcool.com/games/dragon-ball-super-card-game-colossal-warfare-checklist/", "dbs-cardgame.com/asia/strategy/series4/design-concept.php"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT4-030 is a Super Rare Blue Battle card with 20,000 power and an energy cost of 4(B). Its Activate: Main skill lets the player add life cards to hand and scale power by energy count, potentially gaining Triple Strike when 5 or more energy are in play — a late-game finisher design. The card carries the Saiyan/Universe 7 dual trait. [DBZ Exchange: BT4-030]",
+      "sources": ["dbzexchange.com/products/bt4-030-at-all-costs-vegeta"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Super Saiyan Blue (SSGSS) is Vegeta's form combining Super Saiyan transformation with the god-ki mastery he achieved through training with Beerus and Whis. In Dragon Ball Super's Universe Survival arc (the era BT4 draws from), Blue-form Vegeta is central to Universe 7's resistance in the Tournament of Power. The 'At All Costs' title references Vegeta's characteristic willingness to sacrifice his own life reserves — here represented mechanically by pulling cards from your life zone to power up. [WebSearch: DBS wiki / CBR on SSB]",
+      "sources": ["WebSearch snippet: CBR / Dragon Ball Wiki via search"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Height of Mastery Son Goku", "set": "Colossal Warfare (BT4)", "note": "Swap-chain endpoint for Goku's Lineage archetype that BT4-030 feeds into"},
+    {"name": "Bardock", "set": "Colossal Warfare (BT4)", "note": "Goku's Lineage origin card; same archetype cluster"},
+    {"name": "Hoi, Emissary of Flame", "set": "Colossal Warfare (BT4)", "note": "Adjacent Uncommon (BT4-042) in same set — Hirudegarn arc cluster"},
+    {"name": "Vegeta, Prince of Destruction", "set": "various DBS sets", "note": "Alternate Vegeta prints for competitive context"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

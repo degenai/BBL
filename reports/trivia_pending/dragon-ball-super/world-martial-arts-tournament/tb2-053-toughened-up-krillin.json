@@ -1,0 +1,36 @@
+{
+  "card_name": "Toughened Up Krillin",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-053",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name contains 'Krillin' explicitly. Depicted figure is short, stocky, bald in orange gi — Krillin's canonical visual identifiers throughout all Dragon Ball media. The card's synergy ability references 'Toughened Up Chiaotzu' (TB2-056), matching Krillin and Chiaotzu's long-standing partnership in the lore. Verified via card oracle text on product listings.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Toughened Up Krillin (TB2-053) is a yellow-color Common Battle card with 15,000 base power. Its skill: if Toughened Up Chiaotzu (TB2-056) is in the Battle Area, Krillin gains +5,000 power and Critical. The paired mechanic mirrors Krillin and Chiaotzu's friendship in canon — where Chiaotzu's psychic backup enabled Krillin's tournament run at the 22nd Tenkaichi Budokai.",
+      "sources": ["WebSearch: Big Orbit Cards TB2-053 product page", "WebSearch: ARKEN DBS TCG TB2-053 listing"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Krillin is one of only a few non-Saiyan fighters to consistently reach the semi-finals of multiple World Martial Arts Tournaments. He entered the 21st, 22nd, and 23rd Tenkaichi Budokai, reaching the semi-finals twice. His quarter-final loss to Piccolo Jr. at the 23rd is considered one of his best fights in the franchise — he was the first character after Tien and Chiaotzu to learn flight during that tournament.",
+      "sources": ["WebSearch: CBR 'Ranking the Best Krillin Fights from the Entire Dragon Ball Franchise'", "WebSearch: CBR 'Every Martial Artist Who Fought in Dragon Ball's World Tournaments'"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At 15,000 power for 2 yellow energy, Krillin's base stats are competitive for a Common. The Critical keyword (when inflicting life damage, the opponent places cards in Drop Area rather than hand) is a meaningful pressure tool, but it requires Chiaotzu on the field — a deliberate design constraint that punishes running Krillin without his partner.",
+      "sources": ["WebSearch: Big Orbit Cards TB2-053", "WebSearch: Carta Magica TB2-056 Chiaotzu listing"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Toughened Up Chiaotzu", "set": "World Martial Arts Tournament", "note": "Direct mechanical partner — TB2-053 gains Critical only when TB2-056 is in play; mirrored synergy pair."},
+    {"name": "Future Martial Artist Son Goku", "set": "World Martial Arts Tournament", "note": "Krillin faced Goku in the 22nd Tenkaichi Budokai semi-finals; shared set and World Tournament trait."},
+    {"name": "Master Roshi, Martial Meister", "set": "World Martial Arts Tournament", "note": "Krillin is a student of Roshi's Turtle School; same set."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Krillin",
+    "ip_confidence": "high"
+  }
+}

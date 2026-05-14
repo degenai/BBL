@@ -1,0 +1,23 @@
+{
+  "edge_id": "acerola-bus112--mimikyu-daa081-signature-pokemon",
+  "shape": "1:1",
+  "category": "named-character-identity",
+  "topology": "mirror",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/burning-shadows/112-147-acerola.md", "name": "Acerola (Burning Shadows)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/081-189-mimikyu.md", "name": "Mimikyu (Darkness Ablaze)"}
+  ],
+  "description": "Named-trainer + signature-Pokemon canonical pair. Acerola owns a named Shiny Mimikyu (Mimikins, canonically the ghost of a deceased Mimikyu); Mimikyu is her signature partner across Pokemon Sun and Moon (Thrifty Megamart Trial Totem), the anime, and Pokemon Masters EX. Mirrored bidirectionally on `## Connections` sections of both cards. Edgelord notes: the Mimikyu species's loneliness-and-disguise lore composes with Acerola's Aether House caretaker role on the canonical caretaker-of-the-lonely + lonely-creature-in-disguise axis — this is among the franchise's most explicitly designer-coordinated trainer-and-signature-Pokemon pairings, and the edge is load-bearing on canon, not on tag bridge. Professional sigh on the mirror.",
+  "citations": [
+    "[Bulbapedia: Acerola]",
+    "[Bulbapedia: Mimikyu]",
+    "[Bulbapedia: Mimikins (Acerola's Shiny Mimikyu)]",
+    "[Pokemon Sun and Moon, Game Freak 2016, primary canon]",
+    "[Pokemon Masters EX]"
+  ],
+  "files_modified": [
+    "cards/pokemon/burning-shadows/112-147-acerola.md (added ## Connections bullet)",
+    "cards/pokemon/darkness-ablaze/081-189-mimikyu.md (added ## Connections section)"
+  ],
+  "edgelord_mood": "sighed-but-mirrored"
+}

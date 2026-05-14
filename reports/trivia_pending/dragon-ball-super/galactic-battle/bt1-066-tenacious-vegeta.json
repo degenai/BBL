@@ -1,0 +1,36 @@
+{
+  "card_name": "Tenacious Vegeta",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-066",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Vegeta'. Special Trait is 'Saiyan'. Era is 'Battle of Gods Saga'. Dark bodysuit with armor and golden upright spiky hair matches Vegeta's canonical Super Saiyan design. Fierce scowl with combative pride is a signature character expression. Verified via card name and Bandai official card database.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Galactic Battle (BT1) was the inaugural English booster set for the DBS Card Game, released July 28, 2017. The 'Battle of Gods Saga' era designation places this Vegeta in the events of Dragon Ball Super's first arc and the 2013 Battle of Gods film, where Vegeta's pride in protecting his family becomes a recurring character beat. [PSA CardFacts: 2017 Dragon Ball Super Series 1 Galactic Battle]",
+      "sources": ["PSA CardFacts: 2017 Dragon Ball Z Dragon Ball Super Series 1 Galactic Battle"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT1-066 is a Green Battle card with Power 10,000 and energy cost 2 Green. Its skill reads: 'When this card is attacked, KO the attacking card after the battle. This card cannot be attacked by a Leader Card.' This creates a punishing trade deterrent — opponents must weigh whether attacking Tenacious Vegeta is worth losing their own Battle Card, while Leader Card immunity protects it from the most common attack vector. [WebSearch: TrollAndToad listing BT1-066; WebSearch search result card details]",
+      "sources": ["TrollAndToad: Tenacious Vegeta BT1-066", "TCG Collectibles BT1-066 listing"]
+    },
+    {
+      "category": "design",
+      "text": "The 'Tenacious' subtitle maps directly to Vegeta's defining trait across the franchise: an inability to yield, even against superior opponents. In the Battle of Gods arc specifically, Vegeta famously becomes Super Saiyan from anger at Beerus slapping Bulma — a moment cited by the Dragon Ball anime community as his most emotionally unguarded. The card's aggressive lunge pose and fierce scowl (rather than a powered-up roar) is consistent with that framing. [Wikipedia: Trunks (Dragon Ball) character entry referencing Vegeta's Saiyan pride; GameRant: Vegeta's Galick Gun explained]",
+      "sources": ["Wikipedia: Trunks (Dragon Ball)", "GameRant: Dragon Ball — Vegeta's Galick Gun Explained"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Father-Son Galick Gun", "set": "Union Force (BT2-063)", "note": "Vegeta is one of the two depicted figures"},
+    {"name": "Son Gohan, Family of Justice", "set": "Galactic Battle (BT1-062)", "note": "Same set, rival Saiyan cluster, shared Galactic Battle commons"},
+    {"name": "Tenacious Vegeta", "set": "Any later reprint sets", "note": "Watch for reprint in Mythic Booster or later sets — defensive skill has reprint value"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

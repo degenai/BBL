@@ -1,0 +1,37 @@
+{
+  "card_name": "Vegeta, Power Misused",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-006",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies the character as Vegeta. Visual match is canonical: spiky golden Super Saiyan hair, dark body armor, crouching low stance, purple-white energy — consistent with Majin Vegeta's depiction during the Buu arc. The card title 'Power Misused' is a direct narrative reference to Vegeta's infamous act at the 25th World Tournament, where he allowed Babidi to implant the Majin seal to boost his power, then deliberately fired a Big Bang Attack into the crowd to force Goku to fight him, killing dozens of spectators. This is a named character with explicit card-title narrative grounding.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The card title 'Power Misused' references one of Dragon Ball Z's most pivotal moments of moral failure: during the 25th World Martial Arts Tournament, Majin Vegeta — empowered by Babidi's magic — deliberately fired a Big Bang Attack into the spectator stands to force Goku to fight him, killing dozens of bystanders. He was willing to commit mass murder to satisfy his pride and settle his rivalry. This is the context the card's name anchors to. [Dragon Ball Wiki: Vegeta's Pride / Wikipedia: Majin Vegeta]",
+      "sources": ["Dragon Ball Wiki: Vegeta's Pride", "Wikipedia: Vegeta", "CBR: Majin Vegeta Buu Powers Explained"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The World Martial Arts Tournament themed booster (TB2) assigns each color to a different tournament era from Dragon Ball history. Red cards in the set are associated with the Buu-era 25th Tournament, where Vegeta's Majin form and the interruption by Babidi define the arc. Vegeta is the set's most prominent Red character. [Official DBS Card Game: WMAT Design Concept]",
+      "sources": ["dbs-cardgame.com: WMAT Design Concept", "TCGplayer: TB2-006 Vegeta Power Misused"]
+    },
+    {
+      "category": "mechanical",
+      "text": "TB2-006 is a Common Battle card in the World Martial Arts Tournament set. At $0.04 market price, it sits in bulk territory despite depicting one of the franchise's most recognizable characters. The Majin Vegeta form has multiple card representations across DBS TCG sets — this Common version competes for attention with rarer Vegeta prints that carry more mechanical weight. [TCGplayer: World Martial Arts Tournament]",
+      "sources": ["TCGplayer: Dragon Ball Super CCG World Martial Arts Tournament", "totalcards.net"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Majin Vegeta, Saiyan Pride", "set": "Various DBS sets", "note": "Other Majin Vegeta card representations; the Power Misused moment is central to multiple Majin Vegeta prints"},
+    {"name": "Vegeta, Power Misused (Leader)", "set": "World Martial Arts Tournament", "note": "Potential Leader card counterpart in the same set framing the same narrative beat"},
+    {"name": "Babidi, Manipulator of Evil", "set": "Various DBS sets", "note": "The wizard who implanted the Majin seal on Vegeta, enabling the 'Power Misused' moment"},
+    {"name": "Goku, the Eternal Rival", "set": "Various DBS sets", "note": "The target of Vegeta's tournament attack — their rivalry drives the entire Majin Vegeta arc"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Vegeta (Super Saiyan) — Dragon Ball franchise",
+    "ip_confidence": "high"
+  }
+}

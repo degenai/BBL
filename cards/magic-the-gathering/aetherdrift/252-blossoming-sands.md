@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-14
 date_added: 2026-05-10
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://cards.scryfall.io/png/front/6/9/69949863-2510-4fe2-a815-0682beeb08a3.png?1738356887
 art_match_confidence: high
 needs_manual_review: false
@@ -50,4 +50,15 @@ A wide, sun-drenched vista of golden sandstone spires rising from a canyon floor
 **Objects:** sandstone-spires, flowering-plants, grasses, canyon
 **Creatures:** winged-creature, flying-beast
 **Genre cues:** fantasy, landscape
+
+## Trivia
+
+- **Set context** — Blossoming Sands is part of the Khans of Tarkir gain-land cycle, first printed September 2014. The Aetherdrift printing is its 17th appearance — the most reprinted of the eight in this inventory batch [Scryfall].
+- **Flavor text / faction** — `"The Alacrian Quickbeasts desire not only to win, but to forge new alliances against the unknown threats of this interconnected Multiverse."` `[Scryfall]` The Alacrian Quickbeasts are a racing team of rider-and-steed pairs from Alacria, a plane connected to Avishkar via a perennial Omenpath. Quickbeasts are intelligent, aether-fueled winged creatures — the silhouetted flyer in the art is likely one of them [MTG Wiki: Alacrian Quickbeasts].
+- **Design** — Artist Valera Lutfullina is a contemporary MTG illustrator. The Aetherdrift printing gives the gain land a rare landscape-only treatment that foregrounds the desert ecology of the set's Avishkar leg of the race rather than any faction's mechanics.
+
+### Related cards
+- Thornwood Falls (Aetherdrift, DFT no. 266) — same gain-land cycle, green-blue pair; same set
+- Caradora, Heart of Alacria (Aetherdrift, DFT no. 195) — Alacrian Quickbeasts legendary; faction in flavor text
+- Blossoming Sands (Khans of Tarkir) — original printing of this oracle text
 

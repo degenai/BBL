@@ -18,7 +18,7 @@ average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-14
 date_added: 2026-05-05
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -78,4 +78,6 @@ An extreme close-up of a cowled figure in deep blue hooded robes, head tilted sl
 - Concentrate (various reprints) — mechanical template ancestor: `{2}{U}` sorcery, "Draw three cards"; the no-conditional baseline this card riffs on
 
 ## Connections
+
+- [[170-nissa-s-triumph]] — WAR Gatewatch Triumph cycle siblings; same Kieran Yanner artist, same {2}{X} mana template, same `"X's triumph came not from Y, but from Z"` flavor template; the cycle is the in-set callback to the HOU Defeat cycle per MTG Wiki War of the Spark Cycles section. `[MTG Wiki: War of the Spark, Cycles section; Scryfall: WAR Triumph cycle]`
 

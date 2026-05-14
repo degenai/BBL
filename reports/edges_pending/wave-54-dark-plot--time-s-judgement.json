@@ -1,0 +1,17 @@
+{
+  "edge_id": "wave-54-dark-plot--time-s-judgement",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-coordinated-sequential-narrative-conflict-pair",
+  "endpoints": [
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-121-dark-plot.md", "name": "Dark Plot"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-122-time-s-judgement.md", "name": "Time's Judgement"}
+  ],
+  "description": "Bandai uses consecutive collector numbers BT3-121 / BT3-122 within Cross Worlds to encode the central Xenoverse-arc villain-plot-then-hero-response beat: Dark Plot names the Time Breakers' Towa-and-Mira scheme to collect warrior energy across historical timelines and break the Demon Realm seal; Time's Judgement is Chronoa's canonical 'Holy Time Judgement' signature attack from the Xenoverse games. The sequential numbering is the designer-coordinated framing — analogous to the WAR planeswalker-companion-spell adjacency precedent but inverted (villain plot then hero response rather than walker then matching spell). This is the rare Bandai TCG case of card-sequence-as-narrative-encoding.",
+  "citations": ["[Dragon Ball Wiki: Towa]", "[Dragon Ball Wiki: Chronoa]", "[GameFAQs: Xenoverse 2 Chronoa moveset]", "[DBS BT3 card list]", "[Bleeding Cool Cross Worlds Checklist]"],
+  "files_modified": [
+    "cards/dragon-ball-super/cross-worlds/bt3-121-dark-plot.md",
+    "cards/dragon-ball-super/cross-worlds/bt3-122-time-s-judgement.md"
+  ],
+  "edgelord_mood": "satisfied"
+}

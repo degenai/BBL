@@ -1,0 +1,38 @@
+{
+  "card_name": "Supreme Kai of Time, World's Protector",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-113",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Supreme Kai of Time' — Chronoa's canonical title. Petite female figure with large pink twin-tail hair and purple/pink ceremonial outfit is Chronoa's defining visual signature, confirmed by Dragon Ball Wiki and Xenoverse 2 Wiki. Card name plus visual match = explicit identity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cross Worlds (BT3) released March 9, 2018 as the third main booster set for the Dragon Ball Super Card Game, comprising 127 cards. It is the first set to heavily feature the Xenoverse / Dragon Ball Online timeline, introducing the Time Breakers faction (Towa, Mira, Masked Saiyan) alongside heroic time-guardians like the Supreme Kai of Time. [WebSearch: Bleeding Cool Cross Worlds Checklist; Amazon BT3 listing]",
+      "sources": ["WebSearch: bleedingcool.com Cross Worlds Checklist", "WebSearch: Amazon BT3 listing"]
+    },
+    {
+      "category": "design",
+      "text": "Chronoa (Supreme Kai of Time) debuted in Dragon Ball Online before becoming a central figure in Dragon Ball Xenoverse and Xenoverse 2. She is the keeper of the Time Vault and employs the Time Patrol — her pink twin-tail hairstyle and petite stature are her definitive visual identifiers across all media. [Dragon Ball Wiki: Chronoa, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: Chronoa, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT3-113 is numbered near the end of the BT3 booster run (card 113 of 127), placing it among the set's Extra and Event cards. The Supreme Kai of Time appears on multiple BT3 cards — BT3-113 and BT3-122 (Time's Judgement) — making Chronoa the only deity with dual-card representation in this set. [WebSearch: DBS cardgame BT3 set card list]",
+      "sources": ["WebSearch: dbs-cardgame.com BT3 card list"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Time's Judgement", "set": "Cross Worlds", "note": "Second Chronoa card in BT3 — same character, different pose and blue/teal background"},
+    {"name": "Towa, Space Time Unleashed", "set": "Cross Worlds", "note": "Antagonist counterpart to Chronoa in the Xenoverse time-war narrative"},
+    {"name": "Dark Plot", "set": "Cross Worlds", "note": "Event card depicting the Time Breaker conspiracy Chronoa opposes"},
+    {"name": "Encroaching Threat Masked Saiyan", "set": "Cross Worlds", "note": "Bardock brainwashed by Towa — the threat Chronoa's Time Patrol tracks"},
+    {"name": "Power Aura Mira", "set": "Cross Worlds", "note": "Co-antagonist with Towa; Chronoa's principal enemies in the Xenoverse arc"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

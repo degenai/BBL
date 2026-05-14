@@ -1,0 +1,37 @@
+{
+  "card_name": "Adonic Warrior Angila",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-062",
+  "task_profile": "ip-priority",
+  "ip_decision": "qualify",
+  "ip_outcome_note": "The card depicts the character Angila, confirmed by card oracle text listing 'Era: Lord Slug Saga' and special trait 'Slug's Army'. The vision-pass IP attribution attributed him to 'Cooler's Revenge' — that is a different film. Angila is from Dragon Ball Z: Lord Slug (Movie 4, 1991), not Cooler's Revenge (Movie 5). The character identity is correct; the film citation in suspected_ip is wrong. Qualifying rather than refuting because the character IS Angila, but the IP source film was mislabeled.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Colossal Warfare (BT4) released July 13, 2018 as the fourth main booster set in the Dragon Ball Super Card Game and the final set of the Over Realm block, containing 218 cards total. [Cardmarket: Colossal Warfare set page]",
+      "sources": ["Cardmarket: Colossal Warfare set page"]
+    },
+    {
+      "category": "design",
+      "text": "The card's oracle text identifies the character as belonging to 'Slug's Army' with Era: Lord Slug Saga — placing Angila firmly in Dragon Ball Z: Lord Slug (Movie 4, 1991), not Cooler's Revenge as the vision pass initially flagged. Angila is one of Lord Slug's three elite henchmen alongside Medamatcha and Wings. [DBZ Exchange: BT4-062 card listing]",
+      "sources": ["DBZ Exchange: BT4-062 card listing", "Dragon Ball Wiki: Angila"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT4-062 carries [Critical] (opponent drops cards from life to Drop Area instead of hand when taking damage) and a [Bond 2] 'Slug's Army' trigger that forces the opponent to discard a card when attacking into a Slug's Army board. Its 3-cost 15000-power statline is standard commons baseline for the set. [DBZ Exchange: BT4-062 card listing]",
+      "sources": ["DBZ Exchange: BT4-062 card listing"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dark Vassal Tambourine", "set": "Colossal Warfare", "note": "BT4-064 — fellow minor-villain common in the same set"},
+    {"name": "Dark Vassal Cymbal", "set": "Colossal Warfare", "note": "BT4-065 — fellow minor-villain common"},
+    {"name": "Dark Vassal Drum", "set": "Colossal Warfare", "note": "BT4-066 — fellow minor-villain common"},
+    {"name": "Lord Slug", "set": "Colossal Warfare", "note": "Leader or battle card for Slug's Army archetype that Angila supports"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "false",
+    "suspected_ip": "Angila (Dragon Ball Z: Lord Slug — Slug's Army)",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "card_name": "Mighty Mask, Powers Combined",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-008",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies the character as Mighty Mask. Mighty Mask is the confirmed identity of the disguise used by Goten and Kid Trunks to enter the 25th World Martial Arts Tournament as adults. The real Mighty Mask was knocked out by Trunks before the tournament began; the boys stole his costume. The card title 'Powers Combined' directly references the dual power (and later dual Super Saiyan transformation) the two boys achieve while sharing the costume. Visual match — masked fighter with swirl-patterned full-face mask in tournament costume — is canonical to the character's design in DBZ.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Mighty Mask is the borrowed identity Goten and Kid Trunks use to enter the adult division of the 25th World Martial Arts Tournament. The real Mighty Mask never competed: Trunks lured him away with the promise of meeting an attractive woman and knocked him out, stealing his costume. Trunks and Goten then fought inside the costume until Android 18 used a Destructo Disc to cut the costume in half mid-fight, exposing them both and causing their disqualification. [Dragon Ball Wiki: Mighty Mask]",
+      "sources": ["Dragon Ball Wiki: Mighty Mask"]
+    },
+    {
+      "category": "design",
+      "text": "The card title 'Powers Combined' is a direct reference to the moment Trunks and Goten transformed into Super Saiyans simultaneously while inside the Mighty Mask costume during their fight against Android 18. The dual transformation visually inflated the costume and was the tell that finally confirmed to 18 she was fighting two children, not one fighter. [Dragon Ball Wiki: Mighty Mask / Dragon Ball Wiki: World Martial Arts Tournament]",
+      "sources": ["Dragon Ball Wiki: Mighty Mask", "Dragon Ball Wiki: World Martial Arts Tournament"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At $0.06 market price, TB2-008 is a Common bulk card, but the Mighty Mask concept is mechanically interesting in the DBS TCG context: it represents a 'combined' entity rather than a single character, which fits the World Martial Arts Tournament set's Link Card design philosophy of pairing cards whose effects work together. Mighty Mask is the diegetic fusion of the TB2-004/007 Goten-Trunks pair. [TCGplayer: World Martial Arts Tournament]",
+      "sources": ["TCGplayer: Dragon Ball Super CCG World Martial Arts Tournament", "dbs-cardgame.com: WMAT Design Concept"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tiny Rivals Son Goten", "set": "World Martial Arts Tournament (TB2-004)", "note": "One half of the Mighty Mask duo — Goten is inside the costume"},
+    {"name": "Tiny Rivals Trunks", "set": "World Martial Arts Tournament (TB2-007)", "note": "The other half — Trunks instigated the scheme and piloted the costume's upper half"},
+    {"name": "Android 18", "set": "Various DBS sets", "note": "The fighter who exposed Mighty Mask by cutting the costume in half with a Destructo Disc"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Mighty Mask (Trunks + Goten in disguise) — Dragon Ball Z / Dragon Ball Super",
+    "ip_confidence": "high"
+  }
+}

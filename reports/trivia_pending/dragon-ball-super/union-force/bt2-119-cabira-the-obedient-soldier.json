@@ -1,0 +1,36 @@
+{
+  "card_name": "Cabira, The Obedient Soldier",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-119",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches character name exactly. Cabira is a named minion of Chilled (Frieza's ancestor) who appears in Dragon Ball: Episode of Bardock (2011) alongside Toobi. Both are sent to conquer Planet Plant and killed by Bardock. The card's depiction of an alien humanoid soldier in green armor matches the character's established appearance. The title 'The Obedient Soldier' mirrors Cabira's canonical role as a disposable henchman who follows orders without question.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Union Force (BT2) was the second main booster set for the Dragon Ball Super Card Game, released November 3, 2017 by Bandai. It drew characters from across the Dragon Ball universe rather than focusing on a single arc, making minor antagonists like Cabira eligible alongside major fighters. [PSA Card Facts / BleedingCool checklist]",
+      "sources": ["PSA Card Facts", "BleedingCool: Union Force Checklist"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Cabira is one of two named soldiers (alongside Toobi) sent by Chilled — Frieza's ancestor and a space pirate — to conquer Planet Plant in Dragon Ball: Episode of Bardock (2011). He is killed by Bardock, who had been transported back in time to the planet's past. The kill method differs between adaptations: a roundhouse kick to the face in the manga, a punch to the stomach in the anime. [Dragon Ball Wiki: Cabira / thecodex.wiki: Chilled]",
+      "sources": ["Dragon Ball Wiki: Cabira", "thecodex.wiki: Chilled", "IMDB: Dragon Ball Episode of Bardock"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT2-119 is a Yellow Battle card with 10,000 Power and 5,000 Combo Power, placing it at the baseline stat line for common Battle cards in the Union Force era — functional filler with no special effect text noted in retailer listings. At $0.10 market price, it sits firmly in bulk territory. [TCGplayer: BT2-119]",
+      "sources": ["TCGplayer: Union Force - Cabira, The Obedient Soldier", "DBZ Exchange"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Toobi, The Obedient Soldier", "set": "Union Force", "note": "Cabira's paired companion sent by Chilled; both minions appear together in Episode of Bardock"},
+    {"name": "Chilled, Cold-Blooded Conqueror", "set": "Union Force or other BT sets", "note": "Cabira's direct commander and Frieza's ancestor — the Chilled Saga villain"},
+    {"name": "Bardock, Father of Goku", "set": "Various", "note": "The fighter who kills Cabira in Episode of Bardock; the event triggers Chilled's rage and the first Super Saiyan legend"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Cabira",
+    "ip_confidence": "high"
+  }
+}

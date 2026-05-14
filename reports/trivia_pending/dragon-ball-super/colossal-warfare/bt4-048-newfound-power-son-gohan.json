@@ -1,0 +1,36 @@
+{
+  "card_name": "Newfound Power Son Gohan",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-048",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names Son Gohan. Vision shows dark-haired youth (no SSJ golden aura) with massive energy sphere forming above — precisely the visual signature of the Mystic/Ultimate form, where Gohan's hair stays dark while enormous latent power is released. Confirmed via CBR / Dragon Ball Wiki: the Ultimate form involves no visible transformation change, just massive ki release. Card title 'Newfound Power' directly references the power-awakening narrative of Old Kai's unlock ritual.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Gohan's Mystic (also called Ultimate or Potential Unleashed) form is not a Super Saiyan transformation — the hair remains dark and no aura color change signals the shift. The power was unlocked by Old Kai through a ritual lasting over 25 hours total (5+ hours of dancing, 20+ hours of meditation). At the time of its debut in Dragon Ball Z's Buu Saga, Ultimate Gohan's power exceeded Super Saiyan 3 Goku's. The 'Newfound Power' card title is a direct reference to this narrative. [CBR: Mystic Gohan Explained]",
+      "sources": ["cbr.com/mystic-gohan-dragon-ball-z/"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT4-048 is an Uncommon Green Battle card from Colossal Warfare (2018). The card's artwork distinguishes Gohan's Ultimate state through dark hair and a large energy sphere — the in-universe visual cue for latent-potential release as opposed to a conventional Super Saiyan burst. [dbs-cardgame.com: BT4 cardlist]",
+      "sources": ["dbs-cardgame.com/us-en/cardlist/?search=true&category=BT4"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Colossal Warfare (BT4, July 2018) drew primarily from the Dragon Ball Super Universe Survival Saga, but also incorporated classic Dragon Ball Z arc characters such as Gohan's Ultimate form, Grand Elder Guru, Nail, and Kami. This cross-era card pool was deliberate — the set's green cluster was explicitly themed around Namekians and Lord Slug Saga alongside the Piccolo fusion lineage. [dbs-cardgame.com: Series 4 Green Strategy Page]",
+      "sources": ["dbs-cardgame.com/us-en/strategy/series4/green.php"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kami's Power Piccolo", "set": "Colossal Warfare (BT4-049)", "note": "Adjacent Green Namekian card in the same cluster; Piccolo absorbed both Nail and Kami"},
+    {"name": "Grand Elder Guru", "set": "Colossal Warfare (BT4-052)", "note": "Guru's power-unlock ability is the Namek-saga predecessor to Old Kai's unlock that created Ultimate Gohan"},
+    {"name": "Gohan, the Gifted", "set": "various DBS sets", "note": "Other Gohan prints for reprint/alternate-art context"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

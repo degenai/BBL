@@ -1,0 +1,36 @@
+{
+  "card_name": "Intensifying Power Trunks",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-012",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name reads 'Intensifying Power Trunks'. Character field confirmed as 'Trunks: GT'. Trunks is the half-Saiyan son of Vegeta and Bulma; in Dragon Ball GT he accompanies Goku and Pan into space. This is specifically GT-era Kid Trunks (not Future Trunks). Identity unambiguous from card name and character field.",
+  "trivia_bullets": [
+    {
+      "category": "mechanical",
+      "text": "BT4-012 is a green Uncommon Battle card: 5000 power, 5000 combo power, 1-green energy cost. Auto ability: when this card attacks, you may add a life card to hand; if you do, it gains +10000 power and a Critical-equivalent life-Drop effect for the turn — a life-to-power trade mechanic that rewards aggression. Trait: Saiyan/Earthling, Era: Baby Saga, Character: Trunks: GT. [Source: WebSearch snippet via DBZ Exchange BT4-012 listing]",
+      "sources": ["DBZ Exchange: BT4-012 listing", "TrollAndToad: Intensifying Power Trunks"]
+    },
+    {
+      "category": "design",
+      "text": "BT4-012 was also distributed as a promo card in the 2019 DBS TCG Event Pack 03, giving it a wider print run than a typical Uncommon. The Event Pack version carries the PR stamp rather than the standard set frame. [Source: WebSearch snippet via CoreTCG Event Pack 03 listing]",
+      "sources": ["CoreTCG: Intensifying Power Trunks Event Pack 03 listing"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Dragon Ball GT, Trunks (depicted here as a teenager) serves as one of three main protagonists alongside Goku and Pan during the Black Star Dragon Ball space arc. A notable design note: Akira Toriyama later admitted he did not know who Future Trunks was when that character first appeared in DBZ — only afterward deciding Trunks was Vegeta and Bulma's child, a reveal that shocked the editorial team. [Source: Screen Rant: 'Not Even Dragon Ball's Creator Knew Who Future Trunks Was When He Debuted']",
+      "sources": ["Screen Rant: Dragon Ball Future Trunks identity reveal"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Power of Friendship Pan", "set": "Colossal Warfare", "note": "BT4-009 — Pan is Trunks' GT companion; the two travel together with Goku in the space arc"},
+    {"name": "Dependable Mom Bulma", "set": "Colossal Warfare", "note": "BT4-013 — Bulma is Trunks' mother"},
+    {"name": "Blazing Spirit Son Goku", "set": "Colossal Warfare", "note": "BT4-005 — Goku is the third member of the GT space-arc trio alongside Trunks and Pan"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

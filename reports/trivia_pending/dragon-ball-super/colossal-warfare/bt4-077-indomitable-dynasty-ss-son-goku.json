@@ -1,0 +1,37 @@
+{
+  "card_name": "Indomitable Dynasty SS Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-077",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Son Goku is the primary protagonist of Dragon Ball, Dragon Ball Z, and Dragon Ball Super. The card name 'Indomitable Dynasty SS Son Goku' directly names him. The vision description — spiky golden hair, orange and blue gi, crackling energy aura — is the definitive Super Saiyan visual signature associated with Goku throughout the franchise. ip_confidence already high, confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "mechanical",
+      "text": "BT4-077 is an Uncommon Yellow Battle card at 3 cost with 15000 power. Its Swap 4 effect allows the player to pay 4 energy to swap it from play for a 'Goku's Lineage' card with cost 4 from hand. This enables the Goku's Lineage archetype's core loop of cycling weaker Goku forms into bigger ones — the card is a value chain enabler, not a standalone threat. [DBZ Exchange: BT4-077 card listing; TCGplayer listing]",
+      "sources": ["DBZ Exchange: BT4-077 card listing", "TCGplayer: Indomitable Dynasty SS Son Goku"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Colossal Warfare introduced the Swap mechanic to the Dragon Ball Super Card Game — the ability to return a card to hand and immediately play a stronger card for less energy. Goku-type cards were among the primary beneficiaries of this mechanic, creating the 'Goku's Lineage' chain archetype that became a recurring deck structure across subsequent sets. [WebSearch: DBS BT4 Swap mechanic]",
+      "sources": ["WebSearch: Dragon Ball Super Colossal Warfare BT4 mechanics Swap King Piccolo archetype"]
+    },
+    {
+      "category": "design",
+      "text": "BT4-077 is restricted to immunity from opponent card selection ('cannot be chosen by opponent's card skills'), giving it some protection on the field. At $0.04 market value it is among the lowest-priced uncommons in the set, indicating the Swap chain has been power-crept in later sets. [card frontmatter market_price; TCGplayer listing]",
+      "sources": ["card frontmatter market_price field", "TCGplayer: Indomitable Dynasty SS Son Goku"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Deadly Golden Great Ape Son Goku", "set": "Colossal Warfare", "note": "BT4-080 — alternate Goku form in same set, GT era"},
+    {"name": "Gine, Here to Support", "set": "Colossal Warfare", "note": "BT4-074 — Goku's mother in same set"},
+    {"name": "Unbroken Dynasty Son Goku", "set": "Colossal Warfare", "note": "BT4-079 — adjacent Goku common in same set"},
+    {"name": "Bardock", "set": "various DBS sets", "note": "Goku's father; appears as leader card supporting Goku's Lineage archetype"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Son Goku (Dragon Ball Super)",
+    "ip_confidence": "high"
+  }
+}

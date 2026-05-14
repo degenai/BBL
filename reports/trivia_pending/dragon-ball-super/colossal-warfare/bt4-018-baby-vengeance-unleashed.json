@@ -1,0 +1,36 @@
+{
+  "card_name": "Baby, Vengeance Unleashed",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-018",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name reads 'Baby, Vengeance Unleashed'. Baby is the primary antagonist of Dragon Ball GT's Baby Saga — Tuffle Parasite / Machine Mutant. Card confirms Machine Mutant trait. Card art depicts Baby in humanoid Tuffle Parasite form with Vegeta-host looming behind — consistent with the Baby Saga narrative of possession. Identity unambiguous from card name.",
+  "trivia_bullets": [
+    {
+      "category": "mechanical",
+      "text": "BT4-018 is a red Common Battle card: 1000 power, 5000 combo power, 1-red energy cost. Its [Union-Absorb] ability is the mechanical centerpiece: choose one of your Battle Cards and place it under this card; if your Leader is a red Machine Mutant, search your deck for a Baby card with 4 or less energy cost sharing the character name of the placed card, and play it on top of this card. Bandai's strategy page explicitly pairs BT4-018 with the BT4-002 Baby Leader: 'Pair him with the BT4-018 Baby card to get him on the board ASAP.' [Source: dbs-cardgame.com/us-en/strategy/series4/red.php; WebSearch: DBZ Exchange BT4-018]",
+      "sources": ["dbs-cardgame.com strategy/series4/red.php", "DBZ Exchange: BT4-018 listing"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The vision's second figure — the looming shadowed silhouette behind Baby — is consistent with Baby-possessed Vegeta, who served as Baby's ultimate host form in Dragon Ball GT. Baby chose Vegeta as his permanent host due to his superior Saiyan power, and Baby Vegeta is the main combat form Baby assumes for the final confrontation arc. [Source: WebSearch: Baby Dragon Ball GT Tuffle parasite villain lore; Villains Wiki: Baby Dragon Ball]",
+      "sources": ["Villains Wiki: Baby (Dragon Ball) via WebSearch snippet", "CBR: Dragon Ball Baby no longer exists article"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Baby's creation paradox is one of Dragon Ball GT's more unusual lore details: Baby is confirmed to have created Dr. Myuu (the scientist credited as Baby's creator) in Age 740 — ten years AFTER Baby's own creation in Age 730. The bootstrap loop is intentional: Baby engineered his own creation retroactively, making him effectively self-caused. [Source: CBR: 'Dragon Ball GT's Baby Created Dr. Myuu Oddity Explained']",
+      "sources": ["CBR.com: Dragon Ball GT Baby vs. Dr. Myuu True Creator"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Baby // Rampaging Great Ape Baby", "set": "Colossal Warfare", "note": "BT4-002 — the Leader card this card is designed to pair with; Bandai strategy notes explicitly recommend this pairing"},
+    {"name": "Blazing Spirit Son Goku", "set": "Colossal Warfare", "note": "BT4-005 — primary GT-era hero opposing Baby in the Baby Saga narrative"},
+    {"name": "Power of Friendship Pan", "set": "Colossal Warfare", "note": "BT4-009 — Pan evaded Baby's possession and opposed him as a free combatant during the Baby Saga"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

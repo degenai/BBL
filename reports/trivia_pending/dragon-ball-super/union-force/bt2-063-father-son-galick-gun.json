@@ -1,0 +1,37 @@
+{
+  "card_name": "Father-Son Galick Gun",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-063",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Father-Son Galick Gun' directly names the canonical attack performed by Vegeta and Future Trunks in Dragon Ball Super episode 65. The duo portrait showing a golden-Super-Saiyan figure (Trunks, looser hair) alongside a Super Saiyan Blue figure (Vegeta, upright spiky hair and blue-tinted aura) matches the attack's canonical participants and their transformation levels in that scene. Verified via card name, attack lore (Fandom wiki, ComicBook.com), and card skill text (Blue Extra, returns opponent's Battle Card to hand). Both characters confirmed as depicted IP.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Union Force (BT2) was the second main booster for the DBS Card Game, released November 3, 2017 — approximately 97 days after Galactic Battle. The 127-card set expanded the card pool with Extra cards that could disrupt the opponent's board, and BT2-063 exemplifies this design: a Blue Extra that returns a Battle Card to the opponent's hand at Activate: Main speed. [PSA CardFacts: 2017 Dragon Ball Super Series 2 Union Force; PSA Set Registry: OG Cards of the Franchise article]",
+      "sources": ["PSA CardFacts: 2017 Dragon Ball Z Dragon Ball Super Series 2 Union Force", "PSA Set Registry: Collecting 2017 Dragon Ball Super Card Game"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT2-063 is a Blue Extra card with energy cost 2 Blue. Its skill: '[Activate: Main] Choose up to 1 of your opponent's Battle Cards and return it to their hand. (Cards stacked under the card are placed in the Drop Area).' The 'cards stacked under' clause is relevant to EX-Evolve chains — bouncing an evolved card sends the stack's base cards to the Drop Area rather than returning them, punishing opponents who have invested multiple cards into a single unit. [TrollAndToad: Father-Son Galick Gun BT2-063; DBZ Exchange: BT2-063]",
+      "sources": ["TrollAndToad: Father-Son Galick Gun BT2-063", "DBZ Exchange: BT2-063 Father-Son Galick Gun"]
+    },
+    {
+      "category": "design",
+      "text": "The Father-Son Galick Gun is a combination attack performed in Dragon Ball Super episode 65 ('Final Judgement? The Ultimate Power of an Absolute God') when Future Trunks fires his Super Galick Gun against Fused Zamasu's Holy Wrath and Vegeta joins with his own, the two beams merging into a single electricity-wreathed blast that overpowers the divine attack. The vision-pass correctly identified the left figure's golden aura as Super Saiyan (Trunks) and the right figure's cooler blue-white aura as Super Saiyan Blue (Vegeta), matching the actual transformation states each character holds in that episode. [Dragon Ball Wiki Fandom: Father-Son Galick Gun; ComicBook.com: Dragon Ball Super Dub Vegeta and Trunks Father-Son Attack]",
+      "sources": ["Dragon Ball Wiki Fandom: Father-Son Galick Gun", "ComicBook.com: Dragon Ball Super Debuts Vegeta and Trunks Father-Son Attack in Dub"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tenacious Vegeta", "set": "Galactic Battle (BT1-066)", "note": "Vegeta is one of the two depicted figures"},
+    {"name": "Chain Attack Trunks", "set": "Mythic Booster (SD2-05)", "note": "Future Trunks is the other depicted figure"},
+    {"name": "Son Gohan, Family of Justice", "set": "Galactic Battle (BT1-062)", "note": "Parallel family-bond card in the same wave — Gohan/Goku vs. Trunks/Vegeta"},
+    {"name": "Dependable Dynasty Son Goku", "set": "Magnificent Collection Forsaken Warrior (BT4-078)", "note": "Goku's Lineage as thematic counterpart to the Vegeta/Trunks lineage pair"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

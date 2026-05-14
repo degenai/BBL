@@ -1,0 +1,36 @@
+{
+  "card_name": "Greenbelt Guardian",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "164",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The 'greenbelt' in this card's name is a direct reference to Avishkar (formerly Kaladesh), where environmental protectors push back against industrial encroachment. Avishkar's racing culture is centered in Ghirapur, and the Grand Prix route tears through the greenbelt surrounding the city. An Elf Ranger standing on wrecked racing vehicles reads as a saboteur protecting the greenbelt from the race's destructive passage. [Wizards Planeswalker's Guide to Aetherdrift Part 1 — Avishkar context, via WebSearch; Scryfall type_line Elf Ranger]",
+      "sources": ["Wizards.com Planeswalker's Guide to Aetherdrift Part 1, via WebSearch", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Greenbelt Guardian costs 2 mana (1G) for a 2/2 Elf Ranger. Its {G} trample-grant is available every turn, making it a persistent enabler for large green creatures in combat. The Exhaust ability — once-per-game {3G} for three +1/+1 counters — turns it into a 5/5 late game finisher. The Exhaust mechanic is new to Aetherdrift; Wizards previewed Greenbelt Guardian directly on January 28, 2025 (noted in Scryfall preview data). EDHREC rank 16,345 — low Commander inclusion; this card lives in Standard green creature builds. [Scryfall: edhrec_rank 16345, keywords Exhaust, preview source Wizards of the Coast 2025-01-28]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Greenbelt Guardian has no prior printings and no flavor text. Artist is Tianxing Xu. The Exhaust mechanic it carries is defined on the card: each exhaust ability may only be activated once, but if the permanent leaves and re-enters the battlefield, it resets as a new object. [Scryfall: reprint: false, flavor_text absent, artist Tianxing Xu, oracle_text]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Llanowar Elves", "set": "Alpha", "note": "The archetype 1G Elf; Greenbelt Guardian fills the 2-drop slot as the next step up in green elf utility"},
+    {"name": "Sylvan Caryatid", "set": "Theros", "note": "Another defensive 2G green creature with ongoing utility; comparison for the 2-drop elf slot"},
+    {"name": "Greenbelt Rampager", "set": "Aether Revolt", "note": "Kaladesh-plane green creature sharing 'Greenbelt' in the name — possible naming continuity between Aether Revolt and Aetherdrift's Avishkar segment"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

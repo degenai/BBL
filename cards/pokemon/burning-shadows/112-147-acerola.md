@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.22
 market_price_as_of: 2026-05-14
 date_added: 2026-05-07
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://images.pokemontcg.io/sm3/112_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -65,4 +65,8 @@ A young humanoid figure stands in a light outdoor setting, wearing a short purpl
 - Plumeria (Burning Shadows, no. 120/147) — same set, completes Alola NPC trifecta
 - Acerola (Burning Shadows, no. 142/147) — Full Art version, art by Megumi Mizutani
 - Mimikyu (various) — Acerola's signature Totem Pokemon from her trial; Ghost-type thematic anchor
+
+## Connections
+
+- [[081-189-mimikyu]] — Named-trainer + signature-Pokemon canonical pair. The Darkness Ablaze (SWSH3, 2020) Mimikyu print (DAA-081, Ryota Murayama art, woodland Pikachu-disguise composition) depicts the species Acerola is canonically partnered with throughout her appearances — her Shiny Mimikyu *Mimikins* (canonically the ghost of a deceased Mimikyu, able to float and pass through solid objects unlike living members of the species) is her named signature Pokemon across Pokemon Sun and Moon (the Totem Mimikyu at her Thrifty Megamart Trial), the Pokemon Sun and Moon anime, and Pokemon Masters EX. The Mimikyu species's canonical loneliness-and-disguise lore composes with Acerola's Aether House caretaker role — the canonical caretaker-of-the-lonely partnered with the lonely-creature-in-disguise. The two cards span two TCG eras (BUS-112 SM3 Sun and Moon 2017 + DAA-081 SWSH3 Sword and Shield 2020) but the underlying trainer-and-Pokemon relationship is single-canonical across all media. `[Bulbapedia: Acerola; Bulbapedia: Mimikyu; Bulbapedia: Mimikins]` `[Pokemon Sun and Moon, Game Freak 2016, primary canon for Thrifty Megamart Trial Totem Mimikyu]`
 

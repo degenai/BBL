@@ -1,0 +1,25 @@
+{
+  "edge_id": "yusuke-ohmura-artist-node-REFUSED",
+  "shape": "refusal",
+  "category": "shared-artist-thematic",
+  "topology": "branch (refused)",
+  "endpoints": [
+    {"type": "artist", "path": "cards/_artists/yusuke-ohmura.md (NOT CREATED)", "name": "Yusuke Ohmura (proposed, refused)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/163-192-oleana.md", "name": "Oleana"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/167-192-sonia.md", "name": "Sonia"},
+    {"type": "card", "path": "cards/pokemon/team-up/144-ingo-emmet.md", "name": "Ingo & Emmet"},
+    {"type": "card", "path": "cards/pokemon/steam-siege/104-pokemon-ranger.md", "name": "Pokemon Ranger"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/168-189-rose.md", "name": "Rose"},
+    {"type": "card", "path": "cards/pokemon/champion-s-path/62-73-professor-s-research--holofoil.md", "name": "Professor's Research"},
+    {"type": "card", "path": "cards/pokemon/brilliant-stars/134-172-cheren-s-care.md", "name": "Cheren's Care"}
+  ],
+  "description": "REFUSED. Worst proposed artist node ever — or, actually, not worst, just unnecessary. Yusuke Ohmura has 7 corpus credits, all spelled consistently as 'Yusuke Ohmura' across every print, zero alias drift. The artist layer's stated purpose per bbl-artists-layer-built is alias disambiguation — Jenn Ravenna Tran exists because Scryfall stored 'Ravenna Tran' on Dominaria-era prints while the printed card credit was 'Jenn Ravenna Tran' / 'Jenn Ravenna,' and the artist_resolve.py helper maps the stored credit to the canonical form at render time. Yusuke Ohmura needs none of this work — the resolver passes through the stored credit unchanged, and there is no canonical-versus-stored divergence to disambiguate. A portfolio-coherence node would carry Discrete Lair value (all 7 credits are trainer / supporter human-portrait cards, a real signature) but that is bundler logic, not edge-graph logic. Edgelord and Mr. Nodeley both decline. The wave-48 refused-with-receipts sign-off pattern carries forward.",
+  "refusal_reason": "Artist nodes serve alias disambiguation; Yusuke Ohmura has zero alias drift across 7 corpus credits. The portfolio-thematic-coherence case (all human-portrait trainer / supporter cards) is real but is bundler-domain not graph-domain and does not require a node. If the bundler ever wants 'all Ohmura-painted trainers' as a Discrete Lair candidacy, the artist field already supports that query without a node.",
+  "files_modified": [],
+  "edgelord_mood": "satisfied",
+  "future_trigger_conditions": [
+    "If a future Collectr CSV import introduces a Yusuke Ohmura credit with a different spelling (Ōmura, Omura, Yusuke Ōmura, or similar), revisit and create the node as an alias-disambiguation entry",
+    "If the bundler workflow specifies that portfolio-thematic-coherence nodes are useful for query, revisit and create as a Discrete Lair candidacy anchor",
+    "If a future Discrete Lair specifically targets 'all Ohmura-painted Pokemon trainers,' the lair itself can reference the artist field directly without a node"
+  ]
+}

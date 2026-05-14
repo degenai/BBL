@@ -1,0 +1,36 @@
+{
+  "card_name": "Broken Wings",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "156",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Broken Wings is a reprint with 10 prior printings. Original printing was Zendikar Rising (ZNR, September 2020). Subsequent reprints include Kaldheim (KHM), Streets of New Capenna (SNC), Dominaria United (DMU), Game Night: Free-for-All (GN3), Commander Masters (CMM), Bloomburrow Commander (BLC), The List (PLST KHM-164), Foundations (FDN), and now Aetherdrift (DFT, February 2025). Each new printing brings fresh art from the set's artist. [Scryfall: reprint: true, prints_search_uri results]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Broken Wings destroys target artifact, enchantment, or creature with flying for 3 mana (2G) — a flexible green hate-card that catches three distinct threat categories in one effect. EDHREC rank 3,893 — the highest-ranked card in this wave's batch by far, indicating meaningful Commander inclusion. Its reprint frequency (10 printings across 5 years) signals Wizards treats it as a format staple worth keeping accessible. [Scryfall: edhrec_rank 3893, reprint: true]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (DFT printing): \"An early lead puts a target on your back.\" — No named speaker. The line reframes the card's effect in the Aetherdrift racing context: the flying creature being destroyed is the race leader, shot down by rivals. This is new DFT-specific flavor text matching the racing set's narrative. [Scryfall: flavor_text field]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Naturalize", "set": "Onslaught", "note": "The classic 2-mana destroy artifact/enchantment — Broken Wings adds the flying-creature clause for 1 more mana"},
+    {"name": "Force of Vigor", "set": "Modern Horizons", "note": "A pushed artifact/enchantment hate card in the same design space; often compared when evaluating Broken Wings's slot"},
+    {"name": "Return to Nature", "set": "Theros Beyond Death", "note": "Same CMC, same three-clause flexible hate — the most direct functional parallel"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

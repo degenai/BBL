@@ -1,0 +1,37 @@
+{
+  "card_name": "Grand Tour Spaceship",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-028",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Grand Tour Spaceship' is the canonical name of the vessel from Dragon Ball GT's opening arc. Dragon Ball Wiki confirms: the Grand Tour Spaceship was designed by Bulma and used by Goku, Trunks, and Pan to retrieve the Black Star Dragon Balls. The card's game text explicitly searches for 'Son Goku: GT', 'Trunks: GT', 'Pan', or 'Giru' — naming the exact GT crew. Vision's three figures (tall-caped, spiky-hair, side-ponytail) match the Trunks/Goku/Pan crew composition. IP verified as Dragon Ball GT franchise.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cross Worlds (DBS-B03, March 2018) is the third main set of the DBS card game and the first to introduce Dragon Ball GT's Black Star Dragon Ball Saga as a featured arc. Characters like Pan and Dr. Myuu debut as named cards in this set, establishing the GT-era as a playable identity distinct from DBS Super-era cards. [Source: WebSearch snippet, dbs-cardgame.com BT3 product page]",
+      "sources": ["https://www.dbs-cardgame.com/asia/product/dbs-b03.php"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The Grand Tour Spaceship's card text lets you search for 'Son Goku: GT', 'Trunks: GT', 'Pan', or 'Giru' with 15,000 or less power — mechanically replicating the story beat where the four crew members are assembled aboard the ship. The card is categorized as an EXTRA card, reflecting its role as deck infrastructure rather than a combat unit. [Source: WebSearch snippet, Big Orbit Cards: BT3-028]",
+      "sources": ["https://www.bigorbitcards.co.uk/dragon-ball-super-tcg/cross-worlds/dragon-ball-super-card-game-cross-worlds-grand-tour-spaceship.html"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Dragon Ball GT, the Grand Tour Spaceship was designed by Bulma and used by Goku (in child form due to Emperor Pilaf's wish), Trunks, and Pan — who joined the crew by sneaking aboard, displacing her father Gohan's intended slot. The ship traveled to over a dozen planets as the crew retrieved Black Star Dragon Balls, with the Earth's one-year countdown as stakes. [Source: Dragon Ball Wiki: Grand Tour Spaceship]",
+      "sources": ["https://dragonball.fandom.com/wiki/Grand_Tour_Spaceship"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sneak Attack Son Goku", "set": "Colossal Warfare", "note": "BT4-026 — GT-era Goku, same character across consecutive sets"},
+    {"name": "Pressure Assault Super Saiyan Son Goku", "set": "Cross Worlds", "note": "BT3-058 — GT Goku from the same BT3 set"},
+    {"name": "Vengeful Onslaught", "set": "Colossal Warfare", "note": "BT4-022 — Trunks: GT also appears here in Baby Saga context"},
+    {"name": "Pan", "set": "Cross Worlds", "note": "Named in Grand Tour Spaceship card text — key GT crew member"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Trunks, Son Goku (child), Pan — Dragon Ball franchise",
+    "ip_confidence": "high"
+  }
+}

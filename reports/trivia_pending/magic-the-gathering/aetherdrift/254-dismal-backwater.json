@@ -1,0 +1,36 @@
+{
+  "card_name": "Dismal Backwater",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "254",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Dismal Backwater is the most reprinted card in this inventory batch: its 20th printing as of Aetherdrift (February 2025), first appearing in Khans of Tarkir (September 2014). It is legal in every major format including Pauper.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The doomed souls of the Speed Demons race in uneasy unity, each one hoping to escape their own fate.\" The Speed Demons are a racing team from Duskmourn composed of possessed racers and their tormentors, described as the advancing edge of Valgavoth's 'mansionization' process across the Multiverse.",
+      "sources": ["Scryfall", "MTG Wiki: Speed Demons"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Wayne Wu's rendering foregrounds Psychopomp iconography (ferryman, glowing soul, skeletal trees) native to the gothic Speed Demons faction, giving the gain land a faction-specific visual identity distinct from prior printings.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dismal Backwater", "set": "Khans of Tarkir", "note": "first printing of this oracle text"},
+    {"name": "Bloodfell Caves", "set": "Aetherdrift (DFT no. 251)", "note": "same gain-land cycle; same set"},
+    {"name": "Speed Demon", "set": "Aetherdrift (DFT)", "note": "faction commander for Speed Demons racing team in flavor text"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

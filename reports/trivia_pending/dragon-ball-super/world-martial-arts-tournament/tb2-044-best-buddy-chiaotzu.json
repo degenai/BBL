@@ -1,0 +1,36 @@
+{
+  "card_name": "Best Buddy Chiaotzu",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-044",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Chiaotzu's white spherical face, circular red cheek markings, and small round body are unique visual identifiers in the Dragon Ball universe — no other character shares this design. Card name confirms. Bandai/Toei-internal IP. Verified. No ## IP callout block required.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Chiaotzu's distinctive appearance — white skin, circular red cheek spots, small round body — is directly based on the Jiangshi (Chinese 'hopping vampire'), a folkloric reanimated corpse from Qing dynasty tradition known for its pale complexion and rigid hopping movement. Akira Toriyama drew on the 1980s Hong Kong Jiangshi film craze (Mr. Vampire, Hello Dracula) as well as the figure of Nezha from Journey to the West for the design. [WebSearch: Screen Rant 'Dragon Ball Z Chiaotzu and Chinese Vampires Explained' / CBR 'What Exactly Is Chiaotzu?']",
+      "sources": ["WebSearch: Screen Rant Dragon Ball Z Chiaotzu Chinese Vampire", "WebSearch: CBR What Exactly Is Chiaotzu"]
+    },
+    {
+      "category": "mechanical",
+      "text": "TB2-044's Auto ability reads: when you combo with this card during your turn, choose up to 1 'Tien Shinhan, Trading Moves' in your Battle Area and switch it to Active Mode. This makes Chiaotzu a 1-cost combo extender that reactivates Tien — mechanically encoding their canonical best-friend bond as a game mechanic. Color: Green, Power: 5000, Energy Cost: 1[G], Combo Energy: 1, Common rarity. [WebSearch: TCGPlayer TB2-044 / WebSearch snippet DBZ Exchange TB2-044]",
+      "sources": ["WebSearch: TCGPlayer Best Buddy Chiaotzu TB2-044", "WebSearch: DBZ Exchange TB2-044"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Chiaotzu and Tien Shinhan are one of Dragon Ball's earliest and most consistent companion pairs — Chiaotzu is the only character who consistently trains alongside Tien across multiple sagas. Despite rarely contributing to major battles after the Saiyan Saga, both characters attended the 28th World Martial Arts Tournament, which is the arc this TB02 set depicts. Their mechanical pairing in the card game (Chiaotzu reactivates Tien) reflects this long-standing narrative bond. [WebSearch: Dragon Ball Wiki Chiaotzu / CBR What Exactly Is Chiaotzu]",
+      "sources": ["WebSearch: Dragon Ball Wiki Fandom Chiaotzu", "WebSearch: CBR What Exactly Is Chiaotzu"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tien Shinhan, Trading Moves (TB2-043)", "set": "World Martial Arts Tournament", "note": "Chiaotzu's Auto directly activates this card — mechanically bonded pair"},
+    {"name": "Wild Tiger, the Imposing (TB2-031)", "set": "World Martial Arts Tournament", "note": "Same set"},
+    {"name": "Chiaotzu (Dawn of the Z-Legends)", "set": "Dawn of the Z-Legends", "note": "Alternate Chiaotzu card from later set — potential reprint/compare"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

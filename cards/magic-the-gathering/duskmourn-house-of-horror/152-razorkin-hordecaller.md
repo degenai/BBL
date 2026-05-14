@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://cards.scryfall.io/png/front/f/7/f7fb0f11-d1d0-4941-a1a7-a2db88f30394.png?1726286414
 art_match_confidence: high
 needs_manual_review: false
@@ -68,4 +68,8 @@ A central figure in dark red plate armor and a ruff-collared tunic charges forwa
 - Diversion Specialist (Duskmourn: House of Horror, no. 132) — the Survivor-side counterpart whose flavor "Hey! Fang-faces! Over here!" is shouted at razorkin antagonists like Hordecaller
 - Irreverent Gremlin (Duskmourn: House of Horror, no. 142) — the only other Gremlin-typed creature in the set; natural pairing partner for the gremlin token stream
 - Meathook Massacre II (Duskmourn: House of Horror) — per MTG Wiki, the razorkin recreated this on-plane after hearing the original Innistrad Meathook Massacre story
+
+## Connections
+
+- [[132-diversion-specialist]] — Razorkin-side vs. Survivor-side of the DSK faction-conflict pillar; Diversion Specialist's flavor `"Hey! Fang-faces! Over here!"` taunts the Razorkin faction Hordecaller leads, and Wizards' Planeswalker's Guide to Duskmourn names Razorkin and Survivors as two of the three canonical Duskmourn factions. `[Wizards: Planeswalker's Guide to Duskmourn; Scryfall flavor_text DSK-132]`
 

@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,7 @@ mood: action
 time_of_day: indeterminate
 setting: other
 artist: Tomasz Jedruszek
+characters: [theros-pantheon]
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/141-infuriate--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/5/85a74392-4056-428c-a807-b062957e838e.jpg?1581480233
 flavor_text: \"Renata launched a dozen arrows into the minotaur's thick hide, but the monster didn't slow its charge. The fury of Mogis was upon it.\"\n—Luphea of Setessa, *Histories*

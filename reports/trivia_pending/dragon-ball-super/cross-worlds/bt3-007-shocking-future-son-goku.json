@@ -1,0 +1,37 @@
+{
+  "card_name": "Shocking Future Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-007",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Son Goku' and is tagged as character Son Goku: GT in the Black Star Dragon Ball Saga era per official DBS card database. The depicted spiky-haired fighter in blue gi with golden energy aura matches Son Goku's canonical GT-era appearance. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT3-007 is a Common Red Battle card in Dragon Ball Super Card Game set Cross Worlds (DBS-B03), released March 9, 2018. It carries the character tag 'Son Goku: GT' and is placed in the Black Star Dragon Ball Saga era — the opening arc of Dragon Ball GT where adult Goku is reverted to a child body and travels the universe with Pan and Trunks hunting Black Star Dragon Balls. [Source: official DBS card database, dbs-cardgame.com]",
+      "sources": ["dbs-cardgame.com card list", "WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's skill lets the player tutor another Son Goku: GT card with 5000 or less power from the deck at the end of a combo battle, making it a search engine for GT Goku chains in Red decks. Power is 10000 with 2 red energy cost and 1 combo energy. [Source: dbs-cardgame.com / DBZ Exchange product listing]",
+      "sources": ["DBZ Exchange product listing", "WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Cross Worlds was the first DBS card game set to integrate Dragon Ball GT characters at scale alongside DBS-era characters — the set's designer note cites cross-franchise deck construction diversity as the core design goal, with GT's Black Star Dragon Ball Saga and the Dark Demon Realm Saga both represented in the same 135-card set. [Source: dbs-cardgame.com designer's note]",
+      "sources": ["dbs-cardgame.com designer's note", "WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pan (BT3-009)", "set": "Cross Worlds", "note": "Pan is Goku's granddaughter and one of the three protagonists of the GT Black Star Dragon Ball Saga — the arc this card belongs to"},
+    {"name": "Reliable Trunks (BT3-010)", "set": "Cross Worlds", "note": "Trunks is the third member of the GT traveling trio with Goku and Pan"},
+    {"name": "Handy Giru (BT3-013)", "set": "Cross Worlds", "note": "Giru accompanies Goku's party and shares the Black Star Dragon Ball Saga era"},
+    {"name": "Explosive Spirit Son Goku (BT3-088)", "set": "Cross Worlds", "note": "Super Rare Son Goku card from same set — alternate Goku art in higher rarity slot"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

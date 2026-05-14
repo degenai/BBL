@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://cards.scryfall.io/png/front/a/c/acc9b17c-4210-49f4-a920-b1dc9dfa950f.png?1726286339
 art_match_confidence: high
 needs_manual_review: false
@@ -65,4 +65,8 @@ A figure in athletic workout attire — sleeveless top, shorts over leggings, sn
 - Peer Past the Veil (Duskmourn: House of Horror, no. 226) — also illustrated by Tuan Duong Chu in DSK; artist-cohort link.
 - Horrid Vigor (Duskmourn: House of Horror, no. 184) — already triviabot-enriched in this corpus; same set-thesis context.
 - Manifest Dread (Duskmourn: House of Horror, no. 189) — DSK suspense-mechanic card in the corpus; shares the "suspense over shock" design pillar.
+
+## Connections
+
+- [[152-razorkin-hordecaller]] — Survivor-side vs. Razorkin-side of the DSK faction-conflict pillar; Diversion Specialist's flavor text `"Hey! Fang-faces! Over here!"` is shouted directly at the Razorkin faction Hordecaller leads, and Wizards' Planeswalker's Guide to Duskmourn names Razorkin and Survivors as two of the three canonical Duskmourn factions. `[Wizards: Planeswalker's Guide to Duskmourn; Scryfall flavor_text DSK-132]`
 

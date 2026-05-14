@@ -1,0 +1,36 @@
+{
+  "card_name": "Dependable Dynasty Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Expansion Deck Box Set 08: Magnificent Collection - Forsaken Warrior",
+  "collector_number": "BT4-078",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Son Goku'. Figure in orange-and-blue gi with spiky dark hair in base form running toward viewer matches Son Goku's canonical design. Collector number BT4-078 traces to Colossal Warfare (Saiyan Saga era). Verified via card name and Bandai official card database.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT4-078 originates in Colossal Warfare (BT4), the fourth main booster set for the Dragon Ball Super Card Game, and was reprinted as a promotional card (PR) in Magnificent Collection: Forsaken Warrior (DBS-BE08), a 2019 expansion box set themed around Broly. The Forsaken Warrior product released November 22, 2019, and includes 18 new promo cards alongside a Broly structure deck. [TCGplayer: Magnificent Collection Forsaken Warrior product page]",
+      "sources": ["TCGplayer: Expansion Deck Box Set 08 product page", "Wild Things Games retailer listing BT4-078 PR"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card is a Yellow Battle card with Power 15,000 and energy cost 2 Yellow. Its skill is Swap 3 (YY): 'Goku's Lineage' with energy cost 3 — allowing the player to exchange it from the field for a higher-cost Goku's Lineage card from hand and return Dependable Dynasty Son Goku to hand. This swap-chain mechanic makes it a value-setting tool in Goku's Lineage ramp strategies. [Pricecharting.com card entry BT4-078; Wild Things Games retailer listing]",
+      "sources": ["Pricecharting.com: Dependable Dynasty Son Goku BT4-078", "Wild Things Games BT4-078 PR listing"]
+    },
+    {
+      "category": "design",
+      "text": "The card's 'Saiyan Saga' era designation places this Goku specifically in his early-Dragon Ball Z power tier — pre-Super Saiyan, pre-Namek — consistent with the base-form art and the 'Dependable Dynasty' title framing him as the founding figure of a warrior lineage rather than a peak-power form. [Pricecharting.com card entry BT4-078]",
+      "sources": ["Pricecharting.com: Dependable Dynasty Son Goku BT4-078"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Unbreakable Super Saiyan Son Goku", "set": "Mythic Booster (SD2-03)", "note": "Same character, Super Saiyan escalation — natural pair"},
+    {"name": "Son Gohan, Family of Justice", "set": "Galactic Battle (BT1-062)", "note": "Goku's Lineage — son/heir"},
+    {"name": "Father-Son Galick Gun", "set": "Union Force (BT2-063)", "note": "Family/lineage theme parallels Goku's Lineage mechanic"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

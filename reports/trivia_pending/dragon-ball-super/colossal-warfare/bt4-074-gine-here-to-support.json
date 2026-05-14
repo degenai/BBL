@@ -1,0 +1,37 @@
+{
+  "card_name": "Gine, Here to Support",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-074",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Gine is a named canonical character in Dragon Ball Super and Dragon Ball Super: Broly. The card name 'Gine, Here to Support' explicitly names her. The vision description — female Saiyan with short dark hair, orange/brown bodysuit, monkey tail, cheerful waving pose — matches Gine's canonical design exactly (she is depicted with a low-class Saiyan combat suit and tail, known for her gentle and warm personality unique among Saiyans). ip_confidence already high, confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Gine first appeared in the manga special Dragon Ball Minus: The Departure of the Fated Child (April 2014) before being animated in Dragon Ball Super: Broly (2018). As Goku's mother and Bardock's mate, she is notable as one of the few Saiyans depicted with genuine emotional bonds — her kindness is cited as the source of Goku's own gentle nature. [CBR: Dragon Ball — Everything We Know About Goku's Mother, Gine]",
+      "sources": ["CBR: Dragon Ball — Everything We Know About Goku's Mother, Gine"]
+    },
+    {
+      "category": "design",
+      "text": "BT4-074's oracle text: [Auto] When you attack or combo with this card, if your Leader Card is yellow, place up to 3 cards from the top of your deck in your Drop Area. This milling effect suits Gine's narrative role — a support figure who 'gives up' resources (cards, her son) so others can grow stronger. The 15000 power / 5000 combo statline is standard yellow support. [DBZ Exchange: BT4-074 card listing]",
+      "sources": ["DBZ Exchange: BT4-074 card listing"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Gine and Bardock are described in Dragon Ball Super as 'among the rare Saiyans who are joined by an emotional bond as opposed to a practical reproductive purpose' — making their relationship canonically unique in a species that Toriyama depicted as broadly indifferent to family. Goku inherited his kindness from her. [Dragon Ball official site: Weekly Character Showcase — Gine]",
+      "sources": ["Dragon Ball official site: Weekly Character Showcase #74 — Gine"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Indomitable Dynasty SS Son Goku", "set": "Colossal Warfare", "note": "BT4-077 — Gine's son on the same card in the same set"},
+    {"name": "Deadly Golden Great Ape Son Goku", "set": "Colossal Warfare", "note": "BT4-080 — alternate Goku form in same set"},
+    {"name": "Bardock", "set": "various DBS sets", "note": "Gine's mate; appears across multiple BT sets as a named leader"},
+    {"name": "Sacrifice", "set": "Colossal Warfare", "note": "BT4-070 — thematic parallel: sacrifice as a form of love"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Gine (Dragon Ball Super)",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "card_name": "Trunks // Iron Vow Trunks",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-023",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, type line (Saiyan/Earthling / Hirudegarn Saga), and characteristic lavender spiky hair in teal jacket confirm this is Trunks (youth). The card is explicitly titled 'Trunks // Iron Vow Trunks' — the character name is on the card itself.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT4-023 is a dual-sided Leader card from Colossal Warfare (DBS-B04), the fourth main booster set for the Dragon Ball Super Card Game, released July 13, 2018 — at the time the largest DBS set with 218 total cards (124 unique) [Cardmarket: Colossal Warfare, The Games Corner release listing]. The set drew heavily on the Hirudegarn Saga from Dragon Ball Z: Wrath of the Dragon (1995 film), anchoring Trunks as the primary blue-energy Leader for that saga.",
+      "sources": ["Cardmarket: Colossal Warfare", "The Games Corner release listing", "WebSearch: DBS BT4 release date 2018"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a Leader card, BT4-023 flips to 'Iron Vow Trunks' (15,000 power) when life drops to 4 or less — the Awaken threshold. The reverse side's end-of-turn ability switches both an eligible blue Battle Card and one energy to Active Mode, making Iron Vow Trunks a strong blue-energy-acceleration engine in the Hirudegarn Saga leader slot [dbs-cardgame.com official card list, ToyWiz product listing].",
+      "sources": ["dbs-cardgame.com official card list", "ToyWiz product listing", "WebSearch: BT4-023 mechanics"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The sword Tapion gives to the young Trunks at the end of Dragon Ball Z: Wrath of the Dragon is widely noted to resemble Future Trunks's iconic blade — Tapion's line that the sword 'always belonged to Trunks' is an in-universe nod to the connection between the two timelines, though the film sits outside the main manga canon [Wikipedia: Dragon Ball Z: Wrath of the Dragon, CBR: Where Did Trunks Get His Sword]. This context explains why BT4 pairs Trunks specifically with the Hirudegarn Saga cards rather than a Saiyan Saga leader.",
+      "sources": ["Wikipedia: Dragon Ball Z: Wrath of the Dragon", "CBR: Where Did Trunks Get His Sword", "GameRant: Dragon Ball: Where Did Future Trunks Get His Sword"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Oath's Power, Tapion", "set": "Colossal Warfare", "note": "BT4-039 — Tapion is the narrative core of the Hirudegarn Saga that Trunks leads in BT4"},
+    {"name": "Impenetrable Defense Hirudegarn", "set": "Colossal Warfare", "note": "BT4-037 — the saga's kaiju centerpiece, the force Trunks ultimately helps defeat"},
+    {"name": "Hoi, Emissary of Flame", "set": "Colossal Warfare", "note": "BT4-042 — the villain who sets the Hirudegarn Saga in motion"},
+    {"name": "Hidden Darkness Tapion", "set": "Colossal Warfare", "note": "BT4-040 — paired narrative to the Trunks leader; Tapion's inner demon visualized"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

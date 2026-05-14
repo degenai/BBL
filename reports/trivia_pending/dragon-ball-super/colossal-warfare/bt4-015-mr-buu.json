@@ -1,0 +1,36 @@
+{
+  "card_name": "Mr. Buu",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-015",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name reads 'Mr. Buu'. Mr. Buu (Good Buu) is the reformed pink Majin who befriended Mr. Satan and became an ally of the Z Fighters after splitting from his evil counterpart at the end of the Dragon Ball Z Buu Saga. The pink rotund antennae'd figure with yellow-white outfit matches the canonical visual of Good Buu universally. Identity unambiguous from card name and distinctive visual design.",
+  "trivia_bullets": [
+    {
+      "category": "mechanical",
+      "text": "BT4-015 is a red Common Battle card: 10000 power, 5000 combo power. Era: Baby Saga. Mr. Buu appears in BT4's Baby Saga framing as one of the few characters resistant to Baby's possession — Baby infected most of Earth but not Good Buu or Mr. Satan, who remained uncontrolled allies during that arc. [Source: WebSearch snippets via LevelUpGamesmd BT4-015 listing; WebSearch: Baby Dragon Ball GT lore]",
+      "sources": ["LevelUpGamesmd: BT4-015 listing", "WebSearch: Baby Dragon Ball GT Tuffle parasite villain Wiki"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Mr. Buu (Good Buu) split from Kid Buu / Evil Buu through fission at the end of Dragon Ball Z's Buu Saga. He bonded with Mr. Satan and retired from destruction, eventually becoming a student of Mr. Satan's martial arts school and a recurring Z Fighter. His appearance in BT4's Baby Saga era cards is lore-consistent: he was one of few not possessed by Baby. [Source: WebSearch snippet via dragonball.fandom.com Good Buu page; Wikipedia: Majin Buu]",
+      "sources": ["Wikipedia: Majin Buu", "dragonball.fandom.com: Good Buu (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Good Buu's distinctive visual identity — pink, rotund, antennae, yellow-white outfit — is one of the most recognizable silhouettes in Dragon Ball. The DBS TCG distinguishes between Majin Buu forms (Kid Buu, Super Buu, Good Buu / Mr. Buu) across different cards and eras. BT4-015 uses the 'Mr. Buu' name specifically, signifying the post-reformation Good Buu incarnation rather than his earlier destructive forms. [Source: WebSearch snippet via Game Rant: All of Buu's Transformations Explained]",
+      "sources": ["Game Rant: Dragon Ball All of Buu's Transformations Explained"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Baby // Rampaging Great Ape Baby", "set": "Colossal Warfare", "note": "BT4-002 — the Baby Saga antagonist; Mr. Buu was one of the few resistant to Baby's possession"},
+    {"name": "Energy Boosted Majin Buu", "set": "Galactic Battle", "note": "BT1-047 — an earlier Buu form card for cross-set comparison of how Buu is represented across DBS TCG"},
+    {"name": "Majin Buu: Kid", "set": "Ultra Limit (Fusion World)", "note": "FB04-095 — Kid Buu incarnation in the newer Fusion World system; demonstrates range of Buu card forms across DBS card products"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "card_name": "Bloodfell Caves",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "251",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Bloodfell Caves is part of the cycle of ten gain lands first printed in Khans of Tarkir (September 2014). The Aetherdrift printing is its 15th appearance across MTG sets.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"To the Endriders, racing is worship. Their prayers rise on the howls of straining engines. Explosions punctuate their chorus of shouts, forming a hymn of glory to the open road and all roads to come.\" The Endriders are nomadic apocalypse-punk warriors from Gastal, a dying plane of permanent sunset.",
+      "sources": ["Scryfall", "MTG Wiki: Endriders"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Ron Spencer is one of the original 25 Magic: The Gathering artists from Alpha (1993). He was largely inactive throughout the 2010s before returning with Double Masters; Aetherdrift represents his continued comeback.",
+      "sources": ["MTG Wiki: Ron Spencer"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rugged Highlands", "set": "Aetherdrift (DFT)", "note": "same gain-land cycle, red-green pair; same set"},
+    {"name": "Swiftwater Cliffs", "set": "Aetherdrift (DFT)", "note": "same gain-land cycle, blue-red pair; same set"},
+    {"name": "Bloodfell Caves", "set": "Khans of Tarkir", "note": "first printing of this oracle text"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

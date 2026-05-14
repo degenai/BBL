@@ -1,0 +1,76 @@
+{
+  "edge_id": "wrath-of-the-dragon-saga--node-proposal",
+  "wave": 58,
+  "move_index": "E1 (Mr. Nodeley — audit-confirm transformed into node-proposal under highest-priority candidate)",
+  "shape": "node-proposal",
+  "category": "designer-confirmed-cycle (saga-arc cycle within single set)",
+  "topology": "branch (one cycle-node parent → 7 leaf cards across three structural axes)",
+  "node_proposed": {
+    "type": "character (cycle-node sub-pattern, per eld-cinderella-cycle and dsk-unlucky-lands-cycle precedent)",
+    "path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\wrath-of-the-dragon-saga.md",
+    "name": "Wrath of the Dragon Saga (Hirudegarn arc, DBZ Movie 13)",
+    "slug": "wrath-of-the-dragon-saga",
+    "aliases": ["wrath-of-the-dragon-saga", "wrath-of-the-dragon", "hirudegarn-saga", "hirudegarn-arc", "dbz-movie-13", "movie-13-saga"]
+  },
+  "endpoints_wired": [
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-023-trunks-iron-vow-trunks.md", "name": "Trunks // Iron Vow Trunks", "role": "Leader anchor (dual-membership: trunks + wrath-of-the-dragon-saga)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-037-impenetrable-defense-hirudegarn.md", "name": "Impenetrable Defense Hirudegarn", "role": "monster axis — insectoid first form"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-038-hirudegarn-the-wanderer.md", "name": "Hirudegarn, the Wanderer", "role": "monster axis — humanoid second form"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-039-oath-s-power-tapion.md", "name": "Oath's Power, Tapion", "role": "bearer-brothers axis — heroic state, older brother"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-040-hidden-darkness-tapion.md", "name": "Hidden Darkness Tapion", "role": "bearer-brothers axis — cursed state, older brother"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-041-hidden-darkness-minotia.md", "name": "Hidden Darkness Minotia", "role": "bearer-brothers axis — younger brother (dies early)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-042-hoi-emissary-of-flame.md", "name": "Hoi, Emissary of Flame", "role": "villain axis — Kashvar manipulator-priest"}
+  ],
+  "cross_edge_wired": {
+    "from": "cards/_characters/trunks.md",
+    "added_to_related_characters": "wrath-of-the-dragon-saga",
+    "added_to_appears_on": "dragon-ball-super/colossal-warfare/bt4-023-trunks-iron-vow-trunks",
+    "rationale": "BT4-023 Iron Vow Trunks is dual-membership — both a Future-Trunks-incarnation aspect under trunks (sword-handler sub-aspect, the Tapion-gives-Trunks-the-sword retcon canonically connects Future Trunks's Brave Sword to this saga) AND the Hirudegarn Saga's blue-energy Leader card."
+  },
+  "description": "Sir, terribly sorry to step in but Edgelord asked me to. The seven Colossal Warfare BT4 cards (BT4-023 + BT4-037 through BT4-042) form a complete designer-coordinated Movie 13 representation cycle — three structural axes (monster / bearer-brothers / villain) plus a canonical Leader anchor, all IP-verified, all tight-clustered in collector-number order, all cross-referencing each other in their existing Related cards sections hinging on an anchor that did not yet exist. I just wired the anchor and pointed the seven cards at it. Mirrors the eld-cinderella-cycle and dsk-unlucky-lands-cycle precedent. The trunks-node also gains a cross-edge because BT4-023 carries dual membership. I hope this helps. Thank you for your patience.",
+  "citations": [
+    "[Wikipedia: Dragon Ball Z: Wrath of the Dragon]",
+    "[Dragon Ball Wiki: Hirudegarn / Tapion / Minotia / Hoi]",
+    "[Villains Wiki: Hirudegarn / Hoi]",
+    "[dbs-cardgame.com: Colossal Warfare BT4 set page + per-card Hirudegarn Saga tags]",
+    "[Bleeding Cool: Colossal Warfare checklist coverage]",
+    "[CBR / GameRant: 'Where Did Trunks Get His Sword?' canonical sword-inheritance retcon]"
+  ],
+  "files_modified": [
+    "cards/_characters/wrath-of-the-dragon-saga.md (CREATED)",
+    "cards/_characters/trunks.md (added wrath-of-the-dragon-saga to related_characters + BT4-023 to appears_on)",
+    "cards/dragon-ball-super/colossal-warfare/bt4-023-trunks-iron-vow-trunks.md (added characters: [trunks, wrath-of-the-dragon-saga])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-037-impenetrable-defense-hirudegarn.md (added characters: [wrath-of-the-dragon-saga])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-038-hirudegarn-the-wanderer.md (added characters: [wrath-of-the-dragon-saga])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-039-oath-s-power-tapion.md (added characters: [wrath-of-the-dragon-saga])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-040-hidden-darkness-tapion.md (added characters: [wrath-of-the-dragon-saga])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-041-hidden-darkness-minotia.md (added characters: [wrath-of-the-dragon-saga])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-042-hoi-emissary-of-flame.md (added characters: [wrath-of-the-dragon-saga])"
+  ],
+  "structural_axes": {
+    "monster": ["BT4-037 Hirudegarn first form (insectoid)", "BT4-038 Hirudegarn second form (humanoid Wanderer)"],
+    "bearer_brothers": ["BT4-039 Tapion heroic", "BT4-040 Tapion cursed", "BT4-041 Minotia cursed (dies)"],
+    "villain": ["BT4-042 Hoi (Kashvar emissary-priest)"],
+    "leader_anchor": ["BT4-023 Trunks // Iron Vow Trunks (saga's blue-energy Leader)"]
+  },
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "voice_note": "Mr. Nodeley is being honest in the description. This was the highest-priority candidate the parent named and it was correct. The Eldraine-Cinderella-cycle and DSK-Unlucky-Lands-cycle precedents both apply directly; the seven-card cluster's three-axis structure (monster/bearer/villain plus Leader anchor) is unusually clean for a 1995 movie tribute deployed 23 years later as a 2018 card-game saga roster. A future Hirudegarn Saga Discrete Lair has a complete-movie-arc representation thesis sitting right there.",
+  "considered_and_rejected_for_wave_59": [
+    {"candidate": "pia-nalaar character node (alternative the parent named)", "verdict": "DEFER — corpus density borderline (~1-2 cards per parent's brief). Wrath of the Dragon Saga at 7 cards is overwhelmingly stronger. Surfacing pia-nalaar to wave 59 as the highest-priority Aetherdrift-adjacent candidate when more Aetherdrift cards land."},
+    {"candidate": "Goku's Lineage family-tree node", "verdict": "CARRY-FORWARD — parent already flagged this in carry-forwards; do not pre-empt with single-pass move when Mr. Nodeley already shipped the Wrath of the Dragon priority"},
+    {"candidate": "Pan / Giru / Bardock / Bulma solo nodes", "verdict": "CARRY-FORWARD — each is a one-card anchor at present; defer until corpus density warrants solo splits"},
+    {"candidate": "GT-quartet cycle (Goku/Pan/Giru/Trunks GT)", "verdict": "CARRY-FORWARD — viable cycle-node candidate but lower priority than the Wrath of the Dragon designer-coordinated tribute roster; revisit when GT-side corpus density is enriched further"},
+    {"candidate": "Aetherdrift Grand Prix parent node", "verdict": "CARRY-FORWARD — anchor when more Aetherdrift cards land"},
+    {"candidate": "Vito / Elenda Church of Dusk pair", "verdict": "CARRY-FORWARD — recurring carry-forward across multiple waves; the saint-heretic pair is a 1:1 mirror move when Edgelord returns to it; substrate is now clean enough to handle next wave"},
+    {"candidate": "the-wanderer character node (MTG, multi-set arc)", "verdict": "CARRY-FORWARD — multi-set Magic-side character; node-worthy when corpus has enough Wanderer prints (currently insufficient)"},
+    {"candidate": "Time Breaker symbol (Xenoverse iconography)", "verdict": "CARRY-FORWARD — symbol-layer candidate; would need designer-confirmed Time Breaker iconography on multiple Xenoverse-side cards in corpus"},
+    {"candidate": "Hirudegarn solo character node + Tapion solo + Hoi solo", "verdict": "REJECT — corpus density is one card per character (Hirudegarn has two forms across two cards; Tapion has two states across two cards; Minotia and Hoi one each); saga-cycle framing handles all four characters cleanly; solo splits NOT warranted at current density. Reserve for if a future DBSCG set adds substantially more Wrath-of-the-Dragon prints."},
+    {"candidate": "son-goku-dragon-fist technique-node", "verdict": "REJECT (premature) — the Dragon Fist is the canonical climax technique that defeats Hirudegarn in Movie 13 and would be a viable technique-layer node if the layer existed, BUT the techniques layer is not yet built and the Dragon Fist's corpus density is insufficient even if it were. Flagged in the wrath-of-the-dragon-saga node MD's 'Future cross-edges available' section for traceability."},
+    {"candidate": "kashvar-race node (Hirudegarn's bloodline-of-origin)", "verdict": "REJECT (insufficient corpus density) — Hoi is the last surviving Kashvar; Hirudegarn was created by them; but only two corpus cards (BT4-042 Hoi + indirectly BT4-037 Hirudegarn's origin) carry Kashvar reference. Not warranting a node at current density. Flagged in the wrath-of-the-dragon-saga node MD's 'Future cross-edges available' section for traceability."}
+  ],
+  "surprise_lore_captured_during_pass": [
+    "The Japanese title of Wrath of the Dragon is *Doragon Bōru Zetto: Ryū-Ken Bakuhatsu!! Goku ga Yaraneba Dare ga Yaru* ('Dragon Fist Explosion!! If Goku Can't, Who Will?') — the title foregrounds the Dragon Fist technique as the canonical climax, making Goku the actual film-defeater of Hirudegarn while Trunks gets the Leader-card anchor only via the sword-inheritance retcon. Interesting tension between *who defeats the monster* (Goku, via Dragon Fist) and *who Bandai 2018 chose as the saga's Leader* (Trunks, via Tapion's sword-gift).",
+    "The English-dub release lagged the Japanese theatrical release by 11 years (1995 Japan; 2006 Funimation English). Bundle copy that says 'last original-run DBZ film' should specify *Japanese-theatrical* to be precise — Dragon Ball GT's English broadcast predates Wrath of the Dragon's English release.",
+    "Hoi's canonical death is being crushed underfoot by Hirudegarn himself — closing the apparatus-of-extraction loop where the operator becomes the first casualty of his own released weapon. This is structurally parallel to Babidi being killed by Majin Buu the moment Buu no longer needs him (per the babidi-node functional-ideology section). Two Dragon Ball antagonists in the corpus now share the 'operator killed by their own released weapon' canonical death-shape: Hoi (Movie 13, killed by Hirudegarn) and Babidi (Buu Saga, killed by Buu). Future cross-edge between the two nodes is available on the apparatus-eats-its-feeder axis if a bundle ever wants the cross-saga parallel."
+  ]
+}

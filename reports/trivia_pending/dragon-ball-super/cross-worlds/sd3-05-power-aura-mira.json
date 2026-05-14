@@ -1,0 +1,37 @@
+{
+  "card_name": "Power Aura Mira",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "SD3-05",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Mira' — canonical. Blue-skinned humanoid with white spiky hair, red eyes, and white/gold chest-plated outfit is Mira's definitive published design. Dragon Ball Wiki confirms Mira is an artificial being from the Demon Realm with blue skin and white hair, confirmed Toriyama-designed. Card name plus visual match confirms identity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Mira is an artificial being created by Towa from the Demon Realm. He is a composite of multiple warrior DNA strands — Earthling, Demon Realm race, Android components, and confirmed Saiyan DNA — built with the explicit goal of becoming the strongest being in the universe. His goal of collecting Goku's DNA drives the main plot of the Xenoverse games. [Dragon Ball Wiki: Mira, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: Mira, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Mira was confirmed as a Toriyama-designed character by Dragon Ball Xenoverse producer Masayuki Hirano. He originated in Dragon Ball Online (2010) and was the final boss of both Xenoverse 1 and Xenoverse 2's main stories. His chest emblem (teal, visible on the card) is consistent across all canonical Mira appearances. [CBR: 10 Things About Mira, via WebSearch]",
+      "sources": ["CBR: 10 Things About Mira, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As SD3-05, Mira is the fifth card in the Dark Invasion starter deck — positioned as the deck's power-declaration finisher after Trunks (SD3-03) and Masked Saiyan (SD3-04) establish the board. The starter deck's design mirrors the Xenoverse narrative: Masked Saiyan as the threat that draws out the heroes, Mira as the final boss lurking behind it. [WebSearch: DBS SD3 Dark Invasion product listing; WebSearch: Series 3 roundup strategy]",
+      "sources": ["WebSearch: DBS SD3 Dark Invasion product listing", "WebSearch: Series 3 roundup strategy page"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Towa, Space Time Unleashed", "set": "Cross Worlds", "note": "Towa created Mira; they operate as a unit across Dragon Ball Online and Xenoverse"},
+    {"name": "Encroaching Threat Masked Saiyan", "set": "Cross Worlds", "note": "Masked Saiyan Bardock is Mira and Towa's enslaved weapon in the Dark Empire arc"},
+    {"name": "Dark Plot", "set": "Cross Worlds", "note": "Event card naming the Mira/Towa conspiracy Mira embodies"},
+    {"name": "Supreme Kai of Time, World's Protector", "set": "Cross Worlds", "note": "Chronoa opposes Mira and Towa as the Time Patrol's commander"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

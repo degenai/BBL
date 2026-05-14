@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.27
 market_price_as_of: 2026-05-14
 date_added: 2026-05-05
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -73,4 +73,8 @@ Tight portrait of an elven planeswalker rendered in profile. Her skin is a warm 
 - Liliana's Triumph (War of the Spark, no. 098) — sibling Triumph-cycle card (black)
 - Chandra's Triumph (War of the Spark, no. 121) — sibling Triumph-cycle card (red)
 - Cultivate (various reprints) — mechanical template ancestor: `{2}{G}` sorcery, search two basic lands, put one onto battlefield and one into hand. Nissa's Triumph is the cheaper-but-conditional-upgrade riff on this lineage.
+
+## Connections
+
+- [[55-jace-s-triumph]] — WAR Gatewatch Triumph cycle siblings; same Kieran Yanner artist, same `{X}{X}` mana-template-with-Nissa/Jace-walker-conditional-upgrade, same `"X's triumph came not from Y, but from Z"` flavor template; the cycle is the in-set callback to the HOU Defeat cycle per MTG Wiki War of the Spark Cycles section. `[MTG Wiki: War of the Spark, Cycles section; Scryfall: WAR Triumph cycle]`
 

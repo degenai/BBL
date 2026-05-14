@@ -1,0 +1,37 @@
+{
+  "card_name": "Trunks, Bridge to the Future (2018)",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-062",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Trunks' and is tagged 'Bridge to the Future.' Official DBS card database tag: character 'Trunks: Future / Saiyan / Earthling,' era 'Future Trunks Saga.' Visual identifiers: short blue-tinted hair (Future Trunks' canonical base-form hair color), dark jacket, red scarf (canonical Future Trunks costume from DBS manga/anime Future Trunks arc), green energy streaks. All identifiers match Future Trunks in base form. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Trunks, Bridge to the Future (BT3-062) is a green Common Battle card from Cross Worlds (DBS-B03, March 9, 2018). Official character tag: 'Trunks: Future / Saiyan / Earthling,' Future Trunks Saga era. The '(2018)' in the card name in this inventory distinguishes it from any later reprints. Its set-search skill makes it a functional tutor for the green Future Trunks archetype in BT3 [Source: dbs-cardgame.com/us-en/cardlist/?search=true&free=BT3-062; dbzexchange.com BT3-062 listing].",
+      "sources": ["dbs-cardgame.com card list (BT3-062)", "dbzexchange.com BT3-062 listing"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT3-062's skill: 'When you play this card, look at up to 2 cards from the top of your deck. Choose up to 1 Saiyan among them and add it to your hand. Then, place the rest of the cards in the Drop Area.' A 1-cost 5000-power Battle card that deck-sculpts on entry — pulling any Saiyan card, not limited to Future Trunks variants. This broad Saiyan tutor range makes it a utility piece in multiple green archetypes [Source: WebSearch snippets from dbzexchange.com and trollandtoad.com BT3-062 listings].",
+      "sources": ["WebSearch snippets: dbzexchange.com, trollandtoad.com BT3-062 listings"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The red scarf and dark jacket depicted are Future Trunks' canonical costume in the Dragon Ball Super Future Trunks arc (2016-2017 anime). Unlike his Dragon Ball Z appearance (where he wears a Capsule Corp jacket), the DBS version of Future Trunks wears the dark jacket and scarf as his signature look throughout the Goku Black arc. The 'Bridge to the Future' title references his role as the literal bridge between present and ruined future timelines — he travels by time machine [Source: CBR: Everything About Future Trunks' Timeline in DBZ; Wikipedia: Dragon Ball Z: The History of Trunks].",
+      "sources": ["cbr.com: Everything About Future Trunks' Timeline in DBZ", "Wikipedia: Dragon Ball Z: The History of Trunks"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Unyielding Justice SS2 Trunks", "set": "Cross Worlds", "note": "BT3-061 — SS2 version of the same character in the same set; base-to-super narrative pair"},
+    {"name": "Future Gohan", "set": "various DBS sets", "note": "Trunks' mentor; trained him and died fighting Androids, catalyzing his first Super Saiyan transformation"},
+    {"name": "Goku Black", "set": "various DBS sets", "note": "The antagonist that forces Trunks to seek help from the past in DBS"},
+    {"name": "Trunks, Bridge to the Future (reprints)", "set": "various", "note": "The '(2018)' tag in inventory marks this as the BT3 original printing — reprints may exist in later sets"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

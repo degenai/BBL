@@ -1,0 +1,37 @@
+{
+  "card_name": "Namekian Duo Saonel",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-057",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names Saonel. Vision shows a muscular green Namekian in dark outfit firing a sustained energy beam — consistent with Saonel's Universe 6 Namekian warrior characterization and his Tournament of Power combat style. Card name 'Namekian Duo' references the paired nature of Saonel and Pilina as the two Namekian representatives of Universe 6 who had absorbed most of their universe's Namekian population.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Saonel is a Namekian from Universe 6 who, along with his partner Pilina (also spelled Pirina), absorbed most of their universe's Namekian population before the Tournament of Power. This made the pair nearly inexhaustible — their ki and regeneration were amplified by the collective power of an entire people. They fought Piccolo and Gohan in a prolonged battle before being eliminated. [WebSearch: Dragon Ball Wiki — Saonel / Pilina]",
+      "sources": ["dragonball.fandom.com/wiki/Saonel via WebSearch", "screenrant.com/dragon-ball-super-universe-6-tournament-power-team-hit-kefla-lost-how/ via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The 'Duo' in the card title references Saonel's inseparable pairing with Pilina throughout the Tournament of Power arc. BT4's Colossal Warfare set (July 2018) drew from the Universe Survival Saga, placing Saonel's card at the end of the Namekian block (BT4-057) — the furthest from the original DBZ-era Namekians (Guru at BT4-052) and the only Universe 6 representative in the cluster. [WebSearch: Bleeding Cool BT4 checklist]",
+      "sources": ["bleedingcool.com/games/dragon-ball-super-card-game-colossal-warfare-checklist/ via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT4-057 is an Uncommon Green card. Saonel and Pilina were notable for their near-limitless stamina in the anime, which could translate to a high-sustain or regeneration-adjacent mechanic in the DBS card game — consistent with the Namekian deck's Bond-based card draw engine highlighted in the BT4 green strategy materials. [dbs-cardgame.com: Series 4 Green Strategy Page]",
+      "sources": ["dbs-cardgame.com/us-en/strategy/series4/green.php"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pilina", "set": "various DBS sets", "note": "Saonel's paired partner; the 'Duo' name implies both; check for Pilina print in BT4"},
+    {"name": "Nail, the Namekian Ace", "set": "Colossal Warfare (BT4-053)", "note": "Part of same consecutive Namekian block; Universe 7 Namekian counterpart"},
+    {"name": "Piccolo, Kami's Successor", "set": "Colossal Warfare (BT4-046)", "note": "Piccolo and Gohan defeated Saonel and Pilina in the Tournament of Power"},
+    {"name": "Newfound Power Son Gohan", "set": "Colossal Warfare (BT4-048)", "note": "Gohan co-fought Saonel/Pilina; both appear in same BT4 green cluster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

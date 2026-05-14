@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401027516/36C0C9BB7663F4CA0644C04F23F6AC7D70E13764/
 image_width: 624
 image_height: 871
@@ -29,7 +29,7 @@ time_of_day: indeterminate
 setting: other
 suspected_ip: Son Gohan (Dragon Ball)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Son Gohan (Colossal Warfare)
@@ -38,8 +38,8 @@ ip_verified: false
 
 ![bt4-028-son-gohan](../../_images/dragon-ball-super/colossal-warfare/bt4-028-son-gohan.png)
 
-> [!warning] Suspected IP: **Son Gohan (Dragon Ball)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Son Gohan (Dragon Ball)**
+> Confirmed via explicit card name. Colossal Warfare includes multiple named Gohan cards (BT4-006, BT4-028, BT4-048, BT4-091). Golden SSJ hair with dark outfit matches Gohan's canonical Super Saiyan form visual. [Bleeding Cool: Colossal Warfare Checklist; DBZ Exchange product listings]
 
 A male figure with golden spiky hair stands in a powered-up combat stance. The golden Super Saiyan hair is clearly visible and prominent. He wears a dark outfit — appears to be a dark gi or jacket. Golden energy blazes around the figure as an aura, with the background washed in warm gold and yellow light. A large dark object is visible in the lower portion of the frame — possibly a boulder, ground element, or knocked-away object — adding scale and impact to the composition. The pose is upright and powerful rather than mid-attack.
 
@@ -54,3 +54,14 @@ A male figure with golden spiky hair stands in a powered-up combat stance. The g
 **Iconography:** super-saiyan, golden-hair, ki-aura
 **Genre cues:** anime
 
+## Trivia
+
+- **Set context** — Colossal Warfare (DBS-B04) features at least four distinct Son Gohan cards across different rarities — BT4-006 (Blaze of Glory), BT4-028, BT4-048 (Newfound Power), and BT4-091 (Adoptive Father) — reflecting how the set draws from multiple Dragon Ball arcs simultaneously alongside its Baby Saga primary theme. [Source: Bleeding Cool: Colossal Warfare Checklist; DBZ Exchange]
+- **Character lore** — Son Gohan is the franchise's most prominent half-Saiyan (son of Goku and the human Chi-Chi). His special trait in the DBS card game is Saiyan/Earthling, reflecting his dual heritage — a combination not available to pure-Saiyan characters, encoding his hybrid identity at the mechanical level. [Source: WebSearch snippet, dbs-cardgame.com card lists]
+- **Design** — Gohan's "hidden power" — a latent potential narratively higher than any pure-Saiyan peer — is a recurring device across DBZ and DBS. His Mystic/Ultimate form (unlocked by Elder Kai in the Buu Saga) surpassed SS3 Goku without a traditional SSJ transformation, making him a design outlier in a franchise built on visible transformation escalation. [Source: GameRant: All Forms of Gotenks — Buu Saga power ceiling context]
+
+### Related cards
+- Blaze of Glory Son Gohan (Colossal Warfare, BT4-006) — rarer Gohan in same set
+- Newfound Power Son Gohan (Colossal Warfare, BT4-048) — Uncommon Gohan in same set
+- Adoptive Father Son Gohan (Colossal Warfare, BT4-091) — Common Gohan variant in same set
+- Fully Trained Super Saiyan Son Gohan (Union Force, BT2-074) — earlier set Gohan, shows character evolution across the card game's timeline

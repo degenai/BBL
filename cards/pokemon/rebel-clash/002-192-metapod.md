@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.46
 market_price_as_of: 2026-05-14
 date_added: 2026-05-08
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://images.pokemontcg.io/swsh2/2_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -30,6 +30,7 @@ setting: other
 suspected_ip: Metapod
 ip_confidence: high
 ip_verified: true
+characters: ["caterpie-line"]
 ---
 
 # Metapod (Rebel Clash)

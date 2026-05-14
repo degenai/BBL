@@ -1,0 +1,37 @@
+{
+  "card_name": "Power-absorbing Luud",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-016",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Luud' with the title 'Power-absorbing' matching Luud's canonical mechanical function — he absorbs organic beings converted to dolls to power himself up. The depicted massive red robotic giant matches Luud's canonical Machine Mutant form from Dragon Ball GT. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Luud is a Machine Mutant created by Dr. Myuu, worshipped as a god of destruction by a manipulated cult on Planet Luud. His power-absorption system works by firing a 'Doll Beam' that converts organic beings into dolls, which are then fed into a cauldron to fuel Luud's energy level. The goal was to power Luud to level 3 — his maximum state — in order to funnel that energy to Baby for his restoration. [Source: Villains Wiki / WebSearch snippet from CBR]",
+      "sources": ["villains.fandom.com/wiki/Luud", "cbr.com/dragon-ball-gt-machine-mutants-strength"]
+    },
+    {
+      "category": "design",
+      "text": "Luud's defeat is notable for involving Pan from inside the machine. After Pan was absorbed and trapped within Luud's core, she and Goku coordinated a simultaneous strike — Pan attacking the nucleus from inside while Goku struck from outside. The card title 'Power-absorbing' directly references his organic-to-energy conversion mechanic. [Source: Villains Wiki / WebSearch]",
+      "sources": ["villains.fandom.com/wiki/Luud"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Luud sits in the Uncommon slot (BT3-016) in Cross Worlds, within the Machine Mutant faction cluster that includes Dr. Myuu (BT3-017) and General Rilldo (BT3-020). The Machine Mutant theme in BT3 is the primary antagonist block for the Black Star Dragon Ball Saga side of the set's cross-franchise narrative. [Source: dbs-cardgame.com card list / WebSearch snippet]",
+      "sources": ["dbs-cardgame.com card list", "WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dr.Myuu, Under Baby's Control (BT3-017)", "set": "Cross Worlds", "note": "Myuu created Luud; Luud's energy output was funneled toward Baby"},
+    {"name": "Pan (BT3-009)", "set": "Cross Worlds", "note": "Pan was absorbed inside Luud and fought back from within his core"},
+    {"name": "Hidden Ability, General Rilldo (BT3-020)", "set": "Cross Worlds", "note": "Rilldo is another Machine Mutant commander from the same M-2 faction as Luud"},
+    {"name": "Handy Giru (BT3-013)", "set": "Cross Worlds", "note": "Giru is also a Machine Mutant from M-2 but defected to heroes' side"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

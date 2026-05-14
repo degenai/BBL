@@ -16,6 +16,7 @@ appears_on:
   - magic-the-gathering/ravnica-allegiance/252-orzhov-guildgate-252
   - magic-the-gathering/modern-horizons-3/21-charitable-levy
   - magic-the-gathering/modern-horizons-3/31-indebted-spirit
+  - magic-the-gathering/murders-at-karlov-manor/230-sanguine-savior
 related_hubs: [labor]
 related_symbols: [orzhov-signet]
 related_characters: [macro-cosmos]
@@ -42,6 +43,8 @@ Card art and flavor text that depicts the Orzhov as an *institution*: its operat
 - **Charitable Levy** (MH3-21, uncommon, Eli Minaya art) — tithe-extraction scene from the operational end. Two robed figures with arms upraised as Orzhov gold-coinage rains down on a village beneath a brightening sky. Mechanically `{2}{W}` white-magic enchantment with a noncreature-spell tax (every noncreature spell costs `{1}` more, collection counters accumulate until the tithe sacrifices into a Plains-tutor card-draw) — the rules-text rendering of the syndicate's extraction-as-tax operational template. The card has no Orzhov watermark (it's mono-white in *Modern Horizons 3* rather than a Ravnica-block guild-watermarked printing), but the iconographic register — falling coinage, raised-arm village figures, tithe-and-collection-counter mechanic — is unambiguously the syndicate's operational vocabulary.
 
 - **Indebted Spirit** (MH3-31, uncommon, L.A. Draws art) — a skeletal robed spirit holding a spiked scepter and an unrolled scroll, draped in flowing white robes in a torchlit stone interior. Mechanically `{1}{W}` Spirit with Bestow `{2}{W}` and Afterlife 1, and the enchanted creature gains +1/+1 and Afterlife 1. **Afterlife is the Orzhov guild's signature *Ravnica Allegiance* keyword** (introduced in the 2019 Ravnica block as the institutional-thesis mechanic for the syndicate: dying creatures produce a 1/1 white-black Spirit token, encoding the doctrine that death does not discharge service). The card's flavor register (skull, scroll, scepter, bureaucratic dread) and its core keyword together place this as a canonical Orzhov institutional-rhetoric printing despite the mono-white *Modern Horizons 3* color identity.
+
+- **Sanguine Savior** (MKM-230, common, Valera Lutfullina art) — a winged Vampire Cleric carries an unconscious companion through foggy gothic skies above Ravnica; `{W/B}` Vampire Cleric with Flying, Lifelink, and Disguise `{W/B}{W/B}`. The eclipsed-sun signet is embossed on the carrier's chest armor (medallion-of-master form per the canonical Orzhov Signet duality, indicating chosen / status-marker rather than branded / debt-marker) and visible again on a distant spire in the background skyline. The card is a *Murders at Karlov Manor* dual-coded case: institutionally Orzhov by guild iconography AND operationally an Agency Detective by set-role per `[Bulbapedia: MKM Disguise mechanic; MTG Wiki: R.A.M.I.]`. Anchors both this node and the [[agency]] character node, plus the [[orzhov-signet]] symbol node — the post-Phyrexian-Invasion cross-guild Agency staffing pattern surfaced in a single character's iconography.
 
 ## The functional ideology
 

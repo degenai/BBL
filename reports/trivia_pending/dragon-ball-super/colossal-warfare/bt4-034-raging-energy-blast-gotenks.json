@@ -1,0 +1,36 @@
+{
+  "card_name": "Raging Energy Blast Gotenks",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-034",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name includes 'Gotenks' explicitly, confirming identity. Vision describes voluminous golden spiky hair more expansive than standard SSJ — consistent with Gotenks's distinctive silhouette as a fusion whose hair volume exceeds either component. The wide-armed energy release pose matches Gotenks's theatrical combat style. Gotenks is the Fusion Dance product of Goten and Trunks.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Gotenks is the Fusion Dance product of Son Goten and Trunks, first introduced in Dragon Ball Z's Majin Buu Saga. He is the only character besides Goku to achieve Super Saiyan 3 in the original series — a feat he accomplished while training in the Hyperbolic Time Chamber under Piccolo's direction. [Source: GameRant: All Forms of Gotenks; Gotenks Is Born, Dragon Ball Wiki]",
+      "sources": ["https://gamerant.com/dragon-ball-all-forms-gotenks/", "https://dragonball.fandom.com/wiki/Gotenks_Is_Born"]
+    },
+    {
+      "category": "design",
+      "text": "Gotenks's combat personality is a blend of Goten's warmth and Trunks's arrogance — resulting in a character who trash-talks opponents and invents absurd technique names like 'Super Ghost Kamikaze Attack.' This comedic excess made him the Buu Saga's primary tonal counterweight to the arc's otherwise dire stakes. [Source: CBR: Dragon Ball Super Has Utterly Wasted Gotenks]",
+      "sources": ["https://www.cbr.com/dragon-ball-super-gotenks/"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Colossal Warfare (DBS-B04, July 2018) includes Gotenks within its card roster alongside Baby Saga cards — the set draws from multiple arcs simultaneously, with Gotenks representing Buu Saga power levels as a contrast anchor to GT's Baby cluster. [Source: dbs-cardgame.com product page]",
+      "sources": ["https://www.dbs-cardgame.com/asia/product/dbs-b04.php"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Son Goten", "set": "Colossal Warfare", "note": "Fusion component — appears as Battle Card in BT4"},
+    {"name": "Trunks: GT", "set": "Colossal Warfare", "note": "Fusion component — also appears as Baby Saga Battle Card in same set"},
+    {"name": "Gotenks vs. Majin Buu", "set": "Dragon Ball Z (anime)", "note": "Narrative origin — the Buu Saga fight that established Gotenks's power ceiling"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Gotenks (Dragon Ball Z)",
+    "ip_confidence": "high"
+  }
+}

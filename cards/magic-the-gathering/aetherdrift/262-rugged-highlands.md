@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-14
 date_added: 2026-05-10
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://cards.scryfall.io/png/front/7/3/73b7484f-923c-46c5-95bf-c2c6706c0d48.png?1738356938
 art_match_confidence: high
 needs_manual_review: false
@@ -49,4 +49,16 @@ A wide outdoor scene depicts a wild, uncultivated landscape under a warm hazy sk
 **Emotion read:** kinetic, restless, frontier energy
 **Objects:** vehicles, dust-clouds, exhaust, rocks, scrub-brush
 **Genre cues:** fantasy, post-apocalyptic, racing
+
+## Trivia
+
+- **Set context** — Rugged Highlands is part of the Khans of Tarkir gain-land cycle (first print September 2014); the Aetherdrift version is its 17th printing [Scryfall]. Legal in Pauper and all major constructed formats, it is a format-stable budget dual for red-green decks.
+- **Flavor text / faction** — `"The Goblin Rocketeers want nothing more than to push the limits of kinetic energy and see if their machines can go the farthest, fastest, first."` `[Scryfall]` The Goblin Rocketeers are a racing team who arrived on Avishkar through a temporary Omenpath from an unknown plane; their captain is Redshift. The faction's alliterative philosophy ("farthest, fastest, first") functions as a mission statement [MTG Wiki: Goblin Rocketeers].
+- **Design** — Artist Florian de Gesincourt renders the Rugged Highlands as a live race course in progress — vehicles visible mid-frame kicking up dust — rather than the card's usual "empty landscape" treatment, integrating the Goblin Rocketeers faction identity directly into the land art.
+
+### Related cards
+- Bloodfell Caves (Aetherdrift, DFT no. 251) — same gain-land cycle, same set
+- Swiftwater Cliffs (Aetherdrift, DFT no. 265) — same gain-land cycle, same set
+- Daretti, Rocketeer Engineer (Aetherdrift, DFT no. 120) — Goblin Rocketeers legendary; faction in flavor text
+- Rugged Highlands (Khans of Tarkir) — first printing of this oracle text
 

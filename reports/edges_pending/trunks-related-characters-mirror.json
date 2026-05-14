@@ -1,0 +1,22 @@
+{
+  "edge_id": "trunks-related-characters-mirror-son-goku-vegeta",
+  "shape": "1:N mirror-fanout",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/trunks.md", "name": "Trunks"},
+    {"type": "character", "path": "cards/_characters/son-goku.md", "name": "Son Goku"},
+    {"type": "character", "path": "cards/_characters/vegeta.md", "name": "Vegeta"}
+  ],
+  "description": "Edgelord steps back in for the mirror. son-goku.md and vegeta.md both declare `related_characters` pointing at trunks; trunks.md previously only encoded xenoverse-villains and baby-dbgt. Mirror-fan the Saiyan-family-cluster relation back into trunks.md's `related_characters` so traversal works from any node in the trio. Sigh: this is exactly the kind of mirrored-fanout-from-equal-nodes that pure Edgelord finds workmanlike but necessary — the GT traveling-trio and the canonical Vegeta-Trunks father-son lineage are both load-bearing. One edit, two relations encoded, graph traversable in all directions across the Saiyan-family-cluster trio.",
+  "citations": [
+    "[Son Goku parent-node from this wave's E2: cards/_characters/son-goku.md `related_characters: [trunks, baby-dbgt]`]",
+    "[Vegeta parent-node from this wave's E3: cards/_characters/vegeta.md `related_characters: [son-goku, trunks]`]",
+    "[Dragon Ball Wiki: Black Star Dragon Ball Saga — canonical Goku-Pan-Trunks traveling-trio party leadership across GT]",
+    "[Dragon Ball Wiki: Trunks — half-Saiyan son of Vegeta and Bulma; canonical father-son lineage relation]"
+  ],
+  "files_modified": [
+    "cards/_characters/trunks.md (related_characters: [xenoverse-villains, baby-dbgt] -> [xenoverse-villains, baby-dbgt, son-goku, vegeta])"
+  ],
+  "edgelord_mood": "sighed-but-mirrored"
+}

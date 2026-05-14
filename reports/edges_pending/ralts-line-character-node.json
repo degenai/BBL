@@ -1,0 +1,37 @@
+{
+  "edge_id": "ralts-line-character-node",
+  "shape": "node-proposal",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/ralts-line.md", "name": "Ralts evolutionary line (Ralts / Kirlia / Gardevoir / Gallade)"},
+    {"type": "card", "path": "cards/pokemon/chilling-reign/059-198-ralts.md", "name": "Ralts (Chilling Reign)"},
+    {"type": "card", "path": "cards/pokemon/chilling-reign/060-198-kirlia.md", "name": "Kirlia (Chilling Reign)"},
+    {"type": "card", "path": "cards/pokemon/burning-shadows/92-147-kirlia.md", "name": "Kirlia (Burning Shadows)"},
+    {"type": "card", "path": "cards/pokemon/lost-thunder/140-kirlia.md", "name": "Kirlia (Lost Thunder)"}
+  ],
+  "description": "Hello sir, Mr. Nodeley here. Sorry to step in for Edgelord on this one. The Ralts line has four corpus prints across two stages — Ralts CRE-059 plus three Kirlia prints (CRE-060 trivia-passed-and-already-mirrored-with-Ralts; BUS-92 trivia-passed-and-unwired; LOT-140 vision-only-pending-trivia). That meets the line-cohort threshold the Mareep-line precedent established (3+ trivia-passed prints across 2+ stages). Without a line node, I would be writing duplicate 1:1 edges between every pair of Kirlia prints AND every Kirlia-to-Ralts pairing — a thin solution centered on an absent anchor. The line node absorbs the cohort relationship at the species-line level and gives future Gardevoir / Gallade prints a clean attachment point. Hope this is okay.",
+  "citations": [
+    "[Bulbapedia: Ralts (Pokemon)]",
+    "[Bulbapedia: Kirlia (Pokemon)]",
+    "[Bulbapedia: Gardevoir (Pokemon)]",
+    "[Bulbapedia: Gallade (Pokemon)]",
+    "[Pokemon.com: official Pokedex no. 280, 281, 282, 475]",
+    "[Pokemon Ruby and Sapphire (Game Freak / Nintendo, 2002) primary canon]",
+    "[Pokemon Diamond and Pearl (Game Freak / Nintendo, 2006) — Gallade introduction]",
+    "[Pokemon X and Y (Game Freak, 2013) — Psychic/Fairy retyping and Mega Gardevoir/Gallade]",
+    "[PokemonTCG.io: swsh6-59, swsh6-60, sm3-92, sm8-140]"
+  ],
+  "files_modified": [
+    "cards/_characters/ralts-line.md (created)",
+    "cards/pokemon/chilling-reign/059-198-ralts.md (frontmatter characters: added)",
+    "cards/pokemon/chilling-reign/060-198-kirlia.md (frontmatter characters: added)",
+    "cards/pokemon/burning-shadows/92-147-kirlia.md (frontmatter characters: added)",
+    "cards/pokemon/lost-thunder/140-kirlia.md (frontmatter characters: added)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "caterpie-line character node — threshold met (Caterpie RC-001 + Caterpie EVO-3 + Metapod RC-002, 3 prints / 2 stages), flagged for wave 50 to keep wave 49 within ≤4-move cap and avoid three-node-creation-moves-in-one-wave QA load",
+    "1:1 mirror between Kirlia BUS-92 and Kirlia CRE-060 — subsumed by this node proposal per the line-node-absorbs-cross-print-pairs rule from the Mareep-line precedent"
+  ]
+}

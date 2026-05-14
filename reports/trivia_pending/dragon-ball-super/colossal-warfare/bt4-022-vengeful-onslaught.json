@@ -1,0 +1,37 @@
+{
+  "card_name": "Vengeful Onslaught",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-022",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card depicts two figures: a light-haired youth and a blue-skinned humanoid. Vision identifies them as Trunks and Baby in Tuffle Parasite form. The Colossal Warfare set centers on the Baby Saga; Baby is canonically depicted as a lean blue-skinned parasite in humanoid form before fully possessing his hosts. Trunks (GT) appears as a Battle Card with Baby Saga era designation in this same set. The confrontation dynamic — young Saiyan fighter vs. blue parasite — matches Baby's early GT storyline where he initially targets Trunks.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "In Dragon Ball GT's Baby Saga, Baby first targets Trunks as one of his early major host victims before ultimately possessing Vegeta. The confrontation depicted on this card — youth fighter vs. blue parasite form — reflects the early arc phase before Baby achieves his most powerful Vegeta possession. [Source: Dragon Ball Villains Wiki: Baby]",
+      "sources": ["https://villains.fandom.com/wiki/Baby_(Dragon_Ball)"]
+    },
+    {
+      "category": "design",
+      "text": "Baby's blue-skinned Tuffle Parasite form is his natural body — small, lean, and blue — before he enters and amplifies his host's physique. The design contrast between Baby's compact alien form and Trunks's humanoid Saiyan build on a duo-confrontation card efficiently codes the parasite-vs-host dynamic in a single frame. [Source: Dragon Ball Villains Wiki: Baby]",
+      "sources": ["https://villains.fandom.com/wiki/Baby_(Dragon_Ball)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Colossal Warfare (DBS-B04, July 2018) designates Trunks: GT cards with Baby Saga era labels, making Trunks a supporting card type in Baby-themed deck strategies — the card game mechanically encodes the GT storyline's Trunks-as-early-target narrative into deck-building dynamics. [Source: Bleeding Cool: Colossal Warfare Checklist]",
+      "sources": ["https://bleedingcool.com/games/dragon-ball-super-card-game-colossal-warfare-checklist/"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Vow Revenge", "set": "Colossal Warfare", "note": "BT4-020 — Baby Vegeta powered form, same cluster"},
+    {"name": "Revenge Death Ball", "set": "Colossal Warfare", "note": "BT4-021 — Baby's signature attack, same cluster"},
+    {"name": "Baby, Vengeance Unleashed", "set": "Colossal Warfare", "note": "BT4-018 — Baby Leader Card"},
+    {"name": "Grand Tour Spaceship", "set": "Cross Worlds", "note": "BT3-028 — Trunks appears in GT spaceship crew; same character across sets"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Trunks and Baby (Dragon Ball GT)",
+    "ip_confidence": "high"
+  }
+}

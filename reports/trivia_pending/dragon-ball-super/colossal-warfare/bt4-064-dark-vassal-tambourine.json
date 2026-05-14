@@ -1,0 +1,37 @@
+{
+  "card_name": "Dark Vassal Tambourine",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-064",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Tambourine is a named, distinct character in Dragon Ball canon — King Piccolo's most powerful mutant son in the original Dragon Ball King Piccolo Saga. The card name 'Dark Vassal Tambourine' directly names him, the card's Namekian creature type, winged green form, and the 'Dark Vassals' archetype grouping alongside Cymbal and Drum (cards BT4-065, BT4-066) all confirm identity. Dragon Ball Wiki confirms Tambourine as the winged Namekian mutant son who killed Krillin and hunted tournament fighters for King Piccolo. ip_confidence elevated to high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Tambourine, Cymbal, and Drum form the 'Dark Vassals' trio — all mutant Namekian sons spawned by King Piccolo during the original Dragon Ball King Piccolo Saga. Their BT4 cards are consecutive commons (no. 064-066) in Colossal Warfare, treating them as a designed triplet. [Dragon Ball Wiki: Dark Vassals]",
+      "sources": ["Dragon Ball Wiki: Dark Vassals", "DBZ Exchange: BT4-064"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Tambourine is named after the percussion instrument, following King Piccolo's naming convention — all of his sons bear musical instrument names (Tambourine, Cymbal, Drum, Piano, Piccolo Jr.), a fact acknowledged by Dragon Ball lore sources. [Dragon Ball Wiki: Tambourine; Kanzenshuu forum thread on Piccolo/Namekian naming]",
+      "sources": ["Dragon Ball Wiki: Tambourine", "Kanzenshuu: Piano, Drum and Tambourine-namekians? thread"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT4-064 carries [Critical] at 2-cost for 15000 power — the cheapest of the three Dark Vassal commons, reflecting Tambourine's role as King Piccolo's frontline hunter. Critical forces opponents to drop damaged life to the Drop Area rather than the hand, denying card advantage. [DBZ Exchange: BT4-064 card listing]",
+      "sources": ["DBZ Exchange: BT4-064 card listing"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dark Vassal Cymbal", "set": "Colossal Warfare", "note": "BT4-065 — fellow Dark Vassal triplet"},
+    {"name": "Dark Vassal Drum", "set": "Colossal Warfare", "note": "BT4-066 — fellow Dark Vassal triplet"},
+    {"name": "King Piccolo, Lord of Terror", "set": "Colossal Warfare", "note": "SD4-04 — the leader card whose Bond mechanic these vassals feed"},
+    {"name": "Sacrifice", "set": "Colossal Warfare", "note": "BT4-070 — thematic Namekian counter in the same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Tambourine (Dragon Ball — King Piccolo Saga)",
+    "ip_confidence": "high"
+  }
+}

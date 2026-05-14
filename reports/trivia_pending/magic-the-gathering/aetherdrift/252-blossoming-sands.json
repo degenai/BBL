@@ -1,0 +1,36 @@
+{
+  "card_name": "Blossoming Sands",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "252",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Blossoming Sands is part of the Khans of Tarkir gain-land cycle, first printed September 2014. The Aetherdrift printing is its 17th appearance.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The Alacrian Quickbeasts desire not only to win, but to forge new alliances against the unknown threats of this interconnected Multiverse.\" The Alacrian Quickbeasts are rider-and-steed pairs from Alacria; Quickbeasts are intelligent, aether-fueled winged creatures — the silhouetted flyer in the art is likely one of them.",
+      "sources": ["Scryfall", "MTG Wiki: Alacrian Quickbeasts"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Valera Lutfullina gives the gain land a landscape-only treatment foregrounding the desert ecology of the Avishkar leg of the race rather than any faction's mechanics.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Thornwood Falls", "set": "Aetherdrift (DFT)", "note": "same gain-land cycle, green-blue pair; same set"},
+    {"name": "Caradora, Heart of Alacria", "set": "Aetherdrift (DFT no. 195)", "note": "Alacrian Quickbeasts legendary; faction in flavor text"},
+    {"name": "Blossoming Sands", "set": "Khans of Tarkir", "note": "original printing of this oracle text"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

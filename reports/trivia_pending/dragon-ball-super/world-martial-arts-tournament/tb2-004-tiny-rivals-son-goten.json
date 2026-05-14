@@ -1,0 +1,36 @@
+{
+  "card_name": "Tiny Rivals Son Goten",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-004",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies the character as Son Goten. Visual match is canonical: young child with spiky dark hair, dark gi, golden ki aura, forward-charging combat pose — all match Goten's standard depiction in Dragon Ball Z / Dragon Ball Super. The 'Tiny Rivals' series title in TB2 links Goten and Trunks as a paired card duo (TB2-004 Goten + TB2-007 Trunks). No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Goten and Trunks are paired in the TB2 set as the 'Tiny Rivals' Link Card duo (TB2-004 and TB2-007). The World Martial Arts Tournament set introduced Link Cards — mechanically paired cards whose art and effects work together — as a new mechanic for the DBS TCG. The two children entering the 25th World Tournament (the Buu Saga) as competing rivals was a major comedic and narrative thread of that arc. [Official DBS Card Game: WMAT Design Concept]",
+      "sources": ["dbs-cardgame.com: WMAT Design Concept", "Dragon Ball Wiki: World Martial Arts Tournament"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Son Goten is Goku's youngest son, born in Age 767 — nine months after the Cell Saga — making him the youngest known half-Saiyan Super Saiyan in the series, having achieved the form at approximately age seven. He never met his father until that age. His appearance as a child is described as 'a spitting image of Goku's childhood look.' [Dragon Ball Wiki: Goten / Wikipedia]",
+      "sources": ["Dragon Ball Wiki: Goten", "Wikipedia: Goten"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At $0.04 market price, TB2-004 is deep bulk — the 'Tiny Rivals' framing places this card in a mechanical pairing with TB2-007 Trunks that requires both cards to fire the Link effect. Separated from its pair, it loses much of its design intent. [TCGplayer: World Martial Arts Tournament]",
+      "sources": ["TCGplayer: Dragon Ball Super CCG World Martial Arts Tournament"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tiny Rivals Trunks", "set": "World Martial Arts Tournament (TB2-007)", "note": "The Link Card pair — Goten and Trunks are the 'Tiny Rivals' duo; mechanically and narratively inseparable in this set"},
+    {"name": "Mighty Mask, Powers Combined", "set": "World Martial Arts Tournament (TB2-008)", "note": "Goten and Trunks in disguise as Mighty Mask — same two children, same tournament"},
+    {"name": "Gotenks", "set": "Various DBS sets", "note": "The Fusion Dance result of Goten and Trunks; their Fusion mastery is a plot thread developed during the Buu arc"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Son Goten",
+    "ip_confidence": "high"
+  }
+}

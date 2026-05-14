@@ -1,0 +1,36 @@
+{
+  "card_name": "Frieza's Call (2017)",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-109",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads \"Frieza's Call\". Art depicts Frieza Force soldiers in formation with Frieza Force spacecraft. The card is an Extra card whose skill specifically searches for 'Frieza's Army' cards. Frieza is not depicted as a figure in the art but the card's named association is unambiguous. Verified via card name, card skill text, and Bandai official card database. Note: ip_confidence updated to high (was med) — the vision-pass hedge was reasonable given no Frieza figure visible, but the card name and skill text resolve this cleanly.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT1-109 is a Yellow Extra card from Galactic Battle (BT1), the inaugural DBS Card Game English booster released July 28, 2017. At 114 cards total, Galactic Battle established all five core card colors (Red, Blue, Green, Yellow, Black) and both card types (Battle and Extra). The card also received an Event Pack Promo printing, confirming it was distributed at official Bandai-sanctioned tournament events in the game's first year. [PSA CardFacts: 2017 Dragon Ball Super Series 1 Galactic Battle; TrollAndToad: Frieza's Call BT1-109 Event Pack Promo listing]",
+      "sources": ["PSA CardFacts: 2017 Dragon Ball Super Series 1 Galactic Battle", "TrollAndToad: Frieza's Call BT1-109 Event Pack Promo"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's skill reads: '[Activate: Main] Choose 1 Frieza's Army card of energy cost 2 or less from your deck, and play it in Rest Mode. Then, shuffle your deck.' At 1 Yellow energy cost, it is a tempo play that accelerates a Frieza's Army unit into the field without paying that unit's own energy cost — effectively generating card advantage in Frieza-type decks. [CoreTCG: Frieza's Call BT1-109; DBZ Exchange: BT1-109]",
+      "sources": ["CoreTCG: Frieza's Call BT1-109", "DBZ Exchange: BT1-109 Frieza's Call"]
+    },
+    {
+      "category": "design",
+      "text": "The wide-shot art showing a mass of armored soldiers in formation with a rounded spacecraft overhead is consistent with the Frieza Force's visual language throughout Dragon Ball Z and Dragon Ball Super: a militarized alien empire with standardized purple-gray armor and fleet-scale deployment. The card does not depict Frieza himself, instead centering the nameless rank-and-file soldiers — a framing that suits the 'Call' (mobilization) concept rather than individual combat. [Dragon Ball Wiki Fandom: Frieza's Army; WebSearch card image sources]",
+      "sources": ["WebSearch: Dragon Ball Super TCG Frieza's Call BT1-109 card details", "Dragon Ball Wiki Fandom: Frieza Force"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Any 'Frieza's Army' BT1 Battle cards", "set": "Galactic Battle", "note": "Direct mechanical targets of this card's search effect"},
+    {"name": "Son Gohan, Family of Justice", "set": "Galactic Battle (BT1-062)", "note": "Same set — opposing faction, hero vs. empire"},
+    {"name": "Tenacious Vegeta", "set": "Galactic Battle (BT1-066)", "note": "Same set — Vegeta was once a Frieza Force soldier before defecting"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

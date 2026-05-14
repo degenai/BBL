@@ -1,0 +1,46 @@
+{
+  "edge_id": "wave50-e3-solrock-lunatone-pair--enlightened-cohort-subsumption",
+  "shape": "replacement",
+  "category": "named-character-identity",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/solrock-lunatone-pair.md", "name": "Solrock / Lunatone pair (Hoenn celestial duality)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/092-189-solrock.md", "name": "Solrock (Darkness Ablaze 092/189)"},
+    {"type": "card", "path": "cards/pokemon/burning-shadows/68-147-lunatone.md", "name": "Lunatone (Burning Shadows 68/147)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/072-189-lunatone.md", "name": "Lunatone (Darkness Ablaze 072/189)"}
+  ],
+  "edges_removed": [
+    {"from": "cards/pokemon/darkness-ablaze/092-189-solrock.md", "to": "cards/pokemon/burning-shadows/68-147-lunatone.md", "description": "Thin Solrock-DAA-092 ↔ Lunatone-BUS-68 1:1 mirror — subsumed by solrock-lunatone-pair cohort node per the mareep-line / staraptor-line / caterpie-line precedent; the cohort node also covers the within-Darkness-Ablaze Solrock-DAA-092 ↔ Lunatone-DAA-072 sibling pair, which the prior 1:1 mirror omitted entirely"}
+  ],
+  "edges_added": [
+    {"from": "cards/pokemon/darkness-ablaze/092-189-solrock.md", "to": "cards/_characters/solrock-lunatone-pair.md", "description": "Solrock DAA-092 cohort-attaches as the sun arm; Connections section refactored to attach to the dyad node; characters: ['solrock-lunatone-pair'] frontmatter pointer added (was missing — sync drift fixed)"},
+    {"from": "cards/pokemon/burning-shadows/68-147-lunatone.md", "to": "cards/_characters/solrock-lunatone-pair.md", "description": "Lunatone BUS-68 cohort-attaches as the moon arm's mechanical-interlock representative (Heal Block / Solrock dependency Ability); Connections section refactored to attach to the dyad node"},
+    {"from": "cards/pokemon/darkness-ablaze/072-189-lunatone.md", "to": "cards/_characters/solrock-lunatone-pair.md", "description": "Lunatone DAA-072 cohort-attaches as the moon arm's SWSH-era register-shift representative (Psychic-type, no Solrock-dependency Ability, within-Darkness-Ablaze same-illustrator sibling to Solrock DAA-092); new Connections section added (was missing — sync drift fixed)"}
+  ],
+  "description": "Enlightened-cleanup. Three sync-drift symptoms in one place: (a) the solrock-lunatone-pair character node existed and listed all three prints in its appears_on field, but Solrock DAA-092 was missing its characters: frontmatter pointer AND its Connections section still pointed at the now-subsumed Lunatone BUS-68 1:1 mirror; (b) Lunatone DAA-072 had the frontmatter pointer but no Connections section; (c) Lunatone BUS-68 had both pointer and Connections, but the Connections still pointed at the subsumed Solrock DAA-092 1:1 mirror. Replaced the thin two-of-three 1:1 mirror (Solrock-DAA-092 ↔ Lunatone-BUS-68) with full triangle-topology cohort attachment for all three prints. Net edge count preserved per Edgelord's enlightened-form rule; the within-Darkness-Ablaze same-illustrator (Miki Tanaka) Solrock-DAA-092 + Lunatone-DAA-072 pairing — which the prior 1:1 mirror omitted — is now load-bearing through the dyad node. Surprise lore caught in the refactor: same-illustrator within-set treatment of the dyad's two arms (Miki Tanaka) is itself a designer-coordination signal that wasn't surfaced before. Behold. The graph improves because of this. Worth the work.",
+  "citations": [
+    "[Bulbapedia: Solrock (Pokemon), National Pokedex no. 338]",
+    "[Bulbapedia: Lunatone (Pokemon), National Pokedex no. 337]",
+    "[PokemonTCG.io API: swsh3-92, swsh3-72, sm3-68]",
+    "[Pokemon Ruby and Sapphire (Game Freak / Nintendo, 2002) primary canon for the version-exclusive Meteorite Pokemon dyad]"
+  ],
+  "files_modified": [
+    "cards/pokemon/darkness-ablaze/092-189-solrock.md (frontmatter pointer added + Connections section refactored)",
+    "cards/pokemon/burning-shadows/68-147-lunatone.md (Connections section refactored to cohort attachment)",
+    "cards/pokemon/darkness-ablaze/072-189-lunatone.md (new Connections section added)"
+  ],
+  "edgelord_mood": "enlightened-cleanup",
+  "other_candidates_considered": [
+    "Aetherdrift racing-team Ghirapur Grand Prix parent node — carried forward from wave 47 / wave 49; threshold still not met (only Endriders cluster is at threshold with 2 cards + Aether Rangers at threshold with 3 cards; per-team children below threshold for Keelhaulers / Alacrian Quickbeasts / others — single-card team mentions only). Carry to wave 51.",
+    "Outpace Oblivion / Pacesetter Paragon / Skycrash Aether Rangers extension — refused per anti-confab rule; trivia for these cards does not explicitly cite MTG Wiki 'Depicted in' Rangers roster membership; without explicit canonical source they don't get the characters: pointer. Carry the Greenbelt Guardian triviabot pass as a future task per the existing aether-rangers.md caveat.",
+    "Paras DAA-003 + Parasect DAA-004 within-set adjacent-collector-number Bug/Grass evolution-pair mirror — refused: Paras is vision-only (ip_verified: false, no Trivia section). Bug-line cohort threshold also not met (Caterpie-line is the corpus's only Bug-line cohort, and Paras/Parasect would be a separate Cordyceps-zombie Bug/Grass line). Surprise lore worth preserving for the carry: Parasect is based on Cordyceps sinensis (tochukaso, the parasitic fungus that takes over insect hosts), 'the bug is mostly dead' is verbatim Pokedex flavor, and Parasect predates The Last of Us (2013 game, 2023 HBO show) by 25+ years as a Cordyceps-zombie mainstream-horror reference. Promote Paras to trivia-pass first, then revisit.",
+    "Vito M21-127 + Elenda saint-heretic pair — refused, Elenda not in corpus; single-card Legion-of-Dusk cluster does not warrant a Nodeley node at n=1.",
+    "Trial of Agony DSK-159 Saw-reference cluster — refused, the cluster's other members (Saw, Let's Play A Game, The Lord of Pain) not in corpus; single-card cluster on our side.",
+    "Deino DAA-108 Unova-pseudo-legendary line — refused, Zweilous and Hydreigon both absent from corpus; single-stage isolate. Surprise lore worth preserving: the line's German-numerals naming convention (Deino-Zweilous-Hydreigon = ein-zwei-drei, counting heads 1-2-3) is one of the franchise's most elegant naming conventions."
+  ],
+  "surprise_lore_for_carry_forward": [
+    "Parasect's Cordyceps-zombie design predates The Last of Us by 25+ years; 'the bug is mostly dead' is verbatim Pokedex flavor on the DAA-004 print",
+    "Deino-Zweilous-Hydreigon name etymology = German numerals ein-zwei-drei counting heads",
+    "Solrock-DAA-092 + Lunatone-DAA-072 share illustrator Miki Tanaka — within-set same-illustrator coordination of a celestial-duality dyad is itself a designer signal"
+  ]
+}

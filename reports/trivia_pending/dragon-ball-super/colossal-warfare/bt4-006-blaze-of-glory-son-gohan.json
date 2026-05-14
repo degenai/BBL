@@ -1,0 +1,36 @@
+{
+  "card_name": "Blaze of Glory Son Gohan",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-006",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name reads 'Blaze of Glory Son Gohan'. Character field confirmed as 'Son Gohan: GT'. Son Gohan is Goku's eldest son, established across Dragon Ball Z and GT. Identity unambiguous from the card name itself.",
+  "trivia_bullets": [
+    {
+      "category": "mechanical",
+      "text": "BT4-006 is a red Common Battle card: 15000 power, 5000 combo power, 2-red energy cost. Auto ability: when this card attacks or combos, if your Leader is red, place up to 3 cards from the top of your deck into your Drop Area — a self-mill trigger that feeds Drop Area strategies. Trait: Saiyan/Earthling, Era: Baby Saga, Character: Son Gohan: GT. [Source: WebSearch snippet via DBZ Exchange product listing BT4-006]",
+      "sources": ["DBZ Exchange: BT4-006 listing", "TrollAndToad product page"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Son Gohan in Dragon Ball GT is notably de-powered relative to his peak in the Dragon Ball Z Cell Saga — he had abandoned martial arts training to become a scholar, and his GT appearances are mostly supportive. His appearance in BT4 Baby Saga cards reflects his role as a Z Fighter combatant against Baby's possession campaign. [Source: WebSearch snippet via Wikipedia: Majin Buu / Dragon Ball GT]",
+      "sources": ["Wikipedia: Dragon Ball GT"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Gohan's card trait is listed as Saiyan/Earthling — the dual-race designation reflecting his half-human half-Saiyan biology, the same trait shared with daughter Pan (BT4-009) and GT Trunks (BT4-012). This trait cluster creates a 'hybrid lineage' subcategory within BT4's Baby Saga red pool. [Source: WebSearch snippets via DBZ Exchange, TCGPlayer product data]",
+      "sources": ["DBZ Exchange: BT4-006", "TCGPlayer: Power of Friendship Pan"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Power of Friendship Pan", "set": "Colossal Warfare", "note": "BT4-009 — Pan is Gohan's daughter; shares Saiyan/Earthling trait and Baby Saga era"},
+    {"name": "Blazing Spirit Son Goku", "set": "Colossal Warfare", "note": "BT4-005 — Gohan's father, same red GT era cluster"},
+    {"name": "Intensifying Power Trunks", "set": "Colossal Warfare", "note": "BT4-012 — fellow GT-era half-Saiyan, same Baby Saga era combat pool"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "card_name": "Encroaching Threat Masked Saiyan",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "SD3-04",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Masked Saiyan' — the canonical identity name for Bardock under Towa's brainwashing in Dragon Ball Heroes and Xenoverse. The ornate white face mask with pink/magenta markings is the Masked Saiyan's definitive and unique visual identifier. Dragon Ball Wiki and Xenoverse 2 Wiki confirm: the Masked Saiyan is Bardock, brainwashed by Towa using a Demon Realm mask that supplies dark ki. The mask is Bardock-specific — no other Dragon Ball character wears this design. Card name plus mask visual confirm identity as Bardock (Masked Saiyan form).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Masked Saiyan is Bardock — Goku's father — pulled from the moment just before his death at Frieza's Supernova and brainwashed by Towa using a Demon Realm mask that provides a steady supply of Dark Ki. His identity as Bardock is the central mystery of the Masked Saiyan Saga in Dragon Ball Xenoverse 2 and Dragon Ball Heroes. [Dragon Ball Wiki: Masked Saiyan Saga, via WebSearch; Xenoverse 2 Wiki: Masked Saiyan, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: Masked Saiyan Saga, via WebSearch", "Xenoverse 2 Wiki: Masked Saiyan, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "The Masked Saiyan concept originated in Dragon Ball Online (the 2010 Korean MMORPG) before being adapted into Dragon Ball Heroes and Xenoverse 2. His white mask with pink markings is a Demon Realm technology design by Towa — the mask's destruction is what frees Bardock from her control, purging the Dark Ki and restoring his identity. [Dragon Ball Wiki: Masked Saiyan Saga, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: Masked Saiyan Saga, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "SD3-04 is part of the Dark Invasion starter deck (DBS-SD03). The SD3 release came with a promo card 'Increasing Evil Masked Saiyan' described as 'incredibly powerful,' suggesting the Masked Saiyan is intended as the deck's flagship threat card rather than a utility piece. [WebSearch: DBS Series 3 roundup, SD3 promo mentioned]",
+      "sources": ["WebSearch: DBS Series 3 roundup strategy page"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Towa, Space Time Unleashed", "set": "Cross Worlds", "note": "Towa is Masked Saiyan Bardock's captor — the architect of his brainwashing"},
+    {"name": "Power Aura Mira", "set": "Cross Worlds", "note": "Mira and Towa operate the Time Breaker dark empire together; Masked Saiyan is their weapon"},
+    {"name": "Quick blade Trunks", "set": "Cross Worlds", "note": "Trunks and the Future Warrior hunt the Masked Saiyan to free him and locate Towa/Mira"},
+    {"name": "Dark Plot", "set": "Cross Worlds", "note": "The conspiracy Masked Saiyan enforces as an enslaved weapon"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

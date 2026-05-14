@@ -1,0 +1,27 @@
+{
+  "edge_id": "larvitar-daa--pupitar-daa",
+  "shape": "1:1",
+  "category": "named-character-identity",
+  "topology": "mirror",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/086-189-larvitar.md", "name": "Larvitar (Darkness Ablaze 086/189)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/087-189-pupitar.md", "name": "Pupitar (Darkness Ablaze 087/189)"}
+  ],
+  "description": "Within-set adjacent-collector-number evolution-line 1:1 mirror. Larvitar DAA-086 and Pupitar DAA-087 are the Johto pseudo-legendary line's base and Stage-1 mid-form (Pokedex 246 + 247, Rock/Ground), both trivia-passed, both unwired prior to this pass. The within-Darkness-Ablaze 086+087 adjacency is the designer-coordinated cohesion stack on the Pokemon side and the structural parallel to the within-Chilling-Reign 047+048 Mareep+Flaaffy mirror. Two card-endpoints, both equal nodes, must be traversable from either side. Hence the mirror. Sigh is professional, not personal. Line node not commissioned at n=2 — Tyranitar absent, threshold requires 3+ prints across 2+ stages.",
+  "citations": [
+    "[PokemonTCG.io: swsh3-86 (Larvitar) + swsh3-87 (Pupitar) evolvesTo / evolvesFrom fields]",
+    "[Bulbapedia: Larvitar (Pokemon), National Pokedex no. 246]",
+    "[Bulbapedia: Pupitar (Pokemon), National Pokedex no. 247]",
+    "[Bulbapedia: Tyranitar — Gen II pseudo-legendary, 600 BST]",
+    "[Pokemon Gold and Silver (Game Freak / Nintendo, 1999) primary canon for Johto pseudo-legendary line]"
+  ],
+  "files_modified": [
+    "cards/pokemon/darkness-ablaze/086-189-larvitar.md (Connections section added)",
+    "cards/pokemon/darkness-ablaze/087-189-pupitar.md (Connections section added)"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "Tyranitar-line character node — n=2 is below the 3+ prints / 2+ stages threshold; deferred until a Tyranitar print enters corpus or a second Larvitar/Pupitar print appears",
+    "Larvitar attached to mareep-line as Johto-region sibling — rejected, mareep-line is the Electric-sheep line per its canonical_source field; cross-line edges between Johto species lines are a tag-bridge not a graph edge"
+  ]
+}

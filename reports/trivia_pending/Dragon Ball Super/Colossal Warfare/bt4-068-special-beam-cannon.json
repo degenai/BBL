@@ -1,0 +1,37 @@
+{
+  "card_name": "Special Beam Cannon",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-068",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Special Beam Cannon' is Piccolo's signature technique (Makankosappo). The card's own skill text reads: 'If your Leader Card is Piccolo, it gains +10000 power.' The depicted green-skinned figure with pointed ears performing the two-finger drilling beam is Piccolo — card text explicitly names him as the Leader synergy target.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Special Beam Cannon (BT4-068) is an Uncommon green Battle card from Colossal Warfare (DBS-B04), the fourth main booster set released for the Dragon Ball Super Card Game, which released in July 2018. BT4 introduced the new [Bond] keyword skill anchored to Namekian characters — Piccolo's set-class identity in this series.",
+      "sources": ["dbs-cardgame.com/asia/strategy/series4/design-concept.php", "bleedingcool.com: Colossal Warfare Checklist"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The Makankosappo (Japanese name, meaning 'Demon's Penetrating, Killing Light Gun') was developed by Piccolo after the 23rd Tenkaichi Budokai specifically to defeat Goku, then first deployed against Raditz in Dragon Ball Z episode 4 (May 1989). Its two-beam drilling structure — one straight, one coiling — is exactly what the card art depicts.",
+      "sources": ["Dragon Ball Wiki (Fandom): Special Beam Cannon", "en.dragon-ball-official.com Kanji lesson #6"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT4-068's card effect reads: '[Activate: Battle] If your Leader Card is Piccolo, it gains +10000 power for the duration of the battle, then choose up to 1 card in your opponent's hand and place it in their Drop Area.' It is a Piccolo-leader-locked support card — mechanically enforcing the idea that only a Piccolo-piloted deck can harness the technique.",
+      "sources": ["WebSearch snippet citing levelupgamesmd.com and bigorbitcards.co.uk product listings for BT4-068"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kami's Power Piccolo", "set": "Colossal Warfare", "note": "BT4-049 — Piccolo's [Bond] flagship in the same set; same character, defines BT4 Namekian archetype"},
+    {"name": "Piccolo, Kami's Successor", "set": "Colossal Warfare", "note": "BT4-046 Leader card — the Piccolo Leader this card synergizes with"},
+    {"name": "Piccolo, Special Beam Cannon Unleashed", "set": "Assault of the Saiyans", "note": "Later reprint/variant of same attack in BT7; same move, different era"},
+    {"name": "Titanic Ambition Lord Slug", "set": "Colossal Warfare", "note": "BT4-059 — fellow [Bond] Namekian in BT4; narrative pair to Piccolo in set design"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

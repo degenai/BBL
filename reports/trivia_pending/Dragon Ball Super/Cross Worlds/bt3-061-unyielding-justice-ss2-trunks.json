@@ -1,0 +1,37 @@
+{
+  "card_name": "Unyielding Justice SS2 Trunks",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-061",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Trunks' with 'SS2' in the title. Official DBS card database tags the character as 'Trunks: Future' in the Future Trunks Saga era. The visual signature — sleeveless dark vest over light undershirt, golden spiky Super Saiyan hair with electric crackling arcs (SS2 visual marker), resolute posture — matches Future Trunks' canonical design throughout Dragon Ball Z and Dragon Ball Super's Future Trunks arc. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Unyielding Justice SS2 Trunks (BT3-061) is a green Uncommon Battle card from Cross Worlds (DBS-B03, March 9, 2018). The official character tag is 'Trunks: Future / Saiyan / Earthling' in the Future Trunks Saga era. Cross Worlds introduced the Future Trunks arc as a major narrative thread alongside its introduction of black cards and Over Realm [Source: dbs-cardgame.com/europe-en/strategy/cross-worlds/designers-note.php; WebSearch: BT3-061 listings].",
+      "sources": ["dbs-cardgame.com/europe-en/strategy/cross-worlds/designers-note.php", "WebSearch snippets: BT3-061 listings (manaconfluence.com, 3mana.ca)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT3-061 is a green 20000-power Uncommon Battle card — high base power for a Common/Uncommon in BT3, reflecting Future Trunks' strength in the Future Trunks Saga. The card carries 5000 combo power and is positioned as a beat-down threat in green Future Trunks decks [Source: WebSearch snippets from manaconfluence.com and tcgplayer.com BT3-061 listings].",
+      "sources": ["WebSearch snippets: manaconfluence.com, tcgplayer.com BT3-061 listings"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Future Trunks in Dragon Ball Super is confirmed to reach Super Saiyan 2 strength during the Goku Black / Zero Mortal Plan arc (DBS anime, 2016). He also develops 'Super Saiyan Rage' — a further powered-up form of SS2 — during his battle against Goku Black and Fused Zamasu. The 'Unyielding Justice' title reflects the Future Trunks Saga's framing of Trunks as a fighter motivated by protecting his devastated future timeline, not personal power [Source: CBR: Goku Black & Zamasu's Plan; Dragon Ball Wiki: Future Trunks Saga].",
+      "sources": ["cbr.com: Dragon Ball Super Goku Black & Zamasu Plan", "dragonball.fandom.com: Future Trunks Saga"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Trunks, Bridge to the Future (2018)", "set": "Cross Worlds", "note": "BT3-062 — base-form Future Trunks in same set; direct narrative pair"},
+    {"name": "Unyielding Justice SS2 Trunks (foil)", "set": "Cross Worlds", "note": "BT3-061 foil variant — same card, parallel foil print"},
+    {"name": "Future Gohan", "set": "various DBS sets", "note": "Trunks' mentor in the alternate timeline; lore context for Trunks' motivation"},
+    {"name": "Goku Black", "set": "various DBS sets", "note": "The primary antagonist of the Future Trunks Saga arc; the reason Trunks reaches SS2 and beyond"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

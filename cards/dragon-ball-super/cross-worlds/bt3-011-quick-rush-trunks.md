@@ -7,7 +7,7 @@ rarity: Uncommon
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 4
+quantity: 5
 held_for_lair: 0
 bundles: []
 tags_hub: ["youth", "fighter", "hero", "rush", "energy", "purple", "speed", "determination", "martial-arts", "anime-style", "jacket"]
@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.01
 market_price_as_of: 2026-05-14
 date_added: 2026-05-07
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401004722/6987A1ED94BA891D7837C9928648D55A5ABD0B1A/
 art_match_confidence: high
 needs_manual_review: false
@@ -30,6 +30,7 @@ ip_verified: true
 image_width: 624
 image_height: 871
 image_quality: med
+characters: [trunks]
 ---
 
 # Quick Rush Trunks (Cross Worlds)
@@ -63,4 +64,8 @@ A young male fighter leans forward in a dynamic rushing pose. The figure has dis
 - Trunks // Super Saiyan Trunks, Protector of Time (Cross Worlds BT3) — alternate Trunks leader card from the same set
 - Hidden Power Uub (Cross Worlds, BT3-014) — same set, same Red color, 2018 release cohort
 - Heroic Duo Son Gohan (World Martial Arts Tournament, TB2-003) — both half-Saiyan adolescent heroes across the DBS TCG roster
+
+## Connections
+
+- [[bt3-007-shocking-future-son-goku]] — GT main-cast traveling-trio members. Both cards carry Bandai's `Black Star Dragon Ball Saga` era tag in the DBSCG database, depicting the canonical Goku-Pan-Trunks-and-Giru party that travels the universe recovering the Black Star Dragon Balls in *Dragon Ball GT*'s opening arc (Toei Animation, 1996-1997). The set's designer's note explicitly cites the cross-franchise GT integration as Cross Worlds' core design intent. `[Source: dbs-cardgame.com Cross Worlds designer's note; Dragon Ball Wiki: Black Star Dragon Ball Saga]`
 

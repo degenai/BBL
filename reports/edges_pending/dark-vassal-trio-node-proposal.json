@@ -1,0 +1,32 @@
+{
+  "edge_id": "dark-vassal-trio-child-cycle-node-under-namekian",
+  "shape": "node-proposal",
+  "category": "designer-confirmed-cycle",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/dark-vassal-trio.md", "name": "Dark Vassal trio (King Piccolo's spat-egg children — Tambourine / Cymbal / Drum)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-064-dark-vassal-tambourine.md", "name": "Dark Vassal Tambourine"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-065-dark-vassal-cymbal.md", "name": "Dark Vassal Cymbal"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-066-dark-vassal-drum.md", "name": "Dark Vassal Drum"},
+    {"type": "character", "path": "cards/_characters/namekian.md", "name": "Namekian (parent race-collective)"}
+  ],
+  "description": "S-sorry, sir, Mr. Nodeley here again — I do hope you don't mind. The Dark Vassal cycle has the Bandai-explicit cycle markers right there on the prints (adjacent collector numbers BT4-064/065/066 within Colossal Warfare, shared 'Dark Vassal' card-name prefix, all three orally-spat children of King Piccolo per Toriyama's 1976 Dragon Ball manga chapters 134-194), and the [[namekian]] parent's own Caveats section already flagged this trio as the warranted child-cycle-node deferred from wave 62 — so I thought it only proper to commission it now under the same parent. The cycle is a child-of-parent shape (the same precedent as [[eld-cinderella-cycle]] sitting as a child of the broader ELD design space) and the three cards now carry `characters: [dark-vassal-trio, namekian]` to anchor at both the cycle and the race level. Piano (the fourth canonical King Piccolo child, non-combat secretary-type) is deliberately excluded from the cycle scope and is not in BBL corpus regardless. I really do hope this helps.",
+  "citations": [
+    "[Dragon Ball Wiki: King Piccolo]",
+    "[Dragon Ball Wiki: Tambourine]",
+    "[Dragon Ball Wiki: Cymbal]",
+    "[Dragon Ball Wiki: Drum]",
+    "[Dragon Ball Wiki: Piano (Dragon Ball)]",
+    "[Dragon Ball Wiki: Demon Clan]",
+    "[Dragon Ball manga, Toriyama / Shueisha, King Piccolo Saga chapters 134-194, 1976-1978]",
+    "[dbs-cardgame.com: Colossal Warfare BT4 per-card pages for BT4-064 / BT4-065 / BT4-066]"
+  ],
+  "files_modified": [
+    "cards/_characters/dark-vassal-trio.md (NEW)",
+    "cards/dragon-ball-super/colossal-warfare/bt4-064-dark-vassal-tambourine.md (characters: frontmatter)",
+    "cards/dragon-ball-super/colossal-warfare/bt4-065-dark-vassal-cymbal.md (characters: frontmatter)",
+    "cards/dragon-ball-super/colossal-warfare/bt4-066-dark-vassal-drum.md (characters: frontmatter)",
+    "cards/_characters/namekian.md (related_characters: mirror)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

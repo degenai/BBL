@@ -7,7 +7,7 @@ rarity: Common
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 4
+quantity: 5
 held_for_lair: 0
 bundles: []
 tags_hub: ["youth", "fighter", "underdog", "power", "determination", "training", "martial-arts", "stone", "ruins", "anime-style", "hidden-strength", "fists"]
@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.01
 market_price_as_of: 2026-05-14
 date_added: 2026-05-05
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401005186/7D90B1F94AF3726F2B2D3C96EAE12B6979F44BF2/
 art_match_confidence: high
 needs_manual_review: false

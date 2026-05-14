@@ -1,0 +1,37 @@
+{
+  "card_name": "Tien Shinhan, Trading Moves",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-043",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The third eye on the forehead is Tien Shinhan's sole diagnostic visual identifier — no other Dragon Ball character shares this trait. Card name on frame confirms. Tien is a Bandai/Toei-internal IP. Verified. No ## IP callout block required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Tien Shinhan (Japanese: Tenshinhan) is a member of the Three-Eyed People (Triclops), a near-extinct alien race descended from beings who colonized Earth long ago. His three eyes, detailed in the Daizenshuu supplemental guidebooks rather than the main manga, grant enhanced ki tracking and the ability to fire laser beams. [WebSearch: Screen Rant 'Is Tien Human? Three-Eyed Race Explained' / Kanzenshuu rumor guide Tenshinhan alien]",
+      "sources": ["WebSearch: Screen Rant Tien Human Three-Eyed Race Explained", "WebSearch: Kanzenshuu Tenshinhan alien descendant rumor guide"]
+    },
+    {
+      "category": "mechanical",
+      "text": "TB2-043 has [Barrier] (cannot be targeted by opponent's card skills) and an [Activate: Main] that, when 'Mercenary Tao, Trading Moves' is KO'd from the Battle Area, switches Tien to Active Mode and grants +5000 power plus [Double Strike] for the turn — provided the Leader Card is a green 'World Tournament' card. Energy cost 3[GG], power 15000, Uncommon. [WebSearch snippet: Three Kings Loot TB2-043 listing]",
+      "sources": ["WebSearch: Three Kings Loot TB2-043 Tien Shinhan Trading Moves"]
+    },
+    {
+      "category": "design",
+      "text": "Tien's third-eye design echoes Taoist/Buddhist iconography — the 'third eye' (tianmu) representing spiritual insight — and mirrors the three-eyed deity Erlang Shen from Journey to the West, one of Akira Toriyama's primary source texts for early Dragon Ball. His design bridges myth and martial arts aesthetics in a way few Dragon Ball characters do. [WebSearch: CBR 'Why Dragon Ball Tien Has Three Eyes' / Distractify 'Why Does Tien Have 3 Eyes']",
+      "sources": ["WebSearch: CBR Why Dragon Ball Tien Has Three Eyes", "WebSearch: Distractify Why Does Tien Have 3 Eyes"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Best Buddy Chiaotzu (TB2-044)", "set": "World Martial Arts Tournament", "note": "Chiaotzu's Auto ability specifically activates Tien Shinhan, Trading Moves — mechanically inseparable pair"},
+    {"name": "Mercenary Tao, Trading Moves", "set": "World Martial Arts Tournament", "note": "Must be KO'd to trigger Tien's Double Strike ability — designed as a sacrifice pair"},
+    {"name": "Wild Tiger, the Imposing (TB2-031)", "set": "World Martial Arts Tournament", "note": "Same set, same tournament arc"},
+    {"name": "Trading Blows Son Goku (TB2-036)", "set": "World Martial Arts Tournament", "note": "Same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

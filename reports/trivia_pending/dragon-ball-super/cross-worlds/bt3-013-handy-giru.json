@@ -1,0 +1,37 @@
+{
+  "card_name": "Handy Giru",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-013",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly contains 'Giru' and the depicted small white spherical robot with a single large red eye matches Giru's canonical design from Dragon Ball GT. Giru is a Machine Mutant with a single prominent red eye who travels with Goku, Trunks, and Pan. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Giru is a Machine Mutant whom Goku and company encounter on Planet Imegga in Dragon Ball GT. He accidentally swallows the Dragon Radar Trunks dropped, absorbing its function — this forces the group to take him along as a living Dragon Ball locator. Goku gives him the name 'Giru' because the robot repeatedly says 'Giru! Giru!' [Source: Dragon Ball Wiki (Fandom) / official Dragon Ball site character showcase no. 205]",
+      "sources": ["dragonball.fandom.com/wiki/Giru", "en.dragon-ball-official.com character showcase 205"]
+    },
+    {
+      "category": "design",
+      "text": "Giru is one of the few antagonist-origin characters in Dragon Ball GT who fully transitions to the heroes' side. Despite originating on Machine Planet M-2 (Dr. Myuu's base), he bonds with Pan in particular and is described as her best friend by GT's narrative. His 'Handy' title in this card name references his utility role — literally carrying the Dragon Radar capability inside his body. [Source: dragonball.fandom.com/wiki/Giru]",
+      "sources": ["dragonball.fandom.com/wiki/Giru"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Giru can absorb the functionality of other machines he consumes — a trait that parallels the Machine Mutant faction's overall theme of mechanical assimilation. In the DBS card game, his cards sit in the Black Star Dragon Ball Saga cluster alongside Pan, Goku GT, and Dr. Myuu's faction cards. [Source: dbs-cardgame.com card list / dragonball.fandom.com]",
+      "sources": ["dragonball.fandom.com/wiki/Giru", "dbs-cardgame.com card list"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pan (BT3-009)", "set": "Cross Worlds", "note": "Pan is described as Giru's best friend in GT canon"},
+    {"name": "Shocking Future Son Goku (BT3-007)", "set": "Cross Worlds", "note": "Goku is a member of the trio Giru accompanies"},
+    {"name": "Dr.Myuu, Under Baby's Control (BT3-017)", "set": "Cross Worlds", "note": "Dr. Myuu created the Machine Mutant faction Giru originates from"},
+    {"name": "Hidden Ability, General Rilldo (BT3-020)", "set": "Cross Worlds", "note": "Rilldo commands Machine Planet M-2, Giru's home planet"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "card_name": "Hercule // Bundle of Confidence Hercule",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-001",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies the character as Hercule (the Funimation localization of Mr. Satan). Visual match is unambiguous: voluminous curly dark hair, thick mustache, red martial arts jacket, stocky broad-shouldered build, showboating pose — all canonical visual identifiers of Mr. Satan/Hercule as depicted throughout Dragon Ball Z and Dragon Ball Super. This is not an unnamed figure; the card title is the character name.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "World Martial Arts Tournament (TB2) launched September 21, 2018 as the second themed booster for the Dragon Ball Super Card Game. Unlike series boosters, TB2 is built around a single narrative location — the World Tournament — and is designed so players can construct complete competitive decks from a single box. Each color in the set focuses on a different tournament era from Dragon Ball history. [Official DBS Card Game: WMAT Design Concept]",
+      "sources": ["dbs-cardgame.com: World Martial Arts Tournament Design Concept", "Cardmarket: World Martial Arts Tournament TB2"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Hercule (real name Mark, a pun on Japanese 'akuma' / devil) is the reigning World Martial Arts Champion — a title he won legitimately by beating normal humans during the years Goku and company were off-planet or otherwise occupied. He publicly claimed credit for Cell's defeat, a lie that made him Earth's most celebrated hero. He is Videl's father and, later, Buu's unlikely best friend. [Wikipedia: Mr. Satan / Dragon Ball Wiki: Mr. Satan]",
+      "sources": ["Wikipedia: Mr. Satan", "Dragon Ball Wiki: Mr. Satan"]
+    },
+    {
+      "category": "mechanical",
+      "text": "TB2-001 is numbered first in the World Martial Arts Tournament set, giving Hercule the literal card-number slot of a 'leader' card or first pick of his color. At $0.15 market price, this Uncommon is modest in monetary value but its slot-001 position signals Hercule's prominence within the TB2 narrative frame — he is, after all, the tournament's canonical face for normal humans. [TCGplayer: World Martial Arts Tournament]",
+      "sources": ["TCGplayer: Dragon Ball Super CCG World Martial Arts Tournament", "coolstuffinc.com"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Heroic Duo Videl", "set": "World Martial Arts Tournament (TB2-011)", "note": "Videl is Hercule's daughter; the 'Heroic Duo' in her card name is a direct pairing with Gohan"},
+    {"name": "Mighty Mask, Powers Combined", "set": "World Martial Arts Tournament (TB2-008)", "note": "Trunks and Goten entered Hercule's tournament in disguise as Mighty Mask"},
+    {"name": "Hercule, Champion of Earth", "set": "Various DBS sets", "note": "Other Hercule card variants across the DBS TCG"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Hercule (Mr. Satan)",
+    "ip_confidence": "high"
+  }
+}

@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://images.pokemontcg.io/swsh3/72_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -67,4 +67,8 @@ A crescent moon-shaped creature with a single prominent dark eye floats above a 
 ### Related cards
 - Solrock (Darkness Ablaze, 092/189) — canonical celestial counterpart; DAA-092 already trivia'd in wave 23
 - Lunatone (Burning Shadows, 068/147) — prior print by Shin Nagasawa; Fighting-type with Heal Block/Solrock synergy ability
+
+## Connections
+
+- [[solrock-lunatone-pair]] — Moon arm of the Hoenn celestial-duality Meteorite Pokemon dyad (Pokedex 337/338, Rock/Psychic), SWSH-era print. Within-Darkness-Ablaze sibling to Solrock DAA-092 (same set, same illustrator Miki Tanaka — designer-coordinated same-illustrator within-set treatment of the dyad's two arms). Unlike the corpus's other Lunatone print at [[68-147-lunatone]] (Burning Shadows, Shin Nagasawa, Fighting-type with Heal Block / Solrock interlock Ability), this print is Psychic-type with standalone Future Sight + Psychic attacks — no Solrock-dependency Ability, the dyad's design-philosophy register-shift across SM-era vs SWSH-era prints. Cohort affiliation preserved through species identity, shared paired-design citation, and within-set art-direction coherence with the Solrock DAA-092 sibling. `[Bulbapedia: Lunatone (Pokemon), Solrock (Pokemon); PokemonTCG.io: swsh3-72, swsh3-92, sm3-68]`
 

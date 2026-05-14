@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["galarian-regional-forms"]
 tags_hub: ["parasite", "symbiosis", "cannon", "poison", "pink", "shell", "oblivious", "regional-variant", "weapon", "addiction"]
 tags_filter: ["duo", "mid-shot", "forward-facing", "darkness-type", "ultra-rare", "holofoil", "v-card", "action-mode", "pokemon-v"]
 reference_image: cards/_images/pokemon/darkness-ablaze/099-189-galarian-slowbro-v--holofoil.png
@@ -17,7 +18,7 @@ average_cost_paid: 0
 market_price: 1.23
 market_price_as_of: 2026-05-14
 date_added: 2026-05-05
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://images.pokemontcg.io/swsh3/99_hires.png
 art_match_confidence: high
 needs_manual_review: false

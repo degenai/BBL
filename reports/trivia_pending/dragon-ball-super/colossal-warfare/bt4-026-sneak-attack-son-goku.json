@@ -1,0 +1,36 @@
+{
+  "card_name": "Sneak Attack Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-026",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name includes 'Son Goku' explicitly, confirming identity. Vision describes upswept golden spiky hair in Super Saiyan form with forward rush — canonical SSJ Goku visual. Colossal Warfare features Son Goku: GT as a named Leader Card for the Baby Saga. The sneak-rush attack style is consistent with Goku's combat approach in GT-era fights.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Colossal Warfare (DBS-B04, July 2018) features Son Goku: GT as a named Leader Card for the Baby Saga, establishing GT-era Goku as a primary deck identity rather than a support role. The set anchors its GT-Goku cards in the Baby arc timeline, distinct from Super-era Goku cards in earlier sets. [Source: dbs-cardgame.com product page; Bleeding Cool checklist]",
+      "sources": ["https://www.dbs-cardgame.com/asia/product/dbs-b04.php", "https://bleedingcool.com/games/dragon-ball-super-card-game-colossal-warfare-checklist/"]
+    },
+    {
+      "category": "design",
+      "text": "Super Saiyan transformation — first achieved by Goku in the Frieza Saga — became the franchise's most iconic visual motif: golden upswept spiky hair and crackling golden aura. By Colossal Warfare's Baby Saga context, SSJ is Goku's baseline form rather than a power ceiling, signaling how much power-creep the franchise had undergone by GT. [Source: Dragon Ball GT Wikipedia]",
+      "sources": ["https://en.wikipedia.org/wiki/Dragon_Ball_GT"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rush / sneak-attack card designs in the DBS card game typically carry [Dual Attack] or [Auto] on-play KO effects — aggressive tempo plays designed to swing board state immediately on entry. BT3-058 (a parallel Goku card from Cross Worlds) confirms this pattern: Goku Uncommon cards in this era carried [Dual Attack] plus an on-play KO ability. [Source: Rochester CCG: BT3-058 card text via WebSearch snippet]",
+      "sources": ["https://www.rochesterccg.com/catalog/dragon_ball_super_singles-cross_worlds/pressure_assault_super_saiyan_son_goku__bt3058__uc/150126"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pressure Assault Super Saiyan Son Goku", "set": "Cross Worlds", "note": "BT3-058 — parallel Goku Uncommon from the prior set, same SSJ visual archetype"},
+    {"name": "Triple Flash SS4 Son Goku", "set": "Colossal Warfare", "note": "BT4-003 — GT Goku at SS4 in same set, power-level escalation visible across the Goku card ladder"},
+    {"name": "Explosive Spirit Son Goku", "set": "Cross Worlds", "note": "BT3-088 — Super Rare Goku from BT3, earlier set anchor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Son Goku (Dragon Ball)",
+    "ip_confidence": "high"
+  }
+}

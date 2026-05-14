@@ -1,0 +1,36 @@
+{
+  "card_name": "Future Martial Artist Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-052",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name contains 'Son Goku' explicitly. The card's own text identifies Character as 'Son Goku: Childhood' and Special Traits as 'Saiyan/World Tournament'. Orange-and-blue gi with black spiky hair are Goku's canonical visual identifiers for his childhood/original-Dragon-Ball era. Verified via card oracle text on official product pages.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Future Martial Artist Son Goku (TB2-052) is a yellow-color Common Battle card with 12,000 power and Super Combo status. It can only be included up to 4 times in a deck (Super Combo rule). Its auto-ability triggers when comboing: if the Leader is 'World Tournament' and life is 5 or less, draw 1 card and gain +10,000 combo power for the turn — a low-life recovery mechanic that rewards playing into the Tenkaichi Budokai theme.",
+      "sources": ["WebSearch: DBZ Exchange TB2-052 product page", "WebSearch: House Rules Gaming TB2-052 listing"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The card's era tag is 'World Martial Arts Tournament Saga' and character type is 'Son Goku: Childhood' — placing this depiction in the original Dragon Ball continuity, specifically around the 22nd or 23rd Tenkaichi Budokai when Goku was still a young fighter before the Saiyan Saga. The 'Future Martial Artist' title implies potential rather than power already realized.",
+      "sources": ["WebSearch: DBZ Exchange TB2-052 product page", "WebSearch: CBR '37 Years Ago Today, the Best Anime Tournament of All Time Began'"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a Super Combo card, TB2-052 is a deck-construction resource rather than a primary attacker — its 12,000 power is modest, but it provides card draw when the controller is on the back foot (life at 5 or less). This mirrors the character's lore position: young Goku as potential not yet fulfilled, someone who loses to Piccolo at the 23rd tournament and wins only on a ring-out technicality.",
+      "sources": ["WebSearch: DBZ Exchange TB2-052", "WebSearch: CBR Dragon Ball 23rd Budokai tournament article"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Feet Kamehameha", "set": "World Martial Arts Tournament", "note": "TB2-049 Extra card explicitly boosts green Son Goku leaders — direct mechanical partner."},
+    {"name": "Toughened Up Krillin", "set": "World Martial Arts Tournament", "note": "Krillin fought Goku in the 22nd Tenkaichi Budokai semi-finals; same set, shared World Tournament trait."},
+    {"name": "Master Roshi, Martial Meister", "set": "World Martial Arts Tournament", "note": "Goku's teacher and the Jackie Chun alias opponent at the 21st tournament."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Son Goku",
+    "ip_confidence": "high"
+  }
+}

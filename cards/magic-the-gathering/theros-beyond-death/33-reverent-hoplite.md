@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.27
 market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,7 @@ mood: sublime
 time_of_day: magic-hour
 setting: mountain
 artist: Sidharth Chaturvedi
+characters: [theros-pantheon]
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/33-reverent-hoplite--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/4/54153b9c-483e-4e5c-a1ab-b1c8a7a657d4.jpg?1581479206
 flavor_text: \"Zeal is the sharpest blade, and piety the strongest shield.\"

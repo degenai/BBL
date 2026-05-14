@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-14
 date_added: 2026-05-05
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408074582/81E5296E7F4B185CD89D2D0DB9FB6905228B9D34/
 art_match_confidence: high
 needs_manual_review: false
@@ -30,6 +30,7 @@ ip_verified: true
 image_width: 624
 image_height: 871
 image_quality: med
+characters: ["babidi"]
 ---
 
 # Dark Duo Dabura (World Martial Arts Tournament)

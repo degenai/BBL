@@ -1,0 +1,36 @@
+{
+  "card_name": "Killer Sword Trunks",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "SD3-02",
+  "task_profile": "ip-priority",
+  "ip_decision": "qualify",
+  "ip_outcome_note": "suspected_ip was 'Future Trunks' but the card's Special Traits explicitly list 'Saiyan/Earthling' and the Dark Demon Realm Saga era, and the card ability text references [Xeno-Evolve] — all markers of Trunks: Xeno (Dragon Ball Heroes), a non-canon alternate-timeline variant distinct from the main-series Future Trunks. The two share the same base character but diverge after Cell's defeat when Xeno Trunks is recruited by the Time Patrol. Cannot fully verify as 'Future Trunks' nor fully refute since Xeno Trunks is derived from Future Trunks. Qualification retained.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "SD3-02 is a Starter Rare from the Dark Invasion starter deck (DBS-SD03), released March 9, 2018 as part of the Cross Worlds set (DBS-B03/SD03). It carries the [Xeno-Evolve] mechanic and [Double Strike], making it a pivot card in Warp-recovery strategies. [WebSearch: TCGPlayer Cross Worlds / DBS official card search]",
+      "sources": ["WebSearch: TCGPlayer Cross Worlds", "WebSearch: DBS official cardlist SD3-02"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The depicted figure is Trunks: Xeno, not the standard Future Trunks of the main Dragon Ball Super continuity. Xeno Trunks is a non-canon character exclusive to the Dragon Ball Heroes arcade/card game whose story diverges after Cell's defeat — he is forcibly recruited into the Time Patrol by Chronoa (Supreme Kai of Time) and becomes a central protagonist of the Dark Demon Realm Saga. [WebSearch: Xeno Trunks VS Battles Wiki / CBR Xeno Goku explainer]",
+      "sources": ["WebSearch: Xeno Trunks VS Battles Wiki", "WebSearch: CBR Xeno Goku explainer"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's [Xeno-Evolve] (4) ability plays it in Active Mode by sending a specified card from Battle Area to the Warp; its Auto skill then recovers a Battle Card with energy cost 3 or less from Warp. This creates a Warp-cycling loop central to the Cross Worlds black-color strategy, which the SD3 Dark Invasion deck was designed around. [WebSearch: DBS official SD3 product page / WebSearch snippet TCGPlayer]",
+      "sources": ["WebSearch: DBS official product page DBS-SD03", "WebSearch: TCGPlayer Cross Worlds strategy snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Trunks: Xeno (Leader)", "set": "Cross Worlds", "note": "The leader card for SD3 whose evolution chain Killer Sword Trunks anchors"},
+    {"name": "Unrelenting Assault Trunks (BT3-112)", "set": "Cross Worlds", "note": "Another Trunks battle card from the same set/era"},
+    {"name": "Son Goku, Stopping Power (TB2-034)", "set": "World Martial Arts Tournament", "note": "Parallel Saiyan warrior card in this inventory wave"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "false",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "edge_id": "wave53-e2-galarian-regional-forms--galarian-slowbro-v-extension",
+  "wave": 53,
+  "shape": "1:N",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/galarian-regional-forms.md", "name": "Galarian regional forms"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/099-189-galarian-slowbro-v--holofoil.md", "name": "Galarian Slowbro V"}
+  ],
+  "description": "Cohort-node roster extension. Galarian Slowbro V (DAA-099, Ultra Rare Holofoil, 5ban Graphics art) wires into the existing galarian-regional-forms parent-cohort node as the eighth in-corpus Galarian-variant species and the cohort's first evolved-form Ultra Rare. The node's pre-existing caveats section already listed Galarian Slowbro as a documented-but-not-yet-acquired cohort member; wave 53's CSV ingest brought the species into inventory. Particularly load-bearing for the node's Galarica-seed thesis: Slowbro V is the clearest single-card statement of the Galarica-seed dietary mechanism producing a specific anatomical-and-typing shift (tail-bite to arm-bite; Water/Psychic to Poison/Psychic), with the Rapid-Fire Poison Ability and Tripping Shot attack mechanizing the gun-arm combat concept at the rules layer.",
+  "citations": [
+    "[Bulbapedia: Galarian Slowbro]",
+    "[PokemonTCG.io: swsh3-99 Galarian Slowbro V]",
+    "[Pokemon Sword & Shield: Isle of Armor DLC, June 2020]",
+    "[In-corpus trivia: cards/pokemon/darkness-ablaze/099-189-galarian-slowbro-v--holofoil.md Set context bullet citing Galarica-spice / Shellder-arm-bite mechanism]"
+  ],
+  "files_modified": [
+    "cards/_characters/galarian-regional-forms.md",
+    "cards/pokemon/darkness-ablaze/099-189-galarian-slowbro-v--holofoil.md"
+  ],
+  "edgelord_mood": "blueballed-by-fanout"
+}

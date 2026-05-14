@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-14
 date_added: 2026-05-08
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://images.pokemontcg.io/sm3/68_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -58,7 +58,7 @@ A crescent moon-shaped creature with a single prominent red eye floats at the ce
 
 ## Connections
 
-- [[092-189-solrock]] — celestial paired-design 1:1 mirror. Lunatone and Solrock were introduced together in Generation III (Hoenn) as a designed counterpart pair: Lunatone was Sapphire-version-exclusive, Solrock Ruby-version-exclusive, and both share the "Meteorite Pokemon" species classification with a shared Meteor Falls origin. The pair-bond is encoded mechanically across both prints: this card's Heal Block Ability ("If you have Solrock in play, Pokemon (both yours and your opponent's) can't be healed") requires Solrock on the field, and Solrock's Resistance Shade Ability ("If you have Lunatone in play...") requires Lunatone on the field — each card mechanically depends on its counterpart. Visually the pair-bond reads as crescent-moon-on-dark-void-night (this card, single red eye, full-moon backdrop, pale-gray palette) versus sun-disc-on-warm-desert-day (DAA-092, radial spike rays, amber-orange palette) — the sun/moon duality of the original Ruby/Sapphire version-pair rendered as matched portrait compositions. [Bulbapedia: Lunatone (Pokemon); Bulbapedia: Solrock (Pokemon); PokemonTCG.io: sm3-68 + swsh3-92 oracle text]
+- [[solrock-lunatone-pair]] — Moon arm of the Hoenn celestial-duality Meteorite Pokemon dyad (Pokedex 337/338, Rock/Psychic), Sun & Moon-era print. This Lunatone BUS-68 print carries the dyad's mechanical-interlock signature directly in oracle text: the Heal Block Ability ("If you have Solrock in play, Pokemon can't be healed") requires the dyad partner Solrock on the field, mirroring Solrock DAA-092's Resistance Shade Ability ("If you have Lunatone in play...") — each card's primary Ability mechanically depends on its counterpart, the strongest TCG-rules expression of the Ruby/Sapphire version-exclusive pair-bond in the corpus. The corpus's other Lunatone print (DAA-072) is Psychic-type with standalone attacks (no Solrock-dependency Ability) — across the two Lunatone prints, this BUS-68 is the dyad's mechanical-interlock representative. Per the cohort-subsumes-1:1-mirrors precedent established in [[mareep-line]] / [[staraptor-line]] / [[caterpie-line]], the prior Lunatone-BUS-68 ↔ Solrock-DAA-092 mirror is now subsumed by the dyad node. `[Bulbapedia: Lunatone (Pokemon), Solrock (Pokemon); PokemonTCG.io: sm3-68, swsh3-92, swsh3-72]`
 
 ## Trivia
 

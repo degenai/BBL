@@ -1,0 +1,37 @@
+{
+  "card_name": "Top of His Game Son Gohan",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-021",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies Son Gohan. The art shows a Super Saiyan 2 adult male with lightning arcing around him in a tournament setting — exactly matching Gohan's canonical SS2 appearance at the 25th World Martial Arts Tournament where he was asked by Kibito to transform, only to be immediately drained by Spopovich and Yamu.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "At the 25th World Martial Arts Tournament, Gohan agreed to demonstrate his Super Saiyan 2 transformation at Kibito's request, making himself an open target. Spopovich and Yamu immediately swarmed him — the drain scene is the narrative hinge connecting the tournament arc to the Babidi Saga. [CBR: World Tournament Saga; Dragon Ball Wiki]",
+      "sources": ["cbr.com: DBZ World Tournament Saga articles", "dragonball.fandom.com/wiki/World_Tournament_Saga"]
+    },
+    {
+      "category": "design",
+      "text": "The 'Top of His Game' title is ironic: at this moment in the story, Gohan WAS at his peak power but was caught completely off-guard. It marks his last true Super Saiyan 2 peak before the later series depowered him during his studies. Community discussions frequently note this tournament appearance as Gohan's narrative high-water mark in DBZ. [CBR: Dragon Ball Z Who Would Have Won the 25th Tournament]",
+      "sources": ["cbr.com: Dragon Ball Z Who Would Have Won the 25th World Martial Arts Tournament"]
+    },
+    {
+      "category": "mechanical",
+      "text": "In the TB02 set, Gohan cards typically carry the 'World Tournament' special trait — the set's thematic keyword linking all 25th Tenkaichi Budokai participants. Son Gohan is one of the higher-rarity pulls in the set, reflecting his narrative centrality during this arc. [dbs-cardgame.com TB02 product page]",
+      "sources": ["dbs-cardgame.com: DBS-TB02 product page (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tainted Power, Spopovich & Yamu", "set": "World Martial Arts Tournament", "note": "TB2-015 — the duo who attacked Gohan at this exact moment"},
+    {"name": "Scuffle Time Son Goten", "set": "World Martial Arts Tournament", "note": "TB2-022 — Gohan's younger brother, also at the tournament"},
+    {"name": "Awkward Situation Trunks", "set": "World Martial Arts Tournament", "note": "TB2-026 — Gohan's brother-in-arms at the Junior Division"},
+    {"name": "Begrudging Respect Piccolo", "set": "World Martial Arts Tournament", "note": "TB2-027 — Gohan's mentor, also present at the tournament"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

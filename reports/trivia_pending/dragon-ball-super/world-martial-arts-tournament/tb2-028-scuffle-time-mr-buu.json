@@ -1,0 +1,36 @@
+{
+  "card_name": "Scuffle Time Mr. Buu",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-028",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Scuffle Time Mr. Buu.' The large pink rotund figure in white-and-purple vest with antennae, delivering a punch, is the canonical visual design of Good Buu / Mr. Buu — pink skin, round head, antennae, white vest with purple trim are all signature visual identifiers. Character name is in the title.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "TB2-028 is a Common card from the World Martial Arts Tournament themed booster (DBS-TB02), the second themed expansion for the Dragon Ball Super Card Game, released September 21, 2018 [WebSearch: DBS TB02 release date]. The TB2 set is built around the World Martial Arts Tournament as recurring tournament arc, themed around competition rather than saga-specific combat — hence 'Scuffle Time' rather than a crisis framing.",
+      "sources": ["WebSearch: DBS TB02 World Martial Arts Tournament release date", "dbs-cardgame.com TB02 product page"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Scuffle Time Mr. Buu (TB2-028) has the Barrier keyword, preventing it from being chosen by opponent card effects. Its triggered ability fires when placed at the bottom of its owner's deck: if Scuffle Time Son Goten (TB2-022) is in the Battle Area, return one opponent Battle Card to hand. The two 'Scuffle Time' cards form an explicit synergy pair — Mr. Buu enables Son Goten's power boost and Active Mode switch; Son Goten's presence enables Mr. Buu's removal trigger [WebSearch: Scuffle Time Son Goten TB2 synergy, CoreTCG product descriptions].",
+      "sources": ["WebSearch: Scuffle Time Son Goten TB2 synergy", "CoreTCG: Scuffle Time Mr. Buu TB2-028", "CoreTCG: Scuffle Time Son Goten TB2-022"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Good Buu (Mr. Buu) is the reformed version of Majin Buu that split from Innocent Buu — the Good and Evil halves separated by fission, with Evil Buu eventually absorbing Good Buu into Super Buu. Post-defeat, Good Buu was given the name Mr. Buu by the main cast, trained under Mr. Satan, and became a permanent ally and martial arts competitor in the Z Fighters circle through Dragon Ball Super [Wikipedia: Majin Buu, Dragon Ball Fandom: Good Buu].",
+      "sources": ["Wikipedia: Majin Buu", "Dragon Ball Fandom: Good Buu"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Scuffle Time Son Goten", "set": "World Martial Arts Tournament", "note": "TB2-022 — explicit mechanical synergy pair; Mr. Buu in Battle Area triggers Goten's power boost"},
+    {"name": "Mr. Buu", "set": "Colossal Warfare", "note": "BT4-015 — same character in an earlier set; earlier printed version for comparison"},
+    {"name": "Magnificent Collection: Mr. Satan", "set": "various", "note": "Mr. Satan is Buu's moral reformer and trainer; frequent paired character in tournament sets"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "edge_id": "babidi--character-node-proposal",
+  "wave": 57,
+  "shape": "node-proposal",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "node_proposed": {
+    "type": "character",
+    "path": "cards/_characters/babidi.md",
+    "slug": "babidi",
+    "name": "Babidi",
+    "universe": "Dragon Ball Z (Buu Saga / Babidi Saga, DBZ ep. 220–253)"
+  },
+  "endpoints_wired": [
+    {"type": "card", "path": "cards/dragon-ball-super/world-martial-arts-tournament/tb2-013-dark-duo-babidi.md", "name": "Dark Duo Babidi", "role": "ringmaster — direct depiction"},
+    {"type": "card", "path": "cards/dragon-ball-super/world-martial-arts-tournament/tb2-014-dark-duo-dabura.md", "name": "Dark Duo Dabura", "role": "enslaved enforcer — Link partner to TB2-013"},
+    {"type": "card", "path": "cards/dragon-ball-super/world-martial-arts-tournament/tb2-015-tainted-power-spopovich-yamu.md", "name": "Tainted Power, Spopovich & Yamu", "role": "field operatives — sleeper agents, energy-drain scene"},
+    {"type": "card", "path": "cards/dragon-ball-super/world-martial-arts-tournament/tb2-016-pui-pui-magician-s-lackey.md", "name": "Pui Pui, Magician's Lackey", "role": "floor-1 guardian — title explicitly names Babidi"},
+    {"type": "card", "path": "cards/dragon-ball-super/world-martial-arts-tournament/tb2-017-razor-s-edge-yakon.md", "name": "Razor's Edge Yakon", "role": "floor-2 guardian — existing Bontu Connections edge preserved"},
+    {"type": "card", "path": "cards/dragon-ball-super/world-martial-arts-tournament/tb2-018-babidi-s-spaceship.md", "name": "Babidi's Spaceship", "role": "apparatus-of-operation — pure location card"}
+  ],
+  "description": "I'm terribly sorry, sir, Edgelord wanted to draw a clean Spopovich-and-Yamu / Top-of-His-Game-Gohan story-spotlight edge, but the moment one looks at the Related cards sections of TB2-013, TB2-015, TB2-016, and TB2-018, they all explicitly reach for a Babidi anchor that doesn't exist in the graph yet — and that's six corpus cards in a single set, well above the 3+ threshold for node-proposal. The whole TB02 set is structurally Babidi's spaceship-as-dungeon (level 1 Pui Pui → level 2 Yakon → level 3 Dabura → ringmaster Babidi → location card for the structure itself), so anchoring 6 cards through the character node is much cleaner than maintaining a six-way cross-referential web in every individual Related-cards section. I hope you don't mind. The TB2-017 Yakon ↔ God-Eternal Bontu cross-franchise Connections edge stays in place; the Babidi node simply adds the enslaved-guardian role alongside it.",
+  "citations": [
+    "[Dragon Ball Wiki: Babidi character page]",
+    "[Dragon Ball Wiki: Babidi's Spaceship — six-floor dungeon layout]",
+    "[Dragon Ball Wiki: Majin Buu Saga arc page]",
+    "[CBR: Dragon Ball DAIMA Confirms These DBZ Villains Were From Another Universe All Along (2024)]",
+    "[dbs-cardgame.com: DBS-TB02 World Martial Arts Tournament product page]",
+    "[dragon-ball-official.com: Weekly Character Showcase Yakon no. 163; Dabura showcase]"
+  ],
+  "files_modified": [
+    "cards/_characters/babidi.md",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-013-dark-duo-babidi.md",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-014-dark-duo-dabura.md",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-015-tainted-power-spopovich-yamu.md",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-016-pui-pui-magician-s-lackey.md",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-017-razor-s-edge-yakon.md",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-018-babidi-s-spaceship.md"
+  ],
+  "node_count_before": 61,
+  "node_count_after": 62,
+  "other_candidates_considered": [
+    "Babidi Saga 4-card narrative hinge cluster (TB2-015 → TB2-021 → TB2-013 → TB2-018) — superseded by node-proposal; the chain edge is now expressible through the Babidi node's anchor membership without explicit card-to-card chain edges, and TB2-021 Gohan deferred to a future son-gohan solo node.",
+    "Goku's Lineage family-tree node — per-relative density still below threshold; Bardock and Goten not yet vision-passed in solo cards.",
+    "Hirudegarn arc node — wave 56 trivia surfaced but no card-to-card-to-character cluster has been corpus-validated yet; deferred to wave 58 after another DB pass.",
+    "Vito ↔ Elenda saint-heretic pair — still pending; the Babidi node took priority on corpus weight (6 vs. 2 cards).",
+    "Wanderer arc — pending; one-card-at-a-time vision passes still landing.",
+    "Time Breaker symbol — pending; symbol-layer candidate not yet surfaced via 3+ enriched cards."
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "transformation_log": "Edgelord stepped aside. Mr. Nodeley took the pass. The corpus's Related-cards sections were already converging on a node that didn't exist — TB2-013 / TB2-015 / TB2-016 / TB2-018 all named the other three as Related, and all four implicitly hinged on a Babidi anchor. Six-card cluster in a single set, designer-coordinated villain roster, multi-aspect splits (ringmaster / enforcer / operatives / guardians / location), 23 total inventory across the cohort, Discrete Lair candidate confirmed. Mr. Nodeley quietly believes this saved the pass."
+}

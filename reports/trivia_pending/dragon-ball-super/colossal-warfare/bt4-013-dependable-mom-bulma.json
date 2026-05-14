@@ -1,0 +1,36 @@
+{
+  "card_name": "Dependable Mom Bulma",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-013",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name reads 'Dependable Mom Bulma'. Bulma is the daughter of Capsule Corporation founder Dr. Brief, inventor of the Dragon Radar, wife of Vegeta, and mother of Trunks. Identity unambiguous from card name. This is a non-combat Support card — one of the rare non-fighter representations of Bulma in the DBS TCG.",
+  "trivia_bullets": [
+    {
+      "category": "mechanical",
+      "text": "BT4-013 is a red Common Battle card (not green as the tags_filter color field suggests — confirmed red per vendor listings). Stats: 5000 power, 5000 combo power, 1-red energy cost. Activate:Main ability — switch to Rest Mode: draw 1 card, then give one of your Battle Cards +5000 power for the turn. It is a rest-to-buff support piece rather than an aggressive attacker. Era: Baby Saga. [Source: WebSearch snippet via CoreTCG, Big Orbit Cards, DBZ Exchange BT4-013 listings]",
+      "sources": ["CoreTCG: Dependable Mom Bulma listing", "Big Orbit Cards: BT4-013", "DBZ Exchange: BT4-013"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Bulma is the daughter of Dr. Brief, founder of Capsule Corporation — the franchise's dominant tech conglomerate. She invented the Dragon Radar as a teenager and has served as primary engineer and logistician for the Z Fighters across Dragon Ball, DBZ, and DBS. Her 'Dependable Mom' framing in BT4 reflects her GT-era role: a middle-aged mother and head of Capsule Corp while Vegeta and Trunks fight. [Source: Wikipedia: Bulma; WebSearch snippet via Bulma character page]",
+      "sources": ["Wikipedia: Bulma"]
+    },
+    {
+      "category": "design",
+      "text": "Non-combat Bulma cards consistently appear as support-type pieces across DBS TCG sets — her draw/buff utility reflects her in-universe role as the team's brains rather than a fighter. Within BT4, she is one of only a handful of cards depicting a character in a domestic or civilian context rather than a combat pose, contrasting sharply with the Baby Saga's violence. [Source: WebSearch snippet via Dependable Mom Bulma retailer descriptions]",
+      "sources": ["WebSearch snippet: Dependable Mom Bulma retailer listings"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Intensifying Power Trunks", "set": "Colossal Warfare", "note": "BT4-012 — Trunks is Bulma's son"},
+    {"name": "Blaze of Glory Son Gohan", "set": "Colossal Warfare", "note": "BT4-006 — Z Fighter Bulma supports; same Baby Saga era"},
+    {"name": "Dependable Mom Bulma", "set": "Galactic Battle", "note": "Earlier Bulma support card from BT1 for set comparison across print history"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

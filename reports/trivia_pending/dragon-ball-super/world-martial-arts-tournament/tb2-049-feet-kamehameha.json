@@ -1,0 +1,36 @@
+{
+  "card_name": "Feet Kamehameha",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-049",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The Feet Kamehameha is canonically Goku's technique, used once in the 23rd World Martial Arts Tournament against Piccolo Jr. The card's Extra skill explicitly requires a green 'Son Goku' Leader Card, confirming the depicted figure is Goku. Dark spiky hair and gi are Goku's signature visual identifiers.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Feet Kamehameha (TB2-049) is a green-color Extra card from DBS-TB02, released by Bandai in September 2018. Its skill reads: if your Leader Card is a green 'Son Goku', the active Battle Card gains +15,000 power and Critical for the duration of the battle. The mechanic explicitly anchors this technique to Son Goku, confirming the depicted figure.",
+      "sources": ["WebSearch: DBZ Exchange / House Rules Gaming product pages"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The Feet Kamehameha debuted in the 146th Dragon Ball anime episode and chapter 188 of the manga, during Goku's climactic fight with Piccolo Jr. at the 23rd World Martial Arts Tournament. Goku, knocked head-first toward the ground, fired the Kamehameha from his feet to reverse his fall and launch a double-punch counter. It has not appeared in the main manga/anime since — making it a single-use tournament-specific technique with an outsized legacy in Dragon Ball games and cards.",
+      "sources": ["WebSearch: CBR 'Dragon Ball: Why The Feet Kamehameha Should Come Back'", "WebSearch: Quora 'Can Goku still use the Feet Kamehameha'"]
+    },
+    {
+      "category": "set-lore",
+      "text": "DBS-TB02 World Martial Arts Tournament was released September 21, 2018, as the second Themed Booster pack for the Dragon Ball Super Card Game (MASTERS format). The 125-card set draws exclusively from the original Dragon Ball tournament arcs — the 21st through 23rd Tenkaichi Budokai — spotlighting fighters, techniques, and support characters from that era.",
+      "sources": ["WebSearch: Bleeding Cool checklist", "WebSearch: DBZ Exchange booster box page"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Future Martial Artist Son Goku", "set": "World Martial Arts Tournament", "note": "Same character (childhood Goku) in the same set — the technique card and the Battle card are mechanically linked (Extra boosts Goku Battle Cards)."},
+    {"name": "Toughened Up Krillin", "set": "World Martial Arts Tournament", "note": "Fellow 23rd Tenkaichi Budokai participant; shared World Tournament trait."},
+    {"name": "Master Roshi, Martial Meister", "set": "World Martial Arts Tournament", "note": "Goku's teacher; same set and tournament context."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Son Goku — Dragon Ball franchise",
+    "ip_confidence": "high"
+  }
+}

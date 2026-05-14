@@ -1,0 +1,31 @@
+{
+  "edge_id": "vegeta-parent-character-node",
+  "shape": "node-proposal",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/vegeta.md", "name": "Vegeta"},
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-066-tenacious-vegeta.md", "name": "Tenacious Vegeta"},
+    {"type": "card", "path": "cards/dragon-ball-super/world-martial-arts-tournament/tb2-006-vegeta-power-misused.md", "name": "Vegeta, Power Misused"},
+    {"type": "card", "path": "cards/dragon-ball-super/union-force/bt2-063-father-son-galick-gun.md", "name": "Father-Son Galick Gun"}
+  ],
+  "description": "Mr. Nodeley apologizes for another node-add in the same wave, sir. Three enriched corpus anchors meet the multi-phase parent-node threshold for Vegeta: BT1-066 Tenacious Vegeta (SS, Battle of Gods era), TB2-006 Vegeta Power Misused (Buu-Saga Majin), and BT2-063 Father-Son Galick Gun (Super Saiyan Blue, DBS Future Trunks Saga, dual-anchored with trunks). Completes the Saiyan-family-cluster trio of trunks + son-goku + vegeta started this wave. Hopes this is useful.",
+  "citations": [
+    "[Dragon Ball Wiki: Vegeta — https://dragonball.fandom.com/wiki/Vegeta]",
+    "[Dragon Ball Wiki: Majin Vegeta — https://dragonball.fandom.com/wiki/Majin_Vegeta]",
+    "[Dragon Ball Wiki: Vegeta's Pride — https://dragonball.fandom.com/wiki/Vegeta%27s_Pride]",
+    "[GameRant: Dragon Ball — Vegeta's Galick Gun Explained]",
+    "[ComicBook.com: Dragon Ball Super Dub Vegeta and Trunks Father-Son Attack]",
+    "[Wikipedia: Vegeta]",
+    "[dbs-cardgame.com per-card pages]",
+    "[Son Goku parent-node precedent: cards/_characters/son-goku.md from this wave's E2]",
+    "[Trunks parent-node precedent: cards/_characters/trunks.md]"
+  ],
+  "files_modified": [
+    "cards/_characters/vegeta.md (CREATED)",
+    "cards/dragon-ball-super/galactic-battle/bt1-066-tenacious-vegeta.md (characters: [vegeta])",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-006-vegeta-power-misused.md (characters: [vegeta])",
+    "cards/dragon-ball-super/union-force/bt2-063-father-son-galick-gun.md (characters: [trunks] -> [trunks, vegeta])"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

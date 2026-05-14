@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-14
 date_added: 2026-05-05
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401024079/AD091AACFBA6D141B03F8DE37019E1C7BBA3FFEA/
 image_width: 624
 image_height: 871
@@ -29,7 +29,8 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Son Goku (Dragon Ball)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
+characters: [son-goku]
 ---
 
 # Blazing Spirit Son Goku (Colossal Warfare)
@@ -38,8 +39,8 @@ ip_verified: false
 
 ![bt4-005-blazing-spirit-son-goku](../../_images/dragon-ball-super/colossal-warfare/bt4-005-blazing-spirit-son-goku.png)
 
-> [!warning] Suspected IP: **Son Goku (Dragon Ball)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Son Goku (Dragon Ball)**
+> Confirmed via card name (Blazing Spirit Son Goku) and character field (Son Goku: GT). [WebSearch: product listings BT4-005; Wikipedia: Dragon Ball GT]
 
 A young male figure in an orange gi rushes forward with a raised fist, dark spiky hair pointing upward. Golden-white energy flares radiate outward from around the figure, giving the impression of a blazing aura. The face shows wide open eyes and a teeth-bared expression of effort or battle-cry. The background is light and washed out, dominated by the yellow-white energy glow. The composition is a dynamic forward-charging mid-shot emphasizing speed and attacking momentum.
 
@@ -53,4 +54,15 @@ A young male figure in an orange gi rushes forward with a raised fist, dark spik
 **Emotion read:** battle-cry, fierce determination
 **Iconography:** energy-aura, gi, martial-arts
 **Genre cues:** anime
+
+## Trivia
+
+- **Mechanical design** — BT4-005 is a red Common Battle card: 15000 power, 5000 combo power, 2-red energy cost. The [Barrier] keyword prevents the card from being chosen by opponent skills — making it a resilient beatstick in the GT aggro shell. Character field is explicitly Son Goku: GT, placing this card in the Dragon Ball GT era rather than Dragon Ball Z or Super. `[Source: WebSearch: badgerssettnz.com / totalcards.net BT4-005 product listings]`
+- **Set context** — The GT designation reflects a key Dragon Ball GT plot point: early in GT, Goku is magically reverted to a child's body by the Emperor Pilaf's accidental wish on the Black Star Dragon Balls. BT4's GT-stamped Goku cards depict this de-aged version fighting through the Baby Saga as a child-sized warrior. `[Source: Wikipedia: Dragon Ball GT]`
+- **Set context** — Colossal Warfare introduced three new keyword mechanics to the DBS TCG: Swap, Bond, and Deflect. BT4-005 predates the complexity wave — it carries a simple [Barrier] keyword, functioning as a clean aggressive common in the GT/Baby Saga red pool without the new mechanic overhead. `[Source: WebSearch: Cardmarket Colossal Warfare expansion page; dbs-cardgame.com strategy page]`
+
+### Related cards
+- Baby // Rampaging Great Ape Baby (Colossal Warfare, BT4-002) — the Baby Saga Leader and primary antagonist this Goku card narratively opposes
+- Blaze of Glory Son Gohan (Colossal Warfare, BT4-006) — Goku's son; same red GT-era Baby Saga cluster
+- Power of Friendship Pan (Colossal Warfare, BT4-009) — Goku's granddaughter; the three GT space-arc protagonists appear across BT4's red pool
 

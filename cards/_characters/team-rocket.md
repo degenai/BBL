@@ -9,6 +9,7 @@ canonical_source: "Bulbapedia — Team Rocket; Bulbapedia — Giovanni; Bulbaped
 confidence: canonical
 appears_on:
   - pokemon/rebel-clash/154-192-boss-s-orders--holofoil
+  - pokemon/destined-rivals/179-182-team-rocket-s-venture-bomb
 related_hubs: []
 related_symbols: []
 related_characters: [team-skull]

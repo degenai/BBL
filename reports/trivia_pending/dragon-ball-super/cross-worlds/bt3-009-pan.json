@@ -1,0 +1,37 @@
+{
+  "card_name": "Pan",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-009",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is explicitly 'Pan' and the depicted young female fighter in orange-red jacket with cap matches Pan's canonical GT-era design. Pan is Goku's granddaughter and co-protagonist of the Black Star Dragon Ball Saga. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Pan is the daughter of Gohan and Videl, making her one-quarter Saiyan and the granddaughter of both Goku and Mr. Satan. In Dragon Ball GT she is one of three protagonists who travel the universe hunting Black Star Dragon Balls — notable as one of the youngest main-cast members to anchor a Dragon Ball arc. [Source: Dragon Ball Wiki (Fandom) / official Dragon Ball site character showcase]",
+      "sources": ["dragonball.fandom.com/wiki/Pan", "en.dragon-ball-official.com character showcase"]
+    },
+    {
+      "category": "design",
+      "text": "Pan is one of only two post-Frieza Saiyans who never achieved Super Saiyan form. Series creator Akira Toriyama stated he did not give Pan or Bulla a Super Saiyan transformation because he could not determine what it would look like on a female character and felt they lacked sufficient in-story incentive — a design choice that drew ongoing fan discussion throughout GT's run. [Source: Dragon Ball Wiki (Fandom)]",
+      "sources": ["dragonball.fandom.com/wiki/Pan"]
+    },
+    {
+      "category": "mechanical",
+      "text": "In the DBS card game, Pan appears as a Leader card in Cross Worlds (BT3), where she anchors the Black Star Dragon Ball Saga mechanic cluster. The BT3 designer's note identifies Pan as one of the set's featured leader characters alongside Dr. Myuu and Son Goku. [Source: dbs-cardgame.com set overview / WebSearch snippet]",
+      "sources": ["dbs-cardgame.com set overview", "WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Shocking Future Son Goku (BT3-007)", "set": "Cross Worlds", "note": "Goku is Pan's grandfather and GT traveling companion"},
+    {"name": "Reliable Trunks (BT3-010)", "set": "Cross Worlds", "note": "Trunks is the third member of the GT trio"},
+    {"name": "Handy Giru (BT3-013)", "set": "Cross Worlds", "note": "Giru is described as Pan's best friend in GT canon"},
+    {"name": "Power-absorbing Luud (BT3-016)", "set": "Cross Worlds", "note": "Luud absorbed Pan within its core — she fought back from inside to destroy it"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

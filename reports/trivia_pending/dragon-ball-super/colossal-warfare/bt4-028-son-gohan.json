@@ -1,0 +1,37 @@
+{
+  "card_name": "Son Gohan",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-028",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Son Gohan' — identity is explicit. Vision describes golden SSJ hair, dark outfit, powerful upright stance — canonical Super Saiyan Gohan. Colossal Warfare includes multiple Gohan cards (BT4-006 Blaze of Glory Son Gohan, BT4-048 Newfound Power Son Gohan, BT4-091 Adoptive Father Son Gohan). BT4-028 is a Common-tier Gohan consistent with set design patterns.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Colossal Warfare (DBS-B04) features at least four distinct Son Gohan cards across different rarities — BT4-006 (Blaze of Glory), BT4-028, BT4-048 (Newfound Power), and BT4-091 (Adoptive Father) — reflecting how the set draws from multiple Dragon Ball arcs simultaneously alongside its Baby Saga primary theme. [Source: Bleeding Cool: Colossal Warfare Checklist; DBZ Exchange product listings]",
+      "sources": ["https://bleedingcool.com/games/dragon-ball-super-card-game-colossal-warfare-checklist/", "https://dbzexchange.com/products/bt4-006-blaze-of-glory-son-gohan"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Son Gohan is the franchise's most prominent half-Saiyan — son of Goku and the human Chi-Chi. His special trait in the DBS card game is listed as Saiyan/Earthling, reflecting his dual heritage. The card game encodes this hybrid identity at the mechanical level through trait combinations not available to pure-Saiyan characters. [Source: WebSearch snippet, DBS card game card lists]",
+      "sources": ["https://www.dbs-cardgame.com/us-en/cardlist/?search=true&category=428004"]
+    },
+    {
+      "category": "design",
+      "text": "Gohan's 'hidden power' — a latent potential consistently higher than any pure-Saiyan peer — is a recurring narrative device across DBZ and DBS. His Mystic/Ultimate form (unlocked by Elder Kai in the Buu Saga) surpassed SS3 Goku without a traditional SSJ transformation, making him a design outlier in a franchise built on transformation escalation. [Source: GameRant: All Forms of Gotenks, Explained — context for Buu Saga power ceiling]",
+      "sources": ["https://gamerant.com/dragon-ball-all-forms-gotenks/"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Blaze of Glory Son Gohan", "set": "Colossal Warfare", "note": "BT4-006 — rarer Gohan in same set"},
+    {"name": "Newfound Power Son Gohan", "set": "Colossal Warfare", "note": "BT4-048 — Uncommon Gohan in same set"},
+    {"name": "Adoptive Father Son Gohan", "set": "Colossal Warfare", "note": "BT4-091 — Common Gohan variant, Galactic Patrolman Saga"},
+    {"name": "Fully Trained Super Saiyan Son Gohan", "set": "Union Force", "note": "BT2-074 — earlier set Gohan, shows evolution of the character across card sets"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Son Gohan (Dragon Ball)",
+    "ip_confidence": "high"
+  }
+}

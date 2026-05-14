@@ -1,0 +1,37 @@
+{
+  "card_name": "Shefet Archfiend",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "104",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The 'Shefet' in this card's name is a geographic reference to Amonkhet — Shefet is the name of Amonkhet's desert region, the vast wasteland outside the magical Hekma barrier where demons, mummies, and horrors roam. Amonkhet is one of the three planes hosting the Ghirapur Grand Prix in Aetherdrift. [WebSearch: MTG Salvation 'The World of Amonkhet'; Scryfall set_name Aetherdrift]",
+      "sources": ["MTG Salvation: The World of Amonkhet, via WebSearch", "Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"It yields only to the gods themselves.\" — No named speaker. In the post-Hour of Devastation Amonkhet lore, several Bolas-era gods remain (Hazoret, the Locust God, the Scarab God) alongside new deities. The archfiend's deference to 'the gods themselves' places it within this hierarchy of divine and demonic power on a plane still rebuilding after apocalyptic destruction. [Scryfall: flavor_text field; Wizards Planeswalker's Guide to Aetherdrift Part 1, via WebSearch]",
+      "sources": ["Scryfall", "Wizards.com Planeswalker's Guide to Aetherdrift Part 1, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Shefet Archfiend is a 5/5 Demon with Flying for 7 mana (5BB). Its ETB -2/-2 board wipe effect is powerful but costs 7; cycling for 2 provides the safety valve in slower games. EDHREC rank 16,138 — modest Commander presence, mostly as a cycling card that can threaten a board wipe if cast. The artist GodMachine (credited on Scryfall) is known for bold graphic-art demon illustrations. [Scryfall: edhrec_rank 16138, artist GodMachine]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Archfiend of Despair", "set": "Battlebond", "note": "Another iconic black Archfiend Demon with a board-affecting ETB — shares the archfiend creature type"},
+    {"name": "Archfiend of Ifnir", "set": "Amonkhet", "note": "Named Amonkhet archfiend; cycling synergy and -1/-1 counter punishment make it a direct set-family connection"},
+    {"name": "Hazoret the Fervent", "set": "Amonkhet", "note": "Amonkhet god who the Archfiend yields to — per flavor text's god-hierarchy"},
+    {"name": "Shefet Dunes", "set": "Hour of Devastation", "note": "Land named after the same Amonkhet desert region; confirms Shefet as geographic anchor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

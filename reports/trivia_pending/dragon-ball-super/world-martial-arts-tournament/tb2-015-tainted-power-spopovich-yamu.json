@@ -1,0 +1,37 @@
+{
+  "card_name": "Tainted Power, Spopovich & Yamu",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-015",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies both characters. The art's two-on-one grapple hold with purple energy extraction exactly matches the canonical scene where Spopovich held Gohan in place while Yamu used his Energy Absorber to drain Super Saiyan 2 energy. Confirmed via Dragon Ball Wiki.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Spopovich and Yamu were Babidi's sleeper agents embedded in the 25th World Martial Arts Tournament. Both were former human martial artists whose evil hearts made them susceptible to Babidi's Manipulation Sorcery. [Dragon Ball Wiki: Spopovich / Yamu]",
+      "sources": ["dragonball.fandom.com/wiki/Yamu", "villains.fandom.com/wiki/Spopovich"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card art recreates the pivotal energy-drain scene: Spopovich pinned Gohan in place while Yamu stabbed him with the Energy Absorber device to siphon his Super Saiyan 2 power for Majin Buu's revival. This moment is the inciting act that collapses the tournament into the Babidi Saga. [CBR: Buu Saga World Tournament recap]",
+      "sources": ["thereviewgeek.com: Dragon Ball Z Majin Buu Saga Full Story Recap", "CBR: World Tournament Saga"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "After delivering the energy, Babidi immediately discarded both agents — Spopovich exploded via magic; Yamu was killed by Pui Pui on Babidi's order. Their fate makes the 'Tainted Power' title pointed: the power they carried was never theirs to wield. [Dragon Ball Wiki: Yamu]",
+      "sources": ["dragonball.fandom.com/wiki/Yamu"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dark Duo Babidi", "set": "World Martial Arts Tournament", "note": "TB2-013 — their master who deployed them and then killed them"},
+    {"name": "Top of His Game Son Gohan", "set": "World Martial Arts Tournament", "note": "TB2-021 — the target whose SS2 energy they drained"},
+    {"name": "Babidi's Spaceship", "set": "World Martial Arts Tournament", "note": "TB2-018 — where they delivered the energy after the tournament"},
+    {"name": "Pui Pui, Magician's Lackey", "set": "World Martial Arts Tournament", "note": "TB2-016 — the one who killed Yamu on Babidi's order"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

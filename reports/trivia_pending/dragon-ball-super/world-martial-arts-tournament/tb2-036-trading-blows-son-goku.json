@@ -1,0 +1,37 @@
+{
+  "card_name": "Trading Blows Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-036",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name on frame is 'Trading Blows Son Goku'. Card already has characters: [son-goku] in frontmatter, indicating prior identification. Son Goku is a Bandai/Toei-internal IP, not an external crossover risk. Verified. No ## IP callout block required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "TB2-036 is a Common rarity card from the World Martial Arts Tournament Themed Booster (DBS-TB02). 'Trading Blows' references the style of close-quarters exchange fighting — Goku's preferred mode of combat at this stage of DBZ, where he was deliberately holding back to measure Uub's potential rather than going all out. [WebSearch: dbs-cardgame.com TB02 / Bleeding Cool TB02 checklist]",
+      "sources": ["WebSearch: dbs-cardgame.com TB02 product page", "WebSearch: Bleeding Cool TB02 checklist"]
+    },
+    {
+      "category": "mechanical",
+      "text": "This is the second Goku Common/Uncommon card in TB02, distinct from TB2-034 (Uncommon, double-sided, speed-stride pose). TB2-036 at $0.07 market value is one of the lower-value cards in the set — commons with named iconic characters in DBS TCG often trade near floor value since they are used as combo fodder rather than primary win conditions. [WebSearch: PriceCharting World Martial Arts Tournament]",
+      "sources": ["WebSearch: PriceCharting Dragon Ball Super World Martial Arts Tournament"]
+    },
+    {
+      "category": "design",
+      "text": "Son Goku first appeared in Akira Toriyama's Dragon Ball manga in 1984 (Weekly Shonen Jump no. 51, 1984). His orange gi design has remained largely unchanged across four decades and multiple series. The 28th Tournament arc depicted in this set marks one of Goku's few tournament appearances where his primary goal was not winning but scouting and recruiting Uub as his successor. [WebSearch: Wikipedia Trunks Dragon Ball / Game Rant Who Is Uub]",
+      "sources": ["WebSearch: Game Rant Dragon Ball Who Is Uub", "WebSearch: Dragon Ball Official Site"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Son Goku // Stopping Power Son Goku (TB2-034)", "set": "World Martial Arts Tournament", "note": "Second Goku card in same set"},
+    {"name": "Shocking Latent Ability (TB2-033)", "set": "World Martial Arts Tournament", "note": "Uub card — Goku vs Uub is the source match for both cards"},
+    {"name": "Tien Shinhan, Trading Moves (TB2-043)", "set": "World Martial Arts Tournament", "note": "Same set"},
+    {"name": "Best Buddy Chiaotzu (TB2-044)", "set": "World Martial Arts Tournament", "note": "Same set — Tien/Chiaotzu also attended the 28th Tournament"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

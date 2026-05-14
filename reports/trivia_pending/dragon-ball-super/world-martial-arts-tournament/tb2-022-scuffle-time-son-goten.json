@@ -1,0 +1,36 @@
+{
+  "card_name": "Scuffle Time Son Goten",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-022",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies Son Goten. The art shows a young dark-haired fighter in a dark gi with ki energy gathering — consistent with Goten's canonical appearance as a child fighter at the 25th World Martial Arts Tournament Junior Division. Confirmed via Dragon Ball Wiki and official Dragon Ball site.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Son Goten entered the Junior Division of the 25th World Martial Arts Tournament at age 7, defeating his first opponent with a single punch before facing his best friend Trunks in the final. Goten achieved Super Saiyan transformation earlier than any character in the series at that point. [Dragon Ball Wiki: Goten; Official Dragon Ball site character showcase no. 61]",
+      "sources": ["dragonball.fandom.com/wiki/Goten", "en.dragon-ball-official.com/news/01_1226.html"]
+    },
+    {
+      "category": "design",
+      "text": "The 'Scuffle Time' title captures the Junior Division's tone — Goten and Trunks treat their matches as rough-and-tumble play rather than serious competition, a deliberate tonal contrast to the Babidi threat emerging in the adult bracket simultaneously. [Dragon Ball Wiki: Trunks vs. Goten Part 2]",
+      "sources": ["dragonball.fandom.com/wiki/Trunks_vs._Goten,_Part_2"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "In the Junior Division final, Goten transformed into a Super Saiyan mid-match to break free from Trunks' hold — at age 7, both boys were already casually achieving transformations that adult fighters trained years to reach. Community sentiment on r/dragonball treats the Junior Division as the series' most charming display of the next generation's absurd power ceiling. [WebSearch: Son Goten Junior Division tournament]",
+      "sources": ["dragonball.fandom.com/wiki/Trunks_vs._Goten,_Part_2 (via WebSearch)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Awkward Situation Trunks", "set": "World Martial Arts Tournament", "note": "TB2-026 — Goten's best friend and Junior Division opponent"},
+    {"name": "Top of His Game Son Gohan", "set": "World Martial Arts Tournament", "note": "TB2-021 — Gohan is Goten's older brother, both present at the tournament"},
+    {"name": "Begrudging Respect Piccolo", "set": "World Martial Arts Tournament", "note": "TB2-027 — later trained Goten and Trunks for fusion against Buu"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

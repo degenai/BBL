@@ -1,0 +1,17 @@
+{
+  "edge_id": "wave-54-galar-mine--rolycoly",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "same-location-and-flavor-pair",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/rebel-clash/160-192-galar-mine.md", "name": "Galar Mine"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/105-192-rolycoly.md", "name": "Rolycoly"}
+  ],
+  "description": "Galar coal-mine site-and-resident pair, within-set adjacency in Rebel Clash. Galar Mine renders the in-game location depicted in Pokemon Sword & Shield (Game Freak, 2019) — the tunnel between Routes 3 and 4 en route to Turffield; Rolycoly's flavor text canonizes the species as the mine's biological residue ('this Pokemon was first discovered in coal mines about 400 years ago'). Together the pair renders the extraction site and the species the site produces, anchoring the Galar coal-line within labor hub's apparatus-of-extraction thesis. This is an ADD to Galar Mine (which already had a Pikachu/labor-thesis Connection); the labor hub now has two Galar-Mine Connection arms — the workforce-as-energy-resource (Pikachu BUS-40) and the site-and-resident species pair (Rolycoly + Carkol coal-line).",
+  "citations": ["[PokemonTCG.io: swsh2-105 flavor_text]", "[PokemonTCG.io: swsh2-160]", "[Bulbapedia: Galar Mine (location)]", "[Bulbapedia: Rolycoly (Pokemon)]"],
+  "files_modified": [
+    "cards/pokemon/rebel-clash/160-192-galar-mine.md",
+    "cards/pokemon/rebel-clash/105-192-rolycoly.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored"
+}

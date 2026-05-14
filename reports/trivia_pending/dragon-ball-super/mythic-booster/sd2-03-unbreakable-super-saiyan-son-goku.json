@@ -1,0 +1,36 @@
+{
+  "card_name": "Unbreakable Super Saiyan Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Mythic Booster",
+  "collector_number": "SD2-03",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Son Goku'. Orange-and-blue gi, upright spiky golden hair (Super Saiyan), and card number SD2-03 all trace to the DBS-SD02 'The Extreme Evolution' starter deck. Mythic Booster (MB-01) reprinted SD deck cards with new alternate art. The Barrier skill noted in retailer research is consistent with a defensive-breakout Goku card. Verified via card name and Bandai official card database.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "SD2-03 originates in DBS-SD02 'The Extreme Evolution' starter deck, released January 2020. The Mythic Booster (MB-01) reprinted cards from starter decks, promos, and pre-Unison Warrior boosters — 63 total reprints, each featuring new alternate artwork and a gold stamp. MB-01 notably contains the first Secret Rare reprints in DBS Card Game history. [Mythic Booster MB-01 product page: dbs-cardgame.com; TrollAndToad: Mythic Booster MB-01 set listing]",
+      "sources": ["dbs-cardgame.com: Mythic Booster MB-01 product page", "TrollAndToad: Dragon Ball Super Mythic Booster MB-01"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card has Barrier — a skill that prevents it from being targeted by the opponent's skills when played — consistent with its 'Unbreakable' subtitle. Retailer research indicates it functions as a setup piece for EX-Evolve plays on higher-cost Goku cards, similar to the Swap mechanic seen on Dependable Dynasty Son Goku (BT4-078). [TotalCards.net: MB-01 Unbreakable Super Saiyan Son Goku SD2-03; WebSearch Mythic Booster SD2-03 card details]",
+      "sources": ["TotalCards.net: Dragon Ball Super MB01 Unbreakable Super Saiyan Son Goku SD2-03"]
+    },
+    {
+      "category": "design",
+      "text": "The blue energy element in the card's aura — layered with the golden Super Saiyan hair rather than replacing it — may be a stylistic nod to Goku's Super Saiyan God SS (Blue) form without fully depicting it. The card's own collector number and starter deck origin anchor it as standard Super Saiyan rather than Blue. The mixed-aura art creates visual ambiguity that the 'Unbreakable' framing leans into, suggesting a Goku on the cusp of further transformation. [Vision pass art description; TotalCards.net SD2-03 listing]",
+      "sources": ["TotalCards.net: Dragon Ball Super MB01 SD2-03 listing", "WebSearch: Mythic Booster MB01 starter deck reprints"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dependable Dynasty Son Goku", "set": "Magnificent Collection Forsaken Warrior (BT4-078)", "note": "Same character, base form — escalation pair"},
+    {"name": "Chain Attack Trunks", "set": "Mythic Booster (SD2-05)", "note": "Same Mythic Booster set, companion card SD2-05"},
+    {"name": "Son Gohan, Family of Justice", "set": "Galactic Battle (BT1-062)", "note": "Goku's Lineage — son, thematic family cluster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

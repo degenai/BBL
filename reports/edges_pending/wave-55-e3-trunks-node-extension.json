@@ -1,0 +1,28 @@
+{
+  "edge_id": "wave-55-e3-trunks-extension-kid-trunks-and-vegeta-trunks-pair",
+  "wave": 55,
+  "slot": "E3",
+  "shape": "1:N-fanned-extension-of-E2-node",
+  "category": "named-character-identity-fourth-incarnation-discovery",
+  "endpoints": [
+    {"type": "character-node", "path": "cards/_characters/trunks.md", "name": "Trunks (parent anchor extended)"},
+    {"type": "card", "path": "cards/dragon-ball-super/world-martial-arts-tournament/tb2-007-tiny-rivals-trunks.md", "name": "Tiny Rivals Trunks", "incarnation": "Kid Trunks (FOURTH NAMED INCARNATION discovery)"},
+    {"type": "card", "path": "cards/dragon-ball-super/union-force/bt2-063-father-son-galick-gun.md", "name": "Father-Son Galick Gun", "incarnation": "Future Trunks (with Vegeta, SS+SSB duo)"}
+  ],
+  "topology": "branch",
+  "description": "Looking at the unwired queue surfaced two more Trunks-depicting corpus cards that my E2 caveat had explicitly called out as 'not in corpus' — wrongly. TB2-007 Tiny Rivals Trunks depicts Kid Trunks (the fourth named incarnation: present-timeline child Trunks raised on Earth, designer-coordinated paired-print with TB2-004 Tiny Rivals Son Goten as the canonical Junior Tournament Buu-Saga cohort). BT2-063 Father-Son Galick Gun depicts adult Future Trunks alongside Vegeta executing the DBS episode 65 canonical father-son attack (SS Future Trunks + SS Blue Vegeta duo portrait). Both wire cleanly to the parent Trunks node under existing structural precedent (Future Trunks aspect for BT2-063; new Kid Trunks aspect for TB2-007). E3 extends the parent's appears_on from 7 to 9 cards and clarifies that all four canonical Trunks incarnations are now corpus-represented.",
+  "structural_precedent_cited": ["tamiyo (the same node accumulates aspects as corpus members arrive)"],
+  "canonical_sources": [
+    "Dragon Ball Wiki — Kid Trunks",
+    "Dragon Ball Wiki — Father-Son Galick Gun",
+    "Dragon Ball Super episode 65 (Toei Animation, 2016)",
+    "Bandai dbs-cardgame.com TB2 promo set listings"
+  ],
+  "files_modified": [
+    "cards/_characters/trunks.md (extended appears_on from 7 to 9 cards; updated intro to four-incarnation framing; new Aspects sub-sections for Kid Trunks and Future-Trunks-alongside-Vegeta; updated Discrete Lair count and Caveats)",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-007-tiny-rivals-trunks.md (added characters: [trunks])",
+    "cards/dragon-ball-super/union-force/bt2-063-father-son-galick-gun.md (added characters: [trunks])"
+  ],
+  "edgelord_mood": "enlightened-corrective",
+  "voice_note": "I had to fix my own Mr. Nodeley E2 caveat that wrongly claimed Kid Trunks wasn't in corpus. Walking the unwired queue surfaced TB2-007 (Kid Trunks) and BT2-063 (Future Trunks with Vegeta in canonical Father-Son Galick Gun pose) — both already vision-verified, both unambiguously Trunks, both waiting to be wired. The Discrete Lair stack thickens from 7 corpus anchors to 9 across four named incarnations. The corrective is small but load-bearing — the Trunks node's claim 'all four canonical incarnations are corpus-represented' is now true. This is exactly why Edgelord values the audit-then-extension pattern."
+}

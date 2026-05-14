@@ -1,0 +1,36 @@
+{
+  "card_name": "Roadside Assistance",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "26",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Roadside Assistance is a new card (not a reprint) first printed in Aetherdrift (February 2025), sitting in the white uncommon slot of the set's Vehicle/Mount-focused design space.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Aura creates a 1/1 Pilot token with inflated crew power (counts as though power were 2 greater), making it a rare example of an Aura that generates a separate token on entry alongside +1/+1 and lifelink buffs. Synergizes specifically with Crew and Saddle mechanics.",
+      "sources": ["Scryfall: oracle text"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"No road has to be traveled alone.\" Functions as thematic branding for the set's cooperative racing framing — teams in the Grand Prix form temporary alliances against external threats.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tune Up", "set": "Aetherdrift (DFT no. 33)", "note": "same set; artifact/vehicle support in white/red"},
+    {"name": "Avishkar Raceway", "set": "Aetherdrift (DFT no. 249)", "note": "the Grand Prix track; set context anchor"},
+    {"name": "Kolodin, Triumph Caster", "set": "Aetherdrift (DFT no. 210)", "note": "Legendary Human Pilot; Pilot synergy in same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

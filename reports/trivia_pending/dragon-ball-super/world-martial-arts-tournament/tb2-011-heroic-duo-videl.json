@@ -1,0 +1,36 @@
+{
+  "card_name": "Heroic Duo Videl",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-011",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies the character as Videl. Visual match is canonical: female fighter in blue sleeveless outfit, black hair tied back, fists raised in a charging combat pose — matches Videl's standard tournament-era appearance in Dragon Ball Z. The 'Heroic Duo' in the card title references her partnership with Gohan (as the Great Saiyaman duo). No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Videl is the daughter of Mr. Satan/Hercule and a skilled martial artist in her own right — strong enough to hold her own against normal humans and early-arc fighters. She later learns to fly from Gohan under blackmail (she threatened to expose his Great Saiyaman identity). 'Heroic Duo' references her partnership with Gohan, who fought as Great Saiyaman alongside her Great Saiyawoman persona before the 25th World Tournament. [Dragon Ball Wiki: Videl / Wikipedia: Videl]",
+      "sources": ["Dragon Ball Wiki: Videl", "Wikipedia: Videl", "CBR: Dragon Ball Gohan Wife Relationship"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Videl is the only female character known to have won a tournament division in the Dragon Ball franchise — specifically noted as the only known female Martial Arts Champion in any tournament or division. Her placement in the World Martial Arts Tournament themed booster grounds her in the 25th Tournament context where she competes and is later revealed to be connected to Gohan. [Dragon Ball Wiki: Videl]",
+      "sources": ["Dragon Ball Wiki: Videl", "Wikipedia: Videl"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Videl eventually becomes Gohan's wife and the mother of Pan — a quarter-Saiyan who appears in Dragon Ball GT. Videl's arc across DBZ tracks from tournament competitor to crime-fighter-in-training to member of the Son family, making her one of the stronger character development threads in the late-series normal-human cast. [Wikipedia: Videl]",
+      "sources": ["Wikipedia: Videl", "CBR: Dragon Ball Gohan Wife Relationship"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hercule, Bundle of Confidence", "set": "World Martial Arts Tournament (TB2-001)", "note": "Hercule is Videl's father; both appear in the same TB2 set"},
+    {"name": "Gohan, Great Saiyaman", "set": "Various DBS sets", "note": "Videl's partner in the 'Heroic Duo' — Gohan taught her to fly and they fought crime together"},
+    {"name": "Pan", "set": "Various DBS sets", "note": "Videl's daughter with Gohan; quarter-Saiyan who appears in Dragon Ball GT"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Videl",
+    "ip_confidence": "high"
+  }
+}

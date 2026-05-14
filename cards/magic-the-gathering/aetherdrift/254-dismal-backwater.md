@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-14
 date_added: 2026-05-10
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://cards.scryfall.io/png/front/f/2/f20aef3f-79f6-4357-8631-1d141f437def.png?1753618484
 art_match_confidence: high
 needs_manual_review: false
@@ -51,4 +51,15 @@ A wide swamp scene rendered in deep blue-blacks and muted browns. A tall hooded 
 **Creatures:** ghost, ferryman, hooded-figure
 **Iconography:** ferryman, river-of-the-dead, soul, skeletal-trees
 **Genre cues:** fantasy, gothic, dark-fantasy
+
+## Trivia
+
+- **Set context** — Dismal Backwater is the most reprinted card in this inventory batch: its 20th printing as of Aetherdrift (February 2025), having first appeared in Khans of Tarkir (September 2014). It is legal in every major format including Pauper, making it one of the most format-ubiquitous dual lands in the game [Scryfall].
+- **Flavor text / faction** — `"The doomed souls of the Speed Demons race in uneasy unity, each one hoping to escape their own fate."` `[Scryfall]` The Speed Demons are a racing team from Duskmourn composed of possessed racers and their tormentors, described as the advancing edge of Valgavoth's "mansionization" process across the Multiverse — the flavor text's dark irony (souls racing to escape their fate) maps directly to the ferryman-and-ghost art [MTG Wiki: Speed Demons].
+- **Design** — Artist Wayne Wu's rendering inverts the typical Dismal Backwater treatment: prior printings depict murky water and ruins, but this version foregrounds the Psychopomp iconography (ferryman, glowing soul, skeletal trees) native to the gothic Speed Demons faction, giving an old land a faction-specific visual identity [Scryfall: card comparison across prints].
+
+### Related cards
+- Dismal Backwater (Khans of Tarkir) — first printing of this oracle text
+- Bloodfell Caves (Aetherdrift, DFT no. 251) — same gain-land cycle; same set
+- Speed Demon (Aetherdrift) — faction commander for the Speed Demons racing team in flavor text
 

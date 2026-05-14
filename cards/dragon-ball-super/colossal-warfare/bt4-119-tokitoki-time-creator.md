@@ -10,20 +10,49 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["deity", "time", "creation", "divine", "bird", "wings", "light", "sacred", "xenoverse", "time-keeper", "wonder", "celestial"]
+tags_filter: ["group", "wide", "narrative", "backlit", "no-face"]
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-119-tokitoki-time-creator.png
 average_cost_paid: 0
 market_price: 0.02
 market_price_as_of: 2026-05-14
 date_added: 2026-05-12
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401043270/025725E49B7DA8D620830EA56DC12C2671051D69/
 image_width: 624
 image_height: 864
 image_quality: med
 art_match_confidence: high
 needs_manual_review: false
+mood: sublime
+time_of_day: indeterminate
+setting: void
+subject_known_ip: true
+suspected_ip: Tokitoki (Dragon Ball Xenoverse)
+ip_confidence: high
+ip_verified: false
 ---
 
 # Tokitoki, Time Creator (Colossal Warfare)
+
+## Vision
+
+![bt4-119-tokitoki-time-creator](../../_images/dragon-ball-super/colossal-warfare/bt4-119-tokitoki-time-creator.png)
+
+> [!warning] Suspected IP: **Tokitoki (Dragon Ball Xenoverse)** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A small, vividly colored bird with large ornate wings occupies the upper center of the frame, radiating golden and white light. Two small humanoid figures flank the bird below — one with pink hair, one with shorter lighter hair — both appearing joyful and in awe. The background is bright and luminous, dominated by white-gold light with soft colorful energy wisps. The mood is celebratory and divine rather than combative. The bird is the clear focal point and appears supernatural in nature.
+
+**Subject:** Tokitoki, a small colorful bird deity surrounded by radiant golden energy and accompanied by two small humanoid figures
+
+**Composition:** wide, narrative, figures: group, facing: forward
+**Setting:** void, indeterminate
+**Foreground:** colorful winged bird deity radiating golden light, two small humanoid figures below  *(palette: gold, white, pink, blue, orange)*
+**Background:** luminous white-gold light with soft energy wisps  *(palette: white, gold, light-blue)*
+**Mood / lighting:** sublime, backlit
+**Emotion read:** awe, joy, wonder — the humanoid figures look up with delight
+**Creatures:** bird, divine-creature
+**Iconography:** radiant-light, divine-wings, golden-aura
+**Genre cues:** anime, fantasy
+

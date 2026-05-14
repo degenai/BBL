@@ -1,0 +1,36 @@
+{
+  "card_name": "Announcer, Ever-Curious",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-066",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name contains 'Announcer' explicitly. The World Tournament Announcer is canonically described as having blonde hair, sunglasses, and a navy-blue or black suit — matching the Vision description exactly (suited blond figure with sunglasses holding a microphone). The Announcer is one of the few Dragon Ball humans to appear across all major tournament arcs. The card's oracle text confirms 'Character: Announcer' and Special Trait 'Earthling/World Tournament'. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The World Tournament Announcer (Tenkaichi Budokai Anaunsaa) has hosted every World Martial Arts Tournament in the original Dragon Ball manga through Dragon Ball GT — making him one of the longest-running supporting characters in the franchise. He is one of the few normal humans fully aware that the Z fighters are superhuman and that Mr. Satan did not actually defeat Cell.",
+      "sources": ["WebSearch: Dragon Ball Wiki Fandom snippet on World Tournament Announcer", "WebSearch: Behind The Voice Actors Dragon Ball Z Announcer page"]
+    },
+    {
+      "category": "design",
+      "text": "Announcer, Ever-Curious (TB2-066) is a black-color Common Battle card (1 energy, 1,000 power, 5,000 combo). Its on-play ability: if the Leader is 'World Tournament,' look at the top 7 cards of the deck, choose up to 1 'World Tournament' card among them and add it to hand, then shuffle. This tutor effect makes the Announcer a consistency piece — fitting his narrative role as the person who controls the information flow of every tournament.",
+      "sources": ["WebSearch: DBZ Exchange TB2-066 product page", "WebSearch: CoolStuffInc Announcer Ever-Curious listing"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At 1,000 base power, the Announcer is the lowest-power battle card in this wave — he cannot meaningfully attack. But his top-7 tutor is strong in a dedicated World Tournament deck, fetching key leader-linked pieces on demand. The card's black color identity also separates him from the yellow cluster of fighters in TB2, which mirrors his role as an observer rather than a combatant.",
+      "sources": ["WebSearch: DBZ Exchange TB2-066", "WebSearch: Big Orbit Cards TB2-066 listing"]
+    }
+  ],
+  "related_cards": [
+    {"name": "I'm the World Champion!", "set": "World Martial Arts Tournament", "note": "The Announcer knows Mr. Satan is a fraud; both are World Tournament-trait non-fighters in the same set."},
+    {"name": "Risque Ranfan", "set": "World Martial Arts Tournament", "note": "Announcer hosted the 21st Tenkaichi Budokai where Ranfan competed; both are tournament-arc supporting cast."},
+    {"name": "Master Roshi, Martial Meister", "set": "World Martial Arts Tournament", "note": "Roshi entered as Jackie Chun under the Announcer's watch at the 21st and 22nd tournaments; shared World Tournament trait."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "World Tournament Announcer",
+    "ip_confidence": "high"
+  }
+}

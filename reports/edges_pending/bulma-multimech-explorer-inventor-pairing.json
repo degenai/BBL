@@ -1,0 +1,26 @@
+{
+  "edge_id": "bt4-092-multimech-bulma--bt4-093-explorer-bulma",
+  "shape": "1:1",
+  "category": "named-character-identity",
+  "topology": "mirror",
+  "endpoints": [
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-092-multimech-bulma.md", "name": "Multimech Bulma"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-093-explorer-bulma.md", "name": "Explorer Bulma"}
+  ],
+  "description": "Two endpoints, same character (Bulma), same set, adjacent collector numbers (Bandai-explicit within-set pairing), same engineer-inventor incarnation register. Both cards depict Bulma in Capsule-Corp-tech-deployment configurations (mechanical inventor-helmet at BT4-092, retro-futuristic hover-bike at BT4-093) and together compose the Bandai BT4 inventor-Bulma sub-archetype, distinct from BT4-013's mom-incarnation register. The mirror is professional, not personal. A future Bulma solo character node (deferred to wave 64 per orchestrator) will absorb both edges as `appears_on:` anchors and this 1:1 mirror remains structurally consistent with that future absorption.",
+  "citations": [
+    "[Dragon Ball Wiki: Bulma]",
+    "[dbs-cardgame.com: Colossal Warfare BT4 per-card pages BT4-092 / BT4-093]",
+    "[Wikipedia: Bulma]"
+  ],
+  "files_modified": [
+    "cards/dragon-ball-super/colossal-warfare/bt4-092-multimech-bulma.md (## Connections section added)",
+    "cards/dragon-ball-super/colossal-warfare/bt4-093-explorer-bulma.md (## Connections section added)"
+  ],
+  "other_candidates_considered": [
+    "BT4-013 Dependable Mom Bulma ↔ BT4-092/093 inventor-Bulma cards — rejected as the cleanest E3 play because the mom-vs-inventor register-shift is a more substantive cross-incarnation edge that a future bulma.md solo node would absorb at the parent-anchor level; the E3 1:1 mirror within the inventor register is structurally tighter (same register, adjacent collector numbers, single Bandai sub-archetype)",
+    "BT4-013 Dependable Mom Bulma ↔ TB2-006 Vegeta Power Misused — Bulma is Vegeta's canonical wife per Dragon Ball Wiki, but the family-relation edge is better hosted on a future bulma.md solo node's related_characters: field (mirroring Vegeta's node which would link back). Cross-character 1:1 mirrors at card-to-card level when both characters are likely-future-node-candidates is structurally redundant.",
+    "BT4-064/065/066 Dark Vassal trio cross-edges to wrath-of-the-dragon-saga's BT4-039/040/041 bearer-brothers cycle (within-set villain-cohort-vs-heroic-cohort companion-pair) — rejected for this wave because both endpoints are now cycle-nodes and the cross-edge is implicit in the [[wrath-of-the-dragon-saga]] See Also citation already present in the new dark-vassal-trio.md node. Surfacing for future Discrete Lair assembly when the Colossal Warfare booster's full cycle-architecture warrants its own commission."
+  ],
+  "edgelord_mood": "sighed-but-mirrored"
+}

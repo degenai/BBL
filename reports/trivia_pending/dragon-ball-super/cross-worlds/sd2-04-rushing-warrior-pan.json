@@ -1,0 +1,36 @@
+{
+  "card_name": "Rushing Warrior Pan",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "SD2-04",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Pan' — her canonical name. The SD2 'Extreme Evolution' starter deck is documented as a GT-arc deck centered on Pan. Young female fighter in orange-red outfit is consistent with Pan's published appearance in Dragon Ball GT (red crop top, orange bandana, martial arts gear). Card name plus starter deck documentation plus visual profile confirm identity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "SD2-04 is from 'The Extreme Evolution' starter deck (DBS-SD02), one of two starter decks released alongside the Cross Worlds booster in 2018. The Extreme Evolution is a red-color GT-arc deck built around Pan and Goku as leader cards, with Pan functioning as a support/draw engine when used in combos. [WebSearch: DBS SD2 Extreme Evolution product listing]",
+      "sources": ["WebSearch: DBS SD2 Extreme Evolution product listing", "WebSearch: DBS series 3 roundup strategy page"]
+    },
+    {
+      "category": "design",
+      "text": "Pan is the granddaughter of Goku and Mr. Satan — a quarter-Saiyan, three-quarters Earthling. She first appears in Dragon Ball GT at age 10 as one of the main characters for the show's Universal Dragon Ball hunt arc, traveling with Goku and Trunks. Her inability to achieve Super Saiyan despite her heritage has been a persistent point of fan discussion. [Dragon Ball Wiki: Pan, via WebSearch; Screen Rant: Dragon Ball GT Pan Super Saiyan article, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: Pan, via WebSearch", "Screen Rant: Dragon Ball GT Pan article, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "In the Cross Worlds card game context, Pan's SD2 card functions with SD2-01 Goku as leader and pairs with BT3-011 Trunks to produce quick board presence by turns 2-3. The design intent per the official strategy page is to use Pan's power-boosting and draw effects as a combo enabler rather than a standalone attacker. [WebSearch: DBS SD2 Extreme Evolution strategy, series 3 roundup page]",
+      "sources": ["WebSearch: DBS SD2 Extreme Evolution strategy, series 3 roundup"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Quick blade Trunks", "set": "Cross Worlds", "note": "SD3-03 Trunks appears in the SD3 Dark Invasion deck; original GT Trunks is Pan's traveling companion in Dragon Ball GT"},
+    {"name": "Rushing Warrior Pan", "set": "Cross Worlds", "note": "BT3-009 variant (referenced in vision pass) — same character, different art in the BT3 booster vs. the SD2 starter"},
+    {"name": "Supreme Kai of Time, World's Protector", "set": "Cross Worlds", "note": "Chronoa — Pan's GT-arc contrasts with the Xenoverse arc Chronoa governs in the same product wave"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

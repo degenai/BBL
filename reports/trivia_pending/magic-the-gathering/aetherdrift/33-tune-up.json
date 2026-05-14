@@ -1,0 +1,43 @@
+{
+  "card_name": "Tune Up",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "33",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Flavor text names 'Pia' directly. Pia Nalaar, Chief Mechanic (DRC 2) is her named card in the Aetherdrift Commander decks. She is canonically co-founder and Chief Engineer of the Aether Rangers in the Aetherdrift Grand Prix narrative. Confidence raised to high.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Tune Up is a new card (not a reprint) first printed in Aetherdrift (released 2025-02-14). Its effect — returning an artifact from the graveyard and animating Vehicles as artifact creatures — dovetails directly with Daretti's signature graveyard-artifact recursion ability on Daretti, Scrap Savant, making the flavor text pairing mechanically resonant as well as narrative.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The flavor text names both Daretti and Pia explicitly. Pia Nalaar is canonically present in Aetherdrift as co-founder and Chief Engineer of the Aether Rangers racing team; her named card 'Pia Nalaar, Chief Mechanic' appears in the Aetherdrift Commander decks (DRC, card no. 2). Daretti also has a named card in the main set: 'Daretti, Rocketeer Engineer' (DFT, no. 120), a Legendary Goblin Artificer who leads the Goblin Rocketeers.",
+      "sources": ["Scryfall", "MTG Wiki: Aether Rangers"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"For most people? The odds would be insurmountable,\" Daretti said. \"But we're not most people,\" Pia replied. — Daretti and Pia Nalaar",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Aetherdrift (set code DFT) is the 103rd Magic: The Gathering expansion, released February 14, 2025. The set is structured around ten racing teams from across the Multiverse competing in the Ghirapur Grand Prix; the Aether Rangers represent Avishkar's new post-revolutionary government, the Avishkar Assembly.",
+      "sources": ["MTG Wiki: Aetherdrift"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pia Nalaar, Chief Mechanic", "set": "Aetherdrift Commander (DRC)", "note": "named card for verified IP; same set cycle"},
+    {"name": "Daretti, Rocketeer Engineer", "set": "Aetherdrift (DFT)", "note": "flavor text co-speaker; Goblin Rocketeers team lead"},
+    {"name": "Daretti, Scrap Savant", "set": "various", "note": "Daretti's planeswalker version; mechanically mirrors Tune Up's recursion effect"},
+    {"name": "Pia Nalaar", "set": "various", "note": "earlier creature prints of Pia predating Chief Mechanic role"},
+    {"name": "Avishkar Raceway", "set": "Aetherdrift (DFT)", "note": "the Grand Prix track; Avishkar plane anchor card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Pia Nalaar",
+    "ip_confidence": "high"
+  }
+}

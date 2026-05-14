@@ -1,0 +1,17 @@
+{
+  "edge_id": "wave-54-diversion-specialist--razorkin-hordecaller",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-faction-conflict",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/132-diversion-specialist.md", "name": "Diversion Specialist"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/152-razorkin-hordecaller.md", "name": "Razorkin Hordecaller"}
+  ],
+  "description": "Survivor-side vs. Razorkin-side of the DSK faction-conflict pillar. Diversion Specialist's flavor text 'Hey! Fang-faces! Over here!' is shouted directly at the Razorkin faction Hordecaller leads. Wizards' Planeswalker's Guide to Duskmourn names Razorkin and Survivors as two of the three canonical Duskmourn factions (Razorkin / Cult of Valgavoth / Survivors). Both cards' triviabot Related-cards sections already gesture at each other; this edge promotes that mutual recognition to formal Connections wiring.",
+  "citations": ["[Wizards: Planeswalker's Guide to Duskmourn]", "[Scryfall flavor_text DSK-132]", "[MTG Wiki: Duskmourn — Razorkin]"],
+  "files_modified": [
+    "cards/magic-the-gathering/duskmourn-house-of-horror/132-diversion-specialist.md",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/152-razorkin-hordecaller.md"
+  ],
+  "edgelord_mood": "satisfied"
+}

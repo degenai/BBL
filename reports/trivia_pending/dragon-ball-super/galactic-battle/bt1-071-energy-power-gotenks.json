@@ -1,0 +1,36 @@
+{
+  "card_name": "Energy Power Gotenks",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-071",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Gotenks'. Figure wears canonical Metamoran fusion vest (black-and-white cropped vest with white sash), which is exclusive to fusion-dance characters in Dragon Ball lore. Two-tone hair and child-scale frame match Gotenks' standard design. Special Trait and Battle of Gods Saga era designation confirm. Verified via card name, Metamoran vest visual identifier, and Bandai official card database.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Galactic Battle (BT1), released July 28, 2017, was the first English DBS Card Game booster. Including Gotenks as a common in the inaugural set signals how central fusion characters are to the game's identity — the fusion mechanic would later anchor multiple competitive archetypes across BT2 (Union Force) and beyond. [PSA CardFacts: 2017 Dragon Ball Super Series 1 Galactic Battle]",
+      "sources": ["PSA CardFacts: 2017 Dragon Ball Super Series 1 Galactic Battle"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT1-071 is a Green Battle card with Power 15,000 and energy cost 3 Green. Its Auto skill reads: 'When this card attacks a Leader Card, your opponent chooses 1 card from their hand and places it in the Drop Area.' At 3 energy, a 15,000-power body is above the curve for cost, and the hand-disruption trigger on Leader attacks means opponents must decide whether to block the attack (preventing the discard) or take the Leader hit and lose a card. [WebSearch: The Side Deck listing BT1-071; TCGplayer product page BT1-071]",
+      "sources": ["The Side Deck: Energy Power Gotenks BT1-071", "TCGplayer: Energy Power Gotenks Galactic Battle"]
+    },
+    {
+      "category": "design",
+      "text": "Gotenks is the result of the Fusion Dance performed by Goten and Trunks — a technique Goku learned from the Metamorans in the Other World and taught to his son. All Fusion Dance products wear the canonical Metamoran attire: a black-and-white cropped vest with a white sash, baggy white pants, and black wristbands. The 'cocky confidence' read in the art mirrors Gotenks' established personality — the fusion inherits Trunks' brashness and Goten's fearlessness, producing a child warrior who consistently underestimates his opponents. [Saiyan Warrior: Gotenks character profile; GameRant: Dragon Ball — All Forms of Gotenks Explained]",
+      "sources": ["Saiyan Warrior: Gotenks character profile", "GameRant: Dragon Ball All Forms of Gotenks Explained"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tenacious Vegeta", "set": "Galactic Battle (BT1-066)", "note": "Same set, same color (Green), rival Saiyan cluster"},
+    {"name": "Son Gohan, Family of Justice", "set": "Galactic Battle (BT1-062)", "note": "Same set — Trunks is Gotenks' fusion component, Gohan is a parallel youth warrior"},
+    {"name": "Father-Son Galick Gun", "set": "Union Force (BT2-063)", "note": "Trunks (Gotenks' fusion component) is depicted; thematic youth-Saiyan link"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

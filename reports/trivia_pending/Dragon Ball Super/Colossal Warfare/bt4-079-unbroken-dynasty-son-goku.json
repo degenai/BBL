@@ -1,0 +1,37 @@
+{
+  "card_name": "Unbroken Dynasty Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-079",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Son Goku' and the card's character designation is 'Son Goku: Childhood' in official DBS card databases. The depicted child in orange gi with staff (Power Pole / Nyoibo) and dark spiky hair matches Goku's canonical childhood design throughout Dragon Ball (pre-Z). Verification is triple-confirmed: card name, official character tag, and signature visual identifiers (orange gi, Power Pole, child form).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Unbroken Dynasty Son Goku (BT4-079) is a yellow Common from Colossal Warfare (DBS-B04, July 2018). Its official character tag is 'Son Goku: Childhood' with traits Saiyan/Goku's Lineage. BT4's yellow cards were designed around Goku's Lineage — tracing Goku's family from Bardock through his childhood and beyond — making child-Goku a key component of the set's narrative identity [Source: dbs-cardgame.com/asia/strategy/series4/design-concept.php].",
+      "sources": ["dbs-cardgame.com/asia/strategy/series4/design-concept.php", "dbs-cardgame.com/us-en/strategy/series4/yellow.php"]
+    },
+    {
+      "category": "design",
+      "text": "BT4-079's [Swap 2] skill allows a player to swap to a 'Goku's Lineage' card with energy cost 2 from hand. BT4 introduced [Swap] as a new keyword across yellow, designed specifically to chain Goku's Lineage cards together for deck consistency. The card is functionally a tutor/cycle piece that represents child Goku as the entry-point of the dynasty chain [Source: dbs-cardgame.com/us-en/strategy/series4/yellow.php and alterealitygames.com product listing for BT4-079].",
+      "sources": ["dbs-cardgame.com/us-en/strategy/series4/yellow.php", "WebSearch snippet from alterealitygames.com (BT4-079 listing)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The staff depicted is the Nyoibō (Power Pole), a gift to child Goku from his adoptive grandfather Gohan. It is one of Goku's earliest weapons and appears from Dragon Ball chapter 1 / episode 1. Goku's design is rooted in Sun Wukong from Journey to the West — Toriyama adapted the staff-wielding monkey king into a human child with a monkey tail [Source: CBR: Goku's Power Pole trivia; Wikipedia: Goku].",
+      "sources": ["cbr.com: Everything You Need to Know About Goku's Power Pole", "Wikipedia: Goku"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Son Goku (BT4-072)", "set": "Colossal Warfare", "note": "The Childhood Son Goku Leader card — same character, same era, the Swap chain's destination"},
+    {"name": "Bardock, the Progenitor", "set": "Colossal Warfare", "note": "BT4-073 — the Goku's Lineage chain's origin point; the dynasty's first link"},
+    {"name": "Pint-sized Warrior Son Goku", "set": "Cross Worlds", "note": "BT3-006 — parallel child-Goku card in BT3, same character archetype"},
+    {"name": "Height of Mastery Son Goku", "set": "Colossal Warfare", "note": "The Swap chain endpoint; child Goku evolves toward this card in BT4 yellow strategy"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

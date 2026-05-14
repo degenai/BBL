@@ -1,0 +1,36 @@
+{
+  "card_name": "Babidi's Spaceship",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-018",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The suspected_ip flag was 'Babidi' (med confidence) but this is a location card, not a character card. The card title is 'Babidi's Spaceship' — the IP is the location, which belongs to Babidi (Dragon Ball Z). Verified as Babidi's Spaceship interior. ip_confidence set to high since the card name is unambiguous.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Babidi's Spaceship is the central stage for the Babidi Saga. The interior consists of 6 levels: the top floors house Babidi's combat guardians (Pui Pui, Yakon, Dabura) in descending order of strength, the 5th floor is Babidi's control room, and the 6th floor contains the Sealed Ball holding Majin Buu. [Dragon Ball Wiki: Babidi's Spaceship]",
+      "sources": ["dragonball.fandom.com/wiki/Babidi's_Spaceship", "en.dragon-ball-official.com/news/01_781.html"]
+    },
+    {
+      "category": "design",
+      "text": "As a location/stadium card in the DBS card game, Babidi's Spaceship carries no figures — a deliberate design choice that makes it one of the few pure environment cards in TB02. The domed cream-beige interior with ribbed walls is architecturally consistent with Babidi's organic-alien aesthetic across the anime. [WebSearch: DBS TB02 card list]",
+      "sources": ["dbs-cardgame.com TB02 card list (WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The ship was created by Babidi's magic and was buried underground near the World Martial Arts Tournament site — its proximity to the venue was intentional, allowing Spopovich and Yamu to quickly deliver the drained energy from Gohan. The official Dragon Ball site featured the spaceship in its World Travelogue series (File no. 016). [en.dragon-ball-official.com/news/01_781.html]",
+      "sources": ["en.dragon-ball-official.com/news/01_781.html: Dragon Ball Investigation File no. 016"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dark Duo Babidi", "set": "World Martial Arts Tournament", "note": "TB2-013 — the ship's owner and operator"},
+    {"name": "Pui Pui, Magician's Lackey", "set": "World Martial Arts Tournament", "note": "TB2-016 — first-floor guardian of this spaceship"},
+    {"name": "Tainted Power, Spopovich & Yamu", "set": "World Martial Arts Tournament", "note": "TB2-015 — delivered energy to this location"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

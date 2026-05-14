@@ -1,0 +1,54 @@
+{
+  "edge_id": "wave-54a-rigor-audit-3-nodes",
+  "shape": "audit-only",
+  "category": "node-rigor-audit",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/orzhov-syndicate.md", "name": "Orzhov Syndicate (old high-density, 8 -> 9 anchors)"},
+    {"type": "character", "path": "cards/_characters/theros-pantheon.md", "name": "Theros Pantheon (wave-52 parent-cohort, 18 anchors)"},
+    {"type": "character", "path": "cards/_characters/mareep-line.md", "name": "Mareep evolutionary line (older cycle, 4 anchors)"}
+  ],
+  "audit_results": {
+    "orzhov-syndicate": {
+      "verdict": "DRIFT-FIXED-INLINE",
+      "appears_on_match": "drift caught: Sanguine Savior (MKM-230) had characters: [agency, orzhov-syndicate] frontmatter and symbols: [orzhov-signet] but was missing from this node's appears_on; orzhov-signet symbol node had it correctly listed, this node did not. Silent in-band attachment from a more recent wave that didn't backflow. Fixed inline.",
+      "threshold": "cleared (>=2 named-character; 8 -> 9 corpus anchors)",
+      "sourcing": "canonical with URLs (MTG Wiki Orzhov Syndicate, Wizards design articles, CBR, Card Kingdom, Scryfall watermark:orzhov)",
+      "body_claim_alignment": "all 8 existing bullets match their card depictions; added 9th bullet for Sanguine Savior consistent with orzhov-signet symbol node's existing body framing (medallion-of-master form, dual-coded Orzhov+Agency)",
+      "yaml_safety": "clean (no unquoted colon-containing values)",
+      "wikilinks": "all resolve (azorius-senate, agency, orzhov-signet, labor exist)",
+      "coined_compound_bloat": "none"
+    },
+    "theros-pantheon": {
+      "verdict": "CLEAN",
+      "appears_on_match": "all 18 reverse pointers verified; every card in appears_on has characters: [theros-pantheon] frontmatter, no extras outside the list",
+      "threshold": "cleared by miles (>=2 named-character; 18 corpus anchors across 3 sets)",
+      "sourcing": "canonical with URLs (MTG Wiki Pantheon of Theros page, per-god pages, Mark Rosewater design columns 2013/2014/2020, THB Story Summary, Scryfall per-god pages)",
+      "body_claim_alignment": "each card's bullet correctly identifies whether it is god-card / cult-operative / flavor-text-attribution-only; the Mogis/Nylea/Heliod/Erebos/Pharika/Iroas/Kruphix/Thassa/Karametra/Purphoros/Athreos roster matches the card-by-card evidence",
+      "yaml_safety": "clean (universe / faction / species / canonical_source all double-quoted)",
+      "wikilinks": "all resolve (orzhov-syndicate, azorius-senate, phyrexia, valgavoth, nicol-bolas, baby-dbgt, eld-cinderella-cycle, labor)",
+      "coined_compound_bloat": "none; interpretive devotion-as-labor framing self-flagged as BBL-internal vs Wizards-canonical"
+    },
+    "mareep-line": {
+      "verdict": "CLEAN",
+      "appears_on_match": "all 4 reverse pointers verified; Flaaffy DAA-056 vision-only-print correctly excluded per the explicit caveat (ip_verified: false, no characters: pointer set)",
+      "threshold": "cleared (>=3 cycle-mechanical; 4 corpus anchors across 2 of 3 line stages)",
+      "sourcing": "canonical with implied URLs (Bulbapedia per-species pages, Pokemon.com Pokedex, primary game canon Gold/Silver/X/Y/HGSS, Game Informer interview, community PKD reference attestation)",
+      "body_claim_alignment": "Mareep CRE-047 spring-meadow, Mareep DAA-055 forest scene, Flaaffy CRE-048 autumnal forest with bald-patches flavor — all match enrichment data; Mareep = ampere anagram verified letter-for-letter",
+      "yaml_safety": "clean (universe / species / canonical_source all double-quoted)",
+      "wikilinks": "all resolve (staraptor-line, charizard-line, elemental-monkey-trio, endriders)",
+      "coined_compound_bloat": "none; PKD literary reference self-flagged as community-attested vs Wizards-confirmed"
+    }
+  },
+  "description": "First AUDIT-ONLY dispatch per bbl-edgelord-node-rigor-audit. 3-of-44 character nodes audited (orzhov-syndicate, theros-pantheon, mareep-line). One silent drift caught and fixed inline (orzhov-syndicate missing Sanguine Savior in appears_on despite the card having reverse frontmatter and the orzhov-signet symbol node having it correctly listed). Two clean. Drift rate at this sample: 1/3.",
+  "citations": [
+    "[MTG Wiki: Orzhov Syndicate]",
+    "[MTG Wiki: Pantheon of Theros]",
+    "[Bulbapedia: Mareep, Flaaffy, Ampharos]",
+    "[Scryfall: MKM-230 Sanguine Savior]"
+  ],
+  "files_modified": [
+    "cards/_characters/orzhov-syndicate.md"
+  ],
+  "topology": "audit",
+  "edgelord_mood": "enlightened-corrective"
+}

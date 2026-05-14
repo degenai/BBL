@@ -1,0 +1,37 @@
+{
+  "card_name": "Vow Revenge",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-020",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Vow Revenge' is a direct thematic match to Baby Vegeta's revenge motif against the Saiyans. Vision describes yellow-green skin and possession-state musculature consistent with Baby-possessed Vegeta's transformed state. The DBS card game's Colossal Warfare set (BT4) centers on the Baby Saga and explicitly features Baby as a leader card with Machine Mutant/Great Ape/Saiyan traits. The color, stance, and energy-discharge pattern match Baby Vegeta's powered-up form as depicted across official DB media.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Colossal Warfare (DBS-B04) released July 2018 as the fourth main set of the Dragon Ball Super Card Game. It is the franchise's primary Baby Saga expansion, featuring Baby as a Leader Card with Machine Mutant / Great Ape / Saiyan special traits — the set was explicitly designed around GT's Baby arc villain cluster. [Source: dbs-cardgame.com product page; Bleeding Cool checklist]",
+      "sources": ["https://www.dbs-cardgame.com/asia/product/dbs-b04.php", "https://bleedingcool.com/games/dragon-ball-super-card-game-colossal-warfare-checklist/"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Baby is a Tuffle parasite — a survivor of the Saiyan genocide of the Tuffle race — who possesses Vegeta and channels negative energy harvested from all possessed Earthlings. His 'vow' of revenge against Saiyans is the axis of the entire Baby Saga arc in Dragon Ball GT. [Source: Dragon Ball Villains Wiki: Baby]",
+      "sources": ["https://villains.fandom.com/wiki/Baby_(Dragon_Ball)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The [Revenge] keyword appears as a named mechanic in the DBS card game — it is an Auto skill that KOs an attacking card at end of battle when this card is used as a guard. Given the card name 'Vow Revenge,' the mechanic and the character's core motivation are directly mirrored in the card design. [Source: WebSearch snippet, dbs-cardgame.com rules]",
+      "sources": ["https://www.dbs-cardgame.com/asia/rule/card_faq.php"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Revenge Death Ball", "set": "Colossal Warfare", "note": "BT4-021 — same Baby Saga cluster, Baby's signature attack card"},
+    {"name": "Vengeful Onslaught", "set": "Colossal Warfare", "note": "BT4-022 — same Baby Saga cluster, Trunks vs. Baby confrontation"},
+    {"name": "Baby, Vengeance Unleashed", "set": "Colossal Warfare", "note": "BT4-018 — Baby Leader Card, direct cluster anchor"},
+    {"name": "Rampaging Great Ape Baby", "set": "Colossal Warfare", "note": "Leader card in same set — Great Ape form of Baby Vegeta"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Baby Vegeta (Dragon Ball GT)",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "card_name": "Dark Plot",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-121",
+  "task_profile": "ip-priority",
+  "ip_decision": "qualify",
+  "ip_outcome_note": "Vision flagged three figures as possibly Towa, Masked Saiyan, and/or other Time Breaker characters. The set context (Cross Worlds BT3 Xenoverse focus) makes this plausible. One figure matches Towa's white-hair/dark-outfit profile. However, no search result or official source identifies which specific characters appear in this card's art, and the vision description (dark-haired female in red coat, pale-haired figure, third in dark tones) only partially matches Towa's canonical look (white hair, not dark; red bodysuit but no prominent red coat). Cannot verify or refute definitively from available sources — figures remain unnamed Time Breaker conspirators consistent with the card's 'Dark Plot' title.",
+  "trivia_bullets": [
+    {
+      "category": "mechanical",
+      "text": "Dark Plot is an Extra card (card type for non-Battle events) in Cross Worlds. Its published skill reads: [Activate Main]: Choose up to 1 Battle Card in your Warp with an energy cost of 4 or less and play it. If you use this skill to play a Battle Card with [Over Realm], choose up to 3 of your energy and switch them to Active Mode — making it a recursion tool for the Over Realm mechanic central to the set's Dark Demon Realm strategy. [WebSearch: PriceCharting BT3-121; WebSearch: CoreTCG BT3-121 listing]",
+      "sources": ["WebSearch: PriceCharting BT3-121", "WebSearch: CoreTCG BT3-121 listing"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The 'Dark Plot' title directly names the Time Breakers' central scheme across Dragon Ball Online and the Xenoverse series: Towa and Mira's plan to collect warrior energy across historical timelines to break the Demon Realm seal. The card's position at BT3-121 places it in the final stretch of the BT3 booster alongside other Dark Empire cards (Towa at BT3-115, Mira at BT3-116). [WebSearch: Dragon Ball Wiki Towa; WebSearch: DBS BT3 black cards strategy page]",
+      "sources": ["WebSearch: Dragon Ball Wiki Towa, via WebSearch", "WebSearch: dbs-cardgame.com BT3 black cards page"]
+    },
+    {
+      "category": "design",
+      "text": "BT3-121 is a Black-color Extra card — consistent with the Dark Demon Realm Saga's color identity in the DBSCG, where black represents the Dark Empire faction. The SD3 'Dark Invasion' starter deck released alongside BT3 uses the same black/green color pairing and also centers the Dark Demon Realm Saga narrative. [WebSearch: DBS SD3 Dark Invasion product listing]",
+      "sources": ["WebSearch: DBS SD3 Dark Invasion product listing, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Towa, Space Time Unleashed", "set": "Cross Worlds", "note": "The architect of the Dark Plot; shares the BT3 set and Dark Empire faction"},
+    {"name": "Power Aura Mira", "set": "Cross Worlds", "note": "Co-executor of the Dark Plot alongside Towa"},
+    {"name": "Encroaching Threat Masked Saiyan", "set": "Cross Worlds", "note": "Bardock enslaved as a weapon within the Dark Plot"},
+    {"name": "Time's Judgement", "set": "Cross Worlds", "note": "Chronoa's opposing card to the Dark Plot — justice vs. conspiracy"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "false",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

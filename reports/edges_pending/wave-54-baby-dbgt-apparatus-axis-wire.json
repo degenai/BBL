@@ -1,0 +1,19 @@
+{
+  "edge_id": "wave-54-baby-dbgt-apparatus-axis-wire",
+  "shape": "1:N",
+  "topology": "branch",
+  "category": "node-anchor-wire (pending-status promotion)",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/baby-dbgt.md", "name": "Baby (Dragon Ball GT)"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-016-power-absorbing-luud.md", "name": "Power-absorbing Luud"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-017-dr-myuu-under-baby-s-control.md", "name": "Dr.Myuu, Under Baby's Control"}
+  ],
+  "description": "Lifts two cards from pending-vision status to live frontmatter-wired status in baby-dbgt.md. Both cards completed vision+trivia enrichment and were explicitly named as 'pending wave 51 vision (will wire here on enrichment)' in the node body. Promoted to appears_on: list; characters: ['baby-dbgt'] added to both cards' frontmatter; body text rewritten from pending to wired with full canonical citations (Dr. Myuu as Baby's bootstrap-paradox-created creator turned puppet; Luud as Baby's energy-extraction god-machine constructed by Myuu). No new narrative claim made — node body already documented the wires; this is the structural completion the node was waiting on.",
+  "citations": ["[Dragon Ball Wiki: Baby]", "[Dragon Ball Wiki: Dr. Myuu]", "[villains.fandom.com/wiki/Luud]", "[CBR: 'Dragon Ball GT's Baby Created Dr. Myuu Oddity, Explained as Simply as Possible' 2022]"],
+  "files_modified": [
+    "cards/_characters/baby-dbgt.md",
+    "cards/dragon-ball-super/cross-worlds/bt3-016-power-absorbing-luud.md",
+    "cards/dragon-ball-super/cross-worlds/bt3-017-dr-myuu-under-baby-s-control.md"
+  ],
+  "edgelord_mood": "blueballed-by-fanout"
+}

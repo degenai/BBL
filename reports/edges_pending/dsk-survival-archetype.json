@@ -1,0 +1,43 @@
+{
+  "edge_id": "dsk-survival-archetype--node-proposal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/dsk-survival-archetype.md", "name": "Survival archetype cohort (Duskmourn improvised-weapon survivors and their tools)"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/14-glimmer-seeker.md", "name": "Glimmer Seeker"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/172-cautious-survivor.md", "name": "Cautious Survivor"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/175-defiant-survivor.md", "name": "Defiant Survivor"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/179-frantic-strength.md", "name": "Frantic Strength"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/196-rootwise-survivor.md", "name": "Rootwise Survivor"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/209-baseball-bat.md", "name": "Baseball Bat"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/244-conductive-machete.md", "name": "Conductive Machete"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/297-norin-swift-survivalist-0297.md", "name": "Norin, Swift Survivalist (0297)"}
+  ],
+  "description": "Sorry to interrupt, sir. Mr. Nodeley here. Edgelord wanted a clean 1:1 inside the survivor cluster but the cluster spans three coordinated axes (Survivor subtype, Survival keyword, improvised-weapon Equipment/Aura) and Wizards explicitly cites Cabin in the Woods (2011) as the source-material register — drawing card-to-card edges would have written eight bullets all pointing at an absent center. The cohort node anchors all eight cards at once and opens the structural opposing-pole edge to dsk-toy-horror at the cohort layer. Wave 60 Edgelord's sibling-cohort recommendation honored. Hope this helps, sir.",
+  "citations": [
+    "[Wizards: Matt Tabak, Duskmourn Mechanics, 2024-08-31]",
+    "[Wizards: Mark Rosewater, Top of the Duskmourning Part 1 + Part 2, Making Magic, 2024-09]",
+    "[MTG Wiki: Duskmourn: House of Horror, Themes and mechanics, Survival]",
+    "[Scryfall: s:dsk t:survivor; s:dsk keyword:survival]"
+  ],
+  "files_modified": [
+    "cards/_characters/dsk-survival-archetype.md",
+    "cards/_characters/dsk-toy-horror.md",
+    "cards/_symbols/manifest-dread.md",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/14-glimmer-seeker.md",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/172-cautious-survivor.md",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/175-defiant-survivor.md",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/179-frantic-strength.md",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/196-rootwise-survivor.md",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/209-baseball-bat.md",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/244-conductive-machete.md",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/297-norin-swift-survivalist-0297.md"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "Acrobatic Cheerleader (DSK-1), Savior of the Small (DSK-27), Veteran Survivor — cohort-eligible Survivor-subtype members not in current corpus; attach when they land",
+    "Patchwork Gnomes (DSK-231) — cross-cohort artifact-Equipment-adjacent; not in corpus",
+    "Inquisitive Glimmer (DSK-217) and the broader Glimmer subtype — sibling-cohort candidate (Glimmers as the survivors' canonical defense per Inquisitive Glimmer flavor); could be its own node when 3+ Glimmer cards land in corpus"
+  ]
+}

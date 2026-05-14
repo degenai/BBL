@@ -1,0 +1,36 @@
+{
+  "card_name": "Chain Attack Trunks",
+  "game": "Dragon Ball Super",
+  "set": "Mythic Booster",
+  "collector_number": "SD2-05",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name reads 'Trunks'. Vision-pass suspected_ip is 'Future Trunks'. The card number SD2-05 traces to DBS-SD02 'The Extreme Evolution' starter deck. The night-sky void setting with electric lightning aura is consistent with Future Trunks' visual aesthetic in the Dragon Ball Super Future Trunks arc. Card skill (can attack Battle Cards in Active Mode; play a 15,000-power card from hand on arrival) is consistent with retailer research. The card does not explicitly distinguish Future Trunks vs. present Trunks in its title, but the 'chain attack' framing and aggressive lightning aesthetic align with Future Trunks' fighting style. Verified as Trunks (Dragon Ball franchise IP) — qualifying note: the specific timeline (Future vs. present) is not determinable from card name alone, but the DBS context and art aesthetic strongly favor Future Trunks.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "SD2-05 originates in DBS-SD02 'The Extreme Evolution' starter deck (released January 2020) and was reprinted in Mythic Booster (MB-01) with new alternate art and a gold stamp. The Mythic Booster is a 63-card reprint product covering starter decks, promo sets, and early main sets, making it a key entry point for players wanting older staples without hunting individual singles. [dbs-cardgame.com: Mythic Booster MB-01 product page; TotalCards.net: MB-01 Chain Attack Trunks SD2-05]",
+      "sources": ["dbs-cardgame.com: Mythic Booster MB-01 product page", "TotalCards.net: Dragon Ball Super MB01 Chain Attack Trunks SD2-05"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card has Power 20,000 at energy cost 4 (Red), with two skills: it can attack Battle Cards in Active Mode (unusual, as most Battle Cards must be in Rest Mode to be attacked), and when played, the controller may play a Battle Card with power 15,000 or less from hand. The on-play chaining ability is the card's name-giving trait — it turns a single play action into a two-unit deployment, generating immediate field presence. [WebSearch: Mythic Booster SD2-05 card details; TotalCards.net SD2-05 listing]",
+      "sources": ["TotalCards.net: Dragon Ball Super MB01 Chain Attack Trunks SD2-05", "WebSearch: Dragon Ball Super Card Game Mythic Booster SD2-05 Trunks"]
+    },
+    {
+      "category": "design",
+      "text": "Future Trunks is the time-traveling warrior from a destroyed future timeline who travels to the present to seek help against Goku Black and Fused Zamasu in Dragon Ball Super episodes 47-76 (the 'Future Trunks arc'). His Super Galick Gun and eventual Super Saiyan Rage form are key plot points; the Father-Son Galick Gun (combining his attack with Vegeta's in episode 65) is one of the arc's most referenced moments by the community. [CBR: Future Trunks' Life in Dragon Ball Z and Super; ComicBook.com: Dragon Ball Super Dub Vegeta and Trunks Father-Son Attack]",
+      "sources": ["CBR: Future Trunks' Life in Dragon Ball Z and Dragon Ball Super", "ComicBook.com: Dragon Ball Super Debuts Vegeta and Trunks Father-Son Attack"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Father-Son Galick Gun", "set": "Union Force (BT2-063)", "note": "Depicts Trunks and Vegeta together — direct character connection"},
+    {"name": "Unbreakable Super Saiyan Son Goku", "set": "Mythic Booster (SD2-03)", "note": "Same Mythic Booster set, companion card SD2-03"},
+    {"name": "Tenacious Vegeta", "set": "Galactic Battle (BT1-066)", "note": "Vegeta is Trunks' father — father-son thematic pair"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

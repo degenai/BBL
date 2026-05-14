@@ -53,7 +53,7 @@ Any animal-slot tag from the list above + element-typing in `tags_filter`. The M
 
 ## Why This Hub Earns Foundational Status
 
-It's the only hub that comes with a *pre-built rubric*. [[Labor]] and [[Rebellion]] are conceptual lenses Alex writes lairs through. Chinese Zodiac is also that, but additionally it's a 60-cell grid with hard rules already published at diamondlegendz. That makes it the cleanest first BBL-native bundle application — narrative pre-written, sourcing well-defined, even the poster artwork exists. The other two hubs require Alex to author each narrative from scratch.
+It's the only hub that comes with a *pre-built rubric*. [[labor]] and [[rebellion]] are conceptual lenses Alex writes lairs through. Chinese Zodiac is also that, but additionally it's a 60-cell grid with hard rules already published at diamondlegendz. That makes it the cleanest first BBL-native bundle application — narrative pre-written, sourcing well-defined, even the poster artwork exists. The other two hubs require Alex to author each narrative from scratch.
 
 ## Anti-Patterns
 

@@ -1,0 +1,36 @@
+{
+  "card_name": "Autarch Mammoth",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "153",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Autarch Mammoth is a Muraganda card. Muraganda is a wild plane hosting massive fauna, dinosaurs, and giant flora — and is used as one of the three race stages in the Ghirapur Grand Prix, though it notably has no team competing in the race itself. The 'Autarch' in the name points to the Saurid Autocracy, the dominant faction on Muraganda that uses mammoths in raids. [Wizards Planeswalker's Guide to Aetherdrift Part 1, via WebSearch; WebSearch snippet: 'The Mammoths of Muraganda are used in raids by the Saurid Autocracy']",
+      "sources": ["Wizards.com Planeswalker's Guide to Aetherdrift Part 1, via WebSearch", "GamesRadar Autarch Mammoth preview, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Autarch Mammoth costs 6 mana (4GG) for a 5/5 Elephant Mount. Its Saddle 5 trigger creates a 3/3 Elephant token on entry and on every saddled attack — generating an effective 8/8 in stats on entry, with snowball potential on each combat. EDHREC rank 19,106 — low inclusion; Saddle 5 is a steep requirement outside dedicated creature-heavy builds. Previewed exclusively by GamesRadar on January 23, 2025. [Scryfall: edhrec_rank 19106, preview source gamesradar 2025-01-23]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Autarch Mammoth carries no flavor text. The card has no prior printings — first (and only) print is DFT 153, released February 14, 2025. Artist is Leonardo Santanna. [Scryfall: reprint: false, flavor_text absent, artist Leonardo Santanna]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Elephant token (3/3)", "set": "Aetherdrift", "note": "Scryfall all_parts token — the 3/3 green Elephant Autarch Mammoth generates"},
+    {"name": "Crashing Drawbridge", "set": "Throne of Eldraine", "note": "Saddle enabler that gives haste to Mounts so they can saddle and attack same turn"},
+    {"name": "End-Raze Forerunners", "set": "Ravnica Allegiance", "note": "Similar large green finisher that generates board presence and pumps attacks; comparable slot in green stompy builds"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

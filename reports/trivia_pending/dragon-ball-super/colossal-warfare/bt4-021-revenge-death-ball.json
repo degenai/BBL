@@ -1,0 +1,37 @@
+{
+  "card_name": "Revenge Death Ball",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-021",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The card name is the canonical name of Baby Vegeta's signature attack from Dragon Ball GT. The Dragon Ball Wiki defines Revenge Death Ball as Baby's signature technique — a sphere of concentrated dark energy drawn from all possessed Earthlings, functioning as an 'evil Spirit Bomb.' Vision's description of silver-white hair in a dark outfit surrounded by swirling purple-pink energy matches the canonical depiction of Baby Vegeta in powered-up SS form using this technique.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Colossal Warfare (DBS-B04, July 2018) is the primary Baby Saga expansion for the Dragon Ball Super Card Game. The set features Baby as multiple leader cards with Machine Mutant / Great Ape / Saiyan traits, anchoring a Baby-themed deck archetype. [Source: dbs-cardgame.com product page]",
+      "sources": ["https://www.dbs-cardgame.com/asia/product/dbs-b04.php"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The Revenge Death Ball is Baby Vegeta's most powerful technique in Dragon Ball GT: a sphere of pure negative dark energy harvested from all possessed Earthlings, functioning as an inverted Spirit Bomb. The Dragon Ball Wiki notes it is 'strong enough to shake the very fabric of dimensions' — its aftershock caused Kibito Kai to drop Goku during teleportation. [Source: Dragon Ball Wiki: Revenge Death Ball]",
+      "sources": ["https://dragonball.fandom.com/wiki/Revenge_Death_Ball"]
+    },
+    {
+      "category": "design",
+      "text": "Baby's silver-white hair in powered forms is a visual indicator distinguishing him from the host body (Vegeta). In Baby Vegeta's Super Saiyan form the hair elongates and takes on a silver-white rather than golden hue — a deliberate character-design inversion that codes him as alien even within a Saiyan transformation. [Source: Dragon Ball Villains Wiki: Baby]",
+      "sources": ["https://villains.fandom.com/wiki/Baby_(Dragon_Ball)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Vow Revenge", "set": "Colossal Warfare", "note": "BT4-020 — same Baby Saga cluster, Baby Vegeta battle-roar card"},
+    {"name": "Vengeful Onslaught", "set": "Colossal Warfare", "note": "BT4-022 — Trunks vs. Baby confrontation in same cluster"},
+    {"name": "Baby, Vengeance Unleashed", "set": "Colossal Warfare", "note": "BT4-018 — Baby Leader Card, cluster anchor"},
+    {"name": "Revenge Death Ball Final", "set": "Dragon Ball AF (non-canon)", "note": "Fan-canon extension of the same attack name — indicates cultural reach of the technique"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Baby Vegeta (Dragon Ball GT)",
+    "ip_confidence": "high"
+  }
+}

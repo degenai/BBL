@@ -1,0 +1,37 @@
+{
+  "card_name": "Rugged Highlands",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "262",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Rugged Highlands is part of the Khans of Tarkir gain-land cycle (first print September 2014); the Aetherdrift version is its 17th printing. Legal in Pauper and all major constructed formats.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The Goblin Rocketeers want nothing more than to push the limits of kinetic energy and see if their machines can go the farthest, fastest, first.\" The Goblin Rocketeers arrived on Avishkar through a temporary Omenpath from an unknown plane; their captain is Redshift.",
+      "sources": ["Scryfall", "MTG Wiki: Goblin Rocketeers"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Florian de Gesincourt renders the land as a live race course in progress — vehicles mid-frame kicking up dust — directly integrating the Goblin Rocketeers faction identity into the land art rather than the usual empty landscape treatment.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bloodfell Caves", "set": "Aetherdrift (DFT no. 251)", "note": "same gain-land cycle; same set"},
+    {"name": "Swiftwater Cliffs", "set": "Aetherdrift (DFT no. 265)", "note": "same gain-land cycle; same set"},
+    {"name": "Daretti, Rocketeer Engineer", "set": "Aetherdrift (DFT no. 120)", "note": "Goblin Rocketeers legendary; faction in flavor text"},
+    {"name": "Rugged Highlands", "set": "Khans of Tarkir", "note": "first printing of this oracle text"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

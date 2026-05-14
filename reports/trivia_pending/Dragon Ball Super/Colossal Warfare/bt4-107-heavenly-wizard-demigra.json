@@ -1,0 +1,36 @@
+{
+  "card_name": "Heavenly Wizard Demigra",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-107",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Demigra.' The card's name, the set's official design concept identifying Demigra as the main antagonist of BT4, and the vision's description (slender figure with upswept pink-red hair, dark robes, dark energy orbs) all match Demigra's canonical appearance from Dragon Ball Xenoverse. Triply confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT4 Colossal Warfare's official design concept states: 'In the world of Colossal Warfare, the vile Xenoverse villain Demigra leads an army of colossal foes against our heroes.' Demigra is the narrative anchor of the entire set — the reason the set is named Colossal Warfare [Source: dbs-cardgame.com/asia/strategy/series4/design-concept.php].",
+      "sources": ["dbs-cardgame.com/asia/strategy/series4/design-concept.php"]
+    },
+    {
+      "category": "design",
+      "text": "Demigra originates from the 2015 video game Dragon Ball Xenoverse, where he is the main antagonist — a demonic magician imprisoned in the Crack of Time for 75 million years by the Supreme Kai of Time (Chronoa). His goal is to destroy history and become the God of Time. BT4 is one of the earliest mainline DBS card game sets to feature Xenoverse-exclusive villains as the primary antagonist faction [Source: Villains Wiki: Demigra; Dragon Ball Wiki: Demigra].",
+      "sources": ["villains.fandom.com/wiki/Demigra", "dragonball.fandom.com/wiki/Demigra"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A linked Temporal Darkness Demigra card in BT4 features the new [Dark Over Realm] keyword — a more powerful version of BT3's [Over Realm] where played cards don't get sent to the Warp at end of turn, representing Demigra's mastery over time and history itself. Heavenly Wizard Demigra (BT4-107) slots into the Demigra-leader-based black deck strategy introduced in this set [Source: dbs-cardgame.com/asia/strategy/series4/design-concept.php via WebSearch].",
+      "sources": ["dbs-cardgame.com/asia/strategy/series4/design-concept.php", "WebSearch snippet from bleedingcool.com: Colossal Warfare Checklist"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Temporal Darkness Demigra", "set": "Colossal Warfare", "note": "Demigra's flagship BT4 card with [Dark Over Realm]; the Leader-card complement"},
+    {"name": "Towa", "set": "various DBS sets", "note": "Time Breakers co-leader and Demigra's collaborator in Xenoverse lore; appears across multiple DBS sets"},
+    {"name": "Mira", "set": "Colossal Warfare / various", "note": "Time Breakers' primary fighter; Dark Kamehameha (BT4-121) is Mira-locked — narrative cluster partner"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

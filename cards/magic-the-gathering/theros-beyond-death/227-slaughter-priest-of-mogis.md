@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,7 @@ mood: grim
 time_of_day: indeterminate
 setting: other
 artist: Steve Prescott
+characters: [theros-pantheon]
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/227-slaughter-priest-of-mogis--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/2/a2b441c0-261e-4094-b694-5e11ea3c14ab.jpg?1581481146
 flavor_text: \"Mogis is pleased by this offering. Bring him more!\"
@@ -52,4 +53,8 @@ A bare-chested minotaur with long curving horns and a fierce expression stands a
 **Creatures:** minotaur
 **Iconography:** horns, blade-raised, sacrificial-pyre
 **Genre cues:** fantasy, mythological, greek-myth
+
+## Connections
+
+- [[115-soulreaper-of-mogis]] — Mogis-cult minotaur pair within THB. The two cards form the set's designed Mogis-priest pairing: same red-black sacrifice-payoff register, same horned-minotaur-with-raised-blade iconography, both flavor-attributed directly to Mogis (THB-115: *"We offer to Mogis the blood of the weak"*; THB-227: *"Mogis is pleased by this offering. Bring him more!"*). `[Scryfall: thb/115, thb/227; MTG Wiki: Mogis God of Slaughter]`
 

@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-14
 date_added: 2026-05-10
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://cards.scryfall.io/png/front/9/4/949bf6bb-1e97-48a3-8547-0a780664c275.png?1738356952
 art_match_confidence: high
 needs_manual_review: false
@@ -49,4 +49,16 @@ A sleek racing watercraft skims along bright turquoise-blue water at high speed,
 **Emotion read:** focused intensity, forward drive, the thrill of pursuit
 **Objects:** racing-boat, hydrofoil, wake-spray
 **Genre cues:** fantasy, racing, adventure
+
+## Trivia
+
+- **Set context** — Swiftwater Cliffs is the most reprinted of all six gain lands in this batch: its 22nd printing as of Aetherdrift (February 2025), first appearing in Khans of Tarkir (September 2014) [Scryfall]. Its blue-red color identity makes it a format staple in Izzet-colored Pauper decks.
+- **Flavor text / faction** — `"The Keelhaulers channel their prey drive into thrilling, cutthroat pursuits. Glory is all the sweeter when it's won at the expense of others."` `[Scryfall]` The Keelhaulers are a racing team of chordatan corsairs and fishfolk who favor stripped-down vehicles, hard-charging strategies, and are known for boarding tactics and sea shanties during races [MTG Wiki: Keelhaulers].
+- **Design** — Artist Mark Poole is one of the original 25 Magic: The Gathering artists from 1993. Like Ron Spencer (Bloodfell Caves in this same set), his Aetherdrift contribution represents a veteran illustrator re-engaging with the modern era; Poole's style characteristically incorporates balanced palettes [MTG Wiki: Mark Poole].
+
+### Related cards
+- Bloodfell Caves (Aetherdrift, DFT no. 251) — same gain-land cycle, same set; also features original MTG artist
+- Dismal Backwater (Aetherdrift, DFT no. 254) — same gain-land cycle, same set
+- Swiftwater Cliffs (Khans of Tarkir) — first printing of this oracle text
+- Keelhaulers commander card (Aetherdrift) — faction represented in the flavor text
 

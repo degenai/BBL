@@ -1,0 +1,37 @@
+{
+  "card_name": "Dr.Myuu, Under Baby's Control",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-017",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Dr.Myuu, Under Baby's Control', naming the character directly. The depicted older humanoid with an oversized smooth dome-like head matches Dr. Myuu's canonical design from Dragon Ball GT. The card subtitle 'Under Baby's Control' references the plot revelation that Baby actually created and controlled Myuu all along. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Dr. Myuu is a Machine Mutant and the primary antagonist of the Black Star Dragon Ball Saga and secondary antagonist in the Baby and Super 17 Sagas of Dragon Ball GT. He created Machine Mutants including General Rilldo, Luud, and Giru, with the stated goal of transforming all living beings into Machine Mutants under his control. [Source: dragonball.fandom.com/wiki/Dr._Myuu / CBR.com]",
+      "sources": ["dragonball.fandom.com/wiki/Dr._Myuu", "cbr.com/dragon-ball-gt-baby-vs-dr-myuu-true-creator"]
+    },
+    {
+      "category": "design",
+      "text": "The card subtitle 'Under Baby's Control' references one of GT's central plot twists: Baby, the parasitic Machine Mutant villain, was ultimately revealed to have created and programmed Dr. Myuu — not the other way around. Myuu appeared to be Baby's creator, but Baby controlled a host body to engineer Myuu into building Baby a new, more powerful body. Myuu was killed when Baby suddenly emerged from inside him. [Source: CBR.com analysis / dragonball.fandom.com]",
+      "sources": ["cbr.com/dragon-ball-gt-baby-vs-dr-myuu-true-creator", "dragonball.fandom.com/wiki/Dr._Myuu"]
+    },
+    {
+      "category": "design",
+      "text": "After death, Dr. Myuu reappears in Hell where he teams with Dr. Gero to create a duplicate of Android 17. The two Androids fuse into Super 17, who then turns on and kills both Gero and Myuu — making Myuu one of the few GT characters to be killed twice across different sagas. [Source: dragonball.fandom.com/wiki/Dr._Myuu]",
+      "sources": ["dragonball.fandom.com/wiki/Dr._Myuu"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Power-absorbing Luud (BT3-016)", "set": "Cross Worlds", "note": "Luud is one of Dr. Myuu's Machine Mutant creations"},
+    {"name": "Hidden Ability, General Rilldo (BT3-020)", "set": "Cross Worlds", "note": "General Rilldo is Dr. Myuu's top general and commander of Planet M-2"},
+    {"name": "Handy Giru (BT3-013)", "set": "Cross Worlds", "note": "Giru is a Machine Mutant from M-2 — originating in Myuu's creation network"},
+    {"name": "Pan (BT3-009)", "set": "Cross Worlds", "note": "Pan was among the heroes who opposed Myuu's Black Star Dragon Ball Saga operation"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

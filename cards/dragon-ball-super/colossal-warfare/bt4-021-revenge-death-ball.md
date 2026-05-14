@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.01
 market_price_as_of: 2026-05-14
 date_added: 2026-05-05
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401026246/84A424F575B6FAF0150C65FA6106B50D4E2D74FA/
 image_width: 624
 image_height: 869
@@ -29,7 +29,8 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Baby Vegeta (Dragon Ball GT)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
+characters: ["baby-dbgt"]
 ---
 
 # Revenge Death Ball (Colossal Warfare)
@@ -38,8 +39,8 @@ ip_verified: false
 
 ![bt4-021-revenge-death-ball](../../_images/dragon-ball-super/colossal-warfare/bt4-021-revenge-death-ball.png)
 
-> [!warning] Suspected IP: **Baby Vegeta (Dragon Ball GT)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Baby Vegeta (Dragon Ball GT)**
+> Confirmed via card name — "Revenge Death Ball" is the canonical name of Baby Vegeta's signature attack per Dragon Ball Wiki. Silver-white long hair in powered-up form is Baby Vegeta's distinctive visual identifier. [Dragon Ball Wiki: Revenge Death Ball; Dragon Ball Villains Wiki: Baby]
 
 A tall figure with long flowing silver-white hair stands centrally, wearing a dark outfit, enveloped in swirling pink-purple energy. The hair is long and dramatic, consistent with elevated power states in the Dragon Ball GT villain arc. The energy around the figure is dense and circular — swirling rather than radiating outward in rays, suggesting a gathered or charging technique rather than a release. The expression is partially visible and cold or menacing. The palette is dominated by dark purples, blacks, and magenta-pink energy, giving the card a distinctly villain-coded visual identity.
 
@@ -54,3 +55,13 @@ A tall figure with long flowing silver-white hair stands centrally, wearing a da
 **Iconography:** energy-vortex, death-ball, long-hair
 **Genre cues:** anime
 
+## Trivia
+
+- **Set context** — Colossal Warfare (DBS-B04, July 2018) is the primary Baby Saga expansion for the Dragon Ball Super Card Game. Baby appears as multiple leader cards with Machine Mutant / Great Ape / Saiyan traits, anchoring a Baby-themed deck archetype built around this villain cluster. [Source: dbs-cardgame.com BT4 product page]
+- **Attack lore** — The Revenge Death Ball is Baby Vegeta's most powerful technique in Dragon Ball GT: a sphere of pure negative dark energy harvested from all possessed Earthlings, functioning as an inverted Spirit Bomb. The Dragon Ball Wiki notes it is "strong enough to shake the very fabric of dimensions" — its aftershock caused Kibito Kai to drop Goku during teleportation. [Source: Dragon Ball Wiki: Revenge Death Ball]
+- **Design** — Baby's silver-white hair in powered forms is a visual identifier distinguishing him from the host body (Vegeta). In Baby Vegeta's Super Saiyan form the hair elongates and takes on a silver-white rather than golden hue — a deliberate character-design inversion that codes him as alien even within a Saiyan transformation. [Source: Dragon Ball Villains Wiki: Baby]
+
+### Related cards
+- Vow Revenge (Colossal Warfare, BT4-020) — Baby Vegeta battle-roar card, same Baby Saga cluster
+- Vengeful Onslaught (Colossal Warfare, BT4-022) — Trunks vs. Baby confrontation, same cluster
+- Baby, Vengeance Unleashed (Colossal Warfare, BT4-018) — Baby Leader Card, cluster anchor

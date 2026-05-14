@@ -1,0 +1,37 @@
+{
+  "card_name": "Hidden Ability, General Rilldo",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-020",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'General Rilldo' with the title 'Hidden Ability' matching his canonical characterization — his base form conceals his true power, which is revealed through multiple transformations. The depicted heavily armored large humanoid with glowing energy aura matches General Rilldo's canonical design as Dr. Myuu's top general. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "General Rilldo is Dr. Myuu's general and the commander of Machine Planet M-2. In Dragon Ball GT his base-form power level is stated by Goku to exceed that of Majin Buu — placing him above the final villain of Dragon Ball Z at his entry-point appearance. His 'Hidden Ability' card title refers to his multi-stage transformation ability: each transformation reveals progressively greater power culminating in his Hyper Meta-Rilldo form. [Source: General Rilldo — Villains Wiki / WebSearch snippet]",
+      "sources": ["villains.fandom.com/wiki/General_Rilldo", "WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "In his Hyper Meta-Rilldo form, Rilldo becomes a being of liquid metal capable of reshaping and liquefying any metal in his environment — effectively merging with Planet M-2 itself. The planet is functionally linked to Rilldo's biology, making him one with the infrastructure he commands. [Source: WebSearch snippet from Villains Wiki / General Rilldo Fandom pages]",
+      "sources": ["villains.fandom.com/wiki/General_Rilldo"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rilldo anchors the Machine Mutant antagonist cluster in Cross Worlds (BT3) alongside Dr. Myuu (BT3-017) and Luud (BT3-016). As the highest-numbered card in the Machine Mutant group (BT3-020), he functions as the faction's power capstone within the Black Star Dragon Ball Saga block. [Source: dbs-cardgame.com card list]",
+      "sources": ["dbs-cardgame.com card list"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dr.Myuu, Under Baby's Control (BT3-017)", "set": "Cross Worlds", "note": "Dr. Myuu is Rilldo's creator and the commander he serves"},
+    {"name": "Power-absorbing Luud (BT3-016)", "set": "Cross Worlds", "note": "Luud is a fellow Machine Mutant from the M-2 faction"},
+    {"name": "Handy Giru (BT3-013)", "set": "Cross Worlds", "note": "Giru originated from M-2, Rilldo's planet, before defecting"},
+    {"name": "Shocking Future Son Goku (BT3-007)", "set": "Cross Worlds", "note": "Goku fought Rilldo on M-2 — Rilldo's power exceeding Majin Buu was Goku's stated assessment"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

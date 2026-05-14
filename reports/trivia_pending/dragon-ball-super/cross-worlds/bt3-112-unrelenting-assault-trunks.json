@@ -1,0 +1,37 @@
+{
+  "card_name": "Unrelenting Assault Trunks",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-112",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Trunks' and the official DBS card database identifies the character as 'Trunks: Xeno' from the Dark Demon Realm Saga. Xeno Trunks is the Time Patrol incarnation of Future Trunks who wields a sword — matching the depicted young fighter with light hair holding a sword. The card color is Black, which aligns with the Over Realm / Dark Demon Realm Saga mechanic cluster in BT3. Verified as Trunks (specifically Trunks: Xeno, not GT Trunks or Future Trunks from the main timeline).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT3-112 identifies the character as Trunks: Xeno, placed in the Dark Demon Realm Saga era — a storyline originating in Super Dragon Ball Heroes, the Japanese arcade card game. Xeno Trunks is a Time Patroller variant of Future Trunks recruited by Chronoa (Supreme Kai of Time) after the defeat of Cell in his timeline. He fights the Time Breakers and Dark Empire across multiple time periods. [Source: WebSearch snippet — ComicBook.com / CBR.com on Xeno Trunks]",
+      "sources": ["comicbook.com/anime/news/dragon-ball-heroes-future-trunks-xeno", "cbr.com/sdbh-xeno-trunks-time-patrol-life-sucks"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's Over Realm 3 skill is the defining mechanic of the Black card color in Cross Worlds. If the player has at least 3 cards in the Drop Area, the card can be played by sending all Drop Area cards to the Warp — it then returns to hand when sent to the Warp from the Battle Area or deck. The designer's note for BT3 explicitly identifies [Over Realm] as Black's signature feature and a deck-building diversity tool. [Source: dbs-cardgame.com designer's note / DBZ Exchange product listing]",
+      "sources": ["dbs-cardgame.com designer's note", "DBZ Exchange product listing BT3-112"]
+    },
+    {
+      "category": "design",
+      "text": "BT3-112 carries a tournament restriction — the card cannot be placed in a main deck or side deck for official tournament play, a status the official card list confirms was in effect from the set's March 2018 release date. Cards with this restriction in the early DBS card game era typically indicated power-level concerns at the competitive level. [Source: dbs-cardgame.com official card list / DBZ Exchange listing]",
+      "sources": ["dbs-cardgame.com official card list", "DBZ Exchange listing BT3-112"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Trunks, Bridge to the Future (BT3-062)", "set": "Cross Worlds", "note": "Future Trunks (main timeline) card from same set — different Trunks incarnation, same set"},
+    {"name": "Reliable Trunks (BT3-010)", "set": "Cross Worlds", "note": "GT-era Trunks card from same set — third Trunks variant in BT3"},
+    {"name": "Shocking Future Son Goku (BT3-007)", "set": "Cross Worlds", "note": "GT Goku shares the Cross Worlds set with this Xeno Trunks card"},
+    {"name": "Pan (BT3-009)", "set": "Cross Worlds", "note": "Pan is a GT-era ally card in the same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Trunks: Xeno (Dragon Ball)",
+    "ip_confidence": "high"
+  }
+}

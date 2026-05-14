@@ -1,0 +1,36 @@
+{
+  "card_name": "Gallant Strike",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "13",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"The ghost shrieked as Terrin's blade sank deep. Perhaps a second death would teach it not to mess with his dog.\" — Unnamed narrator. 'Terrin' appears to be a new Aetherdrift character; no prior MTG card references a figure by that name. The flavor text frames the card's mechanic (destroying high-toughness creatures) as a dogfight in the literal sense — a warrior defending his animal companion. [Scryfall: flavor_text field]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Gallant Strike costs 2 mana (1W) and destroys target creatures with toughness 4 or greater — a conditional removal spell that specifically misses small utility creatures but hits most format-relevant threats. Cycling 2 provides the crucial flexibility. EDHREC rank 16,003 — low Commander inclusion; functions mainly as a Limited bomb and occasional sideboard piece in White creature-heavy Standard. [Scryfall: edhrec_rank 16003, oracle_text]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Aetherdrift's Amonkhet segment features the desert canyons of Shefet as a race stage, and the ghostly dead are a persistent hazard — Amonkhet's Hekma barrier has been shattered since the Hour of Devastation, leaving the desert outside Naktamun accessible to mummies, wraiths, and undead. Gallant Strike's canyon setting and ghost enemies fit this Amonkhet desert-segment geography. [Wizards Planeswalker's Guide to Aetherdrift Part 1, via WebSearch; Scryfall set_name Aetherdrift]",
+      "sources": ["Wizards.com Planeswalker's Guide to Aetherdrift Part 1, via WebSearch", "Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Swords to Plowshares", "set": "Alpha", "note": "The benchmark White removal instant; Gallant Strike is a conditional downgrade that compensates with cycling"},
+    {"name": "Destroy Evil", "set": "Streets of New Capenna", "note": "Same conditional removal pattern — destroys creatures with toughness 4+ or enchantments; direct mechanical parallel"},
+    {"name": "Shefet Archfiend", "set": "Aetherdrift", "note": "Same Amonkhet desert setting in Aetherdrift; both deal with the ghost/demon threats roaming outside Naktamun"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

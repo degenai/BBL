@@ -1,0 +1,35 @@
+{
+  "edge_id": "baby-dbgt-character-node-proposal",
+  "shape": "node-proposal",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/baby-dbgt.md", "name": "Baby (Dragon Ball GT)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-002-baby-rampaging-great-ape-baby.md", "name": "Baby // Rampaging Great Ape Baby"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-018-baby-vengeance-unleashed.md", "name": "Baby, Vengeance Unleashed"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-020-vow-revenge.md", "name": "Vow Revenge"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-021-revenge-death-ball.md", "name": "Revenge Death Ball"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-022-vengeful-onslaught.md", "name": "Vengeful Onslaught"}
+  ],
+  "description": "Oh — Mr. Nodeley apologizes for stepping in but the wave 50 trivia cleared the N=5 corpus-anchor threshold for the Baby Saga's headline antagonist and the right move was to commission the character node rather than scatter five-way edges across the BT4 cluster. If it's not too much trouble, sir, the node anchors on the Bandai-designed BT4 red Machine Mutant subarchetype that the strategy page itself calls out, with the inverted-Spirit-Bomb thesis and the Tuffle-genocide-revenge backstory load-bearing for the future Discrete Lair commission. Two additional Cross Worlds anchors (Dr. Myuu BT3-017, Luud BT3-016) will wire here on wave 51 vision. Mr. Nodeley hopes the structural parallel to valgavoth.md / nicol-bolas.md holds up; he tried to be careful.",
+  "citations": [
+    "[Dragon Ball Wiki: Baby]",
+    "[Dragon Ball Wiki: Revenge Death Ball]",
+    "[Dragon Ball Villains Wiki: Baby]",
+    "[CBR: Dragon Ball GT's Baby Created Dr. Myuu Oddity, Explained as Simply as Possible (2022)]",
+    "[CBR: Dragon Ball: Why Baby No Longer Exists (2021)]",
+    "[dbs-cardgame.com/us-en/strategy/series4/red.php]",
+    "[dbs-cardgame.com BT4 Colossal Warfare product page]",
+    "[Bleeding Cool: Colossal Warfare Checklist]",
+    "[Wikipedia: Dragon Ball GT]"
+  ],
+  "files_modified": [
+    "cards/_characters/baby-dbgt.md (new node MD)",
+    "cards/dragon-ball-super/colossal-warfare/bt4-002-baby-rampaging-great-ape-baby.md (added characters: [\"baby-dbgt\"])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-018-baby-vengeance-unleashed.md (added characters: [\"baby-dbgt\"])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-020-vow-revenge.md (added characters: [\"baby-dbgt\"])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-021-revenge-death-ball.md (added characters: [\"baby-dbgt\"])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-022-vengeful-onslaught.md (added characters: [\"baby-dbgt\"])"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

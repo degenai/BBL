@@ -1,0 +1,37 @@
+{
+  "card_name": "Quick blade Trunks",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "SD3-03",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Trunks' — canonical. The SD3 'Dark Invasion' deck's strategy page references 'Chain Attack Trunks' as the primary finisher. Young male fighter with light hair wielding a large sword with blue energy is Future Trunks' definitive visual signature (sword, light/purple hair, dark jacket). The sword with blue ki energy specifically echoes Future Trunks' 'Sword of Hope' appearance in Dragon Ball Super. Card name plus visual match confirms.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "SD3-03 is from 'The Dark Invasion' starter deck (DBS-SD03), the black/green Xenoverse-themed deck released alongside Cross Worlds in 2018. While Future Trunks serves as Chronoa's Time Patrol lieutenant in the Xenoverse lore, his presence in the Dark Invasion deck (the antagonist-faction deck) reflects the Xenoverse game's framing of Trunks as the player's guide — bridging hero and dark-faction narrative. [WebSearch: DBS SD3 Dark Invasion product listing; WebSearch: Series 3 roundup strategy page]",
+      "sources": ["WebSearch: DBS SD3 Dark Invasion product listing", "WebSearch: DBS Series 3 roundup strategy page"]
+    },
+    {
+      "category": "design",
+      "text": "Future Trunks is canonically the greatest swordsman in Dragon Ball. His sword's most iconic moment is the formation of the 'Sword of Hope' during the Dragon Ball Super Goku Black arc, where he channeled the surviving people of Earth's ki into his blade to bisect Fused Zamasu. The blue energy crackling around the blade in this card's art is consistent with that ki-sword aesthetic. [CBR: Future Trunks Sword Power Explained, via WebSearch]",
+      "sources": ["CBR: Future Trunks Sword Power Explained, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Per the Cross Worlds strategy page, 'Chain Attack Trunks' (identified as the SD3 deck's key attacker) is designed to reach the board by turns 2-3 when paired with BT3-011. The SD3 deck's card synergy is built around energy management and direct attacks, using Trunks as the pressure card while Masked Saiyan and Mira provide power and intimidation. [WebSearch: DBS series 3 roundup strategy; WebSearch: DBS SD3 product page]",
+      "sources": ["WebSearch: DBS Series 3 roundup strategy page"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Encroaching Threat Masked Saiyan", "set": "Cross Worlds", "note": "SD3-04 — Trunks' Xenoverse partner/antagonist in the same starter deck"},
+    {"name": "Power Aura Mira", "set": "Cross Worlds", "note": "SD3-05 — the deck's antagonist; Trunks opposes Mira and Towa in Xenoverse lore"},
+    {"name": "Supreme Kai of Time, World's Protector", "set": "Cross Worlds", "note": "Chronoa — Future Trunks serves under her as Time Patrol in Xenoverse"},
+    {"name": "Rushing Warrior Pan", "set": "Cross Worlds", "note": "GT-era Pan; Trunks and Pan travel together in Dragon Ball GT"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

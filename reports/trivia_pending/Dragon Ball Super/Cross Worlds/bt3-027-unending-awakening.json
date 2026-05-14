@@ -1,0 +1,36 @@
+{
+  "card_name": "Unending Awakening",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-027",
+  "task_profile": "ip-priority",
+  "ip_decision": "refute",
+  "ip_outcome_note": "Vision flagged 'Son Gohan (child) or Son Goku (child)' at high confidence. The card text confirms this is NOT a character card at all — BT3-027 is a Counter card with skill '[Counter: Attack] Negate the attack. Then, choose up to 1 of your red Saiyan Leader Cards. It gains +5000 power for the duration of the turn.' It has no character association in the official card database — it is a generic support card. The child in orange gi screaming in a Super Saiyan power-up is illustrative art representing the concept of Saiyan awakening, not depicting any specific named character. Per anti-confab rules: no oracle text names a character, no flavor text names a character, the card is categorized as a Counter (not a Battle card), and no Wizards/Bandai article links this specific art to a named character. Refute both candidates.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Unending Awakening (BT3-027) is a red Common Counter card from Cross Worlds (DBS-B03, March 2018). Unlike Battle cards, it depicts no specific named character — it illustrates the thematic concept of a Saiyan's Super Saiyan awakening without tying the art to a single named individual [Source: WebSearch snippets from coretcg.com, trollandtoad.com, and dbzexchange.com BT3-027 listings].",
+      "sources": ["WebSearch snippets: coretcg.com, trollandtoad.com, dbzexchange.com BT3-027 listings"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT3-027's skill: '[Counter: Attack] Negate the attack. Then, choose up to 1 of your red Saiyan Leader Cards. It gains +5000 power for the duration of the turn.' It is a universal red Saiyan support counter — works with any red Saiyan Leader, not locked to a specific character. This makes it a flexible generic inclusion in any red Saiyan deck [Source: WebSearch snippets from coretcg.com and dbzexchange.com BT3-027 listings].",
+      "sources": ["WebSearch snippets: coretcg.com, dbzexchange.com BT3-027 listings"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The Super Saiyan transformation depicted — screaming child, golden aura erupting — is one of Dragon Ball's most iconic visual motifs. Its most famous in-story occurrence is young Gohan's first Super Saiyan 2 awakening against Cell (Dragon Ball Z, 1993); Goku's first Super Saiyan transformation in a child-adjacent context occurs in Dragon Ball GT. The art evokes the archetype, not either specific moment, making the figure intentionally ambiguous [Source: Dragon Ball Wiki: Super Saiyan; CBR: Future Trunks timeline].",
+      "sources": ["Dragon Ball Wiki (Fandom): Super Saiyan", "cbr.com: Future Trunks timeline (background context)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pint-sized Warrior Son Goku", "set": "Cross Worlds", "note": "BT3-006 — same set; child Goku card, thematic visual pair"},
+    {"name": "Unyielding Justice SS2 Trunks", "set": "Cross Worlds", "note": "BT3-061 — same set; Super Saiyan 2 transformation, parallel awakening theme"},
+    {"name": "Unbroken Dynasty Son Goku", "set": "Colossal Warfare", "note": "BT4-079 — child Goku in BT4; same archetype, different set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "",
+    "ip_confidence": "none"
+  }
+}

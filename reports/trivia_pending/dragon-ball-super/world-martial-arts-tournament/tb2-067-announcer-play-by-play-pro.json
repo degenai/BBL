@@ -1,0 +1,36 @@
+{
+  "card_name": "Announcer, Play-By-Play Pro",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-067",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The World Tournament Announcer is a named, recurring character in the Dragon Ball franchise — the unnamed blonde announcer who presides over every Tenkaichi Budokai/World Martial Arts Tournament from the original Dragon Ball through Dragon Ball GT. The card's Earthling/World Tournament traits, the figure's blonde hair and suit design, and the TB2 set's explicit focus on the tournament all confirm this is that character. ip_verified set to true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "TB2 (DBS-TB02) is the second themed booster set for the Dragon Ball Super Card Game, released October 2018 by Bandai. The entire set is dedicated to the World Martial Arts Tournament arc, with cards carrying the 'Earthling/World Tournament' special trait to support tournament-themed leader strategies. [Bandai official DBS-TB02 product page, via WebSearch snippet]",
+      "sources": ["Bandai DBS-TB02 product page, via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "TB2-067 is the third in a three-card Announcer mini-cycle within DBS-TB02: TB2-065 (Announcer // Announcer, Referee Veteran), TB2-066 (Announcer, Ever-Curious), and TB2-067 (Announcer, Play-By-Play Pro). Each represents a distinct facet of the character's broadcast role, from officiating to color commentary. [WebSearch: Bleedingcool checklist; Big Orbit Cards listings]",
+      "sources": ["Bleedingcool DBS-TB02 checklist, via WebSearch", "Big Orbit Cards, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "The World Tournament Announcer is a recurring background figure throughout Dragon Ball, Dragon Ball Z, Dragon Ball GT, and Dragon Ball Super — one of the franchise's longest-running unnamed characters. His blonde hair and suit are consistent visual identifiers across all series appearances. The card's mechanics — drawing 2 cards when 2+ World Tournament cards are in the Battle Area — directly model his role as a hype-man whose presence amplifies the tournament spectacle. [Dragon Ball Wiki Fandom: World Tournament Announcer, via WebSearch]",
+      "sources": ["Dragon Ball Wiki Fandom, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Announcer // Announcer, Referee Veteran", "set": "World Martial Arts Tournament", "note": "TB2-065 — same character, alternate card face as referee"},
+    {"name": "Announcer, Ever-Curious", "set": "World Martial Arts Tournament", "note": "TB2-066 — same character, third version in the cycle"},
+    {"name": "Goku, Saiyan Raised on Earth", "set": "World Martial Arts Tournament", "note": "Primary protagonist of the tournament arc; the Announcer's most-called fighter"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "World Tournament Announcer",
+    "ip_confidence": "high"
+  }
+}

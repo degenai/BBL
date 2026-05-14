@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-14
 date_added: 2026-05-10
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://cards.scryfall.io/png/front/1/d/1d7d5b71-7c1b-4fc2-a5ec-7285e17ffe0f.png?1738356489
 art_match_confidence: high
 needs_manual_review: false
@@ -51,4 +51,15 @@ A dynamic action scene depicting a winged figure being struck or shot down out o
 **Creatures:** winged-figure, aerial-racer
 **Iconography:** broken-wing, feathers
 **Genre cues:** fantasy, race, post-apocalyptic
+
+## Trivia
+
+- **Design / reprint history** — Broken Wings is a reprint with 10 prior printings. First printed in Zendikar Rising (ZNR, September 2020), it has since appeared in Kaldheim (KHM), Streets of New Capenna (SNC), Dominaria United (DMU), Game Night: Free-for-All (GN3), Commander Masters (CMM), Bloomburrow Commander (BLC), The List (PLST KHM-164, August 2024), Foundations (FDN, November 2024), and now Aetherdrift (DFT, February 2025). The reprint cadence — 10 printings across 5 years — signals Wizards treats it as a format staple worth keeping continuously accessible. `[Scryfall: reprint: true, prints_search_uri data]`
+- **Mechanical reputation** — Destroys target artifact, enchantment, or creature with flying for 3 mana (2G). EDHREC rank 3,893 — the highest-ranked card in this wave's batch by a large margin, indicating meaningful Commander inclusion. Its three-clause flexibility (hitting each permanent type most relevant to green's hate needs) explains both its ubiquity and its repeated reprinting. Pauper-legal. `[Scryfall: edhrec_rank 3893, legalities pauper: legal]`
+- **Flavor text** — "An early lead puts a target on your back." — No named speaker. This is Aetherdrift-specific flavor text (the original ZNR printing had different flavor text). The line reframes the card's mechanical effect in racing terms: the flying creature being destroyed is the race leader, shot down by rivals. `[Scryfall: flavor_text field, DFT printing]`
+
+### Related cards
+- Return to Nature (Theros Beyond Death) — same CMC, same three-clause flexible hate (artifact, enchantment, or graveyard); the most direct functional parallel
+- Naturalize (Onslaught) — the classic 2-mana destroy artifact/enchantment; Broken Wings adds the flying-creature clause for 1 more mana
+- Force of Vigor (Modern Horizons) — a pushed artifact/enchantment hate card in the same design space; often compared when evaluating Broken Wings's slot in competitive sideboards
 

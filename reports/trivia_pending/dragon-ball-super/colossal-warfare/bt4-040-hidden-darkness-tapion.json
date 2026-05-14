@@ -1,0 +1,37 @@
+{
+  "card_name": "Hidden Darkness Tapion",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-040",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Hidden Darkness Tapion.' The skull-overlaid warrior figure with spiky hair is the card's explicit visualization of Tapion's canonical burden: the upper half of Hirudegarn sealed within his body. The skull motif directly represents Hirudegarn's skull-like head emerging through or over Tapion. Character name is in the title.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The skull imagery on this card literalizes Tapion's lore: Hirudegarn's first form has a head described as skull-shaped, and Tapion contains the monster's upper body within himself. When Tapion cannot play his Hero's Flute, Hirudegarn's top half surfaces and begins to manifest — the skull overlay on this card art depicts that moment of horror [Villains Wiki: Hirudegarn, WebSearch: Tapion Konatsian lore].",
+      "sources": ["Villains Wiki: Hirudegarn", "WebSearch: Tapion Minotia Konatsian warriors"]
+    },
+    {
+      "category": "design",
+      "text": "The 'Hidden Darkness' card title pairs deliberately with BT4-041 (Hidden Darkness Minotia) — both cards use the same title prefix to indicate the parallel fate of the two brothers: each carrying a half of the same monster, their heroism indistinguishable from their curse. This visual-narrative pairing across two cards is a design choice characteristic of Colossal Warfare's Hirudegarn Saga arc [WebSearch: DBS BT4 Colossal Warfare design overview, Bleeding Cool checklist].",
+      "sources": ["WebSearch: DBS BT4 Colossal Warfare Bleeding Cool checklist", "WebSearch: DBS BT4 Colossal Warfare design concept"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT4-040 is a Common rarity card (market price approximately $0.18 as of May 2026), making it notably the highest-valued common in this 8-card wave — likely because the skull-over-warrior composition resonates as a collector image beyond its gameplay utility [inventory data: market_price 0.18].",
+      "sources": ["Inventory frontmatter: market_price 0.18", "Red Fox Gaming Online product listing"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Oath's Power, Tapion", "set": "Colossal Warfare", "note": "BT4-039 — the heroic counterpart showing Tapion's oath rather than his burden"},
+    {"name": "Hidden Darkness Minotia", "set": "Colossal Warfare", "note": "BT4-041 — parallel 'Hidden Darkness' card for Tapion's brother Minotia"},
+    {"name": "Impenetrable Defense Hirudegarn", "set": "Colossal Warfare", "note": "BT4-037 — the creature Tapion carries inside him"},
+    {"name": "Hirudegarn, the Wanderer", "set": "Colossal Warfare", "note": "BT4-038 — Hirudegarn's second form, what erupts if Tapion's seal fully breaks"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

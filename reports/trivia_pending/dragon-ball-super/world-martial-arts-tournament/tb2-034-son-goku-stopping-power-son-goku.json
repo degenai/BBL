@@ -1,0 +1,37 @@
+{
+  "card_name": "Son Goku // Stopping Power Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-034",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name on frame is 'Son Goku // Stopping Power Son Goku' — the card itself names the character. Son Goku is a Wizards/Bandai-internal IP (Toei Animation / Shueisha property), not an external crossover risk. Verified. No ## IP callout block required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "This is a double-sided / two-name Uncommon card from the World Martial Arts Tournament Themed Booster (DBS-TB02, 2018), representing Goku during the 28th World Martial Arts Tournament arc — the final arc of Dragon Ball Z. The 'Stopping Power' title references Goku's role blocking or controlling the pace of his match against Uub. [WebSearch: dbs-cardgame.com TB02 product / DBZ Exchange TB02]",
+      "sources": ["WebSearch: dbs-cardgame.com TB02 product page", "WebSearch: DBZ Exchange TB02"]
+    },
+    {
+      "category": "design",
+      "text": "The orange gi and dark-blue undershirt visible in the card art are Goku's signature outfit worn consistently across Dragon Ball Z and early Dragon Ball Super. Goku's gi color and spiky black hair are among the most immediately recognizable character design signatures in anime history. [WebSearch: Wikipedia Trunks (Dragon Ball) for character design context / CBR Future Trunks differences]",
+      "sources": ["WebSearch: Wikipedia Trunks Dragon Ball character design", "WebSearch: CBR Dragon Ball Super Goku design"]
+    },
+    {
+      "category": "mechanical",
+      "text": "TB02 introduced 'Link Cards' — two-card pairs that unlock additional effects when fielded together. The double-slash naming convention ('Son Goku // Stopping Power Son Goku') indicates this card participates in that mechanic, pairing with a counterpart card to unleash full potential. The set contains 125 unique cards distributed across 24 packs per box. [WebSearch: Bleeding Cool TB02 checklist / DBZ Exchange TB02]",
+      "sources": ["WebSearch: Bleeding Cool TB02 checklist", "WebSearch: DBZ Exchange TB02 booster box"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Trading Blows Son Goku (TB2-036)", "set": "World Martial Arts Tournament", "note": "Second Goku card in same set — both represent the 28th Tournament arc"},
+    {"name": "Shocking Latent Ability (TB2-033)", "set": "World Martial Arts Tournament", "note": "Uub card whose lore context is Goku's match against Uub at this same tournament"},
+    {"name": "Tien Shinhan, Trading Moves (TB2-043)", "set": "World Martial Arts Tournament", "note": "Same set, same tournament era"},
+    {"name": "Best Buddy Chiaotzu (TB2-044)", "set": "World Martial Arts Tournament", "note": "Same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

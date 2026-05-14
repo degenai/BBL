@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-14
 date_added: 2026-05-08
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://images.pokemontcg.io/swsh2/105_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -60,6 +60,7 @@ A small, round Pokemon composed of dark grey-black coal sits amid a dramatic und
 ## Connections
 
 - [[106-192-carkol]] — Adjacent-collector-number within-set Galar coal-line evolution mirror (RBC-105 ↔ RBC-106, both Rebel Clash). Rolycoly (National Pokedex no. 837, Rock-type) is the basic stage; Carkol (no. 838, Rock/Fire) is the Stage-1 evolution it reaches at level 18, with Coalossal (no. 839, Rock/Fire) closing the line at level 34. The Rolycoly print's flavor text canonizes the species' coal-body composition as a long-standing feature of Galar's industrial-extraction history (*"this Pokémon was first discovered in coal mines about 400 years ago"*), and the Carkol print extends the same thesis into the post-discovery industrial-era register (*"Coal dropped by this Pokémon once helped fuel the lives of people in the Galar region"*). The evolution-line pair is the cohort's clearest in-flavor statement of **Pokemon-as-fuel-source** — the species line literally embodies the apparatus of coal extraction at the species level, with the basic form discovered in the mines and the Stage-1 form producing the coal that powered Galar (UK-modeled, Industrial Revolution era). The pair connects laterally to [[160-192-galar-mine]] (the location card depicting the extractive site itself), and the cluster reads as a designer-coordinated industrial-labor thesis within Galar's broader UK-modeled period framing. `[Bulbapedia: Rolycoly (Pokemon) — National Pokedex no. 837, evolves to Carkol at level 18; Bulbapedia: Carkol (Pokemon) — no. 838, Rock/Fire; PokemonTCG.io API: swsh2-105 flavor_text, swsh2-106 flavor_text]`
+- [[160-192-galar-mine]] — Galar coal-mine site-and-resident pair, within-set adjacency. Rolycoly's flavor text canonizes the species as the mine's biological residue (*"this Pokemon was first discovered in coal mines about 400 years ago"*); Galar Mine renders the in-game location depicted in Pokemon Sword & Shield (Game Freak, 2019) — the tunnel between Routes 3 and 4 en route to Turffield, lit by amber coal-vein glow with wooden support beams and mine-cart rails. Together the pair renders the extraction site and the species the site produces, anchoring the Galar coal-line within [[labor]]'s apparatus-of-extraction thesis. `[PokemonTCG.io: swsh2-105 flavor_text + swsh2-160 art; Bulbapedia: Galar Mine (location); Bulbapedia: Rolycoly (Pokemon)]`
 
 ## Trivia
 

@@ -1,0 +1,36 @@
+{
+  "card_name": "Power of Friendship Pan",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-009",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name reads 'Power of Friendship Pan'. Pan is Gohan and Videl's daughter and Goku's granddaughter, established in Dragon Ball Z and starring in Dragon Ball GT. Card trait is Saiyan/Earthling, Era: Baby Saga — consistent with Pan's GT role as one of three protagonists (Goku, Trunks, Pan) of the early GT space arc. Identity unambiguous from card name.",
+  "trivia_bullets": [
+    {
+      "category": "mechanical",
+      "text": "BT4-009 is a red Common Battle card: 20000 power, 5000 combo power, 5-red energy cost. Auto ability on play: look at the top 5 cards, choose up to 1 Battle Card with 15000 or less power bearing GT in the character name and play it. This is a direct tutor for GT-named cards, enabling tempo plays that chain GT characters into the field. Trait: Saiyan/Earthling, Era: Baby Saga. [Source: WebSearch snippet via TCGPlayer product page BT4-009]",
+      "sources": ["TCGPlayer: Power of Friendship Pan BT4-009"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Pan is the daughter of Son Gohan and Videl, and the granddaughter of Son Goku. Being the child of a Saiyan-human hybrid (Gohan) and a fully human mother (Videl), Pan is a quarter-Saiyan — notable as one of the few quarter-Saiyans in the franchise. In Dragon Ball GT, she is one of three main characters sent into space to retrieve the Black Star Dragon Balls. [Source: WebSearch snippet via dragon-ball-official.com character showcase]",
+      "sources": ["dragon-ball-official.com: Weekly Character Showcase Pan"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Pan notably cannot achieve Super Saiyan form in Dragon Ball GT despite her Saiyan heritage, a creative decision that has generated ongoing fan discussion. Her role in BT4's Baby Saga era cards reflects the period when Baby targeted and possessed most of the Z-Fighters — Pan was one of few who evaded possession. [Source: WebSearch snippets via Dragon Ball official site character notes; Wikipedia: Dragon Ball GT]",
+      "sources": ["Wikipedia: Dragon Ball GT", "dragon-ball-official.com character showcase"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Blaze of Glory Son Gohan", "set": "Colossal Warfare", "note": "BT4-006 — Pan's father; shares Saiyan/Earthling trait and Baby Saga era"},
+    {"name": "Intensifying Power Trunks", "set": "Colossal Warfare", "note": "BT4-012 — Trunks is Pan's travelling companion in Dragon Ball GT"},
+    {"name": "Blazing Spirit Son Goku", "set": "Colossal Warfare", "note": "BT4-005 — Pan's grandfather, GT companion on the Black Star Dragon Ball quest"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

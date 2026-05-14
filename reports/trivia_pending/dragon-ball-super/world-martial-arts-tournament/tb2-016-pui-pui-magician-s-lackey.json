@@ -1,0 +1,36 @@
+{
+  "card_name": "Pui Pui, Magician's Lackey",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-016",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies Pui Pui. The tall pale humanoid in green bodysuit with elongated smooth head is Pui Pui's canonical appearance. He is the guardian of level one in Babidi's Spaceship. Confirmed via Dragon Ball Wiki and official Dragon Ball site character showcase.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Pui Pui is the guardian of the first floor of Babidi's Spaceship and the weakest of Babidi's combat-tier henchmen. He hails from Planet Zoon, which has 10x Earth's gravity — a fact he uses to taunt his opponents, though Vegeta was unimpressed and defeated him in base form. [Dragon Ball Wiki: Pui Pui; Official Dragon Ball site character showcase no. 173]",
+      "sources": ["dragonball.fandom.com/wiki/Pui_Pui", "en.dragon-ball-official.com/news/01_2842.html"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "His title 'Magician's Lackey' reflects his place in Babidi's hierarchy: he executed dirty work (killing Yamu after the energy drain) and guarded the first gate, but was never trusted with anything approaching Babidi's real plans. [Dragon Ball Wiki: Pui Pui]",
+      "sources": ["dragonball.fandom.com/wiki/Pui_Pui"]
+    },
+    {
+      "category": "mechanical",
+      "text": "In the DBS card game, cards tagged as Babidi-aligned often support energy-drain and sacrifice mechanics, fitting Pui Pui's role as an expendable guardian who dies clearing the path for the main threat. Community discourse on r/DBSCG treats Babidi-archetype cards as aggro enablers rather than standalone threats. [WebSearch snippet: DBS TB02 strategy]",
+      "sources": ["dbs-cardgame.com TB02 strategy page (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dark Duo Babidi", "set": "World Martial Arts Tournament", "note": "TB2-013 — Pui Pui's master"},
+    {"name": "Babidi's Spaceship", "set": "World Martial Arts Tournament", "note": "TB2-018 — the location Pui Pui guards"},
+    {"name": "Tainted Power, Spopovich & Yamu", "set": "World Martial Arts Tournament", "note": "TB2-015 — Pui Pui killed Yamu on Babidi's order after the energy drain"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

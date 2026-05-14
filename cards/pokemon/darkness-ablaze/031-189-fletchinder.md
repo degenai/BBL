@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-14
 date_added: 2026-05-08
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://images.pokemontcg.io/swsh3/31_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -66,4 +66,8 @@ A streamlined bird with dark feathers and a vivid reddish marking swoops through
 - Fletchling (various) — pre-evolution; pure Normal/Flying before fire typing emerges
 - Talonflame (various) — final evolution; the Gen 6 OU terror via unconditional Gale Wings priority Brave Bird
 - Charizard (various) — thematic counterpart Fire/Flying; the canonical fire-bird contrast in competitive discourse
+
+## Connections
+
+- [[151-189-fletchling]] — Within-set Kalos regional-bird evolution-pair mirror (DAA-151 base ↔ DAA-031 Stage-1, both Darkness Ablaze). Fletchling (Pokedex no. 661, Normal/Flying) evolves into Fletchinder (no. 662, Fire/Flying) at level 17 — one of the franchise's few lines where the secondary type **changes** at first evolution (Normal -> Fire), per `[Bulbapedia: Fletchling line]`. The line's apex Talonflame (no. 663) is not currently in corpus; line-cohort node deferred at n=2 below threshold per the [[mareep-line]] / [[caterpie-line]] precedent (3+ prints / 2+ stages required). `[PokemonTCG.io API: swsh3-31, swsh3-151; Bulbapedia: Fletchling (Pokemon)]`
 

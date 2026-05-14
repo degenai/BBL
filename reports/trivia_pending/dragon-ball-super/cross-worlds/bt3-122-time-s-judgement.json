@@ -1,0 +1,37 @@
+{
+  "card_name": "Time's Judgement",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-122",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Time's Judgement' invokes Chronoa's role as Supreme Kai of Time. Petite female figure with large pink twin-tails, purple/pink deity outfit, and commanding gesture is Chronoa's definitive visual signature — identical character to BT3-113 in this set, confirmed by the vision pass cross-reference and the Dragon Ball Wiki / Xenoverse 2 Wiki character descriptions.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT3-122 is the second Chronoa card in the BT3 Cross Worlds booster and is numbered back-to-back with Dark Plot (BT3-121) — justice card placed immediately after the conspiracy card. The juxtaposition is likely intentional: the set structures the Xenoverse narrative conflict as a literal card sequence. [WebSearch: DBS BT3 card list; WebSearch: Bleeding Cool Cross Worlds checklist]",
+      "sources": ["WebSearch: DBS BT3 card list", "WebSearch: Bleeding Cool Cross Worlds Checklist"]
+    },
+    {
+      "category": "design",
+      "text": "Chronoa's 'Holy Time Judgement' is a canonical attack in the Xenoverse games — energy spheres formed in both hands and thrown to surround and explode the target. The card name 'Time's Judgement' directly references this move, making the card a mechanical translation of a specific in-game ability rather than a generic power event. [WebSearch: Chronoa moveset, GameFAQs Xenoverse 2 board]",
+      "sources": ["WebSearch: GameFAQs Xenoverse 2 Chronoa moveset thread, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT3-113 and BT3-122 represent Chronoa's dual presence in Cross Worlds — one Battle Card (her as a unit) and one Event/Extra card (her signature ability). Having both a character card and a named-ability card for the same figure in the same set is uncommon for a Common-rarity character and signals Chronoa's narrative centrality to the Xenoverse arc the set adapts. [WebSearch: DBS BT3 card list]",
+      "sources": ["WebSearch: DBS BT3 card list"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Supreme Kai of Time, World's Protector", "set": "Cross Worlds", "note": "BT3-113 — same character, companion Battle Card to this event card"},
+    {"name": "Dark Plot", "set": "Cross Worlds", "note": "Immediately preceding card in BT3 sequence; the conspiracy this Judgement opposes"},
+    {"name": "Towa, Space Time Unleashed", "set": "Cross Worlds", "note": "Chronoa's principal antagonist in the Xenoverse arc"},
+    {"name": "Quick blade Trunks", "set": "Cross Worlds", "note": "Future Trunks serves under Chronoa in the Time Patrol — same lore faction"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

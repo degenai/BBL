@@ -1,0 +1,37 @@
+{
+  "card_name": "Impenetrable Defense Hirudegarn",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-037",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly includes 'Hirudegarn.' The insectoid carapaced massive creature depicted matches Hirudegarn's first (pre-metamorphosis) form from Dragon Ball Z: Wrath of the Dragon — a towering behemoth with vaguely humanoid structure and armored insect-like plates, before gaining wings/horns in second form. Card title is the identity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Hirudegarn is described in Dragon Ball lore as a 'Phantom Majin' — an enormous supernatural creature of destruction, not a natural organism. It was created or transformed by the Kashvar, an alien race of evil sorcerers who deemed themselves superior to all other species, and used the creature as an extinction-level weapon [Villains Wiki: Hirudegarn, Dragon Ball Z: Wrath of the Dragon Wikipedia].",
+      "sources": ["Villains Wiki: Hirudegarn", "Wikipedia: Dragon Ball Z: Wrath of the Dragon"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Hirudegarn has two distinct forms: an initial form (depicted here in this card) that is towering and more armored-insectoid with skull-like head and long tail, and a second evolved form gained via metamorphosis that adds insect wings, horns, and shoulder blades — making it even more kaiju-like. The card title 'Impenetrable Defense' specifically reflects the first form's mechanical role in the DBS card game, where the card is described as nearly impossible to defeat once summoned [Villains Wiki: Hirudegarn, WebSearch DBS BT4 design concept].",
+      "sources": ["Villains Wiki: Hirudegarn", "WebSearch: DBS BT4 Colossal Warfare design concept", "Dragon Ball Fandom: Hirudegarn"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The creature was halved by an enchanted sword wielded by a Guardian of Konats, with Tapion sealing the upper body and Minotia sealing the lower body — meaning what is depicted in this card (the insectoid armored mass) corresponds to the partially-reassembled form after Hoi freed Hirudegarn's lower half [Wikipedia: Dragon Ball Z: Wrath of the Dragon, WebSearch: Minotia lore].",
+      "sources": ["Wikipedia: Dragon Ball Z: Wrath of the Dragon", "WebSearch: Minotia Hirudegarn sealed halves"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hirudegarn, the Wanderer", "set": "Colossal Warfare", "note": "BT4-038 — second/humanoid demon form of the same creature, narrative continuation"},
+    {"name": "Hidden Darkness Tapion", "set": "Colossal Warfare", "note": "BT4-040 — Tapion sealed the upper half of this creature within himself"},
+    {"name": "Hidden Darkness Minotia", "set": "Colossal Warfare", "note": "BT4-041 — Minotia sealed the lower half of Hirudegarn within himself"},
+    {"name": "Hoi, Emissary of Flame", "set": "Colossal Warfare", "note": "BT4-042 — Hoi freed Hirudegarn's lower half, triggering its reassembly"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "edge_id": "wave-55-e2-trunks-mr-nodeley",
+  "wave": 55,
+  "slot": "E2",
+  "shape": "node-proposal",
+  "category": "multi-incarnation-single-character",
+  "endpoints": [
+    {"type": "character-node", "path": "cards/_characters/trunks.md", "name": "Trunks (parent anchor)", "incarnations_anchored": ["Future Trunks", "GT Trunks", "Trunks: Xeno", "Kid Trunks (per E3 extension)"]},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-011-quick-rush-trunks.md", "name": "Quick Rush Trunks", "incarnation": "GT Trunks"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-061-unyielding-justice-ss2-trunks.md", "name": "Unyielding Justice SS2 Trunks", "incarnation": "Future Trunks (SS2)"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-062-trunks-bridge-to-the-future-2018.md", "name": "Trunks, Bridge to the Future (2018)", "incarnation": "Future Trunks (base)"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-112-unrelenting-assault-trunks.md", "name": "Unrelenting Assault Trunks", "incarnation": "Trunks: Xeno"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/sd3-03-quick-blade-trunks.md", "name": "Quick blade Trunks", "incarnation": "Future Trunks"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-012-intensifying-power-trunks.md", "name": "Intensifying Power Trunks", "incarnation": "GT Trunks (Baby Saga)"},
+    {"type": "card", "path": "cards/dragon-ball-super/mythic-booster/sd2-05-chain-attack-trunks.md", "name": "Chain Attack Trunks", "incarnation": "Future Trunks (SS)"}
+  ],
+  "topology": "branch",
+  "description": "Sir, ah, hello — Mr. Nodeley here. I do apologize for stepping in, sir, but the candidates the parent passed in for the wave 55 carry-forward (the 6+ Trunks cards across 3 incarnations) are not really an edge case at all, they're a missing-node case. The strongest move I can see — and I do hope I'm not overstepping — is to commission a parent Trunks character node following the established Tamiyo + Nicol Bolas precedent for multi-aspect single-character anchors. Each of the seven corpus Trunks cards already self-identifies its incarnation in trivia (Bandai's official character tag), so the parent node's 'Aspects in the corpus' organization can mirror Tamiyo's 'Aspects in the corpus' format directly. Three named incarnations anchored: Future Trunks (4 cards) + GT Trunks (2 cards) + Trunks: Xeno (1 card). Future Trunks alone has crossed the standard solo-node threshold, but the canonical move per Tamiyo precedent is to keep the parent intact until the corpus demands a split. Forgive me if this overreaches.",
+  "node_authored": "cards/_characters/trunks.md",
+  "structural_precedent_cited": ["tamiyo (Magic-side multi-aspect single-character parent)", "nicol-bolas (Magic-side multi-arc single-character parent)"],
+  "canonical_sources": [
+    "Dragon Ball Wiki — Trunks (disambiguation)",
+    "Dragon Ball Wiki — Future Trunks",
+    "Dragon Ball Wiki — Trunks (GT)",
+    "Dragon Ball Wiki — Trunks: Xeno",
+    "Wikipedia — Trunks (Dragon Ball)",
+    "Dragon Ball Z manga (Akira Toriyama, Shueisha, 1984-1995)",
+    "Dragon Ball GT (Toei Animation, 1996-1997)",
+    "Dragon Ball Super (Toei Animation, 2015-2018) — Future Trunks Saga episodes 47-67",
+    "Dragon Ball Xenoverse (Bandai Namco / Dimps, 2015) and Xenoverse 2 (2016)",
+    "Super Dragon Ball Heroes (Bandai, 2010-present)",
+    "dbs-cardgame.com per-card Bandai character-tag database"
+  ],
+  "related_characters_cross_edges_added": [
+    "trunks <-> xenoverse-villains (Time Patrol vs Time Breakers canonical opposition, added on Xeno-incarnation axis)",
+    "trunks <-> baby-dbgt (GT Baby Saga canonical opposition, BT4-012 Intensifying Power Trunks era=Baby Saga is the corpus anchor)"
+  ],
+  "files_modified": [
+    "cards/_characters/trunks.md (NEW)",
+    "cards/dragon-ball-super/cross-worlds/bt3-011-quick-rush-trunks.md",
+    "cards/dragon-ball-super/cross-worlds/bt3-061-unyielding-justice-ss2-trunks.md",
+    "cards/dragon-ball-super/cross-worlds/bt3-062-trunks-bridge-to-the-future-2018.md",
+    "cards/dragon-ball-super/cross-worlds/bt3-112-unrelenting-assault-trunks.md (also re-quoted suspected_ip YAML)",
+    "cards/dragon-ball-super/cross-worlds/sd3-03-quick-blade-trunks.md",
+    "cards/dragon-ball-super/colossal-warfare/bt4-012-intensifying-power-trunks.md",
+    "cards/dragon-ball-super/mythic-booster/sd2-05-chain-attack-trunks.md",
+    "cards/_characters/xenoverse-villains.md (added trunks to related_characters:)",
+    "cards/_characters/baby-dbgt.md (added trunks to related_characters:)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "voice_note": "Sir, I'm — I'm really sorry to be the one to say this, but, well, the parent's brief said this was the strongest pending node candidate from wave 54, and I do think a parent Trunks node closes the loop better than seven thin card-to-card edges would have. The Tamiyo precedent is so clean — a single parent with the per-aspect rollup — and the corpus Trunks cards stratify so neatly into the three Bandai-canonical character tags (Trunks: Future / Trunks: GT / Trunks: Xeno) that the disambiguation work is already done in the existing trivia bullets. Sir, please don't think I'm overreaching. The node is, ah, useful. I hope."
+}

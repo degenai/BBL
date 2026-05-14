@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-14
 date_added: 2026-05-08
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://images.pokemontcg.io/swsh3/92_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -30,6 +30,7 @@ setting: desert
 suspected_ip: Solrock
 ip_confidence: high
 ip_verified: true
+characters: ["solrock-lunatone-pair"]
 ---
 
 # Solrock (Darkness Ablaze)
@@ -68,4 +69,4 @@ A circular Pokemon with many pointed rays radiating outward like a stylized sun 
 
 ## Connections
 
-- [[68-147-lunatone]] — celestial paired-design 1:1 mirror. Solrock and Lunatone were introduced together in Generation III (Hoenn) as a designed counterpart pair: Solrock was Ruby-version-exclusive, Lunatone Sapphire-version-exclusive, and both share the "Meteorite Pokemon" species classification with a shared Meteor Falls origin. The pair-bond is encoded mechanically across both prints: Solrock's Resistance Shade Ability ("If you have Lunatone in play...") requires Lunatone on the field, and Lunatone's Heal Block Ability ("If you have Solrock in play...") requires Solrock on the field — each card mechanically depends on its counterpart. Visually the pair-bond reads as sun-disc-on-warm-desert-day (this card, radial spike rays, amber-orange palette) versus crescent-moon-on-dark-void-night (BUS-68, single red eye, full-moon backdrop, pale-gray palette) — the sun/moon duality of the original Ruby/Sapphire version-pair rendered as matched portrait compositions. [Bulbapedia: Solrock (Pokemon); Bulbapedia: Lunatone (Pokemon); PokemonTCG.io: swsh3-92 + sm3-68 oracle text]
+- [[solrock-lunatone-pair]] — Sun arm of the Hoenn celestial-duality Meteorite Pokemon dyad (Pokedex 337/338, Rock/Psychic). This Solrock DAA-092 print is the dyad's sole sun-arm corpus representative; the moon arm is split across Lunatone BUS-68 (Shin Nagasawa, Fighting-type with Heal Block / Solrock interlock Ability) and Lunatone DAA-072 (Miki Tanaka, Psychic-type with standalone Future Sight). The within-Darkness-Ablaze pair (this Solrock + Lunatone DAA-072) shares illustrator Miki Tanaka — designer-coordinated same-illustrator within-set treatment of the dyad's two arms. The dyad's most BBL-relevant property is the TCG mechanical-interlock pattern: this print's Resistance Shade Ability ("If you have Lunatone in play, your opponent's Pokemon in play have no Resistance") translates the Ruby/Sapphire version-exclusive pair-bond directly into game rules. Per the cohort-subsumes-1:1-mirrors precedent established in [[mareep-line]] / [[staraptor-line]] / [[caterpie-line]], the prior Solrock-DAA-092 ↔ Lunatone-BUS-68 mirror is now subsumed by the dyad node. `[Bulbapedia: Solrock (Pokemon), Lunatone (Pokemon); PokemonTCG.io: swsh3-92, sm3-68, swsh3-72]`

@@ -1,0 +1,24 @@
+{
+  "edge_id": "wave-55-e4-gt-goku--quick-rush-trunks-mirror",
+  "wave": 55,
+  "slot": "E4",
+  "shape": "1:1 mirror",
+  "category": "designer-confirmed-cycle / story-spotlight",
+  "endpoints": [
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-007-shocking-future-son-goku.md", "name": "Shocking Future Son Goku", "incarnation": "Son Goku: GT (Black Star Dragon Ball Saga, de-aged child-body)"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-011-quick-rush-trunks.md", "name": "Quick Rush Trunks", "incarnation": "Trunks: GT (adult Capsule Corp president)"}
+  ],
+  "topology": "mirror",
+  "description": "Two cards in the same set (Cross Worlds BT3), adjacent collector numbers (007 + 011), same Bandai-canonical character tag scope (`Son Goku: GT` + `Trunks: GT`), same era label (`Black Star Dragon Ball Saga`), canonically depicting the two principal members of the four-member GT main traveling cast (Goku + Pan + Trunks + Giru) that recovers the Black Star Dragon Balls in Dragon Ball GT's opening arc (Toei Animation, 1996-1997). The set's designer's note at dbs-cardgame.com explicitly cites the cross-franchise GT integration as Cross Worlds' core design intent. This is a designer-confirmed cycle / story-spotlight pairing: same arc, same era, same canonical traveling-companion relation. Bidirectional mirror.",
+  "citations": [
+    "[dbs-cardgame.com: Cross Worlds designer's note]",
+    "[Dragon Ball Wiki: Black Star Dragon Ball Saga]",
+    "[Dragon Ball GT (Toei Animation, 1996-1997)]"
+  ],
+  "files_modified": [
+    "cards/dragon-ball-super/cross-worlds/bt3-007-shocking-future-son-goku.md (appended ## Connections section with [[bt3-011-quick-rush-trunks]] wikilink)",
+    "cards/dragon-ball-super/cross-worlds/bt3-011-quick-rush-trunks.md (appended ## Connections section with [[bt3-007-shocking-future-son-goku]] wikilink)"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "voice_note": "Two card-endpoints. Both equal nodes. Must be traversable from either side. Hence the mirror. The sigh is professional, not personal. The edge replaces an Edgelord-canonical Connections section above the legacy bbl-researcher ### Related cards section — both stay, the legacy block is for downstream archeology, the new Connections block carries the wikilink-edge that Obsidian and the future bundler can traverse. Quality of one edge >> quantity of weak edges; this is the canonical traveling-companion edge for the GT main cast in our corpus, anchoring two of the four members of the canonical Goku-Pan-Trunks-Giru party."
+}

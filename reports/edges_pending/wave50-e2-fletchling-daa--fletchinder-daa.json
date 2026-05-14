@@ -1,0 +1,27 @@
+{
+  "edge_id": "wave50-e2-fletchling-daa--fletchinder-daa",
+  "shape": "1:1",
+  "category": "named-character-identity",
+  "topology": "mirror",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/151-189-fletchling.md", "name": "Fletchling (Darkness Ablaze 151/189)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/031-189-fletchinder.md", "name": "Fletchinder (Darkness Ablaze 031/189)"}
+  ],
+  "description": "Within-set Kalos regional-bird evolution-pair 1:1 mirror. Fletchling DAA-151 (Pokedex no. 661, Normal/Flying base) and Fletchinder DAA-031 (no. 662, Fire/Flying Stage-1) are the Kalos Gen-VI fast-bird line's base and Stage-1, both trivia-passed, both unwired prior to this pass, both in the same set (Darkness Ablaze) at non-adjacent collector numbers. Notable lore detail: this is one of the franchise's few evolution lines where the secondary type CHANGES at first evolution (Normal->Fire), not the usual base-Normal-stays-Normal pattern. The line's apex Talonflame (no. 663, the Gen-VI OU-tier terror via unconditional Gale Wings priority Brave Bird) is not currently in corpus. Line-cohort node deferred at n=2 below the 3+ prints / 2+ stages threshold established by [[mareep-line]] / [[caterpie-line]] / [[staraptor-line]] — this mirror follows the Larvitar/Pupitar precedent of the within-set evolution-pair mirror under threshold. Two card-endpoints, both equal nodes, must be traversable from either side. Hence the mirror. Sigh is professional.",
+  "citations": [
+    "[PokemonTCG.io API: swsh3-31 (Fletchinder) + swsh3-151 (Fletchling)]",
+    "[Bulbapedia: Fletchling (Pokemon), National Pokedex no. 661]",
+    "[Bulbapedia: Fletchinder (Pokemon), National Pokedex no. 662]",
+    "[Bulbapedia: Talonflame — Gen VI OU-tier via Gale Wings]",
+    "[Pokemon X and Y (Game Freak, 2013) primary canon for Kalos regional-bird line]"
+  ],
+  "files_modified": [
+    "cards/pokemon/darkness-ablaze/151-189-fletchling.md (Connections section added)",
+    "cards/pokemon/darkness-ablaze/031-189-fletchinder.md (Connections section added)"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "fletchling-line character node — n=2 is below the 3+ prints / 2+ stages threshold; deferred until a Talonflame print enters corpus or a second Fletchling/Fletchinder print appears. Staraptor-line caveats already flag this as 'may be near-threshold' — verifying that flag turned out to be at exactly threshold-minus-one.",
+    "Fletchling attached to staraptor-line as regional-bird-line sibling — rejected, cross-line edges between different regional-bird-lines are a tag-bridge not a graph edge; future regional-bird-lines parent node is the right anchor when 3+ sibling regional-bird-line nodes exist."
+  ]
+}

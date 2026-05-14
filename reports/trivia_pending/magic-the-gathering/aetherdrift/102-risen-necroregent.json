@@ -1,0 +1,37 @@
+{
+  "card_name": "Risen Necroregent",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "102",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Aetherdrift (DFT) is MTG's 103rd expansion, released February 14, 2025. The set takes place across three planes — Avishkar (formerly Kaladesh), Amonkhet, and Muraganda — during the Ghirapur Grand Prix, a cross-planar racing event organized by night minister Gonti. [Scryfall: released_at 2025-02-14; Wizards Planeswalker's Guide to Aetherdrift Part 1, via WebSearch]",
+      "sources": ["Scryfall", "Wizards.com Planeswalker's Guide to Aetherdrift Part 1, via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"In life, she commanded the respect of her army. In death, she demands it.\" — No named speaker. The line foregrounds the card's type line: Zombie Cat Knight — a creature who has crossed death and retained command authority, now enforcing obedience rather than earning it. [Scryfall: flavor_text field]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Risen Necroregent costs 5 mana (4B) for a 5/4 Zombie Cat Knight. Its 'Start Your Engines!' trigger and Max Speed zombie-token generation make it a late-game value engine in black aggro or racing-theme decks. EDHREC rank 17,372 — low inclusion suggesting it sees little Commander play; its power lives in Standard and Pioneer race-to-max-speed strategies. [Scryfall: edhrec_rank 17372, legalities]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Start Your Engines! // Max Speed", "set": "Aetherdrift", "note": "Scryfall all_parts combo_piece — the named mechanic card for the speed counter system"},
+    {"name": "Zombie (token)", "set": "Aetherdrift", "note": "Scryfall all_parts token — 2/2 black Zombie created at max speed"},
+    {"name": "Risen Reef", "set": "Core Set 2020", "note": "Thematic echo — another 'Risen' creature that generates value through a triggered end-step mechanic"},
+    {"name": "Wilhelt, the Rotcleaver", "set": "Innistrad: Midnight Hunt Commander", "note": "Top Zombie tribal commander; Necroregent's token production synergizes with Wilhelt sacrifice loops"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

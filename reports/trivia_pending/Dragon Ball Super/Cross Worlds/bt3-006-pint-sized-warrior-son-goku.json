@@ -1,0 +1,36 @@
+{
+  "card_name": "Pint-sized Warrior Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-006",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Son Goku' and official character tag is 'Son Goku: GT' per DBS card database. The depicted child in orange gi with dark spiky hair gathering ki energy matches Goku's canonical child-form design. Note: the official tag is 'Son Goku: GT' (Dragon Ball GT era child Goku, not classic Dragon Ball child Goku) — important distinction for the character layer.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Pint-sized Warrior Son Goku (BT3-006) is a red Common from Cross Worlds (DBS-B03), released March 9, 2018 — the third main DBS Card Game booster set. BT3 introduced black as a new color and focused on diverse deck construction as its primary design theme [Source: dbs-cardgame.com/europe-en/strategy/cross-worlds/designers-note.php].",
+      "sources": ["dbs-cardgame.com/europe-en/strategy/cross-worlds/designers-note.php"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT3-006's skill: '[Auto] When you play this card, look at up to 7 cards from the top of your deck. Choose up to 1 red Son Goku: GT among them and add it to your hand. Then shuffle your deck.' The card's official character tag is 'Son Goku: GT' — placing this child-form Goku within the Dragon Ball GT continuity, where Goku is restored to child form by the Black Star Dragon Balls. The card functions as a deep-dig tutor for GT Goku variants [Source: WebSearch snippet from coretcg.com BT3-006 listing; alternateworldscomics.com BT3-006 listing].",
+      "sources": ["WebSearch snippet: coretcg.com BT3-006 listing", "WebSearch snippet: alternateworldscomics.com BT3-006 listing"]
+    },
+    {
+      "category": "design",
+      "text": "In Dragon Ball GT (1996-1997 anime), Goku is accidentally wished back to child form by the Black Star Dragon Balls, retaining all his adult combat knowledge and power in a child's body — a reversal of the classic 'small but mighty' premise that launched the original Dragon Ball. The 'Pint-sized Warrior' title references this directly [Source: Wikipedia: Dragon Ball GT; CBR: Dragon Ball GT overview].",
+      "sources": ["Wikipedia: Dragon Ball GT", "WebSearch: Dragon Ball GT overview"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Unbroken Dynasty Son Goku", "set": "Colossal Warfare", "note": "BT4-079 — parallel child-Goku card in BT4; same visual archetype, different era tag (Childhood vs GT)"},
+    {"name": "Unending Awakening", "set": "Cross Worlds", "note": "BT3-027 — same set; child Super Saiyan power-up card, thematic pairing"},
+    {"name": "Pint-sized Warrior Son Goku (foil)", "set": "Cross Worlds", "note": "BT3-006 foil variant — same card, available in parallel foil print run"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

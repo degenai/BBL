@@ -12,12 +12,13 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["elf", "music", "musical-instrument", "tambourine", "improvised-weapon", "survival", "haunted-house", "overgrowth", "vines", "moths", "moonlight", "broken-window", "fear"]
 tags_filter: ["solo", "mid-shot", "action-mode", "three-quarter-facing", "male-figure", "young-figure", "green-magic", "enchantment", "aura", "flash", "trample-grant", "pump-spell", "indoor-scene", "night-scene"]
+characters: ["dsk-survival-archetype"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/179-frantic-strength.png
 average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://cards.scryfall.io/png/front/b/b/bbd9d35d-7fd0-4193-9f7e-b8a59fae4ac5.png?1726286529
 art_match_confidence: high
 needs_manual_review: false

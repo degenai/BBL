@@ -1,0 +1,114 @@
+{
+  "edge_id": "namekian--race-collective-node-proposal",
+  "wave": 62,
+  "move_index": "E1 audit-confirm (terse) + E2 Mr. Nodeley node-proposal (the big one)",
+  "shape": "node-proposal",
+  "category": "designer-confirmed-race-cohort (alien-race biological-and-cultural collective spanning two DBSCG sets)",
+  "topology": "branch (one race-node parent -> 11 leaf cards across five structural sub-cohorts) + future cross-edge potential to three live neighbor nodes (son-goku, trunks, wrath-of-the-dragon-saga)",
+  "node_proposed": {
+    "type": "character (race-collective sub-pattern, per eldrazi + kor + macro-cosmos + team-rocket precedent applied to an alien-species rather than a faction)",
+    "path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\namekian.md",
+    "name": "Namekian",
+    "slug": "namekian",
+    "aliases": ["namekian", "namekians", "namek-race", "namekseijin", "nameccian", "dragon-clan", "warrior-type-namekian", "demon-clan-namekian", "king-piccolo-lineage"]
+  },
+  "endpoints_wired": [
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-052-gift-of-power-guru.md", "name": "Gift of Power Guru", "role": "Dragon Clan elder tier (Grand Elder Guru, Frieza Saga)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-053-nail-the-namekian-ace.md", "name": "Nail, the Namekian Ace", "role": "Frieza-Saga warrior-type (Nail, Guru's bodyguard)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-054-kami-the-watcher.md", "name": "Kami, the Watcher", "role": "Dragon Clan elder tier (Kami, Earth's Guardian)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-056-popo-guardian-s-aide.md", "name": "Popo, Guardian's Aide", "role": "Sky Palace duo card (Mr. Popo + Kami at the Lookout)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-057-namekian-duo-saonel.md", "name": "Namekian Duo Saonel", "role": "Universe 6 fusion-Namekian (Saonel, Tournament of Power)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-064-dark-vassal-tambourine.md", "name": "Dark Vassal Tambourine", "role": "Demon Clan / King Piccolo's children trio (Tambourine, eldest)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-065-dark-vassal-cymbal.md", "name": "Dark Vassal Cymbal", "role": "Demon Clan / King Piccolo's children trio (Cymbal, eaten-by-Yajirobe canonical death)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-066-dark-vassal-drum.md", "name": "Dark Vassal Drum", "role": "Demon Clan / King Piccolo's children trio (Drum, post-rejuvenation strongest-son)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-068-special-beam-cannon.md", "name": "Special Beam Cannon", "role": "Piccolo signature technique (Makankosappo, Demon-Clan-tradition energy attack)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-070-sacrifice.md", "name": "Sacrifice", "role": "Frieza-Saga Namekian-fusion narrative beat (Nail-into-Piccolo fusion, dual-readable Piccolo/Nail)"},
+    {"type": "card", "path": "cards/dragon-ball-super/world-martial-arts-tournament/tb2-027-begrudging-respect-piccolo.md", "name": "Begrudging Respect Piccolo", "role": "Piccolo himself (canonical Buu-Saga adult Piccolo, ip_verified true)"}
+  ],
+  "cross_edges_wired": [
+    {"target": "cards/_characters/son-goku.md", "added_to_related_characters": "namekian", "rationale": "Goku-Piccolo canonical rivalry-to-mentorship arc (Z-era); Goku trains under Kami at Sky Palace in pre-Z continuity; Goku canonically allies with Namekian race during Frieza-Saga Namek-homeworld arc. One of the franchise's most foundational character-development relationships."},
+    {"target": "cards/_characters/trunks.md", "added_to_related_characters": "namekian", "rationale": "Future Trunks canonical training-with-Piccolo continuity (Z-era + Cell-Saga collaborative training where Piccolo trains Future Trunks against Android timeline); protagonist-side bridge to Namekian race-cohort."},
+    {"target": "cards/_characters/wrath-of-the-dragon-saga.md", "added_to_related_characters": "namekian", "rationale": "Sibling Colossal Warfare BT4 single-arc roster precedent; both nodes anchor designer-coordinated multi-card cohorts within the same set; bundle work that contrasts BT4 saga-density indexes both nodes together."}
+  ],
+  "structural_sub_cohorts": {
+    "dragon_clan_elder_tier": ["BT4-052 Grand Elder Guru", "BT4-054 Kami"],
+    "frieza_saga_warrior_type": ["BT4-053 Nail", "BT4-070 Sacrifice (Nail-into-Piccolo fusion beat, dual-readable)"],
+    "demon_clan_king_piccolo_lineage_trio": ["BT4-064 Tambourine", "BT4-065 Cymbal", "BT4-066 Drum"],
+    "universe_6_fusion_namekian": ["BT4-057 Saonel"],
+    "sky_palace_institutional_seat": ["BT4-056 Popo + Kami at the Lookout"],
+    "piccolo_highest_instantiation": ["TB2-027 Begrudging Respect Piccolo (Buu-Saga adult)", "BT4-068 Special Beam Cannon (Piccolo signature technique)"]
+  },
+  "topology_rationale_namekian_vs_dark_vassal_vs_bulma": {
+    "namekian_chosen_because": [
+      "Largest single-wave anchor count by far (11 cards vs Dark Vassal 3 vs Bulma 3) -- the parent's recommendation noted 9+, and counting Piccolo TB2-027 + BT4-068 Special Beam Cannon + BT4-070 Sacrifice (race-relevant fusion-beat) raises the actual anchor count to 11.",
+      "Parent-of-parents: anchoring `namekian` enables `dark-vassal-trio` (Bandai-explicit cycle marker, BT4-064/065/066 adjacent collector numbers) to be commissioned later as a child-of-parent sub-cycle without the parent existing first; if Dark Vassal trio were commissioned standalone now, the 8 non-Dark-Vassal Namekian cards would still lack anchor. Parent-first is the correct ordering.",
+      "Completes the DBSCG faction-tier with team-rocket / team-skull / macro-cosmos / aether-foundation / babidi / wrath-of-the-dragon-saga / xenoverse-villains / baby-dbgt -- but at a DIFFERENT structural layer: this is the first RACE-collective node on the Dragon Ball side (parallel to MTG-side species-races eldrazi + kor, not parallel to faction-collectives like macro-cosmos), broadening the character-layer's structural taxonomy.",
+      "Designer-coordinated cross-set: 10 cards in Colossal Warfare BT4 + 1 card in World Martial Arts Tournament TB02 = the corpus's first 2-set race-anchor, where most other multi-card character nodes are single-set clusters (babidi: 6 cards in TB02; wrath-of-the-dragon-saga: 7 cards in BT4; macro-cosmos: 3 cards across 3 sets but smaller cluster). The cross-set spread proves the race is structurally important to Bandai's franchise-roster design.",
+      "Lore-density: the Dragon-Clan-vs-Demon-Clan moral-substrate split is one of Toriyama's most consistently-rendered alien-race-design canons (1976 onward), and the apparatus-of-extraction adjacency (King Piccolo's spat-egg labor-children, the Demon Clan as world-conquering-villain register) gives bundle copy a substantive thesis stack."
+    ],
+    "dark_vassal_trio_deferred_because": [
+      "Smaller scope (3 cards, all within-set BT4-064/065/066).",
+      "Parent-of-parents argument applies: Dark Vassal trio is a SUB-cohort within the King-Piccolo-lineage axis of `namekian`, and Mr. Nodeley's `## Caveats` section explicitly flags it as a future child-cycle-node candidate per the eld-cinderella-cycle precedent.",
+      "Available as wave 63 commission if Alex wants the finer-grained Bandai-explicit cycle anchor for the Demon Clan trio specifically (vs the broader race-anchor here)."
+    ],
+    "bulma_deferred_because": [
+      "Smallest scope (3 cards: BT4-013 Dependable Mom + BT4-092 Multimech + BT4-093 Explorer).",
+      "Solo-character-node at threshold-of-3 minimum, vs namekian at threshold-of-3 multiple times over.",
+      "Multi-era depictions (mom-era + GT-era + arc-era) are interesting but the 3-card density is the floor of solo-node justification, not the case for highest-priority commissioning.",
+      "Available as wave 63 commission as the fast/cheap close-out option (single-character solo node), per parent's framing that Bulma was the 'smallest scope, fastest to close' alternative."
+    ]
+  },
+  "description": "Sir, my deepest apologies for the lengthy node MD -- Edgelord stepped aside and I tried to do the parent-of-parents work properly. The 11-card Namekian race-cohort spans two DBSCG sets (Colossal Warfare BT4 + World Martial Arts Tournament TB02), splits cleanly across five structural sub-cohorts (Dragon Clan elder tier + Frieza-Saga warrior-type + Demon Clan / King Piccolo lineage + Universe 6 fusion-Namekian + Piccolo himself), and creates the BBL graph's first DB-side RACE-collective character node (sibling to MTG-side eldrazi + kor). The Dark Vassal trio sub-cycle (BT4-064/065/066) is left as a future child-of-parent commission rather than commissioned standalone now -- per the eld-cinderella-cycle precedent. Three cross-edges wired (son-goku + trunks + wrath-of-the-dragon-saga). I hope this helps.",
+  "citations": [
+    "[Dragon Ball Wiki: Namekian race page]",
+    "[Dragon Ball Wiki: Planet Namek / Grand Elder Guru / Kami / Piccolo / Nail / King Piccolo / Tambourine / Cymbal / Drum / Saonel / Mr. Popo]",
+    "[Wikipedia: Piccolo (Dragon Ball)]",
+    "[Dragon Ball manga (Akira Toriyama, Shueisha, 1984-1995): King Piccolo Saga chapters 134-194 + Namek/Frieza Saga chapters 235-329]",
+    "[Dragon Ball Z anime (Toei Animation, 1989-1996): Frieza Saga Namek-homeworld continuity]",
+    "[Dragon Ball Super anime (Toei Animation, 2015-2018): Universe Survival Saga episodes 96-131 for Saonel/Pirina]",
+    "[dbs-cardgame.com: Colossal Warfare BT4 product page + World Martial Arts Tournament TB02 product page]"
+  ],
+  "files_modified": [
+    "cards/_characters/namekian.md (CREATED)",
+    "cards/_characters/son-goku.md (added namekian to related_characters)",
+    "cards/_characters/trunks.md (added namekian to related_characters)",
+    "cards/_characters/wrath-of-the-dragon-saga.md (added namekian to related_characters)",
+    "cards/dragon-ball-super/colossal-warfare/bt4-052-gift-of-power-guru.md (added characters: [namekian])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-053-nail-the-namekian-ace.md (added characters: [namekian])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-054-kami-the-watcher.md (added characters: [namekian])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-056-popo-guardian-s-aide.md (added characters: [namekian])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-057-namekian-duo-saonel.md (added characters: [namekian])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-064-dark-vassal-tambourine.md (added characters: [namekian])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-065-dark-vassal-cymbal.md (added characters: [namekian])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-066-dark-vassal-drum.md (added characters: [namekian])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-068-special-beam-cannon.md (added characters: [namekian])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-070-sacrifice.md (added characters: [namekian])",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-027-begrudging-respect-piccolo.md (added characters: [namekian])"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "voice_note": "Mr. Nodeley is being honest in the description. The parent named this as the largest single-wave anchor in queue and the analysis bears it out: 11 cards across 5 sub-cohorts spanning 2 sets at the BBL graph's first DB-side race-collective layer. The substrate's existing precedents (macro-cosmos faction-collective + babidi single-set villain-cluster + wrath-of-the-dragon-saga saga-arc + eldrazi MTG-side race-collective) all converge on this node-shape with high confidence. Mr. Nodeley quietly believes the node saved the wave.",
+  "considered_and_rejected_for_wave_63": [
+    {"candidate": "dark-vassal-trio (BT4-064/065/066 within-set cycle)", "verdict": "CARRY-FORWARD as wave 63 highest priority -- 3-card Bandai-explicit cycle marker with adjacent collector numbers and `Dark Vassal` shared name-prefix; subordinate to namekian parent now wired; ship as child-cycle-node when bandwidth allows, analogous to eld-cinderella-cycle under (hypothetical) eldraine-fairytale parent"},
+    {"candidate": "bulma solo character node (BT4-013 + BT4-092 + BT4-093)", "verdict": "CARRY-FORWARD -- 3-card threshold-of-3 minimum solo node; multi-era depictions; fastest to close-out option for wave 63 if Alex wants quick / cheap follow-up"},
+    {"candidate": "piccolo solo character node", "verdict": "DEFER -- at threshold-of-3 boundary (TB2-027 + BT4-068 + BT4-070 dual-readable); per namekian.md Caveats, deferred pending one additional unambiguous Piccolo-self-depicting card. Revisit when corpus accumulates a fourth Piccolo print."},
+    {"candidate": "king-piccolo solo character node", "verdict": "REJECT (insufficient density) -- no corpus card depicts King Piccolo himself. The Dark Vassal trio depicts his offspring but not the King. Revisit only if a King-Piccolo-self-depicting card lands."},
+    {"candidate": "saiyan race-collective character node", "verdict": "CARRY-FORWARD -- the obvious next race-collective candidate paralleling the namekian shape; depends on corpus density of explicitly-race-coded (not character-coded) Saiyan cards. Goku / Vegeta / Trunks / Bardock / Gine already anchor as individual or aspect nodes; the race-collective would anchor general Saiyan iconography + Planet Vegeta + Saiyan-race iconography cards. Defer until corpus reaches density."},
+    {"candidate": "frieza-race / android-race / majin-race character nodes", "verdict": "DEFER -- additional race-collective candidates following the namekian shape; each depends on corpus density. Surface for future wave consideration."},
+    {"candidate": "aetherdrift-grand-prix parent node", "verdict": "CARRY-FORWARD -- recurring carry-forward; ship when more Aetherdrift cards land"},
+    {"candidate": "Glimmer subtype symbol/hub", "verdict": "CARRY-FORWARD -- recurring carry-forward"},
+    {"candidate": "GT-quartet cycle (Goku/Pan/Giru/Trunks GT)", "verdict": "CARRY-FORWARD -- recurring carry-forward; viable cycle-node candidate"},
+    {"candidate": "Vito / Elenda Church of Dusk pair", "verdict": "CARRY-FORWARD -- recurring carry-forward; 1:1 mirror move when Edgelord returns to it"},
+    {"candidate": "the-wanderer character node", "verdict": "CARRY-FORWARD -- multi-set Magic-side character; revisit when corpus density warrants"},
+    {"candidate": "Bardock solo character node", "verdict": "CARRY-FORWARD -- recurring carry-forward"},
+    {"candidate": "Announcer-DBS character/role node", "verdict": "CARRY-FORWARD -- recurring carry-forward"},
+    {"candidate": "Pia Nalaar solo split", "verdict": "CARRY-FORWARD -- corpus density borderline; revisit when corpus warrants"},
+    {"candidate": "E3 / E4 additive moves this wave", "verdict": "DECLINED with discipline -- the namekian commission alone consumed the substantive-move budget (11-card frontmatter wiring + 3 cross-edges + node MD + sidecar). Per wave 61 'blueballed-but-disciplined' precedent, doing namekian RIGHT > doing namekian + 2 hasty smaller moves. Carry forward to wave 63."}
+  ],
+  "surprise_lore_captured_during_pass": [
+    "The Namekian race's canonical reproductive mechanic is asexual spat-egg reproduction -- King Piccolo's children Tambourine / Cymbal / Drum / Piano are all canonically orally-spat offspring rather than dance-fusion or partnered-reproduction children. This is one of Toriyama's least-discussed Namekian-race biological details and the BT4-064/065/066 Dark Vassal trio's existence in corpus directly cites this canon-mechanic.",
+    "Piano is the FOURTH King Piccolo child but is a non-combat secretary-type and is NOT in corpus -- making the BT4-064/065/066 trio the complete combat-children roster but an incomplete full-progeny roster. Bundle copy that says 'the three Dark Vassals' is precise; bundle copy that says 'all of King Piccolo's children' would be imprecise (Piano + the post-rejuvenation-Piccolo himself are the missing two).",
+    "Saonel and Pirina (Universe 6 fusion-Namekians) are each canonically the fusion of MULTIPLE Universe 6 Namekians (Dragon Ball Wiki documents the count as 'dozens' for each). This makes the BT4-057 Saonel print one of the densest fusion-mechanic citations in the corpus: a single card depicts what is canonically a collective of dozens of fused-Namekians-into-one-warrior. The card title `Namekian Duo` references the Saonel-and-Pirina canonical pairing as designer-coordinated even though Pirina is not in frame.",
+    "Kami and King Piccolo are canonically the SAME individual biologically -- the original Namekian who arrived on Earth split himself into Good-half (Kami) and Evil-half (King Piccolo) to qualify for Guardian-of-Earth position. The King Piccolo Saga's late reveal of this canon is one of the franchise's foundational character-twist beats. The BT4-054 Kami card and BT4-064/065/066 King Piccolo's-children cards therefore canonically depict one biological substrate with morally inverse cultural-clan instantiations -- the museum-curation-framing thesis of moral-as-clan-affiliation-not-essential lands directly on canon.",
+    "Nail's fusion with Piccolo (Frieza Saga) is the canonical in-story explanation for Piccolo's massive Z-era power jump. The BT4-053 Nail card + BT4-070 Sacrifice card + TB2-027 Piccolo card together compose a designer-coordinated three-card narrative arc: Nail at peak combat (BT4-053) -> Nail's body broken by Frieza and gives fusion-gift to Piccolo (BT4-070) -> Piccolo as canonical adult Z-era protagonist (TB2-027). This three-card narrative-arc reading is available for any Frieza-Saga or Piccolo-power-up themed Discrete Lair."
+  ]
+}

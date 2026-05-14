@@ -1,0 +1,36 @@
+{
+  "card_name": "Phantom Flame Cannon",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-043",
+  "task_profile": "ip-priority",
+  "ip_decision": "qualify",
+  "ip_outcome_note": "Vision flagged Hoi (Dragon Ball Z: Wrath of the Dragon, confidence: med). Research shows Hoi canonically wears a dark blue cloak with white undershirt and whiskers — not green-skinned or reptilian. The depicted figure in the art is green, slender, and reptilian/insectoid. The card's oracle text keys off a 'Hirudegarn' Leader Card, placing it in the Wrath of the Dragon arc. Hirudegarn is a giant skull-headed monster, not the slender humanoid shown. The figure may be Hoi rendered in the DBS card game's stylized art, or the depiction may show a different Kashvar/Wrath-of-the-Dragon character. Vision description and canonical character descriptions cannot be fully reconciled without direct image confirmation from a card-game source. ip_verified left false.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Phantom Flame Cannon is an Uncommon Blue Extra card from Colossal Warfare (BT4, 2018). Its oracle text reads: 'If your Leader Card is Hirudegarn, it gains +10000 power for the duration of the battle, then choose up to 1 card in your opponent's hand and place it on top of their deck.' This places the card firmly in the Wrath of the Dragon arc cluster, which includes adjacent card BT4-042 'Hoi, Emissary of Flame.' [WebSearch: DBZ Exchange / Bleeding Cool checklist]",
+      "sources": ["dbzexchange.com/products/bt4-043-phantom-flame-cannon", "bleedingcool.com/games/dragon-ball-super-card-game-colossal-warfare-checklist/"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Hoi is the secondary antagonist of the 1995 film Dragon Ball Z: Wrath of the Dragon. A Kashvar warlock and last of his alien race, he manipulates the Z Fighters into releasing the monster Hirudegarn, whom he intends to use to rule the cosmos. He is ultimately crushed by Hirudegarn itself. Hoi's canonical appearance is a dark blue cloak, white undershirt, and prominent whiskers — not green-skinned. The vision-flagged green reptilian figure on this card does not match that canonical description. [Villains Wiki: Hoi via WebSearch]",
+      "sources": ["villains.fandom.com/wiki/Hoi via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Qualification: The depicted green humanoid figure could not be conclusively identified. The card oracle links the card to Hirudegarn (a colossal skull-headed monster, not a humanoid), while the suspected IP Hoi does not have green skin per canonical sources. A direct image comparison with BT4-042 'Hoi, Emissary of Flame' would resolve this — if BT4-042 shows the same green figure, the DBS card game may use a non-canonical visual redesign for Hoi. [Triviabot research, 2026-05-14]",
+      "sources": ["dragonball.fandom.com/wiki/Hoi via WebSearch", "dbzexchange.com BT4-042 listing"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hoi, Emissary of Flame", "set": "Colossal Warfare (BT4-042)", "note": "Adjacent card in same arc cluster — direct comparison needed to resolve IP identity"},
+    {"name": "Hirudegarn", "set": "Colossal Warfare (BT4, Leader)", "note": "Oracle-linked Leader Card for this Extra card's bonus effect"},
+    {"name": "Tapion", "set": "various DBS sets", "note": "Co-protagonist of Wrath of the Dragon; often appears alongside Hoi cards in arc clusters"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "false",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

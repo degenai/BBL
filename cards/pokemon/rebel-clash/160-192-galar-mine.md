@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-14
 date_added: 2026-05-07
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://images.pokemontcg.io/swsh2/160_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -50,6 +50,7 @@ The image depicts the interior of an underground mine tunnel viewed from a first
 ## Connections
 
 - [[40-147-pikachu]] — Pokemon-side labor-extraction pair. Galar Mine depicts the corpus's only Pokemon-side industrial-extraction site (underground tunnel, wooden support beams, mine-cart rails, dim ambient lighting); Pikachu (Burning Shadows 40/147) carries the corpus's strongest in-flavor workforce-as-energy-resource citation ("A plan was recently announced to gather many Pikachu and make an electric power plant"). Together they anchor the two endpoints of the franchise's labor-extraction read in current corpus: extraction-site infrastructure in card art on this side, workforce-aggregation in flavor text on the other. [card frontmatter oracle/vision fields; Bulbapedia: Galar Mine (location); [[labor]] hub].
+- [[105-192-rolycoly]] — Galar coal-mine site-and-resident pair, within-set adjacency. Galar Mine renders the in-game location (underground tunnel, rail tracks, wooden supports, ambient amber glow from coal-veins or lava); Rolycoly's flavor text canonizes the species as the mine's biological residue (*"Most of its body has the same composition as coal. Fittingly, this Pokemon was first discovered in coal mines about 400 years ago."*) — the 400-year horizon aligns with Galar's UK-modeled Industrial Revolution period setting per Bulbapedia. Together the pair renders the extraction site and the species the site produces, completing the Galar-coal-line cohesion stack with [[106-192-carkol]] and Coalossal. `[PokemonTCG.io: swsh2-105 flavor_text + swsh2-160 art; Bulbapedia: Galar Mine (location); Bulbapedia: Rolycoly (Pokemon)]`
 
 ## Trivia
 

@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-14
 date_added: 2026-05-08
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://images.pokemontcg.io/xy12/3_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -30,6 +30,7 @@ setting: forest
 suspected_ip: Caterpie
 ip_confidence: high
 ip_verified: true
+characters: ["caterpie-line"]
 ---
 
 # Caterpie (Evolutions)
@@ -55,6 +56,10 @@ A small green caterpillar Pokemon sits in a simple outdoor setting on green grou
 **Emotion read:** neutral, cute, harmless
 **Creatures:** caterpillar, caterpie, bug
 **Genre cues:** anime, pokemon, retro
+
+## Connections
+
+- [[caterpie-line]] — Base-stage Caterpie print attached to the Kanto fast-metamorphosis Bug-line character node (Pokedex no. 10 / 11 / 12, Caterpie / Metapod / Butterfree). This print is the XY12 Evolutions set's 2016 Base Set tribute reprint of the original 1998 Ken Sugimori illustration; the corpus's other Caterpie print at [[001-192-caterpie]] is Uta's 2020 Sword & Shield-era painted-atmosphere treatment of the same species, and [[002-192-metapod]] is the Rebel Clash adjacent-collector-number Stage-1 mid-stage. The cross-print same-species 1:1 mirror edge with RBC-001 is now subsumed by the cohort node per the [[mareep-line]] / [[staraptor-line]] precedent. `[Bulbapedia: Caterpie line; PokemonTCG.io API: xy12-3, swsh2-1, swsh2-2]`
 
 ## Trivia
 

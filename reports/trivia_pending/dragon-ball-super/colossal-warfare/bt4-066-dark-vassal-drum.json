@@ -1,0 +1,37 @@
+{
+  "card_name": "Dark Vassal Drum",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-066",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Drum is a named, distinct character in Dragon Ball canon — King Piccolo's most powerful spawned son during the original King Piccolo Saga, distinguished by his large, stocky build. The card name 'Dark Vassal Drum' directly names him, and the stocky yellow-garmented green figure in the vision description matches Drum's canonical appearance exactly. He is the final and strongest of King Piccolo's sons before Piccolo Jr. himself. ip_confidence already high, confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Drum is described in Dragon Ball canon as King Piccolo's most powerful spawned mutant son at the time of his creation — stronger than Tambourine and Cymbal — notable for defeating Tien Shinhan, one of the strongest human fighters. He was killed by Kid Goku in a single punch after Goku trained with Korin. [Dragon Ball Wiki: Drum via WebSearch snippet]",
+      "sources": ["Dragon Ball Wiki: Drum (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "All three Dark Vassal cards (BT4-064 Tambourine, BT4-065 Cymbal, BT4-066 Drum) are named after percussion instruments, continuing King Piccolo's musical naming convention — a detail fans have noted as one of Toriyama's earliest consistent naming schemes in Dragon Ball. [Kanzenshuu forum: Piano, Drum and Tambourine-namekians?]",
+      "sources": ["Kanzenshuu: Piano, Drum and Tambourine-namekians? thread"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The three Dark Vassal commons in BT4 (nos. 064-066) sit in a consecutive slot suggesting intentional design as a playset unit. Drum's stocky brute archetype in canon maps to high-power commons that trade efficiency for raw numbers — consistent with King Piccolo Bond decks that reward board presence. [Colossal Warfare design concept via dbs-cardgame.com; WebSearch]",
+      "sources": ["WebSearch: DBS BT4 King Piccolo archetype mechanics"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dark Vassal Tambourine", "set": "Colossal Warfare", "note": "BT4-064 — Dark Vassal triplet sibling"},
+    {"name": "Dark Vassal Cymbal", "set": "Colossal Warfare", "note": "BT4-065 — Dark Vassal triplet sibling"},
+    {"name": "King Piccolo, Lord of Terror", "set": "Colossal Warfare", "note": "SD4-04 — Bond leader card for this archetype"},
+    {"name": "Reign of Terror King Piccolo", "set": "Colossal Warfare", "note": "BT4-051 — thematic top-end for King Piccolo decks"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Drum (Dragon Ball — King Piccolo Saga)",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "card_name": "Hidden Power, East Supreme Kai",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-012",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies the character as East Supreme Kai (Shin). Visual match is canonical: slender humanoid with white-silver hair, formal bodysuit/vest, pale blue-white energy radiating around the figure in a composed stance — all match Shin's established appearance in Dragon Ball Z and Dragon Ball Super. The 'Hidden Power' title references Shin's concealment of his identity and divine purpose when he attended the 25th World Tournament incognito to monitor Babidi's activities. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "East Supreme Kai (Shin) attended the 25th World Martial Arts Tournament in disguise specifically to monitor Babidi and prevent the awakening of Majin Buu. His presence at the tournament — disguised as a spectator — is the in-universe reason a deity-level figure appears in a martial arts competition setting. This 'hidden power' attending the tournament is the direct narrative anchor for the card's title. [Dragon Ball Wiki: Shin / CBR: Supreme Kai Trivia]",
+      "sources": ["Dragon Ball Wiki: Shin", "CBR: Everything You Need To Know About Supreme Kai Shin", "Dragon Ball Official Site: Weekly Character Showcase Shin"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Shin is the East Supreme Kai of Universe 7 — one of four Supreme Kais originally responsible for the cardinal quadrants of the universe. He survived Majin Buu's first rampage (which killed the other three Supreme Kais) by suffering severe injuries. In Dragon Ball Super he fuses with Kibito via Potara earrings to become Kibito Kai, later separating by wishing to Porunga. He was the youngest and least powerful of the four original Supreme Kais. [Dragon Ball Wiki: Shin / CBR: Supreme Kai Trivia]",
+      "sources": ["Dragon Ball Wiki: Shin", "CBR: Everything You Need To Know About Supreme Kai Shin", "Dragon Ball Official Site"]
+    },
+    {
+      "category": "mechanical",
+      "text": "TB2-012 is an Uncommon in the World Martial Arts Tournament set at $0.05 market price. East Supreme Kai's 'hidden power' framing — divine authority concealed in a mundane tournament setting — gives the card a flavor identity that stands apart from the combative energy of most TB2 characters. His divine-tier status in lore versus his Uncommon rarity and low market value is a typical TCG inversion where character importance doesn't always map to card scarcity. [TCGplayer: World Martial Arts Tournament]",
+      "sources": ["TCGplayer: Dragon Ball Super CCG World Martial Arts Tournament"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kibito Kai", "set": "Various DBS sets", "note": "The fusion of Shin and Kibito via Potara earrings, later separated in Dragon Ball Super"},
+    {"name": "Shin, Universe 7 Supreme Kai", "set": "Various DBS sets", "note": "Other card representations of the same character across the DBS TCG"},
+    {"name": "Old Kai", "set": "Various DBS sets", "note": "The Elder Supreme Kai released from the Z Sword — Shin's superior in divine hierarchy"},
+    {"name": "Babidi", "set": "Various DBS sets", "note": "The wizard Shin was covertly monitoring at the 25th Tournament — the antagonist that makes Shin's 'hidden' attendance meaningful"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "East Supreme Kai (Shin)",
+    "ip_confidence": "high"
+  }
+}

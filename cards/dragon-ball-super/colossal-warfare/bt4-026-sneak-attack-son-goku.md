@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.02
 market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401027227/BBD6FA1D3CA7CDFB466ED9E0E9C0186F68835869/
 image_width: 624
 image_height: 871
@@ -29,7 +29,8 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Son Goku (Dragon Ball)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
+characters: [son-goku]
 ---
 
 # Sneak Attack Son Goku (Colossal Warfare)
@@ -38,8 +39,8 @@ ip_verified: false
 
 ![bt4-026-sneak-attack-son-goku](../../_images/dragon-ball-super/colossal-warfare/bt4-026-sneak-attack-son-goku.png)
 
-> [!warning] Suspected IP: **Son Goku (Dragon Ball)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Son Goku (Dragon Ball)**
+> Confirmed via explicit card name ("Sneak Attack Son Goku") and set context — Colossal Warfare BT4 features Son Goku: GT as a named Leader Card for the Baby Saga. Golden SSJ hair and rush-forward composition are Goku's canonical visual signature. [dbs-cardgame.com BT4 product page; Dragon Ball GT Wikipedia]
 
 A figure with dramatically upswept golden spiky hair charges forward in Super Saiyan form. The hair is visibly golden and spiked — a clear SSJ transformation indicator at this resolution. The motion is forward and rapid, with speed lines and trailing energy behind the figure suggesting a sneak dash or surprise rush attack. The body posture is aggressive and forward-leaning. The background is largely consumed by the speed-motion effect and golden-white energy wake. The composition reads as fast movement caught in freeze-frame.
 
@@ -54,3 +55,13 @@ A figure with dramatically upswept golden spiky hair charges forward in Super Sa
 **Iconography:** super-saiyan, speed-lines, golden-hair, rush-attack
 **Genre cues:** anime
 
+## Trivia
+
+- **Set context** — Colossal Warfare (DBS-B04, July 2018) features Son Goku: GT as a named Leader Card for the Baby Saga, establishing GT-era Goku as a primary deck identity rather than a support role. The set anchors its GT-Goku cards in the Baby arc timeline, distinct from Super-era Goku cards in earlier sets. [Source: dbs-cardgame.com BT4 product page; Bleeding Cool Colossal Warfare Checklist]
+- **Design** — Super Saiyan transformation — first achieved by Goku in the Frieza Saga — became the franchise's most iconic visual motif: golden upswept spiky hair and crackling golden aura. By Colossal Warfare's Baby Saga context, SSJ is Goku's baseline form rather than a power ceiling, signaling how much power-creep the franchise had undergone by GT. [Source: Dragon Ball GT Wikipedia]
+- **Mechanics** — Rush and sneak-attack card designs in the DBS card game typically carry [Dual Attack] or [Auto] on-play KO effects — aggressive tempo plays designed to swing board state immediately on entry. The parallel Goku Uncommon from the prior set (BT3-058, Pressure Assault) confirms this pattern: Goku Uncommon cards in this era carried [Dual Attack] plus an on-play KO ability. [Source: Rochester CCG: BT3-058 card text via WebSearch snippet]
+
+### Related cards
+- Pressure Assault Super Saiyan Son Goku (Cross Worlds, BT3-058) — parallel SSJ Goku Uncommon from the prior set
+- Triple Flash SS4 Son Goku (Colossal Warfare, BT4-003) — GT Goku at SS4 in same set, power-level escalation
+- Grand Tour Spaceship (Cross Worlds, BT3-028) — GT crew anchor card featuring Goku: GT

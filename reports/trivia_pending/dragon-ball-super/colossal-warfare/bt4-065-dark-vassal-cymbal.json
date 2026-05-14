@@ -1,0 +1,37 @@
+{
+  "card_name": "Dark Vassal Cymbal",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-065",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Cymbal is a named, distinct character in Dragon Ball canon — one of King Piccolo's mutant Namekian sons in the King Piccolo Saga. The card name 'Dark Vassal Cymbal' directly names him, and the card sits in the BT4 Dark Vassals grouping (BT4-064 through BT4-066) alongside Tambourine and Drum, confirming identity. Dragon Ball Wiki describes Cymbal as the weakest of King Piccolo's spawned sons (bar Piano), with a reptilian/carapaced body matching the vision description. ip_confidence already high, confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cymbal is described in Dragon Ball lore as the weakest combat-capable son of King Piccolo (stronger only than Piano, who served as an advisor), assigned to hunt Dragon Balls while Tambourine killed martial artists. His carapace-like body design in the original anime aligns with the card art's armored green figure. [Dragon Ball Wiki: Cymbal]",
+      "sources": ["Dragon Ball Wiki: Cymbal"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Like his siblings, Cymbal is named after a percussion instrument — all of King Piccolo's children follow the musical-instrument naming theme that King Piccolo himself embodies (piccolo = small flute). [Kanzenshuu forum: Piano, Drum and Tambourine-namekians?]",
+      "sources": ["Kanzenshuu: Piano, Drum and Tambourine-namekians? thread"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT4-065 rounds out the Dark Vassals common triplet (BT4-064, 065, 066) in Colossal Warfare. At $0.02 market price it is the lowest-value of the three, consistent with Cymbal's in-canon status as the weakest Dark Vassal in combat. Deck builds using the King Piccolo Bond archetype may run all three for consistency. [DBZ Exchange: BT4-065; market data from card MD]",
+      "sources": ["DBZ Exchange: BT4-065", "card frontmatter market_price field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dark Vassal Tambourine", "set": "Colossal Warfare", "note": "BT4-064 — Dark Vassal triplet sibling"},
+    {"name": "Dark Vassal Drum", "set": "Colossal Warfare", "note": "BT4-066 — Dark Vassal triplet sibling"},
+    {"name": "King Piccolo, Lord of Terror", "set": "Colossal Warfare", "note": "SD4-04 — Bond leader these cards support"},
+    {"name": "Sacrifice", "set": "Colossal Warfare", "note": "BT4-070 — Namekian counter in same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Cymbal (Dragon Ball — King Piccolo Saga)",
+    "ip_confidence": "high"
+  }
+}

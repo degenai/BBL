@@ -7,7 +7,7 @@ rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
 tags_hub: ["gemstone", "ruby", "fire", "treasure", "hand", "artifact-object", "offering", "cave", "inner-light", "relic", "crystal", "flame"]
@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.39
 market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

@@ -1,0 +1,41 @@
+{
+  "card_name": "Baby // Rampaging Great Ape Baby",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-002",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Baby // Rampaging Great Ape Baby'. Baby is the primary antagonist of Dragon Ball GT's Baby Saga — a Tuffle parasite with Machine Mutant traits. Card type line confirms Machine Mutant trait. Identity is unambiguous: the card name IS the character name.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT4-002 is a double-sided Leader Card — the standard flip-leader format for the DBS TCG. The front (Baby) awakens when life drops to 4 or fewer, flipping to Rampaging Great Ape Baby and granting a power-reduction effect on every attack. [Source: WebSearch snippet via DBZ Exchange / dbs-cardgame.com strategy page]",
+      "sources": ["dbs-cardgame.com strategy page", "DBZ Exchange product listing"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Colossal Warfare (DBS-B04) released July 13, 2018 as the final set of the Over Realm block — the largest DBS booster to that point at 218 cards. Red in BT4 is explicitly centered on the Baby/Machine Mutant strategy per Bandai's own strategy notes: 'Red in series 4 is mostly focused on Great Ape Baby.' [Source: dbs-cardgame.com strategy/series4/red.php]",
+      "sources": ["dbs-cardgame.com/us-en/strategy/series4/red.php"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Baby is the Machine Mutant tribe leader in BT4. His Leader ability reduces opponent Battle Card power by -10000 per attack on the back side, creating a persistent board erosion strategy that pairs with BT4-018 Baby, Vengeance Unleashed (Union-Absorb, 1-cost tutor for Baby cards). [Source: WebSearch snippets via dbs-cardgame.com, DBZ Exchange]",
+      "sources": ["WebSearch snippet: dbs-cardgame.com strategy page", "DBZ Exchange BT4-018 listing"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Baby's character is the last survivor of the Tuffles — a race exterminated by Saiyans on Planet Vegeta before the Dragon Ball Z timeline. His revenge arc in Dragon Ball GT eventually sees him possess Vegeta as a permanent host, infecting most of Earth. The creation paradox: Baby created Dr. Myuu (his own creator) in a bootstrap loop. [Source: Wikipedia: Dragon Ball GT; CBR article 'Dragon Ball GT Baby vs. Dr. Myuu True Creator']",
+      "sources": ["Wikipedia: Dragon Ball GT", "CBR.com: Dragon Ball GT's Baby Created Dr. Myuu Oddity"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Baby, Vengeance Unleashed", "set": "Colossal Warfare", "note": "BT4-018 — Union-Absorb tutor that fetches Baby cards from deck; pairs directly with this Leader per Bandai strategy notes"},
+    {"name": "Rampaging Great Ape Baby", "set": "Colossal Warfare", "note": "Back side of this same Leader card — the awakened Great Ape form of Baby"},
+    {"name": "Energy Burst Son Goku", "set": "Colossal Warfare", "note": "Red BT4 card mentioned alongside Baby in Bandai's red strategy notes as an alternate Leader option"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

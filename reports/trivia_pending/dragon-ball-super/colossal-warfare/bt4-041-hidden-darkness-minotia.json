@@ -1,0 +1,37 @@
+{
+  "card_name": "Hidden Darkness Minotia",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-041",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Hidden Darkness Minotia.' The young figure with distinctive pink-rose spiky hair in purple energy matches Minotia's canonical depiction as Tapion's younger sibling with a different hair color. Character name is in the title. The 'Hidden Darkness' parallel to BT4-040 confirms the narrative pairing.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Minotia is Tapion's younger brother and a fellow Konatsian warrior. He carried the lower half of Hirudegarn sealed within his body — the complement to Tapion's upper-half burden. Unlike Tapion, Minotia was found and freed by Hoi on the unnamed distant planet he was dispatched to, and was killed when Hirudegarn's lower half materialized and crushed him [Wikipedia: Dragon Ball Z: Wrath of the Dragon, WebSearch: Minotia Dragon Ball Z lore].",
+      "sources": ["Wikipedia: Dragon Ball Z: Wrath of the Dragon", "WebSearch: Minotia Dragon Ball Z Wrath of the Dragon"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Minotia's death early in the film is what allows Hirudegarn's lower half to fully manifest in the present — once the host is killed, the seal breaks. This makes Minotia's sacrifice the pivot on which the entire film's threat rests: Hoi targeting the younger, presumably easier, brother first was the calculated strategic move that unlocked the monster [Villains Wiki: Hoi, WebSearch: Hoi Kashvar villain Wrath of the Dragon].",
+      "sources": ["Villains Wiki: Hoi", "WebSearch: Hoi Dragon Ball villain Kashvar Wrath of the Dragon"]
+    },
+    {
+      "category": "design",
+      "text": "Minotia is a minor character who appears briefly in the film and dies early — he has limited screen time compared to Tapion. The card being a Common (BT4-041) in the Hirudegarn Saga cluster reflects this relative narrative weight, yet his inclusion alongside three other Saga characters in a tight collector number range (BT4-039 through BT4-042) signals intentional completionism in the set's Wrath of the Dragon coverage [Bleeding Cool: Colossal Warfare checklist, WebSearch: DBS BT4 design overview].",
+      "sources": ["Bleeding Cool: Colossal Warfare checklist", "WebSearch: DBS BT4 Colossal Warfare design overview"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hidden Darkness Tapion", "set": "Colossal Warfare", "note": "BT4-040 — Minotia's older brother; parallel 'Hidden Darkness' card"},
+    {"name": "Oath's Power, Tapion", "set": "Colossal Warfare", "note": "BT4-039 — heroic Tapion who shared the same oath Minotia also took"},
+    {"name": "Hoi, Emissary of Flame", "set": "Colossal Warfare", "note": "BT4-042 — Hoi killed Minotia to free Hirudegarn's lower half"},
+    {"name": "Impenetrable Defense Hirudegarn", "set": "Colossal Warfare", "note": "BT4-037 — the creature Minotia died to contain"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "card_name": "Thornwood Falls",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "266",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Thornwood Falls is the most reprinted card across all 8 in this batch: its 23rd printing as of Aetherdrift (February 2025), first appearing in Khans of Tarkir (September 2014). Legal in Pauper and every major format.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The Indigo Revolution ousted the Consulate once and for all. Now the citizens of Avishkar cheer for the Aether Rangers as they try to bring victory and glory to their new nation.\" The Indigo Revolution was a largely bloodless transfer of power replacing the reformed Consulate with the democratically elected Avishkar Assembly; the plane's new name borrows from the Hindi word 'aavishkar,' meaning 'invention.'",
+      "sources": ["Scryfall", "MTG Wiki: Indigo Revolution, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Eddie Mendoza renders the Thornwood Falls as a sci-fi nature vista — a glowing engineered racetrack threading through lush forest with a waterfall — evoking Avishkar's post-revolutionary solarpunk aesthetic rather than the original Khans-era tundra setting of the card's first printing.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Blossoming Sands", "set": "Aetherdrift (DFT no. 252)", "note": "same gain-land cycle, green-white pair; same set"},
+    {"name": "Thornwood Falls", "set": "Khans of Tarkir", "note": "first printing of this oracle text"},
+    {"name": "Avishkar Raceway", "set": "Aetherdrift (DFT no. 249)", "note": "Avishkar Grand Prix anchor land; same set"},
+    {"name": "Samut, the Driving Force", "set": "Aetherdrift (DFT no. 222)", "note": "Aether Rangers top pilot; faction in flavor text"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

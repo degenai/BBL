@@ -1,0 +1,43 @@
+{
+  "edge_id": "son-goku-parent-character-node",
+  "shape": "node-proposal",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/son-goku.md", "name": "Son Goku"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-006-pint-sized-warrior-son-goku.md", "name": "Pint-sized Warrior Son Goku"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-007-shocking-future-son-goku.md", "name": "Shocking Future Son Goku"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-058-pressure-assault-super-saiyan-son-goku.md", "name": "Pressure Assault Super Saiyan Son Goku"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-005-blazing-spirit-son-goku.md", "name": "Blazing Spirit Son Goku"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-026-sneak-attack-son-goku.md", "name": "Sneak Attack Son Goku"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-079-unbroken-dynasty-son-goku.md", "name": "Unbroken Dynasty Son Goku"},
+    {"type": "card", "path": "cards/dragon-ball-super/expansion-deck-box-set-08-magnificent-collection-forsaken-warrior/bt4-078-dependable-dynasty-son-goku.md", "name": "Dependable Dynasty Son Goku"},
+    {"type": "card", "path": "cards/dragon-ball-super/mythic-booster/sd2-03-unbreakable-super-saiyan-son-goku.md", "name": "Unbreakable Super Saiyan Son Goku"},
+    {"type": "card", "path": "cards/dragon-ball-super/world-martial-arts-tournament/tb2-036-trading-blows-son-goku.md", "name": "Trading Blows Son Goku"},
+    {"type": "card", "path": "cards/dragon-ball-super/world-martial-arts-tournament/tb2-052-future-martial-artist-son-goku.md", "name": "Future Martial Artist Son Goku"}
+  ],
+  "description": "Mr. Nodeley apologizes for stepping in. Ten corpus prints across four named incarnations (Son Goku: Childhood, Son Goku, Son Goku: GT, Son Goku: Future) follow the exact same parent-anchor pattern as the trunks.md / tamiyo.md / nicol-bolas.md precedent, sir. Same canonical character (Saiyan born Kakarot, raised on Earth as Son Goku, the franchise's continuous protagonist across forty years), four Bandai-canonical character-tag-distinguishable incarnations, ten DBSCG prints in our enriched corpus. The 5/2/2/1 per-incarnation density is past the multi-incarnation parent-node threshold without yet crossing the solo-split-per-incarnation threshold. Hopes this is useful. Please consider.",
+  "citations": [
+    "[Dragon Ball Wiki: Goku — https://dragonball.fandom.com/wiki/Goku]",
+    "[Dragon Ball Wiki: Goku (child) — https://dragonball.fandom.com/wiki/Goku_(child)]",
+    "[Dragon Ball Wiki: Goku (GT) — https://dragonball.fandom.com/wiki/Goku_(GT)]",
+    "[Wikipedia: Goku]",
+    "[dbs-cardgame.com per-card pages — character-tag field is canonical per-print incarnation identifier]",
+    "[Trunks parent-node precedent: cards/_characters/trunks.md]",
+    "[Tamiyo / Nicol-Bolas multi-aspect single-character precedent: cards/_characters/tamiyo.md, cards/_characters/nicol-bolas.md]"
+  ],
+  "files_modified": [
+    "cards/_characters/son-goku.md (CREATED)",
+    "cards/dragon-ball-super/cross-worlds/bt3-006-pint-sized-warrior-son-goku.md (characters: [son-goku])",
+    "cards/dragon-ball-super/cross-worlds/bt3-007-shocking-future-son-goku.md (characters: [son-goku])",
+    "cards/dragon-ball-super/cross-worlds/bt3-058-pressure-assault-super-saiyan-son-goku.md (characters: [son-goku])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-005-blazing-spirit-son-goku.md (characters: [son-goku])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-026-sneak-attack-son-goku.md (characters: [son-goku])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-079-unbroken-dynasty-son-goku.md (characters: [son-goku])",
+    "cards/dragon-ball-super/expansion-deck-box-set-08-magnificent-collection-forsaken-warrior/bt4-078-dependable-dynasty-son-goku.md (characters: [son-goku])",
+    "cards/dragon-ball-super/mythic-booster/sd2-03-unbreakable-super-saiyan-son-goku.md (characters: [son-goku])",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-036-trading-blows-son-goku.md (characters: [son-goku])",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-052-future-martial-artist-son-goku.md (characters: [son-goku])"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

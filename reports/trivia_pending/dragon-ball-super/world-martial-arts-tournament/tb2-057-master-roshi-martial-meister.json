@@ -1,0 +1,36 @@
+{
+  "card_name": "Master Roshi, Martial Meister",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-057",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name contains 'Master Roshi' explicitly. Depicted figure matches Roshi's canonical visual identifiers: short stocky elderly build, large white beard, wide-brimmed hat, dark sunglasses, and patterned Hawaiian-style shirt. These five co-occurring features are unique to Master Roshi within Dragon Ball canon. Card's oracle text also references an interaction with 'Master Shen, Martial Meister' — Roshi's canonical rival — further confirming identity. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Master Roshi, Martial Meister (TB2-057) is a yellow-color Uncommon Battle card (1 yellow energy, 6,000 power, 5,000 combo). It carries Barrier (cannot be targeted by opponent skills) and an Activate Main ability: once per turn, switch a Master Shen, Martial Meister in the Battle Area to Rest Mode to draw 1 card. The Roshi/Shen rivalry is built directly into the card's mechanic — Roshi exhausts his rival to gain advantage.",
+      "sources": ["WebSearch: TrollAndToad TB2-057 listing", "WebSearch: TCGPlayer TB2-057 Master Roshi Martial Meister"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Master Roshi (the Turtle Hermit) competed in the 21st and 22nd World Martial Arts Tournaments under the alias 'Jackie Chun' — wearing a wig to avoid recognition by his students. His motive was to ensure his students (Goku, Krillin) would lose, believing easy victory would cause them to stop improving. At the 22nd tournament he forfeited against Tien Shinhan rather than risk injury that would expose his identity.",
+      "sources": ["WebSearch: CBR 'Dragon Ball: How Master Roshi Got the Nickname Jackie Chun'", "WebSearch: Wikipedia Master Roshi"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Roshi's Barrier keyword makes him unusually resilient for a 6,000-power Uncommon — opponent skills cannot select him. Pairing with Shen (also from TB2) as a draw engine mirrors how Roshi and Shen as rival teachers defined the original Dragon Ball tournament meta, with their students' fates intertwined across multiple Tenkaichi Budokai.",
+      "sources": ["WebSearch: TrollAndToad TB2-057", "WebSearch: Chaos Cards TB2-057 listing"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Future Martial Artist Son Goku", "set": "World Martial Arts Tournament", "note": "Goku is Roshi's student; TB2-052 and TB2-057 share teacher-student lore link and World Tournament trait."},
+    {"name": "Toughened Up Krillin", "set": "World Martial Arts Tournament", "note": "Krillin is also a Turtle School student under Roshi; same set."},
+    {"name": "Announcer, Ever-Curious", "set": "World Martial Arts Tournament", "note": "Roshi competed in the 21st Tenkaichi Budokai where the Announcer has hosted every tournament; both are set-defining supporting cast."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Master Roshi",
+    "ip_confidence": "high"
+  }
+}

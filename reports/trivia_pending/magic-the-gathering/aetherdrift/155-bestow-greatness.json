@@ -1,0 +1,36 @@
+{
+  "card_name": "Bestow Greatness",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "155",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Exercise kindness, for nothing remains small forever. —Alacrian proverb\" — The speaker is attributed to 'Alacrian' — an adjective from the plane Alacria, a newly named locale in Aetherdrift. This is one of the first in-universe uses of 'Alacrian' as a cultural marker, suggesting the proverb tradition of a specific people or region within the Aetherdrift multiverse. [Scryfall: flavor_text field]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Bestow Greatness is a 3-mana instant (2G) granting +4/+4 and trample until end of turn — functionally similar to Might of Oaks and Become Immense. Crucially it is Pauper-legal (unlike several comparable pump spells), making it a legitimate budget option in Pauper green stompy. EDHREC rank 14,619 — moderate inclusion; pump instants rarely chart high but this hits the sweet spot of cost versus effect. [Scryfall: legalities pauper: legal, edhrec_rank 14619]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Previewed by CoolStuffInc on January 24, 2025, in an article titled 'Official Aetherdrift Previews — Who Let The Dogs Out.' Artist is Jeff Carpenter. No prior printings. [Scryfall: preview source CoolStuffInc 2025-01-24, reprint: false, artist Jeff Carpenter]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Giant Growth", "set": "Alpha", "note": "The original pump instant; Bestow Greatness is the pushed 3-mana version with trample added"},
+    {"name": "Become Immense", "set": "Khans of Tarkir", "note": "Similar +4/+4 and trample pump for 1 mana with delve cost; Bestow Greatness is the non-delve analogue"},
+    {"name": "Might of Oaks", "set": "Urza's Legacy", "note": "+7/+7 pump at the same CMC without trample — comparison card for evaluating Bestow Greatness's rate"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

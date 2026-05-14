@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.24
 market_price_as_of: 2026-05-14
 date_added: 2026-05-07
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros'
@@ -26,6 +26,7 @@ mood: sublime
 time_of_day: day
 setting: forest
 artist: Christine Choi
+characters: [theros-pantheon]
 art_crop_image: cards/_images/magic-the-gathering/theros/218-opaline-unicorn--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/f/cfba304c-9cb8-4d5c-b70d-b7f61a365977.jpg?1562831841
 flavor_text: Purphoros once loved Nylea, the god of the hunt. His passion inspired his most astounding works of art.

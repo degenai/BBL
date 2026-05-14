@@ -1,0 +1,36 @@
+{
+  "card_name": "Awkward Situation Trunks",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-026",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name identifies 'Trunks'; the vision described a young child with short light-colored hair — matching Kid Trunks' canonical appearance (distinctive lavender/light hair, young age). He won the Junior Division of the 25th World Martial Arts Tournament, though not entirely cleanly. Confirmed via Dragon Ball Wiki.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Kid Trunks won the Junior Division championship at the 25th World Martial Arts Tournament, defeating Goten by ring-out — though the win involved using his left arm, becoming a Super Saiyan, and firing an energy blast, all of which he had agreed not to do. Trunks is the son of Vegeta and Bulma and Goten's closest friend. [Dragon Ball Wiki: World Martial Arts Tournament; Screen Rant: Z Warriors who won tournaments]",
+      "sources": ["dragonball.fandom.com/wiki/World_Martial_Arts_Tournament", "screenrant.com: Dragon Ball Every Z-Warrior Who Has Won A Tournament"]
+    },
+    {
+      "category": "design",
+      "text": "The 'Awkward Situation' title is rare in the DBS card game — comedy-register card titles are uncommon in a game dominated by power titles and battle cries. It signals a slice-of-life moment between matches rather than a combat scene, reflecting the 25th Tournament's dual nature as both sports event and apocalyptic prelude. [WebSearch: DBS TB02 card list]",
+      "sources": ["WebSearch snippet: DBS TB02 card list"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Vegeta's investment in his son's tournament result — Vegeta specifically wanted Trunks to beat Goten (Goku's son) — gives the Junior Division its extra dramatic charge. The 'Awkward Situation' framing may reference the comedic tension of being both the son of a fiercely proud Saiyan prince and a kid who just wants to roughhouse with his best friend. Community discussions on r/dragonball frequently cite the Goten/Trunks dynamic as the series' warmest friendship. [CBR: Dragon Ball Goten vs Trunks]",
+      "sources": ["cbr.com: Dragon Ball Goten vs Trunks — Trunks Wins Even if He Loses"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Scuffle Time Son Goten", "set": "World Martial Arts Tournament", "note": "TB2-022 — Trunks' best friend and Junior Division final opponent"},
+    {"name": "Begrudging Respect Piccolo", "set": "World Martial Arts Tournament", "note": "TB2-027 — Piccolo later trained Trunks and Goten to fuse against Buu"},
+    {"name": "Top of His Game Son Gohan", "set": "World Martial Arts Tournament", "note": "TB2-021 — Gohan was Goten's older brother and Trunks' ally"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "card_name": "Awkward Situation Otokosuki",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-032",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name on frame confirms character as Otokosuki. Dragon Ball Wiki confirms Otokosuki is a canon DBZ character who competed in the 28th World Martial Arts Tournament. The comedic visual register (wide-eyed expression, pink sparkle background) matches his established role as a comic-relief character known for flirtatious behavior toward Trunks and Goten. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Otokosuki is a canon Dragon Ball Z character who competes in the 28th World Martial Arts Tournament. He is notable as one of only two explicitly gay characters in the original Dragon Ball series (alongside General Blue), and his tournament scenes are played for comedic discomfort — particularly an anime-exclusive scene where he flirtatiously winks at Trunks during the matchup announcement. [Dragon Ball Wiki via WebSearch / LGBT Characters Wikia via WebSearch]",
+      "sources": ["WebSearch: Dragon Ball Wiki Fandom - Otokosuki", "WebSearch: LGBT Characters Wikia - Otokosuki"]
+    },
+    {
+      "category": "mechanical",
+      "text": "TB2-032's card mechanic directly encodes the comic relationship: the card can be played free if 'Awkward Situation Trunks' is in the Battle Area and 'Awkward Situation Otokosuki' is not — a mechanic that mechanically recreates the source scene of Otokosuki pursuing Trunks. The card is Blue color, 15000 power, Energy Cost 4[B], Common rarity. [WebSearch snippet: DBZ Exchange / Orange Men retailer listing]",
+      "sources": ["WebSearch: DBZ Exchange TB2-032", "WebSearch: Rochester CCG TB2-032 listing"]
+    },
+    {
+      "category": "design",
+      "text": "The pink-and-sparkle visual language of this card art is a deliberate deployment of shojo romance anime aesthetic codes (screen-tone sparkles, soft backgrounds, flustered expression) into a martial arts tournament context — a direct reference to how Otokosuki's scenes were animated in Dragon Ball Z. The art is from the TB2 Themed Booster, Bandai's 2018 World Martial Arts Tournament set. [WebSearch: dbs-cardgame.com TB02 / Bleeding Cool TB02 checklist]",
+      "sources": ["WebSearch: Bleeding Cool TB02 checklist", "WebSearch: dbs-cardgame.com TB02 product"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Awkward Situation Trunks", "set": "World Martial Arts Tournament", "note": "Mechanically linked — card can be played free when Trunks is in Battle Area"},
+    {"name": "Wild Tiger, the Imposing (TB2-031)", "set": "World Martial Arts Tournament", "note": "Same set, same 28th Tournament minor-character tier"},
+    {"name": "Son Goku // Stopping Power (TB2-034)", "set": "World Martial Arts Tournament", "note": "Same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

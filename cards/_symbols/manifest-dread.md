@@ -10,10 +10,12 @@ appears_on:
   - magic-the-gathering/duskmourn-house-of-horror/74-stay-hidden-stay-silent-0074
   - magic-the-gathering/duskmourn-house-of-horror/80-unnerving-grasp
   - magic-the-gathering/duskmourn-house-of-horror/169-bashful-beastie
+  - magic-the-gathering/duskmourn-house-of-horror/175-defiant-survivor
   - magic-the-gathering/duskmourn-house-of-horror/189-manifest-dread
   - magic-the-gathering/duskmourn-house-of-horror/190-moldering-gym-weight-room
+  - magic-the-gathering/duskmourn-house-of-horror/244-conductive-machete
 related_hubs: []
-related_characters: [fear-of-cycle]
+related_characters: [fear-of-cycle, dsk-toy-horror, dsk-survival-archetype]
 ---
 
 # Manifest Dread (mechanic)

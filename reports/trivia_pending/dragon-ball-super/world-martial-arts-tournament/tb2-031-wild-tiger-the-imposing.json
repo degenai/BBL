@@ -1,0 +1,37 @@
+{
+  "card_name": "Wild Tiger, the Imposing",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-031",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name on frame is 'Wild Tiger, the Imposing' — the card itself names the character. Wild Tiger (Japanese: Mo Kekko) is a canon DBZ character who competed in the 27th and 28th World Martial Arts Tournaments. Verified via Dragon Ball Wiki Fandom. Note: canon Wild Tiger has a braided ponytail per the wiki, making the bald depiction in the art potentially a visual simplification or alternate tournament appearance in the card art. The card name constitutes sufficient evidence of identity per triviabot rules.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Wild Tiger (Japanese name: Mo Kekko, lit. 'Ferocious Bloody Tiger') is a minor tournament fighter who appeared in Dragon Ball Z, competing in both the 27th World Martial Arts Tournament (where he reached the semi-finals before losing to Majin Buu) and the 28th (where he was quickly defeated by Pan). He is one of several background tournament fighters the TB2 set elevated to card status. [Dragon Ball Wiki via WebSearch snippet]",
+      "sources": ["WebSearch: Dragon Ball Wiki Fandom - Wild Tiger"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The World Martial Arts Tournament Themed Booster (DBS-TB02) is a 125-card set released by Bandai that draws exclusively from the 28th World Martial Arts Tournament arc of Dragon Ball Z, featuring both major fighters (Goku, Trunks, Uub) and minor recurring tournament participants like Wild Tiger. Each booster pack contains 12 cards. [WebSearch: dbs-cardgame.com/asia/product/dbs-tb02 / DBZ Exchange]",
+      "sources": ["WebSearch: dbs-cardgame.com TB02 product page", "WebSearch: DBZ Exchange TB02"]
+    },
+    {
+      "category": "mechanical",
+      "text": "TB2-031 is a Common rarity battle card priced at $0.10 market value, reflecting its status as a background-character common in a set dominated by Goku, Trunks, and Uub pull value. In the TB02 set, commons serve as combo fodder rather than win conditions. [WebSearch: TrollAndToad TB2-031 listing / PriceCharting World Martial Arts Tournament]",
+      "sources": ["WebSearch: TrollAndToad TB2-031", "WebSearch: PriceCharting World Martial Arts Tournament"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Trading Blows Son Goku (TB2-036)", "set": "World Martial Arts Tournament", "note": "Same set, same 28th World Tournament arc"},
+    {"name": "Son Goku // Stopping Power Son Goku (TB2-034)", "set": "World Martial Arts Tournament", "note": "Same set"},
+    {"name": "Best Buddy Chiaotzu (TB2-044)", "set": "World Martial Arts Tournament", "note": "Same set, tournament era"},
+    {"name": "Tien Shinhan, Trading Moves (TB2-043)", "set": "World Martial Arts Tournament", "note": "Same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

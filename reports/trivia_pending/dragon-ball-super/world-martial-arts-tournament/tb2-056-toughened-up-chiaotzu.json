@@ -1,0 +1,36 @@
+{
+  "card_name": "Toughened Up Chiaotzu",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-056",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name contains 'Chiaotzu' explicitly. Depicted figure has Chiaotzu's unmistakable visual identifiers: white spherical face, circular red cheek markings, and green outfit. These features are unique to Chiaotzu within Dragon Ball canon — no other character shares this design. Card's synergy ability explicitly references 'Toughened Up Krillin'. Verified via card oracle text.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Toughened Up Chiaotzu (TB2-056) is a yellow-color Common with only 1,000 base power, but carries Blocker and a reactive auto-ability: when Toughened Up Krillin is played, Chiaotzu draws 1 card and gains +14,000 power for the turn. The design reflects Chiaotzu's canonical role — low individual threat, high support value, functioning as a force-multiplier for his allies.",
+      "sources": ["WebSearch: Carta Magica TB2-056 product listing", "WebSearch: Big Orbit Cards TB2-056"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Chiaotzu is a disciple of the Crane School and reached the finals of the 22nd World Martial Arts Tournament in his first entry. His primary weapon is telekinesis — he can freeze opponents in place and communicate telepathically. Krillin defeated him at the 22nd Tenkaichi Budokai by asking him arithmetic questions, disrupting his finger-counting and breaking the telekinetic hold.",
+      "sources": ["WebSearch: mnacardz.com 'The Powers and Abilities of Chiaotzu in Dragon Ball'", "WebSearch: CBR 'This Was The Only Tournament in Dragon Ball History Any One Could've Won'"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The glowing kanji symbol in the card art is consistent with Chiaotzu's psychic power visual language in the anime. The green energy color is not his standard palette (which leans white/gold) — but the DBS card game color system assigns Chiaotzu to the yellow color identity, with green art effects used for visual dynamism rather than in-game color coding.",
+      "sources": ["WebSearch: Carta Magica TB2-056 (color: Yellow)", "WebSearch: mnacardz.com Chiaotzu abilities"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Toughened Up Krillin", "set": "World Martial Arts Tournament", "note": "Direct mechanical partner — TB2-056 gains +14,000 and draws when TB2-053 enters play; mirrored synergy pair."},
+    {"name": "Master Roshi, Martial Meister", "set": "World Martial Arts Tournament", "note": "Chiaotzu is a Crane School fighter; Roshi (Turtle School) is his teacher's rival — same tournament set."},
+    {"name": "Future Martial Artist Son Goku", "set": "World Martial Arts Tournament", "note": "Goku and Chiaotzu are contemporaries from the original Dragon Ball tournament arcs; shared World Tournament trait."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Chiaotzu",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "card_name": "Begrudging Respect Piccolo",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-027",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies Piccolo. The vision described a tall green-skinned humanoid with white cape, weighted turban, and pointed ears with arms crossed — these are Piccolo's definitive signature visual identifiers canonical across all Dragon Ball media. Confirmed via Dragon Ball Wiki and Wikipedia.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "At the 25th World Martial Arts Tournament, Piccolo qualified for the adult bracket but forfeited his match against the Supreme Kai (Shin) without fighting — intimidated by Shin's divine power, which Piccolo could sense was far beyond his own. He then accompanied Shin to pursue Babidi's forces. [Dragon Ball Wiki: World Tournament Saga; Wikipedia: Piccolo (Dragon Ball)]",
+      "sources": ["dragonball.fandom.com/wiki/World_Tournament_Saga", "en.wikipedia.org/wiki/Piccolo_(Dragon_Ball)"]
+    },
+    {
+      "category": "design",
+      "text": "Piccolo is one of TB02's Uncommon pulls (TB2-027) — a step above the Common-tier henchmen cards in the same set. His arc in the Buu Saga is one of mentorship: after the tournament, he trained Goten and Trunks for the Fusion technique, and was eventually absorbed by Majin Buu alongside Gotenks, temporarily granting Buu tactical intelligence. [Wikipedia: Piccolo (Dragon Ball)]",
+      "sources": ["en.wikipedia.org/wiki/Piccolo_(Dragon_Ball)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The 'Begrudging Respect' title maps precisely to Piccolo's relationship with Gohan: Piccolo began as Goku's arch-enemy and Gohan's reluctant kidnapper, and became his most devoted mentor. By the Buu Saga, that relationship had evolved into something the series never quite put a clean label on — the card title does that work in two words. Community sentiment on r/dragonball considers Piccolo/Gohan one of the most emotionally resonant dynamics in shonen. [Wikipedia: Piccolo (Dragon Ball)]",
+      "sources": ["en.wikipedia.org/wiki/Piccolo_(Dragon_Ball)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Top of His Game Son Gohan", "set": "World Martial Arts Tournament", "note": "TB2-021 — Piccolo's student, the person his 'begrudging respect' is directed toward"},
+    {"name": "Scuffle Time Son Goten", "set": "World Martial Arts Tournament", "note": "TB2-022 — Piccolo later trained Goten for the fusion against Buu"},
+    {"name": "Awkward Situation Trunks", "set": "World Martial Arts Tournament", "note": "TB2-026 — Piccolo also trained Trunks for fusion"},
+    {"name": "Dark Duo Babidi", "set": "World Martial Arts Tournament", "note": "TB2-013 — Piccolo's shard of Babidi's barrier was what halved Babidi per some anime versions"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

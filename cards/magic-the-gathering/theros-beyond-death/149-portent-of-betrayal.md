@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-14
 date_added: 2026-05-06
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,6 +26,7 @@ mood: action
 time_of_day: indeterminate
 setting: other
 artist: Greg Staples
+characters: [theros-pantheon]
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/149-portent-of-betrayal--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/9/b9c2b855-5079-418e-bfb4-9fc575ebe4f7.jpg?1581480361
 flavor_text: Mogis can fan a small flame of resentment into an inferno of madness.

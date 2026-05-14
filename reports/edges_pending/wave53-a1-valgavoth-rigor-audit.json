@@ -1,0 +1,48 @@
+{
+  "edge_id": "wave53-a1-valgavoth-rigor-audit",
+  "wave": 53,
+  "shape": "audit",
+  "category": "node-rigor-audit",
+  "topology": "audit",
+  "audit_target": {
+    "type": "character",
+    "path": "cards/_characters/valgavoth.md",
+    "name": "Valgavoth",
+    "created_wave": "approx wave 39, refined wave 45",
+    "selection_rationale": "Older node with time for drift to accumulate; the strict-subset wave-45 doctrine in the body made it an interesting audit (does appears_on still match the doctrine, or has drift crept in either direction?)."
+  },
+  "audit_verdict": "CLEAN",
+  "checklist": {
+    "appears_on_matches_card_frontmatter_bidirectional": {
+      "status": "pass",
+      "detail": "Bidirectional match. The node's appears_on: lists 6 cards (DSK-50, DSK-126, DSK-141, DSK-197, DSK-198, DSK-206). Reverse-grep across cards/magic-the-gathering/duskmourn-house-of-horror for characters: [\"valgavoth\"] returns exactly those 6 cards — zero drift in either direction. The body's wave-45 strict-subset doctrine (set-context-only generic mentions like Razorkin Hordecaller / Frantic Strength / Moldering Gym / Smoky Lounge stay in the body roster but are NOT frontmatter-wired) is consistently applied."
+    },
+    "threshold_met": {
+      "status": "pass",
+      "detail": "Pervasive-antagonist threshold (multiplicity of referential vectors, not raw count). 6 frontmatter anchors plus 7 additional body-only references plus 1 iconographic-opposition cohort (Glimmers). Well above the ≥2 named-character minimum; the multi-vector pervasive-antagonist precedent is documented in the body via comparison to [[phyrexia]]."
+    },
+    "canonical_sources_with_urls": {
+      "status": "pass",
+      "detail": "MTG Wiki Valgavoth character page URL provided in body. Set page, plane page, Wizards Planeswalker's Guide to Duskmourn, Star City Games Episode 6, Wizards Vision Design Handoff (Annie Sardelis), Scryfall per-card pages — all enumerated with specific citation paths in the Canonical sources section."
+    },
+    "body_claims_match_card_depictions": {
+      "status": "pass",
+      "detail": "Spot-checked flavor-text quotations for Wary Watchdog (verified via card frontmatter) and Duskmourn's Domination (verified via card frontmatter); both match verbatim. Body's Betrayer's Bargain narrative-agent claim (Winter's contract with Valgavoth, abandons Niko/Wanderer/Nashi) is consistent with the card's depicted moment and the Star City Games source. Body claim about Infernal Phantom citing 'moth-demon Valgavoth' specifically and Say Its Name's 'wings condemn everyone' iconography — both consistent with the cards' triviabot-pinned set-context bullets."
+    },
+    "yaml_safety": {
+      "status": "pass",
+      "detail": "Both `: `-containing frontmatter values double-quoted: `universe: \"Magic: The Gathering / Duskmourn (DSK, 2024-09-27)\"` and `canonical_source: \"MTG Wiki — Valgavoth (character page); ...\"`. YAML-safe."
+    },
+    "wikilinks_resolve": {
+      "status": "pass",
+      "detail": "Body uses [[phyrexia]] (exists at cards/_characters/phyrexia.md), [[acerola]] (exists), [[nicol-bolas]] (exists), [[fear-of-cycle]] (exists), [[Bulk Graph Bundler]] (project-root convention used elsewhere). All wikilinks resolve to existing graph nodes."
+    },
+    "no_coined_compound_bloat": {
+      "status": "pass",
+      "detail": "Body uses precise standard terminology (pervasive-antagonist, multi-vector breadth, iconographic-opposition cohort). No coined-compound jargon. The 'cherry-wood-door, moth-motif antagonist' descriptor is sourced to in-corpus Betrayer's Bargain trivia citation, not invented here."
+    }
+  },
+  "drift_findings": "None. Wave-45's documented strict-subset doctrine is intact. The body internally accounts for the 13-card body-roster vs 6-card frontmatter-roster split with explicit threshold rationale.",
+  "potential_future_action": "Valgavoth's Faithful (DSK-121) entered inventory on 2026-05-14 (post-audit). Once enriched (vision + trivia passes), it will be a clear frontmatter-wire candidate — the card name literally contains 'Valgavoth' and Winter's flavor text references the Valgavoth-cultist narrative. Surface to a future Edgelord pass after enrichment.",
+  "edgelord_mood": "satisfied"
+}

@@ -1,0 +1,37 @@
+{
+  "card_name": "Deadly Golden Great Ape Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-080",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The card name 'Deadly Golden Great Ape Son Goku' directly names the character and transformation. The card text confirms 'Baby Saga' era and requires a 'Son Goku : GT' Leader Card, placing this as Goku's Golden Great Ape form from Dragon Ball GT — specifically the arc where Old Kai regrew Goku's tail allowing him to transform while a Super Saiyan, ultimately leading to Super Saiyan 4. The golden-furred roaring ape in the vision matches the canonical Golden Great Ape appearance exactly. ip_confidence already high, confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Golden Great Ape is a Dragon Ball GT-exclusive transformation: a Saiyan achieves it by looking at a full moon or planetary body while already a Super Saiyan, resulting in golden fur instead of the standard brown Great Ape. In GT, Goku uses this form during the Baby Saga after Old Kai regrows his tail — and controlling the form allows Saiyans to access Super Saiyan 4. [Dragon Ball Wiki: Golden Great Ape (via WebSearch)]",
+      "sources": ["WebSearch: Golden Great Ape Dragon Ball GT Baby Vegeta Son Goku transformation lore"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT4-080 carries 25000 power (the highest among the BT4 Goku commons), a Swap 5 trigger for 'Goku's Lineage' cards, and a tutor effect on play (search deck for a Goku's Lineage card with cost 5 or less). Uniquely, the card cannot be played unless the Leader is 'Son Goku : GT' — a hard restriction making it GT-deck-only. [DBZ Exchange: BT4-080 card listing; getthosemons.co.nz listing]",
+      "sources": ["DBZ Exchange: BT4-080 card listing", "getthosemons.co.nz: BT4-080"]
+    },
+    {
+      "category": "design",
+      "text": "BT4-080 is one of two Secret Rare-adjacent designs in BT4 Colossal Warfare that showcases the set's 'monstrous transformation' aesthetic — the other apex being the Super Saiyan 4 Goku Secret Rares. The common-rarity Golden Great Ape serves as the entry-level preview of the GT transformation chain for players who can't pull the Secret Rare. [Cardmarket: Colossal Warfare set page; WebSearch]",
+      "sources": ["Cardmarket: Colossal Warfare set page", "WebSearch: DBS BT4 Colossal Warfare set details"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Indomitable Dynasty SS Son Goku", "set": "Colossal Warfare", "note": "BT4-077 — SS form Goku in same set, earlier chain step"},
+    {"name": "Gine, Here to Support", "set": "Colossal Warfare", "note": "BT4-074 — Goku's mother in same set"},
+    {"name": "Unbroken Dynasty Son Goku", "set": "Colossal Warfare", "note": "BT4-079 — adjacent Goku common"},
+    {"name": "Baby Vegeta (Golden Great Ape form)", "set": "Dragon Ball GT", "note": "Canon parallel: Baby Vegeta also achieved this form in the same saga"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Son Goku (Dragon Ball Super) — Great Ape / Oozaru form",
+    "ip_confidence": "high"
+  }
+}

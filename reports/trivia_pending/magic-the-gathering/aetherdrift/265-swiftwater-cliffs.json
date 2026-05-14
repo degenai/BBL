@@ -1,0 +1,36 @@
+{
+  "card_name": "Swiftwater Cliffs",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "265",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Swiftwater Cliffs is the most reprinted card in this wave: its 22nd printing as of Aetherdrift (February 2025), first appearing in Khans of Tarkir (September 2014). Its blue-red color identity makes it a format staple in Izzet-colored Pauper decks.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The Keelhaulers channel their prey drive into thrilling, cutthroat pursuits. Glory is all the sweeter when it's won at the expense of others.\" The Keelhaulers are chordatan corsairs and fishfolk who favor stripped-down vehicles, boarding tactics, and sea shanties during races.",
+      "sources": ["Scryfall", "MTG Wiki: Keelhaulers"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Mark Poole is one of the original 25 Magic: The Gathering artists from 1993. Like Ron Spencer (Bloodfell Caves in this same set), his Aetherdrift contribution represents a veteran original artist engaging with the modern era.",
+      "sources": ["MTG Wiki: Mark Poole"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bloodfell Caves", "set": "Aetherdrift (DFT no. 251)", "note": "same gain-land cycle; same set; also features original MTG artist"},
+    {"name": "Dismal Backwater", "set": "Aetherdrift (DFT no. 254)", "note": "same gain-land cycle; same set"},
+    {"name": "Swiftwater Cliffs", "set": "Khans of Tarkir", "note": "first printing of this oracle text"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

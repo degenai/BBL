@@ -1,0 +1,37 @@
+{
+  "card_name": "Gift of Power Guru",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-052",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names Guru. Vision shows an enormous, corpulent elderly green-skinned figure seated on a throne-like seat in white and red robes — precisely the canonical depiction of Grand Elder Guru from Dragon Ball Z's Namek Saga. Canonical sources confirm he was massive, seated permanently due to extreme age, and wore layered robes. Card title 'Gift of Power' directly references his signature ability to unlock latent power in others.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Grand Elder Guru is the patriarch of all living Namekians at the time of Dragon Ball Z's Namek Saga — having single-handedly repopulated the species after a catastrophic climate event centuries prior by producing over 100 children. He is the creator of the Namekian Dragon Balls, meaning his death renders them permanently inert unless he transfers authority first. [WebSearch: Dragon Ball Wiki / Saiyan Warrior via search]",
+      "sources": ["dragonball.fandom.com/wiki/Grand_Elder_Guru via WebSearch", "saiyanwarrior.com/characters/grand-elder-guru/ via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The 'Gift of Power' in the card title refers to Guru's ability to unlock dormant potential by placing his hand on a person's head. During the Namek Saga he unlocked the power of Krillin, Gohan, and Dende — raising Gohan's power level from approximately 1,500 to 14,000 and Krillin's to 13,000. The gift is a one-time bestowal per individual and is rooted in Guru's role as the supreme Namekian elder. [Kanzenshuu: Guru power-unlock discussion via WebSearch]",
+      "sources": ["kanzenshuu.com/forum/viewtopic.php?t=38031 via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT4-052 is a Common card — Guru sits at the lowest rarity tier in the BT4 Namekian cluster despite being narratively the patriarch of all Namekians. This inverts his in-universe importance and mirrors the support-role design: Guru in the anime never fights but enables others, which is typically the function of low-rarity support cards in the DBS card game. [dbs-cardgame.com: BT4 green strategy / DBZ Exchange]",
+      "sources": ["dbs-cardgame.com/us-en/strategy/series4/green.php", "dbzexchange.com BT4 listings via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Nail, the Namekian Ace", "set": "Colossal Warfare (BT4-053)", "note": "Guru's personal bodyguard; adjacent card in the Namekian cluster"},
+    {"name": "Kindhearted Namekian Dende", "set": "Colossal Warfare (BT4-055)", "note": "Dende was one of the three who received Guru's power unlock"},
+    {"name": "Kami, the Watcher", "set": "Colossal Warfare (BT4-054)", "note": "Guru is the Namekian elder counterpart to Kami's Earth-guardian role"},
+    {"name": "Popo, Guardian's Aide", "set": "Colossal Warfare (BT4-056)", "note": "Part of the same consecutive Namekian cluster BT4-052 through BT4-057"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

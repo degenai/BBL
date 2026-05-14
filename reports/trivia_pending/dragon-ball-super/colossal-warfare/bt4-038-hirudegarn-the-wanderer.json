@@ -1,0 +1,37 @@
+{
+  "card_name": "Hirudegarn, the Wanderer",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-038",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Hirudegarn, the Wanderer.' The bipedal demon form depicted — upright, large, with a demonic face — matches Hirudegarn's second evolved form after metamorphosis. The wanderer epithet matches lore: Hirudegarn has no mind or purpose beyond destruction, drifting and destroying.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The 'Wanderer' epithet reflects Hirudegarn's canonical characterization: the creature has no intelligence, will, or mission — it is described as having 'no sense of reason' and simply destroying everything in its path [WebSearch: Tapion Minotia Konatsian lore, Dragon Ball Fandom: Hirudegarn]. The humanoid demon form depicted on this card is Hirudegarn's second form, reached via metamorphosis — distinguished from the insectoid first form on BT4-037 by its upright bipedal stance and visible demonic face.",
+      "sources": ["Dragon Ball Fandom: Hirudegarn", "Villains Wiki: Hirudegarn", "WebSearch: Hirudegarn two forms"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Dragon Ball Z: Wrath of the Dragon (1995) was the thirteenth Dragon Ball Z theatrical film, released in Japan on July 15, 1995. It was the final DBZ film produced during the original Z run [Wikipedia: Dragon Ball Z: Wrath of the Dragon]. Hirudegarn's final defeat comes not from a conventional energy attack but from Goku's Dragon Fist technique — a move that punches through Hirudegarn's body — marking one of the Dragon Fist's first prominent appearances in the franchise.",
+      "sources": ["Wikipedia: Dragon Ball Z: Wrath of the Dragon", "Dragon Ball Fandom: Hirudegarn"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT4-038 is a Common rarity card (card no. 038/124 in Colossal Warfare), one of the lower-rarity Hirudegarn representations in a set that included dedicated Hirudegarn combo mechanics. The set's design concept noted that the lower half of Hirudegarn's sealed form sets up conditions for playing the Impenetrable Defense version (BT4-037), establishing a multi-card progression arc across commons and uncommons [WebSearch: DBS BT4 Colossal Warfare design overview].",
+      "sources": ["WebSearch: DBS BT4 design concept", "WebSearch: Colossal Warfare checklist Bleeding Cool"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Impenetrable Defense Hirudegarn", "set": "Colossal Warfare", "note": "BT4-037 — the first insectoid form; this card shows the second humanoid form"},
+    {"name": "Hidden Darkness Tapion", "set": "Colossal Warfare", "note": "BT4-040 — Tapion carries Hirudegarn's upper half; visually paired opposite"},
+    {"name": "Hoi, Emissary of Flame", "set": "Colossal Warfare", "note": "BT4-042 — Hoi engineered Hirudegarn's reassembly and release"},
+    {"name": "Trunks // Iron Vow Trunks", "set": "Colossal Warfare", "note": "BT4-023 — Trunks is the saga leader fighting Hirudegarn in BT4"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

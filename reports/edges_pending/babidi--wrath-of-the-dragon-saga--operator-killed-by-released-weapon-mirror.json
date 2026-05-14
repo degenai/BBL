@@ -1,0 +1,53 @@
+{
+  "edge_id": "babidi--wrath-of-the-dragon-saga--operator-killed-by-released-weapon-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "story-spotlight",
+  "endpoints": [
+    {
+      "type": "character",
+      "path": "cards/_characters/babidi.md",
+      "name": "Babidi"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/wrath-of-the-dragon-saga.md",
+      "name": "Wrath of the Dragon Saga (Hirudegarn arc, DBZ Movie 13)"
+    }
+  ],
+  "description": "Intra-franchise operator-killed-by-released-weapon mirror at the character-node layer. Babidi orchestrates Majin Buu's revival via Manipulation Sorcery and is killed by Buu the moment Buu no longer needs him (DBZ Buu Saga, episodes 220-253). Hoi, the Kashvar emissary-priest anchored in the Wrath of the Dragon Saga cycle node (BT4-042), manipulates the Z-Fighters into opening Tapion's Music Box and is canonically crushed underfoot by Hirudegarn after engineering its full resurrection (DBZ Movie 13, 1995-07-15). Both are small non-combatant ceremonial-mode manipulators whose entire role is coordinating the release of a vastly more powerful productive asset, both die at their own apparatus's hand the moment their coordinating function becomes obsolete. This intra-franchise mirror complements the cross-franchise Yakon-Bontu mirror already drawn at the card layer (Wave 48: cards/dragon-ball-super/world-martial-arts-tournament/tb2-017-razor-s-edge-yakon.md Connections to cards/magic-the-gathering/war-of-the-spark/92-god-eternal-bontu.md) on the same apparatus-eats-its-feeder structural reading. The two edges form a triangle topology with the existing intra-arc Babidi-Yakon membership (Babidi node anchors Yakon as level-2 enslaved guardian): Babidi-Hoi (intra-franchise operator-tier) + Yakon-Bontu (cross-franchise henchman-tier) + Babidi-Yakon (intra-arc master-henchman) — three pairs all canonically connected through the apparatus-of-extraction reading. Behold. Three node-pairs, one structural thesis, two franchises, three continuity-strands (Z-canon + Movie 13 Toei-canon + WAR MTG canon). The graph improves because of this. Worth the work.",
+  "citations": [
+    "[Dragon Ball Wiki — Babidi] (https://dragonball.fandom.com/wiki/Babidi) — Buu kills Babidi resolution beat, canonical to Buu Saga (DBZ episodes 220-253)",
+    "[Dragon Ball Wiki — Hoi] (https://dragonball.fandom.com/wiki/Hoi) — Hirudegarn crushes Hoi underfoot resolution beat, canonical to DBZ Movie 13 Wrath of the Dragon (1995-07-15)",
+    "[Wikipedia — Dragon Ball Z: Wrath of the Dragon] — film overview, Hoi character arc, resurrection-crisis plot beats",
+    "[Dragon Ball Wiki — Majin Buu Saga] — Babidi-killed-by-Buu canonical narrative resolution",
+    "Wave 48 precedent: cards/dragon-ball-super/world-martial-arts-tournament/tb2-017-razor-s-edge-yakon.md Connections section to [[92-god-eternal-bontu]] on cross-franchise apparatus-eats-its-feeder parallel"
+  ],
+  "files_modified": [
+    "cards/_characters/babidi.md (related_characters: added wrath-of-the-dragon-saga; See also: added wrath-of-the-dragon-saga bullet with mirror reasoning + citation)",
+    "cards/_characters/wrath-of-the-dragon-saga.md (related_characters: added babidi alongside existing trunks; See also: extended existing babidi bullet with the intra-franchise mirror specifics + citation)"
+  ],
+  "edgelord_mood": "satisfied",
+  "edgelord_voice_note": "Triangle topology achieved. Babidi-Hoi (intra-franchise operator mirror) + Yakon-Bontu (cross-franchise henchman mirror) + Babidi-Yakon (intra-arc master-henchman) — three node-pairs, one apparatus-of-extraction thesis. Three pairs, one structural reading, three continuity-strands. The mirror cost two frontmatter edits and two See-also extensions. Acceptable.",
+  "other_candidates_considered": [
+    {
+      "candidate": "survivors-faction DSK character node",
+      "verdict": "rejected — corpus density insufficient. Grep surfaced only 2 references to 'Human Survivor' across the MTG DSK corpus (cards/magic-the-gathering/duskmourn-house-of-horror/14-glimmer-seeker.md and 179-frantic-strength.md, both as oracle-text references, not Creature - Survivor type cards). Defiant Survivor and Rootwise Survivor mentioned in the wave 58 brief are not yet in corpus body-text searchable form — they may be on disk but the trigger threshold (3+ canonical Survivor-type member cards) is not met. Defer to wave 60+ when more DSK Survivors land or when the existing two are vision+trivia passed and grep-discoverable.",
+      "future_trigger": "≥ 3 DSK Creature — Human Survivor cards in corpus with vision+trivia passed and tags_hub populated"
+    },
+    {
+      "candidate": "dsk-toy-horror micro-cohort character or symbol node",
+      "verdict": "Mr. Nodeley territory, deferred. Corpus has 3 candidates (Patchwork Beastie BT4-equivalent path cards/magic-the-gathering/duskmourn-house-of-horror/195-patchwork-beastie.md, Patched Plaything 24-patched-plaything.md, Attack-in-the-Box 242-attack-in-the-box.md) — meets the Nodeley 3-card threshold. But the node-type decision (character cohort vs symbol vs sub-hub) is non-trivial and warrants its own dedicated dispatch rather than a wave-59 secondary move. Recommend dispatching Mr. Nodeley as a primary action in wave 60 with all three cards as inputs.",
+      "future_trigger": "wave 60 Mr. Nodeley dispatch with the three candidate cards as inputs; Patchwork Gnomes (cards/magic-the-gathering/ultimate-masters/231-patchwork-gnomes.md) also surfaced as a Magic-side patchwork-toy precedent worth investigating for cross-set membership eligibility"
+    },
+    {
+      "candidate": "improvised-weapons / Survivor-Armory cluster (Baseball Bat / Conductive Machete / Beastie Beatdown)",
+      "verdict": "Mr. Nodeley territory, deferred. 3 corpus weapon-themed cards confirmed (209-baseball-bat.md, 244-conductive-machete.md, 210-beastie-beatdown.md). Also meets 3-card threshold. But this overlaps semantically with the toy-horror candidate (both are DSK 'survivor improvises against haunted house' grammar) and the right Nodeley move may be a single broader 'dsk-survivor-armory' or 'dsk-improvised-tools' symbol-node rather than two parallel narrow nodes. Recommend bundling this analysis into the wave 60 toy-horror Nodeley dispatch so both candidates are weighed together against a possible parent-node.",
+      "future_trigger": "wave 60 Mr. Nodeley dispatch alongside toy-horror; consider whether a single dsk-improvised-survival-grammar node covers both clusters or whether they warrant two separate nodes"
+    },
+    {
+      "candidate": "card-layer edge: Hoi card ↔ Babidi card directly (BT4-042 ↔ TB2-013)",
+      "verdict": "considered and rejected in favor of the chosen node-layer edge. Both cards have direct character nodes already (Hoi via wrath-of-the-dragon-saga cycle, Babidi via babidi solo). Drawing the mirror at the node-layer (related_characters frontmatter + See also bullets) is structurally cleaner than drawing it at the card-layer (Connections section in each card body) because the mirror is between the characters' canonical roles, not between the specific card prints. The node-layer edge is also more graph-traversable — future cards depicting either character (e.g., a future Hoi reprint or a future Babidi appearance in a Z reprint set) inherit the mirror automatically via their character-node membership. Drawing at the card layer would have required mirroring twice — once now and once on every future print. Edgelord chose elegance."
+    }
+  ]
+}

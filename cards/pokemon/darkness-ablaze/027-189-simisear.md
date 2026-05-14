@@ -18,7 +18,7 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-14
 date_added: 2026-05-11
-last_seen: 2026-05-13
+last_seen: 2026-05-14
 reference_image_source_url: https://images.pokemontcg.io/swsh3/27_hires.png
 art_match_confidence: high
 needs_manual_review: false

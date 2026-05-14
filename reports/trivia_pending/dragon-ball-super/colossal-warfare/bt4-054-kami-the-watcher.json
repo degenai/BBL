@@ -1,0 +1,37 @@
+{
+  "card_name": "Kami, the Watcher",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-054",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names Kami. Vision shows a slender green-skinned Namekian with Namekian cranial ridges, white inner robe and purple outer cape, one hand raised, staff nearby — precisely matching canonical Kami: Namekian Guardian of Earth in white robes with blue/purple collar, holding a staff, calm and watchful in posture. The sky-background setting matches the Lookout (Kami's Lookout) elevated high above Earth.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Kami (meaning 'God' in Japanese) was a Namekian who no longer remembered his original name, exiled from his body by the evil half that became King Piccolo. He became Earth's Guardian and created the Earth Dragon Balls. Kami trained Goku and Krillin prior to the 23rd World Martial Arts Tournament, and later merged permanently with Piccolo during the Android Saga — reacquiring his identity and becoming a Super Namek. [CBR: How Kami Became Earth's Guardian via WebSearch]",
+      "sources": ["cbr.com/dragon-ball-how-kami-became-earth-guardian/ via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Kami carried a staff and wore white robes bearing a red kanji for 'God.' His Lookout — a floating platform high above Earth — is the same location where Mr. Popo serves as aide, depicted on BT4-056 'Popo, Guardian's Aide.' The two cards represent the same setting: BT4-054 shows Kami individually on or near the Lookout, while BT4-056 shows the duo together in front of the Lookout's dome architecture. [WebSearch: Dragon Ball Wiki — Kami, Mr. Popo]",
+      "sources": ["dragonball.fandom.com/wiki/Kami via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT4-054 is an Uncommon Green card from the Colossal Warfare Namekian block (BT4-052 to BT4-057). The BT4 green cluster was designed around the [Bond] keyword, with Piccolo, Kami's Successor (BT4-046) as the designated Namekian Leader — gaining Critical when Bond is active. Kami's Watcher card slots into that Bond-activation support suite. [dbs-cardgame.com: Series 4 Green Strategy Page]",
+      "sources": ["dbs-cardgame.com/us-en/strategy/series4/green.php"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Popo, Guardian's Aide", "set": "Colossal Warfare (BT4-056)", "note": "Same Lookout setting; Popo card shows both figures together"},
+    {"name": "Piccolo, Kami's Successor", "set": "Colossal Warfare (BT4-046)", "note": "Designated Namekian Leader whose card title references Kami directly"},
+    {"name": "Nail, the Namekian Ace", "set": "Colossal Warfare (BT4-053)", "note": "Part of the same consecutive Namekian block"},
+    {"name": "Gift of Power Guru", "set": "Colossal Warfare (BT4-052)", "note": "Guru is the Namek counterpart to Kami as elder authority figure"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

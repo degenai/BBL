@@ -1,0 +1,37 @@
+{
+  "card_name": "Oath's Power, Tapion",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-039",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Oath's Power, Tapion.' The warrior figure holding an ocarina/flute in armored clothing with blue energy burst matches Tapion's canonical visual signature: his Hero's Flute is his defining weapon and the primary means by which he and Minotia sealed Hirudegarn. The instrument in the art is the specific visual identifier of this character.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Tapion and his younger brother Minotia were warriors of the planet Konats who volunteered to have the two halves of the demon Hirudegarn sealed within their bodies after the creature was bisected by an enchanted sword. Tapion carried the upper half. The brothers were then imprisoned in mystical Music Boxes and dispersed to distant parts of the universe as an eternal containment measure [Wikipedia: Dragon Ball Z: Wrath of the Dragon, WebSearch: Tapion Minotia Konatsian lore].",
+      "sources": ["Wikipedia: Dragon Ball Z: Wrath of the Dragon", "WebSearch: Tapion Minotia Konatsian warriors"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The 'Oath' in the card title directly references the Konatsian heroes' oath: Tapion and Minotia agreed to eternal imprisonment to protect the universe. Tapion's signature weapon is his Hero's Flute (ocarina) — playing it keeps Hirudegarn dormant inside him; stopping or being unable to play it allows the demon to surface [Dragon Ball Official Site: Weekly Character Showcase Tapion no. 156, WebSearch: Tapion lore].",
+      "sources": ["Dragon Ball Official Site: Weekly Character Showcase Tapion", "WebSearch: Tapion Konatsian oath lore"]
+    },
+    {
+      "category": "design",
+      "text": "At the end of Dragon Ball Z: Wrath of the Dragon, Tapion gives his enchanted sword to the young Trunks, saying he thinks it always belonged to him — a retroactive explanation for Future Trunks's iconic blade in the Android Saga. This connection is non-canonical to the main manga timeline but is widely cited as the in-universe explanation the film intended [CBR: Where Did Trunks Get His Sword, GameRant: Dragon Ball: Where Did Future Trunks Get His Sword, Quora discussions].",
+      "sources": ["CBR: Where Did Trunks Get His Sword", "GameRant: Dragon Ball: Where Did Future Trunks Get His Sword"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hidden Darkness Tapion", "set": "Colossal Warfare", "note": "BT4-040 — the dark counterpart card showing Tapion's internal horror rather than his heroic oath"},
+    {"name": "Hidden Darkness Minotia", "set": "Colossal Warfare", "note": "BT4-041 — Tapion's younger brother who carried the other half of Hirudegarn"},
+    {"name": "Impenetrable Defense Hirudegarn", "set": "Colossal Warfare", "note": "BT4-037 — the demon Tapion spent eternity containing"},
+    {"name": "Trunks // Iron Vow Trunks", "set": "Colossal Warfare", "note": "BT4-023 — Trunks receives Tapion's sword; the saga's primary Leader card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

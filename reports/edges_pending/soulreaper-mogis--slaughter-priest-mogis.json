@@ -1,0 +1,21 @@
+{
+  "edge_id": "soulreaper-of-mogis--slaughter-priest-of-mogis",
+  "shape": "1:1",
+  "category": "designer-confirmed-cycle",
+  "topology": "mirror",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/115-soulreaper-of-mogis.md", "name": "Soulreaper of Mogis"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/227-slaughter-priest-of-mogis.md", "name": "Slaughter-Priest of Mogis"}
+  ],
+  "description": "Both THB cards are explicit Mogis-cult priest depictions: minotaur shamans, both red-black sacrifice-payoff cards, both flavor-attributed directly to Mogis (the god of slaughter), and both deploy the same horned-figure-with-raised-blade iconography that the set's art direction reserves for the Mogis cult specifically. The edge survives the theros-pantheon parent-node addition because it's narrower than the pantheon cohort: this is the Mogis-specific cult-operative pair, structurally analogous to Pitiless Pontiff + Tithe Drinker within the Orzhov node.",
+  "citations": [
+    "[Scryfall: thb/115, thb/227]",
+    "[MTG Wiki: Mogis, God of Slaughter]",
+    "[Wizards: Theros Beyond Death set design]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/theros-beyond-death/115-soulreaper-of-mogis.md",
+    "cards/magic-the-gathering/theros-beyond-death/227-slaughter-priest-of-mogis.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored"
+}

@@ -1,0 +1,36 @@
+{
+  "card_name": "Popo, Guardian's Aide",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-056",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names Popo. Vision shows a short dark-robed figure with white turban and dark complexion alongside a tall green-skinned Namekian in front of white dome palace architecture. This matches Mr. Popo's canonical description exactly: dark complexion, white turban, dark robe, pointy ears, stocky build, serving alongside Kami at the Lookout (the elevated dome structure). The suspected_ip is 'Mr. Popo and Kami (Dragon Ball Z)' — both figures are verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Mr. Popo is a djinn who has served Earth's Guardian for hundreds of years; by Dragon Ball Z he was over 1,000 years old. His duties at the Lookout include training warriors, tending the palace grounds, supporting the current Guardian, and reconstructing Shenron when needed. He is not Namekian — his species is unspecified in canon, distinguishing him from Kami, the Namekian he serves. [Wikipedia: Mr. Popo via WebSearch]",
+      "sources": ["en.wikipedia.org/wiki/Mr._Popo via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The white dome architecture behind the duo on BT4-056 is Kami's Lookout — a platform floating high above Earth that serves as the Guardian's residence and training ground. Goku trained there before the 23rd World Martial Arts Tournament. The Lookout setting is significant to the BT4 Namekian cluster: BT4-054 (Kami, the Watcher) shows Kami individually near the sky-toned Lookout, while BT4-056 depicts both Popo and Kami together in front of the dome. [WebSearch: Dragon Ball Wiki — Kami's Lookout]",
+      "sources": ["dragonball.fandom.com/wiki/Kami via WebSearch", "dragonball.fandom.com/wiki/Mr._Popo via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT4-056 is a Common duo card — one of the few cards in the BT4 Namekian block to depict two named characters simultaneously. In the DBS card game, multi-figure Common cards often serve as low-cost Bond activators or combo pieces. The card's placement at BT4-056, adjacent to Kami (BT4-054) and Saonel (BT4-057), anchors the narrative duo relationship in consecutive print order. [dbs-cardgame.com: BT4 card list via WebSearch]",
+      "sources": ["dbs-cardgame.com/us-en/cardlist/?search=true&category=BT4 via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kami, the Watcher", "set": "Colossal Warfare (BT4-054)", "note": "The Namekian figure beside Popo on this card is Kami; adjacent in set"},
+    {"name": "Piccolo, Kami's Successor", "set": "Colossal Warfare (BT4-046)", "note": "After Kami merged with Piccolo, Popo serves Piccolo as the new Guardian"},
+    {"name": "Gift of Power Guru", "set": "Colossal Warfare (BT4-052)", "note": "Part of same consecutive Namekian block BT4-052 through BT4-057"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "card_name": "Dark Duo Babidi",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-013",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly includes 'Babidi'; the depicted small alien figure with oversized round head, dark ceremonial robes, and the organic pink interior background exactly matches Babidi's canonical design and his Buu-revival context. Confirmed via Dragon Ball Wiki.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "TB2-013 is a Common from DBS-TB02 (Themed Booster pack World Martial Arts Tournament), released September 21, 2019 by Bandai. The 125-card set focuses on the 25th Tenkaichi Budokai arc and the early Buu Saga. [dbs-cardgame.com TB02 product page]",
+      "sources": ["dbs-cardgame.com: DBS-TB02 product page"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Babidi is the alien sorcerer son/clone of Bibidi who orchestrated Majin Buu's revival. His plan involved gathering energy from Earth's fighters at the 25th World Martial Arts Tournament — the exact event this card set is themed around. [Dragon Ball Wiki: Babidi]",
+      "sources": ["Dragon Ball Wiki: Babidi (dragonball.fandom.com)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The 'Dark Duo' title pairs Babidi with Majin Buu — the organic pink interior background in the art is consistent with Majin Buu's body interior, where Babidi frequently operated and commanded Buu. The 'duo' framing captures their grotesque codependency: Babidi needed Buu as muscle; Buu tolerated Babidi just long enough before destroying him. [Dragon Ball Wiki: Babidi]",
+      "sources": ["Dragon Ball Wiki: Babidi (dragonball.fandom.com)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Babidi's Spaceship", "set": "World Martial Arts Tournament", "note": "TB2-018 — the location where Babidi staged his revival operation"},
+    {"name": "Pui Pui, Magician's Lackey", "set": "World Martial Arts Tournament", "note": "TB2-016 — Babidi's first-floor guardian"},
+    {"name": "Tainted Power, Spopovich & Yamu", "set": "World Martial Arts Tournament", "note": "TB2-015 — Babidi's tournament-infiltration operatives who drained Gohan's energy"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}
