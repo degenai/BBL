@@ -14,8 +14,8 @@ tags_hub: ["rabbit", "burrow", "underground", "party", "psychedelic", "rainbow",
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "single-figure", "centered-composition", "colorless-energy", "basic-pokemon", "common-rarity"]
 reference_image: cards/_images/pokemon/darkness-ablaze/150-189-bunnelby.png
 average_cost_paid: 0
-market_price: 0.13
-market_price_as_of: 2026-05-12
+market_price: 0.16
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://images.pokemontcg.io/swsh3/150_hires.png

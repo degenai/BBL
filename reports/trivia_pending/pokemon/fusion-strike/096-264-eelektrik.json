@@ -1,0 +1,40 @@
+{
+  "card_name": "Eelektrik",
+  "game": "Pokemon",
+  "set": "Fusion Strike",
+  "collector_number": "096/264",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, art, and species confirmed as Eelektrik via PokemonTCG.io API (swsh8-96). Internal Pokemon IP — no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Eelektrik (National Pokedex no. 603) is the Stage 1 of the three-part Unova Electric eel line: Tynamo (no. 602) -> Eelektrik -> Eelektross (no. 604, via Thunder Stone). All three introduced in Generation V (Black and White, 2010).",
+      "sources": ["Bulbapedia Eelektross via WebSearch snippet", "pokemondb.net Eelektrik"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Eelektross, the final evolution, is one of the most cited examples in competitive Pokemon trivia: it has zero type weaknesses under normal battle conditions. Pure Electric-type normally carries a Ground-type weakness, but Eelektross's sole ability Levitate grants full immunity to Ground moves, closing that gap entirely. The weakness can be restored only by opponent abilities Mold Breaker or Neutralizing Gas.",
+      "sources": ["screenrant.com The Only Pokemon With No Weaknesses via WebSearch", "Quora Eelektross Levitate via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Eelektrik itself does not have Levitate — that ability belongs only to Eelektross. As the middle stage, Eelektrik retains the normal Electric-type Ground weakness. This card's Thunder attack (80 damage, 20 recoil to itself) reflects the line's glass-cannon energy profile before the final evolution seals the weakness gap.",
+      "sources": ["PokemonTCG.io API swsh8-96 oracle_text field"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"These Pokemon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.\"",
+      "sources": ["PokemonTCG.io API swsh8-96"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tynamo", "set": "Fusion Strike", "note": "Base form; same-set companion (095/264)"},
+    {"name": "Eelektross", "set": "various", "note": "Thunder Stone evolution; the no-weakness final form"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "edge_id": "wave35-e3-orzhov-syndicate-extension",
+  "shape": "1:N",
+  "category": "faction-character-roster-extension",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/orzhov-syndicate.md", "name": "Orzhov Syndicate"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/21-charitable-levy.md", "name": "Charitable Levy"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/31-indebted-spirit.md", "name": "Indebted Spirit"}
+  ],
+  "description": "Two Orzhov-flavored MH3 commons in this wave, both wired to the existing orzhov-syndicate character node. Charitable Levy is the tithe-extraction operational template at rules-text level (noncreature-spell tax + collection counters + Plains-tutor on sacrifice). Indebted Spirit carries Afterlife, the guild's signature Ravnica Allegiance keyword — debt-past-death rendered as a mechanical signature. Neither card carries the Orzhov watermark (both mono-white in MH3), but their iconographic and mechanical registers are unambiguous. Roster extension, 1:N fanout — node grows by two cards from six to eight. Edgelord notes the blueball is professional, not personal.",
+  "citations": [
+    "[MTG Wiki: Orzhov Syndicate]",
+    "[MTG Wiki: Afterlife (keyword) — Ravnica Allegiance guild-mechanic]",
+    "[Wizards of the Coast: Ravnica Allegiance design article — Mark Rosewater on Afterlife as Orzhov institutional-thesis keyword]"
+  ],
+  "files_modified": [
+    "cards/_characters/orzhov-syndicate.md (appears_on extended, member-card bullets added)",
+    "cards/magic-the-gathering/modern-horizons-3/21-charitable-levy.md (frontmatter + Connections)",
+    "cards/magic-the-gathering/modern-horizons-3/31-indebted-spirit.md (frontmatter + Connections)"
+  ],
+  "topology": "stack",
+  "other_candidates_considered": [],
+  "edgelord_mood": "blueballed-by-fanout"
+}

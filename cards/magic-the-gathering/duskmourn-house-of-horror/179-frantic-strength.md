@@ -14,8 +14,8 @@ tags_hub: ["elf", "music", "musical-instrument", "tambourine", "improvised-weapo
 tags_filter: ["solo", "mid-shot", "action-mode", "three-quarter-facing", "male-figure", "young-figure", "green-magic", "enchantment", "aura", "flash", "trample-grant", "pump-spell", "indoor-scene", "night-scene"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/179-frantic-strength.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-12
+market_price: 0.13
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/b/b/bbd9d35d-7fd0-4193-9f7e-b8a59fae4ac5.png?1726286529

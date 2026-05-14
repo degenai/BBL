@@ -1,0 +1,41 @@
+{
+  "card_name": "Sonia",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "167/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches character name exactly. Art depicts a young figure in warm rust coat outdoors in a pastoral Galar setting — canonical Sonia visual signature. PokemonTCG.io confirms card name 'Sonia', artist Yusuke Ohmura, Rebel Clash set (swsh2-167). Bulbapedia confirms Sonia as Professor Magnolia's granddaughter who becomes Galar Professor at game's end. Identity confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Sonia is the granddaughter and former assistant of Professor Magnolia, and a childhood friend of Champion Leon. Over the course of Sword and Shield she investigates the ancient Darkest Day catastrophe alongside the player, eventually being named Galar's new Pokemon Professor by Magnolia at the game's conclusion — making her the first character in the main series to earn the Professor title on-screen [Bulbapedia: Sonia, via WebSearch snippet].",
+      "sources": ["Bulbapedia: Sonia (WebSearch snippet)", "PokemonTCG.io swsh2-167"]
+    },
+    {
+      "category": "design",
+      "text": "Rebel Clash (swsh2) is the second Sword and Shield Series set, Regulation Mark D. Artist Yusuke Ohmura also illustrated Oleana (no. 163/192) in the same set — both Galar Supporter cards paired under the same Sword and Shield narrative block [PokemonTCG.io swsh2-167, swsh2-163].",
+      "sources": ["PokemonTCG.io swsh2-167", "PokemonTCG.io swsh2-163"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Sonia's Supporter effect — search deck for up to 2 Basic Pokemon or up to 2 basic Energy — is a flexible search that mirrors her narrative role as the player's research partner: she finds what is needed and delivers it without conditions [PokemonTCG.io swsh2-167 oracle text].",
+      "sources": ["PokemonTCG.io swsh2-167"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Sonia and Chairman Rose share a history: Rose was a peer of Professor Magnolia's research circle before founding Macro Cosmos. Sonia's investigation of the Darkest Day ultimately exposes Rose's scheme to reactivate the Darkest Day for energy production — a collision between two legacy institutions (academia and industry) mediated by the player [Bulbapedia: Sonia, Macro Cosmos, via WebSearch snippet].",
+      "sources": ["Bulbapedia: Sonia (WebSearch snippet)", "Bulbapedia: Macro Cosmos (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Oleana", "set": "Rebel Clash", "note": "Same set, same artist, narrative counterpart — Rose's enforcer vs. Magnolia's heir"},
+    {"name": "Professor Magnolia", "set": "Rebel Clash", "note": "Sonia's grandmother and predecessor as Galar Professor"},
+    {"name": "Leon", "set": "various", "note": "Sonia's childhood friend and Champion — Galar's other central figure"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

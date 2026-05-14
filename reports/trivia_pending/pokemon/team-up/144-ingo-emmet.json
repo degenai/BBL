@@ -1,0 +1,41 @@
+{
+  "card_name": "Ingo & Emmet",
+  "game": "Pokemon",
+  "set": "Team Up",
+  "collector_number": "144",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches both character names exactly. Art depicts two figures in matching black-and-white conductor uniforms in a transit station — canonical Ingo and Emmet visual signature as Battle Subway bosses in Black and White. PokemonTCG.io confirms card name 'Ingo & Emmet', artist Yusuke Ohmura, Team Up set (sm9-144). Both identity confirmations supported by name match, uniform design, and transit setting.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ingo and Emmet are identical twin brothers and co-bosses of the Battle Subway in Unova (Pokemon Black, White, Black 2, White 2). Ingo challenges Single Battle challengers after a 20-win streak; Emmet challenges Double Battle challengers. Their mirrored uniforms — Ingo in dark tones, Emmet in lighter — are their primary visual identity [Bulbapedia: Ingo, via WebSearch snippet].",
+      "sources": ["Bulbapedia: Ingo (WebSearch snippet)", "PokemonTCG.io sm9-144"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Pokemon Legends: Arceus, Ingo appears alone in the ancient Hisui region, having been transported through a space-time rift and suffered near-total memory loss. He becomes a Pearl Clan warden watching over Sneasler. His fragmented memories of Emmet and their partner Pokemon are surfaced through player interaction — one of the franchise's most emotionally resonant secondary character arcs [Bulbapedia: Ingo, via WebSearch snippet; Game Rant: 'Pokemon Legends: Arceus - Who is Ingo?'].",
+      "sources": ["Bulbapedia: Ingo (WebSearch snippet)", "Game Rant: 'Pokemon Legends Arceus - Who is Ingo?' (WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Team Up (sm9) released February 2019 as a Sun and Moon Series set. The TAG TEAM mechanic — pairing two characters on one card — made the Ingo and Emmet Supporter card a natural fit: they appear together on every Battle Subway card in the games and are never depicted separately in their Unova roles [PokemonTCG.io sm9-144].",
+      "sources": ["PokemonTCG.io sm9-144"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Ingo and Emmet's Supporter effect — discard hand, then choose to draw 5 from the top or 5 from the bottom of the deck — reflects their subway motif: two lines, two directions, one destination. The choice between top and bottom deck draw is mechanically distinct and sees play in Expanded hand-refresh strategies [PokemonTCG.io sm9-144 oracle text].",
+      "sources": ["PokemonTCG.io sm9-144"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ingo", "set": "Pokemon Legends: Arceus era products", "note": "Solo Ingo card referencing his Hisui warden identity"},
+    {"name": "Elesa", "set": "various", "note": "Fellow Unova Gym Leader — peer in the BW NPC roster"},
+    {"name": "N", "set": "various", "note": "Black and White co-protagonist — the other major BW character with a card presence"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

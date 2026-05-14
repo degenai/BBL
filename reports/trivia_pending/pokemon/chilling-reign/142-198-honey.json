@@ -1,0 +1,35 @@
+{
+  "card_name": "Honey",
+  "game": "Pokemon",
+  "set": "Chilling Reign",
+  "collector_number": "142/198",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed: card depicts Honey from Pokemon Sword and Shield (The Isle of Armor DLC). Honey is the wife of Mustard (the dojo master) and mother of Hyde. She is NOT the mother of Leon and Hop — that was an error in the wave 22 briefing flags. Leon and Hop's mother is a separate unnamed NPC called 'Mum' in the Galar region. Honey's role is Dojo Matron at the Master Dojo on the Isle of Armor. Supporter card artwork by Ryuta Fuse matches published card art. IP is Wizards/Game Freak-internal; no external IP risk. Confidence updated to high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Honey is an NPC from The Isle of Armor, the first DLC expansion for Pokemon Sword and Shield (2020). She serves as Dojo Matron at the Master Dojo alongside her husband Mustard, the former Galar Champion. Her son is Hyde, a researcher at the dojo. Honey is NOT the mother of Leon or Hop — their mother is a separate unnamed character referred to as 'Mum' in the Galar games. [Bulbapedia: Honey (Galar) via WebSearch; Bulbapedia: Hop via WebSearch]",
+      "sources": ["Bulbapedia: Honey (Galar) via WebSearch", "Bulbapedia: Hop via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "The Honey Supporter card was first released in the Japanese S-P Promotional cards before its English debut in the Chilling Reign expansion (Sword and Shield Series, 2021). The card effect — draw a card for each of the opponent's Benched Pokemon V — mirrors Honey's supportive and resourceful personality in the games. Art by Ryuta Fuse. [PokemonTCG.io API (swsh6-142); Bulbapedia Honey (Galar) via WebSearch]",
+      "sources": ["PokemonTCG.io API (swsh6-142)", "Bulbapedia: Honey (Galar) via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Chilling Reign (released June 18, 2021) is the sixth expansion of the Sword and Shield era. The set is themed around the Crown Tundra and Isle of Armor DLC regions, explaining the inclusion of Isle of Armor NPCs like Honey as Supporter cards. [PokemonTCG.io API (swsh6-142)]",
+      "sources": ["PokemonTCG.io API (swsh6-142)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mustard", "set": "Chilling Reign / Battle Styles", "note": "Honey's husband; also appeared as a Supporter card in the Sword and Shield era"},
+    {"name": "Hyde", "set": "various", "note": "Honey's son; appeared as a Supporter card in Sword and Shield era sets"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

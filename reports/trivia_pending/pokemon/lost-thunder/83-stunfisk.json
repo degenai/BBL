@@ -1,0 +1,35 @@
+{
+  "card_name": "Stunfisk",
+  "game": "Pokemon",
+  "set": "Lost Thunder",
+  "collector_number": "83",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is Stunfisk; depicted figure is a flat brownish fish-like Pokemon with a comically wide mouth — the standard Unova form (Ground/Electric) confirmed by the brown body and no green trap-jaw markings that would indicate the Galarian variant. Vision pass also explicitly noted the Unova form. Confirmed via PokemonTCG.io API (name, flavor text, artist Ken Sugimori).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Stunfisk is a dual-type Ground/Electric Pokemon (National Pokedex no. 618) introduced in Generation V (Unova). It received a Galarian regional form in Sword and Shield — Ground/Steel type — in which the flat body mimics a Poke Ball to lure prey into a bear-trap-style fin clamp. This LOT-83 card depicts the original Unova form, identifiable by the brown coloration and Electric-type attack in its oracle text. [PokemonTCG.io API, Bulbapedia: Stunfisk, WebSearch snippet]",
+      "sources": ["PokemonTCG.io API", "Bulbapedia: Stunfisk", "WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (LOT-83): 'It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.' — This ambush strategy is the core of Stunfisk's design concept; per developer commentary cited in various sources, its creation stemmed from a desire to make 'the flattest Pokemon ever,' inspired by flatfish (flounder and stargazer). [PokemonTCG.io API, WebSearch snippet]",
+      "sources": ["PokemonTCG.io API", "WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "This card is illustrated by Ken Sugimori, the co-founder of Game Freak and primary character designer and art director of the Pokemon franchise since its inception. Sugimori designed and finalized most of the original 151 Pokemon and has been credited across every generation. His illustrating specific TCG cards is relatively rare compared to other artists — his presence as illustrator signals a card that connects directly to Game Freak's in-house visual ownership. [Wikipedia: Ken Sugimori, WebSearch snippet]",
+      "sources": ["Wikipedia: Ken Sugimori", "WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Galarian Stunfisk", "set": "Vivid Voltage", "note": "Regional variant; Ground/Steel type with Poke Ball mimicry lure mechanic"},
+    {"name": "Stunfisk", "set": "Plasma Storm", "note": "Earlier Unova-form print in the Black and White era"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Stunfisk (Pokemon)",
+    "ip_confidence": "high"
+  }
+}

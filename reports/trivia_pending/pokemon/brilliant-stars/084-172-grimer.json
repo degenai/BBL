@@ -1,0 +1,41 @@
+{
+  "card_name": "Grimer",
+  "game": "Pokemon",
+  "set": "Brilliant Stars",
+  "collector_number": "084/172",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Kanto-form Grimer: purple sludge Pokémon with wide grin in industrial setting matches swsh9-84 record. National Pokedex no. 88, illustrated by Masakazu Fukuda.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Second Kanto Grimer print in corpus. DAA-100 (Darkness Ablaze 100/189) by Ryota Murayama was trivia'd in Wave 14 with a pollution/eco-critique angle. This BRS-084 is by Masakazu Fukuda. Both prints share identical flavor text — same bleak ecological punchline, two different artists.",
+      "sources": ["PokemonTCG.io: swsh9-84 and swsh3-100", "pkmncards.com: Grimer DAA-100"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The wastewater coming from factories is clean these days, so Grimer have nothing to eat. They're said to be on the verge of extinction.\" The irony — a pollution-born Pokémon endangered by environmental cleanup — is identical across both corpus Grimer prints.",
+      "sources": ["PokemonTCG.io: swsh9-84 flavorText field"]
+    },
+    {
+      "category": "design",
+      "text": "In the Pokemon TCG, Kanto Grimer is classified as Darkness-type despite being Poison-type in the main series. The TCG energy system collapses most Poison-types into Darkness. The Poison Gas attack is mechanically apt despite the energy type shift.",
+      "sources": ["PokemonTCG.io: swsh9-84"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Brilliant Stars (SWSH9), released February 25, 2022. Grimer appears as a low-rarity Darkness-type common in a set headlined by Arceus VSTAR and Hisui-region theming.",
+      "sources": ["PokemonTCG.io: swsh9"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Grimer", "set": "Darkness Ablaze", "note": "First corpus Grimer, same flavor text, Ryota Murayama art"},
+    {"name": "Muk", "set": "multiple", "note": "Grimer's evolution"},
+    {"name": "Alolan Grimer", "set": "multiple", "note": "Regional variant with yellow-green coloring"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

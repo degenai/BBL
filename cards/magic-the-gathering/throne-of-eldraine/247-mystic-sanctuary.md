@@ -14,8 +14,8 @@ tags_hub: ["tower", "ruin", "island", "mist", "water", "ocean", "dawn", "solitud
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "island-land", "blue-magic", "landscape"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/247-mystic-sanctuary.png
 average_cost_paid: 0
-market_price: 2.46
-market_price_as_of: 2026-05-12
+market_price: 2.44
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

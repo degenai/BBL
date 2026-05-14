@@ -1,0 +1,46 @@
+{
+  "card_name": "Lugia",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "132/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is Lugia; PokemonTCG.io confirms nationalPokedexNumbers: [249]; flavor text matches canonical Pokedex entry for Lugia. Art depicts the white avian legendary over ocean — fully consistent with Lugia's canonical appearance. Internal Pokemon IP, no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Lugia is National Pokedex no. 249, introduced in Generation II. It is the version mascot of Pokemon Silver Version and its remake Pokemon SoulSilver, appearing on both box arts. [Bulbapedia: Lugia, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Lugia, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Lugia's media debut preceded its game debut: it was created by writer Takeshi Shudo for Pokemon the Movie 2000: The Power of One (released July 1999 in Japan), and then appeared in Pokemon Gold & Silver (November 1999 in Japan). It was not present in the 1997 Space World demo of Gold & Silver. [Bulbapedia: Lugia, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Lugia, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Lugia is one half of the Tower Duo alongside Ho-Oh. Both legendaries formerly resided in Ecruteak City's towers (Tin Tower and Brass Tower). After the Brass Tower burned, Lugia flew away in despair and settled in the Whirl Islands, which legend says Lugia split into four islands using lightning. [Bulbapedia: Tower duo, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Tower duo, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.\" [PokemonTCG.io: swsh4-132]",
+      "sources": ["PokemonTCG.io: swsh4-132"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Wind Pressure (4 Colorless, 250 damage) is one of the highest-damage attacks available on a Basic holo in Vivid Voltage, but with a strict conditional: if the opponent has 5 or fewer cards in hand, the attack fails entirely. This creates a hand-pressure subgame — opponents must maintain a large hand to suppress Lugia's threat. [PokemonTCG.io: swsh4-132 oracle text]",
+      "sources": ["PokemonTCG.io: swsh4-132"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ho-Oh", "set": "Burning Shadows", "note": "Tower Duo partner — Gold-version mascot, sky guardian counterpart"},
+    {"name": "Lugia V", "set": "Silver Tempest", "note": "Same character, V-rank treatment in a later Sword & Shield era set"},
+    {"name": "Lugia VSTAR", "set": "Silver Tempest", "note": "Highest-rank treatment of Lugia to date; namesake set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

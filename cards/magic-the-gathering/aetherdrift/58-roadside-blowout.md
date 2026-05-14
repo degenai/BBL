@@ -14,8 +14,8 @@ tags_hub: ["explosion", "vehicle", "racing", "wreckage", "elf", "goggles", "spee
 tags_filter: ["solo", "mid-shot", "action-mode", "faces-left", "single-figure", "blue-magic", "sorcery", "instant-or-sorcery", "bounce", "cantrip", "cost-reduction"]
 reference_image: cards/_images/magic-the-gathering/aetherdrift/58-roadside-blowout.png
 average_cost_paid: 0
-market_price: 0.07
-market_price_as_of: 2026-05-12
+market_price: 0.08
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/d/6/d6153a76-56f7-46ee-bba5-b62c0143388a.png?1738356242

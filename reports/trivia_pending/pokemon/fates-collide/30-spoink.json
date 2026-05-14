@@ -1,0 +1,41 @@
+{
+  "card_name": "Spoink",
+  "game": "Pokemon",
+  "set": "Fates Collide",
+  "collector_number": "30",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Visual match confirmed: pig-like creature with coiled spring tail and pearl on head matches National Pokedex no. 325 exactly. PokemonTCG.io API xy10-30 confirms name, types, and artist.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Spoink is a Psychic-type common in Fates Collide (XY10, May 2016). It is a Generation III (Hoenn) Pokemon making an XY-era appearance; the set draws Pokemon across multiple generations into a psychic-themed roster.",
+      "sources": ["PokemonTCG.io API: xy10-30", "WebSearch: Pokebeach Fates Collide overview"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Spoink's Ruby Pokedex entry: 'Spoink bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this Pokemon cannot afford to stop bouncing — if it stops, its heart will stop.' One of the most frequently cited examples of franchise-dark Pokedex lore: knocking out a Spoink in battle is effectively killing it, and it must bounce even during sleep.",
+      "sources": ["WebSearch: Kotaku 'Spoink Will Die If It Ever Stops Bouncing'", "WebSearch: pokemondb.net/pokedex/spoink"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It bounces around on its tail to keep its heart pumping. It carries a pearl from Clamperl on its head.\" — The pearl connects Spoink to Clamperl (National Pokedex no. 366); a larger pearl amplifies Spoink's psychic power.",
+      "sources": ["PokemonTCG.io API: xy10-30"]
+    },
+    {
+      "category": "design",
+      "text": "Art credited to TOKIYA, a Pokemon TCG illustrator active across the XY era, known for dynamic action-pose compositions.",
+      "sources": ["PokemonTCG.io API: xy10-30"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Grumpig", "set": "any", "note": "Spoink's evolution; trades spring tail for direct psychic projection"},
+    {"name": "Clamperl", "set": "any", "note": "Source of the pearl on Spoink's head per Pokedex lore"},
+    {"name": "Solosis", "set": "Fates Collide", "note": "Fellow Psychic common in the same set; embryo-in-bubble counterpart to Spoink's bouncing existentialism"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

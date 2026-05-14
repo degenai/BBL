@@ -7,7 +7,7 @@ rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
 tags_hub: ["merchant", "marketplace", "village", "peasant", "commerce", "trade", "blonde-woman", "smile", "fairy-tale", "storybook", "vendor", "stall", "cozy"]
@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "female-figure", "portrait-m
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/131-merchant-of-the-vale.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

@@ -16,7 +16,7 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "single-fig
 reference_image: cards/_images/magic-the-gathering/aetherdrift/161-elvish-refueler.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/2/5/25dfbcb6-9b67-4151-b10f-dde70c5fd16d.png?1738356499
@@ -68,4 +68,8 @@ A figure with dark curly hair shot through with purple highlights and a pair of 
 - Greenbelt Guardian (Aetherdrift) — EDHREC green synergy partner; green's piece of the exhaust shell
 - Pia Nalaar, Chief Mechanic (Aetherdrift Commander, DRC no. 2) — named lore lead of the Aether Rangers and Chandra Nalaar's mother; the legendary pit-crew foreground figure whose supporting cast includes anonymous mechanics and refuelers like this one
 - Dynamite Diver (Aetherdrift) — non-legendary Goblin Pilot supporting-cast card that saddles and crews as though power were 2 greater; same labor-tier design slot
+
+## Connections
+
+- [[aether-rangers]] — Aether Rangers roster card. MTG Wiki's Aether Rangers "Depicted in" roster lists this card; the team's canonical roster explicitly includes elves alongside humans, vedalken, dwarves, loxodons, and merfolk, and the Rangers field "several lower-division squadrons" beyond their Grand Prix line-up — the lore frame that authorizes non-legendary green pit-crew figures as canonical members. Smiling pit-bay banter (*"Anyone running low?"*) over a brass-and-copper paddock railing — the refuel slot of the team's supporting cast. `[MTG Wiki: Aether Rangers — Depicted in]`
 

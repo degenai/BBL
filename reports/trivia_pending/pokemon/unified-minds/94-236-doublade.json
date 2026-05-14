@@ -1,0 +1,40 @@
+{
+  "card_name": "Doublade",
+  "game": "Pokemon",
+  "set": "Unified Minds",
+  "collector_number": "94/236",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via PokemonTCG.io sm11-94. National Pokedex no. 680 matches. Pair of face-marked swords linked by chain is the canonical Doublade design — no other Pokemon shares this specific form.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Doublade appears in Sun & Moon — Unified Minds (2019) as no. 94/236, an Uncommon. National Pokedex no. 680, Ghost/Steel-type, introduced in Generation VI (Kalos).",
+      "sources": ["PokemonTCG.io: sm11-94"]
+    },
+    {
+      "category": "design",
+      "text": "The Honedge line (Honedge → Doublade → Aegislash) depicts progressive spirit-possession of a sword. Honedge is a single sword; Doublade is two swords coordinated telepathically after the spirit divides; Aegislash adds a shield and switches between Blade Forme (offensive) and Shield Forme (defensive) mid-battle.",
+      "sources": ["PokemonTCG.io: sm11-94"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"When Honedge evolves, it divides into two swords, which cooperate via telepathy to coordinate attacks and slash their enemies to ribbons.\"",
+      "sources": ["PokemonTCG.io: sm11-94"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Aegislash (Doublade's final evolution) was Smogon Uber-banned in Gen VI-VII due to base 150 offensive/defensive stat cycling with King's Shield. Nerfed in Gen VIII (150→140) and returned to OU tier.",
+      "sources": ["WebSearch: Smogon Aegislash", "WebSearch: Sportskeeda 'Why was Aegislash considered an Uber Pokemon'"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Honedge", "set": "various", "note": "Pre-evolution, single possessed sword"},
+    {"name": "Aegislash", "set": "various", "note": "Final evolution, former Uber-tier competitive threat"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

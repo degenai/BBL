@@ -10,12 +10,13 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+characters: ["agency"]
+tags_hub: ["library", "detective", "memory", "vision", "study", "contemplation", "mystery", "investigation", "magic", "scholar", "noir", "ghost"]
+tags_filter: ["solo", "mid-shot", "narrative", "three-quarter", "blue-magic", "enchantment-aura", "investigate"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/51-curious-inquiry.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-12
+market_price: 0.2
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/5/a/5a3603c6-92df-45c7-b402-1f0a552ea398.png?1706241588
@@ -26,6 +27,28 @@ art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/51-cur
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/a/5a3603c6-92df-45c7-b402-1f0a552ea398.jpg?1706241588
 flavor_text: Each time he replayed the attack in his mind, new details emerged.
 oracle_text: Enchant creature\nEnchanted creature gets +1/+1 and has \"Whenever this creature deals combat damage to a player, investigate.\" (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")
+mood: other
+time_of_day: night
+setting: indoor
 ---
 
 # Curious Inquiry (Murders at Karlov Manor)
+
+## Vision
+
+![51-curious-inquiry](../../_images/magic-the-gathering/murders-at-karlov-manor/51-curious-inquiry.png)
+
+A bearded male figure with dark hair leans back in a tufted red-brown armchair, legs crossed, hands clasped together, eyes closed in focused thought. Around him float blue spectral apparitions — a grasping figure, an older face, a combatant in action pose — along with glowing runic script and orbiting symbols. A stack of books sits on a side table to his left. The surrounding space is a dimly lit study or library with shelves of books and dark wood paneling. The overall mood is one of intense mental reconstruction — reviewing events or memories.
+
+**Subject:** A human man sits in a richly upholstered chair in a dark library, eyes closed in deep concentration, surrounded by glowing blue magical visions of figures and runes
+
+**Composition:** mid-shot, narrative, figures: solo, facing: three-quarter
+**Setting:** indoor, night
+**Foreground:** bearded man seated in an armchair, surrounded by floating blue visions  *(palette: blue, brown, dark navy)*
+**Background:** dark library interior with bookshelves  *(palette: dark brown, deep blue, shadow)*
+**Mood / lighting:** other, chiaroscuro
+**Emotion read:** intense inward focus, reconstructing a scene from memory
+**Objects:** armchair, books, floating runes, spectral visions
+**Iconography:** blue spectral projections, runic script
+**Genre cues:** fantasy, noir
+

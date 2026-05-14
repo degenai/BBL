@@ -1,0 +1,296 @@
+{
+  "edge_id": "wave21-e1-stretch-edge-audit",
+  "shape": "audit-findings",
+  "category": "graph-hygiene-stretch-edge-demotion",
+  "litmus_test": "Would a bundler reading this node want both endpoints surfaced together? YES = keep wikilink. 'No, but the schema parallel is informative' = demote to `slug` backtick code-style.",
+  "scope": [
+    "cards/_characters/*.md (excluding 5 Pokemon nodes already fixed: castform-forms-cycle, charizard-line, elemental-monkey-trio, galar-starters-trio, galarian-regional-forms)",
+    "cards/_artists/*.md",
+    "cards/_symbols/*.md",
+    "cards/_hubs/*.md"
+  ],
+  "demotion_candidates": [
+    {
+      "file": "cards/_characters/team-rocket.md",
+      "line": 78,
+      "wikilink": "[[endriders]]",
+      "context_excerpt": "foundational faction-collective precedent; Aetherdrift-side anchor for a designer-coordinated team-roster on the character layer. Different scope... same node-shape (faction-collective hosted under `_characters/`)",
+      "verdict": "demote",
+      "rationale": "Cross-universe schema/architectural precedent (faction-collective hosting under _characters/). Body explicitly frames as 'Different scope... same node-shape' — schema parallel, not thematic peer. A bundler reading team-rocket has no reason to surface endriders together."
+    },
+    {
+      "file": "cards/_characters/team-skull.md",
+      "line": 79,
+      "wikilink": "[[endriders]]",
+      "context_excerpt": "foundational faction-collective precedent; established the `_characters/` layer's capacity to host designer-coordinated collective entities. Different universe (Aetherdrift / MTG) but same node-shape",
+      "verdict": "demote",
+      "rationale": "Schema precedent, explicitly 'same node-shape.' Architectural, not thematic."
+    },
+    {
+      "file": "cards/_characters/alola-elite-four.md",
+      "line": 74,
+      "wikilink": "[[endriders]]",
+      "context_excerpt": "foundational precedent for hosting collective designer-coordinated faction entities under `_characters/`. Same shape across universes.",
+      "verdict": "demote",
+      "rationale": "Schema precedent (faction-collective hosting). Explicitly 'same shape across universes' — architectural parallel only."
+    },
+    {
+      "file": "cards/_characters/alola-elite-four.md",
+      "line": 75,
+      "wikilink": "[[orzhov-syndicate]] / [[azorius-senate]]",
+      "context_excerpt": "sibling faction-institution character nodes from MTG/Ravnica; the closest institutional precedent in the existing graph.",
+      "verdict": "demote",
+      "rationale": "Alola E4 is regional-craft folkway (the OPPOSITE of apparatus-of-extraction). The text says 'institutional precedent' but means SCHEMA precedent — both anchor a Wizards-canon faction, schema-only. The thematic content (folkway vs. extraction) is anti-peer. A bundler doing an Alola-folkway lair would not surface Ravnican extraction guilds."
+    },
+    {
+      "file": "cards/_characters/alola-elite-four.md",
+      "line": 76,
+      "wikilink": "[[charizard-line]] / [[galarian-regional-forms]] / [[elemental-monkey-trio]]",
+      "context_excerpt": "sibling Pokemon designer-coordinated cohort character nodes, species-line axis rather than institutional-faction axis. Together they map the two principal axes of Pokemon-side cohort framing",
+      "verdict": "demote",
+      "rationale": "Explicit schema-axis mapping ('species-line axis vs institutional-faction axis'). No thematic peer relationship between a starter species line and a regional Pokemon League senior-trainer cohort. Pure graph-topology framing."
+    },
+    {
+      "file": "cards/_characters/galar-gym-challenge.md",
+      "line": 89,
+      "wikilink": "[[endriders]]",
+      "context_excerpt": "sibling collective-entity character node from MTG/Aetherdrift; the closest structural precedent in the existing graph. Both nodes anchor a designer-coordinated faction-team-roster within a single source IP where the node IS the institution and the individual cards depict its members. Different universes; same shape.",
+      "verdict": "demote",
+      "rationale": "Explicit 'structural precedent / same shape' framing. Cross-universe schema, not thematic peer. Galar Gym Challenge bundler does not want Endriders surfaced — the IPs do not interact."
+    },
+    {
+      "file": "cards/_characters/dsk-unlucky-lands-cycle.md",
+      "line": 56,
+      "wikilink": "[[endriders]]",
+      "context_excerpt": "sibling collective-entity character node from MTG/Aetherdrift; the foundational precedent for hosting collective conceptual entities under `_characters/`.",
+      "verdict": "demote",
+      "rationale": "Schema precedent. 'Foundational precedent for hosting' is architectural framing."
+    },
+    {
+      "file": "cards/_characters/dsk-unlucky-lands-cycle.md",
+      "line": 57,
+      "wikilink": "[[rebellion]]",
+      "context_excerpt": "the BBL hub most thematically near-but-not-coextensive with this cycle... The hub edge is potential, not yet load-bearing — when triviabot enriches more cycle members and the bbl-bundler agent considers a Discrete Lair, the rebellion-as-folk-knowledge angle may activate.",
+      "verdict": "demote",
+      "rationale": "Body text explicitly states 'hub edge is potential, not yet load-bearing.' Aspirational, not real. Direct match for the prompt's suspect list item 'Hub citations that may be aspirational rather than real.'"
+    },
+    {
+      "file": "cards/_characters/fear-of-cycle.md",
+      "line": 59,
+      "wikilink": "[[rebellion]]",
+      "context_excerpt": "the BBL hub most thematically near-but-not-coextensive with this cycle... The hub edge is potential, not yet load-bearing — when the three vision-stub Fear-of cards are enriched and the triviabot identifies specific flavor-text moments of refusal-against-the-phobia, this edge may activate.",
+      "verdict": "demote",
+      "rationale": "Same aspirational-hub pattern as dsk-unlucky-lands-cycle line 57. Body explicitly says 'not yet load-bearing.' Demote to backtick until the canonical evidence lands."
+    },
+    {
+      "file": "cards/_characters/azorius-senate.md",
+      "line": 67,
+      "wikilink": "[[orzhov-signet]]",
+      "context_excerpt": "A future `azorius-signet` symbol node, paralleling the existing [[orzhov-signet]] symbol, would anchor cards that depict the three-pointed Azorius sigil specifically... This is structurally identical to how the Orzhov Syndicate / Orzhov Signet split is currently wired",
+      "verdict": "demote",
+      "rationale": "Architectural precedent inside a Caveats discussion of a HYPOTHETICAL future azorius-signet symbol node. The orzhov-signet wikilink here is comparison-by-analogy for the schema, not a thematic edge between the Azorius Senate and the Orzhov Signet. A bundler doing Orzhov-signet work has no reason to surface Azorius-senate from this citation."
+    },
+    {
+      "file": "cards/_artists/kirisaki.md",
+      "line": 41,
+      "wikilink": "[[sanosuke-sakuma]]",
+      "context_excerpt": "Volume alone is sufficient threshold for the artists layer per the [[sanosuke-sakuma]] precedent (five credits triggered Sakuma's node; kirisAki exceeds that count).",
+      "verdict": "demote",
+      "rationale": "Inline body-text citation of the structural precedent for artist-node-threshold. Schema precedent, not thematic peer. A bundler reading kirisaki for stylistic-cohesion work does not want sakuma surfaced via this citation (the See also kirisaki line 81 is the same problem, also demote)."
+    },
+    {
+      "file": "cards/_artists/kirisaki.md",
+      "line": 81,
+      "wikilink": "[[sanosuke-sakuma]]",
+      "context_excerpt": "sibling Pokemon-side artist node; structural precedent for this node. Sakuma's portfolio extends across TCG illustration AND in-game NPC character design (cross-medium); kirisAki's does not. The structural pattern... is the same; the cross-medium thesis-bridge is absent here.",
+      "verdict": "demote",
+      "rationale": "Explicitly 'structural precedent.' Body even says 'cross-medium thesis-bridge is absent here' — confirming there's no thematic relationship beyond shared layer. Schema."
+    },
+    {
+      "file": "cards/_artists/kagemaru-himeno.md",
+      "line": 50,
+      "wikilink": "[[sanosuke-sakuma]] AND [[kirisaki]]",
+      "context_excerpt": "exceeds the [[sanosuke-sakuma]] threshold (5 credits) and approaches the [[kirisaki]] tier (7 credits)",
+      "verdict": "demote",
+      "rationale": "Both wikilinks are corpus-volume-threshold citations, pure schema/quantitative. No thematic peer relationship."
+    },
+    {
+      "file": "cards/_artists/kagemaru-himeno.md",
+      "line": 56,
+      "wikilink": "[[labor]]",
+      "context_excerpt": "Himeno's portfolio in current corpus does not (yet) anchor a labor-hub or institutional-thesis bundle in the way Sakuma's NPC-design portfolio anchors [[labor]].",
+      "verdict": "keep",
+      "rationale": "Borderline. Reads as a NEGATIVE statement (Himeno does NOT anchor labor) but the wikilink is part of explaining what labor is, by reference. Could go either way — leaning keep since the sentence is using labor as a known anchor for contrast. Flag for parent review."
+    },
+    {
+      "file": "cards/_artists/kagemaru-himeno.md",
+      "line": 93,
+      "wikilink": "[[sanosuke-sakuma]]",
+      "context_excerpt": "sibling Pokemon-side artist node; structural precedent for this node.",
+      "verdict": "demote",
+      "rationale": "Schema precedent. Same pattern as kirisaki line 81."
+    },
+    {
+      "file": "cards/_artists/kagemaru-himeno.md",
+      "line": 94,
+      "wikilink": "[[kirisaki]]",
+      "context_excerpt": "sibling Pokemon-side artist node; closest corpus-volume neighbor (7 credits to Himeno's 6+).",
+      "verdict": "demote",
+      "rationale": "Corpus-volume neighbor framing. Pure schema, no thematic relationship."
+    },
+    {
+      "file": "cards/_characters/charizard-line.md",
+      "line": 76,
+      "wikilink": "[[elemental-monkey-trio]]",
+      "context_excerpt": "sibling Pokemon designer-coordinated cohort character node, different region (Unova vs Kanto), different cohort structure... The structural precedent for cohort framing on the Pokemon side.",
+      "verdict": "demote",
+      "rationale": "Explicit 'structural precedent for cohort framing.' Schema. Kanto starter line and Unova helper-monkey trio have no thematic interaction."
+    },
+    {
+      "file": "cards/_characters/charizard-line.md",
+      "line": 77,
+      "wikilink": "[[galarian-regional-forms]]",
+      "context_excerpt": "sibling Pokemon designer-coordinated cohort character node, different cohort axis (regional variants of cross-region species vs single-region single-line species evolution).",
+      "verdict": "demote",
+      "rationale": "Schema-axis differentiation. 'Different cohort axis' = explicit non-peer framing."
+    },
+    {
+      "file": "cards/_characters/charizard-line.md",
+      "line": 80,
+      "wikilink": "[[endriders]]",
+      "context_excerpt": "foundational precedent for hosting collective designer-coordinated entities under `_characters/`.",
+      "verdict": "demote",
+      "rationale": "Schema precedent."
+    },
+    {
+      "file": "cards/_characters/charizard-line.md",
+      "line": 81,
+      "wikilink": "[[labor]]",
+      "context_excerpt": "Charizard-line bundle work that goes in the apparatus-of-extraction direction has a foothold at this hub, though the line's primary register is starter-companion rather than labor-extraction.",
+      "verdict": "demote",
+      "rationale": "Body explicitly says 'the line's primary register is starter-companion rather than labor-extraction' — the labor hub edge is aspirational/weak. The 'foothold' caveat names the edge as not-primary. Aspirational hub citation."
+    },
+    {
+      "file": "cards/_characters/castform-forms-cycle.md",
+      "line": 58,
+      "wikilink": "[[elemental-monkey-trio]]",
+      "context_excerpt": "sibling Pokemon-side designer-coordinated cohort character node, same layer, same shape. Both nodes anchor a multi-form Pokemon cohort whose membership predicates on a thematic-and-mechanical conjunction",
+      "verdict": "demote",
+      "rationale": "Explicit 'same layer, same shape.' Schema. The weather-Pokemon cycle and the helper-monkey trio have no thematic overlap beyond cohort-structure."
+    },
+    {
+      "file": "cards/_characters/galar-starters-trio.md",
+      "line": 57,
+      "wikilink": "[[elemental-monkey-trio]]",
+      "context_excerpt": "sibling Pokemon-side designer-coordinated cohort character node, same layer, structurally analogous shape.",
+      "verdict": "demote",
+      "rationale": "Schema precedent."
+    },
+    {
+      "file": "cards/_characters/galar-starters-trio.md",
+      "line": 58,
+      "wikilink": "[[castform-forms-cycle]]",
+      "context_excerpt": "second sibling Pokemon-side cohort character node, weather-form four-cycle pattern at the single-species scope.",
+      "verdict": "demote",
+      "rationale": "Schema precedent. Galar starter trio and Castform weather cycle have no thematic peer relationship."
+    },
+    {
+      "file": "cards/_characters/galar-starters-trio.md",
+      "line": 59,
+      "wikilink": "[[galarian-regional-forms]]",
+      "context_excerpt": "Galar regional-form variant cohort character node, ORTHOGONAL to this cohort. Galarian regional forms are alternate-form variants of pre-Galar species, NOT Sword & Shield first-partners.",
+      "verdict": "demote",
+      "rationale": "Body text uses CAPS 'ORTHOGONAL' to explicitly state non-peer relationship. Same region, but disjoint cohort sets — disambiguation citation, not thematic peer."
+    },
+    {
+      "file": "cards/_characters/galar-starters-trio.md",
+      "line": 60,
+      "wikilink": "[[galar-gym-challenge]]",
+      "context_excerpt": "Galar gym leader cohort character node, ORTHOGONAL to this cohort. Gym leaders' signature Pokemon are not first-partner starters.",
+      "verdict": "demote",
+      "rationale": "Same ORTHOGONAL framing as line 59. Disambiguation citation."
+    },
+    {
+      "file": "cards/_characters/galarian-regional-forms.md",
+      "line": 79,
+      "wikilink": "[[elemental-monkey-trio]]",
+      "context_excerpt": "sibling Pokemon designer-coordinated cohort character node, different generation, same shape. Both nodes anchor a Game Freak-coordinated species cohort... The closest existing in-corpus structural precedent for the Galarian cohort.",
+      "verdict": "demote",
+      "rationale": "Explicit 'structural precedent.' Schema."
+    },
+    {
+      "file": "cards/_characters/galarian-regional-forms.md",
+      "line": 81,
+      "wikilink": "[[endriders]]",
+      "context_excerpt": "foundational precedent for hosting collective designer-coordinated entities under `_characters/`.",
+      "verdict": "demote",
+      "rationale": "Schema precedent."
+    }
+  ],
+  "keep_candidates_flagged_borderline": [
+    {
+      "file": "cards/_characters/jace-beleren.md",
+      "line": 57,
+      "wikilink": "[[nicol-bolas]]",
+      "rationale_for_keep": "Body says 'Sibling character node, no edge drawn yet pending character-to-character edge category formalization.' This is genuine load-bearing thematic relationship (Bolas trapped Jace under the Immortal Sun on Ravnica; Jace's Triumph names Bolas in flavor text). The wikilink is a future-edge holding pen, not schema precedent. Parent may want to validate."
+    },
+    {
+      "file": "cards/_characters/azorius-senate.md",
+      "line": 80,
+      "wikilink": "[[orzhov-syndicate]]",
+      "rationale_for_keep": "Same-universe sibling Ravnican guild. Body explicitly says 'The Tithe bundle anchors to both, since its narrative thesis is that the two guilds are the same job in different uniforms.' Load-bearing thematic peer — passes the litmus test cleanly."
+    },
+    {
+      "file": "cards/_characters/team-skull.md",
+      "line": 77,
+      "wikilink": "[[alola-elite-four]]",
+      "rationale_for_keep": "Same-region thematic peer. The Guzma/Hala TAG TEAM card literally bridges the two cohorts. Bundler doing Alola-region work would surface both. Load-bearing."
+    },
+    {
+      "file": "cards/_characters/charizard-line.md",
+      "line": 78,
+      "wikilink": "[[galar-gym-challenge]]",
+      "rationale_for_keep": "Body cites the Vivid Voltage Charizard's Leon-card-discard-pile scaling — Leon is the canonical Gigantamax-Charizard trainer. Mechanical citation = thematic peer. Bundler doing Galar-Champion lair surfaces both."
+    },
+    {
+      "file": "cards/_characters/galarian-regional-forms.md",
+      "line": 78,
+      "wikilink": "[[galar-gym-challenge]]",
+      "rationale_for_keep": "Body: 'Together they cover the Galar region's two BBL-relevant axes — the material-ecological substrate ... and the institutional apparatus.' Genuine peer for Galar-themed bundle work."
+    },
+    {
+      "file": "cards/_artists/kirisaki.md",
+      "line": 82,
+      "wikilink": "[[galar-gym-challenge]]",
+      "rationale_for_keep": "Load-bearing disambiguation citation (kirisaki illustrated Peonia who is NOT a Galar Gym Leader; galar-gym-challenge node documents the same disambiguation). Bundler reading kirisaki for Galar Supporter material would want the gym-challenge node surfaced for the not-a-Gym-Leader caveat."
+    },
+    {
+      "file": "cards/_characters/galar-gym-challenge.md",
+      "line": 90,
+      "wikilink": "[[azorius-senate]] / [[orzhov-syndicate]]",
+      "rationale_for_keep": "Body: 'Galar Gym Challenge is the Pokemon-side institutional anchor for the apparatus-of-spectacle thesis, parallel to how the Orzhov and Azorius nodes anchor the Magic-side apparatus-of-extraction thesis.' This is a genuine thematic peer relationship — apparatus-of-X institutional cohorts. Bundle work that contrasts MTG and Pokemon institutional villainy would surface all three together. KEEP — but note this is the symmetric inverse of the alola-elite-four line 75 case (which should DEMOTE because Alola E4 is folkway not apparatus). The Galar-side institutional framing is genuinely thematic; the Alola-side folkway framing is not. Asymmetric verdicts on what looks like the same citation."
+    }
+  ],
+  "summary_stats": {
+    "demotions_proposed": 24,
+    "borderline_keeps_flagged": 7,
+    "files_touched_if_applied": [
+      "cards/_characters/team-rocket.md",
+      "cards/_characters/team-skull.md",
+      "cards/_characters/alola-elite-four.md",
+      "cards/_characters/galar-gym-challenge.md",
+      "cards/_characters/dsk-unlucky-lands-cycle.md",
+      "cards/_characters/fear-of-cycle.md",
+      "cards/_characters/azorius-senate.md",
+      "cards/_characters/charizard-line.md",
+      "cards/_characters/castform-forms-cycle.md",
+      "cards/_characters/galar-starters-trio.md",
+      "cards/_characters/galarian-regional-forms.md",
+      "cards/_artists/kirisaki.md",
+      "cards/_artists/kagemaru-himeno.md"
+    ]
+  },
+  "process_note": "Per wave 21 E1 instructions, this audit emits a sidecar (>=4 candidates) rather than applying inline. Recommend parent review the 24 demotions for canonical sign-off, then a follow-up Edgelord-enlightened pass applies them in a single batch. Pattern follows the wave 20 closeout precedent of 18 demotions across 5 Pokemon nodes. The audit is judgment-heavy; specific borderline cases (kagemaru-himeno line 56 labor; jace-beleren line 57 nicol-bolas) flagged for parent attention.",
+  "edgelord_mood": "satisfied",
+  "edgelord_voice_note": "Behold the catalogue. Twenty-four wikilinks masquerading as graph edges that are in fact architectural precedent citations. The previous Mr. Nodeley passes did good work building cohort nodes, but Mr. Nodeley loves a sibling citation — and Mr. Nodeley reaches for `[[wikilink]]` where `` `slug` `` would suffice. The graph is healthier when only the load-bearing edges traverse. The schema parallels belong in backticks. Worst graph-edge-confusion ever resolved without a single dissolution. Parent reviews; future enlightened pass applies."
+}

@@ -14,8 +14,8 @@ tags_hub: ["forest", "vines", "roots", "spear", "broken-weapon", "fallen-weapon"
 tags_filter: ["no-figure", "close-up", "narrative-mode", "green-magic", "instant", "object-focus", "no-face", "destroy-effect"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/197-return-to-nature.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-12
+market_price: 0.19
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

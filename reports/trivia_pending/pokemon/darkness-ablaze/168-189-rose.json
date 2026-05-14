@@ -1,0 +1,41 @@
+{
+  "card_name": "Rose",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "168/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, Supporter subtype, Yusuke Ohmura art, and oracle text (attaching Energy to VMAX) all match the canonical Chairman Rose Supporter from Darkness Ablaze swsh3-168 per PokemonTCG.io. The depicted figure — suited man at a Galar stadium — matches Rose's game appearance. Bulbapedia and multiple sources confirm Rose is the Galar Pokemon League chairman and Macro Cosmos president.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Darkness Ablaze (SWSH03) is the third Sword & Shield era expansion, released August 14, 2020. The set is centered on VMAX Gigantamax forms and draws heavily from the Sword & Shield main story, making Rose's Supporter inclusion a direct narrative tie-in to the game's central antagonist. [PokemonTCG.io: swsh3-168; WebSearch: Bulbapedia Darkness Ablaze]",
+      "sources": ["PokemonTCG.io API", "Bulbapedia via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Chairman Rose is the founder and president of Macro Cosmos, the largest conglomerate in the Galar region, and serves simultaneously as chairman of the Galar Pokemon League. He personally sponsored both Leon's original championship run and Bede's Gym Challenge entry. His plan to summon Eternatus — an alien Pokemon whose energy disaster event (the Darkest Day) nearly destroyed Galar 3,000 years prior — constitutes the main-story climax of Pokemon Sword & Shield. [WebSearch: Bulbapedia/Rose; Villains Wiki/Chairman Rose]",
+      "sources": ["Bulbapedia via WebSearch", "Villains Wiki via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "No flavor text printed on this card. Oracle text reads: 'Attach up to 2 basic Energy cards from your discard pile to 1 of your Pokemon VMAX. If you attached any Energy cards in this way, discard your hand.' The effect mechanically mirrors Rose's role as an energy-industry magnate who sacrifices his political standing to fuel his plan. [PokemonTCG.io API]",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Rose's closest ally is Oleana, Macro Cosmos Vice President and his personal secretary, who recruits Macro Cosmos's league staff and attempts to block the player from reaching Rose in Rose Tower during the game's final act. After Rose surrenders himself to authorities at the game's conclusion, Oleana continues voluntary service on his behalf. [WebSearch: Bulbapedia/Oleana; Pokemon Wiki/Oleana]",
+      "sources": ["Bulbapedia via WebSearch", "Pokemon Fandom Wiki via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rose Tower", "set": "Darkness Ablaze", "note": "Macro Cosmos HQ Stadium card in the same set — architectural counterpart to this Supporter"},
+    {"name": "Oleana", "set": "Darkness Ablaze", "note": "Rose's VP/secretary, co-antagonist, also has a Supporter card in DAA"},
+    {"name": "Eternatus", "set": "multiple", "note": "The alien Pokemon Rose attempts to weaponize in the SwSh main story"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

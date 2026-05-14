@@ -14,8 +14,8 @@ tags_hub: ["hands", "map", "ring", "fellowship", "planning", "navigation", "coun
 tags_filter: ["no-face", "group", "close-up", "overhead-shot", "scene-mode", "artifact", "colorless-magic", "multiple-figures-implied"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/340-sisay-s-ring.png
 average_cost_paid: 0
-market_price: 0.14
-market_price_as_of: 2026-05-12
+market_price: 0.13
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

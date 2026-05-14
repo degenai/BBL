@@ -1,0 +1,25 @@
+{
+  "edge_id": "tauros-daa--tauros-teu-cross-print-mirror",
+  "shape": "1:1",
+  "category": "named-character-identity",
+  "topology": "mirror",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/134-189-tauros.md", "name": "Tauros (Darkness Ablaze 134/189)"},
+    {"type": "card", "path": "cards/pokemon/team-up/129-tauros.md", "name": "Tauros (Team Up 129)"}
+  ],
+  "description": "Cross-print 1:1 mirror of the same species (Tauros, Kanto #128) across two consecutive-era TCG sets (Team Up SM9, Darkness Ablaze SWSH3). Both quote the canonical Pokedex flavor text verbatim, both depict the dynamic-charging-with-three-tails pose on rocky mountain terrain — the designer-coordinated cross-set continuity signature of a species-anchor depiction. Cleanest standard option this pass; refused the Cubone+Yveltal speculative cluster and the premature solo-node candidates (Sonia, Ingo+Emmet, Voltorb, Alcremie-cycle).",
+  "citations": ["[Bulbapedia: Tauros]", "[PokemonTCG.io: swsh3-134]", "[PokemonTCG.io: sm9-129]"],
+  "files_modified": [
+    "cards/pokemon/darkness-ablaze/134-189-tauros.md",
+    "cards/pokemon/team-up/129-tauros.md"
+  ],
+  "other_candidates_considered": [
+    "Cubone + Yveltal death-and-grief speculative cluster — REFUSED, thematic-vibe-not-canonical-edge.",
+    "Sonia solo node — DEFERRED, single corpus card below threshold.",
+    "Ingo + Emmet TAG TEAM solo split — DEFERRED, no solo prints in corpus to trigger the parallel-to-Mallow node-promotion pattern.",
+    "Voltorb / Pokedex-100 / tsukumogami thematic node — DEFERRED, single corpus card below threshold.",
+    "Alcremie forms-cycle node — DEFERRED, only Milcery in corpus, no Alcremie variants yet.",
+    "macro-cosmos <-> aether-foundation related_characters audit — both nodes already cross-edged from wave 24 + wave 28 commissioning, no sync drift detected."
+  ],
+  "edgelord_mood": "sighed-but-mirrored"
+}

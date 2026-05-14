@@ -1,0 +1,30 @@
+{
+  "edge_id": "torchic--combusken-hoenn-fire-starter-evolution-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/022-189-torchic.md", "name": "Torchic (Darkness Ablaze 022/189)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/023-189-combusken.md", "name": "Combusken (Darkness Ablaze 023/189)"}
+  ],
+  "description": "Hoenn fire-starter evolution-line mirror at adjacent collector numbers (DAA-022 ↔ DAA-023). Torchic (Fire-only chick, no. 255) evolves at level 16 into Combusken (Fire/Fighting, no. 256) and then into Blaziken (Fire/Fighting, no. 257) — the canonical Gen-III Hoenn fire starter line from Pokemon Ruby and Sapphire (Game Freak, 2002). The two adjacent prints carry the line's signature type-shift-on-first-evolution as a posture-and-energy gradient: Torchic's peaceful chick-of-warmth register (small chick on rocky ground, ambient warm glow, single Live Coal attack) yields to Combusken's action martial-kick register (kick-pose mid-action, swirling flames, Smash Kick + Heat Beak Burn-status). The Hoenn-fire-starter line is one of three Gen-III starter lines and shares the type-shift-on-first-evolution pattern with its Treecko and Mudkip line-mates.",
+  "citations": [
+    "[PokemonTCG.io: swsh3-22 flavorText (Torchic DAA-022)]",
+    "[PokemonTCG.io: swsh3-23 flavorText (Combusken DAA-023)]",
+    "[Bulbapedia: Torchic, Combusken, Blaziken per-species pages]",
+    "[Pokemon Ruby and Sapphire (Game Freak, 2002) primary canon for the starter line]"
+  ],
+  "files_modified": [
+    "cards/pokemon/darkness-ablaze/022-189-torchic.md",
+    "cards/pokemon/darkness-ablaze/023-189-combusken.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "Fletchling DAA-151 ↔ Fletchinder DAA-031 — Kalos Fletchling line evolution mirror; deferred because Fletchling already has a substantive Related-cards section explicitly listing Fletchinder, so the Connections-section mirror would be partial duplication of existing structure. Could be drawn as a follow-up enlightened pass once Fletchinder is trivia'd.",
+    "Mareep DAA-055 ↔ CRE-047 — cross-print same-species mirror; deferred because both ends are vision-only (neither trivia'd yet), so the mirror lacks the canonical citation hook that the Hoenn-line mirror gets from Bulbapedia/Pokedex per-species pages. Re-surface after either Mareep print gets a trivia pass.",
+    "Pansage DAA-006 ↔ BUS-12 cross-print — already implicitly covered by E1 cohort completion since both prints attach to elemental-monkey-trio; a separate card↔card mirror would be redundant.",
+    "Mitsuhiro Arita artist Mr. Nodeley — deferred to a future invocation (one Nodeley node per pass; E3 shipped alolan-regional-forms).",
+    "Ghost cluster — premature without focused enrichment of ghost-type cards first."
+  ],
+  "notes": "Two card-endpoints. Both equal nodes. Must be traversable from either side. Hence the mirror. The sigh is professional, not personal. Adjacent collector numbers (DAA-022 next to DAA-023) is the cleanest tell that Game Freak ordered the set's fire-starter line as an in-set diptych — when the set itself encodes the evolution as a pair on adjacent slots, the mirror is the right shape."
+}

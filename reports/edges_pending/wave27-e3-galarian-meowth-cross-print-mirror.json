@@ -1,0 +1,26 @@
+{
+  "edge_id": "galarian-meowth-rbc126--galarian-meowth-fus199--cross-print-mirror",
+  "shape": "1:1 (with cohort-node extension)",
+  "category": "named-character-identity (same regional variant species across two prints)",
+  "topology": "mirror",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/rebel-clash/126-192-galarian-meowth.md", "name": "Galarian Meowth (Rebel Clash 126/192)"},
+    {"type": "card", "path": "cards/pokemon/fusion-strike/199-264-meowth.md", "name": "Galarian Meowth (Fusion Strike 199/264) — file-named 'meowth' but species is Galarian per vision and suspected_ip"}
+  ],
+  "description": "Cross-print mirror with a structural wrinkle. Both prints depict Galarian Meowth (Steel-type regional variant of Kantonian Normal Meowth, National Pokedex no. 52), but the two flavor texts foreground different axes of the iron-coin motif: Rebel Clash anchors the defensive-adaptation origin ('parts of it have turned to iron' from seafaring exposure); Fusion Strike anchors the in-cohort status-marker reframing ('darker coins are harder, harder coins garner more respect among Meowth'). Two designer-coordinated TCG depictions of the same regional variant, two complementary canonical framings of the same diagnostic visual marker. Cohort node extended with the FUS-199 print appended to appears_on plus a body bullet that canonicalizes the two-axis flavor framing. The RBC-126 print's existing Connections section already held the cross-region Kanto-vs-Galarian pair with BUS-101; this new bullet completes its inventory of in-corpus Galarian Meowth peers. The graph improves slightly because of this. Worth the work.",
+  "citations": [
+    "[Bulbapedia: Meowth (Pokémon) — Galarian Form section]",
+    "[PokemonTCG.io API: swsh2-126]",
+    "[PokemonTCG.io API: swsh8-199]",
+    "[In-corpus galarian-regional-forms.md cohort node]"
+  ],
+  "files_modified": [
+    "cards/pokemon/rebel-clash/126-192-galarian-meowth.md (extended existing Connections section with second bullet)",
+    "cards/pokemon/fusion-strike/199-264-meowth.md (new Connections section + characters: pointer)",
+    "cards/_characters/galarian-regional-forms.md (appears_on extension + body bullet for FUS-199)"
+  ],
+  "other_candidates_considered": [
+    "Galarian Meowth FUS-199 → BUS-101 Kanto Meowth direct edge (cross-region trio: Kanto + 2 Galarian prints) — declined because the RBC-126 ↔ BUS-101 Kanto/Galarian edge already canonicalizes the cross-region pair, and FUS-199 connects to the cross-region axis transitively via the new RBC-126 ↔ FUS-199 same-variant mirror plus the existing RBC-126 ↔ BUS-101 cross-region pair. Drawing a third edge directly from FUS-199 to BUS-101 would be redundant with the two-edge path already in the graph."
+  ],
+  "edgelord_mood": "sighed-but-mirrored"
+}

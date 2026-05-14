@@ -1,0 +1,42 @@
+{
+  "card_name": "Alolan Grimer",
+  "game": "Pokemon",
+  "set": "Cosmic Eclipse",
+  "collector_number": "130/236",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Alolan Grimer'; depicted figure (green-yellow sludge creature with crystalline teeth in a refuse/industrial setting) matches the canonical Alolan regional form of Grimer, a Poison/Dark-type introduced in Generation VII. Verified via card name, PokemonTCG.io metadata, Bulbapedia: Grimer (Pokemon) Alolan Form section, and flavor text cross-reference.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Alolan Grimer (National Pokedex no. 88, Alolan Form) is a Poison/Dark-type regional variant introduced in Generation VII. The Alolan government deliberately brought Grimer to Alola specifically to address urban garbage problems; populations of approximately 100 Alolan Grimer are maintained near waste-disposal sites as a recognized sanitation service. [Bulbapedia: Grimer (Pokemon) — Alolan Form; via WebSearch]",
+      "sources": ["Bulbapedia: Grimer (via WebSearch)", "WebSearch snippet via Grimer ecology"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text on this card: \"There are a hundred or so of them living in Alola's waste-disposal site. They're all hard workers who eat a lot of trash.\" Directly confirms the state-sanctioned sanitation-labor role encoded in the species' Alola design. [PokemonTCG.io: sm12-130 flavorText; frontmatter capture]",
+      "sources": ["PokemonTCG.io: sm12-130 (frontmatter capture)"]
+    },
+    {
+      "category": "design",
+      "text": "The Alolan form's green-yellow coloration (versus Kanto Grimer's purple) results from consuming solid garbage rather than sludge or wastewater; the crystalline white 'teeth' are toxins crystallized from the garbage it eats, which cannot be broken down. The form may be visually inspired by oil slicks — the rainbow sheen of oil on water — referencing the Hawaiian marine environment Alola is modeled on. [Bulbapedia: Grimer (Alolan Form design section); via WebSearch]",
+      "sources": ["Bulbapedia: Grimer (via WebSearch)", "WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Ecological contrast with Kanto Grimer: Kanto Grimer feeds on factory wastewater and faces extinction as industrial cleanup improves; Alolan Grimer was institutionally introduced to consume solid urban garbage. The same species (National Pokedex no. 88) encodes opposite ecological relationships to environmental remediation across its two regional forms. The Connections section of this card's MD documents the 1:N mirror to corpus Kanto Grimer prints (DAA-100, BRS-084). [Bulbapedia: Grimer; wave 20 E3 research; PokemonTCG.io flavor text fields sm12-130 vs swsh3-100 / swsh9-84]",
+      "sources": ["Bulbapedia: Grimer (via WebSearch)", "Wave 20 E3 card Connections section"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Grimer", "set": "Darkness Ablaze (DAA-100)", "note": "Kanto form; regional-variant mirror; opposite ecological niche"},
+    {"name": "Grimer", "set": "Brilliant Stars (BRS-084)", "note": "Second corpus Kanto Grimer; same regional-variant mirror"},
+    {"name": "Alolan Muk", "set": "Various", "note": "Alolan Grimer's evolution; Poison/Dark type"},
+    {"name": "Trubbish", "set": "Various", "note": "Alolan Grimer preys on Trubbish in Alola, reducing their population — an unintended ecological consequence of the waste-disposal program"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

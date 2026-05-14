@@ -1,0 +1,41 @@
+{
+  "card_name": "Pangoro",
+  "game": "Pokemon",
+  "set": "Cosmic Eclipse",
+  "collector_number": "120/236",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Pangoro'; depicted figure (large dark-grey panda creature with white face markings, leaf in mouth, powerful build, rocky setting) matches the canonical Fighting/Dark Gen 6 Pokemon, National Pokedex no. 675. Verified via card name, PokemonTCG.io metadata, Bulbapedia: Pangoro, and flavor text cross-reference.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Pangoro is National Pokedex no. 675, a Fighting/Dark-type introduced in Generation VI (X/Y, 2013). It is Pancham's evolution and gains the Dark type at evolution — the game explicitly frames this as a 'bad influence' from the Dark-type party member required to trigger the evolution. [Bulbapedia: Pangoro; Pokemondb.net; via WebSearch]",
+      "sources": ["Bulbapedia: Pangoro (via WebSearch)", "Pokemondb.net (via WebSearch)"]
+    },
+    {
+      "category": "design",
+      "text": "The bamboo shoot Pangoro perpetually holds in its mouth is functional: it detects minute vibrations and movements from opponents through the leaf's sensitivity, giving Pangoro a sensory edge in combat. The design draws from bancho — Japanese juvenile-delinquent gang leaders — combined with giant panda aesthetics and traditional Chinese/Japanese bamboo symbolism. [Bulbapedia: Pangoro design section; WebSearch snippet]",
+      "sources": ["Bulbapedia: Pangoro (via WebSearch)", "WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text on this card: \"This rowdy Pokemon boasts great physical strength. Many Trainers are also smitten by its lively character.\" A tonal contrast to its intimidating bulk — Pangoro is described as having a 'lively character' that attracts fans despite its aggressive reputation. [PokemonTCG.io: sm12-120 flavorText; frontmatter capture]",
+      "sources": ["PokemonTCG.io: sm12-120 (frontmatter capture)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Pangoro on this card has two attacks: Light Punch (40 for 1 Colorless) and Magnum Punch (90 for 3 Colorless). The straightforward Fighting-archetype moveset is consistent with its in-game role as a physical attacker — base Attack of 124 made Pangoro a notable physical threat in Gen 6 competitive play. [PokemonTCG.io: sm12-120 oracle_text; frontmatter capture; WebSearch re: Pangoro competitive Gen 6]",
+      "sources": ["PokemonTCG.io: sm12-120 (frontmatter capture)", "Serebii.net Pokedex 675 (via WebSearch)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pancham", "set": "Cosmic Eclipse (119/236)", "note": "Pre-evolution; same set; henchman-to-boss dynamic encoded in flavor text"},
+    {"name": "Pangoro", "set": "Various earlier sets", "note": "Prior Pangoro prints; compare art and attack structure"},
+    {"name": "Scrafty", "set": "Various", "note": "Fellow bancho-archetype Dark/Fighting delinquent Pokemon; Gen 5 counterpart"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

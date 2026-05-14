@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "male-figure", "action-mode"
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/185-angrath-s-rampage.png
 average_cost_paid: 0
 market_price: 0.27
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-05
 last_seen: 2026-05-12
 art_match_confidence: high
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/f/5/f5a39379-731
 mood: action
 time_of_day: indeterminate
 setting: other
+suspected_ip: Angrath
+ip_confidence: high
+ip_verified: true
+characters: ["angrath"]
 artist: Victor Adame Minguez
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/185-angrath-s-rampage--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/5/f5a39379-7313-463a-9a02-e5157b9557f4.jpg?1557577065

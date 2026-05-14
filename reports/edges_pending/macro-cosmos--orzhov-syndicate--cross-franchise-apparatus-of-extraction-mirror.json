@@ -1,0 +1,41 @@
+{
+  "edge_id": "macro-cosmos--orzhov-syndicate--cross-franchise-apparatus-of-extraction-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "category_note": "Cross-franchise faction-collective related_characters mirror at the apparatus-of-extraction thesis axis. Both nodes are designer-coordinated institutional apparatuses whose extraction-of-value-from-Pokemon-or-people IS the BBL-relevant thesis (per the macro-cosmos.md See also section already declaring the relationship in node body but missing from the related_characters frontmatter; sync drift between body and frontmatter, fixed both ways). Closest enum match is designer-confirmed-cycle at the cross-universe-apparatus scope.",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/macro-cosmos.md", "name": "Macro Cosmos"},
+    {"type": "character", "path": "cards/_characters/orzhov-syndicate.md", "name": "Orzhov Syndicate"}
+  ],
+  "description": "Sync drift between body and frontmatter — the strongest kind of Edgelord move. The macro-cosmos.md See also section already declares orzhov-syndicate as the cross-universe corporate-or-criminal-adjacent faction-collective sibling at the apparatus-of-extraction axis ('Orzhov is the religious-aristocratic register of the same shape; Macro Cosmos is the corporate-secular register'), but the macro-cosmos.md related_characters frontmatter list was missing orzhov-syndicate. And orzhov-syndicate.md had no related_characters field at all. The body said the connection was canonical; the frontmatter said it didn't exist. Fixing both directions closes the body-vs-frontmatter contradiction and lets the wikilintbot / future bundler traverse the cross-franchise apparatus-of-extraction edge from either end. Edgelord with CBG energy: this is the worst kind of edge — the kind that was supposed to already exist. The node body had it. The graph schema didn't. Two fields edited, both directions, one atomic move. The apparatus-of-extraction axis is now wired across franchises in the related_characters layer, exactly as the macro-cosmos.md node body has been declaring since its wave 24 commission.",
+  "citations": [
+    "[Corpus: cards/_characters/macro-cosmos.md See also section — orzhov-syndicate cross-universe sibling declaration: 'Orzhov is the religious-aristocratic register of the same shape; Macro Cosmos is the corporate-secular register']",
+    "[Corpus: cards/_characters/macro-cosmos.md What this node anchors section — 'Structurally this is the Pokemon-side parallel to the Magic-side [[orzhov-syndicate]] node (apparatus-of-extraction in religious-aristocratic register)']",
+    "[Corpus: cards/_characters/orzhov-syndicate.md The functional ideology section — apparatus-of-extraction-as-religion designer-confirmed institutional thesis]",
+    "[MTG Wiki: Orzhov Syndicate]",
+    "[Bulbapedia: Macro Cosmos]",
+    "[BBL memory note: bbl-orzhov-eclipsed-sun — apparatus-of-extraction thesis-grade detail]",
+    "[BBL memory note: bbl-narrative-first-lairs — apparatus-of-extraction is BBL brand-voice thesis axis]"
+  ],
+  "files_modified": [
+    "cards/_characters/macro-cosmos.md (related_characters frontmatter extended: [galar-gym-challenge, team-rocket, team-skull] -> [galar-gym-challenge, team-rocket, team-skull, orzhov-syndicate])",
+    "cards/_characters/orzhov-syndicate.md (related_characters frontmatter field added: related_characters: [macro-cosmos]; field did not previously exist on this node)"
+  ],
+  "edgelord_mood": "satisfied",
+  "mood_justification": "1:1 mirror between two equal character-nodes, both designer-coordinated faction-collective institutions, the cross-franchise apparatus-of-extraction thesis axis already canonicalized in macro-cosmos.md's node body, the mirror only needed to be made explicit in the frontmatter layer. The wave 25 E4 fresh-look prompt nominated this candidate specifically and the analysis confirmed: the body had the edge, the frontmatter didn't, the fix is atomic. This is exactly the shape Edgelord likes — sync-drift correction between body and frontmatter, both directions, designer-confirmed by the node body's existing canonical-source-cited declaration. The CBG sigh is reserved for the kind of edge that was supposed to already exist; here it does, and is now traversable from either end.",
+  "other_candidates_considered": [
+    "macro-cosmos -> team-rocket related_characters mirror-back — macro-cosmos already declares team-rocket as a related_character but team-rocket.related_characters = [team-skull] only. Mirror-back missing. Surfaced as future-pass target; not done this pass per one-edge-per-invocation discipline.",
+    "macro-cosmos -> team-skull related_characters mirror-back — same shape as above. team-skull.related_characters = [team-rocket, alola-elite-four] only. Surfaced as future-pass target.",
+    "Solrock-Lunatone-pair ↔ Castform-forms-cycle related_characters mirror (Hoenn-weather-themed character nodes) — both are Hoenn-region weather-or-celestial-themed Pokemon collectives, but Solrock-Lunatone is a paired-species sun-and-moon pair and Castform is a single-species four-weather-form cycle. The 'Hoenn-weather' framing is tag-bridge-tier at best — the two cohorts anchor different cohort-shape types and different thematic registers (celestial-bodies pair vs weather-forms cycle). Refused as tag-bridge.",
+    "galar-gym-challenge -> team-rocket related_characters mirror (the Macro Cosmos chairman is also Gym Challenge's institutional patron) — the relationship between Galar Gym Challenge and Team Rocket is structurally weak (Team Rocket is Kanto/Johto-era criminal syndicate; Galar Gym Challenge is Macro-Cosmos-sponsored televised competition — the two are franchise-villainy-axis distant). The macro-cosmos node is the correct intermediary; a direct galar-gym-challenge ↔ team-rocket edge would skip the apparatus-of-villainy intermediary node. Refused as misrouted.",
+    "Dark Nodesley EX: dissolve a weaker existing node — no empty / subsumed / inaccurate / mistakenly-proposed node identified. All existing character nodes have load-bearing corpus pointers or future-pass potential. Not a Dark Nodesley case.",
+    "Enlightened Edgelord: dissolve a weaker existing edge in macro-cosmos.related_characters and replace — net-zero discipline does not apply because the node is gaining a missing edge that should already have existed per the node body's declarations, not refactoring a weaker one. Plain 1:1 sync-drift correction is the correct shape."
+  ],
+  "future_passes_unlocked": [
+    "macro-cosmos -> team-rocket and macro-cosmos -> team-skull related_characters mirror-backs — both edges exist in the macro-cosmos.related_characters list but neither is mirrored back in team-rocket.related_characters or team-skull.related_characters. Two future Edgelord passes (one per mirror-back) close these.",
+    "When aether-foundation character node is commissioned (Alola corporate-philanthropic-cover-as-actual-apex-villain parallel, currently flagged in macro-cosmos.md Caveats as future sibling), it gets related_characters: [macro-cosmos] AND macro-cosmos gets aether-foundation added — the franchise's two corporate-aristocratic apex-villain organizations paired at the corporate-aristocratic-axis layer.",
+    "When chairman-rose solo character node is commissioned (threshold: 3+ Rose-specific corpus cards, currently 1), it gets related_characters: [macro-cosmos, galar-gym-challenge] and the macro-cosmos node gets chairman-rose added.",
+    "When azorius-senate (MTG / Ravnica sibling guild) related_characters is audited next, the macro-cosmos-orzhov apparatus-of-extraction cross-franchise pairing extends to azorius via the orzhov-azorius institutional-coercion-axis already canonicalized in orzhov-syndicate.md See also."
+  ]
+}

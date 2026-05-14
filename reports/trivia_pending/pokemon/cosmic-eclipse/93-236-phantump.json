@@ -1,0 +1,41 @@
+{
+  "card_name": "Phantump",
+  "game": "Pokemon",
+  "set": "Cosmic Eclipse",
+  "collector_number": "93/236",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Phantump. Card name, Psychic type, Basic stage, flavor text, and depicted figure (small rounded dark stump body, tiny wooden log base, bare branching twig-like horns, floating in dim forest) match canonical Phantump (National Pokedex no. 708). Identity unambiguous.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "According to multiple Pokedex entries, Phantump is a tree stump possessed by the spirit of a child who died while lost in a forest. This Pokedex backstory is among the franchise's most upsetting: the creature is presented as genuinely lonely and imitates a child's voice to lure adults deep into the forest, not to harm them, but to make friends. The design draws from kodama (Japanese tree spirits) and potentially from dryads (Greek tree-deity tradition). `[Bulbapedia: Phantump via WebSearch; pokemaniacal.com Phantump/Trevenant via WebSearch]`",
+      "sources": ["Bulbapedia: Phantump (Pokemon) via WebSearch", "pokemaniacal.com via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"By imitating the voice of a child, it causes people to get hopelessly lost deep in the forest. It's trying to make friends with them.\" The final sentence — 'It's trying to make friends with them' — is the narrative twist that distinguishes Phantump from straightforward horror: the luring behavior is loneliness, not malice. `[PokemonTCG.io API flavor_text field (sm12-93)]`",
+      "sources": ["PokemonTCG.io API (sm12-93)"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community response to Phantump's Pokedex lore has been consistently strong since Generation VI (X and Y, 2013). Fan communities note the design as one of the franchise's 'saddest' — the implied backstory of a lost child and the creature's motive of loneliness resonates more than outright horror designs. The flavor text on this card captures the tonal ambiguity: the creature is dangerous AND sympathetic simultaneously. Community sentiment on r/pokemon and r/stunfisk flags this design as a recurring 'dark lore' fan-favorite. `[Bulbapedia: Phantump via WebSearch; fan community references via WebSearch]`",
+      "sources": ["Bulbapedia: Phantump via WebSearch", "WebSearch community references"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Phantump was introduced in Generation VI (Pokemon X and Y, 2013), National Pokedex no. 708. It evolves into Trevenant when traded. This print is from Cosmic Eclipse (Sun and Moon series, 2019), one of the final sets of the Sun and Moon TCG era. Card no. 93/236 (Common). Art by miki kudo. `[PokemonTCG.io API (sm12-93)]`",
+      "sources": ["PokemonTCG.io API (sm12-93)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Trevenant", "set": "various", "note": "Phantump evolution; trade evolution; also Ghost/Grass type"},
+    {"name": "Phantump (XY era prints)", "set": "Phantom Forces, Roaring Skies", "note": "Original XY-era prints of the same species"},
+    {"name": "Misdreavus (corpus)", "set": "Crimson Invasion", "note": "Also a Psychic-type ghost species in corpus with loneliness/horror Pokedex lore"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

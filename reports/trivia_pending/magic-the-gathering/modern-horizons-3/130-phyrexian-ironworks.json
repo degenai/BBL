@@ -1,0 +1,36 @@
+{
+  "card_name": "Phyrexian Ironworks",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "130",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"We have made a friend today.\" — Slobad, Iron Goblin [Scryfall]. Slobad is a Mirran goblin with one of the more tragic arcs in MTG lore: born under the goblin shamans' death sentence on Mirrodin, he became Glissa's closest ally, and in the original Mirrodin storyline sacrificed a planeswalker spark (transferred to him by Memnarch's machine) to resurrect all those killed on the plane. He was later believed dead after the Phyrexian Invasion, but resurfaced in Phyrexia: All Will Be One compleated, now in service of New Phyrexia. [MTG Wiki: Slobad, via WebSearch snippet; Scryfall: Slobad, Iron Goblin (ONE 149)]",
+      "sources": ["Scryfall", "MTG Wiki: Slobad, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card generates energy counters on attack and converts three energy into a 3/3 Phyrexian Golem artifact creature token. EDHREC rank 12134 — modest Commander adoption, primarily in artifact-energy hybrid shells. Legal in Modern, Legacy, Vintage, and Commander. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Phyrexia in MTG canon is a mechanical horror plane originally conceived by Yawgmoth as a realm of compleation — the forced fusion of flesh and machine. After Yawgmoth's death in the Invasion block, New Phyrexia rose on Mirrodin under Elesh Norn. Their multiverse-invasion culminated in March of the Machine (2023), where the Phyrexian forces were ultimately defeated and New Phyrexia destroyed as a plane. [MTG Wiki: Phyrexia, via WebSearch snippets; characters node: phyrexia]",
+      "sources": ["MTG Wiki: Phyrexia, via WebSearch snippets"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Slobad, Iron Goblin", "set": "ONE", "note": "Flavor text speaker — compleated version of the Mirran goblin"},
+    {"name": "Elesh Norn, Grand Cenobite", "set": "NPH", "note": "Praetor of New Phyrexia — faction leader"},
+    {"name": "Phyrexian Golem", "set": "token", "note": "Token produced by the card's activated ability"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

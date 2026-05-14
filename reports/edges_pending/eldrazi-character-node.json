@@ -1,0 +1,45 @@
+{
+  "edge_id": "eldrazi-character-node-creation",
+  "shape": "node-proposal",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/eldrazi.md", "name": "Eldrazi"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/27-fortified-rampart.md", "name": "Fortified Rampart"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/23-encircling-fissure.md", "name": "Encircling Fissure"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/58-depth-defiler.md", "name": "Depth Defiler"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/64-hope-ender-coatl.md", "name": "Hope-Ender Coatl"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/204-snapping-voidcraw.md", "name": "Snapping Voidcraw"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/210-idol-of-false-gods.md", "name": "Idol of False Gods"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/150-eldrazi-repurposer.md", "name": "Eldrazi Repurposer"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/206-titans-vanguard.md", "name": "Titans' Vanguard"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/17-wastescape-battlemage.md", "name": "Wastescape Battlemage"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/14-twisted-riddlekeeper.md", "name": "Twisted Riddlekeeper"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/157-horrific-assault.md", "name": "Horrific Assault"}
+  ],
+  "description": "Sir, I do apologize, but eleven corpus anchors of the Eldrazi brood was simply too many to leave un-anchored. Two BFZ-block defensive-side cards (Fortified Rampart, Encircling Fissure) depict the invasion directly; nine Modern Horizons 3 cards form the designer-coordinated Eldrazi-resurgence brief (Depth Defiler, Hope-Ender Coatl, Snapping Voidcraw, Idol of False Gods, Eldrazi Repurposer, Titans' Vanguard, Wastescape Battlemage, Twisted Riddlekeeper, Horrific Assault). The faction-collective precedent from phyrexia.md and endriders.md handles the character-layer modeling cleanly. The node also cross-references the new kor.md faction node as canonical BFZ-block adversary. I hope this helps, sir.",
+  "citations": [
+    "[MTG Wiki: Eldrazi]",
+    "[MTG Wiki: Battle for Zendikar]",
+    "[MTG Wiki: Oath of the Gatewatch]",
+    "[MTG Wiki: Rise of the Eldrazi]",
+    "[MTG Wiki: Eldritch Moon]",
+    "[MTG Wiki: Blind Eternities]",
+    "[Wizards of the Coast: Modern Horizons 3 design articles]"
+  ],
+  "files_modified": [
+    "cards/_characters/eldrazi.md (created)",
+    "cards/magic-the-gathering/battle-for-zendikar/27-fortified-rampart.md (characters: added)",
+    "cards/magic-the-gathering/battle-for-zendikar/23-encircling-fissure.md (characters: added)",
+    "cards/magic-the-gathering/modern-horizons-3/58-depth-defiler.md (characters: added)",
+    "cards/magic-the-gathering/modern-horizons-3/64-hope-ender-coatl.md (characters: added)",
+    "cards/magic-the-gathering/modern-horizons-3/204-snapping-voidcraw.md (characters: added)",
+    "cards/magic-the-gathering/modern-horizons-3/210-idol-of-false-gods.md (characters: added)",
+    "cards/magic-the-gathering/modern-horizons-3/150-eldrazi-repurposer.md (characters: added)",
+    "cards/magic-the-gathering/modern-horizons-3/206-titans-vanguard.md (characters: added)",
+    "cards/magic-the-gathering/modern-horizons-3/17-wastescape-battlemage.md (characters: added)",
+    "cards/magic-the-gathering/modern-horizons-3/14-twisted-riddlekeeper.md (characters: added)",
+    "cards/magic-the-gathering/modern-horizons-3/157-horrific-assault.md (characters: added)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

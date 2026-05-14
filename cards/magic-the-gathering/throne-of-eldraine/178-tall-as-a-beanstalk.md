@@ -7,7 +7,7 @@ rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
 tags_hub: ["beanstalk", "giant", "plant", "forest", "castle", "sky-realm", "fairy-tale", "storybook", "vine", "tower", "growth", "wilderness"]
@@ -15,7 +15,7 @@ tags_filter: ["no-figures", "wide-shot", "scene-mode", "vertical-composition", "
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/178-tall-as-a-beanstalk.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

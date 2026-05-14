@@ -1,0 +1,42 @@
+{
+  "card_name": "Mallow & Lana",
+  "game": "Pokemon",
+  "set": "Cosmic Eclipse",
+  "collector_number": "198/236",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Mallow & Lana'; depicted figures (one in green, one in blue, tropical outdoor setting) match canonical character designs for Mallow (Grass-type Trial Captain, green attire) and Lana (Water-type Trial Captain, blue attire) from Pokemon Sun and Moon. Verified via card name and Bulbapedia character pages.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Mallow and Lana are both Trial Captains stationed on Akala Island in Pokemon Sun and Moon. Mallow oversees the Lush Jungle Grass-type trial (Totem: Lurantis) and Lana oversees the Brooklet Hill Water-type trial (Totem: Wishiwashi). They are close friends alongside Kiawe, the Akala Fire-type captain. [Bulbapedia: Mallow; Bulbapedia: Lana; via WebSearch]",
+      "sources": ["Bulbapedia: Mallow (via WebSearch)", "Bulbapedia: Lana (via WebSearch)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card switches the player's Active Pokemon with a Benched Pokemon; if 2 cards are discarded from hand, also heals 120 damage from the Pokemon moved to the Bench. The switch+heal combination mirrors the in-game thematic pairing: Mallow's restorative ingredient-gathering and Lana's Brooklet Hill healing waters. [Pokemon.com TCG card database]",
+      "sources": ["Pokemon.com TCG card database", "PokemonTCG.io frontmatter capture"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Cosmic Eclipse (SM12) was the final Sun & Moon expansion (released November 1, 2019) and the set that introduced TAG TEAM Supporter cards. Mallow & Lana is one of several TAG TEAM Supporter pairings debuting in this expansion. [Pokemon.com press release; WebSearch]",
+      "sources": ["Pokemon.com", "WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Artist: Ken Sugimori. The color-coded pairing (green for Mallow, blue for Lana) directly mirrors their in-game type affinities (Grass and Water), making the art a visual type-chart shorthand for the two trial captains. [PokemonTCG.io frontmatter; Bulbapedia: Trial Captain, via WebSearch]",
+      "sources": ["PokemonTCG.io frontmatter capture", "Bulbapedia: Trial Captain (via WebSearch)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kiawe", "set": "Burning Shadows", "note": "Third Akala Island Trial Captain (Fire); Mallow and Lana's close friend"},
+    {"name": "Sophocles", "set": "Celestial Storm", "note": "Ula'ula Island Trial Captain; fellow Sun/Moon Trial Captain character"},
+    {"name": "Lillie", "set": "Ultra Prism", "note": "Central Sun/Moon protagonist; appears across multiple Supporter prints"},
+    {"name": "Guzma & Hala", "set": "Cosmic Eclipse", "note": "Fellow TAG TEAM Supporter in same expansion; Alola characters"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

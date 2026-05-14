@@ -1,0 +1,37 @@
+{
+  "card_name": "Pansage",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "006/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Pansage. Card name, type (Grass), flavor text, and depicted figure (small green monkey with leafy head tuft) match canonical Pansage (National Pokedex no. 511). No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "This is the second Pansage print in the corpus. The earlier print is BUS-12 (Burning Shadows, 2017), illustrated by Shigenori Negishi. This Darkness Ablaze version (2020) is illustrated by Mina Nakai. The BUS-12 card carries a different flavor text — 'It shares the leaf on its head with weary-looking Pokemon. These leaves are known to relieve stress.' — and the single attack Vine Whip, compared to this version's two-attack layout (Seed Bomb + Bite). [PokemonTCG.io API (swsh3-6) and (sm3-12)]",
+      "sources": ["PokemonTCG.io API (swsh3-6)", "PokemonTCG.io API (sm3-12)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Pansage is National Pokedex no. 511, the Grass-type member of the elemental monkey trio (Pansage/Pansear/Panpour) introduced in Generation V (Black and White, 2010). All three are found in the Unova region, and each appears exclusively in one game version in the main series — Pansage in Black, with the others version-exclusive in White. [PokemonTCG.io API; Bulbapedia: Pansage via WebSearch]",
+      "sources": ["PokemonTCG.io API (swsh3-6)", "Bulbapedia: Pansage via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It's good at finding berries and gathers them from all over. It's kind enough to share them with friends.\" `[PokemonTCG.io API flavor_text field (swsh3-6)]`",
+      "sources": ["PokemonTCG.io API (swsh3-6)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pansage", "set": "Burning Shadows (BUS-12)", "note": "Prior corpus print; different artist (Shigenori Negishi), different flavor text, single-attack layout"},
+    {"name": "Pansear", "set": "various", "note": "Fire-type sibling in elemental monkey trio"},
+    {"name": "Panpour", "set": "various", "note": "Water-type sibling in elemental monkey trio"},
+    {"name": "Simisage", "set": "various", "note": "Pansage evolution"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

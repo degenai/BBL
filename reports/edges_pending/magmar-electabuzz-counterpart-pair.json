@@ -1,0 +1,22 @@
+{
+  "edge_id": "magmar-electabuzz-counterpart-pair",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/rebel-clash/029-192-magmar.md", "name": "Magmar (Rebel Clash 029/192)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/058-192-electabuzz.md", "name": "Electabuzz (Rebel Clash 058/192)"}
+  ],
+  "description": "Designer-coordinated counterpart-pair mirror. Kanto Gen I's most explicitly-symmetrical version-exclusive pair: Pokedex-adjacent (125/126), Blue-vs-Red exclusives, mirrored industrial habitats (Power Plant / Pokemon Mansion), parallel trade-holding-izer evolution mechanics added in the same generation (Gen IV: Electirizer / Magmarizer), and step-for-step mirrored three-stage lines (Elekid-Electabuzz-Electivire / Magby-Magmar-Magmortar). Both printed in the same set (Rebel Clash). The canonical evidence was already inline in Electabuzz's wave-30 trivia bullet 'Designer counterpart pair' — Edgelord is honoring that bullet's implicit cross-reference by formalizing it as a graph edge. Edgelord notes Magmar still lacks a Trivia section, which is a janitor-tier flag, but it does NOT block this edge — the pair-canon is established on Electabuzz's side with Bulbapedia citation and is symmetric by definition.",
+  "citations": ["[Bulbapedia: Magmar (Pokemon), Electabuzz (Pokemon), List of Pokemon with counterparts]", "[PokemonTCG.io: swsh2-29, swsh2-58]"],
+  "files_modified": [
+    "cards/pokemon/rebel-clash/029-192-magmar.md",
+    "cards/pokemon/rebel-clash/058-192-electabuzz.md"
+  ],
+  "edgelord_mood": "satisfied",
+  "other_candidates_considered": [
+    "Chewtle cross-print mirror (FUS-080 + VIV-038) — clean standard 2-print mirror, but mundane next to a designer-confirmed counterpart-pair canon. Worth a follow-up Edgelord pass when a slot is otherwise unspoken for.",
+    "Future kanto-counterpart-pairs hub or character node — the franchise has multiple designer-coordinated Gen I counterpart pairs (Magmar/Electabuzz; Plusle/Minun (Gen III, not Kanto); the Tauros/Miltank single-gender pair if you stretch the category). If 2+ such pairs land in corpus, Nodeley should consider a designer-coordinated-pokemon-pairs cohort node analogous to elemental-monkey-trio. Currently 1/N pairs in corpus, premature.",
+    "Magmar Trivia section gap — bbl-triviabot follow-up needed. Janitor flag, not Edgelord work."
+  ]
+}

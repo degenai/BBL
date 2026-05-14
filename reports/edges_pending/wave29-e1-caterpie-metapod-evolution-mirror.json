@@ -1,0 +1,26 @@
+{
+  "edge_id": "wave29-e1-caterpie-metapod-evolution-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/rebel-clash/001-192-caterpie.md", "name": "Caterpie (Rebel Clash 001/192)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/002-192-metapod.md", "name": "Metapod (Rebel Clash 002/192)"}
+  ],
+  "description": "Picked option B over option C. Option C — `cards/_characters/caterpie-line.md` cohort node — is premature: corpus has 3 prints across 2 of 3 species, with Butterfree absent. Charizard-line precedent had three species across six prints when it was built; Caterpie-line is short two species and a print of coverage. So the call is the cleanest single edge: the in-set adjacent-collector-number evolution mirror RBC-001 ↔ RBC-002, with the cross-print pointer to the existing Evolutions Caterpie (EVO-3) called out in the bullet text. When Butterfree lands in a future Collectr upload, the cohort-node case opens and a Mr. Nodeley pass can commission it cleanly. Standard mirror, sighed-but-mirrored.",
+  "citations": [
+    "[PokemonTCG.io API: swsh2-1 (Caterpie); swsh2-2 (Metapod)]",
+    "[Bulbapedia: Caterpie species page]",
+    "[Bulbapedia: Metapod species page]",
+    "[PokemonTCG.io API: xy12-3 (Caterpie EVO-3 cross-print reference)]"
+  ],
+  "files_modified": [
+    "cards/pokemon/rebel-clash/001-192-caterpie.md",
+    "cards/pokemon/rebel-clash/002-192-metapod.md"
+  ],
+  "other_candidates_considered": [
+    "Option C: `cards/_characters/caterpie-line.md` cohort node — premature, corpus short Butterfree. Re-evaluate at next CSV upload.",
+    "Option B+: cross-print bullet RBC-001 ↔ EVO-3 in same Connections section — folded as in-bullet pointer rather than separate edge to stay one-edge-per-invocation."
+  ],
+  "edgelord_mood": "sighed-but-mirrored"
+}

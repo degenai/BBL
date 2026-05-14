@@ -1,0 +1,40 @@
+{
+  "card_name": "Wobbuffet",
+  "game": "Pokemon",
+  "set": "Burning Shadows",
+  "collector_number": "49/147",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Wobbuffet: large cylindrical blue Pokémon with stubby limbs, wide mouth, and concealed tail matches sm3-49 record. National Pokedex no. 202, Psychic-type, illustrated by nagimiso.",
+  "trivia_bullets": [
+    {
+      "category": "sentiment",
+      "text": "Anime comedy fixture: Jessie's Wobbuffet became Team Rocket's unofficial fourth member after she unknowingly traded her Lickitung for it. Known for uninvited Poké Ball exits, shouting its name at the end of Team Rocket's motto, and crying out as the trio blasted off. A rakugo-style punchline in the Japanese original.",
+      "sources": ["Bulbapedia: Jessie's Wobbuffet", "Wikipedia: Wobbuffet"]
+    },
+    {
+      "category": "design",
+      "text": "Japanese name Sonans (ソーナンス) is derived from catchphrase of rakugo comedian Sanpei Hayashiya: 'so nansu, okusan' ('That's the way it is, ma'am'). The salute pose in this card's art mirrors Hayashiya's signature gesture. One of the few Pokemon explicitly designed around a specific real-world Japanese comedian's material.",
+      "sources": ["Wikipedia: Wobbuffet", "Bulbapedia: Wobbuffet (Pokemon)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It hates light and shock. If attacked, it inflates its body to build up its counterstrike.\" Counter-attack philosophy is mechanically literal: Wobbuffet's main-series moveset is almost entirely counter and mirror-coat; it cannot attack first, only retaliate.",
+      "sources": ["PokemonTCG.io: sm3-49 flavorText field", "Bulbapedia: Wobbuffet (Pokemon)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "TCG attack Shadowy Knot (50x opponent's Active Pokémon's Retreat Cost in Colorless energy) is a niche retaliatory mechanic — damage scales with how costly the opponent's retreat is, consistent with the counter-attacker identity. Burning Shadows (SM3) released August 5, 2017.",
+      "sources": ["PokemonTCG.io: sm3-49"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Wynaut", "set": "multiple", "note": "Wobbuffet's pre-evolution (introduced Gen III)"},
+    {"name": "Jessie's Wobbuffet", "set": "Team Rocket promo prints", "note": "Named-character version referencing the anime"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

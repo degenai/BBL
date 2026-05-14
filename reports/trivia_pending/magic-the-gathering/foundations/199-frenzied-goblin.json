@@ -1,0 +1,43 @@
+{
+  "card_name": "Frenzied Goblin",
+  "game": "Magic: The Gathering",
+  "set": "Foundations",
+  "collector_number": "199",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Frenzied Goblin was first printed in Ravnica: City of Guilds (RAV, October 2005) and has been reprinted in: Magic 2015 (M15), Duel Decks: Speed vs. Cunning, Masters 25 (A25), GRN Guild Kit, Jumpstart 2022, Ravnica: Clue Edition, and Foundations (FDN, November 2024) — eight distinct sets across nineteen years. [Scryfall: print history]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"The upside to not thinking about the consequences is that you'll always surprise those who do.\" [Scryfall]. Same text across all printings from RAV original onward — the flavor has remained constant across the full reprint history. [Scryfall: RAV printing via WebSearch snippet]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Pauper-legal despite the FDN uncommon printing: the card was downshifted from uncommon to common in Masters 25 (A25, 2018, no. 131), and Pauper legality requires only one common printing in a card's history. The {R}-to-prevent-blocking ability is a soft evasion effect that remains a core tool in Pauper Goblins' tempo plan. EDHREC rank 9597. Art in Foundations by Randy Vargas. [Scryfall: A25 printing] [WebSearch: Card Kingdom Blog — Pauper Goblins deck week]",
+      "sources": ["Scryfall", "WebSearch: Card Kingdom Blog — Pauper Goblins"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC tracks Frenzied Goblin across approximately 10,507 Commander decks (0.25% inclusion). Its highest-synergy home is Krenko, Mob Boss (mono-red goblins), appearing in roughly 15% of Krenko lists — the tap-a-blocker ability pairs with Krenko's mass-token swarms. [EDHREC: Frenzied Goblin, via WebSearch snippet]",
+      "sources": ["EDHREC via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Goblin Guide", "set": "ZEN", "note": "One-drop red aggro goblin comparator — haste version with card-draw drawback"},
+    {"name": "Goblin Lackey", "set": "USG", "note": "Classic one-drop red goblin with triggered ability on damage"},
+    {"name": "Mogg Mob", "set": "MH3", "note": "Goblin tribal cohort in the same wave"},
+    {"name": "Krenko, Mob Boss", "set": "M13", "note": "Top EDHREC commander home at ~15% inclusion in Krenko lists"},
+    {"name": "Raging Goblin", "set": "Portal", "note": "Closest functional predecessor — one-mana goblin with no relevant ability; Frenzied Goblin is the evasion upgrade"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

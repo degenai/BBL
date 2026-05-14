@@ -1,0 +1,117 @@
+{
+  "edge_id": "endriders--aether-rangers-related-characters--wave13-e2",
+  "shape": "1:1",
+  "category": "designer-confirmed-cycle",
+  "topology": "mirror",
+  "endpoints": [
+    {
+      "type": "character",
+      "path": "cards/_characters/endriders.md",
+      "name": "Endriders (Aetherdrift Mardu-leaning apocalypse-punk Grand Prix team, home plane Gastal)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/aether-rangers.md",
+      "name": "Aether Rangers (Aetherdrift Avishkar-Assembly post-revolutionary Grand Prix team, captained by Pia Nalaar + Sita Varma)"
+    }
+  ],
+  "description": "Edgelord, in his enlightened-as-schema-introducer mode, draws the first character-to-character edge in the BBL graph: Endriders and Aether Rangers are both designer-coordinated Grand Prix teams within the Aetherdrift ten-team racing structure (DFT, 2025-02-14), both anchored to the [labor, rebellion] hub pair, both with bodies that already implicitly cross-reference each other in their See-also paragraphs but until now had no machine-readable schema field for it. The mirror is bidirectional and fully symmetric — both nodes now carry `related_characters: [<peer-slug>]` in frontmatter. This is the first instance of the `related_characters:` field across the graph. Eleven other character nodes have informal See-also cross-references in their body prose that this schema-extension is now positioned to formalize — the graph-wide fan-out is a follow-up commission, NOT this pass.",
+  "citations": [
+    "[MTG Wiki: Aetherdrift] — set page, ten-team racing structure",
+    "[MTG Wiki: Endriders] — primary faction page",
+    "[MTG Wiki: Aether Rangers] — primary faction page",
+    "[Wizards: Planeswalker's Guide to Aetherdrift, Part 1 by Miguel Lopez (2024-12-10)] — names the Aether Rangers as cross-class comrade team",
+    "[Wizards: You Get the Aetherdrift, Part 2 by Mark Rosewater] — design framing of the ten-team racing structure as designer-coordinated peer cohort"
+  ],
+  "files_modified": [
+    "cards/_characters/endriders.md (frontmatter: added related_characters: [aether-rangers])",
+    "cards/_characters/aether-rangers.md (frontmatter: added related_characters: [endriders])"
+  ],
+  "edgelord_mood": "satisfied",
+  "schema_extension_note": {
+    "new_field": "related_characters",
+    "field_position": "in character-node frontmatter, parallel to existing related_hubs and related_symbols fields",
+    "value_format": "list of character-slug strings (the slug matches the filename stem of the target character MD)",
+    "semantics": "machine-readable character-to-character relation edge; bidirectional by convention (if A lists B, B should list A) but the bot-guards layer will need a future check to enforce mirror-symmetry",
+    "first_instance": "endriders <-> aether-rangers (this pass)",
+    "anti-confab_note": "the field encodes ONLY designer-confirmed canonical peer relationships (faction pairs designed as a unit, character mentor-student or kin pairs documented in primary canon, institutional sibling factions within one universe). Tag-bridge or thematic-vibe relations do NOT belong in related_characters. Use the same anti-confab standard as the rest of the character layer."
+  },
+  "graph_wide_followup_candidates": [
+    {
+      "pair": "team-rocket <-> galar-gym-challenge",
+      "relation_type": "Pokemon-side institutional villainy axis: criminal-syndicate (Team Rocket, overt) <-> corporate-aristocratic (Galar Gym Challenge / Macro Cosmos, institutional cover). Both already cite each other in See-also prose. Strong candidate for the follow-up pass.",
+      "evidence_in_body_prose": "Yes (team-rocket.md See-also; galar-gym-challenge.md Caveats re: Macro Cosmos family-axis)"
+    },
+    {
+      "pair": "orzhov-syndicate <-> azorius-senate",
+      "relation_type": "Ravnican guild pair, both white-aligned, both apparatus-of-extraction or apparatus-of-control coded. Designer-coordinated within Ravnica's ten-guild structure.",
+      "evidence_in_body_prose": "Partial (orzhov-syndicate.md See-also references Ravnican guild structure; azorius-senate.md cites Orzhov as institutional-villainy parallel)"
+    },
+    {
+      "pair": "nicol-bolas <-> tamiyo",
+      "relation_type": "War of the Spark co-storyline: Tamiyo was on Bolas's planeswalker-harvest target list in WAR, Bolas himself architects the Eternals army that her later self-cleanse trajectory must reckon with. Same set's story-spotlight cycle.",
+      "evidence_in_body_prose": "Indirect (nicol-bolas.md mentions Liliana's defeat-of-Bolas; tamiyo.md would need a WAR-cluster mention to make the mirror clean — currently weakest of the candidates)"
+    },
+    {
+      "pair": "nicol-bolas <-> jace-beleren",
+      "relation_type": "Decades-long planeswalker rival relationship; Jace was central to the WAR Gatewatch defense of Bolas's defeat. Long-arc canon.",
+      "evidence_in_body_prose": "Both nodes reference the WAR plotline; cross-reference is canonical"
+    },
+    {
+      "pair": "team-rocket <-> orzhov-syndicate",
+      "relation_type": "Cross-universe extraction-apparatus structural parallel; this is the See-also link the new team-rocket.md MD just authored. The `related_characters:` field accepts cross-universe relations or limits to within-universe? Open question for parent triage — the schema doesn't restrict, and the structural-parallel reading is the entire premise of the BBL graph spanning multiple IPs.",
+      "evidence_in_body_prose": "Yes (team-rocket.md See-also explicitly names orzhov-syndicate as cross-universe sibling)"
+    },
+    {
+      "pair": "galarian-regional-forms <-> galar-gym-challenge",
+      "relation_type": "Pokemon-side same-universe-same-generation Galar-anchored pair; one is the biome/culture half, the other is the institutional half. Bodies explicitly cite each other as complementary.",
+      "evidence_in_body_prose": "Yes (galarian-regional-forms.md See-also explicitly names galar-gym-challenge; reciprocal direction implicit)"
+    },
+    {
+      "pair": "elemental-monkey-trio <-> galarian-regional-forms",
+      "relation_type": "Pokemon-side designer-coordinated cohort character-node siblings (Pansage/Pansear/Panpour vs Galarian variants). Different generations, same node-shape, mutual See-also pointers.",
+      "evidence_in_body_prose": "Yes (galarian-regional-forms.md See-also explicitly names elemental-monkey-trio)"
+    },
+    {
+      "pair": "fear-of-cycle <-> dsk-unlucky-lands-cycle",
+      "relation_type": "Magic-side Duskmourn designer-coordinated cycle siblings (phobia-Nightmares vs common dual-lands). Same set, same node-shape.",
+      "evidence_in_body_prose": "Yes (both nodes' See-also paragraphs cross-reference)"
+    }
+  ],
+  "other_candidates_considered_for_e2": [
+    {
+      "candidate": "Edgelord 1:1 Galarian Darumaka <-> Galarian Farfetch'd (same set, same artist Akira Komayama, same regional-forms cohort)",
+      "reason_rejected": "Both already anchor to the galarian-regional-forms cohort node via characters: ['galarian-regional-forms'] frontmatter. A 1:1 edge between them would be redundant to the cohort-node anchor — this is exactly the case Mr. Nodeley's node-creation move is supposed to subsume. Per Edgelord standards: when a cohort node already centralizes the relation, drawing 1:1 edges between cohort members duplicates the centralization. Refuse."
+    },
+    {
+      "candidate": "Per-gym chain pattern on galar-gym-challenge node (Kabu DAA-163 just trivia-passed, joining Kabu CP-55 in corpus; pre-stage chain framing for future Bea/Opal/Nessa/Milo/Marnie/Leon arrivals)",
+      "reason_rejected": "Premature. Chain pattern needs ≥3 distinct-Gym-Leader endpoints; current state is 3 (Allister, Melony, Kabu) but the pending vision passes will land another 5 in upcoming waves. Let the chain materialize naturally; flagging early would be Edgelord overreach."
+    },
+    {
+      "candidate": "Pikachu BUS-40 labor-flavor 1:1 edge with another labor-flavored corpus partner (not Boss's Orders, which E1 rejected)",
+      "reason_rejected": "Scanned recent waves for labor-flavored Pokemon-side partners. The strongest match would be a Macro Cosmos / Chairman Rose card framing the Galar industrial-Pokemon labor regime, but none enriched. Other candidates (Slugma extraction-mining, Aron iron-eating, Drilbur tunnel-digging) are thinner. Pikachu's labor-flavor angle is real but the corpus doesn't yet hold a canonically-confirmed thematic peer with designer-coordinated cross-reference. Defer to a future wave where a Macro Cosmos card or a second canonically-extractive Pokemon TCG flavor lands."
+    },
+    {
+      "candidate": "Sinistea phony/antique form Nodeley node (single corpus member)",
+      "reason_rejected": "Below threshold. Single corpus member. Park for future-Nodeley when Polteageist or a Sinistea-Antique-print enters corpus."
+    },
+    {
+      "candidate": "Solrock-Lunatone pair Nodeley node (Solrock's Resistance Shade Ability mechanically requires Lunatone in play, but Lunatone not in corpus)",
+      "reason_rejected": "Below threshold. Lunatone not in corpus. Park for future-Nodeley when Lunatone arrives."
+    },
+    {
+      "candidate": "Deino/Zweilous/Hydreigon evolution-line Nodeley node (German-numeral naming chain)",
+      "reason_rejected": "Below threshold. Single corpus member. Park for future-Nodeley when Zweilous or Hydreigon arrives."
+    },
+    {
+      "candidate": "Dark Nodesley EX dissolution of any existing node",
+      "reason_rejected": "Scanned all 12 character nodes. No node currently empty, subsumed, inaccurate, or mistakenly proposed. Nothing in the dissolution-trigger set. No action."
+    }
+  ],
+  "anti_duplicate_check_against_e1": "E1 proposed cards/_characters/team-rocket.md (new node) and added characters: ['team-rocket'] frontmatter pointer to Boss's Orders RBC-154. E2 does NOT touch team-rocket.md, Boss's Orders, Giovanni-related cards, or any Pokemon-side criminal-syndicate scope. E2's two endpoints (endriders, aether-rangers) are both in the Magic-side Aetherdrift universe, fully orthogonal to E1's Pokemon-side scope. No overlap.",
+  "next_pass_hooks": [
+    "The graph_wide_followup_candidates list above enumerates 8 character-pair relations whose informal See-also prose could be formalized via related_characters: in a single dedicated commission. Parent decides whether to dispatch that as one big Edgelord pass (mechanical, low-judgment per-pair) or as 8 micro-passes (more granular, more sidecars).",
+    "If/when bot-guards layer is extended to enforce related_characters: mirror-symmetry (A->B implies B->A), this pass's endriders<->aether-rangers entry serves as the first canonical test case.",
+    "When team-rocket.md's See-also cross-universe relations get formalized (team-rocket <-> orzhov-syndicate), parent should decide whether related_characters: accepts cross-universe relations or whether a separate cross_universe_parallels: field is the cleaner schema. The current pass intentionally stays within one universe (Aetherdrift / MTG) to leave that decision pending."
+  ]
+}

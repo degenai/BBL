@@ -1,0 +1,35 @@
+{
+  "card_name": "Meltan",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "129/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted small round creature with silver hex-nut head and liquid metal body matches Meltan's canonical design exactly. National Pokedex no. 808. Mythical Steel-type. Confirmed via PokemonTCG.io API (swsh3-129).",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Meltan (National Pokedex no. 808) is a Mythical Steel-type introduced in 2018 as the first Pokemon to debut in Pokemon GO before any mainline series game. Series director Junichi Masuda worked with Niantic to introduce Meltan as a cross-platform bridge, revealed during the September 22, 2018 Community Day in a deliberate substitution surprise. Its evolution Melmetal can only be obtained in Let's Go, Pikachu/Eevee by transferring from GO — one of the franchise's most explicit cross-game dependency designs. [WebSearch snippet: Wikipedia Meltan; WebSearch snippet: pokemonletsgo.pokemon.com]",
+      "sources": ["WebSearch snippet: Wikipedia Meltan", "WebSearch snippet: pokemonletsgo.pokemon.com"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.\" — the hex-nut head is the one solid feature; the body is liquid, fed entirely by consuming and metabolizing iron and steel. [PokemonTCG.io API: swsh3-129]",
+      "sources": ["PokemonTCG.io API: swsh3-129"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Meltan's appearance in Darkness Ablaze is notable because it is a Mythical Pokemon on a Common-rarity card (no.129/189). Mythical Pokemon in the TCG are typically distributed as promotional cards or restricted prints; a common-rarity Mythical in a standard set expansion is rare. The card's low attack values (Headbutt 10, Beam 20) reflect its status as a setup piece for Melmetal rather than a standalone threat. [PokemonTCG.io API: swsh3-129]",
+      "sources": ["PokemonTCG.io API: swsh3-129"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Melmetal", "set": "Various", "note": "Meltan's evolution; only obtainable in Let's Go via GO transfer in mainline games"},
+    {"name": "Melmetal VMAX", "set": "Fusion Strike / Various", "note": "High-profile VMAX evolution of the Meltan line"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "edge_id": "pancham-cse119--pangoro-cse120--kalos-bancho-evolution-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/pokemon/cosmic-eclipse/119-236-pancham.md",
+      "name": "Pancham (Cosmic Eclipse 119/236)"
+    },
+    {
+      "type": "card",
+      "path": "cards/pokemon/cosmic-eclipse/120-236-pangoro.md",
+      "name": "Pangoro (Cosmic Eclipse 120/236)"
+    }
+  ],
+  "description": "Kalos bancho-archetype evolution-line 1:1 mirror, within-set adjacency. Pancham (no. 674, Fighting) -> Pangoro (no. 675, Fighting/Dark) at Level 32 with party-Dark-type-requirement 'bad influence' gating. Adjacent collector numbers, flavor-text mirror (henchman/boss dynamic), shared bancho design citation, shared bamboo-leaf-in-mouth iconography (personality marker for Pancham, sensory instrument for Pangoro). Same precedent as wave 19 Sobble/Drizzile and Ralts/Kirlia evolution mirrors.",
+  "citations": [
+    "[Bulbapedia: Pancham (Pokemon)]",
+    "[Bulbapedia: Pangoro (Pokemon)]",
+    "[PokemonTCG.io: sm12-119 + sm12-120 evolvesTo / evolvesFrom + flavor_text]"
+  ],
+  "files_modified": [
+    "cards/pokemon/cosmic-eclipse/119-236-pancham.md",
+    "cards/pokemon/cosmic-eclipse/120-236-pangoro.md"
+  ],
+  "other_candidates_considered": [
+    "Could form a Kalos-Fighting-line chain if a future Scrafty/Scraggy (Gen V bancho-archetype counterpart) or future Pangoro evolution-line cross-print acquisition extends the bancho-design cohort. Topology would shift from mirror to chain or potentially anchor a future kalos-bancho-pokemon character node (currently below 3-card threshold for a cohort node — only 2 species). Defer."
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "edgelord_voice_note": "Two card-endpoints, both equal nodes, within-set 119/120 adjacency, designer-coordinated evolution-line. The mirror is required. The sigh is professional. Bancho henchman to bancho boss in two cards. Clean."
+}

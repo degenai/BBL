@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "faces-left", "action-mode", "green-magic", "c
 reference_image: cards/_images/magic-the-gathering/core-set-2021/206-skyway-sniper.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/1/7/1776f5b4-1292-460f-9719-e1b603cee46c.png?1594737232

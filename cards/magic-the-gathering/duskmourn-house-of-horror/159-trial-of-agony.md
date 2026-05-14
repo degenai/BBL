@@ -15,7 +15,7 @@ tags_filter: ["duo", "2-figures", "mid-shot", "narrative-mode", "no-face-on-righ
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/159-trial-of-agony.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/f/a/fa62f67a-d20f-4d99-b0a2-327634299c9f.png?1726286448

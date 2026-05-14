@@ -14,8 +14,8 @@ tags_hub: ["unicorn", "horse", "steed", "knight", "mount", "plains", "hilltop", 
 tags_filter: ["solo", "wide-shot", "faces-left", "portrait-mode", "no-figure", "creature-unicorn", "white-magic", "vigilance", "token-maker"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/42-valorous-steed.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-12
+market_price: 0.2
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

@@ -15,7 +15,7 @@ tags_filter: ["artifact", "no-figure", "close-up", "object-study", "green-magic"
 reference_image: cards/_images/magic-the-gathering/guilds-of-ravnica/240-selesnya-locket.png
 average_cost_paid: 0
 market_price: 0.23
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 art_match_confidence: high
@@ -52,3 +52,6 @@ A polished gold locket shaped like a flattened oval shell or pendant case hangs 
 **Iconography:** selesnya-sigil, tree-emblem, guild-mark, sapling
 **Genre cues:** fantasy, heraldic, ecclesiastical
 
+## Connections
+
+- [[258-branch-of-vitu-ghazi]] — Same canonical landmark. The locket's flavor names Vitu-Ghazi as the source the Selesnya tree-seeds spread from; Branch of Vitu-Ghazi (MKM-258) is the world-tree itself rendered as a Disguise-land with a glowing doorway in its trunk. Pendant-and-axis-mundi pair, both inscribed with the Selesnya tree-sigil. `[MTG Wiki: Vitu-Ghazi]` `[Scryfall: Selesnya Locket GRN-240 flavor_text]`

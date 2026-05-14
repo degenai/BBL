@@ -15,7 +15,7 @@ tags_filter: ["no-figures", "close-up", "object-portrait", "blue-magic", "multic
 reference_image: cards/_images/magic-the-gathering/modern-horizons/232-talisman-of-curiosity.png
 average_cost_paid: 0
 market_price: 0.44
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 art_match_confidence: high

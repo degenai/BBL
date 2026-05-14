@@ -16,8 +16,8 @@ tags_hub: ["locket", "jewelry", "gold", "coins", "treasure", "wealth", "relic", 
 tags_filter: ["no-figure", "close-up", "scene-mode", "artifact", "white-magic", "black-magic", "multicolor-white-black", "card-draw", "mana-rock"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/236-orzhov-locket.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-12
+market_price: 0.13
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 art_match_confidence: high

@@ -14,8 +14,8 @@ tags_hub: ["fire", "flames", "eruption", "explosion", "ritual", "magic", "sparks
 tags_filter: ["red-magic", "instant", "scene-mode", "no-face", "wide-shot", "abstract-mode", "figureless"]
 reference_image: cards/_images/magic-the-gathering/mystery-booster-retail-exclusives/153-pyretic-ritual--foil.png
 average_cost_paid: 0
-market_price: 15.01
-market_price_as_of: 2026-05-12
+market_price: 15.12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 art_match_confidence: high

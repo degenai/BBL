@@ -7,7 +7,7 @@ rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 2
+quantity: 3
 held_for_lair: 0
 bundles: []
 tags_hub: ["outcast", "thorns", "brambles", "hooded-figure", "robed-figure", "forest", "night", "dead-tree", "lurker", "fairy-tale", "exile", "watcher"]
@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "portrait-mode", "no-clear-fa
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/92-lash-of-thorns.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-05
 last_seen: 2026-05-12
 art_match_confidence: high

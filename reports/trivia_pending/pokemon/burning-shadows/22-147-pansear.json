@@ -1,0 +1,41 @@
+{
+  "card_name": "Pansear",
+  "game": "Pokemon",
+  "set": "Burning Shadows",
+  "collector_number": "22/147",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Pansear: red-coated fire-type monkey with cream head tuft matches sm3-22 record and Bulbapedia Elemental monkeys article.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Pansear represents 'hear no evil' in the elemental monkey trio's three-wise-monkeys design conceit; Panpour = see no evil, Pansage = speak no evil. All three share identical base stats.",
+      "sources": ["Bulbapedia: Elemental monkeys"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Burning Shadows (SM3) released August 5, 2017; elemental monkeys appear as straightforward Unova commons in an Alolan-era set headlined by Marshadow and Necrozma.",
+      "sources": ["PokemonTCG.io: sm3"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Very intelligent, it roasts berries before eating them. It likes to help people.\" — fire-type culinary behavior and cooperative disposition.",
+      "sources": ["PokemonTCG.io: sm3-22 flavorText field"]
+    },
+    {
+      "category": "design",
+      "text": "In Black and White, the player receives a Pansear as a gift in the Dreamyard if they chose Oshawott as their starter, providing fire-type coverage against the first gym.",
+      "sources": ["Bulbapedia: Elemental monkeys"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Panpour", "set": "Burning Shadows", "note": "Water-arm of the trio, same set"},
+    {"name": "Pansage", "set": "multiple", "note": "Grass-arm, completes the trio"},
+    {"name": "Simisear", "set": "multiple", "note": "Pansear's evolution via Fire Stone"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

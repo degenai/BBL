@@ -16,7 +16,7 @@ tags_filter: ["solo", "mid-shot", "action-mode", "three-quarter", "female-figure
 reference_image: cards/_images/magic-the-gathering/aetherdrift/61-skystreak-engineer.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/5/b/5bc9c501-098d-4560-9826-329b05689e0f.png?1738356249
@@ -67,4 +67,8 @@ A confident woman in fitted blue-and-teal flight attire perches atop a swept-bac
 - Loxodon Surveyor (Aetherdrift) — Aether Rangers supporting-cast card, another mechanic/crew member in the team roster
 - Sabotage Strategist (Aetherdrift) — Aether Rangers supporting-cast card in the depicted roster
 - Rangers' Aetherhive (Aetherdrift) — Aether Rangers associated card (team-named artifact)
+
+## Connections
+
+- [[aether-rangers]] — Aether Rangers roster card. Per MTG Wiki's secondary-character index Garima is canonically a Rangers team member with this as her sole card appearance; the Rangers' "Depicted in" roster lists this card explicitly. Engineer test-piloting her own design — the worker who built the machine is also the one who flies it. `[MTG Wiki: Aether Rangers — Depicted in]` `[MTG Wiki: List of secondary characters / Avishkar — Garima]`
 

@@ -1,0 +1,40 @@
+{
+  "edge_id": "wave36-e2-agency-rami-node",
+  "shape": "node-proposal",
+  "category": "named-faction-character",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/agency.md", "name": "The Agency (R.A.M.I.)"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/38-agency-outfitter.md", "name": "Agency Outfitter"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/42-burden-of-proof.md", "name": "Burden of Proof"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/51-curious-inquiry.md", "name": "Curious Inquiry"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/54-eliminate-the-impossible.md", "name": "Eliminate the Impossible"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/65-mistway-spy.md", "name": "Mistway Spy"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/113-case-of-the-burning-masks.md", "name": "Case of the Burning Masks"}
+  ],
+  "description": "Forgive the interruption, sirs. Edgelord was about to write a card-to-card edge between Burden of Proof and Eliminate the Impossible and noticed there is in fact a designer-named canonical faction — the Ravnican Agency of Magicological Investigations, R.A.M.I., founded by the archon Ezrim — that anchors all six MKM detective cards properly. So I, ah, made the node? It's the canonical post-Phyrexian-Invasion cross-guild detective bureau, which is to say, in-universe it is what replaces the ten-guild system that defined Ravnica for twenty years of Wizards' design work. The 'agency' slug beats 'investigation' and 'detective-noir' for ZING per the hubs-hand-curated rule; the faction-character framing beats hub because R.A.M.I. is a specific named institution with named officers (Ezrim, Alquist Proft, Etrata, Kellan, Kaust, Sophia), not a thematic concept. Exit Specialist (MKM-55) deliberately not wired — disguise mechanic is shared by Agency operatives AND the underworld criminals they investigate; flagged as deferred-triage pending story-article confirmation of which side that card is on.",
+  "citations": [
+    "[MTG Wiki: Ravnican Agency of Magicological Investigations]",
+    "[MTG Wiki: Ezrim]",
+    "[MTG Wiki: Alquist Proft]",
+    "[Wizards of the Coast: Planeswalker's Guide to Murders at Karlov Manor, Emily Teng 2024-02-01]",
+    "[Wizards of the Coast: Magic Story: Murders at Karlov Manor episodes 1-7, Seanan McGuire 2023-12-05 through 2024-01-15]",
+    "[Scryfall: set:mkm type:detective — 85+ Detective subtype cards]"
+  ],
+  "files_modified": [
+    "cards/_characters/agency.md (created)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/38-agency-outfitter.md (characters frontmatter)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/42-burden-of-proof.md (characters frontmatter)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/51-curious-inquiry.md (characters frontmatter)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/54-eliminate-the-impossible.md (characters frontmatter)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/65-mistway-spy.md (characters frontmatter)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/113-case-of-the-burning-masks.md (characters frontmatter)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "Hub 'investigation' or 'detective-noir' — rejected. Designer-named faction (R.A.M.I.) beats generic-concept hub per hubs-hand-curated discipline. The Agency is a specific institution with named officers, not a thematic abstraction.",
+    "Symbol 'all-seeing-eye-badge' — deferred. The R.A.M.I. badge is canonically the Ravnican-skyline-with-all-seeing-eye device, but corpus cards don't yet depict the badge as foreground iconography. When a card surfaces it as figure-level art (parallel to how Orzhov Signet thrones got the symbol node), the symbol case becomes immediate.",
+    "Sub-nodes for Ezrim, Alquist Proft, Etrata, Kellan, Kaust, Sophia, Tam Sennic — deferred. None depicted in current corpus prints (corpus carries generic-archetype Agency operatives, not the named-legendary printings). Parallels the Ral-Zarek-under-Izzet-League pattern: sub-node when the named-legendary printing lands.",
+    "Exit Specialist (MKM-55) wiring — deferred-triage. Disguise mechanic is faction-ambiguous; could be Agency or could be underworld."
+  ]
+}

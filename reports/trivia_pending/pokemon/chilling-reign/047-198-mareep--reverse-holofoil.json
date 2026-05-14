@@ -1,0 +1,41 @@
+{
+  "card_name": "Mareep",
+  "game": "Pokemon",
+  "set": "Chilling Reign",
+  "collector_number": "047/198",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via PokemonTCG.io swsh6-47 name field. National Pokedex no. 179. Johto Electric-type sheep. Reverse Holofoil variant.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Mareep's name is likely a combination of 'Mary' (from 'Mary Had a Little Lamb') and 'sheep.' The name is also an anagram of 'ampere,' foreshadowing the evolution line's endpoint Ampharos. The Japanese name Merriep combines 'merry,' the sheep vocalization 'mē,' and 'sheep.'",
+      "sources": ["Bulbapedia: Mareep", "WebSearch snippet via Bulbapedia"]
+    },
+    {
+      "category": "design",
+      "text": "Mareep and its evolution line are widely considered a reference to Philip K. Dick's 1968 novel 'Do Androids Dream of Electric Sheep?' (the source novel for Blade Runner). The electric sheep premise maps directly onto an Electric-type sheep Pokemon.",
+      "sources": ["GameFAQs: 'Do Androids Dream of Mareep?' thread", "Game Informer: Sableye and Mareep design origins, 2015"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Rubbing its fleece generates electricity. You'll want to pet it because it's cute, but if you use your bare hand, you'll get a painful shock.\" The static-friction electricity mechanic mirrors how real wool builds up triboelectric charge.",
+      "sources": ["PokemonTCG.io: swsh6-47"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Corpus note: this is a Reverse Holofoil print. The archive now holds at least three Mareep/Flaaffy prints across sets, making the electric-sheep evo pair one of the more represented Johto lines in the collection.",
+      "sources": ["PokemonTCG.io: swsh6-47 variance field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Flaaffy", "set": "Chilling Reign", "note": "direct evolution, same set adjacency"},
+    {"name": "Ampharos", "set": "various", "note": "final evolution of the line"},
+    {"name": "Mareep", "set": "other sets", "note": "cross-print instances share species identity"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

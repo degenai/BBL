@@ -1,0 +1,36 @@
+{
+  "card_name": "Urn of Vitality",
+  "game": "Pokemon",
+  "set": "Battle Styles",
+  "collector_number": "139/163",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No IP flag. Item card depicting a Single Strike emblem urn artifact.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Urn of Vitality is a Single Strike Item card from Battle Styles (March 19, 2021). Its effect — shuffle up to 2 Single Strike Energy from discard back into deck — directly supports the resource-recovery loop that Single Strike decks require, given that Single Strike Energy is a special energy with restricted search options. [Frontmatter oracle_text; Battle Styles TCG overview via WebSearch]",
+      "sources": ["Frontmatter oracle_text", "Bulbapedia: Battle Styles TCG"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Paired with Single Strike Scroll of Scorn (which grants a damage-counter-scaling attack) and Single Strike Urshifu VMAX (the set's flagship attacker), Urn of Vitality forms part of the resource-recovery suite that keeps Single Strike decks consistently fueled across multiple turns. The three cards are intentionally co-designed as a supporting ecosystem for the battle style. [Pokemon.com: Battle Styles Single Strike announcement, via WebSearch]",
+      "sources": ["Pokemon.com: Battle Styles Single Strike announcement"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Toyste Beach, who also illustrated Telescopic Sight (Vivid Voltage) in this wave. The urn's dark clay, chiaroscuro lighting, and Single Strike badge combine ceremonial vessel aesthetics with the martial Single Strike color-coding (red/black). [Frontmatter artist field]",
+      "sources": ["Frontmatter artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Single Strike Scroll of Scorn", "set": "Battle Styles", "note": "Companion Tool card — the offensive complement to Urn's recovery role"},
+    {"name": "Single Strike Energy", "set": "Battle Styles", "note": "The special energy type Urn of Vitality recovers"},
+    {"name": "Single Strike Urshifu VMAX", "set": "Battle Styles", "note": "Primary attacker that the Single Strike support suite is built around"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

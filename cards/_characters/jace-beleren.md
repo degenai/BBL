@@ -2,7 +2,7 @@
 type: character
 name: Jace Beleren
 aliases: [jace-beleren, jace, jace-the-mind-sculptor, jace-the-living-guildpact, jace-arcane-strategist, jace-mirror-mage, mind-sculptor]
-universe: Magic: The Gathering / Multiverse
+universe: "Magic: The Gathering / Multiverse"
 faction: ~
 species: human planeswalker (telepath, illusionist)
 canonical_source: "MTG Wiki — Jace Beleren; Wizards of the Coast story archive; War of the Spark: Ravnica novel (Greg Weisman, Del Rey 2019); Zendikar Rising story articles"

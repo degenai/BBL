@@ -15,7 +15,7 @@ tags_filter: ["solo", "wide-shot", "scene-mode", "no-face", "three-quarter", "ar
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/228-roving-keep.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 art_match_confidence: high

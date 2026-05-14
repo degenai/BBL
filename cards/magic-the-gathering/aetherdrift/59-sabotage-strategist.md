@@ -15,8 +15,8 @@ tags_hub: ["vedalken", "mechanic", "saboteur", "racing", "tools", "goggles", "bl
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "action-mode", "blue-magic", "creature-vedalken", "creature-rogue", "flying", "vigilance", "exhaust", "male-figure"]
 reference_image: cards/_images/magic-the-gathering/aetherdrift/59-sabotage-strategist.png
 average_cost_paid: 0
-market_price: 0.07
-market_price_as_of: 2026-05-12
+market_price: 0.08
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/c/8/c8bb15e2-e1ad-4645-aab0-df4a1a68563d.png?1738356245
@@ -68,4 +68,8 @@ A Vedalken figure rendered in deep cyan-blue tones occupies the foreground, lean
 - Sita Varma, Masked Racer (Aetherdrift) — Aether Rangers star pilot "Spitfire"; the other co-leader.
 - Rangers' Aetherhive (Aetherdrift) — Aether Rangers associated team-named card.
 - Rangers' Refueler (Aetherdrift) — Aether Rangers associated team-named card.
+
+## Connections
+
+- [[aether-rangers]] — Aether Rangers roster card. The Ranger creature subtype on the type-line wires the figure directly to team identity; MTG Wiki's Aether Rangers "Depicted in" roster lists this card alongside Elvish Refueler, Loxodon Surveyor, Nimble Thopterist, and Skystreak Engineer. Vedalken saboteur in racing goggles, gripping a wrench — the team's technical-sabotage operational register. `[MTG Wiki: Aether Rangers — Depicted in]`
 

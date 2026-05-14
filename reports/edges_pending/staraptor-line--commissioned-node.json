@@ -1,0 +1,46 @@
+{
+  "edge_id": "staraptor-line--commissioned-node",
+  "shape": "node-proposal",
+  "topology": "branch",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/staraptor-line.md", "name": "Staraptor evolutionary line (Starly / Staravia / Staraptor)"},
+    {"type": "card", "path": "cards/pokemon/brilliant-stars/117-172-starly.md", "name": "Starly (Brilliant Stars 117/172)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/145-189-starly.md", "name": "Starly (Darkness Ablaze 145/189)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/147-189-staraptor.md", "name": "Staraptor (Darkness Ablaze 147/189)"}
+  ],
+  "description": "Sir — terribly sorry to step in, Edgelord deferred to me on the cohort threshold question. Three corpus prints across two of three line members (two Starly bookends at the base stage, one Staraptor apex; the Staravia middle slot at Pokedex 397 is not in corpus). The wave 22 wave-prompt-pre-nominated this slot for Mr. Nodeley pickup with the explicit framing 'cohort node parallel to charizard-line precedent (which was built at 2 species across multiple prints)' — I followed the charizard-line.md template exactly, with caveats on the missing-middle-stage Staravia slot, the Sinnoh-revisit Hisuian-era flavor expansion (Pokemon Legends: Arceus 2022), the leaves-the-flock-at-Staraptor narrative-arc canon being apex-stage-scoped (not base-or-middle-scoped), and the regional-bird-line cross-generation Pokemon-design-convention that opens future sibling-node candidates per-region (Pidgey-line Kanto, Pidove-line Unova, Fletchling-line Kalos, Rookidee-line Galar, etc.). I do hope the node isn't redundant, sir — the within-Darkness-Ablaze partial-triptych at 145+147 (with absent 146 Staravia) is structurally the bookends-form of the within-Vivid-Voltage Charmander-Charmeleon-Charizard 023+024+025 full-triptych, which the wave 14 Edgelord pass took as evidence of designer-coordinated within-set evolutionary-arc cohesion. If I overstepped I'll bow out, but the threshold conditions looked met and the bookends-pattern looked load-bearing.",
+  "citations": [
+    "[Bulbapedia: Starly (Pokemon) — National Pokedex no. 396]",
+    "[Bulbapedia: Staravia (Pokemon) — National Pokedex no. 397]",
+    "[Bulbapedia: Staraptor (Pokemon) — National Pokedex no. 398]",
+    "[Pokemon.com: Pokedex no. 396 / 397 / 398]",
+    "[Pokemon Diamond and Pearl (Game Freak, 2006)]",
+    "[Pokemon Brilliant Diamond and Shining Pearl (Game Freak, 2021)]",
+    "[Pokemon Legends: Arceus (Game Freak, 2022)]",
+    "[Smogon OU — Staraptor Reckless + Brave Bird competitive analysis]",
+    "[PokemonTCG.io: per-card metadata for the three corpus prints]",
+    "[BBL wave 24 E4 deferral note: Sinnoh bird evolution mirror flagged as 'future pass']",
+    "[Precedent: cards/_characters/charizard-line.md commissioned at Mr. Nodeley wave 14]"
+  ],
+  "files_modified": [
+    "cards/_characters/staraptor-line.md (created)",
+    "cards/pokemon/brilliant-stars/117-172-starly.md (frontmatter: characters: [staraptor-line] added after ip_verified: false)",
+    "cards/pokemon/darkness-ablaze/145-189-starly.md (frontmatter: characters: [staraptor-line] added after ip_verified: false)",
+    "cards/pokemon/darkness-ablaze/147-189-staraptor.md (frontmatter: characters: [staraptor-line] added after ip_verified: true)",
+    "cards/_characters/charizard-line.md (related_characters frontmatter extended: [galar-gym-challenge] -> [galar-gym-challenge, staraptor-line])"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "Galar bird trainer + bird keeper cohort node — Bird Keeper (DAA-159, Pokemon Trainer class) + Rookidee (DAA-154, Galar Corviknight pre-evo). 2 corpus cards across 2 different concepts (a trainer-class Supporter card vs a Galarian regional-bird species). Threshold not met AND the two cards anchor different node-types (Bird Keeper is a trainer-class Supporter that would anchor a future bird-keeper-trainer-class node or extend the galar-gym-challenge node; Rookidee is a Galar regional-bird species that would extend a future rookidee-line cohort node). Refused as premature on both counts.",
+    "Birds-general / avian Pokemon-side cluster (13+ corpus cards) — Starly + Rookidee + Staraptor + Bird Keeper + Wingull + Fletchling + Fletchinder + Noibat + Sigilyph + Rowlet + Dartrix + Zarude V + Cosmog (debatable). Over-broad cluster. Hubs are hand-curated by Alex per the bbl-hubs-hand-curated memory note, so I refuse to propose a hub. A cross-species avian-cohort character node would be too broad — the avian phenotype is a tag-bridge across most regional-bird-lines, not a designer-coordinated cohort. Refused as over-broad.",
+    "Bird Keeper solo character node — single corpus card; threshold not met. Refused as premature.",
+    "Castform-forms-cycle ↔ Solrock-Lunatone-pair related_characters mirror (Hoenn-weather-themed faction-collective sibling) — both are Hoenn-region Pokemon-collective character nodes, but Castform is a single-species forms-cycle (one Pokemon with multiple weather-triggered Forms) and Solrock-Lunatone is a paired-species pair (two distinct species). The two anchor different cohort-shape types. The cross-edge would be tag-bridge-tier (both happen to be Hoenn-coded Pokemon collectives). Refused as filter-tier."
+  ],
+  "future_passes_unlocked": [
+    "When Staravia (Pokedex 397, middle stage) joins corpus via future Collectr CSV upload, it attaches here and the within-DAA-set partial-triptych at 145+146+147 becomes a full-triptych evolutionary-arc cohesion stack — the corpus's second after the Vivid-Voltage Charizard-line.",
+    "When Pidgey-line, Pidove-line, Fletchling-line, Pikipek-line, Hoothoot-line, Taillow-line, or Rookidee-line corpus prints cross threshold (3+ prints across 2+ stages), sibling regional-bird-line cohort nodes become Mr. Nodeley candidates.",
+    "When 3+ sibling regional-bird-line cohort nodes are in graph, a regional-bird-lines parent-cohort node becomes a Mr. Nodeley candidate (the cross-generation Pokemon-design-convention anchor for the regional-bird-line slot per region).",
+    "Bundle-cohesion Discrete Lair candidate — staraptor-line at 3 enriched corpus members is at threshold for a future leaves-the-flock departure-from-cohort-themed Discrete Lair. The bundler can survey this node once a Staravia print lands to push corpus to 4 enriched."
+  ]
+}

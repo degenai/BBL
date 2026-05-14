@@ -1,0 +1,22 @@
+{
+  "edge_id": "mkm-roster-extension--agency",
+  "shape": "1:N",
+  "topology": "branch",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/agency.md", "name": "The Agency (R.A.M.I.)"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/141-reckless-detective.md", "name": "Reckless Detective"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/124-expose-the-culprit.md", "name": "Expose the Culprit"}
+  ],
+  "description": "Two MKM cards wired to the Agency: Reckless Detective (the name carries the canonical R.A.M.I. Detective creature subtype; a goblin-detective charging a burning crime scene is the red-coded reckless-rogue archetype) and Expose the Culprit (the Disguise-pile manipulation IS the rules-text rendering of Agency case-resolution procedure, and the ballroom-unmasking scene is MKM's institutional set-piece). **Two MKM cards were investigated and REJECTED as Agency edges**: Convenient Target (MKM-119, horned villain trapping armored figure in fire-orb — predator's POV, not investigator's) and Caught Red-Handed (MKM-115, panicked culprit pressed against gold-and-clockwork wall claiming framing — culprit's POV). Both criminal-side and both Suspect-mechanic-coded. The Agency node should grow but NOT absorb every MKM card; the criminals are the Agency's *targets*, not its members. Per the agency.md caveats: 'thematically infiltration / escape rather than investigation' rule (already applied to Exit Specialist) applies here.",
+  "citations": ["[MTG Wiki: Detective (creature type)]", "[MTG Wiki: Disguise (mechanic)]", "[MTG Wiki: Ravnican Agency of Magicological Investigations]", "[Wizards: Planeswalker's Guide to Murders at Karlov Manor by Emily Teng, 2024-02-01]"],
+  "files_modified": [
+    "cards/magic-the-gathering/murders-at-karlov-manor/141-reckless-detective.md",
+    "cards/magic-the-gathering/murders-at-karlov-manor/124-expose-the-culprit.md",
+    "cards/_characters/agency.md"
+  ],
+  "other_candidates_considered": [
+    "MKM Underworld / Suspect-side sub-faction character node — 2 anchors (Convenient Target + Caught Red-Handed) both criminal-POV and both carrying the Suspect mechanic. CONSIDERED BUT REFUSED at this threshold: the MKM 'criminal side' is canonically diffuse, not a single named faction — the criminals are drawn from Rakdos, Dimir, and freelance operators, with named figures (Etrata, Massacre Girl, Kaust) belonging to distinct in-canon factions rather than a unified Underworld. A character-layer faction node would conflate three real factions under a designer-mechanic umbrella, which is the role-vs-identity conflation rule formalized in the bbl-triviabot spec (Tithe Drinker / Slavomir Zoltan precedent). The cleaner future move is a SYMBOLS-layer entry for the Suspect mechanic (parallel to single-strike-emblem.md as a designer-coordinated mechanical primitive) when ≥3 Suspect-coded cards accumulate. Deferred to janitor_triage."
+  ],
+  "edgelord_mood": "blueballed-by-fanout"
+}

@@ -1,0 +1,40 @@
+{
+  "card_name": "Wishiwashi",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "050/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Species name printed on card face; PokemonTCG.io API (swsh3-50) confirms name=Wishiwashi, nationalPokedexNumbers=[746], Basic. Depicted small round fish with large teardrop-shaped eyes in clear blue-green water matches canonical Wishiwashi Solo Form appearance exactly.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Wishiwashi (National Pokedex no. 746) is the only Pokemon whose base stat total in Solo Form (175) is the lowest of all Pokemon, lower even than Sunkern's previous record. Its School Form — activated by the Schooling ability when HP is above 25% and the Pokemon is level 20 or higher — has a base stat total of 620, which exceeds most Legendary Pokemon. This is the single largest stat-swing between a Pokemon's forms in the franchise. [PokemonDB: Wishiwashi; Bulbapedia: Wishiwashi, via WebSearch snippet; Smogon: Wishiwashi SM analysis, via WebSearch snippet]",
+      "sources": ["PokemonDB: Wishiwashi (via WebSearch snippet)", "Bulbapedia: Wishiwashi (via WebSearch snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Wishiwashi is a Water-type Basic introduced in Generation VII (Pokemon Sun and Moon, 2016), native to Alola. The card depicts it in Solo Form — the fragile individual fish with teardrop eyes — consistent with the flavor text's framing of individual weakness. The DAA card has no Schooling mechanic in the TCG (no Ability that transforms it), representing the vulnerable baseline state only. [PokemonTCG.io API: swsh3-50]",
+      "sources": ["PokemonTCG.io API: swsh3-50"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Individually, they're incredibly weak. It's by gathering up into schools that they're able to confront opponents.\" — printed on DAA-050. [PokemonTCG.io API: swsh3-50]",
+      "sources": ["PokemonTCG.io API: swsh3-50"]
+    },
+    {
+      "category": "design",
+      "text": "Art by sui (a Pokemon TCG illustrator who signs with the single lowercase name). The card's close-up portrait framing — a tiny fish alone in wide open water — is a direct visual expression of the species' design thesis: the individual is almost pathetically small and vulnerable, with the large teardrop-shaped eyes amplifying the sense of fragility. [PokemonTCG.io API: swsh3-50 artist field]",
+      "sources": ["PokemonTCG.io API: swsh3-50"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Wishiwashi (School Form)", "set": "various", "note": "School Form TCG cards if they exist; the 620-BST transformed state"},
+    {"name": "Wishiwashi GX (Burning Shadows)", "set": "Burning Shadows", "note": "GX card with Schooling mechanic in TCG; the transformed School Form version"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

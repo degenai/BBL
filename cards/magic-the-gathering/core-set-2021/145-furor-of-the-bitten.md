@@ -15,7 +15,7 @@ tags_filter: ["solo", "close-up", "forward-facing", "portrait-mode", "no-face-ob
 reference_image: cards/_images/magic-the-gathering/core-set-2021/145-furor-of-the-bitten.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/c/b/cb0e6279-8a66-4124-9def-fa0c83c26db9.png?1594736626

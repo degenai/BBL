@@ -1,0 +1,41 @@
+{
+  "card_name": "Rolycoly",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "105/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Rolycoly via PokemonTCG.io API card swsh2-105; National Pokedex no. 837, Rock-type, Generation VIII coal-chunk Pokemon introduced in Pokemon Sword & Shield.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Rolycoly (National Pokedex no. 837) is a pure Rock-type Pokemon introduced in Generation VIII, set in the UK-modeled Galar region. The Galar region's design draws heavily from Great Britain's industrial period, including its coal-mining economy.",
+      "sources": ["WebSearch: PokéJungle 'Rolycoly, Carkol, Coalossal — Origin of Species'", "WebSearch: Bulbapedia Rolycoly snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.\" The 400-year timeframe aligns with the early stages of the British Industrial Revolution coal-mining boom, grounding the species in Galar's period setting.",
+      "sources": ["PokemonTCG.io API: swsh2-105 flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "Rolycoly's Carkol evolution evokes a minecart (dark cart-like form rolling along mine tracks). Coalossal (final evolution, no. 839) is a towering coal furnace-form, completing the mine-to-furnace arc of the line's industrial metaphor.",
+      "sources": ["WebSearch: PokéJungle 'Rolycoly, Carkol, Coalossal — Origin of Species'", "WebSearch: retbit.com 'Rolycoly evolution redesign'"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rolycoly's hidden ability is Flash Fire (activated on Carkol and Coalossal), making the line relevant in competitive doubles as a Fire absorber for its partner.",
+      "sources": ["WebSearch: Bulbapedia Carkol snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Carkol", "set": "Rebel Clash", "note": "Stage-1 evolution; same coal/labor lore axis"},
+    {"name": "Coalossal", "set": "Rebel Clash or later sets", "note": "Final evolution; furnace-form, completes the line"},
+    {"name": "Galar Mine", "set": "Rebel Clash", "note": "Location card depicting the extractive site the line inhabits"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

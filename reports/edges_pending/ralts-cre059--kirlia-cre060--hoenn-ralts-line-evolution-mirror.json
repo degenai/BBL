@@ -1,0 +1,26 @@
+{
+  "edge_id": "ralts-cre059--kirlia-cre060--hoenn-ralts-line-evolution-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/chilling-reign/059-198-ralts.md", "name": "Ralts (Chilling Reign 059/198)"},
+    {"type": "card", "path": "cards/pokemon/chilling-reign/060-198-kirlia.md", "name": "Kirlia (Chilling Reign 060/198)"}
+  ],
+  "description": "Within-set Hoenn Ralts-line evolution 1:1 mirror. Ralts (Stage 1, no. 280) -> Kirlia (Stage 2, no. 281) -> Gardevoir or Gallade (Stage 3), with the in-corpus pair being the base-to-mid leg of the Hoenn psychic-empath line. Adjacent collector numbers (059-060) within Chilling Reign. The fan to 1:N via Kirlia BUS-92 (trivia'd) and Kirlia LOT-140 (vision-only) was considered and deferred — the within-set adjacent-number mirror is the strongest single edge, and cross-print Kirlias can attach to the same canonical connection later without restructuring. Mirrors the Sobble/Drizzile within-set Galar Water starter evolution edge (slot 1 of this same QUAD pass) and the wave-14 Charmander/Charmeleon/Charizard pattern.",
+  "citations": [
+    "[PokemonTCG.io: swsh6-59 evolvesTo Kirlia]",
+    "[PokemonTCG.io: swsh6-60 evolvesFrom Ralts, evolvesTo Gardevoir]",
+    "[Bulbapedia: Ralts (Pokemon)]",
+    "[Bulbapedia: Kirlia (Pokemon)]"
+  ],
+  "files_modified": [
+    "cards/pokemon/chilling-reign/059-198-ralts.md",
+    "cards/pokemon/chilling-reign/060-198-kirlia.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "1:N fan from CRE-060 Kirlia to BUS-92 Kirlia + LOT-140 Kirlia (cross-print Kirlias) — deferred; the within-set adjacent-number evolution mirror is the canonical Edgelord shape and the cross-print Kirlia mirror is a distinct semantic axis (same-character cross-print, not evolution-line) that would dilute this edge's narrative weight. The cross-print Kirlia 1:N is a separate future move; the existing connections bullet on CRE-060 already names the BUS-92 and LOT-140 prints as future-attaching candidates.",
+    "Ralts-line ancestor Mr. Nodeley character node — defer; only 2 corpus members of the line currently enriched (CRE-059 Ralts + CRE-060 Kirlia, plus BUS-92 Kirlia and LOT-140 Kirlia which are cross-prints of one member). Threshold should be 3+ DISTINCT species in line, not 3+ corpus cards. Gardevoir / Gallade not yet in corpus. Defer."
+  ]
+}

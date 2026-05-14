@@ -14,8 +14,8 @@ tags_hub: ["satyr", "underworld", "escape", "fire", "horns", "trickster", "misch
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "action-mode", "male-figure", "red-magic", "creature-satyr", "sorcery"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/152-satyr-s-cunning--foil.png
 average_cost_paid: 0
-market_price: 0.2
-market_price_as_of: 2026-05-12
+market_price: 0.22
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

@@ -14,8 +14,8 @@ tags_hub: ["cat", "lion", "forest", "regal", "fae-court", "fairy-tale", "lore-ke
 tags_filter: ["mid-shot", "portrait-mode", "solo", "forward-facing", "creature-cat", "green-mono", "uncommon"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/163-keeper-of-fables.png
 average_cost_paid: 0
-market_price: 0.34
-market_price_as_of: 2026-05-12
+market_price: 0.35
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/6/7/6754d6cf-3506-48b5-a0ef-8a90b8dd2701.png?1572490595

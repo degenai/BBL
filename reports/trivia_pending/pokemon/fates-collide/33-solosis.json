@@ -1,0 +1,46 @@
+{
+  "card_name": "Solosis",
+  "game": "Pokemon",
+  "set": "Fates Collide",
+  "collector_number": "33",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Visual match confirmed: small green creature encased in translucent jelly-like membrane matches National Pokedex no. 577 exactly. PokemonTCG.io API xy10-33 confirms name, types, and artist.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Solosis appears as a Psychic-type common in Fates Collide (XY10, May 2016), a set built around psychic and dimensional themes headlined by Alakazam-EX and Zygarde. Solosis is a Generation V (Unova) Pokemon appearing in a Generation VI (XY) set.",
+      "sources": ["PokemonTCG.io API: xy10-33", "WebSearch: Pokebeach Fates Collide overview"]
+    },
+    {
+      "category": "design",
+      "text": "Solosis (National Pokedex no. 577) is explicitly designed after a biological cell: body = nucleus, surrounding green fluid = cytoplasm, curly yellow growth = endoplasmic reticulum. The psychic fluid allows it to survive in any environment including the vacuum of space; when struck hard the fluid can leak away.",
+      "sources": ["WebSearch: Bulbapedia Solosis", "WebSearch: bogleech.com/pokemon/p577solosis"]
+    },
+    {
+      "category": "design",
+      "text": "The Solosis->Duosion->Reuniclus line traces cell division: single cell, two nuclei (dividing cell), morula-cluster embryo. One of the franchise's most explicitly biology-grounded design families.",
+      "sources": ["WebSearch: Bulbapedia Reuniclus", "WebSearch: professorrimu.wordpress.com Science of Multiplying Pokemon"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.\"",
+      "sources": ["PokemonTCG.io API: xy10-33"]
+    },
+    {
+      "category": "design",
+      "text": "Art credited to match, a Pokemon TCG illustrator active across XY-era commons.",
+      "sources": ["PokemonTCG.io API: xy10-33"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Duosion", "set": "any", "note": "Mid-stage evolution; two-nuclei dividing cell design"},
+    {"name": "Reuniclus", "set": "any", "note": "Final evolution; morula-cluster embryo; the cell colony endpoint"},
+    {"name": "Alakazam-EX", "set": "Fates Collide", "note": "Marquee card of the same set; both Psychic-type with psychic-power emphasis"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

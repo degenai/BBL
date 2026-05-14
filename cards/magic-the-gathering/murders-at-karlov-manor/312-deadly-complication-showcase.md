@@ -15,7 +15,7 @@ tags_filter: ["duo", "2-figures", "overhead-shot", "scene-mode", "no-face", "bla
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/312-deadly-complication-showcase.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-10
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/7/c/7c68981c-037c-42e7-9b7f-6f07edab5f2e.png?1706242142
@@ -25,6 +25,7 @@ mood: grim
 time_of_day: indeterminate
 setting: indoor
 artist: Jodie Muir
+symbols: ["suspect"]
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/312-deadly-complication-showcase--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/c/7c68981c-037c-42e7-9b7f-6f07edab5f2e.jpg?1706242142
 flavor_text: Teysa's security was unrivaled. Etrata was locked up. Kaya was left with nothing but multiplying questions... and a dead friend.

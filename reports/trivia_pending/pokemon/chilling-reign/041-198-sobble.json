@@ -1,0 +1,41 @@
+{
+  "card_name": "Sobble",
+  "game": "Pokemon",
+  "set": "Chilling Reign",
+  "collector_number": "041/198",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via PokemonTCG.io swsh6-41 name field. National Pokedex no. 816. Galar Water starter base form.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Chilling Reign (June 18, 2021) is the sixth expansion in the Sword and Shield TCG series, based on the Crown Tundra DLC. Sobble appears here as a Rapid Strike Basic, a subtype introduced in Battle Styles, grouping coordinated-strike Pokemon together.",
+      "sources": ["PokemonTCG.io: swsh6", "screenrant.com: Chilling Reign expansion overview"]
+    },
+    {
+      "category": "design",
+      "text": "Sobble's evolution line carries a spy/secret-agent design arc through all three stages: Sobble (chameleon + anxious child), Drizzile (brooding adolescent who lays traps), and Inteleon (the 'Secret Agent Pokemon,' National Pokedex no. 818). Sobble's own Galar Pokedex entry number is 007 — a direct wink at the James Bond designation.",
+      "sources": ["Bulbapedia: Inteleon", "PokéJungle: Origin of Species Sobble, Drizzile, and Inteleon"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"When it gets wet, its skin changes color, and this Pokemon becomes invisible as if it were camouflaged.\" The camouflage trait is the mechanical through-line connecting Sobble's chameleon inspiration to Inteleon's stealth-sniper role.",
+      "sources": ["PokemonTCG.io: swsh6-41"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The 'Keep Calling' attack searches for up to 3 Basic Rapid Strike Pokemon — an unusually wide search for a Basic. In competitive play this made Sobble a functional setup piece in Rapid Strike builds during its Standard-legal window.",
+      "sources": ["PokemonTCG.io: swsh6-41 oracle text", "Limitless TCG"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Drizzile", "set": "Chilling Reign", "note": "direct evolution, same set adjacency"},
+    {"name": "Inteleon", "set": "Chilling Reign", "note": "final evolution of the line"},
+    {"name": "Sobble", "set": "various", "note": "cross-print instances share species identity"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

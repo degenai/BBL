@@ -1,0 +1,36 @@
+{
+  "card_name": "Wyndon Stadium",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "161/185",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip on file. Wyndon is a Galar location, not a character.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Wyndon Stadium is the largest stadium in Galar and the site of the Champion Cup, the single-elimination tournament that determines who challenges Champion Leon. The stadium's design is inspired by Wembley Stadium, including the iconic Wembley Arch. Wyndon is distinct from Hammerlocke: Hammerlocke is where Rose Tower (Macro Cosmos HQ) is located; Wyndon is where the stadium itself sits. [Bulbapedia: Wyndon Stadium, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Wyndon Stadium, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Stadium card's effect — heal 100 damage from any Pokemon VMAX when it evolves from a Pokemon V — is thematically coherent: in the games, Dynamaxing (the in-game equivalent of the VMAX mechanic) happens inside stadiums under Galar Particle energy. The card encodes the stadium's structural role in enabling Max-form battle. [PokemonTCG.io: swsh4-161 oracle text]",
+      "sources": ["PokemonTCG.io: swsh4-161"]
+    },
+    {
+      "category": "design",
+      "text": "Wyndon Stadium is the only Stadium card in Vivid Voltage that pairs mechanically with a Supporter card in the same set: League Staff (VIV-153) draws 2 extra cards if Wyndon Stadium is in play. Within-set mechanical pairing of a venue and its workforce at adjacent collector numbers (153, 161) is a Pokemon TCG designer signature, paralleling the Rose (DAA-168) + Rose Tower (DAA-169) pair from Darkness Ablaze. [PokemonTCG.io: swsh4-161, swsh4-153 oracle texts]",
+      "sources": ["PokemonTCG.io: swsh4-161", "PokemonTCG.io: swsh4-153"]
+    }
+  ],
+  "related_cards": [
+    {"name": "League Staff", "set": "Vivid Voltage", "note": "Mechanically paired — Supporter draws 2 extra when this Stadium is in play"},
+    {"name": "Rose Tower", "set": "Darkness Ablaze", "note": "Macro Cosmos HQ — Hammerlocke location; paired pattern with Rose (DAA-168)"},
+    {"name": "Turffield Stadium", "set": "Champion's Path", "note": "Galar League opening venue — Milo's Gym town anchors the other end of the Champion Cup arc"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

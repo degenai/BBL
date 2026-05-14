@@ -16,7 +16,7 @@ tags_filter: ["no-face", "no-figure", "scene-mode", "narrative-mode", "blue-magi
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/72-tamiyo-meets-the-story-circle.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/e/e/ee66a06e-a461-46af-a318-550bc35de5d0.png?1717011794

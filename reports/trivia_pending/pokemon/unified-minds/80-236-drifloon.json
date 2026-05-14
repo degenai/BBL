@@ -1,0 +1,45 @@
+{
+  "card_name": "Drifloon",
+  "game": "Pokemon",
+  "set": "Unified Minds",
+  "collector_number": "80/236",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via PokemonTCG.io sm11-80. National Pokedex no. 425 matches. Round purple balloon with yellow X-marking and string appendages is canonical Drifloon design.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Drifloon appears in Sun & Moon — Unified Minds (2019) as no. 80/236, a Common. National Pokedex no. 425, Ghost/Flying-type, introduced in Generation IV (Sinnoh).",
+      "sources": ["PokemonTCG.io: sm11-80"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Dark canon: Drifloon's Pokedex entries describe it grabbing children's hands and dragging them to the spirit world. The Japanese Pearl entry is more explicit than the English localization, naming 'the world of the dead' specifically. One of the franchise's most-cited examples of dark Pokedex lore.",
+      "sources": ["WebSearch: Kotaku 'Drifloon Steals Children And Was Created By Ghosts' (2019)", "WebSearch: Bulbapedia Drifloon snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Its round body is stuffed with souls and expands each time it leads someone away.\"",
+      "sources": ["PokemonTCG.io: sm11-80"]
+    },
+    {
+      "category": "design",
+      "text": "Card art (rainbow, flowers, sunny meadow) directly contrasts Pokedex canon — mirrors what a child would see. Dark reading requires knowing the lore. Recurring franchise design strategy for Ghost-types.",
+      "sources": ["Bulbapedia: Drifloon, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Drifloon is described as formed from the spirits of people and Pokemon, connecting it to broader Sinnoh spirit-world lore (Giratina, Distortion World).",
+      "sources": ["WebSearch: Bulbapedia Drifloon snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Drifblim", "set": "various", "note": "Evolution, same dark-lore lineage"},
+    {"name": "Phantump", "set": "various", "note": "Ghost-type peer with explicit child-abduction Pokedex lore"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

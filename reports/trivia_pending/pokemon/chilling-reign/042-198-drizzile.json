@@ -1,0 +1,41 @@
+{
+  "card_name": "Drizzile",
+  "game": "Pokemon",
+  "set": "Chilling Reign",
+  "collector_number": "042/198",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via PokemonTCG.io swsh6-42 name field. National Pokedex no. 817. Galar Water starter mid-form.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Drizzile occupies the 'sullen teenager' beat of the spy-line arc: highly intelligent but deliberately lazy, it deters intruders by laying water-trap snares rather than confronting them directly. This brooding passive-aggressive register contrasts with both Sobble's anxious shyness and Inteleon's composed assassin confidence.",
+      "sources": ["Bulbapedia: Drizzile", "PokéJungle: Origin of Species Sobble, Drizzile, and Inteleon"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere.\" Notable for explicitly naming a character flaw (laziness) in a starter Pokemon — an unusual design beat.",
+      "sources": ["PokemonTCG.io: swsh6-42"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Mitsuhiro Arita, one of the most prolific artists in Pokemon TCG history, having contributed artwork since the Base Set (1996). His pairing here with Yuu Nishida on the adjacent Sobble card creates a deliberate visual handoff across the evo pair.",
+      "sources": ["PokemonTCG.io: swsh6-42 artist field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Drizzile's single attack 'Bounce' (40 damage, switch to a benched Pokemon) is a pure pivot tool — low ceiling damage, high utility for retreating damaged attackers. The Rapid Strike subtype tag ties it into the subtype synergy engine that was the set's mechanical throughline.",
+      "sources": ["PokemonTCG.io: swsh6-42 oracle text"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sobble", "set": "Chilling Reign", "note": "direct pre-evolution, same set adjacency"},
+    {"name": "Inteleon", "set": "Chilling Reign", "note": "final evolution of the line"},
+    {"name": "Inteleon VMAX", "set": "Chilling Reign", "note": "the set's marquee Rapid Strike evolution of the same line"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "card_name": "Onix",
+  "game": "Pokemon",
+  "set": "Fusion Strike",
+  "collector_number": "138/264",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, art, and species confirmed as Onix via PokemonTCG.io API (swsh8-138). Internal Pokemon IP — no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Onix (National Pokedex no. 95) is a Generation I Rock/Ground-type introduced in 1996. At 28'10\" (8.8m) tall and 463 lbs (210.0 kg), it was the tallest Rock-type Pokemon at the time of its introduction.",
+      "sources": ["Bulbapedia Onix via WebSearch snippet", "pokemondb.net Onix"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Brock, the Pewter City Gym Leader and prominent recurring character in the Pokemon anime, received Onix from his father Flint on his 10th birthday. Onix was Brock's first and most powerful Pokemon throughout the early series. Brock eventually lent Onix to his younger brother Forrest, who evolved it into Steelix.",
+      "sources": ["pokemon.fandom.com/wiki/Onix via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Onix evolves into Steelix (Steel/Ground, no. 208, introduced Generation II) when traded while holding a Metal Coat. Pokedex lore states an Onix that lives roughly 100 years will develop a diamond-like internal composition over time, eventually becoming Steelix.",
+      "sources": ["Bulbapedia Steelix via WebSearch snippet", "pokemondb.net Steelix"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.\"",
+      "sources": ["PokemonTCG.io API swsh8-138"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Steelix", "set": "various", "note": "Trade evolution of Onix; Steel/Ground type"},
+    {"name": "Onix", "set": "Base Set", "note": "Original 1998 TCG print (56/102) with Brock anime lineage"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "edge_id": "gideon-jura-character-node-deferred",
+  "shape": "refusal",
+  "category": "named-character-identity",
+  "topology": "none",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/30-gideon-s-reproach.md", "name": "Gideon's Reproach"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/49-smite-the-monstrous.md", "name": "Smite the Monstrous"}
+  ],
+  "description": "Worst proposed node ever. Or rather: not worst, just structurally identical to the wave-35 Ajani case and Edgelord is not in the business of overcorrecting just because Wizards put the guy on a couple of Iconic Masters covers. Gideon Jura at 1 depicted anchor (Gideon's Reproach — golden energy sural lasso, ip_confidence: med) plus 1 flavor-speaker (Smite the Monstrous — Gideon watching kor in battle, depicted figure is a kor warrior, not Gideon). The Ajani precedent is unambiguous: 1 depiction + N flavor-speakers does not clear. The Chandra precedent (wave 38) is the threshold: 3 depictions. Yes, Gideon is a major planeswalker. Yes, he died in WAR. Yes, future Gideon prints are probable. None of that changes the threshold. Threshold is the threshold. I refuse. Triage with trigger condition matching the wave-35 Ajani entry.",
+  "citations": [
+    "[wave-35 E1 Edgelord pass: Ajani precedent — 1 depicted anchor + 2 flavor-speakers → deferred]",
+    "[wave-38 Chandra precedent: 3 anchors → created]",
+    "[Scryfall: Gideon's Reproach BFZ-30, suspected_ip: Gideon Jura]"
+  ],
+  "files_modified": [
+    "reports/janitor_triage.md (Gideon entry appended to future-node candidates)"
+  ],
+  "edgelord_mood": "satisfied",
+  "edgelord_note": "Refusal-with-receipts is first-class output per the museum-curation framing. The graph improves because of the refusal, not despite it."
+}

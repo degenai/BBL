@@ -1,0 +1,79 @@
+{
+  "edge_id": "team-rocket-character-node--wave13-e1",
+  "shape": "node-proposal",
+  "category": "faction-collective-character-node",
+  "topology": "branch",
+  "endpoints": [
+    {
+      "type": "character",
+      "path": "cards/_characters/team-rocket.md",
+      "name": "Team Rocket (new node)"
+    },
+    {
+      "type": "card",
+      "path": "cards/pokemon/rebel-clash/154-192-boss-s-orders--holofoil.md",
+      "name": "Boss's Orders (Rebel Clash) — Giovanni edition"
+    }
+  ],
+  "description": "Oh, sir, please don't be cross with Edgelord — he wanted a clean 1:1 edge for the Giovanni reveal, truly he did, but the corpus state didn't permit it. Boss's Orders RBC-154 is the only enriched Team Rocket card (Team Rocket's Venture Bomb DRI-179 is still a vision stub) and the proposed Pikachu BUS-40 to Boss's-Orders thematic edge would have read as a thin labor-extraction speculation rather than designer-confirmed canon. So I had to step in. I'm sorry. The faction-collective Team Rocket node anchors Giovanni-the-Boss correctly without burning the slot on a solo node that would later need rescoping when Jessie/James/Grunt cards arrive, and it pre-positions Venture Bomb to slot in cleanly once its vision pass lands. It mirrors the Orzhov Syndicate / Galar Gym Challenge / Endriders faction-collective precedent exactly — institutional anchor, named-leadership-plus-rank-and-file scope, and a future-solo-node escape hatch for Giovanni if his card count ever reaches the Bolas-cluster 3-card threshold. I really do think it will help, sir. I hope it's not too much trouble.",
+  "citations": [
+    "[Bulbapedia: Team Rocket]",
+    "[Bulbapedia: Giovanni]",
+    "[Bulbapedia: Boss's Orders (TCG)]",
+    "[Bulbapedia: nagimiso]",
+    "[Pokemon Red and Blue (Game Freak, 1996)]",
+    "[Pokemon Gold and Silver (Game Freak, 1999)]",
+    "[Pokemon anime (OLM, 1997-present)]",
+    "[PokemonTCG.io: swsh2-154 Boss's Orders]",
+    "[Vision-pass evidence: printed 'Giovanni' name label visible within Boss's Orders RBC-154 card art frame]"
+  ],
+  "files_created": [
+    "cards/_characters/team-rocket.md"
+  ],
+  "files_modified": [
+    "cards/pokemon/rebel-clash/154-192-boss-s-orders--holofoil.md (frontmatter: added characters: [\"team-rocket\"])"
+  ],
+  "edgelord_mood": "nodeley-apologetic-but-correct",
+  "node_proposal": {
+    "node_type": "character",
+    "node_path": "cards/_characters/team-rocket.md",
+    "node_slug": "team-rocket",
+    "node_scope": "faction-collective",
+    "corpus_members_enriched": [
+      "pokemon/rebel-clash/154-192-boss-s-orders--holofoil (Giovanni edition of the Boss's Orders Trainer Supporter card line)"
+    ],
+    "corpus_members_vision_pending": [
+      "pokemon/destined-rivals/179-182-team-rocket-s-venture-bomb (Trainer Item card from the Destined Rivals 'Team Rocket's' named-prefix returning-villain mechanical line; will slot into appears_on once vision-passed)"
+    ],
+    "related_existing_nodes": [
+      "orzhov-syndicate (closest cross-universe institutional-villainy precedent)",
+      "galar-gym-challenge (Pokemon-side institutional sibling; corporate-aristocratic axis vs criminal-syndicate axis)",
+      "endriders (foundational faction-collective character-node precedent)"
+    ],
+    "future_solo_node_trigger": "If Giovanni-specific cards in corpus reach 3 (e.g. Giovanni's Persian, Giovanni's Nidoking, alternate-rarity Giovanni Supporter, Giovanni Champion's Path variant), commission a sibling giovanni.md solo character node that related_characters: into this faction node — same precedent as how an eventual Liliana solo node would relate to orzhov-syndicate, or how a future Chairman Rose solo node would relate to galar-gym-challenge."
+  },
+  "other_candidates_considered": [
+    {
+      "candidate": "Mr. Nodeley solo giovanni.md character node",
+      "reason_rejected": "Below the Bolas-cluster 3-card threshold (1 enriched Giovanni-depicting card). Premature for a solo node; would need rescoping when other Rockets arrive."
+    },
+    {
+      "candidate": "Edgelord 1:1 edge Pikachu BUS-40 to Boss's-Orders RBC-154 on Team-Rocket-as-extractive-labor-apparatus thematic reading",
+      "reason_rejected": "Pikachu's 'gather many Pikachu and make an electric power plant' labor flavor is canonically about Macro Cosmos / industrial Pokemon-as-power-source framing in Galar / generic Kantonian extraction language, NOT designer-confirmed Team Rocket apparatus. Connecting Pikachu BUS-40 to a Team Rocket card would be a tag-bridge (both have extraction-of-Pokemon registers) rather than a canon-load-bearing edge. Edgelord-tier refusal: this is a labor-hub bridge, not a card-to-card edge."
+    },
+    {
+      "candidate": "Edgelord 1:1 edge Boss's Orders RBC-154 to galar-gym-challenge node ('boss-as-Gym-Leader' structural pun across Giovanni's Viridian Gym role and Chairman Rose's Macro Cosmos role)",
+      "reason_rejected": "The dispatch brief flagged this as the originally-presumed connection and the wave 13 vision pass surfaced that the depicted figure is Giovanni (Kanto / Team Rocket), NOT Chairman Rose (Galar / Macro Cosmos). The Galar-gym-challenge connection belongs to a DIFFERENT print of Boss's Orders (Rose version) that is not in corpus. Reject."
+    },
+    {
+      "candidate": "Defer node entirely; do nothing until Venture Bomb is vision-passed",
+      "reason_rejected": "Boss's Orders RBC-154 is fully enriched with high-confidence IP verdict from a printed-name-label-on-art vision pass. Letting it sit without a character-layer anchor would leave the corpus's first canonical Team Rocket card uncatalogued at the character layer, blocking any subsequent triviabot / bundler pass that needs to reach into Team Rocket framing. The faction-collective node is the minimum-viable scoping that anchors the present card cleanly without overcommitting."
+    }
+  ],
+  "next_pass_hooks": [
+    "When Team Rocket's Venture Bomb DRI-179 vision-passes, parent should append 'pokemon/destined-rivals/179-182-team-rocket-s-venture-bomb' to team-rocket.md's appears_on: list and add characters: [\"team-rocket\"] to Venture Bomb's frontmatter.",
+    "When/if 3+ Giovanni-specific cards land in corpus, commission a sibling giovanni.md solo character node with related_characters: linking to team-rocket; preserve the 'Boss's Orders RBC-154 is the Giovanni edition of a recurring card-frame slot' note from this node's caveats.",
+    "If Destined Rivals returning-villain mechanic produces ≥3 Team Rocket's-prefix corpus members, consider splitting institutional-character framing (this node) from the mechanical-line framing — see this node's fourth caveat.",
+    "When/if Chairman Rose / Macro Cosmos cards land, commission a sibling macro-cosmos.md character node as the corporate-aristocratic-villainy axis parallel to this node's criminal-syndicate axis; cross-reference both via the future related_characters: schema-extension flagged in wave 12 E2 alternatives."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "card_name": "Probopass",
+  "game": "Pokemon",
+  "set": "Brilliant Stars",
+  "collector_number": "099/172",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches species name exactly. Depicted figure — squat rounded rocky Pokemon with prominent red nose extension and three small satellite units floating around it — is the canonical visual design of Probopass (National Pokedex no. 476). The API confirms nationalPokedexNumbers: [476] and evolvesFrom: Nosepass. No ambiguity; verified as Probopass.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Probopass is designed around two visual references: the moai statues of Easter Island (body shape and stone texture) and a compass magnet (the three small Mini-Noses arranged at East, South, and West, with the main nose pointing North — completing a full compass rose). The red 'hat' atop Probopass mirrors the pukao, the red scoria topknots placed on many Easter Island moai. [Bulbapedia: Probopass, via WebSearch]",
+      "sources": ["Bulbapedia: Probopass, via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Probopass is National Pokedex no. 476, introduced in Generation IV (Diamond and Pearl, 2006). It evolves from Nosepass when leveled up in a special magnetic field — in Diamond and Pearl, near Mt. Coronet. From Pokemon Legends: Arceus onward, it can also evolve via Thunder Stone. The Brilliant Stars card (Stage 1, Metal-type, 140 HP) confirms the evolution via its 'evolvesFrom: Nosepass' field. [PokemonTCG.io API: swsh9-99]",
+      "sources": ["PokemonTCG.io API: swsh9-99"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It uses three small units to catch prey and battle enemies. The main body mostly just gives orders.\" — Probopass Pokedex entry `[PokemonTCG.io API: swsh9-99 flavorText]`",
+      "sources": ["PokemonTCG.io API: swsh9-99 flavorText"]
+    },
+    {
+      "category": "design",
+      "text": "Community observation: Probopass's combination of red hat, large central nose, and facial 'mustache' (formed by iron filings or the Mini-Noses) draws frequent comparisons to Mario from the Nintendo franchise. The resemblance is widely noted in fan and community spaces but has not been officially acknowledged by Game Freak as intentional. Community sentiment only. [Bulbapedia: Probopass design section, via WebSearch]",
+      "sources": ["Bulbapedia: Probopass design section, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Nosepass", "set": "Various", "note": "Pre-evolution; evolution-line pair with compass-rose design thesis"},
+    {"name": "Probopass", "set": "Brilliant Stars 099/172", "note": "This card — already in corpus with Connections section linking to Nosepass"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

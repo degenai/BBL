@@ -1,0 +1,41 @@
+{
+  "card_name": "Carkol",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "106/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Carkol via PokemonTCG.io API card swsh2-106; National Pokedex no. 838, Rock/Fire-type Stage-1 evolution in the Rolycoly coal line, introduced in Pokemon Sword & Shield.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Carkol (National Pokedex no. 838, Rock/Fire) is the Stage-1 evolution in the Rolycoly coal line, introduced in Generation VIII. Its design is based on a minecart: a large, wheeled, dark-bodied form rolling through mine tunnels — the industrial vehicle that moved extracted coal from the pit face to the surface.",
+      "sources": ["WebSearch: PokéJungle 'Rolycoly, Carkol, Coalossal — Origin of Species'", "WebSearch: Bulbapedia Carkol snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It forms coal inside its body. Coal dropped by this Pokémon once helped fuel the lives of people in the Galar region.\" The past tense 'once helped' implies the fuel role is now obsolete — the line's industrial era has passed.",
+      "sources": ["PokemonTCG.io API: swsh2-106 flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "Carkol is part of one of the few Pokemon lines whose entire evolution maps onto a coherent industrial-historical narrative: discovery in mines (Rolycoly, 400 years ago) → transport via minecart (Carkol) → furnace/factory (Coalossal). Great Britain employed hundreds of thousands in coal extraction during this period, sometimes including children.",
+      "sources": ["WebSearch: PokéJungle 'Rolycoly, Carkol, Coalossal — Origin of Species'"]
+    },
+    {
+      "category": "design",
+      "text": "This print is illustrated by Mitsuhiro Arita, one of the longest-tenured Pokemon TCG artists. Arita also illustrated the Galarian Corsola print in the same set (RBC-078).",
+      "sources": ["PokemonTCG.io API: swsh2-106 artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rolycoly", "set": "Rebel Clash", "note": "Basic stage; flavor-text pair"},
+    {"name": "Coalossal", "set": "Rebel Clash", "note": "Final evolution; furnace-form"},
+    {"name": "Galar Mine", "set": "Rebel Clash", "note": "Location card; the extractive site the line inhabits"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

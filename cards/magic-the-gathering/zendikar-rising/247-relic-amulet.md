@@ -15,7 +15,7 @@ tags_filter: ["no-figure", "close-up", "object-study", "forward-facing", "artifa
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/247-relic-amulet.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

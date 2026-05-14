@@ -15,12 +15,13 @@ tags_filter: ["solo", "mid-shot", "female-figure", "three-quarter-facing", "scen
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/157-horrific-assault.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-10
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/c/f/cfa6ed13-7bba-40c0-8e0e-4ffd3cea6241.png?1717012485
 art_match_confidence: high
 needs_manual_review: false
+characters: ["eldrazi"]
 mood: horror
 time_of_day: indeterminate
 setting: forest

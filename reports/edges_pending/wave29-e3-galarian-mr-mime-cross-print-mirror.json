@@ -1,0 +1,27 @@
+{
+  "edge_id": "wave29-e3-galarian-mr-mime-cross-print-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/rebel-clash/037-192-galarian-mr-mime.md", "name": "Galarian Mr. Mime (Rebel Clash 037/192)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/035-189-galarian-mr-mime.md", "name": "Galarian Mr. Mime (Darkness Ablaze 035/189)"}
+  ],
+  "description": "Cross-print Galarian Mr. Mime mirror parallel to the wave 27 E3 Galarian Meowth pattern. RBC-037 (kirisAki art) is the earlier card-pool print; DAA-035 (Misa Tsutsui art) is the wave-22 IP-verified anchor with full Galarian-evolution-pair context (DAA-035 ↔ DAA-036 Mr. Rime adjacent-collector mirror). Both prints share identical flavor text — tap-dancing + ice-floor-as-barrier — and the same canonical Galar UK-modeled British-music-hall performance-art register reframing the Kantonian Psychic/Fairy mime into Galar's Ice/Psychic tap-dancer. Mirror edge plus frontmatter wiring on RBC-037 (added `characters: [galarian-regional-forms]`) plus appears_on extension on the character node plus a one-sentence body update in the character node's RBC-Mr.-Mime entry. Clean fanout integration; the character node now anchors both prints of three species in the cohort (Meowth 2 prints, Mr. Mime 2 prints, Mr. Rime 1 print plus the singleton Slowpoke / Darumaka / Farfetch'd).",
+  "citations": [
+    "[PokemonTCG.io API: swsh2-37 (Galarian Mr. Mime RBC); swsh3-35 (Galarian Mr. Mime DAA)]",
+    "[Bulbapedia: Mr. Mime (Pokémon) — Galarian Form section]",
+    "[Pokejungle.net: Galarian Mr. Mime and Mr. Rime Origin of Species]"
+  ],
+  "files_modified": [
+    "cards/pokemon/rebel-clash/037-192-galarian-mr-mime.md",
+    "cards/pokemon/darkness-ablaze/035-189-galarian-mr-mime.md (already had Connections section; left untouched per non-duplication discipline — the DAA side's existing bullet already covers the cohort context; the new cross-print mirror is documented from the RBC side and via the character-node appears_on extension)",
+    "cards/_characters/galarian-regional-forms.md"
+  ],
+  "frontmatter_changes": [
+    "cards/pokemon/rebel-clash/037-192-galarian-mr-mime.md: added `characters: [galarian-regional-forms]`",
+    "cards/_characters/galarian-regional-forms.md: appended `pokemon/rebel-clash/037-192-galarian-mr-mime` to appears_on"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "footnote": "DAA-035 already had a Connections section covering its in-set DAA-035 ↔ DAA-036 evolution mirror. Adding a second bullet to DAA-035 for the cross-print pointer would have been the strictly-symmetric mirror move; I chose to anchor the cross-print citation on the RBC side and via the character-node body update instead, since the cohort node now structurally captures both prints via appears_on. If a future Edgelord pass wants strict bullet-parity on the DAA side, the bullet text is ready in the RBC card's Connections section."
+}

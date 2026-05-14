@@ -1,0 +1,41 @@
+{
+  "card_name": "Weakness Policy",
+  "game": "Pokemon",
+  "set": "Burning Shadows",
+  "collector_number": "126/147",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged. Item card with original TCG art, no character IP.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Weakness Policy is an Uncommon Pokemon Tool in Burning Shadows (SM3, August 5, 2017). The set headlines Tapu Bulu-GX, Ho-Oh-GX, and Darkrai-GX. Weakness Policy is a utilitarian tool print within a GX-heavy fire/shadow-themed set.",
+      "sources": ["PokemonTCG.io API: sm3-126"]
+    },
+    {
+      "category": "design",
+      "text": "Weakness Policy first appeared in English in Primal Clash (XY5, 2015, no. 142/160), making Burning Shadows its first reprint. The card originated in the Japanese Gaia Volcano subset (2014). Effect — 'the Pokemon this card is attached to has no Weakness' — has remained identical across all prints. No Weakness eliminates the TCG's standard 2x damage multiplier, a significant defensive swing.",
+      "sources": ["WebSearch: Bulbapedia Weakness Policy Primal Clash 142", "PokemonTCG.io API: sm3-126"]
+    },
+    {
+      "category": "mechanical",
+      "text": "In the SM Standard format (2017-2019), Weakness Policy saw niche use in decks running Pokemon with punishing Weaknesses — most notably Gardevoir-GX (Psychic Weakness to Metal) and Buzzwole-GX (Fighting Weakness to Psychic). Community consensus treated it as a tech option rather than a core slot; Choice Band's damage bonus was usually more universally valuable, and the Tool slot opportunity cost was high.",
+      "sources": ["WebSearch: Pokebeach forums Weakness Policy competitive", "WebSearch: Bulbapedia Weakness Policy"]
+    },
+    {
+      "category": "design",
+      "text": "Art credited to Ayaka Yoshida, a Pokemon TCG illustrator active across the Sun and Moon era, credited on multiple Item and Trainer cards.",
+      "sources": ["PokemonTCG.io API: sm3-126"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Weakness Policy", "set": "Primal Clash (no. 142)", "note": "Original English print; same effect, XY-era art frame"},
+    {"name": "Choice Band", "set": "Burning Shadows", "note": "The competing Tool slot in the same set; offensive counterpart to Weakness Policy's defensive effect"},
+    {"name": "Gardevoir-GX", "set": "Burning Shadows", "note": "Same-set headline GX with Psychic Weakness to Metal; natural Weakness Policy candidate"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

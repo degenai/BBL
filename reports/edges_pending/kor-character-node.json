@@ -1,0 +1,44 @@
+{
+  "edge_id": "kor-character-node-creation",
+  "shape": "node-proposal",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/kor.md", "name": "Kor"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/34-kor-bladewhirl.md", "name": "Kor Bladewhirl"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/35-kor-castigator.md", "name": "Kor Castigator"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/36-kor-entanglers.md", "name": "Kor Entanglers"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/33-kitesail-scout.md", "name": "Kitesail Scout"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/24-expedition-envoy.md", "name": "Expedition Envoy"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/20-cliffside-lookout.md", "name": "Cliffside Lookout"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/47-shadow-glider.md", "name": "Shadow Glider"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/53-unified-front.md", "name": "Unified Front"},
+    {"type": "card", "path": "cards/magic-the-gathering/zendikar-rising/14-farsight-adept--foil.md", "name": "Farsight Adept"},
+    {"type": "card", "path": "cards/magic-the-gathering/oath-of-the-gatewatch/24-kor-sky-climber.md", "name": "Kor Sky Climber"}
+  ],
+  "description": "Pardon the intrusion, sir, but ten corpus anchors for the kor — the Zendikar-native plate-armored nomadic warrior race — was firmly above the team-rocket / acerola / orzhov-syndicate threshold. Eight BFZ-block kor cards (3 explicitly Kor-named: Bladewhirl, Castigator, Entanglers; 5 implicit: Kitesail Scout, Expedition Envoy, Cliffside Lookout, Shadow Glider, Unified Front) plus one ZNR successor (Farsight Adept) and one OGW continuation (Kor Sky Climber, prep-stub). The node cross-edges to eldrazi.md as canonical BFZ adversaries — the two faction nodes form a mutual adversary-coupling that anchors any BFZ-block Discrete Lair. I hope this proves helpful for the BFZ-bundle pipeline, sir.",
+  "citations": [
+    "[MTG Wiki: Kor]",
+    "[MTG Wiki: Zendikar]",
+    "[MTG Wiki: Battle for Zendikar]",
+    "[MTG Wiki: Oath of the Gatewatch]",
+    "[MTG Wiki: Zendikar Rising]",
+    "[MTG Wiki: Allies (creature subtype)]",
+    "[MTG Wiki: Akiri (character)]"
+  ],
+  "files_modified": [
+    "cards/_characters/kor.md (created)",
+    "cards/magic-the-gathering/battle-for-zendikar/34-kor-bladewhirl.md (characters: added)",
+    "cards/magic-the-gathering/battle-for-zendikar/35-kor-castigator.md (characters: added)",
+    "cards/magic-the-gathering/battle-for-zendikar/36-kor-entanglers.md (characters: added)",
+    "cards/magic-the-gathering/battle-for-zendikar/33-kitesail-scout.md (characters: added)",
+    "cards/magic-the-gathering/battle-for-zendikar/24-expedition-envoy.md (characters: added)",
+    "cards/magic-the-gathering/battle-for-zendikar/20-cliffside-lookout.md (characters: added)",
+    "cards/magic-the-gathering/battle-for-zendikar/47-shadow-glider.md (characters: added)",
+    "cards/magic-the-gathering/battle-for-zendikar/53-unified-front.md (characters: added)",
+    "cards/magic-the-gathering/zendikar-rising/14-farsight-adept--foil.md (characters: added)",
+    "cards/magic-the-gathering/oath-of-the-gatewatch/24-kor-sky-climber.md (characters: added)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "cross_edge_note": "kor.md and eldrazi.md mutually list each other in related_characters — canonical BFZ adversary structure. Future Discrete Lair candidate: BFZ Eldrazi-invasion-cluster anchored on both nodes."
+}

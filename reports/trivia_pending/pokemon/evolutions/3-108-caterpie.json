@@ -1,0 +1,36 @@
+{
+  "card_name": "Caterpie",
+  "game": "Pokemon",
+  "set": "Evolutions",
+  "collector_number": "3/108",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches. PokemonTCG.io confirms xy12-3 is Caterpie, National Pokedex no. 10, artist Ken Sugimori. Art — green segmented caterpillar with large eyes, yellow antenna, frontal pose on leafy ground — matches Caterpie's canonical design and the original Base Set illustration style. Verification unambiguous.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The XY Evolutions set (XY12) was released November 2, 2016, as a deliberate tribute to the original Pokemon Base Set (1998). The majority of its cards reproduce Base Set artwork with original Ken Sugimori flat illustration styling — including this Caterpie, which replicates the original Base Set no. 45 illustration. The set was released to coincide with the 20th anniversary of the Pokemon franchise. [PokemonTCG.io API: xy12-3; WebSearch: PokeBeach/Evolutions announcement]",
+      "sources": ["PokemonTCG.io API", "PokeBeach via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Ken Sugimori is the art director and lead character designer at Game Freak who designed the original 151 Pokemon. His flat, clean illustration style — visible here — defined the aesthetic of the original TCG and the franchise's visual identity. The Evolutions set deliberately preserved his pre-digital rendering style rather than updating to modern painted techniques. [WebSearch: PokeBeach/Evolutions; PokemonTCG.io API]",
+      "sources": ["PokemonTCG.io API", "PokeBeach via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text on this card: 'It is covered with a green skin. When it grows, it sheds the skin, covers itself with silk, and becomes a cocoon.' This text matches the original Base Set flavor text. Caterpie is National Pokedex no. 10 and evolves into Metapod, then Butterfree. [PokemonTCG.io API: xy12-3]",
+      "sources": ["PokemonTCG.io API"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Metapod", "set": "Evolutions", "note": "Caterpie's cocoon-stage evolution, no. 11"},
+    {"name": "Butterfree", "set": "Evolutions", "note": "Final evolution — also in the Evolutions set with Base Set art"},
+    {"name": "Caterpie", "set": "Base Set", "note": "The 1998 original this card reproduces — a direct reprint"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

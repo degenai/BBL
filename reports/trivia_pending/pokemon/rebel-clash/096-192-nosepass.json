@@ -1,0 +1,40 @@
+{
+  "card_name": "Nosepass",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "096/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed. Nosepass is a Game Freak-internal species (National Pokedex no. 299, Generation III, Hoenn). Rock-type Compass Pokemon with Easter Island Moai-inspired design. No external IP concern.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Nosepass is National Pokedex no. 299, the Compass Pokemon, a Rock-type introduced in Generation III (Hoenn). It evolves into Probopass when leveled up in a magnetic field location. [Pokemondb.net: Nosepass, via WebSearch; Bulbapedia: Nosepass, via WebSearch]",
+      "sources": ["Pokemondb.net: Nosepass", "Bulbapedia: Nosepass"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (this print): \"It hunts without twitching a muscle by pulling in its prey with powerful magnetism. But sometimes it pulls natural enemies in close.\" [Frontmatter flavor_text field, PokemonTCG.io]",
+      "sources": ["Frontmatter flavor_text (PokemonTCG.io source)"]
+    },
+    {
+      "category": "design",
+      "text": "Nosepass's design is based on two sources: the Moai statues of Easter Island (block-head silhouette, stoic forward-facing posture) and a compass (the large red nose always points north — functioning as a magnetic navigation device in lore). [Bulbapedia: Nosepass, via WebSearch snippet; Pokemondb.net: Nosepass, via WebSearch]",
+      "sources": ["Bulbapedia: Nosepass", "Pokemondb.net: Nosepass"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Probopass, Nosepass's evolution, extends the compass metaphor: its three Mini-Noses point East, South, and West, completing a full compass rose with the main nose pointing North. Probopass also gains a Steel type, making the pair Rock and Rock/Steel — an unusual split between unevolved and evolved type compositions. [Pokemondb.net: Probopass, via WebSearch; Bulbapedia: Probopass, via WebSearch]",
+      "sources": ["Pokemondb.net: Probopass", "Bulbapedia: Probopass"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Probopass", "set": "Multiple sets", "note": "Nosepass's evolution; Rock/Steel type with full compass-rose Mini-Nose design"},
+    {"name": "Nosepass", "set": "Multiple sets", "note": "Earlier prints from Hoenn and later era sets"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

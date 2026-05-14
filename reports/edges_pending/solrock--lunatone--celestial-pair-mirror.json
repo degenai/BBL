@@ -1,0 +1,25 @@
+{
+  "edge_id": "solrock-daa092--lunatone-bus68--celestial-pair-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/092-189-solrock.md", "name": "Solrock (Darkness Ablaze 092/189)"},
+    {"type": "card", "path": "cards/pokemon/burning-shadows/68-147-lunatone.md", "name": "Lunatone (Burning Shadows 68/147)"}
+  ],
+  "description": "Celestial paired-design 1:1 mirror between Solrock and Lunatone. Designer-coordinated Generation III pair: Ruby/Sapphire version-exclusive split, shared 'Meteorite Pokemon' classification, shared Meteor Falls origin, AND mechanical interlock — each card's primary Ability names the other and requires it in play to activate. Visual mirror reads as sun-disc-on-warm-desert-day vs crescent-moon-on-dark-void-night. Pair-node deferred at N=2; DAA-072 Lunatone enrichment + any subsequent Solrock corpus add will retrigger Nodeley evaluation.",
+  "citations": [
+    "[Bulbapedia: Solrock (Pokemon)]",
+    "[Bulbapedia: Lunatone (Pokemon)]",
+    "[PokemonTCG.io: swsh3-92 oracle text — Resistance Shade names Lunatone]",
+    "[PokemonTCG.io: sm3-68 oracle text — Heal Block names Solrock]"
+  ],
+  "files_modified": [
+    "cards/pokemon/darkness-ablaze/092-189-solrock.md",
+    "cards/pokemon/burning-shadows/68-147-lunatone.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "Mr. Nodeley pair-node cards/_characters/solrock-lunatone-pair.md — rejected at N=2; corpus contains DAA-072 Lunatone (not yet enriched) which would push to N=3 and retrigger evaluation. The mechanical-interlock-plus-version-exclusive-pair argument is strong enough that this MAY warrant a node when the third corpus member enriches — flag in janitor_triage if not already there."
+  ]
+}

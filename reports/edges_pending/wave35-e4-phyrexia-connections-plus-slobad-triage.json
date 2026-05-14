@@ -1,0 +1,28 @@
+{
+  "edge_id": "wave35-e4-phyrexia-connections-plus-slobad-triage",
+  "shape": "1:N",
+  "category": "faction-character-connections-fillin",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/phyrexia.md", "name": "Phyrexia"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/130-phyrexian-ironworks.md", "name": "Phyrexian Ironworks"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/112-wurmcoil-larva.md", "name": "Wurmcoil Larva"}
+  ],
+  "description": "Wave 34 Mr. Nodeley already wired both cards' frontmatter (characters: ['phyrexia']) and appears_on on the node side during creation, but neither card had a ## Connections section in its body. Filled in. Worst case of half-applied edges ever — fixing it now. Slobad sub-node call: declined. Phyrexian Ironworks is one flavor-speaker mention, not a depiction; the phyrexia.md node already documents Slobad in its caveats as a deferred sub-node candidate. Added a triage entry for tracking. The team-rocket / acerola precedent (≥1 depiction + ≥1 distinct-beat anchor) is not yet satisfied.",
+  "citations": [
+    "[MTG Wiki: Phyrexia]",
+    "[MTG Wiki: Slobad]",
+    "[MTG Wiki: Wurmcoil Engine — Scars of Mirrodin design lineage]",
+    "[Scryfall: Phyrexian Ironworks oracle and flavor text]",
+    "[cards/_characters/phyrexia.md caveats section — Slobad as deferred sub-node candidate]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/modern-horizons-3/130-phyrexian-ironworks.md (Connections added)",
+    "cards/magic-the-gathering/modern-horizons-3/112-wurmcoil-larva.md (Connections added)",
+    "reports/janitor_triage.md (Slobad triage entry added)"
+  ],
+  "topology": "stack",
+  "other_candidates_considered": [
+    "Slobad, Iron Goblin sub-node — 0 depicted anchors, 1 flavor-speaker mention. Threshold not met per team-rocket / acerola precedent. Deferred to triage."
+  ],
+  "edgelord_mood": "blueballed-by-fanout"
+}

@@ -1,0 +1,35 @@
+{
+  "card_name": "Wurmcoil Larva",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "112",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Wurmcoil Larva is explicitly a design-lineage card: its death trigger creates two smaller tokens (a 1/2 with deathtouch, a 2/1 with lifelink) that directly mirror Wurmcoil Engine's death tokens (a 3/3 deathtouch and a 3/3 lifelink). Wurmcoil Engine (Scars of Mirrodin, October 2010) is one of the most reprinted artifact creatures in the game, appearing in Commander 2014, Double Masters, The Brothers' War Retro Artifacts, and multiple Secret Lair printings. Wurmcoil Larva is the first card to revisit the split-token death design at a lower power ceiling. [Scryfall: Wurmcoil Engine print history]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Even a scrap of Phyrexian machinery can be lethal.\" [Scryfall]. The line underscores the design logic: even a larval form of the Phyrexian construct is dangerous enough to spawn two separate threats on death.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 2-mana uncommon with deathtouch and lifelink that generates two tokens on death — the card is considered a strong rate for its cost in Phyrexian creature and artifact-creature synergy decks. EDHREC rank 11888, the highest (most adopted) of the four MH3 cards in this wave. Legal in Modern, Legacy, Vintage, and Commander. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Wurmcoil Engine", "set": "SOM", "note": "Design predecessor — splits into 3/3 deathtouch + 3/3 lifelink tokens on death"},
+    {"name": "Phyrexian Ironworks", "set": "MH3", "note": "Phyrexia faction cohort in the same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

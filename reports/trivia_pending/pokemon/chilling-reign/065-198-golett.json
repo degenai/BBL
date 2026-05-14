@@ -1,0 +1,40 @@
+{
+  "card_name": "Golett",
+  "game": "Pokemon",
+  "set": "Chilling Reign",
+  "collector_number": "065/198",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via PokemonTCG.io swsh6-65 name field. National Pokedex no. 622. Second Golett print in corpus; distinct art register from DAA-076.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "This print (CRE-065, artist 0313) places Golett in a grey-stone dungeon register: rocky terrain, muted earthen palette, teal-green glowing glyph, grim ambient lighting. The Darkness Ablaze print (DAA-076, artist Ryuta Fuse) places the same species in a cosmic-void register: deep-purple galaxy backdrop, orange glowing seal, sublime night-sky lighting. The two prints form the telluric-ancient vs. cosmic-ancient axis for this species.",
+      "sources": ["PokemonTCG.io: swsh6-65 artist 0313", "PokemonTCG.io: swsh3-76 artist Ryuta Fuse"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"This Pokemon was created from clay. It received orders from its master many thousands of years ago, and it still follows those orders to this day.\" This print emphasizes temporal obedience — a still-executing construct — distinct from the DAA-076 flavor text which emphasized mystery ('No one knows why, but some of them are driven to continually line up boulders').",
+      "sources": ["PokemonTCG.io: swsh6-65", "PokemonTCG.io: swsh3-76"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Golem-of-Prague / Haniwa / Terracotta Army design reference triad was established in the DAA-076 trivia pass (wave 14). This print does not duplicate that; both flavor texts and both art registers point to the same underlying archetype (ancient clay automaton bound by orders) expressed through different environmental framing.",
+      "sources": ["DAA-076 trivia (wave 14)", "Bulbapedia: Golett"]
+    },
+    {
+      "category": "design",
+      "text": "Artist 0313's work in the Sword and Shield era is identifiable by strong geometric composition and moody environmental anchoring. The dungeon setting here is consistent with 0313's tendency toward atmospheric, low-key backgrounds.",
+      "sources": ["PokemonTCG.io: swsh6-65 artist field", "Bulbapedia: Golett (Chilling Reign 65)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Golett", "set": "Darkness Ablaze", "note": "cross-print mirror, cosmic register vs. this card's telluric register"},
+    {"name": "Golurk", "set": "various", "note": "direct evolution of Golett"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

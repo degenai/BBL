@@ -15,7 +15,7 @@ tags_filter: ["duo", "mid-shot", "three-quarter-facing", "action-mode", "indoor"
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/132-diversion-specialist.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/a/c/acc9b17c-4210-49f4-a920-b1dc9dfa950f.png?1726286339

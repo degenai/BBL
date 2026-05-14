@@ -1,0 +1,21 @@
+{
+  "edge_id": "nosepass-rbc-096--probopass-brs-099--evolution-line-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/rebel-clash/096-192-nosepass.md", "name": "Nosepass (Rebel Clash 096/192)"},
+    {"type": "card", "path": "cards/pokemon/brilliant-stars/099-172-probopass.md", "name": "Probopass (Brilliant Stars 099/172)"}
+  ],
+  "description": "Two card-endpoints. Both equal nodes. Must be traversable from either side. Hence the mirror. Sigh logged. The connection itself is structurally clean — evolution-line pair, compass-metaphor completes across the type-shift (Rock to Rock/Steel), Probopass's three Mini-Noses literally complete what Nosepass started. Worth the work.",
+  "citations": [
+    "[Bulbapedia: Probopass — evolution mechanic, via WebSearch]",
+    "[Pokemondb.net: Nosepass / Probopass species pages, via WebSearch]"
+  ],
+  "files_modified": [
+    "cards/pokemon/rebel-clash/096-192-nosepass.md",
+    "cards/pokemon/brilliant-stars/099-172-probopass.md"
+  ],
+  "other_candidates_considered": [],
+  "edgelord_mood": "sighed-but-mirrored"
+}

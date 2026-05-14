@@ -1,0 +1,41 @@
+{
+  "card_name": "Meowth",
+  "game": "Pokemon",
+  "set": "Burning Shadows",
+  "collector_number": "101/147",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Kanto-form Meowth: cream-colored bipedal cat with gold forehead koban coin matches sm3-101 record and Bulbapedia. National Pokedex no. 52, Normal-type.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Kanto Meowth's forehead coin is an Edo-period koban; the entire design is rooted in maneki-neko. Japanese name Nyarth references a proverb about a cat unknowingly having money ('casting pearls before swine' equivalent), underscoring coin obsession without comprehension.",
+      "sources": ["Bulbapedia: Meowth (Pokemon)", "Wikipedia: Meowth"]
+    },
+    {
+      "category": "design",
+      "text": "Pay Day (Generation I signature move) has Meowth hurl koban at opponents; coins are collectible after battle. The move literalizes the forehead-coin design into a combat function. This card's oracle carries Fake Out, not Pay Day, but the coin art is the same forehead koban.",
+      "sources": ["Bulbapedia: Meowth (Pokemon)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It lies around all day, becoming active near dusk. At night, it wanders the city in search of loose change.\" Urban coin-scavenging reinforces the maneki-neko/koban obsession origin.",
+      "sources": ["PokemonTCG.io: sm3-101 flavorText field"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Kanto-form vs. Galarian-form contrast: this print (Normal-type, cream, golden coin, evolves into Persian) pairs with corpus card Galarian Meowth (Rebel Clash 126/192, Steel-type, iron coin, evolves into Perrserker). Same National Pokedex no. 52, divergent in every other respect.",
+      "sources": ["Bulbapedia: Meowth (Pokemon)", "PokemonTCG.io: swsh2-126"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Galarian Meowth", "set": "Rebel Clash", "note": "Regional-variant 1:1 pair already in corpus"},
+    {"name": "Persian", "set": "multiple", "note": "Kanto-form evolution"},
+    {"name": "Perrserker", "set": "multiple", "note": "Galarian-form evolution"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

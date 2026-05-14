@@ -1,0 +1,25 @@
+{
+  "edge_id": "wave-39-e2-fear-of-cycle-roster-completion",
+  "shape": "node-body-update",
+  "category": "designer-confirmed-cycle",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/fear-of-cycle.md", "name": "Fear-of cycle"}
+  ],
+  "description": "Updated fear-of-cycle.md body to reflect the wave-39-confirmed full 14-card canonical roster (was 10 per prior pass — undercounted by 4). Added Immobility (10, W), Impostors (57, U), Lost Teeth (97, B), and Exposure (177, G) as previously-unsurveyed members. Corrected color-distribution analysis to 3W/4U/2B/3R/1G/1UB and added rarity-distribution table (11 uncommons + 3 rares: the Dark, Missing Out, Infinity). Wired the manifest-dread symbol cross-edge into related_symbols frontmatter and added [[valgavoth]] / [[manifest-dread]] cross-edges in the See also and Cross-edges sections. Updated the two corpus cards (134 Being Hunted, 135 Burning Alive) whose Related-cards sections listed only partial rosters — added the missing members in compact form, preserved existing prose, flagged rarity corrections. Note: the brief's color-distribution summary tally (3W/3U/2B/3R/1G/1UB = 13) is internally inconsistent with the per-card list (which has 4 U slots); the per-card list governs as the more granular source and is what landed in the node.",
+  "citations": [
+    "[Scryfall: s:dsk name:'Fear of' returns 14 members as of 2026-05-13]",
+    "[MTG Wiki: Duskmourn: House of Horror, Cycles section]",
+    "[Wizards: Duskmourn Vision Design Handoff, Annie Sardelis]"
+  ],
+  "files_modified": [
+    "cards/_characters/fear-of-cycle.md (body rewrite + frontmatter related_symbols)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/134-fear-of-being-hunted.md (Related-cards expansion)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/135-fear-of-burning-alive.md (Related-cards expansion + rarity corrections)"
+  ],
+  "edgelord_mood": "enlightened-corrective",
+  "surprise_lore": [
+    "The cycle's 3-rare allocation maps onto thematic-ambition rather than mechanical-power: Fear of the Dark (genre-classical primal fear), Fear of Missing Out (modern-vernacular FOMO acronym), Fear of Infinity (cosmic-metaphysical sublime). Wizards weighted abstract / contemporary / cosmic phobias for rare slots; the kinetic body-horror phobias (Being Hunted, Burning Alive, Falling, Immobility) stayed uncommon. Fun-fact buyer-copy material.",
+    "Fear of Missing Out being a RARE is the cycle's most-self-aware joke — the FOMO acronym rendered as the rare you can't draft enough of."
+  ]
+}

@@ -15,7 +15,7 @@ tags_filter: ["no-figure", "wide-shot", "scene-mode", "no-face", "land", "blue-m
 reference_image: cards/_images/magic-the-gathering/mercadian-masques/328-saprazzan-skerry.png
 average_cost_paid: 0
 market_price: 2.47
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/0/0/006871fd-2641-42cb-a2ac-a33d05fc5a35.png?1562378939

@@ -1,0 +1,42 @@
+{
+  "card_name": "Hatenna",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "083/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Hatenna via PokemonTCG.io API card swsh2-83; National Pokedex no. 856, Psychic-type emotion-sensing Pokemon introduced in Generation VIII (Pokemon Sword & Shield).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Hatenna (National Pokedex no. 856) is a pure Psychic-type introduced in Generation VIII. It evolves into Hattrem (no. 857) at level 32, then into Hatterene (no. 858, Psychic/Fairy) at level 42. The full line was introduced in Sword & Shield alongside the Impidimp and Milcery lines as part of Generation VIII's Fairy-type expansion.",
+      "sources": ["WebSearch: Bulbapedia Hatenna snippet", "WebSearch: TheGamer 'How to Find & Evolve Hatenna into Hatterene'"]
+    },
+    {
+      "category": "design",
+      "text": "Hatenna's line is built around a witch aesthetic: Hatterene has long layered hair draped like a cloak, and Hattrem's protruding head-hat is made of its own hair — referencing folklore belief that a witch's power is connected to her hair. The emotion-sensing protrusion is the design anchor; the species grows reclusive from emotional stimulus overload.",
+      "sources": ["WebSearch: Bulbapedia Hatterene snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Via the protrusion on its head, it senses other creatures' emotions. If you don't have a calm disposition, it will never warm up to you.\" The calm-disposition gating carries through to Hatterene, which will attack anything expressing strong emotions — inverting the typical friendly-Psychic-Pokemon trope.",
+      "sources": ["PokemonTCG.io API: swsh2-83 flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Hatterene's signature hidden ability is Magic Bounce, which reflects status moves back at the opponent — making the final evolution a competitive anti-setup wall against Defog, Spore, and entry hazards.",
+      "sources": ["WebSearch: Bulbapedia Hatterene snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hattrem", "set": "Rebel Clash or later sets", "note": "Stage-1 evolution in the witch-hat line"},
+    {"name": "Hatterene", "set": "Rebel Clash or later sets", "note": "Final evolution; Psychic/Fairy, Magic Bounce user"},
+    {"name": "Milcery", "set": "Rebel Clash", "note": "Co-introduced SwSh Fairy-line; shares set context"},
+    {"name": "Impidimp", "set": "Rebel Clash", "note": "Co-introduced SwSh Fairy-side species"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Galarian Mr. Mime",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "035/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Species name printed on card face; PokemonTCG.io API (swsh3-35) confirms name=Galarian Mr. Mime, nationalPokedexNumbers=[122], Basic (no evolvesFrom in Galar context — evolves from Mime Jr. with Mimic, but card lists as Basic). The depicted pale humanoid figure ice-skating on frozen surface with ice-shard barriers matches canonical Galarian Mr. Mime appearance exactly.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Galarian Mr. Mime is an Ice/Psychic-type regional variant of the original Kanto Psychic/Fairy Mr. Mime (National Pokedex no. 122), introduced in Pokemon Sword and Shield (2019). The Galarian form drops Fairy typing in favor of Ice, reflecting Galar's cold-climate aesthetic. It evolves into Mr. Rime at level 42 — a Galar-exclusive evolved form with no Kantonian counterpart. [PokemonTCG.io API: swsh3-35; Bulbapedia: Mr. Mime (Galarian Form), via WebSearch snippet]",
+      "sources": ["PokemonTCG.io API: swsh3-35", "Bulbapedia: Mr. Mime (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "The Galarian form's tap-dancing identity reflects Galar's UK-inspired cultural register: the original Kantonian Mr. Mime is a pantomime artist, while the Galarian variant adopts tap-dancing — a performance tradition with roots in British clog dancing, Scottish step dancing, and Irish jigs. This is a deliberate design-level localization: the species' defining performance art is recast to fit the region's cultural flavor. [Pokejungle.net: Galarian Mr. Mime and Mr. Rime Origin of Species, via WebSearch snippet]",
+      "sources": ["Pokejungle.net: Origin of Species article (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Its talent is tap-dancing. It can also manipulate temperatures to create a floor of ice, which this Pokemon can kick up to use as a barrier.\" — printed on DAA-035. The barrier mechanic is reflected in the card's Reflect attack (reduces opponent's damage by 30 during the next turn). [PokemonTCG.io API: swsh3-35]",
+      "sources": ["PokemonTCG.io API: swsh3-35"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Misa Tsutsui. DAA-035 and DAA-036 (Galarian Mr. Rime) are adjacent collector numbers — a designer-coordinated pairing encoding the Galar-exclusive evolution line. Both cards share the tap-dancer-on-ice visual register at different performance scales: Mr. Mime at the skating/dance-as-defense register, Mr. Rime at the full music-hall performer register. [PokemonTCG.io API: swsh3-35; swsh3-36]",
+      "sources": ["PokemonTCG.io API: swsh3-35", "PokemonTCG.io API: swsh3-36"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Galarian Mr. Rime (Darkness Ablaze 036)", "set": "Darkness Ablaze", "note": "Direct Galar-exclusive evolution; adjacent collector number DAA-036"},
+    {"name": "Mr. Mime (Kantonian)", "set": "various", "note": "Base species, Psychic/Fairy type; pantomime artist vs tap-dancer contrast"},
+    {"name": "Mime Jr.", "set": "various", "note": "Pre-evolution that can evolve into Galarian Mr. Mime in Galar region"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

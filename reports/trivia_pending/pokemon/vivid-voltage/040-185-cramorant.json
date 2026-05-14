@@ -1,0 +1,45 @@
+{
+  "card_name": "Cramorant",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "040/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via PokemonTCG.io swsh4-40. National Pokedex no. 845 matches. Teal cormorant with Arrokuda wedged in beak is canonical Cramorant Gulping Form design.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cramorant appears in Sword & Shield — Vivid Voltage (2020) as no. 040/185, an Uncommon. National Pokedex no. 845, Flying/Water-type, introduced in Generation VIII (Galar).",
+      "sources": ["PokemonTCG.io: swsh4-40"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Gulp Missile is Cramorant's exclusive signature ability. After Surf or Dive: above half HP returns with Arrokuda (Gulping Form, lowers attacker Defense), below half HP returns with Pikachu (Gorging Form, paralyzes attacker). Spits catch when hit.",
+      "sources": ["WebSearch: Bulbapedia Gulp Missile", "WebSearch: pokemonblog.com Gulp Missile 2019"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Cramorant's gluttony led it to try to swallow an Arrokuda whole, which in turn led to Cramorant getting an Arrokuda stuck in its throat.\"",
+      "sources": ["PokemonTCG.io: swsh4-40"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Card attack Continuous Gulp Missile (60x damage per Arrokuda discarded from Bench) directly translates the in-game Gulp Missile ability into TCG mechanics, with Arrokuda as literal ammunition.",
+      "sources": ["PokemonTCG.io: swsh4-40"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment: Cramorant is broadly considered one of Gen VIII's most meme-friendly designs. The Pikachu-from-mouth Gorging Form image became widely shared official and fan art. Comedy-first design, broadly loved. [Sentiment, not fact — sourced from general community consensus via WebSearch: Pokebeach 2019 reveal]",
+      "sources": ["WebSearch: Pokebeach 2019 Cramorant reveal"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Arrokuda", "set": "Vivid Voltage", "note": "Likely 041/185 — TCG Gulp Missile ammunition"},
+    {"name": "Barraskewda", "set": "various", "note": "Arrokuda evolution, shares oceanic design space"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

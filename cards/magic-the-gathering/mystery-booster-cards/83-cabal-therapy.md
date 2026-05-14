@@ -14,8 +14,8 @@ tags_hub: ["robed-figure", "hooded-figure", "cultist", "ritual", "spellcaster", 
 tags_filter: ["solo", "mid-shot", "forward-facing", "no-face", "scene-mode", "black-magic", "sorcery", "discard", "sacrifice-mechanic", "flashback"]
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/83-cabal-therapy.png
 average_cost_paid: 0
-market_price: 7.07
-market_price_as_of: 2026-05-12
+market_price: 7.25
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

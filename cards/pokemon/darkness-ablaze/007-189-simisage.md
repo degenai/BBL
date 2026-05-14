@@ -10,12 +10,13 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
+characters: ["elemental-monkey-trio"]
 tags_hub: ["monkey", "primate", "forest", "leaf", "canopy", "jungle", "leaping", "agility", "wild", "sunlight", "foliage", "trickster"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "action-pose", "creature-only", "no-face-detail-needed", "grass-type", "stage-1", "pokemon-card"]
 reference_image: cards/_images/pokemon/darkness-ablaze/007-189-simisage.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://images.pokemontcg.io/swsh3/7_hires.png
@@ -57,3 +58,16 @@ A bright, kinetic illustration of Simisage mid-leap through a dense leafy canopy
 **Iconography:** leaf-crest
 **Genre cues:** fantasy, anime, creature-collector
 
+## Trivia
+
+- **Set context** — Darkness Ablaze released August 14, 2020 as the third main Sword & Shield expansion, sourced from the Japanese Explosive Walker expansion. The set is 189 cards in its numbered set [Bulbapedia: Darkness Ablaze (TCG)].
+- **Elemental monkey trio design** — Simisage is the evolved form of Pansage, one of three elemental monkey Pokémon introduced in Generation V (Unova). The trio — Pansage/Simisage (Grass), Pansear/Simisear (Fire), Panpour/Simipour (Water) — is widely noted to reference the three wise monkeys (mizaru, kikazaru, iwazaru): Pansage for "speak no evil," Pansear for "hear no evil," and Panpour for "see no evil" [Bulbapedia: Elemental monkeys]. The trio evolves via elemental stones (Leaf Stone, Fire Stone, Water Stone) rather than level-up.
+- **Flavor text** — *"Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter."* [PokemonTCG.io / card frontmatter]. This aligns with the Pokédex characterization of Simisage as aggressive despite its Grass type — a deliberate design counterpoint to the docile Pansage.
+- **Artist** — Illustrated by Hasegawa Saki, an artist active in the Sword & Shield era whose TCG credits include Ursaring (Evolving Skies), Crawdaunt (Battle Styles), and Diglett (Sword & Shield base). Simisage (DAA 007) is one of her earlier SWSH-era cards [PkmnCards: Hasegawa Saki artist page].
+
+### Related cards
+- Pansage (multiple sets) — pre-evolution; same trio, "speak no evil" motif
+- Simisear (multiple sets) — Fire-type trio counterpart; Pansear evolution
+- Simipour (multiple sets) — Water-type trio counterpart; Panpour evolution
+- Pansear (multiple sets) — Fire-type trio base; "hear no evil" motif
+- Panpour (multiple sets) — Water-type trio base; "see no evil" motif

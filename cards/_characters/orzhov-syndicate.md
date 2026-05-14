@@ -2,7 +2,7 @@
 type: character
 name: Orzhov Syndicate
 aliases: [orzhov, the-syndicate, orzhov-guild, orzhov-church, church-of-deals]
-universe: Magic: The Gathering / Ravnica
+universe: "Magic: The Gathering / Ravnica"
 faction: Orzhov Syndicate (self; this node IS the faction)
 species: faction-collective (humans, vampires, spirits, thrulls, archons, giants — mixed)
 canonical_source: "MTG Wiki — Orzhov Syndicate; Wizards of the Coast — Guilds of Ravnica / Ravnica Allegiance set design articles; Scryfall — Orzhov watermark on member cards"
@@ -14,8 +14,11 @@ appears_on:
   - magic-the-gathering/ravnica-allegiance/192-mortify
   - magic-the-gathering/ravnica-allegiance/236-orzhov-locket
   - magic-the-gathering/ravnica-allegiance/252-orzhov-guildgate-252
+  - magic-the-gathering/modern-horizons-3/21-charitable-levy
+  - magic-the-gathering/modern-horizons-3/31-indebted-spirit
 related_hubs: [labor]
 related_symbols: [orzhov-signet]
+related_characters: [macro-cosmos]
 ip_resolution_for: orzhov-syndicate
 ---
 
@@ -35,6 +38,10 @@ Card art and flavor text that depicts the Orzhov as an *institution*: its operat
 - **Mortify** (RNA-192, uncommon, Anthony Palumbo art) — Orzhov-watermark guild-common removal. Flavor: *"Your debt is erased." —Hilgur, Orzhov euthanist.* The flavor speaker is named and assigned a guild office ("Orzhov euthanist"), echoing the 2006 *Orzhov Euthanist* creature card. The card is the institution's removal spell, named and operated by an institutional functionary.
 - **Orzhov Locket** (RNA-236, common, Volkan Baǵa art) — guild-iconography still life. Spilled coins around the syndicate's signet rendered as wearable jewelry; flavor speaker is *Milana, Orzhov prelate* ("It looks expensive, doesn't it? You have no idea..."), wearing the institutional power-mark at the throat. Mechanically the white-black entry in the *Ravnica Allegiance* guild-locket artifact cycle (one per guild, mana-rock + sac-draw). Anchors both this node and the [[orzhov-signet]] symbol node — the locket is the medallion form of the syndicate's institutional self-portrait.
 - **Orzhov Guildgate (252)** (RNA-252, common, Cliff Childs art) — guild-gate / cathedral establishing shot. The institution's Ravnican front door, with the eclipsed-sun signet mounted as a giant gold-and-iron rose window above the central arch — the syndicate stamps its mark onto its own real-estate. The flavor speaker is *Kaya* ("So much wealth. So much splendor. So much temptation to believe the gilded lie."), the planeswalker Bolas installed as Orzhov guildmaster during *War of the Spark*; her line is the guild critique from inside the guildmaster's office. Anchors both this node and the [[orzhov-signet]] symbol node at architectural scale.
+
+- **Charitable Levy** (MH3-21, uncommon, Eli Minaya art) — tithe-extraction scene from the operational end. Two robed figures with arms upraised as Orzhov gold-coinage rains down on a village beneath a brightening sky. Mechanically `{2}{W}` white-magic enchantment with a noncreature-spell tax (every noncreature spell costs `{1}` more, collection counters accumulate until the tithe sacrifices into a Plains-tutor card-draw) — the rules-text rendering of the syndicate's extraction-as-tax operational template. The card has no Orzhov watermark (it's mono-white in *Modern Horizons 3* rather than a Ravnica-block guild-watermarked printing), but the iconographic register — falling coinage, raised-arm village figures, tithe-and-collection-counter mechanic — is unambiguously the syndicate's operational vocabulary.
+
+- **Indebted Spirit** (MH3-31, uncommon, L.A. Draws art) — a skeletal robed spirit holding a spiked scepter and an unrolled scroll, draped in flowing white robes in a torchlit stone interior. Mechanically `{1}{W}` Spirit with Bestow `{2}{W}` and Afterlife 1, and the enchanted creature gains +1/+1 and Afterlife 1. **Afterlife is the Orzhov guild's signature *Ravnica Allegiance* keyword** (introduced in the 2019 Ravnica block as the institutional-thesis mechanic for the syndicate: dying creatures produce a 1/1 white-black Spirit token, encoding the doctrine that death does not discharge service). The card's flavor register (skull, scroll, scepter, bureaucratic dread) and its core keyword together place this as a canonical Orzhov institutional-rhetoric printing despite the mono-white *Modern Horizons 3* color identity.
 
 ## The functional ideology
 

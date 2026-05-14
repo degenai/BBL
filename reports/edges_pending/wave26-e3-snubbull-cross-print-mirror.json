@@ -1,0 +1,18 @@
+{
+  "edge_id": "snubbull-daa-070--snubbull-fus-115",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/070-189-snubbull.md", "name": "Snubbull (Darkness Ablaze 070/189)"},
+    {"type": "card", "path": "cards/pokemon/fusion-strike/115-264-snubbull.md", "name": "Snubbull (Fusion Strike 115/264)"}
+  ],
+  "description": "Cross-print species mirror between the two wave-enriched Snubbull prints in corpus. DAA-070 (otumami art) and FUS-115 (Kyoko Umemoto art) share verbatim flavor text — the timid-puppy-getting-bullied Pokedex window — across two illustrators and two consecutive Sword & Shield expansions. DAA-070 frames the species in the grumpy-jowled-portrait register; FUS-115 reframes the same species into the cozy-meadow-resting register with a bow accessory. Same species, same canonical Pokedex flavor window, divergent compositional register — the cohort precedent that wave 23 Lunatone and wave 24 Starly cross-print mirrors established. Older pre-enriched prints (LOT-137, SMB-90) are out of scope for this mirror; they attach when enriched.",
+  "citations": ["[Bulbapedia: Snubbull]", "[PokemonTCG.io API (swsh3-70, swsh8-115)]"],
+  "files_modified": [
+    "cards/pokemon/darkness-ablaze/070-189-snubbull.md",
+    "cards/pokemon/fusion-strike/115-264-snubbull.md"
+  ],
+  "other_candidates_considered": [],
+  "edgelord_mood": "sighed-but-mirrored"
+}

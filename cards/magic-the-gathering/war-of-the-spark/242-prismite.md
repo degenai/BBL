@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "no-face", "ar
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/242-prismite.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-05
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/4/0/40475e96-0283-445f-97fb-1da008707399.png?1559898532

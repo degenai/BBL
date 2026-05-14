@@ -1,0 +1,33 @@
+{
+  "edge_id": "wave28-e4-snubbull-cross-print-3-print-triangle",
+  "shape": "1:N",
+  "topology": "triangle",
+  "category": "cross-print-species-extension",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/lost-thunder/137-snubbull.md", "name": "Snubbull (LOT-137)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/070-189-snubbull.md", "name": "Snubbull (DAA-070)"},
+    {"type": "card", "path": "cards/pokemon/fusion-strike/115-264-snubbull.md", "name": "Snubbull (FUS-115)"}
+  ],
+  "description": "Triangle. Three corners of Snubbull, three illustrators, three sets, two TCG generations (Sun & Moon LOT meets Sword & Shield DAA + FUS). Worth the work. The wave 23 DAA-070 ↔ FUS-115 mirror was Sword & Shield-only and shared verbatim timid-bullied flavor; LOT-137 brings the laid-back-growling Pokedex-flavor window across the generation bridge, making Snubbull the corpus's first cross-generation 3-print species stack. Every print is now reachable from every other print of the species. The two-flavor-window divergence (timid-bullied vs. laid-back-growling) is canonicalized via this stack — a small designer-confirmed Pokedex-history feature now load-bearing in the graph. Topology is `triangle` per the spec, and on a triangle Edgelord's mood is `satisfied`. The shape is its own reward.",
+  "citations": [
+    "[Bulbapedia: Snubbull]",
+    "[PokemonTCG.io API: sm8-137]",
+    "[PokemonTCG.io API: swsh3-70]",
+    "[PokemonTCG.io API: swsh8-115]",
+    "[DAA-070 + FUS-115 verbatim flavor: 'In contrast to its appearance, it's quite timid. When playing with other puppy Pokémon, it sometimes gets bullied.']",
+    "[LOT-137 distinct flavor: 'Its growls make its opponents uneasy. This laid-back Pokémon tends to sleep half the day.']"
+  ],
+  "files_modified": [
+    "cards/pokemon/lost-thunder/137-snubbull.md (new ## Connections section with two bullets pointing to DAA-070 and FUS-115; closes the triangle from the third corner)",
+    "cards/pokemon/darkness-ablaze/070-189-snubbull.md (## Connections section appended bullet pointing to LOT-137)",
+    "cards/pokemon/fusion-strike/115-264-snubbull.md (## Connections section appended bullet pointing to LOT-137)"
+  ],
+  "edgelord_mood": "satisfied",
+  "other_candidates_considered": [
+    "Mr. Nodeley snubbull-line species node — refused. Two prior cross-print mirror precedents (Lunatone wave 23, Starly wave 24, Alolan Graveler wave 27, Snubbull's own DAA+FUS pair wave 23) all sit on card-to-card edges rather than species-line nodes; species-line solo nodes have a higher bar in the current graph (charizard-line, staraptor-line at 4+ prints with the full evolution line). Snubbull at 3 prints, no Granbull in corpus, no evolution-line coverage — the triangle is the right shape, not a node.",
+    "Kirlia 3rd print extension (BUS-92 + CSR-060 + LOT-140) — deferred. The existing CSR-060 ↔ BUS-92 mirror is wired through a within-set Ralts evolution-line connection at CSR-060, and extending to LOT-140 cleanly would require rewriting CSR-060's existing Connections bullet to accommodate the cross-print branch; out of scope for this single-pass slot.",
+    "Cutiefly cross-print (BUS-95 + LOT-145) — refused. Vision-only on both; no canonical flavor cross-confirmation work done yet to make the mirror load-bearing.",
+    "Tapu Lele solo / Tapu Guardians cycle — refused as premature per request (single Tapu in corpus).",
+    "Brionne in Alola starter cohort — refused as premature per request (single Alola starter in corpus)."
+  ]
+}

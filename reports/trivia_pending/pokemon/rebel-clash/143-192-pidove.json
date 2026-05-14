@@ -1,0 +1,41 @@
+{
+  "card_name": "Pidove",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "143/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Pidove via PokemonTCG.io API card swsh2-143; National Pokedex no. 519, Normal/Flying-type pigeon Pokemon, regional bird of Generation V Unova region (Pokemon Black & White).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Pidove (National Pokedex no. 519, Normal/Flying) is the regional bird of Unova, introduced in Generation V (Pokemon Black & White, 2010). Unova is officially modeled on the New York City metropolitan area, confirmed by director Junichi Masuda. Castelia City mirrors Lower Manhattan; Skyarrow Bridge mirrors the Brooklyn Bridge.",
+      "sources": ["WebSearch: Bulbapedia Unova", "WebSearch: Pokemon Black and White Wikipedia"]
+    },
+    {
+      "category": "design",
+      "text": "Pidove's Japanese name Mamepato comes from mame (beans/birdseed) and hato (pigeon), a homophone of haato (heart) — explaining the heart motif embedded in Pidove's chest design. The line culminates in Unfezant (no. 521), likely based on a pheasant or green pheasant — Japan's national bird.",
+      "sources": ["WebSearch: GamesRadar 'Pokemon Black and White Pokedex — Pidove, Tranquill, Unfezant'"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Where people go, these Pokémon follow. If you're scattering food for them, be careful — several hundred of them can gather at once.\" The flock-behavior mirrors real urban pigeon behavior in dense cities, grounding the Unova-as-NYC design in observable urban ecology.",
+      "sources": ["PokemonTCG.io API: swsh2-143 flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "This Rebel Clash print by artist Ryota Murayama stages the flock-behavior flavor text directly in the art: two Pidove on a rooftop ledge above a warm urban landscape.",
+      "sources": ["PokemonTCG.io API: swsh2-143 artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tranquill", "set": "various sets", "note": "Stage-1 evolution (level 21), Unova regional bird line"},
+    {"name": "Unfezant", "set": "various sets", "note": "Final evolution (level 32); pheasant design"},
+    {"name": "Pidove", "set": "Black & White era sets", "note": "Original-generation prints for comparison"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

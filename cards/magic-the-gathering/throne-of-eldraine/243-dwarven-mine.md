@@ -7,7 +7,7 @@ rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
 tags_hub: ["dwarves", "mine", "underground", "forge", "industry", "bridge", "cavern", "fire", "labor", "mountain", "infrastructure", "molten"]
@@ -15,7 +15,7 @@ tags_filter: ["wide-shot", "scene-mode", "crowd", "no-face", "land-card", "land-
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/243-dwarven-mine.png
 average_cost_paid: 0
 market_price: 0.36
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

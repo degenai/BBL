@@ -14,8 +14,8 @@ tags_hub: ["dragon", "spirit", "ghost", "tomb", "pilgrim", "mountain", "monument
 tags_filter: ["land", "duo", "wide-shot", "scene-mode", "no-color-magic", "colorless", "small-figure", "huge-creature", "background-creature"]
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/245-tomb-of-the-spirit-dragon.png
 average_cost_paid: 0
-market_price: 0.37
-market_price_as_of: 2026-05-12
+market_price: 0.39
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 art_match_confidence: high

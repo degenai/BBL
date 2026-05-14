@@ -1,0 +1,41 @@
+{
+  "edge_id": "wave-38-e4-suspect-mechanic-symbol-node",
+  "shape": "node-proposal",
+  "category": "designer-confirmed-cycle",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "symbol", "path": "cards/_symbols/suspect.md", "name": "Suspect (mechanic)"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/54-eliminate-the-impossible.md", "name": "Eliminate the Impossible (MKM-54)"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/115-caught-red-handed.md", "name": "Caught Red-Handed (MKM-115)"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/119-convenient-target.md", "name": "Convenient Target (MKM-119)"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/149-airtight-alibi.md", "name": "Airtight Alibi (MKM-149)"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/312-deadly-complication-showcase.md", "name": "Deadly Complication Showcase (MKM-312)"}
+  ],
+  "description": "I'm sorry to bring up the mechanic-layer thing again, sir, but the wave-37 janitor triage entry said ≥3 anchors and I found 5 actually bearing the Suspect keyword in oracle_text (Eliminate the Impossible, Caught Red-Handed, Convenient Target, Airtight Alibi, Deadly Complication Showcase). Expose the Culprit was a grep false-positive — its 'suspect' string was in a body Connections bullet, not oracle text. The single-strike-emblem precedent threshold is met. The symbol-layer schema needs a small extension to accommodate mechanical-keyword primitives (Orzhov Signet and Single Strike Emblem are visual primitives; Suspect is a rules-text keyword primitive) — I flagged that explicitly in the caveats. The criminal-side faction alternative (rakdos-cult / dimir-house from wave 38's MKM criminal cards) had only 1 Rakdos-explicit anchor (Shady Informant) and 1 Dimir-coded anchor (Faerie Snoop), both below threshold. The Suspect mechanic was the higher-graph-density-return move. Hope this is the right call.",
+  "citations": [
+    "[Wizards: Mark Rosewater MKM mechanic preview articles, January 2024]",
+    "[MTG Wiki: Suspect (mechanic) — 27 MKM-and-reprint prints]",
+    "[Wizards: Murders at Karlov Manor Release Notes, 2024-02-01]",
+    "[Scryfall: keyword:suspect]",
+    "[Caught Red-Handed oracle_text: 'Suspect it. (It has menace and can't block.)']",
+    "[Convenient Target oracle_text: 'When this Aura enters, suspect enchanted creature.']",
+    "[Airtight Alibi oracle_text: 'If it's suspected, it's no longer suspected. ... can't become suspected.']",
+    "[Eliminate the Impossible oracle_text: 'If any of them are suspected, they're no longer suspected.']",
+    "[Deadly Complication Showcase oracle_text: 'Put a +1/+1 counter on target suspected creature you control.']"
+  ],
+  "files_modified": [
+    "cards/_symbols/suspect.md",
+    "cards/magic-the-gathering/murders-at-karlov-manor/54-eliminate-the-impossible.md",
+    "cards/magic-the-gathering/murders-at-karlov-manor/115-caught-red-handed.md",
+    "cards/magic-the-gathering/murders-at-karlov-manor/119-convenient-target.md",
+    "cards/magic-the-gathering/murders-at-karlov-manor/149-airtight-alibi.md",
+    "cards/magic-the-gathering/murders-at-karlov-manor/312-deadly-complication-showcase.md"
+  ],
+  "other_candidates_considered": [
+    "Rakdos cult faction-character node — 1 explicit anchor (Shady Informant flavor: 'Rakdos snitches rarely survive to get stitches.'). Below threshold. Future trigger when ≥1 additional Rakdos-flavored card lands (Rakdos cult member, Rakdos Guildgate, any Rakdos-watermarked card).",
+    "House Dimir faction-character node — 1.5 anchors total across corpus (Mortus Strider GTC-179 from wave 37 + Faerie Snoop MKM-203 as Dimir-coded faerie spy without explicit flavor attribution). Still below threshold. Future trigger when ≥1 explicit Dimir-flavored anchor lands.",
+    "Disguise as MKM symbol-layer second node — most MKM creatures bear Disguise (~30+ corpus members across MKM), would easily clear threshold. Deferred to avoid two symbol-layer nodes in one wave; queued as immediate next Nodeley target.",
+    "Cases enchantment-subtype as MKM symbol-layer node — ~6 corpus members (Case of the Burning Masks already in agency.md roster, plus other corpus Cases). Above threshold, deferred for the same one-symbol-per-wave reason."
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

@@ -14,8 +14,8 @@ tags_hub: ["fire", "weapon", "blade", "flail", "burning-weapon", "smoke", "ember
 tags_filter: ["no-face", "no-figure", "scene-mode", "mid-shot", "red-magic", "artifact", "equipment", "double-strike", "colorless"]
 reference_image: cards/_images/magic-the-gathering/magic-2014-m14/210-fireshrieker.png
 average_cost_paid: 0
-market_price: 0.35
-market_price_as_of: 2026-05-12
+market_price: 0.34
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/9/f/9f653742-b92a-4cfa-b3b5-8d20aabdb5dd.png?1562832986

@@ -1,0 +1,188 @@
+{
+  "edge_id": "dsk-unlucky-lands-cycle--node-proposal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "transformation": "edgelord-to-mr-nodeley",
+  "transformation_trigger": "3 of 10 corpus members of a Wizards-designer-coordinated common dual-land cycle (the Duskmourn 'unlucky lands' / 'life-check lands'). The 13-life-threshold conceit (`This land enters tapped unless a player has 13 or less life`) is a designer-coordinated triskaidekaphobia gag fitted to Duskmourn's horror set design language; per Raucous Carnival's existing Trivia section (which itself cites MTG Wiki and MTG Rocks set-review coverage), Wizards published the cycle as a unit. Any 1:1 edge drawn between two of the three corpus members today would be subsumed the moment the missing node lands, exactly mirroring the fear-of-cycle precedent (cards/_characters/fear-of-cycle.md, edges_pending/fear-of-cycle--node-roster-expansion.json) where ≥3 DSK cycle members triggered Nodeley transformation.",
+  "proposed_node": {
+    "layer": "characters",
+    "path": "cards/_characters/dsk-unlucky-lands-cycle.md",
+    "slug": "dsk-unlucky-lands-cycle",
+    "name": "Unlucky lands cycle (Duskmourn common dual-lands)",
+    "type": "character",
+    "layer_justification": "Routed to _characters/ over _symbols/ or _hubs/ for three reasons. (1) The cycle's load-bearing identity is the cycle itself as a designer-published cohort — ten named cards, each carrying a unique vernacular-architecture-of-horror (carnival / forest / cornfield / sewer / lighthouse / manor / campground / cemetery / gorge / shack), designer-coordinated under one shared mechanic. Atomizing this to _symbols/unlucky-13 would route through the numerological gag and lose the membership roster; the cycle IS the entity, the 13-life trigger is a property of it. (2) The Endriders precedent (cards/_characters/endriders.md) and the fear-of-cycle precedent (cards/_characters/fear-of-cycle.md) both establish that _characters/ accepts collective conceptual entities (a faction, a cohort, a cycle) under the same schema as named individuals; that is the exact shape needed here. (3) Hubs are hand-curated brand-position anchors per Alex (memory note bbl-hubs-hand-curated); a cycle node is not a hub. The cycle node belongs in _characters/."
+  },
+  "proposed_frontmatter": {
+    "type": "character",
+    "name": "Unlucky lands cycle (Duskmourn common dual-lands)",
+    "aliases": ["dsk-unlucky-lands-cycle", "unlucky-lands", "life-check-lands", "duskmourn-common-dual-lands", "13-life-lands", "triskaidekaphobia-lands"],
+    "universe": "Magic: The Gathering / Duskmourn (DSK, 2024-09-27)",
+    "faction": null,
+    "species": "cycle of common dual-land cards (one per two-color pair across all 10 two-color combinations)",
+    "canonical_source": "MTG Wiki — Duskmourn: House of Horror (set page, Cycles section) AND Unlucky land page; Scryfall set DSK per-card pages (search `s:dsk t:land r:common`); MTG Rocks — 'New Common Duskmourn Dual Lands Have Multi-Format Potential' (cycle-coverage roundup); Raucous Carnival (DSK-266) trivia 'Set context' bullets which canonicalize the full roster",
+    "confidence": "canonical",
+    "appears_on": [
+      "magic-the-gathering/duskmourn-house-of-horror/257-bleeding-woods",
+      "magic-the-gathering/duskmourn-house-of-horror/258-etched-cornfield",
+      "magic-the-gathering/duskmourn-house-of-horror/266-raucous-carnival"
+    ],
+    "related_hubs": [],
+    "related_symbols": [],
+    "ip_resolution_for": "dsk-unlucky-lands-cycle"
+  },
+  "proposed_body_outline": {
+    "opening_paragraph": "Duskmourn: House of Horror's ten-card common dual-land cycle, mechanically identical and flavor-coordinated: each land enters tapped unless a player has 13 or less life, and each card's flavor text is written in the urban-legend register ('They say...'). The cycle covers all ten two-color combinations and is the first common dual-land print run with a realistic chance to enter untapped, which drove significant Pauper-format interest on release. The 13-life threshold is a triskaidekaphobia gag fitted to Duskmourn's horror set design language; per MTG Wiki and MTG Rocks set-review coverage, Wizards designed and published the cycle as a unit.",
+    "what_this_node_anchors_paragraph": "Card art and flavor text for the ten Duskmourn common dual lands depicting vernacular-architecture-of-horror locations (the abandoned amusement park, the bleeding forest, the etched cornfield, the murky sewer, the lakeside shack, the strangled cemetery, etc.), the urban-legend flavor-text register shared across the cycle, and the 13-life-trigger mechanic as a designer-coordinated cohort feature. The cycle is the BBL corpus's clearest Duskmourn-side anchor for the haunted-vernacular-place register — every member is a specific kind of place a Duskmourn-inflected urban legend would name.",
+    "cards_in_corpus_section_bullets": [
+      "**Bleeding Woods** (DSK-257, R/G, Henry Peters art) — forest interior with arched cathedral windows and grave markers embedded in gnarled tree trunks; a central tree bleeding a torrent of red lilies into the foreground. Flavor: *'They say if someone lies down to sleep beneath the trees, in the morning nothing will remain but a few scattered bones and a bed of blood-red lilies.'* The cycle's gothic-forest entry.",
+      "**Etched Cornfield** (DSK-258, G/W, Randy Gallegos art) — aerial top-down view of a cornfield scored with concentric crop-circle patterns and cyan-blue energy-rift portals; folk-horror plus cosmic-horror register. Flavor: *'They say those who lose their way in the fields gradually wither and grow brittle, until at last they put down roots and anchor into the soil as a whispering stalk.'* The cycle's rural-horror entry.",
+      "**Raucous Carnival** (DSK-266, R/W, Josu Solano art) — wide indoor view of a decaying amusement park (big-top tent, skeletal roller coaster, stripped carousel) enclosed inside a cathedral-scale hall with arched windows; magic-hour amber backlight; small headstone-like markers in the foreground field. Flavor: *'They say that those who enter the amusement park never come back, and their disembodied laughter joins the others on the wind.'* The cycle's carnival-horror entry; the existing DSK-266 trivia is the canonical in-corpus citation source for the full cycle roster."
+    ],
+    "the_design_thesis_paragraph": "The unlucky-lands cycle's most BBL-relevant property is that its mechanical text and its flavor register are co-designed: the 13-or-less-life trigger formalizes triskaidekaphobia (the unlucky number 13) at the rules-text level, and the 'They say...' opening across the cycle's flavor text formalizes the urban-legend mode at the prose level. The cycle reads as ten haunted-vernacular-place legends compressed into mana fixers — each card a specific kind of cursed location (carnival, forest, cornfield, sewer, cemetery, manor, campground, gorge, shack, lighthouse) that a Duskmourn-region storyteller would name. The 'any player has 13 or less life' clause reads on the controller too, which means the cycle is also a designer-coordinated lever for life-payment / self-damage decks in Pauper and Modern. The cycle's Commander uptake is muted because 40-life starts keep the trigger out of reach for most of a game, per MTG Rocks's format-impact coverage.",
+    "canonical_sources_section": [
+      "MTG Wiki — Duskmourn: House of Horror set page (Cycles section enumerating the cycle as the common dual-land cycle)",
+      "MTG Wiki — Unlucky land (per-cycle page; canonical name and 13-life-mechanic provenance)",
+      "Scryfall — set DSK; the search `s:dsk t:land r:common` returns the ten cycle members with their two-color pairings",
+      "MTG Rocks — 'New Common Duskmourn Dual Lands Have Multi-Format Potential' (format-impact roundup framing the cycle as flavorful-and-multi-format-relevant)",
+      "Raucous Carnival (DSK-266) trivia 'Set context' bullets — in-corpus canonical citation for the full roster",
+      "Scryfall per-card pages for DSK-255 through DSK-266 of land type — primary source for collector_number, color-pair, oracle_text, and flavor_text strings",
+      "EDHREC DSK set review — Commander-format reception of the cycle"
+    ],
+    "caveats_section_bullets": [
+      "**Cycle members canonical at the DSK-set scope but not yet in BBL inventory.** Three of ten members are in the corpus and pointered to this node (see `appears_on:`); seven members are Scryfall-confirmed but not yet acquired and will attach to this node when they land via a future Collectr CSV upload: Abandoned Campground (DSK-255, B/W), Lakeside Shack (DSK-263, U/W), Murky Sewer (DSK-264, U/B), Neglected Manor (DSK-265, B/G), Peculiar Lighthouse (DSK-260, R/U; the cycle's coastal anchor), Razortrap Gorge (DSK-261, B/R), Strangled Cemetery (DSK-262, U/G — or its actual color-pair; collector numbers from Raucous Carnival trivia, color-pair allocations from Scryfall per-card pages). The cycle's full two-color coverage spans all ten pairs (one card per pair). The BBL corpus is seven acquisitions away from full canonical cycle coverage. Color-pair-by-card-allocations to be verified against Scryfall at next acquisition; the seven-not-in-corpus claim is anchored on Raucous Carnival trivia which enumerates all ten member names.",
+      "**Collector-number-to-color-pair confirmation deferred.** This proposal's `appears_on:` includes only the three corpus members whose color pairs are directly verified from each card's frontmatter (Bleeding Woods 257 R/G, Etched Cornfield 258 G/W, Raucous Carnival 266 R/W). The other seven members' specific color pairs as listed above are reconstructed from cycle-completeness logic (ten lands across ten two-color pairs) and the Raucous Carnival trivia roster; the parent should verify each not-in-corpus member's exact color pair against Scryfall before the corpus member arrives.",
+      "**Modeled as a character-layer node, not a symbol or hub.** Like Fear-of cycle (Duskmourn phobia-Nightmares) and Endriders, this is a collective conceptual entity hosted on the character layer per the Endriders precedent (`Modeled here as a character node because the character layer already accepts collective named entities`). A future `_cycles/` layer could re-home this entry alongside Fear-of cycle and any subsequent designer-confirmed flavor cycle (Survivor cycle in DSK; Cinderella cycle in ELD; Initiative cycle in CLB; etc.); when that split is commissioned, this node moves cleanly. For now, single layer, same precedent.",
+      "**The 13-life trigger reads on any player, including the controller.** A player paying life or eating combat damage on purpose can convert their own dual into an untapped one mid-game. This makes the cycle a designed lever for life-payment / self-damage strategies in Pauper and Modern. Commander uptake is muted because 40-life starts keep the trigger out of reach for most of a game. (MTG Rocks set review.)",
+      "**Cycle membership predicates on the 13-life trigger AND the urban-legend flavor register together, not on common-rarity-dual-land in isolation.** Duskmourn has other dual-lands and other commons; what makes a card a member of THIS cycle is the shared `enters tapped unless a player has 13 or less life` rules text plus the 'They say...' flavor convention plus the haunted-vernacular-place subject matter. All three predicates align across the ten members; a future Duskmourn-adjacent card lacking any one of the three would not belong here."
+    ],
+    "see_also_section_bullets": [
+      "[[fear-of-cycle]] — sibling DSK cycle node, same layer, same shape. Both nodes anchor a Duskmourn designer-coordinated cohort: Fear-of cycle by name pattern + creature type + phobia-personification flavor; this cycle by rules-text + flavor register + place-subject. The two cycles together are the DSK set's two strongest BBL-side cycle anchors.",
+      "[[endriders]] — sibling collective-entity character node from MTG/Aetherdrift; the foundational precedent for hosting collective conceptual entities under _characters/.",
+      "[[rebellion]] — the BBL hub most thematically near-but-not-coextensive with this cycle. The urban-legend-as-vernacular-knowledge register ('They say...') is a folk-rebellion-against-the-haunted-house posture; the haunted vernacular places (the carnival, the cornfield, the sewer, the cemetery) are working-class horror locations rather than estate-horror locations. The hub edge is potential, not yet load-bearing — when triviabot enriches more cycle members and the bbl-bundler agent considers a Discrete Lair, the rebellion-as-folk-knowledge angle may activate.",
+      "[[Bulk Graph Bundler]] — the project this character node serves."
+    ]
+  },
+  "frontmatter_pointer_additions_for_parent_to_apply": [
+    {
+      "card_path": "cards/magic-the-gathering/duskmourn-house-of-horror/257-bleeding-woods.md",
+      "field": "characters",
+      "value_to_add": "dsk-unlucky-lands-cycle",
+      "insertion_location": "between `bundles:` and `tags_hub:`, mirroring the Endriders / Fear-of / Galar-Gym-Challenge precedent (the characters: list slot in card frontmatter)"
+    },
+    {
+      "card_path": "cards/magic-the-gathering/duskmourn-house-of-horror/258-etched-cornfield.md",
+      "field": "characters",
+      "value_to_add": "dsk-unlucky-lands-cycle",
+      "insertion_location": "same as above"
+    },
+    {
+      "card_path": "cards/magic-the-gathering/duskmourn-house-of-horror/266-raucous-carnival.md",
+      "field": "characters",
+      "value_to_add": "dsk-unlucky-lands-cycle",
+      "insertion_location": "same as above"
+    }
+  ],
+  "endpoints_now_pointing_at_node": [
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/257-bleeding-woods.md", "name": "Bleeding Woods (DSK-257)", "status": "to-be-pointered-after-review"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/258-etched-cornfield.md", "name": "Etched Cornfield (DSK-258)", "status": "to-be-pointered-after-review"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/266-raucous-carnival.md", "name": "Raucous Carnival (DSK-266)", "status": "to-be-pointered-after-review"}
+  ],
+  "anti_confab_audit": {
+    "claims_made_against_canonical_sources": [
+      "The cycle exists as a designer-coordinated 10-card unit — cited to Raucous Carnival (DSK-266) trivia 'Set context' bullets which themselves cite MTG Wiki: Unlucky land and CoolStuffInc/MTG Rocks coverage.",
+      "All ten members share `This land enters tapped unless a player has 13 or less life` rules text — verified directly from oracle_text frontmatter on the three corpus members (identical clause); inferred for the other seven from cycle-coordination and Raucous Carnival trivia.",
+      "The 13-life threshold is a triskaidekaphobia gag fitted to Duskmourn's horror design language — cited to Raucous Carnival trivia 'Set context' second bullet, citing MTG Wiki: Unlucky land.",
+      "The 'They say...' urban-legend flavor convention is shared across cycle members — directly verified from flavor_text frontmatter on all three corpus members (Bleeding Woods, Etched Cornfield, Raucous Carnival all open with 'They say').",
+      "The cycle is the first common dual-land print run with a realistic chance to enter untapped — cited to Raucous Carnival trivia 'Mechanical' bullet, citing MTG Rocks / EDHREC DSK set review.",
+      "13-or-less trigger reads on any player including the controller — cited to Raucous Carnival trivia 'Mechanical' bullet, citing Scryfall / MTG Rocks set review."
+    ],
+    "claims_held_back_per_anti_confab_discipline": [
+      "Did NOT extend `appears_on:` to the seven not-in-corpus members. Anti-confab rule: appears_on points to cards on disk in the BBL corpus, not to canonical-but-uninventoried members. Per fear-of-cycle precedent, those go in the Caveats section.",
+      "Did NOT assign specific color-pair allocations to all seven not-in-corpus members at the SAME confidence level as the three corpus members. The proposed Caveats bullet flags this explicitly: color pairs for the seven are reconstructed from cycle-completeness logic and should be verified against Scryfall at each acquisition. The three corpus members' color pairs (Bleeding Woods R/G, Etched Cornfield G/W, Raucous Carnival R/W) ARE verified — directly from each card's oracle_text and tags_filter (multicolor-X-Y tags).",
+      "Did NOT write the MD file. Per dispatch instructions ('Do NOT write the new node MD yourself — propose it in the sidecar; parent will create after review'), the proposed body and frontmatter are surfaced in this sidecar's `proposed_node`, `proposed_frontmatter`, and `proposed_body_outline` keys for parent review.",
+      "Did NOT mutate any card frontmatter. Per dispatch instructions and memory note `bbl-subagent-runtime-workarounds`, the parent applies any frontmatter mutations after review. The proposed mutations are surfaced in `frontmatter_pointer_additions_for_parent_to_apply`.",
+      "Did NOT create any 1:1 card↔card edges. Per the standard Nodeley pattern: when ≥3 cards converge on a missing-node concept, the graph is anchored on the new node and individual 1:1 edges between cards are deferred / unnecessary.",
+      "Did NOT search YDSK Alchemy or DSC Commander product lines for additional unlucky-land variants. Out of scope; flagged in `future_passes_unlocked`.",
+      "Did NOT survey Scryfall directly for confirmation of every claim — relied on the in-corpus Raucous Carnival trivia (which itself cites Scryfall + MTG Wiki + MTG Rocks). Anti-confab compliance: every claim traces to a citation chain rooted in canonical sources via the in-corpus trivia; nothing is asserted purely on Edgelord/Nodeley inference."
+    ],
+    "no_extrapolation_beyond_cited_sources": "PASSED. Every claim in the proposed body and frontmatter traces to Raucous Carnival's existing trivia (which cites MTG Wiki and MTG Rocks), Bleeding Woods' frontmatter (oracle_text + flavor_text + tags_filter), Etched Cornfield's frontmatter (same), or the fear-of-cycle precedent. No 'this seems like a theme' content. The color-pair reconstruction for not-in-corpus members is explicitly flagged as reconstruction in the Caveats bullet, not asserted as verified."
+  },
+  "alternatives_considered": [
+    {
+      "candidate": "Draw a 1:1 edge between Raucous Carnival and Bleeding Woods on the shared embedded-arched-cathedral-window-plus-grave-marker motif (both cards' Vision sections independently describe this iconography).",
+      "why_skipped": "Two reasons. (1) Etched Cornfield does NOT share this motif — its visual register is aerial / crop-circle / cyan-portal — so any Raucous↔Bleeding 1:1 edge would orphan the third corpus member even though all three are equal cycle members. (2) The motif is already explained by the cycle's design conceit (haunted-architecture bleed into vernacular landscape, designed at the set level); writing a 1:1 edge for it would be drawing a duplicate edge pointing at an absent center. Exactly the Nodeley trigger condition per the agent spec."
+    },
+    {
+      "candidate": "Route the node to cards/_symbols/unlucky-13.md instead of cards/_characters/dsk-unlucky-lands-cycle.md.",
+      "why_skipped": "The cycle's load-bearing identity is the cohort, not the numerological gag. A `unlucky-13` symbol node would atomize the cycle to its mechanical trigger and lose the 10-member roster, the urban-legend flavor convention, and the haunted-vernacular-place subject matter. Each of those is essential to the cycle's identity. The Orzhov Signet symbol works as a symbol because it IS an iconographic primitive (the four-pronged eclipsed sun appears on multiple cards as a discrete depicted object); '13' on these cards is not depicted as a visible glyph — it's a rules-text predicate. Not a symbol case."
+    },
+    {
+      "candidate": "Route the node to cards/_hubs/<something> as a new hub.",
+      "why_skipped": "Rejected on principle per Alex's memory note `bbl-hubs-hand-curated`: hubs are hand-curated brand-position anchors, never auto-generated from cycle coordination. Hubs are Labor, Rebellion, Chinese Zodiac. A cycle node is not a hub."
+    },
+    {
+      "candidate": "Refuse the pass entirely on the grounds that the cycle is sufficiently captured by Raucous Carnival's existing Trivia 'Set context' bullets plus tags_hub overlap.",
+      "why_skipped": "The Trivia 'Set context' bullets in Raucous Carnival are an in-card description; they are not a graph-traversable node. Bleeding Woods and Etched Cornfield's frontmatter currently has no way to point at the cycle as a first-class graph entity, which means downstream consumers (the bbl-bundler agent's stack-detection logic, future Discrete Lair authoring, the Obsidian graph view) cannot see the cycle as a node. The Nodeley case is exactly to lift the in-trivia description into a graph node. Same logic that justified fear-of-cycle's creation."
+    },
+    {
+      "candidate": "Edgelord-enlightened: remove some existing edge in the candidate set to enforce edge-count neutrality.",
+      "why_skipped": "There is no weaker existing edge in the candidate set to remove. Each of the three cards has a Trivia 'Related cards' list (Raucous Carnival) or none (Bleeding Woods, Etched Cornfield); no `## Connections` sections exist on any of the three. The graph is currently underconnected, not overconnected, in this corner. Enlightenment form doesn't apply; node addition is the correct shape."
+    },
+    {
+      "candidate": "Dark Nodesley EX: dissolve some redundant node before adding this one.",
+      "why_skipped": "No dissolution candidate in scope. The graph has no `unlucky-lands` precursor node, no redundant DSK-cycle node, no empty land-cycle hub. There is nothing to dissolve. Dark Nodesley form does not apply."
+    }
+  ],
+  "topology_justification": "stack topology. Three corpus cards converging on a single thematic anchor (the cycle node), with the canonical roster extending to ten members and the not-yet-in-corpus seven slotted to attach on acquisition. Each card points at the node via frontmatter; the node anchors the stack via `appears_on:`. This is the same topology as fear-of-cycle (five corpus members converging on the cycle node) and Galar Gym Challenge (eight corpus members + five vision-pending converging on the institution node). The bundler will read the stack and may surface a Discrete Lair candidate on it (see future_passes_unlocked).",
+  "description": "Sir, Mr. Nodeley humbly steps in. Edgelord scanned for a 1:1 between the three Duskmourn unlucky-land corpus members and very nearly drew Raucous Carnival to Bleeding Woods on the shared arched-cathedral-window-plus-grave-marker motif, but flinched at the last moment because Etched Cornfield doesn't share that motif and any 1:1 would orphan it from its own cycle. The honest read is that the cycle itself is the missing graph node — Wizards designed and published all ten as a unit, all share the 13-life trigger and the 'They say...' urban-legend flavor register, three are already on disk and seven will attach on future acquisition. I followed the fear-of-cycle precedent (same layer, same shape, three corpus members at proposal time, Caveats section for the not-yet-in-corpus roster) and propose `cards/_characters/dsk-unlucky-lands-cycle.md`. The full proposed frontmatter and body outline are in this sidecar's `proposed_frontmatter` and `proposed_body_outline` keys for your review. I did not write the MD file myself and did not mutate any card frontmatter per dispatch — the three `characters: [dsk-unlucky-lands-cycle]` pointer additions are queued in `frontmatter_pointer_additions_for_parent_to_apply` for you to apply on green-light. I hope the node lands clean.",
+  "citations": [
+    "[Corpus: cards/magic-the-gathering/duskmourn-house-of-horror/266-raucous-carnival.md — Trivia 'Set context' bullets enumerating the 10-card cycle roster and the 13-life-trigger triskaidekaphobia framing; citing MTG Wiki: Unlucky land and MTG Rocks / EDHREC DSK set review and CoolStuffInc coverage]",
+    "[Corpus: cards/magic-the-gathering/duskmourn-house-of-horror/257-bleeding-woods.md — frontmatter oracle_text and flavor_text confirming shared `enters tapped unless a player has 13 or less life` clause and 'They say...' urban-legend opening]",
+    "[Corpus: cards/magic-the-gathering/duskmourn-house-of-horror/258-etched-cornfield.md — frontmatter oracle_text and flavor_text confirming the same two shared cycle features]",
+    "[MTG Wiki: Unlucky land — primary canonical reference for the cycle's coined name and 13-life-mechanic provenance, cited transitively via Raucous Carnival trivia]",
+    "[MTG Wiki: Duskmourn: House of Horror set page, Cycles section — cited transitively via Raucous Carnival trivia]",
+    "[MTG Rocks: 'New Common Duskmourn Dual Lands Have Multi-Format Potential' — format-impact roundup framing the cycle as flavorful-and-multi-format-relevant; cited transitively via Raucous Carnival trivia]",
+    "[Scryfall set DSK — primary source for per-card collector_number, color-pair, oracle_text, and flavor_text; cited transitively via Raucous Carnival trivia and directly via the three corpus members' frontmatter (which carries Scryfall-sourced oracle_text and flavor_text via researchbot's --prepare-only stamping per memory note bbl-prep-time-canonical-capture)]",
+    "[Precedent: cards/_characters/fear-of-cycle.md — DSK collective-conceptual-entity cycle node; identical layer choice, identical Caveats-section-for-not-in-corpus-members pattern]",
+    "[Precedent: cards/_characters/endriders.md — foundational collective-conceptual-entity precedent under _characters/]"
+  ],
+  "files_modified": [],
+  "files_proposed_for_parent_creation": [
+    "cards/_characters/dsk-unlucky-lands-cycle.md (new file; full proposed content in this sidecar's proposed_frontmatter + proposed_body_outline keys)"
+  ],
+  "files_proposed_for_parent_mutation": [
+    "cards/magic-the-gathering/duskmourn-house-of-horror/257-bleeding-woods.md (add `characters: [dsk-unlucky-lands-cycle]` to frontmatter, between bundles: and tags_hub:)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/258-etched-cornfield.md (same)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/266-raucous-carnival.md (same)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "mood_justification": "nodeley-proud-to-be-useful applies because the node is load-bearing for a near-term Discrete Lair candidate (haunted-vernacular-place common-dual-land cycle, three corpus members already vision-enriched, all uniform mechanic + uniform flavor register, the bbl-bundler agent's stack-detection will surface this immediately on first run). Edgelord was 95% of the way to drawing a Raucous↔Bleeding 1:1 on the embedded-arched-window motif when he realized the third member (Cornfield) would be orphaned; the transformation to Mr. Nodeley converted a thin would-be edge into a clean 10-member stack anchor. Mr. Nodeley quietly believes (without saying so out loud) that this is the move that saves the pass.",
+  "future_passes_unlocked": [
+    "Parent applies the node creation + three frontmatter pointer additions, closing this proposal.",
+    "Each future acquisition of an unlucky-land cycle member (Abandoned Campground, Lakeside Shack, Murky Sewer, Neglected Manor, Peculiar Lighthouse, Razortrap Gorge, Strangled Cemetery) wires to this node via the same pattern: `characters: [dsk-unlucky-lands-cycle]` frontmatter + extend node's `appears_on:` list + move the card name out of the Caveats not-in-corpus bullet.",
+    "Color-pair-by-collector-number verification at next acquisition — when each not-in-corpus member arrives, confirm its Scryfall color pair against the cycle-completeness reconstruction in this proposal's Caveats. (Reconstruction is reasoned-from-completeness, not Scryfall-verified-per-card in this pass.)",
+    "Bundle-cohesion Discrete Lair candidate — three corpus members converging on a single thematic anchor with shared mechanical text AND shared flavor register AND shared haunted-vernacular-place subject IS the canonical stack shape a Discrete Lair can anchor on. Strong candidate for the bbl-bundler agent's first-run survey. Possible angles: (a) cheap-to-thematic dual-land starter pack for new Pauper players; (b) haunted-vernacular-place narrative bundle (the urban legend reads, the working-class horror locations); (c) life-payment-deck mana base seed.",
+    "Future Mr. Nodeley candidate (NOT this pass): when a third designer-confirmed flavor cycle gets corpus members (the Survivor cycle in DSK is the obvious second after Fear-of and this one; the Cinderella cycle in ELD is a third), commission a `cards/_cycles/` layer split and re-home fear-of-cycle, dsk-unlucky-lands-cycle, and the third together. Surfaced as a long-tail commission target — NOT to be auto-triggered.",
+    "Edgelord 1:1 candidate the parent may want to commission separately: Raucous Carnival ↔ Bleeding Woods on the shared embedded-arched-cathedral-window-plus-grave-marker motif. After this node lands, that 1:1 edge MAY still be drawable as a tighter visual-iconography pair-bond ABOVE-AND-BEYOND cycle membership — both cards independently use the same haunted-architecture-bleed visual device while Cornfield uses a different one. Lower priority; surfaced as candidate, not required."
+  ],
+  "wikilintbot_compatibility": {
+    "type_field_value": "character",
+    "type_field_accepted": true,
+    "guard_line_reference": "wikilintbot.py line 188: `if fm.get(\"type\") in (\"hub\", \"symbol\", \"artist\", \"character\"):` — character layer fully supported",
+    "non_card_node_guard_satisfied": "cards/_characters/dsk-unlucky-lands-cycle.md is under the _-prefix directory rule AND carries type: character; double-redundant guarding"
+  },
+  "voice_separation_audit": {
+    "mr_nodeley_voice_confined_to": ["description field of this JSON sidecar", "mood_justification field of this JSON sidecar", "final report text back to caller"],
+    "md_body_register_check": "PASSED. The proposed body outline (opening paragraph, what-this-node-anchors paragraph, the design thesis paragraph, cards-in-corpus bullets, canonical-sources list, caveats bullets, see-also bullets) is written in the project-normal precise factual register matching fear-of-cycle.md and endriders.md. Zero sniveling, zero apologies, zero fawning in the proposed MD body.",
+    "frontmatter_register_check": "PASSED. The proposed frontmatter is machine-readable schema only — type, name, aliases, universe, faction, species, canonical_source, confidence, appears_on, related_hubs, related_symbols, ip_resolution_for. No voice anywhere.",
+    "no_em_dash_in_buyer_facing_copy_check": "Em dashes are used in the proposed body's project-internal prose (cards-in-corpus bullets, the design thesis paragraph), which is permitted per the bbl-no-em-dash memory note's scope: 'em dashes are fine in commits, memory, sketchbook, code comments, conversation' — the node MD is project-internal canonical-reference content, not storefront / narrative / why_it_fits / marketing copy. The forthcoming Discrete Lair `why_it_fits` and `narrative` fields that may eventually cite this node WILL strip em dashes per the storefront rule."
+  },
+  "wave_10_dispatch_context": {
+    "this_pass": "Wave 10 E1 — Duskmourn unlucky-lands cycle node proposal (Edgelord transformed to Mr. Nodeley)",
+    "redispatch_basis": "Original Wave 10 E1 was held mid-wave on a 529 server overload; this is the redispatch under standard single-Opus-Edgelord per memory note bbl-dual-pipeline-judge-pattern (Judge dropped operationally 2026-05-12).",
+    "model_dispatch_compliance": "Opus 4.7 (1M context). Required for graph-spanning corpus-scan work per the model-dispatch note at top of agent spec; the Glob across cards/_characters/ + cards/_symbols/ + cards/_hubs/ + reports/edges_pending/ to verify no sibling node exists and to pull the fear-of-cycle precedent is exactly the kind of corpus snapshot Sonnet was shown to half in the dual-pipeline test.",
+    "no_dual_pipeline": "Confirmed — single dispatch, no Sonnet parallel, no Judge.",
+    "no_interference_with_prior_passes": "This pass reads from but does not modify the three Duskmourn corpus cards, the fear-of-cycle node, the Endriders node, or any reports/edges_pending/ entry. Output is exactly one new file: reports/edges_pending/dsk-unlucky-lands-cycle--node-proposal.json (this sidecar). Strict scoping honored."
+  }
+}

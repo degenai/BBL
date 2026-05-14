@@ -16,8 +16,8 @@ tags_hub: ["vampire", "noble", "feast", "wine", "blood", "candle", "chalice", "g
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "creature-vampire", "multicolor-white-black", "white-magic", "black-magic", "lifegain", "extort", "indoor-scene"]
 reference_image: cards/_images/magic-the-gathering/dragon-s-maze/109-tithe-drinker.png
 average_cost_paid: 0
-market_price: 0.29
-market_price_as_of: 2026-05-12
+market_price: 0.28
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 art_match_confidence: high

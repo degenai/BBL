@@ -1,0 +1,41 @@
+{
+  "card_name": "Flaaffy",
+  "game": "Pokemon",
+  "set": "Chilling Reign",
+  "collector_number": "048/198",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via PokemonTCG.io swsh6-48 name field. National Pokedex no. 180. Johto Electric-type sheep mid-form.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Flaaffy (National Pokedex no. 180) represents a mid-evolution cost-of-power motif: as it stores more electricity in its wool, patches of fleece fall out, leaving skin exposed. Its skin compensates by becoming a rubber-like insulator to prevent self-discharge.",
+      "sources": ["Bulbapedia: Flaaffy", "PokemonTCG.io: swsh6-48 flavor text"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It stores electricity in its fluffy fleece. If it stores up too much, it will start to go bald in those patches.\" One of the few Pokemon flavor texts that describes a visible physical consequence of the Pokemon's power increasing.",
+      "sources": ["PokemonTCG.io: swsh6-48"]
+    },
+    {
+      "category": "design",
+      "text": "Flaaffy evolves into Ampharos at level 30. 'Ampharos' derives from 'ampere' (unit of electric current) + 'pharos' (Greek: lighthouse) — Ampharos canonically functions as a lighthouse beacon, illuminating sea lanes with its glowing tail. The pastoral sheep baseline gives way to a lighthouse keeper role at the endpoint.",
+      "sources": ["Bulbapedia: Ampharos", "WebSearch snippet via Bulbapedia"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by sui, a recurring Pokemon TCG contributor whose work across multiple Sword and Shield sets tends toward warm, seasonal palette choices. The autumnal leaf-scatter setting for this Flaaffy is tonally consistent with sui's portfolio style.",
+      "sources": ["PokemonTCG.io: swsh6-48 artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mareep", "set": "Chilling Reign", "note": "direct pre-evolution, same set adjacency"},
+    {"name": "Ampharos", "set": "various", "note": "final evolution of the line"},
+    {"name": "Flaaffy", "set": "other sets", "note": "cross-print instances; corpus holds multiple Johto electric-sheep prints"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

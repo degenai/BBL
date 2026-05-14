@@ -1,0 +1,40 @@
+{
+  "card_name": "Mimikyu",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "081/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted Ghost/Fairy creature in hand-stitched Pikachu cloth disguise standing in woodland clearing matches Mimikyu's canonical design exactly. National Pokedex no. 778. Confirmed via PokemonTCG.io API (swsh3-81).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Mimikyu (National Pokedex no. 778) is a Ghost/Fairy-type introduced in Generation VII (Alola). Its signature Disguise ability in the main games absorbs one hit per battle before the costume's 'Busted Form' takes over — a mechanic the TCG version replaces with Heal Jamming (opponent's Benched Pokemon can't be healed). The TCG ability keeps the \"interference\" flavor while translating it to the card format. [PokemonTCG.io API: swsh3-81]",
+      "sources": ["PokemonTCG.io API: swsh3-81"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"It wears a rag fashioned into a Pikachu costume in an effort to look less scary. Unfortunately, the costume only makes it creepier.\" [PokemonTCG.io API: swsh3-81]",
+      "sources": ["PokemonTCG.io API: swsh3-81"]
+    },
+    {
+      "category": "design",
+      "text": "Acerola, the Trial Captain of Ula'ula Island in Sun & Moon, uses Mimikyu as her signature Pokemon. She also owns a named Shiny Mimikyu called Mimikins — described in canon as an actual ghost of a deceased Mimikyu, able to float and pass through solid objects unlike ordinary Mimikyu. [WebSearch snippet: Bulbapedia Acerola page]",
+      "sources": ["WebSearch snippet: Bulbapedia Acerola"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Mimikyu is widely cited in Pokemon community discourse as a \"creepy-cute\" design landmark — one of Generation VII's most discussed creatures for blending horror with pathos. The lore detail that Mimikyu wears the disguise specifically to be loved, and that seeing its true form may cause illness or death, gives it an unusually layered emotional profile for a Pokemon. [WebSearch snippet: screenrant.com Pokemon ghost types Mimikyu]",
+      "sources": ["WebSearch snippet: screenrant.com"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mimikyu", "set": "Various (multiple prints)", "note": "One of the most frequently printed fan-favorite Pokemon in the TCG; appears across Sun & Moon, Sword & Shield, and Scarlet & Violet eras"},
+    {"name": "Acerola", "set": "Sun & Moon / Burning Shadows", "note": "Trainer card featuring Mimikyu's canonical partner — Trial Captain of Ula'ula Island"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

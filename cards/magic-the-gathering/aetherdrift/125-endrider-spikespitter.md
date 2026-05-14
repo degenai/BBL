@@ -16,7 +16,7 @@ tags_filter: ["duo", "mid-shot", "forward-facing", "action-mode", "2-figures", "
 reference_image: cards/_images/magic-the-gathering/aetherdrift/125-endrider-spikespitter.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/4/e/4e58cb18-f216-4248-8f0d-65b0263c5c28.png?1738359369
@@ -65,4 +65,8 @@ A rust-and-orange vehicle hull plated with riveted, X-marked sheet metal dominat
 - Gastal Raider (Aetherdrift) — Another Gastal-plane card carrying the apocalypse-punk visual language
 - Gastal Blockbuster (Aetherdrift) — Vehicle from the Endriders' home plane — same junkyard-coded aesthetic family
 - Start Your Engines! // Max Speed (Aetherdrift Tokens) — Reference token for the speed mechanic Endrider Spikespitter triggers off
+
+## Connections
+
+- [[endriders]] — Endriders roster card. The card's name *is* the faction; the depicted two-person crew firing a rocket-spear from an armored rig is the apocalypse-punk team's signature operational rendering. `[MTG Wiki: Endriders — Depicted in]`
 

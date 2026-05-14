@@ -1,0 +1,41 @@
+{
+  "card_name": "Dedenne",
+  "game": "Pokemon",
+  "set": "Brilliant Stars",
+  "collector_number": "067/172",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches species name exactly. Depicted figure — small round orange and brown electric rodent with branching whisker-antennae and sparks — matches the canonical visual design of Dedenne (National Pokedex no. 702). API confirms nationalPokedexNumbers: [702]. No ambiguity; Dedenne verified.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Dedenne (National Pokedex no. 702) is Generation VI's Pikachu-parallel — the 'Antenna Pokemon' introduced in X and Y (2013) for the Kalos region. Its design is based on a hamster or woodland jumping mouse with functional antennae: the upper whiskers branch into an antenna structure that sends and receives electrical waves, allowing Dedenne to communicate with others of its kind over long distances and locate food or electricity sources. [Bulbapedia: Dedenne, via WebSearch]",
+      "sources": ["Bulbapedia: Dedenne, via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Since Dedenne can't generate as much electricity on its own, it steals electricity from outlets or other electric Pokemon.\" `[PokemonTCG.io API: swsh9-67 flavorText]`",
+      "sources": ["PokemonTCG.io API: swsh9-67 flavorText"]
+    },
+    {
+      "category": "design",
+      "text": "The 'antenna-as-router' design concept — Dedenne's whiskers function as a wireless transceiver, stealing and redistributing electricity rather than generating it — is the key design distinction from prior Pikachu-parallels. Every generation since Gen 2 has introduced a Pikachu-adjacent electric rodent (Marill, Plusle/Minun, Pachirisu, Emolga, Dedenne, Togedemaru, Morpeko); Dedenne's specific niche is the cellular-network-router interpretation of the archetype. [Screen Rant: Pikachu Clones Every Generation, via WebSearch]",
+      "sources": ["Screen Rant: Pikachu Clones Every Generation, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The BRS Dedenne (no. 067/172) is a common Psychic-type with the conditional attack Dede-Flash: 20 damage normally, but 80 and Confused if the opponent has exactly 1 Prize card remaining — a comeback mechanic that rewards hanging on when near-eliminated. It is a different card from the far more competitive Dedenne-GX (Unbroken Bonds no. 057/214), which had the Dedechange Ability that functioned as a discard-and-draw-6 engine and became a staple across multiple GX-era formats. [PokemonTCG.io API: swsh9-67]",
+      "sources": ["PokemonTCG.io API: swsh9-67"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dedenne-GX", "set": "Unbroken Bonds", "note": "UNB no. 057/214 — Dedechange Ability draw engine; dominant competitive version of this species"},
+    {"name": "Togedemaru", "set": "Various", "note": "Gen VII Pikachu-parallel; design cohort"},
+    {"name": "Morpeko", "set": "Various", "note": "Gen VIII Pikachu-parallel from Sword and Shield's home generation; design cohort"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

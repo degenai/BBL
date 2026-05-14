@@ -1,0 +1,28 @@
+{
+  "edge_id": "mareep-cre047--flaaffy-cre048--same-set-evolution-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/chilling-reign/047-198-mareep.md", "name": "Mareep (Chilling Reign 047/198, Miki Tanaka art)"},
+    {"type": "card", "path": "cards/pokemon/chilling-reign/048-198-flaaffy.md", "name": "Flaaffy (Chilling Reign 048/198, sui art)"}
+  ],
+  "description": "Classic Edgelord 1:1. Both trivia-passed. Both same set (Chilling Reign / SWSH6). Adjacent collector numbers 047 + 048 — designer-coordinated cohort placement. Direct evolution-line members (Mareep evolves into Flaaffy at level 15 per Bulbapedia / PokemonTCG.io evolvesTo field). The visual contrast across the two cards composes into a single seasonal-arc reading: Mareep in sunlit spring meadow vs Flaaffy in autumnal forest with falling leaves, the species' wool-loses-to-charge progression visibly staged from baseline-fluffy to bald-patches mid-evolution. Flaaffy's printed flavor text (*'It stores electricity in its fluffy fleece. If it stores up too much, it will start to go bald in those patches.'*) makes the cost-of-power motif designer-explicit. The third stage Ampharos (lighthouse-tail beacon) anchors the chain's endpoint but is not in corpus. Mirror is bidirectional — both cards updated. Professional sigh applied. Connection survives tag-collapse and synonym-merge passes because the evolution-line relationship is encoded in the API's evolvesTo / evolvesFrom fields and not just shared species tags.",
+  "citations": [
+    "[PokemonTCG.io: swsh6-47 + swsh6-48 evolvesTo + evolvesFrom + flavorText fields]",
+    "[Bulbapedia: Mareep (Pokemon) — National Pokedex no. 179, Electric-type basic, evolves into Flaaffy at level 15]",
+    "[Bulbapedia: Flaaffy (Pokemon) — National Pokedex no. 180, Electric-type stage 1, cost-of-power bald-patches design]",
+    "[Bulbapedia: Ampharos (Pokemon) — lighthouse-tail beacon final stage]"
+  ],
+  "files_modified": [
+    "cards/pokemon/chilling-reign/047-198-mareep.md (added ## Connections)",
+    "cards/pokemon/chilling-reign/048-198-flaaffy.md (added ## Connections)"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "Pancham CSE-119 ↔ Pangoro CSE-120 evolution mirror — same-set adjacent-collector-numbers pattern, but Pancham not trivia'd yet (vision-only); wait for trivia pass before drawing",
+    "Single Strike mechanic cycle (Scroll of Scorn BST-133 + Urn of Vitality BST-139 + Scroll of Piercing CRE-154) Mr. Nodeley — threshold met (3 cards) but slot was already taken by Team Skull Nodeley in E2, defer to next pass",
+    "Furfrou forms-cycle Nodeley — premature, only 1 corpus card",
+    "Cosmog (Lunala/Solgaleo pre-evo) ↔ Lunatone celestial cluster — speculative, no canonical narrative tether between species, would be tag-bridge not edge"
+  ]
+}

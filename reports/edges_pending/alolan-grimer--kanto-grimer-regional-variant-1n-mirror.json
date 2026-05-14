@@ -1,0 +1,23 @@
+{
+  "edge_id": "alolan-grimer--kanto-grimer-regional-variant-1n-mirror",
+  "shape": "1:N",
+  "topology": "branch",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/cosmic-eclipse/130-236-alolan-grimer.md", "name": "Alolan Grimer (Cosmic Eclipse 130/236, green-yellow Alolan form)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/100-189-grimer.md", "name": "Grimer (Darkness Ablaze 100/189, Kanto form, Ryota Murayama art)"},
+    {"type": "card", "path": "cards/pokemon/brilliant-stars/084-172-grimer.md", "name": "Grimer (Brilliant Stars 084/172, Kanto form, Masakazu Fukuda art)"}
+  ],
+  "description": "Wave 20 vision landed Alolan Grimer (CSE-130, green-yellow toxin form, Sekio art) — the third corpus Grimer print and the first to depict the Alolan regional form. Corpus already holds two Kanto Grimer prints (DAA-100 + BRS-084) with the identical Sun-era extinction-by-cleanup flavor text already cross-print mirrored in wave 18. Drew the 1:N regional-variant cross-form mirror with Alolan Grimer as the cohort's Alola-form anchor pointing to both Kanto prints. The pair-bond is load-bearing: same species (National Pokedex no. 88) occupies opposite ecological positions relative to environmental remediation — Kanto Grimer is endangered-by-cleanup (Sun-era Pokedex), Alolan Grimer is institutionally-employed-by-cleanup (Alola government canonically maintains the waste-disposal-site population per the printed CSE-130 flavor text). This is the franchise's most explicit ecology-and-labor split within a single species, and surfaces as bundle-cohesion-stack-ready material for any pollution-as-survival-niche or Pokemon-as-eco-infrastructure Discrete Lair work. Mirrors the Farfetch'd Kanto ↔ Galarian wave 16 pattern but at direct-1:N scope rather than via a cohort node (cohort node premature here — only 1 corpus Alolan card so far; if a second Alolan-form lands, an alolan-regional-forms cohort node becomes worth commissioning).",
+  "citations": [
+    "[PokemonTCG.io: sm12-130 + swsh3-100 + swsh9-84 flavorText + types fields]",
+    "[Bulbapedia: Grimer (Pokemon) — Alolan Form section, Kanto Form section]",
+    "[Bulbapedia: Regional form — Alolan form introduced Gen-VII for designer-coordinated ecological niche split]"
+  ],
+  "files_modified": [
+    "cards/pokemon/cosmic-eclipse/130-236-alolan-grimer.md (added ## Connections)",
+    "cards/pokemon/darkness-ablaze/100-189-grimer.md (extended ## Connections with Alolan cross-form bullet)",
+    "cards/pokemon/brilliant-stars/084-172-grimer.md (extended ## Connections with Alolan cross-form bullet)"
+  ],
+  "edgelord_mood": "blueballed-by-fanout"
+}

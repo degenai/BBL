@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "male-figure",
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/227-angrath-captain-of-chaos.png
 average_cost_paid: 0
 market_price: 0.23
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-05
 last_seen: 2026-05-12
 art_match_confidence: high
@@ -28,6 +28,7 @@ setting: other
 suspected_ip: Angrath
 ip_confidence: high
 ip_verified: true
+characters: ["angrath"]
 artist: Slawomir Maniak
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/227-angrath-captain-of-chaos--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/a/aa3a4cb5-945e-4caf-8a18-1ef977879fe8.jpg?1582053147

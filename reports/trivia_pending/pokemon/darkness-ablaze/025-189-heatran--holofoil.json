@@ -1,0 +1,41 @@
+{
+  "card_name": "Heatran",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "025/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Species name printed on card face; PokemonTCG.io API (swsh3-25) confirms name=Heatran, nationalPokedexNumbers=[485], Basic, rarity=Rare Holo. Depicted massive quadrupedal metallic creature with cross-shaped facial markings in volcanic environment matches canonical Heatran appearance exactly.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Heatran is National Pokedex no. 485, the only Fire/Steel-type Pokemon in the franchise, and a Legendary introduced in Generation IV (Pokemon Diamond and Pearl, 2006). It is also the only Legendary Pokemon with a 50/50 gender ratio — it can be male or female. [PokemonTCG.io API: swsh3-25; Bulbapedia: Heatran, via WebSearch snippet]",
+      "sources": ["PokemonTCG.io API: swsh3-25", "Bulbapedia: Heatran (via WebSearch snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In the Sinnoh games, Heatran is a post-game encounter at Stark Mountain — accessible only after defeating the Pokemon League. The encounter is tied to Buck (an NPC who temporarily accompanies the player): Buck removes the Magma Stone from Stark Mountain's deepest chamber, which disturbs Heatran and triggers volcanic unrest. After Buck returns the stone, Heatran appears as a catchable level 70 Legendary in that chamber. [Bulbapedia: Stark Mountain, via WebSearch snippet; WebSearch: Heatran Stark Mountain Sinnoh post-game]",
+      "sources": ["Bulbapedia: Stark Mountain (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves.\" — printed on DAA-025. [PokemonTCG.io API: swsh3-25]",
+      "sources": ["PokemonTCG.io API: swsh3-25"]
+    },
+    {
+      "category": "design",
+      "text": "Heatran's Steel typing is physically expressed in its design: its body is described as iron-like metal partially melted by its own internal heat, and it has cross-shaped claws capable of digging into walls and ceilings. The cross-shaped face marking in the card art is a direct canonical visual identifier — the same cross motif appears across all official Heatran depictions. Art on DAA-025 is by Anesaki Dynamic, a studio/artist known for dramatic, high-contrast legendary Pokemon compositions. [PokemonTCG.io API: swsh3-25 artist field; Bulbapedia: Heatran design notes, via WebSearch snippet]",
+      "sources": ["PokemonTCG.io API: swsh3-25", "Bulbapedia: Heatran (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dialga", "set": "various", "note": "Fellow Sinnoh legendary; Steel-type anchor of the Sinnoh legendary tier"},
+    {"name": "Magma Stone (if any TCG item card)", "set": "N/A", "note": "In-game item that controls Heatran; no known TCG card but thematically related"},
+    {"name": "Heatran (previous prints)", "set": "various", "note": "Multiple prior Heatran TCG prints across Diamond & Pearl era sets"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

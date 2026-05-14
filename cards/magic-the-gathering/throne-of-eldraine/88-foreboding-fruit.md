@@ -14,8 +14,8 @@ tags_hub: ["fruit", "pear", "poison", "temptation", "fairy-tale", "hooded-figure
 tags_filter: ["solo", "close-up", "indoor-scene", "no-face", "scene-mode", "black-magic", "sorcery", "food-token"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/88-foreboding-fruit.png
 average_cost_paid: 0
-market_price: 0.14
-market_price_as_of: 2026-05-12
+market_price: 0.12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

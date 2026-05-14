@@ -1,0 +1,28 @@
+{
+  "edge_id": "wave36-e3-orzhov-roster-verify",
+  "shape": "verification + triage",
+  "category": "frontmatter-audit",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/orzhov-syndicate.md", "name": "Orzhov Syndicate"},
+    {"type": "card", "path": "cards/magic-the-gathering/dragon-s-maze/109-tithe-drinker.md", "name": "Tithe Drinker"},
+    {"type": "card", "path": "cards/magic-the-gathering/ravnica-allegiance/194-pitiless-pontiff.md", "name": "Pitiless Pontiff"},
+    {"type": "card", "path": "cards/magic-the-gathering/ravnica-allegiance/192-mortify.md", "name": "Mortify"},
+    {"type": "card", "path": "cards/magic-the-gathering/ravnica-allegiance/190-lawmage-s-binding.md", "name": "Lawmage's Binding (NOT Orzhov — Azorius)"},
+    {"type": "card", "path": "cards/magic-the-gathering/core-set-2021/127-vito-thorn-of-the-dusk-rose.md", "name": "Vito, Thorn of the Dusk Rose (NOT Orzhov — Legion of Dusk)"}
+  ],
+  "description": "Two-card-game critic mode, this is the worst-proposed-orzhov-extension ever. Three of the five candidates are already wired correctly from wave 8-10 (Pitiless Pontiff, Tithe Drinker, Mortify all carry characters: ['orzhov-syndicate'] in frontmatter AND appear in orzhov-syndicate.md's appears_on list). Lawmage's Binding is correctly wired to azorius-senate, per the orzhov-syndicate.md caveat explicitly stating it's the Azorius entry in the RNA guild-common removal cycle and not an Orzhov card — sharing an art-direction watermark cycle with the Orzhov slot does not make a card Orzhov. Vito is correctly NOT wired to Orzhov per the same caveat (Vito is Ixalan Legion of Dusk, separate Wizards-canonical faction, surface-resemblance trap explicitly flagged on the node). The Legion-of-Dusk faction-character case sits below the ≥2 corpus anchor threshold; Vito is the sole anchor; the janitor_triage.md entry for the Saint/Heretic Church of Dusk pair has been extended with the explicit Nodeley trigger condition and the candidate-card list (Elenda, Mavren Fein, Vona, Bishop of Rebirth, Bishop of the Bloodstained, Adanto Vanguard, Anointed Deacon, Torrezon-named cards). Verdict: skip on Vito wiring, the prior pass already did the right thing.",
+  "citations": [
+    "[orzhov-syndicate.md caveats — Vito is Legion of Dusk not Orzhov; Lawmage's Binding is Azorius not Orzhov]",
+    "[MTG Wiki: Vito Quijano de Pasamonte — Church of Dusk hierophant]",
+    "[MTG Wiki: Azorius Senate — Lyev Column lawmages]"
+  ],
+  "files_modified": [
+    "reports/janitor_triage.md (extended Legion of Dusk trigger entry)"
+  ],
+  "edgelord_mood": "satisfied",
+  "other_candidates_considered": [
+    "Wiring Vito to a sentinel 'legion-of-dusk' character node — rejected. Below the ≥2 anchor threshold per team-rocket/acerola/ral-zarek-under-izzet-league precedent. The right move is the deferred-triage entry, which is now in place.",
+    "Re-wiring Lawmage's Binding to dual characters: ['azorius-senate', 'orzhov-syndicate'] — rejected. Lawmagess depicted are Azorius operatives per oracle+art; orzhov-syndicate.md caveats explicitly flag the Tithe-bundle co-anchoring as the bundle's choice, not a faction-membership claim."
+  ]
+}

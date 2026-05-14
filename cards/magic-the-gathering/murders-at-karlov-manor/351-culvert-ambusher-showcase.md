@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "no-face", "cr
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/351-culvert-ambusher-showcase.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-10
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/2/c/2ccdc58b-1e7e-402c-88f9-c789ff1dae31.png?1706241967

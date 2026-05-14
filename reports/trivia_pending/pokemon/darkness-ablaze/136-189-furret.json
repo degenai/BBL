@@ -1,0 +1,35 @@
+{
+  "card_name": "Furret",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "136/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted long sinuous striped ferret-like creature leaping through autumn foliage matches Furret's canonical design exactly. National Pokedex no. 162. Normal-type Stage 1. Confirmed via PokemonTCG.io API (swsh3-136).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Furret (National Pokedex no. 162) is a Normal-type Stage 1 introduced in Generation II (Gold & Silver). It evolves from Sentret at level 15 — Sentret was trivia'd in wave 12 for this archive. Furret completes that line. Both are Johto route-normal staples: Sentret as the lookout scout, Furret as the long-body climber. [PokemonTCG.io API: swsh3-136]",
+      "sources": ["PokemonTCG.io API: swsh3-136"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"It makes a nest to suit its long and skinny body. The nest is impossible for other Pokemon to enter.\" — Furret's body-length is the defining survival adaptation: the nest is a personal-fit burrow no predator can follow into. [PokemonTCG.io API: swsh3-136]",
+      "sources": ["PokemonTCG.io API: swsh3-136"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Feelin' Fine attack (draw 3 cards for one Colorless energy) and Tail Smash (90 damage for one Colorless, coin-flip) give Furret an unusually efficient draw engine for a Colorless uncommon. Feelin' Fine in particular is a strong consistency tool in budget or theme-deck builds. Tail Smash's coin-flip risk is the trade-off for the high ceiling damage. [PokemonTCG.io API: swsh3-136]",
+      "sources": ["PokemonTCG.io API: swsh3-136"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sentret", "set": "Darkness Ablaze (and others)", "note": "Pre-evolution; wave 12 trivia'd in the DAA set"},
+    {"name": "Furret", "set": "Various (Skyridge, Neo Genesis, etc.)", "note": "Multiple prior prints across older sets; long-running TCG presence since Gen 2"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

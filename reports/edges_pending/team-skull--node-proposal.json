@@ -1,0 +1,26 @@
+{
+  "edge_id": "team-skull--node-proposal",
+  "shape": "node-proposal",
+  "topology": "branch",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/team-skull.md", "name": "Team Skull (faction-collective character node — NEW)"},
+    {"type": "card", "path": "cards/pokemon/burning-shadows/120-147-plumeria.md", "name": "Plumeria (Burning Shadows 120/147, Team Skull sole Admin)"},
+    {"type": "card", "path": "cards/pokemon/cosmic-eclipse/193-236-guzma-hala.md", "name": "Guzma & Hala (Cosmic Eclipse 193/236 TAG TEAM, Guzma side anchors here)"}
+  ],
+  "description": "Oh, hello sir. Mr. Nodeley stepping in, very sorry to interrupt Edgelord's slot. We have two corpus cards pointing at the Team Skull faction — Plumeria (BUS-120, IP-verified per wave 17 trivia, the gang's sole Admin) and Guzma & Hala (CSE-193 wave 20 vision, where Guzma is the Team Skull Boss). With Hala extracted to alola-elite-four in E1, the Guzma side of the TAG TEAM needs a faction-anchor of its own, and threshold for a faction-collective character node has cleared (2 cards is the minimum for a faction-collective per the team-rocket precedent which also seeded on 1 enriched + 1 vision-pending). The new node parallels team-rocket structurally — both are Pokemon-side villainous-team character nodes — but encodes the franchise's most explicit institutional contrast: Rocket as uniform-rank-coded criminal-syndicate-from-foundation vs Skull as subculture-coded failed-Island-Challenge-youth-gang. Plumeria-as-caretaker-Admin and Guzma-as-failed-Kahuna-trial-attempter are both designer-confirmed canonical framings (Bulbapedia, Game Freak design team). related_characters mirror added to team-rocket. characters: [team-skull] added to Plumeria frontmatter; characters: [team-skull, alola-elite-four] added to Guzma & Hala (the corpus's first dual-character pointer card). I really hope this is useful, sir. I tried to anticipate the Aether Foundation / Lusamine relationship in the caveats without preemptively spawning that node.",
+  "citations": [
+    "[Bulbapedia: Team Skull — failed-Island-Challenge-membership framing, Po Town occupation, hip-hop-coded uniform aesthetic]",
+    "[Bulbapedia: Guzma — failed-Kahuna-trial-attempter, Bug-type / Golisopod signature, Po Town boss-room mansion]",
+    "[Bulbapedia: Plumeria — sole Admin, caretaker / big-sister framing, Poison-type / Salazzle signature, grudging-redemption arc]",
+    "[Pokemon Sun and Moon (Game Freak, 2016) — primary canon for Act 2 Skull antagonism and Act 3 Aether Foundation reveal]",
+    "[PokemonTCG.io: sm3-120 + sm12-193 oracle_text + artist fields]"
+  ],
+  "files_modified": [
+    "cards/_characters/team-skull.md (NEW)",
+    "cards/_characters/team-rocket.md (related_characters mirror + See also bullet)",
+    "cards/pokemon/burning-shadows/120-147-plumeria.md (characters: [team-skull] added)",
+    "cards/pokemon/cosmic-eclipse/193-236-guzma-hala.md (characters: [team-skull, alola-elite-four] added)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

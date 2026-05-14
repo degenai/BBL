@@ -15,7 +15,7 @@ tags_filter: ["solo", "close-up", "portrait-mode", "forward-facing", "no-face-hu
 reference_image: cards/_images/magic-the-gathering/core-set-2021/152-hobblefiend.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/4/b/4bfffc18-b36a-4dd5-909e-60ea9f8eb60b.png?1594736699

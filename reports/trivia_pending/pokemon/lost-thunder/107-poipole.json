@@ -1,0 +1,42 @@
+{
+  "card_name": "Poipole",
+  "game": "Pokemon",
+  "set": "Lost Thunder",
+  "collector_number": "107",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is Poipole; depicted figure matches the canonical small round-bodied purple Ultra Beast with a prominent horn — codenamed UB Adhesive by the International Police. Confirmed via PokemonTCG.io API (name, flavor text: 'well enough liked to be chosen as a first partner in its own world') and Bulbapedia Ultra Beast classification.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Poipole is codenamed UB Adhesive by the International Police in Pokemon Ultra Sun and Ultra Moon, making it one of the Ultra Beasts — extradimensional lifeforms that enter the Pokemon world through Ultra Wormholes. Poipole and its evolution Naganadel (codenamed UB Stinger) are the only Ultra Beasts that form an evolutionary line. [Bulbapedia: Poipole, WebSearch snippet]",
+      "sources": ["Bulbapedia: Poipole", "WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (LOT-107): 'This Ultra Beast is well enough liked to be chosen as a first partner in its own world.' — This distinguishes Poipole from other Ultra Beasts: it is the starter Pokemon equivalent in its home dimension, making it uniquely socialized toward bonding with trainers despite being classified as a potential threat. [PokemonTCG.io API]",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "sentiment",
+      "text": "In the Sun and Moon anime series, Ash catches a Poipole in the episode 'Love at First Twirl!' The Poipole eventually returns to its homeworld, later reuniting with Ash after evolving into Naganadel in the episode 'Z-Move Showdown!' — making it one of the few Pokemon Ash has caught that evolved after being released. [Bulbapedia: Ash's Naganadel, WebSearch snippet]",
+      "sources": ["Bulbapedia: Ash's Naganadel", "WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Aether Foundation's primary antagonist arc in Sun and Moon involves Lusamine using Cosmog to open Ultra Wormholes and summon Ultra Beasts — the same wormhole network Poipole originates from. This makes Poipole thematically adjacent to the Aether Foundation node in this archive despite being a non-Aether Pokemon; both are products of the same interdimensional infrastructure Lusamine exploited. [Serebii: Aether Foundation]",
+      "sources": ["Serebii.net: Aether Foundation"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Naganadel GX", "set": "Unbroken Bonds", "note": "Poipole's evolution; codenamed UB Stinger"},
+    {"name": "Nihilego GX", "set": "Crimson Invasion", "note": "Ultra Beast central to Lusamine's plot; same Ultra Wormhole origin"},
+    {"name": "Lusamine", "set": "Crimson Invasion", "note": "Aether Foundation President whose plot opens the wormholes Poipole travels through"},
+    {"name": "Poipole", "set": "Forbidden Light", "note": "Earlier print of Poipole in the same Sun and Moon TCG era"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Poipole (Pokemon Ultra Sun and Ultra Moon)",
+    "ip_confidence": "high"
+  }
+}

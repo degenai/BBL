@@ -1,0 +1,41 @@
+{
+  "card_name": "Dartrix",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "012/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Dartrix. Card name, Grass type, Stage 1 (evolves from Rowlet), flavor text, and depicted figure (owl with white mask-like face, green body, layered wing feathers, perched in dark forest) match canonical Dartrix (National Pokedex no. 763). Identity unambiguous.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Dartrix is the middle stage of the Alolan Grass starter line (Rowlet -> Dartrix -> Decidueye), introduced in Generation VII (Pokemon Sun and Moon, 2016). Its official Pokedex Sun entry calls it a 'dandy' — the game text explicitly names its vain, appearance-obsessed personality. Dartrix will interrupt battle to groom itself if its feathers get dirty, and it dislikes its bangs being touched. This vanity is designed as a transitional phase: it grows out of it upon evolving into Decidueye. `[Bulbapedia: Dartrix via WebSearch; tvtropes.org Generation VII characters via WebSearch]`",
+      "sources": ["Bulbapedia: Dartrix via WebSearch", "tvtropes.org Gen VII characters via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Dartrix's design incorporates leaf structures framing its face and a bowtie-like leaf at its chin — visual cues for grooming and fashion-consciousness that reinforce the dandy characterization. The white mask-like face marking is also a visual bridge to Decidueye's hood. `[pokemondb.net Dartrix via WebSearch; pokemaniacal.com Rowlet-Dartrix-Decidueye via WebSearch]`",
+      "sources": ["pokemondb.net via WebSearch", "pokemaniacal.com via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It throws one knifelike feather after another at its enemies, and each one precisely strikes a weak point. These feathers are known as blade quills.\" `[PokemonTCG.io API flavor_text field (swsh3-12)]`",
+      "sources": ["PokemonTCG.io API (swsh3-12)"]
+    },
+    {
+      "category": "design",
+      "text": "This card was illustrated by Mitsuhiro Arita, the artist who illustrated Base Set Charizard and Pikachu and who designed the energy type symbols for the original seven energy types. Arita has illustrated over 800 Pokemon TCG cards and has been active since the TCG's prototype stage in 1996. His involvement on a Sword and Shield era common demonstrates his continued activity across modern sets. `[billsarchive.com Arita profile via WebSearch; pokemon.com Arita creator profile via WebSearch]`",
+      "sources": ["billsarchive.com via WebSearch", "pokemon.com Arita creator profile via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rowlet", "set": "various Sun and Moon era", "note": "Pre-evolution; Alolan Grass starter Stage 0"},
+    {"name": "Decidueye", "set": "various", "note": "Final evolution; Ghost/Grass in Hisui form"},
+    {"name": "Dartrix (prior prints)", "set": "Sun and Moon era", "note": "This is the Darkness Ablaze print; earlier Sun and Moon era prints exist"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

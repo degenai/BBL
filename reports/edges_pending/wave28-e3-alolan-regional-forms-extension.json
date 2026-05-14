@@ -1,0 +1,28 @@
+{
+  "edge_id": "wave28-e3-alolan-regional-forms-3species-extension",
+  "shape": "1:N",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/alolan-regional-forms.md", "name": "Alolan regional forms"},
+    {"type": "card", "path": "cards/pokemon/lost-thunder/123-alolan-dugtrio.md", "name": "Alolan Dugtrio (LOT-123)"}
+  ],
+  "description": "Alolan Dugtrio enriched. Third distinct Alolan-form species in corpus (Grimer + Graveler + Dugtrio). Cohort cleanly clears the 3-species threshold the wave 23 commissioning anticipated. The LOT-123 print also adds a sixth designer-attested adaptation mechanism to the documented heterogeneity — cultural-religious folk-veneration per the canonical flavor text ('cherished in the Alola region, where they are thought to be feminine deities of the land incarnate') — alongside the prior five (climate, dietary divergence, predator-prey rebalancing, grief-ritual, institutional ecological introduction). The Yuka Morii clay-sculpted rendering style on this print is the Alola-folk-craft aesthetic register that thematically anchors the deity-veneration framing. The blueballs are mild: this is the 1:N fanout pattern, source-node-to-target-card, no card-to-card mirror. The cohort node is doing its job.",
+  "citations": [
+    "[Bulbapedia: Regional form — Alolan Form section]",
+    "[Bulbapedia: Alolan Dugtrio]",
+    "[Bulbapedia: Alolan Diglett]",
+    "[PokemonTCG.io API: sm8-123]",
+    "[Pokemon Sun and Moon (Game Freak, 2016) primary canon]",
+    "[LOT-123 canonical flavor text: 'These Pokémon are cherished in the Alola region, where they are thought to be feminine deities of the land incarnate.']"
+  ],
+  "files_modified": [
+    "cards/pokemon/lost-thunder/123-alolan-dugtrio.md (added characters: [alolan-regional-forms] frontmatter)",
+    "cards/_characters/alolan-regional-forms.md (appears_on appended LOT-123; body 'Cards in our corpus' section appended Alolan Dugtrio entry; opening line of cards-in-corpus updated to '4 cards across 3 distinct species'; Caveats updated to reflect 3-species threshold cleared; Per-species adaptation mechanisms paragraph extended to document six mechanisms via the LOT-123 cultural-religious folk-veneration addition)"
+  ],
+  "edgelord_mood": "blueballed-by-fanout",
+  "other_candidates_considered": [
+    "1:1 LOT-123 ↔ CSE-130 Alolan Grimer mirror — refused. Cross-species mirrors within a cohort are redundant with the cohort node already anchoring both; the cohort-stack topology is structurally cleaner and serves the bundler better.",
+    "1:1 LOT-123 ↔ either of the two Alolan Graveler prints — refused, same reason."
+  ]
+}

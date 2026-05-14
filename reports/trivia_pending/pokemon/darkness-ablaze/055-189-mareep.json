@@ -1,0 +1,41 @@
+{
+  "card_name": "Mareep",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "055/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Species name printed on card face; PokemonTCG.io API (swsh3-55) confirms name=Mareep, nationalPokedexNumbers=[179], Basic. Depicted small fluffy yellow wool sheep-like creature in a sunny grassy field matches canonical Mareep appearance exactly.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "This is a second inventory print of Mareep, distinct from the Chilling Reign (CRE-047) print trivia'd in wave 20. DAA-055 (Darkness Ablaze, August 14, 2020) predates CRE-047 (Chilling Reign, June 18, 2021) by approximately ten months — it is the earlier of the two SwSh-block Mareep prints in this inventory. [PokemonTCG.io API: swsh3-55; swsh6-47]",
+      "sources": ["PokemonTCG.io API: swsh3-55", "PokemonTCG.io API: swsh6-47"]
+    },
+    {
+      "category": "design",
+      "text": "DAA-055 is illustrated by sowsow; CRE-047 is illustrated by Miki Tanaka. The two prints show meaningfully different art registers for the same species: sowsow's DAA version places Mareep in a forest/day setting with warm golden and green tones; Miki Tanaka's CRE version is a spring meadow with scattered white wildflowers and a clear sky horizon. Different illustrators, different seasons, same flavor text printed verbatim on both cards. [PokemonTCG.io API: swsh3-55 artist; swsh6-47 artist]",
+      "sources": ["PokemonTCG.io API: swsh3-55", "PokemonTCG.io API: swsh6-47"]
+    },
+    {
+      "category": "mechanical",
+      "text": "DAA-055 has a single attack: Static Shock (Lightning) 20. CRE-047 has two attacks: Growl (reduces opponent's damage by 20) and Static Shock (LightningColorless) 20 — a materially different attack layout despite sharing the species name and flavor text. The CRE version's extra Growl attack gives it more tactical utility as a stall/buffer piece in evolution-line builds. [PokemonTCG.io API: swsh3-55; swsh6-47 attacks]",
+      "sources": ["PokemonTCG.io API: swsh3-55", "PokemonTCG.io API: swsh6-47"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Rubbing its fleece generates electricity. You'll want to pet it because it's cute, but if you use your bare hand, you'll get a painful shock.\" — printed on DAA-055. Same text appears verbatim on CRE-047, which is consistent with the TCG's practice of cycling established Pokedex-derived flavor text across reprints of common species. [PokemonTCG.io API: swsh3-55; swsh6-47]",
+      "sources": ["PokemonTCG.io API: swsh3-55", "PokemonTCG.io API: swsh6-47"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mareep (Chilling Reign 047)", "set": "Chilling Reign", "note": "Second inventory print; different artist (Miki Tanaka), different setting, different attack layout"},
+    {"name": "Flaaffy (Darkness Ablaze)", "set": "Darkness Ablaze", "note": "Same-set evolution if present; mid-stage of the Johto Electric chain"},
+    {"name": "Ampharos", "set": "various", "note": "Final evolution; lighthouse-tail beacon design makes it the marquee of the line"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

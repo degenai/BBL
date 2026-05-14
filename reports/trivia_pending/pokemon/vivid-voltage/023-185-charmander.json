@@ -1,0 +1,42 @@
+{
+  "card_name": "Charmander",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "023/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, oracle text (Collect / Flare attacks), flavor text, and species art (small orange bipedal lizard with flaming tail) all match the canonical Charmander species (National Pokedex no. 004, Fire-type Basic Pokemon). Confirmed via PokemonTCG.io API (swsh4-23) and established characters/charizard-line.md node which already lists this card as a verified member.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Charmander (no. 023/185) is a Basic Common from Vivid Voltage (SWSH4), released November 13, 2020. It occupies collector number 023 in a consecutive three-card block with Charmeleon (024) and Charizard (025), the corpus's strongest within-set evolutionary triptych cohort. [PokemonTCG.io API: swsh4-23; WebSearch: Vivid Voltage set details]",
+      "sources": ["PokemonTCG.io API", "WebSearch: Vivid Voltage release details"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.\" This is the Sword & Shield-era Pokedex framing of Charmander, emphasizing the tail-flame's heat-register over the earlier Base Set framing (\"The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.\"). Both phrasings reference the same species feature; the Base Set version makes the life-force lethality explicit, the Vivid Voltage version foregrounds heat rather than vitality. [PokemonTCG.io API: swsh4-23 flavorText; charizard-line.md node for cross-era flavor comparison]",
+      "sources": ["PokemonTCG.io API", "cards/_characters/charizard-line.md"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by MAHOU, the same illustrator credited on this card across PokemonTCG.io. The art depicts Charmander against a warm red-orange background with stylized pink and red floral elements — an aesthetic choice distinctive in the corpus among Charmander prints, which typically use plainer or outdoor backgrounds. [PokemonTCG.io API: swsh4-23 artist; card vision pass]",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Charmander is National Pokedex no. 004, one of three first-partner Pokemon offered by Professor Oak in Pokemon Red and Blue (Game Freak / Creatures Inc. / Nintendo, 1996), alongside Bulbasaur (no. 001) and Squirtle (no. 007). The Charmander line is the only original Kanto starter trio that gains a second type on final evolution (Fire/Flying on Charizard), distinguishing it from the pure-Water Squirtle line and the Grass/Poison Bulbasaur line which retains its Generation I typing. [WebSearch: Charmander Pokedex 004 Kanto starter; charizard-line.md node]",
+      "sources": ["WebSearch: pokemondb.net/pokedex/charmander", "cards/_characters/charizard-line.md"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Charmeleon", "set": "Vivid Voltage (024/185)", "note": "Stage 1 in the within-set evolutionary triptych; adjacent collector number"},
+    {"name": "Charizard", "set": "Vivid Voltage (025/185)", "note": "Stage 2 apex of the within-set evolutionary triptych; adjacent collector number"},
+    {"name": "Charmander", "set": "Burning Shadows (018/147)", "note": "Sun & Moon-era print of the same species in corpus; different illustrator (Kagemaru Himeno)"},
+    {"name": "Charmander", "set": "Base Set Unlimited (046)", "note": "Original 1999 Wizards-era print in corpus; carries the explicit tail-flame-as-life-force flavor text"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

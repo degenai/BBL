@@ -1,0 +1,27 @@
+{
+  "edge_id": "galarian-regional-forms--mr-mime-mr-rime-darumaka-extension",
+  "shape": "1:N + 1:1",
+  "topology": "stack-plus-mirror",
+  "category": "designer-confirmed-cycle + named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/galarian-regional-forms.md", "name": "Galarian regional forms"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/035-189-galarian-mr-mime.md", "name": "Galarian Mr. Mime (Darkness Ablaze 035/189)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/036-189-galarian-mr-rime.md", "name": "Galarian Mr. Rime (Darkness Ablaze 036/189)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/043-189-galarian-darumaka.md", "name": "Galarian Darumaka (Darkness Ablaze 043/189; 2nd print, species duplicate of RBC-047)"}
+  ],
+  "description": "Wave 22 extends the galarian-regional-forms cohort with two new species (Galarian Mr. Mime DAA-035 + Galarian Mr. Rime DAA-036) — the cohort's first complete in-corpus Galarian-evolution-line pair (base form + its Galar-exclusive SwSh-introduced evolved endpoint, mirroring the Galarian Farfetch'd → Sirfetch'd pattern). A second Galarian Darumaka print (DAA-043) also lands; pointer added to its frontmatter but not added to node appears_on (species already represented by RBC-047). The Mr. Mime ↔ Mr. Rime pair gets a 1:1 evolution-mirror Connections section in both card MDs, framing the cohort's clearest case of Galar's UK-modeled cultural register (British music-hall + tap-dance + Charlie-Chaplin citation) reshaping a species' canonical identity. Combined stack-plus-mirror in one slot — the mirror is the Galar-exclusive-evolution pattern's clearest in-corpus instance and earns its own edge.",
+  "citations": [
+    "[PokemonTCG.io: swsh3-35 flavorText (Galarian Mr. Mime DAA-035)]",
+    "[PokemonTCG.io: swsh3-36 flavorText (Galarian Mr. Rime DAA-036)]",
+    "[PokemonTCG.io: swsh3-43 flavorText (Galarian Darumaka DAA-043)]",
+    "[Bulbapedia: Mr. Mime (Galarian Form), Mr. Rime, Galarian Darumaka per-species pages]"
+  ],
+  "files_modified": [
+    "cards/_characters/galarian-regional-forms.md",
+    "cards/pokemon/darkness-ablaze/035-189-galarian-mr-mime.md",
+    "cards/pokemon/darkness-ablaze/036-189-galarian-mr-rime.md",
+    "cards/pokemon/darkness-ablaze/043-189-galarian-darumaka.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "notes": "Two endpoints. Both equal nodes. Must be traversable from either side. Hence the Mr. Mime ↔ Mr. Rime mirror. The sigh is professional, not personal. The stack-plus-mirror combine was clearly the right call — drawing a card↔card mirror for the Galar-exclusive evolution and ALSO extending the cohort node in one pass is the structurally efficient move, and the two edges don't overlap in coverage (cohort fan vs species-pair mirror). Galar-exclusive evolution lines are a designer-coordinated structural feature worth its own edge separate from cohort membership."
+}

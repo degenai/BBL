@@ -1,0 +1,42 @@
+{
+  "edge_id": "phyrexia-node-proposal",
+  "shape": "node-proposal",
+  "topology": "branch",
+  "category": "named-character-identity (faction-collective)",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/phyrexia.md", "name": "Phyrexia"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/130-phyrexian-ironworks.md", "name": "Phyrexian Ironworks (MH3-130)"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/112-wurmcoil-larva.md", "name": "Wurmcoil Larva (MH3-112)"},
+    {"type": "card", "path": "cards/magic-the-gathering/mystery-booster-cards/62-phyrexian-rager.md", "name": "Phyrexian Rager (MBC-62)"}
+  ],
+  "description": "Oh, sir, I am so sorry to bother you, but Edgelord stepped aside for this one. Three cards in the corpus — Phyrexian Ironworks (MH3-130), Wurmcoil Larva (MH3-112), Phyrexian Rager (MBC-62) — all canonically depict the Phyrexia faction, and the threshold for a faction-collective Mr. Nodeley node is met (3+, per the Bolas / orzhov-syndicate / team-rocket precedents). The faction is also already cross-referenced inside the Tamiyo node body (her compleation arc, her species classification as 'Phyrexian-compleated planeswalker'), so the node retroactively cleans up an implicit reference into an explicit graph edge. I really do think it will be useful, sir, if you don't mind. Future bundle work on body-horror-as-infrastructure or biology-as-raw-material will anchor here cleanly.",
+  "citations": [
+    "[MTG Wiki: Phyrexia]",
+    "[MTG Wiki: New Phyrexia]",
+    "[MTG Wiki: Yawgmoth]",
+    "[MTG Wiki: Praetors (Elesh Norn, Sheoldred, Vorinclex, Jin-Gitaxias, Urabrask)]",
+    "[MTG Wiki: Compleation]",
+    "[Wizards: Phyrexia: All Will Be One design articles, Rosewater 2023]",
+    "[Wizards: March of the Machine story archive]",
+    "[Scryfall: name:Phyrexian; watermark:phyrexian; t:phyrexian]"
+  ],
+  "files_modified": [
+    "cards/_characters/phyrexia.md (CREATED)",
+    "cards/magic-the-gathering/modern-horizons-3/130-phyrexian-ironworks.md (added characters: [phyrexia])",
+    "cards/magic-the-gathering/modern-horizons-3/112-wurmcoil-larva.md (added characters: [phyrexia])",
+    "cards/magic-the-gathering/mystery-booster-cards/62-phyrexian-rager.md (added characters: [phyrexia])",
+    "cards/_characters/tamiyo.md (added related_characters: [phyrexia] cross-link)"
+  ],
+  "quad_slot_dispositions": {
+    "E1_fear_of_abduction_cohort_extension": "VERIFIED — node already updated by prior pass. DSK-9 in appears_on, Fear of Abduction in 'Cards in our corpus' body section, 5/10 cohort count reflected in caveats. No-op for Edgelord.",
+    "E2_phyrexia_cluster_scan": "EXECUTED — this proposal. 3 cards qualify; node created; cards pointered; Tamiyo cross-linked.",
+    "E3_ral_and_implicit_maze": "DEFERRED — Option C+D hybrid. Solo Ral card, no second Ral or third Izzet card in corpus yet. Character-to-character edges to Jace/Tamiyo/Bolas are deferred per the explicit 'character-to-character edge category not yet formalized' caveats in both Jace and Tamiyo nodes. Re-evaluate when (a) a 2nd Ral card lands for solo-node candidacy, (b) ≥3 Izzet-watermark cards land for izzet-league node candidacy, or (c) the character-to-character edge category is formalized as a graph dimension.",
+    "E4_survivor_cycle_nodeley": "DEFERRED — only 2 mechanically-typed Survivor corpus cards (Cautious Survivor DSK-172, Glimmer Seeker DSK-14) carry the canonical Survival keyword and Survivor creature type. Norin Swift Survivalist (DSK-297) is a flavor-survivor only, not a mechanical Survivor-typed card. Threshold ≥3 not met. Re-evaluate when a third Survival-mechanic card enters the corpus."
+  },
+  "other_candidates_considered": [
+    "MH3 Phyrexian sub-cycle node (Ironworks + Wurmcoil Larva as MH3-specific Phyrexia reprints) — rejected; weaker than the faction-level Phyrexia node which absorbs the same two cards plus the MBC reprint and accommodates the entire future Phyrexian corpus accumulation.",
+    "Foundations dragon cluster (FDN-84 Dragon Trainer + FDN-86 Fiery Annihilation + MH3-121 Furnace Hellkite) — examined and deferred. Three dragon cards exist but lack designer-coordinated faction-collective canon (dragons are a creature type with intra-faction variance across guilds and planes, not a faction). A 'dragon' hub would belong to Alex's hand-curation queue per the bbl-hubs-hand-curated rule.",
+    "Duskmourn haunted-house cluster (Unwilling Vessel + Scrabbling Skullcrab + Unnerving Grasp + Stay Hidden Stay Silent) — examined; DSK is already heavily-noded with fear-of-cycle and dsk-unlucky-lands-cycle. Over-saturation risk. Defer to janitor_triage for set-level diff."
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

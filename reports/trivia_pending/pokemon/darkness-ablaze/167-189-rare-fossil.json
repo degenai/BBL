@@ -1,0 +1,36 @@
+{
+  "card_name": "Rare Fossil",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "167/189",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No IP flag. Item card functioning as a 70-HP Colorless Pokemon proxy for fossil evolution lines.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Rare Fossil was released in Darkness Ablaze (August 14, 2020), the third Sword & Shield series expansion. It was originally released in the Japanese Infinity Zone expansion (June 2020) and reprinted in Japanese Shiny Star V. [Bulbapedia: Rare Fossil (Darkness Ablaze 167), via WebSearch; TCGCodex: DAA 167, via WebSearch]",
+      "sources": ["Bulbapedia: Rare Fossil (Darkness Ablaze 167)", "TCGCodex: DAA 167"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rare Fossil plays as an Item card but functions as a 70-HP Basic Colorless Pokemon on the bench — a mechanic descending from the original Fossil card mechanic introduced in the Base Set era. It enables players to bench fossil-type Pokemon as placeholders before evolving them. At 70 HP, it holds the highest HP total among all Fossil Item cards printed to the Darkness Ablaze era. [Pojo.com: Rare Fossil review, via WebSearch; Bulbapedia: Rare Fossil DAA 167, via WebSearch]",
+      "sources": ["Pojo.com: Rare Fossil review", "Bulbapedia: Rare Fossil DAA 167"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by 5ban Graphics. The stone specimen displays multiple embedded fossil impressions — a crab or trilobite-like arthropod, a spiral shell, and a fish-like form — representing the range of fossil Pokemon the card can be used to support. The display-specimen framing (lit from above, displayed against a soft gradient) mirrors museum natural history presentation. [Frontmatter artist field; visual read from Vision section]",
+      "sources": ["Frontmatter artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mysterious Fossil", "set": "Base Set era", "note": "Original fossil mechanic ancestor — also played as a Pokemon placeholder"},
+    {"name": "Unidentified Fossil", "set": "Sun & Moon era", "note": "Earlier Sword & Shield-adjacent fossil mechanic card"},
+    {"name": "Dracozolt V", "set": "Darkness Ablaze", "note": "One of the fossil Pokemon in the same Darkness Ablaze set that Rare Fossil can facilitate"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

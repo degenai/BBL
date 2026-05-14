@@ -14,8 +14,8 @@ tags_hub: ["dog", "loyalty", "rescue", "stray", "alley", "twilight", "urban", "c
 tags_filter: ["solo", "forward-facing", "mid-shot", "portrait-mode", "no-face-human", "creature-dog", "white-magic", "single-animal"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/36-selfless-savior.png
 average_cost_paid: 0
-market_price: 0.41
-market_price_as_of: 2026-05-12
+market_price: 0.43
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

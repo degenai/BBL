@@ -16,7 +16,7 @@ tags_filter: ["solo", "mid-shot", "portrait-mode", "three-quarter", "female-figu
 reference_image: cards/_images/magic-the-gathering/the-list/220-tamiyo-collector-of-tales.png
 average_cost_paid: 0
 market_price: 0.73
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high
@@ -48,7 +48,7 @@ oracle_text: Spells and abilities your opponents control can't cause you to disc
 A robed figure with long, straight pale hair stands at the foreground, draped in layered scholar's robes in deep teals and blues with brass-gold accents. She holds an unfurled scroll or document that emits a soft warm glow, its surface marked with arcane script. Her expression is composed and studious. Behind her, a turbulent sky churns with cloud and storm-light, and the suggestion of a large monument or pylon rises in the middle distance. Color palette is dominated by cool blues and greens with warm golden highlights from the glowing scroll providing the focal contrast.
 
 **Subject:** robed scholar-mage with long pale hair holding a glowing illuminated scroll, framed against a stormy sky
-**Suspected IP:** Tamiyo (confidence: high, verified: False)
+**Verified IP:** Tamiyo (confidence: high)
 
 **Composition:** mid-shot, portrait, figures: solo, facing: three-quarter
 **Setting:** other, ruined, indeterminate, storm

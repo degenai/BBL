@@ -1,0 +1,25 @@
+{
+  "edge_id": "gothita-daa073--gothorita-daa074--unova-psychic-line-evolution-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/073-189-gothita.md", "name": "Gothita (Darkness Ablaze 073/189)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/074-189-gothorita.md", "name": "Gothorita (Darkness Ablaze 074/189)"}
+  ],
+  "description": "Two card-endpoints, adjacent within-set collector numbers, depicting the same Unova all-female psychic line at successive life stages. The gothic-doll palette progression — pale-pink innocence to dark-purple witchy twilight — does the design-thesis work the flavor text confirms (baby with ribbonlike feelers maturing into the Witch of Punishment). Behold. Standard professional sigh. Mirror demanded.",
+  "citations": [
+    "[Bulbapedia: Gothita (Pokemon) — National Pokedex no. 574, evolves to Gothorita at level 32]",
+    "[Bulbapedia: Gothorita (Pokemon) — National Pokedex no. 575, mid-stage Psychic, 'Witch of Punishment' lore]",
+    "[PokemonTCG.io: swsh3-73 flavor_text — babies with psychic power in ribbonlike feelers]",
+    "[PokemonTCG.io: swsh3-74 flavor_text — Witch of Punishment spiriting away sleeping children]"
+  ],
+  "files_modified": [
+    "cards/pokemon/darkness-ablaze/073-189-gothita.md",
+    "cards/pokemon/darkness-ablaze/074-189-gothorita.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "Gothitelle node speculation — rejected; Gothitelle is not in corpus. If Gothitelle lands in any set in a future Collectr upload, the third stage closes the line and a `unova-psychic-witch-line` or `gothita-line` cohort node may be warranted under the elemental-monkey-trio / castform-forms-cycle precedent at N=3 corpus prints. Surface in janitor_triage as a future-node candidate with trigger condition 'when Gothitelle enters corpus'."
+  ]
+}

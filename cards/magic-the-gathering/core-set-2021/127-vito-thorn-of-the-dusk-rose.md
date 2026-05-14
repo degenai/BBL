@@ -14,8 +14,8 @@ tags_hub: ["vampire", "cleric", "priest", "ritual", "gothic", "cathedral", "robe
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "male-figure", "creature-vampire", "creature-cleric", "legendary", "black-magic", "lifegain", "lifeloss"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/127-vito-thorn-of-the-dusk-rose.png
 average_cost_paid: 0
-market_price: 11.1
-market_price_as_of: 2026-05-12
+market_price: 11.15
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high
@@ -41,8 +41,8 @@ oracle_text: Whenever you gain life, target opponent loses that much life.\n{3}{
 
 ![127-vito-thorn-of-the-dusk-rose](../../_images/magic-the-gathering/core-set-2021/127-vito-thorn-of-the-dusk-rose.png)
 
-> [!warning] Suspected IP: **Vito, Thorn of the Dusk Rose** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Vito, Thorn of the Dusk Rose**
+> Confirmed via MTG Wiki (Vito Quijano de Pasamonte page) and Hipsters of the Coast (Torbeck, 2020-08-11). Wizards-internal character (Church of Dusk, Ixalan); no external-IP risk.
 
 A pale, dark-haired vampire cleric stands at the center of the frame, arms raised wide in a ritualistic or sermonizing gesture. He wears heavy ecclesiastical robes with a high standing collar in deep crimson and black, accented with gold trim. The setting is the interior of a gothic cathedral: tall pointed arches, ribbed vaults, and stained-glass-style window detail recede behind him into a dim, candlelit gloom. Cool blue-grey moonlight filters through the architecture, contrasting with warm reddish glows below. His stance and elevated arms suggest preaching, blessing, or invoking — a vampiric figure cast in the iconography of a priest.
 

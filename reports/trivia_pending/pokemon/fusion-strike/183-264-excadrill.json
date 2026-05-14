@@ -1,0 +1,39 @@
+{
+  "card_name": "Excadrill",
+  "game": "Pokemon",
+  "set": "Fusion Strike",
+  "collector_number": "183/264",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Excadrill', Metal type, Stage 1 subtype, flavor text 'Known as the Drill King.' National Pokedex no. 530, Unova Subterrene Pokemon. Confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "\"Known as the Drill King, this Pokémon can tunnel through the terrain at speeds of over 90 mph.\" The 'Drill King' epithet is Excadrill's consistent Pokedex identity; official species classification is 'Subterrene Pokemon.'",
+      "sources": ["PokemonTCG.io: swsh8-183"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Excadrill (no. 530) was one of the most dominant Gen V OU threats. Sand Rush doubles Speed in sandstorm — with Hippowdon or Tyranitar support, Excadrill was banned to Ubers in BW. Mold Breaker is the alternate niche (bypasses Levitate, Sturdy), useful in Ubers against Giratina-O.",
+      "sources": ["Smogon: Excadrill BW OU thread", "Serebii.net POTW 530"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Excadrill is Ground/Steel in-game (TCG types as Metal). Evolves from Drilbur (no. 529). Both introduced Generation V (Black & White, 2010, Unova). The two-stage line literalizes drilling at two scales: Drilbur rotates body as compact drill; Excadrill deploys full-body force as the Drill King.",
+      "sources": ["Bulbapedia: Excadrill (Pokémon)"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Lee HyunJung, a Korean TCG artist active in the Sword & Shield era.",
+      "sources": ["PokemonTCG.io: swsh8-183"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Drilbur", "set": "Cosmic Eclipse", "note": "Base-stage evolution pair (no. 114/236), wave 27 E4 mirror complete"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

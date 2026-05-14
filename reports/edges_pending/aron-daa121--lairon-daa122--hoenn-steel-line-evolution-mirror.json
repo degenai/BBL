@@ -1,0 +1,25 @@
+{
+  "edge_id": "aron-daa121--lairon-daa122--hoenn-steel-line-evolution-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/121-189-aron.md", "name": "Aron (Darkness Ablaze 121/189)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/122-189-lairon.md", "name": "Lairon (Darkness Ablaze 122/189)"}
+  ],
+  "description": "Two card-endpoints, both equal nodes, both adjacent within-set collector numbers, both anchored to a canonical Hoenn Rock/Steel three-stage evolution line (Aron → Lairon → Aggron, Generation III). The narrative bridge is in the printed flavor text: Aron's carapace-shedding line names the very transition Lairon's plating-and-boulder-ramming line then expresses. Habitat-shift mapping (grassland-meadow to rocky cave/tunnel) tracks Bulbapedia's documented species progression. Standard professional sigh. Mirror demanded.",
+  "citations": [
+    "[Bulbapedia: Aron (Pokemon) — National Pokedex no. 304, evolves to Lairon at level 32]",
+    "[Bulbapedia: Lairon (Pokemon) — National Pokedex no. 305, mid-stage Rock/Steel]",
+    "[PokemonTCG.io: swsh3-121 flavor_text — carapace shedding on evolution]",
+    "[PokemonTCG.io: swsh3-122 flavor_text — sparks from ramming steel body into boulders]"
+  ],
+  "files_modified": [
+    "cards/pokemon/darkness-ablaze/121-189-aron.md",
+    "cards/pokemon/darkness-ablaze/122-189-lairon.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "Aggron node speculation — rejected; Aggron is not in corpus. If Aggron lands in any set in a future Collectr upload, the third stage closes the line and a `hoenn-steel-line` or `aron-line` cohort node may be warranted under the elemental-monkey-trio / castform-forms-cycle precedent at N=3 corpus prints. Surface in janitor_triage as a future-node candidate with trigger condition 'when Aggron enters corpus'."
+  ]
+}

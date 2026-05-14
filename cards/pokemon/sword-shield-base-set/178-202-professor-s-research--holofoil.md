@@ -14,8 +14,8 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/pokemon/sword-shield-base-set/178-202-professor-s-research--holofoil.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-12
+market_price: 0.19
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 reference_image_source_url: https://images.pokemontcg.io/swsh35/62_hires.png

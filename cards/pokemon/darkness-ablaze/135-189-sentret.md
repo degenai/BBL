@@ -10,12 +10,12 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["sentinel", "meadow", "grass", "small-mammal", "watchful", "ferret", "scout", "nature", "lookout", "alert", "cute", "daylight"]
+tags_filter: ["solo", "forward-facing", "mid-shot", "portrait-mode", "colorless-type", "pokemon-basic", "creature-normal"]
 reference_image: cards/_images/pokemon/darkness-ablaze/135-189-sentret.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-12
+market_price: 0.09
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://images.pokemontcg.io/swsh3/135_hires.png
@@ -24,6 +24,38 @@ needs_manual_review: false
 artist: Mina Nakai
 flavor_text: It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind.
 oracle_text: Call for Family (Colorless): Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck.
+mood: peaceful
+time_of_day: day
+setting: forest
+suspected_ip: Sentret
+ip_confidence: high
+ip_verified: false
 ---
 
 # Sentret (Darkness Ablaze)
+
+## Vision
+
+![135-189-sentret](../../_images/pokemon/darkness-ablaze/135-189-sentret.png)
+
+> [!warning] Suspected IP: **Sentret** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A small round-bodied mammal Pokemon with brown-and-cream coloring, large round dark eyes, and rounded ears. Its long tail with dark ring stripes is clearly visible. The creature stands upright in or among tall grass blades in a bright well-lit meadow. The pose is alert, consistent with the sentinel lookout behavior described in its flavor text. The background is bright green and light, giving a cheerful open-air meadow feel.
+
+**Subject:** Sentret, a small brown ferret-like Pokemon with a striped ringed tail, standing alert in tall grass in a bright meadow
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** forest, day, clear
+**Foreground:** Small brown ferret-like Pokemon with striped tail standing upright in tall grass  *(palette: brown, cream, tan, dark-brown)*
+**Background:** Bright green meadow with tall grass blades and light sky  *(palette: green, light-green, pale-yellow, white)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** alert and watchful — upright posture, wide eyes scanning the surroundings
+**Creatures:** sentret, ferret, small-mammal
+**Iconography:** striped-tail, grass
+**Genre cues:** anime, fantasy
+
+## Connections
+
+- [[136-189-furret]] — Johto sentinel/ferret evolution line 1:1 mirror. Sentret (National Pokedex no. 161) evolves into Furret (no. 162) at level 15 — the Johto Normal-type two-stage line introduced in Generation II (Pokemon Gold & Silver, 1999-2000). DAA-135 (Sentret) and DAA-136 (Furret) share the Darkness Ablaze set, sit at adjacent collector numbers within the within-set evolution adjacency pattern, and depict the same character at successive life stages: the small round-bodied baby standing alert on its tail in a bright meadow scanning for danger (this card, Mina Nakai art, peaceful daylight palette, "It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind") versus the long sinuous evolved form mid-leap through autumn foliage (DAA-136, tetsuya koizumi art, warm orange-and-gold canopy palette, "It makes a nest to suit its long and skinny body. The nest is impossible for other Pokemon to enter"). The body-plan shift from round-and-upright to long-and-sinuous tracks Bulbapedia's documented design progression — Sentret as a vigilant sentinel, Furret as a burrow-builder whose elongated body is the gameplay-relevant feature. The within-set 135-136 adjacency completes the Johto sentinel/ferret line at full 2-of-2 canonical species coverage in the BBL corpus. [Bulbapedia: Sentret (Pokemon); Bulbapedia: Furret (Pokemon); PokemonTCG.io: swsh3-135 + swsh3-136 oracle text]
+

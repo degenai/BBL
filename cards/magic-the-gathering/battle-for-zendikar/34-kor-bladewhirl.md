@@ -10,14 +10,45 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
-reference_image: 
+tags_hub: ["warrior", "chain", "whip", "fighter", "skill", "nomad", "Zendikar", "rally", "first-strike", "kor"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "action", "creature-kor-warrior-ally", "white-magic"]
+reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/34-kor-bladewhirl.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-12
 last_seen: 2026-05-12
+reference_image_source_url: https://cards.scryfall.io/png/front/e/3/e31b12c7-df11-4450-95e1-b9a5aa97af0e.png?1562949080
+art_match_confidence: high
+needs_manual_review: false
+characters: ["kor"]
+artist: Steven Belledin
+art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/34-kor-bladewhirl--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/3/e31b12c7-df11-4450-95e1-b9a5aa97af0e.jpg?1562949080
+flavor_text: The high-pitched whirl of a hook is the only battle cry she needs.
+oracle_text: Rally — Whenever this creature or another Ally you control enters, creatures you control gain first strike until end of turn.
+mood: action
+time_of_day: day
+setting: mountain
 ---
 
 # Kor Bladewhirl (Battle for Zendikar)
+
+## Vision
+
+![34-kor-bladewhirl](../../_images/magic-the-gathering/battle-for-zendikar/34-kor-bladewhirl.png)
+
+A humanoid figure stands in a dynamic pose, one arm raised holding a cord attached to a hooked blade that extends outward in a spin. The figure has long light-colored hair and wears leather-and-metal armor with wraps on the arms. Chains and hooks hang from the belt and wrists. In the background, a large fabric canopy or sail structure and distant floating rock formations suggest the Zendikar landscape. The sky is blue and pale.
+
+**Subject:** an armored humanoid figure with long light hair spinning a hooked chain weapon in an open Zendikar landscape
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** mountain, day, clear
+**Foreground:** armored humanoid with long light hair spinning a hooked chain, wraps and hooks on wrists  *(palette: tan, brown, warm-grey)*
+**Background:** fabric canopy structure, blue sky, floating rocks  *(palette: blue, tan, warm-grey)*
+**Mood / lighting:** action, ambient
+**Emotion read:** determined combat readiness, spinning into battle
+**Objects:** hooked chain, hooks, fabric canopy
+**Iconography:** chain weapon, hooks
+**Genre cues:** fantasy
+

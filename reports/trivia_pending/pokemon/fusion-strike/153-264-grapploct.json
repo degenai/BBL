@@ -1,0 +1,45 @@
+{
+  "card_name": "Grapploct",
+  "game": "Pokemon",
+  "set": "Fusion Strike",
+  "collector_number": "153/264",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, art, and species confirmed as Grapploct via PokemonTCG.io API (swsh8-153). Internal Pokemon IP — no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Grapploct (National Pokedex no. 853) is categorized as the Jujitsu Pokemon. Design blends octopus anatomy with jujitsu and luchador fighter motifs: yellow face marking resembles a masked wrestler, tentacles function as both arms and legs, and one tentacle wraps midsection like a belt. Body described as pure muscle.",
+      "sources": ["Bulbapedia Grapploct via WebSearch snippet", "pokemon.fandom.com/wiki/Grapploct via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Grapploct is obtainable only in Pokemon Sword in the base games — not available in Pokemon Shield without trading. Galar-region species introduced Generation VIII (2019).",
+      "sources": ["screenrant.com How To Find Grapploct via WebSearch", "pokemondb.net Grapploct"]
+    },
+    {
+      "category": "design",
+      "text": "Grapploct evolves from Clobbopus when leveled up while knowing the move Taunt — an unusual condition-based evolution rather than a simple level threshold or held item.",
+      "sources": ["pokemondb.net Grapploct via WebSearch", "imore.com Clobbopus/Grapploct guide via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea.\"",
+      "sources": ["PokemonTCG.io API swsh8-153"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Grapploct and Golisopod living in Galar are described as natural predator-prey rivals — the winner of their brawls eats the loser.",
+      "sources": ["pokemondb.net Grapploct Sword Pokedex entry via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Clobbopus", "set": "Fusion Strike", "note": "Base form of the evolution line; same-set companion (152/264)"},
+    {"name": "Golisopod", "set": "various", "note": "Galar rival species per Pokedex lore"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

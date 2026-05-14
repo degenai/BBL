@@ -14,8 +14,8 @@ tags_hub: ["mountain", "ice", "snow", "summit", "ascent", "pilgrimage", "cold", 
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "vertical-composition", "stadium-card", "trainer-card", "pokemon-tcg"]
 reference_image: cards/_images/pokemon/chilling-reign/148-198-path-to-the-peak.png
 average_cost_paid: 0
-market_price: 0.16
-market_price_as_of: 2026-05-12
+market_price: 0.17
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 reference_image_source_url: https://images.pokemontcg.io/swsh6/148_hires.png
@@ -48,3 +48,14 @@ A frigid alpine vista rendered in cool blues and pale whites. Sharp, crystalline
 **Iconography:** ascent, summit
 **Genre cues:** fantasy, naturalism
 
+## Trivia
+
+- **Set context** — Chilling Reign released June 18, 2021 (English), sourced from the Japanese Silver Lance and Jet-Black Spirit dual expansion (April 23, 2021). The set is the sixth main Sword & Shield expansion and thematically centers on the Crown Tundra DLC and the legendary Calyrex [Bulbapedia: Chilling Reign (TCG)].
+- **Location lore** — Path to the Peak is a real in-game location: the final alpine route in the Crown Tundra DLC that leads north to Crown Shrine, the encounter site for Calyrex. It connects the Tunnel to the Top to the south and Crown Shrine to the north — the literal final approach to the legendary Pokémon at the top of Galar's wilderness [Bulbapedia: Path to the Peak (location)].
+- **Mechanical reputation** — Path to the Peak is considered one of the most impactful cards from Chilling Reign. Its Stadium effect removes Abilities from all Pokémon with Rule Boxes (Pokémon V, GX, etc.) for both players. Competitive analysis at release flagged it as potentially format-warping: a single turn of setup could lock many dominant V-era decks entirely out of their engine [Flipside Gaming: Impact of Chilling Reign; Pokemon.com: Top Cards for Competition — Chilling Reign].
+- **Community sentiment** — The ability-suppression effect drew comparison to classic "Item lock" strategies. The standard counter was increasing copies of Chaotic Swell (a rival Stadium) or running Marshadow (Resetting Hole ability) as a tech — both of which became staples specifically because of Path to the Peak's prevalence [Flipside Gaming: Impact of Chilling Reign].
+
+### Related cards
+- Chaotic Swell (Cosmic Eclipse) — primary Stadium counter to Path to the Peak
+- Marshadow (Unbroken Bonds, Resetting Hole) — Ability-based Stadium removal tech run against Path to the Peak
+- Calyrex VMAX (Chilling Reign) — thematic centerpiece of the same set; set lore focal point

@@ -1,0 +1,46 @@
+{
+  "card_name": "Galarian Corsola",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "078/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Galarian Corsola via PokemonTCG.io API card swsh2-78 and Bulbapedia; National Pokedex no. 222 Galarian Form, Ghost-type bleached-coral regional variant introduced in Pokemon Sword & Shield.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Galarian Corsola appears in Rebel Clash (SWSH2), the second Sword & Shield era expansion, released May 1, 2020, with 192 cards in the base set (209 total with secret rares).",
+      "sources": ["Bulbapedia: Rebel Clash (TCG), via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "The Galarian form converts the original Johto Water/Rock Corsola (National Pokedex no. 222) into a Ghost-type. The in-game Pokedex entry reads: 'Sudden climate change wiped out this ancient kind of Corsola.' The bleaching and Ghost-typing were widely noted as a reference to real-world coral bleaching caused by ocean warming and acidification.",
+      "sources": ["WebSearch: HuffPost, GameRevolution, The Hill coverage of Galarian Corsola climate allegory (2019)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Watch your step when wandering areas oceans once covered. What looks like a stone could be this Pokémon, and it will curse you if you kick it.\" The TCG flavor text foregrounds habitat-loss: the ocean literally receded, leaving Corsola stranded on dry land.",
+      "sources": ["PokemonTCG.io API: swsh2-78 flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "Galarian Corsola evolves into Cursola at level 38, remaining Ghost-type. The evolution line is the only Corsola-family Ghost branch; the original Water/Rock Corsola has no evolution.",
+      "sources": ["WebSearch: Bulbapedia snippet, Galarian Corsola/Cursola"]
+    },
+    {
+      "category": "design",
+      "text": "This print is illustrated by Mitsuhiro Arita, one of the most prolific and longest-tenured Pokemon TCG artists, with credits spanning from the original Base Set (1996) through the Sword & Shield era.",
+      "sources": ["PokemonTCG.io API: swsh2-78 artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Cursola", "set": "Rebel Clash", "note": "Direct evolution; same environmental-decay design axis"},
+    {"name": "Corsola", "set": "various older sets", "note": "Original Water/Rock form; design contrast makes Galarian bleaching legible"},
+    {"name": "Galar Mine", "set": "Rebel Clash", "note": "Location card anchoring the Galar environmental setting"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

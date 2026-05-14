@@ -1,0 +1,41 @@
+{
+  "card_name": "Kakuna",
+  "game": "Pokemon",
+  "set": "Evolutions",
+  "collector_number": "6/108",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Visual match confirmed: yellow hexagonal cocoon with small side protrusions matches National Pokedex no. 14 exactly. PokemonTCG.io API xy12-6 confirms name, types, and artist.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Evolutions (XY12, November 2, 2016) is a Base Set tribute released for Pokemon's 20th anniversary. Nearly all cards reproduce 1999 Base Set artwork on modern card stock, with updated HP values, modern typing rules, and new EX/BREAK mechanics. Kakuna no. 6/108 is one of the retro prints. Artist is Keiji Kinebuchi, one of the original Base Set-era illustrators.",
+      "sources": ["PokemonTCG.io API: xy12-6", "WebSearch: Pokebeach XY12 Evolutions Base Set reprint overview"]
+    },
+    {
+      "category": "design",
+      "text": "Kakuna (National Pokedex no. 14) can only learn Harden naturally in the mainline video games. The TCG card mirrors this: its two moves are Stiffen (reducing incoming damage by 40) and Poison Powder — defensive stasis and toxin-secretion, both accurate to the Beedrill line's biology.",
+      "sources": ["PokemonTCG.io API: xy12-6", "WebSearch: pokemon-wiki.org/pokemon/kakuna"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"This Pokemon is in a temporary stage while making its body. It is almost completely unable to move on its own.\"",
+      "sources": ["PokemonTCG.io API: xy12-6"]
+    },
+    {
+      "category": "design",
+      "text": "Art credited to Keiji Kinebuchi, one of the original Base Set-era Pokemon TCG illustrators active from the 1996 Japanese launch. His appearance in Evolutions is a deliberate callback to original-era talent.",
+      "sources": ["PokemonTCG.io API: xy12-6"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Weedle", "set": "Evolutions", "note": "Pre-evolution; the Weedle line is complete within Evolutions"},
+    {"name": "Beedrill", "set": "Evolutions", "note": "Final evolution; the payoff for the inert cocoon stage"},
+    {"name": "Metapod", "set": "Evolutions", "note": "Parallel cocoon Pokemon in the same set; shares the 'completely immobile' Pokedex archetype"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

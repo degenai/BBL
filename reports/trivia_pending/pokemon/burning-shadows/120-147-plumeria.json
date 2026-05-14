@@ -1,0 +1,42 @@
+{
+  "card_name": "Plumeria",
+  "game": "Pokemon",
+  "set": "Burning Shadows",
+  "collector_number": "120/147",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches character name exactly. Depicted figure — tall slender figure with two-tone hair (light and dark), black crop-top, dark pants, arms loosely at sides in an aloof posture, forest background — matches Plumeria's canonical appearance as Team Skull's sole Admin in Pokemon Sun and Moon. The two-tone hair is Plumeria's defining visual identifier. Artist Ken Sugimori is canonical Game Freak character designer.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Plumeria is Team Skull's sole Admin and is described within the games as the team's 'big sister' figure — she enforces discipline strictly but also expresses genuine care for the Skull Grunts under her. She specializes in Poison-type Pokemon and is first encountered at the Akala Outskirts before Olivia's Grand Trial. [Bulbapedia: Plumeria, via WebSearch]",
+      "sources": ["Bulbapedia: Plumeria, via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Team Skull in Pokemon Sun and Moon is unusual among villain teams: its members are explicitly depicted as failed Trial Challengers who could not complete the island challenge and turned to petty crime out of desperation. Plumeria's caretaker role within this context — managing a group of Pokemon League rejects — gives her a social dimension absent from most villain-team admins. [Bulbapedia: Team Skull, via WebSearch]",
+      "sources": ["Bulbapedia: Team Skull, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Plumeria Supporter (BUS no. 120/147) requires discarding 2 cards from hand to discard an Energy from one of the opponent's Pokemon — a resource-attrition effect that requires the player to pay a cost to punish the opponent. The symmetry of mutual discard mirrors her 'big sister tough love' characterization. The card is Expanded-legal. [PokemonTCG.io API: sm3-120]",
+      "sources": ["PokemonTCG.io API: sm3-120"]
+    },
+    {
+      "category": "set-lore",
+      "text": "By the end of Sun and Moon's story, Plumeria's arc closes on a note of grudging respect: she apologizes for her role in the conflict, hands over the Poisonium Z to the player, and after Guzma's rescue from Ultra Space, she attempts to challenge the player at the Alola League as a legitimate trainer — one of the few villain-role characters in any main-series game to make that transition. [Bulbapedia: Plumeria, via WebSearch]",
+      "sources": ["Bulbapedia: Plumeria, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Acerola", "set": "Burning Shadows", "note": "Same set, same artist — Alola NPC trifecta"},
+    {"name": "Olivia", "set": "Burning Shadows", "note": "Same set cohort"},
+    {"name": "Guzma", "set": "Burning Shadows", "note": "Team Skull boss; Plumeria serves directly under him"},
+    {"name": "Plumeria", "set": "Burning Shadows 141/147", "note": "Full Art version of this card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

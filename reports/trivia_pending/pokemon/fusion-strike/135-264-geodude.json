@@ -1,0 +1,41 @@
+{
+  "card_name": "Geodude",
+  "game": "Pokemon",
+  "set": "Fusion Strike",
+  "collector_number": "135/264",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, art, and Kanto form confirmed as Geodude via PokemonTCG.io API (swsh8-135). Vision confirmed no magnetic markings or dark coloration, consistent with Kanto form. Internal Pokemon IP — no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Geodude (National Pokedex no. 74) is a Generation I Rock/Ground-type introduced in 1996. Official species classification: Rock Pokemon. A Kanto staple and one of the most commonly encountered wild Pokemon in early-route cave systems including Mt. Moon and Rock Tunnel.",
+      "sources": ["Bulbapedia Geodude via WebSearch snippet", "pokemondb.net Geodude"]
+    },
+    {
+      "category": "design",
+      "text": "This print is the standard Kanto form (gray body, Rock/Ground typing). The Alolan regional variant introduced in Generation VII (Sun and Moon, 2016) is Rock/Electric, with slate-gray body, magnetic black eyebrows and iron-sand hair, and three-fingered hands rather than five. Vision pass confirmed this print shows no magnetic markings, consistent with Kanto form.",
+      "sources": ["Bulbapedia Geodude Alolan form via WebSearch snippet", "pokemondb.net Geodude"]
+    },
+    {
+      "category": "design",
+      "text": "Geodude evolves into Graveler at level 25, which evolves into Golem when traded. Golem is one of the few trade-only evolutions in the original 151.",
+      "sources": ["pokemondb.net Geodude via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It uses both hands to climb precipitous cliffs. People who see it in action have been known to take up bouldering.\"",
+      "sources": ["PokemonTCG.io API swsh8-135"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Graveler", "set": "various", "note": "Level 25 evolution"},
+    {"name": "Golem", "set": "various", "note": "Trade evolution final form; Rock/Ground"},
+    {"name": "Geodude (Alolan)", "set": "various", "note": "Regional variant; Rock/Electric"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

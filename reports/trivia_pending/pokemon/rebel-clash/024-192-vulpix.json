@@ -1,0 +1,40 @@
+{
+  "card_name": "Vulpix",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "024/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Vulpix (Kanto form) via card name, PokemonTCG.io API (swsh2-24, National Pokedex no. 37, Fire type), artist sui, and orange-red multi-tailed fox design. Alolan form (Ice/Fairy, white coat) refuted by coloring.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "First Vulpix print in corpus. National Pokedex no. 37, Fire type, Kanto form. Evolves into Ninetales via Fire Stone. Two forms exist: Kanto (Fire, orange-red) and Alolan (Ice/Fairy, white). Card type indicator and coloring confirm Kanto form.",
+      "sources": ["PokemonTCG.io API: swsh2-24"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'While young, it has six gorgeous tails. When it grows, several new tails are sprouted.' The tail-count-as-age-marker is the core design principle of the line, reflected in the art's multiple-but-compact tail fan.",
+      "sources": ["PokemonTCG.io API: swsh2-24"]
+    },
+    {
+      "category": "design",
+      "text": "Vulpix and Ninetales are based on the kyubi no kitsune (nine-tailed fox) of Japanese folklore — supernatural foxes whose power and tail count grow with age. The kitsune's final form (ninth tail, golden transformation) maps onto Ninetales' evolution. Ninetales Pokedex entries warn of a thousand-year curse for grabbing a tail, directly referencing kitsune vengeance mythology.",
+      "sources": ["ScreenRant: 'Pokemon That Are Just Japanese Yokai'; Wikipedia: Ninetales; via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Form disambiguation: Kanto Vulpix (Fire, orange-red coat, warm amber tails) vs. Alolan Vulpix (Ice/Fairy, white coat, pale blue-tinted tails). Both share National Pokedex no. 37 but are treated as distinct forms with separate evolution lines in the games.",
+      "sources": ["PokemonTCG.io API: swsh2-24"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ninetales", "set": "various", "note": "Fire Stone evolution, not in corpus"},
+    {"name": "Vulpix (Alolan)", "set": "various", "note": "Ice/Fairy regional alternate, not in corpus"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

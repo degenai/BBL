@@ -15,7 +15,7 @@ tags_filter: ["solo", "wide-shot", "forward-facing", "scene-mode", "no-face", "c
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/58-kiora-s-dambreaker.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/a/c/acd61fb0-a82
 mood: sublime
 time_of_day: indeterminate
 setting: ocean
+suspected_ip: Kiora
+ip_confidence: high
+ip_verified: true
+characters: ["kiora"]
 artist: Mathias Kollros
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/58-kiora-s-dambreaker--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/c/acd61fb0-a82b-4f46-8043-c6b89764720b.jpg?1557576256

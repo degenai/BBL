@@ -1,0 +1,36 @@
+{
+  "card_name": "Pancham",
+  "game": "Pokemon",
+  "set": "Cosmic Eclipse",
+  "collector_number": "119/236",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Pancham'; depicted figure (small black-and-white panda-like creature with a leaf in its mouth in a bamboo forest) matches the canonical Fighting-type Gen 6 Pokemon, National Pokedex no. 674. Verified via card name, PokemonTCG.io metadata, Bulbapedia: Pancham, and flavor text cross-reference.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Pancham is National Pokedex no. 674, a Fighting-type Pokemon introduced in Generation VI (X/Y, 2013) in the Kalos region. It evolves into Pangoro at Level 32 — but only if the player has a Dark-type Pokemon in their party at the time of evolution. This party-composition requirement is unique to Pancham in the main series. [Bulbapedia: Pancham; Pokemondb.net; via WebSearch]",
+      "sources": ["Bulbapedia: Pancham (via WebSearch)", "Pokemondb.net (via WebSearch)"]
+    },
+    {
+      "category": "design",
+      "text": "The Dark-type party requirement for evolution implies Pancham acquires its Dark type after evolution due to a 'bad influence' — the game design encodes the concept of a naughty child being led astray. Pancham and Pangoro draw inspiration from bancho, the Japanese archetype of juvenile delinquent gang leaders. The leaf in Pancham's mouth is a personality marker: per flavor text, when Pancham makes a big mistake, Pangoro takes the leaf away as discipline. [Bulbapedia: Pangoro design section; WebSearch snippet]",
+      "sources": ["Bulbapedia: Pangoro (via WebSearch)", "WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text on this card: \"It follows Pangoro around like a henchman. When Pancham makes a big mistake, its leaf gets taken away.\" The leaf-as-behavior-detector directly connects to Pangoro's combat mechanic, where Pangoro uses its bamboo leaf to sense minute vibrations and opponent movements. [PokemonTCG.io: sm12-119 flavorText; frontmatter capture]",
+      "sources": ["PokemonTCG.io: sm12-119 (frontmatter capture)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pangoro", "set": "Cosmic Eclipse (120/236)", "note": "Direct evolution; same set; Fighting/Dark type; bamboo-leaf sensory mechanic"},
+    {"name": "Pangoro", "set": "Various earlier sets", "note": "Prior Pangoro prints for comparison"},
+    {"name": "Scrafty", "set": "Various", "note": "Fellow bancho-archetype Dark/Fighting delinquent-gang Pokemon from Gen 5"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

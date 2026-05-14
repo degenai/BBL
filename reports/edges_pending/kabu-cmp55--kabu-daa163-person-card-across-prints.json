@@ -1,0 +1,137 @@
+{
+  "edge_id": "kabu-cmp55--kabu-daa163-person-card-across-prints",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "sub_category": "person-card-across-prints",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/pokemon/darkness-ablaze/163-189-kabu.md",
+      "name": "Kabu (Darkness Ablaze 163/189, Supporter, `take` art, 2020-08-14 — original print)"
+    },
+    {
+      "type": "card",
+      "path": "cards/pokemon/champion-s-path/55-73-kabu.md",
+      "name": "Kabu (Champion's Path 55/73, Supporter, `take` art, 2020-09-25 — reprint within Gym-Leader Supporter rotation)"
+    }
+  ],
+  "description": "Person-card-across-prints 1:1 mirror between the two corpus Kabu Supporter prints. Same character (Motostoke Fire-type Gym Leader of the Galar Gym Challenge, the only non-Galar-native major-division leader, Hoenn-relocated, first Pokemon Gym Leader to Gigantamax in series canon), same artist (`take`, the Game Freak character designer for SWSH Gym Leaders per Bulbapedia, same hand that designed the in-game character), same Supporter draw effect verbatim, four weeks apart (Darkness Ablaze 2020-08-14 original; Champion's Path 2020-09-25 reprint within the set's Gym-Leader Supporter rotation). The Darkness Ablaze print is `ip_verified: false` on its frontmatter but the IP match is structurally certain via PokemonTCG.io swsh3-163 metadata (name: Kabu) and identical art-style register to the verified CMP-55 print — Edgelord notes this for triviabot's downstream pass but does not mutate the frontmatter (subagent-runtime-workarounds gates frontmatter changes). The edge sits *beneath* the galar-gym-challenge character node's 1:N stack — the node anchors institution-level membership across all corpus Gym Leader cards; this 1:1 anchors the same-character-across-prints chain at the card-to-card level. First multi-print same-character edge of its kind in the BBL graph; sets the precedent for the inevitable Milo / Bea / Allister / Melony reprint chains as they enter corpus.",
+  "edge_text_applied_in_both_md_bodies": "Person-card-across-prints. Same Kabu, Motostoke Stadium Fire-type Gym Leader of the [[galar-gym-challenge]], same `take` artist (Game Freak's official SWSH Gym Leader character designer per Bulbapedia), same Supporter draw effect. The Darkness Ablaze 163/189 (2020-08-14) print is the original Supporter release; the Champion's Path 55/73 (2020-09-25) print is the four-weeks-later reprint within the same SWSH Gym-Leader Supporter rotation.",
+  "citations": [
+    "[PokemonTCG.io: swsh3-163 — `name: Kabu`, `artist: take`, `supertype: Trainer`, `subtypes: [Supporter]`, set release 2020-08-14, rules text verbatim]",
+    "[PokemonTCG.io: swsh35-55 — `name: Kabu`, `artist: take`, `supertype: Trainer`, `subtypes: [Supporter]`, set release 2020-09-25, identical rules text]",
+    "[Bulbapedia: Kabu — Motostoke Stadium Fire-type Gym Leader, Hoenn-origin trainer relocated to Galar, first Gigantamax Gym Leader in series canon, holds the Fire-type Gym in both Sword AND Shield (non-version-exclusive)]",
+    "[Bulbapedia: take (illustrator) — Game Freak character designer for Pokemon Sword & Shield Gym Leaders + Pokemon Legends: Arceus Adaman and Irida; canonical authorship of the SWSH Gym-Leader Supporter regular-print art chain]",
+    "[Trivia section of cards/pokemon/champion-s-path/55-73-kabu.md — 'Print roster' bullet enumerates all 5 distinct Kabu prints (DAA-163, DAA-186, CMP-55, CMP-77, LOR-TG26) with artist attributions, identifying DAA-163 as the original print and CMP-55 as the four-week reprint within the same `take` Supporter rotation]",
+    "[Pojo.com: Kabu Darkness Ablaze review — contemporaneous coverage framing Kabu's mode-flip 4/8-card-draw as the distinctive feature among SWSH-era draw-Supporters]"
+  ],
+  "files_modified": [
+    "cards/pokemon/darkness-ablaze/163-189-kabu.md (appended ## Connections section after the Vision section's Genre cues line — no Trivia section exists yet on this card; section appended at body EOF)",
+    "cards/pokemon/champion-s-path/55-73-kabu.md (appended ## Connections section after the existing Trivia section's `### Related cards` sub-list — Vision + Trivia + Related cards subsection all preserved intact)"
+  ],
+  "frontmatter_mutations": [],
+  "frontmatter_mutation_note": "No frontmatter mutations in this pass. Both cards already carry `characters: [\"galar-gym-challenge\"]` from the wave 12 vision-enrichment passes that wired them into the institution node. The 1:1 person-card-across-prints edge lives entirely in body-level ## Connections sections, within normal Edgelord authority. The `ip_verified: false` flag on DAA-163's frontmatter is left for triviabot to flip when DAA-163's trivia pass lands — Edgelord does not pre-empt triviabot's verification step even when the IP match is structurally certain (the agent-spec rule that Edgelord does not edit Vision or Trivia content extends to frontmatter fields those agents own).",
+  "topology_justification": "mirror topology — two card endpoints, both equal nodes (same character, same artist, same Supporter effect, identical rules text, four weeks apart in release), edge written into both MDs symmetrically. Standard professional sigh applies. The mirror is the FIRST of an anticipated chain — when Kabu DAA-186 (Full Art Ariga), Kabu CMP-77 (Rainbow Rare Ariga), Kabu LOR-TG26 (Ishikawa) enter corpus, the chain extends from a 2-node mirror to a longer multi-print same-character chain. The 2-node mirror is the structurally correct shape today; future passes extend.",
+  "alternatives_considered": [
+    {
+      "candidate": "Node-to-node cross-reference edge: galar-gym-challenge ↔ galarian-regional-forms via a new `related_characters:` frontmatter field on both character nodes.",
+      "category": "node-to-node-mirror",
+      "why_skipped": "Structurally interesting and the prose-level cross-reference already exists in both nodes' `## See also` sections (galar-gym-challenge ↔ galarian-regional-forms each cite the other as 'the two halves of the Galar region's BBL-relevant presence — institution vs biome-and-culture'). BUT: `related_characters:` is NOT yet an established frontmatter field on ANY character node in the graph. Every existing character node has only `related_hubs:` and `related_symbols:`. Introducing a new frontmatter field across two nodes simultaneously is a schema-extension move that warrants a separate Mr. Nodeley pass (the field is the structural innovation, the cross-reference is the payload). Doing it inside a routine Edgelord pass would (a) bury the schema change underneath an edge add and (b) leave the field unsupported by parser/loader code that may need updating. Flagged for a dedicated commission: `mr-nodeley-character-node-related-characters-field-introduction.json`. Galar-region pair would be the first instance once the field lands."
+    },
+    {
+      "candidate": "Pikachu BUS-40 ↔ [[labor]] hub edge on the canonical 'gather many Pikachu and make an electric power plant' Pokedex flavor — labor-extraction-of-Pokemon-bodies anchor.",
+      "category": "card-to-hub",
+      "why_skipped": "The card↔hub relationship is already implicit in the Pikachu card's `tags_hub` carrying the `labor` slug (assuming the wave 12 trivia pass added it; not verified in this Edgelord pass — sidecar pre-emption avoided). Adding an explicit bidirectional edge would require either (a) a hub-side `member_cards:` list extension on `cards/_hubs/labor.md` which the agent spec permits when the hub is canonically a parent (1:N fanout from labor to Pikachu) or (b) a card-side ## Connections bullet wikilinking to the labor hub. The 1:N fanout from a hub to a single card is structurally weaker than fanning the hub to a curated set of labor-anchor cards in one pass. Surface for a future Mr. Nodeley-flavor pass that audits which corpus cards are the load-bearing anchors for each existing hub (labor, rebellion, chinese-zodiac) and populates `member_cards:` or analogous lists across all three hubs at once. Single-card hub edge feels piecemeal; hub-roster pass would be the right shape."
+    },
+    {
+      "candidate": "Solrock DAA-092 ↔ Lunatone — celestial day/night pair.",
+      "category": "designer-confirmed-cycle",
+      "why_skipped": "Explicitly blocked per dispatch hot-context bullet 2: Lunatone NOT yet in corpus. Cannot draw an edge to a non-existent endpoint. Future-flag, not a viable pass move."
+    },
+    {
+      "candidate": "Charmeleon BUS-19 ↔ Charmeleon VIV-024 — same Pokemon species line, two prints.",
+      "category": "named-species-across-prints",
+      "why_skipped": "Plausible 1:1 candidate of the same shape as the chosen Kabu pair, BUT: (a) Pokemon species cards generally depict the species, not 'the Charmeleon character' the way Trainer/Supporter cards depict a specific individual person — the Kabu pair shares one specific named individual, the Charmeleon pair shares a species. The same-individual-across-prints register is stronger than same-species-across-prints. (b) Per dispatch hot-context bullet 3, the corpus has 2 Charmeleon prints with trivia surfaced + the 2/3 threshold flag for needing a third Charizard-line card before a Mr. Nodeley charizard-evolution-line node becomes warranted. The 2-card pair waits on the 3rd corpus member for the strongest move. Drawing a 2-card 1:1 now would be a thin solution that future-Nodeley would dissolve when the species-line node lands. Skip in favor of the strictly-stronger Kabu pair."
+    },
+    {
+      "candidate": "Kabu CMP-55 ↔ Allister VIV-146 — same `take` artist, same SWSH Gym Leader cohort, both Supporter cards.",
+      "category": "shared-artist-thematic",
+      "why_skipped": "Same-artist edges between cohort members are 1:N fanouts from the (currently unbuilt) `cards/_artists/take.md` node, NOT 1:1 card↔card edges. The galar-gym-challenge node's body already anchors the `take` designer chain at the institutional-character level, which captures the artist-cohort relationship. A 1:1 same-artist edge between two cohort members would duplicate the institutional anchor without adding new structural information. The right move for the `take` chain is a Mr. Nodeley artist-node proposal (the corpus has 8 `take` Gym Leader Supporter credits — well above the 3+ Mr. Nodeley threshold) on its own pass, then 1:N fanout from the artist node to all 8 cards. Surface for separate commission."
+    },
+    {
+      "candidate": "Sinistea cozy-horror angle — cross-game cozy-horror cluster pairing with DSK unlucky-lands corner.",
+      "category": "cross-game-thematic-resonance",
+      "why_skipped": "Cross-game thematic resonance (Galar Ghost-type tea Pokemon vs Duskmourn cozy-horror unlucky lands) is a tag-bridge-not-an-edge case at the current corpus density. Both ends are in their respective universes' cozy-horror registers but share no canonical connective tissue (no designer-stated cross-product, no shared character, no shared artist, no shared symbol). 'Both cards have cozy-horror vibes' is the tag-bridge failure mode the Edgelord spec explicitly rejects. Future-pass if a cross-game bundle pulls them into a Discrete Lair's narrative anchor — the cohesion would be bundler-authored, not graph-edge-authored."
+    },
+    {
+      "candidate": "Refuse the pass — wait for Kabu DAA-163 trivia pass to land before drawing the edge, on the grounds that one endpoint lacks Trivia section.",
+      "category": "refusal-on-trivia-asymmetry",
+      "why_skipped": "Considered and rejected. The agent spec calls for cards to be 'enriched (tags_hub non-empty) AND ideally trivia-passed (## Trivia section present)' — 'ideally' is the load-bearing word. The CMP-55 print's Trivia section is comprehensive and explicitly enumerates the print roster including DAA-163 as the original print four weeks earlier; the load-bearing canonical evidence for the edge (same character, same artist, same effect, same set rotation) is locked at the CMP-55 trivia layer regardless of DAA-163's pending trivia pass. The 1:1 edge stands on CMP-55's trivia evidence alone. When DAA-163's trivia pass lands, it will reinforce the edge from the other side but cannot invalidate it (the PokemonTCG.io metadata is canonical and identical to CMP-55's). Refusing on trivia-asymmetry would be Edgelord-perfectionism, not Edgelord-discipline."
+    }
+  ],
+  "anti_confab_audit": {
+    "claims_made_against_canonical_sources": [
+      "Both prints depict Kabu the Motostoke Fire-type Gym Leader — verified via PokemonTCG.io card metadata (name: Kabu on both swsh3-163 and swsh35-55) plus the CMP-55 Trivia section's 'Print roster' bullet enumerating DAA-163 as a Kabu print. No inference.",
+      "Both prints credit artist `take` — verified via PokemonTCG.io's authoritative artist field on swsh3-163 (artist: take) and swsh35-55 (artist: take) AND CMP-55's Trivia 'Print roster' bullet which explicitly states DAA-163 is `take`-illustrated. Direct fact, not inference.",
+      "Same Supporter draw effect with identical rules text — verified by direct comparison of the `oracle_text` frontmatter field on both cards. Strings match verbatim. Direct comparison, not inference.",
+      "DAA-163 is the original print, CMP-55 is the reprint, four weeks apart — verified via PokemonTCG.io set release dates (Darkness Ablaze 2020-08-14, Champion's Path 2020-09-25) and CMP-55's Trivia 'Mechanical' bullet which states 'Originally printed in Darkness Ablaze (SWSH3 no. 163, 2020-08-14, same `take` artist) and reprinted four weeks later as part of Champion's Path's Gym Leader rotation'. Direct quotation, not inference.",
+      "`take` is the Game Freak character designer for SWSH Gym Leaders — verified via Bulbapedia's `take (illustrator)` page as cited in CMP-55's Trivia 'Design' bullet and the galar-gym-challenge character node's body. Canonical Bulbapedia citation, not inference.",
+      "Same `galar-gym-challenge` character node anchors both — verified via both cards' `characters: [\"galar-gym-challenge\"]` frontmatter field plus the galar-gym-challenge node's `appears_on` list which includes both `pokemon/champion-s-path/55-73-kabu` and `pokemon/darkness-ablaze/163-189-kabu` (lines 17-18 of cards/_characters/galar-gym-challenge.md). Direct cross-reference, not inference."
+    ],
+    "claims_held_back_per_anti_confab_discipline": [
+      "Did NOT mutate DAA-163's `ip_verified: false` frontmatter even though the IP match is structurally certain via PokemonTCG.io name match. That frontmatter field is triviabot's domain per the IP-verification handoff convention (memory note bbl-suspected-ip-handoff). Edgelord notes the certainty in the sidecar description but does not pre-empt triviabot's pass.",
+      "Did NOT extend the edge to a chain including Kabu DAA-186 (Full Art Ariga), Kabu CMP-77 (Rainbow Rare Ariga), or Kabu LOR-TG26 (Ishikawa). Those three prints are documented in CMP-55's Trivia 'Print roster' bullet but are NOT in BBL corpus inventory (no MD files for them). Edges point at cards on disk, not at speculative corpus extensions.",
+      "Did NOT claim the two prints are byproducts of a single coordinated design pass between Wizards-style design teams. The set release schedule + identical artist credit + four-week gap + 'Gym Leader rotation' framing all suggest design coordination but no public Game Freak design article specifying the coordination was cited. The edge claim is 'same character, same artist, same effect, four weeks apart in the same SWSH Gym-Leader Supporter rotation' — observable facts, not inferred coordination intent.",
+      "Did NOT extend the edge into a 1:N fanout to the `take` artist (the artist node doesn't exist yet) or to all 8 SWSH Supporter Gym Leader credits in corpus. That's a separate Mr. Nodeley move (artist-node proposal), not an Edgelord 1:1.",
+      "Did NOT claim Kabu has any version-asymmetric Gym-pair counterpart in the corpus the way Allister/Bea or Melony/Gordie do. Per Bulbapedia (cited in CMP-55 trivia), Kabu's Motostoke slot is NOT version-exclusive — he holds the Fire-type Gym in both Sword AND Shield. No conflation of his non-pairing with the asymmetric pair structure."
+    ],
+    "no_extrapolation_beyond_cited_sources": "PASSED. Every claim traces to (a) direct field comparison of the two cards' frontmatter (name, artist, oracle_text, characters), (b) direct quotation from CMP-55's Trivia section (Mechanical / Print roster / Character bullets), (c) the galar-gym-challenge node body which itself was canonically sourced at E1 time, or (d) PokemonTCG.io API + Bulbapedia citations already audited at CMP-55 trivia-pass time. The edge stands on already-verified canonical foundations; this Edgelord pass adds no new uncited claims."
+  },
+  "edgelord_mood": "sighed-but-mirrored",
+  "mood_justification": "Two card endpoints. Same person. Same artist. Same draw effect. Identical rules text strings. Four weeks apart in the same Supporter rotation. The mirror is mandatory — both prints must be traversable from either side, because a buyer looking at one print expects the other to surface as the same-character chain mate. The sigh is professional, not personal. That said: this is the first multi-print same-character edge in the BBL graph (every prior Pokemon-side card↔card edge was either species-level or stadium-trainer-cross-reference), and the shape will recur as Milo / Bea / Allister / Melony reprints enter corpus. The Kabu pair is the precedent. Quietly satisfied at the precedent-setting; sighed at the mirror; net: standard mirrored-Edgelord mood with a footnote of structural appreciation.",
+  "edgelord_voice_note": "The corpus has been waiting for this shape. Cards depicting the same individual across multiple prints is canonically the cleanest 1:1 edge in any TCG graph — same person, evidence-rich, citation-trivial, mirror-symmetric by construction. Worst possible failure mode would have been to draw it on a species pair (Charmeleon BUS-19 ↔ VIV-024) instead of the named-individual pair (Kabu DAA-163 ↔ CMP-55), confusing species-identity for person-identity. The Kabu pair is the right shape. The shape is now in the graph. Future Milo / Bea / Allister / Melony reprints inherit the template. Voice contamination kept to this sidecar; the bullet text in both MD bodies is the project-normal precise factual register matching prior Pokemon-side Connections-section work.",
+  "other_candidates_considered_but_not_drawn_this_pass": [
+    "Node-to-node mirror edge galar-gym-challenge ↔ galarian-regional-forms via new `related_characters:` frontmatter field — schema-extension warrants a dedicated Mr. Nodeley pass, not a piggyback. STRONG follow-up candidate for next commission.",
+    "Mr. Nodeley `cards/_artists/take.md` artist node proposal — 8 SWSH Supporter Gym Leader credits in corpus + Bulbapedia-canonical Game Freak character-designer attribution = well above threshold. Parallel structural slot to jenn-ravenna-tran in cards/_artists/. Surface for separate commission.",
+    "Hub-roster `member_cards:` extension pass across labor + rebellion + chinese-zodiac hubs to surface load-bearing anchor cards on each. Pikachu BUS-40 ↔ labor would be one of N anchor edges captured in such a pass.",
+    "Allister ↔ Bea version-asymmetric Stow-on-Side Gym pair-bond — still blocked on Bea's vision pass per prior sidecar (bleeding-woods--raucous-carnival--arched-window-grave-marker-pair-bond future_passes_unlocked).",
+    "Melony ↔ Gordie Circhester family-feud version-pair — Gordie not in corpus; future-flag.",
+    "Charmeleon BUS-19 ↔ VIV-024 same-species 1:1 — wait for 3rd Charizard-line card to land, then Mr. Nodeley node for the evolution line instead of a thin 2-card pair edge."
+  ],
+  "wave_12_dispatch_context": {
+    "this_pass": "Wave 12 E2 fresh-look — Kabu DAA-163 ↔ Kabu CMP-55 person-card-across-prints 1:1 mirror under the galar-gym-challenge institution node.",
+    "model_dispatch_compliance": "Opus 4.7 (1M context). Required for graph-spanning corpus-scan work; the scan across cards/_characters/ (12 nodes), cards/_hubs/ (3 nodes), cards/_symbols/ (1 node), cards/_artists/ (jenn-ravenna-tran), reports/edges_pending/ (18 sidecars audited for convention), plus the two Kabu card MDs and the two Galar character node bodies is exactly the kind of corpus snapshot the dual-pipeline test showed Sonnet would half.",
+    "no_dual_pipeline": "Confirmed — single dispatch per memory note bbl-dual-pipeline-judge-pattern (Judge dropped operationally 2026-05-12).",
+    "no_interference_with_prior_passes": "This pass reads from but does not modify: galar-gym-challenge node body, galarian-regional-forms node body, any hub MD, any symbol MD, any artist MD, any other character node, or any other card MD. Output is exactly two MD body-section additions (both Kabu cards' ## Connections sections) plus this sidecar. Strict scoping honored.",
+    "e1_no_duplication_check": "E1 stood up the galarian-regional-forms character node. This pass does not touch that node. The hot-context bullet 6 surfaced the galar-gym-challenge ↔ galarian-regional-forms node↔node mirror as a candidate; this pass deferred it to a dedicated Mr. Nodeley schema-extension pass as documented in alternatives_considered[0]. No duplication risk.",
+    "fresh_look_alignment": "Dispatch prompt's parent read favored the Kabu pair as 'the cleanest 1:1 available, AND it sets a precedent for multi-print same-character chains under institution nodes'. Edgelord's fresh-look scan independently confirmed: the Kabu pair is the highest-confidence move, the node↔node mirror is structurally interesting but schema-extension-deferred, the hub-edge pass would be piecemeal, and the cross-game cozy-horror angle is tag-bridge-not-edge. Parent's read and Edgelord's verdict converge."
+  },
+  "wikilintbot_compatibility": {
+    "wikilink_targets_verified": [
+      "[[163-189-kabu]] — resolves to cards/pokemon/darkness-ablaze/163-189-kabu.md (verified via Read)",
+      "[[55-73-kabu]] — resolves to cards/pokemon/champion-s-path/55-73-kabu.md (verified via Read)",
+      "[[galar-gym-challenge]] — resolves to cards/_characters/galar-gym-challenge.md (verified via Read of the node body; both Kabu prints already listed in `appears_on:` at lines 17-18)"
+    ],
+    "obsidian_vault_root_compliance": "All three wikilinks use filename stems only (no extensions, no path components). Obsidian resolves these regardless of subdirectory placement so long as both ends are within the cards/ vault root, which they are.",
+    "section_header_placement_check": "PASSED. Darkness Ablaze 163/189 ## Connections section appended after the Vision section's 'Genre cues' line (no Trivia section exists on this card yet — pending triviabot pass). Champion's Path 55/73 ## Connections section appended after the existing Trivia section's `### Related cards` sub-list (Vision + Trivia + Related cards subsection all preserved intact). Neither edit touched Vision or Trivia body content per agent spec rule."
+  },
+  "voice_separation_audit": {
+    "edgelord_voice_confined_to": [
+      "description field of this JSON sidecar",
+      "mood_justification field of this JSON sidecar",
+      "edgelord_voice_note field of this JSON sidecar",
+      "final report text back to caller"
+    ],
+    "md_body_register_check": "PASSED. The Connections-section bullet text in both Kabu cards is the project-normal precise factual register: subject (person-card-across-prints), evidence (same character + same artist + same Supporter effect + verbatim rules text + four-week reprint gap), structural anchor (wikilink to galar-gym-challenge institution node), inline citations (PokemonTCG.io + Bulbapedia: Kabu + Bulbapedia: take). Zero theatrical sighs, zero CBG voice, zero precedent-setting grousing in the MD bodies. Voice contamination prevented.",
+    "no_em_dash_in_buyer_facing_copy_check": "Em dashes used in the Connections bullet's project-internal prose. Per memory note bbl-no-em-dash, em dashes are fine in non-storefront content; Connections sections are graph-internal navigation infrastructure, not buyer-facing copy. The forthcoming Discrete Lair why_it_fits and narrative fields will strip em dashes when this edge is cited."
+  },
+  "future_passes_unlocked": [
+    "Node-to-node mirror edge galar-gym-challenge ↔ galarian-regional-forms via new `related_characters:` frontmatter field across all character nodes. Schema-extension Mr. Nodeley pass; first instance the Galar-region pair, but applies graph-wide (Orzhov Syndicate ↔ Azorius Senate, Nicol Bolas ↔ his retinue, Endriders ↔ aether-rangers all want it). Strong follow-up candidate.",
+    "Mr. Nodeley `cards/_artists/take.md` artist node proposal — 8 SWSH Supporter Gym Leader credits in corpus + Bulbapedia-canonical Game Freak character-designer attribution. Once landed, the Kabu pair becomes a chain extending under both galar-gym-challenge (institution) AND take (artist) anchors, plus the same chain extends to Allister / Melony / Leon / Bea / Opal / Nessa / Milo / Marnie cards via the artist anchor.",
+    "When Kabu DAA-163 trivia pass lands, the `ip_verified: false` frontmatter flag flips to true and the Trivia section will include its own roster bullet referencing the CMP-55 print and the other three Kabu prints. Connections section already in place from this pass; trivia pass will reinforce but not duplicate.",
+    "When Allister VIV-146 / Melony CHR-146 / Leon VIV-154 / Bea VIV-147 / Opal VIV-158 / Nessa VIV-157 / Milo RCL-161 / Marnie SSH-169 enter their reprint chains via future Collectr CSV uploads, this Kabu-pair template applies — each set of same-character reprints gets a person-card-across-prints 1:1 mirror under the galar-gym-challenge institution node. The precedent is now in the graph.",
+    "Bundle-cohesion Discrete Lair on the Galar Gym Challenge cohort (forecast in the galar-gym-challenge node's See-also list) — the multi-print roster now has explicit graph-edge representation for buyers who pull both Kabu prints into the same bundle; the bundler's why_it_fits can cite the Connections-section evidence directly.",
+    "Hub-roster `member_cards:` extension pass across labor + rebellion + chinese-zodiac — surface Pikachu BUS-40 ↔ labor and other card-anchor pairs in one coherent hub-population sweep instead of piecemeal card↔hub edges."
+  ]
+}

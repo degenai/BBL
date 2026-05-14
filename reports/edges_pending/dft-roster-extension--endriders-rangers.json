@@ -1,0 +1,25 @@
+{
+  "edge_id": "dft-roster-extension--endriders-rangers",
+  "shape": "1:N",
+  "topology": "branch",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/endriders.md", "name": "Endriders"},
+    {"type": "character", "path": "cards/_characters/aether-rangers.md", "name": "Aether Rangers"},
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/125-endrider-spikespitter.md", "name": "Endrider Spikespitter"},
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/126-fuel-the-flames.md", "name": "Fuel the Flames"},
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/61-skystreak-engineer.md", "name": "Skystreak Engineer"},
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/59-sabotage-strategist.md", "name": "Sabotage Strategist"},
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/161-elvish-refueler.md", "name": "Elvish Refueler"}
+  ],
+  "description": "Dual roster-extension across Aetherdrift's two corpus-active faction nodes. Five cards (2 Endriders + 3 Aether Rangers) each get a brief Connections bullet pointing back to their faction node. The frontmatter `characters:` field was already wired by earlier waves, and both node files' appears_on lists already include the cards — the missing piece was the Connections-bullet layer of the relation. Now uniform on both sides. **Skycrash (DFT-146) was investigated and REJECTED as an Endrider edge** — its flavor (*'Under moonfall conditions...'*) places the depicted wreck on the Muraganda Grand Prix leg (Stage 3) per MTG Wiki's Muraganda page, where polished moonfall is currency and lunar debris is racing hazard; no flavor or art attribution to Endriders. Neutral race-event card, leave un-faction-wired.",
+  "citations": ["[MTG Wiki: Endriders — Depicted in]", "[MTG Wiki: Aether Rangers — Depicted in]", "[MTG Wiki: List of secondary characters / Avishkar — Garima]", "[MTG Wiki: Muraganda — Moonfall]"],
+  "files_modified": [
+    "cards/magic-the-gathering/aetherdrift/125-endrider-spikespitter.md",
+    "cards/magic-the-gathering/aetherdrift/126-fuel-the-flames.md",
+    "cards/magic-the-gathering/aetherdrift/61-skystreak-engineer.md",
+    "cards/magic-the-gathering/aetherdrift/59-sabotage-strategist.md",
+    "cards/magic-the-gathering/aetherdrift/161-elvish-refueler.md"
+  ],
+  "edgelord_mood": "blueballed-by-fanout"
+}

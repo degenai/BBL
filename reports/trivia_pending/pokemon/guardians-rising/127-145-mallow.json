@@ -1,0 +1,42 @@
+{
+  "card_name": "Mallow",
+  "game": "Pokemon",
+  "set": "Guardians Rising",
+  "collector_number": "127/145",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Mallow', subtype is Supporter, set is Guardians Rising — Mallow is the Grass-type Trial Captain of Akala Island's Lush Jungle in Sun and Moon. Confirmed via Bulbapedia character page and PokemonTCG.io API.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Guardians Rising (Sun & Moon series, released May 5, 2017) is the second Sun & Moon expansion. Mallow 127/145 is the Uncommon non-holo print; a Full Art (145/145, Megumi Mizutani art) also exists in the same set.",
+      "sources": ["Bulbapedia: Guardians Rising (TCG)", "PokemonTCG.io: sm2-127"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Mallow is the Grass-type Trial Captain of Akala Island's Lush Jungle in Sun and Moon. Her trial involves collecting ingredients for her 'Mallow Special' dish; she works at her family restaurant in Konikoni City. Signature partner: Tsareena (evolved from Steenee during the anime).",
+      "sources": ["Bulbapedia: Mallow", "Bulbapedia: Mallow's Tsareena"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Supporter effect: search deck for 2 cards, put both on top in any order. Ken Sugimori illustrated this regular print — uncommon for TCG cards, where Sugimori is better known as the original species character designer.",
+      "sources": ["PokemonTCG.io: sm2-127", "Bulbapedia: Mallow (Guardians Rising 127)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Mallow is one of three Akala Island Trial Captains alongside Lana (Water-type) and Kiawe (Fire-type). All three appear as Supporters in the Sun & Moon era TCG. Mallow anchors the alola-trial-captains character node.",
+      "sources": ["Bulbapedia: Guardians Rising (TCG)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mallow (Full Art)", "set": "Guardians Rising", "note": "145/145, Full Art variant, Megumi Mizutani art"},
+    {"name": "Lana", "set": "Guardians Rising", "note": "Akala Island Trial Captain trio, Water-type"},
+    {"name": "Kiawe", "set": "Burning Shadows", "note": "Akala Island Trial Captain trio, Fire-type"},
+    {"name": "Mallow & Lana TAG TEAM", "set": "Cosmic Eclipse", "note": "Both Akala captains on a single TAG TEAM Supporter"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

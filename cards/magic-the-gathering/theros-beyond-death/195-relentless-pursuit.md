@@ -14,8 +14,8 @@ tags_hub: ["robed-figure", "hooded-figure", "lone-traveler", "pursuit", "wind", 
 tags_filter: ["solo", "wide-shot", "scene-mode", "faces-away", "no-face", "green-magic", "sorcery", "card-draw"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/195-relentless-pursuit.png
 average_cost_paid: 0
-market_price: 0.04
-market_price_as_of: 2026-05-12
+market_price: 0.06
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

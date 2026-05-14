@@ -1,0 +1,35 @@
+{
+  "edge_id": "wave-38-e1-chandra-nalaar-character-node",
+  "shape": "node-proposal",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/chandra-nalaar.md", "name": "Chandra Nalaar"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/120-chandra-s-pyrohelix.md", "name": "Chandra's Pyrohelix (WAR-120)"},
+    {"type": "card", "path": "cards/magic-the-gathering/core-set-2021/137-chandra-s-magmutt.md", "name": "Chandra's Magmutt (M21-137)"},
+    {"type": "card", "path": "cards/magic-the-gathering/core-set-2021/138-chandra-s-pyreling.md", "name": "Chandra's Pyreling (M21-138)"}
+  ],
+  "description": "Oh — I'm sorry to step in, but Edgelord asked me to handle this one. The three Chandra-attributed cards span two sets and three artists, and they all clearly point to the same pyromancer planeswalker (Pyrohelix has IP-verified flavor speaker, Magmutt has Chandra-speaker flavor, Pyreling has Jace-Beleren-naming-Chandra flavor). It really would have been a thin set of card-to-card edges without an anchor — please, if it's not too much trouble, the character node holds it together better. I included the maternal-Pia-Nalaar / Aether-Rangers throughline because it crosses to an existing graph node and might help future bundles. Also patched Magmutt and Pyreling's missing characters: field. Hope that's all right, sir.",
+  "citations": [
+    "[MTG Wiki: Chandra Nalaar]",
+    "[MTG Wiki: Pia Nalaar]",
+    "[Wizards: Planeswalker's Guide to Aetherdrift Part 1, Miguel Lopez 2024-12-10]",
+    "[Wizards: Magic Origins: Chandra, Roaring Flames, 2015]",
+    "[Scryfall: type:planeswalker name:Chandra; name:\"Chandra's\"]",
+    "[Pyrohelix flavor_text: Chandra Nalaar to Dovin Baan]",
+    "[Magmutt flavor_text: Chandra Nalaar]",
+    "[Pyreling flavor_text: Jace Beleren naming Chandra]"
+  ],
+  "files_modified": [
+    "cards/_characters/chandra-nalaar.md",
+    "cards/magic-the-gathering/war-of-the-spark/120-chandra-s-pyrohelix.md",
+    "cards/magic-the-gathering/core-set-2021/137-chandra-s-magmutt.md",
+    "cards/magic-the-gathering/core-set-2021/138-chandra-s-pyreling.md"
+  ],
+  "other_candidates_considered": [
+    "Pia Nalaar character sub-node — deferred, no Pia card in corpus yet; flagged as future Nodeley trigger when a Pia Nalaar print lands (DRC-2 Pia Nalaar Chief Mechanic is the immediate candidate).",
+    "Nissa Revane partner-of-the-act character node — deferred, no Nissa card in corpus; the canonical Chandra-Nissa relationship awaits Nissa-print acquisition.",
+    "Aleksi Briclot artist node — deferred, signature-Chandra artist (original LRW Chandra Nalaar, Phoenix M12, Pyrohelix WAR), candidate when 2+ Briclot credits in corpus reach a threshold the artists-layer convention can converge on."
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

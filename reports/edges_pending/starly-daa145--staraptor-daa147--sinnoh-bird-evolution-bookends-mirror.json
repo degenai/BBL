@@ -1,0 +1,28 @@
+{
+  "edge_id": "starly-daa145--staraptor-daa147--sinnoh-bird-evolution-bookends-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "category_note": "Within-set evolutionary-line bookends 1:1 mirror. Starly DAA-145 (base stage, Pokedex 396) and Staraptor DAA-147 (Stage 2 apex, Pokedex 398) bracket the Sinnoh-region Starly → Staravia → Staraptor evolutionary line within a single Sword & Shield-era set, with the missing middle-stage Staravia (Pokedex 397) presumed at the absent 146 collector slot per the designer-coordinated within-set partial-triptych pattern. Closest enum match is named-character-identity at the species-line scope (both cards depict the same evolutionary line at different stages).",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/145-189-starly.md", "name": "Starly (Darkness Ablaze 145/189)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/147-189-staraptor.md", "name": "Staraptor (Darkness Ablaze 147/189)"}
+  ],
+  "description": "Wave 24 E4 deferred this with the explicit 'now's the future' opening for a later pass — now's the future. Within-set evolutionary bookends, two-of-three line members across non-adjacent-but-near collector slots (145, [146 Staravia missing], 147), the designer-coordinated within-set partial-triptych pattern. Structurally parallel to the within-Vivid-Voltage Charmander 023 + Charmeleon 024 + Charizard 025 triptych (which is full-triptych — VIV had all three slots filled) — this Darkness Ablaze version is the partial-triptych at the bookends, with the absent middle slot as the visible architecture of the line. The Brave Bird mechanical signature on Staraptor's attack canonically references the species' competitive-tier signature attack per Bulbapedia and Smogon OU, locking the species-level identity at the mechanical layer. Edgelord enjoys this — a within-set evolutionary-line edge between two equal card-nodes with designer-coordinated collector-number placement and a clean species-canon citation chain. The Starly DAA-145 Connections section already carried the cross-print mirror to Starly BRS-117 from a prior pass; this new bullet extends it with the evolutionary-line bookends mirror to Staraptor DAA-147. Starly DAA-145 now anchors a small chain — same species cross-print (BRS-117) AND base-to-apex within-set evolution (DAA-147) — at the per-card-node Connections-section level.",
+  "citations": [
+    "[Bulbapedia: Starly (Pokemon) — National Pokedex no. 396, Generation IV Sinnoh bird-line base stage]",
+    "[Bulbapedia: Staraptor (Pokemon) — National Pokedex no. 398, Stage 2 apex of the Starly evolution line]",
+    "[Bulbapedia: Staravia (Pokemon) — National Pokedex no. 397, Stage 1 middle of the Starly evolution line; not in BBL corpus]",
+    "[PokemonTCG.io: swsh3-145 (Starly, Naoyo Kimura art)]",
+    "[PokemonTCG.io: swsh3-147 (Staraptor, AKIRA EGAWA art)]",
+    "[Smogon OU — Staraptor Brave Bird + Reckless competitive analysis]",
+    "[Corpus: cards/pokemon/darkness-ablaze/145-189-starly.md prior Connections section pointing at Starly BRS-117]",
+    "[Wave 24 E4 deferral note: Sinnoh bird evolution mirror flagged as 'future pass']"
+  ],
+  "files_modified": [
+    "cards/pokemon/darkness-ablaze/145-189-starly.md (appended second bullet to existing ## Connections section)",
+    "cards/pokemon/darkness-ablaze/147-189-staraptor.md (created ## Connections section after ### Related cards block)"
+  ],
+  "edgelord_mood": "satisfied",
+  "mood_justification": "Clean 1:1 evolution mirror at within-set scope between two equal card-nodes, both depicting the same species-line at different stages, with designer-coordinated near-adjacent collector slots and the missing-middle-stage architecture visible in the corpus. The wave 24 E4 deferral set up the move precisely; the move executed precisely. Edgelord standards met. The chain-shape forming at Starly DAA-145 (cross-print + evolution) is structurally elegant — Starly DAA-145 now sits at a 3-node hub position in the Connections graph (BRS-117 same-species cross-print + DAA-147 within-set apex-evolution + the species-line cohort node staraptor-line.md). That's the topology forming. Worth the work."
+}

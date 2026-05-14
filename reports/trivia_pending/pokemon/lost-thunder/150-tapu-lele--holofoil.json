@@ -1,0 +1,42 @@
+{
+  "card_name": "Tapu Lele",
+  "game": "Pokemon",
+  "set": "Lost Thunder",
+  "collector_number": "150",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is Tapu Lele; depicted figure matches the canonical Psychic/Fairy-type guardian deity of Akala Island — pink and white butterfly-shell form with distinctive shell encasing lower body. Confirmed via PokemonTCG.io API (name, flavor text, oracle text), Pokemon.com TCG database, and Bulbapedia description of the four Alola guardian deities.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Tapu Lele is one of four Alolan guardian deities introduced in Pokemon Sun and Moon, each protecting one of Alola's main islands: Tapu Koko guards Melemele, Tapu Lele guards Akala, Tapu Bulu guards Ula'ula, and Tapu Fini guards Poni Island. Each deity also triggers a terrain effect via its Ability — Tapu Lele's Psychic Surge sets Psychic Terrain, boosting Psychic-type moves. [Bulbapedia: Guardian deities, WebSearch snippet]",
+      "sources": ["Bulbapedia: Guardian deities", "WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (LOT-150): 'As it flutters about, it scatters its strangely glowing scales. Touching them is said to restore good health on the spot.' — Tapu Lele's scales are described as healing in lore but dangerously chaotic if scattered recklessly; the deity is characterized as capricious and indifferent to the suffering it may cause. [PokemonTCG.io API]",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "design",
+      "text": "This card is illustrated by Mizue and printed as a Holo Rare in Lost Thunder (SM8, November 2018). The holographic treatment is thematically appropriate — the scatter-and-sparkle foiling reinforces the scale-scattering mechanic described in the flavor text. [PokemonTCG.io API]",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's Ability, Charmed Charm, inflicts Confusion on the opponent's Active Pokemon whenever a 'Fairy Charm' Tool card is attached — a defensive synergy mechanic specific to the Fairy Charm tool cycle released in the Sun and Moon era. Its attack, Magical Shot, costs FairyColorlessColorless for 70 damage. [PokemonTCG.io API]",
+      "sources": ["PokemonTCG.io API"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tapu Koko GX", "set": "Guardians Rising", "note": "Guardian deity of Melemele Island; shares the four-Tapu deity cycle"},
+    {"name": "Tapu Bulu GX", "set": "Burning Shadows", "note": "Guardian deity of Ula'ula Island; same cycle"},
+    {"name": "Tapu Fini GX", "set": "Burning Shadows", "note": "Guardian deity of Poni Island; completes the four-deity cycle"},
+    {"name": "Tapu Lele GX", "set": "Guardians Rising", "note": "GX version of the same character; iconic for its Wonder Tag Ability which became a meta-defining card in competitive play"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Tapu Lele (Pokemon Sun and Moon)",
+    "ip_confidence": "high"
+  }
+}

@@ -15,8 +15,8 @@ tags_hub: ["locket", "jewelry", "amulet", "sigil", "law", "bureaucracy", "docume
 tags_filter: ["no-figure", "object-focus", "close-up", "forward-facing", "centered-composition", "artifact", "colorless", "azorius-guild", "blue-magic", "white-magic", "multicolor-blue-white", "card-draw"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/231-azorius-locket.png
 average_cost_paid: 0
-market_price: 0.24
-market_price_as_of: 2026-05-12
+market_price: 0.27
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 art_match_confidence: high

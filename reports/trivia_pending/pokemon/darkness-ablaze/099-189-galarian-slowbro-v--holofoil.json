@@ -1,0 +1,41 @@
+{
+  "card_name": "Galarian Slowbro V",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "099/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted pink bipedal creature with Shellder clamped on arm like a cannon matches Galarian Slowbro's canonical design exactly — the Galarian form's defining visual distinction (Shellder on arm vs. Kanto Shellder on tail). National Pokedex no. 80. Confirmed via PokemonTCG.io API (swsh3-99).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Galarian Slowbro is a regional variant introduced in the Isle of Armor DLC (June 2020) for Sword & Shield. Galarian Slowpoke has been eating Galarica spices, and when a Shellder clamps onto its arm instead of its tail, the spice residue causes a chemical reaction producing a potent poison. Galarian Slowbro is Poison/Psychic-type rather than the Kanto form's Water/Psychic. Evolution requires a Galarica Cuff, crafted from eight Galarica Twigs found on the Isle of Armor. [WebSearch snippet: GameSpot Galarian Slowbro evolution guide]",
+      "sources": ["WebSearch snippet: GameSpot/Dexerto Galarian Slowbro evolution"]
+    },
+    {
+      "category": "design",
+      "text": "The Shellder on Galarian Slowbro's arm functions like a ranged weapon: Slowbro grabs the Shellder's tongue to trigger it, firing poisonous liquid at speeds described as rivaling the fastest known reflexes — a sharp contrast to the canonical Slowbro's reputation for being oblivious and slow. The TCG attack Tripping Shot (130 damage, locks the Defending Pokemon from retreating) and the Rapid-Fire Poison ability echo this \"gun-arm\" combat design. [WebSearch snippet: pokejungle.net Galarian Slowpoke origin of species; PokemonTCG.io API: swsh3-99]",
+      "sources": ["WebSearch snippet: pokejungle.net", "PokemonTCG.io API: swsh3-99"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a Pokemon V (Basic V, 210 HP), Galarian Slowbro V gives up 2 Prize cards when knocked out. The Rapid-Fire Poison ability provides free passive poisoning every turn it is Active, creating a pressure mechanic even when the opponent stalls. Market price $1.21 as of the 2026-05-13 CSV — the highest-valued card in this trivia wave. [PokemonTCG.io API: swsh3-99]",
+      "sources": ["PokemonTCG.io API: swsh3-99"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "No flavor text on this card — V-rank cards in the Sword & Shield era typically omit flavor text in favor of the V Rule reminder text. [PokemonTCG.io API: swsh3-99]",
+      "sources": ["PokemonTCG.io API: swsh3-99"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Galarian Slowking", "set": "Chilling Reign", "note": "The other Galarian Slowpoke evolution (Galarica Wreath item); Crown Tundra DLC counterpart"},
+    {"name": "Slowbro", "set": "Various", "note": "Kanto form counterpart — Water/Psychic, Shellder on tail not arm"},
+    {"name": "Galarian Slowbro V (Full Art)", "set": "Darkness Ablaze", "note": "Alternate full-art version in the same set (DAA-180)"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

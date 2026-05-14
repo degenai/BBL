@@ -1,0 +1,43 @@
+{
+  "card_name": "Regirock",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "089/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via PokemonTCG.io swsh4-89. National Pokedex no. 377 matches. Seven-dot cross/H-pattern on torso is canonical Regi-family visual identifier shared across all members.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Regirock appears in Sword & Shield — Vivid Voltage (2020) as no. 089/185, a Holo Rare. National Pokedex no. 377, Legendary Rock-type, introduced in Generation III (Hoenn).",
+      "sources": ["PokemonTCG.io: swsh4-89"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Regi cycle has a 3+2 structure: original Hoenn trio (Regirock/Regice/Registeel, Gen III) + Regigigas (Gen IV Sinnoh, said to have created the trio) + two Gen VIII Crown Tundra additions (Regieleki/Regidrago, split-decision ruins). All five in party activates a Regigigas Max Raid Battle.",
+      "sources": ["WebSearch: Regi cycle, Bulbapedia: Legendary giants snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The same rocks that form its body have been found in ground layers around the world.\"",
+      "sources": ["PokemonTCG.io: swsh4-89"]
+    },
+    {
+      "category": "design",
+      "text": "Seven-dot cross/H-pattern on torso is the canonical visual identifier for all Regi-family members (each with unique dot arrangement).",
+      "sources": ["PokemonTCG.io: swsh4-89"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Regice", "set": "Vivid Voltage", "note": "Cycle member, same set (036/185)"},
+    {"name": "Registeel", "set": "Vivid Voltage", "note": "Cycle member, same set (119/185)"},
+    {"name": "Regigigas", "set": "various", "note": "Sinnoh legendary, cycle master"},
+    {"name": "Regieleki", "set": "Chilling Reign and later", "note": "Gen VIII Crown Tundra cycle addition"},
+    {"name": "Regidrago", "set": "Chilling Reign and later", "note": "Gen VIII Crown Tundra cycle addition"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

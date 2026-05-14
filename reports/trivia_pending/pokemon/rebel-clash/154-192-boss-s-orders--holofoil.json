@@ -1,0 +1,47 @@
+{
+  "card_name": "Boss's Orders",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "154/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The card art frame contains the printed label 'Giovanni' as a subtitle within the art (confirmed in vision pass). PokemonTCG.io API returns card name 'Boss's Orders' with subtype Supporter; multiple official printings (Rebel Clash 154, various full-art variants) all depict Giovanni as explicitly named. The vision pass description matches canonical Giovanni appearance: dark suit, red rose boutonniere, commanding gesture, entourage silhouettes. IP is Game Freak/Nintendo-internal (Pokemon franchise), no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Boss's Orders debuted in Rebel Clash (SWSH2, May 1, 2020) as a Holo Rare Supporter. The card has since been reprinted multiple times across the Sword & Shield era, including a Full Art version (RBC-189) and later reprints, cementing it as one of the signature Supporter cards of the era [PokemonTCG.io API: swsh2-154; WebSearch: serebii.net TCG trainer listings].",
+      "sources": ["PokemonTCG.io API (swsh2-154)", "WebSearch: serebii.net/card/dex/trainers/supporters/boss'sorders.shtml"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Boss's Orders ranked no. 2 on Pojo.com's Top 10 Pokemon Cards of 2020 and no. 1 on their Top 15 Cards of Rebel Clash. Its effect — forcing one opponent's Benched Pokemon into the Active Spot — is a functional reprint of the older Supporter 'Guzma' (Burning Shadows 115). The ability to bypass the opponent's positioning is considered one of the most universally powerful effects in the TCG, finding a slot in virtually every competitive Standard and Expanded deck [WebSearch: pojo.com 'Boss's Orders Top 10 Pokemon Cards of 2020'].",
+      "sources": ["WebSearch: pojo.com/bosss-orders-top-10-pokemon-cards-of-2020-2", "WebSearch: pojo.com/bosss-orders-top-15-pokemon-cards-in-rebel-clash-1"]
+    },
+    {
+      "category": "design",
+      "text": "Giovanni is simultaneously the final Gym Leader of Kanto (Viridian City Gym, Earth Badge, Ground-type specialist) and the founder and boss of Team Rocket. In the original Red/Blue games (1996), his dual role was a concealed plot twist; the connection was not explicit until the player reaches the Viridian Gym near game's end [WebSearch: Bulbapedia 'Giovanni'].",
+      "sources": ["WebSearch: bulbapedia.bulbagarden.net/wiki/Giovanni"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Giovanni's connection to Mewtwo is central to his lore: under his orders, Team Rocket scientists cloned Mew DNA to create the most powerful Pokemon in existence, funding Dr. Fuji's research. Giovanni then weaponized Mewtwo in the Viridian Gym before Mewtwo broke free — the inciting event of 'Pokemon: The First Movie' (1998) [WebSearch: WebSearch screenrant.com 'Giovanni's Role as Team Rocket Leader'].",
+      "sources": ["WebSearch: screenrant.com/giovanni-mother-team-rocket-leader-pokemon-birth-mewtwo"]
+    },
+    {
+      "category": "design",
+      "text": "Artist: nagimiso. The card carries no flavor text; the art's sole warm-color accent is the red rose boutonniere, which functions as Giovanni's visual signature across his TCG appearances. The Giovanni subtitle is printed within the card art frame, making identification unambiguous [PokemonTCG.io API: swsh2-154; Vision pass].",
+      "sources": ["PokemonTCG.io API (swsh2-154)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Guzma", "set": "Burning Shadows", "note": "Functional predecessor: same 'force opponent's Benched to Active' effect; rotating Guzma out made Boss's Orders its direct successor"},
+    {"name": "Giovanni's Exile", "set": "various", "note": "Other Giovanni-named Supporter cards across the TCG history"},
+    {"name": "Mewtwo V", "set": "various", "note": "Mewtwo's direct lore connection to Giovanni — the Pokemon he created and lost"},
+    {"name": "Boss's Orders (Full Art)", "set": "Rebel Clash", "note": "Secret rare version (RBC-189) featuring alternate full-bleed art of Giovanni"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

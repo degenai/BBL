@@ -1,0 +1,41 @@
+{
+  "card_name": "Deerling",
+  "game": "Pokemon",
+  "set": "Chilling Reign",
+  "collector_number": "011/198",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Deerling,' National Pokedex no. 585, small fawn with flower on head in snowy forest — matches Deerling canonical design. The pink-blossom head matches the Spring Form, though the snowy setting is inconsistent with spring; the art may show Spring Form in an off-season environment, or it is the Winter Form with a pink head (Winter Form is canonically brown). Flagging as verify with qualification: the art reads as Spring Form coloring (pink blossom) in a winter setting — an artistic choice common in the TCG. IP is unambiguously Deerling regardless of which form is depicted.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Deerling is National Pokedex no. 585, a Normal/Grass type introduced in Generation V (Black and White, 2010). It has four seasonal forms — Spring, Summer, Autumn, and Winter — that change its fur color (pink, green, orange, brown respectively) and scent. Originally, form changed based on the Nintendo DS internal clock season setting; from Generation VI onward, only the Spring Form could be encountered in the wild in most games, with other forms obtainable via transfer or Pokemon GO. [WebSearch: Bulbapedia snippet]",
+      "sources": ["WebSearch: Bulbapedia snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Deerling's scent changes with its form: delicate and sweet in spring, grassy in summer, softly sweet in autumn, and no scent at all in winter. Its flavor text encodes its role as a natural calendar: 'The turning of the seasons changes the color and scent of this Pokemon's fur. People use it to mark the seasons.' [PokemonTCG.io: swsh6-11]",
+      "sources": ["PokemonTCG.io", "WebSearch: Bulbapedia snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'The turning of the seasons changes the color and scent of this Pokemon's fur. People use it to mark the seasons.' [PokemonTCG.io: swsh6-11]",
+      "sources": ["PokemonTCG.io"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The vision-pass notes pink-blossom head coloring (consistent with Spring Form) against a snowy winter background — an artistic juxtaposition. The Chilling Reign set's winter/cold theme may explain the snowy setting being applied to what appears to be a Spring-colored Deerling.",
+      "sources": ["PokemonTCG.io: swsh6-11 (card art context)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sawsbuck", "set": "various", "note": "Deerling's evolution; also has 4 seasonal forms including antler-blossom Spring and bare-antler Winter"},
+    {"name": "Castform Snowy Form", "set": "Chilling Reign", "note": "Co-seasonal forms-cycle Pokemon in the same set; shares forms-cycle tag"},
+    {"name": "Deerling (Spring Form)", "set": "various other prints", "note": "Other seasonal form prints"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

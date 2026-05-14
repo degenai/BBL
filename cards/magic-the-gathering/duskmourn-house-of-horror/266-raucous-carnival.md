@@ -10,12 +10,13 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
+characters: ["dsk-unlucky-lands-cycle"]
 tags_hub: ["carnival", "amusement-park", "circus", "big-top", "roller-coaster", "carousel", "abandoned-place", "haunted-house", "ruins", "graveyard", "cathedral", "sunset", "wildflowers"]
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "land", "dual-land", "red-magic", "white-magic", "multicolor-red-white", "no-face", "indoor-setting", "landscape-format"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/266-raucous-carnival.png
 average_cost_paid: 0
-market_price: 0.2
-market_price_as_of: 2026-05-12
+market_price: 0.23
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/3/6/3604a211-9bf7-474e-bd78-32a862f4259c.png?1726286867
@@ -72,3 +73,6 @@ A wide landscape view into a decaying amusement park trapped inside what appears
 - Neglected Manor (Duskmourn) — same cycle
 - Etched Cornfield (Duskmourn) — same cycle
 
+## Connections
+
+- [[257-bleeding-woods]] — Visual-iconography pair-bond within the [[dsk-unlucky-lands-cycle]]. Both cards independently use the same haunted-architecture-bleed device: ornate arched cathedral windows embedded into unexpected substrates (a colossal hall enclosing the amusement park here; gnarled tree trunks on Bleeding Woods) plus small upright headstone / grave-marker shapes scattered through the foreground field. The motif is co-present and load-bearing in both Vision sections and is NOT shared by the cycle's third corpus member Etched Cornfield (aerial crop-circle / cyan-rift register). Designer-coordinated haunted-vernacular-place iconography one register tighter than cycle membership alone. `[Vision: 266-raucous-carnival.md — three tall arched cathedral windows + headstone-like markers dotting foreground]` `[Vision: 257-bleeding-woods.md — embedded arched window frames + grave-marker stone surrounds + tombstone fragments scattered through underbrush]` `[Cycle anchor: cards/_characters/dsk-unlucky-lands-cycle.md]`

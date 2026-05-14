@@ -16,6 +16,20 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "23e546f16fd65670",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pokemon/champion-s-path/68-73-turffield-stadium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "68-73-turffield-stadium"
+            }
           }
         ]
       }
@@ -70,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,51 +195,51 @@
   },
   "active": "2f47d2ec7546c1fd",
   "lastOpenFiles": [
-    "_characters/galar-gym-challenge.md.tmp.19032.4db70fc54d62",
-    "_characters/galar-gym-challenge.md.tmp.19032.48211a9ef2eb",
-    "pokemon/vivid-voltage/154-185-leon--holofoil.md.tmp.19032.c23835b64fbb",
-    "magic-the-gathering/duskmourn-house-of-horror/159-trial-of-agony.md.tmp.19032.ec31d9c85bc5",
-    "magic-the-gathering/duskmourn-house-of-horror/266-raucous-carnival.md.tmp.19032.2aedcdb465c1",
-    "pokemon/rebel-clash/161-192-milo.md.tmp.19032.1ab7ae7c4973",
-    "pokemon/rebel-clash/161-192-milo.md.tmp.19032.95e156f5011a",
-    "pokemon/rebel-clash/161-192-milo.md.tmp.19032.653e6f9bc655",
-    "pokemon/vivid-voltage/157-185-nessa.md.tmp.19032.25eba715557a",
-    "pokemon/vivid-voltage/157-185-nessa.md.tmp.19032.fd7a83c64745",
-    "pokemon/vivid-voltage/157-185-nessa.md.tmp.19032.77e20dde4523",
-    "_characters/galar-gym-challenge.md",
-    "_characters/fear-of-cycle.md",
-    "magic-the-gathering/duskmourn-house-of-horror/190-moldering-gym-weight-room.md",
-    "magic-the-gathering/aetherdrift/252-blossoming-sands.md",
-    "weiss-schwarz/attack-on-titan/aot-s35-e079-c-tolerant-personality-marco.md",
-    "weiss-schwarz/attack-on-titan/aot-s35-e043-c-member-of-levi-squad-eld.md",
-    "magic-the-gathering/unstable/5-chivalrous-chevalier.md",
-    "magic-the-gathering/ultimate-masters/8-ulamog-s-crusher.md",
-    "magic-the-gathering/ultimate-masters/146-seismic-assault.md",
-    "magic-the-gathering/throne-of-eldraine/181-wicked-wolf.md",
-    "magic-the-gathering/throne-of-eldraine/246-idyllic-grange.md",
-    "magic-the-gathering/throne-of-eldraine/125-fires-of-invention.md",
-    "magic-the-gathering/throne-of-eldraine/4-ardenvale-paladin.md",
-    "magic-the-gathering/theros-beyond-death/2-archon-of-falling-stars.md",
-    "magic-the-gathering/shards-of-alara/no-num-esper-panorama.md",
-    "magic-the-gathering/ravnica-allegiance/243-azorius-guildgate-243.md",
-    "magic-the-gathering/oath-of-the-gatewatch/39-wall-of-resurgence.md",
-    "magic-the-gathering/oath-of-the-gatewatch/38-stoneforge-acolyte.md",
-    "magic-the-gathering/oath-of-the-gatewatch/35-spawnbinder-mage.md",
-    "magic-the-gathering/oath-of-the-gatewatch/34-shoulder-to-shoulder.md",
-    "magic-the-gathering/oath-of-the-gatewatch/33-searing-light.md",
-    "magic-the-gathering/oath-of-the-gatewatch/32-relief-captain.md",
-    "magic-the-gathering/oath-of-the-gatewatch/28-mighty-leap.md",
-    "magic-the-gathering/oath-of-the-gatewatch/27-makindi-aeronaut.md",
-    "magic-the-gathering/oath-of-the-gatewatch/26-make-a-stand.md",
-    "_images/magic-the-gathering/the-list/220-tamiyo-collector-of-tales.png",
-    "_images/magic-the-gathering/the-list/220-tamiyo-collector-of-tales--art.jpg",
-    "_images/magic-the-gathering/modern-horizons-3/72-tamiyo-meets-the-story-circle--art.jpg",
-    "_images/magic-the-gathering/modern-horizons-3/72-tamiyo-meets-the-story-circle.png",
-    "_images/magic-the-gathering/promo-pack-zendikar-rising/389-roil-eruption--art.jpg",
-    "_images/magic-the-gathering/promo-pack-throne-of-eldraine/115-bonecrusher-giant--foil--art.jpg",
-    "_images/magic-the-gathering/modern-horizons-3/185-faithful-watchdog--art.jpg",
-    "_images/magic-the-gathering/modern-horizons-3/185-faithful-watchdog.png",
-    "_images/magic-the-gathering/art-series-zendikar-rising/66-moraug-fury-of-akoum-art-card--art.jpg",
-    "_images/magic-the-gathering/aetherdrift/153-autarch-mammoth--art.jpg"
+    "_artists/dan-murayama-scott.md",
+    "_artists/dan-murayama-scott.md.tmp.199340.5d5fa1eedc12",
+    "magic-the-gathering/oath-of-the-gatewatch/24-kor-sky-climber.md.tmp.199340.283b51dcbd56",
+    "magic-the-gathering/zendikar-rising/14-farsight-adept--foil.md.tmp.199340.bda9fad1243c",
+    "magic-the-gathering/battle-for-zendikar/53-unified-front.md.tmp.199340.947d35639511",
+    "magic-the-gathering/battle-for-zendikar/47-shadow-glider.md.tmp.199340.3a8715f2afbe",
+    "magic-the-gathering/battle-for-zendikar/20-cliffside-lookout.md.tmp.199340.bad5bc725b3b",
+    "magic-the-gathering/battle-for-zendikar/24-expedition-envoy.md.tmp.199340.35ee0ddfc5a0",
+    "magic-the-gathering/battle-for-zendikar/33-kitesail-scout.md.tmp.199340.6ad099a3cb13",
+    "magic-the-gathering/battle-for-zendikar/36-kor-entanglers.md.tmp.199340.4676d7c0038c",
+    "magic-the-gathering/battle-for-zendikar/35-kor-castigator.md.tmp.199340.d20aa273e99a",
+    "_characters/kor.md",
+    "_characters/eldrazi.md",
+    "_images/magic-the-gathering/core-set-2019/183-giant-spider--art.jpg",
+    "_images/magic-the-gathering/core-set-2019/183-giant-spider.png",
+    "_images/magic-the-gathering/commander-dominaria-united/151-garna-the-bloodflame--art.jpg",
+    "_images/magic-the-gathering/commander-dominaria-united/151-garna-the-bloodflame.png",
+    "magic-the-gathering/commander-dominaria-united/151-garna-the-bloodflame.md",
+    "_images/magic-the-gathering/battle-for-zendikar/53-unified-front--art.jpg",
+    "_images/magic-the-gathering/battle-for-zendikar/53-unified-front.png",
+    "_images/magic-the-gathering/battle-for-zendikar/52-tandem-tactics--art.jpg",
+    "_images/magic-the-gathering/battle-for-zendikar/52-tandem-tactics.png",
+    "_images/magic-the-gathering/battle-for-zendikar/51-stone-haven-medic--art.jpg",
+    "_images/magic-the-gathering/battle-for-zendikar/51-stone-haven-medic.png",
+    "_symbols/manifest-dread.md",
+    "_characters/valgavoth.md",
+    "_symbols/suspect.md",
+    "_characters/kiora.md",
+    "_characters/angrath.md",
+    "_characters/chandra-nalaar.md",
+    "_characters/oko.md",
+    "_characters/agency.md",
+    "_characters/ral-zarek.md",
+    "_characters/izzet-league.md",
+    "_characters/phyrexia.md",
+    "_characters/kalos-aura-trio.md",
+    "pokemon/vivid-voltage/090-185-riolu.md",
+    "pokemon/brilliant-stars/078-172-riolu.md",
+    "pokemon/burning-shadows/70-147-riolu.md",
+    "pokemon/base-set-unlimited/46-charmander--moderately-played.md",
+    "pokemon/champion-s-path/68-73-turffield-stadium.md",
+    "pokemon/brilliant-stars/099-172-probopass.md",
+    "pokemon/rebel-clash/096-192-nosepass.md",
+    "weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e092-c-kaito-half-tights.md",
+    "_symbols/orzhov-signet.md",
+    "_symbols/single-strike-emblem.md"
   ]
 }

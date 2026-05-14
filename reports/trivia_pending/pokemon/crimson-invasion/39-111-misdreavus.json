@@ -1,0 +1,41 @@
+{
+  "card_name": "Misdreavus",
+  "game": "Pokemon",
+  "set": "Crimson Invasion",
+  "collector_number": "39/111",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Misdreavus. Card name, Psychic type, flavor text, and depicted figure (floating bodiless head, long dark flowing wisps, row of red spherical orb necklace) match canonical Misdreavus (National Pokedex no. 200). Identity unambiguous.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Misdreavus (National Pokedex no. 200) is based on the Nukekubi, a Japanese yokai consisting of a floating severed head that detaches from the body at night to attack victims. The design shares the Nukekubi's characteristic terrorizing-screech behavior. The red bead necklace is the card's most distinctive design element: the orbs function in-lore as sensory organs that absorb fear and convert it to nourishment. The beads also visually resemble red coral (Polish: koral), connecting to witchcraft traditions in Eastern European folklore. `[Bulbapedia: Misdreavus via WebSearch; pokecommunity.com Misdreavus origins thread via WebSearch]`",
+      "sources": ["Bulbapedia: Misdreavus (Pokemon) via WebSearch", "pokecommunity.com via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Misdreavus was the sole Ghost-type introduced in Generation II (Gold and Silver, 1999), added specifically to give the Ghost type a non-Poison dual-type option. It was also the only Ghost-type not in the original Kanto dex. It received an evolution, Mismagius, in Generation IV (Diamond and Pearl, 2006). `[Bulbapedia: Misdreavus via WebSearch]`",
+      "sources": ["Bulbapedia: Misdreavus (Pokemon) via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It will use any means necessary to frighten people and absorb their life energy. It practices constantly to hone its skill in causing fear.\" `[PokemonTCG.io API flavor_text field (sm4-39)]`",
+      "sources": ["PokemonTCG.io API (sm4-39)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The only attack on this card is Confuse Ray (Psychic), which inflicts the Confused condition on the opponent's Active Pokemon. Confusion is a single-target status that forces a coin flip on each of the opponent's attacks. Art by so-taro. `[PokemonTCG.io API (sm4-39)]`",
+      "sources": ["PokemonTCG.io API (sm4-39)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mismagius", "set": "various Diamond and Pearl era", "note": "Misdreavus evolution introduced in Gen IV"},
+    {"name": "Gengar", "set": "various", "note": "The other Ghost-type line from Generation I; Misdreavus was designed to differentiate Ghost from Poison dual-type"},
+    {"name": "Misdreavus (Gold and Silver era prints)", "set": "Neo Revelation / Neo Destiny", "note": "Original Gen II era prints"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

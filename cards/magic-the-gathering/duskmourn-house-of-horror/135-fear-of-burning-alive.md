@@ -15,8 +15,8 @@ tags_hub: ["fire", "skull", "demon", "nightmare", "horror", "horns", "souls", "b
 tags_filter: ["solo", "mid-shot", "action-mode", "three-quarter-facing", "creature-nightmare", "enchantment-creature", "red-magic", "mono-red", "no-face-human", "delirium"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/135-fear-of-burning-alive.png
 average_cost_paid: 0
-market_price: 0.24
-market_price_as_of: 2026-05-12
+market_price: 0.25
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/b/2/b282f8e3-8b79-47e9-8c18-62284211442b.png?1726286352
@@ -68,9 +68,11 @@ A horrifying nightmare-beast lunges forward through a vaulted stone passage that
 - Fear of Falling (Duskmourn: House of Horror, no. 56) — Blue Fear-of cycle member; anchored to [[fear-of-cycle]].
 - Fear of Failed Tests (Duskmourn: House of Horror, no. 55) — Blue Fear-of cycle member; anchored to [[fear-of-cycle]].
 - Fear of Isolation (Duskmourn: House of Horror, no. 58) — Blue Fear-of cycle member; expands cycle roster beyond corpus-anchored members. Candidate for orphan/archive write-up.
-- Fear of Surveillance (Duskmourn: House of Horror, no. 11) — White Fear-of cycle member; second white slot in the cycle alongside Abduction. Roster-expansion candidate.
-- Fear of the Dark (Duskmourn: House of Horror, no. 98) — Black Fear-of cycle member; the cycle's black slot. Roster-expansion candidate.
-- Fear of Infinity (Duskmourn: House of Horror, no. 214) — UB Fear-of cycle member; multicolor capstone of the cycle. Roster-expansion candidate.
+- Fear of Surveillance (Duskmourn: House of Horror, no. 11) — White Fear-of cycle member; alongside Abduction (no. 9) and Immobility (no. 10) in the three-card white block. Roster-expansion candidate.
+- Fear of Immobility (DSK no. 10), Fear of Impostors (DSK no. 57), Fear of Lost Teeth (DSK no. 97), Fear of Exposure (DSK no. 177) — additional cycle members surfaced by the wave 39 full-roster Scryfall pass; previously unsurveyed.
+- Fear of the Dark (Duskmourn: House of Horror, no. 98, **rare**) — Black Fear-of cycle member; one of three rares in the cycle (alongside Missing Out and Infinity). Roster-expansion candidate.
+- Fear of Missing Out (Duskmourn: House of Horror, no. 136, **rare**) — see above; corrected to rare-rarity per wave 39 roster pass.
+- Fear of Infinity (Duskmourn: House of Horror, no. 214, UB **rare**) — multicolor capstone of the cycle; one of three rares. Roster-expansion candidate.
 - Chainsaw (Duskmourn: House of Horror, no. 128) — Same artist (J.P. Targete) inside DSK; shares the saturated-red horror-interior visual register. Adjacent through artist, not cycle.
 - Arabella, Abandoned Doll (Duskmourn: House of Horror, no. 208) — Same artist (J.P. Targete) inside DSK. Adjacent through artist.
 

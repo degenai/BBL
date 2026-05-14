@@ -10,12 +10,13 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
+characters: ["oko"]
 tags_hub: ["faerie", "trickster", "fae-court", "rogue", "comic-relief", "wings", "fae", "blade", "flying", "fairy-tale", "courtly", "menace", "mischief", "assassin"]
 tags_filter: ["mid-shot", "portrait-mode", "2-figures", "three-quarter-facing", "creature-faerie", "blue-mono", "common", "duo", "blue-magic"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/310-oko-s-accomplices.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/7/1/71c52b50-35aa-4858-8c8e-c81dcb29a7fc.png?1572482736

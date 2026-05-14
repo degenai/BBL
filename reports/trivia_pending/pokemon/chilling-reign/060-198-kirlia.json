@@ -1,0 +1,42 @@
+{
+  "card_name": "Kirlia",
+  "game": "Pokemon",
+  "set": "Chilling Reign",
+  "collector_number": "060/198",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via PokemonTCG.io swsh6-60 name field. National Pokedex no. 281. Hoenn psychic-empath mid-form with dual evolution endpoint.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Kirlia (National Pokedex no. 281) is classified as the 'Emotion Pokemon.' Its balletic posture is canonical: Pokedex entries note that Kirlia dances when its Trainer is in a positive mood, and its psychic power intensifies when it experiences joy or happiness. The dancing pose is an expression of psychic activation, not merely decoration.",
+      "sources": ["Bulbapedia: Kirlia", "Pokemon Wiki: Kirlia"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It has a psychic power that enables it to distort the space around it and see into the future.\" Space-distortion as a psychic ability is unusual framing — more Arceus-adjacent than typical Psychic-type fare — and distinguishes Kirlia from the simpler emotion-sensing role of Ralts.",
+      "sources": ["PokemonTCG.io: swsh6-60"]
+    },
+    {
+      "category": "mechanical",
+      "text": "'Mirage Step' searches the deck for up to 3 Kirlia and benches them simultaneously — a mass-deployment attack with 0 damage output. In the Battle Styles / Chilling Reign format this enabled rapid setup of Gardevoir Stage-2 lines. The self-targeting search (finding copies of itself) is mechanically unusual — most search attacks find evolutions forward.",
+      "sources": ["PokemonTCG.io: swsh6-60 oracle text"]
+    },
+    {
+      "category": "design",
+      "text": "This card's evolvesTo field lists both Gardevoir and Gallade — one of the few Pokemon TCG cards where a single card evolves into two different Pokemon species. The fork is gender-gated in the mainline games (male-only Gallade) but in the TCG the Gallade branch simply requires the Gallade card.",
+      "sources": ["PokemonTCG.io: swsh6-60 evolvesTo"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ralts", "set": "Chilling Reign", "note": "direct pre-evolution, same set adjacency"},
+    {"name": "Gardevoir", "set": "various", "note": "final evolution, any gender"},
+    {"name": "Gallade", "set": "various", "note": "final evolution, male + Dawn Stone branch"},
+    {"name": "Kirlia", "set": "Burning Shadows", "note": "cross-print same stage (092/147)"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

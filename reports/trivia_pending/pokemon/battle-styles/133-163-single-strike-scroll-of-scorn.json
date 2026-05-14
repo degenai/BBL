@@ -1,0 +1,36 @@
+{
+  "card_name": "Single Strike Scroll of Scorn",
+  "game": "Pokemon",
+  "set": "Battle Styles",
+  "collector_number": "133/163",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No IP flag. Item card depicting a scroll artifact.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Battle Styles (March 19, 2021) introduced the Single Strike and Rapid Strike battle styles as the set's defining mechanic. Single Strike cards are color-coded red; Rapid Strike in blue. Single Strike Scroll of Scorn is one of the Tool cards designed to anchor Single Strike-style decks. [Pokemon.com: Battle Styles Single Strike and Rapid Strike announcement, via WebSearch; Bulbapedia: Battle Styles TCG, via WebSearch]",
+      "sources": ["Pokemon.com: Battle Styles Single Strike and Rapid Strike announcement", "Bulbapedia: Battle Styles TCG"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a Pokemon Tool, Scroll of Scorn grants the attached Single Strike Pokemon access to the Furious Anger attack (Fighting Energy, 10+ damage — plus 10 per damage counter on that Pokemon). The attack scales with damage taken, rewarding aggressive high-damage trades where the attacker is also taking hits. [Bulbapedia: Single Strike Scroll of Scorn (Battle Styles 133), via WebSearch; Pojo.com review, via WebSearch]",
+      "sources": ["Bulbapedia: Single Strike Scroll of Scorn (Battle Styles 133)", "Pojo.com: Single Strike Scroll of Scorn review"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by 5ban Graphics, the studio responsible for the majority of Pokemon TCG V and VMAX card art in the Sword & Shield era. The scroll aesthetic draws on Japanese martial arts imagery — a sealed scroll of techniques is a common device in fighting-arts lore signifying inherited knowledge or forbidden techniques. [Frontmatter artist field; Serebii TCG cardex]",
+      "sources": ["Frontmatter artist field", "Serebii TCG cardex"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Urn of Vitality", "set": "Battle Styles", "note": "Companion Single Strike item card in the same set — recovers Single Strike Energy from discard"},
+    {"name": "Single Strike Urshifu V", "set": "Battle Styles", "note": "Flagship Single Strike Legendary for the expansion"},
+    {"name": "Single Strike Energy", "set": "Battle Styles", "note": "The energy type Scroll of Scorn decks run; interacts with Urn of Vitality recovery"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

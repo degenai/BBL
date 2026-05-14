@@ -1,0 +1,42 @@
+{
+  "card_name": "Scorbunny",
+  "game": "Pokemon",
+  "set": "Chilling Reign",
+  "collector_number": "026/198",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Scorbunny,' National Pokedex no. 813, white rabbit with orange nose-pad marking — matches Scorbunny canonical design exactly. PokemonTCG.io confirms card name directly.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Scorbunny is National Pokedex no. 813, the Galar Fire starter introduced in Pokemon Sword and Shield (2019). It evolves into Raboot and then Cinderace. Along with Grookey and Sobble, it is one of the three first partner Pokemon of the Galar region. [PokemonTCG.io: swsh6-26; WebSearch: Bulbapedia snippet]",
+      "sources": ["PokemonTCG.io", "WebSearch: Bulbapedia snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Scorbunny's nose-pad marking is designed to resemble a bandage — a Japanese character-design trope indicating a rambunctious personality. Sword and Shield director Shigeru Ohmori stated this was intentional to convey a sense that it could run off or cause trouble. The Fire type may reference the high body temperature of real rabbits (100-103 F / 37-39 C) or Jataka tale no. 316, in which a rabbit jumps into fire as an offering and is not burned. [WebSearch: Bulbapedia snippet / Wikipedia snippet]",
+      "sources": ["WebSearch: Bulbapedia snippet", "WebSearch: Wikipedia snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'It has special pads on the backs of its feet, and one on its nose. Once it's raring to fight, these pads radiate tremendous heat.' [PokemonTCG.io: swsh6-26]",
+      "sources": ["PokemonTCG.io"]
+    },
+    {
+      "category": "mechanical",
+      "text": "This Chilling Reign print is a Single Strike subtype Basic — minimal attack (Headbutt, 20 damage for one Fire Energy), consistent with its role as a first-stage starter. The Single Strike banner matches Chilling Reign's dual-mechanic structure (Single Strike vs Rapid Strike). [PokemonTCG.io: swsh6-26]",
+      "sources": ["PokemonTCG.io"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Raboot", "set": "various", "note": "First evolution of Scorbunny"},
+    {"name": "Cinderace", "set": "various", "note": "Final evolution; Fire-type footballer rabbit"},
+    {"name": "Rillaboom", "set": "Chilling Reign", "note": "Co-starter Grass final stage; also in this set"},
+    {"name": "Grookey", "set": "various", "note": "Co-starter Grass base; same Galar trio"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

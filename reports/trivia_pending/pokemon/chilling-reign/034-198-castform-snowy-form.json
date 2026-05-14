@@ -1,0 +1,41 @@
+{
+  "card_name": "Castform Snowy Form",
+  "game": "Pokemon",
+  "set": "Chilling Reign",
+  "collector_number": "034/198",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Castform Snowy Form,' National Pokedex no. 351, small spherical white creature with snowflake-cloud head — matches Castform Snowy Form canonical design exactly. PokemonTCG.io confirms card name directly.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Chilling Reign (SWSH6) released June 18, 2021, in the Sword & Shield series — 233 cards total. The set is themed around the Crown Tundra and Ice Rider/Shadow Rider Calyrex legendaries, making Snowy Form Castform a thematically on-point inclusion. [PokemonTCG.io: set swsh6]",
+      "sources": ["PokemonTCG.io"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Castform (National Pokedex no. 351) was introduced in Generation III (Ruby/Sapphire, 2002). It is an artificial Pokemon whose cellular structure is chemically altered by temperature and humidity. Its Forecast Ability gives it four forms — Normal, Sunny, Rainy, and Snowy — each a different type matching its weather condition. The Snowy Form is Ice-type, triggered by hail or snow. [WebSearch: Bulbapedia snippet]",
+      "sources": ["WebSearch: Bulbapedia snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Weather Reading Ability on this card ('If you have 8 or more Stadium cards in your discard pile, ignore all Energy in this Pokemon's attack costs') translates Castform's weather-responsiveness into a Stadium-cycling mechanic — the TCG's closest analog to the in-game weather system. [PokemonTCG.io: swsh6-34]",
+      "sources": ["PokemonTCG.io"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'This is Castform's form when caught in a hailstorm. Its whole body is chilled, and its skin is partially frozen!' [PokemonTCG.io: swsh6-34]",
+      "sources": ["PokemonTCG.io"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Castform", "set": "Normal Form prints", "note": "Base form; same National Pokedex no. 351"},
+    {"name": "Castform Sunny Form", "set": "various", "note": "Fire-type form; part of the 4-form cycle"},
+    {"name": "Castform Rainy Form", "set": "various", "note": "Water-type form; part of the 4-form cycle"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -14,8 +14,8 @@ tags_hub: ["octopus", "cephalopod", "ocean", "beach", "sand", "tentacles", "smal
 tags_filter: ["solo", "close-up", "portrait-mode", "forward-facing", "no-face-human", "fighting-type", "basic-pokemon", "common", "single-figure", "centered-composition"]
 reference_image: cards/_images/pokemon/chilling-reign/091-198-clobbopus.png
 average_cost_paid: 0
-market_price: 0.16
-market_price_as_of: 2026-05-12
+market_price: 0.17
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 reference_image_source_url: https://images.pokemontcg.io/swsh6/91_hires.png

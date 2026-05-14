@@ -1,0 +1,27 @@
+{
+  "edge_id": "rolycoly-rbc105--carkol-rbc106--galar-coal-line-evolution-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/rebel-clash/105-192-rolycoly.md", "name": "Rolycoly (Rebel Clash 105/192)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/106-192-carkol.md", "name": "Carkol (Rebel Clash 106/192)"}
+  ],
+  "description": "Two card-endpoints, adjacent within-set, both equal nodes, both Galar coal-line — and both printed flavor texts are designer-stated statements of Pokemon-as-fuel-source. Rolycoly's body 'has the same composition as coal' and the species was 'first discovered in coal mines about 400 years ago'; Carkol 'forms coal inside its body' and the coal it drops 'once helped fuel the lives of people in the Galar region.' The line literally embodies the apparatus of coal extraction at the species level. UK-modeled Galar's Industrial Revolution period framing locked in canonical flavor text on both prints. Worth the mirror. The labor-as-extraction thesis is in the printed text, not editorial overlay — citing it costs nothing.",
+  "citations": [
+    "[Bulbapedia: Rolycoly (Pokemon) — National Pokedex no. 837, Rock-type, evolves to Carkol at level 18]",
+    "[Bulbapedia: Carkol (Pokemon) — National Pokedex no. 838, Rock/Fire, mid-stage, evolves to Coalossal at level 34]",
+    "[Bulbapedia: Coalossal (Pokemon) — National Pokedex no. 839, terminal stage, Rock/Fire]",
+    "[PokemonTCG.io API: swsh2-105 flavor_text — coal-body composition + 400-years-discovered-in-mines]",
+    "[PokemonTCG.io API: swsh2-106 flavor_text — internal coal formation + fueled the lives of Galar]"
+  ],
+  "files_modified": [
+    "cards/pokemon/rebel-clash/105-192-rolycoly.md",
+    "cards/pokemon/rebel-clash/106-192-carkol.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "Coalossal node-completion speculation — rejected; Coalossal is not in corpus. If Coalossal lands in any set in a future Collectr CSV upload, the third stage closes the line and a `galar-coal-line` cohort node may be warranted under the elemental-monkey-trio / castform-forms-cycle precedent at N=3 corpus prints. Surface in janitor_triage as a future-node candidate with trigger condition 'when Coalossal enters corpus'.",
+    "Lateral edge to Galar Mine (RBC-160) — strong candidate, deferred. Galar Mine is the location card depicting the extractive site; Rolycoly + Carkol are the species worked there. A 3-card stack edge (mine + basic + Stage-1) would be the right industrial-extraction triangle, but per the one-edge-per-invocation rule, the within-line evolution mirror was the right pick for this slot. Lateral connections noted in the Connections prose; future Edgelord pass can author the Galar Mine ↔ coal-line stack."
+  ]
+}

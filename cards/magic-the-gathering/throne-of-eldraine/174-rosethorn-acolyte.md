@@ -7,7 +7,7 @@ rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 2
+quantity: 3
 held_for_lair: 0
 bundles: []
 tags_hub: ["roses", "thorns", "druid", "acolyte", "robed-figure", "hooded-figure", "forest", "thicket", "flowers", "youth", "initiate", "fairytale"]
@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "female-fig
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/174-rosethorn-acolyte.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

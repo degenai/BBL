@@ -1,0 +1,41 @@
+{
+  "card_name": "Professor's Research (Professor Magnolia)",
+  "game": "Pokemon",
+  "set": "Champion's Path",
+  "collector_number": "62/73",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "PokemonTCG.io card name is explicitly 'Professor's Research (Professor Magnolia).' The Vision pass also notes 'The card title reads Professor Magnolia in small text at the top.' Both the API card name and the card's own printed text confirm identity. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Champion's Path (SWSH35) released September 25, 2020 in the Sword & Shield series — 80 cards total. It is a Galar-themed premium set tied to the gym challenge narrative of Pokemon Sword and Shield. [PokemonTCG.io: set swsh35]",
+      "sources": ["PokemonTCG.io"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Professor Magnolia is the regional Pokemon Professor of Galar, specializing in research into the Dynamax phenomenon. She is Sonia's grandmother; Sonia eventually earns the title of Pokemon Professor herself during the course of Sword and Shield. Magnolia gives the player the Dynamax Band at the start of the adventure. [WebSearch: Bulbapedia snippet; Pokemon Sword/Shield official site]",
+      "sources": ["WebSearch: Bulbapedia snippet", "WebSearch: swordshield.pokemon.com snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Professor's Research is one of the most played Supporter cards in the Pokemon TCG — a format staple equivalent to Ancestral Recall: discard your hand, draw 7 cards. The card has been printed with multiple professors (Magnolia, Juniper, Sada, Turo) across sets; all share the same effect text. [PokemonTCG.io: swsh35-62]",
+      "sources": ["PokemonTCG.io"]
+    },
+    {
+      "category": "design",
+      "text": "Of all the regional professors in Sword and Shield, Magnolia plays the least active role in the main story — she is present at the beginning and reappears after the player becomes Champion to award the Master Ball. Her granddaughter Sonia serves as the narrative-active researcher throughout the game. [WebSearch: Bulbapedia snippet]",
+      "sources": ["WebSearch: Bulbapedia snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Professor's Research (Professor Sonia)", "set": "Sword & Shield era", "note": "Same mechanic, Sonia variant — Magnolia's granddaughter"},
+    {"name": "Professor's Research (Professor Juniper)", "set": "various", "note": "Original Unova variant of the same mechanic"},
+    {"name": "Sonia", "set": "various", "note": "Magnolia's granddaughter and fellow Galar researcher"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -15,7 +15,7 @@ tags_filter: ["no-figures", "scene-mode", "wide-shot", "split-card", "two-panel"
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/190-moldering-gym-weight-room.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/2/4/245d5a61-c40c-4039-aea8-3ad61415b8f0.png?1726780702
@@ -28,6 +28,7 @@ oracle_text: When you unlock this door, search your library for a basic land car
 mood: horror
 time_of_day: twilight
 setting: indoor
+symbols: ["manifest-dread"]
 ---
 
 # Moldering Gym // Weight Room (Duskmourn: House of Horror)

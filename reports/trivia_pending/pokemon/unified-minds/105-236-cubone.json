@@ -1,0 +1,41 @@
+{
+  "card_name": "Cubone",
+  "game": "Pokemon",
+  "set": "Unified Minds",
+  "collector_number": "105/236",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches species name. Art depicts a small brownish creature wearing a white skull as a helmet — canonical Cubone design. PokemonTCG.io confirms card name 'Cubone', National Pokedex no. 104, Unified Minds (sm11-105). Identity confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cubone wears the skull of its dead mother as a helmet — one of the franchise's most cited examples of dark design. In the original Red and Blue, the backstory is made concrete in Lavender Town: a Marowak ghost haunts the Pokemon Tower because she was killed by Team Rocket while protecting her Cubone child; that specific ghost is Cubone's mother, and she prevents the player from ascending to the tower's top floor until the Silph Scope is obtained [Bulbapedia: Marowak (ghost), via WebSearch snippet].",
+      "sources": ["Bulbapedia: Marowak (ghost) (WebSearch snippet)", "PokemonTCG.io sm11-105"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text on this card (confirmed via PokemonTCG.io): 'At night, it weeps loudly for its dead mother, but those cries only attract its natural enemy — Mandibuzz.' [PokemonTCG.io sm11-105]",
+      "sources": ["PokemonTCG.io sm11-105"]
+    },
+    {
+      "category": "design",
+      "text": "National Pokedex no. 104. Cubone is a Ground-type from Generation I whose design has remained unchanged across every generation — the skull-helmet and bone weapon are its defining identifiers with no alternate forms. Artist for this printing is otumami [PokemonTCG.io sm11-105].",
+      "sources": ["PokemonTCG.io sm11-105"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Pokemon Let's Go Pikachu and Let's Go Eevee, the Lavender Town subplot is expanded: the player helps reunite the Cubone with its mother's ghost, after which Marowak's spirit departs peacefully without requiring a battle — a direct narrative resolution to the Gen I dark event [Bulbapedia: Marowak (ghost), via WebSearch snippet].",
+      "sources": ["Bulbapedia: Marowak (ghost) (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Marowak", "set": "various", "note": "Cubone's evolution — and canonically the species of the mother whose skull Cubone wears"},
+    {"name": "Mandibuzz", "set": "various", "note": "Cubone's natural enemy named in the flavor text on this card"},
+    {"name": "Cubone", "set": "Base Set", "note": "Original Gen I printing of the same species — the design that established the skull-helmet lore"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

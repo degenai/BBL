@@ -1,0 +1,36 @@
+{
+  "card_name": "Pupitar",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "087/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted rigid spiky blue-grey shelled cocoon creature with intense angled eyes matches Pupitar's canonical design exactly. National Pokedex no. 247. Rock/Ground-type. Stage 1 evolution from Larvitar. Confirmed via PokemonTCG.io API (swsh3-87).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Pupitar (National Pokedex no. 247) is a Rock/Ground-type Stage 1 Pokemon introduced in Generation II (Johto). It is the middle stage of the Larvitar → Pupitar → Tyranitar pseudo-legendary line. Tyranitar is Johto's pseudo-legendary (base stat total 600), making Pupitar the cocoon before that endpoint. [PokemonTCG.io API: swsh3-87; WebSearch snippet: pokemondb.net Pupitar]",
+      "sources": ["PokemonTCG.io API: swsh3-87", "WebSearch snippet: pokemondb.net Pupitar"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.\" — the TCG Rocket Evolution attack directly encodes this narrative: Pupitar can forcibly evolve itself mid-battle by blasting into Tyranitar. [PokemonTCG.io API: swsh3-87]",
+      "sources": ["PokemonTCG.io API: swsh3-87"]
+    },
+    {
+      "category": "design",
+      "text": "Larvitar was trivia'd in wave 11 for this archive. The DAA set contains Larvitar (DAA-086) and Pupitar (DAA-087) as sequential card numbers, continuing the line. The Tyranitar endpoint is absent from this set's main body — the line is left open, which the Rocket Evolution attack mechanically resolves if a Tyranitar is in the deck. [PokemonTCG.io API: swsh3-87; wave 11 Larvitar trivia cross-reference]",
+      "sources": ["PokemonTCG.io API: swsh3-87"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Larvitar", "set": "Darkness Ablaze", "note": "Pre-evolution; DAA-086, wave 11 trivia'd"},
+    {"name": "Tyranitar", "set": "Various", "note": "Final pseudo-legendary evolution (Rock/Dark); Pupitar's Rocket Evolution attack targets this card in the deck"},
+    {"name": "Larvitar", "set": "Various (multiple prints)", "note": "Base of pseudo-legendary line; first appeared in Gold & Silver"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

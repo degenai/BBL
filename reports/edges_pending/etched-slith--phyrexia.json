@@ -1,0 +1,17 @@
+{
+  "edge_id": "etched-slith--phyrexia",
+  "shape": "1:N",
+  "topology": "branch",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/phyrexia.md", "name": "Phyrexia"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/91-etched-slith.md", "name": "Etched Slith"}
+  ],
+  "description": "Roster extension. Card flavor *'The inherently adaptive bodies of the slith made them coveted subjects for compleation.'* — that is a designer-stamped Phyrexian-attribution line, no ambiguity. Slith is canonically a Mirrodin-native creature subtype returning under MH3's heavy New-Phyrexia-throwback brief. Wired card → phyrexia, added to phyrexia's appears_on and member-list. Bonus grep for additional MH3 Phyrexian-flavored anchors returned only the 3 already-known (Ironworks, Wurmcoil Larva, Etched Slith); MH3 has the throwback theme but my corpus's slice of it is currently capped at these three. No further roster extension beyond this card.",
+  "citations": ["[Scryfall: Etched Slith MH3-91 flavor_text]", "[MTG Wiki: Slith]"],
+  "files_modified": [
+    "cards/magic-the-gathering/modern-horizons-3/91-etched-slith.md",
+    "cards/_characters/phyrexia.md"
+  ],
+  "edgelord_mood": "blueballed-by-fanout"
+}

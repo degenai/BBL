@@ -1,0 +1,40 @@
+{
+  "card_name": "Milcery",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "086/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Milcery via PokemonTCG.io API card swsh2-86; National Pokedex no. 868, Fairy-type whipped-cream Pokemon introduced in Generation VIII (Pokemon Sword & Shield).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Milcery (National Pokedex no. 868) is a pure Fairy-type introduced in Generation VIII. Its body is made of cream; it evolves into Alcremie (no. 869), whose design is based on whipped-cream desserts decorated with sweet toppings.",
+      "sources": ["WebSearch: Bulbapedia Milcery snippet", "WebSearch: NintendoWire 'How to Evolve Milcery into All 63 Alcremie Forms'"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream.\"",
+      "sources": ["PokemonTCG.io API: swsh2-86 flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "Milcery has the most variation-rich evolution mechanic in the franchise. Alcremie has 63 distinct forms determined by: (1) spin direction (clockwise or counterclockwise), (2) spin duration (short, medium, long, or ultra-long), and (3) type of Sweet held (7 options: Berry, Clover, Flower, Love, Ribbon, Star, or Strawberry). This produces 9 cream colors × 7 sweet toppings = 63 forms.",
+      "sources": ["WebSearch: NintendoWire 'Pokémon Sword and Shield: How to Evolve Milcery into All 63 Alcremie Forms'", "WebSearch: GameWith 'Alcremie — How To Evolve From Milcery'"]
+    },
+    {
+      "category": "design",
+      "text": "This print is illustrated by Mina Nakai, who also illustrated the Hatenna print in the same set (RBC-083) — both are Sword & Shield-introduced Fairy-line basics placed in warm pastel settings.",
+      "sources": ["PokemonTCG.io API: swsh2-86 artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Alcremie", "set": "Rebel Clash or later sets", "note": "Final evolution; 63-form dessert Pokemon"},
+    {"name": "Hatenna", "set": "Rebel Clash", "note": "Same artist (Mina Nakai), same set, co-introduced SwSh Fairy-side species"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

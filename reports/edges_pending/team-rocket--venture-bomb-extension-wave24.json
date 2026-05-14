@@ -1,0 +1,22 @@
+{
+  "edge_id": "team-rocket--venture-bomb-extension-wave24",
+  "shape": "1:N",
+  "topology": "branch",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/team-rocket.md", "name": "Team Rocket (faction-collective character node)"},
+    {"type": "card", "path": "cards/pokemon/destined-rivals/179-182-team-rocket-s-venture-bomb.md", "name": "Team Rocket's Venture Bomb (Destined Rivals 179/182)"}
+  ],
+  "description": "Routine vision-pending-card-to-existing-node attachment. The team-rocket node body had already pre-named this card as the vision-pending Team-Rocket-affiliated extension (Destined Rivals 2025 returning-villain mechanic with the `Team Rocket's` named-prefix); wave 24 vision pass landed it cleanly with the canonical R-emblem-on-cartoon-bomb iconography rendered as faction-iconography-as-object (no figures, just the weapon as graphic identity). Frontmatter `characters: [team-rocket]` pointer wired + node `appears_on:` extended + node body's pending-vision bullet promoted into enriched-corpus bullet. Corpus stack thickens from 1 to 2 enriched. Blueballed-by-fanout: 1:N from the faction node, no card-to-card mirror, but the fan is justified because it's a faction-iconography card not a character-portrait card.",
+  "citations": [
+    "[PokemonTCG.io: sv10-179 — Team Rocket's Venture Bomb Item card, Toyste Beach art, Destined Rivals 2025]",
+    "[Bulbapedia: Destined Rivals (TCG) — returning-villain mechanic, Team Rocket's-prefix card cohort]",
+    "[Wave 24 vision pass: canonical R-emblem on black bomb badge, lit fuse glowing flame, plain background]"
+  ],
+  "files_modified": [
+    "cards/pokemon/destined-rivals/179-182-team-rocket-s-venture-bomb.md (added characters: pointer)",
+    "cards/_characters/team-rocket.md (appears_on extended + Cards-pending-vision bullet promoted to Cards-in-corpus enriched bullet)"
+  ],
+  "edgelord_mood": "blueballed-by-fanout",
+  "other_candidates_considered": []
+}

@@ -16,7 +16,7 @@ tags_filter: ["wide-shot", "scene-mode", "no-figures", "forward-facing", "backli
 reference_image: cards/_images/magic-the-gathering/aetherdrift/251-bloodfell-caves.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-10
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/4/9/49195d90-de0c-4290-aa1c-9f4d948b5521.png?1738356883

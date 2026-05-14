@@ -1,0 +1,31 @@
+{
+  "edge_id": "kagemaru-himeno--artist-node-proposal",
+  "shape": "node-proposal",
+  "topology": "branch",
+  "category": "shared-artist-thematic",
+  "endpoints": [
+    {"type": "artist", "path": "cards/_artists/kagemaru-himeno.md", "name": "Kagemaru Himeno"},
+    {"type": "card", "path": "cards/pokemon/crimson-invasion/35-111-emolga.md", "name": "Emolga (Crimson Invasion 35/111)"},
+    {"type": "card", "path": "cards/pokemon/burning-shadows/18-147-charmander.md", "name": "Charmander (Burning Shadows 18/147)"},
+    {"type": "card", "path": "cards/pokemon/burning-shadows/101-147-meowth.md", "name": "Meowth (Burning Shadows 101/147)"},
+    {"type": "card", "path": "cards/pokemon/unified-minds/18-236-steenee.md", "name": "Steenee (Unified Minds 18/236)"},
+    {"type": "card", "path": "cards/pokemon/brilliant-stars/023-172-torkoal.md", "name": "Torkoal (Brilliant Stars 023/172)"},
+    {"type": "card", "path": "cards/pokemon/brilliant-stars/036-172-prinplup.md", "name": "Prinplup (Brilliant Stars 036/172)"},
+    {"type": "card", "path": "cards/pokemon/vivid-voltage/023-185-charmander.md", "name": "Charmander (Vivid Voltage 023/185) — frontmatter currently MAHOU, cross-claim flagged"}
+  ],
+  "description": "I-I have to confess, sir, the corpus grep returned SIX unambiguous Himeno credits, not the two the brief named — Emolga (CIN-35), Charmander (BUS-18), Meowth (BUS-101), Steenee (UNM-18), Torkoal (BRS-023), Prinplup (BRS-036). That exceeds the Sanosuke Sakuma threshold (5) cleanly and approaches kirisAki (7). Combined with the franchise-tenure case — continuously credited since the 1996 Japanese Jungle set / 1999 English release, with 654+ TCG cards across every generation — this is the strongest single-illustrator node case the Pokemon side has surfaced so far. I propose cards/_artists/kagemaru-himeno.md. I also flagged one reconciliation item in Caveats: VIV-023 Charmander frontmatter stamps MAHOU but BUS-18 trivia asserts both Charmander prints are Himeno; that cross-claim needs a future triviabot or janitor pass to resolve. I-I'm sorry the candidate set turned out to be bigger than the brief expected. I think the node is correct.",
+  "citations": [
+    "[Bulbapedia: Kagemaru Himeno]",
+    "[Art of Pokemon (artofpkm.com): Kagemaru Himeno illustrator page]",
+    "[BBL corpus: Charmander BUS-18 wave 17 trivia pass]",
+    "[BBL corpus: Meowth BUS-101 wave 17 trivia pass]",
+    "[PokemonTCG.io: per-card artist stamping across 6 corpus prints]"
+  ],
+  "files_modified": [
+    "cards/_artists/kagemaru-himeno.md (new)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "VIV-023 Charmander artist-credit reconciliation — frontmatter says MAHOU, BUS-18 trivia says Himeno; deferred to a future triviabot or janitor pass rather than touched in this Mr. Nodeley pass."
+  ]
+}

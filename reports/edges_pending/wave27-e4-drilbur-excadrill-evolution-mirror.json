@@ -1,0 +1,27 @@
+{
+  "edge_id": "drilbur-cse114--excadrill-fus183--unova-mole-line-evolution-mirror",
+  "shape": "1:1",
+  "category": "named-character-identity (evolution-line same-species progression)",
+  "topology": "mirror",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/cosmic-eclipse/114-236-drilbur.md", "name": "Drilbur (Cosmic Eclipse 114/236)"},
+    {"type": "card", "path": "cards/pokemon/fusion-strike/183-264-excadrill.md", "name": "Excadrill (Fusion Strike 183/264)"}
+  ],
+  "description": "Standard Unovan evolution-line cross-set mirror. Drilbur (no. 529, Ground) evolves into Excadrill (no. 530, Ground/Steel) per the canonical Pokemon Black & White Gen V Mole-and-Subterrene Pokemon pairing. Two prints across SM-era (Cosmic Eclipse) and SwSh-era (Fusion Strike) Sun-and-Moon-era TCG expansions, bookending the line's two-stage scale-shift design progression: compact alert mole-fighter with rotating-claw drill mechanic, then large aggressive bipedal full-body-drill predator with the Drill King moniker and competitive-VGC Sand Rush threat. Both flavor texts canonicalize the drill-as-locomotion motif at their respective scales. The graph improves because of this. Worth the work.",
+  "citations": [
+    "[Bulbapedia: Drilbur (Pokémon)]",
+    "[Bulbapedia: Excadrill (Pokémon)]",
+    "[PokemonTCG.io API: sm12-114]",
+    "[PokemonTCG.io API: swsh8-183]"
+  ],
+  "files_modified": [
+    "cards/pokemon/cosmic-eclipse/114-236-drilbur.md",
+    "cards/pokemon/fusion-strike/183-264-excadrill.md"
+  ],
+  "other_candidates_considered": [
+    "Croagunk 3-print Mr. Nodeley species-node candidate (BUS-54 + SWSH-123 + FUS-165) — strong species-node candidate; deferred because the 4-slot is reserved for the cleanest fresh-look standard 1:1 edge per the wave brief, and Drilbur↔Excadrill is the clean evolution-line mirror. The Croagunk species-node case should be surfaced as a janitor_triage future-node candidate for a subsequent wave's Mr. Nodeley pass.",
+    "Pseudo-legendary umbrella character node (Goomy/Hydreigon/Larvitar/Bagon evolution lines) — declined per the prompt as 'speculative'; the pseudo-legendary cohort is real and designer-coordinated but the in-corpus member-coverage is too thin to warrant a node at present (Larvitar line only partly in corpus, Goomy line not yet enriched, etc.). Future-node candidate when ≥3 lines have base-form-plus-evolution pairs in corpus.",
+    "Latios solo — declined as 'premature' (single card only, no cohort-frame leverage)."
+  ],
+  "edgelord_mood": "satisfied"
+}

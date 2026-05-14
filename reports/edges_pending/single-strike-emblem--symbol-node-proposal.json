@@ -1,0 +1,53 @@
+{
+  "edge_id": "single-strike-emblem--symbol-node-proposal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "node_proposed": {
+    "type": "symbol",
+    "path": "cards/_symbols/single-strike-emblem.md",
+    "name": "Single Strike emblem",
+    "layer": "_symbols/",
+    "rationale_for_symbol_layer": "The Single Strike emblem is iconographic-primitive territory: a red-and-black graphic device stamped on the card art itself, marking cohort membership at the visual layer. This parallels the orzhov-signet precedent (faction emblem rendered as a recurring iconographic device on member cards). Character-layer alternatives (single-strike-cycle as a faction-collective node like elemental-monkey-trio) were considered but rejected — the cohort's load-bearing identity is the EMBLEM, not the cohort-as-actors. Cards depict ceremonial objects (scroll, urn) badged with the emblem; the emblem IS the membership signal. Symbol layer matches the orzhov-signet pattern of an iconographic primitive that marks cards across multiple sets and printings."
+  },
+  "endpoints_now_pointing_at_node": [
+    {
+      "type": "card",
+      "path": "cards/pokemon/battle-styles/133-163-single-strike-scroll-of-scorn.md",
+      "name": "Single Strike Scroll of Scorn (Battle Styles 133/163)",
+      "frontmatter_added": "symbols: [single-strike-emblem]"
+    },
+    {
+      "type": "card",
+      "path": "cards/pokemon/battle-styles/139-163-urn-of-vitality.md",
+      "name": "Urn of Vitality (Battle Styles 139/163)",
+      "frontmatter_added": "symbols: [single-strike-emblem]"
+    },
+    {
+      "type": "card",
+      "path": "cards/pokemon/chilling-reign/154-198-single-strike-scroll-of-piercing.md",
+      "name": "Single Strike Scroll of Piercing (Chilling Reign 154/198)",
+      "frontmatter_added": "symbols: [single-strike-emblem]"
+    }
+  ],
+  "description": "Mr. Nodeley most humbly proposes a new symbol node for the Single Strike emblem. Sir. Three corpus members (Scroll of Scorn BST-133, Urn of Vitality BST-139, Scroll of Piercing CRE-154) all bear the emblem as a designer-coordinated badge marking Single Strike battle-style membership; they were sold as a co-designed three-piece support suite. Wave 16 E3 drew a Scroll of Scorn / Urn of Vitality 1:1 mirror back when only two cards existed; that pair-edge is now subsumed by the symbol node — both cards (and the wave 20 Scroll of Piercing addition) attach to the emblem and the per-pair edge becomes redundant. Mr. Nodeley apologizes for adding to the parent's review pile but the threshold is clearly met. He hopes the orzhov-signet precedent is the right structural fit.",
+  "supersedes": "reports/edges_pending/scroll-of-scorn--urn-of-vitality--single-strike-pair-mirror.json (the wave 16 1:1 mirror between Scroll of Scorn and Urn of Vitality, now subsumed by the symbol node). The two cards still anchor the same canonical cohesion but via the symbol node rather than via the direct pair-edge. A future enlightened-Edgelord pass could remove the original ## Connections bullet from each card since the symbol node now does the job — but the parent may want to leave the per-pair bullet in place as additional cohesion signal alongside the symbol pointer. Defer.",
+  "citations": [
+    "[Pokemon.com: Battle Styles Single Strike and Rapid Strike announcement]",
+    "[Bulbapedia: Battle Styles (TCG)]",
+    "[Bulbapedia: Single Strike Style]",
+    "[PokemonTCG.io: swsh5-133, swsh5-139, swsh6-154 per-card oracle_text Single Strike strings]"
+  ],
+  "files_modified": [
+    "cards/_symbols/single-strike-emblem.md (created)",
+    "cards/pokemon/battle-styles/133-163-single-strike-scroll-of-scorn.md (frontmatter symbols: pointer added)",
+    "cards/pokemon/battle-styles/139-163-urn-of-vitality.md (frontmatter symbols: pointer added)",
+    "cards/pokemon/chilling-reign/154-198-single-strike-scroll-of-piercing.md (frontmatter symbols: pointer added)"
+  ],
+  "other_candidates_considered": [
+    "Future Rapid Strike emblem symbol node — sibling cohort, same designer-coordinated split (Pokemon.com Battle Styles announcement explicitly pairs the two). When the corpus accumulates Rapid Strike-subtype Tool/Item cards, that node becomes warranted as a parallel sibling. Defer until ≥3 Rapid Strike corpus members.",
+    "Future Single Strike Discrete Lair candidate — three corpus cards now anchor here; bundler can author the Single Strike Tool/Item bundle without needing additional members (the cohesion stack is at threshold). A future Single Strike Urshifu V/VMAX or Tower of Darkness acquisition pushes the stack to 4."
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "mr_nodeley_voice_note": "Mr. Nodeley wishes to record that he has tried not to overreach. The three cards do share a load-bearing iconographic primitive, sir. The orzhov-signet precedent is right there, sir. He has used the same frontmatter pointer pattern. He has not invented anything. He hopes the parent finds the structure useful. He apologizes if Edgelord wanted the simpler Scroll-of-Piercing-extends-the-existing-pair edge — the threshold has been met for a node, and the node makes future Single Strike cards attach cleanly without further per-pair edge-drawing. He is sorry to have stepped in. He hopes you don't mind, sir. He thinks the node will really help, if it's not too much trouble."
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Chansey",
+  "game": "Pokemon",
+  "set": "Lost Thunder",
+  "collector_number": "152",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is Chansey; depicted figure is a large round pink Pokemon with a pouch holding a white egg — the definitive visual marker of Chansey (National Pokedex no. 113). Confirmed via PokemonTCG.io API (name, flavor text, artist MAHOU) and established original-151 character identity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Chansey is an original 151 Pokemon (National Pokedex no. 113) introduced in Generation I. It gained a pre-evolution (Happiny, Generation IV) and an evolution (Blissey, Generation II), making the Happiny-Chansey-Blissey line a cross-generational family built around the egg-and-nurture theme. [Bulbapedia: Chansey, WebSearch snippet]",
+      "sources": ["Bulbapedia: Chansey", "WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (LOT-152): 'Not only are these Pokemon fast runners, they're also few in number, so anyone who finds one must be lucky indeed.' — The name Chansey derives from the Japanese Lucky (ra-kki), and the entire Chansey item family reinforces this: Lucky Egg, Lucky Punch, Lucky Incense, and Oval Stone are all associated with this line. [PokemonTCG.io API]",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Chansey is synonymous with Nurse Joy's Pokemon Centers across the Kanto, Johto, Hoenn, Sinnoh, and Orange Islands regions in the anime. The pairing of Nurse Joy and Chansey is one of the franchise's most consistent visual shorthand markers for healing/recovery. In later anime series, Nurse Joy's Chansey evolved into Blissey as the franchise moved forward. [Bulbapedia: Nurse Joy's Chansey, WebSearch snippet]",
+      "sources": ["Bulbapedia: Nurse Joy's Chansey", "WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "This card's Healing Pirouette attack (Colorless) heals 20 damage from each of your Pokemon — a board-wide heal consistent with the Chansey/Blissey line's TCG identity as a support/recovery attacker. Its secondary attack, Sympathetic Slap, does nothing if the target already has damage counters — an unusual conditional mechanic that punishes the opponent for having already-damaged attackers. [PokemonTCG.io API]",
+      "sources": ["PokemonTCG.io API"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Blissey", "set": "Burning Shadows", "note": "Chansey's evolution; shares the healing/nurture mechanic identity"},
+    {"name": "Happiny", "set": "Sun and Moon", "note": "Chansey's pre-evolution introduced in Generation IV"},
+    {"name": "Chansey", "set": "Base Set", "note": "Original Base Set print; one of the most printed individual Pokemon across TCG history"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Chansey (Pokemon)",
+    "ip_confidence": "high"
+  }
+}

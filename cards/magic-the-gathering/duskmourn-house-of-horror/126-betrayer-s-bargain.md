@@ -15,7 +15,7 @@ tags_filter: ["group", "mid-shot", "narrative-mode", "three-quarter-facing", "re
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/126-betrayer-s-bargain.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/7/9/7956ae00-8f0c-48f0-8110-19ff53863876.png?1726286318
@@ -32,6 +32,7 @@ setting: indoor
 suspected_ip: Winter (MTG Duskmourn story character)
 ip_confidence: high
 ip_verified: true
+characters: ["valgavoth"]
 ---
 
 # Betrayer's Bargain (Duskmourn: House of Horror)

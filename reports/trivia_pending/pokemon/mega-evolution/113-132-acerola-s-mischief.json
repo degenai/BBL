@@ -1,0 +1,36 @@
+{
+  "card_name": "Acerola's Mischief",
+  "game": "Pokemon",
+  "set": "Mega Evolution",
+  "collector_number": "113/132",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card is explicitly named 'Acerola's Mischief' — the possessive naming convention in the Pokemon TCG (same pattern as Cynthia's Ambition, Misty's Determination) directly identifies Acerola as the depicted trainer. The art depicts a small figure with short purple hair in dark clothing with a playful pose, consistent with Acerola's canonical appearance as Ghost-type Trial Captain on Ula'ula Island. Confirmed via PokemonTCG.io API card name and official Pokemon.com TCG database.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Acerola's Mischief (card 113/132) is the regular Uncommon print from the English Mega Evolution set (ME01), which released September 26, 2025. It originated in the Japanese Mega Symphonia expansion (released August 2025). The set also includes a Full Art (165/132) and Special Illustration Rare (183/132) print of the same card — the SIR is illustrated by sui, while the regular and Full Art variants are attributed to Yuu Nishida. [TCGPlayer: ME01 Mega Evolution, PokeBeach: Mega Brave/Mega Symphonia announcement]",
+      "sources": ["TCGPlayer", "PokeBeach"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Acerola is the Trial Captain of the abandoned Thrifty Megamart on Ula'ula Island in Pokemon Sun and Moon, specializing in Ghost-type Pokemon. Her trial challenges players to photograph Gastly, Haunter, Gengar, and Totem Mimikyu. She later joins the Alola Elite Four. [Bulbapedia: Acerola, WebSearch snippet]",
+      "sources": ["Bulbapedia: Acerola", "WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's Supporter effect — usable only when the opponent has 2 or fewer Prize cards remaining — prevents all damage and effects to one of your Pokemon during the opponent's next turn. The late-game restriction is thematic with the 'Mischief' framing: a last-moment trick deployed when cornered. No flavor text on this card. [PokemonTCG.io API]",
+      "sources": ["PokemonTCG.io API"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Acerola", "set": "Burning Shadows", "note": "Earlier Acerola Supporter card — same character, different effect (return damaged Pokemon to hand)"},
+    {"name": "Mimikyu", "set": "Lost Thunder", "note": "Totem Mimikyu is the boss Pokemon of Acerola's trial at the abandoned Thrifty Megamart"},
+    {"name": "Palossand", "set": "Sun and Moon", "note": "Acerola's signature Ghost-type Pokemon in the anime and Elite Four role"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Acerola (Pokemon Sun and Moon)",
+    "ip_confidence": "high"
+  }
+}

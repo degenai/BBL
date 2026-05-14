@@ -1,0 +1,35 @@
+{
+  "card_name": "Bird Keeper",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "159/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "suspected_ip is 'Bird Keeper (Pokemon Trainer class)' — this is a named recurring NPC class, not a specific individual character. The card name is 'Bird Keeper'; Bulbapedia confirms Bird Keeper is a Trainer class debuting in Generation I, specializing in Flying-type bird Pokemon. The depicted figure (trainer in cap and apron carrying a bird cage) matches the canonical Bird Keeper class design — notably male-coded, which aligns with the Gen I-VIII general design outside Diamond/Pearl. Verification of the Trainer class identity is unambiguous. ip_confidence elevated from med to high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Bird Keeper is a recurring Trainer class that debuted in Generation I (Red & Blue, 1996), making it one of the oldest NPC classes in the series. The class specializes in Flying-type bird-based Pokemon. Aside from Diamond, Pearl, Platinum, and their remakes (where they are depicted as female), Bird Keepers are generally depicted as young men carrying bird cages — consistent with this card's art. [WebSearch: Bulbapedia/Bird Keeper Trainer class]",
+      "sources": ["Bulbapedia via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a Supporter, Bird Keeper switches the player's Active Pokemon with a Benched Pokemon and draws 3 cards if the switch occurs. The regulation mark D indicates it was Standard-legal during the Sword & Shield era rotation. Illustrated by Hideki Ishikawa. [PokemonTCG.io API: swsh3-159]",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Notable recurring Bird Keeper NPCs across the anime include Wilbur (from the Fly Me to the Moon episode, who raises Spearow) and Wings Alexander (from Throwing in the Noctowl). In Pokemon GO, 'Bird Keeper' is also an achievement medal for catching at least 10 Flying-type Pokemon. [WebSearch: Bulbapedia/Bird Keeper Trainer class]",
+      "sources": ["Bulbapedia via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Skyla", "set": "multiple", "note": "Galar-era Flying-specialist Gym Leader Supporter — thematic peer"},
+    {"name": "Winona", "set": "multiple", "note": "Hoenn Flying-type Gym Leader with Bird Keeper aesthetic overlap"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

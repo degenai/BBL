@@ -1,0 +1,45 @@
+{
+  "card_name": "Lunatone",
+  "game": "Pokemon",
+  "set": "Burning Shadows",
+  "collector_number": "68/147",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, National Pokedex no. 337, crescent-moon body with single red eye, Hoenn Rock/Psychic type — all match Lunatone canonical design unambiguously. PokemonTCG.io confirms card name 'Lunatone' directly.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Burning Shadows (SM3) released August 5, 2017, in the Sun & Moon series — 177 cards total. The set name references the shadow-organization Team Skull and the Ultra Beasts threatening Alola. [PokemonTCG.io: set swsh3]",
+      "sources": ["PokemonTCG.io"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Lunatone carries National Pokedex no. 337. It was introduced in Generation III (Ruby/Sapphire, 2002) and classified as the 'Meteorite Pokemon,' a Rock/Psychic type discovered at a location where a meteorite fell roughly 40 years before the events of the games. [WebSearch: Bulbapedia via snippet]",
+      "sources": ["WebSearch: Bulbapedia snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Lunatone was version-exclusive to Pokemon Sapphire (found in Meteor Falls), while its counterpart Solrock was Ruby-exclusive. Both share the 'Meteorite Pokemon' species classification, encoding the sun/moon version duality into a single lore origin. [WebSearch: pokemondb.net / Bulbapedia snippet]",
+      "sources": ["WebSearch: pokemondb.net snippet", "WebSearch: Bulbapedia snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "This card's Heal Block Ability ('If you have Solrock in play, Pokemon (both yours and your opponent's) can't be healed') is mechanically paired with Solrock's reciprocal Ability — each card requires its counterpart to activate, encoding the version-counterpart bond directly into gameplay. [PokemonTCG.io: sm3-68]",
+      "sources": ["PokemonTCG.io"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.' [PokemonTCG.io: sm3-68]",
+      "sources": ["PokemonTCG.io"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Solrock", "set": "Darkness Ablaze (DAA-092)", "note": "Mechanically paired counterpart — Heal Block and Resistance Shade Abilities each require the other to be in play; Ruby-version counterpart to Lunatone's Sapphire exclusivity"},
+    {"name": "Lunatone", "set": "other prints", "note": "Multiple printings across the TCG; BUS-68 is the Sun & Moon era version"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

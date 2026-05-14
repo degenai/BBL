@@ -1,0 +1,45 @@
+{
+  "card_name": "Deoxys",
+  "game": "Pokemon",
+  "set": "Fusion Strike",
+  "collector_number": "120/264",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, art, and species confirmed as Deoxys Normal Forme via PokemonTCG.io API (swsh8-120). Internal Pokemon IP — no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Holo Rare in Fusion Strike (SWSH8, November 12, 2021), the largest Sword and Shield expansion at 264 base-set cards. The set introduced the Fusion Strike battle style mechanic alongside existing Single Strike and Rapid Strike.",
+      "sources": ["PokemonTCG.io API swsh8-120", "pokellector.com Fusion Strike set page"]
+    },
+    {
+      "category": "design",
+      "text": "Deoxys (National Pokedex no. 386) introduced in Generation III. Name derives from deoxyribonucleic acid (DNA). Design Easter egg: initial letters of its three debut formes — Defense, Normal, Attack — spell DNA. Central body crystal and chromosome-like silhouette reinforce the double-helix motif.",
+      "sources": ["Bulbapedia Deoxys via WebSearch snippet", "pokemondb.net Deoxys"]
+    },
+    {
+      "category": "design",
+      "text": "Deoxys has four distinct formes — Normal, Attack, Defense, Speed — each with meaningfully different base stats. Attack Forme peaks at 504 in both Attack and Special Attack. This Fusion Strike print depicts Normal Forme: the balanced, foundational expression of the species.",
+      "sources": ["Bulbapedia Deoxys via WebSearch snippet", "PokemonTCG.io API swsh8-120"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Deoxys originated as a space virus whose DNA mutated upon exposure to a laser beam. It appears where auroras are seen — the swirling purple-blue aurora backdrop on this print directly illustrates that Pokedex lore.",
+      "sources": ["PokemonTCG.io API swsh8-120 flavor_text field"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"DNA from a space virus mutated and became a Pokemon. It appears where auroras are seen.\"",
+      "sources": ["PokemonTCG.io API swsh8-120"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Deoxys", "set": "EX Deoxys", "note": "Original TCG debut set named for the species (2005)"},
+    {"name": "Deoxys VMAX", "set": "Chilling Reign", "note": "Modern high-rarity Deoxys print; Attack Forme variant"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

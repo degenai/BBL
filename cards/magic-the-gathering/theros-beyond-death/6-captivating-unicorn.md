@@ -14,8 +14,8 @@ tags_hub: ["unicorn", "horse", "horn", "moon", "moonlight", "forest", "night", "
 tags_filter: ["solo", "mid-shot", "faces-left", "portrait-mode", "creature-enchantment", "white-magic", "rim-light", "no-face", "creature-unicorn"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/6-captivating-unicorn.png
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-12
+market_price: 0.18
+market_price_as_of: 2026-05-13
 date_added: 2026-05-05
 last_seen: 2026-05-12
 art_match_confidence: high

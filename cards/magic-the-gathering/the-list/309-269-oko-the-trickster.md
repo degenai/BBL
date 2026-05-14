@@ -10,12 +10,13 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["oko"]
 tags_hub: ["planeswalker", "fae", "trickster", "antlers", "stag", "horned-figure", "forest", "night", "magic", "spellcasting", "shirtless-figure", "mischief", "wilderness"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "male-figure", "green-magic", "blue-magic", "multicolor-green-blue", "planeswalker-card", "legendary"]
 reference_image: cards/_images/magic-the-gathering/the-list/309-269-oko-the-trickster.png
 average_cost_paid: 0
-market_price: 0.9
-market_price_as_of: 2026-05-12
+market_price: 0.91
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

@@ -14,8 +14,8 @@ tags_hub: ["boar", "pig", "forest", "mushroom", "fungi", "truffle", "foraging", 
 tags_filter: ["solo", "mid-shot", "three-quarter", "creature-boar", "green-magic", "no-figure", "scene-mode", "daytime", "ground-level"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/212-trufflesnout.png
 average_cost_paid: 0
-market_price: 0.11
-market_price_as_of: 2026-05-12
+market_price: 0.13
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/8/b/8bba47c1-a874-456e-bea3-e99e2d61cfba.png?1594737296

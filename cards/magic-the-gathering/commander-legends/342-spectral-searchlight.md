@@ -14,8 +14,8 @@ tags_hub: ["lantern", "light", "artifact-object", "ceremonial", "gift", "coopera
 tags_filter: ["no-figure", "no-face", "object-only", "close-up", "abstract-mode", "monochrome-palette", "sepia", "artifact", "colorless-magic", "mana-fixing"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/342-spectral-searchlight.png
 average_cost_paid: 0
-market_price: 0.25
-market_price_as_of: 2026-05-12
+market_price: 0.26
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

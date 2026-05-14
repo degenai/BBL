@@ -14,8 +14,8 @@ tags_hub: ["giant", "beanstalk", "fairy-tale", "plant-creature", "forest", "grow
 tags_filter: ["solo", "wide-shot", "scene-mode", "three-quarter", "no-face-clear", "creature-giant", "green-magic", "adventure-card", "uncommon"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/149-beanstalk-giant.png
 average_cost_paid: 0
-market_price: 0.33
-market_price_as_of: 2026-05-12
+market_price: 0.32
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

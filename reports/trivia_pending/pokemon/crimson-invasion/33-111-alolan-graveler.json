@@ -1,0 +1,41 @@
+{
+  "card_name": "Alolan Graveler",
+  "game": "Pokemon",
+  "set": "Crimson Invasion",
+  "collector_number": "33/111",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, artist credit, flavor text, and type all match the canonical Alolan Graveler (National Pokedex no. 75, Alolan form). Rock/Electric typing confirmed via PokemonTCG.io API. Flavor text verbatim match to SM-era Pokedex entry. Depicted figure matches all canonical visual identifiers: dark blue-grey body, dravite crystal outcroppings, horseshoe-shaped magnetic brow. Identity is unambiguous.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Alolan Graveler is part of the Crimson Invasion expansion (Sun and Moon series, released November 3, 2017), the fourth main Sun and Moon set. The set card list includes the full Alolan Geodude evolutionary line: Alolan Geodude, Alolan Graveler (no. 33/111, Uncommon), and Alolan Golem-GX (no. 34/111, with additional Ultra Rare and Secret Rare versions). [PokemonTCG.io API; pokellector.com Crimson Invasion set list]",
+      "sources": ["PokemonTCG.io API (sm4-33)", "pokellector.com Crimson Invasion"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Alolan form of the Geodude line switches the standard Rock/Ground typing to Rock/Electric, a change attributed in-game to the Alolan diet of dravite — a mineral whose consumption causes crystals to form on the body and grants electrical properties. The flavor text on this card reads verbatim: 'Its preferred food is dravite. After it has eaten this mineral, crystals form inside the Pokemon, rising to the surface of part of its body.' [PokemonTCG.io API flavor_text; Bulbapedia Graveler entry via WebSearch]",
+      "sources": ["PokemonTCG.io API (sm4-33)", "Bulbapedia: Graveler (Pokemon) via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "The Alolan Geodude line's design appears to reference a thunderegg (a type of volcanic geode with crystalline interior), fitting Alola's volcanic island setting. The magnetic iron sand concentrated above Alolan Graveler's eyes, giving the appearance of a thick brow, is a design element tied to the rock's electromagnetic properties. [Bulbapedia: Graveler (Pokemon) via WebSearch; pokewalls.wordpress.com Alolan Graveler entry via WebSearch]",
+      "sources": ["Bulbapedia: Graveler (Pokemon) via WebSearch", "pokewalls.wordpress.com via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's Self-Destruct attack deals 100 damage to the opponent but also 100 damage to itself — a high-risk finisher move. This card was illustrated by kirisAki. [PokemonTCG.io API (sm4-33)]",
+      "sources": ["PokemonTCG.io API (sm4-33)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Alolan Geodude", "set": "Crimson Invasion", "note": "Pre-evolution; same set, same evolutionary line"},
+    {"name": "Alolan Golem-GX", "set": "Crimson Invasion", "note": "Final evolution; same set, card no. 34/111 directly adjacent"},
+    {"name": "Alolan Grimer", "set": "prior wave", "note": "Second Alolan-form card in corpus — Nodeley threshold candidate for alolan-regional-forms.md"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

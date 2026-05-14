@@ -1,0 +1,41 @@
+{
+  "card_name": "Orbeetle",
+  "game": "Pokemon",
+  "set": "Battle Styles",
+  "collector_number": "065/163",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed. Orbeetle is a Game Freak-internal species (National Pokedex no. 826, Generation VIII, Galar). Stage 2 Bug/Psychic type, final form of Blipbug > Dottler > Orbeetle. No external IP concern.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Orbeetle is National Pokedex no. 826, a dual Bug/Psychic type introduced in Generation VIII (Galar). It is the Stage 2 final evolution of Blipbug > Dottler > Orbeetle, leveling from Dottler at level 30. [Pokemondb.net: Orbeetle, via WebSearch; Bulbapedia: Orbeetle, via WebSearch]",
+      "sources": ["Pokemondb.net: Orbeetle", "Bulbapedia: Orbeetle"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (this print): \"It emits psychic energy to observe and study what's around it—and what's around it can include things over six miles away.\" [Frontmatter flavor_text field, PokemonTCG.io]",
+      "sources": ["Frontmatter flavor_text (PokemonTCG.io source)"]
+    },
+    {
+      "category": "design",
+      "text": "Orbeetle's design draws from the ladybug (Coccinella septempunctata) for its spotted shell, and from UFO / alien stereotypes for its oversized orb and mind-control abilities. Its Gigantamax form enlarges the orb into a flying-saucer silhouette — an explicit alien-ship reference in official Pokedex text. [Pokemon GO Hub: Orbeetle Lore and Design, via WebSearch]",
+      "sources": ["Pokemon GO Hub: Orbeetle Lore and Design"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Evomancy attack on this card (search deck for a Stage 2 Pokemon per Energy attached) is one of the most strategically unusual attacks in the Sword & Shield era — it lets you bypass the evolution chain and place fully evolved Stage 2s directly on the bench. Pokemon.com featured it in a Triple Play deckbuilding article at set launch. [Pokemon.com: Triple Play featuring Orbeetle BST, via WebSearch]",
+      "sources": ["Pokemon.com: Triple Play Orbeetle BST"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Blipbug", "set": "Multiple", "note": "Stage 1 base of Orbeetle's line"},
+    {"name": "Dottler", "set": "Multiple", "note": "Stage 1 intermediate of Orbeetle's line"},
+    {"name": "Orbeetle VMAX", "set": "Darkness Ablaze", "note": "VMAX version in the same Sword & Shield generation; Gigantamax form with flying-saucer design"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

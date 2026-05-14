@@ -1,0 +1,42 @@
+{
+  "card_name": "Siebold",
+  "game": "Pokemon",
+  "set": "Chilling Reign",
+  "collector_number": "153/198",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Siebold'; depicted figure (single figure in white chef/formal attire with blue accents, open field) matches the canonical Kalos Elite Four Water-type specialist who is also a renowned chef. Verified via card name, Bulbapedia, and Serebii character entries.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Siebold is one of the four Elite Four members of the Kalos Pokemon League in Pokemon X and Y (Gen 6, 2013), specializing in Water-type Pokemon. His fellow Elite Four members are Malva (Fire), Wikstrom (Steel), and Drasna (Dragon). Malva was later revealed to be a Team Flare operative, a notable story beat in the X/Y narrative. [Bulbapedia: Siebold; TV Tropes: Pokemon X and Y characters; via WebSearch]",
+      "sources": ["Bulbapedia: Siebold (via WebSearch)", "WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Beyond the Elite Four, Siebold operates a high-end restaurant in Lumiose City. He views battling as a culinary art form — treating each fight as a chef treating cuisine — and is described as solitary, standoffish, and deeply contemplative. [Serebii.net: Siebold anime profile; Bulbapedia: Siebold; via WebSearch]",
+      "sources": ["Serebii.net: Siebold (via WebSearch)", "Bulbapedia: Siebold (via WebSearch)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Chilling Reign Siebold card (153/198) is a Rapid Strike Supporter that heals 60 damage from up to 2 Rapid Strike Pokemon. Community assessment found the 60-HP heal underwhelming for the competitive meta of its Standard period, where Pokemon hit for much higher damage thresholds. Full Art version (198/198) and Rainbow Rare (221/198) also exist in the set. [WebSearch snippet via TCGPlayer; TCGCollector]",
+      "sources": ["WebSearch snippet via TCGPlayer", "TCGCollector (via WebSearch)"]
+    },
+    {
+      "category": "design",
+      "text": "Chilling Reign (SWSH6) was released June 18, 2021 as a Sword & Shield era expansion; it introduced the Rapid Strike and Single Strike battle-style mechanics as its signature mechanical identity. Siebold's Rapid Strike tag is consistent with his Water-type identity — many Water-type Rapid Strike support pieces appeared in this set and its companion expansion Battle Styles. [WebSearch snippet via JustinBasil.com]",
+      "sources": ["WebSearch snippet via JustinBasil.com"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Malva", "set": "Phantom Forces", "note": "Kalos Elite Four peer (Fire); later revealed Team Flare operative"},
+    {"name": "Wikstrom", "set": "N/A", "note": "Kalos Elite Four peer (Steel); potential TCG card candidate"},
+    {"name": "Drasna", "set": "N/A", "note": "Kalos Elite Four peer (Dragon); potential TCG card candidate"},
+    {"name": "Siebold", "set": "Chilling Reign (Full Art 198/198)", "note": "Full Art variant of same card in same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

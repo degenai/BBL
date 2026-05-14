@@ -1,0 +1,36 @@
+{
+  "card_name": "Zarude V",
+  "game": "Pokemon",
+  "set": "Brilliant Stars",
+  "collector_number": "016/172",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches species name exactly. Depicted figure — dark-furred simian Pokemon with vine-like appendages, leaping aggressively in jungle setting — matches the canonical visual design of Zarude (National Pokedex no. 893). API confirms nationalPokedexNumbers: [893]. Zarude is a Generation VIII Mythical Pokemon, Dark/Grass type. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Zarude (National Pokedex no. 893) is a Generation VIII Mythical Pokemon and the primary subject of 'Pokemon the Movie: Secrets of the Jungle,' released December 25, 2020 in Japan. The film centers on 'Dada Zarude,' a Zarude who raises a human boy named Koko in the Forest of Okoya after finding him as an infant. Zarude is the first Dark/Grass dual-type in the series — a combination designed to evoke nature's unforgiving qualities. [Wikipedia: Pokemon the Movie: Secrets of the Jungle]",
+      "sources": ["Wikipedia: Pokemon the Movie: Secrets of the Jungle"]
+    },
+    {
+      "category": "design",
+      "text": "As a Mythical Pokemon, Zarude was distributed as a limited-time event gift: players who preordered tickets for 'Secrets of the Jungle' in their region received a Zarude (Dada form wearing a pink cloth) plus a Shiny Celebi in Pokemon Sword and Shield. The standard Zarude form (depicted on this card) is the wild-roaming variant; the Dada form is distinguished by the pink cloth it wears as a memento of the film's plot. [CBR: Pokemon: Secrets of the Jungle — Who Is Zarude, via WebSearch]",
+      "sources": ["CBR: Pokemon: Secrets of the Jungle — Who Is Zarude, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Zarude V (BRS no. 016/172) is a Grass-type Basic Pokemon V with 220 HP. Its signature attack Jungle Rage deals 120 damage base and an additional 120 (240 total) if the opponent's Active Pokemon is also a Pokemon V. This anti-V tech effect makes the card relevant in V-heavy metagames. Brilliant Stars was the first SWSH set to introduce the VSTAR mechanic; Zarude V predates that tier and has no corresponding VSTAR print. [PokemonTCG.io API: swsh9-16]",
+      "sources": ["PokemonTCG.io API: swsh9-16"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Zarude (Dada)", "set": "Various promo", "note": "Dada form variant distributed as event promo with Secrets of the Jungle ticket preorder"},
+    {"name": "Shiny Celebi", "set": "Various promo", "note": "Distributed alongside Zarude in the Secrets of the Jungle promotion"},
+    {"name": "Zarude V", "set": "Darkness Ablaze", "note": "Earlier Zarude V print if any exists — check for prior prints"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

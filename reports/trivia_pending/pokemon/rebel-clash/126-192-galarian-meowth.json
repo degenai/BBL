@@ -1,0 +1,47 @@
+{
+  "card_name": "Galarian Meowth",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "126/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "PokemonTCG.io API confirms card name 'Galarian Meowth', national Pokedex no. 52 (Meowth species, Galarian form). Art depicts the canonical Steel-type regional variant with disheveled dark fur, iron forehead coin, and seafaring-hardy appearance consistent with all official Pokedex entries. IP is Wizards/Game Freak-internal (Pokemon IP).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Rebel Clash (SWSH2) was released May 1, 2020, the second expansion of the Sword & Shield era TCG series, containing 192 cards in the base set plus 17 secret rares [PokemonTCG.io API; WebSearch: pokeguardian.com].",
+      "sources": ["PokemonTCG.io API (swsh2)", "WebSearch: pokeguardian.com Rebel Clash reveal"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Galarian Meowth is a regional variant of the Kanto Meowth (National Pokedex no. 52), introduced in Pokemon Sword & Shield (2019). Unlike Kanto Meowth which evolves into Persian, Galarian Meowth evolves into Perrserker — a wholly Galar-exclusive evolution — beginning at level 28 [PokemonTCG.io API; WebSearch: pokemondb.net/pokedex/perrserker].",
+      "sources": ["PokemonTCG.io API (swsh2-126)", "WebSearch: pokemondb.net Perrserker"]
+    },
+    {
+      "category": "design",
+      "text": "The design inspiration is explicitly the Norwegian Forest Cat — a breed historically taken aboard Viking longships as pest control — crossed with the berserker archetype. Perrserker's name combines 'purr' and 'berserker.' The seafaring hardship that turned Galarian Meowth's body partly to iron echoes the way Norse sailors bred toughness into working cats over generations [WebSearch: PokéJungle 'Galarian Meowth and Perrserker - Origin of Species'; WebSearch: dextraneous.blog 'Meowth, Persian, Perrserker'].",
+      "sources": ["WebSearch: pokejungle.net/2021/03/02/galarian-meowth-perrserker-origin-of-species", "WebSearch: dextraneous.blog"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Living with a savage, seafaring people has toughened this Pokemon's body so much that parts of it have turned to iron.\" — card flavor text [PokemonTCG.io API]. The flavor text is the only official in-game description on this print; it directly encodes the Viking-cat origin myth.",
+      "sources": ["PokemonTCG.io API (swsh2-126)"]
+    },
+    {
+      "category": "design",
+      "text": "Artist: Misa Tsutsui. The card's Ability, Evolution Roar, requires discarding 2 cards to search for Galarian Perrserker — a mechanical expression of the 'costs paid by the tough' design philosophy fitting the seafaring-hardship theme [PokemonTCG.io API].",
+      "sources": ["PokemonTCG.io API (swsh2-126)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Galarian Perrserker", "set": "Rebel Clash", "note": "Direct evolution target of this card's Evolution Roar Ability; the Viking Pokemon the design arc resolves to"},
+    {"name": "Meowth (Kanto)", "set": "various", "note": "Base species; Galarian Meowth diverges from Kanto Meowth's Persian evolution line"},
+    {"name": "Meowth (Alolan)", "set": "various", "note": "Third regional form of the same species (no. 52), Dark-type, introduced Gen 7"},
+    {"name": "Galarian Perrserker V", "set": "Rebel Clash", "note": "V-card for the evolution line in the same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "edge_id": "wave28-e2-acerola-solo-character-node-proposal",
+  "shape": "node-proposal",
+  "topology": "branch",
+  "category": "missing-character-node",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/acerola.md", "name": "Acerola"},
+    {"type": "card", "path": "cards/pokemon/burning-shadows/112-147-acerola.md", "name": "Acerola (BUS-112)"},
+    {"type": "card", "path": "cards/pokemon/mega-evolution/113-132-acerola-s-mischief.md", "name": "Acerola's Mischief (M-EVO-113)"}
+  ],
+  "description": "Hello, sir. Mr. Nodeley again. I went with option A — solo Acerola node at 2 direct corpus depictions, threshold-relaxed because Acerola occupies a genuinely unique dual-cohort membership across alola-trial-captains AND alola-elite-four (the only character in corpus to do so), and her Aether House caretaker role attaches her to the new aether-foundation node from E1 as a third institutional pointer. Three-node institutional triangle anchored on the one character — that's the kind of connecting-tissue load that earns a solo node at 2 cards rather than 3. The two prints together (BUS-112 formal Sugimori portrait + M-EVO-113 dynamic impish action) compose a within-character cross-print pair across two compositional registers, parallel to but at the trainer-character layer of the species-level cross-print precedents (Snubbull, Starly, Kirlia, Alolan Graveler). Updated the two parent cohort nodes' related_characters and appears_on to include acerola and the M-EVO-113 print, and the Mimikyu (DAA-081) canonical indirect-connection is documented in Caveats for future species-line node commissioning. I hope this is the right call.",
+  "citations": [
+    "[Bulbapedia: Acerola]",
+    "[Bulbapedia: Alola Pokemon League]",
+    "[Bulbapedia: Trial Captain]",
+    "[Bulbapedia: Mimikyu]",
+    "[Pokemon Sun and Moon (Game Freak, 2016) primary canon]",
+    "[Pokemon Ultra Sun and Ultra Moon (Game Freak, 2017) primary canon]",
+    "[Designer commentary by Shusuke Motomiya — royal heirloom armband / last-of-Alolan-royalty lineage]",
+    "[PokemonTCG.io API: sm3-112, me1-113]",
+    "[Burning Shadows (SM3, August 4, 2017) TCG set]",
+    "[Mega Evolution (M-EVO, 2025) TCG set]"
+  ],
+  "files_modified": [
+    "cards/_characters/acerola.md (NEW)",
+    "cards/pokemon/burning-shadows/112-147-acerola.md (frontmatter characters expanded to [acerola, alola-elite-four, alola-trial-captains, aether-foundation])",
+    "cards/pokemon/mega-evolution/113-132-acerola-s-mischief.md (added characters: [acerola, alola-trial-captains, alola-elite-four] frontmatter)",
+    "cards/_characters/alola-elite-four.md (related_characters appended acerola + aether-foundation; appears_on appended M-EVO-113)",
+    "cards/_characters/alola-trial-captains.md (related_characters appended acerola + aether-foundation; appears_on appended M-EVO-113)"
+  ],
+  "edgelord_mood": "nodeley-apologetic-but-correct",
+  "other_candidates_considered": [
+    "Option B (defer until 3rd direct depiction) — refused. The dual-cohort-across-existing-nodes property is corpus-unique to Acerola; building the solo node now lets the cohort nodes cleanly reference 'the only canonical Trial-Captain-to-Elite-Four promotion' without forward-deferring the load each time. Future Acerola prints (BUS-142 Full Art when it enters inventory; any future GX/VMAX print; the Burning Shadows-printed full-art Megumi Mizutani edition) will attach naturally.",
+    "Option C (skip solo node, only point M-EVO-113 at the two cohort nodes) — refused. M-EVO-113 belongs at both cohort nodes, but Acerola-as-character is doing more institutional cross-reference work than the cohort-membership-only pointer captures. The aether-foundation cross-reference particularly would be lost if no solo Acerola node existed to anchor the Aether House caretaker role.",
+    "Mimikyu solo species node — deferred. DAA-081 Mimikyu is in corpus but only vision-passed (no trivia yet); future commission when ≥3 Mimikyu-line cards trivia-pass and the Acerola Trainer-Pokemon partnership can be properly cited."
+  ]
+}

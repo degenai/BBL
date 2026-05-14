@@ -1,0 +1,20 @@
+{
+  "edge_id": "wave29-e2-phantump-cross-print-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/cosmic-eclipse/93-236-phantump.md", "name": "Phantump (Cosmic Eclipse 93/236)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/014-192-phantump.md", "name": "Phantump (Rebel Clash 014/192)"}
+  ],
+  "description": "Clean cross-print Phantump mirror. CSE-93 is the trivia-anchored canonical entry (miki kudo art, lonely-spirit register, child-spirit-possessed-tree-stump lore); RBC-014 is the second corpus print (sui art, teal-aura eerie register), extending species coverage into the Sword & Shield era. Same Generation VI Kalos Ghost/Grass species, National Pokedex no. 708, same possessed-tree-stump origin canon. The CSE-side Connections section already carries the wave-26 E1 Phantump → Trevenant evolution edge — the new cross-print bullet extends that section rather than creating a parallel one. The RBC card had no prior Connections section; clean creation. Standard mirror, no fanfare.",
+  "citations": [
+    "[PokemonTCG.io API: sm12-93 (Phantump CSE); swsh2-14 (Phantump RBC)]",
+    "[Bulbapedia: Phantump species page]"
+  ],
+  "files_modified": [
+    "cards/pokemon/cosmic-eclipse/93-236-phantump.md",
+    "cards/pokemon/rebel-clash/014-192-phantump.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored"
+}

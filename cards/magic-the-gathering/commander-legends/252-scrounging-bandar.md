@@ -14,8 +14,8 @@ tags_hub: ["monkey", "cat", "primate", "jungle", "forest", "trickster", "scaveng
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "creature", "green-magic", "no-face-human", "single-figure", "creature-companion"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/252-scrounging-bandar.png
 average_cost_paid: 0
-market_price: 0.29
-market_price_as_of: 2026-05-12
+market_price: 0.28
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

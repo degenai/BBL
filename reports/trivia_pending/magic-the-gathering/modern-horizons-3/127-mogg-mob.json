@@ -1,0 +1,36 @@
+{
+  "card_name": "Mogg Mob",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "127",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Moggs are a goblin subrace originating on Rath (the artificial plane of the Tempest block, 1997). They were purpose-bred by Volrath, evincar of Rath, to serve as soldiers — engineered to be larger, more savage, and more obedient than standard goblins. They were also trained to detect artifacts by smell, a trait Volrath used to hunt down pieces of the Legacy artifact collection. [GameLore Wiki: Mogg, via WebSearch snippet; Wikipedia: Rath Cycle]",
+      "sources": ["GameLore Wiki: Mogg, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"There was absolutely nothing suspicious about three moggs carrying barrels of explosives — or so they told everyone who would listen.\" [Scryfall]. The deadpan delivery encapsulates the Mogg trait of low intelligence paired with high confidence — following orders (or bad ideas) without question.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The sacrifice ability deals 3 damage split among up to three targets — mechanically a Goblin Grenade variant that spreads rather than concentrates. Legal in Modern, Legacy, Vintage, and Commander. EDHREC rank 14591. Art by Joseph Weston. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mogg Fanatic", "set": "TMP", "note": "Original Mogg creature from Tempest 1997 — sacrifice for 1 damage, iconic goblin design"},
+    {"name": "Goblin Grenade", "set": "FEM", "note": "Mechanical ancestor — sacrifice a goblin to deal 5 damage"},
+    {"name": "Mogg War Marshal", "set": "TSP", "note": "Mogg subtype cohort with token-generation on death"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

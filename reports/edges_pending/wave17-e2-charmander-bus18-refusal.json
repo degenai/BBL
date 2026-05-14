@@ -1,0 +1,14 @@
+{
+  "edge_id": "charizard-line--charmander-bus18--refusal",
+  "shape": "refusal",
+  "topology": "n/a",
+  "category": "already-wired",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/charizard-line.md", "name": "Charizard evolutionary line"},
+    {"type": "card", "path": "cards/pokemon/burning-shadows/18-147-charmander.md", "name": "Charmander (Burning Shadows 18/147)"}
+  ],
+  "description": "Refusal. The wave 14 broad-scan pre-wired BUS-18 into charizard-line's appears_on (already present at the node level) AND the BUS-18 frontmatter already carries `characters: [charizard-line]` (line 27). No edge to write. The link is fully bidirectional with zero drift. Slot returns no work.",
+  "citations": [],
+  "files_modified": [],
+  "edgelord_mood": "satisfied"
+}

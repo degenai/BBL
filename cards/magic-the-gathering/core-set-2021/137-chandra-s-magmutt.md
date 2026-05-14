@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "faces-left", "portrait-mode", "no-face", "cre
 reference_image: cards/_images/magic-the-gathering/core-set-2021/137-chandra-s-magmutt.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high
@@ -25,6 +25,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/1/91d3e366-4da
 mood: action
 time_of_day: indeterminate
 setting: other
+suspected_ip: Chandra Nalaar
+ip_confidence: high
+ip_verified: true
+characters: ["chandra-nalaar"]
 artist: Kimonas Theodossiou
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/137-chandra-s-magmutt--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/1/91d3e366-4da5-42c8-bbd5-a0c178c0da28.jpg?1594736548

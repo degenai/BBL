@@ -1,0 +1,48 @@
+{
+  "card_name": "Simipour",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "042/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Species name printed on card face; PokemonTCG.io API (swsh3-42) confirms name=Simipour, nationalPokedexNumbers=[516], evolvesFrom=Panpour. Depicted blue monkey with large curly topknot seated in pool matches canonical Simipour appearance exactly.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Darkness Ablaze is the 3rd Sword & Shield expansion, released August 14, 2020; 189 base-set cards (201 with secret rares), anchored by Charizard VMAX and Eternatus VMAX as the primary chase cards. [PokemonTCG.io API: swsh3 set metadata]",
+      "sources": ["PokemonTCG.io API: swsh3"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Simipour is National Pokedex no. 516, a Water-type Stage 1 introduced in Generation V (Pokemon Black and White, 2010), evolving from Panpour via Water Stone — one of three elemental monkey evolutions (Simisage / Simisear / Simipour) unlocked by Leaf, Fire, and Water Stones respectively. Stone evolution means the evolved form learns no moves by level-up, making timing of the Stone use important. [PokemonTCG.io API: swsh3-42; PokemonDB: Simipour]",
+      "sources": ["PokemonTCG.io API: swsh3-42", "PokemonDB: Simipour"]
+    },
+    {
+      "category": "design",
+      "text": "The elemental monkey trio (Pansage / Pansear / Panpour and their evolutions) is widely understood to reference the Three Wise Monkeys — the Japanese pictorial maxim of see-no-evil / hear-no-evil / speak-no-evil. Panpour / Simipour maps to Mizaru (see-no-evil): Panpour's closed-eye design encodes the covered-eyes gesture. Pansear represents Kikazaru (hear-no-evil) and Pansage represents Iwazaru (speak-no-evil). [Bulbapedia: Elemental monkeys, via WebSearch snippet; name-rater.tumblr.com: Mizaru/Kikazaru/Iwazaru mapping]",
+      "sources": ["Bulbapedia: Elemental monkeys (via WebSearch snippet)", "name-rater.tumblr.com (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail.\" — printed on DAA-042. [PokemonTCG.io API: swsh3-42]",
+      "sources": ["PokemonTCG.io API: swsh3-42"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Shigenori Negishi. The card art shows Simipour seated in a rocky tide-pool — a direct visual expression of the flavor text's clean-water habitat preference and the Mizaru see-no-evil serenity register (relaxed seated pose, forward-facing, calm). [PokemonTCG.io API: swsh3-42 artist field]",
+      "sources": ["PokemonTCG.io API: swsh3-42"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Panpour", "set": "various", "note": "Pre-evolution; Water-type base form, Mizaru (see-no-evil) design origin"},
+    {"name": "Simisage", "set": "various", "note": "Elemental monkey cohort member — Grass-type (Iwazaru/speak-no-evil)"},
+    {"name": "Simisear", "set": "various", "note": "Elemental monkey cohort member — Fire-type (Kikazaru/hear-no-evil)"},
+    {"name": "Panpour (Darkness Ablaze)", "set": "Darkness Ablaze", "note": "Same-set pre-evolution if present in DAA set"},
+    {"name": "Pansage", "set": "various", "note": "Grass elemental monkey base form completing the trio"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

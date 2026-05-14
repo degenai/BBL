@@ -1,0 +1,40 @@
+{
+  "card_name": "Mudbray",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "096/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, oracle text (Ram / Rear Kick attacks), flavor text ('Loads weighing up to 50 times...'), and species art (compact donkey-like brown and cream Fighting-type Pokemon rolling or crouching in mud) all match the canonical Mudbray species (National Pokedex no. 749, Ground-type Basic Pokemon introduced in Generation VII). Confirmed via PokemonTCG.io API (swsh4-96) and WebSearch (pokemondb.net; bulbapedia.bulbagarden.net).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Mudbray (no. 096/185) is a Basic Common from Vivid Voltage (SWSH4), released November 13, 2020. It is National Pokedex no. 749, a Ground-type Pokemon introduced in Generation VII (Pokemon Sun and Moon, Nintendo / Game Freak, 2016). Mudbray evolves into Mudsdale (no. 750, the Draft Horse Pokemon). [PokemonTCG.io API: swsh4-96; WebSearch: Mudbray Pokedex 749, pokemondb.net]",
+      "sources": ["PokemonTCG.io API", "WebSearch: pokemondb.net/pokedex/mudbray"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Loads weighing up to 50 times as much as its own body weight pose no issue for this Pokemon. It's skilled at making use of mud.\" The 50x-bodyweight draft load is the species' defining labor statistic, consistent with Mudsdale's classification as the Draft Horse Pokemon and the line's explicit beast-of-burden design. [PokemonTCG.io API: swsh4-96 flavorText]",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Mudbray and its evolution Mudsdale were once found worldwide but were hunted to near-extinction outside Alola, where the species survives. In the Alola region, Mudsdale is used as a Ride Pokemon (Mudsdale Gallop) for traversal across rocky terrain, and its high-quality mud is used in regional pottery. Mudsdale's gallop can gouge holes in asphalt, and the species is forbidden from running on some Alolan public roads. These details make the Mudbray/Mudsdale line one of the franchise's most explicitly drafted-labor-framed species. [WebSearch: bulbapedia.bulbagarden.net Mudbray; bogleech.com Pokemon Mudbray and Mudsdale analysis; pokemondb.net/pokedex/mudsdale]",
+      "sources": ["WebSearch: bulbapedia.bulbagarden.net Mudbray via WebSearch snippet", "WebSearch: pokemondb.net Mudsdale", "WebSearch: bogleech.com Mudbray and Mudsdale"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mudbray's two attacks in this print are Ram (Colorless, 10 damage) and Rear Kick (FightingFightingColorless, 60 damage). As a basic-stage Fighting-type Pokemon the card functions as an energy-building step toward a Mudsdale line play, with no standalone competitive application. The card's value in a BBL context is thematic rather than mechanical. [PokemonTCG.io API: swsh4-96 oracle_text]",
+      "sources": ["PokemonTCG.io API"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mudsdale", "set": "Multiple (Sun & Moon era and Sword & Shield era)", "note": "Stage 1 evolution of Mudbray; the Draft Horse Pokemon (no. 750); the evolved labor-anchor of the line"},
+    {"name": "Mudsdale GX", "set": "Sun & Moon era", "note": "GX-tier print of the evolution; strongest TCG representation of the line"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

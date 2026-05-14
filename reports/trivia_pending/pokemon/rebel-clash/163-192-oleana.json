@@ -1,0 +1,42 @@
+{
+  "card_name": "Oleana",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "163/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches character name exactly. Art depicts a figure in a form-fitting red and white dress in a corporate interior — canonical Oleana design. PokemonTCG.io confirms card name 'Oleana', set Rebel Clash (swsh2-163). Bulbapedia confirms Oleana is Vice President of Macro Cosmos and Rose's secretary in Sword and Shield. Identity confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Oleana serves as Vice President of Macro Cosmos and personal secretary to Chairman Rose in Pokemon Sword and Shield, functioning as the Phase 1 gate-boss: the player must defeat her in Rose Tower before confronting Rose himself [Bulbapedia: Oleana, via WebSearch snippet].",
+      "sources": ["Bulbapedia: Oleana (WebSearch snippet)", "PokemonTCG.io swsh2-163"]
+    },
+    {
+      "category": "design",
+      "text": "Rebel Clash (swsh2) released as part of the Sword and Shield Series with Regulation Mark D, making the card legal in Expanded format [PokemonTCG.io swsh2-163]. Artist Yusuke Ohmura also illustrated the Sonia Supporter card in the same set (no. 167/192) [PokemonTCG.io swsh2-167].",
+      "sources": ["PokemonTCG.io swsh2-163", "PokemonTCG.io swsh2-167"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oleana's Supporter effect — discard 2 cards, then put a Trainer card from the opponent's hand on the bottom of their deck — reflects her narrative role as an agent of disruption and removal who buries threats before they can surface [PokemonTCG.io swsh2-163 oracle text].",
+      "sources": ["PokemonTCG.io swsh2-163"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Before joining Rose, Oleana was a researcher who invented the Dynamax Band; Rose discovered her talent and recruited her. Her fierce loyalty to Rose is the game's central character study in institutional devotion — she Gigantamaxes her Garbodor during the player's confrontation at Rose Tower [Bulbapedia: Oleana, via WebSearch snippet].",
+      "sources": ["Bulbapedia: Oleana (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sonia", "set": "Rebel Clash", "note": "Same set, same artist (Yusuke Ohmura), both Galar-region Supporter cards"},
+    {"name": "Rose", "set": "Rebel Clash", "note": "Oleana's employer and Chairman of Macro Cosmos — narrative counterpart"},
+    {"name": "Bede", "set": "Rebel Clash", "note": "Oleana manipulates Bede as an instrument before discarding him — lore connection cited in Bulbapedia"},
+    {"name": "Oleana", "set": "Vivid Voltage", "note": "Full-Art reprint of the same character in the same block — collector variant"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

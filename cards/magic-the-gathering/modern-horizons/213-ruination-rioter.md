@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "action-mode", "three-quarter-facing", "male-f
 reference_image: cards/_images/magic-the-gathering/modern-horizons/213-ruination-rioter.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/5/a/5a00ac82-a884-40c4-9d09-3190a1099726.png?1562202403

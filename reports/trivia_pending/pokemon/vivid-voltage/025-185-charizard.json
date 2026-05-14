@@ -1,0 +1,47 @@
+{
+  "card_name": "Charizard",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "025/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, oracle text (Royal Blaze attack, Battle Sense ability), flavor text, and species art all match the canonical Charizard species (National Pokedex no. 006, Fire/Flying-type, Stage 2 evolution of the Kanto starter line). Confirmed via PokemonTCG.io API (swsh4-25) and established characters/charizard-line.md node which already lists this card as a verified member.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Charizard (no. 025/185) is a Stage 2 Rare from Vivid Voltage (SWSH4), the fourth Sword & Shield expansion, released November 13, 2020, containing 203 cards total (185 standard plus 18 secret rares). [PokemonTCG.io API: swsh4-25; Bulbapedia: Vivid Voltage (TCG) via WebSearch]",
+      "sources": ["PokemonTCG.io API", "WebSearch: Vivid Voltage release details"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Ryuta Fuse, who debuted in the TCG with Sun & Moon: Cosmic Eclipse. Fuse is also known for Nessa Full Art (Vivid Voltage) and Rayquaza V Alternate Art (Evolving Skies). Fuse's style evolved from airbrush coloring toward a highly rendered approach across the Sword & Shield era. [WebSearch: Ryuta Fuse artist spotlight, bleedingcool.com; artofpkm.com]",
+      "sources": ["WebSearch: bleedingcool.com Ryuta Fuse artist spotlight", "artofpkm.com/illustrators/163"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Royal Blaze attack (FireFire, 100+) scales by 50 additional damage for each Leon card in the discard pile. With four Leon cards discarded (the maximum allowed per deck rule), Royal Blaze hits for 300 damage. This mechanically cites the canonical pairing of Champion Leon and his Gigantamax Charizard in Pokemon Sword & Shield (Game Freak, 2019). Leon's Charizard is the only Gigantamax Charizard form canonically belonging to a named trainer in the mainline games. [PokemonTCG.io API: swsh4-25 oracle_text; WebSearch: pokemon.com strategy article Three Approaches to Building a Charizard Deck; charizard-line.md node]",
+      "sources": ["PokemonTCG.io API", "pokemon.com strategy article", "cards/_characters/charizard-line.md"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.\" This is drawn from Charizard's Pokedex entry, citing the species' apex-predator destructive output as its defining register at Stage 2. [PokemonTCG.io API: swsh4-25 flavorText]",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Within the corpus, this card completes the within-set Vivid Voltage evolutionary triptych: Charmander (no. 023/185), Charmeleon (no. 024/185), and Charizard (no. 025/185) occupy three consecutive collector numbers in the same Sword & Shield-era set, making VIV the corpus's strongest single-set evolutionary-arc cohesion stack for the Kanto fire starter line. [cards/_characters/charizard-line.md; PokemonTCG.io API set metadata]",
+      "sources": ["cards/_characters/charizard-line.md", "PokemonTCG.io API"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Leon", "set": "Vivid Voltage (or other SWSH sets)", "note": "Leon Supporter cards are the direct mechanical fuel for Royal Blaze's damage scaling; the attack is only meaningful when Leon cards are in the discard pile"},
+    {"name": "Charizard VMAX", "set": "Vivid Voltage / Darkness Ablaze", "note": "Gigantamax-form Charizard TCG print; the canonical Leon's Charizard form that Royal Blaze mechanically references"},
+    {"name": "Charmeleon", "set": "Vivid Voltage (024/185)", "note": "Stage 1 in the within-set evolutionary triptych; same illustrator era"},
+    {"name": "Charmander", "set": "Vivid Voltage (023/185)", "note": "Base stage in the within-set evolutionary triptych"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

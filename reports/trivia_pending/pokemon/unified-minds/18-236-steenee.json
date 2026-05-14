@@ -1,0 +1,41 @@
+{
+  "card_name": "Steenee",
+  "game": "Pokemon",
+  "set": "Unified Minds",
+  "collector_number": "18/236",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches species name. Art depicts a round pink and green creature with a leafy calyx — canonical Steenee design as the Stage 1 evolution of Bounsweet. PokemonTCG.io confirms card name 'Steenee', National Pokedex no. 762, Unified Minds (sm11-18). Identity confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Steenee is a Stage 1 Grass-type in the Bounsweet evolution line: Bounsweet (no. 761) evolves into Steenee (no. 762), which evolves into Tsareena (no. 763) when leveled up knowing Stomp. The line is exclusive to the Alola region, introduced in Generation VII [PokemonTCG.io sm11-18; Bulbapedia: Steenee, via WebSearch snippet].",
+      "sources": ["PokemonTCG.io sm11-18", "Bulbapedia: Steenee (WebSearch snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Tsareena, the line's final evolution, is canonically the signature Pokemon of Trial Captain Mallow of Lush Jungle in the Pokemon Sun and Moon anime, where Mallow's Steenee evolved into Tsareena after unexpectedly learning Stomp during a Team Rocket encounter [Bulbapedia: Mallow's Tsareena, via WebSearch snippet].",
+      "sources": ["Bulbapedia: Mallow's Tsareena (WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text on this card (confirmed via PokemonTCG.io): 'It's protected by its hard sepals, so it plays with bird Pokemon without worry. They peck it relentlessly, but it doesn't care.' [PokemonTCG.io sm11-18]",
+      "sources": ["PokemonTCG.io sm11-18"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Kagemaru Himeno is one of the longest-tenured Pokemon TCG illustrators, active since the Base Set era. Himeno's work frequently depicts smaller, rounder Pokemon in warm outdoor environments — a consistent aesthetic match for the Bounsweet line [PokemonTCG.io sm11-18].",
+      "sources": ["PokemonTCG.io sm11-18"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bounsweet", "set": "Darkness Ablaze", "note": "Base stage of the same evolution line — connected in the Bounsweet-Steenee mirror node"},
+    {"name": "Tsareena", "set": "various", "note": "Final evolution — Mallow's signature Pokemon"},
+    {"name": "Mallow", "set": "Guardians Rising", "note": "Trial Captain whose signature Pokemon is Tsareena — the trainer who anchors this line"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

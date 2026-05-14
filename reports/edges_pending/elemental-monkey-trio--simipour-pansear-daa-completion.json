@@ -1,0 +1,24 @@
+{
+  "edge_id": "elemental-monkey-trio--simipour-pansear-daa-completion",
+  "shape": "1:N",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/elemental-monkey-trio.md", "name": "Elemental monkey trio (Pansage / Pansear / Panpour line)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/042-189-simipour.md", "name": "Simipour (Darkness Ablaze 042/189)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/026-189-pansear.md", "name": "Pansear (Darkness Ablaze 026/189)"}
+  ],
+  "description": "Wave 22 closes the elemental-monkey-trio at full 6-of-6 canonical species coverage — Simipour (DAA-042) joins as the last missing species (Water-type evolved form, see-no-evil), and a second Pansear print (DAA-026, volcanic-cave-dweller flavor) lands alongside. The trio is now the BBL corpus's first fully-completed designer-coordinated Pokemon species cycle; node body re-headlined as 'Corpus coverage: 6 of 6 canonical species (complete)'; Caveats reorganized to retire the 'not yet in inventory' bullet and document the full acquisition arc (waves 17 + 21 + 22). Both new cards stamped with characters: [elemental-monkey-trio] frontmatter pointers. Cohort is Discrete-Lair-ready at full canonical coverage.",
+  "citations": [
+    "[PokemonTCG.io: swsh3-42 flavorText (Simipour DAA-042)]",
+    "[PokemonTCG.io: swsh3-26 flavorText (Pansear DAA-026)]",
+    "[Bulbapedia: Elemental monkeys page; per-species Simipour and Pansear pages]"
+  ],
+  "files_modified": [
+    "cards/_characters/elemental-monkey-trio.md",
+    "cards/pokemon/darkness-ablaze/042-189-simipour.md",
+    "cards/pokemon/darkness-ablaze/026-189-pansear.md"
+  ],
+  "edgelord_mood": "satisfied",
+  "notes": "Cohort completion is a milestone. The trio went from five-of-six with a documented Simipour gap to complete-canonical-set in a single wave. This is the BBL corpus's first 'closed' designer-coordinated species cycle. The stack now anchors a Discrete Lair at full coverage rather than as a partial-cohort sampler. Behold."
+}

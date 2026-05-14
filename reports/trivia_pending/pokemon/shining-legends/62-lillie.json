@@ -1,0 +1,42 @@
+{
+  "card_name": "Lillie",
+  "game": "Pokemon",
+  "set": "Shining Legends",
+  "collector_number": "62",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches character name exactly. Art depicts a figure in a white dress and wide-brimmed hat carrying a basket — canonical Lillie visual signature from Sun and Moon. PokemonTCG.io confirms card name 'Lillie', artist Ken Sugimori, Shining Legends set (sm35-62). Character identity confirmed via name match, canonical costume match, and artist.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Lillie is the daughter of Lusamine, president of the Aether Foundation, and sister to Gladion. Her inciting action in Sun and Moon is rescuing the Cosmog nicknamed Nebby from her mother's organization and fleeing — her arc traces a child escaping an abusive parent by allying with the player [Bulbapedia: Lillie, via WebSearch snippet].",
+      "sources": ["Bulbapedia: Lillie (WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Ken Sugimori is the original designer of the Pokemon franchise's visual identity — illustrating Lillie's Supporter card connects the trainer card directly to the franchise's founding art director [PokemonTCG.io sm35-62]. Shining Legends released October 2017 as a Sun and Moon Series subset [PokemonTCG.io sm35-62].",
+      "sources": ["PokemonTCG.io sm35-62"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Lillie's Supporter effect — draw to 6 cards, or draw to 8 cards on the first turn — is one of the most impactful draw Supporters in the Sun and Moon era, enabling aggressive setup hands. The first-turn 8-card clause is unique and reflects her role as an early-game companion who front-loads resources [PokemonTCG.io sm35-62 oracle text].",
+      "sources": ["PokemonTCG.io sm35-62"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The white dress depicted on the card is in-game canonical: multiple points in Sun and Moon imply Lillie's dress style was chosen by Lusamine to make her resemble Nihilego, the Ultra Beast Lusamine is obsessed with. Lillie later changes her outfit as a narrative act of self-determination after confronting her mother [Wikipedia: Lillie (Pokemon), via WebSearch snippet].",
+      "sources": ["Wikipedia: Lillie (Pokemon) (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Lusamine", "set": "Crimson Invasion", "note": "Lillie's mother and antagonist — Aether Foundation president"},
+    {"name": "Gladion", "set": "Forbidden Light", "note": "Lillie's brother, fellow escapee from Lusamine"},
+    {"name": "Cosmog", "set": "various", "note": "Nebby — the Pokemon Lillie was protecting and the catalyst for her arc"},
+    {"name": "Lillie", "set": "Celestial Storm", "note": "Later Supporter printing of the same character"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Cubchoo",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "048/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "PokemonTCG.io API confirms card name 'Cubchoo', National Pokedex no. 613, Water-type, Unova region (Gen 5). Vision pass describes pale blue bear cub with dripping nose and large expressive eyes in snowy environment — matches canonical Cubchoo appearance. IP is Game Freak/Nintendo-internal.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Darkness Ablaze (SWSH3) released August 14, 2020. Cubchoo (National Pokedex no. 613) appears as a Water-type common at no. 48/189. The Water-type classification in the TCG maps to Cubchoo's Ice-type in the mainline games — Ice-types are consistently printed as Water-type in the TCG [PokemonTCG.io API: swsh3-48].",
+      "sources": ["PokemonTCG.io API (swsh3-48)"]
+    },
+    {
+      "category": "design",
+      "text": "Cubchoo (National Pokedex no. 613) is an Ice-type introduced in Pokemon Black & White (Gen 5, Unova, 2010). It evolves into Beartic starting at level 37. The design was created by a Game Freak staff member who had been wanting to use an idea involving freezing snot for some time; the mucus mechanic is the central design hook [WebSearch: bulbapedia.bulbagarden.net/wiki/Cubchoo_(Pokemon); WebSearch: pokemaniacal.com 'Cubchoo and Beartic'].",
+      "sources": ["WebSearch: bulbapedia.bulbagarden.net/wiki/Cubchoo_(Pokemon)", "WebSearch: pokemaniacal.com/2011/08/11/cubchoo-and-beartic/"]
+    },
+    {
+      "category": "design",
+      "text": "Cubchoo's nasal mucus is both its defining visual trait and a built-in health indicator mechanic: when healthy, the snot is thick and sticky and Ice-type techniques are stronger. When unhealthy, the mucus becomes watery or disappears and Ice moves weaken. The dripping blue snot visible in the card art is thus a sign of good health [WebSearch: bulbapedia.bulbagarden.net/wiki/Cubchoo_(Pokemon)].",
+      "sources": ["WebSearch: bulbapedia.bulbagarden.net/wiki/Cubchoo_(Pokemon)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"When this Pokemon is in good health, its snot becomes thicker and stickier. It will smear its snot on anyone it doesn't like.\" — card flavor text [PokemonTCG.io API: swsh3-48]. The flavor text reframes what looks like a hygiene problem as a health signal and a form of social enforcement — the snot is both diagnostic and weaponized.",
+      "sources": ["PokemonTCG.io API (swsh3-48)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Beartic", "set": "various", "note": "Cubchoo's evolution at level 37; the fully grown ice bear"},
+    {"name": "Snom / Frosmoth", "set": "various", "note": "Other Sword & Shield era Ice-types with similarly unusual bodily-fluid design hooks"},
+    {"name": "Snover / Abomasnow", "set": "various", "note": "Unova-adjacent Ice-type line sharing the 'body produces something unusual as a mechanic' design pattern"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

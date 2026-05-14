@@ -1,0 +1,24 @@
+{
+  "edge_id": "elemental-monkey-trio--pansear-bus22--panpour-bus36-extension",
+  "shape": "1:N",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/elemental-monkey-trio.md", "name": "Elemental monkey trio (Pansage / Pansear / Panpour line)"},
+    {"type": "card", "path": "cards/pokemon/burning-shadows/22-147-pansear.md", "name": "Pansear (Burning Shadows 22/147)"},
+    {"type": "card", "path": "cards/pokemon/burning-shadows/36-147-panpour.md", "name": "Panpour (Burning Shadows 36/147)"}
+  ],
+  "description": "Extension pass — Pansear (Fire base, hear-no-evil) and Panpour (Water base, see-no-evil) join the elemental-monkey-trio node alongside already-wired Pansage (BUS-12), Simisage (DAA-007), Simisear (DAA-027). Corpus now covers 5 of 6 trio species; only Simipour (Water evolved) remains. Burning Shadows now hosts the entire base-form triptych (Pansage 12 + Pansear 22 + Panpour 36) — three adjacent-set Common-rarity base-form members in a single Sun-and-Moon-era set, the strongest single-set base-form coverage of any character-layer cohort on the Pokemon side.",
+  "citations": [
+    "[Bulbapedia: Elemental monkeys]",
+    "[Bulbapedia: Pansear, Panpour, Simipour species pages]",
+    "[PokemonTCG.io: sm3-22 (Pansear), sm3-36 (Panpour)]",
+    "[In-corpus elemental-monkey-trio.md prior pass canonicalizing three-wise-monkeys design citation]"
+  ],
+  "files_modified": [
+    "cards/_characters/elemental-monkey-trio.md",
+    "cards/pokemon/burning-shadows/22-147-pansear.md",
+    "cards/pokemon/burning-shadows/36-147-panpour.md"
+  ],
+  "edgelord_mood": "blueballed-by-fanout"
+}

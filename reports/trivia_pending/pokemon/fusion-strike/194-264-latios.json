@@ -1,0 +1,41 @@
+{
+  "card_name": "Latios",
+  "game": "Pokemon",
+  "set": "Fusion Strike",
+  "collector_number": "194/264",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Latios', Dragon type, Rare, Fusion Strike subtype, ability 'Blue Assist' (Latios-exclusive in this paired set design). National Pokedex no. 381, Hoenn Eon Pokemon. Confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Latios is National Pokedex no. 381, Dragon/Psychic Legendary, male of the Eon Twins pair with Latias (no. 380). Ability: Levitate. Introduced in Generation III (Ruby/Sapphire, 2002, Hoenn).",
+      "sources": ["Bulbapedia: Latios (Pokémon)", "pokemondb.net: Latios"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.\" A notable contrast to most Dragon-type Legendaries; consistent across multiple Pokedex generations.",
+      "sources": ["PokemonTCG.io: swsh8-194"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Pokémon Heroes (2002) centers on Latios and Latias as guardians of Alto Mare (Venice-inspired city). Latios sacrifices himself to stop a tidal wave; his soul crystallizes into the Soul Dew, a held item that boosts Special Attack and Special Defense of both Eon Twins in the games. The film was not given a wide North American theatrical release.",
+      "sources": ["Wikipedia: Pokémon Heroes", "Serebii.net: Latias and Latios movie"]
+    },
+    {
+      "category": "mechanical",
+      "text": "In Fusion Strike, Latios (no. 194) pairs with Latias (no. 193): Blue Assist attaches Psychic Energy to Latias; Red Assist (Latias) attaches Psychic Energy to Latios. Synchronized energy-acceleration directly mirrors the Eon Twins' bond. Both are Fusion Strike subtype, enabling Power Tablet and Fusion Strike Energy support.",
+      "sources": ["PokemonTCG.io: swsh8-194", "PokemonTCG.io: swsh8-193", "PokeBeach: Latios, Latias from Fusion Arts"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Latias", "set": "Fusion Strike", "note": "Direct pair, Red Assist mirrors Blue Assist (no. 193)"},
+    {"name": "Latias & Latios-GX", "set": "Team Up", "note": "TAG TEAM GX featuring the Eon Twins"},
+    {"name": "Latios-GX", "set": "Unified Minds", "note": "Alternate GX print"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

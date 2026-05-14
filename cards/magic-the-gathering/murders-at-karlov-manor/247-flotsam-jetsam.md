@@ -14,8 +14,8 @@ tags_hub: ["water", "drowning", "underwater", "corpse", "murder", "evidence-disp
 tags_filter: ["split-card", "duo", "scene-mode", "no-face", "blue-magic", "instant", "sorcery", "mill", "investigate"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/247-flotsam-jetsam.png
 average_cost_paid: 0
-market_price: 0.13
-market_price_as_of: 2026-05-12
+market_price: 0.14
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/c/1/c1500cbf-5619-465e-a97b-75e676ce789b.png?1706900060

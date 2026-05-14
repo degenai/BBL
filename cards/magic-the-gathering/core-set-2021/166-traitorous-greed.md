@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "action", "no-face", "creatur
 reference_image: cards/_images/magic-the-gathering/core-set-2021/166-traitorous-greed.png
 average_cost_paid: 0
 market_price: 0.27
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/a/b/ab7052f1-9736-47b6-9da3-8c5ca925ab54.png?1594736826

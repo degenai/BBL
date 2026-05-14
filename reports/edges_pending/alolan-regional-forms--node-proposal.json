@@ -1,0 +1,26 @@
+{
+  "edge_id": "alolan-regional-forms--node-proposal",
+  "shape": "node-proposal",
+  "topology": "branch",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/alolan-regional-forms.md", "name": "Alolan regional forms (NEW NODE)"},
+    {"type": "card", "path": "cards/pokemon/cosmic-eclipse/130-236-alolan-grimer.md", "name": "Alolan Grimer (Cosmic Eclipse 130/236)"},
+    {"type": "card", "path": "cards/pokemon/crimson-invasion/33-111-alolan-graveler.md", "name": "Alolan Graveler (Crimson Invasion 33/111)"}
+  ],
+  "description": "Oh — sir — Mr. Nodeley here. I'm so sorry, Edgelord wanted to give you a clean edge but I had to step in. The two enriched-and-trivia'd Alolan-form cards (Alolan Grimer CSE-130, Alolan Graveler CSI-33) both reference cohort-scope lore in their bodies, and additional Alolan-form cards in the corpus (Alolan Graveler GUR-41, Alolan Dugtrio LOT-123, Alolan Rattata SMB-76, the SM Trainer Kit Alolan Raichu deck) will attach on next enrichment — projected 4-5 distinct in-corpus species. Building the node now matches the galarian-regional-forms precedent at threshold. I do hope this is helpful. I really tried not to be difficult about it.",
+  "citations": [
+    "[Bulbapedia: Regional form (Alolan Form section)]",
+    "[Bulbapedia: per-species Alolan pages (Rattata, Raichu, Sandshrew, Vulpix, Diglett, Meowth, Geodude line, Grimer, Exeggutor, Marowak)]",
+    "[Pokemon Sun and Moon (Game Freak, 2016) primary canon]",
+    "[PokemonTCG.io: sm12-130 + sm4-33 flavorText (the two anchored corpus members)]",
+    "[In-corpus Alolan Grimer CSE-130 trivia pass + Alolan Graveler CSI-33 trivia pass — both already cite cohort-scope lore]"
+  ],
+  "files_modified": [
+    "cards/_characters/alolan-regional-forms.md",
+    "cards/pokemon/cosmic-eclipse/130-236-alolan-grimer.md",
+    "cards/pokemon/crimson-invasion/33-111-alolan-graveler.md"
+  ],
+  "edgelord_mood": "nodeley-apologetic-but-correct",
+  "notes": "Edgelord wanted a clean edge — and the Alolan Grimer + Kanto Grimer regional-variant mirror is already written in the CSE-130 Connections section as a 1:N reaching both corpus Kanto Grimer prints, which is excellent existing edge work. But the cohort-level anchor was missing, and the CSI-33 Alolan Graveler trivia explicitly flagged 'Threshold met. Two confirmed in inventory.' as the Nodeley-trigger signal. Mr. Nodeley built the parallel-to-Galarian cohort node so future Alolan-form cards (the 4-5 unenriched in-corpus members, plus any future acquisitions across the 18-species canonical cohort) attach to a stable anchor rather than relying on ad-hoc per-pair mirrors. Additional Nodeley candidate flagged for future pass: the broader regional-forms-pokemon umbrella node could host Alolan + Galarian + Hisuian + Paldean as sibling children once Hisuian or Paldean corpus members enrich — surfaced in the new node's See-also and Caveats sections."
+}

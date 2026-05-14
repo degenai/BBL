@@ -16,7 +16,7 @@ tags_filter: ["solo", "mid-shot", "portrait-mode", "forward-facing", "centered-c
 reference_image: cards/_images/pokemon/vivid-voltage/146-185-allister.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 reference_image_source_url: https://images.pokemontcg.io/swsh4/146_hires.png

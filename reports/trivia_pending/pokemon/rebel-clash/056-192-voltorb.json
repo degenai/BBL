@@ -1,0 +1,40 @@
+{
+  "card_name": "Voltorb",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "056/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Voltorb via card name, PokemonTCG.io API (swsh2-56, National Pokedex no. 100, Lightning type), artist Hasegawa Saki, and canonical red-and-white spherical design with angry eyes.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Voltorb is National Pokedex no. 100, first discovered at the facility where modern Poke Balls were manufactured. Pokedex entries describe it as possibly created when a Poke Ball was exposed to an energy pulse. Its non-naturally-occurring components support the manufactured-object-become-creature reading. Strongest industrial-design narrative in the corpus: a factory product that gained volatile life.",
+      "sources": ["Bulbapedia: Voltorb via WebSearch snippet; PokemonTCG.io API: swsh2-56"]
+    },
+    {
+      "category": "design",
+      "text": "Community analysis notes Voltorb may be based on tsukumogami — inanimate objects in Japanese folklore that acquire a spirit upon their 100th year. Voltorb's National Pokedex number is exactly 100, likely an intentional encoding of this mythological threshold.",
+      "sources": ["Wikipedia: Voltorb; Bulbapedia: Voltorb; via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Pokemon Legends: Arceus (2022) introduced Hisuian Voltorb, resembling Apricorn-made Poke Balls (pre-industrial era). This opens the design question: did pre-Hisuian Voltorbs inspire Poke Ball design, or are Kantonian Voltorbs mimicking modern Poke Balls? The games leave the question intentionally open.",
+      "sources": ["GameRant: 'Hisuian Voltorb is a Chicken or Egg Conundrum'; CBR: Hisuian Voltorb; via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Usually found in power plants. Easily mistaken for a Poke Ball, it has zapped many people.' Power plant habitat ties the species directly to the industrial-electric-infrastructure setting.",
+      "sources": ["PokemonTCG.io API: swsh2-56"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Electrode", "set": "various", "note": "evolution of Voltorb, not in corpus"},
+    {"name": "Hisuian Voltorb", "set": "various", "note": "regional alternate form, Apricorn-ball design, not in corpus"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

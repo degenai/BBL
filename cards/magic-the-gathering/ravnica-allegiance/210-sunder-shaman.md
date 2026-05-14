@@ -14,8 +14,8 @@ tags_hub: ["giant", "shaman", "hammer", "destruction", "rubble", "smashing", "ru
 tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "action-pose", "creature-giant", "creature-shaman", "red-magic", "green-magic", "multicolor-red-green", "no-face"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/210-sunder-shaman.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-12
+market_price: 0.2
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 art_match_confidence: high

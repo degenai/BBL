@@ -15,7 +15,7 @@ tags_filter: ["group", "mid-shot", "forward-facing", "scene-mode", "male-figure"
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/111-vizier-of-the-scorpion.png
 average_cost_paid: 0
 market_price: 0.35
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-05
 last_seen: 2026-05-12
 art_match_confidence: high

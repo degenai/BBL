@@ -1,0 +1,41 @@
+{
+  "card_name": "Polteageist",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "083/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted ghost inhabiting a decorative teapot matches Polteageist's canonical design exactly. National Pokedex no. 855. Stage 1 evolution from Sinistea confirmed via PokemonTCG.io API (swsh3-83).",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Polteageist (National Pokedex no. 855) is a Stage 1 Ghost-type introduced in Generation VIII (Sword & Shield), evolving from Sinistea. Two forms exist: Phony Form (common; Sinistea has no authenticity stamp, evolves with a Cracked Pot) and Antique Form (rare; Sinistea bears a tiny blue authenticity mark on the inner rim of the cup, evolves with a Chipped Pot). The TCG card does not distinguish form — both forms share identical stats, moves, and abilities. [WebSearch snippet: pokemondb.net/pokebase/349628]",
+      "sources": ["WebSearch snippet: pokemondb.net Polteageist forms", "PokemonTCG.io API: swsh3-83"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"This species lives in antique teapots. Most pots are forgeries, but on rare occasions, an authentic work is found.\" — directly references the Antique/Phony form split in the games. [PokemonTCG.io API: swsh3-83]",
+      "sources": ["PokemonTCG.io API: swsh3-83"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Mad Party attack (20x damage per Mad Party attacker in the discard pile) is a multi-card combo mechanic shared across Darkness Ablaze with Bunnelby, Dedenne, Galarian Mr. Mime, and Galarian Mr. Rime — all carry Mad Party. Polteageist also has the Tea Break ability, which lets the player discard a Mad Party Pokemon from hand to draw 2 cards, making it the deck's engine and not just a beatstick. [PokemonTCG.io API: swsh3-83]",
+      "sources": ["PokemonTCG.io API: swsh3-83"]
+    },
+    {
+      "category": "set-lore",
+      "text": "This card follows DAA-082 Sinistea (already in the inventory, trivia'd in wave 23), completing the Sinistea-Polteageist line across two sequential card numbers in the same set — both Psychic-type, both illustrated by the same artist kirisAki. [PokemonTCG.io API: swsh3-82, swsh3-83]",
+      "sources": ["PokemonTCG.io API: swsh3-83"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sinistea", "set": "Darkness Ablaze", "note": "Pre-evolution; DAA-082, wave 23 trivia'd, same artist kirisAki"},
+    {"name": "Sinistea", "set": "Chilling Reign", "note": "CRE-082, wave 13 trivia — documented Phony/Antique variant system in depth"},
+    {"name": "Galarian Mr. Rime", "set": "Darkness Ablaze", "note": "DAA-036; fellow Mad Party attacker in the same set combo package"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

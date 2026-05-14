@@ -1,0 +1,41 @@
+{
+  "card_name": "Chaos Tower",
+  "game": "Pokemon",
+  "set": "Fates Collide",
+  "collector_number": "94",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged. Chaos Tower is a TCG-original name with no canonical game-location correspondence verified through available sources.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Chaos Tower is an Uncommon Stadium card in Fates Collide (XY10, May 2, 2016), the English localization of Japan's Awakening of Psychic Kings. Set marquee cards are Alakazam-EX, M Alakazam-EX, and Zygarde-EX. No flavor text on the card.",
+      "sources": ["PokemonTCG.io API: xy10-94", "WebSearch: Pokebeach Fates Collide overview"]
+    },
+    {
+      "category": "design",
+      "text": "Despite the dramatic name, 'Chaos Tower' does not correspond to any named location in the mainline Pokemon games as of research date. The Japanese card name is Chaos Tower (katakana: カオスタワー), carried directly into English. Initial hypothesis that it references Hoopa Unbound (a prominent Fates Collide pull, nicknamed 'the Mischief Pokemon') is unverified — Hoopa's associated canonical location is Dahara City from the 2015 film, not a tower. The name appears to be an original TCG invention for this set.",
+      "sources": ["WebSearch: Bulbapedia Chaos Tower Fates Collide 94", "WebSearch: Pokebeach Fates Collide set discussion"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Chaos Tower is one of the TCG's few dual-facing Stadium cards: the player physically chooses which direction to place it, each orientation granting a different Special Condition immunity (Confused/Poisoned vs. Asleep/Paralyzed). The card received a Staff Promo print for the 2016 National Championship, indicating official tournament spotlight use.",
+      "sources": ["PokemonTCG.io API: xy10-94", "WebSearch: spankyscardshop.com Chaos Tower National Championship Promo Staff"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by 5ban Graphics, a studio (not a solo artist) responsible for the majority of EX, Full Art, and Stadium illustrations in the XY and Sun/Moon eras. Their high-contrast prismatic style is the visual signature of XY-era EX cards.",
+      "sources": ["PokemonTCG.io API: xy10-94"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Alakazam-EX", "set": "Fates Collide", "note": "Marquee EX of the same set; psychic-theme complement"},
+    {"name": "Zygarde-EX", "set": "Fates Collide", "note": "The other headliner; order-vs-chaos thematic counterpart"},
+    {"name": "Parallel City", "set": "BREAKthrough", "note": "Another dual-direction Stadium card in the XY era; closest mechanical relative"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

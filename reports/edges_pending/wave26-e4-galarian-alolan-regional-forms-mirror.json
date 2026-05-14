@@ -1,0 +1,23 @@
+{
+  "edge_id": "galarian-regional-forms--alolan-regional-forms",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/galarian-regional-forms.md", "name": "Galarian regional forms"},
+    {"type": "character", "path": "cards/_characters/alolan-regional-forms.md", "name": "Alolan regional forms"}
+  ],
+  "description": "Cross-cohort `related_characters:` mirror between Pokemon's two enriched regional-variant cohort nodes — Alolan (Gen VII, Sun & Moon, 2016; the founding regional-variant program) and Galarian (Gen VIII, Sword & Shield, 2019; its follow-up). Both nodes already name each other in their See-also sections and explicitly cite each other as the closest sibling structural precedent on the character layer, but the formal frontmatter cross-reference was missing on both sides — schema-hygiene sync drift. Designer-thematic edge: Game Freak's parallel regional-variant programs (same species-prefix mechanic, same type-shift mechanic, same per-species adaptation-lore mechanic, two consecutive generation-defining cohorts) deserve a graph-traversable cross-reference rather than only a prose name-drop.",
+  "citations": ["[Bulbapedia: Regional form]", "in-corpus alolan-regional-forms.md See-also section explicitly names galarian-regional-forms as canonical-precedent", "in-corpus galarian-regional-forms.md Caveats section explicitly distinguishes Alolan as the franchise's founding regional-variant program"],
+  "files_modified": [
+    "cards/_characters/galarian-regional-forms.md",
+    "cards/_characters/alolan-regional-forms.md"
+  ],
+  "other_candidates_considered": [
+    "Dewpider BUS-14 ↔ Dewpider FUS-019 cross-print mirror — same shape as E3 but third cross-print mirror in one quad-pass would over-saturate the pattern; defer to next wave",
+    "macro-cosmos ↔ team-rocket / team-skull related_characters back-mirror — sync-drift fix flagged from wave 25 E4; would have required 2-3 edges to clean fully which violates one-edge-per-invocation; deferred to dedicated schema-hygiene pass",
+    "Kanto Rock/Fighting cluster (Onix + Geodude + Mankey) — premature for cohort node; need unifying thesis beyond shared region, would be Nodeley speculation",
+    "Reuniclus-line / Poliwhirl-line solo-species Nodeley proposals — single-card species, below 3-card threshold, premature"
+  ],
+  "edgelord_mood": "satisfied"
+}

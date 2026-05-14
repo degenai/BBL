@@ -1,0 +1,36 @@
+{
+  "card_name": "Granite Cave",
+  "game": "Pokemon",
+  "set": "Destined Rivals",
+  "collector_number": "166/182",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Granite Cave' is a named in-game location from Pokemon Ruby & Sapphire (Hoenn, Gen III). PokemonTCG.io confirms sv10-166 as a Stadium card. The oracle text explicitly references 'Steven's Pokemon' — directly naming the Hoenn Champion whose room is located in the deepest part of the cave in-game. Verification is unambiguous via oracle text reference.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Granite Cave is a Hoenn location northwest of Dewford Town, accessible via Route 106. In Pokemon Ruby, Sapphire, and Emerald (2002/2004), Steven Stone's room is located in the cave's deepest level. The player's first encounter with Steven occurs here — he is delivered a letter from his father (Mr. Stone, Devon Corporation president) and rewards the player with TM47 Steel Wing. [WebSearch: Bulbapedia/Granite Cave; Thonky walkthrough]",
+      "sources": ["Bulbapedia via WebSearch", "Thonky.com walkthrough via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a Stadium card in Destined Rivals, Granite Cave reduces damage dealt to 'Steven's Pokemon' (yours and your opponent's) by 30. This explicitly links the card's mechanical effect to Steven Stone, the Hoenn Champion and Steel-type specialist — reinforcing the set's cross-generation trainer theme. Illustrated by AYUMI ODASHIMA. [PokemonTCG.io API: sv10-166]",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Destined Rivals (SV10) draws from multiple Japanese source sets including the Marnie and Steven starter decks — making Granite Cave part of a Steven Stone mini-theme within the set alongside his trainer card. Notable wild Pokemon in Granite Cave in-game include Makuhita, Geodude, Zubat, Abra, and version-exclusive Sableye (Sapphire) or Mawile (Ruby). [WebSearch: Bulbapedia/Granite Cave; PokeBeach/Destined Rivals]",
+      "sources": ["Bulbapedia via WebSearch", "PokeBeach via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Steven Stone", "set": "Destined Rivals", "note": "The Hoenn Champion whose room is in Granite Cave; Steven's Pokemon oracle text ties directly to this Stadium"},
+    {"name": "Dewford Town", "set": "multiple", "note": "The nearest town to Granite Cave in Hoenn"},
+    {"name": "Metagross", "set": "multiple", "note": "Steven Stone's signature Pokemon, a Steel-type — thematic anchor for the Granite Cave Stadium effect"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -2,7 +2,7 @@
 type: character
 name: Endriders
 aliases: [endriders, endrider-faction, gastal-team, gastal-endriders]
-universe: Magic: The Gathering / Aetherdrift / Gastal
+universe: "Magic: The Gathering / Aetherdrift / Gastal"
 faction: Endriders (Aetherdrift Grand Prix team, Gastal home plane)
 species: faction (mixed humans and humanoids)
 canonical_source: "MTG Wiki — Endriders; Wizards: Planeswalker's Guide to Aetherdrift Part 1 and Part 2; Aetherdrift set art and flavor text"
@@ -13,6 +13,7 @@ appears_on:
   - magic-the-gathering/aetherdrift/251-bloodfell-caves
 related_hubs: [labor, rebellion]
 related_symbols: []
+related_characters: [aether-rangers]
 ---
 
 # Endriders

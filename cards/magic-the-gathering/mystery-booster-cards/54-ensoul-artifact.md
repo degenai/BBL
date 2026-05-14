@@ -14,8 +14,8 @@ tags_hub: ["scissors", "tool", "haunted-object", "spirit", "ghost", "possession"
 tags_filter: ["no-figures", "close-up", "object-focus", "blue-magic", "enchantment", "aura", "abstract-mode", "no-face"]
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/54-ensoul-artifact.png
 average_cost_paid: 0
-market_price: 0.3
-market_price_as_of: 2026-05-12
+market_price: 0.29
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

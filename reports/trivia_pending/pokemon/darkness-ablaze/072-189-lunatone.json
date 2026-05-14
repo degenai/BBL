@@ -1,0 +1,40 @@
+{
+  "card_name": "Lunatone",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "072/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted crescent moon-shaped Rock/Psychic creature with single dark eye matches Lunatone's canonical design exactly. National Pokedex no. 337. Confirmed via PokemonTCG.io API (swsh3-72) and Serebii Pokedex.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Darkness Ablaze (Sword & Shield series, released August 14, 2020) is the third S&S expansion, headlined by Charizard VMAX and Eternatus VMAX. Lunatone sits at card 072/189 in the printed set of 189 (201 total with secret rares). [PokemonTCG.io API: swsh3-72]",
+      "sources": ["PokemonTCG.io API: swsh3-72"]
+    },
+    {
+      "category": "design",
+      "text": "This is the second Lunatone in the inventory's DAA wave. The prior print (BUS-68, Shin Nagasawa art) was a Fighting-type with the Heal Block ability requiring Solrock in play — leaning into the sun/moon pair mechanic. This DAA print (Miki Tanaka art) drops the pairing requirement entirely: it is Psychic-type with standalone Future Sight and Psychic attacks, functioning independently of Solrock. Different artist, different typing, different design philosophy across two Sun & Moon-era prints three years apart. [PokemonTCG.io API: sm3-68 vs swsh3-72]",
+      "sources": ["PokemonTCG.io API: sm3-68", "PokemonTCG.io API: swsh3-72"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"The phase of the moon apparently has some effect on its power. It's active on the night of a full moon.\" [PokemonTCG.io API: swsh3-72]",
+      "sources": ["PokemonTCG.io API: swsh3-72"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Lunatone (National Pokedex no. 337) is classified as the Meteorite Pokemon. Lore holds it was first discovered at the site of a meteor crash and may have originated from outer space; its counterpart Solrock shares this origin. Both are Rock/Psychic-types found in Hoenn. [WebSearch snippet: Lunatone Bulbapedia]",
+      "sources": ["WebSearch snippet: Lunatone Bulbapedia via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Solrock", "set": "Darkness Ablaze", "note": "Canonical celestial counterpart; DAA-092 already trivia'd in wave 23"},
+    {"name": "Lunatone", "set": "Burning Shadows", "note": "BUS-68 prior print by Shin Nagasawa; Fighting-type with Heal Block / Solrock synergy ability"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

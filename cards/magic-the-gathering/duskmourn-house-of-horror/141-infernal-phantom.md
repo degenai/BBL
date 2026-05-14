@@ -15,7 +15,7 @@ tags_filter: ["solo", "wide-shot", "scene-mode", "forward-facing", "no-face", "r
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/141-infernal-phantom.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/f/0/f0c5999f-a185-4fc7-86fa-c4e5b091e768.png?1726286374
@@ -28,6 +28,7 @@ oracle_text: Eerie — Whenever an enchantment you control enters and whenever y
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+characters: ["valgavoth"]
 ---
 
 # Infernal Phantom (Duskmourn: House of Horror)

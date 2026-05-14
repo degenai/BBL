@@ -1,0 +1,41 @@
+{
+  "card_name": "Kirlia",
+  "game": "Pokemon",
+  "set": "Burning Shadows",
+  "collector_number": "92/147",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Kirlia,' National Pokedex no. 281, small humanoid white-dress figure with green hair and red horns, dancing in a field — matches Kirlia canonical design exactly. PokemonTCG.io confirms card name directly.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Kirlia is National Pokedex no. 281, a Stage 1 Psychic/Fairy type introduced in Generation III (Hoenn). It evolves from Ralts (level 20) and into either Gardevoir (level 30) or — if male — Gallade (via Dawn Stone, added in Generation IV). Burning Shadows (SM3) released August 5, 2017. [PokemonTCG.io: sm3-92; WebSearch: Bulbapedia snippet]",
+      "sources": ["PokemonTCG.io", "WebSearch: Bulbapedia snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Kirlia was Psychic-only in Generations III-V; the Fairy type was added in Generation VI (X/Y, 2013) when the Fairy type was introduced to the franchise. This card prints it as a Fairy-type in the TCG, reflecting the post-Gen VI designation. [WebSearch: Bulbapedia snippet; PokemonTCG.io: sm3-92 types]",
+      "sources": ["WebSearch: Bulbapedia snippet", "PokemonTCG.io"]
+    },
+    {
+      "category": "design",
+      "text": "The Ralts line's design is said to evoke meadow elves — beings from folklore believed to possess magical powers and supernatural beauty, capable of either helping or hindering ordinary people. Kirlia's dancing behavior is canon: it spins and dances when happy, powered by the positive emotions of its Trainer. [WebSearch: Bulbapedia snippet; PokemonTCG.io: sm3-92 flavor text]",
+      "sources": ["WebSearch: Bulbapedia snippet", "PokemonTCG.io"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'The cheerful spirit of its Trainer gives it energy for its psychokinetic power. It spins and dances when happy.' [PokemonTCG.io: sm3-92]",
+      "sources": ["PokemonTCG.io"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ralts", "set": "various", "note": "First stage of the line; evolves into Kirlia at level 20"},
+    {"name": "Gardevoir", "set": "various", "note": "Final evolution (any gender); one of the most-printed Pokemon in the TCG"},
+    {"name": "Gallade", "set": "various", "note": "Male-only alternate final evolution via Dawn Stone; Psychic/Fighting type"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

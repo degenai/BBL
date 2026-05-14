@@ -1,0 +1,28 @@
+{
+  "edge_id": "meowth-bus101--galarian-meowth-rbc126-regional-variant-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/burning-shadows/101-147-meowth.md", "name": "Meowth (Burning Shadows 101/147, Kanto/Normal-type original form)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/126-192-galarian-meowth.md", "name": "Galarian Meowth (Rebel Clash 126/192, Steel-type regional variant)"}
+  ],
+  "description": "Two card-endpoints, both depict National Pokedex no. 52 Meowth, two designer-coordinated regional adaptations that diverge into separate evolution lines (Kanto Meowth -> Persian via level 28; Galarian Meowth -> Perrserker via the Galar-exclusive Steel-type line). The Kanto print is the cream civilization-adjacent civilian (golden coin, urban rooftop, *wanders the city in search of loose change*); the Galarian print is the disheveled iron-toughened Viking-cat (iron coin, Norwegian-Forest-Cat designer origin, *living with a savage, seafaring people has toughened this Pokemon's body so much that parts of it have turned to iron*). Mirror sighed bidirectionally. Mirrors the wave 16 E2 Kantonian-Galarian Farfetch'd pair precedent shape-for-shape. Galarian Meowth already attaches to the galarian-regional-forms cohort node (no further wiring there); this 1:1 anchors the species-level Kanto/Galarian split directly so the Kanto print isn't an orphan in the regional-variant story.",
+  "citations": [
+    "[Bulbapedia: Meowth species page]",
+    "[Bulbapedia: Galarian Meowth / Perrserker]",
+    "[PokemonTCG.io: sm3-101 (Kanto Meowth, Kagemaru Himeno art) + swsh2-126 (Galarian Meowth, Misa Tsutsui art)]",
+    "[In-corpus galarian-meowth.md trivia pass canonicalizing Norwegian-Forest-Cat / Viking longship design origin per pokejungle.net Origin of Species]"
+  ],
+  "files_modified": [
+    "cards/pokemon/burning-shadows/101-147-meowth.md",
+    "cards/pokemon/rebel-clash/126-192-galarian-meowth.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "castform-forms-cycle Mr. Nodeley at 2/4 — viable but one-Nodeley-per-invocation rule (already spent on alola-elite-four E3); defer to next pass when 3/4 threshold may also land",
+    "spiritomb / sigilyph / golett ancient-bound-entities speculative cluster — too thin, no designer-confirmed coordination",
+    "5ban Graphics / Toyste Beach artist nodes — threshold genuinely unclear per prompt; defer",
+    "kanto-meowth-line node (Meowth + Persian only — three regional Meowth forms split into separate evolution lines mean a node-per-line is structurally cleaner than a unified Meowth-species node)"
+  ]
+}

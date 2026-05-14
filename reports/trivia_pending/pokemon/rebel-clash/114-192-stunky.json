@@ -1,0 +1,40 @@
+{
+  "card_name": "Stunky",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "114/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Stunky via PokemonTCG.io API card swsh2-114; National Pokedex no. 434, Poison/Dark-type skunk Pokemon introduced in Generation IV (Diamond/Pearl).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Stunky (National Pokedex no. 434, Poison/Dark) was introduced in Generation IV (Pokemon Diamond and Pearl, 2006), native to the Sinnoh region. In Diamond and Pearl, Stunky is a version-exclusive found in Diamond (not Pearl), encountered on Routes 206, 214, and 221.",
+      "sources": ["WebSearch: Bulbapedia Stunky snippet", "WebSearch: Serebii.net Pokedex entry 434"]
+    },
+    {
+      "category": "design",
+      "text": "Stunky is designed after a hog-nosed skunk. Its Poison/Dark dual typing reflects both chemical defense (Poison) and nocturnal, furtive nature (Dark). In Diamond and Pearl, Skuntank was used by Team Galactic Commander Jupiter, while rival-game-exclusive Glameow was used by Commander Mars — a version-symmetry design choice.",
+      "sources": ["WebSearch: RankedBoost BDSP Stunky", "WebSearch: Bulbapedia Stunky snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"From its rear, it sprays a foul-smelling liquid at opponents. It aims for their faces, and it can hit them from over 16 feet away.\" The 16-foot spray range matches real-world skunk spray accuracy.",
+      "sources": ["PokemonTCG.io API: swsh2-114 flavor_text"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Stunky appears in Rebel Clash (SWSH2, 2020) as a Sinnoh visitor in a Sword & Shield set — a recurring TCG pattern where older-generation Pokemon are reprinted in newer expansions.",
+      "sources": ["PokemonTCG.io API: swsh2-114"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Skuntank", "set": "Rebel Clash", "note": "Direct evolution; same Poison/Dark line"},
+    {"name": "Stunky", "set": "Diamond & Pearl era sets", "note": "Original-generation prints for design comparison"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "card_name": "Olivia",
+  "game": "Pokemon",
+  "set": "Burning Shadows",
+  "collector_number": "119/147",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches character name exactly. Depicted figure — young adult with dark hair in pink-and-white tropical outfit, hand raised, against orange-pink rocky terrain — matches Olivia's canonical appearance as Akala Island Kahuna and Alola Elite Four Rock-type specialist. Rocky backdrop is consistent with the Ruins of Life where her Grand Trial takes place. Artist Ken Sugimori is the canonical Game Freak character designer.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Olivia holds a dual role in Pokemon Sun and Moon: she is simultaneously the Island Kahuna of Akala Island (overseeing its Grand Trial at the Ruins of Life) and an Alola Elite Four member. She is the only character in the Sun/Moon games to serve both functions. [Bulbapedia: Olivia, via WebSearch]",
+      "sources": ["Bulbapedia: Olivia, via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Outside of her trainer roles, Olivia owns a jewelry and accessories store in her hometown of Konikoni City. Her Rock-type specialty informs her jewelry trade — she is described as a lapidary as well as a battle specialist. [Bulbapedia: Olivia, via WebSearch]",
+      "sources": ["Bulbapedia: Olivia, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Olivia Supporter (BUS no. 119/147) searches the deck for up to 2 Pokemon-GX and puts them in hand — a tutor effect that synergizes directly with the GX-heavy metagame of the Sun and Moon era when the card released in 2017. Her in-game role as the kahuna who authorizes Island Trials maps cleanly onto the tutor function: she gives the player what they need to proceed. [PokemonTCG.io API: sm3-119]",
+      "sources": ["PokemonTCG.io API: sm3-119"]
+    },
+    {
+      "category": "design",
+      "text": "Olivia's signature battle partner across all her appearances is a Midnight Form Lycanroc. Midnight Form Lycanroc was introduced in Pokemon Sun and Moon and is exclusive to Moon version, giving Olivia a version-specific regional identity within the Alola Elite Four lineup. [Bulbapedia: Olivia's Lycanroc, via WebSearch]",
+      "sources": ["Bulbapedia: Olivia's Lycanroc, via WebSearch]"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Acerola", "set": "Burning Shadows", "note": "Fellow Alola Elite Four member, same set, same artist (Ken Sugimori)"},
+    {"name": "Plumeria", "set": "Burning Shadows", "note": "Same set cohort — Alola NPC trifecta"},
+    {"name": "Lycanroc Midnight Form", "set": "Various", "note": "Olivia's signature partner Pokemon across all appearances"},
+    {"name": "Olivia", "set": "Burning Shadows 135/147", "note": "Full Art version of this card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

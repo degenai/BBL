@@ -2,7 +2,7 @@
 type: character
 name: Nicol Bolas
 aliases: [nicol-bolas, bolas, the-elder-dragon, god-pharaoh, dragon-god, the-forever-serpent]
-universe: Magic: The Gathering / Multiverse
+universe: "Magic: The Gathering / Multiverse"
 faction: ~
 species: Elder Dragon (formerly planeswalker; de-sparked post-War of the Spark)
 canonical_source: "MTG Wiki — Nicol Bolas; Wizards of the Coast story archive; War of the Spark novel (Greg Weisman, 2019)"

@@ -1,0 +1,46 @@
+{
+  "card_name": "Charmeleon",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "024/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via PokemonTCG.io swsh4-24. National Pokedex no. 5 matches. Orange fire-lizard with flaming tail and claws is canonical Charmeleon design. Wave 32 previously verified charizard-line character node connection.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Charmeleon appears in Sword & Shield — Vivid Voltage (2020) as no. 024/185, an Uncommon. National Pokedex no. 5, mid-stage of the Charmander line, one of the original three Kanto starter evolution lines.",
+      "sources": ["PokemonTCG.io: swsh4-24"]
+    },
+    {
+      "category": "design",
+      "text": "Third Charmeleon print in the corpus. VIV-024 art by SATOSHI NAKAI presents a close mid-shot with dark fiery background and strong rim lighting — more aggressive, close-action register compared to other prints (e.g. BUS-19).",
+      "sources": ["PokemonTCG.io: swsh4-24"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.\"",
+      "sources": ["PokemonTCG.io: swsh4-24"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Raging Flames (FireFire, 60 damage) costs discarding the top 3 cards of your deck — a self-destructive mechanic consistent with Charmeleon's lore of barely-controlled aggression.",
+      "sources": ["PokemonTCG.io: swsh4-24"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Wired to the charizard-line character node (wave 32). Charmeleon's Pokedex entries describe it as difficult to control and attacking anyone who provokes it regardless of trainer bond — behavior that carries into Charizard's disobedience arc in the anime.",
+      "sources": ["PokemonTCG.io: swsh4-24"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Charmander", "set": "various", "note": "Base stage of the Charmander line"},
+    {"name": "Charizard", "set": "various", "note": "Final evolution, most reprinted card in the franchise"},
+    {"name": "Charizard VMAX", "set": "various", "note": "High-value print in the charizard-line character node"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

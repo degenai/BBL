@@ -1,0 +1,36 @@
+{
+  "card_name": "Magmar",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "029/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via PokemonTCG.io swsh2-29 card data. National Pokedex no. 126 matches. Art description (orange-red bipedal duck-billed fire creature, volcanic setting) is canonical Magmar design.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Magmar appears in Sword & Shield — Rebel Clash (2020), printed as card no. 029/192 directly adjacent to its counterpart Electabuzz (058/192) — both commons in the same set, a deliberate production pairing.",
+      "sources": ["PokemonTCG.io: swsh2-29", "PokemonTCG.io: swsh2-58"]
+    },
+    {
+      "category": "design",
+      "text": "Magmar (National Pokedex no. 126) and Electabuzz (no. 125) are the most symmetrical version-exclusive pair in Generation I. Magmar was Blue-exclusive, Electabuzz Red-exclusive. Pre-evolutions added in Gen II, final evolutions in Gen IV via trade+item (Magmarizer/Electirizer). Step-for-step generation parity across three stages. Note: the existing Connections section had version exclusivity reversed (Red/Blue) — corrected to Blue/Red per Bulbapedia.",
+      "sources": ["Bulbapedia: Magmar", "Bulbapedia: Electabuzz", "WebSearch: TheGamer.com 'Magmar Versus Electabuzz Is Secretly Pokemon's Best Story'"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Its entire body is burning. When it breathes, the temperature rises. When it sneezes, flames shoot out!\"",
+      "sources": ["PokemonTCG.io: swsh2-29"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Electabuzz", "set": "Rebel Clash", "note": "Designer counterpart pair, same set (058/192)"},
+    {"name": "Magby", "set": "various", "note": "Gen II pre-evolution, introduced same generation as Elekid"},
+    {"name": "Magmortar", "set": "various", "note": "Gen IV final evolution via Magmarizer trade"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

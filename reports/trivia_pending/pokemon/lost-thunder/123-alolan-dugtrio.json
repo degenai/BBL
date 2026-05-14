@@ -1,0 +1,36 @@
+{
+  "card_name": "Alolan Dugtrio",
+  "game": "Pokemon",
+  "set": "Lost Thunder",
+  "collector_number": "123",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is Alolan Dugtrio; depicted figure shows three mole-like heads with distinctly golden hair — the definitive visual marker of the Alolan regional form (Kanto Dugtrio has no hair). Confirmed via PokemonTCG.io API (name, flavor text) and Bulbapedia/WebSearch on Alolan Dugtrio design.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Alolan Dugtrio is a Ground/Steel dual-type regional variant of the Kanto original (Ground only), introduced in Pokemon Sun and Moon. Its Golden hair strands are composed of thin steel filaments — described in Pokedex lore as heavy, slow-growing sensors that detect underground vibrations from long distances. The hair is widely theorized to be inspired by Pele's hair, the thin volcanic glass formed near Hawaiian lava flows. [Bulbapedia: Dugtrio, WebSearch snippet from pokemondb.net]",
+      "sources": ["Bulbapedia: Dugtrio", "WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (LOT-123): 'These Pokemon are cherished in the Alola region, where they are thought to be feminine deities of the land incarnate.' — Alolan lore holds that taking Alolan Dugtrio's hair brings bad luck, and people bow in respect when encountering one. This parallels the Hawaiian cultural figure of Pele, goddess of volcanoes. [PokemonTCG.io API]",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "design",
+      "text": "This card is illustrated by Yuka Morii using her signature clay sculpting technique — she hand-builds Pokemon from polymer clay, photographs them against small handmade sets, and submits the photographs as card art. Morii has produced over 200 TCG cards in this style since her debut in the Neo Discovery expansion (2001). The tactile, earthen quality of the clay medium suits Dugtrio's underground, terrain-adjacent identity particularly well. [Bulbapedia: Yuka Morii, WebSearch snippet from hobbylark.com]",
+      "sources": ["Bulbapedia: Yuka Morii", "WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Alolan Diglett", "set": "Sun and Moon", "note": "Pre-evolution of Alolan Dugtrio; same Steel/Ground regional form"},
+    {"name": "Dugtrio", "set": "Base Set", "note": "Kanto original form; Ground-only type, no hair"},
+    {"name": "Alolan Golem", "set": "Lost Thunder", "note": "Another Alolan Steel-type regional variant in the same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Alolan Dugtrio (Pokemon Sun and Moon)",
+    "ip_confidence": "high"
+  }
+}

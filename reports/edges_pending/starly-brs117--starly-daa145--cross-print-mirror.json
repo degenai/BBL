@@ -1,0 +1,26 @@
+{
+  "edge_id": "starly-brs117--starly-daa145--cross-print-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/brilliant-stars/117-172-starly.md", "name": "Starly (Brilliant Stars 117/172)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/145-189-starly.md", "name": "Starly (Darkness Ablaze 145/189)"}
+  ],
+  "description": "Two card-endpoints, both equal nodes, same species at same life-stage across two Sword & Shield-era sets (Darkness Ablaze 2020 + Brilliant Stars 2022). Both prints carry the EXACT same Pokedex flavor text ('They flock around mountains and fields, chasing after bug Pokemon. Their singing is noisy and annoying') — species-canon-continuity signature applied at the per-print level across two illustrators (Naoyo Kimura on DAA-145, Saya Tsuruta on BRS-117) and a two-year gap. Same species-diagnostic plumage palette (dark-grey wings, white facial marking, compact round body), same perched-on-a-branch-in-foliage composition register. Pattern matches kabu-cmp55--kabu-daa163 person-card cross-print precedent and grimer-brs084--grimer-daa100 species-card cross-print precedent. Standard professional sigh. Mirror demanded.",
+  "citations": [
+    "[Bulbapedia: Starly (Pokemon) — National Pokedex no. 396, Generation IV Sinnoh bird-line base stage]",
+    "[PokemonTCG.io: swsh9-117 + swsh3-145 — identical flavor_text across both prints, two-year set gap]"
+  ],
+  "files_modified": [
+    "cards/pokemon/brilliant-stars/117-172-starly.md",
+    "cards/pokemon/darkness-ablaze/145-189-starly.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "starly-daa145 ↔ staraptor-daa147 evolution mirror — deferred. Both within DAA set, adjacent-ish collector numbers (145 + 147 with Staravia gap at 146 missing from corpus), valid Sinnoh-bird-line evolution edge. Could be drawn in a future pass once the Staravia gap is acknowledged or filled. The cross-print Starly mirror is the cleaner first-pass edge because it's exact same character at exact same life-stage with exact same flavor text — the textbook 1:1 mirror case. Surface in janitor_triage as future-edge candidate: 'Starly (DAA-145) ↔ Staraptor (DAA-147) Sinnoh-bird-line evolution mirror — pending after cross-print mirror lands.'",
+    "starly-line / staraptor-line cohort Mr. Nodeley node — deferred. 3 corpus prints across 2 species in a 3-stage line (Starly + Staraptor, missing the Staravia middle stage). Below charizard-line precedent (6 prints across 3 stages, all stages present) and approximately equal to aron-lairon current state (2 stages, 2 prints, future-aggron-trigger documented). Same trigger pattern: when Staravia enters corpus and completes the 3-stage line at 3 species, OR when a third Starly print or second Staraptor print lands. Surface in janitor_triage as future-node candidate with trigger condition 'when Staravia enters corpus OR when corpus reaches 4+ Starly-line prints'.",
+    "Bird Keeper Trainer-Supporter card link — Starly DAA-145's Sky Circus Ability explicitly names the Bird Keeper Supporter as its trigger. Mechanical-flavor edge worth surfacing as future Edgelord candidate when Bird Keeper enters corpus (not currently present).",
+    "Caterpie / Magikarp Kanto retro reprint cohort — rejected per E4 prompt; cute but no clear narrative edge beyond shared Generation-I retro-reprint status, which is meta-trivia not narrative."
+  ]
+}

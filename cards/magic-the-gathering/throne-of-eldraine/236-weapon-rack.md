@@ -15,7 +15,7 @@ tags_filter: ["no-figure", "no-face", "scene-mode", "mid-shot", "indoor", "artif
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/236-weapon-rack.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/8/9/89ca22d2-3ba5-4173-9c8c-6587a901ff4a.png?1572491137

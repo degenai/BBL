@@ -1,0 +1,41 @@
+{
+  "card_name": "Victini",
+  "game": "Pokemon",
+  "set": "Fusion Strike",
+  "collector_number": "036/264",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, art, and species confirmed as Victini via PokemonTCG.io API (swsh8-36). Internal Pokemon IP — no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Victini is National Pokedex no. 494, placing it after Arceus (493). In the Unova regional Pokedex it holds number 000 — the only non-glitch Pokemon ever assigned that designation. A deliberate design choice making Victini the mythical zero that precedes all Unova starters.",
+      "sources": ["pokemongohub.net via WebSearch snippet", "Bulbapedia Victini via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Victini's species classification is Victory Pokemon, and its signature move V-create is the highest base-power Fire-type move in the game (base power 180). Under normal gameplay Victini cannot learn V-create by leveling up; it was originally distributed only via event download tied to the 2011 films.",
+      "sources": ["Bulbapedia Victini via WebSearch snippet", "Wikipedia Pokemon Movie Black/White via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Victini starred in a pair of simultaneously released theatrical films: Pokemon the Movie: White — Victini and Zekrom and Pokemon the Movie: Black — Victini and Reshiram (July 16, 2011, directed by Kunihiko Yuyama). The Japanese theatrical run grossed over $57 million combined. A promotional Victini distributed for the films carried V-create, Searing Shot, Fusion Flare, and Fusion Bolt — moves otherwise unobtainable on the species.",
+      "sources": ["Wikipedia Pokemon Movie Black/White via WebSearch snippet", "pokemon.com movie page"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"When it shares the infinite energy it creates, that being's entire body will be overflowing with power.\"",
+      "sources": ["PokemonTCG.io API swsh8-36"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Victini V", "set": "Battle Styles", "note": "Recent high-rarity Victini print in same Sword and Shield era"},
+    {"name": "Reshiram", "set": "various", "note": "Co-star of the 2011 White film"},
+    {"name": "Zekrom", "set": "various", "note": "Co-star of the 2011 Black film"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

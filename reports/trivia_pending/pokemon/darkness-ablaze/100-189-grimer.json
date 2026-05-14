@@ -1,0 +1,46 @@
+{
+  "card_name": "Grimer",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "100/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "PokemonTCG.io API confirms card name 'Grimer', National Pokedex no. 88, Darkness-type. Vision pass confirms purple coloration (not green-yellow), explicitly identifying this as the Kanto form. The flavor text on this print ('wastewater coming from factories is clean these days, so Grimer have nothing to eat. They're said to be on the verge of extinction.') is exclusive to Kanto Grimer's Sun-era Pokedex entries. IP is Game Freak/Nintendo-internal.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Darkness Ablaze (SWSH3) released August 14, 2020. This Kanto Grimer (National Pokedex no. 88) appears as a Darkness-type common at no. 100/189, printed in the same set as Charizard VMAX. The Darkness typing fits the design's polluted-industrial-waste aesthetic rather than a straightforward Poison-type mapping [PokemonTCG.io API: swsh3-100].",
+      "sources": ["PokemonTCG.io API (swsh3-100)"]
+    },
+    {
+      "category": "design",
+      "text": "Kanto Grimer was born from industrial pollution: sludge on a polluted seabed or dirty stream exposed to X-rays from the moon. It feeds on the waste output of factories, penetrating sewage pipes to consume filthy wastewater. This is a distinct origin from Alolan Grimer (green-yellow, introduced in Sun & Moon), which was deployed in Alola to consume urban garbage [WebSearch: bulbapedia.bulbagarden.net/wiki/Grimer_(Pokemon); WebSearch: dextraneous.blog 'Grimer, Muk'].",
+      "sources": ["WebSearch: bulbapedia.bulbagarden.net/wiki/Grimer_(Pokemon)", "WebSearch: dextraneous.blog/2019/09/21/grimer-muk"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The wastewater coming from factories is clean these days, so Grimer have nothing to eat. They're said to be on the verge of extinction.\" — card flavor text [PokemonTCG.io API: swsh3-100]. This text first appeared in Pokemon Sun's Pokedex and inverts the usual ecological threat narrative: Grimer faces extinction not because the environment is too polluted but because environmental cleanup has eliminated its food source. Pollution-as-survival-niche is the structural logic.",
+      "sources": ["PokemonTCG.io API (swsh3-100)", "WebSearch: bulbapedia.bulbagarden.net/wiki/Grimer_(Pokemon)"]
+    },
+    {
+      "category": "design",
+      "text": "Wherever Kanto Grimer passes, so many germs are left behind that no plants will ever grow again — the sludge body renders soil permanently barren. The pungent bacteria in its body kill plant life on contact. This is distinct from mere pollution: Grimer's presence is itself a form of ecological succession, replacing plant-friendly environments with sterile ones [WebSearch: bulbapedia.bulbagarden.net/wiki/Grimer_(Pokemon)].",
+      "sources": ["WebSearch: bulbapedia.bulbagarden.net/wiki/Grimer_(Pokemon)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Artist: Ryota Murayama. Stomp Off (first attack) discards the top card of the opponent's deck — a mill effect appropriate for a Pokemon whose lore involves consuming and degrading everything it touches [PokemonTCG.io API: swsh3-100].",
+      "sources": ["PokemonTCG.io API (swsh3-100)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Muk (Kanto)", "set": "various", "note": "Kanto Grimer's evolution; the fully industrialized sludge Pokemon"},
+    {"name": "Grimer (Alolan)", "set": "various", "note": "Green-yellow variant introduced Sun & Moon; feeds on garbage rather than industrial wastewater — distinct origin story"},
+    {"name": "Muk (Alolan)", "set": "various", "note": "Alolan Grimer's evolution; visually distinctive with multi-colored sludge"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

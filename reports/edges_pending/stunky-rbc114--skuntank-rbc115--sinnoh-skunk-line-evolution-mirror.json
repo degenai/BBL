@@ -1,0 +1,25 @@
+{
+  "edge_id": "stunky-rbc114--skuntank-rbc115--sinnoh-skunk-line-evolution-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/rebel-clash/114-192-stunky.md", "name": "Stunky (Rebel Clash 114/192)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/115-192-skuntank.md", "name": "Skuntank (Rebel Clash 115/192)"}
+  ],
+  "description": "Two card-endpoints, adjacent within-set, both equal nodes, both Sinnoh Poison/Dark skunk-line. Standard within-line evolution mirror — basic to terminal Stage-1 (level 34, no further evolutions). Size-and-mood inversion across the prints: daytime puffed-defensive Stunky to nighttime predatory-crouch Skuntank. Flavor-text shift tracks the design progression from rear-spray to belly-reservoir-tail-spray. Standard professional sigh. Mirror demanded.",
+  "citations": [
+    "[Bulbapedia: Stunky (Pokemon) — National Pokedex no. 434, Poison/Dark, evolves to Skuntank at level 34]",
+    "[Bulbapedia: Skuntank (Pokemon) — National Pokedex no. 435, Poison/Dark, terminal stage]",
+    "[PokemonTCG.io API: swsh2-114 flavor_text — defensive rear-spray, 16-foot range]",
+    "[PokemonTCG.io API: swsh2-115 flavor_text — belly-reservoir tail-spray, diet-varied stench]"
+  ],
+  "files_modified": [
+    "cards/pokemon/rebel-clash/114-192-stunky.md",
+    "cards/pokemon/rebel-clash/115-192-skuntank.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "No third-stage line completion exists — Skuntank is canonically terminal. Line cohort node not warranted at any future point unless additional cross-set Stunky/Skuntank prints land at N >= 3 corpus prints total, in which case the cohort node would anchor cross-print divergence not within-line evolution semantics."
+  ]
+}

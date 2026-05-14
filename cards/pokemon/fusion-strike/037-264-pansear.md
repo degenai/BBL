@@ -10,12 +10,12 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["monkey", "fire", "fruit", "forest", "playful", "leap", "tree", "warmth", "small-creature", "nature"]
+tags_filter: ["solo", "mid-shot", "action", "forward-facing", "fire-type", "common", "pokemon"]
 reference_image: cards/_images/pokemon/fusion-strike/037-264-pansear.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-08
 last_seen: 2026-05-12
 reference_image_source_url: https://images.pokemontcg.io/swsh8/37_hires.png
@@ -24,6 +24,37 @@ needs_manual_review: false
 artist: Misa Tsutsui
 flavor_text: This Pokémon lives in caves in volcanoes. The fire within the tuft on its head can reach 600 degrees Fahrenheit.
 oracle_text: Surprise Attack (Fire) 30: Flip a coin. If tails, this attack does nothing.
+mood: comedic
+time_of_day: day
+setting: forest
+suspected_ip: Pansear
+ip_confidence: high
+ip_verified: false
+characters: ["elemental-monkey-trio"]
 ---
 
 # Pansear (Fusion Strike)
+
+## Vision
+
+![037-264-pansear](../../_images/pokemon/fusion-strike/037-264-pansear.png)
+
+> [!warning] Suspected IP: **Pansear** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+Pansear bounds energetically through a fruit tree, its round body rendered in warm reds and creams. The tuft atop its head glows with an orange flame-like quality. Several round orange and yellow fruits hang from vivid green leaves surrounding the figure. The background is a warm gradient of orange and yellow suggesting heat or a sun-drenched environment. The pose is mid-leap, arms and legs spread outward, conveying playful momentum.
+
+**Subject:** Pansear, a small monkey-like creature with a flame tuft on its head, leaping among fruit-laden branches
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** forest, day, clear
+**Foreground:** Pansear leaping among fruit-tree branches  *(palette: red, cream, orange)*
+**Background:** warm orange-yellow gradient with green foliage  *(palette: orange, yellow, green)*
+**Mood / lighting:** comedic, soft
+**Emotion read:** joyful, energetic, playful
+**Objects:** fruit, branches, leaves
+**Creatures:** monkey-creature, pansear
+**Food/drink:** fruit
+**Iconography:** flame-tuft
+**Genre cues:** anime, fantasy
+

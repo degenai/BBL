@@ -1,0 +1,17 @@
+{
+  "edge_id": "macro-cosmos--oleana-extension",
+  "shape": "1:N",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/macro-cosmos.md", "name": "Macro Cosmos"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/163-192-oleana.md", "name": "Oleana (Rebel Clash 163/192)"}
+  ],
+  "description": "Wave 31 Oleana (RBC-163) attaches to macro-cosmos as the conglomerate's Chief Operating Officer. Macro Cosmos body had Oleana pre-named in the institutional intro + Caveats; the slot is just being filled. Rose + Oleana + Rose Tower now sits the conglomerate at threshold-of-3 Discrete Lair candidacy.",
+  "citations": ["[Bulbapedia: Oleana]", "[PokemonTCG.io: swsh2-163]", "[in-corpus macro-cosmos.md wave 24]"],
+  "files_modified": [
+    "cards/_characters/macro-cosmos.md",
+    "cards/pokemon/rebel-clash/163-192-oleana.md"
+  ],
+  "edgelord_mood": "blueballed-by-fanout"
+}

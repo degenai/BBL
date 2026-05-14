@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "three-quarter-facing", "portrait-mode", "ench
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/149-airtight-alibi.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-10
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/b/f/bffbbe21-0a1d-48b9-903e-81c109aa11de.png?1706241938
@@ -25,6 +25,7 @@ mood: other
 time_of_day: indeterminate
 setting: forest
 artist: Jeremy Wilson
+symbols: ["suspect"]
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/149-airtight-alibi--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/f/bffbbe21-0a1d-48b9-903e-81c109aa11de.jpg?1706241938
 oracle_text: Flash\nEnchant creature\nWhen this Aura enters, untap enchanted creature. It gains hexproof until end of turn. If it's suspected, it's no longer suspected.\nEnchanted creature gets +2/+2 and can't become suspected.

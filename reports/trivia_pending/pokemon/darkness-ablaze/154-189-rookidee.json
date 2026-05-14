@@ -1,0 +1,35 @@
+{
+  "card_name": "Rookidee",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "154/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches. PokemonTCG.io confirms swsh3-154 is Rookidee, National Pokedex no. 821. Art — small blue-black bird with pale underbelly and head crest — matches Rookidee's canonical design. Verification unambiguous.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Rookidee is National Pokedex no. 821, a pure Flying-type introduced in Generation VIII (Sword & Shield, 2019), classified as the Tiny Bird Pokemon. It evolves into Corvisquire at level 18, then into Corviknight at level 38. Corviknight, the final form, operates as Galar's aerial taxi service — a civilian utility role unique among Pokemon final evolutions. [PokemonTCG.io API: swsh3-154; WebSearch: Bulbapedia/Rookidee; PokemonDB]",
+      "sources": ["PokemonTCG.io API", "Bulbapedia via WebSearch", "PokemonDB via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text on this card: 'It will bravely challenge any opponent, no matter how powerful. This Pokemon benefits from every battle — even a defeat increases its strength a bit.' The detail about gaining strength from defeat is mechanically reflected in the card's Pluck attack, which removes Tools before dealing damage. [PokemonTCG.io API: swsh3-154]",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "design",
+      "text": "Rookidee's design appears to draw inspiration from birds in the Paridae family (chickadees and tits) rather than directly from corvids, though it shares the same Passeriformes order as its corvid-inspired evolutions Corvisquire and Corviknight. Illustrated by Hitoshi Ariga, a manga artist known for the Mega Man Megamix series who also does substantial Pokemon TCG illustration work. [WebSearch: Bulbapedia/Rookidee design; PokemonTCG.io API]",
+      "sources": ["Bulbapedia via WebSearch", "PokemonTCG.io API"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Corvisquire", "set": "multiple", "note": "Middle evolution of the Rookidee line"},
+    {"name": "Corviknight", "set": "multiple", "note": "Final evolution — Flying/Steel type, Galar's taxi bird"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

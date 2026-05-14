@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "faces-away", "portrait-mode", "male-figure", 
 reference_image: cards/_images/magic-the-gathering/core-set-2021/105-infernal-scarring.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

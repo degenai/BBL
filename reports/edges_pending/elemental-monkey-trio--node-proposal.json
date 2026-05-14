@@ -1,0 +1,80 @@
+{
+  "edge_id": "elemental-monkey-trio--node-proposal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "proposed_node": {
+    "type": "character",
+    "slug": "elemental-monkey-trio",
+    "path": "cards/_characters/elemental-monkey-trio.md",
+    "name": "Elemental monkey trio (Pansage / Pansear / Panpour line)",
+    "framing_decision": "elemental-monkey-trio (Pokemon-specific designer cohort) chosen over three-wise-monkeys (cultural referent). The cohort is the Pokemon-graph anchor; the three-wise-monkeys motif is the in-body documented referent, not the node name. Mirrors dsk-unlucky-lands-cycle / fear-of-cycle precedent: designer-coordinated cycle within a single product line, anchored on its in-set identity. Future complete-the-trio Discrete Lair work attaches cleanly; an isolated wise-monkeys edge elsewhere in the corpus, if it ever arises, can be a Connections bullet rather than forcing a re-home."
+  },
+  "endpoints_pointing_at_new_node": [
+    {"type": "card", "path": "cards/pokemon/burning-shadows/12-147-pansage.md", "name": "Pansage (Burning Shadows)", "role_in_trio": "Grass base / speak-no-evil"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/007-189-simisage.md", "name": "Simisage (Darkness Ablaze)", "role_in_trio": "Grass evolved / speak-no-evil"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/027-189-simisear.md", "name": "Simisear (Darkness Ablaze)", "role_in_trio": "Fire evolved / hear-no-evil"}
+  ],
+  "frontmatter_changes_for_parent_to_apply": [
+    {"path": "cards/pokemon/burning-shadows/12-147-pansage.md", "field": "characters", "value": ["elemental-monkey-trio"]},
+    {"path": "cards/pokemon/darkness-ablaze/007-189-simisage.md", "field": "characters", "value": ["elemental-monkey-trio"]},
+    {"path": "cards/pokemon/darkness-ablaze/027-189-simisear.md", "field": "characters", "value": ["elemental-monkey-trio"]}
+  ],
+  "proposed_md_body": {
+    "frontmatter": {
+      "type": "character",
+      "name": "Elemental monkey trio (Pansage / Pansear / Panpour line)",
+      "aliases": ["elemental-monkey-trio", "elemental-monkeys", "unova-monkey-trio", "three-wise-monkeys-pokemon", "pansage-pansear-panpour-line", "simisage-simisear-simipour-line"],
+      "universe": "Pokemon / Unova (Generation V, Black & White, 2010-2011)",
+      "faction": "~",
+      "species": "designer-coordinated trio of paired Pokemon species (three base forms + three Stone-evolution forms), one per elemental type (Grass / Fire / Water)",
+      "canonical_source": "Bulbapedia — Elemental monkeys page; Bulbapedia per-species pages for Pansage, Simisage, Pansear, Simisear, Panpour, Simipour; in-game Pokedex entries (Black & White); Simisage (DAA-007) BBL-corpus trivia pass canonicalizing the three-wise-monkeys design citation",
+      "confidence": "canonical",
+      "appears_on": [
+        "pokemon/burning-shadows/12-147-pansage",
+        "pokemon/darkness-ablaze/007-189-simisage",
+        "pokemon/darkness-ablaze/027-189-simisear"
+      ],
+      "related_hubs": [],
+      "related_symbols": []
+    },
+    "body_markdown": "# Elemental monkey trio (Pansage / Pansear / Panpour line)\n\nA designer-coordinated trio of three paired Pokemon species introduced in Generation V (Pokemon Black & White, Unova region, 2010-2011), one per elemental type: **Pansage / Simisage** (Grass), **Pansear / Simisear** (Fire), **Panpour / Simipour** (Water). Each species has a base form (Pan-) and a single evolved form (Simi-), and each pair evolves via an elemental Stone (Leaf Stone, Fire Stone, Water Stone) rather than by level-up — a mechanically unifying departure from standard Gen V starter evolution. The trio is widely documented to reference the **three wise monkeys** of Japanese cultural iconography (mizaru, kikazaru, iwazaru): Pansage maps to *iwazaru* (speak no evil), Pansear to *kikazaru* (hear no evil), and Panpour to *mizaru* (see no evil).\n\n## What this node anchors\n\nCard art and flavor text for the six trio members across their TCG appearances: the three base forms (Pansage, Pansear, Panpour) and three evolved forms (Simisage, Simisear, Simipour). The unifying frame across the cohort is fourfold: (a) the elemental-stone evolution mechanic shared across all three pairs, (b) the Pan- / Simi- naming convention enforced uniformly across base and evolved forms, (c) the simian body plan with type-coded crest/tuft iconography (leaf-crest, flame-tuft, water-tuft on head and tail), (d) the three-wise-monkeys design citation as the designer-coordinated thematic anchor.\n\n**Cards in our corpus pointing here (current):**\n\n- **Pansage** (Burning Shadows 12/147, Common, Shigenori Negishi art) — Grass-type base form, speak-no-evil. Stands open-armed on a sunny meadow with arms spread wide; cream body, leafy green head tuft. Flavor: *\"It shares the leaf on its head with weary-looking Pokemon. These leaves are known to relieve stress.\"* The trio's docile-Grass entry; the leaf-sharing flavor reads as the speak-no-evil register softened into a soothing gesture.\n- **Simisage** (Darkness Ablaze 007/189, Uncommon, Hasegawa Saki art) — Grass-type evolved form, speak-no-evil. Mid-leap through a sunlit forest canopy with arms outstretched; green dorsal mane, leaf-frond crests on head and tail. Flavor: *\"Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.\"* The deliberate aggressive-counterpoint-to-Pansage design Pokedex characterization.\n- **Simisear** (Darkness Ablaze 027/189, Uncommon, 0313 art) — Fire-type evolved form, hear-no-evil. Depicted in a warm cozy indoor setting; reddish-orange body, flame-like tufts on head and tail. Flavor: *\"When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.\"* The trio's domestic / comfort-fire entry.\n\n## The design thesis\n\nThe trio's most BBL-relevant property is that three layers of designer coordination stack into a single cohort: (1) the **type-triangle mechanic** (Grass / Fire / Water as the canonical Pokemon elemental rock-paper-scissors), (2) the **paired evolution structure** (base + evolved, six total species, with shared evolution mechanism — Stones — across all three pairs), (3) the **three-wise-monkeys cultural overlay** (a Japanese iconographic motif of moral self-restraint mapped onto a Pokemon design cohort). The trio is a designed lever for type-coverage Discrete Lair work (one Grass + one Fire + one Water that *are* each other) and for cultural-citation Discrete Lair work (a Pokemon depiction of the three wise monkeys as a complete artifact). Pansage's leaf-sharing-to-relieve-stress flavor reads as the speak-no-evil register softened to a healing gesture, which gives the trio its in-canon ethical posture: the wise monkeys not as punitive self-censorship but as creature-level care.\n\n## Canonical sources\n\n- **Bulbapedia — Elemental monkeys** — canonical per-trio page documenting the three-wise-monkeys design citation, the Stone-evolution shared mechanic, and the parallel naming convention.\n- **Bulbapedia — Pansage / Pansear / Panpour / Simisage / Simisear / Simipour** — per-species pages for design notes, Pokedex entries, and TCG appearances.\n- **Pokemon Black & White in-game Pokedex** — primary source for species-level flavor entries.\n- **Simisage (Darkness Ablaze 007/189) trivia pass** — in-corpus canonical citation source for the design thesis.\n- **PokemonTCG.io per-card pages** for the three corpus members — primary source for collector_number, artist, flavor_text, and oracle_text strings cited above.\n\n## Caveats\n\n- **Trio members canonical at the species scope but not yet in BBL inventory.** Three of six trio members are in the corpus and pointered to this node (see `appears_on:`); three species are documented but not yet acquired and will attach to this node when any TCG printing of them lands via a future Collectr CSV upload:\n  - **Pansear** (Fire-type base form, hear-no-evil) — completes the Fire arm alongside Simisear.\n  - **Panpour** (Water-type base form, see-no-evil) — opens the Water arm.\n  - **Simipour** (Water-type evolved form, see-no-evil) — closes the Water arm.\n  \n  The BBL corpus is three species-acquisitions away from full canonical trio coverage. Any TCG printing of these species across any set (Black & White era, BREAKpoint, Cosmic Eclipse, Sword & Shield era, Scarlet & Violet era, etc.) attaches to this node — membership predicates on species identity, not on set or printing.\n- **Modeled as a character-layer node, not a hub or symbol.** Like [[fear-of-cycle]] (Duskmourn phobia-Nightmares) and [[dsk-unlucky-lands-cycle]] (Duskmourn common dual-lands), this is a collective designer-coordinated cohort hosted on the character layer per the Endriders precedent (the character layer already accepts collective named entities). A future `_cycles/` layer could re-home this entry alongside the two DSK cycles and any subsequent designer-confirmed flavor cycle (Cinderella cycle in Throne of Eldraine; Initiative cycle in CLB); when that split is commissioned, this node moves cleanly. For now, single layer, same precedent.\n- **Trio membership predicates on the species line, not on the elemental type alone.** Pokemon has other simian species (Mankey/Primeape, Aipom/Ambipom, Chimchar/Monferno/Infernape, Oranguru, Passimian, Grookey/Thwackey/Rillaboom) that are not part of this trio — these are simian-typed Pokemon within the broader franchise, not members of the Pan-/Simi- Stone-evolution cohort. Membership predicates on the Pan-/Simi- name pattern AND the Stone-evolution mechanic AND the three-wise-monkeys mapping together. The simian-Pokemon tag and this character node correlate but are not co-extensive.\n- **The three-wise-monkeys assignment is a fan-and-design-press consensus rather than an explicit Game Freak designer quote in the corpus citation set.** Bulbapedia documents the mapping as widely-noted-and-canonical based on the parallel naming (Pan- prefix as a play on \"pan-troglodytes\" / chimpanzee AND on the Japanese word *zaru* loosely embedded across the trio's wise-monkey roleplay) and the type-triangle one-per-evil structure. If a future canonical source surfaces an explicit Game Freak design-document quote, upgrade this caveat. The trio's three-wise-monkeys citation is treated as canonical-by-fan-and-press-consensus, not as canonical-by-designer-quote.\n\n## See also\n\n- [[fear-of-cycle]] — sibling designer-coordinated cohort character node, same layer, same shape. Both nodes anchor a multi-card cohort whose membership predicates on a thematic-and-mechanical conjunction (Fear-of cycle by name pattern + Nightmare creature type + phobia-personification flavor; this trio by name pattern + Stone-evolution mechanic + wise-monkey mapping).\n- [[dsk-unlucky-lands-cycle]] — second sibling designer-coordinated cohort character node; the canonical precedent for cycle-style framing on the character layer.\n- [[endriders]] — foundational precedent for hosting collective entities under `_characters/`.\n- [[Bulk Graph Bundler]] — the project this character node serves.\n"
+  },
+  "description": "Oh — hello, sir. So sorry to step in. Edgelord wanted to draw a clean 1:1 here, I really am sorry, but three corpus members converging on a designer-coordinated six-species cohort with no graph node yet is, well — it's the textbook trigger condition, isn't it. Any 1:1 between Pansage and Simisage would orphan Simisear and would be subsumed the moment Pansear / Panpour / Simipour landed. I've drafted the elemental-monkey-trio node — I chose that framing over three-wise-monkeys because the cohort is Pokemon-specific and the cultural referent belongs inside the body, not as the node name (please correct me if this is wrong, I really did try to match the dsk-unlucky-lands-cycle and fear-of-cycle precedent here). The three corpus cards get characters:[elemental-monkey-trio] frontmatter pointers. I'm not creating the node MD myself — I know that's the rule, sir — I've inlined the proposed body in this sidecar for the parent to write out after review. Thank you for considering it.",
+  "citations": [
+    "[Bulbapedia: Elemental monkeys]",
+    "[Bulbapedia: Pansage / Pansear / Panpour / Simisage / Simisear / Simipour per-species pages]",
+    "[Simisage Darkness Ablaze 007/189 in-corpus trivia pass — three-wise-monkeys design citation]",
+    "[Pokemon Black & White in-game Pokedex — primary species-level flavor entries]",
+    "[PokemonTCG.io per-card pages for the three corpus members]"
+  ],
+  "files_to_be_modified_by_parent": [
+    "cards/_characters/elemental-monkey-trio.md (create from proposed_md_body)",
+    "cards/pokemon/burning-shadows/12-147-pansage.md (add characters: [elemental-monkey-trio])",
+    "cards/pokemon/darkness-ablaze/007-189-simisage.md (add characters: [elemental-monkey-trio])",
+    "cards/pokemon/darkness-ablaze/027-189-simisear.md (add characters: [elemental-monkey-trio])"
+  ],
+  "edgelord_mood": "nodeley-apologetic-but-correct",
+  "other_candidates_considered": [
+    {
+      "candidate": "Pansage <-> Simisage 1:1 evolution-line edge",
+      "verdict": "rejected",
+      "reason": "Evolution-line membership is mechanical metadata, not a load-bearing narrative edge. The species pair share an evolution line, which is a tag-tier fact already legible from suspected_ip + flavor_text; the load-bearing connection at this batch's scope is the trio-level cohort, not the pair-level evolution. Drawing the 1:1 would orphan Simisear and would be redundant the moment the trio node lands."
+    },
+    {
+      "candidate": "three-wise-monkeys node instead of elemental-monkey-trio",
+      "verdict": "rejected (framing decision)",
+      "reason": "Broader cultural-referent framing would over-promise (BBL is not going to acquire non-Pokemon wise-monkeys depictions at meaningful scale) and would conflate referent with anchor. The Pokemon-cohort framing matches dsk-unlucky-lands-cycle / fear-of-cycle precedent and supports future complete-the-trio Discrete Lair work cleanly. The wise-monkeys motif is documented inside the node body as the canonical thematic citation."
+    },
+    {
+      "candidate": "Simisear <-> some other already-enriched non-trio fire-type Pokemon card",
+      "verdict": "not surfaced",
+      "reason": "Edgelord did not have a strong alternative-edge candidate readily visible in the inputs; the trio cohort is the dominant signal across the three candidate cards. Surfacing this row to confirm: no stronger alternative move identified at this scope."
+    }
+  ],
+  "future_pass_hooks": [
+    "When any of Pansear / Panpour / Simipour land in the corpus via a future Collectr upload, Edgelord (or Nurse Joy MD on the new-acquisition trivia pass) should add the new card's path-key to elemental-monkey-trio.appears_on and add characters: [elemental-monkey-trio] to the new card's frontmatter. Full trio coverage at six species would make this node a strong Discrete Lair anchor (complete-the-trio cultural-citation lair).",
+    "If a `_cycles/` layer is ever commissioned, this node, fear-of-cycle, and dsk-unlucky-lands-cycle move there as a batch — they share the cycle-cohort shape and would benefit from a layer split.",
+    "The cards/_symbols/ layer is the right home for any future iconographic primitives this trio surfaces (leaf-crest, flame-tuft, water-tuft as type-coded simian-Pokemon crowns); not commissioned in this pass, flagged here for janitor triage."
+  ]
+}

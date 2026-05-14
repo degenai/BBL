@@ -1,0 +1,20 @@
+{
+  "edge_id": "zarude-v-brs-016--vv-022",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/brilliant-stars/016-172-zarude-v--holofoil.md", "name": "Zarude V (Brilliant Stars 016/172)"},
+    {"type": "card", "path": "cards/pokemon/vivid-voltage/022-185-zarude-v--holofoil.md", "name": "Zarude V (Vivid Voltage 022/185)"}
+  ],
+  "description": "Cross-print mirror of Zarude V — same Pokemon V card species (Nat. Dex 893, Gen VIII Mythical, franchise's first Dark/Grass dual-type), two different SWSH-era prints. VIV-022 (PLANETA Igarashi) was Zarude V's English-language debut; BRS-016 (5ban Graphics) is the cross-set return. Both holofoil Ultra Rare. The Bulbapedia + Secrets of the Jungle (2020) movie tie-in plus the Dark/Grass first-of-its-type distinction give the pair canonical narrative weight beyond mere shared-species reprint. Mirrored bidirectionally. Standard sigh.",
+  "citations": ["[PokemonTCG.io: swsh9-16, swsh4-22]", "[Bulbapedia: Zarude (Pokemon)]", "[Wikipedia: Pokemon the Movie: Secrets of the Jungle]"],
+  "files_modified": [
+    "cards/pokemon/brilliant-stars/016-172-zarude-v--holofoil.md",
+    "cards/pokemon/vivid-voltage/022-185-zarude-v--holofoil.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "A future zarude-v-character node could anchor any subsequent Zarude / Zarude V / Zarude VSTAR prints. Defer — 2 prints is mirror-tier, not Nodeley-tier."
+  ]
+}

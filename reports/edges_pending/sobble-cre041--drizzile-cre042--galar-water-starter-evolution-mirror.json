@@ -1,0 +1,26 @@
+{
+  "edge_id": "sobble-cre041--drizzile-cre042--galar-water-starter-evolution-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/chilling-reign/041-198-sobble.md", "name": "Sobble (Chilling Reign 041/198)"},
+    {"type": "card", "path": "cards/pokemon/chilling-reign/042-198-drizzile.md", "name": "Drizzile (Chilling Reign 042/198)"}
+  ],
+  "description": "Within-set Galar Water starter evolution-line 1:1 mirror. Sobble (Stage 1, no. 816) -> Drizzile (Stage 2, no. 817) -> Inteleon (Stage 3), with the in-corpus pair being the base-to-mid leg of the line. Adjacent collector numbers (041-042) within Chilling Reign, both Rapid Strike subtype, both Galar starter region affiliates. Mirrors the Charmander/Charmeleon/Charizard wave-14 within-set evolution-line edge pattern. The third stage (Inteleon) is not yet in BBL corpus; if/when it lands this would naturally extend into a chain topology.",
+  "citations": [
+    "[PokemonTCG.io: swsh6-41 evolvesTo Drizzile]",
+    "[PokemonTCG.io: swsh6-42 evolvesFrom Sobble, evolvesTo Inteleon]",
+    "[Bulbapedia: Sobble (Pokemon)]",
+    "[Bulbapedia: Drizzile (Pokemon)]"
+  ],
+  "files_modified": [
+    "cards/pokemon/chilling-reign/041-198-sobble.md",
+    "cards/pokemon/chilling-reign/042-198-drizzile.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "Sobble blister-exclusives 054-202 cross-print mirror — defer; blister Sobble is not yet tags_hub enriched, and the within-set Galar adjacency carries more narrative weight than cross-print same-character for a Stage-1 baby form.",
+    "Sobble/Drizzile/Inteleon chain topology — Inteleon not in corpus; the chain is exactly one evolution step short and the edge is mirror-shaped at N=2."
+  ]
+}

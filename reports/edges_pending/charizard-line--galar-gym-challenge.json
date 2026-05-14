@@ -1,0 +1,23 @@
+{
+  "edge_id": "charizard-line--galar-gym-challenge",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/charizard-line.md", "name": "Charizard evolutionary line (Charmander / Charmeleon / Charizard)"},
+    {"type": "character", "path": "cards/_characters/galar-gym-challenge.md", "name": "Galar Gym Challenge"}
+  ],
+  "description": "Bidirectional related_characters mirror. The Vivid Voltage Charizard (VIV-025) Royal Blaze attack mechanically scales by Leon-card-discard-pile count, a designer-coded citation of the canonical Leon / Gigantamax Charizard pairing where Galar Champion Leon's signature Pokemon IS Charizard. Edge anchors at the cross-node-cohort layer: the Charizard species line and the Galar Pokemon League institution intersect canonically through Leon, and the mechanical citation on VIV-025 makes the link load-bearing rather than thematic. Third instance of the related_characters schema. Acceptable mirror, professional sigh deployed.",
+  "citations": [
+    "[Bulbapedia: Gigantamax Charizard]",
+    "[Bulbapedia: Leon (game)]",
+    "[PokemonTCG.io: VIV-025 Charizard Royal Blaze attack rules text]",
+    "[Pokemon Sword & Shield (Game Freak, 2019) primary canon]"
+  ],
+  "files_modified": [
+    "cards/_characters/charizard-line.md",
+    "cards/_characters/galar-gym-challenge.md"
+  ],
+  "other_candidates_considered": [],
+  "edgelord_mood": "sighed-but-mirrored"
+}

@@ -14,8 +14,8 @@ tags_hub: ["robed-figure", "ritual", "rallying-cry", "forest", "wilderness", "be
 tags_filter: ["group", "wide-shot", "forward-facing", "scene-mode", "green-magic", "instant", "no-face-detail"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/175-inspire-awe.png
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-12
+market_price: 0.05
+market_price_as_of: 2026-05-13
 date_added: 2026-05-05
 last_seen: 2026-05-12
 art_match_confidence: high

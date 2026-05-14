@@ -1,0 +1,42 @@
+{
+  "card_name": "Rowlet",
+  "game": "Pokemon",
+  "set": "Cosmic Eclipse",
+  "collector_number": "18/236",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Rowlet'; depicted figure (small round owl creature with a leafy bow-tie, perched on a branch, brown-white plumage) matches the canonical Grass/Flying Alola starter, National Pokedex no. 722. Verified via card name, PokemonTCG.io metadata, Bulbapedia: Rowlet (Pokemon), and Serebii Pokedex 722.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Rowlet is National Pokedex no. 722, one of the three First Partner Pokemon of Alola in Pokemon Sun and Moon (Gen 7, 2016). It is a Grass/Flying-type and holds the highest base HP of all unevolved starter Pokemon. [Serebii.net Pokedex 722; Bulbapedia: Rowlet; via WebSearch]",
+      "sources": ["Serebii.net Pokedex 722 (via WebSearch)", "Bulbapedia: Rowlet (via WebSearch)"]
+    },
+    {
+      "category": "design",
+      "text": "Rowlet's design is based on the barn owl (Tyto alba), introduced to Hawaii. Its Grass typing may also reference the pueo (Asio flammeus sandwichensis), a short-eared owl native only to the Hawaiian archipelago that flies over grassy areas — a double-coded nod to Alola's Hawaiian setting. [Bulbapedia: Rowlet design section; via WebSearch]",
+      "sources": ["Bulbapedia: Rowlet (via WebSearch)", "WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text on this card: \"It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.\" Established at base form; the feather-blade motif fully realizes in the evolution line, where Decidueye plucks arrow quills from its wings and fires them in a tenth of a second. [PokemonTCG.io: sm12-17 flavorText; frontmatter capture; WebSearch re: Decidueye mechanics]",
+      "sources": ["PokemonTCG.io: sm12-17 (frontmatter capture)", "Bulbapedia: Decidueye (via WebSearch)"]
+    },
+    {
+      "category": "design",
+      "text": "Rowlet is the only starter whose secondary typing does not carry through its full evolutionary line: Rowlet (Grass/Flying) loses the Flying type at Decidueye (Grass/Ghost in Alola, Grass/Fighting in Hisui). This makes it typologically distinct from all other starter lines across both its regional forms. [Bulbapedia: Rowlet / Decidueye; via WebSearch]",
+      "sources": ["Bulbapedia: Rowlet (via WebSearch)", "WebSearch snippet via Pokemondb.net"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dartrix", "set": "Various", "note": "Rowlet's Level 17 evolution; maintains Grass/Flying"},
+    {"name": "Decidueye", "set": "Various", "note": "Final evolution; Grass/Ghost; hooded archer; arrow-quill attack"},
+    {"name": "Litten", "set": "Various", "note": "Alola Fire starter; Rowlet's Gen 7 starter cohort"},
+    {"name": "Popplio", "set": "Various", "note": "Alola Water starter; Rowlet's Gen 7 starter cohort"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

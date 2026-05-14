@@ -1,0 +1,18 @@
+{
+  "edge_id": "phantump-cse-93--trevenant-fus-017",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/cosmic-eclipse/93-236-phantump.md", "name": "Phantump (Cosmic Eclipse 93/236)"},
+    {"type": "card", "path": "cards/pokemon/fusion-strike/017-264-trevenant.md", "name": "Trevenant (Fusion Strike 017/264)"}
+  ],
+  "description": "Two-stage Kalos Ghost/Grass evolution line completed in corpus. Phantump (Cosmic Eclipse 93/236) is the base-form spirit-of-a-lost-child stump; Trevenant (Fusion Strike 017/264) is its trade evolution as the adult haunted-tree whose roots tie into surrounding forest trees and give it control over them. The franchise's saddest-design benchmark on the base form (child-spirit-imitating-voices-to-lure-friends flavor) carries forward into Trevenant's looming-arboreal-guardian frame. Same Generation VI introduction (X & Y, 2013), same Kalos region origin, same Ghost/Grass typing, designer-confirmed evolution relationship.",
+  "citations": ["[Bulbapedia: Phantump]", "[Bulbapedia: Trevenant]", "[PokemonTCG.io API (sm12-93, swsh8-17)]"],
+  "files_modified": [
+    "cards/pokemon/cosmic-eclipse/93-236-phantump.md",
+    "cards/pokemon/fusion-strike/017-264-trevenant.md"
+  ],
+  "other_candidates_considered": [],
+  "edgelord_mood": "sighed-but-mirrored"
+}

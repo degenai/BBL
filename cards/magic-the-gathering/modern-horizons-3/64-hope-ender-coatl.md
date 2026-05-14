@@ -10,21 +10,44 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["wings", "horror", "eldrazi", "flight", "void", "corruption", "monster", "sky", "tentacles", "darkness", "feathers"]
+tags_filter: ["solo", "mid-shot", "action", "forward-facing", "no-face", "colorless", "creature", "flying", "devoid", "flash"]
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/64-hope-ender-coatl.png
 average_cost_paid: 0
-market_price: 0.16
-market_price_as_of: 2026-05-12
+market_price: 0.18
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/2/6/26973cad-26d7-4d42-a58a-85c3dce3b9fd.png?1717011730
 art_match_confidence: high
 needs_manual_review: false
+characters: ["eldrazi"]
 artist: Filip Burburan
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/64-hope-ender-coatl--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/6/26973cad-26d7-4d42-a58a-85c3dce3b9fd.jpg?1717011730
 oracle_text: Devoid (This card has no color.)\nFlash\nWhen you cast this spell, counter target spell an opponent controls unless they pay {1}.\nFlying
+mood: horror
+time_of_day: day
+setting: other
 ---
 
 # Hope-Ender Coatl (Modern Horizons 3)
+
+## Vision
+
+![64-hope-ender-coatl](../../_images/magic-the-gathering/modern-horizons-3/64-hope-ender-coatl.png)
+
+A disturbing aerial creature fills the frame — it has broad, dark feathered wings spread wide in flight, but the body beneath them is not avian: instead, the central mass is a pale, skull-like or eyeless face fused with a ribbed torso, and several thick red-pink fleshy tendrils dangle below. Feathers shed as it moves. The coloring contrasts dark grey-black wings with vivid red-pink trailing tissue. The sky behind is open blue with white clouds and a faint spiral haze. No recognizable limbs or weapons are present.
+
+**Subject:** A winged eldrazi horror creature with dark feathered wings and trailing red fleshy tendrils flying through open sky
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** other, day, clear
+**Foreground:** dark-winged horror with pale fused face and trailing red tendrils in flight  *(palette: charcoal, dark grey, deep red-pink)*
+**Background:** open blue sky with white clouds  *(palette: sky-blue, white, pale grey)*
+**Mood / lighting:** horror, ambient
+**Emotion read:** menacing and alien — something wrong made to fly
+**Creatures:** eldrazi, winged-horror, coatl
+**Iconography:** wings, tendrils
+**Genre cues:** fantasy, horror
+

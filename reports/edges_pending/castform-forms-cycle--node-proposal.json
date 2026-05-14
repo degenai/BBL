@@ -1,0 +1,28 @@
+{
+  "edge_id": "castform-forms-cycle--node-proposal",
+  "shape": "node-proposal",
+  "topology": "branch",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/castform-forms-cycle.md", "name": "Castform Forms cycle (weather-Pokemon four-form cohort)"},
+    {"type": "card", "path": "cards/pokemon/brilliant-stars/116-172-castform--reverse-holofoil.md", "name": "Castform (Brilliant Stars 116/172) — Normal Form"},
+    {"type": "card", "path": "cards/pokemon/chilling-reign/033-198-castform-rainy-form.md", "name": "Castform Rainy Form (Chilling Reign 033/198)"},
+    {"type": "card", "path": "cards/pokemon/chilling-reign/034-198-castform-snowy-form.md", "name": "Castform Snowy Form (Chilling Reign 034/198)"}
+  ],
+  "description": "S-sorry to interrupt, sir, but the corpus just hit three of four Castform forms with the wave-18 Snowy Form landing, and the cycle has all the load-bearing features the precedent nodes have — designer-coordinated four-form cohort with a single shared Forecast/Weather Reading Ability lineage, a clean teru teru bozu cultural-iconographic citation, and the Chilling Reign 2021 simultaneous-print as the canonical-by-printing anchor set. I-I really do think this clears the elemental-monkey-trio 3/6 threshold and the fear-of-cycle 5/10 threshold cleanly. I propose cards/_characters/castform-forms-cycle.md with the three corpus members in appears_on and Sunny Form documented in Caveats. I'm sorry I had to step in instead of giving you the clean edge — please tell me if I overstepped.",
+  "citations": [
+    "[Bulbapedia: Castform (Pokemon)]",
+    "[Bulbanews: On the Origin of Species: Castform]",
+    "[PokemonTCG.io: swsh6-22, swsh6-33, swsh6-34, swsh6-121, swsh9-116]",
+    "[BBL corpus: Castform Rainy Form (CRE-033) wave 11 trivia pass]",
+    "[BBL corpus: Castform Normal Form (BRS-116) wave 17 trivia pass]"
+  ],
+  "files_modified": [
+    "cards/_characters/castform-forms-cycle.md (new)",
+    "cards/pokemon/brilliant-stars/116-172-castform--reverse-holofoil.md (frontmatter: characters)",
+    "cards/pokemon/chilling-reign/033-198-castform-rainy-form.md (frontmatter: characters)",
+    "cards/pokemon/chilling-reign/034-198-castform-snowy-form.md (frontmatter: characters)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": []
+}

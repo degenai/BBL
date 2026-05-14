@@ -10,12 +10,13 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
+characters: ["dsk-unlucky-lands-cycle"]
 tags_hub: ["cornfield", "crop-circles", "farmland", "rural-horror", "folk-horror", "ritual", "portal", "field", "agriculture", "geometry", "duskmourn", "harvest"]
 tags_filter: ["no-figures", "aerial-view", "wide-shot", "scene-mode", "top-down", "land", "green-magic", "white-magic", "multicolor-green-white", "dual-land"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/258-etched-cornfield.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/f/8/f8900b89-0e10-4602-bba2-da8d60ea5885.png?1726286836

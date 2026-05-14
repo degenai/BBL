@@ -1,0 +1,29 @@
+{
+  "edge_id": "wave36-e1-ral-zarek-subnode",
+  "shape": "node-proposal",
+  "category": "named-character-sub-node-under-faction",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/ral-zarek.md", "name": "Ral Zarek"},
+    {"type": "character", "path": "cards/_characters/izzet-league.md", "name": "Izzet League (parent)"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/212-ral-s-outburst.md", "name": "Ral's Outburst"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/132-ral-and-the-implicit-maze.md", "name": "Ral and the Implicit Maze"}
+  ],
+  "description": "Begging your pardon, sirs. Edgelord said the Izzet node already flagged Ral as a sub-node candidate at two depicted prints plus the attribution cycle, so I went ahead and made the node, if that's all right? It's modeled on the Jace-Beleren stub-character template — corpus aspects (WAR-arc lazotep-melting-point + MH3-Saga maze-run retrospective), the Ral's <Spell> attribution cycle as canonical pattern, sub-node-under-parent-faction relation parallel to Acerola under Alola Trial Captains, and the queer-canonical Tomik footnote because if we ever surface Ral in bundle copy that detail is part of the character's full Wizards-canon register. Both cards now carry characters: ['ral-zarek', 'izzet-league'] — the operative-and-institution relation is encoded on both ends.",
+  "citations": [
+    "[MTG Wiki: Ral Zarek]",
+    "[MTG Wiki: Implicit Maze]",
+    "[Scryfall: WAR-212 flavor_text — Ral Zarek attribution]",
+    "[Scryfall: name:\"Ral's\" attribution-cycle search]"
+  ],
+  "files_modified": [
+    "cards/_characters/ral-zarek.md (created)",
+    "cards/_characters/izzet-league.md (caveat + frontmatter)",
+    "cards/magic-the-gathering/war-of-the-spark/212-ral-s-outburst.md (characters frontmatter)",
+    "cards/magic-the-gathering/modern-horizons-3/132-ral-and-the-implicit-maze.md (characters frontmatter)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "Niv-Mizzet — deferred per izzet-league caveat; no depicted corpus prints yet, sub-node case becomes immediate when a Niv-Mizzet printing enters the corpus."
+  ]
+}

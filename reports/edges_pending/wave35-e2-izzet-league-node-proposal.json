@@ -1,0 +1,36 @@
+{
+  "edge_id": "wave35-e2-izzet-league-node-proposal",
+  "shape": "node-proposal",
+  "category": "faction-character-cohort",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/izzet-league.md", "name": "Izzet League"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/134-reiterating-bolt.md", "name": "Reiterating Bolt"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/191-izzet-generatorium.md", "name": "Izzet Generatorium"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/132-ral-and-the-implicit-maze.md", "name": "Ral and the Implicit Maze"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/212-ral-s-outburst.md", "name": "Ral's Outburst"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-masters-2015/245-izzet-boilerworks.md", "name": "Izzet Boilerworks"}
+  ],
+  "description": "Sorry sir, terribly sorry to bother. Edgelord wanted clean Wave 35 edges between Reiterating Bolt + Generatorium + Ral-and-the-Maze, but three card-card edges all pointing at an absent center is exactly the duplicate-edges-around-a-missing-node pattern. The Izzet League is canonical, designer-confirmed across nearly twenty years of Ravnica printings (Guildpact 2006 through Modern Horizons 3 2024), and the corpus already has five members spanning three sets. I went ahead and authored cards/_characters/izzet-league.md per the orzhov-syndicate / phyrexia / team-rocket template. I hope the labor-extraction-dressed-as-collective-inquiry framing isn't presumptuous. Ral Zarek is now a strong sub-node candidate (two depicted prints clear the threshold) but I held back per the one-node-per-invocation rule — flagged in the See Also section for a future pass. I do hope this helps, sir.",
+  "citations": [
+    "[MTG Wiki: Izzet League]",
+    "[MTG Wiki: Niv-Mizzet]",
+    "[MTG Wiki: Ral Zarek]",
+    "[MTG Wiki: Implicit Maze]",
+    "[Wizards of the Coast: Guildpact / Return to Ravnica / Guilds of Ravnica / Ravnica Allegiance design articles, Mark Rosewater]",
+    "[Scryfall: watermark:izzet classification]"
+  ],
+  "files_modified": [
+    "cards/_characters/izzet-league.md (created)",
+    "cards/magic-the-gathering/modern-horizons-3/134-reiterating-bolt.md (frontmatter + Connections)",
+    "cards/magic-the-gathering/modern-horizons-3/191-izzet-generatorium.md (frontmatter + Connections)",
+    "cards/magic-the-gathering/modern-horizons-3/132-ral-and-the-implicit-maze.md (frontmatter + Connections)",
+    "cards/magic-the-gathering/war-of-the-spark/212-ral-s-outburst.md (frontmatter)",
+    "cards/magic-the-gathering/modern-masters-2015/245-izzet-boilerworks.md (frontmatter)"
+  ],
+  "topology": "stack",
+  "other_candidates_considered": [
+    "Ral Zarek sub-node — two depicted prints clear the threshold (Ral and the Implicit Maze MH3 + Ral's Outburst WAR), recorded in izzet-league.md's See Also as future-pass candidate. Held back per one-node-per-invocation discipline.",
+    "Niv-Mizzet sub-node — no depicted corpus card yet; deferred to caveats section."
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

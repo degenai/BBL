@@ -1,0 +1,37 @@
+{
+  "card_name": "Ral and the Implicit Maze",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "132",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Implicit Maze was a hidden network of mana paths running through all ten guild districts of Ravnica, designed by Azor I (founder of the Azorius Senate) as a failsafe in case the Guildpact dissolved. Niv-Mizzet had Ral Zarek discover it using notes from Jace Beleren. The Maze drove the Dragon's Maze block arc (2013), in which each guild sent a champion to race through the maze. Ral killed the Izzet champion Melek and declared himself Izzet's runner, but ultimately Jace Beleren won the race. [MTG Wiki: Implicit Maze, via WebSearch snippet]",
+      "sources": ["MTG Wiki: Implicit Maze, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Ral Zarek is a Ravnica-native Izzet planeswalker and former lieutenant to Niv-Mizzet. In War of the Spark (2019), he co-led the resistance against Nicol Bolas alongside Kaya and Vraska, and activated the Interplanar Beacon to summon planeswalkers from across the Multiverse to Ravnica. He also helped coordinate the ritual that resurrected Niv-Mizzet as the new Living Guildpact. [MTG Wiki: Ral Zarek, via WebSearch snippet]",
+      "sources": ["MTG Wiki: Ral Zarek, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a Saga, the card spans three chapters: a sweeper (2 damage to all opposing creatures and planeswalkers), a Faithless Looting variant with exile-play, and a Spellgorger Weird token that grows with each noncreature spell. The Spellgorger Weird creature type (a 2/2 Weird) ties Ral thematically to Izzet League aesthetics. Legal in Modern, Legacy, Vintage, and Commander; not legal in Standard or Pioneer. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ral Zarek", "set": "RTR", "note": "Ral's original planeswalker card — Return to Ravnica 2012"},
+    {"name": "Ral, Izzet Viceroy", "set": "GRN", "note": "Ral's Guilds of Ravnica planeswalker card"},
+    {"name": "Maze's End", "set": "DGM", "note": "Dragon's Maze win-condition tied to the Implicit Maze lore"},
+    {"name": "Spellgorger Weird", "set": "WAR", "note": "Creature type produced by Chapter III token"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

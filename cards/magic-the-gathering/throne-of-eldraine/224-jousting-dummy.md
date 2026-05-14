@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "portrait-mode", "no-face", "
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/224-jousting-dummy.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 art_match_confidence: high

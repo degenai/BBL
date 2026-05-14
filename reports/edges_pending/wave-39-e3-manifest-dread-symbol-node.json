@@ -1,0 +1,39 @@
+{
+  "edge_id": "wave-39-e3-manifest-dread-symbol-node",
+  "shape": "node-proposal",
+  "category": "symbol-node-mechanical-keyword-primitive",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "symbol", "path": "cards/_symbols/manifest-dread.md", "name": "Manifest Dread (mechanic)"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/74-stay-hidden-stay-silent-0074.md", "name": "Stay Hidden, Stay Silent (0074)"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/80-unnerving-grasp.md", "name": "Unnerving Grasp"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/169-bashful-beastie.md", "name": "Bashful Beastie"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/189-manifest-dread.md", "name": "Manifest Dread"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/190-moldering-gym-weight-room.md", "name": "Moldering Gym // Weight Room"}
+  ],
+  "description": "Hello, sir. Mr. Nodeley once more. I do apologize. Manifest Dread warrants a symbols-layer node parallel to suspect.md and single-strike-emblem.md — five corpus carriers (verified by oracle_text grep: DSK-74 Stay Hidden Stay Silent, DSK-80 Unnerving Grasp, DSK-169 Bashful Beastie, DSK-189 the eponymous self-referential card, and DSK-190 Moldering Gym // Weight Room's Weight Room face). Well past the ≥3 threshold the symbol layer has converged on. I wired symbols: ['manifest-dread'] onto all five carriers. The cross-edge to [[fear-of-cycle]] is wired via related_characters: [fear-of-cycle] in the node frontmatter — the mechanical-thematic bridge is the set's graveyard/Delirium subtheme (Fear of Burning Alive's Delirium-gated trigger benefits from manifest dread feeding the graveyard); no Fear-of card has the manifest dread KEYWORD in its oracle text, so the bridge is mechanical-thematic rather than directly-keyword-shared. The valgavoth cross-edge is also wired. I hope this helps. The 'manifest evil' working title is fun. Sorry.",
+  "citations": [
+    "[Wizards: Mark Rosewater, Top of the Duskmourning Part 1 and Part 2, September 2024]",
+    "[MTG Wiki: Manifest (mechanic), Trivia section for working-title rename]",
+    "[Scryfall: oracletext:'manifest dread' set:dsk returns the corpus carriers]",
+    "[Scryfall: card-name 'Manifest Dread' is unique in being a card whose name = keyword = complete rules text]"
+  ],
+  "files_modified": [
+    "cards/_symbols/manifest-dread.md (created)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/74-stay-hidden-stay-silent-0074.md (frontmatter)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/80-unnerving-grasp.md (frontmatter)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/169-bashful-beastie.md (frontmatter)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/189-manifest-dread.md (frontmatter)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/190-moldering-gym-weight-room.md (frontmatter)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "surprise_lore": [
+    "Manifest Dread (the card) is the only Magic card whose name = keyword action = complete rules text. Three-way identity. Unique-in-Magic design feature.",
+    "Working title was 'manifest evil' before the final rename. The shift from 'evil' (moral framing) to 'dread' (affective framing) aligns the keyword with Duskmourn's phobias-as-monsters Vision Design Handoff thesis.",
+    "Rosewater confirmed manifest dread was finalized in DSK vision design BEFORE cloak was created for MKM. If the timing had reversed, the keyword would likely have been 'cloak dread' or just 'dread cloak.'"
+  ],
+  "other_candidates_considered": [
+    "Wire Fear-of cards with symbols: ['manifest-dread'] — rejected because no Fear-of card has the keyword in its own oracle text; the bridge is mechanical-thematic via Delirium synergy, captured via related_characters cross-edge instead.",
+    "Defer until Rooms / Eerie / Survival also get nodes — rejected as gating; manifest dread clears the threshold standalone and Rooms / Eerie are flagged as next-priority Nodeley candidates in the node body."
+  ]
+}

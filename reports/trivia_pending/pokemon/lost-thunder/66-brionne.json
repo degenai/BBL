@@ -1,0 +1,36 @@
+{
+  "card_name": "Brionne",
+  "game": "Pokemon",
+  "set": "Lost Thunder",
+  "collector_number": "66",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is Brionne; depicted figure is a round blue seal-like Pokemon with white ruff-collar markings and pink cheek spots — matching the canonical second stage of the Popplio evolution line. Confirmed via PokemonTCG.io API (name, artist Atsuko Nishida, flavor text) and Bulbapedia Brionne entry.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Brionne is the middle evolution of the Alola Water-type starter line: Popplio evolves into Brionne at level 17 and into Primarina at level 34. The final form, Primarina, adds Fairy typing, making this one of the few Water starter lines to end as a dual type. [Bulbapedia: Popplio, WebSearch snippet]",
+      "sources": ["Bulbapedia: Popplio", "WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (LOT-66): 'It cares deeply for its companions. When its Trainer is feeling down, it performs a cheery dance to try and help.' — This emotional-support framing is consistent across the Popplio line's lore; large groups of Brionne are said to dance together on moonlit nights when the sea is calm. [PokemonTCG.io API]",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "design",
+      "text": "The card is illustrated by Atsuko Nishida, who is also credited as the original game designer of the Popplio line itself. Nishida is the only Pokemon designer credited across every generation of the mainline games, with credits including Pikachu, Bulbasaur, Charmander, Squirtle, and Togepi. Her illustrating this card of her own design is a notable convergence. [Wikipedia: Atsuko Nishida, WebSearch snippet]",
+      "sources": ["Wikipedia: Atsuko Nishida", "WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Popplio", "set": "Sun and Moon", "note": "Pre-evolution; Alola Water starter stage 1"},
+    {"name": "Primarina GX", "set": "Burning Shadows", "note": "Final form of the Popplio line; Water/Fairy dual-type"},
+    {"name": "Brionne", "set": "Guardians Rising", "note": "Earlier print of Brionne in the same Sun and Moon era"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Brionne (Pokemon Sun and Moon)",
+    "ip_confidence": "high"
+  }
+}

@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "faces-left", "creature-elephant", "green-magi
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/168-loxodon-eavesdropper.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-10
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/b/b/bbbf8c3a-6c74-42fd-bb8d-61e3f0a77848.png?1706242059

@@ -1,0 +1,22 @@
+{
+  "edge_id": "farfetchd-brs-115--galarian-farfetchd-rbc-094--regional-variant-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/brilliant-stars/115-172-farfetch-d.md", "name": "Farfetch'd (Brilliant Stars 115/172, Kanto form)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/094-192-galarian-farfetch-d.md", "name": "Galarian Farfetch'd (Rebel Clash 094/192)"}
+  ],
+  "description": "Mirror, sighed. Two card-endpoints, both equal nodes, both must be reachable from the other side. The connection is designer-coordinated rather than incidental — the Galarian form's lore is *defined by its contrast against the Kanto original*. The art register reinforces this on both ends: Kanto in pastoral impressionistic painterly countryside, Galar in mountain action with the leek already raised as weapon. Both bullets cross-link [[galarian-regional-forms]] so a reader landing on either card sees the cohort node as the third anchor. NOT adding Kanto Farfetch'd to that node's appears_on — the Kanto form is the predecessor, not a cohort member; cohort membership predicates on the Galarian prefix per the node's own caveats. Worth the mirror.",
+  "citations": [
+    "[Bulbapedia: Farfetch'd / Galarian Farfetch'd species pages, via WebSearch]",
+    "[PokeJungle: Galarian Farfetch'd and Sirfetch'd — Origin of Species, via WebSearch]",
+    "[Node: cards/_characters/galarian-regional-forms.md]"
+  ],
+  "files_modified": [
+    "cards/pokemon/brilliant-stars/115-172-farfetch-d.md",
+    "cards/pokemon/rebel-clash/094-192-galarian-farfetch-d.md"
+  ],
+  "other_candidates_considered": [],
+  "edgelord_mood": "sighed-but-mirrored"
+}

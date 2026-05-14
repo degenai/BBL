@@ -16,7 +16,7 @@ tags_filter: ["solo", "mid-shot", "faces-left", "scene-mode", "no-face", "creatu
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/134-fear-of-being-hunted.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/a/0/a0a5e716-68c1-4fa0-aa08-5b08114e08d8.png?1726286347
@@ -69,5 +69,6 @@ A gaunt, hairless predator-thing crouches in mid-stride across cracked beige flo
 - Fear of Falling (Duskmourn: House of Horror, no. 56) — Blue Fear-of cycle member also by Maxime Minard; the artist-and-cycle double-connection makes this the closest sibling card. Anchored to [[fear-of-cycle]].
 - Fear of Failed Tests (Duskmourn: House of Horror, no. 55) — Blue Fear-of cycle member; Zimone Wola flavor-text speaker. Anchored to [[fear-of-cycle]].
 - Fear of Isolation (Duskmourn: House of Horror, no. 58) — Blue Fear-of cycle member; expands the cycle roster beyond the five corpus-anchored members. Candidate for orphan/archive write-up.
+- Fear of Immobility (DSK no. 10), Fear of Surveillance (DSK no. 11), Fear of Impostors (DSK no. 57), Fear of Lost Teeth (DSK no. 97), Fear of the Dark (DSK no. 98, rare), Fear of Missing Out (DSK no. 136, rare), Fear of Exposure (DSK no. 177), Fear of Infinity (DSK no. 214, UB rare) — remaining members of the full 14-card cycle per Scryfall `s:dsk name:"Fear of"` (wave 39 roster pass). See [[fear-of-cycle]] for the full roster table with color and rarity distribution.
 - Unstoppable Slasher (Duskmourn: House of Horror, no. 119) — Another Maxime Minard DSK piece in the same red stalker-horror visual register; artist-cycle adjacency.
 

@@ -1,0 +1,37 @@
+{
+  "edge_id": "pansage-daa006--elemental-monkey-trio-roster-extension",
+  "shape": "1:N",
+  "topology": "branch",
+  "category": "named-character-identity",
+  "endpoints": [
+    {
+      "type": "character",
+      "path": "cards/_characters/elemental-monkey-trio.md",
+      "name": "Elemental monkey trio (Pansage / Pansear / Panpour line)"
+    },
+    {
+      "type": "card",
+      "path": "cards/pokemon/darkness-ablaze/006-189-pansage.md",
+      "name": "Pansage (Darkness Ablaze 006/189)"
+    }
+  ],
+  "description": "Second corpus Pansage print (DAA-006) attaches to the existing elemental-monkey-trio node as the sixth member-print across the cohort. The node's appears_on list extends; the card's frontmatter gets the characters: [elemental-monkey-trio] pointer. Cohort membership predicates on species identity not set or printing, per the node's own caveat. The cohort stack now contains 5 species (3 base forms + 2 evolved) across 6 prints, with Simipour still the only canonically-missing species. The DAA-006 Pansage (Mina Nakai art, berry-gathering flavor) extends the speak-no-evil-as-care register from the BUS-12 print's leaf-sharing flavor into a foraging-as-generosity framing — same role, second illustrator.",
+  "citations": [
+    "[Bulbapedia: Pansage (Pokemon)]",
+    "[PokemonTCG.io: swsh3-006 Pansage per-card page]",
+    "cards/_characters/elemental-monkey-trio.md (existing node; cohort membership rules)"
+  ],
+  "files_modified": [
+    "cards/_characters/elemental-monkey-trio.md (appears_on extended; body section gained second Pansage print entry)",
+    "cards/pokemon/darkness-ablaze/006-189-pansage.md (frontmatter characters: pointer added)"
+  ],
+  "other_candidates_considered": [
+    "Rowlet (CSE-18) ↔ Dartrix (DAA-012) Alola Grass starter evolution mirror — Dartrix is bare-stub vision-only (tags_hub: [], no trivia), Rowlet is fully trivia-passed. The mirror would be thinner than wave 19 Sobble/Drizzile (which both had vision). Defer until Dartrix vision lands.",
+    "Cosmog ↔ Lunatone celestial cluster — tag-bridge stretch (both cosmos-themed but different generations, no canonical interaction). Refused per wave 20 precedent.",
+    "Alolan Graveler ↔ Alolan Grimer regional-variant cohort start — 2 Alolan-form corpus members, below the typical 3-card cohort threshold. Could match the galarian-regional-forms node's start-at-3 precedent if one more Alolan form lands. Defer one more wave.",
+    "Siebold solo Mr. Nodeley — 1 Kalos E4 only, premature for cohort. Defer.",
+    "Mallow & Lana Trial Captains future — 1 TAG TEAM card with 2 characters. Defer."
+  ],
+  "edgelord_mood": "blueballed-by-fanout",
+  "edgelord_voice_note": "A 1:N fanout. The source is a character node; the new target is one card that joins five existing members. Mr. Nodeley would handle this cleanly because the node already exists — Edgelord is just extending the roster. The fanout shape is the right shape; the disposition is mild. The graph improves. Behold the corpus thickening on a familiar anchor. Defer the chase for Simipour to a future wave; the Discrete Lair candidate is now closer to viable but still at 5/6 species. Worst node-roster-extension ever, except in the sense that all node-roster-extensions are routine and that's the joke."
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Electabuzz",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "058/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Electabuzz via card name, PokemonTCG.io API (swsh2-58, National Pokedex no. 125, Lightning type), artist Midori Harada, and canonical yellow-striped bipedal with horn antennae design.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Electabuzz (no. 125, Electric) and Magmar (no. 126, Fire) are a Generation I designer-coordinated counterpart pair: Red-exclusive vs. Blue-exclusive, comparable height/build, same level-30 base evolution, identical trade-with-item mechanic (Electirizer vs. Magmarizer), found in distinct industrial locations (Power Plant vs. Pokemon Mansion). One of the most explicitly symmetrical counterpart designs in Gen I.",
+      "sources": ["Bulbapedia: Magmar, Electabuzz; List of Pokemon with counterparts; via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'While it's often blamed for power outages, the truth is the cause of outages is more often an error on the part of the electric company.' One of the most sardonic Pokedex entries in the Kanto roster — explicitly deflects blame onto corporate negligence.",
+      "sources": ["PokemonTCG.io API: swsh2-58"]
+    },
+    {
+      "category": "design",
+      "text": "The full Electabuzz line (Elekid -> Electabuzz -> Electivire) mirrors the Magmar line (Magby -> Magmar -> Magmortar) step for step. Baby forms and held-item trade evolutions were added for both lines in the same generation (Generation II and IV respectively), reinforcing the pair's deliberate symmetry.",
+      "sources": ["Bulbapedia: Electabuzz, via WebSearch; PokemonTCG.io API: swsh2-58"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Electroslug (70 damage, 3 energy including 2 Lightning) is a solid vanilla attacker for the era. 90HP basic with 2-retreat-cost. No notable competitive history for this specific print.",
+      "sources": ["PokemonTCG.io API: swsh2-58"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Magmar", "set": "wave 29 vision pending trivia", "note": "Generation I Fire counterpart, same evolutionary mechanic structure"},
+    {"name": "Electivire", "set": "various", "note": "Electirizer-trade evolution, not in corpus"},
+    {"name": "Elekid", "set": "various", "note": "baby pre-evolution introduced Gen II, not in corpus"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

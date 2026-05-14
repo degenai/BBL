@@ -1,0 +1,42 @@
+{
+  "card_name": "Combusken",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "023/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Species name printed on card face; PokemonTCG.io API (swsh3-23) confirms name=Combusken, nationalPokedexNumbers=[256], Stage 1, evolvesFrom=Torchic. Depicted bipedal orange and cream bird in kicking pose amid flames matches canonical Combusken appearance exactly.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Combusken is National Pokedex no. 256, a Fire/Fighting-type Stage 1 introduced in Generation III (Pokemon Ruby and Sapphire, 2002). It evolves from Torchic at level 16 — the point at which the Fighting secondary type emerges — and evolves into Blaziken at level 36. [PokemonTCG.io API: swsh3-23; Bulbapedia: Combusken, via WebSearch snippet]",
+      "sources": ["PokemonTCG.io API: swsh3-23", "Bulbapedia: Combusken (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Combusken began a three-generation run of Fire/Fighting starter middle evolutions. Torchic (Fire-only) gains Fighting at first evolution; the same pattern repeated with Chimchar (Sinnoh) and Tepig (Unova), making Fire/Fighting the dominant Fire-starter secondary for Generations III through V. The streak was broken by Fennekin (Kalos, Generation VI), whose middle stage Braixen gained Psychic instead — a conscious design-level departure that was publicly noted by the community. [Bulbapedia / PokemonDB: Combusken / Blaziken / Emboar, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Combusken (via WebSearch snippet)", "PokemonDB: Combusken"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"During a battle, the hot flame in its body increases. Its kicks have outstanding destructive power.\" — printed on DAA-023. [PokemonTCG.io API: swsh3-23]",
+      "sources": ["PokemonTCG.io API: swsh3-23"]
+    },
+    {
+      "category": "design",
+      "text": "Art by kodama (a Pokemon TCG illustrator who signs works with the single lowercase name). The card places Combusken in a mid-air kick pose surrounded by swirling flame — a direct visual encoding of the flavor text's \"kicks have outstanding destructive power\" framing and the Fighting-type emergence at this evolutionary stage. [PokemonTCG.io API: swsh3-23 artist field]",
+      "sources": ["PokemonTCG.io API: swsh3-23"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Torchic (Darkness Ablaze 022)", "set": "Darkness Ablaze", "note": "Pre-evolution; adjacent collector number DAA-022; wave 22 E4 evolution-mirror"},
+    {"name": "Blaziken", "set": "various", "note": "Final evolution; Fire/Fighting; Mega Blaziken was notably the first Mega Evolution revealed"},
+    {"name": "Emboar", "set": "various", "note": "Unova Fire/Fighting final evolution; same three-generation streak"},
+    {"name": "Infernape", "set": "various", "note": "Sinnoh Fire/Fighting final evolution; same three-generation streak"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

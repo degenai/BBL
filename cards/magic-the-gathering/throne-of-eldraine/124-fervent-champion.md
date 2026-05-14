@@ -14,8 +14,8 @@ tags_hub: ["knight", "horse", "mounted-warrior", "lance", "fire", "armor", "cava
 tags_filter: ["solo", "mid-shot", "faces-left", "action-mode", "male-figure", "no-face", "creature-knight", "red-magic", "first-strike", "haste"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/124-fervent-champion.png
 average_cost_paid: 0
-market_price: 0.34
-market_price_as_of: 2026-05-12
+market_price: 0.35
+market_price_as_of: 2026-05-13
 date_added: 2026-05-05
 last_seen: 2026-05-12
 art_match_confidence: high

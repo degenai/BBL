@@ -1,0 +1,40 @@
+{
+  "card_name": "Furfrou",
+  "game": "Pokemon",
+  "set": "Chilling Reign",
+  "collector_number": "126/198",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via PokemonTCG.io swsh6-126 name field. National Pokedex no. 676. Kalos poodle with 10 grooming-form variants.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Furfrou (National Pokedex no. 676, Generation VI, Kalos) can be trimmed into 10 distinct forms: Natural, Heart, Star, Diamond, Debutante, Matron, Dandy, La Reine, Kabuki, and Pharaoh Trim. In Pokemon X and Y, grooming was performed at Friseur Furfrou on Vernal Avenue in Lumiose City for $500; the trim reverts to Natural Form after five days or if deposited in a Box.",
+      "sources": ["Bulbapedia: Furfrou", "Serebii.net XY forms", "Dexerto: Furfrou forms guide"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.\" The trust-gated grooming mechanic is built directly into the flavor: form-change requires a bond, not just a fee. This connects to the 'Find a Friend' attack name — both mechanics frame companionship as prerequisite.",
+      "sources": ["PokemonTCG.io: swsh6-126"]
+    },
+    {
+      "category": "design",
+      "text": "Furfrou's 10-form grooming system is a strong forms-cycle node candidate analogous to Castform (which similarly has multiple visually distinct forms with non-evolution triggers). Unlike Castform (weather-triggered), Furfrou's form changes are player-initiated and cosmetic-only with no stat changes — aesthetic labor, not mechanical divergence.",
+      "sources": ["Bulbapedia: Furfrou", "PokemonDB: Furfrou"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Some Furfrou trims were geographically restricted in Pokemon GO: La Reine (France), Kabuki (Japan), and Pharaoh (Egypt) required region-specific Stardust costs to unlock, making Furfrou one of the few Pokemon with cosmetic forms tied to physical geography in the mobile game.",
+      "sources": ["Dexerto: Furfrou forms in Pokemon GO", "Dot Esports: Furfrou form guide"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Furfrou", "set": "other sets", "note": "any cross-print of the same species"},
+    {"name": "Castform", "set": "various", "note": "parallel: non-evolution multi-form mechanic, forms-cycle node candidate"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

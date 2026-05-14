@@ -14,8 +14,8 @@ tags_hub: ["fire", "explosion", "resurrection", "ritual", "cult", "rakdos", "und
 tags_filter: ["wide-shot", "scene-mode", "group", "no-face", "silhouette", "multicolor-black-red", "black-magic", "red-magic", "sorcery", "graveyard-recursion", "crowd"]
 reference_image: cards/_images/magic-the-gathering/dragon-s-maze/86-morgue-burst.png
 average_cost_paid: 0
-market_price: 0.03
-market_price_as_of: 2026-05-12
+market_price: 0.04
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 art_match_confidence: high

@@ -16,7 +16,7 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "centered", "no-face", "ench
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/26-prison-realm.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-05
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/d/4/d476e8e5-2377-464b-b2d5-a3cd66ee2e45.png?1615326957

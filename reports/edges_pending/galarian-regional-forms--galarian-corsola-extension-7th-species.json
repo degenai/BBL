@@ -1,0 +1,26 @@
+{
+  "edge_id": "galarian-regional-forms--galarian-corsola-extension-7th-species",
+  "shape": "1:N",
+  "topology": "branch",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/galarian-regional-forms.md", "name": "Galarian regional forms (cohort node)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/078-192-galarian-corsola.md", "name": "Galarian Corsola (Rebel Clash 078/192)"}
+  ],
+  "description": "Seventh corpus member attaches to the Galarian regional-forms cohort. Ghost-type bleached-coral variant of the Hoennian Water/Rock original. The cohort's first environmental-decay-axis representative — the Galarica-seed, climate-exposure, martial-tradition, and performance-culture axes were already on the board; ocean-recession-as-coral-bleaching is a fifth canonical mechanism orthogonal to all four. Behold. The cohort's adaptation-lore grid is more materially-specified than the Alolan precedent claimed, and Corsola makes the climate-change reading explicit. Blueballed-by-fanout is the price of useful structure.",
+  "citations": [
+    "[Bulbapedia: Corsola (Pokemon) — Galarian Form section; Ghost-type variant, evolves to Cursola]",
+    "[Bulbapedia: Cursola (Pokemon) — SwSh-introduced evolved petrified-coral endpoint, no original-region counterpart]",
+    "[PokemonTCG.io API: swsh2-78 — flavor_text canonizing ocean-recession habitat-loss framing]",
+    "[Pokemon Sword & Shield (Game Freak, 2019) — primary canon for the Galarian variant species and the regional-adaptation framing]"
+  ],
+  "files_modified": [
+    "cards/pokemon/rebel-clash/078-192-galarian-corsola.md",
+    "cards/_characters/galarian-regional-forms.md"
+  ],
+  "edgelord_mood": "blueballed-by-fanout",
+  "other_candidates_considered": [
+    "Within-set RBC adjacency check: Galarian Corsola (RBC-078) is NOT collector-adjacent to any other Galarian-variant in RBC (Galarian Darumaka at 047, Galarian Mr. Mime at 037, Galarian Farfetch'd at 094, Galarian Meowth at 126 — none adjacent). No within-set evolution-mirror pair available; the cohort-node fan is the right shape.",
+    "Galarian Cursola line-completion pair speculation — rejected; Cursola is not in corpus. When Cursola lands in any future Collectr CSV upload, the species-pair edge becomes warrantable as a within-line evolution mirror parallel to the wave-22 DAA Mr. Mime / Mr. Rime pair."
+  ]
+}

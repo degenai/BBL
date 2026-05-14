@@ -1,0 +1,79 @@
+{
+  "edge_id": "electabuzz--magmar--connections-mirror-sync-corrective",
+  "shape": "replacement",
+  "topology": "mirror",
+  "topology_note": "Enlightened-Edgelord enlightened-corrective replacement. The edge between Electabuzz (RBC-058) and Magmar (RBC-029) was a bidirectional 1:1 mirror authored in wave 32, with each card's Connections section pointing at the other. The Magmar side was corrected in wave 33 trivia (Magmar's trivia explicitly states 'Version correction note — The existing Connections section originally had the version exclusivity reversed (Red/Blue). Corrected above based on Bulbapedia confirmation: Magmar = Blue-exclusive, Electabuzz = Red-exclusive'). The Electabuzz side STILL CARRIED THE FACTUAL ERROR (the orphan-drift case): 'Electabuzz was Blue-exclusive and Magmar Red-exclusive' — opposite of the Bulbapedia-canonical truth. Enlightened-Edgelord removes the factually-wrong bullet and replaces it with the corrected version in the same pass. Net edge count: unchanged (1 mirror edge stays as 1 mirror edge); quality: factually correct mirror restored.",
+  "category": "designer-confirmed-cycle",
+  "category_note": "Generation I designer-coordinated counterpart pair. Magmar (no. 126, Fire) and Electabuzz (no. 125, Electric) are Kanto's most explicitly symmetrical version-exclusive pair per Bulbapedia's Magmar Trivia section: 'Magmar is exclusive to Pokémon Blue, LeafGreen, Black 2, and Shining Pearl, while Electabuzz is exclusive to Pokémon Red, FireRed, White 2, and Brilliant Diamond.' Mirrored evolution mechanics (Magby/Elekid pre-evos in Gen II, Magmortar/Electivire final evolutions via Magmarizer/Electirizer trade-holding-item in Gen IV), Pokedex-adjacent numbering (125/126), and mirrored industrial locations in Gen I (Pokemon Mansion for Magmar / Power Plant for Electabuzz) make this a textbook designer-coordinated counterpart pair.",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/pokemon/rebel-clash/058-192-electabuzz.md",
+      "name": "Electabuzz (Rebel Clash 058/192)",
+      "role": "card with the factually-wrong Connections bullet — now corrected"
+    },
+    {
+      "type": "card",
+      "path": "cards/pokemon/rebel-clash/029-192-magmar.md",
+      "name": "Magmar (Rebel Clash 029/192)",
+      "role": "mirror partner; already corrected in wave 33 trivia pass per Magmar trivia's 'Version correction note' bullet"
+    }
+  ],
+  "edges_removed": [
+    {
+      "location": "cards/pokemon/rebel-clash/058-192-electabuzz.md ## Connections section",
+      "bullet_text": "'[[029-192-magmar]] — Generation I designer-coordinated counterpart pair, both printed in the same set (Rebel Clash 058/192 and 029/192). Electabuzz (National Pokedex no. 125, Electric) and Magmar (no. 126, Fire) are Kanto's most explicitly symmetrical version-exclusive pair: Electabuzz was Blue-exclusive and Magmar Red-exclusive in the original 1996 Pokemon Red and Blue, found in mirrored industrial locations (Power Plant vs. Pokemon Mansion), evolve via identical mechanics (...) The Pokedex-adjacent numbering (125/126) confirms the design intent.'",
+      "removal_reason": "Factually incorrect version exclusivity reversed. The bullet claimed Electabuzz=Blue-exclusive and Magmar=Red-exclusive; Bulbapedia's Magmar Trivia section explicitly states the OPPOSITE: Magmar is Blue-exclusive (also LeafGreen / Black 2 / Shining Pearl); Electabuzz is Red-exclusive (also FireRed / White 2 / Brilliant Diamond). This was the orphan-drift case — wave 32 Edgelord had drawn the original mirror; wave 33 triviabot's pass corrected Magmar's side with explicit acknowledgement; Electabuzz's side was missed by the trivia pass (triviabot's scope was Magmar's trivia, not Electabuzz's Connections cross-reference). Enlightened-corrective: same card-pair, same edge shape, factually accurate content."
+    }
+  ],
+  "edges_added": [
+    {
+      "location": "cards/pokemon/rebel-clash/058-192-electabuzz.md ## Connections section",
+      "bullet_text": "'[[029-192-magmar]] — Generation I designer-coordinated counterpart pair, both printed in the same set (Rebel Clash 058/192 and 029/192). Electabuzz (National Pokedex no. 125, Electric) and Magmar (no. 126, Fire) are Kanto's most explicitly symmetrical version-exclusive pair: Electabuzz was Red-exclusive and Magmar Blue-exclusive in the original 1996 Pokemon Red and Blue (also FireRed/LeafGreen, Black 2/White 2, and Brilliant Diamond/Shining Pearl per Bulbapedia's Magmar Trivia section), found in mirrored industrial locations (Power Plant vs. Pokemon Mansion), evolve via identical mechanics (level 30 base, then trade-holding the \"-izer\" item: Electirizer vs. Magmarizer, both added in Generation IV), and have mirrored three-stage evolution lines (Elekid → Electabuzz → Electivire; Magby → Magmar → Magmortar) introduced step-for-step in the same generations. The Pokedex-adjacent numbering (125/126) confirms the design intent. `[Bulbapedia: Magmar Trivia section — \"Magmar is exclusive to Pokémon Blue, LeafGreen, Black 2, and Shining Pearl, while Electabuzz is exclusive to Pokémon Red, FireRed, White 2, and Brilliant Diamond\"]` `[Bulbapedia: Electabuzz]` `[PokemonTCG.io: swsh2-58, swsh2-29]`'",
+      "addition_reason": "Restore the bidirectional mirror with factually-correct version exclusivity matching Bulbapedia primary-source canon (Magmar=Blue / Electabuzz=Red, NOT the reverse). Bullet text mirrors the Magmar-side bullet in structure (already correct per wave 33 trivia pass) so the two sides of the mirror now read consistently. Expanded citation block names the Magmar Trivia section directly as primary source, and lists all four generation-pair version-exclusivity assignments (RB / FRLG / BW2 / BDSP) per Bulbapedia's full enumeration."
+    }
+  ],
+  "description": "Enlightened-corrective mirror sync fix. Wave 32 Edgelord authored the original Electabuzz↔Magmar version-exclusivity mirror with the EXCLUSIVITY REVERSED — claimed Magmar=Red / Electabuzz=Blue. Wave 33 triviabot caught the error on Magmar's side and corrected Magmar's Connections (Bulbapedia primary source: Magmar=Blue / Electabuzz=Red — also documented across FRLG, BW2, and BDSP generation pairs). Electabuzz's Connections section was missed by the trivia pass (triviabot's scope was Magmar's trivia, not the cross-card Connections orphan). Enlightened-Edgelord removes the factually-wrong Electabuzz-side bullet and replaces it with the corrected version in the same pass; net edge count unchanged (one mirror stays as one mirror), edge quality restored. Bulbapedia's Magmar Trivia section is direct-quoted in the new citation block as primary source ('Magmar is exclusive to Pokémon Blue, LeafGreen, Black 2, and Shining Pearl, while Electabuzz is exclusive to Pokémon Red, FireRed, White 2, and Brilliant Diamond'). The Magmar-side bullet (already correct per wave 33 trivia) and the new Electabuzz-side bullet now read consistently as a true bidirectional mirror.",
+  "citations": [
+    "[Bulbapedia: Magmar — Trivia section explicitly states the version exclusivity: 'Magmar is exclusive to Pokémon Blue, LeafGreen, Black 2, and Shining Pearl, while Electabuzz is exclusive to Pokémon Red, FireRed, White 2, and Brilliant Diamond.' Primary source for the canonical fact, retrieved via direct Bulbapedia fetch during this Edgelord pass.]",
+    "[Bulbapedia: Electabuzz — confirms the same version exclusivity in the species' own page (Pokemon Red and Blue version-exclusive entries)]",
+    "[Corpus: cards/pokemon/rebel-clash/029-192-magmar.md — Trivia 'Version correction note' bullet: 'Corrected above based on Bulbapedia confirmation: Magmar = Blue-exclusive, Electabuzz = Red-exclusive.' Authoritative for the corrected Connections content matching Bulbapedia.]",
+    "[PokemonTCG.io: swsh2-58, swsh2-29 — primary sources for the two Rebel Clash card metadata]"
+  ],
+  "files_modified": [
+    "cards/pokemon/rebel-clash/058-192-electabuzz.md — ## Connections section bullet replaced: removed the factually-wrong version-exclusivity-reversed text; added the corrected text matching Bulbapedia's Magmar Trivia section primary source and matching the Magmar-side Connections bullet's already-corrected content. Net edge count: unchanged (1 mirror → 1 mirror); edge quality: restored."
+  ],
+  "edgelord_mood": "enlightened-corrective",
+  "mood_justification": "Fixing prior Edgelord overreach — the wave 32 Edgelord pass authored the original Electabuzz↔Magmar mirror with the version exclusivity reversed in both Connections sections; the wave 33 triviabot pass corrected the Magmar side with explicit acknowledgement of the prior error; this pass closes the loop by correcting the Electabuzz side (which was outside triviabot's scope and so survived the trivia-pass-correction unscathed). The enlightened-corrective shape applies cleanly: the edge stays (the mirror is still load-bearing — designer-coordinated counterpart pair is canonical per Bulbapedia), but the WRONG bullet is removed and the CORRECT bullet replaces it. The graph's truth-grounding improves; the corpus's mirror-sync discipline gets a worked example. Edgelord-with-CBG-energy: 'caught it. fixed it. the mirror reads right from both ends now. catalogue failure mode for the agent ecosystem: trivia-pass corrections that touch a card's trivia section but leave the Connections section's mirror untouched create orphan-drift — both sides need to be checked when canon-correction touches a mirrored 1:1 edge. wave 33 Edgelord 33 verifies. the graph improves.' Honest about being a corrective rather than a brand-new edge — this is enlightened-corrective, not the satisfying-and-new shape.",
+  "voice_separation_audit": {
+    "edgelord_voice_confined_to": ["description field", "mood_justification field", "final report text back to caller"],
+    "md_body_register": "project-normal precise factual — the corrected Connections bullet reads in canonical-reference register. Voice contamination check: PASSED.",
+    "frontmatter_register": "not touched (Connections section only). Check: PASSED.",
+    "no_em_dash_in_buyer_facing_copy_check": "Em dashes appear in the corrected Connections bullet in the project-internal canonical-reference register. Permitted per scope."
+  },
+  "anti_confab_audit": {
+    "claims_made_against_canonical_sources": [
+      "Magmar=Blue-exclusive, Electabuzz=Red-exclusive in Pokemon Red and Blue — Bulbapedia: Magmar (Pokemon) Trivia section direct quote retrieved via curl-with-UA in this Edgelord pass",
+      "Same exclusivity pattern repeats across FireRed/LeafGreen, Black 2/White 2, and Brilliant Diamond/Shining Pearl — same Bulbapedia Trivia section direct quote",
+      "Mirrored industrial locations in Gen I: Pokemon Mansion for Magmar (Blue) / Power Plant for Electabuzz (Red) — Bulbapedia per-species pages",
+      "Mirrored evolution mechanics across Gen II (Magby/Elekid pre-evos) and Gen IV (Magmortar/Electivire trade-with-izer-item final evolutions) — Bulbapedia per-species pages"
+    ],
+    "claims_held_back_per_anti_confab_discipline": [
+      "Did NOT touch the Trivia section of either card. Electabuzz's existing Trivia section's third bullet ALSO carries the reversed exclusivity claim ('Magmar was a Red-exclusive and Electabuzz was a Blue-exclusive') — but trivia corrections are bbl-triviabot's domain. Edgelord touches Connections section only. The Electabuzz Trivia error is FLAGGED to the parent / janitor triage as a follow-up triviabot task (see future_passes_unlocked below).",
+      "Did NOT change the Magmar Connections section. Magmar's Connections is already correct per wave 33 trivia pass. Edgelord verified it reads consistently with the corrected Electabuzz Connections and left it alone.",
+      "Did NOT touch tags_hub, tags_filter, Vision, or any frontmatter pointer on either card.",
+      "Did NOT create a janitor-triage entry for the parent to review; the structural observation about trivia-pass-orphan-drift is logged in the mood_justification field for the parent's narrative awareness and the FOLLOW-UP triviabot work is surfaced in future_passes_unlocked."
+    ],
+    "no_extrapolation_beyond_cited_sources": "PASSED. The corrected Connections bullet's primary source is Bulbapedia's Magmar Trivia section direct-quoted, fetched live in this pass via curl-with-Mozilla-UA. Every claim traces."
+  },
+  "future_passes_unlocked": [
+    "bbl-triviabot follow-up on Electabuzz (RBC-058) Trivia section: the third trivia bullet ('Designer counterpart pair') currently reads 'In the original Red/Blue games, Magmar was a Red-exclusive and Electabuzz was a Blue-exclusive' — same reversal error that Magmar's trivia already corrected for itself. Trivia-section correction is triviabot's scope; the Connections-section correction was done here in this Edgelord-enlightened-corrective pass. The two-step fix (Connections by Edgelord, Trivia by triviabot) restores full canonical accuracy across both Electabuzz card sections.",
+    "Optional janitor pass to add a 'Version correction note' bullet to Electabuzz's trivia matching Magmar's (acknowledging the prior reversal and citing Bulbapedia). Symmetric narrative-discipline footnote; nice-to-have, not load-bearing.",
+    "Agent-ecosystem awareness: when triviabot pass touches a card's trivia and the card has an existing Connections mirror, triviabot should flag the mirror-side card for follow-up Edgelord review. The wave-32-to-33 orphan-drift case worked here is the precedent example; could be encoded as a trivia-pass agent guard if Alex wants to systematize."
+  ],
+  "wave_33_context": {
+    "this_pass_position": "Wave 33 E4 — QUAD-pass Edgelord, single Opus dispatch, slot 4 of 4 (enlightened-corrective)",
+    "anti_duplicate_across_slots": "E4 touches only the Electabuzz card's Connections section. E1 touched Wyndon Stadium + galar-gym-challenge + macro-cosmos. E2 created kalos-aura-trio + touched Yveltal + Zygarde frontmatter. E3 touched League Staff + galar-gym-challenge appears_on + body bullet. No overlap.",
+    "external_canonical_source_fetched_in_this_pass": "Bulbapedia: Magmar (Pokemon) — Trivia section direct-quoted via curl-with-Mozilla-UA fetch. Anti-confab discipline: the version-exclusivity claim is grounded in a primary-source quote, not inferred from the prior Edgelord output (which was wrong) or the wave 33 trivia output (which is correct and matches the primary source)."
+  }
+}

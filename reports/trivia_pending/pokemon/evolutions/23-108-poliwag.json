@@ -1,0 +1,41 @@
+{
+  "card_name": "Poliwag",
+  "game": "Pokemon",
+  "set": "Evolutions",
+  "collector_number": "23/108",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Visual match confirmed: round blue tadpole with spiral-patterned belly matches National Pokedex no. 60 exactly. PokemonTCG.io API xy12-23 confirms name, types, and Ken Sugimori artist credit.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Poliwag (no. 23/108) is part of Evolutions (XY12, November 2016), the 20th-anniversary Base Set tribute. Art credited to Ken Sugimori, Game Freak's lead character designer and creator of the original Pokemon designs. Sugimori personally designed the Poliwag line.",
+      "sources": ["PokemonTCG.io API: xy12-23", "WebSearch: Pokebeach XY12 Evolutions overview"]
+    },
+    {
+      "category": "design",
+      "text": "Poliwag's belly spiral is modeled after the intestinal tract of real-life tadpoles, whose internal organs are visible through semitransparent abdominal skin. The Pokedex confirms: 'A part of its internal organs can be seen through the skin as a spiral pattern.' The spiral is said to look clearer after eating. Documented by Pokemon researcher Dr. Lava as one of the franchise's most biologically accurate design choices.",
+      "sources": ["WebSearch: Dr. Lava on X @DrLavaYT", "WebSearch: Bulbapedia Poliwag"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.\"",
+      "sources": ["PokemonTCG.io API: xy12-23"]
+    },
+    {
+      "category": "design",
+      "text": "Poliwag (National Pokedex no. 60) branches at its final evolution: Poliwrath via Water Stone vs. Politoed via King's Rock trade (introduced Gen II). This made Poliwag one of the franchise's first examples of a held-item-dependent branching final-evolution line.",
+      "sources": ["WebSearch: Bulbapedia Poliwag"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Poliwhirl", "set": "Evolutions", "note": "Mid-stage; spiral belly persists"},
+    {"name": "Poliwrath", "set": "Evolutions", "note": "Water/Fighting final evolution via Water Stone"},
+    {"name": "Politoed", "set": "any", "note": "Alternate final evolution via King's Rock trade; branching line"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

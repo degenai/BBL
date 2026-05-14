@@ -14,8 +14,8 @@ tags_hub: ["turtle", "reptile", "fae", "sprite", "river", "water", "mist", "ferr
 tags_filter: ["duo", "2-figures", "mid-shot", "faces-left", "scene-mode", "no-face-human", "creature-turtle", "blue-magic"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/56-mistford-river-turtle.png
 average_cost_paid: 0
-market_price: 0.19
-market_price_as_of: 2026-05-12
+market_price: 0.2
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

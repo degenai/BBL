@@ -1,0 +1,36 @@
+{
+  "card_name": "Cheren's Care",
+  "game": "Pokemon",
+  "set": "Brilliant Stars",
+  "collector_number": "134/172",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names 'Cheren' in the title 'Cheren's Care'. Depicted figure — young adult male in white collared shirt and glasses standing before a red-roofed building consistent with a Pokemon Center or Trainer School — matches Cheren's canonical appearance as Normal-type Gym Leader of Aspertia City and teacher at Aspertia Trainer School in Pokemon Black 2 and White 2. Glasses are Cheren's defining visual identifier across all appearances. Artist Yusuke Ohmura is a documented Pokemon TCG artist.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Brilliant Stars (SWSH9) released February 25, 2022 as the ninth Sword and Shield series expansion and the first to introduce the VSTAR mechanic. The set's poster card is Arceus VSTAR; Cheren's Care is one of the Supporter trainer cards populating the supporter lineup with returning characters from across the game series. [PokemonTCG.io API: swsh9]",
+      "sources": ["PokemonTCG.io API: swsh9"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Cheren begins Pokemon Black and White as the player's rival — the one who picks the type-advantaged starter — driven by an obsession with strength he cannot initially articulate. By Pokemon Black 2 and White 2, set two years later, he has become the Normal-type Gym Leader at Aspertia City's Gym and works as a teacher at the Aspertia Trainer School. The TCG card depicts him in this later, settled role: educator in front of a school-like building. [Bulbapedia: Cheren, via WebSearch]",
+      "sources": ["Bulbapedia: Cheren, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Cheren's Care (BRS no. 134/172) bounces one of your Colorless-type Pokemon with damage counters — plus all attached cards — back to hand, resetting it to full health. The Colorless restriction maps to his Normal-type gym specialization. The effect is mechanically parallel to Acerola (BUS no. 112/147), which does the same for any Pokemon type. Both are Supporter healing-bounce effects from trainer NPCs with caretaker characterizations. [PokemonTCG.io API: swsh9-134]",
+      "sources": ["PokemonTCG.io API: swsh9-134"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Acerola", "set": "Burning Shadows", "note": "Mechanically parallel healing-bounce Supporter; same effect template, any type vs Colorless restriction"},
+    {"name": "Bianca", "set": "Boundaries Crossed", "note": "Fellow Unova BW rival/friend character with TCG Supporter card"},
+    {"name": "N", "set": "Various", "note": "Black/White antagonist with multiple TCG Supporter reprints; same generation cohort"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

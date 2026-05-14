@@ -1,0 +1,42 @@
+{
+  "card_name": "Ralts",
+  "game": "Pokemon",
+  "set": "Chilling Reign",
+  "collector_number": "059/198",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via PokemonTCG.io swsh6-59 name field. National Pokedex no. 280. Hoenn Psychic/Fairy empathy-based starter-adjacent species.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Ralts is classified as the 'Feeling Pokemon.' Its design is built around the concept of empathy: the red horn-like structures on its head function as emotional antennae, sensing the moods of nearby humans and Pokemon. Its bowl-cut visor design is a common visual shorthand in anime and manga for shy or sensitive characters.",
+      "sources": ["Bulbapedia: Ralts", "Pokemon Wiki: Ralts"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"If its horns capture the warm feelings of people or Pokemon, its body warms up slightly.\" The horns-as-empathy-receptors mechanic is carried forward through Kirlia and into Gardevoir, described as capable of sensing its Trainer's emotions from across the world.",
+      "sources": ["PokemonTCG.io: swsh6-59"]
+    },
+    {
+      "category": "design",
+      "text": "Kirlia (Ralts's direct evolution) branches into two final forms: Gardevoir (any gender, level 30) and Gallade (male only, via Dawn Stone) — one of the few three-stage lines with a gender-conditional fork at the second stage. Gardevoir is Psychic/Fairy; Gallade is Psychic/Fighting.",
+      "sources": ["PokemonTCG.io: swsh6-60 evolvesTo field", "Bulbapedia: Kirlia"]
+    },
+    {
+      "category": "sentiment",
+      "text": "The Ralts line is consistently cited among the most popular designs from Generation III (Ruby/Sapphire, 2002). Community polls place Gardevoir as one of the most recognizable Pokemon designs overall, a recognition that retroactively elevates Ralts and Kirlia's cultural footprint.",
+      "sources": ["PokéCommunity Forums: Favorite Gen 3 Pokemon threads", "Nintendo Life poll: Favourite Gen 3 Pokemon"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kirlia", "set": "Chilling Reign", "note": "direct evolution, same set adjacency"},
+    {"name": "Gardevoir", "set": "various", "note": "final evolution endpoint (any gender)"},
+    {"name": "Gallade", "set": "various", "note": "final evolution endpoint (male + Dawn Stone)"},
+    {"name": "Kirlia", "set": "Burning Shadows", "note": "cross-set print of same stage"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

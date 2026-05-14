@@ -1,0 +1,35 @@
+{
+  "card_name": "Swellow",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "134/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is Swellow; PokemonTCG.io confirms nationalPokedexNumbers: [277], evolvesFrom: Taillow, Stage 1 subtype; flavor text matches canonical Pokedex entry. Art depicts a blue and red swallow-type bird in diving pose, matching Swellow's published design. Internal Pokemon IP, no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Swellow is National Pokedex no. 277, a Normal/Flying type introduced in Generation III (Pokemon Ruby & Sapphire, 2002). It evolves from Taillow at level 22. Taillow is encountered on Routes 104, 115, 116, and in Petalburg Woods in Ruby/Sapphire. [PokemonTCG.io: swsh4-134; Bulbapedia: Swellow, via WebSearch snippet]",
+      "sources": ["PokemonTCG.io: swsh4-134", "Bulbapedia: Swellow, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "In competitive play, Swellow sits in the NU (Never Used) tier but is considered one of that tier's top offensive threats, with base 125 Speed being its primary asset. Its Guts ability allows it to power up Facade under status conditions, and access to Scrappy + STAB Boomburst makes it a potent Choice Specs cleaner. None of this translates to the TCG card, which uses a simpler Quick Attack / Energy Assist kit. [Bulbapedia: Swellow competitive, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Swellow competitive, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.\" [PokemonTCG.io: swsh4-134]",
+      "sources": ["PokemonTCG.io: swsh4-134"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Taillow", "set": "Multiple", "note": "Pre-evolution — Normal/Flying, Hoenn early-route bird"},
+    {"name": "Swellow", "set": "Roaring Skies", "note": "Earlier print of same species in XY era for reprint history context"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

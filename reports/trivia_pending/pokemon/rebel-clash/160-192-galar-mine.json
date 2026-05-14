@@ -1,0 +1,41 @@
+{
+  "card_name": "Galar Mine",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "160/192",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag on this card.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Galar Mine (no. 160/192) is a Stadium Trainer card from Rebel Clash (SWSH2), the second Sword & Shield expansion, released May 1, 2020. Rebel Clash's 192-card set introduced dozens of Galar-region Pokemon and supported the Sword & Shield games' narrative arc around Chairman Rose's energy project. [PokemonTCG.io API: swsh2-160; WebSearch: Rebel Clash (TCG) release]",
+      "sources": ["PokemonTCG.io API", "WebSearch: Rebel Clash release date, Bulbapedia"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Galar Mine is a real in-game location in Pokemon Sword & Shield, connecting Route 3 and Route 4. It is presented as an active mining operation — the tunnels are lit by crystal formations and staffed by mine workers. The game's narrative places it in the plot surrounding Chairman Rose, who directed a boy to gather Wishing Stars from the mine for his secret energy project (the same energy infrastructure project that drives the game's third-act conflict). [WebSearch: Galar Mine Sword Shield lore, game8.co; Serebii.net Pokearth: Galar Mine]",
+      "sources": ["WebSearch: game8.co Galar Mine", "WebSearch: serebii.net Pokearth Galar Mine"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Stadium effect raises the Retreat Cost of both Active Pokemon by two Colorless Energy. As a symmetrical cost-inflation effect, Galar Mine is typically used in decks that benefit from opponent immobility — pairing with cards that punish the Active Pokemon or that deal escalating damage over time. The card has no printed flavor text; the Stadium art serves as the sole atmospheric layer. [PokemonTCG.io API: swsh2-160 oracle_text (rules)]",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Within this corpus, Galar Mine is paired via the Connections section with Pikachu (Burning Shadows 40/147), which carries flavor text describing a plan to \"gather many Pikachu and make an electric power plant.\" Together they form the corpus's primary Pokemon-side labor-extraction pair: Galar Mine as physical extraction-site infrastructure (tunnel, rail tracks, wooden support beams), Pikachu BUS-40 as workforce-aggregation-as-energy-resource. [card frontmatter Connections section; [[labor]] hub; Pikachu BUS-40 flavor text via PokemonTCG.io]",
+      "sources": ["card frontmatter Connections section", "PokemonTCG.io API: BUS-40 Pikachu flavor text"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pikachu", "set": "Burning Shadows (040/147)", "note": "Established corpus labor-extraction pair; flavor text cites plan to aggregate Pikachu as power plant workforce"},
+    {"name": "Galar Mine No. 2", "set": "Rebel Clash (161/192)", "note": "Sister Stadium card in the same set; second Galar Mine location from the games"},
+    {"name": "Rose Tower", "set": "Vivid Voltage", "note": "Chairman Rose's other Galar infrastructure card; thematic companion to the mining-energy chain"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

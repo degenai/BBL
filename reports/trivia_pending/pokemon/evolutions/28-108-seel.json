@@ -1,0 +1,41 @@
+{
+  "card_name": "Seel",
+  "game": "Pokemon",
+  "set": "Evolutions",
+  "collector_number": "28/108",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Visual match confirmed: pale rounded seal-like creature with forehead horn matches National Pokedex no. 86 exactly. PokemonTCG.io API xy12-28 confirms name, types, and Ken Sugimori artist credit.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Seel (no. 28/108) is part of Evolutions (XY12, November 2016), the 20th-anniversary Base Set tribute. Art credited to Ken Sugimori, original designer of the Seel line. Minimal centered composition matches the spare style of 1999 Base Set originals.",
+      "sources": ["PokemonTCG.io API: xy12-28", "WebSearch: Pokebeach XY12 Evolutions overview"]
+    },
+    {
+      "category": "design",
+      "text": "Seel (National Pokedex no. 86) compresses multiple Arctic marine mammals into one design: round white body resembles a beluga whale or harp seal pup, forehead horn references narwhals, name 'Seel' phonetically echoes 'seal.' Evolution Dewgong's name is a play on 'dugong' (a relative of the manatee). The line thus references at least four Arctic/subarctic species across two Pokemon.",
+      "sources": ["WebSearch: Bulbapedia Seel", "WebSearch: Bulbapedia Dewgong", "WebSearch: dextraneous.blog Seel/Dewgong"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Covered with light blue fur, its hide is thick and tough. It is active in bitter cold of -40 degrees Fahrenheit.\" — Note: -40 degrees Fahrenheit equals -40 degrees Celsius, the single convergence point of both scales.",
+      "sources": ["PokemonTCG.io API: xy12-28"]
+    },
+    {
+      "category": "design",
+      "text": "The card's Growl attack (reduces Defending Pokemon's next attack by 20) maps directly to the mainline Growl move mechanic (lowering opponent's Attack stat) present since Generation I. Evolutions preserved this flavor-accurate move mapping from the 1999 Base Set prints.",
+      "sources": ["PokemonTCG.io API: xy12-28"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dewgong", "set": "Evolutions", "note": "Evolution; the 'dugong' half of the name mashup"},
+    {"name": "Lapras", "set": "Evolutions", "note": "Fellow Water-type in the same set; large Arctic-adjacent Pokemon"},
+    {"name": "Cloyster", "set": "Evolutions", "note": "Water/Ice type; thematic cold-climate pairing in the Evolutions roster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

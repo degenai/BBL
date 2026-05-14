@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "three-quarter-facing", "portrait-mode", "no-f
 reference_image: cards/_images/pokemon/burning-shadows/54-147-croagunk.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-08
 last_seen: 2026-05-12
 reference_image_source_url: https://images.pokemontcg.io/sm3/54_hires.png
@@ -28,7 +28,7 @@ setting: urban
 subject_known_ip: true
 suspected_ip: Croagunk (Pokemon)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 flavor_text: Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.
 oracle_text: Corkscrew Punch (Colorless) 10\nFrog Hop (PsychicColorless) 20+: Flip a coin. If heads, this attack does 20 more damage.
 ---
@@ -39,8 +39,8 @@ oracle_text: Corkscrew Punch (Colorless) 10\nFrog Hop (PsychicColorless) 20+: Fl
 
 ![54-147-croagunk](../../_images/pokemon/burning-shadows/54-147-croagunk.png)
 
-> [!warning] Suspected IP: **Croagunk (Pokemon)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Croagunk (Pokemon)**
+> Confirmed via card name, flavor text ("cheeks hold poison sacs"), and National Pokedex no. 453 [card frontmatter / PokemonTCG.io].
 
 A bipedal blue-and-black amphibian Pokemon, Croagunk, crouches low with knees splayed wide and arms cocked, fingertips bright orange. Its head is rounded with yellow eyes and prominent reddish cheek sacs. The figure sits on what appears to be patchy ground in front of a stylized urban skyline: pale-yellow institutional buildings with arched and rectangular windows, set against a flat purple-pink sky. The composition is mid-shot, low-angle, with the creature dominating the frame.
 
@@ -56,3 +56,14 @@ A bipedal blue-and-black amphibian Pokemon, Croagunk, crouches low with knees sp
 **Iconography:** pokemon-energy-fighting
 **Genre cues:** anime, monster-collector
 
+## Trivia
+
+- **Set context** — Burning Shadows released August 4, 2017, the third expansion of the Sun & Moon series. The set contains 169 cards (147 regular plus 22 secret rares) [WebSearch snippet: Burning Shadows set details].
+- **Anime association** — Croagunk is strongly associated with Brock in the Pokémon Diamond & Pearl anime run. Brock's Croagunk became a recurring comic character who used Poison Jab to drag Brock away every time he flirted with a woman. Brock's Croagunk was the first Pokémon he caught in Sinnoh [Bulbapedia: Brock's Croagunk].
+- **Flavor text** — *"Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers."* [card frontmatter / PokemonTCG.io]. The ambush-predator framing here matches the art's low-crouch combat stance — the card's composition and flavor text reinforce the same behavioral beat.
+- **Artist** — Illustrated by Naoki Saito, one of the most prominent Pokémon TCG illustrators, active since the HeartGold & SoulSilver expansion. His Burning Shadows work received immediate community attention and he has since become a high-demand illustrator whose full-art cards command strong secondary market prices [Bleeding Cool: Naoki Saito artist spotlight; CGC Cards: Artist Showcase Naoki Saito].
+
+### Related cards
+- Toxicroak (multiple sets) — Croagunk's evolution; Poison/Fighting
+- Brock's Croagunk (multiple sets, if printed) — anime-specific character card variant
+- Brock (multiple sets) — Gym Leader/companion whose anime team featured Croagunk

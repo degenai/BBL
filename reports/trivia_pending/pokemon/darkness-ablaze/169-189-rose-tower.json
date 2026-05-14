@@ -1,0 +1,36 @@
+{
+  "card_name": "Rose Tower",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "169/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Rose Tower' — a named in-game location in Pokemon Sword & Shield. PokemonTCG.io confirms swsh3-169 as a Stadium card in Darkness Ablaze. Bulbapedia confirms Rose Tower is Macro Cosmos HQ in Wyndon, Galar. The angular teal tower art matches the building's distinctive design. Verification is straightforward: this is a named in-game location card, not an unnamed depicted figure.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Rose Tower is the headquarters of Macro Cosmos, located in Wyndon, the capital city of the Galar region. The tower stands nearly a thousand feet tall and was built on a Power Spot, which allows Pokemon to Dynamax on its roof — a structural detail that doubles as a late-game narrative device when Eternatus is summoned there. [WebSearch: Bulbapedia/Rose Tower; Serebii/Sword & Shield Macro Cosmos]",
+      "sources": ["Bulbapedia via WebSearch", "Serebii via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The tower serves as the final destination in Pokemon Sword & Shield's main story. The player must fight through Macro Cosmos's league staff recruited by Oleana before confronting Chairman Rose at the summit. The building's elevator system connects to Hammerlocke Stadium's underground Energy Plant — the site of Eternatus's summoning. [WebSearch: Bulbapedia/Rose Tower; Samurai Gamers walkthrough]",
+      "sources": ["Bulbapedia via WebSearch", "WebSearch: millenium.gg walkthrough"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a Stadium card, Rose Tower lets each player draw up to 3 cards once per turn — a hand-refill effect that supports aggressive VMAX strategies. It is legal in both Unlimited and Expanded formats. The 5ban Graphics art team illustrated the card. [PokemonTCG.io API: swsh3-169]",
+      "sources": ["PokemonTCG.io API"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rose", "set": "Darkness Ablaze", "note": "The Chairman himself — Supporter card in the same set, same Macro Cosmos arc"},
+    {"name": "Oleana", "set": "Darkness Ablaze", "note": "Macro Cosmos VP who controls access to Rose Tower in-game"},
+    {"name": "Hammerlocke Stadium", "set": "multiple", "note": "The stadium beneath which the Energy Plant connects to Rose Tower in-game"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

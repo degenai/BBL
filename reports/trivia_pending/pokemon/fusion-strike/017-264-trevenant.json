@@ -1,0 +1,45 @@
+{
+  "card_name": "Trevenant",
+  "game": "Pokemon",
+  "set": "Fusion Strike",
+  "collector_number": "017/264",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, art, and species confirmed as Trevenant via PokemonTCG.io API (swsh8-17). Internal Pokemon IP — no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Fusion Strike (SWSH8) released November 12, 2021 as the 8th Sword and Shield expansion. At 264 base-set cards (284 total with secret rares), it was the largest Sword and Shield set at time of release.",
+      "sources": ["PokemonTCG.io API swsh8-17", "pokellector.com Fusion Strike set page"]
+    },
+    {
+      "category": "design",
+      "text": "Trevenant is based on the Japanese kodama — tree spirits from Shinto folklore that inhabit ancient trees and curse those who fell them. Its stripe markings resemble shimenawa rope used to mark spiritual habitation. The single-eye draws on cyclopean yokai tradition. More loosely related to Tolkien's Ents and Western dryads.",
+      "sources": ["Bulbapedia Trevenant via WebSearch snippet", "Dr. Lava @DrLavaYT via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Trevenant is kind to Pokemon and people who dwell peacefully in its forest, but devours anyone who destroys its home. Its roots connect to surrounding trees across the entire forest, letting it monitor and control every corner of its territory. Legend says cutting its trees brings a curse.",
+      "sources": ["pokemon.fandom.com/wiki/Trevenant via WebSearch snippet", "pokemon.com Pokedex"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Small roots that extend from the tips of this Pokemon's feet can tie into the trees of the forest and give Trevenant control over them.\"",
+      "sources": ["PokemonTCG.io API swsh8-17"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Trevenant (National Pokedex no. 709) is the Stage 1 evolution of Phantump (no. 708). Both introduced Generation VI (X & Y, 2013, Kalos). Phantump's design is grounded in the lore of children's spirits lost in the forest — Trevenant carries that lineage forward as the adult haunted-tree guardian.",
+      "sources": ["PokemonTCG.io API swsh8-17", "Bulbapedia Phantump via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Phantump", "set": "Cosmic Eclipse", "note": "Base form of the evolution line; Wave 22 trivia established spirit-of-lost-child benchmark"},
+    {"name": "Phantump", "set": "Fusion Strike", "note": "Same-set companion base form (018/264)"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

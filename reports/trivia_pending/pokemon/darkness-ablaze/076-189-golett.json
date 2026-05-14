@@ -1,0 +1,46 @@
+{
+  "card_name": "Golett",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "076/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "PokemonTCG.io API confirms card name 'Golett', National Pokedex no. 622, Psychic-type, Unova region (Gen 5). Vision pass describes blue-gray clay golem with glowing orange eyes and glyph markings against a cosmic purple background — matches canonical Golett appearance. Ghost/Ground-type in mainline games maps to Psychic-type in TCG. IP is Game Freak/Nintendo-internal.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Darkness Ablaze (SWSH3) released August 14, 2020. Golett (National Pokedex no. 622) appears as a Psychic-type common at no. 76/189. Ghost-types in the mainline games are classified as Psychic-type in the TCG [PokemonTCG.io API: swsh3-76].",
+      "sources": ["PokemonTCG.io API (swsh3-76)"]
+    },
+    {
+      "category": "design",
+      "text": "Golett is a Ghost/Ground-type introduced in Pokemon Black & White (Gen 5, Unova, 2010). It evolves into Golurk. The design draws from multiple ancient-golem traditions: primarily the Golem of Jewish folklore (the 'shem' parchment control mechanism maps to Golurk's chest seal — remove the seal and it rages indiscriminately). Secondary inspirations include Haniwa (Japanese terracotta funerary objects) and the Terracotta Army of China (clay soldiers created circa 210 BCE to protect the first Emperor) [WebSearch: bulbapedia.bulbagarden.net/wiki/Golett_(Pokemon); WebSearch: bogleech.com/pokemon/p622golett].",
+      "sources": ["WebSearch: bulbapedia.bulbagarden.net/wiki/Golett_(Pokemon)", "WebSearch: bogleech.com/pokemon/p622golett"]
+    },
+    {
+      "category": "design",
+      "text": "Golett and Golurk's presence in Unova, a region modeled on New York City, may reference the fact that New York City has the largest Jewish population of any city in the world — connecting the golem-of-Prague design lineage to the Unova/New York parallel [WebSearch: bulbapedia.bulbagarden.net/wiki/Golurk_(Pokemon)].",
+      "sources": ["WebSearch: bulbapedia.bulbagarden.net/wiki/Golurk_(Pokemon)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"They were sculpted from clay in ancient times. No one knows why, but some of them are driven to continually line up boulders.\" — card flavor text [PokemonTCG.io API: swsh3-76]. The compulsive boulder-arrangement behavior, with no stated purpose, carries the design's intentional ambiguity: these constructs were built by a civilization that no longer exists, leaving only their autonomous drives.",
+      "sources": ["PokemonTCG.io API (swsh3-76)"]
+    },
+    {
+      "category": "design",
+      "text": "Golurk (the evolution) runs on a mysterious energy — possibly a perpetual motion machine. When the seal on its chest is removed, it rages and can turn an entire town to rubble. This chest-seal-as-power-governor maps directly to the Golem of Prague's shem: the text that animates and controls the golem, removal of which causes the construct to go berserk [WebSearch: WebSearch: bogleech.com/pokemon/p622golett; WebSearch: facts.net '18 Facts About Golurk'].",
+      "sources": ["WebSearch: bogleech.com/pokemon/p622golett", "WebSearch: facts.net/characters/pokemon/18-facts-about-golurk"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Golurk", "set": "various", "note": "Golett's evolution; the full-sized ancient guardian with chest seal and perpetual-motion energy source"},
+    {"name": "Claydol", "set": "various", "note": "Another ancient-artifact Ghost-type with Unova-era clay-construct design adjacency"},
+    {"name": "Aegislash", "set": "various", "note": "Another Gen 6+ ancient-weapon Ghost-type with a seal/power-source mechanic (sword spirit)"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

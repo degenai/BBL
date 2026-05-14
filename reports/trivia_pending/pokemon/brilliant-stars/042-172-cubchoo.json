@@ -1,0 +1,40 @@
+{
+  "card_name": "Cubchoo",
+  "game": "Pokemon",
+  "set": "Brilliant Stars",
+  "collector_number": "042/172",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Cubchoo: small white bear with teardrop head and dripping nose in snowy setting matches swsh9-42 record. National Pokedex no. 613, illustrated by ryoma uratsuka.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Second Cubchoo print in corpus. DAA-048 (Darkness Ablaze 048/189) by Saya Tsuruta was trivia'd in Wave 14. This BRS-042 is by ryoma uratsuka. Both prints carry identical flavor text.",
+      "sources": ["PokemonTCG.io: swsh9-42 and swsh3-48", "Bulbapedia: Cubchoo (Darkness Ablaze 48)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"When this Pokémon is in good health, its snot becomes thicker and stickier. It will smear its snot on anyone it doesn't like.\" Shared across both corpus Cubchoo prints. The nasal drip is canonically Cubchoo's cryogenic weapon system: it breathes in the snot to produce freezing attacks.",
+      "sources": ["PokemonTCG.io: swsh9-42 flavorText field", "Bulbapedia: Cubchoo (Pokemon)", "Bulbapedia: Beartic (Pokemon)"]
+    },
+    {
+      "category": "design",
+      "text": "Beartic's Pokedex entries describe its breath as cold enough to freeze seawater. The 'snot = power' design is a deliberate subversion of the cute-baby-bear archetype — gross-out humor as gameplay mechanic.",
+      "sources": ["Bulbapedia: Beartic (Pokemon)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Brilliant Stars (SWSH9), released February 25, 2022. Cubchoo is a Unova-native Pokémon (Gen V, National Pokedex no. 613) appearing as a Water-type common. Ice-types are classified as Water in the TCG energy system.",
+      "sources": ["PokemonTCG.io: swsh9"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Cubchoo", "set": "Darkness Ablaze", "note": "First corpus Cubchoo, Saya Tsuruta art"},
+    {"name": "Beartic", "set": "multiple", "note": "Cubchoo's evolution"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

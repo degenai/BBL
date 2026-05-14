@@ -1,0 +1,38 @@
+{
+  "card_name": "Fear of Abduction",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "9",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Fear of Abduction is one of 14 Enchantment Creature — Nightmare cards bearing the 'Fear of' naming pattern in Duskmourn: House of Horror (DSK, September 2024), forming one of the set's defining cycles. Each personalizes a specific phobia as a supernatural creature native to The House, a sentient haunted manor that functions as its own horror-genre plane. [Scryfall search: type:Nightmare type:Enchantment set:dsk name:/Fear of/]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's mechanic literalizes the abduction trope: it costs an additional creature exile to cast (the 'taken' victim), exiles an opponent's creature on entry (the abductee), and returns that creature when it leaves — the classic alien-abduction narrative loop encoded as a temporary, conditional removal spell. Legal in Standard, Pioneer, Modern, Legacy, Vintage, and Commander. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Fernando Falcone. The card carries no flavor text. EDHREC rank 18025 at time of research, reflecting limited Commander adoption — the additional-cost exile requirement makes it harder to slot than comparable Nightmare enchantments in the cycle. [Scryfall, EDHREC rank via Scryfall edhrec_rank field]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fear of Being Hunted", "set": "DSK", "note": "Cycle cohort — Fear-of Nightmare enchantment"},
+    {"name": "Fear of Burning Alive", "set": "DSK", "note": "Cycle cohort — Fear-of Nightmare enchantment"},
+    {"name": "Fear of Failed Tests", "set": "DSK", "note": "Cycle cohort — Fear-of Nightmare enchantment"},
+    {"name": "Fear of Falling", "set": "DSK", "note": "Cycle cohort — Fear-of Nightmare enchantment"},
+    {"name": "Fear of Missing Out", "set": "DSK", "note": "Cycle cohort — Fear-of Nightmare enchantment, rare rarity"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

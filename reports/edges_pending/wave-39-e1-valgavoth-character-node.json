@@ -1,0 +1,35 @@
+{
+  "edge_id": "wave-39-e1-valgavoth-character-node",
+  "shape": "node-proposal",
+  "category": "character-node-pervasive-antagonist",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/valgavoth.md", "name": "Valgavoth"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/206-wary-watchdog.md", "name": "Wary Watchdog"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/50-duskmourn-s-domination.md", "name": "Duskmourn's Domination"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/126-betrayer-s-bargain.md", "name": "Betrayer's Bargain"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/141-infernal-phantom.md", "name": "Infernal Phantom"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/197-say-its-name.md", "name": "Say Its Name"}
+  ],
+  "description": "Oh — uh, hello, sir. Mr. Nodeley here. So sorry to interrupt your edge work. I — I do think Valgavoth warrants a character node? He's the set-defining antagonist of Duskmourn, and there are nine corpus cards that reference him across four distinct vectors: two direct flavor-text citations (Wary Watchdog, Duskmourn's Domination), one narrative-agent story-spotlight (Betrayer's Bargain), eight set-context citations, and an entire iconographic-opposition cohort (the Glimmer subtype is canonically the survivors' defense against him). The Slobad precedent (flavor-speaker alone doesn't anchor) doesn't apply here because the threshold-shape for referenced-not-depicted anchors is multiplicity of referential vectors, not raw count of any single vector — closer to the phyrexia.md pervasive-antagonist precedent. I wired the five strongest-referencing cards with characters: ['valgavoth'] frontmatter. The set-context-only citations weren't wired because that would be over-wiring set-pervasive context. Thank you for considering. I'll go now.",
+  "citations": [
+    "[MTG Wiki: Valgavoth]",
+    "[MTG Wiki: Duskmourn: House of Horror]",
+    "[Wizards: Planeswalker's Guide to Duskmourn]",
+    "[Star City Games: Valgavoth's True Form Is Revealed In Duskmourn Episode 6]",
+    "[Scryfall per-card pages: DSK-50, DSK-126, DSK-141, DSK-197, DSK-206]"
+  ],
+  "files_modified": [
+    "cards/_characters/valgavoth.md (created)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/206-wary-watchdog.md (frontmatter)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/50-duskmourn-s-domination.md (frontmatter)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/126-betrayer-s-bargain.md (frontmatter)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/141-infernal-phantom.md (frontmatter)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/197-say-its-name.md (frontmatter)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "Wire all 9 set-context-citing cards — rejected as over-wiring; set-context appears on every DSK trivia entry, would dilute the characters:[] signal.",
+    "Defer per Slobad precedent — rejected because Slobad has 1 flavor-text vector, Valgavoth has 4 distinct vectors plus iconographic-opposition cohort."
+  ]
+}

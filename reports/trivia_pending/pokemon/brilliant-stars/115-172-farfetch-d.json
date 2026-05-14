@@ -1,0 +1,41 @@
+{
+  "card_name": "Farfetch'd",
+  "game": "Pokemon",
+  "set": "Brilliant Stars",
+  "collector_number": "115/172",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches species name exactly. Depicted figure — brown duck-like bird with cream belly, holding a green leek stalk, in pastoral landscape — matches the canonical Kanto Farfetch'd design (National Pokedex no. 83). API confirms nationalPokedexNumbers: [83] and evolvesTo: [Sirfetch'd]. Vision pass already confirmed Kanto form by brown (not grey) coloration distinguishing it from Galarian Farfetch'd. No ambiguity; Kanto Farfetch'd verified.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Farfetch'd (National Pokedex no. 83) is a Generation I Pokemon whose Japanese name, Kamonegi, is a portmanteau of 鴨 kamo (duck) and 葱 negi (spring onion), forming the expression 鴨葱 kamo negi — an abbreviation of the Japanese proverb meaning 'an easy target comes bearing gifts' or simply 'golden opportunity.' The English name 'Farfetch'd' references the proverb's improbability. The leek it carries is both the source of the name and the weapon; the BRS flavor text confirms this dual function. [Bulbapedia: Farfetch'd, via WebSearch]",
+      "sources": ["Bulbapedia: Farfetch'd, via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The stalk this Pokemon carries in its wings serves as a sword to cut down opponents. In a dire situation, the stalk can also serve as food.\" `[PokemonTCG.io API: swsh9-115 flavorText]`",
+      "sources": ["PokemonTCG.io API: swsh9-115 flavorText"]
+    },
+    {
+      "category": "design",
+      "text": "The Kanto Farfetch'd (Normal/Flying, brown plumage, leek as prop or vestigial item) contrasts with the Galarian Farfetch'd introduced in Pokemon Sword and Shield: Galarian form is Fighting-type, dark grey plumage, and wields the leek as an active weapon in a martial posture. The regional variant reflects a world-building claim that Galar's tougher local leeks and warrior culture transformed the species into a combat specialist. The Kanto form's BRS card depicts the original, pre-warrior version. [PokeJungle: Galarian Farfetch'd and Sirfetch'd, via WebSearch]",
+      "sources": ["PokeJungle: Galarian Farfetch'd and Sirfetch'd, via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The BRS Farfetch'd (no. 115/172) is a Basic Colorless-type with 80 HP and the attack Leek Lash: 20 base damage plus 10 more for each damage counter already on the opponent's Active Pokemon. The API confirms evolvesTo: [Sirfetch'd], establishing this card as the base of the Sirfetch'd evolution line — Sirfetch'd being the evolution exclusive to Galarian Farfetch'd, not the Kanto form. The Kanto form does not evolve. [PokemonTCG.io API: swsh9-115]",
+      "sources": ["PokemonTCG.io API: swsh9-115"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Galarian Farfetch'd", "set": "Various", "note": "Regional variant pair — fighting-type, grey plumage, leek-as-weapon posture; already in corpus (094-192)"},
+    {"name": "Sirfetch'd", "set": "Various", "note": "Evolution of Galarian Farfetch'd; Kanto form does not evolve in-game"},
+    {"name": "Farfetch'd", "set": "Base Set / Various", "note": "Earlier Kanto prints including the original 1998 Base Set appearance"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

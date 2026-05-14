@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "three-quarter", "action", "female-figure", "b
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/68-tome-raider.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/e/0/e04ad850-5801-4654-a388-f86be20a43bf.png?1572490015

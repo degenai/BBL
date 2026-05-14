@@ -15,7 +15,7 @@ tags_filter: ["solo", "close-up", "faces-left", "abstract-mode", "enchantment-au
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/50-duskmourn-s-domination.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/1/d/1d96dbc9-c2fd-42c1-9d55-5c14fa1c1c6f.png?1726286043
@@ -26,6 +26,7 @@ art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/50-d
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/d/1d96dbc9-c2fd-42c1-9d55-5c14fa1c1c6f.jpg?1726286043
 flavor_text: All who enter the House hear Valgavoth's whispers, worming through their consciousness until they can no longer resist his influence.
 oracle_text: Enchant creature\nYou control enchanted creature.\nEnchanted creature gets -3/-0 and loses all abilities.
+characters: ["valgavoth"]
 mood: horror
 time_of_day: indeterminate
 setting: void

@@ -1,0 +1,42 @@
+{
+  "card_name": "Sordward & Shielbert",
+  "game": "Pokemon",
+  "set": "Battle Styles",
+  "collector_number": "135/163",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via in-game character design: Sordward wears blue suit with sword-shaped hair, Shielbert wears red suit with shield-shaped hair — matching the card art exactly (blue-cape figure left, red-cape figure right). These are the post-game antagonist brothers from Pokemon Sword and Shield, confirmed on Bulbapedia and Serebii.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Sordward and Shielbert are the post-game antagonists of Pokemon Sword and Shield, presenting themselves as descendants of Galar's first kings. Their goal was to discredit Zacian and Zamazenta by Dynamaxing them into berserk rampages. [Bulbapedia: Sordward, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Sordward", "WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Their hairstyles are literal visual puns: Sordward's hair stands vertically in a sword-blade silhouette; Shielbert's hair fans into a shield-like mane. The card's blue-left / red-right color arrangement matches the brothers' game appearances — Sordward in blue (Sword version), Shielbert in red (Shield version). [Bulbapedia: Sordward, via WebSearch; Pokemon Fandom Wiki, via WebSearch]",
+      "sources": ["Bulbapedia: Sordward", "Pokemon Fandom Wiki"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's effect — offer your opponent a choice; they either let you recover a Trainer or you draw 3 cards — mirrors the brothers' theatrical, power-posturing personality: they present forced choices they believe they can't lose. Illustrated by Hideki Ishikawa; the background references the altar at Slumbering Weald from the games. [Serebii TCG Cardex: Hideki Ishikawa, via WebSearch; WebSearch snippet citing Bulbapedia card page]",
+      "sources": ["Serebii TCG Cardex: Hideki Ishikawa", "Bulbapedia: Sordward & Shielbert (Battle Styles 135)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "After their defeat and capture, Sordward and Shielbert abdicated their Galarian throne claim and later helped sponsor the Galarian Star Tournament as penance. They are among the few Pokemon antagonists to receive an on-screen redemption arc tied to ongoing post-game content. [Villains Wiki: Sordward and Shielbert, via WebSearch snippet]",
+      "sources": ["Villains Wiki: Sordward and Shielbert"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sordward & Shielbert", "set": "Battle Styles Full Art", "note": "Full Art version of the same card (BST 171) — higher-rarity print of identical character"},
+    {"name": "Hop", "set": "Battle Styles", "note": "Rival character who teams with the player against Sordward/Shielbert in post-game"},
+    {"name": "Urshifu V", "set": "Battle Styles", "note": "Flagship Legendary of the Battle Styles set; Sordward & Shielbert share the same expansion"},
+    {"name": "Zacian V", "set": "Sword & Shield Base", "note": "The Legendary the brothers attempted to weaponize"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

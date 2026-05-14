@@ -15,12 +15,13 @@ tags_filter: ["solo", "mid-shot", "three-quarter-facing", "scene-mode", "white-m
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/14-farsight-adept--foil.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-05
 last_seen: 2026-05-12
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
+characters: ["kor"]
 reference_image_source_url: https://cards.scryfall.io/png/front/5/9/5949bb9a-b4e8-4992-a12d-8e31953aff0d.png?1604195753
 mood: sublime
 time_of_day: day

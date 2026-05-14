@@ -14,8 +14,8 @@ tags_hub: ["clover", "luck", "hands", "charm", "talisman", "plant", "growth", "f
 tags_filter: ["close-up", "no-figures", "no-face", "object-focus", "still-life", "colorless-magic", "artifact", "portrait-mode"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/226-lucky-clover.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-12
+market_price: 0.24
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 art_match_confidence: high

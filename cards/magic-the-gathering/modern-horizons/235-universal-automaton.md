@@ -14,8 +14,8 @@ tags_hub: ["automaton", "construct", "robot", "golem", "workshop", "laboratory",
 tags_filter: ["duo", "2-figures", "mid-shot", "three-quarter-facing", "no-face", "scene-mode", "artifact", "creature-shapeshifter", "colorless-magic", "changeling"]
 reference_image: cards/_images/magic-the-gathering/modern-horizons/235-universal-automaton.png
 average_cost_paid: 0
-market_price: 3.58
-market_price_as_of: 2026-05-12
+market_price: 3.57
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 art_match_confidence: high

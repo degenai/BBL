@@ -1,0 +1,36 @@
+{
+  "card_name": "Galarian Mr. Mime",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "037/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Galarian Mr. Mime via card name, PokemonTCG.io API (swsh2-37, National Pokedex no. 122, Ice/Psychic, evolves to Mr. Rime), artist kirisAki, and canonical blue tap-dancer-on-ice design.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Two corpus Galarian Mr. Mime prints: RBC-037 (kirisAki art, more full-body-extended dance pose, prominent ice surface, graphic-stylized style) vs. DAA-035 (Misa Tsutsui art, wave-22 IP-verified anchor, adjacent-collector to Mr. Rime evolution DAA-036). Both share identical printed flavor text verbatim.",
+      "sources": ["PokemonTCG.io API: swsh2-37, swsh3-35"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Its talent is tap-dancing. It can also manipulate temperatures to create a floor of ice, which this Pokemon can kick up to use as a barrier.' Identical text on both corpus prints (RBC-037 and DAA-035).",
+      "sources": ["PokemonTCG.io API: swsh2-37"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Galarian Mr. Mime (Ice/Psychic) is a Galar regional variant of Kantonian Mr. Mime (Psychic/Fairy). The Galarian form evolves into Mr. Rime (also Galar-exclusive), giving it an evolutionary line the Kantonian form lacks. The Galar design concept maps British music-hall and tap-dance culture onto the original mime archetype.",
+      "sources": ["PokemonTCG.io API: swsh2-37"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Galarian Mr. Mime", "set": "Darkness Ablaze 035/189", "note": "alternate corpus print, Misa Tsutsui art, adjacent-collector to Mr. Rime"},
+    {"name": "Mr. Rime", "set": "Darkness Ablaze 036/189", "note": "evolution endpoint, in corpus"},
+    {"name": "Mr. Mime (Kantonian)", "set": "various", "note": "original form, Psychic/Fairy, different typing"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

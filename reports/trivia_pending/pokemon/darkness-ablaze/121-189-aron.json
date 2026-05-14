@@ -1,0 +1,35 @@
+{
+  "card_name": "Aron",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "121/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted small quadrupedal creature with heavy silver-grey armored carapace matches Aron's canonical design exactly. National Pokedex no. 304. Steel/Rock-type. Confirmed via PokemonTCG.io API (swsh3-121).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Aron (National Pokedex no. 304) is a Steel/Rock-type introduced in Generation III (Hoenn, Ruby & Sapphire). It is classified as the Iron Armor Pokemon. Aron's evolutionary line is Aron → Lairon (level 32) → Aggron (level 42). [PokemonTCG.io API: swsh3-121; WebSearch snippet: pokemon.com Pokedex Aron]",
+      "sources": ["PokemonTCG.io API: swsh3-121", "WebSearch snippet: pokemon.com"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"When it evolves, it sheds the steel carapace that covered its whole body and develops a new one.\" — points to the evolutionary mechanism: each stage grows a progressively heavier suit of armor, not simply adding to the existing one. [PokemonTCG.io API: swsh3-121]",
+      "sources": ["PokemonTCG.io API: swsh3-121"]
+    },
+    {
+      "category": "design",
+      "text": "Aron's Pokedex entries across games note it eats iron ore — and sometimes railroad tracks and bridges — to build up its steel armor. The armor grows alongside the body; the TCG flavor text confirms the molt-and-regrow cycle at each evolution rather than simple armor accumulation. This makes Aron's design one of the few in the Pokedex where the body's material production is the explicit survival mechanism. [WebSearch snippet: pokemon.com Pokedex Aron; PokemonTCG.io API: swsh3-121]",
+      "sources": ["WebSearch snippet: pokemon.com Aron Pokedex", "PokemonTCG.io API: swsh3-121"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Lairon", "set": "Various", "note": "Stage 1 evolution of Aron; Steel/Rock"},
+    {"name": "Aggron", "set": "Various", "note": "Stage 2 final evolution; pseudo-regional anchor for Hoenn Steel-types"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

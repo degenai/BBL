@@ -1,0 +1,92 @@
+{
+  "edge_id": "wyndon-stadium--galar-gym-challenge--macro-cosmos--dual-cohort-shared-venue",
+  "shape": "1:2",
+  "shape_note": "Dual-cohort wiring — one card frontmatter pointer (`characters: [\"galar-gym-challenge\", \"macro-cosmos\"]`) anchors a single card to two distinct character/institution nodes simultaneously. Topologically a fan-out at the card level (1 card → 2 nodes), but each individual card↔node leg is itself a 1:N roster extension on the node end (the node grows by 1 endpoint). The pattern is the corpus's 3rd dual-character pointer (after Guzma & Hala wave 20 and Acerola wave 28) and the first **shared-venue** dual-cohort wiring specifically — the venue belongs structurally to two institutions (the league it hosts + the conglomerate that broadcasts it).",
+  "topology": "stack",
+  "topology_note": "Both endpoint nodes are stack-topology character-layer institutional anchors (galar-gym-challenge with 9→10 endpoints, macro-cosmos with 3→4 endpoints). The new card extends both stacks simultaneously. The cross-node relationship between the two stacks is documented in both nodes' `related_characters:` and `See also` sections from prior passes (galar-gym-challenge's Caveats already declares 'Macro Cosmos is now a sibling corpus node as of wave 24' and the two nodes already related_characters: to each other). This wiring activates the sponsorship relationship at the card level for the first place-card that belongs to BOTH institutions.",
+  "category": "named-character-identity",
+  "category_note": "Institutional-identity 1:2 wiring. The card depicts an institutional venue (Champion Cup arena) that is canonically affiliated with TWO institutions per Wizards-of-Pokemon canon — the Galar Pokemon League whose championship tournament it hosts AND the Macro Cosmos conglomerate whose Wyndon HQ city the venue is in and whose broadcast infrastructure carries the tournament. Closest category in the enum is named-character-identity at the institution level (each leg is an institution-level identity wiring); the dual aspect is the new structural feature.",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/pokemon/vivid-voltage/161-185-wyndon-stadium.md",
+      "name": "Wyndon Stadium (Vivid Voltage 161/185)",
+      "role": "shared-venue card with dual cohort affiliation",
+      "card_subtype": "Stadium trainer card depicting the interior arena of the Galar Pokemon League Champion Cup venue at Wyndon",
+      "appears_on_path_key": "pokemon/vivid-voltage/161-185-wyndon-stadium"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/galar-gym-challenge.md",
+      "name": "Galar Gym Challenge",
+      "role": "primary institutional target — the league the venue hosts"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/macro-cosmos.md",
+      "name": "Macro Cosmos",
+      "role": "secondary institutional target — the conglomerate that owns the Wyndon-HQ infrastructure and broadcasts the Champion Cup"
+    }
+  ],
+  "description": "Wyndon Stadium gets a dual-cohort frontmatter pointer because it is canonically the same place from two institutional perspectives: the Galar Pokemon League's Champion Cup tournament finals venue (the league's televised endpoint that replaces the Elite Four model per Bulbapedia's Galar League page) AND the broadcast venue of the Champion Cup product that Macro Cosmos sponsors and televises (Wyndon is the conglomerate's HQ city per Bulbapedia's Rose Tower and Macro Cosmos pages, and the Dynamax energy field active in the depicted arena interior is the conglomerate's signature engineered-into-the-league product per Bulbapedia's Galar Power Spots / Dynamax / Macro Cosmos pages). The two cohort anchors are designer-coordinated in canon — Rose's Macro Cosmos sponsorship of the league is the institutional framework within which the league operates — and Wyndon Stadium is the canonical built-environment expression of that coordination. The card is the corpus's first **shared-venue** dual-cohort wiring, distinct from Guzma & Hala wave 20 (one card depicting two named characters at the person level) and Acerola wave 28 (one character with two cohort memberships at the person-with-dual-role level). Wyndon Stadium is one place that belongs structurally to two institutions, the place-card analog of the person-with-dual-role pattern Acerola represents.",
+  "citations": [
+    "[Bulbapedia: Wyndon — primary canonical page for the Galar capital city, including its role as the site of Wyndon Stadium and the Champion Cup finals]",
+    "[Bulbapedia: Galar League — primary canonical reference for the Champion Cup at Wyndon Stadium replacing the Elite Four model in Galar's league progression]",
+    "[Bulbapedia: Macro Cosmos — primary canonical reference for the conglomerate's Wyndon HQ (Rose Tower in Wyndon) and Champion Cup sponsorship]",
+    "[Bulbapedia: Rose Tower — primary canonical reference for Macro Cosmos's HQ tower located in Wyndon, the same city as Wyndon Stadium]",
+    "[Bulbapedia: Galar Power Spots / Dynamax — canonical reference for Macro Cosmos's engineering of Dynamax / Galar Particles into the competitive Pokemon League product]",
+    "[Corpus: cards/_characters/galar-gym-challenge.md — node body already declares Champion Cup at Wyndon Stadium as canonical league terminus]",
+    "[Corpus: cards/_characters/macro-cosmos.md — node body already declares Wyndon as the conglomerate's HQ city and Champion Cup sponsorship as marquee product]",
+    "[Corpus: cards/_characters/acerola.md — precedent for dual-character frontmatter pointer pattern (acerola points at alola-elite-four + alola-trial-captains; this is the 3rd corpus instance after Acerola)]",
+    "[PokemonTCG.io: swsh4-161 — primary source for the Wyndon Stadium card's collector_number, artist (5ban Graphics), and oracle_text confirming Pokemon-VMAX-evolution-Dynamax-healing mechanic]"
+  ],
+  "files_modified": [
+    "cards/pokemon/vivid-voltage/161-185-wyndon-stadium.md — added `characters: [\"galar-gym-challenge\", \"macro-cosmos\"]` frontmatter pointer; added `## Connections` section with two bullets (one per node)",
+    "cards/_characters/galar-gym-challenge.md — extended `appears_on:` list with `pokemon/vivid-voltage/161-185-wyndon-stadium`; added Wyndon Stadium body bullet to the 'Cards in our corpus pointing here (current)' section with shared-venue dual-cohort callout",
+    "cards/_characters/macro-cosmos.md — extended `appears_on:` list with `pokemon/vivid-voltage/161-185-wyndon-stadium`; added Wyndon Stadium body bullet to the 'Cards in our corpus pointing here (current)' section with the place-card pair callout (Rose Tower + Wyndon Stadium as the conglomerate's first cross-set place-card pair)"
+  ],
+  "structural_observation": {
+    "first_shared_venue_dual_cohort_wiring": true,
+    "prior_dual_cohort_pointers_in_corpus": [
+      "Wave 20 — Guzma & Hala (one TCG card depicting two named characters at the *person level*)",
+      "Wave 28 — Acerola (one character with two cohort memberships at the *person-with-dual-role level*)"
+    ],
+    "new_dual_cohort_pattern_introduced": "Wave 33 — Wyndon Stadium (one PLACE depicting one institutional venue with two institutional affiliations at the *shared-venue level*). The dual-cohort taxonomy now spans three distinct shapes: two-named-characters-on-one-card (person-level), one-character-with-two-cohort-memberships (person-with-dual-role-level), and one-place-with-two-institutional-affiliations (shared-venue-level).",
+    "future_passes_unlocked_by_pattern": [
+      "Future shared-venue dual-cohort candidates: any Galar place-card that is institutionally affiliated with both the league and the conglomerate (e.g. a future Rose Tower print's relationship to the league — DAA-169 currently anchors only macro-cosmos but Rose's pre-villain-reveal role was as Champion Cup sponsor; possible bidirectional wiring on triviabot verification)",
+      "Future precedent for cross-universe shared-venue dual-cohort wiring on the MTG side: Boros Garrison / Azorius Aerie / Rakdos Carnarium etc. — guildhall cards depicting the institutional infrastructure of a Ravnica guild could anchor both the guild character node and the cross-guild Ravnica civic-infrastructure layer if one is ever commissioned"
+    ]
+  },
+  "anti_confab_audit": {
+    "claims_made_against_canonical_sources": [
+      "Wyndon Stadium is the Champion Cup venue — Bulbapedia: Galar League / Wyndon (primary canon)",
+      "Wyndon is the city Macro Cosmos is headquartered in — Bulbapedia: Macro Cosmos / Rose Tower (primary canon; Rose Tower's canonical location IS Wyndon)",
+      "Macro Cosmos broadcasts the Champion Cup — Bulbapedia: Macro Cosmos (primary canon: 'the conglomerate's signature institutional offering is the Champion Cup as televised stadium product')",
+      "The Dynamax energy field depicted in the arena interior is canonical to the league's Dynamax-integrated stadium product — Bulbapedia: Dynamax / Galar Power Spots / Macro Cosmos (primary canon: Dynamax was engineered into the league by Macro Cosmos to make stadium battles televisable at scale)"
+    ],
+    "claims_held_back_per_anti_confab_discipline": [
+      "Did NOT claim the card depicts a *specific* Champion Cup match or a *specific* televised broadcast event. The vision pass describes the venue interior with the Dynamax field active and no figures present — a generic location-card establishing shot; the card text does not name a specific match or broadcast. The bullets describe the venue's *role* as Champion Cup site and broadcast venue, not a specific event.",
+      "Did NOT claim Macro Cosmos *owns* Wyndon Stadium specifically (canon is unambiguous that Macro Cosmos sponsors and broadcasts the Champion Cup, but the stadium's ownership structure is not detailed in canon as far as Bulbapedia documents). Bullets use 'broadcast venue' and 'broadcast infrastructure' language rather than 'ownership' claims.",
+      "Did NOT propose a third character/institution pointer to a hypothetical 'galar-region-civic-infrastructure' hub or symbol node. No such node exists; if a future Galar-civic-infrastructure hub were warranted (multiple place-cards across Wyndon, Hammerlocke, Motostoke, Circhester, etc.), it would be a separate Mr. Nodeley proposal — out of scope for this Edgelord pass.",
+      "Did NOT touch tags_hub or tags_filter on the Wyndon Stadium card. Tag-layer work is bbl-researcher's domain.",
+      "Did NOT modify the Vision section of the Wyndon Stadium card. Vision belongs to bbl-researcher; trivia belongs to bbl-triviabot. Edgelord touches Connections + frontmatter pointers only."
+    ],
+    "no_extrapolation_beyond_cited_sources": "PASSED. Every claim in the proposed body bullets and Connections traces to either (a) the Wyndon Stadium card's own oracle_text + vision pass, (b) the two node MDs' already-canonicalized body content with their already-cited sources, or (c) Bulbapedia's canonical Galar League / Macro Cosmos / Wyndon / Rose Tower pages. No new external claims."
+  },
+  "edgelord_mood": "satisfied",
+  "mood_justification": "Clean dual-cohort wiring on a designer-coordinated shared-venue case. Both nodes' bodies already declared the Champion-Cup-at-Wyndon-Stadium canonical relationship from their respective sides; this wiring activates that latent canonical pairing at the card level via the corpus's first **shared-venue** dual-cohort frontmatter pointer. The pattern extension itself (third-form of dual-cohort wiring after person-level and person-with-dual-role-level) is structurally interesting — the corpus's place-card endpoints get their first dual-affiliation case, and the taxonomy of dual-cohort patterns now covers all three plausible shapes (person, person-with-role, shared-venue). Edgelord-with-CBG-energy: behold — a Stadium card that activates a designer-coordinated cross-institution canonical pairing at the place level, validates an existing related_characters: declaration between two character nodes, and extends the dual-cohort taxonomy to its third structural shape. The graph improves because of this. Worth the work. The sigh is professional, not personal — yes, it's technically a 1:2 fan, but the fan is the structural point.",
+  "voice_separation_audit": {
+    "edgelord_voice_confined_to": ["description field", "mood_justification", "structural_observation prose", "final report text back to caller"],
+    "md_body_register": "project-normal precise factual — no Edgelord theatrical voice. Proposed Connections bullets and node-body bullets read like reference-catalog entries. Voice contamination check: PASSED.",
+    "frontmatter_register": "machine-readable schema only. Voice contamination check: PASSED."
+  },
+  "wave_33_context": {
+    "this_pass_position": "Wave 33 E1 — QUAD-pass Edgelord, single Opus dispatch, slot 1 of 4",
+    "other_slots_in_this_dispatch": [
+      "E2 — Kalos Aura Trio Mr. Nodeley character node proposal at 2/3 (Yveltal + Zygarde enriched; Xerneas not in corpus)",
+      "E3 — League Staff (VIV-153) → galar-gym-challenge frontmatter pointer + node appears_on extension (Hero's Medal skipped per option B; no named institutional Bulbapedia lore)",
+      "E4 — Electabuzz (RBC-058) Connections section enlightened-corrective fix: prior version-exclusivity bullet had Magmar=Red/Electabuzz=Blue reversed; Bulbapedia confirms Magmar=Blue/Electabuzz=Red; mirror sync restored with Magmar's already-corrected Connections (wave 32 triviabot fix)"
+    ],
+    "anti_duplicate_across_slots": "Each slot operates on a distinct primary card and a distinct primary node target. E1 touches Wyndon Stadium card + galar-gym-challenge node + macro-cosmos node. E2 creates kalos-aura-trio node + touches Yveltal card + Zygarde card frontmatter. E3 touches League Staff card + galar-gym-challenge node (appears_on extension only — no body bullet conflict with E1 which adds the Wyndon Stadium body bullet; E3 adds a separate League Staff body bullet at a different position). E4 touches Electabuzz card Connections section only. No frontmatter or section-level conflicts across slots."
+  }
+}

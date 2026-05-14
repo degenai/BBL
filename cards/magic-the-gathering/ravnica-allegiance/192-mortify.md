@@ -16,7 +16,7 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "female-figure
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/192-mortify.png
 average_cost_paid: 0
 market_price: 0.34
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 art_match_confidence: high

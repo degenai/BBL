@@ -1,0 +1,35 @@
+{
+  "card_name": "Mankey",
+  "game": "Pokemon",
+  "set": "Fusion Strike",
+  "collector_number": "133/264",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, art, and species confirmed as Mankey via PokemonTCG.io API (swsh8-133). Internal Pokemon IP — no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Mankey (National Pokedex no. 56) is a Generation I Fighting-type introduced in 1996. Official species classification: Pig Monkey Pokemon. Design blends primate anatomy with a pig-like snout.",
+      "sources": ["pokemondb.net Mankey via WebSearch", "Bulbapedia Mankey via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Mankey evolves into Primeape at level 28. In Generation IX (Scarlet and Violet, 2022), Primeape received a third-stage evolution: Annihilape, a Fighting/Ghost dual-type. Primeape must use the move Rage Fist (learned at level 35) exactly 20 times then gain a level to trigger the evolution. The Ghost typing was narratively grounded in Primeape's Sun Pokedex entry stating Primeape can die of rage — Annihilape literalizes that as a spirit.",
+      "sources": ["Bulbapedia Annihilape via WebSearch snippet", "dexerto.com Annihilape evolution guide via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"If one gets angry, all the others around it will get angry, so silence is a rare visitor in a troop of Mankey.\"",
+      "sources": ["PokemonTCG.io API swsh8-133"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Primeape", "set": "various", "note": "Level 28 evolution"},
+    {"name": "Annihilape", "set": "Scarlet and Violet base", "note": "Generation IX final evolution; Fighting/Ghost; triggers from Rage Fist mechanic"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

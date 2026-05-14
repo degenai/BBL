@@ -1,0 +1,26 @@
+{
+  "edge_id": "sinistea-daa082--polteageist-daa083--galar-ghost-tea-evolution-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/082-189-sinistea.md", "name": "Sinistea (Darkness Ablaze 082/189)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/083-189-polteageist.md", "name": "Polteageist (Darkness Ablaze 083/189)"}
+  ],
+  "description": "Two card-endpoints, both equal nodes, both adjacent within-set collector numbers, both anchored to a canonical Galar Ghost-type two-stage evolution line (Sinistea no. 854 → Polteageist no. 855, Generation VIII). The Phony Form / Antique Form variant lore — authenticity-stamp on the cup underside, Cracked Pot vs Chipped Pot evolution-item split, ~1% wild Antique encounter rate — carries forward intact from base to evolved stage, with Polteageist's flavor text ('Most pots are forgeries, but on rare occasions, an authentic work is found') directly inheriting the forgery-and-authentic split that Sinistea's wave 23 trivia documented in depth. Teacup-to-teapot vessel-upgrade is the signature visual progression. Pattern matches Aron/Lairon DAA-121/122 precedent exactly. Standard professional sigh. Mirror demanded.",
+  "citations": [
+    "[Bulbapedia: Sinistea (Pokemon) — National Pokedex no. 854, Phony/Antique forms, Cracked Pot / Chipped Pot evolution]",
+    "[Bulbapedia: Polteageist (Pokemon) — National Pokedex no. 855, form inheritance from Sinistea]",
+    "[PokemonTCG.io: swsh3-82 flavor_text — 'lonely spirit possessed a cold, leftover cup of tea']",
+    "[PokemonTCG.io: swsh3-83 flavor_text — 'antique teapots... most pots are forgeries']"
+  ],
+  "files_modified": [
+    "cards/pokemon/darkness-ablaze/082-189-sinistea.md",
+    "cards/pokemon/darkness-ablaze/083-189-polteageist.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "sinistea-polteageist-forms-cycle Mr. Nodeley node — rejected at this pass. The Phony/Antique form variant lore is canonically structurally identical to the castform-forms-cycle four-form pattern, but the corpus has only 2 corpus members (1 Sinistea print + 1 Polteageist print) below the castform-forms-cycle 3-of-4 documented threshold and the elemental-monkey-trio 3-of-6 threshold. Trigger condition for future Nodeley pass: when a second Sinistea print or second Polteageist print lands (any set) AND/OR when an Antique-Form-explicit print lands distinguishable from Phony-Form within the corpus. Surface in janitor_triage as future-node candidate.",
+    "Cross-print sinistea-cre082 ↔ sinistea-daa082 mirror — Sinistea (Chilling Reign 082/198) is referenced in DAA-082 trivia as wave 13 prior pass, but CRE-082 was never actually added to corpus — the wave 13 trivia notation appears to be a confused reference; only DAA-082 exists in corpus. Out of scope for this Edgelord pass."
+  ]
+}

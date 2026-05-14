@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "action-mode", "single-figure", "blue-magic", 
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/50-chilling-trap--foil.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-05
 last_seen: 2026-05-12
 art_match_confidence: high

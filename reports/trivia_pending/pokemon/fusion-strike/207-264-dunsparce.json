@@ -1,0 +1,39 @@
+{
+  "card_name": "Dunsparce",
+  "game": "Pokemon",
+  "set": "Fusion Strike",
+  "collector_number": "207/264",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Dunsparce', Colorless type, Basic subtype, Mysterious Nest ability. National Pokedex no. 206, Johto Land Snake Pokemon. Confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Dunsparce (no. 206) debuted Generation II (Gold/Silver, 1999) and did not receive an evolution for 23 years — the longest evolutionary gap of any Pokemon that subsequently gained one. Dudunsparce (no. 982) arrived in Generation IX (Scarlet/Violet, 2022), requiring the move Hyper Drill (level 32). Standard result is two-segment form; three-segment form exists at 1-in-100 odds.",
+      "sources": ["Nintendo Life: How to Evolve Dunsparce into Dudunsparce", "pokemondb.net: Dunsparce", "Kotaku: Dudunsparce three-segment odds"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"When it sees a person, it digs a hole with its tail to make its escape. If you happen to find one, consider yourself lucky.\" The rarity framing ('consider yourself lucky') echoes Dunsparce's in-game reputation as a hard-to-find encounter, feeding decades of community jokes about its lack of evolution.",
+      "sources": ["PokemonTCG.io: swsh8-207"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mysterious Nest ability (this print): removes Weakness from all Colorless Pokemon in play for both sides. A niche effect for a Pokemon characterized by evasiveness. [PokemonTCG.io: swsh8-207]",
+      "sources": ["PokemonTCG.io: swsh8-207"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Dunsparce is based on the tsuchinoko, a cryptid from Japanese folklore — a fat-bodied snake creature of near-mythological rarity, reportedly sighted in Japanese mountain regions. The tsuchinoko connection explains the 'if you find one, consider yourself lucky' flavor text and the species' in-game reputation as an elusive mid-game encounter.",
+      "sources": ["Bulbapedia: Dunsparce (Pokémon)", "WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dudunsparce", "set": "Scarlet & Violet era", "note": "The 23-years-later evolution, two- and three-segment forms"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

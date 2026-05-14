@@ -1,0 +1,41 @@
+{
+  "card_name": "Charmander",
+  "game": "Pokemon",
+  "set": "Burning Shadows",
+  "collector_number": "18/147",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Charmander: small orange lizard with flame-tipped tail matches sm3-18 record. National Pokedex no. 4, Fire-type starter. Illustrated by Kagemaru Himeno.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Illustrated by Kagemaru Himeno, who has created Pokemon TCG art since the Jungle set (1996 JP, 1999 EN) and has illustrated 654+ cards as of 2024 — one of the longest-tenured illustrators in the franchise. Works in watercolor with bright highlights and characteristic white flecks.",
+      "sources": ["Bulbapedia: Kagemaru Himeno", "artofpkm.com: Kagemaru Himeno"]
+    },
+    {
+      "category": "design",
+      "text": "This BUS-18 print is a distinct artwork from VIV-023 Charmander already in the corpus (also Kagemaru Himeno). Two Himeno Charmander prints across two different TCG eras (Sun & Moon vs. Sword & Shield).",
+      "sources": ["PokemonTCG.io: sm3-18"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.\" One of the most iconic pieces of Generation I lore — the implication that a dying flame means a dying Charmander became widely referenced across Pokedex entries and the anime.",
+      "sources": ["PokemonTCG.io: sm3-18 flavorText field", "Bulbapedia: Charmander (Pokemon)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Burning Shadows (SM3), released August 5, 2017. Charmander is a Kanto starter common in a set thematically focused on Alolan legendaries — straightforward Pokedex representation carrying the charizard-line cohort into the SM block.",
+      "sources": ["PokemonTCG.io: sm3"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Charmander", "set": "Vivid Voltage", "note": "Alternate Himeno print already in corpus (VIV-023)"},
+    {"name": "Charmeleon", "set": "multiple", "note": "Mid-stage evolution"},
+    {"name": "Charizard", "set": "multiple", "note": "Final evolution; charizard-line node anchor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

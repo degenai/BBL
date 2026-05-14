@@ -1,0 +1,41 @@
+{
+  "card_name": "Alolan Graveler",
+  "game": "Pokemon",
+  "set": "Guardians Rising",
+  "collector_number": "41/145",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Alolan Graveler', type Lightning, flavor text matches Bulbapedia's Alolan form entry exactly. National Pokedex no. 75, Rock/Electric regional variant. Confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "\"Its preferred food is dravite. After it has eaten this mineral, crystals form inside the Pokémon, rising to the surface of part of its body.\" Dravite is a real brown-to-black tourmaline mineral formed in igneous/volcanic rock — thematically consistent with volcanic island geology. Flavor text shared verbatim with the Crimson Invasion print (CSI 33/111).",
+      "sources": ["PokemonTCG.io: sm2-41", "Geology Science: Dravite"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Alolan Graveler switches from Rock/Ground (Kantonian) to Rock/Electric due to magnetic mineral absorption unique to Alola's volcanic substrate. One of the original Alolan regional variants revealed at Sun & Moon launch (2016).",
+      "sources": ["Bulbapedia: Graveler (Pokémon) — Alolan Form", "WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Guardians Rising (released May 5, 2017) was one of the first sets to print Alolan regional form Pokemon in quantity. Alolan Golem also appears in the same set as the evolution.",
+      "sources": ["Bulbapedia: Guardians Rising (TCG)"]
+    },
+    {
+      "category": "design",
+      "text": "Cross-print distinction: this GUR print (41/145) uses rocky mountain terrain and wide forward-facing action stance. The CSI print (33/111, kirisAki art) uses warm gradient backdrop at three-quarter low-stance. Same flavor text, compositionally distinct.",
+      "sources": ["PokemonTCG.io: sm2-41", "PokemonTCG.io: sm4-33"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Alolan Graveler", "set": "Crimson Invasion", "note": "Cross-print mirror (no. 33/111), CSI wave 22 trivia complete"},
+    {"name": "Alolan Geodude", "set": "Guardians Rising", "note": "Base stage of Alolan line, same set"},
+    {"name": "Alolan Golem", "set": "Guardians Rising", "note": "Evolution, same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

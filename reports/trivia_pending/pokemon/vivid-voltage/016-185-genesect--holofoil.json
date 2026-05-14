@@ -1,0 +1,45 @@
+{
+  "card_name": "Genesect",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "016/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via PokemonTCG.io swsh4-16. National Pokedex no. 649 matches. Back-mounted cannon is the canonical visual identifier for Genesect — no other Pokemon shares this design element.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Genesect appears in Sword & Shield — Vivid Voltage (2020) as no. 016/185, a Holo Rare. It is the only Bug-type Mythical Pokemon (excluding Arceus holding an Insect Plate).",
+      "sources": ["PokemonTCG.io: swsh4-16", "WebSearch: facts.net Genesect"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Team Plasma scientist Dudley revived Genesect from a 300-million-year-old fossil and installed the cannon on its back, aiming to create the most powerful Pokemon ever. N shut the project down; Dudley continued covertly out of spite.",
+      "sources": ["WebSearch: Genesect Team Plasma lore, via Bulbapedia/WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.\"",
+      "sources": ["PokemonTCG.io: swsh4-16"]
+    },
+    {
+      "category": "design",
+      "text": "Genesect has four alternate Drive forms (Shock, Burn, Chill, Douse) that change the type of Techno Blast. This card's oracle text includes Techno Blast at 120 damage with a one-turn cooldown.",
+      "sources": ["WebSearch: Genesect Drive forms, Bulbapedia snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Genesect starred in Pokemon the Movie: Genesect and the Legend Awakened (2013 Japan / 2014 US). Five Genesect led by a Shiny Red Genesect attempt to reclaim territory that no longer exists after 300 million years. Mewtwo (a distinct female-voiced individual, later identified as Mega Mewtwo Y) confronts them.",
+      "sources": ["Wikipedia: Pokemon the Movie: Genesect and the Legend Awakened"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Genesect-EX", "set": "various", "note": "EX-era prints of same character"},
+    {"name": "Mewtwo", "set": "various", "note": "Movie counterpart/antagonist in 2013 film"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

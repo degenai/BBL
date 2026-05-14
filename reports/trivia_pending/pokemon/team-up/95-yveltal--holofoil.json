@@ -1,0 +1,41 @@
+{
+  "card_name": "Yveltal",
+  "game": "Pokemon",
+  "set": "Team Up",
+  "collector_number": "95",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches character name exactly. Art depicts a large dark winged creature with a Y-shaped silhouette, red markings, and black body — canonical Yveltal visual signature as the version mascot of Pokemon Y. PokemonTCG.io confirms card name 'Yveltal', National Pokedex no. 717, artist Misa Tsutsui, Team Up (sm9-95). Identity confirmed via name match, Pokedex number, and canonical Y-silhouette.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Yveltal is the version mascot of Pokemon Y and a member of the Kalos Aura Trio alongside Xerneas and Zygarde. Its role is the destruction and death counterpart to Xerneas's life: when its lifespan ends, it absorbs the life energy of all surrounding creatures before cocooning into dormancy [Bulbapedia: Yveltal, via WebSearch snippet].",
+      "sources": ["Bulbapedia: Yveltal (WebSearch snippet)", "PokemonTCG.io sm9-95"]
+    },
+    {
+      "category": "design",
+      "text": "Yveltal's body silhouette — wings spread, tail fanned — forms a recognizable Y-shape, directly mapping to the letter of its version title. Its name also begins with Y. National Pokedex no. 717 [PokemonTCG.io sm9-95; Bulbapedia: Yveltal, via WebSearch snippet].",
+      "sources": ["PokemonTCG.io sm9-95", "Bulbapedia: Yveltal (WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text on this card (confirmed via PokemonTCG.io): 'When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.' [PokemonTCG.io sm9-95]",
+      "sources": ["PokemonTCG.io sm9-95"]
+    },
+    {
+      "category": "design",
+      "text": "Yveltal is a dual-type Dark/Flying Legendary — one of the few Legendary Pokemon with the Dark type. Its design draws on both avian and draconic traits: beak-like snout, blue eyes, horns, and broad wings. Described as a large Pokemon whose appearance is based on these avian-draconic hybrids [Bulbapedia: Yveltal, via WebSearch snippet].",
+      "sources": ["Bulbapedia: Yveltal (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Xerneas", "set": "various", "note": "Kalos Aura Trio counterpart — Life Pokemon, version mascot of X"},
+    {"name": "Zygarde", "set": "various", "note": "Third Aura Trio member — Order Pokemon"},
+    {"name": "Yveltal GX", "set": "Hidden Fates", "note": "GX variant of the same Legendary in a collector set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

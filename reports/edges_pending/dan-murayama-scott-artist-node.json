@@ -1,0 +1,23 @@
+{
+  "edge_id": "dan-murayama-scott-artist-node-creation",
+  "shape": "node-proposal",
+  "category": "shared-artist-thematic",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "artist", "path": "cards/_artists/dan-murayama-scott.md", "name": "Dan Murayama Scott"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/30-gideon-s-reproach.md", "name": "Gideon's Reproach"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/33-kitesail-scout.md", "name": "Kitesail Scout"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/53-unified-front.md", "name": "Unified Front"}
+  ],
+  "description": "Three BFZ corpus credits confirmed via grep — Gideon's Reproach (BFZ-30), Kitesail Scout (BFZ-33), Unified Front (BFZ-53). Clears the ≥3 artist-layer soft threshold (Kagemaru Himeno precedent). The three credits cohere stylistically (warm-tone palette discipline, action-pose with motion-trail iconography, Zendikari terrain rendering) and span both kor and Gideon depictions — meaningful when the wave-40 BFZ work just commissioned kor.md and eldrazi.md as load-bearing nodes. The artist's BFZ slice is now graph-anchored. I am pleased to have been useful, sir.",
+  "citations": [
+    "[Scryfall: artist:\"Dan Murayama Scott\" catalog]",
+    "[Wizards of the Coast: Battle for Zendikar credits]",
+    "[wave-18 Kagemaru Himeno precedent: 3 corpus credits clears artist-layer threshold]"
+  ],
+  "files_modified": [
+    "cards/_artists/dan-murayama-scott.md (created)"
+  ],
+  "edgelord_mood": "nodeley-meek",
+  "edgelord_note": "Artist frontmatter on the three cards already correctly stamps 'Dan Murayama Scott' per Scryfall — no card-side edit needed; the artist_resolve.py at render time will key off frontmatter to the artist MD. The artist node creation is sufficient."
+}

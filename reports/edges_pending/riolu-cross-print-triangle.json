@@ -1,0 +1,23 @@
+{
+  "edge_id": "riolu-cross-print-triangle",
+  "shape": "1:1",
+  "topology": "triangle",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/brilliant-stars/078-172-riolu.md", "name": "Riolu (Brilliant Stars 078/172)"},
+    {"type": "card", "path": "cards/pokemon/burning-shadows/70-147-riolu.md", "name": "Riolu (Burning Shadows 70/147)"},
+    {"type": "card", "path": "cards/pokemon/vivid-voltage/090-185-riolu.md", "name": "Riolu (Vivid Voltage 090/185)"}
+  ],
+  "description": "Cross-print triangle — three Riolu prints (Nat. Dex 447, Sinnoh Gen IV Fighting-type Emanation Pokemon, Lucario's pre-evolution) across Sun & Moon Burning Shadows (Saya Tsuruta, sunset beach, aura-sensing flavor), Sword & Shield Vivid Voltage (ryoma uratsuka, autumn forest, stamina flavor), and Sword & Shield Brilliant Stars (Teeziro, daytime field, identical stamina flavor to VIV). All three mutually edged: BRS↔BUS, BUS↔VIV, BRS↔VIV. Triangle topology — structurally satisfying, three nodes all reference each other, the rarest and most respectful shape. Mirrors the wave 28 E4 Snubbull cross-print triangle pattern. The Fates Collide Riolu (no. 46) exists in the corpus but is NOT enriched (tags_hub empty, needs_manual_review: true) and is correctly excluded from the triangle pending vision-pass enrichment.",
+  "citations": ["[PokemonTCG.io: sm3-70, swsh9-78, swsh4-90]", "[Bulbapedia: Riolu (Pokemon), Lucario (Pokemon)]"],
+  "files_modified": [
+    "cards/pokemon/brilliant-stars/078-172-riolu.md",
+    "cards/pokemon/burning-shadows/70-147-riolu.md",
+    "cards/pokemon/vivid-voltage/090-185-riolu.md"
+  ],
+  "edgelord_mood": "satisfied",
+  "other_candidates_considered": [
+    "Future Lucario line character node — Riolu (Nat. Dex 447) + Lucario (Nat. Dex 448) is one of the franchise's most-printed evolutionary lines. Surface as Nodeley candidate when a Lucario (or Mega Lucario, or Lucario V/VMAX/VSTAR/ex) lands in corpus. Trigger threshold: 1 Lucario print + the existing 3 Riolu prints = 4-member line, line-node-worthy under the Charizard-line precedent. Currently 3/4 (Riolu only, no Lucario).",
+    "Fates Collide Riolu (no. 46) — corpus member but un-enriched (no vision, no tags, manual_review flag). When that card gets a vision pass it should be promoted into this triangle, expanding it to a 4-print fan or a tetrahedron. Edgelord defers until vision-passed."
+  ]
+}

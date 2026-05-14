@@ -10,12 +10,13 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+characters: ["agency"]
+tags_hub: ["chaos", "fire", "goblin", "reckless", "detective", "comedy", "hat", "creature", "action", "burning", "investigation", "underdog"]
+tags_filter: ["mid-shot", "solo", "forward-facing", "red-magic"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/141-reckless-detective.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/1/8/18da1a1d-e6ba-47e5-a545-0bacd427b782.png?1706241909
@@ -26,6 +27,32 @@ art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/141-re
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/8/18da1a1d-e6ba-47e5-a545-0bacd427b782.jpg?1706241909
 flavor_text: He's gonna crack this thing wide open.
 oracle_text: Whenever this creature attacks, you may sacrifice an artifact or discard a card. If you do, draw a card and this creature gets +2/+0 until end of turn.
+mood: action
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Reckless Detective (Murders at Karlov Manor)
+
+## Vision
+
+![141-reckless-detective](../../_images/magic-the-gathering/murders-at-karlov-manor/141-reckless-detective.png)
+
+A dynamic action scene of a small creature — visibly non-humanoid, with a long tail, clawed hands, fanged mouth, and wearing a wide-brimmed hat — charging forward through a burning interior space. Wooden beams and walls are lit with amber firelight. The creature raises one arm high holding a rounded object (possibly a flask or container) while the other arm is outstretched with claws spread. Feather or leather strips hang from its frame. The posture is pure reckless momentum — no plan, just chaos.
+
+**Subject:** A small fanged creature with a tail, claws, and a wide-brimmed hat running chaotically through a burning interior, one arm raised holding a round object aloft
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** indoor, ruined, indeterminate, fire
+**Foreground:** The creature in mid-run, clawed hand extended toward viewer  *(palette: tan, brown, red)*
+**Background:** Burning wooden interior, amber firelight, barred window at upper right  *(palette: amber, orange, dark brown)*
+**Mood / lighting:** action, harsh
+**Emotion read:** reckless abandon; wild-eyed forward charge with no visible caution
+**Objects:** wide-brimmed hat, rounded object held aloft, burning beams
+**Creatures:** goblin-type creature
+**Genre cues:** fantasy
+
+## Connections
+
+- [[agency]] — Agency roster card. The card name literally contains "Detective" — the canonical R.A.M.I. creature subtype introduced in *Murders at Karlov Manor* (85+ MKM prints) — and the depicted goblin-detective charging a burning interior is the Agency's red-coded reckless-rogue operational archetype. Where Burden of Proof and Eliminate the Impossible render Agency procedure as deliberation, this one renders Agency procedure as chaos. `[MTG Wiki: Detective (creature type)]` `[MTG Wiki: Ravnican Agency of Magicological Investigations]`
+

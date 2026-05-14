@@ -15,7 +15,7 @@ tags_filter: ["solo", "close-up", "forward-facing", "portrait-mode", "no-creatur
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/106-specter-s-shriek.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

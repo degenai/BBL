@@ -1,0 +1,27 @@
+{
+  "edge_id": "impidimp-rbc123--morgrem-rbc124--galar-dark-fairy-line-evolution-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/rebel-clash/123-192-impidimp.md", "name": "Impidimp (Rebel Clash 123/192)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/124-192-morgrem.md", "name": "Morgrem (Rebel Clash 124/192)"}
+  ],
+  "description": "Two card-endpoints, adjacent within-set, both equal nodes, both SwSh-introduced Dark/Fairy Grimmsnarl-line. Standard within-line evolution mirror — basic to Stage-1 (level 32). Tone-and-environment inversion across the prints: daytime comedic mischievous Impidimp to nighttime sinister-crouch Morgrem. Flavor-text shift tracks the design progression from negative-energy-sniffing trickster to false-surrender lure-and-stab predator. Dark/Fairy typing is the line's Generation VIII innovation, parallel to the Hatenna-line and Milcery-line SwSh Fairy-side additions. Third-of-three within-set Pokemon evolution-mirror picks for wave 30. Standard professional sigh.",
+  "citations": [
+    "[Bulbapedia: Impidimp (Pokemon) — National Pokedex no. 859, Dark/Fairy, evolves to Morgrem at level 32]",
+    "[Bulbapedia: Morgrem (Pokemon) — National Pokedex no. 860, Dark/Fairy, evolves to Grimmsnarl at level 42]",
+    "[Bulbapedia: Grimmsnarl (Pokemon) — National Pokedex no. 861, Dark/Fairy, terminal stage, SwSh-introduced]",
+    "[PokemonTCG.io API: swsh2-123 flavor_text — sucks negative-energy emanations from annoyance]",
+    "[PokemonTCG.io API: swsh2-124 flavor_text — false-surrender begging-pose lure-and-stab with spear-hair]"
+  ],
+  "files_modified": [
+    "cards/pokemon/rebel-clash/123-192-impidimp.md",
+    "cards/pokemon/rebel-clash/124-192-morgrem.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "Option B-1: industrial-pokemon-cluster Mr. Nodeley character-layer node — REJECTED. The proposed cohort spans 7+ species + 1 location across 4 generations (Kanto Voltorb, Hoenn Torkoal, Unova Klang/Meltan, Galar Rolycoly/Carkol/Galar-Mine, Alola Mudbray-from-Alolan-context, Pikachu BUS-40 labor-flavor). That is NOT a designer-coordinated cohort in the precedent-bearing sense (galarian-regional-forms, galar-starters-trio, elemental-monkey-trio are explicit Game-Freak-stamped programs with shared design-document framing). Industrial-labor is a designer-recurring MOTIF, not a coordinated cohort. The character layer is for designer-coordinated entities, not tag-cluster recurrences. Mr. Nodeley does not get to grow the character layer on tag-cluster evidence. Surfaced to janitor_triage as a curated-hub-population candidate instead — the right home for the industrial-labor Pokemon-side material is `cards/_hubs/labor.md` (which exists and is Alex's hand-curated foundational hub), and per locked-in policy hubs are intentionally not auto-grown; Alex curates them by hand when ready.",
+    "Grimmsnarl line-completion speculation — Grimmsnarl is not in corpus. When any print lands, the line closes and a `grimmsnarl-line` cohort node may be warranted under the elemental-monkey-trio precedent at N=3 corpus prints."
+  ]
+}

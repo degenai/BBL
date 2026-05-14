@@ -14,8 +14,8 @@ tags_hub: ["pirate", "captain", "sailor", "ship", "ocean", "sword", "swashbuckle
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "male-figure", "action-pose", "blue-magic", "creature-human", "creature-pirate", "daytime", "outdoor"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/58-azure-fleet-admiral.png
 average_cost_paid: 0
-market_price: 0.25
-market_price_as_of: 2026-05-12
+market_price: 0.26
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

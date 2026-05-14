@@ -14,8 +14,8 @@ tags_hub: ["lightning", "storm", "spellcaster", "planeswalker", "robed-figure", 
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "action-mode", "male-figure", "blue-magic", "red-magic", "multicolor-blue-red", "instant"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/212-ral-s-outburst.png
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-12
+market_price: 0.18
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/6/b/6be3dd3e-50d2-4729-9caa-b2cd984f4c97.png?1557577237
@@ -28,6 +28,7 @@ setting: other
 suspected_ip: Ral Zarek
 ip_confidence: high
 ip_verified: true
+characters: ["ral-zarek", "izzet-league"]
 artist: Joseph Meehan
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/212-ral-s-outburst--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/b/6be3dd3e-50d2-4729-9caa-b2cd984f4c97.jpg?1557577237

@@ -1,0 +1,39 @@
+{
+  "card_name": "Klefki",
+  "game": "Pokemon",
+  "set": "Fusion Strike",
+  "collector_number": "186/264",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Klefki', Metal type, Basic subtype, flavor text matches. National Pokedex no. 707, Kalos Key Ring Pokemon. No evolution. Confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Klefki (no. 707) introduced Generation VI (X and Y, 2013, Kalos). Designer Mana Ibe based the concept on old mansion architecture and the history of Kalos (modeled on France). Ken Sugimori cited Klefki as exemplifying 'variety and richness' in Pokemon species design for successfully carrying the creature-design language through an inanimate object.",
+      "sources": ["Wikipedia: Klefki", "Bulbapedia: Klefki (Pokémon)", "Kotaku: Best and Possibly Worst New Pokemon Designs"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Long ago it lived in mines, but once the minerals that make up its diet became scarcer, Klefki began appearing in human settlements.\" Frames Klefki as a mineral-eating creature displaced from its original habitat — consistent with Fairy-as-trickster folklore (fairies blamed for stealing small objects like keys).",
+      "sources": ["PokemonTCG.io: swsh8-186"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment: Klefki was one of the more polarizing Generation VI designs at launch — IGN readers voted it among the worst new Pokemon. Concurrently, Klefki was competitively viable in XY OU via Prankster + Spikes/Thunder Wave. A recurring franchise pattern: memeable design, viable in battle.",
+      "sources": ["Kotaku: Best and Possibly Worst New Pokemon Designs", "Smogon: Klefki XY"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by MAHOU, a TCG artist active in the Sword & Shield era. Single-stage species with no evolution.",
+      "sources": ["PokemonTCG.io: swsh8-186"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Klefki", "set": "XY era", "note": "Original Generation VI prints"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

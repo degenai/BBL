@@ -1,0 +1,41 @@
+{
+  "card_name": "Fletchinder",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "031/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Species name printed on card face; PokemonTCG.io API (swsh3-31) confirms name=Fletchinder, nationalPokedexNumbers=[662], Stage 1, evolvesFrom=Fletchling. Depicted streamlined dark-feathered bird with red forehead in high-speed flight through flames matches canonical Fletchinder appearance exactly.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Fletchinder is National Pokedex no. 662, a Fire/Flying-type Stage 1 introduced in Generation VI (Pokemon X and Y, 2013), evolving from Fletchling at level 17 and into Talonflame at level 35. All three stages in the line are Fire/Flying. [PokemonTCG.io API: swsh3-31; PokemonDB: Fletchinder]",
+      "sources": ["PokemonTCG.io API: swsh3-31", "PokemonDB: Fletchinder"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Fletchling line's final evolution Talonflame became one of the most dominant Pokemon in the Generation VI OU metagame due to its Gale Wings ability, which in Gen 6 granted +1 priority to ALL Flying-type moves (not just at full HP as later nerfed in Gen 7). Priority STAB Brave Bird at base 120 power made Talonflame the premier revenge killer of XY OU, widely considered broken by the competitive community. Smogon's OU Spotlight called priority STAB Brave Bird \"one of the most effective revenge-killing tools in its arsenal.\" [Smogon: OU Spotlight Talonflame; Kotaku: The Rise and Fall of Competitive Pokemon's Most Hated Bird, via WebSearch snippet]",
+      "sources": ["Smogon: OU Spotlight Talonflame (via WebSearch snippet)", "Kotaku: Rise and Fall of Talonflame (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Its speed right after takeoff already puts it in the top speed class of all bird Pokemon.\" — printed on DAA-031. [PokemonTCG.io API: swsh3-31]",
+      "sources": ["PokemonTCG.io API: swsh3-31"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Mina Nakai. The card places Fletchinder in full-speed dive through a wall of embers — a visual encoding of the flavor text's speed emphasis and the line's fire-acceleration design motif (ember-production is presented in-game as a byproduct of Fletchinder's wing-beat speed). [PokemonTCG.io API: swsh3-31 artist field]",
+      "sources": ["PokemonTCG.io API: swsh3-31"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fletchling", "set": "various", "note": "Pre-evolution; pure Normal/Flying before the fire typing emerges"},
+    {"name": "Talonflame", "set": "various", "note": "Final evolution; the Gen 6 OU terror via Gale Wings priority Brave Bird"},
+    {"name": "Pidgeot (Kalos era)", "set": "various", "note": "Kalos bird line; thematic counterpart — speed-archetype bird of same generation"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "edge_id": "aether-foundation--lillie-extension",
+  "shape": "1:N",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/aether-foundation.md", "name": "Aether Foundation"},
+    {"type": "card", "path": "cards/pokemon/shining-legends/62-lillie.md", "name": "Lillie (Shining Legends 62)"}
+  ],
+  "description": "Wave 31 Lillie (SHL-62) attaches to aether-foundation as President Lusamine's daughter and the corpus's first Aether-named-family-member depiction. Aether Foundation body had Lillie pre-named in Caveats + See-also as a pending sibling solo; the slot is filled at the faction-collective tier. Solo Lillie node deferred — single corpus card, below threshold-relaxed-precedent of ≥2 set under the Acerola commission. Corpus state moves from 1 to 2 enriched Aether-affiliated cards.",
+  "citations": ["[Bulbapedia: Lillie]", "[Bulbapedia: Aether Foundation]", "[PokemonTCG.io: sm35-62]", "[in-corpus aether-foundation.md wave 28]", "[in-corpus acerola.md threshold-relaxed precedent]"],
+  "files_modified": [
+    "cards/_characters/aether-foundation.md",
+    "cards/pokemon/shining-legends/62-lillie.md"
+  ],
+  "edgelord_mood": "blueballed-by-fanout"
+}

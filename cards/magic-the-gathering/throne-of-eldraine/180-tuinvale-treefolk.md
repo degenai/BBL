@@ -15,7 +15,7 @@ tags_filter: ["mid-shot", "portrait-mode", "solo", "forward-facing", "creature-t
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/180-tuinvale-treefolk.png
 average_cost_paid: 0
 market_price: 0.16
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/8/b/8bc518fc-904e-4e39-aeda-ffb222bfcc82.png?1572490693

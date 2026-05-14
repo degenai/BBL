@@ -1,0 +1,28 @@
+{
+  "edge_id": "wave-39-e4-ian-miller-and-rkf-below-threshold",
+  "shape": "refusal-with-triage-deferral",
+  "category": "shared-artist-thematic",
+  "topology": "n/a",
+  "endpoints": [
+    {"type": "artist", "path": "(not created)", "name": "Ian Miller"},
+    {"type": "artist", "path": "(not created)", "name": "Richard Kane Ferguson"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/272-shrieking-drake.md", "name": "Shrieking Drake (Miller)"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/206-titans-vanguard.md", "name": "Titans' Vanguard (RKF)"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/200-pyretic-rebirth.md", "name": "Pyretic Rebirth (RKF)"}
+  ],
+  "description": "Refusal. Both candidates below the ≥3-corpus-credits threshold the artist layer has converged on. Ian Miller: 1 credit (Shrieking Drake, MH3-272). Richard Kane Ferguson: 2 credits (Titans' Vanguard MH3-206 + Pyretic Rebirth MH3-200). Threshold precedent: ken-sugimori 17, kirisaki 7, sanosuke-sakuma 5. Both artists are genuinely strong-distinctive-style 90s-MTG canonical names — Ian Miller's retro-pulp register and RKF's loose-watercolor register are flagged inside the corpus cards' vision bodies as artist-attribution signals — but the load-bearing artist-node case requires ≥3 corpus credits to make the disambiguation work pay off. Both deferred to janitor_triage with explicit trigger conditions: Miller needs ≥2 additional credits (Antiquities reprints / PLST entries are the realistic path), RKF needs ≥1 additional credit (Tempest / Mirage / Urza-block reprints are the realistic path). Worst proposed E4 if I'd authored both nodes prematurely — the layer's disambiguation cost would have absorbed two stub nodes that future passes would have had to grow into substantive credit lists. I refuse. The layer stays clean.",
+  "citations": [
+    "[BBL artist-node threshold precedent: ken-sugimori.md (17 credits), kirisaki.md (7), sanosuke-sakuma.md (5)]",
+    "[cards/magic-the-gathering/modern-horizons-3/272-shrieking-drake.md — vision body cites 'Ian Miller's distinctive retro-fantasy illustration style']",
+    "[cards/magic-the-gathering/modern-horizons-3/206-titans-vanguard.md — vision body cites 'Richard Kane Ferguson's distinctive loose watercolor style']",
+    "[cards/magic-the-gathering/modern-horizons-3/200-pyretic-rebirth.md — flavor text 'Death has never kept Darigaaz down for long.', RKF credit confirmed in frontmatter]"
+  ],
+  "files_modified": [
+    "reports/janitor_triage.md (added Ian Miller and RKF future-node-candidate entries with trigger conditions)"
+  ],
+  "edgelord_mood": "satisfied",
+  "surprise_lore": [
+    "Pyretic Rebirth's flavor text is Darigaaz-coded ('Death has never kept Darigaaz down for long.') — Darigaaz is one of the Invasion-era Primeval dragons, RKF was active during Invasion block, the MH3-200 printing reads as a callback to RKF's 90s-MTG-dragon-portrait career. Worth saving for a future Modern Horizons 3 'retro-MTG-art callbacks' bundle thesis.",
+    "Shrieking Drake's flavor text names Kaervek (Mirage block antagonist) and Teferi — Ian Miller was also a Mirage / Visions-era artist, so the MH3-272 printing is a similar callback. MH3 is specifically engineered to throwback 90s MTG artists; the same retro-MTG-art-callbacks bundle thesis applies."
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "edge_id": "pikachu-bus-40--galar-mine-rbc-160--labor-extraction-pair",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/burning-shadows/40-147-pikachu.md", "name": "Pikachu (Burning Shadows 40/147)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/160-192-galar-mine.md", "name": "Galar Mine (Rebel Clash 160/192)"}
+  ],
+  "description": "Two card-endpoints. Both equal nodes. Pokemon-side labor-extraction register, the strongest in-corpus pair. Pikachu BUS-40's flavor text is the franchise's most explicit workforce-as-energy-resource citation: 'A plan was recently announced to gather many Pikachu and make an electric power plant.' Many creatures, one power plant. Galar Mine RBC-160 is the corpus's only depicted Pokemon-side industrial-extraction site — underground tunnel, wooden support beams, mine-cart rails, dim ambient lighting, no figures. Together they anchor the two endpoints of the labor-extraction read on the Pokemon side: workforce-aggregation in flavor on one side, extraction-site infrastructure in art on the other. The connection has narrative weight that survives tag-collapse and synonym-merge — it isn't just 'both tagged labor.' Mirror required. Professional sigh.",
+  "citations": [
+    "[Pikachu BUS-40 frontmatter flavor_text: 'A plan was recently announced to gather many Pikachu and make an electric power plant.']",
+    "[Galar Mine RBC-160 vision pass: underground tunnel with wooden support beams, mine-cart rails, dim ambient lighting]",
+    "[BBL wave 12 trivia: Pikachu BUS-40/147 flavor-text labor-extraction subtext canonicalized]",
+    "[BBL wave 14 vision: Galar Mine RBC-160/192 industrial-extraction site canonicalized]",
+    "[Bulbapedia: Galar Mine (location)]",
+    "[[labor]] hub: 'Labor as the thing that gets extracted']"
+  ],
+  "files_modified": [
+    "cards/pokemon/burning-shadows/40-147-pikachu.md (added ## Connections section with mirrored bullet to Galar Mine RBC-160)",
+    "cards/pokemon/rebel-clash/160-192-galar-mine.md (added ## Connections section with mirrored bullet to Pikachu BUS-40)"
+  ],
+  "edgelord_mood": "satisfied",
+  "other_candidates_considered": [
+    "Labor hub member_cards population (E3 candidate a) — moot; labor hub doesn't have a member_cards field, population happens implicitly via tags_hub on cards. The implicit edge already exists. Surfaced as confirmation rather than action.",
+    "Galar Mine RBC-160 → Pikachu / Mudbray / Capacious Bucket 1:N branch (E3 candidate b) — rejected; Galar Mine is a location/Stadium card, not an institutional-anchor node. Forcing a 1:N from a card to other cards is the wrong shape; institutional fanouts come from character/hub nodes. If a future Nodeley pass commissions a galar-region-labor-infrastructure character node (parallel to galar-gym-challenge institution + galarian-regional-forms biome), the branch becomes natural.",
+    "Mudbray VIV-096 ↔ Pikachu BUS-40 1:1 — considered; both are creature-side labor entries, both flavor-text-cite their species' working role (Mudbray: 50x body weight load capacity; Pikachu: power plant aggregation). Rejected as weaker than the Galar Mine pairing because Mudbray's register is working-animal-as-companion (draft-animal/farm) while Pikachu's flavor specifically references the *industrial-scale aggregation* register that Galar Mine echoes. The Galar Mine pairing is tighter on the extraction-as-system axis.",
+    "Capacious Bucket RBC-156 was a labor-cluster candidate but its register is utility-tool-for-Water-Energy-search, not extraction; better filed under labor-as-chore (broader hub tag) than extracted into a 1:1 edge. Surface as future Nodeley candidate alongside Mudbray if a Pokemon-side labor sub-cluster commissions a character node.",
+    "Future-pass Discrete Lair candidate (E3 candidate d, modified): the labor cluster now has Pikachu BUS-40 + Galar Mine RBC-160 (mirrored) + Mudbray VIV-096 + Capacious Bucket RBC-156 + Grimer DAA-100 as a 5-card Pokemon-side labor stack. Once 2-3 more labor-tagged Pokemon cards land (Galarian Slowpoke's Galarica-seed agricultural register, a Pokemon working-class trainer card like Worker or Backpacker), a Pokemon-side labor Discrete Lair becomes commissionable. This pass's Pikachu ↔ Galar Mine mirror is the cohesion-anchor edge that lair would lean on; flagged for bbl-bundler.",
+    "Mr. Nodeley transformation toward a 'pokemon-labor-extraction' hub/character node — rejected this pass; current cluster is 5 cards and the [[labor]] hub already does the work. If the cluster grows past 8-10 cards or develops a clear sub-cluster axis (industrial-extraction vs working-animal vs chore-utility), a sub-hub becomes warrantable. Premature now."
+  ]
+}

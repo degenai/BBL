@@ -3,10 +3,10 @@ type: symbol
 name: Orzhov Signet
 aliases: [orzhov-signet, eclipsed-sun, orzhov-emblem, four-pronged-sun]
 faction: Orzhov Syndicate
-universe: Magic: The Gathering / Ravnica
+universe: "Magic: The Gathering / Ravnica"
 canonical_source: "Orzhov Signet (artifact card, Ravnica: City of Guilds onward, multiple printings)"
 confidence: canonical
-appears_on: [ravnica-allegiance/194-pitiless-pontiff, dragon-s-maze/109-tithe-drinker, ravnica-allegiance/236-orzhov-locket, ravnica-allegiance/252-orzhov-guildgate-252]
+appears_on: [ravnica-allegiance/194-pitiless-pontiff, dragon-s-maze/109-tithe-drinker, ravnica-allegiance/236-orzhov-locket, ravnica-allegiance/252-orzhov-guildgate-252, murders-at-karlov-manor/230-sanguine-savior]
 related_hubs: [labor]
 related_characters: [orzhov-syndicate]
 ---
@@ -36,6 +36,7 @@ Confirmed:
 - **Tithe Drinker** (Dragon's Maze no. 109) — throne back. Slawomir Maniak art. Same iconographic device behind the seated vampire.
 - **Orzhov Locket** (Ravnica Allegiance no. 236) — jewelry form. Volkan Baǵa art. The signet rendered as a wearable gold-and-ivory locket, the four-pronged eclipsed sun set in the heart-shape pendant's center with a dark pupil and an outer halo ring, spilled gold coins pooling around it. This is the canonical worn-at-the-throat-by-choice form of the medallion/brand duality — the master's medallion, the choosable side of the signet's class-marking function. The Commander 2011 flavor text ("If it's carried on a medallion, its bearer is a master") describes this object literally.
 - **Orzhov Guildgate (252)** (Ravnica Allegiance no. 252) — architectural form. Cliff Childs art. The signet mounted as a large gold-and-iron rose window above the central arch of the guild's gothic gateway-cathedral. The institution stamps the signet onto its own infrastructure: not worn by any individual member, worn by the guild's seat itself. Flavor speaker is Kaya (the planeswalker installed as Orzhov guildmaster during War of the Spark), naming the building and the guild it fronts as a "gilded lie." The signet here is the institutional self-portrait at architectural scale.
+- **Sanguine Savior** (Murders at Karlov Manor no. 230) — chest-medallion form, dual-context. Valera Lutfullina art. The eclipsed-sun signet embossed onto the chest armor of a winged Detective Vampire Cleric carrying an unconscious companion through foggy gothic skies; the same sun-motif also visible on a distant spire in the background skyline. This is the canonical *Orzhov-recruited operative seconded to R.A.M.I.* dual-coded case — the figure is institutionally Orzhov (medallion-of-master form per the canonical duality, indicating chosen / status-marker rather than branded / debt-marker) AND operationally an Agency Detective. The card simultaneously anchors `characters: ["orzhov-syndicate", "agency"]` and `symbols: ["orzhov-signet"]`. The post-Phyrexian-Invasion cross-guild Agency staffing pattern documented on [[agency]] is visible here in a single character's iconography.
 
 Strong candidates pending visual confirmation (textual sources describe recurring throne / sun ornamentation on these):
 - Obzedat, Ghost Council (Gatecrash)

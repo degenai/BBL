@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "three-quarter-facing", "scene-mode", "no-figu
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/310-territorial-scythecat-showcase.png
 average_cost_paid: 0
 market_price: 0.19
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-05
 last_seen: 2026-05-12
 art_match_confidence: high

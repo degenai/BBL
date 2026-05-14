@@ -1,0 +1,40 @@
+{
+  "card_name": "Fletchling",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "151/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed. Fletchling is a Game Freak-internal species (National Pokedex no. 661, Generation VI, Kalos). Normal/Flying type base of the Talonflame line. No external IP concern.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Fletchling is National Pokedex no. 661, the Tiny Robin Pokemon, a Normal/Flying type introduced in Generation VI (Kalos). It evolves into Fletchinder at level 17, then Talonflame at level 35. Uniquely, the entire line shifts from Normal/Flying (Fletchling) to Fire/Flying (Fletchinder and Talonflame) upon first evolution. [Pokemondb.net: Fletchling, via WebSearch; Bulbapedia: Fletchling, via WebSearch]",
+      "sources": ["Pokemondb.net: Fletchling", "Bulbapedia: Fletchling"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (this print): \"Its body is always warm. Trainers who live in cold areas apparently sleep with it in their bed.\" [Frontmatter flavor_text field, PokemonTCG.io]",
+      "sources": ["Frontmatter flavor_text (PokemonTCG.io source)"]
+    },
+    {
+      "category": "design",
+      "text": "Fletchling is based on the robin — a small passerine bird with a distinctive orange-red breast. The robin's cultural association with winter warmth (and its prominent role in Christmas iconography in the UK) may inform the Pokedex entry about Fletchling keeping trainers warm in cold climates. [Pokemondb.net: Fletchling, via WebSearch snippet]",
+      "sources": ["Pokemondb.net: Fletchling"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Talonflame, Fletchling's final evolution, held a dominant position in early Generation VI competitive play due to Gale Wings granting priority to Flying-type moves. Its overrepresentation led to a nerf in Generation VII, when Gale Wings was changed to only grant priority when at full HP. Fletchling + Talonflame is one of the more documented balance-intervention arcs in competitive Pokemon history. [Bulbapedia: Talonflame, via WebSearch; Pokemaniacal: Fletchling line, via WebSearch]",
+      "sources": ["Bulbapedia: Talonflame", "Pokemaniacal: Fletchling line"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fletchinder", "set": "Multiple", "note": "Stage 1 middle evolution of the Talonflame line"},
+    {"name": "Talonflame", "set": "Multiple", "note": "Stage 2 final evolution; historically competitively dominant"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

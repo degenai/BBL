@@ -1,0 +1,41 @@
+{
+  "card_name": "Caterpie",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "001/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Caterpie via card name, PokemonTCG.io API (swsh2-1, National Pokedex no. 10), artist Uta, and canonical green caterpillar with red-tipped antenna design.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Rebel Clash (RCL, Sword & Shield series) released May 1, 2020, as the second Sword & Shield expansion. 192 printed cards, 17 secret rares (209 total), regulation mark D. Featured VMAX: Rillaboom, Cinderace, Inteleon, Copperajah, Dragapult.",
+      "sources": ["PokemonTCG.io API: swsh2"]
+    },
+    {
+      "category": "design",
+      "text": "Two corpus Caterpie prints: RBC-001 (Uta, 2020, nighttime forest atmospheric scene) vs. EVO-3 (Ken Sugimori, 2016, flat-style Base Set tribute, plain background, daytime static pose). Same species, sharply different visual registers.",
+      "sources": ["PokemonTCG.io API: swsh2-1, xy12-3"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'For protection, it releases a horrible stench from the antenna on its head to drive away enemies.' National Pokedex no. 10.",
+      "sources": ["PokemonTCG.io API: swsh2-1"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Adaptive Evolution ability (shared with adjacent RBC-002 Metapod) permits turn-one evolution, encoding Caterpie's canonically fast metamorphosis in TCG mechanics. Both cards form a coherent functional two-card unit.",
+      "sources": ["PokemonTCG.io API: swsh2-1, swsh2-2"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Metapod", "set": "Rebel Clash 002/192", "note": "immediate evolution target, shares Adaptive Evolution, adjacent collector number"},
+    {"name": "Caterpie", "set": "Evolutions 3/108", "note": "alternate corpus print, Ken Sugimori flat-style art, contrasting visual register"},
+    {"name": "Butterfree", "set": "Rebel Clash", "note": "final evolution stage, not in corpus"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

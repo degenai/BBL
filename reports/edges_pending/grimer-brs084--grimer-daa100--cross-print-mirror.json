@@ -1,0 +1,29 @@
+{
+  "edge_id": "grimer-brs084--grimer-daa100--cross-print-same-flavor-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/brilliant-stars/084-172-grimer.md", "name": "Grimer (Brilliant Stars 084/172)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/100-189-grimer.md", "name": "Grimer (Darkness Ablaze 100/189)"}
+  ],
+  "description": "Cross-print 1:1 mirror between two Kanto Grimer cards. Same canonical species (National Pokedex no. 88), IDENTICAL Sun-era Pokedex flavor text verbatim across both prints ('The wastewater coming from factories is clean these days, so Grimer have nothing to eat. They're said to be on the verge of extinction.'), TWO different illustrators (Masakazu Fukuda on BRS-084, Ryota Murayama on DAA-100), two different sets. Same canonical bleak-ecology punchline rendered twice in corpus. The cross-print repetition is itself the thesis anchor: the same flavor on two artist prints confirms the bleak-eco flavor as canonical-by-set-cycle-Pokedex rather than one-time artist choice. BRS-084 trivia (wave 17 or 18) explicitly surfaced the pair finding; both ends now formally mirrored. Stronger Edgelord move than the cycle-sibling-mirror schema-invention candidate I considered for this slot — canonical Edgelord shape, two cards, narratively load-bearing, already-trivia'd on both ends, no schema invention needed.",
+  "citations": [
+    "[PokemonTCG.io: swsh9-84 flavorText]",
+    "[PokemonTCG.io: swsh3-100 flavorText]",
+    "[Bulbapedia: Grimer (Pokemon)]",
+    "[BBL corpus: Grimer BRS-084 trivia pass — explicitly surfaced the cross-print same-flavor finding]",
+    "[BBL corpus: Grimer DAA-100 wave 14 trivia pass — primary source for the pollution-as-survival-niche thesis frame]"
+  ],
+  "files_modified": [
+    "cards/pokemon/brilliant-stars/084-172-grimer.md",
+    "cards/pokemon/darkness-ablaze/100-189-grimer.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "Meowth BUS-101 ↔ Galarian Meowth RBC-126 — DUPLICATE, already 1:1 mirrored in a prior wave with substantive Connections bullets on both ends. Anti-duplicate rule held.",
+    "Castform Forms cycle ↔ Elemental Monkey Trio sibling-cycles `related_characters:` mirror — interesting, structurally graph-load-bearing as a precedent for cycle-sibling-mirror schema, but is a schema-establishment move dressed as an edge; the existing nodes don't yet have populated `related_characters:` fields and the precedent hasn't been ratified by Alex. Defer.",
+    "Charizard-line ↔ kagemaru-himeno character-x-artist edge — schema for related_artists on character nodes doesn't exist yet; orthogonal to the Himeno node proposal in E3. Defer until the schema is decided.",
+    "Sigilyph + Golett ancient-Unova-civilization Mr. Nodeley — defer per 2/3 threshold caveat; await third member."
+  ]
+}

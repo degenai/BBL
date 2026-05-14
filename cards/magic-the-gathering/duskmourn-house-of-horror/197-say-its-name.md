@@ -15,7 +15,7 @@ tags_filter: ["solo", "close-up", "forward-facing", "single-figure", "indoor-sce
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/197-say-its-name.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/9/4/94c58683-b5f2-4863-9562-6f6be1ec21fe.png?1726286600
@@ -28,6 +28,7 @@ oracle_text: Mill three cards. Then you may return a creature or land card from 
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+characters: ["valgavoth"]
 ---
 
 # Say Its Name (Duskmourn: House of Horror)

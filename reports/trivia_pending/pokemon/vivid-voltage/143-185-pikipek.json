@@ -1,0 +1,35 @@
+{
+  "card_name": "Pikipek",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "143/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is Pikipek; PokemonTCG.io confirms nationalPokedexNumbers: [731] and evolvesTo: [Trumbeak]; flavor text matches canonical Pokedex entry. Art depicts a small black-and-white bird with red head marking in tropical foliage — matches Pikipek's published design. Internal Pokemon IP, no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Pikipek is National Pokedex no. 731, a Normal/Flying type introduced in Generation VII (Pokemon Sun & Moon, 2016). It is Alola's early-route bird — the region's equivalent of Pidgey, Hoothoot, or Taillow. Its evolution line is Pikipek -> Trumbeak (level 14) -> Toucannon (level 28). [PokemonTCG.io: swsh4-143; Bulbapedia: Pikipek, via WebSearch snippet]",
+      "sources": ["PokemonTCG.io: swsh4-143", "Bulbapedia: Pikipek, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "The Pikipek line has an unusual design arc: Pikipek and Trumbeak are based on woodpeckers, but Toucannon is based on a Toco toucan. This is grounded in real-world phylogenetics — woodpeckers and toucans are both members of the order Piciformes, making the evolution line a nod to actual evolutionary relationships. [Bulbapedia: Pikipek, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Pikipek, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It may look spindly, but its neck muscles are heavy-duty. It can peck at a tree 16 times per second!\" [PokemonTCG.io: swsh4-143]",
+      "sources": ["PokemonTCG.io: swsh4-143"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Trumbeak", "set": "Sun & Moon era", "note": "Stage 1 evolution — same Alola woodpecker line"},
+    {"name": "Toucannon", "set": "Sun & Moon era", "note": "Stage 2 final evolution — design shifts to toucan; Piciformes phylogenetics reference"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

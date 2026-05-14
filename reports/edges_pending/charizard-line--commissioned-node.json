@@ -1,0 +1,43 @@
+{
+  "edge_id": "charizard-line--commissioned-node",
+  "shape": "node-proposal",
+  "topology": "branch",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/charizard-line.md", "name": "Charizard evolutionary line (Charmander / Charmeleon / Charizard)"},
+    {"type": "card", "path": "cards/pokemon/base-set-unlimited/46-charmander--moderately-played.md", "name": "Charmander (Base Set Unlimited 46)"},
+    {"type": "card", "path": "cards/pokemon/burning-shadows/18-147-charmander.md", "name": "Charmander (Burning Shadows 18/147)"},
+    {"type": "card", "path": "cards/pokemon/vivid-voltage/023-185-charmander.md", "name": "Charmander (Vivid Voltage 023/185)"},
+    {"type": "card", "path": "cards/pokemon/burning-shadows/19-147-charmeleon.md", "name": "Charmeleon (Burning Shadows 19/147)"},
+    {"type": "card", "path": "cards/pokemon/vivid-voltage/024-185-charmeleon.md", "name": "Charmeleon (Vivid Voltage 024/185)"},
+    {"type": "card", "path": "cards/pokemon/vivid-voltage/025-185-charizard.md", "name": "Charizard (Vivid Voltage 025/185)"}
+  ],
+  "description": "Oh — Edgelord asked me to step in, sir, terribly sorry. The wave 14 acquisitions of Charmander VIV-023 and Charizard VIV-025 closed the cohort threshold that Charmeleon BUS-19's wave 12 trivia explicitly flagged at 2/3. Six corpus prints now cover all three stages of the original Generation I Kanto starter line (Pokedex 004/005/006), with a within-Vivid-Voltage adjacent-collector-number triptych at 023/024/025 as the corpus's strongest single-set evolutionary-arc cohesion stack. I do hope the node isn't redundant, sir — I tried to follow the elemental-monkey-trio and galarian-regional-forms templates precisely, with caveats on Mega Charizard X/Y and Gigantamax variant forms, the tail-flame-as-life-force canon scoping, and the franchise-marquee print-volume skew Charizard creates. The Vivid Voltage Charizard's Royal Blaze Leon-card-discard-pile scaling also closes a mechanical citation to the galar-gym-challenge node via Champion Leon's signature Gigantamax Charizard. If I overstepped I'll bow out, but the threshold conditions did look met.",
+  "citations": [
+    "[Bulbapedia: Charmander (Pokemon)]",
+    "[Bulbapedia: Charmeleon (Pokemon)]",
+    "[Bulbapedia: Charizard (Pokemon)]",
+    "[Bulbapedia: Charmander line (TCG)]",
+    "[Pokemon.com: Pokedex no. 004 / 005 / 006]",
+    "[Pokemon Red and Blue (Game Freak, 1996)]",
+    "[Pokemon X and Y (Game Freak, 2013) — Mega Charizard X / Y]",
+    "[Pokemon Sword & Shield (Game Freak, 2019) — Gigantamax Charizard / Champion Leon]",
+    "[PokemonTCG.io: per-card metadata for the six corpus prints]",
+    "[BBL wave 12 trivia: Charmeleon BUS-19/147 cohort-threshold flag]"
+  ],
+  "files_modified": [
+    "cards/_characters/charizard-line.md (created)",
+    "cards/pokemon/base-set-unlimited/46-charmander--moderately-played.md (frontmatter: characters: [charizard-line])",
+    "cards/pokemon/burning-shadows/18-147-charmander.md (frontmatter: characters: [charizard-line])",
+    "cards/pokemon/vivid-voltage/023-185-charmander.md (frontmatter: characters: [charizard-line])",
+    "cards/pokemon/burning-shadows/19-147-charmeleon.md (frontmatter: characters: [charizard-line])",
+    "cards/pokemon/vivid-voltage/024-185-charmeleon.md (frontmatter: characters: [charizard-line])",
+    "cards/pokemon/vivid-voltage/025-185-charizard.md (frontmatter: characters: [charizard-line])"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "1:1 mirror edge between Charmander BUS-19 ↔ Charizard VIV-025 anchored on the tail-flame-as-life-force canon — would have been thin given the threshold was already at 2/3 and the node was the cleaner unifier of all six prints across both sets and three stages",
+    "1:1 mirror edge between Charmeleon BUS-19 (most-enriched line member) ↔ Charizard VIV-025 (Stage 2 apex) anchored on the kawayoo-to-Ryuta-Fuse illustrator continuity — would have indexed the wrong axis (illustrator-pair edges are filter-tier, not narrative-tier)",
+    "Sibling Bulbasaur-line and Squirtle-line cohort nodes were considered as parallel proposals but neither has crossed the 3-card-across-3-stages threshold in current corpus; surfacing as future candidates for triviabot to flag on next wave"
+  ]
+}

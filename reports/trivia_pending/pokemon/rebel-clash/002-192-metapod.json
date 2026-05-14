@@ -1,0 +1,41 @@
+{
+  "card_name": "Metapod",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "002/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Metapod via card name, PokemonTCG.io API (swsh2-2, National Pokedex no. 11, Stage 1 evolves from Caterpie), artist Asako Ito, and canonical angular green chrysalis design.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "First and only Metapod print in corpus. National Pokedex no. 11, Stage 1 chrysalis form. Evolves from Caterpie at level 7, into Butterfree at level 10 — shortest three-stage span in Generation I.",
+      "sources": ["PokemonTCG.io API: swsh2-2"]
+    },
+    {
+      "category": "design",
+      "text": "Ash's Metapod first appeared in Season 1 Episode 3 ('Ash Catches a Pokemon'). The Metapod vs. Metapod Harden standoff in Episode 4 ('Challenge of the Samurai') is one of the franchise's most parodied early moments. Ash's Metapod evolved into Butterfree in that episode — the franchise's first on-screen three-stage evolution sequence.",
+      "sources": ["Bulbapedia: EP004, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.' The card's stillness-forward composition (pale background, suspended cocoon, no environmental action) directly illustrates the flavor text's passivity.",
+      "sources": ["PokemonTCG.io API: swsh2-2"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Adaptive Evolution allows turn-one evolution, encoding the lore that Metapod's sole function is becoming Butterfree. 3-retreat-cost 80HP Stage 1 is otherwise non-competitive; the ability is the entire reason to run the line.",
+      "sources": ["PokemonTCG.io API: swsh2-2"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Caterpie", "set": "Rebel Clash 001/192", "note": "pre-evolution, adjacent collector number, shares Adaptive Evolution ability"},
+    {"name": "Butterfree", "set": "Rebel Clash", "note": "evolution target, not in corpus"},
+    {"name": "Caterpie", "set": "Evolutions 3/108", "note": "alternate pre-evolution print in corpus, Ken Sugimori art"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

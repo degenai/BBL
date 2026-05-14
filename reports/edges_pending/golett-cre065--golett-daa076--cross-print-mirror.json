@@ -1,0 +1,27 @@
+{
+  "edge_id": "golett-cre065--golett-daa076--cross-print-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/chilling-reign/065-198-golett.md", "name": "Golett (Chilling Reign 065/198)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/076-189-golett.md", "name": "Golett (Darkness Ablaze 076/189)"}
+  ],
+  "description": "Cross-print 1:1 mirror between two Unova Golett cards (National Pokedex no. 622). Same canonical clay-construct species; two distinct artists (0313 on CRE-065, Ryuta Fuse on DAA-076); two distinct iconographic registers (CRE-065 telluric subterranean grim dungeon palette versus DAA-076 cosmic galaxy-vortex sublime palette). The cross-print pair canonizes both registers of Golett's design — the chthonic ancient-construct read (grey stone, teal glow, grim mood) and the cosmic ancient-construct read (galaxy backdrop, orange glow, sublime mood) — as both legitimate within one species identity. Mirrors the wave-18 Grimer BRS-084 / DAA-100 cross-print mirror as a structural precedent for two-print same-species cohort edges.",
+  "citations": [
+    "[PokemonTCG.io: swsh6-65 + swsh3-76 same species + same National Pokedex no.]",
+    "[Bulbapedia: Golett (Pokemon)]",
+    "[bogleech.com/pokemon/p622golett — Golem-of-Prague design citation source]",
+    "[BBL corpus: Golett DAA-076 wave 14 trivia pass — primary source for the clay-construct Golem-of-Prague + Unova-as-New-York design thesis]"
+  ],
+  "files_modified": [
+    "cards/pokemon/chilling-reign/065-198-golett.md",
+    "cards/pokemon/darkness-ablaze/076-189-golett.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "Sigilyph + Golett ancient-Unova-civilization Mr. Nodeley — defer per the 2/3 threshold caveat noted in the wave 18 Grimer sidecar; await a third member (Claydol, Yamask, or any Larvesta-era ancient-civ Unova card) before triggering the Nodeley pass.",
+    "Golett-line CRE-065 -> Golurk evolution mirror — Golurk not currently in BBL corpus; deferred.",
+    "Golett (CRE-065 + DAA-076) 1:N branch to a future _characters/golett-line or _hubs/ancient-clay-construct node — premature; cross-print mirror first, then if Golurk lands the chain can extend."
+  ]
+}

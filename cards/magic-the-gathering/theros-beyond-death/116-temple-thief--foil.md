@@ -14,8 +14,8 @@ tags_hub: ["thief", "rogue", "hood", "stealth", "night", "shadow", "trespass", "
 tags_filter: ["solo", "close-up", "portrait-mode", "three-quarter-facing", "human-figure", "female-figure", "no-weapon-visible", "blue-magic", "creature-human", "creature-rogue", "common-rarity", "foil"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/116-temple-thief--foil.png
 average_cost_paid: 0
-market_price: 0.05
-market_price_as_of: 2026-05-12
+market_price: 0.25
+market_price_as_of: 2026-05-13
 date_added: 2026-05-05
 last_seen: 2026-05-12
 art_match_confidence: high

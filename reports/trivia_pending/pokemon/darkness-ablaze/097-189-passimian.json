@@ -1,0 +1,46 @@
+{
+  "card_name": "Passimian",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "097/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "PokemonTCG.io API confirms card name 'Passimian', National Pokedex no. 766, Fighting-type, Alola region. Art depicts grey-white primate with leaf-pattern head marking near a tree, consistent with canonical Passimian appearance. IP is Game Freak/Nintendo-internal (Pokemon franchise). NOTE: Passimian is NOT part of the elemental-monkey trio (Pansage/Pansear/Panpour); it is a separate species introduced in Gen 7.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Darkness Ablaze (SWSH3) released August 14, 2020, the third expansion of the Sword & Shield TCG series. The set is dominated by Charizard VMAX as its headline card; Passimian appears as a common Fighting-type at no. 97/189 [PokemonTCG.io API: swsh3; WebSearch: pokeflip.com Darkness Ablaze set context].",
+      "sources": ["PokemonTCG.io API (swsh3)", "WebSearch: pokeflip.com/collections/swsh3-darkness-ablaze"]
+    },
+    {
+      "category": "design",
+      "text": "Passimian (National Pokedex no. 766) is a Fighting-type introduced in Pokemon Sun (Gen 7, 2016). It is exclusive to Pokemon Sun and Ultra Sun in the Alola games, and to Pokemon Sword in Sword & Shield — its counterpart Oranguru is the Moon/Shield exclusive. Passimian is NOT part of the elemental-monkey trio (Pansage, Pansear, Panpour); it is a wholly independent species classified as the Teamwork Pokemon [PokemonTCG.io API: swsh3-97; WebSearch: pokemondb.net/sun-moon/exclusive].",
+      "sources": ["PokemonTCG.io API (swsh3-97)", "WebSearch: pokemondb.net/sun-moon/exclusive"]
+    },
+    {
+      "category": "design",
+      "text": "The name combines 'pass' (as in ball-passing) and 'simian' (primate). Its design is explicitly modeled on American football: the round coconut-like helmet, broad shoulders, and heavy emphasis on group-play mechanics. French and German translations reinforce this — the French name 'Quartermac' and German 'Quartermak' both reference the quarterback position [WebSearch: Bulbapedia Passimian (Pokemon); WebSearch: pokemaniacal.com/2018/09/15/passimian/].",
+      "sources": ["WebSearch: bulbapedia.bulbagarden.net/wiki/Passimian_(Pokemon)", "WebSearch: pokemaniacal.com/2018/09/15/passimian/"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Displaying amazing teamwork, they follow the orders of their boss as they all help out in the search for their favorite berries.\" — card flavor text. The boss of a Passimian troop earns that role by throwing a berry the farthest; techniques are passed from boss to group across generations [PokemonTCG.io API: swsh3-97; WebSearch: Bulbapedia Passimian].",
+      "sources": ["PokemonTCG.io API (swsh3-97)", "WebSearch: bulbapedia.bulbagarden.net/wiki/Passimian_(Pokemon)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's first attack, Call for Family, searches for up to 2 Basic Pokemon for the Bench — a strong setup move mechanically consistent with Passimian's lore identity as a troop-builder. The second attack, Rock Hurl (70 damage, ignores Resistance), mirrors the berry-throwing combat behavior described in the Pokedex [PokemonTCG.io API: swsh3-97].",
+      "sources": ["PokemonTCG.io API (swsh3-97)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Oranguru", "set": "various", "note": "Version-counterpart exclusive (Moon/Shield); contrasting solitary intellect vs Passimian's troop teamwork"},
+    {"name": "Passimian (Sun & Moon era)", "set": "various", "note": "Prior-gen prints of the same Pokemon; Gen 7 introduction"},
+    {"name": "Pansage / Pansear / Panpour", "set": "various", "note": "The actual elemental-monkey trio; explicitly NOT related to Passimian despite both being primates"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -15,7 +15,7 @@ tags_filter: ["mid-shot", "portrait-mode", "solo", "three-quarter-facing", "crea
 reference_image: cards/_images/magic-the-gathering/core-set-2021/12-concordia-pegasus.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/6/0/600d3517-e370-47ae-ac4f-c7ef8995a89c.png?1594734840

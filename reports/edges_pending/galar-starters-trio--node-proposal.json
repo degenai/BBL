@@ -1,0 +1,36 @@
+{
+  "edge_id": "galar-starters-trio--node-proposal",
+  "shape": "node-proposal",
+  "topology": "branch",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/galar-starters-trio.md", "name": "Galar Starters trio (proposed)"},
+    {"type": "card", "path": "cards/pokemon/chilling-reign/018-198-rillaboom--holofoil.md", "name": "Rillaboom (Chilling Reign 018/198)"},
+    {"type": "card", "path": "cards/pokemon/chilling-reign/026-198-scorbunny.md", "name": "Scorbunny (Chilling Reign 026/198)"},
+    {"type": "card", "path": "cards/pokemon/chilling-reign/041-198-sobble.md", "name": "Sobble (Chilling Reign 041/198)"},
+    {"type": "card", "path": "cards/pokemon/chilling-reign/042-198-drizzile.md", "name": "Drizzile (Chilling Reign 042/198)"}
+  ],
+  "description": "I'm so sorry sir, I'm Mr. Nodeley, Edgelord asked me to step in. The Galar Starters first-partner trio (Grookey / Scorbunny / Sobble lines, Sword & Shield 2019) has four corpus members spanning all three lines now — Rillaboom Grass Stage-2 final at CRE-018, Scorbunny Fire Stage-1 base at CRE-026, Sobble Water Stage-1 base at CRE-041, Drizzile Water Stage-2 mid at CRE-042. That's 3-of-3-lines line-scope coverage, above the elemental-monkey-trio precedent threshold (3/6 species at node-creation time). The British-Isles thematic frame (Taiko-drum Green-Man gorilla, footballer rabbit, Bond-spy lizard) is the cohort's design-thesis anchor, separate from the orthogonal Galarian-regional-forms and Galar-gym-challenge nodes. Future Grookey / Thwackey / Raboot / Cinderace / Inteleon prints will attach cleanly to this same node. I hope this is alright.",
+  "citations": [
+    "[Bulbapedia: First partner Pokemon — Galar entries]",
+    "[Bulbapedia: Grookey + Thwackey + Rillaboom + Scorbunny + Raboot + Cinderace + Sobble + Drizzile + Inteleon per-species pages]",
+    "[Pokemon.com: official Galar starter Pokemon page]",
+    "[PokemonTCG.io: swsh6-18 + swsh6-26 + swsh6-41 + swsh6-42 — 4 corpus prints, all 3 lines]",
+    "[BBL corpus: Rillaboom CRE-018 trivia pass — Taiko + Green Man design citation]",
+    "[BBL corpus: Scorbunny CRE-026 trivia pass — Ohmori director quote on nose-bandage trope]"
+  ],
+  "files_modified": [
+    "cards/_characters/galar-starters-trio.md",
+    "cards/pokemon/chilling-reign/018-198-rillaboom--holofoil.md",
+    "cards/pokemon/chilling-reign/026-198-scorbunny.md",
+    "cards/pokemon/chilling-reign/041-198-sobble.md",
+    "cards/pokemon/chilling-reign/042-198-drizzile.md"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "Deerling-forms-cycle Mr. Nodeley (slot 8 in user's brief) — declined for this pass; only one corpus member of the four seasonal forms is currently in the graph. Threshold not met. Defer until a second Deerling form lands.",
+    "Pair-node solrock-lunatone-pair Mr. Nodeley (slot 4 in user's brief) — declined for this pass; DAA-072 Lunatone is still un-enriched (tags_hub: [] + no Vision body), leaving only BUS-68 Lunatone trivia'd alongside DAA-092 Solrock trivia'd. That's effectively N=2 of the three-card pair-pattern. The 1:1 mirror is already drawn (wave-18 Edgelord pass); the pair-node retrigger condition is when the third corpus card enriches and Lunatone has two trivia'd prints. Defer.",
+    "Castform Snowy node-extension (slot 6 in user's brief) — declined as already complete; the wave-18 Castform Snowy enrichment + the Castform forms cycle node already lists CRE-034 in appears_on (line 13 of cards/_characters/castform-forms-cycle.md). No work needed.",
+    "Ralts-line ancestor character node — declined; only Stages 1 and 2 of the Ralts line are in corpus (no Gardevoir, no Gallade). Threshold of 3 distinct species in line not met. Defer."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "edge_id": "bounsweet--steenee-evolution-mirror",
+  "shape": "1:1",
+  "category": "named-character-identity",
+  "topology": "mirror",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/014-189-bounsweet.md", "name": "Bounsweet (Darkness Ablaze 014/189)"},
+    {"type": "card", "path": "cards/pokemon/unified-minds/18-236-steenee.md", "name": "Steenee (Unified Minds 18/236)"}
+  ],
+  "description": "Cross-set Alola Grass evolution-line mirror — Bounsweet (Stage 1) → Steenee (Stage 2). Same species-lineage at adjacent evolution stages, designer-coordinated continuity via shared visual register (pink-and-green fruit-creature) and Pokedex lineage. The line's Stage 3 (Tsareena) is Trial Captain Mallow's signature Pokemon, which surfaces a future chain candidate when an Alola-region Tsareena card enters corpus.",
+  "citations": ["[Bulbapedia: Bounsweet]", "[Bulbapedia: Steenee]", "[Bulbapedia: Tsareena]", "[Bulbapedia: Mallow]"],
+  "files_modified": [
+    "cards/pokemon/darkness-ablaze/014-189-bounsweet.md",
+    "cards/pokemon/unified-minds/18-236-steenee.md"
+  ],
+  "other_candidates_considered": [
+    "Future chain target: when a Tsareena card enters corpus, this 2-node mirror can extend to a 3-node chain (Bounsweet -> Steenee -> Tsareena) AND connect to alola-trial-captains Mallow's signature-Pokemon anchor."
+  ],
+  "edgelord_mood": "sighed-but-mirrored"
+}

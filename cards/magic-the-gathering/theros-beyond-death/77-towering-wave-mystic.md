@@ -14,8 +14,8 @@ tags_hub: ["merfolk", "wizard", "ocean", "wave", "spellcaster", "water", "robed-
 tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "blue-magic", "creature-merfolk", "creature-wizard", "mill"]
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/77-towering-wave-mystic.png
 average_cost_paid: 0
-market_price: 0.09
-market_price_as_of: 2026-05-12
+market_price: 0.1
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

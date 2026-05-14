@@ -1,0 +1,21 @@
+{
+  "edge_id": "alola-elite-four--hala-extension-via-guzma-hala-tag-team",
+  "shape": "1:N",
+  "topology": "branch",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/alola-elite-four.md", "name": "Alola Elite Four (faction-collective character node)"},
+    {"type": "card", "path": "cards/pokemon/cosmic-eclipse/193-236-guzma-hala.md", "name": "Guzma & Hala (Cosmic Eclipse 193/236 TAG TEAM)"}
+  ],
+  "description": "Wave 20 vision landed Guzma & Hala TAG TEAM (CSE-193); the right-hand robed white-bearded figure is Hala, Melemele Island Kahuna and founding Fighting-type member of the Alola Pokemon League Elite Four. This is the corpus's first Hala depiction and arrives via a dual-character TAG TEAM print rather than a solo Supporter. Pointered the card into the existing alola-elite-four node's appears_on list, extended the Cards-in-corpus section with the Hala-via-TAG-TEAM aspect (including the Kahuna-and-failed-trial-attempter narrative subject implicit in pairing Hala with Guzma), reworded the Hala-not-yet-in-corpus caveat into Hala-in-corpus-via-TAG-TEAM, and updated the Plumeria-NOT-an-E4-member caveat into a Plumeria-and-Guzma-are-Team-Skull caveat that flags the dual-character pointer pattern. Discrete Lair caveat updated: 3/4 enriched coverage now, but the TAG TEAM print's dual-character framing complicates a pure-E4 bundle thesis vs an Alola-NPC-senior-cohort framing.",
+  "citations": [
+    "[Bulbapedia: Hala — Melemele Island Kahuna, Alola Elite Four Fighting-type]",
+    "[Bulbapedia: Pokemon League (Alola)]",
+    "[PokemonTCG.io: sm12-193 — Guzma & Hala TAG TEAM, Cosmic Eclipse]"
+  ],
+  "files_modified": [
+    "cards/_characters/alola-elite-four.md",
+    "cards/pokemon/cosmic-eclipse/193-236-guzma-hala.md (characters: [team-skull, alola-elite-four] added)"
+  ],
+  "edgelord_mood": "blueballed-by-fanout"
+}

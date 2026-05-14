@@ -1,0 +1,36 @@
+{
+  "card_name": "Phantump",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "014/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Phantump via card name, PokemonTCG.io API (swsh2-14, National Pokedex no. 708, Ghost/Grass), artist sui, and canonical tree-stump-body-with-spirit-face design.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Two corpus Phantump prints: RBC-014 (sui art, teal-aura-glow eerie-presence register, 2020) vs. CSE-93 (miki kudo art, dim-forest-floating-orbs lonely-spirit register, 2019). Same species, divergent emotional keys: supernatural-power vs. child-abandonment.",
+      "sources": ["PokemonTCG.io API: swsh2-14, sm12-93"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'After a lost child perished in the forest, their spirit possessed a tree stump, causing the spirit's rebirth as this Pokemon.' Darkest origin statement among Grass-type species in the corpus — child death is the canonical mechanism of the species' existence.",
+      "sources": ["PokemonTCG.io API: swsh2-14"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Dark Guidance (put a Basic from discard to Bench) is a recursion utility on a 60HP 1-retreat basic. Trevenant trade-evolution line sees use in Mill and disruption strategies; Dark Guidance makes Phantump a recycling engine in those builds.",
+      "sources": ["PokemonTCG.io API: swsh2-14"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Phantump", "set": "Cosmic Eclipse 93/236", "note": "alternate corpus print, miki kudo art, lonely-spirit register"},
+    {"name": "Trevenant", "set": "Cosmic Eclipse 017/264", "note": "trade evolution endpoint, in corpus"},
+    {"name": "Trevenant", "set": "various", "note": "evolved form Phantump becomes via trade"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

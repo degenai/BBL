@@ -1,0 +1,42 @@
+{
+  "card_name": "Aether Foundation Employee",
+  "game": "Pokemon",
+  "set": "Lost Thunder",
+  "collector_number": "168",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is Aether Foundation Employee; oracle text explicitly references Alolan Pokemon recovery (Supporter: recover Alolan Pokemon from discard). The depicted figures wear the canonical white-uniformed livery of the Aether Foundation from Pokemon Sun and Moon, a recognizable IP with a defined visual identity confirmed via PokemonTCG.io API and Serebii. This is an institutional/organizational IP rather than a named individual character.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Lost Thunder (SM8) released November 2, 2018 and was, at the time of release, the largest Pokemon TCG set ever printed — 214 cards base set, 236 including secret rares. It combined three Japanese expansions: SM7a Thunderclap Spark, SM7b Fairy Rise, and SM8 Super-Burst Impact. [PokeBeach: 'Lost Thunder To Be Largest Set in TCG History']",
+      "sources": ["PokeBeach", "PokemonTCG.io API"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Aether Foundation, headquartered on the artificial floating island Aether Paradise in Alola, publicly presents as a Pokemon conservation and rehabilitation organization. Its true purpose in Sun and Moon is to serve President Lusamine's obsession with Ultra Beasts — she weaponizes the Foundation's resources to open Ultra Wormholes and summon Nihilego. Branch Chief Faba serves as institutional enforcer. Most rank-and-file employees depicted on this card are unaware of the conspiracy. [Serebii: Aether Foundation, Villains Wiki: Aether Foundation]",
+      "sources": ["Serebii.net", "Villains Wiki: Aether Foundation"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's Supporter effect — 'Put 3 Pokemon that have Alolan in their names from your discard pile into your hand' — mechanically mirrors the Foundation's stated mission of recovering and rehabilitating Pokemon. The Alolan restriction makes this a useful recovery engine specifically in Alolan-heavy Sun and Moon era decks. [PokemonTCG.io API]",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "design",
+      "text": "Artist credited as 'take' (all lowercase) on PokemonTCG.io — a recurring TCG illustrator known for clean human-figure trainer cards throughout the Sun and Moon series. No flavor text on this card. [PokemonTCG.io API]",
+      "sources": ["PokemonTCG.io API"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Lusamine", "set": "Crimson Invasion", "note": "Aether Foundation President; direct organizational superior to the employees depicted on this card"},
+    {"name": "Faba", "set": "Forbidden Light", "note": "Aether Foundation Branch Chief; shares the Aether institutional identity"},
+    {"name": "Aether Foundation Employee", "set": "Forbidden Light", "note": "Earlier print of the same institutional figure with different art"},
+    {"name": "Nihilego GX", "set": "Crimson Invasion", "note": "The Ultra Beast at the center of Lusamine's plot; organizational connection to Aether Foundation lore"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Aether Foundation (Pokemon Sun and Moon)",
+    "ip_confidence": "high"
+  }
+}

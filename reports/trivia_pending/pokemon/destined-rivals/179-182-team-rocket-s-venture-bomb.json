@@ -1,0 +1,36 @@
+{
+  "card_name": "Team Rocket's Venture Bomb",
+  "game": "Pokemon",
+  "set": "Destined Rivals",
+  "collector_number": "179/182",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names Team Rocket. The large red R emblem on the bomb is the canonical Team Rocket faction logo, present consistently across all TCG and game appearances. PokemonTCG.io confirms sv10-179 is an Item card in Destined Rivals. Team Rocket is a Wizards-internal / Nintendo IP (not external crossover). Verification is unambiguous.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Destined Rivals (SV10) is the tenth Scarlet & Violet era expansion, released in English on May 30, 2025. The set compiles the Japanese expansions 'Glory of Team Rocket' and 'Heat Wave Arena,' along with supplemental Gym promos and starter deck cards. Its central theme is Team Rocket's return as the TCG's focal faction — the first major Team Rocket-centric set since the original 2000 Team Rocket expansion in the Base Set era. [WebSearch: PokeBeach/Destined Rivals; JustInBasil sv10 setlist]",
+      "sources": ["PokeBeach via WebSearch", "JustInBasil.com via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The English Destined Rivals set features over 45 Team Rocket's Pokemon cards alongside Team Rocket admins Giovanni, Archer, Ariana, Petrel, and Proton — the Johto-era HGSS executive roster brought into the Scarlet & Violet card frame. The Japanese source set 'Glory of Team Rocket' (released April 18, 2025) prominently features Giovanni and Mewtwo on its booster pack art. [WebSearch: JustInBasil sv10; tcgstacked.com DRT guide]",
+      "sources": ["JustInBasil.com via WebSearch", "tcgstacked.com via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Team Rocket's Venture Bomb is an Item card with a coin-flip mechanic: heads puts 2 damage counters on an opponent's Pokemon; tails puts 2 damage counters on your own Active Pokemon. The gamble-or-self-damage design echoes the reckless, chaotic personality associated with Team Rocket's grunt-level operations. Illustrated by Toyste Beach. [PokemonTCG.io API: sv10-179]",
+      "sources": ["PokemonTCG.io API"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Team Rocket's Giovanni", "set": "Destined Rivals", "note": "The Team Rocket boss — Supporter in the same set"},
+    {"name": "Team Rocket's Mewtwo ex", "set": "Destined Rivals", "note": "Flagship chase card of the set's Japanese source 'Glory of Team Rocket'"},
+    {"name": "Team Rocket (original expansion)", "set": "Team Rocket (2000)", "note": "Original Base Set era Team Rocket set — Destined Rivals is its thematic successor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

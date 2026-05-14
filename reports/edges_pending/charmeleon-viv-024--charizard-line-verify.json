@@ -1,0 +1,16 @@
+{
+  "edge_id": "charmeleon-viv-024--charizard-line-verify",
+  "shape": "1:N",
+  "topology": "branch",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/vivid-voltage/024-185-charmeleon.md", "name": "Charmeleon (Vivid Voltage 024/185)"},
+    {"type": "character", "path": "cards/_characters/charizard-line.md", "name": "Charizard evolutionary line"}
+  ],
+  "description": "Verification-only pass. VIV-024 Charmeleon was already pre-pointered: card frontmatter has characters: [charizard-line] (line 27); character node appears_on already lists pokemon/vivid-voltage/024-185-charmeleon (line 15); node body already includes the card in the corpus inventory paragraph. No edits needed. The wave 14 broad-scan extension into the line did its job. Edgelord notes the work but adds nothing — the graph is already self-consistent at this endpoint pair.",
+  "citations": ["[Bulbapedia: Charmeleon (Pokemon)]", "[PokemonTCG.io: swsh4-24]"],
+  "files_modified": [],
+  "edgelord_mood": "satisfied",
+  "verification_only": true,
+  "notes": "VIV-024 makes this corpus's 7th charizard-line print (3rd Charmeleon, 2nd in VIV's within-set 023+024+025 evolutionary triptych). The node's corpus inventory paragraph could use a verbose trivia bullet for VIV-024's flavor (barbaric-nature / fiery-tail-whipping flavor distinct from BUS-019's tail-lashing-and-claw-tearing flavor), but that's a Nodeley-tier node-body refresh, not an Edgelord edge."
+}

@@ -1,0 +1,40 @@
+{
+  "card_name": "Parasect",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "004/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Parasect. Card name, Grass type, Stage 1, flavor text, and depicted figure (crab-like creature with large spotted red-capped mushroom dominating its back) match canonical Parasect (National Pokedex no. 47). Identity unambiguous. The flavor text on this card ('The bug is mostly dead, with the mushroom on its back having become the main body. If the mushroom comes off, the bug stops moving.') is one of the most explicitly dark Pokedex entries in the franchise.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Parasect's design is based on the Cordyceps fungus (specifically Cordyceps sinensis, known in Japan as tochukaso), a real parasitic fungus that infects insects and takes control of their behavior to spread spores. In Parasect's case, the Pokedex states the mushroom has consumed the host completely — 'the bug is mostly dead' is verbatim flavor text on this card. The host's eyes are blank and white, reflecting the absence of any independent will. This is one of the earliest and most explicit 'body horror' designs in the franchise, introduced in Generation I. `[Bulbapedia: Paras/Parasect via WebSearch (Bulbanews Origins article); gamerant.com Pokemon/Last of Us comparison via WebSearch]`",
+      "sources": ["Bulbapedia: Paras/Parasect via WebSearch", "gamerant.com via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "The Cordyceps-zombie design predates widespread Western awareness of Cordyceps by decades. The Last of Us (2013 game, 2023 TV series) brought Cordyceps zombie-fungus into mainstream horror discourse, prompting renewed interest in Parasect's design origin. Multiple gaming outlets noted the convergence after the TV show aired. `[gamerant.com via WebSearch]`",
+      "sources": ["gamerant.com via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The bug is mostly dead, with the mushroom on its back having become the main body. If the mushroom comes off, the bug stops moving.\" `[PokemonTCG.io API flavor_text field (swsh3-4)]`",
+      "sources": ["PokemonTCG.io API (swsh3-4)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Mushroom Tackle attack (Grass, 30 damage) has a coin-flip Paralysis effect, mirroring the in-game Spore/Stun Spore moves the Paras line is known for. Solar Beam (GrassGrassColorless, 110) is the heavy finisher. Art by Miki Tanaka. `[PokemonTCG.io API (swsh3-4)]`",
+      "sources": ["PokemonTCG.io API (swsh3-4)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Paras", "set": "various", "note": "Pre-evolution; the mushroom spores are present but host is still alive"},
+    {"name": "Parasect (Base Set, various)", "set": "Base Set and many subsequent", "note": "Parasect is a Generation I species with extensive print history"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

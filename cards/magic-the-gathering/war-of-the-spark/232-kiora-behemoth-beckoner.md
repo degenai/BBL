@@ -14,8 +14,8 @@ tags_hub: ["ocean", "sea-monster", "leviathan", "merfolk", "storm", "trident", "
 tags_filter: ["duo", "mid-shot", "forward-facing", "scene-mode", "female-figure", "blue-magic", "planeswalker", "legendary", "uncommon"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner.png
 average_cost_paid: 0
-market_price: 1.16
-market_price_as_of: 2026-05-12
+market_price: 1.25
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/7/a/7a61b1a6-a75f-47b0-b215-de9708b6d773.png?1557577371
@@ -27,6 +27,7 @@ setting: ocean
 suspected_ip: Kiora
 ip_confidence: high
 ip_verified: true
+characters: ["kiora"]
 artist: Jaime Jones
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/a/7a61b1a6-a75f-47b0-b215-de9708b6d773.jpg?1557577371

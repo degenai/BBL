@@ -1,0 +1,41 @@
+{
+  "card_name": "Goomy",
+  "game": "Pokemon",
+  "set": "Fusion Strike",
+  "collector_number": "195/264",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Goomy', Dragon type, Basic subtype, flavor text matches. National Pokedex no. 704, Kalos Soft Tissue Pokemon. Base stage of Goodra pseudo-legendary line. Confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Goomy (no. 704) is consistently cited in official Pokedex entries as the weakest Dragon-type Pokemon in the franchise. Its body is covered in a moisture-dependent mucous membrane. Despite this, its evolutionary endpoint Goodra (no. 706) is a pseudo-legendary with 600 base stat total — one of the most extreme stat-progression gaps of any pseudo-legendary line. Goodra's stats are exactly double Goomy's.",
+      "sources": ["Bulbapedia: Goomy (Pokémon)", "Bulbapedia: Goodra (Pokémon)", "pokemondb.net: Goodra"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Their horns are powerful sensors. As soon as Goomy pick up any sign of enemies, they go into hiding. This is how they've survived.\" Survival-through-evasion framing is tonally consistent with the 'weakest Dragon-type' reputation — a creature whose strategy is avoidance until the final form can fight back.",
+      "sources": ["PokemonTCG.io: swsh8-195"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Fusion Strike (Sword & Shield series, November 12, 2021) is one of the largest SwSh-era sets at 264 cards. Goomy appears as a Basic Dragon-type (no. 195/264, Common).",
+      "sources": ["Bulbapedia: Fusion Strike (TCG)", "pokemonblog.com: Fusion Strike release"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Miki Tanaka. Goodra in this same set was illustrated by Nagomi Nijo — a rare case of the base and final stage of a pseudo-legendary line being split across two different artists in the same expansion.",
+      "sources": ["PokemonTCG.io: swsh8-195", "Bleeding Cool: Nagomi Nijo artist spotlight (via WebSearch)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sliggoo", "set": "Fusion Strike", "note": "Stage 1 of Goodra line, same set"},
+    {"name": "Goodra", "set": "Fusion Strike", "note": "Pseudo-legendary endpoint, Nagomi Nijo art, same set"},
+    {"name": "Hisuian Goodra", "set": "Legends: Arceus era", "note": "Regional variant introduced in Legends: Arceus"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

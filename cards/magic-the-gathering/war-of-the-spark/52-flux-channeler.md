@@ -14,8 +14,8 @@ tags_hub: ["wizard", "spellcaster", "lightning", "storm", "arcane", "robed-figur
 tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "blue-magic", "creature-human", "creature-wizard", "male-figure-ambiguous", "proliferate"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/52-flux-channeler.png
 average_cost_paid: 0
-market_price: 3.32
-market_price_as_of: 2026-05-12
+market_price: 3.28
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

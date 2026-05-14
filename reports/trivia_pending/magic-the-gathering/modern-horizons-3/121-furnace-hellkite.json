@@ -1,0 +1,36 @@
+{
+  "card_name": "Furnace Hellkite",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "121",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "mechanical",
+      "text": "Furnace Hellkite is a 5/5 artifact creature Dragon with Affinity for artifacts — its base cost of 5RR reduces by 1 for each artifact controlled. In artifact-heavy Modern and Commander shells this can make it effectively a 2-3 mana 5/5 flyer. The combination of Affinity and a {R} pump ability ties it directly to the Affinity archetype lineage that began in Mirrodin (2003). EDHREC rank 9224 — the best-adopted of the five MH3 cards in this wave. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Some mornings it wakes up determined to consume the red sun itself.\" [Scryfall]. The line positions the creature as a force of appetite without limit — an ambition framing consistent with the Hellkite subtype's design tradition of red dragon excess.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "As an Artifact Creature — Dragon, Furnace Hellkite bridges two MH3 mechanical threads: the set's energy and artifact themes, and the classic Affinity mechanic (first printed in Mirrodin, banned in Extended/Legacy-adjacent formats due to Arcbound Ravager-era abuse). Printing Affinity on a standalone Dragon at uncommon keeps it castable without being the axis of a broken combo. Art by Fang Xinyu. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Arcbound Ravager", "set": "DST", "note": "Artifact creature — anchor of the Affinity archetype Furnace Hellkite plugs into"},
+    {"name": "Hellkite Overlord", "set": "ALA", "note": "Hellkite subtype ancestor — 8/8 with flying, haste, trample, firebreathing"},
+    {"name": "Myr Enforcer", "set": "MRD", "note": "Original Affinity for artifacts creature from Mirrodin 2003"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

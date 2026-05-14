@@ -14,8 +14,8 @@ tags_hub: ["dragon", "sea-serpent", "loch", "water", "lake", "wings", "mist", "f
 tags_filter: ["solo", "mid-shot", "three-quarter-facing", "action-mode", "creature-dragon", "blue-magic", "flying", "no-face-human"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/211-loch-dragon.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-12
+market_price: 0.19
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

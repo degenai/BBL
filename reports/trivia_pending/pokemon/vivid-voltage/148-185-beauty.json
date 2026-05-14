@@ -1,0 +1,40 @@
+{
+  "card_name": "Beauty",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "148/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The card name 'Beauty' and Supporter card type match the canonical Pokemon Trainer class 'Beauty,' which debuted in Generation I (Pokemon Red and Blue) and appears in Pokemon Sword and Shield as an NPC class. The Vision pass already identified the figure as representing this Trainer class. Confirmed via PokemonTCG.io API (swsh4-148) and Bulbapedia: Beauty (Trainer class) via WebSearch snippet. The 'suspected_ip' is the Trainer class itself (a recurring NPC archetype), not a unique named character.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Beauty (no. 148/185) is a Supporter Trainer card from Vivid Voltage (SWSH4), released November 13, 2020. The Beauty Trainer class debuted in Generation I (Pokemon Red and Blue, 1998), making it one of the original NPC trainer archetypes carried across every mainline Pokemon generation since the franchise's launch. [PokemonTCG.io API: swsh4-148; WebSearch: Beauty Trainer class Bulbapedia, pokemondb.net]",
+      "sources": ["PokemonTCG.io API", "WebSearch: Bulbapedia Beauty (Trainer class) via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by kirisAki, a freelance illustrator who has contributed to the Pokemon TCG since 2013 after studying at Tokyo Designer Gakuin. kirisAki has illustrated multiple Supporter and Trainer cards across the Sun & Moon and Sword & Shield eras. [WebSearch: artofpkm.com kirisAki; Bulbapedia: kirisAki via WebSearch snippet]",
+      "sources": ["WebSearch: artofpkm.com/illustrators/158", "WebSearch: Bulbapedia kirisAki via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Effect: draw 2 cards; this card may be played on the first turn (if going first). The first-turn exception is unusual for Supporter cards — standard rules prohibit Supporter play on the first player's first turn. Beauty's oracle text explicitly overrides this restriction, giving it mild tempo value in decks that need early draw. No flavor text printed on this card. [PokemonTCG.io API: swsh4-148 rules]",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Pokemon Sword and Shield, Beauties can team with a Rail Staff NPC to form the 'Daring Couple' double-battle Trainer class, giving the classic archetype a Galar-specific interplay. The Beauty Trainer class is described canonically as typically using Pokemon associated with beauty and cuteness, and pays out a high prize amount when defeated. [WebSearch: Beauty Trainer class Sword Shield, Bulbapedia via WebSearch snippet; serebii.net]",
+      "sources": ["WebSearch: Bulbapedia Beauty (Trainer class) via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Leon", "set": "Vivid Voltage and other SWSH sets", "note": "Marquee Supporter from the same set and Galar setting"},
+    {"name": "Marnie", "set": "Sword & Shield base / other SWSH sets", "note": "Major female Supporter figure of the Galar Sword & Shield arc; same NPC-Supporter class category"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

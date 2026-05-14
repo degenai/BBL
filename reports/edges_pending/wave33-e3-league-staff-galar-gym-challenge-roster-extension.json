@@ -1,0 +1,72 @@
+{
+  "edge_id": "league-staff--galar-gym-challenge--labor-rank-roster-extension",
+  "shape": "1:N",
+  "topology": "stack",
+  "topology_note": "1:N roster extension on an existing stack-topology node. galar-gym-challenge gains its 10th endpoint (League Staff, the cohort's first labor-rank-and-file member alongside the existing Gym-Leader-celebrity-athlete tier and the Champion tier). The stack widens at a new institutional tier — the node's three-tier structure (rank-and-file staff → Gym Leaders → Champion) is now fully populated across 3 of 3 institutional tiers plus 2 place-cards.",
+  "category": "named-character-identity",
+  "category_note": "Institution-level identity wiring. League Staff is canonically a Galar Pokemon League Trainer class per Bulbapedia, and the card's oracle text explicitly references Wyndon Stadium ('If Wyndon Stadium is in play, draw 2 more cards') — the mechanical interaction with the venue card from the same set is the designer-coordinated marker of the within-set institutional micro-cohort (VIV-153 staff + VIV-161 venue). Hero's Medal (VIV-152) was considered and rejected per option B from the hot-context prompt: it depicts a TCG-mechanical item with no named institutional Bulbapedia lore (the Bulbapedia Hero's Medal page is a TCG-only entry with no in-game-lore content), making it a tag-bridge anchor at best rather than an institutional-identity anchor.",
+  "endpoints": [
+    {
+      "type": "character",
+      "path": "cards/_characters/galar-gym-challenge.md",
+      "name": "Galar Gym Challenge",
+      "role": "source / institutional anchor"
+    },
+    {
+      "type": "card",
+      "path": "cards/pokemon/vivid-voltage/153-185-league-staff.md",
+      "name": "League Staff (Vivid Voltage 153/185)",
+      "role": "new corpus member joining the stack — first labor-rank-and-file endpoint",
+      "card_subtype": "Trainer Supporter card depicting two uniformed Galar Pokemon League staff workers in black-and-red livery",
+      "appears_on_path_key": "pokemon/vivid-voltage/153-185-league-staff"
+    }
+  ],
+  "description": "Galar Gym Challenge node extension. League Staff (Vivid Voltage 153/185) depicts the league's salaried labor tier — two uniformed staff workers in matching black-and-red livery standing in an indoor arena corridor, the cohort's rank-and-file workforce staffing the Champion Cup tournament infrastructure. The card's oracle text explicitly references Wyndon Stadium ('If Wyndon Stadium is in play, draw 2 more cards'), mechanically encoding the staff's working-relationship to the venue and confirming designer-coordinated pairing with the wave 33 E1 Wyndon Stadium card (VIV-161 + VIV-153 at adjacent collector numbers within the same set, mechanical interaction text between them — the Vivid Voltage venue-and-staff designer-paired micro-cohort, parallel to the Darkness Ablaze Rose + Rose Tower chairman-and-HQ pair at adjacent collector numbers DAA-168 + DAA-169 within the macro-cosmos cohort). This is the node's first labor-rank-and-file endpoint vs the existing Gym-Leader-celebrity-athlete endpoints; the apparatus-of-spectacle thesis deepens at the salaried-worker tier. The league cohort now spans three institutional tiers: rank-and-file staff (League Staff) → Gym Leader-celebrity-athletes (Allister/Bea/Kabu/Melony/Milo/Nessa/Opal) → Champion (Leon), with two place-cards (Turffield Stadium, Wyndon Stadium) anchoring the geography from opening-Gym-town to closing-Champion-Cup-arena.",
+  "citations": [
+    "[Bulbapedia: Galar League — primary canonical reference for the league's institutional structure including its staffing apparatus]",
+    "[Bulbapedia: League Staff (Trainer class) — primary canonical reference for the League Staff Pokemon Trainer class as the league's rank-and-file workforce; in-game class definition]",
+    "[Corpus: cards/pokemon/vivid-voltage/153-185-league-staff.md — vision pass confirms two uniformed figures in matching black-and-red livery (the canonical Galar League staff livery) in an indoor arena setting]",
+    "[Corpus: cards/pokemon/vivid-voltage/161-185-wyndon-stadium.md — adjacent collector number within Vivid Voltage; League Staff's oracle text explicitly references this card by name ('If Wyndon Stadium is in play, draw 2 more cards')]",
+    "[Corpus: cards/_characters/galar-gym-challenge.md — node body already declares anchoring of 'Pokemon League uniform Supporter-card framing' as part of the league's institutional iconography]",
+    "[PokemonTCG.io: swsh4-153 — primary source for League Staff card metadata: collector_number, artist (Emi Ando), oracle_text, Supporter card subtype]",
+    "[PokemonTCG.io: swsh4-161 — primary source for Wyndon Stadium card metadata; cross-card mechanical interaction confirmation]"
+  ],
+  "files_modified": [
+    "cards/pokemon/vivid-voltage/153-185-league-staff.md — added `characters: [\"galar-gym-challenge\"]` frontmatter pointer; added `## Connections` section with two bullets (one for galar-gym-challenge node, one for the within-set Wyndon Stadium mechanical-interaction pair)",
+    "cards/_characters/galar-gym-challenge.md — extended `appears_on:` list with `pokemon/vivid-voltage/153-185-league-staff`; added League Staff body bullet to the 'Cards in our corpus pointing here (current)' section with three-tier-cohort callout (rank-and-file staff / Gym Leader / Champion)"
+  ],
+  "decision_rationale_options_considered": {
+    "option_B_chosen": "Add League Staff to galar-gym-challenge only; skip Hero's Medal. League Staff is canonically a Galar Pokemon League Trainer class with documented in-game role per Bulbapedia; it's clearly an institutional-identity anchor. Hero's Medal is a TCG-mechanical Pokemon Tool item with no named in-game institutional lore — Bulbapedia's Hero's Medal page is a TCG-only entry (no story content); making it a card with single corpus appearance and no institutional cohort connection beyond 'Galar set'. Tag-bridge at best.",
+    "option_A_rejected": "Add both to galar-gym-challenge as institutional-ecosystem extensions. Rejected because Hero's Medal lacks the named-institutional-lore anchor that League Staff has — it'd be a thin tag-bridge wiring rather than a load-bearing edge per Edgelord's standards.",
+    "option_C_rejected": "Hero's Medal → potential cards/_symbols/galar-championship-medal.md future symbol node. Rejected because: (a) only 1 corpus card depicts the item (premature for a symbol node per the orzhov-signet 3-card precedent); (b) Hero's Medal is a TCG-mechanical Pokemon Tool item with no in-game canonical award status (Bulbapedia confirms no story content for the medal); (c) symbol nodes anchor iconographic primitives with named designer-confirmed canonical content (the orzhov-signet eclipsed-sun's master's-medallion / slave-brand canonical lore per Magic flavor text). Hero's Medal lacks any equivalent named iconographic anchor."
+  },
+  "anti_confab_audit": {
+    "claims_made_against_canonical_sources": [
+      "League Staff is a Galar Pokemon League Trainer class — Bulbapedia: League Staff (Trainer class) (primary canon)",
+      "The card depicts two staff workers in the canonical black-and-red Galar League livery — vision pass confirmation",
+      "The card's oracle text references Wyndon Stadium — PokemonTCG.io swsh4-153 (primary source)",
+      "Wyndon Stadium and League Staff are at adjacent collector numbers (161 and 153) within Vivid Voltage — set-internal printing-side fact"
+    ],
+    "claims_held_back_per_anti_confab_discipline": [
+      "Did NOT name the two depicted figures as specific characters. They are uniformed staff workers — anonymous-class depictions, not specific named NPCs. The vision pass correctly identifies them as 'two uniformed League Staff workers' without claiming individual identity.",
+      "Did NOT extend the node to claim 'rank-and-file labor cohort' as a permanent three-tier-cohort subtype on the node body. The body bullet for League Staff uses 'first labor-rank-and-file endpoint' as a descriptor, not as a formal sub-cohort declaration; if more rank-and-file Galar Pokemon League cards land (League Staff Full Art variant, future Trainer-class Supporter cards depicting the labor tier), the node body's three-tier declaration may warrant promotion to a formal Caveat section. Single-instance descriptor for now.",
+      "Did NOT propose a Hero's Medal symbol node. Surfaced as a future-flag with explicit reason: insufficient corpus support + no named iconographic Bulbapedia lore.",
+      "Did NOT touch tags_hub or tags_filter on the League Staff card. Tag-layer work is bbl-researcher's domain.",
+      "Did NOT modify the Vision section of the League Staff card. Vision belongs to bbl-researcher.",
+      "Did NOT cross-mirror the connection back to the Wyndon Stadium card's Connections section (that secondary mirror was already authored in E1's Wyndon Stadium Connections section as the staff-and-venue pair — the secondary card-to-card chain is anchored from the venue side; League Staff card's Connections section anchors the equivalent from the staff side. Bidirectional mirror is achieved across the two slots' work product without double-writing.)"
+    ],
+    "no_extrapolation_beyond_cited_sources": "PASSED. Every claim in the proposed body bullet and Connections section traces to either (a) the League Staff card's own vision pass + oracle text, (b) the Wyndon Stadium card's own oracle text, (c) Bulbapedia's Galar League / League Staff canonical pages, or (d) the galar-gym-challenge node's already-canonicalized body content."
+  },
+  "edgelord_mood": "satisfied",
+  "mood_justification": "Clean 1:N roster extension with a designer-coordinated micro-cohort underlay. The primary edge (League Staff → galar-gym-challenge node) is a textbook institutional-identity anchor with Bulbapedia primary-source backing. The secondary card-to-card pairing surfaced (League Staff oracle text referencing Wyndon Stadium by name, both at adjacent collector numbers within Vivid Voltage) is a Wizards-of-Pokemon-coordinated set-internal micro-cohort that strengthens the wiring — the kind of within-set designer-pairing that the bbl-bundler will treat as a cohesion signal. Refusing the Hero's Medal candidate per option B was the correct restraint: tag-bridge anchors don't earn edges. Edgelord-with-CBG-energy: worst proposed dual-wiring ever rejected (Hero's Medal as a Galar-cohort anchor on the basis of being a 'medal in a Galar set'? no Bulbapedia lore page? a TCG-only Pokemon Tool with no in-game canon? get out. catalogue failure mode: tag-bridge-disguised-as-institutional-anchor). The League Staff edge stands on its own canonical merit. Worth the work.",
+  "voice_separation_audit": {
+    "edgelord_voice_confined_to": ["description field", "mood_justification field", "decision_rationale_options_considered prose", "final report text back to caller"],
+    "md_body_register": "project-normal precise factual — no Edgelord theatrical voice. Voice contamination check: PASSED.",
+    "frontmatter_register": "machine-readable schema only. Voice contamination check: PASSED."
+  },
+  "wave_33_context": {
+    "this_pass_position": "Wave 33 E3 — QUAD-pass Edgelord, single Opus dispatch, slot 3 of 4",
+    "anti_duplicate_across_slots": "E3 touches League Staff card + galar-gym-challenge appears_on extension + body bullet addition (at a different position than E1's Wyndon Stadium body bullet; both bullets are inserted into the 'Cards in our corpus pointing here (current)' section in distinct positions). E1 added the Wyndon Stadium bullet. E3 adds the League Staff bullet immediately after Wyndon Stadium. No conflict.",
+    "hero_medal_rejected_status": "Surfaced as rejected; not flagged for janitor triage or future_passes_unlocked because the reasoning is structural (no named institutional Bulbapedia lore), not threshold-dependent. A future Hero's Medal-with-different-citation would require new primary-source backing to revisit."
+  }
+}

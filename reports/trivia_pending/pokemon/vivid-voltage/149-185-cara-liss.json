@@ -1,0 +1,36 @@
+{
+  "card_name": "Cara Liss",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "149/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is Cara Liss; PokemonTCG.io confirms card is a Trainer Supporter named 'Cara Liss'; oracle text explicitly references 'Rare Fossil cards' matching her in-game function at Route 6 Galar. Bulbapedia confirms she is a named NPC in Pokemon Sword & Shield who operates a fossil revival machine at Route 6. Vision description (white lab coat, rocky cave setting) matches published character design. Internal Pokemon IP, no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cara Liss is a named NPC in Pokemon Sword & Shield, located on Route 6 in Galar where she operates a revival machine that assembles fossil Pokemon from mixed fossil parts. Unlike previous fossil revival NPCs, Cara Liss's machine combines non-matching head and body fossils, producing chimeric fossil Pokemon: Arctozolt, Dracovish, Dracozolt, or Arctovish. [Bulbapedia: Cara Liss, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Cara Liss, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Cara Liss has a verbal tic of ending sentences with 'huh' in the games — a character-writing quirk that contrasts with her scientific role. Her appearance per Bulbapedia: short black hair in a bob, tan skin, black eyes with white pupils, muddy face and clothes from fieldwork. Illustrated on this card by Hitoshi Ariga, a veteran Pokemon manga artist best known for the Pokemon Adventures manga adaptation. [Bulbapedia: Cara Liss, via WebSearch snippet; PokemonTCG.io: swsh4-149 metadata]",
+      "sources": ["Bulbapedia: Cara Liss, via WebSearch snippet", "PokemonTCG.io: swsh4-149"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text: 'Search your deck for up to 2 Rare Fossil cards and put them onto your Bench.' The 'Rare Fossil' item card functions as a placeholder on the Bench that can evolve into one of the Galar fossil Pokemon (Dracozolt, Arctozolt, Dracovish, Arctovish). Cara Liss's card role — pulling two fossils from the deck — directly mirrors her in-game mechanic of requiring two fossil pieces per revival. [PokemonTCG.io: swsh4-149 oracle text]",
+      "sources": ["PokemonTCG.io: swsh4-149"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rare Fossil", "set": "Sword & Shield era", "note": "Item card required by Cara Liss's oracle text — the bench placeholder for fossil Pokemon"},
+    {"name": "Dracovish V", "set": "Sword & Shield Promo", "note": "One of the four chimeric fossil Pokemon Cara Liss revives in-game"},
+    {"name": "Arctozolt", "set": "Vivid Voltage", "note": "Fossil Pokemon in the same set — direct in-game product of Cara Liss's machine"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

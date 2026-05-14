@@ -1,0 +1,32 @@
+{
+  "edge_id": "macro-cosmos--node-proposal",
+  "shape": "node-proposal",
+  "topology": "branch",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/macro-cosmos.md", "name": "Macro Cosmos (new character node, wave 24)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/168-189-rose.md", "name": "Rose (Darkness Ablaze 168/189)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/169-189-rose-tower.md", "name": "Rose Tower (Darkness Ablaze 169/189)"}
+  ],
+  "description": "Sorry, sir — Edgelord stepped aside because the right move here was the node, not an edge. The galar-gym-challenge node had already flagged the Macro Cosmos conglomerate as a future-sibling caveat, and wave 24 vision landed both Rose (DAA-168) and Rose Tower (DAA-169) at adjacent within-set collector numbers — the designer-coordinated paired-print of the Chairman and his Wyndon corporate headquarters tower. The corporate-aristocratic villain register completes the three-axis Pokemon-faction-villainy map alongside team-rocket (overt-criminal-syndicate) and team-skull (subculture-coded failed-aspiration). I hope it's not too much trouble. The node is structurally parallel to the future Aether Foundation node and anchors the Pokemon-side corporate-philanthropic-cover-as-actual-apex-villain register.",
+  "citations": [
+    "[Bulbapedia: Macro Cosmos — conglomerate institutional page]",
+    "[Bulbapedia: Rose (Chairman) — three-piece grey suit signature, Champion Cup sponsorship, Eternatus-summoning apex-villain arc]",
+    "[Bulbapedia: Rose Tower — Wyndon corporate HQ, executive structure]",
+    "[Bulbapedia: Eternatus — Darkest Day final-act battle, Galar Particles weaponization]",
+    "[Pokemon Sword & Shield (Game Freak, 2019) — primary canon for Macro Cosmos institutional structure + Act 3 villain reveal]",
+    "[PokemonTCG.io: swsh3-168 Rose Supporter + swsh3-169 Rose Tower Stadium, adjacent within-set paired-print]"
+  ],
+  "files_modified": [
+    "cards/_characters/macro-cosmos.md (created)",
+    "cards/pokemon/darkness-ablaze/168-189-rose.md (added characters: pointer)",
+    "cards/pokemon/darkness-ablaze/169-189-rose-tower.md (added characters: pointer)",
+    "cards/_characters/galar-gym-challenge.md (Caveat resolved + related_characters extended with macro-cosmos)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "Solo chairman-rose.md node — rejected; corpus has 1 Rose-specific card (DAA-168), below 3-card solo-node threshold per Bolas-cluster precedent. Surfaced in macro-cosmos.md Caveats as future-sibling-solo with trigger condition: when 3+ Rose-specific corpus cards exist.",
+    "Solo oleana.md node — rejected; no Oleana cards in corpus. Trigger condition: when Oleana-affiliated cards enter corpus.",
+    "Solo rose-tower.md location node — rejected; the corpus does not yet have a _locations/ layer, and Rose Tower's institutional weight is fully captured at the macro-cosmos parent (the tower IS the conglomerate's signature place). Future _locations/ layer commissioning would split the place anchor out; for now the parent node carries both."
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Castform",
+  "game": "Pokemon",
+  "set": "Brilliant Stars",
+  "collector_number": "116/172",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches species name exactly. Depicted figure is Castform in Normal Form: small round white-lavender body, floating in cloudy sky. Vision pass already confirmed the form by color (white/lavender, not blue/Rainy, not orange/Sunny, not icy-white/Snowy). API confirms nationalPokedexNumbers: [351]. No ambiguity; Castform Normal Form verified.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Castform (National Pokedex no. 351) was introduced in Generation III (Ruby and Sapphire, 2002) as the first Pokemon to change type based on weather. Its four forms — Normal (no weather), Sunny (harsh sunlight, Fire-type), Rainy (rain, Water-type), and Snowy (hail/snow, Ice-type) — change via its Forecast Ability. The design is partly inspired by the Japanese teru teru bozu tradition: small cloth dolls hung to ward off rain. [Bulbapedia: Castform, via WebSearch]",
+      "sources": ["Bulbapedia: Castform, via WebSearch]"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Castform's debut games, Pokemon Ruby, Sapphire, and Emerald, it was gifted to the player by a scientist at the Weather Institute as a reward for rescuing the facility from Team Aqua or Team Magma — both of whom sought to control weather on a global scale. Castform's origin as a 'weather researcher's companion' is baked into the game's lore. [Bulbapedia: Castform, via WebSearch]",
+      "sources": ["Bulbapedia: Castform, via WebSearch]"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Its form changes depending on the weather. The rougher conditions get, the rougher Castform's disposition!\" `[PokemonTCG.io API: swsh9-116 flavorText]`",
+      "sources": ["PokemonTCG.io API: swsh9-116 flavorText"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Brilliant Stars Normal Form (BRS no. 116/172) is the fourth Castform form card in the SWSH era: the three alternate forms (Sunny, Rainy, Snowy) all appeared in Chilling Reign (CRE nos. 022, 033, 034/198). The Normal Form arriving in Brilliant Stars completes the full four-form set across SWSH-era printings. A Castform Rainy Form (CRE no. 033/198) is already in the corpus. [Limitless TCG: CRE/33, via WebSearch] [PokemonTCG.io API: swsh9-116]",
+      "sources": ["Limitless TCG: CRE/33, via WebSearch", "PokemonTCG.io API: swsh9-116"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Castform Rainy Form", "set": "Chilling Reign", "note": "CRE no. 033/198 — already in corpus; forms cycle pair"},
+    {"name": "Castform Sunny Form", "set": "Chilling Reign", "note": "CRE no. 022/198 — completes the weather-cycle trio"},
+    {"name": "Castform Snowy Form", "set": "Chilling Reign", "note": "CRE no. 034/198 — fourth form card in the cycle"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

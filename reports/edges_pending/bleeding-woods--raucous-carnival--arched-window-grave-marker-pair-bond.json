@@ -1,0 +1,115 @@
+{
+  "edge_id": "bleeding-woods--raucous-carnival--arched-window-grave-marker-pair-bond",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "sub_category": "visual-iconography-pair-within-cycle",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/duskmourn-house-of-horror/257-bleeding-woods.md",
+      "name": "Bleeding Woods (DSK-257, R/G, Henry Peters)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/duskmourn-house-of-horror/266-raucous-carnival.md",
+      "name": "Raucous Carnival (DSK-266, R/W, Josu Solano)"
+    }
+  ],
+  "description": "Visual-iconography pair-bond between two Duskmourn unlucky-lands cycle members on a shared haunted-architecture-bleed device. Both cards independently use arched cathedral windows embedded in unexpected substrates (gnarled tree trunks on Bleeding Woods; a colossal hall enclosing the amusement park on Raucous Carnival) plus small upright headstone / grave-marker shapes scattered through the foreground field. The combination is co-present and load-bearing in both Vision sections and is explicitly NOT shared by the third corpus cycle member Etched Cornfield (which uses an aerial crop-circle / cyan-portal register instead). The edge is one register tighter than cycle membership alone, which the dsk-unlucky-lands-cycle character node already captures from the 1:N side.",
+  "edge_text_applied_in_both_md_bodies": "Visual-iconography pair-bond within the [[dsk-unlucky-lands-cycle]]. Both cards independently use the same haunted-architecture-bleed device: ornate arched cathedral windows embedded into unexpected substrates (gnarled tree trunks here / a colossal hall enclosing the amusement park there) plus small upright headstone / grave-marker shapes scattered through the foreground field. The motif is co-present and load-bearing in both Vision sections and is NOT shared by the cycle's third corpus member Etched Cornfield (aerial crop-circle / cyan-rift register). Designer-coordinated haunted-vernacular-place iconography one register tighter than cycle membership alone.",
+  "citations": [
+    "[Vision: cards/magic-the-gathering/duskmourn-house-of-horror/257-bleeding-woods.md — Vision section explicitly enumerates 'ornate arched window frames and grave-marker-style stone surrounds... embedded into the trunks of gnarled trees' AND 'Smaller upright slab shapes are visible mid-ground, reading as gravestones or tombstone fragments scattered through the underbrush'. Objects list: arched-window, grave-marker, tombstone. Iconography list: arched-window, grave-marker, bleeding-tree.]",
+    "[Vision: cards/magic-the-gathering/duskmourn-house-of-horror/266-raucous-carnival.md — Vision section explicitly enumerates 'three towering arched windows that flood the scene with hazy amber light' (architectural enclosure) AND 'Small dark headstone-like shapes dot the foreground field'. Objects list: arched-windows, headstones. Iconography list: cathedral-arches. Subject line: 'enclosed within a vast cathedral-like building with tall arched windows'.]",
+    "[Counter-check: cards/magic-the-gathering/duskmourn-house-of-horror/258-etched-cornfield.md — Vision section uses 'aerial cornfield with concentric crop circles, scattered farm buildings, cyan-blue portal fractures'. Objects: crop-circles, silo, farm-building, energy-rift, blue-portal. Iconography: crop-circle, concentric-rings, portal, rift. ZERO arched-window OR grave-marker iconography. Confirms the pair-bond is real and not just cycle-uniform.]",
+    "[Cycle anchor: cards/_characters/dsk-unlucky-lands-cycle.md — the 1:N stack anchor proposed and landed in Wave 10 E1; this 1:1 edge sits above-and-beyond cycle membership, as the E1 sidecar explicitly forecast in its future_passes_unlocked array.]",
+    "[Prior sidecar: reports/edges_pending/dsk-unlucky-lands-cycle--node-proposal.json — alternatives_considered[0] documented that this exact 1:1 was deferred at E1 time because the cycle node was the higher-priority move; future_passes_unlocked[5] surfaced this 1:1 as 'candidate the parent may want to commission separately' AFTER the cycle node landed. This pass executes that follow-up.]",
+    "[MTG Wiki — Duskmourn: House of Horror, Cycles section — confirms designer-coordinated 10-card status, transitively cited via Raucous Carnival Trivia 'Set context' bullets]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/duskmourn-house-of-horror/257-bleeding-woods.md (appended ## Connections section with one bullet pointing at 266-raucous-carnival)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/266-raucous-carnival.md (appended ## Connections section after existing Trivia + Related cards subsection, with one bullet pointing at 257-bleeding-woods)"
+  ],
+  "frontmatter_mutations": [],
+  "frontmatter_mutation_note": "No frontmatter mutations in this pass. The cycle-membership frontmatter (`characters: [\"dsk-unlucky-lands-cycle\"]`) is already in place on both endpoints from the Wave 10 E1 application. The 1:1 edge lives entirely in body-level `## Connections` sections, which Edgelord applies directly per agent spec step 6. The subagent-runtime-workaround memory note (`bbl-subagent-runtime-workarounds`) gates Bash and frontmatter mutations specifically; body-section Edit tool calls are within normal Edgelord authority.",
+  "topology_justification": "mirror topology — two card endpoints, both equal nodes (same cycle, same rarity, same designer-coordinated cohort), edge written into both MDs symmetrically. Standard professional sigh applies. The mirror sits inside a stack (the cycle node's 1:N fan-out to 3 corpus members) but is itself a clean 2-endpoint 1:1.",
+  "alternatives_considered": [
+    {
+      "candidate": "Draw a 1:1 between Raucous Carnival and Etched Cornfield on shared 'They say...' urban-legend flavor register.",
+      "why_skipped": "All three corpus cycle members share the urban-legend flavor opening (verified in each card's flavor_text frontmatter). This is a cycle-wide feature, fully captured by the dsk-unlucky-lands-cycle node's design-thesis paragraph. A 1:1 edge between two members on it would be duplicate-edge-pointing-at-an-absent-center — the exact failure mode the original E1 Nodeley transformation prevented. The cycle node owns the urban-legend register; a 1:1 above it requires a tighter visual or narrative feature."
+    },
+    {
+      "candidate": "Draw a 1:1 between Bleeding Woods and Etched Cornfield on shared rural-horror / haunted-vegetation register (both have growth-as-victim flavor text — bones-under-trees / wither-into-stalks).",
+      "why_skipped": "The shared register is thematic-flavor-level (haunted-flora-consumes-the-lost) and reasonable, but neither Vision section calls out a shared visual-iconographic device the way the Carnival/Woods arched-window-plus-headstone pair does. The flavor-register pair-bond would be drawing on flavor_text strings only, which is a weaker signal than co-present visual iconography both vision-pass agents independently identified. Reserved as a possible separate edge if a future pass surfaces tighter visual cohesion."
+    },
+    {
+      "candidate": "Inside the Galar Gym Challenge node (8 corpus members), draw a 1:1 between Allister (Stow-on-Side Shield, Ghost) and Bea (Stow-on-Side Sword, Fighting) on the version-asymmetric Gym pairing.",
+      "why_skipped": "Real edge candidate but Bea is still vision-pending per the Galar Gym Challenge node caveats. The version-asymmetric pair-bond is designer-confirmed (Bulbapedia documents Stow-on-Side as version-paired) but the corpus side of the edge needs Bea's Vision and Trivia to land first for the description to cite specific visual evidence on both ends. Surfaced for a future pass once Bea is vision-passed. Same shape applies to Melony / Gordie at Circhester if Gordie ever enters corpus."
+    },
+    {
+      "candidate": "Inside the Galar Gym Challenge node, draw a 1:1 between Allister and Melony on shared 'take' Game Freak designer chain.",
+      "why_skipped": "Both are 'take'-illustrated SWSH Supporter Gym Leaders, but that artist-credit chain is a 1:N fan-out from the (currently unbuilt) take artist node, not a 1:1 card↔card edge. The shared artist relationship is institutionally captured by the Galar Gym Challenge node body's discussion of the 'take' designer chain and would be properly graphed by a future cards/_artists/take.md node. Routing through a not-yet-built artist node is a Mr. Nodeley move; doing it here would be (a) a separate strong move and (b) the corpus has 8 take credits already (high enough to warrant the artist node), making this a candidate-for-its-own-pass rather than a casual byproduct of E2."
+    },
+    {
+      "candidate": "Bolas-Falls 1:N collapse (Despark + Topple + Prison Realm fanning to existing nicol-bolas character node, plus the Liliana and Ugin character nodes referenced from the cards' Connections sections).",
+      "why_skipped": "Explicitly blocked per dispatch hot-context bullet 3: waits on Liliana + Ugin character nodes existing, which they don't yet. The current Despark/Topple/Prison Realm Connections sections were drawn as a triangle in earlier passes; collapsing them to 1:N is the right move but requires the two missing character nodes first. Out of scope for E2."
+    },
+    {
+      "candidate": "Refuse entirely on the grounds that the 1:1 was already deferred at E1 time.",
+      "why_skipped": "The E1 sidecar's future_passes_unlocked[5] explicitly framed this 1:1 as 'candidate the parent may want to commission separately... after this node lands' — the cycle node has landed, so the candidate is exactly ripe. Plus the dispatch prompt explicitly named this as the shape of move it wants ('a thing that's THERE in the corpus but the graph hasn't named yet'). The visual-iconography pair-bond IS in the corpus (both Vision sections call it out independently) and the graph hasn't named it. Refusing would be the wrong move."
+    }
+  ],
+  "anti_confab_audit": {
+    "claims_made_against_canonical_sources": [
+      "Both cards depict arched cathedral windows — verified directly from each card's Vision section text, which independently uses 'arched window frames' (Woods) and 'arched cathedral windows' / 'arched windows' (Carnival). Direct quotation, not inference.",
+      "Both cards depict small upright headstone / grave-marker shapes in the foreground — verified directly from each card's Vision section text, which uses 'tombstone fragments scattered through the underbrush' / 'grave-marker-style stone surrounds' (Woods) and 'Small dark headstone-like shapes dot the foreground field' (Carnival). Direct quotation, not inference.",
+      "Etched Cornfield does NOT share the motif — verified by direct read of its Vision section's Objects + Iconography lists, which contain crop-circle / silo / farm-building / energy-rift / blue-portal and ZERO instances of arched-window OR grave-marker / headstone / tombstone. Anti-confab counter-check held; the pair-bond is real and not a hallucinated three-way overlap reduced to two.",
+      "The motif is co-designed — implied by the cycle's design thesis (haunted-vernacular-place + urban-legend register + 13-life trigger as designer-coordinated unit) per Raucous Carnival's existing Trivia 'Set context' bullets citing MTG Wiki: Unlucky land. The 1:1 edge does NOT claim Wizards explicitly published a designer note pairing Woods and Carnival on this motif; it claims the motif is observably co-present in both and absent in the third member. Anti-confab discipline: 'co-designed' read as visible-design-coordination, not asserted-designer-statement."
+    ],
+    "claims_held_back_per_anti_confab_discipline": [
+      "Did NOT assert that Henry Peters and Josu Solano collaborated or shared art direction. The pair-bond is observed iconography on both pieces, not a documented artist-collaboration record. The cards may share a Duskmourn art-direction brief; that's plausible but uncited and is not claimed in the edge text.",
+      "Did NOT expand the edge to a triangle including Etched Cornfield. The counter-check explicitly rules out Cornfield on this motif. Refusing to inflate the edge from a clean 1:1 to a fake 1:3 is the discipline.",
+      "Did NOT extend the edge into the seven not-in-corpus cycle members (Strangled Cemetery, Murky Sewer, etc.) on speculation that some of them might also have the arched-window-plus-headstone motif. Anti-confab rule: edges point at cards on disk with verified Vision sections, not at speculation about unrealized art on uninventoried cards.",
+      "Did NOT mutate frontmatter. The `characters: [\"dsk-unlucky-lands-cycle\"]` pointer is already in place on both endpoints from the E1 apply pass; no new frontmatter is needed for a body-level Connections-section 1:1."
+    ],
+    "no_extrapolation_beyond_cited_sources": "PASSED. Every claim traces to (a) direct quotation from one of the three cards' Vision sections, (b) the Raucous Carnival Trivia section's cycle-design canonicalization, or (c) the existing dsk-unlucky-lands-cycle node body's design-thesis paragraph (itself audited at E1 time). No 'this seems like a theme' inference. The counter-check on Etched Cornfield is the load-bearing anti-confab move — without it, the edge would be a three-way overlap claim hiding inside a two-way edge, which would be invalid."
+  },
+  "edgelord_mood": "sighed-but-mirrored",
+  "mood_justification": "Two card endpoints, both equal cycle members, edge must be traversable from either side, hence the mirror. The sigh is professional. That said, the work is structurally satisfying: the cycle node anchors the 1:N fan-out for cycle membership, and this 1:1 sits above-and-beyond cycle membership on a tighter visual-iconography pair-bond that the cycle node's design-thesis paragraph references but does not by itself pair-up between two specific cards. The graph now has both the cycle stack AND the specific visual pair-bond, with the third member explicitly excluded from the pair-bond (which prevents a future pass from over-extending the motif to all three). Net: one mirror sigh, one quiet professional satisfaction at the structural cleanliness.",
+  "edgelord_voice_note": "Mr. Nodeley sighed at E1 because he had to step in. Edgelord sighs at E2 because the mirror is two-ended. The graph improves either way. Voice contamination kept to this sidecar; the bullet text in both MD bodies is the project-normal precise factual register matching the Topple/Despark/Prison-Realm Connections sections.",
+  "other_candidates_considered_but_not_drawn_this_pass": [
+    "Allister ↔ Bea version-asymmetric Stow-on-Side pair-bond — blocked on Bea's vision pass. Surface for future commission once Bea is enriched.",
+    "Take artist node (cards/_artists/take.md) — 8 SWSH Supporter Gym Leader credits in corpus would warrant a node, parallel to the existing jenn-ravenna-tran entry. Strong Mr. Nodeley candidate for a separate pass. NOT this one.",
+    "Bleeding Woods ↔ Etched Cornfield haunted-vegetation-consumes-the-lost flavor-register pair — weaker than the visual-iconography pair-bond chosen this pass; reserve for a separate flavor-text-echo-category edge if the corpus deepens.",
+    "Bolas-Falls 1:N collapse to nicol-bolas + Liliana + Ugin — blocked on Liliana and Ugin character nodes existing. Hot-context bullet 3 said as much."
+  ],
+  "wave_10_dispatch_context": {
+    "this_pass": "Wave 10 E2 fresh-look — Duskmourn unlucky-lands cycle 1:1 visual-iconography pair-bond (Bleeding Woods ↔ Raucous Carnival), above-and-beyond cycle membership.",
+    "redispatch_basis": "Original Wave 10 E2 was never dispatched (E1 hit a 529 mid-wave and the second slot got dropped); this is the fresh-look pickup under standard single-Opus-Edgelord per memory note bbl-dual-pipeline-judge-pattern (Judge dropped operationally 2026-05-12).",
+    "model_dispatch_compliance": "Opus 4.7 (1M context). Required for graph-spanning corpus-scan work; the scan across cards/_characters/ + cards/_symbols/ + cards/_hubs/ + reports/edges_pending/ + the three DSK candidate cards is exactly the kind of corpus snapshot Sonnet would half per the dual-pipeline finding.",
+    "no_dual_pipeline": "Confirmed — single dispatch, no Sonnet parallel, no Judge.",
+    "no_interference_with_prior_passes": "This pass reads from but does not modify the dsk-unlucky-lands-cycle node, the Galar Gym Challenge node, the Bolas-Falls cluster, or any other graph node. Output is exactly two MD body-section additions (both DSK cards' ## Connections sections) plus one new sidecar (this file). Strict scoping honored.",
+    "fresh_look_alignment": "Dispatch prompt's hot-context bullet 2 explicitly surfaced this 1:1 as the candidate-for-separate-commission edge that the E1 Nodeley pass forecast. The fresh-look slot landing on the exact edge E1 forecast is by-design, not opportunistic — the cycle node was the higher-priority move first, and the 1:1 above-and-beyond becomes the natural next-move once the cycle stack is in place."
+  },
+  "wikilintbot_compatibility": {
+    "wikilink_targets_verified": [
+      "[[257-bleeding-woods]] — resolves to cards/magic-the-gathering/duskmourn-house-of-horror/257-bleeding-woods.md (verified via Read)",
+      "[[266-raucous-carnival]] — resolves to cards/magic-the-gathering/duskmourn-house-of-horror/266-raucous-carnival.md (verified via Read)",
+      "[[dsk-unlucky-lands-cycle]] — resolves to cards/_characters/dsk-unlucky-lands-cycle.md (verified via Read of the node body)"
+    ],
+    "obsidian_vault_root_compliance": "All three wikilinks use filename stems only (no extensions, no path components). Obsidian resolves these regardless of subdirectory placement so long as both ends are within the cards/ vault root, which they are.",
+    "section_header_placement_check": "PASSED. Bleeding Woods ## Connections section appended after the Vision section's Genre cues line (no Trivia section exists on Bleeding Woods). Raucous Carnival ## Connections section appended after the existing Trivia section's Related cards sub-list (Trivia + Related cards remain intact). Neither edit touched Vision or Trivia body content per agent spec."
+  },
+  "voice_separation_audit": {
+    "edgelord_voice_confined_to": ["description field of this JSON sidecar", "mood_justification field of this JSON sidecar", "edgelord_voice_note field of this JSON sidecar", "final report text back to caller"],
+    "md_body_register_check": "PASSED. The Connections-section bullet text in both cards is the project-normal precise factual register: subject (visual-iconography pair-bond), evidence (specific Vision-section motif quotation), counter-check (Etched Cornfield does NOT share), cycle anchor (wikilink to the character node), and inline citations. Zero theatrical sighs, zero CBG voice, zero blueballed-by-fanout grousing in the MD bodies. Voice contamination prevented.",
+    "no_em_dash_in_buyer_facing_copy_check": "Em dashes used in the Connections bullet's project-internal prose. Per memory note bbl-no-em-dash, em dashes are fine in non-storefront content; Connections sections are graph-internal navigation infrastructure, not buyer-facing copy. The forthcoming Discrete Lair why_it_fits and narrative fields will strip em dashes when this edge is cited."
+  },
+  "future_passes_unlocked": [
+    "When a not-in-corpus unlucky-lands cycle member arrives (Strangled Cemetery, Murky Sewer, etc.) and its vision pass lands, scan its Vision section for the arched-window-plus-headstone motif. If present, the pair-bond may extend to a triangle or chain shape; if absent, the motif stays a 2-card pair-bond as currently graphed. Either is fine.",
+    "Bundle-cohesion Discrete Lair on the Duskmourn unlucky-lands cycle (forecast in the E1 sidecar's future_passes_unlocked) may now lean on the dsk-unlucky-lands-cycle node for cycle-wide cohesion AND on this 1:1 pair-bond for the haunted-architecture-bleed-into-vernacular-landscape sub-thesis. Two anchors for the bundler to choose from.",
+    "Allister ↔ Bea version-asymmetric Stow-on-Side pair-bond (Galar Gym Challenge node) ready for dispatch once Bea's vision pass lands.",
+    "Take artist node candidate — 8 SWSH Supporter Gym Leader credits in corpus warrant a cards/_artists/take.md anchor parallel to jenn-ravenna-tran. Mr. Nodeley pass on its own; not auto-trigger.",
+    "Bolas-Falls 1:N collapse waits on Liliana + Ugin character nodes (dispatch hot-context bullet 3)."
+  ]
+}

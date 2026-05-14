@@ -1,0 +1,41 @@
+{
+  "card_name": "Sigilyph",
+  "game": "Pokemon",
+  "set": "Brilliant Stars",
+  "collector_number": "066/172",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Sigilyph: geometric totem-like flying Pokémon with single large eye and teal/yellow protrusions matches swsh9-66 record and Bulbapedia. National Pokedex no. 561. Reverse holofoil variant.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Sigilyph's design is confirmed by Bulbapedia as inspired primarily by the Nazca Lines (Peruvian desert geoglyphs, ~500 BCE–500 CE), particularly the hummingbird figure. Secondary influence: kachina dolls from Hopi/Pueblo traditions, accounting for the colorful geometric face and pendant limbs. Name combines sigil + glyph, with possible sylph (air spirit) reference.",
+      "sources": ["Bulbapedia: Sigilyph (Pokemon)", "facts.net: 20 Facts About Sigilyph"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Psychic power allows these Pokémon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians' emissaries.\" Deliberately ambiguous — guardian vs. emissary. In-game Sigilyph are found at Relic Castle in Unova, the ruins of an ancient city.",
+      "sources": ["PokemonTCG.io: swsh9-66 flavorText field", "Bulbapedia: Sigilyph (Pokemon)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Sigilyph is Unova-native (Gen V, National Pokedex no. 561). The corpus holds Golett (another ancient-construct Pokémon from Relic Castle / Desert Resort area of Unova), creating a nascent ancient-civilization cluster. Wave 17 vision pass flagged this adjacency.",
+      "sources": ["Bulbapedia: Sigilyph (Pokemon)", "Bulbapedia: Golett (Pokemon)"]
+    },
+    {
+      "category": "design",
+      "text": "This copy is the reverse holofoil variant of BRS-066. Brilliant Stars (SWSH9) released February 25, 2022; headlined by Arceus VSTAR. Sigilyph appears as an uncommon; reverse holo is the low-cost collector variant of an already-low-rarity card.",
+      "sources": ["PokemonTCG.io: swsh9"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Golett / Golurk", "set": "multiple", "note": "Unova ancient-construct adjacency in corpus"},
+    {"name": "Cofagrigus", "set": "multiple", "note": "Egyptian-inspired Unova Pokémon, same lore cluster"},
+    {"name": "Sigilyph", "set": "Black & White era", "note": "Earlier-era prints of same Pokémon"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

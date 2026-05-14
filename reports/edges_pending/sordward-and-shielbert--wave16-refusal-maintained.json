@@ -1,0 +1,24 @@
+{
+  "edge_id": "sordward-and-shielbert--node-proposal-refused-wave16",
+  "shape": "refusal",
+  "topology": "n/a",
+  "category": "premature-node-proposal-revisit",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/battle-styles/135-163-sordward-shielbert.md", "name": "Sordward & Shielbert (BST-135)"}
+  ],
+  "description": "Refusal maintained, but the threshold gap is now narrower and the parking-lot entry is updated. Wave 15 E2 refused on two grounds: ip_verified false AND single-card corpus presence. Wave 16 trivia satisfied the IP gate — the pair is now fully canonical with sword/shield-hair pun design lore, the post-game Tower of Darkness/Waters arc, and the on-screen redemption arc. So one of the two refusal grounds is cleared. The structural ground (corpus presence) is NOT cleared. The Team Rocket character-node precedent was built on 1 enriched card (Boss's Orders) + 1 prep-stage card with a *distinct* narrative angle (Team Rocket's Venture Bomb — different beat, different mechanic family). Sordward's only other corpus signal is BST-171/163 Full Art, a higher-rarity reprint of the same art — same beat, no new angle. Threshold-shape requires ≥2 distinct beats per node. Hold until a Rose / Oleana / Macro Cosmos card lands OR a different-angle Sordward print (e.g. Crown Zenith full-art with a different scene) materializes. Worst proposed re-evaluation? No — the trivia upgrade is real and the parking-lot entry now reflects the upgraded status. But the line on threshold rigor holds.",
+  "citations": [
+    "[Team Rocket node precedent: cards/_characters/team-rocket.md, 1 enriched + 1 vision-stub with distinct beat]",
+    "[Bulbapedia: Sordward; Bulbapedia: Sordward & Shielbert (Battle Styles 135), via WebSearch — IP citations now locked]",
+    "[Wave 15 refusal: reports/edges_pending/sordward-and-shielbert.refusal.json]"
+  ],
+  "files_modified": [
+    "reports/janitor_triage.md"
+  ],
+  "other_candidates_considered": [
+    "Option A — build the node anyway given the IP-verification upgrade. Rejected: structural threshold (corpus distinctness) is the gating constraint, not IP-verification alone.",
+    "Option C — fresh-look candidates: (i) Acerola named-trainer node — has 2 corpus prints (BS-112 enriched + ME-113 prep-stage), threshold-shape matches Team Rocket precedent; held for the Mega Evolution vision pass to enrich card 113. Added to triage as Mr. Nodeley candidate. (ii) Dedenne ↔ Pikachu electric-rodent parallel — same-archetype-different-species is a tag bridge not an edge, rejected. (iii) 5ban Graphics / Toyste Beach artist nodes — 27 corpus credits between them but the artist-node precedent (Jenn Ravenna Tran, Kirisaki, Sanosuke Sakuma) is built around individual canonical artists with thesis-grade portfolio coherence; 5ban Graphics is a studio (not an individual) and Toyste Beach's credits are scattered across set without thematic spine yet; both held. (iv) Castform Forms cycle at 2/4 cohort threshold — same gating reason as Sordward, hold for ≥3 corpus members. (v) Various related_characters: schema mirror backlog — not surveyed this pass.",
+    "Strongest deferred candidate is Acerola — has been added to triage future-node section with threshold-met annotation."
+  ],
+  "edgelord_mood": "refused-with-threshold-update"
+}

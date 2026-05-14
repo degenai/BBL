@@ -1,0 +1,41 @@
+{
+  "card_name": "Impidimp",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "123/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Impidimp via PokemonTCG.io API card swsh2-123; National Pokedex no. 859, Dark/Fairy-type imp Pokemon, introduced in Generation VIII (Pokemon Sword & Shield).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Impidimp (National Pokedex no. 859) and its evolution line (Morgrem, Grimmsnarl) are the only Pokemon with the Dark/Fairy type combination — no other Pokemon in the franchise shares it.",
+      "sources": ["WebSearch: Bulbapedia Impidimp", "WebSearch: CyberPost 'Is there a Dark Fairy type Pokemon?'"]
+    },
+    {
+      "category": "design",
+      "text": "Impidimp's design draws from European folklore mischievous fairy-like creatures: imps, goblins, gremlins, and boggarts. One specific possible reference is the Lincoln Imp, a grotesque stone-carved figure in Lincoln Cathedral, England — fitting for the UK-modeled Galar region. Impidimp and Morgrem are the only pink Dark-type Pokemon.",
+      "sources": ["WebSearch: Bulbapedia Impidimp snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Through its nose, it sucks in the emanations produced by people and Pokémon when they feel annoyed. It thrives off this negative energy.\" The negative-energy-feeding mechanic is the design spine of the entire line.",
+      "sources": ["PokemonTCG.io API: swsh2-123 flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Grimmsnarl (final evolution) became a competitive staple in Sword & Shield doubles formats due to unique access to both Prankster and powerful support moves (Reflect, Light Screen, Thunder Wave) — uncommon on a Dark-type.",
+      "sources": ["WebSearch: Bulbapedia Impidimp/Grimmsnarl snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Morgrem", "set": "Rebel Clash", "note": "Stage-1 evolution; design-tone inversion pair"},
+    {"name": "Grimmsnarl", "set": "Rebel Clash and later sets", "note": "Final evolution; competitive-relevant terminal form"},
+    {"name": "Hatenna", "set": "Rebel Clash", "note": "Co-introduced Fairy-side SwSh species; shares set and design-wave context"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

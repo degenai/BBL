@@ -1,0 +1,40 @@
+{
+  "card_name": "Cherubi",
+  "game": "Pokemon",
+  "set": "Brilliant Stars",
+  "collector_number": "012/172",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed. Cherubi is a Wizards/Game Freak-internal Pokemon species (National Pokedex no. 420, Generation IV, Sinnoh). Small round red cherry body with secondary green sphere and leaf top matches card art exactly. No external IP concern.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cherubi is National Pokedex no. 420, the Cherry Pokemon, introduced in Generation IV (Sinnoh). It is a pure Grass-type that evolves into Cherrim at level 25. [Pokemondb.net: Cherubi, via WebSearch; Bulbapedia: Cherubi, via WebSearch]",
+      "sources": ["Pokemondb.net: Cherubi", "Bulbapedia: Cherubi"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (this print): \"The deeper a Cherubi's red, the more nutrients it has stockpiled in its body. And the sweeter and tastier its small ball!\" [PokemonTCG.io frontmatter capture]",
+      "sources": ["Frontmatter flavor_text field (PokemonTCG.io source)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Cherubi's secondary sphere — the small pale green ball attached to its body — contains concentrated nutrients the main body absorbs before evolution. Other Pokemon are drawn to eat it, making Cherubi prey in the wild. In Sinnoh, Cherubi can be found by Honey Trees, the region's distinctive encounter mechanic. [Bulbapedia: Cherubi, via WebSearch snippet; Pokemondex.com, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Cherubi", "Pokemondex.com"]
+    },
+    {
+      "category": "mechanical",
+      "text": "This Brilliant Stars print features the Lively Fruit ability, preventing all attack effects (but not damage) — a defensive keyword that makes Cherubi useful as a bench-sitter immune to spread-effect attacks in certain metas. Illustrated by Naoyo Kimura. [Frontmatter oracle_text; PokemonTCG.io]",
+      "sources": ["Frontmatter oracle_text (PokemonTCG.io source)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Cherrim", "set": "Multiple", "note": "Cherubi's evolution — Grass-type; Sunshine Form/Overcast Form mechanic"},
+    {"name": "Cherubi", "set": "Multiple prints", "note": "Multiple earlier prints exist across DP-era sets"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

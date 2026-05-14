@@ -1,0 +1,32 @@
+{
+  "edge_id": "wave36-e4-oko-node",
+  "shape": "node-proposal",
+  "category": "named-character-planeswalker",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/oko.md", "name": "Oko"},
+    {"type": "card", "path": "cards/magic-the-gathering/the-list/309-269-oko-the-trickster.md", "name": "Oko, the Trickster"},
+    {"type": "card", "path": "cards/magic-the-gathering/throne-of-eldraine/310-oko-s-accomplices.md", "name": "Oko's Accomplices"},
+    {"type": "card", "path": "cards/magic-the-gathering/throne-of-eldraine/312-oko-s-hospitality.md", "name": "Oko's Hospitality"}
+  ],
+  "description": "Apologies for the correction, sirs. The pass brief said 'Oko has 1 enriched anchor' but the corpus actually has three: Oko the Trickster (PLST-309), Oko's Accomplices (ELD-310), Oko's Hospitality (ELD-312). All three are part of the Throne of Eldraine planeswalker-deck cycle (deck-exclusives 309-313). Hospitality's flavor is signed '—Oko' AND its art depicts Oko in canonical stag-shapeshift form from the Wildered Quest novella; Accomplices is a name-attribution card depicting Oko's fae court (anchors via the canonical-name attribution test, parallel to the Ral's-<Spell> cycle). That's well over the ≥2 team-rocket/acerola/ral-zarek threshold. Tamiyo node already exists from a prior pass — confirmed both Tamiyo corpus cards (PLST-220, MH3-72) already carry characters: ['tamiyo'] frontmatter, so no Tamiyo work needed in this pass. The fun-fact worth saving for any future Oko-themed lair: the Oko, the Trickster / Oko, Thief of Crowns distinction is the single most common buyer-confusion vector for this character — the precon Trickster (PLST-309 in our corpus) is harmless, the main-set Thief of Crowns (ELD-197, not in our corpus) is the format-warping banned mythic. Any bundle copy that surfaces the meme-Oko has to identify WHICH Oko explicitly. Documented in the node's caveats; flagged here so the bundler agent knows to fend off the conflation in storefront prose.",
+  "citations": [
+    "[MTG Wiki: Oko]",
+    "[MTG Wiki: Throne of Eldraine: The Wildered Quest]",
+    "[Wizards of the Coast: November 18, 2019 Banned and Restricted Announcement]",
+    "[Scryfall: PLST-309 + ELD-310 + ELD-312 — three corpus prints]",
+    "[Know Your Meme: Oko, Thief of Crowns]"
+  ],
+  "files_modified": [
+    "cards/_characters/oko.md (created)",
+    "cards/magic-the-gathering/the-list/309-269-oko-the-trickster.md (characters frontmatter)",
+    "cards/magic-the-gathering/throne-of-eldraine/310-oko-s-accomplices.md (characters frontmatter)",
+    "cards/magic-the-gathering/throne-of-eldraine/312-oko-s-hospitality.md (characters frontmatter)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "Tamiyo node — not created; already exists from prior pass. Both corpus cards already wired via characters: ['tamiyo']. No Tamiyo action needed this pass.",
+    "Kellan character node (Oko's half-fae son) — deferred. Multiple printings exist (Kellan, the Fae-Blooded WOE; Kellan, the Kid MOM; Kellan, Daring Traveler OTJ) but none currently in the BBL corpus. Future-node trigger: when any Kellan printing enters the corpus.",
+    "Garruk character node (Wildered Quest antagonist-foil to Oko) — deferred. No Garruk printings in the current corpus."
+  ]
+}

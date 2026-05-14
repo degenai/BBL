@@ -1,0 +1,35 @@
+{
+  "card_name": "Staraptor",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "147/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches. PokemonTCG.io confirms swsh3-147 is Staraptor with National Pokedex no. 398. Art description — large bird with dark plumage, white facial marking, swept-back crest, red spot near eye — matches Staraptor's canonical design. Verification unambiguous.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Staraptor is National Pokedex no. 398, a Normal/Flying-type introduced in Generation IV (Diamond & Pearl, 2006). It is the final evolution of the Starly line: Starly → Staravia (level 14) → Staraptor (level 34). [PokemonTCG.io API: swsh3-147; WebSearch: Bulbapedia/Staraptor]",
+      "sources": ["PokemonTCG.io API", "Bulbapedia via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text on this card: 'When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.' The lore of solitary post-evolution departure is consistent across the Pokedex entries for Staraptor. [PokemonTCG.io API: swsh3-147]",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Staraptor has two abilities in the video games: Intimidate (lowers opposing Attack on entry) and the hidden ability Reckless (boosts recoil moves by 20%). Competitively, Smogon-tier analysis rates Reckless as the preferred ability in OU play, powering Brave Bird and Double-Edge at the cost of rapid self-damage — consistent with this card's Brave Bird attack (170 damage, 30 recoil to itself). Stealth Rock weakness and recoil accumulation are cited as Staraptor's primary longevity checks. [WebSearch: Smogon/Staraptor OU; PokemonDB]",
+      "sources": ["Smogon via WebSearch", "PokemonDB via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Starly", "set": "multiple", "note": "Base of the Starly evolution line"},
+    {"name": "Staravia", "set": "multiple", "note": "Middle evolution — the intermediate form that leaves the flock at Staraptor stage"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

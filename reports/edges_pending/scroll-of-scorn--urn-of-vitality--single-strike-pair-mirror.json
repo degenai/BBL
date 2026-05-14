@@ -1,0 +1,24 @@
+{
+  "edge_id": "scroll-of-scorn-bst-133--urn-of-vitality-bst-139--single-strike-coordinated-pair",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/battle-styles/133-163-single-strike-scroll-of-scorn.md", "name": "Single Strike Scroll of Scorn (Battle Styles 133/163)"},
+    {"type": "card", "path": "cards/pokemon/battle-styles/139-163-urn-of-vitality.md", "name": "Urn of Vitality (Battle Styles 139/163)"}
+  ],
+  "description": "Mirror, sighed but earned. The edge is unusually well-supported on both ends already — Urn's trivia explicitly names the 'co-designed three-piece support suite' and Scroll's trivia names Urn as the recovery complement. Both cards are stamped with the Single Strike emblem on the depicted object itself; iconographically they're twinned still-life ceremonial artifacts (scroll, urn) glowing with internal energy against moody warm-and-dark backgrounds, no figure on either. Mechanical roles are complementary (offensive tool vs energy-recovery engine). Topology tag mirror; flagged as the FIRST member of a potential future stack converging on a Single Strike cycle node (Scroll of Piercing already in corpus = 3rd anchor — Mr. Nodeley threshold met). Deferred per slot-anti-duplicate rule and added to reports/janitor_triage.md future-node candidates list.",
+  "citations": [
+    "[Pokemon.com: Battle Styles Single Strike and Rapid Strike announcement, via WebSearch]",
+    "[Bulbapedia: Battle Styles TCG, via WebSearch]"
+  ],
+  "files_modified": [
+    "cards/pokemon/battle-styles/133-163-single-strike-scroll-of-scorn.md",
+    "cards/pokemon/battle-styles/139-163-urn-of-vitality.md",
+    "reports/janitor_triage.md"
+  ],
+  "other_candidates_considered": [
+    "Single Strike mechanic cycle node — Mr. Nodeley threshold met (3 corpus members: Scroll of Scorn, Urn of Vitality, Scroll of Piercing CRE-154) but deferred to janitor_triage future-node list per quad-pass anti-duplicate / weight-management. A future Mr. Nodeley dispatch can build it cleanly."
+  ],
+  "edgelord_mood": "sighed-but-mirrored"
+}

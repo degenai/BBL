@@ -1,0 +1,31 @@
+{
+  "edge_id": "alola-elite-four--node-proposal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/alola-elite-four.md", "name": "Alola Elite Four (new node)"},
+    {"type": "card", "path": "cards/pokemon/burning-shadows/112-147-acerola.md", "name": "Acerola (Burning Shadows 112/147)"},
+    {"type": "card", "path": "cards/pokemon/burning-shadows/119-147-olivia.md", "name": "Olivia (Burning Shadows 119/147)"}
+  ],
+  "description": "Oh, hello sir. Mr. Nodeley, very sorry to interrupt. Edgelord did want to draw a clean 1:1 between Acerola and Olivia — they're both IP-verified, both Ken Sugimori, both same set, both cross-reference each other in their existing Related cards lists — but he reasoned that a 1:1 between two E4 members would be made redundant by a future alola-elite-four node, and the galar-gym-challenge precedent permits building the institutional anchor at 2/4 (galar-gym-challenge was started at 3/8). So Mr. Nodeley humbly stepped in. The node anchors a founding-Elite-Four institutional thesis distinct from the Galar Gym Challenge's televised-spectacle thesis — together they form the strongest Pokemon-side institutional contrast in current corpus: regional-craft folkway vs corporate-televised-spectacle, same source-IP franchise, two adjacent generations. Hope you don't mind, sir. Plumeria (BUS-120) considered and explicitly excluded from the node (Team Skull villain, adjacent but not E4 — separate team-skull node when threshold lands). Hala and Kahili documented as remaining cohort members in the not-in-corpus caveat.",
+  "citations": [
+    "[Bulbapedia: Pokemon League (Alola)]",
+    "[Bulbapedia: Acerola, Olivia, Hala, Kahili, Molayne]",
+    "[Pokemon.com: official Alola Elite Four character pages]",
+    "[Pokemon Sun and Moon (Game Freak, 2016) primary canon]",
+    "[Pokemon Ultra Sun and Ultra Moon (Game Freak, 2017) primary canon for Molayne roster substitution]",
+    "[In-corpus acerola.md (BUS-112) and olivia.md (BUS-119) trivia passes canonicalizing E4 cohort frame]"
+  ],
+  "files_modified": [
+    "cards/_characters/alola-elite-four.md",
+    "cards/pokemon/burning-shadows/112-147-acerola.md",
+    "cards/pokemon/burning-shadows/119-147-olivia.md"
+  ],
+  "edgelord_mood": "nodeley-apologetic-but-correct",
+  "other_candidates_considered": [
+    "alola-trial-captains (Acerola occupies both layers; threshold not yet met — only Acerola in corpus as captain)",
+    "alola-island-kahunas (Olivia + Hala when Hala lands; threshold pending)",
+    "team-skull (Plumeria BUS-120 is the only candidate; ≥3 threshold not met)"
+  ]
+}

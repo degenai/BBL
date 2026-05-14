@@ -1,0 +1,41 @@
+{
+  "card_name": "Spiritomb",
+  "game": "Pokemon",
+  "set": "Brilliant Stars",
+  "collector_number": "089/172",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches species name exactly. Depicted figure — swirling dark-energy vortex with green glow and ghostly face patterns, anchored to a cracked stone keystone — matches the canonical visual design of Spiritomb (National Pokedex no. 442). API confirms nationalPokedexNumbers: [442]. No ambiguity; Spiritomb verified.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Spiritomb (National Pokedex no. 442) is designed around a Buddhist and Chinese literary tradition. The number 108 references the 108 temptations one must overcome to achieve Nirvana in Buddhist tradition — Japanese Buddhist temples ring their bells 108 times on New Year's Eve for this reason. Spiritomb may also reference Water Margin, one of China's Four Great Classical Novels, in which a stone monument containing 108 sealed demons is disturbed by a foolish marshal, releasing them. The Odd Keystone design (a trapezoidal stone with two dots and a fissure resembling a frown) is the physical prison anchoring the spirits. [Bulbapedia: Spiritomb, via WebSearch]",
+      "sources": ["Bulbapedia: Spiritomb, via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Exactly 108 spirits gathered to become this Pokemon. Apparently there are some ill-natured spirits in the mix.\" `[PokemonTCG.io API: swsh9-89 flavorText]`",
+      "sources": ["PokemonTCG.io API: swsh9-89 flavorText"]
+    },
+    {
+      "category": "design",
+      "text": "Spiritomb may additionally be based on a Jibakurei (a spirit bound to a single place in Japanese folklore) or a Deildegast (a Norwegian folkloric spirit forced to haul a boundary stone as punishment for moving one while alive). The Odd Keystone-as-prison motif works across all three reference points: punishment, binding, and displacement from the natural world. [Bulbapedia: Spiritomb, via WebSearch]",
+      "sources": ["Bulbapedia: Spiritomb, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The BRS Spiritomb (no. 089/172) is a common Darkness-type with two effects: Ticking Terror (shift the defending Pokemon's Weakness to Darkness until end of next turn) and Cursed Drop (place 2 damage counters on opponent's Pokemon in any distribution). The Weakness-reassignment effect is rare in the TCG and pairs well with Darkness-type attackers. Introduced in Generation IV (Diamond and Pearl, 2006), Spiritomb originally had no type weaknesses — the only Pokemon alongside Sableye with this distinction, until the Fairy type introduction in Generation VI gave both a weakness. [PokemonTCG.io API: swsh9-89]",
+      "sources": ["PokemonTCG.io API: swsh9-89"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Spiritomb", "set": "Arceus (Pt) / Various", "note": "Earlier prints; notably the original Diamond and Pearl prints where Spiritomb had no game-level weakness"},
+    {"name": "Sableye", "set": "Various", "note": "The only other Pokemon originally sharing no type weakness in Generation IV, alongside Spiritomb"},
+    {"name": "Odd Keystone", "set": "N/A (game item)", "note": "In-game item that Spiritomb is bound to; not a TCG card but a key design element"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

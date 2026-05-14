@@ -1,0 +1,42 @@
+{
+  "card_name": "Galarian Mr. Rime",
+  "game": "Pokemon",
+  "set": "Darkness Ablaze",
+  "collector_number": "036/189",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Species name printed on card face; PokemonTCG.io API (swsh3-36) confirms name=Galarian Mr. Rime, nationalPokedexNumbers=[866], Stage 1, evolvesFrom=Galarian Mr. Mime. The depicted large rotund humanoid in a dark coat with top-hat-like head holding an ice cane in a theatrical pose matches canonical Mr. Rime appearance (Charlie Chaplin Tramp design: bowler hat, black coat, ice cane) exactly.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Mr. Rime (National Pokedex no. 866) is a Galar-exclusive Ice/Psychic-type introduced in Sword and Shield — the only evolved form of Galarian Mr. Mime with no Kantonian counterpart. Its design is widely cited as based on Charlie Chaplin's Tramp character: bowler hat-like upper body, dark coat, baggy trousers silhouette, ice cane, and mustache-like facial marking. Galar's UK setting (modeled on Great Britain) contextualizes the Charlie Chaplin reference — Chaplin was British-born. [Bulbapedia: Mr. Rime, via WebSearch snippet; Pokejungle.net: Origin of Species]",
+      "sources": ["Bulbapedia: Mr. Rime (via WebSearch snippet)", "Pokejungle.net: Origin of Species article (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"It's highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements.\" — printed on DAA-036. [PokemonTCG.io API: swsh3-36]",
+      "sources": ["PokemonTCG.io API: swsh3-36"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Shuffle Dance ability — which swaps one of the opponent's face-down Prize cards with the top card of their deck — is a prize manipulation mechanic unusual in the TCG; Mr. Rime is the only Darkness Ablaze card with this specific ability. The Mad Party attack (20x damage for each Pokemon in the discard pile with Mad Party) synergizes with other Mad Party-attackers across sets. [PokemonTCG.io API: swsh3-36 abilities + attacks]",
+      "sources": ["PokemonTCG.io API: swsh3-36"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Naoki Saito, one of the most prolific artists in the modern Pokemon TCG era, known for dynamic full-figure compositions. The card's dark-navy coat against icy white background is the visual inverse of Galarian Mr. Mime (DAA-035 by Misa Tsutsui) — ice-blue against white — encoding the evolution-line's shift from defensive barrier-dance to theatrical full-performer. [PokemonTCG.io API: swsh3-36 artist field]",
+      "sources": ["PokemonTCG.io API: swsh3-36"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Galarian Mr. Mime (Darkness Ablaze 035)", "set": "Darkness Ablaze", "note": "Direct pre-evolution; adjacent collector number DAA-035; tap-dancer design origin pair"},
+    {"name": "Mr. Mime (Kantonian)", "set": "various", "note": "Original Kanto Psychic/Fairy species; pantomime vs Chaplin Tramp contrast"},
+    {"name": "Bunnelby", "set": "various", "note": "Another Mad Party attack user; synergy partner in Mad Party decks"},
+    {"name": "Dedenne GX", "set": "Unbroken Bonds", "note": "Common combo partner in Mad Party tournament builds for draw power"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "edge_id": "wave35-e1-ajani-triage-defer",
+  "shape": "triage-entry",
+  "category": "future-character-node-deferred",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/19-ajani-fells-the-godsire.md", "name": "Ajani Fells the Godsire"}
+  ],
+  "description": "Single depicted Ajani anchor in corpus (Ajani Fells the Godsire, MH3 #19 — saga-mode monument rendering, figure not in art). Two M21 cards (Heroic Intervention, Radiant Fountain) carry Ajani Goldmane as flavor-text speaker, but the Slobad / Sheoldred precedent on _characters/phyrexia.md classifies flavor speakers as context only, not anchor-eligible. Worst node-proposal threshold violation. Refused. The team-rocket precedent is 1 enriched depiction + 1 prep-stub of a distinct beat. We have one. Deferred to triage.",
+  "citations": [
+    "[cards/_characters/phyrexia.md — Slobad / Sheoldred flavor-speaker caveat precedent]",
+    "[cards/_characters/team-rocket.md — 1-depiction-plus-1-stub threshold precedent]",
+    "[MTG Wiki: Ajani Goldmane — canonical character with multi-set arc culminating in Phyrexia: All Will Be One compleation]"
+  ],
+  "files_modified": [
+    "reports/janitor_triage.md",
+    "reports/edges_pending/wave35-e1-ajani-triage-defer.json"
+  ],
+  "topology": "n/a",
+  "other_candidates_considered": [],
+  "edgelord_mood": "satisfied"
+}

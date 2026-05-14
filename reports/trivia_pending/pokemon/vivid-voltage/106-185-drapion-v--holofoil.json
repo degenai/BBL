@@ -1,0 +1,35 @@
+{
+  "card_name": "Drapion V",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "106/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Drapion V'; PokemonTCG.io confirms nationalPokedexNumbers: [452]; art depicts a large purple scorpion-type creature with prominent claws, matching Drapion's canonical design exactly. Internal Pokemon IP, no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Drapion is National Pokedex no. 452, a dual Poison/Dark type introduced in Generation IV (Diamond, Pearl, Platinum, 2006). It evolves from Skorupi at level 40. Notably, Skorupi is Poison/Bug type, but Drapion loses the Bug typing upon evolution — a rare type-loss on evolution. [Bulbapedia: Drapion, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Drapion, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Hazardous Claws (4 energy, 130 damage) inflicts both Paralyzed and Poisoned on the opponent's Active Pokemon while discarding 2 Energy from Drapion V — a high-cost double-status attack that mirrors Drapion's in-game Battle Armor / Sniper abilities focused on sustained threat. The V-rule means an opponent takes 2 Prize cards when Drapion V is knocked out, raising the stakes of its aggressive role. [PokemonTCG.io: swsh4-106 oracle text]",
+      "sources": ["PokemonTCG.io: swsh4-106"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Eske Yoshinob, a frequent contributor to Sword & Shield era V-rank cards. Drapion V has no VMAX or VSTAR counterpart in the VIV set — it is a standalone V, making it a single-step threat without an evolution line within the V rank framework. [PokemonTCG.io: swsh4-106 metadata]",
+      "sources": ["PokemonTCG.io: swsh4-106"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Skorupi", "set": "Multiple", "note": "Pre-evolution — Poison/Bug, loses Bug typing on evolution to Drapion"},
+    {"name": "Drapion", "set": "Lost Thunder", "note": "Non-V baseline print of same species for comparison"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Scyther",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "004/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Scyther via card name, PokemonTCG.io API (swsh2-4, National Pokedex no. 123, Bug/Flying), artist KEIICHIRO ITO, and canonical green mantis with scythe-arms design.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "First Scyther print in corpus. National Pokedex no. 123, Bug/Flying, introduced Generation I. Kanto species.",
+      "sources": ["PokemonTCG.io API: swsh2-4"]
+    },
+    {
+      "category": "design",
+      "text": "Scyther has two branching evolution paths: trade holding Metal Coat yields Scizor (Generation II, Steel/Bug); use Black Augurite yields Kleavor (introduced Pokemon Legends: Arceus 2022, Rock/Bug). One of a small set of species with two mutually exclusive evolution outcomes.",
+      "sources": ["Dexerto / CharlieintelWebSearch snippets: Scyther evolution guide"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Its two sharp scythes are more than just weapons. It uses them with dexterity to dress its prey before eating.' The Swords Dance attack mirrors the franchise move (raises Attack two stages), grounding the mechanical kit in the warrior archetype.",
+      "sources": ["PokemonTCG.io API: swsh2-4"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Swords Dance buffs follow-up Blinding Scythe to 90 damage (20 + 70 bonus). Functional only as a setup card in a dedicated Scyther deck; generally below competitive threshold for the era.",
+      "sources": ["PokemonTCG.io API: swsh2-4"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Scizor", "set": "various", "note": "Metal Coat trade evolution, Steel/Bug, not in corpus"},
+    {"name": "Kleavor", "set": "various", "note": "Hisuian Black Augurite evolution, Rock/Bug, not in corpus"},
+    {"name": "Scyther", "set": "Base Set 1999", "note": "original Gen I print, historically competitive as a stage-0 rare"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

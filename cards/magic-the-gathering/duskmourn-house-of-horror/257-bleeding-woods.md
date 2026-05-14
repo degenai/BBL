@@ -10,12 +10,13 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
+characters: ["dsk-unlucky-lands-cycle"]
 tags_hub: ["haunted-forest", "forest", "blood", "gothic", "graveyard", "stained-glass", "trees", "horror", "ritual", "duskmourn", "bleeding", "twilight-realm"]
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "land", "red-magic", "green-magic", "multicolor-red-green", "dual-land"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/257-bleeding-woods.png
 average_cost_paid: 0
-market_price: 0.11
-market_price_as_of: 2026-05-12
+market_price: 0.13
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/c/b/cb224874-aff5-461f-82ee-89b06663231a.png?1726286833
@@ -50,4 +51,8 @@ A dense, shadowed forest interior rendered in saturated reds, oranges, and deep 
 **Objects:** arched-window, grave-marker, tombstone, stained-glass, thorns
 **Iconography:** arched-window, grave-marker, bleeding-tree
 **Genre cues:** gothic-horror, fantasy, dark-fantasy
+
+## Connections
+
+- [[266-raucous-carnival]] — Visual-iconography pair-bond within the [[dsk-unlucky-lands-cycle]]. Both cards independently use the same haunted-architecture-bleed device: ornate arched cathedral windows embedded into unexpected substrates (gnarled tree trunks here; a colossal hall enclosing the amusement park on Carnival) plus small upright headstone / grave-marker shapes scattered through the foreground field. The motif is co-present and load-bearing in both Vision sections and is NOT shared by the cycle's third corpus member Etched Cornfield (aerial crop-circle / cyan-rift register). Designer-coordinated haunted-vernacular-place iconography one register tighter than cycle membership alone. `[Vision: 257-bleeding-woods.md — embedded arched window frames + grave-marker stone surrounds + tombstone fragments scattered through underbrush]` `[Vision: 266-raucous-carnival.md — three tall arched cathedral windows + headstone-like markers dotting foreground]` `[Cycle anchor: cards/_characters/dsk-unlucky-lands-cycle.md]`
 

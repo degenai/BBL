@@ -1,0 +1,36 @@
+{
+  "card_name": "League Staff",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "153/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "suspected_ip: 'Galar League Staff (Pokemon Trainer class)' — this is a Trainer class, not a named individual character. Bulbapedia confirms 'League Staff' is a named Trainer class in Pokemon Sword & Shield, the members of which staff the Galar Pokemon League at venues including Wyndon Stadium. The two figures on the card are generic representatives of this class in their canonical black-and-red livery. Verification outcome: the card depicts members of the League Staff Trainer class as defined by Game Freak/The Pokemon Company. Internal Pokemon IP, no external crossover risk. ip_confidence set to high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "League Staff is a named Trainer class in Pokemon Sword & Shield, the rank-and-file institutional workers of the Galar Pokemon League. Per Bulbapedia, League Staff members appear at Wyndon Stadium and other league venues; a male and female League Staff pair is also shown apprehending Bede in Stow-on-Side. [Bulbapedia: League Staff (Trainer class), via WebSearch snippet]",
+      "sources": ["Bulbapedia: League Staff (Trainer class), via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text: 'Draw 2 cards. If Wyndon Stadium is in play, draw 2 more cards.' The conditional draw-4 requires the co-printed Stadium card (VIV-161) to be in play, creating a two-card synergy combo within Vivid Voltage. This is the only Supporter in the set whose full effect is gated behind a specific Stadium. [PokemonTCG.io: swsh4-153 oracle text]",
+      "sources": ["PokemonTCG.io: swsh4-153"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Emi Ando, who has worked across multiple Sword & Shield era Trainer Supporter cards. The card sits at no. 153/185 in VIV, eight positions below Wyndon Stadium at no. 161/185 — the within-set proximity is consistent with intentional thematic grouping of league-related cards in the set's Trainer block. [PokemonTCG.io: swsh4-153 metadata]",
+      "sources": ["PokemonTCG.io: swsh4-153"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Wyndon Stadium", "set": "Vivid Voltage", "note": "Mechanically paired venue — triggers League Staff's bonus draw"},
+    {"name": "Rose", "set": "Darkness Ablaze", "note": "Macro Cosmos chairman Supporter — top of the institutional hierarchy above League Staff"},
+    {"name": "Oleana", "set": "Sword & Shield", "note": "Macro Cosmos COO — intermediate tier between Rose and salaried staff"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

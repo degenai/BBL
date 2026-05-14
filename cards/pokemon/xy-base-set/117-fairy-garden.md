@@ -15,7 +15,7 @@ tags_filter: []
 reference_image: cards/_images/pokemon/xy-base-set/117-fairy-garden.png
 average_cost_paid: 0
 market_price: 0.31
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 reference_image_source_url: https://images.pokemontcg.io/xy10/100_hires.png

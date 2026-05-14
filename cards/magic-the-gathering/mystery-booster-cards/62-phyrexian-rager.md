@@ -10,12 +10,13 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["phyrexia"]
 tags_hub: ["phyrexian", "horror", "skeleton", "body-horror", "monster", "undead", "claws", "blades", "void", "ribcage", "biomechanical", "predator"]
 tags_filter: ["solo", "forward-facing", "mid-shot", "portrait-mode", "no-face", "creature-horror", "black-magic", "card-draw", "life-loss"]
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/62-phyrexian-rager.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

@@ -16,7 +16,7 @@ tags_filter: ["red-magic", "instant", "sorcery-speed-effect", "damage-spell", "c
 reference_image: cards/_images/magic-the-gathering/aetherdrift/126-fuel-the-flames.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/6/2/624335fb-8a0b-4fa9-aefb-60ac641a7934.png?1738356412
@@ -67,4 +67,8 @@ From the left side of the frame, a large grey-skinned brute with bared teeth and
 - Ride's End (Aetherdrift) — Another "Depicted in" Endrider card per MTG Wiki — parallel example of the Endriders' burn-down-the-competition art language
 - Ripclaw Wrangler (Aetherdrift) — Endrider "Depicted in" card; flavor text quotes the Endriders chanting "The claw!" as they raid another racer
 - Flood the Engine (Aetherdrift) — Blue counterpart in the Endriders "Depicted in" cycle — parallel removal-spell flavor showing Endriders raiding rival teams
+
+## Connections
+
+- [[endriders]] — Endriders roster card. The flavor speaker is Rido — a named Endrider on Far Fortune's roster (alongside Mincemeat, Crash, and Wrench); MTG Wiki's Endriders "Depicted in" roster lists this card explicitly. The line *"Our world died, but we survived. Funny how it's the opposite for you."* is the faction's mission statement compressed into a sneer. `[MTG Wiki: Endriders — Depicted in / Members]`
 

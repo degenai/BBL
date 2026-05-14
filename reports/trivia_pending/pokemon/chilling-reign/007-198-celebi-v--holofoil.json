@@ -1,0 +1,41 @@
+{
+  "card_name": "Celebi V",
+  "game": "Pokemon",
+  "set": "Chilling Reign",
+  "collector_number": "007/198",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Celebi V,' National Pokedex no. 251, small green fairy-like creature with large blue eyes and translucent wings — matches Celebi canonical design exactly. PokemonTCG.io confirms card name directly.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Chilling Reign (SWSH6) released June 18, 2021. Celebi is a Johto Mythical Pokemon (National Pokedex no. 251), classified as the Time Travel Pokemon, dual Psychic/Grass type. It was first available through a Japan-exclusive event for Pokemon Crystal in 2001 via the Mobile Communication Device. [PokemonTCG.io: swsh6-7; WebSearch: Bulbapedia snippet]",
+      "sources": ["PokemonTCG.io", "WebSearch: Bulbapedia snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Celebi is the guardian of the Ilex Forest in Johto. In Pokemon HeartGold/SoulSilver, bringing a fateful-encounter Celebi as a walking partner to the Ilex Forest shrine triggers a time-travel sequence in which it takes the player back to witness Giovanni abandon his son Silver after being defeated in Kanto. [WebSearch: Bulbapedia snippet]",
+      "sources": ["WebSearch: Bulbapedia snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The original Crystal event encounter (at the Ilex Forest shrine via the GS Ball) was unavailable internationally for over a decade due to the Mobile Communication Device being scrapped outside Japan. It became legitimately available without events in the Virtual Console release of Pokemon Crystal on Nintendo 3DS. [WebSearch: projectpokemon.org / Bulbapedia snippet]",
+      "sources": ["WebSearch: Bulbapedia snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Celebi V's Leaflet Dance attack (attach any number of Grass Energy from hand to any Pokemon) gave it a role as an Energy accelerator in Grass-type decks during the Sword & Shield era. The V rule means 2 Prize cards on knockout — standard for the Pokemon V mechanic introduced in Sword & Shield. [PokemonTCG.io: swsh6-7]",
+      "sources": ["PokemonTCG.io"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Celebi", "set": "multiple prints", "note": "Earlier non-V prints of the same mythical"},
+    {"name": "Celebi VMAX", "set": "if printed", "note": "Potential VMAX counterpart — check inventory"},
+    {"name": "Ilex Forest Shrine", "set": "narrative node", "note": "In-game location tied to Celebi's Crystal event"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

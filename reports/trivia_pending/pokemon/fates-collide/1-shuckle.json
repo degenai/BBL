@@ -1,0 +1,46 @@
+{
+  "card_name": "Shuckle",
+  "game": "Pokemon",
+  "set": "Fates Collide",
+  "collector_number": "1",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Visual match confirmed: small yellow worm-like creature peeking from red spotted shell matches National Pokedex no. 213 exactly. PokemonTCG.io API xy10-1 confirms name, types, and artist.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Fates Collide (XY10, May 2, 2016) is the English localization of Japan's Awakening of Psychic Kings, the third XY BREAK-era expansion. Set marquee cards are Zygarde-EX, Alakazam-EX, and M Alakazam-EX. Shuckle is a humble Bug/Rock Uncommon on the 124-card roster.",
+      "sources": ["PokemonTCG.io API: xy10-1", "WebSearch: Pokebeach Fates Collide set overview"]
+    },
+    {
+      "category": "design",
+      "text": "Shuckle (National Pokedex no. 213) holds the record for the highest base Defense and Special Defense of any Pokemon (230 each). Under theoretically optimal conditions (Ice Ball + Defense Curl + stat multipliers), Shuckle can achieve over 481 million damage in a single hit — a community-famous min-max paradox for a creature that otherwise refuses to fight.",
+      "sources": ["WebSearch: pokemondb.net/pokebase/225586", "WebSearch: screenrant.com Shuckle highest damage"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Berry Juice fermentation lore: Shuckle stores Berries in its vase-like shell where they ferment into Berry Juice. In Gold/Silver, a held Berry has a 1-in-16 chance of becoming Berry Juice after each battle. In anime episode GS054 ('A Better Pill to Swallow'), an old man's Shuckle brews Berry Juice elixirs with varying effects including curing indigestion and attracting wild Pokemon.",
+      "sources": ["WebSearch: Bulbapedia Berry Juice", "WebSearch: pokemon.fandom.com GS054"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It stores Berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.\"",
+      "sources": ["PokemonTCG.io API: xy10-1"]
+    },
+    {
+      "category": "design",
+      "text": "Art credited to sui, a recurring Pokemon TCG illustrator known for ground-level close-up compositions.",
+      "sources": ["PokemonTCG.io API: xy10-1"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Shuckle (no. 2)", "set": "Fates Collide", "note": "Second Shuckle print in the same set (rare holo), same Pokedex entry, different art"},
+    {"name": "Beedrill", "set": "Fates Collide", "note": "Another Bug-type in the set; thematic pairing"},
+    {"name": "Grumpig", "set": "any", "note": "Evolution of Spoink, another FCO Psychic; same set thematic cluster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

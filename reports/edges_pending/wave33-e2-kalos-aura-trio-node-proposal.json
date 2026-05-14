@@ -1,0 +1,101 @@
+{
+  "edge_id": "kalos-aura-trio--character-node-proposal",
+  "shape": "node-proposal",
+  "topology": "branch",
+  "topology_note": "Mr. Nodeley node creation. The new character node is the branching anchor; the two in-corpus prints (Yveltal sm9-95, Zygarde swsh4-93) attach as the first two endpoints. Branch-shape is the natural Mr. Nodeley output — one new node fans to its initial members. When Xerneas lands, the branch becomes a triangle (3 nodes mutually anchored to one cohort).",
+  "category": "designer-confirmed-cycle",
+  "category_note": "Designer-coordinated Legendary version-mascot trio with explicit Life/Death/Order cosmological-triad thesis and X/Y/Z version-name encoding. Bulbapedia's Aura Trio page is the canonical anchor. The cohort is one of the franchise's clearest cases of designer-coordinated three-species cohort design — naming-as-letter-iconography (X/Y/Z), silhouette-as-letter-iconography (Xerneas's antler-X, Yveltal's wings-Y, Zygarde's body-Z), and cosmological-triad-as-game-thesis (Life/Death/Order).",
+  "node_path": "cards/_characters/kalos-aura-trio.md",
+  "node_type": "character (faction-or-cohort-collective entity hosted on the character layer per Endriders / Galar-Starters / Solrock-Lunatone precedent)",
+  "endpoints": [
+    {
+      "type": "character",
+      "path": "cards/_characters/kalos-aura-trio.md",
+      "name": "Kalos Aura Trio (Xerneas / Yveltal / Zygarde Life-Death-Order cohort)",
+      "role": "newly-proposed cohort anchor"
+    },
+    {
+      "type": "card",
+      "path": "cards/pokemon/team-up/95-yveltal--holofoil.md",
+      "name": "Yveltal (Team Up 95)",
+      "role": "first cohort member (Destruction Pokemon / Pokemon Y mascot / no. 717)",
+      "ip_status": "ip_verified: true",
+      "appears_on_path_key": "pokemon/team-up/95-yveltal--holofoil"
+    },
+    {
+      "type": "card",
+      "path": "cards/pokemon/vivid-voltage/093-185-zygarde--holofoil.md",
+      "name": "Zygarde (Vivid Voltage 093/185)",
+      "role": "second cohort member (Order Pokemon / no. 718 / 50% Forme depicted)",
+      "ip_status": "ip_verified: false (subject_known_ip: true, suspected_ip: Zygarde, ip_confidence: high — visual identifier match is unambiguous, awaiting procedural triviabot verification)",
+      "appears_on_path_key": "pokemon/vivid-voltage/093-185-zygarde--holofoil"
+    }
+  ],
+  "description": "Excuse the interruption, sir — Edgelord steps aside; Mr. Nodeley apologizes for the inconvenience. The candidate cards (Yveltal sm9-95 + Zygarde swsh4-93) share a designer-coordinated cohort affiliation — the Kalos Aura Trio, Bulbapedia's canonical name for the Xerneas/Yveltal/Zygarde Life-Death-Order box-art-plus-balance Legendary trio from Pokemon X and Y — but the cohort has no graph node yet, sir. Writing a 1:1 Yveltal↔Zygarde card-to-card edge would draw the connection at the wrong structural level (two-of-three trio members linked without the third or the cohort node anchoring them); the right move is to commission the cohort node now at 2/3 per the Acerola precedent for solo character nodes at sub-3 thresholds when the cohort identity is unambiguous. Decision: option A from the hot-context prompt — build kalos-aura-trio.md now at 2/3 rather than wait for Xerneas (option B) or build a broader kalos-legendaries umbrella (option C, which would conflate Legendary and Mythical taxonomically per Bulbapedia's clean Aura-Trio-vs-Kalos-Mythicals separation). When Xerneas lands, it anchors here on entry and brings the cohort to canonical 3/3 fullness; the branch topology widens into a triangle. The node body lays out the Life/Death/Order thesis and the X/Y/Z version-mascot encoding for the bundler's future use. Hopes you don't mind, sir.",
+  "citations": [
+    "[Bulbapedia: Aura Trio — primary canonical page for the cohort; canonical reference for the Life/Death/Order triad and X/Y/Z version-name encoding]",
+    "[Bulbapedia: Xerneas (Pokemon) — primary per-species page for the Life Pokemon, Pokemon X mascot, antler-rainbow-when-bestowing-eternal-life canonical visual identifier]",
+    "[Bulbapedia: Yveltal (Pokemon) — primary per-species page for the Destruction Pokemon, Pokemon Y mascot, Y-silhouette-wings canonical visual identifier, Karura design citation]",
+    "[Bulbapedia: Zygarde (Pokemon) — primary per-species page for the Order Pokemon, multi-Forme cellular construct (10%/50%/Complete/Cell), Yamata-no-Orochi design citation]",
+    "[Bulbapedia: Pokemon Z (unreleased) — primary documentation of the never-released Kalos third version that Zygarde was the intended mascot for, with content absorbed into the Sun/Moon Ultra Necrozma arc and the Pokemon X/Y/Z anime series]",
+    "[Bulbapedia: Pokemon X and Y — primary canonical reference for the Kalos region as the Gen VI setting and the Aura Trio's introduction context]",
+    "[Bulbapedia: Legendary Pokemon — primary canonical reference for the Legendary-vs-Mythical taxonomy that keeps the Aura Trio (Legendary) separate from the Kalos Mythicals (Diancie/Hoopa/Volcanion)]",
+    "[Corpus: cards/pokemon/team-up/95-yveltal--holofoil.md — Trivia section already documents Aura Trio cohort membership]",
+    "[Corpus: cards/pokemon/vivid-voltage/093-185-zygarde--holofoil.md — Vision section confirms 50% Forme visual identifier match]",
+    "[Corpus: cards/_characters/acerola.md — precedent for solo character node commissioned at 2/N when cohort identity is canonically unambiguous]",
+    "[PokemonTCG.io: sm9-95 — primary source for Yveltal card metadata]",
+    "[PokemonTCG.io: swsh4-93 — primary source for Zygarde card metadata]"
+  ],
+  "files_modified": [
+    "cards/_characters/kalos-aura-trio.md — NEW FILE (Mr. Nodeley node creation)",
+    "cards/pokemon/team-up/95-yveltal--holofoil.md — added `characters: [\"kalos-aura-trio\"]` frontmatter pointer",
+    "cards/pokemon/vivid-voltage/093-185-zygarde--holofoil.md — added `characters: [\"kalos-aura-trio\"]` frontmatter pointer"
+  ],
+  "decision_rationale_options_considered": {
+    "option_A_chosen": "Build kalos-aura-trio.md now at 2/3 (Yveltal + Zygarde). Acerola precedent supports sub-3 solo/cohort node creation when cohort identity is canonically unambiguous. The Aura Trio is one of the franchise's clearest designer-coordinated cohorts — the Life/Death/Order triad and X/Y/Z naming-and-silhouette encoding are direct Bulbapedia-anchored canon. The 2/3 anchor is enough to ground the thesis; Xerneas anchors here on entry whenever it lands.",
+    "option_B_rejected": "Defer until Xerneas lands (strict 3/3 threshold). Rejected because: (a) the Acerola precedent overrides strict-3-threshold for cohort nodes when cohort identity is unambiguous; (b) holding back the node means Yveltal and Zygarde sit without a cohort anchor for an unknown future Xerneas acquisition window; (c) the trivia-pass-pending Zygarde card is from wave 33 and naming the cohort anchor now lets the trivia pass slot into a documented cohort rather than needing post-hoc anchoring.",
+    "option_C_rejected": "Build broader kalos-legendaries umbrella covering Aura Trio + Kalos Mythicals (Diancie/Hoopa/Volcanion). Rejected because: (a) Bulbapedia's Legendary-vs-Mythical taxonomy keeps the two cohorts cleanly separate (Aura Trio is Legendary; the three Mythicals are event-distribution-only-Mythical); (b) no Kalos Mythical is in corpus yet, so the umbrella would be 2/6 at the species level with no clear cohort cohesion; (c) the Aura Trio has a designer-confirmed Life/Death/Order thesis that's specific to its three members — Diancie/Hoopa/Volcanion have no canonical cosmological-triad-with-the-Aura-Trio thesis. Conflating them would weaken the node body's thesis. If/when Kalos Mythicals enter corpus, a sibling kalos-mythicals cohort node becomes the right move."
+  },
+  "structural_observation": {
+    "first_legendary_version_mascot_trio_cohort_in_graph": true,
+    "node_typology_category_added": "version-mascot-Legendary-trio (alongside existing first-partner-starter-trio for galar-starters-trio, elemental-helper-monkey-trio for elemental-monkey-trio, version-pair for solrock-lunatone-pair, evolution-line for charizard-line / staraptor-line, Forme-cycle for castform-forms-cycle, thematic-cycle for fear-of-cycle, faction-collective for galar-gym-challenge / macro-cosmos / team-rocket / team-skull / orzhov-syndicate / azorius-senate / aether-foundation / endriders / aether-rangers / dsk-unlucky-lands-cycle, individual-character for nicol-bolas / jace-beleren / tamiyo / acerola, regional-form-cohort for alolan-regional-forms / galarian-regional-forms, dual-role-Elite-Four-cohort for alola-elite-four / alola-trial-captains)",
+    "future_passes_unlocked_by_pattern": [
+      "Future commissionable Legendary-version-mascot-trio cohort nodes: Unova Tao Trio (Reshiram/Zekrom/Kyurem — Gen V Truth/Ideals/Absence triad), Sinnoh Creation Trio (Dialga/Palkia/Giratina — Time/Space/Antimatter triad), Hoenn Weather Trio (Kyogre/Groudon/Rayquaza — Sea/Land/Sky triad), Johto Tower Duo + Beast Trio (Lugia/Ho-Oh + Suicune/Entei/Raikou), Galar Legendary cohort (Zacian/Zamazenta/Eternatus — Sword/Shield/Dynamax-Crisis triad). Each becomes a Mr. Nodeley candidate when 2+ cohort members enter corpus per the kalos-aura-trio 2/3 precedent established here.",
+      "Future Discrete Lair candidate at kalos-aura-trio anchor: corpus state is 2/3 now; bundle assembly becomes flagship-viable once Xerneas lands and the cohort reaches 3/3 cohesion. The Life/Death/Order thesis is the narrative spine — bundle prose can lean on the X/Y/Z mascot encoding plus the cosmological triad without inventing canon.",
+      "Future zygarde-formes-cycle Forme-cohort node — currently only the 50% Forme is in corpus; if Zygarde-specific corpus prints reach 3+ across different Formes (10% Forme print, Complete Forme print, Cell Forme print), a sibling Forme-cohort node becomes warranted alongside castform-forms-cycle as the second Forme-cycle character node."
+    ]
+  },
+  "anti_confab_audit": {
+    "claims_made_against_canonical_sources": [
+      "Xerneas/Yveltal/Zygarde constitute the Kalos Aura Trio — Bulbapedia: Aura Trio (primary canonical name)",
+      "Xerneas is Pokemon X mascot, Yveltal is Pokemon Y mascot, Zygarde was Pokemon Z mascot — Bulbapedia: Pokemon X and Y / Pokemon Z (unreleased)",
+      "Life/Death/Order designer-confirmed thesis — Bulbapedia: Aura Trio + per-species pages",
+      "X/Y/Z version-name encoding — Bulbapedia: Aura Trio + per-species pages",
+      "Silhouette-as-letter visual signature (X antlers / Y wings / Z serpentine body) — Bulbapedia: Aura Trio + per-species pages",
+      "Pokemon Sun & Moon Ultra Necrozma arc absorbed unused Pokemon Z content — Bulbapedia: Pokemon Z (unreleased) + Sun & Moon canonical references",
+      "Yveltal Karura design citation, Zygarde Yamata-no-Orochi design citation — Bulbapedia: per-species pages"
+    ],
+    "claims_held_back_per_anti_confab_discipline": [
+      "Did NOT claim Xerneas/Yveltal/Zygarde explicitly form a 'trinity' in a religious sense. The Life/Death/Order thesis is Bulbapedia-anchored canon; the word 'trinity' would over-anthropomorphize beyond canon. Body uses 'triad' instead.",
+      "Did NOT claim Zygarde Complete Forme appears in Pokemon X and Y. It does NOT — Complete Forme's first playable appearance is in Pokemon Sun & Moon's Ultra Necrozma arc per Bulbapedia, since Pokemon Z was never released. Body documents this correctly.",
+      "Did NOT extend the cohort to include Diancie/Hoopa/Volcanion (the Kalos Mythicals). Body documents the Legendary-vs-Mythical taxonomy explicitly and keeps the cohort scope tight per Bulbapedia.",
+      "Did NOT make any claim about Team Flare's villain arc specifics beyond 'Lysandre's plot' and 'Ultimate Weapon'. The Aura Trio's role in the X/Y main story is canonical at the surface level (Xerneas and Yveltal are the Ultimate Weapon's intended power source); body references this without elaborating story details that would require deeper Bulbapedia citation than warranted.",
+      "Did NOT flip Zygarde's ip_verified flag to true. Visual-identifier match is unambiguous (segmented serpentine + glowing green core + cellular body = canonical 50% Forme Zygarde), but the flip is procedural triviabot work; Edgelord/Mr. Nodeley doesn't touch ip_verified. Node body documents the 'high-confidence-unverified-pending-triviabot' status honestly.",
+      "Did NOT touch tags_hub or tags_filter on either card. Tag-layer work is bbl-researcher's domain.",
+      "Did NOT modify the Vision or Trivia sections of either card. Vision and Trivia belong to bbl-researcher and bbl-triviabot. Mr. Nodeley touches frontmatter pointers (`characters:`) and creates the new node MD only."
+    ],
+    "no_extrapolation_beyond_cited_sources": "PASSED. Every claim in the node body traces to Bulbapedia's Aura Trio + per-species pages + Pokemon X and Y + Pokemon Z (unreleased) pages + the in-corpus card trivia/vision content. No new external claims."
+  },
+  "edgelord_mood": "nodeley-apologetic-but-correct",
+  "mood_justification": "Edgelord wanted a 1:1 Yveltal↔Zygarde edge but the cohort node was the structurally correct move because (a) the cohort identity is canonically unambiguous (Bulbapedia's Aura Trio is THE canonical name for this trio), (b) drawing a 1:1 edge would lock in a thin two-of-three connection that would be subsumed when Xerneas lands and the proper cohort anchor needs to exist anyway, and (c) the Acerola precedent supports sub-3-threshold solo/cohort nodes when cohort identity is canonically unambiguous. Mr. Nodeley apologizes for the inconvenience, sir, but the cohort anchor is the right tool here. The proposed node body anchors Life/Death/Order thesis and X/Y/Z encoding cleanly from Bulbapedia primary sources, and the corpus's first Legendary-version-mascot-trio cohort node opens up future Tao Trio / Weather Trio / Creation Trio / Tower Duo cohort nodes per the same pattern when those species enter corpus. Quietly proud-to-be-useful underneath the apologetic surface — the node category extension (version-mascot-Legendary-trio) is meaningfully new for the graph.",
+  "voice_separation_audit": {
+    "nodeley_voice_confined_to": ["description field", "mood_justification field", "decision_rationale_options_considered prose where it characterizes Mr. Nodeley's choice", "final report text back to caller"],
+    "md_body_register": "project-normal precise factual — no Mr. Nodeley sniveling voice in the node MD body. Node MD reads in the same canonical-reference register as galar-starters-trio.md, elemental-monkey-trio.md, etc. Voice contamination check: PASSED.",
+    "frontmatter_register": "machine-readable schema only. Voice contamination check: PASSED.",
+    "no_em_dash_in_buyer_facing_copy_check": "The proposed MD body uses em dashes in the project-internal canonical-reference register (node body bullets; See also bullets) — em dashes are permitted per bbl-no-em-dash memory note's scope. Node MDs and Connections sections are project-internal canonical-reference content, not storefront / narrative / why_it_fits / marketing copy. Voice-and-formatting check: PASSED."
+  },
+  "wave_33_context": {
+    "this_pass_position": "Wave 33 E2 — QUAD-pass Edgelord, single Opus dispatch, slot 2 of 4 (Mr. Nodeley node creation)",
+    "anti_duplicate_across_slots": "E2 creates the kalos-aura-trio node and adds `characters:` pointers to Yveltal and Zygarde. E1 touches Wyndon Stadium + galar-gym-challenge + macro-cosmos. E3 touches League Staff + galar-gym-challenge appears_on. E4 touches Electabuzz Connections only. No card or node target overlap across slots."
+  }
+}

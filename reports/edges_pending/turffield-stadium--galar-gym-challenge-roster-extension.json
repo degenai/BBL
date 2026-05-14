@@ -1,0 +1,153 @@
+{
+  "edge_id": "turffield-stadium--galar-gym-challenge-roster-extension",
+  "shape": "1:N",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "category_note": "1:N roster extension — Stadium card depicting the institutional architecture (Milo's home Galar Gym town) of an existing character/institution node. Closest category in the enum is named-character-identity at the institution level (Galar Gym Challenge as faction-collective), with the new endpoint being a place-card rather than a person-card.",
+  "endpoints": [
+    {
+      "type": "character",
+      "path": "cards/_characters/galar-gym-challenge.md",
+      "name": "Galar Gym Challenge",
+      "role": "source / institutional anchor"
+    },
+    {
+      "type": "card",
+      "path": "cards/pokemon/champion-s-path/68-73-turffield-stadium.md",
+      "name": "Turffield Stadium (Champion's Path 68/73)",
+      "role": "new corpus member joining the stack",
+      "card_subtype": "Stadium trainer card — Galar major-division Gym home town",
+      "appears_on_path_key": "pokemon/champion-s-path/68-73-turffield-stadium"
+    }
+  ],
+  "description": "Galar Gym Challenge node extension. Turffield Stadium (Champion's Path 68/73) is the literal civic-architecture establishing shot of Milo's home Gym town — Turffield is the first stop on Galar's league progression, Milo is its Grass-type Gym Leader, and the small red-coated figure on the balcony in the foreground matches Milo's canonical character-design palette (Champion's Path is the gym-pin-collection set, each gym got a dedicated product featuring badge + foil card + Stadium card). The Galar Gym Challenge node body already explicitly declares it anchors 'the league's institutional iconography (gym crests in stadium backdrops, Pokemon League uniform Supporter-card framing, Macro Cosmos signage where it appears)' — Turffield Stadium fits the spec exactly. This is the node's first place-card endpoint (vs the existing person-card endpoints) and validates the apparatus-of-spectacle thesis: the league's institutional fabric extends into the dedicated Stadium card slot, not just the Supporter card slot. Topology stays stack; corpus member count goes from 8 to 9.",
+  "citations": [
+    "[Corpus: cards/pokemon/champion-s-path/68-73-turffield-stadium.md — Trivia 'Location lore' bullet: 'Turffield is the first stop on the Galar gym challenge circuit. Gym Leader Milo is a Grass-type specialist and farmer...' citing Bulbapedia: Turffield]",
+    "[Corpus: cards/pokemon/rebel-clash/161-192-milo.md — Trivia 'Set context' bullet: 'Milo is the Grass-type Gym Leader of Turffield Stadium in both Sword and Shield, and Turffield is the first stop on Galar's league progression — the introductory gym.' citing Bulbapedia: Milo]",
+    "[Corpus: cards/pokemon/champion-s-path/68-73-turffield-stadium.md — Trivia 'Set context' bullet: 'Champion's Path... is a special Sword & Shield-era set structured around the eight Galar region gym towns. Each gym received a dedicated Pin Collection product featuring a gym-badge pin and a foil Pokémon card.' citing Pokemon.com: Champion's Path Pin Collections]",
+    "[Bulbapedia: Turffield — primary canonical page for the town as the Galar league's first-gym location, Milo as resident Gym Leader, and the Eternatus-Darkest-Day geoglyph on the hillside west of town]",
+    "[Bulbapedia: Champion's Path (TCG) — set was organized around the eight Galar gym towns; Turffield, Hulbury, and Motostoke launched on release day September 25, 2020]"
+  ],
+  "files_to_be_modified_by_parent": [
+    {
+      "path": "cards/_characters/galar-gym-challenge.md",
+      "modification": "Insert 'pokemon/champion-s-path/68-73-turffield-stadium' into the appears_on: YAML list. Suggested position: at the end of the list (after milo). Also extend the 'Cards in our corpus pointing here (current)' body section with a new bullet for Turffield Stadium directly under (or adjacent to) the Milo entry, since the two cards co-anchor the Turffield-major-division slot (Milo as person-card, Turffield Stadium as place-card). The bullet text proposed below."
+    },
+    {
+      "path": "cards/pokemon/champion-s-path/68-73-turffield-stadium.md",
+      "modification": "Add a frontmatter line `characters: [\"galar-gym-challenge\"]` immediately after the `bundles: []` line (slotted in the same position the bot guards expect, matching where Milo's frontmatter places the field). Also add a `## Connections` section after the existing `### Related cards` block. The connection text and section format proposed below."
+    }
+  ],
+  "proposed_yaml_addition_galar_gym_challenge_node": {
+    "field": "appears_on",
+    "new_entry": "pokemon/champion-s-path/68-73-turffield-stadium",
+    "rationale_for_position": "append at end of list to preserve chronological order of additions"
+  },
+  "proposed_body_addition_galar_gym_challenge_node": {
+    "section": "Cards in our corpus pointing here (current)",
+    "new_bullet_text": "- **Turffield Stadium** (Champion's Path no. 68/73, Stadium trainer card, Grass-type Search effect, both versions, aky CG Works art) — Milo's home Gym town as civic-architecture establishing shot: the domed sports stadium with grass-textured roof and red structural trim, surrounded by the town's red-roofed buildings, with a small figure (red coat, matching Milo's canonical palette) on a foreground balcony looking out toward the dome. The Champion's Path set was organized around the eight Galar gym towns and each gym received a dedicated Pin Collection product — this is Turffield's Stadium-card representation of the league's institutional fabric extended into a place-card slot. First place-card endpoint on this node; validates the institutional-iconography spec.",
+    "rationale_for_position": "place immediately after the Milo Rebel Clash bullet so the person-card + place-card co-anchor of the Turffield major-division slot reads as a unit"
+  },
+  "proposed_frontmatter_addition_turffield_stadium_card": {
+    "field": "characters",
+    "value": "[\"galar-gym-challenge\"]",
+    "insertion_anchor": "immediately after the `bundles: []` line (line 12), to match Milo's frontmatter position for the same field"
+  },
+  "proposed_connections_section_turffield_stadium_card": {
+    "section_header": "## Connections",
+    "insertion_anchor": "append at end of file, after the existing `### Related cards` block",
+    "section_body": "- [[_characters/galar-gym-challenge]] — Turffield is the first stop on Galar's eight-gym league progression, and Milo is its Grass-type Gym Leader; this Stadium card is the civic-architecture establishing shot of his home Gym town (the dome's green grass-textured roof matches Milo's typing; the small red-coated figure on the foreground balcony matches Milo's canonical palette). Champion's Path was structured around the eight Galar gym towns with one Pin Collection product per gym — this is Turffield's place-card representation of the league's institutional fabric, parallel to Milo's Supporter-card representation in Rebel Clash 161/192. [Bulbapedia: Turffield], [Bulbapedia: Milo], [Pokemon.com: Champion's Path Pin Collections]\n- [[../rebel-clash/161-192-milo]] — person-card + place-card co-anchor of the Turffield major-division Gym slot. Milo's Rebel Clash 161 Supporter art shows him in pastoral pose with leaf-topiary backdrop (the gym's pastoral character at the trainer level); this Stadium card shows the same town's civic-sporting venue (the gym's institutional character at the place level). Together they cover the two registers of Milo's Gym town in BBL inventory. [Corpus: cards/pokemon/rebel-clash/161-192-milo.md trivia]",
+    "secondary_card_to_card_edge_rationale": "The 1:N node extension is the primary move; the secondary Milo↔Turffield-Stadium card-to-card mirror is justified by the two cards being the two registers of the same Gym (person + place) AND by the Champion's Path Pin Collection product structure that explicitly paired Stadium cards with Gym Leader content per gym. This is the elegant chain-shape underneath the stack-shape primary edge — surfacing it as a secondary edge in the Turffield Stadium card's Connections section gives future bundle-cohesion passes a direct person+place pointer without making it the headline move."
+  },
+  "mirror_to_milo_card_recommended_but_separate": {
+    "rationale": "The Milo card already has Turffield Stadium implied through its existing `### Related cards` block (line 75: 'Milo (Champion's Path) — reprint of this art outside Asia' — note: this is the Champion's Path REPRINT of the Milo SUPPORTER card, no. 8/73, NOT the Stadium card no. 68/73; the two are distinct products in the same gym-pin product line). To add the Stadium card↔Milo card mirror to Milo's MD would be a separate pass — one edge per invocation discipline. Surfaced here so the parent / future Edgelord pass knows the mirror is available and where to draw it.",
+    "future_pass_target": "cards/pokemon/rebel-clash/161-192-milo.md — append `## Connections` section (no existing one) with a bullet pointing to `[[../champion-s-path/68-73-turffield-stadium]]` describing the person-card + place-card co-anchor of the Turffield major-division Gym slot. Citation: Champion's Path Pin Collection product structure (Pokemon.com)."
+  },
+  "anti_confab_audit": {
+    "claims_made_against_canonical_sources": [
+      "Turffield is the first stop on Galar's eight-gym league progression — Bulbapedia: Turffield (cited in BOTH the Turffield Stadium card trivia AND the Milo card trivia)",
+      "Milo is Turffield's Grass-type Gym Leader — Bulbapedia: Milo (cited in both card trivia entries)",
+      "Champion's Path was organized around the eight Galar gym towns with one Pin Collection product per gym — Pokemon.com: Champion's Path Pin Collections (cited in Turffield Stadium card trivia)",
+      "The small red-coated figure on the foreground balcony's color palette is consistent with Milo's canonical design — derived from the Turffield Stadium vision pass (foreground description: 'a small figure in a red coat or jacket stands on a balcony or terrace platform') intersected with Milo's vision-passed canonical palette (forest-green dungarees, green-and-white striped shirt; the red appears in his accent details). NOTE: Anti-confab carve-out — the vision pass on Turffield Stadium does NOT identify the figure as Milo by name (only as 'a small figure in red'); the connection is suggested as a Bulbapedia-anchored Turffield-as-Milo's-Gym-town inference, not a positive figure-identification claim. The bullet text uses the careful phrasing 'matching Milo's canonical palette' rather than asserting the figure IS Milo. Edgelord catalog of failure modes: this is the Pitiless-Pontiff-vs-Slavomir-Zoltan failure mode from the bbl-triviabot-no-role-identity-conflation memory note — depicted-figure-as-named-character requires positive evidence. The bullet is structurally cautious."
+    ],
+    "claims_held_back_per_anti_confab_discipline": [
+      "Did NOT claim the balcony figure IS Milo. The trivia pass's vision section calls it 'a small figure in red'; no canonical source positively identifies the figure. Palette consistency is mentioned as a flavor read, not a positive ID.",
+      "Did NOT extend the node body's Caveats section to add a sub-node split (e.g. galar-gym-challenge-stadiums vs galar-gym-challenge-leaders). Adding ONE place-card to the node does not yet warrant a sub-node split; the parent node currently holds 8 person-cards + 1 place-card = 9 members total, which is well within character-node single-anchor scope. If 3+ Galar Stadium cards land (a Hulbury Stadium, a Motostoke Stadium, etc.) AND the corpus warrants it, a future Mr. Nodeley pass can propose the split. Surfaced as future_passes_unlocked, not done now.",
+      "Did NOT add any tags_hub to either card. Tag-layer work is bbl-researcher's domain; Edgelord touches frontmatter pointer fields (`characters:`, `symbols:`, `hubs:`) and body Connections sections only.",
+      "Did NOT touch Path to the Peak (Chilling Reign 148/198). Path to the Peak is Crown Tundra DLC alpine route to Calyrex, not part of the Galar Gym Challenge institutional structure; the hot-context hint correctly flagged this edge as weak. Confirmed weak via Path to the Peak's own trivia (Crown Tundra DLC, leads to Calyrex's Crown Shrine, no league-institutional content). Refused the Path-to-the-Peak edge.",
+      "Did NOT propose the Pikachu (BUS-40) labor-flavor edge. The flavor text 'gather many Pikachu and make an electric power plant' is genuinely labor-coded, but solo with no candidate partner card in the wave (no other corpus card carries a thematically-paired labor-and-Pokemon flavor read). Solo flavor reads are not edges; flagged for future_passes_unlocked when a labor-paired partner card lands."
+    ],
+    "no_extrapolation_beyond_cited_sources": "PASSED. Every claim in the proposed body bullets traces to either (a) the Turffield Stadium card's own trivia citations, (b) the Milo card's own trivia citations, or (c) the Galar Gym Challenge node's already-canonicalized body content. No new external claims."
+  },
+  "edgelord_mood": "satisfied",
+  "mood_justification": "Clean 1:N roster extension on an existing node anchored by 8 prior endpoints. The new endpoint is a *place-card*, which is the node's first non-person-card member — that's structurally interesting because it validates the node body's explicit declaration that it anchors institutional iconography (not just persons). The connection has triple-source canonical anchoring (Turffield Stadium trivia → Bulbapedia: Turffield; Milo trivia → Bulbapedia: Milo; both → Pokemon.com: Champion's Path Pin Collections). No invention, no thin-tag-bridge, no role/identity confab. Edgelord is professionally pleased. The Edgelord-with-CBG-energy read: behold — a place-card extending an institution node and surfacing the secondary person+place chain underneath, all anchored by Wizards-of-Pokemon-confirmed Pin Collection product structure. The graph improves because of this. Worth the work.",
+  "topology": "stack",
+  "topology_justification": "stack topology preserved and widened. The galar-gym-challenge node is a bundle-cohesion stack — multiple cards converging on a single institutional anchor — and Turffield Stadium joins the existing 8 person-card members as the 9th endpoint. The secondary Milo↔Turffield-Stadium card-to-card edge surfaced in the Turffield Stadium card's Connections section adds a small mirror UNDERNEATH the stack (person+place co-anchor of one gym slot), which is the chain-shape that wants to emerge across all 8 gym slots once more Stadium cards land. The node thus has stack topology at the macro level with a partial-chain underlay at the per-gym-slot level (Milo+Turffield is the first one wired). The bundler will benefit.",
+  "alternatives_considered": [
+    {
+      "candidate": "Turffield Stadium ↔ Path to the Peak as a 'Galar Stadium cards' 1:1 mirror",
+      "why_skipped": "Weak. Path to the Peak's trivia confirms it's Crown Tundra DLC alpine route to Calyrex, not part of the Galar Gym Challenge institutional structure. They share a TCG card subtype (Stadium) and a region-name (Galar in the broadest sense — Crown Tundra is a Galar DLC area), but that's a tag-bridge at best. The hot-context hint correctly flagged this as a weak meta-Galar-region connection. The institution they each anchor is different (Gym Challenge vs Crown Tundra legendary site)."
+    },
+    {
+      "candidate": "Pikachu (Burning Shadows 40/147) ↔ [[labor]] hub via flavor-text labor-coding",
+      "why_skipped": "The flavor text 'gather many Pikachu and make an electric power plant' is genuinely labor-coded — explicit resource-extraction subtext with Pikachu as the worker-coded mascot. But (a) the labor hub is implicit through the tags_hub: ['labor', 'resource-extraction'] entries already on the card, so the card-to-hub edge is already structurally present at the tag level; (b) no candidate partner card in the wave shares the same explicit labor-flavor pairing (no other wave-11 card's flavor text canonicalizes the labor angle), so a 1:1 mirror has no second endpoint. Solo flavor reads are not edges. Surfaced as future-pass target when a thematically-paired labor-Pokemon card lands (a Slowpoke / Magnemite / Voltorb labor-flavor partner would activate the edge)."
+    },
+    {
+      "candidate": "Charmander/Charmeleon (Burning Shadows 18-19) ↔ Charmeleon (Vivid Voltage 024/185) cohort edge",
+      "why_skipped": "The corpus has 2 Charmeleon cards (BUS-19 + VIV-024) — Mr. Nodeley threshold for a Charizard-line cohort node is ≥3 (memory note bbl-narrative-first-lairs implies 3+ is the cohort threshold, mirrored in the elemental-monkey-trio and galar-gym-challenge precedents). Not met yet; a 1:1 Charmeleon↔Charmeleon evolution-stage-mirror edge would be the wrong move (it'd lock in a thin connection that should anchor to a future cohort node instead). Future-flag: when a Charizard or Charmander joins corpus, the Mr. Nodeley charizard-line cohort node becomes actionable."
+    },
+    {
+      "candidate": "Castform Rainy Form (CRE-033) ↔ future Castform forms cohort node — Mr. Nodeley proposal NOW",
+      "why_skipped": "Only 1 of 4 designer-confirmed cycle members in corpus (Rainy alone; Normal CRE-121, Sunny CRE-022, Snowy CRE-034 not in inventory). Mr. Nodeley threshold (≥3 corpus members for a cohort/cycle node) NOT met. Future-flag: when 2 more Castform Forms land, the node becomes actionable. The hot-context hint correctly flagged this as future-only."
+    },
+    {
+      "candidate": "Will (Cosmic Eclipse 208/236) ↔ future Johto Elite Four node — Mr. Nodeley proposal NOW",
+      "why_skipped": "Solo Johto E4 member in corpus. Mr. Nodeley threshold not met. Future-flag: when ≥2 more Johto E4 land (Karen, Bruno-as-Johto, Koga-as-Johto, Lance-as-Johto), the node becomes actionable. The hot-context hint correctly flagged this as future-only."
+    },
+    {
+      "candidate": "Dark Nodesley EX: dissolve some weaker existing node",
+      "why_skipped": "No empty / subsumed / inaccurate / mistakenly-proposed node identified in the freshly-enriched corpus. The 11 existing character nodes (nicol-bolas, endriders, jace-beleren, tamiyo, azorius-senate, aether-rangers, fear-of-cycle, orzhov-syndicate, galar-gym-challenge, dsk-unlucky-lands-cycle, elemental-monkey-trio) all have ≥3 corpus pointers or load-bearing future-pass potential. Not a Dark Nodesley case."
+    },
+    {
+      "candidate": "Enlightened Edgelord: dissolve a weaker existing edge in the galar-gym-challenge node and replace with the Turffield Stadium edge",
+      "why_skipped": "Misapplication. The existing 8 person-card endpoints on the node are all canonical Gym Leaders with positive Bulbapedia anchoring; none of them is weaker than the new Turffield Stadium endpoint, and the new endpoint isn't a *replacement* for any of them (different card-type role: place-card, not person-card). Net-zero edge-count discipline doesn't apply — the node is growing, not refactoring. Plain 1:N extension is the correct shape."
+    }
+  ],
+  "future_passes_unlocked": [
+    "Milo (Rebel Clash 161/192) gets a `## Connections` section appended that mirrors the secondary card-to-card edge documented here (person+place co-anchor of Turffield major-division Gym slot). Separate Edgelord pass — one edge per invocation discipline.",
+    "Additional Galar Stadium cards landing in corpus (Hulbury Stadium, Motostoke Stadium, Hammerlocke Stadium, etc.) → each one extends the node with an additional place-card endpoint AND extends the per-gym chain (person + place per gym slot). When 3+ Stadium cards land, a sub-node split into galar-gym-challenge-stadiums vs galar-gym-challenge-leaders becomes a Mr. Nodeley candidate.",
+    "When Bea (Vivid Voltage 147/185) gets its vision + trivia pass (already in inventory as vision-stub), the Allister/Bea Stow-on-Side version-pair edge becomes a clean 1:1 mirror candidate — both cards in same set, same major-division Gym slot, designer-coordinated version-pair foils. Edge category: designer-confirmed-cycle.",
+    "When Marnie (SWSH Base Set 169) gets its vision + trivia pass, the major-division vs minor-division sub-node split flagged in the galar-gym-challenge node's Caveats becomes actionable.",
+    "When Castform Sunny/Normal/Snowy lands (any 2 of the 3 not-in-corpus members), the castform-forms-cycle node becomes a Mr. Nodeley candidate per the 4-form Chilling Reign cycle Castform Rainy Form's trivia already canonicalizes.",
+    "When Charmander or Charizard joins corpus, the charizard-line cohort node becomes a Mr. Nodeley candidate (corpus is 1 acquisition away from threshold).",
+    "When ≥2 more Johto Elite Four members land (Karen / Bruno / Koga / Lance in their Johto-E4 prints), the johto-elite-four cohort node becomes a Mr. Nodeley candidate.",
+    "Pikachu (BUS-40) ↔ labor-paired-Pokemon partner card — when a Slowpoke / Magnemite / Voltorb / other labor-flavor-text Pokemon lands, a 1:1 labor-flavor mirror becomes actionable AND/OR a [[labor]] hub Pokemon-side member-cards section can begin populating with Pikachu as the first member.",
+    "Bundle-cohesion Discrete Lair candidate — galar-gym-challenge node now anchors 9 corpus endpoints (8 Gym Leaders + 1 Stadium card). At 9 members the bundle-cohesion stack is well past the Discrete Lair viability threshold; once 4–6 vision-pending Gym Leaders enrich, the bundler can survey this node as a flagship Pokemon-side Discrete Lair candidate. The apparatus-of-spectacle thesis (corporate-sponsored televised gym tournament under Macro Cosmos / Chairman Rose) is the narrative spine."
+  ],
+  "wikilintbot_compatibility": {
+    "type_field_value_on_node": "character",
+    "type_field_value_on_card": "n/a — card MDs don't carry type: at the frontmatter root; the bot guards differentiate card vs node MDs via the `cards/_<layer>/` directory prefix",
+    "characters_frontmatter_field_already_supported": true,
+    "wikilink_format_compatibility": "The proposed Connections section uses `[[_characters/galar-gym-challenge]]` (vault-root-relative wikilink, Obsidian standard) and `[[../rebel-clash/161-192-milo]]` (relative path wikilink, also Obsidian-supported). Both formats traverse cleanly within the cards/ vault root."
+  },
+  "voice_separation_audit": {
+    "edgelord_voice_confined_to": ["description field of this JSON sidecar", "mood_justification field", "alternatives_considered why_skipped fields", "final report text back to caller"],
+    "md_body_register": "project-normal precise factual — no Edgelord theatrical voice, no CBG-energy contamination. Proposed bullet text reads like a precise reference-catalog entry. Voice contamination check: PASSED.",
+    "frontmatter_register": "machine-readable schema only — no voice. Proposed frontmatter addition is a single-line YAML list with one slug. Voice contamination check: PASSED.",
+    "no_em_dash_in_buyer_facing_copy_check": "The proposed MD body bullets use em dashes in the project-internal canonical-reference register (node body bullet; card Connections section bullet) — em dashes are permitted per bbl-no-em-dash memory note's scope: 'em dashes are fine in commits, memory, sketchbook, code comments, conversation' — node MDs and Connections sections are project-internal canonical-reference content, not storefront / narrative / why_it_fits / marketing copy. Voice-and-formatting check: PASSED."
+  },
+  "wave_11_context": {
+    "this_pass_position": "Wave 11 E2 — fresh-look Edgelord, single Opus dispatch",
+    "wave_11_e1_landed": "cards/_characters/elemental-monkey-trio.md (Mr. Nodeley node creation, separate sidecar at reports/edges_pending/elemental-monkey-trio--node-proposal.json)",
+    "no_interference_with_e1": "This pass touched only the galar-gym-challenge character node and the Turffield Stadium card. The elemental-monkey-trio node, the wave-11 vision passes, and every other card and node in the corpus were NOT touched. Strict scoping honored.",
+    "wave_11_freshly_enriched_cards_surveyed_in_this_pass": [
+      "Turffield Stadium (CMP-68) — primary edge target (vision pass landed wave 11; trivia pass already present)",
+      "Leon (VIV-154) — already wired to node via apply_vision.py per hot-context hint; no Edgelord work needed",
+      "Pikachu (BUS-40) — surveyed for labor-flavor edge; rejected as solo without a partner (see alternatives_considered)",
+      "Castform Rainy Form (CRE-033) — surveyed for Castform-forms cohort node; threshold not met (see alternatives_considered)",
+      "Charmeleon (BUS-19) — surveyed for Charizard-line cohort node; threshold not met (see alternatives_considered)",
+      "Will (CSE-208) — surveyed for Johto-E4 cohort node; threshold not met (see alternatives_considered)",
+      "Path to the Peak (CRE-148) — surveyed for galar-gym-challenge edge; rejected as weak (Crown Tundra DLC, not league-institutional) (see alternatives_considered)"
+    ]
+  }
+}

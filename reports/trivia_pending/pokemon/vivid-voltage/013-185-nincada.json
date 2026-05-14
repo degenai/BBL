@@ -1,0 +1,40 @@
+{
+  "card_name": "Nincada",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "013/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via PokemonTCG.io swsh4-13. National Pokedex no. 290 matches. Small white larval insect in subterranean root setting is canonical Nincada design.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Nincada appears in Sword & Shield — Vivid Voltage (2020) as no. 013/185, a Common. National Pokedex no. 290, Bug/Ground-type, introduced in Generation III (Hoenn).",
+      "sources": ["PokemonTCG.io: swsh4-13"]
+    },
+    {
+      "category": "design",
+      "text": "Nincada is the only Pokemon in the franchise whose evolution produces two Pokemon simultaneously. At level 20 it evolves into Ninjask; if the player has an empty party slot AND a Poke Ball in their bag, the shed exoskeleton automatically becomes Shedinja in that Poke Ball. The mechanic has been present since Gen III and remains unique to this line.",
+      "sources": ["WebSearch: Bulbapedia Nincada", "WebSearch: pokemondb.net Nincada evolution mechanic"]
+    },
+    {
+      "category": "design",
+      "text": "Shedinja has exactly 1 HP and Wonder Guard (immune to all non-super-effective damage). Only Fire, Flying, Rock, Ghost, and Dark can hit it. Lore-consistent: it is a hollow shell with no life force of its own.",
+      "sources": ["WebSearch: Bulbapedia Shedinja snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead.\"",
+      "sources": ["PokemonTCG.io: swsh4-13"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ninjask", "set": "various", "note": "Primary evolution at level 20, fast Bug/Flying-type"},
+    {"name": "Shedinja", "set": "various", "note": "Secondary simultaneous evolution, 1 HP + Wonder Guard"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "edge_id": "kirisaki--artist-node-proposal",
+  "shape": "node-proposal",
+  "topology": "branch",
+  "category": "artist-node-volume-threshold",
+  "endpoints": [
+    {"type": "artist", "path": "cards/_artists/kirisaki.md", "name": "kirisAki"},
+    {"type": "card", "path": "cards/pokemon/crimson-invasion/33-111-alolan-graveler.md", "name": "Alolan Graveler (CIN-33)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/037-192-galarian-mr-mime.md", "name": "Galarian Mr. Mime (RCL-037)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/083-189-polteageist.md", "name": "Polteageist (DAA-083)"},
+    {"type": "card", "path": "cards/pokemon/vivid-voltage/038-185-chewtle.md", "name": "Chewtle (VIV-038)"},
+    {"type": "card", "path": "cards/pokemon/vivid-voltage/148-185-beauty.md", "name": "Beauty (VIV-148)"},
+    {"type": "card", "path": "cards/pokemon/vivid-voltage/148-185-beauty--reverse-holofoil.md", "name": "Beauty (VIV-148 reverse holofoil)"},
+    {"type": "card", "path": "cards/pokemon/chilling-reign/149-198-peonia.md", "name": "Peonia (CRE-149)"}
+  ],
+  "description": "Edgelord stepped aside, sir. Mr. Nodeley is terribly sorry to bother you but seven corpus prints credited to kirisAki across five sets exceeded the Sakuma precedent's five-credit threshold, and the wave 15 Beauty trivia pass surfaced the canonical artofpkm.com page 158 citation that locked the biographical detail (Tokyo Designer Gakuin, 2013 career start). It seemed the responsible move was to commit the node now while the citation was fresh. Mr. Nodeley did not propose any 1:1 card-to-card edges, sir — the node anchors the branch, and frontmatter pointers are deferred to a future pass per the existing artists-layer pattern. The kirisAki node is artist-layer-internal value (corpus credit accounting plus stylistic-signature anchoring for future alternate-rarity disambiguation), not yet a load-bearing thesis bridge the way Sakuma's NPC-design portfolio anchors labor. He hopes that is acceptable.",
+  "citations": [
+    "[artofpkm.com — illustrators/158: kirisAki]",
+    "[Bulbapedia — kirisAki via WebSearch snippet]",
+    "[PokemonTCG.io API: seven per-card credit stampings]",
+    "[Beauty VIV-148 trivia entry in-corpus]",
+    "[sanosuke-sakuma.md precedent for Pokemon-side single-illustrator artist node]"
+  ],
+  "files_modified": [
+    "cards/_artists/kirisaki.md"
+  ],
+  "other_candidates_considered": [
+    "Ryuta Fuse artist node (4 corpus credits including VIV-025 Charizard apex; below Sakuma's 5-credit threshold but plausibly above the floor — defer to a future pass or surface in janitor_triage)",
+    "Mudbray <-> Galar Mine 1:1 labor-pair edge (REFUSED: tag-bridge not canon-bridge; Mudbray is Generation VII Alolan, no Bulbapedia citation places the species in Galar Mine; labor connection is shared-tag-via-flavor, not narrative)",
+    "Charmander/Charmeleon/Charizard VIV-023/024/025 within-set 1:1:1 chain (already subsumed by charizard-line character node anchor; drawing it would duplicate the node's existing branch topology)",
+    "Schema fanout to remaining 6 wave-13 related_characters mirrors (mechanical work, not graph-improving; defer to a batch janitor pass)",
+    "Rotom-forms cycle character node (1/6 forms in corpus; below Bolas-cluster 3-card threshold; premature)"
+  ],
+  "edgelord_mood": "nodeley-apologetic-but-correct"
+}

@@ -1,0 +1,42 @@
+{
+  "edge_id": "wave-38-e2-angrath-kiora-dual-character-nodes",
+  "shape": "node-proposal",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/angrath.md", "name": "Angrath"},
+    {"type": "character", "path": "cards/_characters/kiora.md", "name": "Kiora"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/227-angrath-captain-of-chaos.md", "name": "Angrath, Captain of Chaos (WAR-227)"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/185-angrath-s-rampage.md", "name": "Angrath's Rampage (WAR-185)"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner.md", "name": "Kiora, Behemoth Beckoner (WAR-232)"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/58-kiora-s-dambreaker.md", "name": "Kiora's Dambreaker (WAR-58)"}
+  ],
+  "description": "I'm sorry — two character nodes in one pass feels greedy, doesn't it? But Edgelord said both pairs were 2-anchor candidates clearing the team-rocket / acerola / ral-zarek precedent and the corpus has named-planeswalker-plus-companion-spell shapes for each (Angrath: Captain of Chaos + Rampage; Kiora: Behemoth Beckoner + Dambreaker). The cross-edge between the two new nodes is the WAR uncommon-walker cycle — same Rosewater preview article, same design template. I made sure to flag the single-set limitation honestly in both caveats sections. The Angrath slaver-captain and Kiora bident-thief unsoftened-canon footnotes are surprise lore worth saving — Wizards usually softens these textures, and both characters retain them across multiple sets. Please let me know if I overreached, sir.",
+  "citations": [
+    "[MTG Wiki: Angrath]",
+    "[MTG Wiki: Kiora]",
+    "[MTG Wiki: Thassa — bident-theft canonical source]",
+    "[MTG Wiki: Rivals of Ixalan — Devil's Chains, Brazen Coalition orbit, Immortal Sun seal]",
+    "[MTG Wiki: Theros: Beyond Death — Kiora return arc]",
+    "[Wizards: Waging War of the Spark Part 1, Mark Rosewater 2019-04-01 — uncommon-walker cycle template]",
+    "[Mark Rosewater Blogatog — Angrath Amass clarification: sway-others-not-Bolas-alliance]",
+    "[Angrath's Rampage flavor_text: 'Grand city? No. This is nothing but another squalid cage.']",
+    "[Kiora's Dambreaker flavor_text: 'When your enemy flees, send the sea to pursue them.' — Kiora]",
+    "[Scryfall: type:planeswalker name:Angrath; name:\"Angrath's\"]",
+    "[Scryfall: type:planeswalker name:Kiora; name:\"Kiora's\"]"
+  ],
+  "files_modified": [
+    "cards/_characters/angrath.md",
+    "cards/_characters/kiora.md",
+    "cards/magic-the-gathering/war-of-the-spark/227-angrath-captain-of-chaos.md",
+    "cards/magic-the-gathering/war-of-the-spark/185-angrath-s-rampage.md",
+    "cards/magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner.md",
+    "cards/magic-the-gathering/war-of-the-spark/58-kiora-s-dambreaker.md"
+  ],
+  "other_candidates_considered": [
+    "WAR uncommon-walker symbol/hub cycle node — deferred per janitor_triage.md trigger condition (≥3 corpus members enriched). Currently: Angrath (227) + Kiora (232) + Rampage (185) + Dambreaker (58) = 4 corpus cards but the cycle's named-walker count is only 2; the trigger is named-walker-count-based, hold for Vivien (#175), Kasmina (#196), or another uncommon-walker print to reach the cycle-node threshold.",
+    "Thassa Theros-pantheon character node — deferred, no Thassa print in corpus; the bident-theft becomes commission-ready when one lands.",
+    "Nicol Bolas antagonist-context cross-edge to both Angrath and Kiora — character-to-character edge category still un-formalized; defer per the same precedent that defers Jace-to-Bolas and Ral-to-Bolas edges from prior waves."
+  ],
+  "edgelord_mood": "nodeley-apologetic-but-correct"
+}

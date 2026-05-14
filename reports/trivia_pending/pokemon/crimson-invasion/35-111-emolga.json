@@ -1,0 +1,40 @@
+{
+  "card_name": "Emolga",
+  "game": "Pokemon",
+  "set": "Crimson Invasion",
+  "collector_number": "35/111",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Emolga. Card name, Lightning type, flavor text, and depicted figure (white round body, black cape-like wing membranes, yellow cheek patches, gliding in storm) match canonical Emolga (National Pokedex no. 587). Identity unambiguous.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Emolga is National Pokedex no. 587, classified as the 'Sky Squirrel Pokemon.' The design is based on the Japanese dwarf flying squirrel (momonga), with possible influence from the sugar glider. The name may derive from 'emon' (Japanese: 衣紋, drapery/clothing, referencing the patagium) combined with 'momonga' (the Japanese dwarf flying squirrel). [Bulbapedia: Emolga via WebSearch; pokemondb.net Emolga entry via WebSearch]",
+      "sources": ["Bulbapedia: Emolga (Pokemon) via WebSearch", "pokemondb.net via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "This card was illustrated by Kagemaru Himeno, one of the most prolific artists in the TCG's history with over 635 illustrated cards. Himeno has been contributing to the Pokemon TCG since the Jungle expansion (1999), making her a near-founding-era artist. She is known for watercolor technique with vivid color and soft light. The Emolga in this card's art is depicted mid-glide in a stormy electric sky — a composition that suits Himeno's documented preference for adventurous backgrounds. [Bulbapedia: Kagemaru Himeno via WebSearch; artofpkm.com Himeno profile via WebSearch]",
+      "sources": ["Bulbapedia: Kagemaru Himeno via WebSearch", "artofpkm.com via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It glides using its cape-like membrane. Electrical energy scatters from it, shocking its friends and foes alike.\" `[PokemonTCG.io API flavor_text field (sm4-35)]`",
+      "sources": ["PokemonTCG.io API (sm4-35)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Volt Switch attack (Lightning, 30 damage) lets the player switch Emolga for a Benched Lightning Pokemon — a pivot-and-preserve mechanic that mirrors the in-game Volt Switch move used to cycle fast attackers. The Energy Catch attack provides discard recovery for three basic Energy cards. [PokemonTCG.io API (sm4-35)]",
+      "sources": ["PokemonTCG.io API (sm4-35)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Emolga (various prior sets)", "set": "Black and White era, XY era", "note": "Emolga has been printed across multiple eras since Gen 5"},
+    {"name": "Raichu (various)", "set": "various", "note": "Fellow Lightning-type with similar pikachu-clone design archetype in Unova"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

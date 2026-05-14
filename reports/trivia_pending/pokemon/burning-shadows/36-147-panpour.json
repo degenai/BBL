@@ -1,0 +1,41 @@
+{
+  "card_name": "Panpour",
+  "game": "Pokemon",
+  "set": "Burning Shadows",
+  "collector_number": "36/147",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Panpour: pale blue-grey water-type monkey with rounded water-tuft matches sm3-36 record and Bulbapedia Elemental monkeys article.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Panpour represents 'see no evil' in the trio's three-wise-monkeys conceit; sprite depicts closed or averted eyes. All three share identical base stats, similar moves, and parallel cries.",
+      "sources": ["Bulbapedia: Elemental monkeys", "Bulbapedia: Panpour (Pokemon)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail.\" The tuft is a water reservoir and a gardening tool — elemental utility mirroring Pansear's roasting and Pansage's herb-growing.",
+      "sources": ["PokemonTCG.io: sm3-36 flavorText field"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Burning Shadows (SM3), released August 5, 2017. Panpour is a low-rarity Water-type common; the set is otherwise known for Darkness-themed legendaries.",
+      "sources": ["PokemonTCG.io: sm3"]
+    },
+    {
+      "category": "design",
+      "text": "In Black and White, a Panpour was gifted to players who chose Tepig as their starter (water counters fire). The trio was designed as an early-game type-coverage distribution system.",
+      "sources": ["Bulbapedia: Elemental monkeys"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pansear", "set": "Burning Shadows", "note": "Fire-arm of the trio, same set"},
+    {"name": "Pansage", "set": "multiple", "note": "Grass-arm, completes the trio"},
+    {"name": "Simipour", "set": "multiple", "note": "Panpour's evolution via Water Stone"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

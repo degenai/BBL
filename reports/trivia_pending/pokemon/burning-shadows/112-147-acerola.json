@@ -1,0 +1,42 @@
+{
+  "card_name": "Acerola",
+  "game": "Pokemon",
+  "set": "Burning Shadows",
+  "collector_number": "112/147",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches character name exactly. Depicted figure — young girl in purple dress with twin-section purple hair, arm extended in beckoning gesture — matches Acerola's canonical appearance as Alola's Ghost-type Elite Four member and former Trial Captain of Ula'ula Island's abandoned Thrifty Megamart site. Artist Ken Sugimori is the canonical Game Freak character designer; all Burning Shadows trainer cards in his credit are official in-game character portraits. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Burning Shadows (SM3) released August 4, 2017 as the third Sun and Moon series expansion, featuring 177 cards total. The set's trainer supporter lineup spotlights Alola's full NPC cast, including Trial Captains, Kahunas, and Elite Four members from Pokemon Sun and Moon. [PokemonTCG.io API: sm3 set data]",
+      "sources": ["PokemonTCG.io API: sm3"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Acerola is the youngest member of the Alola Elite Four and the sole Ghost-type specialist. In the video games, she first appears as the Trial Captain of the abandoned Thrifty Megamart site on Ula'ula Island before later joining the Alola Pokemon League as an Elite Four member. She is the last living member of an Alolan royal family, and her armband is described as a royal heirloom from the distant past according to designer Shusuke Motomiya. [Bulbapedia: Acerola, via WebSearch]",
+      "sources": ["Bulbapedia: Acerola, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Unlike most Kanto-era Pokemon games where Ghost-type specialists are adult-coded mysterious figures (e.g. Agatha, Phoebe), Acerola deliberately subverts the archetype by placing a cheerful child in the role. Official artbooks note that, like Phoebe, Acerola can communicate with Ghost-type Pokemon — the two are the only confirmed trainers with this canonical trait across all main-series games. [Bulbapedia: Acerola, via WebSearch]",
+      "sources": ["Bulbapedia: Acerola, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Acerola Supporter card bounces one of your damaged Pokemon — along with all attached cards — back to your hand, resetting it to full health. The effect mirrors her in-game role as the Aether House caretaker who shelters injured Pokemon and orphaned children. The card saw Expanded-format play as a healing-bounce option in GX-era decks. Legality: Unlimited and Expanded legal. [PokemonTCG.io API: sm3-112]",
+      "sources": ["PokemonTCG.io API: sm3-112"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Olivia", "set": "Burning Shadows", "note": "Fellow Alola Elite Four member, same set, same artist (Ken Sugimori) — cohort pair"},
+    {"name": "Plumeria", "set": "Burning Shadows", "note": "Also SM3, same set cohort — Alola NPC trifecta"},
+    {"name": "Acerola", "set": "Burning Shadows 142/147", "note": "Full Art version of this card, artwork by Megumi Mizutani"},
+    {"name": "Mimikyu", "set": "Various", "note": "Acerola's signature trial Totem Pokemon; Ghost-type thematic anchor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

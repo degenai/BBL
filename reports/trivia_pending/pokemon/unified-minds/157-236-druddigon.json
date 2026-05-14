@@ -1,0 +1,41 @@
+{
+  "card_name": "Druddigon",
+  "game": "Pokemon",
+  "set": "Unified Minds",
+  "collector_number": "157/236",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches species name. Art depicts a blue-bodied dragon with a vivid red face and prominent spines — canonical Druddigon design. PokemonTCG.io confirms card name 'Druddigon', National Pokedex no. 621, Unified Minds (sm11-157). Identity confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Druddigon is a pure Dragon-type from Generation V (Unova) and does not evolve from or into any other Pokemon — one of a small cohort of standalone fully-evolved Dragon-types in the franchise. National Pokedex no. 621 [PokemonTCG.io sm11-157; Bulbapedia: Druddigon, via WebSearch snippet].",
+      "sources": ["PokemonTCG.io sm11-157", "Bulbapedia: Druddigon (WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text on this card (confirmed via PokemonTCG.io): 'The red skin on its face is harder than rock. In narrow caves, it squares off against its enemies and charges face-first right into them.' [PokemonTCG.io sm11-157]",
+      "sources": ["PokemonTCG.io sm11-157"]
+    },
+    {
+      "category": "design",
+      "text": "Druddigon's design draws on the red-headed rock agama and European cave dragon archetypes, with gargoyle and troll references in its cold-weather immobility mechanic. Its red face is functionally hardened skin rather than conventional coloring — a design note the flavor text directly confirms [Bulbapedia: Druddigon, via WebSearch snippet; PokemonTCG.io sm11-157].",
+      "sources": ["Bulbapedia: Druddigon (WebSearch snippet)", "PokemonTCG.io sm11-157"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Druddigon's oracle text on this card includes Drag Off — an attack that forces an opponent's Benched Pokemon into the Active position before dealing damage — a mechanic that reflects its lore as a territorial ambush predator [PokemonTCG.io sm11-157 oracle text].",
+      "sources": ["PokemonTCG.io sm11-157"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Haxorus", "set": "various", "note": "Fellow Unova Dragon — Druddigon and Haxorus are cited together as first fully evolved Dragon-types without a secondary type"},
+    {"name": "Axew", "set": "various", "note": "Fellow Unova Dragon evolution line, Generation V peer"},
+    {"name": "Druddigon", "set": "Steam Siege", "note": "Earlier TCG printing of the same species for comparison"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

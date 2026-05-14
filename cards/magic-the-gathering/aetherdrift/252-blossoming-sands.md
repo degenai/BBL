@@ -15,7 +15,7 @@ tags_filter: ["no-figures", "wide-shot", "scene-mode", "land", "green-magic", "w
 reference_image: cards/_images/magic-the-gathering/aetherdrift/252-blossoming-sands.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-10
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/6/9/69949863-2510-4fe2-a815-0682beeb08a3.png?1738356887

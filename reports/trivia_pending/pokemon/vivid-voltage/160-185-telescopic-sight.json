@@ -1,0 +1,36 @@
+{
+  "card_name": "Telescopic Sight",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "160/185",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No IP flag. Item card depicting an optical scope gadget.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Vivid Voltage is the fourth Sword & Shield series expansion, released November 13, 2020 in English. The set's headline feature was Pikachu VMAX (Gigantamax Pikachu) and the introduction of Amazing Rare cards featuring Legendary and Mythical Pokemon. Telescopic Sight is an uncommon trainer item in the same set. [Bulbapedia: Vivid Voltage TCG, via WebSearch; Pokemon.com: Vivid Voltage announcement, via WebSearch]",
+      "sources": ["Bulbapedia: Vivid Voltage TCG", "Pokemon.com: Vivid Voltage announcement"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Telescopic Sight is a Pokemon Tool granting +30 damage to attacks against Benched Pokemon V and Pokemon-GX specifically. It is one of the few tools that rewards targeting the bench rather than the active, making it a component in snipe-damage strategies that chip away at high-HP V cards before they become the active. [Pojo.com: Telescopic Sight review, via WebSearch; Limitless TCG: VIV 160, via WebSearch]",
+      "sources": ["Pojo.com: Telescopic Sight Vivid Voltage review", "Limitless TCG: VIV 160"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Toyste Beach (also the artist on Urn of Vitality in Battle Styles). The concentric red-green-yellow ring design renders the scope as a toy-like cartoon gadget — consistent with the Vivid Voltage set's colorful, high-saturation visual identity. [Frontmatter artist field]",
+      "sources": ["Frontmatter artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Telescopic Sight", "set": "Vivid Voltage (203/185 Secret Rare)", "note": "Holo Secret Rare version of the same card in the same set"},
+    {"name": "Pikachu VMAX", "set": "Vivid Voltage", "note": "Headline card of the Vivid Voltage set"},
+    {"name": "Urn of Vitality", "set": "Battle Styles", "note": "Also illustrated by Toyste Beach — Toyste Beach artist-node connection"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

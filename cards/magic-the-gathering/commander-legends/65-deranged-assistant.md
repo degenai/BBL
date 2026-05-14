@@ -14,8 +14,8 @@ tags_hub: ["wizard", "assistant", "laboratory", "alchemy", "mad-scientist", "mad
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "male-figure", "creature-human", "creature-wizard", "blue-magic", "mill", "common"]
 reference_image: cards/_images/magic-the-gathering/commander-legends/65-deranged-assistant.png
 average_cost_paid: 0
-market_price: 0.2
-market_price_as_of: 2026-05-12
+market_price: 0.21
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/7/3/73373421-c43d-4152-818a-55abc85b477a.png?1608909173

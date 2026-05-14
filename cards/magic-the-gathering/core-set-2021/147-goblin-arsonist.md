@@ -14,8 +14,8 @@ tags_hub: ["goblin", "fire", "flames", "shaman", "robed-figure", "hooded-figure"
 tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "creature-goblin", "creature-shaman", "red-magic", "common", "no-face"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/147-goblin-arsonist.png
 average_cost_paid: 0
-market_price: 0.26
-market_price_as_of: 2026-05-12
+market_price: 0.27
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/f/a/fa4bf664-3b92-4598-b905-2bc090958c8b.png?1594736650

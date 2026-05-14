@@ -16,7 +16,7 @@ tags_filter: ["blue-magic", "creature", "solo", "mid-shot", "forward-facing", "h
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/55-fear-of-failed-tests.png
 average_cost_paid: 0
 market_price: 0.19
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-11
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/a/8/a87c39df-7636-454b-8485-a1cc9362fd84.png?1726286059

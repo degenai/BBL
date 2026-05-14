@@ -1,0 +1,35 @@
+{
+  "edge_id": "wave28-e1-aether-foundation-node-proposal",
+  "shape": "node-proposal",
+  "topology": "branch",
+  "category": "missing-character-node",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/aether-foundation.md", "name": "Aether Foundation"},
+    {"type": "card", "path": "cards/pokemon/lost-thunder/168-aether-foundation-employee.md", "name": "Aether Foundation Employee (LOT-168)"}
+  ],
+  "description": "Oh, hello sir. So sorry to step in. Edgelord wanted an edge but the right move was a node, the Aether Foundation node, you see — the macro-cosmos.md body already named Aether Foundation as the deferred sibling on the corporate-philanthropic-cover-as-actual-apex-villain axis, the LOT-168 Aether Foundation Employee Supporter just landed and was the first corpus card pointing at the missing concept, so the node had to come first or the edge would have orphaned itself. I closed the loop on macro-cosmos.md as well (related_characters now includes aether-foundation, and the future-sibling See-also bullet upgraded to a wikilink with the wave-28 commissioning note). The Acerola Aether House caretaker cross-reference is documented in both the Foundation node and the parallel acerola.md node from E2. I hope that's all right.",
+  "citations": [
+    "[Bulbapedia: Aether Foundation]",
+    "[Bulbapedia: Lusamine]",
+    "[Bulbapedia: Faba]",
+    "[Bulbapedia: Aether Paradise]",
+    "[Bulbapedia: Nihilego]",
+    "[Bulbapedia: Aether Foundation Employee (Trainer class)]",
+    "[Pokemon Sun and Moon (Game Freak, 2016) primary canon]",
+    "[Pokemon Ultra Sun and Ultra Moon (Game Freak, 2017) primary canon]",
+    "[Pokemon.com — official Sun & Moon character pages]",
+    "[PokemonTCG.io API: sm8-168]",
+    "[macro-cosmos.md wave 24 commissioning, explicitly named Aether Foundation as deferred sibling]"
+  ],
+  "files_modified": [
+    "cards/_characters/aether-foundation.md (NEW)",
+    "cards/pokemon/lost-thunder/168-aether-foundation-employee.md (added characters: [aether-foundation] frontmatter)",
+    "cards/_characters/macro-cosmos.md (related_characters appended aether-foundation; See-also bullet upgraded from future-sibling stub to wave-28 commissioning wikilink)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "Solo Lusamine node — refused. Zero corpus depictions, far below 3-card threshold; documented as pending sibling in Foundation node Caveats.",
+    "Solo Faba / Gladion / Lillie nodes — refused. Zero corpus depictions each; documented as pending sibling solo nodes in Foundation node Caveats.",
+    "Aether House sub-node distinct from Foundation — deferred. The Aether House network is canonically operated by Aether Foundation; folding it into the Foundation node at the operational caretaker tier is the cleaner anchor until Aether House-specific cards (which would be location cards, not extant in corpus) warrant separate node."
+  ]
+}

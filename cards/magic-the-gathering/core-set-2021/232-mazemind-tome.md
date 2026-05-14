@@ -14,8 +14,8 @@ tags_hub: ["book", "tome", "magic", "knowledge", "library", "wizardry", "vortex"
 tags_filter: ["solo-object", "no-figure", "close-up", "forward-facing", "portrait-mode", "artifact", "blue-magic", "colorless-artifact"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/232-mazemind-tome.png
 average_cost_paid: 0
-market_price: 0.37
-market_price_as_of: 2026-05-12
+market_price: 0.38
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 art_match_confidence: high

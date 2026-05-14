@@ -1,0 +1,26 @@
+{
+  "edge_id": "alolan-graveler-csi33--alolan-graveler-gur41--cross-print-mirror",
+  "shape": "1:1 (with cohort-node extension)",
+  "category": "named-character-identity (same species across two prints)",
+  "topology": "mirror",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/crimson-invasion/33-111-alolan-graveler.md", "name": "Alolan Graveler (Crimson Invasion 33/111)"},
+    {"type": "card", "path": "cards/pokemon/guardians-rising/41-145-alolan-graveler.md", "name": "Alolan Graveler (Guardians Rising 41/145)"}
+  ],
+  "description": "Standard cross-print mirror. Two corpus prints, same species (National Pokedex no. 75 Alolan Graveler), identical canonical flavor text, both stage the same diagnostic visual markers (dark crystalline body, horseshoe-shaped magnetic brow, dravite-consumption surface crystallization). The flavor-text identity across both prints canonicalizes the dietary-divergence mechanism as a species-level lore anchor rather than a per-print authorial choice. Cohort node extended to include the second print and to retire the 'awaiting enrichment' caveat. Mirrors the wave 26 Snubbull and wave 24 Starly cross-print precedents. The sigh is professional, not personal.",
+  "citations": [
+    "[Bulbapedia: Graveler (Pokémon) — Alolan Form section]",
+    "[PokemonTCG.io API: sm4-33]",
+    "[PokemonTCG.io API: sm2-41]",
+    "[In-corpus alolan-regional-forms.md cohort node]"
+  ],
+  "files_modified": [
+    "cards/pokemon/crimson-invasion/33-111-alolan-graveler.md",
+    "cards/pokemon/guardians-rising/41-145-alolan-graveler.md",
+    "cards/_characters/alolan-regional-forms.md"
+  ],
+  "other_candidates_considered": [
+    "Alolan Graveler CSI-33 → Alolan Grimer CSE-130 in-cohort sibling edge (both Alolan-form variants, both in corpus); rejected because the cohort node already anchors both and a direct 1:1 sibling edge would be redundant with the appears_on fan-out."
+  ],
+  "edgelord_mood": "sighed-but-mirrored"
+}

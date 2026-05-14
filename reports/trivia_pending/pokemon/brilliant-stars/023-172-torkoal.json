@@ -1,0 +1,41 @@
+{
+  "card_name": "Torkoal",
+  "game": "Pokemon",
+  "set": "Brilliant Stars",
+  "collector_number": "023/172",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed. Torkoal is a Wizards/Game Freak-internal species (National Pokedex no. 324, Generation III, Hoenn). Large fire-breathing tortoise with coal-burning shell vents. No external IP concern.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Torkoal is National Pokedex no. 324, the Coal Pokemon, a pure Fire-type introduced in Generation III (Hoenn). It does not evolve — one of the few single-stage Fire-types in the game. [Pokemondb.net: Torkoal, via WebSearch; Serebii: Torkoal Pokedex, via WebSearch]",
+      "sources": ["Pokemondb.net: Torkoal", "Serebii: Torkoal Pokedex"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (this print): \"It burns coal inside its shell for energy. It blows out black soot if it is endangered.\" [Frontmatter flavor_text field, PokemonTCG.io]",
+      "sources": ["Frontmatter flavor_text (PokemonTCG.io source)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Torkoal has one of the highest base Defense stats among Fire-types (base 140) and one of the lowest base Speed stats in the game (base 20). In competitive VGC doubles, it is the primary sun setter via its Drought ability — it sets harsh sunlight on entry, boosting Fire-type moves for teammates. Its low Speed makes it ideal for Trick Room sun teams. [Smogon: Torkoal SS, via WebSearch; Pikalytics VGC 2026, via WebSearch]",
+      "sources": ["Smogon: Torkoal SS", "Pikalytics VGC 2026"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Torkoal communicates via expelled smoke, altering pitch, duration, and volume. The hexagonal shell indents are speculated in lore to also function as communication organs. It becomes immobile once coal reserves run dry. [Bulbapedia: Torkoal, via WebSearch snippet; Torkoal Neoseeker wiki, via WebSearch]",
+      "sources": ["Bulbapedia: Torkoal", "Neoseeker: Torkoal"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Torkoal", "set": "Multiple sets", "note": "Multiple prints across RS/DP/XY/SM eras"},
+    {"name": "Charizard", "set": "Multiple", "note": "Most prominent Fire-type for comparison; Torkoal's competitive niche is distinct (bulk+weather vs offense)"},
+    {"name": "Ninetales", "set": "Multiple", "note": "Also can carry Drought in some metas — direct VGC rival for sun-setter slot"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

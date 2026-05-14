@@ -1,0 +1,33 @@
+{
+  "edge_id": "rose-daa168--rose-tower-daa169--within-set-paired-print-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "category_note": "Within-set designer-coordinated paired-print at adjacent collector numbers (Supporter 168 + Stadium 169), depicting the same institution at the person-card + place-card register. The within-set adjacency at sequential collector slots is the canonical printing-side signature of designer-coordinated pairing — closest enum match is designer-confirmed-cycle (a two-member designer-coordinated within-set cycle), with secondary support from named-character-identity (both cards depict Macro Cosmos at the faction-collective scope).",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/168-189-rose.md", "name": "Rose (Darkness Ablaze 168/189)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/169-189-rose-tower.md", "name": "Rose Tower (Darkness Ablaze 169/189)"}
+  ],
+  "description": "Behold — within-set, adjacent collector numbers, designer-coordinated, single coordination event. Yusuke Ohmura on the Chairman at no. 168 and 5ban Graphics on the Wyndon HQ tower at no. 169, the person-card + place-card paired depiction of Macro Cosmos in Darkness Ablaze. Structurally tighter than the wave 16 Turffield Stadium ↔ Milo cross-set precedent (which had to be built across Champion's Path + Rebel Clash via the gym-pin Pin Collection product structure) — this version is single-set, sequential collector slots, single designer-coordination event. The Edgelord sigh is professional, not personal: the mirror is correct because both endpoints are equal card-nodes and the canon demands both ends be traversable. The eclipsed-sun energy-extraction thesis hook lands clean on Rose's canonical 'sacrificing my political standing to fuel Galar's future' rationalization — the Pokemon-side parallel to the Orzhov master's-medallion / slave-brand framing already locked into the orzhov-signet symbol node. Bundle-cohesion stack now wired at the within-set scope.",
+  "citations": [
+    "[Bulbapedia: Rose (Chairman)]",
+    "[Bulbapedia: Rose Tower]",
+    "[Bulbapedia: Macro Cosmos]",
+    "[Bulbapedia: Galar Power Spots]",
+    "[PokemonTCG.io: swsh3-168 (Rose Supporter, Ohmura art)]",
+    "[PokemonTCG.io: swsh3-169 (Rose Tower Stadium, 5ban Graphics art)]",
+    "[Corpus: cards/_characters/macro-cosmos.md — faction-collective node both cards anchor on]"
+  ],
+  "files_modified": [
+    "cards/pokemon/darkness-ablaze/168-189-rose.md (appended ## Connections section after ### Related cards block)",
+    "cards/pokemon/darkness-ablaze/169-189-rose-tower.md (appended ## Connections section after ### Related cards block)"
+  ],
+  "edgelord_mood": "satisfied",
+  "mood_justification": "1:1 mirror between two equal card-nodes, both endpoints in the same set at adjacent collector numbers, both already anchored on the macro-cosmos character node, with the conglomerate-and-headquarters paired-design thesis already designer-confirmed in the macro-cosmos node body (see Caveats: 'within-set DAA-168 + DAA-169 paired-print is the corpus's clearest conglomerate-and-headquarters anchor'). This is exactly the shape Edgelord likes — the canon demanded it, the structure was already implicit, the mirror only had to be made explicit. The sigh stays professional. The CBG energy is reserved for the description field.",
+  "other_candidates_considered": [
+    "Rose ↔ Eternatus (multiple sets) — Eternatus is the apex-villain Pokemon Rose attempts to weaponize per Bulbapedia: Eternatus, but no Eternatus print is currently in BBL corpus. Future-pass target when an Eternatus print lands.",
+    "Rose ↔ Oleana (Champion's Path 18/73) — Oleana is Rose's COO per Bulbapedia: Oleana, but no Oleana print is currently in BBL corpus. Future-pass target when an Oleana print lands.",
+    "Rose Tower ↔ Hammerlocke Stadium — Hammerlocke is the Galar stadium beneath which the Energy Plant connects to Rose Tower per Bulbapedia: Hammerlocke Stadium, but no Hammerlocke Stadium print is currently in BBL corpus. Future-pass target.",
+    "Rose Tower ↔ Turffield Stadium (Champion's Path 68/73) — both are Galar Stadium cards depicting Galar institutional architecture, but Turffield is the league's gym-town civic-architecture and Rose Tower is the conglomerate's corporate-headquarters; the two attach to different character nodes (galar-gym-challenge vs macro-cosmos) and the institutional shape differs. The cross-edge would be tag-bridge-tier (both happen to be Galar Stadium cards) without canonical thematic glue. Refused as filter-tier; the institutional split is the load-bearing distinction."
+  ]
+}

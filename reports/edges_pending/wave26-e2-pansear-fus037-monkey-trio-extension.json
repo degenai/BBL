@@ -1,0 +1,18 @@
+{
+  "edge_id": "pansear-fus-037--elemental-monkey-trio",
+  "shape": "N:1",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/fusion-strike/037-264-pansear.md", "name": "Pansear (Fusion Strike 037/264)"},
+    {"type": "character", "path": "cards/_characters/elemental-monkey-trio.md", "name": "Elemental monkey trio (Pansage / Pansear / Panpour line)"}
+  ],
+  "description": "Third corpus Pansear print joins the elemental-monkey-trio cohort node; cohort now spans 9 prints across 6 canonical species. The FUS-037 print shares verbatim flavor text with DAA-026 (the volcanic-cave-dweller Pokedex window) paired with a compositionally divergent register — comedic-action fruit-foraging mid-leap vs. DAA-026's chiaroscuro cave crouch — a textbook designer-coordinated reprint within consecutive Sword & Shield expansions. Cohort membership predicates on species identity, not set or printing; this is a cohort-thickening extension to an already-complete-at-canonical-species-coverage character node.",
+  "citations": ["[Bulbapedia: Elemental monkeys]", "[Bulbapedia: Pansear]", "[PokemonTCG.io API (swsh8-37)]"],
+  "files_modified": [
+    "cards/_characters/elemental-monkey-trio.md",
+    "cards/pokemon/fusion-strike/037-264-pansear.md"
+  ],
+  "other_candidates_considered": [],
+  "edgelord_mood": "blueballed-by-fanout"
+}

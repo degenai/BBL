@@ -1,0 +1,43 @@
+{
+  "card_name": "Cosmog",
+  "game": "Pokemon",
+  "set": "Cosmic Eclipse",
+  "collector_number": "100/236",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Cosmog'; depicted figure (small nebula-like creature, dark cosmic body, golden tuft, smiling face floating in starry void) matches the canonical Psychic-type Legendary/Nebula Pokemon, National Pokedex no. 789. Verified via card name, PokemonTCG.io metadata, Bulbapedia, and Serebii Pokedex entries.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cosmog is National Pokedex no. 789, a Psychic-type Legendary Pokemon introduced in Generation VII (Sun/Moon, 2016), known as the Nebula Pokemon. At one time in Alola's history it was known only to the royal family — called 'the child of the stars.' [Serebii.net Pokedex 789; WebSearch snippet]",
+      "sources": ["Serebii.net Pokedex (via WebSearch)", "WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Cosmog nicknamed Nebby is the emotional core of Sun/Moon's story. Lillie smuggled it out of Aether Paradise three months before the game's events begin; it later evolves into Cosmoem (under stress from Lusamine's Ultra Wormhole machine) and then into either Solgaleo (Sun/Ultra Sun) or Lunala (Moon/Ultra Moon) — making Cosmog the pre-evolutionary stage of both cover legendaries. [Bulbapedia: Nebby; WebSearch snippet from Pokemon Fandom]",
+      "sources": ["Bulbapedia: Nebby (via WebSearch)", "Pokemon Fandom Wiki: Nebby (via WebSearch)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text on this card (from frontmatter capture, artist Mizue): \"Even though its helpless, gaseous body can be blown away by the slightest breeze, it doesn't seem to care.\" — Consistent with Cosmog's in-game characterization as carefree and oblivious to its own cosmic importance. [PokemonTCG.io: sm12-99 flavorText field]",
+      "sources": ["PokemonTCG.io: sm12-99 (frontmatter capture)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "This card's sole attack is Ascension: search the deck for a card that evolves from Cosmog (Cosmoem) and put it onto this Pokemon to evolve it, then shuffle the deck. A one-card accelerated evolution pipeline reflecting Cosmog's narrative role as the beginning of an unavoidable transformation. [PokemonTCG.io: sm12-99 oracle_text; frontmatter capture]",
+      "sources": ["PokemonTCG.io: sm12-99 (frontmatter capture)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Cosmoem", "set": "Various", "note": "Cosmog's Level 43 evolution; middle stage of the legendary line"},
+    {"name": "Solgaleo-GX", "set": "Sun & Moon base", "note": "One of two possible final evolutions; Sun/Ultra Sun cover legendary"},
+    {"name": "Lunala-GX", "set": "Sun & Moon base", "note": "One of two possible final evolutions; Moon/Ultra Moon cover legendary"},
+    {"name": "Solgaleo & Lunala-GX", "set": "Cosmic Eclipse", "note": "TAG TEAM GX featuring both final forms; same Cosmic Eclipse expansion"},
+    {"name": "Lillie", "set": "Ultra Prism", "note": "Cosmog's guardian in the Sun/Moon story; multiple Supporter prints"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

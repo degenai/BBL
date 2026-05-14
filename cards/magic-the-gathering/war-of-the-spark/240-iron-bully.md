@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", 
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/240-iron-bully.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 reference_image_source_url: https://cards.scryfall.io/png/front/d/e/ded2c66e-402c-4d5c-b987-402679aa914b.png?1557577426

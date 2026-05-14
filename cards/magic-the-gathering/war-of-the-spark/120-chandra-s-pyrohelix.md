@@ -15,7 +15,7 @@ tags_filter: ["solo", "mid-shot", "faces-away", "action-mode", "red-magic", "ins
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/120-chandra-s-pyrohelix.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high
@@ -28,6 +28,7 @@ setting: other
 suspected_ip: Chandra Nalaar
 ip_confidence: high
 ip_verified: true
+characters: ["chandra-nalaar"]
 artist: Aleksi Briclot
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/120-chandra-s-pyrohelix--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/c/1c482f51-9222-4e9e-a9fd-bb14a0afe156.jpg?1557576647

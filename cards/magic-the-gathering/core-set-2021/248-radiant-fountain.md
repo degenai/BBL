@@ -14,8 +14,8 @@ tags_hub: ["fountain", "water", "sunlight", "plaza", "monument", "sanctuary", "p
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "colorless", "daytime", "architectural"]
 reference_image: cards/_images/magic-the-gathering/core-set-2021/248-radiant-fountain.png
 average_cost_paid: 0
-market_price: 0.25
-market_price_as_of: 2026-05-12
+market_price: 0.24
+market_price_as_of: 2026-05-13
 date_added: 2026-05-06
 last_seen: 2026-05-12
 art_match_confidence: high

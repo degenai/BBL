@@ -10,12 +10,13 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["izzet-league"]
 tags_hub: ["machinery", "industrial", "steampunk", "factory", "pipes", "alchemy", "fire", "steam", "laboratory", "engineering", "copper"]
 tags_filter: ["no-face", "scene-mode", "wide-shot", "land", "blue-magic", "red-magic", "multicolor-blue-red", "izzet", "no-figure"]
 reference_image: cards/_images/magic-the-gathering/modern-masters-2015/245-izzet-boilerworks.png
 average_cost_paid: 0
 market_price: 0.3
-market_price_as_of: 2026-05-12
+market_price_as_of: 2026-05-13
 date_added: 2026-05-07
 last_seen: 2026-05-12
 art_match_confidence: high

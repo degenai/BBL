@@ -1,0 +1,17 @@
+{
+  "edge_id": "sordward-and-shielbert--node-proposal-refused",
+  "shape": "refusal",
+  "topology": "n/a",
+  "category": "premature-node-proposal",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/battle-styles/135-163-sordward-shielbert.md", "name": "Sordward & Shielbert (BST-135)"}
+  ],
+  "description": "Refused. One card in corpus, vision-only, ip_verified false. Mr. Nodeley threshold is 3+ cards sharing a concept (Bolas-cluster precedent: Despark + Topple + Prison Realm). Single-card solo-pair character nodes are not standard. Wait for triviabot to flip ip_verified true (which will lock the canonical SwSh post-game antagonist-pair identity with citations) AND a second print to land OR a thematically adjacent card to materialize (e.g. Rose / Oleana / Macro Cosmos cards from same post-game arc). Re-evaluate then. Holding the line on threshold rigor; one Supporter card does not yet support a node.",
+  "citations": [
+    "[Bolas-cluster precedent: nicol-bolas.md created from 3 cards, Despark + Topple to the Pile + Prison Realm]",
+    "[bbl-characters-layer-built memory]"
+  ],
+  "files_modified": [],
+  "other_candidates_considered": [],
+  "edgelord_mood": "refused-premature"
+}

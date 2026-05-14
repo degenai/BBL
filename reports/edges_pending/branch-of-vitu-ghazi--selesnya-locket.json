@@ -1,0 +1,23 @@
+{
+  "edge_id": "branch-of-vitu-ghazi--selesnya-locket",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/258-branch-of-vitu-ghazi.md", "name": "Branch of Vitu-Ghazi"},
+    {"type": "card", "path": "cards/magic-the-gathering/guilds-of-ravnica/240-selesnya-locket.md", "name": "Selesnya Locket"}
+  ],
+  "description": "Worst proposed sweep ever? Almost. Three guilds proposed, only one cleared the bar — and not by membership grouping, by canonical-landmark naming. Branch of Vitu-Ghazi IS the Selesnya world-tree; Selesnya Locket's flavor text names Vitu-Ghazi explicitly as the place the locket's seeds spread from. That's a designer-stamped 1:1 reference, not a tag bridge. The MKM land is the axis mundi; the GRN locket is the pendant version of the same sigil. Mirror, both ends updated, citation preserved.",
+  "citations": ["[MTG Wiki: Vitu-Ghazi]", "[Scryfall: Selesnya Locket GRN-240 flavor_text]"],
+  "files_modified": [
+    "cards/magic-the-gathering/murders-at-karlov-manor/258-branch-of-vitu-ghazi.md",
+    "cards/magic-the-gathering/guilds-of-ravnica/240-selesnya-locket.md"
+  ],
+  "other_candidates_considered": [
+    "Selesnya Conclave faction-character node — 2 anchors clears the team-rocket/acerola precedent; deferred to janitor_triage as future-node candidate pending a 3rd anchor (e.g. Trostani, Conclave Tribunal, Selesnya Guildgate, Conclave Mentor).",
+    "Dimir faction-character node — 1.5 anchors (Mortus Strider GTC-179 explicit 'Dimir's best agents' flavor; Escape Tunnel MKM-261 stash/contraband-coded but no Dimir attribution). Below threshold; deferred to janitor_triage.",
+    "Boros faction-character node — 0.5 anchors (Skyknight Legionnaire GRN-198 implicit RW flying knight per the canonical Boros griffin-rider archetype, but vision-only, no trivia attribution; Boros Guildgate DGM-147 is an empty stub). Below threshold AND blocked on stub-card enrichment; deferred to janitor_triage.",
+    "Vitu-Ghazi as standalone _places/ or _symbols/ node — would require commissioning a new node-layer (no _places/ layer exists; the _symbols/ layer is built for iconographic primitives like Orzhov Signet, not for plane-specific landmarks). Architectural-tier move, too expensive for a 2-anchor case. Deferred to janitor_triage as future-layer candidate."
+  ],
+  "edgelord_mood": "sighed-but-mirrored"
+}

@@ -1,0 +1,46 @@
+{
+  "card_name": "Zygarde",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "093/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is Zygarde; PokemonTCG.io confirms nationalPokedexNumbers: [718]; flavor text and oracle text ('Core Avenger') reference Zygarde's cell-based biology canonically. Art depicts 50% Forme (serpentine, glowing green core), matching the confirmed in-game sprite. Internal Pokemon IP — no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Vivid Voltage (set code VIV / swsh4) is the fourth expansion in the Sword & Shield TCG series, released November 13, 2020 in English. Its marquee card is Pikachu VMAX (no. 044/185), tying the set's theme to Pikachu's Gigantamax form from Pokemon Sword & Shield. [PokemonTCG.io: swsh4 set metadata]",
+      "sources": ["PokemonTCG.io"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Zygarde is National Pokedex no. 718, introduced in Generation VI (Pokemon X & Y, 2013). It is the third member of the Aura Trio alongside Xerneas (Life) and Yveltal (Death), collectively representing the Norse Yggdrasil guardians: Xerneas the deer (soil), Yveltal the bird (upper tree), and Zygarde the serpent (underground). [Bulbapedia: Aura trio, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Aura trio, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Zygarde has three known formes: 10% Forme (dog-like, ~10% of cells gathered), 50% Forme (serpentine, depicted on this card), and Complete Forme (activated when HP drops below half with Power Construct ability — more powerful than either Xerneas or Yveltal). The card depicts 50% Forme. [Bulbapedia: Zygarde, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Zygarde, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Born when all of Zygarde's cells have been gathered together, it uses force to neutralize those who harm the ecosystem.\" [PokemonTCG.io: swsh4-93]",
+      "sources": ["PokemonTCG.io: swsh4-93"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Core Avenger, Zygarde's signature attack on this card, does 80 base damage + 80 bonus damage if the player has more Prize cards remaining than the opponent — a come-from-behind mechanic thematically aligned with Zygarde's lore role as the force that restores balance when the ecosystem is thrown off-order. [PokemonTCG.io: swsh4-93 oracle text]",
+      "sources": ["PokemonTCG.io: swsh4-93"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Xerneas", "set": "XY", "note": "Aura Trio member — Life counterpart to Zygarde's Order"},
+    {"name": "Yveltal", "set": "XY", "note": "Aura Trio member — Death counterpart; kalos-aura-trio node at 2/3 pre-this wave"},
+    {"name": "Zygarde GX", "set": "Forbidden Light", "note": "Alternate V-rank equivalent for the same character, Complete Forme art"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

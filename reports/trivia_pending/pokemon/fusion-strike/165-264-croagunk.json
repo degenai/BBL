@@ -1,0 +1,41 @@
+{
+  "card_name": "Croagunk",
+  "game": "Pokemon",
+  "set": "Fusion Strike",
+  "collector_number": "165/264",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Croagunk', Darkness type, Basic subtype, flavor text matches. National Pokedex no. 453, Sinnoh Toxic Mouth Pokemon. Confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "\"Once diluted, its poison becomes medicinal. This Pokémon came into popularity after a pharmaceutical company chose it as a mascot.\" One of the few species with an explicitly stated corporate-commercial relationship built into its lore. Consistent across multiple Pokedex entries.",
+      "sources": ["PokemonTCG.io: swsh8-165"]
+    },
+    {
+      "category": "design",
+      "text": "Cross-print distinction: BUS-54 (Burning Shadows, wave 14 trivia complete) is the Brock's-Croagunk anime-association print. This Fusion Strike print (no. 165/264, Nagomi Nijo art) stages Croagunk in dense tropical foliage — distinct framing from BUS-54. A third inventory print also exists: Sword & Shield base set no. 123/202.",
+      "sources": ["PokemonTCG.io: swsh8-165", "Bulbapedia: Croagunk (Fusion Strike 165)"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Nagomi Nijo, a TCG illustrator and semifinalist in the Pokemon Card Game Illustration Grand Prix. Fusion Strike was one of Nijo's more prolific sets: Pansage, Croagunk, and Goodra all appear as Nijo illustrations in swsh8.",
+      "sources": ["Bleeding Cool: Nagomi Nijo artist spotlight", "WebSearch: Nagomi Nijo Fusion Strike"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Croagunk (no. 453) is a dual-type Poison/Fighting Pokemon introduced in Generation IV (Diamond/Pearl, 2006, Sinnoh). Evolves into Toxicroak (no. 454). TCG types as Darkness in most Generation IV-era prints.",
+      "sources": ["PokemonTCG.io: swsh8-165", "Bulbapedia: Croagunk (Pokémon)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Croagunk", "set": "Burning Shadows", "note": "no. 54/147, wave 14 trivia complete, Brock's-Croagunk anime association"},
+    {"name": "Croagunk", "set": "Sword & Shield", "note": "no. 123/202, third print in inventory"},
+    {"name": "Toxicroak", "set": "various", "note": "Evolution of Croagunk"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

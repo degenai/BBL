@@ -1,0 +1,28 @@
+{
+  "edge_id": "sentret-daa135--furret-daa136--johto-sentinel-line-evolution-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/135-189-sentret.md", "name": "Sentret (Darkness Ablaze 135/189)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/136-189-furret.md", "name": "Furret (Darkness Ablaze 136/189)"}
+  ],
+  "description": "Behold. Two card-endpoints at within-set adjacency (135 and 136), depicting the same Johto two-stage Normal-type line at successive life stages. Body-plan progression (round-upright sentinel to long-sinuous burrow-builder) reads cleanly across the matched portrait + action compositions. Completes the line at full canonical 2-of-2 coverage in corpus. Caller called this the cleanest single-edge story in the candidate set — confirmed. Worth the work.",
+  "citations": [
+    "[Bulbapedia: Sentret (Pokemon) — National Pokedex no. 161, evolves to Furret at level 15]",
+    "[Bulbapedia: Furret (Pokemon) — National Pokedex no. 162, evolved Normal-type]",
+    "[PokemonTCG.io: swsh3-135 flavor_text — sentinel-on-tail behavior]",
+    "[PokemonTCG.io: swsh3-136 flavor_text — nest impossible for other Pokemon to enter]"
+  ],
+  "files_modified": [
+    "cards/pokemon/darkness-ablaze/135-189-sentret.md",
+    "cards/pokemon/darkness-ablaze/136-189-furret.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "Klang + Meltan industrial-cluster hub-population — rejected for this pass; two cards is the minimum threshold (cards/_hubs/labor.md would benefit from anchor membership but the cluster of just two is thin without a third industrial-Pokemon corpus card to triangulate the hub-attachment thesis). Surface in janitor_triage as a future-edge candidate; if a third industrial Pokemon (e.g. Klink/Klinklang lineage prior stage, Magearna, Genesect, Magnemite line) lands, the hub-anchor case strengthens.",
+    "Pupitar 1:1 with Larvitar (BUS) cross-set evolution mirror — rejected for THIS pass; Pupitar would extend the line at 2/3 but is not in the wave 23 enrichment scope and Sentret-Furret is the stronger same-set within-adjacency case. Worth Pupitar attention in a future Edgelord pass when Pupitar's enrichment lands.",
+    "Pansage/Pansear cross-print double-edge — rejected; elemental-monkey-trio node already does this work at the cohort layer.",
+    "Snubbull, Toxel — premature; bench."
+  ]
+}

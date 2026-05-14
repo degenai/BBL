@@ -1,0 +1,47 @@
+{
+  "card_name": "Rillaboom",
+  "game": "Pokemon",
+  "set": "Chilling Reign",
+  "collector_number": "018/198",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Rillaboom,' National Pokedex no. 812, large green gorilla with tree-stump drum — matches Rillaboom canonical design exactly. PokemonTCG.io confirms card name directly.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Rillaboom is National Pokedex no. 812, the final Stage 2 evolution of Grookey — the Galar Grass starter introduced in Pokemon Sword and Shield (2019). The Grookey line evolves: Grookey (level 16) to Thwackey, then to Rillaboom (level 35). [PokemonTCG.io: swsh6-18; WebSearch: Bulbapedia snippet]",
+      "sources": ["PokemonTCG.io", "WebSearch: Bulbapedia snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Rillaboom's design references Taiko drumming and the chest-beating display gorillas use to assert social dominance. In a Rillaboom troop, the individual with the best drumming technique becomes leader — challenges for leadership are settled through drum battles. Galarian folklore holds that while Rillaboom drums, the rules of nature are suspended and predator and prey dance together. [WebSearch: Bulbapedia snippet / pokemongohub.net snippet]",
+      "sources": ["WebSearch: Bulbapedia snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Rillaboom's hair design is based on the Green Man, a pagan symbol found across Great Britain representing growth and renewal from Celtic folklore. [WebSearch: pokemongohub.net snippet]",
+      "sources": ["WebSearch: pokemongohub.net snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'The one with the best drumming techniques becomes the boss of the troop. It has a gentle disposition and values harmony among its group.' [PokemonTCG.io: swsh6-18]",
+      "sources": ["PokemonTCG.io"]
+    },
+    {
+      "category": "mechanical",
+      "text": "This Chilling Reign print is a Rapid Strike subtype, matching the Rapid Strike mechanic introduced in Battle Styles. Its Raging Repeated Strike attack scales with Energy discarded — a discard-loop payoff that pairs with Rapid Strike Energy. [PokemonTCG.io: swsh6-18]",
+      "sources": ["PokemonTCG.io"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Grookey", "set": "various", "note": "First-stage Galar Grass starter; Rillaboom's base"},
+    {"name": "Thwackey", "set": "various", "note": "Mid-stage evolution between Grookey and Rillaboom"},
+    {"name": "Rillaboom VMAX", "set": "Rebel Clash", "note": "V/VMAX counterpart prints of the same species"},
+    {"name": "Scorbunny", "set": "Chilling Reign", "note": "Co-starter in the same Galar trio; also in this set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

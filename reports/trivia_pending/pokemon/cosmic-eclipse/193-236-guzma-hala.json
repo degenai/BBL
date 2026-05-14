@@ -1,0 +1,42 @@
+{
+  "card_name": "Guzma & Hala",
+  "game": "Pokemon",
+  "set": "Cosmic Eclipse",
+  "collector_number": "193/236",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Guzma & Hala'; depicted figures match canonical descriptions — one in dark jacket/sunglasses (Guzma) and one in white robes with beard and floral lei (Hala). Both are named Sun/Moon characters. Verified via PokemonTCG.io set data and Bulbapedia character pages.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cosmic Eclipse (SM12) was the twelfth and final expansion of the Sun & Moon Series, released November 1, 2019. It was the first expansion to introduce TAG TEAM Supporter cards — Guzma & Hala alongside Red & Blue and Cynthia & Caitlin. [Pokemon.com: TAG TEAM Supporters article]",
+      "sources": ["Pokemon.com official strategy article", "WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In-game lore: Guzma was once Hala's apprentice alongside Professor Kukui, aspiring to become a Trial Captain. After a series of crushing defeats against Kukui, Guzma grew disillusioned with Hala's teachings, rejected the Z-Ring path, and founded Team Skull as a refuge for those who had failed or been excluded from Alola's island challenge system. Hala himself appears at the game's end to promise to make a fine trainer out of Guzma — the TAG TEAM pairing on this card represents that fractured mentor-student arc reunited in print. [Bulbapedia: Guzma, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Guzma (via WebSearch)", "Bulbapedia: Hala (via WebSearch)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card searches the deck for a Stadium card; if 2 other cards are discarded from hand, the player may additionally search for a Pokemon Tool and a Special Energy card. This three-in-one tutoring effect made it a flexible consistency piece in Tool- and Stadium-reliant builds during its standard-legal period. [Pokemon.com card database; WebSearch snippet via TCGPlayer]",
+      "sources": ["Pokemon.com TCG card database", "WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "The card was first released in the Japanese Alter Genesis expansion before the Cosmic Eclipse English release. Artist credit is Ken Sugimori, Game Freak's lead character designer and the creator of the original 151 Pokemon — his involvement in trainer portraits is typical for full-art Supporter appearances. [PokemonTCG.io: sm12-193; WebSearch snippet]",
+      "sources": ["PokemonTCG.io frontmatter capture", "WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Guzma", "set": "Burning Shadows", "note": "Standalone Guzma supporter (BUS-115); the original Team Skull boss card"},
+    {"name": "Hala", "set": "Guardians Rising", "note": "Standalone Hala supporter; Melemele Kahuna card"},
+    {"name": "Red & Blue", "set": "Cosmic Eclipse", "note": "Fellow TAG TEAM Supporter debut in same expansion"},
+    {"name": "Cynthia & Caitlin", "set": "Cosmic Eclipse", "note": "Third TAG TEAM Supporter from Cosmic Eclipse debut batch"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}
