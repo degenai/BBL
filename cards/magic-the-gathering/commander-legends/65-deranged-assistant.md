@@ -51,3 +51,16 @@ A balding, hollow-cheeked human assistant with enormous bulging eyes and a deran
 **Iconography:** alchemy, laboratory, mad-scientist
 **Genre cues:** fantasy, gothic, mad-science
 
+## Trivia
+
+- **Set context** — Deranged Assistant originated in Innistrad (ISD, September 2011), Magic's gothic-horror plane. The mad-science flavor belongs to Innistrad's alchemist and stitcher tradition — the same plane that gave us Stitcher Geralf and Ludevic. The CMR printing is a reprint into a plane-agnostic Commander context. `[Scryfall, WebSearch: Gatherer Innistrad ISD 52]`
+- **Flavor text** — "Garl, adjust the slurry dispensers. Garl, fetch more corpses. Garl, quit crying and give me your brain tissue. If he doesn't stop being so rude, I'm quitting." The joke is told from Garl's interior monologue — the put-upon assistant contemplating quitting a job that demands his own brain tissue. The line has been cited as one of MTG's best examples of humorous horror flavor writing. `[Scryfall, WebSearch: Draftsim 40 best funniest MTG flavor text]`
+- **Mechanical reputation** — Taps and mills one card to produce one colorless mana: a mana accelerant at the cost of library erosion. EDHREC rank 4618 — the highest of all eight CMR cards in this wave, reflecting genuine Commander play in self-mill and graveyard-recursion strategies. Also sees Pauper play in budget mill decks. `[Scryfall]`
+- **Design** — The CMR reprint was previewed by MTGGoldfish in the same article as Araumi of the Dead Tide, a CMR legendary commander built around self-mill and encore (graveyard recursion). The pairing was functionally coherent — Deranged Assistant's mill-for-mana directly fuels Araumi's encore payoffs. `[Scryfall: preview source field]`
+
+### Related cards
+- Deranged Assistant (Innistrad, no. 52) — original printing
+- Deranged Assistant (Innistrad Remastered) — most recent reprint
+- Araumi of the Dead Tide (Commander Legends) — CMR legendary previewed alongside this card, self-mill synergy
+- Millikin (Odyssey) — closest mechanical analog: tap-mill-produce-colorless-mana
+- Stitcher's Supplier (Core Set 2019) — Innistrad-flavored self-mill creature, thematic kin

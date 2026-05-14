@@ -30,6 +30,7 @@ setting: void
 suspected_ip: Pan (Dragon Ball GT)
 ip_confidence: high
 ip_verified: true
+characters: [pan]
 ---
 
 # Rushing Warrior Pan (Cross Worlds)

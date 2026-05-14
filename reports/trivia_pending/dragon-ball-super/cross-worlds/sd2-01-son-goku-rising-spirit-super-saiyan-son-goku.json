@@ -1,0 +1,41 @@
+{
+  "card_name": "Son Goku // Rising Spirit Super Saiyan Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "SD2-01",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Son Goku' and 'Super Saiyan Son Goku'; the dual-face Leader format in DBSCG uses the card name as the canonical identity. Bandai official card database lists SD2-01 as a Son Goku Leader card from THE EXTREME EVOLUTION starter deck. No ambiguity — this is the primary IP character of the Dragon Ball franchise.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "SD2-01 is the Leader card of 'THE EXTREME EVOLUTION' Starter Deck (DBS-SD02), released alongside the Cross Worlds booster set (DBS-B03) in 2018. The starter deck contains 51 cards including 5 exclusive cards not available in booster packs. [DBS official product page via WebSearch snippet]",
+      "sources": ["dbs-cardgame.com via WebSearch snippet", "dbzexchange.com via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a dual-face Leader card, SD2-01 uses the DBSCG Awaken mechanic: it flips to its powered-up 'Rising Spirit Super Saiyan Son Goku' side once an Awaken condition is met (life at 3 or less), granting a +5000 power boost during the player's turn. The dual-face Leader format is the core of DBSCG gameplay — every deck is built around its Leader's Awaken arc. [WebSearch snippet: DBSCG rules]",
+      "sources": ["WebSearch snippet: DBSCG Awaken mechanic rules"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Cross Worlds set (BT3) was the third main booster for the Dragon Ball Super Card Game, released March 2018. The accompanying starter decks (SD1 and SD2) each came with exclusive Starter Rare cards not found in booster packs — making SD2-01 unobtainable outside the physical starter product. [WebSearch snippet: Amazon/Bleeding Cool Cross Worlds release]",
+      "sources": ["WebSearch snippet: Amazon B03 release", "bleedingcool.com Cross Worlds checklist via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Son Goku is the central IP character of the Dragon Ball franchise, created by Akira Toriyama and published by Shueisha. The DBS Card Game is produced by Bandai under license from Shueisha/Toei Animation. The base-form advancing pose on this card's front face mirrors Goku's standard 'come at me' gesture recognizable across Dragon Ball Z and Dragon Ball Super. [Dragon Ball franchise via broadly established IP record]",
+      "sources": ["Bandai DBS Card Game official site via WebSearch", "franchise attribution via IP record"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Broken Limits Super Saiyan 3 Son Goku", "set": "Cross Worlds", "note": "SD2-02 — same starter deck, shows the awakened SSJ3 endpoint of the same Goku arc"},
+    {"name": "Unbreakable Super Saiyan Son Goku", "set": "Cross Worlds", "note": "SD2-03 — starter-exclusive battle card; SSJ form bridge between base and SSJ3"},
+    {"name": "Explosive Spirit Son Goku", "set": "Cross Worlds", "note": "BT3-088 Super Rare — parallel booster-set Goku; same set, different rarity tier"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

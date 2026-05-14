@@ -1,0 +1,41 @@
+{
+  "card_name": "Broken Limits Super Saiyan 3 Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "SD2-02",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Super Saiyan 3 Son Goku'. DBSCG official database confirms SD2-02 as a battle card from THE EXTREME EVOLUTION starter deck featuring SSJ3 Goku at 25000 power. The SSJ3 transformation is Goku-exclusive within Dragon Ball Z/Super (no other character in this TCG set holds SSJ3). Visual markers — no eyebrows, floor-length golden hair — are the canonical diagnostic of SSJ3 in Toriyama's original design (Daizenshu). Identity unambiguous.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "SD2-02 is a battle card exclusive to the 'THE EXTREME EVOLUTION' Starter Deck (DBS-SD02) from the Cross Worlds era. At a printed power of 25000 and energy cost of 6, it represents SSJ3 as an expensive, high-power finisher in the starter's Red color identity. Starter-exclusive cards like this are not available in booster packs. [WebSearch snippet: dbs-cardgame.com card database]",
+      "sources": ["dbs-cardgame.com via WebSearch snippet", "dbzexchange.com product listing via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "The Super Saiyan 3 transformation debuted in Dragon Ball Z during the Majin Buu Saga. Toriyama's concept art (documented in the Daizenshu encyclopedia) always featured the pronounced brow ridge and absence of eyebrows — a deliberate design choice to distinguish SSJ3 from SSJ and SSJ2, making the face more feral and the form's silhouette immediately readable. [CBR: 'Why DBZ's Super Saiyan 3 Is Missing Eyebrows'; Kanzenshuu forum via WebSearch]",
+      "sources": ["cbr.com/why-dbz-ssj3-missing-eyebrows/ via WebSearch", "kanzenshuu.com/forum SSJ3 design thread via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Within Dragon Ball Z lore, SSJ3 is notorious as Goku's most powerful base-anime transformation that nonetheless never achieved a decisive victory — it stalled Majin Buu but did not defeat him, and the form's massive ki drain made it impractical. The card's name 'Broken Limits' foregrounds the transformation's narrative function as a threshold-breaker rather than a reliable weapon. [Game Rant: 'Dragon Ball Super Saiyan 3, Explained' via WebSearch; Screen Rant SSJ3 analysis via WebSearch]",
+      "sources": ["gamerant.com/dragon-ball-super-saiyan-3/ via WebSearch", "screenrant.com SSJ3 analysis via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "SSJ3's no-eyebrows visual is a known identification challenge in TCG card art — cards depicting different SSJ3 characters (Goku, Gotenks, Gohan in some media) share the same silhouette. The card title 'Super Saiyan 3 Son Goku' resolves the ambiguity explicitly, which is standard practice in the DBSCG card naming convention. [CBR: 'Every Super Saiyan 3 User' via WebSearch]",
+      "sources": ["cbr.com/dragon-ball-every-super-saiyan-3-user-facts/ via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Son Goku // Rising Spirit Super Saiyan Son Goku", "set": "Cross Worlds", "note": "SD2-01 — the Leader card in the same starter; base-form Goku that awakens toward this SSJ3 endpoint"},
+    {"name": "Unbreakable Super Saiyan Son Goku", "set": "Cross Worlds", "note": "SD2-03 — SSJ1 battle card in the same deck; the form tier between SD2-01 and SD2-02"},
+    {"name": "Super Saiyan 3 Gotenks", "set": "various", "note": "The only other DBSCG character with SSJ3; same no-eyebrows silhouette challenge"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

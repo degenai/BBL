@@ -1,0 +1,32 @@
+{
+  "edge_id": "wave67-e3-saonel-dual-pointer-u6-cohort",
+  "shape": "1:1",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-057-namekian-duo-saonel.md", "name": "Namekian Duo Saonel"},
+    {"type": "character", "path": "cards/_characters/universe-6-tournament-cohort.md", "name": "Universe 6 Tournament cohort"}
+  ],
+  "description": "Wave 66 deferred candidate. Edgelord, sober and laconic: BT4-057 Saonel is canonically a Universe 6 Tournament of Power participant per its own already-applied Trivia ('Saonel is a Namekian from Universe 6 who, alongside partner Pilina, absorbed most of their universe's Namekian population before the Tournament of Power'). The card carries characters: [namekian] only. Extending to characters: [namekian, universe-6-tournament-cohort] is the dual-pointer pattern parallel to Cabba's [saiyan, universe-6-tournament-cohort] precedent — race-level plus within-arc-cohort. Note: the wave-66 prompt premised a 'Saonel + Pirina' pair but only BT4-057 exists in corpus (Pirina has no separate print; she is co-referenced on Saonel's card only). Single-card dual-pointer move is still clean. Pushes U6 cohort 9 -> 10 anchors. The corresponding namekian node's related_characters now includes universe-6-tournament-cohort mirror.",
+  "citations": [
+    "[bt4-057-namekian-duo-saonel.md Trivia section: Universe 6 + Tournament of Power canon]",
+    "[Dragon Ball Wiki: Saonel page]",
+    "[Screen Rant: Universe 6 Team]",
+    "[Bleeding Cool BT4 Checklist]",
+    "[universe-6-tournament-cohort.md Caveats: 'Universe 6 Namekians dual-pointer pattern (future)' — now activated]"
+  ],
+  "files_modified": [
+    "cards/dragon-ball-super/colossal-warfare/bt4-057-namekian-duo-saonel.md (characters dual-pointer extended)",
+    "cards/_characters/universe-6-tournament-cohort.md (appears_on extended bt4-057; related_characters extended destroyer-god-attendant-dyad)",
+    "cards/_characters/namekian.md (related_characters extended universe-6-tournament-cohort)"
+  ],
+  "wave": 67,
+  "move": "E3",
+  "edgelord_mood": "enlightened-deliberate",
+  "other_candidates_considered": [
+    "Pirina solo print — does not exist in corpus, only co-referenced on Saonel card",
+    "BT4-053 Nail re-point to U6 cohort — REFUSED, Nail is canonically Universe 7 Frieza-Saga Namekian, NOT U6; the wave-66 prompt's pairing of BT4-053+BT4-057 was an error and would have miscategorized Nail",
+    "Vegeta solo extension — wave 66 already attached Vegeta to 4 anchors; no fresh unwired Vegeta prints surfaced in this wave's scope",
+    "Trunks solo extension — wave 66 already attached BT1-039; the other Trunks prints listed in trunks.md appears_on are all already attached"
+  ]
+}

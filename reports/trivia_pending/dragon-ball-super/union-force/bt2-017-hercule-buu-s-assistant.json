@@ -1,0 +1,41 @@
+{
+  "card_name": "Hercule, Buu's Assistant",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-017",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Hercule, Buu's Assistant'. Vision confirms heavyset man with prominent thick black mustache, theatrical bravado pose — canonical Mr. Satan / Hercule design. Named card.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Hercule (Mr. Satan in the original Japanese) is the reigning World Martial Arts Champion who took public credit for defeating Cell at the Cell Games — a victory actually won by Gohan. Since then he has been worshipped by nearly the entire population of Earth and has become fabulously wealthy. [Dragon Ball Wiki: Mr. Satan, via WebSearch snippet; CBR: 'Dragon Ball Z: Hercule Was (Unintentionally) a Hero During the Cell Games']",
+      "sources": ["Dragon Ball Wiki: Mr. Satan, via WebSearch snippet", "CBR article, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Following Goku and allies' defeat of Majin Buu, Goku and his friends willingly allowed Hercule to again claim public credit — both to respect his genuine friendship with Buu and because the Z Warriors have no interest in public recognition. The three-saga credit arc (Cell Games, Buu Saga, Tournament of Power spectator) establishes Hercule as the franchise's canonical face of credited labor over actual labor. [Wikipedia: Mr. Satan; Dragon Ball Wiki: Mr. Satan, via WebSearch snippets]",
+      "sources": ["Wikipedia: Mr. Satan, via WebSearch snippet", "Dragon Ball Wiki: Mr. Satan, via WebSearch snippet"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Hercule's role in the Buu Saga contains a genuine pivot: his friendship with Fat Buu was instrumental in calming the creature and ultimately influenced Buu's final-form choice of mercy over destruction. Hercule's labor here was real — but the public credit remained structured around his manufactured champion persona. [CBR: 'Dragon Ball: The World Protector's Mr. Satan, Explained', via WebSearch snippet]",
+      "sources": ["CBR, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Dragon Ball Super's Universe Survival Arc, Hercule serves primarily as emotional anchor for Majin Buu's participation in the Tournament of Power exhibition matches — Buu's ring-clearing rage was directly triggered by Hercule being hurt. Hercule was not selected for Universe 7's tournament team. [Dragon Ball Wiki: Universe Survival Saga, via WebSearch snippet]",
+      "sources": ["Dragon Ball Wiki: Universe Survival Saga, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Majin Buu Revived", "set": "Union Force BT2-028", "note": "Hercule's canonical friendship partner; the Buu-Hercule bond is foundational to Buu Saga resolution"},
+    {"name": "Videl, Gohan's Partner", "set": "Union Force BT2-018", "note": "Videl is Hercule's daughter; family cohort"},
+    {"name": "Gohan", "set": "various", "note": "Gohan defeated Cell; Hercule took the credit"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

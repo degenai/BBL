@@ -1,0 +1,41 @@
+{
+  "card_name": "Son Goku // Heightened Evolution Super Saiyan 3 Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-032",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly identifies Son Goku on both faces. Orange gi, spiky hair, blue energy aura are Goku's canonical visual identifiers. The card name 'Super Saiyan 3 Son Goku' on the flip side directly names the IP. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cross Worlds (DBS-B03) was the third booster set for the Dragon Ball Super Card Game, released March 9, 2018. It introduced a mix of Dragon Ball Z Buu Saga and Dragon Ball GT characters, making it the first set to pull substantially from the post-Cell era of the anime. [dbs-cardgame.com product page, via WebSearch]",
+      "sources": ["dbs-cardgame.com", "WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT3-032 is a double-faced Leader card, a card type where the base-form side (Son Goku, base) flips during play to reveal the powered-up transformation side (Super Saiyan 3 Son Goku). Leader cards are the flagship mechanic of the Dragon Ball Super Card Game, mirroring the series' escalation structure. [dbs-cardgame.com card list, via WebSearch]",
+      "sources": ["dbs-cardgame.com", "WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Super Saiyan 3 debuted in Dragon Ball Z episode 245 (Buu Saga, 2002 broadcast), notable for a transformation sequence nearly five minutes long — one of the longest power-up sequences in the series. The form's diagnostic markers are golden hair extending far down the back, absence of eyebrows, and greenish-blue eyes. [Dragon Ball Wiki via WebSearch snippet; CBR 'Super Saiyan 3, Explained']",
+      "sources": ["Dragon Ball Wiki (WebSearch snippet)", "CBR"]
+    },
+    {
+      "category": "design",
+      "text": "The SSJ3 form appears simultaneously in Cross Worlds on two card types: this BT3-032 Leader flip-side and the standalone Battle Card SD2-02 'Broken Limits Super Saiyan 3 Son Goku' from the SD2 Extreme Evolution starter. The same transformation depicted twice in the same release wave is a deliberate designer-cohort signal, giving players multiple ways to build around the form. [dbs-cardgame.com SD2 card list, via WebSearch]",
+      "sources": ["dbs-cardgame.com", "WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Broken Limits Super Saiyan 3 Son Goku", "set": "Cross Worlds (SD2-02)", "note": "Same SSJ3 form, same Cross Worlds wave — designer-cohort pairing"},
+    {"name": "Pressure Assault Super Saiyan Son Goku", "set": "Cross Worlds (BT3-058)", "note": "Same set, same character, SSJ1 form — Goku transformation ladder in BT3"},
+    {"name": "Son Goku // Rising Spirit Super Saiyan Son Goku", "set": "Cross Worlds (SD2-01)", "note": "Parallel Leader card in SD2 starter — same character, base-to-SSJ1 flip"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

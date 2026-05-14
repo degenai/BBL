@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["leonin", "rally", "beacon", "triumph", "light", "leader", "cat", "revolution", "call-to-arms", "planeswalker", "hero"]
+tags_filter: ["group", "wide-shot", "forward-facing", "white-magic", "instant", "action-mode"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/18-ignite-the-beacon.png
 average_cost_paid: 0
 market_price: 0.25
@@ -29,6 +29,36 @@ oracle_text: Search your library for up to two planeswalker cards, reveal them, 
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: sublime
+time_of_day: indeterminate
+setting: urban
+subject_known_ip: true
+suspected_ip: Ajani Goldmane
+ip_confidence: high
+ip_verified: false
 ---
 
 # Ignite the Beacon (War of the Spark)
+
+## Vision
+
+![18-ignite-the-beacon](../../_images/magic-the-gathering/war-of-the-spark/18-ignite-the-beacon.png)
+
+> [!warning] Suspected IP: **Ajani Goldmane** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A powerfully built leonin (cat-humanoid) figure stands center frame with both arms raised high, head thrown back in a roar. The figure is muscular and broad, with a furred chest and leonine features clearly visible. Broad beams of warm orange-gold light radiate from above and behind, framing the figure like a beacon. Behind and to either side, several smaller robed and hooded humanoid figures are visible, apparently assembled or rallied by this call. The mood is triumphant and rallying. The flavor text quotes Ajani Goldmane and the oracle effect searches for planeswalkers, making the IP flag strong.
+
+**Subject:** A large leonin or cat-humanoid figure with arms raised triumphantly in a beam of light, roaring, with robed figures visible behind
+
+**Composition:** wide, action, figures: group, facing: forward
+**Setting:** urban, indeterminate, clear
+**Foreground:** Leonin figure with arms raised in triumph, beams of light behind  *(palette: warm gold, tan fur, orange)*
+**Background:** Robed and hooded figures, dramatic golden light beams, architectural silhouettes  *(palette: deep orange, amber, dark brown)*
+**Mood / lighting:** sublime, backlit
+**Emotion read:** triumphant roar, rallying cry, exultant hope
+**Objects:** light beams, bandages or cloth wrappings on hands
+**Creatures:** leonin
+**Iconography:** beacon light, raised arms
+**Genre cues:** fantasy
+

@@ -1,0 +1,41 @@
+{
+  "card_name": "Time Trauma Masked Saiyan",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-117",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Wave 65 Edgelord saiyan-node sidecar canonicalized this as Bardock under Towa's mask. Confirmed by independent research: the Masked Saiyan identity as Xeno Bardock (Goku's father) placed under Time Breaker mind control by Towa is established across Dragon Ball Xenoverse, Dragon Ball Online, and Dragon Ball Heroes. The mask was created by Towa using Demon Realm technology and supplies Dark Ki. The 'Time Trauma' subtitle references the time-manipulation trauma inflicted on Bardock. Fully verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Masked Saiyan is canonically Xeno Bardock — Goku's father — captured and placed under Time Breaker mind control by Towa after his battle with Chilled. Towa's mask delivers a steady supply of Dark Ki to keep him subjugated; breaking the mask frees him. This identity is established in Dragon Ball Online, Dragon Ball Heroes (God Mission 1), and Dragon Ball Xenoverse 2. [Dragon Ball Wiki: Xeno Bardock, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: Xeno Bardock, via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The 'Time Trauma' subtitle on BT4-117 is a Bandai-coined name for the card but reflects the character's lore function: Bardock is weaponized against the very timelines he fought to protect, his Saiyan battle-instincts turned into a delivery mechanism for Time Breaker violence. The berserker charge depicted in the art (arm forward, orange energy blazing) matches his Great Ape-adjacent unrestrained aggression under the mask. [Xeno Bardock article: Videogaming Wiki, via WebSearch]",
+      "sources": ["Xeno Bardock: Videogaming Wiki, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "BT4-117 carries both [xenoverse-villains] and [saiyan] character tags — one of the few cards in the set that bridges the Time Breaker villain cluster and the Saiyan bloodline cluster. This dual-wiring reflects Bardock's narrative position: he is simultaneously the Time Breakers' weapon AND a Saiyan warrior whose power they are exploiting. The card's mechanics (a BT4 Uncommon) position him as a mid-tier threat. [Wave 65 Edgelord saiyan-node sidecar; dbs-cardgame.com Colossal Warfare Design Concept, via WebSearch]",
+      "sources": ["Wave 65 Edgelord saiyan-node sidecar", "dbs-cardgame.com Colossal Warfare Design Concept, via WebSearch"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community note: Masked Saiyan / Xeno Bardock is one of Dragon Ball Heroes' most popular additions to the Bardock mythology, expanding Goku's father from a single-episode DBZ special into a time-spanning Xenoverse figure. His inclusion in BT4 alongside the Demigra villain cluster signals Colossal Warfare's ambition to serve Heroes-centric collectors. [CBR: Dragon Ball — All Forms of Bardock Explained, via WebSearch]",
+      "sources": ["CBR: Dragon Ball — All Forms of Bardock Explained, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Gravy, in Demigra's Thrall", "set": "Colossal Warfare", "note": "BT4-114 — fellow Time Breaker-thralled combatant in BT4"},
+    {"name": "Putine, in Demigra's Thrall", "set": "Colossal Warfare", "note": "BT4-116 — consecutive cluster in the thrall-villain group"},
+    {"name": "Tokitoki, Time Creator", "set": "Colossal Warfare", "note": "BT4-119 — the Time Patrol's divine bird; counterpart to the Time Trauma cluster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Masked Saiyan / Bardock under Towa's mask (Dragon Ball Xenoverse)",
+    "ip_confidence": "high"
+  }
+}

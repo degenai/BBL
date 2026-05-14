@@ -51,3 +51,19 @@ A central robed figure stands before a fortified stone keep, body twisted backwa
 **Iconography:** magical burst, shockwave, fortress
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set context** — Fall from Favor is a CMR-original card (Scryfall: reprint: false) with no flavor text. It is one of two CMR commons in this slate that grant the Monarch — the other is Azure Fleet Admiral (CMR 58). CMR brought Monarch to common rarity for the first time, making it a recurring draft theme rather than a rare luxury. `[Scryfall, WebSearch: Draftsim monarch mechanic history]`
+- **Mechanical reputation** — Fall from Favor is banned in Pauper, the only format where commons can create format-warping pressure. Wizards announced the ban on January 14, 2021 — less than two months after CMR's November 20, 2020 release. The card simultaneously tapped a blocker, granted the Monarch card-draw engine, and locked the enchanted creature from untapping unless its controller reclaimed the crown. That compression of creature-tap, soft lock, and card advantage into one three-mana common Aura was ruled too powerful for Pauper's metagame. It remains legal in Commander, Legacy, Vintage, and PauperCommander. `[Scryfall, WebSearch: Star City Games "Fall From Favor Banned in Pauper", WebSearch: magic.wizards.com January 14 2021 Banned and Restricted Announcement]`
+- **Design** — The Scryfall all_parts field links Fall from Favor to The Monarch token as a designed combo_piece — it is a deliberate component of CMR's Monarch theme cluster alongside Azure Fleet Admiral and the Court cycle of enchantments. `[Scryfall]`
+- **Design** — Artist Caio Monteiro's composition visualizes political disgrace as a physical curse: the robed figure staggers under a blue magical burst before the seat of power, arms limp, body reeling. The previewer was MTG Muddstah (YouTube, October 30, 2020). `[Scryfall: preview source field]`
+
+### Related cards
+- The Monarch (Commander Legends Tokens) — Scryfall all_parts combo_piece link
+- Azure Fleet Admiral (Commander Legends, no. 58) — the other CMR common Monarch-granter, design cluster partner
+- Court of Grace (Commander Legends) — CMR Court cycle card, rewards staying Monarch
+- Domestication (Magic 2015) — blue Aura with tap-and-control effect at uncommon, mechanical ancestor
+
+## Connections
+
+- [[58-azure-fleet-admiral]] — Designer-coordinated Monarch-at-common cohort within CMR. Both cards are the two CMR commons that grant the Monarch on resolve; both link to The Monarch token via Scryfall's `all_parts` combo_piece field as designed components of the set's Monarch theme cluster. CMR (November 2020) was the first Magic set to bring the Monarch mechanic to common rarity. Fall from Favor was banned in Pauper on January 14, 2021 — fifty-five days post-release — confirming via failure mode that the Monarch-at-common bracket was a designer-conscious push. [Scryfall: all_parts combo_piece field] [magic.wizards.com: January 14, 2021 Banned and Restricted Announcement]

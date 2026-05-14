@@ -1,0 +1,41 @@
+{
+  "card_name": "Explorer Bulma",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-093",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Explorer Bulma' — explicit character name in title. Hover-bike rider framing, yellow color, Special (Model Kit) trait all consistent with Bulma's established vehicle-and-tech register. Card name is direct evidence per anti-conflation rule criterion (a).",
+  "trivia_bullets": [
+    {
+      "category": "mechanical",
+      "text": "Explorer Bulma (BT4-093, Common, Yellow) costs 3 yellow energy for 10,000 power and carries an [Auto] on play: mill up to 2 cards to the Drop Area, switch up to 2 energy to Active Mode, draw 1 card. The dual energy-refresh is notably stronger than Multimech Bulma's single-energy refresh for one additional cost, making it a wider refuel effect at common rarity. [WebSearch: DBZExchange BT4-093; cartajouer.com listing]",
+      "sources": ["WebSearch: DBZExchange BT4-093", "WebSearch: cartajouer.com BT4-093"]
+    },
+    {
+      "category": "design",
+      "text": "BT4-093 carries the Special (Model Kit) trait — a niche trait shared by limited characters in BT4 — distinguishing Bulma as part of the game's Special-era grouping rather than fitting cleanly into a saga-arc alignment. This trait signals the design team treating Bulma as a cross-era support character rather than pinning her to the Tournament of Power or Saiyan Saga structures that dominate BT4. [WebSearch: totalcards.net BT4-093 listing]",
+      "sources": ["WebSearch: totalcards.net BT4-093"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Bulma's mobility apparatus — bikes, planes, capsule vehicles — is one of the franchise's oldest visual throughlines. Her Dragon Ball debut panel showed her next to a Capsule Corp motorbike. Explorer Bulma's hover-bike composition continues that motif into the Super era, framing her independence as inseparable from her access to Capsule Corp technology. [Wikipedia: Bulma via WebSearch]",
+      "sources": ["Wikipedia: Bulma (WebSearch)"]
+    },
+    {
+      "category": "design",
+      "text": "Explorer Bulma received a tournament promo stamp variant (BT4-093_PR) distributed at Origins 2019, indicating it was selected for organized-play promotion — a distinction that signals above-average play utility or community recognition for the card at the time. [WebSearch: plentyofgames.com.au Origins 2019 promo listing]",
+      "sources": ["WebSearch: plentyofgames.com.au BT4-093_PR listing"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Multimech Bulma", "set": "Colossal Warfare", "note": "BT4-092, adjacent inventor register, same character"},
+    {"name": "Dependable Mom Bulma", "set": "Colossal Warfare", "note": "BT4-013, mother-register Bulma in the same set"},
+    {"name": "Explorer Bulma (Origins 2019)", "set": "Tournament Promotion Cards", "note": "BT4-093_PR promo stamp variant of this card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

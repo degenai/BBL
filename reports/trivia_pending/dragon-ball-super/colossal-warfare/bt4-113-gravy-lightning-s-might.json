@@ -1,0 +1,41 @@
+{
+  "card_name": "Gravy, Lightning's Might",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-113",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is literally 'Gravy, Lightning's Might'. Large armored humanoid with lightning motif matches Demon God Gravy's visual design from Dragon Ball Heroes. Thunder Sentence is Gravy's signature Super Attack in Heroes. BT4-113 is the base/pre-thrall version — 'Lightning's Might' subtitle distinguishes it from BT4-114's thralled form.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Colossal Warfare (BT4) was designed around Demigra leading an army of 'colossal foes' — the set even introduced oversized Leader Cards twice the normal size to reinforce the theme of giant-scale battles. Gravy, as a Demon God, fits directly into that design brief. [dbs-cardgame.com: Colossal Warfare Design Concept, via WebSearch]",
+      "sources": ["dbs-cardgame.com: Colossal Warfare Design Concept, via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Gravy is a Dragon Ball Heroes original character, not from the main anime or manga. He was originally a wizard in the Heavenly Realm who joined Demigra and was later elevated to Demon God status by Mechikabura, the Dark Empire's supreme ruler. BT4-113 represents his pre-thrall Demon God form — still acting under his own dark allegiance rather than Demigra's direct mind control. [Dragon Ball Wiki: Gravy, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: Gravy, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "BT4-113 is a Black Uncommon Battle card with 20000 power and carries the [Dark Over Realm 2] keyword — the set's signature new skill that lets cards persist out of the Warp (unlike Series 3's [Over Realm]) while also eliminating opponent cards. Gravy's card is one of the early showcases for that mechanic. [DBZ Exchange: BT4-113, via WebSearch]",
+      "sources": ["DBZ Exchange: BT4-113, via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Gravy's signature attack in Dragon Ball Heroes is called 'Thunder Sentence,' matching the lightning-motif subtitle on this card. The 'Lightning's Might' naming directly references that Super Attack. His white-and-silver armor aesthetic distinguishes him visually from the dark-robed thralled variant on BT4-114. [Videogaming Wiki: Gravy (Dragon Ball), via WebSearch]",
+      "sources": ["Videogaming Wiki: Gravy (Dragon Ball), via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Gravy, in Demigra's Thrall", "set": "Colossal Warfare", "note": "BT4-114 — same character post-Demigra mind control; directly paired with this card"},
+    {"name": "Putine, in Demigra's Thrall", "set": "Colossal Warfare", "note": "BT4-116 — Gravy's co-conspirator from the Heavenly Realm, also shown thralled"},
+    {"name": "Demigra", "set": "Colossal Warfare", "note": "The villain exercising thrall over Gravy and Putine in BT4"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Gravy (Dragon Ball Heroes / Xenoverse)",
+    "ip_confidence": "high"
+  }
+}

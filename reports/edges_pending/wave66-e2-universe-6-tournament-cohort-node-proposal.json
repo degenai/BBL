@@ -1,0 +1,54 @@
+{
+  "edge_id": "wave66-e2-universe-6-tournament-cohort-node-proposal",
+  "shape": "node-proposal",
+  "category": "designer-coordinated-cycle",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/universe-6-tournament-cohort.md", "name": "Universe 6 Tournament cohort"},
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-002-vados-aide-vados.md", "name": "Vados // Aide Vados (BT1-002)"},
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-003-hit-assassin-hit.md", "name": "Hit // Assassin Hit (BT1-003)"},
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-006-scheming-champa.md", "name": "Scheming Champa (BT1-006)"},
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-007-manipulating-god-champa.md", "name": "Manipulating God Champa (BT1-007)"},
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-013-raging-cabba.md", "name": "Raging Cabba (BT1-013)"},
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-016-unceasing-evolution-frost.md", "name": "Unceasing Evolution Frost (BT1-016)"},
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-019-botamo-of-universe-6.md", "name": "Botamo of Universe 6 (BT1-019)"},
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-020-iron-wall-magetta.md", "name": "Iron Wall Magetta (BT1-020)"},
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-027-cabba-s-awakening-2017.md", "name": "Cabba's Awakening (BT1-027)"}
+  ],
+  "description": "Edgelord defers. Mr. Nodeley apologizes for the inconvenience, sir. Nine cards in the founding DBSCG booster (Galactic Battle BT1, 2017) share a designer-coordinated narrative spine: Champa's Universe 6 tournament-warrior-roster across the Champa Arc (DBS chapters 7-13 / episodes 28-41, 2015-2016) and the Universe Survival Saga / Tournament of Power (DBS chapters 28-43 / episodes 78-131, 2017-2018). The cohort is canonically organized around the Champa + Vados destroyer-god / angel-attendant command-dyad and fields the cross-species Hit / Cabba / Frost / Botamo / Magetta mortal-roster. Bandai's BT1 launch-set design encoded the then-newly-introduced multiverse cosmology as the founding set's narrative spine — 9 corpus anchors across the set's first 30 numbered cards. Bullet-point thesis: cosmic-class destroyer gods deploy cross-species mortal-warrior-labor in their god-wager-feud, which maps directly onto the [[labor]] hub's apparatus-of-extraction axis. If it's not too much trouble, sir, the node would unlock a clean Discrete Lair anchor for the BT1 set plus a parallel-cohort precedent for a future Universe 7 cohort node (Beerus + Whis + Z-warriors). I hope this is helpful.",
+  "citations": [
+    "[Dragon Ball Wiki: Universe 6 — primary canonical reference for parallel-universe cosmology, Champa-as-destroyer-god, Vados-as-attendant, and U6 mortal-roster]",
+    "[Dragon Ball Wiki: Champa — destroyer-god decision-maker role + Beerus-elder-twin sibling relationship]",
+    "[Dragon Ball Wiki: Vados — attendant-trainer-class role + Whis-elder-sister sibling relationship]",
+    "[Dragon Ball Wiki: Hit, Cabba, Frost, Botamo, Magetta — per-character canonical pages]",
+    "[Dragon Ball Wiki: Tournament of Destroyers — canonical Champa-vs-Beerus tournament-wager arc]",
+    "[Dragon Ball Wiki: Universe Survival Saga / Tournament of Power — canonical Zeno-ordered universe-erasure tournament arc]",
+    "[Dragon Ball Super manga (Toyotarou, Shueisha, 2015-ongoing) chapters 7-13 + 28-43]",
+    "[Dragon Ball Super anime (Toei Animation, 2015-2018) episodes 28-41 + 78-131]",
+    "[dbs-cardgame.com — Galactic Battle BT1 product page]"
+  ],
+  "files_modified": [
+    "cards/_characters/universe-6-tournament-cohort.md (CREATED — Mr. Nodeley wrote the node body)"
+  ],
+  "frontmatter_wires_pending_parent_apply": [
+    {"card": "cards/dragon-ball-super/galactic-battle/bt1-002-vados-aide-vados.md", "field": "characters", "action": "add", "value": "universe-6-tournament-cohort"},
+    {"card": "cards/dragon-ball-super/galactic-battle/bt1-003-hit-assassin-hit.md", "field": "characters", "action": "add", "value": "universe-6-tournament-cohort"},
+    {"card": "cards/dragon-ball-super/galactic-battle/bt1-006-scheming-champa.md", "field": "characters", "action": "add", "value": "universe-6-tournament-cohort"},
+    {"card": "cards/dragon-ball-super/galactic-battle/bt1-007-manipulating-god-champa.md", "field": "characters", "action": "add", "value": "universe-6-tournament-cohort"},
+    {"card": "cards/dragon-ball-super/galactic-battle/bt1-013-raging-cabba.md", "field": "characters", "action": "extend", "value": "universe-6-tournament-cohort", "note": "card already has characters: [saiyan]; result becomes [saiyan, universe-6-tournament-cohort] per dual-pointer pattern"},
+    {"card": "cards/dragon-ball-super/galactic-battle/bt1-016-unceasing-evolution-frost.md", "field": "characters", "action": "add", "value": "universe-6-tournament-cohort"},
+    {"card": "cards/dragon-ball-super/galactic-battle/bt1-019-botamo-of-universe-6.md", "field": "characters", "action": "add", "value": "universe-6-tournament-cohort"},
+    {"card": "cards/dragon-ball-super/galactic-battle/bt1-020-iron-wall-magetta.md", "field": "characters", "action": "add", "value": "universe-6-tournament-cohort"},
+    {"card": "cards/dragon-ball-super/galactic-battle/bt1-027-cabba-s-awakening-2017.md", "field": "characters", "action": "extend", "value": "universe-6-tournament-cohort", "note": "card already has characters: [saiyan]; result becomes [saiyan, universe-6-tournament-cohort] per dual-pointer pattern"}
+  ],
+  "dual_wire_candidates_surfaced": [
+    "Cabba + Cabba's Awakening (BT1-013 + BT1-027) — already wired to saiyan in wave 65; this commission extends both to dual-pointer [saiyan, universe-6-tournament-cohort]",
+    "Beerus + Whis U7 destroyer-god/attendant dyad (BT1-042 + BT1-043) — parallel-PAIRING to Champa+Vados U6 dyad; BOTH currently vision-pending (NOT 'just vision-applied this wave' per prompt — prompt was inaccurate; disk state confirms tags_hub: []); future-node candidate for `universe-7-team.md` when vision-enriched",
+    "Champa solo node — 2 corpus prints (BT1-006 + BT1-007), below 3-anchor solo-character threshold; deferred until third Champa-print arrives in corpus",
+    "Vados solo node — 1 corpus print (BT1-002), below threshold; deferred",
+    "Saonel + Pirina (BT4-053 / BT4-057) — U6 Namekians per canonical Dragon Ball Wiki; future enlightened-Edgelord pass could re-point them from characters: [namekian] to dual-pointer characters: [namekian, universe-6-tournament-cohort], raising cohort appears_on count to 11; deferred"
+  ],
+  "other_candidates_considered": [],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "notes": "9-card cohort at the founding DBSCG launch-set's narrative spine — Mr. Nodeley quietly believes this is the largest single-arc within-set sub-cohort yet commissioned within DBS-CG (xenoverse-villains has 7 anchors across 2 sets). The dual-pointer pattern with [[saiyan]] (Cabba pair) and future-pointer pattern with [[namekian]] (Saonel/Pirina deferred) gives the cohort architectural compatibility with the existing race-level character nodes. The U7-parallel future-node candidate is the highest-value follow-on once Beerus + Whis are vision-enriched. Substrate counter: 69 -> 70 nodes."
+}

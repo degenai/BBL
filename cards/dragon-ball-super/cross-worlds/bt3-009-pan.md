@@ -30,6 +30,7 @@ setting: other
 suspected_ip: Pan (Dragon Ball GT)
 ip_confidence: high
 ip_verified: true
+characters: [pan]
 ---
 
 # Pan (Cross Worlds)

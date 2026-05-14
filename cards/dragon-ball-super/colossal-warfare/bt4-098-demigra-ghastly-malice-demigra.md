@@ -31,7 +31,7 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Demigra (Dragon Ball Xenoverse)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Demigra // Ghastly Malice Demigra (Colossal Warfare)
@@ -40,8 +40,8 @@ ip_verified: false
 
 ![bt4-098-demigra-ghastly-malice-demigra](../../_images/dragon-ball-super/colossal-warfare/bt4-098-demigra-ghastly-malice-demigra.png)
 
-> [!warning] Suspected IP: **Demigra (Dragon Ball Xenoverse)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Demigra (Dragon Ball Xenoverse)**
+> Confirmed via card name ("Demigra // Ghastly Malice Demigra") and Demon God Leader card designation in the Dark Demon Realm Saga archetype. [Dragon Ball Wiki: Demigra; WebSearch: BigOrbitCards BT4-098]
 
 A tall humanoid figure dominates the frame in a commanding, imperious pose. The figure wears a dramatic outfit of dark tones with a large purple and magenta cape or collar that fans out widely. Tall pointed headgear crowns the figure. The coloring is vivid pink, magenta, and dark tones. The background is a chaotic burst of dark energy and contrast. The overall impression is theatrical villainy at maximum register. The face shows cold contempt or dark amusement.
 
@@ -55,4 +55,16 @@ A tall humanoid figure dominates the frame in a commanding, imperious pose. The 
 **Emotion read:** cold contempt, theatrical menace, imperious authority
 **Iconography:** cape, pointed-headgear, dark-energy
 **Genre cues:** anime, fantasy
+
+## Trivia
+
+- **Set lore** — Demigra is the main antagonist of Dragon Ball: Xenoverse (2015, Dimps/Bandai Namco). His goal was to escape the Crack of Time — a dimensional prison where Supreme Kai of Time Chronoa sealed him for over 75 million years — and destroy and rewrite all of Dragon Ball's history. Time distortions created by Mira and Towa gradually weakened the seal, allowing Demigra to act through illusions. [WebSearch: Dragon Ball Wiki Demigra (Fandom)]
+- **Mechanical** — Demigra // Ghastly Malice Demigra (BT4-098, Rare) is the double-sided Leader card for the black Dark Demon Realm Saga archetype in BT4. The front-side [Auto] mills 3 cards when attacking a Leader and draws 1 card if all milled cards are black — rewarding the dedicated monoblack Drop Area loading that Dark Over Realm mechanics require across the archetype. [WebSearch: BigOrbitCards BT4-098; DBZExchange BT4-098]
+- **Design** — Demigra received a Secret Rare escalation in the same set: Beyond Darkness Demigra (BT4-124) — 40,000 power, Demon God trait, forcing the opponent to reveal their hand and combo with up to 4 Battle Cards from it. BT4-124 is one of BT4's only two Secret Rares, placing Demigra at the top of the set's prestige hierarchy. [WebSearch: GameStop BT4-124; bleedingcool.com Colossal Warfare Checklist]
+- **Set lore** — Demigra's dark magic can control historically powerful fighters — including Ultimate Gohan and Omega Shenron — but cannot affect those with godly Ki (Beerus, Super Saiyan God Goku). This ki-immunity threshold in the Xenoverse source material creates the lore ceiling that frames Demigra as an apex threat operating beneath the godly-power register. [WebSearch: Dragon Ball Wiki Demigra (Fandom)]
+
+### Related cards
+- Beyond Darkness Demigra (Colossal Warfare, BT4-124) — Secret Rare, same character at Demon God tier
+- Dark Absorption Mira (Colossal Warfare, BT4-110) — same Dark Demon Realm Saga archetype
+- Umbral Invitation Towa (Colossal Warfare, BT4-111) — same archetype, Towa's distortions aided Demigra's escape
 

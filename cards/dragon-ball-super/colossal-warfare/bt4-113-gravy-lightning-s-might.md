@@ -27,9 +27,10 @@ needs_manual_review: false
 mood: action
 time_of_day: indeterminate
 setting: other
-suspected_ip: Gravy (Dragon Ball Xenoverse — Time Patrol mercenary)
-ip_confidence: med
-ip_verified: false
+suspected_ip: Gravy (Dragon Ball Heroes / Xenoverse)
+ip_confidence: high
+ip_verified: true
+characters: [xenoverse-villains]
 ---
 
 # Gravy, Lightning's Might (Colossal Warfare)
@@ -38,8 +39,8 @@ ip_verified: false
 
 ![bt4-113-gravy-lightning-s-might](../../_images/dragon-ball-super/colossal-warfare/bt4-113-gravy-lightning-s-might.png)
 
-> [!warning] Suspected IP: **Gravy (Dragon Ball Xenoverse — Time Patrol mercenary)** (confidence: med, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Gravy (Dragon Ball Heroes / Xenoverse)**
+> Confirmed via card name "Gravy, Lightning's Might" and visual match to Demon God Gravy's white-silver armor and lightning-motif design from Dragon Ball Heroes. [Dragon Ball Wiki: Gravy]
 
 A large, muscular humanoid figure stands in a broad forward-facing stance wearing heavy white and silver armor with dark accents. The build is notably larger and more imposing than standard humanoid fighters. The figure's posture is planted and dominant. The background shows energy or atmospheric effects suggesting a battlefield or charged environment. The overall palette is white, silver, and dark grey against a contrasting energetic background.
 
@@ -54,3 +55,14 @@ A large, muscular humanoid figure stands in a broad forward-facing stance wearin
 **Iconography:** heavy-armor, lightning-motif
 **Genre cues:** anime, sci-fi, fantasy
 
+## Trivia
+
+- **Set context** — Colossal Warfare (BT4) was built around Demigra leading an army of oversized villains. The set even introduced double-sized physical Leader Cards to reinforce the giant-scale-battle theme. Gravy, as a Demon God, fits the design brief directly. `[dbs-cardgame.com: Colossal Warfare Design Concept, via WebSearch]`
+- **Character origin** — Gravy is a Dragon Ball Heroes original, not from the main anime or manga. He was once a wizard in the Heavenly Realm who defected with Demigra and was later elevated to Demon God status by Mechikabura, the Dark Empire's supreme ruler. BT4-113 represents his pre-thrall Demon God form — acting under his own dark allegiance before Demigra's direct control (which BT4-114 depicts). `[Dragon Ball Wiki: Gravy, via WebSearch]`
+- **Design** — BT4-113 is a Black Uncommon with 20000 power, carrying the [Dark Over Realm 2] keyword — BT4's signature mechanic allowing cards to persist on field rather than going to the Warp, while eliminating opponent cards. Gravy is one of the early showcases for that mechanic in the set. `[DBZ Exchange: BT4-113, via WebSearch]`
+- **Flavor** — Gravy's signature Super Attack in Dragon Ball Heroes is called "Thunder Sentence," directly matching the "Lightning's Might" subtitle on this card. The white-and-silver armor distinguishes this base-form Gravy visually from the dark-robed thralled variant on BT4-114. `[Videogaming Wiki: Gravy (Dragon Ball), via WebSearch]`
+
+### Related cards
+- Gravy, in Demigra's Thrall (Colossal Warfare, BT4-114) — same character post-Demigra mind control; directly paired with this card
+- Putine, in Demigra's Thrall (Colossal Warfare, BT4-116) — Gravy's co-conspirator from the Heavenly Realm, also shown thralled in BT4
+- Demigra (Colossal Warfare) — the villain exercising thrall over Gravy and Putine in BT4

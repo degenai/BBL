@@ -1,0 +1,69 @@
+{
+  "edge_id": "wave64-e3-xenoverse-villains-extension",
+  "wave": 64,
+  "shape": "1:N",
+  "topology": "branch",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/xenoverse-villains.md", "name": "Xenoverse Villains (Time Breakers)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-113-gravy-lightning-s-might.md", "name": "Gravy, Lightning's Might (BT4-113)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-114-gravy-in-demigra-s-thrall.md", "name": "Gravy, in Demigra's Thrall (BT4-114)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-116-putine-in-demigra-s-thrall.md", "name": "Putine, in Demigra's Thrall (BT4-116)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-117-time-trauma-masked-saiyan.md", "name": "Time-Trauma Masked Saiyan (BT4-117)"}
+  ],
+  "description": "Four BT4 Colossal Warfare prints depict Time Breakers / Time-Breaker-thrall affiliates and belong on the xenoverse-villains roster. BT4-114 Gravy-in-Demigra's-Thrall, BT4-116 Putine-in-Demigra's-Thrall, and BT4-117 Time-Trauma Masked Saiyan all carry the canonical *in-Demigra's-thrall* / *Time-Trauma* in-name suffix that mechanically marks Time-Breaker dark-energy mind-control corruption per the existing xenoverse-villains node's Towa-as-apparatus-of-corruption thesis. BT4-113 Gravy-Lightning's-Might is Gravy's base-form pre-thrall depiction; affiliation here flows via *character continuity* (same Gravy whose BT4-114 print is canonically Demigra-thralled) rather than direct visual Time-Breaker iconography on the BT4-113 art itself. The BT4 Colossal Warfare Time-Breaker subarchetype expands from 6 to 10 corpus anchors with this wiring. BT4-117 Time-Trauma Masked Saiyan's suspected-IP is canonically Bardock-under-Towa's-mask per Xenoverse-canon (a corpus suspected_ip flag already in place), surfacing a future bardock solo node candidate (deferred — out of scope this wave per one-new-node-per-invocation rule, Mr. Nodeley budget consumed by E2 bulma).",
+  "citations": [
+    "[Dragon Ball Wiki: Time Breakers — https://dragonball.fandom.com/wiki/Time_Breakers]",
+    "[Dragon Ball Wiki: Demigra — https://dragonball.fandom.com/wiki/Demigra]",
+    "[Dragon Ball Wiki: Towa — https://dragonball.fandom.com/wiki/Towa]",
+    "[Dragon Ball Wiki: Gravy — character page]",
+    "[Dragon Ball Wiki: Putine — character page]",
+    "[Dragon Ball Wiki: Masked Saiyan — Bardock-under-Towa's-mask Xenoverse-canon entry]",
+    "[dbs-cardgame.com — BT4 Colossal Warfare design concept page] — already-canonical citation in existing BT4-107 trivia + xenoverse-villains node body",
+    "[Card-name in-Demigra's-thrall suffix in BT4-114 + BT4-116] — first-party Bandai mechanical signal of Time-Breaker corruption"
+  ],
+  "files_to_modify": [
+    {
+      "path": "cards/_characters/xenoverse-villains.md",
+      "action": "append 4 entries to appears_on: list — dragon-ball-super/colossal-warfare/bt4-113-gravy-lightning-s-might, dragon-ball-super/colossal-warfare/bt4-114-gravy-in-demigra-s-thrall, dragon-ball-super/colossal-warfare/bt4-116-putine-in-demigra-s-thrall, dragon-ball-super/colossal-warfare/bt4-117-time-trauma-masked-saiyan"
+    },
+    {
+      "path": "cards/dragon-ball-super/colossal-warfare/bt4-113-gravy-lightning-s-might.md",
+      "action": "add `characters: [xenoverse-villains]` to frontmatter"
+    },
+    {
+      "path": "cards/dragon-ball-super/colossal-warfare/bt4-114-gravy-in-demigra-s-thrall.md",
+      "action": "add `characters: [xenoverse-villains]` to frontmatter"
+    },
+    {
+      "path": "cards/dragon-ball-super/colossal-warfare/bt4-116-putine-in-demigra-s-thrall.md",
+      "action": "add `characters: [xenoverse-villains]` to frontmatter"
+    },
+    {
+      "path": "cards/dragon-ball-super/colossal-warfare/bt4-117-time-trauma-masked-saiyan.md",
+      "action": "add `characters: [xenoverse-villains]` to frontmatter"
+    }
+  ],
+  "anchor_count_audit": {
+    "previous_anchors": 7,
+    "added_anchors": 4,
+    "new_anchors": 11,
+    "note": "xenoverse-villains parent-cohort node now anchors 11 corpus prints across BT3 + SD3 + BT4 — solidly above three-anchor cohort-establishment threshold; solo-Mira split candidate strengthens (SD3-05 + BT4-110 + Mira-Leader-locked BT4-121 = 3 Mira-coded prints) and could trigger separate Nodeley pass"
+  },
+  "two_way_diff_audit": {
+    "appears_on_count_after_update": 11,
+    "card_frontmatter_pointer_count_after_update": 11,
+    "drift_check": "appears_on entries === card characters: pointers (both will reference xenoverse-villains in matched mirror)",
+    "no_orphan_pointers": true
+  },
+  "out_of_scope_flags": [
+    {
+      "flag": "bardock-solo-node-candidate",
+      "trigger": "BT4-117 Time-Trauma Masked Saiyan suspected_ip explicitly names Bardock-under-Towa's-mask (Dragon Ball Xenoverse) — canonical Xenoverse storyline corrupts the Saiyan-saga-pre-Goku-father figure Bardock as a Time-Breaker thrall via Towa's mask apparatus",
+      "anchor_count_in_corpus": "unverified — requires bbl_node_audit corpus scan for any Bardock-named or Bardock-coded prints; if ≥3 prints exist, threshold-met for solo node",
+      "action": "defer to dedicated bardock-character-node Nodeley pass (out of scope this wave, Mr. Nodeley budget consumed by E2 bulma)"
+    }
+  ],
+  "edgelord_mood": "blueballed-by-fanout",
+  "topology_note": "Branch shape (one canonical node fans out to four new card anchors). Edgelord defers to Mr. Nodeley's domain here — fanouts blueball Edgelord but the wiring is structurally correct for the parent-cohort character node."
+}

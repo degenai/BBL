@@ -52,3 +52,14 @@ A figure clad in flowing pale robes is rendered from behind, arms partially rais
 **Iconography:** wings, halo-light, ascension, rays-of-light
 **Genre cues:** fantasy, religious, devotional
 
+## Trivia
+
+- **Set context** — Angelic Gift originated in Battle for Zendikar (BFZ, 2015). The flavor text anchors it to Zendikar's war against the Eldrazi titans. The CMR printing is its fourth appearance; the Josu Hernaiz art debuted in Battlebond (BBD, 2018) and has been the canonical art for every reprint since. `[Scryfall]`
+- **Flavor text** — "Zendikar will triumph this day, and our armies will fly with angels." The speaker is unnamed. The line situates the card in the Battle for Zendikar narrative arc when the Gatewatch and Zendikar's people rallied against the Eldrazi. `[Scryfall]`
+- **Mechanical reputation** — A two-mana cantrip Aura granting flying: the card replaces itself immediately on entry, making it one of the more efficient common flying-enablers in Pauper and PauperCommander. EDHREC rank 3441 — strong for a common with no rarity advantage. `[Scryfall]`
+- **Design** — Artist Josu Hernaiz's back-lit ascending figure was composed for Battlebond's two-player cooperative theme, where angelic uplift maps naturally onto the set's partner-in-victory concept. `[Scryfall]`
+
+### Related cards
+- Anointer of Valor (Commander Legends, no. 8) — adjacent collector number, same angel-blessing visual register at common
+- Gryff's Boon (Shadows over Innistrad) — similar cantrip-adjacent flying Aura design pattern
+- Cartouche of Knowledge (Amonkhet) — direct design comparison: 2-mana flying Aura that cantrips

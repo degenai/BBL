@@ -1,0 +1,30 @@
+{
+  "edge_id": "wave67-e4-goku-bt4-077-orphan-wire",
+  "shape": "1:1",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-077-indomitable-dynasty-ss-son-goku.md", "name": "Indomitable Dynasty SS Son Goku"},
+    {"type": "character", "path": "cards/_characters/son-goku.md", "name": "Son Goku"}
+  ],
+  "description": "Fresh-signal corpus-walk find. BT4-077 'Indomitable Dynasty SS Son Goku' is canonically Son Goku Super Saiyan form (vision-passed, trivia-passed, ip_verified). The son-goku character node already anchors BT4-005, BT4-026, BT4-079, BT4-080 from the same Colossal Warfare set, AND BT4-077's own Trivia ('Design — The Indomitable Dynasty title framing is consistent with BT4's Goku cluster, which includes Unbroken Dynasty Son Goku (BT4-079) and Deadly Golden Great Ape Son Goku (BT4-080) — a three-card mini-cycle') explicitly names BT4-077 as part of the Goku-cluster mini-cycle. Yet BT4-077 was orphan from son-goku's appears_on. Standard orphan-wire move. Mirror: add characters: [son-goku] to BT4-077 frontmatter + extend son-goku appears_on to include bt4-077. Pushes son-goku 11 -> 12 anchors.",
+  "citations": [
+    "[bt4-077-indomitable-dynasty-ss-son-goku.md Trivia: BT4 Goku-cluster three-card mini-cycle]",
+    "[son-goku.md appears_on list pre-extension]",
+    "[dbs-cardgame.com: BT4-077 product page]",
+    "[bleedingcool.com Colossal Warfare checklist]"
+  ],
+  "files_modified": [
+    "cards/dragon-ball-super/colossal-warfare/bt4-077-indomitable-dynasty-ss-son-goku.md (characters field added)",
+    "cards/_characters/son-goku.md (appears_on extended)"
+  ],
+  "wave": 67,
+  "move": "E4",
+  "edgelord_mood": "satisfied",
+  "other_candidates_considered": [
+    "Pan solo node (4 corpus anchors: BT3-009, BT4-009, SD2-04, TB2-024) — passes 3-anchor threshold, but Mr. Nodeley node-budget already spent at E2 on destroyer-god-attendant-dyad; surfaced to janitor_triage as future commission candidate",
+    "BT4-018 Baby Vengeance Unleashed Vegeta — already wired wave 66",
+    "BT4-030 At All Costs Vegeta — already wired wave 66",
+    "Pan -> baby-dbgt edge — REFUSED, Pan is the GT-protagonist who EVADES Baby's possession; baby-dbgt anchors Baby and his apparatus, not GT protagonists generally; the canonical relation is too thin for a character-pointer; correct destination is a future GT-protagonist-trio or Pan-solo node"
+  ]
+}

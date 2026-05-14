@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["burrowing", "arthropod", "emergence", "zendikar", "underground", "nature", "beast", "landfall", "stone", "rupture", "wilderness"]
+tags_filter: ["solo", "mid-shot", "action-mode", "red-magic", "creature-insect", "no-face"]
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/158-tunneling-geopede.png
 average_cost_paid: 0
 market_price: 0.37
@@ -30,18 +30,29 @@ oracle_text: Landfall — Whenever a land you control enters, this creature deal
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: day
+setting: mountain
 ---
 
 # Tunneling Geopede (Battle for Zendikar)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![158-tunneling-geopede](../../_images/magic-the-gathering/battle-for-zendikar/158-tunneling-geopede.png)
 
+A mid-wide shot of a large arthropod creature — centipede or geopede in body plan — bursting upward and outward through a solid rock surface. Its carapace is dark black-brown with a slightly iridescent sheen. The forepart of its body curves into view showing a curved horn or claw-like projection at its head end and segmented legs. Stone fragments and dust spray outward from the point of emergence. The background shows tall needle-like rock spires in pale purple-grey against a blue sky, characteristic of Zendikar's geology. The composition is dynamic and vertical, emphasizing the eruption from underground.
 
-**Subject:** 
+**Subject:** A large black segmented arthropod or centipede-like creature bursting through a rocky stone surface — its curved carapace and claw-like forelegs visible as it emerges from the rubble in a spray of stone fragments
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** mountain, day, clear
+**Foreground:** Black segmented arthropod bursting through stone, scattered rock fragments  *(palette: black, dark-brown, tan-stone)*
+**Background:** Pale purple-grey needle rock spires, blue sky  *(palette: pale-blue, purple-grey, stone-tan)*
+**Mood / lighting:** action, ambient
+**Emotion read:** explosive emergence, subterranean threat
+**Objects:** stone-rubble
+**Creatures:** geopede, arthropod, centipede-creature
+**Iconography:** zendikar-rock-spires, emergence, bursting-through
+**Genre cues:** fantasy
 

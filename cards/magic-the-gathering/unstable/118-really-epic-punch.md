@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["bear", "dragon", "combat", "animal", "fight", "nature", "predator", "serpent", "claws", "battle"]
+tags_filter: ["duo", "close-up", "green-magic", "instant", "action-mode"]
 reference_image: cards/_images/magic-the-gathering/unstable/118-really-epic-punch.png
 average_cost_paid: 0
 market_price: 0.1
@@ -29,6 +29,27 @@ oracle_text: Target creature you control gets +2/+2 if it's a host or has augmen
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: day
+setting: other
 ---
 
 # Really Epic Punch (Unstable)
+
+## Vision
+
+![118-really-epic-punch](../../_images/magic-the-gathering/unstable/118-really-epic-punch.png)
+
+A brown bear and a large feathered serpentine creature clash at close range. The bear's jaws are open and it lunges with full body weight. The serpent creature has scaled green skin, large taloned claws, and dark feathered or spined flanks — its claws rake across the bear. Blood spatter is visible. The image has kinetic energy from the close-up framing; both creatures fill the frame, limbs intertwined in combat. The background is a pale blue-grey sky.
+
+**Subject:** A bear and a serpentine dragon-like creature locked in violent combat, claws and scales colliding
+
+**Composition:** close-up, action, figures: duo, facing: three-quarter
+**Setting:** other, day, clear
+**Foreground:** Bear and serpentine feathered creature locked in combat  *(palette: brown, green, dark grey)*
+**Background:** Pale blue-grey sky  *(palette: pale blue, grey)*
+**Mood / lighting:** action, ambient
+**Emotion read:** savage aggression, primal combat fury
+**Creatures:** bear, feathered serpent, dragon-like creature
+**Genre cues:** fantasy, comedy
+

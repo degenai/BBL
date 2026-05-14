@@ -30,7 +30,7 @@ setting: void
 subject_known_ip: true
 suspected_ip: Tokitoki (Dragon Ball Xenoverse)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Tokitoki, Time Creator (Colossal Warfare)
@@ -39,8 +39,8 @@ ip_verified: false
 
 ![bt4-119-tokitoki-time-creator](../../_images/dragon-ball-super/colossal-warfare/bt4-119-tokitoki-time-creator.png)
 
-> [!warning] Suspected IP: **Tokitoki (Dragon Ball Xenoverse)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Tokitoki (Dragon Ball Xenoverse)**
+> Confirmed via card name "Tokitoki, Time Creator" and visual match to Tokitoki's canonical appearance as a small colorful divine bird radiating golden energy, residing in the Time Nest with Chronoa. [Dragon Ball Wiki: Tokitoki]
 
 A small, vividly colored bird with large ornate wings occupies the upper center of the frame, radiating golden and white light. Two small humanoid figures flank the bird below — one with pink hair, one with shorter lighter hair — both appearing joyful and in awe. The background is bright and luminous, dominated by white-gold light with soft colorful energy wisps. The mood is celebratory and divine rather than combative. The bird is the clear focal point and appears supernatural in nature.
 
@@ -56,3 +56,14 @@ A small, vividly colored bird with large ornate wings occupies the upper center 
 **Iconography:** radiant-light, divine-wings, golden-aura
 **Genre cues:** anime, fantasy
 
+## Trivia
+
+- **Set context** — Tokitoki is the divine bird of time in Dragon Ball Xenoverse, residing in the Time Nest at the edge of the universe alongside Chronoa (Supreme Kai of Time). Its eggs are the starting material for entire new universes. In Xenoverse 2's main story, Towa's final plan is to steal Tokitoki's egg to control the multiverse — making Tokitoki the ultimate MacGuffin of the Time Patrol saga. The Time Patrol's original headquarters was named Tokitoki City in its honor. `[Dragon Ball Wiki: Tokitoki, via WebSearch]`
+- **Framing correction** — Tokitoki is a Time Patrol ally, not a Time Breaker villain. Wave 63 Edgelord audit confirmed this: Tokitoki does NOT belong to the xenoverse-villains character cluster. Its inclusion in BT4 alongside Demigra's villain cluster positions it as the counterweight — what the Time Breakers are threatening to destroy or steal. `[Wave 63 Edgelord audit; Tokitoki: Videogaming Wiki, via WebSearch]`
+- **Design** — BT4-119 is a Black Common with only 1000 power — the lowest-power Battle card in the BT4 villain cluster by a significant margin. Its mechanic: when played, return it to the top of your deck and instead play a Black Battle card with 3000 power from your deck. The tutoring function mirrors Tokitoki's lore role: the source from which power and new universes flow. `[DBZ Exchange: BT4-119, via WebSearch]`
+- **Art contrast** — Tokitoki's card art (two joyful humanoid figures in awe of a radiant divine bird) is one of the only genuinely celebratory images in BT4, a set otherwise defined by dark energy, thrall, and berserker violence. This visual contrast reinforces its narrative position as the thing worth protecting. `[Visual analysis grounded in Colossal Warfare set theme: dbs-cardgame.com, via WebSearch]`
+
+### Related cards
+- Time Trauma Masked Saiyan (Colossal Warfare, BT4-117) — Bardock weaponized against the timeline Tokitoki represents
+- Chronoa / Supreme Kai of Time (various) — Tokitoki's caretaker; paired figure in Xenoverse lore
+- Tokitoki, Bird of Time (various) — other Tokitoki printings across the DBS TCG

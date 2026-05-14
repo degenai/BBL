@@ -1,0 +1,43 @@
+{
+  "card_name": "Azure Fleet Admiral",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "58",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Azure Fleet Admiral is a CMR-original card (Scryfall: reprint: false). CMR was the first Magic set to bring the Monarch mechanic to common rarity — the mechanic had debuted at uncommon and rare in Conspiracy: Take the Crown (2016) and returned in CMR specifically to power the set's multiplayer draft engine.",
+      "sources": ["Scryfall", "WebSearch: Draftsim monarch mechanic history"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Your concern for my safety is touching, but as long as your gunners remain reliably erratic, I see no reason to change course.\" — Admiral Yelise, to Commodore Axurik. This is one of the few CMR cards with a named character in the flavor text who does not have their own legendary card in the set — Admiral Yelise and Commodore Axurik are referenced only here, making this flavor text a rare window into a named but non-legendary corner of CMR's pirate world.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Azure Fleet Admiral's ETB makes you the Monarch (draw a card at your end step, lose it if someone deals combat damage to you) and then can't be blocked by creatures the current monarch controls. The unblockable-vs-monarch clause creates a self-sustaining loop in two-player games: attack the monarch with the Admiral to keep them on the back foot, then re-crown yourself if you lose the title. EDHREC rank 9560 — meaningful for a common, placing it in the top tier of CMR commons by Commander inclusion rate.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The Scryfall all_parts field links Azure Fleet Admiral to The Monarch token card, confirming it is a deliberate combo piece in the set's design architecture. The pirate subtype is also noteworthy: CMR includes multiple pirate cards (including Prosperous Pirates at CMR 85) as a minor creature-type cohort, with the Admiral serving as the highest-status pirate common in the set.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "The Monarch", "set": "Commander Legends Tokens", "note": "linked token card — Scryfall all_parts combo_piece"},
+    {"name": "Fall from Favor", "set": "Commander Legends", "note": "adjacent CMR card (no. 68) also granting Monarch at common — same mechanic cluster"},
+    {"name": "Prosperous Pirates", "set": "Commander Legends", "note": "CMR 85 pirate cohort member — same creature type"},
+    {"name": "Court of Grace", "set": "Commander Legends", "note": "CMR uncommon Monarch card that rewards staying monarch — natural upgrade path"},
+    {"name": "Throne of the High City", "set": "Conspiracy: Take the Crown", "note": "original Monarch mechanic introduction — historical context"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

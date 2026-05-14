@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["green", "energy-blast", "warrior", "alien", "cape", "ki", "power", "android-saga", "green-skin", "martial-arts", "focused-warrior"]
+tags_filter: ["solo", "mid-shot", "action", "forward-facing", "male-figure", "anime"]
 reference_image: cards/_images/dragon-ball-super/galactic-battle/bt1-045-boost-attack-piccolo.png
 average_cost_paid: 0
 market_price: 0.17
@@ -24,6 +24,33 @@ image_height: 871
 image_quality: med
 art_match_confidence: high
 needs_manual_review: false
+mood: action
+time_of_day: indeterminate
+setting: void
+suspected_ip: Piccolo (Dragon Ball Z)
+ip_confidence: high
+ip_verified: false
 ---
 
 # Boost Attack Piccolo (Galactic Battle)
+
+## Vision
+
+![bt1-045-boost-attack-piccolo](../../_images/dragon-ball-super/galactic-battle/bt1-045-boost-attack-piccolo.png)
+
+> [!warning] Suspected IP: **Piccolo (Dragon Ball Z)** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A tall green-skinned humanoid figure stands in a wide action stance with one arm fully extended forward, palm open and pointed outward, with a vivid green energy charge radiating from the hand. The figure wears a white flowing cape and white turban-style head wrap, with a dark bodysuit underneath. Antennae or ear-stalks are partially visible on the head. The background features bright green energy effects on a lighter gradient, giving the impression of tremendous force being projected outward. The expression is focused and intense.
+
+**Subject:** A tall green-skinned humanoid fighter in a white cape and turban, arm extended forward with a green energy charge emanating from the palm
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** void, indeterminate
+**Foreground:** Green-skinned fighter with extended arm projecting energy blast  *(palette: green, white, dark grey, bright green)*
+**Background:** Bright green energy burst on light gradient background  *(palette: green, yellow-green, white)*
+**Mood / lighting:** action, harsh
+**Emotion read:** intense focused aggression
+**Iconography:** energy-blast, ki, cape
+**Genre cues:** anime, fantasy
+

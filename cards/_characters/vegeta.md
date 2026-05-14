@@ -8,6 +8,7 @@ species: "Saiyan (canonical Prince of All Saiyans, son of King Vegeta, the Saiya
 canonical_source: "Dragon Ball Wiki — Vegeta; Dragon Ball Wiki — Majin Vegeta; Dragon Ball Wiki — Vegeta's Pride; Wikipedia: Vegeta; Dragon Ball Z manga (Akira Toriyama, Shueisha, 1989 introduction in chapter 204); Dragon Ball Z anime (Toei Animation, 1989-1996); Dragon Ball Super (Toei Animation, 2015-2018) for the Battle of Gods / Resurrection F / Universe 6 / Future Trunks / Universe Survival arc continuity; dbs-cardgame.com per-card pages for the Dragon Ball Super Card Game printings; GameRant Vegeta's Galick Gun feature for canonical signature-attack origin"
 confidence: canonical
 appears_on:
+  - dragon-ball-super/galactic-battle/bt1-036-god-charge-vegeta
   - dragon-ball-super/galactic-battle/bt1-066-tenacious-vegeta
   - dragon-ball-super/world-martial-arts-tournament/tb2-006-vegeta-power-misused
   - dragon-ball-super/union-force/bt2-063-father-son-galick-gun

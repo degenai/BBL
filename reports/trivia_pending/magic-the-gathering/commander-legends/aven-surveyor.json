@@ -1,0 +1,42 @@
+{
+  "card_name": "Aven Surveyor",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "57",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Aven Surveyor originated in Fate Reforged (FRF, January 2015), the second set of the Khans of Tarkir block. On Tarkir, Aven are associated with the Jeskai Way — a monk-warrior clan whose symbol is the eye, reflecting their emphasis on speed, intelligence, and elevated perception. The scouting role (Bird Scout type line) maps directly onto the Jeskai's aerial reconnaissance aesthetics.",
+      "sources": ["Scryfall", "WebSearch: Fate Reforged Card Kingdom listing"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Aven Surveyor has no flavor text in either printing. Its modal ETB effect — grow yourself or bounce a threat — is a flexible common-level tempo tool. At five mana ({3}{U}{U}) it is costed for limited play rather than constructed. The EDHREC rank of 22327 confirms it sees minimal Commander play. It is notably not legal in Historic or Timeless, landing in a format gap — legal in Modern and Legacy but essentially unplayed at those levels.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist David Gaillet's rendering places the Aven over a red-orange canyon landscape, a visual environment that reads as the harsh Tarkir highlands rather than any generic fantasy setting. The warm earthy palette of the art is deliberately incongruent with the card's blue color identity — a recurring design signature on Fate Reforged blue cards depicting Aven who physically inhabit desert terrain despite their water-aligned magic.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "CMR reprinted Aven Surveyor as part of a broader inclusion of Bird creature-type support. Aven are one of the more consistently reprinted Bird subtypes in Magic history, appearing across Odyssey, Onslaught, Khans block, and Commander sets — providing Bird tribal players a bench of playable commons.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Aven Surveyor", "set": "Fate Reforged", "note": "original printing, FRF 31"},
+    {"name": "Aven Mindcensor", "set": "Future Sight", "note": "named Aven, highest-profile Bird Scout in Commander — same tribe, vastly different power level"},
+    {"name": "Warden of Evos Isle", "set": "Magic 2014", "note": "blue Bird creature that reduces flying spell cost — tribal synergy"},
+    {"name": "Aven Gagglemaster", "set": "Core Set 2021", "note": "another go-wide Aven common with ETB trigger — comparable role in limited"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

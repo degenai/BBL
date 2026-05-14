@@ -1,0 +1,41 @@
+{
+  "card_name": "Dark Absorption Mira",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-110",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Dark Absorption Mira' — explicit character name in title. Android/Demon Realm Race trait, white hair, white-and-red attire, absorption mechanic all match Mira's canonical design from Dragon Ball Xenoverse. Card name is direct evidence per anti-conflation rule criterion (a).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Mira is an artificial being constructed by Towa from the DNA of various powerful warriors. He is also recognized as Demon King, succeeding Dabura. His goal across Dragon Ball Xenoverse is to absorb the genetic material of the strongest fighters — including Goku — to become the most powerful being in existence. [WebSearch: Dragon Ball Wiki Mira (Fandom) via WebSearch]",
+      "sources": ["WebSearch: Dragon Ball Wiki Mira (Fandom)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Dark Absorption Mira (BT4-110, Common, Black) carries a conditional free-play skill: if you have at least 3 cards in your Warp, you may play this card by sending all Drop Area cards to the Warp (once per turn), but it is sent from the Battle Area to the Warp at end of that turn. Its second skill offers an escalation ladder: place 1 Towa from your Warp under this card, then if your Leader is Android or Towa, play a Mira with energy cost 7 from hand or Warp on top of it in Active Mode. This makes BT4-110 a Mira-Leader-locked bridge card funneling into the 7-cost Mira endgame. [WebSearch: DBZExchange BT4-110]",
+      "sources": ["WebSearch: DBZExchange BT4-110"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's Towa-under mechanic represents its lore in mechanical form: Mira's power is partly derived from Towa's ongoing support and creation, so requiring a Towa card as a physical sub-card to unlock the 7-cost Mira play replicates the dependency in game terms. The card is explicitly locked to Mira or Towa as Leader, making it a narrow archetype piece rather than a generic black staple. [WebSearch: DBZExchange BT4-110]",
+      "sources": ["WebSearch: DBZExchange BT4-110"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Mira's design borrows from Frieza's DNA (per Dragon Ball Wiki), giving him survival capabilities mirroring Frieza's near-indestructibility. The absorption motif on this card — where energy is drawn into the figure from all directions — directly visualizes the 'absorbing warrior DNA' conceit that defines Mira's faction threat in Xenoverse. [WebSearch: Dragon Ball Wiki Mira (Fandom)]",
+      "sources": ["WebSearch: Dragon Ball Wiki Mira (Fandom)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Demigra // Ghastly Malice Demigra", "set": "Colossal Warfare", "note": "BT4-098, the Leader card of this archetype whose seal Mira's distortions helped weaken"},
+    {"name": "Umbral Invitation Towa", "set": "Colossal Warfare", "note": "BT4-111, Towa built Mira; her Warp card is required to unlock this card's escalation skill"},
+    {"name": "Mira, Creator Absorbed", "set": "Colossal Warfare", "note": "BT4-108, another Mira card in the same set, likely the 7-cost endgame target this card escalates into"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

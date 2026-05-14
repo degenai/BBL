@@ -24,6 +24,7 @@ needs_manual_review: false
 image_width: 260
 image_height: 363
 image_quality: low
+characters: [pan]
 ---
 
 # Awakening Talent Pan (World Martial Arts Tournament)

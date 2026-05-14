@@ -30,7 +30,7 @@ setting: void
 suspected_ip: Baby (Dragon Ball GT)
 ip_confidence: high
 ip_verified: true
-characters: ["baby-dbgt"]
+characters: [baby-dbgt, saiyan]
 ---
 
 # Baby // Rampaging Great Ape Baby (Colossal Warfare)

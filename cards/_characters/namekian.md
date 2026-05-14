@@ -21,7 +21,7 @@ appears_on:
   - dragon-ball-super/world-martial-arts-tournament/tb2-027-begrudging-respect-piccolo
 related_hubs: []
 related_symbols: []
-related_characters: [son-goku, trunks, wrath-of-the-dragon-saga, dark-vassal-trio]
+related_characters: [son-goku, trunks, wrath-of-the-dragon-saga, dark-vassal-trio, universe-6-tournament-cohort]
 ip_resolution_for: namekian
 ---
 

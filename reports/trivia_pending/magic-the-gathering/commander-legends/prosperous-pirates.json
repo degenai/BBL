@@ -1,0 +1,43 @@
+{
+  "card_name": "Prosperous Pirates",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "85",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Prosperous Pirates is a reprint (Scryfall: reprint: true), originating in Ixalan (XLN, September 2017), MTG's pirate-and-dinosaur plane. Ixalan's pirates — the Brazen Coalition — are treasure-obsessed raiders sailing the Stormwreck Sea in search of the golden city of Orazca. The flavor text references the floating city of High and Dry, a pirate settlement built on hoarded treasure, suggesting a location not formally named in Ixalan's story.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"The floating city of High and Dry hasn't yet sunk under the weight of gold, but it's not for want of trying.\" The line is narrated with dry humor — 'High and Dry' evokes both a nautical idiom (stranded, helpless) and literal elevation (the city floats above water). The joke is that the pirates are sinking their own city with accumulated wealth.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Prosperous Pirates creates two Treasure tokens on ETB — five mana for a 3/4 plus two any-color mana rocks. At EDHREC rank 15287 it sees consistent Commander play in Treasure-matters and pirate tribal decks. The Treasure token type was introduced in Ixalan and has since become one of the most-supported token types in Commander, making this card's original Ixalan printing a foundational piece of that design lineage.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The Scryfall all_parts field links Prosperous Pirates to the Treasure token card, confirming it as a designed component of the Treasure token economy. CMR included multiple pirate cards — including Azure Fleet Admiral (CMR 58) — as a creature-type cohort. Prosperous Pirates is the most mechanically significant of that pirate common cluster due to the Treasure token ramp payoff in Commander.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Prosperous Pirates", "set": "Ixalan", "note": "original printing, XLN"},
+    {"name": "Treasure token", "set": "Ixalan", "note": "Scryfall all_parts token link — core output of this card"},
+    {"name": "Azure Fleet Admiral", "set": "Commander Legends", "note": "CMR pirate cohort — same creature type, both at common"},
+    {"name": "Captain Lannery Storm", "set": "Ixalan", "note": "Ixalan pirate legendary who creates Treasure on attack — thematic kin and upgrade"},
+    {"name": "Plunder the Graves", "set": "Magic Origins", "note": "token-generating pirate-adjacent Commander precon staple — same role"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

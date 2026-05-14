@@ -1,0 +1,41 @@
+{
+  "card_name": "Dr. Gero, Evil's Inventor",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-067",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names Dr. Gero. Tall black hat, white lab coat, and elderly white-haired appearance are his canonical visual identifiers per Dragon Ball Wiki and the Dragon Ball Official Site showcase. The pink energy orbs flanking him reference his Android energy absorption technology. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Dr. Gero was the head scientist of the Red Ribbon Army and the architect of its Android program. After Goku destroyed the Red Ribbon Army as a child (Dragon Ball era), Gero spent years in secret building a revenge fleet of Androids — Nos. 13 through 20 — specifically engineered to kill Goku. He eventually transplanted his own brain into Android 20, making himself a cyborg. [Dragon Ball Wiki: Dr. Gero, via WebSearch; Red Ribbon Army Wikipedia]",
+      "sources": ["Dragon Ball Wiki (WebSearch snippet)", "Wikipedia: Red Ribbon Army"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Gero's Android program represents a canonical apparatus-of-extraction logic: he mass-produced warrior-labor (Androids 16, 17, 18, 19, 20/self) from subjugated or converted bodies to execute posthumous revenge on behalf of a defeated military hierarchy. The Androids were not volunteers — 17 and 18 were human teenagers forcibly converted. [Dragon Ball Wiki: Android 17, Android 18, via WebSearch snippet]",
+      "sources": ["Dragon Ball Wiki (WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Dragon Ball Official Site ran a Weekly Character Showcase on Dr. Gero (entry no. 42), confirming his canonical role as the Red Ribbon Army's chief scientist and the creator of the Android line. BT3 is the first DBS-TCG set to include Gero as a standalone named Battle Card, connecting him directly to the Android cards (including Android 13, BT3-070) in the same set. [en.dragon-ball-official.com Showcase no. 42, via WebSearch; dbs-cardgame.com BT3 card list]",
+      "sources": ["en.dragon-ball-official.com (WebSearch snippet)", "dbs-cardgame.com"]
+    },
+    {
+      "category": "design",
+      "text": "BT3-067 is a low-image-quality card (260x363px from dbs-cardgame.com source); a higher-resolution source image upgrade is possible from community card databases if needed for print use. The card's Common rarity positions Gero as a support piece rather than a centerpiece, consistent with his narrative role as the architect behind stronger creations. [frontmatter image_quality: low; dbs-cardgame.com]",
+      "sources": ["card frontmatter", "dbs-cardgame.com"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dawn of Terror, Android 13 (2018)", "set": "Cross Worlds (BT3-070)", "note": "Android 13 is Gero's creation — direct Red Ribbon apparatus cluster in the same set"},
+    {"name": "Android 16", "set": "Various DBS sets", "note": "Gero's creation — built in the image of Gero's deceased son"},
+    {"name": "Android 17 / Android 18", "set": "Various DBS sets", "note": "Gero's forcibly-converted human creations — highest-profile Androids in canon"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

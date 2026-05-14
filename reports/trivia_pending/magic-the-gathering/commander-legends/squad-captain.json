@@ -1,0 +1,42 @@
+{
+  "card_name": "Squad Captain",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "51",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Squad Captain is a reprint (Scryfall: reprint: true), originally printed in Core Set 2021 (M21, 2020). Its CMR inclusion as a common in the white soldier slot reflects the set's design goal of providing broadly useful creature types for Commander's go-wide tribal strategies — Soldiers are one of the most supported tribes in white across Commander history.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"The strength of the one is the strength of the many.\" The line is attributed to no named speaker — it reads as an aphorism of military doctrine rather than a character quote, functioning as the platoon's collective creed.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Squad Captain enters with a +1/+1 counter for each other creature you control, plus vigilance. In a wide board state this can be a 10/10+ for five mana. Despite the ceiling, the EDHREC rank of 19740 signals it rarely appears in tuned Commander lists — it is highly board-state-dependent and dead on an empty field. It sees more play in Pauper and PauperCommander go-wide white aggro.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Cristi Balanescu's V-formation composition — the captain in front, identical armored soldiers fanning back in geometric array — is a deliberate visual argument for the card's oracle text: the captain's stat bloc literally derives from the soldiers behind her. The art and mechanic are in direct conversation.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Squad Captain", "set": "Core Set 2021", "note": "original printing of the same oracle text"},
+    {"name": "Strength of Arms", "set": "Shadows over Innistrad", "note": "white soldier go-wide anthem — natural synergy"},
+    {"name": "Benalish Marshal", "set": "Dominaria", "note": "white soldier lord, direct tribal upgrade path from Squad Captain"},
+    {"name": "Militia Bugler", "set": "Core Set 2019", "note": "white soldier that digs for more soldiers — same tribal cohort"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

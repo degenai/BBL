@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["assassin", "collector", "mechanical", "gothic", "hat", "salvage", "looting", "steampunk", "spy", "treasure", "dark-elegance"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "black-magic", "instant", "portrait-mode", "female-figure"]
 reference_image: cards/_images/magic-the-gathering/unstable/55-finders-keepers.png
 average_cost_paid: 0
 market_price: 0.12
@@ -29,6 +29,27 @@ oracle_text: Destroy target creature, then assemble a Contraption. (Put the top 
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: grim
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Finders, Keepers (Unstable)
+
+## Vision
+
+![55-finders-keepers](../../_images/magic-the-gathering/unstable/55-finders-keepers.png)
+
+A pale humanoid figure with a dramatic tall black hat sits perched atop a tangle of golden mechanical claw arms and scattered arrows or bolts. She wears a dark, layered dress and a choker, and she cradles a mechanical crossbow device in her lap with a casual, proprietary grip. The setting is a grand arched interior with multiple tall windows casting amber light. The mood is poised and predatory — a collector surveying her haul. The mechanical claw pile beneath her suggests accumulated salvage. The color palette runs cool grey-blue against warm amber window light.
+
+**Subject:** A figure in a tall black hat and dark dress seated on a pile of mechanical claws and debris, holding a mechanical crossbow-like weapon, in a dimly lit hall
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** indoor, gothic, indeterminate
+**Foreground:** Pale humanoid figure in tall black hat seated on pile of mechanical claws, holding a mechanical crossbow  *(palette: dark blue-grey, gold, pale skin)*
+**Background:** Grand arched hall with tall amber-lit windows  *(palette: amber, warm gold, dark grey)*
+**Mood / lighting:** grim, chiaroscuro
+**Emotion read:** calm predatory confidence, proprietary satisfaction
+**Objects:** mechanical crossbow, mechanical claws, arrows, tall hat
+**Genre cues:** fantasy, steampunk, gothic
+

@@ -1,0 +1,41 @@
+{
+  "card_name": "Putine, in Demigra's Thrall",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-116",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is literally 'Putine, in Demigra's Thrall'. Short teal hair and magic-orb casting are Putine's signature visual identifiers from Dragon Ball Heroes. High confidence confirm.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Putine is a Dragon Ball Heroes original character — a skilled wizard once residing in the Heavenly Realm who was banished to the Demon Realm after Chronoa (Supreme Kai of Time) discovered her as Demigra's accomplice. She later became a Demon Goddess under Mechikabura. Uniquely among the BT4 villains, Putine eventually defects from the Dark Empire and becomes an intern Time Patroller — making her the only character on this card cluster who ends on the side of the Time Patrol. [Dragon Ball Wiki: Putine, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: Putine, via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "BT4-116 is a Black Common (4000 power) in the Colossal Warfare set. It pairs directly with Gravy BT4-114 — both thralled by Demigra, both from the Dark Demon Realm Saga era. Bandai assigned them consecutive collector numbers (114, 116) reinforcing their narrative pairing. [Romulus Games product listing, via WebSearch]",
+      "sources": ["Romulus Games product listing, via WebSearch]"]
+    },
+    {
+      "category": "design",
+      "text": "Putine's teal hair and orb-casting motif are her consistent visual markers across Dragon Ball Heroes media. The yellow-gold energy orb in the art matches her Heavenly Realm magic-user heritage — the orb color contrasting with the dark purple thrall energy in the background, visually signaling the tension between her original power and Demigra's imposed control. [VS Battles Wiki: Putine, via WebSearch]",
+      "sources": ["VS Battles Wiki: Putine, via WebSearch"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Putine's eventual Time Patrol defection arc (which occurs after the events depicted on this card) makes her one of the more narratively complex villain-to-ally pivots in Dragon Ball Heroes lore. The thralled BT4-116 captures her at her most subjugated moment — before the redemption arc that follows in later Heroes story arcs. [Dragon Ball Wiki: Putine — TV Tropes: Dragon Ball Heroes Villains, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: Putine, via WebSearch", "TV Tropes: Dragon Ball Heroes Villains, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Gravy, in Demigra's Thrall", "set": "Colossal Warfare", "note": "BT4-114 — Putine's paired thralled companion; consecutive collector numbers"},
+    {"name": "Gravy, Lightning's Might", "set": "Colossal Warfare", "note": "BT4-113 — Gravy's pre-thrall form; context for the full Gravy/Putine cluster"},
+    {"name": "Demigra", "set": "Colossal Warfare", "note": "The thrall-source named in the card title"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Putine (Dragon Ball Heroes / Xenoverse)",
+    "ip_confidence": "high"
+  }
+}

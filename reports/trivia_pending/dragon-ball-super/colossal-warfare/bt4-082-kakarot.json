@@ -1,0 +1,36 @@
+{
+  "card_name": "Kakarot",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-082",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Kakarot' — Goku's canonical Saiyan birth name, an explicit character reference. The card carries the Saiyan/Goku's Lineage traits and is yellow-aligned, consistent with Goku card placement in BT4. Card name is direct evidence per anti-conflation rule criterion (a).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Kakarot is Goku's Saiyan birth name, given on Planet Vegeta before he was sent to Earth as an infant. The name is a pun on 'carrot,' following the Saiyan family naming convention of root vegetables (Bardock/burdock, Raditz/radish, Vegeta/vegetable). Goku's head injury as a child erased his initial destructive Saiyan nature, allowing him to grow up as a defender of Earth under the name Son Goku. [Wikipedia: Goku via WebSearch; WebSearch: CBR 'Why Does Vegeta Call Goku Kakarot']",
+      "sources": ["Wikipedia: Goku (WebSearch)", "WebSearch: CBR Dragon Ball Z Why Does Vegeta Call Goku Kakarot"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Kakarot (BT4-082, Common, Yellow) is a 10,000 power Battle Card with energy cost 1 and 5,000 combo power, Saiyan/Goku's Lineage traits, Saiyan Saga era. It carries no listed skill — a vanilla stat-stick that functions as cheap combo fodder or early board presence in yellow Goku's Lineage builds. Its value is structural: low cost enables aggressive early plays, and the Goku's Lineage trait synergizes with Instant Transmission's [Permanent] counter-cost-waive condition (BT4-097). [WebSearch: BigOrbitCards BT4-082; WebSearch: TCGPlayer BT4-082]",
+      "sources": ["WebSearch: BigOrbitCards BT4-082", "WebSearch: TCGPlayer BT4-082"]
+    },
+    {
+      "category": "design",
+      "text": "Using Goku's birth name 'Kakarot' as the card title — rather than 'Son Goku' — is a deliberate framing choice that foregrounds Saiyan heritage and origin rather than Earth identity. In the Dragon Ball Super continuity, Goku himself requested Broly call him Kakarot at the end of Dragon Ball Super: Broly — the first time Goku showed interest in his Saiyan name — making the Kakarot identity increasingly canonical in the Super era. [WebSearch: CBR 'Why Broly Didn't Call Goku Kakarot in DBS Chapter 92'; WebSearch: Kanzenshuu forum on Vegeta's use of Kakarot]",
+      "sources": ["WebSearch: CBR DBS Broly Kakarot article", "WebSearch: Kanzenshuu forum"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Instant Transmission", "set": "Colossal Warfare", "note": "BT4-097, [Permanent] waives counter cost when Leader is Goku's Lineage — Kakarot's trait qualifies"},
+    {"name": "Prodigal Dynasty Son Goten", "set": "Colossal Warfare", "note": "BT4-085, adjacent in collector range, same Goku's Lineage trait family"},
+    {"name": "Height of Mastery Son Goku", "set": "Colossal Warfare", "note": "BT4-075 Special Rare, same character at higher rarity in the same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

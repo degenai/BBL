@@ -1,0 +1,41 @@
+{
+  "card_name": "Mega Cannon Sigma, Bizu",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-024",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is literally 'Mega Cannon Sigma, Bizu'. Bizu is a named Machine Mutant member of the Sigma Force from Dragon Ball GT. The Mega Cannon Sigma is the fusion form of Nezi, Ribet, and Bizu. The large silver robotic figure with cannon-integrated body matches the Machine Mutant design language from GT. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT3 Cross Worlds was explicitly designed to support a Dragon Ball GT red deck theme. The set's designer notes specify a 'red GT deck (Saiyan and Machine Mutant)' as one of the four major deck archetypes, with GT-specific support cards to enable theme-focused builds. Bizu and the Sigma Force are central to the Machine Mutant half of that GT identity. [dbs-cardgame.com: Cross Worlds Designer's Note, via WebSearch]",
+      "sources": ["dbs-cardgame.com: Cross Worlds Designer's Note, via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Bizu is one of four Machine Mutants comprising the Sigma Force — General Rilldo's elite mercenary unit on Planet M-2. The four members are Commander Nezi, Bizu, Ribet, and Natt. Their ability to merge bodies forms the Sigma Force Cannon (Super Mega Cannon Sigma), with a power level of 10,000,000 per Dragon Ball Z: Scouter Battle Taikan Kamehameha. Bizu's name derives from 'vise,' a piece of construction hardware. [Dragon Ball Wiki: Sigma Force, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: Sigma Force, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Despite the Sigma Force's intimidating fusion power, Bizu and his unit are ultimately dispatched by Goku after he transforms to Super Saiyan — and the remains are then absorbed by General Rilldo to boost his own power. The Sigma Force's role in GT is more prologue than climax: they establish the Machine Mutant threat before Rilldo and Dr. Myuu become the focus. [CBR: Dragon Ball GT Villains Beaten Too Easily, via WebSearch]",
+      "sources": ["CBR: Dragon Ball GT Villains Beaten Too Easily, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "The card's full name 'Mega Cannon Sigma, Bizu' distinguishes this as Bizu specifically (the individual member) rather than the full Sigma Force fusion. This suggests Bandai designed individual-member cards to support the Machine Mutant fusion mechanic in the BT3 GT deck — consistent with BT3's [EX-Evolve] keyword, which evolves individual pieces into the combined titan. [dbs-cardgame.com: Cross Worlds Designer's Note, via WebSearch]",
+      "sources": ["dbs-cardgame.com: Cross Worlds Designer's Note, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Planet M-2", "set": "Cross Worlds", "note": "BT3-030 — Bizu's homeworld; same GT Machine Mutant cluster"},
+    {"name": "General Rilldo", "set": "various", "note": "Sigma Force commander; absorbs Bizu's remains after the Sigma Force falls"},
+    {"name": "Commander Nezi", "set": "various", "note": "Fellow Sigma Force member; part of the fusion that forms Super Mega Cannon Sigma"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Sigma Force / Bizu (Dragon Ball GT)",
+    "ip_confidence": "high"
+  }
+}

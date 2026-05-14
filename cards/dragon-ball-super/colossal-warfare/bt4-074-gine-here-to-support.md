@@ -30,6 +30,7 @@ setting: other
 suspected_ip: Gine (Dragon Ball Super)
 ip_confidence: high
 ip_verified: true
+characters: [saiyan]
 ---
 
 # Gine, Here to Support (Colossal Warfare)

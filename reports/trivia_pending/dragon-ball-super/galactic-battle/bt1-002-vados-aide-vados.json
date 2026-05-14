@@ -1,0 +1,42 @@
+{
+  "card_name": "Vados // Aide Vados",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-002",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Vados'. Slender humanoid with teal-and-white outfit and long staff in combat pose is consistent with Vados's canonical design as Champa's angel attendant. IP confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Vados is the angel attendant of Champa (Universe 6's God of Destruction) and the elder sister of Whis, attendant to Universe 7's Beerus. Both are children of the Grand Minister — making the Vados-Whis pair the angel half of the U6/U7 twin-dyad structure that mirrors the Champa-Beerus destroyer pairing. Vados claims to be slightly stronger than Whis; Whis disputes this. [Dragon Ball Wiki: Vados, via WebSearch snippet]",
+      "sources": ["dragonball.fandom.com/wiki/Vados", "WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Vados's name follows the angel naming convention established by Toriyama: Calvados is a French apple brandy from Normandy. All twelve known angel children of the Grand Minister are named after alcoholic beverages, a pun that began with Whis (whisky) after Toriyama retroactively themed the naming off 'Beerus' = beer. [Wikipedia: Beerus, via WebSearch snippet]",
+      "sources": ["en.wikipedia.org/wiki/Beerus", "WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "BT1-002 is one of the earliest numbered cards in Galactic Battle, placing Vados at the front of the U6 cohort block in the set's numeric ordering — Champa appears at BT1-006 and BT1-007, Hit at BT1-003. The ordering reflects the set's narrative grouping by universe alignment. [Trading Card Database: 2017 Dragon Ball Super Card Game BT1 Galactic Battle]",
+      "sources": ["tcdb.com/ViewSet.cfm/sid/269179"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The U6/U7 parallel-structure (twin destroyer gods each attended by a sibling angel from the same Grand Minister family tree) is deliberate Toriyama and Toyotarou design intent for DBS multiverse cosmology, introduced during the God of Destruction Champa Arc. The four figures — Beerus, Champa, Whis, Vados — constitute the founding cosmological quad of the DBS multiverse. [Dragon Ball Wiki: Champa / Vados, via WebSearch snippets]",
+      "sources": ["dragonball.fandom.com/wiki/Champa", "dragonball.fandom.com/wiki/Vados", "WebSearch snippets"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Whis, Judge of the Gods", "set": "Galactic Battle", "note": "Whis is Vados's younger brother; U7 angel counterpart"},
+    {"name": "Scheming Champa", "set": "Galactic Battle", "note": "Champa is Vados's paired destroyer god"},
+    {"name": "Manipulating God Champa", "set": "Galactic Battle", "note": "Second Champa card; same destroyer Vados attends"},
+    {"name": "Energy Boost Beerus", "set": "Galactic Battle", "note": "Beerus is the U7 counterpart to Vados's charge Champa"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

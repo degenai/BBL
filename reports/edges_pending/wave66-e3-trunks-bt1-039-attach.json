@@ -1,0 +1,35 @@
+{
+  "edge_id": "wave66-e3-trunks-bt1-039-attach",
+  "shape": "1:N",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/trunks.md", "name": "Trunks (character node)"},
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-039-trunks.md", "name": "Trunks (BT1-039)"}
+  ],
+  "description": "Card title is literally 'Trunks'. Vision-pass identifies a young fighter with light-colored short hair swept to the side, blue jacket over dark inner layer, fists raised mid-power-up with golden ki bursting outward. The composition matches Kid Trunks (the present-timeline Buu-Saga child, canonical Junior Tournament cohort partner with Son Goten) per trunks.md's aliases: [...kid-trunks...] aspect coverage. suspected_ip already 'Trunks (Dragon Ball Z)' with ip_confidence: high at the per-card level; the character node already established with 10 corpus anchors. This is the missing 11th anchor — BT1 founding-set Trunks print that the wave 65 vision-pass surfaced. Clean N:1 collapse: card frontmatter gets characters: [trunks], node's appears_on gets the new entry. Edgelord notes this is the SECOND straight founding-set Trunks-character reference (TB2-007 'Tiny Rivals Trunks' from the World Martial Arts Tournament set is already wired) — BT1-039 + TB2-007 together anchor the Kid-Trunks Buu-Saga / Junior-Tournament cohort. Blueballs because it's not a 1:1 mirror, but the load-bearing graph improvement is real: a founding-set BT1 anchor for one of the franchise's primary characters should not be orphaned.",
+  "citations": [
+    "[Dragon Ball Wiki: Trunks — canonical character page, Kid Trunks aspect; Buu-Saga Junior Tournament cohort partner with Son Goten]",
+    "[Dragon Ball Wiki: Future Trunks / Kid Trunks aspect disambiguation]",
+    "[Wikipedia: Trunks (Dragon Ball) — multi-incarnation character summary]",
+    "[Dragon Ball Z manga (Akira Toriyama, Shueisha, 1991 introduction in chapter ~330 Cell-saga-future-timeline)]",
+    "[dbs-cardgame.com — BT1 Galactic Battle product page]"
+  ],
+  "files_modified": [],
+  "frontmatter_wires_pending_parent_apply": [
+    {"card": "cards/dragon-ball-super/galactic-battle/bt1-039-trunks.md", "field": "characters", "action": "add", "value": "trunks"}
+  ],
+  "node_appears_on_pending_parent_apply": [
+    {"node": "cards/_characters/trunks.md", "action": "extend_appears_on", "value": "dragon-ball-super/galactic-battle/bt1-039-trunks"}
+  ],
+  "other_candidates_considered": [
+    "BT1-030 Son Goku // Super Saiyan Blue Son Goku → son-goku (parallel founding-set anchor; selected for E4)",
+    "BT1-036 God Charge Vegeta → vegeta (parallel founding-set anchor; would extend vegeta's appears_on from 3 to 4)",
+    "BT1-045 Boost Attack Piccolo → namekian (parallel founding-set anchor; would extend namekian's appears_on)",
+    "BT2-119 Cabira → REFUSED (canonical Frieza-Force-by-Chilled-genealogy soldier, but Frieza-Force node doesn't exist and no co-corpus partners; Toobi + Chilled + Bardock all not in inventory — solo card, no edge available)",
+    "Garruk's Uprising → REFUSED (Garruk character node doesn't exist; all related Garruk prints not in BBL corpus — solo card with no co-corpus partners; future-node candidate)",
+    "Vito Thorn of the Dusk Rose → REFUSED (Ixalan Legion of Dusk Church-of-Dusk vampire hierophant, NOT Ravnica Orzhov Syndicate; Elenda / Mavren Fein / Sanguine Bond all not in corpus; isolated character with no co-corpus partner; future-node candidate is church-of-dusk.md or legion-of-dusk.md when Elenda lands)"
+  ],
+  "edgelord_mood": "blueballed-by-fanout",
+  "notes": "Edgelord's professional sigh. Card-title-is-the-character match. Founding-set BT1 anchor for a character node with 10 prior entries should not be orphaned simply because no clean 1:1 mirror exists. The character-attach edge is load-bearing because future Discrete Lair work on the Buu-Saga / Junior-Tournament arc will index BT1-039 through trunks.md, not through the orphaned card-MD. The substrate counter does NOT change (E3 is an edge, not a node — substrate stays at 70 nodes post-E2)."
+}

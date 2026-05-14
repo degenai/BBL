@@ -1,0 +1,36 @@
+{
+  "card_name": "Instant Transmission",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-097",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Instant Transmission' — the named technique of Son Goku, with the two-finger forehead gesture iconography on the art being Goku's signature visual identifier for this specific technique (anti-conflation criterion d: signature visual identifier enforced by the source IP's visual continuity). Card is yellow-aligned, Goku's Lineage [Permanent] condition, Super Saiyan figure in orange gi.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Instant Transmission (Shunkan Ido) was taught to Goku by the inhabitants of Planet Yardrat after his battle with Frieza and the destruction of Namek. Specifically, Pybara of Yardrat instructed Goku in the technique over approximately 150 days before Goku could initially execute it — a full year-long stay in total. Instant Transmission is one of multiple ki-control techniques of Yardrat's Spirit Control discipline; others include creating ki-clones and size expansion. [WebSearch: GameRant 'Dragon Ball: Instant Transmission Explained'; WebSearch: CBR 'Goku's Time on Yardrat']",
+      "sources": ["WebSearch: GameRant Dragon Ball Instant Transmission Explained", "WebSearch: CBR Goku Yardrat Facts Trivia"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Instant Transmission (BT4-097, Common, Yellow) is a Counter card with a [Permanent] condition: if your Leader is Goku's Lineage, when you activate the [Counter], you may add a card from your life to hand, and may then activate the [Counter] without paying its energy cost. The [Counter Attack] negates the opponent's attack. This makes it a free counter when Goku's Lineage leads — exceptional value for a common-rarity event card, and a strong incentive to run Goku's Lineage leaders in yellow BT4 builds. [WebSearch: BigOrbitCards BT4-097]",
+      "sources": ["WebSearch: BigOrbitCards BT4-097"]
+    },
+    {
+      "category": "design",
+      "text": "The two-finger forehead gesture depicted on the card is Instant Transmission's established visual shorthand across all Dragon Ball media — introduced in the manga with Goku's return from Yardrat during the Android/Cell arc. The Super Saiyan state shown here (golden hair) is consistent with Goku's common activation of the technique in Dragon Ball Super, where he frequently uses it mid-Super Saiyan transformation. The art reinforces that this is Goku performing the technique rather than an unnamed Yardratian, making it consistent with the suspected_ip flag. [WebSearch: Dragon Ball Wiki Instant Transmission (Fandom) via WebSearch]",
+      "sources": ["WebSearch: Dragon Ball Wiki Instant Transmission (Fandom)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kakarot", "set": "Colossal Warfare", "note": "BT4-082, Goku's Lineage common that benefits from this card's free-counter condition"},
+    {"name": "Prodigal Dynasty Son Goten", "set": "Colossal Warfare", "note": "BT4-085, same Goku's Lineage trait, potential leader context"},
+    {"name": "Height of Mastery Son Goku", "set": "Colossal Warfare", "note": "BT4-075 Special Rare, likely primary Goku's Lineage leader that unlocks this card's free counter"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

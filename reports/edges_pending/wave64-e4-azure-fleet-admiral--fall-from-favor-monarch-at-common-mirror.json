@@ -1,0 +1,65 @@
+{
+  "edge_id": "wave64-e4-azure-fleet-admiral--fall-from-favor-monarch-at-common-mirror",
+  "wave": 64,
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/commander-legends/58-azure-fleet-admiral.md", "name": "Azure Fleet Admiral (CMR-58)"},
+    {"type": "card", "path": "cards/magic-the-gathering/commander-legends/68-fall-from-favor.md", "name": "Fall from Favor (CMR-68)"}
+  ],
+  "description": "The two CMR commons that grant the Monarch on ETB / enchant-resolve. Commander Legends (November 2020) was the first Magic set to bring the Monarch mechanic to common rarity — the mechanic debuted at uncommon and rare in Conspiracy: Take the Crown (2016) and returned in CMR specifically to power the set's multiplayer draft engine. Scryfall's all_parts combo_piece field links BOTH cards to The Monarch token as designed components of CMR's deliberate Monarch theme cluster — designer-confirmed cohesion on the same first-party metadata path the Saga, Adventure, and Class subarchetypes use to declare designer-coordinated cycles. Hard receipts on both ends: Fall from Favor was banned in Pauper on January 14, 2021 — fifty-five days post-release — for compressing creature-tap + Monarch-engine + soft-lock into a three-mana common, which is the rare case where the design intent gets confirmed by the failure mode (commons at common rarity create format-warping pressure only at the rate of designer underestimation; that's the strongest single signal that the Monarch-at-common bracket was a designer-conscious push). Azure Fleet Admiral's own trivia already cross-references Fall from Favor as 'the other common Monarch-granter in CMR, design cluster partner' and vice versa. Both trivia bodies cite the Scryfall all_parts combo_piece field and the same Draftsim monarch-mechanic-history WebSearch source. The bullets I'm writing for both cards' Connections sections are the formal Edgelord-level edge that the Related-cards bullets already foreshadow.",
+  "citations": [
+    "[Scryfall: Azure Fleet Admiral all_parts field — combo_piece link to The Monarch token]",
+    "[Scryfall: Fall from Favor all_parts field — combo_piece link to The Monarch token]",
+    "[magic.wizards.com — January 14, 2021 Banned and Restricted Announcement — Fall from Favor banned in Pauper]",
+    "[Star City Games: 'Fall From Favor Banned in Pauper' (January 2021)]",
+    "[Draftsim: monarch mechanic history — CMR-as-Monarch-at-common-first cited]",
+    "[Conspiracy: Take the Crown (2016) — Monarch mechanic debut at uncommon/rare]",
+    "[In-corpus CMR-58 trivia bullet: 'CMR was the first Magic set to bring the Monarch mechanic to common rarity']",
+    "[In-corpus CMR-68 trivia bullet: 'It is one of two CMR commons in this slate that grant the Monarch — the other is Azure Fleet Admiral']"
+  ],
+  "files_to_modify": [
+    {
+      "path": "cards/magic-the-gathering/commander-legends/58-azure-fleet-admiral.md",
+      "action": "append `## Connections` section after `### Related cards` (or after Trivia if Connections does not yet exist) with bullet to [[68-fall-from-favor]]"
+    },
+    {
+      "path": "cards/magic-the-gathering/commander-legends/68-fall-from-favor.md",
+      "action": "append `## Connections` section with mirrored bullet to [[58-azure-fleet-admiral]]"
+    }
+  ],
+  "proposed_md_bullets": {
+    "for_azure_fleet_admiral": "- [[68-fall-from-favor]] — Designer-coordinated Monarch-at-common cohort within CMR. Both cards are the two CMR commons that grant the Monarch on resolve; both link to The Monarch token via Scryfall's `all_parts` combo_piece field as designed components of the set's Monarch theme cluster. CMR (November 2020) was the first Magic set to bring the Monarch mechanic to common rarity. Fall from Favor was banned in Pauper on January 14, 2021 — fifty-five days post-release — confirming via failure mode that the Monarch-at-common bracket was a designer-conscious push. [Scryfall: all_parts combo_piece field] [magic.wizards.com: January 14, 2021 Banned and Restricted Announcement]",
+    "for_fall_from_favor": "- [[58-azure-fleet-admiral]] — Designer-coordinated Monarch-at-common cohort within CMR. Both cards are the two CMR commons that grant the Monarch on resolve; both link to The Monarch token via Scryfall's `all_parts` combo_piece field as designed components of the set's Monarch theme cluster. CMR (November 2020) was the first Magic set to bring the Monarch mechanic to common rarity. Fall from Favor was banned in Pauper on January 14, 2021 — fifty-five days post-release — confirming via failure mode that the Monarch-at-common bracket was a designer-conscious push. [Scryfall: all_parts combo_piece field] [magic.wizards.com: January 14, 2021 Banned and Restricted Announcement]"
+  },
+  "edgelord_mood": "sighed-but-mirrored",
+  "edgelord_voice_footnote": "Two card-endpoints, both equal nodes, must be traversable from either side, hence the mirror. The sigh is professional, not personal. What earns this edge a place above the four other CMR candidates I considered is the designer-coordinated-cycle citation on first-party Scryfall metadata AND the ban-list confirmation of design intent via failure mode. Worst proposed edge ever would have been the consecutive-collector-number Angelic Gift + Anointer of Valor pair — adjacency without designer-coordination is a tag, not an edge. The Chandra-Jaya mentor pair was tempting but both cards are not yet trivia-passed; pre-drawing a mentor edge before triviabot canonicalizes the Jaya-as-mentor-to-Chandra relationship is confab-adjacent and I refuse it. This Monarch-at-common cohort survives both filters cleanly.",
+  "other_candidates_considered": [
+    {
+      "candidate": "Chandra Fire Artisan (WAR-119) ↔ Jaya Venerated Firemage (WAR-135) — pyromancer-lineage mentor pair",
+      "verdict": "DEFER — neither WAR card is trivia-passed; the canonical Jaya-as-Chandra's-mentor relationship is exactly the kind of canonical-source attribution triviabot is responsible for stamping. Pre-drawing the edge before trivia canonicalizes the mentor citation is confab-adjacent and violates the 'trivia never considers pre-enriched' wave 43 rule's spirit (canonical citations land in trivia first, edges hang off canonical citations second).",
+      "future_action": "Queue for re-evaluation post-WAR-119 / WAR-135 trivia pass; the Yongjae Choi same-artist signal + Jaya-as-Chandra's-mentor canonical lineage will form a strong Edgelord pass OR a chandra-nalaar.appears_on / related_characters extension."
+    },
+    {
+      "candidate": "UST goblin labor cluster — Capital Offense (UST-52) + Work a Double (UST-100)",
+      "verdict": "REJECT-AS-TAG-BRIDGE — both cards share goblin / labor / industrial hub tags but neither has trivia-passed canonical-cohort framing. Apparatus-of-extraction-via-goblin-comedy is a thesis BBL bundle copy can lean on later, but it is not a designer-confirmed cycle and not yet a load-bearing canonical edge. Tag-bridge captured by hubs layer already. Future-node candidate (goblin-labor-cluster) IF post-trivia ≥3 anchors emerge with designer citation."
+    },
+    {
+      "candidate": "Angelic Gift (CMR-7) + Anointer of Valor (CMR-8) — consecutive collector numbers, devotional register",
+      "verdict": "REJECT-AS-WEAK — consecutive collector numbers within a single set is adjacency-as-tag, not designer-coordinated cohort. Both trivia-passed but neither trivia cites a designer-confirmed angel-devotional cycle. Below threshold."
+    },
+    {
+      "candidate": "Azure Fleet Admiral (CMR-58) + Prosperous Pirates (CMR-85) — pirate creature-type pair",
+      "verdict": "DEFER — pirate creature-type cohort is plausible but flimsy; AFA's own trivia already names the Prosperous Pirates relationship in the Related-cards bullet (small pirate cohort at common). Pirate-cohort-within-CMR is a future stack-shape (multiple pirates converging on a pirate-cohort-node) rather than a 1:1 edge worth promoting on this wave. Reserve for a future cmr-pirate-cohort Mr. Nodeley node if ≥3 pirate prints land in corpus with designer citation."
+    },
+    {
+      "candidate": "Saiyan race-collective node (wave 63 carry-forward)",
+      "verdict": "DEFER — Mr. Nodeley budget consumed by E2 bulma this invocation. Anchor count reported as 10+ in parent prompt; needs verification scan but eligible for next dedicated Nodeley pass."
+    },
+    {
+      "candidate": "Piccolo solo / Bardock solo character nodes",
+      "verdict": "DEFER — anchor-count threshold-boundary unverified; Bardock relevant via BT4-117 Time-Trauma Masked Saiyan suspected_ip flagged in E3 sidecar. Future Nodeley pass."
+    }
+  ]
+}

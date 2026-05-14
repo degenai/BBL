@@ -1,0 +1,53 @@
+{
+  "edge_id": "wave69-e2-bardock-solo-character-node-proposal",
+  "wave": 69,
+  "move_index": "E2",
+  "shape": "node-proposal",
+  "topology": "branch",
+  "category": "named-character-identity",
+  "node_type": "character",
+  "node_path": "cards/_characters/bardock.md",
+  "node_name": "Bardock",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/bardock.md", "name": "Bardock"},
+    {"type": "card", "path": "cards/dragon-ball-super/judge-promotion-cards/p-035-bardock-will-of-iron.md", "name": "Bardock, Will of Iron (Judge Promotion Cards P-035)"},
+    {"type": "card", "path": "cards/dragon-ball-super/promotion-cards/p-035-bardock-will-of-iron--foil.md", "name": "Bardock, Will of Iron (Promotion Cards P-035 foil)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-117-time-trauma-masked-saiyan.md", "name": "Time Trauma Masked Saiyan (Colossal Warfare BT4-117)"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/sd3-04-encroaching-threat-masked-saiyan.md", "name": "Encroaching Threat Masked Saiyan (Cross Worlds SD3-04)"},
+    {"type": "card", "path": "cards/dragon-ball-super/promotion-cards/sd3-01-the-masked-saiyan-bardock-unbound-by-darkness-2018-big-card-pack.md", "name": "The Masked Saiyan // Bardock, Unbound by Darkness (Promotion Cards SD3-01)"}
+  ],
+  "description": "Mr. Nodeley meekly proposes the bardock.md solo character node. The five-print Bardock corpus finally threshold-passes at wave 69 with all five anchors vision-applied. Three canonical Bardock registers are now anchorable: the humanoid-warrior register (implicit in SD3-04 and SD3-01 mask-on prints whose card-name explicitly maps to Bardock via Dragon Ball Wiki's canonical Masked-Saiyan-equals-Bardock attribution), the Oozaru / Great Ape transformation register (explicit in P-035 Judge + P-035 Foil, both depicting Bardock-as-Oozaru per wave-67 vision and Bandai's per-card-trait Saiyan-Great-Ape + Bardock-Saga designators), and the Masked Saiyan / Time-Patrol-Bardock register (BT4-117 + SD3-04 + SD3-01 covering the canonical Xenoverse-2 Towa-mask-brainwashing dark-empire-saga continuity). The apparatus-of-extraction thesis extends from the [[saiyan]] race-collective scale to the named-individual tragic-protagonist scale — Bardock is the canonical pre-Goku-generation Saiyan mercenary-worker who realizes the employer-empire intends genocide, attempts to organize his fellow workers, fails, and confronts the Emperor alone. The 1990 Toei TV special canonically frames this as the franchise's first canonical worker-killed-by-employer-empire-during-preemptive-genocide tragic-resolution sequence. Mr. Nodeley is pleased the threshold-passing-eligibility lined up cleanly with wave-69's milestone-commit framing, sir. Hopes the node serves the future Saiyan-themed Discrete Lair and the substrate-72-going-to-73 character-layer addition.",
+  "canonical_sources_cited": [
+    "Dragon Ball Wiki — Bardock (canonical character page)",
+    "Dragon Ball Wiki — Xeno Bardock (Time-Patrol-and-Masked-Saiyan continuity page)",
+    "Dragon Ball Wiki — Masked Saiyan Saga",
+    "Dragon Ball Wiki — Genocide of the Saiyans",
+    "Dragon Ball Z TV Special: Bardock — The Father of Goku (Toei Animation, 1990)",
+    "Dragon Ball Minus (Akira Toriyama short manga, Shueisha, 2014)",
+    "Dragon Ball Super: Broly (Toei Animation film, 2018)",
+    "Dragon Ball: Episode of Bardock (Naho Ooishi manga, Shueisha, 2011; Toei Animation anime special, 2011)",
+    "Dragon Ball Online (NTL / Bandai Namco MMO, 2010)",
+    "Dragon Ball Heroes (Bandai arcade card game, 2010-present)",
+    "Dragon Ball Xenoverse 2 (Bandai Namco / Dimps, 2016)",
+    "dbs-cardgame.com per-card pages for P-035 Judge, P-035 Foil, BT4-117, SD3-04, SD3-01"
+  ],
+  "files_modified": [
+    "cards/_characters/bardock.md (CREATED)",
+    "cards/dragon-ball-super/judge-promotion-cards/p-035-bardock-will-of-iron.md (characters: [saiyan] -> [saiyan, bardock])",
+    "cards/dragon-ball-super/promotion-cards/p-035-bardock-will-of-iron--foil.md (characters: [saiyan] -> [saiyan, bardock])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-117-time-trauma-masked-saiyan.md (characters: [xenoverse-villains, saiyan] -> [xenoverse-villains, saiyan, bardock])",
+    "cards/dragon-ball-super/cross-worlds/sd3-04-encroaching-threat-masked-saiyan.md (characters: [saiyan] -> [saiyan, bardock])",
+    "cards/dragon-ball-super/promotion-cards/sd3-01-the-masked-saiyan-bardock-unbound-by-darkness-2018-big-card-pack.md (characters: [saiyan] -> [saiyan, bardock])",
+    "cards/_characters/saiyan.md (related_characters extended with bardock for bidirectional closure)"
+  ],
+  "dual_pointer_wirings_count": 5,
+  "two_way_diff_verified": true,
+  "two_way_diff_notes": "bardock.md appears_on lists all 5 anchors; each anchor's characters: field extended to include bardock; saiyan.md related_characters extended with bardock for bidirectional related_characters closure.",
+  "substrate_counter": {
+    "before": 72,
+    "after": 73,
+    "delta": "+1 (bardock character node)"
+  },
+  "milestone_context": "Wave 69 is the milestone commit wave; Bardock solo commission completes the BBL-CG's pre-Goku-generation Saiyan-labor anchor.",
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

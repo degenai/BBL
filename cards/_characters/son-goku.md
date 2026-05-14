@@ -13,14 +13,16 @@ appears_on:
   - dragon-ball-super/cross-worlds/bt3-058-pressure-assault-super-saiyan-son-goku
   - dragon-ball-super/colossal-warfare/bt4-005-blazing-spirit-son-goku
   - dragon-ball-super/colossal-warfare/bt4-026-sneak-attack-son-goku
+  - dragon-ball-super/colossal-warfare/bt4-077-indomitable-dynasty-ss-son-goku
   - dragon-ball-super/colossal-warfare/bt4-079-unbroken-dynasty-son-goku
+  - dragon-ball-super/colossal-warfare/bt4-080-deadly-golden-great-ape-son-goku
   - dragon-ball-super/expansion-deck-box-set-08-magnificent-collection-forsaken-warrior/bt4-078-dependable-dynasty-son-goku
   - dragon-ball-super/mythic-booster/sd2-03-unbreakable-super-saiyan-son-goku
   - dragon-ball-super/world-martial-arts-tournament/tb2-036-trading-blows-son-goku
   - dragon-ball-super/world-martial-arts-tournament/tb2-052-future-martial-artist-son-goku
 related_hubs: []
 related_symbols: []
-related_characters: [trunks, baby-dbgt, namekian]
+related_characters: [trunks, baby-dbgt, namekian, bardock]
 ip_resolution_for: son-goku
 ---
 

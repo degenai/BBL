@@ -1,0 +1,36 @@
+{
+  "card_name": "Prodigal Dynasty Son Goten",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-085",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Prodigal Dynasty Son Goten' — explicit character name. Saiyan/Earthling/Goku's Lineage traits, young Super Saiyan in blue gi, Son Goten GT era tag all confirm. Card name is direct evidence per anti-conflation rule criterion (a).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Son Goten is the youngest child of Goku and Chi-Chi, and holds the distinction in Dragon Ball lore of being the youngest known Super Saiyan — achieving the transformation around age seven. Unlike Gohan, who needed extreme emotional trauma to first transform, Goten manifested Super Saiyan so naturally that he did not realize the change until Chi-Chi pointed it out, attributed to his exceptionally high S Cell count inherited from Goku. [WebSearch: Dragon Ball Wiki Goten (Fandom) via WebSearch]",
+      "sources": ["WebSearch: Dragon Ball Wiki Goten (Fandom)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Prodigal Dynasty Son Goten (BT4-085, Common, Yellow) carries [Swap 4]: pay 2 yellow to play any Goku's Lineage card with energy cost 4, returning this card to hand. This positions it as a recycle-and-upgrade piece — rather than a board presence, it acts as a bridge into higher-cost Goku's Lineage plays while returning itself as a reusable resource. Its [Auto] on combo adds +10,000 combo power when defending a yellow Battle Card — a conditional defensive boost relevant in yellow Goku Lineage mirrors. [WebSearch: DBZExchange BT4-085; WebSearch: cartajouer.com BT4-085]",
+      "sources": ["WebSearch: DBZExchange BT4-085", "WebSearch: cartajouer.com BT4-085"]
+    },
+    {
+      "category": "design",
+      "text": "The card is tagged Son Goten: GT era — placing it in the Dragon Ball GT continuity rather than Dragon Ball Super proper. BT4's Colossal Warfare set intentionally blended multiple eras, with the GT Baby Saga as a headline arc. Goten in GT is notably deprioritized versus his DBZ peak: the title 'Prodigal Dynasty' gestures at inherited greatness, with 'prodigal' carrying the double sense of gifted-but-absent (GT Goten is largely sidelined in the Baby arc). [WebSearch: bleedingcool.com Colossal Warfare Checklist; WebSearch: DBZExchange BT4-085]",
+      "sources": ["WebSearch: bleedingcool.com Colossal Warfare Checklist", "WebSearch: DBZExchange BT4-085"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kakarot", "set": "Colossal Warfare", "note": "BT4-082, same Goku's Lineage trait family, adjacent in collector range"},
+    {"name": "Instant Transmission", "set": "Colossal Warfare", "note": "BT4-097, Goku's Lineage leader synergy card in the same set"},
+    {"name": "Indomitable Dynasty SS Son Goku", "set": "Colossal Warfare", "note": "BT4-077, likely the energy-cost-4 Goku's Lineage target for this card's Swap skill"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

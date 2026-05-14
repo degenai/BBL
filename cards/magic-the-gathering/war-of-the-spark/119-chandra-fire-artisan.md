@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["pyromancer", "fire", "planeswalker", "warrior", "flame", "magic-user", "resistance", "battle", "pyrokinesis", "armor"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "red-magic", "action-mode", "female-figure"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/119-chandra-fire-artisan.png
 average_cost_paid: 0
 market_price: 0.43
@@ -28,6 +28,36 @@ oracle_text: Whenever one or more loyalty counters are removed from Chandra, she
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: indoor
+subject_known_ip: true
+suspected_ip: Chandra Nalaar
+ip_confidence: high
+ip_verified: false
 ---
 
 # Chandra, Fire Artisan (War of the Spark)
+
+## Vision
+
+![119-chandra-fire-artisan](../../_images/magic-the-gathering/war-of-the-spark/119-chandra-fire-artisan.png)
+
+> [!warning] Suspected IP: **Chandra Nalaar** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A figure in dark plate-and-leather armor strides forward with both hands extended, each palm holding a concentrated ball of flame. Her hair blazes into a corona of fire. Her expression is fierce and focused. Surrounding her in the purple-toned background are multiple mechanical or eldritch floating orbs with single blue eyes — Phyrexian observation constructs or similar surveillance creatures. The scene takes place in a confined, haze-filled space. The contrast between the warm orange fire and the cool purple background is visually striking. The card name and oracle text confirm this is Chandra.
+
+**Subject:** A young humanoid pyromancer with fire-wreathed hair channeling flames from both hands, surrounded by mechanical floating eye-creatures
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** indoor, indeterminate, smoke
+**Foreground:** Pyromancer with fire-wreathed hair, flames in both hands  *(palette: orange, amber, dark steel)*
+**Background:** Purple haze, mechanical floating eye-orbs  *(palette: deep purple, lilac, blue)*
+**Mood / lighting:** action, rim
+**Emotion read:** fierce determination, combat focus
+**Objects:** flame balls, floating eye-orbs
+**Creatures:** mechanical eye-creatures
+**Iconography:** fire, eye motif
+**Genre cues:** fantasy
+

@@ -1,0 +1,41 @@
+{
+  "card_name": "Videl, Gohan's Partner",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-018",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Videl, Gohan's Partner'. Vision confirms young woman with short dark hair in light top, confident posture — consistent with DBS-era adult Videl's signature shorter cut. Named card.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Videl is the daughter of World Champion Hercule (Mr. Satan) and the wife of Son Gohan; their daughter Pan is a future mainstay of the franchise. Videl is thus the connective tissue between the Satan/Hercule lineage and the Son/Goku lineage — a mortal woman holding together two of Dragon Ball's most structurally important family lines. [Wikipedia: Videl; Dragon Ball Wiki: Videl, via WebSearch snippets]",
+      "sources": ["Wikipedia: Videl, via WebSearch snippet", "Dragon Ball Wiki: Videl, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Videl deduced Gohan's identity as the Great Saiyaman through investigation — she then blackmailed him into teaching her ki manipulation in exchange for keeping his secret. She subsequently trained hard enough to enter the 25th World Martial Arts Tournament herself, making her one of the few mortals in the series to proactively pursue power rather than receive it as a gift. [Dragon Ball Wiki: Videl, via WebSearch snippet]",
+      "sources": ["Dragon Ball Wiki: Videl, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "During the Buu Saga, Videl was told by Goku that Gohan had been killed by Buu. She tearfully admitted she had fallen in love with him but refused to believe he was dead. Four years after Buu's defeat they married; Pan was born a year after that. [Dragon Ball Wiki: Videl; CBR: 'Everything You Need To Know About Gohan and Videl's Relationship', via WebSearch snippets]",
+      "sources": ["Dragon Ball Wiki: Videl, via WebSearch snippet", "CBR, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "The Vision section notes Videl's short hair — consistent with her Dragon Ball Super adult design. In Dragon Ball Z she wore her hair in signature pigtails; she cut it shorter during the Buu Saga after Gohan asked her to for flight training. The hair-cut is a small canon beat that fans use to date card art. [Dragon Ball Wiki: Videl, via WebSearch snippet]",
+      "sources": ["Dragon Ball Wiki: Videl, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hercule, Buu's Assistant", "set": "Union Force BT2-017", "note": "Videl's father; parent-child cohort"},
+    {"name": "Gohan", "set": "various", "note": "Videl's husband and Great Saiyaman partner"},
+    {"name": "Pan", "set": "various", "note": "Videl and Gohan's daughter; Pan-family-cohort future trigger"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

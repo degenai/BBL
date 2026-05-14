@@ -30,6 +30,7 @@ setting: indoor
 suspected_ip: Bulma (Dragon Ball)
 ip_confidence: high
 ip_verified: true
+characters: [bulma]
 ---
 
 # Dependable Mom Bulma (Colossal Warfare)

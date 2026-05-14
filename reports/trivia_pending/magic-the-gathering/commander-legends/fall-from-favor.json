@@ -1,0 +1,43 @@
+{
+  "card_name": "Fall from Favor",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "68",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Fall from Favor is a CMR-original card (Scryfall: reprint: false) and carries no flavor text. It is one of two CMR commons in this wave that grant the Monarch — the other being Azure Fleet Admiral (CMR 58). The Monarch mechanic was brought to common rarity for the first time in CMR, a deliberate design choice to make it a recurring draft-format theme rather than a rare luxury.",
+      "sources": ["Scryfall", "WebSearch: Draftsim monarch mechanic history"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Fall from Favor is banned in Pauper, the only format where a common could create a format-warping issue. Wizards announced the ban on January 14, 2021 — less than two months after CMR's November 20, 2020 release. The ruling cited Fall from Favor's ability to simultaneously remove a blocker, gain the Monarch (card draw engine), and lock that creature out of attacking as long as its controller isn't the Monarch. It compressed two distinct powerful effects into one three-mana common Aura, pushing out aggressive strategies from the Pauper metagame. It remains legal in Commander, Legacy, Vintage, and PauperCommander.",
+      "sources": ["Scryfall", "WebSearch: Star City Games Fall From Favor Banned in Pauper", "WebSearch: magic.wizards.com January 14 2021 Banned and Restricted Announcement"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Scryfall all_parts field lists Fall from Favor as a combo_piece linked to The Monarch token, confirming it is a designed component of CMR's Monarch theme cluster alongside Azure Fleet Admiral and the Court cycle.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Caio Monteiro's composition — a robed figure staggering under a blue magical burst in front of a castle keep — visualizes the flavor concept of political disgrace rendered as physical curse. The card was previewed by MTG Muddstah (YouTube) on October 30, 2020, per the Scryfall preview field.",
+      "sources": ["Scryfall: preview source field — MTG Muddstah YouTube"]
+    }
+  ],
+  "related_cards": [
+    {"name": "The Monarch", "set": "Commander Legends Tokens", "note": "linked token — Scryfall all_parts combo_piece"},
+    {"name": "Azure Fleet Admiral", "set": "Commander Legends", "note": "CMR 58, the other common Monarch-granter in CMR — design cluster partner"},
+    {"name": "Monarch", "set": "Conspiracy: Take the Crown", "note": "original Monarch mechanic introduction set"},
+    {"name": "Court of Grace", "set": "Commander Legends", "note": "CMR Court cycle card — rewards staying Monarch, natural synergy"},
+    {"name": "Sinister Possession", "set": "Gatecrash", "note": "similar lockdown Aura that punishes attacking — mechanical ancestor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

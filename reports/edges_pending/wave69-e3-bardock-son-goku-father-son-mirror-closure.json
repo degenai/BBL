@@ -1,0 +1,27 @@
+{
+  "edge_id": "wave69-e3-bardock-son-goku-father-son-mirror-closure",
+  "wave": 69,
+  "move_index": "E3",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "parent-child",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/bardock.md", "name": "Bardock"},
+    {"type": "character", "path": "cards/_characters/son-goku.md", "name": "Son Goku"}
+  ],
+  "description": "Canonical Bardock-Goku father-son related_characters bidirectional mirror-closure. Bardock is canonically the father of Kakarot/Son Goku per Dragon Ball Minus (Toriyama, 2014), Dragon Ball Super: Broly (Toei, 2018), and the 1990 TV special Dragon Ball Z: Bardock — The Father of Goku. The wave-69 bardock.md commission listed son-goku in related_characters at creation time; son-goku.md did not previously list bardock because no bardock node existed pre-wave-69. This is the canonical mirror-closure: both nodes are equal character-layer nodes, both endpoints traversable from either side, parent-child relation is one of the franchise's most-canonical character-relations. Standard Edgelord professional sigh applies. The mirror is structural, not optional — son-goku's narrative-arc is canonically Bardock's posthumous succession (the Super Saiyan prophecy Frieza preemptively-genocided the Saiyan workforce to prevent ultimately materializes in Bardock's son, who returns to confront Frieza in the Namek-Frieza-Saga final-arc and defeats him as the canonical Super Saiyan Goku per the 1990 TV special's closing-image intercut). Bundle copy referencing the canonical worker's-son-becomes-the-future-the-worker-died-for succession-narrative thesis indexes both nodes.",
+  "citations": [
+    "[Dragon Ball Wiki: Bardock — canonical father-of-Goku attribution]",
+    "[Dragon Ball Wiki: Goku — canonical Saiyan-lineage Bardock-and-Gine parents attribution]",
+    "[Dragon Ball Minus, Toriyama, Shueisha, 2014 — canonical Bardock-Gine-infant-Kakarot departure scene]",
+    "[Dragon Ball Super: Broly, Toei Animation, 2018 — canonical Super-era Bardock-Gine-Kakarot-departure integration]",
+    "[Dragon Ball Z TV Special: Bardock — The Father of Goku, Toei Animation, 1990 — canonical father-son thesis title and closing-image intercut]"
+  ],
+  "files_modified": [
+    "cards/_characters/son-goku.md (related_characters: [trunks, baby-dbgt, namekian] -> [trunks, baby-dbgt, namekian, bardock])",
+    "cards/_characters/bardock.md (related_characters already includes son-goku at node-creation time, no edit needed)"
+  ],
+  "two_way_diff_verified": true,
+  "two_way_diff_notes": "bardock.md related_characters: [saiyan, son-goku, xenoverse-villains] (already wired at E2 node creation). son-goku.md related_characters: now extended with bardock. Bidirectional related_characters mirror confirmed.",
+  "edgelord_mood": "sighed-but-mirrored"
+}

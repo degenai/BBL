@@ -1,0 +1,41 @@
+{
+  "card_name": "Repeated Force Vegito",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-012",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Repeated Force Vegito'. Vision confirms Potara-fusion gi (blue and orange layered garments), Super Saiyan golden hair, white-blue energy consistent with Vegito's iconic appearance. Named card.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Vegito is the Potara Earring fusion of Goku and Vegeta — a distinct warrior identity from Gogeta, who is the Fusion Dance product. Vegito first appeared in Dragon Ball Z during the Buu Saga when Elder Kai provided Goku with Potara earrings specifically because there was no time to learn the Fusion Dance. [Dragon Ball Wiki: Vegito; CBR: 'Vegito: Dragon Ball's Weirdest and Most Powerful Body Fusion, Explained', via WebSearch snippets]",
+      "sources": ["Dragon Ball Wiki: Vegito, via WebSearch snippet", "CBR, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Potara fusion is described in Daizenshuu 7 as producing a stronger warrior than the Fusion Dance, amplified further by Goku and Vegeta's long rivalry — a rival-boost that Metamoran fusion does not have. The tradeoff: Fusion Dance is repeatable at 30-minute intervals; Potara (outside of Supreme Kai involvement) lasts one hour. [Saiyan Warrior: 'Fusion Dance vs Potara', via WebSearch snippet; Daizenshuu 7 as cited in ComicVine thread, via WebSearch snippet]",
+      "sources": ["Daizenshuu 7, cited via WebSearch snippet", "Saiyan Warrior article, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Super Vegito dominated Super Buu (who had absorbed Piccolo, Gotenks, and Ultimate Gohan) while fighting with only his feet, making it one of the most lopsided combat demonstrations in the series. He de-fused inside Buu's body — an outcome Dragon Ball Super later explained as caused by the magical nature of Buu's interior. [CBR: 'Vegito Came Close to Losing to Super Buu in Dragon Ball Z'; CBR: 'Dragon Ball Super Explains Why Vegito De-fused Inside Majin Buu', via WebSearch snippets]",
+      "sources": ["CBR, via WebSearch snippets"]
+    },
+    {
+      "category": "design",
+      "text": "Anti-conflation note: Vegito (Potara) and Gogeta (Fusion Dance) are two entirely separate fused beings with different personalities, power profiles, and narrative contexts. The card name and Potara gi make this Vegito specifically — not Gogeta. [Dragon Ball Wiki: Vegito vs Gogeta canonical distinction, via WebSearch snippets]",
+      "sources": ["Dragon Ball Wiki: Vegito, via WebSearch snippet; Dragon Ball Wiki: Fusion Dance, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Prodigy Fusion Super Saiyan Gotenks", "set": "Union Force BT2-015", "note": "Fusion-warrior cohort pair; both are Buu-Saga fusions"},
+    {"name": "Gogeta", "set": "various", "note": "The other Goku+Vegeta fusion; Fusion Dance vs Potara disambiguation anchor"},
+    {"name": "Majin Buu Revived", "set": "Union Force BT2-028", "note": "Vegito's canonical combat opponent in the Buu Saga"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

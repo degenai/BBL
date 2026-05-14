@@ -29,7 +29,8 @@ time_of_day: indeterminate
 setting: other
 suspected_ip: Son Goku / Kakarot (Dragon Ball Super)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
+characters: [saiyan]
 ---
 
 # Kakarot (Colossal Warfare)
@@ -38,8 +39,8 @@ ip_verified: false
 
 ![bt4-082-kakarot](../../_images/dragon-ball-super/colossal-warfare/bt4-082-kakarot.png)
 
-> [!warning] Suspected IP: **Son Goku / Kakarot (Dragon Ball Super)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Son Goku / Kakarot (Dragon Ball Super)**
+> Confirmed via card name ("Kakarot"), Saiyan/Goku's Lineage traits, and Saiyan Saga era designation. [Wikipedia: Goku; WebSearch: BigOrbitCards BT4-082]
 
 A humanoid figure with dark spiky hair wears an orange gi and steps or lunges forward with one hand extended toward the viewer. The posture reads as urgent or earnest rather than aggressive. In the background, another figure — older, wearing different attire — is partially visible. The lighting is clean and bright, the background soft and light-toned. The composition is a mid-shot with the foreground figure slightly off-center.
 
@@ -53,4 +54,15 @@ A humanoid figure with dark spiky hair wears an orange gi and steps or lunges fo
 **Emotion read:** earnest urgency, reaching forward, determined expression
 **Iconography:** saiyan-gi, outstretched-hand
 **Genre cues:** anime, fantasy
+
+## Trivia
+
+- **Set lore** — Kakarot is Goku's Saiyan birth name, given on Planet Vegeta before he was sent to Earth as an infant. The name is a pun on "carrot," following the Saiyan family naming convention of root vegetables (Bardock/burdock, Raditz/radish, Vegeta/vegetable). A head injury as a child erased his initial destructive Saiyan nature, and he grew up as Son Goku, Earth's defender. [Wikipedia: Goku via WebSearch; WebSearch: CBR 'Why Does Vegeta Call Goku Kakarot']
+- **Mechanical** — Kakarot (BT4-082, Common, Yellow, 10,000 power, cost 1) carries no skill — a vanilla stat-stick functioning as cheap combo fodder or early board presence in yellow Goku's Lineage builds. At cost 1, it is one of the most economical Goku's Lineage cards in BT4 and synergizes structurally with Instant Transmission (BT4-097), whose [Permanent] waives counter cost when a Goku's Lineage Leader is in play. [WebSearch: BigOrbitCards BT4-082]
+- **Design** — Titling the card "Kakarot" rather than "Son Goku" foregrounds Saiyan heritage over Earth identity. In Dragon Ball Super: Broly, Goku specifically requested Broly call him Kakarot — the first on-screen sign of Goku actively embracing his Saiyan birth name — making the Kakarot framing increasingly canonical in the Super-era card game. [WebSearch: CBR 'Why Broly Didn't Call Goku Kakarot in DBS Chapter 92']
+
+### Related cards
+- Instant Transmission (Colossal Warfare, BT4-097) — Goku's Lineage [Permanent] condition makes this card's counter free when Kakarot's trait is on the Leader
+- Prodigal Dynasty Son Goten (Colossal Warfare, BT4-085) — adjacent in collector range, same Goku's Lineage trait family
+- Height of Mastery Son Goku (Colossal Warfare, BT4-075) — Special Rare, same character at higher rarity in the same set
 

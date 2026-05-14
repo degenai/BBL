@@ -1,0 +1,41 @@
+{
+  "card_name": "Trunks' Time Machine",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-066",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Trunks' Time Machine'; Vision confirms dome-shaped Capsule Corporation pod with figure of matching description. Named artifact — not an unnamed prop.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Union Force (DBS-B02) is the second main booster set of the Dragon Ball Super Card Game, released November 3, 2017. [dbs-cardgame.com product page]",
+      "sources": ["dbs-cardgame.com product page, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "The Time Machine was engineered by Future Bulma in the alternate future timeline where the Androids devastated Earth. She built it in a secret underground basement beneath Capsule Corporation. [Dragon Ball Wiki: Time Machine, via WebSearch snippet]",
+      "sources": ["Dragon Ball Wiki: Time Machine, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The inscription 'HOPE!!' is painted on the machine's side. The manga (Volume 16, chapter 358, Viz translation) attributes it to Future Trunks himself ('I wrote this the day I left'); the anime dub credits Future Bulma. The discrepancy is documented at Kanzenshuu. [Kanzenshuu forum thread 'Who actually wrote HOPE!! on the Time Machine', via WebSearch snippet]",
+      "sources": ["Kanzenshuu forum: 'Who actually wrote HOPE!! on the Time Machine', via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The machine is a Capsule Corporation artifact — Capsule Corp supplies all vehicle and equipment technology in the Dragon Ball universe, founded by Dr. Brief and carried forward in the future timeline by Future Bulma. [Dragon Ball Wiki: Capsule Corporation, via WebSearch snippet]",
+      "sources": ["Dragon Ball Wiki: Capsule Corporation, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Future Trunks", "set": "Union Force", "note": "The machine's user; Future Trunks travels to the past to warn the Z Warriors"},
+    {"name": "Future Bulma", "set": "various", "note": "Engineer of the Time Machine; the apparatus-of-extraction labor anchor for this artifact"},
+    {"name": "Capsule Corporation card", "set": "various", "note": "Institutional origin of the technology"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

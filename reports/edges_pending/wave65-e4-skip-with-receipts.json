@@ -1,0 +1,16 @@
+{
+  "edge_id": "wave65-e4-skip-with-receipts",
+  "wave": 65,
+  "shape": "skip-with-receipts",
+  "category": "no-edge-this-pass",
+  "description": "Edgelord declines to force a fourth edge. The wave's load is already heavy: E2 commissioned the saiyan race-collective node with 11 corpus anchors + 7 dual-wire candidates for parent-apply + related_characters refactoring against son-goku, vegeta, trunks, baby-dbgt, xenoverse-villains, namekian. E3 mirrored the CMR pirate-cohort cleanly. Forcing a fourth edge dilutes museum-curation rigor and risks a thin pick. Per the museum-curation framing, refusal-with-receipts is first-class output.",
+  "candidates_surveyed_but_not_advanced": [
+    {"candidate": "Bardock-solo node commission", "verdict_detail": "DEFERRED. P-035 ×2 promo prints and SD3-01 are vision-pending. Only BT4-117 + SD3-04 are vision-enriched, below the threshold-of-3-enriched-anchors rule for solo character nodes. Re-evaluate after P-035 vision pass."},
+    {"candidate": "Universe-6-tournament cohort node (Champa-Vados-Hit-Cabba-Frost-Botamo-Magetta)", "verdict_detail": "DEFERRED. Only Cabba ×2 is identified in corpus; no Champa/Vados/Hit/Frost/Botamo/Magetta prints have surfaced enriched-or-canonical attribution. Threshold-of-3-cards-of-Universe-6-cohort not yet met. Re-evaluate when wave-65+ vision slate lands."},
+    {"candidate": "DSK-toy-horror + DSK-survival-archetype + fear-of-cycle triangle reinforcement", "verdict_detail": "DEFERRED. Triangle reinforcement edges are best done as a dedicated wave with all three node-ends pre-loaded; not appropriate as an E4 fallback pick."},
+    {"candidate": "Generic --unwired pair from bbl_edgelord_queue.py", "verdict_detail": "NOT QUERIED. Permission-gated subagent Bash; parent's E4 directive offered this as an option only if no clean E3 surfaced. E3 did surface; E4 quota best left fallow."},
+    {"candidate": "Bardock P-035 ↔ BT4-117 Time-Trauma-Masked-Saiyan 1:1 mirror (Bardock-canonical-identity bridge)", "verdict_detail": "REJECTED. P-035 vision pending; cannot draw an edge with an unenriched endpoint per the standard Edgelord enriched-endpoints-only rule. The dual-wire on saiyan-race-node is the temporary holding pattern until P-035 enriches and a Bardock-solo-node commission can be evaluated."}
+  ],
+  "edgelord_mood": "satisfied",
+  "voice_note": "Quality of one edge plus one node-commission plus one clean mirror >> quantity of forced fourth-pick. The wave's substrate-delta (68 → 69 nodes) is non-trivial; the saiyan race-node has 11 anchors + 7 dual-wire candidates queued for parent-apply. Refusing the fourth pick is the correct discipline."
+}

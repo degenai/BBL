@@ -1,0 +1,31 @@
+{
+  "edge_id": "wave66-e4-vegeta-bt1-036-attach",
+  "shape": "1:N",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/vegeta.md", "name": "Vegeta (character node)"},
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-036-god-charge-vegeta.md", "name": "God Charge Vegeta (BT1-036)"}
+  ],
+  "description": "Card title is 'God Charge Vegeta' — Vegeta in Super Saiyan Blue / Super Saiyan God Super Saiyan transformation state per the canonical DBS Future Trunks Saga / Universe Survival-era continuity. Vision-pass tags include 'god-form', 'blue-aura', 'saiyan', 'super-saiyan-blue-form' (filter), 'pride', 'iconic'. suspected_ip 'Vegeta (Dragon Ball Super)' with ip_confidence: high. The character node vegeta.md already covers this aspect: 'Super Saiyan Blue Vegeta (the DBS Future Trunks Saga / Universe Survival-era Vegeta who unlocks Super Saiyan God Super Saiyan and continues through DBS\\'s god-tier opponents)'. BT1-036 is the missing founding-set BT1 anchor for the SSB-Vegeta aspect specifically — currently vegeta's appears_on lists only 3 entries (bt1-066 tenacious-vegeta Z-era, tb2-006 power-misused, bt2-063 father-son-galick-gun); BT1-036 would extend to 4 entries and add the SSB-transformation-state aspect coverage. Clean N:1 collapse parallel to E3: card frontmatter gets characters: [vegeta], node's appears_on gets the new entry. Edgelord notes that BT1-066 (already wired) is Vegeta-base-form and BT1-036 is Vegeta-SSB-form — wiring both at the same character node lets the bundler index Vegeta-in-transformation-state-progression across the BT1 founding set without inventing canon.",
+  "citations": [
+    "[Dragon Ball Wiki: Vegeta — canonical character page; Super Saiyan Blue transformation-state coverage]",
+    "[Dragon Ball Wiki: Super Saiyan Blue — canonical SSGSS transformation per Dragon Ball Super continuity]",
+    "[Dragon Ball Super anime (Toei Animation, 2015-2018) — Future Trunks Saga / Universe Survival Saga primary canon for SSB-Vegeta]",
+    "[dbs-cardgame.com — BT1 Galactic Battle product page]"
+  ],
+  "files_modified": [],
+  "frontmatter_wires_pending_parent_apply": [
+    {"card": "cards/dragon-ball-super/galactic-battle/bt1-036-god-charge-vegeta.md", "field": "characters", "action": "add", "value": "vegeta"}
+  ],
+  "node_appears_on_pending_parent_apply": [
+    {"node": "cards/_characters/vegeta.md", "action": "extend_appears_on", "value": "dragon-ball-super/galactic-battle/bt1-036-god-charge-vegeta"}
+  ],
+  "other_candidates_considered": [
+    "BT1-030 Son Goku SSB → son-goku (parallel founding-set anchor; deferred to a future pass — Son Goku has well-developed appears_on already at son-goku.md and the BT1-030 attach is similarly load-bearing but a third E5 would over-extend this wave)",
+    "BT1-045 Boost Attack Piccolo → namekian (parallel founding-set anchor for the Namekian race node; deferred to future pass)",
+    "BT1-002 Vados / BT1-006 Champa / BT1-007 Champa / BT1-013 Cabba / BT1-016 Frost / BT1-019 Botamo / BT1-020 Magetta / BT1-027 Cabba's Awakening / BT1-003 Hit — all the new universe-6-tournament-cohort attaches established in E2 (will be parent-applied from E2's JSON; not duplicated here)"
+  ],
+  "edgelord_mood": "blueballed-by-fanout",
+  "notes": "Second straight blueballs. Worst-case mood combo for Edgelord on a single wave (E2 was Mr. Nodeley which carries a different mood-axis, but E3 + E4 are both blueballs). However the work is correct: founding-set BT1 anchors for the franchise's two highest-canonical-weight Saiyan characters (Trunks at E3, Vegeta at E4) should not be orphaned simply because their canonical partners aren't in 1:1-mirror configurations. The Discrete Lair work that comes next will index through these character nodes, not through orphaned BT1-039 / BT1-036 card-MDs. Substrate counter: stays at 70 nodes."
+}

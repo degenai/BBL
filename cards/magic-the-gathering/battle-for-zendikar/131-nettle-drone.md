@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["eldrazi", "drone", "spines", "cosmic-horror", "invasion", "zendikar", "consumption", "radial-burst", "predator", "otherworldly"]
+tags_filter: ["solo", "close-up", "forward-facing", "colorless-magic", "creature-eldrazi", "devoid", "no-face"]
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/131-nettle-drone.png
 average_cost_paid: 0
 market_price: 0.21
@@ -28,6 +28,29 @@ oracle_text: Devoid (This card has no color.)\n{T}: This creature deals 1 damage
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: void
 ---
 
 # Nettle Drone (Battle for Zendikar)
+
+## Vision
+
+![131-nettle-drone](../../_images/magic-the-gathering/battle-for-zendikar/131-nettle-drone.png)
+
+A close-up of an Eldrazi drone centered in the frame against a pale, washed-out white-grey background. Its body is dominated by a large globular torso covered in dense reddish-brown spines or thorn-like protrusions. The creature has a small, skull-like head at the top of the torso, with minimal facial features. Its lower appendages are dark blue-black and claw-like, splaying to either side. Surrounding the creature is a spray or burst of bone-white spike-shaped objects radiating outward — either projectiles being fired or spines extending from its body. The overall effect is radial and explosive in composition. No bilateral symmetry is present.
+
+**Subject:** A compact Eldrazi drone creature with a bulbous red-brown spiny torso, multiple spike-like projections radiating from its body, and a small skull-like head — surrounded by a burst of scattered spines or projectiles
+
+**Composition:** close-up, action, figures: solo, facing: forward
+**Setting:** void, indeterminate
+**Foreground:** Spiny red-brown torso of Eldrazi drone, dark clawed limbs  *(palette: red-brown, dark-blue, bone-white)*
+**Background:** Pale grey-white diffuse light, scattered spike-shaped projectiles  *(palette: off-white, pale-grey)*
+**Mood / lighting:** action, ambient
+**Emotion read:** explosive threat, bristling aggression
+**Objects:** spines, projectiles
+**Creatures:** eldrazi-drone, eldrazi
+**Iconography:** asymmetric-biology, radial-burst, spines
+**Genre cues:** fantasy, cosmic-horror
+

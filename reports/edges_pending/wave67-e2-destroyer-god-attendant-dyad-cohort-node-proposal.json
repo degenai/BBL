@@ -1,0 +1,50 @@
+{
+  "edge_id": "wave67-e2-destroyer-god-attendant-dyad-cohort-node-proposal",
+  "shape": "node-proposal",
+  "category": "named-character-identity",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/destroyer-god-attendant-dyad.md", "name": "Destroyer God / Angel Attendant dyad (DBS multiverse cosmology)"},
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-002-vados-aide-vados.md", "name": "Vados // Aide Vados"},
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-006-scheming-champa.md", "name": "Scheming Champa"},
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-007-manipulating-god-champa.md", "name": "Manipulating God Champa"},
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-042-energy-boost-beerus.md", "name": "Energy Boost Beerus"},
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-043-whis-judge-of-the-gods.md", "name": "Whis, Judge of the Gods"}
+  ],
+  "description": "Mr. Nodeley reluctantly steps in, sir — Edgelord wanted a clean Beerus<->Whis 1:1 mirror but the four-anchor parallel-sibling-dyad structure (Beerus+Whis U7, Champa+Vados U6, all Bandai-canonical BT1 launch-set, all wired to canonical DBS multiverse-cosmology lore) is structurally a node, not an edge. Five corpus anchors, all vision-passed. The apparatus-of-extraction thesis lands: angel-attendant is canonically stronger than the destroyer-god they serve (Toriyama 2013 Battle-of-Gods interview, Whis's in-canon statement, Dragon Ball Wiki Angel-race page), so the labor-attends-management-and-does-the-actual-work / management-takes-the-credit reading composes with the [[labor]] hub at the divine-class register. Hope that's alright, sir.",
+  "citations": [
+    "[Dragon Ball Wiki: God of Destruction (Hakai-shin) race page]",
+    "[Dragon Ball Wiki: Angel (Dragon Ball) race page]",
+    "[Dragon Ball Wiki: Beerus, Whis, Champa, Vados, Grand Priest character pages]",
+    "[Battle of Gods (Toei, 2013) — Whis canonically-stronger-than-Beerus]",
+    "[Akira Toriyama, Battle of Gods production interview, 2013 — inverted-hierarchy canon]",
+    "[Dragon Ball Super manga, Toyotarou, chapters 1-13 + 28-43]",
+    "[Dragon Ball Super anime, Toei, episodes 1-41 + 78-131]",
+    "[dbs-cardgame.com: Galactic Battle BT1 product page]"
+  ],
+  "files_modified": [
+    "cards/_characters/destroyer-god-attendant-dyad.md (new)",
+    "cards/dragon-ball-super/galactic-battle/bt1-002-vados-aide-vados.md (characters dual-pointer extended)",
+    "cards/dragon-ball-super/galactic-battle/bt1-006-scheming-champa.md (characters dual-pointer extended)",
+    "cards/dragon-ball-super/galactic-battle/bt1-007-manipulating-god-champa.md (characters dual-pointer extended)",
+    "cards/dragon-ball-super/galactic-battle/bt1-042-energy-boost-beerus.md (characters field added)",
+    "cards/dragon-ball-super/galactic-battle/bt1-043-whis-judge-of-the-gods.md (characters field added)"
+  ],
+  "dual_pointer_wirings": {
+    "u6_existing_extended_to_dual": 3,
+    "u7_new_single_pointer": 2,
+    "u6_appears_on_unchanged": "u6-cohort node retains its 9 anchors; the dyad node is orthogonal not overlapping in appears_on"
+  },
+  "appears_on_count": 5,
+  "anchor_threshold_check": "5 anchors >= 3-anchor solo-cohort threshold per nicol-bolas precedent; PASS",
+  "wave": 67,
+  "move": "E2",
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "Beerus solo node — 1 anchor, below threshold, deferred",
+    "Whis solo node — 1 anchor, below threshold, deferred",
+    "Champa solo node — 2 anchors, below threshold, deferred",
+    "Vados solo node — 1 anchor, below threshold, deferred",
+    "Beerus<->Whis 1:1 mirror edge — thinner than the dyad-node move; the future U7-Z-warrior cohort would make a Beerus<->Whis 1:1 redundant"
+  ]
+}

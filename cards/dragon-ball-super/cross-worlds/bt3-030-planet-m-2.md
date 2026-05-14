@@ -30,7 +30,7 @@ setting: other
 subject_known_ip: true
 suspected_ip: Planet M-2 (Dragon Ball GT)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Planet M-2 (Cross Worlds)
@@ -39,8 +39,8 @@ ip_verified: false
 
 ![bt3-030-planet-m-2](../../_images/dragon-ball-super/cross-worlds/bt3-030-planet-m-2.png)
 
-> [!warning] Suspected IP: **Planet M-2 (Dragon Ball GT)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Planet M-2 (Dragon Ball GT)**
+> Confirmed canonical name — "M-2" (Japanese: Wakusei Emu-Tsu) is the established GT location name, derived from "Machine Mutant." NOT a Bandai-coined card-game name. [Dragon Ball Wiki: M-2]
 
 A sci-fi landscape depicts a planet surface dominated by sleek, tall spire-like towers and a large spherical structure. The architecture is clean and geometric, suggesting advanced technology. The sky above is a clear blue, and the ground plane shows a structured, industrial environment. No figures are visible — this is purely a location/environment card. The overall aesthetic is cold, orderly, and machine-like, consistent with a Machine Mutant homeworld.
 
@@ -56,3 +56,14 @@ A sci-fi landscape depicts a planet surface dominated by sleek, tall spire-like 
 **Iconography:** futuristic-architecture, alien-planet
 **Genre cues:** anime, sci-fi
 
+## Trivia
+
+- **Name canonicity confirmed** — Planet M-2 (Japanese: Wakusei Emu-Tsu) is the established canonical name from Dragon Ball GT, not a Bandai card-game invention. The name derives from the first letters of "Machine Mutant." It is General Rilldo's base of operations, the location where Dr. Myuu concealed the One-Star Black Star Dragon Ball, and the homeworld of Giru (the Dragon Ball radar robot who accompanies Pan and Trunks). `[Dragon Ball Wiki: M-2, via WebSearch]`
+- **World-as-machine** — Planet M-2 is itself partially a Machine Mutant — the planet-scale structure is mechanical, not merely inhabited by machines. The cold, geometric, inhuman architecture depicted on the card is accurate: the built environment and its inhabitants share the same Machine Mutant biology. `[Dragon Ball Wiki: M-2, via WebSearch]`
+- **GT canon context** — Dragon Ball GT occupies an ambiguous position relative to Dragon Ball Super — Toei has not definitively classified it as non-canon, but Super's existence makes GT a branch timeline. The DBS TCG treats GT as a supported era: BT3 Cross Worlds has an explicit GT deck design theme (Saiyan plus Machine Mutant), effectively canonizing GT locations and characters within the card game's multi-saga framework. `[dbs-cardgame.com: Cross Worlds Designer's Note, via WebSearch; Kanzenshuu: Machine Mutant race discussion, via WebSearch]`
+- **Design** — Location cards like M-2 give the villain faction a physical stage — a DBS TCG design pattern for GT arcs. The Machine Mutant deck in BT3 has both warriors (Sigma Force members) and their home base as playable assets, enabling complete theme-deck narrative immersion. `[dbs-cardgame.com: Cross Worlds Designer's Note, via WebSearch]`
+
+### Related cards
+- Mega Cannon Sigma, Bizu (Cross Worlds, BT3-024) — Sigma Force Machine Mutant native to M-2
+- General Rilldo (various) — M-2's commander
+- Giru / Gill (various) — Dragon Radar robot and M-2 native who accompanies Pan and Trunks in GT

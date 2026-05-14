@@ -68,3 +68,7 @@ A green-skinned humanoid figure with a distinctly armored or shell-like body str
 - Dark Vassal Drum (Colossal Warfare, BT4-066) — Dark Vassal triplet sibling
 - King Piccolo, Lord of Terror (Colossal Warfare, SD4-04) — Bond leader card for this archetype
 - Sacrifice (Colossal Warfare, BT4-070) — Namekian counter in the same set
+
+## Connections
+
+- [[bt2-052-courageous-heart-yajirobe]] — Canonical Yajirobe-eats-Cymbal death-beat cross-reference. Cymbal is canonically killed by Yajirobe in the King Piccolo Saga — the samurai consumes him whole rather than fighting him in a conventional duel, making Cymbal the first confirmed casualty among King Piccolo's children and operating as the canonical introduction of Yajirobe into the Z-warriors' broader roster (Dragon Ball manga, Akira Toriyama, Shueisha, 1976 King Piccolo Saga; [Dragon Ball Wiki: Cymbal](https://dragonball.fandom.com/wiki/Cymbal); [Dragon Ball Wiki: Yajirobe](https://dragonball.fandom.com/wiki/Yajirobe)). Anchored at [[dark-vassal-trio]] as the Saga's middle-beat eaten-by-Yajirobe death-beat.

@@ -29,7 +29,7 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Son Goku (Dragon Ball Super) — Instant Transmission technique
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Instant Transmission (Colossal Warfare)
@@ -38,8 +38,8 @@ ip_verified: false
 
 ![bt4-097-instant-transmission](../../_images/dragon-ball-super/colossal-warfare/bt4-097-instant-transmission.png)
 
-> [!warning] Suspected IP: **Son Goku (Dragon Ball Super) — Instant Transmission technique** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Son Goku (Dragon Ball Super) — Instant Transmission technique**
+> Confirmed via card name ("Instant Transmission"), two-finger forehead gesture as Goku's signature visual identifier for this technique, and Goku's Lineage [Permanent] condition in the card text. [Dragon Ball Wiki: Instant Transmission; WebSearch: BigOrbitCards BT4-097]
 
 A humanoid figure with golden Super Saiyan spiky hair and orange gi stands in a focused pose with fingers raised to the forehead — the classic two-finger Instant Transmission gesture. Crackling yellow-white electricity and energy radiate outward from the figure. The face shows intense concentration. The background is a burst of energy light in warm yellow-white. The composition is a mid-shot to close-up with the figure filling most of the frame.
 
@@ -53,4 +53,16 @@ A humanoid figure with golden Super Saiyan spiky hair and orange gi stands in a 
 **Emotion read:** intense concentration, focused calm within explosive power
 **Iconography:** instant-transmission-gesture, energy-aura, lightning, super-saiyan
 **Genre cues:** anime, fantasy
+
+## Trivia
+
+- **Set lore** — Instant Transmission (Shunkan Ido) was taught to Goku by the inhabitants of Planet Yardrat after his battle with Frieza on Namek. Specifically, Pybara of Yardrat instructed him in the technique — part of Yardrat's broader Spirit Control discipline. Goku required approximately 150 days to initially execute the technique and spent close to a full year on the planet in total. [WebSearch: GameRant 'Dragon Ball: Instant Transmission Explained'; WebSearch: CBR 'Goku's Time on Yardrat']
+- **Mechanical** — Instant Transmission (BT4-097, Common, Yellow) is a Counter card with a [Permanent] condition: if your Leader is Goku's Lineage, when you activate the [Counter], you may add a card from your life to hand and may then activate the [Counter] without paying its energy cost. The [Counter Attack] negates the opponent's attack. A free negate-and-draw for Goku's Lineage leaders at common rarity is strong structural support across all yellow Goku's Lineage builds in BT4. [WebSearch: BigOrbitCards BT4-097]
+- **Design** — The two-finger forehead gesture depicted is Instant Transmission's established visual shorthand across all Dragon Ball media, introduced in the manga with Goku's return from Yardrat during the Android/Cell arc. The Super Saiyan state shown is consistent with Goku's common usage of the technique in Dragon Ball Super, where he frequently activates it mid-Super Saiyan transformation. [WebSearch: Dragon Ball Wiki Instant Transmission (Fandom)]
+- **Set lore** — Instant Transmission relies on ki-sensing to lock onto a target's energy signature rather than physical coordinates — a detail that distinguishes it from raw teleportation. Yardratians are non-violent and devote their lives entirely to ki control rather than combat, making Spirit Control techniques like Instant Transmission their apex development. [WebSearch: GameRant Dragon Ball Instant Transmission Explained]
+
+### Related cards
+- Kakarot (Colossal Warfare, BT4-082) — Goku's Lineage common that benefits from this card's free-counter [Permanent] condition
+- Prodigal Dynasty Son Goten (Colossal Warfare, BT4-085) — same Goku's Lineage trait family in the same set
+- Height of Mastery Son Goku (Colossal Warfare, BT4-075) — likely primary Goku's Lineage Leader that unlocks this card's free counter
 

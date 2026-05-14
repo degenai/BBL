@@ -31,6 +31,7 @@ subject_known_ip: true
 suspected_ip: Gine (Dragon Ball Minus / Dragon Ball Super: Broly)
 ip_confidence: high
 ip_verified: false
+characters: [saiyan]
 ---
 
 # Gine, Family of Justice (Cross Worlds)

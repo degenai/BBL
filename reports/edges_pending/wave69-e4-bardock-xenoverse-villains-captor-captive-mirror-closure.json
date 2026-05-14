@@ -1,0 +1,28 @@
+{
+  "edge_id": "wave69-e4-bardock-xenoverse-villains-captor-captive-mirror-closure",
+  "wave": 69,
+  "move_index": "E4",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/bardock.md", "name": "Bardock"},
+    {"type": "character", "path": "cards/_characters/xenoverse-villains.md", "name": "Xenoverse Villains (Time Breakers)"}
+  ],
+  "description": "Canonical Bardock-Xenoverse-Villains captor-captive related_characters bidirectional mirror-closure. Bardock is canonically captured by Towa (Time Breaker scientist-witch) at the moment-just-before-his-death-at-Frieza's-Supernova and fitted with a Demon-Realm Dark-Ki control mask, becoming the Masked Saiyan / Xeno Bardock — the canonical Time-Breaker-aligned dark-ki warrior weaponized against the Time Patrol across Dragon Ball Online (2010), Dragon Ball Heroes (2010+), and Dragon Ball Xenoverse 2 (2016). The wave-69 bardock.md commission listed xenoverse-villains in related_characters at creation time; xenoverse-villains.md did not previously list bardock because no bardock node existed pre-wave-69. This is the canonical mirror-closure: both nodes are equal character-layer nodes, both endpoints traversable from either side, captor-captive relation is canonically established across three Bandai-canon game/MMO titles plus the canonical Dragon Ball Wiki Masked Saiyan Saga page. Standard Edgelord professional sigh applies. The mirror is structural — bundle copy referencing the canonical post-death-extraction-of-value-from-the-worker's-reanimated-corpse Xenoverse-Bardock-thesis (the canonical extended-exploitation moment that follows the canonical worker-killed-by-employer-empire moment) indexes both nodes. The three corpus prints BT4-117 + SD3-04 + SD3-01 are all triple-anchored at [xenoverse-villains, saiyan, bardock] per the wave-69 dual-pointer commission, making the bidirectional related_characters wiring structurally load-bearing for any future Time-Patrol-or-Masked-Saiyan-themed bundle.",
+  "citations": [
+    "[Dragon Ball Wiki: Xeno Bardock — canonical Time-Patrol-Bardock continuity page]",
+    "[Dragon Ball Wiki: Masked Saiyan Saga — canonical Xenoverse 2 narrative-arc page]",
+    "[Dragon Ball Wiki: Towa — canonical Bardock-captor scientist-witch attribution]",
+    "[Dragon Ball Online, NTL / Bandai Namco MMO, 2010 — Masked Saiyan / Xeno Bardock originating canon]",
+    "[Dragon Ball Heroes, Bandai arcade card game, 2010-present — God Mission 1 Masked Saiyan introduction]",
+    "[Dragon Ball Xenoverse 2, Bandai Namco / Dimps, 2016 — canonical Masked Saiyan Saga narrative-arc]"
+  ],
+  "files_modified": [
+    "cards/_characters/xenoverse-villains.md (related_characters: [baby-dbgt, trunks] -> [baby-dbgt, trunks, bardock])",
+    "cards/_characters/bardock.md (related_characters already includes xenoverse-villains at node-creation time, no edit needed)"
+  ],
+  "two_way_diff_verified": true,
+  "two_way_diff_notes": "bardock.md related_characters: [saiyan, son-goku, xenoverse-villains] (already wired at E2 node creation). xenoverse-villains.md related_characters: now extended with bardock. Bidirectional related_characters mirror confirmed.",
+  "edgelord_mood": "sighed-but-mirrored"
+}

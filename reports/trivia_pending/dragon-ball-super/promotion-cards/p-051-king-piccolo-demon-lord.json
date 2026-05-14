@@ -1,0 +1,42 @@
+{
+  "card_name": "King Piccolo, Demon Lord",
+  "game": "Dragon Ball Super",
+  "set": "Promotion Cards",
+  "collector_number": "P-051",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'King Piccolo, Demon Lord'. Vision confirms green-skinned figure on skeletal throne, card type line reads Namekian, imperious posture — all canonical King Piccolo markers. Named card.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "King Piccolo (Piccolo Daimao) is the evil half of the Nameless Namekian — a single being who split himself in order to purge his impure soul and become Earth's Guardian. The good half became Kami; the evil half became King Piccolo. The two share a life link. [Dragon Ball Wiki: Nameless Namekian; CBR: 'Are Dragon Ball's Piccolo and Demon King Piccolo The Same Person?', via WebSearch snippets]",
+      "sources": ["Dragon Ball Wiki: Nameless Namekian, via WebSearch snippet", "CBR, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Toriyama named King Piccolo after the piccolo flute, then extended that naming convention to all of his spawned sons — Piano, Cymbal, Tambourine, Drum, and others including Banjo, Bell, Viola, Conga, Harp, and Mandarin. Every member of the demon-spawn hierarchy bears a musical instrument name, establishing a deliberate labor-template: the lord names his vassals after instruments he plays. [Dragon Ball Wiki: King Piccolo; Wikipedia: Piccolo (Dragon Ball), via WebSearch snippets]",
+      "sources": ["Dragon Ball Wiki: King Piccolo, via WebSearch snippet", "Wikipedia: Piccolo (Dragon Ball), via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Tambourine killed Krillin in one of Dragon Ball's most brutal early deaths; Cymbal was killed and eaten by Yajirobe (cross-reference: bt4-065-dark-vassal-cymbal / dark-vassal-trio); Drum was destroyed by Goku. The instrument-named vassals function as expendable enforcers — each dispatched by the opposition in the order the narrative requires. [Dragon Ball Wiki: King Piccolo; Dragon Ball Wiki: Cymbal, via WebSearch snippets]",
+      "sources": ["Dragon Ball Wiki: King Piccolo, via WebSearch snippet", "Dragon Ball Wiki: Cymbal, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "King Piccolo is classified as a Namekian on the DBS card game type line (visible in the Vision section), cementing his racial identity in the card game's mechanics — despite the fact that the Namekian race was not introduced in-universe until Dragon Ball Z, years after the King Piccolo Saga originally aired. [Vision section: type line visible; Dragon Ball Wiki: King Piccolo, via WebSearch snippet]",
+      "sources": ["Dragon Ball Wiki: King Piccolo, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dark Vassal Cymbal", "set": "BT4", "note": "King Piccolo's instrument-named son; dark-vassal-trio anchor"},
+    {"name": "Dark Vassal Tambourine", "set": "various", "note": "King Piccolo's instrument-named son who killed Krillin"},
+    {"name": "Piccolo", "set": "various", "note": "King Piccolo's reincarnation/successor; eventually merges back with Kami"},
+    {"name": "Courageous Heart Yajirobe", "set": "Union Force BT2-052", "note": "Yajirobe killed Cymbal; the chain runs King Piccolo > Cymbal > Yajirobe"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

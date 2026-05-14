@@ -1,0 +1,40 @@
+{
+  "card_name": "Senzu Bean (2017)",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-053",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Suspected IP: Goku (Dragon Ball Z). Card name is 'Senzu Bean' (an item), not a character card. Figure in orange gi with dark spiky hair holding a cloth sack is consistent with Goku's canonical design. IP verified: Goku depicted on an item card.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Senzu Beans are grown exclusively by Korin, the immortal cat deity who resides atop Korin Tower — a massive structure in the Dragon Ball Z world that precedes the Lookout. When eaten, a Senzu Bean instantly restores the consumer to full health and energy. The supply chain in canon runs Korin (grows) → Yajirobe (delivers and assists with gardening) → Z Fighters. Yajirobe eventually moved in with Korin full-time, though his tendency to snack on the beans created ongoing inventory tension. [Dragon Ball Wiki: Senzu Bean, via WebSearch snippet; Saiyan Warrior: Hidden Lore and Korin Tower Secrets]",
+      "sources": ["dragonball.fandom.com/wiki/Senzu_Bean", "saiyanwarrior.com/hidden-lore-and-korin-tower-secrets/"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT1-053 is a Common Blue Extra card (energy cost: 1 Blue). Its Activate:Battle skill chooses up to 1 of your cards, granting it +5000 power for the turn, then switches up to 2 of your energy to Active Mode. The effect encodes Senzu Beans' canonical dual function: combat-power restoration AND energy recovery. [DBZ Exchange / Big Orbit Cards: BT1-053 card listing; WebSearch snippet]",
+      "sources": ["dbzexchange.com/products/bt1-053-senzu-bean", "bigorbitcards.co.uk", "WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "BT1-053 depicts Goku in his orange gi holding a cloth sack of Senzu Beans — an item card using a character as the delivery vehicle for the item's mechanical effect. This is consistent with the DBS card game's Extra card category, which includes support items delivered through canonical handlers. The card has received multiple reprints including Mythic Booster (MB01) and gold-stamped Special Anniversary Box variants, indicating strong print run longevity for a Common. [The Side Deck / Big Orbit Cards: Senzu Bean reprint listings]",
+      "sources": ["thesidedeck.com (MB01 Mythic Booster listing)", "bigorbitcards.co.uk/dragon-ball-super-tcg/dbs-special-anniversary-set/senzu-bean-alternate-art-foil-bt1-053-alt-art-foil.html"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Korin Tower is one of Dragon Ball's oldest recurring locations, introduced in the original Dragon Ball manga. Korin is canonically the 'God of Martial Arts' and mentor figure who preceded Kami and the Lookout. The Senzu Bean supply chain (Korin → Yajirobe → Z Fighters) is among the series's most enduring logistical fixtures — a comedic counterpoint to the escalating power scale. [Saiyan Warrior: Korin character page / CBR: Why Do Yajirobe and Korin Live Together, via WebSearch snippets]",
+      "sources": ["saiyanwarrior.com/characters/korin/", "cbr.com/dragon-ball-yajirobe-korin-friendship-meeting-history/"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Energy Boost Beerus", "set": "Galactic Battle", "note": "BT1-042; same set; Goku and Beerus are canonically linked as protagonist/antagonist in Battle of Gods"},
+    {"name": "Whis, Judge of the Gods", "set": "Galactic Battle", "note": "Whis trained Goku post-Battle of Gods; same set cohort"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

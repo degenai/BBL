@@ -30,6 +30,7 @@ setting: void
 suspected_ip: Son Goku (Dragon Ball Super) — Great Ape / Oozaru form
 ip_confidence: high
 ip_verified: true
+characters: [son-goku, saiyan]
 ---
 
 # Deadly Golden Great Ape Son Goku (Colossal Warfare)

@@ -1,0 +1,41 @@
+{
+  "card_name": "Courageous Heart Yajirobe",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-052",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Courageous Heart Yajirobe'. Vision confirms heavyset man with long dark hair in dark gi with nervous/wary posture — canonical Yajirobe look. Named card, not a role-card.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Union Force (DBS-B02) was released November 3, 2017 as the Dragon Ball Super Card Game's second booster set. [dbs-cardgame.com, via WebSearch snippet]",
+      "sources": ["dbs-cardgame.com, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Yajirobe's introduction to the Dragon Ball saga is his killing of Cymbal during the King Piccolo Saga. After slicing Cymbal in half with his sword, Yajirobe roasted and ate him — remarking he was 'excellent meat.' This is the franchise's most distinctive death-beat in the saga's middle act. [Dragon Ball Wiki: Yajirobe; Dragon Ball Wiki: Cymbal, via WebSearch snippets]",
+      "sources": ["Dragon Ball Wiki: Yajirobe, via WebSearch snippet", "Dragon Ball Wiki: Cymbal, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Yajirobe is a permanent resident of Korin Tower, the training ground beneath The Lookout. He is one of the few mortal humans with consistent access to Korin's Senzu Beans — the Z Warriors' primary healing resource — making him a logistical linchpin despite never fighting in major battles. [Dragon Ball Wiki: Yajirobe, via WebSearch snippet]",
+      "sources": ["Dragon Ball Wiki: Yajirobe, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Yajirobe's single greatest combat contribution in the Z saga is cutting off Vegeta's Great Ape tail during the Saiyan Saga — an act he performed from behind, while Vegeta was distracted, entirely in keeping with his reluctant-survivor archetype. [Dragon Ball Wiki: Yajirobe, via WebSearch snippet]",
+      "sources": ["Dragon Ball Wiki: Yajirobe, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dark Vassal Cymbal", "set": "BT4", "note": "Canonical Yajirobe-eats-Cymbal cross-reference; already wired in Connections section"},
+    {"name": "King Piccolo, Demon Lord", "set": "Promotion Cards P-051", "note": "Cymbal's father; the chain runs King Piccolo > Cymbal > Yajirobe"},
+    {"name": "Korin", "set": "various", "note": "Yajirobe's companion at Korin Tower; Senzu Bean supplier"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

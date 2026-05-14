@@ -52,3 +52,14 @@ A young blonde human captain stands center-frame in gleaming plate armor with sh
 **Iconography:** raised-spears, v-formation, captain-leading-troops
 **Genre cues:** fantasy, medieval, heroic
 
+## Trivia
+
+- **Set context** — Squad Captain is a reprint (Scryfall: reprint: true), originally printed in Core Set 2021 (M21, 2020). Its inclusion in CMR as a white soldier common reflects the set's design goal of providing broadly useful creature types for Commander's go-wide tribal strategies — Soldiers are among the most supported tribes in white across Commander history. `[Scryfall]`
+- **Flavor text** — "The strength of the one is the strength of the many." The speaker is unnamed — the line reads as a military aphorism, the platoon's collective creed rather than a character quote. `[Scryfall]`
+- **Mechanical reputation** — Enters with a +1/+1 counter for each other creature you control, plus vigilance. Can arrive as a 10/10+ on a wide board, but is a 2/2 on an empty field. EDHREC rank 19740 — sees little tuned Commander play due to board-state dependency. More consistent in Pauper and PauperCommander go-wide white aggro. `[Scryfall]`
+- **Design** — Artist Cristi Balanescu's V-formation composition — the captain foreground, identical armored soldiers fanning back in geometric array — is a direct visual argument for the oracle text: the captain's stat block literally derives from the soldiers behind her. Art and mechanic are in deliberate conversation. `[Scryfall]`
+
+### Related cards
+- Squad Captain (Core Set 2021) — original printing of the same oracle text
+- Benalish Marshal (Dominaria) — white soldier lord, direct tribal upgrade path from Squad Captain
+- Militia Bugler (Core Set 2019) — white soldier that digs for more soldiers, same tribal cohort

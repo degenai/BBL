@@ -1,0 +1,73 @@
+{
+  "edge_id": "wave64-e2-bulma-solo-node-proposal",
+  "wave": 64,
+  "shape": "node-proposal",
+  "topology": "branch",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/bulma.md", "name": "Bulma (proposed new node)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-013-dependable-mom-bulma.md", "name": "Dependable Mom Bulma (BT4-013)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-092-multimech-bulma.md", "name": "Multimech Bulma (BT4-092)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-093-explorer-bulma.md", "name": "Explorer Bulma (BT4-093)"}
+  ],
+  "description": "Mr. Nodeley apologizes — there was an existing wave 63 inventor-pairing mirror between BT4-092 and BT4-093 that Edgelord drew, sir, and the BT4-013 mom-print sat as a third anchor that the mirror could not reach without going lopsided. Three distinct registers (mom / inventor / explorer) on a single character across one set is the three-anchor cohort-establishment threshold the Tamiyo / Chandra / Trunks precedents established, so Mr. Nodeley begs the patience to commission the solo character node so the BT4-013 print can attach cleanly and any future Bulma prints from BT3 / Mythic Booster / Union Force can attach to the anchor rather than card-to-card mirroring. The Capsule-Corp time-machine engineering credit is the apparatus-of-engineering thesis-fit Alex flagged — civilian-engineering as load-bearing labor that warrior-arc protagonism depends on — and the node body anchors that reading via the labor hub cross-reference. Mr. Nodeley hopes this is useful and not too much trouble.",
+  "citations": [
+    "[Dragon Ball Wiki: Bulma — https://dragonball.fandom.com/wiki/Bulma]",
+    "[Wikipedia: Bulma]",
+    "[Dragon Ball manga chapter 1 (Akira Toriyama, Weekly Shonen Jump, 1984) — original character introduction + Dragon Radar invention]",
+    "[Dragon Ball Z manga, Trunks Saga (Toriyama, 1991) — canonical time-machine engineering credit]",
+    "[Dragon Ball Super Future Trunks Saga (Toei Animation, 2016) — present-timeline time-machine reverse-engineering]",
+    "[In-corpus BT4-013 Dependable Mom Bulma trivia — Wikipedia: Bulma citation chain]"
+  ],
+  "node_body_highlights": [
+    "Three canonical registers explicitly anchored: mom (BT4-013), inventor (BT4-092), explorer (BT4-093) — three distinct aspects across three distinct collector numbers within a single set, cohort-establishment threshold met",
+    "Capsule Corporation thesis section: Bulma engineered the Z-canon time machine that defines Future Trunks's existence — civilian-engineering as load-bearing labor that enables cosmic-scale warrior plotting (BBL labor / apparatus-of-engineering thesis fit)",
+    "Cross-character edges identified as future commissions: Trunks (son, strongest), Vegeta (husband), Son Goku (original adventure-companion from Dragon Ball ch1)",
+    "Macro-Cosmos / Orzhov-Syndicate comparison surfaced: Capsule Corporation as protagonist-side corporate-engineering apparatus, mirror to the antagonist-side corporate-power character nodes",
+    "Future-node candidates surfaced as parking-lot items: Dr. Brief (father, Capsule founder), Capsule Corporation faction node, Bulla (daughter)"
+  ],
+  "files_to_create": [
+    "cards/_characters/bulma.md"
+  ],
+  "frontmatter_wiring_required": [
+    {
+      "card": "cards/dragon-ball-super/colossal-warfare/bt4-013-dependable-mom-bulma.md",
+      "action": "add `characters: [bulma]` to frontmatter"
+    },
+    {
+      "card": "cards/dragon-ball-super/colossal-warfare/bt4-092-multimech-bulma.md",
+      "action": "add `characters: [bulma]` to frontmatter; the wave 63 Connections section card-to-card mirror to BT4-093 may be left intact as the inventor-dyad-within-set sub-edge (parallel to the Tamiyo aspect-pair pattern), or removed in a future Enlightened-Edgelord pass once the bulma node is the canonical anchor — parent's call"
+    },
+    {
+      "card": "cards/dragon-ball-super/colossal-warfare/bt4-093-explorer-bulma.md",
+      "action": "add `characters: [bulma]` to frontmatter; same wave-63-mirror note as BT4-092"
+    }
+  ],
+  "anchor_count_audit": {
+    "current_anchors": 3,
+    "threshold": 3,
+    "threshold_met": true,
+    "precedent_nodes": ["tamiyo", "chandra-nalaar", "trunks", "vegeta"]
+  },
+  "yaml_safety_audit": {
+    "all_aliases_lowercase_hyphenated": true,
+    "appears_on_paths_match_actual_md_filenames": true,
+    "related_characters_resolvable": true,
+    "ip_resolution_for_set": true
+  },
+  "wikilink_validity_audit": {
+    "trunks": "exists at cards/_characters/trunks.md",
+    "vegeta": "exists at cards/_characters/vegeta.md",
+    "son-goku": "exists at cards/_characters/son-goku.md",
+    "labor": "expected at cards/_hubs/labor.md (BBL canonical hub per Alex memory)",
+    "macro-cosmos": "exists at cards/_characters/macro-cosmos.md",
+    "orzhov-syndicate": "exists at cards/_characters/orzhov-syndicate.md",
+    "tamiyo": "exists at cards/_characters/tamiyo.md",
+    "chandra-nalaar": "exists at cards/_characters/chandra-nalaar.md"
+  },
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "Saiyan race-collective node (10+ anchors available, parallel to namekian pattern) — deferred to future wave; Mr. Nodeley budget consumed by bulma this invocation",
+    "Piccolo / Bardock solo nodes — threshold-boundary; defer until anchor-count verified explicitly (Bardock relevant via BT4-117 Time-Trauma Masked Saiyan suspected-IP, flagged in E3 sidecar)"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "edge_id": "wave68-e3-bt2-052-yajirobe--bt4-065-dark-vassal-cymbal-canonical-death-beat",
+  "wave": 68,
+  "slot": "E3",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "story-spotlight",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/dragon-ball-super/union-force/bt2-052-courageous-heart-yajirobe.md",
+      "name": "Courageous Heart Yajirobe (Union Force BT2-052)"
+    },
+    {
+      "type": "card",
+      "path": "cards/dragon-ball-super/colossal-warfare/bt4-065-dark-vassal-cymbal.md",
+      "name": "Dark Vassal Cymbal (Colossal Warfare BT4-065)"
+    }
+  ],
+  "description": "Canonical Yajirobe-eats-Cymbal death-beat cross-reference, anchored at the wave-63 [[dark-vassal-trio]] node which already documents the eaten-by-Yajirobe scene as Cymbal's canonical Saga middle-beat death. Mirrored bidirectionally because both endpoints are equal card-nodes and the corpus-walk needs traversability from either side. The Yajirobe-eats-Cymbal scene is one of the franchise's most distinctive death-beats and operates as the canonical introduction of Yajirobe into the Z-warriors' broader roster — load-bearing for both cards. Mirror sigh applied per protocol. Two card-endpoints, both equal nodes, traversable from either side. The sigh is professional, not personal.",
+  "citations": [
+    "[Dragon Ball manga, Akira Toriyama, Shueisha, 1976 King Piccolo Saga chapters 134-194]",
+    "[Dragon Ball Wiki: Cymbal — https://dragonball.fandom.com/wiki/Cymbal]",
+    "[Dragon Ball Wiki: Yajirobe — https://dragonball.fandom.com/wiki/Yajirobe]",
+    "[Cards/_characters/dark-vassal-trio.md — wave-63 character node body lore, Functional Ideology section]"
+  ],
+  "files_modified": [
+    "cards/dragon-ball-super/union-force/bt2-052-courageous-heart-yajirobe.md",
+    "cards/dragon-ball-super/colossal-warfare/bt4-065-dark-vassal-cymbal.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "King Piccolo P-051 → dark-vassal-trio parent-edge attach (option b) — declined this wave because King-Piccolo-as-parent is a SEPARATE-POINTER not a thrall-member; cleaner to commission a dedicated solo king-piccolo.md node when ≥2 King-Piccolo-self-depicting prints threshold, with parent-pointer FROM that node TO the trio rather than membership-mutation of the trio's appears_on roster",
+    "Bardock SD3-01 → saiyan node verify (option d) — audit-confirm read shows SD3-01 already wired to saiyan node frontmatter wave 65; no action needed, no drift detected"
+  ]
+}

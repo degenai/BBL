@@ -30,7 +30,7 @@ setting: void
 suspected_ip: Saonel (Dragon Ball Super — Universe Survival Saga)
 ip_confidence: high
 ip_verified: true
-characters: [namekian]
+characters: [namekian, universe-6-tournament-cohort]
 ---
 
 # Namekian Duo Saonel (Colossal Warfare)

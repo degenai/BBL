@@ -1,0 +1,43 @@
+{
+  "edge_id": "wave68-e4-bt2-066-trunks-time-machine--bulma-trunks-dual-wire",
+  "wave": 68,
+  "slot": "E4",
+  "shape": "1:N",
+  "topology": "branch",
+  "category": "named-character-identity",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/dragon-ball-super/union-force/bt2-066-trunks-time-machine.md",
+      "name": "Trunks' Time Machine (Union Force BT2-066)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/bulma.md",
+      "name": "Bulma (canonical engineering-credit holder for the Z-canon time machine)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/trunks.md",
+      "name": "Trunks (canonical operator depicted in card art)"
+    }
+  ],
+  "description": "Trunks's Time Machine BT2-066 dual-wired into [[bulma]] (as the canonical engineering-credit holder per the node body's central Capsule-Corporation-thesis section — the Z-canon time machine is engineered by future-timeline Bulma in Trunks's future per Dragon Ball Wiki and the Z-manga's Trunks Saga 1991) AND [[trunks]] (as the canonical operator-protagonist whose lavender-haired figure is depicted at mid-shot beside the dome-pod in the card art). Parallel to the broly's-ring artifact-as-character-extension precedent. The bulma node's central engineering-thesis was previously corpus-claimed-but-not-card-anchored; BT2-066 closes that loop as the canonical artifact-anchor. Standard branch shape — one source card fanning to two parent character nodes. Behold: a card that anchors a node's central thesis-sentence with the actual artifact. The graph improves because of this.",
+  "citations": [
+    "[Dragon Ball Wiki: Bulma — https://dragonball.fandom.com/wiki/Bulma (canonical time-machine engineering-credit)]",
+    "[Dragon Ball Z manga, Akira Toriyama, Shueisha, 1991 Trunks Saga — primary canonical source for the time-machine engineering credit]",
+    "[Dragon Ball Super, Toei Animation, 2016 Future Trunks Saga — present-timeline Bulma reverse-engineering the apparatus]",
+    "[Cards/_characters/bulma.md — The Capsule Corporation thesis section, central node-body thesis-sentence]"
+  ],
+  "files_modified": [
+    "cards/dragon-ball-super/union-force/bt2-066-trunks-time-machine.md",
+    "cards/_characters/bulma.md",
+    "cards/_characters/trunks.md"
+  ],
+  "edgelord_mood": "blueballed-by-fanout",
+  "other_candidates_considered": [
+    "King Piccolo P-051 → dark-vassal-trio parent-edge (option b) — declined this wave for the same reason as in E3 sidecar; reserve for dedicated king-piccolo.md solo-node commission",
+    "Bardock SD3-01 → saiyan node frontmatter wire (option d) — confirmed already wired wave-65 per audit, no action needed",
+    "Any --unwired pair (option e) — declined in favor of the bulma node central-thesis card-anchor closure, which is structurally higher-yield than any random unwired pair"
+  ]
+}

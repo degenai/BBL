@@ -1,0 +1,41 @@
+{
+  "card_name": "Whis, Judge of the Gods",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-043",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Whis'. Pale blue-skinned robed angel with floating halo and ornate staff is Whis's canonical visual signature as Beerus's attendant. IP confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Whis is the angel attendant of Beerus (Universe 7's God of Destruction) and the younger brother of Vados, attendant to Universe 6's Champa. Both are children of the Grand Minister. Vados trained Whis and claims to be slightly stronger, a claim Whis disputes. [Dragon Ball Wiki: Vados, via WebSearch snippet]",
+      "sources": ["dragonball.fandom.com/wiki/Vados", "WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The angel naming convention derives from alcoholic beverages: Whis = whisky, Vados = Calvados (French apple brandy). This pun originated with Toriyama's misreading of 'virus' as 'beer' for Beerus, then carried forward to all subsequent angel and GoD names. [Wikipedia: Beerus, via WebSearch snippet]",
+      "sources": ["en.wikipedia.org/wiki/Beerus", "WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT1-043 is a Rare Blue Battle card. It carries Quadruple Strike (inflicts 4 damage instead of 1) and a Permanent skill stating its attack and skills cannot be negated. Its Auto skill requires a Beerus Leader Card: when played, after the current turn ends, the player takes an additional full turn. The Beerus-lock on the extra-turn skill mechanically encodes the canon attendant-must-serve-their-specific-destroyer relationship. [DBZ Exchange / Cool Stuff Inc: BT1-043 card listing]",
+      "sources": ["dbzexchange.com/products/bt1-043-whis-judge-of-the-gods", "coolstuffinc.com/p/Dragon+Ball+Super+Card+Game/Whis,+Judge+of+the+Gods"]
+    },
+    {
+      "category": "design",
+      "text": "BT1-043 Whis has received a Judge Pack promotional reprint (Judge Pack Vol. 14), confirming it as a card with long-term organizational support — rare for a Common/Rare in the inaugural set. [Zulus Games: Whis Judge of the Gods Judge Pack Vol.14 listing]",
+      "sources": ["zulusgames.com/products/whis-judge-of-the-gods-judge-pack-vol-14-event-bt1-043-tournament-promotion-cards"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Energy Boost Beerus", "set": "Galactic Battle", "note": "Beerus is Whis's paired destroyer god; Whis's extra-turn skill requires a Beerus Leader"},
+    {"name": "Vados // Aide Vados", "set": "Galactic Battle", "note": "Vados is Whis's elder sister and counterpart angel for U6"},
+    {"name": "Scheming Champa", "set": "Galactic Battle", "note": "Champa is the destroyer Vados (and by extension the sibling dyad) attends"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

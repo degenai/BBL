@@ -30,6 +30,7 @@ setting: void
 suspected_ip: Son Goku (Dragon Ball Super)
 ip_confidence: high
 ip_verified: true
+characters: [son-goku]
 ---
 
 # Indomitable Dynasty SS Son Goku (Colossal Warfare)

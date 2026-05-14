@@ -1,0 +1,41 @@
+{
+  "card_name": "Planet M-2",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-030",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Planet M-2 (Japanese: Wakusei Emu-Tsu) is the confirmed canonical name from Dragon Ball GT. It appears in the Dragon Ball Wiki under that name. The name derives from 'Machine Mutant' — the first letters of each word. This is NOT a Bandai-coined card-game name. Verified as canonical GT location.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Planet M-2 (Japanese: Wakusei Emu-Tsu) is the homeworld of the Machine Mutants in Dragon Ball GT. Its name is derived from the first letters of 'Machine Mutant.' It serves as General Rilldo's base of operations and is where Dr. Myuu concealed the One-Star Black Star Dragon Ball. Giru (the Dragon Ball radar robot) is also from M-2. [Dragon Ball Wiki: M-2, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: M-2, via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Planet M-2 is notable in Dragon Ball lore as a planet-scale Machine Mutant — the planet itself is partially mechanical, not merely inhabited by machines. This is why its architecture reads as cold, geometric, and inhuman: the built environment and the inhabitants share the same Machine Mutant biology. [Dragon Ball Wiki: M-2, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: M-2, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "BT3 Cross Worlds' GT Machine Mutant deck support extends to location cards — M-2 as a stage card grounds the Sigma Force and Rilldo cards in a physical setting, which is a design pattern in DBS TCG for GT arcs: give the villain faction both warriors and their home base as playable assets. [dbs-cardgame.com: Cross Worlds Designer's Note, via WebSearch]",
+      "sources": ["dbs-cardgame.com: Cross Worlds Designer's Note, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Planet M-2's canon status note: Dragon Ball GT itself occupies an ambiguous canon position relative to Dragon Ball Super — Toei has not definitively classified GT as non-canon, but Super's existence makes GT a branch timeline. The DBS TCG treats GT as a supported era (BT3 has an explicit GT deck theme), effectively canonizing its characters and locations within the card game's multi-saga framework. [dbs-cardgame.com: Cross Worlds Designer's Note, via WebSearch; Kanzenshuu: Machine Mutant race discussion, via WebSearch]",
+      "sources": ["dbs-cardgame.com: Cross Worlds Designer's Note, via WebSearch", "Kanzenshuu: Machine Mutant race discussion, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mega Cannon Sigma, Bizu", "set": "Cross Worlds", "note": "BT3-024 — Sigma Force Machine Mutant native to M-2"},
+    {"name": "General Rilldo", "set": "various", "note": "M-2's commander; absorbs fallen Sigma Force members"},
+    {"name": "Giru / Gill", "set": "various", "note": "Dragon Radar robot and M-2 native who accompanies Pan and Trunks in GT"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Planet M-2 (Dragon Ball GT)",
+    "ip_confidence": "high"
+  }
+}

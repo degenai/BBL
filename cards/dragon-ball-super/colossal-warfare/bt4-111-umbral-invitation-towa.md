@@ -30,7 +30,7 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Towa (Dragon Ball Xenoverse)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Umbral Invitation Towa (Colossal Warfare)
@@ -39,8 +39,8 @@ ip_verified: false
 
 ![bt4-111-umbral-invitation-towa](../../_images/dragon-ball-super/colossal-warfare/bt4-111-umbral-invitation-towa.png)
 
-> [!warning] Suspected IP: **Towa (Dragon Ball Xenoverse)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Towa (Dragon Ball Xenoverse)**
+> Confirmed via card name ("Umbral Invitation Towa"), Demon Realm Race trait, and dark-magic control-theft mechanic matching Towa's lore role as Demon Realm scientist and time-corruptor. [Dragon Ball Wiki: Mira/Towa; WebSearch: DBZExchange BT4-111]
 
 A female humanoid figure with long dark hair stands with arms extended outward in a dramatic magical pose. She wears a dark form-fitting bodysuit. Swirling purple and dark energy effects spiral around her, filling the frame with dramatic magical atmosphere. The background is dark violet and black with energy bloom. The figure's expression is commanding and dangerous. The composition is a mid-shot with the figure centered against the swirling energy backdrop.
 
@@ -54,4 +54,16 @@ A female humanoid figure with long dark hair stands with arms extended outward i
 **Emotion read:** commanding menace, arms-wide invitation, dangerous allure
 **Iconography:** dark-magic, energy-spiral, umbral
 **Genre cues:** anime, fantasy
+
+## Trivia
+
+- **Set lore** — Towa is a Demon Realm Race scientist and the younger sister of Dabura (the Demon King of the Dragon Ball Z Babidi arc). She created Mira as an artificial warrior and worked with him to harvest ki by corrupting historical fighters into Villainous versions — fueling the unsealing of the Demon Realm across Dragon Ball Xenoverse. [WebSearch: Dragon Ball Wiki Mira (Fandom); WebSearch: thegamer.com Mira and Towa cameo explained]
+- **Mechanical** — Umbral Invitation Towa (BT4-111, Common, Black, 15,000 power, cost 4) requires Dark Over Realm 4: at least 4 black cards in the Drop Area to trigger the free play by sending all Drop Area to Warp (once per turn). Its [Auto] on play steals up to 1 opponent Battle Card with energy cost 3 or less — a control-theft effect that is unusually powerful for a common-rarity card. [WebSearch: DBZExchange BT4-110/111]
+- **Design** — The title "Umbral Invitation" literalizes Towa's Xenoverse role: she recruits and corrupts historical fighters, issuing dark invitations across time. The theft [Auto] — taking an opponent's card — is a direct mechanical translation of that recruitment-as-corruption motif. [WebSearch: Dragon Ball Wiki Mira (Fandom)]
+- **Design** — Umbral Invitation Towa received a Shenron's Chosen stamped promo variant (BT4-111 tournament promo). For a common-rarity card, Shenron's Chosen designation signals strong competitive utility within its archetype, as the program typically recognizes organized-play performance or event-promotion selection. [WebSearch: gatheringpointgames.co.uk BT4-111 Shenron's Chosen listing]
+
+### Related cards
+- Dark Absorption Mira (Colossal Warfare, BT4-110) — Towa created Mira; her Warp card unlocks his escalation skill mechanically
+- Demigra // Ghastly Malice Demigra (Colossal Warfare, BT4-098) — Leader card for this archetype
+- Umbral Invitation Towa Shenron's Chosen (Tournament Promotion Cards, BT4-111) — promo stamp variant of this card
 

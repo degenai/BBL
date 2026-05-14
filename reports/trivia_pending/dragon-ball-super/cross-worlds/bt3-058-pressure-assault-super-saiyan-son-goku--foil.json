@@ -1,0 +1,35 @@
+{
+  "card_name": "Pressure Assault Super Saiyan Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-058",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Super Saiyan Son Goku.' Orange gi, upright golden spiky hair, golden aura are canonical SSJ1 visual identifiers for Goku specifically. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT3-058 is an Uncommon foil Battle Card from Cross Worlds (released March 9, 2018). It depicts Goku in Super Saiyan 1 form — the baseline Super Saiyan transformation first achieved against Frieza on Namek. Within BT3, Goku appears across multiple power tiers: base form (Leader BT3-032), Super Saiyan (BT3-058), and Super Saiyan 3 (flip side of BT3-032 and standalone SD2-02), making this set a deliberate Goku transformation ladder. [dbs-cardgame.com card list, via WebSearch]",
+      "sources": ["dbs-cardgame.com", "WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The foil variant of BT3-058 carries the same oracle text as the non-foil printing but with a foil treatment applied to the energy aura effects — a purely cosmetic differentiation. In the DBS Card Game, foil Uncommons are chase variants seeded into booster packs at lower frequency than their non-foil counterparts. [dbs-cardgame.com product page, via WebSearch]",
+      "sources": ["dbs-cardgame.com", "WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The 'Pressure Assault' title names an aggressive attack archetype in the DBS-TCG vocabulary — cards with this framing typically have power-boosting or rush mechanics that reward forward-facing combat pressure rather than defensive setup. BT3-058's Uncommon rarity places it in the workhorse slot of a competitive deck rather than the top-end finisher slot. [CoreTCG / dbs-cardgame.com, via WebSearch]",
+      "sources": ["dbs-cardgame.com", "WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Son Goku // Heightened Evolution Super Saiyan 3 Son Goku", "set": "Cross Worlds (BT3-032)", "note": "Same set, same character — base-form Leader that flips to SSJ3"},
+    {"name": "Son Goku // Rising Spirit Super Saiyan Son Goku", "set": "Cross Worlds (SD2-01)", "note": "Parallel base-to-SSJ1 Leader card in the SD2 starter — same form tier as BT3-058"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

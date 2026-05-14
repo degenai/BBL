@@ -1,0 +1,40 @@
+{
+  "card_name": "Majin Defier, South Supreme Kai",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-040",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names 'South Supreme Kai.' The card art depicts a stocky, powerfully built figure in purple with raised fists — matching the canonical description of South Supreme Kai as the largest and most physically powerful of the four Supreme Kais. The 'Majin' qualifier in the title references his absorption by Majin Buu. Named character, not a generic Kai-role figure.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "South Supreme Kai (Minami no Kaioushin) was the strongest of the four Supreme Kais before Majin Buu's awakening. He fought Buu directly and managed to rip off Buu's arm — the only Supreme Kai to land meaningful physical damage — before Buu's severed arm enveloped and absorbed him. The absorption permanently fused South Supreme Kai into Buu's body, giving Buu his hulking, muscular form. When Kid Buu was destroyed, South Supreme Kai perished with him. [Dragon Ball Wiki: South Supreme Kai, via WebSearch]",
+      "sources": ["Dragon Ball Wiki (WebSearch snippet)", "CBR 'Dragon Ball Z: Does Majin Buu STILL Have Two Supreme Kais Inside Him?'"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT3-040 is a Blue Common Battle Card with 15000 power and a cost of 3 energy. Its two abilities are Critical (damage dealt goes to the opponent's Drop Area instead of hand) and an Auto that bounces an opposing Battle Card costing 3 or less back to its owner's hand when this card attacks — a control-disruption package in a common-rarity slot. [CoreTCG product page; dbs-cardgame.com card list, via WebSearch]",
+      "sources": ["CoreTCG (WebSearch snippet)", "dbs-cardgame.com"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The 'Majin Defier' title on the card is a pointed irony: South Supreme Kai is defined by his refusal to yield to Majin Buu, yet the Majin prefix on the card name marks the outcome — he became part of the creature he defied. Cross Worlds is the first DBS-TCG set to include Buu Saga Supreme Kais as standalone cards, expanding beyond the Frieza Arc and Cell Arc characters that dominated BT1 and BT2. [dbs-cardgame.com BT3 card list; Dragon Ball Wiki, via WebSearch]",
+      "sources": ["dbs-cardgame.com", "Dragon Ball Wiki (WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "The Dragon Ball Official Site ran a Weekly Character Showcase on South Supreme Kai (entry no. 158), noting his role as the physically dominant Kai and his permanent merger with Majin Buu as a tragic canonical endpoint. This showcase's existence confirms he is considered a notable enough character by Toei/Bandai for dedicated marketing attention despite minimal screen time. [en.dragon-ball-official.com Weekly Showcase no. 158, via WebSearch]",
+      "sources": ["en.dragon-ball-official.com (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Grand Supreme Kai", "set": "Cross Worlds or later sets", "note": "Fellow absorbed Supreme Kai — Grand Supreme Kai's absorption gave Buu his childlike personality"},
+    {"name": "Majin Buu (various)", "set": "Multiple sets", "note": "South Supreme Kai is permanently fused inside Buu's body — direct thematic linkage"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

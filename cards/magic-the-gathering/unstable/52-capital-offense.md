@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["goblin", "gang", "villain", "lab-coat", "trio", "comedy", "punk", "goons", "medallion", "industrial"]
+tags_filter: ["group", "mid-shot", "forward-facing", "black-magic", "instant", "portrait-mode"]
 reference_image: cards/_images/magic-the-gathering/unstable/52-capital-offense.png
 average_cost_paid: 0
 market_price: 0.12
@@ -29,6 +29,29 @@ oracle_text: target creature gets -x/-x until end of turn, where x is the number
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: comedic
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # capital offense (Unstable)
+
+## Vision
+
+![52-capital-offense](../../_images/magic-the-gathering/unstable/52-capital-offense.png)
+
+Three squat, goggle-eyed creatures in matching green lab coats stand together against a rust-colored industrial backdrop. The two flanking figures are large and slack-jawed with wild hair; the one on the right holds a small syringe or marker tool. Between them stands a shorter, leering figure with a metallic chest medallion containing a glowing orb, fists clenched and grinning broadly. A letter 'A' patch is visible on one figure's coat and 'Q' on another. The art has a grotesque cartoon quality consistent with Unstable's comedic register. The trio radiates thuggish confidence.
+
+**Subject:** Three goblin-like figures in green lab coats — two large flanking goons and a smaller grinning central figure with a mechanical chest piece — standing together in a menacing pose
+
+**Composition:** mid-shot, portrait, figures: group, facing: forward
+**Setting:** indoor, modern, indeterminate
+**Foreground:** Three goblinoid creatures in green lab coats, small central figure with glowing chest medallion  *(palette: green, rust orange, gold)*
+**Background:** Industrial rust-toned surface, mechanical elements  *(palette: rust orange, dark brown, ochre)*
+**Mood / lighting:** comedic, harsh
+**Emotion read:** menacing glee, thuggish confidence, slack-jawed goonery
+**Objects:** lab coats, syringe, glowing chest medallion
+**Creatures:** goblinoid creatures
+**Iconography:** letter patches, glowing orb
+**Genre cues:** fantasy, comedy, steampunk
+

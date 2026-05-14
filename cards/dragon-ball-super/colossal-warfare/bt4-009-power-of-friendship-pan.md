@@ -30,6 +30,7 @@ setting: mountain
 suspected_ip: Pan (Dragon Ball GT)
 ip_confidence: high
 ip_verified: true
+characters: [pan]
 ---
 
 # Power of Friendship Pan (Colossal Warfare)

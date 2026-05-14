@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["minotaur", "ice", "winter", "forest", "birds", "comedy", "puppet", "giant", "manipulation", "helplessness", "cold"]
+tags_filter: ["solo", "mid-shot", "three-quarter", "red-magic", "creature-minotaur", "scene-mode"]
 reference_image: cards/_images/magic-the-gathering/unstable/98-target-minotaur-c.png
 average_cost_paid: 0
 market_price: 0.11
@@ -29,6 +29,28 @@ oracle_text: Prowess (Whenever you cast a noncreature spell, this creature gets 
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: comedic
+time_of_day: indeterminate
+setting: forest
 ---
 
 # Target Minotaur (C) (Unstable)
+
+## Vision
+
+![98-target-minotaur-c](../../_images/magic-the-gathering/unstable/98-target-minotaur-c.png)
+
+A massive minotaur — identifiable by its large horns and bull-like head — stands in a sparse wintry forest. Its body is heavily encrusted with ice and icicles hang from its limbs and face. One arm is raised high as if grabbed from above by an unseen hand (a gloved fist is visible at the top of the frame gripping the minotaur's raised arm). Two small red-breasted birds perch casually on the creature — one on its horns and one on its raised arm — completely unbothered. The creature's expression is doleful. The setting is foggy and cold, with bare white birch-like trees behind it. The comedy is in the disproportion: a fearsome ice-giant being used as a pawn, with birds treating it as furniture.
+
+**Subject:** A large ice-encrusted minotaur in a misty forest, arm raised by an external force, with small birds perched on it
+
+**Composition:** mid-shot, narrative, figures: solo, facing: three-quarter
+**Setting:** forest, indeterminate, fog
+**Foreground:** Ice-encrusted minotaur with arm raised by unseen hand, small birds perched on it  *(palette: pale blue-grey, ice white, brown)*
+**Background:** Misty wintry forest, bare white trees, fog  *(palette: mist white, pale grey, olive green)*
+**Mood / lighting:** comedic, soft
+**Emotion read:** reluctant, doleful, helpless — a pawn with no agency
+**Objects:** icicles, gloved hand from above
+**Creatures:** minotaur, birds
+**Genre cues:** fantasy, comedy
+

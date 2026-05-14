@@ -1,0 +1,42 @@
+{
+  "card_name": "Scheming Champa",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-006",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Champa'. Rotund purple cat-eared humanoid in aggressive forward lunge matches Champa's canonical design as Universe 6's God of Destruction. IP confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Champa is the God of Destruction of Universe 6 and the twin brother of Beerus, God of Destruction of Universe 7. They are the only known sibling pair among the twelve Gods of Destruction in DBS canon. Born in the same universe, one moved to preside over its twin — the cosmological mirror-universe structure underpinning the entire Champa Arc. [Dragon Ball Wiki: Champa, via WebSearch snippet]",
+      "sources": ["dragonball.fandom.com/wiki/Champa", "WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Champa Arc's inciting premise is Champa organizing a tournament between U6 and U7 fighters, motivated by his desire to obtain Universe 7's Earth (U6's Earth was destroyed) and thereby access its superior cuisine. This food-rivalry framing — two destroyer gods competing over culinary bragging rights — is a recurring comedic motif used to humanize otherwise omnipotent figures. [Den of Geek: DBS Episode 28 Review — The 6th Universe's Destroyer, His Name Is Champa]",
+      "sources": ["denofgeek.com/tv/dragon-ball-super-episode-28-review-the-6th-universes-destroyer-his-name-is-champa/"]
+    },
+    {
+      "category": "design",
+      "text": "Vados (Champa's attendant) notes within the series that the physical difference between Champa and Beerus visually implies which twin is stronger — Champa's rotund build contrasting Beerus's lean frame. This in-universe commentary is a direct design choice by Toriyama to encode relative power through body type. [Dragon Ball Wiki: Champa / WebSearch snippet citing Vados dialogue]",
+      "sources": ["dragonball.fandom.com/wiki/Champa", "WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Champa's name follows the same alcohol-based naming pun as Beerus: Champa = Champagne. His attendant Vados = Calvados. The entire twin-dyad's naming (Beerus/Champa, Whis/Vados) is a four-way alcohol pun seeded by Toriyama's 'virus/beer' mishearing. [Wikipedia: Beerus, via WebSearch snippet]",
+      "sources": ["en.wikipedia.org/wiki/Beerus", "WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Manipulating God Champa", "set": "Galactic Battle", "note": "Second Champa card in BT1; same character, different pose/effect"},
+    {"name": "Energy Boost Beerus", "set": "Galactic Battle", "note": "Beerus is Champa's twin sibling destroyer god (U7)"},
+    {"name": "Vados // Aide Vados", "set": "Galactic Battle", "note": "Vados is Champa's angel attendant"},
+    {"name": "Hit // Assassin Hit", "set": "Galactic Battle", "note": "Hit was Champa's U6 tournament champion"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

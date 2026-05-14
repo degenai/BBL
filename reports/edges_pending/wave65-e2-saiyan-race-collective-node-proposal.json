@@ -1,0 +1,90 @@
+{
+  "edge_id": "wave65-e2-saiyan-race-collective-node-proposal",
+  "wave": 65,
+  "shape": "node-proposal",
+  "category": "race-collective-character-node",
+  "topology": "branch",
+  "node_path": "cards/_characters/saiyan.md",
+  "node_type": "character",
+  "node_brand_weight": "standard",
+  "ip_resolution_for": ["Saiyan", "Saiyan race", "Saiya-jin"],
+  "description": "Excuse me, sir — Mr. Nodeley here. The Saiyan race-collective node is proposed at cards/_characters/saiyan.md, anchored on 11 corpus prints across four DBSCG sets (BT1 Galactic Battle, BT3 Cross Worlds + SD3 starter, BT4 Colossal Warfare, P-series Promotions). It mirrors the namekian.md precedent precisely — race-collective hosted on the character layer, dual-wire pattern for named-individual prints where the racial frame is dominant. Anchors are race-frame-dominant only; the solo-Saiyan nodes (son-goku, vegeta, trunks) retain their own appears_on rosters per the parent's explicit instruction. The thesis is an imperial-mercenary-workforce-genocided-by-employer-empire apparatus-of-extraction story, which attaches cleanly to the labor hub. Eleven anchors crosses the parent's 10+ threshold; vision-pending anchors (Cabba ×2, Bardock P-035 ×2) are included on the strength of canonical name-match attribution per the parent's explicit pre-Goku-generation Bardock-and-Cabba inclusion guidance. I hope this is satisfactory.",
+  "endpoints": [
+    {"type": "character-node", "path": "cards/_characters/saiyan.md", "name": "Saiyan (race-collective)", "status": "new"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-074-gine-here-to-support.md", "name": "Gine, Here to Support (BT4-074)", "vision_status": "passed", "trivia_status": "passed", "frame": "pre-Goku-generation Saiyan parental cohort (female low-class Saiyan)"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-087-gine-family-of-justice.md", "name": "Gine, Family of Justice (BT3-087)", "vision_status": "passed", "trivia_status": "pending", "frame": "pre-Goku-generation Saiyan parental cohort (female low-class Saiyan)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-080-deadly-golden-great-ape-son-goku.md", "name": "Deadly Golden Great Ape Son Goku (BT4-080)", "vision_status": "passed", "trivia_status": "passed", "frame": "Saiyan-race-biology transformation (Oozaru / Golden Great Ape)", "dual_wire": "son-goku"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-082-kakarot.md", "name": "Kakarot (BT4-082)", "vision_status": "passed", "trivia_status": "pending", "frame": "Saiyan-birth-name racial-identity (Saiyan-class name for Goku)"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-117-time-trauma-masked-saiyan.md", "name": "Time Trauma Masked Saiyan (BT4-117)", "vision_status": "passed", "trivia_status": "pending", "frame": "Time-Patrol Masked Saiyan continuity (Bardock under Towa's mask)", "dual_wire": "xenoverse-villains"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/sd3-04-encroaching-threat-masked-saiyan.md", "name": "Encroaching Threat Masked Saiyan (SD3-04)", "vision_status": "passed", "trivia_status": "passed", "frame": "Time-Patrol Masked Saiyan continuity"},
+    {"type": "card", "path": "cards/dragon-ball-super/colossal-warfare/bt4-002-baby-rampaging-great-ape-baby.md", "name": "Baby // Rampaging Great Ape Baby (BT4-002)", "vision_status": "passed", "trivia_status": "passed", "frame": "Saiyan-genocide-inverse Tuffle-survivor (stolen Saiyan biology)", "dual_wire": "baby-dbgt"},
+    {"type": "card", "path": "cards/dragon-ball-super/promotion-cards/sd3-01-the-masked-saiyan-bardock-unbound-by-darkness-2018-big-card-pack.md", "name": "The Masked Saiyan // Bardock, Unbound by Darkness (SD3-01)", "vision_status": "pending", "trivia_status": "pending", "frame": "Time-Patrol Masked Saiyan continuity (canonical mask-broken reveal)", "anchor_basis": "canonical card-name match"},
+    {"type": "card", "path": "cards/dragon-ball-super/promotion-cards/p-035-bardock-will-of-iron--foil.md", "name": "Bardock, Will of Iron (P-035 foil)", "vision_status": "pending", "trivia_status": "pending", "frame": "pre-Goku-generation Saiyan parental cohort (father of Goku)", "anchor_basis": "canonical card-name match"},
+    {"type": "card", "path": "cards/dragon-ball-super/judge-promotion-cards/p-035-bardock-will-of-iron.md", "name": "Bardock, Will of Iron (Judge P-035)", "vision_status": "pending", "trivia_status": "pending", "frame": "pre-Goku-generation Saiyan parental cohort (judge-program parallel print)", "anchor_basis": "canonical card-name match"},
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-013-raging-cabba.md", "name": "Raging Cabba (BT1-013)", "vision_status": "pending", "trivia_status": "pending", "frame": "Universe 6 Saiyan cohort (canonical first-Super-Saiyan-of-U6)", "anchor_basis": "canonical card-name match per parent guidance"},
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-027-cabba-s-awakening-2017.md", "name": "Cabba's Awakening (BT1-027)", "vision_status": "pending", "trivia_status": "pending", "frame": "Universe 6 Saiyan cohort (Super-Saiyan-Awakening beat)", "anchor_basis": "canonical card-name match per parent guidance"}
+  ],
+  "anchor_count_total": 11,
+  "anchor_count_vision_enriched": 7,
+  "anchor_count_canonical_pending_vision": 4,
+  "dual_wire_candidates_surfaced": [
+    {"card": "cards/dragon-ball-super/colossal-warfare/bt4-117-time-trauma-masked-saiyan.md", "current_characters": ["xenoverse-villains"], "proposed_add": "saiyan", "rationale": "card name literally contains 'Saiyan' as the racial-identity designator; race-frame is dominant alongside the Xenoverse-villain-cohort frame"},
+    {"card": "cards/dragon-ball-super/cross-worlds/sd3-04-encroaching-threat-masked-saiyan.md", "current_characters": null, "proposed_add": "saiyan", "rationale": "card name literally contains 'Saiyan'; race-frame dominant; no current characters wiring"},
+    {"card": "cards/dragon-ball-super/colossal-warfare/bt4-080-deadly-golden-great-ape-son-goku.md", "current_characters": null, "proposed_add": "saiyan", "rationale": "Golden Great Ape is canonically Saiyan-race-biology; race-mechanic frame; should also wire son-goku once card's characters field is populated"},
+    {"card": "cards/dragon-ball-super/colossal-warfare/bt4-002-baby-rampaging-great-ape-baby.md", "current_characters": ["baby-dbgt"], "proposed_add": "saiyan", "rationale": "Rampaging Great Ape back-face depicts stolen-Saiyan-biology as the canonical Saiyan-genocide-inverse Tuffle-revenge vehicle; race-inverse-frame dominant alongside baby-dbgt solo-frame"},
+    {"card": "cards/dragon-ball-super/colossal-warfare/bt4-074-gine-here-to-support.md", "current_characters": null, "proposed_add": "saiyan", "rationale": "explicit female-Saiyan visual signature (monkey tail + Saiyan-style bodysuit) per vision pass; race-frame dominant"},
+    {"card": "cards/dragon-ball-super/cross-worlds/bt3-087-gine-family-of-justice.md", "current_characters": null, "proposed_add": "saiyan", "rationale": "female Saiyan figure framing per vision pass; race-frame dominant"},
+    {"card": "cards/dragon-ball-super/colossal-warfare/bt4-082-kakarot.md", "current_characters": null, "proposed_add": "saiyan", "rationale": "Kakarot is canonically Goku's Saiyan-class given name; the card-name itself is a racial-identity-designator; race-frame dominant"}
+  ],
+  "vision_pending_cards_needing_future_dual_wire": [
+    "cards/dragon-ball-super/promotion-cards/sd3-01-the-masked-saiyan-bardock-unbound-by-darkness-2018-big-card-pack.md",
+    "cards/dragon-ball-super/promotion-cards/p-035-bardock-will-of-iron--foil.md",
+    "cards/dragon-ball-super/judge-promotion-cards/p-035-bardock-will-of-iron.md",
+    "cards/dragon-ball-super/galactic-battle/bt1-013-raging-cabba.md",
+    "cards/dragon-ball-super/galactic-battle/bt1-027-cabba-s-awakening-2017.md"
+  ],
+  "citations": [
+    "[Dragon Ball Wiki: Saiyan (race page)]",
+    "[Dragon Ball Wiki: Planet Vegeta]",
+    "[Dragon Ball Wiki: Genocide of the Saiyans]",
+    "[Dragon Ball Wiki: Great Ape; Super Saiyan]",
+    "[Dragon Ball Wiki: Tuffles]",
+    "[Dragon Ball Wiki: Bardock / Gine / Cabba / Caulifla / Kale / King Vegeta]",
+    "[Wikipedia: List of Dragon Ball characters § Saiyans]",
+    "[Dragon Ball manga (Toriyama, Shueisha, 1984-1995), Saiyan Saga chapters 195-241 + Frieza Saga chapters 242-329]",
+    "[Dragon Ball Z TV Special: Bardock — The Father of Goku, Toei Animation, 1990]",
+    "[Dragon Ball Minus (Toriyama, 2014)]",
+    "[Dragon Ball Super: Broly film, Toei Animation, 2018]",
+    "[Dragon Ball Super: Universe Survival Saga, Toei Animation, 2017-2018]",
+    "[Dragon Ball: Episode of Bardock, 2011 manga / anime]",
+    "[Dragon Ball Heroes / Xenoverse 2 (Bandai Namco / Spike Chunsoft)]",
+    "[dbs-cardgame.com per-card pages for BT1 / BT3 / BT4 / SD3 / P-series]"
+  ],
+  "files_modified": [
+    "cards/_characters/saiyan.md"
+  ],
+  "files_pending_parent_apply": [
+    "cards/dragon-ball-super/colossal-warfare/bt4-117-time-trauma-masked-saiyan.md (characters: add saiyan to existing [xenoverse-villains])",
+    "cards/dragon-ball-super/cross-worlds/sd3-04-encroaching-threat-masked-saiyan.md (characters: add [saiyan])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-080-deadly-golden-great-ape-son-goku.md (characters: add [son-goku, saiyan])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-002-baby-rampaging-great-ape-baby.md (characters: add saiyan to existing [baby-dbgt])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-074-gine-here-to-support.md (characters: add [saiyan])",
+    "cards/dragon-ball-super/cross-worlds/bt3-087-gine-family-of-justice.md (characters: add [saiyan])",
+    "cards/dragon-ball-super/colossal-warfare/bt4-082-kakarot.md (characters: add [saiyan])"
+  ],
+  "graph_substrate_delta": {
+    "nodes_before": 68,
+    "nodes_after": 69,
+    "anchor_cards_added_to_new_node": 11
+  },
+  "related_node_audit": {
+    "namekian": "sibling race-collective; uses same dual-wire pattern; precedent confirmed",
+    "son-goku": "solo Saiyan node; appears_on roster intact; race-node added to related_characters",
+    "vegeta": "solo Saiyan node; appears_on roster intact; race-node added to related_characters",
+    "trunks": "solo Saiyan node; appears_on roster intact (half-Saiyan); race-node added to related_characters",
+    "baby-dbgt": "Tuffle-survivor solo node; dual-wire on BT4-002 surfaced; race-inverse-frame relationship",
+    "xenoverse-villains": "Towa/Mira cohort; dual-wire on BT4-117 + SD3-04 surfaced"
+  },
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "voice_note": "Mr. Nodeley acknowledges the parent's namekian-precedent guidance was load-bearing; the node-body register matches the namekian.md tone without contamination; the sidecar register is Mr. Nodeley's sniveling-but-correct voice as specified. The Saiyan-node closes a significant graph gap — the named Saiyan solo nodes (Goku, Vegeta, Trunks) have until now had no race-collective parent to attach via related_characters."
+}

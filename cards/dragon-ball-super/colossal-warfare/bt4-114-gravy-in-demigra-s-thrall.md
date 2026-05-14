@@ -28,9 +28,10 @@ mood: grim
 time_of_day: indeterminate
 setting: void
 subject_known_ip: true
-suspected_ip: Gravy (Dragon Ball Xenoverse / Heroes)
+suspected_ip: Gravy (Dragon Ball Heroes / Xenoverse)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
+characters: [xenoverse-villains]
 ---
 
 # Gravy, in Demigra's Thrall (Colossal Warfare)
@@ -39,8 +40,8 @@ ip_verified: false
 
 ![bt4-114-gravy-in-demigra-s-thrall](../../_images/dragon-ball-super/colossal-warfare/bt4-114-gravy-in-demigra-s-thrall.png)
 
-> [!warning] Suspected IP: **Gravy (Dragon Ball Xenoverse / Heroes)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Gravy (Dragon Ball Heroes / Xenoverse)**
+> Confirmed via card name "Gravy, in Demigra's Thrall" and visual match to Gravy's signature long white hair and dark energy aura from Dragon Ball Heroes. [Dragon Ball Wiki: Gravy]
 
 A humanoid figure with long white hair stands centered in the frame, robed in dark garments with red and black detailing. Dark crackling energy emanates from around the figure's hands and body. The background is dominated by a deep purple and black energy field. The figure faces the viewer in a threatening, forward-facing stance with arms slightly raised. The overall tone is menacing and supernatural.
 
@@ -55,3 +56,14 @@ A humanoid figure with long white hair stands centered in the frame, robed in da
 **Iconography:** dark-energy-aura, glowing-hands
 **Genre cues:** anime, fantasy
 
+## Trivia
+
+- **Character origin** — Gravy and Putine were both originally Heavenly Realm wizards who defected with Demigra. In Dragon Ball Heroes' Dark Empire saga, Mechikabura later granted both Demon God status. BT4-114 depicts Gravy after Demigra re-established direct control — a second layer of subjugation on top of his already-dark allegiance. `[Dragon Ball Wiki: Gravy, via WebSearch]`
+- **Design** — BT4-114 is a Black Common with 4000 power — dramatically weaker than BT4-113's 20000-power Uncommon (the pre-thrall base form). The stat differential appears intentional: the thralled form is a lesser tool of Demigra's will, not the character at full independent strength. `[Romulus Games / DBZ Exchange product listings, via WebSearch]`
+- **Community note** — Gravy and Putine are among the most obscure villain characters to receive dedicated cards in BT4 — appearing almost exclusively in Dragon Ball Heroes arcade promotional material rather than any broadcast anime. Their BT4 inclusion expanded the Heroes villain roster for collectors who follow that game's lore. `[Kanzenshuu Dragon Ball Heroes thread, via WebSearch]`
+- **Mechanical theme** — The thralled Gravy and Putine cards in BT4 are mechanically tied to the [Dark Over Realm] engine — dark energy cards that return from the Warp rather than being discarded. Thematically, Demigra's thrall mirrors the mechanic: characters pulled back under someone else's control. `[dbs-cardgame.com: Colossal Warfare Design Concept, via WebSearch]`
+
+### Related cards
+- Gravy, Lightning's Might (Colossal Warfare, BT4-113) — same character pre-thrall; base Demon God form
+- Putine, in Demigra's Thrall (Colossal Warfare, BT4-116) — Gravy's co-conspirator, thralled in the same set
+- Demigra (Colossal Warfare) — the entity whose thrall is named in the card title

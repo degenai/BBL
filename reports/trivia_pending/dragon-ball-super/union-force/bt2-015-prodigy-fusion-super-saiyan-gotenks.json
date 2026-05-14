@@ -1,0 +1,37 @@
+{
+  "card_name": "Prodigy Fusion Super Saiyan Gotenks",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-015",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Prodigy Fusion Super Saiyan Gotenks'. Vision confirms Metamoran fusion vest (black-and-white sleeveless), Super Saiyan hair, child-sized figure with cocky expression — canonical Gotenks design markers. Named card.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Gotenks is the Fusion Dance product of Goten and Trunks, trained by Goku and later drilled by Piccolo inside the Hyperbolic Time Chamber during the Buu Saga. His method of formation — the Metamoran Fusion Dance requiring perfectly synchronized mirror-image poses — is distinct from Vegito's Potara Earring fusion. [Dragon Ball Wiki: Gotenks; Dragon Ball Wiki: Fusion Dance, via WebSearch snippets]",
+      "sources": ["Dragon Ball Wiki: Gotenks, via WebSearch snippet", "Dragon Ball Wiki: Fusion Dance, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Gotenks achieved Super Saiyan 3 — the only character besides Goku to master it during original Dragon Ball Z — while training in the Hyperbolic Time Chamber. The energy drain of Super Saiyan 3 significantly compresses the Fusion Dance's 30-minute window, leaving Gotenks with very little time to finish his fights. [Game Rant: 'Dragon Ball: All Forms of Gotenks, Explained'; Dragon Ball Wiki: Gotenks, via WebSearch snippets]",
+      "sources": ["Game Rant, via WebSearch snippet", "Dragon Ball Wiki: Gotenks, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Gotenks was eventually absorbed by Super Buu alongside Piccolo — his power used against the Z Warriors until Vegito rescued them. His personality is described as a mixture of Trunks's arrogance and Goten's cheerfulness, producing extreme cockiness. [Dragon Ball Wiki: Gotenks, via WebSearch snippet]",
+      "sources": ["Dragon Ball Wiki: Gotenks, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Repeated Force Vegito", "set": "Union Force BT2-012", "note": "Fusion-warrior cohort pair; both are Buu-Saga fusions"},
+    {"name": "Majin Buu Revived", "set": "Union Force BT2-028", "note": "Gotenks's primary combat target during the Buu Saga"},
+    {"name": "Goten", "set": "various", "note": "One of the two fusees"},
+    {"name": "Trunks", "set": "various", "note": "One of the two fusees"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

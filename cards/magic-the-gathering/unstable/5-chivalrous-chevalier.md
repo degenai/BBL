@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["knight", "chivalry", "mount", "mechanical", "steampunk", "flying", "armor", "comedy", "parody", "banner", "quest", "jousting"]
+tags_filter: ["solo", "mid-shot", "forward-facing", "white-magic", "creature-knight", "scene-mode"]
 reference_image: cards/_images/magic-the-gathering/unstable/5-chivalrous-chevalier.png
 average_cost_paid: 0
 market_price: 0.1
@@ -29,6 +29,29 @@ oracle_text: Flying\nWhen this creature enters, return a creature you control to
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: comedic
+time_of_day: day
+setting: other
 ---
 
 # Chivalrous Chevalier (Unstable)
+
+## Vision
+
+![5-chivalrous-chevalier](../../_images/magic-the-gathering/unstable/5-chivalrous-chevalier.png)
+
+A compact, heavily armored figure sits astride a mechanical horse with articulated plating, large mechanical wings spread to either side. The rider wears a tall conical helm with a face visor and a trailing pennant ribbon, with a curled mustache visible beneath. They hold a lance or standard pole in one hand and raise the other in a formal, almost theatrical gesture. A large white banner billows behind. The background opens to a pastoral blue sky with distant figures on a green plain. The aesthetic is cartoonishly chivalric — full plate, courtly poise, and an absurdly oversized mechanical steed.
+
+**Subject:** An armored humanoid knight astride a mechanical flying horse, holding a lance and raising one hand in a courtly gesture, a large banner visible behind them
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** other, day, clear
+**Foreground:** Armored humanoid knight on a mechanical armored flying horse  *(palette: steel blue, dark purple, gold)*
+**Background:** Blue sky, green plains, white banner, distant figures  *(palette: sky blue, pale green, white)*
+**Mood / lighting:** comedic, soft
+**Emotion read:** theatrical confidence, raised hand in mock-courtly salute
+**Objects:** lance, banner, mechanical wings
+**Creatures:** mechanical horse
+**Iconography:** banner, pennant
+**Genre cues:** fantasy, steampunk, comedy
+

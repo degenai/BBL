@@ -29,7 +29,7 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Son Goten (Dragon Ball Super)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Prodigal Dynasty Son Goten (Colossal Warfare)
@@ -38,8 +38,8 @@ ip_verified: false
 
 ![bt4-085-prodigal-dynasty-son-goten](../../_images/dragon-ball-super/colossal-warfare/bt4-085-prodigal-dynasty-son-goten.png)
 
-> [!warning] Suspected IP: **Son Goten (Dragon Ball Super)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Son Goten (Dragon Ball Super)**
+> Confirmed via card name ("Prodigal Dynasty Son Goten"), Saiyan/Earthling/Goku's Lineage traits, and Son Goten: GT era tag. [Dragon Ball Wiki: Goten; WebSearch: DBZExchange BT4-085]
 
 A young-looking humanoid figure with golden spiky Super Saiyan hair stands in a dynamic forward-charging pose. The figure wears a blue gi and is surrounded by a crackling golden energy aura with fiery tendrils. The build and proportions read as younger and shorter than typical adult fighters. The background is a burst of warm golden energy light. The composition is a mid-shot, slightly low angle, emphasizing upward momentum.
 
@@ -53,4 +53,15 @@ A young-looking humanoid figure with golden spiky Super Saiyan hair stands in a 
 **Emotion read:** eager aggression, forward-charging energy, youthful intensity
 **Iconography:** energy-aura, super-saiyan, golden
 **Genre cues:** anime, fantasy
+
+## Trivia
+
+- **Set lore** — Son Goten is the youngest known Super Saiyan in Dragon Ball lore, achieving the form around age seven without extreme emotional distress — the transformation came so naturally he did not realize the change until Chi-Chi pointed it out. This ease is attributed to his exceptionally high S Cell count, inherited from Goku during his Super Saiyan Full Power phase. [WebSearch: Dragon Ball Wiki Goten (Fandom)]
+- **Mechanical** — Prodigal Dynasty Son Goten (BT4-085, Common, Yellow, 15,000 power, cost 3) carries [Swap 4]: pay 2 yellow to play any Goku's Lineage card with energy cost 4, returning this card to hand. This positions it as a recycle-and-upgrade piece rather than a board presence — a bridge into higher-cost Goku's Lineage plays that recovers itself as a reusable resource. Its [Auto] on combo adds +10,000 combo power when defending a yellow Battle Card. [WebSearch: DBZExchange BT4-085; cartajouer.com BT4-085]
+- **Design** — The card is tagged Son Goten: GT era — placing it in Dragon Ball GT continuity rather than Dragon Ball Super proper. BT4 intentionally blended multiple eras, with GT's Baby Saga as a headline arc. In GT, Goten is notably deprioritized; the title "Prodigal Dynasty" gestures at inherited greatness, with "prodigal" carrying the double sense of gifted-but-absent that describes Goten's reduced role in the Baby arc. [WebSearch: bleedingcool.com Colossal Warfare Checklist; WebSearch: DBZExchange BT4-085]
+
+### Related cards
+- Kakarot (Colossal Warfare, BT4-082) — adjacent in collector range, same Goku's Lineage trait family
+- Instant Transmission (Colossal Warfare, BT4-097) — Goku's Lineage leader synergy card in the same set
+- Indomitable Dynasty SS Son Goku (Colossal Warfare, BT4-077) — likely the cost-4 Goku's Lineage target for this card's Swap skill
 

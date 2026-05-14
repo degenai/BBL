@@ -1,0 +1,42 @@
+{
+  "card_name": "Raging Cabba",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-013",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Cabba'. Young male fighter in battle suit with spiky gold hair and electricity crackling in transformation is consistent with Cabba's canonical Super Saiyan design. IP confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cabba is a Universe 6 Saiyan — one of the first U6 Saiyans encountered in DBS canon. Unlike Universe 7 Saiyans, U6 Saiyans lack tails and live on Planet Sadala. Cabba had never witnessed or heard of the Super Saiyan transformation before the Champa Arc tournament, making his first transformation a genuine discovery rather than training milestone. [Dragon Ball Official Site: Weekly Character Showcase no. 9 — Cabba, confirmed via WebSearch snippet title match]",
+      "sources": ["en.dragon-ball-official.com/news/01_271.html", "WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Cabba's Super Saiyan transformation was unlocked during his tournament match against Vegeta in the Champa Arc. Vegeta triggered it by threatening to destroy Planet Sadala and kill Cabba's family, provoking rage sufficient to ignite the transformation. This mirrors the classic Saiyan pattern (grief/rage as catalyst) while demonstrating U6 Saiyans carry the same latent potential. [Cabba | Dragon Ball Wiki / CBR: Cabba Explained, via WebSearch snippet]",
+      "sources": ["dragonball.fandom.com/wiki/Cabba", "cbr.com/cabba-dragon-ball-super-explained/"]
+    },
+    {
+      "category": "design",
+      "text": "The card title 'Raging Cabba' encodes the rage-catalyst narrative directly. Cabba's design in BT1-013 depicts the Super Saiyan state rather than base form, marking the transformation moment rather than Cabba's regular appearance — a deliberate card design choice to anchor the most narratively loaded beat of his tournament arc. [Trading Card Database: BT1 Galactic Battle set listing]",
+      "sources": ["tcdb.com/ViewSet.cfm/sid/269179"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Cabba subsequently became instrumental in introducing Super Saiyan to other U6 Saiyans — he helped Caulifla reach the transformation, making him a transmission node for the form in his universe. Universe 6's Saiyans (Cabba, Caulifla, Kale) achieved transformations almost immediately after becoming aware of them, which is noted in canon as unusual compared to U7 Saiyan training requirements. [CBR: Dragon Ball Super Saiyans Are So Powerful / Screen Rant: Universe 6 Saiyans strength, via WebSearch snippets]",
+      "sources": ["cbr.com/cabba-dragon-ball-super-explained/", "screenrant.com/dragon-ball-universe-6-super-saiyans-power-levels/"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hit // Assassin Hit", "set": "Galactic Battle", "note": "U6 tournament cohort; both fought in the Champa Arc"},
+    {"name": "Scheming Champa", "set": "Galactic Battle", "note": "Champa is Cabba's universe's destroyer god; recruited Cabba's universe for the tournament"},
+    {"name": "Vados // Aide Vados", "set": "Galactic Battle", "note": "U6 cohort; Vados attended Champa during Cabba's tournament"},
+    {"name": "Raging Cabba (BT1-027)", "set": "Galactic Battle", "note": "Wave 65 vision referenced BT1-027 as a related Cabba card in the same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

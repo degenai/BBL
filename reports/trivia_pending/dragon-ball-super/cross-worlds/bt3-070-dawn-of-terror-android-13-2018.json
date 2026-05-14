@@ -1,0 +1,36 @@
+{
+  "card_name": "Dawn of Terror, Android 13 (2018)",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-070",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names Android 13. Green vest, Red Ribbon Army cap, and massive muscular build are his canonical visual identifiers per Dragon Ball Wiki and the Dragon Ball Official Site showcase (entry no. 49). The '(2018)' suffix in the card name likely distinguishes a reprint or variant. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Android 13 is the main antagonist of the 1992 DBZ film Dragon Ball Z: Super Android 13! (Japanese theatrical release July 11, 1992). He was not created by Gero directly during his lifetime — after Gero's destruction, his supercomputer continued the Android program and completed Androids 13, 14, and 15 with the directive to kill Goku. Android 13 can absorb the components of Androids 14 and 15 to transform into the hulking 'Super Android 13' form. [Dragon Ball Wiki: Android 13, via WebSearch; Wikipedia: Dragon Ball Z: Super Android 13!]",
+      "sources": ["Dragon Ball Wiki (WebSearch snippet)", "Wikipedia: Dragon Ball Z: Super Android 13!"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Android 13's Red Ribbon Army cap is both a character-design signature and a canon plot device: the cap bears the Red Ribbon Army insignia, marking him as Gero's legacy creation even though Gero was already dead when 13 was activated. In the same BT3 set, Dr. Gero (BT3-067) appears as a Common, making BT3 the only set to include both the architect and the posthumous creation in the same release — a deliberate apparatus-of-extraction cluster. [Dragon Ball Official Site Showcase no. 49; dbs-cardgame.com BT3 card list, via WebSearch]",
+      "sources": ["en.dragon-ball-official.com (WebSearch snippet)", "dbs-cardgame.com"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT3-070 is an Uncommon Battle Card. The '(2018)' tag in the card name is a Collectr/database disambiguation suffix, not part of the printed card name — it appears when a card name would otherwise collide with a later reprint. The card is positioned in the Androids/Red Ribbon color axis of BT3, synergizing with Gero support cards. [dbs-cardgame.com card list; eBay listing data, via WebSearch]",
+      "sources": ["dbs-cardgame.com", "WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dr. Gero, Evil's Inventor", "set": "Cross Worlds (BT3-067)", "note": "Gero is 13's posthumous creator — Red Ribbon apparatus cluster"},
+    {"name": "Android 14", "set": "Various", "note": "Activated alongside 13 by Gero's supercomputer; 13 absorbs 14's components"},
+    {"name": "Android 15", "set": "Various", "note": "Activated alongside 13 by Gero's supercomputer; 13 absorbs 15's components"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

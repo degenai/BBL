@@ -8,6 +8,7 @@ species: "half-Saiyan / half-Earthling (son of Vegeta and Bulma); across incarna
 canonical_source: "Dragon Ball Wiki — Trunks; Dragon Ball Wiki — Future Trunks; Dragon Ball Wiki — Trunks (GT); Dragon Ball Wiki — Trunks: Xeno; Wikipedia: Trunks (Dragon Ball); Dragon Ball Z manga (Akira Toriyama, 1984-1995) for the original Future Trunks introduction; Dragon Ball GT (Toei Animation, 1996-1997) for GT-era adult Trunks continuity; Dragon Ball Super (Toei Animation, 2015-2018) for the Future Trunks Saga arc; Dragon Ball Xenoverse (Bandai Namco / Dimps, 2015) and Xenoverse 2 (2016) for the Xeno continuity; Super Dragon Ball Heroes (Bandai, 2010-present) for the Xeno expansion canon; dbs-cardgame.com per-card pages for the Dragon Ball Super Card Game printings"
 confidence: canonical
 appears_on:
+  - dragon-ball-super/galactic-battle/bt1-039-trunks
   - dragon-ball-super/cross-worlds/bt3-011-quick-rush-trunks
   - dragon-ball-super/cross-worlds/bt3-061-unyielding-justice-ss2-trunks
   - dragon-ball-super/cross-worlds/bt3-062-trunks-bridge-to-the-future-2018
@@ -18,6 +19,7 @@ appears_on:
   - dragon-ball-super/mythic-booster/sd2-05-chain-attack-trunks
   - dragon-ball-super/world-martial-arts-tournament/tb2-007-tiny-rivals-trunks
   - dragon-ball-super/union-force/bt2-063-father-son-galick-gun
+  - dragon-ball-super/union-force/bt2-066-trunks-time-machine
 related_hubs: []
 related_symbols: []
 related_characters: [xenoverse-villains, baby-dbgt, son-goku, vegeta, wrath-of-the-dragon-saga, namekian]

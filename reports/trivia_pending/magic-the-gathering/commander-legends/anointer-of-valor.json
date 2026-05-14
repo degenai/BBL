@@ -1,0 +1,42 @@
+{
+  "card_name": "Anointer of Valor",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "8",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Anointer of Valor is a CMR-original card — its Scryfall record shows reprint: false, meaning this is its first and (as of 2026) only printing. It is one of the unnamed angel support pieces designed specifically for CMR's draft environment, which was built around legendary commanders supported by a commons/uncommons cohort of generic fantastical archetypes.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Light streaked down from the heavens, and a voice whispered in the soldier's ear: 'You shall not fall today.'\" The speaker is unnamed — the line is written from the perspective of the soldier receiving the blessing, reinforcing the card's mechanical identity as a counter-granting support piece.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Anointer of Valor is a 3/5 flying Angel for six mana with an activated trigger: pay three mana whenever any creature attacks to put a +1/+1 counter on it. The mana cost is steep, and the EDHREC rank of 20578 reflects that it sees almost no competitive Commander play — the pump trigger is slow and expensive even for casual pods. It functions primarily as a draft-role filler in CMR limited.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Antonio Jose Manzanedo has an extensive MTG portfolio spanning multiple sets. The Anointer of Valor illustration — an angel in descent, eyes downcast, staff vertical, light pouring from above — closely follows classical devotional iconography (the annunciation pose). The figure is anonymous by design, consistent with CMR's explicit decision to reserve named character identity for legendary slots.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Angelic Gift", "set": "Commander Legends", "note": "adjacent collector number (CMR 7), paired angel-blessing visual at common"},
+    {"name": "Angelic Field Marshal", "set": "Commander Legends", "note": "named angel legendary in CMR at mythic, top of the angel hierarchy this card supports"},
+    {"name": "Emeria Angel", "set": "Zendikar", "note": "white angel that similarly rewards attacking — mechanical cousin"},
+    {"name": "Abzan Falconer", "set": "Khans of Tarkir", "note": "counter-granting white creature with flying synergy — comparable design role"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

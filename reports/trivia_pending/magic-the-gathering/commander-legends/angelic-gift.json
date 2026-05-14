@@ -1,0 +1,42 @@
+{
+  "card_name": "Angelic Gift",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "7",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Angelic Gift originated in Battle for Zendikar (BFZ, 2015), where its flavor text grounds it in Zendikar's war against the Eldrazi titans. The CMR printing is its fourth appearance, following Battle for Zendikar, Battlebond (BBD, 2018), and Core Set 2020 (M20); the Josu Hernaiz art debuted in Battlebond and has been the canonical art for each reprint since.",
+      "sources": ["Scryfall", "WebSearch: echomtg.com Angelic Gift printings"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Zendikar will triumph this day, and our armies will fly with angels.\" — unnamed speaker. The line situates the card firmly in the Zendikar Rising / Battle for Zendikar narrative arc, when Nissa Revane and the Gatewatch rallied Zendikar's people against the Eldrazi.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Angelic Gift is a two-mana Aura that grants flying and replaces itself immediately with a card draw. This cantrip-Aura design pattern (pay mana for enchant + draw) makes it one of the more efficient common flying-enablers in Pauper and PauperCommander, where it sees occasional play in white go-wide strategies. EDHREC rank: 3441 among all cards, respectable for a common with no rarity advantage.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Josu Hernaiz has illustrated multiple MTG cards across Battlebond, Commander Legends, and other sets. The Angelic Gift art — a back-lit winged figure ascending toward light — was chosen for Battlebond's two-player cooperative theme, where angelic blessing and uplift map naturally onto the set's partner-in-victory concept.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Angelic Benediction", "set": "Battle for Zendikar", "note": "same Zendikar-angels thematic block context"},
+    {"name": "Anointer of Valor", "set": "Commander Legends", "note": "adjacent collector number (CMR 8), same angel-blessing visual register"},
+    {"name": "Gryff's Boon", "set": "Shadows over Innistrad", "note": "similar cantrip-adjacent flying Aura mechanic pattern"},
+    {"name": "Cartouche of Knowledge", "set": "Amonkhet", "note": "direct design comparison: 2-mana flying Aura that cantrips"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

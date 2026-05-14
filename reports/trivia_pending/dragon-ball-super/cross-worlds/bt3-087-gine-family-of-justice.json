@@ -1,0 +1,41 @@
+{
+  "card_name": "Gine, Family of Justice",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-087",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names Gine. Short dark hair, teal Saiyan battle outfit, gentle expression in a rocky outdoor setting match her canonical design from Dragon Ball Minus and Dragon Ball Super: Broly. The card's tags (bardock, female-saiyan, mother, origin-story) are all diagnostic identifiers for this specific character. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Gine first appeared in Dragon Ball Minus: The Departure of the Fated Child, a manga one-shot by Akira Toriyama published in April 2014 in Saikyō Jump. She is Bardock's wife and the biological mother of both Raditz and Kakarot (Goku). In a 2014 interview, Toriyama noted that Bardock and Gine are rare Saiyans bonded by genuine emotional attachment rather than purely reproductive pairing — unusual enough in Saiyan culture to be worth remarking on. [CBR: 'Dragon Ball: Everything We Know About Goku's Mother, Gine'; WebSearch from Dragon Ball Wiki]",
+      "sources": ["CBR (WebSearch snippet)", "Dragon Ball Wiki (WebSearch snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Her debut scene from Dragon Ball Minus was animated nearly beat-for-beat in Dragon Ball Super: Broly (2018 Japanese theatrical release; US release January 2019), giving Gine her first animated canon appearance. The Dragon Ball Official Site featured her in Weekly Character Showcase no. 74, connecting her to the Dragon Ball Super manga's Granolah the Survivor Arc, where she appears in flashback during Bardock's backstory. [en.dragon-ball-official.com Showcase no. 74, via WebSearch; CBR]",
+      "sources": ["en.dragon-ball-official.com (WebSearch snippet)", "CBR"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Gine sits at the root of a four-generation lineage: Gine → Goku → Gohan → Pan. She is therefore Pan's great-grandmother, making her a key anchor for any 'family of Goku' or multi-generational Saiyan narrative in the DBS-TCG. BT3-087 is one of her earliest dedicated TCG appearances and was released the same year as Dragon Ball Super: Broly, likely timed to the film's promotional window. [Dragon Ball Wiki: Gine; dbs-cardgame.com BT3 release date March 2018, via WebSearch]",
+      "sources": ["Dragon Ball Wiki (WebSearch snippet)", "dbs-cardgame.com"]
+    },
+    {
+      "category": "design",
+      "text": "The card's title 'Family of Justice' inverts the expected Saiyan-card framing: most Saiyan Battle Cards emphasize combat power and aggression. Gine's card instead foregrounds protection, family, and origin — consistent with her canon characterization as a low-class Saiyan who left the warrior track due to her gentle temperament. The rocky outdoor setting and peaceful mood (vs. the void backgrounds on most Saiyan cards) reinforce this design intent. [frontmatter mood: peaceful; Dragon Ball Wiki, via WebSearch]",
+      "sources": ["card frontmatter", "Dragon Ball Wiki (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bardock (various)", "set": "Multiple DBS sets", "note": "Gine's husband; co-parents Goku; Bardock cards reference their bond"},
+    {"name": "Son Goku (various)", "set": "Multiple DBS sets", "note": "Gine's son Kakarot — the direct lineage anchor"},
+    {"name": "Pan (various)", "set": "Multiple DBS sets", "note": "Gine's great-granddaughter via Goku-Gohan-Pan; four-generation Saiyan line"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

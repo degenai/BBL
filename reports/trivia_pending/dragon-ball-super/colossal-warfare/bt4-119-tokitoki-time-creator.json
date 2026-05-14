@@ -1,0 +1,41 @@
+{
+  "card_name": "Tokitoki, Time Creator",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-119",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is literally 'Tokitoki, Time Creator'. The small colorful bird deity with golden radiant energy flanked by two humanoid figures matches Tokitoki's canonical appearance from Dragon Ball Xenoverse. Tokitoki is the divine bird of time residing in the Time Nest with Chronoa. Fully verified as Time Patrol ally, NOT villain.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Tokitoki is the divine bird of time in Dragon Ball Xenoverse lore, residing in the Time Nest at the edge of the universe alongside Chronoa (Supreme Kai of Time). Tokitoki's primary narrative significance: its eggs are the starting material for entire new universes. In Xenoverse 2's main story, Towa's final plan involves stealing Tokitoki's egg to control the multiverse — making Tokitoki the ultimate MacGuffin of the Time Patrol saga. [Dragon Ball Wiki: Tokitoki, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: Tokitoki, via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Tokitoki is unambiguously a Time Patrol ally, not a Time Breaker villain. Its inclusion in BT4 alongside Demigra's villain cluster frames it as the counterweight — what the Time Breakers are threatening. The Time Patrol's original headquarters was named Tokitoki City in its honor. Wave 63 Edgelord audit confirmed this framing: Tokitoki is NOT in the xenoverse-villains character cluster. [Tokitoki: Videogaming Wiki, via WebSearch]",
+      "sources": ["Tokitoki: Videogaming Wiki, via WebSearch", "Wave 63 Edgelord audit"]
+    },
+    {
+      "category": "design",
+      "text": "BT4-119 is a Black Common with only 1000 power — the lowest-power Battle card in the BT4 Colossal Warfare villain cluster by a wide margin. Its mechanical hook: when played, you may return it to the top of your deck and instead play a Black Battle card with 3000 power from your deck. This tutoring function mirrors Tokitoki's lore role as the source from which power flows — the bird that enables others to manifest. [DBZ Exchange: BT4-119, via WebSearch]",
+      "sources": ["DBZ Exchange: BT4-119, via WebSearch"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Tokitoki's card art — two small joyful humanoid figures in awe of a radiant bird deity — is one of the few genuinely celebratory images in BT4, a set otherwise dominated by dark energy, thrall, and berserker violence. Community reception to Tokitoki cards has historically skewed toward collectors interested in the Xenoverse / Time Patrol lore side of the DBS TCG. [Tokitoki: Videogaming Wiki, via WebSearch]",
+      "sources": ["Tokitoki: Videogaming Wiki, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Time Trauma Masked Saiyan", "set": "Colossal Warfare", "note": "BT4-117 — Bardock-as-weapon against the timeline Tokitoki represents"},
+    {"name": "Chronoa / Supreme Kai of Time", "set": "various", "note": "Tokitoki's caretaker; appears in BT4 and Xenoverse sets"},
+    {"name": "Tokitoki, Bird of Time", "set": "various", "note": "Other Tokitoki printings across the DBS TCG"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Tokitoki (Dragon Ball Xenoverse)",
+    "ip_confidence": "high"
+  }
+}

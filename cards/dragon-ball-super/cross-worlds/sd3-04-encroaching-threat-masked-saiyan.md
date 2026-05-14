@@ -30,6 +30,7 @@ setting: void
 suspected_ip: Bardock (Masked Saiyan form, Dragon Ball Xenoverse / Heroes)
 ip_confidence: high
 ip_verified: true
+characters: [saiyan, bardock]
 ---
 
 # Encroaching Threat Masked Saiyan (Cross Worlds)

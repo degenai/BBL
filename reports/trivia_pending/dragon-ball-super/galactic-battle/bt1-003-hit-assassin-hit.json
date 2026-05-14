@@ -1,0 +1,41 @@
+{
+  "card_name": "Hit // Assassin Hit",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-003",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Hit'. Broad-shouldered blue-skinned humanoid in purple long coat in guarded fighting stance matches Hit's canonical design precisely. IP confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Hit is Universe 6's legendary assassin, known canonically as 'Never-Miss Hit' and the 'Legendary Hitman,' holding a perfect contract record across a career spanning over 1,000 years. He was introduced during the God of Destruction Champa Arc as the strongest fighter in Universe 6's tournament roster. [Dragon Ball Wiki: Hit, via WebSearch snippet]",
+      "sources": ["dragonball.fandom.com/wiki/Hit", "WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Hit's signature technique, Time-Skip, does not stop time outright but creates a momentary pocket dimension storing frozen time, allowing Hit to move freely and strike during a tenth-of-a-second window. As Hit battles stronger opponents, Time-Skip evolves: the window expands (up to half a second) and he gains the ability to encase opponents in a 'time cage,' suspending their movements. [Dragon Ball Official Site: Weekly Character Showcase no. 103 — Hit, title confirmed via WebSearch snippet]",
+      "sources": ["en.dragon-ball-official.com/news/01_1858.html", "WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT1-003 is an Uncommon Blue Battle card in the U6 cohort block. It is numerically adjacent to BT1-002 (Vados) in the set, grouping the U6 fighters together. No additional card-effect text was retrievable from available sources for this specific printing.",
+      "sources": ["tcdb.com/ViewSet.cfm/sid/269179"]
+    },
+    {
+      "category": "design",
+      "text": "Hit's design deliberately inverts the typical anime fighter aesthetic: he is stocky and compact rather than lean, expressive, or dramatic. His stoicism and economy of movement are design cues that signal the assassin-not-warrior archetype. Community discourse on r/dragonball notes the contrast with Universe 7's fighters as a deliberate visual tension. [Dragon Ball Wiki: Hit character page, via WebSearch snippet]",
+      "sources": ["dragonball.fandom.com/wiki/Hit", "WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Vados // Aide Vados", "set": "Galactic Battle", "note": "U6 cohort; BT1-002 is numerically adjacent"},
+    {"name": "Raging Cabba", "set": "Galactic Battle", "note": "U6 tournament teammate; both fought in the Champa Arc tournament"},
+    {"name": "Scheming Champa", "set": "Galactic Battle", "note": "Champa recruited Hit's universe for the tournament"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

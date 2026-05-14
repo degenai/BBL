@@ -14,10 +14,14 @@ appears_on:
   - dragon-ball-super/colossal-warfare/bt4-107-heavenly-wizard-demigra
   - dragon-ball-super/colossal-warfare/bt4-110-dark-absorption-mira
   - dragon-ball-super/colossal-warfare/bt4-111-umbral-invitation-towa
+  - dragon-ball-super/colossal-warfare/bt4-113-gravy-lightning-s-might
+  - dragon-ball-super/colossal-warfare/bt4-114-gravy-in-demigra-s-thrall
+  - dragon-ball-super/colossal-warfare/bt4-116-putine-in-demigra-s-thrall
+  - dragon-ball-super/colossal-warfare/bt4-117-time-trauma-masked-saiyan
   - dragon-ball-super/colossal-warfare/bt4-121-dark-kamehameha
 related_hubs: []
 related_symbols: []
-related_characters: [baby-dbgt, trunks]
+related_characters: [baby-dbgt, trunks, bardock]
 ip_resolution_for: xenoverse-villains
 ---
 

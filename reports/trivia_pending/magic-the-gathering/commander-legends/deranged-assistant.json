@@ -1,0 +1,43 @@
+{
+  "card_name": "Deranged Assistant",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "65",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Deranged Assistant originated in Innistrad (ISD, September 2011), Magic's iconic gothic-horror plane. The original ISD printing (no. 52) established it as an Innistrad card — the mad-science flavor belongs to Innistrad's alchemist/stitcher tradition, distinct from the blue-magic scholarship of planes like Ravnica or Tolaria. The CMR printing is a reprint into a plane-agnostic Commander context.",
+      "sources": ["Scryfall", "WebSearch: Gatherer Innistrad Deranged Assistant"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Garl, adjust the slurry dispensers. Garl, fetch more corpses. Garl, quit crying and give me your brain tissue. If he doesn't stop being so rude, I'm quitting.\" The joke is told from Garl's interior monologue — a put-upon assistant contemplating quitting a job that requires surrendering his own brain tissue. The name Garl and the employer remain unnamed, but the line has become one of the more-cited examples of MTG's humorous horror flavor writing. It appeared on Draftsim's list of best and funniest MTG flavor texts.",
+      "sources": ["Scryfall", "WebSearch: Draftsim 40 best funniest MTG flavor text lines"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Deranged Assistant taps and mills one card to produce one colorless mana — it functions as a mana accelerant at the cost of library erosion. EDHREC rank 4618, the highest of all eight CMR cards in this wave, reflecting genuine Commander play in self-mill and graveyard-recursion strategies. It is a common in Modern (legal) and sees play in Pauper mill decks as a budget mana rock with incidental graveyard filling.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The CMR reprint was previewed by MTGGoldfish in an article featuring Araumi of the Dead Tide, a CMR legendary commander built around self-mill and encore (graveyard recursion). The pairing of Deranged Assistant in the same preview slot as Araumi is functionally coherent — the assistant's mill-for-mana lines up directly with Araumi's encore payoffs.",
+      "sources": ["Scryfall: preview source field — MTGGoldfish/araumi-of-the-dead-tide-exclusive-previews"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Deranged Assistant", "set": "Innistrad", "note": "original printing, ISD 52"},
+    {"name": "Deranged Assistant", "set": "Innistrad Remastered", "note": "most recent reprint"},
+    {"name": "Araumi of the Dead Tide", "set": "Commander Legends", "note": "CMR legendary whose preview slot included this card — self-mill synergy"},
+    {"name": "Millikin", "set": "Odyssey", "note": "closest mechanical analog: tap-mill-produce-colorless-mana"},
+    {"name": "Stitcher's Supplier", "set": "Core Set 2019", "note": "Innistrad-flavored self-mill creature — thematic kin"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

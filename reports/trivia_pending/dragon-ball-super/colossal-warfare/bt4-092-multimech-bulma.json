@@ -1,0 +1,41 @@
+{
+  "card_name": "Multimech Bulma",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-092",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card is named 'Multimech Bulma' with explicit character name in title. Capsule Corp engineering context, female inventor with mechanical helmet, yellow color alignment all confirm canonically Bulma. Card name is direct evidence per anti-conflation rule criterion (a).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Colossal Warfare (BT4) released for tournament play on July 13, 2018, as the fourth main booster set in the Dragon Ball Super Card Game. The set spans 218 cards across multiple eras including the Special/Saiyan era groupings. [Bleedingcool.com: Colossal Warfare Checklist]",
+      "sources": ["Bleedingcool.com: Dragon Ball Super Card Game Colossal Warfare Checklist"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Multimech Bulma (BT4-092, Uncommon, Yellow) carries an [EX-Evolve] skill: plays on top of any Bulma with energy cost 3 or more. Its [Auto] trigger on the turn it is played mills up to 2 cards into the Drop Area, then refreshes up to 1 energy to Active Mode and draws 1 card — a miniature value engine enabling Bulma-named evolution chains. [WebSearch: CoreTCG / DBZExchange card listing]",
+      "sources": ["WebSearch: CoreTCG Multimech Bulma listing", "WebSearch: DBZExchange BT4-092"]
+    },
+    {
+      "category": "design",
+      "text": "BT4-092 and BT4-093 (Explorer Bulma) appear on adjacent collector numbers in the same set, forming a two-card inventor register for Bulma within Colossal Warfare — distinct from BT4-013's mother-register incarnation earlier in the same set. Both are yellow-aligned and share the Special trait, signaling the game's design intent to differentiate Bulma's roles across the set. [WebSearch: dbs-cardgame.com card list]",
+      "sources": ["WebSearch: dbs-cardgame.com BT4-093 card list"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Bulma is the daughter of Dr. Brief, founder of Capsule Corporation (est. Age 712 in Dragon Ball canon). Her debut in the original Dragon Ball manga panel has her standing next to a Capsule Corp motorbike, establishing the vehicle-as-apparatus-of-freedom throughline that the Explorer Bulma card (BT4-093) and this card's mechanical helmet imagery both reference. [Wikipedia: Bulma; Dragon Ball Wiki: Capsule Corporation via WebSearch]",
+      "sources": ["Wikipedia: Bulma", "WebSearch: Dragon Ball Wiki Capsule Corporation"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Explorer Bulma", "set": "Colossal Warfare", "note": "Adjacent collector number BT4-093, same character inventor register"},
+    {"name": "Dependable Mom Bulma", "set": "Colossal Warfare", "note": "BT4-013, mother-register incarnation of the same character in the same set"},
+    {"name": "Multimech Bulma (EX-Evolve target)", "set": "Various", "note": "Any Bulma with energy cost 3 or more serves as the EX-Evolve base for this card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

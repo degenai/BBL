@@ -30,7 +30,7 @@ setting: void
 subject_known_ip: true
 suspected_ip: Kibito (Dragon Ball Z)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Kibito, Kai's Attendant (Cross Worlds)
@@ -39,8 +39,8 @@ ip_verified: false
 
 ![bt3-042-kibito-kai-s-attendant](../../_images/dragon-ball-super/cross-worlds/bt3-042-kibito-kai-s-attendant.png)
 
-> [!warning] Suspected IP: **Kibito (Dragon Ball Z)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Kibito (Dragon Ball Z)**
+> Confirmed via card name "Kibito, Kai's Attendant" and visual match to Kibito's definitive identifiers: red-toned face, long white hair, orange tunic with white sash. [Dragon Ball Wiki: Kibito]
 
 A tall humanoid figure with a distinctively red-toned face and long white hair stands in an energized, slightly forward-leaning pose. The figure wears an orange tunic with a white sash. Blue-white energy radiates around the figure. The background is a bright electric blue energy field. The figure's expression is composed and determined. The distinctive facial coloring and white hair are the character's most visually prominent features.
 
@@ -54,4 +54,16 @@ A tall humanoid figure with a distinctively red-toned face and long white hair s
 **Emotion read:** composed, ready, attendant's alertness
 **Iconography:** energy-aura, divine-attendant
 **Genre cues:** anime, fantasy
+
+## Trivia
+
+- **Character** — Kibito is the personal attendant of Shin (East Supreme Kai of Universe 7), first appearing in the Buu Saga of Dragon Ball Z. He possesses Kai Kai teleportation (which requires no target, unlike Goku's Instant Transmission) and powerful healing abilities — he heals Gohan during a critical moment in the Buu fight. He was killed by Dabura with a point-blank energy wave during the Babidi arc, later revived. `[Dragon Ball Wiki: Kibito, via WebSearch]`
+- **Potara arc** — Kibito was accidentally Potara-fused with Shin during the Buu Saga, forming Kibito Kai. In Dragon Ball Super (Universe 6 arc), Kibito Kai used the Namekian Dragon Balls to wish himself back into two separate entities — prompting Old Kai's frustration at "wasting" the Potara's power. BT3-042 depicts Kibito as his pre-fusion solo attendant self. `[Dragon Ball Wiki: Kibito Kai, via WebSearch; CBR: 10 Things About Kibito, via WebSearch]`
+- **Mechanical design** — BT3-042 is a Blue Common (10000 power, 2 energy cost, 1 blue requirement) with the God trait, Majin Buu Saga era. Ability: switch to Rest Mode to return one of your Battle Cards to hand, then return one opponent Battle Card with energy cost 3 or less to their owner's hand. The bounce-and-protect effect reflects Kibito's lore function as a guardian who retreats his principal from danger. `[TCGplayer: BT3-042 Kibito, Kai's Attendant, via WebSearch]`
+- **Cosmology signal** — Kibito establishes the canonical Supreme Kai attendant role that recurs throughout DBS cosmology: every Supreme Kai has an attendant (Grand Priest / angels serve a similar structural function for Gods of Destruction). Kibito is the template for the attendant archetype that the wave 65-66 U7 attendant cohort builds on. `[CBR: Everything You Need to Know About Supreme Kai Shin, via WebSearch]`
+
+### Related cards
+- Kibito Kai (various) — the Potara fusion of Kibito and Shin; later separated by Namekian Dragon Ball wish
+- Supreme Kai / Shin (various) — Kibito's principal; Universe 7 East Supreme Kai
+- Old Kai (various) — expressed frustration at the Potara un-fusion; key supporting character in the Kibito arc
 

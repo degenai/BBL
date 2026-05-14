@@ -51,3 +51,14 @@ A winged humanoid bird-scout surges through the air with wings outspread, body a
 **Iconography:** wings, feathers, beak
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Aven Surveyor originated in Fate Reforged (FRF, January 2015), the second set of the Khans of Tarkir block. On Tarkir, Aven are associated with the Jeskai Way — a monk-warrior clan whose symbol is the eye, reflecting their emphasis on speed, intelligence, and aerial perception. The Bird Scout type line maps directly onto the Jeskai's scouting and reconnaissance aesthetics. `[Scryfall, WebSearch: Card Kingdom Fate Reforged listing]`
+- **Mechanical reputation** — Modal ETB: grow yourself or bounce a threat. Flexible common-level tempo, but five mana ({3}{U}{U}) is costed for limited rather than constructed. EDHREC rank 22327 — minimal Commander play. Notably not legal in Historic or Timeless, landing in a format gap: legal in Modern and Legacy but functionally unplayed at those levels. `[Scryfall]`
+- **Design** — Artist David Gaillet's rendering places the Aven over a red-orange canyon landscape — visually consistent with Tarkir's harsh highlands rather than generic fantasy sky. The warm earthy palette is deliberately incongruent with the card's blue color identity, a recurring design signature on Fate Reforged blue cards depicting Aven who inhabit desert terrain despite their water-aligned magic. `[Scryfall]`
+- **Set context** — This card carries no flavor text in either printing. CMR reprinted it as part of a broader inclusion of Bird creature-type support — Aven are one of the more consistently reprinted Bird subtypes in Magic history, appearing across Odyssey, Onslaught, Khans block, and Commander sets. `[Scryfall]`
+
+### Related cards
+- Aven Surveyor (Fate Reforged, no. 31) — original printing
+- Aven Mindcensor (Future Sight) — named Aven, highest-profile Bird Scout in Commander — same tribe, vastly different power level
+- Warden of Evos Isle (Magic 2014) — blue Bird creature reducing flying spell cost, tribal synergy

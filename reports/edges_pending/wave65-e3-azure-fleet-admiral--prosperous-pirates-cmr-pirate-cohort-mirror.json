@@ -1,0 +1,28 @@
+{
+  "edge_id": "wave65-e3-azure-fleet-admiral--prosperous-pirates-cmr-pirate-cohort-mirror",
+  "wave": 65,
+  "shape": "1:1",
+  "category": "designer-confirmed-cycle",
+  "topology": "mirror",
+  "description": "Two CMR commons that together compose the set's named pirate-cohort-at-common pair. Both share the Human Pirate creature subtype, both depict the Brazen-Coalition-vessel-deck setting (Admiral commanding from the wheel vs. crew counting Treasure haul on deck), both are CMR-original or CMR-reprinted pirate commons. The pirate-cohort flavor cluster is structurally adjacent to (but distinct from) the Azure-Fleet-Admiral's Monarch-at-common cluster — this edge is the pirate-as-flavor-wrapper cluster, where the Fall-from-Favor edge is the Monarch-as-mechanic cluster. Both cards already mention each other in their `### Related cards` bibliographies; the formal `## Connections` edge is the structural promotion.",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/commander-legends/58-azure-fleet-admiral.md", "name": "Azure Fleet Admiral (CMR 58)"},
+    {"type": "card", "path": "cards/magic-the-gathering/commander-legends/85-prosperous-pirates.md", "name": "Prosperous Pirates (CMR 85)"}
+  ],
+  "citations": [
+    "[Scryfall: type_line — Creature — Human Pirate (both cards)]",
+    "[Scryfall: Commander Legends set page]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/commander-legends/58-azure-fleet-admiral.md",
+    "cards/magic-the-gathering/commander-legends/85-prosperous-pirates.md"
+  ],
+  "other_candidates_considered": [
+    {"candidate": "Bardock-solo node commission", "verdict": "deferred — only 2 of 4 Bardock-related prints are vision-enriched (BT4-117 + SD3-04); the P-035 ×2 promo prints and SD3-01 require vision pass before threshold-of-3-enriched-anchors is met"},
+    {"candidate": "BT4-117 Time Trauma Masked Saiyan ↔ SD3-04 Encroaching Threat Masked Saiyan 1:1 mirror", "verdict": "subsumed by E2 saiyan race-node — drawing this 1:1 now would be a redundant edge between two cards both anchored on the new race-node; the race-node IS the cohesion anchor"},
+    {"candidate": "Universe-6-tournament cohort (Cabba + Champa + Vados + Hit + Frost + Botamo + Magetta)", "verdict": "post-vision signal — none of the U6 cards beyond Cabba ×2 have landed enriched vision yet; revisit when more U6 prints enrich"},
+    {"candidate": "DSK-toy-horror + DSK-survival-archetype + fear-of-cycle triangle reinforcement", "verdict": "deferred — triangle reinforcement edges are best done as their own dedicated wave; not surfaced here as a low-priority pick"}
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "voice_note": "Two card-endpoints. Both equal nodes. Must be traversable from either side. Hence the mirror. The sigh is professional, not personal. The flavor of Wizards' deliberate pirate-cohort-at-common design intent does land here cleanly — Sidharth Chaturvedi paints the commanding officer, Josh Hass paints the rank-and-file with their haul, and Bandai's same-set commons-cross-print is unmistakable. Worth the work."
+}

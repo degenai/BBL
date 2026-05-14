@@ -1,0 +1,42 @@
+{
+  "card_name": "Energy Boost Beerus",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-042",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Beerus'. Purple sphynx-cat deity with Egyptian collar in energy aura is Beerus's canonical visual signature. IP confirmed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Galactic Battle (BT1) was the inaugural main booster set for the Dragon Ball Super Card Game, released July 28, 2017, comprising 114 cards across 60 Commons, 30 Uncommons, 12 Rares, 8 Super Rares, and 4 Special Rares. [Trading Card Database: 2017 Dragon Ball Super Card Game BT1 Galactic Battle]",
+      "sources": ["Trading Card Database: tcdb.com/ViewSet.cfm/sid/269179"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Beerus is the God of Destruction of Universe 7 and the twin brother of Champa, God of Destruction of Universe 6 — the fraternal-twin destroyer-god structure is foundational to DBS multiverse cosmology. Beerus's design was partially inspired by a Cornish Rex cat that had lived with Akira Toriyama during development, with the naming convention derived from 'virus' (which Toriyama reportedly misread as 'beer,' seeding the alcohol-themed naming pun used for all subsequent GoDs and attendants). [Wikipedia: Beerus]",
+      "sources": ["Wikipedia: en.wikipedia.org/wiki/Beerus"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT1-042 is a Blue Battle card with 20,000 power and an energy cost of 4. It carries Double Strike (inflicts 2 damage instead of 1) and an Auto skill: if you have 5 or more energy when this card is played, KO up to 1 opponent Battle Card. The energy-threshold KO effect mirrors Beerus's in-universe role as a god whose destructive power activates at full power. [Big Orbit Cards / Games Haven TCG: BT1-042 card listing]",
+      "sources": ["bigorbitcards.co.uk/dragon-ball-super-tcg/galactic-battle/dbs-galactic-battle-energy-boost-beerus.html", "gameshaventcg.com/products/energy-boost-beerus-bt1-042"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Beerus and Champa are twin siblings — each presides over one of a paired universe (U7 and U6 respectively). They are among the twelve Gods of Destruction in DBS cosmology, each paired with an angel attendant from the family of the Grand Minister. [Dragon Ball Wiki: Champa, via WebSearch snippet]",
+      "sources": ["dragonball.fandom.com/wiki/Champa", "WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Scheming Champa", "set": "Galactic Battle", "note": "Twin sibling destroyer god (U6 counterpart to Beerus)"},
+    {"name": "Manipulating God Champa", "set": "Galactic Battle", "note": "Second Champa card; U6 destroyer god twin"},
+    {"name": "Whis, Judge of the Gods", "set": "Galactic Battle", "note": "Beerus's angel attendant, canonically paired"},
+    {"name": "Vados // Aide Vados", "set": "Galactic Battle", "note": "Champa's attendant; Whis's elder sister"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

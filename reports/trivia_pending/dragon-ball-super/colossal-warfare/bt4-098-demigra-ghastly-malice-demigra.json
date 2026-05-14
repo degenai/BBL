@@ -1,0 +1,41 @@
+{
+  "card_name": "Demigra // Ghastly Malice Demigra",
+  "game": "Dragon Ball Super",
+  "set": "Colossal Warfare",
+  "collector_number": "BT4-098",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Demigra // Ghastly Malice Demigra' — explicit character name in title. The card is the BT4 Leader for the black Dark Demon Realm Saga archetype. Confirmed Demigra from Dragon Ball Xenoverse per card name (anti-conflation criterion a) and Demon God trait on related secret rare BT4-124.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Demigra is the primary antagonist of Dragon Ball: Xenoverse (2015, Dimps/Bandai Namco). His goal was to escape the Crack of Time — a dimensional prison where he was sealed by Supreme Kai of Time Chronoa for over 75 million years — and destroy and rewrite all of Dragon Ball's history. Distortions caused by Mira and Towa weakened the seal that allowed him to act. [Dragon Ball Wiki: Demigra, via WebSearch]",
+      "sources": ["WebSearch: Dragon Ball Wiki Demigra (Fandom)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Demigra // Ghastly Malice Demigra (BT4-098, Rare) is the double-sided Leader card for the black Dark Demon Realm Saga archetype in BT4. Its front-side [Auto] mills 3 cards when attacking a Leader, rewarding pure-black deck construction by drawing 1 card if all milled cards are black. This rewards the dedicated monoblack Drop Area loading that Dark Over Realm mechanics require. [WebSearch: BigOrbitCards BT4-098 listing; DBZExchange BT4-098]",
+      "sources": ["WebSearch: BigOrbitCards BT4-098", "WebSearch: DBZExchange BT4-098"]
+    },
+    {
+      "category": "design",
+      "text": "Demigra received a Secret Rare escalation in the same set: Beyond Darkness Demigra (BT4-124) — a 40,000 power black Battle Card with the Demon God trait whose attack ability forces the opponent to reveal their hand and combo with up to 4 Battle Cards from it. BT4-124 is among BT4's two Secret Rares, placing Demigra at the top of the set's power-prestige hierarchy alongside Son Goku Jr. [WebSearch: GameStop BT4-124 listing; WebSearch: bleedingcool.com Colossal Warfare Checklist]",
+      "sources": ["WebSearch: GameStop BT4-124", "WebSearch: bleedingcool.com Colossal Warfare Checklist"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Demigra's dark magic can control historically powerful fighters — including Ultimate Gohan and Omega Shenron — but cannot control those who possess godly Ki (Beerus, Super Saiyan God Goku). This ki-immunity design in the source game is reflected in the card game's lore framing of Demigra as an apex threat operating in a separate power register from godly-ki characters. [WebSearch: Dragon Ball Wiki Demigra (Fandom)]",
+      "sources": ["WebSearch: Dragon Ball Wiki Demigra (Fandom)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Beyond Darkness Demigra", "set": "Colossal Warfare", "note": "BT4-124 Secret Rare, same character at 40,000 power Demon God tier"},
+    {"name": "Dark Absorption Mira", "set": "Colossal Warfare", "note": "BT4-110, same Dark Demon Realm Saga archetype, Mira's distortions weakened Demigra's seal"},
+    {"name": "Umbral Invitation Towa", "set": "Colossal Warfare", "note": "BT4-111, same archetype, Towa built Mira and collaborated in time distortions"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

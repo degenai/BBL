@@ -1,0 +1,42 @@
+{
+  "card_name": "Majin Buu Revived",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-028",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Majin Buu Revived'. Vision confirms pink rotund figure, wide grin, antenna/head protrusion, white vest with purple trim — canonical Fat Buu / Innocent Buu design. Named card.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Majin Buu was an ancient being — not created by Bibidi, per Toriyama's later clarification, but awakened by him; Buu has existed 'since time immemorial' in a cycle of destruction and long hibernation. Bibidi sealed him, was killed before releasing him, and it fell to Bibidi's son Babidi to complete the resurrection during the Dragon Ball Z Buu Saga. [Wikipedia: Majin Buu; Dragon Ball Wiki: Bibidi, via WebSearch snippets; Toriyama interview as cited via WebSearch]",
+      "sources": ["Wikipedia: Majin Buu, via WebSearch snippet", "Dragon Ball Wiki: Bibidi, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Babidi's resurrection plan required a massive amount of pure energy. He used fighters under his spell — Yamu and Spopovich — to steal energy at the 25th World Martial Arts Tournament. The resurrection was ultimately triggered by the immense energy released during Vegeta's fight with Goku. [Dragon Ball Wiki: Babidi; TV Tropes: Dragon Ball Z Majin Buu Arc Recap, via WebSearch snippets]",
+      "sources": ["Dragon Ball Wiki: Babidi, via WebSearch snippet", "TV Tropes, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The form depicted here — pink, rotund, with antenna and white vest — is Fat Buu (Innocent Buu), the first and most childlike form after resurrection. Later in the saga Buu expels his evil half, producing the leaner, more powerful Evil Buu, who eventually becomes Super Buu and Kid Buu through further transformations. [Wikipedia: Majin Buu, via WebSearch snippet]",
+      "sources": ["Wikipedia: Majin Buu, via WebSearch snippet"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Hercule's (Mr. Satan's) friendship with Fat Buu is the Buu Saga's central moral pivot: Buu's willingness to suppress destruction is directly tied to his affection for Hercule. When Hercule is shot by an assailant, Buu's resulting rage accelerates the saga's escalation toward Super Buu. The Hercule-Buu relationship is the emotional keystone the card title 'Buu's Assistant' references. [CBR: 'Dragon Ball: The World Protector's Mr. Satan, Explained', via WebSearch snippet]",
+      "sources": ["CBR, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hercule, Buu's Assistant", "set": "Union Force BT2-017", "note": "Hercule is Buu's canonical friendship partner; the card title 'Buu's Assistant' names the relationship"},
+    {"name": "Repeated Force Vegito", "set": "Union Force BT2-012", "note": "Vegito is Buu's canonical Buu-Saga opponent at peak power"},
+    {"name": "Prodigy Fusion Super Saiyan Gotenks", "set": "Union Force BT2-015", "note": "Gotenks was absorbed by Super Buu"},
+    {"name": "Babidi", "set": "various", "note": "The wizard who orchestrated Buu's resurrection"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}
