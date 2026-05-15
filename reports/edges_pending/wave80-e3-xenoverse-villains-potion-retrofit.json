@@ -1,0 +1,35 @@
+{
+  "edge_id": "wave80-e3-xenoverse-villains-potion-rule-retrofit",
+  "shape": "node-edit",
+  "topology": "in-place-retrofit",
+  "category": "potion-rule-retrofit",
+  "target_node": {
+    "type": "character",
+    "path": "cards/_characters/xenoverse-villains.md",
+    "name": "Xenoverse Villains (Time Breakers)",
+    "line_retrofitted": "line 69 (Triple-thesis attribution — labor-corrupted bullet, final sentence)"
+  },
+  "before": "The labor-coded reading is *the franchise's clearest case of an apparatus-of-bio-engineered-weapon-production rendered as character-cohort*.",
+  "after": "Bandai Namco / Dimps canonically authored the Towa-builds-Mira / Mira-consumes-Towa scientist-and-weapon character-design across Xenoverse (2015) and Xenoverse 2 (2016); BBL reads this canonical-event as the bio-engineered-weapon-production-rendered-as-character-cohort curatorial overlay — the canonical-event is Dimps' villain-cohort character-design, the overlay is BBL's apparatus-of-extraction-via-bio-engineered-weapon-manufacture reading on top.",
+  "description": "Potion-rule retrofit, hercule.md + aether-foundation.md precedent pattern. The 'franchise's clearest case' phrasing claimed Bandai/Dimps articulated the BBL apparatus-of-extraction thesis. They did not. They authored the scientist-builds-weapon / weapon-consumes-scientist character-design across the 2015 + 2016 Xenoverse games; BBL reads the apparatus-of-extraction-via-bio-engineered-weapon-manufacture overlay on top of their canonical-event. The retrofit names this distinction explicitly: canonical-event = Bandai Namco / Dimps' villain-cohort character-design; curatorial-overlay = BBL's apparatus-of-extraction reading. Single-cluster-per-wave pacing respected per wave-79 sidecar recommendation (xenoverse-villains.md line 69 was named as the cleanest single-sentence remaining retrofit target). Piccolo-jr.md (3 instances at lines 24 + 42 + 50) remains the largest retrofit surface and is deferred to a dedicated future wave per the wave-79 recommendation.",
+  "citations": [
+    "[[_triple-thesis]] — Potion Rule section",
+    "[Bandai Namco / Dimps — Dragon Ball Xenoverse (2015) primary canonical Time Breakers character-design]",
+    "[Bandai Namco / Dimps — Dragon Ball Xenoverse 2 (2016) primary canonical continuation]",
+    "[Dragon Ball Wiki: Time Breakers / Towa / Mira — canonical scientist-and-weapon character relationships]",
+    "[cards/_characters/hercule.md — wave 78 Potion-rule retrofit precedent pattern]",
+    "[cards/_characters/aether-foundation.md — wave 79 Potion-rule retrofit precedent pattern]",
+    "[reports/edges_pending/wave79-e3-aether-foundation-potion-retrofit.json — explicit wave-80 recommendation for this exact retrofit]"
+  ],
+  "files_modified": [
+    "cards/_characters/xenoverse-villains.md (line 69 labor-corrupted bullet, final sentence retrofitted)"
+  ],
+  "edgelord_mood": "enlightened-corrective",
+  "notes": [
+    "Single-cluster retrofit per the wave 77 audit's single-cluster-per-wave pacing rule. Hercule (wave 78) + Aether Foundation (wave 79) + Xenoverse Villains (this wave) = 3 of the originally-identified 5-line retrofit candidates now done.",
+    "Remaining Potion-rule retrofit queue: piccolo-jr.md (3 instances at lines 24 / 42 / 50) — largest remaining retrofit surface, recommend dedicated wave per wave-79 sidecar's explicit guidance.",
+    "Preserved canonical-evidence claims: Bandai Namco / Dimps authorship attribution; Towa-Mira scientist-and-weapon relationship per Dragon Ball Wiki canon; the Mira-consumes-Towa final transformation; BT4-121 Dark Kamehameha rules-text Leader-lock evidence. All canonical-evidence intact, only the overlay-as-canon overreach softened.",
+    "No new structural-primitive vocabulary introduced. Per the wave-80 discipline brief and triple-thesis Potion-Rule sub-rule 6: pattern noted in prose, not graduated. The retrofit IS the discipline (canonical-event vs curatorial-overlay distinction made visible), not the proposal of new sub-shape names.",
+    "Substrate counter unchanged: 84 nodes pre / 84 nodes post."
+  ]
+}

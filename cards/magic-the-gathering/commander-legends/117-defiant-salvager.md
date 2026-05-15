@@ -53,3 +53,13 @@ A slender, ashen-skinned Aetherborn figure with a sharp angular face and dark ho
 **Iconography:** wreckage, salvage, metallic-swirl
 **Genre cues:** fantasy, dark-fantasy, steampunk-adjacent
 
+## Trivia
+
+- **Set context** — Defiant Salvager originated in Aether Revolt (AER, 2017), the set depicting the Renegade uprising against the Consulate on Kaladesh. The Aetherborn creature type is native to Kaladesh, where they arise spontaneously from aether and have short lifespans, making survival and self-assertion core to their identity. The flavor text's crash survivor line fits AER's backdrop of failed aerial assaults during the revolution. CMR is its third printing; also in Double Masters (2020) and Kaladesh Remastered (2020). `[Scryfall]`
+- **Flavor text** — "I didn't survive that crash just so I could fall to the likes of you." No speaker attributed. The line indexes the Renegade context: someone who has already endured catastrophe and refuses to be finished off by a second threat. `[Scryfall]`
+- **Mechanical reputation** — Sacrificing artifacts or creatures to put +1/+1 counters on the Salvager pairs naturally with Treasure tokens, Clue tokens, and persist/undying creatures. The sorcery-speed restriction limits combat-step surprise but doesn't undercut its role as a Pauper Aristocrats finisher. Legal in Pauper, Pioneer, Modern, Legacy, Vintage, and Commander. `[Scryfall]`
+
+### Related cards
+- Syndicate Trafficker (Kaladesh, KLD) — same sacrifice-for-counters Aetherborn design from the same plane
+- Nantuko Husk (various) — classic Pauper sacrifice-finisher occupying the same strategic role
+- Weaponcraft Enthusiast (Kaladesh, KLD) — Kaladesh Aristocrats token-generator that feeds sacrifice synergies

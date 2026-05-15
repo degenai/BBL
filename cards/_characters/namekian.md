@@ -21,6 +21,7 @@ appears_on:
   - dragon-ball-super/galactic-battle/bt1-045-boost-attack-piccolo
   - dragon-ball-super/world-martial-arts-tournament/tb2-027-begrudging-respect-piccolo
   - dragon-ball-super/world-martial-arts-tournament/tb2-040-speed-attack-piccolo-jr
+  - dragon-ball-super/world-martial-arts-tournament/tb2-046-trusting-relationship-kami
 related_hubs: []
 related_symbols: []
 related_characters: [son-goku, trunks, wrath-of-the-dragon-saga, dark-vassal-trio, universe-6-tournament-cohort, son-gohan]
@@ -89,6 +90,24 @@ The race's specific institutional features for the corpus are:
 
 This is what BBL's bundle copy can lean on without inventing canon: the Namekian race is, in-canon, a designer-coordinated alien species with a two-clan biological-substrate-but-moral-split structural framing, a signature regenerative-and-fusion-mechanic biological repertoire, an Earth-side institutional seat (the Sky Palace) and a homeworld (Planet Namek), and a corpus of eleven cards across two DBSCG sets that together span the full canonical race-roster from elder-clan to warrior-type to demon-clan to Universe-6-fusion-Namekian. Bundle prose that names the Namekians by name and leans on the *Dragon Clan vs Demon Clan moral-substrate split* canonical lore-twist earns lore-aware buyer credibility and lets Toriyama's own 1976-onward race-design work do the thesis work without naming the thesis.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[bt4-052-gift-of-power-guru]]
+- [[bt4-053-nail-the-namekian-ace]]
+- [[bt4-054-kami-the-watcher]]
+- [[bt4-056-popo-guardian-s-aide]]
+- [[bt4-057-namekian-duo-saonel]]
+- [[bt4-064-dark-vassal-tambourine]]
+- [[bt4-065-dark-vassal-cymbal]]
+- [[bt4-066-dark-vassal-drum]]
+- [[bt4-068-special-beam-cannon]]
+- [[bt4-070-sacrifice]]
+- [[bt1-045-boost-attack-piccolo]]
+- [[tb2-027-begrudging-respect-piccolo]]
+- [[tb2-040-speed-attack-piccolo-jr]]
+- [[tb2-046-trusting-relationship-kami]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Namekian** (`https://dragonball.fandom.com/wiki/Namekian`) — primary race page; canonical reference for the Dragon Clan / Demon Clan split, the regenerative biology, the spat-egg asexual reproduction, the fusion mechanic, and the full canonical race-roster across forty years of franchise output.

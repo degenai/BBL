@@ -59,6 +59,16 @@ Babidi's specific institutional features for the corpus are:
 
 This is what BBL's bundle copy can lean on without inventing canon: Babidi is the alien sorcerer foreman of a multi-generational extraction operation that turned a public sporting event into its harvest site, weaponized pre-existing corruption through Manipulation Sorcery, ran a six-floor vertical hierarchy of disposable enforcers, and was himself eliminated by the productive asset (Buu) the moment his coordinating function became obsolete. Six corpus cards anchor this arc in a single set. A future Babidi Saga Discrete Lair earns its lore-aware-buyer credibility without naming the labor-coercion thesis.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[tb2-013-dark-duo-babidi]]
+- [[tb2-014-dark-duo-dabura]]
+- [[tb2-015-tainted-power-spopovich-yamu]]
+- [[tb2-016-pui-pui-magician-s-lackey]]
+- [[tb2-017-razor-s-edge-yakon]]
+- [[tb2-018-babidi-s-spaceship]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Babidi** (`https://dragonball.fandom.com/wiki/Babidi`) — primary character page; canonical reference for the Bibidi inheritance, the Manipulation Sorcery (Mahōfūsatsu) magic system, the spaceship-dungeon structure, and the Buu-kills-Babidi resolution beat.

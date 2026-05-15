@@ -38,6 +38,12 @@ A notable Wizards-canonical pattern: Angrath's signature spell-rendering is the 
 
 For BBL bundle copy that anchors on Angrath, the chains-iconography is the through-line. The slaver-captain rebranded his chains as fire-magic; the WAR cards retain the visual identifier even after the spark returns. The character is rare in MTG canon for being a planeswalker who is *also* canonically a slaver-captain — his RIX backstory makes him an unambiguous antagonist in the moral register Wizards usually softens for sympathetic-protagonist walkers. The labor / extraction / coercion thesis that the [[orzhov-syndicate]] node carries on Ravnica has a personal-scale parallel here: one captain, one crew, one set of chains — the apparatus of extraction rendered as a single character.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[227-angrath-captain-of-chaos]]
+- [[185-angrath-s-rampage]]
 ## Canonical sources
 
 - **MTG Wiki — Angrath** (`https://mtg.fandom.com/wiki/Angrath`) — primary character page; biography from unrevealed-home-plane through Ixalan-stranded-captain through WAR Ravnica arrival; the Devil's Chains slaver-vessel, the children-back-home motivation, the chains-as-magic identifier.

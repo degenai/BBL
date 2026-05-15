@@ -24,6 +24,7 @@ needs_manual_review: true
 manual_review_reason: Set 'McDonald's Promos 2022' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: Although it possesses a violent temperament, it won't put up with bullying. It uses the leaf in its mouth to sense the movements of its enemies.
 oracle_text: [Ability: Benevolent Boss] If this Pokémon is your Active Pokémon, it gets +20 HP for each of your Benched Pokémon.\nCrazy Knuckle (FightingFightingColorless) 80+: If this Pokémon is affected by a Special Condition, this attack does 40 more damage.
+characters: ["pancham-line"]
 ---
 
 # Pangoro (McDonald's Promos 2022)

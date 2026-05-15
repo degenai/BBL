@@ -43,6 +43,12 @@ A notable Wizards-canonical pattern: the "Ral's <Spell>" cycle — Ral's Dispers
 
 The BBL graph treats the attribution cycle the same way the Tamiyo node treats `Tamiyo Meets the Story Circle`: cards in the cycle that depict Ral edge here directly (via `characters:` frontmatter); cards in the cycle that name him in flavor without depicting him (a hypothetical Ral-attributed spell with art of the spell-effect only, no Ral on the canvas) edge here via the canonical-name attribution test, not the depicted-figure test. Both standards apply.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[132-ral-and-the-implicit-maze]]
+- [[212-ral-s-outburst]]
 ## Canonical sources
 
 - **MTG Wiki — Ral Zarek** (`https://mtg.fandom.com/wiki/Ral_Zarek`) — primary character page; biography from Ravnica origins through the post-WAR guildmaster era. Documents the Niv-Mizzet apprenticeship, the maze-run with Melek's death, the WAR defection from Bolas, the resurrection ritual, and the planeswalker-deck appearances.

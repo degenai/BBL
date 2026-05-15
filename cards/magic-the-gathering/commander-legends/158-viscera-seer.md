@@ -52,3 +52,13 @@ A lean, hairless figure in dark robes hunches forward in near-total darkness, fa
 **Iconography:** divination, scrying, entrails-reading
 **Genre cues:** fantasy, gothic, horror
 
+## Trivia
+
+- **Design** — Viscera Seer originated in Magic 2011 (M11, 2010) and has been reprinted extensively: Commander 2013, The List, a Magic Online Promo (2020), Commander Legends in two versions (no. 158 and etched-foil no. 658), The Lost Caverns of Ixalan Commander (2023), Tarkir: Dragonstorm Commander (2025), and Secrets of Strixhaven Commander (2026). The depth of reprint history reflects sustained demand across Commander and Pauper. `[Scryfall]`
+- **Mechanical reputation** — A one-mana creature with a free (no mana cost) sacrifice activation that converts each sacrifice into Scry 1 is among the most efficient sacrifice outlets at common. Viscera Seer appears in over 292 recorded combo lines, including the Mikaeus, the Unhallowed + persist creature loop found in tens of thousands of EDH decks. Legal in Modern, Legacy, Vintage, Pauper, Commander, and Paupercommander. `[Scryfall; WebSearch: MTG Decks combo count via search snippet]`
+- **Flavor text** — "In matters of life and death, he trusts his gut." No speaker attributed. The pun — viscera-reading divination as 'trusting one's gut' — is the card's entire personality in seven words. `[Scryfall]`
+
+### Related cards
+- Carrion Feeder (various) — free one-mana sacrifice outlet; parallel role in Pauper Aristocrats
+- Mikaeus, the Unhallowed (Dark Ascension, DKA) — two-card infinite-combo enabler with Viscera Seer and a persist creature
+- Falkenrath Torturer (Dark Ascension, DKA) — Pauper sacrifice-outlet cluster alongside Viscera Seer

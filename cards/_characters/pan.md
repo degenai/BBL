@@ -50,6 +50,14 @@ The BBL-relevant register is that **Pan is the workforce-lineage that survived t
 
 This is what BBL's bundle copy can lean on without inventing canon: Pan is the canonical fourth-generation Saiyan-blood descendant whose existence is the in-canon evidence of the Saiyan-survivor-diaspora's genetic continuity through the Earthling-female reproductive line, and whose canonical inability to access the prophecied Super Saiyan transformation is the in-canon evidence that imperial Frieza's preemptive genocide of the Saiyan workforce was structurally effective in diluting the prophecied power-escalation threat across the surviving genetic line. The *workforce-lineage-survives-but-the-prophecied-threat-diminishes* apparatus-of-extraction reading is the load-bearing thesis here. The [[labor]] hub attaches at the imperial-mercenary-workforce-survivor-lineage axis; the [[saiyan]] race-node attaches at the four-generation-Saiyan-genetic-continuity axis; the [[son-goku]] and [[trunks]] solo-character nodes attach at the canonical GT traveling-trio party-member axis. Bundle copy that wants the canonical Saiyan-survivor-lineage-continues-through-the-female-Earthling-line thesis indexes this node directly.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[bt3-009-pan]]
+- [[sd2-04-rushing-warrior-pan]]
+- [[bt4-009-power-of-friendship-pan]]
+- [[tb2-024-awakening-talent-pan]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Pan** (`https://dragonball.fandom.com/wiki/Pan`) — primary character page; canonical reference for the Gohan-Videl parentage, the Goku-Chi-Chi / Mr.-Satan-Miguel grandparent lineage, the canonical GT traveling-trio party-member role, the canonical Super-Saiyan-cannot-transform design rationale, the Universe Survival Saga supporting-cast presence, and the Super Hero film kidnap-and-rescue arc.

@@ -22,6 +22,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/7/0/708e1979-902
 art_match_confidence: high
 needs_manual_review: false
 artist: Volkan Baǵa
+characters: [zendikari-resistance]
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/149-ondu-champion--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/0/708e1979-902b-410a-ae46-3fd1d2acc31d.jpg?1562921519
 flavor_text: \"Put a minotaur at the head of an army and suddenly all the soldiers act like they have horns.\"\n—Gideon Jura

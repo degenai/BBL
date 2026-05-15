@@ -10,14 +10,14 @@ social: []
 confidence: confirmed
 cross_medium: false
 appears_on:
+  - pokemon/ascended-heroes/050-217-n-s-vanillish
+  - pokemon/chilling-reign/149-198-peonia
   - pokemon/crimson-invasion/33-111-alolan-graveler
-  - pokemon/rebel-clash/037-192-galarian-mr-mime
   - pokemon/darkness-ablaze/083-189-polteageist
+  - pokemon/rebel-clash/037-192-galarian-mr-mime
   - pokemon/vivid-voltage/038-185-chewtle
   - pokemon/vivid-voltage/148-185-beauty
-  - pokemon/vivid-voltage/148-185-beauty--reverse-holofoil
-  - pokemon/chilling-reign/149-198-peonia
-related_hubs: []
+  - pokemon/vivid-voltage/148-185-beauty--reverse-holofoilrelated_hubs: []
 notes: |
   Stylized lowercase rendering of the credit is intentional and consistent across
   PokemonTCG.io and printed-card credits — the artist publishes as "kirisAki" with
@@ -76,6 +76,18 @@ kirisAki's portfolio in corpus does not (yet) anchor a thesis-tier hub the way S
 - `[PokemonTCG.io API per-card pages]` — primary source for the seven corpus-print artist credits and the consistent `kirisAki` stamping across them.
 - `cards/pokemon/vivid-voltage/148-185-beauty.md` — in-corpus trivia entry that captured the original WebSearch evidence and is the primary anchor for this node's biographical data.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[050-217-n-s-vanillish]]
+- [[149-198-peonia]]
+- [[33-111-alolan-graveler]]
+- [[083-189-polteageist]]
+- [[037-192-galarian-mr-mime]]
+- [[038-185-chewtle]]
+- [[148-185-beauty]]
+- [[148-185-beauty--reverse-holofoilrelated_hubs: []]]
 ## See also
 
 - [[sanosuke-sakuma]] — sibling Pokemon-side artist node; structural precedent for this node. Sakuma's portfolio extends across TCG illustration AND in-game NPC character design (cross-medium); kirisAki's does not. The structural pattern (Pokemon-side single-medium illustrator with corpus-volume threshold cleared) is the same; the cross-medium thesis-bridge is absent here.

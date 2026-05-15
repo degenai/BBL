@@ -83,6 +83,17 @@ The cycle interacts mechanically and thematically with adjacent Duskmourn design
 - **[[valgavoth]]** — the demon whose plane this cycle is a creature-side embodiment of. Wizards' Duskmourn Vision Design Handoff explicitly frames the Fear-of cycle as the mechanical expression of the set's "phobias as antagonists" thesis, with Valgavoth at the character side and the Fear-of cycle at the creature side of the same horror cosmology.
 - **[[manifest-dread]]** — sibling DSK symbol-layer node; the manifest dread keyword's "look at top two, manifest one, mill the other" loop pairs with the Fear-of cycle's Delirium synergies (Fear of Burning Alive's Delirium ride-along trigger benefits from manifest dread feeding the graveyard). The mechanical-thematic bridge between the two nodes is the set's graveyard-matters subtheme, which the cycle members exploit and which manifest dread enables.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[9-fear-of-abduction]]
+- [[55-fear-of-failed-tests]]
+- [[56-fear-of-falling]]
+- [[134-fear-of-being-hunted]]
+- [[135-fear-of-burning-alive]]
+- [[177-fear-of-exposure]]
+- [[214-fear-of-infinity]]
 ## Canonical sources
 
 - **MTG Wiki — Duskmourn: House of Horror** — set page; Cycles section documents the "Fear of..." cycle alongside the set's other cycles (Rooms, Survival creatures, manifest dread enablers).

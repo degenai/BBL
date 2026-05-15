@@ -22,7 +22,7 @@ appears_on:
   - magic-the-gathering/oath-of-the-gatewatch/24-kor-sky-climber
 related_hubs: [labor, rebellion, stewardship]
 related_symbols: []
-related_characters: [eldrazi]
+related_characters: [eldrazi, zendikari-resistance]
 ip_resolution_for: kor
 ---
 
@@ -79,6 +79,22 @@ The kor occupy all three foundational BBL hub axes simultaneously — the corpus
 
 The triple-attribution composes structurally with the [[eldrazi]] sibling node's apparatus-of-consumption thesis at the adversary-coupling axis. Where the Eldrazi anchor the **apparatus-of-extraction-at-cosmological-scale** as the inverse of all three hub legs (Eldrazi reduce labor to drone-caste, foreclose rebellion via mana-identity-stripping, dissolve stewardship via consumption-of-plane), the kor anchor the **mortal-resistance-organizing-all-three-verbs-simultaneously** as the canonical answering register. The two nodes together form the corpus's clearest racial-scale rendering of the produce-refuse-tend hub triangulation versus the apparatus-of-extraction adversary pole.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[34-kor-bladewhirl]]
+- [[35-kor-castigator]]
+- [[36-kor-entanglers]]
+- [[33-kitesail-scout]]
+- [[24-expedition-envoy]]
+- [[20-cliffside-lookout]]
+- [[47-shadow-glider]]
+- [[49-smite-the-monstrous]]
+- [[52-tandem-tactics]]
+- [[53-unified-front]]
+- [[14-farsight-adept--foil]]
+- [[24-kor-sky-climber]]
 ## Canonical sources
 
 - **MTG Wiki — Kor** (`https://mtg.fandom.com/wiki/Kor`) — primary race page; canonical reference for the kor's biology (slender, pale, white-haired humanoids), culture (nomadic, climbing rigs, ritualistic warpaint), and Zendikar-block narrative arcs.

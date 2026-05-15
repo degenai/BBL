@@ -30,6 +30,13 @@ Card art and flavor text that depicts the Endriders as a faction: their members 
 - **Fuel the Flames** (DFT-126, uncommon, Nicholas Gregory art) — Endrider attacker on a vehicle deploying a flame-thrower against cat-folk targets. Flavor text quotes a named Endrider: *"Our world died, but we survived. Funny how it's the opposite for you." — Rido, Endrider.* The line is the faction's mission statement compressed into a sneer.
 - **Bloodfell Caves** (DFT-251, land, Ron Spencer art) — the Endrider racetrack canyon at sunset; vehicles streaking down a desert road into the burning horizon. Flavor text: *"To the Endriders, racing is worship. Their prayers rise on the howls of straining engines. Explosions punctuate their chorus of shouts, forming a hymn of glory to the open road and all roads to come."* The land card carries the faction's theology.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[125-endrider-spikespitter]]
+- [[126-fuel-the-flames]]
+- [[251-bloodfell-caves]]
 ## Canonical sources
 
 - **MTG Wiki — Endriders** — primary character/faction page; source for "nomadic apocalypse punk warriors" framing and the team's roster description.

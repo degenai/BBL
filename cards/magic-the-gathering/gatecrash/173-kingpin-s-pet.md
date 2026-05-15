@@ -22,6 +22,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/4/3465cf63-4f1
 art_match_confidence: high
 needs_manual_review: false
 artist: Mark Zug
+characters: [orzhov-syndicate]
 art_crop_image: cards/_images/magic-the-gathering/gatecrash/173-kingpin-s-pet--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/4/3465cf63-4f10-4b53-9703-69746364dbc7.jpg?1561822414
 flavor_text: \"Debt and death sound so similar, and thrulls are so hard of hearing. Mistakes are inevitable.\"\n—Milana, Orzhov prelate
@@ -54,6 +55,10 @@ A compact, grotesque creature with large bat-like wings, a hunched wrinkled body
 **Creatures:** thrull, winged creature
 **Iconography:** chain, collar
 **Genre cues:** fantasy
+
+## Connections
+
+- [[orzhov-syndicate]] — Orzhov Syndicate roster card, thrull-from-debtor extraction-apparatus anchor. The card is a canonical Orzhov-watermark Gatecrash common whose flavor speaker is *Milana, Orzhov prelate* — the same named guild-prelate whose voice anchors the Orzhov Locket card (RNA-236), making this print and the Locket a paired Milana-voiced syndicate institutional-rhetoric cohort across two Ravnica-block sets. The thrull-as-flying-mount visual register (gold chain collar, spiked foot-rings) and the Extort mechanic together render the canonical *debt does not dissolve at death* thrull-fashioner institutional logic that the syndicate's apparatus-of-extraction is built on. `[Scryfall: flavor_text + watermark:orzhov]` `[MTG Wiki: Orzhov Syndicate — Thrull section]`
 
 ## Trivia
 

@@ -37,6 +37,12 @@ The Acerola character also operates as the canonical institutional cross-referen
 
 The designer-confirmed **royal-family lineage** (Acerola as the last living member of an Alolan royal family per Shusuke Motomiya's commentary) is the character's deeper biographical layer. The armband she wears across all her appearances is a royal heirloom from the distant past, a designer-confirmed detail that places Acerola in the franchise's narrow cohort of canonical-royalty-without-active-monarchy characters (Lillie's pre-Aether-Foundation aristocratic background is the closest contemporary parallel; Acerola's case is the more institutional one — she IS the last of an Alolan royal lineage rather than affiliated with one). The royal-heirloom armband visual element is *not* prominent in either current corpus print (BUS-112 frames her in the soft-purple-dress portrait register; M-EVO-113 in the dark-impish-clothing action register), but it is canonically present in both, and bundle prose can lean on the royal-lineage canonical lore without overreaching past designer commentary.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[112-147-acerola]]
+- [[113-132-acerola-s-mischief]]
 ## Canonical sources
 
 - **Bulbapedia — Acerola page** — primary character page; canonical reference for her Ghost-type specialty, Trial Captain role at the Thrifty Megamart, Elite Four promotion, Mimikyu signature partner, Aether House caretaker role at Ula'ula Island, royal-family lineage, and ability to communicate with Ghost-type Pokemon (alongside Phoebe of the Hoenn Elite Four as the only two main-series trainers with this canonical trait).

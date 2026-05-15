@@ -21,6 +21,14 @@ appears_on:
   - dragon-ball-super/world-martial-arts-tournament/tb2-036-trading-blows-son-goku
   - dragon-ball-super/world-martial-arts-tournament/tb2-052-future-martial-artist-son-goku
   - dragon-ball-super/union-force/bt2-098-father-son-kamehameha
+  - dragon-ball-super/world-martial-arts-tournament/tb2-002-supreme-showdown-son-goku
+  - dragon-ball-super/world-martial-arts-tournament/tb2-020-test-of-strength-son-goku
+  - dragon-ball-super/world-martial-arts-tournament/tb2-033-shocking-latent-ability
+  - dragon-ball-super/world-martial-arts-tournament/tb2-034-son-goku-stopping-power-son-goku
+  - dragon-ball-super/world-martial-arts-tournament/tb2-035-fateful-reunion-son-goku
+  - dragon-ball-super/world-martial-arts-tournament/tb2-049-feet-kamehameha
+  - dragon-ball-super/world-martial-arts-tournament/tb2-051-unyielding-victory-son-goku
+  - dragon-ball-super/world-martial-arts-tournament/tb2-069-son-goku-uub-seeds-of-the-future
 related_hubs: []
 related_symbols: []
 related_characters: [trunks, baby-dbgt, namekian, bardock, son-gohan]
@@ -73,6 +81,31 @@ The character's specific institutional features across the corpus are:
 
 This is what BBL's bundle copy can lean on without inventing canon: Goku is, canonically across Toriyama and Toei and Bandai, the franchise's most-instantiated continuous-protagonist character, present as four named incarnations in ten Dragon Ball Super Card Game prints in our enriched corpus across five sets (Cross Worlds BT3 + Colossal Warfare BT4 + World Martial Arts Tournament TB2 + Mythic Booster MB-01 + Magnificent Collection BE08 promo). A future Goku-themed Discrete Lair could anchor on the multi-incarnation framing without reaching past canon: the same canonical character rendered into four narrative-positions across forty years of franchise output, with the BBL corpus holding cards across all four.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[bt3-006-pint-sized-warrior-son-goku]]
+- [[bt3-007-shocking-future-son-goku]]
+- [[bt3-058-pressure-assault-super-saiyan-son-goku]]
+- [[bt4-005-blazing-spirit-son-goku]]
+- [[bt4-026-sneak-attack-son-goku]]
+- [[bt4-077-indomitable-dynasty-ss-son-goku]]
+- [[bt4-079-unbroken-dynasty-son-goku]]
+- [[bt4-080-deadly-golden-great-ape-son-goku]]
+- [[bt4-078-dependable-dynasty-son-goku]]
+- [[sd2-03-unbreakable-super-saiyan-son-goku]]
+- [[tb2-036-trading-blows-son-goku]]
+- [[tb2-052-future-martial-artist-son-goku]]
+- [[bt2-098-father-son-kamehameha]]
+- [[tb2-002-supreme-showdown-son-goku]]
+- [[tb2-020-test-of-strength-son-goku]]
+- [[tb2-033-shocking-latent-ability]]
+- [[tb2-034-son-goku-stopping-power-son-goku]]
+- [[tb2-035-fateful-reunion-son-goku]]
+- [[tb2-049-feet-kamehameha]]
+- [[tb2-051-unyielding-victory-son-goku]]
+- [[tb2-069-son-goku-uub-seeds-of-the-future]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Goku** (`https://dragonball.fandom.com/wiki/Goku`) — primary character page; canonical reference for the full multi-series multi-incarnation framing, the Saiyan-lineage backstory, the Turtle School gi origin, the Kamehameha origin, and the Goku's Lineage family-tree relations.

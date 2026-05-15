@@ -54,3 +54,13 @@ A massive figure with grey skin, visible tusks, and a muscular frame dominates t
 **Iconography:** skull, chains, fire
 **Genre cues:** fantasy, dark circus
 
+## Trivia
+
+- **Flavor text** — "That one has a bright future — perfect instincts for the rhythm of mayhem." — Judith `[Scryfall]`. The speaker is Judith, the Scourge Diva (RNA-185), the Rakdos guild's de facto speaker. Judith appears at street shows as a singer and performance artist, arriving during the final act when performances shift into pain. This line places her as a talent-spotter watching the Roustabout work `[MTG Wiki Fandom: Judith via WebSearch snippet]`.
+- **Set lore** — Typed as Ogre Warrior. The Rakdos Cult's public performances are a protected right under the Guildpact: if an audience gathers voluntarily, the performance is sanctioned. The Roustabout's blocked-creature trigger (1 damage to the player being attacked) mechanically simulates the Rakdos doctrine that no act should go unbloodied `[Scryfall; magic.wizards.com: Ravnica Allegiance Mechanics]`.
+- **Mechanical** — Pauper-legal common, EDHREC rank 25,275. Its niche is aggressive builds where chip damage enables the RNA Spectacle keyword on follow-up spells. Community discussions note it as a design-model enabler for Spectacle strategies in RNA Limited `[Scryfall]`.
+
+### Related cards
+- Judith, the Scourge Diva (RNA) — the flavor-text speaker; legendary Rakdos commander who buffs non-token creatures and deals damage on death
+- Spear Spewer (RNA) — RNA Rakdos common; Spectacle enabler partner in aggressive RNA Limited builds
+- Carnival Hellsteed (Return to Ravnica) — Rakdos mounted performer; shares circus-performance register

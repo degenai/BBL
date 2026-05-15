@@ -11,7 +11,10 @@ appears_on:
   - magic-the-gathering/battle-for-zendikar/30-gideon-s-reproach
   - magic-the-gathering/battle-for-zendikar/33-kitesail-scout
   - magic-the-gathering/battle-for-zendikar/53-unified-front
-related_hubs: []
+  - magic-the-gathering/commander-legends/241-lys-alana-bowmaster
+  - magic-the-gathering/commander-streets-of-new-capenna/228-nadir-kraken
+  - magic-the-gathering/oath-of-the-gatewatch/35-spawnbinder-mage
+  - magic-the-gathering/throne-of-eldraine/134-raging-redcaprelated_hubs: []
 notes: |
   Magic: The Gathering illustrator. Three BFZ credits in corpus (wave 40):
   Gideon's Reproach (BFZ-30, suspected-Gideon-Jura depiction with golden
@@ -68,6 +71,17 @@ Murayama Scott's three credits open one direct bundle-anchor frame:
 - `cards/magic-the-gathering/battle-for-zendikar/33-kitesail-scout.md` — in-corpus anchor; one of the canonical Zendikar-canyon-at-sunset commons.
 - `cards/magic-the-gathering/battle-for-zendikar/53-unified-front.md` — in-corpus anchor; the kor-coordinated-militia Converge sorcery.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[30-gideon-s-reproach]]
+- [[33-kitesail-scout]]
+- [[53-unified-front]]
+- [[241-lys-alana-bowmaster]]
+- [[228-nadir-kraken]]
+- [[35-spawnbinder-mage]]
+- [[134-raging-redcaprelated_hubs: []]]
 ## See also
 
 - [[kor]] — character node; Kitesail Scout and Unified Front both anchor at the kor faction. The Murayama Scott artist-node and the Kor character-node share two corpus cards as the load-bearing edge between the artist-layer and character-layer dimensions of those prints.

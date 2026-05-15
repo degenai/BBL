@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["greenhouse", "garden", "ruins", "decay", "abandoned", "gothic", "interior", "split-scene", "before-and-after", "plants", "overgrown", "melancholy"]
 tags_filter: ["none", "wide", "narrative", "no-face", "green-magic", "enchantment-room", "indoor", "scene-mode"]
+symbols: ["rooms"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/181-greenhouse-rickety-gazebo.png
 average_cost_paid: 0
 market_price: 0.25

@@ -12,6 +12,11 @@ notes: |
   same period credit her as "Jenn Ravenna Tran" or "Jenn Ravenna." Same artist;
   Scryfall's stored credit lags the printed-card credit. Treat all four name
   forms as the same person.
+appears_on:
+  - magic-the-gathering/mystery-booster-cards/90-the-eldest-reborn
+  - magic-the-gathering/throne-of-eldraine/114-blow-your-house-down
+  - magic-the-gathering/throne-of-eldraine/222-heraldic-banner
+  - magic-the-gathering/throne-of-eldraine/313-thornwood-falls
 ---
 
 # Jenn Ravenna Tran
@@ -21,6 +26,15 @@ Illustrator with multiple Magic: The Gathering credits. Same person across all l
 ## Cards in our corpus (alias breakdown)
 
 Use `python -c "..."` with the resolver to surface cards stamped under any alias. Initial finding: The Eldest Reborn (PLST #90) is stamped as "Ravenna Tran" in frontmatter; the printed card itself credits "Jenn Ravenna Tran."
+
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[90-the-eldest-reborn]]
+- [[114-blow-your-house-down]]
+- [[222-heraldic-banner]]
+- [[313-thornwood-falls]]
 
 ## See also
 

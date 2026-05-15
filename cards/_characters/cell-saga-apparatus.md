@@ -45,6 +45,13 @@ The trivium's most BBL-relevant property is that it visualizes the canonical **a
 
 **Canonical-vs-projected distinction (Potion-rule guard).** What Toriyama canonically wrote across the Android-and-Cell Saga is **villain-escalation as threat-spectacle**: Dr. Gero builds androids; his supercomputer continues after his death; Cell achieves Perfect form and spawns Cell Jrs. via mitosis. Those are canonical-narrative facts. The **apparatus-of-extraction's progressive autonomy from human administration** reading — Tier 1 requires the engineer alive; Tier 2 requires only the engineer's posthumous infrastructure; Tier 3 requires neither — is *BBL's curatorial overlay on top of canonical villain-escalation*. The overlay is bundle-copy-grade legitimate (it surfaces a real structural progression in the canonical events) but it is NOT Toriyama's stated thesis. Bundle copy that names the escalation can lean on the *engineer → product → mass-product* progression as a paraphrase of canonical events; copy that claims Toriyama wrote a critique of mass-warrior-production apparatus would be over-projection. Keep the lens visible. Per the Potion-rule (see [[_triple-thesis]] anti-pattern guard): the canon is what the canon does; the curatorial reading is what we add.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[bt3-067-dr-gero-evil-s-inventor]]
+- [[bt3-070-dawn-of-terror-android-13-2018]]
+- [[bt2-087-uncountable-many-cell-jr]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Dr. Gero** (`https://dragonball.fandom.com/wiki/Dr._Gero`) — primary character page for the engineer tier; canonical reference for the Red Ribbon Army chief-scientist role, the Android program (13-20) design, the Cell-assembly framework, the insect-spy-drone surveillance infrastructure, the brain-transplant-into-Android-20 self-conversion, and the underground supercomputer posthumous-continuation mechanism.

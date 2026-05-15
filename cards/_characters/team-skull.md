@@ -43,6 +43,12 @@ The Skull apparatus's specific institutional features are:
 
 This is what BBL's bundle copy can lean on without inventing canon: Team Skull is, in-canon, a designer-confirmed failed-aspiration cohort dressed in hip-hop register, occupying an abandoned wealthy enclave, led by a failure-of-the-Grand-Trial Boss and a caretaker Admin, and ultimately revealed as junior partners to the actual apex villain. Bundle prose that names the Skulls by name earns lore-aware buyer credibility and lets Game Freak's own designer-confirmed reject-the-League framing do the thesis work — Skull is the Pokemon League's *waste product*, narratively positioned as the gang of those whose competitive trainer careers ended at a Kahuna's Grand Trial.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[120-147-plumeria]]
+- [[193-236-guzma-hala]]
 ## Canonical sources
 
 - **Bulbapedia — Team Skull** (`https://bulbapedia.bulbagarden.net/wiki/Team_Skull`) — primary institutional page; canonical reference for the failed-Island-Challenge membership framing, the Po Town occupation, the hip-hop-coded uniform aesthetic, the junior-partner-to-Aether-Foundation post-game reveal, the gang's rank structure (Boss / Admin / Grunts), and the Sun-and-Moon canonical-story arc.

@@ -53,3 +53,13 @@ A gaunt zombie bird stands on a thin, twisted branch in the foreground, its body
 **Iconography:** bones, decay, carrion
 **Genre cues:** fantasy, gothic-horror, dark-fantasy
 
+## Trivia
+
+- **Set context** — Crow of Dark Tidings originated in Shadows over Innistrad (SOI, 2016), the set that returned to Innistrad after the plane's protective wards collapsed and the dead walked unchecked. The Zombie Bird creature type is native to SOI's pervasive undead corruption. The CMR copy is its fifth reprint, with appearances also in Game Night 2019, Jumpstart (2020), Jumpstart 2022 (2022), Shadows over Innistrad Remastered (2023), and Foundations (2024) — the Foundations reprint makes it Standard-legal as of late 2024. `[Scryfall]`
+- **Flavor text** — "Well, this can't be a good sign." — Old Rutstein. Old Rutstein is an Innistrad human from Kessig who trades in contraband including human blood and body parts. The dry understatement from a man professionally accustomed to the macabre reads as dark comedy: even a contraband dealer finds a zombie bird ominous. `[Scryfall; WebSearch: Rutstein MTG Wiki via search snippet]`
+- **Mechanical reputation** — Mill-on-ETB and mill-on-death gives the Crow two triggers in a single sacrifice-and-reanimate loop. It self-enables graveyard strategies and pairs with blink effects to mill repeatedly. A budget graveyard-filler in Pauper dredge lists. Legal in Pauper, Standard (via Foundations), Pioneer, Modern, Legacy, Vintage, and Commander. `[Scryfall]`
+
+### Related cards
+- Old Rutstein (Innistrad: Crimson Vow, VOW-244) — flavor text speaker; appears as a legendary creature in VOW
+- Crow of Dark Tidings (Shadows over Innistrad, SOI-105) — original printing contextualizing the Innistrad zombie-plague setting
+- Raven's Crime (Lorwyn) — black Innistrad-adjacent discard spell with crow/raven aesthetic cluster

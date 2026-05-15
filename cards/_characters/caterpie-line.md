@@ -39,6 +39,13 @@ The line is also the corpus's strongest **fast-evolution-line precedent** on the
 
 For BBL bundle work, the line offers three strong narrative threads: a **fast-metamorphosis-lifecycle-rendered-as-evolution** thread anchored on the species' Pokedex canon (the Caterpie -> Metapod -> Butterfree level-7-to-level-10 evolution window as the franchise's clearest one-to-one biology-to-mechanic mapping), a **waiting-to-evolve-passivity** thread anchored specifically on the Metapod mid-stage (the Harden-and-wait canonical stillness as Metapod's signature mechanical-and-flavor identity, with the Rebel Clash Metapod RBC-002 print's spare composition rendering the species' passivity as visual register), and a **Base-Set-reprint-vs-modern-painted-atmosphere** thread anchored on the corpus's two Caterpie prints (Ken Sugimori's 2016 Evolutions flat-style reprint of the 1998 Base Set art vs Uta's 2020 Rebel Clash painted-atmosphere nighttime-forest treatment, a designer-coordinated within-corpus comparison of the franchise's pre-digital and post-digital illustration eras). The within-Rebel-Clash 001+002 adjacent-collector-number pair is already a designer-coordinated cohesion stack at base-and-mid-stage, structurally parallel to the within-Chilling-Reign Mareep 047 + Flaaffy 048 adjacent-collector-number pair from the Mareep line cohort (which is the corpus's other within-set adjacent-collector-number evolution-line cohesion stack). A future Butterfree print would close the triptych.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[001-192-caterpie]]
+- [[002-192-metapod]]
+- [[3-108-caterpie]]
 ## Canonical sources
 
 - **Bulbapedia — Caterpie (Pokemon), Metapod (Pokemon), Butterfree (Pokemon)** — primary per-species pages; canonical reference for the line's evolution conditions (level 7, level 10), the Bug typing retained across all three stages (with Flying added at Butterfree), the antenna-stench defensive mechanism and the Harden waiting-to-evolve passivity flavor canon, and the species' competitive presence (Run Away / Shed Skin / Compound Eyes abilities across the three stages, Gigantamax Butterfree in Generation VIII).

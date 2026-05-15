@@ -22,6 +22,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/5/6/5677bd49-69e
 art_match_confidence: high
 needs_manual_review: false
 artist: Dan Murayama Scott
+characters: [zendikari-resistance]
 art_crop_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/35-spawnbinder-mage--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/6/5677bd49-69eb-41dc-8e64-2df3b7f5c45f.jpg?1562912617
 flavor_text: \"Follow me. Step lightly. And resist the urge to kick them.\"

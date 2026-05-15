@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["namekian"]
 tags_hub: ["guardian", "elder", "mentor", "stewardship", "alien", "green-skin", "robed-figure", "wisdom", "trust", "namekian"]
 tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "anime-style"]
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-046-trusting-relationship-kami.png

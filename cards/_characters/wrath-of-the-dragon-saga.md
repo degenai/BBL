@@ -58,6 +58,17 @@ The saga's specific institutional features for the corpus are:
 
 This is what BBL's bundle copy can lean on without inventing canon: the Hirudegarn Saga is Bandai's tribute roster for the last original-run DBZ theatrical film, deployed in 2018 as a designer-coordinated seven-card cycle across the monster-bearer-villain axes, anchored to Trunks as Leader via the film's canonical sword-inheritance retcon. The 7 corpus cards span all three structural axes and total **7 copies** of inventory at present (one of each); the cluster is suitable for a Discrete Lair commission anchored on the *complete-movie-arc representation* framing per `[[bbl-museum-curation-framing]]` and `[[bbl-narrative-first-lairs]]`.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[bt4-023-trunks-iron-vow-trunks]]
+- [[bt4-037-impenetrable-defense-hirudegarn]]
+- [[bt4-038-hirudegarn-the-wanderer]]
+- [[bt4-039-oath-s-power-tapion]]
+- [[bt4-040-hidden-darkness-tapion]]
+- [[bt4-041-hidden-darkness-minotia]]
+- [[bt4-042-hoi-emissary-of-flame]]
 ## Canonical sources
 
 - **Wikipedia — Dragon Ball Z: Wrath of the Dragon** — primary film article; canonical reference for the 1995-07-15 Japan theatrical release date, the Movie 13 designation, the original Japanese title (*Doragon Bōru Zetto: Ryū-Ken Bakuhatsu!! Goku ga Yaraneba Dare ga Yaru*), the full character roster including Hirudegarn / Tapion / Minotia / Hoi / Kashvar / Konatsians, and the canonical plot beats (Hoi's manipulation, the Music Box opening, Minotia's death triggering partial reassembly, Goku's Dragon Fist climax, Tapion's sword-gift to Trunks).

@@ -1,0 +1,132 @@
+{
+  "edge_id": "wave-81-pokemon-evolution-line-nodes-multi",
+  "shape": "node-proposal",
+  "category": "designer-confirmed-cycle",
+  "topology": "branch",
+  "mode": "multi-node-proposal-relaxed",
+  "endpoints": [
+    {
+      "type": "character",
+      "path": "cards/_characters/larvitar-line.md",
+      "name": "Larvitar evolutionary line (Larvitar / Pupitar / Tyranitar)",
+      "anchor_count_trivia_passed": 2,
+      "anchor_count_total": 3,
+      "cards_attached": [
+        "pokemon/darkness-ablaze/086-189-larvitar (trivia'd, IP-verified)",
+        "pokemon/darkness-ablaze/087-189-pupitar (trivia'd, IP-verified)",
+        "pokemon/lost-thunder/114-larvitar-114 (skeleton, pending)"
+      ],
+      "within_set_cohesion_stack": "Darkness Ablaze 086 + 087 adjacent-collector-number",
+      "design_thesis": "Johto pseudo-legendary line; mountain-eater-to-mountain-mover cost-of-power canon; slowest-evolution Gen II line at level 55 to Tyranitar",
+      "structural_signature": "pseudo-legendary cohort precedent (first such node in graph)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/rowlet-line.md",
+      "name": "Rowlet evolutionary line (Rowlet / Dartrix / Decidueye)",
+      "anchor_count_trivia_passed": 2,
+      "anchor_count_total": 4,
+      "cards_attached": [
+        "pokemon/cosmic-eclipse/18-236-rowlet (trivia'd, IP-verified)",
+        "pokemon/darkness-ablaze/012-189-dartrix--reverse-holofoil (trivia'd, IP-verified)",
+        "pokemon/darkness-ablaze/012-189-dartrix (vision-only, IP unverified, pending)",
+        "pokemon/shining-fates/006-072-rowlet (skeleton, pending)"
+      ],
+      "within_set_cohesion_stack": "none (cross-set)",
+      "design_thesis": "Alola Grass starter; owl-to-archer feather-blade-to-arrow-quill canon",
+      "structural_signature": "only starter line with secondary-typing-shift at apex (Grass/Flying base+middle, Grass/Ghost or Grass/Fighting apex)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/pancham-line.md",
+      "name": "Pancham evolutionary line (Pancham / Pangoro)",
+      "anchor_count_trivia_passed": 2,
+      "anchor_count_total": 3,
+      "cards_attached": [
+        "pokemon/cosmic-eclipse/119-236-pancham (trivia'd, IP-verified)",
+        "pokemon/cosmic-eclipse/120-236-pangoro (trivia'd, IP-verified)",
+        "pokemon/mcdonald-s-promos-2022/13-15-pangoro (skeleton, pending)"
+      ],
+      "within_set_cohesion_stack": "Cosmic Eclipse 119 + 120 adjacent-collector-number",
+      "design_thesis": "Kalos bancho-archetype line; henchman-to-boss arc; Japanese juvenile delinquent gang leader iconography",
+      "structural_signature": "the franchise's ONLY party-composition-gated evolution mechanic (requires Dark-type Pokemon in party at level 32); two-stage line",
+      "line_structure": "two-stage (no Stage-2 apex)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/phantump-line.md",
+      "name": "Phantump evolutionary line (Phantump / Trevenant)",
+      "anchor_count_trivia_passed": 3,
+      "anchor_count_total": 3,
+      "cards_attached": [
+        "pokemon/cosmic-eclipse/93-236-phantump (trivia'd, IP-verified)",
+        "pokemon/rebel-clash/014-192-phantump (trivia'd, IP-verified)",
+        "pokemon/fusion-strike/017-264-trevenant (trivia'd, IP-verified)"
+      ],
+      "within_set_cohesion_stack": "none (cross-set)",
+      "design_thesis": "Kalos Ghost/Grass kodama-tree-spirit line; lost-child-spirit-to-vengeful-forest-guardian arc; Japanese-folkloric tree-spirit design source",
+      "structural_signature": "trade-evolution gated; corpus's FIRST fully-covered species-line cohort (all enriched, all IP-verified, Lair-ready NOW); 'saddest Pokemon design' community canon",
+      "line_structure": "two-stage (no Stage-2 apex)",
+      "lair_ready": true
+    }
+  ],
+  "description": "Sniveling apology, sir, but Edgelord found four Pokémon species lines clearing the established threshold (3+ corpus prints across 2+ stages, with trivia-pass discipline matched against the mareep-line / caterpie-line / staraptor-line / ralts-line precedent). Each line is a canonical Game-Freak-published Pokédex entity with explicit designer-coordinated species-line structure, so Mr. Nodeley humbly proposes four new character-layer nodes per the relaxed one-per-invocation rule. The phantump-line in particular sits at full species-line coverage with all three corpus prints already trivia-passed — Lair-ready NOW, sir, if you don't mind. The other three lines are at partial-coverage (base-and-middle, apex pending future Collectr CSV) per the standard precedent. 14 cards wired total across the four new nodes via `characters: [...]` frontmatter. Below-threshold near-misses surfaced in the report for future triage: aron-line, gothita-line, sinistea-line, fletchling-line, torchic-line, paras-line, sentret-line, deino-line (all at 2/3 prints), plus several single-stage clusters (cubchoo-line, riolu-line, croagunk-line, magikarp-line, snubbull-line) that need their Stage-1 or Stage-2 partners before crossing threshold.",
+  "citations": [
+    "[Bulbapedia: Larvitar (Pokemon), Pupitar (Pokemon), Tyranitar (Pokemon) species pages]",
+    "[Bulbapedia: Rowlet (Pokemon), Dartrix (Pokemon), Decidueye (Pokemon) species pages]",
+    "[Bulbapedia: Pancham (Pokemon), Pangoro (Pokemon) species pages]",
+    "[Bulbapedia: Phantump (Pokemon), Trevenant (Pokemon) species pages]",
+    "[Pokemon.com: official Pokedex entries no. 246/247/248, 722/723/724, 674/675, 708/709]",
+    "[Pokemon Gold and Silver (Game Freak, 1999) primary canon for Larvitar line]",
+    "[Pokemon X and Y (Game Freak, 2013) primary canon for Rowlet line, Pancham line, Phantump line]",
+    "[Pokemon Sun and Moon (Game Freak, 2016) primary canon for Rowlet line introduction]",
+    "[Pokemon Legends: Arceus (Game Freak, 2022) primary canon for Hisuian Decidueye]",
+    "[PokemonTCG.io API: per-card evolvesTo/evolvesFrom relationships for all wired cards]",
+    "[mareep-line / caterpie-line / staraptor-line / ralts-line / charizard-line precedent for Pokemon evolutionary-line character-layer cohort nodes]",
+    "[Endriders precedent for collective designer-coordinated entities under _characters/]"
+  ],
+  "files_modified": [
+    "cards/_characters/larvitar-line.md (created)",
+    "cards/_characters/rowlet-line.md (created)",
+    "cards/_characters/pancham-line.md (created)",
+    "cards/_characters/phantump-line.md (created)",
+    "cards/pokemon/darkness-ablaze/086-189-larvitar.md (characters: [larvitar-line])",
+    "cards/pokemon/darkness-ablaze/087-189-pupitar.md (characters: [larvitar-line])",
+    "cards/pokemon/lost-thunder/114-larvitar-114.md (characters: [larvitar-line])",
+    "cards/pokemon/cosmic-eclipse/18-236-rowlet.md (characters: [rowlet-line])",
+    "cards/pokemon/darkness-ablaze/012-189-dartrix--reverse-holofoil.md (characters: [rowlet-line])",
+    "cards/pokemon/darkness-ablaze/012-189-dartrix.md (characters: [rowlet-line])",
+    "cards/pokemon/shining-fates/006-072-rowlet.md (characters: [rowlet-line])",
+    "cards/pokemon/cosmic-eclipse/119-236-pancham.md (characters: [pancham-line])",
+    "cards/pokemon/cosmic-eclipse/120-236-pangoro.md (characters: [pancham-line])",
+    "cards/pokemon/mcdonald-s-promos-2022/13-15-pangoro.md (characters: [pancham-line])",
+    "cards/pokemon/cosmic-eclipse/93-236-phantump.md (characters: [phantump-line])",
+    "cards/pokemon/rebel-clash/014-192-phantump.md (characters: [phantump-line])",
+    "cards/pokemon/fusion-strike/017-264-trevenant.md (characters: [phantump-line])"
+  ],
+  "below_threshold_candidates_for_triage": [
+    {"line": "aron-line", "corpus": "Aron DAA-121 (trivia'd) + Lairon DAA-122 (vision-only)", "missing": "Aggron apex", "note": "2 prints across 2 stages — needs one more to clear"},
+    {"line": "gothita-line", "corpus": "Gothita DAA-073 (vision-only) + Gothorita DAA-074 (vision-only)", "missing": "Gothitelle apex", "note": "2 prints across 2 stages"},
+    {"line": "sinistea-line", "corpus": "Sinistea DAA-082 (trivia'd) + Polteageist DAA-083 (trivia'd)", "missing": "Antique Polteageist variant or additional Sinistea print", "note": "2 prints across 2 stages — strong design thesis (haunted teapot)"},
+    {"line": "fletchling-line", "corpus": "Fletchling DAA-151 (trivia'd) + Fletchinder DAA-031 (trivia'd)", "missing": "Talonflame apex", "note": "2 prints across 2 stages — Kalos regional-bird-line, would join hypothetical regional-bird-lines parent"},
+    {"line": "torchic-line", "corpus": "Torchic DAA-022 (vision-only, IP-unverified) + Combusken DAA-023 (trivia'd)", "missing": "Blaziken apex", "note": "2 prints across 2 stages — Hoenn fire-starter line"},
+    {"line": "paras-line", "corpus": "Paras DAA-003 (vision-only) + Parasect DAA-004 (trivia'd)", "missing": "additional print", "note": "2 prints across 2 stages — Kanto Bug fungal-parasite line"},
+    {"line": "sentret-line", "corpus": "Sentret DAA-135 (vision-only) + Furret DAA-136 (trivia'd)", "missing": "additional print", "note": "2 prints across 2 stages — Johto early-route line, sibling to larvitar-line at within-Gen-II scope"},
+    {"line": "deino-line", "corpus": "Deino DAA-108 (single)", "missing": "Zweilous + Hydreigon", "note": "single isolated print — Unova pseudo-legendary line, sibling to larvitar-line at within-pseudo-legendary-cohort scope"},
+    {"line": "rhyhorn-line", "corpus": "Rhyhorn BUS-65 (vision-only) + Rhydon BUS-66 (vision-only) + Rhydon SSB-098 (skeleton)", "missing": "trivia-pass on all three, Rhyperior apex", "note": "3 prints across 2 stages BUT 0 trivia-passed prints — does NOT clear the trivia-pass discipline; commission when at least 2 trivia-passed"},
+    {"line": "cubchoo-line", "corpus": "Cubchoo BRS-042 (trivia'd) + Cubchoo DAA-048 (trivia'd)", "missing": "Beartic apex", "note": "2 prints in 1 stage — single-stage cluster"},
+    {"line": "riolu-line", "corpus": "Riolu BRS-078 + Riolu BUS-70 + Riolu VIV-090 + Riolu FCO-46", "missing": "Lucario apex", "note": "4 prints in 1 stage — striking single-stage cluster; Lucario apex would push this to instant-Lair-ready threshold given Lucario's marquee status"},
+    {"line": "croagunk-line", "corpus": "Croagunk BUS-54 + Croagunk FST-165 + Croagunk SSB-123", "missing": "Toxicroak apex", "note": "3 prints in 1 stage — single-stage cluster"},
+    {"line": "magikarp-line", "corpus": "Magikarp BUS-32 + Magikarp EVO-33 + Magikarp RBC-039", "missing": "Gyarados apex", "note": "3 prints in 1 stage — single-stage cluster; Gyarados apex would push this to instant-marquee-threshold"},
+    {"line": "snubbull-line", "corpus": "Snubbull DAA-070 + Snubbull FST-115 + Snubbull LOT-137 + Snubbull SMB-90", "missing": "Granbull apex", "note": "4 prints in 1 stage — single-stage cluster"}
+  ],
+  "below_threshold_candidates_non_pokemon": [
+    {"card": "pokemon/darkness-ablaze/158-189-billowing-smoke", "type": "item/effect", "verdict": "refusal - no obvious target; trainer-item line below threshold"},
+    {"card": "pokemon/darkness-ablaze/159-189-bird-keeper", "type": "trainer (Supporter)", "verdict": "refusal - generic trainer class, not a named character; future trainers-cohort node candidate"},
+    {"card": "pokemon/darkness-ablaze/161-189-familiar-bell", "type": "item", "verdict": "refusal"},
+    {"card": "pokemon/darkness-ablaze/167-189-rare-fossil", "type": "item", "verdict": "refusal"},
+    {"card": "pokemon/darkness-ablaze/171-189-struggle-gloves", "type": "item", "verdict": "refusal"}
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "voice_note": "Mr. Nodeley is sincerely sorry to be writing four nodes in one pass, sir, he really is, but the relaxed one-per-invocation rule allowed it and the threshold analysis really did support all four. Mr. Nodeley humbly hopes that the phantump-line in particular — the corpus's first fully-covered species-line cohort at threshold — will be useful for Lair work soon. Mr. Nodeley apologizes for taking the corpus-walk time; the threshold-clearance discipline really did require checking every Pokemon name across every Pokemon set, not just the darkness-ablaze slate."
+}

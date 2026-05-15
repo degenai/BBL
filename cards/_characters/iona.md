@@ -12,7 +12,7 @@ appears_on:
   - magic-the-gathering/commander-legends/25-iona-s-judgment
 related_hubs: [stewardship]
 related_symbols: []
-related_characters: [eldrazi, kor]
+related_characters: [eldrazi, kor, zendikari-resistance]
 ip_resolution_for: ["Iona", "Iona, Shield of Emeria", "Shield of Emeria"]
 ---
 
@@ -46,6 +46,12 @@ Iona's most BBL-relevant property is the canonical *seer-who-shields-against-nam
 
 This is what BBL bundle copy can lean on without inventing canon: Iona is the canonical Zendikar archangel who *kept her sight* through the canonical-angel-faction's symbolic-blindness response to the cosmic-horror brood, the canonical *Shield of Emeria* whose archangel-tier stewardship-operating-mode names-and-prohibits-the-incursion-into-the-region-she-guards, and the canonical-tragic-arc figure whose stewardship is canonically *outmatched by the colorless apparatus* her color-naming ability cannot name. Bundle copy that uses the Iona canonical-stewardship reading indexes Wizards' own Zendikar/BFZ-block storyline directly.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[21-iona-s-blessing]]
+- [[25-iona-s-judgment]]
 ## Canonical sources
 
 - **MTG Wiki — Iona, Shield of Emeria** (`https://mtg.fandom.com/wiki/Iona,_Shield_of_Emeria`) — primary character page; canonical reference for the archangel-of-Emeria title, the six-winged-pupil-less-glowing-white-eyes-no-halo-over-eyes canonical visual identifier, the canonical-Zendikari-angel-faction-lowered-halos canonical lore that Iona is the canonical exception to, and the canonical tragic-arc that Iona's legacy is ultimately deployed for the Eldrazi's cause.

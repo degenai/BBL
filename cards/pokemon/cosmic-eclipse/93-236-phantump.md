@@ -30,6 +30,7 @@ setting: forest
 suspected_ip: Phantump
 ip_confidence: high
 ip_verified: true
+characters: ["phantump-line"]
 ---
 
 # Phantump (Cosmic Eclipse)

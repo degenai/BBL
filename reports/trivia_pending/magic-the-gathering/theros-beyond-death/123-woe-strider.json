@@ -1,0 +1,36 @@
+{
+  "card_name": "Woe Strider",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "123",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "mechanical",
+      "text": "Woe Strider is one of the most-played free sacrifice outlets in Commander, appearing in approximately 81,400 decks on EDHREC (rank 1686). The combination of a zero-mana sacrifice cost, Scry 1 selection, built-in token fodder (a 0/1 Goat on entry), and an Escape clause makes it a format staple in sacrifice-based strategies [EDHREC, Scryfall].",
+      "sources": ["EDHREC", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Woe Strider has been reprinted in five Commander precons and supplemental products including Commander Legends: Battle for Baldur's Gate (2022), New Capenna Commander (2022), Bloomburrow Commander (2024), Tarkir: Dragonstorm Commander (2025), and Secrets of Strixhaven Commander (2026) — an unusually dense reprint schedule reflecting its consistent demand as a sacrifice-outlet workhorse [Scryfall prints].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Woe Strider is typed as a Horror — not a named Theros creature type like Minotaur or Harpy — signaling it is one of the formless, nameless things that haunt the Underworld's deeper layers rather than a figure from Greek-mythology-adjacent Theran lore [Scryfall]. The goat token it creates may nod to the scapegoat motif: the sacrificed innocent absorbing woe on behalf of the larger creature.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Viscera Seer", "set": "Magic 2011", "note": "The free-sacrifice-outlet archetype's baseline; Woe Strider exceeds it via Escape and token"},
+    {"name": "Erebos's Intervention", "set": "Theros Beyond Death", "note": "Same THB black graveyard-exile register"},
+    {"name": "Cauldron Familiar", "set": "Throne of Eldraine", "note": "Classic sacrifice-loop partner in Standard-era THB decks"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

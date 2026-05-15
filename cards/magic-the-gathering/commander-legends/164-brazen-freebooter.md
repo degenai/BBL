@@ -52,3 +52,13 @@ A human pirate is shown in close mid-shot, lit from below by a warm reddish-oran
 **Iconography:** pirate-hat, grin
 **Genre cues:** fantasy, swashbuckler, piracy
 
+## Trivia
+
+- **Set context** — Brazen Freebooter originated in Rivals of Ixalan (RIX, 2018), the conclusion of the Ixalan block: a pirate-and-dinosaur plane where warring factions competed to control the golden city of Orazca. CMR is its second reprint; also in Jumpstart 2022. `[Scryfall]`
+- **Mechanical reputation** — A 3/3 for four mana that enters with a Treasure token is moderately above-rate: the Treasure effectively rebates one mana on the following turn, making the creature closer to a 3/3 for three in practice. Scryfall's all_parts field lists the Treasure token as a related combo_piece. Pauper-legal. Legal in Pauper, Pioneer, Modern, Legacy, Vintage, and Commander. `[Scryfall]`
+- **Flavor text** — "Finders, keepers." No speaker attributed. Two words that double as the pirate's ethos and a shorthand for the Treasure mechanic: you find it, you keep it as a mana resource. `[Scryfall]`
+
+### Related cards
+- Sailor of Means (Ixalan, XLN) — cheaper Treasure-maker in the same pirate block
+- Prosperous Pirate (Commander Legends of Baldur's Gate) — direct parallel Treasure-generating pirate design at a similar rate
+- Goldspan Dragon (Kaldheim, KHM) — flagship Treasure-doubler; Brazen Freebooter feeds the same archetype at common

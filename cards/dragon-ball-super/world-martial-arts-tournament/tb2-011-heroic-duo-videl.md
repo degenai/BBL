@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
+characters: ["hercule", "son-gohan"]
 tags_hub: ["fighter", "female-warrior", "determination", "martial-arts", "tournament", "heroism", "charging", "combat", "fists", "intensity"]
 tags_filter: ["solo", "mid-shot", "action", "forward-facing", "female-figure", "anime-style"]
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-011-heroic-duo-videl.png

@@ -1,0 +1,36 @@
+{
+  "card_name": "Crow of Dark Tidings",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "115",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Crow of Dark Tidings originated in Shadows over Innistrad (SOI, 2016), the set that reintroduced Innistrad as a plane where the protective wards of Avacyn had broken down and the dead walked unchecked. The zombie-bird creature type fits SOI's pervasive undead horror. The CMR copy is its fifth reprint, with additional appearances in Game Night 2019, Jumpstart (2020), Jumpstart 2022 (2022), Shadows over Innistrad Remastered (2023), and Foundations (2024). [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Well, this can't be a good sign.\" — Old Rutstein. Old Rutstein is an Innistrad human from Kessig who trades in contraband including human blood and body parts. The dry understatement from a man who deals in the macabre reads as dark comedy: even the plane's scavenger finds a zombie bird ominous. [Scryfall; WebSearch: Rutstein MTG Wiki via search snippet]",
+      "sources": ["Scryfall", "WebSearch: Rutstein MTG Wiki via search snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The mill-on-ETB-and-dies trigger fires twice in a single blink loop and once on any sacrifice, making it a graveyard enabler that fuels itself. Standard-legal as of the Foundations 2024 reprint. Legal in Pauper, Standard, Pioneer, Modern, Legacy, Vintage, and Commander. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Old Rutstein", "set": "Innistrad: Crimson Vow (VOW)", "note": "Flavor text speaker; appears as a legendary creature in VOW"},
+    {"name": "Raven's Crime", "set": "various", "note": "Innistrad-adjacent black discard/mill cluster"},
+    {"name": "Crow of Dark Tidings", "set": "Shadows over Innistrad (SOI)", "note": "Original printing in the set that thematically grounds the card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

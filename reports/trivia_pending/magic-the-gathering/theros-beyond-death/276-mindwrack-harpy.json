@@ -1,0 +1,36 @@
+{
+  "card_name": "Mindwrack Harpy",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "276",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Harpies on Theros are servant creatures of Erebos, god of the dead, sent to torment the living and the recently deceased. Mindwrack Harpy is typed as an Enchantment Creature — Harpy (collector number 276, a showcase-frame variant in the full-art Nyx treatment), reflecting Theros's defining mechanic that divine creatures are woven from the starry fabric of the Nyx [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Harpies are among the most detested creatures in all of Theros... and they thoroughly deserve it.\" [Scryfall]. The dry editorial aside is structurally unusual for MTG flavor text — most text inhabits a character's voice; this one addresses the reader directly, acting as lore footnote rather than in-world quote.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mindwrack Harpy mills three cards from each player at the beginning of your combat — symmetrical milling on a flying enchantment creature. Its EDHREC rank of 6936 is notably high for a common, reflecting adoption in graveyard-matters and Erebos-adjacent Commander decks where the symmetry is exploited for self-mill. Legal in Pauper and PauperCommander [Scryfall, EDHREC].",
+      "sources": ["Scryfall", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pharika's Libation", "set": "Theros Beyond Death", "note": "Black sacrifice/removal from same THB Erebos-adjacent cluster"},
+    {"name": "Eidolon of Blossoms", "set": "Journey into Nyx", "note": "Enchantment Creature type-overlap; both are Nyx-fabric creatures"},
+    {"name": "Erebos, Bleak-Hearted", "set": "Theros Beyond Death", "note": "Harpies serve Erebos; mechanically adjacent as sacrifice/draw payoff"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

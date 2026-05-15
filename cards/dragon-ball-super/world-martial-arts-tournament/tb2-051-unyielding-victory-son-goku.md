@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["son-goku"]
 tags_hub: ["martial-arts", "tournament", "child-warrior", "prodigy", "victory", "energy-aura", "hero", "determination", "orange-gi", "saiyan"]
 tags_filter: ["solo", "mid-shot", "action", "male-figure", "anime-style", "three-quarter"]
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-051-unyielding-victory-son-goku.png

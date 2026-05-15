@@ -1,0 +1,36 @@
+{
+  "card_name": "Rakdos Roustabout",
+  "game": "Magic: The Gathering",
+  "set": "Ravnica Allegiance",
+  "collector_number": "198",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"That one has a bright future — perfect instincts for the rhythm of mayhem.\" — Judith [Scryfall]. The speaker is Judith, the Scourge Diva (RNA-185), legendary Rakdos Human Shaman and de facto guild speaker in most circumstances. Judith appears at Rakdos clubs and street shows as a singer and performance artist; she shows up during the final act when performances shift into pain [WebSearch snippet via MTG Wiki Fandom: Judith]. This flavor text places Judith as a talent-spotter watching the Roustabout perform.",
+      "sources": ["Scryfall", "MTG Wiki Fandom: Judith via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Typed as Ogre Warrior. The Rakdos Cult on Ravnica uses their public performances — circus acts, street shows, and violence spectacles — as a protected right; the Guildpact stipulates that if an audience gathers voluntarily, the performance is sanctioned. The Roustabout's blocked-creature trigger (dealing 1 damage to the player being attacked) mechanically simulates the Rakdos doctrine that no act should go unbloodied [Scryfall; magic.wizards.com: Ravnica Allegiance Mechanics, Spectacle section].",
+      "sources": ["Scryfall", "magic.wizards.com: Ravnica Allegiance Mechanics"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Pauper-legal common, EDHREC rank 25,275 — extremely low Commander inclusion. Its niche is mono-red aggressive or Rakdos aggro builds where unblockable chip damage matters. The ability is sometimes cited in community discussions as a design model for the Spectacle keyword enabler: getting that 1 damage through triggers Spectacle for follow-up plays [r/magicTCG community mentions; Scryfall].",
+      "sources": ["Scryfall", "r/magicTCG via WebSearch context"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Judith, the Scourge Diva", "set": "Ravnica Allegiance", "note": "The flavor-text speaker; legendary Rakdos commander who buffs non-token creatures and deals damage on their death"},
+    {"name": "Carnival Hellsteed", "set": "Return to Ravnica", "note": "Rakdos mounted performer; shares circus-performance register and Rakdos guild affiliation"},
+    {"name": "Spear Spewer", "set": "Ravnica Allegiance", "note": "RNA Rakdos common; Spectacle enabler partner in aggressive RNA Limited builds"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

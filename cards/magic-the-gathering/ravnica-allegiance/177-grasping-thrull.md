@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["orzhov-syndicate"]
 tags_hub: ["thrull", "mask", "wings", "flying", "debt-collector", "pigeon", "city", "monster", "grotesque", "golden-face", "orzhov"]
 tags_filter: ["solo", "mid-shot", "action", "multicolor-white-black", "creature-zombie-bird"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/177-grasping-thrull.png
@@ -55,3 +56,14 @@ A grotesque creature dominates the center of the image in mid-flight. Its body i
 **Iconography:** mask, golden face
 **Genre cues:** fantasy, dark fantasy
 
+## Trivia
+
+- **Flavor text** — "Debt due! Debt due!" The thrull's screeching makes children flinch and debtors quail. "Debt due!" — No speaker attribution. The thrull has no individual identity, only a function `[Scryfall]`.
+- **Set lore** — Orzhov thrulls are created from magically animated dead flesh — specifically the shed physical remains of guild patriarchs ascending to spirithood. The Mourning Thrull (Guildpact) makes this explicit: "During their ascent to spirithood, patriarchs of Orzhova shed both flesh and emotion. This earthly slag is collected and formed into thrulls." The Grasping Thrull is literalized debt collection: a body reconstituted from discarded elite flesh, sent to chase the living `[Scryfall: Mourning Thrull; MTG Wiki Fandom via WebSearch snippet]`.
+- **Set context** — Ravnica Allegiance (RNA) released January 25, 2019. Grasping Thrull carries Afterlife alongside its enter-the-battlefield drain — it bleeds the opponent on arrival and potentially again through Afterlife on death. The Wizards RNA mechanics article frames Afterlife as the Orzhov's "supernatural staying power": even death is just another form of service `[Scryfall; magic.wizards.com: Ravnica Allegiance Mechanics]`.
+- **Mechanical** — Pauper-legal common. EDHREC rank 24,363 — a Limited role-player rather than a constructed staple. Its guaranteed 2-damage drain on entry made it a consistent draft finisher in RNA Limited `[Scryfall]`.
+
+### Related cards
+- Mourning Thrull (Guildpact) — flavor text establishes canonical thrull-creation lore: shed flesh of Orzhov patriarchs ascending to spirithood
+- Tithe Taker (RNA) — fellow Orzhov RNA common with Afterlife 1; shares the debt-collection register
+- Kingpin's Pet (Gatecrash) — earlier Orzhov flying-drain creature; predecessor in the Orzhov-labor-corrupted thesis chain

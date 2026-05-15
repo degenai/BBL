@@ -7,7 +7,7 @@ rarity: Common
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
 tags_hub: ["insect", "underground", "larva", "roots", "earth", "hidden", "metamorphosis", "patience", "soil", "emergence"]

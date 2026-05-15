@@ -41,6 +41,14 @@ The Ralts line's most BBL-relevant property is the **empathy-as-psychic-medium n
 
 The line is also the corpus's strongest **emotion-as-psychic-medium Pokemon-line precedent**. The community reading of the Ralts line as a meadow-elf / fairy-folkloric reference is well-attested (the Generation VI Fairy-typing retcon in 2013 canonized the reading at the type-system level), and the line's enduring popularity at the Generation III tier is the reason Gardevoir consistently places in franchise-popularity polls at the top tier of Generation III designs. For BBL bundle work, this is thesis-grade material — a Pokemon evolution line with explicit emotion-as-medium canon (Pokedex flavor across multiple generations), explicit gender-gated structural signature (the Dawn Stone fork at Stage 2), and explicit fan-canon weight (Gallade as fan-requested addition, Mega Gardevoir / Mega Gallade as Generation VI marquee Mega Evolutions). The Chilling Reign 059 + 060 within-set adjacent-collector-number pair is the corpus's second within-Pokemon-set evolution-line cohort placement (after Mareep / Flaaffy CRE-047 + 048), structurally parallel to the Charizard line within-Vivid-Voltage triptych pattern. The cross-set CRE + BUS + LOT presence broadens the line's corpus footprint across three sets and confirms threshold (3 trivia-passed prints across 2 stages, with a 4th vision-only print pending).
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[059-198-ralts]]
+- [[060-198-kirlia]]
+- [[92-147-kirlia]]
+- [[140-kirlia]]
 ## Canonical sources
 
 - **Bulbapedia — Ralts (Pokemon), Kirlia (Pokemon), Gardevoir (Pokemon), Gallade (Pokemon)** — primary per-species pages; canonical reference for the line's evolution conditions (Ralts level 20 to Kirlia, Kirlia level 30 to Gardevoir or Dawn Stone to Gallade if male), the Psychic / Fairy typing retroactively applied across the line in Generation VI, the empath / dance / global-perception / chivalric-blade flavor canon, and the species' competitive presence (Synchronize / Trace / Telepathy abilities, Mega Gardevoir's Pixilate, Mega Gallade's Inner Focus).

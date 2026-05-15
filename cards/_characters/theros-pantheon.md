@@ -92,6 +92,28 @@ The triple-attribution is **distributed across the pantheon's fifteen-god roster
 
 Each subset citation-anchored at Wizards-published canonical evidence (oracle text, flavor text, *Theros Beyond Death Story Summary*, MTG Wiki per-god pages). The corpus's eighteen anchors collectively land the [[_triple-thesis]] meta-hub's compression-point discipline: this is what *distributed* triple-attribution looks like when the cohort-scope is large enough to spread the three verbs across distinct member-subsets rather than concentrating them on a single member. Bundle work on the pantheon can lean on any single verb (a Mogis-cult labor-of-blood lair; an Elspeth-escapes-Erebos refusal-of-the-Underworld lair; a Nylea-tends-the-forest stewardship-of-the-wild lair) or stage all three as a Theros-as-three-modes-of-divine-work three-bundle series.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[146-athreos-god-of-passage]]
+- [[115-soulreaper-of-mogis]]
+- [[227-slaughter-priest-of-mogis]]
+- [[187-nylea-s-huntmaster]]
+- [[26-karametra-s-blessing]]
+- [[197-return-to-nature]]
+- [[96-fruit-of-tizerus]]
+- [[231-altar-of-the-pantheon]]
+- [[141-infuriate]]
+- [[149-portent-of-betrayal]]
+- [[175-inspire-awe]]
+- [[178-mantle-of-the-wolf]]
+- [[179-moss-viper]]
+- [[194-plummet]]
+- [[25-indomitable-will]]
+- [[33-reverent-hoplite]]
+- [[77-towering-wave-mystic]]
+- [[218-opaline-unicorn]]
 ## Canonical sources
 
 - **MTG Wiki — Theros Pantheon** (`https://mtg.fandom.com/wiki/Pantheon_of_Theros`) — primary roster page; canonical reference for the fifteen-god roster, the principal-vs-minor tier split, each god's color identity and domain, and the cross-block continuity (THS → BNG → JOU → THB).

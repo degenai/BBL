@@ -54,6 +54,15 @@ The Izzet League's most BBL-relevant property — like the [[orzhov-syndicate]]'
 
 This is what BBL bundle copy can lean on without inventing canon: the Izzet are, in-universe, a designer-confirmed labor-extraction-apparatus dressed as a research consortium. The bundle prose for any Izzet-anchored lair can name the guild by name and let Wizards' twenty years of guild-design work do the thesis work — the contrast between the guild's institutional self-image (joyful science) and its operational structure (stratified labor under the magewright caste) is canonical, not invented.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[134-reiterating-bolt]]
+- [[191-izzet-generatorium]]
+- [[132-ral-and-the-implicit-maze]]
+- [[212-ral-s-outburst]]
+- [[245-izzet-boilerworks]]
 ## Canonical sources
 
 - **MTG Wiki — Izzet League** (`https://mtg.fandom.com/wiki/Izzet_League`) — primary faction page; canonical reference for the guild's organizational structure (Niv-Mizzet as parun, Ral as guildmaster, magewright/chemister/goblin-engineer caste structure), membership demographics, and the experimental-research framing.

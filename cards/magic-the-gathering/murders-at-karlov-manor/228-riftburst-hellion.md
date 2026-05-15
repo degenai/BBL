@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["monster", "destruction", "marketplace", "panic", "beast", "insect", "explosion", "public-terror", "chaos", "urban", "civilians"]
 tags_filter: ["group", "wide", "action", "forward-facing", "red-magic", "green-magic", "multicolor-red-green", "creature-hellion", "disguise", "reach"]
+symbols: ["disguise"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/228-riftburst-hellion.png
 average_cost_paid: 0
 market_price: 0.05

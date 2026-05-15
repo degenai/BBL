@@ -1,0 +1,36 @@
+{
+  "card_name": "Viscera Seer",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "158",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Viscera Seer originated in Magic 2011 (M11, 2010). It has been reprinted extensively: Commander 2013, The List, a Magic Online Promo (2020), Commander Legends (two printings: no. 158 and the etched foil no. 658), The Lost Caverns of Ixalan Commander (2023), Tarkir: Dragonstorm Commander (2025), and Secrets of Strixhaven Commander (2026). The depth of reprint history reflects sustained Commander and Pauper demand. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A one-mana free (no-mana-cost activation) sacrifice outlet that replaces each sacrifice with a Scry 1 is considered one of the most efficient sacrifice enablers at common. Viscera Seer appears in over 292 recorded combo lines on MTG Decks, including the Mikaeus, the Unhallowed + persist creature infinite-scry loop found in tens of thousands of EDH decks. It is legal in Modern, Legacy, Vintage, Pauper, Commander, and Paupercommander. [Scryfall; WebSearch: MTG Decks Viscera Seer combos snippet]",
+      "sources": ["Scryfall", "WebSearch: MTG Decks combo count via search snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"In matters of life and death, he trusts his gut.\" No speaker attributed. The pun — 'trusts his gut' as both viscera-reading divination and instinct — is the card's entire personality. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Carrion Feeder", "set": "various", "note": "Free sacrifice outlet at one mana; parallel role in Pauper Aristocrats"},
+    {"name": "Mikaeus, the Unhallowed", "set": "Dark Ascension (DKA)", "note": "Two-card infinite combo enabler with Viscera Seer + persist creature"},
+    {"name": "Falkenrath Torturer", "set": "Dark Ascension (DKA)", "note": "Pauper sacrifice-outlet cluster alongside Viscera Seer"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

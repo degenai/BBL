@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["faerie", "spy", "espionage", "night", "rain", "hat", "wings", "scroll", "noir", "secret", "intelligence", "window"]
 tags_filter: ["solo", "mid-shot", "narrative", "three-quarter", "blue-magic", "black-magic", "multicolor-blue-black", "creature-faerie-rogue", "flying", "disguise"]
+symbols: ["disguise"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/203-faerie-snoop.png
 average_cost_paid: 0
 market_price: 0.11

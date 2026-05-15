@@ -22,6 +22,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/2/e/2ecacff4-87b
 art_match_confidence: high
 needs_manual_review: false
 artist: Anastasia Ovchinnikova
+characters: [zendikari-resistance]
 art_crop_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/32-relief-captain--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/e/2ecacff4-87b9-4cc1-bfbe-019cfda82d17.jpg?1562904522
 flavor_text: Sometimes gestures of support are small. Sometimes not.

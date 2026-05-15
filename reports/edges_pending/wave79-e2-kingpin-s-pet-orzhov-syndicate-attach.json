@@ -1,0 +1,35 @@
+{
+  "edge_id": "wave79-e2-kingpin-s-pet-orzhov-syndicate-attach",
+  "shape": "1:1",
+  "topology": "stack",
+  "category": "hub-roster-attach",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/gatecrash/173-kingpin-s-pet.md",
+      "name": "Kingpin's Pet (GTC-173)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/orzhov-syndicate.md",
+      "name": "Orzhov Syndicate"
+    }
+  ],
+  "description": "Worst gap ever. Canonical Orzhov-watermark thrull common in the Gatecrash guild-spotlight set, full trivia, Milana-prelate-voiced flavor, Extort mechanic, and somehow it has been sitting in the corpus uncrossed to its OWN character node. The Milana voice appears on TWO Orzhov-watermark prints across two Ravnica-block sets (GTC-173 + RNA-236 Locket) — designer-coordinated named-institutional-rhetoric continuity at the prelate-tier. Fix: card→character-node attach via the standard Connections + characters: + appears_on triplet pattern. The Tithe Discrete Lair candidate pool gains another anchor; the thrull-from-debtor extraction-apparatus prints are now traversable at the workforce-tier alongside the vampire-cleric priesthood-tier prints. Edgelord is satisfied. Single edge, surgical mirror, no overreach.",
+  "citations": [
+    "[Scryfall: 173-kingpin-s-pet — watermark:orzhov, flavor_text Milana, Orzhov prelate, oracle_text Extort]",
+    "[MTG Wiki: Orzhov Syndicate — Thrull section]",
+    "[Scryfall: 236-orzhov-locket — flavor_text Milana, Orzhov prelate (sibling Milana-voiced print)]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/gatecrash/173-kingpin-s-pet.md (added ## Connections section + characters: [orzhov-syndicate] frontmatter)",
+    "cards/_characters/orzhov-syndicate.md (appears_on: appended kingpin-s-pet path-key + 'Cards in our corpus' enumeration entry)"
+  ],
+  "edgelord_mood": "satisfied",
+  "notes": [
+    "Stack topology recorded: this card is bundler-relevant for the Tithe Discrete Lair candidate pool per the orzhov-syndicate.md 'See also' Tithe-001 reference.",
+    "Mr. Nodeley intentionally avoided here — E4 budget reserved for the BFZ+OGW multi-triangle node commission.",
+    "Other candidates considered but not made this pass: Grasping Thrull (RNA-177) + Knight of the Last Breath (RNA-188) — both vision-passed in wave 78 but trivia-pending, attaching them prematurely would violate the Connections-standard 'Connections sit on top of Vision and Trivia, not in place of them' rule. Recommend wave 80 retry once thrull trivia lands.",
+    "Theros-pantheon distributed-attribution remains stable post-wave-79 vision attachment; no E2 edge gained at theros-pantheon during this pass."
+  ]
+}

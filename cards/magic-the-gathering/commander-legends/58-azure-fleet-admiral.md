@@ -26,6 +26,7 @@ mood: action
 time_of_day: day
 setting: ocean
 artist: Sidharth Chaturvedi
+symbols: ["monarch-at-common-cmr"]
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/58-azure-fleet-admiral--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/0/c0889e22-deab-48ba-bbd6-f0d49bee5d9c.jpg?1608909111
 flavor_text: \"Your concern for my safety is touching, but as long as your gunners remain reliably erratic, I see no reason to change course.\"\n—Admiral Yelise, to Commodore Axurik

@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["brain", "grin", "demon", "spikes", "body-horror", "clown", "villain", "red-eyes", "fire", "horror", "skull", "mirth"]
 tags_filter: ["solo", "close-up", "portrait", "forward-facing", "red-magic", "enchantment"]
+symbols: ["manifest-dread"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/212-disturbing-mirth.png
 average_cost_paid: 0
 market_price: 0.08

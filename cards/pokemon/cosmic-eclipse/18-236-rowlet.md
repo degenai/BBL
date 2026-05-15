@@ -30,6 +30,7 @@ setting: forest
 suspected_ip: Rowlet
 ip_confidence: high
 ip_verified: true
+characters: ["rowlet-line"]
 ---
 
 # Rowlet (Cosmic Eclipse)

@@ -1,0 +1,36 @@
+{
+  "card_name": "Nessian Boar",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "181",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Nessian Forest is the vast wilderness of Setessa, the Amazonian polis of Theros. The boar is the terror of those wilds — a 10/6 creature that forces all able blockers to engage it. The flavor text names Renata as leading the hunt, referencing a Setessan huntmaster who appears on Renata, Called to the Hunt from Theros Beyond Death [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Renata led the best hunters in all of Theros on a quest to bring down the terror of the Setessan wilds.\" [Scryfall]. This references Renata, Called to the Hunt (THB no. 185), a Setessan demigod — the two cards form a flavor-text pair depicting the same hunt from different perspectives.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Nessian Boar's design inverts the standard power-creature problem: it draws cards for every player who blocks it, turning its own resistance into a group-hug draw engine and making it genuinely risky to attack with in multiplayer Commander. EDHREC rank 12444 reflects niche adoption in big-green decks [Scryfall, EDHREC].",
+      "sources": ["Scryfall", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Renata, Called to the Hunt", "set": "Theros Beyond Death", "note": "Named in the Nessian Boar's flavor text as the hunt's leader"},
+    {"name": "Setessan Champion", "set": "Theros Beyond Death", "note": "Setessan faction card in the same THB green block"},
+    {"name": "Polukranos, Unchained", "set": "Theros Beyond Death", "note": "Another large green THB creature from Nessian mythology"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

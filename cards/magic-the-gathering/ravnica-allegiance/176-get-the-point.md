@@ -55,3 +55,13 @@ The image is viewed from directly above, looking down onto a figure lying spread
 **Iconography:** starburst pattern, mask
 **Genre cues:** fantasy, dark circus
 
+## Trivia
+
+- **Flavor text** — "Vraska sees the grandeur in death but misses the hilarity." — Judith `[Scryfall]`. Two named Ravnica characters in one line: Vraska (Gorgon Planeswalker, assassin-tied Golgari figure) and Judith (Rakdos Scourge Diva, RNA-185). Judith's framing is a guild-philosophy critique: Golgari treats death with aesthetic reverence; Rakdos treats it as punchline. The card title's pun is intentional — "getting the point" is both the spikes and the joke `[Scryfall]`.
+- **Set context** — Common instant in RNA: Destroy target creature, Scry 1 — a Dimir/Rakdos color-pair removal spell at common rarity. Pauper-legal. EDHREC rank 24,960 `[Scryfall]`.
+- **Design** — Artist Steve Argyle. The overhead-view pinned-figure composition is unusual for a common-slot removal spell. The starburst radial symmetry of the spike projectiles creates formal beauty against a horror subject — exactly the Rakdos aesthetic of finding spectacle in suffering `[Scryfall]`.
+
+### Related cards
+- Judith, the Scourge Diva (RNA) — the flavor-text speaker; RNA-185 legendary Rakdos commander
+- Vraska, Golgari Queen (Guilds of Ravnica) — the flavor-text subject; Golgari Planeswalker whose view of death Judith is dismissing
+- Price of Fame (Guilds of Ravnica) — GRN Dimir legendary-creature removal instant; companion removal spell in the Ravnica block cycle

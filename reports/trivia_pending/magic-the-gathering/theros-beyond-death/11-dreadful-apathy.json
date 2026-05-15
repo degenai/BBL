@@ -1,0 +1,36 @@
+{
+  "card_name": "Dreadful Apathy",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "11",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "\"Those whose lives were uninspired are doomed to the wretched tedium of Phylias in death.\" [Scryfall]. Phylias is the uppermost layer of the Theros Underworld, reserved for souls whose mortal lives were unremarkable — the Theran analogue of the Greek Fields of Asphodel. Residents of Phylias perform repetitive tasks in featureless structures [WebSearch snippet: MTG Wiki: Underworld].",
+      "sources": ["Scryfall", "MTG Wiki: Underworld, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Dreadful Apathy is a white Aura that immobilizes enchanted creatures and can exile them for a mana investment. On Theros, white mana governs civic order and the afterlife's administrative tiers — Phylias sits at the intersection of both, making white the fitting color for this effect [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Legal in Pauper and PauperCommander, Dreadful Apathy is a budget Answer in white that trades instant-speed removal for the flexibility of a repeatable exile activation. EDHREC rank 19653 reflects limited Commander demand due to competition from cheaper white removal [Scryfall, EDHREC].",
+      "sources": ["Scryfall", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Elspeth's Nightmare", "set": "Theros Beyond Death", "note": "Same THB black-Aura cycle referencing Elspeth's journey through the Underworld"},
+    {"name": "Mire's Grasp", "set": "Theros Beyond Death", "note": "Black Aura from THB with comparable soft-lock function"},
+    {"name": "Banishing Light", "set": "Theros", "note": "White exile enchantment — functional parallel, cleaner rate"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

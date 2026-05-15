@@ -30,6 +30,7 @@ setting: mountain
 suspected_ip: Pangoro
 ip_confidence: high
 ip_verified: true
+characters: ["pancham-line"]
 ---
 
 # Pangoro (Cosmic Eclipse)

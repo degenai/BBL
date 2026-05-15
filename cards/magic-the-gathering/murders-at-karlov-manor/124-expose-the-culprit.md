@@ -13,6 +13,7 @@ bundles: []
 characters: ["agency"]
 tags_hub: ["ballroom", "masquerade", "reveal", "formal-wear", "drama", "magic", "unmasking", "mystery", "gala", "deception", "red-dress"]
 tags_filter: ["wide", "scene-mode", "crowd", "three-quarter", "instant"]
+symbols: ["disguise"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/124-expose-the-culprit.png
 average_cost_paid: 0
 market_price: 0.18

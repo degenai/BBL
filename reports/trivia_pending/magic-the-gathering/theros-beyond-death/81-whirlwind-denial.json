@@ -1,0 +1,36 @@
+{
+  "card_name": "Whirlwind Denial",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "81",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "mechanical",
+      "text": "Whirlwind Denial counters every spell and ability opponents control simultaneously unless each controller pays {4} — making it most effective against combo turns that chain multiple spells or abilities in a single turn. EDHREC rank 6190 reflects consistent Commander play, particularly in blue stax and control lists that want a single card to shut down storm or cascade sequences [Scryfall, EDHREC].",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "Whirlwind Denial was chosen as a Strixhaven Mystical Archive card (2021), a prestigious reprint slot reserved for historically significant instants and sorceries across MTG's history. The Mystical Archive printing gave it alternate art and a higher-rarity frame, cementing its status as a format role-player worth highlighting [Scryfall prints].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"No, no, and ... no.\" [Scryfall]. One of the shortest flavor texts in THB; the terse triple refusal mirrors the card's function of saying no to every spell and ability on the stack simultaneously.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Overwhelming Denial", "set": "Oath of the Gatewatch", "note": "Same mass-denial design space, harder to cast but uncounterable"},
+    {"name": "Render Silent", "set": "Dragon's Maze", "note": "White-blue counterpart that also stops activated abilities"},
+    {"name": "Dismiss into Dream", "set": "Magic 2014", "note": "Different effect but thematically adjacent blue denial"]
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

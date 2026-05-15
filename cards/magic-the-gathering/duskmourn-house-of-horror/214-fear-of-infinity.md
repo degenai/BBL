@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["ouroboros", "serpent", "skulls", "wings", "spirits", "nightmare", "horror", "cycle", "infinity", "void", "fear-of-cycle", "undead"]
 tags_filter: ["group", "wide", "narrative", "no-face", "multicolor-blue-black", "enchantment-creature", "creature-nightmare", "flying", "lifelink"]
+symbols: ["eerie"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/214-fear-of-infinity.png
 average_cost_paid: 0
 market_price: 0.22

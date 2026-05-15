@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["centaur", "rally", "protest", "city", "uprising", "labor", "rebellion", "gothic", "sunset", "solidarity", "public-speech"]
 tags_filter: ["crowd", "mid-shot", "three-quarter", "green-magic", "creature", "disguise", "scene-mode"]
+symbols: ["disguise"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/163-greenbelt-radical.png
 average_cost_paid: 0
 market_price: 0.28

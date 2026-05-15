@@ -1,0 +1,36 @@
+{
+  "card_name": "Urban Burgeoning",
+  "game": "Magic: The Gathering",
+  "set": "Return to Ravnica",
+  "collector_number": "138",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"The ruins of Old Prahv became a wildspace, although all birdsong was silenced by lingering Azorius magic.\" [Scryfall]. Old Prahv was the original Azorius Senate guildhall — a large white-marble castle destroyed in the climax of Dissension (2006) when the crashed Boros fortress-ship Parhelion exploded at the site. By Return to Ravnica (2012), the ruins had become a wilderness preserve. The flavor text's detail that Azorius residual magic silenced the birds is a small lore horror: the guild's legislative suppression outlasting its own architecture [Scryfall; WebSearch snippet via MTG Wiki Fandom: Prahv].",
+      "sources": ["Scryfall", "MTG Wiki Fandom: Prahv via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Urban Burgeoning is a Return to Ravnica (RTR) common, released October 5, 2012. The card is a green aura from the Simic guild, enchanting a land to grant it untap during each other player's untap step — a mana-advantage effect with roots in effects like Seedborn Muse. It depicts the Simic aesthetic of nature colonizing civic architecture literally: the art shows colonnade towers overgrown with trees. RTR was the first Ravnica return set, re-introducing 5 guilds (Izzet, Golgari, Selesnya, Azorius, Rakdos) — Simic arrived in the companion set Gatecrash [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 13,997 — seldom played in Commander. Its effect is powerful in theory (pseudo-Seedborn Muse on one land) but requires investment in an aura on a land, leaving it vulnerable to two-for-one blowouts. Sees occasional Pauper Commander play as a mana accelerant in green-blue builds [Scryfall legalities].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Seedborn Muse", "set": "Legions", "note": "The effect's spiritual predecessor: untap all permanents on each other player's untap step"},
+    {"name": "Utopia Sprawl", "set": "Dissension", "note": "Simic land-aura in the original Ravnica block; mana-fixation cousin to Urban Burgeoning"},
+    {"name": "Vigean Intuition", "set": "Dissension", "note": "Simic card from original Ravnica; context for the guild's Return to Ravnica evolution"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

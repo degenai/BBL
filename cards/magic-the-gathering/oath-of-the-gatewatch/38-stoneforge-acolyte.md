@@ -22,6 +22,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/a/5/a5b1ec11-48c
 art_match_confidence: high
 needs_manual_review: false
 artist: Chris Rallis
+characters: [zendikari-resistance]
 art_crop_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/38-stoneforge-acolyte--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/5/a5b1ec11-48c3-49d8-9dcd-1da5ffaf9184.jpg?1562928479
 flavor_text: \"The stone speaks. We are merely interpreters.\"

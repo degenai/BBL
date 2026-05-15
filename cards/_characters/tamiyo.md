@@ -38,6 +38,12 @@ The Tamiyo anchor has unusually direct BBL-thesis relevance: she is the in-unive
 
 The two corpus cards span the pre-compleation and Modern-Horizons-supplemental phases of her canonical presence. They do *not* yet cover the post-compleation Compleated Sage phase (Kamigawa: Neon Dynasty, NEO-238) — that card is not currently in the BBL corpus. When it lands, it edges here directly under the same anchor, with the canonical compleation-arc caveat surfaced as a sub-aspect.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[220-tamiyo-collector-of-tales]]
+- [[72-tamiyo-meets-the-story-circle]]
 ## Canonical sources
 
 - **MTG Wiki — Tamiyo** (`https://mtg.fandom.com/wiki/Tamiyo`) — full character page; primary reference for biography, Kamigawa moonfolk origin, the Innistrad investigation arc, the War of the Spark beat, the Kamigawa: Neon Dynasty compleation arc, and her death at The Wanderer's hands. Documents her adopted family: husband Hiroku, daughter Rumiyo, adopted son Nashi (a ratfolk child she raised after his mother's death), and an adopted kitsune child (a fox-spirit folktale-being raised alongside Nashi). The kitsune is a notable canonical footnote — the scholar of stories adopting a being from one of the stories.

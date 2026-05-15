@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["hospital", "abandoned", "horror", "operating-room", "decay", "duskmourn", "sterile", "medical", "haunted-room", "gothic-interior", "empty-space"]
 tags_filter: ["none", "wide", "scene-mode", "white-magic", "room-card", "enchantment", "split-card", "no-face"]
+symbols: ["rooms"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/34-surgical-suite-hospital-room.png
 average_cost_paid: 0
 market_price: 0.22

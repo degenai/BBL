@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["monster", "worm", "horror", "tentacles", "claws", "sewer", "tunnel", "ambush", "underground", "stone-architecture", "many-limbed", "lurking-creature"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "no-face", "creature-worm-horror", "green-magic", "showcase-frame"]
+symbols: ["disguise"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/351-culvert-ambusher-showcase.png
 average_cost_paid: 0
 market_price: 0.05

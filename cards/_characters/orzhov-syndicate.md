@@ -17,6 +17,9 @@ appears_on:
   - magic-the-gathering/modern-horizons-3/21-charitable-levy
   - magic-the-gathering/modern-horizons-3/31-indebted-spirit
   - magic-the-gathering/murders-at-karlov-manor/230-sanguine-savior
+  - magic-the-gathering/gatecrash/173-kingpin-s-pet
+  - magic-the-gathering/ravnica-allegiance/177-grasping-thrull
+  - magic-the-gathering/ravnica-allegiance/188-knight-of-the-last-breath
 related_hubs: [labor]
 related_symbols: [orzhov-signet]
 related_characters: [macro-cosmos]
@@ -35,6 +38,7 @@ Card art and flavor text that depicts the Orzhov as an *institution*: its operat
 
 - **Pitiless Pontiff** (RNA-194, uncommon, Yongjae Choi art) — Orzhov vampire cleric mid-sacrifice; throne backed by the Orzhov Signet. {W}{B} 2/2 Vampire Cleric. Flavor: *"Pay in gold. Pay in blood. Pay with the servitude of your spirit kin. But pay you must."* The pontiff is a guild office, not a named individual.
 - **Tithe Drinker** (DGM-109, common, Slawomir Maniak art) — Orzhov-watermark vampire common from the Return-to-Ravnica block. Lifelink + Extort. Throne backed by the same Orzhov Signet as the Pontiff. Unnamed; canonical guild operative.
+- **Kingpin's Pet** (GTC-173, common, Mark Zug art) — Orzhov-watermark flying thrull common from the Gatecrash set, the Return-to-Ravnica-block Orzhov spotlight. Flying + Extort. Flavor speaker is *Milana, Orzhov prelate*: *"Debt and death sound so similar, and thrulls are so hard of hearing. Mistakes are inevitable."* The same Milana-prelate voice appears two sets later on the Orzhov Locket (RNA-236) — Milana is a designer-coordinated named institutional-rhetoric speaker across two Ravnica-block sets. Gold chain collar and spiked foot-rings are canonical Orzhov thrall-aesthetic markers per MTG Wiki Orzhov-thrull lore (thrulls are constructed from debtor-flesh recombined into mindless servants; the collar marks the apparatus-of-ownership embedded in the creature's body). The card is the thrull-from-debtor extraction-apparatus print to Pitiless Pontiff and Tithe Drinker's vampire-cleric extraction-apparatus prints — the same syndicate rendered at the workforce-tier instead of the priesthood-tier.
 - **Charity Extractor** (WAR-81, common, Matt Stewart art) — generic "Orzhov knight" per the published art brief (Hipsters of the Coast preview, 2019); a militant tithe-collector demanding payment during the War of the Spark. {3}{B} 1/5 Human Knight, lifelink. Flavor: *"War or no war, your donations are due, as always."* The keys around the knight's neck and the locked strongbox were Stewart's additions, intended to underline how seriously the templar takes collection.
 - **Mortify** (RNA-192, uncommon, Anthony Palumbo art) — Orzhov-watermark guild-common removal. Flavor: *"Your debt is erased." —Hilgur, Orzhov euthanist.* The flavor speaker is named and assigned a guild office ("Orzhov euthanist"), echoing the 2006 *Orzhov Euthanist* creature card. The card is the institution's removal spell, named and operated by an institutional functionary.
 - **Orzhov Locket** (RNA-236, common, Volkan Baǵa art) — guild-iconography still life. Spilled coins around the syndicate's signet rendered as wearable jewelry; flavor speaker is *Milana, Orzhov prelate* ("It looks expensive, doesn't it? You have no idea..."), wearing the institutional power-mark at the throat. Mechanically the white-black entry in the *Ravnica Allegiance* guild-locket artifact cycle (one per guild, mana-rock + sac-draw). Anchors both this node and the [[orzhov-signet]] symbol node — the locket is the medallion form of the syndicate's institutional self-portrait.
@@ -57,6 +61,22 @@ The Orzhov Syndicate's most BBL-relevant property is that its institutional logi
 
 This is what BBL's bundle copy can lean on without inventing canon: the guild is, in-universe, a designer-confirmed apparatus-of-extraction dressed as a church. Bundle prose that names the Orzhov by name earns lore-aware buyer credibility and lets Wizards' own decades of guild-design work do the thesis work without naming the thesis.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[194-pitiless-pontiff]]
+- [[109-tithe-drinker]]
+- [[81-charity-extractor]]
+- [[192-mortify]]
+- [[236-orzhov-locket]]
+- [[252-orzhov-guildgate-252]]
+- [[21-charitable-levy]]
+- [[31-indebted-spirit]]
+- [[230-sanguine-savior]]
+- [[173-kingpin-s-pet]]
+- [[177-grasping-thrull]]
+- [[188-knight-of-the-last-breath]]
 ## Canonical sources
 
 - **MTG Wiki — Orzhov Syndicate** (`https://mtg.fandom.com/wiki/Orzhov_Syndicate`) — primary faction page; canonical reference for the guild's organizational structure (Obzedat, advokists, pontiffs, lawmages, thrull-handlers), membership demographics, and the Church-of-Deals framing.

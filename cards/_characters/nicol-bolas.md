@@ -39,6 +39,15 @@ All three carry Scryfall's `story_spotlight: true` flag, depict the same charact
   - **God-Eternal Bontu** (WAR-92, Mythic, Lius Lasahido art) — one of the five Amonkhet gods Bolas zombified and deployed as Dreadhorde generals during the invasion of Ravnica. Bontu is the canonical narrative mechanism of Bolas's defeat: per MTG Wiki's WAR event page, after Gideon Jura died to lift Bolas's death-curse from Liliana Vess, Liliana commanded the God-Eternals to turn on Bolas; Bontu bit into Bolas and absorbed all the harvested sparks (including her own godhood's), then exploded from the overload. The depicted figure is Bontu (not Bolas), but the *narrative subject* of her role in the WAR storyline is Bolas's defeat-by-his-own-weapon, parallel to the Despark wiring. The die-to-library-third-from-top trigger encodes Bolas's boast that his God-Eternals cannot be permanently stopped. Card wires via narrative-agent criterion (same WAR Bolas-Falls cluster, named-by-MTG-Wiki as the defeat mechanism).
   - **The Eldest Reborn** (DOM-90, Uncommon, Ravenna Tran art; in corpus as PLST-DOM-90 Mystery Booster insert) — Saga whose title canonically names Nicol Bolas as "the Eldest" (the canonical eldest of Magic's original Elder Dragon cycle: Chromium, Arcades Sabboth, Palladia-Mors, Nicol Bolas, Vaevictis Asmadi) and whose three chapters mechanically storyboard Bolas's resurrection arc: opponent-sacrifice (corrupting allies), opponent-discard (psychic assault), reanimation (placing Bolas back into the world). EDHREC reports the card in approximately 52% of Nicol Bolas, the Ravager Commander builds and 63% of Bolas Planeswalker-focused builds — "Bolas in your Bolas deck" treated as mandatory. The figure depicted in the art is a hooded skeletal undead, not literally Bolas; the title and the inclusion-pattern wire the card here. Card wires via load-bearing-name criterion (the title is the canonical reference) and corroborating community inclusion-pattern (the deck-building evidence is itself proof of canonical interpretation).
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[26-prison-realm]]
+- [[35-topple-the-statue]]
+- [[190-despark]]
+- [[92-god-eternal-bontu]]
+- [[90-the-eldest-reborn]]
 ## Canonical sources
 
 - **MTG Wiki — Nicol Bolas** (`https://mtg.fandom.com/wiki/Nicol_Bolas`) — full character page; primary reference for biography, story arcs, planar travels, and the WAR conclusion.

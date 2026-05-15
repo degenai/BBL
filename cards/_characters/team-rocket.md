@@ -45,6 +45,12 @@ The Rocket apparatus's specific institutional features are:
 
 This is what BBL's bundle copy can lean on without inventing canon: Team Rocket is, in-canon, a designer-confirmed extraction apparatus dressed in matching uniforms with a Boss who runs the eighth Gym. Bundle prose that names the Rockets by name earns lore-aware buyer credibility and lets Game Freak's own three decades of franchise-villain-design work do the thesis work without naming the thesis.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[154-192-boss-s-orders--holofoil]]
+- [[179-182-team-rocket-s-venture-bomb]]
 ## Canonical sources
 
 - **Bulbapedia — Team Rocket** (`https://bulbapedia.bulbagarden.net/wiki/Team_Rocket`) — primary institutional page; canonical reference for the Kanto-founding-by-Giovanni framing, the Johto-era Executive cell, the Pokemon-trafficking core operation, the uniform iconography, and the org's status as the prototype Villainous Team.

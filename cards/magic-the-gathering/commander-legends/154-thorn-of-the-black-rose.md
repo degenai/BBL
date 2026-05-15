@@ -26,6 +26,7 @@ mood: grim
 time_of_day: indeterminate
 setting: indoor
 artist: David Gaillet
+symbols: ["monarch-at-common-cmr"]
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/154-thorn-of-the-black-rose--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/b/2b7538ad-cc41-4229-8a39-c1db21f2899a.jpg?1669010258
 flavor_text: If bribery and intimidation fail, Marchesa turns to her favorite form of persuasion.
@@ -52,3 +53,15 @@ A close-to-mid shot of a lithe female assassin in layered dark leather armor, fr
 **Iconography:** black-rose-implied
 **Genre cues:** fantasy, dark-fantasy, noir
 
+## Trivia
+
+- **Set context** — Thorn of the Black Rose originated in Conspiracy: Take the Crown (CN2, 2016), the set that introduced the Monarch mechanic to Magic. Monarch grants an extra card draw each end step to the player who holds it, but transfers to any opponent who deals combat damage to that player. Thorn was one of the inaugural Monarch-granting card designs. `[Scryfall]`
+- **Monarch cluster** — Thorn is one of three Monarch-granting commons in Commander Legends, alongside Azure Fleet Admiral (CMR 58) and Fall from Favor (CMR 68). Fall from Favor was banned in Pauper in January 2021 for combining early creature removal with Monarch acquisition in a single card, making the mechanic too cheap to access. Thorn of the Black Rose remains Pauper-legal. Scryfall's all_parts field lists The Monarch token card as a combo_piece related to Thorn. `[Scryfall all_parts; WebSearch: Star City Games ban announcement snippet]`
+- **Flavor text** — The CMR printing reads: "If bribery and intimidation fail, Marchesa turns to her favorite form of persuasion." The original CN2 printing read "...her favorite form of bureaucracy." Both reference Marchesa, the political manipulator of the Conspiracy setting. The word change from 'bureaucracy' to 'persuasion' shifts the register from dry satire to straightforward menace. `[Scryfall CMR printing; Scryfall CN2 printing]`
+- **Format legality** — Thorn is legal in Pauper, Paupercommander, Legacy, Vintage, and Commander, but not in Standard, Pioneer, Modern, Historic, or Timeless — a narrow legality profile reflecting its origin in a draft-construct set (CN2) rather than a Standard-legal set. `[Scryfall]`
+
+### Related cards
+- Fall from Favor (Commander Legends, CMR-68) — Pauper-banned Monarch common; the most aggressive variant in the CMR Monarch cluster
+- Azure Fleet Admiral (Commander Legends, CMR-58) — third Monarch-at-common in the CMR cluster; blue pirate creature
+- The Monarch (Conspiracy: Take the Crown) — token/state card tracking Monarch status; Scryfall lists as combo_piece with Thorn
+- Palace Sentinels (Conspiracy: Take the Crown, CN2) — earlier Monarch-granting white common; precursor design to Thorn

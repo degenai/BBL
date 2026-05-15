@@ -54,6 +54,14 @@ Phyrexia's most BBL-relevant property is the same as the Orzhov Syndicate's: **i
 
 This is what BBL bundle copy can lean on without inventing canon: Phyrexia is, in-universe, a designer-confirmed apparatus-of-conversion dressed as a religion, scaled to multiversal-conquest scope, with a thirty-year published history of escalating institutional-body-horror printings. Bundle prose that names Phyrexia by name earns lore-aware buyer credibility and lets Wizards' own decades of faction-design work do the thesis work.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[130-phyrexian-ironworks]]
+- [[112-wurmcoil-larva]]
+- [[91-etched-slith]]
+- [[62-phyrexian-rager]]
 ## Canonical sources
 
 - **MTG Wiki — Phyrexia** (`https://mtg.fandom.com/wiki/Phyrexia`) — primary faction page; canonical reference for the Yawgmoth-era plane structure (Nine Spheres), the Brothers' War / Weatherlight / Invasion arcs, and the original-Phyrexia destruction.

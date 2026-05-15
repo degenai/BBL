@@ -74,6 +74,20 @@ The cohort's specific institutional features within the corpus are:
 
 This is what BBL's bundle copy can lean on without inventing canon: the Universe 6 Tournament cohort is, in-canon, the Champa-deployed mortal-warrior-roster of Dragon Ball Super's multiverse-introduction arc, depicted across 9 Bandai-canonical BT1 launch-set cards spanning the destroyer-god command-tier (Champa + Vados), the legendary-assassin tier (Hit), the Saiyan-of-U6 tier (Cabba + Cabba's Awakening), the Frieza-race-counterpart tier (Frost), the bear-warrior tier (Botamo), and the Metalman-race tier (Magetta). Bundle prose that leans on the *cosmic-class divine entities deploy cross-species mortal-warrior-labor in a god-wager-feud* canonical thesis lands directly on the canonical Champa Arc and Universe Survival Saga apparatus-of-extraction reading. The cohort's narrative weight composes with the [[saiyan]] race-level node (Cabba dual-pointer) and the [[labor]] hub's apparatus-of-extraction axis as the *Dragon Ball Super multiverse-rivalry* specific-canonical-instance.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[bt1-002-vados-aide-vados]]
+- [[bt1-003-hit-assassin-hit]]
+- [[bt1-006-scheming-champa]]
+- [[bt1-007-manipulating-god-champa]]
+- [[bt1-013-raging-cabba]]
+- [[bt1-016-unceasing-evolution-frost]]
+- [[bt1-019-botamo-of-universe-6]]
+- [[bt1-020-iron-wall-magetta]]
+- [[bt1-027-cabba-s-awakening-2017]]
+- [[bt4-057-namekian-duo-saonel]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Universe 6** (`https://dragonball.fandom.com/wiki/Universe_6`) — primary canonical reference for the parallel-universe cosmology, Champa-as-destroyer-god, Vados-as-angel-attendant, the U6 mortal-warrior-roster, and the canonical Champa Arc + Universe Survival Saga arc-membership.

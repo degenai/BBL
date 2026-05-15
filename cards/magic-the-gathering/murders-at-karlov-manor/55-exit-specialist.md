@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["stealth", "rogue", "infiltration", "dungeon", "stone", "leather", "shadows", "escape", "corridor", "secret", "thief"]
 tags_filter: ["solo", "mid-shot", "action", "three-quarter", "female-figure", "blue-magic", "creature", "disguise"]
+symbols: ["disguise"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/55-exit-specialist.png
 average_cost_paid: 0
 market_price: 0.05

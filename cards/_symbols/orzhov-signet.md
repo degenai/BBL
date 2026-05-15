@@ -64,6 +64,15 @@ The artifact card itself (Orzhov Signet, multiple printings) IS the symbol depic
 - [Card Kingdom — Orzhov Art and Representation](https://blog.cardkingdom.com/orzhov-art-and-representation/) — recurring throne / coin-ornament visual language
 - [Wizards — The Art of Gatecrash](https://magic.wizards.com/en/news/feature/art-gatecrash-2013-01-23-0) — confirms Wizards art-directed Orzhov visual unity
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[194-pitiless-pontiff]]
+- [[109-tithe-drinker]]
+- [[236-orzhov-locket]]
+- [[252-orzhov-guildgate-252]]
+- [[230-sanguine-savior]]
 ## See also
 
 - [[orzhov-syndicate]] — the institution this symbol marks. The signet is the iconography; the syndicate is the actor. Cards that depict the signet *as object* edge to this symbol node; cards that depict the guild *as actor* (operatives at work, institutional violence) edge to the character node; many cards do both.

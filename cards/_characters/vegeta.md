@@ -12,6 +12,7 @@ appears_on:
   - dragon-ball-super/galactic-battle/bt1-066-tenacious-vegeta
   - dragon-ball-super/world-martial-arts-tournament/tb2-006-vegeta-power-misused
   - dragon-ball-super/union-force/bt2-063-father-son-galick-gun
+  - dragon-ball-super/world-martial-arts-tournament/tb2-025-begrudging-respect-vegeta
 related_hubs: []
 related_symbols: []
 related_characters: [son-goku, trunks]
@@ -53,6 +54,15 @@ The character's specific institutional features across the corpus are:
 
 This is what BBL's bundle copy can lean on without inventing canon: Vegeta is, canonically across Toriyama and Toei and Bandai, the franchise's most-developed redemption-arc character and the foil-protagonist to Son Goku across every named series after 1989. The corpus's three enriched anchors span three distinct narrative phases (Battle of Gods SS, Buu-Saga Majin, Future Trunks Saga SS Blue) across three sets (Galactic Battle BT1 + Union Force BT2 + World Martial Arts Tournament TB2). A future Vegeta-themed Discrete Lair could anchor on the multi-phase Saiyan-pride framing without reaching past canon; a Goku-and-Vegeta Saiyan-rivalry-themed Discrete Lair becomes an index candidate once both nodes ([[son-goku]] from this wave's E2 and this node from E3) are live.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[bt1-036-god-charge-vegeta]]
+- [[bt1-066-tenacious-vegeta]]
+- [[tb2-006-vegeta-power-misused]]
+- [[bt2-063-father-son-galick-gun]]
+- [[tb2-025-begrudging-respect-vegeta]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Vegeta** (`https://dragonball.fandom.com/wiki/Vegeta`) — primary character page; canonical reference for the full multi-arc multi-transformation framing, the Saiyan-royal-lineage backstory, the Galick Gun and Final Flash origin, and the Bulma-and-Trunks family-relation continuity.

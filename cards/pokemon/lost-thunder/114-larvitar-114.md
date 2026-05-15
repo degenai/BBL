@@ -21,6 +21,7 @@ last_seen: 2026-05-14
 art_match_confidence: none
 needs_manual_review: true
 manual_review_reason: No reference image found via pokemontcg for set 'Lost Thunder'
+characters: ["larvitar-line"]
 ---
 
 # Larvitar (114) (Lost Thunder)

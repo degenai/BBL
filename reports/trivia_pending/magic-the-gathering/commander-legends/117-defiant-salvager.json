@@ -1,0 +1,36 @@
+{
+  "card_name": "Defiant Salvager",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "117",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Defiant Salvager originated in Aether Revolt (AER, 2017), the set depicting a rebel uprising by the Renegades against the Consulate on Kaladesh. The Aetherborn creature type is native to Kaladesh, where they are short-lived beings who arise spontaneously from aether. The flavor text's crash survivor line fits AER's context of a failed aerial assault. CMR is the card's third printing (also Double Masters 2020, Kaladesh Remastered 2020). [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Sacrificing artifacts or creatures to grow the Salvager is a sacrifice payoff that synergizes with token-generating artifacts (Treasure, Clue, Food) as well as persist and undying creatures. The sorcery-speed restriction prevents combat surprise but doesn't blunt its role as a Pauper Aristocrats finisher. Legal in Pauper, Pioneer, Modern, Legacy, Vintage, and Commander. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"I didn't survive that crash just so I could fall to the likes of you.\" No speaker attributed. The line evokes the Renegade context of AER — the speaker has already endured catastrophe and refuses to be finished off. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Syndicate Trafficker", "set": "Kaladesh (KLD)", "note": "Same sacrifice-for-counters Aetherborn design from the same plane"},
+    {"name": "Nantuko Husk", "set": "various", "note": "Classic Pauper sacrifice-finisher in the same role"},
+    {"name": "Weaponcraft Enthusiast", "set": "Kaladesh (KLD)", "note": "Kaladesh Aristocrats adjacency — token generator that feeds sacrifice synergies"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

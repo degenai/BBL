@@ -51,3 +51,13 @@ A snarling, dark-skinned horned creature with claws and a fanged maw is being mo
 **Iconography:** grasping-hands, swarm-of-hands
 **Genre cues:** fantasy, dark-fantasy, horror
 
+## Trivia
+
+- **Set context** — Cage of Hands originated in Champions of Kamigawa (CHK, 2004), a Spirit-heavy plane where the kami war narrative makes swarming spectral hands a thematically legible restraint. The CMR copy is its sixth reprint across Planechase 2012, Commander 2015, Planechase Anthology, Jumpstart 2022, and Foundations Jumpstart 2024. `[Scryfall]`
+- **Design** — Artist Mark Tedin has painted for Magic since the Alpha set (1993), making him one of the format's longest-tenured artists. The CMR printing carries no flavor text; the original CHK printing featured a Dosan the Falling Leaf quote about reaching hands building their own prisons. `[Scryfall]`
+- **Mechanical reputation** — The {1}{W} bounce ability is the card's mechanical distinction from plain pacifism effects: the Aura can be returned to hand and redeployed each turn, functioning as repeatable removal across multiple threats rather than a single permanent answer. Legal in Pauper, Modern, Legacy, Vintage, Commander, and Paupercommander. `[Scryfall]`
+
+### Related cards
+- Pacifism (various) — same Aura removal role, no bounce utility
+- Arrest (various) — broader lockdown Aura, no bounce
+- Cage of Hands (Champions of Kamigawa, no. CHK-3) — original printing with Dosan the Falling Leaf flavor text and kami-war context

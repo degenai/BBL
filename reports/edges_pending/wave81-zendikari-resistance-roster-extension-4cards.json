@@ -1,0 +1,41 @@
+{
+  "edge_id": "wave81-zendikari-resistance-roster-extension-4cards",
+  "wave": 81,
+  "shape": "1:N",
+  "topology": "branch",
+  "category": "faction-cohort-roster-extension",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/zendikari-resistance.md", "name": "Zendikari Resistance"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/149-ondu-champion.md", "name": "Ondu Champion (BFZ-149)"},
+    {"type": "card", "path": "cards/magic-the-gathering/oath-of-the-gatewatch/32-relief-captain.md", "name": "Relief Captain (OGW-32)"},
+    {"type": "card", "path": "cards/magic-the-gathering/oath-of-the-gatewatch/35-spawnbinder-mage.md", "name": "Spawnbinder Mage (OGW-35)"},
+    {"type": "card", "path": "cards/magic-the-gathering/oath-of-the-gatewatch/38-stoneforge-acolyte.md", "name": "Stoneforge Acolyte (OGW-38)"}
+  ],
+  "description": "Four canonically Ally-keyword Zendikari Resistance cards branch-attach to the existing zendikari-resistance character node. Ondu Champion (BFZ-149) is a Minotaur-Warrior-Ally with Rally and a Gideon Jura flavor quote about the resistance army; Relief Captain (OGW-32) is a Kor-Knight-Ally with Support 3 (the OGW-resistance-coalition-aid keyword); Spawnbinder Mage (OGW-35) is a Human-Wizard-Ally with Cohort, depicting an allied mage restraining captured Eldrazi Spawn; Stoneforge Acolyte (OGW-38) is a Kor-Wizard-Ally with Cohort and the canonical Kor stone-forge tradition. All four are Wizards-canonical resistance-coalition member subtypes per Scryfall type_line + MTG Wiki Allies (mechanic) page. The wave-79 node was opened at the 6-anchor threshold with explicit `appears_on:` extension expectation; this resolves the wave-80-surfaced faction-cohort lag by routing the OGW common-and-uncommon resistance roster to its anchor without inventing new structural vocabulary.",
+  "citations": [
+    "[Scryfall: type_line] — Ondu Champion: Creature - Minotaur Warrior Ally; Relief Captain: Creature - Kor Knight Ally; Spawnbinder Mage: Creature - Human Wizard Ally; Stoneforge Acolyte: Creature - Kor Wizard Ally",
+    "[Scryfall: oracle_text] — Rally + Support + Cohort keyword presence across all four cards",
+    "[MTG Wiki: Allies (mechanic)] — canonical reference for the BFZ-block Ally-resistance-coalition mechanical-tier framework that these subtypes belong to",
+    "[Scryfall: flavor_text] — Ondu Champion's Gideon-Jura-quote-on-resistance-coordination; Spawnbinder Mage's anti-Eldrazi-spawn-binding humor; Stoneforge Acolyte's Kor stone-forge-tradition flavor",
+    "[In-corpus precedent] — cards/_characters/zendikari-resistance.md commissioning text explicitly anticipates `appears_on:` extension as additional resistance-coalition cards land",
+    "[In-corpus precedent] — cards/magic-the-gathering/battle-for-zendikar/152-reckless-cohort.md frontmatter `characters: [zendikari-resistance]` pattern (canonical attach format)"
+  ],
+  "files_modified": [
+    "cards/_characters/zendikari-resistance.md",
+    "cards/magic-the-gathering/battle-for-zendikar/149-ondu-champion.md",
+    "cards/magic-the-gathering/oath-of-the-gatewatch/32-relief-captain.md",
+    "cards/magic-the-gathering/oath-of-the-gatewatch/35-spawnbinder-mage.md",
+    "cards/magic-the-gathering/oath-of-the-gatewatch/38-stoneforge-acolyte.md"
+  ],
+  "edgelord_mood": "blueballed-by-fanout",
+  "other_candidates_considered": [
+    "Eldrazi-side roster extension (Vile Aggregate BFZ-137, Eldrazi Aggressor OGW-95, Maw of Kozilek OGW-99) — clean branch-attach to [[eldrazi]] but the proportional lag is smaller (14->17 vs 6->10) and the resistance-side branch is the wave-79 node's primary extension surface. Surface for a follow-up Edgelord pass; same shape, same evidence basis (Eldrazi creature subtypes + Devoid + brood-lineage flavor / oracle text).",
+    "Rakdos Roustabout (RNA-198) + Judith flavor — could anchor a future rakdos-cult faction node alongside Spear Spewer + Carnival Hellsteed, but only one slate card hits that cohort; no node-creation case yet.",
+    "Rhythm of the Wild (RNA-201) + Domri Rade flavor — Domri is a planeswalker character not yet noded; would warrant a domri-rade solo character node when a depicted Domri card joins inventory. Today, single-card cohort is below threshold.",
+    "Simic Ascendancy (RNA-207) — Simic guild collective candidate, but single-card with unnamed figure and no other RNA Simic cards on the slate. Future faction node candidate parallel to azorius-senate / orzhov-syndicate.",
+    "Squad Captain (CMR-51) — generic white-soldier-tribal; no narrative-weight faction edge available.",
+    "Gallant Strike (DFT-13) + Terrin — new Aetherdrift-specific character with no other anchor cards; below sub-node threshold (zero corpus prints depicting Terrin directly).",
+    "Dracosaur Auxiliary (DFT-122) + Bonehoard Dracosaur (LCI-134) cross-print pair — only Dracosaur Auxiliary is in corpus (Bonehoard absent from inventory); below 1:1-edge endpoint requirement."
+  ],
+  "prose_pattern_observations": "Pattern (NOT graduated to vocabulary): both BFZ + OGW common-uncommon resistance-roster slices are now branching to the same faction parent at roughly the rate Wizards designed the Ally-resistance cycle. Across BFZ + OGW + ZNR (twelve corpus cards), the Ally-keyword + Rally + Support + Cohort + Convergence mechanical-tier cluster all routes to one anchor without further nodes. The faction-parent absorbs the within-block cohesion. Surfacing as prose observation, not as a graph object."
+}

@@ -45,6 +45,13 @@ The cohort also dual-codes the set's broader Delirium / graveyard-matters subthe
 
 Note: the corpus also includes a sibling **DSK improvised-survival-grammar cohort** (Baseball Bat + Conductive Machete + Frantic Strength) — the **survivors' tools** cohort, structurally the *opposing pole* of the toy-horror cohort (survivors wield improvised weapons; the haunted house wields corrupted toys). The two cohorts together anchor the set's predator-vs-prey vocabulary at the artifact / equipment layer. If the survivor cohort is later commissioned as its own node (see Future-corpus section below), the two will edge as opposing-pole sibling cohorts in the same set.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[195-patchwork-beastie]]
+- [[24-patched-plaything]]
+- [[242-attack-in-the-box]]
 ## Canonical sources
 
 - **MTG Wiki — Duskmourn: House of Horror** — set page; documents the haunted-toy register as one of the set's source-material horror tropes alongside slashers, hauntings, and survivor-horror.

@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
+characters: ["hercule"]
 tags_hub: ["champion", "celebration", "tournament", "showman", "comedy", "mustache", "formal-wear", "victory", "pride", "arena", "suit"]
 tags_filter: ["solo", "mid-shot", "narrative", "forward-facing", "male-figure", "anime-style"]
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-064-i-m-the-world-champion.png

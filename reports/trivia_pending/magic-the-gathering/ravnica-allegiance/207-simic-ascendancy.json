@@ -1,0 +1,37 @@
+{
+  "card_name": "Simic Ascendancy",
+  "game": "Magic: The Gathering",
+  "set": "Ravnica Allegiance",
+  "collector_number": "207",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "No flavor text on this card [Scryfall]. The Simic Combine in Ravnica Allegiance is the guild of biomantic engineering — combining nature and technology to accelerate evolution. The set's Simic mechanic is Adapt, which also places +1/+1 counters on creatures, and Simic Ascendancy feeds on any counter placement from any source. The card's win condition (20 growth counters at upkeep) mirrors the Simic philosophical frame of incremental, compounding biological improvement [Scryfall; magic.wizards.com: Ravnica Allegiance Mechanics].",
+      "sources": ["Scryfall", "magic.wizards.com: Ravnica Allegiance Mechanics"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 1,264 — a meaningful Commander inclusion, appearing in over 50% of Simic +1/+1 counter decks per EDHREC data (approximately 6,470 decks tracked) [WebSearch snippet: EDHREC Simic Ascendancy]. Established combo lines include Body of Research (which places a creature's library-count as +1/+1 counters, often enough to hit 20 in one shot) and Vorel of the Hull Clade doubling strategies. Market price $0.93 suggests it's accessible despite real competitive presence [Scryfall / Collectr CSV].",
+      "sources": ["Scryfall", "EDHREC via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Artist is listed as Izzy (Izzy Medrano), a frequent MTG collaborator. The card's depicted figure is unattributed to any named character — the vision pass confirmed no Zegana crown or other signature element is present. The unnamed figure is consistent with the Simic guild's institutional framing: the Ascendancy is a philosophy and a process, not a person [Scryfall; Vision pass anti-confab note].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Zegana, Utopian Speaker", "set": "Ravnica Allegiance", "note": "RNA Simic legendary; places +1/+1 counters and draws cards; primary Adapt commander who feeds Ascendancy"},
+    {"name": "Vorel of the Hull Clade", "set": "Dragon's Maze", "note": "Doubles counters on permanents; established combo commander with Simic Ascendancy"},
+    {"name": "Body of Research", "set": "Strixhaven: School of Mages", "note": "One-shot Ascendancy win condition; places library-count of counters on a creature"},
+    {"name": "Hadana's Climb", "set": "Rivals of Ixalan", "note": "Counter-placement enchantment; flips into a land; feeds Ascendancy while doubling counters"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

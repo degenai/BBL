@@ -30,6 +30,7 @@ setting: forest
 suspected_ip: Pancham
 ip_confidence: high
 ip_verified: true
+characters: ["pancham-line"]
 ---
 
 # Pancham (Cosmic Eclipse)

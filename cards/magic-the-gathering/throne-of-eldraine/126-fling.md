@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["goblin", "flight", "chaos", "red-cloak", "thrown", "comedy", "scream", "speed", "eldraine", "redcap", "aerial"]
+tags_filter: ["duo", "close-up", "action", "red-magic", "instant", "forward-facing"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/126-fling.png
 average_cost_paid: 0
 market_price: 0.18
@@ -29,6 +29,29 @@ oracle_text: As an additional cost to cast this spell, sacrifice a creature.\nFl
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: comedic
+time_of_day: day
+setting: other
 ---
 
 # Fling (Throne of Eldraine)
+
+## Vision
+
+![126-fling](../../_images/magic-the-gathering/throne-of-eldraine/126-fling.png)
+
+A small, grey-skinned creature — goblin or imp in appearance, with pointed ears, a wide open mouth showing teeth, and glowing red eyes — is caught mid-fling through the air. A bright red cloak or hood streams dramatically behind it, shredded at the edges from the speed of the throw. The creature's expression is wide-eyed and screaming. At the far right edge, a large hand is visible, suggesting the off-frame figure doing the throwing. Mountains are visible far below, indicating extreme altitude.
+
+**Subject:** A small goblin-like creature in a red hood and cloak, mouth open, tumbling through open air at high altitude
+
+**Composition:** close-up, action, figures: duo, facing: forward
+**Setting:** other, day, clear
+**Foreground:** Goblin or redcap in torn red cloak, screaming, mid-flight through open sky  *(palette: bright red, grey-blue skin, sky blue)*
+**Background:** Open sky; distant mountains below  *(palette: pale blue, white cloud, grey mountain)*
+**Mood / lighting:** comedic, ambient
+**Emotion read:** terror and chaos — mouth wide open, eyes panicked, cloak shredding behind
+**Objects:** red cloak, thrown projectile
+**Creatures:** goblin, redcap
+**Iconography:** flight, thrown-creature, red-cloak, scream
+**Genre cues:** fantasy, fairy-tale
+

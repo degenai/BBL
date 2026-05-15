@@ -44,6 +44,13 @@ The family-engineer-revolutionary thread is one of the most BBL-relevant single 
 
 For any BBL bundle that anchors on labor + rebellion + Avishkar + the Indigo-Revolution-era continuity, the Chandra ↔ Pia ↔ Aether Rangers throughline is the canonical lore-spine. The mother runs the post-revolutionary racing team; the daughter is the pyromancer-planeswalker who burned down half the Consulate before defecting to the Multiverse. The labor hub indexes through Pia; the rebellion hub indexes through both.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[120-chandra-s-pyrohelix]]
+- [[137-chandra-s-magmutt]]
+- [[138-chandra-s-pyreling]]
 ## Canonical sources
 
 - **MTG Wiki — Chandra Nalaar** (`https://mtg.fandom.com/wiki/Chandra_Nalaar`) — full character page; primary reference for biography, the Kaladesh-origin arc, the Gatewatch period, the post-Bolas continuity, and the queer-canonical Chandra-Nissa relationship Wizards has been progressively more open about since *Forsaken* (2019) and the *Magic Story* archive.

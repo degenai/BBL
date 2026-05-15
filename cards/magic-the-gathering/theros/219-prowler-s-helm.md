@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["stealth", "assassin", "helm", "dungeon", "darkness", "serpent", "thief", "prowler", "shadow", "rogue"]
+tags_filter: ["solo", "mid-shot", "narrative", "artifact", "colorless", "faces-away"]
 reference_image: cards/_images/magic-the-gathering/theros/219-prowler-s-helm.png
 average_cost_paid: 0
 market_price: 0.61
@@ -29,6 +29,28 @@ oracle_text: Equipped creature can't be blocked except by Walls.\nEquip {2}
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: grim
+time_of_day: indeterminate
+setting: dungeon
 ---
 
 # Prowler's Helm (Theros)
+
+## Vision
+
+![219-prowler-s-helm](../../_images/magic-the-gathering/theros/219-prowler-s-helm.png)
+
+A humanoid figure hugs the surface of a stone wall in what appears to be a dimly lit corridor or passage. The figure wears a distinctive helm or headgear with a glowing green serpentine or decorative element along the crest. The body is partially wrapped in pale cloth or wrappings. A blade is visible at the figure's side. The lighting is very low-key — mostly dark with greenish rim light from the helm. The posture is crouched and furtive, suggesting stealth.
+
+**Subject:** A hooded or helmeted humanoid figure pressed against a stone wall in a dim interior, holding a blade
+
+**Composition:** mid-shot, narrative, figures: solo, facing: away
+**Setting:** dungeon, indeterminate
+**Foreground:** Crouched figure pressed against stone wall; ornate helm with glowing green crest; blade at side  *(palette: dark grey, green-glow, pale wrap)*
+**Background:** Dark stone wall; faint reddish stain on wall surface  *(palette: dark grey, near-black, muted red)*
+**Mood / lighting:** grim, rim
+**Emotion read:** tense stillness — figure flattened against the wall, concealed and waiting
+**Objects:** helm, blade, stone wall
+**Iconography:** serpent-helm, stealth, darkness
+**Genre cues:** fantasy, greek-mythology
+

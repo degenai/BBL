@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["son-goku"]
 tags_hub: ["mentor", "legacy", "child", "passing-the-torch", "fist-bump", "solidarity", "warrior", "friendship", "gold", "reincarnation"]
 tags_filter: ["duo", "forward-facing", "mid-shot", "portrait", "female-figure", "anime-style", "suspected-ip"]
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-069-son-goku-uub-seeds-of-the-future.png

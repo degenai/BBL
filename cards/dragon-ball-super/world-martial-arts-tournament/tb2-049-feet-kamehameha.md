@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
+characters: ["son-goku"]
 tags_hub: ["kamehameha", "martial-arts", "kick", "golden-energy", "energy-blast", "technique", "combat", "acrobatic", "tournament", "power-move", "ki", "feet"]
 tags_filter: ["solo", "wide", "three-quarter", "action-mode", "anime-style", "dbscg"]
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-049-feet-kamehameha.png

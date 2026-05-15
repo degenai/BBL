@@ -1,0 +1,21 @@
+{
+  "edge_id": "wave80-e4-skip-with-receipts",
+  "shape": "skip",
+  "topology": "n/a",
+  "category": "discretionary-skip",
+  "description": "E4 skip per the wave-80 discipline brief's stated default. E2 (1:N attach RNA-177 + RNA-188 to orzhov-syndicate) and E3 (Potion-rule retrofit xenoverse-villains.md line 69) already shipped two clean structural moves. Brief: 'Default: skip if no clean basic move. Refusal-with-receipts preferred over performative additional edge.' No additional candidate cleared the basic-move bar without commissioning a new node (no Nodeley this wave per brief) or proposing new sub-shape vocabulary (wave-80 prohibition).",
+  "candidates_surveyed_but_declined": [
+    "Dalakos Crafter of Wonders (THB-212) — named legendary character, 1 corpus print, sub-threshold per the [[nicol-bolas]] / [[piccolo-jr]] / [[krillin]] 3-anchor commissioning rule. Stage future-wave trigger: when ≥2 additional Dalakos-canonical THB prints surface in corpus, commission solo character node.",
+    "Theros-pantheon extensions (Woe Strider Erebos-cult; Kragma Warcaller Mogis-cult) — would be valid 1:N attaches per the existing parent node, but would require a wave-79-vision+trivia-passed status check before committing. Defer to next wave when Theros enrichment status is verified by queue script rather than guessed.",
+    "Tithe Taker RNA-3 — referenced in both Grasping Thrull and Knight of the Last Breath Related cards as the 'fellow Orzhov RNA Afterlife common'. Likely belongs at orzhov-syndicate appears_on if vision+trivia passed; not verified this pass and the E2 attach already shipped two RNA Orzhov adds. Tithe Taker added to next-wave Orzhov audit queue.",
+    "Teysa Karlov RNA-212 — legendary Orzhov figure who doubles Afterlife triggers; referenced in Knight of the Last Breath Related cards as contextual commander. Likely solo character node candidate (single named character, Orzhov triarch with Wizards story coverage). Stage: when corpus has ≥3 Teysa-Karlov-self-depicting prints, commission solo node; until then, keep at orzhov-syndicate parent.",
+    "Mourning Thrull (Guildpact) — canonical thrull-creation flavor source cited in Grasping Thrull trivia. Not in BBL inventory; orphan node candidate if/when triviabot writes the canonical thrull-from-Orzhov-patriarch-shed-flesh lore anchor. Archive-orphan candidate, not Edgelord work."
+  ],
+  "files_modified": [],
+  "edgelord_mood": "satisfied",
+  "notes": [
+    "Brief's E4 default is skip-with-receipts; this sidecar IS the receipts. Future-wave trigger conditions for the declined candidates are surfaced for the janitor triage cycle.",
+    "Substrate counter unchanged: 84 nodes pre / 84 nodes post across all of wave 80 (E1 audit confirmed, E2 attached without commissioning, E3 retrofitted without commissioning, E4 skipped).",
+    "Triple-hub corpus roster unchanged at 5: aether-rangers + theros-pantheon + xenoverse-villains + kor + zendikari-resistance."
+  ]
+}

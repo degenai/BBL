@@ -1,0 +1,41 @@
+{
+  "card_name": "Archon of Falling Stars",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "2",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Theros Beyond Death (THB) released 2020-01-24 and returns to the Greek-mythology-inspired plane of Theros; the set's mechanical throughline is the Escape keyword, letting cards recur from the graveyard. Archons are divine constructs of white mana that enforce order on behalf of the gods [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The archon fell like a star from the sky, meeting the rising sun at the horizon's edge.\" — The Cosmogony [Scryfall]. The Cosmogony is a fictional Theran sacred text describing the creation of the cosmos; its appearance on multiple THB cards frames the set's mythology of death and return.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "When Archon of Falling Stars dies, it may return any enchantment from your graveyard to the battlefield — including Auras, which bypass targeting and can attach to anything you choose. This makes it a payoff for white enchantment-graveyard loops in Pioneer and Commander. EDHREC rank 20559 indicates niche Commander play [Scryfall, EDHREC].",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "Archon of Falling Stars was reprinted in Foundations Jumpstart (2024), the only paper reprint outside THB promos, confirming Wizards considers the enchantment-recursion trigger a durable teaching tool for new players [Scryfall prints].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Eidolon of Blossoms", "set": "Journey into Nyx", "note": "Enchantress payoff; Archon's recursion refills the hand-engine"},
+    {"name": "Starfield of Nyx", "set": "Magic Origins", "note": "Enchantment recursion complement in THB enchantment builds"},
+    {"name": "Setessan Champion", "set": "Theros Beyond Death", "note": "Same THB enchantress synergy cluster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

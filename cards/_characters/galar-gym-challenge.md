@@ -61,6 +61,22 @@ The league's signature Gym Leader cohort embodies the same shift in vocabulary: 
 
 The Sword-Shield version-asymmetric Gym pairings (Allister/Bea at Stow-on-Side, Melony/Gordie at Circhester) function as the league's structural feature, not a bug — version-exclusivity is the league formalizing two parallel championship brackets within one televised season. This is what BBL's bundle copy can lean on without inventing canon: the league is, in-canon, a designer-confirmed apparatus-of-spectacle dressed as a regional sporting tradition.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[146-185-allister]]
+- [[147-185-bea]]
+- [[154-185-leon--holofoil]]
+- [[157-185-nessa]]
+- [[158-185-opal]]
+- [[146-198-melony]]
+- [[55-73-kabu]]
+- [[163-189-kabu]]
+- [[161-192-milo]]
+- [[68-73-turffield-stadium]]
+- [[161-185-wyndon-stadium]]
+- [[153-185-league-staff]]
 ## Canonical sources
 
 - **Bulbapedia — Galar League / Gym Challenge** — primary institutional page; canonical reference for the annual-sporting-competition format, fixed-order eight major-division Gyms, Champion Cup at Wyndon Stadium replacing the Elite Four, Macro Cosmos sponsorship via Chairman Rose, Dynamax integration as a designer-stated league feature.

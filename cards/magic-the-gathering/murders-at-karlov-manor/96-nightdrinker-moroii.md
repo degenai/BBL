@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["vampire", "wings", "monster", "night", "flight", "ghost", "darkness", "horror", "storm", "predator", "undead"]
 tags_filter: ["mid-shot", "action", "solo", "forward-facing", "black-magic", "creature", "flying"]
+symbols: ["disguise"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/96-nightdrinker-moroii.png
 average_cost_paid: 0
 market_price: 0.04

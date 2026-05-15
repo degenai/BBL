@@ -18,10 +18,17 @@ market_price: 0.1
 market_price_as_of: 2026-05-14
 date_added: 2026-05-13
 last_seen: 2026-05-14
-art_match_confidence: low
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 manual_review_reason: Set 'Ravnica Allegiance' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 reference_image_source_url: https://cards.scryfall.io/png/front/b/c/bce2eef7-03a4-415f-8bb7-a29d50ce1b0f.png?1584831519
+artist: Filip Burburan
+art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/173-frenzied-arynx--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/c/bce2eef7-03a4-415f-8bb7-a29d50ce1b0f.jpg?1584831519
+oracle_text: Riot (This creature enters with your choice of a +1/+1 counter or haste.)\nTrample\n{4}{R}{G}: This creature gets +3/+0 until end of turn.
+image_width: 745
+image_height: 1040
+image_quality: high
 ---
 
 # Frenzied Arynx (Ravnica Allegiance)

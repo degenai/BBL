@@ -22,6 +22,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/3/0/30cace63-91c
 art_match_confidence: high
 needs_manual_review: false
 artist: Magali Villeneuve
+characters: [zendikari-resistance]
 art_crop_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/26-make-a-stand--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/0/30cace63-91ca-493c-b67f-740fbbf06370.jpg?1562904926
 flavor_text: For a moment they stood tall, all fear forgotten.

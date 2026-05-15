@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["authority", "magic", "gold", "centaur", "control", "armor", "courtyard", "law-enforcement", "chains", "warden", "guardian"]
 tags_filter: ["solo", "mid-shot", "action", "three-quarter", "green-magic", "white-magic", "multicolor-green-white", "creature-centaur", "disguise"]
+symbols: ["disguise"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/193-crowd-control-warden.png
 average_cost_paid: 0
 market_price: 0.08

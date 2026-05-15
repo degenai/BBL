@@ -54,3 +54,14 @@ A tall, lean humanoid figure stands in the center, arms raised with a short glow
 **Iconography:** bioluminescence, tentacles, glowing blade
 **Genre cues:** fantasy, biopunk
 
+## Trivia
+
+- **Set lore** — No flavor text `[Scryfall]`. The Simic Combine in RNA is the guild of biomantic engineering — combining nature and technology to accelerate evolution. The set's Simic mechanic Adapt also places +1/+1 counters, and Simic Ascendancy feeds on counter placement from any source. The win condition (20 growth counters at upkeep) mirrors the Simic philosophical frame: incremental, compounding biological improvement accumulates until it wins `[Scryfall; magic.wizards.com: Ravnica Allegiance Mechanics]`.
+- **Mechanical** — EDHREC rank 1,264 — meaningful Commander inclusion. Appears in over 50% of Simic +1/+1 counter decks tracked by EDHREC (approximately 6,470 decks). Established combo lines include Body of Research (places a creature's library-count as counters, often enough to hit 20 in a single cast) and Vorel of the Hull Clade doubling strategies `[EDHREC via WebSearch snippet; Scryfall]`. Market price $0.93 — accessible despite real competitive presence.
+- **Design** — Artist is Izzy (Izzy Medrano). The depicted figure is not attributed to any named character — the vision pass confirmed no Zegana crown or other signature element is present. The unnamed figure is consistent with the Simic guild's institutional framing: the Ascendancy is a philosophy and a process, not a person `[Scryfall]`.
+
+### Related cards
+- Zegana, Utopian Speaker (RNA) — RNA Simic legendary; primary Adapt commander who feeds Ascendancy with +1/+1 counters
+- Vorel of the Hull Clade (Dragon's Maze) — doubles counters on permanents; established combo commander with Simic Ascendancy
+- Body of Research (Strixhaven) — one-shot Ascendancy win condition; places library-count of counters on a creature
+- Hadana's Climb (Rivals of Ixalan) — counter-placement enchantment; flips into a land; feeds Ascendancy while doubling counters

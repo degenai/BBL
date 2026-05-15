@@ -419,17 +419,20 @@ def check_wikilinks(nodes: dict[str, dict]) -> list[dict]:
 
 def check_threshold(nodes: dict[str, dict], cards: dict[str, dict]) -> list[dict]:
     """Anchor count meets the cohort threshold for the node's kind.
-    Exemption: hubs flagged `brand_weight: foundational` are hand-curated per
-    `bbl-hubs-hand-curated` — their membership predicates on tag_signals
-    matches across the corpus, not an explicit appears_on list. Skip them."""
+    Exemption: hubs flagged `brand_weight: foundational` (or `foundational-meta`)
+    are hand-curated per `bbl-hubs-hand-curated` — their membership predicates on
+    tag_signals matches across the corpus (or on body wikilinks to other hubs for
+    meta-hubs), not an explicit appears_on list. Skip them."""
     issues: list[dict] = []
     for slug, n in nodes.items():
         kind = n["kind"]
         if kind == "artist":
             continue
         # Foundational hub exemption (Labor / Rebellion / Chinese Zodiac etc.)
+        # Plus hub-meta exemption (_triple-thesis = hub-of-hubs, anchored via
+        # body wikilinks from other layer-node bodies, not appears_on).
         brand_weight = n["fields"].get("brand_weight", "").strip().strip('"').strip("'")
-        if brand_weight == "foundational":
+        if brand_weight in ("foundational", "foundational-meta"):
             continue
         min_anchors = THRESHOLD[kind]
         anchors = len(n["appears_on"])

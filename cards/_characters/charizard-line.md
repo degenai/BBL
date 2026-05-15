@@ -45,6 +45,16 @@ The line is also the corpus's strongest **draftsmanship-continuity** anchor on t
 
 For BBL bundle work, the line offers two strong narrative threads: a **starter-as-life-companion** thread anchored on the tail-flame Pokedex canon (Charmander's vulnerability as the starter-choice's moral weight), and a **starter-line-as-evolutionary-arc** thread anchored on the type-shift on final evolution (the Fire-only base and middle stages giving way to Fire/Flying at apex, the species canonically adding flight and dragonhood to its identity at the line's terminal stage). The within-set Vivid Voltage triptych (023 Charmander + 024 Charmeleon + 025 Charizard, three adjacent collector numbers across a single Sword & Shield-era set) is the corpus's strongest single-set evolutionary-arc cohesion stack.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[46-charmander--moderately-played]]
+- [[18-147-charmander]]
+- [[023-185-charmander]]
+- [[19-147-charmeleon]]
+- [[024-185-charmeleon]]
+- [[025-185-charizard]]
 ## Canonical sources
 
 - **Bulbapedia — Charmander (Pokemon), Charmeleon (Pokemon), Charizard (Pokemon)** — primary per-species pages; canonical reference for the line's evolution conditions (level 16, level 36), the type-shift to Fire/Flying at Charizard, the tail-flame-as-life-force species canon, the Mega Evolution and Gigantamax variant forms, and the franchise-marquee status accumulated across the Pokemon series.

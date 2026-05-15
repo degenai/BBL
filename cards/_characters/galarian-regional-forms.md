@@ -49,6 +49,21 @@ The Galarian regional-forms cohort's most BBL-relevant property is that the coho
 
 The cohort also extends the Pokemon franchise's "region as character" thesis. The Galar region (modeled on the United Kingdom) becomes a setting whose specific environmental and cultural features are visible *in the species themselves* — the variants are the region's biographical fingerprint on the species line. This pairs structurally with the [[galar-gym-challenge]] node's institutional thesis: the gym challenge is Galar-as-institution, the regional-forms cohort is Galar-as-biome-and-culture. Together they anchor the two halves of the Galar region's BBL-relevant presence: the institutional apparatus on one side, the material-ecological substrate on the other.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[054-198-galarian-slowpoke]]
+- [[047-192-galarian-darumaka]]
+- [[043-189-galarian-darumaka]]
+- [[094-192-galarian-farfetch-d]]
+- [[126-192-galarian-meowth]]
+- [[199-264-meowth]]
+- [[035-189-galarian-mr-mime]]
+- [[036-189-galarian-mr-rime]]
+- [[037-192-galarian-mr-mime]]
+- [[078-192-galarian-corsola]]
+- [[099-189-galarian-slowbro-v--holofoil]]
 ## Canonical sources
 
 - **Bulbapedia — Regional form (Galarian Form section)** — canonical per-cohort page; documents the cohort's design scope, the Galarica-seed mechanism, the per-species adaptation framings, and the cohort's distinction from Alolan/Hisuian/Paldean variant cohorts.

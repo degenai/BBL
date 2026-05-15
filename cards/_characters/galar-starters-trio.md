@@ -36,6 +36,14 @@ Card art, oracle text, flavor text, and evolution-line semantics for the three G
 
 The Galar starters trio is the Generation VIII iteration of the canonical Pokemon first-partner-trio pattern (Grass / Fire / Water, three species, simultaneous-introduction cohort identity, three-stage evolution chain structure), with three load-bearing Galar-specific design-thesis elements. First, the British-Isles thematic frame: Sword & Shield's Galar region is modeled on Great Britain, and each final-stage starter encodes a culturally-British register — Rillaboom's Taiko drum reads as both Japanese folk-music heritage (Game Freak self-reference) AND as the Green Man symbol from British pagan iconography; Cinderace's footballer-rabbit reads as association football (the most-British team sport); Inteleon's secret-agent reads as British spy-thriller cinema (the Bond-and-Kingsman cultural register). Second, the rambunctious-vs-grace contrast across the three Stage-1 base forms: Grookey's percussive-energetic energy is in tension with Scorbunny's pure-speed-and-sprint energy is in tension with Sobble's timid-and-camouflage energy — a triangulated "rhythm / speed / stealth" base-form personality grid that resolves into "harmony-leadership / agility-competition / intelligence-stealth" at Stage 3. Third, the **Rapid Strike / Single Strike subtype split** in the Chilling Reign printings: Rillaboom, Sobble, and Drizzile are stamped Rapid Strike; Scorbunny is stamped Single Strike — encoding the Battle Styles meta-mechanic introduced one set earlier (Battle Styles, SWSH5, March 2021) directly onto the starter-trio TCG-card register. The cohort is structurally a parallel to the elemental-monkey-trio cohort but anchored on the standard Grass/Fire/Water starter axis rather than the Pansage-Pansear-Panpour trio's distributable-helper-monkey axis.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[018-198-rillaboom--holofoil]]
+- [[026-198-scorbunny]]
+- [[041-198-sobble]]
+- [[042-198-drizzile]]
 ## Canonical sources
 
 - **Bulbapedia — First partner Pokemon (Galar entries)** — canonical per-cohort documentation of the Galar Grass / Fire / Water starter trio, including the National Pokedex numbering scheme (810-812, 813-815, 816-818) and the three-stage evolution chain structure.

@@ -58,6 +58,16 @@ Cards that reference Valgavoth by name in flavor text, depict the consequences o
 
 **Artist-cohort adjacency** — Chris Cold illustrated Horrid Vigor (DSK-184) within the same Duskmourn visual register as Valgavoth, Harrower of Souls (DSC-6) and Dollmaker's Shop // Porcelain Gallery (DSK-4); the corpus card Horrid Vigor flags this artist-cohort link explicitly in its trivia. Not a Valgavoth-anchor on its own but materially supports the painterly horror visual language the character anchors.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[50-duskmourn-s-domination]]
+- [[126-betrayer-s-bargain]]
+- [[141-infernal-phantom]]
+- [[197-say-its-name]]
+- [[198-slavering-branchsnapper]]
+- [[206-wary-watchdog]]
 ## Canonical sources
 
 - **MTG Wiki — Valgavoth** (`https://mtg.fandom.com/wiki/Valgavoth`) — character page; primary reference for the moth-demon biography, the Ascension event timeline, and the Winter-contract betrayal.

@@ -46,6 +46,19 @@ Card art and flavor text for the six trio members across their TCG appearances: 
 
 The trio's most BBL-relevant property is that three layers of designer coordination stack into a single cohort: (1) the **type-triangle mechanic** (Grass / Fire / Water as the canonical Pokemon elemental rock-paper-scissors), (2) the **paired evolution structure** (base + evolved, six total species, with shared evolution mechanism — Stones — across all three pairs), (3) the **three-wise-monkeys cultural overlay** (a Japanese iconographic motif of moral self-restraint mapped onto a Pokemon design cohort). The trio is a designed lever for type-coverage Discrete Lair work (one Grass + one Fire + one Water that *are* each other) and for cultural-citation Discrete Lair work (a Pokemon depiction of the three wise monkeys as a complete artifact). Pansage's leaf-sharing-to-relieve-stress flavor reads as the speak-no-evil register softened to a healing gesture, which gives the trio its in-canon ethical posture: the wise monkeys not as punitive self-censorship but as creature-level care.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[12-147-pansage]]
+- [[22-147-pansear]]
+- [[36-147-panpour]]
+- [[006-189-pansage]]
+- [[007-189-simisage]]
+- [[026-189-pansear]]
+- [[027-189-simisear]]
+- [[042-189-simipour]]
+- [[037-264-pansear]]
 ## Canonical sources
 
 - **Bulbapedia — Elemental monkeys** — canonical per-trio page documenting the three-wise-monkeys design citation, the Stone-evolution shared mechanic, and the parallel naming convention.

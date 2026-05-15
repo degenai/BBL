@@ -1,0 +1,36 @@
+{
+  "card_name": "Bladebrand",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "110",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Bladebrand originated in Core Set 2020 (M20, 2019) before being reprinted in Ravnica Allegiance (2019), The List, Commander Legends (2020), Innistrad: Double Feature (2022), Innistrad: Midnight Hunt (2021), and Ravnica Remastered (2024). The Ravnica Allegiance printing ties the card to the Cult of Rakdos, whose flavor of theatrical cruelty matches the art and speaker. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"The pain of searing iron and razor edges pales beside the pleasure of performance.\" — Judith, the Scourge Diva. Judith is the Cult of Rakdos's grand dame and de facto public face on Ravnica, performing at clubs and street shows combining dark monologues with pain stunts. She privately coveted the adoration showered on the demon Rakdos himself. [Scryfall; WebSearch: Judith MTG Wiki via search snippet]",
+      "sources": ["Scryfall", "WebSearch: Judith MTG Wiki via search snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Giving any creature deathtouch until end of turn plus drawing a card for two mana is efficient: it turns any combat block into a trade and replaces itself. Commonly used in black Pauper decks that want to kill large creatures with small blockers. Legal in Pauper, Modern, Pioneer, Legacy, Vintage, and Commander. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Judith, the Scourge Diva", "set": "Ravnica Allegiance (RNA)", "note": "Flavor text speaker; legendary creature of the Cult of Rakdos"},
+    {"name": "Gift of Tusks", "set": "various", "note": "Comparable instant-speed creature-stat modifier that replaces itself"},
+    {"name": "Infuse with Vitality", "set": "various", "note": "Same deathtouch-grant instant archetype"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

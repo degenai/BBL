@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["scoundrel", "blade", "cloak", "villain", "assassin", "fog", "night", "feathers", "menace", "rogue", "noir", "shadows"]
 tags_filter: ["group", "mid-shot", "narrative", "three-quarter", "black-magic", "green-magic", "multicolor-black-green", "creature-elf-rogue", "deathtouch", "disguise"]
+symbols: ["disguise"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/225-rakish-scoundrel.png
 average_cost_paid: 0
 market_price: 0.04

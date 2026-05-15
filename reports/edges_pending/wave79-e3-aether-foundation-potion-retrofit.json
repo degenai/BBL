@@ -1,0 +1,32 @@
+{
+  "edge_id": "wave79-e3-aether-foundation-potion-rule-retrofit",
+  "shape": "node-edit",
+  "topology": "in-place-retrofit",
+  "category": "potion-rule-retrofit",
+  "target_node": {
+    "type": "character",
+    "path": "cards/_characters/aether-foundation.md",
+    "name": "Aether Foundation",
+    "line_retrofitted": "line 37 (functional ideology — corporate-philanthropic-cover-as-actual-apex-villain framing)"
+  },
+  "before": "This is the franchise's clearest articulation of *corporate-philanthropic-cover-as-actual-apex-villainy at the regional-charity scale* — the Galar precedent at the apex-corporate scale ([[macro-cosmos]] under Chairman Rose) is the more developed and more *institutionally-respected-throughout-most-of-the-storyline* version of the same shape, but Aether Foundation under Lusamine is the *founding* instantiation of the shape in the franchise's Generation VII (2016) and predates the Galar version by a full generation.",
+  "after": "Game Freak canonically authored the public-mission-as-charity / actual-mission-as-Lusamine's-Ultra-Beast-obsession institutional inversion at the Sun & Moon Act 3 reveal (Pokemon Sun and Moon, 2016); BBL reads this canonical-event as the *corporate-philanthropic-cover-as-apex-villainy at the regional-charity scale* curatorial overlay — the canonical-event is Game Freak's institutional-villain character-design, the overlay is BBL's apparatus-of-extraction-via-charity-front reading on top. The Galar precedent at the apex-corporate scale ([[macro-cosmos]] under Chairman Rose) is the more developed and more *institutionally-respected-throughout-most-of-the-storyline* version of the same shape, but Aether Foundation under Lusamine is the *founding* instantiation of the shape in the franchise's Generation VII (2016) and predates the Galar version by a full generation.",
+  "description": "Potion-rule retrofit, hercule.md precedent pattern. The 'franchise's clearest articulation' phrasing claimed Game Freak articulated the BBL apparatus-of-extraction thesis. They did not. They authored the institutional-villain-via-charity-front character-design at the Sun & Moon Act 3 reveal; BBL reads the apparatus-of-extraction-via-charity-front overlay on top of their canonical-event. The retrofit names this distinction explicitly: canonical-event = Game Freak's institutional-villain character-design; curatorial-overlay = BBL's corporate-philanthropic-cover-as-apex-villainy reading. The overlay is visible per Potion-rule discipline. Single-cluster-per-wave pacing respected. The Macro Cosmos sibling-precedent framing and the Generation-VII-founding-instantiation framing are preserved unchanged — only the overreach in the first sentence is softened.",
+  "citations": [
+    "[[_triple-thesis]] — Potion Rule section",
+    "[Bulbapedia: Aether Foundation — canonical Sun & Moon Act 3 reveal]",
+    "[Pokemon Sun and Moon (Game Freak, 2016) — primary canonical institutional-villain character-design]",
+    "[cards/_characters/hercule.md — wave 78 Potion-rule retrofit precedent pattern]"
+  ],
+  "files_modified": [
+    "cards/_characters/aether-foundation.md (line 37 functional ideology sentence)"
+  ],
+  "edgelord_mood": "enlightened-corrective",
+  "notes": [
+    "Single-cluster retrofit per the wave 77 audit's single-cluster-per-wave pacing rule. Hercule (wave 78) + Aether Foundation (this wave) = 2 of the 5 originally-identified retrofit candidates now done.",
+    "Remaining Potion-rule retrofit queue: piccolo-jr.md (multiple instances — line 24 'most structurally complete villain-to-stewardship trajectory' + line 50 'franchise's clearest single-image attestation' + line 42 BT1-045 print 'clearest stewardship-register in the Z roster'), xenoverse-villains.md line 69 'franchise's clearest case of an apparatus-of-bio-engineered-weapon-production'.",
+    "Piccolo-jr.md is the largest remaining retrofit surface (3 overreach sentences in one node) — recommend dedicated wave for that node alone.",
+    "Xenoverse-villains.md line 69 is the cleanest single-sentence remaining retrofit — recommend wave 80 if Potion-rule retrofit slot is in budget.",
+    "The retrofit preserves the canonical-evidence-grounded reading. No canonical-evidence claim is weakened; the overlay is named where it was previously implicit-as-canon."
+  ]
+}

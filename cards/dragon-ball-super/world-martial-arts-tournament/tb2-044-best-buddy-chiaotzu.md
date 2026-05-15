@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
+characters: ["crane-school-cohort"]
 tags_hub: ["friendship", "small", "round", "cheerful", "companion", "green", "mascot", "comic-relief", "buddy", "loyalty"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait", "anime-style"]
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-044-best-buddy-chiaotzu.png

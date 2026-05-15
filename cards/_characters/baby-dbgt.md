@@ -59,6 +59,17 @@ Baby's specific institutional features for the corpus are:
 
 This is what BBL's bundle copy can lean on without inventing canon: Baby is, in-canon, the last survivor of a Saiyan-perpetrated genocide who retroactively created his own creator, possesses the descendants of the genocidal race to weaponize their bodies against themselves, and culminates the operation with an inverted Spirit Bomb that turns Goku's signature moral grammar against the world that gave Goku to it. Five corpus cards anchor this arc. A future Discrete Lair on the Baby Saga earns its lore-aware buyer credibility without naming the thesis.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[bt4-002-baby-rampaging-great-ape-baby]]
+- [[bt4-018-baby-vengeance-unleashed]]
+- [[bt4-020-vow-revenge]]
+- [[bt4-021-revenge-death-ball]]
+- [[bt4-022-vengeful-onslaught]]
+- [[bt3-016-power-absorbing-luud]]
+- [[bt3-017-dr-myuu-under-baby-s-control]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Baby** (`https://dragonball.fandom.com/wiki/Baby`) — primary character page; canonical reference for the Tuffle Parasite biology, the Machine Mutant designation, the possession-arc progression (Goten → Gohan → Trunks → Vegeta), the Baby Vegeta apex form, and the Golden Great Ape transformation.

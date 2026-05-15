@@ -41,6 +41,14 @@ The line is also the corpus's strongest **literary-reference Pokemon-line preced
 
 For BBL bundle work, the line offers two strong narrative threads: a **wool-as-charge-storage cost-of-power** thread anchored on the species' Pokedex canon (the visible bald patches and lighthouse-tail beacon as the line's species-coordinated biology-as-cost-of-power motif), and a **literary-reference Pokemon-line / electric-sheep-as-PKD** thread anchored on the line's design-origin canon (Mareep as electric sheep, Ampharos as ampere-lighthouse, with the Philip K. Dick literary reading available for bundle copy that wants to lean fully into the post-industrial-pastoral framing). The Chilling Reign 047 + 048 within-set adjacent-collector-number pair is the corpus's strongest within-Pokemon-set evolution-line cohort placement to date, structurally parallel to the within-Vivid-Voltage Charmander-Charmeleon-Charizard 023+024+025 evolutionary triptych on the Pokemon side and to the within-set evolution-line designer-coordination convention generally. The cross-set CRE+DAA presence broadens the line's corpus footprint across two sets and confirms threshold (4 trivia-passed prints across 2 stages, with a 5th vision-only print pending).
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[047-198-mareep]]
+- [[047-198-mareep--reverse-holofoil]]
+- [[055-189-mareep]]
+- [[048-198-flaaffy]]
 ## Canonical sources
 
 - **Bulbapedia — Mareep (Pokemon), Flaaffy (Pokemon), Ampharos (Pokemon)** — primary per-species pages; canonical reference for the line's evolution conditions (level 15, level 30), the Electric typing retained across all three stages, the wool-as-charge-storage and lighthouse-tail-beacon flavor canon, and the species' competitive presence (Static / Plus / Mold Breaker abilities across the three stages, Mega Ampharos's secondary Dragon typing in Generation VI).

@@ -1,0 +1,32 @@
+---
+name: Ethan's Pinsir
+game: Pokemon
+set: Destined Rivals
+collector_number: 001/182
+rarity: Uncommon
+variance: Normal
+grade: Ungraded
+condition: Near Mint
+quantity: 1
+held_for_lair: 0
+bundles: []
+tags_hub: []
+tags_filter: []
+reference_image: cards/_images/pokemon/destined-rivals/001-182-ethan-s-pinsir.png
+average_cost_paid: 0
+market_price: 0.08
+market_price_as_of: 2026-05-14
+date_added: 2026-05-14
+last_seen: 2026-05-14
+reference_image_source_url: https://images.pokemontcg.io/sv10/1_hires.png
+art_match_confidence: high
+needs_manual_review: false
+artist: GIDORA
+flavor_text: This Pokémon clamps its pincers down on its prey and then either splits the prey in half or flings it away.
+oracle_text: Vise Grip (Grass) 20\nRallying Horn (ColorlessColorlessColorless) 70+: If any of your Ethan's Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 100 more damage.
+image_width: 733
+image_height: 1024
+image_quality: high
+---
+
+# Ethan's Pinsir (Destined Rivals)

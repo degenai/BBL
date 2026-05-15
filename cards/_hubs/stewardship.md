@@ -53,6 +53,14 @@ Each foundational hub carries a hidden one-word verb that names the political-ec
 
 Triangulation is deliberate — *produce / refuse / tend* covers the three Marxist verbs of work-engagement-with-the-world. Together they mirror [[Alex]]'s actual praxis: dirty-leftist labor-critique + Persona-5-anti-establishment-rebellion + on-the-ground-mutual-aid-organizer-stewardship. One curator's coherent political-aesthetic refracted into three retrieval-anchors.
 
+## Design Note
+
+This hub is **deliberately graph-invisible** in Obsidian view. The `tag_signals` listed above are an *informational* indirection — cards with overlapping `tags_hub` are *candidates* for Stewardship lair assembly, not auto-anchored members. There is no `appears_on:` or `anchored_cards:` field on this node, and there won't be.
+
+Why: rendering all tag-signal-matched cards as graph edges would balloon Stewardship to ~120 anchors (mostly drift — "guardian" alone matches 54 cards, most of which are bodyguards or wardens rather than commons-tenders). And more fundamentally — *cards are inventory, bundles are destructive*. When a Discrete Lair assembles, those cards leave the corpus on sale; any field pinning specific cards as canonical hub-anchors would be wrong the moment they ship. See `bbl-bundles-are-destructive-on-graph.md` (wave 81 P3 decision, 2026-05-14).
+
+The triple-thesis ([[_triple-thesis]]) is the root crystal; hubs stand on their own as narrative thesis-anchors; bundle-by-bundle assembly does the rest. `anchored_lairs:` is the right tier of relationship — bundle-level, not card-level — and survives the inventory churn.
+
 ## See Also
 
 - [[labor]] — sibling hub; labor is what stewardship preserves the commons against being reduced to

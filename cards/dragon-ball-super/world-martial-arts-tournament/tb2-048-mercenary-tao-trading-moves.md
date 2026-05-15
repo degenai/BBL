@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["crane-school-cohort"]
 tags_hub: ["assassin", "mercenary", "energy-sphere", "tournament", "villain", "paid-killer", "labor", "bald", "patterned-robe", "threat"]
 tags_filter: ["solo", "mid-shot", "action", "male-figure", "anime-style", "three-quarter"]
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-048-mercenary-tao-trading-moves.png

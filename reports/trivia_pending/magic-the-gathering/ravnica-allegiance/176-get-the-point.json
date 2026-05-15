@@ -1,0 +1,36 @@
+{
+  "card_name": "Get the Point",
+  "game": "Magic: The Gathering",
+  "set": "Ravnica Allegiance",
+  "collector_number": "176",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Vraska sees the grandeur in death but misses the hilarity.\" — Judith [Scryfall]. Two named Ravnica characters in one line: Vraska (Gorgon Planeswalker, assassin-guild figure with ties to the Golgari) and Judith (Rakdos Scourge Diva, legendary RNA-185). Judith's framing positions Rakdos violence as a critique of Golgari death-gravitas: Vraska has aesthetic reverence for death; Judith thinks that's missing the point. The pun in the card title is intentional [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Get the Point is a Dimir/Rakdos instant — Destroy target creature, Scry 1 — at common rarity in RNA. The Spectacle backdrop of Rakdos performances makes instant-speed removal doubly legible: this is an act, and the victim is the act [Scryfall]. Pauper-legal. EDHREC rank 24,960.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Steve Argyle, known for distinctive figure-rendering and dynamic compositional choices in Magic card art. The overhead-view pinned-figure composition is unusual and striking for a common-slot removal spell; the starburst projectile pattern creates a radial symmetry that plays against the horror of the subject matter [Scryfall].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Judith, the Scourge Diva", "set": "Ravnica Allegiance", "note": "The flavor-text speaker; RNA-185 legendary Rakdos commander"},
+    {"name": "Vraska, Golgari Queen", "set": "Guilds of Ravnica", "note": "The flavor-text subject; Golgari Planeswalker whose aesthetic view of death Judith is dismissing"},
+    {"name": "Price of Fame", "set": "Guilds of Ravnica", "note": "GRN Dimir legendary-creature removal instant; companion removal spell in the Ravnica block cycle"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

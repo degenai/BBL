@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
+characters: ["crane-school-cohort"]
 tags_hub: ["psychic", "energy", "power-up", "green", "small", "martial-arts", "symbol", "glowing", "fighter", "aura"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "action", "anime-style"]
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-056-toughened-up-chiaotzu.png

@@ -52,3 +52,13 @@ An abstract, body-horror-tinged composition: a tangle of slick dark blue and bla
 **Iconography:** tendrils, writhing-mass
 **Genre cues:** fantasy, body-horror, cosmic-horror
 
+## Trivia
+
+- **Set context** — Spontaneous Mutation originated in Eldritch Moon (EMN, 2016), the set depicting the Eldrazi Emrakul's corruption of Innistrad's flesh and minds. The mutation theme is native to EMN's central horror of a plane being physically reshaped by an Eldrazi titan. The CMR copy is its third reprint; also in Shadows over Innistrad Remastered (2023) and Innistrad Remastered (2025). `[Scryfall]`
+- **Flavor text** — "When the body turns, the mind soon follows." No speaker attributed. The line functions as both lore caption for Emrakul's corruption and a mechanic hint: as the graveyard fills (body turns), the -X/-0 debuff deepens (mind follows). `[Scryfall]`
+- **Mechanical reputation** — Flash at one blue mana makes this a combat trick that can drop a blocker's power to zero at instant speed. In self-mill or graveyard-heavy Pauper strategies, the -X/-0 scales quickly; the absence of -0/-Y means it never kills outright, only neutralizes offense. Legal in Pauper, Pioneer, Modern, Legacy, Vintage, and Commander. `[Scryfall]`
+
+### Related cards
+- Eldritch Moon (EMN) set — origin set; Emrakul's mutation-horror context grounds the card's theme
+- Mesmeric Fiend (various) — graveyard-count synergy context in Pauper blue-black self-mill
+- Vessel of Nascency (Shadows over Innistrad) — self-mill enabler in the same Innistrad block reprint cycle

@@ -49,6 +49,14 @@ The Macro Cosmos apparatus's specific institutional features are:
 
 This is what BBL's bundle copy can lean on without inventing canon: Macro Cosmos is, in-canon, a designer-confirmed corporate-aristocratic villainy apparatus dressed in three-piece suits, operating from an angular corporate headquarters tower, sponsoring the televised Champion Cup as its marquee product, and ultimately revealed in Act 3 as the actual apex-villain of the storyline whose apex-villain plot is *a corporate executive decision* rather than a criminal scheme. Bundle prose that names Macro Cosmos or Rose Tower by name earns lore-aware buyer credibility and lets Game Freak's own corporate-philanthropic-cover-as-apex-villainy framing do the thesis work without naming the thesis.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[168-189-rose]]
+- [[169-189-rose-tower]]
+- [[163-192-oleana]]
+- [[161-185-wyndon-stadium]]
 ## Canonical sources
 
 - **Bulbapedia — Macro Cosmos** — primary institutional page; canonical reference for the conglomerate's Galar-region energy-economy portfolio, the Rose Tower headquarters in Wyndon, the Champion Cup / Dynamax sponsorship framing, the Eternatus-summoning apex-villain arc, and the Rose-and-Oleana leadership structure.

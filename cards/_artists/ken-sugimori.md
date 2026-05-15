@@ -13,23 +13,24 @@ confidence: confirmed
 cross_medium: true
 appears_on:
   - pokemon/base-set-unlimited/46-charmander--moderately-played
-  - pokemon/evolutions/3-108-caterpie
-  - pokemon/evolutions/23-108-poliwag
-  - pokemon/evolutions/28-108-seel
-  - pokemon/lost-thunder/83-stunfisk
-  - pokemon/shining-legends/62-lillie
   - pokemon/burning-shadows/112-147-acerola
   - pokemon/burning-shadows/119-147-olivia
   - pokemon/burning-shadows/120-147-plumeria
-  - pokemon/guardians-rising/127-145-mallow
-  - pokemon/cosmic-eclipse/26-236-slugma
+  - pokemon/chilling-reign/153-198-siebold
   - pokemon/cosmic-eclipse/193-236-guzma-hala
   - pokemon/cosmic-eclipse/198-236-mallow-lana
   - pokemon/cosmic-eclipse/208-236-will
-  - pokemon/chilling-reign/153-198-siebold
+  - pokemon/cosmic-eclipse/26-236-slugma
+  - pokemon/evolutions/17-108-growlithe
+  - pokemon/evolutions/23-108-poliwag
+  - pokemon/evolutions/28-108-seel
+  - pokemon/evolutions/3-108-caterpie
+  - pokemon/guardians-rising/127-145-mallow
+  - pokemon/hidden-fates/13-68-staryu
+  - pokemon/lost-thunder/83-stunfisk
+  - pokemon/shining-legends/62-lillie
   - pokemon/unified-minds/5-236-shroomish
-  - pokemon/vivid-voltage/154-185-leon--holofoil
-related_hubs: []
+  - pokemon/vivid-voltage/154-185-leon--holofoilrelated_hubs: []
 notes: |
   Ken Sugimori (杉森建, born January 1966, Tokyo) is co-founder of Game Freak,
   art director and lead character designer for the Pokemon franchise since
@@ -119,6 +120,29 @@ These thesis frames are independent of [[labor]] (the Sakuma bridge); Sugimori's
 - `cards/pokemon/lost-thunder/83-stunfisk.md` — in-corpus trivia entry (wave 29) that captured the original Sugimori-as-franchise-art-director citation and is the primary in-corpus anchor for this node's biographical claim.
 - `cards/pokemon/evolutions/3-108-caterpie.md` — in-corpus trivia entry (wave 24/25) that captured the Sugimori-style-as-Evolutions-set-design-thesis citation.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[46-charmander--moderately-played]]
+- [[112-147-acerola]]
+- [[119-147-olivia]]
+- [[120-147-plumeria]]
+- [[153-198-siebold]]
+- [[193-236-guzma-hala]]
+- [[198-236-mallow-lana]]
+- [[208-236-will]]
+- [[26-236-slugma]]
+- [[17-108-growlithe]]
+- [[23-108-poliwag]]
+- [[28-108-seel]]
+- [[3-108-caterpie]]
+- [[127-145-mallow]]
+- [[13-68-staryu]]
+- [[83-stunfisk]]
+- [[62-lillie]]
+- [[5-236-shroomish]]
+- [[154-185-leon--holofoilrelated_hubs: []]]
 ## See also
 
 - [[sanosuke-sakuma]] — sibling Pokemon-side artist node; cross-medium portfolio at the trainer-class-NPC scope (Sakuma designed Galar NPC trainer classes). Sugimori's cross-medium portfolio operates at the franchise-art-director scope. Different scale, structurally parallel justification for the node. Sakuma anchors the [[labor]] hub bridge; Sugimori does not (the franchise-art-director register doesn't subordinate cleanly to a single thesis hub).

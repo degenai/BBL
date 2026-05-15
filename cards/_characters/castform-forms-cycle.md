@@ -34,6 +34,13 @@ Card art, oracle text, and flavor text for the four Castform forms across their 
 
 Castform is a four-form-of-one-species cohort built on a clean designer-coordinated lattice: one National Pokedex number (no. 351), one Ability that mediates form-change (Forecast in main series), one cultural-iconographic citation (teru teru bozu), four weather triggers (no-weather / sun / rain / hail) mapped to four primary types (Normal / Fire / Water / Ice) and four palette signatures. The cohort is a designed lever for **weather-themed Discrete Lair work** (Castform Normal + alternate-form prints as a four-card weather-set artifact, with optional anchor expansion through other weather-trigger Pokemon like Cherrim's Flower Gift or Politoed's Drizzle), and for **cultural-citation Discrete Lair work** (the teru teru bozu charm-doll as the Japanese folk-iconographic source visible across the four-form silhouettes). The Chilling Reign 2021 release is structurally important: it was the first English TCG release to print the complete four-form cycle simultaneously (Normal at 121, Sunny at 22, Rainy at 33, Snowy at 34), making the set itself the canonical-by-printing anchor for the cohort even though Castform's design dates to 2002.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[116-172-castform--reverse-holofoil]]
+- [[033-198-castform-rainy-form]]
+- [[034-198-castform-snowy-form]]
 ## Canonical sources
 
 - **Bulbapedia — Castform (Pokemon)** — canonical per-species page documenting the four-form structure, the Forecast Ability, and the weather-trigger form-change mechanic.

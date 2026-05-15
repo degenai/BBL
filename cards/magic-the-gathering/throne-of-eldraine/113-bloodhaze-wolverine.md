@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["wolverine", "fire", "beast", "forest", "animal", "fury", "predator", "wild", "flame", "snarl"]
+tags_filter: ["solo", "mid-shot", "action", "red-magic", "creature", "forward-facing"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/113-bloodhaze-wolverine.png
 average_cost_paid: 0
 market_price: 0.07
@@ -29,6 +29,28 @@ oracle_text: Whenever you draw your second card each turn, this creature gets +1
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: day
+setting: forest
 ---
 
 # Bloodhaze Wolverine (Throne of Eldraine)
+
+## Vision
+
+![113-bloodhaze-wolverine](../../_images/magic-the-gathering/throne-of-eldraine/113-bloodhaze-wolverine.png)
+
+A stocky, low-slung predatory animal — wolverine or mustelid in shape — crouches on a forest floor, mouth open wide in a snarl exposing teeth. From its face and the area around its head and shoulders, bright orange-red fire or flame energy radiates outward. The creature's fur is thick and dark brown. The forest behind is hazy with light filtering through trees. The animal's posture and open mouth project pure aggression.
+
+**Subject:** A wolverine or badger-like creature with flames emanating from its face and shoulders, crouching aggressively in a forest
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** forest, day, clear
+**Foreground:** Wolverine snarling with flames around its head; crouched on forest floor  *(palette: dark brown, orange-red fire, tan)*
+**Background:** Forest; pale light through trees  *(palette: grey-green, pale blue, brown)*
+**Mood / lighting:** action, ambient
+**Emotion read:** pure aggression — wide open mouth, body coiled to strike
+**Creatures:** wolverine, mustelid
+**Iconography:** fire, snarl, animal-fury
+**Genre cues:** fantasy, fairy-tale
+

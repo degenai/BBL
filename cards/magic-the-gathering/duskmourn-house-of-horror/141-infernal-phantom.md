@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["ghost", "phantom", "haunted-house", "fire", "poltergeist", "ruin", "destruction", "spirit", "horror", "victorian", "mansion", "claws"]
 tags_filter: ["solo", "wide-shot", "scene-mode", "forward-facing", "no-face", "red-magic", "creature-spirit", "indoor-scene", "action-pose"]
+symbols: ["eerie"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/141-infernal-phantom.png
 average_cost_paid: 0
 market_price: 0.07

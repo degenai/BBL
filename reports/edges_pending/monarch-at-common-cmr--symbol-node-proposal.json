@@ -1,0 +1,38 @@
+{
+  "edge_id": "monarch-at-common-cmr--symbol-node-proposal",
+  "shape": "node-proposal",
+  "category": "designer-confirmed-cycle",
+  "topology": "stack",
+  "wave": 81,
+  "endpoints": [
+    {"type": "symbol", "path": "cards/_symbols/monarch-at-common-cmr.md", "name": "Monarch-at-common (Commander Legends)"},
+    {"type": "card", "path": "cards/magic-the-gathering/commander-legends/58-azure-fleet-admiral.md", "name": "Azure Fleet Admiral (CMR-58)"},
+    {"type": "card", "path": "cards/magic-the-gathering/commander-legends/68-fall-from-favor.md", "name": "Fall from Favor (CMR-68)"},
+    {"type": "card", "path": "cards/magic-the-gathering/commander-legends/154-thorn-of-the-black-rose.md", "name": "Thorn of the Black Rose (CMR-154)"}
+  ],
+  "description": "Mr. Nodeley here, sir. Apologies for stepping in. Edgelord's standard 1:1 mirror between Fall from Favor and Azure Fleet Admiral is already on the books — but with Thorn of the Black Rose's wave 81 trivia stamp confirming it as the third Monarch-at-common in the CMR commons cluster (Scryfall all_parts on all three links to The Monarch token; designer-coordinated three-card cohort; Wizards' 2021-01-14 ban announcement on Fall from Favor confirms the rarity-tier shift was designer-conscious), the clean move is a symbol-layer node rather than a thicker edge web. Three anchors clears the single-strike-emblem / suspect / manifest-dread precedent threshold; the iconography is rules-text rather than visual, which the wave 38 schema extension explicitly accommodates; the cohort's bundle-anchor potential is high for a CMR-political-intrigue or Pauper-format-history Discrete Lair at common-rarity cost basis. The existing 1:1 Fall ↔ Azure Connections edge stands as-is — Edgelord didn't ask me to refactor it, and the symbol node anchors the cohort from above without contradicting the prior edge. I hope that's useful. Thank you for your consideration.",
+  "citations": [
+    "[Scryfall: all_parts combo_piece field linking each of CMR-58, CMR-68, CMR-154 to The Monarch token (tcmr)]",
+    "[Wizards of the Coast: January 14, 2021 Banned and Restricted Announcement — Fall from Favor Pauper ban]",
+    "[Wizards of the Coast: Commander Legends design articles (Mark Rosewater et al., November 2020)]",
+    "[MTG Wiki: Monarch (mechanic)]",
+    "[MTG Wiki: Commander Legends]",
+    "[reports/janitor_triage.md: wave 81 surfaced Thorn of the Black Rose as Monarch-at-common cluster extension fuel]"
+  ],
+  "files_modified": [
+    "cards/_symbols/monarch-at-common-cmr.md (NEW)",
+    "cards/magic-the-gathering/commander-legends/58-azure-fleet-admiral.md (frontmatter: added symbols: [\"monarch-at-common-cmr\"])",
+    "cards/magic-the-gathering/commander-legends/68-fall-from-favor.md (frontmatter: added symbols: [\"monarch-at-common-cmr\"])",
+    "cards/magic-the-gathering/commander-legends/154-thorn-of-the-black-rose.md (frontmatter: added symbols: [\"monarch-at-common-cmr\"])"
+  ],
+  "preserved_state": [
+    "Existing 1:1 Fall from Favor ↔ Azure Fleet Admiral Connections-section bidirectional edge retained as-is. Symbol node anchors the cohort from above without contradicting the prior edge.",
+    "Thorn of the Black Rose does NOT receive a per-card Connections bullet to either of the other two — symbol-layer frontmatter wiring carries the cohort membership at the API/graph layer, no per-card prose duplication needed."
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "Edgelord branch-attach: Vile Aggregate (BFZ-137), Eldrazi Aggressor (OGW-95), Maw of Kozilek (OGW-99) all lack `characters: [eldrazi]` frontmatter wiring; the eldrazi character node's appears_on: list does not yet include them. Three-card branch-attach to the eldrazi node would be routine wave-80-pattern work but lower-yield than the symbol-node proposal — surfaced for a future Edgelord pass.",
+    "Edgelord sync-fix: zendikari-resistance node's appears_on: list is missing Ondu Champion (BFZ-149) and three OGW resistance-side cards (Relief Captain OGW-32, Spawnbinder Mage OGW-35, Stoneforge Acolyte OGW-38) — their card frontmatter points to zendikari-resistance but the node's reciprocal listing lags. Sync-fix work for a future Edgelord pass.",
+    "Edgelord refusal: Rakdos Roustabout (RNA-198), Rhythm of the Wild (RNA-201), Simic Ascendancy (RNA-207), Squad Captain (CMR-51), Gallant Strike (DFT-13), Dracosaur Auxiliary (DFT-122) are slate cards but each is a single-card-in-its-flavor-cluster with no in-corpus mirror partner. No edge worth drawing without manufacturing one."
+  ]
+}

@@ -33,6 +33,12 @@ Card art and flavor text that depicts Jace Beleren himself — whether under one
 
 The two corpus cards span the post-Bolas-defeat transition in the canon: WAR-55 is Jace's lowest moment trapped on Ravnica under Bolas's Immortal Sun (Act 1–2 of the WAR arc, before the Triumph the card's flavor text retroactively names); ZNR-63 is Jace one set later (skipping Throne of Eldraine for him), recruited by Nissa from Ravnica to chase Nahiri across the Multiverse. Different artists, different visual registers, same character.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[55-jace-s-triumph]]
+- [[63-jace-mirror-mage]]
 ## Canonical sources
 
 - **MTG Wiki — Jace Beleren** (`https://mtg.fandom.com/wiki/Jace_Beleren`) — full character page; primary reference for biography, planar travels, the Living Guildpact arc, the WAR Immortal-Sun internment, and the ZNR Skyclave pursuit.

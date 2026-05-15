@@ -1,0 +1,94 @@
+{
+  "edge_id": "wave79-e4-zendikari-resistance-multi-triangle-meta-cycle-commission",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "designer-coordinated-cycle",
+  "node_proposed": {
+    "type": "character",
+    "path": "cards/_characters/zendikari-resistance.md",
+    "name": "Zendikari Resistance (BFZ + OGW multi-triangle meta-cycle)",
+    "related_hubs": ["labor", "rebellion", "stewardship"],
+    "related_characters": ["eldrazi", "kor", "iona"]
+  },
+  "endpoints_now_attached": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/battle-for-zendikar/129-kozilek-s-sentinel.md",
+      "name": "Kozilek's Sentinel (BFZ-129)",
+      "frontmatter_added": "characters: [zendikari-resistance, eldrazi]",
+      "anchor_register": "BFZ-triangle labor-corrupted apparatus (dual-anchored at eldrazi adversary-side)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/battle-for-zendikar/152-reckless-cohort.md",
+      "name": "Reckless Cohort (BFZ-152)",
+      "frontmatter_added": "characters: [zendikari-resistance]",
+      "anchor_register": "BFZ-triangle rebellion-clean Sea-Gate-survivor Ally-resistance"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/battle-for-zendikar/46-serene-steward.md",
+      "name": "Serene Steward (BFZ-46)",
+      "frontmatter_added": "characters: [zendikari-resistance]",
+      "anchor_register": "BFZ-triangle stewardship-clean white-magic protector-among-ruins"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/oath-of-the-gatewatch/97-immobilizer-eldrazi.md",
+      "name": "Immobilizer Eldrazi (OGW-97)",
+      "frontmatter_added": "characters: [zendikari-resistance, eldrazi]",
+      "anchor_register": "OGW-triangle labor-corrupted apparatus-of-denial-of-agency (dual-anchored at eldrazi adversary-side)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/oath-of-the-gatewatch/26-make-a-stand.md",
+      "name": "Make a Stand (OGW-26)",
+      "frontmatter_added": "characters: [zendikari-resistance]",
+      "anchor_register": "OGW-triangle rebellion-clean organized-last-stand-magical-dome"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/oath-of-the-gatewatch/14-affa-protector.md",
+      "name": "Affa Protector (OGW-14)",
+      "frontmatter_added": "characters: [zendikari-resistance]",
+      "anchor_register": "OGW-triangle stewardship-clean Affa-settlement-underground-refuge-defender"
+    }
+  ],
+  "description": "I'm sorry to bother you with such a large commission, sir, but I do think this one's warranted. The BFZ + OGW Eldrazi-invasion arc is canonically a Wizards-designer-coordinated two-set block per MTG Wiki's Battle-for-Zendikar-block page, and the corpus now contains two within-set three-card thesis-verb triangles within it — the BFZ triangle (Kozilek's Sentinel + Reckless Cohort + Serene Steward, commissioned in earlier waves) and the OGW triangle (Immobilizer Eldrazi + Make a Stand + Affa Protector, commissioned in wave 78). Both triangles cover the same three-thesis-verb axis: labor-corrupted apparatus + rebellion-clean organized-resistance + stewardship-clean territory-tender. The structural-finding is that Wizards canonically rendered the three-verb structure twice in sequence within one designer-coordinated block. This commission is the corpus's first MULTI-TRIANGLE-META-CYCLE node — a single faction-collective character-layer node that organizes two within-set triangles under one block-level cohesion frame. Distinct from cell-saga-apparatus (which is a thesis-stack-trivium, not a multi-triangle), distinct from baby-dbgt / xenoverse-villains / theros-pantheon (which are single-triangle or distributed-triple but not multi-triangle). Six anchors clearing the multi-triangle threshold; full triple-hub attribution at canonical-density (two-cards-per-verb, the densest triple-attribution in corpus). The Potion-rule discipline is observed throughout the node body — every structural-reading is named as BBL's overlay on top of Wizards' canonical-event. I hope this is useful. I think the bundler will want this anchor when the Eldrazi-Invasion-Resistance Discrete Lair commission lands; it makes the six-card two-act-arc composition canonically grounded.",
+  "citations": [
+    "[MTG Wiki: Battle for Zendikar block — canonical two-set designer-coordinated arc]",
+    "[MTG Wiki: Battle for Zendikar (set) — canonical BFZ arc-formation beat]",
+    "[MTG Wiki: Oath of the Gatewatch (set) — canonical OGW arc-continuity beat]",
+    "[MTG Wiki: Sea Gate — canonical resistance-organizational-center fall]",
+    "[MTG Wiki: Affa — canonical underground-refuge survivor settlement]",
+    "[MTG Wiki: Allies (mechanic) — canonical Ally-resistance coordinated-keyword]",
+    "[Wizards: Battle for Zendikar storyline archive]",
+    "[Scryfall: oracle_text + flavor_text on all 6 anchor cards]",
+    "[[_triple-thesis]] — meta-hub for the three-verb thesis-architecture",
+    "[[aether-rangers]] — single-cohort distributed triple precedent (wave 60)",
+    "[[theros-pantheon]] — single-cohort distributed triple precedent (wave 74)",
+    "[[xenoverse-villains]] — all-three-corrupted distributed triple precedent (wave 75)"
+  ],
+  "files_modified": [
+    "cards/_characters/zendikari-resistance.md (new node)",
+    "cards/magic-the-gathering/battle-for-zendikar/129-kozilek-s-sentinel.md (frontmatter: characters: [zendikari-resistance, eldrazi])",
+    "cards/magic-the-gathering/battle-for-zendikar/152-reckless-cohort.md (frontmatter: characters: [zendikari-resistance])",
+    "cards/magic-the-gathering/battle-for-zendikar/46-serene-steward.md (frontmatter: characters: [zendikari-resistance])",
+    "cards/magic-the-gathering/oath-of-the-gatewatch/97-immobilizer-eldrazi.md (frontmatter: characters: [zendikari-resistance, eldrazi])",
+    "cards/magic-the-gathering/oath-of-the-gatewatch/26-make-a-stand.md (frontmatter: characters: [zendikari-resistance])",
+    "cards/magic-the-gathering/oath-of-the-gatewatch/14-affa-protector.md (frontmatter: characters: [zendikari-resistance])",
+    "cards/_characters/eldrazi.md (related_characters extended: zendikari-resistance added)",
+    "cards/_characters/kor.md (related_characters extended: zendikari-resistance added)",
+    "cards/_characters/iona.md (related_characters extended: zendikari-resistance added)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "notes": [
+    "Substrate counter increments: 83 -> 84.",
+    "First multi-triangle meta-cycle node in corpus — structurally distinct from prior triple-attribution nodes (aether-rangers, theros-pantheon, xenoverse-villains) by virtue of organizing TWO within-set triangles under one cohesion-anchor.",
+    "Triple-hub attribution opens at full [labor, rebellion, stewardship] per the two-cards-per-verb canonical-density distributed-attribution.",
+    "Within-triangle Connections already wired bidirectionally for both triangles; this commission adds the across-triangle meta-cycle traversability layer at the block-level scope. No within-triangle Connections were modified — the existing six cards' Connections sections remain intact.",
+    "Dual-anchor pattern applied for Kozilek's Sentinel + Immobilizer Eldrazi: both cards canonically anchor at both the resistance-organizing-against-the-apparatus side (this node) AND the apparatus-side ([[eldrazi]]). The dual-anchor preserves the canonical adversary-coupling without conflating participants.",
+    "Future multi-triangle meta-cycle candidates surfaced as future-pass commissions: Innistrad Eldritch Moon block; original Zendikar / Worldwake / Rise of the Eldrazi three-set block; Ravnica Return-to-Ravnica three-set block. These are NOT commissioned at this pass — multi-triangle-per-invocation discipline holds at one.",
+    "Sibling-node-relationship-completeness: eldrazi.md + kor.md + iona.md all extended their related_characters to include zendikari-resistance, closing the bidirectional traversability at the related-node-pointer level."
+  ]
+}

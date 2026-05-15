@@ -44,6 +44,12 @@ Roshi's most BBL-relevant property is the canonical *mentor-via-concealment* / *
 
 This is what BBL's bundle copy can lean on without inventing canon: Master Roshi is the franchise's *foundational first-master* anchored across 35-plus years of Dragon Ball continuity, with a canonical dual-identity operating mode (open-master Turtle Hermit + concealed-master Jackie Chun) that anchors *both* the clean-stewardship register (Mafuba self-sacrifice; Kamehameha teaching) AND the corrupted-stewardship-by-mask register (Jackie Chun deliberate-concealment pedagogy). Bundle copy that leans on the *master-who-disguises-himself-to-defeat-his-own-student-so-the-student-stays-driven* canonical beat lands directly on Toriyama's 1985 design without inventing canon. Future Roshi-Saga and Turtle-School Discrete Lair work has the two TB02 prints as the cohesion anchor pair, with Master Shen (TB2-063), Mafuba (BT2-064), and the canonical-student prints (Future Martial Artist Son Goku TB2-052, Toughened Up Krillin TB2-053, the broader TB02 cohort) as composable supporting cards.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[tb2-057-master-roshi-martial-meister]]
+- [[tb2-058-unyielding-victory-jackie-chun]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Master Roshi** (`https://dragonball.fandom.com/wiki/Master_Roshi`) — primary character page; canonical reference for the Turtle Hermit role, the Turtle School lineage, the Kamehameha invention, the Jackie Chun tournament alias, the Mafuba deployment against King Piccolo, the canonical 300-plus-year age framing, and the cross-saga elder-mentor continuity.

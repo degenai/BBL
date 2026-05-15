@@ -23,7 +23,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Valera Lutfullina
 characters: ["agency", "orzhov-syndicate"]
-symbols: ["orzhov-signet"]
+symbols: ["orzhov-signet", "disguise"]
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/230-sanguine-savior--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/c/9cba5503-ba99-43d8-8062-66d905e0d86b.jpg?1706242243
 oracle_text: Flying, lifelink\nDisguise {W/B}{W/B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, another target creature you control gains lifelink until end of turn.

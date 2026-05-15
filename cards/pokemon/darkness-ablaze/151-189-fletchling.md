@@ -7,7 +7,7 @@ rarity: Common
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 2
+quantity: 3
 held_for_lair: 0
 bundles: []
 tags_hub: ["bird", "cherry-blossom", "spring", "pink", "nature", "small-creature", "perched", "serenity", "japan", "seasonal", "pastel", "firebird"]

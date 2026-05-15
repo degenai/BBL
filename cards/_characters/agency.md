@@ -72,6 +72,24 @@ The Agency's most BBL-relevant property is its **canonical thesis**: that *the g
 
 This is what BBL bundle copy can lean on without inventing canon: the Agency is, in-universe, a designer-confirmed *post-guild* institution — the cross-guild detective bureau that emerges when the ten-guild apparatus that defined Ravnica for two decades of game design stops working. The bundle prose for any MKM-anchored lair can name the Agency by name and let Wizards' actual story team's work do the thesis work. The Tithe bundle's apparatus-of-extraction thesis (Orzhov + Azorius) has its post-Phyrexian successor right here: the Agency, which extracts truth instead of money, and is *not yet* shown to be subject to the same critique. Whether the Agency is the redemption of institutional authority on Ravnica or merely its next form remains designer-open; future MKM-2 / Ravnica revisits may complicate it.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[38-agency-outfitter]]
+- [[42-burden-of-proof]]
+- [[51-curious-inquiry]]
+- [[54-eliminate-the-impossible]]
+- [[59-furtive-courier]]
+- [[63-living-conundrum]]
+- [[65-mistway-spy]]
+- [[113-case-of-the-burning-masks]]
+- [[124-expose-the-culprit]]
+- [[141-reckless-detective]]
+- [[193-crowd-control-warden]]
+- [[204-gadget-technician]]
+- [[230-sanguine-savior]]
+- [[239-undercover-crocodelf-b]]
 ## Canonical sources
 
 - **MTG Wiki — Ravnican Agency of Magicological Investigations** (`https://mtg.fandom.com/wiki/Ravnican_Agency_of_Magicological_Investigations`) — primary faction page; founders, leadership, membership roster, organizational thesis, the all-seeing-eye iconography, the post-Phyrexian-Invasion timeline.

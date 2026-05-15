@@ -1,0 +1,36 @@
+{
+  "card_name": "Brazen Freebooter",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "164",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Brazen Freebooter originated in Rivals of Ixalan (RIX, 2018), the conclusion of the Ixalan block, a pirate-and-dinosaur plane centered on warring factions competing to control the golden city of Orazca. CMR is its second reprint (also Jumpstart 2022). [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 3/3 for four mana that enters with a Treasure token is slightly above-rate for its cost when the Treasure is factored in as one-mana ramp. Scryfall's all_parts field lists the Treasure token as a related combo_piece. It is Pauper-legal and sees play in ramp-heavy or Treasure-synergy Pauper and casual formats. Legal in Pauper, Pioneer, Modern, Legacy, Vintage, and Commander. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Finders, keepers.\" No speaker attributed. Two words that function as both the pirate's ethos and a Treasure rules shorthand. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sailor of Means", "set": "Ixalan (XLN)", "note": "One-mana-cheaper Treasure-maker in the same pirate block"},
+    {"name": "Prosperous Pirate", "set": "various", "note": "Direct parallel Treasure-generating pirate design"},
+    {"name": "Goldspan Dragon", "set": "Kaldheim (KHM)", "note": "Flagship Treasure-doubler; Brazen Freebooter feeds the same archetype at common"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

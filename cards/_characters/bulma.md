@@ -50,6 +50,14 @@ This is the BBL-relevant register: **Bulma is the labor-and-engineering anchor t
 
 For any BBL bundle that anchors on labor + technology + the apparatus-of-extraction-or-engineering thesis, Bulma's three corpus prints form a usable cohesion stack. The Capsule Corporation tech-conglomerate framing also indexes the corporate-power-as-apparatus reading that the [[macro-cosmos]] / [[orzhov-syndicate]] family of nodes anchors on the antagonist side; Bulma is the protagonist-side equivalent — a heritable corporate-engineering institution that the franchise's heroes depend on without examining.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[bt4-013-dependable-mom-bulma]]
+- [[bt4-092-multimech-bulma]]
+- [[bt4-093-explorer-bulma]]
+- [[bt2-066-trunks-time-machine]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Bulma** (`https://dragonball.fandom.com/wiki/Bulma`) — primary character page; canonical reference for the Capsule Corporation inheritance, the Dragon Radar invention, the time machine engineering credit, the Vegeta marriage, and the Trunks / Bulla family lineage.

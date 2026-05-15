@@ -61,6 +61,13 @@ The Cinderella cycle's most BBL-relevant property is that Wizards designed it as
 
 This is one of the cleanest top-down homages Wizards has ever published, and Rosewater's Making Magic columns name it as such across two preview-cycle articles. For BBL the cycle anchors a `[[labor]]` adjacency through Wicked Guardian (forced domestic labor as the stepmother-stepdaughter relation, made literal in art and flavor) and a Discrete Lair candidate built around the *Tithe*-adjacent thesis: *the apparatus that turns a daughter into a scullery maid is the same apparatus, just smaller, dressed up as family.*
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[218-enchanted-carriage]]
+- [[69-turn-into-a-pumpkin]]
+- [[109-wicked-guardian]]
 ## Canonical sources
 
 - **Wizards of the Coast — Mark Rosewater, "Eldraine or Shine," Making Magic, 2019-09-09** — primary preview article; introduces ELD's top-down Grimms-and-Arthurian design and explicitly identifies Wicked Guardian as the stepmother-treats-stepdaughter-as-servant Cinderella moment. The corpus-trivia for Wicked Guardian cites this directly.

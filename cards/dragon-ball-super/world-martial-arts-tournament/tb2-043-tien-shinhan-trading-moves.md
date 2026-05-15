@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
+characters: ["crane-school-cohort"]
 tags_hub: ["martial-arts", "fighter", "warrior", "third-eye", "three-eyes", "bald", "power", "combat", "tournament", "energy-aura"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "action", "male-figure", "no-weapon"]
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-043-tien-shinhan-trading-moves.png

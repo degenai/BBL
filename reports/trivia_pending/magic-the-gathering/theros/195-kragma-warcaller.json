@@ -1,0 +1,36 @@
+{
+  "card_name": "Kragma Warcaller",
+  "game": "Magic: The Gathering",
+  "set": "Theros",
+  "collector_number": "195",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Kragma Warcaller is the tribal lord for Minotaurs in Theros (2013). On Theros, minotaurs are the devoted servants of Mogis, the god of slaughter and dark twin of Iroas (god of victory). Mogis takes the form of a two-headed minotaur and commands his herd to perpetual war and carnage [Scryfall; WebSearch snippet: MTG Wiki on Mogis].",
+      "sources": ["Scryfall", "MTG Wiki: Mogis, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"A warcaller merely brings the herd together. After that, the meat-hunger is all the encouragement they need.\" [Scryfall]. The phrase \"meat-hunger\" is a pointed lore detail: Theran minotaurs are described as carnivorous and driven by bloodlust, aligning them fully with Mogis's portfolio of violence and slaughter.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Kragma Warcaller gives all your Minotaurs haste and +2/+0 on attack, making it the offensive backbone of any Minotaur-tribal Commander list. It has never been reprinted (Theros 2013 remains its only printing), keeping its price modest but its card-pool age showing — newer Minotaur support from Ikoria and other sets has largely eclipsed it as a mechanical all-star [Scryfall prints, EDHREC rank 16325].",
+      "sources": ["Scryfall", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mogis, God of Slaughter", "set": "Born of the Gods", "note": "The patron deity of Theran minotaurs; Kragma serves this power structure"},
+    {"name": "Rageblood Shaman", "set": "Theros", "note": "Minotaur tribal companion — provides trample, Kragma provides haste/power"},
+    {"name": "Deathbellow War Cry", "set": "Theros Beyond Death", "note": "Minotaur tribal tutor in the same Mogis-herd register"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

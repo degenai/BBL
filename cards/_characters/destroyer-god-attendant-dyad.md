@@ -63,6 +63,15 @@ The dyad's specific institutional features within the corpus are:
 
 This is what BBL's bundle copy can lean on without inventing canon: the destroyer-god-attendant dyad is, in-canon, the divine command-tier of Dragon Ball Super's multiverse-cosmology, depicted across 5 Bandai-canonical BT1 launch-set cards spanning the U6 dyad (Champa + Vados) and the U7 dyad (Beerus + Whis). Bundle prose that leans on the *inverted-hierarchy labor-attends-management-and-does-the-work, management-takes-the-credit* canonical thesis lands directly on the canonical Battle of Gods + Universe Survival Saga apparatus-of-extraction reading. The dyad's narrative weight composes with [[universe-6-tournament-cohort]]'s mortal-roster-cohort node and the [[labor]] hub's apparatus-of-extraction axis as the *Dragon Ball Super divine command-tier* specific-canonical-instance.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[bt1-002-vados-aide-vados]]
+- [[bt1-006-scheming-champa]]
+- [[bt1-007-manipulating-god-champa]]
+- [[bt1-042-energy-boost-beerus]]
+- [[bt1-043-whis-judge-of-the-gods]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — God of Destruction** (`https://dragonball.fandom.com/wiki/God_of_Destruction`) — primary canonical reference for the Hakai-god / destroyer-god species, the twelve-universe cosmology, and the canonical destroyer-god-deploys-angel-attendant institutional structure.

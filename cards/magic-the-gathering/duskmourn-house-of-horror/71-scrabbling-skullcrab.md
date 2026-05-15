@@ -15,6 +15,7 @@ ip_confidence: none
 ip_verified: false
 tags_hub: ["skull", "crab", "doorway", "horror", "undead", "monster", "threshold", "carapace", "biological-horror", "nightmare"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "blue-magic", "creature-crab", "scene-mode"]
+symbols: ["eerie"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/71-scrabbling-skullcrab.png
 average_cost_paid: 0
 market_price: 0.24

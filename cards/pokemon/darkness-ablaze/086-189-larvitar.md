@@ -31,6 +31,7 @@ subject_known_ip: true
 suspected_ip: Larvitar (Pokemon)
 ip_confidence: high
 ip_verified: true
+characters: ["larvitar-line"]
 ---
 
 # Larvitar (Darkness Ablaze)

@@ -33,6 +33,13 @@ Card art and flavor text for the ten Duskmourn common dual lands depicting verna
 
 The unlucky-lands cycle's most BBL-relevant property is that its mechanical text and its flavor register are co-designed: the 13-or-less-life trigger formalizes triskaidekaphobia (the unlucky number 13) at the rules-text level, and the "They say..." opening across the cycle's flavor text formalizes the urban-legend mode at the prose level. The cycle reads as ten haunted-vernacular-place legends compressed into mana fixers — each card a specific kind of cursed location (carnival, forest, cornfield, sewer, cemetery, manor, campground, gorge, shack, lighthouse) that a Duskmourn-region storyteller would name. The "any player has 13 or less life" clause reads on the controller too, which means the cycle is also a designer-coordinated lever for life-payment / self-damage decks in Pauper and Modern. The cycle's Commander uptake is muted because 40-life starts keep the trigger out of reach for most of a game, per MTG Rocks's format-impact coverage.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[257-bleeding-woods]]
+- [[258-etched-cornfield]]
+- [[266-raucous-carnival]]
 ## Canonical sources
 
 - **MTG Wiki — Duskmourn: House of Horror** — set page; Cycles section enumerates the common dual-land cycle alongside the set's other cycles.

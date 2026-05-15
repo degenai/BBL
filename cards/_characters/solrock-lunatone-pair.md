@@ -36,6 +36,13 @@ Card art, oracle text, and flavor text for Solrock and Lunatone across their TCG
 
 The Solrock/Lunatone dyad is a two-species celestial-duality cohort built on a four-layer designer-coordinated lattice: (1) the **sun/moon iconographic duality** rendered as matched portrait-mode silhouettes (radial sun-disc vs crescent-moon) with type-coded palettes (warm amber-orange day vs cool purple-blue night), (2) the **Ruby/Sapphire version-exclusive distribution** that encoded the duality into the franchise's meta-mechanic of cross-version trading — the only way to own both species in a single Gen III save was to trade across cartridges, making the paired-design a *social* artifact rather than a *solo* one, (3) the **shared "Meteorite Pokemon" species classification and shared Meteor Falls origin** as a single in-canon lore anchor for both species (they aren't separate-origin Pokemon paired in marketing — they share a single creation event in the world), (4) the **TCG mechanical-interlock pattern** that translates the version-exclusive pair-bond directly into Ability dependency (Solrock's Resistance Shade requires Lunatone in play; Lunatone's Heal Block requires Solrock in play). The dyad is a designed lever for **Discrete Lair work themed on celestial duality, paired-design, version-exclusive Pokemon, or Meteorite/cosmic-origin Pokemon**, with the TCG mechanical-interlock providing a rare in-game-rules artifact of the paired-design thesis (most paired-design Pokemon — Plusle/Minun, Volbeat/Illumise, Lunatone/Solrock — express the pair only in flavor or version distribution, not in print rules; Solrock/Lunatone's mechanical interlock is the strongest TCG-rules expression of the version-exclusive design lever).
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[092-189-solrock]]
+- [[68-147-lunatone]]
+- [[072-189-lunatone]]
 ## Canonical sources
 
 - **Bulbapedia — Solrock (Pokemon)** and **Bulbapedia — Lunatone (Pokemon)** — canonical per-species pages documenting the Meteorite Pokemon classification, Meteor Falls origin lore, Ruby/Sapphire version-exclusivity, and the paired-design citation.

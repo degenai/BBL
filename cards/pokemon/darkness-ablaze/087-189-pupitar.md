@@ -31,6 +31,7 @@ subject_known_ip: true
 suspected_ip: Pupitar
 ip_confidence: high
 ip_verified: true
+characters: ["larvitar-line"]
 ---
 
 # Pupitar (Darkness Ablaze)

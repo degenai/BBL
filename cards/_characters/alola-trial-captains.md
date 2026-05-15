@@ -37,6 +37,14 @@ The Alola Trial Captains' most BBL-relevant property is that the cohort canonica
 
 The seven members' canonical-source frames also form a designer-coordinated **local-craft-and-vocation** cohort: Ilima is a Trainers' School graduate and the youngest cohort member, Lana is a Brooklet Hill fishing-family local, Mallow runs Aina's Kitchen family-restaurant, Kiawe performs traditional Alolan fire-dance and works at his family's Pa'u dance ranch, Sophocles is an observatory researcher and inventor, Acerola maintains the Aether House (an orphan-and-injured-Pokemon shelter) and is the last living member of an Alolan royal family, Mina is a traveling artist who closes Poni Island's Fairy-type trial in the Ultra version. Each Trial Captain's type specialty maps onto a non-league civilian vocation tied to the captain's home location — the cohort is framed in-canon as *senior local trainers with day jobs rooted in regional craft* rather than as full-time league bureaucrats. This is the structural parallel to the [[alola-elite-four]] cohort's *senior trainers with civilian vocations* framing: Trial Captains are the apprenticeship-tier *local-craft* model; Elite Four members are the league-summit *regional-craft* model; both tiers oppose the [[galar-gym-challenge]] cohort's *signed celebrity-athlete* model. The Alola Trial Captains and Alola Elite Four nodes together anchor the two adjacent tiers of Alola's three-tier league progression, with the Trial Captain tier explicitly framed as the apprenticeship and senior-local-trainer staging ground for league entry, the Elite Four tier as the league summit, and Acerola as the cohort's only canonical promotion across the two tiers within a single game generation.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[127-145-mallow]]
+- [[198-236-mallow-lana]]
+- [[112-147-acerola]]
+- [[113-132-acerola-s-mischief]]
 ## Canonical sources
 
 - **Bulbapedia — Trial Captain** — primary institutional page; canonical reference for the seven-member roster, per-Trial location enumeration, Totem Pokemon for each Trial, Z-Crystal reward mapping, and the cohort's distinction from the Gym Leader role used in all prior main-series Pokemon games.

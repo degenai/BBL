@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["minotaur", "axe", "charge", "warrior", "horde", "beast", "horns", "war", "rage", "bull", "monster"]
+tags_filter: ["duo", "mid-shot", "action", "multicolor-black-red", "creature-minotaur", "forward-facing"]
 reference_image: cards/_images/magic-the-gathering/theros/195-kragma-warcaller.png
 average_cost_paid: 0
 market_price: 0.17
@@ -29,6 +29,39 @@ oracle_text: Minotaur creatures you control have haste.\nWhenever a Minotaur you
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: day
+setting: other
 ---
 
 # Kragma Warcaller (Theros)
+
+## Vision
+
+![195-kragma-warcaller](../../_images/magic-the-gathering/theros/195-kragma-warcaller.png)
+
+Two minotaurs — large, muscular, bull-headed humanoids with prominent curved horns — are caught mid-charge across a grassy plain. The foreground minotaur is the larger of the two: heavily muscled, mouth open in a roar, one hand raised holding a large axe. Its fur is matted and grey-brown. The second minotaur follows closely behind, also in full run. The background is overcast sky and distant rocky formations. The scene communicates a war herd in motion.
+
+**Subject:** Two minotaurs charging across open terrain; the larger foreground minotaur raises an axe
+
+**Composition:** mid-shot, action, figures: duo, facing: forward
+**Setting:** other, day, calm
+**Foreground:** Large minotaur mid-charge, axe raised overhead; second minotaur behind  *(palette: grey-brown, muted purple-skin, tan)*
+**Background:** Open plain; overcast sky; distant cliffs  *(palette: grey, green, pale blue)*
+**Mood / lighting:** action, ambient
+**Emotion read:** savage aggression — open roar, full sprint, weapon raised
+**Objects:** axe
+**Creatures:** minotaur
+**Iconography:** horns, axe, charge, war-herd
+**Genre cues:** fantasy, greek-mythology
+
+## Trivia
+
+- **Set context** — Kragma Warcaller is the Minotaur tribal lord for original Theros (2013). On Theros, minotaurs are devoted servants of Mogis, god of slaughter and dark twin of Iroas (god of victory). Mogis takes the form of a two-headed minotaur and commands his herd to perpetual war and carnage `[Scryfall; MTG Wiki: Mogis, via WebSearch snippet]`.
+- **Flavor text** — "A warcaller merely brings the herd together. After that, the meat-hunger is all the encouragement they need." `[Scryfall]`. "Meat-hunger" is a pointed lore term: Theran minotaurs are described as carnivorous and driven by bloodlust, aligning them fully with Mogis's portfolio of violence and slaughter.
+- **Design** — Kragma Warcaller has never been reprinted — its 2013 Theros printing remains the only one. EDHREC rank 16325 reflects modest Commander adoption; newer Minotaur support from later sets has expanded the tribal pool but not displaced the Warcaller's role as the haste-and-power lord in dedicated Minotaur lists `[Scryfall prints, EDHREC]`.
+
+### Related cards
+- Mogis, God of Slaughter (Born of the Gods, no. 151) — the patron deity of Theran minotaurs; Kragma serves this power structure
+- Rageblood Shaman (Theros, no. 152) — Minotaur tribal companion providing trample where Kragma provides haste and power
+- Deathbellow War Cry (Theros Beyond Death, no. 86) — Minotaur tribal tutor in the same Mogis-herd register

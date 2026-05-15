@@ -1,0 +1,42 @@
+{
+  "card_name": "Grasping Thrull",
+  "game": "Magic: The Gathering",
+  "set": "Ravnica Allegiance",
+  "collector_number": "177",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "The flavor text — \"Debt due! Debt due!\" The thrull's screeching makes children flinch and debtors quail. \"Debt due!\" — is the entirety of the card's text block outside of oracle rules [Scryfall]. No speaker attribution is given, which is itself lore-meaningful: the thrull has no individual identity, only a function.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Orzhov thrulls are created from magically animated dead flesh — specifically the shed physical remains of guild patriarchs ascending to spirithood. The Mourning Thrull flavor text (Guildpact, 2006) makes this explicit: \"During their ascent to spirithood, patriarchs of Orzhova shed both flesh and emotion. This earthly slag is collected and formed into thrulls.\" The Grasping Thrull is therefore literalized debt collection: a body reconstituted from discarded elite flesh, sent to chase the living [Scryfall: Mourning Thrull; WebSearch snippet via MTG Wiki Fandom].",
+      "sources": ["Scryfall: Mourning Thrull", "MTG Wiki Fandom via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Ravnica Allegiance (RNA) released January 25, 2019, and is the second set of the Guilds of Ravnica block, focused on the Orzhov, Rakdos, Gruul, Azorius, and Simic guilds. Grasping Thrull carries the Orzhov guild's RNA mechanic Afterlife alongside its enter-the-battlefield drain effect — it bleeds the opponent on arrival and potentially again through Afterlife on death [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Grasping Thrull is a Pauper-legal common with EDHREC rank 24,363 — low Commander inclusion reflecting its status as a Limited role-player rather than a constructed staple. Its value is in the guaranteed 2-damage drain on entry, which made it a draft-format finisher in RNA Limited [Scryfall].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mourning Thrull", "set": "Guildpact", "note": "Flavor text establishes canonical thrull-creation lore: shed flesh of Orzhov patriarchs ascending to spirithood"},
+    {"name": "Tithe Taker", "set": "Ravnica Allegiance", "note": "Fellow Orzhov RNA common; carries Afterlife 1; shares debt-collection guild register"},
+    {"name": "Kingpin's Pet", "set": "Gatecrash", "note": "Earlier Orzhov flying drain creature; Tithe Drinker archetype predecessor; Orzhov-labor-corrupted thesis chain"},
+    {"name": "Orzhov Enforcer", "set": "Guildpact", "note": "Thrull-adjacent Orzhov enforcer; deathtouch + Afterlife predecessor mechanic design"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -45,6 +45,13 @@ Lopez's *Planeswalker's Guide* article is unusually direct about Avishkar's poli
 
 For BBL bundle copy this is gold. The labor hub's thesis is that labor is the thing that gets extracted by the apparatus; the rebellion hub's thesis is that organized refusal is labor's political verb; the Rangers are an in-universe case where labor and rebellion are coded into the same team's official mission statement. A discrete lair built around the Rangers' supporting cast can lean on Wizards' own canonical copy without having to invent the politics — the politics is already on the page.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[61-skystreak-engineer]]
+- [[59-sabotage-strategist]]
+- [[161-elvish-refueler]]
 ## Canonical sources
 
 - **MTG Wiki — Aether Rangers** (`https://mtg.fandom.com/wiki/Aether_Rangers`) — primary faction page; canonical reference for the "Depicted in" roster (Elvish Refueler, Loxodon Surveyor, Nimble Thopterist, Sabotage Strategist, Skystreak Engineer), the team's mixed-species composition (humans, elves, vedalken, dwarves, loxodons, merfolk), and the "several lower-division squadrons" that authorize non-legendary supporting-cast cards as canonical members.

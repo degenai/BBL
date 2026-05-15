@@ -7,7 +7,7 @@ rarity: Common
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
 tags_hub: ["vines", "jungle", "mystery", "hidden", "tropical", "forest", "nature", "entanglement", "camouflage", "eyes"]

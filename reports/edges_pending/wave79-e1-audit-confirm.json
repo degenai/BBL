@@ -1,0 +1,34 @@
+{
+  "edge_id": "wave79-e1-audit-confirm",
+  "shape": "audit",
+  "topology": "n/a",
+  "category": "free-move-audit",
+  "description": "E1 FREE audit. Substrate verified clean: 83 layer nodes pre-wave / 1818 cards / 0 drift. BFZ within-set triangle (129-kozilek-s-sentinel + 152-reckless-cohort + 46-serene-steward) bidirectionally wired with two-bullet-per-card Connections sections per docs/connections-standard.md triangle pattern; OGW within-set triangle (97-immobilizer-eldrazi + 26-make-a-stand + 14-affa-protector) bidirectionally wired with the same two-bullet-per-card pattern post-wave-78. Iona solo (wave 78) intact at 2 anchors with characters: [iona] frontmatter on OGW-21 + CMR-25. Hercule potion-rule retrofit (wave 78) precedent in place. No drift detected.",
+  "audit_findings": {
+    "triple_hub_corpus_roster": [
+      "aether-rangers (wave 60)",
+      "theros-pantheon (wave 74)",
+      "xenoverse-villains (wave 75)",
+      "kor (pre-existing)"
+    ],
+    "triangle_structures_verified": [
+      "BFZ within-set (3 cards, fully wired)",
+      "OGW within-set (3 cards, fully wired)"
+    ],
+    "iona_solo_state": "2 anchors, characters: [iona] frontmatter on both, related_characters: [eldrazi, kor] (extended to add zendikari-resistance during E4 move)",
+    "potion_rule_retrofit_queue": [
+      "piccolo-jr.md (3 instances: lines 24, 50, 42)",
+      "aether-foundation.md:37 (RESOLVED THIS WAVE in E3)",
+      "xenoverse-villains.md line 69",
+      "xenoverse-villains.md additional"
+    ],
+    "drift_count": 0
+  },
+  "files_modified": [],
+  "edgelord_mood": "satisfied",
+  "notes": [
+    "FREE move — no edits applied, audit-only.",
+    "Pre-wave substrate counter: 83 layer nodes. Post-wave projected: 84 (E4 commissions zendikari-resistance.md).",
+    "Audit clean. Proceed to E2/E3/E4."
+  ]
+}

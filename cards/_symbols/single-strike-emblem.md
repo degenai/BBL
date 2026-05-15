@@ -59,6 +59,13 @@ Strong candidates pending corpus acquisition (textual sources confirm the emblem
 - `cards/pokemon/battle-styles/139-163-urn-of-vitality.md` — in-corpus trivia entry documenting the recovery-engine role and the iconographic twinning with Scroll of Scorn.
 - `cards/pokemon/chilling-reign/154-198-single-strike-scroll-of-piercing.md` — in-corpus vision entry documenting the cohort's extension into the second SWSH-era set.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[133-163-single-strike-scroll-of-scorn]]
+- [[139-163-urn-of-vitality]]
+- [[154-198-single-strike-scroll-of-piercing]]
 ## See also
 
 - [[orzhov-signet]] — sibling symbol node from MTG/Ravnica; structural precedent. Both nodes anchor a designer-coordinated iconographic primitive whose graphic device marks faction-or-cohort membership across multiple cards. The Orzhov Signet marks Orzhov Syndicate institutional membership on Ravnica; the Single Strike emblem marks Single Strike battle-style cohort membership in Pokemon Sword & Shield-era TCG.

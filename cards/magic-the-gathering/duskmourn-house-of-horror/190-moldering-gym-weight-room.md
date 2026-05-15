@@ -28,7 +28,7 @@ oracle_text: When you unlock this door, search your library for a basic land car
 mood: horror
 time_of_day: twilight
 setting: indoor
-symbols: ["manifest-dread"]
+symbols: ["manifest-dread", "rooms"]
 ---
 
 # Moldering Gym // Weight Room (Duskmourn: House of Horror)

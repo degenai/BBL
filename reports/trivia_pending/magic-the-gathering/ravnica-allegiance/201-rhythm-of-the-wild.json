@@ -1,0 +1,37 @@
+{
+  "card_name": "Rhythm of the Wild",
+  "game": "Magic: The Gathering",
+  "set": "Ravnica Allegiance",
+  "collector_number": "201",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Some view Domri's unlikely ascent as a sign of Ilharg the Raze-Boar's imminent return.\" [Scryfall]. Domri Rade rose from a feral orphan in Ravnica's wilds to Gruul guildmaster by defeating Borborygmos — an ascent facilitated by Nicol Bolas manipulating the guilds. Ilharg the Raze-Boar is the Gruul deity whose return signals the End-Raze, a prophesied apocalyptic trampling of all of Ravnica's civilization. Ilharg did manifest during War of the Spark [WebSearch: Domri Rade / Ilharg MTG Wiki via multiple sources]. The vision pass refused an IP flag on the rider figure per anti-confab protocol (no visual identifier present for Domri specifically).",
+      "sources": ["Scryfall", "Card Kingdom Blog: MTG Character Profile Domri Rade via WebSearch snippet", "MTG Wiki: Ilharg via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Riot keyword (RNA Gruul mechanic) is mechanically embedded in this enchantment's oracle text. The Wizards RNA mechanics article frames Riot as the Gruul \"reacting to the icy political climate on Ravnica the best way they know how: rioting\" — giving creatures a choice of speed (haste) or size (+1/+1 counter) [magic.wizards.com/en/news/feature/ravnica-allegiance-mechanics]. Rhythm of the Wild extends Riot to ALL nontoken creatures, then layers uncounterability on top.",
+      "sources": ["Scryfall", "magic.wizards.com: Ravnica Allegiance Mechanics"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 203 — a top-tier Commander staple. The card appears in over 409,500 Commander decks per EDHREC data surfaced via WebSearch. Its two-axis design (uncounterable creatures + Riot) makes it broadly useful across any creature-heavy strategy, not just Gruul [WebSearch snippet: EDHREC Rhythm of the Wild]. Current market price $4.84 [Scryfall / Collectr CSV].",
+      "sources": ["Scryfall", "EDHREC via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Domri, Chaos Bringer", "set": "Ravnica Allegiance", "note": "Domri as planeswalker in the same set; the flavor text's subject; grants Riot to creatures"},
+    {"name": "Ilharg, the Raze-Boar", "set": "War of the Spark", "note": "The deity named in the flavor text; the End-Raze made manifest"},
+    {"name": "Gruul Spellbreaker", "set": "Ravnica Allegiance", "note": "RNA Gruul rare; the example creature in the Wizards Riot mechanic reveal article"},
+    {"name": "Rhythm of the Wild", "set": "Ravnica Remastered", "note": "Reprint in RVR 2024; confirms continued demand for the card's effect"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -55,6 +55,13 @@ The trio's specific institutional features within the corpus are:
 
 This is what BBL's bundle copy can lean on without inventing canon: the Dark Vassal trio is, in-canon, a designer-coordinated three-card Bandai sub-cycle within Colossal Warfare BT4 that depicts the canonical King Piccolo Saga warrior-children-cohort across adjacent collector numbers with a shared Bandai-card-name prefix and canonical chronological-deployment-order positioning. Bundle prose that leans on the *king-spawns-disposable-warriors-named-after-instruments* labor-template canonical thesis lands directly on Toriyama's 1976 design without inventing canon. The trio's labor-coded reading composes with the broader [[namekian]] race-level Dragon-Clan-vs-Demon-Clan moral-substrate-split thesis as the *specific-villain-apparatus-instance* of the broader race-level *moral-substrate-as-clan-choice* thesis.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[bt4-064-dark-vassal-tambourine]]
+- [[bt4-065-dark-vassal-cymbal]]
+- [[bt4-066-dark-vassal-drum]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — King Piccolo** (`https://dragonball.fandom.com/wiki/King_Piccolo`) — primary character page for the trio's progenitor; canonical reference for the spat-egg children production, the Demon Clan / Warrior-Type clan-membership, and the canonical King Piccolo Saga continuity.

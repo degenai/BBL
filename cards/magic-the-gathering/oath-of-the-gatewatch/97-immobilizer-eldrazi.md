@@ -22,6 +22,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/9/5/95d9c92d-8b1
 art_match_confidence: high
 needs_manual_review: false
 artist: Svetlin Velinov
+characters: [zendikari-resistance, eldrazi]
 art_crop_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/97-immobilizer-eldrazi--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/5/95d9c92d-8b1b-4adc-8015-d50e673b6321.jpg?1562925184
 flavor_text: It denied the Zendikari the chance to stand and die fighting.

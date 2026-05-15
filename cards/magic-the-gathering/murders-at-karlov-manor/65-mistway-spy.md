@@ -13,6 +13,7 @@ bundles: []
 characters: ["agency"]
 tags_hub: ["spy", "canal", "urban", "night", "rain", "stealth", "city", "alley", "ravnica", "green-skin", "detective", "noir"]
 tags_filter: ["solo", "mid-shot", "action", "three-quarter", "blue-magic", "creature", "flying", "disguise", "investigate"]
+symbols: ["disguise"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/65-mistway-spy.png
 average_cost_paid: 0
 market_price: 0.07

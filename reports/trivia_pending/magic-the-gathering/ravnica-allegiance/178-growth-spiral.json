@@ -1,0 +1,37 @@
+{
+  "card_name": "Growth Spiral",
+  "game": "Magic: The Gathering",
+  "set": "Ravnica Allegiance",
+  "collector_number": "178",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Cyclical and spiral patterns are the specialty of the Gyre Clade, which seeks to revitalize the cycles of nature.\" [Scryfall]. The Gyre Clade is one of the Simic Combine's internal research divisions (clades), specializing in cyclical biological systems. The flavor text grounds the card's effect (draw + land drop) in Simic ideology: information and resources flow in cycles, accelerating growth [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Growth Spiral was banned in Standard on August 3, 2020 — ramp decks using it made up 68% of the day-1 metagame at the Players Tour Finals. The Wizards announcement noted the ban was an \"early rotation\" since the card was slated to rotate naturally with Zendikar Rising that fall [magic.wizards.com: August 2020 Banned and Restricted Announcement via WebSearch]. It was never banned in Pioneer or Modern, where it remains legal. EDHREC rank 222 — one of the most-played RNA cards in Commander [Scryfall].",
+      "sources": ["Scryfall", "magic.wizards.com: August 2020 Banned and Restricted Announcement via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Seb McKinnon — who also painted Grasping Thrull in the same set. McKinnon's Simic aesthetic here (bioluminescent mushroom with a glowing eye, teal-green palette, spiral vines) is notably warmer and more organic than his Orzhov work on Grasping Thrull (grotesque, grey-gold horror register). Growth Spiral was also selected for the Strixhaven Mystical Archive (STA-61, released April 23, 2021) — a curated set of 63 historically significant instants and sorceries, confirming the card's design-legacy status [Scryfall; WebSearch: Strixhaven Mystical Archive].",
+      "sources": ["Scryfall", "WebSearch: Strixhaven Mystical Archive card list"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Explore", "set": "Worldwake", "note": "Functional predecessor: draw a card, land drop, but sorcery speed — Growth Spiral is the instant upgrade"},
+    {"name": "Wilderness Reclamation", "set": "Ravnica Allegiance", "note": "Banned alongside Growth Spiral in Standard August 2020; the two-card ramp engine that dominated the metagame"},
+    {"name": "Growth Spiral", "set": "Strixhaven Mystical Archive", "note": "Mystical Archive reprint (STA-61) confirming format-historical significance"},
+    {"name": "Uro, Titan of Nature's Wrath", "set": "Theros Beyond Death", "note": "The next era's Simic ramp engine that continued where Growth Spiral left off in Standard"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

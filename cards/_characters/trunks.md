@@ -20,6 +20,7 @@ appears_on:
   - dragon-ball-super/world-martial-arts-tournament/tb2-007-tiny-rivals-trunks
   - dragon-ball-super/union-force/bt2-063-father-son-galick-gun
   - dragon-ball-super/union-force/bt2-066-trunks-time-machine
+  - dragon-ball-super/world-martial-arts-tournament/tb2-026-awkward-situation-trunks
 related_hubs: []
 related_symbols: []
 related_characters: [xenoverse-villains, baby-dbgt, son-goku, vegeta, wrath-of-the-dragon-saga, namekian, son-gohan]
@@ -70,6 +71,23 @@ The character's specific institutional features across the corpus are:
 
 This is what BBL's bundle copy can lean on without inventing canon: Trunks is, canonically across Toriyama and Toei and Bandai, the franchise's most-instantiated time-displaced hero, present as three named incarnations in seven Dragon Ball Super Card Game prints in our corpus across two sets (Cross Worlds BT3 + Colossal Warfare BT4 + Mythic Booster MB-01 reprints). A future Trunks-themed Discrete Lair could anchor on the multi-incarnation framing without reaching past canon: the same canonical character rendered into three timeline-relations across three decades of franchise output, with the BBL corpus holding cards across all three.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[bt1-039-trunks]]
+- [[bt3-011-quick-rush-trunks]]
+- [[bt3-061-unyielding-justice-ss2-trunks]]
+- [[bt3-062-trunks-bridge-to-the-future-2018]]
+- [[bt3-112-unrelenting-assault-trunks]]
+- [[sd3-03-quick-blade-trunks]]
+- [[bt4-012-intensifying-power-trunks]]
+- [[bt4-023-trunks-iron-vow-trunks]]
+- [[sd2-05-chain-attack-trunks]]
+- [[tb2-007-tiny-rivals-trunks]]
+- [[bt2-063-father-son-galick-gun]]
+- [[bt2-066-trunks-time-machine]]
+- [[tb2-026-awkward-situation-trunks]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Trunks** (`https://dragonball.fandom.com/wiki/Trunks`) — primary disambiguation page; canonical reference for the multi-incarnation distinction and per-incarnation cross-links.

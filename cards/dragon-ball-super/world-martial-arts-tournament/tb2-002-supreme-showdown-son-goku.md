@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["son-goku"]
 tags_hub: ["super-saiyan", "transformation", "lightning", "warrior", "power", "aura", "tournament", "showdown", "saiyan", "combat", "determination", "peak"]
 tags_filter: ["solo", "close-up", "forward-facing", "portrait-mode", "male-figure", "anime-style", "super-rare"]
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-002-supreme-showdown-son-goku.png

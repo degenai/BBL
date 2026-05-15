@@ -7,12 +7,15 @@ universe: "Magic: The Gathering / Duskmourn (DSK, 2024-09-27)"
 canonical_source: "Wizards of the Coast — Mark Rosewater's Top of the Duskmourning Part 1 and Part 2 (2024-09); MTG Wiki — Manifest dread; Scryfall — keyword:'manifest dread' / oracletext:'manifest dread'"
 confidence: canonical
 appears_on:
+  - magic-the-gathering/duskmourn-house-of-horror/47-cursed-windbreaker
   - magic-the-gathering/duskmourn-house-of-horror/74-stay-hidden-stay-silent-0074
   - magic-the-gathering/duskmourn-house-of-horror/80-unnerving-grasp
+  - magic-the-gathering/duskmourn-house-of-horror/104-killer-s-mask
   - magic-the-gathering/duskmourn-house-of-horror/169-bashful-beastie
   - magic-the-gathering/duskmourn-house-of-horror/175-defiant-survivor
   - magic-the-gathering/duskmourn-house-of-horror/189-manifest-dread
   - magic-the-gathering/duskmourn-house-of-horror/190-moldering-gym-weight-room
+  - magic-the-gathering/duskmourn-house-of-horror/212-disturbing-mirth
   - magic-the-gathering/duskmourn-house-of-horror/244-conductive-machete
 related_hubs: []
 related_characters: [fear-of-cycle, dsk-toy-horror, dsk-survival-archetype]
@@ -32,7 +35,7 @@ For any BBL bundle on DSK mechanical cohesion, the suspense-over-shock register,
 
 ## Where it appears
 
-Confirmed in corpus (5 anchors — well past the ≥3 single-strike-emblem precedent threshold):
+Confirmed in corpus (10 anchors — well past the ≥3 single-strike-emblem precedent threshold; the largest DSK symbol-layer cohort):
 
 - **Stay Hidden, Stay Silent (0074)** (DSK-74, uncommon, Josu Hernaiz art) — `{2}{U}` Aura enchantment that taps and locks down the enchanted creature, with a `{4}{U}{U}` activated ability that shuffles the enchanted creature into its owner's library, then triggers manifest dread. Oracle text: *"...Shuffle enchanted creature into its owner's library, then manifest dread."* The mechanic's *swap-the-threat rendering* — the player removes one known creature and replaces it with one unknown 2/2 + a fresh graveyard pip.
 - **Unnerving Grasp** (DSK-80, uncommon, Jeremy Wilson art) — `{2}{U}` instant that returns a nonland permanent to its owner's hand and then triggers manifest dread. Oracle text: *"Return up to one target nonland permanent to its owner's hand. Manifest dread."* The mechanic's *bounce-and-replace rendering* — the blue tempo trade that hands you a 2/2 alongside the bounce. Strong synergy in any blue-green Delirium build.
@@ -72,6 +75,20 @@ The corpus may accumulate further manifest-dread-coded cards as DSK enrichment c
 - `cards/magic-the-gathering/duskmourn-house-of-horror/189-manifest-dread.md` — in-corpus trivia entry documenting the unique self-reference feature and the working-title rename history.
 - `cards/magic-the-gathering/duskmourn-house-of-horror/190-moldering-gym-weight-room.md` — in-corpus trivia entry documenting the Room-mechanic-plus-manifest-dread interaction.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[47-cursed-windbreaker]]
+- [[74-stay-hidden-stay-silent-0074]]
+- [[80-unnerving-grasp]]
+- [[104-killer-s-mask]]
+- [[169-bashful-beastie]]
+- [[175-defiant-survivor]]
+- [[189-manifest-dread]]
+- [[190-moldering-gym-weight-room]]
+- [[212-disturbing-mirth]]
+- [[244-conductive-machete]]
 ## See also
 
 - [[suspect]] — sibling symbol node (MTG/MKM); structural precedent for designer-coordinated mechanical-keyword primitives. Distinction: Suspect is a *creature-state marker* (menace + can't-block); Manifest Dread is a *keyword action* (top-of-library reveal + mill + face-down deploy). Both are mechanical-keyword primitives rather than visual primitives.

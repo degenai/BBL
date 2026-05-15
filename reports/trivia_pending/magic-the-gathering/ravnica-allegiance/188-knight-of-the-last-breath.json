@@ -1,0 +1,42 @@
+{
+  "card_name": "Knight of the Last Breath",
+  "game": "Magic: The Gathering",
+  "set": "Ravnica Allegiance",
+  "collector_number": "188",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Knight of the Last Breath is typed as a Giant Knight — an unusual creature type pairing. Giants in Ravnica lore are typically associated with the Gruul rather than the Orzhov, making this figure a guild-contracted outlier: a Giant pressed into Orzhov service as an enforcer [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card carries both Afterlife 3 and an activated sacrifice ability — two distinct ways to convert creatures into 1/1 flying Spirit tokens. The Wizards RNA mechanics article frames Afterlife as the Orzhov's expression of \"supernatural staying power\": even death is just another form of service [magic.wizards.com/en/news/feature/ravnica-allegiance-mechanics]. EDHREC rank 22,199 puts it in seldom-played territory for Commander, consistent with its role as a Limited uncommon.",
+      "sources": ["Scryfall", "magic.wizards.com: Ravnica Allegiance Mechanics"]
+    },
+    {
+      "category": "set-lore",
+      "text": "No flavor text on this card [Scryfall]. The absence is notable: Orzhov Syndicate cards in RNA frequently carry flavor text reinforcing the guild's extraction ideology. This one lets the rules text speak alone — sacrifice another creature, gain spirits, die and gain more spirits. The mechanic is the message.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Milivoj Ceran (RNA-188) depicts the knight in sealed-helm plate with no visible face — a design choice consistent across several Orzhov enforcer cards where anonymity reinforces the institutional-over-individual register of the guild. The Orzhov enforcers do not have names; they have functions [Scryfall].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Grasping Thrull", "set": "Ravnica Allegiance", "note": "Orzhov drain creature in the same set; both carry Afterlife; different cost tier in the sacrifice-for-spirits economy"},
+    {"name": "Tithe Taker", "set": "Ravnica Allegiance", "note": "Afterlife 1 Orzhov human; shares the RNA Orzhov spirit-token engine"},
+    {"name": "Teysa Karlov", "set": "Ravnica Allegiance", "note": "RNA legendary Orzhov figure who doubles Afterlife triggers; contextual commander for this card"},
+    {"name": "Massacre Girl", "set": "War of the Spark", "note": "Giant creature in same block cycle; contrast in guild allegiance — Rakdos vs Orzhov giant"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

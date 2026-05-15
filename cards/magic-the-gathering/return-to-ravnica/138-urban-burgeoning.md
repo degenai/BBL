@@ -55,3 +55,13 @@ The image is taken from a high aerial vantage looking down at two enormous cylin
 **Iconography:** nature reclaiming architecture
 **Genre cues:** fantasy, biopunk
 
+## Trivia
+
+- **Flavor text** — "The ruins of Old Prahv became a wildspace, although all birdsong was silenced by lingering Azorius magic." `[Scryfall]`. Old Prahv was the original Azorius Senate guildhall — a white-marble castle destroyed in Dissension (2006) when the crashed Boros fortress-ship Parhelion exploded at the site. By Return to Ravnica (2012), the ruins had become a wilderness preserve. The lingering Azorius magic silencing the birds is a small lore horror: legislative suppression outlasting its own architecture `[Scryfall; MTG Wiki Fandom: Prahv via WebSearch snippet]`.
+- **Set context** — Return to Ravnica (RTR) common, released October 5, 2012. Simic guild card, though Simic itself debuted in the companion set Gatecrash — Urban Burgeoning is a green Aura from the Simic color pair appearing in RTR as a cross-guild mechanics card. The effect (untap enchanted land during each other player's untap step) is a single-land pseudo-Seedborn Muse `[Scryfall]`.
+- **Mechanical** — EDHREC rank 13,997 — seldom played in Commander. The effect is powerful in theory but aura-on-land vulnerability (two-for-one blowout risk) keeps it out of most builds. Sees occasional Pauper Commander play in green-blue mana-acceleration strategies `[Scryfall legalities]`.
+
+### Related cards
+- Seedborn Muse (Legions) — the effect's spiritual predecessor: untap all permanents on each opponent's untap step
+- Utopia Sprawl (Dissension) — Simic land-aura from the original Ravnica block; mana-fixation cousin
+- New Prahv Guildmage (Return to Ravnica) — Azorius card set at New Prahv, the replacement guildhall built on the other end of the same district

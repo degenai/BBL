@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["gadget", "inventor", "workshop", "goblin", "drone", "steampunk", "tinkerer", "technology", "thopter", "labor", "craftsmanship", "goggles"]
 tags_filter: ["solo", "mid-shot", "narrative", "three-quarter", "blue-magic", "red-magic", "multicolor-blue-red", "creature-goblin-artificer", "disguise"]
+symbols: ["disguise"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/204-gadget-technician.png
 average_cost_paid: 0
 market_price: 0.11

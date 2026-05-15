@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["haunted", "cursed", "ghost", "clothing", "electricity", "fog", "possession", "animated-object", "horror", "gothic", "urban", "flying"]
 tags_filter: ["no-face", "none-figure", "mid-shot", "colorless-magic", "artifact", "equipment", "forward-facing"]
+symbols: ["manifest-dread"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/47-cursed-windbreaker.png
 average_cost_paid: 0
 market_price: 0.16

@@ -62,6 +62,14 @@ This hub is NOT:
 - Vietnamese / other regional zodiac variants. The [[pokemon-zodiac]] project is China-max for cultural-and-commercial alignment (AAPI diaspora collectors are predominantly Chinese tradition, TPC drops Year-of-Dragon Charizard never Year-of-Cat). BBL follows the same line.
 - A purely aesthetic "animals" hub. The zodiac framework is mythological / agrarian / cosmological. A bundle of cute cats doesn't fit; a bundle of agrarian-rat-pest cards does.
 
+## Design Note
+
+This hub is **deliberately graph-invisible** in Obsidian view. The `tag_signals` listed above are an *informational* indirection — cards with overlapping `tags_hub` are *candidates* for Chinese Zodiac lair assembly under the functional-agrarian criteria, not auto-anchored members. There is no `appears_on:` or `anchored_cards:` field on this node, and there won't be.
+
+Why: rendering all tag-signal-matched cards as graph edges would balloon Chinese Zodiac to ~115 anchors (mostly drift — "dragon" alone matches 39 MTG cards, most of which are Western heraldic dragons explicitly *orphaned* under the China-max ruleset). The auto-render would directly contradict the rubric's orphan-honest scholarship. And more fundamentally — *cards are inventory, bundles are destructive*. When a Discrete Lair assembles, those cards leave the corpus on sale; any field pinning specific cards as canonical hub-anchors would be wrong the moment they ship. See `bbl-bundles-are-destructive-on-graph.md` (wave 81 P3 decision, 2026-05-14).
+
+The triple-thesis ([[_triple-thesis]]) is the root crystal; hubs stand on their own as narrative thesis-anchors; bundle-by-bundle assembly does the rest. `anchored_lairs:` is the right tier of relationship — bundle-level, not card-level — and survives the inventory churn.
+
 ## See Also
 
 - [[pokemon-zodiac]] — the scholarly project this hub leans on; the rubric, ruleset, poster, and orphan footnotes already exist there

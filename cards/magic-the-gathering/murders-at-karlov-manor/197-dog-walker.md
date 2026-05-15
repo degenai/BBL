@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["dog", "animal", "alley", "chaos", "service-worker", "labor", "comedy", "urban", "street", "working-class", "leash"]
 tags_filter: ["group", "mid-shot", "action", "three-quarter", "red-magic", "white-magic", "multicolor-red-white", "creature-human", "disguise"]
+symbols: ["disguise"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/197-dog-walker.png
 average_cost_paid: 0
 market_price: 0.1

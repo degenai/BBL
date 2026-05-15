@@ -1,0 +1,37 @@
+{
+  "edge_id": "wave80-e2-rna-orzhov-afterlife-attach",
+  "shape": "1:N",
+  "topology": "branch",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/orzhov-syndicate.md", "name": "Orzhov Syndicate"},
+    {"type": "card", "path": "cards/magic-the-gathering/ravnica-allegiance/177-grasping-thrull.md", "name": "Grasping Thrull (RNA-177)"},
+    {"type": "card", "path": "cards/magic-the-gathering/ravnica-allegiance/188-knight-of-the-last-breath.md", "name": "Knight of the Last Breath (RNA-188)"}
+  ],
+  "description": "Two RNA Orzhov Afterlife cards that wave-79 enrichment passed (vision + trivia, ip_verified canonical Orzhov-watermark guild operatives) but that nobody attached to the parent faction node. Grasping Thrull is the Orzhov-thrull-from-debtor-flesh print (canonical Mourning Thrull lore citation in trivia); Knight of the Last Breath is the Orzhov-Giant-Knight Afterlife-3 enforcer (canonical sealed-helm anonymity + sacrifice-economy citation in trivia). Both cards already carry orzhov in tags_hub and Afterlife in oracle_text. The attach is mechanical — they belong, the node exists, the existing 10-card orzhov-syndicate appears_on roster was just missing two RNA prints that should have shipped with the 2019 RNA wave. Brief discipline: ONE 1:N attach operation, no new node, no new sub-shape vocabulary. Branch topology (parent fans to two new children), no chain or triangle commission.",
+  "citations": [
+    "[Scryfall: Grasping Thrull — RNA flavor text 'Debt due! Debt due!' + Afterlife reminder text]",
+    "[Scryfall: Knight of the Last Breath — RNA Afterlife 3 + sacrifice activated ability]",
+    "[Wizards: magic.wizards.com Ravnica Allegiance Mechanics — Afterlife as the Orzhov 'supernatural staying power' keyword]",
+    "[MTG Wiki: Orzhov Syndicate — guild membership includes thrulls (constructed labor) and Giant Knight contractors]",
+    "[cards/_characters/orzhov-syndicate.md — existing parent node, 10-card roster prior to this attach]"
+  ],
+  "files_modified": [
+    "cards/_characters/orzhov-syndicate.md (appears_on: +2 entries)",
+    "cards/magic-the-gathering/ravnica-allegiance/177-grasping-thrull.md (characters: [orzhov-syndicate])",
+    "cards/magic-the-gathering/ravnica-allegiance/188-knight-of-the-last-breath.md (characters: [orzhov-syndicate])"
+  ],
+  "edgelord_mood": "satisfied",
+  "other_candidates_considered": [
+    "1:1 mirror between Grasping Thrull and Knight of the Last Breath via ## Connections sections — Knight already has Grasping Thrull in its Related cards line 64 + Tithe Taker + Teysa Karlov; symmetric mirror was plausible but lower-yield than the parent-attach (parent-attach gives both cards graph-reachable from orzhov-syndicate's appears_on, which the 1:1 does not).",
+    "Theros-pantheon extensions (Woe Strider, Kragma Warcaller) — deferred, no evidence those cards are wave-79 vision+trivia-passed at the moment; would need a queue check before commissioning.",
+    "Dalakos Crafter of Wonders (THB-212) — single anchor named character, sub-threshold per [[nicol-bolas]] / [[piccolo-jr]] / [[krillin]] 3-anchor commissioning rule. Stage: when ≥2 additional Dalakos-canonical THB prints surface, commission solo character node."
+  ],
+  "notes": [
+    "Both cards are Orzhov-watermarked RNA commons/uncommons with Afterlife — the canonical 2019 guild-keyword. Per orzhov-syndicate node's What this node anchors section, 'guild operatives, undead vampires, thrulls (constructed labor), tax-collector knights' — both prints sit cleanly inside the existing membership predicate.",
+    "Grasping Thrull is the third Orzhov-thrull-from-debtor print at the parent node, joining Kingpin's Pet (GTC-173) and the implicit Mourning Thrull (Guildpact, not in inventory but trivia-cited).",
+    "Knight of the Last Breath is the second Orzhov-knight print at the parent node, joining Charity Extractor (WAR-81). The Giant Knight typing is the canonical contracted-Giant-as-Orzhov-enforcer flavor beat — institutional reach beyond the priesthood tier.",
+    "Substrate counter unchanged: 84 nodes pre / 84 nodes post. No new node, no node dissolved. Roster of triple-hub corpus unchanged. The 0-drift state holds.",
+    "No related_hubs change on orzhov-syndicate (already [labor]); no new triple-hub attribution; no new structural-primitive vocabulary. Pattern noted in prose, not graduated."
+  ]
+}

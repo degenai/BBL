@@ -50,6 +50,17 @@ The Azorius Senate's most BBL-relevant property is that its institutional logic 
 
 This is what BBL's bundle copy can lean on without inventing canon: the guild is, in-universe, a designer-confirmed apparatus-of-codification dressed as a court. Bundle prose that names the Azorius by name earns lore-aware buyer credibility and lets Wizards' own decades of guild-design work do the thesis work without naming the thesis.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[190-lawmage-s-binding]]
+- [[208-sphinx-of-new-prahv]]
+- [[231-azorius-locket]]
+- [[209-sphinx-s-insight]]
+- [[35-secure-the-scene]]
+- [[38-wanderer-s-strike]]
+- [[75-wall-of-runes]]
 ## Canonical sources
 
 - **MTG Wiki — Azorius Senate** (`https://mtg.fandom.com/wiki/Azorius_Senate`) — primary faction page; canonical reference for the guild's organizational structure (the Senate proper, the Lyev Column constabulary, the lawmage cadre, sphinx-jurist judicial offices), membership demographics, and the law-as-process framing.

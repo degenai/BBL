@@ -11,6 +11,8 @@ appears_on:
   - dragon-ball-super/union-force/bt2-017-hercule-buu-s-assistant
   - dragon-ball-super/world-martial-arts-tournament/tb2-001-hercule-bundle-of-confidence-hercule
   - dragon-ball-super/world-martial-arts-tournament/tb2-010-secret-treaty-hercule
+  - dragon-ball-super/world-martial-arts-tournament/tb2-011-heroic-duo-videl
+  - dragon-ball-super/world-martial-arts-tournament/tb2-064-i-m-the-world-champion
 related_hubs: [labor]
 related_symbols: []
 related_characters: [son-goku, universe-6-tournament-cohort, destroyer-god-attendant-dyad]
@@ -57,6 +59,15 @@ The character's specific institutional features within the corpus are:
 
 This is what BBL's bundle copy can lean on without inventing canon: Hercule is, in-canon, the franchise's most-developed labor-and-credit-uncoupling case study, depicted across three Bandai-canonical TCG prints spanning the Cell Games credit-theft register, the Buu Saga friendship-labor register, and the Secret Treaty credit-arrangement register. Bundle prose that leans on the *manufactured-celebrity-as-apparatus-of-extraction* canonical thesis lands directly on Akira Toriyama's own designer-coordinated commentary across three franchise eras.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[bt2-017-hercule-buu-s-assistant]]
+- [[tb2-001-hercule-bundle-of-confidence-hercule]]
+- [[tb2-010-secret-treaty-hercule]]
+- [[tb2-011-heroic-duo-videl]]
+- [[tb2-064-i-m-the-world-champion]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Mr. Satan** (`https://dragonball.fandom.com/wiki/Mr._Satan`) — primary character page; canonical reference for the World Martial Arts Champion title, the Cell Games credit-claim, the Buu Saga friendship arc, the Videl father-daughter relationship, the Universe Survival Saga emotional-anchor role, the canonical worship-by-Earth status post-Buu Saga, and the canonical name "Mark" per Toriyama commentary.

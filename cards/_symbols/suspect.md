@@ -64,6 +64,15 @@ The corpus may accumulate further Suspect-coded cards as MKM enrichment continue
 - **Wizards of the Coast — Murders at Karlov Manor Release Notes** (`https://magic.wizards.com/en/news/feature`, 2024-02-01) — primary release-notes source for the keyword reminder-text language and the rules-clarification edge cases.
 - **Scryfall** — `keyword:suspect` returns the canonical MKM-and-reprint Suspect roster; `oracletext:suspected` returns the cards interacting with the Suspected creature-state.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[54-eliminate-the-impossible]]
+- [[115-caught-red-handed]]
+- [[119-convenient-target]]
+- [[149-airtight-alibi]]
+- [[312-deadly-complication-showcase]]
 ## See also
 
 - [[orzhov-signet]] — sibling symbol node; structural precedent for designer-coordinated iconographic primitives at the symbol-layer level. Distinction: Orzhov Signet is a visual primitive; Suspect is a mechanical-keyword primitive.

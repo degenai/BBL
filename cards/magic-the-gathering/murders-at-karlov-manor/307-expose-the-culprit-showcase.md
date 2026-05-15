@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["robed-figure", "investigation", "reveal", "mystery", "masquerade", "cards", "crowd-witness", "ritual", "magic-burst", "noir", "detective", "candlelight"]
 tags_filter: ["group", "mid-shot", "forward-facing", "scene-mode", "showcase-frame", "white-magic", "instant", "multiple-figures"]
+symbols: ["disguise"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/307-expose-the-culprit-showcase.png
 average_cost_paid: 0
 market_price: 0.15

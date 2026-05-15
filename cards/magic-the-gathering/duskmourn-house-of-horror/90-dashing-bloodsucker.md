@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["vampire", "charming-villain", "goggles", "cobweb", "duskmourn", "horror", "fangs", "grin", "mushroom", "undead", "purple", "gadget"]
 tags_filter: ["solo", "close-up", "forward-facing", "black-magic", "creature", "portrait"]
+symbols: ["eerie"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/90-dashing-bloodsucker.png
 average_cost_paid: 0
 market_price: 0.1

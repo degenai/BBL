@@ -15,6 +15,7 @@ ip_confidence: none
 ip_verified: false
 tags_hub: ["ghost", "possession", "spirit", "scream", "horror", "supernatural", "electricity", "dread", "haunting"]
 tags_filter: ["duo", "mid-shot", "three-quarter", "white-magic", "creature", "eerie", "scene-mode"]
+symbols: ["eerie"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/81-unwilling-vessel.png
 average_cost_paid: 0
 market_price: 0.04

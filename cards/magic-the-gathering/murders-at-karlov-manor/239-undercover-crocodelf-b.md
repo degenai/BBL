@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["crocodile", "reptile", "fedora", "undercover", "noir", "hybrid-creature", "detective", "monster", "disguise", "swamp", "predator", "investigation"]
 tags_filter: ["solo", "mid-shot", "action", "forward-facing", "alternate-art", "green-magic", "blue-magic", "multicolor-green-blue", "creature-crocodile-elf"]
+symbols: ["disguise"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/239-undercover-crocodelf-b.png
 average_cost_paid: 0
 market_price: 0.06

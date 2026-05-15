@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["vegeta"]
 tags_hub: ["pride", "warrior", "rival", "restraint", "armor", "power", "respect", "tournament", "martial-arts", "antagonist"]
 tags_filter: ["solo", "mid-shot", "portrait", "arms-crossed", "male-figure", "anime-style", "faces-left"]
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-025-begrudging-respect-vegeta.png

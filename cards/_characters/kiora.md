@@ -38,6 +38,12 @@ A notable Wizards-canonical pattern: Kiora's signature weapon, the curved silver
 
 For BBL bundle copy, the cross-plane theft is gold. Kiora is canonically a planeswalker who stole from a god — not via clever trickster-archetype framing (Garruk-versus-Liliana) but through a direct act of cross-plane appropriation of a divine artifact. The labor / extraction / sovereignty thesis the [[orzhov-syndicate]] node and the [[chandra-nalaar]] node carry from below-the-system positions has a from-above counter-example here: the merfolk-citizen-of-Zendikar who appropriated divine power from the Theros pantheon and walked away from the consequences for years. The leviathan-summoner identity is the cover story; the bident-thief identity is the operational truth.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[232-kiora-behemoth-beckoner]]
+- [[58-kiora-s-dambreaker]]
 ## Canonical sources
 
 - **MTG Wiki — Kiora** (`https://mtg.fandom.com/wiki/Kiora`) — primary character page; biography from Zendikar / Tazeem origin through the Theros bident-theft through the WAR Ravnica arrival through the *Theros: Beyond Death* return.

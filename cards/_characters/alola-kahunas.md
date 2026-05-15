@@ -37,6 +37,12 @@ The four members' canonical-source frames also form a designer-coordinated **civ
 
 The **dual-role Hala-and-Olivia-on-the-E4** institutional feature is the cohort's canonical-design strongest signature. Per Bulbapedia's Alola Pokemon League page, Professor Kukui's founding charter for the Alola Elite Four canonically pulled two of its four members from the sitting Island Kahuna cohort — Hala (Melemele) and Olivia (Akala) hold E4 seats while continuing their kahuna duties. This is the *only* main-series Pokemon league whose founding charter explicitly cross-recruits senior Trainers from a parallel institutional tier within the same region. The cross-recruitment is structurally significant for the Alola three-tier league progression: the Kahuna tier is canonically continuous with the E4 tier at half-strength (two of four kahunas concurrently in both tiers; the other two kahunas, Nanu and Hapu, remain Kahuna-tier-only and do not hold E4 seats). Bundle prose that wants to lean on the "Alola league progression's cross-tier institutional logic" thesis indexes Hala, Olivia, and Acerola together as the canonical examples of cross-tier mobility designed into the Island Challenge — Acerola as the dynamic Trial-Captain-to-E4 promotion, Olivia and Hala as the static Kahuna-and-E4 concurrent dual-role.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[119-147-olivia]]
+- [[193-236-guzma-hala]]
 ## Canonical sources
 
 - **Bulbapedia — Island Kahuna** — primary institutional page; canonical reference for the four-member roster, per-island geographic mapping, Tapu-sanction selection process, per-Kahuna type specialization, and the cohort's distinction from the Gym Leader role used in all prior main-series Pokemon games.

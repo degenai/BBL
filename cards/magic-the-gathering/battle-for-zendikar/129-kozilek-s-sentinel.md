@@ -22,6 +22,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/7/8/786c6a0f-3f7
 art_match_confidence: high
 needs_manual_review: false
 artist: Raymond Swanland
+characters: [zendikari-resistance, eldrazi]
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/129-kozilek-s-sentinel--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/8/786c6a0f-3f75-45ff-aae9-5c866be279d0.jpg?1562923399
 flavor_text: It moves through the tunnels as slowly and surely as the shifting stones.

@@ -30,6 +30,7 @@ setting: forest
 suspected_ip: Dartrix
 ip_confidence: high
 ip_verified: true
+characters: ["rowlet-line"]
 ---
 
 # Dartrix (Darkness Ablaze)

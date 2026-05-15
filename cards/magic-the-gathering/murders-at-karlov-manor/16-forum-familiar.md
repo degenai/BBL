@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["cat", "familiar", "food", "street", "urban", "tuxedo", "cozy", "comic-relief", "indulgence", "public-space", "animal"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "white-magic", "creature", "disguise", "scene-mode", "crowd"]
+symbols: ["disguise"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/16-forum-familiar.png
 average_cost_paid: 0
 market_price: 0.07

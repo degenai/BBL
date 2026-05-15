@@ -7,7 +7,7 @@ rarity: Common
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 3
 held_for_lair: 0
 bundles: []
 tags_hub: ["turtle", "water", "shore", "small", "biting", "reptile", "teething", "cute", "round", "summer"]

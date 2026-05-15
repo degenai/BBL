@@ -1,0 +1,41 @@
+{
+  "card_name": "Dalakos, Crafter of Wonders",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "212",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "Dalakos is a Wizards-original character unique to Theros Beyond Death. No external IP conflict. Named character flagged for solo-node candidacy assessment per wave 80 instructions.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Dalakos is typed Legendary Creature — Merfolk Artificer, making him the only Merfolk Artificer legendary printed to date in the Theros block. On Theros, merfolk are a coastal people associated with Thassa (god of the sea), making Dalakos's Izzet ({U}{R}) color pair unusual — artifice is not a Thassa domain, suggesting he works outside the polis structure [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"His imagination soars from the depths of the sea to the heights of the heavens.\" [Scryfall]. The phrasing deliberately echoes the Daedalus myth — the architect who built wings to escape imprisonment — though Dalakos is a Wizards-original character, not a direct adaptation. The flavor text frames his ambition as transgressing his natural habitat [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Dalakos sees the most Commander play as a dedicated equipment-combo commander: EDHREC ranks him at 7271 with approximately 1,016 decks using him as commander, primarily in Equipment (52%) and Artifact (19%) strategies. His tap ability produces two colorless mana restricted to artifacts, enabling expensive equipment to be deployed faster. The passive giving equipped creatures flying and haste is the payoff loop [EDHREC, Scryfall].",
+      "sources": ["EDHREC", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Dalakos has received no paper reprint outside THB promos since his 2020 debut — no Commander precon, no Masters set inclusion. This low reprint density despite moderate Commander interest suggests Wizards has not found a suitable home for his niche artifact-mana effect in reprinted product lines [Scryfall prints].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bruenor Battlehammer", "set": "Adventures in the Forgotten Realms", "note": "Competing equipment-reduction legendary in the same equipment-commander niche"},
+    {"name": "Sram, Senior Edificer", "set": "Aether Revolt", "note": "Equipment draw-engine often paired with Dalakos in artifact decks"},
+    {"name": "Brass Squire", "set": "New Phyrexia", "note": "Equipment-attaching combo piece popular in Dalakos lists"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

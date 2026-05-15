@@ -53,6 +53,13 @@ The labor-and-stewardship dual-hub attribution lands cleanly per the triple-thes
 
 This is what BBL's bundle copy can lean on without inventing canon: Krillin is, in-canon, the franchise's clearest labor-tier-Z-Fighter-counterpart-to-Saiyan-apex-power character, the canonical most-deaths-holder whose deaths canonically grease the apex-power Saiyan-transformation arcs, the canonical Eighteen-husband-and-Marron-father whose late-series arc converts battlefield-loyalty into domestic-stewardship, and the canonical Toriyama-confirmed *Goku's-too-plain-without-a-peer* character whose entire narrative function is to make the apex-power-Saiyan-tier legible by anchoring a contrasting lower-power tier. Bundle copy that names Krillin and leans on the *labor-tier-Z-Fighter-whose-death-cost-canonically-triggers-apex-power-Saiyan-transformation* canonical thesis earns lore-aware buyer credibility and lets Toriyama's own editorial-driven 1984-onward character-design work do the apparatus-of-extraction thesis work without naming the thesis.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[bt1-072-human-shield-krillin]]
+- [[tb2-041-double-impact-krillin]]
+- [[tb2-053-toughened-up-krillin]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Krillin** (`https://dragonball.fandom.com/wiki/Krillin`) — primary character page; canonical reference for the Tenkaichi Budokai career roster (21st, 22nd, 23rd participation, two semi-final reaches), the Frieza-Saga death-and-revival arc, the Cell-Saga Eighteen-marriage decision, the Buu-Saga death-and-chocolate-transformation, the Universe Survival Saga Tournament-of-Power participation, the Marron-father / Eighteen-husband family-cohort framing, the post-Buu-Saga part-time-police-work canonical occupation, and the Kame-House-co-residency canonical living-arrangement.

@@ -1,0 +1,36 @@
+{
+  "card_name": "Spontaneous Mutation",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "100",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Spontaneous Mutation originated in Eldritch Moon (EMN, 2016), the set depicting the Eldrazi Emrakul's corruption of Innistrad. The mutation theme fits that set's central horror of Emrakul reshaping the plane's flesh. The CMR copy is its third reprint, also appearing in Shadows over Innistrad Remastered (2023) and Innistrad Remastered (2025). [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"When the body turns, the mind soon follows.\" No speaker attributed. The line doubles as a mechanic caption — the graveyard fills, the debuff grows, the mind of the threatened creature is already gone. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Flash at one blue mana makes this a combat trick masquerading as an Aura: cast at instant speed to drop a blocker's power to zero in combat. In graveyard-heavy Pauper dredge or self-mill strategies, the -X/-0 scales fast enough that it can effectively neutralize large attackers. Legal in Pauper, Pioneer, Modern, Legacy, Vintage, and Commander. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Eldrazi mutation effects (Eldritch Moon block)", "set": "EMN", "note": "Thematic origin set for Emrakul's corruption of Innistrad flesh"},
+    {"name": "Mesmeric Fiend", "set": "various", "note": "Graveyard-count synergy context in Pauper"},
+    {"name": "Oculus", "set": "various", "note": "Innistrad mutation aesthetic cluster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

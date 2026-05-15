@@ -37,6 +37,13 @@ The Alola Elite Four's most BBL-relevant property is its **founding-cohort** fra
 
 The four members' canonical-source frames also form a designer-coordinated **vocations-not-jobs** cohort: Olivia runs a jewelry shop (lapidary craft + Rock-type), Acerola maintains the Aether House (orphan-and-injured-Pokemon shelter + Ghost-type Mimikyu trial), Kahili was recruited from a professional golf career (Flying-type specialty mirroring her sporting trajectory), Hala oversees Melemele Island as kahuna (Fighting-type specialty + tribal-elder role). Each E4 member's type specialty maps onto a non-league civilian vocation — the cohort is framed in-canon as *senior trainers with day jobs* rather than as full-time league bureaucrats. This is the structural contrast to the [[galar-gym-challenge]] cohort's *signed celebrity-athlete* framing: Alola's E4 is the regional-craft folkway model of competitive Pokemon battling, Galar's league is the corporate-televised-spectacle model. The two cohort character nodes together anchor BBL's strongest Pokemon-side institutional contrast — same source-IP franchise, two adjacent generations, two opposing organizational ideologies for the same competitive-trainer role.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[112-147-acerola]]
+- [[119-147-olivia]]
+- [[113-132-acerola-s-mischief]]
 ## Canonical sources
 
 - **Bulbapedia — Pokemon League (Alola)** — primary institutional page; canonical reference for the four-member roster, the Mount Lanakila summit setting, the four-room E4 battle complex structure, the open-format Champion's Test that closes the league progression, the Molayne-replaces-Hala roster change between Sun/Moon and Ultra Sun/Ultra Moon.

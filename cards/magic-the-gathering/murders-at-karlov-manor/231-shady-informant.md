@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["orc", "chains", "prisoner", "dungeon", "muscle", "informant", "defiance", "underground", "criminal", "captive", "villain", "noir"]
 tags_filter: ["solo", "mid-shot", "portrait", "three-quarter", "black-magic", "red-magic", "multicolor-black-red", "creature-orc-rogue", "disguise"]
+symbols: ["disguise"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/231-shady-informant.png
 average_cost_paid: 0
 market_price: 0.04

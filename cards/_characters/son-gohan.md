@@ -17,6 +17,7 @@ appears_on:
   - dragon-ball-super/world-martial-arts-tournament/tb2-003-heroic-duo-son-gohan
   - dragon-ball-super/world-martial-arts-tournament/tb2-021-top-of-his-game-son-gohan
   - dragon-ball-super/union-force/bt2-098-father-son-kamehameha
+  - dragon-ball-super/world-martial-arts-tournament/tb2-011-heroic-duo-videl
 related_hubs: [labor]
 related_symbols: []
 related_characters: [son-goku, pan, trunks, saiyan, namekian, babidi]
@@ -74,6 +75,20 @@ Son Gohan's specific institutional features for the corpus are:
 
 This is what BBL's bundle copy can lean on without inventing canon: Son Gohan is the canonical eldest son of Goku and the franchise's first half-Saiyan whose Cell Games kill is the canonical *labor-credit-erasure* design move at protagonist scale, whose Buu-Saga adolescent SS2 demonstration triggers Babidi's harvest plot in the structural-inverse register, whose Mystic / Ultimate form is the canonical *latent-potential-as-power-source* design device, and whose multi-aspect canonical-character trajectory holds across Cell-Saga teen / Buu-Saga adolescent / Mystic / GT / End-of-Z / Father-Son-technique aspects under one parent. Seven corpus anchors (plus one vision-only anchor and one dual-IP technique card) span the four Dragon Ball Super Card Game sets that hold Cell-Saga and Buu-Saga character source periods. A future Son Gohan Discrete Lair earns its lore-aware-buyer credibility without naming the labor-credit-erasure thesis.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[bt1-062-son-gohan-family-of-justice]]
+- [[bt2-074-fully-trained-super-saiyan-son-gohan]]
+- [[bt4-006-blaze-of-glory-son-gohan]]
+- [[bt4-028-son-gohan]]
+- [[bt4-048-newfound-power-son-gohan]]
+- [[bt4-084-intrepid-dynasty-son-gohan]]
+- [[tb2-003-heroic-duo-son-gohan]]
+- [[tb2-021-top-of-his-game-son-gohan]]
+- [[bt2-098-father-son-kamehameha]]
+- [[tb2-011-heroic-duo-videl]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Gohan** (`https://dragonball.fandom.com/wiki/Gohan`) — primary character page; canonical reference for the Saiyan / Namek / Frieza / Android / Cell / Buu Saga arcs, the Hyperbolic Time Chamber training year, the canonical SS Full Power and SS2 transformations, the Old-Kai Ultimate-form unlock, the End-of-Z epilogue marriage to Videl, and the Great Saiyaman adolescent register.

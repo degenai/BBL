@@ -53,6 +53,14 @@ The four corpus cards span the Throne of Eldraine planeswalker-deck arc (ELD-309
 
 A notable Wizards-canonical narrative pattern: the Throne of Eldraine block's *Wildered Quest* novella (Kate Elliott, Del Rey 2019) is the in-fiction source for the stag-form imagery on Oko's Hospitality (ELD-312). Oko transformed High King Algenus Kenrith into a stag to be hunted at the midwinter Wild Hunt; the *Wildered Quest* arc is the protagonist-quest to find and restore the king. Oko is the antagonist of the novella and the in-fiction architect of the central plot. The half-fae-fatherhood arc with Kellan (Kellan, the Fae-Blooded, Wilds of Eldraine, 2023) introduces a generational dimension: Oko fathered Kellan with the hedgewitch Alyse during the Eldraine arc, and Kellan's later-set arc has the son navigating the trickster-father legacy. A future Kellan character node would edge here as the child-of-the-act relation; defer until the character-to-character edge category is formalized (parallel to the Nashi-defer-note on the Tamiyo node).
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[309-269-oko-the-trickster]]
+- [[310-oko-s-accomplices]]
+- [[312-oko-s-hospitality]]
+- [[175-trickster-s-elk]]
 ## Canonical sources
 
 - **MTG Wiki — Oko** (`https://mtg.fandom.com/wiki/Oko`) — primary character page; canonical reference for the Lorwyn-Shadowmoor origin, the Throne of Eldraine *Wildered Quest* arc, the shapeshift-form catalogue (drake, raven, crested eagle, stag), the half-fae-fatherhood with Kellan, the Wilds of Eldraine return.

@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["haunted-house", "manor", "library", "lounge", "trophy-room", "antlers", "skull", "hunting", "books", "globe", "ladder", "candlelight", "moonlight", "mist", "smoke", "gothic", "interior", "abandoned", "taxidermy", "fireplace"]
 tags_filter: ["scene-mode", "wide-shot", "no-figure", "split-card", "room-mechanic", "enchantment", "red-magic", "blue-magic", "multicolor-red-blue", "duskmourn"]
+symbols: ["rooms"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/235-smoky-lounge-misty-salon.png
 average_cost_paid: 0
 market_price: 0.07

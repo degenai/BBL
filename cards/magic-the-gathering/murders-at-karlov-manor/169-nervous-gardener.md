@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["dryad", "forest", "nature-spirit", "woman", "long-hair", "looking-back", "foliage", "wilderness", "anxiety", "solitude", "plant-folk", "moonlight"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "female-figure", "creature-dryad", "green-magic", "scene-mode", "backlit"]
+symbols: ["disguise"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/169-nervous-gardener.png
 average_cost_paid: 0
 market_price: 0.2

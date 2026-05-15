@@ -52,3 +52,13 @@ A dark, hooded or robed figure occupies the foreground, raising a blade whose ed
 **Iconography:** blade, fire, silhouette
 **Genre cues:** fantasy, dark-fantasy, horror
 
+## Trivia
+
+- **Set context** — Bladebrand originated in Core Set 2020 (M20, 2019) and was reprinted in Ravnica Allegiance (RNA, 2019), The List, Commander Legends (2020), Innistrad: Midnight Hunt (2021), Innistrad: Double Feature (2022), and Ravnica Remastered (2024). The RNA printing ties the card to the Cult of Rakdos, the demon-led performance guild whose theatrical cruelty aligns directly with the flavor text. `[Scryfall]`
+- **Flavor text** — "The pain of searing iron and razor edges pales beside the pleasure of performance." — Judith, the Scourge Diva. Judith is the Cult of Rakdos's grand dame and its public face on Ravnica: a performer who delivers dark monologues and pain stunts, coveting the adoration the demon Rakdos receives from cultists. `[Scryfall; WebSearch: Judith MTG Wiki via search snippet]`
+- **Mechanical reputation** — Two mana for instant-speed deathtouch plus a card draw is considered efficient in black: turns any combat block into a guaranteed trade and replaces itself. A staple in Pauper black decks that need to neutralize large attackers with small blockers. Legal in Pauper, Pioneer, Modern, Legacy, Vintage, and Commander. `[Scryfall]`
+
+### Related cards
+- Judith, the Scourge Diva (Ravnica Allegiance, RNA-185) — flavor text speaker; legendary Human Shaman, de facto leader of the Cult of Rakdos
+- Infuse with Vitality (various) — same instant-speed deathtouch-grant archetype with a different secondary effect
+- Gift of Tusks (various) — comparable instant-speed creature-modifier that replaces itself

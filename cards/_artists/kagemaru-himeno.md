@@ -11,14 +11,13 @@ social: []
 confidence: confirmed
 cross_medium: false
 appears_on:
-  - pokemon/crimson-invasion/35-111-emolga
-  - pokemon/burning-shadows/18-147-charmander
-  - pokemon/burning-shadows/101-147-meowth
-  - pokemon/unified-minds/18-236-steenee
   - pokemon/brilliant-stars/023-172-torkoal
   - pokemon/brilliant-stars/036-172-prinplup
-  - pokemon/vivid-voltage/023-185-charmander
-related_hubs: []
+  - pokemon/burning-shadows/101-147-meowth
+  - pokemon/burning-shadows/18-147-charmander
+  - pokemon/crimson-invasion/35-111-emolga
+  - pokemon/unified-minds/18-236-steenee
+  - pokemon/vivid-voltage/023-185-charmanderrelated_hubs: []
 notes: |
   One of the longest-tenured illustrators in the entire Pokemon TCG franchise.
   Has been creating Pokemon TCG art since the Jungle set (1996 Japanese / 1999
@@ -88,6 +87,17 @@ Himeno's portfolio in current corpus does not anchor a labor-hub thesis the way 
 - `cards/pokemon/burning-shadows/101-147-meowth.md` — in-corpus trivia entry (wave 17) confirming the artist stamp on a second BUS-era Himeno credit.
 - `[PokemonTCG.io API per-card pages]` — primary source for the six unambiguous corpus-print artist credits and the consistent `Kagemaru Himeno` stamping across them.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[023-172-torkoal]]
+- [[036-172-prinplup]]
+- [[101-147-meowth]]
+- [[18-147-charmander]]
+- [[35-111-emolga]]
+- [[18-236-steenee]]
+- [[023-185-charmanderrelated_hubs: []]]
 ## See also
 
 - [[sanosuke-sakuma]] — sibling Pokemon-side artist node; structural precedent for this node. Sakuma's portfolio extends across TCG illustration AND in-game NPC character design (cross-medium); Himeno's does not. Both clear the corpus-volume threshold for an artist node (Sakuma at 5 credits, Himeno at 6+). The cross-medium thesis-bridge is absent here; the franchise-tenure case is the load-bearing distinction Himeno's node adds.

@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["son-goku"]
 tags_hub: ["martial-arts", "tournament", "strength", "combat", "warrior", "saiyan", "discipline", "gi", "test", "brawl", "power", "fist"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "action-mode", "male-figure", "anime-style", "no-weapon-visible"]
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-020-test-of-strength-son-goku.png

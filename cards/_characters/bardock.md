@@ -65,6 +65,15 @@ The Masked-Saiyan / Xeno-Bardock continuity (Dragon Ball Online 2010 / Heroes 20
 
 This is what BBL's bundle copy can lean on without inventing canon: Bardock is the franchise's canonical *first canonical worker to realize the employer intends genocide* protagonist, his canonical death-by-Frieza is one of the franchise's most-developed *worker-killed-by-employer-empire* tragic-resolution sequences, his canonical succession-by-his-son grounds the entire Z-saga protagonist-origin canon, and his Xenoverse-Masked-Saiyan continuity extends the apparatus-of-extraction reading to *post-death extraction of value from the worker's reanimated corpse*. A future Bardock-themed Discrete Lair or a Bardock-cluster within a broader Saiyan-themed Lair can foreground the *low-class mercenary-worker whose disposability is built into his contract with the employer-empire, who dies confronting that disposability alone, and whose body is post-mortem reweaponized against his own former cause* canonical apparatus per `[[bbl-museum-curation-framing]]` — and Toriyama's own 1990-onward Bardock-design work does the apparatus-of-extraction thesis-work without the bundle copy needing to name the thesis.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[p-035-bardock-will-of-iron]]
+- [[p-035-bardock-will-of-iron--foil]]
+- [[bt4-117-time-trauma-masked-saiyan]]
+- [[sd3-04-encroaching-threat-masked-saiyan]]
+- [[sd3-01-the-masked-saiyan-bardock-unbound-by-darkness-2018-big-card-pack]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Bardock** (`https://dragonball.fandom.com/wiki/Bardock`) — primary canonical character page; canonical reference for Bardock's biography, the 1990 TV special's narrative beats, the canonical Saiyan-strike-team roster (Bardock, Tora, Fasha, Borgos, Shugesh), the canonical Gine-mate and Raditz-and-Kakarot-father family relations, and the canonical scarred-left-cheek-and-red-headband visual signature.

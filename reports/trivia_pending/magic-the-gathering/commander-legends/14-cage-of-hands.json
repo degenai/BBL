@@ -1,0 +1,36 @@
+{
+  "card_name": "Cage of Hands",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "14",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cage of Hands originated in Champions of Kamigawa (CHK, 2004), the set that introduced the Spirit-heavy Kamigawa plane where the art's swarming spirit hands thematically fit the kami war narrative. The CMR printing is its sixth reprint across sets including Planechase 2012, Commander 2015, Planechase Anthology, Jumpstart 2022, and Foundations Jumpstart 2024. [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Mark Tedin has painted for Magic since Alpha (1993), making him one of the longest-tenured Magic artists. The CMR copy carries no flavor text; the original CHK printing had a Dosan the Falling Leaf quote. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The bounce ability ({1}{W}: return to hand) is what separates Cage of Hands from simpler pacifism effects: it lets the controller re-deploy the Aura onto a new threat each turn, making it reusable removal rather than a one-target answer. Legal in Pauper, Modern, Legacy, Vintage, Commander, and Paupercommander. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pacifism", "set": "various", "note": "Same Aura removal role without the bounce utility"},
+    {"name": "Arrest", "set": "various", "note": "Broader lockdown Aura, no bounce"},
+    {"name": "Cage of Hands", "set": "Champions of Kamigawa", "note": "Original printing with Dosan flavor text, kami-war context"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

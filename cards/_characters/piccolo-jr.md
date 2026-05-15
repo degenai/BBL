@@ -71,6 +71,15 @@ Per the [[_triple-thesis]] meta-hub's compression-point discipline and the wave-
 
 The discipline holds at single-hub-attribution for this commission. Future audits may extend to dual or triple per the [[aether-rangers]] / [[theros-pantheon]] precedent if canonical-citation prose extensions surface in subsequent wave passes.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[tb2-027-begrudging-respect-piccolo]]
+- [[tb2-040-speed-attack-piccolo-jr]]
+- [[bt1-045-boost-attack-piccolo]]
+- [[bt4-068-special-beam-cannon]]
+- [[bt4-070-sacrifice]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Piccolo** (`https://dragonball.fandom.com/wiki/Piccolo`) — primary character page; canonical reference for the full Piccolo-Jr. arc from 23rd-Tournament-debut through Buu-Saga, the Nameless-Namekian-split lore-twist, the Kami-fusion / Kamiccolo unification, the post-Nail-fusion Frieza-Saga continuity, and the canonical Gohan-mentor / Goten-Trunks-Fusion-instructor stewardship-register relationships.

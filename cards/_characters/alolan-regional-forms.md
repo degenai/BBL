@@ -38,6 +38,14 @@ The Alolan regional-forms cohort's most BBL-relevant property is that it is the 
 
 The cohort also extends the Pokemon franchise's "region as character" thesis — Alola (modeled on Hawaii) becomes a setting whose specific environmental, cultural, and institutional features are visible *in the species themselves*. Alolan Rattata's Dark-type / nocturnal niche encodes human-introduced ecological disruption (Yungoos as introduced diurnal predator displacing Rattata into night-time activity); Alolan Marowak's Ghost typing encodes the grief-rituals of Cubone whose mothers were clubbed by humans for skull-helmet salvage; Alolan Grimer's Poison/Dark coloration encodes the food substrate of urban waste; Alolan Geodude / Graveler / Golem's Electric typing encodes the dravite-rich volcanic substrate of Alola's island chain. Each variant is the region's biographical fingerprint on the species line, written in adaptive divergence rather than in dialect.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[130-236-alolan-grimer]]
+- [[33-111-alolan-graveler]]
+- [[41-145-alolan-graveler]]
+- [[123-alolan-dugtrio]]
 ## Canonical sources
 
 - **Bulbapedia — Regional form (Alolan Form section)** — canonical per-cohort page; documents the cohort's design scope as the founding regional-variant program, the per-species adaptation mechanisms, and the cohort's distinction from Galarian/Hisuian/Paldean variants.

@@ -12,15 +12,24 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/171-final-payment.png
 average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-14
 date_added: 2026-05-13
 last_seen: 2026-05-14
-art_match_confidence: none
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Ravnica Allegiance'
+reference_image_source_url: https://cards.scryfall.io/png/front/4/9/49a21a8f-9c7b-4ae8-8635-f2ee2151c8de.png?1584831505
+artist: Victor Adame Minguez
+art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/171-final-payment--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/9/49a21a8f-9c7b-4ae8-8635-f2ee2151c8de.jpg?1584831505
+flavor_text: There's nothing quite like the feeling of paying off a large debt.
+oracle_text: As an additional cost to cast this spell, pay 5 life or sacrifice a creature or enchantment.\nDestroy target creature.
+image_width: 745
+image_height: 1040
+image_quality: high
 ---
 
 # Final Payment (Ravnica Allegiance)

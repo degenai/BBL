@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["ambush", "predator", "monster", "tunnel", "underground", "insect", "creature", "dungeon", "lurking", "horror", "dread", "hidden"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "green-magic", "disguise", "scene-mode"]
+symbols: ["disguise"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/158-culvert-ambusher.png
 average_cost_paid: 0
 market_price: 0.02

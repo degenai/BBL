@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
+characters: ["trunks"]
 tags_hub: ["trunks", "awkward", "comedy", "youth", "embarrassment", "tournament", "child-warrior", "slice-of-life", "social-moment", "light-hair"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "male-figure", "portrait-mode", "anime-style", "child-figure"]
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-026-awkward-situation-trunks.png

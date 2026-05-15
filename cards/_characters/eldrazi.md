@@ -20,9 +20,11 @@ appears_on:
   - magic-the-gathering/modern-horizons-3/17-wastescape-battlemage
   - magic-the-gathering/modern-horizons-3/14-twisted-riddlekeeper
   - magic-the-gathering/modern-horizons-3/157-horrific-assault
+  - magic-the-gathering/battle-for-zendikar/129-kozilek-s-sentinel
+  - magic-the-gathering/oath-of-the-gatewatch/97-immobilizer-eldrazi
 related_hubs: []
 related_symbols: []
-related_characters: [kor, phyrexia, kiora]
+related_characters: [kor, phyrexia, kiora, zendikari-resistance]
 ip_resolution_for: eldrazi
 ---
 
@@ -73,6 +75,24 @@ The Eldrazi's BBL-relevant property differs from [[phyrexia]]'s but rhymes struc
 
 This is what BBL bundle copy can lean on without inventing canon: the Eldrazi are, in-universe, a designer-confirmed cosmic-horror brood organized around the consumption-of-planes thesis, with a thirty-year-of-publication-but-fifteen-years-of-cohesive-printing history of escalating cosmic-scale-body-horror illustration. Bundle prose that names the Eldrazi by name earns lore-aware buyer credibility and lets Wizards' own block-design work do the thesis work.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[23-encircling-fissure]]
+- [[27-fortified-rampart]]
+- [[49-smite-the-monstrous]]
+- [[58-depth-defiler]]
+- [[64-hope-ender-coatl]]
+- [[204-snapping-voidcraw]]
+- [[210-idol-of-false-gods]]
+- [[150-eldrazi-repurposer]]
+- [[206-titans-vanguard]]
+- [[17-wastescape-battlemage]]
+- [[14-twisted-riddlekeeper]]
+- [[157-horrific-assault]]
+- [[129-kozilek-s-sentinel]]
+- [[97-immobilizer-eldrazi]]
 ## Canonical sources
 
 - **MTG Wiki — Eldrazi** (`https://mtg.fandom.com/wiki/Eldrazi`) — primary brood page; canonical reference for the Titans' names, the Blind Eternities origin, the tier structure (Titan / Drone / Scion / Spawn), and the BFZ-block invasion arc.

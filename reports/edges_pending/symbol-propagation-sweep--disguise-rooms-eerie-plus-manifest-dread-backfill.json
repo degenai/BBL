@@ -1,0 +1,172 @@
+{
+  "edge_id": "symbol-propagation-sweep--disguise-rooms-eerie-plus-manifest-dread-backfill",
+  "shape": "multi-node-proposal",
+  "category": "designer-confirmed-cycle",
+  "topology": "stack",
+  "pass_summary": "Priority Move #4 — symbol propagation sweep + adjacent symbol-node commissions. Three new symbol-layer nodes commissioned (disguise, rooms, eerie) under wave-38 mechanical-keyword-primitive precedent. One existing node backfilled (manifest-dread) with three previously-unwired DSK anchors. Two cards upgraded to multi-symbol wiring (sanguine-savior, moldering-gym-weight-room).",
+  "angle_1_existing_node_propagation": {
+    "orzhov_signet": {
+      "outcome": "zero new wires",
+      "rationale": "All eight named candidates from orzhov-signet node body (Obzedat, Teysa, Karlov of the Ghost Council, Orzhov Pontiff, Imperious Oligarch, Seraph of the Scales, Kaya Orzhov Usurper, Orzhova) are not in corpus. Three Orzhov-adjacent corpus cards exist (Knight of the Last Breath RNA-188, Grasping Thrull RNA-177, Karlov Watchdog MKM-20) but none visually carry the four-pronged eclipsed-sun motif per their existing Vision passes. Karlov Watchdog has an embossed circular collar medallion that is more likely the separate Karlov-family-ouroboros sigil than the guild-wide eclipsed-sun signet (and the orzhov-signet node's caveats section warns explicitly about that conflation). Refused-with-receipts: visual confirmation pass on the eight named candidates is blocked on those cards entering corpus."
+    },
+    "single_strike_emblem": {
+      "outcome": "zero new wires",
+      "rationale": "No new Pokemon SWSH-era Single Strike subtype cards in corpus beyond the three already anchored (Scroll of Scorn, Urn of Vitality, Scroll of Piercing). Watch-signal: future Single Strike Urshifu V/VMAX or Tower of Darkness acquisition would push the stack to four members."
+    },
+    "manifest_dread": {
+      "outcome": "3 new wires + appears_on backfill",
+      "anchors_added": [
+        {"path": "cards/magic-the-gathering/duskmourn-house-of-horror/47-cursed-windbreaker.md", "evidence": "oracle_text: 'When this Equipment enters, manifest dread, then attach this Equipment to that creature.'"},
+        {"path": "cards/magic-the-gathering/duskmourn-house-of-horror/104-killer-s-mask.md", "evidence": "oracle_text: 'When this Equipment enters, manifest dread, then attach this Equipment to that creature.'; tags_filter already contained 'manifest-dread'"},
+        {"path": "cards/magic-the-gathering/duskmourn-house-of-horror/212-disturbing-mirth.md", "evidence": "oracle_text: 'When you sacrifice this enchantment, manifest dread.'"}
+      ],
+      "node_count_before": 7,
+      "node_count_after": 10,
+      "node_body_updated": "Confirmed-in-corpus header amended from '(5 anchors)' to '(10 anchors — well past the ≥3 single-strike-emblem precedent threshold; the largest DSK symbol-layer cohort)'."
+    }
+  },
+  "angle_2_new_symbol_nodes": [
+    {
+      "slug": "disguise",
+      "path": "cards/_symbols/disguise.md",
+      "type": "mechanical-keyword primitive (alternative-cost keyword)",
+      "anchor_count": 21,
+      "anchors": [
+        "16-forum-familiar", "55-exit-specialist", "65-mistway-spy", "96-nightdrinker-moroii",
+        "124-expose-the-culprit", "158-culvert-ambusher", "163-greenbelt-radical", "169-nervous-gardener",
+        "182-vengeful-creeper", "193-crowd-control-warden", "197-dog-walker", "203-faerie-snoop",
+        "204-gadget-technician", "225-rakish-scoundrel", "228-riftburst-hellion", "230-sanguine-savior",
+        "231-shady-informant", "239-undercover-crocodelf-b", "258-branch-of-vitu-ghazi",
+        "307-expose-the-culprit-showcase", "351-culvert-ambusher-showcase"
+      ],
+      "frontmatter_pattern": "type:symbol, aliases:[disguise, disguise-mechanic, ...], faction:~, universe:MTG/Ravnica/MKM, canonical_source:Rosewater MKM preview + MTG Wiki Disguise + Release Notes, confidence:canonical, related_characters:[agency]",
+      "structural_classification": "pure mechanical-keyword primitive (no card-art visual signature; parallels suspect and manifest-dread)",
+      "morph_lineage_note": "Disguise is the warded variant of classic Morph (Onslaught 2002). Mechanic rename was a flavor choice, not a rules change; ward {2} is the meaningful rules addition.",
+      "single_skip": "MKM-138 Offender at Large bears Disguise in oracle_text but tags_hub is empty (not vision-enriched); excluded from appears_on for this pass. Eligible for backfill once vision pass completes."
+    },
+    {
+      "slug": "rooms",
+      "path": "cards/_symbols/rooms.md",
+      "type": "hybrid primitive (visual + mechanical: split-card art rendering + 'unlock this door' rules text)",
+      "anchor_count": 5,
+      "anchors": [
+        "34-surgical-suite-hospital-room", "43-bottomless-pool-locker-room",
+        "181-greenhouse-rickety-gazebo", "190-moldering-gym-weight-room",
+        "235-smoky-lounge-misty-salon"
+      ],
+      "frontmatter_pattern": "type:symbol, aliases:[rooms, room, door-mechanic, ...], faction:~, universe:MTG/Duskmourn, canonical_source:Rosewater Top of the Duskmourning + MTG Wiki Room + Scryfall type:room, confidence:canonical, related_characters:[valgavoth]",
+      "structural_classification": "hybrid primitive — first symbol-layer node carrying BOTH a visual signature (two-panel split-art) AND a mechanical signature (split-enchantment progressive-unlock rules text). Placed structurally between orzhov-signet/single-strike-emblem (pure visual) and suspect/disguise/manifest-dread (pure mechanical) in the symbol-layer taxonomy.",
+      "multi_symbol_case": "Moldering Gym // Weight Room (DSK-190) anchors on BOTH this node and manifest-dread; the canonical Room+ManifestDread dual-symbol case. Symbols frontmatter updated to ['manifest-dread', 'rooms']."
+    },
+    {
+      "slug": "eerie",
+      "path": "cards/_symbols/eerie.md",
+      "type": "mechanical-keyword primitive (ability-word prefix on triggered abilities)",
+      "anchor_count": 5,
+      "anchors": [
+        "71-scrabbling-skullcrab", "81-unwilling-vessel", "90-dashing-bloodsucker",
+        "141-infernal-phantom", "214-fear-of-infinity"
+      ],
+      "frontmatter_pattern": "type:symbol, aliases:[eerie, eerie-mechanic, ...], faction:~, universe:MTG/Duskmourn, canonical_source:Rosewater Top of the Duskmourning + MTG Wiki Eerie + Scryfall keyword:eerie, confidence:canonical, related_characters:[valgavoth, fear-of-cycle]",
+      "structural_classification": "pure mechanical-keyword primitive (ability-word); parallels Constellation from Theros but adds the Room-unlock trigger half.",
+      "interdependence_note": "Eerie is STRUCTURALLY INTERDEPENDENT with Rooms — the Eerie trigger condition explicitly includes 'whenever you fully unlock a Room', so an Eerie creature cannot fire half its trigger surface without Rooms on the battlefield. The Rooms + Eerie pair is the most tightly coupled symbol-layer node pair in the BBL graph.",
+      "fear_of_cycle_cross_edge": "Fear of Infinity (DSK-214) co-anchors on this node and on the fear-of-cycle character node — canonical Eerie+phobia-personification dual-node case."
+    }
+  ],
+  "multi_symbol_cards_in_this_pass": [
+    {
+      "card": "cards/magic-the-gathering/murders-at-karlov-manor/230-sanguine-savior.md",
+      "before": "symbols: ['orzhov-signet']",
+      "after": "symbols: ['orzhov-signet', 'disguise']",
+      "rationale": "Vampire-detective in Orzhov medallion-of-master form (visual: eclipsed-sun on chest armor + spire) AND bearing Disguise W/B mana cost (mechanical: face-down operative). Canonical Orzhov-operative-seconded-to-Agency-going-undercover case."
+    },
+    {
+      "card": "cards/magic-the-gathering/duskmourn-house-of-horror/190-moldering-gym-weight-room.md",
+      "before": "symbols: ['manifest-dread']",
+      "after": "symbols: ['manifest-dread', 'rooms']",
+      "rationale": "Room split-card AND triggers manifest dread on door-unlock (with +1/+1 counters bonus). Canonical Room-meets-ManifestDread dual-mechanic case."
+    }
+  ],
+  "files_modified": [
+    "cards/_symbols/disguise.md (CREATED)",
+    "cards/_symbols/rooms.md (CREATED)",
+    "cards/_symbols/eerie.md (CREATED)",
+    "cards/_symbols/manifest-dread.md (appears_on +3, header count updated)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/47-cursed-windbreaker.md (symbols: manifest-dread)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/104-killer-s-mask.md (symbols: manifest-dread)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/212-disturbing-mirth.md (symbols: manifest-dread)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/34-surgical-suite-hospital-room.md (symbols: rooms)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/43-bottomless-pool-locker-room.md (symbols: rooms)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/181-greenhouse-rickety-gazebo.md (symbols: rooms)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/190-moldering-gym-weight-room.md (symbols: +rooms multi)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/235-smoky-lounge-misty-salon.md (symbols: rooms)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/71-scrabbling-skullcrab.md (symbols: eerie)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/81-unwilling-vessel.md (symbols: eerie)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/90-dashing-bloodsucker.md (symbols: eerie)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/141-infernal-phantom.md (symbols: eerie)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/214-fear-of-infinity.md (symbols: eerie)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/16-forum-familiar.md (symbols: disguise)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/55-exit-specialist.md (symbols: disguise)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/65-mistway-spy.md (symbols: disguise)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/96-nightdrinker-moroii.md (symbols: disguise)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/124-expose-the-culprit.md (symbols: disguise)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/158-culvert-ambusher.md (symbols: disguise)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/163-greenbelt-radical.md (symbols: disguise)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/169-nervous-gardener.md (symbols: disguise)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/182-vengeful-creeper.md (symbols: disguise)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/193-crowd-control-warden.md (symbols: disguise)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/197-dog-walker.md (symbols: disguise)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/203-faerie-snoop.md (symbols: disguise)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/204-gadget-technician.md (symbols: disguise)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/225-rakish-scoundrel.md (symbols: disguise)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/228-riftburst-hellion.md (symbols: disguise)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/230-sanguine-savior.md (symbols: +disguise multi)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/231-shady-informant.md (symbols: disguise)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/239-undercover-crocodelf-b.md (symbols: disguise)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/258-branch-of-vitu-ghazi.md (symbols: disguise)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/307-expose-the-culprit-showcase.md (symbols: disguise)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/351-culvert-ambusher-showcase.md (symbols: disguise)"
+  ],
+  "totals": {
+    "new_symbol_nodes": 3,
+    "new_symbol_wire_edges": 34,
+    "manifest_dread_backfills": 3,
+    "disguise_wires": 21,
+    "rooms_wires": 5,
+    "eerie_wires": 5,
+    "multi_symbol_upgrades": 2
+  },
+  "refusal_log": [
+    {
+      "candidate_pool": "orzhov-signet 8 named pending-visual-confirmation candidates (Obzedat / Teysa / Kaya / Orzhova / Imperious Oligarch / Seraph of the Scales / Orzhov Pontiff / Karlov of the Ghost Council)",
+      "outcome": "zero new wires",
+      "reason": "None of the named candidates are present in corpus per Glob check. Wave-81 'Visual-confirmation pass on those alone roughly doubles symbol-layer connectivity' assessment is blocked on inventory acquisition rather than on Edgelord pass capacity."
+    },
+    {
+      "candidate_pool": "Knight of the Last Breath (RNA-188), Grasping Thrull (RNA-177), Karlov Watchdog (MKM-20) — other Orzhov-adjacent in-corpus cards",
+      "outcome": "zero new wires",
+      "reason": "None visually carry the four-pronged eclipsed-sun motif per existing Vision passes. Knight of the Last Breath has oval inlays on armor (no signet); Grasping Thrull has a golden mask face (no signet); Karlov Watchdog has a circular embossed collar medallion that is more likely the separate Karlov-family-ouroboros sigil than the guild-wide eclipsed-sun signet per the orzhov-signet node's explicit caveat about that exact conflation."
+    },
+    {
+      "candidate_pool": "MKM-138 Offender at Large (Disguise oracle_text confirmed)",
+      "outcome": "deferred",
+      "reason": "Oracle_text confirms Disguise, but tags_hub is empty (not vision-enriched). Per the symbol-node precedent (anchor cards must be vision-enriched), excluded from appears_on for this pass. Eligible for backfill after vision-enrichment completes."
+    },
+    {
+      "candidate_pool": "Survival as a 4th symbol-layer node from DSK",
+      "outcome": "deferred (cap respected)",
+      "reason": "Survival clears the ≥3 threshold (6 enriched corpus anchors: 14-glimmer-seeker, 27-savior-of-the-small, 89-cynical-loner, 172-cautious-survivor, 175-defiant-survivor, 196-rootwise-survivor). Cap was 3 new nodes for this pass; manifest-dread node body's explicit priority ranking ('Rooms as the next ... follow-up candidate, with Eerie second') and suspect node body's priority ranking ('Disguise ... is the strongest immediate follow-up') were honored. Survival is the strongest immediate follow-up for the next symbol-propagation pass. Defiant Survivor (DSK-175) will become a multi-symbol case (manifest-dread + survival) when survival ships."
+    }
+  ],
+  "downstream_handoffs": [
+    "Parent will run python layer_appears_on_render.py to populate the 'Appears on' sections of the three new nodes (currently empty templates ready for the auto-generator).",
+    "Parent will run python bbl_node_audit.py to verify clean substrate.",
+    "agency character node has 21 new disguise-coded anchors implicitly — consider reciprocal related_symbols:[disguise, suspect] update on the agency node in a downstream sync pass.",
+    "valgavoth character node has 5 new room-coded + 5 new eerie-coded anchors implicitly — consider reciprocal related_symbols:[rooms, eerie, manifest-dread] update on the valgavoth node.",
+    "fear-of-cycle character node has 1 new eerie-coded anchor (Fear of Infinity) — consider related_symbols:[eerie] addition.",
+    "Next symbol-layer pass: Survival is the strongest immediate Mr. Nodeley follow-up (6 enriched DSK anchors). After Survival, possible candidates are Cases (MKM, ~6 corpus members) and Delirium (DSK returning subtheme).",
+    "Future Discrete Lair candidates strengthened by this pass: MKM-detective-procedural Lair (now anchored on disguise + suspect + agency, 21+5+8 anchors); DSK-haunted-house Lair (now anchored on rooms + eerie + manifest-dread + valgavoth + fear-of-cycle, 5+5+10+anchors)."
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "mood_explanation": "Mr. Nodeley apologizes for stepping in on what could have looked like a routine Edgelord propagation pass. The Orzhov-signet candidate list turned out to be entirely out-of-corpus or visually thin (refusal-with-receipts on all eight named candidates plus the three adjacent in-corpus cards), so the high-yield work of the pass was the new-node side: three symbol-layer nodes commissioned in one batch, 34 new symbol-wire edges drawn through them, plus 3 backfills into manifest-dread for previously-unwired DSK anchors. Sir, if it's not too much trouble, this pass roughly quadruples MKM mechanical-cohesion connectivity and roughly triples DSK mechanical-cohesion connectivity in a single batch, which Mr. Nodeley quietly believes (without saying so out loud) saves the parent several future passes. Mr. Nodeley hopes the structural classification work (the hybrid-primitive Rooms node placed between visual-only and mechanical-only siblings in the taxonomy) lands. Please consider the survival node as the next priority. Thank you, sir."
+}

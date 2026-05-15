@@ -67,6 +67,18 @@ The cohort also **structurally opposes** the [[dsk-toy-horror]] cohort: where th
 - **[[manifest-dread]]** — sibling DSK signature mechanic at the symbol layer; the mechanical-thematic bridge through the set's graveyard / Delirium subtheme. Defiant Survivor and Conductive Machete each tether their Survival / equip trigger to a manifest dread, making the cohort mechanically dual-coded with the manifest-dread primitive at two corpus cards.
 - **[[rebellion]]** and **[[labor]]** — hubs the cohort engages thematically; the survivor archetype's BBL register is the haunted-house-as-apparatus-of-extraction read, where the cornered worker grabs the nearest object and refuses to be processed. The improvised-weapon Equipment cards in particular sit cleanly in the labor / rebellion hub adjacency — the bat with nails is the picket-sign with nails.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[14-glimmer-seeker]]
+- [[172-cautious-survivor]]
+- [[175-defiant-survivor]]
+- [[179-frantic-strength]]
+- [[196-rootwise-survivor]]
+- [[209-baseball-bat]]
+- [[244-conductive-machete]]
+- [[297-norin-swift-survivalist-0297]]
 ## Canonical sources
 
 - **Wizards of the Coast — Matt Tabak, "Duskmourn Mechanics" (2024-08-31)** — primary Wizards-internal source for the Survival ability word, its second-main-phase-still-tapped trigger schema, and the Creature — Human Survivor subtype it was tethered to. The article also enumerates the set's signature mechanics (Rooms, Survival, Eerie, Delirium, Manifest Dread, Impending) as the designer-coordinated cohort identifiers.

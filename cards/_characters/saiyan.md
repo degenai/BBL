@@ -98,6 +98,22 @@ The race's specific institutional features for the corpus are:
 
 This is what BBL's bundle copy can lean on without inventing canon: the Saiyan race is, in-canon, a designer-coordinated alien warrior-race with a canonical imperial-mercenary operating mode under Frieza's empire, a canonical Saiyan-Tuffle War backstory of being the perpetrator of an earlier genocide, a canonical Age-737 genocide-by-Frieza backstory of being the victim of an empire-preemptive extermination, a Great-Ape race-specific transformation mechanic, a Super-Saiyan race-specific power-escalation line, and a corpus of eleven cards across four DBSCG sets that together span the canonical race-roster-axes from Universe-6-young-elite to pre-Goku-generation-parental-cohort to Saiyan-birth-name-racial-identity to race-biology-transformation to Time-Patrol-Masked-Saiyan-continuity to Saiyan-genocide-inverse-Tuffle-revenge. The race-thesis the corpus most legibly anchors is the *imperial-mercenary-workforce-genocided-by-its-employer-empire* apparatus-of-extraction depiction — the Saiyans labor for Frieza as planet-clearing mercenaries until the prophecied Super-Saiyan power-escalation makes them a threat, at which point Frieza preemptively exterminates the entire workforce. Bundle copy that names the Saiyans by name and leans on the *Frieza-Force-mercenary-workforce-preemptively-genocided-by-empire* canonical apparatus earns lore-aware buyer credibility and lets Toriyama's own 1989-onward race-design work do the apparatus-of-extraction thesis work without naming the thesis. The [[labor]] hub attaches here at the race-as-imperial-workforce axis — Saiyans are canonically labor under Frieza's empire, a fact the bundle copy can foreground.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[bt4-074-gine-here-to-support]]
+- [[bt3-087-gine-family-of-justice]]
+- [[bt4-080-deadly-golden-great-ape-son-goku]]
+- [[bt4-082-kakarot]]
+- [[bt4-117-time-trauma-masked-saiyan]]
+- [[sd3-04-encroaching-threat-masked-saiyan]]
+- [[bt4-002-baby-rampaging-great-ape-baby]]
+- [[sd3-01-the-masked-saiyan-bardock-unbound-by-darkness-2018-big-card-pack]]
+- [[p-035-bardock-will-of-iron--foil]]
+- [[p-035-bardock-will-of-iron]]
+- [[bt1-013-raging-cabba]]
+- [[bt1-027-cabba-s-awakening-2017]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Saiyan** (`https://dragonball.fandom.com/wiki/Saiyan`) — primary race page; canonical reference for the Saiyan-race biology, the Frieza-Force-imperial-mercenary operating mode, the Saiyan-Tuffle War backstory, the Great-Ape and Super-Saiyan transformation mechanics, and the full canonical race-roster across forty years of franchise output.

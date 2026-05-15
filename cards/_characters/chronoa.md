@@ -57,6 +57,13 @@ Chronoa anchors at [[stewardship]] alone. The single-hub attribution is load-bea
 
 The labor and rebellion hubs are deliberately withheld pending canonical-evidence accumulation. Chronoa's Time Patrol command involves labor-coordination at the operational level (dispatching Time Patrollers, training Xeno Trunks), but the canonical evidence in current corpus does not render the labor verb's apparatus-of-production register cleanly enough to earn an attribution under Potion-Rule discipline. Similarly, her opposition to Demigra is a canonical antagonism but the rebellion-verb's refusal-of-the-apparatus register is more cleanly carried by characters who refuse FROM-WITHIN apparatus (Bardock-style worker-against-employer-Emperor; Elspeth-style mortal-against-divinity); Chronoa's posture is institutional-defense-of-canon rather than refusal-from-within. Under Potion-Rule discipline: when in doubt, refuse the attribution. Single-hub stewardship is the canonical-evidence-supported attribution; the other two verbs remain available for future commission if subsequent corpus material renders them at sufficient rigor.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[bt3-113-supreme-kai-of-time-world-s-protector]]
+- [[bt3-122-time-s-judgement]]
+- [[bt4-103-time-s-choice-supreme-kai-of-time]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Chronoa** (`https://dragonball.fandom.com/wiki/Chronoa`) — primary character page; canonical reference for the Supreme Kai of Time role, the 75-million-year operational tenure, the Demigra Crack-of-Time sealing, the Time Patrol command structure, the Time Nest headquarters, and the Xeno-Trunks deputy relationship.

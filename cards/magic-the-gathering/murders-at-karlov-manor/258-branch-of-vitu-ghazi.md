@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["tree", "world-tree", "vitu-ghazi", "ancient", "forest", "sanctuary", "doorway", "organic-architecture", "nature", "garden", "overgrown", "living-structure", "path", "flowers"]
 tags_filter: ["wide", "scene-mode", "no-face", "none-figures", "colorless-land", "land"]
+symbols: ["disguise"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/258-branch-of-vitu-ghazi.png
 average_cost_paid: 0
 market_price: 0.3

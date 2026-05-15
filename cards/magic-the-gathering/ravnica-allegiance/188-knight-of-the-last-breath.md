@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["orzhov-syndicate"]
 tags_hub: ["knight", "armor", "blade", "orzhov", "sacrifice", "death-knight", "sealed-helm", "gold", "gothic"]
 tags_filter: ["solo", "mid-shot", "action", "forward-facing", "multicolor-white-black", "creature-human-knight", "no-face"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/188-knight-of-the-last-breath.png
@@ -53,3 +54,14 @@ A heavily armored figure crouches in a dynamic low stance, holding a large sword
 **Iconography:** oval inlays, glowing blade
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set lore** — Typed as Giant Knight — an unusual creature-type pairing. Giants in Ravnica lore are typically associated with the Gruul rather than the Orzhov, making this figure a guild-contracted outlier: a Giant pressed into Orzhov service as an enforcer `[Scryfall]`.
+- **Mechanical** — Carries both Afterlife 3 and an activated sacrifice ability: two distinct ways to convert creatures into 1/1 flying Spirit tokens. The Wizards RNA mechanics article frames Afterlife as the Orzhov's "supernatural staying power" — even death is just another form of service `[magic.wizards.com: Ravnica Allegiance Mechanics]`. EDHREC rank 22,199 reflects its role as a Limited uncommon rather than a Commander staple `[Scryfall]`.
+- **Flavor text** — No flavor text on this card `[Scryfall]`. The absence is notable: the rules text alone carries the message. Sacrifice another creature, gain spirits, die and gain more spirits. The mechanic is the ideology.
+- **Design** — Artist Milivoj Ceran depicts the knight in a sealed-helm plate with no visible face — consistent with Orzhov enforcer cards where anonymity reinforces the institutional-over-individual register of the guild. The Orzhov enforcers do not have names; they have functions `[Scryfall]`.
+
+### Related cards
+- Grasping Thrull (RNA) — Orzhov drain creature in the same set; both carry Afterlife; different cost tier in the sacrifice-for-spirits economy
+- Teysa Karlov (RNA) — legendary Orzhov figure who doubles Afterlife triggers; contextual commander for this card
+- Tithe Taker (RNA) — Afterlife 1 Orzhov human; shares the RNA spirit-token engine

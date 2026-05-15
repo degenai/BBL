@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["plant", "vine", "forest", "monster", "ambush", "mist", "elemental", "predator", "tendrils", "leaves", "stalking", "nature"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "no-face", "creature-plant-elemental", "green-magic", "disguise", "common"]
+symbols: ["disguise"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/182-vengeful-creeper.png
 average_cost_paid: 0
 market_price: 0.13

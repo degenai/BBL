@@ -23,6 +23,7 @@ needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Battle for Zendikar'
 reference_image_source_url: https://cards.scryfall.io/png/front/7/0/702f5dd4-4dc7-4e2c-a30b-9286499433d8.png?1562921415
 artist: Magali Villeneuve
+characters: [zendikari-resistance]
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/46-serene-steward--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/0/702f5dd4-4dc7-4e2c-a30b-9286499433d8.jpg?1562921415
 flavor_text: \"I can give you strength, but you'll have to bring your own courage.\"

@@ -11,12 +11,11 @@ social: []
 confidence: confirmed
 cross_medium: true
 appears_on:
-  - pokemon/darkness-ablaze/086-189-larvitar
-  - pokemon/darkness-ablaze/045-189-vanillite
   - pokemon/burning-shadows/66-147-rhydon
-  - pokemon/vivid-voltage/040-185-cramorant
+  - pokemon/darkness-ablaze/045-189-vanillite
+  - pokemon/darkness-ablaze/086-189-larvitar
   - pokemon/fusion-strike/232-264-dancer
-related_hubs: [labor]
+  - pokemon/vivid-voltage/040-185-cramorantrelated_hubs: [labor]
 notes: |
   Pokemon TCG illustrator since 2013. Approximately 159 main-TCG cards plus 32 in
   Pokemon TCG Pocket. Notable for a cross-medium portfolio: in addition to TCG
@@ -55,6 +54,15 @@ For any future Discrete Lair on Galarian working-class labor, this artist node i
 - `[Art of Pokemon: Sanosuke Sakuma illustrator page]` — card count and ongoing-career confirmation
 - `cards/pokemon/darkness-ablaze/086-189-larvitar.md` — in-corpus trivia entry that captured the original WebSearch evidence and is the primary anchor for this node
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[66-147-rhydon]]
+- [[045-189-vanillite]]
+- [[086-189-larvitar]]
+- [[232-264-dancer]]
+- [[040-185-cramorantrelated_hubs: [labor]]]
 ## See also
 
 - [[labor]] — the BBL hub this artist node bridges into. Sakuma's NPC trainer-class portfolio is what makes the bridge load-bearing rather than aesthetic.

@@ -39,6 +39,13 @@ The line is also the corpus's strongest **regional-bird-line cohort precedent** 
 
 For BBL bundle work, the line offers two strong narrative threads: a **leaves-the-flock departure-from-cohort** thread anchored on the species' Pokedex canon (Staraptor's solo-emergence-from-collective as the line's terminal narrative beat), and a **regional-bird-line-as-Route-1-ecology** thread anchored on the Sinnoh-region-bird slot (Starly as the first bird Pokemon a Sinnoh trainer encounters, the canonical entry into the regional-bird-line designer convention at the Gen IV scope). The within-Darkness-Ablaze Starly DAA-145 + Staraptor DAA-147 adjacent-but-non-contiguous pair is the corpus's first Sinnoh-region within-set evolutionary-bookends pattern, structurally parallel to the within-Vivid-Voltage Charmander-Charmeleon-Charizard 023+024+025 evolutionary triptych (which is full-triptych) — this version is two-of-three at the line's bookends, with the missing Staravia middle slot a future-acquisition target.
 
+## Appears on
+
+<!-- auto-generated from appears_on; do not edit by hand -->
+
+- [[117-172-starly]]
+- [[145-189-starly]]
+- [[147-189-staraptor]]
 ## Canonical sources
 
 - **Bulbapedia — Starly (Pokemon), Staravia (Pokemon), Staraptor (Pokemon)** — primary per-species pages; canonical reference for the line's evolution conditions (level 14, level 34), the Normal/Flying typing retained across all three stages, the leaves-the-flock-at-Staraptor narrative arc, and the species' competitive presence (Intimidate / Reckless abilities, Brave Bird signature attack at the apex stage).

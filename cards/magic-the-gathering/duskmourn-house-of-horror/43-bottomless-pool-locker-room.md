@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["liminal-space", "swimming-pool", "locker-room", "gym", "school", "institutional", "haunted-architecture", "abandoned", "tile", "bathhouse", "changing-room", "water", "nightmare"]
 tags_filter: ["blue-magic", "enchantment", "room-mechanic", "split-card", "no-figure", "scene-mode", "night"]
+symbols: ["rooms"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/43-bottomless-pool-locker-room.png
 average_cost_paid: 0
 market_price: 0.24
