@@ -1,0 +1,46 @@
+{
+  "edge_id": "survival-symbol-node-mr-nodeley-proposal",
+  "shape": "node-proposal",
+  "category": "designer-confirmed-cycle",
+  "topology": "branch",
+  "endpoints": [
+    {"type": "symbol", "path": "cards/_symbols/survival.md", "name": "Survival (mechanic)"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/14-glimmer-seeker.md", "name": "Glimmer Seeker"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/27-savior-of-the-small.md", "name": "Savior of the Small"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/89-cynical-loner.md", "name": "Cynical Loner"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/172-cautious-survivor.md", "name": "Cautious Survivor"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/175-defiant-survivor.md", "name": "Defiant Survivor"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/196-rootwise-survivor.md", "name": "Rootwise Survivor"}
+  ],
+  "description": "Apologies, sir — Edgelord stepped aside; Mr. Nodeley here. The four DSK signature mechanics needed completion at the symbol layer: rooms, eerie, and manifest-dread were already commissioned, and Survival was flagged as the fourth in the manifest-dread.md body. Corpus walk confirmed six enriched Survival-keyword-bearing anchors (well past the threshold), with Defiant Survivor dual-symbol-coding alongside manifest-dread as the canonical Survival-fires-Manifest-Dread case. I have written the node, wired all six anchors via symbols: ['survival'] frontmatter, and synced reciprocal related_symbols: [survival] on the dsk-survival-archetype character node. The graph now hosts the full DSK signature-suite at the symbol layer, with only Delirium uncommissioned (and Delirium is a returning-from-Innistrad mechanic, not a DSK-original — Mr. Nodeley flags it for separate consideration rather than commissioning here).",
+  "citations": [
+    "[Wizards: Matt Tabak, Duskmourn Mechanics, 2024-08-31]",
+    "[Wizards: Mark Rosewater, Top of the Duskmourning Part 1 & 2, 2024-09]",
+    "[MTG Wiki: Survival]",
+    "[Scryfall: keyword:survival / oracletext:'Survival —']",
+    "[MTG Wiki: Duskmourn: House of Horror, Themes and Mechanics, Survival section]",
+    "[Cabin in the Woods (2011, Whedon/Goddard) — designer-cited source material]"
+  ],
+  "files_modified": [
+    "cards/_symbols/survival.md (CREATED)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/14-glimmer-seeker.md (symbols frontmatter added)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/27-savior-of-the-small.md (symbols frontmatter added)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/89-cynical-loner.md (symbols frontmatter added)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/172-cautious-survivor.md (symbols frontmatter added)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/175-defiant-survivor.md (symbols frontmatter extended to dual: manifest-dread + survival)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/196-rootwise-survivor.md (symbols frontmatter added)",
+    "cards/_characters/dsk-survival-archetype.md (related_symbols synced to include survival)",
+    "cards/_characters/agency.md (related_symbols synced to include disguise, suspect)",
+    "cards/_characters/valgavoth.md (related_symbols synced to include rooms, eerie, manifest-dread, survival)",
+    "cards/_characters/fear-of-cycle.md (related_symbols synced to include eerie)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "anchor_count": 6,
+  "threshold_required": 3,
+  "dual_symbol_note": "Defiant Survivor (DSK-175) carries both manifest-dread AND survival in symbols frontmatter; this is the canonical case of a Survival trigger firing manifest dread, making the card the structural bridge between the two DSK signature-keyword nodes.",
+  "other_candidates_considered": [
+    "Delirium symbol node — returning-from-Innistrad mechanic, not DSK-original; cross-set commission deferred until corpus accumulates ≥3 anchors with the keyword (currently 1: Fear of Burning Alive has a Delirium ride-along trigger; not the same as bearing the Delirium ability-word itself)",
+    "Improvised-weapon-Equipment as separate symbol node — declined; already hosted at dsk-survival-archetype character node as cohort axis, no symbol-layer commission needed",
+    "Acrobatic Cheerleader (DSK-1) and Veteran Survivor — candidate Survival anchors not yet in BBL corpus; will attach to this node automatically when they land via future Collectr CSV"
+  ]
+}

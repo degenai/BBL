@@ -13,6 +13,7 @@ appears_on:
   - dragon-ball-super/world-martial-arts-tournament/tb2-006-vegeta-power-misused
   - dragon-ball-super/union-force/bt2-063-father-son-galick-gun
   - dragon-ball-super/world-martial-arts-tournament/tb2-025-begrudging-respect-vegeta
+  - dragon-ball-super/colossal-warfare/bt4-030-at-all-costs-vegeta
 related_hubs: []
 related_symbols: []
 related_characters: [son-goku, trunks]
@@ -63,6 +64,7 @@ This is what BBL's bundle copy can lean on without inventing canon: Vegeta is, c
 - [[tb2-006-vegeta-power-misused]]
 - [[bt2-063-father-son-galick-gun]]
 - [[tb2-025-begrudging-respect-vegeta]]
+- [[bt4-030-at-all-costs-vegeta]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Vegeta** (`https://dragonball.fandom.com/wiki/Vegeta`) — primary character page; canonical reference for the full multi-arc multi-transformation framing, the Saiyan-royal-lineage backstory, the Galick Gun and Final Flash origin, and the Bulma-and-Trunks family-relation continuity.

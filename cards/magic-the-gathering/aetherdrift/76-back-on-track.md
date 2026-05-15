@@ -55,3 +55,15 @@ An expansive desert scene at golden-hour sunset. In the background on a sandy ri
 **Iconography:** ancient pylons, magical star
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Back on Track is a black uncommon sorcery from Aetherdrift (DFT), released 2025-02-14. It was previewed by CNET on 2025-01-24 `[Scryfall: preview source]`. The card connects the racing set to Amonkhet's post-Phyrexian lore: the Champions of Amonkhet racing team, co-captained by Basri Ket and the legendary charioteer Zahur, races in the Grand Prix. Basri discovered Zahur's tomb during expeditions into the Broken Lands of Amonkhet and performed the proper rites to resurrect him `[magic.wizards.com: The Legends of Aetherdrift; magic.wizards.com: Aetherdrift — Hour of Restoration]`.
+- **Flavor text** — `"At the Tombs Before Time, the living of Amonkhet made vital alliances with the honored dead."` `[Scryfall]` — the Tombs Before Time is a specific location in post-war Amonkhet where survivors allied with undead monarchs and champions; Basri's quest in the Aetherdrift story ("Hour of Restoration") centers on recovering the vizier Temmet from these tombs to restore the god Oketra `[magic.wizards.com: Aetherdrift — Hour of Restoration, via WebSearch]`.
+- **Mechanical note** — Back on Track returns any creature or Vehicle from your graveyard directly to the battlefield (not your hand) and creates a 1/1 colorless Pilot token that saddles Mounts and crews Vehicles as though its power were 2 greater. At five mana in black this competes with Animate Dead and Zombify effects but adds the bonus Pilot, which has relevant synergy in a Vehicle/Mount-heavy build `[Scryfall: oracle text]`. EDHREC rank 18,230 `[Scryfall: edhrec_rank]`.
+- **Team cohort flag** — The Champions of Amonkhet (Basri Ket + Zahur) are the white/black team of the Grand Prix. Back on Track's resurrection effect, Amonkhet desert art, and crocodilian creature (likely a Khenra or similar Amonkhet race) all point to this team's thematic identity: death as resource, the honored dead as allies.
+
+### Related cards
+- Zombify (various) — black sorcery baseline for graveyard-to-battlefield; Back on Track is Zombify plus a Pilot token
+- Basri Ket (M21) — Amonkhet planeswalker; the Champions of Amonkhet co-captain
+- Zahur, Eternal Charioteer (DFT) — the other Champions co-captain; likely depicted or referenced in this card's scene
+

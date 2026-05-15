@@ -52,3 +52,15 @@ A racing vehicle has suffered a catastrophic blowout on a banked, curved track. 
 **Iconography:** explosion, arcane-blast, racing-stripe
 **Genre cues:** fantasy, racing, steampunk
 
+## Trivia
+
+- **Set context** — Roadside Blowout is a blue uncommon sorcery from Aetherdrift (DFT), released 2025-02-14. It is a cantripping bounce spell (return a creature or Vehicle to its owner's hand, draw a card) with a built-in cost reduction: it costs {2} less when targeting a permanent with mana value 1 `[Scryfall]`. This discount makes it a free spell against mana-value-1 targets — a significant tempo play.
+- **Flavor text** — `"In cases of extreme emergency, just wing it." —Rocketeer safety manual, full text` `[Scryfall]` — the joke is that "full text" is the entire safety manual — exactly one sentence. The attribution to a "Rocketeer safety manual" ties it to the Goblin Rocketeers racing team (Redshift and Daretti) whose philosophy is effectively aeronautical recklessness `[magic.wizards.com: The Legends of Aetherdrift]`.
+- **Mechanical note** — The cost-reduction clause targeting mana-value-1 permanents was previewed by the Limited Resources podcast (previewed 2025-01-24 per Scryfall), indicating it was flagged as a Limited-relevance card. At effectively {U} when the target qualifies, it competes favorably with classic tempo bounce cantrips. EDHREC rank 23,011 suggests it is largely a Limited-format role-player rather than a Commander staple `[Scryfall: edhrec_rank, preview source]`.
+- **Design note** — The card is listed legal in TLR (Timeless Remastered) format — an unusual legality flag among this set's cards, indicating its mechanic profile is considered appropriate for that arena format's card pool `[Scryfall: legalities]`.
+
+### Related cards
+- Unsummon (various) — the baseline 1-mana creature bounce; Roadside Blowout is a cantripping, cost-reducible version
+- Repulse (INV) — the classic bounce-plus-cantrip; Roadside Blowout is the Vehicle-era parallel
+- Disperse (various) — artifact-targeting bounce with no cantrip; Roadside Blowout adds the draw
+

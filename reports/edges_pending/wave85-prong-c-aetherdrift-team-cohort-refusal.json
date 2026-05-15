@@ -1,0 +1,56 @@
+{
+  "edge_id": "wave85-prong-c-aetherdrift-team-cohort-refusal",
+  "wave": 85,
+  "prong": "C",
+  "shape": "refusal-with-receipts",
+  "category": "named-character-identity (refused)",
+  "topology": "n/a",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/119-crash-and-burn.md", "name": "Crash and Burn (DFT-119) — Goblin Rocketeers flag"},
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/69-trade-the-helm.md", "name": "Trade the Helm (DFT-69) — Keelhaulers flag"},
+    {"type": "card", "path": "cards/magic-the-gathering/aetherdrift/76-back-on-track.md", "name": "Back on Track (DFT-76) — Champions of Amonkhet flag"},
+    {"type": "character", "path": "cards/_characters/aether-rangers.md", "name": "Aether Rangers (existing) — considered as absorbing anchor"},
+    {"type": "character", "path": "cards/_characters/endriders.md", "name": "Endriders (existing) — sibling team for cohort precedent"}
+  ],
+  "refusal_rationale": {
+    "aether_rangers_absorbs_none_of_the_three": "Aether Rangers is canonically the Avishkar home team — Pia Nalaar / Sita Varma / Avishkar Assembly-funded, the post-Indigo-Revolution cross-class comrade team. The three slate cards each name a DIFFERENT team:\n  - Crash and Burn's flavor names Redshift (Goblin Rocketeers co-captain with Daretti)\n  - Trade the Helm's art depicts a Keelhauler boarding a Rocketeer / Endrider vehicle (Keelhaulers are Kari Zev / Howler's aquatic-humanoid team)\n  - Back on Track's flavor names the Tombs Before Time / Amonkhet (Champions of Amonkhet team, Basri Ket + Zahur co-captains)\nNone of the three teams overlap with the Aether Rangers' Avishkar-home-team identity. Absorbing any of them into aether-rangers.md would be an Edgelord-grade graph error: cross-team conflation at the character-layer.",
+    "endriders_absorbs_none_either": "Endriders are Mardu-leaning Gastal apocalypse-punk; same set, different team. Same refusal logic applies.",
+    "why_not_three_new_team_nodes_this_pass": "Per parent-orchestrator discipline: one-per-invocation rule, no new structural-primitive vocabulary, and Prong B already absorbed the Mr. Nodeley budget (refused). Commissioning three new team character-nodes in one pass would violate the one-per-invocation rule three times over. Furthermore, the slate-density isn't yet at threshold-of-3-anchors per team in our corpus: Goblin Rocketeers has 1 trivia-attested card (Crash and Burn), Keelhaulers has 1 (Trade the Helm), Champions of Amonkhet has 1 (Back on Track). The threshold-of-3 precedent ([[trunks]] / [[pan]] / [[aether-rangers]] / [[endriders]]) requires 3+ corpus anchors per team before solo-team-node commissioning."
+  },
+  "triage_candidates_surfaced": [
+    {
+      "node_candidate": "goblin-rocketeers",
+      "current_anchors": ["DFT-119 Crash and Burn"],
+      "threshold_status": "1 of 3 — below threshold",
+      "future_trigger": "When 2 more Goblin Rocketeers trivia-attested DFT cards land (Daretti, Rocketeer Engineer DFT-120 is corpus-absent but canonical; other red/green DFT pit-crew cards may exist), evaluate node commissioning. Sibling pattern: aether-rangers, endriders.",
+      "canonical_basis": "magic.wizards.com: The Legends of Aetherdrift names Redshift + Daretti as co-captains; MTG Wiki has a Goblin Rocketeers team page per Aetherdrift coverage."
+    },
+    {
+      "node_candidate": "keelhaulers",
+      "current_anchors": ["DFT-69 Trade the Helm (art)"],
+      "threshold_status": "1 of 3 — below threshold",
+      "future_trigger": "When 2 more Keelhauler-attested DFT cards land (Kari Zev, Howler — both canonical co-captains, corpus-absent), evaluate node commissioning. Same sibling pattern.",
+      "canonical_basis": "magic.wizards.com: All 10 Racing Teams page; the team is documented in DFT Planeswalker's Guide coverage."
+    },
+    {
+      "node_candidate": "champions-of-amonkhet",
+      "current_anchors": ["DFT-76 Back on Track"],
+      "threshold_status": "1 of 3 — below threshold",
+      "future_trigger": "When 2 more Champions of Amonkhet-attested DFT cards land (Basri Ket DFT-anchored print, Zahur Eternal Charioteer DFT, additional Amonkhet-flavored DFT cards), evaluate node commissioning. Same sibling pattern.",
+      "canonical_basis": "magic.wizards.com: The Legends of Aetherdrift, Hour of Restoration article; Basri Ket M21 cross-set anchor."
+    }
+  ],
+  "alternative_considered_and_refused": [
+    {
+      "alternative": "Branch-attach all three to a new generic 'aetherdrift-grand-prix-teams' faction-node",
+      "refusal": "That would be a meta-node abstracting over teams that don't share narrative identity — Goblin Rocketeers and Keelhaulers and Champions of Amonkhet are explicit RIVALS in the same Grand Prix, not allies. Abstracting them into one node would erase the canonical inter-team friction that's the WHOLE point of the set. Refused."
+    },
+    {
+      "alternative": "Stretch one of the three cards to attach to aether-rangers or endriders via 'opposing team in same Grand Prix' edge",
+      "refusal": "That's an opposition-tag, not an edge. The Grand Prix is the SET, not a load-bearing narrative connection between two specific cards. Tag-bridge masquerading as edge. Refused."
+    }
+  ],
+  "files_modified": [],
+  "edgelord_mood": "satisfied",
+  "notes": "Refusal posture is the right call here. The three trivia-attested team-cohort flags are real signals — Wizards designed them in deliberately — but each team is below threshold-of-3 in our corpus. Park as triage entries; commission when the corpus density grows. The aether-rangers/endriders sibling precedent (both 3+ anchors at commissioning time) is the correct standard to hold to."
+}

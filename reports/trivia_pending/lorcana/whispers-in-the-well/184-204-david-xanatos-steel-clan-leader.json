@@ -1,0 +1,41 @@
+{
+  "card_name": "David Xanatos - Steel Clan Leader",
+  "game": "Lorcana",
+  "set": "Whispers in the Well",
+  "collector_number": "184/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is explicitly 'David Xanatos - Steel Clan Leader.' Flavor text is attributed '—David Xanatos.' A second David Xanatos card in the same set (David Xanatos - Charismatic Leader) confirms this is a two-card character feature. Whispers in the Well is confirmed as the set introducing Gargoyles to Lorcana. The Steel Clan are Xanatos's canonical gargoyle-robots from the Gargoyles animated series (1994). Identity confirmed via card name, attributed flavor text, Lorcana databases, Gargoyles source material wiki, and community articles.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "David Xanatos - Steel Clan Leader is card 184/204 in Whispers in the Well (Lorcana set 10, released November 14, 2025). Whispers in the Well marks the Lorcana debut of the Gargoyles franchise; the set's theme is film noir, mystery, and supernatural with soft horror elements. Xanatos appears in two versions in this set: Steel Clan Leader (Uncommon) and Charismatic Leader (separate print). Gargoyles' debut in Lorcana was a community-anticipated event — GamesRadar noted the announcements with the headline 'You'd need a heart of stone not to be excited.' [GamesRadar: Whispers in the Well Gargoyles cards, via WebSearch; Screen Rant: Whispers in the Well set overview, via WebSearch]",
+      "sources": ["GamesRadar: Whispers in the Well Gargoyles card reveals, via WebSearch", "Screen Rant: Whispers in the Well overview, via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: `\"A plan only fails when you don't learn from it. And my / plans never fail.\"` — David Xanatos [card frontmatter] — the quote encapsulates the 'Xanatos Gambit' planning philosophy the character originated. In Gargoyles (1994), Xanatos is famous for structuring plans with multiple fallback objectives, so that any single setback still advances an ulterior goal. This trope — now widely called the 'Xanatos Gambit' in pop culture and TV Tropes — was so paradigmatic that the character's name became the trope name. [Disney Wiki: David Xanatos, via WebSearch; TV Tropes: Xanatos Gambit, referenced via WebSearch]",
+      "sources": ["Card frontmatter (flavor_text field)", "Disney Wiki: David Xanatos, via WebSearch", "TV Tropes: Xanatos Gambit (via WebSearch search snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "The card is a 3-cost Steel Uncommon with ability MINOR INCONVENIENCE: when you play this character, you may choose and discard a card to deal 2 damage to a chosen character. The mechanical design is classically Xanatos: spend a resource (discard) to impose a cost on an opponent. No straightforward attack — just a calculated trade that always nets him something. Illustrated by Renato Roldan and Amanda Duarte (dual credit). [card frontmatter; Lorcana databases via WebSearch]",
+      "sources": ["Card frontmatter (oracle_text, artist fields)", "Lorcana databases via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Gargoyles (Disney animated series, 1994–1997, created by Greg Weisman), David Xanatos is a billionaire who has the Gargoyles awakened and brought to New York City to exploit. Voiced by Jonathan Frakes (who also played William Riker in Star Trek: The Next Generation — Weisman designed Xanatos with Frakes in mind). His first name David was chosen as an inversion of the biblical David-and-Goliath story: Goliath is the gargoyle hero, so Xanatos is a David who is the villain rather than the underdog. The Steel Clan are his robotic gargoyle-replica army built to fight the real gargoyles; Xanatos himself donned a red exo-frame modeled after Goliath in early clashes. [Wikipedia: David Xanatos, via WebSearch; Gargoyles Fandom Wiki: David Xanatos, via WebSearch]",
+      "sources": ["Wikipedia: David Xanatos, via WebSearch", "Gargoyles Fandom Wiki (grimorum): David Xanatos, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "David Xanatos - Charismatic Leader", "set": "Whispers in the Well", "note": "Second Xanatos card in the same set; separate version of the same character"},
+    {"name": "Goliath", "set": "Lorcana (if printed)", "note": "Primary Gargoyles protagonist; Xanatos's canonical adversary and the figure his exo-armor was modeled after"},
+    {"name": "Demona", "set": "Lorcana (if printed)", "note": "Major Gargoyles antagonist; frequently allied with Xanatos in the series"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

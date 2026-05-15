@@ -28,6 +28,9 @@ scratch/
 # Triviabot agent curl-cache scratch (sandbox can't delete on exit)
 reports/.cache_*
 
+# LorcanaJSON bulk allCards cache (7.6 MB, re-downloads on demand)
+reports/lorcana_allcards.json
+
 # Parent-side Puppeteer / curl cache (web-scrape artifacts from triviabot research)
 .cache/
 

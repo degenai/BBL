@@ -1,0 +1,43 @@
+{
+  "card_name": "Ginyu Force Recoome",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-096",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly includes 'Recoome' and 'Ginyu Force'. Vision describes a large muscular humanoid with bright reddish-orange hair, beady eyes, white-and-orange Ginyu Force battle armor, smug confident expression — all matching Recoome's canonical visual design (reddish-orange swept-back hair, white armor, bulky build). Verified: Recoome (Dragon Ball Z, Ginyu Force).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Recoome is one of five members of the Ginyu Force (Captain Ginyu, Guldo, Burter, Jeice, Recoome) — Frieza's elite mercenary squad dispatched to Namek during the Namek Saga of Dragon Ball Z. The Ginyu Force's naming convention is a dairy pun: Recoome derives from 'creme,' Burter from 'butter,' Jeice from 'cheese,' Guldo from 'yogurt,' and Ginyu from the Japanese word for milk [WebSearch: Ginyu Force naming, Dragon Ball Wiki via WebSearch].",
+      "sources": ["WebSearch: Ginyu Force naming conventions (multiple sources)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Recoome is characterized as the Ginyu Force's most flamboyant member — he poses in battle more often than Captain Ginyu himself and is described as a dim-witted bully who enjoys toying with opponents. Despite the goofy exterior he is considered the second-strongest member after Ginyu. He originated his battle poses from childhood dance training [Dragon Ball Official Site: Weekly Character Showcase no. 79, Recoome; WebSearch snippet].",
+      "sources": ["Dragon Ball Official Site: Weekly Character Showcase #79 Recoome", "WebSearch: CBR Recoome Ginyu Force article"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT1-096 is a Common card from Galactic Battle (BT1). The Ginyu Force as a named cohort appears across multiple BT1 cards — the set's Frieza archetype was the other major launch deck alongside Broly, with Ginyu Force members serving as support Battle cards [PSA Set Registry article on Galactic Battle 2017].",
+      "sources": ["PSA Set Registry: Galactic Battle 2017"]
+    },
+    {
+      "category": "design",
+      "text": "Recoome was killed on Namek twice: once by Vegeta (energy wave) and then by Goku (single punch). His first defeat by Goku — a single hit to the midsection that knocked him unconscious — became one of the series' defining power-scaling moments and a frequently referenced meme for fan discussions about relative power levels [WebSearch: CBR 'Recoome is Dragon Ball Z's Scariest Ginyu Force Member'].",
+      "sources": ["WebSearch: CBR article 'Recoome is Dragon Ball Z's Scariest Ginyu Force Member Thanks to Untapped Potential'"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Captain Ginyu (various BT1 cards)", "set": "Galactic Battle", "note": "Ginyu Force Leader — the 5-member cohort anchor"},
+    {"name": "Jeice (BT1)", "set": "Galactic Battle", "note": "Ginyu Force member — corpus may have additional Ginyu Force entries for Nodeley consideration"},
+    {"name": "Guldo (BT1)", "set": "Galactic Battle", "note": "Ginyu Force member — 5-member cohort"},
+    {"name": "Burter (BT1)", "set": "Galactic Battle", "note": "Ginyu Force member — 5-member cohort"},
+    {"name": "Appule", "set": "Galactic Battle", "note": "BT1-102 — fellow Frieza Force rank-and-file in the same corpus batch; Frieza Force vs Ginyu Force hierarchy contrast"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Recoome",
+    "ip_confidence": "high"
+  }
+}

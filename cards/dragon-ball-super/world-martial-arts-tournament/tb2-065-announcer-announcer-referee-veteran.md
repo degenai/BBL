@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["wmat-tournament-announcer"]
 tags_hub: ["labor", "service-worker", "announcer", "tournament", "spectacle", "voice", "showmanship", "suit", "microphone", "witness"]
 tags_filter: ["solo", "mid-shot", "portrait", "male-figure", "anime-style", "three-quarter"]
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-065-announcer-announcer-referee-veteran.png

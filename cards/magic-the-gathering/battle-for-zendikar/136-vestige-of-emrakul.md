@@ -55,3 +55,16 @@ A mid-to-wide shot of an Eldrazi creature in a low, crouched posture on barren d
 **Iconography:** asymmetric-biology, eldrazi-carapace, spawn-sac
 **Genre cues:** fantasy, cosmic-horror
 
+## Trivia
+
+- **Set context / narrative function** — Battle for Zendikar (BFZ, released 2015-10-02) resolves Ulamog's arc but deliberately holds Emrakul offscreen — she does not appear on Zendikar during BFZ. Her next appearance is Emrakul, the Promised End in Eldritch Moon (2016), arriving on Innistrad after traveling through the Blind Eternities. Vestige of Emrakul is one of several BFZ cards that name Emrakul in flavor text while she remains absent, building dread through negative space `[Scryfall API]`.
+- **Flavor text** — "Emrakul has not been seen in months. Though her brood's numbers have dwindled in her absence, each drone is still a deadly threat." `[Scryfall]` The phrase "not been seen in months" operates as in-world foreshadowing: the titan is withheld from players precisely because she is being saved for Eldritch Moon's reveal. The flavor text's emphasis on individual drone lethality compensates narratively for the reduced brood count.
+- **Mechanical profile** — A {3}{R} 3/4 Eldrazi Drone with Devoid and Trample. Vanilla-plus stats for common rarity — no activated abilities, no triggered abilities. Pauper-legal. EDHREC rank 27,830 is the lowest of the wave-86 BFZ cards, consistent with its status as a pure beatstick `[Scryfall]`.
+- **Design** — Illustrated by Tyler Jacobson, known for landmark MTG pieces including Sarkhan, the Dragonspeaker (Khans of Tarkir) and multiple planeswalker portraits. Jacobson contributing to a bulk common reflects BFZ's art-team investment in giving even low-rarity Eldrazi cards a visually arresting horror register `[Scryfall]`.
+
+### Related cards
+- Emrakul, the Promised End (Eldritch Moon) — the titan Vestige of Emrakul names by absence; the "months" of absence referenced in the flavor text culminate in her EMN reveal
+- Nettle Drone (Battle for Zendikar, no. 131) — sister BFZ Eldrazi Drone common in the same collector-number range; same Devoid block identity
+- Eldrazi Devastator (Battle for Zendikar) — BFZ bulk-Eldrazi common with Trample; functional parallel at higher mana cost
+- Endless One (Battle for Zendikar) — colorless Eldrazi; pairs with Vestige in common-rarity Eldrazi builds
+

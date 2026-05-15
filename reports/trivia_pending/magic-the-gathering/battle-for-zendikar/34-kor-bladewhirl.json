@@ -1,0 +1,42 @@
+{
+  "card_name": "Kor Bladewhirl",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "34",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Battle for Zendikar (BFZ, released 2015-10-02) was the first set of the Battle for Zendikar block, depicting the full-scale Eldrazi invasion of Zendikar with the Kor among the main resistance factions. The Kor are a nomadic humanoid race defined by their use of ropes, hooks, and grappling equipment — tools with both practical and sacred-symbolic significance in their culture. [Scryfall API; coolstuffinc.com: \"Ecology of the Kor\" via WebSearch]",
+      "sources": ["Scryfall", "coolstuffinc.com: Ecology of the Kor (WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"The high-pitched whirl of a hook is the only battle cry she needs.\" [Scryfall] The flavor text directly names the Kor's iconic weapon — the hooked chain — and frames it as sufficient for rallying, which is also the card's mechanical keyword (Rally). The hook-as-sacred-symbol carries specific weight: Kor culture uses a hooked line as a social and religious symbol representing connection between individuals and to Zendikar itself. [Scryfall; coolstuffinc.com: Ecology of the Kor via WebSearch]",
+      "sources": ["Scryfall", "coolstuffinc.com: Ecology of the Kor (WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rally — whenever this creature or another Ally you control enters, creatures you control gain first strike until end of turn — makes Kor Bladewhirl a stackable combat trick in Ally-dense boards. At {1}{W} for a 2/2 it was a limited workhorse in BFZ draft; Pioneer Ally decks have occasionally slotted it for the mass first-strike line. EDHREC rank 13,949. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Steven Belledin, a prolific MTG artist known for naturalistic portraiture with complex lighting — well-matched to the Kor's textured rope-and-leather aesthetic. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kor Entanglers", "set": "Battle for Zendikar", "note": "Sister Kor Ally card in the same set — same race, same Rally keyword, same hook-and-rope visual vocabulary"},
+    {"name": "Kor Skyfisher", "set": "Zendikar", "note": "Classic Kor card from the original Zendikar block; established the hook-and-line visual signature"},
+    {"name": "Munda, Ambush Leader", "set": "Battle for Zendikar", "note": "Named Kor ally leader; the corpus character node for kor cross-references here"},
+    {"name": "Drana, Liberator of Malakir", "set": "Battle for Zendikar", "note": "BFZ narrative counterpart — the vampire commander whose allied resistance framing parallels the Kor ally cluster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

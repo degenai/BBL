@@ -55,7 +55,9 @@ Triangulation is deliberate — *produce / refuse / tend* covers the three Marxi
 
 ## Design Note
 
-This hub is **deliberately graph-invisible** in Obsidian view. The `tag_signals` listed above are an *informational* indirection — cards with overlapping `tags_hub` are *candidates* for Stewardship lair assembly, not auto-anchored members. There is no `appears_on:` or `anchored_cards:` field on this node, and there won't be.
+This hub is **deliberately card-edge disconnected** in Obsidian's graph view. The node itself is visible — it sits in the layer-node clique linked to other layer nodes via body wikilinks like `[[stewardship]]` in character node bodies (Whis-attendant nodes, Aether-Foundation's corrupted-stewardship case, etc.) — but **no edges connect this hub to any individual card** by design, even when a card depicts care or tending directly (the wire flows via character / symbol nodes, not via hub-name-matching).
+
+The `tag_signals` listed above are an *informational* indirection — cards with overlapping `tags_hub` are *candidates* for Stewardship lair assembly, not auto-anchored members. There is no `appears_on:` or `anchored_cards:` field on this node, and there won't be.
 
 Why: rendering all tag-signal-matched cards as graph edges would balloon Stewardship to ~120 anchors (mostly drift — "guardian" alone matches 54 cards, most of which are bodyguards or wardens rather than commons-tenders). And more fundamentally — *cards are inventory, bundles are destructive*. When a Discrete Lair assembles, those cards leave the corpus on sale; any field pinning specific cards as canonical hub-anchors would be wrong the moment they ship. See `bbl-bundles-are-destructive-on-graph.md` (wave 81 P3 decision, 2026-05-14).
 

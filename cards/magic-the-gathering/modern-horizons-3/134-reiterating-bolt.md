@@ -58,3 +58,16 @@ A humanoid figure stands center-frame with arms spread wide and head tilted back
 ## Connections
 
 - [[izzet-league]] — Izzet magewright caught mid-replication, ecstatic before the academy-rivalry mirror. The flavor speaker's academy-rivalry rhetoric and the spell's replicate keyword (the Izzet guild's signature *Guildpact*-block mechanical signature) place this card squarely in the Izzet League institutional register. `[MTG Wiki: Izzet League — replicate keyword and academy-rivalry rhetoric]`
+
+## Trivia
+
+- **Set context / mechanic history** — Replicate was originally an Izzet keyword from Guildpact (2006, Ravnica block) — appearing on 10 cards, all in blue-red. Modern Horizons 3 (MH3, released 2024-06-14) revives Replicate with a twist: instead of paying mana, you spend Energy counters ({E}{E}{E} per copy). The original design separated the replicate cost from the casting cost specifically to allow future sets to vary the cost type — MH3's energy version is the intended realization of that flexibility `[Draftsim.com: MTG Replicate mechanic history, via WebSearch; Scryfall API]`.
+- **Flavor text** — "Eureka! Now to show those fools at the Academy how easily I can replicate *these* results!" `[Scryfall]` The unnamed speaker's academy-rivalry rhetoric maps directly onto Izzet guild culture on Ravnica, where the League competes with the Azorius Senate and Simic Combine for intellectual prestige — and the word "replicate" appears both in the exclamation and in the card's keyword, a deliberate double meaning.
+- **Mechanical design** — Deals 3 damage to a creature or planeswalker for {1}{R}, then copies for each {E}{E}{E} spent. In MH3 Limited's blue-red Energy archetype — which generates Energy via cantrips and artifact synergies — copying this twice in one turn becomes a realistic sequence for clearing a board or closing out games `[Scryfall; dotesports.com: Best MH3 draft removal, via WebSearch]`.
+- **Format profile** — Legal in Modern, Legacy, Commander, and Historic. EDHREC rank 17,009. Illustrated by G-host Lee `[Scryfall]`.
+
+### Related cards
+- Vacuumelt (Guildpact) — original Izzet Replicate card from the mechanic's debut set; the direct mechanical ancestor
+- Galvanic Relay (Modern Horizons 2) — storm-adjacent red spell; same MH series design space of self-copying damage
+- Aether Hub (Kaladesh) — canonical Energy generator; anchors the economy Reiterating Bolt draws on
+- Goblin Electromancer (Return to Ravnica) — Izzet cost-reduction creature; reduces the base {1}{R} cast, not the energy replicate cost — an interesting interaction point

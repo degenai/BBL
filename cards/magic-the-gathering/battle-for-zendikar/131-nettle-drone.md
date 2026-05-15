@@ -54,3 +54,16 @@ A close-up of an Eldrazi drone centered in the frame against a pale, washed-out 
 **Iconography:** asymmetric-biology, radial-burst, spines
 **Genre cues:** fantasy, cosmic-horror
 
+## Trivia
+
+- **Set / mechanic context** — Battle for Zendikar (BFZ, released 2015-10-02) introduced Devoid as the mechanical signature of the Eldrazi drone cycle: cards printed in colored frames that have no color in their mana identity. Nettle Drone is a {2}{R} 3/1 Eldrazi Drone — it appears red but is colorless per the Devoid rule, enabling it to trigger its own untap clause by casting itself `[Scryfall API]`.
+- **Mechanical reputation** — Nettle Drone's untap-on-colorless-spell ability enabled a documented Pauper infinite-damage combo: pairing it with Retraction Helix or Banishing Knack on a creature, plus any free colorless artifact (e.g., Ornithopter or Welding Jar), creates an infinite loop of untaps and Tap activations dealing 1 damage to each opponent per cycle. The combo archetype is documented as "Nettle-drazi Combo" in Pauper deckbuilding communities `[tappedout.net: "4 Infinite Combos with Nettle Drone"; deckstats.net: "Nettle-drazi Combo," via WebSearch]`.
+- **Format profile** — Pauper-legal and PauperCommander-legal. No flavor text (Scryfall flavor_text field is null). EDHREC rank 11,642 — the strongest EDHREC rank among the wave-86 BFZ commons, reflecting its combo-enabling ceiling beyond simple beatstick utility `[Scryfall]`.
+- **Design** — Illustrated by Clint Cearley, who painted multiple Eldrazi drone cards across BFZ and Oath of the Gatewatch. His radially symmetric, spiny visual style is consistent across the Eldrazi drone sub-type in the block `[Scryfall]`.
+
+### Related cards
+- Vestige of Emrakul (Battle for Zendikar, no. 136) — sister BFZ Eldrazi Drone common in the same collector-number range; same Devoid block identity
+- Eldrazi Skyspawner (Battle for Zendikar) — generates colorless Scion tokens on entry, directly feeding Nettle Drone's untap trigger
+- Battered Golem (Fifth Dawn) — functional parallel: also untaps when an artifact is cast; documented in the same Pauper combo lists as Nettle Drone
+- Ghostfire Blade (Khans of Tarkir) — equipment giving +2/+1 to colorless creatures; upgrades Nettle Drone for faster kills in beatdown lines
+

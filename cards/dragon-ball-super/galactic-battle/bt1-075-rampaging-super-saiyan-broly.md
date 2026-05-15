@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["broly"]
 tags_hub: ["rage", "giant", "power", "rampage", "saiyan", "green-aura", "legendary", "wild", "unstoppable", "monster", "anime-villain", "berserker"]
 tags_filter: ["solo", "mid-shot", "action", "forward-facing", "male-figure", "anime"]
 reference_image: cards/_images/dragon-ball-super/galactic-battle/bt1-075-rampaging-super-saiyan-broly.png
@@ -29,7 +30,7 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Broly (Dragon Ball Z, Legendary Super Saiyan, Movie 8)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Rampaging Super Saiyan Broly (Galactic Battle)
@@ -38,8 +39,8 @@ ip_verified: false
 
 ![bt1-075-rampaging-super-saiyan-broly](../../_images/dragon-ball-super/galactic-battle/bt1-075-rampaging-super-saiyan-broly.png)
 
-> [!warning] Suspected IP: **Broly (Dragon Ball Z, Legendary Super Saiyan, Movie 8)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Broly (Dragon Ball Z, Legendary Super Saiyan, Movie 8)**
+> Confirmed via card name ("Rampaging Super Saiyan Broly"), green Legendary Super Saiyan aura, and Bandai's official Broly green archetype documentation for BT1 [Bandai DBS Strategy: Galactic Battle Deck Breakdowns; Wikipedia: Broly].
 
 A towering muscular figure dominates the frame in a wide stance, arms held partially out to the sides. The hair is extremely long, wild, and erupts upward in the manner of a powered-up state, with a green-tinted energy aura surrounding the body. The figure has a heavy, large-framed build that is visibly massive relative to the frame. The face shows wide, wild eyes and an expression of uncontrolled ferocity. The background is filled with swirling green energy and bright light effects. The composition is a mid-shot to wide framing.
 
@@ -54,3 +55,15 @@ A towering muscular figure dominates the frame in a wide stance, arms held parti
 **Iconography:** energy-aura, super-saiyan, green-aura, power-up
 **Genre cues:** anime, fantasy
 
+## Trivia
+
+- **Set context** — Galactic Battle (BT1) launched July 28, 2017 as the inaugural set of the Dragon Ball Super Card Game — 114 cards total (60 commons). Bandai explicitly designed the Broly archetype as one of the two flagship launch decks, with green as Broly's color identity [PSA Set Registry: Galactic Battle 2017].
+- **Canonical lineage** — This card depicts the non-canonical Movie 8 Broly, created by screenwriter Takao Koyama and first appearing in Dragon Ball Z: Broly - The Legendary Super Saiyan (1993). This version of the character existed outside Akira Toriyama's continuity for 25 years before Toriyama produced a canonical reimagining in Dragon Ball Super: Broly (2018). The two Brolys differ substantially: Movie 8 Broly's Goku fixation stems from adjacent nursery-pod placement as infants; the 2018 version is a more sympathetic, less rage-driven character [Wikipedia: Dragon Ball Z: Broly - The Legendary Super Saiyan; Wikipedia: Dragon Ball Super: Broly].
+- **Mechanical role** — BT1-075 functions as a finishing piece in the Broly green archetype. The Leader Broly forces both players to send a card to the Drop Area on each attack; BT1-075 slots in as the damage-closing Battle card for that hand-disruption gameplan [Bandai DBS Strategy: Deck Breakdowns Series 1 - Broly].
+- **Design** — The green energy aura and oversized muscular frame distinguish the Legendary Super Saiyan form from standard SSJ gold — a Toei visual design that became one of DBZ's most-merchandised transformations despite its original non-canon status [Wikipedia: Broly].
+
+### Related cards
+- Broly's Ring (Galactic Battle, BT1-081) — the Field card that negates the Leader Broly's self-discard punishment, enabling the archetype
+- Full Power Energy (Galactic Battle, BT1-080) — adjacent green support card in the same Broly cluster
+- Broly // Broly, The Legendary Super Saiyan (Galactic Battle, BT1-057/073) — the Leader and SR versions anchoring the archetype
+- SS Broly, Full Power Frenzy (Fighter's Ambition, BT19-088) — later canonical DBS Broly print for contrast with the Movie 8 lineage

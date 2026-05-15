@@ -1,0 +1,42 @@
+{
+  "card_name": "Reiterating Bolt",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "134",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Modern Horizons 3 (MH3, released 2024-06-14) revives Replicate — originally an Izzet keyword from Guildpact (2006, Ravnica block) — now rewired to spend Energy counters instead of mana. Replicate in Guildpact appeared on 10 cards, all in Izzet colors; MH3 re-contextualizes it in an Energy shell for the blue-red archetype. [Scryfall; Draftsim.com: MTG Replicate mechanic history via WebSearch]",
+      "sources": ["Scryfall", "Draftsim.com: MTG Replicate mechanic history (WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Eureka! Now to show those fools at the Academy how easily I can replicate *these* results!\" [Scryfall] The unnamed speaker's academy-rivalry rhetoric is consistent with the Izzet guild's institutional culture on Ravnica — the League competes directly with the Azorius Senate and Simic Combine for intellectual prestige. The card is tagged in the corpus with characters: [\"izzet-league\"].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Reiterating Bolt deals 3 damage to a creature or planeswalker for {1}{R}, then can be copied for each additional {E}{E}{E} spent (Energy Replicate). In MH3 Limited, the blue-red Energy archetype generates Energy via cantrips and generators; copying this bolt 2-3 times in one turn becomes a plausible board-clear sequence. EDHREC rank 17,009 reflects niche Commander interest. [Scryfall; dotesports.com: Best MH3 draft removal via WebSearch]",
+      "sources": ["Scryfall", "dotesports.com (WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by G-host Lee, whose work appears across multiple recent Magic sets. The original Replicate keyword was designed with modularity in mind — the design team intentionally separated the replicate cost from the casting cost so it could return with different cost parameters in future sets; MH3's energy-cost version is the realization of that flexibility. [Draftsim.com: Replicate history via WebSearch snippet]",
+      "sources": ["Draftsim.com: Replicate history (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Vacuumelt", "set": "Guildpact", "note": "Original Izzet Replicate card — the direct mechanical ancestor"},
+    {"name": "Surging Flame", "set": "Coldsnap", "note": "Ripple mechanic counterpart — also copies a damage spell multiple times, different execution"},
+    {"name": "Galvanic Relay", "set": "Modern Horizons 2", "note": "Storm-adjacent red spell with copy mechanics; same MH series design space"},
+    {"name": "Aether Hub", "set": "Kaladesh", "note": "Canonical Energy generator; the energy economy Reiterating Bolt draws on"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

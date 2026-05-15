@@ -1,0 +1,37 @@
+{
+  "card_name": "Broly, Dawn of the Rampage (2017)",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-076",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Broly, Dawn of the Rampage'; Era: Broly Saga; Special Trait: Saiyan. The depicted figure has massive musculature, long dark hair, torn dark clothing, and a green energy aura — all canonical visual identifiers of Broly in his pre-transformation state as depicted in Dragon Ball Z Movie 8 (1993). The card title 'Dawn of the Rampage' directly names the pre-powered moment before the Legendary Super Saiyan form erupts, consistent with the figure's subdued pre-transformation appearance. [Wikipedia: Dragon Ball Z: Broly – The Legendary Super Saiyan; WebSearch: TCGplayer BT1-076]",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Galactic Battle (DBS-B01, July 2017) features two distinct arc pools: the Universe 6 / Champa Arc and the Broly Saga. The Broly Saga cards reference the 1993 non-canon film Dragon Ball Z: Broly – The Legendary Super Saiyan (Movie 8). In that film, Broly is revealed to have been born with a power level of 10,000 — extraordinarily high for a newborn — which prompted King Vegeta to order his execution. Paragus and Broly survived, ultimately seeking revenge on King Vegeta's bloodline. [Wikipedia: Dragon Ball Z: Broly – The Legendary Super Saiyan]",
+      "sources": ["Wikipedia: Dragon Ball Z: Broly – The Legendary Super Saiyan"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT1-076 is a green Common Battle card (1 energy, 5000 power). Its [Auto] on-play skill lets you look at up to 7 cards from the top of your deck and add 1 green Broly card to hand — functioning as a tutor specifically for the Broly archetype, enabling access to BT1-075 (Rampaging Super Saiyan Broly, 30000 power / Triple Strike) or the BT1-073 leader. [WebSearch: dbs-cardgame.com Galactic Battle Deck Breakdown Broly; WebSearch: DBZExchange BT1-076]",
+      "sources": ["WebSearch: dbs-cardgame.com Galactic Battle Deck Breakdown Broly", "WebSearch: DBZExchange BT1-076"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The original Broly (Movie 8) is described by Wikipedia as 'a non-canon major villain created by screenwriter Takao Koyama.' A canonical reimagining was introduced in the 2018 theatrical film Dragon Ball Super: Broly, which retconned the character into main Dragon Ball continuity. BT1-076 predates that film and references the classic non-canon Broly — a distinction the DBS TCG later reflected by printing both versions across sets. [Wikipedia: Broly; WebSearch: dbs-cardgame.com Galactic Battle Checklist]",
+      "sources": ["Wikipedia: Broly", "WebSearch: dbs-cardgame.com Galactic Battle Checklist"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Broly // Broly, The Legendary Super Saiyan", "set": "Galactic Battle", "note": "BT1-073 — Leader card for the Broly archetype in this set"},
+    {"name": "Rampaging Super Saiyan Broly", "set": "Galactic Battle", "note": "BT1-075 — the primary finisher this card tutors for (30000 power, Triple Strike)"},
+    {"name": "Paragus, Controller of Monsters", "set": "Galactic Battle", "note": "BT1-077 — adjacent card, Broly's father and controller in Movie 8"},
+    {"name": "Broly's Ring", "set": "Galactic Battle", "note": "BT1-081 — Extra card in inventory, the mind-control device that suppresses Broly's power"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

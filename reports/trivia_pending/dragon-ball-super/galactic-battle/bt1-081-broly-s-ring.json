@@ -1,0 +1,41 @@
+{
+  "card_name": "Broly's Ring",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-081",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Broly's Ring' and the depicted duo of a larger looming figure behind a smaller foreground figure wearing a gold control crown match the canonical Movie 8 scene: Paragus (father) controls Broly (son) via a mind-control headband. The card's green color and Field mechanic (shielding the Broly-controller's hand from the Leader's discard effect) mechanically re-enacts the control relationship. Vision's 'domination and submission' read is consistent. Verified: Broly and Paragus (Dragon Ball Z, Movie 8).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "In Dragon Ball Z: Broly - The Legendary Super Saiyan (1993), Paragus uses a device on his bracelet synced to a mind-control crown on Broly's head to suppress the Legendary Super Saiyan. Broly ultimately shatters the crown and transforms, turning on his father. This card's name and control-relationship art directly depict that plot mechanic [Wikipedia: Dragon Ball Z: Broly - The Legendary Super Saiyan].",
+      "sources": ["Wikipedia: Dragon Ball Z: Broly – The Legendary Super Saiyan"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT1-081 is a green [Field] Extra card (1 green energy cost, Common). Its [Permanent] skill prevents the Broly Leader's forced-discard from affecting your hand — mechanically mirroring Paragus holding Broly's power in check. It is considered a must-include in any BT1 Broly archetype deck [Bandai DBS Strategy: Galactic Battle Deck Breakdowns; WebSearch: retailers/pricecharting].",
+      "sources": ["Bandai DBS Card Game Strategy: Deck Breakdowns Series1 - Broly", "WebSearch: pinkbunnygames, bigorbitcards retailer listings BT1-081"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The ring/crown as control artifact has a dual valence in Movie 8 lore: it is simultaneously a leash (Paragus suppressing the monster he created) and a liability (the moment it shatters, Paragus loses control entirely). This is the central dramatic tension of the film's second act [Wikipedia: Dragon Ball Z: Broly - The Legendary Super Saiyan].",
+      "sources": ["Wikipedia: Dragon Ball Z: Broly – The Legendary Super Saiyan"]
+    },
+    {
+      "category": "design",
+      "text": "Paragus, the controlling father figure depicted behind Broly on this card, is a Saiyan survivor who escaped King Vegeta's execution order alongside infant Broly. He manipulated the New Planet Vegeta scheme to get revenge on King Vegeta's son, using Broly as the instrument — making the control-ring both a safety device and a weapon [Wikipedia: Dragon Ball Z: Broly - The Legendary Super Saiyan].",
+      "sources": ["Wikipedia: Dragon Ball Z: Broly – The Legendary Super Saiyan"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rampaging Super Saiyan Broly", "set": "Galactic Battle", "note": "BT1-075 — the Battle card this Field supports"},
+    {"name": "Broly // Broly, The Legendary Super Saiyan", "set": "Galactic Battle", "note": "BT1-057/073 — the Leader whose discard mechanic Broly's Ring counters"},
+    {"name": "Full Power Energy", "set": "Galactic Battle", "note": "BT1-080 — third green Broly-cluster card in the corpus"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Broly and Paragus (Dragon Ball Z, Movie 8)",
+    "ip_confidence": "high"
+  }
+}

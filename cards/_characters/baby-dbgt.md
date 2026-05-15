@@ -17,7 +17,7 @@ appears_on:
   - dragon-ball-super/cross-worlds/bt3-017-dr-myuu-under-baby-s-control
 related_hubs: []
 related_symbols: []
-related_characters: [trunks]
+related_characters: [trunks, machine-mutants-m2]
 ip_resolution_for: baby-dragon-ball-gt
 ---
 

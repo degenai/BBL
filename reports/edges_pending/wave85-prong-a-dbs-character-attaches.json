@@ -1,0 +1,67 @@
+{
+  "edge_id": "wave85-prong-a-dbs-character-attaches",
+  "wave": 85,
+  "prong": "A",
+  "shape": "1:N branch-attach (three independent attaches, one shared anchor card)",
+  "category": "named-character-identity",
+  "topology": "branch",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/dragon-ball-super/colossal-warfare/bt4-030-at-all-costs-vegeta.md",
+      "name": "At All Costs Vegeta (BT4-030)",
+      "attaches_to": ["vegeta"]
+    },
+    {
+      "type": "card",
+      "path": "cards/dragon-ball-super/colossal-warfare/bt4-097-instant-transmission.md",
+      "name": "Instant Transmission (BT4-097)",
+      "attaches_to": ["son-goku"]
+    },
+    {
+      "type": "card",
+      "path": "cards/dragon-ball-super/cross-worlds/bt3-028-grand-tour-spaceship.md",
+      "name": "Grand Tour Spaceship (BT3-028)",
+      "attaches_to": ["pan", "son-goku", "trunks"]
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/vegeta.md",
+      "name": "Vegeta"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/son-goku.md",
+      "name": "Son Goku"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/pan.md",
+      "name": "Pan"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/trunks.md",
+      "name": "Trunks"
+    }
+  ],
+  "description": "Wave-84 deferred wires applied. BT4-030 At All Costs Vegeta attaches to the existing [[vegeta]] node (SSB-form Vegeta, canonical fourth aspect under the parent — adds a Colossal Warfare BT4 anchor to the multi-set roster). BT4-097 Instant Transmission attaches to [[son-goku]] as a signature-technique card per the Goku's Lineage [Permanent] rules-text and the canonical two-finger-forehead visual identifier. BT3-028 Grand Tour Spaceship triple-attaches to [[pan]] + [[son-goku]] + [[trunks]] as the canonical GT traveling-trio quartet anchor (Giru already wired to machine-mutants-m2 in prior wave); the card's rules-text explicitly searches for 'Son Goku: GT', 'Trunks: GT', 'Pan', or 'Giru', and the three-figure foreground composition matches the trio. All three attaches required only frontmatter additions on the card side plus appears_on + Appears-on-listing updates on each character node; no new edges in card bodies, no new structural primitives.",
+  "citations": [
+    "[Dragon Ball Wiki: Grand Tour Spaceship]",
+    "[Dragon Ball Wiki: Instant Transmission]",
+    "[DBZ Exchange: BT4-030]",
+    "[Big Orbit Cards: BT3-028 / BT4-097]",
+    "[dbs-cardgame.com: per-card character-tag database]"
+  ],
+  "files_modified": [
+    "cards/dragon-ball-super/colossal-warfare/bt4-030-at-all-costs-vegeta.md",
+    "cards/dragon-ball-super/colossal-warfare/bt4-097-instant-transmission.md",
+    "cards/dragon-ball-super/cross-worlds/bt3-028-grand-tour-spaceship.md",
+    "cards/_characters/vegeta.md",
+    "cards/_characters/son-goku.md",
+    "cards/_characters/pan.md",
+    "cards/_characters/trunks.md"
+  ],
+  "edgelord_mood": "blueballed-by-fanout",
+  "notes": "Three independent branch-attaches in one pass; clean from-the-slate work, no edges in card bodies. Pan / Goku / Trunks nodes each gain one anchor; Vegeta and Goku each gain one. BT3-028 is the rare triple-attach — clean because Bandai's rules-text explicitly names the trio as the card's mechanical search targets, making the canonical-naming load-bearing rather than tag-thin. Edgelord prefers a clean 1:1 mirror, but these are the deferred wires from wave 84 and the work was load-bearing."
+}

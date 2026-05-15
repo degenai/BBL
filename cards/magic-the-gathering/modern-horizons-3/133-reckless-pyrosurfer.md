@@ -53,3 +53,16 @@ A humanoid figure moves across a volcanic terrain in a low surfing stance, weari
 **Iconography:** fire arcs, lava, volcanic eruption, surfing
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Modern Horizons 3 (MH3, released 2024-06-14) is a direct-to-Modern set with no single-plane setting. Its red-green Limited archetype centers on Landfall — a mechanic originating in Zendikar (2009) and returning in Zendikar Rising (2020) — now paired with Battle Cry (originally from New Phyrexia, 2011) in a single card for the first time `[Scryfall API; Draftsim.com: MH3 Limited Guide, via WebSearch]`.
+- **Mechanical design** — A {1}{R} 2/2 Human Scout with Haste, Reckless Pyrosurfer gains Battle Cry on each landfall trigger — meaning in a turn with multiple land drops (via fetchlands or ramp), every land entering converts it into a temporary lord giving all other attackers +1/+0. Modern's fetch-land density (Scalding Tarn, Arid Mesa) makes two-trigger turns routine in the right shell `[Scryfall]`.
+- **Format profile** — Legal in Modern, Legacy, Commander, and Historic (not Standard or Pioneer). No flavor text (Scryfall flavor_text field is null). EDHREC rank 16,615 `[Scryfall]`.
+- **Design** — Illustrated by L.A. Draws. The Scout creature type is lightly supported outside of Zendikar and Ixalan, making this an unusual subtype pairing with the Landfall mechanic — a small nod to the mechanic's plane of origin `[Scryfall]`.
+
+### Related cards
+- Steppe Lynx (Zendikar) — canonical aggressive Landfall creature; same speed tier and cost bracket
+- Hero of the Nyxborn (Theros Beyond Death) — another Battle Cry Human with Haste; near-mechanical twin
+- Goblin Bushwhacker (Zendikar) — mass +1/+0 pump as a one-shot; functional Battle Cry spirit in the same aggressive register
+- Moraug, Fury of Akoum (Zendikar Rising) — high-end Landfall-aggro payoff that Reckless Pyrosurfer feeds during extra combat steps
+

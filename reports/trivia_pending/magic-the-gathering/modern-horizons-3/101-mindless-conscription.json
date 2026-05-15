@@ -1,0 +1,42 @@
+{
+  "card_name": "Mindless Conscription",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "101",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Modern Horizons 3 (set code MH3, released 2024-06-14) is a format-spanning direct-to-Modern set that revisits mechanics from Magic's full history. MH3 has no single-plane identity — its cards draw on characters, planes, and mechanics from across the game's timeline. [Scryfall API]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mindless Conscription is a {2}{B} uncommon enchantment that amasses Zombies 3 on entry and again whenever you draw your third card in a turn — rewarding draw-heavy black builds with a snowballing Zombie Army token. Amass Zombies (as opposed to amass Orcs, introduced in LTR) specifies the Army token subtype as Zombie. EDHREC rank 12,603 places it in modest but non-negligible Commander territory. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The draw-third-card trigger pairs naturally with blue card draw but belongs to a black-only card — rewarding a Dimir (blue-black) shell in MH3 Limited, which leans toward draw-matters themes. The card has no flavor text. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Warren Mahy, a New Zealand-based artist known for highly atmospheric MTG landscapes and creature portraits across many sets including Zendikar, Innistrad, and Theros blocks. [Scryfall; WebSearch snippet via scryfall.com/card/mh3/101]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Amass the Components", "set": "War of the Spark", "note": "Early amass card — different token subtype (Orcs in LTR, Zombies here); predecessor mechanic"},
+    {"name": "Drawn from Dreams", "set": "Core Set 2020", "note": "Draw-matters black/blue card; same shell target for Mindless Conscription's draw trigger"},
+    {"name": "Army of the Damned", "set": "Innistrad", "note": "Classic Zombie-mass-summoning enchantment; thematic ancestor of zombie-army mechanics"},
+    {"name": "Cryptbreaker", "set": "Eldritch Moon", "note": "Zombie synergy draw engine; relevant to the draw-third-card shell"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

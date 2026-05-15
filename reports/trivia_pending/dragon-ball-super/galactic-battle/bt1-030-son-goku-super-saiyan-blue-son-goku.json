@@ -1,0 +1,36 @@
+{
+  "card_name": "Son Goku // Super Saiyan Blue Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-030",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Son Goku // Super Saiyan Blue Son Goku'; orange martial arts gi + dark spiky hair (base form front) with blue energy aura (SSB back) is Goku's canonical dual-form appearance in the Resurrection F Saga. Card is typed as Era: Resurrection F Saga, Special Trait: Saiyan. Leader card depicts both base and Super Saiyan Blue forms explicitly in the card name. IP confirmed via card name, era tag, and canonical visual identifiers.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Galactic Battle (DBS-B01) was the inaugural booster set for the Dragon Ball Super Card Game, released July 28, 2017. BT1-030 is an Uncommon Leader card from this set's Resurrection F Saga pool — the arc in which Goku's Super Saiyan Blue form first appeared. Super Saiyan Blue (Super Saiyan God Super Saiyan) is achieved by combining Super Saiyan with the Super Saiyan God power; it debuted in the 2015 film Dragon Ball Z: Resurrection F before being incorporated into the Dragon Ball Super anime. [WebSearch: PSA Set Registry Galactic Battle 2017; WebSearch: pricecharting.com BT1-030]",
+      "sources": ["WebSearch: PSA Set Registry Galactic Battle 2017", "WebSearch: pricecharting.com BT1-030"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a Leader card, BT1-030 flips between two states. The front (base Son Goku, 10000 power, Blue) gains +1000 power for each energy when attacking and draws 2 cards when life drops to 4 or fewer, then flips. The back (Super Saiyan Blue Son Goku, 15000 power) gains an [Once per turn] active-mode reset when you control 7 or more energy — a late-game sustained pressure engine. This design mirrors Goku's in-universe approach of conserving energy until a power escalation forces a transformation. [WebSearch: CoreTCG BT1-030; WebSearch: TrollAndToad BT1-030]",
+      "sources": ["WebSearch: CoreTCG BT1-030", "WebSearch: TrollAndToad BT1-030"]
+    },
+    {
+      "category": "design",
+      "text": "A hot-stamped promo version (BT1-030_PR) was distributed through Galactic Battle Launch Kits in the US, Oceania, Canada, and Asia — making it one of the first chase promos in the DBS TCG. The hot-stamp gold-ink variant has a distinct collectible premium relative to the standard uncommon print run. [WebSearch: PSA CardFacts BT1-030 Launch Kit; eBay listings: 'Gold Stamped First Promo DBS BT1-030']",
+      "sources": ["WebSearch: PSA CardFacts BT1-030 Launch Kit", "WebSearch: eBay BT1-030 Gold Stamped First Promo"]
+    }
+  ],
+  "related_cards": [
+    {"name": "God Charge Vegeta", "set": "Galactic Battle", "note": "BT1-036 — Resurrection F Saga pool, Blue color, same era grouping"},
+    {"name": "Energy Boosted Majin Buu", "set": "Galactic Battle", "note": "BT1-047 — in inventory, different arc (Buu Saga) same base set"},
+    {"name": "Indomitable Dynasty SS Son Goku", "set": "Colossal Warfare", "note": "BT4-077 — later Goku leader in the Goku's Lineage trait family"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

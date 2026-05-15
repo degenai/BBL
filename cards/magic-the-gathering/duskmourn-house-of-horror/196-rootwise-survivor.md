@@ -13,6 +13,7 @@ bundles: []
 tags_hub: ["survivor", "forest", "tree", "connection", "nature-magic", "night", "ragged", "warrior", "green-energy", "dark-forest", "elemental"]
 tags_filter: ["solo", "mid-shot", "action", "three-quarter", "male-figure", "green-magic", "creature-human-survivor"]
 characters: ["dsk-survival-archetype"]
+symbols: ["survival"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/196-rootwise-survivor.png
 average_cost_paid: 0
 market_price: 0.05

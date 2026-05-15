@@ -1,0 +1,42 @@
+{
+  "card_name": "Angel of Renewal",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "18",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Angel of Renewal is a White Uncommon from Battle for Zendikar (BFZ), released October 2, 2015. Its creature type is Angel Ally — a deliberate hybrid: Angels are Zendikar's native divine defenders, while Ally is the BFZ set mechanic creature type representing the cross-species coalition of mortals banding together against the Eldrazi invasion. The card thus sits at the thematic intersection of the set's two defining factions. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"No more fear. No more failure. No more death. No more!\" [Scryfall] — an unnamed speaker but tonally consistent with a rallying cry at the height of Zendikar's last stand against the Eldrazi. The repetition and terminal 'No more!' read as a combat declaration. The card has never been reprinted; this BFZ print is the only version. [Scryfall: single print confirmed via prints_search_uri]",
+      "sources": ["Scryfall (flavor_text field, prints data)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card costs 5W (6 mana total) for a 4/4 Flying body that gains you 1 life for each creature you control when it enters — including itself. In a wide Ally board state or token strategy, this can generate substantial life totals. EDHREC rank 15,886 as of the Scryfall fetch indicates modest Commander adoption; the card is legal in Pioneer, Modern, Legacy, Vintage, and Commander. [Scryfall: edhrec_rank, legalities]",
+      "sources": ["Scryfall (edhrec_rank, legalities fields)"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Todd Lockwood, whose MTG portfolio is extensive and spans multiple sets. Angel of Renewal has no reprints — it is a BFZ-only card. As a 6-mana uncommon it sits at the high end of BFZ's white curve; the Ally type synergizes with the set's Rally keyword (abilities that trigger whenever an Ally enters the battlefield), though Angel of Renewal itself does not have a Rally ability, making it more of a cap creature than a Rally engine. [Scryfall; Draftsim: BFZ set overview, via WebSearch]",
+      "sources": ["Scryfall", "Draftsim: BFZ set overview, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Gideon, Ally of Zendikar", "set": "Battle for Zendikar", "note": "The flagship planeswalker of BFZ; shares the Ally type and the set's resistance narrative"},
+    {"name": "Kalastria Healer", "set": "Battle for Zendikar", "note": "An Ally that gains life on each Ally ETB trigger — synergizes with Angel of Renewal's ETB in Ally decks"},
+    {"name": "Angelic Captain", "set": "Battle for Zendikar", "note": "Another Angel Ally from BFZ; thematic and type partner"},
+    {"name": "Emeria Shepherd", "set": "Battle for Zendikar", "note": "Another high-value white Angel in BFZ; comparative rare for curve context"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

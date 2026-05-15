@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["son-goten", "trunks"]
 tags_hub: ["super-saiyan", "fusion", "fusion-warrior", "child-warrior", "young-fighter", "ki", "energy", "warrior", "saiyan", "transformation", "anime-action", "determination"]
 tags_filter: ["solo", "mid-shot", "action", "three-quarter", "male-figure", "anime"]
 reference_image: cards/_images/dragon-ball-super/union-force/bt2-015-prodigy-fusion-super-saiyan-gotenks.png

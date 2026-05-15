@@ -28,6 +28,7 @@ appears_on:
   - magic-the-gathering/murders-at-karlov-manor/258-branch-of-vitu-ghazi
   - magic-the-gathering/murders-at-karlov-manor/307-expose-the-culprit-showcase
   - magic-the-gathering/murders-at-karlov-manor/351-culvert-ambusher-showcase
+  - magic-the-gathering/murders-at-karlov-manor/138-offender-at-large
 related_hubs: []
 related_characters: [agency]
 ---
@@ -121,6 +122,7 @@ The corpus may accumulate further Disguise-coded cards as MKM enrichment continu
 - [[258-branch-of-vitu-ghazi]]
 - [[307-expose-the-culprit-showcase]]
 - [[351-culvert-ambusher-showcase]]
+- [[138-offender-at-large]]
 ## See also
 
 - [[suspect]] — sibling symbol node; structural precedent for designer-coordinated mechanical-keyword primitives. The Disguise + Suspect pair completes the *creature-side* half of MKM's procedural-mechanics layer (Disguise is the operative-side keyword; Suspect is the suspected-creature-state keyword). Many cards in MKM interact with both — a Disguised creature can be Suspected when turned face up.

@@ -30,7 +30,7 @@ setting: space
 suspected_ip: Dr. Myuu (Dragon Ball GT)
 ip_confidence: high
 ip_verified: true
-characters: ["baby-dbgt"]
+characters: ["baby-dbgt", "machine-mutants-m2"]
 ---
 
 # Dr.Myuu, Under Baby's Control (Cross Worlds)

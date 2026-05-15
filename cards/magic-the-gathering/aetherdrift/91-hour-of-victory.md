@@ -53,3 +53,15 @@ Two white-clad figures at center stage raise their arms in triumph — one holds
 **Iconography:** fireworks, victory-banner, trophy
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Hour of Victory is a black uncommon enchantment from Aetherdrift (DFT), released 2025-02-14. It is a **story spotlight card** — Scryfall's `story_spotlight: true` flag indicates it depicts a key narrative moment in the Aetherdrift storyline `[Scryfall]`. The card uses both the Start Your Engines! keyword (triggers the set's Speed mechanic) and the Max Speed keyword (the max-speed activation, which requires reaching Speed 4) `[Scryfall: keywords]`.
+- **Mechanical note** — Hour of Victory enters, triggers Start Your Engines! to begin building Speed, creates a 2/2 black Zombie token, and can later be sacrificed (once you reach max speed) at {1}{B} sorcery-speed to tutor any card from your library. The tutoring condition gating behind max-speed is flavor-first design: you earn the payoff by going fast. EDHREC rank 13,563 — the highest in this batch, suggesting genuine Commander adoption `[Scryfall: edhrec_rank]`. Legal in TLR format `[Scryfall: legalities]`.
+- **Lore context** — "Hour of Victory" echoes the Amonkhet naming convention: Amonkhet's original set (AKH, 2017) featured cards titled Hour of Devastation, Hour of Promise, Hour of Revelation, Hour of Eternity, and Hour of Glory — each naming a phase of Nicol Bolas's apocalyptic plan. This card's title reads as a deliberate inversion: where Bolas's Hours were catastrophes, the Champions of Amonkhet's hour in the Grand Prix is reclamation and triumph `[Scryfall: Amonkhet Hour cycle, general knowledge; story_spotlight flag confirmed via Scryfall]`.
+- **No flavor text** — Hour of Victory carries no flavor text in its oracle data `[Scryfall: flavor_text field absent]`. For a story spotlight card this is unusual; the art and keywords are expected to carry the narrative weight.
+
+### Related cards
+- Hour of Devastation (HOU) — the Amonkhet "Hour" cycle anchor; naming parallel
+- Basri Ket (M21) — Champions of Amonkhet co-captain; lore spine of the Amonkhet racing narrative
+- Start Your Engines! // Max Speed (DFT) — the set's dedicated Speed mechanic card; Hour of Victory references both keywords
+

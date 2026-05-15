@@ -21,6 +21,11 @@ appears_on:
   - dragon-ball-super/union-force/bt2-063-father-son-galick-gun
   - dragon-ball-super/union-force/bt2-066-trunks-time-machine
   - dragon-ball-super/world-martial-arts-tournament/tb2-026-awkward-situation-trunks
+  - dragon-ball-super/colossal-warfare/bt4-034-raging-energy-blast-gotenks
+  - dragon-ball-super/galactic-battle/bt1-071-energy-power-gotenks
+  - dragon-ball-super/union-force/bt2-015-prodigy-fusion-super-saiyan-gotenks
+  - dragon-ball-super/world-martial-arts-tournament/tb2-008-mighty-mask-powers-combined
+  - dragon-ball-super/cross-worlds/bt3-028-grand-tour-spaceship
 related_hubs: []
 related_symbols: []
 related_characters: [xenoverse-villains, baby-dbgt, son-goku, vegeta, wrath-of-the-dragon-saga, namekian, son-gohan]
@@ -88,6 +93,11 @@ This is what BBL's bundle copy can lean on without inventing canon: Trunks is, c
 - [[bt2-063-father-son-galick-gun]]
 - [[bt2-066-trunks-time-machine]]
 - [[tb2-026-awkward-situation-trunks]]
+- [[bt4-034-raging-energy-blast-gotenks]]
+- [[bt1-071-energy-power-gotenks]]
+- [[bt2-015-prodigy-fusion-super-saiyan-gotenks]]
+- [[tb2-008-mighty-mask-powers-combined]]
+- [[bt3-028-grand-tour-spaceship]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Trunks** (`https://dragonball.fandom.com/wiki/Trunks`) — primary disambiguation page; canonical reference for the multi-incarnation distinction and per-incarnation cross-links.

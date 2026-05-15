@@ -12,6 +12,7 @@ appears_on:
   - dragon-ball-super/cross-worlds/sd2-04-rushing-warrior-pan
   - dragon-ball-super/colossal-warfare/bt4-009-power-of-friendship-pan
   - dragon-ball-super/world-martial-arts-tournament/tb2-024-awakening-talent-pan
+  - dragon-ball-super/cross-worlds/bt3-028-grand-tour-spaceship
 related_hubs: [labor]
 related_symbols: []
 related_characters: [son-goku, son-gohan, trunks, saiyan, bulma]
@@ -58,6 +59,7 @@ This is what BBL's bundle copy can lean on without inventing canon: Pan is the c
 - [[sd2-04-rushing-warrior-pan]]
 - [[bt4-009-power-of-friendship-pan]]
 - [[tb2-024-awakening-talent-pan]]
+- [[bt3-028-grand-tour-spaceship]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Pan** (`https://dragonball.fandom.com/wiki/Pan`) — primary character page; canonical reference for the Gohan-Videl parentage, the Goku-Chi-Chi / Mr.-Satan-Miguel grandparent lineage, the canonical GT traveling-trio party-member role, the canonical Super-Saiyan-cannot-transform design rationale, the Universe Survival Saga supporting-cast presence, and the Super Hero film kidnap-and-rescue arc.

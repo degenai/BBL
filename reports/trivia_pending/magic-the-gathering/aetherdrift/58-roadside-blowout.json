@@ -1,0 +1,41 @@
+{
+  "card_name": "Roadside Blowout",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "58",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Roadside Blowout is a blue uncommon sorcery (DFT no. 58) that bounces a creature or Vehicle and draws a card, with a built-in cost reduction: it costs {2} less when targeting a mana-value-1 permanent, making it effectively free in those cases.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"In cases of extreme emergency, just wing it.\" —Rocketeer safety manual, full text. The attribution's punchline is that this one sentence IS the full text of the safety manual, tying to the Goblin Rocketeers team philosophy of aeronautical recklessness.",
+      "sources": ["Scryfall", "magic.wizards.com: The Legends of Aetherdrift"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At effectively {U} when the target qualifies, Roadside Blowout competes favorably with classic tempo bounce cantrips. It was previewed by the Limited Resources podcast on 2025-01-24, flagging it as a Limited-format role-player. EDHREC rank 23,011 confirms it is not a Commander staple.",
+      "sources": ["Scryfall: preview source, edhrec_rank"]
+    },
+    {
+      "category": "design",
+      "text": "Roadside Blowout is legal in TLR (Timeless Remastered) format — an unusual legality flag that distinguishes it from several other DFT uncommons in this batch.",
+      "sources": ["Scryfall: legalities"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Unsummon", "set": "various", "note": "1-mana creature bounce baseline"},
+    {"name": "Repulse", "set": "INV", "note": "the classic bounce-plus-cantrip; Roadside Blowout is the Vehicle-era parallel"},
+    {"name": "Disperse", "set": "various", "note": "artifact-targeting bounce without a draw; functional comparison"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

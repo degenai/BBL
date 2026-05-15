@@ -30,6 +30,7 @@ setting: void
 suspected_ip: Vegeta (Dragon Ball Super — Super Saiyan Blue form)
 ip_confidence: high
 ip_verified: true
+characters: [vegeta]
 ---
 
 # At All Costs Vegeta (Colossal Warfare)

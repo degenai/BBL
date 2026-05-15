@@ -1,0 +1,42 @@
+{
+  "card_name": "Nettle Drone",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "131",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Battle for Zendikar (BFZ, released 2015-10-02) introduced Devoid as the mechanical signature of Eldrazi drones — cards printed in colored frames that contain no color in their mana identity. Nettle Drone is a 3/1 Eldrazi Drone costing {2}{R} that prints red but is actually colorless per the Devoid rule. [Scryfall API]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Nettle Drone's untap-on-colorless-spell clause made it the engine of a documented Pauper infinite-damage combo: pairing it with Banishing Knack or Retraction Helix and a free colorless artifact (e.g., Ornithopter or Welding Jar) creates a loop where the Drone untaps each cast, allowing unlimited Tap activations dealing 1 damage to each opponent. The combo appears in documented Pauper decklists as 'Nettle-drazi Combo.' [tappedout.net: \"4 Infinite Combos with Nettle Drone\"; deckstats.net: \"Nettle-drazi Combo\" via WebSearch]",
+      "sources": ["tappedout.net: 4 Infinite Combos with Nettle Drone (WebSearch snippet)", "deckstats.net: Nettle-drazi Combo (WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Pauper-legal and paupercommander-legal (Scryfall legalities). The card has no flavor text. EDHREC rank 11,642 — the highest EDHREC rank among the BFZ Eldrazi common-drone cycle, reflecting its combo-enabling utility compared to simple beatsticks. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Clint Cearley, who has painted multiple Eldrazi drone cards across BFZ and Oath of the Gatewatch — his spiny, radially-symmetric style is visually consistent with the Eldrazi drone aesthetic across the block. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Vestige of Emrakul", "set": "Battle for Zendikar", "note": "Sister BFZ Eldrazi Drone common in the same collector range; same Devoid block identity"},
+    {"name": "Eldrazi Skyspawner", "set": "Battle for Zendikar", "note": "Companion Eldrazi drone that generates colorless tokens — feeds Nettle Drone's untap trigger"},
+    {"name": "Battered Golem", "set": "Fifth Dawn", "note": "Functional parallel — also untaps when an artifact is cast; appears in the same Pauper combo lists"},
+    {"name": "Ghostfire Blade", "set": "Khans of Tarkir", "note": "Equipment that gives +2/+1 to colorless creatures; equips to Nettle Drone enabling faster kill in combo or beatdown"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "card_name": "Kor Entanglers",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "36",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Battle for Zendikar (BFZ, released 2015-10-02) stages the Eldrazi titan Ulamog's invasion of Zendikar. The Kor are depicted as a key resistance race — nomadic cliff-dwelling warriors who have adapted their hook-and-rope toolkit into anti-Eldrazi combat doctrine. The BFZ Kor Ally cluster represents the Kor's decision to fight collectively despite their traditionally individualistic nomadism. [Scryfall API; coolstuffinc.com: Ecology of the Kor via WebSearch]",
+      "sources": ["Scryfall", "coolstuffinc.com: Ecology of the Kor (WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"We came into this world together. We fight for this world together. We'll leave this world together.\" [Scryfall] This is a direct statement of collective commitment — notable in Kor lore given their traditionally nomadic, scattered culture. The flavor text's \"leave this world together\" reads as a vow that accepts death as a possible collective outcome, giving the card a gravity unusual for a white uncommon.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rally — whenever this creature or another Ally enters, tap target creature an opponent controls. At {4}{W} for a 3/4, Kor Entanglers' Rally trigger is a pseudo-Maze of Ith effect that triggers off every Ally entering — in a rally chain, each Ally entering can tap down a different blocker. EDHREC rank 17,836 reflects its status as a draft-role uncommon not crossing to Commander staple territory. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Jason Rainville, who has painted numerous Ally-creature cards across BFZ and Oath of the Gatewatch, giving him a strong visual claim on the BFZ Ally aesthetic. The hooked-rope visual language across both Kor Bladewhirl (Belledin) and Kor Entanglers (Rainville) reinforces the race's design identity despite being by different artists. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kor Bladewhirl", "set": "Battle for Zendikar", "note": "Sister Kor Ally card in the same set — same race, same Rally keyword, same collector range (34 vs 36)"},
+    {"name": "Lantern Scout", "set": "Battle for Zendikar", "note": "Kor Scout Ally in the same BFZ cycle with a different Rally payoff (lifelink)"},
+    {"name": "Kazandu Blademaster", "set": "Zendikar", "note": "Kor Ally lord from the original Zendikar block — precursor design to the BFZ Ally cluster"},
+    {"name": "Drana's Emissary", "set": "Battle for Zendikar", "note": "Cross-faction Ally card from BFZ; Kor Entanglers' tap-down Rally synergizes with drain-damage builds"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Mafuba",
+  "game": "Dragon Ball Super",
+  "set": "Mythic Booster",
+  "collector_number": "BT2-064",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "BT2-064 Mafuba is confirmed as a Blue-colored Extra card featuring Trunks performing the technique, per DBZ Exchange product listing. Vision describes a golden SSJ-form figure in a jacket with red scarf performing a sealing gesture — consistent with Future Trunks' distinctive red scarf and jacket design. The Mafuba is canonically associated with Future Trunks in Dragon Ball Super (Goku Black / Future Trunks Saga), where Trunks attempts to use the technique against immortal Future Zamasu. Card text confirmed character as Trunks. Verified: Trunks (Dragon Ball Super, Future Trunks Saga).",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "The Mafuba (Evil Containment Wave) is a sealing technique invented by Master Mutaito — the same master who taught a young Master Roshi. Mutaito originally used it to seal King Piccolo in an Electric Rice Cooker, at the cost of his own life. The technique drains the user's life force and kills the caster if they lack sufficient stamina [WebSearch: Dragon Ball Wiki / CBR 'The Evil Containment Wave, Explained'].",
+      "sources": ["WebSearch: CBR 'Dragon Ball: The Evil Containment Wave, Explained'; GameRant 'Dragon Ball: The Evil Containment Wave, Explained'"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Dragon Ball Super's Future Trunks / Goku Black Saga, Future Trunks uses the Mafuba in an attempt to seal the immortal Future Zamasu. The technique's lethality to its caster and its specific counter — a tagged seal vessel — made it a plot-critical MacGuffin in that arc. This card, BT2-064, is a Blue Extra card depicting Trunks performing the technique [WebSearch: DBZ Exchange BT2-064 Mafuba card listing].",
+      "sources": ["WebSearch: DBZ Exchange BT2-064 Mafuba product listing", "WebSearch: CBR 'Dragon Ball: The Evil Containment Wave, Explained'"]
+    },
+    {
+      "category": "set-lore",
+      "text": "BT2-064 originated in Union Force (BT2, released November 2017) — the second main DBS card set. Its appearance in the Mythic Booster (MB-01, released 2022) is as an alternate-art reprint with gold stamp; the Mythic Booster was a 63-card reprint set where every card received new artwork and a gold foil stamp, with each booster pack guaranteed one holographic foil [WebSearch: ICv2 sponsored article on Mythic Booster; TCDB Mythic Booster checklist].",
+      "sources": ["WebSearch: ICv2 'Dragon Ball Super Card Game Mythic Booster Unveiled'; TCDB 2022 MB01 Mythic Booster checklist"]
+    },
+    {
+      "category": "design",
+      "text": "Future Trunks' red scarf and jacket are his defining visual markers across Dragon Ball Super — distinguishing him from present-timeline Trunks who wears different attire. The red scarf is specific to his Super appearance (absent in DBZ's Future Trunks design), making it a reliable visual identifier for placing this card's figure in the DBS continuity rather than the DBZ films [WebSearch: Dragon Ball Super Future Trunks character design].",
+      "sources": ["WebSearch: Dragon Ball Super Future Trunks character design / visual references"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Future Trunks (Union Force, BT2)", "set": "Union Force", "note": "The character depicted; other BT2 Trunks cards in the same set"},
+    {"name": "Future Zamasu (various DBS sets)", "set": "DBS sets", "note": "The target of the Mafuba in the DBS Future Trunks Saga"},
+    {"name": "Mafuba (Union Force original print)", "set": "Union Force", "note": "BT2-064 first printing — Mythic Booster is the alternate-art reprint"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Trunks",
+    "ip_confidence": "high"
+  }
+}

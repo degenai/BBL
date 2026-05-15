@@ -31,6 +31,7 @@ subject_known_ip: true
 suspected_ip: Sigma Force / Bizu (Dragon Ball GT)
 ip_confidence: high
 ip_verified: true
+characters: ["machine-mutants-m2"]
 ---
 
 # Mega Cannon Sigma, Bizu (Cross Worlds)

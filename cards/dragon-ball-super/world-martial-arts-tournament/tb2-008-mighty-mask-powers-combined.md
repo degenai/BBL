@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
+characters: ["son-goten", "trunks"]
 tags_hub: ["disguise", "mask", "fusion", "comedy", "tournament", "trickery", "hidden-identity", "duo-in-one", "martial-arts", "teamwork", "secret", "gag"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "anime-style", "dbscg"]
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-008-mighty-mask-powers-combined.png

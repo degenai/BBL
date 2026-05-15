@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
+characters: ["majin-buu"]
 tags_hub: ["pink", "monster", "punch", "power", "rotund", "villain-reformed", "candy", "playful", "martial-arts", "big-guy"]
 tags_filter: ["solo", "mid-shot", "action", "forward-facing", "anime-style"]
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-028-scuffle-time-mr-buu.png

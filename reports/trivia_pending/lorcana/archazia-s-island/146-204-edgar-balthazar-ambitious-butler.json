@@ -1,0 +1,41 @@
+{
+  "card_name": "Edgar Balthazar - Ambitious Butler",
+  "game": "Lorcana",
+  "set": "Archazia's Island",
+  "collector_number": "146/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Edgar Balthazar - Ambitious Butler'; the Lorcana character node is explicitly named Edgar Balthazar. The card art matches the canonical Disney Aristocats antagonist: elderly heavyset figure in dark coat with top hat, scheming expression. Flavor text voice ('sorely underestimated Edgar Balthazar') is a direct self-reference. The character subtypes include Storyborn Villain, consistent with his film role. Identity confirmed via Lorcana card databases and Disney source material.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Edgar Balthazar - Ambitious Butler is card 146/204 in Archazia's Island (set 7), released March 7, 2025 at hobby stores. Archazia's Island introduced The Aristocats characters to Lorcana for the first time; the set's thematic focus is a haven for Disney animal companions, and Edgar's debut as the sole Aristocats villain among the new additions makes him an outlier — he represents the domestic-extraction antagonist amidst a set of pets and animal heroes. [Lorcana Player: Archazia's Island set overview, via WebSearch snippet]",
+      "sources": ["Lorcana Player: Archazia's Island set overview, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"All these traps, all these locks, all these machines... / If they think that's going to stop me, they've sorely / underestimated Edgar Balthazar!\" [card frontmatter] — the line is voiced as Edgar in The Aristocats (1970), capturing his defining trait: elaborate, increasingly desperate contraptions to remove the Bonfamille cats so he can inherit the family fortune. The film's premise is domestic labor grievance turned criminal scheme: Edgar discovers Madame Bonfamille plans to leave her entire estate to her cats, with him inheriting only after them — a butler's loyalty monetized and then overturned. [Disney Wiki: Edgar, via WebSearch snippet]",
+      "sources": ["Card frontmatter (flavor_text field)", "Disney Wiki: Edgar (The Aristocats), via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "This is Edgar's only Lorcana card as of Archazia's Island (set 7); he appears in no prior sets. His Lorcana classification is Storyborn Villain — Storyborn indicates a character appearing in their original film form rather than a reimagined 'Floodborn' alternate-universe version. The card is a 5-cost Ruby (red ink) Common with 6 Strength / 5 Willpower / 1 Lore — a heavy body with modest lore generation, consistent with a villain who is a physical schemer rather than a strategic one. [Lorcana Player: Edgar Balthazar - Ambitious Butler, via WebSearch snippet]",
+      "sources": ["Lorcana Player: Edgar Balthazar - Ambitious Butler, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In The Aristocats (1970, dir. Wolfgang Reitherman), Edgar is a butler — an archetypal domestic servant whose entire plot engine is that his labor is worth less to his employer than her pets. The film's villain motivation is class-coded domestic frustration: he works loyally, he will inherit eventually, but not before cats who do no work. His scheming is not supernatural or power-hungry — it is purely about inheritance order. This makes Edgar one of the few Disney antagonists whose villainy is rooted in a form of labor grievance, even if the film frames it as mere greed. [Disney Wiki: Edgar (The Aristocats), via WebSearch snippet]",
+      "sources": ["Disney Wiki: Edgar (The Aristocats), via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Duchess - Beloved Ballerina", "set": "Lorcana (various sets)", "note": "Duchess is Edgar's primary target in The Aristocats; she appears in multiple Lorcana sets as the counterpart protagonist to Edgar's antagonist"},
+    {"name": "Marie - Fancy Kitten", "set": "Lorcana (various sets)", "note": "One of the Bonfamille kittens Edgar attempts to remove; appears in Lorcana as another Aristocats character"},
+    {"name": "Madame Bonfamille - Opera Singer", "set": "Lorcana (various sets)", "note": "The employer whose inheritance decision drives Edgar's plot; may appear in Lorcana sets"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

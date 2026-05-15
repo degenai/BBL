@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
+characters: ["son-goten"]
 tags_hub: ["youth", "brawl", "energy", "martial-arts", "tournament", "scuffle", "child-warrior", "ki", "motion", "fighter"]
 tags_filter: ["solo", "mid-shot", "action", "three-quarter", "anime-style"]
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-022-scuffle-time-son-goten.png

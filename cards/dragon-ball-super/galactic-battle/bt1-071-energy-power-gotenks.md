@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
+characters: ["son-goten", "trunks"]
 tags_hub: ["fusion", "child-warrior", "metamoran", "youth", "energy", "power", "brash", "two-tone-hair", "saiyan", "combo-power", "golden-aura", "cocky"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "action-mode", "anime-style", "dbscg"]
 reference_image: cards/_images/dragon-ball-super/galactic-battle/bt1-071-energy-power-gotenks.png

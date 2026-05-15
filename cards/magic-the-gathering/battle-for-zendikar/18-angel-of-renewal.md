@@ -51,3 +51,16 @@ A humanoid figure in dark form-fitting armor plunges through a blue-grey cloudy 
 **Iconography:** wings, glowing energy
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Angel of Renewal is a White Uncommon from Battle for Zendikar (BFZ), released October 2, 2015. Its creature type is Angel Ally — a deliberate hybrid placing it at the thematic intersection of BFZ's two defining factions: Angels as Zendikar's native divine guardians, and Allies as the cross-species mortal coalition banding together against the Eldrazi invasion. BFZ's Ally creature type carried the Rally keyword (abilities triggering on each Ally ETB); Angel of Renewal is an Angel Ally but carries no Rally ability of its own, functioning as a curve-topping finisher rather than a trigger engine. [Scryfall; Draftsim: BFZ set overview, via WebSearch]
+- **Flavor text** — `"No more fear. No more failure. No more death. No more!"` [Scryfall] — an unnamed speaker in a rallying-cry cadence consistent with Zendikar's last-stand narrative. The anaphora and terminal declaration read as combat invocation. The card has never been reprinted; this BFZ print (no. 18) is the only version. [Scryfall: flavor_text field; prints data]
+- **Mechanical note** — Costs 5W (6 mana) for a 4/4 Flying body that gains you 1 life for each creature you control on entry — including itself, meaning the floor is always 1 life with no other creatures. In a wide Ally board or token strategy the effect scales up substantially. EDHREC rank 15,886 as of the Scryfall data indicates moderate Commander inclusion; legal in Pioneer, Modern, Legacy, Vintage, and Commander. [Scryfall: edhrec_rank, legalities fields]
+- **Design** — Illustrated by Todd Lockwood. As a 6-mana uncommon it sits at the top of BFZ's white curve. The Angel Ally type is rare in MTG — only a handful of cards share both types — and BFZ is the set most associated with the combination, given the plane's lore of Angels as Zendikar's divine protectors fighting alongside the mortal Ally coalition. [Scryfall]
+
+### Related cards
+- Gideon, Ally of Zendikar (BFZ, no. 29) — flagship BFZ planeswalker; shares the Ally type and set narrative
+- Angelic Captain (BFZ) — another Angel Ally from BFZ; thematic and type partner
+- Kalastria Healer (BFZ) — Ally that gains life on each Ally ETB; synergizes with Angel of Renewal's ETB in dedicated Ally decks
+- Emeria Shepherd (BFZ) — high-value white Angel in the same set; curve comparison point
+

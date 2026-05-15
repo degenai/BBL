@@ -1,0 +1,42 @@
+{
+  "card_name": "Helga Sinclair - Tough as Nails",
+  "game": "Lorcana",
+  "set": "Archazia's Island",
+  "collector_number": "183/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Helga Sinclair - Tough as Nails.' Lorcana card databases confirm this is the Helga Sinclair from Atlantis: The Lost Empire. The version subtitle 'Tough as Nails' is consistent with her canonical characterization as a skilled mercenary and Rourke's second-in-command. Prior Lorcana versions confirm the franchise's presence (Helga Sinclair - Femme Fatale and Right-Hand Woman in Into the Inklands; Vengeful Partner also in that set). Identity confirmed via card name + Lorcana databases + Disney source-material wiki.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Helga Sinclair - Tough as Nails is card 183/204 in Archazia's Island (set 7, March 7, 2025). This is Helga's fourth Lorcana card; prior prints include Helga Sinclair - Femme Fatale (Into the Inklands, Super Rare Emerald), Helga Sinclair - Right-Hand Woman (Into the Inklands, 175/204), and Helga Sinclair - Vengeful Partner (Into the Inklands). Making her one of the more heavily represented Atlantis characters in the game. [Lorcana Player: Helga Sinclair cards, via WebSearch; Mushure Report news, via WebSearch]",
+      "sources": ["Lorcana Player: Helga Sinclair cards, via WebSearch", "Mushu Report: Helga Sinclair - Vengeful Partner and Femme Fatale, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "The card is classified as a 2-cost Steel Uncommon, with Challenger +3 and the QUICK REFLEXES ability: during your turn this character gains Evasive, allowing her to challenge characters with Evasive. This mechanically mirrors Helga's canonical combat role in Atlantis: The Lost Empire (2001) — she is Rourke's second-in-command, described in the film as skilled in martial arts, military tactics, and leadership; the oldest of six siblings who 'grew up fighting with her fists as well as her wits.' [card frontmatter (oracle_text); Disney Wiki: Helga Sinclair, via WebSearch]",
+      "sources": ["Card frontmatter (oracle_text field)", "Disney Wiki: Helga Sinclair, via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Atlantis: The Lost Empire (2001), Helga Katrina Sinclair serves as Lieutenant and second-in-command to Commander Rourke on the expedition to find Atlantis. Voiced by Claudia Christian, she is a professional mercenary motivated by power and wealth — and is ultimately betrayed by Rourke himself, who uses her as a ballast sacrifice. Her arc is one of the darker subversions in a Disney film: loyal lieutenant to an employer who treats her as expendable. [Disney Wiki: Helga Sinclair, via WebSearch; IMDB: Atlantis: The Lost Empire, via WebSearch]",
+      "sources": ["Disney Wiki: Helga Sinclair, via WebSearch", "IMDB: Atlantis: The Lost Empire, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrator credit is Samoldstoree. This card has no flavor text. The version subtitle 'Tough as Nails' is the Ravensburger-curated character beat for this print — a direct nod to her canonical description as physically and mentally formidable. The contrast with her 'Femme Fatale' Super Rare version (the Into the Inklands high-rarity print) suggests Ravensburger is using the version subtitle to segment her characterization across prints: the common/uncommon prints emphasize combat toughness; the rare print emphasizes her strategic and seductive intelligence. [Lorcana Player: Helga Sinclair cards, via WebSearch]",
+      "sources": ["Lorcana Player: Helga Sinclair cards, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Helga Sinclair - Femme Fatale", "set": "Into the Inklands", "note": "Super Rare Emerald Floodborn version; higher-rarity alternate characterization"},
+    {"name": "Helga Sinclair - Right-Hand Woman", "set": "Into the Inklands", "note": "175/204 — earlier Lorcana print of the same character"},
+    {"name": "Commander Rourke", "set": "Lorcana (if printed)", "note": "The primary antagonist of Atlantis: The Lost Empire who Helga loyally serves and is ultimately betrayed by"},
+    {"name": "Milo Thatch", "set": "Lorcana (if printed)", "note": "Protagonist of Atlantis: The Lost Empire; thematic counterpart to Helga and Rourke"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -13,6 +13,7 @@ bundles: []
 tags_hub: ["elf", "survivor", "camera", "forest", "hiding", "found-footage", "horror", "witness", "woman", "wilderness", "fugitive", "documentation"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "female-figure", "creature-elf", "green-magic", "lifegain", "scene-mode"]
 characters: ["dsk-survival-archetype"]
+symbols: ["survival"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/172-cautious-survivor.png
 average_cost_paid: 0
 market_price: 0.03

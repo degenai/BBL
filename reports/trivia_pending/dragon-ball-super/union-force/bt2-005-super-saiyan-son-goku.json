@@ -1,0 +1,41 @@
+{
+  "card_name": "Super Saiyan Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-005",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Super Saiyan Son Goku.' The figure wears an orange gi — Goku's defining canonical outfit throughout Dragon Ball Z and Dragon Ball Super. Upright spiky Super Saiyan hair, blue-white energy crackling around the body in battle stance — all consistent with Goku's depiction across hundreds of official Bandai products. Card name plus orange gi plus SSJ hair constitute explicit visual identifiers. Verified: Son Goku (Dragon Ball Z / Dragon Ball Super).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Union Force (BT2) was the second main set of the Dragon Ball Super Card Game, released November 2017 — four months after Galactic Battle (BT1). BT2-005 is a Common Battle card numbered in the early green/blue range suggesting it is part of the set's Goku-focused blue archetype or a cross-color support card [WebSearch: bleedingcool.com Union Force Checklist; PSA Set Registry Union Force].",
+      "sources": ["WebSearch: bleedingcool Union Force Checklist; PSA CardFacts Union Force 2017"]
+    },
+    {
+      "category": "design",
+      "text": "The blue-white crackling energy surrounding Goku here echoes the ki-lightning aesthetic that Toei introduced for Super Saiyan 2 in the Cell Games arc — though the card card name specifies 'Super Saiyan' (SS1). The visual blending of base SSJ gold hair with blue-white electrical energy became a common design convention in DBS card art [WebSearch: DBS card game art analysis / Union Force checklist].",
+      "sources": ["WebSearch: bleedingcool Union Force checklist; WebSearch: DBS card art conventions"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a low-numbered card in BT2 (no. 005 of 175+), BT2-005 occupies the earliest card number slots in Union Force — these are typically Leader or high-profile Battle cards in the DBS card game's numbering structure. A Common at this position suggests it is a key archetype piece for the red or blue Goku strategy in BT2 [WebSearch: Union Force set structure / Bandai Asia card list].",
+      "sources": ["WebSearch: bleedingcool Union Force checklist; Bandai DBS Union Force card list"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Son Goku is the face character of the Dragon Ball franchise; his Super Saiyan transformation — first achieved in anger after Krillin's death on Namek — became one of anime's most iconic power-up moments. Multiple Goku SSJ cards appear across every DBS card set, making BT2-005 one of many Goku prints in the game's history [Wikipedia: Son Goku; Wikipedia: Dragon Ball Z].",
+      "sources": ["Wikipedia: Son Goku (Dragon Ball)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Super Saiyan Son Goku (Galactic Battle, BT1 variants)", "set": "Galactic Battle", "note": "Earlier Goku SSJ prints from the launch set"},
+    {"name": "Mafuba", "set": "Union Force", "note": "BT2-064 — fellow BT2 original card in the corpus"},
+    {"name": "Super Saiyan Blue Son Goku (various BT2)", "set": "Union Force", "note": "The SSB Goku cards that anchor BT2's blue archetype alongside SSJ Goku"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Son Goku (Dragon Ball Z)",
+    "ip_confidence": "high"
+  }
+}

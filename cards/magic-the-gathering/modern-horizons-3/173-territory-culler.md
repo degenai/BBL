@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["eldrazi", "skeleton", "horror", "tree", "tendrils", "alien", "climbing", "monster", "ribcage", "reach", "creature"]
+tags_filter: ["no-face", "solo", "mid-shot", "colorless-magic", "creature-horror", "three-quarter"]
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/173-territory-culler.png
 average_cost_paid: 0
 market_price: 0.22
@@ -29,18 +29,29 @@ oracle_text: Devoid (This card has no color.)\nReach\nLandfall — Whenever a la
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: day
+setting: other
 ---
 
 # Territory Culler (Modern Horizons 3)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![173-territory-culler](../../_images/magic-the-gathering/modern-horizons-3/173-territory-culler.png)
 
+The image shows a long, elongated alien creature mid-climb or suspended among the branches of dark, gnarled trees. Its most prominent feature is a ribcage-like structure running along its torso — bone-white and pink, with curved ribs clearly visible. Extending from its body are numerous thin, worm-like or tendril-like filaments in pink and pale tones, trailing loosely in multiple directions. The creature's limbs are skeletal and long, with clawed extremities gripping the tree branches. The background is an open, pale blue-grey sky with what appear to be distant floating landmasses or rocky formations. The overall form is deeply unsettling — organic and skeletal simultaneously, designed for reaching and grasping across trees. There are no visible eyes or distinct head feature at this resolution.
 
-**Subject:** 
+**Subject:** A skeletal-organic alien creature with an exposed ribcage-like structure and trailing tentacle filaments, clinging to tree branches against an open sky
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** other, day, clear
+**Foreground:** skeletal alien creature with exposed ribcage, trailing tendrils, clinging to dark gnarled tree branches  *(palette: bone-white, pink, pale-red, dark-brown)*
+**Background:** pale grey-blue open sky, distant floating rock formations  *(palette: pale-blue, grey, white)*
+**Mood / lighting:** horror, soft
+**Emotion read:** no legible face — body language conveys predatory reach and alien hunger
+**Objects:** gnarled tree branches
+**Creatures:** alien creature, eldrazi, skeletal horror
+**Iconography:** exposed ribcage, trailing tendrils
+**Genre cues:** fantasy, cosmic-horror
 

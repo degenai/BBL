@@ -16,7 +16,7 @@ appears_on:
   - magic-the-gathering/duskmourn-house-of-horror/177-fear-of-exposure
   - magic-the-gathering/duskmourn-house-of-horror/214-fear-of-infinity
 related_hubs: []
-related_symbols: [manifest-dread]
+related_symbols: [manifest-dread, eerie]
 ---
 
 # Fear-of cycle (Duskmourn phobia-Nightmares)

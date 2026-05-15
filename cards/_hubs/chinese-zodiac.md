@@ -64,7 +64,9 @@ This hub is NOT:
 
 ## Design Note
 
-This hub is **deliberately graph-invisible** in Obsidian view. The `tag_signals` listed above are an *informational* indirection — cards with overlapping `tags_hub` are *candidates* for Chinese Zodiac lair assembly under the functional-agrarian criteria, not auto-anchored members. There is no `appears_on:` or `anchored_cards:` field on this node, and there won't be.
+This hub is **deliberately card-edge disconnected** in Obsidian's graph view. The node itself is visible — it sits in the layer-node clique linked to other layer nodes via body wikilinks — but **no edges connect this hub to any individual card** by design, even when a card depicts one of the twelve zodiac animals directly (the wire flows via character / symbol nodes, not via hub-name-matching).
+
+The `tag_signals` listed above are an *informational* indirection — cards with overlapping `tags_hub` are *candidates* for Chinese Zodiac lair assembly under the functional-agrarian criteria, not auto-anchored members. There is no `appears_on:` or `anchored_cards:` field on this node, and there won't be.
 
 Why: rendering all tag-signal-matched cards as graph edges would balloon Chinese Zodiac to ~115 anchors (mostly drift — "dragon" alone matches 39 MTG cards, most of which are Western heraldic dragons explicitly *orphaned* under the China-max ruleset). The auto-render would directly contradict the rubric's orphan-honest scholarship. And more fundamentally — *cards are inventory, bundles are destructive*. When a Discrete Lair assembles, those cards leave the corpus on sale; any field pinning specific cards as canonical hub-anchors would be wrong the moment they ship. See `bbl-bundles-are-destructive-on-graph.md` (wave 81 P3 decision, 2026-05-14).
 

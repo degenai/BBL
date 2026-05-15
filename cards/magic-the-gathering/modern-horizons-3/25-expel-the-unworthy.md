@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["exile", "hooded-figure", "blade", "earth", "expulsion", "destruction", "light-burst", "ritual", "banishment", "crack"]
+tags_filter: ["duo", "mid-shot", "action", "faces-away", "no-face", "white-magic", "instant"]
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/25-expel-the-unworthy.png
 average_cost_paid: 0
 market_price: 0.07
@@ -28,6 +28,28 @@ oracle_text: Kicker {2}{W} (You may pay an additional {2}{W} as you cast this sp
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: other
 ---
 
 # Expel the Unworthy (Modern Horizons 3)
+
+## Vision
+
+![25-expel-the-unworthy](../../_images/magic-the-gathering/modern-horizons-3/25-expel-the-unworthy.png)
+
+A hooded figure in a teal and blue cloak bends dramatically low to the ground, plunging a blade into cracking earth that explodes outward with blinding light and fragmenting debris. The figure is depicted from a low angle, making the silhouette dramatic against the warm amber and gold of the shattered ground. Small figures — likely two — are visible fleeing in the far background to the right, barely distinguishable in the chaotic scatter. The palette is dominated by warm amber and gold for the ground and the burst of expelled light, with the cool teal-blue of the cloak providing a sharp contrast. The linework has a hand-drawn quality. No features of the hooded figure's face are visible.
+
+**Subject:** A hooded figure bending low drives a blade into cracking earth, with explosive light bursting outward; small figures flee in the distant background
+
+**Composition:** mid-shot, action, figures: duo, facing: away
+**Setting:** other, indeterminate
+**Foreground:** hooded figure driving blade into cracking ground; burst of expelled light and debris  *(palette: teal, blue, amber, gold, white)*
+**Background:** warm amber cracked earth; tiny fleeing figures in far distance  *(palette: amber, gold, tan, rust)*
+**Mood / lighting:** action, chiaroscuro
+**Emotion read:** forceful expulsion; violent exertion; no face visible
+**Objects:** blade, cracked-earth
+**Iconography:** light-burst, shattering-ground
+**Genre cues:** fantasy, mtg
+

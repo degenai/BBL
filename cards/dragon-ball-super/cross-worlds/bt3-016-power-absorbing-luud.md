@@ -30,7 +30,7 @@ setting: void
 suspected_ip: Luud (Dragon Ball GT)
 ip_confidence: high
 ip_verified: true
-characters: ["baby-dbgt"]
+characters: ["baby-dbgt", "machine-mutants-m2"]
 ---
 
 # Power-absorbing Luud (Cross Worlds)

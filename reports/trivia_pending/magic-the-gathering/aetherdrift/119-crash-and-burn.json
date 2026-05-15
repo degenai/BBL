@@ -1,0 +1,41 @@
+{
+  "card_name": "Crash and Burn",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "119",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Crash and Burn is a red instant from Aetherdrift (DFT), released 2025-02-14 on the plane of Avishkar during the Ghirapur Grand Prix. The flavor text names Redshift, co-captain of the Goblin Rocketeers alongside Daretti.",
+      "sources": ["Scryfall", "magic.wizards.com: The Legends of Aetherdrift"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Redshift told his team to destroy the competition. They were thrilled to discover he meant it literally.\" The joke plays on idiomatic \"destroy the competition\" versus the card's literal vehicle-destruction and damage modes.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The modal design (destroy a Vehicle OR deal 6 damage to a creature/planeswalker) is unusual for red removal: Vehicle destruction is rarely allocated to red. At four mana it is pauper-legal.",
+      "sources": ["Scryfall: legalities"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Team cohort flag: The Goblin Rocketeers (Redshift + Daretti) are the red/green team in the Aetherdrift Grand Prix. Daretti, Rocketeer Engineer (DFT no. 120) is the associated legendary creature.",
+      "sources": ["Scryfall: Daretti DFT no. 120", "magic.wizards.com: The Legends of Aetherdrift"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Daretti, Rocketeer Engineer", "set": "DFT", "note": "Goblin Rocketeers co-captain; flavor text references his team"},
+    {"name": "Demolish", "set": "various", "note": "same Vehicle-destruction mode in red, older benchmark"},
+    {"name": "Goblin Grenade", "set": "various", "note": "red instant that converts a goblin into damage; thematic Rocketeer parallel"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

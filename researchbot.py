@@ -101,8 +101,14 @@ GAME_STRATEGY = {
     "Pokemon": "pokemontcg",
     "Dragon Ball Super": "dbs",
     "Weiss Schwarz": "weiss",
+    "Lorcana": "lorcana",
+    "Disney Lorcana": "lorcana",
     # Other games fall through with a warning until we wire APIs for them.
 }
+
+LORCANA_ALLCARDS_URL = "https://lorcanajson.org/files/current/en/allCards.json"
+LORCANA_CACHE = Path("reports/lorcana_allcards.json")
+_LORCANA_INDEX: dict | None = None  # lazy-loaded
 
 
 # --- .env loading (no python-dotenv dependency) ---
@@ -724,6 +730,81 @@ def find_image_weiss(card_name: str, set_name: str = "",
     return img_url, "high", keyword, "", "", "", ""
 
 
+def _load_lorcana_index() -> dict:
+    """Lazy-load and index LorcanaJSON allCards bulk by (setCode, number).
+    Downloads to LORCANA_CACHE if not present. Index returns the card dict
+    so all downstream fields (images, artistsText, flavorText, fullText)
+    are available in one lookup. Set-name → setCode map built off the bulk's
+    `sets` dict so BBL's set-name slugs resolve correctly."""
+    global _LORCANA_INDEX
+    if _LORCANA_INDEX is not None:
+        return _LORCANA_INDEX
+    if not LORCANA_CACHE.exists():
+        LORCANA_CACHE.parent.mkdir(parents=True, exist_ok=True)
+        print(f"  [info] downloading lorcana bulk to {LORCANA_CACHE}", file=sys.stderr)
+        headers = {"User-Agent": USER_AGENT}
+        try:
+            req = urllib.request.Request(LORCANA_ALLCARDS_URL, headers=headers)
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                LORCANA_CACHE.write_bytes(resp.read())
+        except Exception as e:
+            print(f"  [warn] lorcana bulk download failed: {e}", file=sys.stderr)
+            _LORCANA_INDEX = {"by_key": {}, "set_name_to_code": {}}
+            return _LORCANA_INDEX
+    data = json.loads(LORCANA_CACHE.read_text(encoding="utf-8"))
+    by_key: dict[tuple, dict] = {}
+    for c in data.get("cards", []):
+        sc = str(c.get("setCode", ""))
+        num = c.get("number")
+        if sc and num is not None:
+            by_key[(sc, int(num))] = c
+    set_name_to_code: dict[str, str] = {}
+    for code, sinfo in data.get("sets", {}).items():
+        name = (sinfo.get("name") or "").strip()
+        if name:
+            set_name_to_code[name.lower()] = str(code)
+            # Also index without leading "The" for forgiving lookup
+            if name.lower().startswith("the "):
+                set_name_to_code[name[4:].lower()] = str(code)
+    _LORCANA_INDEX = {"by_key": by_key, "set_name_to_code": set_name_to_code}
+    return _LORCANA_INDEX
+
+
+def find_image_lorcana(card_name: str, set_name: str = "",
+                       collector_number: str = ""
+                       ) -> tuple[str | None, str, str, str, str, str, str]:
+    """LorcanaJSON lookup. Returns (url, confidence, number, artist,
+    art_crop_url='', flavor_text, oracle_text). Lorcana has no clean
+    frameless art crop (art is fused with card frame at design time), so
+    art_crop_url is always empty. Image is 1468x2048 JPEG from official
+    Ravensburger CDN. collector_number is parsed as `<num>/<total>` (the
+    BBL Lorcana convention)."""
+    if not collector_number:
+        return None, "none", "", "", "", "", ""
+    # Parse "146/204" → 146
+    num_str = collector_number.split("/", 1)[0].strip()
+    try:
+        num = int(num_str)
+    except ValueError:
+        return None, "none", "", "", "", "", ""
+    idx = _load_lorcana_index()
+    code = idx["set_name_to_code"].get(set_name.lower().strip())
+    if not code:
+        return None, "none", "", "", "", "", ""
+    card = idx["by_key"].get((code, num))
+    if not card:
+        return None, "none", "", "", "", "", ""
+    img_url = (card.get("images") or {}).get("full", "")
+    if not img_url:
+        return None, "none", "", "", "", "", ""
+    artist = (card.get("artistsText") or "").strip()
+    flavor = (card.get("flavorText") or "").strip()
+    # Lorcana's "fullText" is the rules-text block (includes ability names).
+    # Closest equivalent to MTG oracle_text.
+    oracle = (card.get("fullText") or "").strip()
+    return img_url, "high", str(num), artist, "", flavor, oracle
+
+
 def find_reference_image(game: str, card_name: str, set_name: str,
                          set_map: dict | None = None,
                          collector_number: str = ""
@@ -744,6 +825,8 @@ def find_reference_image(game: str, card_name: str, set_name: str,
         return find_image_dbs(card_name, set_name, collector_number)
     if strat == "weiss":
         return find_image_weiss(card_name, set_name, collector_number)
+    if strat == "lorcana":
+        return find_image_lorcana(card_name, set_name, collector_number)
     return None, "none", "", "", "", "", ""
 
 

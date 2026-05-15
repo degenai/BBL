@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["eldrazi", "monster", "cosmic-horror", "cave", "predator", "alien", "tentacles", "scale", "infestation", "swarm", "creature"]
+tags_filter: ["no-face", "solo", "wide", "colorless-magic", "creature-drone", "birds"]
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/167-propagator-drone.png
 average_cost_paid: 0
 market_price: 0.26
@@ -29,18 +29,28 @@ oracle_text: Devoid (This card has no color.)\nCreature tokens you control have 
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: indeterminate
+setting: dungeon
 ---
 
 # Propagator Drone (Modern Horizons 3)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![167-propagator-drone](../../_images/magic-the-gathering/modern-horizons-3/167-propagator-drone.png)
 
+A large alien or Eldrazi-type creature dominates the center of the composition. Its body is bulbous and pale green, covered in clusters of small red nodules or eye-like markings. Multiple long, segmented limb-like appendages radiate outward from its mass, each tapering to a dark claw or tip. From the top of its body rises a cluster of tall, dark angular spines. Several birds — white-and-grey, bird-of-prey scale — are visible scattered around the creature, some appearing to be fleeing or circling. In the lower foreground, a small orange animal (possibly a fox or similar creature) sits near the base for scale, emphasizing the creature's enormous size. The setting is a rocky cave or cliff face with muted grey-green tones. The creature's central mass features a ring of red dots arranged symmetrically, giving it an almost biological-mechanical appearance.
 
-**Subject:** 
+**Subject:** A massive multi-limbed alien creature with a pale green bulbous body, numerous long segmented limbs, and a crown of dark spikes, looming over a rocky cavern environment while small birds scatter around it
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, narrative, figures: solo, facing: forward
+**Setting:** dungeon, indeterminate
+**Foreground:** massive alien creature with pale green body, red nodules, many limbs, dark spines; small orange animal at base  *(palette: pale-green, red, dark-brown, orange)*
+**Background:** rocky grey cavern walls and cliff face  *(palette: grey, green, brown, muted-tan)*
+**Mood / lighting:** horror, ambient
+**Emotion read:** no humanoid face — creature projects looming menace; small animal below suggests helplessness
+**Creatures:** alien creature, eldrazi, birds, small orange animal
+**Iconography:** eye-like nodules, dark spines
+**Genre cues:** fantasy, cosmic-horror
 

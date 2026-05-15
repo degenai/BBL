@@ -1,0 +1,41 @@
+{
+  "card_name": "Razoul - Menacing Guard",
+  "game": "Lorcana",
+  "set": "Archazia's Island",
+  "collector_number": "189/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is explicitly 'Razoul - Menacing Guard.' Oracle text names Jafar directly ('MY ORDERS COME FROM JAFAR'). Flavor text ('Mere trinkets won't get you any closer to Jafar.') is a voiced line consistent with Razoul's canonical role as the Captain of Agrabah's Guard who serves Jafar's orders. A prior Lorcana version (Razoul - Palace Guard, Into the Inklands 188/204) confirms the character's franchise presence. Identity confirmed via card oracle/flavor text, Lorcana card databases, and Disney source-material wiki.",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: `\"Mere trinkets won't get you any closer to Jafar.\"` [card frontmatter] — the line positions Razoul as Jafar's enforcer gatekeeper, consistent with his canonical role in Disney's Aladdin (1992) as Captain of the Agrabah Royal Guard who carries out Jafar's orders. The oracle text ability name MY ORDERS COME FROM JAFAR (when you play this character and have a Jafar character in play, you may banish a chosen item) mechanically enforces this loyalty dependency — Razoul's ability only activates with Jafar present. [card frontmatter; Lorcana card databases via WebSearch]",
+      "sources": ["Card frontmatter (flavor_text, oracle_text fields)", "Lorcana card databases via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Razoul appears in Lorcana across two sets: Razoul - Palace Guard (Into the Inklands, 188/204, Common Steel) and this Razoul - Menacing Guard (Archazia's Island, 189/204, Common Steel). Both are classified as Common Steel, suggesting Ravensburger views him as a recurring minor antagonist who anchors the Aladdin franchise at low rarity. The version shift from 'Palace Guard' to 'Menacing Guard' sharpens his threat framing in the Archazia's Island print. [Lorcana Player: Razoul - Palace Guard, via WebSearch]",
+      "sources": ["Lorcana Player: Razoul - Palace Guard, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Razoul - Menacing Guard is a 2-cost Steel Common, 1 Strength / 3 Willpower / 1 Lore, illustrated by Carlos Luzzi. His card subtypes are listed as Dreamborn Ally Captain — 'Dreamborn' indicates this is an alternate Lorcana-universe version of the character rather than his Storyborn original film appearance. The classifications Ally and Captain reflect his canonical role: in Aladdin (1992) he is the long-serving Captain of Agrabah's Royal Guard, a position he holds across the film, the TV series, and the direct-to-video sequels. [Lorcana card databases via WebSearch; Disney Wiki: Razoul, via WebSearch]",
+      "sources": ["Lorcana card databases via WebSearch", "Disney Wiki: Razoul, via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Disney's Aladdin (1992), Razoul was named after Disney layout artist Rasoul Azadani — a rare instance of a named antagonist whose name is a real-person tribute. Voiced by Jim Cummings, Razoul is a career palace guard who takes his enforcement duties seriously regardless of who gives the orders: he pursues Aladdin on behalf of the Sultan and later on behalf of Jafar. By the end of The Return of Jafar and Aladdin and the King of Thieves he begins to accept the former street rat, catching the bouquet at Aladdin and Jasmine's wedding. [Disney Wiki: Razoul, via WebSearch; Wikipedia: List of Disney's Aladdin characters, via WebSearch]",
+      "sources": ["Disney Wiki: Razoul, via WebSearch", "Wikipedia: List of Disney's Aladdin characters, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Razoul - Palace Guard", "set": "Into the Inklands (188/204)", "note": "Prior Common Steel Lorcana print of the same character"},
+    {"name": "Jafar", "set": "Lorcana (multiple sets)", "note": "Required by oracle text for Razoul's ability to trigger; his canonical commander"},
+    {"name": "Aladdin", "set": "Lorcana (multiple sets)", "note": "Razoul's canonical film antagonist; appears across Lorcana sets"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

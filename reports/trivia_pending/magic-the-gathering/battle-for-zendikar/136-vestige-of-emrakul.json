@@ -1,0 +1,42 @@
+{
+  "card_name": "Vestige of Emrakul",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "136",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Battle for Zendikar (BFZ, released 2015-10-02) sets up the climax of the Eldrazi arc: Ulamog is defeated by the Gatewatch during BFZ, but Emrakul — the most powerful of the three Eldrazi titans — remains offscreen throughout the block. BFZ's Emrakul cards including Vestige of Emrakul reference her through her brood rather than her direct presence, building dread through absence. [Scryfall API; Wizards: MTG lore via WebSearch snippet]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Emrakul has not been seen in months. Though her brood's numbers have dwindled in her absence, each drone is still a deadly threat.\" [Scryfall] Emrakul's absence is a deliberate narrative choice in BFZ — she appears only in Eldritch Moon (2016), set on Innistrad, having traveled through the Blind Eternities. The flavor text here functions as in-world foreshadowing: the threat level of individual drones is emphasized precisely because the titan herself is conserved for a more dramatic reveal.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 3/4 Eldrazi Drone for {3}{R} with Devoid and Trample — vanilla-plus stats for common. Pauper-legal and paupercommander-legal. EDHREC rank 27,830 is the lowest of the wave-86 BFZ cards, consistent with its status as a pure beatstick with no synergistic text. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Tyler Jacobson, a prominent MTG artist with landmark pieces including the Khans of Tarkir set's Sarkhan and multiple iconic planeswalker portraits. Jacobson's work on a common Eldrazi drone represents art-team investment in making even bulk commons visually arresting in BFZ's horror-invasion aesthetic. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Emrakul, the Promised End", "set": "Eldritch Moon", "note": "The titan Vestige of Emrakul names — her 'absent months' culminate in the EMN reveal on Innistrad"},
+    {"name": "Nettle Drone", "set": "Battle for Zendikar", "note": "Sister BFZ Eldrazi Drone common in collector number range; same Devoid block identity"},
+    {"name": "Endless One", "set": "Battle for Zendikar", "note": "BFZ colorless Eldrazi; pairs with Vestige in common-Eldrazi builds"},
+    {"name": "Eldrazi Devastator", "set": "Battle for Zendikar", "note": "BFZ bulk-Eldrazi common with Trample — functional parallel to Vestige at higher CMC"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

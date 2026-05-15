@@ -31,6 +31,7 @@ subject_known_ip: true
 suspected_ip: Trunks, Son Goku (child), Pan — Dragon Ball franchise
 ip_confidence: high
 ip_verified: true
+characters: [pan, son-goku, trunks]
 ---
 
 # Grand Tour Spaceship (Cross Worlds)

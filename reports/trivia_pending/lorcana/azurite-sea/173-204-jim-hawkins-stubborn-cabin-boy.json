@@ -1,0 +1,43 @@
+{
+  "card_name": "Jim Hawkins - Stubborn Cabin Boy",
+  "game": "Lorcana",
+  "set": "Azurite Sea",
+  "collector_number": "173/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is explicitly 'Jim Hawkins - Stubborn Cabin Boy.' Jim Hawkins is the named protagonist of Disney's Treasure Planet (2002). Lorcana card databases and the Mushu Report wiki confirm this card. Jim Hawkins appears across multiple Lorcana sets (Into the Inklands, Azurite Sea) under various version subtitles. The character's full canon name is James Pleiades Hawkins. Identity confirmed via card name, Lorcana databases, Disney source material, and franchise context of the Azurite Sea pirate-themed set.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Jim Hawkins - Stubborn Cabin Boy is card 173/204 in Azurite Sea (Lorcana set 6, released November 15, 2024). Azurite Sea is a pirate-adventure themed set set in the aftermath of Ursula's defeat; Jim Hawkins is a natural fit as the protagonist of a nautical-space adventure (Treasure Planet, 2002). Jim appears in multiple Lorcana sets: Into the Inklands (Jim Hawkins - Thrill Seeker, Jim Hawkins - Space Traveler, Jim Hawkins - Honorable Pirate) and Azurite Sea (Jim Hawkins - Stubborn Cabin Boy, Jim Hawkins - Rigging Specialist). The Azurite Sea Starter Deck was themed around Jim Hawkins, underscoring his role as a set ambassador for this wave. [Lorcana Player: Azurite Sea overview, via WebSearch; Lorcast card page, via WebSearch]",
+      "sources": ["Lorcana Player: Azurite Sea set overview, via WebSearch", "Lorcast: Jim Hawkins - Stubborn Cabin Boy, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "This card is a 2-cost Steel Common with 4 Strength, oracle ability COME ON, COME ON, COME ON! (during your turn, whenever a card is put into your inkwell, this character gains Challenger +2 for the turn), illustrated by Ursula Dorada. The ability rewards inkwell-building tempo, mechanically echoing Jim's impulsive, opportunistic drive in the film. The 'Stubborn Cabin Boy' subtitle frames an early-arc version of Jim — before he proves himself, when he's still fighting for recognition. [card frontmatter; Lorcana databases via WebSearch]",
+      "sources": ["Card frontmatter (oracle_text field)", "Lorcana databases via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Treasure Planet (2002, dir. Ron Clements and John Musker), Jim Hawkins — full name James Pleiades Hawkins, voiced by Joseph Gordon-Levitt — is a troubled, fatherless teenager assigned as cabin boy under ship's cook John Silver (a cyborg). The film is a sci-fi adaptation of Robert Louis Stevenson's Treasure Island transposed to a space-sailing universe. Jim's arc from delinquent to hero is driven by his relationship with Silver as a surrogate father figure. [Disney Wiki: Jim Hawkins (Treasure Planet), via WebSearch]",
+      "sources": ["Disney Wiki: Jim Hawkins (Treasure Planet), via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Jim Hawkins is one of Treasure Planet's most represented characters in Lorcana, across at least five distinct named versions as of Azurite Sea. Ravensburger's Azurite Sea used Jim as a Starter Deck face card (the Amber/Ruby Starter Deck featured Jim Hawkins - Honorable Pirate paired with Tigger), signaling he is a tier-1 franchise anchor for the pirate-adventure set. [Lorcana Player: Azurite Sea Starter Deck, via WebSearch]",
+      "sources": ["Lorcana Player: Azurite Sea Starter Deck overview, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Jim Hawkins - Rigging Specialist", "set": "Azurite Sea (183/204)", "note": "Steel Floodborn version in the same set; 5-cost with Shift 3 and BATTLE STATION ability"},
+    {"name": "Jim Hawkins - Honorable Pirate", "set": "Azurite Sea", "note": "Face card of the Azurite Sea Amber/Ruby Starter Deck"},
+    {"name": "Jim Hawkins - Thrill Seeker", "set": "Into the Inklands (110/204)", "note": "Earlier Jim Hawkins Ruby print"},
+    {"name": "Jim Hawkins - Space Traveler", "set": "Into the Inklands", "note": "Ruby Storyborn version with location-play abilities"},
+    {"name": "John Silver", "set": "Lorcana (if printed)", "note": "Surrogate father figure and primary antagonist of Treasure Planet; Jim's captain"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

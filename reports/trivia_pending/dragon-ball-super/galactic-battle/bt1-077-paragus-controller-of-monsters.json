@@ -1,0 +1,37 @@
+{
+  "card_name": "Paragus, Controller of Monsters",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-077",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Paragus, Controller of Monsters'; Era: Broly Saga; the card's [Auto] ability references Broly's Ring by name, which is exclusively Paragus's mind-control device from Movie 8. The depicted figure — older, scarred, gold royal armor, commanding a larger figure behind him — matches Paragus's canonical appearance and his role as Broly's father-controller. Named explicitly in the card title. [Wikipedia: Dragon Ball Z: Broly – The Legendary Super Saiyan; WebSearch: therealmofadventure.com BT1-077]",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Paragus is a Saiyan from Dragon Ball Z: Broly – The Legendary Super Saiyan (Movie 8, 1993). After King Vegeta ordered Broly's execution due to his 10,000 power-level birth, Broly instinctively shielded himself and his father, and they escaped into space. Paragus subsequently developed a mind-control device (synced between his bracelet and Broly's crown/headband) to suppress and weaponize his son's uncontrollable power, using Broly to build 'New Planet Vegeta' and exact revenge on King Vegeta's bloodline. [Wikipedia: Dragon Ball Z: Broly – The Legendary Super Saiyan]",
+      "sources": ["Wikipedia: Dragon Ball Z: Broly – The Legendary Super Saiyan"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT1-077 is a green Common Battle card (2 energy, 10000 power, 5000 combo, Special Trait: Saiyan). Its [Auto] on-play skill reads: discard 1 card from hand, then choose and activate 1 Broly's Ring from your deck, then shuffle. This makes Paragus a direct engine-piece for the Broly's Ring lock — tutoring the Extra card at the cost of one card in hand. The design directly enacts his lore role: Paragus retrieves the control device to suppress Broly's rampage. [WebSearch: therealmofadventure.com BT1-077; WebSearch: levelupgamesmd.com BT1-077]",
+      "sources": ["WebSearch: therealmofadventure.com BT1-077", "WebSearch: levelupgamesmd.com BT1-077"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Paragus's fate in the film is grim: he attempts to flee the doomed New Planet Vegeta in a space pod before being confronted and killed by Broly himself — the instrument of his revenge turned on its creator. The card title 'Controller of Monsters' captures both his function (controller) and the irony of his end (the monster he controlled destroyed him). [Wikipedia: Dragon Ball Z: Broly – The Legendary Super Saiyan]",
+      "sources": ["Wikipedia: Dragon Ball Z: Broly – The Legendary Super Saiyan"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Broly, Dawn of the Rampage (2017)", "set": "Galactic Battle", "note": "BT1-076 — Broly in pre-powered state; the 'monster' Paragus controls"},
+    {"name": "Rampaging Super Saiyan Broly", "set": "Galactic Battle", "note": "BT1-075 — the post-control-break Legendary Super Saiyan form"},
+    {"name": "Broly's Ring", "set": "Galactic Battle", "note": "BT1-081 — the Extra card Paragus tutors; the actual mind-control device as a game piece"},
+    {"name": "Broly // Broly, The Legendary Super Saiyan", "set": "Galactic Battle", "note": "BT1-073 — the Leader card for the Movie 8 Broly archetype this card supports"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

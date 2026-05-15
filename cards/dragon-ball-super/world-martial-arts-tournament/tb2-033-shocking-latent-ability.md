@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-characters: ["son-goku"]
+characters: ["son-goku", "uub"]
 tags_hub: ["martial-arts", "fighter", "warrior", "combat", "power", "speed", "discipline", "gi", "brawler", "raw-strength"]
 tags_filter: ["solo", "mid-shot", "action", "forward-facing", "anime-style", "male-figure"]
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-033-shocking-latent-ability.png

@@ -30,6 +30,7 @@ setting: void
 suspected_ip: Son Goku (Dragon Ball Super) — Instant Transmission technique
 ip_confidence: high
 ip_verified: true
+characters: [son-goku]
 ---
 
 # Instant Transmission (Colossal Warfare)

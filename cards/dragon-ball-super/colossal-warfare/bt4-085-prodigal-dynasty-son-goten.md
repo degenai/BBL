@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["son-goten"]
 tags_hub: ["youth", "warrior", "saiyan", "transformation", "golden", "power", "son", "heir", "dynasty", "combat", "energy", "prodigy", "martial-arts"]
 tags_filter: ["solo", "mid-shot", "action", "forward-facing", "male-figure", "anime"]
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-085-prodigal-dynasty-son-goten.png

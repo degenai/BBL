@@ -1,0 +1,41 @@
+{
+  "card_name": "Canyon Vaulter",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "8",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Canyon Vaulter is typed Kor Pilot — a 3/1 for {1}{W}. The Kor are a nomadic humanoid race native to Zendikar, described as masters of ropes and hooks who travel pilgrimage routes across treacherous terrain. Canyon Vaulter is a Kor appearing far from Zendikar, competing in the Ghirapur Grand Prix on Avishkar.",
+      "sources": ["Scryfall", "mtg.wiki/page/Kor, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Whenever Canyon Vaulter saddles a Mount or crews a Vehicle during your main phase, that permanent gains flying until end of turn, turning any ground-locked Mount or Vehicle airborne without needing a dedicated flying strategy. EDHREC rank 14,487 — highest Commander adoption in this batch of 8, likely due to the broadly useful flying-grant ability.",
+      "sources": ["Scryfall: oracle text, edhrec_rank"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Some seek thrills in watching the show. Some seek thrills in being the show.\" Unattributed. Captures the Grand Prix spectacle ethos: the race is entertainment and the drivers are the entertainment.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Canyon Vaulter was previewed by Quest Daily on 2025-01-23. The Aetherdrift Mechanics article notes Pilot creatures throughout the set crew and saddle as if their power were 2 greater on relevant token effects — Canyon Vaulter as a named Pilot creature type is the non-token implementation of that design theme.",
+      "sources": ["Scryfall: preview source", "magic.wizards.com: Aetherdrift Mechanics"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Stoneforge Mystic", "set": "WWK", "note": "iconic Kor creature from Zendikar; most recognizable Kor in the canon"},
+    {"name": "Kor Skyfisher", "set": "ZEN", "note": "Kor with aerial movement; thematic Kor-tribe parallel"},
+    {"name": "Hovercraft Mechanic", "set": "DFT", "note": "another DFT Pilot creature type; Canyon Vaulter is the Kor Pilot representative"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -29,7 +29,7 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Son Goku (Dragon Ball Super)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Son Goku // Super Saiyan Blue Son Goku (Galactic Battle)
@@ -38,8 +38,8 @@ ip_verified: false
 
 ![bt1-030-son-goku-super-saiyan-blue-son-goku](../../_images/dragon-ball-super/galactic-battle/bt1-030-son-goku-super-saiyan-blue-son-goku.png)
 
-> [!warning] Suspected IP: **Son Goku (Dragon Ball Super)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Son Goku (Dragon Ball Super)**
+> Confirmed via card name ("Son Goku // Super Saiyan Blue Son Goku"), Era: Resurrection F Saga, Special Trait: Saiyan, and canonical visual identifiers — orange martial arts gi with dark spiky hair (base form) and blue energy aura (SSB back face). [WebSearch: CoreTCG BT1-030; WebSearch: PSA CardFacts BT1-030]
 
 A humanoid figure stands in a forward-leaning combat-ready stance, knees slightly bent, both fists raised. The figure has dark spiky hair and wears an orange martial arts gi with a dark belt. Behind the figure, a blue energy aura crackles — deep blue hues suggesting the Super Saiyan Blue transformation context, though the front-facing figure itself appears in a pre-transformation or base-form rendering. The background blends warm orange and cool blue, creating a dynamic contrast. The expression is focused and determined.
 
@@ -53,4 +53,15 @@ A humanoid figure stands in a forward-leaning combat-ready stance, knees slightl
 **Emotion read:** focused determination, combat-ready
 **Iconography:** energy-aura, martial-arts-gi
 **Genre cues:** anime, fantasy
+
+## Trivia
+
+- **Set context** — Galactic Battle (DBS-B01) was the inaugural booster set for the Dragon Ball Super Card Game, released July 28, 2017. BT1-030 is an Uncommon Leader card from the Resurrection F Saga pool — the arc in which Goku's Super Saiyan Blue form (Super Saiyan God Super Saiyan) debuted, first appearing in the 2015 theatrical film Dragon Ball Z: Resurrection F before being incorporated into the Dragon Ball Super anime. `[WebSearch: PSA Set Registry Galactic Battle 2017; WebSearch: pricecharting.com BT1-030]`
+- **Mechanical design** — As a Leader card, BT1-030 flips between base Son Goku (10000 power) and Super Saiyan Blue Son Goku (15000 power). The base side gains +1000 power per energy when attacking, then draws 2 cards and flips when life drops to 4 or fewer. The back side gains a once-per-turn active-mode reset when you control 7 or more energy — a late-game sustained pressure engine. The design reflects Goku's in-universe escalation pattern: conserve energy, endure, then transform. `[WebSearch: CoreTCG BT1-030; WebSearch: TrollAndToad BT1-030]`
+- **Design** — A hot-stamped promo version (BT1-030_PR) was distributed through Galactic Battle Launch Kits in the US, Oceania, Canada, and Asia starting July 1, 2017 — making it one of the earliest chase promos in the DBS TCG's run. The gold-ink hot stamp distinguishes it from the standard Uncommon print. `[WebSearch: PSA CardFacts BT1-030 Launch Kit; WebSearch: eBay "Gold Stamped First Promo DBS" BT1-030]`
+
+### Related cards
+- God Charge Vegeta (Galactic Battle, BT1-036) — Resurrection F Saga pool, Blue color, same era grouping
+- Energy Boosted Majin Buu (Galactic Battle, BT1-047) — inventory card, same base set, different arc pool (Buu Saga)
+- Indomitable Dynasty SS Son Goku (Colossal Warfare, BT4-077) — later Goku leader in the Goku's Lineage trait family
 

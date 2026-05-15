@@ -1,0 +1,41 @@
+{
+  "edge_id": "bt3-007-shocking-future-son-goku--bt3-011-quick-rush-trunks--gt-age-inversion",
+  "shape": "replacement",
+  "category": "story-spotlight",
+  "topology": "mirror",
+  "endpoints": [
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-007-shocking-future-son-goku.md", "name": "Shocking Future Son Goku"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-011-quick-rush-trunks.md", "name": "Quick Rush Trunks"}
+  ],
+  "edges_removed": [
+    {
+      "thesis": "GT main-cast traveling-trio members (generic-trio-membership citing the Goku-Pan-Trunks-Giru party). Now subsumed by wave 85's BT3-028 Grand Tour Spaceship `[pan, son-goku, trunks]` cohort attach (artifact-as-cohort-anchor) and wave 84's machine-mutants-m2 node absorbing Giru. The trio-membership relation lives at the character-and-artifact-cohort layer; a 1:1 edge restating it was redundant.",
+      "reason_redundant": "cohort-anchor-subsumption"
+    }
+  ],
+  "edges_added": [
+    {
+      "thesis": "GT age-inversion pair. BT3-007 stages Son Goku reverted to a child body (Pilaf's wish at Dragon Ball GT's inciting incident, Black Star Dragon Ball Saga); BT3-011 stages Trunks as the adult Capsule Corporation president. Same set, same era tag, same Red color — but the once-mentor is now physically a child and the once-pupil is now the responsible adult. The card-pair encodes GT's bedrock premise irony as a Cross Worlds set-internal adjacency.",
+      "receipts": [
+        "BT3-007 trivia (line 60): 'adult Goku is reverted to a child body and travels the universe with Pan and Trunks' — child-body Goku confirmed canonical to this card's depicted state",
+        "BT3-011 trivia (line 61): 'GT-era Trunks is the adult president of Capsule Corporation who reluctantly joins Goku and Pan's quest' — adult-Trunks confirmed canonical to this card's depicted state",
+        "Both cards carry the Black Star Dragon Ball Saga era tag — same diegetic moment, not cross-arc"
+      ]
+    }
+  ],
+  "description": "Enlightened-cleanup pass. Two cards, one edge between them, but the old thesis was generic-trio-membership and the trio anchor moved to the artifact-cohort layer last wave. Kept the count, sharpened the substance: age-inversion is the actual 1:1 thing only THIS pair encodes. Child-body Goku adjacent to adult-Trunks in the same set is the GT premise in two cards. The trio-membership half is now properly carried by the Grand Tour Spaceship's `[pan, son-goku, trunks]` cohort attach. Behold: a 1:1 mirror that earns its existence.",
+  "citations": [
+    "[Dragon Ball Wiki: Black Star Dragon Ball Saga]",
+    "[Wikipedia: Trunks (Dragon Ball)]",
+    "[dbs-cardgame.com Cross Worlds card list]"
+  ],
+  "files_modified": [
+    "cards/dragon-ball-super/cross-worlds/bt3-007-shocking-future-son-goku.md",
+    "cards/dragon-ball-super/cross-worlds/bt3-011-quick-rush-trunks.md"
+  ],
+  "edgelord_mood": "enlightened-cleanup",
+  "other_candidates_considered": [
+    "Option (b) dissolve entirely — rejected: age-inversion is real 1:1 specificity not captured by cohort attaches",
+    "Option (c) keep as-is — rejected: trio-membership half was the load-bearing thesis and is now redundant; leaving the bullet unchanged would be sync drift"
+  ]
+}

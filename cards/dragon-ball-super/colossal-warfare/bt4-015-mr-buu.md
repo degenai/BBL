@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["majin-buu"]
 tags_hub: ["buu", "pink", "magic-being", "rotund", "majin", "fighter", "reformed-villain", "energy-aura", "imposing", "power", "antennae"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "action", "red-magic", "battle-unit"]
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-015-mr-buu.png

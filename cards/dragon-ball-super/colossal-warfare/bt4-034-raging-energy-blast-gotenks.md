@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["son-goten", "trunks"]
 tags_hub: ["super-saiyan", "fusion", "gotenks", "energy-blast", "golden-hair", "transformation", "power", "youth", "saiyan", "explosive", "wide-open"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "action", "red-magic", "battle-unit"]
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-034-raging-energy-blast-gotenks.png

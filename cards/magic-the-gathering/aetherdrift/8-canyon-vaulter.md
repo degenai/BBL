@@ -54,3 +54,15 @@ A humanoid figure in a bright red and orange racing suit stands upright atop a d
 **Iconography:** dragon-motif, aether-energy, canyon-jump
 **Genre cues:** fantasy, sci-fi
 
+## Trivia
+
+- **Set context** — Canyon Vaulter is a white uncommon creature from Aetherdrift (DFT), released 2025-02-14, typed as Kor Pilot — 3/1 for {1}{W}. The Kor are a humanoid race native to Zendikar, described in MTG lore as nomadic masters of ropes and hooks who travel pilgrimage routes across Zendikar's treacherous terrain `[mtg.wiki/page/Kor, via WebSearch]`. Canyon Vaulter is a Kor appearing far from Zendikar, competing in the Ghirapur Grand Prix on Avishkar.
+- **Mechanical note** — Whenever Canyon Vaulter saddles a Mount or crews a Vehicle during your main phase, that permanent gains flying until end of turn. This ability turns any ground-locked Mount or Vehicle airborne on demand, bypassing ground blockers without needing to build a dedicated flying strategy. The Pilot subtype means it counts as a Pilot for any Pilot-synergy effects in the set `[Scryfall: oracle text, type_line]`. The Wizards Aetherdrift Mechanics article notes Pilot creatures throughout the set crew and saddle "as if their power were 2 greater" on relevant token effects — Canyon Vaulter is the named creature type parallel `[magic.wizards.com: Aetherdrift Mechanics]`.
+- **Flavor text** — `"Some seek thrills in watching the show. Some seek thrills in being the show."` `[Scryfall]` — the line is unattributed and captures the set's daredevil spectacle ethos: the Grand Prix is as much entertainment as competition.
+- **Design note** — Canyon Vaulter was previewed by Quest Daily on 2025-01-23 `[Scryfall: preview source]`. EDHREC rank 14,487 — the highest Commander adoption among the eight cards in this batch, likely due to the flying-grant ability being generically useful in Vehicle and Mount Commander decks `[Scryfall: edhrec_rank]`.
+
+### Related cards
+- Stoneforge Mystic (WWK) — iconic Kor creature from Zendikar; the most recognizable Kor in the canon
+- Kor Skyfisher (ZEN) — another Kor with aerial movement; thematic Kor-tribe related card
+- Hovercraft Mechanic (DFT) — any DFT Pilot creature; Canyon Vaulter is the Kor Pilot representative of the type
+

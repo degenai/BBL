@@ -51,3 +51,15 @@ A muscular humanoid figure with a hammerhead-shark head, jaws agape with rows of
 **Creatures:** shark-headed-humanoid, goblin
 **Genre cues:** fantasy, post-apocalyptic, racing, pulp
 
+## Trivia
+
+- **Set context** — Trade the Helm is a blue uncommon sorcery from Aetherdrift (DFT), released 2025-02-14. It was previewed by Checkpoint Gaming on 2025-01-27 `[Scryfall: preview source]`. The effect — exchange control of any artifact or creature you control with any artifact or creature an opponent controls — is a permanent-swap effect in the lineage of Legerdemain and Switcheroo, but uniquely can swap artifacts (including Vehicles) rather than creatures only.
+- **Flavor text** — `"This looks like a winning vehicle. But you lot ain't a winning team."` `[Scryfall]` — the speaker is unattributed. The line fits the art's scenario: a shark-headed humanoid (likely from the Keelhaulers team, a crew of aggressive aquatic humanoids led by Howler and co-captained by Kari Zev) commandeering a goblin-crewed vehicle mid-race `[magic.wizards.com: All 10 Racing Teams, via WebSearch]`.
+- **Mechanical note** — The Cycling {2} clause means Trade the Helm is never a dead card: when the swap effect would do nothing useful, it cantrips for two mana. Compared to Gilded Drake (which costs {1}{U}, creates a body, and swaps with a creature but requires the exchange to complete or it self-sacrifices), Trade the Helm costs {4}{U} as a sorcery but has no failure clause and can target artifacts. Flexibility is the pitch `[Scryfall: oracle text]`. EDHREC rank 16,129 reflects modest but real Commander adoption `[Scryfall: edhrec_rank]`.
+- **Team cohort flag** — The art depicts what appears to be the Keelhaulers team (aquatic humanoids, Kari Zev affiliation) boarding a vehicle crewed by goblins — likely Goblin Rocketeers or Endriders. This card is a candidate for team-cohort attachment in the graph at the Keelhaulers–Rocketeers friction point.
+
+### Related cards
+- Switcheroo (M13) — blue uncommon creature-control-swap sorcery; direct mechanical ancestor
+- Gilded Drake (USG) — the broken {1}{U} benchmark for control-swap; Helm is the fair version
+- Kari Zev, Skyship Raider (KLD) — Keelhaulers co-captain, appears in Aetherdrift lore
+

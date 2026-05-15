@@ -1,0 +1,33 @@
+{
+  "edge_id": "wave85-prong-b-lorcana-cohort-scout",
+  "wave": 85,
+  "prong": "B",
+  "shape": "scout-only — no edges drawn, no nodes proposed",
+  "category": "observational",
+  "topology": "n/a",
+  "endpoints": [
+    {"type": "card", "path": "cards/lorcana/archazia-s-island/146-204-edgar-balthazar-ambitious-butler.md", "name": "Edgar Balthazar - Ambitious Butler"},
+    {"type": "card", "path": "cards/lorcana/archazia-s-island/183-204-helga-sinclair-tough-as-nails.md", "name": "Helga Sinclair - Tough as Nails"},
+    {"type": "card", "path": "cards/lorcana/archazia-s-island/189-204-razoul-menacing-guard.md", "name": "Razoul - Menacing Guard"},
+    {"type": "card", "path": "cards/lorcana/azurite-sea/173-204-jim-hawkins-stubborn-cabin-boy.md", "name": "Jim Hawkins - Stubborn Cabin Boy"},
+    {"type": "card", "path": "cards/lorcana/whispers-in-the-well/184-204-david-xanatos-steel-clan-leader.md", "name": "David Xanatos - Steel Clan Leader"}
+  ],
+  "observations": {
+    "tag_overlap_pattern": "All 5 enriched Lorcana cards carry tags_hub: ['villain', ...] (4 of 5 explicitly; Jim Hawkins is the lone non-villain — tags as 'youth' + 'adventure' + 'determination', no villain tag). 4/5 is a strong soft-cohort signal at the tag layer.",
+    "designer-stamped_villain_subtype": "Grep for 'Villain' across all 40 cards/lorcana/ MDs returned ZERO matches in oracle_text or frontmatter. Lorcana does NOT (in this corpus) appear to stamp 'Villain' as a designer-coordinated subtype — it's not analogous to MTG creature-types or Pokemon TCG VMAX. The villain-classification is currently a tags_hub-layer descriptor only, NOT a load-bearing graph-relevant primitive.",
+    "character_repeat_audit": "Scanned all 40 cards/lorcana/ paths for repeat-character patterns. The 5 enriched cards depict 5 distinct characters from 5 distinct Disney IPs (Aristocats / Atlantis / Aladdin / Treasure Planet / Gargoyles). NO character appears twice in the enriched-Lorcana 5. Across the full 40-card unenriched corpus, name-spotting suggests no obvious character repeats either (each card is a distinct named-Disney-IP figure). Single-character-node candidates: zero from this slate.",
+    "ip_diversity": "The 5 cards span 5 separate Disney films/series. No two cards share an IP universe. This is structurally OPPOSITE to the DBS cohort pattern (where all DBS cards share one franchise and characters recur). Lorcana's design intent appears to be cross-IP fan-service, not within-IP cohort building."
+  },
+  "verdict": {
+    "lorcana_villain_archetype_symbol_node": "REJECT for this pass. Three reasons: (1) no designer-coordinated 'Villain' subtype keyword exists in any corpus oracle_text — the classification is tag-layer-only, which per `[BBL symbols accept mechanical primitives]` is below the threshold for symbol-layer admission. (2) The 4/5 villain rate is a small sample; needs more enriched Lorcana cards before the cohort-strength is verifiable. (3) The cross-IP diversity means a 'lorcana-villain-archetype' node would be a tag-bridge across unrelated narrative universes — that's exactly the kind of thin connection Edgelord refuses. Hub-tier 'villain' as a BBL-wide hub may someday be warranted (it would catch Lorcana villains AND Magic villains AND Pokemon Team Rocket-likes), but that's a separate, much larger commission. Park.",
+    "lorcana_single_character_nodes": "REJECT for this pass. No character repeats across the 5 enriched cards. Threshold-of-3 (per [[trunks]] / [[pan]] precedent) requires 3+ corpus cards depicting the same character; the Lorcana slate has 1 card per character. Future-trigger: when any single Disney character lands 3+ Lorcana prints in the corpus (e.g. if 2 more Razoul prints arrive, or 2 more Helga prints), that's the moment to commission a solo-character node."
+  },
+  "future_triggers": [
+    "If 3+ Lorcana cards arrive that share a single Disney film universe (e.g. 3+ Aladdin cards: Jafar + Razoul + Iago), evaluate an IP-cohort character-layer node analogous to [[orzhov-syndicate]] or [[team-rocket]] but anchored to a single Disney franchise.",
+    "If Lorcana ever adds a designer-stamped subtype keyword (creature subtypes, Action subtypes, or similar) that flags 'Villain' as a first-class card-mechanical primitive, re-evaluate the symbol-layer admission via the [[bbl-symbols-mechanical-primitives]] precedent.",
+    "Cross-IP 'archetype' nodes (villain-archetype, mentor-archetype, etc.) would need to be hub-tier, not symbol-tier or character-tier. Defer until a separate hub-architecture conversation with Alex about whether BBL wants archetype hubs as a layer at all."
+  ],
+  "files_modified": [],
+  "edgelord_mood": "satisfied-by-observation",
+  "notes": "Scout-only pass; explicitly requested by parent orchestrator with 'NO new nodes yet, just observation'. Findings recorded for future-wave reference. The Lorcana corpus does not yet have the corpus-density or designer-coordinated-primitive shape to support a Mr. Nodeley intervention; the cleanest move was to refuse-the-node and document why."
+}

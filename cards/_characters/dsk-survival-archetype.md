@@ -17,7 +17,7 @@ appears_on:
   - magic-the-gathering/duskmourn-house-of-horror/244-conductive-machete
   - magic-the-gathering/duskmourn-house-of-horror/297-norin-swift-survivalist-0297
 related_hubs: [rebellion, labor]
-related_symbols: [manifest-dread]
+related_symbols: [manifest-dread, survival]
 related_characters: [dsk-toy-horror, fear-of-cycle, dsk-unlucky-lands-cycle, valgavoth]
 ---
 

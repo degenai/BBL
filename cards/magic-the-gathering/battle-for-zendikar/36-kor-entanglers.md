@@ -52,3 +52,16 @@ Two humanoid figures occupy the foreground in dynamic combat poses. Both have di
 **Iconography:** hooks, ropes
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set / race context** — Battle for Zendikar (BFZ, released 2015-10-02) stages Ulamog's invasion as the set's main event. The Kor — traditionally scattered nomads — are depicted in BFZ as organizing into collective Ally units against the Eldrazi, a significant cultural shift from their characteristically individualistic nomadism. The hook-and-rope toolkit they wield in single-combat carries the same sacred-symbol weight in group formation `[Scryfall API; coolstuffinc.com: "Ecology of the Kor," via WebSearch]`.
+- **Flavor text** — "We came into this world together. We fight for this world together. We'll leave this world together." `[Scryfall]` The vow's final clause — "We'll leave this world together" — reads as an accepted collective death oath, unusual gravity for a white uncommon. The phrase reflects a Kor cultural adaptation: binding their traditional individual nomadic commitment into a war-oath that accepts mutual annihilation as a possible outcome.
+- **Mechanical design** — Rally: whenever this creature or another Ally enters, tap target creature an opponent controls. In a rally chain — multiple Allies entering in sequence — each Ally entering can tap a different blocker, functioning as a pseudo-Maze of Ith on chain. At {4}{W} for a 3/4 it is a curve-topper in BFZ Ally draft. Legal in Pioneer, Modern, Legacy, Commander. EDHREC rank 17,836 `[Scryfall]`.
+- **Design** — Illustrated by Jason Rainville, who painted multiple Ally-creature cards across BFZ and Oath of the Gatewatch, establishing a visual continuity for the Ally tribe's diverse-race resistance aesthetic `[Scryfall]`.
+
+### Related cards
+- Kor Bladewhirl (Battle for Zendikar, no. 34) — sister Kor Ally card two entries earlier in the same set; same race, same Rally keyword, same hook-and-rope visual vocabulary
+- Lantern Scout (Battle for Zendikar) — Kor Scout Ally with lifelink Rally; rounds out the BFZ Kor Ally sub-cycle
+- Kabira Evangel (Zendikar) — original Kor Ally from the Zendikar block; precursor to the BFZ Ally rally design
+- Allies' Ambush (Battle for Zendikar) — instant that taps creatures in Ally-matters context; cross-references Kor Entanglers' tap-down utility
+

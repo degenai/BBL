@@ -30,6 +30,7 @@ setting: void
 suspected_ip: Giru (Dragon Ball GT)
 ip_confidence: high
 ip_verified: true
+characters: ["machine-mutants-m2"]
 ---
 
 # Handy Giru (Cross Worlds)

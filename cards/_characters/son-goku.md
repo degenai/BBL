@@ -29,6 +29,8 @@ appears_on:
   - dragon-ball-super/world-martial-arts-tournament/tb2-049-feet-kamehameha
   - dragon-ball-super/world-martial-arts-tournament/tb2-051-unyielding-victory-son-goku
   - dragon-ball-super/world-martial-arts-tournament/tb2-069-son-goku-uub-seeds-of-the-future
+  - dragon-ball-super/colossal-warfare/bt4-097-instant-transmission
+  - dragon-ball-super/cross-worlds/bt3-028-grand-tour-spaceship
 related_hubs: []
 related_symbols: []
 related_characters: [trunks, baby-dbgt, namekian, bardock, son-gohan]
@@ -106,6 +108,8 @@ This is what BBL's bundle copy can lean on without inventing canon: Goku is, can
 - [[tb2-049-feet-kamehameha]]
 - [[tb2-051-unyielding-victory-son-goku]]
 - [[tb2-069-son-goku-uub-seeds-of-the-future]]
+- [[bt4-097-instant-transmission]]
+- [[bt3-028-grand-tour-spaceship]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Goku** (`https://dragonball.fandom.com/wiki/Goku`) — primary character page; canonical reference for the full multi-series multi-incarnation framing, the Saiyan-lineage backstory, the Turtle School gi origin, the Kamehameha origin, and the Goku's Lineage family-tree relations.

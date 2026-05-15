@@ -1,0 +1,41 @@
+{
+  "card_name": "Unswerving Sloth",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "34",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Unswerving Sloth carries creature types Sloth and Mount — a deliberately absurdist pairing. The Saddle mechanic was originally designed for Aetherdrift but debuted in Outlaws of Thunder Junction because two divergent ride-a-creature mechanics in successive sets would have been awkward; Saddle was the simpler of the two.",
+      "sources": ["Scryfall", "magic.wizards.com: Aetherdrift Mechanics"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"To victory . . . eventually!\" The ellipsis is a joke: the card is a 5/5 indestructible attacker that also untaps all your creatures when it swings while saddled — mechanically anything but slow.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "When this creature attacks while saddled it gains indestructible and untaps all creatures you control, generating pseudo-vigilance for the whole board and refreshing tap-based abilities in the same turn.",
+      "sources": ["Scryfall: oracle text"]
+    },
+    {
+      "category": "design",
+      "text": "The card's comedy is structural: the name, art (armored camel demolishing a motorcycle), and mechanics all describe something relentless and devastating, while the flavor text and creature type anchor it in deliberate bathos. EDHREC rank 16,306 suggests limited Commander adoption despite the powerful effect.",
+      "sources": ["Scryfall: edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Camel", "set": "ARN", "note": "the original camel creature in MTG; Arabian Nights contrast"},
+    {"name": "Cultivator Colossus", "set": "VOW", "note": "white creature with board-untap potential; thematic parallel"},
+    {"name": "Winged Shepherd", "set": "AKH", "note": "white indestructible creature; thematic overlap"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

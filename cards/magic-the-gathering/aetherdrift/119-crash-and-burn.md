@@ -54,3 +54,15 @@ A wide scene of vehicular destruction on a sun-blasted plain. The dominant eleme
 **Iconography:** pink-energy-arc
 **Genre cues:** fantasy, steampunk, racing
 
+## Trivia
+
+- **Set context** — Crash and Burn is a red instant from Aetherdrift (DFT), released 2025-02-14 on the plane of Avishkar during the Ghirapur Grand Prix, a multiversal racing event where ten teams compete for a prize called the Aetherspark `[Scryfall]`. The card's flavor text names "Redshift," co-captain of the Goblin Rocketeers alongside Daretti — a goblin test pilot and aeronautics innovator who bankrolled the team's race entry to pursue interplanar travel `[magic.wizards.com: The Legends of Aetherdrift]`.
+- **Flavor text** — `"Redshift told his team to destroy the competition. They were thrilled to discover he meant it literally."` `[Scryfall]` — the joke plays on "destroy the competition" as idiom versus literal card text: the second mode of the card destroys a creature or planeswalker for 6 damage, and the first mode literally destroys a Vehicle.
+- **Mechanical note** — The modal design (destroy a Vehicle OR deal 6 damage to a creature/planeswalker) makes Crash and Burn unusual red removal: Vehicle destruction is rare in red, typically allocated to blue or artifact-hate colors. At four mana it is pauper-legal and sees play in formats where Vehicle hate matters `[Scryfall: legalities]`.
+- **Team cohort flag** — The Goblin Rocketeers (Redshift + Daretti) are the red/green team in the Aetherdrift Grand Prix structure. This card is one of several DFT red instants/sorceries tied to Rocketeer lore; Daretti, Rocketeer Engineer is the associated legendary creature `[Scryfall: Daretti, Rocketeer Engineer DFT no. 120]`.
+
+### Related cards
+- Daretti, Rocketeer Engineer (DFT, no. 120) — Goblin Rocketeers co-captain; the Redshift flavor text names his team
+- Demolish (various) — same Vehicle-destruction mode in red, older benchmark
+- Goblin Grenade (various) — another red instant that converts a goblin into a damage spike; thematic parallel to Rocketeer ethos
+

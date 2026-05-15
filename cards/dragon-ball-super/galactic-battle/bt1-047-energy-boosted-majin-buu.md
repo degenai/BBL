@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters: ["majin-buu"]
 tags_hub: ["pink", "space", "cosmic", "monster", "villain", "energy-sphere", "floating", "stars", "destruction", "chaos", "otherworldly", "rotund"]
 tags_filter: ["solo", "mid-shot", "action", "forward-facing", "anime"]
 reference_image: cards/_images/dragon-ball-super/galactic-battle/bt1-047-energy-boosted-majin-buu.png

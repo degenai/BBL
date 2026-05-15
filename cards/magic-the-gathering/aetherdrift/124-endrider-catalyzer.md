@@ -54,3 +54,17 @@ A heavily muscled humanoid figure in studded brown leather armor lunges aggressi
 **Iconography:** magenta-energy-tendril, red-whip
 **Genre cues:** fantasy, steampunk
 
+## Trivia
+
+- **Set context** — *Aetherdrift* (set code DFT, released 2025-02-14) is the 103rd Magic expansion, staging the Ghirapur Grand Prix death race across three planes — Avishkar (renamed Kaladesh), Muraganda, and the post-apocalyptic plane Gastal — with ten competing factions racing for the Aetherspark, a legendary artifact that holds planar power `[Scryfall API; Wizards: Planeswalker's Guide to Aetherdrift, Part 1]`.
+- **Faction lore** — The Endriders are Aetherdrift's black-red faction, hailing from Gastal — described as a dying apocalyptic plane of gas, draconic warlords, road warriors, and colossal dry lightning storms. Their leader Far Fortune seeks the Aetherspark to open water reserves to her drought-stricken homeworld `[Wizards: Planeswalker's Guide to Aetherdrift, Part 1; MTG Wiki: Endriders, via WebSearch snippet]`.
+- **Flavor text** — "Endrider magic was developed on a world that was constantly on the move — the higher the velocity, the stronger the magic." `[Scryfall]` This line grounds the Start your engines! / speed mechanic directly in Endrider faction lore: velocity as the literal source of magical power.
+- **Mechanical reputation** — At Max Speed (speed 4), Endrider Catalyzer taps for {R}{R} — a functional mana doubler for red spells once the engine is running. Legal in Pauper and Standard (as of release). EDHREC rank 12,678 places it well outside Commander staple territory `[Scryfall]`.
+- **Design** — Illustrated by Karl Kopinski, who has painted 536+ Magic cards across 15+ years of the game's history, making him one of its most prolific illustrators `[planeswalkersmtg.com; karlkopinski.com, via WebSearch]`.
+
+### Related cards
+- Far Fortune, End Boss (Aetherdrift) — leader of the Endriders; the captain card for the same faction
+- Endrider Spikespitter (Aetherdrift, no. 125) — second Endrider-coded card in the corpus; same faction cycle, same Max Speed payoff design space
+- Gastal Raider (Aetherdrift) — another Gastal-plane card in the Endriders' apocalypse-punk visual register
+- Ragavan, Nimble Pilferer (Modern Horizons 2) — red haste common with velocity-based resource generation; mechanical design spirit parallel
+

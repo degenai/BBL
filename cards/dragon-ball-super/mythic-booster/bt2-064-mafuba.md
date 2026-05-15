@@ -28,8 +28,8 @@ mood: action
 time_of_day: indeterminate
 setting: void
 suspected_ip: Trunks
-ip_confidence: med
-ip_verified: false
+ip_confidence: high
+ip_verified: true
 ---
 
 # Mafuba (Mythic Booster)
@@ -38,8 +38,8 @@ ip_verified: false
 
 ![bt2-064-mafuba](../../_images/dragon-ball-super/mythic-booster/bt2-064-mafuba.png)
 
-> [!warning] Suspected IP: **Trunks** (confidence: med, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Trunks (Dragon Ball Super, Future Trunks)**
+> Confirmed via DBZ Exchange product listing for BT2-064 explicitly noting Trunks as the character, and the red scarf and jacket visual detail consistent with Future Trunks' DBS-specific design [WebSearch: DBZ Exchange BT2-064 Mafuba listing].
 
 A figure with golden-yellow hair in the Super Saiyan form stands with one hand extended forward in a commanding, technique-casting gesture. The figure wears a jacket and has a red cloth or scarf detail visible at the collar or neck area. The energy around the hand is white and circular, suggesting a spiraling or containment technique. The background is a bright energy-saturated field. The 'Mafuba' is the Evil Containment Wave sealing technique historically associated with King Piccolo and Master Roshi but was also famously used by Trunks in the Future Trunks Saga. The red scarf and jacket detail are consistent with Future Trunks' visual design. No sealing vessel or bottle is clearly visible in the frame.
 
@@ -55,3 +55,14 @@ A figure with golden-yellow hair in the Super Saiyan form stands with one hand e
 **Iconography:** sealing-technique, energy-spiral, ki-technique
 **Genre cues:** anime
 
+## Trivia
+
+- **Technique origin** — The Mafuba (Evil Containment Wave) was invented by Master Mutaito — the same master who trained a young Master Roshi. Mutaito originally used it to seal King Piccolo in an Electric Rice Cooker during King Piccolo's first rampage, at the cost of his own life. The technique drains the caster's life force and kills them if they lack sufficient stamina [WebSearch: CBR / GameRant "Dragon Ball: The Evil Containment Wave, Explained"].
+- **DBS arc context** — In Dragon Ball Super's Future Trunks Saga, Future Trunks uses the Mafuba in an attempt to seal the immortal Future Zamasu. The technique's lethality and its required seal vessel (a tagged container) made it a plot-critical element of that arc. BT2-064 depicts Trunks performing the technique, confirmed by retailer card listing [WebSearch: DBZ Exchange BT2-064 Mafuba listing].
+- **Reprint set context** — BT2-064 originated in Union Force (BT2, November 2017). The copy in this corpus is from the Mythic Booster (MB-01, 2022) — a 63-card reprint product where every card received new alternate artwork and a gold foil stamp. Each Mythic Booster pack guaranteed one holo foil, making even Common parallels collectible [WebSearch: ICv2 Mythic Booster announcement; TCDB MB-01 checklist].
+- **Visual identifier** — Future Trunks' red scarf and jacket are specific to his Dragon Ball Super design — they are absent in his original DBZ appearance. The red scarf is a reliable identifier placing this card's figure in the DBS Future Trunks continuity rather than the DBZ timeline [WebSearch: Dragon Ball Super Future Trunks character design].
+
+### Related cards
+- Future Trunks (Union Force, BT2) — the character depicted; other BT2 Trunks cards from the original printing set
+- Future Zamasu (DBS sets) — the target of the Mafuba in the DBS Future Trunks Saga
+- Mafuba (Union Force, BT2-064 original print) — the first-print version; Mythic Booster is the alternate-art reprint

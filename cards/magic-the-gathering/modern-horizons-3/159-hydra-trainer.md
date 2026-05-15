@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["hydra", "serpent", "tamer", "jungle", "ruins", "bond", "apex-predator", "spear", "warrior", "scale", "green", "ancient"]
+tags_filter: ["solo", "mid-shot", "narrative", "forward-facing", "female-figure", "green-magic", "creature"]
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/159-hydra-trainer.png
 average_cost_paid: 0
 market_price: 0.2
@@ -29,18 +29,28 @@ oracle_text: You may exert this creature as it attacks. When you do, target crea
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: sublime
+time_of_day: day
+setting: forest
 ---
 
 # Hydra Trainer (Modern Horizons 3)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![159-hydra-trainer](../../_images/magic-the-gathering/modern-horizons-3/159-hydra-trainer.png)
 
+A woman with long braided hair stands in the center of the composition, holding a long spear at a relaxed angle. She wears form-fitting scale-patterned armor that matches the textures of the creatures surrounding her. Three large serpentine creature heads are clearly visible — one rearing up on the left, one large head directly behind and above her right shoulder, and a third facing outward on the right. All three have green eyes and dark scale patterns. The creatures' bodies are massive relative to the figure. The setting is lush jungle terrain with ancient stone ruins visible below and in the background. The woman's posture is relaxed and confident, suggesting a bond of familiarity with the creatures rather than confrontation.
 
-**Subject:** 
+**Subject:** A woman holding a spear stands confidently among multiple large serpentine multi-headed creatures in a jungle ruin setting
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, narrative, figures: solo, facing: forward
+**Setting:** forest, ruined, day, clear
+**Foreground:** woman with spear surrounded by serpentine creature heads on stone outcrop  *(palette: dark-brown, olive-green, gold-tan, black)*
+**Background:** jungle canopy, ancient stone ruins, blue sky  *(palette: green, blue, grey-stone, muted-gold)*
+**Mood / lighting:** sublime, soft
+**Emotion read:** calm confidence, dominion — standing at ease among apex predators
+**Objects:** spear, scale armor, stone ruins
+**Creatures:** hydra, serpentine creature
+**Genre cues:** fantasy
 

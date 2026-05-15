@@ -13,6 +13,7 @@ bundles: []
 tags_hub: ["key", "explorer", "survivor", "lantern-light", "discovery", "wonder", "cavern", "spelunker", "goggles", "tendrils", "treasure-hunter", "young-woman"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "female-figure", "narrative-mode", "white-magic", "creature-human", "creature-survivor", "common-rarity", "duskmourn", "card-draw", "token-generator"]
 characters: ["dsk-survival-archetype"]
+symbols: ["survival"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/14-glimmer-seeker.png
 average_cost_paid: 0
 market_price: 0.08

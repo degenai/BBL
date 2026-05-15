@@ -1,0 +1,41 @@
+{
+  "card_name": "Full Power Energy",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-080",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The card is confirmed as featuring Vegeta via multiple retail listings, most conclusively an eBay listing for a 'Full Power Energy Vegeta JUDGE FOIL' promotional variant (same card, same art, name variant explicitly names Vegeta). The vision describes blue-and-white Saiyan armor with a white-gold aura and upswept spiky hair in a power-up stance — all consistent with Vegeta's canonical DBZ visual design. However, a note: BT1-080 is listed as a green Extra card in some sources (consistent with the Broly archetype cluster positioning around BT1-075 to 081). If Vegeta appears in a green card it may be as a support/event card rather than a Vegeta-color card — the core IP identity (Vegeta depicted) stands regardless of card color. Verified: Vegeta (Dragon Ball Z).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT1-080 is an Extra card from Galactic Battle (BT1, July 2017), positioned in the green color cluster near the Broly archetype cards. Its confirmed character is Vegeta — evidenced by the promotional Judge Foil variant explicitly named 'Full Power Energy Vegeta' [eBay: Full Power Energy Vegeta JUDGE FOIL DBS BT1-080].",
+      "sources": ["eBay listing: Full Power Energy Vegeta JUDGE FOIL Dragon Ball Super Card Game DBS BT1-080"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's counter mechanic (negate the attack, then KO an opponent Battle card with energy cost 1 or less) reflects the 'Full Power' framing — a total defensive burst that also punishes low-cost board presence. The Counter Attack keyword was part of the foundational DBS TCG rule structure introduced in BT1 [WebSearch: pricecharting and retailer card text for BT1-080].",
+      "sources": ["WebSearch: pricecharting.com BT1-080 Full Power Energy; Troll and Toad BT1-080 listing"]
+    },
+    {
+      "category": "design",
+      "text": "Vegeta's 'Full Power' state in Dragon Ball Z refers to his attempt to match Cell's Perfect Form by pushing his Super Saiyan transformation beyond its normal limits — a strategy that temporarily worked but proved less efficient than Son Gohan's eventual ascent. The card's art of a power-up stance with white-gold aura and blue-white Saiyan armor is consistent with that arc [Wikipedia: Cell Saga / Dragon Ball Z anime].",
+      "sources": ["WebSearch: Dragon Ball Z Cell Saga Vegeta Full Power Super Saiyan"]
+    },
+    {
+      "category": "design",
+      "text": "A Judge Foil promotional version of this card was produced — Judge Foils in the DBS card game were distributed to official tournament judges as recognition items, making this particular variant a collector's piece beyond its gameplay utility [eBay: Full Power Energy Vegeta JUDGE FOIL DBS BT1-080].",
+      "sources": ["eBay listing: Full Power Energy Vegeta JUDGE FOIL Dragon Ball Super Card Game DBS BT1-080"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rampaging Super Saiyan Broly", "set": "Galactic Battle", "note": "BT1-075 — adjacent green cluster card; Vegeta and Broly are canonical adversaries in Movie 8"},
+    {"name": "Broly's Ring", "set": "Galactic Battle", "note": "BT1-081 — adjacent green Field card in the same BT1 cluster"},
+    {"name": "Vegeta, Prince of Destruction", "set": "Galactic Battle", "note": "BT1 Vegeta Leader — canonical pairing for the Vegeta depicted on BT1-080"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Vegeta (Dragon Ball Z)",
+    "ip_confidence": "high"
+  }
+}

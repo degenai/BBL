@@ -1,0 +1,42 @@
+{
+  "card_name": "Reckless Pyrosurfer",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "133",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Modern Horizons 3 (MH3, released 2024-06-14) is a direct-to-Modern set with no single plane identity; its red-green Limited archetype leans into Landfall, reviving the mechanic associated with the Zendikar block (2009-2011) and Zendikar Rising (2020). [Scryfall API; draftsim.com: Modern Horizons 3 Limited Guide via WebSearch]",
+      "sources": ["Scryfall", "draftsim.com (WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A {1}{R} 2/2 Human Scout with Haste, Reckless Pyrosurfer gains Battle Cry on each landfall trigger — meaning in a single turn with multiple land drops (via fetchlands or ramp), every land entry converts this into a temporary lord giving all other attackers +1/+0. Battle Cry was originally a New Phyrexia keyword (2011); its return here in MH3 signals the set's retro-mechanic reach. EDHREC rank 16,615. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The card has no flavor text (Scryfall flavor_text field is null). Illustrated by L.A. Draws, an artist associated with several MH3 cards. The card's type line is Human Scout — the Scout subtype is lightly supported in MTG outside of Zendikar and Ixalan. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Reckless Pyrosurfer is a notable synergy bridge between two distinct archetypes: Landfall (which requires land drops) and Battle Cry (which requires attacking). It rewards aggressive Landfall shells that fetch or ramp aggressively — a niche but coherent design space. Modern's fetch-land density (Scalding Tarn, Arid Mesa) makes multi-trigger turns realistic. [Scryfall; dotesports.com: Best MH3 Draft and Sealed removal via WebSearch]",
+      "sources": ["Scryfall", "dotesports.com (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Steppe Lynx", "set": "Zendikar", "note": "Canonical aggressive Landfall creature; same speed tier as Pyrosurfer"},
+    {"name": "Goblin Bushwhacker", "set": "Zendikar", "note": "Battle Cry precursor spirit; gives all attacking creatures +1/+0 as a one-shot"},
+    {"name": "Hero of the Nyxborn", "set": "Theros Beyond Death", "note": "Another Battle Cry Human with Haste — direct mechanical parallel"},
+    {"name": "Battle Screech", "set": "Judgment", "note": "Classic Battle Cry-adjacent aggro token card; same design register"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

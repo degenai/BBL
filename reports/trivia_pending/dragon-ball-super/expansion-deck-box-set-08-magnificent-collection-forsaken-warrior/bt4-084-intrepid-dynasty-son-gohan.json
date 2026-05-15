@@ -1,0 +1,42 @@
+{
+  "card_name": "Intrepid Dynasty Son Gohan",
+  "game": "Dragon Ball Super",
+  "set": "Expansion Deck Box Set 08: Magnificent Collection - Forsaken Warrior",
+  "collector_number": "BT4-084",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Intrepid Dynasty Son Gohan' is explicit. Character on card: Son Gohan: Youth. Special traits: Saiyan/Earthling/Goku's Lineage. Era: Saiyan Saga. Dark hair, purple gi, youth build visible in Vision description all match young Son Gohan's canonical visual design from the Saiyan Saga. Confirmed via retailer listings (DBZ Exchange, Troll and Toad, TCGplayer) and the Bandai official card database.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT4-084 originated in Colossal Warfare (BT4, July 13, 2018) — the fourth main booster set and the final entry in the Over Realm block. Colossal Warfare is the largest DBS booster to date at 218 cards (124 unique) and introduced the Swap keyword mechanic. [The Games Corner: DBS-B04 release; Cardmarket: Colossal Warfare set page]",
+      "sources": ["The Games Corner: DBS-B04 release", "Cardmarket: Colossal Warfare"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT4-084 is a yellow BATTLE card: 10000 power, 2 energy cost, character Son Gohan: Youth, traits Saiyan/Earthling/Goku's Lineage, era Saiyan Saga. Its skill is a Swap for a Goku's Lineage card with energy cost 3 — returning this card to hand and playing the target for reduced cost. It also has Barrier (cannot be chosen by opponent's skills). Swap is BT4's new keyword, designed to chain Goku's family members across energy brackets culminating in Height of Mastery Son Goku. [Bandai DBS Strategy: Colossal Warfare Design Concept; WebSearch: retailer card listings]",
+      "sources": ["Bandai DBS Strategy: Colossal Warfare Design Concept", "DBZ Exchange: BT4-084", "Troll and Toad: BT4-084"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The yellow Goku's Lineage archetype in Colossal Warfare traces Goku's family tree — Bardock, young Gohan (Saiyan Saga), Gohan's adult forms, and Goku himself — connected by the Swap chain. Young Gohan (Saiyan Saga era) is the earliest generational link in the chain: the child who Raditz kidnapped to demonstrate Saiyans' latent power, setting the entire saga in motion. [Bandai DBS Strategy: Colossal Warfare Yellow Cards; WebSearch: No Negate 'Lineage of a Legend' card preview June 2018]",
+      "sources": ["Bandai DBS Strategy: Colossal Warfare", "No Negate: Colossal Warfare Yellow Card Preview"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The copy in this corpus is from Expansion Deck Box Set 08: Magnificent Collection - Forsaken Warrior (DBS-BE08, released October 25, 2019 US / October 31, 2019 EU) — a 92-card Broly-themed pre-constructed deck product. BT4-084 is a reprint within the deck's Goku's Lineage support package. The set title 'Forsaken Warrior' refers to DBS Broly (Broly: Br), the canonical version abandoned by his father Paragus and King Vegeta alike. [Collector's Cache: DBS-BE08 listing; Bandai: DBS-BE08 product page]",
+      "sources": ["Collector's Cache: DBS-BE08", "Bandai: DBS-BE08 product page"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Discovered Dynasty Son Gohan", "set": "Colossal Warfare", "note": "BT4-083 — the Rare companion Gohan Swap card; draws 2 on Swap play"},
+    {"name": "Adoptive Father Son Gohan", "set": "Colossal Warfare", "note": "BT4-091 — third yellow Gohan Swap variant with Blocker in the BT4 archetype"},
+    {"name": "Height of Mastery Son Goku", "set": "Colossal Warfare", "note": "BT4-075 — the Goku's Lineage archetype endpoint the Swap chain targets"},
+    {"name": "Broly: Br Leader", "set": "Magnificent Collection Forsaken Warrior", "note": "DBS-BE08 — the Silver Foil Leader card that defines the deck product this card was reprinted in"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

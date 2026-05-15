@@ -13,7 +13,7 @@ bundles: []
 tags_hub: ["defiance", "survivor", "green-energy", "youth", "shout", "electricity", "gadget", "foliage", "lone-fighter", "horror", "night", "rebellion"]
 tags_filter: ["solo", "mid-shot", "action", "forward-facing", "green-magic", "creature-human-survivor"]
 characters: ["dsk-survival-archetype"]
-symbols: ["manifest-dread"]
+symbols: ["manifest-dread", "survival"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/175-defiant-survivor.png
 average_cost_paid: 0
 market_price: 0.05

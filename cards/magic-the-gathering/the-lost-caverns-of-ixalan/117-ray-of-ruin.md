@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["ruins", "defeat", "energy-beam", "weapon", "fallen-warrior", "scouring", "sun-idol", "aftermath", "ixalan", "orb"]
+tags_filter: ["solo", "wide-shot", "narrative", "no-face", "red-magic", "instant"]
 reference_image: cards/_images/magic-the-gathering/the-lost-caverns-of-ixalan/117-ray-of-ruin.png
 average_cost_paid: 0
 market_price: 0.05
@@ -29,6 +29,28 @@ oracle_text: Exile target creature, Vehicle, or nonbasic land. Scry 1. (Look at 
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: grim
+time_of_day: indeterminate
+setting: urban
 ---
 
 # Ray of Ruin (The Lost Caverns of Ixalan)
+
+## Vision
+
+![117-ray-of-ruin](../../_images/magic-the-gathering/the-lost-caverns-of-ixalan/117-ray-of-ruin.png)
+
+Two large circular disc-like orb structures mounted on tall pedestals face each other, firing a concentrated beam of pink-magenta energy between them. The beam crackles with intensity and appears to be destroying or scouring whatever it passes through. In the foreground, a large armored figure lies face-up on the ground, unmoving — defeated or dead. The surrounding terrain is flat and waterlogged or dust-covered. The background shows a hazy, partially ruined cityscape under an atmospheric pink-purple sky. The entire scene is bathed in a pink and magenta light cast by the energy beam. No living active figures are visible beyond the two orb structures and the fallen armored body.
+
+**Subject:** Two large circular orb structures on pedestals firing a beam of pink-magenta energy between them; a prone armored figure lies defeated in the foreground; ruined cityscape in background
+
+**Composition:** wide, narrative, figures: solo, facing: n/a
+**Setting:** urban, ruined, indeterminate
+**Foreground:** prone armored figure lying face-up on ground, defeated  *(palette: bronze, tan, pink, magenta)*
+**Background:** two orb-pedestals firing energy beam; ruined cityscape under pink-purple sky  *(palette: pink, magenta, purple, dark blue, grey)*
+**Mood / lighting:** grim, rim
+**Emotion read:** aftermath of overwhelming force; stillness of defeat; no living figures active
+**Objects:** orb-pedestal, energy-beam
+**Iconography:** orb, energy-beam, ruins
+**Genre cues:** fantasy, mtg, mesoamerican-inspired
+

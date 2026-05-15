@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["loner", "spirit-animal", "fog", "survivor", "hooded", "isolation", "golden-spirits", "duskmourn", "modern-fantasy", "guardian", "cynicism"]
 tags_filter: ["solo", "mid-shot", "three-quarter", "black-magic", "creature", "portrait", "female-figure"]
+symbols: ["survival"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/89-cynical-loner.png
 average_cost_paid: 0
 market_price: 0.27

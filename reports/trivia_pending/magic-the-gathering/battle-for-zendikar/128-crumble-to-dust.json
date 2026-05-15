@@ -1,0 +1,42 @@
+{
+  "card_name": "Crumble to Dust",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "128",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Crumble to Dust is a Red Uncommon Sorcery from Battle for Zendikar (BFZ), released October 2, 2015. Despite being in the Red color identity (3R casting cost), the Devoid keyword makes the card colorless — it has no color. Devoid was a BFZ-specific keyword assigned to cards associated with the Eldrazi and their consuming influence on the plane; the visual design reinforces this: the landscape in the art shows Eldrazi corruption transforming solid Zendikari stone into pale organic spire formations. [Scryfall; Draftsim: BFZ set overview, via WebSearch]",
+      "sources": ["Scryfall", "Draftsim: BFZ set overview, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Crumble to Dust is a functional near-reprint of Sowing Salt (Betrayers of Kamigawa, 2005), which cost 2RR to exile a nonbasic land and find all others with the same name. Crumble to Dust costs 3R (one red rather than two), making it significantly easier to splash in non-red decks. The Devoid keyword adds an additional distinction: colorless spells can be tutored by Ancient Stirrings, allowing Tron decks — the primary target of this effect — to use it as both a weapon against opponents and a maindeck-tutored sideboard option. [Face to Face Games: Crumble to Dust preview, via WebSearch; MTG Salvation forums, via WebSearch]",
+      "sources": ["Face to Face Games: Exclusive BFZ Preview - Crumble to Dust, via WebSearch", "MTG Salvation: Crumble to Dust discussion, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's primary competitive role is as a sideboard answer to Tron (Urza's Tower / Urza's Mine / Urza's Power Plant) in Modern. Exiling a Tron land and then finding all copies in the opponent's graveyard, hand, and library eliminates the entire Tron package in one card — an asymmetric tempo swing. EDHREC rank 28,342 indicates minimal Commander adoption, where land destruction is widely considered low-power; the card's primary use case is in competitive 60-card formats' sideboards. [Scryfall: edhrec_rank, legalities; Tappedout forum discussion, via WebSearch]",
+      "sources": ["Scryfall (edhrec_rank, legalities)", "Tappedout: Crumble to Dust sideboard discussion, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by James Paick. No flavor text. The card has never been reprinted — BFZ (no. 128) is the only print. Legal in Historic, Timeless, Gladiator, Pioneer, Modern, Legacy, Vintage, Brawl, and Commander. The Devoid frame effect (the BFZ colorless card frame treatment) visually distinguishes it from standard Red cards on the table. [Scryfall: artist, flavor_text (absent), legalities, frame_effects fields]",
+      "sources": ["Scryfall (artist, legalities, frame_effects fields)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sowing Salt", "set": "Betrayers of Kamigawa", "note": "The card Crumble to Dust is a functional near-reprint of; costs 2RR instead of 3R"},
+    {"name": "Ugin, the Spirit Dragon", "set": "Fate Reforged", "note": "Another Devoid-adjacent colorless-matters card; Tron context companion"},
+    {"name": "Ancient Stirrings", "set": "Rise of the Eldrazi", "note": "Green cantrip that finds colorless cards — including Crumble to Dust, enabling Tron decks to tutor for their own counter"},
+    {"name": "Urza's Tower", "set": "Chronicles / various", "note": "Primary target of Crumble to Dust in Modern sideboard contexts"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

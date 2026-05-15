@@ -1,0 +1,41 @@
+{
+  "card_name": "Hellish Sideswipe",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "90",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "mechanical",
+      "text": "Hellish Sideswipe costs a single {B} plus an artifact or creature sacrifice to destroy any creature or Vehicle, and cantrips if the sacrificed permanent was a Vehicle. One-mana unconditional destroy effects are extremely rare in black. The Vehicle-sacrifice clause incentivizes running Vehicles as sacrifice fodder for value parity.",
+      "sources": ["Scryfall: oracle text"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Might makes right-of-way.\" A three-word aphorism reworking the legal term 'right-of-way' into a might-makes-right philosophy. Describes both Grand Prix racing rules (who has right-of-way on the track) and the card effect (brute-force removal over finesse).",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Hellish Sideswipe has no Scryfall-recorded preview source, suggesting it appeared in the general release-week spoiler wave rather than an individual media preview. EDHREC rank 17,706. Legal in TLR format.",
+      "sources": ["Scryfall: edhrec_rank, legalities, preview field absent"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The 'hellish' in the name maps to the Speed Demons racing team — possessed racers and their tormentors sent from the plane of Duskmourn by Valgavoth to claim the Aetherspark. The Speed Demons specialize in destructive, demonic racing tactics.",
+      "sources": ["magic.wizards.com: Aetherdrift Racing Teams, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bone Shards", "set": "MH2", "note": "one-mana black destroy with discard additional cost; closest functional parallel"},
+    {"name": "Start Your Engines! // Max Speed", "set": "DFT", "note": "the set's central Speed mechanic card; Hellish Sideswipe triggers Speed via opponent life loss"},
+    {"name": "Unholy Heat", "set": "MH2", "note": "one-mana uncommon removal with a setup condition; thematic peer in efficient design"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

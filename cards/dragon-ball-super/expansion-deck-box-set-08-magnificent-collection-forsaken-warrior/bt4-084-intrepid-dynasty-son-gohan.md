@@ -29,7 +29,7 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Son Gohan (Dragon Ball Super)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 characters: ["son-gohan"]
 ---
 
@@ -39,8 +39,8 @@ characters: ["son-gohan"]
 
 ![bt4-084-intrepid-dynasty-son-gohan](../../_images/dragon-ball-super/expansion-deck-box-set-08-magnificent-collection-forsaken-warrior/bt4-084-intrepid-dynasty-son-gohan.png)
 
-> [!warning] Suspected IP: **Son Gohan (Dragon Ball Super)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Son Gohan: Youth (Dragon Ball Z / Dragon Ball Super)**
+> Confirmed via card name ("Intrepid Dynasty Son Gohan"), official character on card: Son Gohan: Youth, traits Saiyan/Earthling/Goku's Lineage, era Saiyan Saga. Dark hair, purple gi, and youth build consistent with young Gohan's canonical visual design [DBZ Exchange: BT4-084; Troll and Toad: BT4-084; Bandai official card database].
 
 A young humanoid male figure crouches in an aggressive combat stance, body coiled with tension, fists up. The figure has dark hair and wears a purple gi-style outfit. The face shows clenched teeth and a fierce expression. Behind the figure, green and yellow energy crackles in an intense burst radiating outward. The overall palette is warm with green-gold energy dominating the background. The composition is a mid-shot tight to the upper body, emphasizing the intense facial expression and physical tension.
 
@@ -54,4 +54,17 @@ A young humanoid male figure crouches in an aggressive combat stance, body coile
 **Emotion read:** fierce determination, rage, coiled intensity
 **Iconography:** energy-aura
 **Genre cues:** anime, fantasy
+
+## Trivia
+
+- **Origin set** — BT4-084 originated in Colossal Warfare (BT4, July 13, 2018) — the fourth main booster set and the final entry in the DBS TCG's Over Realm block. At 218 cards total (124 unique), Colossal Warfare was the largest DBS booster released to that point. It introduced the Swap keyword mechanic and was the first set to include an oversized Leader card in booster boxes [The Games Corner: DBS-B04; Cardmarket: Colossal Warfare].
+- **Mechanical profile** — Yellow BATTLE card: 10000 power, 2 energy cost, character Son Gohan: Youth, traits Saiyan/Earthling/Goku's Lineage, era Saiyan Saga. Skill: Swap for a Goku's Lineage card with energy cost 3 (return this card to hand, play the target for reduced cost); also has Barrier (cannot be chosen by opponent's skills). The Barrier + Swap combination on a 2-cost common is considered strong tempo for the archetype [Bandai DBS Strategy: Colossal Warfare Design Concept; DBZ Exchange: BT4-084].
+- **Archetype position** — BT4-084 sits at the low end of Colossal Warfare's yellow Goku's Lineage chain — a mechanic that traces Goku's family tree from Bardock through young Gohan, adult Gohan, and Goku himself, culminating in Height of Mastery Son Goku (BT4-075). Young Gohan in the Saiyan Saga era is the chain's earliest generational anchor: the child whose latent power Raditz discovered, triggering the arc that introduced Saiyans to the Dragon Ball narrative [Bandai DBS Strategy: Colossal Warfare Yellow Cards; No Negate: "Lineage of a Legend" card preview, June 2018].
+- **Reprint context** — The copy in this corpus is from Expansion Deck Box Set 08: Magnificent Collection - Forsaken Warrior (DBS-BE08, October 25, 2019 US release) — a 92-card Broly-themed pre-constructed deck product. BT4-084 is part of the deck's Goku's Lineage support package reprinted into the Broly structure. The product title "Forsaken Warrior" refers to DBS Broly (Broly: Br) — the canonical version abandoned by both Paragus and King Vegeta [Collector's Cache: DBS-BE08; Bandai: DBS-BE08 product page].
+
+### Related cards
+- Discovered Dynasty Son Gohan (Colossal Warfare, BT4-083) — the Rare companion Gohan Swap card; draws 2 on Swap play
+- Adoptive Father Son Gohan (Colossal Warfare, BT4-091) — third yellow Gohan Swap variant with Blocker in the BT4 archetype
+- Height of Mastery Son Goku (Colossal Warfare, BT4-075) — the Goku's Lineage archetype endpoint the Swap chain targets
+- Broly: Br Leader (Magnificent Collection Forsaken Warrior, DBS-BE08) — the Silver Foil Leader card defining the deck product this card was reprinted in
 

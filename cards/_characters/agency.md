@@ -23,7 +23,7 @@ appears_on:
   - magic-the-gathering/murders-at-karlov-manor/230-sanguine-savior
   - magic-the-gathering/murders-at-karlov-manor/239-undercover-crocodelf-b
 related_hubs: []
-related_symbols: [orzhov-signet]
+related_symbols: [orzhov-signet, disguise, suspect]
 related_characters: [azorius-senate, izzet-league, orzhov-syndicate]
 ip_resolution_for: agency
 ---

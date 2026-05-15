@@ -53,3 +53,15 @@ The image is dominated by a massive swirling serpentine or dragon-like form comp
 **Creatures:** serpent, energy-creature, dragon
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Hellish Sideswipe is a black uncommon sorcery from Aetherdrift (DFT), released 2025-02-14. It costs a single {B} with an additional cost of sacrificing an artifact or creature, then destroys target creature or Vehicle; if the sacrificed permanent was a Vehicle, you draw a card `[Scryfall]`. One-mana unconditional destroy effects with relevant additional costs are extremely rare — this is black removal at its most efficient when you have a spare artifact to sacrifice.
+- **Flavor text** — `"Might makes right-of-way."` `[Scryfall]` — a three-word aphorism reworking the legal term "right-of-way" into a might-makes-right philosophy. The wordplay is tight: it describes both the racing rules of the Grand Prix (who has right-of-way on the track) and the card effect (the sacrifice-and-destroy mechanic is brute force over finesse).
+- **Mechanical note** — The Vehicle-sacrifice clause that cantrips (draw a card) is a deliberate incentive to sacrifice a used or damaged Vehicle you control rather than a creature, creating value parity: sacrifice a 0-power crewless Vehicle, destroy their threat, draw a card. This design encourages running Vehicles in your deck even as a sacrifice fodder resource. EDHREC rank 17,706 `[Scryfall: edhrec_rank]`. Legal in TLR format `[Scryfall: legalities]`.
+- **Design note** — Hellish Sideswipe has no Scryfall-recorded preview source (the preview field is absent), suggesting it may have been in the general release-week spoiler wave rather than an individual media preview `[Scryfall: preview field absent]`. Artist Diana Franco's work on the card emphasizes the energy-serpent collision motif — the "hellish" in the name maps to the Speed Demons team (possessed racers sent from Duskmourn by Valgavoth), which specializes in destructive, demonic racing tactics `[magic.wizards.com: Aetherdrift Racing Teams, via WebSearch]`.
+
+### Related cards
+- Bone Shards (MH2) — one-mana black destroy with discard additional cost; the closest functional parallel
+- Start Your Engines! // Max Speed (DFT) — the set's central Speed mechanic card; Hellish Sideswipe triggers Speed via opponent life loss
+- Unholy Heat (MH2) — another one-mana uncommon removal with a setup condition; thematic peer in efficient black/red design
+

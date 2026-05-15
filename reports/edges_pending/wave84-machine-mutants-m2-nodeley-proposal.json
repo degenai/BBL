@@ -1,0 +1,53 @@
+{
+  "edge_id": "wave84-machine-mutants-m2-nodeley-proposal",
+  "shape": "node-proposal",
+  "category": "designer-confirmed-cycle",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/machine-mutants-m2.md", "name": "Machine Mutants of Planet M-2 (Dr. Myuu's M-2 garrison + Sigma Force + Giru defector)"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-013-handy-giru.md", "name": "Handy Giru (BT3-013)"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-016-power-absorbing-luud.md", "name": "Power-absorbing Luud (BT3-016) [DUAL-ANCHORED with baby-dbgt]"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-017-dr-myuu-under-baby-s-control.md", "name": "Dr.Myuu, Under Baby's Control (BT3-017) [DUAL-ANCHORED with baby-dbgt]"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-020-hidden-ability-general-rilldo.md", "name": "Hidden Ability, General Rilldo (BT3-020)"},
+    {"type": "card", "path": "cards/dragon-ball-super/cross-worlds/bt3-024-mega-cannon-sigma-bizu.md", "name": "Mega Cannon Sigma, Bizu (BT3-024)"}
+  ],
+  "description": "Excuse me sir, terribly sorry to bother you. Edgelord stepped aside on this one — there were three unwired Machine Mutant cards (Giru, Rilldo, Sigma Bizu) all from Cross Worlds BT3, and the parent's instruction kindly invited me to propose one cohort if a clear case emerged. I do hope this isn't an inconvenience. The Bandai BT3 Cross Worlds designer-note explicitly names 'Machine Mutant' as one of the four major BT3 deck archetypes (a red GT deck of Saiyan and Machine Mutant), and the Machine Mutant Special Trait operates as designer-coordinated mechanical-cohesion at the card-game-design level. With Myuu and Luud already in baby-dbgt as apparatus-axis anchors, dual-anchoring them here on the race-and-origin axis (mirroring the Acerola dual-pointer precedent) gives the cohort five anchors at 11 total inventory, all within a single set. The Giru defector case made absorbing into baby-dbgt structurally awkward — Giru is a GT hero per the Grand Tour Spaceship card text — which is why I felt a separate cohort node was the right move. I hope I haven't overstepped, sir. Please consider it.",
+  "citations": [
+    "[dbs-cardgame.com: Cross Worlds Designer's Note — 'a red GT deck (Saiyan and Machine Mutant)' as one of four BT3 deck archetypes]",
+    "[Dragon Ball Wiki: Machine Mutant — race page, Dr. Myuu engineering origin, absorption-and-merger species-mechanic]",
+    "[Dragon Ball Wiki: Sigma Force — four-member roster, Super Mega Cannon Sigma at 10,000,000 combined power per DBZ Scouter Battle Taikan Kamehameha]",
+    "[Dragon Ball Wiki: General Rilldo — multi-stage transformation, Hyper Meta-Rilldo apex, power level exceeds Majin Buu per Goku in-canon assessment]",
+    "[Dragon Ball Wiki: Giru — Pan-best-friend bond, Dragon Radar-absorption-inciting-incident, defection-to-heroes register]",
+    "[BT3-024 trivia bullet, BT3-013 trivia bullet, BT3-020 trivia bullet — already-published corpus citations]",
+    "[baby-dbgt node apparatus-axis citations for BT3-016 Luud + BT3-017 Myuu — dual-anchor precedent justification]"
+  ],
+  "files_modified": [
+    "cards/_characters/machine-mutants-m2.md (NEW node)",
+    "cards/dragon-ball-super/cross-worlds/bt3-013-handy-giru.md (frontmatter: added characters: [machine-mutants-m2])",
+    "cards/dragon-ball-super/cross-worlds/bt3-016-power-absorbing-luud.md (frontmatter: extended characters from [baby-dbgt] to [baby-dbgt, machine-mutants-m2])",
+    "cards/dragon-ball-super/cross-worlds/bt3-017-dr-myuu-under-baby-s-control.md (frontmatter: extended characters from [baby-dbgt] to [baby-dbgt, machine-mutants-m2])",
+    "cards/dragon-ball-super/cross-worlds/bt3-020-hidden-ability-general-rilldo.md (frontmatter: added characters: [machine-mutants-m2])",
+    "cards/dragon-ball-super/cross-worlds/bt3-024-mega-cannon-sigma-bizu.md (frontmatter: added characters: [machine-mutants-m2])",
+    "cards/_characters/baby-dbgt.md (frontmatter: extended related_characters from [trunks] to [trunks, machine-mutants-m2] — cross-edge wiring on sibling-continuity-strand axis)"
+  ],
+  "edgelord_mood": "nodeley-apologetic-but-correct",
+  "rigor_audit_prong_a": {
+    "son-goten": "clean — YAML safe (multi-line strings properly quoted), appears_on (7 anchors) matches '## Appears on' wikilinks, all stems resolve to existing card MDs, anchor count well above threshold (4 solo + 3 Gotenks dual-anchor with trunks)",
+    "uub": "clean — YAML safe, appears_on (3 anchors) matches body wikilinks, all stems resolve, anchor count at threshold; TB2-069 vision-only qualification properly documented in caveats",
+    "wmat-tournament-announcer": "clean — YAML safe, appears_on (3 anchors) matches body wikilinks, all stems resolve, anchor count at threshold; canonical absence-of-name documented as character-feature not Bandai-oversight",
+    "majin-buu": "clean — YAML safe (multi-form scope decision in caveats), appears_on (3 anchors) matches body wikilinks, all stems resolve, anchor count at threshold; Kid Buu / Majuub split deferrals documented",
+    "broly": "clean — YAML safe (Movie-8 vs 2018-DBS scope clearly delineated), appears_on (4 anchors) matches body wikilinks, all stems resolve, anchor count above threshold; BT1-073 vision-only qualification documented; future broly-dbs.md split path documented"
+  },
+  "other_candidates_considered": [
+    "bt4-030-at-all-costs-vegeta.md → vegeta — clean 1:N branch-attach (SSB Vegeta, unambiguous, no dual-character vision-uncertainty); deferred to next pass per one-edge-per-invocation rule. Strong candidate.",
+    "bt4-097-instant-transmission.md → son-goku — clean 1:N branch-attach (Goku's signature technique, Goku's Lineage Permanent rules-text confirms attribution); deferred to next pass.",
+    "bt3-028-grand-tour-spaceship.md → pan (or trunks, or son-goku) — quadruple-pointer candidate (Goku-GT, Trunks-GT, Pan, Giru per card-text tutor list). Cleanest narrative anchor is pan (Pan is the canonical GT lead-protagonist and Giru's best friend; the spaceship is canonically the GT traveling-quartet vehicle); could also wire as triple-pointer characters: [son-goku, trunks, pan] with Giru now wired here via machine-mutants-m2. Deferred to next pass.",
+    "bt4-098-demigra-ghastly-malice-demigra.md — already wired to xenoverse-villains (characters: [xenoverse-villains], appears_on present). No work needed; not a candidate.",
+    "bt3-015-bodyguard-ledgic.md → REFUSED for Machine Mutant cohort attach — Ledgic is canonically Don Kee's Imecka bodyguard, NOT a Machine Mutant by race or origin. Documented as excluded in the new node's caveats. A future Black-Star-Dragon-Ball-Saga-prologue cohort node could anchor Ledgic + Don Kee + Imecka arc separately; currently below threshold (single-card representation)."
+  ],
+  "refusal_log": [
+    "Refused to absorb Giru/Rilldo/Sigma Bizu into baby-dbgt: Giru is canonically a GT hero (Pan's best friend, fourth-member of Grand Tour Spaceship traveling-quartet per BT3-028 card text); adding him to a node literally named 'Baby (Dragon Ball GT)' would be structurally incoherent. Rilldo and Sigma Bizu fight Goku BEFORE Baby's main-stage entrance; they are M-2-arc prelude antagonists, not Baby Saga apparatus pieces. The separate machine-mutants-m2 cohort node correctly scopes to race-and-origin while letting baby-dbgt keep Myuu and Luud as apparatus-axis dual-anchors.",
+    "Refused to include Ledgic in the cohort: Black Star Dragon Ball Saga is broader than Machine Mutant race-and-origin. Ledgic is Imecka arc, not M-2 arc.",
+    "Refused new structural-primitive vocabulary per parent discipline: 'recursive-absorption-and-merger' is the cohort's functional-ideology thesis but it is articulated in the same plain narrative register as the inverted-Spirit-Bomb thesis at baby-dbgt — descriptive not coined-jargon-tier."
+  ]
+}

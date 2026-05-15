@@ -12,6 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: ["rescue", "protector", "survivor", "blue-skin", "courage", "horror", "fallen-ally", "duskmourn", "defender", "struggle", "violence", "small-blade"]
 tags_filter: ["duo", "mid-shot", "three-quarter", "white-magic", "action", "creature", "female-figure"]
+symbols: ["survival"]
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/27-savior-of-the-small.png
 average_cost_paid: 0
 market_price: 0.1

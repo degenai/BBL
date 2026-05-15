@@ -1,0 +1,41 @@
+{
+  "card_name": "Appule",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-102",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is the character name. Vision describes a purple-lavender skinned alien soldier with elongated head ridges firing an energy beam in Frieza Force battle suit — matching Appule's canonical appearance (spotted bluish-purple skin, elongated cranium, Frieza Force battle suit). The Dragon Ball Official Site runs a Weekly Character Showcase entry specifically on Appule (no. 224). Verified: Appule (Dragon Ball Z, Frieza Force).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Appule is a mid-level Frieza Force soldier in the Namek Saga of Dragon Ball Z — above unnamed grunts but below Zarbon, Dodoria, and Cui in the hierarchy. He was dispatched to Namek to search for Dragon Balls and discovered a village destroyed by Vegeta, reporting back to Frieza. His death came when Vegeta broke out of a rejuvenation tank and killed him [Dragon Ball Official Site: Weekly Character Showcase no. 224: Appule].",
+      "sources": ["Dragon Ball Official Site: Weekly Character Showcase no. 224: Appule (en.dragon-ball-official.com)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Despite his minor role, Appule received an official Dragon Ball character spotlight from Bandai / Toei — Weekly Character Showcase no. 224 on the official Dragon Ball website (en.dragon-ball-official.com, published August 26, 2025). His inclusion in BT1 and his own Official Site showcase both reflect the card game's and Toei's interest in featuring the full depth of the Frieza Force roster beyond just the named lieutenants [Dragon Ball Official Site: Weekly Character Showcase no. 224].",
+      "sources": ["Dragon Ball Official Site: Weekly Character Showcase no. 224: Appule"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a BT1-102 Common, Appule sits at the low end of the Galactic Battle set's collector number range — the Frieza Force tier in the set design. The card game structured the Frieza archetype to include both elite (Ginyu Force, Zarbon, Dodoria) and rank-and-file soldiers (Appule and similar grunts) as a tiered support system for Frieza Leader decks [PSA Set Registry: Galactic Battle 2017].",
+      "sources": ["PSA Set Registry: Galactic Battle 2017"]
+    },
+    {
+      "category": "design",
+      "text": "Appule's distinctive purple skin with yellow spots, elongated head, and lack of a nose are features specific to his unnamed alien species — one of dozens of alien species composing Frieza's empire across the Namek Saga. His visual design became recognizable enough that he has appeared in Dragon Ball video games including Dragon Ball Legends [WebSearch: Appule Dragon Ball Legends DBL-EVT-25E].",
+      "sources": ["WebSearch: Appule Dragon Ball Legends character entry legends.dbz.space"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ginyu Force Recoome", "set": "Galactic Battle", "note": "BT1-096 — elite Frieza Force vs. rank-and-file contrast; same Frieza Force corpus batch"},
+    {"name": "Frieza (Leader, BT1)", "set": "Galactic Battle", "note": "The Frieza Leader card that Appule would support in the Frieza archetype deck"},
+    {"name": "Zarbon (BT1)", "set": "Galactic Battle", "note": "Fellow Frieza lieutenant above Appule in the hierarchy"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Appule",
+    "ip_confidence": "high"
+  }
+}

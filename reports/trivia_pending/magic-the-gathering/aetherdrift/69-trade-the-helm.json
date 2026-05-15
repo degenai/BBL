@@ -1,0 +1,41 @@
+{
+  "card_name": "Trade the Helm",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "69",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Trade the Helm was previewed by Checkpoint Gaming on 2025-01-27. It is a permanent-swap effect in the lineage of Legerdemain and Switcheroo, but can uniquely swap artifacts (including Vehicles) rather than creatures only.",
+      "sources": ["Scryfall: preview source"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"This looks like a winning vehicle. But you lot ain't a winning team.\" Speaker unattributed. The line fits the art scenario: a shark-headed humanoid (likely the Keelhaulers team) commandeering a goblin-crewed vehicle mid-race.",
+      "sources": ["Scryfall", "magic.wizards.com: Aetherdrift Racing Teams, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Cycling {2} ensures Trade the Helm is never a dead card. Compared to Gilded Drake ({1}{U}, creates a body, creature-only swap), Trade the Helm costs {4}{U} as a sorcery but has no failure clause and can target artifacts. EDHREC rank 16,129.",
+      "sources": ["Scryfall: oracle text, edhrec_rank"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Team cohort flag: The art appears to depict the Keelhaulers (aquatic humanoids, Kari Zev affiliation) boarding a vehicle crewed by goblins. This card is a candidate for Keelhaulers-Rocketeers friction-point team attachment in the graph.",
+      "sources": ["magic.wizards.com: All 10 Aetherdrift Racing Teams, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Switcheroo", "set": "M13", "note": "blue uncommon creature-control-swap sorcery; direct mechanical ancestor"},
+    {"name": "Gilded Drake", "set": "USG", "note": "the {1}{U} benchmark for control-swap; Trade the Helm is the fair version"},
+    {"name": "Kari Zev, Skyship Raider", "set": "KLD", "note": "Keelhaulers co-captain, appears in Aetherdrift lore"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

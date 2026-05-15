@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["villain", "noir", "fire", "armored-figure", "gunslinger", "alley", "crime", "shadow", "menace", "spiked-armor", "urban-decay"]
+tags_filter: ["duo", "mid-shot", "action", "three-quarter", "creature"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/139-person-of-interest.png
 average_cost_paid: 0
 market_price: 0.04
@@ -29,6 +29,27 @@ oracle_text: When this creature enters, suspect it. Create a 2/2 white and blue 
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: grim
+time_of_day: indeterminate
+setting: urban
 ---
 
 # Person of Interest (Murders at Karlov Manor)
+
+## Vision
+
+![139-person-of-interest](../../_images/magic-the-gathering/murders-at-karlov-manor/139-person-of-interest.png)
+
+A male-presenting humanoid figure dominates the foreground in three-quarter view, clad in dark spiked armor with a flowing rust-red cape. The armor features prominent shoulder spikes and a textured surface. The figure holds what appears to be a small pistol or handgun at their side. Their expression is alert, eyes scanning to the side. A warm amber glow from fires behind them illuminates the scene. In the background, another figure is silhouetted against a bright blaze in what appears to be an interior corridor or alleyway. Torn banners and scattered debris are visible. The setting has an urban fantasy noir quality — festivity turned violent, confetti or paper visible on the ground.
+
+**Subject:** An armored humanoid figure in spiked dark armor striding through a fire-lit alley, holding a small firearm, while a second figure is silhouetted in flames behind them
+
+**Composition:** mid-shot, action, figures: duo, facing: three-quarter
+**Setting:** urban, indeterminate, fire
+**Foreground:** spiked-armor figure holding firearm in fire-lit corridor  *(palette: black, dark-grey, rust-red, amber)*
+**Background:** burning corridor, silhouetted figure, fire and debris  *(palette: orange, amber, deep-brown, black)*
+**Mood / lighting:** grim, chiaroscuro
+**Emotion read:** cold alertness, scanning gaze — predatory calm
+**Objects:** spiked armor, firearm, cape, torn banners, debris
+**Genre cues:** fantasy, noir, crime
+

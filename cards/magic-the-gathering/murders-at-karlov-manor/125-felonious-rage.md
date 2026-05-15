@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["cat", "fury", "fire", "rage", "small-creature", "eruption", "feral", "instinct", "gold", "hands"]
+tags_filter: ["solo", "close-up", "action", "forward-facing", "instant"]
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/125-felonious-rage.png
 average_cost_paid: 0
 market_price: 0.27
@@ -29,6 +29,27 @@ oracle_text: Target creature you control gets +2/+0 and gains haste until end of
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: void
 ---
 
 # Felonious Rage (Murders at Karlov Manor)
+
+## Vision
+
+![125-felonious-rage](../../_images/magic-the-gathering/murders-at-karlov-manor/125-felonious-rage.png)
+
+A small feline creature with pointed ears, visible whiskers, and an open snarling mouth launches upward through an intense golden-orange glow or burst of energy. The creature's body is lit from below and behind by warm fire-toned light, giving it a blazing halo effect. In the extreme foreground, two large human hands — one on each side — frame the scene, as though the cat burst free from a grip or enclosure. The palette is dominated by amber, gold, and orange tones. The overall impression is of violent, explosive energy concentrated in a small body. No weapons or armor are visible on the creature itself.
+
+**Subject:** A small cat-like creature erupting through a glowing burst, mouth open in a roar or snarl, framed by two large foreground hands
+
+**Composition:** close-up, action, figures: solo, facing: forward
+**Setting:** void, indeterminate, fire
+**Foreground:** two large hands flanking a leaping cat-creature mid-burst  *(palette: amber, gold, orange, warm-tan)*
+**Background:** blazing golden-orange energy burst, indistinct  *(palette: orange, amber, white-gold)*
+**Mood / lighting:** action, backlit
+**Emotion read:** explosive fury — snarling open mouth, burst energy
+**Creatures:** cat-creature
+**Genre cues:** fantasy
+

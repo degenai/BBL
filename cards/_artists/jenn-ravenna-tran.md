@@ -35,7 +35,6 @@ Use `python -c "..."` with the resolver to surface cards stamped under any alias
 - [[114-blow-your-house-down]]
 - [[222-heraldic-banner]]
 - [[313-thornwood-falls]]
-
 ## See also
 
 - [[Bulk Graph Bundler]] — the project this artist entry serves

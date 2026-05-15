@@ -1,0 +1,42 @@
+{
+  "card_name": "Rampaging Super Saiyan Broly",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-075",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly includes 'Broly' and 'Super Saiyan'; the figure's green aura, massive build, wild upward-erupting hair, and uncontrolled ferocity are the canonical visual signature of the Movie 8 Broly / Legendary Super Saiyan form. The DBS card game officially labeled this card as part of the Broly green archetype in BT1. Confirmed Broly (Dragon Ball Z, Movie 8 / non-canon Legendary Super Saiyan).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Galactic Battle (BT1) launched July 28, 2017 as the inaugural set of the Dragon Ball Super Card Game — 114 cards, 12 per booster pack. The set designers explicitly built the Broly archetype as one of the two main launch decks, leaning into the Legendary Super Saiyan's hand-disruption mechanics as a core green-color identity [PSA Set Registry / WebSearch: PSA article on Galactic Battle].",
+      "sources": ["PSA Set Registry article on Galactic Battle 2017"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Broly on this card is the non-canonical Movie 8 version — created by screenwriter Takao Koyama and first appearing in Dragon Ball Z: Broly - The Legendary Super Saiyan (1993). This Broly was written outside Akira Toriyama's main continuity for over 25 years before Toriyama produced a canonical reimagining in Dragon Ball Super: Broly (2018). The two Brolys differ substantially in motivation and personality: the 1993 version's Goku fixation stems from adjacent nursery-pod placement; the 2018 version is a more sympathetic, less rage-driven figure [Wikipedia: Dragon Ball Z: Broly – The Legendary Super Saiyan; Wikipedia: Dragon Ball Super: Broly].",
+      "sources": ["Wikipedia: Dragon Ball Z: Broly – The Legendary Super Saiyan", "Wikipedia: Dragon Ball Super: Broly"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT1-075 is a green Common Battle card used as a finishing piece in Broly archetype decks. Per the official Bandai strategy breakdown for Galactic Battle, the Broly green deck's core loop is hand disruption: the Leader Broly forces both players to send a card to the Drop Area on each attack. BT1-075 slots in as the damage closer for that gameplan [Bandai DBS Card Game Strategy: Deck Breakdowns Series 1 - Broly].",
+      "sources": ["Bandai DBS Card Game Strategy: Deck Breakdowns Series1 - Broly"]
+    },
+    {
+      "category": "design",
+      "text": "The green aura and massively upscaled muscular frame are the Legendary Super Saiyan's defining visual contrast to standard Super Saiyan gold — a design choice by Toei that went on to become one of DBZ's most-merchandised transformations despite (or because of) its non-canon status [Wikipedia: Broly].",
+      "sources": ["Wikipedia: Broly"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Broly's Ring", "set": "Galactic Battle", "note": "BT1-081 — the Field card that enables the Broly archetype by negating the Leader's self-discard punishment"},
+    {"name": "Full Power Energy", "set": "Galactic Battle", "note": "BT1-080 — adjacent green support card in the same Broly cluster"},
+    {"name": "Broly // Broly, The Legendary Super Saiyan", "set": "Galactic Battle", "note": "BT1-057/073 — the Leader and SR versions that anchor the archetype"},
+    {"name": "SS Broly, Full Power Frenzy", "set": "Fighter's Ambition", "note": "BT19-088 — later canonical DBS Broly print for comparison of the two Broly lineages"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Broly (Dragon Ball Z, Legendary Super Saiyan, Movie 8)",
+    "ip_confidence": "high"
+  }
+}

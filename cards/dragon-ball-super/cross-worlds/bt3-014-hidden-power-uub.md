@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 5
 held_for_lair: 0
 bundles: []
+characters: ["uub"]
 tags_hub: ["youth", "fighter", "underdog", "power", "determination", "training", "martial-arts", "stone", "ruins", "anime-style", "hidden-strength", "fists"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "action", "male-figure", "anime", "portrait-mode", "dbs-red"]
 reference_image: cards/_images/dragon-ball-super/cross-worlds/bt3-014-hidden-power-uub.png

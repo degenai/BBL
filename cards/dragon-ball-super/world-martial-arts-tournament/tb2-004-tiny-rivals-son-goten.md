@@ -10,6 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
+characters: ["son-goten"]
 tags_hub: ["goten", "child-warrior", "youth", "martial-arts", "ki-energy", "tiny-rivals", "innocence", "combat", "prodigy", "dark-hair"]
 tags_filter: ["solo", "mid-shot", "forward-facing", "male-figure", "action-mode", "anime-style", "child-figure", "base-form"]
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-004-tiny-rivals-son-goten.png

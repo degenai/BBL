@@ -1,0 +1,141 @@
+{
+  "wave": 83,
+  "shape": "node-proposal-batch",
+  "category": "named-character-identity x 5",
+  "edge_id": "wave83-five-node-nodeley-batch",
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "topology": "branch x 5",
+  "description": "Mr. Nodeley shipping the wave-83 five-node character-layer batch: son-goten, uub, wmat-tournament-announcer, majin-buu, broly. Three of the five MDs (son-goten, uub, wmat-tournament-announcer) had been authored in the prior rate-limited partial run and survived intact, so this retry pass authored the missing two MDs (majin-buu, broly) and wired ALL 20 card frontmatter pointers across the five nodes. Net substrate delta: +5 character nodes (94 -> 99). Mr. Nodeley apologizes for the original rate-limit interruption and is quietly proud the partial work survived and the retry batch could complete cleanly without re-authoring three full MD bodies. No edge-shape violations; all five nodes follow the canonical Edgelord-character-precedent (parent solo node with multi-aspect / multi-form / multi-register roster).",
+  "nodes_proposed": [
+    {
+      "slug": "son-goten",
+      "path": "cards/_characters/son-goten.md",
+      "scope": "Son Goten + Gotenks Fusion-Dance dual-anchor (Goten-half of fusion)",
+      "anchors": 7,
+      "anchors_solo_goten": 4,
+      "anchors_gotenks_dual_with_trunks": 3,
+      "precedent": "son-gohan.md (multi-aspect parent-anchor with Gotenks dual-anchor pattern shared at trunks.md)",
+      "prior_pass_status": "AUTHORED IN PRIOR RATE-LIMITED RUN — body intact, wave-83 retry only had to wire cards"
+    },
+    {
+      "slug": "uub",
+      "path": "cards/_characters/uub.md",
+      "scope": "Uub canonical (Kid-Buu reincarnation via King Yemma judgment; Goku's-successor-arc)",
+      "anchors": 3,
+      "precedent": "pan.md (Goku's-successor-arc multi-register parent-anchor)",
+      "prior_pass_status": "AUTHORED IN PRIOR RATE-LIMITED RUN — body intact, wave-83 retry only had to wire cards"
+    },
+    {
+      "slug": "wmat-tournament-announcer",
+      "path": "cards/_characters/wmat-tournament-announcer.md",
+      "scope": "World Martial Arts Tournament Announcer (canonical unnamed recurring service-labor character across forty years of franchise output)",
+      "anchors": 3,
+      "precedent": "trunks.md (single-character-multi-aspect; TB2-set within-set Babidi mini-cycle parallels)",
+      "prior_pass_status": "AUTHORED IN PRIOR RATE-LIMITED RUN — body intact, wave-83 retry only had to wire cards"
+    },
+    {
+      "slug": "majin-buu",
+      "path": "cards/_characters/majin-buu.md",
+      "scope": "Good Buu / Mr. Buu identity primary scope; Innocent / Super / Kid Buu forms documented as character-history-context; Kid Buu solo-split deferred",
+      "anchors": 3,
+      "precedent": "babidi.md (productive-asset-of-the-apparatus + multi-form character-anchor)",
+      "prior_pass_status": "FRESHLY AUTHORED THIS RETRY PASS"
+    },
+    {
+      "slug": "broly",
+      "path": "cards/_characters/broly.md",
+      "scope": "Movie 8 / 1993 / Koyama non-canon Broly ONLY; 2018 canonical-DBS Broly solo-split deferred (broly-dbs.md candidate)",
+      "anchors": 4,
+      "precedent": "bardock.md (imperial-purge-of-the-prophecied-threat-survivor structural-parallel)",
+      "prior_pass_status": "FRESHLY AUTHORED THIS RETRY PASS"
+    }
+  ],
+  "card_wires_applied": [
+    {"card": "TB2-004 Tiny Rivals Son Goten", "old": "(unwired)", "new": ["son-goten"]},
+    {"card": "TB2-022 Scuffle Time Son Goten", "old": "(unwired)", "new": ["son-goten"]},
+    {"card": "BT4-085 Prodigal Dynasty Son Goten", "old": "(unwired)", "new": ["son-goten"]},
+    {"card": "TB2-008 Mighty Mask Powers Combined", "old": "(unwired)", "new": ["son-goten", "trunks"]},
+    {"card": "BT4-034 Raging Energy Blast Gotenks", "old": "(unwired)", "new": ["son-goten", "trunks"]},
+    {"card": "BT1-071 Energy Power Gotenks", "old": "(unwired)", "new": ["son-goten", "trunks"]},
+    {"card": "BT2-015 Prodigy Fusion Super Saiyan Gotenks", "old": "(unwired)", "new": ["son-goten", "trunks"]},
+    {"card": "TB2-033 Shocking Latent Ability", "old": ["son-goku"], "new": ["son-goku", "uub"]},
+    {"card": "TB2-069 Son Goku & Uub Seeds of the Future", "old": ["son-goku"], "new": ["son-goku", "uub"]},
+    {"card": "BT3-014 Hidden Power Uub", "old": "(unwired)", "new": ["uub"]},
+    {"card": "TB2-065 Announcer Referee Veteran", "old": "(unwired)", "new": ["wmat-tournament-announcer"]},
+    {"card": "TB2-066 Announcer Ever-Curious", "old": "(unwired)", "new": ["wmat-tournament-announcer"]},
+    {"card": "TB2-067 Announcer Play-By-Play Pro", "old": "(unwired)", "new": ["wmat-tournament-announcer"]},
+    {"card": "BT1-047 Energy Boosted Majin Buu", "old": "(unwired)", "new": ["majin-buu"]},
+    {"card": "BT4-015 Mr. Buu", "old": "(unwired)", "new": ["majin-buu"]},
+    {"card": "TB2-028 Scuffle Time Mr. Buu", "old": "(unwired)", "new": ["majin-buu"]},
+    {"card": "BT1-073 Broly, The Rampaging Horror (Leader)", "old": "(unwired)", "new": ["broly"]},
+    {"card": "BT1-075 Rampaging Super Saiyan Broly", "old": "(unwired)", "new": ["broly"]},
+    {"card": "BT1-076 Broly, Dawn of the Rampage (2017)", "old": "(unwired)", "new": ["broly"]},
+    {"card": "BT1-081 Broly's Ring", "old": "(unwired)", "new": ["broly"]}
+  ],
+  "scope_decisions": [
+    {
+      "node": "majin-buu",
+      "decision": "Scope to Good Buu / Mr. Buu identity. Kid Buu canonical-form documented as character-history-context but NOT split — future kid-buu.md solo node deferred until Kid-Buu-specific prints land in corpus. Cross-edge to uub at the reincarnation-component axis (Uub is canonically Kid Buu's human-Earthling-rebirth form via King Yemma's judgment-of-Goku's-wish).",
+      "future_split_candidate": "kid-buu.md (deferred)"
+    },
+    {
+      "node": "broly",
+      "decision": "Scope to Movie 8 / 1993 / Koyama non-canon Broly ONLY. The 2018 canonical-DBS-Broly reimagining is canonically a structurally-distinct character per Wikipedia and Dragon Ball Wiki; future broly-dbs.md solo node deferred until 2018-canonical-DBS-Broly prints (e.g. BT19-088 SS Broly Full Power Frenzy reference) land in corpus. All four current corpus prints (BT1-073, BT1-075, BT1-076, BT1-081) canonically anchor the Movie 8 register per Toei visual-design signatures (green-LSS-aura, circular-blue-gem-at-waist).",
+      "future_split_candidate": "broly-dbs.md (deferred)"
+    },
+    {
+      "node": "broly",
+      "decision": "BT1-073 is canonically `Broly, The Rampaging Horror` (the dual-faced Leader card front-face name per the BT1-076 Related cards reference to `Broly // Broly, The Legendary Super Saiyan (Galactic Battle, BT1-057/073)`). The 'Broly Leader' shorthand the parent dispatch used resolves to this exact file. BT1-073 is vision-passed with ip_verified:false (trivia outstanding); wired at character-pointer level per the wave-83 vision-passed-eligible discipline."
+    }
+  ],
+  "refusal_log": [],
+  "files_modified": [
+    "cards/_characters/majin-buu.md (CREATED)",
+    "cards/_characters/broly.md (CREATED)",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-004-tiny-rivals-son-goten.md",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-022-scuffle-time-son-goten.md",
+    "cards/dragon-ball-super/colossal-warfare/bt4-085-prodigal-dynasty-son-goten.md",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-008-mighty-mask-powers-combined.md",
+    "cards/dragon-ball-super/colossal-warfare/bt4-034-raging-energy-blast-gotenks.md",
+    "cards/dragon-ball-super/galactic-battle/bt1-071-energy-power-gotenks.md",
+    "cards/dragon-ball-super/union-force/bt2-015-prodigy-fusion-super-saiyan-gotenks.md",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-033-shocking-latent-ability.md",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-069-son-goku-uub-seeds-of-the-future.md",
+    "cards/dragon-ball-super/cross-worlds/bt3-014-hidden-power-uub.md",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-065-announcer-announcer-referee-veteran.md",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-066-announcer-ever-curious.md",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-067-announcer-play-by-play-pro.md",
+    "cards/dragon-ball-super/galactic-battle/bt1-047-energy-boosted-majin-buu.md",
+    "cards/dragon-ball-super/colossal-warfare/bt4-015-mr-buu.md",
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-028-scuffle-time-mr-buu.md",
+    "cards/dragon-ball-super/galactic-battle/bt1-073-broly-the-rampaging-horror.md",
+    "cards/dragon-ball-super/galactic-battle/bt1-075-rampaging-super-saiyan-broly.md",
+    "cards/dragon-ball-super/galactic-battle/bt1-076-broly-dawn-of-the-rampage-2017.md",
+    "cards/dragon-ball-super/galactic-battle/bt1-081-broly-s-ring.md"
+  ],
+  "substrate_delta": {
+    "nodes_before": 94,
+    "nodes_after": 99,
+    "node_delta": 5,
+    "cards_wired_this_pass": 20,
+    "wires_added": 20,
+    "wires_extended": 2,
+    "cards_total_corpus": 1954
+  },
+  "post_actions_for_parent": [
+    "python layer_appears_on_render.py (to regenerate Appears-on lists if needed; node MDs already include pre-rendered Appears on sections per dispatch instructions)",
+    "python bbl_node_audit.py (substrate audit on the 99-node total + 0 drift verification)"
+  ],
+  "topology_notes": [
+    "All 5 nodes follow `branch` topology (one source node fanning to N corpus cards). This is canonical Mr. Nodeley territory; Edgelord defers per the topology-appreciation rules.",
+    "son-goten + trunks dual-anchor on the 3 Gotenks Fusion-Dance prints is the canonical mirror-of-mirrors pattern: both component-nodes claim the same prints in their appears_on rosters at the character layer, per the wave-72 son-gohan / son-goku Father-Son Kamehameha precedent at BT2-098.",
+    "TB2-022 / TB2-028 Scuffle Time son-goten / majin-buu designer-coordinated synergy-pair is a future 1:1 mirror candidate for Edgelord (would write Connections-bullet mirrors between the two cards if a future commission requests it). Not drawn this pass — out of scope for the node-batch."
+  ],
+  "other_candidates_considered": [
+    "kid-buu.md solo split — declined this pass (parent dispatch limited to 5 nodes; Kid Buu would be node 6+; future commission)",
+    "broly-dbs.md solo split — declined this pass (no 2018-canonical-DBS-Broly corpus prints yet; future commission when BT19-088 or similar enters corpus)",
+    "majuub.md solo split — declined this pass (no Majuub-anchored corpus prints; future commission)",
+    "paragus.md solo node — declined this pass (canonical 2 corpus prints BT1-077 + BT1-081 dual-IP only; below threshold-of-3; future commission)",
+    "gotenks.md solo split — declined this pass (canonical Gotenks Fusion-Dance combined-character currently held at son-goten + trunks dual-anchor; future commission if Gotenks-only print accumulation warrants split)"
+  ]
+}

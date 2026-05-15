@@ -1,0 +1,47 @@
+{
+  "card_name": "Endrider Catalyzer",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "124",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Aetherdrift (set code DFT, released 2025-02-14) is the 103rd Magic expansion, staging the Ghirapur Grand Prix across three planes — Avishkar (renamed Kaladesh), Muraganda, and the post-apocalyptic plane Gastal — with ten competing teams racing for the Aetherspark. [Scryfall API; Wizards: Planeswalker's Guide to Aetherdrift, Part 1]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/planeswalkers-guide-to-aetherdrift-part-1"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Endriders are Aetherdrift's black-red faction, hailing from Gastal — a dying apocalyptic plane of gas, draconic warlords, and dry lightning. Their leader Far Fortune seeks the Aetherspark to open water to her drought-stricken homeworld. The faction is explicitly coded as apocalypse-punk road warriors. [Wizards: Planeswalker's Guide to Aetherdrift, Part 1; MTG Wiki: Endriders via WebSearch snippet]",
+      "sources": ["magic.wizards.com/en/news/feature/planeswalkers-guide-to-aetherdrift-part-1", "MTG Wiki: Endriders (WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Endrider magic was developed on a world that was constantly on the move — the higher the velocity, the stronger the magic.\" [Scryfall] This line directly grounds the Start your engines! / speed mechanic in Endrider faction identity: velocity as power source.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At Max Speed (speed 4), Endrider Catalyzer taps for {R}{R} — functioning as a mana doubler for red spells once the engine is running. As a {1}{R} common it is pauper-legal and standard-legal (as of release). EDHREC rank 12,678 places it in the low-interest tier for Commander. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Karl Kopinski, who has painted 536+ Magic cards across 15+ years of the game — making him one of the most prolific MTG artists in the game's history. [planeswalkersmtg.com; karlkopinski.com via WebSearch]",
+      "sources": ["planeswalkersmtg.com/card-artist/karl-kopinski (WebSearch snippet)", "karlkopinski.com (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Far Fortune, End Boss", "set": "Aetherdrift", "note": "Leader of the Endriders faction; the captain card for the same team"},
+    {"name": "Endrider Spikespitter", "set": "Aetherdrift", "note": "Second Endrider-coded card in the corpus; same faction cycle"},
+    {"name": "Gastal Raider", "set": "Aetherdrift", "note": "Another Gastal-plane Endrider-adjacent card carrying the road-warrior aesthetic"},
+    {"name": "Ragavan, Nimble Pilferer", "set": "Modern Horizons 2", "note": "Speed/haste-matters red common reference; Max Speed mana ability parallels Ragavan's treasure generation"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
