@@ -23,6 +23,9 @@ import sys
 from collections import defaultdict
 from datetime import date, datetime
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+from bbl_schema import normalize_file  # wave 92.6 chokepoint
 from typing import Iterable
 
 # --- Configuration ---
@@ -265,6 +268,7 @@ def surgical_update_existing(path: Path, row: dict, price_col: str | None,
         text = _update_fm_field(text, field, value)
 
     path.write_text(text, encoding="utf-8")
+    normalize_file(path)
 
 
 # --- Rendering ---
@@ -446,6 +450,7 @@ def _zero_and_archive_dir(active_dir: Path, archive_dir: Path,
         )
         if not dry_run:
             existing.write_text(new_text, encoding="utf-8")
+            normalize_file(existing)
         report[f"{report_prefix}zeroed"] += 1
 
     # Archive any zero-quantity nodes (stamping archived_on)
@@ -467,6 +472,7 @@ def _zero_and_archive_dir(active_dir: Path, archive_dir: Path,
             stamped = _inject_archived_on(text, today)
             target.parent.mkdir(parents=True, exist_ok=True)
             target.write_text(stamped, encoding="utf-8")
+            normalize_file(target)
             existing.unlink()
             report[f"{report_prefix}archived"] += 1
         else:
@@ -586,6 +592,7 @@ def reconcile(csv_path: Path, cards_dir: Path, archive_dir: Path,
                 quantity_override=qty_sums[key],
             )
             path.write_text(content, encoding="utf-8")
+            normalize_file(path)
             seen_card_paths.add(path)
             report["created"] += 1
 
@@ -625,6 +632,7 @@ def reconcile(csv_path: Path, cards_dir: Path, archive_dir: Path,
 
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(content, encoding="utf-8")
+        normalize_file(path)
         seen_sealed_paths.add(path)
 
         if existed_in_archive and not existed_in_sealed:

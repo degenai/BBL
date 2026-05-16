@@ -30,6 +30,9 @@ from datetime import date, datetime, timedelta
 from pathlib import Path
 from typing import Callable, Iterable
 
+sys.path.insert(0, str(Path(__file__).parent))
+from bbl_schema import normalize_file  # wave 92.6 chokepoint
+
 # Force UTF-8 on Windows so the report's arrows and dashes don't choke cp1252.
 if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
@@ -565,6 +568,7 @@ def fix_card_tags(c: Card, dry_run: bool = False) -> tuple[bool, list[str]]:
         text = _replace_fm_field(text, "tags_hub", _render_tag_list(hub))
         text = _replace_fm_field(text, "tags_filter", _render_tag_list(flt))
         c.path.write_text(text, encoding="utf-8")
+        normalize_file(c.path)
     return True, actions
 
 

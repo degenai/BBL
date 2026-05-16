@@ -12,7 +12,7 @@ The graph (the tag network, the hub-and-filter taxonomy, the vision-pass enrichm
 
 See also:
 - [`BBL-project-spec.md`](BBL-project-spec.md) — full concept, brand voice, political framing.
-- [`subagents.md`](subagents.md) — the agent roster spec.
+- [`.claude/agents/`](.claude/agents/) — live agent specs (researcher, triviabot, edgelord, nurse-joy-md, bundler). [`subagents.md`](subagents.md) is historical Plan-A roadmap, preserved for context.
 - [`docs/curation-modes.md`](docs/curation-modes.md) — the *forms* a curated bundle can take.
 - [`docs/sketchbook.md`](docs/sketchbook.md) — catch-all for half-baked concepts. Currently sketching: bundle-creation subagent (`bbl-bundler`), high-res source art capture, collection-timeline HTML.
 - [`references/`](references/) — visual references for well-curated themed binders.
@@ -326,8 +326,8 @@ The pattern: **writers get the keys to wikilintbot; watchers do not.** csv2mdbot
 - **Foundational hubs: 4** — labor, rebellion, chinese-zodiac, stewardship. `_triple-thesis.md` is a meta-doc (root crystal), not a hub.
 - **Triangles closed:** Bolas-Falls (Topple ↔ Despark ↔ Prison Realm, wave 9); second explicit triangle wave 74-78. Triple-thesis doctrine locked wave 70-73.
 - **Discrete Lairs shipped:** 1 — **Discrete Lair 001: Tithe**.
-- **Subagents shipped:** **5** — `bbl-researcher`, `bbl-triviabot`, `bbl-edgelord` (with Mr. Nodeley + DARK NODESLEY EX alters), `bbl-nurse-joy-md`, `bbl-judge`. Sketched: `bbl-bundler`.
-- **Model assignment locked:** Sonnet 4.6 for routine extraction (vision, trivia, triage); Opus 4.7 for Edgelord/Judge. "Opus is my Eva, Sonnet is the weapons."
+- **Subagents shipped:** **5** — `bbl-researcher`, `bbl-triviabot`, `bbl-edgelord` (with Mr. Nodeley + DARK NODESLEY EX alters), `bbl-nurse-joy-md`, `bbl-bundler` (half-strength). `bbl-judge` was dropped wave 92.5 (dual-pipeline pattern retired per memory `bbl-dual-pipeline-judge-pattern`).
+- **Model assignment locked:** Sonnet 4.6 for routine extraction (vision, trivia, triage, bundler); Opus 4.7 for Edgelord. "Opus is my Eva, Sonnet is the weapons."
 - **Agent batching pattern: REVISED wave 81** — 1 batched agent for trivia + **single-batch vision agent (N cards sequential)** instead of 2×5. ~60-70% per-wave token reduction. Memory at `bbl-agent-batching-pattern.md`.
 - **Bundles are destructive on graph (wave 81 P3 decision)** — no card-level `anchored_cards` / `thesis_cards` fields on hubs; only `anchored_lairs` (bundle-tier) survives inventory churn. Triple-thesis is the root crystal; hubs stay card-edge-disconnected by design.
 - **Lorcana pipeline shipped (wave 83)** — `researchbot.py` gains `find_image_lorcana()` reading from `reports/lorcana_allcards.json` (LorcanaJSON bulk); image quality is **highest in corpus** at 1468×2048 JPEG. No art-only crop available (frame fused at design). 40 cards prepped.

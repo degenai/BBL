@@ -1344,6 +1344,12 @@ def retry_flagged(cards_dir: Path, images_dir: Path,
             print(f"  -> low-confidence URL cached, kept flagged for human review")
             low_conf += 1
         path.write_text(text, encoding="utf-8")
+        # Normalize via bbl_schema chokepoint (wave 92.6).
+        try:
+            from bbl_schema import normalize_file as _normalize_file
+            _normalize_file(path)
+        except ImportError:
+            pass
 
     print("\n=== retry-flagged report ===")
     print(f"  Recovered (high confidence):  {recovered}")

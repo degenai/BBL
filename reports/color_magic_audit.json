@@ -1,0 +1,1693 @@
+[
+  {
+    "path": "cards/magic-the-gathering/aetherdrift/33-tune-up.md",
+    "mana_cost": "{3}{W}",
+    "expected_tag": "white-magic",
+    "stated_tags": [
+      "red-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/aetherdrift/34-unswerving-sloth.md",
+    "mana_cost": "{3}{W}{W}",
+    "expected_tag": "white-magic",
+    "stated_tags": [
+      "green-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/battle-for-zendikar/40-ondu-greathorn.md",
+    "mana_cost": "{3}{W}",
+    "expected_tag": "white-magic",
+    "stated_tags": [
+      "green-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/commander-legends/303-charcoal-diamond.md",
+    "mana_cost": "{2}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "black-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/commander-legends-battle-for-baldur-s-gate/878-talisman-of-hierarchy.md",
+    "mana_cost": "{2}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "black-magic",
+      "multicolor-white-black",
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/core-set-2021/15-defiant-strike.md",
+    "mana_cost": "{W}",
+    "expected_tag": "white-magic",
+    "stated_tags": [
+      "red-magic",
+      "white-magic"
+    ],
+    "wrong_extras": [
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/core-set-2021/218-experimental-overload.md",
+    "mana_cost": "{2}{U}{R}",
+    "expected_tag": "multicolor-blue-red",
+    "stated_tags": [
+      "blue-magic",
+      "multicolor-blue-red",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "blue-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/core-set-2021/224-radha-heart-of-keld.md",
+    "mana_cost": "{1}{R}{G}",
+    "expected_tag": "multicolor-red-green",
+    "stated_tags": [
+      "green-magic",
+      "multicolor-red-green",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "green-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/core-set-2021/226-twinblade-assassins.md",
+    "mana_cost": "{3}{B}{G}",
+    "expected_tag": "multicolor-black-green",
+    "stated_tags": [
+      "black-magic",
+      "green-magic",
+      "multicolor-black-green"
+    ],
+    "wrong_extras": [
+      "black-magic",
+      "green-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/core-set-2021/227-watcher-of-the-spheres.md",
+    "mana_cost": "{W}{U}",
+    "expected_tag": "multicolor-white-blue",
+    "stated_tags": [
+      "blue-magic",
+      "multicolor-white-blue",
+      "white-magic"
+    ],
+    "wrong_extras": [
+      "blue-magic",
+      "white-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/core-set-2021/232-mazemind-tome.md",
+    "mana_cost": "{2}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/dragon-s-maze/109-tithe-drinker.md",
+    "mana_cost": "{W}{B}",
+    "expected_tag": "multicolor-white-black",
+    "stated_tags": [
+      "black-magic",
+      "multicolor-white-black",
+      "white-magic"
+    ],
+    "wrong_extras": [
+      "black-magic",
+      "white-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/dragon-s-maze/86-morgue-burst.md",
+    "mana_cost": "{4}{B}{R}",
+    "expected_tag": "multicolor-black-red",
+    "stated_tags": [
+      "black-magic",
+      "multicolor-black-red",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "black-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/dragon-s-maze/87-nivix-cyclops.md",
+    "mana_cost": "{1}{U}{R}",
+    "expected_tag": "multicolor-blue-red",
+    "stated_tags": [
+      "blue-magic",
+      "multicolor-blue-red",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "blue-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/duskmourn-house-of-horror/132-diversion-specialist.md",
+    "mana_cost": "{3}{R}",
+    "expected_tag": "red-magic",
+    "stated_tags": [
+      "black-magic",
+      "multicolor-red-black",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "black-magic",
+      "multicolor-red-black"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/duskmourn-house-of-horror/171-cathartic-parting.md",
+    "mana_cost": "{1}{G}",
+    "expected_tag": "green-magic",
+    "stated_tags": [
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/duskmourn-house-of-horror/184-horrid-vigor.md",
+    "mana_cost": "{1}{G}",
+    "expected_tag": "green-magic",
+    "stated_tags": [
+      "black-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/duskmourn-house-of-horror/189-manifest-dread.md",
+    "mana_cost": "{1}{G}",
+    "expected_tag": "green-magic",
+    "stated_tags": [
+      "blue-magic",
+      "green-magic",
+      "multicolor-blue-green"
+    ],
+    "wrong_extras": [
+      "blue-magic",
+      "multicolor-blue-green"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/duskmourn-house-of-horror/197-say-its-name.md",
+    "mana_cost": "{1}{G}",
+    "expected_tag": "green-magic",
+    "stated_tags": [
+      "black-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/duskmourn-house-of-horror/212-disturbing-mirth.md",
+    "mana_cost": "{B}{R}",
+    "expected_tag": "multicolor-black-red",
+    "stated_tags": [
+      "red-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/duskmourn-house-of-horror/235-smoky-lounge-misty-salon.md",
+    "mana_cost": "{2}{R} // {3}{U}",
+    "expected_tag": "multicolor-blue-red",
+    "stated_tags": [
+      "blue-magic",
+      "multicolor-red-blue",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "blue-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/duskmourn-house-of-horror/24-patched-plaything.md",
+    "mana_cost": "{2}{W}",
+    "expected_tag": "white-magic",
+    "stated_tags": [
+      "black-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/duskmourn-house-of-horror/47-cursed-windbreaker.md",
+    "mana_cost": "{2}{U}",
+    "expected_tag": "blue-magic",
+    "stated_tags": [
+      "colorless-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/duskmourn-house-of-horror/81-unwilling-vessel.md",
+    "mana_cost": "{2}{U}",
+    "expected_tag": "blue-magic",
+    "stated_tags": [
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/eldritch-moon/11-vexing-scuttler.md",
+    "mana_cost": "{8}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/gatecrash/179-mortus-strider.md",
+    "mana_cost": "{1}{U}{B}",
+    "expected_tag": "multicolor-blue-black",
+    "stated_tags": [
+      "black-magic",
+      "blue-magic",
+      "multicolor-blue-black"
+    ],
+    "wrong_extras": [
+      "black-magic",
+      "blue-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/gatecrash/186-paranoid-delusions.md",
+    "mana_cost": "{U}{B}",
+    "expected_tag": "multicolor-blue-black",
+    "stated_tags": [
+      "black-magic",
+      "blue-magic",
+      "multicolor-blue-black"
+    ],
+    "wrong_extras": [
+      "black-magic",
+      "blue-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/gatecrash/187-primal-visitation.md",
+    "mana_cost": "{3}{R}{G}",
+    "expected_tag": "multicolor-red-green",
+    "stated_tags": [
+      "green-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/guilds-of-ravnica/198-skyknight-legionnaire.md",
+    "mana_cost": "{1}{R}{W}",
+    "expected_tag": "multicolor-white-red",
+    "stated_tags": [
+      "multicolor-red-white",
+      "red-magic",
+      "white-magic"
+    ],
+    "wrong_extras": [
+      "red-magic",
+      "white-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/guilds-of-ravnica/199-sonic-assault.md",
+    "mana_cost": "{1}{U}{R}",
+    "expected_tag": "multicolor-blue-red",
+    "stated_tags": [
+      "blue-magic",
+      "multicolor-blue-red",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "blue-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/guilds-of-ravnica/200-sumala-woodshaper.md",
+    "mana_cost": "{2}{G}{W}",
+    "expected_tag": "multicolor-white-green",
+    "stated_tags": [
+      "green-magic",
+      "multicolor-green-blue"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/guilds-of-ravnica/240-selesnya-locket.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "green-magic",
+      "multicolor-green-white",
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/khans-of-tarkir/183-kin-tree-invocation.md",
+    "mana_cost": "{B}{G}",
+    "expected_tag": "multicolor-black-green",
+    "stated_tags": [
+      "multicolor-white-black-green"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/khans-of-tarkir/186-mardu-charm.md",
+    "mana_cost": "{R}{W}{B}",
+    "expected_tag": "multicolor-white-black-red",
+    "stated_tags": [
+      "black-magic",
+      "multicolor-red-white-black",
+      "red-magic",
+      "white-magic"
+    ],
+    "wrong_extras": [
+      "black-magic",
+      "red-magic",
+      "white-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/khans-of-tarkir/187-mardu-roughrider.md",
+    "mana_cost": "{2}{R}{W}{B}",
+    "expected_tag": "multicolor-white-black-red",
+    "stated_tags": [
+      "black-magic",
+      "red-magic",
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/khans-of-tarkir/188-master-the-way.md",
+    "mana_cost": "{3}{U}{R}",
+    "expected_tag": "multicolor-blue-red",
+    "stated_tags": [
+      "blue-magic",
+      "multicolor-blue-red",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "blue-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/khans-of-tarkir/201-snowhorn-rider.md",
+    "mana_cost": "{3}{G}{U}{R}",
+    "expected_tag": "multicolor-blue-red-green",
+    "stated_tags": [
+      "blue-magic",
+      "green-magic",
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/khans-of-tarkir/208-temur-charm.md",
+    "mana_cost": "{G}{U}{R}",
+    "expected_tag": "multicolor-blue-red-green",
+    "stated_tags": [
+      "blue-magic",
+      "green-magic",
+      "multicolor-green-blue-red",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "blue-magic",
+      "green-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/khans-of-tarkir/222-jeskai-banner.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic",
+      "multicolor-blue-red-white",
+      "red-magic",
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/khans-of-tarkir/224-mardu-banner.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "black-magic",
+      "red-magic",
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/khans-of-tarkir/225-sultai-banner.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "black-magic",
+      "blue-magic",
+      "green-magic",
+      "multicolor-blue-black-green"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/magic-2011-m11/221-whispersilk-cloak.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/magic-2014-m14/210-fireshrieker.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "colorless",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/magic-2014-m14/219-staff-of-the-death-magus.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "black-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/magic-2014-m14/223-staff-of-the-wild-magus.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "green-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/magic-2015-m15/233-staff-of-the-flame-magus.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "red-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/magic-2015-m15/234-staff-of-the-mind-magus.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons/209-munitions-expert.md",
+    "mana_cost": "{B}{R}",
+    "expected_tag": "multicolor-black-red",
+    "stated_tags": [
+      "red-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons/213-ruination-rioter.md",
+    "mana_cost": "{R}{G}",
+    "expected_tag": "multicolor-red-green",
+    "stated_tags": [
+      "green-magic",
+      "multicolor-red-green",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "green-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons/215-thundering-djinn.md",
+    "mana_cost": "{3}{U}{R}",
+    "expected_tag": "multicolor-blue-red",
+    "stated_tags": [
+      "red-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons/232-talisman-of-curiosity.md",
+    "mana_cost": "{2}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic",
+      "multicolor-blue-black"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons/97-mob.md",
+    "mana_cost": "{4}{B}",
+    "expected_tag": "black-magic",
+    "stated_tags": [
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons-3/130-phyrexian-ironworks.md",
+    "mana_cost": "{2}{R}",
+    "expected_tag": "red-magic",
+    "stated_tags": [
+      "colorless"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons-3/150-eldrazi-repurposer.md",
+    "mana_cost": "{2}{G}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "green-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": true
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons-3/17-wastescape-battlemage.md",
+    "mana_cost": "{1}{C}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons-3/179-conduit-goblin.md",
+    "mana_cost": "{R}{W}",
+    "expected_tag": "multicolor-white-red",
+    "stated_tags": [
+      "red-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons-3/183-emissary-of-soulfire.md",
+    "mana_cost": "{1}{W}{U}",
+    "expected_tag": "multicolor-white-blue",
+    "stated_tags": [
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons-3/185-faithful-watchdog.md",
+    "mana_cost": "{G}{W}",
+    "expected_tag": "multicolor-white-green",
+    "stated_tags": [
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons-3/187-golden-tail-trainer.md",
+    "mana_cost": "{1}{G}{W}",
+    "expected_tag": "multicolor-white-green",
+    "stated_tags": [
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons-3/188-horrid-shadowspinner.md",
+    "mana_cost": "{1}{U}{B}",
+    "expected_tag": "multicolor-blue-black",
+    "stated_tags": [
+      "black-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons-3/196-ondu-knotmaster.md",
+    "mana_cost": "{2}{W}{B} // {W}{B}",
+    "expected_tag": "multicolor-white-black",
+    "stated_tags": [
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons-3/200-pyretic-rebirth.md",
+    "mana_cost": "{2}{B}{R}",
+    "expected_tag": "multicolor-black-red",
+    "stated_tags": [
+      "red-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons-3/203-scurry-of-gremlins.md",
+    "mana_cost": "{2}{R}{W}",
+    "expected_tag": "multicolor-white-red",
+    "stated_tags": [
+      "red-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons-3/41-proud-pack-rhino.md",
+    "mana_cost": "{2}{W}",
+    "expected_tag": "white-magic",
+    "stated_tags": [
+      "green-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons-3/52-bespoke-battlewagon.md",
+    "mana_cost": "{3}{U}",
+    "expected_tag": "blue-magic",
+    "stated_tags": [
+      "colorless"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons-3/86-the-creation-of-avacyn.md",
+    "mana_cost": "{1}{B}{B}",
+    "expected_tag": "black-magic",
+    "stated_tags": [
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/1-case-of-the-shattered-pact.md",
+    "mana_cost": "{2}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/104-slimy-dualleech.md",
+    "mana_cost": "{3}{B}",
+    "expected_tag": "black-magic",
+    "stated_tags": [
+      "multicolor-black-green"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/116-the-chase-is-on.md",
+    "mana_cost": "{2}{R}",
+    "expected_tag": "red-magic",
+    "stated_tags": [
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/129-gearbane-orangutan.md",
+    "mana_cost": "{2}{R}",
+    "expected_tag": "red-magic",
+    "stated_tags": [
+      "green-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/133-innocent-bystander.md",
+    "mana_cost": "{1}{R}",
+    "expected_tag": "red-magic",
+    "stated_tags": [
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/147-vengeful-tracker.md",
+    "mana_cost": "{1}{R}",
+    "expected_tag": "red-magic",
+    "stated_tags": [
+      "green-magic",
+      "multicolor-red-green",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "green-magic",
+      "multicolor-red-green"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/157-chalk-outline.md",
+    "mana_cost": "{3}{G}",
+    "expected_tag": "green-magic",
+    "stated_tags": [
+      "multicolor-white-blue"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/167-a-killer-among-us.md",
+    "mana_cost": "{4}{G}",
+    "expected_tag": "green-magic",
+    "stated_tags": [
+      "multicolor-red-green"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/171-pompous-gadabout.md",
+    "mana_cost": "{2}{G}",
+    "expected_tag": "green-magic",
+    "stated_tags": [
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/175-sample-collector.md",
+    "mana_cost": "{2}{G}",
+    "expected_tag": "green-magic",
+    "stated_tags": [
+      "green-magic",
+      "multicolor-blue-green"
+    ],
+    "wrong_extras": [
+      "multicolor-blue-green"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/193-crowd-control-warden.md",
+    "mana_cost": "{3}{G}{W}",
+    "expected_tag": "multicolor-white-green",
+    "stated_tags": [
+      "green-magic",
+      "multicolor-green-white",
+      "white-magic"
+    ],
+    "wrong_extras": [
+      "green-magic",
+      "white-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/197-dog-walker.md",
+    "mana_cost": "{R}{W}",
+    "expected_tag": "multicolor-white-red",
+    "stated_tags": [
+      "multicolor-red-white",
+      "red-magic",
+      "white-magic"
+    ],
+    "wrong_extras": [
+      "red-magic",
+      "white-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/203-faerie-snoop.md",
+    "mana_cost": "{1}{U}{B}",
+    "expected_tag": "multicolor-blue-black",
+    "stated_tags": [
+      "black-magic",
+      "blue-magic",
+      "multicolor-blue-black"
+    ],
+    "wrong_extras": [
+      "black-magic",
+      "blue-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/204-gadget-technician.md",
+    "mana_cost": "{2}{U}{R}",
+    "expected_tag": "multicolor-blue-red",
+    "stated_tags": [
+      "blue-magic",
+      "multicolor-blue-red",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "blue-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/225-rakish-scoundrel.md",
+    "mana_cost": "{2}{B}{G}",
+    "expected_tag": "multicolor-black-green",
+    "stated_tags": [
+      "black-magic",
+      "green-magic",
+      "multicolor-black-green"
+    ],
+    "wrong_extras": [
+      "black-magic",
+      "green-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/228-riftburst-hellion.md",
+    "mana_cost": "{5}{R}{G}",
+    "expected_tag": "multicolor-red-green",
+    "stated_tags": [
+      "green-magic",
+      "multicolor-red-green",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "green-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/230-sanguine-savior.md",
+    "mana_cost": "{1}{W}{B}",
+    "expected_tag": "multicolor-white-black",
+    "stated_tags": [
+      "black-magic",
+      "multicolor-white-black",
+      "white-magic"
+    ],
+    "wrong_extras": [
+      "black-magic",
+      "white-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/231-shady-informant.md",
+    "mana_cost": "{3}{B}{R}",
+    "expected_tag": "multicolor-black-red",
+    "stated_tags": [
+      "black-magic",
+      "multicolor-black-red",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "black-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/239-undercover-crocodelf-b.md",
+    "mana_cost": "{4}{G}{U}",
+    "expected_tag": "multicolor-blue-green",
+    "stated_tags": [
+      "blue-magic",
+      "green-magic",
+      "multicolor-green-blue"
+    ],
+    "wrong_extras": [
+      "blue-magic",
+      "green-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/247-flotsam-jetsam.md",
+    "mana_cost": "{1}{G/U} // {4}{U/B}{U/B}",
+    "expected_tag": "multicolor-blue-black-green",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/307-expose-the-culprit-showcase.md",
+    "mana_cost": "{1}{R}",
+    "expected_tag": "red-magic",
+    "stated_tags": [
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/311-coerced-to-kill-showcase.md",
+    "mana_cost": "{3}{U}{B}",
+    "expected_tag": "multicolor-blue-black",
+    "stated_tags": [
+      "black-magic",
+      "blue-magic",
+      "multicolor-blue-black"
+    ],
+    "wrong_extras": [
+      "black-magic",
+      "blue-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/312-deadly-complication-showcase.md",
+    "mana_cost": "{1}{B}{R}",
+    "expected_tag": "multicolor-black-red",
+    "stated_tags": [
+      "black-magic",
+      "multicolor-white-black"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/38-agency-outfitter.md",
+    "mana_cost": "{4}{U}{U}",
+    "expected_tag": "blue-magic",
+    "stated_tags": [
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/54-eliminate-the-impossible.md",
+    "mana_cost": "{1}{U}",
+    "expected_tag": "blue-magic",
+    "stated_tags": [
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/7-case-file-auditor-b.md",
+    "mana_cost": "{2}{W}",
+    "expected_tag": "white-magic",
+    "stated_tags": [
+      "multicolor-white-blue"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/mystery-booster-cards/146-athreos-god-of-passage.md",
+    "mana_cost": "{1}{W}{B}",
+    "expected_tag": "multicolor-white-black",
+    "stated_tags": [
+      "black-magic",
+      "multicolor-white-black",
+      "white-magic"
+    ],
+    "wrong_extras": [
+      "black-magic",
+      "white-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/mystery-booster-cards/187-unlicensed-disintegration.md",
+    "mana_cost": "{1}{B}{R}",
+    "expected_tag": "multicolor-black-red",
+    "stated_tags": [
+      "black-magic",
+      "multicolor-red-black",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "black-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/mystery-booster-cards/26-nucklavee.md",
+    "mana_cost": "{4}{U/R}{U/R}",
+    "expected_tag": "multicolor-blue-red",
+    "stated_tags": [
+      "blue-magic",
+      "multicolor-blue-red",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "blue-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/mystery-booster-retail-exclusives/132-balefire-liege--foil.md",
+    "mana_cost": "{2}{R/W}{R/W}{R/W}",
+    "expected_tag": "multicolor-white-red",
+    "stated_tags": [
+      "multicolor-red-white",
+      "red-magic",
+      "white-magic"
+    ],
+    "wrong_extras": [
+      "red-magic",
+      "white-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/outlaws-of-thunder-junction/155-betrayal-at-the-vault.md",
+    "mana_cost": "{4}{G}{G}",
+    "expected_tag": "green-magic",
+    "stated_tags": [
+      "red-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/outlaws-of-thunder-junction/177-raucous-entertainer.md",
+    "mana_cost": "{1}{G}",
+    "expected_tag": "green-magic",
+    "stated_tags": [
+      "red-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/outlaws-of-thunder-junction/184-stubborn-burrowfiend.md",
+    "mana_cost": "{1}{G}",
+    "expected_tag": "green-magic",
+    "stated_tags": [
+      "black-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/ravnica-allegiance/190-lawmage-s-binding.md",
+    "mana_cost": "{1}{W}{U}",
+    "expected_tag": "multicolor-white-blue",
+    "stated_tags": [
+      "blue-magic",
+      "multicolor-white-blue",
+      "white-magic"
+    ],
+    "wrong_extras": [
+      "blue-magic",
+      "white-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/ravnica-allegiance/194-pitiless-pontiff.md",
+    "mana_cost": "{W}{B}",
+    "expected_tag": "multicolor-white-black",
+    "stated_tags": [
+      "black-magic",
+      "multicolor-white-black",
+      "white-magic"
+    ],
+    "wrong_extras": [
+      "black-magic",
+      "white-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/ravnica-allegiance/202-rubblebelt-runner.md",
+    "mana_cost": "{1}{R}{G}",
+    "expected_tag": "multicolor-red-green",
+    "stated_tags": [
+      "green-magic",
+      "multicolor-red-green",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "green-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/ravnica-allegiance/209-sphinx-s-insight.md",
+    "mana_cost": "{2}{W}{U}",
+    "expected_tag": "multicolor-white-blue",
+    "stated_tags": [
+      "blue-magic",
+      "multicolor-white-blue",
+      "white-magic"
+    ],
+    "wrong_extras": [
+      "blue-magic",
+      "white-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/ravnica-allegiance/234-gruul-locket.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "green-magic",
+      "multicolor-red-green",
+      "red-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/ravnica-allegiance/236-orzhov-locket.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "black-magic",
+      "multicolor-white-black",
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/ravnica-allegiance/237-rakdos-locket.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "multicolor-black-red"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/ravnica-allegiance/240-simic-locket.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic",
+      "green-magic",
+      "multicolor-blue-green"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/the-lost-caverns-of-ixalan/117-ray-of-ruin.md",
+    "mana_cost": "{4}{B}",
+    "expected_tag": "black-magic",
+    "stated_tags": [
+      "red-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/theros/203-shipwreck-singer.md",
+    "mana_cost": "{U}{B}",
+    "expected_tag": "multicolor-blue-black",
+    "stated_tags": [
+      "black-magic",
+      "blue-magic",
+      "multicolor-blue-black"
+    ],
+    "wrong_extras": [
+      "black-magic",
+      "blue-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/theros/204-spellheart-chimera.md",
+    "mana_cost": "{1}{U}{R}",
+    "expected_tag": "multicolor-blue-red",
+    "stated_tags": [
+      "blue-magic",
+      "multicolor-blue-red",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "blue-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/theros-beyond-death/219-hero-of-the-nyxborn.md",
+    "mana_cost": "{1}{R}{W}",
+    "expected_tag": "multicolor-white-red",
+    "stated_tags": [
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/theros-beyond-death/223-mischievous-chimera.md",
+    "mana_cost": "{U}{R}",
+    "expected_tag": "multicolor-blue-red",
+    "stated_tags": [
+      "blue-magic",
+      "multicolor-blue-red",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "blue-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/theros-beyond-death/224-polukranos-unchained.md",
+    "mana_cost": "{2}{B}{G}",
+    "expected_tag": "multicolor-black-green",
+    "stated_tags": [
+      "green-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/theros-beyond-death/227-slaughter-priest-of-mogis.md",
+    "mana_cost": "{B}{R}",
+    "expected_tag": "multicolor-black-red",
+    "stated_tags": [
+      "black-magic",
+      "multicolor-red-black",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "black-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/throne-of-eldraine/134-raging-redcap.md",
+    "mana_cost": "{2}{R}",
+    "expected_tag": "red-magic",
+    "stated_tags": [
+      "black-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/throne-of-eldraine/189-escape-to-the-wilds--foil.md",
+    "mana_cost": "{3}{R}{G}",
+    "expected_tag": "multicolor-red-green",
+    "stated_tags": [
+      "green-magic",
+      "multicolor-red-green",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "green-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/throne-of-eldraine/202-steelclaw-lance.md",
+    "mana_cost": "{B}{R}",
+    "expected_tag": "multicolor-black-red",
+    "stated_tags": [
+      "red-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/throne-of-eldraine/211-loch-dragon.md",
+    "mana_cost": "{U/R}{U/R}{U/R}{U/R}",
+    "expected_tag": "multicolor-blue-red",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/throne-of-eldraine/229-scalding-cauldron.md",
+    "mana_cost": "{1}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/throne-of-eldraine/230-shambling-suit.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/throne-of-eldraine/237-witch-s-oven.md",
+    "mana_cost": "{1}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "black-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/throne-of-eldraine/312-oko-s-hospitality.md",
+    "mana_cost": "{3}{G}{U}",
+    "expected_tag": "multicolor-blue-green",
+    "stated_tags": [
+      "blue-magic",
+      "green-magic",
+      "multicolor-green-blue"
+    ],
+    "wrong_extras": [
+      "blue-magic",
+      "green-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/ultimate-masters/209-vengeful-rebirth.md",
+    "mana_cost": "{4}{R}{G}",
+    "expected_tag": "multicolor-red-green",
+    "stated_tags": [
+      "green-magic",
+      "multicolor-red-green",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "green-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/ultimate-masters/231-patchwork-gnomes.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "black-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/unstable/154-mad-science-fair-project.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/war-of-the-spark/185-angrath-s-rampage.md",
+    "mana_cost": "{B}{R}",
+    "expected_tag": "multicolor-black-red",
+    "stated_tags": [
+      "black-magic",
+      "multicolor-red-black",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "black-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/war-of-the-spark/201-invade-the-city.md",
+    "mana_cost": "{1}{U}{R}",
+    "expected_tag": "multicolor-blue-red",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/war-of-the-spark/205-merfolk-skydiver.md",
+    "mana_cost": "{G}{U}",
+    "expected_tag": "multicolor-blue-green",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/war-of-the-spark/212-ral-s-outburst.md",
+    "mana_cost": "{2}{U}{R}",
+    "expected_tag": "multicolor-blue-red",
+    "stated_tags": [
+      "blue-magic",
+      "multicolor-blue-red",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "blue-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/war-of-the-spark/226-widespread-brutality.md",
+    "mana_cost": "{1}{B}{R}{R}",
+    "expected_tag": "multicolor-black-red",
+    "stated_tags": [
+      "black-magic",
+      "multicolor-black-red",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "black-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/war-of-the-spark/227-angrath-captain-of-chaos.md",
+    "mana_cost": "{2}{B/R}{B/R}",
+    "expected_tag": "multicolor-black-red",
+    "stated_tags": [
+      "black-magic",
+      "multicolor-red-black",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "black-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner.md",
+    "mana_cost": "{2}{G/U}",
+    "expected_tag": "multicolor-blue-green",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/war-of-the-spark/243-saheeli-s-silverwing.md",
+    "mana_cost": "{4}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/war-of-the-spark/81-charity-extractor.md",
+    "mana_cost": "{3}{B}",
+    "expected_tag": "black-magic",
+    "stated_tags": [
+      "black-magic",
+      "multicolor-white-black",
+      "white-magic"
+    ],
+    "wrong_extras": [
+      "multicolor-white-black",
+      "white-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/zendikar-rising/225-kaza-roil-chaser.md",
+    "mana_cost": "{U}{R}",
+    "expected_tag": "multicolor-blue-red",
+    "stated_tags": [
+      "blue-magic",
+      "multicolor-blue-red",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "blue-magic",
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  }
+]

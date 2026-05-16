@@ -116,17 +116,28 @@ Per `bbl-bundle-pricing-codified` memory:
 
 ```json
 {
-  "card_value_subtotal": <sum of market_price_usd>,
-  "labor_and_sleeve_total": <fixed cost: ~1.50 + 0.10 * card_count>,
-  "cost_basis": <average_cost_paid_subtotal>,
-  "diy_alternative_usd": <card_value_subtotal>,
-  "narrative_premium": <bundle_list_price - card_value_subtotal>,
-  "buyer_savings": <max(0, market_value - bundle_list_price) — if curator priced under market>,
-  "bundle_list_price_usd": "DRAFT: max(5.00, cost_basis + 2.50)"
+  "card_value_subtotal_usd": <sum of market_price_usd>,
+  "labor_and_sleeve_per_card_usd": 0.10,
+  "labor_and_sleeve_total_usd": <0.10 * card_count>,
+  "cost_basis_usd": <card_value_subtotal_usd + labor_and_sleeve_total_usd>,
+  "diy_seller_count_estimate": <int, derived from set_diversity count>,
+  "diy_shipping_per_seller_usd": 1.31,
+  "diy_alternative_usd": <card_value_subtotal_usd + (diy_seller_count_estimate * diy_shipping_per_seller_usd)>,
+  "bundle_price_floor_usd": 5.00,
+  "bundle_list_price_usd": <max(5.00, cost_basis_usd + suggested_premium) — DRAFT, curator confirms>,
+  "shipping_policy": "buyer-paid, itemized separately at checkout; never included in list price",
+  "estimated_shipping_usd": 1.31,
+  "narrative_premium_usd": <bundle_list_price_usd - card_value_subtotal_usd>,
+  "buyer_savings_vs_diy_usd": <diy_alternative_usd - bundle_list_price_usd>,
+  "buyer_savings_vs_diy_pct": <int — round((buyer_savings / diy_alternative) * 100)>
 }
 ```
 
-The `bundle_list_price_usd` is left as a draft string per `bbl-bundle-pricing-codified`. Curator confirms or adjusts before publishing.
+**Shipping is buyer-paid, separate from list price.** Per `shipping_policy` field above and the Tithe sample's settled pattern: bundle list price covers cards + labor; shipping is itemized separately at checkout. Do NOT roll shipping into list price math.
+
+**Labor + sleeve cost is $0.10/card flat.** No base / minimum / setup fee. The Tithe sample is the authoritative reference. The bundle floor ($5.00) lives on `bundle_price_floor_usd`, applied to `bundle_list_price_usd` as `max()`.
+
+The `bundle_list_price_usd` is left as a draft per `bbl-bundle-pricing-codified`. Curator confirms or adjusts before publishing.
 
 **Hard refusal cases:**
 - `bundle_list_price_usd_floor < 5.00` (minimum bundle floor)
@@ -168,45 +179,75 @@ For each card in the manifest, append the bundle slug to the card's frontmatter 
 
 ## Bundle JSON v0.3 schema
 
+Mirrors `bundles/proposed/tithe.json` (the canonical reference). Brand architecture split per `bbl-brand-architecture` memory: `series_label` is "BBL" (the show / label); `catalog_id` carries the series name + number ("Discrete Lair 001", "Discrete Lair 002", etc).
+
 ```json
 {
   "schema_version": "0.3",
   "status": "proposed",
   "slug": "<kebab-case-title>",
+  "series_label": "BBL",
+  "catalog_id": "Discrete Lair <NNN>",
   "title": "<bundle title>",
-  "series_label": "Discrete Lair",
-  "catalog_id": "<sequential ID, curator-assigned>",
+  "subtitle": "<optional subtitle>",
   "narrative": "<the input narrative paragraph>",
+  "hubs": ["..."],
   "anchor_tags": ["..."],
   "intent_tags": ["..."],
-  "hubs": ["..."],
   "cards": [
     {
       "card_md_path": "magic-the-gathering/<set>/<file-stem>",
       "name": "<card name>",
+      "set": "<set name>",
+      "collector_number": "<number>",
       "qty_in_bundle": 1,
       "tags_matched": ["..."],
       "market_price_usd": 0.00,
       "market_price_as_of": "YYYY-MM-DD",
+      "market_price_source": "collectr",
+      "image_url": "<full card png url>",
+      "art_crop_url": "<art crop url if available, else empty string>",
       "why_it_fits": "[DRAFT — review] <prose>"
     }
   ],
-  "pricing": { ... },
+  "cohesion": {
+    "mood": "<dominant mood>",
+    "register": "<short register tag>",
+    "palette_hex": ["#xxxxxx", "..."],
+    "color_identities_present": ["..."],
+    "set_diversity": ["<set>", "..."]
+  },
+  "pricing": { /* see Step 8 above */ },
   "checkout": {
     "stripe_payment_url": "https://buy.stripe.com/PLACEHOLDER_<slug>",
     "stripe_price_id": null,
-    "checkout_provider": "stripe"
+    "checkout_provider": "stripe-payment-link"
   },
-  "created_at": "<ISO date>",
+  "overlap_bundles": [
+    {
+      "bundle_slug": "<sibling-slug>",
+      "shared_cards": ["<card-path-key>", "..."],
+      "shared_count": 0,
+      "narrative_summary": "<first ~80 chars of sibling's narrative>"
+    }
+  ],
   "lifecycle": {
-    "proposed_at": "<ISO date>",
+    "proposed_at": "YYYY-MM-DD",
     "accepted_at": null,
     "assembled_at": null
+  },
+  "metadata": {
+    "generated_by": "bbl-bundler-v<version>",
+    "generated_at": "YYYY-MM-DD",
+    "edition_size": "1 of 1",
+    "card_count": <int>,
+    "rarity_distribution": { "common": 0, "uncommon": 0, "rare": 0, "mythic": 0 },
+    "notes": "<freeform curator notes>"
   }
 }
 ```
 
-The `lifecycle` block is set by downstream operations (acceptance + assembly), not by the bundler. The bundler only sets `proposed_at`.
+The `lifecycle` block's `accepted_at` and `assembled_at` are set by downstream operations (`bbl_bundle_promote.py {slug} accepted` / `{slug} assembled`), NOT by the bundler. The bundler only sets `proposed_at`. The `metadata.generated_at` is the wall-clock timestamp; `lifecycle.proposed_at` is the lifecycle state-transition timestamp (same value at proposal time, but conceptually distinct).
 
 ## Multi-copy handling
 
