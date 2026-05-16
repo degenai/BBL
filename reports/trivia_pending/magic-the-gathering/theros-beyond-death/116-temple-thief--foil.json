@@ -1,0 +1,36 @@
+{
+  "card_name": "Temple Thief",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "116",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Theros is a deeply religious plane where the gods are real, visible, and actively intervene in mortal affairs. Temple theft is accordingly a high-stakes crime. The flavor text captures the mortal relationship to Therosian divinity: 'I don't know if the gods watch over their temples, but I figure it's best to be stealthy just in case.' Uncertainty about divine surveillance is a running Theros theme.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Temple Thief is a 2/2 Human Rogue for {1}{B} that can't be blocked by enchanted creatures or enchantment creatures — a designed-in-setting ability, as enchanted creatures on Theros are often Nyxborn (touched by the divine realm of Nyx). Hipsters of the Coast gave it F grade: 'Temple Thief feels like a blue card...a two drop in a pinch,' flagging it as a weak threat that doesn't synergize with black's archetypes in THB draft.",
+      "sources": ["Hipsters of the Coast: Every Common in Theros Beyond Death Reviewed"]
+    },
+    {
+      "category": "design",
+      "text": "This copy is a foil variant. The non-foil Temple Thief is priced at $0.04 USD; this foil copy at $0.25 USD at time of ingest — a premium reflecting foil scarcity rather than play demand. Artist: Evyn Fong.",
+      "sources": ["Scryfall prices", "Scryfall artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Alirios, Enraptured", "set": "THB", "note": "Another THB Human creature with a flavor-driven mechanical block on certain interactions"},
+    {"name": "Heliod's Pilgrim", "set": "M15", "note": "Human that interacts with enchantments; design-space neighbor"},
+    {"name": "Klothys, God of Destiny", "set": "THB", "note": "The hidden god of Theros; mortals acting in secret is adjacent thematic space"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

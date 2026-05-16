@@ -53,3 +53,14 @@ A robed feminine spirit-figure stands at center, her form dissolving into wisps 
 **Iconography:** chains, ruins, lightning
 **Genre cues:** fantasy, mythological, gothic, greek-mythology
 
+## Trivia
+
+- **Set / lore context** — Lampads are the black-aligned underworld nymphs of Theros, servants of Athreos (god of passage) who guide souls along the Tartyx River and reclaim wayward dead who try to slip back into the mortal world. They are distinguished from other Theros nymphs by their torch-bearing — their flames burn violet `[WebSearch snippet: MTG Wiki: Nymph via Wizards of the Coast / Nymphs of Theros article]`. This lampad's card type, "Enchantment Creature — Nymph," places her within Theros's Constellation/nymph mechanical subtype `[Scryfall type_line]`.
+- **Flavor text** — "Grief-struck, she weeps for each mortal's final death." — Psemilla, Meletian poet `[Scryfall]`. Psemilla is a confirmed Theros lore character: a light-skinned bard from Meletis who appears as a flavor-text poet across several THB cards and later received his own legendary creature card in Foundations Jumpstart (2025), where his abilities create Nymph tokens when you cast enchantment spells `[WebSearch snippet: Scryfall: Psemilla, Meletian Poet (J25)]`.
+- **Mechanical note** — Lampad of Death's Vigil is an Enchantment Creature, meaning it triggers Constellation (THB's enchantment-payoff mechanic) on entry. Its sacrifice ability — {1}, sacrifice a creature: each opponent loses 1 life and you gain 1 life — makes it a persistent drain engine when paired with other sacrifice fodder. Hipsters of the Coast rated it B and described it as "an easier to use Gnawing Zombie with enchantment and sacrifice synergies that also blocks quite well," calling it potentially one of black's strongest commons in the format `[Hipsters of the Coast: "Every Common in Theros Beyond Death Reviewed"]`.
+- **Design note** — As a 1/3 for {1}{B}, the lampad's stats are oriented toward blocking (high toughness, low power), which aligns with her role in lore: a sentinel of the dead, not an aggressor. The sacrifice drain ability echoes the role of the lampad as the one who decides which mortals have truly died their final death `[Scryfall oracle_text]`.
+
+### Related cards
+- Athreos, Shroud-Veiled (THB, no. 269) — god of passage, canonical lord of lampads and the Tartyx crossing; Enchantment Creature with Constellation synergy
+- Psemilla, Meletian Poet (J25, no. 31) — the flavor text's attributed speaker later received his own legendary card; directly connected to this card's lore chain `[Scryfall: J25/31]`
+- Gnawing Zombie (M14) — the card Hipsters explicitly compared this to; direct mechanical predecessor for the sacrifice-drain design pattern

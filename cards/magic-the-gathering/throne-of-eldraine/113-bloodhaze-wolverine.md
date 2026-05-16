@@ -54,3 +54,15 @@ A stocky, low-slung predatory animal — wolverine or mustelid in shape — crou
 **Iconography:** fire, snarl, animal-fury
 **Genre cues:** fantasy, fairy-tale
 
+## Trivia
+
+- **Set context** — Bloodhaze Wolverine is a {1}{R} 2/1 Wolverine (common) from Throne of Eldraine (ELD, 2019). It is a first printing with no reprints [Scryfall]. The card belongs to ELD's red section; thematically it connects to the wild, untamed Wilds of Eldraine and to the court of Garenbrig (the green-aligned kingdom known for its beasts and forests), though the card itself carries no explicit court alignment in its text [Scryfall].
+- **Flavor-text context** — `"Build a moat. If we're lucky, it can't swim." —Syr Branigan, knight of Ardenvale` [Scryfall]. Syr Branigan is a flavor-text-only character (not a named legendary creature in ELD). The quote is self-deprecating and comedic — an Ardenvale knight's pragmatic, low-confidence response to encountering one of the Wilds' more feral threats. It underscores ELD's tonal range: the set deliberately mixes high-chivalric drama with dark comedy.
+- **Creature type** — Typed as Wolverine — one of the few times "Wolverine" appears as a standalone creature type in Magic's history rather than as a subtype of Beast. The type line on this card (Creature — Wolverine) is an outlier; most mustelid-style creatures in Magic are typed Beast [Scryfall type_line].
+- **Mechanical note** — Trigger: draws your second card each turn gives it +1/+1 and first strike until end of turn. The trigger aligns with ELD's red card-draw subtheme (Irencrag Pyromancer, Improbable Alliance). EDHREC rank 28,075 — deep common, not a Commander staple [Scryfall EDHREC rank].
+
+### Related cards
+- Irencrag Pyromancer (ELD) — another ELD red creature with "second card drawn" triggers; same design subtheme
+- Improbable Alliance (ELD) — token-creation on second draw; same subtheme
+- Garruk's Packleader (M11) — Beast-matters draw engine; design-space neighbor
+

@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["volcano", "fire", "apocalypse", "destruction", "vessel", "storm", "earth", "disaster", "war", "survival"]
+tags_filter: ["wide", "no-face", "scene-mode", "enchantment"]
 reference_image: cards/_images/magic-the-gathering/ultimate-masters/146-seismic-assault.png
 average_cost_paid: 0
 market_price: 0.9
@@ -29,6 +29,27 @@ oracle_text: Discard a land card: This enchantment deals 2 damage to any target.
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: grim
+time_of_day: night
+setting: other
 ---
 
 # Seismic Assault (Ultimate Masters)
+
+## Vision
+
+![146-seismic-assault](../../_images/magic-the-gathering/ultimate-masters/146-seismic-assault.png)
+
+A sleek, angular dark vessel resembling a blade or fin shape sails or flies through a catastrophic volcanic landscape. Massive columns of molten rock or magma jets erupt around it, and fireballs streak down from a dark, storm-cloud sky. The vessel is dwarfed by the geological violence surrounding it. The entire color palette is dominated by hot orange, red, and amber tones of fire and molten earth against a grey-black sky. The scene conveys total environmental devastation.
+
+**Subject:** angular dark vessel navigating through volcanic rock columns and fireballs raining from a stormy sky
+
+**Composition:** wide, narrative, figures: none, facing: right
+**Setting:** other, night, fire
+**Foreground:** dark angular vessel amid erupting lava columns  *(palette: black, dark-grey)*
+**Background:** erupting volcanic columns, fireballs, dark stormy sky  *(palette: orange, red, dark-grey, black)*
+**Mood / lighting:** grim, harsh
+**Emotion read:** apocalyptic dread, survival against annihilation
+**Objects:** vessel, airship
+**Genre cues:** fantasy
+

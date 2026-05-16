@@ -54,3 +54,15 @@ A figure in pale grey-blue robes stands in a dim forest. The figure's head is th
 **Iconography:** soul, gem, dark-tendrils, ritual, witch
 **Genre cues:** fantasy, fairy-tale
 
+## Trivia
+
+- **Set context** — Reave Soul is a black sorcery from Throne of Eldraine (ELD, 2019). It is not a new card to ELD — it was first printed in Magic Origins (2015) and later in Iconic Masters (2017), making this its third printing. It was also reprinted into The List (no. ORI-115) in September 2024 and in Jumpstart 2022, for five total printings [Scryfall].
+- **Flavor-text context** — `"Into amethyst, I pour / Envy's shadow, sorrow's gleam. / Lure the one whose scorn I bore / That I may hear one final scream." —Barrow witch incantation` [Scryfall]. The flavor text is attributed to a "barrow witch," a recurring faction in ELD's Wilds — witches who dwell outside the five royal courts and practice folk magic rooted in vengeance and dark bargains. The same attribution appears on Tempting Witch (ELD no. 108), suggesting these incantations are a deliberate flavor cycle across the set's black Wilds cards [Scryfall; WebSearch via Throne of Eldraine flavor gems analysis].
+- **Mechanical context** — Destroys target creature with power 3 or less. A narrow but cost-efficient removal spell ({1}{B} at sorcery speed) that served as a Limited staple in its original Origins printing and carries forward here. EDHREC rank of 20,096 reflects its status as a deep-cuts common rather than a Commander auto-include [Scryfall].
+- **Design** — Artist Naomi Baker. The amethyst gem in the art directly literalizes the flavor text's "into amethyst, I pour" line — one of ELD's cleaner art-flavor alignments in the common slot [Scryfall].
+
+### Related cards
+- Tempting Witch (ELD, no. 108) — shares "Barrow witch incantation" flavor-text attribution; same Wilds faction
+- Reave Soul (Magic Origins, no. 115) — original printing; same oracle text
+- Barrow Witches (ELD, no. 77) — creature card depicting the barrow witch faction; flavor-cycle connection
+

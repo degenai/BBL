@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["beetle", "insect", "horns", "battle", "warrior", "strength", "trainer", "rivalry", "charge", "power"]
+tags_filter: ["duo", "mid-shot", "action", "three-quarter", "grass-type", "creature"]
 reference_image: cards/_images/pokemon/destined-rivals/001-182-ethan-s-pinsir.png
 average_cost_paid: 0
 market_price: 0.08
@@ -27,6 +27,33 @@ oracle_text: Vise Grip (Grass) 20\nRallying Horn (ColorlessColorlessColorless) 7
 image_width: 733
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: other
+suspected_ip: Pinsir (#127)
+ip_confidence: high
+ip_verified: false
 ---
 
 # Ethan's Pinsir (Destined Rivals)
+
+## Vision
+
+![001-182-ethan-s-pinsir](../../_images/pokemon/destined-rivals/001-182-ethan-s-pinsir.png)
+
+> [!warning] Suspected IP: **Pinsir (#127)** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A large, brown beetle-like creature with two massive spiked horns at the top of its head lunges forward aggressively. The figure has a heavily muscled body, large claw-like hands, and its wide horns are raised in a threatening posture. In the lower portion of the image, a small trainer figure is partially visible — a small humanoid in what appears to be casual or sporty attire, positioned as if commanding or accompanying the creature. The background is warm orange-brown with dynamic action energy suggesting an outdoor or arena setting. The palette is warm browns, oranges, and yellow.
+
+**Subject:** Ethan's Pinsir, a large brown stag beetle-like creature lunging forward, with a small trainer figure visible in the background
+
+**Composition:** mid-shot, action, figures: duo, facing: three-quarter
+**Setting:** other, indeterminate
+**Foreground:** large brown beetle-creature with twin spiked horns lunging forward  *(palette: brown, tan, yellow-orange)*
+**Background:** warm orange-brown arena-like setting with action energy  *(palette: orange, brown, yellow)*
+**Mood / lighting:** action, rim
+**Emotion read:** aggressive, fierce, charging
+**Creatures:** beetle, stag-beetle, insect
+**Genre cues:** anime
+

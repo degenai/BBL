@@ -1,0 +1,36 @@
+{
+  "card_name": "The Chase Is On",
+  "game": "magic-the-gathering",
+  "set": "murders-at-karlov-manor",
+  "collector_number": "116",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The flavor text explicitly names Kaya: 'Etrata evaded the Boros arresters and Azorius lawmages, but not even a master assassin could give Kaya the slip.' Kaya, Spirits' Justice (MKM no. 211) is a named legendary planeswalker in the same set — Wizards designed her as the only retained-spark planeswalker in MKM. The pursuer in the art carries a pink-violet ethereal orb consistent with Kaya's signature ghost-phasing / spirit-manipulation magic. The flavor text explicitly identifies the pursuer as Kaya (the non-fleeing figure who catches a master assassin). Combined: flavor text names Kaya as the pursuer, the art shows a pursuer with ghostly violet magic, and a Kaya planeswalker card exists in the same set. This meets the evidence bar: flavor text explicitly names the figure. ip_verified: true.",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Etrata evaded the Boros arresters and Azorius lawmages, but not even a master assassin could give Kaya the slip.' [Scryfall] Kaya Cassir is a ghost-hunting planeswalker and former guildmaster of the Orzhov Syndicate on Ravnica. In MKM she works alongside Alquist Proft to solve the Karlov Manor murders. Etrata is a Dimir vampire assassin who attended the Karlov Manor party in disguise and was captured after an attempted escape. [WebSearch snippet: Murders at Karlov Manor lore summary]",
+      "sources": ["Scryfall", "WebSearch snippet: MKM story Etrata Kaya"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Kaya is the only planeswalker in MKM who retained her spark through the Phyrexian invasion's Desparkening. Her presence in the set is significant: she is explicitly named in multiple flavor texts across the set and has her own legendary planeswalker card (Kaya, Spirits' Justice, MKM no. 211). [WebSearch snippet: Draftsim MKM planeswalkers]",
+      "sources": ["WebSearch snippet: Kaya Spirits Justice MKM", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Target creature gets +3/+0 and gains first strike until end of turn, plus Investigate (create a Clue token). Legal in Pauper (common), Standard, Pioneer, Modern, Legacy, Vintage, and Commander. The Investigate keyword ties it to MKM's broader detective-procedural mechanic suite — combat trick that also generates evidence. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kaya, Spirits' Justice", "set": "Murders at Karlov Manor", "note": "The planeswalker card for the named figure in this card's flavor text — only spark-retained planeswalker in MKM"},
+    {"name": "Etrata, Deadly Fugitive", "set": "Murders at Karlov Manor", "note": "The named fleeing figure in the flavor text — Dimir vampire assassin captured in the MKM story"},
+    {"name": "Kaya, Ghost Assassin", "set": "Conspiracy: Take the Crown", "note": "Kaya's debut card — first appearance of the character in MTG canon"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Kaya",
+    "ip_confidence": "high"
+  }
+}

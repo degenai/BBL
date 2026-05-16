@@ -1,0 +1,41 @@
+{
+  "card_name": "Innocent Bystander",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "133",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Innocent Bystander is a red 2/1 Goblin Citizen — the Scryfall type line confirms Goblin, not Elf, despite the pointed ears visible in the art (Goblins in Ravnica's visual language can be narrow-featured). The Citizen subtype marks it as unaffiliated with any guild [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Whoops, this isn't my street! Don't mind me! I'll just be on my way while you enjoy your . . . very sharp knives.\" — Speaker unnamed [Scryfall]. The ellipsis and fragmented sentence perfectly convey a character talking themselves out of a mugging — the kind of noir street comedy MKM deploys at common.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The trigger — Investigate when dealt 3 or more damage — turns the creature into a pain-triggered clue generator. It functions as a pseudo-incentive to let opponents attack through it, trading a 2/1 body for a Clue token. EDHREC rank 22898, confirming minimal Commander uptake [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Warren Mahy. Previewed via the official Wizards card gallery on 2024-01-19 [Scryfall preview data]. The Investigate keyword (Create a Clue token: artifact with 2, Sacrifice to draw a card) is one of MKM's four featured mechanics alongside Disguise, Collect Evidence, and Suspect [Scryfall, magic.wizards.com/en/news/feature/murders-at-karlov-manor-mechanics].",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/murders-at-karlov-manor-mechanics"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Clue (token)", "set": "Murders at Karlov Manor", "note": "Token created by the Investigate trigger; artifact that draws a card for 2 mana"},
+    {"name": "Magnifying Glass", "set": "Shadows over Innistrad", "note": "Earliest Investigate card; establishes the mechanic's functional lineage"},
+    {"name": "Gearbane Orangutan", "set": "Murders at Karlov Manor", "note": "Also a common red Creature in MKM with ETB interaction; thematic pair in the 2-3 CMC slot"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

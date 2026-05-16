@@ -1,0 +1,40 @@
+{
+  "card_name": "Galvanize",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "128",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Galvanize is a red instant from Murders at Karlov Manor (MKM), released 2024-02-09 on Ravnica — a murder-mystery set featuring the Ravnican Agency of Magicological Investigations (R.A.M.I.) solving a string of homicides [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Why doesn't Kylox put an off switch on these things?!\" — Speaker unnamed, referencing Kylox, the Izzet viashino artificer who invented the projektors used by R.A.M.I. detectives and who was one of MKM's murder victims [Scryfall, WebSearch snippet: draftsim.com].",
+      "sources": ["Scryfall", "WebSearch: draftsim.com MKM lore summary"]
+    },
+    {
+      "category": "design",
+      "text": "The spell deals 3 damage normally but 5 damage if two or more cards have been drawn this turn — a draw-payoff clause that rewards the set's Investigate/Clue-token card-draw engine in the same turn [Scryfall oracle text]. EDHREC rank 16898, indicating limited Constructed uptake outside the MKM draft environment [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The lizard-like figure in the art aligns with the viashino species prominent in Izzet guild lore — Kylox himself is described as a red-scaled viashino — though no oracle text or flavor text identifies the depicted figure as a named character [WebSearch snippet: draftsim.com].",
+      "sources": ["WebSearch: draftsim.com MKM lore summary"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kylox, Visionary Inventor", "set": "Murders at Karlov Manor", "note": "Named character referenced in flavor text; Izzet artificer and MKM murder victim"},
+    {"name": "Torch the Witness", "set": "Murders at Karlov Manor", "note": "Another red damage spell in MKM with Investigate payoff and witness-elimination theme"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

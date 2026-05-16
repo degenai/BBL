@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["seahorse", "ocean", "underwater", "spiky", "blue", "sea", "nature", "aquatic", "water", "depth"]
+tags_filter: ["solo", "mid-shot", "action", "three-quarter", "water-type", "creature"]
 reference_image: cards/_images/pokemon/burning-shadows/30-147-seadra.png
 average_cost_paid: 0
 market_price: 0.14
@@ -27,6 +27,34 @@ oracle_text: Water Arrow (Water): This attack does 30 damage to 1 of your oppone
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: ocean
+suspected_ip: Seadra (#117)
+ip_confidence: high
+ip_verified: false
 ---
 
 # Seadra (Burning Shadows)
+
+## Vision
+
+![30-147-seadra](../../_images/pokemon/burning-shadows/30-147-seadra.png)
+
+> [!warning] Suspected IP: **Seadra (#117)** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A blue, spiky seahorse-like creature floats in a deep underwater environment. The figure has a long snout, a prominent dorsal fin, and numerous sharp spines along its body and fins. The creature is mid-movement, its coiled tail trailing below. Around it, blue water and scattered bubbles fill the scene with soft aquatic light. The palette is dominated by deep blues and teals with white highlights from the bubbles.
+
+**Subject:** Seadra, a spiky seahorse-like creature in a deep underwater scene
+
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** ocean, indeterminate
+**Foreground:** spiny blue seahorse-creature floating in water with trailing coiled tail  *(palette: blue, teal, white)*
+**Background:** deep blue underwater with bubbles and filtered light  *(palette: deep-blue, teal, white)*
+**Mood / lighting:** action, ambient
+**Emotion read:** alert, swift
+**Objects:** bubbles
+**Creatures:** seahorse, sea-creature, aquatic-creature
+**Genre cues:** anime
+

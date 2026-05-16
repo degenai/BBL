@@ -53,3 +53,15 @@ A figure cloaked in a heavy dark hood and robe stands in front of a small thatch
 **Iconography:** red-apple, hooded-figure, cottage-in-the-woods
 **Genre cues:** fantasy, fairy-tale, gothic
 
+## Trivia
+
+- **Set context / fairy-tale reference** — Tempting Witch is a {2}{B} 1/3 Human Warlock (common) from Throne of Eldraine (ELD, 2019). The art — a hooded figure offering a red apple beside a thatched cottage — directly references the Evil Queen / Witch from Snow White, and the card's mechanics literalize the poisoned-apple trope: it enters creating a Food token, then can sacrifice that Food to drain 3 life from a target player (the "poisoning") [Scryfall; WebSearch: ELD flavor inspirations via coolstuffinc.com]. This places Tempting Witch as part of ELD's Snow White reference cluster alongside Glass Casket and Magic Mirror [WebSearch: ELD Eldraine Flavor Inspirations via mtgnexus.com].
+- **Flavor-text context** — `"Murder clad in crimson beauty, / An end to life and love and duty." —Barrow witch incantation` [Scryfall]. This is the second barrow-witch incantation in the set (alongside Reave Soul, ELD no. 103), both written as dark rhyming verse attributed to the same unnamed Wilds faction. The paired incantations appear to be a deliberate flavor micro-cycle across ELD's black common slot [Scryfall].
+- **Food token mechanic** — Tempting Witch is one of ELD's introductory Food-token cards; the Food token itself is a {2}{T}, sacrifice to gain 3 life artifact introduced in ELD as a central Limited resource and flavor theme. Tempting Witch flips the token from life-gain to life-loss via her activated ability, making the Food an instrument of harm rather than healing [Scryfall oracle text].
+- **Mechanical reputation** — EDHREC rank 16,075; sees play in Food-matters and lifegain-drain Commander strategies. Not a competitive Constructed staple [Scryfall EDHREC rank].
+
+### Related cards
+- Witch's Oven (ELD) — Food-creation artifact; same mechanical ecosystem; the Curious Pair fairy-tale cluster
+- Glass Casket (ELD) — Snow White reference cycle member
+- Reave Soul (ELD, no. 103) — shares "Barrow witch incantation" flavor-text attribution
+

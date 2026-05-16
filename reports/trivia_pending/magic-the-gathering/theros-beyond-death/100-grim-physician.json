@@ -1,0 +1,41 @@
+{
+  "card_name": "Grim Physician",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "100",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Theros Beyond Death centers on the Returned: mortals who escaped Theros's Underworld but surrendered their identities. They re-enter the living world with no memories, wearing golden funerary masks as surrogate selves. The name Noston comes from the Greek 'nostos,' meaning 'to return home.'",
+      "sources": ["WebSearch snippet: MTG Wiki: Returned"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'The Returned retain no memory of their identities, but sometimes they mindlessly attempt familiar tasks.' This is the canonical design statement of the Returned as a zombie typology: not undead-hungry, but hollow — muscle memory without self.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Grim Physician is a 1/1 for {B} with a death trigger that gives -1/-1 to an opponent's creature. Hipsters of the Coast rated it C, noting it 'hits 10/55 common creatures and trades with 11 two-toughness creatures in combat,' making it a limited role-player in sacrifice-oriented black strategies.",
+      "sources": ["Hipsters of the Coast: Every Common in Theros Beyond Death Reviewed"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The golden masks worn by the Returned are described as 'the last gifts of the selves they left behind' — crafted from gold, the most common material in Erebos's realm. The Grim Physician's hollow performance of medical tasks with no self-awareness is one of THB's more unsettling Returned depictions.",
+      "sources": ["WebSearch snippet: MTG Wiki: Returned"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Returned Pastcaller", "set": "THB", "note": "Returned creature sharing zombie subtype and golden-mask visual identity"},
+    {"name": "Tymaret, Chosen from Death", "set": "THB", "note": "Returned character elevated to legendary status, giving Returned narrative depth"},
+    {"name": "March of the Returned", "set": "THS", "note": "Original Theros card establishing the Returned as a named group"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

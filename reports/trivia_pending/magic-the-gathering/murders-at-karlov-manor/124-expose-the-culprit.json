@@ -1,0 +1,36 @@
+{
+  "card_name": "Expose the Culprit",
+  "game": "magic-the-gathering",
+  "set": "murders-at-karlov-manor",
+  "collector_number": "124",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Expose the Culprit is a modal instant that interacts with the Disguise and Cloak mechanics introduced in MKM. Disguise lets cards be cast face-down as a 2/2 with ward {2}, concealing their identity until turned face up. The 'expose' mode forces a face-down creature face up — the investigative reveal — while the second mode re-cloaks your own disguised creatures, resetting their hidden identities. The two modes together capture the MKM investigation theme: unmask the enemy, re-mask your allies. [Scryfall] [Wizards: MKM Mechanics]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/murders-at-karlov-manor-mechanics"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Ryan Valle depicts a grand ballroom scene — a central figure in a green dress with swirling red energy surrounded by a formal crowd including a blue-skinned figure. The composition is a classic unmasking set piece: the central figure turning mid-stride with red magic trailing suggests an involuntary or forced reveal. No flavor text on this card. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The second mode — exiling your own face-up creatures with disguise in a face-down pile, shuffling, and re-cloaking them — is a unique effect that resets ward {2} protections and re-randomizes which of your creatures is which, creating significant complexity for opponents trying to track. Legal in Standard, Pioneer, Modern, Legacy, Vintage, and Commander. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Alquist Proft, Master Sleuth", "set": "Murders at Karlov Manor", "note": "The detective figure whose investigative authority the card's name invokes"},
+    {"name": "Etrata, Deadly Fugitive", "set": "Murders at Karlov Manor", "note": "The Dimir assassin who attended the Karlov Manor event in disguise — the type of culprit this card is designed to expose"},
+    {"name": "Obscuring Haze", "set": "Commander Legends", "note": "Example of the Cloak-adjacent face-down design space in MTG history"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

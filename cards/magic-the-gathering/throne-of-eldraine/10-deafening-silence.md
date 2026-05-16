@@ -52,3 +52,16 @@ Three bald, weathered figures in dark hooded robes are arranged in a tight horiz
 **Iconography:** sealed-mouth, vow-of-silence, stitched-lips
 **Genre cues:** fantasy, dark-fantasy, religious-horror
 
+## Trivia
+
+- **Set context** — Deafening Silence is a white enchantment from Throne of Eldraine (ELD, October 2019), a fairytale-inspired set spanning five royal courts. The card belongs to Ardenvale, the white-aligned court whose identity centers on knighthood, oaths, and religious order [Scryfall].
+- **Flavor-text context** — `"They have forsaken their vows. The edict of the Circle demands their voices be silenced." —Syr Tasdale, knight of Ardenvale` [Scryfall]. The "Circle" references Ardenvale's governing religious body; Syr Tasdale is also named in Revenge of Ravens (ELD no. 104) and in that card's flavor text is duped by a witch named Ygretta, suggesting he is a recurring knightly figure across the set's black card cycle.
+- **Mechanical reputation** — Despite its {W} single-mana cost, Deafening Silence has proven a mainstay sideboard piece in Modern, Pioneer, and Legacy, primarily deployed as a "storm hate" enchantment that bottlenecks combo decks relying on multiple noncreature spells per turn [Scryfall legalities; WebSearch via mtgdecks.net]. It received a premium Showcase treatment as Special Guests no. 120 (released August 2025), indicating ongoing competitive relevance [Scryfall].
+- **Reprint history** — First printed ELD no. 10 (2019); Secret Lair Drop (2023); Mystery Booster 2 no. 9 (2024); Special Guests no. 120 (2025) — four total printings as of the date of research [Scryfall prints search].
+- **Design** — Artist Igor Kieryluk is a Polish illustrator with a long run of dark, painterly work for Magic; the composition of three sewn-shut mouths arranged as a triptych directly mirrors the enchantment's mechanical function of enforced silence on all players, making the art one of the cleaner mechanical-flavor alignments in the set [Scryfall].
+
+### Related cards
+- Revenge of Ravens (ELD, no. 104) — Syr Tasdale is named in both cards' flavor texts, making them flavor-linked through the Ardenvale knight's story arc
+- Ardenvale Tactician (ELD) — another Ardenvale knight with the same court affiliation, flavor-cycle neighbor
+- Silence (M11/TSR) — functional predecessor; white {W} spell that stops all spells for a turn rather than a per-turn limit
+

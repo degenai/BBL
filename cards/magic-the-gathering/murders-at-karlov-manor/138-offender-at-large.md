@@ -54,3 +54,15 @@ A hooded figure in a tan cloak with red-accented undershirt is caught mid-stride
 **Objects:** cobblestone plaza, cloak, debris
 **Genre cues:** fantasy, noir, crime
 
+## Trivia
+
+- **Set context** — Offender at Large is a red 5/4 Creature with type Giant Rogue. The Scryfall type line confirms Giant — unusual for a cloaked figure that reads as human-scaled in the art, but consistent with Ravnica's design practice of placing non-obvious Giant types on city-dwelling figures `[Scryfall]`.
+- **Mechanical design** — Disguise: cast face-down for 3 mana as a 2/2 with ward 2, then flip for 4R. The ETB or flip trigger grants a creature +2/+0 until end of turn. Disguise is MKM's named variant of Morph — the ward 2 on face-down creatures is the key upgrade, protecting against bounce and spot removal before the flip `[Scryfall oracle text, magic.wizards.com/en/news/feature/murders-at-karlov-manor-mechanics]`.
+- **Flavor text** — "In a city this big, anyone can blend in." — Imel of the Foundway Associates `[Scryfall]`. Imel is one of at least four named Foundway Associates members referenced across MKM flavor texts (also: Udol on Gearbane Orangutan, Runubi on Suspicious Detonation, Algrom on Torch the Witness) — a recurring secondary investigator ensemble distinct from R.A.M.I. `[Scryfall, WebSearch: MTG Salvation MKM lore]`.
+- **Design** — Artist: Mike Bierek. Related token: A Mysterious Creature — the generic face-down 2/2 representing all Disguise/Morph cards. EDHREC rank 25742 `[Scryfall]`.
+
+### Related cards
+- Goblin Maskmaker (MKM, no. 130) — reduces face-down spell costs including Offender at Large's Disguise cast
+- A Mysterious Creature (MKM) — the generic face-down token that represents Offender at Large when Disguised
+- Rubblebelt Braggart (MKM, no. 143) — also a large red creature at 5 CMC in MKM; thematic bookend in the criminal red commons
+

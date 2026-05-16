@@ -54,3 +54,15 @@ A knight in blue and gold plate armor stands in the foreground, holding a longsw
 **Iconography:** monster-slaying, knighthood, sword, beast-carcass
 **Genre cues:** fantasy, fairy-tale
 
+## Trivia
+
+- **Set context / Adventure mechanic** — Smitten Swordmaster // Curry Favor is an Adventure card from Throne of Eldraine (ELD, 2019), the set that introduced the Adventure mechanic. The creature face is a 2/1 Human Knight with lifelink at {1}{B}; the Adventure face, Curry Favor, is a {B} sorcery that drains X life from each opponent and gains you X life, where X equals your Knight count [Scryfall]. The synergy is tight: cast Curry Favor while other Knights are in play for a significant life swing, then cast the creature from exile as a lifelink body.
+- **Flavor-text context** — `"My quest? Why, to marry Ayara. Or die trying."` [Scryfall]. Ayara, First of Locthwain (ELD no. 75) is the legendary Elf Noble who rules the black court of Locthwain. Per lore, Ayara was an ancient elf who remained in the mortal realm after other elves withdrew to the Wilds; she extended her rule through binding oaths and was known to bury many suitors [WebSearch: Ayara MTG wiki via mtg.wiki]. The Swordmaster's stated ambition to marry Ayara reads as tragicomic hubris — a common human knight courting an immortal elf queen.
+- **Mechanical reputation** — EDHREC rank 7,674; sees play in Knight tribal Commander strategies, particularly under Ayara herself or other Knight-matters commanders. Curry Favor can be a game-winning drain effect in a full Knights board [Scryfall EDHREC rank; WebSearch: Smitten Swordmaster EDH].
+- **Design** — Artist Taylor Ingvarsson. First printing; not reprinted as of research date [Scryfall].
+
+### Related cards
+- Ayara, First of Locthwain (ELD, no. 75) — the named object of the Swordmaster's quest; flavor-direct connection
+- Acclaimed Contender (ELD) — Knight tribal payoff in the same set
+- Curry Favor (ELD, no. 105 — Adventure face) — functionally inseparable from the creature
+

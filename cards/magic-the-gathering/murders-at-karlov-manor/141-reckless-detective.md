@@ -52,6 +52,18 @@ A dynamic action scene of a small creature — visibly non-humanoid, with a long
 **Creatures:** goblin-type creature
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Reckless Detective is a red 0/3 Creature with type Devil Detective. The Scryfall type line confirms Devil — not Goblin. Devils are a distinct Ravnica creature type associated with chaos and the Rakdos Cult, visually overlapping with Goblins but carrying a separate type with its own lineage `[Scryfall]`.
+- **Mechanical design** — When it attacks, the controller may sacrifice an artifact or discard a card; if they do, draw a card and the creature gets +2/+0 until end of turn — turning it into a 2/3 attacker. The 0/3 base preserves its defensive blocking profile when not attacking. Not pauper-legal (uncommon) `[Scryfall legalities]`.
+- **Flavor text** — "He's gonna crack this thing wide open." — No speaker attributed `[Scryfall]`. The unattributed declarative reads as crowd commentary: someone watching the reckless detective charge a burning building. The confidence of the assertion against the chaos of the depicted action is the comedic tension.
+- **Design** — Artist: Tuan Duong Chu. Previewed by German outlet 4players on 2024-01-19. EDHREC rank 19527 `[Scryfall]`.
+
+### Related cards
+- Mayhem Devil (War of the Spark) — earlier red Devil creature on Ravnica; establishes the type's lineage on the plane
+- Reckless Impulse (Innistrad: Crimson Vow) — thematic naming precedent for reckless-labeled red card-advantage effects
+- Alquist Proft, Master Sleuth (MKM) — methodical detective; Reckless Detective is the chaotic foil to Proft's R.A.M.I. procedure
+
 ## Connections
 
 - [[agency]] — Agency roster card. The card name literally contains "Detective" — the canonical R.A.M.I. creature subtype introduced in *Murders at Karlov Manor* (85+ MKM prints) — and the depicted goblin-detective charging a burning interior is the Agency's red-coded reckless-rogue operational archetype. Where Burden of Proof and Eliminate the Impossible render Agency procedure as deliberation, this one renders Agency procedure as chaos. `[MTG Wiki: Detective (creature type)]` `[MTG Wiki: Ravnican Agency of Magicological Investigations]`

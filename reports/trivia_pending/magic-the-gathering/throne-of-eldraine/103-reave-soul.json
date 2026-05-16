@@ -1,0 +1,41 @@
+{
+  "card_name": "Reave Soul",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "103",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Reave Soul is a reprint — originally from Magic Origins (2015), then Iconic Masters (2017), ELD (2019), Jumpstart 2022, and The List (ORI-115, 2024). Five total printings.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text is a barrow witch incantation attributed to the Wilds faction — witches outside the five royal courts who practice vengeance-rooted folk magic. The same attribution ('Barrow witch incantation') appears on Tempting Witch (ELD 108), suggesting a deliberate flavor cycle across the set's black Wilds cards.",
+      "sources": ["Scryfall", "WebSearch: Throne of Eldraine flavor gems analysis via coolstuffinc.com"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Destroys target creature with power 3 or less at {1}{B} sorcery speed. EDHREC rank 20,096 — deep-cuts common, not a Commander staple.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Naomi Baker. The amethyst gem in the art directly literalizes the flavor text's 'into amethyst, I pour' line — strong art-flavor alignment in the common slot.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tempting Witch", "set": "Throne of Eldraine", "note": "Shares 'Barrow witch incantation' flavor-text attribution; same Wilds faction"},
+    {"name": "Reave Soul", "set": "Magic Origins", "note": "Original printing; identical oracle text"},
+    {"name": "Barrow Witches", "set": "Throne of Eldraine", "note": "Creature card depicting the barrow witch faction; flavor-cycle connection"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

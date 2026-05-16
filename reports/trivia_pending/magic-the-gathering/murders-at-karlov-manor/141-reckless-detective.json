@@ -1,0 +1,41 @@
+{
+  "card_name": "Reckless Detective",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "141",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Reckless Detective is a red 0/3 Creature with type Devil Detective — the Scryfall type line confirms Devil, not Goblin as the vision pass tentatively categorized. Devils are a distinct Ravnica creature type (associated with chaos and Rakdos) that visually overlap with Goblins but carry a separate creature type [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "When it attacks, the controller may sacrifice an artifact or discard a card; if they do, draw a card and this creature gets +2/+0 until end of turn. The 0/3 base power with +2/+0 on attack gives it 2/3 offensive stats while keeping a defensive blocker profile. It is an uncommon, not pauper-legal, unlike most of this batch [Scryfall legalities].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"He's gonna crack this thing wide open.\" — No speaker attributed [Scryfall]. The unattributed declarative reads as crowd commentary — someone watching the reckless detective charge in. The confidence of the claim against the chaos of the depicted action is the joke.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Tuan Duong Chu. Previewed by German outlet 4players on 2024-01-19 [Scryfall preview data]. EDHREC rank 19527 [Scryfall].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mayhem Devil", "set": "War of the Spark", "note": "Earlier red Devil creature on Ravnica; shows the creature type's lineage on the plane"},
+    {"name": "Reckless Impulse", "set": "Innistrad: Crimson Vow", "note": "Thematic naming precedent for reckless-labeled red card-draw effects"},
+    {"name": "Alquist Proft, Master Sleuth", "set": "Murders at Karlov Manor", "note": "Lead detective of R.A.M.I.; this card represents the chaotic foil to Proft's methodical approach"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

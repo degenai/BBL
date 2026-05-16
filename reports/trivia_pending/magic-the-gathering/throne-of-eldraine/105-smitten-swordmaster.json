@@ -1,0 +1,41 @@
+{
+  "card_name": "Smitten Swordmaster",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "105",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Adventure card: Curry Favor ({B} sorcery — drain X life from each opponent / gain X life, X = Knights you control) + Smitten Swordmaster (2/1 Human Knight, lifelink, {1}{B}). Tight synergy: cast Curry Favor with a full Knights board for massive life swing, then cast the creature from exile.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'My quest? Why, to marry Ayara. Or die trying.' Ayara, First of Locthwain (ELD 75) is an immortal elf queen who buried many suitors through the centuries. The Swordmaster's ambition reads as tragicomic hubris — a common human knight courting an ancient elf ruler.",
+      "sources": ["Scryfall", "WebSearch: Ayara MTG lore via mtg.wiki"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 7,674. Sees Knight tribal Commander play; Curry Favor can be a win-con drain effect with a full board.",
+      "sources": ["Scryfall EDHREC rank", "WebSearch: Smitten Swordmaster EDH via tappedout.net"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Taylor Ingvarsson. First and only printing as of research date.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ayara, First of Locthwain", "set": "Throne of Eldraine", "note": "Named object of the Swordmaster's quest; flavor-direct connection"},
+    {"name": "Acclaimed Contender", "set": "Throne of Eldraine", "note": "Knight tribal payoff, same set"},
+    {"name": "Curry Favor", "set": "Throne of Eldraine", "note": "Adventure face; functionally inseparable from the creature"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

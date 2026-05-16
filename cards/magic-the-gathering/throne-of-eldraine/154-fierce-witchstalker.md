@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["wolf", "predator", "monster", "forest", "night", "glowing-eyes", "horror", "beast", "hunt", "fog"]
+tags_filter: ["solo", "forward-facing", "mid-shot", "creature", "secondary-figures-unresolved"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/154-fierce-witchstalker.png
 average_cost_paid: 0
 market_price: 0.16
@@ -29,6 +29,27 @@ oracle_text: Trample (This creature can deal excess combat damage to the player 
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: night
+setting: forest
 ---
 
 # Fierce Witchstalker (Throne of Eldraine)
+
+## Vision
+
+![154-fierce-witchstalker](../../_images/magic-the-gathering/throne-of-eldraine/154-fierce-witchstalker.png)
+
+A massive wolf-like creature with dark fur and an enormous spiky or bristling mane charges directly toward the viewer, mouth open to show large fangs. Its eyes glow with a faint red light. The creature is low to the ground, muscles bunched for the lunge. Far in the misty background to the left, a small campfire glows and a tiny humanoid figure can be faintly made out — an implied victim or prey. The forest around is dark, misty, and unwelcoming.
+
+**Subject:** large dark spiky-maned wolf creature charging through misty forest, glowing eyes, small figures visible far in background
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** forest, night, fog
+**Foreground:** large dark spiky-maned wolf creature, mouth open, charging  *(palette: dark-grey, blue-grey, black)*
+**Background:** misty dark forest, distant campfire glow  *(palette: dark-green, grey, orange-glow)*
+**Mood / lighting:** horror, ambient
+**Emotion read:** predatory ferocity, terror
+**Creatures:** wolf, beast
+**Genre cues:** fantasy, fairy-tale
+

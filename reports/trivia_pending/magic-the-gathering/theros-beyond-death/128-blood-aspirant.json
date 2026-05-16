@@ -1,0 +1,42 @@
+{
+  "card_name": "Blood Aspirant",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "128",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Satyrs on Theros are Dionysian figures aligned with Xenagos (former god of revels). They embody chaos, intoxication, and revel that tips into violence — the flavor register of Blood Aspirant. Flavor text: 'It's a small step from revel to bloodbath.'",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Blood Aspirant is a 1/1 Satyr Berserker for {1}{R} (uncommon) that gets +1/+1 counters whenever you sacrifice a permanent and has a tap/sacrifice-to-ping ability. It saw competitive play in Rakdos Sacrifice decks alongside Cauldron Familiar and Witch's Oven, where a single Familiar/Oven loop could take it from 1/1 to 3/3 in one turn cycle. Dotesports described it as comparable to Mayhem Devil in sacrifice payoff density.",
+      "sources": ["WebSearch snippet: Dotesports: Sacrifice triggers increase with Bloodrush Aspirant", "WebSearch snippet: blog.blacklotusgo.com: Rakdos Sacrifice with THB"]
+    },
+    {
+      "category": "design",
+      "text": "Blood Aspirant is the only Uncommon in this 10-card THB batch; the other nine are Commons. Its sacrifice-payoff breadth (any permanent, not just creatures) makes it more powerful than most commons in sacrifice shells.",
+      "sources": ["Scryfall rarity: uncommon"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank: 14,579 — the highest (most-played) in this 10-card batch by a substantial margin, reflecting utility as a sacrifice-payoff in black-red Commander sacrifice strategies.",
+      "sources": ["Scryfall: edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mayhem Devil", "set": "WAR", "note": "Direct design comparison for Blood Aspirant's sacrifice-trigger payoff role; frequently paired in Rakdos Sacrifice"},
+    {"name": "Woe Strider", "set": "THB", "note": "THB uncommon in the same sacrifice-engine cluster"},
+    {"name": "Cauldron Familiar", "set": "ELD", "note": "The sacrifice loop engine most frequently paired with Blood Aspirant in Standard"},
+    {"name": "Xenagos, the Reveler", "set": "THS", "note": "Canonical god of satyrs and revelry; lore patron of the satyr creature type"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

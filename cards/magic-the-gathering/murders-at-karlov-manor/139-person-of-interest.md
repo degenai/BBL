@@ -53,3 +53,15 @@ A male-presenting humanoid figure dominates the foreground in three-quarter view
 **Objects:** spiked armor, firearm, cape, torn banners, debris
 **Genre cues:** fantasy, noir, crime
 
+## Trivia
+
+- **Set context** — Person of Interest is a red 2/2 Human Rogue. Its ETB applies the Suspect designation to itself and creates a 2/2 white-blue Detective token — an unusual cross-color production for a mono-red card, placing a piece for MKM's detective theme directly into the opponent's opponent's hand `[Scryfall]`.
+- **Mechanical design** — Suspect is one of MKM's four featured mechanics. A suspected creature gains menace and cannot block. Person of Interest self-suspects on ETB, making itself immediately evasive — a 2/2 with menace that also leaves a Detective behind is notable value at 3R `[Scryfall oracle text, magic.wizards.com/en/news/feature/murders-at-karlov-manor-mechanics]`.
+- **Flavor text** — "'Maybe they're following someone else,' Alvis thought to himself, despite mounting evidence to the contrary." — Narrator, about Alvis `[Scryfall]`. Alvis appears only in this flavor text; the line is dry noir: a suspect in denial against accumulating surveillance. No confirmed wider lore presence beyond this card `[WebSearch: Person of Interest MKM flavor text]`.
+- **Design** — Artist: Justyna Dura. Previewed by community creator Shivam Bhatt on 2024-01-23. EDHREC rank 24606 `[Scryfall]`.
+
+### Related cards
+- Rubblebelt Braggart (MKM, no. 143) — second Suspect-keyword card in this batch; both are red MKM creatures
+- Detective (token, MKM) — 2/2 white-blue token created by Person of Interest's ETB
+- Alquist Proft, Master Sleuth (MKM) — lead detective of R.A.M.I.; the investigation apparatus that makes Person of Interest's suspect designation narratively resonant
+

@@ -32,9 +32,9 @@ image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: indoor
-suspected_ip: Judith
-ip_confidence: low
-ip_verified: false
+suspected_ip: ""
+ip_confidence: none
+ip_verified: true
 ---
 
 # Soul Enervation (Murders at Karlov Manor)
@@ -43,8 +43,8 @@ ip_verified: false
 
 ![106-soul-enervation](../../_images/magic-the-gathering/murders-at-karlov-manor/106-soul-enervation.png)
 
-> [!warning] Suspected IP: **Judith** (confidence: low, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP refuted
+> Vision flagged Judith as the depicted figure (low confidence). The art shows a pale kneeling figure wreathed in soul-smoke — consistent with Agrus Kos being imprisoned, not Judith acting. Judith's canonical appearance (Rakdos performer, black-red leather, red lips) does not match the depicted subject. Flavor text narrates Judith's offscreen action; the art shows the consequence. `[Scryfall flavor text + WebSearch: Judith MTG canonical appearance]`
 
 A pale, bald or closely-cropped humanoid figure kneels at center, dressed in dark red-black layered armor or clothing with a draped shoulder piece. The figure's hands rest at their sides as swirling white-pink soul-smoke energy rises around and beneath them — coiling in ghostly spirals that emanate from the ground and pool around the kneeling figure. The chamber behind them is a deep saturated red with dark vertical elements, and on the upper left and right walls are symmetrical stylized trident or pitchfork-like symbols in dark red-orange. The floor appears to reflect light as if wet or glass-like. The flavor text references Judith as the orchestrator, but the depicted figure's appearance does not provide enough visual evidence to confirm this is Judith specifically.
 
@@ -59,4 +59,17 @@ A pale, bald or closely-cropped humanoid figure kneels at center, dressed in dar
 **Objects:** trident symbols, soul-smoke energy, wet or reflective floor
 **Iconography:** trident-fork symbols, soul-smoke
 **Genre cues:** fantasy
+
+**Refuted IP candidate:** Judith (vision flagged, triviabot refuted)
+
+## Trivia
+
+- **Flavor text** — `"Judith's plan was close to fruition. She couldn't have Agrus get in the way."` `[Scryfall]` In the MKM storyline, Judith (Rakdos Scourge Diva, card: Judith, Carnage Connoisseur) imprisoned Agrus Kos — a legendary Boros spirit detective and returning Ravnica character — in a crystal skull at Rix Maadi to prevent him from exposing her plot to frame Rakdos for the Karlov Manor murders. `[WebSearch snippet: Murders at Karlov Manor lore summary]`
+- **IP refutation** — Vision pass flagged the kneeling pale figure as possibly Judith. Research refutes this: Judith is canonically a theatrical performer with black-and-red leather, flowing velvet, and red lips. The depicted kneeling pale-armored figure does not match. The flavor text names Judith as the offscreen actor; the art depicts the consequence — likely Agrus Kos being enervated or imprisoned. `[WebSearch snippet: Judith canonical appearance]` `[Scryfall flavor text]`
+- **Mechanical note** — Flash instant-speed enchantment with -4/-4 removal on entry plus a lifedrain trigger whenever creature cards leave your graveyard. Synergizes with graveyard-recursive black strategies. Legal in Standard through Vintage as of MKM release 2024-02-09. `[Scryfall]`
+
+### Related cards
+- Judith, Carnage Connoisseur (Murders at Karlov Manor) — the named actor in the flavor text, MKM secondary antagonist
+- Agrus Kos, Spirit of Justice (Murders at Karlov Manor, no. 184) — the named target in the flavor text, Boros spirit detective
+- Rix Maadi Reveler (Ravnica Allegiance) — Rakdos card from Judith's underground club setting
 

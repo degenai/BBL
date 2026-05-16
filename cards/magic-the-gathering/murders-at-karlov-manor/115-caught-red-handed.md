@@ -52,3 +52,15 @@ A close-mid shot of a humanoid figure in a dark formal coat with decorative trim
 **Iconography:** gear motif, clock imagery
 **Genre cues:** fantasy, noir
 
+## Trivia
+
+- **Flavor text** — `"Wait, stop! I've been framed! Extremely convincingly!"` `[Scryfall]` The quote is unattributed — a panicked anonymous voice that embodies the Suspect mechanic's conceit exactly: the creature is forced into an aggressive role under accusation while protesting innocence. "Extremely convincingly" undercuts the protest — the speaker knows they look guilty.
+- **Mechanical note** — Red temporary theft (steal + untap + haste until end of turn) with MKM's Suspect keyword layered on top: the stolen creature gains menace and can't block, weaponizing it and leaving it exposed when it returns. The spell is explicitly uncounterable — including by ward abilities — making it relevant in Commander and high-ward environments. `[Scryfall]` `[Wizards: MKM Mechanics]`
+- **Set / lore context** — The Suspect mechanic designates a creature as under active suspicion: it gains menace and cannot block. Designed for MKM's noir investigative theme — being accused changes how you move through the world. Caught Red-Handed is one of the Suspect-keyword anchors in the MKM set. `[Scryfall]` `[Wizards: MKM Mechanics]`
+- **Design** — Art by Donato Giancola, a veteran MTG artist across many sets. The figure pressed against an ornate gold-and-crimson clockwork wall with a raised defensive hand reads as a classic noir "caught in the act" composition. Gear and clockwork motifs suggest Azorius or Boros guild-hall aesthetics — the institutional enforcers of law on Ravnica. `[Scryfall]`
+
+### Related cards
+- Convenient Target (Murders at Karlov Manor, no. 119) — second Suspect-keyword anchor in the BBL corpus, red aura that suspects the enchanted creature
+- Act of Treason (Magic 2010) — closest functional analog; Caught Red-Handed layers Suspect on top of the standard theft pattern
+- Alquist Proft, Master Sleuth (Murders at Karlov Manor) — investigator archetype whose legal authority the Suspect mechanic procedurally mirrors
+

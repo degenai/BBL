@@ -1,0 +1,37 @@
+{
+  "edge_id": "wave90-e1-kaya-node-decision",
+  "shape": "node-proposal",
+  "category": "named-character-identity",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/kaya.md", "name": "Kaya"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/116-the-chase-is-on.md", "name": "The Chase Is On (MKM-116)"}
+  ],
+  "description": "M-mister Edgelord, sir, if I might step in: the answer is yes, Kaya clears. Apologies for the inconvenience. The threshold-of-3 wants ≥3 substantive corpus anchors and we get six — one verified depiction at MKM-116 (ip_verified: true, high confidence, pink-violet phasing-orb signature confirmed by Diego Gisbert art + flavor text naming Kaya pursuing Etrata), plus four flavor-text-speaker prints where Kaya is the in-universe voice the card attributes (RNA-252 Orzhov Guildgate's gilded-lie register, WAR-106 Spark Reaper's Eternal-rude-but-unstoppable line, CLB-878 Talisman of Hierarchy's get-to-the-top quip, MKM-159 Fanatical Strength's off-camera ambush taunt), plus one flavor-text-named print (MKM-312 Deadly Complication, the dead-friend-and-multiplying-questions narrative-aftermath beat). Add to that the Valgavoth-precedent bonus — named planeswalker card existing in same set as verified depiction (Kaya, Spirits' Justice MKM-211) — and the load-bearing-across-arc-thesis condition (Kaya is canonically the Orzhov guildmaster from RNA 2019 forward, a Gatewatch co-leader against Bolas in WAR 2019, the MKM 2024 co-investigator, and the only confirmed-spark-retainer planeswalker post-Desparkening). Four sets, five years of canon, sustained flavor-voice arc. I hope this is alright. The three related-card-citation prints (MKM-125, WAR-81, M21-35, MH3-132) aren't counted toward threshold — they're tracked in the Aspects section as graph-context only. Comfortable clearance, sir.",
+  "citations": [
+    "[Scryfall flavor text: The Chase Is On MKM-116]",
+    "[Scryfall: Kaya, Spirits' Justice MKM-211]",
+    "[Scryfall flavor text: Orzhov Guildgate RNA-252]",
+    "[Scryfall flavor text: Spark Reaper WAR-106]",
+    "[Scryfall flavor text: Talisman of Hierarchy CLB-878]",
+    "[Scryfall flavor text: Fanatical Strength MKM-159]",
+    "[Scryfall flavor text: Deadly Complication MKM-312]",
+    "[MTG Wiki: Kaya, Ghost Assassin]",
+    "[MTG Wiki: Orzhov Syndicate — guildmaster section]",
+    "[Wizards of the Coast Planeswalker's Guide: Ravnica Allegiance 2019]",
+    "[Wizards of the Coast Planeswalker's Guide: War of the Spark 2019]",
+    "[Wizards story pages: Murders at Karlov Manor 2024]"
+  ],
+  "files_modified": [
+    "cards/_characters/kaya.md",
+    "cards/magic-the-gathering/murders-at-karlov-manor/116-the-chase-is-on.md",
+    "reports/edges_pending/wave90-e1-kaya-node-decision.json"
+  ],
+  "other_candidates_considered": [
+    "Etrata, Deadly Fugitive solo node — deferred. Corpus presence is only the MKM-116 art-pairing-with-Kaya; no verified-depiction-only print. Park as triage candidate; revisit if a future MKM or GRN corpus acquisition lands an Etrata-anchored card.",
+    "kaya-orzhov-guildmaster + kaya-mkm-detective sub-aspect split — deferred. Single parent holds at 6 anchors; sub-split unwarranted until corpus density per-aspect exceeds threshold individually (Tamiyo / Bolas / Trunks precedent).",
+    "Edge to [[orzhov-syndicate]] node — noted in node-body See-also and Caveats; should be wired into orzhov-syndicate's related_characters: when that node is next touched. Not part of this pass.",
+    "Edge to [[nicol-bolas]] node — noted in node-body See-also (WAR resistance lore frame). Not part of this pass."
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

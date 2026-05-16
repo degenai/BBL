@@ -52,3 +52,15 @@ A long-haired witch in dark flowing robes stands with arms outstretched on a rai
 **Iconography:** raised-arms, hex-gesture, elevated-figure-over-crowd
 **Genre cues:** fantasy, dark-fantasy, fairy-tale-gothic
 
+## Trivia
+
+- **Set context** — Witch's Vengeance is a {1}{B}{B} sorcery (rare) from Throne of Eldraine (ELD, 2019). It is a first printing with no reprints [Scryfall]. The oracle text — "Creatures of the creature type of your choice get -3/-3 until end of turn" — makes it a tribal board wipe that can be deployed asymmetrically: choose a type your opponents play but you don't, and it functions as a one-sided -3/-3 sweeper [Scryfall oracle text].
+- **Flavor-text context** — `"The hex swept through the village, its citizens falling one by one."` [Scryfall]. Unusually spare flavor text for a rare; the line frames the card as a mass-affliction event without naming an agent. The art provides the agent — a witch elevated above a crowd on a dais — but the flavor text deliberately withholds her name, sustaining ambiguity about which witch is responsible [Scryfall].
+- **Mechanical reputation** — EDHREC rank 21,193; the rare rarity belies modest Commander adoption. Its power is format-context dependent: in tribal-heavy metas it becomes a game-ending swing; in diverse-creature metas it is a narrow removal piece. Community discussions on r/EDH note it as a sleeper in tribal mirrors and as a hate piece versus popular creature types like Elves, Goblins, or Dragons [WebSearch: Witch's Vengeance tribal boardwipe via boardwipe.com, medium.com].
+- **Design** — Artist Titus Lunter, a Dutch illustrator with extensive MTG credits. The elevated-witch-over-crowd composition inverts the typical power dynamic of fantasy art: the persecuted witch (a common ELD Wilds-faction figure) is here the one dispensing punishment from above [Scryfall].
+
+### Related cards
+- Yahenni's Expertise (Aether Revolt) — comparable -3/-3 tribal/all-creature wipe for comparison
+- Kindred Dominance (Commander 2017) — another tribal board wipe; the high-power baseline
+- Tempting Witch (ELD, no. 108) — set-mate witch; same ELD Wilds faction
+

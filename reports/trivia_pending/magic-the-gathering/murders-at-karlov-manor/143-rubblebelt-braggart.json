@@ -1,0 +1,41 @@
+{
+  "card_name": "Rubblebelt Braggart",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "143",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Rubblebelt Braggart is a red 5/5 Creature with type Lizard Warrior. The Rubblebelt is Ravnica's discontinuous wasteland territory held by the Gruul Clans — overgrown ruins on the fringes of the Tenth District's ordered guild zones. Lizard Warriors (distinct from Viashino, which were retooled in Modern Horizons 3) are an established Gruul-adjacent creature type, with Rubblebelt Runner from Ravnica Allegiance as an earlier example [Scryfall, WebSearch: mtg.wiki/page/Gruul_Clans].",
+      "sources": ["Scryfall", "WebSearch: mtg.wiki Gruul Clans"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Suspect keyword is MKM's murder-mystery mechanic: a suspected creature gains menace and cannot block. Rubblebelt Braggart self-suspects on attack (if not already suspected), voluntarily trading its blocking ability for menace — a strong trade for a 5/5 that does not need to block [Scryfall oracle text, magic.wizards.com/en/news/feature/murders-at-karlov-manor-mechanics].",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/murders-at-karlov-manor-mechanics"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"I did it! Double — no, triple homicide! In a building I set on fire. Yep, all me.\" — Speaker unnamed (the Braggart themselves, implied) [Scryfall]. The escalating confession — doubling from double to triple homicide mid-sentence — is a perfect comedic beat for a creature type called Braggart: claiming credit for crimes as social currency.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Leonardo Santanna. EDHREC rank 25895 — low Commander uptake, consistent with a 5-mana common facing stiff competition at that cost [Scryfall]. Previewed via the official Wizards card gallery on 2024-01-23 [Scryfall preview data].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rubblebelt Runner", "set": "Ravnica Allegiance", "note": "Earlier Lizard Warrior from the Rubblebelt — establishes the creature type's MKM lineage"},
+    {"name": "Person of Interest", "set": "Murders at Karlov Manor", "note": "Second Suspect-keyword card in this batch; both are red and MKM-native"},
+    {"name": "Skarrgan Hellkite", "set": "Ravnica Allegiance", "note": "Another high-power red Gruul-adjacent creature from Ravnica lore"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

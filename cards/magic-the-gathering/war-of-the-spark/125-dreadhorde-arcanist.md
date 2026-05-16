@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["undead", "arcanist", "magic", "mask", "dark-magic", "staff", "ruins", "city", "villain", "zombie"]
+tags_filter: ["solo", "forward-facing", "mid-shot", "creature"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/125-dreadhorde-arcanist.png
 average_cost_paid: 0
 market_price: 0.61
@@ -28,6 +28,27 @@ oracle_text: Trample\nWhenever this creature attacks, you may cast target instan
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: grim
+time_of_day: indeterminate
+setting: urban
 ---
 
 # Dreadhorde Arcanist (War of the Spark)
+
+## Vision
+
+![125-dreadhorde-arcanist](../../_images/magic-the-gathering/war-of-the-spark/125-dreadhorde-arcanist.png)
+
+A tall, slender humanoid figure strides forward in dark blue-black segmented armor and flowing dark robes. The figure's face is covered by an angular dark mask, obscuring any features entirely. It holds a long golden rod or staff in one hand, from which a glowing purple-violet magical energy emanates. Behind the figure, the skyline of what appears to be a ruined or haze-covered city with tall spires is visible through golden atmospheric haze. Tattered banners or cloth hang in the background. The figure's posture is commanding and purposeful.
+
+**Subject:** tall dark-armored figure with a masked face holding a golden staff emitting purple magical energy, city ruins in background
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** urban, gothic, indeterminate, smoke
+**Foreground:** dark-armored masked figure with golden staff emitting purple energy  *(palette: dark-blue, black, gold)*
+**Background:** city ruins, golden haze, tattered banners  *(palette: gold, grey, muted-red)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** ruthless purpose, cold command
+**Objects:** staff, mask
+**Genre cues:** fantasy
+

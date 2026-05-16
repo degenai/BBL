@@ -1,0 +1,42 @@
+{
+  "card_name": "Venomous Hierophant",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "122",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged. Flavor text explicitly names Pharika; card wires to [[theros-pantheon]].",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Flavor text names Pharika directly: 'Many have sought snake-twined Pharika's panacea. Do you wish to share their fate?' Pharika is the God of Affliction on Theros — black-green aligned, governing disease, poison, and medicine. She is mother of all Theros gorgons and herself thought to take gorgon form; her cures 'frequently carry a painful or costly price.' The Venomous Hierophant, as a Gorgon Cleric, is a direct servant of Pharika. Wires to [[theros-pantheon]].",
+      "sources": ["Scryfall flavor_text", "WebSearch snippet: MTG Wiki: Pharika"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The 'panacea' in the flavor text is Pharika's legendary cure — a healing draught that can save or destroy depending on dosage. Seekers of this cure become the Hierophant's victims. The card's mill-three ETB mechanic can be read as the 'taste' of Pharika's knowledge: gaining access (graveyard becomes Escape fuel) at a cost.",
+      "sources": ["Scryfall oracle_text, flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Venomous Hierophant is a 3/3 Gorgon Cleric for {3}{B} with Deathtouch and a mill-three ETB. Deathtouch is Pharika's canonical domain. The mill feeds THB's Escape mechanic. Hipsters of the Coast rated it C: 'A fine attacker, a reasonable blocker, and a relevant enters-the-battlefield ability all combine to make Venomous Hierophant more than the sum of its parts.'",
+      "sources": ["Hipsters of the Coast: Every Common in Theros Beyond Death Reviewed"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Johannes Voss, recognized in the MTG community for a painterly, intimate rendering style. Voss has illustrated several high-profile MTG cards across multiple sets.",
+      "sources": ["Scryfall artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pharika, God of Affliction", "set": "JOU", "note": "The named god in the flavor text; Gorgon deity and canonical lord of this Hierophant"},
+    {"name": "Pharika's Cure", "set": "THS", "note": "Black spell named after Pharika's healing/harming duality"},
+    {"name": "Hythonia the Cruel", "set": "THS", "note": "Another Theros legendary Gorgon, sharing creature type and snake-hair visual identity"},
+    {"name": "Snakeskin Veil", "set": "THB", "note": "Green THB snake-themed protective spell adjacent to Pharika's green-black domain"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

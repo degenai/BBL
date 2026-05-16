@@ -1,0 +1,37 @@
+{
+  "card_name": "Omen of the Dead",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "110",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Omen of the Dead is part of the five-card Omen cycle in THB, one enchantment per color: Omen of the Sun (white), Omen of the Sea (blue), Omen of the Dead (black), Omen of the Forge (red), and Omen of the Hunt (green). All five have Flash, an ETB effect, and a sacrifice-for-Scry-2 mode. The cycle was designed to function as both Constellation triggers and pseudo-instant utility, feeding the set's Flash-matters subtheme.",
+      "sources": ["WebSearch snippet: Star City Games / Wizards mechanics article", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At {B} with Flash, Omen of the Dead is one of the cheapest reanimation effects in Pauper and Pioneer, functioning as instant-speed creature recovery that also enters as an enchantment for Constellation value. Hipsters of the Coast rated it C but noted 'a ton of utility here for one mana' across Flash-matters, Constellation, and Devotion strategies.",
+      "sources": ["Hipsters of the Coast: Every Common in Theros Beyond Death Reviewed", "Scryfall legalities"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'My time will come, when life's frantic striving will fade into the boundless quiet of death.' Speaker is unattributed in this printing. The line reads as a mortal's meditation on death's inevitability, fitting the card's mechanical theme of accepting the graveyard as a resource rather than a loss.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Omen of the Sun", "set": "THB", "note": "White cycle member; Flash enchantment creating two 1/1 Soldiers and gaining 2 life"},
+    {"name": "Omen of the Sea", "set": "THB", "note": "Blue cycle member; Flash enchantment that scrys 2 and draws a card"},
+    {"name": "Omen of the Forge", "set": "THB", "note": "Red cycle member; Flash enchantment dealing 2 damage to any target"},
+    {"name": "Omen of the Hunt", "set": "THB", "note": "Green cycle member; Flash enchantment that searches for a basic land"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

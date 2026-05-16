@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["countryside", "pastoral", "horizon", "cottage", "standing-stones", "landscape", "freedom", "home", "journey", "sky"]
+tags_filter: ["solo", "away", "wide", "land", "scene-mode"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/246-idyllic-grange.png
 average_cost_paid: 0
 market_price: 0.31
@@ -29,6 +29,27 @@ oracle_text: ({T}: Add {W}.)\nThis land enters tapped unless you control three o
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: peaceful
+time_of_day: day
+setting: other
 ---
 
 # Idyllic Grange (Throne of Eldraine)
+
+## Vision
+
+![246-idyllic-grange](../../_images/magic-the-gathering/throne-of-eldraine/246-idyllic-grange.png)
+
+A humanoid figure in a long dress stands in the foreground of a sweeping landscape painting, looking out across rolling green fields. Two large standing stones rise to the left of the figure. In the distance, a small stone cottage with a chimney emitting a thin curl of smoke sits among trees. A winding dirt path leads away into the landscape. Above, dramatic white clouds billow in a mostly blue sky with a bright light source. The figure's reddish hair is visible from this distance. The mood is peaceful, pastoral, and aspirational.
+
+**Subject:** a figure with visible reddish hair standing on a hill overlooking rolling green countryside with a cottage and standing stones
+
+**Composition:** wide, narrative, figures: solo, facing: away
+**Setting:** other, organic, day, clear
+**Foreground:** figure in dress with reddish hair, standing stones  *(palette: green, brown, red-hair)*
+**Background:** rolling countryside, cottage, dramatic clouds, blue sky  *(palette: green, blue, white, gold)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** aspiration, quiet longing, at peace with the horizon
+**Objects:** standing-stones, cottage, path
+**Genre cues:** fantasy, fairy-tale
+

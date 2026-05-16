@@ -52,3 +52,15 @@ A gaunt hooded specter looms in near-monochrome darkness, its bony hand outstret
 **Iconography:** reaching-hand, veil, skeletal-hand
 **Genre cues:** fantasy, gothic, fairytale-horror
 
+## Trivia
+
+- **Set context / design** — Reaper of Night // Harvest Fear is a double-faced Adventure card from Throne of Eldraine (ELD, 2019), the set that introduced the Adventure mechanic. The Adventure side — Harvest Fear — is a {3}{B} sorcery that forces an opponent to discard two cards, while the creature itself is a 4/5 Specter that gains flying on attack if the defending player has two or fewer cards in hand, creating a mechanical loop: use the Adventure to deplete a hand, then attack with a creature that punishes the empty hand [Scryfall].
+- **Mechanical reputation** — At a mana cost of {5}{B}{B} for the creature, Reaper of Night is a top-end finisher for Limited and sees minimal Constructed play; its EDHREC rank is 23,288, placing it squarely in niche casual territory. However, it is legal in Pauper (common rarity) and PauperCommander, where a 4/5 body plus built-in discard is more relevant [Scryfall legalities].
+- **Design** — Artist Jeff Simpson. The card has no flavor text on either face [Scryfall]. The art's "spectral bride" figure fused into the wraith silhouette is a distinctive compositional choice for a creature that is mechanically adjacent to classic specters (discard-based punishment), bridging gothic horror and fairy-tale mourning imagery.
+- **Type line** — The creature face is typed as Specter, a creature type with a long history in black-mana discard payoffs stretching back to Hypnotic Specter (Alpha, 1993). ELD's Reaper of Night is among the few Adventure-creature Specters in the game's history [Scryfall type line].
+
+### Related cards
+- Hypnotic Specter (Alpha/reprint) — ancestral Specter discard creature; same mechanical archetype
+- Rankle, Master of Pranks (ELD) — another ELD black flier that leverages hand disruption
+- Specter's Shriek (ELD, no. 106) — set-mate sorcery also themed around spectral extraction of mental content
+

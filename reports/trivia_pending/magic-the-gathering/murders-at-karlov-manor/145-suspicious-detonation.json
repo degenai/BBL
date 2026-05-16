@@ -1,0 +1,41 @@
+{
+  "card_name": "Suspicious Detonation",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "145",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Suspicious Detonation is a red Sorcery from Murders at Karlov Manor — a murder-mystery set on Ravnica. The flavor text's observation (\"Clearly someone wanted us to find this\") positions the detonation as a clue planted by the murderer, consistent with the set's whodunit narrative structure [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card costs 4R normally, but reduces by 3 if an artifact was sacrificed this turn — making it functionally a 1R spell in artifact-sacrifice builds. It also cannot be countered (including by ward). The uncounterability clause is unusual for a common sorcery and significantly improves its value in combo-protection contexts [Scryfall oracle text].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Clearly someone wanted us to find this.\" — Runubi of the Foundway Associates [Scryfall]. Runubi is one of at least four named Foundway Associates members referenced across MKM flavor texts (also: Udol on Gearbane Orangutan, Imel on Offender at Large, Algrom on Torch the Witness). The Associates function as a secondary investigator ensemble distinct from R.A.M.I. [Scryfall, WebSearch: MTG Salvation MKM flavor text compilation].",
+      "sources": ["Scryfall", "WebSearch: MTG Salvation MKM lore thread"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Joe Slucher. EDHREC rank 22414 [Scryfall]. The spiral-shell mechanical device in the art has no named in-world object; it reads generically as an Izzet-style arcane explosive rather than a canonically identified construct [Scryfall — no lore note].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Galvanize", "set": "Murders at Karlov Manor", "note": "Another uncounterable-effect red spell in MKM; thematic pairing of Izzet-sourced destruction"},
+    {"name": "Gearbane Orangutan", "set": "Murders at Karlov Manor", "note": "Artifact sacrifice outlet that enables Suspicious Detonation's cost reduction in the same turn"},
+    {"name": "Torch the Witness", "set": "Murders at Karlov Manor", "note": "Also a red removal sorcery in MKM with a Foundway Associates flavor-text witness angle"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

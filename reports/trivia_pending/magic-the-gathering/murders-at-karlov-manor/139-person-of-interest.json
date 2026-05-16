@@ -1,0 +1,41 @@
+{
+  "card_name": "Person of Interest",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "139",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Person of Interest is a red 2/2 Human Rogue. Its ETB effect applies the Suspect designation to itself and creates a 2/2 white-blue Detective token — an unusual cross-color ETB for a mono-red card, producing a piece for the set's Detective theme [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Suspect keyword is one of MKM's four featured mechanics. A suspected creature gains menace and cannot block for as long as it remains suspected. Suspect can be applied to your own or opponents' creatures — offensively it neutralizes a blocker; on your own creature it turns a 2/2 into a 2/2 with menace. Person of Interest self-suspects on ETB, effectively making itself immediately evasive [Scryfall oracle text, magic.wizards.com/en/news/feature/murders-at-karlov-manor-mechanics].",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/murders-at-karlov-manor-mechanics"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"'Maybe they're following someone else,' Alvis thought to himself, despite mounting evidence to the contrary.\" — Speaker: the narrator, about Alvis [Scryfall]. Alvis is an unnamed minor character appearing only in this flavor text; the line is a dry noir joke about denial in the face of surveillance evidence [Scryfall, WebSearch snippet].",
+      "sources": ["Scryfall", "WebSearch: Person of Interest MKM flavor text"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Justyna Dura. Previewed by community creator Shivam Bhatt on 2024-01-23 [Scryfall preview data]. EDHREC rank 24606 [Scryfall].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rubblebelt Braggart", "set": "Murders at Karlov Manor", "note": "Also carries the Suspect keyword in MKM; second confirmed Suspect anchor in the corpus"},
+    {"name": "Detective (token)", "set": "Murders at Karlov Manor", "note": "2/2 white-blue creature token created by Person of Interest's ETB"},
+    {"name": "Alquist Proft, Master Sleuth", "set": "Murders at Karlov Manor", "note": "Lead detective of R.A.M.I.; flavors the investigation/suspect arc Person of Interest inhabits"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

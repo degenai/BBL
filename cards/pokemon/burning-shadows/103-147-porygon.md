@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["digital", "technology", "artificial", "cyber", "polygon", "robot", "sci-fi", "geometry", "speed", "light"]
+tags_filter: ["solo", "mid-shot", "action", "three-quarter", "colorless-type", "creature"]
 reference_image: cards/_images/pokemon/burning-shadows/103-147-porygon.png
 average_cost_paid: 0
 market_price: 0.07
@@ -27,6 +27,33 @@ oracle_text: Code Check (Colorless): Look at 1 of your opponent's face-down Priz
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: void
+suspected_ip: Porygon (#137)
+ip_confidence: high
+ip_verified: false
 ---
 
 # Porygon (Burning Shadows)
+
+## Vision
+
+![103-147-porygon](../../_images/pokemon/burning-shadows/103-147-porygon.png)
+
+> [!warning] Suspected IP: **Porygon (#137)** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A blocky, geometric duck-like creature rendered in pink and blue polygonal shapes floats in a bright, abstract space. The figure is composed of flat angular planes giving it a distinctly digital, early-3D aesthetic. Around it, glowing trails of light — white, blue, and pink — streak through the background, suggesting rapid digital movement or cyberspace. The composition has a dynamic quality with light lines radiating from behind the creature. The palette is bright pinks, blues, and white with high contrast.
+
+**Subject:** Porygon, a digital polygon-shaped creature in a bright abstract environment
+
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** void, indeterminate
+**Foreground:** angular pink-and-blue polygon creature with flat geometric planes  *(palette: pink, blue, white)*
+**Background:** abstract bright space with streaking light trails  *(palette: white, blue, pink)*
+**Mood / lighting:** action, rim
+**Emotion read:** neutral, mechanical
+**Creatures:** digital-creature, artificial-creature
+**Genre cues:** anime, sci-fi
+

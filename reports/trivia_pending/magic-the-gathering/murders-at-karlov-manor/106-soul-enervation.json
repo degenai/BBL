@@ -1,0 +1,36 @@
+{
+  "card_name": "Soul Enervation",
+  "game": "magic-the-gathering",
+  "set": "murders-at-karlov-manor",
+  "collector_number": "106",
+  "task_profile": "ip-priority",
+  "ip_decision": "refute",
+  "ip_outcome_note": "The vision pass flagged the depicted kneeling pale figure as 'Judith' at low confidence. Lore research confirms: the flavor text reads 'Judith's plan was close to fruition. She couldn't have Agrus get in the way.' Judith's canonical appearance is a Rakdos performer in black-and-red skin-tight leather and flowing velvet with perfectly red lips — a theatrical aesthetic. The depicted figure (pale, bald or close-cropped, kneeling in dark armor, wreathed in rising soul-smoke) does not match Judith's canonical visual profile. MKM lore confirms Judith imprisoned Agrus Kos in a crystal skull to prevent interference. The art most likely depicts Agrus Kos (or an unnamed victim/captive) being enervated/imprisoned — the flavor text narrates Judith's offscreen action; the art shows the consequence. The suspected_ip flag for 'Judith' is refuted.",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Judith's plan was close to fruition. She couldn't have Agrus get in the way.' [Scryfall] Agrus Kos is a legendary Boros spirit detective in MKM — a returning Ravnica character who died in original Ravnica block lore. In the MKM storyline, Judith imprisoned Kos in a crystal skull to prevent him from exposing her plot to frame Rakdos for the Karlov Manor murders. [WebSearch snippet: draftsim.com/mtg-murders-at-karlov-manor-story]",
+      "sources": ["Scryfall", "WebSearch snippet: Murders at Karlov Manor lore summary"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Judith (full card name: Judith, Carnage Connoisseur, MKM) is the Scourge Diva of the Cult of Rakdos and owner of the nightclub Hellbender. She is described canonically as wearing black-and-red skin-tight leather and flowing velvet, with perfectly red lips — a theatrical performer aesthetic. The kneeling pale-armored figure in the Soul Enervation art does not match this description; the flavor text names her as the actor (offscreen), not the depicted subject. [WebSearch snippet: magicspoiler.com/judith-carnage-connoisseur, WebSearch snippet: mtg.fandom.com/wiki/Judith]",
+      "sources": ["WebSearch snippet: Judith MTG appearance description", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Soul Enervation has Flash, making it a surprise -4/-4 removal spell at instant speed for enchantment-centric black decks. The ongoing lifedrain trigger (whenever creature cards leave your graveyard, drain 1 life from each opponent) rewards graveyard-recursive strategies. Legal in Standard through Vintage as of MKM release. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Judith, Carnage Connoisseur", "set": "Murders at Karlov Manor", "note": "The named actor in Soul Enervation's flavor text — Rakdos Scourge Diva and MKM's secondary antagonist"},
+    {"name": "Agrus Kos, Spirit of Justice", "set": "Murders at Karlov Manor", "note": "The named target in Soul Enervation's flavor text — Boros spirit detective imprisoned by Judith"},
+    {"name": "Rix Maadi Reveler", "set": "Ravnica Allegiance", "note": "Rakdos card depicting the same underground club where Judith operates"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "",
+    "ip_confidence": "none"
+  }
+}

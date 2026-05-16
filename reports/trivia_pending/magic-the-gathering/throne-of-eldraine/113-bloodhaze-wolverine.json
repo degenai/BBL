@@ -1,0 +1,41 @@
+{
+  "card_name": "Bloodhaze Wolverine",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "113",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "First printing, no reprints. Red common from ELD; thematically connected to the untamed Wilds of Eldraine and to Garenbrig's beast-and-forest identity, though no explicit court alignment in card text.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Build a moat. If we're lucky, it can't swim.' —Syr Branigan, knight of Ardenvale. Syr Branigan is flavor-text-only (no legendary creature card in ELD). Comic understatement from an Ardenvale knight; illustrates ELD's tonal range from high-chivalric drama to dark comedy.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Typed as Wolverine — one of the few standalone Wolverine creature types in Magic's history rather than the more common Beast subtype categorization for mustelid-style creatures.",
+      "sources": ["Scryfall type_line"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Second-card-drawn trigger gives +1/+1 and first strike. Aligns with ELD's red card-draw subtheme (Irencrag Pyromancer, Improbable Alliance). EDHREC rank 28,075 — deep common.",
+      "sources": ["Scryfall EDHREC rank", "Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Irencrag Pyromancer", "set": "Throne of Eldraine", "note": "Red ELD creature with 'second card drawn' trigger; same design subtheme"},
+    {"name": "Improbable Alliance", "set": "Throne of Eldraine", "note": "Token-creation on second draw; same subtheme"},
+    {"name": "Garruk's Packleader", "set": "Magic 2011", "note": "Beast-matters draw engine; design-space neighbor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

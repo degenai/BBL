@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["fairy-tale", "forest", "night", "children", "trail", "magic", "wandering", "lost", "glowing", "hansel-and-gretel"]
+tags_filter: ["duo", "three-quarter", "wide", "enchantment", "2-figures"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/179-trail-of-crumbs.png
 average_cost_paid: 0
 market_price: 0.52
@@ -29,18 +29,27 @@ oracle_text: When this enchantment enters, create a Food token. (It's an artifac
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: other
+time_of_day: night
+setting: forest
 ---
 
 # Trail of Crumbs (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![179-trail-of-crumbs](../../_images/magic-the-gathering/throne-of-eldraine/179-trail-of-crumbs.png)
 
+Two humanoid figures move through a dark, gnarled forest at night. The smaller figure, child-sized, walks slightly ahead holding what appears to be a glowing blue light source and looking back. The taller figure, adult-sized in a long purple coat, reaches out a hand with glowing blue particles trailing from their fingers, scattering more glowing crumbs on the ground. A trail of small blue glowing points illuminates the forest floor ahead of them. The dark twisted tree trunks and heavy shadows create an eerie atmosphere despite the warm colors on the figures.
 
-**Subject:** 
+**Subject:** two figures — a child and an adult — walking through a dark forest following a trail of glowing blue light crumbs on the ground
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, narrative, figures: duo, facing: three-quarter
+**Setting:** forest, night
+**Foreground:** child and adult figures, glowing blue trail on forest floor  *(palette: red, purple, tan)*
+**Background:** dark twisted forest, deep shadow  *(palette: dark-brown, black, dark-green)*
+**Mood / lighting:** other, ambient
+**Emotion read:** cautious exploration, wonder, slight unease
+**Objects:** glowing-crumbs
+**Genre cues:** fantasy, fairy-tale
 

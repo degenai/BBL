@@ -52,3 +52,15 @@ A huge dark-furred wolf dominates the frame in profile, head turned to bare its 
 **Iconography:** glowing-eyes, bared-fangs
 **Genre cues:** fantasy, fairy-tale, dark-fairy-tale
 
+## Trivia
+
+- **Set context / fairy-tale reference** — Blow Your House Down is a {2}{R} sorcery (common) from Throne of Eldraine (ELD, 2019). The name and art are a direct reference to "The Three Little Pigs" — specifically the Big Bad Wolf's threat to "blow your house down." The oracle text (up to three target creatures can't block this turn; destroy any of them that are Walls) mechanically literalizes the story: the wolf's breath defeats the pigs' defenses, and Walls — the most literal card-type representation of a house wall — are specifically destroyed [Scryfall oracle text].
+- **Flavor-text context** — `"You think these walls will protect you? My, you have a dim view of the power of the wilds." —Marawen, barrow witch` [Scryfall]. Marawen is named only here in ELD — a flavor-text-only barrow witch. The quote attributes the wolf's assault to the Wilds faction rather than to the wolf directly, suggesting the barrow witches direct or embody the predatory wilderness [Scryfall].
+- **Design — artist note** — Illustrated by Jenn Ravenna Tran (credited as "Ravenna Tran" on the card, consistent with her ELD credits). Per a Hipsters of the Coast profile (April 2020), Jenn Ravenna described this as "an exciting conceptual piece taking the classic fairy-tale trope of the Big Bad Wolf and creating something very new, where the viewer becomes the wind that blows the house down" — the wolf facing right into the frame draws the viewer into the wolf's own perspective [WebSearch: "The Artistic Range of Jenn Ravenna" via hipstersofthecoast.com]. This card is one of five ELD pieces Jenn Ravenna contributed to, alongside Murderous Rider, Thornwood Falls, and others [Scryfall artist search; WebSearch: Hipsters of the Coast].
+- **Reprint history** — Two printings: ELD no. 114 (2019) and The List insert ELD-114 (2019) [Scryfall].
+
+### Related cards
+- Murderous Rider // Swift End (ELD) — another Jenn Ravenna Tran piece in ELD; her highest-profile ELD card
+- Enchanted Carriage (ELD) — Cinderella-cycle member; another Three Little Pigs-adjacent fairy-tale reference card in the same set
+- Turn Into a Pumpkin (ELD) — Cinderella-cycle card with Wall-adjacent defensive flavor
+

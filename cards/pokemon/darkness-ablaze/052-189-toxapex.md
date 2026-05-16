@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["sea-urchin", "ocean", "underwater", "spiny", "poison", "darkness", "defense", "depth", "predator", "cold"]
+tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "water-type", "creature"]
 reference_image: cards/_images/pokemon/darkness-ablaze/052-189-toxapex.png
 average_cost_paid: 0
 market_price: 0.05
@@ -27,6 +27,33 @@ oracle_text: Recover (Colorless): Discard an Energy from this Pokémon and heal 
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: grim
+time_of_day: indeterminate
+setting: ocean
+suspected_ip: Toxapex (#748)
+ip_confidence: high
+ip_verified: false
 ---
 
 # Toxapex (Darkness Ablaze)
+
+## Vision
+
+![052-189-toxapex](../../_images/pokemon/darkness-ablaze/052-189-toxapex.png)
+
+> [!warning] Suspected IP: **Toxapex (#748)** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A large, dark-bodied sea creature with numerous long, sharp spiny legs floats in a deep underwater scene. The figure has a domed central body with a cluster of spines folded around or beneath it, and multiple leg-like protrusions extending outward like an urchin or crab hybrid. The background is deep blue-green ocean water with rays of light filtering through, giving the scene a cold, murky depth. The creature's posture is hunched or dome-shaped, reinforcing its defensive or menacing nature.
+
+**Subject:** Toxapex, a large spiny dark sea urchin-like creature in deep water
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** ocean, indeterminate
+**Foreground:** large dark spiny sea creature with domed body and multiple leg-spines  *(palette: dark-blue, purple, grey)*
+**Background:** deep blue-green ocean with filtered light  *(palette: deep-blue, teal, dark-green)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** threatening, cold, defensive
+**Creatures:** sea-urchin, sea-creature, crustacean-like
+**Genre cues:** anime
+

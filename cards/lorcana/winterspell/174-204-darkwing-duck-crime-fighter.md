@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["duck", "superhero", "flying", "cape", "night", "winter", "hero", "vigilante", "detective", "ice", "anthropomorphic", "animal-character"]
+tags_filter: ["solo", "mid-shot", "action", "three-quarter", "steel-magic", "character-card", "storyborn", "super"]
 reference_image: cards/_images/lorcana/winterspell/174-204-darkwing-duck-crime-fighter.jpg
 average_cost_paid: 0
 market_price: 0.05
@@ -27,6 +27,36 @@ chill that runs up your spine! I am Darkwing Duck.”
 image_width: 1468
 image_height: 2048
 image_quality: high
+mood: action
+time_of_day: night
+setting: urban
+subject_known_ip: true
+suspected_ip: Darkwing Duck (Darkwing Duck)
+ip_confidence: high
+ip_verified: false
 ---
 
 # Darkwing Duck - Crime Fighter (Winterspell)
+
+## Vision
+
+![174-204-darkwing-duck-crime-fighter](../../_images/lorcana/winterspell/174-204-darkwing-duck-crime-fighter.jpg)
+
+> [!warning] Suspected IP: **Darkwing Duck (Darkwing Duck)** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+An anthropomorphic duck dressed in a blue-purple superhero cape and wide-brimmed hat launches through the air with arms outstretched in a dynamic flying pose. The figure's white mask and orange beak are visible. The background is a wintry urban environment with ice, snow, and icy blue skyscraper-like shapes — consistent with the Winterspell setting. The wind from flight catches the cape dramatically. The composition emphasizes speed and heroic energy.
+
+**Subject:** Darkwing Duck from Disney's Darkwing Duck — an anthropomorphic duck in blue-purple cape and wide-brimmed hat flying through a wintry environment
+
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** urban, modern, night, snow
+**Foreground:** Anthropomorphic duck in blue-purple cape and hat, flying arms outstretched  *(palette: purple, blue, white, orange)*
+**Background:** Wintry icy urban environment with blue ice structures  *(palette: light-blue, white, dark-blue)*
+**Mood / lighting:** action, ambient
+**Emotion read:** heroic determination, dynamic flight pose
+**Objects:** cape, wide-brimmed hat
+**Creatures:** anthropomorphic duck
+**Iconography:** superhero cape, wide-brimmed hat, mask
+**Genre cues:** animation, superhero, comedy
+

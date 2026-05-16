@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["cat", "beast", "monster", "rampage", "frenzy", "predator", "horned", "wild", "teeth", "claws"]
+tags_filter: ["solo", "forward-facing", "mid-shot", "creature", "multicolor-red-green"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/173-frenzied-arynx.png
 average_cost_paid: 0
 market_price: 0.1
@@ -29,6 +29,9 @@ oracle_text: Riot (This creature enters with your choice of a +1/+1 counter or h
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: urban
 ---
 
 # Frenzied Arynx (Ravnica Allegiance)
@@ -37,12 +40,16 @@ image_quality: high
 
 ![173-frenzied-arynx](../../_images/magic-the-gathering/ravnica-allegiance/173-frenzied-arynx.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+A massive leonine creature with tawny fur and multiple curved backward-sweeping horns launches itself forward with its mouth wide open, fangs bared in a roar. Its large clawed forelimbs are extended. Scattered around the edges of the frame are dismembered limbs or debris — remnants of its rampage. The background shows pale grey stone architectural columns or pillars suggesting an urban or indoor setting. The creature's expression and posture convey uncontrolled aggression.
 
+**Subject:** large leonine beast with multiple curved horns, mouth open in roar, leaping through an urban corridor
 
-**Subject:** 
-
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** urban, ruined, indeterminate
+**Foreground:** large horned leonine creature mid-leap, mouth open  *(palette: tan, brown, gold)*
+**Background:** pale stone architecture, scattered debris  *(palette: grey, white, beige)*
+**Mood / lighting:** action, ambient
+**Emotion read:** frenzy, uncontrolled aggression, rampage
+**Creatures:** leonine-beast, horned-creature
+**Genre cues:** fantasy
 

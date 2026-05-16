@@ -53,3 +53,13 @@ A wretched, undead-looking figure dominates the foreground, mouth wrenched open 
 **Iconography:** grasping-hands, open-mouth-scream, sunken-eyes
 **Genre cues:** fantasy, dark-fantasy, horror, mythic
 
+## Trivia
+
+- **Set / lore context** — The Mire of Punishment is a specific geographic region within Theros's Underworld, reserved for souls who attempted to escape and were caught. The flavor text establishes the canonical punishment: "Those caught attempting to escape the Underworld spend the rest of their existence trapped in the Mire of Punishment." The Underworld's geography also includes the Labyrinth of Memories, the Nerono ocean (inky void), and Ilysia (haven for fallen heroes) `[Scryfall flavor_text; WebSearch snippet: DiceTry.com / MTG Wiki: Underworld]`.
+- **Mechanical note** — Mire's Grasp is a {1}{B} Enchantment Aura that gives enchanted creature -3/-3 — a functional reprint of the well-regarded Dead Weight (Innistrad, 2011), but with a punishing aura frame that synergizes with THB's Constellation mechanic and the set's enchantment-heavy design. Hipsters of the Coast rated it A: "Dead Weight is awesome. Mire's Grasp is 'deader weight' and also awesome," noting it efficiently kills most common creatures while supporting the WB auras archetype `[Hipsters of the Coast: "Every Common in Theros Beyond Death Reviewed"]`.
+- **Design note** — Printing Mire's Grasp as an Enchantment (rather than an instant, as Dead Weight was) was a deliberate design choice for THB: the set's Constellation mechanic rewards playing enchantments, so even removal spells were templated as enchantments to double as constellation triggers and aura-synergy pieces `[WebSearch snippet: Star City Games: "Enchantments in Theros Beyond Death Limited"]`.
+
+### Related cards
+- Dead Weight (ISD, no. 88) — direct mechanical predecessor; Mire's Grasp is the enchantment-frame iteration of the same -3/-3 design
+- Mire Triton (THB, no. 57) — shares the Mire name and THB underworld setting
+- Underworld Dreams (THB, no. 121) — same underworld thematic space in THB's black suite

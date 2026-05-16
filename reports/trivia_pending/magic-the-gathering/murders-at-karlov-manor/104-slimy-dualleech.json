@@ -1,0 +1,41 @@
+{
+  "card_name": "Slimy Dualleech",
+  "game": "magic-the-gathering",
+  "set": "murders-at-karlov-manor",
+  "collector_number": "104",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Isn't it gorgeous? It's my most efficient corpse eliminator! One head bites while the other chews.\" — Glogus, Golgari leechbreeder. [Scryfall] Glogus is named only here in MKM; the leechbreeder title signals a specialist role within the Golgari guild's corpse-processing hierarchy — consistent with Golgari lore where guild members specialize in various aspects of the death-and-renewal cycle.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Slimy Dualleech is typed Creature — Leech (no 'Golgari' subtype, but black-green color combination places it firmly in Golgari space). The Golgari Swarm's role in Ravnica's undercity — consuming the dead and processing waste — makes a two-headed leech functioning as a 'corpse eliminator' a naturalistic guild tool, not a horror aberration. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The ability targets a creature you control with power 2 or less, granting +1/+0 and deathtouch until end of turn at the start of each combat. This synergizes with deathtouch-enabler strategies and small-creature aggro in black-green shells. EDHREC lists it in approximately 106 Commander decks as of 2025, with noted synergies in small-creature deathtouch packages. [EDHREC: slimy-dualleech]",
+      "sources": ["Scryfall", "EDHREC: edhrec.com/cards/slimy-dualleech"]
+    },
+    {
+      "category": "design",
+      "text": "The dual-headed leech design (two circular toothed mouths on segmented bodies) is thematically paired with a two-body, two-color card that buffs another creature — the creature's dual heads reflected in the card's dual-role function (own body + support effect). Art by Igor Krstic. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Golgari Grave-Troll", "set": "Ravnica: City of Guilds", "note": "Iconic Golgari creature representing guild's corpse-and-growth aesthetic"},
+    {"name": "Rot Farm Skeleton", "set": "Dragon's Maze", "note": "Another Golgari corpse-processing creature from Ravnica block"},
+    {"name": "Saryth, the Viper's Fang", "set": "Innistrad: Midnight Hunt", "note": "High-synergy deathtouch enabler for small creatures (EDHREC noted)"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

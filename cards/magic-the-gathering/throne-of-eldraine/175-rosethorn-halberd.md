@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["elf", "halberd", "thorns", "forest", "warrior", "weapon", "nature", "green", "rose", "combat"]
+tags_filter: ["solo", "three-quarter", "mid-shot", "female-figure", "faces-right", "equipment"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/175-rosethorn-halberd.png
 average_cost_paid: 0
 market_price: 0.05
@@ -29,18 +29,27 @@ oracle_text: When this Equipment enters, attach it to target non-Human creature 
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: forest
 ---
 
 # Rosethorn Halberd (Throne of Eldraine)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![175-rosethorn-halberd](../../_images/magic-the-gathering/throne-of-eldraine/175-rosethorn-halberd.png)
 
+A humanoid figure with clearly visible pointed ears — elf diagnostic — wearing layered green organic-looking attire with foliage accents in their hair stands in a combat-ready stance holding a long halberd or pole weapon covered in jagged thorns. The weapon's tip branches into multiple thorn-like points. The background is dark woodland. The figure holds the weapon at an angle, posture confident and aggressive.
 
-**Subject:** 
+**Subject:** elf figure in green forest attire wielding a thorn-covered halberd pole weapon
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** forest, indeterminate
+**Foreground:** elf with thorn-covered halberd in combat stance  *(palette: green, tan, brown)*
+**Background:** dark forest, muted greens  *(palette: dark-green, grey, brown)*
+**Mood / lighting:** action, ambient
+**Emotion read:** defiant readiness, aggressive poise
+**Objects:** halberd, pole-weapon, thorns
+**Genre cues:** fantasy
 

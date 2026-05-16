@@ -1,0 +1,41 @@
+{
+  "card_name": "Torch the Witness (a)",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "146",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Torch the Witness is an uncommon red Sorcery from Murders at Karlov Manor. The card's title is a direct expression of the set's murder-mystery premise: silencing witnesses is one of the killer's tactics across the MKM story arc. The Scryfall data shows two art variants: 146a (normal frame) and this card, 146b (alternate/showcase frame) by artist Andrew Mar [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Torch the Witness deals twice X damage to a target creature; if excess damage is dealt, Investigate — creating a Clue token. The Investigate payoff rewards overkill: killing a smaller creature than the X allows creates evidence. This X-spell structure is rare on red sorceries and gives the card unusual scalability [Scryfall oracle text].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"He was scheduled to meet me tomorrow with something important to share. This was no coincidence.\" — Algrom of the Foundway Associates [Scryfall]. This is the only MKM flavor text in this batch that directly implicates the larger murder plot: the unnamed witness had information and was killed before the meeting. Algrom joins Runubi, Imel, and Udol as named Foundway Associates — a recurring investigator ensemble woven through the set's flavor text layer [Scryfall, WebSearch: MTG Salvation MKM lore].",
+      "sources": ["Scryfall", "WebSearch: MTG Salvation MKM flavor text compilation"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Andrew Mar (this variant). EDHREC rank 16399 — the highest Commander uptake among the non-creature spells in this batch, likely because the scalable X-damage plus Investigate payoff fills a removal role while generating value [Scryfall]. Not pauper-legal (uncommon) [Scryfall legalities].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Torch the Witness (normal frame)", "set": "Murders at Karlov Manor", "note": "146a, alternate art for the same oracle card"},
+    {"name": "Galvanize", "set": "Murders at Karlov Manor", "note": "Red instant in MKM dealing damage with a card-draw payoff clause; thematic pair"},
+    {"name": "Suspicious Detonation", "set": "Murders at Karlov Manor", "note": "Another red removal sorcery with Foundway Associates flavor text — Runubi vs. Algrom as narrators"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

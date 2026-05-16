@@ -1,0 +1,36 @@
+{
+  "card_name": "Mire's Grasp",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "106",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Mire of Punishment is a specific geographic region within Theros's Underworld, reserved for souls who attempted to escape and were caught. Flavor text: 'Those caught attempting to escape the Underworld spend the rest of their existence trapped in the Mire of Punishment.' The Underworld's geography also includes the Labyrinth of Memories, the Nerono ocean, and Ilysia (haven for fallen heroes).",
+      "sources": ["Scryfall flavor_text", "WebSearch snippet: DiceTry.com / MTG Wiki: Underworld"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mire's Grasp is a {1}{B} Enchantment Aura that gives -3/-3 — a functional reprint of Dead Weight (Innistrad, 2011) in enchantment-aura form. Hipsters of the Coast rated it A: 'Dead Weight is awesome. Mire's Grasp is deader weight and also awesome,' noting it efficiently kills most common creatures while supporting the WB auras archetype.",
+      "sources": ["Hipsters of the Coast: Every Common in Theros Beyond Death Reviewed"]
+    },
+    {
+      "category": "design",
+      "text": "Printing Mire's Grasp as an Enchantment (rather than an instant as Dead Weight was) was a deliberate design choice for THB: the set's Constellation mechanic rewards playing enchantments, so even removal spells were templated as enchantments to double as constellation triggers and aura-synergy pieces.",
+      "sources": ["WebSearch snippet: Star City Games: Enchantments in Theros Beyond Death Limited"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dead Weight", "set": "ISD", "note": "Direct mechanical predecessor; Mire's Grasp is the enchantment-frame iteration of the same -3/-3 design"},
+    {"name": "Mire Triton", "set": "THB", "note": "Shares the Mire name and THB underworld setting"},
+    {"name": "Underworld Dreams", "set": "THB", "note": "Same underworld thematic space in THB's black suite"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

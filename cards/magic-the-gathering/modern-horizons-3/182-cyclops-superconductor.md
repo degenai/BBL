@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["cyclops", "lightning", "electricity", "monster", "industrial", "giant", "energy", "one-eye", "steampunk", "power"]
+tags_filter: ["solo", "forward-facing", "mid-shot", "creature"]
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/182-cyclops-superconductor.png
 average_cost_paid: 0
 market_price: 0.1
@@ -28,6 +28,28 @@ oracle_text: Prowess (Whenever you cast a noncreature spell, this creature gets 
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Cyclops Superconductor (Modern Horizons 3)
+
+## Vision
+
+![182-cyclops-superconductor](../../_images/magic-the-gathering/modern-horizons-3/182-cyclops-superconductor.png)
+
+A massive, muscular one-eyed humanoid dominates the frame, wearing what appears to be an industrial diving helmet clamped over its single eye socket. It grips a large cylindrical glowing device capped with a fiery-orange orb in one raised fist. Blue-white electric lightning arcs radiate in all directions around the figure. Thick pipes or cables loop around the background. The color palette is dominated by electric blue and white crackling energy against a cool blue environment.
+
+**Subject:** large one-eyed humanoid (cyclops) wearing industrial diving gear, holding a glowing energy canister, surrounded by electric arcs
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** indoor, modern, indeterminate
+**Foreground:** cyclops with industrial helmet holding glowing energy canister  *(palette: pink, orange, red)*
+**Background:** electric lightning arcs, blue pipes and cables  *(palette: blue, white, teal)*
+**Mood / lighting:** action, rim
+**Emotion read:** aggressive, powerful, arms raised in threat display
+**Objects:** energy-canister, pipes, cables
+**Creatures:** cyclops
+**Genre cues:** fantasy, sci-fi
+

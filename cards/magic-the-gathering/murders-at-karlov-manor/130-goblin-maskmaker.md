@@ -55,3 +55,15 @@ A goblin with green skin sits hunched at a low workbench in what appears to be a
 **Iconography:** skull-mask, theater-mask, craftwork
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Goblin Maskmaker is a red 1/2 Goblin Citizen — the Citizen subtype marks it as unaligned with any Ravnica guild. In MKM's noir-mystery setting, masks and disguise are both thematic and mechanical pillars: the set introduced Disguise, a named variant of Morph that grants face-down creatures ward 2 `[Scryfall]`.
+- **Mechanical design** — The attack trigger reduces face-down spells cast that turn by 1 mana — applying to Disguise, Morph, Cloak, and Manifest cards alike. On curve (a 1-drop enabling cheaper 3-mana face-down casts with attack trigger), it functions as a cost-reducer for the entire face-down strategy in Limited `[Scryfall oracle text, WebSearch: ultimateguard.com face-down cards MTG history]`.
+- **Flavor text** — "When you can't show your own face, try one of mine!" — Speaker implied: the Goblin Maskmaker themselves `[Scryfall]`. The line doubles as a miniature thesis for MKM's disguise theme: identity concealment as craft, service, and survival strategy.
+- **Design** — Artist: Tomas Duchek. Previewed via the official Wizards card gallery on 2024-01-18. EDHREC rank 20543, consistent with a Limited-focused synergy piece `[Scryfall]`.
+
+### Related cards
+- Offender at Large (MKM, no. 138) — Disguise creature whose flip cost benefits from Maskmaker's attack discount
+- A Mysterious Creature (MKM) — the generic face-down 2/2 token representing any Disguised creature; Maskmaker enables cheaper versions of it
+- Morph (mechanic, various) — Maskmaker's trigger covers all face-down spell types going back to Onslaught block
+

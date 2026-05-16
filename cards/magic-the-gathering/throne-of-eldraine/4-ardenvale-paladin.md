@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["knight", "paladin", "horse", "light", "armor", "forest", "night", "duty", "faith", "glowing"]
+tags_filter: ["solo", "faces-right", "mid-shot", "creature", "white-magic"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/4-ardenvale-paladin.png
 average_cost_paid: 0
 market_price: 0.13
@@ -29,6 +29,28 @@ oracle_text: Adamant — If at least three white mana was spent to cast this spe
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: grim
+time_of_day: night
+setting: forest
 ---
 
 # Ardenvale Paladin (Throne of Eldraine)
+
+## Vision
+
+![4-ardenvale-paladin](../../_images/magic-the-gathering/throne-of-eldraine/4-ardenvale-paladin.png)
+
+An armored figure sits on a decorated horse in a dark wooded tunnel or forest path, raising one arm to hold a glowing orb of magical light. The armor is white and silver with gold and jeweled inlaid accents — highly ornate plate armor with layered pauldrons and decorative flourishes. The horse wears matching ornate head armor. The glowing orb provides the primary light source, illuminating the scene from above. The posture is noble and vigilant, a knight on lonely patrol in darkness.
+
+**Subject:** armored figure on horseback in a dark forest, raising a glowing orb of light aloft
+
+**Composition:** mid-shot, narrative, figures: solo, facing: right
+**Setting:** forest, night
+**Foreground:** armored knight on horse holding glowing orb aloft  *(palette: white, silver, gold)*
+**Background:** dark forest tunnel, arching trees  *(palette: dark-brown, black, dark-green)*
+**Mood / lighting:** grim, chiaroscuro
+**Emotion read:** solemn vigilance, lonely duty, quiet faith
+**Objects:** glowing-orb, plate-armor, horse-armor
+**Creatures:** horse
+**Genre cues:** fantasy, fairy-tale
+

@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["starfish", "ocean", "underwater", "spiny", "purple", "poison", "sea", "coral", "vivid", "depth"]
+tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "water-type", "creature"]
 reference_image: cards/_images/pokemon/darkness-ablaze/051-189-mareanie.png
 average_cost_paid: 0
 market_price: 0.11
@@ -27,6 +27,33 @@ oracle_text: Regeneration (Colorless): Heal 30 damage from this Pokémon.\nPoiso
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: other
+time_of_day: indeterminate
+setting: ocean
+suspected_ip: Mareanie (#747)
+ip_confidence: high
+ip_verified: false
 ---
 
 # Mareanie (Darkness Ablaze)
+
+## Vision
+
+![051-189-mareanie](../../_images/pokemon/darkness-ablaze/051-189-mareanie.png)
+
+> [!warning] Suspected IP: **Mareanie (#747)** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A purple, spiny starfish-like creature is depicted in an underwater environment rendered in vibrant, almost psychedelic blues, purples, and teals. The figure has a rounded central body with numerous spiny tentacles radiating outward, small eyes, and a pale underside. The background is awash in colorful underwater hues with wavy shapes suggesting coral or anemones. The overall visual is saturated and swirling, giving the scene a vivid, slightly disorienting quality.
+
+**Subject:** Mareanie, a purple spiny starfish-like sea creature in a colorful underwater scene
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** ocean, indeterminate
+**Foreground:** purple spiny starfish-like creature with radiating tentacles  *(palette: purple, blue, pale-cream)*
+**Background:** colorful vivid underwater environment with coral shapes  *(palette: teal, purple, blue)*
+**Mood / lighting:** other, ambient
+**Emotion read:** neutral, alien
+**Creatures:** starfish, sea-creature, spiny-creature
+**Genre cues:** anime
+

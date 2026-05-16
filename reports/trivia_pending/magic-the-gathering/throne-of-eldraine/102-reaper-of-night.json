@@ -1,0 +1,41 @@
+{
+  "card_name": "Reaper of Night",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "102",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Adventure card: Harvest Fear (3B sorcery — force opponent discard 2) + Reaper of Night (4/5 Specter — gains flying on attack if defending player has 2 or fewer cards in hand). Mechanical loop: use Adventure to empty hand, creature punishes the empty hand.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 23,288 — niche casual card. Legal in Pauper and PauperCommander where 4/5 + built-in discard is more impactful. Not Pauper banned.",
+      "sources": ["Scryfall legalities", "Scryfall EDHREC rank"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Jeff Simpson. No flavor text on either face. Art features a spectral-bride figure fused into the wraith silhouette — distinctive compositional choice bridging gothic horror and fairy-tale mourning.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Typed Specter — a creature type with discard-punishment lineage stretching back to Hypnotic Specter (Alpha, 1993). Among the few Adventure-creature Specters in the game's history.",
+      "sources": ["Scryfall type_line"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hypnotic Specter", "set": "Alpha / reprint", "note": "Ancestral Specter discard creature; same mechanical archetype"},
+    {"name": "Rankle, Master of Pranks", "set": "Throne of Eldraine", "note": "ELD black flier that leverages hand disruption"},
+    {"name": "Specter's Shriek", "set": "Throne of Eldraine", "note": "Set-mate sorcery themed around spectral mental extraction"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

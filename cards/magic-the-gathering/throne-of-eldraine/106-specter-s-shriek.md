@@ -52,3 +52,15 @@ A hooded humanoid figure throws its head back in agony, mouth gaped wide in a sc
 **Iconography:** scream, torment
 **Genre cues:** dark-fantasy, gothic, horror
 
+## Trivia
+
+- **Set context** — Specter's Shriek is a {B} sorcery (uncommon) from Throne of Eldraine (ELD, 2019). It is a first printing with no reprints [Scryfall]. The effect is an unusual hand-disruption spell: you look at an opponent's hand, may exile a nonland card from it, but if that card is nonblack, you must also exile a card from your own hand — a symmetrical cost that rewards mono-black builds [Scryfall oracle text].
+- **Flavor-text context** — `"Imagine having your skeleton extracted through your ear, one bone at a time." —Corliss the Wanderer` [Scryfall]. Corliss the Wanderer does not appear as a named creature card in ELD — a flavor-text-only character. The quote is among the set's more viscerally memorable flavor lines; it literalizes the metaphor of a hand-disruption spell as a kind of psychic surgery [Scryfall].
+- **Mechanical reputation** — EDHREC rank 26,306 — the lowest in this batch; Specter's Shriek has not found a significant Commander or competitive niche. The self-exile cost when hitting nonblack cards makes it worse than simple discard spells in most contexts, limiting its appeal outside of dedicated mono-black builds [Scryfall legalities; Scryfall EDHREC rank].
+- **Design** — Artist Svetlin Velinov, a Bulgarian illustrator with a very long run of high-profile Magic art. The screaming hooded figure is characteristic of Velinov's dramatic, high-contrast chiaroscuro portraiture style [Scryfall].
+
+### Related cards
+- Reaper of Night // Harvest Fear (ELD, no. 102) — set-mate also themed around spectral discard and hand depletion
+- Thoughtseize (Lorwyn) — the canonical black hand-disruption benchmark Specter's Shriek is implicitly compared against
+- Inquisition of Kozilek (Rise of the Eldrazi) — similar conditional hand disruption at {B}
+

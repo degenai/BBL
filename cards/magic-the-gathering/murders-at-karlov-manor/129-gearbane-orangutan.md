@@ -55,3 +55,15 @@ A powerful orangutan stands upright with both arms raised overhead, gripping and
 **Iconography:** destroyed-thopter, jewel-power-source
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Gearbane Orangutan is a red 2/2 Ape with Reach. Thopters — the jewel-powered constructs being smashed in the art — are a signature Izzet construct type in Ravnica, placing this card's chaos firmly in guild-vs-nature territory `[Scryfall]`.
+- **Flavor text** — "In her defense, thopters are very fun to smash." — Udol of the Foundway Associates `[Scryfall]`. The Foundway Associates are a recurring secondary investigator ensemble in MKM flavor texts; Udol's wry defense of an ape's thopter-smashing mid-investigation establishes them as dry-witted field observers `[Scryfall, WebSearch: MTG Salvation MKM lore thread]`.
+- **Mechanical reputation** — The ETB modal (destroy an artifact or sacrifice one for two +1/+1 counters) makes this a Naturalize stapled to a body. EDHREC rank 9577 — the highest uptake in this batch — with approximately 9,914 decks listing it and 67% inclusion in Kibo, Uktabi Prince artifact-focused Commander builds `[EDHREC via WebSearch]`.
+- **Design** — Previewed by Wizards via a TikTok video on 2024-01-17. Artist: Svetlin Velinov `[Scryfall]`.
+
+### Related cards
+- Uktabi Orangutan (Visions) — earliest artifact-destroying ape in Magic; Gearbane is a spiritual successor
+- Kibo, Uktabi Prince (Unfinity) — Ape commander; Gearbane appears in 67% of Kibo EDH builds per EDHREC
+- Suspicious Detonation (MKM, no. 145) — artifact sacrifice outlet that primes Suspicious Detonation's cost reduction in the same turn
+

@@ -1,0 +1,41 @@
+{
+  "card_name": "Caught Red-Handed",
+  "game": "magic-the-gathering",
+  "set": "murders-at-karlov-manor",
+  "collector_number": "115",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: '\"Wait, stop! I've been framed! Extremely convincingly!\"' [Scryfall] The quote is unattributed — a panicked anonymous voice that perfectly embodies the Suspect mechanic's conceit: the creature gains menace and can't block (i.e., is forced into an offensive role under suspicion), while protesting their innocence. The humor of 'Extremely convincingly!' undercuts the protest — the speaker knows they look guilty.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Caught Red-Handed grants control of a target creature until end of turn, untaps it, gives it haste, and — crucially — suspects it. The Suspect keyword (menace + can't block) means the stolen creature is immediately weaponized and then left in a dangerous, exposed position when control returns to the opponent. This is red's version of temporary theft (like Act of Treason) with MKM's Suspect mechanic layered on top. The card is uncounterable, including by ward abilities — a relevant detail in Commander and high-ward environments. [Scryfall] [Wizards: MKM Mechanics]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/murders-at-karlov-manor-mechanics"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Suspect mechanic — introduced in MKM — designates a creature as under suspicion: it gains menace and cannot block for as long as it's suspected. The mechanic was designed to represent the noir investigative theme of the set, where being accused changes how you move through the world. Caught Red-Handed is one of the canonical Suspect-keyword anchors in the BBL corpus. [Scryfall] [Wizards: MKM Mechanics]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/murders-at-karlov-manor-mechanics"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Donato Giancola — a noted MTG veteran artist. The compositional choice (the figure pressed against an ornate gold-and-crimson clockwork wall, one hand raised in a defensive 'stop' gesture) reads as a classic noir 'caught in the act' moment. The gear/clockwork motifs in the background suggest Azorius or Boros guild-hall aesthetics — the institutions of law in Ravnica — surrounding the panicked figure. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Convenient Target", "set": "Murders at Karlov Manor", "note": "Second Suspect-keyword anchor in the BBL corpus — red aura that suspects the enchanted creature"},
+    {"name": "Act of Treason", "set": "Magic 2010", "note": "Closest functional analog: temporary creature theft in red; Caught Red-Handed layers Suspect on top"},
+    {"name": "Alquist Proft, Master Sleuth", "set": "Murders at Karlov Manor", "note": "The investigator archetype whose legal authority the Suspect mechanic procedurally mirrors"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

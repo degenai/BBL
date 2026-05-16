@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["squire", "hammer", "youth", "warrior", "magic", "green", "portal", "weapon", "coming-of-age", "labor"]
+tags_filter: ["solo", "three-quarter", "mid-shot", "creature", "faces-left"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/158-garenbrig-squire.png
 average_cost_paid: 0
 market_price: 0.04
@@ -29,6 +29,27 @@ oracle_text: Whenever you cast a creature spell that has an Adventure, this crea
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: other
 ---
 
 # Garenbrig Squire (Throne of Eldraine)
+
+## Vision
+
+![158-garenbrig-squire](../../_images/magic-the-gathering/throne-of-eldraine/158-garenbrig-squire.png)
+
+A young humanoid figure wearing a sleeveless green vest and a simple outfit stands in a ready stance, gripping a very large hammer or maul — the weapon's head is nearly as big as their torso. They look over their shoulder with a determined expression. Behind them, a swirling teal and white magical portal or vortex fills the background with spiraling energy. The oversized maul contrasts with the figure's youthful appearance.
+
+**Subject:** young humanoid figure in green tunic wielding a large maul, swirling magical portal behind them
+
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** other, indeterminate
+**Foreground:** young figure in green vest wielding oversized maul  *(palette: green, tan, grey)*
+**Background:** swirling teal magical portal  *(palette: teal, white, light-green)*
+**Mood / lighting:** action, ambient
+**Emotion read:** determined readiness, looking back over shoulder
+**Objects:** maul, hammer
+**Genre cues:** fantasy
+

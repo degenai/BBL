@@ -55,3 +55,15 @@ A figure with clearly visible serpentine hair — snakes in place of conventiona
 **Iconography:** snake hair, rose as weapon
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Flavor text** — `"With their guild shunned for opening the doors to Phyrexia, some among the Golgari embraced their status as pariahs and took out their bitterness on all who crossed their paths."` `[Scryfall]` This directly references the Golgari Swarm's post-invasion shame: during the March of the Machine storyline, Vraska (the Golgari guildmaster) had come under Phyrexian influence, and many Golgari were compleated. The guild's near-total compleation left it socially ostracized on Ravnica in the MKM era. `[WebSearch snippet: Golgari post-Phyrexia aftermath]`
+- **Set / lore context** — Typed Creature — Gorgon Assassin, placing this unnamed figure in the established Golgari gorgon tradition of Ravnica. The "eliminator" role in the flavor text frames the character explicitly as a pariah repurposing bitterness as targeted violence — a consequence of guild-wide political disgrace, not personal malice. `[Scryfall]`
+- **Mechanical note** — Enter trigger: sacrifice an artifact or creature to exile a target creature an opponent controls. A flexible removal-plus-sacrifice-outlet that synergizes with enter-the-battlefield recursion in black-green shells. Legal in Standard through Vintage as of 2024-02-09. `[Scryfall]`
+- **Design** — The rose-as-weapon motif — a gorgon subduing a plate-armored soldier with a flower stem — is characteristic of MKM's noir aesthetic: violence that is aesthetically composed. Art by Quintin Gleim. `[Scryfall]`
+
+### Related cards
+- Vraska, the Unseen (Return to Ravnica) — canonical Golgari gorgon planeswalker whose Phyrexian history underlies the flavor text's guild shame
+- Lotleth Troll (Return to Ravnica) — Golgari undercity creature establishing the aesthetic precedent
+- Golgari Grave-Troll (Ravnica: City of Guilds) — iconic Golgari creature of death-and-renewal cycle
+

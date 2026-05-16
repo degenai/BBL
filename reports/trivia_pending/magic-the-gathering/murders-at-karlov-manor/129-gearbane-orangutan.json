@@ -1,0 +1,41 @@
+{
+  "card_name": "Gearbane Orangutan",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "129",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Gearbane Orangutan is a red 2/2 Ape with Reach — a thematic choice for Ravnica where the setting's Gruul Clans and natural creatures push back against guild-controlled urbanization. Thopters, the artifact drones smashed in the art, are an Izzet-associated construct type [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"In her defense, thopters are very fun to smash.\" — Udol of the Foundway Associates [Scryfall]. The Foundway Associates appear across multiple MKM flavor texts as an investigative group tangential to the main R.A.M.I. case; Udol's wry defense of the orangutan implies the destruction was witnessed mid-investigation [WebSearch: Scryfall card page, WebSearch snippet].",
+      "sources": ["Scryfall", "WebSearch: Scryfall MKM card page"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The ETB modal lets the controller destroy an artifact or sacrifice one for two +1/+1 counters — making it both a Naturalize stapled to a body and a self-sacrifice outlet. EDHREC rank 9577 (the highest uptake of any card in this batch), appearing in 9,914 decks with 67% inclusion in Kibo, Uktabi Prince artifact-focused Commander builds [EDHREC via WebSearch].",
+      "sources": ["Scryfall", "EDHREC via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Previewed by Wizards via a TikTok video on 2024-01-17, per Scryfall preview data. Artist Svetlin Velinov is a Bulgarian illustrator with a long portfolio of Magic creature art [Scryfall].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Uktabi Orangutan", "set": "Visions", "note": "Earliest artifact-destroying ape in Magic; Gearbane is a spiritual successor"},
+    {"name": "Kibo, Uktabi Prince", "set": "Unfinity", "note": "Ape commander; Gearbane appears in 67% of Kibo EDH builds per EDHREC"},
+    {"name": "Naturalize", "set": "various", "note": "Effect comparison — Gearbane provides similar artifact/enchantment destruction on a body"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

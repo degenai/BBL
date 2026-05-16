@@ -54,3 +54,15 @@ Two segmented worm-like creatures rear up from a dark, foggy environment. Each h
 **Iconography:** circular toothed maw
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Flavor text** — `"Isn't it gorgeous? It's my most efficient corpse eliminator! One head bites while the other chews."` — Glogus, Golgari leechbreeder `[Scryfall]`. Glogus is named only here in MKM; the leechbreeder title signals a specialist within the Golgari guild's corpse-processing hierarchy — consistent with Golgari lore where members specialize across aspects of the death-and-renewal cycle.
+- **Set / lore context** — Slimy Dualleech is a black-green Creature — Leech placed firmly in Golgari space by color and flavor. The Golgari Swarm's undercity role — consuming the dead and processing organic waste — makes a two-headed corpse-eliminating leech a naturalistic guild tool rather than a horror aberration. `[Scryfall]`
+- **Mechanical reputation** — The ability grants +1/+0 and deathtouch to a creature you control with power 2 or less at the start of each combat. Strong in deathtouch-enabler strategies and small-creature black-green shells. EDHREC lists approximately 106 Commander decks as of 2025. `[EDHREC]`
+- **Design** — The dual-headed creature design maps onto the card's dual-role function: its own body provides a 2/4 blocker while the combat trigger boosts another small creature. Art by Igor Krstic. `[Scryfall]`
+
+### Related cards
+- Golgari Grave-Troll (Ravnica: City of Guilds) — iconic Golgari corpse-growth creature
+- Saryth, the Viper's Fang (Innistrad: Midnight Hunt) — high-synergy deathtouch enabler for small creatures
+- Rot Farm Skeleton (Dragon's Maze) — Golgari corpse-processing creature from Ravnica block
+

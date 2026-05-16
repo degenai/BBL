@@ -53,3 +53,14 @@ The image is an abstract explosion of shattering crystal: large faceted shards a
 **Iconography:** shattered-crystal, breaking, pact
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Cases are a new enchantment subtype debuting in Murders at Karlov Manor (released 2024-02-09). Each Case has three abilities: an always-on enter effect, a "To solve" condition checked at the beginning of your end step, and a "Solved" reward. The mechanic literalizes the detective-procedural conceit of the set — a case that advances stage by stage until it's closed. `[Scryfall]` `[Wizards: MKM Mechanics]`
+- **Design** — As card no. 1 in the set, Case of the Shattered Pact holds the numerically first slot in Murders at Karlov Manor — a white enchantment that ramps (basic land on entry) while demanding the full chromatic spectrum to unlock its reward. Art by Peter Polach. `[Scryfall]`
+- **Mechanical reputation** — The solve condition (five colors of permanents simultaneously on the battlefield) gates this firmly in WUBRG five-color Commander builds. Once solved, the reward — flying, double strike, and vigilance on a creature each combat — is powerful, but the condition means it rarely appears outside dedicated rainbow decks. Sees minimal competitive play in two- or three-color formats. `[Scryfall]`
+
+### Related cards
+- Case of the Burning Masks (Murders at Karlov Manor, no. 113) — same Case enchantment subtype, different color (red)
+- Alquist Proft, Master Sleuth (Murders at Karlov Manor) — primary detective protagonist of the MKM story arc
+- Agrus Kos, Spirit of Justice (Murders at Karlov Manor, no. 184) — Boros legend central to the MKM murder investigation
+

@@ -53,3 +53,14 @@ A small feline creature with pointed ears, visible whiskers, and an open snarlin
 **Creatures:** cat-creature
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Flavor text** — `"It's hard to keep the peace if you can't even control your temper."` `[Scryfall]` Unattributed. The irony is mechanical: the card pumps a creature into rage (+2/+0 + haste) precisely to get it killed this turn, and if it dies, the law arrives — a white-blue Detective token. The flavor text's admonition is the punchline: rage leads to investigation.
+- **Mechanical note** — For one red mana, Felonious Rage gives a creature +2/+0 and haste, with a conditional reward: if that creature dies this turn, create a 2/2 white-blue Detective token. This makes it a pseudo-cantrip combat trick in decks that want both aggression and the MKM Detective token type. Legal in Pauper — notable for a common with conditional secondary value. `[Scryfall]`
+- **Design** — Art by Justine Cruz depicts a small cat-like creature erupting through a golden-orange burst framed by two large foreground hands, as if breaking free of a grip. The large hands may reference a captor or investigator unable to contain the feral creature — reinforcing the flavor-text theme of temper outrunning control. `[Scryfall]`
+
+### Related cards
+- Alquist Proft, Master Sleuth (Murders at Karlov Manor) — creates the same white-blue Detective token type that Felonious Rage generates on creature death
+- Reckless Charge (Odyssey) — classic red haste-pump instant, functional predecessor
+- Kaya, Spirits' Justice (Murders at Karlov Manor, no. 211) — also interacts with Detective token ecosystem in the same set
+

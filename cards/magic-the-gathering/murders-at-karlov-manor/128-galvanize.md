@@ -54,3 +54,14 @@ A close-up action shot of a non-human humanoid figure — lizard-faced or amphib
 **Iconography:** red-lightning, hammer
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Galvanize is a red instant from Murders at Karlov Manor (MKM), released 2024-02-09. MKM is a murder-mystery expansion set on Ravnica, centered on the Ravnican Agency of Magicological Investigations (R.A.M.I.) solving a string of homicides across the plane's guilds `[Scryfall]`.
+- **Flavor text** — "Why doesn't Kylox put an off switch on these things?!" — Speaker unnamed `[Scryfall]`. Kylox was an Izzet viashino artificer who invented the projektors used by R.A.M.I. detectives to visualize investigations. He was one of MKM's murder victims, accidentally killed by a brainwashed assassin targeting Krenko `[WebSearch: draftsim.com MKM lore summary]`.
+- **Design** — The draw-payoff clause (3 damage normally, 5 damage if two or more cards drawn this turn) synergizes with MKM's Investigate/Clue-token engine, which generates card draw in the same turn. EDHREC rank 16898, indicating limited uptake outside the MKM Limited environment `[Scryfall]`.
+- **Species note** — The lizard-like figure in the art aligns visually with the viashino species prominent in Izzet guild lore — Kylox himself is described as red-scaled viashino — but no oracle text or flavor text identifies the depicted figure as any named character `[WebSearch: draftsim.com MKM lore summary]`.
+
+### Related cards
+- Kylox, Visionary Inventor (MKM) — named character referenced in flavor text; Izzet artificer and MKM murder victim
+- Torch the Witness (MKM, no. 146) — another red damage spell in MKM with an Investigate payoff and witness-elimination theme
+

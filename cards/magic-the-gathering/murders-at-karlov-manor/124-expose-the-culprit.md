@@ -56,3 +56,14 @@ A wide ballroom scene set in a grand cathedral-like hall with arched windows and
 
 - [[agency]] — Agency roster card. The oracle text ("Turn target face-down creature face up" + the Disguise/Cloak interaction) is the canonical rules-text rendering of Agency investigation-procedure-as-mechanic: the detective forces the suspect's identity into the open. The depicted ballroom-reveal scene is the institutional set-piece of the *Murders at Karlov Manor* arc — Seanan McGuire's *Magic Story* uses ballroom unmaskings as recurring investigative beats. `[MTG Wiki: Disguise (mechanic)]` `[MTG Wiki: Ravnican Agency of Magicological Investigations]`
 
+## Trivia
+
+- **Set / lore context** — Expose the Culprit interacts with MKM's Disguise and Cloak mechanics. Disguise lets cards be cast face-down as a 2/2 with ward {2}, concealing their identity; Cloak is a similar effect applied by other cards. The "expose" mode forces a face-down creature face up — the investigative unmask — while the second mode re-cloaks your own disguised creatures, resetting their hidden identities. The two modes encode MKM's investigation theme: unmask the enemy, re-mask your allies. `[Scryfall]` `[Wizards: MKM Mechanics]`
+- **Mechanical note** — The second mode — exiling your own face-up creatures with disguise in a shuffled face-down pile, then re-cloaking them — resets ward {2} protections and re-randomizes which of your creatures is which. Legal in Standard, Pioneer, Modern, Legacy, Vintage, and Commander. `[Scryfall]`
+- **Design** — Art by Ryan Valle. The ballroom unmasking composition — a central figure turning mid-stride with red magic trailing, surrounded by a formally dressed crowd — is a classic noir set piece: the moment a hidden identity is forced into the open. No flavor text on this card. `[Scryfall]`
+
+### Related cards
+- Alquist Proft, Master Sleuth (Murders at Karlov Manor) — the investigator whose authority the card's name invokes
+- Etrata, Deadly Fugitive (Murders at Karlov Manor, no. 200) — attended the Karlov Manor event in disguise; the archetype of culprit this card unmasks
+- Veiled Shade (Onslaught) — early example of face-down creature design space in MTG
+

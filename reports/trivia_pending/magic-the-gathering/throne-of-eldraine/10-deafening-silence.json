@@ -1,0 +1,46 @@
+{
+  "card_name": "Deafening Silence",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "10",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Deafening Silence belongs to the white-aligned Ardenvale court in Throne of Eldraine, whose identity centers on oaths, knighthood, and religious order.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'They have forsaken their vows. The edict of the Circle demands their voices be silenced.' —Syr Tasdale, knight of Ardenvale. The Circle is Ardenvale's governing religious body; Syr Tasdale also appears in Revenge of Ravens (ELD 104) flavor text.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Sideboard mainstay in Modern, Pioneer, and Legacy as storm-hate. Received a Special Guests Showcase reprint (no. 120) in August 2025, indicating sustained competitive relevance.",
+      "sources": ["Scryfall legalities", "Scryfall prints", "WebSearch: mtgdecks.net"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Igor Kieryluk. Three stitched-shut mouths in triptych composition directly mirrors the enchantment's mechanical forced-silence effect on all players.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Four total printings: ELD (2019), Secret Lair Drop (2023), Mystery Booster 2 (2024), Special Guests (2025).",
+      "sources": ["Scryfall prints search"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Revenge of Ravens", "set": "Throne of Eldraine", "note": "Syr Tasdale named in both cards' flavor texts — flavor-linked Ardenvale story arc"},
+    {"name": "Ardenvale Tactician", "set": "Throne of Eldraine", "note": "Same Ardenvale court affiliation, flavor-cycle neighbor"},
+    {"name": "Silence", "set": "Magic 2011", "note": "Functional predecessor: white {W} spell that stops all spells for a turn"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

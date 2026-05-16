@@ -1,0 +1,41 @@
+{
+  "card_name": "Goblin Maskmaker",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "130",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Goblin Maskmaker is a red 1/2 Goblin Citizen — the Citizen subtype flags it as an unaligned Ravnican inhabitant rather than a guild-affiliated creature. In MKM's noir-mystery setting, masks and disguise are thematic pillars: the set introduced the Disguise mechanic (a named-variant of Morph granting face-down creatures ward 2) [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Its attack trigger reduces the cost of all face-down spells cast this turn by 1 — synergizing with every Disguise, Morph, Cloak, and Manifest card in the format. This makes it an on-curve cost-reducer for face-down strategies, enabling faster flip-up of expensive Disguise creatures like Offender at Large [Scryfall oracle text, WebSearch: MTG Ultimate Guard face-down cards article].",
+      "sources": ["Scryfall", "WebSearch: ultimateguard.com face-down cards history"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"When you can't show your own face, try one of mine!\" — Speaker unnamed (the Goblin Maskmaker themselves, implied by context) [Scryfall]. The line doubles as the set's disguise thesis in miniature: identity concealment as both practical craft and survival strategy.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Tomas Duchek. EDHREC rank 20543 — low uptake in Commander, consistent with a Limited-focused synergy piece rather than a Constructed staple [Scryfall]. Previewed via the official Wizards card gallery on 2024-01-18 [Scryfall preview data].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Offender at Large", "set": "Murders at Karlov Manor", "note": "Disguise creature that costs less to flip when Maskmaker's discount applies"},
+    {"name": "A Mysterious Creature", "set": "Murders at Karlov Manor", "note": "The generic face-down token representing any Disguised creature in MKM"},
+    {"name": "Morph (mechanic)", "set": "various", "note": "Predecessor to Disguise; Maskmaker's trigger applies to all face-down spell types"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "card_name": "Daybreak Chimera",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "10",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Theros Beyond Death (THB, January 24 2020) is the 84th Magic expansion, returning to the Greek-mythos plane of Theros with a focus on the Underworld and Elspeth's death-and-resurrection arc. THB introduced the Escape mechanic and returned Constellation.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Daybreak Chimera is a 3/3 flyer with base cost {3}{W}{W} that reduces by devotion to white. The devotion mechanic first appeared in the original Theros (2013) and returned as a full-set throughline, treating faith as a measurable game-altering resource.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Rated B by Hipsters of the Coast's THB common review: 'A 3/3 flying for five doesn't cut it anymore...but Daybreak Chimera looks awesome,' noting casting it alongside another spell for two mana provided strong tempo.",
+      "sources": ["Hipsters of the Coast: Every Common in Theros Beyond Death Reviewed"]
+    },
+    {
+      "category": "set-lore",
+      "text": "On Theros, chimeras are multi-part creatures considered children of Nyx, the divine dreamscape that manifests the gods' will. This chimera's goat-and-eagle body echoes Theros's white-aligned connection to the heavens and Heliod's sun-domain.",
+      "sources": ["Scryfall type_line: Creature — Chimera"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Loathsome Chimera", "set": "THB", "note": "Another THB chimera sharing the Chimera creature type"},
+    {"name": "Mischievous Chimera", "set": "THB", "note": "Blue-aligned THB chimera, part of the Flash-matters archetype"},
+    {"name": "Treeshaker Chimera", "set": "THB", "note": "Green THB chimera; together the three form a cross-color chimera presence"},
+    {"name": "Heliod, Sun-Crowned", "set": "THB", "note": "White devotion payoff god; Daybreak Chimera's devotion mechanic directly feeds Heliod's power and toughness"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

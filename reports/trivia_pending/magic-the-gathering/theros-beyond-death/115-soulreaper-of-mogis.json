@@ -1,0 +1,36 @@
+{
+  "card_name": "Soulreaper of Mogis",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "115",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged. Card already had characters: [theros-pantheon] in frontmatter; trivia confirms and elaborates on Mogis pantheon connection.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Mogis is the God of Slaughter on Theros — dark twin of Iroas, patron deity of all Theros minotaurs. He appears as a massive four-horned minotaur in spiked bronze armor wielding an ebon greataxe. Mogis's worship involves brutal rites and ritual self-mutilation, particularly during the blood moon (his 'crimson eye'). This card is a direct expression of that cult — an Enchantment Creature (Minotaur Shaman) whose ability is sacrifice-to-draw. Wires to [[theros-pantheon]].",
+      "sources": ["WebSearch snippet: MTG Wiki: Mogis via Fandom", "Scryfall type_line, flavor_text"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'We offer to Mogis the blood of the weak, and in return he makes us strong.' The transactional theology — sacrificial tithe upward, martial power downward — is Mogis's defining relationship with followers, and the card's oracle text enacts it mechanically: sacrifice a creature, draw a card.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As an Enchantment Creature, Soulreaper of Mogis triggers Constellation on entry. Its sacrifice effect ({2}{B}, sac a creature, draw a card) is a card-advantage engine in black sacrifice strategies. Hipsters of the Coast rated it C, describing it as a time-buying option during board stalls.",
+      "sources": ["Hipsters of the Coast: Every Common in Theros Beyond Death Reviewed"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Slaughter Priest of Mogis", "set": "THB", "note": "The set's second Mogis-cult minotaur; red-black variant with haste and sacrifice synergy"},
+    {"name": "Mogis, God of Slaughter", "set": "BNG", "note": "The god himself, legendary Enchantment Creature; direct theological lord of this card"},
+    {"name": "Iroas, God of Victory", "set": "JOU", "note": "Mogis's divine twin; the pair define the dual nature of war in Theros canon"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

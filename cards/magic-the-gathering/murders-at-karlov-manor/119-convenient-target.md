@@ -52,3 +52,14 @@ A tight portrait of a figure with prominent curved horns, gazing down with a com
 **Iconography:** sphere, fire
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set / lore context** — Convenient Target is an Aura that applies the Suspect keyword on entry. The card's name encodes MKM's noir logic directly: in a whodunit, the "convenient target" is the one framed because they're available and vulnerable, not because they're actually guilty. The card literalizes framing — you mark a creature as suspect, making it aggressive and exposed. `[Scryfall]`
+- **Mechanical note** — The Aura grants +1/+1 and Suspects the enchanted creature (menace + can't block) for as long as it remains suspected. The graveyard recursion ability (`{2}{R}: return this card from your graveyard to your hand`) makes the effect repeatable across multiple turns. No flavor text on this card. `[Scryfall]`
+- **Design** — Art by Gaboleps depicts a horned figure cupping a fiery orb in which a tiny armored humanoid is visible — the "convenient target" made literally small and helpless inside a trap. The implied narrative maps cleanly onto the card's mechanical role: the enchanted creature is made maximally threatening to opponents while simultaneously left unable to defend. `[Scryfall]`
+
+### Related cards
+- Caught Red-Handed (Murders at Karlov Manor, no. 115) — second Suspect-keyword card in the BBL corpus; instant that steals and suspects a creature
+- Reckless Rage (Rivals of Ixalan) — red combat-trick Aura in similar aggro design space
+- Alquist Proft, Master Sleuth (Murders at Karlov Manor) — the investigating authority whose process the Suspect mechanic mirrors
+

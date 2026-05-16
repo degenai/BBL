@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["yeti", "snow", "winter", "mountain", "ice", "solitude", "white", "cold", "nature", "guardian"]
+tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "grass-type", "creature"]
 reference_image: cards/_images/pokemon/destined-rivals/060-182-abomasnow.png
 average_cost_paid: 0
 market_price: 0.07
@@ -27,6 +27,33 @@ oracle_text: Lunge Out (ColorlessColorlessColorless) 90\nFrozen Wood (WaterWater
 image_width: 733
 image_height: 1024
 image_quality: high
+mood: peaceful
+time_of_day: indeterminate
+setting: mountain
+suspected_ip: Abomasnow (#460)
+ip_confidence: high
+ip_verified: false
 ---
 
 # Abomasnow (Destined Rivals)
+
+## Vision
+
+![060-182-abomasnow](../../_images/pokemon/destined-rivals/060-182-abomasnow.png)
+
+> [!warning] Suspected IP: **Abomasnow (#460)** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A tall, broad-shouldered yeti-like creature stands in a stark snowy landscape. The figure has a white, shaggy or layered body with a prominent round head, stubby dark features, and large arms at its sides. Snowflakes or ice particles drift around it. The background is white and grey — an open snowfield or mountainside with minimal detail, giving the scene a stark, isolated quality. The creature's stillness against the white expanse conveys a sense of cold solitude.
+
+**Subject:** Abomasnow, a large white yeti-like creature in a snowy mountain landscape
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** mountain, indeterminate, snow
+**Foreground:** large white shaggy yeti-like creature standing still  *(palette: white, light-grey, dark-grey)*
+**Background:** stark white snowfield with minimal detail  *(palette: white, grey, pale-blue)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** solitary, still, cold
+**Creatures:** yeti, ice-creature, tree-like-creature
+**Genre cues:** anime
+

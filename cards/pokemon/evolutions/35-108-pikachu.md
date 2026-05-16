@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["mouse", "lightning", "classic", "yellow", "forest", "mascot", "cute", "iconic", "nature", "electricity"]
+tags_filter: ["solo", "mid-shot", "portrait", "three-quarter", "lightning-type", "creature"]
 reference_image: cards/_images/pokemon/evolutions/35-108-pikachu.png
 average_cost_paid: 0
 market_price: 0.67
@@ -27,6 +27,33 @@ oracle_text: Gnaw (Colorless) 10\nThunder Jolt (LightningColorless) 30: Flip a c
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: peaceful
+time_of_day: day
+setting: forest
+suspected_ip: Pikachu (#025)
+ip_confidence: high
+ip_verified: false
 ---
 
 # Pikachu (Evolutions)
+
+## Vision
+
+![35-108-pikachu](../../_images/pokemon/evolutions/35-108-pikachu.png)
+
+> [!warning] Suspected IP: **Pikachu (#025)** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A small, round yellow mouse-like creature sits in a warm, glowing forest clearing. The figure has rounded ears tipped with black, a small button nose, bright cheeks, and a zigzag tail. The background shows soft forest light with golden tones filtering through trees, giving the scene a warm, inviting quality. The creature sits in a relaxed or watchful pose. This is a classic original-series illustration with clean, simple linework. The palette is warm yellows and soft browns with golden forest ambience.
+
+**Subject:** Pikachu, the iconic yellow electric mouse-like creature in a forest clearing
+
+**Composition:** mid-shot, portrait, figures: solo, facing: three-quarter
+**Setting:** forest, day, clear
+**Foreground:** small round yellow mouse-like creature with black-tipped ears and zigzag tail  *(palette: yellow, brown, black, red)*
+**Background:** warm golden forest clearing with soft light  *(palette: golden-yellow, brown, green)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** alert, cheerful
+**Creatures:** mouse, electric-creature
+**Genre cues:** anime
+

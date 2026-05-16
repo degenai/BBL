@@ -1,0 +1,36 @@
+{
+  "card_name": "Case of the Burning Masks",
+  "game": "magic-the-gathering",
+  "set": "murders-at-karlov-manor",
+  "collector_number": "113",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Case of the Burning Masks is a red Case enchantment in MKM's Case cycle. The 'burning masks' title invokes both the Rakdos Cult's performance-art tradition (fire, theatricality, masks) and the noir-mystery conceit of identities being burned away or exposed. As a red card in a set predominantly associated with the Azorius, Dimir, and Orzhov guilds, its Rakdos-tonal imagery aligns with Judith's subplot within the MKM story arc. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The solve condition — three or more sources you controlled dealt damage this turn — is aggressive-deck friendly, rewarding wide burn or token-attack strategies over a single instance of damage. Once solved, the card is sacrificed to exile the top three library cards and play one of them that turn — effectively a one-shot Treasure Map payoff for aggro-spellslinger strategies. Legal in Standard, Pioneer, Modern, Legacy, Vintage, and Commander. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The art (by Bastien L. Deharme) depicts a burning interior framed by a dark doorway — the viewer observes catastrophe through a crack, voyeuristically. No flavor text on this card. The compositional choice — the crime scene as framed aperture — mirrors the Case mechanic's procedural logic: you're investigating from the outside, gathering evidence until the case is closed. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Case of the Shattered Pact", "set": "Murders at Karlov Manor", "note": "White Case from the same set's Case enchantment cycle"},
+    {"name": "Judith, Carnage Connoisseur", "set": "Murders at Karlov Manor", "note": "Rakdos character whose fire-and-performance aesthetic aligns with 'Burning Masks' imagery"},
+    {"name": "Light Up the Stage", "set": "Ravnica Allegiance", "note": "Red Rakdos card with similar 'exile top cards and play' payoff mechanic"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

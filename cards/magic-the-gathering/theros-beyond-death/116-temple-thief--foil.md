@@ -51,3 +51,13 @@ A close-cropped portrait of a robed thief slipping through near-total darkness. 
 **Objects:** hood, cloak
 **Genre cues:** fantasy, greek-myth, noir
 
+## Trivia
+
+- **Set / lore context** — Theros is a deeply religious plane where the gods are real, visible, and actively intervene in mortal affairs. Temple theft is accordingly a high-stakes crime: not just against property but potentially against divine attention. The flavor text perfectly captures the mortal relationship to Therosian divinity: "I don't know if the gods watch over their temples, but I figure it's best to be stealthy just in case." The uncertainty itself — do gods care? — is a running Theros theme `[Scryfall flavor_text]`.
+- **Mechanical note** — Temple Thief is a 2/2 Human Rogue for {1}{B} that "can't be blocked by enchanted creatures or enchantment creatures." This is a designed-in-setting ability: enchanted creatures on Theros are often Nyxborn (touched by the divine realm of Nyx), and the Thief slips past the gods' servants specifically. Hipsters of the Coast gave it an F grade: "Temple Thief feels like a blue card...a two drop in a pinch," flagging it as a weak threat that doesn't synergize with black's archetypes in THB draft `[Hipsters of the Coast: "Every Common in Theros Beyond Death Reviewed"]`.
+- **Variant note** — This copy is a foil variant (collector no. 116). The non-foil Temple Thief (same number, same art by Evyn Fong) is priced at $0.04 USD; the foil copy is priced at $0.25 USD at time of ingest — a premium that reflects the foil's relative scarcity rather than any play demand `[Scryfall prices]`.
+
+### Related cards
+- Alirios, Enraptured (THB, no. 42) — another THB Human creature with a flavor-driven mechanical block on certain interactions
+- Heliod's Pilgrim (M15, no. 18) — also a Human Rogue that interacts with enchantments; design-space neighbor
+- Klothys, God of Destiny (THB, no. 220) — the hidden god of Theros whose presence implies mortals acting in secret, adjacent thematic space

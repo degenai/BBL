@@ -1,0 +1,41 @@
+{
+  "card_name": "Blow Your House Down",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "114",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Direct reference to 'The Three Little Pigs': name, wolf art, and oracle text (creatures can't block; Walls are destroyed) all literalize the fairy tale. Walls — the most literal card-type representation of a house wall — are specifically destroyed by the effect.",
+      "sources": ["Scryfall oracle text"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'You think these walls will protect you? My, you have a dim view of the power of the wilds.' —Marawen, barrow witch. Marawen is a flavor-text-only character in ELD; the quote attributes the wolf's assault to the Wilds faction, suggesting barrow witches direct or embody the predatory wilderness.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Jenn Ravenna Tran (credited 'Ravenna Tran' on card). Per Hipsters of the Coast (April 2020 profile), Jenn Ravenna described the card as 'an exciting conceptual piece... where the viewer becomes the wind that blows the house down' — the wolf facing right draws the viewer into the wolf's own perspective. One of five ELD pieces she contributed.",
+      "sources": ["Scryfall", "WebSearch: 'The Artistic Range of Jenn Ravenna' via hipstersofthecoast.com (April 2020)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Two printings: ELD no. 114 (2019) and The List insert ELD-114 (2019).",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Murderous Rider // Swift End", "set": "Throne of Eldraine", "note": "Another Jenn Ravenna Tran piece in ELD; her highest-profile ELD card (original art sold for $3,100)"},
+    {"name": "Enchanted Carriage", "set": "Throne of Eldraine", "note": "Cinderella-cycle member; same fairy-tale reference set"},
+    {"name": "Turn Into a Pumpkin", "set": "Throne of Eldraine", "note": "Cinderella-cycle card; Wall-adjacent defensive flavor in the same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

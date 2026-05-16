@@ -1,0 +1,41 @@
+{
+  "card_name": "Witch's Vengeance",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "111",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "First printing, no reprints. Tribal board wipe: choose a creature type; all creatures of that type get -3/-3 until end of turn. Can be deployed asymmetrically if you don't share that type — effectively a one-sided sweeper.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'The hex swept through the village, its citizens falling one by one.' Unusually spare for a rare; deliberately withholds the witch's name, sustaining ambiguity about the agent despite the art making her clearly visible.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 21,193. Sleeper in tribal mirrors and hate piece vs. popular types (Elves, Goblins, Dragons). Power is highly meta-dependent — strong in tribal-heavy environments, narrow otherwise.",
+      "sources": ["Scryfall EDHREC rank", "WebSearch: Witch's Vengeance tribal discussion via medium.com, boardwipe.com"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Titus Lunter. Elevated-witch-over-crowd composition inverts the typical ELD Wilds power dynamic: the persecuted witch figure is here dispensing punishment from above, not hiding in the woods.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Yahenni's Expertise", "set": "Aether Revolt", "note": "Comparable -3/-3 sweeper for mechanical comparison"},
+    {"name": "Kindred Dominance", "set": "Commander 2017", "note": "High-power tribal board wipe; design lineage context"},
+    {"name": "Tempting Witch", "set": "Throne of Eldraine", "note": "Set-mate witch figure; same ELD Wilds faction"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

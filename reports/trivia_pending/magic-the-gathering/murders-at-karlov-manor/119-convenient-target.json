@@ -1,0 +1,36 @@
+{
+  "card_name": "Convenient Target",
+  "game": "magic-the-gathering",
+  "set": "murders-at-karlov-manor",
+  "collector_number": "119",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Convenient Target is an Aura that suspects the enchanted creature on entry — making that creature simultaneously +1/+1 stronger and unable to block while it has menace. The card's name encodes the noir murder-mystery logic of MKM: in a whodunit, the 'convenient target' is the one framed because they're available, not because they're actually guilty. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Convenient Target has a graveyard recursion ability ({2}{R}: return this card from your graveyard to your hand), making it repeatable across a game. The Suspect keyword it applies (menace + can't block) is a persistent effect as long as the creature remains suspected. In combination with the +1/+1 bonus, the card packages aggression and recurring utility into a single Aura. No flavor text on this card. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Gaboleps (a single-name credited artist) depicts a horned figure cupping a fiery orb in which a tiny armored humanoid is visible — the 'convenient target' made literally small and helpless inside the trap. The implied narrative (a demon-like figure with complete control over a miniaturized victim) maps cleanly onto the card's mechanical role: making a creature maximally threatening while simultaneously vulnerable. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Caught Red-Handed", "set": "Murders at Karlov Manor", "note": "Second Suspect-keyword card in the BBL corpus — instant that steals and suspects a creature"},
+    {"name": "Umbra Mystic", "set": "Rise of the Eldrazi", "note": "Functional predecessor: Aura that survives the enchanted creature's death"},
+    {"name": "Reckless Rage", "set": "Rivals of Ixalan", "note": "Red damage-based Aura with combat trick utility — similar color-space aggro Aura design"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

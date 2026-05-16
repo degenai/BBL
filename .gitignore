@@ -31,6 +31,9 @@ reports/.cache_*
 # LorcanaJSON bulk allCards cache (7.6 MB, re-downloads on demand)
 reports/lorcana_allcards.json
 
+# Probe scratch (subagent feasibility-investigation artifacts; throwaway, regeneratable)
+tmp_probe/
+
 # Parent-side Puppeteer / curl cache (web-scrape artifacts from triviabot research)
 .cache/
 

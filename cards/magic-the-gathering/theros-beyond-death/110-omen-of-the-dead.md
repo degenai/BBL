@@ -52,3 +52,14 @@ A close-to-mid shot of a hooded oracular figure dominates the frame, lit by a so
 **Iconography:** hooded-figure, underworld, columns, vision
 **Genre cues:** fantasy, mythology, greek-myth, gothic
 
+## Trivia
+
+- **Set / design context** — Omen of the Dead is part of the five-card Omen cycle in THB, one enchantment per color: Omen of the Sun (white), Omen of the Sea (blue), Omen of the Dead (black), Omen of the Forge (red), and Omen of the Hunt (green). All five have Flash, an enter-the-battlefield effect, and a sacrifice-for-Scry-2 mode. The cycle was designed to function as both Constellation triggers (entering as enchantments) and pseudo-instant removal/utility, feeding the set's Flash-matters subtheme `[WebSearch snippet: Star City Games / Wizards mechanics article; Scryfall]`.
+- **Mechanical note** — At {B} with Flash, Omen of the Dead is one of the cheapest reanimation effects in Pauper and Pioneer, functioning as an instant-speed creature recovery that also enters as an enchantment for Constellation value. The sacrifice mode adds scry 2 for {2}{B}, letting the card pay forward card quality once its main use is exhausted. Hipsters of the Coast rated it C but noted "a ton of utility here for one mana" across Flash-matters, Constellation, and Devotion strategies `[Hipsters of the Coast: "Every Common in Theros Beyond Death Reviewed"; Scryfall legalities]`.
+- **Flavor text** — "My time will come, when life's frantic striving will fade into the boundless quiet of death." Speaker is unattributed in this printing — Scryfall lists no attribution `[Scryfall]`. The line reads as a mortal's meditation on death's inevitability, fitting the card's mechanical theme of accepting the graveyard as a resource rather than a loss.
+
+### Related cards
+- Omen of the Sun (THB, no. 30) — white cycle member; Flash enchantment creating two 1/1 Soldiers and gaining 2 life
+- Omen of the Sea (THB, no. 58) — blue cycle member; Flash enchantment that scrys 2 and draws a card
+- Omen of the Forge (THB, no. 145) — red cycle member; Flash enchantment dealing 2 damage to any target
+- Omen of the Hunt (THB, no. 174) — green cycle member; Flash enchantment that searches for a basic land

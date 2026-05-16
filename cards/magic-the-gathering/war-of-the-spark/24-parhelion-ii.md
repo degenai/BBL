@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["airship", "sky", "clouds", "angel", "vessel", "glory", "ascension", "white", "monumental", "divine"]
+tags_filter: ["wide", "no-face", "scene-mode", "creature-vehicle", "white-magic"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/24-parhelion-ii.png
 average_cost_paid: 0
 market_price: 0.97
@@ -29,18 +29,29 @@ oracle_text: Flying, first strike, vigilance\nWhenever Parhelion II attacks, cre
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: sublime
+time_of_day: dawn
+setting: other
 ---
 
 # Parhelion II (War of the Spark)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![24-parhelion-ii](../../_images/magic-the-gathering/war-of-the-spark/24-parhelion-ii.png)
 
+A colossal airship or sky-vessel dominates the frame, viewed from slightly below as it ascends through dramatic storm clouds and golden light. The vessel is constructed of pale white-tan stone or metal with sweeping wing-like extensions and layered architectural details. A glowing golden emblem — appearing as a stylized sun or fist — is visible on the lower hull. White birds (doves or similar) scatter from the vessel's passage. At the lower left, a smaller domed building or structure provides scale. The atmosphere is turbulent and awe-inspiring.
 
-**Subject:** 
+**Subject:** massive ornate angular white-stone airship ascending through dramatic clouds, a golden sun emblem on its hull, white birds scattering
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, narrative, figures: none, facing: right
+**Setting:** other, gothic, dawn, storm
+**Foreground:** large white airship with golden sun emblem, ascending  *(palette: cream, tan, gold)*
+**Background:** dramatic storm clouds, golden light, doves  *(palette: blue-grey, gold, white)*
+**Mood / lighting:** sublime, soft
+**Emotion read:** awe, grandeur, heavenly power ascending
+**Objects:** airship, vessel, golden-emblem
+**Creatures:** doves
+**Iconography:** sun-emblem
+**Genre cues:** fantasy
 

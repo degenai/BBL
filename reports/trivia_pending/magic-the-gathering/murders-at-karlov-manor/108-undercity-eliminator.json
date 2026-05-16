@@ -1,0 +1,41 @@
+{
+  "card_name": "Undercity Eliminator",
+  "game": "magic-the-gathering",
+  "set": "murders-at-karlov-manor",
+  "collector_number": "108",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'With their guild shunned for opening the doors to Phyrexia, some among the Golgari embraced their status as pariahs and took out their bitterness on all who crossed their paths.' [Scryfall] This references the Golgari Swarm's deep compleation during the March of the Machine Phyrexian invasion — Vraska, the Golgari guildmaster, had been Phyrexian-influenced and led many Golgari into compleation. The guild suffered severe casualties and social ostracism on Ravnica in the aftermath. [WebSearch snippet: Murders at Karlov Manor lore summary]",
+      "sources": ["Scryfall", "WebSearch snippet: Golgari post-Phyrexia lore"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Undercity Eliminator is typed Creature — Gorgon Assassin, placing this unnamed figure in the broader Golgari gorgon tradition. Gorgons are recurring Golgari creatures in Ravnica lore — Jarad's advisor Varolz and the gorgon community of the undercity are canonical presences. The 'eliminator' role in the flavor text is explicit: a guild pariah repurposing bitterness as violence against anyone in their path. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The enter trigger allows sacrificing an artifact or creature to exile a target creature an opponent controls — a flexible removal effect that works as both a sacrifice outlet and an exile answer. Legal in Standard through Vintage as of MKM release 2024-02-09. The exile-on-a-sacrifice pattern makes it useful in graveyard-recursive black-green shells that want to re-use enter-the-battlefield effects. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The rose-as-weapon motif (a gorgon using a flower stem to subdue an armored guard) is characteristic of MKM's noir mystery aesthetic — violence that is also aesthetically composed. Art by Quintin Gleim. The gorgon's contemptuous dominance over a heavily armored soldier signals that Golgari exile-status has not diminished their lethality. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Vraska, the Unseen", "set": "Return to Ravnica", "note": "Canonical Golgari gorgon planeswalker whose Phyrexian compleation led to the Golgari's post-invasion pariah status"},
+    {"name": "Lotleth Troll", "set": "Return to Ravnica", "note": "Golgari undercity creature from original Ravnica block — sets the aesthetic precedent"},
+    {"name": "Plague Witch", "set": "Exodus", "note": "Early Golgari-adjacent gorgon assassin archetype in MTG history"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

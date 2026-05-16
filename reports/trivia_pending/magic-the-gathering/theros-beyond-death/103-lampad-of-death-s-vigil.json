@@ -1,0 +1,41 @@
+{
+  "card_name": "Lampad of Death's Vigil",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "103",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Lampads are the black-aligned underworld nymphs of Theros, servants of Athreos (god of passage) who guide souls along the Tartyx River and reclaim wayward dead. They are distinguished by torch-bearing — their flames burn violet. Card type 'Enchantment Creature — Nymph' places her within Theros's Constellation/nymph mechanical subtype.",
+      "sources": ["WebSearch snippet: MTG Wiki: Nymph / Wizards Nymphs of Theros article", "Scryfall type_line"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Grief-struck, she weeps for each mortal's final death.' — Psemilla, Meletian poet. Psemilla is a confirmed Theros lore character (a bard from Meletis) who later received his own legendary creature card in Foundations Jumpstart (2025), where his abilities create Nymph tokens when you cast enchantment spells.",
+      "sources": ["Scryfall", "WebSearch snippet: Scryfall: Psemilla, Meletian Poet (J25/31)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As an Enchantment Creature, Lampad of Death's Vigil triggers Constellation on entry. Its sacrifice ability makes it a persistent drain engine. Hipsters of the Coast rated it B and described it as 'an easier to use Gnawing Zombie with enchantment and sacrifice synergies that also blocks quite well,' calling it potentially one of black's strongest commons.",
+      "sources": ["Hipsters of the Coast: Every Common in Theros Beyond Death Reviewed"]
+    },
+    {
+      "category": "design",
+      "text": "As a 1/3 for {1}{B}, the lampad's stats are oriented toward blocking (high toughness, low power), aligning with her lore role: a sentinel of the dead, not an aggressor. The sacrifice drain ability echoes the lampad's canonical function of deciding which mortals have truly died their final death.",
+      "sources": ["Scryfall oracle_text"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Athreos, Shroud-Veiled", "set": "THB", "note": "God of passage, canonical lord of lampads; Enchantment Creature with Constellation synergy"},
+    {"name": "Psemilla, Meletian Poet", "set": "J25", "note": "The flavor text's attributed speaker later received his own legendary card"},
+    {"name": "Gnawing Zombie", "set": "M14", "note": "The card Hipsters explicitly compared this to; direct mechanical predecessor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

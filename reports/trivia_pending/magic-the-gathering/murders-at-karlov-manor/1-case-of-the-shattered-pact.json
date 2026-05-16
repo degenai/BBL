@@ -1,0 +1,41 @@
+{
+  "card_name": "Case of the Shattered Pact",
+  "game": "magic-the-gathering",
+  "set": "murders-at-karlov-manor",
+  "collector_number": "1",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cases are a new enchantment subtype debuting in Murders at Karlov Manor (released 2024-02-09). Each Case has three abilities: an always-on enter effect, a \"To solve\" condition checked at the beginning of your end step, and a \"Solved\" reward that activates once the condition is met. The mechanic literalizes the detective-procedural conceit of the set — a case that advances stage by stage until it's closed. [Scryfall] [Wizards: Murders at Karlov Manor Mechanics]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/murders-at-karlov-manor-mechanics"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Case of the Shattered Pact has the most demanding solve condition in the Case cycle: five colors of permanents simultaneously on the battlefield. This gates it firmly in WUBRG (five-color) decks — primarily five-color Commander builds. Once solved, the reward (flying + double strike + vigilance on a creature each combat) is powerful but the solve condition means it rarely appears outside dedicated rainbow builds. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "As card no. 1 in the set, Case of the Shattered Pact holds the numerically first slot in Murders at Karlov Manor — a white enchantment that ramps (basic land on entry) while demanding the full chromatic spectrum to unlock its reward. The shattered-crystal art (iridescent shards in a dark void, by artist Peter Polach) visualizes a broken covenant or agreement — fitting for an Orzhov-adjacent set where the Karlov pact and guild compacts are under threat. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Format legality is broad: legal in Standard, Pioneer, Modern, Legacy, Vintage, and Commander as of release. The card sees minimal competitive play — its solve condition is too demanding for most two- or three-color formats, and in Commander it competes with more efficient ramp spells. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Case of the Burning Masks", "set": "Murders at Karlov Manor", "note": "Same Case enchantment subtype, different color (red), in the same set's Case cycle"},
+    {"name": "Agrus Kos, Spirit of Justice", "set": "Murders at Karlov Manor", "note": "Legendary creature central to the MKM murder investigation narrative"},
+    {"name": "Alquist Proft, Master Sleuth", "set": "Murders at Karlov Manor", "note": "Primary detective protagonist of the MKM story arc — the 'Sherlock' of the whodunit"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -33,8 +33,9 @@ mood: action
 time_of_day: night
 setting: urban
 suspected_ip: Kaya
-ip_confidence: med
-ip_verified: false
+ip_confidence: high
+ip_verified: true
+characters: [kaya]
 ---
 
 # The Chase Is On (Murders at Karlov Manor)
@@ -43,10 +44,10 @@ ip_verified: false
 
 ![116-the-chase-is-on](../../_images/magic-the-gathering/murders-at-karlov-manor/116-the-chase-is-on.png)
 
-> [!warning] Suspected IP: **Kaya** (confidence: med, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Kaya**
+> Confirmed via flavor text ("not even a master assassin could give Kaya the slip") and the existence of Kaya, Spirits' Justice (MKM no. 211) as a named legendary planeswalker in the same set. The pursuer with the pink-violet ghostly orb is Kaya Cassir. `[Scryfall flavor text + Scryfall: Kaya, Spirits' Justice MKM 211]`
 
-Two humanoid figures are suspended mid-leap above gothic spired rooftops at night. The upper-left figure wears a flowing black coat and levitates with a glowing pink-violet magical orb in one outstretched hand, body angled forward in aggressive pursuit. The lower-right figure also wears a black coat, arms thrown wide and back, caught mid-flight as if just struck or cornered. Gothic cathedral spires and dark orange-lit windows fill the background. The flavor text names Kaya and Etrata specifically; Kaya is an established planeswalker character — flagging as suspected IP at medium confidence. The scene conveys a high-speed rooftop confrontation with ghostly magic.
+Two humanoid figures are suspended mid-leap above gothic spired rooftops at night. The upper-left figure wears a flowing black coat and levitates with a glowing pink-violet magical orb in one outstretched hand, body angled forward in aggressive pursuit. The lower-right figure also wears a black coat, arms thrown wide and back, caught mid-flight as if just struck or cornered. Gothic cathedral spires and dark orange-lit windows fill the background. The flavor text names Kaya and Etrata specifically. The scene conveys a high-speed rooftop confrontation with ghostly magic.
 
 **Subject:** Two figures in black coats leaping across Ravnica rooftops at night — a pursuer channeling a glowing violet orb bears down on a fleeing figure whose arms are thrown back
 
@@ -59,4 +60,17 @@ Two humanoid figures are suspended mid-leap above gothic spired rooftops at nigh
 **Objects:** magical-orb
 **Iconography:** violet-magic-orb, gothic-spire
 **Genre cues:** fantasy, noir
+
+**Verified IP:** Kaya (confidence: high)
+
+## Trivia
+
+- **Flavor text** — `"Etrata evaded the Boros arresters and Azorius lawmages, but not even a master assassin could give Kaya the slip."` `[Scryfall]` Kaya Cassir is a ghost-hunting planeswalker and former guildmaster of the Orzhov Syndicate on Ravnica. In MKM she joins Alquist Proft to investigate the Karlov Manor murders. Etrata is a Dimir vampire assassin who attended the party in disguise and was ultimately captured after attempting to flee. `[WebSearch snippet: MKM lore summary]`
+- **IP verified: Kaya** — The pursuer with the pink-violet ethereal orb is Kaya Cassir: the flavor text explicitly names her as the one who caught Etrata, and Kaya, Spirits' Justice (MKM no. 211) is her named legendary planeswalker card in the same set. Kaya is the only planeswalker in MKM who retained her spark through the Phyrexian invasion's Desparkening. `[Scryfall]` `[WebSearch snippet: Draftsim MKM planeswalkers]`
+- **Mechanical note** — Target creature gets +3/+0 and gains first strike until end of turn, plus Investigate (create a Clue token). Legal in Pauper — notable because common combat tricks that also generate card advantage are a rarity. `[Scryfall]`
+
+### Related cards
+- Kaya, Spirits' Justice (Murders at Karlov Manor, no. 211) — the named figure's planeswalker card in the same set
+- Etrata, Deadly Fugitive (Murders at Karlov Manor, no. 200) — the named fleeing figure; Dimir vampire assassin
+- Kaya, Ghost Assassin (Conspiracy: Take the Crown) — Kaya's debut card in MTG canon
 

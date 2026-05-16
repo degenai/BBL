@@ -52,3 +52,15 @@ A bearded man in dark clothing recoils in pain, both hands raised to his face as
 **Iconography:** flock, swarm
 **Genre cues:** fantasy, dark-fantasy, gothic
 
+## Trivia
+
+- **Set context** — Revenge of Ravens is a {3}{B} enchantment from Throne of Eldraine (ELD, 2019). It is a first printing with no reprints [Scryfall]. The card resides in ELD's black section and mechanically discourages combat — any creature that attacks you costs its controller 1 life while you gain 1 life, making it a soft deterrent enchantment rather than a hard removal piece [Scryfall oracle text].
+- **Flavor-text context** — `"Syr Tasdale declared that he never wanted to see the witch Ygretta again. Her familiars quickly granted his request."` [Scryfall]. This flavor text is a darkly comedic payoff: Tasdale's wish is literally granted — he will never see Ygretta again — because the ravens claw his eyes (or simply mob him blind). The same Syr Tasdale is the speaker in Deafening Silence (ELD no. 10), making him the only named mortal figure appearing in both an Ardenvale (white) card's flavor and a Locthwain-adjacent (black) card's flavor in this set, suggesting a narrative arc of a knight who transgresses against the Wilds and suffers for it [Scryfall].
+- **Character note** — Ygretta is named only in this flavor text and does not appear on her own named card in ELD. She is one of several barrow witches referenced across the set's black cards whose names appear only in flavor rather than as Legendary creatures [Scryfall; WebSearch: Eldraine lore via thegamerslodge.com].
+- **Mechanical reputation** — EDHREC rank 2,760 — one of the stronger performers in this set of cards, appearing regularly in life-gain and pillow-fort Commander strategies. Its 1-for-1 life-swing on every attack is cumulative and grinds down aggressive opponents effectively [Scryfall EDHREC rank].
+
+### Related cards
+- Deafening Silence (ELD, no. 10) — Syr Tasdale speaks the flavor text there too; the two cards trace his arc
+- Barrow Witches (ELD, no. 77) — depicts the witch faction Ygretta belongs to
+- Hissing Quagmire / No Mercy — similar "punish attackers" enchantment design space
+

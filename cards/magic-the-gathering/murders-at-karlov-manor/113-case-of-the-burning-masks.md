@@ -51,3 +51,14 @@ The image is framed by heavy dark vertical edges — the narrow gap of a doorway
 **Iconography:** fire, door
 **Genre cues:** fantasy, noir
 
+## Trivia
+
+- **Set / lore context** — Case of the Burning Masks is the red entry in MKM's Case enchantment cycle. The "burning masks" title invokes both the Rakdos Cult's fire-and-performance aesthetic and the noir-mystery motif of identities being incinerated or stripped away. As a red card in a set dominated by Azorius, Dimir, and Orzhov guild tones, its Rakdos-coded imagery aligns with Judith's subplot in the MKM story arc. `[Scryfall]`
+- **Mechanical note** — Solve condition: three or more sources you controlled dealt damage this turn. Aggressive-deck friendly, rewarding wide burn or token-attack strategies. Solved reward: sacrifice this Case to exile the top three library cards and play one of them that turn — a one-shot impulse-draw payoff for aggro-spellslinger builds. Legal in Standard, Pioneer, Modern, Legacy, Vintage, and Commander. `[Scryfall]`
+- **Design** — No flavor text on this card. Art by Bastien L. Deharme depicts a burning interior framed by a dark doorway — the viewer observes the crime scene through a crack, voyeuristically. The compositional choice mirrors the Case mechanic's procedural logic: investigating from the outside, gathering evidence toward closure. `[Scryfall]`
+
+### Related cards
+- Case of the Shattered Pact (Murders at Karlov Manor, no. 1) — white Case from the same set's Case enchantment cycle
+- Judith, Carnage Connoisseur (Murders at Karlov Manor) — Rakdos character whose fire-and-performance aesthetic connects to "Burning Masks" imagery
+- Light Up the Stage (Ravnica Allegiance) — red Rakdos card with similar exile-top-cards-and-play payoff
+

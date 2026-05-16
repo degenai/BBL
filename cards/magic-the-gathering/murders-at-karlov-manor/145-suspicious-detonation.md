@@ -54,3 +54,15 @@ The art depicts a compact mechanical device resting on wooden plank flooring. Th
 **Iconography:** explosion, fire ring, arcane energy burst
 **Genre cues:** fantasy, steampunk
 
+## Trivia
+
+- **Set context** — Suspicious Detonation is a red Sorcery from Murders at Karlov Manor. The flavor text frames the explosion as a planted clue rather than an accident — consistent with MKM's murder-mystery structure where the killer leaves evidence `[Scryfall]`.
+- **Mechanical design** — Costs 4R normally, but reduces by 3 if an artifact was sacrificed this turn — making it functionally 1R in artifact-sacrifice builds. It also cannot be countered, including by ward. Uncounterability on a common sorcery is uncommon design space and significantly improves its value against control or ward-heavy permanents `[Scryfall oracle text]`.
+- **Flavor text** — "Clearly someone wanted us to find this." — Runubi of the Foundway Associates `[Scryfall]`. Runubi is one of four named Foundway Associates members across this batch's MKM cards: Udol (Gearbane Orangutan), Imel (Offender at Large), Runubi (Suspicious Detonation), and Algrom (Torch the Witness). The Associates form a recurring secondary investigator ensemble woven through MKM's flavor text layer `[Scryfall, WebSearch: MTG Salvation MKM lore]`.
+- **Design** — Artist: Joe Slucher. The spiral-shell mechanical device in the art is not named in any canon source; it reads as an Izzet-style arcane explosive. EDHREC rank 22414 `[Scryfall]`.
+
+### Related cards
+- Galvanize (MKM, no. 128) — another red removal spell in MKM that interacts with the Clue/draw engine
+- Gearbane Orangutan (MKM, no. 129) — artifact sacrifice outlet that enables Suspicious Detonation's 3-mana cost reduction in the same turn
+- Torch the Witness (MKM, no. 146) — red removal sorcery in MKM with Foundway Associates flavor text; thematic pair
+

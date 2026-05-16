@@ -1,0 +1,36 @@
+{
+  "card_name": "Scavenging Harpy",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "114",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "On Theros, harpies are 'shrieking buzzards of the badlands' who prefer to steal and harass, filling their aeries with stolen objects they have no use for. Flavor text: 'Desecrating the dead is a convenient way for harpies to expand their foul collections.' Harpies are one of the creature types that can pass into the Underworld, making them a natural fit for THB's underworld focus.",
+      "sources": ["Scryfall flavor_text", "WebSearch snippet: Planeswalker's Guide to Theros Part 3 / MTG Wiki: Underworld"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Scavenging Harpy is a 2/1 Flying creature for {2}{B} whose ETB effect exiles a card from an opponent's graveyard — mechanically countering the set's Escape mechanic (which requires exiling cards from the graveyard). Hipsters of the Coast rated it B, noting its exile upside as directly relevant against Escape strategies.",
+      "sources": ["Scryfall", "Hipsters of the Coast: Every Common in Theros Beyond Death Reviewed"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank: 28,926 — among the lower-played THB commons in Commander, consistent with its role as a narrow meta-specific hoser rather than a general-value creature.",
+      "sources": ["Scryfall: edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Harpy", "set": "THS", "note": "The original Theros set's harpy creature, establishing the type's presence on the plane"},
+    {"name": "Woe Strider", "set": "THB", "note": "Another THB black creature that exiles from graveyard, occupying related graveyard-hate design space"},
+    {"name": "Pharika's Spawn", "set": "THB", "note": "Another Gorgon-adjacent black THB creature in the same underworld creature cluster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

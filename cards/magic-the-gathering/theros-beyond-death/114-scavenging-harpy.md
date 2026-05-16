@@ -52,3 +52,13 @@ A lean harpy crouches on a weathered stone ridge, her body twisted forward in a 
 **Creatures:** harpy
 **Genre cues:** fantasy, mythological, greek-myth
 
+## Trivia
+
+- **Set / lore context** — On Theros, harpies are described as "shrieking buzzards of the badlands," preferring to steal and harass rather than kill outright. Their aeries are filled with stolen objects they have no use for — an Underworld-adjacent hoarding behavior the flavor text codifies: "Desecrating the dead is a convenient way for harpies to expand their foul collections" `[Scryfall flavor_text; WebSearch snippet: Planeswalker's Guide to Theros Part 3, Wizards]`. Harpies are one of the creature types that can pass into the Underworld — functioning as scavengers of both the living world and the dead — making them a natural fit for THB's underworld focus `[WebSearch snippet: MTG Wiki: Underworld]`.
+- **Mechanical note** — Scavenging Harpy is a 2/1 Flying creature for {2}{B} whose ETB effect exiles a card from an opponent's graveyard. This mechanically mirrors the harpy's role as a desecrator of the dead: the exile effect specifically counters the set's Escape mechanic (which requires exiling cards from the graveyard to cast) `[Scryfall]`. Hipsters of the Coast rated it B, noting "black is often better able to leverage fragile fliers with its powerful removal" and flagging its exile upside as directly relevant against Escape strategies in the THB format `[Hipsters of the Coast: "Every Common in Theros Beyond Death Reviewed"]`.
+- **EDHREC context** — Scryfall lists an EDHREC rank of 28,926, placing it among the lower-played THB commons in Commander — consistent with its role as a narrow meta-specific hoser rather than a general-value creature `[Scryfall: edhrec_rank]`.
+
+### Related cards
+- Harpy (THS, no. 93) — the original Theros set's harpy creature, establishing the type's presence on the plane
+- Woe Strider (THB, no. 123) — another THB black creature that also exiles from graveyard as a cost, occupying a related graveyard-hate design space
+- Pharika's Spawn (THB) — another Gorgon-adjacent black THB creature in the same underworld creature cluster

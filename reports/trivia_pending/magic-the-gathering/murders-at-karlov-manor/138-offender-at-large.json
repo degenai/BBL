@@ -1,0 +1,41 @@
+{
+  "card_name": "Offender at Large",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "138",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Offender at Large is a red 5/4 Creature with type Giant Rogue — the Scryfall type line confirms this is a Giant, despite the figure reading as human-sized in the art (perspective and crowd scale compress the size). In Ravnica lore, Giants are relatively rare non-guild creatures [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Offender at Large has the Disguise mechanic: cast face-down for 3 mana as a 2/2 with ward 2, flip up for 4R. When it enters or is turned face up, it grants a creature +2/+0 until end of turn. Disguise is MKM's evolution of Morph — the ward 2 on the face-down creature adds meaningful protection against bounce or kill before flip [Scryfall oracle text, magic.wizards.com/en/news/feature/murders-at-karlov-manor-mechanics].",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/murders-at-karlov-manor-mechanics"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"In a city this big, anyone can blend in.\" — Imel of the Foundway Associates [Scryfall]. The Foundway Associates appear as recurring flavor-text voices across MKM; Imel is one of at least four named members (also: Udol, Algrom, Runubi), functioning as a secondary investigative faction in the set's world-building [Scryfall, WebSearch snippet].",
+      "sources": ["Scryfall", "WebSearch: MTG Salvation MKM flavor text compilation"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Mike Bierek. EDHREC rank 25742 — one of the lower-ranked cards in this batch, consistent with Disguise 4R being expensive for Commander formats where 5-CMC creatures face steep competition [Scryfall]. The card also has a related token: A Mysterious Creature (the generic face-down 2/2 for all Disguise/Morph cards) [Scryfall all_parts].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Goblin Maskmaker", "set": "Murders at Karlov Manor", "note": "Reduces the cost of face-down spells including Offender at Large's Disguise cast"},
+    {"name": "A Mysterious Creature", "set": "Murders at Karlov Manor", "note": "The generic face-down token that represents Offender at Large when Disguised"},
+    {"name": "Rubblebelt Braggart", "set": "Murders at Karlov Manor", "note": "Also a large red creature at 5 CMC in MKM; thematic pair of Ravnica's criminal scene at high CMC"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

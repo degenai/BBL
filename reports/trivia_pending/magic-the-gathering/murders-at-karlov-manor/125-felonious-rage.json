@@ -1,0 +1,36 @@
+{
+  "card_name": "Felonious Rage",
+  "game": "magic-the-gathering",
+  "set": "murders-at-karlov-manor",
+  "collector_number": "125",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'It's hard to keep the peace if you can't even control your temper.' [Scryfall] The quote is unattributed. The irony is mechanical: the card pumps a creature into a rage (+2/+0 + haste) precisely to get it killed this turn, and the 'reward' for the creature dying is that the law (a white-blue Detective token) shows up. The flavor text's admonition is the punchline — rage ends in investigation.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Felonious Rage costs {R} and creates a conditional Detective token: if the boosted creature dies this turn, you create a 2/2 white and blue Detective creature token. This makes it a pseudo-cantrip combat trick in decks that want both aggression and the Detective token type. Detective tokens are a MKM-specific creature type that appear across the set as a consequence-of-violence motif. Legal in Pauper — a notable format inclusion for a common instant. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Justine Cruz depicts a small cat-like creature erupting through a golden-orange burst, framed by two large foreground hands — the creature has broken free of a grip. The Neon Dynasty-era Kamigawa cat-creature associations aside, this is thematically unnamed in MKM. The large hands framing the scene may reference a captor or investigator unable to contain the feral creature — reinforcing the flavor-text theme of temper outrunning control. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Reckless Charge", "set": "Odyssey", "note": "Classic red haste pump instant — functional predecessor to Felonious Rage's core effect"},
+    {"name": "Thrill of Possibility", "set": "Throne of Eldraine", "note": "Red instant with conditional value, comparable design philosophy"},
+    {"name": "Alquist Proft, Master Sleuth", "set": "Murders at Karlov Manor", "note": "Creates the same white-blue Detective token type that Felonious Rage spawns on creature death"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

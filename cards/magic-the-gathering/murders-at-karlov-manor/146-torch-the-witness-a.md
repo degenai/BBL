@@ -51,3 +51,15 @@ A top-down perspective looks down at a cracked stone floor where a dark, ashen o
 **Iconography:** star-badge
 **Genre cues:** fantasy, noir
 
+## Trivia
+
+- **Set context** — Torch the Witness is an uncommon red Sorcery from Murders at Karlov Manor. The card's title names one of the murder plot's methods: silencing witnesses before they can testify. Scryfall shows two art variants at no. 146 — 146a (normal frame) and 146b (alternate/showcase frame); this card (UUID `22bbf709`) is the showcase variant by artist Andrew Mar `[Scryfall]`.
+- **Mechanical design** — Deals twice X damage to a target creature; if excess damage is dealt, Investigate (create a Clue token). The Investigate payoff rewards overkill: using a larger X than needed to kill the target generates evidence. This scalable X-spell structure on a red sorcery is rare and gives the card flexibility from early-game pinpoint removal to late-game finisher `[Scryfall oracle text]`.
+- **Flavor text** — "He was scheduled to meet me tomorrow with something important to share. This was no coincidence." — Algrom of the Foundway Associates `[Scryfall]`. This is the only MKM flavor text in this batch that directly implicates the murder plot's larger conspiracy: the witness had information and was eliminated before delivery. Algrom joins Runubi, Imel, and Udol as named Foundway Associates across this wave's cards `[Scryfall, WebSearch: MTG Salvation MKM lore]`. **Character-node flag: Algrom is a candidate for a Foundway Associates ensemble node alongside Runubi, Imel, and Udol.**
+- **Design** — Artist: Andrew Mar (this showcase variant). EDHREC rank 16399 — highest Commander uptake among the non-creature spells in this batch, likely because scalable X-damage plus Investigate value fills both a removal and draw role `[Scryfall]`.
+
+### Related cards
+- Torch the Witness (normal frame, MKM, 146a) — alternate art version of the same oracle card
+- Galvanize (MKM, no. 128) — red instant in MKM dealing damage with a draw-payoff clause; thematic pair
+- Suspicious Detonation (MKM, no. 145) — red removal sorcery with Foundway Associates flavor text; Runubi vs. Algrom as narrators
+

@@ -55,3 +55,15 @@ A massive creature with distinctly red skin, multiple large horns, and a wide-op
 **Iconography:** skull
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Rubblebelt Braggart is a red 5/5 Creature with type Lizard Warrior. The Rubblebelt is Ravnica's discontinuous wasteland zone held by the Gruul Clans — overgrown ruins on the fringes of the Tenth District where guild order breaks down. Lizard Warriors are an established Gruul-adjacent creature type in Ravnica, with Rubblebelt Runner from Ravnica Allegiance as a direct predecessor `[Scryfall, WebSearch: mtg.wiki/page/Gruul_Clans]`.
+- **Mechanical design** — The Suspect keyword is MKM's murder-mystery mechanic: a suspected creature gains menace and cannot block. Rubblebelt Braggart self-suspects on attack (if not already suspected), trading its blocking ability for menace — a strong trade for a 5/5 that has no need to block `[Scryfall oracle text, magic.wizards.com/en/news/feature/murders-at-karlov-manor-mechanics]`.
+- **Flavor text** — "I did it! Double — no, triple homicide! In a building I set on fire. Yep, all me." — Speaker implied: the Braggart `[Scryfall]`. The escalating self-correction (double to triple, mid-sentence) is the joke: bragging about crimes as social currency, inflating the count in real time. It is also the most literally descriptive Suspect-mechanic flavor text in MKM.
+- **Design** — Artist: Leonardo Santanna. Previewed via the official Wizards card gallery on 2024-01-23. EDHREC rank 25895 — low Commander uptake, consistent with a 5-mana common facing stiff competition `[Scryfall]`.
+
+### Related cards
+- Rubblebelt Runner (Ravnica Allegiance, no. 202) — earlier Lizard Warrior from the Rubblebelt; establishes the creature type's MKM lineage
+- Person of Interest (MKM, no. 139) — second Suspect-keyword card confirmed in this batch alongside Braggart
+- Skarrgan Hellkite (Ravnica Allegiance) — high-power red Gruul-adjacent creature from Ravnica; thematic comparison at the top of the curve
+

@@ -1,0 +1,41 @@
+{
+  "card_name": "Revenge of Ravens",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "104",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "First printing, no reprints. Soft-deterrent enchantment: any creature attacking you costs its controller 1 life / gains you 1 life per attacker.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Syr Tasdale declared that he never wanted to see the witch Ygretta again. Her familiars quickly granted his request.' Dark comedy payoff — the wish is granted literally. Syr Tasdale also speaks the flavor text on Deafening Silence (ELD 10), making him the only named mortal figure bridging a white Ardenvale card and a black Wilds-adjacent card in the set.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Ygretta is named only in this flavor text — she has no named creature card in ELD. One of several barrow-witch figures referenced across the set's black cards who exist only in flavor text, not as Legendary permanents.",
+      "sources": ["Scryfall; WebSearch: Eldraine lore via thegamerslodge.com"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 2,760 — one of the stronger performers among the ELD black cards in this batch. Cumulative life-swing in pillow-fort and life-gain Commander strategies.",
+      "sources": ["Scryfall EDHREC rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Deafening Silence", "set": "Throne of Eldraine", "note": "Syr Tasdale speaks the flavor text on both cards — traces his narrative arc across white and black"},
+    {"name": "Barrow Witches", "set": "Throne of Eldraine", "note": "Depicts the witch faction Ygretta belongs to"},
+    {"name": "No Mercy", "set": "Urza's Legacy", "note": "Similar punish-attackers enchantment design space"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

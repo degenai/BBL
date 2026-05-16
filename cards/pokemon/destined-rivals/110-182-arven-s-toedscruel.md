@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["mushroom", "tentacles", "fungus", "alien", "uncanny", "nature", "forest", "colony", "strange", "trainer"]
+tags_filter: ["solo", "mid-shot", "portrait", "three-quarter", "grass-type", "creature"]
 reference_image: cards/_images/pokemon/destined-rivals/110-182-arven-s-toedscruel.png
 average_cost_paid: 0
 market_price: 0.09
@@ -27,6 +27,33 @@ oracle_text: Pull (Colorless): Switch in 1 of your opponent's Benched Pokémon t
 image_width: 733
 image_height: 1024
 image_quality: high
+mood: other
+time_of_day: day
+setting: forest
+suspected_ip: Toedscruel (#953)
+ip_confidence: high
+ip_verified: false
 ---
 
 # Arven's Toedscruel (Destined Rivals)
+
+## Vision
+
+![110-182-arven-s-toedscruel](../../_images/pokemon/destined-rivals/110-182-arven-s-toedscruel.png)
+
+> [!warning] Suspected IP: **Toedscruel (#953)** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A tall, unusual creature with a broad mushroom cap-like top and numerous long, fleshy tentacle-like legs stands in a warm outdoor setting. The figure has a pale yellow or tan bulbous upper body and multiple squirming or coiled appendages extending downward. Around and behind it, the scene suggests an open field or low vegetation area with warm golden-yellow tones suggesting late afternoon light. The creature's form is alien and unsettling despite the warm surroundings.
+
+**Subject:** Arven's Toedscruel, a tall mushroom-like creature with long tentacle legs in an outdoor setting
+
+**Composition:** mid-shot, portrait, figures: solo, facing: three-quarter
+**Setting:** forest, day, clear
+**Foreground:** tall mushroom-capped creature with multiple tentacle-like legs  *(palette: tan, yellow, pale-cream)*
+**Background:** warm golden outdoor setting with low vegetation  *(palette: golden-yellow, warm-tan, green)*
+**Mood / lighting:** other, soft
+**Emotion read:** alien, uncanny, watchful
+**Creatures:** mushroom-creature, tentacled-creature
+**Genre cues:** anime
+

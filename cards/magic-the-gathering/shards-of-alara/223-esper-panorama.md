@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["sky", "clouds", "floating-island", "obelisk", "monumental", "landscape", "sublime", "architecture", "vast", "sky-city"]
+tags_filter: ["wide", "scene-mode", "land", "no-face"]
 reference_image: cards/_images/magic-the-gathering/shards-of-alara/223-esper-panorama.png
 average_cost_paid: 0
 market_price: 0.35
@@ -29,6 +29,27 @@ oracle_text: {T}: Add {C}.\n{1}, {T}, Sacrifice this land: Search your library f
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: sublime
+time_of_day: twilight
+setting: other
 ---
 
 # Esper Panorama (Shards of Alara)
+
+## Vision
+
+![223-esper-panorama](../../_images/magic-the-gathering/shards-of-alara/223-esper-panorama.png)
+
+A sweeping landscape painting depicts enormous floating stone platforms shrouded in billowing white and grey clouds against a dark, overcast sky. A tall slender obelisk or spire rises at the center. In the lower right, an arched bridge or tower structure is barely visible at the edge of the composition. A tiny humanoid silhouette stands at the very bottom left, dwarfed entirely by the scale of the environment. The mood is sublime and awe-inspiring, with muted tones of ivory, grey, and dark charcoal.
+
+**Subject:** vast sky panorama with massive cloud-wrapped floating stone islands, a tall obelisk spire, and distant architecture
+
+**Composition:** wide, narrative, figures: solo, facing: n/a
+**Setting:** other, gothic, twilight, fog
+**Foreground:** tiny humanoid silhouette on the ground  *(palette: grey, black)*
+**Background:** floating stone islands, clouds, dark sky, obelisk spire  *(palette: ivory, grey, charcoal, dark-blue)*
+**Mood / lighting:** sublime, ambient
+**Emotion read:** awe, scale overwhelms the individual
+**Objects:** obelisk, bridge, floating-island
+**Genre cues:** fantasy, sci-fi
+

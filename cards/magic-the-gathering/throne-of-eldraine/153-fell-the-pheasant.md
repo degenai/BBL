@@ -10,8 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub: ["hunt", "horse", "hawk", "falconry", "sunset", "nobility", "outdoors", "animals", "riding", "countryside"]
+tags_filter: ["group", "three-quarter", "wide", "instant", "scene-mode"]
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/153-fell-the-pheasant.png
 average_cost_paid: 0
 market_price: 0.21
@@ -29,6 +29,28 @@ oracle_text: Fell the Pheasant deals 5 damage to target creature with flying. Cr
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: sunset
+setting: other
 ---
 
 # Fell the Pheasant (Throne of Eldraine)
+
+## Vision
+
+![153-fell-the-pheasant](../../_images/magic-the-gathering/throne-of-eldraine/153-fell-the-pheasant.png)
+
+A noble-looking figure on horseback rides a white horse at the front of a hunting party, arm raised high to display a large bird of prey perched on their gloved hand with wings spread. The rider wears traveling clothes with a cloak. Behind them, one or two more mounted figures on a darker horse follow, alongside several hunting dogs trotting at ground level. The setting is open green countryside with a warm golden sunset sky overhead, conveying the grandeur and leisure of a noble hunt.
+
+**Subject:** mounted rider on white horse holding a large hunting bird aloft, accompanied by other riders and hunting dogs
+
+**Composition:** wide, narrative, figures: group, facing: three-quarter
+**Setting:** other, sunset, clear
+**Foreground:** mounted rider on white horse with bird of prey raised on arm  *(palette: cream, green, gold)*
+**Background:** golden sunset sky, green rolling hills, trees  *(palette: orange, yellow, gold, green)*
+**Mood / lighting:** action, soft
+**Emotion read:** pride, triumph, noble authority
+**Objects:** horse, hunting-bird, saddle
+**Creatures:** horse, hawk, dogs
+**Genre cues:** fantasy, medieval
+

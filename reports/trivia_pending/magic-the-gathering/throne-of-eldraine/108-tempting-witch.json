@@ -1,0 +1,41 @@
+{
+  "card_name": "Tempting Witch",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "108",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Art and mechanics directly reference the Evil Queen / Witch from Snow White: hooded figure offering a red apple, cottage setting, and the drain effect literalizes the poisoned-apple trope. Part of ELD's Snow White reference cluster with Glass Casket and Magic Mirror.",
+      "sources": ["Scryfall", "WebSearch: ELD flavor inspirations via coolstuffinc.com", "WebSearch: ELD Eldraine Flavor Inspirations via mtgnexus.com"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Murder clad in crimson beauty, / An end to life and love and duty.' —Barrow witch incantation. Second barrow-witch incantation in ELD (alongside Reave Soul no. 103), both dark rhyming verse — a deliberate flavor micro-cycle across ELD's black common slot.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "One of ELD's introductory Food-token cards. Tempting Witch flips the Food from life-gain to life-loss via activated ability — the Food becomes an instrument of harm rather than healing, mechanically inverting its default function.",
+      "sources": ["Scryfall oracle text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 16,075. Appears in Food-matters and lifegain-drain Commander strategies. Not a Constructed staple.",
+      "sources": ["Scryfall EDHREC rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Witch's Oven", "set": "Throne of Eldraine", "note": "Food-creation artifact; same mechanical ecosystem; Hansel & Gretel / Curious Pair fairy-tale cluster"},
+    {"name": "Glass Casket", "set": "Throne of Eldraine", "note": "Snow White reference cycle member in ELD"},
+    {"name": "Reave Soul", "set": "Throne of Eldraine", "note": "Shares 'Barrow witch incantation' flavor-text attribution; flavor micro-cycle pair"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

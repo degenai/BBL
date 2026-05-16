@@ -1,0 +1,41 @@
+{
+  "card_name": "Specter's Shriek",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "106",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "First printing, no reprints. Unusual hand-disruption mechanic: exile a nonland card from opponent's hand, but if it's nonblack you must also exile a card from your own hand — rewards mono-black builds.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Imagine having your skeleton extracted through your ear, one bone at a time.' —Corliss the Wanderer. Corliss the Wanderer does not appear as a named creature card in ELD — flavor-text-only character. The quote is among the set's most viscerally memorable flavor lines.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 26,306 — lowest in this batch. Self-exile cost when hitting nonblack cards limits appeal outside mono-black dedicated builds.",
+      "sources": ["Scryfall EDHREC rank", "Scryfall legalities"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Svetlin Velinov, Bulgarian illustrator with a long high-profile MTG run. Screaming hooded figure is characteristic of his dramatic chiaroscuro portraiture style.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Reaper of Night // Harvest Fear", "set": "Throne of Eldraine", "note": "Set-mate themed around spectral discard and hand depletion"},
+    {"name": "Thoughtseize", "set": "Lorwyn", "note": "Canonical black hand-disruption benchmark"},
+    {"name": "Inquisition of Kozilek", "set": "Rise of the Eldrazi", "note": "Similar conditional hand disruption at {B}"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
