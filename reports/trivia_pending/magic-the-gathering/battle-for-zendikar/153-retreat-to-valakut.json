@@ -1,0 +1,48 @@
+{
+  "card_name": "Retreat to Valakut",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "153",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Retreat to Valakut is the red member of the five-card BFZ Retreat enchantment cycle, each depicting a named Zendikar location and having a landfall trigger. The full cycle: Retreat to Emeria (white, 44), Retreat to Coralhelm (blue, 82), Retreat to Hagra (black, 121), Retreat to Valakut (red, 153), Retreat to Kazandu (green, 186) [Scryfall: BFZ set search].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Valakut, the Molten Pinnacle is described as the largest and most active volcanic peak of Zendikar's Crown range. It is the plane's most famous landmark with a longstanding card of the same name from the original Zendikar set (2009), which generates 3 damage per Mountain entering when controlling five or more Mountains — a card that became a Modern combo staple [Scryfall: Valakut, the Molten Pinnacle, Zendikar 228; WebSearch snippet].",
+      "sources": ["Scryfall", "WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's two landfall modes — +2/+0 or 'can't block this turn' — make it a combat-efficiency tool rather than a card-advantage engine. EDHREC rank 15614 suggests moderate Commander inclusion; it sees more use in landfall-focused decks than standalone builds [Scryfall: edhrec_rank].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Retreat to Valakut has no flavor text [Scryfall: no flavor_text field], unlike some of its cycle-mates. The art (painted by Kieran Yanner) does the location-establishing work that flavor text would otherwise carry. Art depicts the volcanic canyon landscape of Valakut purely as environment, no characters present.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Legal in Pioneer, Modern, Legacy, and Commander. The card sees fringe use in Scapeshift-adjacent Pioneer lists where landfall triggers help push through blockers on the combo turn, but Retreat to Valakut is not a centerpiece of any tier-1 deck [Scryfall; WebSearch: Valakut combo Pioneer/Modern].",
+      "sources": ["Scryfall", "WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Valakut, the Molten Pinnacle", "set": "Zendikar", "note": "The actual legendary land this card depicts — the definitive Valakut reference, a Modern/Pioneer combo centerpiece"},
+    {"name": "Retreat to Emeria", "set": "Battle for Zendikar", "note": "White cycle-mate — landfall creates 1/1 white Kor Soldier tokens or gives +1/+1 to all creatures"},
+    {"name": "Retreat to Coralhelm", "set": "Battle for Zendikar", "note": "Blue cycle-mate — most competitively played Retreat; enables infinite landfall loops with Knight of the Reliquary"},
+    {"name": "Retreat to Kazandu", "set": "Battle for Zendikar", "note": "Green cycle-mate — landfall puts +1/+1 counter on target or gains 2 life"},
+    {"name": "Retreat to Hagra", "set": "Battle for Zendikar", "note": "Black cycle-mate — landfall forces target creature to get -1/-1 or opponent loses 1 life and you gain 1"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

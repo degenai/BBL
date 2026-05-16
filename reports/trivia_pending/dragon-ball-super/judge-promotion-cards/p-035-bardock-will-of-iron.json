@@ -1,0 +1,41 @@
+{
+  "card_name": "Bardock, Will of Iron",
+  "game": "Dragon Ball Super",
+  "set": "Judge Promotion Cards",
+  "collector_number": "P-035",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, character field (bardock), and era trait (Bardock Saga / Saiyan / Great Ape traits) all explicitly name Bardock. Visual: Great Ape / Oozaru transformation, massive brown-furred form, mouth open roaring, yellow energy bursts — consistent with Bardock's Oozaru state as depicted in the DBS card game. The card's evolve mechanic keys off a <Bardock> card, directly confirming the depicted figure is Bardock in transformed state. IP verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "P-035 is a promo Battle card released as part of the Official Tournament Pack Vol.3 — CROSS WORLDS, distributed in tournaments starting March 9, 2018. It is a Judge Promotion card, awarded to certified DBS-TCG judges through tournament kits — not available through retail or tournament wins, secondary market only for players. [WebSearch: DBS card game search result showing P-035 promo origin; progamingcrew.com Judge cards explained]",
+      "sources": ["WebSearch: DBS promotion card P-035 Official Tournament Pack Vol.3", "WebSearch: DBS Judge Promotion cards explained"]
+    },
+    {
+      "category": "design",
+      "text": "Yellow Battle card, power 20000, traits: Saiyan / Great Ape. Key ability: during your turn, at the end of a battle in which this card is used as a combo, you may evolve a <Bardock> card in your Battle Area into this card — representing Bardock's transformation into the Great Ape mid-sequence. [WebSearch: DBS card game promo list P-035 ability text snippet]",
+      "sources": ["WebSearch: DBS P-035 Bardock Will of Iron card details"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Bardock's Great Ape / Oozaru form originates in the Dragon Ball Z: Bardock - The Father of Goku TV special (1990, Toei), where Bardock and his squad are depicted as Great Apes in the opening sequence. Bardock is portrayed as unusual in retaining memory and awareness during the Oozaru transformation, while most Saiyans operate in berserk mode. [WebSearch: Dragon Ball Wiki Great Ape transformation; Bardock Wikipedia summary]",
+      "sources": ["Dragon Ball Wiki Great Ape (WebSearch snippet)", "Wikipedia: Bardock (WebSearch snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Bardock's canonical status shifted significantly with Dragon Ball Super: Broly (2018), which adopted the Dragon Ball Minus version of events (Bardock as a concerned father who sends Kakarot to Earth before Frieza's genocide) as official canon, retiring the 1990 TV special's timeline. P-035 predates this shift — released in the Cross Worlds tournament window — so it draws from the older, pre-Broly-film Bardock Saga framing. [WebSearch: ComicBook.com — How Does Dragon Ball Super: Broly Retcon Bardock?]",
+      "sources": ["ComicBook.com (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bardock (various humanoid form cards)", "set": "multiple DBS sets", "note": "P-035's evolve mechanic keys off a <Bardock> card — designed to combo with Bardock's humanoid base forms"},
+    {"name": "Gine, Family of Justice", "set": "Cross Worlds (BT3-087)", "note": "Gine's free-play condition keys off Bardock presence; released in same Cross Worlds tournament window as P-035"},
+    {"name": "Great Ape Bardock (other printings)", "set": "multiple", "note": "Multiple Great Ape Bardock cards exist across the DBS-TCG; P-035 is the promo variant"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

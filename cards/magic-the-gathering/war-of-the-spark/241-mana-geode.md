@@ -1,23 +1,41 @@
 ---
 name: Mana Geode
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 241
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["geode", "crystal", "gemstone", "rainbow", "treasure", "relic", "stone", "prismatic-light", "desert", "barren-earth", "magical-artifact", "discovery"]
-tags_filter: ["no-figures", "close-up", "scene-mode", "artifact", "colorless-magic", "mana-rock"]
+tags_hub:
+  - geode
+  - crystal
+  - gemstone
+  - rainbow
+  - treasure
+  - relic
+  - stone
+  - prismatic-light
+  - desert
+  - barren-earth
+  - magical-artifact
+  - discovery
+tags_filter:
+  - no-figures
+  - close-up
+  - scene-mode
+  - artifact
+  - colorless-magic
+  - mana-rock
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/241-mana-geode.png
 average_cost_paid: 0
 market_price: 0.27
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/1/7/17315a12-a7f8-45ba-ac3b-a62c789e75d0.png?1557577433
 art_match_confidence: high
 needs_manual_review: false
@@ -28,7 +46,7 @@ artist: Raoul Vitale
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/241-mana-geode--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/7/17315a12-a7f8-45ba-ac3b-a62c789e75d0.jpg?1557577433
 flavor_text: \"I don't care if it's an all-powerful relic or a street vendor's lucky charm. If it brings you courage, wear it.\"\n—Saheeli Rai
-oracle_text: When this artifact enters, scry 1.\n{T}: Add one mana of any color.
+oracle_text: "When this artifact enters, scry 1.\\n{T}: Add one mana of any color."
 ---
 
 # Mana Geode (War of the Spark)

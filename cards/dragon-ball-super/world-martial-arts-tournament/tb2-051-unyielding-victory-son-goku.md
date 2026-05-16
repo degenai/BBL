@@ -10,15 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-characters: ["son-goku"]
-tags_hub: ["martial-arts", "tournament", "child-warrior", "prodigy", "victory", "energy-aura", "hero", "determination", "orange-gi", "saiyan"]
-tags_filter: ["solo", "mid-shot", "action", "male-figure", "anime-style", "three-quarter"]
+characters:
+  - son-goku
+tags_hub:
+  - martial-arts
+  - tournament
+  - child-warrior
+  - prodigy
+  - victory
+  - energy-aura
+  - hero
+  - determination
+  - orange-gi
+  - saiyan
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - male-figure
+  - anime-style
+  - three-quarter
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-051-unyielding-victory-son-goku.png
 average_cost_paid: 0
 market_price: 0.22
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/TB2-051_Unyielding_Victory_Son_Goku.png?v=1536526568
 art_match_confidence: high
 needs_manual_review: false

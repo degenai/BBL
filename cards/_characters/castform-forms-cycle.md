@@ -1,7 +1,13 @@
 ---
 type: character
 name: Castform Forms cycle (weather-Pokemon four-form cohort)
-aliases: [castform-forms-cycle, castform-cycle, castform-four-forms, weather-forms-cycle, forecast-pokemon-cycle, teru-teru-bozu-cycle]
+aliases:
+  - castform-forms-cycle
+  - castform-cycle
+  - castform-four-forms
+  - weather-forms-cycle
+  - forecast-pokemon-cycle
+  - teru-teru-bozu-cycle
 universe: Pokemon / Hoenn (Generation III, Ruby & Sapphire, 2002) — TCG cohort canonicalized in Chilling Reign (SWSH6, 2021)
 faction: ~
 species: designer-coordinated four-form cycle of a single Pokemon species (National Pokedex no. 351), each form triggered by weather conditions and TCG-printed as a separate card with the shared Weather Reading Ability

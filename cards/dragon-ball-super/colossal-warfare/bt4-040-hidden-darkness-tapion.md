@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["skull", "darkness", "curse", "duality", "possession", "demon", "horror", "hidden", "death", "burden", "sealed-evil"]
-tags_filter: ["solo", "close-up", "narrative", "forward-facing"]
+tags_hub:
+  - skull
+  - darkness
+  - curse
+  - duality
+  - possession
+  - demon
+  - horror
+  - hidden
+  - death
+  - burden
+  - sealed-evil
+tags_filter:
+  - solo
+  - close-up
+  - narrative
+  - forward-facing
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-040-hidden-darkness-tapion.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401029431/CE66DA19F9BE511D2BA682A781A1572C47B63FEF/
 image_width: 624
 image_height: 871
@@ -30,7 +45,8 @@ setting: void
 suspected_ip: "Tapion (Dragon Ball Z: Wrath of the Dragon)"
 ip_confidence: high
 ip_verified: true
-characters: [wrath-of-the-dragon-saga]
+characters:
+  - wrath-of-the-dragon-saga
 ---
 
 # Hidden Darkness Tapion (Colossal Warfare)

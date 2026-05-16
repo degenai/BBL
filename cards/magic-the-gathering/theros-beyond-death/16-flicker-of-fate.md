@@ -1,6 +1,6 @@
 ---
 name: Flicker of Fate
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 16
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["horse", "rider", "warrior", "ghost", "spirit", "ascension", "sky", "gold", "greek-myth", "divine", "soul", "magic-hour"]
-tags_filter: ["duo", "mid-shot", "narrative-mode", "three-quarter-facing", "male-figure", "mounted", "white-magic", "instant", "flicker"]
+tags_hub:
+  - horse
+  - rider
+  - warrior
+  - ghost
+  - spirit
+  - ascension
+  - sky
+  - gold
+  - greek-myth
+  - divine
+  - soul
+  - magic-hour
+tags_filter:
+  - duo
+  - mid-shot
+  - narrative-mode
+  - three-quarter-facing
+  - male-figure
+  - mounted
+  - white-magic
+  - instant
+  - flicker
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/16-flicker-of-fate.png
 average_cost_paid: 0
-market_price: 0.35
-market_price_as_of: 2026-05-14
+market_price: 0.37
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

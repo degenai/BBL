@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["android", "villain", "red-ribbon", "machine", "powerhouse", "fighter", "terror", "muscular", "green", "dbz", "movie-villain", "unstoppable"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "male-figure"]
+tags_hub:
+  - android
+  - villain
+  - red-ribbon
+  - machine
+  - powerhouse
+  - fighter
+  - terror
+  - muscular
+  - green
+  - dbz
+  - movie-villain
+  - unstoppable
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - male-figure
 reference_image: cards/_images/dragon-ball-super/cross-worlds/bt3-070-dawn-of-terror-android-13-2018.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401014598/BFE04E10404A9E025D5A6845F11B06B68293FE33/
 image_width: 624
 image_height: 871
@@ -28,10 +45,11 @@ mood: action
 time_of_day: indeterminate
 setting: void
 subject_known_ip: true
-suspected_ip: Android 13 (Dragon Ball Z: Super Android 13!)
+suspected_ip: "Android 13 (Dragon Ball Z: Super Android 13!)"
 ip_confidence: high
 ip_verified: true
-characters: ["cell-saga-apparatus"]
+characters:
+  - cell-saga-apparatus
 ---
 
 # Dawn of Terror, Android 13 (2018) (Cross Worlds)

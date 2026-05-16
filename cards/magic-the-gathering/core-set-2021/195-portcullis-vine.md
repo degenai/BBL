@@ -1,6 +1,6 @@
 ---
 name: Portcullis Vine
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 195
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["plants", "vines", "flowers", "wall", "barrier", "garden", "forest", "nature", "overgrowth", "foliage", "gateway", "ruins"]
-tags_filter: ["no-face", "no-figures", "close-up", "portrait-mode", "green-magic", "creature-plant", "defender", "wall-creature", "common"]
+tags_hub:
+  - plants
+  - vines
+  - flowers
+  - wall
+  - barrier
+  - garden
+  - forest
+  - nature
+  - overgrowth
+  - foliage
+  - gateway
+  - ruins
+tags_filter:
+  - no-face
+  - no-figures
+  - close-up
+  - portrait-mode
+  - green-magic
+  - creature-plant
+  - defender
+  - wall-creature
+  - common
 reference_image: cards/_images/magic-the-gathering/core-set-2021/195-portcullis-vine.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -29,7 +50,7 @@ artist: James Paick
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/195-portcullis-vine--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/1/d1abd95a-4ecc-479c-b200-5aaf7c993ef8.jpg?1594737120
 flavor_text: Nature's way of saying \"take the long way home.\"
-oracle_text: Defender (This creature can't attack.)\n{2}, {T}, Sacrifice a creature with defender: Draw a card.
+oracle_text: "Defender (This creature can't attack.)\\n{2}, {T}, Sacrifice a creature with defender: Draw a card."
 ---
 
 # Portcullis Vine (Core Set 2021)

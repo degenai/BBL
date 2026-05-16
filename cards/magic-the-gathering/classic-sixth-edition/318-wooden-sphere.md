@@ -1,7 +1,7 @@
 ---
 name: Wooden Sphere
-game: Magic: The Gathering
-set: Classic: Sixth Edition
+game: "Magic: The Gathering"
+set: "Classic: Sixth Edition"
 collector_number: 
 rarity: U
 variance: Normal
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["forest", "wood", "carving", "orb", "knotwork", "relic", "druid", "hands", "branches", "nature", "artifact-object", "offering"]
-tags_filter: ["no-figures", "no-face", "mid-shot", "centered", "abstract-mode", "artifact", "colorless-magic", "lifegain"]
+tags_hub:
+  - forest
+  - wood
+  - carving
+  - orb
+  - knotwork
+  - relic
+  - druid
+  - hands
+  - branches
+  - nature
+  - artifact-object
+  - offering
+tags_filter:
+  - no-figures
+  - no-face
+  - mid-shot
+  - centered
+  - abstract-mode
+  - artifact
+  - colorless-magic
+  - lifegain
 reference_image: cards/_images/magic-the-gathering/classic-sixth-edition/318-wooden-sphere.png
 average_cost_paid: 0
 market_price: 0.24
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/e/f/ef706d86-6e7f-4f3a-9e4d-8aa6d9aac74a.png?1562824402
 art_match_confidence: high
 needs_manual_review: false

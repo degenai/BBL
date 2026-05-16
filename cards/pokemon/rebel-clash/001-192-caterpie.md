@@ -10,27 +10,45 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["caterpillar", "insect", "forest", "night", "crescent-moon", "small-creature", "evolution-line", "cute", "nature", "bug"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "grass-type", "common", "basic-pokemon", "faces-right"]
+tags_hub:
+  - caterpillar
+  - insect
+  - forest
+  - night
+  - crescent-moon
+  - small-creature
+  - evolution-line
+  - cute
+  - nature
+  - bug
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - grass-type
+  - common
+  - basic-pokemon
+  - faces-right
 reference_image: cards/_images/pokemon/rebel-clash/001-192-caterpie.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh2/1_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Uta
 flavor_text: For protection, it releases a horrible stench from the antenna on its head to drive away enemies.
-oracle_text: [Ability: Adaptive Evolution] This Pokémon can evolve during your first turn or the turn you play it.\nGnaw (Colorless) 10
+oracle_text: "[Ability: Adaptive Evolution] This Pokémon can evolve during your first turn or the turn you play it.\\nGnaw (Colorless) 10"
 mood: peaceful
 time_of_day: night
 setting: forest
 suspected_ip: Caterpie
 ip_confidence: high
 ip_verified: true
-characters: ["caterpie-line"]
+characters:
+  - caterpie-line
 ---
 
 # Caterpie (Rebel Clash)

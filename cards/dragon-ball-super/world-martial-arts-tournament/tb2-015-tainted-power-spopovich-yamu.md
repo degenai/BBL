@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["henchmen", "energy-drain", "buu-saga", "muscle", "brute-force", "villain", "tournament", "grapple", "evil-servant", "tainted-power", "babidi-saga"]
-tags_filter: ["group", "mid-shot", "three-quarter", "action-mode", "anime-style", "dbscg", "2-figures", "duo"]
+tags_hub:
+  - henchmen
+  - energy-drain
+  - buu-saga
+  - muscle
+  - brute-force
+  - villain
+  - tournament
+  - grapple
+  - evil-servant
+  - tainted-power
+  - babidi-saga
+tags_filter:
+  - group
+  - mid-shot
+  - three-quarter
+  - action-mode
+  - anime-style
+  - dbscg
+  - 2-figures
+  - duo
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-015-tainted-power-spopovich-yamu.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408074697/27574A6DA3FBFA7834C9F9E98E3559EC6669BA5F/
 image_width: 624
 image_height: 871
@@ -31,7 +50,8 @@ subject_known_ip: true
 suspected_ip: Spopovich and Yamu — Dragon Ball Z (Buu Saga)
 ip_confidence: high
 ip_verified: true
-characters: ["babidi"]
+characters:
+  - babidi
 ---
 
 # Tainted Power, Spopovich & Yamu (World Martial Arts Tournament)

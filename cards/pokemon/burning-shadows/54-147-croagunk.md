@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["frog", "amphibian", "crouch", "fighter", "martial-arts", "urban", "city", "poison", "blue-creature", "predator", "ambush", "street-brawler"]
-tags_filter: ["solo", "mid-shot", "three-quarter-facing", "portrait-mode", "no-face-human", "pokemon-basic", "pokemon-fighting-type", "creature-amphibian"]
+tags_hub:
+  - frog
+  - amphibian
+  - crouch
+  - fighter
+  - martial-arts
+  - urban
+  - city
+  - poison
+  - blue-creature
+  - predator
+  - ambush
+  - street-brawler
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter-facing
+  - portrait-mode
+  - no-face-human
+  - pokemon-basic
+  - pokemon-fighting-type
+  - creature-amphibian
 reference_image: cards/_images/pokemon/burning-shadows/54-147-croagunk.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm3/54_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +50,7 @@ suspected_ip: Croagunk (Pokemon)
 ip_confidence: high
 ip_verified: true
 flavor_text: Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.
-oracle_text: Corkscrew Punch (Colorless) 10\nFrog Hop (PsychicColorless) 20+: Flip a coin. If heads, this attack does 20 more damage.
+oracle_text: "Corkscrew Punch (Colorless) 10\\nFrog Hop (PsychicColorless) 20+: Flip a coin. If heads, this attack does 20 more damage."
 ---
 
 # Croagunk (Burning Shadows)

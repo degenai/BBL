@@ -1,23 +1,45 @@
 ---
 name: Crashing Drawbridge
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 217
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 2
+quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["castle", "drawbridge", "knights", "siege", "charge", "beacon", "armor", "fortification", "battle", "stone-architecture", "medieval", "watchtower"]
-tags_filter: ["group", "wide-shot", "scene-mode", "no-face", "forward-facing", "artifact", "creature-wall", "colorless", "defender", "haste-grant"]
+tags_hub:
+  - castle
+  - drawbridge
+  - knights
+  - siege
+  - charge
+  - beacon
+  - armor
+  - fortification
+  - battle
+  - stone-architecture
+  - medieval
+  - watchtower
+tags_filter:
+  - group
+  - wide-shot
+  - scene-mode
+  - no-face
+  - forward-facing
+  - artifact
+  - creature-wall
+  - colorless
+  - defender
+  - haste-grant
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/217-crashing-drawbridge.png
 average_cost_paid: 0
-market_price: 0.66
-market_price_as_of: 2026-05-14
+market_price: 0.61
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +51,7 @@ artist: Mark Behm
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/217-crashing-drawbridge--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/7/b7d7108f-635c-423b-988a-bc8fc4c6edef.jpg?1572490956
 flavor_text: \"The Northern Beacon flared, and even before the drawbridge finished its descent, the knights charged out.\"\n—*Legend of the Gilded Knights*
-oracle_text: Defender\n{T}: Creatures you control gain haste until end of turn.
+oracle_text: "Defender\\n{T}: Creatures you control gain haste until end of turn."
 ---
 
 # Crashing Drawbridge (Throne of Eldraine)

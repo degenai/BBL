@@ -1,7 +1,7 @@
 ---
 name: Balefire Liege
-game: Magic: The Gathering
-set: Mystery Booster: Retail Exclusives
+game: "Magic: The Gathering"
+set: "Mystery Booster: Retail Exclusives"
 collector_number: 132
 rarity: R
 variance: Foil
@@ -10,17 +10,40 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["spirit", "wraith", "fire", "skull", "undead", "ghost", "robed-figure", "skeleton", "horror", "flame", "specter", "smoke"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "creature-spirit", "creature-horror", "multicolor-red-white", "red-magic", "white-magic", "lifegain"]
+tags_hub:
+  - spirit
+  - wraith
+  - fire
+  - skull
+  - undead
+  - ghost
+  - robed-figure
+  - skeleton
+  - horror
+  - flame
+  - specter
+  - smoke
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - no-face
+  - creature-spirit
+  - creature-horror
+  - multicolor-red-white
+  - red-magic
+  - white-magic
+  - lifegain
 reference_image: cards/_images/magic-the-gathering/mystery-booster-retail-exclusives/132-balefire-liege--foil.png
 average_cost_paid: 0
 market_price: 3.61
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: Set 'Mystery Booster: Retail Exclusives' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+manual_review_reason: "Set 'Mystery Booster: Retail Exclusives' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing."
 reference_image_source_url: https://cards.scryfall.io/png/front/8/1/81c9142f-bcd9-4cb1-9df8-dde0e6c78903.png?1583453975
 mood: grim
 time_of_day: indeterminate

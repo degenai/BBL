@@ -10,20 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["volcano", "magma", "lava", "fire", "legendary", "metallic", "monster", "titan", "heat", "crater"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "fire-type", "pokemon", "holofoil"]
+tags_hub:
+  - volcano
+  - magma
+  - lava
+  - fire
+  - legendary
+  - metallic
+  - monster
+  - titan
+  - heat
+  - crater
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - fire-type
+  - pokemon
+  - holofoil
 reference_image: cards/_images/pokemon/darkness-ablaze/025-189-heatran--holofoil.png
 average_cost_paid: 0
-market_price: 0.25
-market_price_as_of: 2026-05-14
+market_price: 0.26
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/25_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Anesaki Dynamic
 flavor_text: Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves.
-oracle_text: Fire Fang (FireColorless) 30: Your opponent's Active Pokémon is now Burned.\nRaging Flare (FireFireColorless) 80+: This attack does 10 more damage for each damage counter on this Pokémon.
+oracle_text: "Fire Fang (FireColorless) 30: Your opponent's Active Pokémon is now Burned.\\nRaging Flare (FireFireColorless) 80+: This attack does 10 more damage for each damage counter on this Pokémon."
 mood: sublime
 time_of_day: indeterminate
 setting: other

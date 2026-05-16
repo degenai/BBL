@@ -1,7 +1,7 @@
 ---
 name: Killer's Mask
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 104
 rarity: U
 variance: Normal
@@ -10,15 +10,36 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["mask", "skull", "horror", "trophy", "knife", "chain", "killer", "gothic", "dread", "dark", "slasher", "villain"]
-tags_filter: ["no-face", "close-up", "abstract", "forward-facing", "black-magic", "equipment", "menace", "manifest-dread"]
-symbols: ["manifest-dread"]
+tags_hub:
+  - mask
+  - skull
+  - horror
+  - trophy
+  - knife
+  - chain
+  - killer
+  - gothic
+  - dread
+  - dark
+  - slasher
+  - villain
+tags_filter:
+  - no-face
+  - close-up
+  - abstract
+  - forward-facing
+  - black-magic
+  - equipment
+  - menace
+  - manifest-dread
+symbols:
+  - manifest-dread
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/104-killer-s-mask.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/f/1/f1fc02ae-77b8-4e5e-94b4-22ecf7ae40ae.png?1726286237
 art_match_confidence: high
 needs_manual_review: false

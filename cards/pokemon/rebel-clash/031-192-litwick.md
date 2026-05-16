@@ -7,23 +7,40 @@ rarity: Common
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["candle", "flame", "ghost", "trio", "indoor", "cozy", "spirit", "blue-flame", "supernatural", "wax"]
-tags_filter: ["group", "mid-shot", "forward-facing", "fire-type", "common", "basic-pokemon", "3-figures"]
+tags_hub:
+  - candle
+  - flame
+  - ghost
+  - trio
+  - indoor
+  - cozy
+  - spirit
+  - blue-flame
+  - supernatural
+  - wax
+tags_filter:
+  - group
+  - mid-shot
+  - forward-facing
+  - fire-type
+  - common
+  - basic-pokemon
+  - 3-figures
 reference_image: cards/_images/pokemon/rebel-clash/031-192-litwick.png
 average_cost_paid: 0
-market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price: 0.08
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh2/31_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Sekio
 flavor_text: The flame on its head keeps its body slightly warm. This Pokémon takes lost children by the hand to guide them to the spirit world.
-oracle_text: Scorch (Fire): Your opponent's Active Pokémon is now Burned.
+oracle_text: "Scorch (Fire): Your opponent's Active Pokémon is now Burned."
 mood: cozy
 time_of_day: night
 setting: indoor

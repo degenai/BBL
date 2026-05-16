@@ -10,20 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["fish", "kanto", "ocean", "water", "leap", "underdog", "weakness", "retro", "classic", "comedy"]
-tags_filter: ["solo", "mid-shot", "action-mode", "creature-card", "water-type", "xy-era", "base-set-reprint"]
+tags_hub:
+  - fish
+  - kanto
+  - ocean
+  - water
+  - leap
+  - underdog
+  - weakness
+  - retro
+  - classic
+  - comedy
+tags_filter:
+  - solo
+  - mid-shot
+  - action-mode
+  - creature-card
+  - water-type
+  - xy-era
+  - base-set-reprint
 reference_image: cards/_images/pokemon/evolutions/33-108-magikarp.png
 average_cost_paid: 0
 market_price: 0.27
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/xy12/33_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Mitsuhiro Arita
 flavor_text: It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.
-oracle_text: Flail (Water) 10×: This attack does 10 damage times the number of damage counters on this Pokémon.
+oracle_text: "Flail (Water) 10×: This attack does 10 damage times the number of damage counters on this Pokémon."
 mood: comedic
 time_of_day: day
 setting: ocean

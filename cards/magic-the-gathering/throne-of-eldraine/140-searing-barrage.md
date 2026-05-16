@@ -1,6 +1,6 @@
 ---
 name: Searing Barrage
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 140
 rarity: C
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["sea-monster", "serpent", "leviathan", "water", "lake", "fire", "fangs", "roar", "ambush", "steam", "monster", "deep-water"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "no-face", "red-magic", "instant", "burn"]
+tags_hub:
+  - sea-monster
+  - serpent
+  - leviathan
+  - water
+  - lake
+  - fire
+  - fangs
+  - roar
+  - ambush
+  - steam
+  - monster
+  - deep-water
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - scene-mode
+  - no-face
+  - red-magic
+  - instant
+  - burn
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/140-searing-barrage.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

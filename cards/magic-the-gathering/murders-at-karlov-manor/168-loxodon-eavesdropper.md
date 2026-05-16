@@ -1,6 +1,6 @@
 ---
 name: Loxodon Eavesdropper
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 168
 rarity: C
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["elephant", "loxodon", "detective", "investigation", "eavesdropping", "spy", "trenchcoat", "noir", "crouching-figure", "anthropomorphic-animal", "mystery", "listening"]
-tags_filter: ["solo", "mid-shot", "faces-left", "creature-elephant", "green-magic", "common", "no-face-visible"]
+tags_hub:
+  - elephant
+  - loxodon
+  - detective
+  - investigation
+  - eavesdropping
+  - spy
+  - trenchcoat
+  - noir
+  - crouching-figure
+  - anthropomorphic-animal
+  - mystery
+  - listening
+tags_filter:
+  - solo
+  - mid-shot
+  - faces-left
+  - creature-elephant
+  - green-magic
+  - common
+  - no-face-visible
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/168-loxodon-eavesdropper.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-10
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/b/b/bbbf8c3a-6c74-42fd-bb8d-61e3f0a77848.png?1706242059
 art_match_confidence: high
 needs_manual_review: false
@@ -28,7 +47,7 @@ artist: Jesper Ejsing
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/168-loxodon-eavesdropper--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/b/bbbf8c3a-6c74-42fd-bb8d-61e3f0a77848.jpg?1706242059
 flavor_text: He's all ears.
-oracle_text: When this creature enters, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nWhenever you draw your second card each turn, this creature gets +1/+1 and gains vigilance until end of turn.
+oracle_text: "When this creature enters, investigate. (Create a Clue token. It's an artifact with \\\"{2}, Sacrifice this token: Draw a card.\\\")\\nWhenever you draw your second card each turn, this creature gets +1/+1 and gains vigilance until end of turn."
 ---
 
 # Loxodon Eavesdropper (Murders at Karlov Manor)

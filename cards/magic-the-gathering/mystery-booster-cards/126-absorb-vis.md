@@ -1,6 +1,6 @@
 ---
 name: Absorb Vis
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Mystery Booster Cards
 collector_number: 126
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["life-drain", "ritual", "dark-magic", "vortex", "shadow", "void", "soul", "consumption", "spell-effect", "purple", "abstract-magic", "spiral"]
-tags_filter: ["solo", "scene-mode", "no-face", "abstract", "black-magic", "sorcery", "lifeloss", "lifegain", "landcycling"]
+tags_hub:
+  - life-drain
+  - ritual
+  - dark-magic
+  - vortex
+  - shadow
+  - void
+  - soul
+  - consumption
+  - spell-effect
+  - purple
+  - abstract-magic
+  - spiral
+tags_filter:
+  - solo
+  - scene-mode
+  - no-face
+  - abstract
+  - black-magic
+  - sorcery
+  - lifeloss
+  - lifegain
+  - landcycling
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/126-absorb-vis.png
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price: 0.19
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +50,7 @@ the_list_source_set: CN2
 artist: Brandon Kitkouski
 art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/126-absorb-vis--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/2/22984b84-5598-43cd-a18f-1701aa55f922.jpg?1573508879
-oracle_text: Target player loses 4 life and you gain 4 life.\nBasic landcycling {1}{B} ({1}{B}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+oracle_text: "Target player loses 4 life and you gain 4 life.\\nBasic landcycling {1}{B} ({1}{B}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
 ---
 
 # Absorb Vis (Mystery Booster Cards)

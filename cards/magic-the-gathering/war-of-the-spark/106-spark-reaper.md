@@ -1,23 +1,43 @@
 ---
 name: Spark Reaper
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 106
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 2
+quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["zombie", "undead", "reaper", "skull", "scythe", "death", "soldier", "robed-figure", "armor", "polearm", "harvest", "shadow"]
-tags_filter: ["duo", "mid-shot", "three-quarter-facing", "action-mode", "creature-zombie", "black-magic", "no-face", "void-background"]
+tags_hub:
+  - zombie
+  - undead
+  - reaper
+  - skull
+  - scythe
+  - death
+  - soldier
+  - robed-figure
+  - armor
+  - polearm
+  - harvest
+  - shadow
+tags_filter:
+  - duo
+  - mid-shot
+  - three-quarter-facing
+  - action-mode
+  - creature-zombie
+  - black-magic
+  - no-face
+  - void-background
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/106-spark-reaper.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,11 +46,12 @@ mood: grim
 time_of_day: indeterminate
 setting: void
 artist: Zoltan Boros
-characters: ["kaya"]
+characters:
+  - kaya
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/106-spark-reaper--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/2/922537f0-4caf-481c-b431-826f0c44e5c5.jpg?1557576562
 flavor_text: \"I know they're unstoppable fighters created to harvest souls—it's just they're so rude about it.\"\n—Kaya
-oracle_text: {3}, Sacrifice a creature or planeswalker: You gain 1 life and draw a card.
+oracle_text: "{3}, Sacrifice a creature or planeswalker: You gain 1 life and draw a card."
 ---
 
 # Spark Reaper (War of the Spark)

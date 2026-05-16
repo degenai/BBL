@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["spaceship", "arena", "location", "babidi-saga", "dome", "dungeon", "alien-vessel", "lair", "void-space", "interior"]
-tags_filter: ["no-face", "wide", "narrative-mode", "anime-style", "sci-fi-elements", "stadium-card", "no-figures"]
+tags_hub:
+  - spaceship
+  - arena
+  - location
+  - babidi-saga
+  - dome
+  - dungeon
+  - alien-vessel
+  - lair
+  - void-space
+  - interior
+tags_filter:
+  - no-face
+  - wide
+  - narrative-mode
+  - anime-style
+  - sci-fi-elements
+  - stadium-card
+  - no-figures
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-018-babidi-s-spaceship.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408075150/F589AFA512706847D69DA78E0BF803468E239278/
 image_width: 624
 image_height: 871
@@ -30,7 +47,8 @@ setting: indoor
 suspected_ip: Babidi
 ip_confidence: high
 ip_verified: true
-characters: ["babidi"]
+characters:
+  - babidi
 ---
 
 # Babidi's Spaceship (World Martial Arts Tournament)

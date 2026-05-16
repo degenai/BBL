@@ -1,6 +1,6 @@
 ---
 name: Angrath's Rampage
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 185
 rarity: U
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["fire", "whip", "destruction", "warrior", "rage", "ruins", "shirtless-figure", "bearded-figure", "long-hair", "rampage", "burning-settlement", "barbarian"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "male-figure", "action-mode", "red-magic", "black-magic", "multicolor-red-black", "sorcery"]
+tags_hub:
+  - fire
+  - whip
+  - destruction
+  - warrior
+  - rage
+  - ruins
+  - shirtless-figure
+  - bearded-figure
+  - long-hair
+  - rampage
+  - burning-settlement
+  - barbarian
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - male-figure
+  - action-mode
+  - red-magic
+  - black-magic
+  - multicolor-red-black
+  - sorcery
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/185-angrath-s-rampage.png
 average_cost_paid: 0
 market_price: 0.27
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,7 +49,8 @@ setting: other
 suspected_ip: Angrath
 ip_confidence: high
 ip_verified: true
-characters: ["angrath"]
+characters:
+  - angrath
 artist: Victor Adame Minguez
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/185-angrath-s-rampage--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/5/f5a39379-7313-463a-9a02-e5157b9557f4.jpg?1557577065

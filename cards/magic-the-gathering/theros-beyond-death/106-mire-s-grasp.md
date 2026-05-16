@@ -1,23 +1,45 @@
 ---
 name: Mire's Grasp
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 106
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["underworld", "undead", "ghoul", "damned-souls", "swamp", "bog", "screaming", "grasping-hands", "skeletons", "horror", "punishment", "fog", "death"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "no-face-features", "humanoid-figure", "black-magic", "enchantment", "aura"]
+tags_hub:
+  - underworld
+  - undead
+  - ghoul
+  - damned-souls
+  - swamp
+  - bog
+  - screaming
+  - grasping-hands
+  - skeletons
+  - horror
+  - punishment
+  - fog
+  - death
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - scene-mode
+  - no-face-features
+  - humanoid-figure
+  - black-magic
+  - enchantment
+  - aura
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/106-mire-s-grasp.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'

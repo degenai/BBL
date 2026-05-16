@@ -13,20 +13,36 @@ bundles: []
 suspected_ip: Steenee
 ip_confidence: high
 ip_verified: true
-tags_hub: ["grass", "playful", "round", "cute", "bouncing", "nature", "garden", "spring", "small-creature", "joy", "green"]
-tags_filter: ["solo", "mid-shot", "no-face", "grass-type", "common"]
+tags_hub:
+  - grass
+  - playful
+  - round
+  - cute
+  - bouncing
+  - nature
+  - garden
+  - spring
+  - small-creature
+  - joy
+  - green
+tags_filter:
+  - solo
+  - mid-shot
+  - no-face
+  - grass-type
+  - common
 reference_image: cards/_images/pokemon/unified-minds/18-236-steenee.png
 average_cost_paid: 0
-market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price: 0.12
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm11/18_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Kagemaru Himeno
 flavor_text: It's protected by its hard sepals, so it plays with bird Pokémon without worry. They peck it relentlessly, but it doesn't care.
-oracle_text: Double Slap (ColorlessColorless) 30×: Flip 2 coins. This attack does 30 damage for each heads.\nLeaf Step (GrassColorlessColorless) 60
+oracle_text: "Double Slap (ColorlessColorless) 30×: Flip 2 coins. This attack does 30 damage for each heads.\\nLeaf Step (GrassColorlessColorless) 60"
 mood: peaceful
 time_of_day: day
 setting: forest

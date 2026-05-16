@@ -1,6 +1,6 @@
 ---
 name: Farsight Adept
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Zendikar Rising
 collector_number: 14
 rarity: C
@@ -10,18 +10,40 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["wizard", "robed-figure", "cliff", "wind", "mountain", "sky", "sentinel", "staff", "prophecy", "horizon", "lone-figure", "windswept"]
-tags_filter: ["solo", "mid-shot", "three-quarter-facing", "scene-mode", "white-magic", "creature-kor", "creature-wizard", "card-draw", "no-face-detail"]
+tags_hub:
+  - wizard
+  - robed-figure
+  - cliff
+  - wind
+  - mountain
+  - sky
+  - sentinel
+  - staff
+  - prophecy
+  - horizon
+  - lone-figure
+  - windswept
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter-facing
+  - scene-mode
+  - white-magic
+  - creature-kor
+  - creature-wizard
+  - card-draw
+  - no-face-detail
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/14-farsight-adept--foil.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
-characters: ["kor"]
+characters:
+  - kor
 reference_image_source_url: https://cards.scryfall.io/png/front/5/9/5949bb9a-b4e8-4992-a12d-8e31953aff0d.png?1604195753
 mood: sublime
 time_of_day: day

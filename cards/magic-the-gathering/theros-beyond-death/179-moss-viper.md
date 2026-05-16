@@ -1,6 +1,6 @@
 ---
 name: Moss Viper
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 179
 rarity: C
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["snake", "serpent", "viper", "forest", "moss", "predator", "reptile", "wilderness", "venom", "ambush", "nature", "wildlife"]
-tags_filter: ["solo", "close-up", "forward-facing", "portrait-mode", "no-face", "creature-snake", "green-magic", "deathtouch"]
+tags_hub:
+  - snake
+  - serpent
+  - viper
+  - forest
+  - moss
+  - predator
+  - reptile
+  - wilderness
+  - venom
+  - ambush
+  - nature
+  - wildlife
+tags_filter:
+  - solo
+  - close-up
+  - forward-facing
+  - portrait-mode
+  - no-face
+  - creature-snake
+  - green-magic
+  - deathtouch
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/179-moss-viper.png
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price: 0.19
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,7 +46,8 @@ mood: other
 time_of_day: indeterminate
 setting: forest
 artist: Mike Bierek
-characters: [theros-pantheon]
+characters:
+  - theros-pantheon
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/179-moss-viper--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/4/a4d35ec4-0e0d-4611-8ad9-39d2c8a2ad6e.jpg?1616399569
 flavor_text: Nylea watches over all the creatures of the forest except for the snakes. Blessed by Pharika, they can take care of themselves.

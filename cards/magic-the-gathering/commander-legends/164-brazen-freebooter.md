@@ -1,6 +1,6 @@
 ---
 name: Brazen Freebooter
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Commander Legends
 collector_number: 164
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["pirate", "rogue", "greed", "treasure", "thief", "human", "grin", "swashbuckler", "firelight", "plunder", "outlaw", "adventurer"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "portrait-mode", "creature-human", "creature-pirate", "red-magic", "chiaroscuro", "no-background-detail"]
+tags_hub:
+  - pirate
+  - rogue
+  - greed
+  - treasure
+  - thief
+  - human
+  - grin
+  - swashbuckler
+  - firelight
+  - plunder
+  - outlaw
+  - adventurer
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - portrait-mode
+  - creature-human
+  - creature-pirate
+  - red-magic
+  - chiaroscuro
+  - no-background-detail
 reference_image: cards/_images/magic-the-gathering/commander-legends/164-brazen-freebooter.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +50,7 @@ artist: Randy Gallegos
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/164-brazen-freebooter--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/5/45657345-b564-4e5f-a57a-01dc54df7e7c.jpg?1608910081
 flavor_text: Finders, keepers.
-oracle_text: When this creature enters, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")
+oracle_text: "When this creature enters, create a Treasure token. (It's an artifact with \\\"{T}, Sacrifice this token: Add one mana of any color.\\\")"
 ---
 
 # Brazen Freebooter (Commander Legends)

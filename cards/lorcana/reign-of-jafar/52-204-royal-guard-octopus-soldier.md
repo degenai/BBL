@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["octopus", "soldier", "guard", "tentacles", "ocean-creature", "anthropomorphic", "warrior", "combat", "animal-character", "sea-creature", "multi-armed", "brute"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "amethyst-magic", "character-card", "storyborn"]
+tags_hub:
+  - octopus
+  - soldier
+  - guard
+  - tentacles
+  - ocean-creature
+  - anthropomorphic
+  - warrior
+  - combat
+  - animal-character
+  - sea-creature
+  - multi-armed
+  - brute
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - amethyst-magic
+  - character-card
+  - storyborn
 reference_image: cards/_images/lorcana/reign-of-jafar/52-204-royal-guard-octopus-soldier.jpg
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set8/52_46b887641c602e48a5aa4365ea90f24c67e2b131.jpg
 art_match_confidence: high
 needs_manual_review: false

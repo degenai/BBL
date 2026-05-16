@@ -1,23 +1,44 @@
 ---
 name: Beloved Princess
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 7
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["princess", "royalty", "fairytale", "rabbit", "forest", "young-woman", "auburn-hair", "storybook", "noble", "animal-companion", "kindness", "magic-hour"]
-tags_filter: ["solo", "mid-shot", "three-quarter-facing", "portrait-mode", "female-figure", "white-magic", "creature-human", "lifegain", "unblockable-conditional"]
+tags_hub:
+  - princess
+  - royalty
+  - fairytale
+  - rabbit
+  - forest
+  - young-woman
+  - auburn-hair
+  - storybook
+  - noble
+  - animal-companion
+  - kindness
+  - magic-hour
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter-facing
+  - portrait-mode
+  - female-figure
+  - white-magic
+  - creature-human
+  - lifegain
+  - unblockable-conditional
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/7-beloved-princess.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'

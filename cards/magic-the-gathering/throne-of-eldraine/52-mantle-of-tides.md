@@ -1,23 +1,45 @@
 ---
 name: Mantle of Tides
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 52
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 2
+quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["water", "ocean", "wave", "cloak", "robe", "magical-garment", "enchanted-object", "sea", "empty-garment", "flowing-fabric", "ghostly", "tides"]
-tags_filter: ["solo", "no-figure", "no-face", "mid-shot", "forward-facing", "scene-mode", "blue-magic", "artifact", "equipment", "mono-blue"]
+tags_hub:
+  - water
+  - ocean
+  - wave
+  - cloak
+  - robe
+  - magical-garment
+  - enchanted-object
+  - sea
+  - empty-garment
+  - flowing-fabric
+  - ghostly
+  - tides
+tags_filter:
+  - solo
+  - no-figure
+  - no-face
+  - mid-shot
+  - forward-facing
+  - scene-mode
+  - blue-magic
+  - artifact
+  - equipment
+  - mono-blue
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/52-mantle-of-tides.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,7 +50,7 @@ setting: ocean
 artist: Lie Setiawan
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/52-mantle-of-tides--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/0/c058d01e-f705-4407-bd9e-a2d127afdf04.jpg?1572489923
-oracle_text: Equipped creature gets +1/+2.\nWhenever you draw your second card each turn, attach this Equipment to target creature you control.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
+oracle_text: "Equipped creature gets +1/+2.\\nWhenever you draw your second card each turn, attach this Equipment to target creature you control.\\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)"
 ---
 
 # Mantle of Tides (Throne of Eldraine)

@@ -10,27 +10,47 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["golden-hair", "trio", "earth", "alola", "regional-form", "mole", "clay-art", "underground", "grounded", "nature"]
-tags_filter: ["group", "mid-shot", "forward-facing", "fighting-type", "alolan-form", "alola-lore", "creature-card", "3-figures", "clay-sculpt-art"]
+tags_hub:
+  - golden-hair
+  - trio
+  - earth
+  - alola
+  - regional-form
+  - mole
+  - clay-art
+  - underground
+  - grounded
+  - nature
+tags_filter:
+  - group
+  - mid-shot
+  - forward-facing
+  - fighting-type
+  - alolan-form
+  - alola-lore
+  - creature-card
+  - 3-figures
+  - clay-sculpt-art
 reference_image: cards/_images/pokemon/lost-thunder/123-alolan-dugtrio.png
 average_cost_paid: 0
-market_price: 3.36
-market_price_as_of: 2026-05-14
+market_price: 3.53
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm8/123_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Yuka Morii
 flavor_text: These Pokémon are cherished in the Alola region, where they are thought to be feminine deities of the land incarnate.
-oracle_text: Digging Dash 60: This attack's damage isn't affected by Weakness or Resistance.
+oracle_text: "Digging Dash 60: This attack's damage isn't affected by Weakness or Resistance."
 mood: peaceful
 time_of_day: day
 setting: other
 suspected_ip: Alolan Dugtrio (Pokémon Sun and Moon)
 ip_confidence: high
 ip_verified: true
-characters: [alolan-regional-forms]
+characters:
+  - alolan-regional-forms
 ---
 
 # Alolan Dugtrio (Lost Thunder)

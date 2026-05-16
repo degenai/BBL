@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["friendship", "youth", "girl-fighter", "saiyan-lineage", "gohan-line", "canyon", "outdoors", "plucky-hero", "martial-arts", "bandana", "next-generation", "courage"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait", "female-figure", "red-magic", "battle-unit"]
+tags_hub:
+  - friendship
+  - youth
+  - girl-fighter
+  - saiyan-lineage
+  - gohan-line
+  - canyon
+  - outdoors
+  - plucky-hero
+  - martial-arts
+  - bandana
+  - next-generation
+  - courage
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait
+  - female-figure
+  - red-magic
+  - battle-unit
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-009-power-of-friendship-pan.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401024646/5D20AE252309ECA476E6940CA3195A3C11142680/
 image_width: 624
 image_height: 871
@@ -30,7 +49,8 @@ setting: mountain
 suspected_ip: Pan (Dragon Ball GT)
 ip_confidence: high
 ip_verified: true
-characters: [pan]
+characters:
+  - pan
 ---
 
 # Power of Friendship Pan (Colossal Warfare)

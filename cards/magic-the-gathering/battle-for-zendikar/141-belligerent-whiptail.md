@@ -1,6 +1,6 @@
 ---
 name: Belligerent Whiptail
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Battle for Zendikar
 collector_number: 141
 rarity: C
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["lizard", "predator", "fight", "cliffside", "zendikar", "nature", "beast", "serpent", "reptile", "wilderness", "attack"]
-tags_filter: ["duo", "wide", "action-mode", "red-magic", "creature-lizard", "landfall", "2-figures", "no-face"]
+tags_hub:
+  - lizard
+  - predator
+  - fight
+  - cliffside
+  - zendikar
+  - nature
+  - beast
+  - serpent
+  - reptile
+  - wilderness
+  - attack
+tags_filter:
+  - duo
+  - wide
+  - action-mode
+  - red-magic
+  - creature-lizard
+  - landfall
+  - 2-figures
+  - no-face
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/141-belligerent-whiptail.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/a/5/a5b5b7d2-acb8-4aca-b9e7-67e59aeb384b.png?1722161253
 art_match_confidence: high
 needs_manual_review: false

@@ -1,7 +1,7 @@
 ---
 name: Fear of Being Hunted
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 134
 rarity: U
 variance: Normal
@@ -10,15 +10,42 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-characters: ["fear-of-cycle"]
-tags_hub: ["fear", "hunted", "predator", "nightmare", "skull", "rabbit", "skeletal", "haunted-house", "trap", "stalking", "ghost", "horror", "monster", "bones"]
-tags_filter: ["solo", "mid-shot", "faces-left", "scene-mode", "no-face", "creature-nightmare", "enchantment-creature", "red-magic", "haste", "must-be-blocked", "duskmourn", "fear-of-cycle"]
+characters:
+  - fear-of-cycle
+tags_hub:
+  - fear
+  - hunted
+  - predator
+  - nightmare
+  - skull
+  - rabbit
+  - skeletal
+  - haunted-house
+  - trap
+  - stalking
+  - ghost
+  - horror
+  - monster
+  - bones
+tags_filter:
+  - solo
+  - mid-shot
+  - faces-left
+  - scene-mode
+  - no-face
+  - creature-nightmare
+  - enchantment-creature
+  - red-magic
+  - haste
+  - must-be-blocked
+  - duskmourn
+  - fear-of-cycle
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/134-fear-of-being-hunted.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/a/0/a0a5e716-68c1-4fa0-aa08-5b08114e08d8.png?1726286347
 art_match_confidence: high
 needs_manual_review: false

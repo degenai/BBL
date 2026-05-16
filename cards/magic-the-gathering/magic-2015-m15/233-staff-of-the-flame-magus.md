@@ -1,6 +1,6 @@
 ---
 name: Staff of the Flame Magus
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Magic 2015 (M15)
 collector_number: 233
 rarity: U
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["staff", "fire", "flame", "ritual", "weapon", "magic-item", "artifact-object", "ember", "smoke", "claw", "relic", "occult"]
-tags_filter: ["red-magic", "artifact", "object-focus", "no-figure", "close-up", "portrait-mode", "rim-lit", "hand-visible"]
+tags_hub:
+  - staff
+  - fire
+  - flame
+  - ritual
+  - weapon
+  - magic-item
+  - artifact-object
+  - ember
+  - smoke
+  - claw
+  - relic
+  - occult
+tags_filter:
+  - red-magic
+  - artifact
+  - object-focus
+  - no-figure
+  - close-up
+  - portrait-mode
+  - rim-lit
+  - hand-visible
 reference_image: cards/_images/magic-the-gathering/magic-2015-m15/233-staff-of-the-flame-magus.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/0/f/0fd137db-296a-4c17-ba46-8b189d96c1f9.png?1562782719
 art_match_confidence: high
 needs_manual_review: false

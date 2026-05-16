@@ -10,27 +10,47 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["owl", "bird", "forest", "grass", "cute", "starter", "alola", "nature", "small", "round", "leaves", "perched"]
-tags_filter: ["solo", "close-up", "forward-facing", "portrait-mode", "creature-card", "grass-type", "pokemon-ip"]
+tags_hub:
+  - owl
+  - bird
+  - forest
+  - grass
+  - cute
+  - starter
+  - alola
+  - nature
+  - small
+  - round
+  - leaves
+  - perched
+tags_filter:
+  - solo
+  - close-up
+  - forward-facing
+  - portrait-mode
+  - creature-card
+  - grass-type
+  - pokemon-ip
 reference_image: cards/_images/pokemon/cosmic-eclipse/18-236-rowlet.png
 average_cost_paid: 0
 market_price: 0.21
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm12/17_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Yuka Morii
 flavor_text: It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.
-oracle_text: Hide and Seek (Grass): Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.\nTackle (ColorlessColorless) 30
+oracle_text: "Hide and Seek (Grass): Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.\\nTackle (ColorlessColorless) 30"
 mood: peaceful
 time_of_day: day
 setting: forest
 suspected_ip: Rowlet
 ip_confidence: high
 ip_verified: true
-characters: ["rowlet-line"]
+characters:
+  - rowlet-line
 ---
 
 # Rowlet (Cosmic Eclipse)

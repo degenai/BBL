@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["elder", "namekian", "wisdom", "authority", "gift", "mentor", "ritual", "power-bestowal", "seated-figure", "green-skin", "robed-figure", "patriarch"]
-tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "battle-card", "common", "male-figure", "dbs-colossal-warfare"]
+tags_hub:
+  - elder
+  - namekian
+  - wisdom
+  - authority
+  - gift
+  - mentor
+  - ritual
+  - power-bestowal
+  - seated-figure
+  - green-skin
+  - robed-figure
+  - patriarch
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - battle-card
+  - common
+  - male-figure
+  - dbs-colossal-warfare
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-052-gift-of-power-guru.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401031704/31F467D99C7312C223C24DCF26099A44CFDE3CFC/
 image_width: 624
 image_height: 871
@@ -30,7 +50,8 @@ setting: indoor
 suspected_ip: Grand Elder Guru (Dragon Ball Z — Namek Saga)
 ip_confidence: high
 ip_verified: true
-characters: [namekian]
+characters:
+  - namekian
 ---
 
 # Gift of Power Guru (Colossal Warfare)

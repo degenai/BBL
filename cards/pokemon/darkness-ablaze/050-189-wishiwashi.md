@@ -10,20 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["fish", "ocean", "water", "underwater", "small", "blue", "aquatic", "solitude", "bubble", "creature"]
-tags_filter: ["solo", "close-up", "three-quarter", "portrait-mode", "water-type", "pokemon"]
+tags_hub:
+  - fish
+  - ocean
+  - water
+  - underwater
+  - small
+  - blue
+  - aquatic
+  - solitude
+  - bubble
+  - creature
+tags_filter:
+  - solo
+  - close-up
+  - three-quarter
+  - portrait-mode
+  - water-type
+  - pokemon
 reference_image: cards/_images/pokemon/darkness-ablaze/050-189-wishiwashi.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/50_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: sui
 flavor_text: Individually, they're incredibly weak. It's by gathering up into schools that they're able to confront opponents.
-oracle_text: Deep Sea Swirl (Colorless): Shuffle your hand into your deck. Then, draw 8 cards.\nWave Splash (Water) 20
+oracle_text: "Deep Sea Swirl (Colorless): Shuffle your hand into your deck. Then, draw 8 cards.\\nWave Splash (Water) 20"
 mood: peaceful
 time_of_day: indeterminate
 setting: ocean

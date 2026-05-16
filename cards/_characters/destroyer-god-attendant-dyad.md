@@ -1,7 +1,15 @@
 ---
 type: character
 name: "Destroyer God / Angel Attendant dyad (Dragon Ball Super multiverse cosmology — Beerus+Whis U7 and Champa+Vados U6 sibling-dyads)"
-aliases: [destroyer-god-attendant-dyad, god-attendant-dyad, hakai-god-angel-dyad, destroyer-and-angel, dbs-divine-cohort, dbs-cosmology-dyad, gods-of-destruction-and-angels, beerus-whis-champa-vados]
+aliases:
+  - destroyer-god-attendant-dyad
+  - god-attendant-dyad
+  - hakai-god-angel-dyad
+  - destroyer-and-angel
+  - dbs-divine-cohort
+  - dbs-cosmology-dyad
+  - gods-of-destruction-and-angels
+  - beerus-whis-champa-vados
 universe: "Dragon Ball Super (Toei Animation anime 2015-2018; Toyotarou manga adaptation, Shueisha 2015-ongoing); the destroyer god / angel attendant dyadic cosmology is canonically introduced via Beerus and Whis in the Battle of Gods film (Toei, 2013) and codified into the multiverse cosmology proper in the God of Destruction Beerus Saga / Resurrection 'F' Saga (DBS chapters 1-6 manga / episodes 1-27 anime, 2015) before being structurally generalized to twelve universes in the God of Destruction Champa Saga (DBS chapters 7-13 manga / episodes 28-41 anime, 2015-2016) where Beerus's elder twin Champa and Whis's elder sister Vados are introduced as Universe 6's parallel dyad; the full twelve-dyad multiverse-roster is canonically presented in the Universe Survival Saga / Tournament of Power (DBS chapters 28-43 manga / episodes 78-131 anime, 2017-2018)"
 faction: "Dragon Ball Super divine-class cosmology — every one of the canonical twelve universes is presided over by a paired destroyer god (Hakai-shin, of the Hakai-god species, cat-like in U6/U7's case) and angel attendant (Angel-class, pale-skinned long-haired robed staff-wielders, all canonically siblings of one another from the Grand Priest's lineage); the destroyer god is the universe's nominal authority (deciding which civilizations to destroy, which to preserve, which mortals to recruit for inter-universe combat) while the angel attendant is the destroyer god's combat-instructor, household-manager, and canonical-stronger operator-of-record (per Toriyama interview and Whis's explicit Battle-of-Gods-arc claim of being stronger than Beerus); the corpus's first two dyads are the BT1-canonical U6 (Champa + Vados, sibling-pair where Vados is elder) and U7 (Beerus + Whis, sibling-pair where Beerus and Champa are siblings and Vados is Whis's elder sister)"
 species: "two-species command-dyad: destroyer god (Hakai-shin / God of Destruction — cat-like Hakai-god species per Beerus's and Champa's canonical purple-skin / cat-eared / cat-physiology shared biology; the Hakai-shin species is canonically distinct from the angel species despite the cohabiting-pair functional arrangement) + angel attendant (Angel-class — pale skin, pale hair, robed staff-wielders, the canonical Grand Priest's children, every universe's angel is one of the Grand Priest's offspring per canon, making all twelve angels canonical siblings of one another; Whis and Vados are explicitly sibling-pair where Vados is canonical-elder-sister)"
@@ -13,10 +21,16 @@ appears_on:
   - dragon-ball-super/galactic-battle/bt1-007-manipulating-god-champa
   - dragon-ball-super/galactic-battle/bt1-042-energy-boost-beerus
   - dragon-ball-super/galactic-battle/bt1-043-whis-judge-of-the-gods
-related_hubs: [labor, stewardship]
+related_hubs: "[labor, stewardship]"
 related_symbols: []
-related_characters: [universe-6-tournament-cohort]
-ip_resolution_for: ["destroyer god / angel attendant dyad", "Hakai-god + angel pair", "Beerus and Whis", "Champa and Vados", "DBS divine command-tier"]
+related_characters:
+  - universe-6-tournament-cohort
+ip_resolution_for:
+  - destroyer god / angel attendant dyad
+  - Hakai-god + angel pair
+  - Beerus and Whis
+  - Champa and Vados
+  - DBS divine command-tier
 ---
 
 # Destroyer God / Angel Attendant dyad (Dragon Ball Super multiverse cosmology — Beerus+Whis U7 and Champa+Vados U6 sibling-dyads)

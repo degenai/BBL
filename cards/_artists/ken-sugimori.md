@@ -1,7 +1,12 @@
 ---
 type: artist
 name: Ken Sugimori
-aliases: [Ken Sugimori, Sugimori, 杉森建, sugimori-ken, ken-sugimori]
+aliases:
+  - Ken Sugimori
+  - Sugimori
+  - 杉森建
+  - sugimori-ken
+  - ken-sugimori
 universe: Pokemon
 birth_year: 1966
 birth_location: Tokyo, Japan
@@ -48,7 +53,7 @@ notes: |
   (Lillie). Treat his name on a card as franchise-canonical authorship rather
   than freelance TCG work; the credit's meaning is closer to "designed by
   Game Freak's art director" than to "illustrated by a TCG contractor." Per
-  Wikipedia: Ken Sugimori biographical page; Bulbapedia: Ken Sugimori
+  Wikipedia: "Ken Sugimori biographical page; Bulbapedia: Ken Sugimori"
   contributor page.
 ---
 

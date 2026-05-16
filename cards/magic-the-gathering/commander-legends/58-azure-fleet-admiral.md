@@ -1,6 +1,6 @@
 ---
 name: Azure Fleet Admiral
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Commander Legends
 collector_number: 58
 rarity: C
@@ -10,14 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["pirate", "captain", "sailor", "ship", "ocean", "sword", "swashbuckler", "naval", "adventure", "leader", "explorer", "voyage", "uniform"]
-tags_filter: ["solo", "mid-shot", "three-quarter-facing", "male-figure", "action-pose", "blue-magic", "creature-human", "creature-pirate", "daytime", "outdoor"]
+tags_hub:
+  - pirate
+  - captain
+  - sailor
+  - ship
+  - ocean
+  - sword
+  - swashbuckler
+  - naval
+  - adventure
+  - leader
+  - explorer
+  - voyage
+  - uniform
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter-facing
+  - male-figure
+  - action-pose
+  - blue-magic
+  - creature-human
+  - creature-pirate
+  - daytime
+  - outdoor
 reference_image: cards/_images/magic-the-gathering/commander-legends/58-azure-fleet-admiral.png
 average_cost_paid: 0
-market_price: 0.26
-market_price_as_of: 2026-05-14
+market_price: 0.27
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,7 +49,8 @@ mood: action
 time_of_day: day
 setting: ocean
 artist: Sidharth Chaturvedi
-symbols: ["monarch-at-common-cmr"]
+symbols:
+  - monarch-at-common-cmr
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/58-azure-fleet-admiral--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/0/c0889e22-deab-48ba-bbd6-f0d49bee5d9c.jpg?1608909111
 flavor_text: \"Your concern for my safety is touching, but as long as your gunners remain reliably erratic, I see no reason to change course.\"\n—Admiral Yelise, to Commodore Axurik

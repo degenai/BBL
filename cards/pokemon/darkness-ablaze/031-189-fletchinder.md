@@ -10,20 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["flight", "fire", "bird", "speed", "ember", "flame", "wings", "aerial", "predator", "inferno"]
-tags_filter: ["solo", "wide", "three-quarter", "action", "fire-type", "pokemon"]
+tags_hub:
+  - flight
+  - fire
+  - bird
+  - speed
+  - ember
+  - flame
+  - wings
+  - aerial
+  - predator
+  - inferno
+tags_filter:
+  - solo
+  - wide
+  - three-quarter
+  - action
+  - fire-type
+  - pokemon
 reference_image: cards/_images/pokemon/darkness-ablaze/031-189-fletchinder.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price: 0.06
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/31_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Mina Nakai
 flavor_text: Its speed right after takeoff already puts it in the top speed class of all bird Pokémon.
-oracle_text: Searing Flame (Colorless) 20: Your opponent's Active Pokémon is now Burned.
+oracle_text: "Searing Flame (Colorless) 20: Your opponent's Active Pokémon is now Burned."
 mood: action
 time_of_day: indeterminate
 setting: other

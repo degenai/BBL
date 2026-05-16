@@ -1,6 +1,6 @@
 ---
 name: Tithe Drinker
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Dragon's Maze
 collector_number: 109
 rarity: C
@@ -10,16 +10,43 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-symbols: ["orzhov-signet"]
-characters: ["orzhov-syndicate"]
-tags_hub: ["vampire", "noble", "feast", "wine", "blood", "candle", "chalice", "gold", "decadence", "ritual", "gothic", "night", "robed-figure", "aristocrat"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "creature-vampire", "multicolor-white-black", "white-magic", "black-magic", "lifegain", "extort", "indoor-scene"]
+symbols:
+  - orzhov-signet
+characters:
+  - orzhov-syndicate
+tags_hub:
+  - vampire
+  - noble
+  - feast
+  - wine
+  - blood
+  - candle
+  - chalice
+  - gold
+  - decadence
+  - ritual
+  - gothic
+  - night
+  - robed-figure
+  - aristocrat
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - creature-vampire
+  - multicolor-white-black
+  - white-magic
+  - black-magic
+  - lifegain
+  - extort
+  - indoor-scene
 reference_image: cards/_images/magic-the-gathering/dragon-s-maze/109-tithe-drinker.png
 average_cost_paid: 0
-market_price: 0.26
-market_price_as_of: 2026-05-14
+market_price: 0.25
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

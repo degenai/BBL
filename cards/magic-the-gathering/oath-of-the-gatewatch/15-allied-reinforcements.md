@@ -1,6 +1,6 @@
 ---
 name: Allied Reinforcements
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Oath of the Gatewatch
 collector_number: 15
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["cavalry", "knight", "charge", "rebellion", "resistance", "alliance", "solidarity", "mounted-warrior", "war", "formation", "comrades"]
-tags_filter: ["duo", "wide", "action", "forward-facing", "white-magic", "instant", "mounted"]
+tags_hub:
+  - cavalry
+  - knight
+  - charge
+  - rebellion
+  - resistance
+  - alliance
+  - solidarity
+  - mounted-warrior
+  - war
+  - formation
+  - comrades
+tags_filter:
+  - duo
+  - wide
+  - action
+  - forward-facing
+  - white-magic
+  - instant
+  - mounted
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/15-allied-reinforcements.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/f/d/fd7d7c93-5622-45ca-9359-110685d9162c.png?1562946180
 art_match_confidence: high
 needs_manual_review: false

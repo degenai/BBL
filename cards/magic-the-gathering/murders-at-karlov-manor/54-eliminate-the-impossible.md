@@ -1,6 +1,6 @@
 ---
 name: Eliminate the Impossible
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 54
 rarity: U
@@ -10,16 +10,37 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-characters: ["agency"]
-symbols: ["suspect"]
-tags_hub: ["detective", "mystery", "noir", "suspects", "investigation", "portrait", "shadow", "hat", "surveillance", "evidence", "process"]
-tags_filter: ["solo", "mid-shot", "narrative", "away", "no-face", "white-magic", "sorcery", "investigate"]
+characters:
+  - agency
+symbols:
+  - suspect
+tags_hub:
+  - detective
+  - mystery
+  - noir
+  - suspects
+  - investigation
+  - portrait
+  - shadow
+  - hat
+  - surveillance
+  - evidence
+  - process
+tags_filter:
+  - solo
+  - mid-shot
+  - narrative
+  - away
+  - no-face
+  - white-magic
+  - sorcery
+  - investigate
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/54-eliminate-the-impossible.png
 average_cost_paid: 0
-market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price: 0.1
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/4/8/486f1cc2-c162-448e-91a9-577d7d796584.png?1706241597
 art_match_confidence: high
 needs_manual_review: false
@@ -27,7 +48,7 @@ artist: Carlos Palma Cruchaga
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/54-eliminate-the-impossible--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/8/486f1cc2-c162-448e-91a9-577d7d796584.jpg?1706241597
 flavor_text: \"Half the city had motive. Time to narrow down who also had the means and opportunity.\"
-oracle_text: Investigate. Creatures your opponents control get -2/-0 until end of turn. If any of them are suspected, they're no longer suspected. (To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")
+oracle_text: "Investigate. Creatures your opponents control get -2/-0 until end of turn. If any of them are suspected, they're no longer suspected. (To investigate, create a Clue token. It's an artifact with \\\"{2}, Sacrifice this token: Draw a card.\\\")"
 mood: grim
 time_of_day: night
 setting: indoor

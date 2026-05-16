@@ -1,7 +1,7 @@
 ---
 name: Bottomless Pool // Locker Room
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 43
 rarity: U
 variance: Normal
@@ -10,15 +10,36 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["liminal-space", "swimming-pool", "locker-room", "gym", "school", "institutional", "haunted-architecture", "abandoned", "tile", "bathhouse", "changing-room", "water", "nightmare"]
-tags_filter: ["blue-magic", "enchantment", "room-mechanic", "split-card", "no-figure", "scene-mode", "night"]
-symbols: ["rooms"]
+tags_hub:
+  - liminal-space
+  - swimming-pool
+  - locker-room
+  - gym
+  - school
+  - institutional
+  - haunted-architecture
+  - abandoned
+  - tile
+  - bathhouse
+  - changing-room
+  - water
+  - nightmare
+tags_filter:
+  - blue-magic
+  - enchantment
+  - room-mechanic
+  - split-card
+  - no-figure
+  - scene-mode
+  - night
+symbols:
+  - rooms
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/43-bottomless-pool-locker-room.png
 average_cost_paid: 0
-market_price: 0.24
-market_price_as_of: 2026-05-14
+market_price: 0.26
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/6/0/606fe87c-d17b-4fa7-8e82-e7002d8229ef.png?1726780385
 art_match_confidence: high
 needs_manual_review: false

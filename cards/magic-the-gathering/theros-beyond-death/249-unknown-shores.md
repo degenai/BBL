@@ -1,6 +1,6 @@
 ---
 name: Unknown Shores
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 249
 rarity: C
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["ocean", "sea", "coast", "fog", "mist", "cliffs", "sea-stacks", "landscape", "wilderness", "voyage", "exploration", "horizon", "solitude"]
-tags_filter: ["no-figure", "wide-shot", "scene-mode", "land", "colorless-mana", "no-face"]
+tags_hub:
+  - ocean
+  - sea
+  - coast
+  - fog
+  - mist
+  - cliffs
+  - sea-stacks
+  - landscape
+  - wilderness
+  - voyage
+  - exploration
+  - horizon
+  - solitude
+tags_filter:
+  - no-figure
+  - wide-shot
+  - scene-mode
+  - land
+  - colorless-mana
+  - no-face
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/249-unknown-shores.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +48,7 @@ artist: Adam Paquette
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/249-unknown-shores--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/9/492181e4-5825-45d4-b8a1-37f29c32a845.jpg?1581481287
 flavor_text: \"Callaphe gazed on the coastline,\ncertain her destiny called her\nhere, where the mist-shrouded rocks sang,\npromising glories undreamed of.\"\n—*The Callapheia*
-oracle_text: {T}: Add {C}.\n{1}, {T}: Add one mana of any color.
+oracle_text: "{T}: Add {C}.\\n{1}, {T}: Add one mana of any color."
 ---
 
 # Unknown Shores (Theros Beyond Death)

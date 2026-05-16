@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 5
 held_for_lair: 0
 bundles: []
-tags_hub: ["monster", "alien", "predator", "green", "claws", "horror", "beast", "anime-style", "aggression", "creature", "otherworldly"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "no-face", "anime", "non-humanoid", "dbs-green"]
+tags_hub:
+  - monster
+  - alien
+  - predator
+  - green
+  - claws
+  - horror
+  - beast
+  - anime-style
+  - aggression
+  - creature
+  - otherworldly
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - no-face
+  - anime
+  - non-humanoid
+  - dbs-green
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-017-razor-s-edge-yakon.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408075007/FA711F444C820B351E6A8C04D70C483F2CD25F66/
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +49,8 @@ ip_verified: true
 image_width: 624
 image_height: 871
 image_quality: med
-characters: ["babidi"]
+characters:
+  - babidi
 ---
 
 # Razor's Edge Yakon (World Martial Arts Tournament)

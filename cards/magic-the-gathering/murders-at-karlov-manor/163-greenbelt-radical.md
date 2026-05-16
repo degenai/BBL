@@ -1,6 +1,6 @@
 ---
 name: Greenbelt Radical
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 163
 rarity: U
@@ -10,15 +10,34 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["centaur", "rally", "protest", "city", "uprising", "labor", "rebellion", "gothic", "sunset", "solidarity", "public-speech"]
-tags_filter: ["crowd", "mid-shot", "three-quarter", "green-magic", "creature", "disguise", "scene-mode"]
-symbols: ["disguise"]
+tags_hub:
+  - centaur
+  - rally
+  - protest
+  - city
+  - uprising
+  - labor
+  - rebellion
+  - gothic
+  - sunset
+  - solidarity
+  - public-speech
+tags_filter:
+  - crowd
+  - mid-shot
+  - three-quarter
+  - green-magic
+  - creature
+  - disguise
+  - scene-mode
+symbols:
+  - disguise
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/163-greenbelt-radical.png
 average_cost_paid: 0
-market_price: 0.28
-market_price_as_of: 2026-05-14
+market_price: 0.29
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/8/8/88e62346-cc62-4938-970c-b56beeb79fa6.png?1706241982
 art_match_confidence: high
 needs_manual_review: false

@@ -1,6 +1,6 @@
 ---
 name: Concordia Pegasus
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 12
 rarity: C
@@ -10,14 +10,37 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["pegasus", "hope", "flight", "beacon", "luminous", "sky", "horse", "wings", "mountain", "flying", "winged", "majesty", "autumn", "clouds", "horizon"]
-tags_filter: ["mid-shot", "portrait-mode", "solo", "three-quarter-facing", "creature-pegasus", "white-mono", "common", "white-magic"]
+tags_hub:
+  - pegasus
+  - hope
+  - flight
+  - beacon
+  - luminous
+  - sky
+  - horse
+  - wings
+  - mountain
+  - flying
+  - winged
+  - majesty
+  - autumn
+  - clouds
+  - horizon
+tags_filter:
+  - mid-shot
+  - portrait-mode
+  - solo
+  - three-quarter-facing
+  - creature-pegasus
+  - white-mono
+  - common
+  - white-magic
 reference_image: cards/_images/magic-the-gathering/core-set-2021/12-concordia-pegasus.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/6/0/600d3517-e370-47ae-ac4f-c7ef8995a89c.png?1594734840
 art_match_confidence: high
 needs_manual_review: false

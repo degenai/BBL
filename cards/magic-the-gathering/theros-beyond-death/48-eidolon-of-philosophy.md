@@ -1,6 +1,6 @@
 ---
 name: Eidolon of Philosophy
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 48
 rarity: C
@@ -10,14 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["spirit", "ghost", "philosopher", "scholar", "robed-figure", "book", "knowledge", "teaching", "ocean", "mediterranean", "classical-greece", "columns", "ruins", "translucent-figure"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "no-face", "blue-magic", "enchantment", "creature-spirit", "draw-cards"]
+tags_hub:
+  - spirit
+  - ghost
+  - philosopher
+  - scholar
+  - robed-figure
+  - book
+  - knowledge
+  - teaching
+  - ocean
+  - mediterranean
+  - classical-greece
+  - columns
+  - ruins
+  - translucent-figure
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - scene-mode
+  - no-face
+  - blue-magic
+  - enchantment
+  - creature-spirit
+  - draw-cards
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/48-eidolon-of-philosophy.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +52,7 @@ artist: Adam Paquette
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/48-eidolon-of-philosophy--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/2/d2897635-b387-485d-932f-5655244a381f.jpg?1581479342
 flavor_text: \"And what did Erekastos teach us is the nature of the soul?\"
-oracle_text: {6}{U}, Sacrifice this creature: Draw three cards.
+oracle_text: "{6}{U}, Sacrifice this creature: Draw three cards."
 ---
 
 # Eidolon of Philosophy (Theros Beyond Death)

@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["monster", "transformation", "rage", "golden", "ape", "beast", "giant", "roar", "saiyan", "power", "feral", "horror", "primal"]
-tags_filter: ["solo", "close-up", "action", "forward-facing", "creature-card", "anime"]
+tags_hub:
+  - monster
+  - transformation
+  - rage
+  - golden
+  - ape
+  - beast
+  - giant
+  - roar
+  - saiyan
+  - power
+  - feral
+  - horror
+  - primal
+tags_filter:
+  - solo
+  - close-up
+  - action
+  - forward-facing
+  - creature-card
+  - anime
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-080-deadly-golden-great-ape-son-goku.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401036473/D758A9AEE42CF7E12511B0D54E465C282BD945A8/
 image_width: 624
 image_height: 869
@@ -30,7 +49,9 @@ setting: void
 suspected_ip: Son Goku (Dragon Ball Super) — Great Ape / Oozaru form
 ip_confidence: high
 ip_verified: true
-characters: [son-goku, saiyan]
+characters:
+  - son-goku
+  - saiyan
 ---
 
 # Deadly Golden Great Ape Son Goku (Colossal Warfare)

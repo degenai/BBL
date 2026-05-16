@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["bravado", "comic-relief", "martial-arts", "showman", "impostor", "mortal", "coward", "bluster", "mustache", "dark-gi", "anime-comedy"]
-tags_filter: ["solo", "close-up", "portrait", "forward-facing", "male-figure", "anime", "no-aura"]
+tags_hub:
+  - bravado
+  - comic-relief
+  - martial-arts
+  - showman
+  - impostor
+  - mortal
+  - coward
+  - bluster
+  - mustache
+  - dark-gi
+  - anime-comedy
+tags_filter:
+  - solo
+  - close-up
+  - portrait
+  - forward-facing
+  - male-figure
+  - anime
+  - no-aura
 reference_image: cards/_images/dragon-ball-super/union-force/bt2-017-hercule-buu-s-assistant.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400929448/1894269D0170F05D49E7EFEFAA7ED9A098A190E1/
 image_width: 624
 image_height: 874
@@ -30,7 +48,8 @@ setting: other
 suspected_ip: Hercule / Mr. Satan (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
-characters: [hercule]
+characters:
+  - hercule
 ---
 
 # Hercule, Buu's Assistant (Union Force)

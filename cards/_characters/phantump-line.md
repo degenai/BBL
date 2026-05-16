@@ -1,7 +1,14 @@
 ---
 type: character
 name: "Phantump evolutionary line (Phantump / Trevenant)"
-aliases: [phantump-line, phantump-trevenant, kalos-ghost-grass-line, trevenant-line, gen-vi-ghost-grass-line, phantump-evolutionary-line, trevenant-family]
+aliases:
+  - phantump-line
+  - phantump-trevenant
+  - kalos-ghost-grass-line
+  - trevenant-line
+  - gen-vi-ghost-grass-line
+  - phantump-evolutionary-line
+  - trevenant-family
 universe: "Pokemon / Kalos (Generation VI, Pokemon X and Y, Game Freak / Creatures Inc. / Nintendo, 2013; expanded across every subsequent generation as a recurring Kalos-introduced Ghost/Grass-type haunted-forest line and as the franchise's canonical kodama (Japanese tree-spirit) evolutionary line)"
 faction: ~
 species: "two-stage Ghost/Grass-type evolutionary line — Phantump (base, National Pokedex no. 708, Ghost/Grass) -> Trevenant (Stage 1, no. 709, Ghost/Grass); the canonical Kalos-region kodama-tree-spirit line, introduced in Pokemon X and Y (Game Freak / Creatures Inc. / Nintendo, 2013), notable as one of the franchise's clearest implementations of Japanese-folkloric tree-spirit iconography rendered as a Pokemon evolutionary line, with Phantump's design grounded in the lore of children's spirits lost in forests and Trevenant's design grounded in kodama tree-spirits from Shinto folklore that inhabit ancient trees and curse those who fell them; **trade-evolution-gated** — Phantump evolves into Trevenant only via trade, one of the franchise's standard trade-evolution mechanics that places this line in the trade-evolution-cohort alongside Kadabra/Alakazam, Machoke/Machamp, Graveler/Golem, Haunter/Gengar, and others"
@@ -13,7 +20,13 @@ appears_on:
   - pokemon/fusion-strike/017-264-trevenant
 related_hubs: []
 related_symbols: []
-related_characters: [mareep-line, staraptor-line, charizard-line, caterpie-line, ralts-line, pancham-line]
+related_characters:
+  - mareep-line
+  - staraptor-line
+  - charizard-line
+  - caterpie-line
+  - ralts-line
+  - pancham-line
 ip_resolution_for: phantump-line
 ---
 

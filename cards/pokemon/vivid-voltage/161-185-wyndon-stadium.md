@@ -10,18 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-characters: ["galar-gym-challenge", "macro-cosmos"]
+characters:
+  - galar-gym-challenge
+  - macro-cosmos
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["stadium", "tournament", "arena", "competition", "galar", "championship", "spectacle", "neon", "institution", "grand-stage", "sport"]
-tags_filter: ["no-figure", "wide-shot", "scene-mode", "trainer-stadium", "colorless-energy"]
+tags_hub:
+  - stadium
+  - tournament
+  - arena
+  - competition
+  - galar
+  - championship
+  - spectacle
+  - neon
+  - institution
+  - grand-stage
+  - sport
+tags_filter:
+  - no-figure
+  - wide-shot
+  - scene-mode
+  - trainer-stadium
+  - colorless-energy
 reference_image: cards/_images/pokemon/vivid-voltage/161-185-wyndon-stadium.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh4/161_hires.png
 art_match_confidence: high
 needs_manual_review: false

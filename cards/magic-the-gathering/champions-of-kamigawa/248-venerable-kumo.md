@@ -1,6 +1,6 @@
 ---
 name: Venerable Kumo
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Champions of Kamigawa
 collector_number: 
 rarity: C
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["spider", "web", "egg", "ancient", "patience", "carapace", "creature", "Kamigawa", "spirit", "predator"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "no-face", "green-magic", "creature-spirit-spider", "reach", "soulshift"]
+tags_hub:
+  - spider
+  - web
+  - egg
+  - ancient
+  - patience
+  - carapace
+  - creature
+  - Kamigawa
+  - spirit
+  - predator
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - no-face
+  - green-magic
+  - creature-spirit-spider
+  - reach
+  - soulshift
 reference_image: cards/_images/magic-the-gathering/champions-of-kamigawa/248-venerable-kumo.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/3/0/308566ed-18cc-4e3b-b5ab-d5b17795f2f1.png?1562758912
 art_match_confidence: high
 needs_manual_review: false

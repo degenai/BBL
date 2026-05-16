@@ -7,17 +7,35 @@ rarity: Common
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["attack", "energy", "slash", "combat", "alien", "soldier", "elite", "space-empire", "speed", "cooler-saga", "strike", "warrior"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "action-mode", "anime-style", "small-figure"]
+tags_hub:
+  - attack
+  - energy
+  - slash
+  - combat
+  - alien
+  - soldier
+  - elite
+  - space-empire
+  - speed
+  - cooler-saga
+  - strike
+  - warrior
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - action-mode
+  - anime-style
+  - small-figure
 reference_image: cards/_images/dragon-ball-super/union-force/bt2-121-death-razor.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400947763/21A58451687B32202D4A2A4B33E72188A383C350/
 image_width: 624
 image_height: 874
@@ -27,7 +45,7 @@ needs_manual_review: false
 mood: action
 time_of_day: indeterminate
 setting: void
-suspected_ip: Salza (Dragon Ball Z: Cooler's Revenge)
+suspected_ip: "Salza (Dragon Ball Z: Cooler's Revenge)"
 ip_confidence: med
 ip_verified: true
 ---

@@ -1,6 +1,6 @@
 ---
 name: Fiery Annihilation
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Foundations
 collector_number: 86
 rarity: U
@@ -13,14 +13,29 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["dragon", "fire", "destruction", "dragonfire", "mountain", "annihilation", "power", "beast", "combat"]
-tags_filter: ["duo", "wide", "three-quarter", "red-magic", "instant", "scene-mode"]
+tags_hub:
+  - dragon
+  - fire
+  - destruction
+  - dragonfire
+  - mountain
+  - annihilation
+  - power
+  - beast
+  - combat
+tags_filter:
+  - duo
+  - wide
+  - three-quarter
+  - red-magic
+  - instant
+  - scene-mode
 reference_image: cards/_images/magic-the-gathering/foundations/86-fiery-annihilation.png
 average_cost_paid: 0
 market_price: 0.16
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/5/4/54fe00aa-d284-48f9-b5a2-1bd4c5fa8e58.png?1730488913
 art_match_confidence: high
 needs_manual_review: false

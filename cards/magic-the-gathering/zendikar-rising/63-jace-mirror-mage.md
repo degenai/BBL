@@ -1,6 +1,6 @@
 ---
 name: Jace, Mirror Mage
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Zendikar Rising
 collector_number: 63
 rarity: M
@@ -10,15 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-characters: ["jace-beleren"]
-tags_hub: ["spellcaster", "wizard", "planeswalker", "robed-figure", "hooded-figure", "mirror-image", "doppelganger", "illusion", "magic", "duplication", "ice-magic"]
-tags_filter: ["duo", "mid-shot", "forward-facing", "male-figure", "action-mode", "blue-magic", "planeswalker-card", "legendary"]
+characters:
+  - jace-beleren
+tags_hub:
+  - spellcaster
+  - wizard
+  - planeswalker
+  - robed-figure
+  - hooded-figure
+  - mirror-image
+  - doppelganger
+  - illusion
+  - magic
+  - duplication
+  - ice-magic
+tags_filter:
+  - duo
+  - mid-shot
+  - forward-facing
+  - male-figure
+  - action-mode
+  - blue-magic
+  - planeswalker-card
+  - legendary
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/63-jace-mirror-mage.png
 average_cost_paid: 0
 market_price: 0.57
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -33,7 +53,7 @@ ip_verified: true
 artist: Tyler Jacobson
 art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/63-jace-mirror-mage--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/e/fe0ed348-e4ed-4b6a-b9d9-03539a6fb42a.jpg?1604194202
-oracle_text: Kicker {2}\nWhen Jace enters, if Jace was kicked, create a token that's a copy of Jace, except it's not legendary and its starting loyalty is 1.\n+1: Scry 2.\n0: Draw a card and reveal it. Remove a number of loyalty counters equal to that card's mana value from Jace.
+oracle_text: "Kicker {2}\\nWhen Jace enters, if Jace was kicked, create a token that's a copy of Jace, except it's not legendary and its starting loyalty is 1.\\n+1: Scry 2.\\n0: Draw a card and reveal it. Remove a number of loyalty counters equal to that card's mana value from Jace."
 ---
 
 # Jace, Mirror Mage (Zendikar Rising)

@@ -13,14 +13,29 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["ruins", "abandoned", "industrial", "decay", "concrete", "danger", "derelict", "indoor-ruin", "hazard", "no-figures"]
-tags_filter: ["wide", "scene-mode", "stadium-card", "no-face", "trainer-card"]
+tags_hub:
+  - ruins
+  - abandoned
+  - industrial
+  - decay
+  - concrete
+  - danger
+  - derelict
+  - indoor-ruin
+  - hazard
+  - no-figures
+tags_filter:
+  - wide
+  - scene-mode
+  - stadium-card
+  - no-face
+  - trainer-card
 reference_image: cards/_images/pokemon/mega-evolution/127-132-risky-ruins.png
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price: 0.21
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/me1/127_hires.png
 art_match_confidence: high
 needs_manual_review: false

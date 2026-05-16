@@ -1,6 +1,6 @@
 ---
 name: Kraul Stinger
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 165
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["insect", "assassin", "ambush", "stinger", "predator", "chitin", "stalker", "vermin", "monster", "hunter", "lurker", "underdark"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "scene-mode", "no-face", "creature-insect", "creature-assassin", "green-magic", "deathtouch"]
+tags_hub:
+  - insect
+  - assassin
+  - ambush
+  - stinger
+  - predator
+  - chitin
+  - stalker
+  - vermin
+  - monster
+  - hunter
+  - lurker
+  - underdark
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - scene-mode
+  - no-face
+  - creature-insect
+  - creature-assassin
+  - green-magic
+  - deathtouch
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/165-kraul-stinger.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

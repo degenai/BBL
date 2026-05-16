@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["power-up", "transformation", "aura", "youth", "potential", "awakening", "energy-sphere", "warrior", "prodigy", "hidden-power"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "battle-card", "uncommon", "male-figure", "dbs-colossal-warfare"]
+tags_hub:
+  - power-up
+  - transformation
+  - aura
+  - youth
+  - potential
+  - awakening
+  - energy-sphere
+  - warrior
+  - prodigy
+  - hidden-power
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - battle-card
+  - uncommon
+  - male-figure
+  - dbs-colossal-warfare
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-048-newfound-power-son-gohan.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/BT4-048.png
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +48,8 @@ setting: void
 suspected_ip: Son Gohan — Mystic/Ultimate form (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
-characters: ["son-gohan"]
+characters:
+  - son-gohan
 ---
 
 # Newfound Power Son Gohan (Colossal Warfare)

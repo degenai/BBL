@@ -1,6 +1,6 @@
 ---
 name: Tunneling Geopede
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Battle for Zendikar
 collector_number: 158
 rarity: U
@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["burrowing", "arthropod", "emergence", "zendikar", "underground", "nature", "beast", "landfall", "stone", "rupture", "wilderness"]
-tags_filter: ["solo", "mid-shot", "action-mode", "red-magic", "creature-insect", "no-face"]
+tags_hub:
+  - burrowing
+  - arthropod
+  - emergence
+  - zendikar
+  - underground
+  - nature
+  - beast
+  - landfall
+  - stone
+  - rupture
+  - wilderness
+tags_filter:
+  - solo
+  - mid-shot
+  - action-mode
+  - red-magic
+  - creature-insect
+  - no-face
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/158-tunneling-geopede.png
 average_cost_paid: 0
-market_price: 0.37
-market_price_as_of: 2026-05-14
+market_price: 0.36
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Battle for Zendikar'

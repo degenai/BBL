@@ -1,6 +1,6 @@
 ---
 name: Vengeful Tracker
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 147
 rarity: U
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["pursuit", "fugitive", "revenge", "sprint", "storm", "urban", "night", "danger", "giant", "noir", "electricity"]
-tags_filter: ["duo", "mid-shot", "action", "three-quarter", "red-magic", "green-magic", "multicolor-red-green", "creature-human-ranger"]
+tags_hub:
+  - pursuit
+  - fugitive
+  - revenge
+  - sprint
+  - storm
+  - urban
+  - night
+  - danger
+  - giant
+  - noir
+  - electricity
+tags_filter:
+  - duo
+  - mid-shot
+  - action
+  - three-quarter
+  - red-magic
+  - green-magic
+  - multicolor-red-green
+  - creature-human-ranger
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/147-vengeful-tracker.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/a/2/a247c9a0-0c65-47bc-92fd-bebe95cd35a3.png?1706241931
 art_match_confidence: high
 needs_manual_review: false

@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["professor", "scientist", "researcher", "elder", "mentor", "academia", "kindness", "knowledge", "galar", "trainer-card"]
-tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "female-figure", "supporter-card", "holofoil"]
+tags_hub:
+  - professor
+  - scientist
+  - researcher
+  - elder
+  - mentor
+  - academia
+  - kindness
+  - knowledge
+  - galar
+  - trainer-card
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - female-figure
+  - supporter-card
+  - holofoil
 reference_image: cards/_images/pokemon/champion-s-path/62-73-professor-s-research--holofoil.png
 average_cost_paid: 0
 market_price: 0.19
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh35/62_hires.png
 art_match_confidence: high
 needs_manual_review: false

@@ -1,0 +1,47 @@
+{
+  "card_name": "Molten Nursery",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "130",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Battle for Zendikar (set code BFZ) released October 2, 2015 — the second visit to the plane of Zendikar, framed as an all-out war between Zendikar's survivors and the Eldrazi titans Ulamog and Kozilek, who had been freed from the Hedron network [Scryfall: set BFZ].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Molten Nursery is one of three BFZ cards that trigger on colorless spell casts — the others being Kozilek's Sentinel (a creature that gets +1/+0) and Nettle Drone (a creature that untaps and pings each opponent). Together they formed a coherent 'devoid payoff' package at common/uncommon for BFZ Limited [Scryfall: BFZ set search].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The card carries the devoid frame treatment — a visual design decision by Wizards R&D to distinguish colorless Eldrazi-affiliated cards from normally-colored cards in BFZ. Despite being cast with red mana, Molten Nursery has no color (colors: [] in Scryfall data) and thus triggers its own ability [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Some detours just aren't worth it.\" — Raff Slugeater, goblin shortcutter [Scryfall]. The speaker is an unnamed goblin; the quote frames the volcanic Eldrazi environment as an obstacle to be avoided, adding a sardonic street-level perspective on the Eldrazi invasion.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Legal in Pioneer, Modern, Legacy, and Commander. EDHREC rank 21876 — a low-inclusion fringe card; its single-damage output requires a dedicated colorless-spell gameplan to generate meaningful value, and the 3-mana cost is steep for such a conditional enchantment [Scryfall: edhrec_rank field].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Nettle Drone", "set": "Battle for Zendikar", "note": "BFZ sibling — also triggers on colorless spell cast, pings each opponent and untaps itself"},
+    {"name": "Kozilek's Sentinel", "set": "Battle for Zendikar", "note": "BFZ sibling — third member of the colorless-trigger payoff package"},
+    {"name": "Sanctum of Ugin", "set": "Battle for Zendikar", "note": "Land that also triggers on colorless spell cast; tutors Eldrazi on activation"},
+    {"name": "Valakut Invoker", "set": "Battle for Zendikar", "note": "Shares Raymond Swanland's volcanic Zendikar setting and the Valakut/lava visual theme"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

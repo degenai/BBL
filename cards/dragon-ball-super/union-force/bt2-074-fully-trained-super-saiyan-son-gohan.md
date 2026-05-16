@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["super-saiyan", "transformation", "lightning", "warrior", "power", "aura", "youth", "determination", "training", "combat", "energy", "saiyan"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "male-figure", "anime-style", "no-weapon-visible"]
+tags_hub:
+  - super-saiyan
+  - transformation
+  - lightning
+  - warrior
+  - power
+  - aura
+  - youth
+  - determination
+  - training
+  - combat
+  - energy
+  - saiyan
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action-mode
+  - male-figure
+  - anime-style
+  - no-weapon-visible
 reference_image: cards/_images/dragon-ball-super/union-force/bt2-074-fully-trained-super-saiyan-son-gohan.png
 average_cost_paid: 0
 market_price: 0.27
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400939531/E5CF0541F9F40BAD77A87FBA783F0651DFAAF85B/
 image_width: 624
 image_height: 874
@@ -30,7 +49,8 @@ setting: void
 suspected_ip: Son Gohan (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
-characters: ["son-gohan"]
+characters:
+  - son-gohan
 ---
 
 # Fully Trained Super Saiyan Son Gohan (Union Force)

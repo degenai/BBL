@@ -1,6 +1,6 @@
 ---
 name: Sphinx of New Prahv
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Ravnica Allegiance
 collector_number: 208
 rarity: U
@@ -10,15 +10,38 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-characters: ["azorius-senate"]
-tags_hub: ["sphinx", "wings", "flying-creature", "guardian", "temple", "judge", "law", "regal", "gold", "robed-figure", "myth", "winged-figure"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face-obscured", "creature-sphinx", "white-blue-magic", "flying", "vigilance", "azorius"]
+characters:
+  - azorius-senate
+tags_hub:
+  - sphinx
+  - wings
+  - flying-creature
+  - guardian
+  - temple
+  - judge
+  - law
+  - regal
+  - gold
+  - robed-figure
+  - myth
+  - winged-figure
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - no-face-obscured
+  - creature-sphinx
+  - white-blue-magic
+  - flying
+  - vigilance
+  - azorius
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/208-sphinx-of-new-prahv.png
 average_cost_paid: 0
-market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price: 0.13
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

@@ -13,14 +13,31 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["gold", "metallic", "tag", "symbol", "radiant", "tool", "connector", "shine", "power", "partnership", "item", "flash"]
-tags_filter: ["no-face", "close-up", "abstract", "item-card", "tag-team"]
+tags_hub:
+  - gold
+  - metallic
+  - tag
+  - symbol
+  - radiant
+  - tool
+  - connector
+  - shine
+  - power
+  - partnership
+  - item
+  - flash
+tags_filter:
+  - no-face
+  - close-up
+  - abstract
+  - item-card
+  - tag-team
 reference_image: cards/_images/pokemon/cosmic-eclipse/206-236-tag-call.png
 average_cost_paid: 0
 market_price: 0.36
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm12/206_hires.png
 art_match_confidence: high
 needs_manual_review: false

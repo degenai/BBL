@@ -1,6 +1,6 @@
 ---
 name: Lovestruck Beast
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 165
 rarity: R
@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["beast", "rose", "love", "fairy-tale", "antlers", "monster", "longing", "gentle", "flower", "beauty-and-the-beast"]
-tags_filter: ["duo", "three-quarter", "mid-shot", "creature", "2-figures"]
+tags_hub:
+  - beast
+  - rose
+  - love
+  - fairy-tale
+  - antlers
+  - monster
+  - longing
+  - gentle
+  - flower
+  - beauty-and-the-beast
+tags_filter:
+  - duo
+  - three-quarter
+  - mid-shot
+  - creature
+  - 2-figures
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/165-lovestruck-beast.png
 average_cost_paid: 0
-market_price: 0.29
-market_price_as_of: 2026-05-14
+market_price: 0.3
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/4/c/4ccdef9c-1e85-4358-8059-8972479f7556.png?1572490606
 art_match_confidence: high
 needs_manual_review: false

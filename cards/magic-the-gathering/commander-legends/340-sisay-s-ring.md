@@ -1,6 +1,6 @@
 ---
 name: Sisay's Ring
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Commander Legends
 collector_number: 340
 rarity: C
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["hands", "map", "ring", "fellowship", "planning", "navigation", "council", "adventure", "friendship", "parchment", "treasure", "gold"]
-tags_filter: ["no-face", "group", "close-up", "overhead-shot", "scene-mode", "artifact", "colorless-magic", "multiple-figures-implied"]
+tags_hub:
+  - hands
+  - map
+  - ring
+  - fellowship
+  - planning
+  - navigation
+  - council
+  - adventure
+  - friendship
+  - parchment
+  - treasure
+  - gold
+tags_filter:
+  - no-face
+  - group
+  - close-up
+  - overhead-shot
+  - scene-mode
+  - artifact
+  - colorless-magic
+  - multiple-figures-implied
 reference_image: cards/_images/magic-the-gathering/commander-legends/340-sisay-s-ring.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +49,7 @@ artist: Donato Giancola
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/340-sisay-s-ring--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/0/20c0e608-0208-408a-b473-1e54caa96cea.jpg?1608911699
 flavor_text: \"With this ring, you have friends in worlds you've never heard of.\"\n—Sisay, Captain of the *Weatherlight*
-oracle_text: {T}: Add {C}{C}.
+oracle_text: "{T}: Add {C}{C}."
 ---
 
 # Sisay's Ring (Commander Legends)

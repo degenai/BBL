@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["guard", "villain", "soldier", "menace", "charge", "aladdin", "palace", "enforcer", "loyalty", "muscle"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "male-figure", "disney-lorcana"]
+tags_hub:
+  - guard
+  - villain
+  - soldier
+  - menace
+  - charge
+  - aladdin
+  - palace
+  - enforcer
+  - loyalty
+  - muscle
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - male-figure
+  - disney-lorcana
 reference_image: cards/_images/lorcana/archazia-s-island/189-204-razoul-menacing-guard.jpg
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set7/189_bbb1751591b2f33661cb68a3214a3bed5a28846e.jpg
 art_match_confidence: high
 needs_manual_review: false

@@ -1,6 +1,6 @@
 ---
 name: Canyon Vaulter
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 8
 rarity: U
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["race", "speed", "canyon", "freedom", "daredevil", "vehicle", "thrill", "flight", "dragon", "rebel", "joy"]
-tags_filter: ["solo", "wide", "action", "three-quarter", "female-figure", "white-magic", "creature-pilot", "flying", "saddle"]
+tags_hub:
+  - race
+  - speed
+  - canyon
+  - freedom
+  - daredevil
+  - vehicle
+  - thrill
+  - flight
+  - dragon
+  - rebel
+  - joy
+tags_filter:
+  - solo
+  - wide
+  - action
+  - three-quarter
+  - female-figure
+  - white-magic
+  - creature-pilot
+  - flying
+  - saddle
 reference_image: cards/_images/magic-the-gathering/aetherdrift/8-canyon-vaulter.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/c/c/cc0b15da-a45c-42f5-aafc-20ad9e38bf24.png?1738356122
 art_match_confidence: high
 needs_manual_review: false

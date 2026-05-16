@@ -1,7 +1,7 @@
 ---
 name: Coordinated Clobbering
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 173
 rarity: U
 variance: Normal
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["teamwork", "corridor", "glowing-doors", "leap", "combat", "supernatural", "haunted-house", "teal", "partnership", "defiance"]
-tags_filter: ["duo", "wide", "action", "forward-facing", "green-magic", "sorcery", "indoor", "mid-shot"]
+tags_hub:
+  - teamwork
+  - corridor
+  - glowing-doors
+  - leap
+  - combat
+  - supernatural
+  - haunted-house
+  - teal
+  - partnership
+  - defiance
+tags_filter:
+  - duo
+  - wide
+  - action
+  - forward-facing
+  - green-magic
+  - sorcery
+  - indoor
+  - mid-shot
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/173-coordinated-clobbering.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/d/4/d498cd5d-5807-4297-bc8a-c0941f2f5ce2.png?1726286504
 art_match_confidence: high
 needs_manual_review: false

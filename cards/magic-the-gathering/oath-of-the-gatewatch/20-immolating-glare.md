@@ -1,6 +1,6 @@
 ---
 name: Immolating Glare
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Oath of the Gatewatch
 collector_number: 20
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["light", "divine", "power", "sacrifice", "sublime", "isolation", "scale", "sky", "desert", "destruction", "lone-figure"]
-tags_filter: ["solo", "wide", "narrative", "forward-facing", "white-magic", "instant", "no-face"]
+tags_hub:
+  - light
+  - divine
+  - power
+  - sacrifice
+  - sublime
+  - isolation
+  - scale
+  - sky
+  - desert
+  - destruction
+  - lone-figure
+tags_filter:
+  - solo
+  - wide
+  - narrative
+  - forward-facing
+  - white-magic
+  - instant
+  - no-face
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/20-immolating-glare.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Oath of the Gatewatch'

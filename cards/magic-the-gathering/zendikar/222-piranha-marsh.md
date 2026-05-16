@@ -1,6 +1,6 @@
 ---
 name: Piranha Marsh
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Zendikar
 collector_number: 222
 rarity: C
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["swamp", "jungle", "water", "river", "fish", "piranha", "wilderness", "vegetation", "stagnant-water", "ambush", "predator", "landscape"]
-tags_filter: ["no-figures", "wide-shot", "scene-mode", "land", "black-magic", "no-face"]
+tags_hub:
+  - swamp
+  - jungle
+  - water
+  - river
+  - fish
+  - piranha
+  - wilderness
+  - vegetation
+  - stagnant-water
+  - ambush
+  - predator
+  - landscape
+tags_filter:
+  - no-figures
+  - wide-shot
+  - scene-mode
+  - land
+  - black-magic
+  - no-face
 reference_image: cards/_images/magic-the-gathering/zendikar/222-piranha-marsh.png
 average_cost_paid: 0
-market_price: 0.24
-market_price_as_of: 2026-05-14
+market_price: 0.26
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,7 +46,7 @@ setting: other
 artist: Nic Klein
 art_crop_image: cards/_images/magic-the-gathering/zendikar/222-piranha-marsh--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/a/ea077cff-b5c9-4a40-8e66-8810c37be5cb.jpg?1562617915
-oracle_text: This land enters tapped.\nWhen this land enters, target player loses 1 life.\n{T}: Add {B}.
+oracle_text: "This land enters tapped.\\nWhen this land enters, target player loses 1 life.\\n{T}: Add {B}."
 ---
 
 # Piranha Marsh (Zendikar)

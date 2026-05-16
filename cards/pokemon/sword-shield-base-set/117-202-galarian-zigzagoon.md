@@ -14,16 +14,16 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/pokemon/sword-shield-base-set/117-202-galarian-zigzagoon.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price: 0.11
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh35/35_hires.png
 art_match_confidence: low
 needs_manual_review: true
 manual_review_reason: Set 'Sword & Shield Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: Its restlessness has it constantly running around. If it sees another Pokémon, it will purposely run into them in order to start a fight.
-oracle_text: Pin Missile (Colorless) 10×: Flip 4 coins. This attack does 10 damage for each heads.
+oracle_text: "Pin Missile (Colorless) 10×: Flip 4 coins. This attack does 10 damage for each heads."
 ---
 
 # Galarian Zigzagoon (Sword & Shield Base Set)

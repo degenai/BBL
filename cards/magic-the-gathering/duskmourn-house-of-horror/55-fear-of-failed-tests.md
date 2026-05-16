@@ -1,7 +1,7 @@
 ---
 name: Fear of Failed Tests
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 55
 rarity: U
 variance: Normal
@@ -10,15 +10,35 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-characters: ["fear-of-cycle"]
-tags_hub: ["fear", "nightmare", "anxiety", "school", "exam", "library", "papers", "education", "academic-horror", "phobia", "dream", "screaming-faces"]
-tags_filter: ["blue-magic", "creature", "solo", "mid-shot", "forward-facing", "humanoid-figure", "draw-cards"]
+characters:
+  - fear-of-cycle
+tags_hub:
+  - fear
+  - nightmare
+  - anxiety
+  - school
+  - exam
+  - library
+  - papers
+  - education
+  - academic-horror
+  - phobia
+  - dream
+  - screaming-faces
+tags_filter:
+  - blue-magic
+  - creature
+  - solo
+  - mid-shot
+  - forward-facing
+  - humanoid-figure
+  - draw-cards
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/55-fear-of-failed-tests.png
 average_cost_paid: 0
 market_price: 0.19
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/a/8/a87c39df-7636-454b-8485-a1cc9362fd84.png?1726286059
 art_match_confidence: high
 needs_manual_review: false

@@ -59,19 +59,23 @@ def find_edgelord_ready(cards_dir: str, game_filter: str | None = None,
                 body = f.read()
         except OSError:
             continue
-        m = re.search(r"tags_hub:\s*\[([^\]]*)\]", body)
-        if not m or not m.group(1).strip():
+        # Vision-done check: tags_hub populated (inline OR block form, wave 92)
+        m_inline = re.search(r"tags_hub:\s*\[([^\]]*)\]", body)
+        m_block = re.search(r"^tags_hub:\s*\n\s+-\s+\S+", body, re.MULTILINE)
+        inline_ok = m_inline and m_inline.group(1).strip()
+        if not (inline_ok or m_block):
             continue
         if "## Trivia" not in body:
             continue
         if unwired_only:
             # Cards already wired to character/symbol/hub layers are
             # lower-value Edgelord starting points; their edges exist.
-            # Look for non-empty arrays on these three fields.
+            # Look for non-empty arrays on these three fields (both forms).
             wired = False
             for field in ("characters", "symbols", "hubs"):
-                fm = re.search(rf"^{field}:\s*\[([^\]]*)\]", body, re.MULTILINE)
-                if fm and fm.group(1).strip():
+                fm_inline = re.search(rf"^{field}:\s*\[([^\]]*)\]", body, re.MULTILINE)
+                fm_block = re.search(rf"^{field}:\s*\n\s+-\s+\S+", body, re.MULTILINE)
+                if (fm_inline and fm_inline.group(1).strip()) or fm_block:
                     wired = True
                     break
             if wired:

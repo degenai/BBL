@@ -1,7 +1,11 @@
 ---
 type: character
 name: Foundway Associates
-aliases: [foundway, foundway-associates, the-foundway-associates, foundway-investigators]
+aliases:
+  - foundway
+  - foundway-associates
+  - the-foundway-associates
+  - foundway-investigators
 universe: "Magic: The Gathering / Ravnica (introduced in Murders at Karlov Manor, 2024)"
 faction: Foundway Associates (independent investigators; distinct from R.A.M.I. — Ravnican Agency of Magicological Investigation — the Agency proper)
 species: faction-collective (humans, mixed; specific member species not canonically detailed beyond field-agent register)
@@ -16,7 +20,9 @@ appears_on:
   - magic-the-gathering/murders-at-karlov-manor/178-they-went-this-way
 related_hubs: []
 related_symbols: []
-related_characters: [agency, orzhov-syndicate]
+related_characters:
+  - agency
+  - orzhov-syndicate
 ip_resolution_for: foundway-associates
 ---
 

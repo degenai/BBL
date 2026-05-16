@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["sheep", "autumn", "electricity", "fluffy", "pink", "evolution", "cozy", "johto", "leaves", "nature"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "portrait-mode", "lightning-type", "pokemon-stage1"]
+tags_hub:
+  - sheep
+  - autumn
+  - electricity
+  - fluffy
+  - pink
+  - evolution
+  - cozy
+  - johto
+  - leaves
+  - nature
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - portrait-mode
+  - lightning-type
+  - pokemon-stage1
 reference_image: cards/_images/pokemon/chilling-reign/048-198-flaaffy.png
 average_cost_paid: 0
-market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price: 0.16
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh6/48_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +46,8 @@ setting: forest
 suspected_ip: Flaaffy
 ip_confidence: high
 ip_verified: true
-characters: ["mareep-line"]
+characters:
+  - mareep-line
 ---
 
 # Flaaffy (Chilling Reign)

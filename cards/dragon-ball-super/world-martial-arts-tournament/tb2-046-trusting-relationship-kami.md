@@ -10,15 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-characters: ["namekian"]
-tags_hub: ["guardian", "elder", "mentor", "stewardship", "alien", "green-skin", "robed-figure", "wisdom", "trust", "namekian"]
-tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "anime-style"]
+characters:
+  - namekian
+tags_hub:
+  - guardian
+  - elder
+  - mentor
+  - stewardship
+  - alien
+  - green-skin
+  - robed-figure
+  - wisdom
+  - trust
+  - namekian
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - anime-style
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-046-trusting-relationship-kami.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408079223/05CC4C102756795D988127D7B20FBBB00F0DA65D/
 image_width: 624
 image_height: 871

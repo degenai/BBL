@@ -10,20 +10,36 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["cream", "sweets", "dessert", "cozy", "pastry", "fairy", "pink", "galar", "confection", "indoor", "small-creature"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "fairy-type", "pokemon-basic"]
+tags_hub:
+  - cream
+  - sweets
+  - dessert
+  - cozy
+  - pastry
+  - fairy
+  - pink
+  - galar
+  - confection
+  - indoor
+  - small-creature
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - fairy-type
+  - pokemon-basic
 reference_image: cards/_images/pokemon/rebel-clash/086-192-milcery.png
 average_cost_paid: 0
-market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price: 0.1
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh2/86_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Mina Nakai
 flavor_text: This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream.
-oracle_text: Aromatherapy (Colorless): Heal 10 damage from each of your Pokémon.\nTackle (PsychicColorless) 20
+oracle_text: "Aromatherapy (Colorless): Heal 10 damage from each of your Pokémon.\\nTackle (PsychicColorless) 20"
 mood: cozy
 time_of_day: indeterminate
 setting: indoor

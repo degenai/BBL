@@ -1,6 +1,6 @@
 ---
 name: Reiterating Bolt
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 134
 rarity: U
@@ -13,15 +13,34 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-characters: ["izzet-league"]
-tags_hub: ["lightning", "mage", "electricity", "power", "izzet", "energy", "laboratory", "science", "magic-user", "fire", "invention", "chaos"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "red-magic", "instant"]
+characters:
+  - izzet-league
+tags_hub:
+  - lightning
+  - mage
+  - electricity
+  - power
+  - izzet
+  - energy
+  - laboratory
+  - science
+  - magic-user
+  - fire
+  - invention
+  - chaos
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - red-magic
+  - instant
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/134-reiterating-bolt.png
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price: 0.16
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/5/1/51f57902-85d1-4c40-b79c-6cffafb4557a.png?1717012291
 art_match_confidence: high
 needs_manual_review: false

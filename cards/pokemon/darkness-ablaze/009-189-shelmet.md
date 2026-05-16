@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["shell", "armor", "snail", "hiding", "small-creature", "helmet", "protection", "bug", "cozy", "enclosure"]
-tags_filter: ["solo", "close-up", "forward-facing", "pokemon", "creature", "grass-type", "common"]
+tags_hub:
+  - shell
+  - armor
+  - snail
+  - hiding
+  - small-creature
+  - helmet
+  - protection
+  - bug
+  - cozy
+  - enclosure
+tags_filter:
+  - solo
+  - close-up
+  - forward-facing
+  - pokemon
+  - creature
+  - grass-type
+  - common
 reference_image: cards/_images/pokemon/darkness-ablaze/009-189-shelmet.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/9_hires.png
 art_match_confidence: high
 needs_manual_review: false

@@ -1,7 +1,15 @@
 ---
 type: character
 name: "Ralts evolutionary line (Ralts / Kirlia / Gardevoir / Gallade)"
-aliases: [ralts-line, ralts-kirlia-gardevoir, ralts-kirlia-gallade, hoenn-empath-line, hoenn-psychic-line, gen-iii-psychic-empath-line, gardevoir-line, gallade-line]
+aliases:
+  - ralts-line
+  - ralts-kirlia-gardevoir
+  - ralts-kirlia-gallade
+  - hoenn-empath-line
+  - hoenn-psychic-line
+  - gen-iii-psychic-empath-line
+  - gardevoir-line
+  - gallade-line
 universe: "Pokemon / Hoenn (Generation III, Pokemon Ruby and Sapphire, Game Freak / Creatures Inc. / Nintendo, 2002; expanded across every subsequent generation as a recurring Hoenn-introduced Psychic-empath line and as the franchise's canonical emotion-sensing Pokemon species line, with the Gallade alternate-final-evolution branch added in Pokemon Diamond and Pearl, 2006, and the Psychic / Fairy retyping applied across the line in Pokemon X and Y, 2013, with Mega Gardevoir and Mega Gallade Mega Evolutions in the same Generation VI title)"
 faction: ~
 species: branching three-stage Psychic-empath evolutionary line — Ralts (base, National Pokedex no. 280, Psychic / Fairy as of Generation VI) -> Kirlia (Stage 1, no. 281, Psychic / Fairy) -> Gardevoir (Stage 2, no. 282, Psychic / Fairy, any gender) OR Gallade (Stage 2 male-only branch, no. 475, Psychic / Fighting, via Dawn Stone, added in Generation IV); the canonical Hoenn-region psychic-emotion-sensor line, introduced in Pokemon Ruby and Sapphire (Game Freak / Creatures Inc. / Nintendo, 2002), with the rare designer choice of a gender-conditional fork at the second stage (Kirlia level 30 to Gardevoir for any gender, or Dawn Stone to Gallade if male) rather than at the final-stage branching point used by most other branching lines
@@ -14,7 +22,10 @@ appears_on:
   - pokemon/lost-thunder/140-kirlia
 related_hubs: []
 related_symbols: []
-related_characters: [mareep-line, staraptor-line, charizard-line]
+related_characters:
+  - mareep-line
+  - staraptor-line
+  - charizard-line
 ip_resolution_for: ralts-line
 ---
 

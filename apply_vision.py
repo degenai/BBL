@@ -24,10 +24,62 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
+
+# List fields that should be rendered in block form, not inline JSON.
+_BLOCK_LIST_FIELDS = {
+    "tags_hub", "tags_filter", "characters", "symbols", "bundles",
+    "aliases", "appears_on", "social", "related_characters",
+    "ip_resolution_for", "vision_uncertainty",
+}
+
+
+def _normalize_to_block_form(card_md: Path) -> None:
+    try:
+        content = card_md.read_text(encoding="utf-8")
+    except Exception as e:
+        print(f"  [warn] read failed for block-form normalize: {e}", file=sys.stderr)
+        return
+    lines = content.split("\n")
+    out: list[str] = []
+    in_fm = False
+    fm_marker_count = 0
+    changed = False
+    for line in lines:
+        if line.strip() == "---":
+            fm_marker_count += 1
+            out.append(line)
+            in_fm = (fm_marker_count == 1)
+            continue
+        if in_fm and ":" in line and "[" in line:
+            stripped = line.lstrip()
+            indent = line[:len(line) - len(stripped)]
+            field, _, rest = stripped.partition(":")
+            rest = rest.strip()
+            if (
+                field in _BLOCK_LIST_FIELDS
+                and rest.startswith("[") and rest.endswith("]")
+                and rest != "[]"
+            ):
+                try:
+                    items = json.loads(rest)
+                except json.JSONDecodeError:
+                    inner = rest[1:-1].strip()
+                    items = [v.strip().strip('"').strip("'") for v in inner.split(",")]
+                    items = [v for v in items if v]
+                if isinstance(items, list) and items:
+                    out.append(f"{indent}{field}:")
+                    for item in items:
+                        out.append(f"{indent}  - {item}")
+                    changed = True
+                    continue
+        out.append(line)
+    if changed:
+        card_md.write_text("\n".join(out), encoding="utf-8")
 from researchbot import parse_frontmatter, update_card  # type: ignore
 
 
@@ -74,6 +126,9 @@ def main() -> int:
         manual_review_reason=args.manual_review_reason,
         local_image_rel=local_rel,
     )
+    # Normalize inline-list frontmatter to block form so Obsidian's property panel
+    # renders chips instead of a single red string. Wave 92 fix.
+    _normalize_to_block_form(args.card_md)
     print(f"applied: {args.card_md}")
     return 0
 

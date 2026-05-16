@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["namekian", "guardian", "watcher", "elder", "robed-figure", "wisdom", "protector", "green-skin", "overseer", "divine", "calm", "staff"]
-tags_filter: ["solo", "mid-shot", "portrait", "three-quarter", "battle-card", "uncommon", "male-figure", "dbs-colossal-warfare"]
+tags_hub:
+  - namekian
+  - guardian
+  - watcher
+  - elder
+  - robed-figure
+  - wisdom
+  - protector
+  - green-skin
+  - overseer
+  - divine
+  - calm
+  - staff
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - three-quarter
+  - battle-card
+  - uncommon
+  - male-figure
+  - dbs-colossal-warfare
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-054-kami-the-watcher.png
 average_cost_paid: 0
 market_price: 0.01
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401032124/6945095803A51FDDF29FF7E6E74C683A8A57BB2F/
 image_width: 624
 image_height: 871
@@ -30,7 +50,8 @@ setting: other
 suspected_ip: Kami (Dragon Ball Z — Guardian of Earth)
 ip_confidence: high
 ip_verified: true
-characters: [namekian]
+characters:
+  - namekian
 ---
 
 # Kami, the Watcher (Colossal Warfare)

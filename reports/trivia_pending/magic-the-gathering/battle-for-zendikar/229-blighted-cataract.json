@@ -1,0 +1,43 @@
+{
+  "card_name": "Blighted Cataract",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "229",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Blighted Cataract is the blue member of the five-card BFZ Blighted land cycle — utility lands that tap for colorless mana and sacrifice for a color-aligned effect. Full cycle: Blighted Fen (black, 230), Blighted Steppe (white, 232), Blighted Cataract (blue, 229), Blighted Woodland (green), and Blighted Gorge (red). The 'blighted' framing explicitly names the Eldrazi devastation as the cause of the landscape's corruption [Scryfall: Scryfall oracle tag cycle-bfz-blighted-land].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (no attribution): \"Once, water ran here. Now only dust and ash fall from the clifftops.\" [Scryfall]. The unattributed narration functions as environmental witness testimony — the absence of a named speaker making the loss feel geological and impersonal, consistent with the Eldrazi's wholesale transformation of Zendikar's geography.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Blighted Fen and Blighted Steppe flavor texts are both attributed to 'Greenweaver Mina,' a named Zendikar character. Blighted Cataract, Blighted Gorge, and Blighted Woodland do not share this attribution — suggesting the cycle was not written as a unified monologue but assembled from different narrative voices across the set [Scryfall: BFZ Blighted land cycle flavor text comparison].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text: {T}: Add {C}. {5}{U}, {T}, Sacrifice this land: Draw two cards. The sacrifice ability is the most generically powerful in the cycle — raw card draw at instant speed for {5}{U} is usable in virtually any blue Commander deck as a late-game mana sink. EDHREC rank 13109 (the highest-ranked Blighted land, reflecting Commander's demand for card draw) [Scryfall: edhrec_rank].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Blighted Fen", "set": "Battle for Zendikar", "note": "Black cycle-mate — sacrifice to make target player sacrifice a nonland permanent"},
+    {"name": "Blighted Gorge", "set": "Battle for Zendikar", "note": "Red cycle-mate — sacrifice to deal 2 damage to any target"},
+    {"name": "Blighted Steppe", "set": "Battle for Zendikar", "note": "White cycle-mate — sacrifice to gain 2 life per creature you control"},
+    {"name": "Blighted Woodland", "set": "Battle for Zendikar", "note": "Green cycle-mate — sacrifice to search library for two basic lands and put them into play tapped"},
+    {"name": "Reliquary Tower", "set": "Conflux", "note": "Common comparison point — another colorless-producing utility land in blue-adjacent Commander lists, often mentioned alongside Blighted Cataract as flexible card-advantage infrastructure"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

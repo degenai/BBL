@@ -1,7 +1,14 @@
 ---
 type: character
 name: "Larvitar evolutionary line (Larvitar / Pupitar / Tyranitar)"
-aliases: [larvitar-line, larvitar-pupitar-tyranitar, johto-pseudo-legendary-line, tyranitar-line, gen-ii-pseudo-legendary-line, larvitar-evolutionary-line, tyranitar-family]
+aliases:
+  - larvitar-line
+  - larvitar-pupitar-tyranitar
+  - johto-pseudo-legendary-line
+  - tyranitar-line
+  - gen-ii-pseudo-legendary-line
+  - larvitar-evolutionary-line
+  - tyranitar-family
 universe: "Pokemon / Johto (Generation II, Pokemon Gold and Silver, Game Freak / Creatures Inc. / Nintendo, 1999; expanded across every subsequent generation as a recurring Johto-introduced Rock/Ground-to-Rock/Dark evolutionary line and as the canonical Generation II pseudo-legendary line, with Mega Tyranitar introduced in Pokemon X and Y, 2013)"
 faction: ~
 species: three-stage Rock/Ground-to-Rock/Dark-type evolutionary line — Larvitar (base, National Pokedex no. 246, Rock/Ground) -> Pupitar (Stage 1, no. 247, Rock/Ground) -> Tyranitar (Stage 2, no. 248, Rock/Dark, with a Mega Tyranitar Mega Evolution in Generation VI retaining Rock/Dark typing); the canonical Johto-region pseudo-legendary line, introduced in Pokemon Gold and Silver (Game Freak / Creatures Inc. / Nintendo, 1999), and the second of the franchise's pseudo-legendary lines (after Dragonite, before Salamence/Metagross/Garchomp), with a base stat total of 600 at the Tyranitar apex placing it alongside Dragonite, Metagross, Salamence, Garchomp, Hydreigon, Goodra, Kommo-o, Dragapult, and Baxcalibur as the franchise's pseudo-legendary cohort
@@ -13,7 +20,12 @@ appears_on:
   - pokemon/lost-thunder/114-larvitar-114
 related_hubs: []
 related_symbols: []
-related_characters: [mareep-line, staraptor-line, caterpie-line, charizard-line, ralts-line]
+related_characters:
+  - mareep-line
+  - staraptor-line
+  - caterpie-line
+  - charizard-line
+  - ralts-line
 ip_resolution_for: larvitar-line
 ---
 

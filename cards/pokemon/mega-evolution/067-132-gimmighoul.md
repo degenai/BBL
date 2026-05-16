@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["treasure", "gold", "ghost", "coins", "hiding", "mischief", "chest", "greed", "cute", "hoard"]
-tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "psychic-type", "creature"]
+tags_hub:
+  - treasure
+  - gold
+  - ghost
+  - coins
+  - hiding
+  - mischief
+  - chest
+  - greed
+  - cute
+  - hoard
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - psychic-type
+  - creature
 reference_image: cards/_images/pokemon/mega-evolution/067-132-gimmighoul.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/me1/67_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -28,7 +44,7 @@ image_quality: high
 mood: comedic
 time_of_day: indeterminate
 setting: indoor
-suspected_ip: Gimmighoul (#999)
+suspected_ip: "Gimmighoul (#999)"
 ip_confidence: high
 ip_verified: false
 ---

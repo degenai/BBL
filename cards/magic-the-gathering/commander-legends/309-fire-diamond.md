@@ -1,6 +1,6 @@
 ---
 name: Fire Diamond
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Commander Legends
 collector_number: 309
 rarity: C
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["gemstone", "ruby", "fire", "treasure", "hand", "artifact-object", "offering", "cave", "inner-light", "relic", "crystal", "flame"]
-tags_filter: ["solo", "close-up", "portrait-mode", "no-face", "single-hand", "artifact", "mana-rock", "colorless-magic"]
+tags_hub:
+  - gemstone
+  - ruby
+  - fire
+  - treasure
+  - hand
+  - artifact-object
+  - offering
+  - cave
+  - inner-light
+  - relic
+  - crystal
+  - flame
+tags_filter:
+  - solo
+  - close-up
+  - portrait-mode
+  - no-face
+  - single-hand
+  - artifact
+  - mana-rock
+  - colorless-magic
 reference_image: cards/_images/magic-the-gathering/commander-legends/309-fire-diamond.png
 average_cost_paid: 0
 market_price: 0.39
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +49,7 @@ artist: Lindsey Look
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/309-fire-diamond--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/f/3f65f1fa-4196-40ba-8ca3-e68560fef392.jpg?1608911413
 flavor_text: The essence of flame to stoke the spirit.
-oracle_text: This artifact enters tapped.\n{T}: Add {R}.
+oracle_text: "This artifact enters tapped.\\n{T}: Add {R}."
 ---
 
 # Fire Diamond (Commander Legends)

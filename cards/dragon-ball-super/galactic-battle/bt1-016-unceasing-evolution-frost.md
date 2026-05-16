@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["alien", "evolution", "tournament", "universe-6", "teal", "transformation", "cosmic", "fighter", "cold-aura", "deceiver", "rival", "adaptation"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait", "dbs-card", "suspected-ip", "alien-figure"]
+tags_hub:
+  - alien
+  - evolution
+  - tournament
+  - universe-6
+  - teal
+  - transformation
+  - cosmic
+  - fighter
+  - cold-aura
+  - deceiver
+  - rival
+  - adaptation
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait
+  - dbs-card
+  - suspected-ip
+  - alien-figure
 reference_image: cards/_images/dragon-ball-super/galactic-battle/bt1-016-unceasing-evolution-frost.png
 average_cost_paid: 0
 market_price: 0.22
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400567664/B08961810111A2EC30D6EAE3396B5C111416AEBF/
 image_width: 624
 image_height: 871
@@ -30,7 +49,8 @@ setting: void
 suspected_ip: Frost (Dragon Ball Super)
 ip_confidence: high
 ip_verified: true
-characters: [universe-6-tournament-cohort]
+characters:
+  - universe-6-tournament-cohort
 ---
 
 # Unceasing Evolution Frost (Galactic Battle)

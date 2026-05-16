@@ -1,6 +1,6 @@
 ---
 name: Dracosaur Auxiliary
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 122
 rarity: U
@@ -10,21 +10,44 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["dragon", "dinosaur", "fire", "flight", "mount", "rider", "race", "speed", "sky", "desert", "wings", "combat"]
-tags_filter: ["duo", "mid-shot", "action-mode", "three-quarter-facing", "red-magic", "creature-dinosaur-dragon", "flying", "haste", "saddle", "mount-mechanic", "uncommon"]
+tags_hub:
+  - dragon
+  - dinosaur
+  - fire
+  - flight
+  - mount
+  - rider
+  - race
+  - speed
+  - sky
+  - desert
+  - wings
+  - combat
+tags_filter:
+  - duo
+  - mid-shot
+  - action-mode
+  - three-quarter-facing
+  - red-magic
+  - creature-dinosaur-dragon
+  - flying
+  - haste
+  - saddle
+  - mount-mechanic
+  - uncommon
 reference_image: cards/_images/magic-the-gathering/aetherdrift/122-dracosaur-auxiliary.png
 average_cost_paid: 0
-market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price: 0.11
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/c/f/cf800b8c-d08e-4644-8ed2-11b839153861.png?1738356402
 art_match_confidence: high
 needs_manual_review: false
 artist: Brian Valeza
 art_crop_image: cards/_images/magic-the-gathering/aetherdrift/122-dracosaur-auxiliary--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/f/cf800b8c-d08e-4644-8ed2-11b839153861.jpg?1738356402
-oracle_text: Flying, haste\nWhenever this creature attacks while saddled, it deals 2 damage to any target.\nSaddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)
+oracle_text: "Flying, haste\\nWhenever this creature attacks while saddled, it deals 2 damage to any target.\\nSaddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
 mood: action
 time_of_day: magic-hour
 setting: other

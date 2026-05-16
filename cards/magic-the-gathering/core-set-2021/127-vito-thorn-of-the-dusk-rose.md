@@ -1,6 +1,6 @@
 ---
 name: Vito, Thorn of the Dusk Rose
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 127
 rarity: R
@@ -10,14 +10,39 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["vampire", "cleric", "priest", "ritual", "gothic", "cathedral", "robed-figure", "sermon", "blessing", "night", "blood", "undead", "religion", "dark-fantasy"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "male-figure", "creature-vampire", "creature-cleric", "legendary", "black-magic", "lifegain", "lifeloss"]
+tags_hub:
+  - vampire
+  - cleric
+  - priest
+  - ritual
+  - gothic
+  - cathedral
+  - robed-figure
+  - sermon
+  - blessing
+  - night
+  - blood
+  - undead
+  - religion
+  - dark-fantasy
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - male-figure
+  - creature-vampire
+  - creature-cleric
+  - legendary
+  - black-magic
+  - lifegain
+  - lifeloss
 reference_image: cards/_images/magic-the-gathering/core-set-2021/127-vito-thorn-of-the-dusk-rose.png
 average_cost_paid: 0
-market_price: 11.03
-market_price_as_of: 2026-05-14
+market_price: 11.81
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -32,7 +57,7 @@ artist: Lie Setiawan
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/127-vito-thorn-of-the-dusk-rose--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/f/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5.jpg?1594736442
 flavor_text: \"Through the blood of the wicked, we shall be redeemed. Let us pray.\"
-oracle_text: Whenever you gain life, target opponent loses that much life.\n{3}{B}{B}: Creatures you control gain lifelink until end of turn.
+oracle_text: "Whenever you gain life, target opponent loses that much life.\\n{3}{B}{B}: Creatures you control gain lifelink until end of turn."
 ---
 
 # Vito, Thorn of the Dusk Rose (Core Set 2021)

@@ -1,6 +1,6 @@
 ---
 name: Mountain (263)
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 263
 rarity: L
@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["mountain", "stone", "wilderness", "landscape", "rocky-terrain", "spires", "uninhabited", "natural-formation", "desolate", "geology"]
-tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "basic-land", "land", "red-magic"]
+tags_hub:
+  - mountain
+  - stone
+  - wilderness
+  - landscape
+  - rocky-terrain
+  - spires
+  - uninhabited
+  - natural-formation
+  - desolate
+  - geology
+tags_filter:
+  - no-figures
+  - wide-shot
+  - scene-mode
+  - no-face
+  - basic-land
+  - land
+  - red-magic
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/263-mountain-263.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,7 +45,7 @@ setting: mountain
 artist: Filip Burburan
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/263-mountain-263--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/2/32982ed2-96e4-4cc5-8562-744b06bca239.jpg?1572491355
-oracle_text: ({T}: Add {R}.)
+oracle_text: "({T}: Add {R}.)"
 ---
 
 # Mountain (263) (Throne of Eldraine)

@@ -1,7 +1,14 @@
 ---
 type: character
 name: Majin Buu
-aliases: [majin-buu, mr-buu, good-buu, fat-buu, innocent-buu, buu, mr-boo]
+aliases:
+  - majin-buu
+  - mr-buu
+  - good-buu
+  - fat-buu
+  - innocent-buu
+  - buu
+  - mr-boo
 universe: "Dragon Ball franchise (Akira Toriyama, Shueisha manga 1984-1995; Toei Animation anime adaptations 1989-present); Majin Buu is introduced in Dragon Ball Z manga chapter 461 (1994) as the ancient sealed bio-magical creation Babidi's father Bibidi originally manufactured millions of years ago, unsealed at the canonical Babidi Saga climax (DBZ episodes 220-253) and progressing across the canonical Buu Saga (DBZ chapters 461-518, 1994-1995) through multiple canonical absorption-and-fission transformations including Innocent Buu (the form unsealed from the Sealed Ball), Evil Buu / Super Buu (the form produced after Innocent Buu's fission separates the Grand-Supreme-Kai-influence-dampened benign half from the underlying destructive consciousness), Kid Buu (the form produced after Super Buu's regression to the original canonical pure-evil consciousness), and the canonical Mr. Buu / Good Buu (the canonical reformed-villain register that survives the Buu Saga and continues as a Z-Fighter ally across the End-of-Z epilogue, Dragon Ball GT, and Dragon Ball Super continuity); recurring across Dragon Ball DAIMA (Toei Animation, 2024) which retcons a new originator named Marba into the First Demon World; recurring across the Dragon Ball Super Card Game (Bandai, 2017-present) as the canonical multi-form Buu-lineage character-roster anchor"
 faction: "ancient bio-magical entity (originally created by Bibidi and / or canonically retconned to predate Bibidi per Toriyama's later clarification and Dragon Ball DAIMA's Marba-of-the-First-Demon-World originating-figure); canonical alignment shifts across the Buu Saga: sealed-and-controlled-by-Bibidi at original creation, sealed-by-Bibidi after the canonical destruction of the Supreme Kai Council, unsealed-and-controlled-by-Babidi during the Buu Saga, autonomous-after-Babidi-kills, fissioned-into-Good-Buu-and-Evil-Buu after the canonical Mr. Satan / chocolate-coma-induced fission, reformed-as-Mr-Buu after Super Buu / Kid Buu's defeat. The canonical reformed Mr. Buu / Good Buu register operates as a Z-Fighter ally and Mr. Satan disciple in the canonical End-of-Z epilogue and subsequent continuities."
 species: "ancient bio-magical entity (the canonical *Majin* species classification per Bandai's DBSCG Special Trait); canonical visual identifiers across his prints include the canonical rotund-pink-skinned body register (the canonical *Buu silhouette* design Toriyama installed as one of the franchise's most-recognizable single-character profiles), the canonical short antennae-or-head-knob design feature (the canonical *Buu head-feature* across all forms), the canonical white-and-purple or white-and-yellow vest-and-baggy-pants outfit register (the canonical Mr. Buu / Good Buu costume), the canonical *playful-childlike-affect-paired-with-planet-level-destructive-power* uncanny-tone register that Toriyama installed as the canonical *gleeful-menace* design device, the canonical *body-manipulation-and-regeneration-abilities* magical-physiology design device, and the canonical *absorption-of-other-fighters-into-his-body* canonical-mechanical design device that drives the canonical Super-Buu-absorbs-Gotenks-and-Piccolo-and-Gohan beat that produces the canonical apex Buu-Saga power-tier"
@@ -11,10 +18,20 @@ appears_on:
   - dragon-ball-super/galactic-battle/bt1-047-energy-boosted-majin-buu
   - dragon-ball-super/colossal-warfare/bt4-015-mr-buu
   - dragon-ball-super/world-martial-arts-tournament/tb2-028-scuffle-time-mr-buu
-related_hubs: [labor]
+related_hubs: "[labor]"
 related_symbols: []
-related_characters: [babidi, hercule, son-goku, son-goten, uub]
-ip_resolution_for: ["Majin Buu", "Mr. Buu", "Good Buu", "Fat Buu", "Innocent Buu"]
+related_characters:
+  - babidi
+  - hercule
+  - son-goku
+  - son-goten
+  - uub
+ip_resolution_for:
+  - Majin Buu
+  - Mr. Buu
+  - Good Buu
+  - Fat Buu
+  - Innocent Buu
 ---
 
 # Majin Buu

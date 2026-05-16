@@ -1,6 +1,6 @@
 ---
 name: Mistway Spy
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 65
 rarity: U
@@ -10,16 +10,39 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-characters: ["agency"]
-tags_hub: ["spy", "canal", "urban", "night", "rain", "stealth", "city", "alley", "ravnica", "green-skin", "detective", "noir"]
-tags_filter: ["solo", "mid-shot", "action", "three-quarter", "blue-magic", "creature", "flying", "disguise", "investigate"]
-symbols: ["disguise"]
+characters:
+  - agency
+tags_hub:
+  - spy
+  - canal
+  - urban
+  - night
+  - rain
+  - stealth
+  - city
+  - alley
+  - ravnica
+  - green-skin
+  - detective
+  - noir
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - three-quarter
+  - blue-magic
+  - creature
+  - flying
+  - disguise
+  - investigate
+symbols:
+  - disguise
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/65-mistway-spy.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/e/8/e8578839-046f-4afd-a0e7-4737ded9e6eb.png?1706241631
 art_match_confidence: high
 needs_manual_review: false

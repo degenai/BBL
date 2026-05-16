@@ -1,7 +1,7 @@
 ---
 name: Smoky Lounge // Misty Salon
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 235
 rarity: U
 variance: Normal
@@ -10,15 +10,46 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["haunted-house", "manor", "library", "lounge", "trophy-room", "antlers", "skull", "hunting", "books", "globe", "ladder", "candlelight", "moonlight", "mist", "smoke", "gothic", "interior", "abandoned", "taxidermy", "fireplace"]
-tags_filter: ["scene-mode", "wide-shot", "no-figure", "split-card", "room-mechanic", "enchantment", "red-magic", "blue-magic", "multicolor-red-blue", "duskmourn"]
-symbols: ["rooms"]
+tags_hub:
+  - haunted-house
+  - manor
+  - library
+  - lounge
+  - trophy-room
+  - antlers
+  - skull
+  - hunting
+  - books
+  - globe
+  - ladder
+  - candlelight
+  - moonlight
+  - mist
+  - smoke
+  - gothic
+  - interior
+  - abandoned
+  - taxidermy
+  - fireplace
+tags_filter:
+  - scene-mode
+  - wide-shot
+  - no-figure
+  - split-card
+  - room-mechanic
+  - enchantment
+  - red-magic
+  - blue-magic
+  - multicolor-red-blue
+  - duskmourn
+symbols:
+  - rooms
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/235-smoky-lounge-misty-salon.png
 average_cost_paid: 0
-market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price: 0.08
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/4/7/4700987d-fc55-44eb-bc9f-0e0316ca65e2.png?1726780766
 art_match_confidence: high
 needs_manual_review: false

@@ -1,7 +1,7 @@
 ---
 name: Haunted Screen
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 250
 rarity: U
 variance: Normal
@@ -10,21 +10,40 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["television", "ghost", "haunted", "retro", "electronics", "screen", "static", "media-horror", "vintage", "reaching-hand", "spirit", "cathode-ray"]
-tags_filter: ["solo", "mid-shot", "narrative", "forward-facing", "colorless", "artifact", "indoor"]
+tags_hub:
+  - television
+  - ghost
+  - haunted
+  - retro
+  - electronics
+  - screen
+  - static
+  - media-horror
+  - vintage
+  - reaching-hand
+  - spirit
+  - cathode-ray
+tags_filter:
+  - solo
+  - mid-shot
+  - narrative
+  - forward-facing
+  - colorless
+  - artifact
+  - indoor
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/250-haunted-screen.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/5/e/5e7d552f-a7ac-4a49-a582-9d378137005f.png?1726286805
 art_match_confidence: high
 needs_manual_review: false
 artist: Sean Murray
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/250-haunted-screen--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/e/5e7d552f-a7ac-4a49-a582-9d378137005f.jpg?1726286805
-oracle_text: {T}: Add {W} or {B}.\n{T}, Pay 1 life: Add {G}, {U}, or {R}.\n{7}: Put seven +1/+1 counters on this artifact. It becomes a 0/0 Spirit creature in addition to its other types. Activate only once.
+oracle_text: "{T}: Add {W} or {B}.\\n{T}, Pay 1 life: Add {G}, {U}, or {R}.\\n{7}: Put seven +1/+1 counters on this artifact. It becomes a 0/0 Spirit creature in addition to its other types. Activate only once."
 image_width: 745
 image_height: 1040
 image_quality: high

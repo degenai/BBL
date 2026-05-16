@@ -1,6 +1,6 @@
 ---
 name: Medomai's Prophecy
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 53
 rarity: U
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["prophecy", "ritual", "oracle", "temple", "smoke", "divination", "gold", "incense", "classical-architecture", "greek-myth", "altar", "sacred-objects"]
-tags_filter: ["no-figures", "object-focus", "close-up", "scene-mode", "blue-magic", "enchantment", "saga", "still-life", "no-face"]
+tags_hub:
+  - prophecy
+  - ritual
+  - oracle
+  - temple
+  - smoke
+  - divination
+  - gold
+  - incense
+  - classical-architecture
+  - greek-myth
+  - altar
+  - sacred-objects
+tags_filter:
+  - no-figures
+  - object-focus
+  - close-up
+  - scene-mode
+  - blue-magic
+  - enchantment
+  - saga
+  - still-life
+  - no-face
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/53-medomai-s-prophecy.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price: 0.09
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

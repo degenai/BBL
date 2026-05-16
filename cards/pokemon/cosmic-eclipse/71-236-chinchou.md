@@ -10,20 +10,38 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["bioluminescence", "glow", "deep-sea", "fish", "aquatic", "antenna", "light", "ocean", "yellow", "lure"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "pokemon", "creature", "lightning-type", "colorless-type", "common"]
+tags_hub:
+  - bioluminescence
+  - glow
+  - deep-sea
+  - fish
+  - aquatic
+  - antenna
+  - light
+  - ocean
+  - yellow
+  - lure
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - pokemon
+  - creature
+  - lightning-type
+  - colorless-type
+  - common
 reference_image: cards/_images/pokemon/cosmic-eclipse/71-236-chinchou.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm12/71_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Sekio
 flavor_text: Its two antennae glow softly to lure in prey, making it a useful Pokémon for night fishing.
-oracle_text: Scout (Colorless): Your opponent reveals their hand.\nRazor Fin (Lightning) 10
+oracle_text: "Scout (Colorless): Your opponent reveals their hand.\\nRazor Fin (Lightning) 10"
 mood: peaceful
 time_of_day: day
 setting: ocean

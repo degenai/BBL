@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["mischief", "child", "purple-hair", "trickster", "alola", "playful", "ghost-type-trainer", "trial-captain", "dark-aesthetic", "nimble"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "trainer-card", "supporter", "female-figure", "alola-lore"]
+tags_hub:
+  - mischief
+  - child
+  - purple-hair
+  - trickster
+  - alola
+  - playful
+  - ghost-type-trainer
+  - trial-captain
+  - dark-aesthetic
+  - nimble
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - trainer-card
+  - supporter
+  - female-figure
+  - alola-lore
 reference_image: cards/_images/pokemon/mega-evolution/113-132-acerola-s-mischief.png
 average_cost_paid: 0
-market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price: 0.1
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/me1/113_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -28,7 +45,10 @@ setting: urban
 suspected_ip: Acerola (Pokémon Sun and Moon)
 ip_confidence: high
 ip_verified: true
-characters: [acerola, alola-trial-captains, alola-elite-four]
+characters:
+  - acerola
+  - alola-trial-captains
+  - alola-elite-four
 ---
 
 # Acerola's Mischief (Mega Evolution)

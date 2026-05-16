@@ -10,27 +10,43 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["martial-arts", "fighter", "training", "muscle", "strength", "blue", "warrior", "classic", "humanoid", "discipline"]
-tags_filter: ["solo", "mid-shot", "action", "three-quarter", "fighting-type", "creature"]
+tags_hub:
+  - martial-arts
+  - fighter
+  - training
+  - muscle
+  - strength
+  - blue
+  - warrior
+  - classic
+  - humanoid
+  - discipline
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - three-quarter
+  - fighting-type
+  - creature
 reference_image: cards/_images/pokemon/evolutions/57-108-machop.png
 average_cost_paid: 0
 market_price: 0.16
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/xy12/57_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Mitsuhiro Arita
 flavor_text: Its whole body is composed of muscles. Even though it's the size of a human child, it can hurl 100 grown-ups.
-oracle_text: Dual Chop (FightingFighting) 20×: Flip 2 coins. This attack does 20 damage times the number of heads.
+oracle_text: "Dual Chop (FightingFighting) 20×: Flip 2 coins. This attack does 20 damage times the number of heads."
 image_width: 734
 image_height: 1024
 image_quality: high
 mood: action
 time_of_day: day
 setting: other
-suspected_ip: Machop (#066)
+suspected_ip: "Machop (#066)"
 ip_confidence: high
 ip_verified: false
 ---

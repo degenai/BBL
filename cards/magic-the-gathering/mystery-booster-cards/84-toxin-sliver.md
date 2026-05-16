@@ -1,6 +1,6 @@
 ---
 name: Toxin Sliver
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Mystery Booster Cards
 collector_number: 84
 rarity: R
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["sliver", "monster", "parasite", "claws", "venom", "poison", "stinger", "tail", "cave", "skeletal", "predator", "body-horror"]
-tags_filter: ["solo", "mid-shot", "three-quarter-facing", "no-face", "creature-sliver", "black-magic", "centered-composition", "scene-mode"]
+tags_hub:
+  - sliver
+  - monster
+  - parasite
+  - claws
+  - venom
+  - poison
+  - stinger
+  - tail
+  - cave
+  - skeletal
+  - predator
+  - body-horror
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter-facing
+  - no-face
+  - creature-sliver
+  - black-magic
+  - centered-composition
+  - scene-mode
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/84-toxin-sliver.png
 average_cost_paid: 0
-market_price: 1.8
-market_price_as_of: 2026-05-14
+market_price: 1.73
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

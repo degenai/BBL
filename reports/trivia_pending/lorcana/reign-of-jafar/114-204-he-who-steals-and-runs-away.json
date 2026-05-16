@@ -1,0 +1,40 @@
+{
+  "card_name": "He Who Steals And Runs Away",
+  "game": "Lorcana",
+  "set": "Reign of Jafar",
+  "collector_number": "114/204",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag present. Mushu Report confirms franchise as TaleSpin; depicted figure visually consistent with Don Karnage (red wolf, blue coat, gold buttons), the primary TaleSpin villain, but no suspected_ip was flagged by vision pass and triviabot does not assign one retroactively without explicit trigger.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Part of Reign of Jafar (set 8), Disney Lorcana's eighth expansion, released May 30, 2025. The set's narrative centers on Jafar seizing control of Archazia's Island, drawing characters from across the Disney catalog into a single conflict. [Mushu Report: Reign of Jafar wiki; lorcanaplayer.com]",
+      "sources": ["Mushu Report (wiki.mushureport.com/wiki/Reign_of_Jafar)", "lorcanaplayer.com/set/reign-of-jafar/"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Mushu Report's Lorcana wiki categorizes this card under the TaleSpin franchise, placing it within Disney's 1990 Disney Afternoon animated series. TaleSpin transplanted Jungle Book characters into a 1930s-era aviation adventure setting. [Mushu Report: He Who Steals and Runs Away card page]",
+      "sources": ["Mushu Report (wiki.mushureport.com/wiki/He_Who_Steals_and_Runs_Away)"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Luis Huerta. As an Emerald-ink Action card costing 3, it destroys a chosen item and replaces itself by drawing a card — a clean tempo play that generates card advantage at the cost of tempo against an item-heavy opponent. [DigitalTQ; lorcanaplayer.com]",
+      "sources": ["DigitalTQ (digitaltq.com/lorcana/reign-of-jafar/he-who-steals-and-runs-away-114)", "lorcanaplayer.com/card/he-who-steals-and-runs-away/"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Lives to steal another day!\" — a play on the proverb 'he who fights and runs away, lives to fight another day', recast here as a boast rather than a tactical retreat. [frontmatter; confirmed via lorcanaplayer.com]",
+      "sources": ["Card frontmatter (flavor_text field)", "lorcanaplayer.com/card/he-who-steals-and-runs-away/"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Don Karnage", "set": "Reign of Jafar (likely)", "note": "TaleSpin primary villain; if a Don Karnage character card exists in the set, this action card likely references his activities directly"},
+    {"name": "Honest John - Scheming Fox", "set": "Reign of Jafar", "note": "Card 122 in same set; another Disney con-artist/thief archetype; different franchise (Pinocchio) but same Emerald-ink trickster niche"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["uniform", "workers", "organization", "tropics", "corporate", "alola", "white-costume", "institutional", "villain-adjacent", "patrol"]
-tags_filter: ["mid-shot", "forward-facing", "trainer-card", "supporter", "2-figures", "alola-lore", "duo"]
+tags_hub:
+  - uniform
+  - workers
+  - organization
+  - tropics
+  - corporate
+  - alola
+  - white-costume
+  - institutional
+  - villain-adjacent
+  - patrol
+tags_filter:
+  - mid-shot
+  - forward-facing
+  - trainer-card
+  - supporter
+  - 2-figures
+  - alola-lore
+  - duo
 reference_image: cards/_images/pokemon/lost-thunder/168-aether-foundation-employee.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm8/168_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -29,7 +46,8 @@ setting: other
 suspected_ip: Aether Foundation (Pokémon Sun and Moon)
 ip_confidence: high
 ip_verified: true
-characters: [aether-foundation]
+characters:
+  - aether-foundation
 ---
 
 # Aether Foundation Employee (Lost Thunder)

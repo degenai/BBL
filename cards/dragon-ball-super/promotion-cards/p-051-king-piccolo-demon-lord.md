@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["villain", "throne", "ruler", "dark-king", "green-skin", "namekian", "skull", "demon-lord", "dark-energy", "tyrant", "authority", "gothic"]
-tags_filter: ["solo", "wide", "portrait", "forward-facing", "anime"]
+tags_hub:
+  - villain
+  - throne
+  - ruler
+  - dark-king
+  - green-skin
+  - namekian
+  - skull
+  - demon-lord
+  - dark-energy
+  - tyrant
+  - authority
+  - gothic
+tags_filter:
+  - solo
+  - wide
+  - portrait
+  - forward-facing
+  - anime
 reference_image: cards/_images/dragon-ball-super/promotion-cards/p-051-king-piccolo-demon-lord.png
 average_cost_paid: 0
 market_price: 0.3
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/P-051.png
 art_match_confidence: high
 needs_manual_review: false

@@ -1,7 +1,7 @@
 ---
 name: Wary Watchdog
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 206
 rarity: C
 variance: Normal
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["dog", "animal", "guardian", "loyalty", "companion", "haunted-house", "horror", "vigilance", "domestic-animal", "fear", "watchful", "household"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "no-face-human", "narrative-mode", "indoor", "green-magic", "creature-dog", "common"]
+tags_hub:
+  - dog
+  - animal
+  - guardian
+  - loyalty
+  - companion
+  - haunted-house
+  - horror
+  - vigilance
+  - domestic-animal
+  - fear
+  - watchful
+  - household
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - no-face-human
+  - narrative-mode
+  - indoor
+  - green-magic
+  - creature-dog
+  - common
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/206-wary-watchdog.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price: 0.17
+market_price_as_of: 2026-05-16
 date_added: 2026-05-10
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/2/5/25ed97f2-b47e-49b7-9b1a-694c4bbeca3b.png?1726286637
 art_match_confidence: high
 needs_manual_review: false
@@ -29,7 +50,8 @@ art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/206-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/5/25ed97f2-b47e-49b7-9b1a-694c4bbeca3b.jpg?1726286637
 flavor_text: Valgavoth harbors a special loathing for dogs, whose mere presence provides a powerful antidote to the fear he craves.
 oracle_text: When this creature enters or dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
-characters: ["valgavoth"]
+characters:
+  - valgavoth
 ---
 
 # Wary Watchdog (Duskmourn: House of Horror)

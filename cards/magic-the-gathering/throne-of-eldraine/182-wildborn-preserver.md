@@ -1,6 +1,6 @@
 ---
 name: Wildborn Preserver
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 182
 rarity: R
@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["fox", "riding", "giant-creature", "forest", "speed", "partnership", "wild", "hunter", "nature"]
-tags_filter: ["group", "faces-right", "wide", "creature", "secondary-figures-unresolved", "creature-bond"]
+tags_hub:
+  - fox
+  - riding
+  - giant-creature
+  - forest
+  - speed
+  - partnership
+  - wild
+  - hunter
+  - nature
+tags_filter:
+  - group
+  - faces-right
+  - wide
+  - creature
+  - secondary-figures-unresolved
+  - creature-bond
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/182-wildborn-preserver.png
 average_cost_paid: 0
-market_price: 0.27
-market_price_as_of: 2026-05-14
+market_price: 0.28
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/5/5/55f76830-369e-4224-9ded-7d1ce04c87e4.png?1572490704
 art_match_confidence: high
 needs_manual_review: false

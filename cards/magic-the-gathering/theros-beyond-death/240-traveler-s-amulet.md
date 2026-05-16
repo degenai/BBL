@@ -1,6 +1,6 @@
 ---
 name: Traveler's Amulet
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 240
 rarity: C
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["amulet", "locket", "keepsake", "memory", "home", "hope", "travel", "journey", "treasure", "jewelry", "vision", "longing", "nostalgia", "gold"]
-tags_filter: ["solo", "close-up", "no-face", "object-focus", "hand-visible", "artifact", "colorless-magic", "narrative-mode"]
+tags_hub:
+  - amulet
+  - locket
+  - keepsake
+  - memory
+  - home
+  - hope
+  - travel
+  - journey
+  - treasure
+  - jewelry
+  - vision
+  - longing
+  - nostalgia
+  - gold
+tags_filter:
+  - solo
+  - close-up
+  - no-face
+  - object-focus
+  - hand-visible
+  - artifact
+  - colorless-magic
+  - narrative-mode
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/240-traveler-s-amulet.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +51,7 @@ artist: Cliff Childs
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/240-traveler-s-amulet--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/9/590926db-279c-494a-b92d-680b8abf9699.jpg?1581481232
 flavor_text: A vision of home, and a glimpse of hope.
-oracle_text: {1}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+oracle_text: "{1}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 ---
 
 # Traveler's Amulet (Theros Beyond Death)

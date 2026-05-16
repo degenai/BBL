@@ -1,0 +1,41 @@
+---
+name: Dusclops
+game: Pokemon
+set: Trick or Trade BOOster Bundle 2023
+collector_number: 070/185
+rarity: Uncommon
+variance: Normal
+grade: Ungraded
+condition: Near Mint
+quantity: 1
+held_for_lair: 0
+bundles: []
+tags_hub: []
+tags_filter: []
+reference_image: cards/_images/pokemon/trick-or-trade-booster-bundle-2023/070-185-dusclops.png
+average_cost_paid: 0
+market_price: 0.14
+market_price_as_of: 2026-05-16
+date_added: 2026-05-15
+last_seen: 2026-05-15
+reference_image_source_url: https://images.pokemontcg.io/ex8/7_hires.png
+art_match_confidence: low
+needs_manual_review: true
+manual_review_reason: Set 'Trick or Trade BOOster Bundle 2023' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+---
+
+# Dusclops (Trick or Trade BOOster Bundle 2023)
+
+## Vision
+
+![070-185-dusclops](../../_images/pokemon/trick-or-trade-booster-bundle-2023/070-185-dusclops.png)
+
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+
+
+**Subject:** 
+
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
+

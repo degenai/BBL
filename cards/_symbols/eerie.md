@@ -1,7 +1,11 @@
 ---
 type: symbol
 name: Eerie (mechanic)
-aliases: [eerie, eerie-mechanic, eerie-keyword, eerie-trigger]
+aliases:
+  - eerie
+  - eerie-mechanic
+  - eerie-keyword
+  - eerie-trigger
 faction: ~
 universe: "Magic: The Gathering / Duskmourn (DSK, 2024-09-27)"
 canonical_source: "Wizards of the Coast — Mark Rosewater's Top of the Duskmourning Part 1 and Part 2 (2024-09); MTG Wiki — Eerie; Scryfall — keyword:eerie / oracletext:'Eerie —'"
@@ -13,7 +17,9 @@ appears_on:
   - magic-the-gathering/duskmourn-house-of-horror/141-infernal-phantom
   - magic-the-gathering/duskmourn-house-of-horror/214-fear-of-infinity
 related_hubs: []
-related_characters: [valgavoth, fear-of-cycle]
+related_characters:
+  - valgavoth
+  - fear-of-cycle
 ---
 
 # Eerie (mechanic)

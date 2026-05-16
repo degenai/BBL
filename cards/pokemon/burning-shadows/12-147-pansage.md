@@ -10,15 +10,37 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-characters: ["elemental-monkey-trio"]
-tags_hub: ["monkey", "primate", "leaf", "grass", "meadow", "cheerful", "gentle", "healing", "friendship", "nature", "small-creature", "cute"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "creature-only", "grass-type", "basic-pokemon", "pokemon-card", "open-pose"]
+characters:
+  - elemental-monkey-trio
+tags_hub:
+  - monkey
+  - primate
+  - leaf
+  - grass
+  - meadow
+  - cheerful
+  - gentle
+  - healing
+  - friendship
+  - nature
+  - small-creature
+  - cute
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - creature-only
+  - grass-type
+  - basic-pokemon
+  - pokemon-card
+  - open-pose
 reference_image: cards/_images/pokemon/burning-shadows/12-147-pansage.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price: 0.11
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm3/12_hires.png
 art_match_confidence: high
 needs_manual_review: false

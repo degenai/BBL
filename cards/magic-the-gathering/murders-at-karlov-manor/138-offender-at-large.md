@@ -1,6 +1,6 @@
 ---
 name: Offender at Large
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 138
 rarity: C
@@ -10,20 +10,40 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-symbols: ["disguise"]
-tags_hub: ["fugitive", "chase", "city", "disguise", "escape", "cloak", "street", "unrest", "smoke", "surveillance", "running"]
-tags_filter: ["solo", "mid-shot", "action", "faces-left", "red-magic", "creature", "crowd"]
+symbols:
+  - disguise
+tags_hub:
+  - fugitive
+  - chase
+  - city
+  - disguise
+  - escape
+  - cloak
+  - street
+  - unrest
+  - smoke
+  - surveillance
+  - running
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - faces-left
+  - red-magic
+  - creature
+  - crowd
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/138-offender-at-large.png
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price: 0.07
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/f/0/f096ff4a-85f4-46f1-9478-e8921f21309d.png?1706241900
 art_match_confidence: high
 needs_manual_review: false
 artist: Mike Bierek
-characters: ["foundway-associates"]
+characters:
+  - foundway-associates
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/138-offender-at-large--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/0/f096ff4a-85f4-46f1-9478-e8921f21309d.jpg?1706241900
 flavor_text: \"In a city this big, anyone can blend in.\"\n—Imel of the Foundway Associates

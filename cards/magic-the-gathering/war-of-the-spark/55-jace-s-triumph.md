@@ -1,6 +1,6 @@
 ---
 name: Jace's Triumph
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 55
 rarity: U
@@ -10,15 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-characters: ["jace-beleren"]
-tags_hub: ["robed-figure", "hooded-figure", "mage", "wizard", "psychic", "mind-magic", "arcane-sigil", "runes", "meditation", "third-eye", "scholar", "planeswalker"]
-tags_filter: ["solo", "close-up", "forward-facing", "portrait-mode", "male-figure", "no-visible-eyes", "blue-magic", "sorcery", "card-draw"]
+characters:
+  - jace-beleren
+tags_hub:
+  - robed-figure
+  - hooded-figure
+  - mage
+  - wizard
+  - psychic
+  - mind-magic
+  - arcane-sigil
+  - runes
+  - meditation
+  - third-eye
+  - scholar
+  - planeswalker
+tags_filter:
+  - solo
+  - close-up
+  - forward-facing
+  - portrait-mode
+  - male-figure
+  - no-visible-eyes
+  - blue-magic
+  - sorcery
+  - card-draw
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/55-jace-s-triumph.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

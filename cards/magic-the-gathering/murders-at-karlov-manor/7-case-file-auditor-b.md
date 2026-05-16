@@ -1,6 +1,6 @@
 ---
 name: Case File Auditor (b)
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 7
 rarity: U
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["bureaucracy", "scrolls", "archive", "detective", "magic-user", "uniform", "law", "ravnica", "agency", "records", "investigator", "documents"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "multicolor-white-blue", "creature", "narrative", "female-figure"]
+tags_hub:
+  - bureaucracy
+  - scrolls
+  - archive
+  - detective
+  - magic-user
+  - uniform
+  - law
+  - ravnica
+  - agency
+  - records
+  - investigator
+  - documents
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - multicolor-white-blue
+  - creature
+  - narrative
+  - female-figure
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/7-case-file-auditor-b.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/7/0/70a52038-9d1c-4be1-8dbe-6f0ee916ba94.png?1706241461
 art_match_confidence: high
 needs_manual_review: false

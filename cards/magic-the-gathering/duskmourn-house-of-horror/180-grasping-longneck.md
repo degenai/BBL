@@ -1,7 +1,7 @@
 ---
 name: Grasping Longneck
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 180
 rarity: C
 variance: Normal
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["monster", "horror", "tentacles", "survivor", "scream", "night", "glowing-eyes", "fangs", "trapped", "darkness", "predator", "nightmare"]
-tags_filter: ["duo", "wide-shot", "scene-mode", "forward-facing", "female-figure", "green-magic", "creature-horror", "reach", "lifegain"]
+tags_hub:
+  - monster
+  - horror
+  - tentacles
+  - survivor
+  - scream
+  - night
+  - glowing-eyes
+  - fangs
+  - trapped
+  - darkness
+  - predator
+  - nightmare
+tags_filter:
+  - duo
+  - wide-shot
+  - scene-mode
+  - forward-facing
+  - female-figure
+  - green-magic
+  - creature-horror
+  - reach
+  - lifegain
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/180-grasping-longneck.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/7/f/7fddcd48-3efe-4b56-9d69-9659b3dc6021.png?1726286534
 art_match_confidence: high
 needs_manual_review: false

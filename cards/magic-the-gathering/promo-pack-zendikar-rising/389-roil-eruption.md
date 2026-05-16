@@ -1,7 +1,7 @@
 ---
 name: Roil Eruption
-game: Magic: The Gathering
-set: Promo Pack: Zendikar Rising
+game: "Magic: The Gathering"
+set: "Promo Pack: Zendikar Rising"
 collector_number: 389
 rarity: P
 variance: Normal
@@ -15,12 +15,12 @@ tags_filter: []
 reference_image: cards/_images/magic-the-gathering/promo-pack-zendikar-rising/389-roil-eruption.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: low
 needs_manual_review: true
-manual_review_reason: Set 'Promo Pack: Zendikar Rising' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+manual_review_reason: "Set 'Promo Pack: Zendikar Rising' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing."
 reference_image_source_url: https://cards.scryfall.io/png/front/8/6/86572747-8faa-4242-b059-07d11e6be1cd.png?1604197631
 flavor_text: \"Our feeble villages and tiny encampments stand only at the whim of the Roil.\"\n—*The Invokers' Tales*
 oracle_text: Kicker {5} (You may pay an additional {5} as you cast this spell.)\nRoil Eruption deals 3 damage to any target. If this spell was kicked, it deals 5 damage instead.

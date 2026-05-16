@@ -1,6 +1,6 @@
 ---
 name: Sorin's Thirst
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 104
 rarity: C
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["vampire", "blood", "violence", "predator-and-prey", "hooded-figure", "robed-figure", "duel", "drain", "gothic", "dark-magic", "wound", "hunger"]
-tags_filter: ["duo", "mid-shot", "action", "no-face", "black-magic", "instant", "lifegain", "damage-spell"]
+tags_hub:
+  - vampire
+  - blood
+  - violence
+  - predator-and-prey
+  - hooded-figure
+  - robed-figure
+  - duel
+  - drain
+  - gothic
+  - dark-magic
+  - wound
+  - hunger
+tags_filter:
+  - duo
+  - mid-shot
+  - action
+  - no-face
+  - black-magic
+  - instant
+  - lifegain
+  - damage-spell
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/104-sorin-s-thirst.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

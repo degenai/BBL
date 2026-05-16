@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["namekian", "guardian", "sky-palace", "service", "aide", "temple", "heaven", "green-skin", "robed-figure", "loyalty", "cooperation"]
-tags_filter: ["duo", "mid-shot", "portrait", "forward-facing", "battle-card", "common", "dbs-colossal-warfare", "2-figures"]
+tags_hub:
+  - namekian
+  - guardian
+  - sky-palace
+  - service
+  - aide
+  - temple
+  - heaven
+  - green-skin
+  - robed-figure
+  - loyalty
+  - cooperation
+tags_filter:
+  - duo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - battle-card
+  - common
+  - dbs-colossal-warfare
+  - 2-figures
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-056-popo-guardian-s-aide.png
 average_cost_paid: 0
 market_price: 0.33
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401032433/C486215136C66EFB5CE95289F4D4C8B19E3DD6CC/
 image_width: 624
 image_height: 871
@@ -30,7 +49,8 @@ setting: other
 suspected_ip: Mr. Popo and Kami (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
-characters: [namekian]
+characters:
+  - namekian
 ---
 
 # Popo, Guardian's Aide (Colossal Warfare)

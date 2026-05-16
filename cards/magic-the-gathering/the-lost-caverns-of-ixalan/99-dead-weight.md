@@ -1,6 +1,6 @@
 ---
 name: Dead Weight
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: The Lost Caverns of Ixalan
 collector_number: 99
 rarity: C
@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["pirate", "escape", "cave", "chase", "underground", "goblin", "danger", "scramble", "swashbuckler", "dungeon"]
-tags_filter: ["duo", "mid-shot", "three-quarter", "female-figure", "black-magic", "enchantment-aura"]
+tags_hub:
+  - pirate
+  - escape
+  - cave
+  - chase
+  - underground
+  - goblin
+  - danger
+  - scramble
+  - swashbuckler
+  - dungeon
+tags_filter:
+  - duo
+  - mid-shot
+  - three-quarter
+  - female-figure
+  - black-magic
+  - enchantment-aura
 reference_image: cards/_images/magic-the-gathering/the-lost-caverns-of-ixalan/99-dead-weight.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price: 0.14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/8/2/82e6b971-3f5b-47e7-8209-98d72ee781fc.png?1699044112
 art_match_confidence: high
 needs_manual_review: false

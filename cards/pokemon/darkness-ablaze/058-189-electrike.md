@@ -10,20 +10,36 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["lightning", "electricity", "dog", "speed", "green", "running", "storm", "spark", "predator", "canine"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "action", "lightning-type", "pokemon"]
+tags_hub:
+  - lightning
+  - electricity
+  - dog
+  - speed
+  - green
+  - running
+  - storm
+  - spark
+  - predator
+  - canine
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - action
+  - lightning-type
+  - pokemon
 reference_image: cards/_images/pokemon/darkness-ablaze/058-189-electrike.png
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price: 0.05
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/58_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Yumi
 flavor_text: It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.
-oracle_text: Thunderbolt (LightningColorless) 50: Discard all Energy from this Pokémon.
+oracle_text: "Thunderbolt (LightningColorless) 50: Discard all Energy from this Pokémon."
 mood: action
 time_of_day: indeterminate
 setting: other

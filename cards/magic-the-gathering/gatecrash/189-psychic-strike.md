@@ -1,6 +1,6 @@
 ---
 name: Psychic Strike
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Gatecrash
 collector_number: 189
 rarity: C
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["mind", "psychic", "memory", "horror", "glow", "dimir", "possession", "void", "faces", "manipulation", "ghost"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "multicolor-blue-black", "instant", "mill", "counterspell"]
+tags_hub:
+  - mind
+  - psychic
+  - memory
+  - horror
+  - glow
+  - dimir
+  - possession
+  - void
+  - faces
+  - manipulation
+  - ghost
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - multicolor-blue-black
+  - instant
+  - mill
+  - counterspell
 reference_image: cards/_images/magic-the-gathering/gatecrash/189-psychic-strike.png
 average_cost_paid: 0
-market_price: 0.35
-market_price_as_of: 2026-05-14
+market_price: 0.33
+market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/0/d/0d87927c-80a6-4146-92a5-58c510ce7958.png?1561815780
 art_match_confidence: high
 needs_manual_review: false

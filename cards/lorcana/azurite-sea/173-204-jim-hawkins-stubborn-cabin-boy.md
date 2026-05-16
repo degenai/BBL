@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["youth", "adventure", "dock", "running", "nautical", "cabin-boy", "treasure-planet", "escape", "determination", "night-journey", "sea"]
-tags_filter: ["solo", "mid-shot", "action", "faces-right", "male-figure", "disney-lorcana"]
+tags_hub:
+  - youth
+  - adventure
+  - dock
+  - running
+  - nautical
+  - cabin-boy
+  - treasure-planet
+  - escape
+  - determination
+  - night-journey
+  - sea
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - faces-right
+  - male-figure
+  - disney-lorcana
 reference_image: cards/_images/lorcana/azurite-sea/173-204-jim-hawkins-stubborn-cabin-boy.jpg
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set6/173_3b120e1f89b0b227c95ebac89e8866516398ff6d.jpg
 art_match_confidence: high
 needs_manual_review: false

@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["time-keeper", "judgement", "deity", "pink", "divine", "time-magic", "xenoverse", "guardian", "command", "justice", "twin-tails", "reckoning"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "portrait-mode", "female-figure", "anime-style", "dbscg"]
+tags_hub:
+  - time-keeper
+  - judgement
+  - deity
+  - pink
+  - divine
+  - time-magic
+  - xenoverse
+  - guardian
+  - command
+  - justice
+  - twin-tails
+  - reckoning
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - portrait-mode
+  - female-figure
+  - anime-style
+  - dbscg
 reference_image: cards/_images/dragon-ball-super/cross-worlds/bt3-122-time-s-judgement.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401022874/05150E4CD752D65CC37B2B93177ABF3314EEBDA0/
 image_width: 624
 image_height: 871
@@ -31,7 +50,8 @@ subject_known_ip: true
 suspected_ip: Supreme Kai of Time (Chronoa) — Dragon Ball Xenoverse / Dragon Ball Heroes
 ip_confidence: high
 ip_verified: true
-characters: ["chronoa"]
+characters:
+  - chronoa
 ---
 
 # Time's Judgement (Cross Worlds)

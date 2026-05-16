@@ -1,7 +1,14 @@
 ---
 type: character
 name: Broly
-aliases: [broly, legendary-super-saiyan, lss-broly, movie-8-broly, broly-1993, original-broly, koyama-broly]
+aliases:
+  - broly
+  - legendary-super-saiyan
+  - lss-broly
+  - movie-8-broly
+  - broly-1993
+  - original-broly
+  - koyama-broly
 universe: "Dragon Ball franchise (Akira Toriyama / Shueisha original-canon; Movie 8 / 1993 non-canon Broly screenwritten by Takao Koyama, animated by Toei Animation under the canonical *Dragon Ball Z: Broly — The Legendary Super Saiyan* 1993 theatrical film, directed by Shigeyasu Yamauchi); Movie 8 Broly was introduced as a Toei-canonical-but-Toriyama-non-canonical Saiyan-elite warrior whose canonical Legendary Super Saiyan transformation is the canonical *non-canon major villain* per Wikipedia's framing; Movie 8 Broly continued canonically across two sequel Toei films (*Dragon Ball Z: Broly — Second Coming* 1994, *Dragon Ball Z: Bio-Broly* 1994), and across video-game continuities (Dragon Ball: Raging Blast, Dragon Ball Heroes, Dragon Ball Xenoverse continuity); SCOPE NOTE: this node anchors the Movie 8 / Koyama / 1993 non-canon Broly continuity, NOT the canonically-distinct 2018 *Dragon Ball Super: Broly* canonical reimagining (Toriyama-authored, Toei-animated, canonical-to-Dragon-Ball-Super continuity) which canonically operates as a structurally-distinct character per Wikipedia and Dragon Ball Wiki — the 2018 Broly is canonically a reimagining with different parentage-and-backstory continuity and would warrant a future `broly-dbs.md` solo node split if Bandai prints depicting the 2018 canonical-DBS Broly enter the corpus"
 faction: "Saiyan race (canonically Movie-8 Saiyan-elite-warrior caste; canonical son of Paragus who is canonically a Saiyan-survivor of King Vegeta's preemptive infant-execution-order against the canonical Broly-infant due to the canonical 10,000-power-level abnormality the canonical *Legendary Super Saiyan prophecy* canonically affirms); canonical alignment is canonical *Paragus-controlled-via-control-ring* across Movie 8's first half and canonical *Paragus-control-collapsed-and-Broly-autonomous* across Movie 8's climax; canonical New Planet Vegeta operational-base canonically operates as Paragus's canonical *revenge-against-King-Vegeta's-bloodline* operation that uses canonical Broly as the canonical-instrument; Broly canonically destroys Paragus at the canonical control-ring-shattering beat that closes the canonical New-Planet-Vegeta operation"
 species: "Saiyan (canonically full-blooded Movie 8 Saiyan-elite-warrior caste, born with a canonical 10,000 power level that prompts King Vegeta to order his infant execution; the canonical Legendary Super Saiyan transformation prophecy operates at the canonical-millennial-cycle-rare scope per the Movie 8 framing); canonical visual identifiers include the canonical tall-and-massively-muscular adult-Saiyan-elite-warrior body register, the canonical wild long-spiky-erupting hair in the canonical Legendary Super Saiyan transformed form (green-gold-tinted erupting upward in the canonical *LSS hair* register), the canonical green-tinted-energy aura in the canonical Legendary Super Saiyan form (the canonical *green-LSS aura* visual signature that distinguishes Movie-8 Broly's transformation from the canonical golden-SS aura of standard Super Saiyan), the canonical white-or-cream lower-garment sash-or-belt with circular blue gem at the waist (the canonical Movie-8 Broly costume signature visible across multiple corpus prints), the canonical wild-uncontrolled-rage facial-affect that the canonical *Goku-fixation* backstory the Movie 8 trivia canonically references produces"
@@ -12,10 +19,20 @@ appears_on:
   - dragon-ball-super/galactic-battle/bt1-075-rampaging-super-saiyan-broly
   - dragon-ball-super/galactic-battle/bt1-076-broly-dawn-of-the-rampage-2017
   - dragon-ball-super/galactic-battle/bt1-081-broly-s-ring
-related_hubs: [labor, rebellion]
+related_hubs: "[labor, rebellion]"
 related_symbols: []
-related_characters: [saiyan, son-goku, vegeta, bardock]
-ip_resolution_for: ["Broly (Movie 8)", "Broly (1993)", "Legendary Super Saiyan", "Movie 8 Broly", "Original Broly", "Koyama Broly"]
+related_characters:
+  - saiyan
+  - son-goku
+  - vegeta
+  - bardock
+ip_resolution_for:
+  - Broly (Movie 8)
+  - Broly (1993)
+  - Legendary Super Saiyan
+  - Movie 8 Broly
+  - Original Broly
+  - Koyama Broly
 ---
 
 # Broly

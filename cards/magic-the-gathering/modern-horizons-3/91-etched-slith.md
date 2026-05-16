@@ -1,6 +1,6 @@
 ---
 name: Etched Slith
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 91
 rarity: U
@@ -10,15 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-characters: ["phyrexia"]
-tags_hub: ["undead", "skeleton", "phyrexian", "corruption", "bioluminescence", "horror", "creature", "runes", "compleation", "green-glow", "predator", "dark"]
-tags_filter: ["mid-shot", "solo", "three-quarter", "black-magic"]
+characters:
+  - phyrexia
+tags_hub:
+  - undead
+  - skeleton
+  - phyrexian
+  - corruption
+  - bioluminescence
+  - horror
+  - creature
+  - runes
+  - compleation
+  - green-glow
+  - predator
+  - dark
+tags_filter:
+  - mid-shot
+  - solo
+  - three-quarter
+  - black-magic
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/91-etched-slith.png
 average_cost_paid: 0
-market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price: 0.14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/4/2/428e255d-bdda-4265-91cf-d02962e818e4.png?1717047257
 art_match_confidence: high
 needs_manual_review: false

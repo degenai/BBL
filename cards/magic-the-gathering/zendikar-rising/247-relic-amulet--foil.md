@@ -1,6 +1,6 @@
 ---
 name: Relic Amulet
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Zendikar Rising
 collector_number: 247
 rarity: U
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["amulet", "talisman", "relic", "jewelry", "wings", "gem", "artifact-object", "shrine", "ruins", "treasure", "heirloom", "symmetry"]
-tags_filter: ["solo-object", "no-figure", "close-up", "forward-facing", "centered-composition", "still-life", "artifact", "colorless-magic"]
+tags_hub:
+  - amulet
+  - talisman
+  - relic
+  - jewelry
+  - wings
+  - gem
+  - artifact-object
+  - shrine
+  - ruins
+  - treasure
+  - heirloom
+  - symmetry
+tags_filter:
+  - solo-object
+  - no-figure
+  - close-up
+  - forward-facing
+  - centered-composition
+  - still-life
+  - artifact
+  - colorless-magic
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/247-relic-amulet--foil.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +49,7 @@ artist: Yeong-Hao Han
 art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/247-relic-amulet--foil--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/a/0ab97a84-fe8c-4986-afd8-3abdcc029f7f.jpg?1604200828
 flavor_text: Old power finds new purpose.
-oracle_text: Whenever you cast an instant, sorcery, or Wizard spell, put a charge counter on this artifact.\n{2}, {T}, Remove all charge counters from this artifact: It deals that much damage to target creature.
+oracle_text: "Whenever you cast an instant, sorcery, or Wizard spell, put a charge counter on this artifact.\\n{2}, {T}, Remove all charge counters from this artifact: It deals that much damage to target creature."
 ---
 
 # Relic Amulet (Zendikar Rising)

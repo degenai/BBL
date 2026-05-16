@@ -1,6 +1,6 @@
 ---
 name: Gideon's Reproach
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Battle for Zendikar
 collector_number: 30
 rarity: C
@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["paladin", "justice", "warrior", "gold", "power", "planeswalker", "Zendikar", "authority", "magic-energy", "champion"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "action", "male-figure", "instant", "white-magic"]
+tags_hub:
+  - paladin
+  - justice
+  - warrior
+  - gold
+  - power
+  - planeswalker
+  - Zendikar
+  - authority
+  - magic-energy
+  - champion
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - action
+  - male-figure
+  - instant
+  - white-magic
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/30-gideon-s-reproach.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/4/5/453d8ec3-15ae-4851-9efb-161ca2ee6019.png?1562911221
 art_match_confidence: high
 needs_manual_review: false

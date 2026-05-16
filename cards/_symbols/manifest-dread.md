@@ -1,7 +1,11 @@
 ---
 type: symbol
 name: Manifest Dread (mechanic)
-aliases: [manifest-dread, manifest-dread-mechanic, manifest-dread-keyword, manifest-evil-working-title]
+aliases:
+  - manifest-dread
+  - manifest-dread-mechanic
+  - manifest-dread-keyword
+  - manifest-evil-working-title
 faction: ~
 universe: "Magic: The Gathering / Duskmourn (DSK, 2024-09-27)"
 canonical_source: "Wizards of the Coast — Mark Rosewater's Top of the Duskmourning Part 1 and Part 2 (2024-09); MTG Wiki — Manifest dread; Scryfall — keyword:'manifest dread' / oracletext:'manifest dread'"
@@ -18,7 +22,10 @@ appears_on:
   - magic-the-gathering/duskmourn-house-of-horror/212-disturbing-mirth
   - magic-the-gathering/duskmourn-house-of-horror/244-conductive-machete
 related_hubs: []
-related_characters: [fear-of-cycle, dsk-toy-horror, dsk-survival-archetype]
+related_characters:
+  - fear-of-cycle
+  - dsk-toy-horror
+  - dsk-survival-archetype
 ---
 
 # Manifest Dread (mechanic)

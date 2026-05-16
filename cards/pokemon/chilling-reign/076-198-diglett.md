@@ -10,20 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["underground", "burrowing", "earth", "kanto", "mole", "tiny-creature", "cute", "soil", "rapid-strike", "emergence"]
-tags_filter: ["solo", "close-up", "forward-facing", "portrait-mode", "fighting-type", "pokemon-basic"]
+tags_hub:
+  - underground
+  - burrowing
+  - earth
+  - kanto
+  - mole
+  - tiny-creature
+  - cute
+  - soil
+  - rapid-strike
+  - emergence
+tags_filter:
+  - solo
+  - close-up
+  - forward-facing
+  - portrait-mode
+  - fighting-type
+  - pokemon-basic
 reference_image: cards/_images/pokemon/chilling-reign/076-198-diglett.png
 average_cost_paid: 0
-market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price: 0.18
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh6/76_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Souichirou Gunjima
 flavor_text: It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot.
-oracle_text: Dig (Fighting) 10: Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.
+oracle_text: "Dig (Fighting) 10: Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
 mood: peaceful
 time_of_day: indeterminate
 setting: other

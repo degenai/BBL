@@ -10,20 +10,40 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["ghost", "spirit", "darkness", "binding", "ritual", "imprisonment", "souls", "stone", "curse", "ancient", "green-glow", "horror"]
-tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "darkness-magic", "creature", "pokemon-darkness-type", "no-face"]
+tags_hub:
+  - ghost
+  - spirit
+  - darkness
+  - binding
+  - ritual
+  - imprisonment
+  - souls
+  - stone
+  - curse
+  - ancient
+  - green-glow
+  - horror
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - darkness-magic
+  - creature
+  - pokemon-darkness-type
+  - no-face
 reference_image: cards/_images/pokemon/brilliant-stars/089-172-spiritomb.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh9/89_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Uta
 flavor_text: Exactly 108 spirits gathered to become this Pokémon. Apparently there are some ill-natured spirits in the mix.
-oracle_text: Ticking Terror (Colorless): Until the end of your next turn, the Defending Pokémon's Weakness is now Darkness. (The amount of Weakness doesn't change.)\nCursed Drop (Darkness): Put 2 damage counters on your opponent's Pokémon in any way you like.
+oracle_text: "Ticking Terror (Colorless): Until the end of your next turn, the Defending Pokémon's Weakness is now Darkness. (The amount of Weakness doesn't change.)\\nCursed Drop (Darkness): Put 2 damage counters on your opponent's Pokémon in any way you like."
 mood: horror
 time_of_day: night
 setting: void

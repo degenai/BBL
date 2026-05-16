@@ -483,6 +483,366 @@ The benchmark experiment (`docs/benchmark-tithe-prose.md`) showed that even with
 
 ---
 
+## Michi Method Binders for Discrete Lairs (storefront) — long-term
+
+**Tag: long-term / storefront-side / not next-sprint**
+
+**The idea (Alex 2026-05-15):** the current bundle-previewer shows Discrete Lair cards in a carousel. Buyers see the cards but not *what the curation is for* — the thesis that earns the bundle its existence stays invisible. A Michi-style binder page would make the curation argument legible: page by page, deliberately composed, with non-card art assets doing the thesis grounding so the cards are arranged AROUND the read, not the other way around.
+
+The Michi method originates from TikTok creator @michimaybe_ (Instagram: peeplop) in the Pokémon TCG community. The core mechanic: 9-slot binder page, but only 5-7 of those slots hold actual cards. The remaining 2-4 slots are intentionally filled with non-card art assets — extended art prints spanning two horizontal or vertical slots, standalone card-sized art prints, cool sleeve backs used as visual texture, character cutouts, set icons, or header-title inserts. The empty/art slots are NOT absence — they are the curatorial argument made visible. The format has spread across TCG communities quickly enough that there's already an Etsy market for Michi-method-specific inserts and printable templates, a dedicated tool ecosystem (pkmnbindr.com, binderforge.com, binderview.com), and tutorial ecosystems on TikTok, Pinterest, and Elite Fourum.
+
+**Why this maps cleanly to BBL doctrine:**
+
+Three existing memory files already describe the principle — `bbl-narrative-first-lairs`, `bbl-museum-curation-framing`, and `bbl-no-ai-slop-thumbnails` — but the binder page is a more literal instantiation of all three simultaneously. A binder page is a physical/digital object where the thesis grounders (the art-slot inserts) literally frame the cards, structurally encoding the narrative hierarchy. The museum-curation framing is most legible here: a museum exhibit has wall text and artifact grouping; a Michi page has art inserts and card grouping. The "anti-slop" constraint from the thumbnail workflow also applies — inserts should come from real asset sources (Scryfall art crops, Bulbapedia character art, Ravensburger CDN jpegs for Lorcana, set icons from Scryfall's SVG set) rather than AI-generated filler.
+
+This is a **storefront-side project** that lives in `Diamondlegendz/bundle-previewer/`, distinct from the BBL graph engine. The graph stays the curation engine. The binder is the storefront output format — a new render target, not a new pipeline component.
+
+**Asset sourcing (from research, 2026-05-15):**
+
+- **Extended art prints (multi-slot panels):** the community self-sources these via Canva with card-art dimensions (1 slot: 7.0×9.5cm; 2-slot horizontal: 14×9.5cm; 4-slot: 14×19.5cm). BBL already has Scryfall `art_crop_url` and Bulbapedia / Ravensburger CDN at high res — that's the BBL-native equivalent.
+- **Etsy market for ready-made inserts:** active market for printable digital downloads — custom extended art panels spanning 9/12/16-card puzzle sets, placeholder cards, themed header inserts. Relevant as a reference for what the community will pay for and what formats feel finished.
+- **Paper:** Canon photo paper letter-size is the community standard for home-printing inserts. Relevant if the bundle includes a "printable binder page" digital deliverable for buyers.
+- **Digital binder preview tools for research ref:** pkmnbindr.com, binderforge.com, binderview.com — all free, Pokémon-specific. No MTG or multi-TCG equivalent found. Worth watching for layout conventions.
+- **Sleeve backs as visual texture:** no dedicated free repository found — community uses whatever's on hand (premium sleeve packs like Vault X, Dragon Shield). For BBL purposes, a card-sized print of the DISCRETE LAIR badge or a solid-color brand swatch would serve the same structural role.
+
+**Integration sketch — what BBL data feeds a binder page:**
+
+```
+bundle JSON (v0.3+)
+  ├── narrative            → thesis grounder INSERT: title card + opening prose
+  ├── hubs[]               → hub-node art if/when hub MDs get cover images
+  ├── anchor_tags          → could inform color/palette of art inserts
+  ├── cards[].image_url    → actual card slots (5-7 of 9)
+  ├── cards[].art_crop_url → high-res insert candidates (characters, scenes)
+  ├── cohesion.palette_hex → backgrounds for art insert panels
+  └── characters[] / symbols[] → character cutouts and icon inserts from graph nodes
+
+cards/_characters/<slug>.md → character art for "who this bundle is about" insert
+cards/_symbols/<slug>.md    → icon for "what motif runs through this bundle" insert
+cards/_artists/<slug>.md    → artist credit panel (anti-slop: credit is curation)
+```
+
+**Open design questions (not for this sprint):**
+
+- Does the binder page render as an HTML view in bundle-previewer (new route/component alongside existing carousel)? As a printable PDF buyers can download alongside the digital bundle? As a buyer-facing preview image (the "binder page as thumbnail" concept)?
+- Does the page format change per bundle size? (9-slot works for 5-7 card bundles; larger lairs might want 2 pages with a splash panel spanning the gutter.)
+- Who curates the art inserts — Alex manually, or a layout assistant that proposes insert placement based on cohesion data and Alex A/B picks the final layout? (Same flashcard A/B pattern as the thumbnail composer sketch.)
+- PDF delivery mechanism: attached to Stripe payment confirmation email? Available as a separate Etsy-style digital download? Both?
+- Physical fulfillment angle: if a buyer gets a physical bundle, could the printed binder page ship WITH the cards? That's a differentiator no mass-market TCG seller offers.
+
+**Relationship to other sketchbook concepts:**
+
+- Builds on top of the **thumbnail composer** workflow — the same A/B picker mechanic could rank binder-page layout candidates.
+- The **print/PDF export** deferred from the bundle-previewer schema entry is exactly the delivery vehicle for this.
+- The **art_crop caching** work (high-res source art sketch above) directly feeds the insert asset pool.
+- The **collection timeline HTML** has the same "make the labor visible" logic — binder pages make the curation visible at point-of-sale; the timeline makes it visible retrospectively.
+
+**Status:** concept only as of 2026-05-15. No implementation. Placeholder note in `Diamondlegendz/bundle-previewer/MICHI_BINDERS_FUTURE.md`.
+
+### Competitor findings (research 2026-05-15)
+
+Direct WebFetch was permission-denied in the research agent context; all findings below are from WebSearch snippets and indexed content. Cloudflare-walled sites were not attempted via Puppeteer (parent-only escape hatch per task constraints).
+
+---
+
+#### pkmnbindr.com
+
+- **What it does:** Free Pokémon binder organizer and generator. Primary function is digital collection management — track cards by set, cloud sync, card search. Generates binder pages in 2×2, 3×3, 3×4, and 4×4 grid formats. Buyer selects a set, picks cards per page, and the tool visualizes the layout.
+- **What it misses:** No support for Michi-method-style non-card art inserts — the tool is fundamentally card-slot management, not curated composition. No multi-TCG support. No narrative or thesis layer. No PDF/shareable page output surfaced in any indexed content. Collection tracker, not a storytelling surface.
+- **Data shape / file format:** Inputs appear to be card name + set selection via search UI. Output is a web preview grid. No export format confirmed from search snippets.
+- **UX choices to copy:** Set-based card search pre-filtered by slot context (click a slot, search scoped to that slot's Pokémon) — the "slot-first search" flow is smart UX for a builder. Binder size selector (2×2 through 4×4) is the right abstraction.
+- **UX choices to skip:** The entire paradigm — it assumes cards fill every slot uniformly and that the interesting problem is "which card goes where." BBL's interesting problem is "which slots are NOT cards and what do they say."
+
+---
+
+#### binderforge.com
+
+- **What it does:** Positioned as the most feature-rich of the three. "All-in-one digital solution" for Pokémon TCG collection organization. Key differentiator is the Pokédex binder planner — builds binders organized by Pokédex number rather than by set, with live repagination based on binder size (3×3, 4×3). Includes value tracking (TCGPlayer, CardMarket, eBay price sources), drag-and-drop card re-arrangement, and shareable binder links. Free, with a Ko-fi support page indicating it's indie-built.
+- **What it misses:** Same structural blind spot as pkmnbindr — no concept of art insert slots, non-card panels, or Michi-method composition. The Pokédex-first organization is clever but orthogonal to BBL's thesis-first logic. No multi-TCG support. No narrative layer.
+- **Data shape / file format:** Card data pulled from a Pokémon TCG database (presumably TCGPlayer API or similar). Prices from TCGPlayer, CardMarket, eBay. No file format output confirmed — web preview with shareable link appears to be the output model.
+- **UX choices to copy:** Shareable binder URL — low friction for buyer-to-buyer sharing, which maps well to the BBL storefront context. Live repagination by binder size. Value tracking per binder is interesting for BBL's cost-basis-visibility doctrine (buyer can see what market value the bundle represents).
+- **UX choices to skip:** Pokédex-organization paradigm (collector completionism, not curation). Price-tracking as the primary value proposition undercuts BBL's "you're buying the thesis, not the market spread" framing.
+
+---
+
+#### binderview.com / pkmn.gg Binder View
+
+- **What it does:** Two related but distinct surfaces. `binderview.com` is a standalone free tool (no login required) that shows card sets as binder pages — primarily a set-completion tracker. `pkmn.gg/binder-view` is the Pro Member version of the same idea with more customization: combine main set + trainer gallery into one view, filter/sort, show/hide price/name/number, size slider, digital binder grouping across sets. Both use a paginated binder-page layout (9, 12, or 16-pocket).
+- **What it misses:** Same as above — no art insert slots. These are read-only visualization tools for existing sets, not composition tools. The free binderview.com strips out account features entirely.
+- **Data shape / file format:** Read from the Pokémon TCG set database. No upload or custom data input. No confirmed export format — web view only.
+- **UX choices to copy:** The size slider for card display scale is simple and useful. The "no login required" framing of binderview.com is the right default for a casual preview surface — friction kills discovery. The subset-integration (main set + trainer gallery merged) is a smart data-layer choice that reduces visual orphaning of related cards.
+- **UX choices to skip:** The set-completion-tracking paradigm entirely. It's a collector's checklist tool; BBL is a curation storytelling tool.
+
+---
+
+#### Elite Fourum walkthrough — "Creating a Binder Preview (with Michi Method)"
+
+**URL:** https://www.elitefourum.com/t/creating-a-binder-preview-with-michi-method/60453
+
+- **What it does:** Tutorial article explaining how to use Canva to plan and preview a Michi-method binder page before committing to physical printing. The most useful technical reference found.
+- **Key canonical dimensions confirmed:**
+  - 1-slot insert: **7.0 × 9.5 cm**
+  - 2-slot horizontal insert: **14.0 × 9.5 cm**
+  - 4-slot insert: **14.0 × 19.5 cm**
+  - (Note: these align with standard side-loader pocket dimensions — 9-pocket binder pages, 3 columns × 3 rows)
+- **Canva workflow:** Create a canvas at the target cm dimensions, source art from Pinterest / Google image search, crop and resize to fit, optionally add curves/outlines. Print on Canon photo paper (letter size). The workflow is entirely manual — zero pipeline tooling.
+- **Key insight:** the tutorial exists *because* none of the three binder tools above support Michi-method composition. The community workaround is Canva + manual dimension entry. This is the gap BBL can automate.
+- **Community adoption signal:** The Pokémon TCG official brand used the Michi method for a Pokémon Worlds 2025 memories binder — method has gone fully mainstream. The creator (michi/@peeplop) also offers paid 1:1 coaching ($40/hr) and a free Discord, indicating the community infrastructure around this method is substantial.
+
+---
+
+#### Community examples surfaced
+
+- **Etsy market for Michi inserts:** Active market for printable digital downloads — "Full Art Binder Page — Custom Extended Artwork Card Display | 9, 12, or 16-card Puzzle Set for Pokémon TCG Michi Method Binders" (etsy.com/listing/1871231409). This is a 9-16 card puzzle spread where a single artwork is sliced across the slots — exactly what BBL's `art_crop_url` + PIL slicing would produce automatically. The Etsy sellers prove buyers will pay for this format as a digital download.
+- **Official Pokémon Worlds 2025 binder:** @pokemontcg on Threads used the Michi method for the Worlds 2025 memories binder, confirming the format has franchise endorsement. This also means the Michi layout is now a known commodity to the audience BBL is targeting — they'll recognize it and know what it signals.
+- **TikTok tutorial ecosystem:** Dozens of creators (@h3yscollection, @acetraineranthony, @mantinewithmotion, etc.) making Michi tutorials, indicating demand for easier tooling. The manual Canva workflow is the current friction point the entire community is working around. BBL automating this for its own bundles is both practical for internal workflow and a potential differentiator if ever exposed to buyers as "your binder page, included."
+
+---
+
+#### Summary: what competition misses that BBL can do
+
+| Feature | pkmnbindr | binderforge | binderview | BBL (proposed) |
+|---|---|---|---|---|
+| Art insert slots | No | No | No | Yes — native |
+| Multi-TCG | No | No | No | Yes — MTG+Pokémon+Lorcana |
+| Narrative / thesis layer | No | No | No | Yes — core doctrine |
+| Art sourced from card corpus | No | No | No | Yes — art_crop_url |
+| Shareable / downloadable page | Web preview | Shareable link | Web view | PDF target |
+| Curated vs collection-complete | Collection | Collection | Collection | Curated |
+
+The three tools are all solving "how do I track and preview my collection set-by-set." BBL is solving "how do I compose a curated argument with cards as evidence." These are different problems using some of the same visual grammar (binder pages, slots). No overlap in the actual design space.
+
+---
+
+### Art conversion pipeline
+
+**The mechanic:** BBL already has high-res source art at the right CDN endpoints — Scryfall `art_crop_url` (painted illustration only, no frame), Bulbapedia CDN JPEGs (Sword & Shield+ at 800px+ width), Ravensburger CDN (Lorcana at 1468×2048). Converting any of these to Michi insert dimensions is a PIL one-liner:
+
+```python
+# Resize + crop to 1-slot Michi dimensions (7.0×9.5cm at 300dpi → 827×1134px)
+from PIL import Image
+
+SLOT_DIMS = {
+    "1slot": (827, 1134),   # 7.0×9.5cm @ 300dpi
+    "2slot_h": (1654, 1134), # 14.0×9.5cm @ 300dpi
+    "4slot": (1654, 2268),  # 14.0×19.5cm @ 300dpi
+}
+
+def to_michi_slot(src_path: str, slot_type: str = "2slot_h", out_path: str = None) -> str:
+    w, h = SLOT_DIMS[slot_type]
+    img = Image.open(src_path).convert("RGBA")
+    # Thumbnail + center-crop (no squish)
+    img.thumbnail((w * 2, h * 2), Image.LANCZOS)
+    left = (img.width - w) // 2
+    top = (img.height - h) // 2
+    img = img.crop((left, top, left + w, top + h))
+    out = out_path or src_path.replace(".png", f"_{slot_type}.png")
+    img.save(out, dpi=(300, 300))
+    return out
+```
+
+The equivalent ImageMagick invocation:
+
+```bash
+# 2-slot horizontal at 300dpi, center-crop, no squish
+magick source_art_crop.png \
+  -resize 1654x1134^ \
+  -gravity Center \
+  -extent 1654x1134 \
+  -units PixelsPerInch -density 300 \
+  michi_2slot.png
+```
+
+**Sources this pipeline can draw from:**
+
+- Scryfall `art_crop_url` — already stamped at prep time; width varies but consistently 562px+ on modern cards, suitable for 1-slot, marginal for 2-slot (upscale needed). For 2-slot panels, the Scryfall `large` image (745px) or `border_crop` variant is better.
+- Bulbapedia CDN — 800px+ for modern Pokémon sets; strong candidate for 2-slot and 4-slot panels.
+- Ravensburger CDN (Lorcana) — 1468×2048 is the highest-res source in the corpus; crops to any slot format without upscale penalty.
+- Community art (`michi-assets/` — see below) — curated at target dimensions, no resize needed.
+
+---
+
+### `michi-assets/` directory
+
+New BBL asset directory for community-sourced fan art — "the deviant-art-style unique fan stuff that makes a Michi a Michi." The card art crops are the baseline; what makes a binder page *individual* is the curated non-official material in the art slots.
+
+**Folder structure:**
+
+```
+cards/michi-assets/
+  index.json               # citation metadata for every asset (see schema below)
+  characters/              # character fan art, portraits, cutouts
+    <slug>.png             # e.g. charizard-fan-watercolor-2023.png
+  scenes/                  # multi-character or environmental fan art
+    <slug>.png
+  headers/                 # title cards, typographic inserts, section dividers
+    <slug>.png
+  badges/                  # DISCRETE LAIR badges, BBL logos, brand marks
+    <slug>.png
+```
+
+**`index.json` citation schema:**
+
+```json
+[
+  {
+    "slug": "charizard-fan-watercolor-2023",
+    "file": "characters/charizard-fan-watercolor-2023.png",
+    "slot_type": "1slot",
+    "dimensions_px": [827, 1134],
+    "artist_name": "h3yscollection",
+    "artist_url": "https://www.tiktok.com/@h3yscollection",
+    "source_url": "https://www.tiktok.com/@h3yscollection/video/XXXXXXXXXXX",
+    "permission_status": "implied_personal_use",
+    "permission_notes": "Creator posts tutorials encouraging personal use; no commercial restriction stated; not mass-distributed",
+    "ip_owner": "Nintendo / Creatures Inc. / Game Freak",
+    "tags": ["charizard", "fire", "watercolor", "fan-art"],
+    "added": "2026-05-15"
+  }
+]
+```
+
+**Permission status vocabulary:**
+
+- `cc0` — confirmed public domain / CC0 license
+- `cc_by` — Creative Commons attribution required; credit rendered in binder page
+- `explicit_personal_use` — artist explicitly said personal/non-commercial use OK
+- `implied_personal_use` — artist posts in contexts implying personal use; no commercial restriction stated; BBL use is personal-use-scale optional download
+- `requested` — outreach sent, response pending
+- `unknown` — not yet investigated; do not use until resolved
+
+---
+
+### Optional-download model
+
+Framing from Alex (verbatim, preserved): "we're making hand-curated one-offs we're not mass marketing their art, just providing it as an optional download for people that have the same interests as the artist themselves."
+
+The operational model:
+
+1. Bundle purchase on Stripe completes.
+2. Post-payment webhook sends fulfillment email.
+3. Email includes (a) the physical cards shipping confirmation and (b) an **optional** link to download a ZIP: `bundle_<slug>_binder_page.zip` containing the binder page PDF + the constituent art assets used in it.
+4. The ZIP's `credits.txt` lists every asset: artist name, source URL, permission status. The credit is not buried — it's the first file in the ZIP.
+5. Framing in the email: "Because you bought this bundle, you already share the interests this art was made for. The download is optional and the art assets belong to their original creators — links included so you can find their work."
+
+This model is ethically adjacent to a museum store selling a postcard of an artwork — the postcard buyer already has an interest connection to the work. The citation discipline is what makes it defensible: the artist is credited, the source is linked, the permission status is honest. "Implied personal use" is a stretch for anything involving commerce; this is acknowledged honestly in the index.json `permission_notes` field, and any asset with `unknown` status is excluded from downloads until resolved.
+
+Hard rule: assets with no permission investigation (`unknown`) never appear in a buyer-facing download. `implied_personal_use` assets appear only after judgment call from Alex, documented in `permission_notes`. BBL never removes attribution.
+
+---
+
+### Binder page JSON shape (slot-level)
+
+When the binder page composer eventually gets built, this is the data contract it works from. Not a bundle JSON field — a separate sidecar file per bundle:
+
+```json
+{
+  "schema_version": "binder-page-0.1",
+  "bundle_slug": "tithe",
+  "catalog_id": "Discrete Lair 001",
+  "page_format": "9slot_3x3",
+  "pages": [
+    {
+      "page_index": 0,
+      "slots": [
+        {
+          "position": 0,
+          "type": "art",
+          "span": "2slot_h",
+          "source": "scryfall_art_crop",
+          "source_url": "https://cards.scryfall.io/art_crop/front/.../.../artcrop.jpg",
+          "processed_path": "michi-assets/generated/tithe-p0-slot0.png",
+          "caption": null
+        },
+        {
+          "position": 2,
+          "type": "card",
+          "span": "1slot",
+          "card_name": "Wicked Guardian",
+          "image_url": "https://cards.scryfall.io/png/front/.../<uuid>.png",
+          "why_it_fits": "The servant scrubs the floor so the lord's guests don't notice the floor."
+        },
+        {
+          "position": 3,
+          "type": "card",
+          "span": "1slot",
+          "card_name": "Charity Extractor",
+          "image_url": "https://cards.scryfall.io/png/front/.../<uuid>.png",
+          "why_it_fits": null
+        },
+        {
+          "position": 4,
+          "type": "header",
+          "span": "1slot",
+          "source": "michi_assets",
+          "asset_slug": "discrete-lair-001-title-card",
+          "processed_path": "michi-assets/headers/discrete-lair-001-title-card.png"
+        },
+        {
+          "position": 5,
+          "type": "card",
+          "span": "1slot",
+          "card_name": "Mind Rot",
+          "image_url": "https://cards.scryfall.io/png/front/.../<uuid>.png",
+          "why_it_fits": null
+        },
+        {
+          "position": 6,
+          "type": "art",
+          "span": "1slot",
+          "source": "michi_assets",
+          "asset_slug": "orzhov-signet-icon-panel",
+          "processed_path": "michi-assets/badges/orzhov-signet-icon-panel.png",
+          "caption": "Orzhov Signet — the eclipsed sun"
+        },
+        {
+          "position": 7,
+          "type": "card",
+          "span": "1slot",
+          "card_name": "Tithe Drinker",
+          "image_url": "https://cards.scryfall.io/png/front/.../<uuid>.png",
+          "why_it_fits": null
+        },
+        {
+          "position": 8,
+          "type": "card",
+          "span": "1slot",
+          "card_name": "Pitiless Pontiff",
+          "image_url": "https://cards.scryfall.io/png/front/.../<uuid>.png",
+          "why_it_fits": null
+        }
+      ]
+    }
+  ]
+}
+```
+
+Notes on the shape:
+- `position` is 0-indexed, row-major (position 0 = top-left, position 8 = bottom-right for 3×3).
+- `span` is "1slot", "2slot_h", "2slot_v", "4slot". Multi-slot inserts occupy the position of their top-left slot; downstream slots in the span are omitted from the array (they're implied occupied).
+- `type` is one of: `card`, `art`, `header`, `badge`, `spacer`. `spacer` = intentional blank (sleeve back, brand swatch, or literal nothing for asymmetric layouts).
+- `source` for art slots: `scryfall_art_crop`, `bulbapedia`, `ravensburger_cdn`, `michi_assets` (from the curated directory), or `generated` (BBL-produced, e.g. DISCRETE LAIR badge from template).
+
+---
+
+### Open questions before any implementation starts
+
+1. **Render target: HTML, PDF, or image?** The three options serve different moments: HTML inside the bundle previewer (buyer preview, no download needed), PDF as optional download (buyer prints and inserts), static image as the "binder page as thumbnail" social card. The answer probably isn't "pick one" — it's "HTML is free, PDF is the buyer deliverable, image is the marketing asset." But each is a separate build surface and the implementation cost is additive.
+
+2. **Who places the art inserts?** The card slots are determined by which cards are in the bundle (deterministic). The art insert slots require layout judgment — where do the 2-slot panels go? Does a title card go top-left or top-right? Is the symbol insert best at position 6 or position 8? Two options: (a) Alex curates every layout manually using a simple editor or a CLI with slot/type arguments, then A/B picks using the thumbnail composer's flashcard mechanic; (b) a layout assistant proposes N candidates based on cohesion data and Alex approves one. Option (a) is simpler to build first and preserves full curatorial authorship. Option (b) is faster at scale but risks AI layout thinking overriding Alex's eye.
+
+3. **How many pages does a large bundle get?** A 5-7 card bundle maps cleanly to one 9-slot page with 2-4 art inserts. A 15-card bundle is three pages minimum. Do larger Discrete Lairs get a multi-page binder spread (like a zine with page turns) or a single splash page that shows only 5-7 "representative" cards? If multi-page, does each page need its own thesis insert set, or does one title-card insert + subsequent card-only pages work? This isn't a technical question — it's a product design question about what the buyer experience should be.
+
+4. **License model for optional art downloads.** The `permission_status` vocabulary in the index.json handles this per-asset, but there's a product-level policy question underneath: does the download ZIP carry a top-level license that governs how buyers can use the binder page? Proposed framing: "Personal use only — the art in this file belongs to its credited creators; BBL is passing it through, not licensing it. Print it for your own binder. Don't resell." This is not a license in the legal sense but a clear statement of intent. The question is whether to make it explicit in the ZIP's `credits.txt` or whether that's overcommunicating to buyers who just want to print a pretty page.
+
+5. **Multi-TCG insert asset sourcing.** The Michi community and all three tools are Pokémon-only. BBL spans MTG, Pokémon, and Lorcana, which means the binder page needs to handle art assets from three different universes — potentially in the same bundle if a Discrete Lair is intentionally cross-TCG (unlikely for Tithe-register bundles, but possible for broader thematic lairs like "labor" or "rebellion"). Does a mixed-TCG bundle get one binder page with heterogeneous card frames, or do cross-TCG bundles always get split pages per game? The frame-visual inconsistency (black-bordered MTG card next to Pokémon's colored-border card next to Lorcana's gilt frame) is a design decision, not a technical one, and it shapes what art insert work looks like for those bundles.
+
+---
+
+**Status (2026-05-15):** spec expansion only. No implementation. Competitor findings based on WebSearch snippets (WebFetch permission-denied in subagent context — direct site inspection deferred to parent-run Puppeteer or manual review session). The `michi-assets/` directory does not yet exist; the binder-page JSON schema above is a design sketch, not an implemented contract.
+
+---
+
 ## (more to come)
 
 This file is intentionally append-only for now. Add new "wouldn't it be cool" concepts below as they form. When something graduates from idea to in-progress work, move it into the README's milestones section or its own dedicated doc.

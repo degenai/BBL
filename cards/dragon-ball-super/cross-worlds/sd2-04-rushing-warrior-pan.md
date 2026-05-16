@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["fighter", "girl", "young-fighter", "rush", "orange-outfit", "energy-aura", "combat", "hero", "martial-arts", "charge"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "female-figure", "no-weapon"]
+tags_hub:
+  - fighter
+  - girl
+  - young-fighter
+  - rush
+  - orange-outfit
+  - energy-aura
+  - combat
+  - hero
+  - martial-arts
+  - charge
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - female-figure
+  - no-weapon
 reference_image: cards/_images/dragon-ball-super/cross-worlds/sd2-04-rushing-warrior-pan.png
 average_cost_paid: 0
 market_price: 0.21
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401482171/E835DF69EA506A6165D4BADA1405200AB1716FCA/
 image_width: 624
 image_height: 871
@@ -30,7 +46,8 @@ setting: void
 suspected_ip: Pan (Dragon Ball GT)
 ip_confidence: high
 ip_verified: true
-characters: [pan]
+characters:
+  - pan
 ---
 
 # Rushing Warrior Pan (Cross Worlds)

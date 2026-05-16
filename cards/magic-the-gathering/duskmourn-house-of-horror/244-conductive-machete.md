@@ -1,7 +1,7 @@
 ---
 name: Conductive Machete
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 244
 rarity: U
 variance: Normal
@@ -10,16 +10,37 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["machete", "electricity", "weapon", "shout", "defiance", "survivor-weapon", "improvised-weapon", "warrior", "night", "charged", "horror"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "female-figure", "colorless", "artifact-equipment", "indoor"]
-characters: ["dsk-survival-archetype"]
-symbols: ["manifest-dread"]
+tags_hub:
+  - machete
+  - electricity
+  - weapon
+  - shout
+  - defiance
+  - survivor-weapon
+  - improvised-weapon
+  - warrior
+  - night
+  - charged
+  - horror
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - female-figure
+  - colorless
+  - artifact-equipment
+  - indoor
+characters:
+  - dsk-survival-archetype
+symbols:
+  - manifest-dread
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/244-conductive-machete.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/1/c/1cf37c1a-096b-4306-97cf-bc4d4c47d4a1.png?1726286782
 art_match_confidence: high
 needs_manual_review: false

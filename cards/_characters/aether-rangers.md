@@ -1,7 +1,12 @@
 ---
 type: character
 name: Aether Rangers
-aliases: ["Aether Rangers", "the Rangers", "aether-rangers", "avishkar-rangers", "pia-nalaars-team"]
+aliases:
+  - Aether Rangers
+  - the Rangers
+  - aether-rangers
+  - avishkar-rangers
+  - pia-nalaars-team
 universe: "Magic: The Gathering / Aetherdrift / Avishkar"
 faction: Aether Rangers (Avishkar racing team, Pia Nalaar-led, Avishkar Assembly-funded)
 species: faction-collective (mixed humans + elves + vedalken + loxodon + dwarves + merfolk)
@@ -11,10 +16,14 @@ appears_on:
   - magic-the-gathering/aetherdrift/61-skystreak-engineer
   - magic-the-gathering/aetherdrift/59-sabotage-strategist
   - magic-the-gathering/aetherdrift/161-elvish-refueler
-related_hubs: [labor, rebellion, stewardship]
+related_hubs: "[labor, rebellion, stewardship]"
 related_symbols: []
-related_characters: [endriders]
-ip_resolution_for: ["Aether Rangers", "Pia Nalaar's team", "Avishkar Rangers"]
+related_characters:
+  - endriders
+ip_resolution_for:
+  - Aether Rangers
+  - Pia Nalaar's team
+  - Avishkar Rangers
 ---
 
 # Aether Rangers

@@ -1,6 +1,6 @@
 ---
 name: Retreat to Emeria
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Battle for Zendikar
 collector_number: 44
 rarity: U
@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["fortress", "sanctuary", "Zendikar", "floating-islands", "refuge", "architecture", "sky", "scale-contrast", "Emeria", "grandeur"]
-tags_filter: ["wide", "narrative", "scene-mode", "white-magic", "enchantment", "landfall"]
+tags_hub:
+  - fortress
+  - sanctuary
+  - Zendikar
+  - floating-islands
+  - refuge
+  - architecture
+  - sky
+  - scale-contrast
+  - Emeria
+  - grandeur
+tags_filter:
+  - wide
+  - narrative
+  - scene-mode
+  - white-magic
+  - enchantment
+  - landfall
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/44-retreat-to-emeria.png
 average_cost_paid: 0
-market_price: 0.32
-market_price_as_of: 2026-05-14
+market_price: 0.33
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Battle for Zendikar'

@@ -1,6 +1,6 @@
 ---
 name: Raucous Entertainer
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Outlaws of Thunder Junction
 collector_number: 177
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["music", "piano", "saloon", "brawl", "monster", "comedy", "lizard", "performer", "chaos", "western", "entertainment", "reptile"]
-tags_filter: ["crowd", "mid-shot", "scene-mode", "faces-away", "creature-lizard", "red-magic"]
+tags_hub:
+  - music
+  - piano
+  - saloon
+  - brawl
+  - monster
+  - comedy
+  - lizard
+  - performer
+  - chaos
+  - western
+  - entertainment
+  - reptile
+tags_filter:
+  - crowd
+  - mid-shot
+  - scene-mode
+  - faces-away
+  - creature-lizard
+  - red-magic
 reference_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/177-raucous-entertainer.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price: 0.09
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/8/d/8dc3cbfe-410f-40e3-8021-647a2efb50bf.png?1712355978
 art_match_confidence: high
 needs_manual_review: false
@@ -25,7 +43,7 @@ artist: Forrest Imel
 art_crop_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/177-raucous-entertainer--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/d/8dc3cbfe-410f-40e3-8021-647a2efb50bf.jpg?1712355978
 flavor_text: It's not hard to know the right song for the occasion when most occasions are saloon brawls.
-oracle_text: {1}, {T}: Put a +1/+1 counter on each creature you control that entered this turn.
+oracle_text: "{1}, {T}: Put a +1/+1 counter on each creature you control that entered this turn."
 image_width: 745
 image_height: 1040
 image_quality: high

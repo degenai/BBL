@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["mother", "saiyan", "warrior", "support", "family", "warmth", "greeting", "female-warrior", "soldier", "loyalty", "homecoming", "gentle", "kindness", "sacrifice"]
-tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "female-figure", "anime"]
+tags_hub:
+  - mother
+  - saiyan
+  - warrior
+  - support
+  - family
+  - warmth
+  - greeting
+  - female-warrior
+  - soldier
+  - loyalty
+  - homecoming
+  - gentle
+  - kindness
+  - sacrifice
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - female-figure
+  - anime
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-074-gine-here-to-support.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price: 0.1
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401035707/B700D4071303A3DF96A7CB95F41552CC5474AD87/
 image_width: 624
 image_height: 869
@@ -30,7 +50,8 @@ setting: other
 suspected_ip: Gine (Dragon Ball Super)
 ip_confidence: high
 ip_verified: true
-characters: [saiyan]
+characters:
+  - saiyan
 ---
 
 # Gine, Here to Support (Colossal Warfare)

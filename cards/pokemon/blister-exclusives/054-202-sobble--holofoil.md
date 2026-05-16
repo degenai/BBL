@@ -14,16 +14,16 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/pokemon/blister-exclusives/054-202-sobble--holofoil.png
 average_cost_paid: 0
-market_price: 0.56
-market_price_as_of: 2026-05-14
+market_price: 0.57
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swshp/SWSH003_hires.png
 art_match_confidence: low
 needs_manual_review: true
 manual_review_reason: Set 'Blister Exclusives' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won't be able to resist weeping.
-oracle_text: Bind (WaterColorless) 20: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+oracle_text: "Bind (WaterColorless) 20: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
 ---
 
 # Sobble (Blister Exclusives)

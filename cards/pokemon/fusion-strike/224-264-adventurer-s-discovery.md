@@ -13,14 +13,32 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["exploration", "adventure", "trainer", "forest", "discovery", "poke-ball", "journey", "nature", "youth", "optimism", "outdoor"]
-tags_filter: ["solo", "mid-shot", "portrait", "three-quarter", "supporter-card", "trainer-supporter", "colorless-type"]
+tags_hub:
+  - exploration
+  - adventure
+  - trainer
+  - forest
+  - discovery
+  - poke-ball
+  - journey
+  - nature
+  - youth
+  - optimism
+  - outdoor
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - three-quarter
+  - supporter-card
+  - trainer-supporter
+  - colorless-type
 reference_image: cards/_images/pokemon/fusion-strike/224-264-adventurer-s-discovery.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price: 0.19
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh8/224_hires.png
 art_match_confidence: high
 needs_manual_review: false

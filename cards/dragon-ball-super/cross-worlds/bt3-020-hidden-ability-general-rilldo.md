@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["general", "military", "armor", "commander", "warrior", "power", "authority", "machine-mutant", "elite-soldier", "energy-aura"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait", "male-figure"]
+tags_hub:
+  - general
+  - military
+  - armor
+  - commander
+  - warrior
+  - power
+  - authority
+  - machine-mutant
+  - elite-soldier
+  - energy-aura
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait
+  - male-figure
 reference_image: cards/_images/dragon-ball-super/cross-worlds/bt3-020-hidden-ability-general-rilldo.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401006044/7E9A4558F05FEB406FD2F5FCE77157EC2F11EB6B/
 image_width: 624
 image_height: 871
@@ -30,7 +45,8 @@ setting: void
 suspected_ip: General Rilldo (Dragon Ball GT)
 ip_confidence: high
 ip_verified: true
-characters: ["machine-mutants-m2"]
+characters:
+  - machine-mutants-m2
 ---
 
 # Hidden Ability, General Rilldo (Cross Worlds)

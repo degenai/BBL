@@ -13,14 +13,30 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["metal", "chrome", "silver", "shield", "protection", "energy", "orb", "industrial", "strength", "armor", "steel"]
-tags_filter: ["no-figure", "close-up", "abstract", "special-energy", "metal-energy"]
+tags_hub:
+  - metal
+  - chrome
+  - silver
+  - shield
+  - protection
+  - energy
+  - orb
+  - industrial
+  - strength
+  - armor
+  - steel
+tags_filter:
+  - no-figure
+  - close-up
+  - abstract
+  - special-energy
+  - metal-energy
 reference_image: cards/_images/pokemon/vivid-voltage/163-185-coating-metal-energy.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh4/163_hires.png
 art_match_confidence: high
 needs_manual_review: false

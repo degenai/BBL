@@ -1,6 +1,6 @@
 ---
 name: Vile Aggregate
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Battle for Zendikar
 collector_number: 137
 rarity: U
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["eldrazi", "swarm", "cosmic-horror", "consumption", "invasion", "zendikar", "predator", "drone", "overwhelm", "darkness", "tendrils"]
-tags_filter: ["crowd", "wide", "scene-mode", "colorless-magic", "creature-eldrazi", "devoid", "trample", "ingest", "forward-facing"]
+tags_hub:
+  - eldrazi
+  - swarm
+  - cosmic-horror
+  - consumption
+  - invasion
+  - zendikar
+  - predator
+  - drone
+  - overwhelm
+  - darkness
+  - tendrils
+tags_filter:
+  - crowd
+  - wide
+  - scene-mode
+  - colorless-magic
+  - creature-eldrazi
+  - devoid
+  - trample
+  - ingest
+  - forward-facing
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/137-vile-aggregate.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/1/e/1ec66525-a7e9-450f-83df-03d9957837d5.png?1562902206
 art_match_confidence: high
 needs_manual_review: false

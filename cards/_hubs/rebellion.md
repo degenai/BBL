@@ -1,8 +1,15 @@
 ---
 type: hub
 name: Rebellion
-aliases: [rebellion, revolt, uprising, defiance, dissent, refusal, anti-establishment]
-tag_signals: [rebellion, defiance, dissent, refusal, sabotage, mob, riot, uprising, betrayal, escape, fugitive, conspiracy, mind-control-refused, oath-broken, mutiny, insurgent, partisan, runaway, hidden, ambush]
+aliases:
+  - rebellion
+  - revolt
+  - uprising
+  - defiance
+  - dissent
+  - refusal
+  - anti-establishment
+tag_signals: "[rebellion, defiance, dissent, refusal, sabotage, mob, riot, uprising, betrayal, escape, fugitive, conspiracy, mind-control-refused, oath-broken, mutiny, insurgent, partisan, runaway, hidden, ambush]"
 anchored_lairs: []
 brand_weight: foundational
 ---

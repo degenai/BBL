@@ -1,6 +1,6 @@
 ---
 name: Grasp of Darkness
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 102
 rarity: C
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["robed-figure", "tendrils", "dark-magic", "corruption", "blight", "wasteland", "lone-figure", "twilight", "doom", "shadow", "thorns", "ritual"]
-tags_filter: ["solo", "wide-shot", "scene-mode", "forward-facing", "no-face", "instant", "black-magic"]
+tags_hub:
+  - robed-figure
+  - tendrils
+  - dark-magic
+  - corruption
+  - blight
+  - wasteland
+  - lone-figure
+  - twilight
+  - doom
+  - shadow
+  - thorns
+  - ritual
+tags_filter:
+  - solo
+  - wide-shot
+  - scene-mode
+  - forward-facing
+  - no-face
+  - instant
+  - black-magic
 reference_image: cards/_images/magic-the-gathering/core-set-2021/102-grasp-of-darkness.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/7/7/7737b578-8ae3-4846-b508-93ef40f25244.png?1594736166
 art_match_confidence: high
 needs_manual_review: false

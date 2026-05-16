@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["snow", "winter", "round", "cold", "mountain", "tundra", "galarian", "regional-variant", "roly-poly", "creature"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "water-type", "pokemon", "galarian-form"]
+tags_hub:
+  - snow
+  - winter
+  - round
+  - cold
+  - mountain
+  - tundra
+  - galarian
+  - regional-variant
+  - roly-poly
+  - creature
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - water-type
+  - pokemon
+  - galarian-form
 reference_image: cards/_images/pokemon/darkness-ablaze/043-189-galarian-darumaka.png
 average_cost_paid: 0
-market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price: 0.08
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/43_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +47,8 @@ setting: mountain
 suspected_ip: Galarian Darumaka
 ip_confidence: high
 ip_verified: false
-characters: [galarian-regional-forms]
+characters:
+  - galarian-regional-forms
 ---
 
 # Galarian Darumaka (Darkness Ablaze)

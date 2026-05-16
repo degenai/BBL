@@ -1,0 +1,40 @@
+{
+  "card_name": "Lord Slug, Returned to Form",
+  "game": "Dragon Ball Super",
+  "set": "Judge Promotion Cards",
+  "collector_number": "BT4-061",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, character field, and era trait (Lord Slug Saga) explicitly name Lord Slug. Visual: tall imposing green-skinned Namekian in a commanding pose with floating energy orbs and dark cape, set against deep space — matches Lord Slug's restored-power appearance in DBZ Movie 4 (1991). The title 'Returned to Form' directly references his Dragon Ball wish to restore his youth. IP verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT4-061 is a promotional Battle card distributed exclusively through the Judge Promotion program of the Dragon Ball Super Card Game organized play system. Judge Promotion cards are awarded to certified tournament judges via judge kits distributed at sanctioned events — players cannot earn them through tournament wins and must acquire them on the secondary market. The card number BT4 links it to the Colossal Warfare era (Series 4), though it bypassed the retail set and was promo-only. [WebSearch: progamingcrew.com DBS Judge Cards explained; dbzexchange.com BT4-061 listing]",
+      "sources": ["WebSearch: DBS Judge Promotion cards overview", "WebSearch: dbzexchange BT4-061"]
+    },
+    {
+      "category": "design",
+      "text": "Green Battle card, power 10000, combo power 5000. Ability: when played, search the deck for up to 1 card with the <Slug's Army> character trait and an energy cost of 4 or less, add it to hand, then shuffle. Mechanically this positions Slug as a search-and-tutor engine for his army, reflecting his role as an authoritarian commander. [WebSearch: managaming.shop BT4-061 card details snippet; gatheringpointgames.co.uk snippet]",
+      "sources": ["WebSearch: Lord Slug BT4-061 card details"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Lord Slug originates from Dragon Ball Z: Lord Slug (1991), the fourth DBZ feature film, released in Japan on March 9 between episodes 81 and 82 at the Toei Anime Fair. In the film, Slug gathers Earth's Dragon Balls and wishes for eternal youth, restoring his power — the direct event the card title 'Returned to Form' references. King Kai identifies Slug as a Super Namekian, a rare born-evil mutation, and estimates his Great Namek form may rival Frieza in power. [Wikipedia: Dragon Ball Z: Lord Slug; WebSearch: Dragon Ball Wiki Lord Slug summary]",
+      "sources": ["Wikipedia Dragon Ball Z: Lord Slug (WebSearch snippet)", "Dragon Ball Wiki (WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The Japanese version of Lord Slug's lore describes him as a Namekian who was sent off Namek as an infant — paralleling the Nameless Namekian (Piccolo/Kami) sent to Earth — but born with a rare evil mutation. The FUNimation dub instead casts him as one of the 'Super Nameks' banished from Planet Namek by Guru and the Dragon Balls after becoming intoxicated by their power. The two versions present different origin accounts for the same character. [WebSearch: Dragon Ball Wiki Lord Slug; Wikipedia Dragon Ball Z: Lord Slug]",
+      "sources": ["Dragon Ball Wiki (WebSearch snippet)", "Wikipedia (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Lord Slug // Lord Slug, Gigantified", "set": "Colossal Warfare (BT4-047)", "note": "The retail-set Slug Leader card from the same Series 4 era — direct mechanical companion"},
+    {"name": "Slug's Army (various)", "set": "multiple", "note": "Character trait that BT4-061's ability tutors for — the supporting cast of DBZ Movie 4"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

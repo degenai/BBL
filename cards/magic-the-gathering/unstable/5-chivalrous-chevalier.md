@@ -1,6 +1,6 @@
 ---
 name: Chivalrous Chevalier
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Unstable
 collector_number: 5
 rarity: C
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["knight", "chivalry", "mount", "mechanical", "steampunk", "flying", "armor", "comedy", "parody", "banner", "quest", "jousting"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "white-magic", "creature-knight", "scene-mode"]
+tags_hub:
+  - knight
+  - chivalry
+  - mount
+  - mechanical
+  - steampunk
+  - flying
+  - armor
+  - comedy
+  - parody
+  - banner
+  - quest
+  - jousting
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - white-magic
+  - creature-knight
+  - scene-mode
 reference_image: cards/_images/magic-the-gathering/unstable/5-chivalrous-chevalier.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/9/4/94393ae5-5cae-4818-aed4-3a6b7c3eba76.png?1562926360
 art_match_confidence: high
 needs_manual_review: false

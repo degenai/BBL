@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["rain", "water", "weather", "flowers", "meadow", "spring", "cute", "floating", "pastel", "serene", "wildflowers", "soft-creature"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face-detail", "blue-dominant", "pokemon-common", "pokemon-basic", "water-type"]
+tags_hub:
+  - rain
+  - water
+  - weather
+  - flowers
+  - meadow
+  - spring
+  - cute
+  - floating
+  - pastel
+  - serene
+  - wildflowers
+  - soft-creature
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - no-face-detail
+  - blue-dominant
+  - pokemon-common
+  - pokemon-basic
+  - water-type
 reference_image: cards/_images/pokemon/chilling-reign/033-198-castform-rainy-form.png
 average_cost_paid: 0
-market_price: 0.19
-market_price_as_of: 2026-05-14
+market_price: 0.2
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh6/33_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -30,8 +51,9 @@ suspected_ip: Castform (Pokemon)
 ip_confidence: high
 ip_verified: true
 flavor_text: This is Castform's form when pelted by rain. In an experiment where it was placed in a shower, this Pokémon didn't change to this form.
-oracle_text: [Ability: Weather Reading] If you have 8 or more Stadium cards in your discard pile, ignore all Energy in this Pokémon's attack costs.\nRainfall (WaterColorless): This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
-characters: [castform-forms-cycle]
+oracle_text: "[Ability: Weather Reading] If you have 8 or more Stadium cards in your discard pile, ignore all Energy in this Pokémon's attack costs.\\nRainfall (WaterColorless): This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+characters:
+  - castform-forms-cycle
 ---
 
 # Castform Rainy Form (Chilling Reign)

@@ -1,6 +1,6 @@
 ---
 name: Festerleech
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 85
 rarity: U
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["monster", "parasite", "city", "urban-horror", "grotesque", "chain", "fog", "bird", "leech", "horror", "undead", "plague", "gothic"]
-tags_filter: ["wide", "action", "none-figures", "forward-facing", "black-magic", "creature", "urban"]
+tags_hub:
+  - monster
+  - parasite
+  - city
+  - urban-horror
+  - grotesque
+  - chain
+  - fog
+  - bird
+  - leech
+  - horror
+  - undead
+  - plague
+  - gothic
+tags_filter:
+  - wide
+  - action
+  - none-figures
+  - forward-facing
+  - black-magic
+  - creature
+  - urban
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/85-festerleech.png
 average_cost_paid: 0
-market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price: 0.17
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/8/3/83a6fa37-8351-403b-ae05-b67e9bf74bbb.png?1706241694
 art_match_confidence: high
 needs_manual_review: false
@@ -25,7 +45,7 @@ artist: Helge C. Balzer
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/85-festerleech--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/3/83a6fa37-8351-403b-ae05-b67e9bf74bbb.jpg?1706241694
 flavor_text: \"Four Dead in Zombie Leech Attack, Dozens Nauseated\"\n—*Tenth District Times* headline
-oracle_text: Whenever this creature deals combat damage to a player, you mill two cards.\n{1}{B}: This creature gets +2/+2 until end of turn. Activate only once each turn.
+oracle_text: "Whenever this creature deals combat damage to a player, you mill two cards.\\n{1}{B}: This creature gets +2/+2 until end of turn. Activate only once each turn."
 image_width: 745
 image_height: 1040
 image_quality: high

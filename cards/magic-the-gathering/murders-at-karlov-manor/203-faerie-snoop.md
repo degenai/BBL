@@ -1,6 +1,6 @@
 ---
 name: Faerie Snoop
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 203
 rarity: C
@@ -10,15 +10,38 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["faerie", "spy", "espionage", "night", "rain", "hat", "wings", "scroll", "noir", "secret", "intelligence", "window"]
-tags_filter: ["solo", "mid-shot", "narrative", "three-quarter", "blue-magic", "black-magic", "multicolor-blue-black", "creature-faerie-rogue", "flying", "disguise"]
-symbols: ["disguise"]
+tags_hub:
+  - faerie
+  - spy
+  - espionage
+  - night
+  - rain
+  - hat
+  - wings
+  - scroll
+  - noir
+  - secret
+  - intelligence
+  - window
+tags_filter:
+  - solo
+  - mid-shot
+  - narrative
+  - three-quarter
+  - blue-magic
+  - black-magic
+  - multicolor-blue-black
+  - creature-faerie-rogue
+  - flying
+  - disguise
+symbols:
+  - disguise
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/203-faerie-snoop.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/2/0/20267dab-8898-4b44-8ef4-8a239967662c.png?1706242161
 art_match_confidence: high
 needs_manual_review: false

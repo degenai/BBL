@@ -1,6 +1,6 @@
 ---
 name: Gearbane Orangutan
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 129
 rarity: C
@@ -10,19 +10,35 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["ape", "destruction", "ruin", "machine-smashing", "rebellion", "nature", "wild", "labor", "chaos", "primate"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "green-magic", "creature"]
+tags_hub:
+  - ape
+  - destruction
+  - ruin
+  - machine-smashing
+  - rebellion
+  - nature
+  - wild
+  - labor
+  - chaos
+  - primate
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - green-magic
+  - creature
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/129-gearbane-orangutan.png
 average_cost_paid: 0
 market_price: 0.26
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/6/9/6900a344-a155-4ee1-a3ac-d6c28e024270.png?1706241871
 art_match_confidence: high
 needs_manual_review: false
 artist: Svetlin Velinov
-characters: ["foundway-associates"]
+characters:
+  - foundway-associates
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/129-gearbane-orangutan--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/9/6900a344-a155-4ee1-a3ac-d6c28e024270.jpg?1706241871
 flavor_text: \"In her defense, thopters are very fun to smash.\"\n—Udol of the Foundway Associates

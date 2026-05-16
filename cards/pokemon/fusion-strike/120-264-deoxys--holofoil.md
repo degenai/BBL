@@ -10,20 +10,40 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["alien", "space", "aurora", "crystal", "mythical", "cosmic", "tentacles", "psychic", "symmetry", "void", "extraterrestrial"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "psychic-type", "holo-rare", "holofoil", "pokemon", "normal-forme"]
+tags_hub:
+  - alien
+  - space
+  - aurora
+  - crystal
+  - mythical
+  - cosmic
+  - tentacles
+  - psychic
+  - symmetry
+  - void
+  - extraterrestrial
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - psychic-type
+  - holo-rare
+  - holofoil
+  - pokemon
+  - normal-forme
 reference_image: cards/_images/pokemon/fusion-strike/120-264-deoxys--holofoil.png
 average_cost_paid: 0
-market_price: 0.29
-market_price_as_of: 2026-05-14
+market_price: 0.32
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh8/120_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Kouki Saitou
 flavor_text: DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.
-oracle_text: Photon Boost (ColorlessColorlessColorless) 80+: If this Pokémon has any Fusion Strike Energy attached, this attack does 80 more damage.
+oracle_text: "Photon Boost (ColorlessColorlessColorless) 80+: If this Pokémon has any Fusion Strike Energy attached, this attack does 80 more damage."
 mood: action
 time_of_day: night
 setting: space

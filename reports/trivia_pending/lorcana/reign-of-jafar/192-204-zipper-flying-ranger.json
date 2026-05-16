@@ -1,0 +1,41 @@
+{
+  "card_name": "Zipper - Flying Ranger",
+  "game": "Lorcana",
+  "set": "Reign of Jafar",
+  "collector_number": "192/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Verified. The BEST MATES ability explicitly names Monterey Jack, Zipper's canonical partner from Chip 'n Dale: Rescue Rangers. The card's character type (fly) and appearance (green body, red outfit, small insect with large eyes) match Zipper's established design. Multiple Lorcana sources including lorcanaplayer.com and Mushu Report list this card under the Chip 'n Dale: Rescue Rangers franchise. The oracle text itself functions as canonical identification — no other green fly in a red outfit named 'Zipper' exists in the Disney catalog.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Zipper's Lorcana debut card. The entire Rescue Rangers crew — Chip, Dale, Gadget, Monterey Jack, and Zipper — appears in Reign of Jafar (set 8), marking the franchise's full-team arrival in the game. [lorcanaplayer.com: Chip 'n Dale: Rescue Rangers franchise page]",
+      "sources": ["lorcanaplayer.com/franchise/chip-n-dale-rescue-rangers/"]
+    },
+    {
+      "category": "design",
+      "text": "BEST MATES ability reduces Zipper's cost by 1 when Monterey Jack is already in play — mechanically encoding the show's running gag that Zipper is inseparable from Monty, often riding in his hat or on his shoulder. BURST OF SPEED grants Evasive during your turn, reflecting Zipper's role as the team's fastest member. [Mushu Report: Zipper - Flying Ranger; lorcanaplayer.com]",
+      "sources": ["Mushu Report (wiki.mushureport.com/wiki/Zipper_-_Flying_Ranger)", "lorcanaplayer.com/card/zipper-flying-ranger/"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Chip 'n Dale: Rescue Rangers (1989–1990), Zipper is the only Ranger who does not speak in intelligible language — communicating through squeaks — yet is consistently shown as one of the most capable team members, particularly in flight and lock-picking. [Disney Wiki: Zipper character, via WebSearch snippet]",
+      "sources": ["Disney Wiki: Zipper character page (disney.fandom.com/wiki/Zipper)", "WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At 3-cost Steel Uncommon with 2 Strength / 4 Willpower plus conditional Evasive, Zipper represents a fragile-but-slippery value card. The cost discount to 2 with Monterey Jack makes it a genuine tempo play in Steel-Rescue-Rangers synergy decks. [lorcanaplayer.com: card review]",
+      "sources": ["lorcanaplayer.com/card/zipper-flying-ranger/"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Monterey Jack", "set": "Reign of Jafar", "note": "Explicitly named in BEST MATES ability; direct synergy partner"},
+    {"name": "Chip 'n Dale - Recovery Rangers", "set": "Azurite Sea (set 6)", "note": "Earlier Rescue Rangers franchise cards in the game"},
+    {"name": "Gadget (any Lorcana version)", "set": "Reign of Jafar", "note": "Fellow Rescue Ranger in same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Zipper (Chip 'n Dale Rescue Rangers)",
+    "ip_confidence": "high"
+  }
+}

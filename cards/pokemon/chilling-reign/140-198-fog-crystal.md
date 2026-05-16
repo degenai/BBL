@@ -13,14 +13,31 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["crystal", "orb", "psychic", "fog", "mystery", "glow", "blue", "purple", "magic-item", "fortune-telling", "ethereal"]
-tags_filter: ["no-face", "close-up", "abstract", "item-card", "psychic-type", "artifact"]
+tags_hub:
+  - crystal
+  - orb
+  - psychic
+  - fog
+  - mystery
+  - glow
+  - blue
+  - purple
+  - magic-item
+  - fortune-telling
+  - ethereal
+tags_filter:
+  - no-face
+  - close-up
+  - abstract
+  - item-card
+  - psychic-type
+  - artifact
 reference_image: cards/_images/pokemon/chilling-reign/140-198-fog-crystal.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price: 0.17
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh6/140_hires.png
 art_match_confidence: high
 needs_manual_review: false

@@ -1,6 +1,6 @@
 ---
 name: Growth Spiral
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Ravnica Allegiance
 collector_number: 178
 rarity: C
@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["spiral", "growth", "ritual", "mushroom", "bioluminescence", "forest", "pool", "magic-circle", "simic", "nature-engineering", "wizard"]
-tags_filter: ["solo", "wide", "narrative", "multicolor-green-blue", "instant", "faces-away"]
+tags_hub:
+  - spiral
+  - growth
+  - ritual
+  - mushroom
+  - bioluminescence
+  - forest
+  - pool
+  - magic-circle
+  - simic
+  - nature-engineering
+  - wizard
+tags_filter:
+  - solo
+  - wide
+  - narrative
+  - multicolor-green-blue
+  - instant
+  - faces-away
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/178-growth-spiral.png
 average_cost_paid: 0
 market_price: 0.31
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/7/c/7c77a6b1-ef06-4da5-8e86-a5204216cb77.png?1584831556
 art_match_confidence: high
 needs_manual_review: false

@@ -1,7 +1,13 @@
 ---
 type: character
 name: "Theros Pantheon (the fifteen gods of Theros)"
-aliases: [theros-pantheon, theros-gods, nyx-pantheon, theros-fifteen, the-pantheon, theros-deities]
+aliases:
+  - theros-pantheon
+  - theros-gods
+  - nyx-pantheon
+  - theros-fifteen
+  - the-pantheon
+  - theros-deities
 universe: "Magic: The Gathering / Theros (THS 2013-09-27, BNG 2014-02-07, JOU 2014-05-02, THB 2020-01-24)"
 faction: "the Pantheon of Theros — the ruling body of fifteen gods (twelve principal Nyx-born deities plus three demigod / minor / outsider entries depending on canonical scope) who govern the mortal plane of Theros from the constellation-realm of Nyx; sustained in existence by mortal devotion via the Devotion mechanic that gave the plane its design-language signature"
 species: faction-collective (gods of Theros — Nyxborn deities animated when mortal devotion passes a threshold; principal members include Heliod God of the Sun, Erebos God of the Dead, Thassa God of the Sea, Purphoros God of the Forge, Nylea God of the Hunt, Pharika God of Affliction, Klothys God of Destiny, Iroas God of Victory, Karametra God of Harvests, Mogis God of Slaughter, Phenax God of Deception, Kruphix God of Horizons, Athreos God of Passage, Xenagos God of Revels, Ephara God of the Polis, Keranos God of Storms; full pantheon roster per MTG Wiki Theros Pantheon page)"
@@ -26,9 +32,10 @@ appears_on:
   - magic-the-gathering/theros-beyond-death/33-reverent-hoplite
   - magic-the-gathering/theros-beyond-death/77-towering-wave-mystic
   - magic-the-gathering/theros/218-opaline-unicorn
-related_hubs: [labor, rebellion, stewardship]
+related_hubs: "[labor, rebellion, stewardship]"
 related_symbols: []
-related_characters: []
+related_characters:
+  - mogis
 ip_resolution_for: theros-pantheon
 ---
 

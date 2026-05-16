@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["piccolo", "namekian", "stoic", "green-skin", "cape", "mentor", "rivalry", "respect", "martial-arts", "alien"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "male-figure", "portrait-mode", "anime-style", "arms-crossed"]
+tags_hub:
+  - piccolo
+  - namekian
+  - stoic
+  - green-skin
+  - cape
+  - mentor
+  - rivalry
+  - respect
+  - martial-arts
+  - alien
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - male-figure
+  - portrait-mode
+  - anime-style
+  - arms-crossed
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-027-begrudging-respect-piccolo.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408076575/D9C2770E339435FADA3EFAE9C48015306795CBD5/
 image_width: 624
 image_height: 871
@@ -30,7 +47,9 @@ setting: void
 suspected_ip: Piccolo
 ip_confidence: high
 ip_verified: true
-characters: [piccolo-jr, namekian]
+characters:
+  - piccolo-jr
+  - namekian
 ---
 
 # Begrudging Respect Piccolo (World Martial Arts Tournament)

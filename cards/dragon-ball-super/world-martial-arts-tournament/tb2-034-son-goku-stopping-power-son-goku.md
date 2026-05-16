@@ -10,15 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-characters: ["son-goku"]
-tags_hub: ["warrior", "fighter", "hero", "speed", "power", "martial-arts", "gi", "iconic", "champion", "movement"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "anime-style", "male-figure"]
+characters:
+  - son-goku
+tags_hub:
+  - warrior
+  - fighter
+  - hero
+  - speed
+  - power
+  - martial-arts
+  - gi
+  - iconic
+  - champion
+  - movement
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - anime-style
+  - male-figure
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-034-son-goku-stopping-power-son-goku.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408077467/F811BC02A6E86486803AD1AA99C14B4A6A378720/
 image_width: 624
 image_height: 871

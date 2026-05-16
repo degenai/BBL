@@ -1,6 +1,6 @@
 ---
 name: Forgotten Sentinel
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 231
 rarity: C
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["golem", "guardian", "ancient-ruin", "forgotten", "stone", "rust", "giant", "goblin", "scale-contrast", "sentinel", "weathered", "hillside"]
-tags_filter: ["duo", "2-figures", "wide-shot", "scene-mode", "three-quarter-facing", "no-face", "artifact", "creature-golem", "colorless", "common"]
+tags_hub:
+  - golem
+  - guardian
+  - ancient-ruin
+  - forgotten
+  - stone
+  - rust
+  - giant
+  - goblin
+  - scale-contrast
+  - sentinel
+  - weathered
+  - hillside
+tags_filter:
+  - duo
+  - 2-figures
+  - wide-shot
+  - scene-mode
+  - three-quarter-facing
+  - no-face
+  - artifact
+  - creature-golem
+  - colorless
+  - common
 reference_image: cards/_images/magic-the-gathering/core-set-2021/231-forgotten-sentinel.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'

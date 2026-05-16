@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["gohan", "super-saiyan", "golden-hair", "ki-energy", "warrior", "youth", "power", "transformation", "combat", "hero"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "male-figure", "action-mode", "anime-style", "super-saiyan-form"]
+tags_hub:
+  - gohan
+  - super-saiyan
+  - golden-hair
+  - ki-energy
+  - warrior
+  - youth
+  - power
+  - transformation
+  - combat
+  - hero
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - male-figure
+  - action-mode
+  - anime-style
+  - super-saiyan-form
 reference_image: cards/_images/dragon-ball-super/galactic-battle/bt1-062-son-gohan-family-of-justice.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400574330/4742980BC88E49912E4D8594E4DCB0CCDD21E94A/
 image_width: 624
 image_height: 871
@@ -30,7 +47,8 @@ setting: void
 suspected_ip: Son Gohan
 ip_confidence: high
 ip_verified: true
-characters: ["son-gohan"]
+characters:
+  - son-gohan
 ---
 
 # Son Gohan, Family of Justice (Galactic Battle)

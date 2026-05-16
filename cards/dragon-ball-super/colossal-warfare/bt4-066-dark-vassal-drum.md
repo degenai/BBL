@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["demon", "namekian", "villain", "green-skin", "brute", "charge", "vassal", "king-piccolo-lineage", "muscle", "gold", "dark-power", "intimidation"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "battle-card", "common", "male-figure", "dbs-colossal-warfare"]
+tags_hub:
+  - demon
+  - namekian
+  - villain
+  - green-skin
+  - brute
+  - charge
+  - vassal
+  - king-piccolo-lineage
+  - muscle
+  - gold
+  - dark-power
+  - intimidation
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - battle-card
+  - common
+  - male-figure
+  - dbs-colossal-warfare
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-066-dark-vassal-drum.png
 average_cost_paid: 0
 market_price: 0.02
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401033903/F2089D09C822C54B84E44F78595A9A1EFDB0F0C6/
 image_width: 624
 image_height: 871
@@ -30,7 +50,9 @@ setting: void
 suspected_ip: Drum (Dragon Ball — King Piccolo Saga)
 ip_confidence: high
 ip_verified: true
-characters: [dark-vassal-trio, namekian]
+characters:
+  - dark-vassal-trio
+  - namekian
 ---
 
 # Dark Vassal Drum (Colossal Warfare)

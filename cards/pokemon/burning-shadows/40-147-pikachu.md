@@ -10,20 +10,40 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["electricity", "lightning", "mouse", "mascot", "joy", "energy", "creature", "yellow", "leap", "labor", "resource-extraction", "animal"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "no-face", "action-pose", "lightning-type", "basic-pokemon", "creature-card"]
+tags_hub:
+  - electricity
+  - lightning
+  - mouse
+  - mascot
+  - joy
+  - energy
+  - creature
+  - yellow
+  - leap
+  - labor
+  - resource-extraction
+  - animal
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - no-face
+  - action-pose
+  - lightning-type
+  - basic-pokemon
+  - creature-card
 reference_image: cards/_images/pokemon/burning-shadows/40-147-pikachu.png
 average_cost_paid: 0
-market_price: 0.65
-market_price_as_of: 2026-05-14
+market_price: 0.66
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm3/40_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Saya Tsuruta
 flavor_text: A plan was recently announced to gather many Pikachu and make an electric power plant.
-oracle_text: Tail Whap (Colorless) 10\nThunder Shock (LightningColorless) 20: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+oracle_text: "Tail Whap (Colorless) 10\\nThunder Shock (LightningColorless) 20: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
 mood: action
 time_of_day: indeterminate
 setting: void

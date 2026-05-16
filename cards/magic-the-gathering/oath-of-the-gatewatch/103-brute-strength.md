@@ -1,6 +1,6 @@
 ---
 name: Brute Strength
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Oath of the Gatewatch
 collector_number: 103
 rarity: C
@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["strength", "boulder", "giant", "labor", "crushing", "tattoo", "warrior", "physical-power", "mountain", "rocks", "tribal"]
-tags_filter: ["duo", "mid-shot", "action", "away-facing", "red-magic", "instant"]
+tags_hub:
+  - strength
+  - boulder
+  - giant
+  - labor
+  - crushing
+  - tattoo
+  - warrior
+  - physical-power
+  - mountain
+  - rocks
+  - tribal
+tags_filter:
+  - duo
+  - mid-shot
+  - action
+  - away-facing
+  - red-magic
+  - instant
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/103-brute-strength.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/e/c/ec60192a-19b3-447c-b732-bbcb2d275df6.png?1562942490
 art_match_confidence: high
 needs_manual_review: false

@@ -1,6 +1,6 @@
 ---
 name: Thundering Ceratok
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 179
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["rhino", "horned-beast", "charge", "trample", "ruins", "rubble", "dust", "stampede", "feral", "wilderness-vs-civilization", "beast", "megafauna"]
-tags_filter: ["solo", "mid-shot", "three-quarter-facing", "action-mode", "no-figure", "creature-rhino", "green-magic", "trample-keyword", "common-rarity"]
+tags_hub:
+  - rhino
+  - horned-beast
+  - charge
+  - trample
+  - ruins
+  - rubble
+  - dust
+  - stampede
+  - feral
+  - wilderness-vs-civilization
+  - beast
+  - megafauna
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter-facing
+  - action-mode
+  - no-figure
+  - creature-rhino
+  - green-magic
+  - trample-keyword
+  - common-rarity
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/179-thundering-ceratok.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

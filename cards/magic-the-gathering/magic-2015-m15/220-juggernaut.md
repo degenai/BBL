@@ -1,6 +1,6 @@
 ---
 name: Juggernaut
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Magic 2015 (M15)
 collector_number: 220
 rarity: U
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["war", "siege", "construct", "machine", "charge", "battlefield", "horse", "rider", "destruction", "monster", "horns", "stampede", "menace"]
-tags_filter: ["duo", "wide-shot", "action-mode", "faces-right", "no-magic", "artifact-creature", "colorless", "scene-mode"]
+tags_hub:
+  - war
+  - siege
+  - construct
+  - machine
+  - charge
+  - battlefield
+  - horse
+  - rider
+  - destruction
+  - monster
+  - horns
+  - stampede
+  - menace
+tags_filter:
+  - duo
+  - wide-shot
+  - action-mode
+  - faces-right
+  - no-magic
+  - artifact-creature
+  - colorless
+  - scene-mode
 reference_image: cards/_images/magic-the-gathering/magic-2015-m15/220-juggernaut.png
 average_cost_paid: 0
 market_price: 0.19
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/7/b/7bc014e5-21a3-4023-a8ed-61329a96fb4e.png?1562789662
 art_match_confidence: high
 needs_manual_review: false

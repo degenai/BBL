@@ -7,30 +7,49 @@ rarity: Uncommon
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["moon", "night", "celestial", "eye", "crescent", "stone-creature", "floating", "void", "cosmic", "ancient"]
-tags_filter: ["solo", "close-up", "portrait", "forward-facing", "no-face", "colorless-magic", "fighting-magic", "basic-pokemon"]
+tags_hub:
+  - moon
+  - night
+  - celestial
+  - eye
+  - crescent
+  - stone-creature
+  - floating
+  - void
+  - cosmic
+  - ancient
+tags_filter:
+  - solo
+  - close-up
+  - portrait
+  - forward-facing
+  - no-face
+  - colorless-magic
+  - fighting-magic
+  - basic-pokemon
 reference_image: cards/_images/pokemon/burning-shadows/68-147-lunatone.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm3/68_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Shin Nagasawa
 flavor_text: Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.
-oracle_text: [Ability: Heal Block] If you have Solrock in play, Pokémon (both yours and your opponent's) can't be healed.\nLunar Blast (FightingColorless) 30
+oracle_text: "[Ability: Heal Block] If you have Solrock in play, Pokémon (both yours and your opponent's) can't be healed.\\nLunar Blast (FightingColorless) 30"
 mood: sublime
 time_of_day: night
 setting: void
 suspected_ip: Lunatone
 ip_confidence: high
 ip_verified: true
-characters: ["solrock-lunatone-pair"]
+characters:
+  - solrock-lunatone-pair
 ---
 
 # Lunatone (Burning Shadows)
@@ -58,7 +77,7 @@ A crescent moon-shaped creature with a single prominent red eye floats at the ce
 
 ## Connections
 
-- [[solrock-lunatone-pair]] — Moon arm of the Hoenn celestial-duality Meteorite Pokemon dyad (Pokedex 337/338, Rock/Psychic), Sun & Moon-era print. This Lunatone BUS-68 print carries the dyad's mechanical-interlock signature directly in oracle text: the Heal Block Ability ("If you have Solrock in play, Pokemon can't be healed") requires the dyad partner Solrock on the field, mirroring Solrock DAA-092's Resistance Shade Ability ("If you have Lunatone in play...") — each card's primary Ability mechanically depends on its counterpart, the strongest TCG-rules expression of the Ruby/Sapphire version-exclusive pair-bond in the corpus. The corpus's other Lunatone print (DAA-072) is Psychic-type with standalone attacks (no Solrock-dependency Ability) — across the two Lunatone prints, this BUS-68 is the dyad's mechanical-interlock representative. Per the cohort-subsumes-1:1-mirrors precedent established in [[mareep-line]] / [[staraptor-line]] / [[caterpie-line]], the prior Lunatone-BUS-68 ↔ Solrock-DAA-092 mirror is now subsumed by the dyad node. `[Bulbapedia: Lunatone (Pokemon), Solrock (Pokemon); PokemonTCG.io: sm3-68, swsh3-92, swsh3-72]`
+- [[solrock-lunatone-pair]] — Moon arm of the Hoenn celestial-duality Meteorite Pokemon dyad (Pokedex 337/338, Rock/Psychic), Sun & Moon-era print. This Lunatone BUS-68 print carries the dyad's mechanical-interlock signature directly in oracle text: the Heal Block Ability ("If you have Solrock in play, Pokemon can't be healed") requires the dyad partner Solrock on the field, mirroring Solrock DAA-092's Resistance Shade Ability ("If you have Lunatone in play...") — each card's primary Ability mechanically depends on its counterpart, the strongest TCG-rules expression of the Ruby/Sapphire version-exclusive pair-bond in the corpus. The corpus's other Lunatone print (DAA-072) is Psychic-type with standalone attacks (no Solrock-dependency Ability) — across the two Lunatone prints, this BUS-68 is the dyad's mechanical-interlock representative. Per the cohort-subsumes-1:1-mirrors precedent established in `mareep-line` / `staraptor-line` / `caterpie-line`, the prior Lunatone-BUS-68 ↔ Solrock-DAA-092 mirror is now subsumed by the dyad node. `[Bulbapedia: Lunatone (Pokemon), Solrock (Pokemon); PokemonTCG.io: sm3-68, swsh3-92, swsh3-72]`
 
 ## Trivia
 

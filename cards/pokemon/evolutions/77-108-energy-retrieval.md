@@ -13,14 +13,30 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["energy", "orb", "radiance", "retrieval", "light", "symmetry", "power", "glow", "retro", "classic", "sphere"]
-tags_filter: ["close-up", "abstract", "no-face", "trainer-item", "none-figure"]
+tags_hub:
+  - energy
+  - orb
+  - radiance
+  - retrieval
+  - light
+  - symmetry
+  - power
+  - glow
+  - retro
+  - classic
+  - sphere
+tags_filter:
+  - close-up
+  - abstract
+  - no-face
+  - trainer-item
+  - none-figure
 reference_image: cards/_images/pokemon/evolutions/77-108-energy-retrieval.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/xy12/77_hires.png
 art_match_confidence: high
 needs_manual_review: false

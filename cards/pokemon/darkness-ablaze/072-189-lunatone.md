@@ -10,20 +10,38 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["moon", "night", "desert", "eye", "stone", "celestial", "psychic", "lunar", "void", "floating", "crescent"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "psychic-type", "no-face", "scene-mode", "portrait-mode"]
+tags_hub:
+  - moon
+  - night
+  - desert
+  - eye
+  - stone
+  - celestial
+  - psychic
+  - lunar
+  - void
+  - floating
+  - crescent
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - psychic-type
+  - no-face
+  - scene-mode
+  - portrait-mode
 reference_image: cards/_images/pokemon/darkness-ablaze/072-189-lunatone.png
 average_cost_paid: 0
-market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price: 0.08
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/72_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Miki Tanaka
 flavor_text: The phase of the moon apparently has some effect on its power. It's active on the night of a full moon.
-oracle_text: Future Sight (Colorless): Look at the top 4 cards of either player's deck and put them back in any order.\nPsychic (PsychicColorless) 20+: This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.
+oracle_text: "Future Sight (Colorless): Look at the top 4 cards of either player's deck and put them back in any order.\\nPsychic (PsychicColorless) 20+: This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
 mood: sublime
 time_of_day: night
 setting: desert
@@ -31,7 +49,8 @@ subject_known_ip: true
 suspected_ip: Lunatone
 ip_confidence: high
 ip_verified: true
-characters: ["solrock-lunatone-pair"]
+characters:
+  - solrock-lunatone-pair
 ---
 
 # Lunatone (Darkness Ablaze)

@@ -1,6 +1,6 @@
 ---
 name: Grim Initiate
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 130
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["zombie", "undead", "warrior", "skeleton", "blade", "scythe", "armor", "death", "amonkhet", "desert", "fire", "ritual"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "no-face", "black-magic", "creature-zombie", "creature-warrior", "first-strike"]
+tags_hub:
+  - zombie
+  - undead
+  - warrior
+  - skeleton
+  - blade
+  - scythe
+  - armor
+  - death
+  - amonkhet
+  - desert
+  - fire
+  - ritual
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action-mode
+  - no-face
+  - black-magic
+  - creature-zombie
+  - creature-warrior
+  - first-strike
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/130-grim-initiate.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

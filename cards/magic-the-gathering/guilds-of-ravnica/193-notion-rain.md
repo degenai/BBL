@@ -1,6 +1,6 @@
 ---
 name: Notion Rain
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Guilds of Ravnica
 collector_number: 193
 rarity: C
@@ -10,14 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["rain", "hooded-figure", "alley", "city", "noir", "solitude", "thoughts", "spy", "rogue", "stone-architecture", "weather", "secret"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "blue-magic", "black-magic", "multicolor-blue-black", "sorcery", "mill", "card-draw", "human-figure", "scene-mode"]
+tags_hub:
+  - rain
+  - hooded-figure
+  - alley
+  - city
+  - noir
+  - solitude
+  - thoughts
+  - spy
+  - rogue
+  - stone-architecture
+  - weather
+  - secret
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - blue-magic
+  - black-magic
+  - multicolor-blue-black
+  - sorcery
+  - mill
+  - card-draw
+  - human-figure
+  - scene-mode
 reference_image: cards/_images/magic-the-gathering/guilds-of-ravnica/193-notion-rain.png
 average_cost_paid: 0
 market_price: 0.24
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

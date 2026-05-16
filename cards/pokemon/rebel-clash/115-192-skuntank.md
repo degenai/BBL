@@ -10,20 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["skunk", "poison", "night", "darkness", "predator", "forest", "menace", "sinnoh", "evolution", "stink"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "darkness-type", "pokemon-stage1", "action-pose"]
+tags_hub:
+  - skunk
+  - poison
+  - night
+  - darkness
+  - predator
+  - forest
+  - menace
+  - sinnoh
+  - evolution
+  - stink
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - darkness-type
+  - pokemon-stage1
+  - action-pose
 reference_image: cards/_images/pokemon/rebel-clash/115-192-skuntank.png
 average_cost_paid: 0
 market_price: 0.19
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh2/115_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: sowsow
 flavor_text: In its belly, it reserves stinky fluid that it shoots from its tail during battle. As this Pokémon's diet varies, so does the stench of its fluid.
-oracle_text: Slash (ColorlessColorless) 50\nPoison Ring (DarknessColorlessColorless) 80: Your opponent's Active Pokémon is now Poisoned. During your opponent's next turn, the Defending Pokémon can't retreat.
+oracle_text: "Slash (ColorlessColorless) 50\\nPoison Ring (DarknessColorlessColorless) 80: Your opponent's Active Pokémon is now Poisoned. During your opponent's next turn, the Defending Pokémon can't retreat."
 mood: grim
 time_of_day: night
 setting: forest

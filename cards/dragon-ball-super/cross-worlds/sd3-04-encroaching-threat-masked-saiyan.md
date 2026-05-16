@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["mask", "masked-warrior", "concealed-identity", "dark-energy", "threat", "villain", "controlled", "purple-aura", "warrior", "saiyan"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "male-figure", "no-weapon", "no-face"]
+tags_hub:
+  - mask
+  - masked-warrior
+  - concealed-identity
+  - dark-energy
+  - threat
+  - villain
+  - controlled
+  - purple-aura
+  - warrior
+  - saiyan
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - male-figure
+  - no-weapon
+  - no-face
 reference_image: cards/_images/dragon-ball-super/cross-worlds/sd3-04-encroaching-threat-masked-saiyan.png
 average_cost_paid: 0
 market_price: 0.32
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/SD3-04.png
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +47,9 @@ setting: void
 suspected_ip: Bardock (Masked Saiyan form, Dragon Ball Xenoverse / Heroes)
 ip_confidence: high
 ip_verified: true
-characters: [saiyan, bardock]
+characters:
+  - saiyan
+  - bardock
 ---
 
 # Encroaching Threat Masked Saiyan (Cross Worlds)

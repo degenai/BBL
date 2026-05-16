@@ -1,6 +1,6 @@
 ---
 name: Fruit of Tizerus
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 96
 rarity: C
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["tree", "fruit", "underworld", "barren", "temptation", "solitude", "death", "afterlife", "glowing-object", "mythology", "forbidden-fruit", "darkness"]
-tags_filter: ["no-figures", "mid-shot", "scene-mode", "black-magic", "sorcery", "mono-black", "high-contrast", "single-focal-point"]
+tags_hub:
+  - tree
+  - fruit
+  - underworld
+  - barren
+  - temptation
+  - solitude
+  - death
+  - afterlife
+  - glowing-object
+  - mythology
+  - forbidden-fruit
+  - darkness
+tags_filter:
+  - no-figures
+  - mid-shot
+  - scene-mode
+  - black-magic
+  - sorcery
+  - mono-black
+  - high-contrast
+  - single-focal-point
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/96-fruit-of-tizerus.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,7 +46,8 @@ mood: grim
 time_of_day: indeterminate
 setting: other
 artist: Bastien L. Deharme
-characters: [theros-pantheon]
+characters:
+  - theros-pantheon
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/96-fruit-of-tizerus--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/6/66e577a0-e5d7-4e6a-919c-d85c2ae819ce.jpg?1581479782
 flavor_text: One spiny tree with bitter fruit grows in the realm of Tizerus, outside the palace of Erebos.

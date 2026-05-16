@@ -1,7 +1,14 @@
 ---
 type: character
 name: "Master Roshi (the Turtle Hermit / Jackie Chun)"
-aliases: [master-roshi, roshi, the-turtle-hermit, kame-sennin, muten-roshi, jackie-chun, turtle-school-master]
+aliases:
+  - master-roshi
+  - roshi
+  - the-turtle-hermit
+  - kame-sennin
+  - muten-roshi
+  - jackie-chun
+  - turtle-school-master
 universe: "Dragon Ball franchise (Akira Toriyama, Shueisha manga 1984-1995 / Toei Animation Dragon Ball anime 1986-1989, Dragon Ball Z anime 1989-1996, Dragon Ball Super anime 2015-2018, Dragon Ball Daima anime 2024-2025); Master Roshi is introduced in Dragon Ball chapter 1 (1984) as the elderly Turtle Hermit who teaches young Goku and Krillin the Kamehameha technique, and recurs across the franchise's three-decade-plus continuity as the canonical first-master of the Turtle School lineage and the reigning master-of-masters within Earth's mortal-tier martial-arts hierarchy"
 faction: "Turtle School (Kame-sen'nin-ryu) — the martial-arts lineage Roshi founded and teaches; canonical students include Son Goku, Krillin, Yamcha, Tien Shinhan (briefly), and others; the school's signature techniques include the Kamehameha (the canonical signature ki blast), the Mafuba (Demon Containment Wave, the sealed-evil-in-a-jar technique Roshi inherits from his master Mutaito and deploys against King Piccolo), and the Max Power transformation; Roshi was trained under Master Mutaito alongside his rival Master Shen of the Crane School, making him one of two senior Mutaito-line martial-arts masters operating in present-day Dragon Ball continuity"
 species: "human (adult elderly male; Earth-native; canonically over 300 years old per Dragon Ball anime continuity by virtue of having drunk the Elixir of Immortality / Water of the Gods, though the Z-canon downplays this; his stated age varies across continuity but the canonical framing is *elder-master-who-has-outlived-his-generation*; visual identifier — short stocky build, large white beard, bald scalp, dark sunglasses, wide-brimmed sun hat, Hawaiian-style patterned shirt; his Jackie Chun disguise inverts these — full head of wild white hair, no glasses, white martial-arts gi)"
@@ -10,10 +17,17 @@ confidence: canonical
 appears_on:
   - dragon-ball-super/world-martial-arts-tournament/tb2-057-master-roshi-martial-meister
   - dragon-ball-super/world-martial-arts-tournament/tb2-058-unyielding-victory-jackie-chun
-related_hubs: [stewardship]
+related_hubs: "[stewardship]"
 related_symbols: []
-related_characters: [son-goku, krillin, hercule]
-ip_resolution_for: ["Master Roshi", "Jackie Chun", "Turtle Hermit", "Kame-sen'nin"]
+related_characters:
+  - son-goku
+  - krillin
+  - hercule
+ip_resolution_for:
+  - Master Roshi
+  - Jackie Chun
+  - Turtle Hermit
+  - Kame-sen'nin
 ---
 
 # Master Roshi (the Turtle Hermit / Jackie Chun)

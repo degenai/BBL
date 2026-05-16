@@ -1,6 +1,6 @@
 ---
 name: Riftburst Hellion
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 228
 rarity: C
@@ -10,15 +10,37 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["monster", "destruction", "marketplace", "panic", "beast", "insect", "explosion", "public-terror", "chaos", "urban", "civilians"]
-tags_filter: ["group", "wide", "action", "forward-facing", "red-magic", "green-magic", "multicolor-red-green", "creature-hellion", "disguise", "reach"]
-symbols: ["disguise"]
+tags_hub:
+  - monster
+  - destruction
+  - marketplace
+  - panic
+  - beast
+  - insect
+  - explosion
+  - public-terror
+  - chaos
+  - urban
+  - civilians
+tags_filter:
+  - group
+  - wide
+  - action
+  - forward-facing
+  - red-magic
+  - green-magic
+  - multicolor-red-green
+  - creature-hellion
+  - disguise
+  - reach
+symbols:
+  - disguise
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/228-riftburst-hellion.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/9/f/9fae9044-a859-434d-8dc6-4f9d455ca5e1.png?1706242241
 art_match_confidence: high
 needs_manual_review: false

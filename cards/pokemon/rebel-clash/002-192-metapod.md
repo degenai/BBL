@@ -10,27 +10,44 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["cocoon", "chrysalis", "waiting", "transformation", "evolution-line", "insect", "stillness", "dormancy", "nature", "metamorphosis"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "grass-type", "uncommon", "stage-1-pokemon"]
+tags_hub:
+  - cocoon
+  - chrysalis
+  - waiting
+  - transformation
+  - evolution-line
+  - insect
+  - stillness
+  - dormancy
+  - nature
+  - metamorphosis
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - grass-type
+  - uncommon
+  - stage-1-pokemon
 reference_image: cards/_images/pokemon/rebel-clash/002-192-metapod.png
 average_cost_paid: 0
-market_price: 0.46
-market_price_as_of: 2026-05-14
+market_price: 0.47
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh2/2_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Asako Ito
 flavor_text: It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.
-oracle_text: [Ability: Adaptive Evolution] This Pokémon can evolve during your first turn or the turn you play it.\nRam (ColorlessColorless) 20
+oracle_text: "[Ability: Adaptive Evolution] This Pokémon can evolve during your first turn or the turn you play it.\\nRam (ColorlessColorless) 20"
 mood: peaceful
 time_of_day: indeterminate
 setting: other
 suspected_ip: Metapod
 ip_confidence: high
 ip_verified: true
-characters: ["caterpie-line"]
+characters:
+  - caterpie-line
 ---
 
 # Metapod (Rebel Clash)

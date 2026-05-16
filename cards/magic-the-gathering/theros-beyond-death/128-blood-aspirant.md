@@ -1,6 +1,6 @@
 ---
 name: Blood Aspirant
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 128
 rarity: U
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["satyr", "drinking", "revel", "blood", "wine", "frenzy", "horn", "berserker", "fire", "greek-myth", "dionysian", "bare-chested", "ritual"]
-tags_filter: ["solo", "mid-shot", "three-quarter-facing", "male-figure", "action-mode", "red-magic", "creature-satyr", "creature-berserker"]
+tags_hub:
+  - satyr
+  - drinking
+  - revel
+  - blood
+  - wine
+  - frenzy
+  - horn
+  - berserker
+  - fire
+  - greek-myth
+  - dionysian
+  - bare-chested
+  - ritual
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter-facing
+  - male-figure
+  - action-mode
+  - red-magic
+  - creature-satyr
+  - creature-berserker
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/128-blood-aspirant.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
@@ -29,7 +50,7 @@ artist: Tyler Walpole
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/128-blood-aspirant--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/d/8d4f3fa3-ba1f-48dc-a56b-738936f1bf86.jpg?1581480083
 flavor_text: It's a small step from revel to bloodbath.
-oracle_text: Whenever you sacrifice a permanent, put a +1/+1 counter on this creature.\n{1}{R}, {T}, Sacrifice a creature or enchantment: This creature deals 1 damage to target creature. That creature can't block this turn.
+oracle_text: "Whenever you sacrifice a permanent, put a +1/+1 counter on this creature.\\n{1}{R}, {T}, Sacrifice a creature or enchantment: This creature deals 1 damage to target creature. That creature can't block this turn."
 ---
 
 # Blood Aspirant (Theros Beyond Death)

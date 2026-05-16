@@ -1,23 +1,45 @@
 ---
 name: Alseid of Life's Bounty
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 1
 rarity: U
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 2
+quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["nymph", "wheat", "harvest", "field", "grain", "female-figure-thematic", "flowing-hair", "abundance", "nature-spirit", "sunlight", "greek-mythology", "pastoral"]
-tags_filter: ["solo", "mid-shot", "three-quarter-facing", "portrait-mode", "female-figure", "white-magic", "creature-nymph", "enchantment-creature", "lifegain", "1-1-creature"]
+tags_hub:
+  - nymph
+  - wheat
+  - harvest
+  - field
+  - grain
+  - female-figure-thematic
+  - flowing-hair
+  - abundance
+  - nature-spirit
+  - sunlight
+  - greek-mythology
+  - pastoral
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter-facing
+  - portrait-mode
+  - female-figure
+  - white-magic
+  - creature-nymph
+  - enchantment-creature
+  - lifegain
+  - 1-1-creature
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/1-alseid-of-life-s-bounty.png
 average_cost_paid: 0
-market_price: 0.41
-market_price_as_of: 2026-05-14
+market_price: 0.42
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
@@ -29,7 +51,7 @@ artist: Magali Villeneuve
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/1-alseid-of-life-s-bounty--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/6/36c8c075-9597-412e-9fc4-9d73b4405d12.jpg?1581478926
 flavor_text: \"Dawn-kissed, he nourishes the golden grain.\"\n—Psemilla, Meletian poet
-oracle_text: Lifelink\n{1}, Sacrifice this creature: Target creature or enchantment you control gains protection from the color of your choice until end of turn.
+oracle_text: "Lifelink\\n{1}, Sacrifice this creature: Target creature or enchantment you control gains protection from the color of your choice until end of turn."
 ---
 
 # Alseid of Life's Bounty (Theros Beyond Death)

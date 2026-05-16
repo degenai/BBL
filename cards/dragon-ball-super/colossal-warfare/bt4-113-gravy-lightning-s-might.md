@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["warrior", "armor", "giant", "muscle", "power", "soldier", "mercenary", "strength", "lightning", "brute", "white", "imposing", "combat"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "male-figure", "anime"]
+tags_hub:
+  - warrior
+  - armor
+  - giant
+  - muscle
+  - power
+  - soldier
+  - mercenary
+  - strength
+  - lightning
+  - brute
+  - white
+  - imposing
+  - combat
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - male-figure
+  - anime
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-113-gravy-lightning-s-might.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401042311/067B94EFE875B87A2AD519742160201FFF9356F3/
 image_width: 624
 image_height: 864
@@ -30,7 +49,8 @@ setting: other
 suspected_ip: Gravy (Dragon Ball Heroes / Xenoverse)
 ip_confidence: high
 ip_verified: true
-characters: [xenoverse-villains]
+characters:
+  - xenoverse-villains
 ---
 
 # Gravy, Lightning's Might (Colossal Warfare)

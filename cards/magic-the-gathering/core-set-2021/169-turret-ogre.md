@@ -1,6 +1,6 @@
 ---
 name: Turret Ogre
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 169
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["ogre", "siege-warfare", "catapult", "soldier", "warrior", "mountain", "storm", "armor", "brute", "war-machine", "monster-soldier", "artillery"]
-tags_filter: ["solo", "mid-shot", "three-quarter-facing", "creature-ogre", "creature-warrior", "red-magic", "reach", "male-figure", "portrait-mode"]
+tags_hub:
+  - ogre
+  - siege-warfare
+  - catapult
+  - soldier
+  - warrior
+  - mountain
+  - storm
+  - armor
+  - brute
+  - war-machine
+  - monster-soldier
+  - artillery
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter-facing
+  - creature-ogre
+  - creature-warrior
+  - red-magic
+  - reach
+  - male-figure
+  - portrait-mode
 reference_image: cards/_images/magic-the-gathering/core-set-2021/169-turret-ogre.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -28,7 +49,7 @@ setting: mountain
 artist: Johann Bodin
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/169-turret-ogre--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/4/d47e9653-2a3a-4d37-8f3d-3dab4f468338.jpg?1594736852
-flavor_text: Common Gruul career aspirations: berserker, shaman, catapult.
+flavor_text: "Common Gruul career aspirations: berserker, shaman, catapult."
 oracle_text: Reach (This creature can block creatures with flying.)\nWhen this creature enters, if you control another creature with power 4 or greater, this creature deals 2 damage to each opponent.
 ---
 

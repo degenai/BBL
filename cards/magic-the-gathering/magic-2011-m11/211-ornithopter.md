@@ -1,6 +1,6 @@
 ---
 name: Ornithopter
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Magic 2011 (M11)
 collector_number: 211
 rarity: U
@@ -10,14 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["machine", "flying-machine", "ornithopter", "invention", "wings", "tinkering", "engineering", "clockwork", "aviation", "contraption", "steampunk"]
-tags_filter: ["solo", "no-figure", "mid-shot", "forward-facing", "portrait-mode", "centered-composition", "radial-symmetry", "no-face", "artifact", "creature-thopter", "flying", "colorless"]
+tags_hub:
+  - machine
+  - flying-machine
+  - ornithopter
+  - invention
+  - wings
+  - tinkering
+  - engineering
+  - clockwork
+  - aviation
+  - contraption
+  - steampunk
+tags_filter:
+  - solo
+  - no-figure
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - centered-composition
+  - radial-symmetry
+  - no-face
+  - artifact
+  - creature-thopter
+  - flying
+  - colorless
 reference_image: cards/_images/magic-the-gathering/magic-2011-m11/211-ornithopter.png
 average_cost_paid: 0
 market_price: 0.31
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/3/3/331a0a01-0c12-4999-9bd7-f26991e4dad5.png?1562455545
 art_match_confidence: high
 needs_manual_review: false

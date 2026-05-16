@@ -10,21 +10,41 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["comedy", "coward", "comic-relief", "tournament", "fame", "impostor", "secret", "panic", "celebrity", "fraud", "exaggeration", "face"]
-tags_filter: ["solo", "close-up", "forward-facing", "portrait-mode", "male-figure", "anime-style", "comedic-expression"]
+tags_hub:
+  - comedy
+  - coward
+  - comic-relief
+  - tournament
+  - fame
+  - impostor
+  - secret
+  - panic
+  - celebrity
+  - fraud
+  - exaggeration
+  - face
+tags_filter:
+  - solo
+  - close-up
+  - forward-facing
+  - portrait-mode
+  - male-figure
+  - anime-style
+  - comedic-expression
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-010-secret-treaty-hercule.png
 average_cost_paid: 0
 market_price: 0.37
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408073921/967582800ED0E7EE43B525499D80731A20EDAE43/
 image_width: 624
 image_height: 871
 image_quality: med
 art_match_confidence: high
 needs_manual_review: false
-characters: [hercule]
+characters:
+  - hercule
 mood: comedic
 time_of_day: indeterminate
 setting: void

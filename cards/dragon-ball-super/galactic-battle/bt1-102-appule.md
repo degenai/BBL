@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["soldier", "alien", "energy-blast", "rank-and-file", "warrior", "purple-skin", "grunt", "frieza-force", "combatant", "sci-fi-soldier"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "battle-card", "purple-skinned", "frieza-force-soldier"]
+tags_hub:
+  - soldier
+  - alien
+  - energy-blast
+  - rank-and-file
+  - warrior
+  - purple-skin
+  - grunt
+  - frieza-force
+  - combatant
+  - sci-fi-soldier
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - battle-card
+  - purple-skinned
+  - frieza-force-soldier
 reference_image: cards/_images/dragon-ball-super/galactic-battle/bt1-102-appule.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400578792/DF1D639609A18BD5CAD2BE1538403D695DDF0D8E/
 image_width: 624
 image_height: 871

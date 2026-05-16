@@ -10,15 +10,36 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-characters: ["galar-gym-challenge"]
-tags_hub: ["stadium", "architecture", "townscape", "sports", "grass", "rooftops", "balcony", "civic-landmark", "spectator-arena", "small-town", "vista", "red-roofs"]
-tags_filter: ["solo", "wide-shot", "scene-mode", "no-face", "faces-away", "trainer-card", "stadium-card", "grass-energy"]
+characters:
+  - galar-gym-challenge
+tags_hub:
+  - stadium
+  - architecture
+  - townscape
+  - sports
+  - grass
+  - rooftops
+  - balcony
+  - civic-landmark
+  - spectator-arena
+  - small-town
+  - vista
+  - red-roofs
+tags_filter:
+  - solo
+  - wide-shot
+  - scene-mode
+  - no-face
+  - faces-away
+  - trainer-card
+  - stadium-card
+  - grass-energy
 reference_image: cards/_images/pokemon/champion-s-path/68-73-turffield-stadium.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh35/68_hires.png
 art_match_confidence: high
 needs_manual_review: false

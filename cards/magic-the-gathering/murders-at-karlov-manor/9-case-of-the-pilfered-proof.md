@@ -1,6 +1,6 @@
 ---
 name: Case of the Pilfered Proof
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 9
 rarity: U
@@ -10,21 +10,39 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["crime-scene", "mystery", "theft", "evidence", "broken-glass", "magic-energy", "investigation", "machinery", "skull", "noir", "aftermath"]
-tags_filter: ["no-face", "none-figures", "close-up", "portrait-mode", "enchantment-case", "white-magic", "artifact"]
+tags_hub:
+  - crime-scene
+  - mystery
+  - theft
+  - evidence
+  - broken-glass
+  - magic-energy
+  - investigation
+  - machinery
+  - skull
+  - noir
+  - aftermath
+tags_filter:
+  - no-face
+  - none-figures
+  - close-up
+  - portrait-mode
+  - enchantment-case
+  - white-magic
+  - artifact
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/9-case-of-the-pilfered-proof.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/3/2/32927bf2-63c1-4402-99dc-3a0f2f8e0f9c.png?1706241469
 art_match_confidence: high
 needs_manual_review: false
 artist: Joshua Cairos
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/9-case-of-the-pilfered-proof--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/2/32927bf2-63c1-4402-99dc-3a0f2f8e0f9c.jpg?1706241469
-oracle_text: Whenever a Detective you control enters or is turned face up, put a +1/+1 counter on it.\nTo solve — You control three or more Detectives. (If unsolved, solve at the beginning of your end step.)\nSolved — If one or more tokens would be created under your control, those tokens plus a Clue token are created instead. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")
+oracle_text: "Whenever a Detective you control enters or is turned face up, put a +1/+1 counter on it.\\nTo solve — You control three or more Detectives. (If unsolved, solve at the beginning of your end step.)\\nSolved — If one or more tokens would be created under your control, those tokens plus a Clue token are created instead. (It's an artifact with \\\"{2}, Sacrifice this token: Draw a card.\\\")"
 image_width: 745
 image_height: 1040
 image_quality: high

@@ -13,14 +13,30 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["metal", "electricity", "machine", "cylinder", "defense", "steel", "industrial", "power", "lightning", "armor"]
-tags_filter: ["close-up", "abstract", "item-card", "trainer-card", "no-face", "no-figures"]
+tags_hub:
+  - metal
+  - electricity
+  - machine
+  - cylinder
+  - defense
+  - steel
+  - industrial
+  - power
+  - lightning
+  - armor
+tags_filter:
+  - close-up
+  - abstract
+  - item-card
+  - trainer-card
+  - no-face
+  - no-figures
 reference_image: cards/_images/pokemon/mega-evolution/118-132-iron-defender.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/me1/118_hires.png
 art_match_confidence: high
 needs_manual_review: false

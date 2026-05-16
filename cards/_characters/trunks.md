@@ -1,7 +1,14 @@
 ---
 type: character
 name: Trunks
-aliases: [trunks, future-trunks, gt-trunks, trunks-gt, trunks-xeno, kid-trunks, mirai-trunks]
+aliases:
+  - trunks
+  - future-trunks
+  - gt-trunks
+  - trunks-gt
+  - trunks-xeno
+  - kid-trunks
+  - mirai-trunks
 universe: "Dragon Ball franchise (Akira Toriyama / Toei Animation, 1991 introduction in Dragon Ball Z); expanded across Dragon Ball Z (1991-1996), Dragon Ball GT (1996-1997, Toei animation), Dragon Ball Super (2015-2018, Toei animation), Dragon Ball Xenoverse (Bandai Namco / Dimps, 2015) and Xenoverse 2 (2016), and Super Dragon Ball Heroes (Bandai arcade card game and web anime, 2010-present)"
 faction: ~
 species: "half-Saiyan / half-Earthling (son of Vegeta and Bulma); across incarnations he is variously: the time-traveling warrior from the Cell-saga-future timeline (Future Trunks), the adult Capsule Corporation president pulled into the Black Star Dragon Ball quest (GT Trunks), and the Time Patroller recruited by Chronoa after the Cell defeat in his own timeline (Trunks: Xeno)"
@@ -28,7 +35,14 @@ appears_on:
   - dragon-ball-super/cross-worlds/bt3-028-grand-tour-spaceship
 related_hubs: []
 related_symbols: []
-related_characters: [xenoverse-villains, baby-dbgt, son-goku, vegeta, wrath-of-the-dragon-saga, namekian, son-gohan]
+related_characters:
+  - xenoverse-villains
+  - baby-dbgt
+  - son-goku
+  - vegeta
+  - wrath-of-the-dragon-saga
+  - namekian
+  - son-gohan
 ip_resolution_for: trunks
 ---
 

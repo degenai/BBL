@@ -7,23 +7,40 @@ rarity: Common
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 2
+quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["insect", "underground", "larva", "roots", "earth", "hidden", "metamorphosis", "patience", "soil", "emergence"]
-tags_filter: ["solo", "mid-shot", "portrait", "three-quarter", "grass-type", "creature-grass", "pokemon"]
+tags_hub:
+  - insect
+  - underground
+  - larva
+  - roots
+  - earth
+  - hidden
+  - metamorphosis
+  - patience
+  - soil
+  - emergence
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - three-quarter
+  - grass-type
+  - creature-grass
+  - pokemon
 reference_image: cards/_images/pokemon/vivid-voltage/013-185-nincada.png
 average_cost_paid: 0
-market_price: 0.03
-market_price_as_of: 2026-05-14
+market_price: 0.04
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh4/13_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Sekio
 flavor_text: Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead.
-oracle_text: Absorb (Grass) 10: Heal 10 damage from this Pokémon.
+oracle_text: "Absorb (Grass) 10: Heal 10 damage from this Pokémon."
 mood: peaceful
 time_of_day: indeterminate
 setting: forest

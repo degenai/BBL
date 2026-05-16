@@ -1,6 +1,6 @@
 ---
 name: Grave Titan
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Mystery Booster Cards
 collector_number: 145
 rarity: M
@@ -10,14 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["giant", "undead", "zombie", "skeleton", "death", "decay", "bones", "wasteland", "blade", "necromancy", "grim", "colossus"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "male-figure", "creature-giant", "creature-zombie", "black-magic", "deathtouch", "token-generator"]
+tags_hub:
+  - giant
+  - undead
+  - zombie
+  - skeleton
+  - death
+  - decay
+  - bones
+  - wasteland
+  - blade
+  - necromancy
+  - grim
+  - colossus
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - no-face
+  - male-figure
+  - creature-giant
+  - creature-zombie
+  - black-magic
+  - deathtouch
+  - token-generator
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/145-grave-titan.png
 average_cost_paid: 0
 market_price: 1.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

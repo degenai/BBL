@@ -1,7 +1,20 @@
 ---
 type: character
 name: Chandra Nalaar
-aliases: [chandra, chandra-nalaar, chandra-of-keral-keep, chandra-the-firebrand, chandra-roaring-flame, chandra-flamecaller, chandra-torch-of-defiance, chandra-bold-pyromancer, chandra-fire-artisan, chandra-acolyte-of-flame, chandra-novice-pyromancer, chandra-heart-of-fire, chandra-dressed-to-kill]
+aliases:
+  - chandra
+  - chandra-nalaar
+  - chandra-of-keral-keep
+  - chandra-the-firebrand
+  - chandra-roaring-flame
+  - chandra-flamecaller
+  - chandra-torch-of-defiance
+  - chandra-bold-pyromancer
+  - chandra-fire-artisan
+  - chandra-acolyte-of-flame
+  - chandra-novice-pyromancer
+  - chandra-heart-of-fire
+  - chandra-dressed-to-kill
 universe: "Magic: The Gathering / Multiverse"
 faction: ~
 species: human planeswalker (pyromancer)
@@ -11,9 +24,12 @@ appears_on:
   - magic-the-gathering/war-of-the-spark/120-chandra-s-pyrohelix
   - magic-the-gathering/core-set-2021/137-chandra-s-magmutt
   - magic-the-gathering/core-set-2021/138-chandra-s-pyreling
-related_hubs: [rebellion, labor]
+related_hubs: "[rebellion, labor]"
 related_symbols: []
-related_characters: [jace-beleren, nicol-bolas, aether-rangers]
+related_characters:
+  - jace-beleren
+  - nicol-bolas
+  - aether-rangers
 ip_resolution_for: Chandra Nalaar
 ---
 

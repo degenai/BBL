@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["cheese", "food", "dairy", "cow", "miltank", "cozy", "comfort-food", "yellow", "branding", "wheel", "stamp", "pastoral"]
-tags_filter: ["no-face", "no-figure", "forward-facing", "close-up", "centered-composition", "trainer-item", "pokemon-item", "healing-item", "object-only"]
+tags_hub:
+  - cheese
+  - food
+  - dairy
+  - cow
+  - miltank
+  - cozy
+  - comfort-food
+  - yellow
+  - branding
+  - wheel
+  - stamp
+  - pastoral
+tags_filter:
+  - no-face
+  - no-figure
+  - forward-facing
+  - close-up
+  - centered-composition
+  - trainer-item
+  - pokemon-item
+  - healing-item
+  - object-only
 reference_image: cards/_images/pokemon/vivid-voltage/156-185-moomoo-cheese.png
 average_cost_paid: 0
-market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price: 0.04
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh4/156_hires.png
 art_match_confidence: high
 needs_manual_review: false

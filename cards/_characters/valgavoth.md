@@ -1,7 +1,13 @@
 ---
 type: character
 name: Valgavoth
-aliases: [valgavoth, terror-eater, harrower-of-souls, the-moth-demon, lord-of-duskmourn, master-of-the-house]
+aliases:
+  - valgavoth
+  - terror-eater
+  - harrower-of-souls
+  - the-moth-demon
+  - lord-of-duskmourn
+  - master-of-the-house
 universe: "Magic: The Gathering / Duskmourn (DSK, 2024-09-27)"
 faction: ~
 species: Demon (moth-coded); pre-Ascension a trapped lesser entity that fed on Duskmourn's fear until it grew large enough to consume the plane
@@ -15,7 +21,7 @@ appears_on:
   - magic-the-gathering/duskmourn-house-of-horror/198-slavering-branchsnapper
   - magic-the-gathering/duskmourn-house-of-horror/206-wary-watchdog
 related_hubs: []
-related_symbols: [rooms, eerie, manifest-dread, survival]
+related_symbols: "[rooms, eerie, manifest-dread, survival]"
 ip_resolution_for: valgavoth
 ---
 

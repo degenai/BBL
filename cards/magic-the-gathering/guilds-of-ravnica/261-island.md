@@ -1,6 +1,6 @@
 ---
 name: Island
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Guilds of Ravnica
 collector_number: 261
 rarity: L
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["cityscape", "skyline", "gothic", "spires", "towers", "ravnica", "urban-fantasy", "rooftops", "cables", "haze", "no-figures", "architecture"]
-tags_filter: ["wide-shot", "scene-mode", "no-face", "blue-magic", "basic-land", "land-island"]
+tags_hub:
+  - cityscape
+  - skyline
+  - gothic
+  - spires
+  - towers
+  - ravnica
+  - urban-fantasy
+  - rooftops
+  - cables
+  - haze
+  - no-figures
+  - architecture
+tags_filter:
+  - wide-shot
+  - scene-mode
+  - no-face
+  - blue-magic
+  - basic-land
+  - land-island
 reference_image: cards/_images/magic-the-gathering/guilds-of-ravnica/261-island.png
 average_cost_paid: 0
-market_price: 0.42
-market_price_as_of: 2026-05-14
+market_price: 0.43
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,7 +46,7 @@ setting: urban
 artist: Richard Wright
 art_crop_image: cards/_images/magic-the-gathering/guilds-of-ravnica/261-island--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/9/29bfbf3e-3a6c-40d4-8e1b-255f429de6cc.jpg?1750920748
-oracle_text: ({T}: Add {U}.)
+oracle_text: "({T}: Add {U}.)"
 ---
 
 # Island (Guilds of Ravnica)

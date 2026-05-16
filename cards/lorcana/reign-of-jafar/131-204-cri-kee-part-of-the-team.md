@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["cricket", "insect", "small-hero", "loyalty", "teamwork", "warrior", "companion", "defiance", "tiny-giant", "courage", "sidekick"]
-tags_filter: ["close-up", "action", "duo", "no-face", "forward-facing", "creature-ally", "lorcana-ruby"]
+tags_hub:
+  - cricket
+  - insect
+  - small-hero
+  - loyalty
+  - teamwork
+  - warrior
+  - companion
+  - defiance
+  - tiny-giant
+  - courage
+  - sidekick
+tags_filter:
+  - close-up
+  - action
+  - duo
+  - no-face
+  - forward-facing
+  - creature-ally
+  - lorcana-ruby
 reference_image: cards/_images/lorcana/reign-of-jafar/131-204-cri-kee-part-of-the-team.jpg
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set8/131_30cef4186fdcffcc9778e8e54379c6c2f12c7f2e.jpg
 art_match_confidence: high
 needs_manual_review: false

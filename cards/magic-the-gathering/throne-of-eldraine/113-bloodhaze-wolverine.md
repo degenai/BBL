@@ -1,6 +1,6 @@
 ---
 name: Bloodhaze Wolverine
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 113
 rarity: C
@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["wolverine", "fire", "beast", "forest", "animal", "fury", "predator", "wild", "flame", "snarl"]
-tags_filter: ["solo", "mid-shot", "action", "red-magic", "creature", "forward-facing"]
+tags_hub:
+  - wolverine
+  - fire
+  - beast
+  - forest
+  - animal
+  - fury
+  - predator
+  - wild
+  - flame
+  - snarl
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - red-magic
+  - creature
+  - forward-facing
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/113-bloodhaze-wolverine.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/3/d/3d6c0bc1-cb07-4009-83b1-1122381cf9c4.png?1572490287
 art_match_confidence: high
 needs_manual_review: false

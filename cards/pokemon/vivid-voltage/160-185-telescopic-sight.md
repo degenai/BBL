@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["gadget", "tool", "optics", "lens", "precision", "surveillance", "targeting", "colorful", "toy-like", "technology"]
-tags_filter: ["solo", "close-up", "no-face", "item-card", "trainer-card", "portrait-mode"]
+tags_hub:
+  - gadget
+  - tool
+  - optics
+  - lens
+  - precision
+  - surveillance
+  - targeting
+  - colorful
+  - toy-like
+  - technology
+tags_filter:
+  - solo
+  - close-up
+  - no-face
+  - item-card
+  - trainer-card
+  - portrait-mode
 reference_image: cards/_images/pokemon/vivid-voltage/160-185-telescopic-sight.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh4/160_hires.png
 art_match_confidence: high
 needs_manual_review: false

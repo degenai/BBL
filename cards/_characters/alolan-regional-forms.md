@@ -1,7 +1,13 @@
 ---
 type: character
 name: Alolan regional forms
-aliases: [alolan-regional-forms, alolan-forms, alolan-variants, alola-regional-forms, sm-regional-forms, gen-vii-regional-forms]
+aliases:
+  - alolan-regional-forms
+  - alolan-forms
+  - alolan-variants
+  - alola-regional-forms
+  - sm-regional-forms
+  - gen-vii-regional-forms
 universe: Pokemon / Alola (Pokemon Sun & Moon, Game Freak / Creatures Inc. / Nintendo, 2016; expanded via Pokemon Ultra Sun & Ultra Moon, November 2017)
 faction: ~
 species: designer-coordinated cohort of Alola-region variant forms across 18 Kantonian Pokemon species (base forms plus evolutions); regional-type-shift mechanic with shared in-canon adaptation lore (Alola climate, ecological isolation, dietary divergence, predator-prey rebalancing)
@@ -14,7 +20,9 @@ appears_on:
   - pokemon/lost-thunder/123-alolan-dugtrio
 related_hubs: []
 related_symbols: []
-related_characters: [alola-elite-four, galarian-regional-forms]
+related_characters:
+  - alola-elite-four
+  - galarian-regional-forms
 ip_resolution_for: alolan-regional-forms
 ---
 # Alolan regional forms

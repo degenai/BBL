@@ -10,27 +10,45 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["dance", "psychic", "grace", "ballet", "nature", "garden", "white", "green", "elegant", "fairy"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "psychic-type", "fairy-type", "creature-card", "no-face"]
+tags_hub:
+  - dance
+  - psychic
+  - grace
+  - ballet
+  - nature
+  - garden
+  - white
+  - green
+  - elegant
+  - fairy
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - psychic-type
+  - fairy-type
+  - creature-card
+  - no-face
 reference_image: cards/_images/pokemon/lost-thunder/140-kirlia.png
 average_cost_paid: 0
-market_price: 0.97
-market_price_as_of: 2026-05-14
+market_price: 0.95
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm8/140_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Kouki Saitou
 flavor_text: It has a psychic power that enabled it to distort the space around it and see into the future.
-oracle_text: Beat (ColorlessColorless) 20\nDisarming Voice (FairyColorlessColorless) 50: Your opponent's Active Pokémon is now Confused.
+oracle_text: "Beat (ColorlessColorless) 20\\nDisarming Voice (FairyColorlessColorless) 50: Your opponent's Active Pokémon is now Confused."
 mood: peaceful
 time_of_day: day
 setting: other
 suspected_ip: Kirlia (Pokémon)
 ip_confidence: high
 ip_verified: false
-characters: ["ralts-line"]
+characters:
+  - ralts-line
 ---
 
 # Kirlia (Lost Thunder)

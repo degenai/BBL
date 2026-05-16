@@ -1,6 +1,6 @@
 ---
 name: Mob
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons
 collector_number: 97
 rarity: C
@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["mob", "wolf", "fire", "pitchfork", "collective-violence", "cornered", "persecution", "night", "danger"]
-tags_filter: ["crowd", "mid-shot", "narrative-mode", "forward-facing", "white-magic", "instant", "convoke"]
+tags_hub:
+  - mob
+  - wolf
+  - fire
+  - pitchfork
+  - collective-violence
+  - cornered
+  - persecution
+  - night
+  - danger
+tags_filter:
+  - crowd
+  - mid-shot
+  - narrative-mode
+  - forward-facing
+  - white-magic
+  - instant
+  - convoke
 reference_image: cards/_images/magic-the-gathering/modern-horizons/97-mob.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/3/c/3c216e13-3779-4734-b481-9aad7aba9925.png?1562201673
 art_match_confidence: high
 needs_manual_review: false

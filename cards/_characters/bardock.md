@@ -1,7 +1,15 @@
 ---
 type: character
 name: Bardock
-aliases: [bardock, burdock, xeno-bardock, masked-saiyan, time-breaker-bardock, time-patrol-bardock, bardock-of-planet-vegeta, low-class-saiyan-bardock]
+aliases:
+  - bardock
+  - burdock
+  - xeno-bardock
+  - masked-saiyan
+  - time-breaker-bardock
+  - time-patrol-bardock
+  - bardock-of-planet-vegeta
+  - low-class-saiyan-bardock
 universe: "Dragon Ball franchise (Akira Toriyama, Shueisha manga 1984-1995; Toei Animation anime adaptations 1986-present); Bardock is introduced into canon via the Toei Animation TV special *Dragon Ball Z: Bardock — The Father of Goku* (1990, written by Takao Koyama, directed by Mitsuo Hashimoto), retroactively integrated into Toriyama's manga canon via *Dragon Ball Minus* (Toriyama, 2014) and *Dragon Ball Super: Broly* (Toei Animation film, 2018); the Time-Patrol-rescued *Xeno Bardock / Masked Saiyan* continuity is established via *Dragon Ball Online* (NTL / Bandai Namco, 2010), *Dragon Ball Heroes* (Bandai arcade card game, 2010-present), and *Dragon Ball Xenoverse 2* (Bandai Namco / Dimps, 2016)"
 faction: "Saiyan race (low-class warrior caste; Frieza-Force-aligned planet-clearing mercenary cohort under the Saiyan-Frieza-Force occupation-mode of Planet Vegeta); Bardock's combat unit is canonically the four-Saiyan strike team Bardock, Tora, Fasha, Borgos, and Shugesh per *Dragon Ball Z: Bardock — The Father of Goku* (1990); Xeno Bardock continuity reassigns him as a Time Breaker captive under Towa's mask before liberation, after which he aligns with the Time Patrol per *Dragon Ball Heroes* and *Dragon Ball Xenoverse 2*"
 species: "Saiyan (full-blooded; canonical low-class warrior; mate of Gine, father of Raditz and Kakarot/Son Goku; canonical visual signature is the red-headband forehead-bound across a wild-spiky-black-hair head, the canonical scarred-left-cheek combat-injury marker, the standard low-class Saiyan dark-bodysuit-and-armor uniform, and the canonical Saiyan-near-Goku-faceprint that the Toei design team explicitly built as the *Goku-with-history-and-a-scar* visual register per the 1990 TV special's character-design notes)"
@@ -13,10 +21,17 @@ appears_on:
   - dragon-ball-super/colossal-warfare/bt4-117-time-trauma-masked-saiyan
   - dragon-ball-super/cross-worlds/sd3-04-encroaching-threat-masked-saiyan
   - dragon-ball-super/promotion-cards/sd3-01-the-masked-saiyan-bardock-unbound-by-darkness-2018-big-card-pack
-related_hubs: [labor, rebellion]
+related_hubs: "[labor, rebellion]"
 related_symbols: []
-related_characters: [saiyan, son-goku, xenoverse-villains]
-ip_resolution_for: [Bardock, Xeno Bardock, Masked Saiyan, Time Breaker Bardock]
+related_characters:
+  - saiyan
+  - son-goku
+  - xenoverse-villains
+ip_resolution_for:
+  - Bardock
+  - Xeno Bardock
+  - Masked Saiyan
+  - Time Breaker Bardock
 ---
 
 # Bardock

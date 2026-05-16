@@ -1,6 +1,6 @@
 ---
 name: Meteorite
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 233
 rarity: U
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["meteorite", "impact", "stone", "crater", "cosmic", "fire", "embers", "destruction", "aftermath", "fallen-star", "sky-rock", "wasteland"]
-tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "artifact", "colorless", "object-study"]
+tags_hub:
+  - meteorite
+  - impact
+  - stone
+  - crater
+  - cosmic
+  - fire
+  - embers
+  - destruction
+  - aftermath
+  - fallen-star
+  - sky-rock
+  - wasteland
+tags_filter:
+  - no-figures
+  - wide-shot
+  - scene-mode
+  - no-face
+  - artifact
+  - colorless
+  - object-study
 reference_image: cards/_images/magic-the-gathering/core-set-2021/233-meteorite.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -29,7 +48,7 @@ artist: Scott Murphy
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/233-meteorite--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/c/ec3a2c95-4e7a-43c5-90bd-6f1de7c82a5c.jpg?1594737513
 flavor_text: \"And if I'm lying,\" he began . . .
-oracle_text: When this artifact enters, it deals 2 damage to any target.\n{T}: Add one mana of any color.
+oracle_text: "When this artifact enters, it deals 2 damage to any target.\\n{T}: Add one mana of any color."
 ---
 
 # Meteorite (Core Set 2021)

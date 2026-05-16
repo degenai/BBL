@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["ghost", "drone", "technology", "electricity", "floating", "machine", "spirit", "possession", "gadget", "glow", "playful", "rotor"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "colorless-magic", "uncommon", "trainer-card", "item-card"]
+tags_hub:
+  - ghost
+  - drone
+  - technology
+  - electricity
+  - floating
+  - machine
+  - spirit
+  - possession
+  - gadget
+  - glow
+  - playful
+  - rotor
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - colorless-magic
+  - uncommon
+  - trainer-card
+  - item-card
 reference_image: cards/_images/pokemon/vivid-voltage/151-185-drone-rotom.png
 average_cost_paid: 0
-market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price: 0.08
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh4/151_hires.png
 art_match_confidence: high
 needs_manual_review: false

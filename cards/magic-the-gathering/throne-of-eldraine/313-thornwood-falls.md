@@ -1,6 +1,6 @@
 ---
 name: Thornwood Falls
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 313
 rarity: C
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["waterfall", "forest", "tranquil", "lush", "cozy", "nature", "moss", "stream", "wild", "verdant", "sunlight", "green", "wilderness", "calm", "fern", "water"]
-tags_filter: ["wide-shot", "scene-mode", "no-figure", "land", "green-mono", "common"]
+tags_hub:
+  - waterfall
+  - forest
+  - tranquil
+  - lush
+  - cozy
+  - nature
+  - moss
+  - stream
+  - wild
+  - verdant
+  - sunlight
+  - green
+  - wilderness
+  - calm
+  - fern
+  - water
+tags_filter:
+  - wide-shot
+  - scene-mode
+  - no-figure
+  - land
+  - green-mono
+  - common
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/313-thornwood-falls.png
 average_cost_paid: 0
 market_price: 0.23
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/f/5/f5159db6-a87f-40eb-8c5c-821dfb67ff6d.png?1593132275
 art_match_confidence: high
 needs_manual_review: false
@@ -27,7 +49,7 @@ setting: forest
 artist: Ravenna Tran
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/313-thornwood-falls--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/5/f5159db6-a87f-40eb-8c5c-821dfb67ff6d.jpg?1593132275
-oracle_text: This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {G} or {U}.
+oracle_text: "This land enters tapped.\\nWhen this land enters, you gain 1 life.\\n{T}: Add {G} or {U}."
 ---
 
 # Thornwood Falls (Throne of Eldraine)

@@ -1,6 +1,6 @@
 ---
 name: Pitiless Pontiff
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Ravnica Allegiance
 collector_number: 194
 rarity: U
@@ -10,16 +10,42 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-symbols: ["orzhov-signet"]
-characters: ["orzhov-syndicate"]
-tags_hub: ["vampire", "cleric", "priest", "ritual", "sacrifice", "blade", "dagger", "robed-figure", "gothic", "cathedral", "cult", "death-cult", "ceremony", "villain"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "portrait-mode", "no-background-figure", "creature-vampire", "creature-cleric", "multicolor-white-black", "white-magic", "black-magic"]
+symbols:
+  - orzhov-signet
+characters:
+  - orzhov-syndicate
+tags_hub:
+  - vampire
+  - cleric
+  - priest
+  - ritual
+  - sacrifice
+  - blade
+  - dagger
+  - robed-figure
+  - gothic
+  - cathedral
+  - cult
+  - death-cult
+  - ceremony
+  - villain
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - portrait-mode
+  - no-background-figure
+  - creature-vampire
+  - creature-cleric
+  - multicolor-white-black
+  - white-magic
+  - black-magic
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/194-pitiless-pontiff.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-14
+market_price: 0.19
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -31,7 +57,7 @@ artist: Yongjae Choi
 art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/194-pitiless-pontiff--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/8/98f66c03-cf79-4de0-be55-b921cbdc5038.jpg?1584831707
 flavor_text: \"Pay in gold. Pay in blood. Pay with the servitude of your spirit kin. But pay you must.\"
-oracle_text: {1}, Sacrifice another creature: This creature gains deathtouch and indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)
+oracle_text: "{1}, Sacrifice another creature: This creature gains deathtouch and indestructible until end of turn. (Damage and effects that say \\\"destroy\\\" don't destroy it.)"
 ---
 
 # Pitiless Pontiff (Ravnica Allegiance)

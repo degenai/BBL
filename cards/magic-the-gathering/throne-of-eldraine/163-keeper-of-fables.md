@@ -1,23 +1,45 @@
 ---
 name: Keeper of Fables
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 163
 rarity: U
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 3
+quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["cat", "lion", "forest", "regal", "fae-court", "fairy-tale", "lore-keeper", "ancient", "guardian", "moss", "verdant", "feline", "storyteller", "wild", "majestic-beast"]
-tags_filter: ["mid-shot", "portrait-mode", "solo", "forward-facing", "creature-cat", "green-mono", "uncommon"]
+tags_hub:
+  - cat
+  - lion
+  - forest
+  - regal
+  - fae-court
+  - fairy-tale
+  - lore-keeper
+  - ancient
+  - guardian
+  - moss
+  - verdant
+  - feline
+  - storyteller
+  - wild
+  - majestic-beast
+tags_filter:
+  - mid-shot
+  - portrait-mode
+  - solo
+  - forward-facing
+  - creature-cat
+  - green-mono
+  - uncommon
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/163-keeper-of-fables.png
 average_cost_paid: 0
-market_price: 0.36
-market_price_as_of: 2026-05-14
+market_price: 0.35
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/6/7/6754d6cf-3506-48b5-a0ef-8a90b8dd2701.png?1572490595
 art_match_confidence: high
 needs_manual_review: false

@@ -1,6 +1,6 @@
 ---
 name: It That Gets Left Hanging
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Unstable
 collector_number: 89
 rarity: C
@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["eldritch", "horror", "lightbulb", "fire", "creature", "comedy", "grotesque", "reaching", "social-anxiety", "parody", "weird"]
-tags_filter: ["duo", "close-up", "red-magic", "creature-eldrazi", "portrait-mode"]
+tags_hub:
+  - eldritch
+  - horror
+  - lightbulb
+  - fire
+  - creature
+  - comedy
+  - grotesque
+  - reaching
+  - social-anxiety
+  - parody
+  - weird
+tags_filter:
+  - duo
+  - close-up
+  - red-magic
+  - creature-eldrazi
+  - portrait-mode
 reference_image: cards/_images/magic-the-gathering/unstable/89-it-that-gets-left-hanging.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/c/1/c1131b87-8e59-47e7-a760-848a455c82b0.png?1562935830
 art_match_confidence: high
 needs_manual_review: false

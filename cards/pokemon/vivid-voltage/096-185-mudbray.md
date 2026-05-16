@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["donkey", "mud", "labor", "draft-animal", "farm", "earth", "strength", "working-animal", "beast-of-burden", "rolling", "stoic", "nature", "brown"]
-tags_filter: ["solo", "three-quarter", "mid-shot", "creature-card", "pokemon-basic", "fighting-type", "action-pose"]
+tags_hub:
+  - donkey
+  - mud
+  - labor
+  - draft-animal
+  - farm
+  - earth
+  - strength
+  - working-animal
+  - beast-of-burden
+  - rolling
+  - stoic
+  - nature
+  - brown
+tags_filter:
+  - solo
+  - three-quarter
+  - mid-shot
+  - creature-card
+  - pokemon-basic
+  - fighting-type
+  - action-pose
 reference_image: cards/_images/pokemon/vivid-voltage/096-185-mudbray.png
 average_cost_paid: 0
-market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price: 0.04
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh4/96_hires.png
 art_match_confidence: high
 needs_manual_review: false

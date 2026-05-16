@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["villain", "leap", "fighter", "agility", "toughness", "airborne", "combatant", "mercenary", "atlantis", "action-pose"]
-tags_filter: ["solo", "mid-shot", "action", "female-figure", "faces-forward", "disney-lorcana"]
+tags_hub:
+  - villain
+  - leap
+  - fighter
+  - agility
+  - toughness
+  - airborne
+  - combatant
+  - mercenary
+  - atlantis
+  - action-pose
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - female-figure
+  - faces-forward
+  - disney-lorcana
 reference_image: cards/_images/lorcana/archazia-s-island/183-204-helga-sinclair-tough-as-nails.jpg
 average_cost_paid: 0
-market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price: 0.1
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set7/183_6a660d07903c69f781421cb27c6724a9f6995635.jpg
 art_match_confidence: high
 needs_manual_review: false
@@ -33,7 +49,7 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: other
-suspected_ip: Helga Sinclair (Atlantis: The Lost Empire)
+suspected_ip: "Helga Sinclair (Atlantis: The Lost Empire)"
 ip_confidence: high
 ip_verified: true
 ---

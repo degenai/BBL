@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["emperor", "villain", "alien", "colonial-power", "ruler", "white-armor", "galactic", "tyrant", "bio-armor", "cosmic", "empire", "genocide"]
-tags_filter: ["solo", "mid-shot", "portrait", "three-quarter", "anime", "leader-card"]
+tags_hub:
+  - emperor
+  - villain
+  - alien
+  - colonial-power
+  - ruler
+  - white-armor
+  - galactic
+  - tyrant
+  - bio-armor
+  - cosmic
+  - empire
+  - genocide
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - three-quarter
+  - anime
+  - leader-card
 reference_image: cards/_images/dragon-ball-super/galactic-battle/bt1-084-frieza-frieza-the-galactic-emperor.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/BT1-084.png
 art_match_confidence: high
 needs_manual_review: false

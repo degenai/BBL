@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["lightning", "electricity", "energy", "yellow", "symbol", "power", "storm", "classic", "iconic", "radiant"]
-tags_filter: ["no-face", "close-up", "abstract", "energy-card", "lightning-type"]
+tags_hub:
+  - lightning
+  - electricity
+  - energy
+  - yellow
+  - symbol
+  - power
+  - storm
+  - classic
+  - iconic
+  - radiant
+tags_filter:
+  - no-face
+  - close-up
+  - abstract
+  - energy-card
+  - lightning-type
 reference_image: cards/_images/pokemon/evolutions/94-108-lightning-energy.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/xy12/94_hires.png
 art_match_confidence: high
 needs_manual_review: false

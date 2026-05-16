@@ -1,23 +1,43 @@
 ---
 name: Blow Your House Down
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 114
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 3
+quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["wolf", "predator", "forest", "night", "fangs", "glowing-eyes", "fairy-tale", "big-bad-wolf", "beast", "snarl", "dark-woods", "menace"]
-tags_filter: ["solo", "mid-shot", "faces-right", "portrait-mode", "no-face-human", "creature-beast", "red-magic", "sorcery"]
+tags_hub:
+  - wolf
+  - predator
+  - forest
+  - night
+  - fangs
+  - glowing-eyes
+  - fairy-tale
+  - big-bad-wolf
+  - beast
+  - snarl
+  - dark-woods
+  - menace
+tags_filter:
+  - solo
+  - mid-shot
+  - faces-right
+  - portrait-mode
+  - no-face-human
+  - creature-beast
+  - red-magic
+  - sorcery
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/114-blow-your-house-down.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

@@ -1,6 +1,6 @@
 ---
 name: Plummet
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Magic 2014 (M14)
 collector_number: 188
 rarity: C
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["fall", "vines", "forest", "flying-creature", "nature-magic", "entrapment", "plummet", "grounded", "beast", "forest-canopy", "hunt", "sky"]
-tags_filter: ["mid-shot", "solo", "action-mode", "no-face", "green-magic", "instant"]
+tags_hub:
+  - fall
+  - vines
+  - forest
+  - flying-creature
+  - nature-magic
+  - entrapment
+  - plummet
+  - grounded
+  - beast
+  - forest-canopy
+  - hunt
+  - sky
+tags_filter:
+  - mid-shot
+  - solo
+  - action-mode
+  - no-face
+  - green-magic
+  - instant
 reference_image: cards/_images/magic-the-gathering/magic-2014-m14/188-plummet.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/7/c/7cbac2e5-cc3a-4be1-9891-6098b1066de8.png?1562831439
 art_match_confidence: high
 needs_manual_review: false

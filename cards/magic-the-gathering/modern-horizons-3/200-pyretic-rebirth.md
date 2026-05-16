@@ -1,6 +1,6 @@
 ---
 name: Pyretic Rebirth
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 200
 rarity: U
@@ -13,14 +13,32 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["rebirth", "fire", "dragon", "ascension", "wings", "phoenix", "resurrection", "darigaaz", "inferno", "scale", "skeleton", "transcendence"]
-tags_filter: ["duo", "wide", "forward-facing", "action", "red-magic", "instant"]
+tags_hub:
+  - rebirth
+  - fire
+  - dragon
+  - ascension
+  - wings
+  - phoenix
+  - resurrection
+  - darigaaz
+  - inferno
+  - scale
+  - skeleton
+  - transcendence
+tags_filter:
+  - duo
+  - wide
+  - forward-facing
+  - action
+  - red-magic
+  - instant
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/200-pyretic-rebirth.png
 average_cost_paid: 0
-market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price: 0.14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/5/9/5968f641-48b5-4b97-8072-ddd8073cd4d7.png?1717012814
 art_match_confidence: high
 needs_manual_review: false

@@ -1,6 +1,6 @@
 ---
 name: Slick Imitator
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 62
 rarity: U
@@ -10,21 +10,44 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["shapeshifter", "mimicry", "ooze", "shark-folk", "trickster", "disguise", "comic-relief", "fire", "leather-jacket", "gang", "racing"]
-tags_filter: ["group", "3-figures-plus", "mid-shot", "forward-facing", "scene-mode", "no-face-human", "creature-shapeshifter", "creature-ooze", "blue-magic", "copy-spell", "sacrifice-outlet", "start-your-engines"]
+tags_hub:
+  - shapeshifter
+  - mimicry
+  - ooze
+  - shark-folk
+  - trickster
+  - disguise
+  - comic-relief
+  - fire
+  - leather-jacket
+  - gang
+  - racing
+tags_filter:
+  - group
+  - 3-figures-plus
+  - mid-shot
+  - forward-facing
+  - scene-mode
+  - no-face-human
+  - creature-shapeshifter
+  - creature-ooze
+  - blue-magic
+  - copy-spell
+  - sacrifice-outlet
+  - start-your-engines
 reference_image: cards/_images/magic-the-gathering/aetherdrift/62-slick-imitator.png
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price: 0.19
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/3/e/3e86ef50-4939-4e7c-853d-438f0f3e0411.png?1738356253
 art_match_confidence: high
 needs_manual_review: false
 artist: Xabi Gaztelua
 art_crop_image: cards/_images/magic-the-gathering/aetherdrift/62-slick-imitator--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/e/3e86ef50-4939-4e7c-853d-438f0f3e0411.jpg?1738356253
-oracle_text: Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\nMax speed — {1}, Sacrifice this creature: Copy target spell you control. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)
+oracle_text: "Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\\nMax speed — {1}, Sacrifice this creature: Copy target spell you control. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)"
 mood: comedic
 time_of_day: indeterminate
 setting: indoor

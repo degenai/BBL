@@ -1,7 +1,15 @@
 ---
 type: character
 name: Galar Starters trio (Grookey / Scorbunny / Sobble first-partner cohort)
-aliases: [galar-starters-trio, galar-starters, galar-first-partners, galar-starter-cohort, gen-viii-starters, sword-and-shield-starters, grookey-scorbunny-sobble-line, rillaboom-cinderace-inteleon-line]
+aliases:
+  - galar-starters-trio
+  - galar-starters
+  - galar-first-partners
+  - galar-starter-cohort
+  - gen-viii-starters
+  - sword-and-shield-starters
+  - grookey-scorbunny-sobble-line
+  - rillaboom-cinderace-inteleon-line
 universe: Pokemon / Galar (Generation VIII, Pokemon Sword & Shield, Game Freak, 2019)
 faction: ~
 species: designer-coordinated trio of three first-partner Pokemon species per the standard Pokemon starter pattern (Grass / Fire / Water), each with a three-stage evolution line; introduced together as the Galar region's player-choice first-partners in Pokemon Sword & Shield (November 2019)
@@ -14,7 +22,9 @@ appears_on:
   - pokemon/chilling-reign/042-198-drizzile
 related_hubs: []
 related_symbols: []
-related_characters: [galarian-regional-forms, galar-gym-challenge]
+related_characters:
+  - galarian-regional-forms
+  - galar-gym-challenge
 ---
 
 # Galar Starters trio (Grookey / Scorbunny / Sobble first-partner cohort)

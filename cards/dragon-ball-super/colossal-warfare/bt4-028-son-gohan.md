@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["super-saiyan", "saiyan", "gohan-line", "golden-hair", "transformation", "power", "fighter", "warrior", "hero", "half-saiyan", "ki-aura"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "action", "male-figure", "red-magic", "battle-unit"]
+tags_hub:
+  - super-saiyan
+  - saiyan
+  - gohan-line
+  - golden-hair
+  - transformation
+  - power
+  - fighter
+  - warrior
+  - hero
+  - half-saiyan
+  - ki-aura
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - action
+  - male-figure
+  - red-magic
+  - battle-unit
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-028-son-gohan.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401027516/36C0C9BB7663F4CA0644C04F23F6AC7D70E13764/
 image_width: 624
 image_height: 871
@@ -30,7 +48,8 @@ setting: other
 suspected_ip: Son Gohan (Dragon Ball)
 ip_confidence: high
 ip_verified: true
-characters: ["son-gohan"]
+characters:
+  - son-gohan
 ---
 
 # Son Gohan (Colossal Warfare)

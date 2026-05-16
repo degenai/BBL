@@ -1,7 +1,14 @@
 ---
 type: character
 name: Team Skull
-aliases: [team-skull, skull, team-skull-alola, the-skulls, skull-grunts, skull-syndicate, alola-team-skull]
+aliases:
+  - team-skull
+  - skull
+  - team-skull-alola
+  - the-skulls
+  - skull-grunts
+  - skull-syndicate
+  - alola-team-skull
 universe: Pokemon / Alola (Pokemon Sun and Moon — Game Freak / Creatures Inc. / Nintendo, 2016; Pokemon Ultra Sun and Ultra Moon, 2017; expanded across Alola-era anime, Pokemon Masters EX, Sun & Moon TCG block)
 faction: Team Skull (Alola-region villainous team, headquartered in the abandoned Po Town settlement on Ula'ula Island; led by Boss Guzma with sole Admin Plumeria as second-in-command; rank-and-file Skull Grunts; canonically the Pokemon franchise's seventh main-series Villainous Team and the first whose membership is structurally framed as Pokemon League rejects rather than ideologues or organized criminals)
 species: faction-collective (humans — Guzma as Boss, Plumeria as sole Admin, rank-and-file Skull Grunts; partnered Pokemon — Guzma's signature Golisopod and his Masquerain / Pinsir / Ariados Bug-type roster, Plumeria's Poison-type Salazzle / Toxapex roster, the Grunts' Zubat / Salandit / Drowzee / Yungoos low-tier-Pokemon staples; the gang's iconography includes black-and-white striped clothing, skull-and-crossbones logo, and the post-game Aether Foundation antagonist alliance)
@@ -12,7 +19,10 @@ appears_on:
   - pokemon/cosmic-eclipse/193-236-guzma-hala
 related_hubs: []
 related_symbols: []
-related_characters: [team-rocket, alola-kahunas, alola-elite-four]
+related_characters:
+  - team-rocket
+  - alola-kahunas
+  - alola-elite-four
 ip_resolution_for: team-skull
 ---
 

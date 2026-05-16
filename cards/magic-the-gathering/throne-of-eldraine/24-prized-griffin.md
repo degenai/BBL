@@ -1,23 +1,46 @@
 ---
 name: Prized Griffin
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 24
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["griffin", "wings", "flight", "feathers", "talons", "sky", "hunter", "predator", "fairy-tale", "heraldic-beast", "autumn", "noble-beast"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "three-quarter", "no-figure", "creature-griffin", "white-magic", "flying", "scene-mode", "daytime"]
+tags_hub:
+  - griffin
+  - wings
+  - flight
+  - feathers
+  - talons
+  - sky
+  - hunter
+  - predator
+  - fairy-tale
+  - heraldic-beast
+  - autumn
+  - noble-beast
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - three-quarter
+  - no-figure
+  - creature-griffin
+  - white-magic
+  - flying
+  - scene-mode
+  - daytime
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/24-prized-griffin.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'

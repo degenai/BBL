@@ -1,7 +1,12 @@
 ---
 type: symbol
 name: Disguise (mechanic)
-aliases: [disguise, disguise-mechanic, disguise-keyword, face-down-disguise, ward-2-face-down]
+aliases:
+  - disguise
+  - disguise-mechanic
+  - disguise-keyword
+  - face-down-disguise
+  - ward-2-face-down
 faction: ~
 universe: "Magic: The Gathering / Ravnica (introduced in Murders at Karlov Manor, 2024)"
 canonical_source: "Wizards of the Coast — Mark Rosewater's MKM mechanics preview articles (2024-01); MTG Wiki — Disguise; Scryfall — keyword:disguise mechanic page; Murders at Karlov Manor Release Notes (2024-02-01)"
@@ -30,7 +35,8 @@ appears_on:
   - magic-the-gathering/murders-at-karlov-manor/351-culvert-ambusher-showcase
   - magic-the-gathering/murders-at-karlov-manor/138-offender-at-large
 related_hubs: []
-related_characters: [agency]
+related_characters:
+  - agency
 ---
 
 # Disguise (mechanic)

@@ -1,7 +1,16 @@
 ---
 type: character
 name: Namekian
-aliases: [namekian, namekians, namek-race, namekseijin, nameccian, dragon-clan, warrior-type-namekian, demon-clan-namekian, king-piccolo-lineage]
+aliases:
+  - namekian
+  - namekians
+  - namek-race
+  - namekseijin
+  - nameccian
+  - dragon-clan
+  - warrior-type-namekian
+  - demon-clan-namekian
+  - king-piccolo-lineage
 universe: "Dragon Ball franchise (Akira Toriyama, Shueisha manga 1984-1995; Toei Animation anime adaptations 1986-present); the Namekian race is introduced in canon via King Piccolo (Dragon Ball, 1976 publication / 1986 anime) as a Demon Clan member, then retconned as a single-race-with-two-clans (Dragon Clan and Demon Clan) when the homeworld Planet Namek is revealed during the Frieza Saga (Dragon Ball Z, 1989-1991)"
 faction: "Namekian race (Planet Namek native species, plant-derived alien humanoids with regenerative biology, asexual reproduction via spat eggs, and a canonical clan-split between Dragon Clan (healer-creator caste, builders of the Namekian Dragon Balls) and Demon Clan / Warrior-Type (combat caste, King Piccolo's lineage); per Dragon Ball Wiki the race's most prominent canonical members across the franchise are Grand Elder Guru, Kami, Piccolo, Nail, Dende, Lord Slug, King Piccolo, and the Universe 6 fusion-Namekians Saonel and Pirina)"
 species: "Namekian (Akira Toriyama-designed plant-derived alien race — green skin, pointed ears, antenna-like cranial ridges on warrior-types and elongated bald crania on elder-types, capable of asexual reproduction by spitting eggs, possessing innate regenerative biology that can regrow severed limbs, canonically fluid in fusion-mechanics where two Namekians can merge permanently into a single stronger individual)"
@@ -24,7 +33,13 @@ appears_on:
   - dragon-ball-super/world-martial-arts-tournament/tb2-046-trusting-relationship-kami
 related_hubs: []
 related_symbols: []
-related_characters: [son-goku, trunks, wrath-of-the-dragon-saga, dark-vassal-trio, universe-6-tournament-cohort, son-gohan]
+related_characters:
+  - son-goku
+  - trunks
+  - wrath-of-the-dragon-saga
+  - dark-vassal-trio
+  - universe-6-tournament-cohort
+  - son-gohan
 ip_resolution_for: namekian
 ---
 

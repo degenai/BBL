@@ -1,6 +1,6 @@
 ---
 name: Gingerbrute
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 219
 rarity: C
@@ -10,14 +10,38 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["gingerbread", "food", "baking", "cookies", "candy", "kitchen", "fairy-tale", "storybook", "golem", "animated-object", "running", "confection", "sweets", "comic-relief"]
-tags_filter: ["solo", "mid-shot", "action-pose", "three-quarter-facing", "scene-mode", "no-face-human", "artifact-creature", "food-golem", "colorless", "haste"]
+tags_hub:
+  - gingerbread
+  - food
+  - baking
+  - cookies
+  - candy
+  - kitchen
+  - fairy-tale
+  - storybook
+  - golem
+  - animated-object
+  - running
+  - confection
+  - sweets
+  - comic-relief
+tags_filter:
+  - solo
+  - mid-shot
+  - action-pose
+  - three-quarter-facing
+  - scene-mode
+  - no-face-human
+  - artifact-creature
+  - food-golem
+  - colorless
+  - haste
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/219-gingerbrute.png
 average_cost_paid: 0
-market_price: 0.32
-market_price_as_of: 2026-05-14
+market_price: 0.3
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +53,7 @@ artist: Vincent Proce
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/219-gingerbrute--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/5/f55fe038-c903-4d92-b689-72dd6d041a91.jpg?1572490972
 flavor_text: The unlabeled vial was not vanilla extract after all.
-oracle_text: Haste (This creature can attack and {T} as soon as it comes under your control.)\n{1}: This creature can't be blocked this turn except by creatures with haste.\n{2}, {T}, Sacrifice this creature: You gain 3 life.
+oracle_text: "Haste (This creature can attack and {T} as soon as it comes under your control.)\\n{1}: This creature can't be blocked this turn except by creatures with haste.\\n{2}, {T}, Sacrifice this creature: You gain 3 life."
 ---
 
 # Gingerbrute (Throne of Eldraine)

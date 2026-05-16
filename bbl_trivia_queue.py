@@ -52,9 +52,11 @@ def find_trivia_ready(cards_dir: str, game_filter: str | None = None) -> list[st
                 body = f.read()
         except OSError:
             continue
-        # Vision-done check: tags_hub line has content inside the brackets
-        m = re.search(r"tags_hub:\s*\[([^\]]*)\]", body)
-        if not m or not m.group(1).strip():
+        # Vision-done check: tags_hub populated (inline OR block form, wave 92)
+        m_inline = re.search(r"tags_hub:\s*\[([^\]]*)\]", body)
+        m_block = re.search(r"^tags_hub:\s*\n\s+-\s+\S+", body, re.MULTILINE)
+        inline_ok = m_inline and m_inline.group(1).strip()
+        if not (inline_ok or m_block):
             continue
         # Trivia-absent check
         if "## Trivia" in body:

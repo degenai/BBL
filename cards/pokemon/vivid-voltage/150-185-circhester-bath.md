@@ -13,14 +13,30 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["bath", "hot-spring", "water", "healing", "calm", "spa", "galar", "indoor", "restoration", "blue", "peace"]
-tags_filter: ["no-figure", "wide-shot", "scene-mode", "trainer-stadium", "colorless-energy"]
+tags_hub:
+  - bath
+  - hot-spring
+  - water
+  - healing
+  - calm
+  - spa
+  - galar
+  - indoor
+  - restoration
+  - blue
+  - peace
+tags_filter:
+  - no-figure
+  - wide-shot
+  - scene-mode
+  - trainer-stadium
+  - colorless-energy
 reference_image: cards/_images/pokemon/vivid-voltage/150-185-circhester-bath.png
 average_cost_paid: 0
-market_price: 0.03
-market_price_as_of: 2026-05-14
+market_price: 0.05
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh4/150_hires.png
 art_match_confidence: high
 needs_manual_review: false

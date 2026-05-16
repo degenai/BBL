@@ -1,6 +1,6 @@
 ---
 name: Bone Pit Brute
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 132
 rarity: C
@@ -10,14 +10,38 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["cyclops", "comic-relief", "menace", "monster", "desert", "crew", "skull", "bones", "weapon", "muscle", "humor", "club", "gang", "brute", "canyon"]
-tags_filter: ["mid-shot", "narrative-mode", "group", "forward-facing", "creature-cyclops", "red-mono", "male-figure", "common", "red-magic"]
+tags_hub:
+  - cyclops
+  - comic-relief
+  - menace
+  - monster
+  - desert
+  - crew
+  - skull
+  - bones
+  - weapon
+  - muscle
+  - humor
+  - club
+  - gang
+  - brute
+  - canyon
+tags_filter:
+  - mid-shot
+  - narrative-mode
+  - group
+  - forward-facing
+  - creature-cyclops
+  - red-mono
+  - male-figure
+  - common
+  - red-magic
 reference_image: cards/_images/magic-the-gathering/core-set-2021/132-bone-pit-brute.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/6/0/6075e0a3-a0ab-4a11-8ad2-7dabb071d309.png?1594736498
 art_match_confidence: high
 needs_manual_review: false

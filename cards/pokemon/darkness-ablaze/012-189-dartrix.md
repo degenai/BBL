@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["owl", "forest", "bird", "perching", "nocturnal", "woodland", "green", "feathers", "creature", "nature"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "grass-type", "pokemon"]
+tags_hub:
+  - owl
+  - forest
+  - bird
+  - perching
+  - nocturnal
+  - woodland
+  - green
+  - feathers
+  - creature
+  - nature
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - grass-type
+  - pokemon
 reference_image: cards/_images/pokemon/darkness-ablaze/012-189-dartrix.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/12_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +46,8 @@ setting: forest
 suspected_ip: Dartrix
 ip_confidence: high
 ip_verified: false
-characters: ["rowlet-line"]
+characters:
+  - rowlet-line
 ---
 
 # Dartrix (Darkness Ablaze)

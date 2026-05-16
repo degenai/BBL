@@ -1,6 +1,6 @@
 ---
 name: Target Minotaur (C)
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Unstable
 collector_number: 98
 rarity: C
@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["minotaur", "ice", "winter", "forest", "birds", "comedy", "puppet", "giant", "manipulation", "helplessness", "cold"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "red-magic", "creature-minotaur", "scene-mode"]
+tags_hub:
+  - minotaur
+  - ice
+  - winter
+  - forest
+  - birds
+  - comedy
+  - puppet
+  - giant
+  - manipulation
+  - helplessness
+  - cold
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - red-magic
+  - creature-minotaur
+  - scene-mode
 reference_image: cards/_images/magic-the-gathering/unstable/98-target-minotaur-c.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/a/a/aa3093a4-e115-4d88-b7c0-33dee8a11142.png?1562930901
 art_match_confidence: high
 needs_manual_review: false

@@ -64,8 +64,11 @@ def is_ready_for_vision(card_path: Path) -> tuple[bool, int]:
         return (False, 0)
 
     hub = fm.get("tags_hub", "").strip()
-    # tags_hub is a YAML inline list. Empty = `[]`.
+    # tags_hub is a YAML list — inline `[a, b]` or block form (wave 92).
     if hub and hub not in ("[]", ""):
+        return (False, 0)
+    # Block-form populated check: `tags_hub:\n  - foo`
+    if re.search(r"^tags_hub:\s*\n\s+-\s+\S+", text, re.MULTILINE):
         return (False, 0)
 
     if fm.get("needs_manual_review", "").lower() == "true":

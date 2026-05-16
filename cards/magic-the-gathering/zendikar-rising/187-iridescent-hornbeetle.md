@@ -1,6 +1,6 @@
 ---
 name: Iridescent Hornbeetle
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Zendikar Rising
 collector_number: 187
 rarity: U
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["beetle", "insect", "bug", "horn", "iridescence", "jungle", "forest", "wildlife", "nature-study", "rainforest", "small-creature", "shimmer"]
-tags_filter: ["solo", "close-up", "portrait-mode", "faces-left", "no-face", "green-magic", "creature-insect", "token-generator", "counters-matter"]
+tags_hub:
+  - beetle
+  - insect
+  - bug
+  - horn
+  - iridescence
+  - jungle
+  - forest
+  - wildlife
+  - nature-study
+  - rainforest
+  - small-creature
+  - shimmer
+tags_filter:
+  - solo
+  - close-up
+  - portrait-mode
+  - faces-left
+  - no-face
+  - green-magic
+  - creature-insect
+  - token-generator
+  - counters-matter
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/187-iridescent-hornbeetle.png
 average_cost_paid: 0
-market_price: 0.24
-market_price_as_of: 2026-05-14
+market_price: 0.25
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

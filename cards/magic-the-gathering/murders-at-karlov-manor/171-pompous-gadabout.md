@@ -1,6 +1,6 @@
 ---
 name: Pompous Gadabout
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 171
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["market", "fashion", "aristocrat", "city", "comedy", "pompous", "street-scene", "hat", "nobility", "charisma", "disruption"]
-tags_filter: ["solo-focus", "mid-shot", "scene-mode", "forward-facing", "creature-human", "white-magic", "crowd"]
+tags_hub:
+  - market
+  - fashion
+  - aristocrat
+  - city
+  - comedy
+  - pompous
+  - street-scene
+  - hat
+  - nobility
+  - charisma
+  - disruption
+tags_filter:
+  - solo-focus
+  - mid-shot
+  - scene-mode
+  - forward-facing
+  - creature-human
+  - white-magic
+  - crowd
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/171-pompous-gadabout.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/6/d/6d803b93-c1df-4a02-9dbb-d347c841d4d7.png?1706242068
 art_match_confidence: high
 needs_manual_review: false

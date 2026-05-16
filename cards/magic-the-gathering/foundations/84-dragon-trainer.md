@@ -1,6 +1,6 @@
 ---
 name: Dragon Trainer
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Foundations
 collector_number: 84
 rarity: U
@@ -13,14 +13,30 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["dragon", "bond", "trainer", "friendship", "taming", "companion", "joy", "wings", "beast"]
-tags_filter: ["duo", "mid-shot", "three-quarter", "female-figure", "red-magic", "creature", "portrait-mode"]
+tags_hub:
+  - dragon
+  - bond
+  - trainer
+  - friendship
+  - taming
+  - companion
+  - joy
+  - wings
+  - beast
+tags_filter:
+  - duo
+  - mid-shot
+  - three-quarter
+  - female-figure
+  - red-magic
+  - creature
+  - portrait-mode
 reference_image: cards/_images/magic-the-gathering/foundations/84-dragon-trainer.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/9/1/91bd75a1-cb54-4e38-9ce1-e8f32a73c6eb.png?1730488906
 art_match_confidence: high
 needs_manual_review: false

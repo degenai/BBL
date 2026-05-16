@@ -1,6 +1,6 @@
 ---
 name: Tarpan
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Ice Age
 collector_number: 
 rarity: C
@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["horse", "wild", "freedom", "animal", "nature", "running", "plains", "speed", "untamed", "pair"]
-tags_filter: ["duo", "mid-shot", "action", "faces-right", "green-magic", "creature-horse", "lifegain"]
+tags_hub:
+  - horse
+  - wild
+  - freedom
+  - animal
+  - nature
+  - running
+  - plains
+  - speed
+  - untamed
+  - pair
+tags_filter:
+  - duo
+  - mid-shot
+  - action
+  - faces-right
+  - green-magic
+  - creature-horse
+  - lifegain
 reference_image: cards/_images/magic-the-gathering/ice-age/267-tarpan.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/b/1/b1420ec5-367c-4514-86c5-3993bf339e37.png?1562927987
 art_match_confidence: high
 needs_manual_review: false

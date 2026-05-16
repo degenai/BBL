@@ -13,14 +13,30 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["forest", "woodland", "nature", "trees", "canopy", "wilderness", "iconic-location", "green", "journey", "kanto", "atmosphere"]
-tags_filter: ["no-face", "wide-shot", "scene-mode", "stadium-card", "landscape"]
+tags_hub:
+  - forest
+  - woodland
+  - nature
+  - trees
+  - canopy
+  - wilderness
+  - iconic-location
+  - green
+  - journey
+  - kanto
+  - atmosphere
+tags_filter:
+  - no-face
+  - wide-shot
+  - scene-mode
+  - stadium-card
+  - landscape
 reference_image: cards/_images/pokemon/team-up/156-viridian-forest.png
 average_cost_paid: 0
 market_price: 0.34
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm9/156_hires.png
 art_match_confidence: high
 needs_manual_review: false

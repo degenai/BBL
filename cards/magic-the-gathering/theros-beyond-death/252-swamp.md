@@ -1,6 +1,6 @@
 ---
 name: Swamp
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 252
 rarity: L
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["swamp", "bog", "marsh", "dead-trees", "shrine", "ruins", "underworld", "decay", "wilderness", "landscape", "fog", "twilight", "greek-myth", "theros"]
-tags_filter: ["basic-land", "swamp-land", "black-magic", "no-figure", "wide-shot", "scene-mode", "landscape-art"]
+tags_hub:
+  - swamp
+  - bog
+  - marsh
+  - dead-trees
+  - shrine
+  - ruins
+  - underworld
+  - decay
+  - wilderness
+  - landscape
+  - fog
+  - twilight
+  - greek-myth
+  - theros
+tags_filter:
+  - basic-land
+  - swamp-land
+  - black-magic
+  - no-figure
+  - wide-shot
+  - scene-mode
+  - landscape-art
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/252-swamp.png
 average_cost_paid: 0
-market_price: 1.34
-market_price_as_of: 2026-05-14
+market_price: 1.47
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,7 +49,7 @@ setting: other
 artist: Sam Burley
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/252-swamp--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/6/66bb5192-58bc-4efe-a145-2e804fd3483d.jpg?1581481510
-oracle_text: ({T}: Add {B}.)
+oracle_text: "({T}: Add {B}.)"
 ---
 
 # Swamp (Theros Beyond Death)

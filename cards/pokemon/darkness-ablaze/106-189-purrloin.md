@@ -10,20 +10,41 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["cat", "feline", "thief", "mischief", "trickster", "shadow", "prowler", "purple", "green-eyes", "rivalry", "stealth", "alley"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "single-figure", "darkness-type", "backlit", "indoor-scene", "no-human", "pokemon-stage-basic"]
+tags_hub:
+  - cat
+  - feline
+  - thief
+  - mischief
+  - trickster
+  - shadow
+  - prowler
+  - purple
+  - green-eyes
+  - rivalry
+  - stealth
+  - alley
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - single-figure
+  - darkness-type
+  - backlit
+  - indoor-scene
+  - no-human
+  - pokemon-stage-basic
 reference_image: cards/_images/pokemon/darkness-ablaze/106-189-purrloin.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price: 0.06
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/106_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: sowsow
 flavor_text: It steals things from people just to amuse itself with their frustration. A rivalry exists between this Pokémon and Nickit.
-oracle_text: Dig Claws (Darkness) 10\nFake Out (ColorlessColorless) 20: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+oracle_text: "Dig Claws (Darkness) 10\\nFake Out (ColorlessColorless) 20: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
 mood: other
 time_of_day: magic-hour
 setting: indoor

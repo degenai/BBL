@@ -1,6 +1,6 @@
 ---
 name: Vantress Paladin
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 72
 rarity: C
@@ -10,14 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["knight", "paladin", "pegasus", "winged-horse", "flight", "wings", "sky", "clouds", "armor", "cavalry", "chivalry", "mount", "fairy-tale"]
-tags_filter: ["duo", "mid-shot", "three-quarter-facing", "action-mode", "no-face", "creature-human", "creature-knight", "blue-magic", "flying", "common"]
+tags_hub:
+  - knight
+  - paladin
+  - pegasus
+  - winged-horse
+  - flight
+  - wings
+  - sky
+  - clouds
+  - armor
+  - cavalry
+  - chivalry
+  - mount
+  - fairy-tale
+tags_filter:
+  - duo
+  - mid-shot
+  - three-quarter-facing
+  - action-mode
+  - no-face
+  - creature-human
+  - creature-knight
+  - blue-magic
+  - flying
+  - common
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/72-vantress-paladin.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'

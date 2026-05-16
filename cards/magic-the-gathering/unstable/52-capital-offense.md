@@ -1,6 +1,6 @@
 ---
 name: capital offense
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Unstable
 collector_number: 52
 rarity: C
@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["goblin", "gang", "villain", "lab-coat", "trio", "comedy", "punk", "goons", "medallion", "industrial"]
-tags_filter: ["group", "mid-shot", "forward-facing", "black-magic", "instant", "portrait-mode"]
+tags_hub:
+  - goblin
+  - gang
+  - villain
+  - lab-coat
+  - trio
+  - comedy
+  - punk
+  - goons
+  - medallion
+  - industrial
+tags_filter:
+  - group
+  - mid-shot
+  - forward-facing
+  - black-magic
+  - instant
+  - portrait-mode
 reference_image: cards/_images/magic-the-gathering/unstable/52-capital-offense.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/4/a/4a8a98f2-c777-4dc0-ab68-2b1df7ce1ddd.png?1562910582
 art_match_confidence: high
 needs_manual_review: false

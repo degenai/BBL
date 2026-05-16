@@ -1,6 +1,6 @@
 ---
 name: Elvish Refueler
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 161
 rarity: U
@@ -10,15 +10,36 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-characters: ["aether-rangers"]
-tags_hub: ["racing", "pit-crew", "mechanic", "fuel", "goggles", "service-worker", "labor", "smile", "machinery", "scrollwork", "vapor", "tool-user"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "single-figure", "no-weapon", "green-magic", "creature-elf"]
+characters:
+  - aether-rangers
+tags_hub:
+  - racing
+  - pit-crew
+  - mechanic
+  - fuel
+  - goggles
+  - service-worker
+  - labor
+  - smile
+  - machinery
+  - scrollwork
+  - vapor
+  - tool-user
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - single-figure
+  - no-weapon
+  - green-magic
+  - creature-elf
 reference_image: cards/_images/magic-the-gathering/aetherdrift/161-elvish-refueler.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/2/5/25dfbcb6-9b67-4151-b10f-dde70c5fd16d.png?1738356499
 art_match_confidence: high
 needs_manual_review: false
@@ -26,7 +47,7 @@ artist: Carly Milligan
 art_crop_image: cards/_images/magic-the-gathering/aetherdrift/161-elvish-refueler--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/5/25dfbcb6-9b67-4151-b10f-dde70c5fd16d.jpg?1738356499
 flavor_text: \"Anyone running low?\"
-oracle_text: During your turn, as long as you haven't activated an exhaust ability this turn, you may activate exhaust abilities as though they haven't been activated.\nExhaust — {1}{G}: Put a +1/+1 counter on this creature. (Activate each exhaust ability only once.)
+oracle_text: "During your turn, as long as you haven't activated an exhaust ability this turn, you may activate exhaust abilities as though they haven't been activated.\\nExhaust — {1}{G}: Put a +1/+1 counter on this creature. (Activate each exhaust ability only once.)"
 mood: other
 time_of_day: indeterminate
 setting: other

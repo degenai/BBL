@@ -1,7 +1,14 @@
 ---
 type: character
 name: "Rowlet evolutionary line (Rowlet / Dartrix / Decidueye)"
-aliases: [rowlet-line, rowlet-dartrix-decidueye, alola-grass-starter-line, decidueye-line, gen-vii-grass-starter-line, rowlet-evolutionary-line, decidueye-family]
+aliases:
+  - rowlet-line
+  - rowlet-dartrix-decidueye
+  - alola-grass-starter-line
+  - decidueye-line
+  - gen-vii-grass-starter-line
+  - rowlet-evolutionary-line
+  - decidueye-family
 universe: "Pokemon / Alola (Generation VII, Pokemon Sun and Moon, Game Freak / Creatures Inc. / Nintendo, 2016; expanded across every subsequent generation as the Alola-region Grass starter line and as the franchise's barn-owl-archer species line, with Hisuian Decidueye introduced in Pokemon Legends: Arceus, 2022, gaining secondary Fighting typing in place of the line's standard Grass / Ghost endpoint)"
 faction: ~
 species: "three-stage Grass-type evolutionary line — Rowlet (base, National Pokedex no. 722, Grass/Flying) -> Dartrix (Stage 1, no. 723, Grass/Flying) -> Decidueye (Stage 2, no. 724, Grass/Ghost in Alola form, Grass/Fighting in Hisuian form); the canonical Alola-region Grass starter line and one of the three first-partner Pokemon offered to the player by Professor Kukui in Pokemon Sun and Moon (Game Freak / Creatures Inc. / Nintendo, 2016), notable as the only starter line whose secondary typing does not persist across its full evolutionary line (Grass/Flying base and middle stages, Grass/Ghost or Grass/Fighting apex — every other starter line retains its secondary typing from middle to apex)"
@@ -14,7 +21,12 @@ appears_on:
   - pokemon/darkness-ablaze/012-189-dartrix
 related_hubs: []
 related_symbols: []
-related_characters: [mareep-line, staraptor-line, charizard-line, caterpie-line, ralts-line]
+related_characters:
+  - mareep-line
+  - staraptor-line
+  - charizard-line
+  - caterpie-line
+  - ralts-line
 ip_resolution_for: rowlet-line
 ---
 

@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["hero", "time-travel", "warrior", "youth", "determination", "energy", "fighter", "future", "hope", "resistance"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "battle-card", "promo", "blue-purple-hair", "hands-extended"]
+tags_hub:
+  - hero
+  - time-travel
+  - warrior
+  - youth
+  - determination
+  - energy
+  - fighter
+  - future
+  - hope
+  - resistance
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - battle-card
+  - promo
+  - blue-purple-hair
+  - hands-extended
 reference_image: cards/_images/dragon-ball-super/judge-promotion-cards/bt4-102-dimension-support-trunks.png
 average_cost_paid: 0
 market_price: 0.47
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401040314/0908706C7ABA8D6FA13710F3CE6534A09EAFD0AE/
 image_width: 624
 image_height: 864

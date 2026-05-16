@@ -1,6 +1,6 @@
 ---
 name: Temur Banner
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Khans of Tarkir
 collector_number: 226
 rarity: C
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["skull", "bone", "totem", "banner", "tribal", "shamanic", "wolf", "feathers", "frontier", "wilderness", "mountains", "trophy"]
-tags_filter: ["no-figures", "no-face", "mid-shot", "forward-facing", "artifact", "colorless-magic", "object-mode", "muted-palette"]
+tags_hub:
+  - skull
+  - bone
+  - totem
+  - banner
+  - tribal
+  - shamanic
+  - wolf
+  - feathers
+  - frontier
+  - wilderness
+  - mountains
+  - trophy
+tags_filter:
+  - no-figures
+  - no-face
+  - mid-shot
+  - forward-facing
+  - artifact
+  - colorless-magic
+  - object-mode
+  - muted-palette
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/226-temur-banner.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +49,7 @@ artist: Daniel Ljunggren
 art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/226-temur-banner--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/9/9990bdff-c27a-447f-b530-d8b7614fe9a0.jpg?1562790835
 flavor_text: Savagery to survive, courage to triumph.
-oracle_text: {T}: Add {G}, {U}, or {R}.\n{G}{U}{R}, {T}, Sacrifice this artifact: Draw a card.
+oracle_text: "{T}: Add {G}, {U}, or {R}.\\n{G}{U}{R}, {T}, Sacrifice this artifact: Draw a card."
 ---
 
 # Temur Banner (Khans of Tarkir)

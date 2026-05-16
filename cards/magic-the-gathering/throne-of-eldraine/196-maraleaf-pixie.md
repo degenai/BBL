@@ -1,23 +1,46 @@
 ---
 name: Maraleaf Pixie
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 196
 rarity: U
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 3
+quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["faerie", "pixie", "wings", "forest", "twilight", "thief", "glow", "magic-light", "small-folk", "treasure", "mischief", "woodland"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "creature-faerie", "flying", "multicolor-blue-green", "blue-magic", "green-magic", "scene-mode", "no-face-visible-clearly", "rim-light"]
+tags_hub:
+  - faerie
+  - pixie
+  - wings
+  - forest
+  - twilight
+  - thief
+  - glow
+  - magic-light
+  - small-folk
+  - treasure
+  - mischief
+  - woodland
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - creature-faerie
+  - flying
+  - multicolor-blue-green
+  - blue-magic
+  - green-magic
+  - scene-mode
+  - no-face-visible-clearly
+  - rim-light
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/196-maraleaf-pixie.png
 average_cost_paid: 0
-market_price: 0.34
-market_price_as_of: 2026-05-14
+market_price: 0.33
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/e/6/e6d7f9c9-dd83-4684-a949-1c22f316138a.png?1572490787
 art_match_confidence: high
 needs_manual_review: false
@@ -28,7 +51,7 @@ artist: Matt Cavotta
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/196-maraleaf-pixie--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/6/e6d7f9c9-dd83-4684-a949-1c22f316138a.jpg?1572490787
 flavor_text: Neither hostile nor friendly, pixies flit through the forest seeking the treasures of the wilds.
-oracle_text: Flying\n{T}: Add {G} or {U}.
+oracle_text: "Flying\\n{T}: Add {G} or {U}."
 ---
 
 # Maraleaf Pixie (Throne of Eldraine)

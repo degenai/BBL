@@ -1,7 +1,11 @@
 ---
 type: character
 name: Endriders
-aliases: [endriders, endrider-faction, gastal-team, gastal-endriders]
+aliases:
+  - endriders
+  - endrider-faction
+  - gastal-team
+  - gastal-endriders
 universe: "Magic: The Gathering / Aetherdrift / Gastal"
 faction: Endriders (Aetherdrift Grand Prix team, Gastal home plane)
 species: faction (mixed humans and humanoids)
@@ -11,9 +15,10 @@ appears_on:
   - magic-the-gathering/aetherdrift/125-endrider-spikespitter
   - magic-the-gathering/aetherdrift/126-fuel-the-flames
   - magic-the-gathering/aetherdrift/251-bloodfell-caves
-related_hubs: [labor, rebellion]
+related_hubs: "[labor, rebellion]"
 related_symbols: []
-related_characters: [aether-rangers]
+related_characters:
+  - aether-rangers
 ---
 
 # Endriders

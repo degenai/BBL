@@ -1,6 +1,6 @@
 ---
 name: Devouring Hellion
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 124
 rarity: U
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["monster", "hellion", "beast", "predator", "maw", "claws", "smoke", "fire", "battlefield", "war", "devouring", "chitin"]
-tags_filter: ["solo", "forward-facing", "mid-shot", "action-mode", "no-face", "red-magic", "creature-hellion"]
+tags_hub:
+  - monster
+  - hellion
+  - beast
+  - predator
+  - maw
+  - claws
+  - smoke
+  - fire
+  - battlefield
+  - war
+  - devouring
+  - chitin
+tags_filter:
+  - solo
+  - forward-facing
+  - mid-shot
+  - action-mode
+  - no-face
+  - red-magic
+  - creature-hellion
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/124-devouring-hellion.png
 average_cost_paid: 0
-market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price: 0.13
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

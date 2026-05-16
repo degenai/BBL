@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["fighter", "warrior", "energy-aura", "combat", "spiky-hair", "determination", "power", "anime-style", "hero", "battle-ready"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "male-figure", "no-weapon"]
+tags_hub:
+  - fighter
+  - warrior
+  - energy-aura
+  - combat
+  - spiky-hair
+  - determination
+  - power
+  - anime-style
+  - hero
+  - battle-ready
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - male-figure
+  - no-weapon
 reference_image: cards/_images/dragon-ball-super/cross-worlds/bt3-007-shocking-future-son-goku.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401003835/C032E69AB35D1454E39376CB023D2D34B53BE3A5/
 image_width: 624
 image_height: 871
@@ -30,7 +46,8 @@ setting: void
 suspected_ip: Son Goku (Dragon Ball)
 ip_confidence: high
 ip_verified: true
-characters: [son-goku]
+characters:
+  - son-goku
 ---
 
 # Shocking Future Son Goku (Cross Worlds)

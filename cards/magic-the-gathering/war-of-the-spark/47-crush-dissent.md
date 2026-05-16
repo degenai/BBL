@@ -1,23 +1,45 @@
 ---
 name: Crush Dissent
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 47
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["soldier", "armor", "authority", "oppression", "silencing", "captive", "interrogation", "violence", "uniform", "imperial", "coercion", "duel"]
-tags_filter: ["duo", "close-up", "action", "blue-magic", "instant", "rim-lit", "no-background", "male-figure", "two-figures", "indoor-or-void"]
+tags_hub:
+  - soldier
+  - armor
+  - authority
+  - oppression
+  - silencing
+  - captive
+  - interrogation
+  - violence
+  - uniform
+  - imperial
+  - coercion
+  - duel
+tags_filter:
+  - duo
+  - close-up
+  - action
+  - blue-magic
+  - instant
+  - rim-lit
+  - no-background
+  - male-figure
+  - two-figures
+  - indoor-or-void
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/47-crush-dissent.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

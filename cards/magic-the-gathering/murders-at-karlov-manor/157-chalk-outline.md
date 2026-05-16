@@ -1,6 +1,6 @@
 ---
 name: Chalk Outline
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 157
 rarity: U
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["crime-scene", "detective", "murder", "chalk", "investigation", "noir", "death", "clue", "mystery", "magic-glow", "overhead", "urban"]
-tags_filter: ["duo", "wide", "scene-mode", "overhead-view", "multicolor-white-blue", "enchantment", "investigate"]
+tags_hub:
+  - crime-scene
+  - detective
+  - murder
+  - chalk
+  - investigation
+  - noir
+  - death
+  - clue
+  - mystery
+  - magic-glow
+  - overhead
+  - urban
+tags_filter:
+  - duo
+  - wide
+  - scene-mode
+  - overhead-view
+  - multicolor-white-blue
+  - enchantment
+  - investigate
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/157-chalk-outline.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-14
+market_price: 0.22
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/b/3/b3ff56c1-4153-4e15-9ac6-06d93fa2ae50.png?1706241961
 art_match_confidence: high
 needs_manual_review: false
@@ -25,7 +44,7 @@ artist: Julia Griffin
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/157-chalk-outline--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/3/b3ff56c1-4153-4e15-9ac6-06d93fa2ae50.jpg?1706241961
 flavor_text: \"In your search for a suspect, never forget that the most important person is the victim.\"\n—Ezrim, Agency chief
-oracle_text: Whenever one or more creature cards leave your graveyard, create a 2/2 white and blue Detective creature token, then investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")
+oracle_text: "Whenever one or more creature cards leave your graveyard, create a 2/2 white and blue Detective creature token, then investigate. (Create a Clue token. It's an artifact with \\\"{2}, Sacrifice this token: Draw a card.\\\")"
 image_width: 745
 image_height: 1040
 image_quality: high

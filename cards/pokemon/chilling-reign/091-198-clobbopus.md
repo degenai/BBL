@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["octopus", "cephalopod", "ocean", "beach", "sand", "tentacles", "small-creature", "cute", "tide-pool", "marine-life", "baby-pokemon", "wide-eyed"]
-tags_filter: ["solo", "close-up", "portrait-mode", "forward-facing", "no-face-human", "fighting-type", "basic-pokemon", "common", "single-figure", "centered-composition"]
+tags_hub:
+  - octopus
+  - cephalopod
+  - ocean
+  - beach
+  - sand
+  - tentacles
+  - small-creature
+  - cute
+  - tide-pool
+  - marine-life
+  - baby-pokemon
+  - wide-eyed
+tags_filter:
+  - solo
+  - close-up
+  - portrait-mode
+  - forward-facing
+  - no-face-human
+  - fighting-type
+  - basic-pokemon
+  - common
+  - single-figure
+  - centered-composition
 reference_image: cards/_images/pokemon/chilling-reign/091-198-clobbopus.png
 average_cost_paid: 0
-market_price: 0.16
-market_price_as_of: 2026-05-14
+market_price: 0.17
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh6/91_hires.png
 art_match_confidence: high
 needs_manual_review: false

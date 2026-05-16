@@ -1,6 +1,6 @@
 ---
 name: Raging Redcap
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 134
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["goblin", "redcap", "knight", "blades", "blood", "cave", "fairytale", "villain", "warrior", "dual-wield", "fae", "dark-fantasy"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "male-figure", "action-mode", "creature-goblin", "creature-knight", "black-magic", "double-strike"]
+tags_hub:
+  - goblin
+  - redcap
+  - knight
+  - blades
+  - blood
+  - cave
+  - fairytale
+  - villain
+  - warrior
+  - dual-wield
+  - fae
+  - dark-fantasy
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - male-figure
+  - action-mode
+  - creature-goblin
+  - creature-knight
+  - black-magic
+  - double-strike
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/134-raging-redcap.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,7 +49,7 @@ setting: dungeon
 artist: Dan Murayama Scott
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/134-raging-redcap--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/9/d9325398-41c3-4177-a64d-ea38cb7a8737.jpg?1572490413
-flavor_text: Many tales of redcap terror begin with two simple things: bloodlust and stolen steel.
+flavor_text: "Many tales of redcap terror begin with two simple things: bloodlust and stolen steel."
 oracle_text: Double strike (This creature deals both first-strike and regular combat damage.)
 ---
 

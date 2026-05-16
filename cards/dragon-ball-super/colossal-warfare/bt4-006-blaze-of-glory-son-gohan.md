@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["saiyan", "power-release", "energy-beams", "fighter", "hero", "warrior", "gohan-line", "starburst", "determination", "youth", "half-saiyan"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "male-figure", "red-magic", "battle-unit"]
+tags_hub:
+  - saiyan
+  - power-release
+  - energy-beams
+  - fighter
+  - hero
+  - warrior
+  - gohan-line
+  - starburst
+  - determination
+  - youth
+  - half-saiyan
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - male-figure
+  - red-magic
+  - battle-unit
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-006-blaze-of-glory-son-gohan.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401024212/45FB4F16F4A4EFBA0308419814D528ED7CFF6ECE/
 image_width: 624
 image_height: 871
@@ -30,7 +48,8 @@ setting: void
 suspected_ip: Son Gohan (Dragon Ball)
 ip_confidence: high
 ip_verified: true
-characters: ["son-gohan"]
+characters:
+  - son-gohan
 ---
 
 # Blaze of Glory Son Gohan (Colossal Warfare)

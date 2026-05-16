@@ -1,7 +1,12 @@
 ---
 type: artist
 name: Dan Murayama Scott
-aliases: [Dan Murayama Scott, Dan Scott, Daniel Murayama Scott, dan-murayama-scott, dan-scott]
+aliases:
+  - Dan Murayama Scott
+  - Dan Scott
+  - Daniel Murayama Scott
+  - dan-murayama-scott
+  - dan-scott
 universe: any
 portfolio_url: https://www.danmurayamascott.com
 social: []

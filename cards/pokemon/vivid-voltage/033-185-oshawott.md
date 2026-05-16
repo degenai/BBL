@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["otter", "water", "ocean", "shoreline", "cute", "nature", "coastal", "sea", "small-creature", "bright"]
-tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "water-type", "creature"]
+tags_hub:
+  - otter
+  - water
+  - ocean
+  - shoreline
+  - cute
+  - nature
+  - coastal
+  - sea
+  - small-creature
+  - bright
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - water-type
+  - creature
 reference_image: cards/_images/pokemon/vivid-voltage/033-185-oshawott.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price: 0.09
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh4/33_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +46,7 @@ image_quality: high
 mood: peaceful
 time_of_day: day
 setting: ocean
-suspected_ip: Oshawott (#501)
+suspected_ip: "Oshawott (#501)"
 ip_confidence: high
 ip_verified: false
 ---

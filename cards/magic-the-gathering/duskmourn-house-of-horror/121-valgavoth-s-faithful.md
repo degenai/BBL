@@ -1,7 +1,7 @@
 ---
 name: Valgavoth's Faithful
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 121
 rarity: U
 variance: Normal
@@ -10,22 +10,39 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["cult", "mask", "devotion", "gothic", "moth", "butterfly", "ritual", "robed-figure", "horror", "dark-hall", "sacrifice"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait", "black-magic", "creature-human"]
+tags_hub:
+  - cult
+  - mask
+  - devotion
+  - gothic
+  - moth
+  - butterfly
+  - ritual
+  - robed-figure
+  - horror
+  - dark-hall
+  - sacrifice
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait
+  - black-magic
+  - creature-human
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/121-valgavoth-s-faithful.png
 average_cost_paid: 0
 market_price: 0.22
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/9/9/995194a0-ceb7-48c2-be5d-a208b3971e77.png?1726286299
 art_match_confidence: high
 needs_manual_review: false
 artist: Jodie Muir
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/121-valgavoth-s-faithful--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/9/995194a0-ceb7-48c2-be5d-a208b3971e77.jpg?1726286299
-flavor_text: \"That's the one good thing about these cultists: sometimes they do your work for you.\"\n—Winter
-oracle_text: {3}{B}, Sacrifice this creature: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.
+flavor_text: "\\\"That's the one good thing about these cultists: sometimes they do your work for you.\\\"\\n—Winter"
+oracle_text: "{3}{B}, Sacrifice this creature: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery."
 image_width: 745
 image_height: 1040
 image_quality: high

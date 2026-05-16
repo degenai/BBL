@@ -1,6 +1,6 @@
 ---
 name: Hinterland Drake
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Mystery Booster Cards
 collector_number: 34
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["drake", "dragon", "flight", "wings", "sky", "wilderness", "mountains", "forest", "freedom", "wyrm", "soaring", "daylight"]
-tags_filter: ["solo", "wide-shot", "scene-mode", "no-face", "creature-drake", "blue-magic", "flying", "faces-right", "three-quarter"]
+tags_hub:
+  - drake
+  - dragon
+  - flight
+  - wings
+  - sky
+  - wilderness
+  - mountains
+  - forest
+  - freedom
+  - wyrm
+  - soaring
+  - daylight
+tags_filter:
+  - solo
+  - wide-shot
+  - scene-mode
+  - no-face
+  - creature-drake
+  - blue-magic
+  - flying
+  - faces-right
+  - three-quarter
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/34-hinterland-drake.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

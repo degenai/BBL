@@ -1,7 +1,7 @@
 ---
 name: Sporogenic Infection
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 117
 rarity: U
 variance: Normal
@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["fungus", "infection", "mushroom", "body-horror", "corruption", "plague", "modern", "horror", "transformation", "disease"]
-tags_filter: ["solo", "close-up", "forward-facing", "portrait", "enchantment-aura"]
+tags_hub:
+  - fungus
+  - infection
+  - mushroom
+  - body-horror
+  - corruption
+  - plague
+  - modern
+  - horror
+  - transformation
+  - disease
+tags_filter:
+  - solo
+  - close-up
+  - forward-facing
+  - portrait
+  - enchantment-aura
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/117-sporogenic-infection.png
 average_cost_paid: 0
-market_price: 0.16
-market_price_as_of: 2026-05-14
+market_price: 0.18
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/e/a/eaae086e-0781-4f4d-bc9c-a98228bc380c.png?1726286285
 art_match_confidence: high
 needs_manual_review: false

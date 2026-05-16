@@ -1,6 +1,6 @@
 ---
 name: Blossoming Sands
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 244
 rarity: L
@@ -10,14 +10,38 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["desert", "dunes", "sand", "wilderness", "landscape", "horizon", "sunlight", "magic-hour", "frontier", "trail", "trees", "grasslands"]
-tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "dual-land", "lifegain", "white-magic", "green-magic", "multicolor-white-green", "warm-palette", "backlit"]
+tags_hub:
+  - desert
+  - dunes
+  - sand
+  - wilderness
+  - landscape
+  - horizon
+  - sunlight
+  - magic-hour
+  - frontier
+  - trail
+  - trees
+  - grasslands
+tags_filter:
+  - no-figures
+  - wide-shot
+  - scene-mode
+  - no-face
+  - land
+  - dual-land
+  - lifegain
+  - white-magic
+  - green-magic
+  - multicolor-white-green
+  - warm-palette
+  - backlit
 reference_image: cards/_images/magic-the-gathering/core-set-2021/244-blossoming-sands.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -28,7 +52,7 @@ setting: desert
 artist: Sam Burley
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/244-blossoming-sands--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/8/c8483586-9a07-4f54-a390-7dd97fcea5cb.jpg?1594737617
-oracle_text: This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {G} or {W}.
+oracle_text: "This land enters tapped.\\nWhen this land enters, you gain 1 life.\\n{T}: Add {G} or {W}."
 ---
 
 # Blossoming Sands (Core Set 2021)

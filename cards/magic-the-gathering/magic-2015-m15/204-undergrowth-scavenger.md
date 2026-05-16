@@ -1,6 +1,6 @@
 ---
 name: Undergrowth Scavenger
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Magic 2015 (M15)
 collector_number: 204
 rarity: C
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["scavenger", "insect", "swamp", "decay", "predator", "graveyard", "forest", "horror", "creature", "undergrowth", "chitin", "darkness"]
-tags_filter: ["mid-shot", "solo", "faces-left", "narrative-mode", "no-face", "green-magic", "creature-insect"]
+tags_hub:
+  - scavenger
+  - insect
+  - swamp
+  - decay
+  - predator
+  - graveyard
+  - forest
+  - horror
+  - creature
+  - undergrowth
+  - chitin
+  - darkness
+tags_filter:
+  - mid-shot
+  - solo
+  - faces-left
+  - narrative-mode
+  - no-face
+  - green-magic
+  - creature-insect
 reference_image: cards/_images/magic-the-gathering/magic-2015-m15/204-undergrowth-scavenger.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/4/f/4f8dc77e-f003-4c25-8394-cda22e3ea039.png?1562786819
 art_match_confidence: high
 needs_manual_review: false

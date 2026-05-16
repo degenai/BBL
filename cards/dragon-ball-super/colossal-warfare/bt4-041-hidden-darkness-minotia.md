@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["youth", "darkness", "curse", "sibling", "hidden-power", "demon", "sacrifice", "energy", "violet", "sealed-evil"]
-tags_filter: ["solo", "mid-shot", "action", "male-figure", "forward-facing"]
+tags_hub:
+  - youth
+  - darkness
+  - curse
+  - sibling
+  - hidden-power
+  - demon
+  - sacrifice
+  - energy
+  - violet
+  - sealed-evil
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - male-figure
+  - forward-facing
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-041-hidden-darkness-minotia.png
 average_cost_paid: 0
-market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price: 0.06
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401029613/4808955EF32DA5060CBEC51AA235597B3140CB95/
 image_width: 624
 image_height: 871
@@ -30,7 +45,8 @@ setting: void
 suspected_ip: "Minotia (Dragon Ball Z: Wrath of the Dragon)"
 ip_confidence: high
 ip_verified: true
-characters: [wrath-of-the-dragon-saga]
+characters:
+  - wrath-of-the-dragon-saga
 ---
 
 # Hidden Darkness Minotia (Colossal Warfare)

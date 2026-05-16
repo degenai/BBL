@@ -1,6 +1,6 @@
 ---
 name: Vectis Dominator
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Alara Reborn
 collector_number: 
 rarity: C
@@ -10,14 +10,27 @@ condition: Near Mint
 quantity: 12
 held_for_lair: 0
 bundles: []
-tags_hub: ["wizard", "spellcasting", "colossus", "psychic-dominance", "golden-light", "robed-figure"]
-tags_filter: ["solo", "wide-shot", "three-quarter-facing", "scene-mode", "artifact-creature", "multicolor-white-black", "named-character"]
+tags_hub:
+  - wizard
+  - spellcasting
+  - colossus
+  - psychic-dominance
+  - golden-light
+  - robed-figure
+tags_filter:
+  - solo
+  - wide-shot
+  - three-quarter-facing
+  - scene-mode
+  - artifact-creature
+  - multicolor-white-black
+  - named-character
 reference_image: cards/_images/magic-the-gathering/alara-reborn/84-vectis-dominator.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 mood: sublime
 time_of_day: indeterminate
 setting: other
@@ -28,7 +41,7 @@ artist: Zoltan Boros & Gabor Szikszai
 art_crop_image: cards/_images/magic-the-gathering/alara-reborn/84-vectis-dominator--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/c/1cfb7589-a53e-4580-bd92-641fd4785934.jpg?1562640010
 flavor_text: \"I appreciate the artistry of the telemins, but the creatures of the other worlds provide a much more dramatic performance.\"\n—Ennor, mentalist
-oracle_text: {T}: Tap target creature unless its controller pays 2 life.
+oracle_text: "{T}: Tap target creature unless its controller pays 2 life."
 ---
 
 # Vectis Dominator (Alara Reborn)

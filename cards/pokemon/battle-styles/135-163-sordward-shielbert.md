@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["brothers", "rivalry", "antagonist", "nobility", "formal-wear", "villain", "color-contrast", "anime-style", "pompous", "cape"]
-tags_filter: ["duo", "mid-shot", "forward-facing", "supporter-card", "trainer-card", "male-figure", "scene-mode"]
+tags_hub:
+  - brothers
+  - rivalry
+  - antagonist
+  - nobility
+  - formal-wear
+  - villain
+  - color-contrast
+  - anime-style
+  - pompous
+  - cape
+tags_filter:
+  - duo
+  - mid-shot
+  - forward-facing
+  - supporter-card
+  - trainer-card
+  - male-figure
+  - scene-mode
 reference_image: cards/_images/pokemon/battle-styles/135-163-sordward-shielbert.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh5/135_hires.png
 art_match_confidence: high
 needs_manual_review: false

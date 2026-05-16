@@ -1,6 +1,6 @@
 ---
 name: Cunning Geysermage
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Zendikar Rising
 collector_number: 55
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["wizard", "mage", "spellcaster", "geyser", "water", "staff", "robed-figure", "mountain", "cliffs", "elemental-magic", "ritual", "landscape"]
-tags_filter: ["solo", "wide-shot", "scene-mode", "three-quarter-facing", "female-figure", "blue-magic", "creature-human", "creature-wizard", "common"]
+tags_hub:
+  - wizard
+  - mage
+  - spellcaster
+  - geyser
+  - water
+  - staff
+  - robed-figure
+  - mountain
+  - cliffs
+  - elemental-magic
+  - ritual
+  - landscape
+tags_filter:
+  - solo
+  - wide-shot
+  - scene-mode
+  - three-quarter-facing
+  - female-figure
+  - blue-magic
+  - creature-human
+  - creature-wizard
+  - common
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/55-cunning-geysermage--foil.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

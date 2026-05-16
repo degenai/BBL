@@ -10,15 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-characters: ["son-goku", "uub"]
-tags_hub: ["mentor", "legacy", "child", "passing-the-torch", "fist-bump", "solidarity", "warrior", "friendship", "gold", "reincarnation"]
-tags_filter: ["duo", "forward-facing", "mid-shot", "portrait", "female-figure", "anime-style", "suspected-ip"]
+characters:
+  - son-goku
+  - uub
+tags_hub:
+  - mentor
+  - legacy
+  - child
+  - passing-the-torch
+  - fist-bump
+  - solidarity
+  - warrior
+  - friendship
+  - gold
+  - reincarnation
+tags_filter:
+  - duo
+  - forward-facing
+  - mid-shot
+  - portrait
+  - female-figure
+  - anime-style
+  - suspected-ip
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-069-son-goku-uub-seeds-of-the-future.png
 average_cost_paid: 0
-market_price: 11.23
-market_price_as_of: 2026-05-14
+market_price: 11.75
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408082576/6C5278C9759E29197D3DD6AD9302FB5CD6380E84/
 image_width: 624
 image_height: 871

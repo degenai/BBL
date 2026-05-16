@@ -10,21 +10,43 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-characters: ["elemental-monkey-trio"]
-tags_hub: ["monkey", "primate", "forest", "leaf", "canopy", "jungle", "leaping", "agility", "wild", "sunlight", "foliage", "trickster"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action-pose", "creature-only", "no-face-detail-needed", "grass-type", "stage-1", "pokemon-card"]
+characters:
+  - elemental-monkey-trio
+tags_hub:
+  - monkey
+  - primate
+  - forest
+  - leaf
+  - canopy
+  - jungle
+  - leaping
+  - agility
+  - wild
+  - sunlight
+  - foliage
+  - trickster
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action-pose
+  - creature-only
+  - no-face-detail-needed
+  - grass-type
+  - stage-1
+  - pokemon-card
 reference_image: cards/_images/pokemon/darkness-ablaze/007-189-simisage.png
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price: 0.05
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/7_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Hasegawa Saki
 flavor_text: Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.
-oracle_text: Seed Bomb (Grass) 30\nGiga Impact (ColorlessColorlessColorless) 110: During your next turn, this Pokémon can't attack.
+oracle_text: "Seed Bomb (Grass) 30\\nGiga Impact (ColorlessColorlessColorless) 110: During your next turn, this Pokémon can't attack."
 mood: action
 time_of_day: day
 setting: forest

@@ -1,7 +1,17 @@
 ---
 type: character
 name: Son Goku
-aliases: [son-goku, goku, kakarot, son-goku-z, son-goku-childhood, son-goku-gt, son-goku-ssj, son-goku-ssj2, son-goku-ssj3, son-goku-ssjb]
+aliases:
+  - son-goku
+  - goku
+  - kakarot
+  - son-goku-z
+  - son-goku-childhood
+  - son-goku-gt
+  - son-goku-ssj
+  - son-goku-ssj2
+  - son-goku-ssj3
+  - son-goku-ssjb
 universe: "Dragon Ball franchise (Akira Toriyama / Toei Animation, 1984 introduction in Dragon Ball manga); expanded across Dragon Ball (1984-1995 manga / 1986-1989 anime, Toei Animation), Dragon Ball Z (1989-1996 anime, Toei Animation), Dragon Ball GT (1996-1997 anime, Toei Animation), Dragon Ball Super (2015-2018 anime, Toei Animation), and the Dragon Ball Super Card Game (Bandai, 2017-present)"
 faction: ~
 species: "Saiyan (born Kakarot, son of Bardock and Gine on Planet Vegeta; raised as Son Goku on Earth by Son Gohan after the Saiyan homeworld's destruction); across incarnations he is variously: the child martial artist of original Dragon Ball (Son Goku Childhood, pre-Z), the adult Earth-defender of Dragon Ball Z (Son Goku Z, the canonical adult), the de-aged child-bodied adventurer of Dragon Ball GT (Son Goku GT, reverted to child form by accidental wish on the Black Star Dragon Balls), and the Super-era continuing-canon adult of Dragon Ball Super (Son Goku DBS / Battle of Gods onward); transformation states span base form, Super Saiyan, Super Saiyan 2, Super Saiyan 3, and Super Saiyan Blue (Super Saiyan God Super Saiyan) across the corpus prints"
@@ -33,7 +43,12 @@ appears_on:
   - dragon-ball-super/cross-worlds/bt3-028-grand-tour-spaceship
 related_hubs: []
 related_symbols: []
-related_characters: [trunks, baby-dbgt, namekian, bardock, son-gohan]
+related_characters:
+  - trunks
+  - baby-dbgt
+  - namekian
+  - bardock
+  - son-gohan
 ip_resolution_for: son-goku
 ---
 

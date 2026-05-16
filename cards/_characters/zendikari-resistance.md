@@ -1,7 +1,14 @@
 ---
 type: character
 name: "Zendikari Resistance (BFZ + OGW multi-triangle meta-cycle)"
-aliases: [zendikari-resistance, zendikar-resistance, bfz-ogw-resistance, eldrazi-invasion-resistance, ally-resistance-cohort, sea-gate-survivors, affa-survivors]
+aliases:
+  - zendikari-resistance
+  - zendikar-resistance
+  - bfz-ogw-resistance
+  - eldrazi-invasion-resistance
+  - ally-resistance-cohort
+  - sea-gate-survivors
+  - affa-survivors
 universe: "Magic: The Gathering / Zendikar (Battle for Zendikar block, 2015-2016 — comprising Battle for Zendikar set, September 2015, plus Oath of the Gatewatch set, January 2016; the canonical Wizards-of-the-Coast Eldrazi-invasion arc spanning both sets as a designer-coordinated two-set block per MTG Wiki's Battle for Zendikar block page)"
 faction: "Zendikari Resistance (multi-race coalition of plate-armored kor warriors, Sea Gate merfolk and human survivors, elf scouts, Affa settlement defenders, and the Ally-mechanically-coordinated military operating under the Gatewatch planeswalker coalition's strategic command across BFZ + OGW; this node IS the multi-triangle-meta-cycle that organizes Wizards' designer-coordinated three-thesis-verb triangles within BFZ + within OGW under a single block-level cohesion anchor)"
 species: "faction-collective (Zendikari humans, kor, merfolk, elves, plus the Gatewatch planeswalker coalition's command tier; cohort scope is the resistance-side participants in the Eldrazi-invasion arc, NOT the Eldrazi-side participants which are anchored at [[eldrazi]])"
@@ -18,9 +25,12 @@ appears_on:
   - magic-the-gathering/oath-of-the-gatewatch/32-relief-captain
   - magic-the-gathering/oath-of-the-gatewatch/35-spawnbinder-mage
   - magic-the-gathering/oath-of-the-gatewatch/38-stoneforge-acolyte
-related_hubs: [labor, rebellion, stewardship]
+related_hubs: "[labor, rebellion, stewardship]"
 related_symbols: []
-related_characters: [eldrazi, kor, iona]
+related_characters:
+  - eldrazi
+  - kor
+  - iona
 ip_resolution_for: zendikari-resistance
 ---
 

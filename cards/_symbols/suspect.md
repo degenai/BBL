@@ -1,7 +1,12 @@
 ---
 type: symbol
 name: Suspect (mechanic)
-aliases: [suspect, suspect-mechanic, suspect-marker, suspected, suspected-creature]
+aliases:
+  - suspect
+  - suspect-mechanic
+  - suspect-marker
+  - suspected
+  - suspected-creature
 faction: ~
 universe: "Magic: The Gathering / Ravnica (introduced in Murders at Karlov Manor, 2024)"
 canonical_source: "Wizards of the Coast — Mark Rosewater's MKM mechanics preview articles (2024-01); MTG Wiki — Suspect; Scryfall — keyword:suspect mechanic page; Murders at Karlov Manor Release Notes (2024-02-01)"
@@ -13,7 +18,8 @@ appears_on:
   - magic-the-gathering/murders-at-karlov-manor/149-airtight-alibi
   - magic-the-gathering/murders-at-karlov-manor/312-deadly-complication-showcase
 related_hubs: []
-related_characters: [agency]
+related_characters:
+  - agency
 ---
 
 # Suspect (mechanic)

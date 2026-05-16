@@ -1,7 +1,14 @@
 ---
 type: character
 name: Vegeta
-aliases: [vegeta, prince-vegeta, prince-of-all-saiyans, majin-vegeta, vegeta-ssb, vegeta-ss, vegeta-ssg]
+aliases:
+  - vegeta
+  - prince-vegeta
+  - prince-of-all-saiyans
+  - majin-vegeta
+  - vegeta-ssb
+  - vegeta-ss
+  - vegeta-ssg
 universe: "Dragon Ball franchise (Akira Toriyama / Toei Animation, 1989 introduction in Dragon Ball Z's Saiyan Saga); expanded across Dragon Ball Z (1989-1996, Toei Animation), Dragon Ball GT (1996-1997, Toei Animation), Dragon Ball Super (2015-2018, Toei Animation), and the Dragon Ball Super Card Game (Bandai, 2017-present)"
 faction: ~
 species: "Saiyan (canonical Prince of All Saiyans, son of King Vegeta, the Saiyan royal heir whose canonical title persists across his Z-and-Super-era arc despite the destruction of Planet Vegeta by Frieza); across narrative phases he is variously: the Frieza-Force elite warrior antagonist of Dragon Ball Z's Saiyan Saga (1989, the canonical first-Vegeta-incarnation as adversary), the redemption-arc Z-warrior of the Frieza / Cell / Buu sagas (Vegeta the eventual ally), the Majin-corrupted Buu-Saga participant (Majin Vegeta, the deliberate-Babidi-seal moral failure that culminates in the 25th World Martial Arts Tournament Big Bang Attack into the spectator stands), and the Dragon Ball Super continuing-canon Vegeta who unlocks Super Saiyan God Super Saiyan (Super Saiyan Blue) and continues through DBS's god-tier opponents; transformation states span base form, Super Saiyan, Super Saiyan 2, Super Saiyan God, Super Saiyan Blue, and Super Saiyan Blue Evolution across the corpus prints"
@@ -16,7 +23,9 @@ appears_on:
   - dragon-ball-super/colossal-warfare/bt4-030-at-all-costs-vegeta
 related_hubs: []
 related_symbols: []
-related_characters: [son-goku, trunks]
+related_characters:
+  - son-goku
+  - trunks
 ip_resolution_for: vegeta
 ---
 

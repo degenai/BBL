@@ -1,6 +1,6 @@
 ---
 name: Inspire Awe
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 175
 rarity: C
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["robed-figure", "ritual", "rallying-cry", "forest", "wilderness", "beasts", "pack", "leader", "divine-figure", "greek-myth", "raised-arms", "centaur", "oracle"]
-tags_filter: ["group", "wide-shot", "forward-facing", "scene-mode", "green-magic", "instant", "no-face-detail"]
+tags_hub:
+  - robed-figure
+  - ritual
+  - rallying-cry
+  - forest
+  - wilderness
+  - beasts
+  - pack
+  - leader
+  - divine-figure
+  - greek-myth
+  - raised-arms
+  - centaur
+  - oracle
+tags_filter:
+  - group
+  - wide-shot
+  - forward-facing
+  - scene-mode
+  - green-magic
+  - instant
+  - no-face-detail
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/175-inspire-awe.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,7 +46,8 @@ mood: sublime
 time_of_day: day
 setting: forest
 artist: Ekaterina Burmak
-characters: [theros-pantheon]
+characters:
+  - theros-pantheon
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/175-inspire-awe--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/2/b23c8b5a-2e18-4dd8-b236-5b1fd356f867.jpg?1581480652
 flavor_text: Nylea appeared amid the howl of a hundred beasts.

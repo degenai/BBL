@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["scientist", "villain", "mad-scientist", "android", "inventor", "red-ribbon", "evil", "technology", "creator", "elderly", "laboratory", "genius"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "narrative", "male-figure"]
+tags_hub:
+  - scientist
+  - villain
+  - mad-scientist
+  - android
+  - inventor
+  - red-ribbon
+  - evil
+  - technology
+  - creator
+  - elderly
+  - laboratory
+  - genius
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - narrative
+  - male-figure
 reference_image: cards/_images/dragon-ball-super/cross-worlds/bt3-067-dr-gero-evil-s-inventor.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/BT3-067.png
 art_match_confidence: high
 needs_manual_review: false
@@ -31,7 +48,8 @@ subject_known_ip: true
 suspected_ip: Dr. Gero (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
-characters: ["cell-saga-apparatus"]
+characters:
+  - cell-saga-apparatus
 ---
 
 # Dr. Gero, Evil's Inventor (Cross Worlds)

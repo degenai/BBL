@@ -1,6 +1,6 @@
 ---
 name: Bloodfell Caves
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 251
 rarity: L
@@ -10,15 +10,38 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-characters: ["endriders"]
-tags_hub: ["sunset", "desert", "canyon", "racing", "road", "fire", "dust", "vehicles", "horizon", "wasteland", "speed", "cliffs"]
-tags_filter: ["wide-shot", "scene-mode", "no-figures", "forward-facing", "backlit", "land", "red-magic", "black-magic", "multicolor-black-red", "dual-land"]
+characters:
+  - endriders
+tags_hub:
+  - sunset
+  - desert
+  - canyon
+  - racing
+  - road
+  - fire
+  - dust
+  - vehicles
+  - horizon
+  - wasteland
+  - speed
+  - cliffs
+tags_filter:
+  - wide-shot
+  - scene-mode
+  - no-figures
+  - forward-facing
+  - backlit
+  - land
+  - red-magic
+  - black-magic
+  - multicolor-black-red
+  - dual-land
 reference_image: cards/_images/magic-the-gathering/aetherdrift/251-bloodfell-caves.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-10
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/4/9/49195d90-de0c-4290-aa1c-9f4d948b5521.png?1738356883
 art_match_confidence: high
 needs_manual_review: false
@@ -29,7 +52,7 @@ artist: Ron Spencer
 art_crop_image: cards/_images/magic-the-gathering/aetherdrift/251-bloodfell-caves--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/9/49195d90-de0c-4290-aa1c-9f4d948b5521.jpg?1738356883
 flavor_text: To the Endriders, racing is worship. Their prayers rise on the howls of straining engines. Explosions punctuate their chorus of shouts, forming a hymn of glory to the open road and all roads to come.
-oracle_text: This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {B} or {R}.
+oracle_text: "This land enters tapped.\\nWhen this land enters, you gain 1 life.\\n{T}: Add {B} or {R}."
 ---
 
 # Bloodfell Caves (Aetherdrift)

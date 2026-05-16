@@ -1,6 +1,6 @@
 ---
 name: Forum Familiar
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 16
 rarity: U
@@ -10,15 +10,35 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["cat", "familiar", "food", "street", "urban", "tuxedo", "cozy", "comic-relief", "indulgence", "public-space", "animal"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "white-magic", "creature", "disguise", "scene-mode", "crowd"]
-symbols: ["disguise"]
+tags_hub:
+  - cat
+  - familiar
+  - food
+  - street
+  - urban
+  - tuxedo
+  - cozy
+  - comic-relief
+  - indulgence
+  - public-space
+  - animal
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - white-magic
+  - creature
+  - disguise
+  - scene-mode
+  - crowd
+symbols:
+  - disguise
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/16-forum-familiar.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/b/0/b06a243d-acc8-42cd-926c-98a4cc96ab21.png?1706241486
 art_match_confidence: high
 needs_manual_review: false

@@ -1,6 +1,6 @@
 ---
 name: Nucklavee
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Mystery Booster Cards
 collector_number: 26
 rarity: U
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["demon", "horse", "fire", "skeletal", "monster", "folklore", "underworld", "silhouette", "flames", "beast", "scottish-folklore", "infernal"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "no-face", "creature-beast", "multicolor-blue-red", "blue-magic", "red-magic", "graveyard-recursion"]
+tags_hub:
+  - demon
+  - horse
+  - fire
+  - skeletal
+  - monster
+  - folklore
+  - underworld
+  - silhouette
+  - flames
+  - beast
+  - scottish-folklore
+  - infernal
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - scene-mode
+  - no-face
+  - creature-beast
+  - multicolor-blue-red
+  - blue-magic
+  - red-magic
+  - graveyard-recursion
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/26-nucklavee.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +51,7 @@ the_list_source_set: DDS
 artist: Trevor Hairsine
 art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/26-nucklavee--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/c/fc7a017d-0bd2-47ba-94cd-3936c131941e.jpg?1573515979
-flavor_text: It loathes all tastes but two: spells and flesh.
+flavor_text: "It loathes all tastes but two: spells and flesh."
 oracle_text: When this creature enters, you may return target red sorcery card from your graveyard to your hand.\nWhen this creature enters, you may return target blue instant card from your graveyard to your hand.
 ---
 

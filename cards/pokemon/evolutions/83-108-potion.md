@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["potion", "healing", "item", "medicine", "blue", "pokemon-item", "product", "care", "restoration"]
-tags_filter: ["solo", "close-up", "forward-facing", "trainer-item", "no-face", "portrait-mode"]
+tags_hub:
+  - potion
+  - healing
+  - item
+  - medicine
+  - blue
+  - pokemon-item
+  - product
+  - care
+  - restoration
+tags_filter:
+  - solo
+  - close-up
+  - forward-facing
+  - trainer-item
+  - no-face
+  - portrait-mode
 reference_image: cards/_images/pokemon/evolutions/83-108-potion.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/xy12/83_hires.png
 art_match_confidence: high
 needs_manual_review: false

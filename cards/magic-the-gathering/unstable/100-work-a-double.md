@@ -1,6 +1,6 @@
 ---
 name: Work a Double
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Unstable
 collector_number: 100
 rarity: C
@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["goblin", "labor", "accident", "hammer", "comedy", "industrial", "steampunk", "slapstick", "construction", "craft"]
-tags_filter: ["duo", "mid-shot", "three-quarter", "red-magic", "sorcery", "scene-mode"]
+tags_hub:
+  - goblin
+  - labor
+  - accident
+  - hammer
+  - comedy
+  - industrial
+  - steampunk
+  - slapstick
+  - construction
+  - craft
+tags_filter:
+  - duo
+  - mid-shot
+  - three-quarter
+  - red-magic
+  - sorcery
+  - scene-mode
 reference_image: cards/_images/magic-the-gathering/unstable/100-work-a-double.png
 average_cost_paid: 0
-market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price: 0.12
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/c/0/c0b4cf5c-ac9e-45d4-ae4e-ce0162e9f5bb.png?1562935747
 art_match_confidence: high
 needs_manual_review: false

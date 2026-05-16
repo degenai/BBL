@@ -1,6 +1,6 @@
 ---
 name: Frostwalk Bastion
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons
 collector_number: 240
 rarity: U
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["mountain", "fortress", "snow", "ice", "citadel", "ruins", "winter", "stronghold", "stonework", "wilderness", "cold", "landscape"]
-tags_filter: ["no-figure", "wide-shot", "scene-mode", "land-card", "snow-land", "colorless", "structure"]
+tags_hub:
+  - mountain
+  - fortress
+  - snow
+  - ice
+  - citadel
+  - ruins
+  - winter
+  - stronghold
+  - stonework
+  - wilderness
+  - cold
+  - landscape
+tags_filter:
+  - no-figure
+  - wide-shot
+  - scene-mode
+  - land-card
+  - snow-land
+  - colorless
+  - structure
 reference_image: cards/_images/magic-the-gathering/modern-horizons/240-frostwalk-bastion.png
 average_cost_paid: 0
 market_price: 0.19
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Modern Horizons'
@@ -28,7 +47,7 @@ setting: mountain
 artist: Jedd Chevrier
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons/240-frostwalk-bastion--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/f/bfb5d83f-2b7c-4c22-ac37-938e7cd1654a.jpg?1562202563
-oracle_text: {T}: Add {C}.\n{1}{S}: Until end of turn, this land becomes a 2/3 Construct artifact creature. It's still a land. ({S} can be paid with one mana from a snow source.)\nWhenever this land deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.
+oracle_text: "{T}: Add {C}.\\n{1}{S}: Until end of turn, this land becomes a 2/3 Construct artifact creature. It's still a land. ({S} can be paid with one mana from a snow source.)\\nWhenever this land deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step."
 ---
 
 # Frostwalk Bastion (Modern Horizons)

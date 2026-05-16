@@ -10,20 +10,40 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["sword", "ghost", "possession", "haunted", "weapon", "spirit", "undead", "pair", "fog", "cursed"]
-tags_filter: ["duo", "mid-shot", "portrait", "forward-facing", "psychic-type", "ghost-type", "steel-type", "creature-psychic", "stage-1", "pokemon"]
+tags_hub:
+  - sword
+  - ghost
+  - possession
+  - haunted
+  - weapon
+  - spirit
+  - undead
+  - pair
+  - fog
+  - cursed
+tags_filter:
+  - duo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - psychic-type
+  - ghost-type
+  - steel-type
+  - creature-psychic
+  - stage-1
+  - pokemon
 reference_image: cards/_images/pokemon/unified-minds/94-236-doublade.png
 average_cost_paid: 0
-market_price: 0.2
-market_price_as_of: 2026-05-14
+market_price: 0.22
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm11/94_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Akira Komayama
 flavor_text: When Honedge evolves, it divides into two swords, which cooperate via telepathy to coordinate attacks and slash their enemies to ribbons.
-oracle_text: Slashing Cutter (Colorless) 30: This attack's damage isn't affected by Weakness or Resistance.
+oracle_text: "Slashing Cutter (Colorless) 30: This attack's damage isn't affected by Weakness or Resistance."
 mood: horror
 time_of_day: indeterminate
 setting: void

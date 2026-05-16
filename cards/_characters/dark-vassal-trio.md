@@ -1,7 +1,14 @@
 ---
 type: character
 name: "Dark Vassal trio (King Piccolo's spat-egg children — Tambourine / Cymbal / Drum)"
-aliases: [dark-vassal-trio, dark-vassal-cycle, king-piccolo-children, king-piccolo-spawn, demon-clan-children, tambourine-cymbal-drum, piccolo-daimao-children]
+aliases:
+  - dark-vassal-trio
+  - dark-vassal-cycle
+  - king-piccolo-children
+  - king-piccolo-spawn
+  - demon-clan-children
+  - tambourine-cymbal-drum
+  - piccolo-daimao-children
 universe: "Dragon Ball franchise (Akira Toriyama, Shueisha manga 1976-1978 King Piccolo Saga chapters 134-194 / Toei Animation Dragon Ball anime 1986-1989); reintroduced as a designer-coordinated three-card sub-cycle within the Dragon Ball Super Card Game's Colossal Warfare booster (DBS-B04, 2018-07-13)"
 faction: ~
 species: "designer-coordinated three-card sub-cycle within Colossal Warfare BT4, depicting the three named warrior-children of King Piccolo (Piccolo Daimao) as spat-egg-produced Demon Clan / Warrior-Type Namekians; the canonical fourth King Piccolo child Piano (a non-combat secretary-type) is NOT in this cycle nor in BBL corpus"
@@ -11,9 +18,11 @@ appears_on:
   - dragon-ball-super/colossal-warfare/bt4-064-dark-vassal-tambourine
   - dragon-ball-super/colossal-warfare/bt4-065-dark-vassal-cymbal
   - dragon-ball-super/colossal-warfare/bt4-066-dark-vassal-drum
-related_hubs: [labor]
+related_hubs: "[labor]"
 related_symbols: []
-related_characters: [namekian, wrath-of-the-dragon-saga]
+related_characters:
+  - namekian
+  - wrath-of-the-dragon-saga
 ip_resolution_for: dark-vassal-trio
 ---
 

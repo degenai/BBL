@@ -1,6 +1,6 @@
 ---
 name: Oko's Hospitality
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 312
 rarity: R
@@ -10,15 +10,37 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-characters: ["oko"]
-tags_hub: ["antlers", "stag", "forest", "ritual", "magic", "trickster", "horned-figure", "robed-figure", "summoning", "fae", "night", "sparks"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "green-magic", "blue-magic", "multicolor-green-blue", "instant", "enchantment"]
+characters:
+  - oko
+tags_hub:
+  - antlers
+  - stag
+  - forest
+  - ritual
+  - magic
+  - trickster
+  - horned-figure
+  - robed-figure
+  - summoning
+  - fae
+  - night
+  - sparks
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - scene-mode
+  - green-magic
+  - blue-magic
+  - multicolor-green-blue
+  - instant
+  - enchantment
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/312-oko-s-hospitality.png
 average_cost_paid: 0
-market_price: 0.25
-market_price_as_of: 2026-05-14
+market_price: 0.26
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

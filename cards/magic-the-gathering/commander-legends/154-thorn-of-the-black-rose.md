@@ -1,6 +1,6 @@
 ---
 name: Thorn of the Black Rose
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Commander Legends
 collector_number: 154
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["assassin", "rogue", "leather-armor", "shadow", "intrigue", "stealth", "smirk", "over-the-shoulder", "noir", "dark-fantasy", "conspirator"]
-tags_filter: ["solo", "mid-shot", "portrait-mode", "three-quarter-facing", "female-figure", "human", "creature-assassin", "black-magic", "deathtouch", "monarch"]
+tags_hub:
+  - assassin
+  - rogue
+  - leather-armor
+  - shadow
+  - intrigue
+  - stealth
+  - smirk
+  - over-the-shoulder
+  - noir
+  - dark-fantasy
+  - conspirator
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait-mode
+  - three-quarter-facing
+  - female-figure
+  - human
+  - creature-assassin
+  - black-magic
+  - deathtouch
+  - monarch
 reference_image: cards/_images/magic-the-gathering/commander-legends/154-thorn-of-the-black-rose.png
 average_cost_paid: 0
-market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price: 0.18
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,7 +47,8 @@ mood: grim
 time_of_day: indeterminate
 setting: indoor
 artist: David Gaillet
-symbols: ["monarch-at-common-cmr"]
+symbols:
+  - monarch-at-common-cmr
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/154-thorn-of-the-black-rose--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/b/2b7538ad-cc41-4229-8a39-c1db21f2899a.jpg?1669010258
 flavor_text: If bribery and intimidation fail, Marchesa turns to her favorite form of persuasion.

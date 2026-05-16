@@ -1,10 +1,15 @@
 ---
 type: artist
 name: Jenn Ravenna Tran
-aliases: [Ravenna Tran, Jenn Ravenna, Jenn Ravenna-Tran, Jen Ravenna Tran]
+aliases:
+  - Ravenna Tran
+  - Jenn Ravenna
+  - Jenn Ravenna-Tran
+  - Jen Ravenna Tran
 universe: any
 portfolio_url: https://www.jenravenna.com
-social: ["@jenravennaart"]
+social:
+  - @jenravennaart
 confidence: confirmed
 notes: |
   Magic: The Gathering illustrator. Earlier Magic work (Dominaria-era and prior)

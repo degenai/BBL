@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["super-saiyan", "transformation", "son-goku", "warrior", "saiyan", "golden", "power", "hero", "energy-aura", "ki", "fighter", "pressure"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "male-figure", "foil"]
+tags_hub:
+  - super-saiyan
+  - transformation
+  - son-goku
+  - warrior
+  - saiyan
+  - golden
+  - power
+  - hero
+  - energy-aura
+  - ki
+  - fighter
+  - pressure
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - male-figure
+  - foil
 reference_image: cards/_images/dragon-ball-super/cross-worlds/bt3-058-pressure-assault-super-saiyan-son-goku--foil.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401012615/84A2119562A29EFAA45FE1C9F34306FECC9A456D/
 image_width: 624
 image_height: 871

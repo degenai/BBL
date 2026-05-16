@@ -1,0 +1,42 @@
+{
+  "card_name": "Valakut Invoker",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "159",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Valakut Invoker is one of two Invoker cards in BFZ — paired with Oran-Rief Invoker (green, 182). Invokers are an R&D design category of common creatures with a repeatable 8-mana activated ability for the late game. The pattern originated in Legions (2003), returned in Rise of the Eldrazi (2010), appeared as two cards in BFZ, and cycled again in Commander Legends: Battle for Baldur's Gate (2022) [MTG Wiki: Invoker, via mtg.wiki/page/Invoker].",
+      "sources": ["MTG Wiki: Invoker (mtg.wiki)"]
+    },
+    {
+      "category": "design",
+      "text": "BFZ had only two Invokers rather than a full 5-card color-pie cycle — an intentional design decision, as the set's Eldrazi focus and colorless theme compressed the design space available for cycle completion [MTG Wiki: Invoker, via mtg.wiki/page/Invoker].",
+      "sources": ["MTG Wiki: Invoker (mtg.wiki)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"As long as we have walked this world, we have known it as a harsh and unforgiving place.\" — The Invokers' Tales [Scryfall]. The source is a named fictional in-world text, 'The Invokers' Tales,' suggesting a written tradition of invoker lore on Zendikar — one of the few BFZ flavor credits citing a named in-world document rather than a named NPC.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Statline: 2/3 for {2}{R} with an {8} activated ability dealing 3 damage to any target. The high activation cost is intentional to the Invoker design pattern — meant as a mana sink in long games rather than an efficient early play. Legal in Pauper (common rarity), Pioneer, Modern, Legacy, and Commander. EDHREC rank 15315 [Scryfall].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Oran-Rief Invoker", "set": "Battle for Zendikar", "note": "BFZ Invoker pair-mate — green, gives target creature +5/+5 and trample for {8}"},
+    {"name": "Valakut, the Molten Pinnacle", "set": "Zendikar", "note": "The volcanic landmark this invoker is named for; shared lore location"},
+    {"name": "Retreat to Valakut", "set": "Battle for Zendikar", "note": "Second BFZ card named for Valakut; both are red and share the volcanic mountain setting"},
+    {"name": "Flamekin Invoker", "set": "Lorwyn", "note": "Earlier Invoker cycle member from Lorwyn — same 8-mana design template"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: Return to Nature
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 197
 rarity: C
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["forest", "vines", "roots", "spear", "broken-weapon", "fallen-weapon", "overgrowth", "nature-reclaims", "divine-artifact", "gold", "decay", "still-life"]
-tags_filter: ["no-figure", "close-up", "narrative-mode", "green-magic", "instant", "object-focus", "no-face", "destroy-effect"]
+tags_hub:
+  - forest
+  - vines
+  - roots
+  - spear
+  - broken-weapon
+  - fallen-weapon
+  - overgrowth
+  - nature-reclaims
+  - divine-artifact
+  - gold
+  - decay
+  - still-life
+tags_filter:
+  - no-figure
+  - close-up
+  - narrative-mode
+  - green-magic
+  - instant
+  - object-focus
+  - no-face
+  - destroy-effect
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/197-return-to-nature.png
 average_cost_paid: 0
-market_price: 0.2
-market_price_as_of: 2026-05-14
+market_price: 0.22
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,10 +46,11 @@ mood: sublime
 time_of_day: indeterminate
 setting: forest
 artist: Kieran Yanner
-characters: [theros-pantheon]
+characters:
+  - theros-pantheon
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/197-return-to-nature--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/4/a4515a76-53f0-40a2-8b88-70b73447d1e6.jpg?1581480874
-flavor_text: \"Far-seeing Kruphix glimpsed the end: Heliod's spear cast down and broken.\"\n—*The Cosmogony*
+flavor_text: "\\\"Far-seeing Kruphix glimpsed the end: Heliod's spear cast down and broken.\\\"\\n—*The Cosmogony*"
 oracle_text: Choose one —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Exile target card from a graveyard.
 ---
 

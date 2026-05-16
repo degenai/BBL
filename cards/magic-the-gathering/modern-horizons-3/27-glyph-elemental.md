@@ -1,6 +1,6 @@
 ---
 name: Glyph Elemental
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 27
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["elemental", "ruins", "glyph", "rune", "gold", "lightning", "floating-islands", "ancient", "symbol", "magic-energy", "constructed-world"]
-tags_filter: ["solo", "mid-shot", "action", "no-face", "white-magic", "creature-enchantment", "landfall"]
+tags_hub:
+  - elemental
+  - ruins
+  - glyph
+  - rune
+  - gold
+  - lightning
+  - floating-islands
+  - ancient
+  - symbol
+  - magic-energy
+  - constructed-world
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - no-face
+  - white-magic
+  - creature-enchantment
+  - landfall
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/27-glyph-elemental.png
 average_cost_paid: 0
-market_price: 0.26
-market_price_as_of: 2026-05-14
+market_price: 0.25
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/8/9/89f48c8f-b6f9-43b2-91c3-8d6e95d62db9.png?1732541917
 art_match_confidence: high
 needs_manual_review: false

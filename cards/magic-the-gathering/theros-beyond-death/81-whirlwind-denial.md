@@ -1,6 +1,6 @@
 ---
 name: Whirlwind Denial
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 81
 rarity: U
@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["shield", "warrior", "magic", "fire", "ocean", "defense", "shoreline", "combat", "gold-armor", "spell-counter"]
-tags_filter: ["solo", "mid-shot", "action", "blue-magic", "instant", "forward-facing"]
+tags_hub:
+  - shield
+  - warrior
+  - magic
+  - fire
+  - ocean
+  - defense
+  - shoreline
+  - combat
+  - gold-armor
+  - spell-counter
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - blue-magic
+  - instant
+  - forward-facing
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/81-whirlwind-denial.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/9/e/9e127856-bedd-40a9-9e8e-d1f9fbefe07d.png?1581479658
 art_match_confidence: high
 needs_manual_review: false

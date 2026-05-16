@@ -1,6 +1,6 @@
 ---
 name: Treefolk Umbra
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons
 collector_number: 185
 rarity: C
@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["treefolk", "forest", "spirit", "green-magic-visual", "protection", "nature", "guardian", "aura", "stewardship", "giant-form"]
-tags_filter: ["duo", "wide", "narrative-mode", "forward-facing", "green-magic", "enchantment-aura"]
+tags_hub:
+  - treefolk
+  - forest
+  - spirit
+  - green-magic-visual
+  - protection
+  - nature
+  - guardian
+  - aura
+  - stewardship
+  - giant-form
+tags_filter:
+  - duo
+  - wide
+  - narrative-mode
+  - forward-facing
+  - green-magic
+  - enchantment-aura
 reference_image: cards/_images/magic-the-gathering/modern-horizons/185-treefolk-umbra.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-14
+market_price: 0.23
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/6/7/677166cf-4e1e-43ac-a67b-afaf33c0d14e.png?1562202227
 art_match_confidence: high
 needs_manual_review: false

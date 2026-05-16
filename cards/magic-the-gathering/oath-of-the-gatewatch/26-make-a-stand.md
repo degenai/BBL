@@ -1,6 +1,6 @@
 ---
 name: Make a Stand
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Oath of the Gatewatch
 collector_number: 26
 rarity: U
@@ -10,19 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["rebellion", "last-stand", "resistance", "unity", "protection", "magic-shield", "warrior", "siege", "survival", "solidarity", "courage"]
-tags_filter: ["group", "wide", "narrative", "forward-facing", "white-magic", "instant"]
+tags_hub:
+  - rebellion
+  - last-stand
+  - resistance
+  - unity
+  - protection
+  - magic-shield
+  - warrior
+  - siege
+  - survival
+  - solidarity
+  - courage
+tags_filter:
+  - group
+  - wide
+  - narrative
+  - forward-facing
+  - white-magic
+  - instant
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/26-make-a-stand.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/3/0/30cace63-91ca-493c-b67f-740fbbf06370.png?1562904926
 art_match_confidence: high
 needs_manual_review: false
 artist: Magali Villeneuve
-characters: [zendikari-resistance]
+characters:
+  - zendikari-resistance
 art_crop_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/26-make-a-stand--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/0/30cace63-91ca-493c-b67f-740fbbf06370.jpg?1562904926
 flavor_text: For a moment they stood tall, all fear forgotten.

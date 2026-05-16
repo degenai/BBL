@@ -1,6 +1,6 @@
 ---
 name: Memorial to Genius
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Dominaria
 collector_number: 243
 rarity: U
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["memorial", "monument", "library", "knowledge", "waterfall", "ruins", "spires", "mist", "landscape", "architecture", "scholarship", "sublime-vista"]
-tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "blue-magic", "land", "card-draw"]
+tags_hub:
+  - memorial
+  - monument
+  - library
+  - knowledge
+  - waterfall
+  - ruins
+  - spires
+  - mist
+  - landscape
+  - architecture
+  - scholarship
+  - sublime-vista
+tags_filter:
+  - no-figures
+  - wide-shot
+  - scene-mode
+  - no-face
+  - blue-magic
+  - land
+  - card-draw
 reference_image: cards/_images/magic-the-gathering/dominaria/243-memorial-to-genius.png
 average_cost_paid: 0
 market_price: 0.23
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,7 +47,7 @@ setting: other
 artist: James Paick
 art_crop_image: cards/_images/magic-the-gathering/dominaria/243-memorial-to-genius--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/9/b97bb62e-45cf-4862-b181-5af463a442b5.jpg?1562741840
-oracle_text: This land enters tapped.\n{T}: Add {U}.\n{4}{U}, {T}, Sacrifice this land: Draw two cards.
+oracle_text: "This land enters tapped.\\n{T}: Add {U}.\\n{4}{U}, {T}, Sacrifice this land: Draw two cards."
 ---
 
 # Memorial to Genius (Dominaria)

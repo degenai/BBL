@@ -1,7 +1,14 @@
 ---
 type: character
 name: Pan
-aliases: [pan, pan-dragon-ball-gt, pan-dragon-ball-z, pan-dragon-ball-super, pan-super-hero, kid-pan, gt-pan]
+aliases:
+  - pan
+  - pan-dragon-ball-gt
+  - pan-dragon-ball-z
+  - pan-dragon-ball-super
+  - pan-super-hero
+  - kid-pan
+  - gt-pan
 universe: "Dragon Ball franchise (Akira Toriyama / Toei Animation); introduced in Dragon Ball Z (manga 1995, anime 1996) as the infant daughter of Son Gohan and Videl during the End of Z epilogue arc; canonical lead-protagonist position established in Dragon Ball GT (Toei Animation, 1996-1997) as the youngest member of the Goku-Pan-Trunks Black Star Dragon Ball recovery trio; expanded across Dragon Ball Super (Toei Animation, 2015-2018) as a small child during the Universe Survival Saga / Tournament of Power era; reframed as the Pilaf-protected child in Dragon Ball Super: Super Hero film (Toei Animation, 2022); recurring across the Dragon Ball Super Card Game (Bandai, 2017-present) and Dragon Ball Heroes / Xenoverse 2 Bandai-canon expansions"
 faction: ~
 species: "quarter-Saiyan / three-quarter-Earthling (daughter of Son Gohan and Videl, granddaughter of Son Goku and Chi-Chi on her paternal Saiyan side, granddaughter of Mr. Satan / Hercule on her maternal Earthling side); canonically the franchise's first depicted *quarter-Saiyan* character and the lowest-Saiyan-blood-fraction protagonist Toriyama installed into Z-canon; canonically tail-less from birth (per Dragon Ball GT and Dragon Ball Super continuity); canonically cannot achieve Super Saiyan transformation despite her Saiyan lineage (per Toriyama's stated design rationale, repeatedly affirmed across franchise interviews and Toei production materials)"
@@ -13,10 +20,19 @@ appears_on:
   - dragon-ball-super/colossal-warfare/bt4-009-power-of-friendship-pan
   - dragon-ball-super/world-martial-arts-tournament/tb2-024-awakening-talent-pan
   - dragon-ball-super/cross-worlds/bt3-028-grand-tour-spaceship
-related_hubs: [labor]
+related_hubs: "[labor]"
 related_symbols: []
-related_characters: [son-goku, son-gohan, trunks, saiyan, bulma]
-ip_resolution_for: ["Pan", "Pan (Dragon Ball)", "Pan (Dragon Ball GT)", "Pan (Dragon Ball Super)"]
+related_characters:
+  - son-goku
+  - son-gohan
+  - trunks
+  - saiyan
+  - bulma
+ip_resolution_for:
+  - Pan
+  - Pan (Dragon Ball)
+  - Pan (Dragon Ball GT)
+  - Pan (Dragon Ball Super)
 ---
 
 # Pan

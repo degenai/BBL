@@ -1,7 +1,13 @@
 ---
 type: character
 name: Alola Trial Captains
-aliases: [alola-trial-captains, alola-tc, alola-island-trial-captains, sm-trial-captains, usum-trial-captains, alola-captains]
+aliases:
+  - alola-trial-captains
+  - alola-tc
+  - alola-island-trial-captains
+  - sm-trial-captains
+  - usum-trial-captains
+  - alola-captains
 universe: Pokemon / Alola (Pokemon Sun & Moon and Pokemon Ultra Sun & Ultra Moon, Game Freak / Creatures Inc. / Nintendo, 2016-2017)
 faction: "Alolan Island Challenge — Trial Captains (the senior local trainers who run the per-island themed Trials that precede the Grand Trial / Kahuna battle, the in-canon middle tier of Alola's three-tier league progression: Trial Captain → Island Kahuna → Elite Four)"
 species: faction-collective (seven canonical members across Sun & Moon and Ultra Sun & Ultra Moon — Ilima the Normal-type Hau'oli Trial captain, Lana the Water-type Brooklet Hill captain, Mallow the Grass-type Lush Jungle captain, Kiawe the Fire-type Wela Volcano Park captain, Sophocles the Electric-type Hokulani Observatory captain, Acerola the Ghost-type Thrifty Megamart captain who is later promoted to the Elite Four, and Mina the Fairy-type Poni Grove captain — Mina exclusive to Ultra Sun and Ultra Moon's post-game)
@@ -14,7 +20,11 @@ appears_on:
   - pokemon/mega-evolution/113-132-acerola-s-mischief
 related_hubs: []
 related_symbols: []
-related_characters: [alola-elite-four, alola-kahunas, acerola, aether-foundation]
+related_characters:
+  - alola-elite-four
+  - alola-kahunas
+  - acerola
+  - aether-foundation
 ip_resolution_for: alola-trial-captains
 ---
 # Alola Trial Captains

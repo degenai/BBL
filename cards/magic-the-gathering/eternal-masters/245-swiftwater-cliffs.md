@@ -1,6 +1,6 @@
 ---
 name: Swiftwater Cliffs
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Eternal Masters
 collector_number: 245
 rarity: C
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["waterfall", "cliff", "canyon", "river", "water", "stone", "wilderness", "landscape", "mist", "gorge", "desert-rock", "sublime-nature"]
-tags_filter: ["land", "no-figure", "scene-mode", "wide-shot", "blue-magic", "red-magic", "multicolor-blue-red", "lifegain", "tap-land", "vista"]
+tags_hub:
+  - waterfall
+  - cliff
+  - canyon
+  - river
+  - water
+  - stone
+  - wilderness
+  - landscape
+  - mist
+  - gorge
+  - desert-rock
+  - sublime-nature
+tags_filter:
+  - land
+  - no-figure
+  - scene-mode
+  - wide-shot
+  - blue-magic
+  - red-magic
+  - multicolor-blue-red
+  - lifegain
+  - tap-land
+  - vista
 reference_image: cards/_images/magic-the-gathering/eternal-masters/245-swiftwater-cliffs.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,7 +50,7 @@ setting: mountain
 artist: Eytan Zana
 art_crop_image: cards/_images/magic-the-gathering/eternal-masters/245-swiftwater-cliffs--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/e/6ecc7fdf-ff3e-4c09-9d5c-f08cf986689b.jpg?1580015360
-oracle_text: This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {U} or {R}.
+oracle_text: "This land enters tapped.\\nWhen this land enters, you gain 1 life.\\n{T}: Add {U} or {R}."
 ---
 
 # Swiftwater Cliffs (Eternal Masters)

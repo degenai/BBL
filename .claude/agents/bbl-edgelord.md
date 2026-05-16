@@ -74,6 +74,20 @@ Optional: the caller may also pass paths to hub MDs (`cards/_hubs/*.md`), symbol
 
    **For card→symbol edges:** update the card's `symbols:` frontmatter list (add the slug) AND extend the symbol MD's `appears_on:` list (add the card's `<game>/<set>/<num>-<slug>` path-key).
 
+   **YAML list form discipline (wave 92):** write list-typed frontmatter (`characters:`, `symbols:`, `hubs:`, `appears_on:`, etc.) in **block form**, not inline JSON:
+
+   ```yaml
+   # YES
+   characters:
+     - kaya
+     - foundway-associates
+
+   # NO — inline form renders as a single red string in Obsidian property panel
+   characters: ["kaya", "foundway-associates"]
+   ```
+
+   Empty arrays `field: []` stay inline. If you're updating a file that already has the inline form, convert to block form as you edit.
+
    **For card→hub edges:** the hub link is implicit in the card's `tags_hub` (which contains the hub slug). If the hub MD has an explicit `member_cards:` or canonical-examples section, extend it there. Don't add bare wikilinks unless they're load-bearing.
 
    **For card→artist edges:** ensure the card's `artist:` frontmatter matches a canonical-name resolution via `artist_resolve.py`. If the artist has an MD entry, ensure the MD's "Cards in our corpus" or `appears_on:` list mentions this card.

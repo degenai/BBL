@@ -10,20 +10,41 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["rabbit", "burrow", "underground", "party", "psychedelic", "rainbow", "confetti", "celebration", "digging", "small-creature", "comedic", "cute"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "single-figure", "centered-composition", "colorless-energy", "basic-pokemon", "common-rarity"]
+tags_hub:
+  - rabbit
+  - burrow
+  - underground
+  - party
+  - psychedelic
+  - rainbow
+  - confetti
+  - celebration
+  - digging
+  - small-creature
+  - comedic
+  - cute
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - single-figure
+  - centered-composition
+  - colorless-energy
+  - basic-pokemon
+  - common-rarity
 reference_image: cards/_images/pokemon/darkness-ablaze/150-189-bunnelby.png
 average_cost_paid: 0
-market_price: 0.16
-market_price_as_of: 2026-05-14
+market_price: 0.12
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/150_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Tomokazu Komiya
 flavor_text: It excels at digging holes. Using its ears, it can dig a nest 33 feet deep in one night.
-oracle_text: Mad Party (ColorlessColorless) 20×: This attack does 20 damage for each Pokémon in your discard pile that has the Mad Party attack.
+oracle_text: "Mad Party (ColorlessColorless) 20×: This attack does 20 damage for each Pokémon in your discard pile that has the Mad Party attack."
 mood: comedic
 time_of_day: indeterminate
 setting: other

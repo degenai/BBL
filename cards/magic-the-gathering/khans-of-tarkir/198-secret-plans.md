@@ -1,6 +1,6 @@
 ---
 name: Secret Plans
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Khans of Tarkir
 collector_number: 198
 rarity: U
@@ -10,14 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["rakshasa", "tiger", "demon", "cat", "fire", "flames", "fangs", "smoke", "embers", "predator", "secrets", "shadow"]
-tags_filter: ["solo", "close-up", "portrait-mode", "forward-facing", "no-human", "creature-only", "enchantment", "multicolor-blue-black", "blue-magic", "black-magic", "morph-matters"]
+tags_hub:
+  - rakshasa
+  - tiger
+  - demon
+  - cat
+  - fire
+  - flames
+  - fangs
+  - smoke
+  - embers
+  - predator
+  - secrets
+  - shadow
+tags_filter:
+  - solo
+  - close-up
+  - portrait-mode
+  - forward-facing
+  - no-human
+  - creature-only
+  - enchantment
+  - multicolor-blue-black
+  - blue-magic
+  - black-magic
+  - morph-matters
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/198-secret-plans.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

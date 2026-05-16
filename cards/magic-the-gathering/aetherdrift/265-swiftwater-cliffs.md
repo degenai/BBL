@@ -1,6 +1,6 @@
 ---
 name: Swiftwater Cliffs
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 265
 rarity: L
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["racing", "boat", "vehicle", "water", "ocean", "cliffs", "speed", "pursuit", "adventure", "coast", "rider", "race"]
-tags_filter: ["solo", "wide-shot", "three-quarter", "scene-mode", "land", "blue-magic", "red-magic", "multicolor-blue-red", "no-face", "action-shot"]
+tags_hub:
+  - racing
+  - boat
+  - vehicle
+  - water
+  - ocean
+  - cliffs
+  - speed
+  - pursuit
+  - adventure
+  - coast
+  - rider
+  - race
+tags_filter:
+  - solo
+  - wide-shot
+  - three-quarter
+  - scene-mode
+  - land
+  - blue-magic
+  - red-magic
+  - multicolor-blue-red
+  - no-face
+  - action-shot
 reference_image: cards/_images/magic-the-gathering/aetherdrift/265-swiftwater-cliffs.png
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price: 0.19
+market_price_as_of: 2026-05-16
 date_added: 2026-05-10
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/9/4/949bf6bb-1e97-48a3-8547-0a780664c275.png?1738356952
 art_match_confidence: high
 needs_manual_review: false
@@ -28,7 +50,7 @@ artist: Mark Poole
 art_crop_image: cards/_images/magic-the-gathering/aetherdrift/265-swiftwater-cliffs--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/4/949bf6bb-1e97-48a3-8547-0a780664c275.jpg?1738356952
 flavor_text: The Keelhaulers channel their prey drive into thrilling, cutthroat pursuits. Glory is all the sweeter when it's won at the expense of others.
-oracle_text: This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {U} or {R}.
+oracle_text: "This land enters tapped.\\nWhen this land enters, you gain 1 life.\\n{T}: Add {U} or {R}."
 ---
 
 # Swiftwater Cliffs (Aetherdrift)

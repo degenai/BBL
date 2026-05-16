@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["supreme-kai", "deity", "defiance", "warrior", "divine", "majin", "universe-7", "resistance", "purple", "god", "fighter", "buu-saga"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "male-figure"]
+tags_hub:
+  - supreme-kai
+  - deity
+  - defiance
+  - warrior
+  - divine
+  - majin
+  - universe-7
+  - resistance
+  - purple
+  - god
+  - fighter
+  - buu-saga
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - male-figure
 reference_image: cards/_images/dragon-ball-super/cross-worlds/bt3-040-majin-defier-south-supreme-kai.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401009378/6DD46ED0CE98DAAE0501CF9597604CAFA01EC701/
 image_width: 624
 image_height: 871

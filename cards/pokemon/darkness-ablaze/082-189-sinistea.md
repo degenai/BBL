@@ -10,20 +10,39 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["ghost", "tea", "teacup", "haunted", "possession", "cozy-horror", "vessel", "spirit", "galar", "supernatural", "purple", "uncanny"]
-tags_filter: ["solo", "close-up", "portrait", "forward-facing", "psychic-magic", "basic-pokemon", "no-face"]
+tags_hub:
+  - ghost
+  - tea
+  - teacup
+  - haunted
+  - possession
+  - cozy-horror
+  - vessel
+  - spirit
+  - galar
+  - supernatural
+  - purple
+  - uncanny
+tags_filter:
+  - solo
+  - close-up
+  - portrait
+  - forward-facing
+  - psychic-magic
+  - basic-pokemon
+  - no-face
 reference_image: cards/_images/pokemon/darkness-ablaze/082-189-sinistea.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/82_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Kouki Saitou
 flavor_text: This Pokémon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea.
-oracle_text: Furtive Drop (Colorless): Put 2 damage counters on your opponent's Active Pokémon.
+oracle_text: "Furtive Drop (Colorless): Put 2 damage counters on your opponent's Active Pokémon."
 mood: horror
 time_of_day: indeterminate
 setting: indoor

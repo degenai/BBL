@@ -1,23 +1,42 @@
 ---
 name: Turn into a Pumpkin
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 69
 rarity: U
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["pumpkin", "harvest", "night", "moonlight", "ogre", "troll", "garden", "fairy-tale", "transformation", "folk-horror", "vines", "autumn"]
-tags_filter: ["solo", "scene-mode", "wide-shot", "forward-facing", "blue-magic", "instant", "narrative-mode"]
+tags_hub:
+  - pumpkin
+  - harvest
+  - night
+  - moonlight
+  - ogre
+  - troll
+  - garden
+  - fairy-tale
+  - transformation
+  - folk-horror
+  - vines
+  - autumn
+tags_filter:
+  - solo
+  - scene-mode
+  - wide-shot
+  - forward-facing
+  - blue-magic
+  - instant
+  - narrative-mode
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/69-turn-into-a-pumpkin.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -25,11 +44,12 @@ reference_image_source_url: https://cards.scryfall.io/png/front/f/2/f2a37dcb-4a1
 mood: other
 time_of_day: night
 setting: other
-characters: [eld-cinderella-cycle]
+characters:
+  - eld-cinderella-cycle
 artist: Vincent Proce
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/69-turn-into-a-pumpkin--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/2/f2a37dcb-4a18-4f03-b28c-27188a1a5ec1.jpg?1572490021
-oracle_text: Return target nonland permanent to its owner's hand. Draw a card.\nAdamant — If at least three blue mana was spent to cast this spell, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")
+oracle_text: "Return target nonland permanent to its owner's hand. Draw a card.\\nAdamant — If at least three blue mana was spent to cast this spell, create a Food token. (It's an artifact with \\\"{2}, {T}, Sacrifice this token: You gain 3 life.\\\")"
 ---
 
 # Turn into a Pumpkin (Throne of Eldraine)

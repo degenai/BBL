@@ -1,6 +1,6 @@
 ---
 name: Wicked Guardian
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 109
 rarity: C
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["noble", "throne", "servant", "labor", "scrubbing", "cruelty", "hierarchy", "gothic", "castle", "robed-figure", "villain", "fairy-tale"]
-tags_filter: ["duo", "mid-shot", "forward-facing", "scene-mode", "female-figure", "indoor", "black-magic", "creature-human", "noble-type", "backlit"]
+tags_hub:
+  - noble
+  - throne
+  - servant
+  - labor
+  - scrubbing
+  - cruelty
+  - hierarchy
+  - gothic
+  - castle
+  - robed-figure
+  - villain
+  - fairy-tale
+tags_filter:
+  - duo
+  - mid-shot
+  - forward-facing
+  - scene-mode
+  - female-figure
+  - indoor
+  - black-magic
+  - creature-human
+  - noble-type
+  - backlit
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/109-wicked-guardian.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -25,7 +47,8 @@ reference_image_source_url: https://cards.scryfall.io/png/front/7/1/71cd91b2-0f9
 mood: grim
 time_of_day: indeterminate
 setting: indoor
-characters: [eld-cinderella-cycle]
+characters:
+  - eld-cinderella-cycle
 artist: Matt Stewart
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/109-wicked-guardian--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/1/71cd91b2-0f9b-4582-ad90-32fa3ee1fde7.jpg?1572490265

@@ -1,6 +1,6 @@
 ---
 name: Bala Ged Recovery
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Zendikar Rising
 collector_number: 180
 rarity: U
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["jungle", "ruins", "overgrowth", "reclamation", "vines", "forest", "stone-architecture", "regrowth", "lost-civilization", "canopy", "wilderness", "nature-reclaims"]
-tags_filter: ["no-figures", "scene-mode", "wide-shot", "no-face", "green-magic", "sorcery", "modal-double-faced-card", "vertical-composition"]
+tags_hub:
+  - jungle
+  - ruins
+  - overgrowth
+  - reclamation
+  - vines
+  - forest
+  - stone-architecture
+  - regrowth
+  - lost-civilization
+  - canopy
+  - wilderness
+  - nature-reclaims
+tags_filter:
+  - no-figures
+  - scene-mode
+  - wide-shot
+  - no-face
+  - green-magic
+  - sorcery
+  - modal-double-faced-card
+  - vertical-composition
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/180-bala-ged-recovery--foil.png
 average_cost_paid: 0
-market_price: 8.97
-market_price_as_of: 2026-05-14
+market_price: 9.07
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

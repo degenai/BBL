@@ -1,6 +1,6 @@
 ---
 name: Lonely Sandbar
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons
 collector_number: 242
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["ocean", "beach", "boat", "sandbar", "island", "palm-tree", "shallows", "solitude", "marooned", "calm-water", "tropical"]
-tags_filter: ["no-face", "wide-shot", "scene-mode", "no-figure", "land", "blue-magic", "cycling"]
+tags_hub:
+  - ocean
+  - beach
+  - boat
+  - sandbar
+  - island
+  - palm-tree
+  - shallows
+  - solitude
+  - marooned
+  - calm-water
+  - tropical
+tags_filter:
+  - no-face
+  - wide-shot
+  - scene-mode
+  - no-figure
+  - land
+  - blue-magic
+  - cycling
 reference_image: cards/_images/magic-the-gathering/modern-horizons/242-lonely-sandbar.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Modern Horizons'
@@ -28,7 +46,7 @@ setting: ocean
 artist: Noah Bradley
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons/242-lonely-sandbar--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/4/54e0fcc2-2409-4e00-95d5-418ffa161c20.jpg?1562202574
-oracle_text: This land enters tapped.\n{T}: Add {U}.\nCycling {U} ({U}, Discard this card: Draw a card.)
+oracle_text: "This land enters tapped.\\n{T}: Add {U}.\\nCycling {U} ({U}, Discard this card: Draw a card.)"
 ---
 
 # Lonely Sandbar (Modern Horizons)

@@ -1,6 +1,6 @@
 ---
 name: Neutralize the Guards
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Outlaws of Thunder Junction
 collector_number: 95
 rarity: U
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["heist", "vault", "poison", "gas", "infiltration", "outlaw", "sabotage", "crime", "frontier", "western", "stealth", "chaos"]
-tags_filter: ["wide", "narrative", "group", "forward-facing", "black-magic", "sorcery", "indoor", "smoke"]
+tags_hub:
+  - heist
+  - vault
+  - poison
+  - gas
+  - infiltration
+  - outlaw
+  - sabotage
+  - crime
+  - frontier
+  - western
+  - stealth
+  - chaos
+tags_filter:
+  - wide
+  - narrative
+  - group
+  - forward-facing
+  - black-magic
+  - sorcery
+  - indoor
+  - smoke
 reference_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/95-neutralize-the-guards.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/6/0/60f1a481-598e-4e05-8471-eedb12a39022.png?1712355617
 art_match_confidence: high
 needs_manual_review: false

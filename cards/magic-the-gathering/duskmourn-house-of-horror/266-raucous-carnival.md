@@ -1,7 +1,7 @@
 ---
 name: Raucous Carnival
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 266
 rarity: L
 variance: Normal
@@ -10,15 +10,40 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-characters: ["dsk-unlucky-lands-cycle"]
-tags_hub: ["carnival", "amusement-park", "circus", "big-top", "roller-coaster", "carousel", "abandoned-place", "haunted-house", "ruins", "graveyard", "cathedral", "sunset", "wildflowers"]
-tags_filter: ["no-figures", "wide-shot", "scene-mode", "land", "dual-land", "red-magic", "white-magic", "multicolor-red-white", "no-face", "indoor-setting", "landscape-format"]
+characters:
+  - dsk-unlucky-lands-cycle
+tags_hub:
+  - carnival
+  - amusement-park
+  - circus
+  - big-top
+  - roller-coaster
+  - carousel
+  - abandoned-place
+  - haunted-house
+  - ruins
+  - graveyard
+  - cathedral
+  - sunset
+  - wildflowers
+tags_filter:
+  - no-figures
+  - wide-shot
+  - scene-mode
+  - land
+  - dual-land
+  - red-magic
+  - white-magic
+  - multicolor-red-white
+  - no-face
+  - indoor-setting
+  - landscape-format
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/266-raucous-carnival.png
 average_cost_paid: 0
-market_price: 0.23
-market_price_as_of: 2026-05-14
+market_price: 0.27
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/3/6/3604a211-9bf7-474e-bd78-32a862f4259c.png?1726286867
 art_match_confidence: high
 needs_manual_review: false
@@ -26,7 +51,7 @@ artist: Josu Solano
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/266-raucous-carnival--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/6/3604a211-9bf7-474e-bd78-32a862f4259c.jpg?1726286867
 flavor_text: They say that those who enter the amusement park never come back, and their disembodied laughter joins the others on the wind.
-oracle_text: This land enters tapped unless a player has 13 or less life.\n{T}: Add {R} or {W}.
+oracle_text: "This land enters tapped unless a player has 13 or less life.\\n{T}: Add {R} or {W}."
 mood: grim
 time_of_day: magic-hour
 setting: indoor

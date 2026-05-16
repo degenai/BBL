@@ -1,7 +1,12 @@
 ---
 type: hub-meta
 name: Triple Thesis
-aliases: [triple-thesis, hub-triangle, three-hub-triangle, produce-refuse-tend, the-three-verbs]
+aliases:
+  - triple-thesis
+  - hub-triangle
+  - three-hub-triangle
+  - produce-refuse-tend
+  - the-three-verbs
 anchored_lairs: []
 brand_weight: foundational-meta
 ---

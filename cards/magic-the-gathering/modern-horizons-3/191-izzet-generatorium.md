@@ -1,6 +1,6 @@
 ---
 name: Izzet Generatorium
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 191
 rarity: U
@@ -13,15 +13,35 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-characters: ["izzet-league"]
-tags_hub: ["machine", "industry", "lightning", "steampunk", "golem", "labor", "engineering", "scale", "izzet", "electricity", "factory", "underground"]
-tags_filter: ["solo", "wide", "scene-mode", "forward-facing", "colorless-land", "artifact-land", "energy"]
+characters:
+  - izzet-league
+tags_hub:
+  - machine
+  - industry
+  - lightning
+  - steampunk
+  - golem
+  - labor
+  - engineering
+  - scale
+  - izzet
+  - electricity
+  - factory
+  - underground
+tags_filter:
+  - solo
+  - wide
+  - scene-mode
+  - forward-facing
+  - colorless-land
+  - artifact-land
+  - energy
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/191-izzet-generatorium.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/c/6/c6d9537d-c6b9-46ef-834b-87750d79f1ae.png?1718364531
 art_match_confidence: high
 needs_manual_review: false
@@ -29,7 +49,7 @@ artist: Yeong-Hao Han
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/191-izzet-generatorium--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/6/c6d9537d-c6b9-46ef-834b-87750d79f1ae.jpg?1718364531
 flavor_text: Hard hats are required. Shock-resistant coveralls aren't, but are highly recommended.
-oracle_text: If you would get one or more {E} (energy counters), you get that many plus one {E} instead.\n{T}: Draw a card. Activate only if you've paid or lost four or more {E} this turn.
+oracle_text: "If you would get one or more {E} (energy counters), you get that many plus one {E} instead.\\n{T}: Draw a card. Activate only if you've paid or lost four or more {E} this turn."
 mood: sublime
 time_of_day: indeterminate
 setting: indoor

@@ -1,7 +1,7 @@
 ---
 name: Infernal Phantom
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 141
 rarity: U
 variance: Normal
@@ -10,15 +10,37 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["ghost", "phantom", "haunted-house", "fire", "poltergeist", "ruin", "destruction", "spirit", "horror", "victorian", "mansion", "claws"]
-tags_filter: ["solo", "wide-shot", "scene-mode", "forward-facing", "no-face", "red-magic", "creature-spirit", "indoor-scene", "action-pose"]
-symbols: ["eerie"]
+tags_hub:
+  - ghost
+  - phantom
+  - haunted-house
+  - fire
+  - poltergeist
+  - ruin
+  - destruction
+  - spirit
+  - horror
+  - victorian
+  - mansion
+  - claws
+tags_filter:
+  - solo
+  - wide-shot
+  - scene-mode
+  - forward-facing
+  - no-face
+  - red-magic
+  - creature-spirit
+  - indoor-scene
+  - action-pose
+symbols:
+  - eerie
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/141-infernal-phantom.png
 average_cost_paid: 0
-market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price: 0.08
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/f/0/f0c5999f-a185-4fc7-86fa-c4e5b091e768.png?1726286374
 art_match_confidence: high
 needs_manual_review: false
@@ -29,7 +51,8 @@ oracle_text: Eerie — Whenever an enchantment you control enters and whenever y
 mood: horror
 time_of_day: indeterminate
 setting: indoor
-characters: ["valgavoth"]
+characters:
+  - valgavoth
 ---
 
 # Infernal Phantom (Duskmourn: House of Horror)

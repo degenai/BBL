@@ -10,15 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-characters: ["crane-school-cohort"]
-tags_hub: ["assassin", "mercenary", "energy-sphere", "tournament", "villain", "paid-killer", "labor", "bald", "patterned-robe", "threat"]
-tags_filter: ["solo", "mid-shot", "action", "male-figure", "anime-style", "three-quarter"]
+characters:
+  - crane-school-cohort
+tags_hub:
+  - assassin
+  - mercenary
+  - energy-sphere
+  - tournament
+  - villain
+  - paid-killer
+  - labor
+  - bald
+  - patterned-robe
+  - threat
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - male-figure
+  - anime-style
+  - three-quarter
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-048-mercenary-tao-trading-moves.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408079415/B7EC3F9B762EE77C69DA2A1C48DD6B0E0F7F468A/
 image_width: 624
 image_height: 871

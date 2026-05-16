@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["trainer", "rival", "gym-leader", "school", "scholar", "teacher", "caretaker", "glasses", "unova", "youth"]
-tags_filter: ["solo", "portrait", "forward-facing", "mid-shot", "male-figure", "supporter", "trainer-card"]
+tags_hub:
+  - trainer
+  - rival
+  - gym-leader
+  - school
+  - scholar
+  - teacher
+  - caretaker
+  - glasses
+  - unova
+  - youth
+tags_filter:
+  - solo
+  - portrait
+  - forward-facing
+  - mid-shot
+  - male-figure
+  - supporter
+  - trainer-card
 reference_image: cards/_images/pokemon/brilliant-stars/134-172-cheren-s-care.png
 average_cost_paid: 0
-market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price: 0.1
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh9/134_hires.png
 art_match_confidence: high
 needs_manual_review: false

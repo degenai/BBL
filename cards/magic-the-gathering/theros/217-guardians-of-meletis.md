@@ -1,6 +1,6 @@
 ---
 name: Guardians of Meletis
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros
 collector_number: 217
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["statue", "colossus", "guardian", "monument", "ruins", "twins", "stone", "ocean", "mist", "ancient-history", "greek-myth", "memorial", "scale-contrast"]
-tags_filter: ["duo", "wide-shot", "scene-mode", "no-face", "forward-facing", "artifact", "creature-golem", "colorless"]
+tags_hub:
+  - statue
+  - colossus
+  - guardian
+  - monument
+  - ruins
+  - twins
+  - stone
+  - ocean
+  - mist
+  - ancient-history
+  - greek-myth
+  - memorial
+  - scale-contrast
+tags_filter:
+  - duo
+  - wide-shot
+  - scene-mode
+  - no-face
+  - forward-facing
+  - artifact
+  - creature-golem
+  - colorless
 reference_image: cards/_images/magic-the-gathering/theros/217-guardians-of-meletis.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros'

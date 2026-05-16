@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["sword", "swordsman", "warrior", "blade", "young-fighter", "hero", "combat", "calm-before-storm", "anime-style", "determination"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "portrait", "male-figure", "weapon"]
+tags_hub:
+  - sword
+  - swordsman
+  - warrior
+  - blade
+  - young-fighter
+  - hero
+  - combat
+  - calm-before-storm
+  - anime-style
+  - determination
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - portrait
+  - male-figure
+  - weapon
 reference_image: cards/_images/dragon-ball-super/cross-worlds/bt3-112-unrelenting-assault-trunks.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401021510/4C5ADF291BA5392AF28DD763EE668F5F135FE872/
 image_width: 624
 image_height: 871
@@ -30,7 +46,8 @@ setting: void
 suspected_ip: "Trunks: Xeno (Dragon Ball)"
 ip_confidence: high
 ip_verified: true
-characters: [trunks]
+characters:
+  - trunks
 ---
 
 # Unrelenting Assault Trunks (Cross Worlds)

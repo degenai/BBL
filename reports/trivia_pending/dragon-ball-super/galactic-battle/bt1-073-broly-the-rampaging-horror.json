@@ -1,0 +1,41 @@
+{
+  "card_name": "Broly, The Rampaging Horror",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-073",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, character field, and era trait (Broly Saga) explicitly name Broly. The card was released in 2017 when only the Koyama/Toei Broly existed in canon; the Toriyama-redesigned DBS Broly didn't appear until 2018. Visual description (massive muscular frame, spiked green-tinted Legendary Super Saiyan hair, circular waist gem, arms spread in dominance display) matches the classic Toei Broly design. The circular waist gem is a signature visual identifier of the Toei Broly — it is the control device Paragus used to suppress him. IP verified as Broly (Toei/Koyama movie version, DBZ Movie 8).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT1-073 is a Special Rare (SPR) Battle card from Galactic Battle (DBS-B01), the inaugural booster set of the Dragon Ball Super Card Game, released in 2017. Galactic Battle drew heavily from the classic Dragon Ball Z film roster, including the Broly Saga — the three Toei Broly films (Movie 8, Second Coming, Bio-Broly). [WebSearch: PSA CardFacts BT1-073; Galactic Battle overview search results]",
+      "sources": ["WebSearch: PSA CardFacts BT1-073 Broly Rampaging Horror", "WebSearch: Galactic Battle BT1 set overview"]
+    },
+    {
+      "category": "design",
+      "text": "Green Battle card, power 30000, energy cost 6. Effect: when played, choose up to 2 cards from the opponent's hand at random and send them to the Drop Area — a hand-disruption ability mirroring Broly's chaotic, all-obliterating power level. Both SR and SPR versions of this card exist; the SPR treatment carries alternate art. [WebSearch: TCGplayer BT1-073 listing; PSA CardFacts BT1-073]",
+      "sources": ["WebSearch: Galactic Battle Broly BT1-073 card details", "WebSearch: PSA CardFacts BT1-073"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The depicted Broly is the Koyama/Toei version from Dragon Ball Z Movie 8: Broly — The Legendary Super Saiyan (Japanese theatrical release March 6, 1993), not the Toriyama-redesigned version from Dragon Ball Super: Broly (2018). The two are distinct characters: the Toei Broly was created by Takao Koyama and has no official manga or Toriyama-authored appearance, while the 2018 DBS Broly was designed by Toriyama himself. The circular gem at the waist — visible in the vision description — is the Toei Broly's signature identifier: the control crown device Paragus used to suppress his power. [WebSearch: Dragon Ball Wiki — DBZ Movie 8; Wikipedia — Dragon Ball Z: Broly - The Legendary Super Saiyan]",
+      "sources": ["Dragon Ball Wiki (WebSearch snippet)", "Wikipedia DBZ Movie 8 (WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "In Movie 8, Broly's hatred of Goku (Kakarot) originates from an infant memory: Goku's incessant crying in an adjacent pod on Planet Vegeta drove the newborn Broly to a fury. This origin is widely cited in community discourse as one of the more absurd but beloved premises in Dragon Ball film history. The Toei Broly became the franchise's most recognizable antagonist across the 1990s film era, spawning two direct sequels. [WebSearch: DBZ Movie 8 plot summary via Dragon Ball Wiki; Wikipedia Dragon Ball Z: Broly]",
+      "sources": ["Dragon Ball Wiki (WebSearch snippet)", "Wikipedia (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Broly // Broly, The Legendary Super Saiyan", "set": "Galactic Battle (BT1-057)", "note": "Leader card for the same character in the same set — the flip-Leader counterpart"},
+    {"name": "Paragus (various)", "set": "multiple DBS sets", "note": "Broly's father and controller; the waist gem control device originates with Paragus"},
+    {"name": "Son Goku (various)", "set": "multiple DBS sets", "note": "Broly's infant-memory nemesis; Goku's crying triggered Broly's lifelong fixation"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

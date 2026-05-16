@@ -10,20 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["imp", "trickster", "darkness", "night", "menace", "galar", "evolution", "sinister", "fairy", "deception"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "darkness-type", "pokemon-stage1"]
+tags_hub:
+  - imp
+  - trickster
+  - darkness
+  - night
+  - menace
+  - galar
+  - evolution
+  - sinister
+  - fairy
+  - deception
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - darkness-type
+  - pokemon-stage1
 reference_image: cards/_images/pokemon/rebel-clash/124-192-morgrem.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh2/124_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Hitoshi Ariga
 flavor_text: When it gets down on all fours as if to beg for forgiveness, it's trying to lure opponents in so that it can stab them with its spear-like hair.
-oracle_text: Bite (Darkness) 30\nFalse Surrender (DarknessColorlessColorless) 60: This attack's damage isn't affected by any effects on your opponent's Active Pokémon.
+oracle_text: "Bite (Darkness) 30\\nFalse Surrender (DarknessColorlessColorless) 60: This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
 mood: grim
 time_of_day: night
 setting: other

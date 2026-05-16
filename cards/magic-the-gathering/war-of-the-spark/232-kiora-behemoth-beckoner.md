@@ -1,6 +1,6 @@
 ---
 name: Kiora, Behemoth Beckoner
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 232
 rarity: U
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["ocean", "sea-monster", "leviathan", "merfolk", "storm", "trident", "summoner", "warrior-woman", "ritual", "wave", "armor", "blue-skin"]
-tags_filter: ["duo", "mid-shot", "forward-facing", "scene-mode", "female-figure", "blue-magic", "planeswalker", "legendary", "uncommon"]
+tags_hub:
+  - ocean
+  - sea-monster
+  - leviathan
+  - merfolk
+  - storm
+  - trident
+  - summoner
+  - warrior-woman
+  - ritual
+  - wave
+  - armor
+  - blue-skin
+tags_filter:
+  - duo
+  - mid-shot
+  - forward-facing
+  - scene-mode
+  - female-figure
+  - blue-magic
+  - planeswalker
+  - legendary
+  - uncommon
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner.png
 average_cost_paid: 0
-market_price: 1.23
-market_price_as_of: 2026-05-14
+market_price: 1.24
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/7/a/7a61b1a6-a75f-47b0-b215-de9708b6d773.png?1557577371
 art_match_confidence: high
 needs_manual_review: false
@@ -27,11 +48,12 @@ setting: ocean
 suspected_ip: Kiora
 ip_confidence: high
 ip_verified: true
-characters: ["kiora"]
+characters:
+  - kiora
 artist: Jaime Jones
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/a/7a61b1a6-a75f-47b0-b215-de9708b6d773.jpg?1557577371
-oracle_text: Whenever a creature you control with power 4 or greater enters, draw a card.\n−1: Untap target permanent.
+oracle_text: "Whenever a creature you control with power 4 or greater enters, draw a card.\\n−1: Untap target permanent."
 ---
 
 # Kiora, Behemoth Beckoner (War of the Spark)

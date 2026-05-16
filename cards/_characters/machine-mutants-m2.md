@@ -1,7 +1,15 @@
 ---
 type: character
 name: "Machine Mutants of Planet M-2 (Dr. Myuu's M-2 garrison + Sigma Force + Giru defector — Dragon Ball GT Black Star Dragon Ball Saga prelude cohort)"
-aliases: [machine-mutants-m2, machine-mutants, m-2-garrison, machine-planet-m-2, machine-mutant-faction, dr-myuu-faction, sigma-force, m2-mutants]
+aliases:
+  - machine-mutants-m2
+  - machine-mutants
+  - m-2-garrison
+  - machine-planet-m-2
+  - machine-mutant-faction
+  - dr-myuu-faction
+  - sigma-force
+  - m2-mutants
 universe: "Dragon Ball franchise (Akira Toriyama / Toei Animation); the Machine Mutants of Planet M-2 are introduced in Dragon Ball GT (Toei Animation, 1996-1997) across the early Black Star Dragon Ball Saga episodes preceding the Baby Saga proper, as Dr. Myuu's mechanical-life-form race engineered on Machine Planet M-2 to serve as a prelude-antagonist-roster Goku, Pan, and Trunks confront during the Black Star Dragon Ball recovery journey; the M-2 arc spans canonical episodes 9-13 of Dragon Ball GT (October-November 1996) and includes the canonical Goku-vs-General-Rilldo battle (Goku's first Super Saiyan 3 transformation in the GT continuity), the canonical Sigma Force / Super Mega Cannon Sigma fusion-fight, and the canonical Giru-defection-to-the-heroes beat that adds the Machine Mutant to the GT traveling roster; the cohort recurs across the Dragon Ball Super Card Game (Bandai, 2017-present) as the Cross Worlds BT3 set's designer-coordinated red Machine Mutant deck archetype per the Bandai BT3 design concept page"
 faction: "Machine Mutant — a mechanical-life-form race created by Dr. Myuu on Planet M-2 to function as a galaxy-spanning mercenary-and-conquest apparatus; canonical members in corpus comprise Dr. Myuu (creator-scientist, M-2 commander, canonically Baby's retroactively-engineered creator per the Age-730 / Age-740 bootstrap paradox), General Rilldo (top-general of M-2's military, multi-stage transformation system culminating in Hyper Meta-Rilldo merged-with-the-planet liquid-metal apex), the Sigma Force (Commander Nezi, Bizu, Ribet, Natt — elite mercenary unit whose four members merge into Super Mega Cannon Sigma at a combined 10,000,000 power level), Luud (Myuu-constructed god-machine in worshipper-extraction mode), and Giru (the canonical defector — originally an M-2-engineered surveillance Machine Mutant who accidentally swallows Trunks's Dragon Radar, bonds with Pan, and becomes the GT traveling-trio's fourth member); the cohort canonically operates under Dr. Myuu's direct command across the M-2 arc and is canonically subsumed under Baby's apparatus once Baby kills and emerges from Myuu in the canonical Age-740 reveal"
 species: "faction-collective (Machine Mutant race — bio-mechanical life-forms canonically engineered by Dr. Myuu on Planet M-2; canonical visual identifiers across the cohort include the canonical mechanical-construction-with-organic-design-cues body register, the canonical metallic-armor-as-skin design device, the canonical glowing-eye or cyclops-eye facial-identifier across multiple cohort members, the canonical absorption-and-merger combat-mechanic operating at the species level — Machine Mutants can canonically absorb other machines or fuse with each other to combine capabilities; Giru exemplifies the absorption-mechanic at the individual scale by absorbing the Dragon Radar's function, Rilldo exemplifies the merger-with-infrastructure at the apex scale by becoming one with M-2's planetary metal in Hyper Meta-Rilldo form, the Sigma Force exemplifies the merge-into-combined-form at the cohort scale via Super Mega Cannon Sigma)"
@@ -13,10 +21,20 @@ appears_on:
   - dragon-ball-super/cross-worlds/bt3-017-dr-myuu-under-baby-s-control
   - dragon-ball-super/cross-worlds/bt3-020-hidden-ability-general-rilldo
   - dragon-ball-super/cross-worlds/bt3-024-mega-cannon-sigma-bizu
-related_hubs: [labor]
+related_hubs: "[labor]"
 related_symbols: []
-related_characters: [baby-dbgt, pan, son-goku, trunks]
-ip_resolution_for: ["Machine Mutant", "Machine Mutants", "Machine Planet M-2", "Planet M-2", "Dr. Myuu's M-2 faction", "Sigma Force"]
+related_characters:
+  - baby-dbgt
+  - pan
+  - son-goku
+  - trunks
+ip_resolution_for:
+  - Machine Mutant
+  - Machine Mutants
+  - Machine Planet M-2
+  - Planet M-2
+  - Dr. Myuu's M-2 faction
+  - Sigma Force
 ---
 
 # Machine Mutants of Planet M-2 (Dr. Myuu's M-2 garrison + Sigma Force + Giru defector)

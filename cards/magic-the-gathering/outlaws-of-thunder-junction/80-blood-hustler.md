@@ -1,6 +1,6 @@
 ---
 name: Blood Hustler
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Outlaws of Thunder Junction
 collector_number: 80
 rarity: U
@@ -10,21 +10,42 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["gambling", "card-game", "western", "cowboy", "saloon", "hustler", "outlaw", "blood", "magic", "crime", "blade", "frontier"]
-tags_filter: ["close-up", "portrait", "solo", "three-quarter", "black-magic", "creature", "indoor", "chiaroscuro", "night"]
+tags_hub:
+  - gambling
+  - card-game
+  - western
+  - cowboy
+  - saloon
+  - hustler
+  - outlaw
+  - blood
+  - magic
+  - crime
+  - blade
+  - frontier
+tags_filter:
+  - close-up
+  - portrait
+  - solo
+  - three-quarter
+  - black-magic
+  - creature
+  - indoor
+  - chiaroscuro
+  - night
 reference_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/80-blood-hustler.png
 average_cost_paid: 0
-market_price: 0.2
-market_price_as_of: 2026-05-14
+market_price: 0.21
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/1/0/1016a750-2a18-4443-a600-957eb4026d3a.png?1712355556
 art_match_confidence: high
 needs_manual_review: false
 artist: Anna Pavleeva
 art_crop_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/80-blood-hustler--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/0/1016a750-2a18-4443-a600-957eb4026d3a.jpg?1712355556
-oracle_text: Whenever you commit a crime, put a +1/+1 counter on this creature. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\n{3}{B}: Target opponent loses 1 life and you gain 1 life.
+oracle_text: "Whenever you commit a crime, put a +1/+1 counter on this creature. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\\n{3}{B}: Target opponent loses 1 life and you gain 1 life."
 image_width: 745
 image_height: 1040
 image_quality: high

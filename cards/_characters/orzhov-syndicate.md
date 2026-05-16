@@ -1,7 +1,12 @@
 ---
 type: character
 name: Orzhov Syndicate
-aliases: [orzhov, the-syndicate, orzhov-guild, orzhov-church, church-of-deals]
+aliases:
+  - orzhov
+  - the-syndicate
+  - orzhov-guild
+  - orzhov-church
+  - church-of-deals
 universe: "Magic: The Gathering / Ravnica"
 faction: Orzhov Syndicate (self; this node IS the faction)
 species: faction-collective (humans, vampires, spirits, thrulls, archons, giants — mixed)
@@ -20,9 +25,10 @@ appears_on:
   - magic-the-gathering/gatecrash/173-kingpin-s-pet
   - magic-the-gathering/ravnica-allegiance/177-grasping-thrull
   - magic-the-gathering/ravnica-allegiance/188-knight-of-the-last-breath
-related_hubs: [labor]
-related_symbols: [orzhov-signet]
-related_characters: [macro-cosmos]
+related_hubs: "[labor]"
+related_symbols: "[orzhov-signet]"
+related_characters:
+  - macro-cosmos
 ip_resolution_for: orzhov-syndicate
 ---
 

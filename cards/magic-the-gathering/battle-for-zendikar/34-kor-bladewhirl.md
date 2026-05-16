@@ -1,6 +1,6 @@
 ---
 name: Kor Bladewhirl
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Battle for Zendikar
 collector_number: 34
 rarity: U
@@ -10,18 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["warrior", "chain", "whip", "fighter", "skill", "nomad", "Zendikar", "rally", "first-strike", "kor"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "creature-kor-warrior-ally", "white-magic"]
+tags_hub:
+  - warrior
+  - chain
+  - whip
+  - fighter
+  - skill
+  - nomad
+  - Zendikar
+  - rally
+  - first-strike
+  - kor
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - creature-kor-warrior-ally
+  - white-magic
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/34-kor-bladewhirl.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/e/3/e31b12c7-df11-4450-95e1-b9a5aa97af0e.png?1562949080
 art_match_confidence: high
 needs_manual_review: false
-characters: ["kor"]
+characters:
+  - kor
 artist: Steven Belledin
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/34-kor-bladewhirl--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/3/e31b12c7-df11-4450-95e1-b9a5aa97af0e.jpg?1562949080

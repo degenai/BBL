@@ -1,6 +1,6 @@
 ---
 name: Thundering Djinn
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons
 collector_number: 215
 rarity: U
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["djinn", "genie", "lightning", "storm", "elemental", "spirit", "rage", "summoning", "shirtless-figure", "sky", "vortex"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "no-face-obscured", "creature-djinn", "red-magic", "flying", "male-figure"]
+tags_hub:
+  - djinn
+  - genie
+  - lightning
+  - storm
+  - elemental
+  - spirit
+  - rage
+  - summoning
+  - shirtless-figure
+  - sky
+  - vortex
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action-mode
+  - no-face-obscured
+  - creature-djinn
+  - red-magic
+  - flying
+  - male-figure
 reference_image: cards/_images/magic-the-gathering/modern-horizons/215-thundering-djinn.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/2/8/28642fbe-90c8-4beb-9950-91af28d93326.png?1562202415
 art_match_confidence: high
 needs_manual_review: false

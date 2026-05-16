@@ -1,7 +1,7 @@
 ---
 name: Defiant Survivor
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 175
 rarity: U
 variance: Normal
@@ -10,16 +10,37 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["defiance", "survivor", "green-energy", "youth", "shout", "electricity", "gadget", "foliage", "lone-fighter", "horror", "night", "rebellion"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "green-magic", "creature-human-survivor"]
-characters: ["dsk-survival-archetype"]
-symbols: ["manifest-dread", "survival"]
+tags_hub:
+  - defiance
+  - survivor
+  - green-energy
+  - youth
+  - shout
+  - electricity
+  - gadget
+  - foliage
+  - lone-fighter
+  - horror
+  - night
+  - rebellion
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - green-magic
+  - creature-human-survivor
+characters:
+  - dsk-survival-archetype
+symbols:
+  - manifest-dread
+  - survival
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/175-defiant-survivor.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/3/2/327772f3-5a87-47af-9308-c1119ad2711d.png?1726286512
 art_match_confidence: high
 needs_manual_review: false

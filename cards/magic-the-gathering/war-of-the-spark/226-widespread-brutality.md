@@ -1,6 +1,6 @@
 ---
 name: Widespread Brutality
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 226
 rarity: R
@@ -10,14 +10,38 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["battle", "combat", "violence", "soldier", "polearm", "fire", "smoke", "ruins", "war", "duel", "embers", "fallen-figure"]
-tags_filter: ["duo", "2-figures", "mid-shot", "action-mode", "faces-right", "backlit", "scene-mode", "black-magic", "red-magic", "multicolor-black-red", "sorcery", "armor-clad"]
+tags_hub:
+  - battle
+  - combat
+  - violence
+  - soldier
+  - polearm
+  - fire
+  - smoke
+  - ruins
+  - war
+  - duel
+  - embers
+  - fallen-figure
+tags_filter:
+  - duo
+  - 2-figures
+  - mid-shot
+  - action-mode
+  - faces-right
+  - backlit
+  - scene-mode
+  - black-magic
+  - red-magic
+  - multicolor-black-red
+  - sorcery
+  - armor-clad
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/226-widespread-brutality.png
 average_cost_paid: 0
-market_price: 0.95
-market_price_as_of: 2026-05-14
+market_price: 0.91
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/9/7/97715d22-f432-4f67-b4ea-47b8fe6edca5.png?1557577331
 art_match_confidence: high
 needs_manual_review: false

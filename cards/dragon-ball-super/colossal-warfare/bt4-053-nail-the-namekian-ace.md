@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["namekian", "warrior", "fighter", "green-skin", "loyalty", "guardian", "elite-soldier", "lunge", "combat", "determination", "protector"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "battle-card", "rare", "male-figure", "dbs-colossal-warfare"]
+tags_hub:
+  - namekian
+  - warrior
+  - fighter
+  - green-skin
+  - loyalty
+  - guardian
+  - elite-soldier
+  - lunge
+  - combat
+  - determination
+  - protector
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - battle-card
+  - rare
+  - male-figure
+  - dbs-colossal-warfare
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-053-nail-the-namekian-ace.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/BT4-053_Nail_the_Namekian_Ace.png?v=1534074799
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +49,8 @@ setting: void
 suspected_ip: Nail (Dragon Ball Z — Frieza Saga)
 ip_confidence: high
 ip_verified: true
-characters: [namekian]
+characters:
+  - namekian
 ---
 
 # Nail, the Namekian Ace (Colossal Warfare)

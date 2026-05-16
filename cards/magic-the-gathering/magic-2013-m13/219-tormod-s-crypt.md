@@ -1,6 +1,6 @@
 ---
 name: Tormod's Crypt
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Magic 2013 (M13)
 collector_number: 219
 rarity: U
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["crypt", "tomb", "graveyard", "death", "architecture", "ruins", "stone", "gothic", "abandoned-place", "burial", "mausoleum", "twilight", "memento-mori"]
-tags_filter: ["artifact", "no-figures", "scene-mode", "mid-shot", "no-face", "colorless-magic", "graveyard-hate"]
+tags_hub:
+  - crypt
+  - tomb
+  - graveyard
+  - death
+  - architecture
+  - ruins
+  - stone
+  - gothic
+  - abandoned-place
+  - burial
+  - mausoleum
+  - twilight
+  - memento-mori
+tags_filter:
+  - artifact
+  - no-figures
+  - scene-mode
+  - mid-shot
+  - no-face
+  - colorless-magic
+  - graveyard-hate
 reference_image: cards/_images/magic-the-gathering/magic-2013-m13/219-tormod-s-crypt.png
 average_cost_paid: 0
 market_price: 0.37
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/e/f/efdfb60b-948b-40fb-b18e-08f0300624b3.png?1562561704
 art_match_confidence: high
 needs_manual_review: false
@@ -29,7 +49,7 @@ artist: Lars Grant-West
 art_crop_image: cards/_images/magic-the-gathering/magic-2013-m13/219-tormod-s-crypt--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/f/efdfb60b-948b-40fb-b18e-08f0300624b3.jpg?1562561704
 flavor_text: Dominaria's most extravagant crypt nevertheless holds an empty grave.
-oracle_text: {T}, Sacrifice this artifact: Exile target player's graveyard.
+oracle_text: "{T}, Sacrifice this artifact: Exile target player's graveyard."
 ---
 
 # Tormod's Crypt (Magic 2013 (M13))

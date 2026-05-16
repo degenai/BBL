@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["reading", "book", "library", "gargoyle", "scholar", "learning", "stone", "wisdom", "elder", "knowledge", "concentration", "mentor"]
-tags_filter: ["solo", "mid-shot", "narrative", "three-quarter", "steel-magic", "character-card", "storyborn"]
+tags_hub:
+  - reading
+  - book
+  - library
+  - gargoyle
+  - scholar
+  - learning
+  - stone
+  - wisdom
+  - elder
+  - knowledge
+  - concentration
+  - mentor
+tags_filter:
+  - solo
+  - mid-shot
+  - narrative
+  - three-quarter
+  - steel-magic
+  - character-card
+  - storyborn
 reference_image: cards/_images/lorcana/whispers-in-the-well/180-204-hudson-determined-reader.jpg
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10/180_cd1cced6c985969553dbe65139d073036d4fce77.jpg
 art_match_confidence: high
 needs_manual_review: false

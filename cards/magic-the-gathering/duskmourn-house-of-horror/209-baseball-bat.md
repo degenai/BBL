@@ -1,7 +1,7 @@
 ---
 name: Baseball Bat
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 209
 rarity: U
 variance: Normal
@@ -10,22 +10,40 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["baseball-bat", "improvised-weapon", "sports", "electricity", "survivor-weapon", "nails", "horror", "mundane-horror", "object-focus", "charged"]
-tags_filter: ["none", "close-up", "narrative", "no-face", "green-magic", "artifact-equipment", "indoor"]
-characters: ["dsk-survival-archetype"]
+tags_hub:
+  - baseball-bat
+  - improvised-weapon
+  - sports
+  - electricity
+  - survivor-weapon
+  - nails
+  - horror
+  - mundane-horror
+  - object-focus
+  - charged
+tags_filter:
+  - none
+  - close-up
+  - narrative
+  - no-face
+  - green-magic
+  - artifact-equipment
+  - indoor
+characters:
+  - dsk-survival-archetype
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/209-baseball-bat.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price: 0.09
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/4/3/438accb1-6d2c-4710-adeb-df4301a7b8f1.png?1726286646
 art_match_confidence: high
 needs_manual_review: false
 artist: John Stanko
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/209-baseball-bat--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/3/438accb1-6d2c-4710-adeb-df4301a7b8f1.jpg?1726286646
-oracle_text: When this Equipment enters, attach it to target creature you control.\nEquipped creature gets +1/+1.\nWhenever equipped creature attacks, tap up to one target creature.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
+oracle_text: "When this Equipment enters, attach it to target creature you control.\\nEquipped creature gets +1/+1.\\nWhenever equipped creature attacks, tap up to one target creature.\\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)"
 image_width: 745
 image_height: 1040
 image_quality: high

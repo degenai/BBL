@@ -1,6 +1,6 @@
 ---
 name: Syndicate Guildmage
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Ravnica Allegiance
 collector_number: 211
 rarity: U
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["cleric", "robed-figure", "hooded-figure", "cathedral", "gothic", "ritual", "blade", "sickle", "preacher", "syndicate", "ecclesiastical", "orzhov"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "creature-human", "creature-cleric", "multicolor-white-black", "white-magic", "black-magic"]
+tags_hub:
+  - cleric
+  - robed-figure
+  - hooded-figure
+  - cathedral
+  - gothic
+  - ritual
+  - blade
+  - sickle
+  - preacher
+  - syndicate
+  - ecclesiastical
+  - orzhov
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - no-face
+  - creature-human
+  - creature-cleric
+  - multicolor-white-black
+  - white-magic
+  - black-magic
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/211-syndicate-guildmage.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,7 +50,7 @@ setting: indoor
 artist: Josh Hass
 art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/211-syndicate-guildmage--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/8/e82d3c8d-849a-445b-bc7c-365514d1511f.jpg?1584831902
-oracle_text: {1}{W}, {T}: Tap target creature with power 4 or greater.\n{4}{B}, {T}: This creature deals 2 damage to target opponent or planeswalker.
+oracle_text: "{1}{W}, {T}: Tap target creature with power 4 or greater.\\n{4}{B}, {T}: This creature deals 2 damage to target opponent or planeswalker."
 ---
 
 # Syndicate Guildmage (Ravnica Allegiance)

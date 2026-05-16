@@ -10,14 +10,28 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["villain", "cult", "priest", "flame", "emissary", "manipulation", "robes", "alien", "ceremony", "evil-mastermind"]
-tags_filter: ["solo", "mid-shot", "portrait-mode", "forward-facing"]
+tags_hub:
+  - villain
+  - cult
+  - priest
+  - flame
+  - emissary
+  - manipulation
+  - robes
+  - alien
+  - ceremony
+  - evil-mastermind
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait-mode
+  - forward-facing
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-042-hoi-emissary-of-flame.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401029751/7AFD27E454D3ACB50730D1C8BF970FEED3661DC2/
 image_width: 624
 image_height: 871
@@ -30,7 +44,8 @@ setting: void
 suspected_ip: "Hoi (Dragon Ball Z: Wrath of the Dragon)"
 ip_confidence: high
 ip_verified: true
-characters: [wrath-of-the-dragon-saga]
+characters:
+  - wrath-of-the-dragon-saga
 ---
 
 # Hoi, Emissary of Flame (Colossal Warfare)

@@ -1,23 +1,38 @@
 ---
 name: Ardenvale Paladin
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 4
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["knight", "paladin", "horse", "light", "armor", "forest", "night", "duty", "faith", "glowing"]
-tags_filter: ["solo", "faces-right", "mid-shot", "creature", "white-magic"]
+tags_hub:
+  - knight
+  - paladin
+  - horse
+  - light
+  - armor
+  - forest
+  - night
+  - duty
+  - faith
+  - glowing
+tags_filter:
+  - solo
+  - faces-right
+  - mid-shot
+  - creature
+  - white-magic
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/4-ardenvale-paladin.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/a/3/a32fa360-6c41-4146-931b-c19e9a766803.png?1572489621
 art_match_confidence: high
 needs_manual_review: false

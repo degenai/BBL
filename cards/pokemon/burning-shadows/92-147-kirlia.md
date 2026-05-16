@@ -7,17 +7,35 @@ rarity: Uncommon
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["dance", "flower-petals", "grace", "meadow", "psychic", "joy", "spinning", "fairy", "ballet", "nature"]
-tags_filter: ["solo", "mid-shot", "action", "three-quarter", "colorless-magic", "fairy-magic", "basic-pokemon", "stage-1-pokemon"]
+tags_hub:
+  - dance
+  - flower-petals
+  - grace
+  - meadow
+  - psychic
+  - joy
+  - spinning
+  - fairy
+  - ballet
+  - nature
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - three-quarter
+  - colorless-magic
+  - fairy-magic
+  - basic-pokemon
+  - stage-1-pokemon
 reference_image: cards/_images/pokemon/burning-shadows/92-147-kirlia.png
 average_cost_paid: 0
 market_price: 0.27
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm3/92_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +48,8 @@ setting: other
 suspected_ip: Kirlia
 ip_confidence: high
 ip_verified: true
-characters: ["ralts-line"]
+characters:
+  - ralts-line
 ---
 
 # Kirlia (Burning Shadows)

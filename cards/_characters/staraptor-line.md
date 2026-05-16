@@ -1,7 +1,15 @@
 ---
 type: character
 name: Staraptor evolutionary line (Starly / Staravia / Staraptor)
-aliases: [staraptor-line, starly-line, starly-staravia-staraptor, sinnoh-bird-line, sinnoh-regional-bird-line, gen-iv-regional-bird-line, starly-evolutionary-line, staraptor-family]
+aliases:
+  - staraptor-line
+  - starly-line
+  - starly-staravia-staraptor
+  - sinnoh-bird-line
+  - sinnoh-regional-bird-line
+  - gen-iv-regional-bird-line
+  - starly-evolutionary-line
+  - staraptor-family
 universe: Pokemon / Sinnoh (Generation IV, Pokemon Diamond and Pearl, Game Freak / Creatures Inc. / Nintendo, 2006; expanded across every subsequent generation as the Sinnoh-region regional-bird species line and as one of the franchise's recurring Normal/Flying-type starter-bird archetype representatives per region)
 faction: ~
 species: three-stage Normal/Flying-type evolutionary line — Starly (base, National Pokedex no. 396, Normal/Flying) → Staravia (Stage 1, no. 397, Normal/Flying) → Staraptor (Stage 2, no. 398, Normal/Flying); the canonical Sinnoh regional-bird line, structurally parallel to Pidgey/Pidgeotto/Pidgeot (Kanto, Generation I), Hoothoot/Noctowl (Johto, Generation II), Taillow/Swellow (Hoenn, Generation III), Pidove/Tranquill/Unfezant (Unova, Generation V), Fletchling/Fletchinder/Talonflame (Kalos, Generation VI), Pikipek/Trumbeak/Toucannon (Alola, Generation VII), Rookidee/Corvisquire/Corviknight (Galar, Generation VIII)
@@ -13,7 +21,8 @@ appears_on:
   - pokemon/darkness-ablaze/147-189-staraptor
 related_hubs: []
 related_symbols: []
-related_characters: [charizard-line]
+related_characters:
+  - charizard-line
 ip_resolution_for: staraptor-line
 ---
 

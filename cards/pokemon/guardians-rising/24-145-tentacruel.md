@@ -10,20 +10,38 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["jellyfish", "ocean", "deep-sea", "tentacles", "poison", "dark", "red-eyes", "water", "predator", "kanto", "dread"]
-tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "water-type", "creature-pokemon", "stage-2-pokemon"]
+tags_hub:
+  - jellyfish
+  - ocean
+  - deep-sea
+  - tentacles
+  - poison
+  - dark
+  - red-eyes
+  - water
+  - predator
+  - kanto
+  - dread
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - water-type
+  - creature-pokemon
+  - stage-2-pokemon
 reference_image: cards/_images/pokemon/guardians-rising/24-145-tentacruel.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm2/24_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Masakazu Fukuda
 flavor_text: Normally, it has 80 poisonous tentacles. The longer one has been alive, the fewer tentacles it will have.
-oracle_text: Poison Sting (ColorlessColorless) 30: Your opponent's Active Pokémon is now Poisoned.\nSeething Tentacles (ColorlessColorlessColorless) 40+: Flip a coin. If heads, this attack does 40 more damage. If tails, your opponent's Active Pokémon is now Paralyzed.
+oracle_text: "Poison Sting (ColorlessColorless) 30: Your opponent's Active Pokémon is now Poisoned.\\nSeething Tentacles (ColorlessColorlessColorless) 40+: Flip a coin. If heads, this attack does 40 more damage. If tails, your opponent's Active Pokémon is now Paralyzed."
 mood: horror
 time_of_day: night
 setting: ocean

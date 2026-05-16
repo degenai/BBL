@@ -12,12 +12,18 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image: cards/_images/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e016-c-kagamine-len-append.png
 average_cost_paid: 0
-market_price: 0.16
-market_price_as_of: 2026-05-14
+market_price: 0.18
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
+reference_image_source_url: https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/p/pd_s22/PD_S22_E016.png
+art_match_confidence: high
+needs_manual_review: false
+image_width: 400
+image_height: 558
+image_quality: med
 ---
 
 # Kagamine Len"Append" (Hatsune Miku -Project DIVA- f)

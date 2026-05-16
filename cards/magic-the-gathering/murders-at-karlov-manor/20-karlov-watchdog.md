@@ -1,6 +1,6 @@
 ---
 name: Karlov Watchdog
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 20
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["dog", "guardian", "night", "gothic", "manor", "wealth", "loyalty", "threat", "fog", "urban-decay", "surveillance", "gate-keeping"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "no-face", "creature-dog", "white-magic"]
+tags_hub:
+  - dog
+  - guardian
+  - night
+  - gothic
+  - manor
+  - wealth
+  - loyalty
+  - threat
+  - fog
+  - urban-decay
+  - surveillance
+  - gate-keeping
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - no-face
+  - creature-dog
+  - white-magic
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/20-karlov-watchdog.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/7/9/79cfb366-ae2a-4b3d-9a80-383a32db1509.png?1706241500
 art_match_confidence: high
 needs_manual_review: false

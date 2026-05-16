@@ -1,7 +1,17 @@
 ---
 type: character
 name: Saiyan
-aliases: [saiyan, saiyans, saiya-jin, saiyan-race, planet-vegeta-saiyan, universe-7-saiyan, universe-6-saiyan, frieza-force-saiyan, low-class-saiyan, elite-saiyan]
+aliases:
+  - saiyan
+  - saiyans
+  - saiya-jin
+  - saiyan-race
+  - planet-vegeta-saiyan
+  - universe-7-saiyan
+  - universe-6-saiyan
+  - frieza-force-saiyan
+  - low-class-saiyan
+  - elite-saiyan
 universe: "Dragon Ball franchise (Akira Toriyama, Shueisha manga 1984-1995; Toei Animation anime adaptations 1986-present); the Saiyan race is introduced into canon via Raditz's arrival on Earth (Dragon Ball Z chapter 195 / episode 1, 1989) and substantively expanded as a designer-coordinated alien-warrior race across the Saiyan Saga (Z chapters 195-241, 1989-1990), the Frieza Saga (Z chapters 242-329, 1990-1991), the Battle of Gods continuation (Dragon Ball Super, 2015-2018) and the Universe Survival Saga (Dragon Ball Super, 2017-2018, where the Universe 6 Saiyans Cabba/Caulifla/Kale/Kefla expand the race-canon beyond Universe 7)"
 faction: "Saiyan race (Planet Vegeta native species, alien warrior-people biologically near-identical to humans except for the prehensile monkey-tail, the Great Ape / Oozaru transformation triggered by Blutz Waves under a full-moon-equivalent stimulus, the canonical Super Saiyan transformation line that escalates through Super Saiyan, Super Saiyan 2, Super Saiyan 3, Super Saiyan God, Super Saiyan Blue, and Super Saiyan 4 across the franchise's continuity branches, and the canonical Zenkai boost biological mechanic that increases a Saiyan's power after near-death recovery; the race is canonically structured into a Frieza-Force-aligned warrior-caste hierarchy with King Vegeta and the elite-class at the top, the low-class warriors like Bardock and Goku at the bottom, and a planet-clearing-mercenary occupation-mode imposed by Frieza's empire until the canonical destruction of Planet Vegeta in Age 737)"
 species: "Saiyan (Akira Toriyama-designed alien warrior-people — biologically near-identical to humans except for the prehensile monkey-tail, the Great Ape transformation, the Super Saiyan transformation line, the Zenkai biological boost, and the canonical mate-pair-bonded reproductive cycle; physical signatures vary by class but the canonical Saiyan visual identifiers across the corpus are the Saiyan battle armor — dark navy bodysuit with white-and-yellow chest armor, sometimes with shoulder pads — and the prehensile monkey tail when present; transformation states span base form, Great Ape / Oozaru, Super Saiyan, Super Saiyan 2, Super Saiyan 3, Golden Great Ape, Super Saiyan 4, Super Saiyan God, and Super Saiyan Blue)"
@@ -20,10 +30,21 @@ appears_on:
   - dragon-ball-super/judge-promotion-cards/p-035-bardock-will-of-iron
   - dragon-ball-super/galactic-battle/bt1-013-raging-cabba
   - dragon-ball-super/galactic-battle/bt1-027-cabba-s-awakening-2017
-related_hubs: [labor, rebellion]
+related_hubs: "[labor, rebellion]"
 related_symbols: []
-related_characters: [namekian, son-goku, vegeta, trunks, baby-dbgt, xenoverse-villains, bardock, son-gohan]
-ip_resolution_for: [Saiyan, Saiyan race, Saiya-jin]
+related_characters:
+  - namekian
+  - son-goku
+  - vegeta
+  - trunks
+  - baby-dbgt
+  - xenoverse-villains
+  - bardock
+  - son-gohan
+ip_resolution_for:
+  - Saiyan
+  - Saiyan race
+  - Saiya-jin
 ---
 
 # Saiyan

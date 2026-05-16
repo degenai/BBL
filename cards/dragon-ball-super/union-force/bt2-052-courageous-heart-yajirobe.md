@@ -7,17 +7,34 @@ rarity: Common
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["coward", "reluctant-hero", "comic-relief", "samurai", "survivor", "dark-hair", "hidden-strength", "mortal", "long-hair", "human", "unlikely-hero"]
-tags_filter: ["solo", "close-up", "portrait", "three-quarter", "male-figure", "anime"]
+tags_hub:
+  - coward
+  - reluctant-hero
+  - comic-relief
+  - samurai
+  - survivor
+  - dark-hair
+  - hidden-strength
+  - mortal
+  - long-hair
+  - human
+  - unlikely-hero
+tags_filter:
+  - solo
+  - close-up
+  - portrait
+  - three-quarter
+  - male-figure
+  - anime
 reference_image: cards/_images/dragon-ball-super/union-force/bt2-052-courageous-heart-yajirobe.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-14
+market_price: 0.37
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400935459/52262F283874EF5FF7154C2A5560D19E6B8E7FDB/
 image_width: 624
 image_height: 874

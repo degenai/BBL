@@ -1,6 +1,6 @@
 ---
 name: Binding Negotiation
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Outlaws of Thunder Junction
 collector_number: 78
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["lasso", "binding", "frontier", "western", "cowboy", "fire", "magic", "domination", "restraint", "outlaw", "golden-light", "control"]
-tags_filter: ["wide", "action", "duo", "forward-facing", "smoke", "chiaroscuro"]
+tags_hub:
+  - lasso
+  - binding
+  - frontier
+  - western
+  - cowboy
+  - fire
+  - magic
+  - domination
+  - restraint
+  - outlaw
+  - golden-light
+  - control
+tags_filter:
+  - wide
+  - action
+  - duo
+  - forward-facing
+  - smoke
+  - chiaroscuro
 reference_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/78-binding-negotiation.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/1/c/1c4c26b9-981f-47cf-b0f4-769e788d9537.png?1712355546
 art_match_confidence: high
 needs_manual_review: false

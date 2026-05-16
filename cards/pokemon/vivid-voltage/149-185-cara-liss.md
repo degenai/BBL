@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["fossil", "scientist", "paleontology", "cave", "research", "discovery", "galar", "rock", "history", "excavation", "lab"]
-tags_filter: ["solo", "mid-shot", "narrative", "three-quarter", "trainer-supporter", "colorless-energy", "female-figure"]
+tags_hub:
+  - fossil
+  - scientist
+  - paleontology
+  - cave
+  - research
+  - discovery
+  - galar
+  - rock
+  - history
+  - excavation
+  - lab
+tags_filter:
+  - solo
+  - mid-shot
+  - narrative
+  - three-quarter
+  - trainer-supporter
+  - colorless-energy
+  - female-figure
 reference_image: cards/_images/pokemon/vivid-voltage/149-185-cara-liss.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh4/149_hires.png
 art_match_confidence: high
 needs_manual_review: false

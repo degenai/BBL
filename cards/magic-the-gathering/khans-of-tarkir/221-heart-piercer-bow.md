@@ -1,6 +1,6 @@
 ---
 name: Heart-Piercer Bow
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Khans of Tarkir
 collector_number: 221
 rarity: U
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["bow", "archery", "weapon", "arrow", "hunt", "dragon-bone", "wind", "steppe", "nomad", "sky", "warrior-gear"]
-tags_filter: ["no-figure", "close-up", "object-study", "faces-right", "artifact", "equipment", "colorless", "no-face", "scene-mode", "khans-of-tarkir-mardu"]
+tags_hub:
+  - bow
+  - archery
+  - weapon
+  - arrow
+  - hunt
+  - dragon-bone
+  - wind
+  - steppe
+  - nomad
+  - sky
+  - warrior-gear
+tags_filter:
+  - no-figure
+  - close-up
+  - object-study
+  - faces-right
+  - artifact
+  - equipment
+  - colorless
+  - no-face
+  - scene-mode
+  - khans-of-tarkir-mardu
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/221-heart-piercer-bow.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +50,7 @@ artist: Franz Vohwinkel
 art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/221-heart-piercer-bow--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/8/48168005-65cc-43dc-9d45-17ea5dd4848f.jpg?1562786011
 flavor_text: Designed by an ancient artificer, the finest Mardu bows are carved from dragon bone and strung with the wind itself.
-oracle_text: Whenever equipped creature attacks, this Equipment deals 1 damage to target creature defending player controls.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+oracle_text: "Whenever equipped creature attacks, this Equipment deals 1 damage to target creature defending player controls.\\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
 ---
 
 # Heart-Piercer Bow (Khans of Tarkir)

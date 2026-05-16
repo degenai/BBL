@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["god", "destroyer", "cat-like", "villain", "power", "tournament", "universe-6", "rotund", "mischief", "divine", "cosmic", "rivalry"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action-pose", "dbs-card", "suspected-ip", "alien-figure"]
+tags_hub:
+  - god
+  - destroyer
+  - cat-like
+  - villain
+  - power
+  - tournament
+  - universe-6
+  - rotund
+  - mischief
+  - divine
+  - cosmic
+  - rivalry
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action-pose
+  - dbs-card
+  - suspected-ip
+  - alien-figure
 reference_image: cards/_images/dragon-ball-super/galactic-battle/bt1-006-scheming-champa.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400557798/0B91083BA1AE066B5961DC7B2021C12FB7922EE0/
 image_width: 624
 image_height: 871
@@ -30,7 +49,9 @@ setting: void
 suspected_ip: Champa (Dragon Ball Super)
 ip_confidence: high
 ip_verified: true
-characters: [universe-6-tournament-cohort, destroyer-god-attendant-dyad]
+characters:
+  - universe-6-tournament-cohort
+  - destroyer-god-attendant-dyad
 ---
 
 # Scheming Champa (Galactic Battle)

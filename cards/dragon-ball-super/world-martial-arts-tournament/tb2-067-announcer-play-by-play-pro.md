@@ -10,15 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-characters: ["wmat-tournament-announcer"]
-tags_hub: ["announcer", "microphone", "suit", "sports", "tournament", "broadcasting", "showman", "spectacle", "media", "excitement"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "male-figure", "anime-style"]
+characters:
+  - wmat-tournament-announcer
+tags_hub:
+  - announcer
+  - microphone
+  - suit
+  - sports
+  - tournament
+  - broadcasting
+  - showman
+  - spectacle
+  - media
+  - excitement
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - male-figure
+  - anime-style
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-067-announcer-play-by-play-pro.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408082314/E843A968FFB84D888D79FF4A86408F04B0ED6900/
 image_width: 624
 image_height: 871

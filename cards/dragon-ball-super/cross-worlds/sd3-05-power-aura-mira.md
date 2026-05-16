@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["villain", "android", "blue-skin", "power", "roar", "battle-cry", "energy-aura", "warrior", "white-hair", "xenoverse"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "action", "male-figure", "no-weapon"]
+tags_hub:
+  - villain
+  - android
+  - blue-skin
+  - power
+  - roar
+  - battle-cry
+  - energy-aura
+  - warrior
+  - white-hair
+  - xenoverse
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - action
+  - male-figure
+  - no-weapon
 reference_image: cards/_images/dragon-ball-super/cross-worlds/sd3-05-power-aura-mira.png
 average_cost_paid: 0
 market_price: 0.33
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/SD3-05_Power_Aura_Mira.png?v=1519240983
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +46,8 @@ setting: void
 suspected_ip: Mira (Dragon Ball Xenoverse)
 ip_confidence: high
 ip_verified: true
-characters: [xenoverse-villains]
+characters:
+  - xenoverse-villains
 ---
 
 # Power Aura Mira (Cross Worlds)

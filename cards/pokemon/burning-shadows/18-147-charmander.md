@@ -10,21 +10,39 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["fire", "lizard", "dragon-line", "forest", "flame", "baby", "starter", "warm-light", "nature", "cute"]
-tags_filter: ["solo", "mid-shot", "portrait-mode", "forward-facing", "fire-type", "common", "pokemon"]
+tags_hub:
+  - fire
+  - lizard
+  - dragon-line
+  - forest
+  - flame
+  - baby
+  - starter
+  - warm-light
+  - nature
+  - cute
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait-mode
+  - forward-facing
+  - fire-type
+  - common
+  - pokemon
 reference_image: cards/_images/pokemon/burning-shadows/18-147-charmander.png
 average_cost_paid: 0
-market_price: 0.26
-market_price_as_of: 2026-05-14
+market_price: 0.25
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm3/18_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Kagemaru Himeno
 flavor_text: The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.
 oracle_text: Scratch (Colorless) 10\nFlame Tail (FireColorless) 20
-characters: [charizard-line]
+characters:
+  - charizard-line
 mood: peaceful
 time_of_day: day
 setting: forest

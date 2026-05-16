@@ -1,6 +1,6 @@
 ---
 name: Shefet Archfiend
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 104
 rarity: U
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["demon", "skull", "horror", "villain", "infernal", "horns", "mask", "desert", "amonkhet", "gold", "terror", "dark-god"]
-tags_filter: ["solo", "close-up", "portrait", "forward-facing", "black-magic", "creature-demon", "flying", "cycling"]
+tags_hub:
+  - demon
+  - skull
+  - horror
+  - villain
+  - infernal
+  - horns
+  - mask
+  - desert
+  - amonkhet
+  - gold
+  - terror
+  - dark-god
+tags_filter:
+  - solo
+  - close-up
+  - portrait
+  - forward-facing
+  - black-magic
+  - creature-demon
+  - flying
+  - cycling
 reference_image: cards/_images/magic-the-gathering/aetherdrift/104-shefet-archfiend.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/0/7/079dc8d2-0de3-415e-8af8-b8dec669368a.png?1738359164
 art_match_confidence: high
 needs_manual_review: false
@@ -25,7 +45,7 @@ artist: GodMachine
 art_crop_image: cards/_images/magic-the-gathering/aetherdrift/104-shefet-archfiend--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/7/079dc8d2-0de3-415e-8af8-b8dec669368a.jpg?1738359164
 flavor_text: It yields only to the gods themselves.
-oracle_text: Flying\nWhen this creature enters, all other creatures get -2/-2 until end of turn.\nCycling {2} ({2}, Discard this card: Draw a card.)
+oracle_text: "Flying\\nWhen this creature enters, all other creatures get -2/-2 until end of turn.\\nCycling {2} ({2}, Discard this card: Draw a card.)"
 image_width: 745
 image_height: 1040
 image_quality: high

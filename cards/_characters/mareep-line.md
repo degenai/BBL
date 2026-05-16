@@ -1,7 +1,13 @@
 ---
 type: character
 name: "Mareep evolutionary line (Mareep / Flaaffy / Ampharos)"
-aliases: [mareep-line, mareep-flaaffy-ampharos, johto-electric-sheep-line, electric-sheep-line, ampharos-line, gen-ii-electric-line]
+aliases:
+  - mareep-line
+  - mareep-flaaffy-ampharos
+  - johto-electric-sheep-line
+  - electric-sheep-line
+  - ampharos-line
+  - gen-ii-electric-line
 universe: "Pokemon / Johto (Generation II, Pokemon Gold and Silver, Game Freak / Creatures Inc. / Nintendo, 1999; expanded across every subsequent generation as a recurring Johto-introduced Electric-type line and as the franchise's canonical wool-as-charge-storage species line, with Ampharos receiving a Mega Evolution in Pokemon X and Y, 2013)"
 faction: ~
 species: three-stage Electric-type evolutionary line — Mareep (base, National Pokedex no. 179, Electric) -> Flaaffy (Stage 1, no. 180, Electric) -> Ampharos (Stage 2, no. 181, Electric, with a Mega Ampharos Mega Evolution in Generation VI gaining secondary Dragon typing); the canonical Johto-region Electric-sheep line, introduced in Pokemon Gold and Silver (Game Freak / Creatures Inc. / Nintendo, 1999), and one of the Gen II species lines whose Pokedex flavor explicitly encodes the species' biology as a literal cost-of-power motif (the more electricity stored in the fleece, the more fleece falls out)
@@ -14,7 +20,9 @@ appears_on:
   - pokemon/chilling-reign/048-198-flaaffy
 related_hubs: []
 related_symbols: []
-related_characters: [staraptor-line, charizard-line]
+related_characters:
+  - staraptor-line
+  - charizard-line
 ip_resolution_for: mareep-line
 ---
 

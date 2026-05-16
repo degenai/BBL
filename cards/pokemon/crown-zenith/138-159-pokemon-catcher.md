@@ -13,14 +13,30 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["capture", "poke-ball", "hunt", "speed", "tool", "strategy", "trap", "motion", "pursuit", "trainer-gear"]
-tags_filter: ["no-face", "close-up", "no-figures", "item-card", "trainer-card", "swsh-era"]
+tags_hub:
+  - capture
+  - poke-ball
+  - hunt
+  - speed
+  - tool
+  - strategy
+  - trap
+  - motion
+  - pursuit
+  - trainer-gear
+tags_filter:
+  - no-face
+  - close-up
+  - no-figures
+  - item-card
+  - trainer-card
+  - swsh-era
 reference_image: cards/_images/pokemon/crown-zenith/138-159-pokemon-catcher.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh12pt5/138_hires.png
 art_match_confidence: high
 needs_manual_review: false

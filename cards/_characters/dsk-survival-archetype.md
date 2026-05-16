@@ -1,7 +1,14 @@
 ---
 type: character
 name: "Survival archetype cohort (Duskmourn improvised-weapon survivors and their tools)"
-aliases: [dsk-survival-archetype, dsk-survivors, duskmourn-survivors, survival-cohort, survivor-cohort, improvised-weapon-cohort, cabin-in-the-woods-cohort]
+aliases:
+  - dsk-survival-archetype
+  - dsk-survivors
+  - duskmourn-survivors
+  - survival-cohort
+  - survivor-cohort
+  - improvised-weapon-cohort
+  - cabin-in-the-woods-cohort
 universe: "Magic: The Gathering / Duskmourn (DSK, 2024-09-27)"
 faction: ~
 species: "cohort spanning three Duskmourn axes: (a) Creature — Human Survivor type-line, (b) Survival ability-word keyword, (c) improvised-weapon Equipment / Aura artifacts depicting survivors' makeshift tools"
@@ -16,9 +23,13 @@ appears_on:
   - magic-the-gathering/duskmourn-house-of-horror/209-baseball-bat
   - magic-the-gathering/duskmourn-house-of-horror/244-conductive-machete
   - magic-the-gathering/duskmourn-house-of-horror/297-norin-swift-survivalist-0297
-related_hubs: [rebellion, labor]
-related_symbols: [manifest-dread, survival]
-related_characters: [dsk-toy-horror, fear-of-cycle, dsk-unlucky-lands-cycle, valgavoth]
+related_hubs: "[rebellion, labor]"
+related_symbols: "[manifest-dread, survival]"
+related_characters:
+  - dsk-toy-horror
+  - fear-of-cycle
+  - dsk-unlucky-lands-cycle
+  - valgavoth
 ---
 
 # Survival archetype cohort (Duskmourn improvised-weapon survivors and their tools)

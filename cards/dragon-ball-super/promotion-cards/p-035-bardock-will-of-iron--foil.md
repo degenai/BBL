@@ -10,21 +10,42 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["transformation", "great-ape", "beast", "rage", "saiyan", "monster", "primal", "power", "oozaru", "roar"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "battle-card", "promo", "foil", "great-ape-form", "saiyan-transformation"]
+tags_hub:
+  - transformation
+  - great-ape
+  - beast
+  - rage
+  - saiyan
+  - monster
+  - primal
+  - power
+  - oozaru
+  - roar
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - battle-card
+  - promo
+  - foil
+  - great-ape-form
+  - saiyan-transformation
 reference_image: cards/_images/dragon-ball-super/promotion-cards/p-035-bardock-will-of-iron--foil.png
 average_cost_paid: 0
 market_price: 0.3
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/P-035.png
 art_match_confidence: high
 needs_manual_review: false
 image_width: 260
 image_height: 364
 image_quality: low
-characters: [saiyan, bardock]
+characters:
+  - saiyan
+  - bardock
 mood: action
 time_of_day: indeterminate
 setting: void

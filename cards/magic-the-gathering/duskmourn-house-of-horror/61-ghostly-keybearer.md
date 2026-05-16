@@ -1,7 +1,7 @@
 ---
 name: Ghostly Keybearer
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 61
 rarity: U
 variance: Normal
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["ghost", "spirit", "haunted-house", "doorway", "threshold", "labyrinth", "fog", "vigil", "reaching-hands", "warden", "phantom", "corridor"]
-tags_filter: ["group", "mid-shot", "forward-facing", "creature-spirit", "flying", "no-face-detail"]
+tags_hub:
+  - ghost
+  - spirit
+  - haunted-house
+  - doorway
+  - threshold
+  - labyrinth
+  - fog
+  - vigil
+  - reaching-hands
+  - warden
+  - phantom
+  - corridor
+tags_filter:
+  - group
+  - mid-shot
+  - forward-facing
+  - creature-spirit
+  - flying
+  - no-face-detail
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/61-ghostly-keybearer.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/1/1/11d04a98-6997-4653-9719-e6b215567599.png?1726286080
 art_match_confidence: high
 needs_manual_review: false

@@ -1,6 +1,6 @@
 ---
 name: Forced Landing
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 161
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["forest", "flying", "falling", "wings", "vines", "canopy", "trees", "nature-magic", "dragon", "monster", "plant-growth", "ambush"]
-tags_filter: ["solo", "mid-shot", "action-mode", "three-quarter-facing", "no-figure-human", "creature-only", "green-magic", "instant", "scene-mode"]
+tags_hub:
+  - forest
+  - flying
+  - falling
+  - wings
+  - vines
+  - canopy
+  - trees
+  - nature-magic
+  - dragon
+  - monster
+  - plant-growth
+  - ambush
+tags_filter:
+  - solo
+  - mid-shot
+  - action-mode
+  - three-quarter-facing
+  - no-figure-human
+  - creature-only
+  - green-magic
+  - instant
+  - scene-mode
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/161-forced-landing.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

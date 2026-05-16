@@ -1,7 +1,13 @@
 ---
 type: character
 name: Galarian regional forms
-aliases: [galarian-regional-forms, galarian-forms, galarian-variants, galar-regional-forms, swsh-regional-forms, gen-viii-regional-forms]
+aliases:
+  - galarian-regional-forms
+  - galarian-forms
+  - galarian-variants
+  - galar-regional-forms
+  - swsh-regional-forms
+  - gen-viii-regional-forms
 universe: Pokemon / Galar (Pokemon Sword & Shield, Game Freak, 2019; expanded via Isle of Armor DLC, June 2020 and Crown Tundra DLC, October 2020)
 faction: ~
 species: designer-coordinated cohort of Galar-region variant forms across ~19 Pokemon species (base forms plus evolutions); regional-type-shift mechanic with shared in-canon adaptation lore (Galarica seed accumulation, Galar climate exposure)
@@ -21,7 +27,9 @@ appears_on:
   - pokemon/darkness-ablaze/099-189-galarian-slowbro-v--holofoil
 related_hubs: []
 related_symbols: []
-related_characters: [galar-gym-challenge, alolan-regional-forms]
+related_characters:
+  - galar-gym-challenge
+  - alolan-regional-forms
 ip_resolution_for: galarian-regional-forms
 ---
 # Galarian regional forms

@@ -1,6 +1,6 @@
 ---
 name: Chain to Memory
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 46
 rarity: C
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["water", "pool", "memory", "reflection", "underworld", "myth", "ritual", "night", "reaching", "drowning", "mortality", "communion"]
-tags_filter: ["duo", "2-figures", "mid-shot", "narrative-mode", "male-figure", "shirtless", "three-quarter-facing", "blue-magic", "instant", "scry"]
+tags_hub:
+  - water
+  - pool
+  - memory
+  - reflection
+  - underworld
+  - myth
+  - ritual
+  - night
+  - reaching
+  - drowning
+  - mortality
+  - communion
+tags_filter:
+  - duo
+  - 2-figures
+  - mid-shot
+  - narrative-mode
+  - male-figure
+  - shirtless
+  - three-quarter-facing
+  - blue-magic
+  - instant
+  - scry
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/46-chain-to-memory.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

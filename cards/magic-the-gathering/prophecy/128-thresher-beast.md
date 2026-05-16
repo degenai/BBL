@@ -1,6 +1,6 @@
 ---
 name: Thresher Beast
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Prophecy
 collector_number: 128
 rarity: C
@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["monster", "beast", "giant-creature", "hero", "confrontation", "scale", "courage", "field", "red", "fantasy-combat"]
-tags_filter: ["group", "wide", "action", "three-quarter", "green-magic", "creature-beast", "male-figure"]
+tags_hub:
+  - monster
+  - beast
+  - giant-creature
+  - hero
+  - confrontation
+  - scale
+  - courage
+  - field
+  - red
+  - fantasy-combat
+tags_filter:
+  - group
+  - wide
+  - action
+  - three-quarter
+  - green-magic
+  - creature-beast
+  - male-figure
 reference_image: cards/_images/magic-the-gathering/prophecy/128-thresher-beast.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/5/7/57996732-c9e4-4271-9d5f-2a8c77f8d177.png?1562911143
 art_match_confidence: high
 needs_manual_review: false

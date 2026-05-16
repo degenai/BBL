@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["warrior", "power-up", "aura", "determination", "armor", "lightning", "exertion", "pride", "saiyan", "rivalry", "transformation", "elite-soldier"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "battle-card", "super-rare", "male-figure", "dbs-colossal-warfare"]
+tags_hub:
+  - warrior
+  - power-up
+  - aura
+  - determination
+  - armor
+  - lightning
+  - exertion
+  - pride
+  - saiyan
+  - rivalry
+  - transformation
+  - elite-soldier
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - battle-card
+  - super-rare
+  - male-figure
+  - dbs-colossal-warfare
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-030-at-all-costs-vegeta.png
 average_cost_paid: 0
-market_price: 0.77
-market_price_as_of: 2026-05-14
+market_price: 0.73
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/BT4-030.png
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +50,8 @@ setting: void
 suspected_ip: Vegeta (Dragon Ball Super — Super Saiyan Blue form)
 ip_confidence: high
 ip_verified: true
-characters: [vegeta]
+characters:
+  - vegeta
 ---
 
 # At All Costs Vegeta (Colossal Warfare)

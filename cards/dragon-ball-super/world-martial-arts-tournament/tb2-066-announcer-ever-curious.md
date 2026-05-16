@@ -10,15 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-characters: ["wmat-tournament-announcer"]
-tags_hub: ["announcer", "microphone", "suit", "sports", "tournament", "broadcasting", "showman", "blond", "spectacle", "media"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait", "male-figure", "anime-style"]
+characters:
+  - wmat-tournament-announcer
+tags_hub:
+  - announcer
+  - microphone
+  - suit
+  - sports
+  - tournament
+  - broadcasting
+  - showman
+  - blond
+  - spectacle
+  - media
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait
+  - male-figure
+  - anime-style
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-066-announcer-ever-curious.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408082155/8EDEC939530292E01D250DB1955D7D75A46CE57D/
 image_width: 624
 image_height: 871

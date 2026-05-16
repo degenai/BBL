@@ -10,20 +10,38 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["eel", "ocean", "underwater", "coral", "electric", "serpentine", "reef", "deep-sea", "predator", "aquatic"]
-tags_filter: ["solo", "mid-shot", "action", "three-quarter", "lightning-type", "uncommon", "pokemon", "stage-1"]
+tags_hub:
+  - eel
+  - ocean
+  - underwater
+  - coral
+  - electric
+  - serpentine
+  - reef
+  - deep-sea
+  - predator
+  - aquatic
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - three-quarter
+  - lightning-type
+  - uncommon
+  - pokemon
+  - stage-1
 reference_image: cards/_images/pokemon/fusion-strike/096-264-eelektrik.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh8/96_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Shigenori Negishi
 flavor_text: These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.
-oracle_text: Lightning Ball (Lightning) 20\nThunder (LightningColorlessColorless) 80: This Pokémon also does 20 damage to itself.
+oracle_text: "Lightning Ball (Lightning) 20\\nThunder (LightningColorlessColorless) 80: This Pokémon also does 20 damage to itself."
 mood: action
 time_of_day: indeterminate
 setting: ocean

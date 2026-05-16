@@ -1,7 +1,13 @@
 ---
 type: character
 name: "Wrath of the Dragon Saga (Hirudegarn arc, DBZ Movie 13)"
-aliases: [wrath-of-the-dragon-saga, wrath-of-the-dragon, hirudegarn-saga, hirudegarn-arc, dbz-movie-13, movie-13-saga]
+aliases:
+  - wrath-of-the-dragon-saga
+  - wrath-of-the-dragon
+  - hirudegarn-saga
+  - hirudegarn-arc
+  - dbz-movie-13
+  - movie-13-saga
 universe: "Dragon Ball Z theatrical film 13, *Doragon Bōru Zetto: Ryū-Ken Bakuhatsu!! Goku ga Yaraneba Dare ga Yaru* / *Dragon Ball Z: Wrath of the Dragon* (Toei Animation / Shueisha, theatrical release 1995-07-15 Japan; English-dub release 2006 Funimation); reintroduced as the named saga frame for the Dragon Ball Super Card Game's Colossal Warfare booster set (DBS-B04, 2018-07-13)"
 faction: ~
 species: designer-coordinated saga-arc cycle of seven Dragon Ball Super Card Game cards in the Hirudegarn Saga roster of Colossal Warfare (BT4)
@@ -17,7 +23,10 @@ appears_on:
   - dragon-ball-super/colossal-warfare/bt4-042-hoi-emissary-of-flame
 related_hubs: []
 related_symbols: []
-related_characters: [trunks, babidi, namekian]
+related_characters:
+  - trunks
+  - babidi
+  - namekian
 ip_resolution_for: hirudegarn-saga
 ---
 

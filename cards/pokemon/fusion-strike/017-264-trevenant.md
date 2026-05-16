@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["ghost", "tree", "forest", "horror", "eye", "roots", "spirit", "ancient", "hollow", "woodland", "monster", "guardian"]
-tags_filter: ["solo", "mid-shot", "narrative", "forward-facing", "grass-type", "uncommon", "pokemon", "stage-1"]
+tags_hub:
+  - ghost
+  - tree
+  - forest
+  - horror
+  - eye
+  - roots
+  - spirit
+  - ancient
+  - hollow
+  - woodland
+  - monster
+  - guardian
+tags_filter:
+  - solo
+  - mid-shot
+  - narrative
+  - forward-facing
+  - grass-type
+  - uncommon
+  - pokemon
+  - stage-1
 reference_image: cards/_images/pokemon/fusion-strike/017-264-trevenant.png
 average_cost_paid: 0
-market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price: 0.13
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh8/17_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +50,8 @@ setting: forest
 suspected_ip: Trevenant
 ip_confidence: high
 ip_verified: true
-characters: ["phantump-line"]
+characters:
+  - phantump-line
 ---
 
 # Trevenant (Fusion Strike)

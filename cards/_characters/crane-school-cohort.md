@@ -1,7 +1,14 @@
 ---
 type: character
 name: "Crane School (Tsuru Sen-ryū — Master Shen's assassination-focused martial arts lineage; Tien / Chiaotzu / Mercenary Tao)"
-aliases: [crane-school-cohort, crane-school, tsuru-sen-ryu, crane-hermit-lineage, master-shen-cohort, shen-lineage, crane-school-disciples]
+aliases:
+  - crane-school-cohort
+  - crane-school
+  - tsuru-sen-ryu
+  - crane-hermit-lineage
+  - master-shen-cohort
+  - shen-lineage
+  - crane-school-disciples
 universe: "Dragon Ball franchise (Akira Toriyama, Shueisha manga 1984-1995; Toei Animation anime adaptations 1986-present); the Crane School (Tsuru Sen-ryū, 'Crane Hermit School') is canonically introduced in the original Dragon Ball manga's 22nd Tenkaichi Budokai arc (chapters 142-167, 1986) and continues across Dragon Ball Z's Saiyan Saga onward through the canonical defection of Tien Shinhan and Chiaotzu to the protagonist roster; the school's full lineage roster (Master Shen as Crane Hermit / schoolmaster, Mercenary Tao as Shen's younger brother and monetized assassin, Tien Shinhan and Chiaotzu as Shen's principal disciples) is canonically recapitulated as a designer-coordinated five-card cohort within the Dragon Ball Super Card Game's World Martial Arts Tournament Themed Booster (DBS-TB02, 2018-09-21)"
 faction: ~
 species: "designer-coordinated five-card lineage cohort within World Martial Arts Tournament TB2, depicting Master Shen (the Crane Hermit, schoolmaster) plus his three canonical-disciples-and-brother roster: Tien Shinhan (Triclops three-eyed warrior disciple, eventual defector to Turtle School), Chiaotzu (Jiangshi-inspired psychic disciple, Tien's lifelong partner), and Mercenary Tao (Shen's younger brother, the school's monetized-assassin extension); the Crane School's canonical philosophy is assassination-focused martial arts — students shaped as weapons rather than developed as martial-arts practitioners — counterposed to Master Roshi's Turtle School (Kame Sen-ryū) protect-the-weak moral substrate from the same Mutaito training lineage"
@@ -13,10 +20,17 @@ appears_on:
   - dragon-ball-super/world-martial-arts-tournament/tb2-048-mercenary-tao-trading-moves
   - dragon-ball-super/world-martial-arts-tournament/tb2-056-toughened-up-chiaotzu
   - dragon-ball-super/world-martial-arts-tournament/tb2-063-master-shen-martial-meister
-related_hubs: [labor]
+related_hubs: "[labor]"
 related_symbols: []
-related_characters: [master-roshi]
-ip_resolution_for: ["Crane School", "Tsuru Sen-ryū", "Master Shen", "Crane Hermit", "Mercenary Tao", "Tao Pai Pai"]
+related_characters:
+  - master-roshi
+ip_resolution_for:
+  - Crane School
+  - Tsuru Sen-ryū
+  - Master Shen
+  - Crane Hermit
+  - Mercenary Tao
+  - Tao Pai Pai
 ---
 
 # Crane School (Tsuru Sen-ryū — Master Shen's assassination-focused martial arts lineage)

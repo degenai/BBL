@@ -1,6 +1,6 @@
 ---
 name: Deep Analysis
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 268
 rarity: U
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["sea-serpent", "dragon", "ocean", "magic-orb", "confrontation", "ancient", "serpent", "wings", "underwater", "power", "mystery", "duel"]
-tags_filter: ["duo", "mid-shot", "narrative-mode", "faces-left", "blue-magic", "sorcery", "flashback"]
+tags_hub:
+  - sea-serpent
+  - dragon
+  - ocean
+  - magic-orb
+  - confrontation
+  - ancient
+  - serpent
+  - wings
+  - underwater
+  - power
+  - mystery
+  - duel
+tags_filter:
+  - duo
+  - mid-shot
+  - narrative-mode
+  - faces-left
+  - blue-magic
+  - sorcery
+  - flashback
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/268-deep-analysis.png
 average_cost_paid: 0
 market_price: 0.35
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/0/f/0f33818e-6f6e-47a9-ae5d-406bdd47b292.png?1717013576
 art_match_confidence: high
 needs_manual_review: false

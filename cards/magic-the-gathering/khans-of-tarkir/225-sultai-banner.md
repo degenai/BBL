@@ -1,6 +1,6 @@
 ---
 name: Sultai Banner
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Khans of Tarkir
 collector_number: 225
 rarity: C
@@ -10,14 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["banner", "standard", "serpent", "naga", "skull", "swamp", "ruin", "gold", "decay", "heraldry", "clan", "relic"]
-tags_filter: ["artifact", "no-figures", "mid-shot", "object-focus", "scene-mode", "blue-magic", "black-magic", "green-magic", "multicolor-blue-black-green", "mana-rock", "card-draw"]
+tags_hub:
+  - banner
+  - standard
+  - serpent
+  - naga
+  - skull
+  - swamp
+  - ruin
+  - gold
+  - decay
+  - heraldry
+  - clan
+  - relic
+tags_filter:
+  - artifact
+  - no-figures
+  - mid-shot
+  - object-focus
+  - scene-mode
+  - blue-magic
+  - black-magic
+  - green-magic
+  - multicolor-blue-black-green
+  - mana-rock
+  - card-draw
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/225-sultai-banner.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +52,7 @@ artist: Daniel Ljunggren
 art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/225-sultai-banner--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/6/1695cf35-8f7c-4674-bfd3-43520b13d084.jpg?1562783039
 flavor_text: Power to dominate, cruelty to rule.
-oracle_text: {T}: Add {B}, {G}, or {U}.\n{B}{G}{U}, {T}, Sacrifice this artifact: Draw a card.
+oracle_text: "{T}: Add {B}, {G}, or {U}.\\n{B}{G}{U}, {T}, Sacrifice this artifact: Draw a card."
 ---
 
 # Sultai Banner (Khans of Tarkir)

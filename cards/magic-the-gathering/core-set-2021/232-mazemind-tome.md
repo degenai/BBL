@@ -1,6 +1,6 @@
 ---
 name: Mazemind Tome
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 232
 rarity: R
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["book", "tome", "magic", "knowledge", "library", "wizardry", "vortex", "scrying", "memory", "arcane-artifact", "spellbook", "divination"]
-tags_filter: ["solo-object", "no-figure", "close-up", "forward-facing", "portrait-mode", "artifact", "blue-magic", "colorless-artifact"]
+tags_hub:
+  - book
+  - tome
+  - magic
+  - knowledge
+  - library
+  - wizardry
+  - vortex
+  - scrying
+  - memory
+  - arcane-artifact
+  - spellbook
+  - divination
+tags_filter:
+  - solo-object
+  - no-figure
+  - close-up
+  - forward-facing
+  - portrait-mode
+  - artifact
+  - blue-magic
+  - colorless-artifact
 reference_image: cards/_images/magic-the-gathering/core-set-2021/232-mazemind-tome.png
 average_cost_paid: 0
 market_price: 0.38
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -28,7 +48,7 @@ setting: indoor
 artist: Randy Gallegos
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/232-mazemind-tome--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/f/9fd761f3-6b43-4150-8595-dc3abd85b06c.jpg?1594737505
-oracle_text: {T}, Put a page counter on this artifact: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{2}, {T}, Put a page counter on this artifact: Draw a card.\nWhen there are four or more page counters on this artifact, exile it. If you do, you gain 4 life.
+oracle_text: "{T}, Put a page counter on this artifact: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)\\n{2}, {T}, Put a page counter on this artifact: Draw a card.\\nWhen there are four or more page counters on this artifact, exile it. If you do, you gain 4 life."
 ---
 
 # Mazemind Tome (Core Set 2021)

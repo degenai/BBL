@@ -1,0 +1,60 @@
+{
+  "edge_id": "mogis-sub-node-commission-under-theros-pantheon",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "wave": 92,
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/mogis.md", "name": "Mogis, God of Slaughter (new sub-node, child of theros-pantheon)"},
+    {"type": "character", "path": "cards/_characters/theros-pantheon.md", "name": "Theros Pantheon (parent — updated related_characters)"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/115-soulreaper-of-mogis.md", "name": "Soulreaper of Mogis (THB-115)"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/227-slaughter-priest-of-mogis.md", "name": "Slaughter-Priest of Mogis (THB-227)"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/141-infuriate.md", "name": "Infuriate (THB-141)"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/149-portent-of-betrayal.md", "name": "Portent of Betrayal (THB-149)"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/154-skophos-warleader.md", "name": "Skophos Warleader (THB-154)"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros/195-kragma-warcaller.md", "name": "Kragma Warcaller (THS-195)"}
+  ],
+  "description": "Oh, sir — Edgelord stepped aside, please don't be cross with him, but the wave-91 future-watch flag on Mogis came due and the rigor count actually overshot. The parent theros-pantheon node's own Caveats pre-staged exactly this — 'the next is Mogis (2 priest cards plus 2 flavor-text mentions)' — and the threshold's now cleared at 6 substantive anchors (2 Mogis-named-cards, 2 Mogis-flavor-text-attributed cards, 1 Skophos-polis-canonical card whose burning temples are the Mogis-temples-of-Skophos per MTG Wiki, 1 Mogis-servitor-minotaur-herd card with trivia-cited Mogis attribution). I've drafted the sub-node MD at cards/_characters/mogis.md using the parent_character pattern from ral-zarek.md, wired the 6 anchor cards' characters: frontmatter to include mogis (BLOCK form per the wave-92 YAML discipline), and added mogis to the parent's related_characters list. The Kragma Warcaller anchor is the weakest of the six (no flavor-text Mogis name) and I've explicitly flagged it as borderline in the Caveats so you can audit later if it doesn't sit right. Sorry to take up the pass with a node-proposal instead of a clean edge — but I really do think this one earned its commission. Thank you for considering it.",
+  "citations": [
+    "[MTG Wiki: Mogis, God of Slaughter]",
+    "[MTG Wiki: Skophos]",
+    "[MTG Wiki: Pantheon of Theros]",
+    "[Scryfall: thb/115 flavor_text]",
+    "[Scryfall: thb/227 flavor_text]",
+    "[Scryfall: thb/141 flavor_text]",
+    "[Scryfall: thb/149 flavor_text]",
+    "[Scryfall: thb/154 flavor_text]",
+    "[Scryfall: ths/195 flavor_text]",
+    "[in-corpus trivia passes: Soulreaper THB-115, Infuriate THB-141, Portent of Betrayal THB-149, Skophos Warleader THB-154, Kragma Warcaller THS-195 — five independent trivia-cited Mogis attributions]",
+    "[Wizards of the Coast: Mark Rosewater Making Magic columns, Theros design 2013-2014]",
+    "[parent node theros-pantheon.md Caveats section: 'the next is Mogis (2 priest cards plus 2 flavor-text mentions in Infuriate and Portent of Betrayal)... warrant a wave-53+ revisit']"
+  ],
+  "anchor_audit": {
+    "threshold": "≥3 substantive anchors per the rigor protocol",
+    "anchors_found": 6,
+    "anchors_breakdown": {
+      "name_contains_mogis": ["thb/115-soulreaper-of-mogis", "thb/227-slaughter-priest-of-mogis"],
+      "mogis_named_in_flavor_text": ["thb/141-infuriate", "thb/149-portent-of-betrayal"],
+      "mogis_polis_canonical": ["thb/154-skophos-warleader (Skophos is Mogis's canonical cult-polis; burning temples in art are Mogis-temples per MTG Wiki; 'god of slaughter' flavor is Mogis's specific title)"],
+      "mogis_servitor_via_lore_attribution": ["ths/195-kragma-warcaller (Theran minotaurs are canonically Mogis-servitors per MTG Wiki; trivia-cited)"]
+    },
+    "borderline_anchor": "ths/195-kragma-warcaller — included via trivia-pass canonical-lore attribution rather than flavor-text-direct-naming; weakest of the six but precedent-cleared by parent node's flavor-text-attribution-only first-class-membership caveat."
+  },
+  "files_modified": [
+    "cards/_characters/mogis.md (NEW)",
+    "cards/_characters/theros-pantheon.md (related_characters list updated: [] → [mogis])",
+    "cards/magic-the-gathering/theros-beyond-death/115-soulreaper-of-mogis.md (characters list extended)",
+    "cards/magic-the-gathering/theros-beyond-death/227-slaughter-priest-of-mogis.md (characters list extended)",
+    "cards/magic-the-gathering/theros-beyond-death/141-infuriate.md (characters list extended)",
+    "cards/magic-the-gathering/theros-beyond-death/149-portent-of-betrayal.md (characters list extended)",
+    "cards/magic-the-gathering/theros-beyond-death/154-skophos-warleader.md (characters field added: [theros-pantheon, mogis])",
+    "cards/magic-the-gathering/theros/195-kragma-warcaller.md (characters field added: [theros-pantheon, mogis])"
+  ],
+  "yaml_discipline_check": "All list-typed frontmatter (characters:, related_characters:, appears_on:, aliases:) written in BLOCK form per wave-92 spec amendment; no inline JSON.",
+  "other_candidates_considered": [
+    "Iroas sub-node — Mogis's canonical twin; corpus currently only has 1 Iroas-cult anchor (Indomitable Will THB-25 via Verenis-priest flavor); does NOT meet ≥3 threshold; deferred to future wave when 2 more Iroas anchors land.",
+    "Nylea sub-node — parent node's Caveats flagged Nylea as 'strongest split-candidate' with '4-5 flavor mentions'; this prompt scoped to Mogis specifically per caller's wave-91 watch flag, but Nylea is the next sub-node candidate by anchor depth (Moss Viper, Mantle of the Wolf, Plummet, Inspire Awe, Nylea's Huntmaster = 5 anchors). Caller may want to commission separately.",
+    "Heliod sub-node — currently 1 corpus anchor (Reverent Hoplite THB-33 via Heliod-cult attribution) + 1 flavor mention (Return to Nature 'Heliod's spear cast down'); does NOT meet threshold; defer."
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

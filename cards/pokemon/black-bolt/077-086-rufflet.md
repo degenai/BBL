@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["bird", "eagle", "wings", "forest", "nature", "bravery", "raptor", "feathers", "small-creature", "freedom"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "colorless-type", "creature", "flying"]
+tags_hub:
+  - bird
+  - eagle
+  - wings
+  - forest
+  - nature
+  - bravery
+  - raptor
+  - feathers
+  - small-creature
+  - freedom
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - colorless-type
+  - creature
+  - flying
 reference_image: cards/_images/pokemon/black-bolt/077-086-rufflet.png
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price: 0.05
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/zsv10pt5/77_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +47,7 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: forest
-suspected_ip: Rufflet (#627)
+suspected_ip: "Rufflet (#627)"
 ip_confidence: high
 ip_verified: false
 ---

@@ -10,20 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["fish", "ocean", "beach", "summer", "leap", "water", "comedy", "underdog", "sunshine", "splashing"]
-tags_filter: ["duo", "mid-shot", "forward-facing", "water-type", "common", "basic-pokemon", "action-pose"]
+tags_hub:
+  - fish
+  - ocean
+  - beach
+  - summer
+  - leap
+  - water
+  - comedy
+  - underdog
+  - sunshine
+  - splashing
+tags_filter:
+  - duo
+  - mid-shot
+  - forward-facing
+  - water-type
+  - common
+  - basic-pokemon
+  - action-pose
 reference_image: cards/_images/pokemon/rebel-clash/039-192-magikarp.png
 average_cost_paid: 0
-market_price: 1.7
-market_price_as_of: 2026-05-14
+market_price: 1.82
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh2/39_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: kanahei
 flavor_text: It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.
-oracle_text: Leap Out (Colorless): Switch this Pokémon with 1 of your Benched Pokémon.
+oracle_text: "Leap Out (Colorless): Switch this Pokémon with 1 of your Benched Pokémon."
 mood: comedic
 time_of_day: day
 setting: ocean

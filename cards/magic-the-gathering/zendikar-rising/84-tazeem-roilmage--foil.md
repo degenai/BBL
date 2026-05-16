@@ -1,6 +1,6 @@
 ---
 name: Tazeem Roilmage
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Zendikar Rising
 collector_number: 84
 rarity: C
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["merfolk", "wizard", "water", "spellcaster", "ritual", "ocean", "robed-figure", "magic", "elemental", "coastal", "incantation"]
-tags_filter: ["solo", "mid-shot", "three-quarter-facing", "action-mode", "male-figure", "creature-merfolk", "creature-wizard", "blue-magic", "kicker"]
+tags_hub:
+  - merfolk
+  - wizard
+  - water
+  - spellcaster
+  - ritual
+  - ocean
+  - robed-figure
+  - magic
+  - elemental
+  - coastal
+  - incantation
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter-facing
+  - action-mode
+  - male-figure
+  - creature-merfolk
+  - creature-wizard
+  - blue-magic
+  - kicker
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/84-tazeem-roilmage--foil.png
 average_cost_paid: 0
 market_price: 0.21
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

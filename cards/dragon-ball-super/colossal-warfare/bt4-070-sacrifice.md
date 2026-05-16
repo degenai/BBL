@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["sacrifice", "defeat", "namekian", "villain", "martyrdom", "power-imbalance", "grim", "drama", "death", "fall", "dark-moment", "consequence"]
-tags_filter: ["duo", "scene", "narrative", "three-quarter", "battle-card", "common", "dbs-colossal-warfare", "2-figures"]
+tags_hub:
+  - sacrifice
+  - defeat
+  - namekian
+  - villain
+  - martyrdom
+  - power-imbalance
+  - grim
+  - drama
+  - death
+  - fall
+  - dark-moment
+  - consequence
+tags_filter:
+  - duo
+  - scene
+  - narrative
+  - three-quarter
+  - battle-card
+  - common
+  - dbs-colossal-warfare
+  - 2-figures
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-070-sacrifice.png
 average_cost_paid: 0
 market_price: 0.01
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401034559/F29A3D90AEEB29E28E9B942A0F9B69966D590DDC/
 image_width: 624
 image_height: 871
@@ -30,7 +50,9 @@ setting: void
 suspected_ip: Piccolo and/or Nail (Dragon Ball Z — Frieza Saga sacrifice scene)
 ip_confidence: med
 ip_verified: false
-characters: [piccolo-jr, namekian]
+characters:
+  - piccolo-jr
+  - namekian
 ---
 
 # Sacrifice (Colossal Warfare)

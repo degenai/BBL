@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["mentor", "elder", "martial-arts", "teacher", "wisdom", "master", "eccentric", "hermit", "old-man", "tournament", "hat", "sensei"]
-tags_filter: ["solo", "mid-shot", "portrait", "three-quarter", "anime-style", "male-figure"]
+tags_hub:
+  - mentor
+  - elder
+  - martial-arts
+  - teacher
+  - wisdom
+  - master
+  - eccentric
+  - hermit
+  - old-man
+  - tournament
+  - hat
+  - sensei
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - three-quarter
+  - anime-style
+  - male-figure
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-057-master-roshi-martial-meister.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408080871/5B138078E6764F045832EF183D069E4B3F0D795B/
 image_width: 624
 image_height: 871
@@ -30,7 +48,8 @@ setting: indoor
 suspected_ip: Master Roshi
 ip_confidence: high
 ip_verified: true
-characters: [master-roshi]
+characters:
+  - master-roshi
 ---
 
 # Master Roshi, Martial Meister (World Martial Arts Tournament)

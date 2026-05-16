@@ -1,6 +1,6 @@
 ---
 name: Contentious Plan
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 46
 rarity: C
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["scheming", "planning", "conspiracy", "robed-figure", "scrolls", "blueprints", "war-room", "strategy", "arcane-light", "study", "scholar", "night"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "no-face", "indoor", "blue-magic", "sorcery", "proliferate", "card-draw"]
+tags_hub:
+  - scheming
+  - planning
+  - conspiracy
+  - robed-figure
+  - scrolls
+  - blueprints
+  - war-room
+  - strategy
+  - arcane-light
+  - study
+  - scholar
+  - night
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - scene-mode
+  - no-face
+  - indoor
+  - blue-magic
+  - sorcery
+  - proliferate
+  - card-draw
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/46-contentious-plan.png
 average_cost_paid: 0
-market_price: 0.41
-market_price_as_of: 2026-05-14
+market_price: 0.39
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

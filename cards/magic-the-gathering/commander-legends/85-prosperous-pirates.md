@@ -1,6 +1,6 @@
 ---
 name: Prosperous Pirates
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Commander Legends
 collector_number: 85
 rarity: C
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["pirate", "treasure", "gold", "ship", "sailor", "ocean", "swashbuckler", "human-figure", "bearded-figure", "loot", "high-seas", "crew"]
-tags_filter: ["duo", "mid-shot", "three-quarter", "male-figure", "blue-magic", "creature-human", "creature-pirate", "outdoor"]
+tags_hub:
+  - pirate
+  - treasure
+  - gold
+  - ship
+  - sailor
+  - ocean
+  - swashbuckler
+  - human-figure
+  - bearded-figure
+  - loot
+  - high-seas
+  - crew
+tags_filter:
+  - duo
+  - mid-shot
+  - three-quarter
+  - male-figure
+  - blue-magic
+  - creature-human
+  - creature-pirate
+  - outdoor
 reference_image: cards/_images/magic-the-gathering/commander-legends/85-prosperous-pirates.png
 average_cost_paid: 0
 market_price: 0.28
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +49,7 @@ artist: Josh Hass
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/85-prosperous-pirates--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/d/5d778bde-f927-419e-8052-6230562bdedd.jpg?1608909355
 flavor_text: The floating city of High and Dry hasn't yet sunk under the weight of gold, but it's not for want of trying.
-oracle_text: When this creature enters, create two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")
+oracle_text: "When this creature enters, create two Treasure tokens. (They're artifacts with \\\"{T}, Sacrifice this token: Add one mana of any color.\\\")"
 ---
 
 # Prosperous Pirates (Commander Legends)

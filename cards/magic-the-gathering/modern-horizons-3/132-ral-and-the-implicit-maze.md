@@ -1,6 +1,6 @@
 ---
 name: Ral and the Implicit Maze
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 132
 rarity: U
@@ -13,15 +13,32 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-characters: ["ral-zarek", "izzet-league"]
-tags_hub: ["fire", "lava", "volcano", "magic-user", "surfer", "motion", "power", "elemental", "ravnica"]
-tags_filter: ["solo", "wide", "three-quarter", "red-magic", "enchantment-saga", "action-mode"]
+characters:
+  - ral-zarek
+  - izzet-league
+tags_hub:
+  - fire
+  - lava
+  - volcano
+  - magic-user
+  - surfer
+  - motion
+  - power
+  - elemental
+  - ravnica
+tags_filter:
+  - solo
+  - wide
+  - three-quarter
+  - red-magic
+  - enchantment-saga
+  - action-mode
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/132-ral-and-the-implicit-maze.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/e/b/ebadb7dc-69a4-43c9-a2f8-d846b231c71c.png?1717239624
 art_match_confidence: high
 needs_manual_review: false

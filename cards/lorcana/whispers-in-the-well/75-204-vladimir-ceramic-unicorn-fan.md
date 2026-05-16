@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["brute", "collector", "ceramic", "breaking", "passion", "thug", "gentle-giant", "craftsmanship", "warrior", "coat", "comedy", "unicorn"]
-tags_filter: ["solo", "mid-shot", "action", "three-quarter", "emerald-magic", "character-card", "storyborn", "ally"]
+tags_hub:
+  - brute
+  - collector
+  - ceramic
+  - breaking
+  - passion
+  - thug
+  - gentle-giant
+  - craftsmanship
+  - warrior
+  - coat
+  - comedy
+  - unicorn
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - three-quarter
+  - emerald-magic
+  - character-card
+  - storyborn
+  - ally
 reference_image: cards/_images/lorcana/whispers-in-the-well/75-204-vladimir-ceramic-unicorn-fan.jpg
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10/75_9b09f30a469919276111577aa0f701dfc1343ca9.jpg
 art_match_confidence: high
 needs_manual_review: false

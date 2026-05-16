@@ -1,6 +1,6 @@
 ---
 name: Eldrazi Repurposer
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 150
 rarity: C
@@ -10,18 +10,40 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["eldrazi", "alien", "cosmic-horror", "monster", "bone", "skull", "forest", "predator", "drone", "weird", "pale-figure", "consumption"]
-tags_filter: ["solo", "mid-shot", "three-quarter-facing", "scene-mode", "no-face", "creature-eldrazi-drone", "green-magic", "devoid", "common"]
+tags_hub:
+  - eldrazi
+  - alien
+  - cosmic-horror
+  - monster
+  - bone
+  - skull
+  - forest
+  - predator
+  - drone
+  - weird
+  - pale-figure
+  - consumption
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter-facing
+  - scene-mode
+  - no-face
+  - creature-eldrazi-drone
+  - green-magic
+  - devoid
+  - common
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/150-eldrazi-repurposer.png
 average_cost_paid: 0
-market_price: 0.24
-market_price_as_of: 2026-05-14
+market_price: 0.23
+market_price_as_of: 2026-05-16
 date_added: 2026-05-10
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/3/7/37f79ba7-7b65-4387-b498-f770816ce8dd.png?1717012430
 art_match_confidence: high
 needs_manual_review: false
-characters: ["eldrazi"]
+characters:
+  - eldrazi
 mood: horror
 time_of_day: indeterminate
 setting: forest
@@ -29,7 +51,7 @@ artist: Daren Bader
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/150-eldrazi-repurposer--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/7/37f79ba7-7b65-4387-b498-f770816ce8dd.jpg?1717012430
 flavor_text: \"I almost admire their ability to avoid waste. Almost.\"\n—General Tazri, allied commander
-oracle_text: Devoid (This card has no color.)\nWhen you cast this spell and when this creature dies, create a 0/1 colorless Eldrazi Spawn creature token with \"Sacrifice this token: Add {C}.\"
+oracle_text: "Devoid (This card has no color.)\\nWhen you cast this spell and when this creature dies, create a 0/1 colorless Eldrazi Spawn creature token with \\\"Sacrifice this token: Add {C}.\\\""
 ---
 
 # Eldrazi Repurposer (Modern Horizons 3)

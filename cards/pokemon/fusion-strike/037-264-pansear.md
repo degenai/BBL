@@ -10,27 +10,45 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["monkey", "fire", "fruit", "forest", "playful", "leap", "tree", "warmth", "small-creature", "nature"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "fire-type", "common", "pokemon"]
+tags_hub:
+  - monkey
+  - fire
+  - fruit
+  - forest
+  - playful
+  - leap
+  - tree
+  - warmth
+  - small-creature
+  - nature
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - fire-type
+  - common
+  - pokemon
 reference_image: cards/_images/pokemon/fusion-strike/037-264-pansear.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh8/37_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Misa Tsutsui
 flavor_text: This Pokémon lives in caves in volcanoes. The fire within the tuft on its head can reach 600 degrees Fahrenheit.
-oracle_text: Surprise Attack (Fire) 30: Flip a coin. If tails, this attack does nothing.
+oracle_text: "Surprise Attack (Fire) 30: Flip a coin. If tails, this attack does nothing."
 mood: comedic
 time_of_day: day
 setting: forest
 suspected_ip: Pansear
 ip_confidence: high
 ip_verified: false
-characters: ["elemental-monkey-trio"]
+characters:
+  - elemental-monkey-trio
 ---
 
 # Pansear (Fusion Strike)

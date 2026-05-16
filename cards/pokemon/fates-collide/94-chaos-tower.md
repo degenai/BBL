@@ -13,14 +13,31 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["tower", "energy", "light", "chaos", "prismatic", "architecture", "power", "radiance", "stadium", "duality", "structure"]
-tags_filter: ["wide", "scene", "no-face", "abstract", "trainer-stadium", "none-figure"]
+tags_hub:
+  - tower
+  - energy
+  - light
+  - chaos
+  - prismatic
+  - architecture
+  - power
+  - radiance
+  - stadium
+  - duality
+  - structure
+tags_filter:
+  - wide
+  - scene
+  - no-face
+  - abstract
+  - trainer-stadium
+  - none-figure
 reference_image: cards/_images/pokemon/fates-collide/94-chaos-tower.png
 average_cost_paid: 0
 market_price: 0.23
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/xy10/94_hires.png
 art_match_confidence: high
 needs_manual_review: false

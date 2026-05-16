@@ -1,6 +1,6 @@
 ---
 name: Indebted Spirit
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 31
 rarity: U
@@ -13,15 +13,35 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-characters: ["orzhov-syndicate"]
-tags_hub: ["ghost", "skull", "undead", "debt", "scroll", "orzhov", "spirit", "bureaucracy", "afterlife", "robed-figure", "scepter", "darkness"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait", "white-magic", "creature-spirit", "bestow"]
+characters:
+  - orzhov-syndicate
+tags_hub:
+  - ghost
+  - skull
+  - undead
+  - debt
+  - scroll
+  - orzhov
+  - spirit
+  - bureaucracy
+  - afterlife
+  - robed-figure
+  - scepter
+  - darkness
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait
+  - white-magic
+  - creature-spirit
+  - bestow
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/31-indebted-spirit.png
 average_cost_paid: 0
-market_price: 0.24
-market_price_as_of: 2026-05-14
+market_price: 0.21
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/b/f/bfdbef00-bc1b-4dd6-aef5-aeb5ce454344.png?1717011449
 art_match_confidence: high
 needs_manual_review: false

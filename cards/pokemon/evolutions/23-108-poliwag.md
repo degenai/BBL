@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["water", "ocean", "tadpole", "spiral", "creature", "cute", "aquatic", "smooth", "round", "translucent", "simple-design"]
-tags_filter: ["solo", "close-up", "portrait", "forward-facing", "no-face", "water-type", "basic-pokemon"]
+tags_hub:
+  - water
+  - ocean
+  - tadpole
+  - spiral
+  - creature
+  - cute
+  - aquatic
+  - smooth
+  - round
+  - translucent
+  - simple-design
+tags_filter:
+  - solo
+  - close-up
+  - portrait
+  - forward-facing
+  - no-face
+  - water-type
+  - basic-pokemon
 reference_image: cards/_images/pokemon/evolutions/23-108-poliwag.png
 average_cost_paid: 0
 market_price: 0.23
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/xy12/23_hires.png
 art_match_confidence: high
 needs_manual_review: false

@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["villain", "alien", "lackey", "henchman", "minion", "pale-figure", "green-uniform", "magic", "elongated", "otherworldly"]
-tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "anime-style"]
+tags_hub:
+  - villain
+  - alien
+  - lackey
+  - henchman
+  - minion
+  - pale-figure
+  - green-uniform
+  - magic
+  - elongated
+  - otherworldly
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - anime-style
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-016-pui-pui-magician-s-lackey.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408074835/BA4D99130425A7E5C2E2F3E5121082CFD690B67B/
 image_width: 624
 image_height: 871
@@ -30,7 +45,8 @@ setting: void
 suspected_ip: Pui Pui
 ip_confidence: high
 ip_verified: true
-characters: ["babidi"]
+characters:
+  - babidi
 ---
 
 # Pui Pui, Magician's Lackey (World Martial Arts Tournament)

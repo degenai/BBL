@@ -1,7 +1,11 @@
 ---
 type: character
 name: "Iona, Shield of Emeria"
-aliases: [iona, iona-shield-of-emeria, shield-of-emeria, archangel-iona]
+aliases:
+  - iona
+  - iona-shield-of-emeria
+  - shield-of-emeria
+  - archangel-iona
 universe: "Magic: The Gathering / Zendikar (origin set: Zendikar 2009; subsequent printings: Magic 2010, Modern Masters, Commander 2014, Eternal Masters, Conspiracy: Take the Crown, Iconic Masters, Ultimate Masters, Secret Lair, et al.; canonical-character-name references: Iona's Blessing OGW-21, Iona's Judgment WWK-22 / multiple reprints)"
 faction: "Zendikar Angels (archangel-tier of Emeria, the canonical Zendikar angel-faction; sibling to Linvala the Keeper of Silence and the broader Zendikari angel cohort whose canonical-feature is the halo lowered over the eyes as the symbolic-blindness register following the first Eldrazi awakening)"
 species: "angel (Magic: The Gathering creature-type Angel; canonically gargantuan / six-winged / pupil-less glowing white eyes / archangel-tier; canonical visual register differs from the broader Zendikari angel cohort in that Iona has NO halo over her own eyes — she is the Zendikari angel who *kept her sight* through the canonical lowering-of-halos response to the Eldrazi)"
@@ -10,10 +14,16 @@ confidence: canonical
 appears_on:
   - magic-the-gathering/oath-of-the-gatewatch/21-iona-s-blessing
   - magic-the-gathering/commander-legends/25-iona-s-judgment
-related_hubs: [stewardship]
+related_hubs: "[stewardship]"
 related_symbols: []
-related_characters: [eldrazi, kor, zendikari-resistance]
-ip_resolution_for: ["Iona", "Iona, Shield of Emeria", "Shield of Emeria"]
+related_characters:
+  - eldrazi
+  - kor
+  - zendikari-resistance
+ip_resolution_for:
+  - Iona
+  - Iona, Shield of Emeria
+  - Shield of Emeria
 ---
 
 # Iona, Shield of Emeria

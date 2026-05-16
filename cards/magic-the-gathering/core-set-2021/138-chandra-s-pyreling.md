@@ -1,6 +1,6 @@
 ---
 name: Chandra's Pyreling
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 138
 rarity: U
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["fire", "flame", "elemental", "lizard", "serpent", "dragon", "embers", "void", "darkness", "creature", "monster", "heat"]
-tags_filter: ["solo", "1-figure", "no-face", "mid-shot", "scene-mode", "action-mode", "creature-elemental", "creature-lizard", "red-magic", "double-strike"]
+tags_hub:
+  - fire
+  - flame
+  - elemental
+  - lizard
+  - serpent
+  - dragon
+  - embers
+  - void
+  - darkness
+  - creature
+  - monster
+  - heat
+tags_filter:
+  - solo
+  - 1-figure
+  - no-face
+  - mid-shot
+  - scene-mode
+  - action-mode
+  - creature-elemental
+  - creature-lizard
+  - red-magic
+  - double-strike
 reference_image: cards/_images/magic-the-gathering/core-set-2021/138-chandra-s-pyreling.png
 average_cost_paid: 0
 market_price: 0.24
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,7 +50,8 @@ setting: void
 suspected_ip: Chandra Nalaar
 ip_confidence: high
 ip_verified: true
-characters: ["chandra-nalaar"]
+characters:
+  - chandra-nalaar
 artist: Josu Hernaiz
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/138-chandra-s-pyreling--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/7/e7744fcf-2336-489d-bc05-f3fce78713a9.jpg?1594736559

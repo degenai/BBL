@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["villain", "conspiracy", "dark-plot", "scheming", "trio", "darkness", "evil", "red-coat", "group-of-villains", "shadow"]
-tags_filter: ["group", "mid-shot", "three-quarter", "narrative", "female-figure", "3-figures"]
+tags_hub:
+  - villain
+  - conspiracy
+  - dark-plot
+  - scheming
+  - trio
+  - darkness
+  - evil
+  - red-coat
+  - group-of-villains
+  - shadow
+tags_filter:
+  - group
+  - mid-shot
+  - three-quarter
+  - narrative
+  - female-figure
+  - 3-figures
 reference_image: cards/_images/dragon-ball-super/cross-worlds/bt3-121-dark-plot.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401022659/61F98C04848EDE5A27B05EBFD821577FFD73B87B/
 image_width: 624
 image_height: 871

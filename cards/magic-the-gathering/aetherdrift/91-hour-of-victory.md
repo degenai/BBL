@@ -1,6 +1,6 @@
 ---
 name: Hour of Victory
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 91
 rarity: U
@@ -10,21 +10,40 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["victory", "celebration", "trophy", "fireworks", "race", "ceremony", "spectacle", "champion", "gold", "pageantry", "night"]
-tags_filter: ["group", "wide", "narrative", "forward-facing", "black-magic", "enchantment", "start-your-engines", "zombie-token"]
+tags_hub:
+  - victory
+  - celebration
+  - trophy
+  - fireworks
+  - race
+  - ceremony
+  - spectacle
+  - champion
+  - gold
+  - pageantry
+  - night
+tags_filter:
+  - group
+  - wide
+  - narrative
+  - forward-facing
+  - black-magic
+  - enchantment
+  - start-your-engines
+  - zombie-token
 reference_image: cards/_images/magic-the-gathering/aetherdrift/91-hour-of-victory.png
 average_cost_paid: 0
 market_price: 0.16
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/9/1/9192abc8-05a3-4e72-a634-fc5acbe97b26.png?1738356323
 art_match_confidence: high
 needs_manual_review: false
 artist: Aaron Miller
 art_crop_image: cards/_images/magic-the-gathering/aetherdrift/91-hour-of-victory--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/1/9192abc8-05a3-4e72-a634-fc5acbe97b26.jpg?1738356323
-oracle_text: Start your engines!\nWhen this enchantment enters, create a 2/2 black Zombie creature token.\nMax speed — {1}{B}, Sacrifice this enchantment: Search your library for a card, put it into your hand, then shuffle. Activate only as a sorcery.
+oracle_text: "Start your engines!\\nWhen this enchantment enters, create a 2/2 black Zombie creature token.\\nMax speed — {1}{B}, Sacrifice this enchantment: Search your library for a card, put it into your hand, then shuffle. Activate only as a sorcery."
 image_width: 745
 image_height: 1040
 image_quality: high

@@ -1,7 +1,14 @@
 ---
 type: character
 name: Jace Beleren
-aliases: [jace-beleren, jace, jace-the-mind-sculptor, jace-the-living-guildpact, jace-arcane-strategist, jace-mirror-mage, mind-sculptor]
+aliases:
+  - jace-beleren
+  - jace
+  - jace-the-mind-sculptor
+  - jace-the-living-guildpact
+  - jace-arcane-strategist
+  - jace-mirror-mage
+  - mind-sculptor
 universe: "Magic: The Gathering / Multiverse"
 faction: ~
 species: human planeswalker (telepath, illusionist)
@@ -10,7 +17,7 @@ confidence: canonical
 appears_on:
   - magic-the-gathering/war-of-the-spark/55-jace-s-triumph
   - magic-the-gathering/zendikar-rising/63-jace-mirror-mage
-related_hubs: [rebellion]
+related_hubs: "[rebellion]"
 related_symbols: []
 ip_resolution_for: Jace Beleren
 ---

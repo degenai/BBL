@@ -10,20 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["ultra-beast", "poison", "horn", "void", "alien", "small-creature", "energy", "swirl", "interdimensional", "cute-dangerous"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "poison-type", "creature-card", "no-face"]
+tags_hub:
+  - ultra-beast
+  - poison
+  - horn
+  - void
+  - alien
+  - small-creature
+  - energy
+  - swirl
+  - interdimensional
+  - cute-dangerous
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - poison-type
+  - creature-card
+  - no-face
 reference_image: cards/_images/pokemon/lost-thunder/107-poipole.png
 average_cost_paid: 0
 market_price: 0.31
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm8/107_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Hitoshi Ariga
 flavor_text: This Ultra Beast is well enough liked to be chosen as a first partner in its own world.
-oracle_text: Eye Opener (Colorless): Look at your face-down Prize cards.\nPeck (ColorlessColorless) 20
+oracle_text: "Eye Opener (Colorless): Look at your face-down Prize cards.\\nPeck (ColorlessColorless) 20"
 mood: action
 time_of_day: indeterminate
 setting: void

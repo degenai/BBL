@@ -1,7 +1,7 @@
 ---
 name: Nadir Kraken
-game: Magic: The Gathering
-set: Commander: Streets of New Capenna
+game: "Magic: The Gathering"
+set: "Commander: Streets of New Capenna"
 collector_number: 
 rarity: R
 variance: Normal
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["kraken", "sea-monster", "tentacles", "ship", "ocean", "shipwreck", "nautical", "monster", "sailing", "deep-sea", "predator", "horror"]
-tags_filter: ["solo", "wide-shot", "scene-mode", "no-figure", "creature-kraken", "blue-magic", "no-face", "narrative-mode"]
+tags_hub:
+  - kraken
+  - sea-monster
+  - tentacles
+  - ship
+  - ocean
+  - shipwreck
+  - nautical
+  - monster
+  - sailing
+  - deep-sea
+  - predator
+  - horror
+tags_filter:
+  - solo
+  - wide-shot
+  - scene-mode
+  - no-figure
+  - creature-kraken
+  - blue-magic
+  - no-face
+  - narrative-mode
 reference_image: cards/_images/magic-the-gathering/commander-streets-of-new-capenna/228-nadir-kraken.png
 average_cost_paid: 0
-market_price: 0.39
-market_price_as_of: 2026-05-14
+market_price: 0.4
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

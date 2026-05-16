@@ -10,27 +10,47 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["cloud", "sky", "weather", "transformation", "cute", "floating", "round", "white", "peaceful", "shapeshifter"]
-tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "colorless-magic", "creature", "pokemon-normal-type", "reverse-holofoil", "castform-normal-form"]
+tags_hub:
+  - cloud
+  - sky
+  - weather
+  - transformation
+  - cute
+  - floating
+  - round
+  - white
+  - peaceful
+  - shapeshifter
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - colorless-magic
+  - creature
+  - pokemon-normal-type
+  - reverse-holofoil
+  - castform-normal-form
 reference_image: cards/_images/pokemon/brilliant-stars/116-172-castform--reverse-holofoil.png
 average_cost_paid: 0
 market_price: 0.21
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh9/116_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: kawayoo
 flavor_text: Its form changes depending on the weather. The rougher conditions get, the rougher Castform's disposition!
-oracle_text: Double Draw (Colorless): Draw 2 cards.\nHurricane (Colorless) 30: Move a basic Energy from this Pokémon to 1 of your Benched Pokémon.
+oracle_text: "Double Draw (Colorless): Draw 2 cards.\\nHurricane (Colorless) 30: Move a basic Energy from this Pokémon to 1 of your Benched Pokémon."
 mood: peaceful
 time_of_day: day
 setting: other
 suspected_ip: Castform Normal Form (Pokemon)
 ip_confidence: high
 ip_verified: true
-characters: [castform-forms-cycle]
+characters:
+  - castform-forms-cycle
 ---
 
 # Castform (Brilliant Stars)

@@ -1,6 +1,6 @@
 ---
 name: Giant Growth
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Magic 2014 (M14)
 collector_number: 174
 rarity: C
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["bear", "spirit", "druid", "nature-magic", "growth", "conjuring", "forest", "primal", "summoning", "empowerment", "green-magic-art", "wild"]
-tags_filter: ["wide", "action-mode", "group", "faces-right", "green-magic", "instant"]
+tags_hub:
+  - bear
+  - spirit
+  - druid
+  - nature-magic
+  - growth
+  - conjuring
+  - forest
+  - primal
+  - summoning
+  - empowerment
+  - green-magic-art
+  - wild
+tags_filter:
+  - wide
+  - action-mode
+  - group
+  - faces-right
+  - green-magic
+  - instant
 reference_image: cards/_images/magic-the-gathering/magic-2014-m14/174-giant-growth.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price: 0.19
+market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/e/6/e6b32578-a074-4a46-b742-84b974748903.png?1562836534
 art_match_confidence: high
 needs_manual_review: false

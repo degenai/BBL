@@ -1,6 +1,6 @@
 ---
 name: Finders, Keepers
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Unstable
 collector_number: 55
 rarity: C
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["assassin", "collector", "mechanical", "gothic", "hat", "salvage", "looting", "steampunk", "spy", "treasure", "dark-elegance"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "black-magic", "instant", "portrait-mode", "female-figure"]
+tags_hub:
+  - assassin
+  - collector
+  - mechanical
+  - gothic
+  - hat
+  - salvage
+  - looting
+  - steampunk
+  - spy
+  - treasure
+  - dark-elegance
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - black-magic
+  - instant
+  - portrait-mode
+  - female-figure
 reference_image: cards/_images/magic-the-gathering/unstable/55-finders-keepers.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price: 0.11
+market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/5/f/5f4b7148-e98f-40a4-95e3-ffdd2daa324b.png?1562914921
 art_match_confidence: high
 needs_manual_review: false

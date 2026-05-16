@@ -10,20 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["bell", "wind", "music", "psychic", "floating", "sky", "gentle", "chime", "serenity", "delicate"]
-tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "psychic-type", "creature-psychic", "pokemon"]
+tags_hub:
+  - bell
+  - wind
+  - music
+  - psychic
+  - floating
+  - sky
+  - gentle
+  - chime
+  - serenity
+  - delicate
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - psychic-type
+  - creature-psychic
+  - pokemon
 reference_image: cards/_images/pokemon/vivid-voltage/072-185-chimecho.png
 average_cost_paid: 0
-market_price: 0.19
-market_price_as_of: 2026-05-14
+market_price: 0.18
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh4/72_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Asako Ito
 flavor_text: Emitting ultrasonic cries, it floats on winds to travel great distances.
-oracle_text: Auspicious Tone (Colorless): Search your deck for a Pokémon and a Supporter card, reveal them, and put them into your hand. Then, shuffle your deck.\nHypnoblast (PsychicColorless) 30: Your opponent's Active Pokémon is now Asleep.
+oracle_text: "Auspicious Tone (Colorless): Search your deck for a Pokémon and a Supporter card, reveal them, and put them into your hand. Then, shuffle your deck.\\nHypnoblast (PsychicColorless) 30: Your opponent's Active Pokémon is now Asleep."
 mood: peaceful
 time_of_day: day
 setting: other

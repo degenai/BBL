@@ -1,6 +1,6 @@
 ---
 name: Soul Sear
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 160
 rarity: U
@@ -10,14 +10,38 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["combat", "fire", "pain", "warrior", "beast", "monster", "horns", "hellscape", "armor", "weapon", "slaughter", "ember", "demon", "burning", "duel"]
-tags_filter: ["wide-shot", "action-mode", "duo", "faces-right", "instant", "red-mono", "male-figure", "common", "red-magic"]
+tags_hub:
+  - combat
+  - fire
+  - pain
+  - warrior
+  - beast
+  - monster
+  - horns
+  - hellscape
+  - armor
+  - weapon
+  - slaughter
+  - ember
+  - demon
+  - burning
+  - duel
+tags_filter:
+  - wide-shot
+  - action-mode
+  - duo
+  - faces-right
+  - instant
+  - red-mono
+  - male-figure
+  - common
+  - red-magic
 reference_image: cards/_images/magic-the-gathering/core-set-2021/160-soul-sear.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/6/2/62584e4f-dac1-4d99-ac0a-6a2451603889.png?1594736775
 art_match_confidence: high
 needs_manual_review: false

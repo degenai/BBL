@@ -1,7 +1,12 @@
 ---
 type: artist
 name: Kagemaru Himeno
-aliases: [Kagemaru Himeno, Himeno, Kagemaru-Himeno, kagemaru-himeno, 姫野かげまる]
+aliases:
+  - Kagemaru Himeno
+  - Himeno
+  - Kagemaru-Himeno
+  - kagemaru-himeno
+  - 姫野かげまる
 universe: Pokemon
 career_start: 1996
 career_start_english_release: 1999

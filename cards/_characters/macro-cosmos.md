@@ -1,7 +1,12 @@
 ---
 type: character
 name: Macro Cosmos
-aliases: [macro-cosmos, macro-cosmos-conglomerate, chairman-rose-conglomerate, rose-corporation, galar-energy-corp]
+aliases:
+  - macro-cosmos
+  - macro-cosmos-conglomerate
+  - chairman-rose-conglomerate
+  - rose-corporation
+  - galar-energy-corp
 universe: Pokemon / Galar (Pokemon Sword & Shield — Game Freak / Creatures Inc. / Nintendo, 2019; expanded in Pokemon Masters EX and Sword & Shield TCG block)
 faction: Macro Cosmos (Galar-region corporate conglomerate, headquartered in Rose Tower in Wyndon, founded and chaired by Rose with Oleana as Chief Operating Officer; canonically the operating backbone of Galar's energy economy, the sponsoring conglomerate of the Galar Pokemon League / Champion Cup, and the off-frame villain apparatus whose Eternatus-summoning final-act plot is the Sword & Shield main-story climactic antagonist)
 species: faction-collective (humans — Rose as Chairman and founder, Oleana as Chief Operating Officer and second-in-command; partnered/sponsored figures — Galar Gym Leaders under Macro Cosmos sponsorship, Champion Leon as the conglomerate's marquee endorser; partnered/summoned Pokemon — Eternatus as the conglomerate's final-act weaponized Legendary, the Dynamax phenomenon as the conglomerate's signature engineered-into-the-League product)
@@ -12,9 +17,14 @@ appears_on:
   - pokemon/darkness-ablaze/169-189-rose-tower
   - pokemon/rebel-clash/163-192-oleana
   - pokemon/vivid-voltage/161-185-wyndon-stadium
-related_hubs: [labor]
+related_hubs: "[labor]"
 related_symbols: []
-related_characters: [galar-gym-challenge, team-rocket, team-skull, orzhov-syndicate, aether-foundation]
+related_characters:
+  - galar-gym-challenge
+  - team-rocket
+  - team-skull
+  - orzhov-syndicate
+  - aether-foundation
 ip_resolution_for: macro-cosmos
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Prowler's Helm
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros
 collector_number: 219
 rarity: U
@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["stealth", "assassin", "helm", "dungeon", "darkness", "serpent", "thief", "prowler", "shadow", "rogue"]
-tags_filter: ["solo", "mid-shot", "narrative", "artifact", "colorless", "faces-away"]
+tags_hub:
+  - stealth
+  - assassin
+  - helm
+  - dungeon
+  - darkness
+  - serpent
+  - thief
+  - prowler
+  - shadow
+  - rogue
+tags_filter:
+  - solo
+  - mid-shot
+  - narrative
+  - artifact
+  - colorless
+  - faces-away
 reference_image: cards/_images/magic-the-gathering/theros/219-prowler-s-helm.png
 average_cost_paid: 0
-market_price: 0.61
-market_price_as_of: 2026-05-14
+market_price: 0.6
+market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/c/1/c100a22c-bf34-42b7-9339-4733698c0935.png?1562829057
 art_match_confidence: high
 needs_manual_review: false

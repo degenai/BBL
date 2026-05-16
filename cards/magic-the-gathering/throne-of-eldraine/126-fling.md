@@ -1,6 +1,6 @@
 ---
 name: Fling
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 126
 rarity: C
@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["goblin", "flight", "chaos", "red-cloak", "thrown", "comedy", "scream", "speed", "eldraine", "redcap", "aerial"]
-tags_filter: ["duo", "close-up", "action", "red-magic", "instant", "forward-facing"]
+tags_hub:
+  - goblin
+  - flight
+  - chaos
+  - red-cloak
+  - thrown
+  - comedy
+  - scream
+  - speed
+  - eldraine
+  - redcap
+  - aerial
+tags_filter:
+  - duo
+  - close-up
+  - action
+  - red-magic
+  - instant
+  - forward-facing
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/126-fling.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/c/b/cb28fe03-8269-41de-b766-42c3421aeaef.png?1572490367
 art_match_confidence: high
 needs_manual_review: false

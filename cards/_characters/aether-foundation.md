@@ -1,7 +1,12 @@
 ---
 type: character
 name: Aether Foundation
-aliases: [aether-foundation, aether, the-aether-foundation, lusamine-foundation, aether-paradise-foundation]
+aliases:
+  - aether-foundation
+  - aether
+  - the-aether-foundation
+  - lusamine-foundation
+  - aether-paradise-foundation
 universe: Pokemon / Alola (Pokemon Sun & Moon, Game Freak / Creatures Inc. / Nintendo, 2016; expanded in Pokemon Ultra Sun & Ultra Moon, November 2017; Pokemon anime Sun & Moon series 2016-2019)
 faction: Aether Foundation (Alola-region corporate-philanthropic-cover-as-actual-apex-villain organization headquartered at Aether Paradise — the artificial floating island off Akala Island — and led by President Lusamine; operated throughout most of Pokemon Sun & Moon's storyline as a Pokemon-rehabilitation charity sheltering injured and abandoned Pokemon, with the Act 3 reveal positioning Lusamine as the actual apex villain summoning Nihilego and Ultra Beasts through Ultra Wormholes)
 species: faction-collective (humans — Lusamine as President and founder, Faba as Branch Chief, the Aether Foundation Employees as the uniformed rank-and-file; partnered/affected Pokemon — Nihilego as the Ultra Beast Lusamine fuses with in the climactic confrontation, the Alolan regional-form Grimer / Muk explicitly introduced under Alolan government policy to consume urban waste in parallel to the Foundation's environmental-care framing; partnered/family figures — Lillie and Gladion as Lusamine's children, both of whom defect from the Foundation to support the player against their mother)
@@ -12,9 +17,15 @@ appears_on:
   - pokemon/shining-legends/62-lillie
   - pokemon/cosmic-eclipse/100-236-cosmog
   - pokemon/burning-shadows/112-147-acerola
-related_hubs: [labor, stewardship]
+related_hubs: "[labor, stewardship]"
 related_symbols: []
-related_characters: [macro-cosmos, team-skull, team-rocket, alola-elite-four, alola-trial-captains, alolan-regional-forms]
+related_characters:
+  - macro-cosmos
+  - team-skull
+  - team-rocket
+  - alola-elite-four
+  - alola-trial-captains
+  - alolan-regional-forms
 ip_resolution_for: aether-foundation
 ---
 

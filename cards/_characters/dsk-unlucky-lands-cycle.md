@@ -1,7 +1,13 @@
 ---
 type: character
 name: Unlucky lands cycle (Duskmourn common dual-lands)
-aliases: [dsk-unlucky-lands-cycle, unlucky-lands, life-check-lands, duskmourn-common-dual-lands, 13-life-lands, triskaidekaphobia-lands]
+aliases:
+  - dsk-unlucky-lands-cycle
+  - unlucky-lands
+  - life-check-lands
+  - duskmourn-common-dual-lands
+  - 13-life-lands
+  - triskaidekaphobia-lands
 universe: "Magic: The Gathering / Duskmourn (DSK, 2024-09-27)"
 faction: ~
 species: cycle of common dual-land cards (one per two-color pair across all 10 two-color combinations)

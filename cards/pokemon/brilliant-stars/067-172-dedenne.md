@@ -10,20 +10,38 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["electricity", "rodent", "energy", "cute", "spark", "leap", "orange", "youth", "small-creature", "pikachu-parallel"]
-tags_filter: ["solo", "mid-shot", "action", "three-quarter", "psychic-magic", "creature", "pokemon-lightning-type", "electric-rodent"]
+tags_hub:
+  - electricity
+  - rodent
+  - energy
+  - cute
+  - spark
+  - leap
+  - orange
+  - youth
+  - small-creature
+  - pikachu-parallel
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - three-quarter
+  - psychic-magic
+  - creature
+  - pokemon-lightning-type
+  - electric-rodent
 reference_image: cards/_images/pokemon/brilliant-stars/067-172-dedenne.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price: 0.09
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh9/67_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Nagomi Nijo
 flavor_text: Since Dedenne can't generate as much electricity on its own, it steals electricity from outlets or other electric Pokémon.
-oracle_text: Dede-Flash (Psychic) 20+: If your opponent has exactly 1 Prize card remaining, this attack does 60 more damage, and your opponent's Active Pokémon is now Confused.
+oracle_text: "Dede-Flash (Psychic) 20+: If your opponent has exactly 1 Prize card remaining, this attack does 60 more damage, and your opponent's Active Pokémon is now Confused."
 mood: action
 time_of_day: indeterminate
 setting: other

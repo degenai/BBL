@@ -1,6 +1,6 @@
 ---
 name: Touch of the Void
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Battle for Zendikar
 collector_number: 134
 rarity: C
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["eldrazi", "corruption", "horror", "tentacles", "consumption", "cosmic-horror", "terror", "invasion", "zendikar", "body-horror", "resistance"]
-tags_filter: ["duo", "close-up", "action-mode", "colorless-magic", "instant", "devoid", "2-figures"]
+tags_hub:
+  - eldrazi
+  - corruption
+  - horror
+  - tentacles
+  - consumption
+  - cosmic-horror
+  - terror
+  - invasion
+  - zendikar
+  - body-horror
+  - resistance
+tags_filter:
+  - duo
+  - close-up
+  - action-mode
+  - colorless-magic
+  - instant
+  - devoid
+  - 2-figures
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/134-touch-of-the-void.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/0/0/006ead4a-dc57-4856-8e13-235ba55483e6.png?1562895118
 art_match_confidence: high
 needs_manual_review: false

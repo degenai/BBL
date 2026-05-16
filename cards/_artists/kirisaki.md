@@ -1,7 +1,12 @@
 ---
 type: artist
 name: kirisAki
-aliases: [kirisAki, kirisaki, Kirisaki, kirisaki (artist), kirisaki-pokemon-tcg]
+aliases:
+  - kirisAki
+  - kirisaki
+  - Kirisaki
+  - kirisaki (artist)
+  - kirisaki-pokemon-tcg
 universe: Pokemon
 career_start: 2013
 education: Tokyo Designer Gakuin

@@ -1,6 +1,6 @@
 ---
 name: Tune Up
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 33
 rarity: U
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["desert", "teamwork", "mechanic", "engineer", "vehicle", "labor", "repair", "sand", "collaboration", "robed-figure", "leader"]
-tags_filter: ["group", "wide", "narrative", "three-quarter", "female-figure", "red-magic", "sorcery", "artifact-recursion"]
+tags_hub:
+  - desert
+  - teamwork
+  - mechanic
+  - engineer
+  - vehicle
+  - labor
+  - repair
+  - sand
+  - collaboration
+  - robed-figure
+  - leader
+tags_filter:
+  - group
+  - wide
+  - narrative
+  - three-quarter
+  - female-figure
+  - red-magic
+  - sorcery
+  - artifact-recursion
 reference_image: cards/_images/magic-the-gathering/aetherdrift/33-tune-up.png
 average_cost_paid: 0
-market_price: 0.24
-market_price_as_of: 2026-05-14
+market_price: 0.25
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/f/8/f8bddc5f-8f25-4313-b5bb-e5eae2923878.png?1738356180
 art_match_confidence: high
 needs_manual_review: false

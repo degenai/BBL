@@ -1,31 +1,52 @@
 ---
 name: Topple the Statue
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 35
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
-characters: ["nicol-bolas"]
-tags_hub: ["statue", "monument", "ruins", "collapse", "tyrant-fall", "dragon", "idol", "stormy-sky", "desert-city", "stone", "silhouette", "regime-change"]
-tags_filter: ["no-figures", "wide-shot", "scene-mode", "forward-facing", "monochrome-palette", "white-magic", "instant", "destroy-artifact"]
+characters:
+  - nicol-bolas
+tags_hub:
+  - statue
+  - monument
+  - ruins
+  - collapse
+  - tyrant-fall
+  - dragon
+  - idol
+  - stormy-sky
+  - desert-city
+  - stone
+  - silhouette
+  - regime-change
+tags_filter:
+  - no-figures
+  - wide-shot
+  - scene-mode
+  - forward-facing
+  - monochrome-palette
+  - white-magic
+  - instant
+  - destroy-artifact
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/35-topple-the-statue.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/2/8/2829fa40-92e4-4017-aacd-9d9feae04aa2.png?1557576101
 art_match_confidence: high
 needs_manual_review: false
 mood: grim
 time_of_day: indeterminate
 setting: urban
-suspected_ip: Nicol Bolas (Magic: The Gathering character — likely in-IP for this set, not external)
+suspected_ip: "Nicol Bolas (Magic: The Gathering character — likely in-IP for this set, not external)"
 ip_confidence: high
 ip_verified: true
 artist: Sidharth Chaturvedi

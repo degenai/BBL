@@ -1,6 +1,6 @@
 ---
 name: Endrider Spikespitter
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 125
 rarity: U
@@ -10,15 +10,40 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-characters: ["endriders"]
-tags_hub: ["vehicle", "rocket", "spear", "fire", "warrior", "rider", "weapon", "battle", "smoke", "junkyard", "punk", "racing"]
-tags_filter: ["duo", "mid-shot", "forward-facing", "action-mode", "2-figures", "female-figure", "red-magic", "creature-human", "reach", "start-your-engines", "max-speed", "exile-matters"]
+characters:
+  - endriders
+tags_hub:
+  - vehicle
+  - rocket
+  - spear
+  - fire
+  - warrior
+  - rider
+  - weapon
+  - battle
+  - smoke
+  - junkyard
+  - punk
+  - racing
+tags_filter:
+  - duo
+  - mid-shot
+  - forward-facing
+  - action-mode
+  - 2-figures
+  - female-figure
+  - red-magic
+  - creature-human
+  - reach
+  - start-your-engines
+  - max-speed
+  - exile-matters
 reference_image: cards/_images/magic-the-gathering/aetherdrift/125-endrider-spikespitter.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/4/e/4e58cb18-f216-4248-8f0d-65b0263c5c28.png?1738359369
 art_match_confidence: high
 needs_manual_review: false

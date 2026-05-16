@@ -1,7 +1,12 @@
 ---
 type: symbol
 name: Monarch-at-common (Commander Legends)
-aliases: [monarch-at-common, monarch-at-common-cmr, cmr-monarch-cohort, monarch-common-debut, cmr-monarch-commons]
+aliases:
+  - monarch-at-common
+  - monarch-at-common-cmr
+  - cmr-monarch-cohort
+  - monarch-common-debut
+  - cmr-monarch-commons
 faction: ~
 universe: "Magic: The Gathering / Commander Legends (CMR, released 2020-11-20; designer-coordinated three-card cohort that brought the Monarch mechanic to the common rarity slot for the first time in MTG's printing history)"
 canonical_source: "Wizards of the Coast — January 14, 2021 Banned and Restricted Announcement (Fall from Favor Pauper ban); Wizards of the Coast — Commander Legends design articles (2020-11); MTG Wiki — Monarch (mechanic); MTG Wiki — Commander Legends set page; Scryfall — Commander Legends set listing + all_parts combo_piece field linking each of the three commons to The Monarch token"

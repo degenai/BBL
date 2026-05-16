@@ -1,7 +1,7 @@
 ---
 name: Unnerving Grasp
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 80
 rarity: U
 variance: Normal
@@ -13,14 +13,28 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["collapse", "ruin", "light", "horror", "falling", "debris", "panic", "threshold"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "blue-magic", "instant", "scene-mode"]
+tags_hub:
+  - collapse
+  - ruin
+  - light
+  - horror
+  - falling
+  - debris
+  - panic
+  - threshold
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - blue-magic
+  - instant
+  - scene-mode
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/80-unnerving-grasp.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/5/6/5602756d-76d2-4502-965f-36fc44596123.png?1726286150
 art_match_confidence: high
 needs_manual_review: false
@@ -31,7 +45,8 @@ oracle_text: Return up to one target nonland permanent to its owner's hand. Mani
 mood: horror
 time_of_day: indeterminate
 setting: indoor
-symbols: ["manifest-dread"]
+symbols:
+  - manifest-dread
 ---
 
 # Unnerving Grasp (Duskmourn: House of Horror)

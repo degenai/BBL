@@ -1,6 +1,6 @@
 ---
 name: Azorius Locket
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Ravnica Allegiance
 collector_number: 231
 rarity: C
@@ -10,15 +10,39 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-characters: ["azorius-senate"]
-tags_hub: ["locket", "jewelry", "amulet", "sigil", "law", "bureaucracy", "documents", "heraldry", "silver", "chain", "emblem"]
-tags_filter: ["no-figure", "object-focus", "close-up", "forward-facing", "centered-composition", "artifact", "colorless", "azorius-guild", "blue-magic", "white-magic", "multicolor-blue-white", "card-draw"]
+characters:
+  - azorius-senate
+tags_hub:
+  - locket
+  - jewelry
+  - amulet
+  - sigil
+  - law
+  - bureaucracy
+  - documents
+  - heraldry
+  - silver
+  - chain
+  - emblem
+tags_filter:
+  - no-figure
+  - object-focus
+  - close-up
+  - forward-facing
+  - centered-composition
+  - artifact
+  - colorless
+  - azorius-guild
+  - blue-magic
+  - white-magic
+  - multicolor-blue-white
+  - card-draw
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/231-azorius-locket.png
 average_cost_paid: 0
 market_price: 0.28
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -30,7 +54,7 @@ artist: Craig J Spearing
 art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/231-azorius-locket--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/3/13aed078-9e29-48e7-b145-5252362031a0.jpg?1584832096
 flavor_text: \"Mandatory lockets enable the tracking of all Senate personnel for improved security and efficiency.\"\n—Dovin Baan
-oracle_text: {T}: Add {W} or {U}.\n{W/U}{W/U}{W/U}{W/U}, {T}, Sacrifice this artifact: Draw two cards.
+oracle_text: "{T}: Add {W} or {U}.\\n{W/U}{W/U}{W/U}{W/U}, {T}, Sacrifice this artifact: Draw two cards."
 ---
 
 # Azorius Locket (Ravnica Allegiance)

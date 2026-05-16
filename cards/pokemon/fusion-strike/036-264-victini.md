@@ -10,20 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["fire", "wings", "mythical", "triumph", "energy", "flight", "warmth", "power", "hope", "victory"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "fire-type", "uncommon", "pokemon"]
+tags_hub:
+  - fire
+  - wings
+  - mythical
+  - triumph
+  - energy
+  - flight
+  - warmth
+  - power
+  - hope
+  - victory
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - fire-type
+  - uncommon
+  - pokemon
 reference_image: cards/_images/pokemon/fusion-strike/036-264-victini.png
 average_cost_paid: 0
 market_price: 0.21
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh8/36_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Mitsuhiro Arita
 flavor_text: When it shares the infinite energy it creates, that being's entire body will be overflowing with power.
-oracle_text: Fiery Cheering (Colorless): Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon.\nFlare (Fire) 20
+oracle_text: "Fiery Cheering (Colorless): Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon.\\nFlare (Fire) 20"
 mood: sublime
 time_of_day: indeterminate
 setting: void

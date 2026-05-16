@@ -1,7 +1,7 @@
 ---
 name: Savior of the Small
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 27
 rarity: U
 variance: Normal
@@ -10,15 +10,35 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["rescue", "protector", "survivor", "blue-skin", "courage", "horror", "fallen-ally", "duskmourn", "defender", "struggle", "violence", "small-blade"]
-tags_filter: ["duo", "mid-shot", "three-quarter", "white-magic", "action", "creature", "female-figure"]
-symbols: ["survival"]
+tags_hub:
+  - rescue
+  - protector
+  - survivor
+  - blue-skin
+  - courage
+  - horror
+  - fallen-ally
+  - duskmourn
+  - defender
+  - struggle
+  - violence
+  - small-blade
+tags_filter:
+  - duo
+  - mid-shot
+  - three-quarter
+  - white-magic
+  - action
+  - creature
+  - female-figure
+symbols:
+  - survival
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/27-savior-of-the-small.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/e/2/e2ed31ea-c278-4e8c-afa7-6d09af399345.png?1726285957
 art_match_confidence: high
 needs_manual_review: false

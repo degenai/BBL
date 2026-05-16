@@ -1,6 +1,6 @@
 ---
 name: Karametra's Blessing
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 26
 rarity: C
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["stag", "deer", "antlers", "wildlife", "forest", "nature", "blessing", "divine", "mythology", "horns", "beast", "sacred-animal"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-figure", "white-magic", "instant", "creature-none"]
+tags_hub:
+  - stag
+  - deer
+  - antlers
+  - wildlife
+  - forest
+  - nature
+  - blessing
+  - divine
+  - mythology
+  - horns
+  - beast
+  - sacred-animal
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - no-figure
+  - white-magic
+  - instant
+  - creature-none
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/26-karametra-s-blessing.png
 average_cost_paid: 0
-market_price: 0.28
-market_price_as_of: 2026-05-14
+market_price: 0.26
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,7 +46,8 @@ mood: sublime
 time_of_day: day
 setting: other
 artist: Wisnu Tan
-characters: [theros-pantheon]
+characters:
+  - theros-pantheon
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/26-karametra-s-blessing--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/8/88c8e4dc-5378-48d6-85b2-f5ea9ec7cf36.jpg?1581479156
 oracle_text: Target creature gets +2/+2 until end of turn. If it's an enchanted creature or enchantment creature, it also gains hexproof and indestructible until end of turn. (It can't be the target of spells or abilities your opponents control. Damage and effects that say \"destroy\" don't destroy it.)

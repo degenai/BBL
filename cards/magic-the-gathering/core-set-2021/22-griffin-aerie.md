@@ -1,6 +1,6 @@
 ---
 name: Griffin Aerie
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 22
 rarity: U
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["griffin", "wings", "flight", "sky", "tower", "cliff", "mountain", "nest", "aerie", "stone-architecture", "beasts", "freedom"]
-tags_filter: ["no-figure", "creature-absent", "wide-shot", "scene-mode", "group", "flying", "white-magic", "enchantment", "token-generator", "lifegain-trigger"]
+tags_hub:
+  - griffin
+  - wings
+  - flight
+  - sky
+  - tower
+  - cliff
+  - mountain
+  - nest
+  - aerie
+  - stone-architecture
+  - beasts
+  - freedom
+tags_filter:
+  - no-figure
+  - creature-absent
+  - wide-shot
+  - scene-mode
+  - group
+  - flying
+  - white-magic
+  - enchantment
+  - token-generator
+  - lifegain-trigger
 reference_image: cards/_images/magic-the-gathering/core-set-2021/22-griffin-aerie.png
 average_cost_paid: 0
-market_price: 0.31
-market_price_as_of: 2026-05-14
+market_price: 0.32
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'

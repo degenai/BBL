@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["fire", "dragon", "lizard", "reptile", "claws", "aggression", "evolution", "combat", "flame", "orange"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "fire-type", "stage-1", "creature", "geometric-background"]
+tags_hub:
+  - fire
+  - dragon
+  - lizard
+  - reptile
+  - claws
+  - aggression
+  - evolution
+  - combat
+  - flame
+  - orange
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - fire-type
+  - stage-1
+  - creature
+  - geometric-background
 reference_image: cards/_images/pokemon/burning-shadows/19-147-charmeleon.png
 average_cost_paid: 0
 market_price: 0.31
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm3/19_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +48,8 @@ setting: other
 suspected_ip: Charmeleon (Pokémon)
 ip_confidence: high
 ip_verified: true
-characters: [charizard-line]
+characters:
+  - charizard-line
 ---
 
 # Charmeleon (Burning Shadows)

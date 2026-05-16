@@ -1,6 +1,6 @@
 ---
 name: Neighborhood Guardian
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 26
 rarity: U
@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["unicorn", "celebration", "community", "joy", "flowers", "music", "garden", "festival", "parade", "innocence", "neighborhood", "hope"]
-tags_filter: ["group", "wide", "scene-mode", "creature-unicorn", "white-magic"]
+tags_hub:
+  - unicorn
+  - celebration
+  - community
+  - joy
+  - flowers
+  - music
+  - garden
+  - festival
+  - parade
+  - innocence
+  - neighborhood
+  - hope
+tags_filter:
+  - group
+  - wide
+  - scene-mode
+  - creature-unicorn
+  - white-magic
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/26-neighborhood-guardian.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/0/4/0438d482-b74c-4d5e-a2bc-7063c1ae73fa.png?1706241518
 art_match_confidence: high
 needs_manual_review: false

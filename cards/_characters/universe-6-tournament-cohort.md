@@ -1,7 +1,16 @@
 ---
 type: character
 name: "Universe 6 Tournament cohort (Champa's universe — Tournament of Destroyers + Universe Survival Saga competitors)"
-aliases: [universe-6-tournament-cohort, universe-6, u6, u6-tournament, u6-tournament-of-power, champa-universe, champa-warriors, tournament-of-destroyers, universe-survival-saga-u6]
+aliases:
+  - universe-6-tournament-cohort
+  - universe-6
+  - u6
+  - u6-tournament
+  - u6-tournament-of-power
+  - champa-universe
+  - champa-warriors
+  - tournament-of-destroyers
+  - universe-survival-saga-u6
 universe: "Dragon Ball Super (Toei Animation anime 2015-2018; Toyotarou manga adaptation, Shueisha 2015-ongoing); Universe 6 is canonically introduced in the Champa Arc / God of Destruction Champa Saga (DBS chapters 7-13 manga / episodes 28-41 anime, 2015-2016) as Universe 7's mirror-twin universe presided over by Beerus's elder twin brother Champa; the U6 roster is substantively expanded in the Universe Survival Saga / Tournament of Power arc (DBS chapters 28-43 manga / episodes 78-131 anime, 2017-2018) where the 12-universe multiverse's mortal-level-7-or-lower universes compete in a Zeno-ordered tournament-of-erasure"
 faction: "Universe 6 mortal-roster — the canonical warrior-team representing Champa's universe in inter-universe combat; recurring named members across the two principal tournament arcs are Champa (destroyer god, Beerus's elder twin), Vados (angel attendant, Whis's elder sister, Champa's combat instructor), Hit (legendary assassin, time-skip user), Cabba (Saiyan, low-class warrior, Vegeta's pupil), Caulifla (Saiyan, gang leader, U6 Super Saiyan), Kale (Saiyan, Caulifla's shy disciple, U6 Legendary Super Saiyan), Frost (Frieza-race emperor, U6's Frieza-counterpart), Botamo (bear-warrior, U6 absorption-fighter), Magetta (Metalman robot, U6 magma-fighter), Saonel and Pirina (Namekian fusion-warriors); the team is canonically organized by Champa-as-destroyer-god with Vados-as-attendant-trainer, fielding mortal-warriors against parallel-universe rosters under destroyer-god-wager stakes"
 species: "multi-species faction-collective (Champa: Hakai god, sibling-species to Beerus; Vados: angel, Whis's elder sister, attendant-class; Hit: alien-warrior of unspecified species, native to Universe 6, time-skip technique user; Cabba/Caulifla/Kale: Saiyans, Universe-6-native parallel-race to Universe 7's Saiyans with the same canonical biology and Super Saiyan transformation line but a divergent cultural-political history — U6 Saiyans are a heroic protector-race rather than U7's Frieza-Force-aligned planet-clearing-warrior race; Frost: Frieza-race / mutant-Frieza-clan, Universe-6 mirror to Universe-7 Frieza; Botamo: bear-like alien-warrior of unspecified species; Magetta: Metalman, canonically a silicon-based magma-deploying robot-warrior race; Saonel and Pirina: Namekians, Universe-6-native parallel-race to Universe-7 Namekians with the same canonical biology but a divergent canonical history — U6 Namekians retain the canonical Namekian-fusion ability that the Z-arc had Piccolo / Nail / Kami uniquely deploy)"
@@ -18,10 +27,17 @@ appears_on:
   - dragon-ball-super/galactic-battle/bt1-020-iron-wall-magetta
   - dragon-ball-super/galactic-battle/bt1-027-cabba-s-awakening-2017
   - dragon-ball-super/colossal-warfare/bt4-057-namekian-duo-saonel
-related_hubs: [labor, stewardship]
+related_hubs: "[labor, stewardship]"
 related_symbols: []
-related_characters: [saiyan, namekian, destroyer-god-attendant-dyad]
-ip_resolution_for: ["Universe 6", "U6 Tournament of Power", "Champa's universe", "Tournament of Destroyers"]
+related_characters:
+  - saiyan
+  - namekian
+  - destroyer-god-attendant-dyad
+ip_resolution_for:
+  - Universe 6
+  - U6 Tournament of Power
+  - Champa's universe
+  - Tournament of Destroyers
 ---
 
 # Universe 6 Tournament cohort (Champa's universe — Tournament of Destroyers + Universe Survival Saga competitors)

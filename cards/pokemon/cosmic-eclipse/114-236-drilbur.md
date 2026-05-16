@@ -10,20 +10,39 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["mole", "digging", "earth", "underground", "claws", "small", "fighting", "labor", "nature", "creature", "grey", "soil"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "creature-card", "fighting-type", "pokemon-ip"]
+tags_hub:
+  - mole
+  - digging
+  - earth
+  - underground
+  - claws
+  - small
+  - fighting
+  - labor
+  - nature
+  - creature
+  - grey
+  - soil
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - creature-card
+  - fighting-type
+  - pokemon-ip
 reference_image: cards/_images/pokemon/cosmic-eclipse/114-236-drilbur.png
 average_cost_paid: 0
 market_price: 0.16
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm12/114_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Suwama Chiaki
 flavor_text: It makes its way swiftly through the soil by putting both claws together and rotating at high speed.
-oracle_text: Rototiller (Colorless): Shuffle a card from your discard pile into your deck.\nMud-Slap (Fighting) 10
+oracle_text: "Rototiller (Colorless): Shuffle a card from your discard pile into your deck.\\nMud-Slap (Fighting) 10"
 mood: action
 time_of_day: day
 setting: forest

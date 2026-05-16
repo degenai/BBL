@@ -1,23 +1,46 @@
 ---
 name: Charmed Stray
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 8
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["cat", "stray-animal", "alley", "city-street", "cobblestone", "robed-figure", "hooded-figure", "cozy", "urban-fantasy", "street-life", "watcher", "basket"]
-tags_filter: ["duo", "2-figures", "mid-shot", "forward-facing", "portrait-mode", "no-face-background-figure", "animal-foreground", "white-magic", "creature-cat", "lifegain", "common"]
+tags_hub:
+  - cat
+  - stray-animal
+  - alley
+  - city-street
+  - cobblestone
+  - robed-figure
+  - hooded-figure
+  - cozy
+  - urban-fantasy
+  - street-life
+  - watcher
+  - basket
+tags_filter:
+  - duo
+  - 2-figures
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - no-face-background-figure
+  - animal-foreground
+  - white-magic
+  - creature-cat
+  - lifegain
+  - common
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/8-charmed-stray.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

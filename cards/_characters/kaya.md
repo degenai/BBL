@@ -1,7 +1,15 @@
 ---
 type: character
 name: Kaya
-aliases: [kaya, kaya-cassir, kaya-ghost-assassin, kaya-orzhov-usurper, kaya-bane-of-the-dead, kaya-the-inexorable, kaya-spirits-justice, kaya-intangible-slayer]
+aliases:
+  - kaya
+  - kaya-cassir
+  - kaya-ghost-assassin
+  - kaya-orzhov-usurper
+  - kaya-bane-of-the-dead
+  - kaya-the-inexorable
+  - kaya-spirits-justice
+  - kaya-intangible-slayer
 universe: "Magic: The Gathering (Wizards of the Coast). Introduced in Conspiracy: Take the Crown (2016) on the Kaya, Ghost Assassin card; major-arc appearances across Rivals of Ixalan (storyline backstory, 2018), Ravnica Allegiance (2019, planeswalker card, takes Orzhov guildmastership), War of the Spark (2019, Gatewatch co-leader against Nicol Bolas), Kaldheim (2021, Kaya the Inexorable), Streets of New Capenna (2022, Kaya, Intangible Slayer), and Murders at Karlov Manor (2024, Kaya, Spirits' Justice — co-investigator with Alquist Proft)."
 faction: orzhov-syndicate
 species: "human planeswalker. Born on Tolvada to a fallen aristocratic family; her spark ignited in her teens when she encountered the ghost of her dead brother. Specializes in ghost-hunting via phasing — her signature ability is to render herself or her victims intangible, which lets her physically harm or destroy non-corporeal undead. One of the few planeswalkers who retained her spark through the Phyrexian invasion's post-March-of-the-Machine Desparkening (canonically attested across the MKM-era storyline)."

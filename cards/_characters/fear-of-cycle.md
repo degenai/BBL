@@ -1,7 +1,12 @@
 ---
 type: character
 name: Fear-of cycle (Duskmourn phobia-Nightmares)
-aliases: [fear-of-cycle, fear-of, duskmourn-phobia-cycle, duskmourn-nightmares, phobia-cycle]
+aliases:
+  - fear-of-cycle
+  - fear-of
+  - duskmourn-phobia-cycle
+  - duskmourn-nightmares
+  - phobia-cycle
 universe: "Magic: The Gathering / Duskmourn (DSK, 2024-09-27)"
 faction: ~
 species: cycle of Enchantment Creature — Nightmare cards
@@ -16,7 +21,7 @@ appears_on:
   - magic-the-gathering/duskmourn-house-of-horror/177-fear-of-exposure
   - magic-the-gathering/duskmourn-house-of-horror/214-fear-of-infinity
 related_hubs: []
-related_symbols: [manifest-dread, eerie]
+related_symbols: "[manifest-dread, eerie]"
 ---
 
 # Fear-of cycle (Duskmourn phobia-Nightmares)

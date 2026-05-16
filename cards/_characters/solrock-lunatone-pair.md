@@ -1,7 +1,14 @@
 ---
 type: character
 name: Solrock / Lunatone pair (Hoenn celestial duality, version-exclusive Meteorite Pokemon dyad)
-aliases: [solrock-lunatone-pair, solrock-lunatone, lunatone-solrock-pair, hoenn-celestial-pair, meteorite-pokemon-pair, sun-moon-pokemon-pair, meteor-falls-pair]
+aliases:
+  - solrock-lunatone-pair
+  - solrock-lunatone
+  - lunatone-solrock-pair
+  - hoenn-celestial-pair
+  - meteorite-pokemon-pair
+  - sun-moon-pokemon-pair
+  - meteor-falls-pair
 universe: Pokemon / Hoenn (Generation III, Ruby & Sapphire, 2002)
 faction: ~
 species: designer-coordinated paired Pokemon dyad (two species, sun/moon duality) — Rock/Psychic type, both classified as "Meteorite Pokemon," shared Meteor Falls origin, version-exclusive in Ruby/Sapphire, with TCG-printed Abilities that mechanically interlock by naming each other

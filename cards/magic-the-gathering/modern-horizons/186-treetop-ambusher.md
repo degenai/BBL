@@ -1,6 +1,6 @@
 ---
 name: Treetop Ambusher
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons
 collector_number: 186
 rarity: C
@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["forest", "ambush", "leap", "warrior", "treetop", "hunter", "speed", "canopy", "agility", "danger"]
-tags_filter: ["solo", "mid-shot", "action-mode", "forward-facing", "green-magic", "creature-elf-warrior"]
+tags_hub:
+  - forest
+  - ambush
+  - leap
+  - warrior
+  - treetop
+  - hunter
+  - speed
+  - canopy
+  - agility
+  - danger
+tags_filter:
+  - solo
+  - mid-shot
+  - action-mode
+  - forward-facing
+  - green-magic
+  - creature-elf-warrior
 reference_image: cards/_images/magic-the-gathering/modern-horizons/186-treetop-ambusher.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/e/1/e1722a55-850c-4924-be98-45539f4676a2.png?1562202233
 art_match_confidence: high
 needs_manual_review: false

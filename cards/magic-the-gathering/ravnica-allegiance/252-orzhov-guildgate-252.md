@@ -1,6 +1,6 @@
 ---
 name: Orzhov Guildgate (252)
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Ravnica Allegiance
 collector_number: 252
 rarity: C
@@ -10,16 +10,39 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-symbols: ["orzhov-signet"]
-characters: ["orzhov-syndicate", "kaya"]
-tags_hub: ["cathedral", "gothic", "spire", "city", "wealth", "gold", "twilight", "architecture", "monument", "gate", "rooftops", "skyline"]
-tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "guildgate", "white-magic-black-magic", "establishing-shot"]
+symbols:
+  - orzhov-signet
+characters:
+  - orzhov-syndicate
+  - kaya
+tags_hub:
+  - cathedral
+  - gothic
+  - spire
+  - city
+  - wealth
+  - gold
+  - twilight
+  - architecture
+  - monument
+  - gate
+  - rooftops
+  - skyline
+tags_filter:
+  - no-figures
+  - wide-shot
+  - scene-mode
+  - no-face
+  - land
+  - guildgate
+  - white-magic-black-magic
+  - establishing-shot
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/252-orzhov-guildgate-252.png
 average_cost_paid: 0
-market_price: 0.14
-market_price_as_of: 2026-05-14
+market_price: 0.12
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -31,7 +54,7 @@ artist: Cliff Childs
 art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/252-orzhov-guildgate-252--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/b/cba5fb67-e161-4e89-be3e-c8021122ff19.jpg?1584832286
 flavor_text: \"So much wealth. So much splendor. So much temptation to believe the gilded lie.\"\n—Kaya
-oracle_text: This land enters tapped.\n{T}: Add {W} or {B}.
+oracle_text: "This land enters tapped.\\n{T}: Add {W} or {B}."
 ---
 
 # Orzhov Guildgate (252) (Ravnica Allegiance)

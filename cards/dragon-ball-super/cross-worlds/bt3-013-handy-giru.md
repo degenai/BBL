@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["robot", "machine", "android", "single-eye", "companion", "mechanical", "cute-robot", "sci-fi", "small-creature", "technology"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "no-face"]
+tags_hub:
+  - robot
+  - machine
+  - android
+  - single-eye
+  - companion
+  - mechanical
+  - cute-robot
+  - sci-fi
+  - small-creature
+  - technology
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - no-face
 reference_image: cards/_images/dragon-ball-super/cross-worlds/bt3-013-handy-giru.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401005032/3B429C06FD7848B0347C5D8E2F8C8EF8F6038A29/
 image_width: 624
 image_height: 871
@@ -30,7 +45,8 @@ setting: void
 suspected_ip: Giru (Dragon Ball GT)
 ip_confidence: high
 ip_verified: true
-characters: ["machine-mutants-m2"]
+characters:
+  - machine-mutants-m2
 ---
 
 # Handy Giru (Cross Worlds)

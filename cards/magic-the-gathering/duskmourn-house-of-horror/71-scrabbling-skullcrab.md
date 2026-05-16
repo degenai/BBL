@@ -1,7 +1,7 @@
 ---
 name: Scrabbling Skullcrab
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 71
 rarity: U
 variance: Normal
@@ -13,15 +13,32 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["skull", "crab", "doorway", "horror", "undead", "monster", "threshold", "carapace", "biological-horror", "nightmare"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "blue-magic", "creature-crab", "scene-mode"]
-symbols: ["eerie"]
+tags_hub:
+  - skull
+  - crab
+  - doorway
+  - horror
+  - undead
+  - monster
+  - threshold
+  - carapace
+  - biological-horror
+  - nightmare
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - blue-magic
+  - creature-crab
+  - scene-mode
+symbols:
+  - eerie
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/71-scrabbling-skullcrab.png
 average_cost_paid: 0
-market_price: 0.24
-market_price_as_of: 2026-05-14
+market_price: 0.26
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/c/1/c1017b8e-e7fa-41de-8eb2-2e4a59db5117.png?1726286116
 art_match_confidence: high
 needs_manual_review: false

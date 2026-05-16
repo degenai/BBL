@@ -1,6 +1,6 @@
 ---
 name: Betrayal at the Vault
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Outlaws of Thunder Junction
 collector_number: 155
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["betrayal", "vault", "heist", "outlaw", "fight", "treachery", "treasure", "western", "gang", "greed", "desert", "confrontation"]
-tags_filter: ["group", "wide", "scene-mode", "forward-facing", "sorcery", "red-magic"]
+tags_hub:
+  - betrayal
+  - vault
+  - heist
+  - outlaw
+  - fight
+  - treachery
+  - treasure
+  - western
+  - gang
+  - greed
+  - desert
+  - confrontation
+tags_filter:
+  - group
+  - wide
+  - scene-mode
+  - forward-facing
+  - sorcery
+  - red-magic
 reference_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/155-betrayal-at-the-vault.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/c/4/c494820f-607d-4ed2-8a86-a916ae390272.png?1712355886
 art_match_confidence: high
 needs_manual_review: false

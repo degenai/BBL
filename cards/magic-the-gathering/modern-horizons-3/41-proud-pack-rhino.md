@@ -1,6 +1,6 @@
 ---
 name: Proud Pack-Rhino
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 41
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["rhino", "beast", "pack-animal", "trade", "labor", "burden", "journey", "plains", "arid", "merchant", "abundance"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "no-face", "green-magic", "creature-rhino", "proliferate"]
+tags_hub:
+  - rhino
+  - beast
+  - pack-animal
+  - trade
+  - labor
+  - burden
+  - journey
+  - plains
+  - arid
+  - merchant
+  - abundance
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - no-face
+  - green-magic
+  - creature-rhino
+  - proliferate
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/41-proud-pack-rhino.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/0/8/0821e622-88b8-4b82-a696-954da1dde915.png?1717011530
 art_match_confidence: high
 needs_manual_review: false

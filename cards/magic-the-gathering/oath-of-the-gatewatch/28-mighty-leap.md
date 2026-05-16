@@ -1,6 +1,6 @@
 ---
 name: Mighty Leap
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Oath of the Gatewatch
 collector_number: 28
 rarity: C
@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["leap", "flight", "faith", "rebellion", "courage", "sky", "storm", "magic", "ascent", "freedom"]
-tags_filter: ["solo", "wide", "action", "faces-away", "white-magic", "instant", "low-angle"]
+tags_hub:
+  - leap
+  - flight
+  - faith
+  - rebellion
+  - courage
+  - sky
+  - storm
+  - magic
+  - ascent
+  - freedom
+tags_filter:
+  - solo
+  - wide
+  - action
+  - faces-away
+  - white-magic
+  - instant
+  - low-angle
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/28-mighty-leap.png
 average_cost_paid: 0
-market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price: 0.06
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/4/e/4e25089b-5a5f-4cb5-9261-be6cb6b45b22.png?1562910799
 art_match_confidence: high
 needs_manual_review: false

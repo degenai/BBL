@@ -1,6 +1,6 @@
 ---
 name: Kragma Warcaller
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros
 collector_number: 195
 rarity: U
@@ -10,18 +10,38 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["minotaur", "axe", "charge", "warrior", "horde", "beast", "horns", "war", "rage", "bull", "monster"]
-tags_filter: ["duo", "mid-shot", "action", "multicolor-black-red", "creature-minotaur", "forward-facing"]
+tags_hub:
+  - minotaur
+  - axe
+  - charge
+  - warrior
+  - horde
+  - beast
+  - horns
+  - war
+  - rage
+  - bull
+  - monster
+tags_filter:
+  - duo
+  - mid-shot
+  - action
+  - multicolor-black-red
+  - creature-minotaur
+  - forward-facing
 reference_image: cards/_images/magic-the-gathering/theros/195-kragma-warcaller.png
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price: 0.18
+market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/7/8/78791fc6-054f-45eb-b8b0-28f2512d72b6.png?1562820128
 art_match_confidence: high
 needs_manual_review: false
 artist: Gabor Szikszai
+characters:
+  - theros-pantheon
+  - mogis
 art_crop_image: cards/_images/magic-the-gathering/theros/195-kragma-warcaller--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/8/78791fc6-054f-45eb-b8b0-28f2512d72b6.jpg?1562820128
 flavor_text: A warcaller merely brings the herd together. After that, the meat-hunger is all the encouragement they need.

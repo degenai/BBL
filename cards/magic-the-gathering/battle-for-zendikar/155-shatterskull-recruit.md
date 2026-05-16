@@ -1,6 +1,6 @@
 ---
 name: Shatterskull Recruit
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Battle for Zendikar
 collector_number: 155
 rarity: C
@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["giant", "subjugation", "chains", "blade", "survival", "darkness", "power-imbalance", "rubble", "Eldrazi", "domination"]
-tags_filter: ["group", "wide", "narrative", "red-magic", "creature-human-warrior", "menace"]
+tags_hub:
+  - giant
+  - subjugation
+  - chains
+  - blade
+  - survival
+  - darkness
+  - power-imbalance
+  - rubble
+  - Eldrazi
+  - domination
+tags_filter:
+  - group
+  - wide
+  - narrative
+  - red-magic
+  - creature-human-warrior
+  - menace
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/155-shatterskull-recruit.png
 average_cost_paid: 0
-market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price: 0.07
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/c/8/c8add5f2-4ccf-4505-86f6-cc36aff1c3fe.png?1562942414
 art_match_confidence: high
 needs_manual_review: false

@@ -1,6 +1,6 @@
 ---
 name: The Chase Is On
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 116
 rarity: C
@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["rooftop", "chase", "night", "detective", "assassin", "magic-energy", "gothic", "noir", "ravnica", "confrontation"]
-tags_filter: ["duo", "wide", "action-mode", "white-magic", "instant"]
+tags_hub:
+  - rooftop
+  - chase
+  - night
+  - detective
+  - assassin
+  - magic-energy
+  - gothic
+  - noir
+  - ravnica
+  - confrontation
+tags_filter:
+  - duo
+  - wide
+  - action-mode
+  - white-magic
+  - instant
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/116-the-chase-is-on.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/1/d/1d54d596-f7aa-4b05-ab13-19b246698c04.png?1706241834
 art_match_confidence: high
 needs_manual_review: false
@@ -25,7 +40,7 @@ artist: Diego Gisbert
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/116-the-chase-is-on--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/d/1d54d596-f7aa-4b05-ab13-19b246698c04.jpg?1706241834
 flavor_text: Etrata evaded the Boros arresters and Azorius lawmages, but not even a master assassin could give Kaya the slip.
-oracle_text: Target creature gets +3/+0 and gains first strike until end of turn. Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")
+oracle_text: "Target creature gets +3/+0 and gains first strike until end of turn. Investigate. (Create a Clue token. It's an artifact with \\\"{2}, Sacrifice this token: Draw a card.\\\")"
 image_width: 745
 image_height: 1040
 image_quality: high
@@ -35,7 +50,8 @@ setting: urban
 suspected_ip: Kaya
 ip_confidence: high
 ip_verified: true
-characters: [kaya]
+characters:
+  - kaya
 ---
 
 # The Chase Is On (Murders at Karlov Manor)

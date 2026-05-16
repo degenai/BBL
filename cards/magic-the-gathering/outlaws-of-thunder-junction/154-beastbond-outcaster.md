@@ -1,6 +1,6 @@
 ---
 name: Beastbond Outcaster
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Outlaws of Thunder Junction
 collector_number: 154
 rarity: U
@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["druid", "magic-staff", "frontier", "wild-magic", "beast-bond", "nature", "fur", "outlaw", "hat", "green-magic-visual", "wilderness", "outcaste"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "creature-human", "green-magic"]
+tags_hub:
+  - druid
+  - magic-staff
+  - frontier
+  - wild-magic
+  - beast-bond
+  - nature
+  - fur
+  - outlaw
+  - hat
+  - green-magic-visual
+  - wilderness
+  - outcaste
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - creature-human
+  - green-magic
 reference_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/154-beastbond-outcaster.png
 average_cost_paid: 0
 market_price: 0.16
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/0/7/073b9ae8-8ac3-4824-aec4-84a80531aa23.png?1712355883
 art_match_confidence: high
 needs_manual_review: false

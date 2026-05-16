@@ -1,6 +1,6 @@
 ---
 name: Frantic Inventory
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 50
 rarity: C
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["wizard", "scholar", "panic", "books", "scrolls", "clutter", "fugitive", "itinerant", "research", "comic-relief", "exile", "mage", "library"]
-tags_filter: ["close-up", "narrative-mode", "solo", "forward-facing", "instant", "blue-mono", "male-figure", "common", "blue-magic"]
+tags_hub:
+  - wizard
+  - scholar
+  - panic
+  - books
+  - scrolls
+  - clutter
+  - fugitive
+  - itinerant
+  - research
+  - comic-relief
+  - exile
+  - mage
+  - library
+tags_filter:
+  - close-up
+  - narrative-mode
+  - solo
+  - forward-facing
+  - instant
+  - blue-mono
+  - male-figure
+  - common
+  - blue-magic
 reference_image: cards/_images/magic-the-gathering/core-set-2021/50-frantic-inventory.png
 average_cost_paid: 0
 market_price: 0.24
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/8/f/8f14abb0-0e9f-448e-85d7-6cb71f756c56.png?1594735485
 art_match_confidence: high
 needs_manual_review: false

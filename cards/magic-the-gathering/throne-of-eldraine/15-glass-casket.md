@@ -1,6 +1,6 @@
 ---
 name: Glass Casket
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 15
 rarity: U
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["coffin", "tomb", "fairy-tale", "snow-white", "forest", "vines", "brambles", "archway", "ruins", "shrine", "glass", "death", "gothic", "moonlight"]
-tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "artifact", "white-magic", "exile"]
+tags_hub:
+  - coffin
+  - tomb
+  - fairy-tale
+  - snow-white
+  - forest
+  - vines
+  - brambles
+  - archway
+  - ruins
+  - shrine
+  - glass
+  - death
+  - gothic
+  - moonlight
+tags_filter:
+  - no-figures
+  - wide-shot
+  - scene-mode
+  - no-face
+  - artifact
+  - white-magic
+  - exile
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/15-glass-casket.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

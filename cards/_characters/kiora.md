@@ -1,7 +1,13 @@
 ---
 type: character
 name: Kiora
-aliases: [kiora, kiora-the-crashing-wave, kiora-master-of-the-depths, kiora-behemoth-beckoner, kiora-the-tide-s-fury, kiora-sovereign-of-the-deep]
+aliases:
+  - kiora
+  - kiora-the-crashing-wave
+  - kiora-master-of-the-depths
+  - kiora-behemoth-beckoner
+  - kiora-the-tide-s-fury
+  - kiora-sovereign-of-the-deep
 universe: "Magic: The Gathering / Zendikar (Tazeem)"
 faction: ~
 species: merfolk planeswalker (sea-sorceress, leviathan-summoner)
@@ -10,9 +16,10 @@ confidence: canonical
 appears_on:
   - magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner
   - magic-the-gathering/war-of-the-spark/58-kiora-s-dambreaker
-related_hubs: [rebellion]
+related_hubs: "[rebellion]"
 related_symbols: []
-related_characters: [nicol-bolas]
+related_characters:
+  - nicol-bolas
 ip_resolution_for: Kiora
 ---
 

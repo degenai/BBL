@@ -1,6 +1,6 @@
 ---
 name: Turn Against
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Battle for Zendikar
 collector_number: 135
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["mind-control", "rope", "conflict", "rebellion", "resistance", "zendikar", "floating-rocks", "dusk", "warrior", "betrayal"]
-tags_filter: ["duo", "wide", "action-mode", "colorless-magic", "instant", "devoid", "2-figures", "faces-left"]
+tags_hub:
+  - mind-control
+  - rope
+  - conflict
+  - rebellion
+  - resistance
+  - zendikar
+  - floating-rocks
+  - dusk
+  - warrior
+  - betrayal
+tags_filter:
+  - duo
+  - wide
+  - action-mode
+  - colorless-magic
+  - instant
+  - devoid
+  - 2-figures
+  - faces-left
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/135-turn-against.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/4/d/4de8ef35-f141-4bc6-8ea1-f87aa6f5ecd7.png?1562913242
 art_match_confidence: high
 needs_manual_review: false

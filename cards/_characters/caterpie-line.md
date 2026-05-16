@@ -1,7 +1,13 @@
 ---
 type: character
 name: "Caterpie evolutionary line (Caterpie / Metapod / Butterfree)"
-aliases: [caterpie-line, caterpie-metapod-butterfree, kanto-bug-starter-line, gen-i-bug-line, butterfree-line, caterpie-evolutionary-line]
+aliases:
+  - caterpie-line
+  - caterpie-metapod-butterfree
+  - kanto-bug-starter-line
+  - gen-i-bug-line
+  - butterfree-line
+  - caterpie-evolutionary-line
 universe: "Pokemon / Kanto (Generation I, Pokemon Red and Green / Red and Blue, Game Freak / Creatures Inc. / Nintendo, 1996; expanded across every subsequent generation as a recurring Kanto-introduced Bug-type evolutionary line and as the franchise's canonical fast-metamorphosis Bug line, with Gigantamax Butterfree introduced in Pokemon Sword and Shield, 2019)"
 faction: ~
 species: "three-stage Bug-type evolutionary line — Caterpie (base, National Pokedex no. 10, Bug) -> Metapod (Stage 1, no. 11, Bug) -> Butterfree (Stage 2, no. 12, Bug/Flying, with a Gigantamax form in Generation VIII gaining no type change); the canonical Kanto-region fast-metamorphosis Bug line, introduced in Pokemon Red and Green / Red and Blue (Game Freak / Creatures Inc. / Nintendo, 1996), and one of the franchise's earliest and fastest evolutionary arcs (Caterpie evolves at level 7, Metapod at level 10) — the shortest three-stage evolution-level span in Generation I and one of the shortest in the entire franchise"
@@ -13,7 +19,10 @@ appears_on:
   - pokemon/evolutions/3-108-caterpie
 related_hubs: []
 related_symbols: []
-related_characters: [charizard-line, mareep-line, staraptor-line]
+related_characters:
+  - charizard-line
+  - mareep-line
+  - staraptor-line
 ip_resolution_for: caterpie-line
 ---
 

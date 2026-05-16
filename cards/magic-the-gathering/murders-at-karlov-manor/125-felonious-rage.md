@@ -1,6 +1,6 @@
 ---
 name: Felonious Rage
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 125
 rarity: C
@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["cat", "fury", "fire", "rage", "small-creature", "eruption", "feral", "instinct", "gold", "hands"]
-tags_filter: ["solo", "close-up", "action", "forward-facing", "instant"]
+tags_hub:
+  - cat
+  - fury
+  - fire
+  - rage
+  - small-creature
+  - eruption
+  - feral
+  - instinct
+  - gold
+  - hands
+tags_filter:
+  - solo
+  - close-up
+  - action
+  - forward-facing
+  - instant
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/125-felonious-rage.png
 average_cost_paid: 0
-market_price: 0.27
-market_price_as_of: 2026-05-14
+market_price: 0.26
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/4/5/4538d6a8-a24a-40e3-b894-45a30882c92a.png?1706241861
 art_match_confidence: high
 needs_manual_review: false

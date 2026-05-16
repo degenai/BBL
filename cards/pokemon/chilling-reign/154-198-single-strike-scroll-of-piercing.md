@@ -13,23 +13,42 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["scroll", "ancient", "martial", "tool", "fire", "red", "piercing", "document", "warrior", "single-strike", "aggression"]
-tags_filter: ["no-face", "close-up", "scene-mode", "item-card", "tool-card", "fire-type", "artifact"]
+tags_hub:
+  - scroll
+  - ancient
+  - martial
+  - tool
+  - fire
+  - red
+  - piercing
+  - document
+  - warrior
+  - single-strike
+  - aggression
+tags_filter:
+  - no-face
+  - close-up
+  - scene-mode
+  - item-card
+  - tool-card
+  - fire-type
+  - artifact
 reference_image: cards/_images/pokemon/chilling-reign/154-198-single-strike-scroll-of-piercing.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh6/154_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: 5ban Graphics
-oracle_text: Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.\nThe Single Strike Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.)\nYou may play any number of Item cards during your turn.\nBullet Breakthrough (FireColorlessColorless) 120: This attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon.
+oracle_text: "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.\\nThe Single Strike Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.)\\nYou may play any number of Item cards during your turn.\\nBullet Breakthrough (FireColorlessColorless) 120: This attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon."
 mood: action
 time_of_day: indeterminate
 setting: other
-symbols: [single-strike-emblem]
+symbols:
+  - single-strike-emblem
 ---
 
 # Single Strike Scroll of Piercing (Chilling Reign)

@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["friendship", "tropical", "island", "youth", "nature", "alola", "trial-captain", "grass", "water", "color-contrast", "sunshine"]
-tags_filter: ["duo", "mid-shot", "forward-facing", "portrait-mode", "trainer-card", "supporter-card", "tag-team", "pokemon-ip"]
+tags_hub:
+  - friendship
+  - tropical
+  - island
+  - youth
+  - nature
+  - alola
+  - trial-captain
+  - grass
+  - water
+  - color-contrast
+  - sunshine
+tags_filter:
+  - duo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - trainer-card
+  - supporter-card
+  - tag-team
+  - pokemon-ip
 reference_image: cards/_images/pokemon/cosmic-eclipse/198-236-mallow-lana.png
 average_cost_paid: 0
 market_price: 0.31
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm12/198_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -29,7 +48,8 @@ setting: other
 suspected_ip: Mallow & Lana
 ip_confidence: high
 ip_verified: true
-characters: [alola-trial-captains]
+characters:
+  - alola-trial-captains
 ---
 
 # Mallow & Lana (Cosmic Eclipse)

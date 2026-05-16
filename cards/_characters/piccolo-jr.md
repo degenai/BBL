@@ -1,7 +1,14 @@
 ---
 type: character
 name: Piccolo Jr.
-aliases: [piccolo, piccolo-jr, piccolo-daimao-jr, ma-junior, mister-piccolo, kamiccolo, nameless-namekian-reformed]
+aliases:
+  - piccolo
+  - piccolo-jr
+  - piccolo-daimao-jr
+  - ma-junior
+  - mister-piccolo
+  - kamiccolo
+  - nameless-namekian-reformed
 universe: "Dragon Ball franchise (Akira Toriyama, Shueisha manga 1976-1995; Toei Animation anime adaptations 1986-present); Piccolo Jr. is introduced as the spat-egg reincarnation of King Piccolo at the close of the King Piccolo Saga (Dragon Ball chapters 192-194, 1978 manga / 1989 anime), competes as 'Ma Junior' in the 23rd World Martial Arts Tournament (Dragon Ball chapters 195-194 conclusion / 1989 anime), then becomes the franchise's most-instantiated Namekian protagonist across Dragon Ball Z (Saiyan / Namek / Frieza / Cell / Buu sagas, 1989-1996) and Dragon Ball Super (Battle of Gods continuation through Universe Survival Saga, 2015-2018)"
 faction: "Namekian (Demon Clan / Warrior-Type by birth-lineage as King Piccolo's reincarnation-child; Earth-side reformed protagonist by chosen affiliation; canonically *Kamiccolo* after permanent fusion with Kami in the 24th World Tournament arc per Dragon Ball Wiki's Piccolo page)"
 species: "Namekian — Demon Clan / Warrior-Type biological substrate; canonical green skin, antenna-ridged warrior-type cranium, pointed ears, regenerative biology, weighted-cape-and-turban combat uniform (the canonical visual signature across DBZ and DBS continuity)"
@@ -13,9 +20,13 @@ appears_on:
   - dragon-ball-super/galactic-battle/bt1-045-boost-attack-piccolo
   - dragon-ball-super/colossal-warfare/bt4-068-special-beam-cannon
   - dragon-ball-super/colossal-warfare/bt4-070-sacrifice
-related_hubs: [stewardship]
+related_hubs: "[stewardship]"
 related_symbols: []
-related_characters: [namekian, son-gohan, son-goku, dark-vassal-trio]
+related_characters:
+  - namekian
+  - son-gohan
+  - son-goku
+  - dark-vassal-trio
 ip_resolution_for: piccolo-jr
 ---
 

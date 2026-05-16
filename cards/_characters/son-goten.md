@@ -1,7 +1,11 @@
 ---
 type: character
 name: Son Goten
-aliases: [son-goten, goten, kid-goten, goten-junior-division]
+aliases:
+  - son-goten
+  - goten
+  - kid-goten
+  - goten-junior-division
 universe: "Dragon Ball franchise (Akira Toriyama, Shueisha manga 1984-1995; Toei Animation anime adaptations 1989-present); Son Goten is introduced in Dragon Ball Z manga chapter 424 (1993) as the seven-year-old younger son of Goku and Chi-Chi at the start of the Buu Saga / 25th World Martial Arts Tournament arc, born nine months after the Cell Games in Age 767 (a posthumous-conception son canonically conceived during Goku's brief return for the Cell Games); continues across Dragon Ball GT (Toei Animation, 1996-1997) as the adolescent-and-young-adult Saiyan/Earthling cohort member with a substantially reduced narrative role relative to his Buu-Saga prominence; recurring across Dragon Ball Super (Toei Animation, 2015-2018) as the continued Goten-and-Trunks Junior cohort partner; ongoing across the Dragon Ball Super Card Game (Bandai, 2017-present) as the Junior Tournament / Fusion-Dance / Goku's-Lineage paired-print roster member"
 faction: "Z-Fighters (Earth-defender cohort, Goku's-Lineage family-tree branch as younger son); secondary canonical alignment is the Goten-and-Trunks Junior Tournament cohort partnership (the canonical Buu-Saga Junior Division final-match cohort with Trunks, designer-coordinated by Bandai as the canonical TB2 Tiny Rivals paired-print pairing); tertiary canonical alignment is the Fusion-Dance Gotenks dual-component partnership with Trunks (the canonical Metamoran-fusion-vest cohort partner whose combined-form Gotenks operates as the Buu-Saga's only-non-Goku Super Saiyan 3 wielder)"
 species: "half-Saiyan / half-Earthling (younger son of Son Goku and Chi-Chi, younger brother of Son Gohan, paternal uncle of Pan; canonically the franchise's youngest-known Super Saiyan, achieving the transformation at approximately age seven WITHOUT the life-threatening crucible Gohan required, attributed to his exceptionally high S Cell count inherited from Goku's Super Saiyan Full Power phase at the time of conception); canonical age framing places him as a seven-year-old at the Buu Saga / 25th World Martial Arts Tournament arc open, an adolescent and young-adult across the End-of-Z epilogue and Dragon Ball GT continuity, with reduced narrative presence across the post-Buu-Saga arcs; canonical visual identifiers across his prints include the near-exact-replica-of-Goku's-child-design face-and-spiky-dark-hair register (the canonical *Goten looks like Kakarot at the same age* design move Toriyama explicitly built into the Buu-Saga child-Goten design), the canonical dark martial-arts gi costume of the 25th World Tournament Junior Division and the post-Buu-Saga eras, and the canonical golden Super Saiyan transformation that the seven-year-old child-Goten achieves with the franchise's lowest-emotional-trigger transformation-cost on record"
@@ -17,8 +21,18 @@ appears_on:
   - dragon-ball-super/union-force/bt2-015-prodigy-fusion-super-saiyan-gotenks
 related_hubs: []
 related_symbols: []
-related_characters: [son-goku, son-gohan, trunks, pan, saiyan, babidi]
-ip_resolution_for: ["Son Goten", "Goten", "Kid Goten", "Gotenks (Goten-half of the fusion)"]
+related_characters:
+  - son-goku
+  - son-gohan
+  - trunks
+  - pan
+  - saiyan
+  - babidi
+ip_resolution_for:
+  - Son Goten
+  - Goten
+  - Kid Goten
+  - Gotenks (Goten-half of the fusion)
 ---
 
 # Son Goten

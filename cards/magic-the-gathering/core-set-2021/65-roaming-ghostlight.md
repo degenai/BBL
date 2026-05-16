@@ -1,6 +1,6 @@
 ---
 name: Roaming Ghostlight
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 65
 rarity: C
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["ghost", "spirit", "chains", "ethereal", "melancholy", "afterlife", "soul", "void", "luminous", "flying", "veil", "wandering", "haunting", "mourning"]
-tags_filter: ["solo", "mid-shot", "abstract-mode", "no-face", "blue-mono", "creature-spirit", "common", "blue-magic"]
+tags_hub:
+  - ghost
+  - spirit
+  - chains
+  - ethereal
+  - melancholy
+  - afterlife
+  - soul
+  - void
+  - luminous
+  - flying
+  - veil
+  - wandering
+  - haunting
+  - mourning
+tags_filter:
+  - solo
+  - mid-shot
+  - abstract-mode
+  - no-face
+  - blue-mono
+  - creature-spirit
+  - common
+  - blue-magic
 reference_image: cards/_images/magic-the-gathering/core-set-2021/65-roaming-ghostlight.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 mood: sublime
 time_of_day: night
 setting: void

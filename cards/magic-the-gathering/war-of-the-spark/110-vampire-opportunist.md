@@ -1,23 +1,43 @@
 ---
 name: Vampire Opportunist
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 110
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["vampire", "undead", "predator", "lurker", "gothic", "night", "fangs", "ambush", "crouching-figure", "hunger", "stonework", "shadow"]
-tags_filter: ["solo", "mid-shot", "portrait-mode", "three-quarter", "creature-vampire", "black-magic", "indoor-scene", "no-weapon"]
+tags_hub:
+  - vampire
+  - undead
+  - predator
+  - lurker
+  - gothic
+  - night
+  - fangs
+  - ambush
+  - crouching-figure
+  - hunger
+  - stonework
+  - shadow
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait-mode
+  - three-quarter
+  - creature-vampire
+  - black-magic
+  - indoor-scene
+  - no-weapon
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/110-vampire-opportunist.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +49,7 @@ artist: Jason Rainville
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/110-vampire-opportunist--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/8/a8cf21a4-616d-48a5-a104-180c24491761.jpg?1557576586
 flavor_text: \"I think I cracked a fang.\"
-oracle_text: {6}{B}: Each opponent loses 2 life and you gain 2 life.
+oracle_text: "{6}{B}: Each opponent loses 2 life and you gain 2 life."
 ---
 
 # Vampire Opportunist (War of the Spark)

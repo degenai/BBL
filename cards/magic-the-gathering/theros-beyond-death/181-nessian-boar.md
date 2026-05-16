@@ -1,6 +1,6 @@
 ---
 name: Nessian Boar
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 181
 rarity: R
@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["boar", "hunt", "beast", "forest", "charge", "giant", "wild", "predator", "nature", "power", "animal"]
-tags_filter: ["group", "wide", "action", "green-magic", "creature", "forward-facing"]
+tags_hub:
+  - boar
+  - hunt
+  - beast
+  - forest
+  - charge
+  - giant
+  - wild
+  - predator
+  - nature
+  - power
+  - animal
+tags_filter:
+  - group
+  - wide
+  - action
+  - green-magic
+  - creature
+  - forward-facing
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/181-nessian-boar.png
 average_cost_paid: 0
 market_price: 0.27
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/a/a/aaf91fc2-7317-47e4-9e6c-d7d74cdf0153.png?1581480722
 art_match_confidence: high
 needs_manual_review: false

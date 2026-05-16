@@ -1,6 +1,6 @@
 ---
 name: Indomitable Will
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 25
 rarity: C
@@ -10,14 +10,38 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["warrior", "soldier", "spear", "cloak", "mountain", "ridge", "wind", "vista", "heroism", "vigilance", "armor", "greek-myth", "classical-antiquity", "lone-figure"]
-tags_filter: ["solo", "wide-shot", "scene-mode", "three-quarter", "male-figure", "white-magic", "enchantment", "aura", "no-face-visible", "backlit"]
+tags_hub:
+  - warrior
+  - soldier
+  - spear
+  - cloak
+  - mountain
+  - ridge
+  - wind
+  - vista
+  - heroism
+  - vigilance
+  - armor
+  - greek-myth
+  - classical-antiquity
+  - lone-figure
+tags_filter:
+  - solo
+  - wide-shot
+  - scene-mode
+  - three-quarter
+  - male-figure
+  - white-magic
+  - enchantment
+  - aura
+  - no-face-visible
+  - backlit
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/25-indomitable-will.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,7 +50,8 @@ mood: sublime
 time_of_day: day
 setting: mountain
 artist: Micah Epstein
-characters: [theros-pantheon]
+characters:
+  - theros-pantheon
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/25-indomitable-will--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/7/47772a34-c72f-44e8-b272-4ef2d2af5c82.jpg?1581479150
 flavor_text: \"Charge bravely. Fight selflessly. Act honorably. Iroas will watch over you.\"\n—Verenis, priest of Iroas

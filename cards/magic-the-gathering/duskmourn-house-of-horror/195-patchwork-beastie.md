@@ -1,7 +1,7 @@
 ---
 name: Patchwork Beastie
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 195
 rarity: U
 variance: Normal
@@ -10,15 +10,34 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["patchwork", "doll", "construct", "mask", "glowing-eyes", "forest", "fog", "uncanny", "horror", "monster", "stitched", "toy-horror"]
-tags_filter: ["duo", "mid-shot", "portrait", "forward-facing", "green-magic", "artifact-creature-beast"]
-characters: ["dsk-toy-horror"]
+tags_hub:
+  - patchwork
+  - doll
+  - construct
+  - mask
+  - glowing-eyes
+  - forest
+  - fog
+  - uncanny
+  - horror
+  - monster
+  - stitched
+  - toy-horror
+tags_filter:
+  - duo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - green-magic
+  - artifact-creature-beast
+characters:
+  - dsk-toy-horror
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/195-patchwork-beastie.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/8/9/895de583-36d2-43fd-927f-8876d4302c73.png?1726286592
 art_match_confidence: high
 needs_manual_review: false

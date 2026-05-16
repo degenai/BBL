@@ -1,6 +1,6 @@
 ---
 name: Tempting Witch
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 108
 rarity: C
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["witch", "apple", "hooded-figure", "cottage", "fairy-tale", "temptation", "poison", "night", "robed-figure", "offering", "gothic", "fruit"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "no-face", "creature-human", "creature-warlock", "black-magic", "common"]
+tags_hub:
+  - witch
+  - apple
+  - hooded-figure
+  - cottage
+  - fairy-tale
+  - temptation
+  - poison
+  - night
+  - robed-figure
+  - offering
+  - gothic
+  - fruit
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - no-face
+  - creature-human
+  - creature-warlock
+  - black-magic
+  - common
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/108-tempting-witch.png
 average_cost_paid: 0
 market_price: 0.23
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +49,7 @@ artist: Mila Pesic
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/108-tempting-witch--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/b/8b217e5a-3c18-48b4-8124-b8c4fd7b2df1.jpg?1572490260
 flavor_text: \"Murder clad in crimson beauty,\nAn end to life and love and duty.\"\n—Barrow witch incantation
-oracle_text: When this creature enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\n{2}, {T}, Sacrifice a Food: Target player loses 3 life.
+oracle_text: "When this creature enters, create a Food token. (It's an artifact with \\\"{2}, {T}, Sacrifice this token: You gain 3 life.\\\")\\n{2}, {T}, Sacrifice a Food: Target player loses 3 life."
 ---
 
 # Tempting Witch (Throne of Eldraine)

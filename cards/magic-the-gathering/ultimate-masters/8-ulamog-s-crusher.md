@@ -1,6 +1,6 @@
 ---
 name: Ulamog's Crusher
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Ultimate Masters
 collector_number: 8
 rarity: C
@@ -10,14 +10,28 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["eldrazi", "tentacles", "monster", "cosmic-horror", "void", "alien", "giant", "annihilation", "horror", "pale"]
-tags_filter: ["solo", "forward-facing", "mid-shot", "creature"]
+tags_hub:
+  - eldrazi
+  - tentacles
+  - monster
+  - cosmic-horror
+  - void
+  - alien
+  - giant
+  - annihilation
+  - horror
+  - pale
+tags_filter:
+  - solo
+  - forward-facing
+  - mid-shot
+  - creature
 reference_image: cards/_images/magic-the-gathering/ultimate-masters/8-ulamog-s-crusher.png
 average_cost_paid: 0
 market_price: 0.31
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/e/d/eda0fd38-38e6-4e9b-9c17-4d855e01b1e1.png?1547515341
 art_match_confidence: high
 needs_manual_review: false

@@ -1,0 +1,41 @@
+{
+  "card_name": "Mor'du - Wicked with Pride",
+  "game": "Lorcana",
+  "set": "Wilds Unknown",
+  "collector_number": "35/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card explicitly named 'Mor'du' under the Brave (Pixar) franchise. Flavor text attributed to 'The Witch,' the enchantress from Brave whose spell transformed the prince. Wilds Unknown (Set 12, May 2026) confirmed as first Lorcana set with Pixar IP, including Brave. Card art shows human prince form consistent with pre-bear Mor'du lore. IP verified with high confidence.",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "'Believing that he alone should be the sole heir, a seed of selfishness grew in him like a poison.' — The Witch. Quote from The Legend of Mor'du (2012 short) describing the pride that drove his transformation.",
+      "sources": ["card frontmatter", "Pixar Wiki: Mor'du", "Wikipedia: The Legend of Mor'du"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Mor'du is the first Pixar villain to appear in Lorcana, debuting in Wilds Unknown (Set 12, May 2026). He is the first Pixar antagonist who does not speak at all in his film.",
+      "sources": ["Pixar Wiki: Mor'du", "Villains Wiki: Mor'du", "WebSearch snippets"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Wilds Unknown (Set 12, May 15 2026) is the first Lorcana set with Pixar IP. Brave, Toy Story, and The Incredibles debut simultaneously. Merida is one of Set 12's two Iconic-rarity cards.",
+      "sources": ["Official Ravensburger Wilds Unknown press release, April 2026", "WDW News Today: Merida debuts in Wilds Unknown"]
+    },
+    {
+      "category": "design",
+      "text": "Common Amethyst, Rush keyword (can challenge turn played). Rush on a villain common creates immediate board pressure consistent with Mor'du's role as an unstoppable force in the film. Artist: Javi Salas.",
+      "sources": ["card frontmatter", "Lorcana Player card database"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Merida - Formidable Archer", "set": "Wilds Unknown", "note": "Brave protagonist and Iconic-rarity counterpart to Mor'du in Set 12"},
+    {"name": "Will o' the Wisps", "set": "Wilds Unknown", "note": "Brave supporting element from the same franchise cluster in Set 12"},
+    {"name": "The Witch (Brave)", "set": "Wilds Unknown", "note": "Flavor text speaker; may appear elsewhere in Set 12 as an additional Brave card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

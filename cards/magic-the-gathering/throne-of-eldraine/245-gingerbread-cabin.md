@@ -1,6 +1,6 @@
 ---
 name: Gingerbread Cabin
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 245
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["gingerbread", "cottage", "candy", "forest", "fairy-tale", "witch", "hansel-and-gretel", "cozy", "trap", "food", "bait", "mist", "storybook"]
-tags_filter: ["land", "forest-land", "no-figures", "scene-mode", "mid-shot", "green-magic", "food-token", "common"]
+tags_hub:
+  - gingerbread
+  - cottage
+  - candy
+  - forest
+  - fairy-tale
+  - witch
+  - hansel-and-gretel
+  - cozy
+  - trap
+  - food
+  - bait
+  - mist
+  - storybook
+tags_filter:
+  - land
+  - forest-land
+  - no-figures
+  - scene-mode
+  - mid-shot
+  - green-magic
+  - food-token
+  - common
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/245-gingerbread-cabin.png
 average_cost_paid: 0
-market_price: 0.32
-market_price_as_of: 2026-05-14
+market_price: 0.31
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -28,7 +49,7 @@ setting: forest
 artist: Chris Ostrowski
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/245-gingerbread-cabin--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/1/b11f5296-5f7d-41ca-a67d-e976273d7386.jpg?1572491212
-oracle_text: ({T}: Add {G}.)\nThis land enters tapped unless you control three or more other Forests.\nWhen this land enters untapped, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")
+oracle_text: "({T}: Add {G}.)\\nThis land enters tapped unless you control three or more other Forests.\\nWhen this land enters untapped, create a Food token. (It's an artifact with \\\"{2}, {T}, Sacrifice this token: You gain 3 life.\\\")"
 ---
 
 # Gingerbread Cabin (Throne of Eldraine)

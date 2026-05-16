@@ -1,6 +1,6 @@
 ---
 name: Case of the Shattered Pact
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 1
 rarity: U
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["shattered", "crystal", "glass", "broken", "mystery", "pact", "magic", "prism", "violence", "investigation", "contract", "destruction"]
-tags_filter: ["no-face", "none-figure", "close-up", "abstract", "white-magic", "enchantment-case", "portrait-mode"]
+tags_hub:
+  - shattered
+  - crystal
+  - glass
+  - broken
+  - mystery
+  - pact
+  - magic
+  - prism
+  - violence
+  - investigation
+  - contract
+  - destruction
+tags_filter:
+  - no-face
+  - none-figure
+  - close-up
+  - abstract
+  - white-magic
+  - enchantment-case
+  - portrait-mode
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/1-case-of-the-shattered-pact.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-14
+market_price: 0.23
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/2/a/2a70f0ae-d49b-4cc8-9f76-895039c3dc39.png?1706241444
 art_match_confidence: high
 needs_manual_review: false

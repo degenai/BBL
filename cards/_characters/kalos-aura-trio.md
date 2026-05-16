@@ -1,7 +1,13 @@
 ---
 type: character
 name: Kalos Aura Trio (Xerneas / Yveltal / Zygarde Life-Death-Order cohort)
-aliases: [kalos-aura-trio, aura-trio, xy-mascot-trio, kalos-legendary-trio, life-death-order-trio, xerneas-yveltal-zygarde]
+aliases:
+  - kalos-aura-trio
+  - aura-trio
+  - xy-mascot-trio
+  - kalos-legendary-trio
+  - life-death-order-trio
+  - xerneas-yveltal-zygarde
 universe: Pokemon / Kalos (Generation VI, Pokemon X and Y, Game Freak, 2013; expanded in Pokemon Sun & Moon Ultra Necrozma arc, Pokemon Masters EX, Pokemon TCG sets through Vivid Voltage)
 faction: ~
 species: designer-coordinated trio of three Kalos-region Legendary Pokemon — Xerneas (Life Pokemon, Pokemon X version mascot, no. 716, Fairy-type), Yveltal (Destruction Pokemon, Pokemon Y version mascot, no. 717, Dark/Flying dual-type), Zygarde (Order Pokemon, no. 718, Dragon/Ground dual-type, multi-Forme cellular construct with 10%, 50%, Complete, and Cell Forme variants); jointly the canonical Kalos box-art-legendary cohort and the X/Y/Z trifecta whose names are the letters of their version titles

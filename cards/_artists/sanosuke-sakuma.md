@@ -1,7 +1,10 @@
 ---
 type: artist
 name: Sanosuke Sakuma
-aliases: [Sakuma, Sanosuke Sakuma, さのすけさくま]
+aliases:
+  - Sakuma
+  - Sanosuke Sakuma
+  - さのすけさくま
 universe: Pokemon
 birth_year: 1990
 birth_location: Kanagawa, Japan

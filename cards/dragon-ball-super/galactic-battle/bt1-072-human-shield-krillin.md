@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["shield", "defense", "bald", "underdog", "guardian", "armor", "martial-arts", "loyalty", "protection", "warrior", "short-fighter"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "male-figure", "anime"]
+tags_hub:
+  - shield
+  - defense
+  - bald
+  - underdog
+  - guardian
+  - armor
+  - martial-arts
+  - loyalty
+  - protection
+  - warrior
+  - short-fighter
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - male-figure
+  - anime
 reference_image: cards/_images/dragon-ball-super/galactic-battle/bt1-072-human-shield-krillin.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400575291/ADA59CBF47F974FF0DEB6E9DD1978E9B67AD8EF1/
 image_width: 624
 image_height: 871
@@ -30,7 +47,8 @@ setting: void
 suspected_ip: Krillin (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
-characters: [krillin]
+characters:
+  - krillin
 ---
 
 # Human Shield Krillin (Galactic Battle)

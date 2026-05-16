@@ -1,7 +1,12 @@
 ---
 type: character
 name: Galar Gym Challenge
-aliases: [galar-gym-challenge, galar-pokemon-league, galar-league, champion-cup, swsh-gym-leaders]
+aliases:
+  - galar-gym-challenge
+  - galar-pokemon-league
+  - galar-league
+  - champion-cup
+  - swsh-gym-leaders
 universe: Pokemon / Galar (Pokemon Sword & Shield)
 faction: Galar Pokemon League (annual sporting competition, corporate-sponsored by the Macro Cosmos conglomerate, headed by Chairman Rose, televised stadium-cup format)
 species: faction-collective (Galar major-division Gym Leaders, Stadium staff, Macro Cosmos administrative cadre, Champion Cup contestants — mixed)
@@ -20,9 +25,12 @@ appears_on:
   - pokemon/champion-s-path/68-73-turffield-stadium
   - pokemon/vivid-voltage/161-185-wyndon-stadium
   - pokemon/vivid-voltage/153-185-league-staff
-related_hubs: [labor]
+related_hubs: "[labor]"
 related_symbols: []
-related_characters: [galarian-regional-forms, charizard-line, macro-cosmos]
+related_characters:
+  - galarian-regional-forms
+  - charizard-line
+  - macro-cosmos
 ip_resolution_for: galar-gym-challenge
 ---
 

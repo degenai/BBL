@@ -1,6 +1,6 @@
 ---
 name: Millstone
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Magic 2014 (M14)
 collector_number: 213
 rarity: U
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["stone", "millstone", "carved-face", "screaming-face", "ruin", "relic", "ancient", "mountain", "mist", "dust", "grinding", "curse"]
-tags_filter: ["no-figure", "no-face-human", "forward-facing", "mid-shot", "portrait-mode", "artifact", "colorless-magic", "mill", "object-focus"]
+tags_hub:
+  - stone
+  - millstone
+  - carved-face
+  - screaming-face
+  - ruin
+  - relic
+  - ancient
+  - mountain
+  - mist
+  - dust
+  - grinding
+  - curse
+tags_filter:
+  - no-figure
+  - no-face-human
+  - forward-facing
+  - mid-shot
+  - portrait-mode
+  - artifact
+  - colorless-magic
+  - mill
+  - object-focus
 reference_image: cards/_images/magic-the-gathering/magic-2014-m14/213-millstone.png
 average_cost_paid: 0
 market_price: 0.22
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/2/3/23f28acb-8ccb-4b89-ba7f-ff7ce59852aa.png?1710406441
 art_match_confidence: high
 needs_manual_review: false
@@ -29,7 +50,7 @@ artist: Yeong-Hao Han
 art_crop_image: cards/_images/magic-the-gathering/magic-2014-m14/213-millstone--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/3/23f28acb-8ccb-4b89-ba7f-ff7ce59852aa.jpg?1710406441
 flavor_text: Minds, like mountains, are never so grand and mighty that they can't be reduced to dust.
-oracle_text: {2}, {T}: Target player mills two cards.
+oracle_text: "{2}, {T}: Target player mills two cards."
 ---
 
 # Millstone (Magic 2014 (M14))

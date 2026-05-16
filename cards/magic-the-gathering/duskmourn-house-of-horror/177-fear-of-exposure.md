@@ -1,7 +1,7 @@
 ---
 name: Fear of Exposure
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 177
 rarity: U
 variance: Normal
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["mouth", "teeth", "trapped", "staircase", "nightmare", "gothic", "horror", "creature", "monster", "faces", "dark-interior", "fear-of-cycle"]
-tags_filter: ["solo", "wide", "narrative", "forward-facing", "green-magic", "enchantment-creature", "creature-nightmare", "indoor"]
+tags_hub:
+  - mouth
+  - teeth
+  - trapped
+  - staircase
+  - nightmare
+  - gothic
+  - horror
+  - creature
+  - monster
+  - faces
+  - dark-interior
+  - fear-of-cycle
+tags_filter:
+  - solo
+  - wide
+  - narrative
+  - forward-facing
+  - green-magic
+  - enchantment-creature
+  - creature-nightmare
+  - indoor
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/177-fear-of-exposure.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price: 0.11
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/9/3/93bb4abc-5af1-4cf5-919b-244b6a36f8ec.png?1726286520
 art_match_confidence: high
 needs_manual_review: false
@@ -32,7 +52,8 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: indoor
-characters: ["fear-of-cycle"]
+characters:
+  - fear-of-cycle
 ---
 
 # Fear of Exposure (Duskmourn: House of Horror)

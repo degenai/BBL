@@ -1,7 +1,17 @@
 ---
 type: character
 name: Krillin
-aliases: [krillin, kuririn, krilin, kurilin, klilyn, son-gokus-best-friend, turtle-school-krillin, strongest-human, marrons-father, eighteens-husband]
+aliases:
+  - krillin
+  - kuririn
+  - krilin
+  - kurilin
+  - klilyn
+  - son-gokus-best-friend
+  - turtle-school-krillin
+  - strongest-human
+  - marrons-father
+  - eighteens-husband
 universe: "Dragon Ball franchise (Akira Toriyama, Shueisha manga 1984-1995; Toei Animation anime adaptations 1986-present); Krillin is introduced in Dragon Ball manga chapter 26 (1984) as a child martial artist arriving at Master Roshi's island to train alongside Goku, becomes Goku's canonical lifelong best friend across the entire franchise, and continues across Dragon Ball Z (1989-1996), Dragon Ball GT (1996-1997), Dragon Ball Super (2015-2018), and the Dragon Ball Super Card Game (Bandai, 2017-present)"
 faction: "Turtle School martial artist (Master Roshi student-cohort alongside Goku, Yamcha, Tien-and-Chiaotzu-by-rivalry-then-alliance, and the broader Z-Fighter Earth-defender cohort); Krillin's secondary canonical institutional alignment is the Capsule-Corporation-adjacent Z-Fighter operational base (the canonical post-Buu-Saga Krillin holds part-time police-work in canon, alongside his Kame House residency with Eighteen and Marron)"
 species: "human (Earth-native; canonical age framing places him in the late-teens-to-early-twenties range across the Z continuity and into adulthood across Super; visual signature is the canonical short stocky build, bald shaved head with no nose, the six pressure-point dots on the forehead — visible across selected prints — that mark his canonical Shaolin-monk-training ritual scars, and the canonical Turtle School orange martial-arts gi or BT-era variant outfits; one of two canonical Earth-native non-ki-user-tier humans whose canonical combat tier matches the Z-Fighters' lower-rank stratum despite the non-Saiyan baseline)"
@@ -11,10 +21,16 @@ appears_on:
   - dragon-ball-super/galactic-battle/bt1-072-human-shield-krillin
   - dragon-ball-super/world-martial-arts-tournament/tb2-041-double-impact-krillin
   - dragon-ball-super/world-martial-arts-tournament/tb2-053-toughened-up-krillin
-related_hubs: [labor, stewardship]
+related_hubs: "[labor, stewardship]"
 related_symbols: []
-related_characters: [son-goku, namekian]
-ip_resolution_for: [Krillin, Kuririn, Klilyn, Kurilin]
+related_characters:
+  - son-goku
+  - namekian
+ip_resolution_for:
+  - Krillin
+  - Kuririn
+  - Klilyn
+  - Kurilin
 ---
 
 # Krillin

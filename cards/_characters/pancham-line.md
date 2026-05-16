@@ -1,7 +1,14 @@
 ---
 type: character
 name: "Pancham evolutionary line (Pancham / Pangoro)"
-aliases: [pancham-line, pancham-pangoro, kalos-bancho-line, pangoro-line, gen-vi-fighting-line, pancham-evolutionary-line, pangoro-family]
+aliases:
+  - pancham-line
+  - pancham-pangoro
+  - kalos-bancho-line
+  - pangoro-line
+  - gen-vi-fighting-line
+  - pancham-evolutionary-line
+  - pangoro-family
 universe: "Pokemon / Kalos (Generation VI, Pokemon X and Y, Game Freak / Creatures Inc. / Nintendo, 2013; expanded across every subsequent generation as a recurring Kalos-introduced Fighting-type panda evolutionary line, with the unique Dark-type-party-member gating mechanic for evolution from Pancham to Pangoro that has not been replicated in any other Pokemon line in the mainline series)"
 faction: ~
 species: "two-stage Fighting-type-to-Fighting/Dark evolutionary line — Pancham (base, National Pokedex no. 674, Fighting) -> Pangoro (Stage 1, no. 675, Fighting/Dark); the canonical Kalos-region bancho (Japanese juvenile delinquent gang leader) panda line, introduced in Pokemon X and Y (Game Freak / Creatures Inc. / Nintendo, 2013), with the **unique-in-the-franchise Dark-type-party-member gating mechanic for evolution** — Pancham evolves into Pangoro at Level 32 if and only if a Dark-type Pokemon is present in the player's party at the level-up event; no other mainline Pokemon line uses party-composition gating for evolution, making this the franchise's structural anomaly for evolution-mechanic design"
@@ -13,7 +20,12 @@ appears_on:
   - pokemon/mcdonald-s-promos-2022/13-15-pangoro
 related_hubs: []
 related_symbols: []
-related_characters: [mareep-line, staraptor-line, charizard-line, caterpie-line, ralts-line]
+related_characters:
+  - mareep-line
+  - staraptor-line
+  - charizard-line
+  - caterpie-line
+  - ralts-line
 ip_resolution_for: pancham-line
 ---
 

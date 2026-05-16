@@ -1,6 +1,6 @@
 ---
 name: Lead the Stampede
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Mystery Booster Cards
 collector_number: 16
 rarity: C
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["stampede", "rider", "mounted-figure", "beast", "horned-beast", "herd", "charge", "goggles", "dust", "wilderness", "adventurer", "speed"]
-tags_filter: ["green-magic", "mid-shot", "forward-facing", "action-mode", "group", "scene-mode", "sorcery", "no-architecture", "daytime", "male-figure"]
+tags_hub:
+  - stampede
+  - rider
+  - mounted-figure
+  - beast
+  - horned-beast
+  - herd
+  - charge
+  - goggles
+  - dust
+  - wilderness
+  - adventurer
+  - speed
+tags_filter:
+  - green-magic
+  - mid-shot
+  - forward-facing
+  - action-mode
+  - group
+  - scene-mode
+  - sorcery
+  - no-architecture
+  - daytime
+  - male-figure
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/16-lead-the-stampede.png
 average_cost_paid: 0
 market_price: 0.29
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

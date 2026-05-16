@@ -1,6 +1,6 @@
 ---
 name: Fetid Imp
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 98
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["imp", "demon", "wings", "flying-creature", "smoke", "ruins", "decay", "swamp", "plague", "monster", "nocturnal", "feral"]
-tags_filter: ["solo", "mid-shot", "three-quarter-facing", "action-mode", "no-face-detail", "creature-imp", "black-magic", "flying", "deathtouch"]
+tags_hub:
+  - imp
+  - demon
+  - wings
+  - flying-creature
+  - smoke
+  - ruins
+  - decay
+  - swamp
+  - plague
+  - monster
+  - nocturnal
+  - feral
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter-facing
+  - action-mode
+  - no-face-detail
+  - creature-imp
+  - black-magic
+  - flying
+  - deathtouch
 reference_image: cards/_images/magic-the-gathering/core-set-2021/98-fetid-imp.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -28,7 +49,7 @@ setting: other
 artist: Nils Hamm
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/98-fetid-imp--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/6/56a95546-c45a-4da5-b1e8-d5658b5b7d53.jpg?1594736117
-oracle_text: Flying\n{B}: This creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
+oracle_text: "Flying\\n{B}: This creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)"
 ---
 
 # Fetid Imp (Core Set 2021)

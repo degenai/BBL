@@ -1,23 +1,44 @@
 ---
 name: Lonesome Unicorn
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 21
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["unicorn", "forest", "bridge", "pilgrim", "robed-figure", "horse", "fairytale", "wilderness", "solitude", "staff", "hooded-figure", "journey"]
-tags_filter: ["duo", "mid-shot", "faces-left", "scene-mode", "no-face", "white-magic", "creature-unicorn", "vigilance", "adventure-card"]
+tags_hub:
+  - unicorn
+  - forest
+  - bridge
+  - pilgrim
+  - robed-figure
+  - horse
+  - fairytale
+  - wilderness
+  - solitude
+  - staff
+  - hooded-figure
+  - journey
+tags_filter:
+  - duo
+  - mid-shot
+  - faces-left
+  - scene-mode
+  - no-face
+  - white-magic
+  - creature-unicorn
+  - vigilance
+  - adventure-card
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/21-lonesome-unicorn.png
 average_cost_paid: 0
-market_price: 0.16
-market_price_as_of: 2026-05-14
+market_price: 0.15
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

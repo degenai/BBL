@@ -1,6 +1,6 @@
 ---
 name: Rictus Robber
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Outlaws of Thunder Junction
 collector_number: 102
 rarity: U
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["outlaw", "undead", "frontier", "western", "cowboy", "cave", "darkness", "villain", "criminal", "fire", "zombie", "rogue"]
-tags_filter: ["mid-shot", "portrait", "duo", "forward-facing", "black-magic", "creature", "dungeon", "chiaroscuro"]
+tags_hub:
+  - outlaw
+  - undead
+  - frontier
+  - western
+  - cowboy
+  - cave
+  - darkness
+  - villain
+  - criminal
+  - fire
+  - zombie
+  - rogue
+tags_filter:
+  - mid-shot
+  - portrait
+  - duo
+  - forward-facing
+  - black-magic
+  - creature
+  - dungeon
+  - chiaroscuro
 reference_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/102-rictus-robber.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Outlaws of Thunder Junction'

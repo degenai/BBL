@@ -1,7 +1,11 @@
 ---
 type: character
 name: "Chronoa (Supreme Kai of Time, Time Patrol commander)"
-aliases: [chronoa, supreme-kai-of-time, time-patrol-commander, the-supreme-kai-of-time]
+aliases:
+  - chronoa
+  - supreme-kai-of-time
+  - time-patrol-commander
+  - the-supreme-kai-of-time
 universe: "Dragon Ball / Dragon Ball Online (NTL Inc., 2010 — character debut); Dragon Ball Xenoverse (Bandai Namco / Dimps, 2015) and Dragon Ball Xenoverse 2 (2016) primary canonical anchors; Super Dragon Ball Heroes (Bandai promotional arcade card game and web anime, 2018-) cross-media continuation; reintroduced in Dragon Ball Daima (Toei Animation, 2024-2025) — the franchise's first non-Xenoverse-only canonical appearance of the character"
 faction: "Time Patrol — the Bandai-Namco-canon time-guardian institution Chronoa commands from the Time Nest as supreme commander and mentor; principal field operatives include Xeno Trunks (deputy field commander) and the player-character Time Patroller; the Time Patrol's stated charter is to preserve canonical history against Time Breaker corruption-of-history operations"
 species: "humanoid (Shin-jin / Kai race — Chronoa is canonically a Supreme Kai, the deity-tier rank in the Kai hierarchy; petite-stature feminine-presenting register; canonical visual identifiers — large pink twin-tail / top-knot hair, purple-and-pink ceremonial outfit with white trim, youthful appearance despite a canonical 75-million-year operational tenure)"
@@ -11,10 +15,15 @@ appears_on:
   - dragon-ball-super/cross-worlds/bt3-113-supreme-kai-of-time-world-s-protector
   - dragon-ball-super/cross-worlds/bt3-122-time-s-judgement
   - dragon-ball-super/colossal-warfare/bt4-103-time-s-choice-supreme-kai-of-time
-related_hubs: [stewardship]
+related_hubs: "[stewardship]"
 related_symbols: []
-related_characters: [xenoverse-villains, trunks, bardock]
-ip_resolution_for: ["Chronoa", "Supreme Kai of Time"]
+related_characters:
+  - xenoverse-villains
+  - trunks
+  - bardock
+ip_resolution_for:
+  - Chronoa
+  - Supreme Kai of Time
 ---
 
 # Chronoa (Supreme Kai of Time, Time Patrol commander)

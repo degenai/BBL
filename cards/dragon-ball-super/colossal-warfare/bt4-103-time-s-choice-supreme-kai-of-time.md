@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["time", "guardian", "magic", "divine", "small-figure", "choice", "duty", "vigilance", "female-warrior", "power", "pink", "authority", "patrol"]
-tags_filter: ["solo", "mid-shot", "narrative", "forward-facing", "female-figure", "anime"]
+tags_hub:
+  - time
+  - guardian
+  - magic
+  - divine
+  - small-figure
+  - choice
+  - duty
+  - vigilance
+  - female-warrior
+  - power
+  - pink
+  - authority
+  - patrol
+tags_filter:
+  - solo
+  - mid-shot
+  - narrative
+  - forward-facing
+  - female-figure
+  - anime
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-103-time-s-choice-supreme-kai-of-time.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price: 0.1
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401040497/334AA9A99D907A52D9972D71A9A0EFB9F04FE786/
 image_width: 624
 image_height: 864
@@ -30,7 +49,8 @@ setting: void
 suspected_ip: Supreme Kai of Time / Chronoa (Dragon Ball Xenoverse)
 ip_confidence: high
 ip_verified: true
-characters: ["chronoa"]
+characters:
+  - chronoa
 ---
 
 # Time's Choice, Supreme Kai of Time (Colossal Warfare)

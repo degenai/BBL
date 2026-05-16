@@ -1,6 +1,6 @@
 ---
 name: Tyrant's Machine
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Battlebond
 collector_number: 248
 rarity: C
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["machine", "device", "torture", "lightning", "cube", "stone", "iron", "dungeon", "cavern", "tyranny", "punishment", "artifact-object"]
-tags_filter: ["artifact", "colorless", "no-figure", "no-face", "object-subject", "mid-shot", "scene-mode", "indoor"]
+tags_hub:
+  - machine
+  - device
+  - torture
+  - lightning
+  - cube
+  - stone
+  - iron
+  - dungeon
+  - cavern
+  - tyranny
+  - punishment
+  - artifact-object
+tags_filter:
+  - artifact
+  - colorless
+  - no-figure
+  - no-face
+  - object-subject
+  - mid-shot
+  - scene-mode
+  - indoor
 reference_image: cards/_images/magic-the-gathering/battlebond/248-tyrant-s-machine.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +49,7 @@ artist: Yeong-Hao Han
 art_crop_image: cards/_images/magic-the-gathering/battlebond/248-tyrant-s-machine--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/c/2c697b0b-edba-491a-b40e-f88572a6e955.jpg?1562904061
 flavor_text: \"Though tempered differently, all wills can be broken.\"\n—Inquisitor Kyrik
-oracle_text: {4}, {T}: Tap target creature.
+oracle_text: "{4}, {T}: Tap target creature."
 ---
 
 # Tyrant's Machine (Battlebond)

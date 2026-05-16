@@ -1,7 +1,7 @@
 ---
 name: Rakdos Carnarium
-game: Magic: The Gathering
-set: Duel Decks: Sorin vs. Tibalt
+game: "Magic: The Gathering"
+set: "Duel Decks: Sorin vs. Tibalt"
 collector_number: 74
 rarity: C
 variance: Normal
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["arena", "cavern", "altar", "cult", "blood-sport", "underground", "torchlight", "ritual", "gothic-architecture", "pit", "infernal"]
-tags_filter: ["wide-shot", "scene-mode", "no-face", "no-figure-focus", "land", "black-magic", "red-magic", "multicolor-black-red", "landscape-orientation", "deep-perspective", "crowd"]
+tags_hub:
+  - arena
+  - cavern
+  - altar
+  - cult
+  - blood-sport
+  - underground
+  - torchlight
+  - ritual
+  - gothic-architecture
+  - pit
+  - infernal
+tags_filter:
+  - wide-shot
+  - scene-mode
+  - no-face
+  - no-figure-focus
+  - land
+  - black-magic
+  - red-magic
+  - multicolor-black-red
+  - landscape-orientation
+  - deep-perspective
+  - crowd
 reference_image: cards/_images/magic-the-gathering/duel-decks-sorin-vs-tibalt/74-rakdos-carnarium.png
 average_cost_paid: 0
 market_price: 0.42
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,7 +50,7 @@ setting: dungeon
 artist: John Avon
 art_crop_image: cards/_images/magic-the-gathering/duel-decks-sorin-vs-tibalt/74-rakdos-carnarium--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/2/42bba982-aa07-4dcb-becb-1568021a94fc.jpg?1592714692
-oracle_text: This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {B}{R}.
+oracle_text: "This land enters tapped.\\nWhen this land enters, return a land you control to its owner's hand.\\n{T}: Add {B}{R}."
 ---
 
 # Rakdos Carnarium (Duel Decks: Sorin vs. Tibalt)

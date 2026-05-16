@@ -1,6 +1,6 @@
 ---
 name: Wumpus Aberration
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 176
 rarity: U
@@ -10,21 +10,41 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["monster", "eldritch", "tentacles", "giant", "horror", "dead-forest", "confrontation", "alone", "wilderness", "aberration", "creature", "threat"]
-tags_filter: ["duo", "wide", "action", "colorless-magic", "devoid", "creature-wumpus-aberration", "trample", "scene-mode"]
+tags_hub:
+  - monster
+  - eldritch
+  - tentacles
+  - giant
+  - horror
+  - dead-forest
+  - confrontation
+  - alone
+  - wilderness
+  - aberration
+  - creature
+  - threat
+tags_filter:
+  - duo
+  - wide
+  - action
+  - colorless-magic
+  - devoid
+  - creature-wumpus-aberration
+  - trample
+  - scene-mode
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/176-wumpus-aberration.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/2/3/23c19f67-834c-4709-9038-7916ac0921eb.png?1717012633
 art_match_confidence: high
 needs_manual_review: false
 artist: Filip Burburan
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/176-wumpus-aberration--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/3/23c19f67-834c-4709-9038-7916ac0921eb.jpg?1717012633
-flavor_text: All who behold its twisted form are consumed by a single-minded obsession: destroy it.
+flavor_text: "All who behold its twisted form are consumed by a single-minded obsession: destroy it."
 oracle_text: Devoid (This card has no color.)\nWhen you cast this spell, if {C} wasn't spent to cast it, target opponent may put a creature card from their hand onto the battlefield.\nTrample
 image_width: 745
 image_height: 1040

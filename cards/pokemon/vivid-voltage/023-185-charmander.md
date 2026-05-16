@@ -7,30 +7,51 @@ rarity: Common
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 2
+quantity: 7
 held_for_lair: 0
 bundles: []
-tags_hub: ["fire", "lizard", "creature", "baby-creature", "starter", "flame", "cute", "nature", "warmth", "orange", "flowers", "cheerful"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face-obscured", "colorless-magic", "common", "basic-pokemon"]
+tags_hub:
+  - fire
+  - lizard
+  - creature
+  - baby-creature
+  - starter
+  - flame
+  - cute
+  - nature
+  - warmth
+  - orange
+  - flowers
+  - cheerful
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - no-face-obscured
+  - colorless-magic
+  - common
+  - basic-pokemon
 reference_image: cards/_images/pokemon/vivid-voltage/023-185-charmander.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-14
+market_price: 0.23
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh4/23_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: MAHOU
 flavor_text: It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.
-oracle_text: Collect (Fire): Draw a card.\nFlare (FireFire) 30
+oracle_text: "Collect (Fire): Draw a card.\\nFlare (FireFire) 30"
 mood: peaceful
 time_of_day: indeterminate
 setting: other
 suspected_ip: Charmander
 ip_confidence: high
 ip_verified: true
-characters: [charizard-line]
+characters:
+  - charizard-line
 ---
 
 # Charmander (Vivid Voltage)

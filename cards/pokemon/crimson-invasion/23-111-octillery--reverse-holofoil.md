@@ -10,20 +10,40 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["octopus", "ocean", "underwater", "tentacles", "sea-creature", "red", "cephalopod", "depth", "ink", "aquatic"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "pokemon", "creature", "water-type", "colorless-type", "rare", "reverse-holofoil", "stage-1"]
+tags_hub:
+  - octopus
+  - ocean
+  - underwater
+  - tentacles
+  - sea-creature
+  - red
+  - cephalopod
+  - depth
+  - ink
+  - aquatic
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - pokemon
+  - creature
+  - water-type
+  - colorless-type
+  - rare
+  - reverse-holofoil
+  - stage-1
 reference_image: cards/_images/pokemon/crimson-invasion/23-111-octillery--reverse-holofoil.png
 average_cost_paid: 0
 market_price: 0.4
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm4/23_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: tetsuya koizumi
 flavor_text: It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.
-oracle_text: Ink Spit (Colorless): If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.\nSpecial Artillery (WaterColorless) 40+: You may discard a Special Energy from this Pokémon. If you do, this attack does 80 more damage.
+oracle_text: "Ink Spit (Colorless): If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.\\nSpecial Artillery (WaterColorless) 40+: You may discard a Special Energy from this Pokémon. If you do, this attack does 80 more damage."
 mood: action
 time_of_day: indeterminate
 setting: ocean

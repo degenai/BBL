@@ -1,6 +1,6 @@
 ---
 name: Fortified Rampart
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Battle for Zendikar
 collector_number: 27
 rarity: C
@@ -10,18 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["fortress", "wall", "Eldrazi", "horror", "defense", "siege", "survival", "scale", "threat", "shield"]
-tags_filter: ["duo", "wide", "scene-mode", "creature-wall", "defender", "white-magic"]
+tags_hub:
+  - fortress
+  - wall
+  - Eldrazi
+  - horror
+  - defense
+  - siege
+  - survival
+  - scale
+  - threat
+  - shield
+tags_filter:
+  - duo
+  - wide
+  - scene-mode
+  - creature-wall
+  - defender
+  - white-magic
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/27-fortified-rampart.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-14
+market_price: 0.2
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/5/0/5095e2ab-a7f5-45bc-8b2f-31198ea27bba.png?1562913875
 art_match_confidence: high
 needs_manual_review: false
-characters: ["eldrazi"]
+characters:
+  - eldrazi
 artist: David Gaillet
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/27-fortified-rampart--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/0/5095e2ab-a7f5-45bc-8b2f-31198ea27bba.jpg?1562913875

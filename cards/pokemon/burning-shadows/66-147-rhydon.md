@@ -10,20 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["rhinoceros", "horn", "armor", "strength", "charging", "rock", "earth", "brute", "cave", "power"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "fighting-magic", "stage-1-pokemon"]
+tags_hub:
+  - rhinoceros
+  - horn
+  - armor
+  - strength
+  - charging
+  - rock
+  - earth
+  - brute
+  - cave
+  - power
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - fighting-magic
+  - stage-1-pokemon
 reference_image: cards/_images/pokemon/burning-shadows/66-147-rhydon.png
 average_cost_paid: 0
 market_price: 0.16
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm3/66_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Sanosuke Sakuma
 flavor_text: Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit.
-oracle_text: Rock Tumble (FightingFightingColorless) 80: This attack's damage isn't affected by Resistance.\nMegahorn (FightingFightingFightingColorless) 120: Flip a coin. If tails, this attack does nothing.
+oracle_text: "Rock Tumble (FightingFightingColorless) 80: This attack's damage isn't affected by Resistance.\\nMegahorn (FightingFightingFightingColorless) 120: Flip a coin. If tails, this attack does nothing."
 mood: action
 time_of_day: indeterminate
 setting: mountain

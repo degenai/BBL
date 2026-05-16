@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["support-character", "mother", "scientist", "domestic", "warmth", "non-combat", "family", "teal-hair", "indoor-scene", "caretaker", "genius", "bulma"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait", "female-figure", "green-magic", "extra-unit"]
+tags_hub:
+  - support-character
+  - mother
+  - scientist
+  - domestic
+  - warmth
+  - non-combat
+  - family
+  - teal-hair
+  - indoor-scene
+  - caretaker
+  - genius
+  - bulma
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait
+  - female-figure
+  - green-magic
+  - extra-unit
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-013-dependable-mom-bulma.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401025065/55BB51AC8BED91EF37E8402954E19A0B81C2C875/
 image_width: 624
 image_height: 871
@@ -30,7 +49,8 @@ setting: indoor
 suspected_ip: Bulma (Dragon Ball)
 ip_confidence: high
 ip_verified: true
-characters: [bulma]
+characters:
+  - bulma
 ---
 
 # Dependable Mom Bulma (Colossal Warfare)

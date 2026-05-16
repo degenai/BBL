@@ -1,7 +1,7 @@
 ---
 name: Fear of Infinity
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 214
 rarity: U
 variance: Normal
@@ -10,15 +10,37 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["ouroboros", "serpent", "skulls", "wings", "spirits", "nightmare", "horror", "cycle", "infinity", "void", "fear-of-cycle", "undead"]
-tags_filter: ["group", "wide", "narrative", "no-face", "multicolor-blue-black", "enchantment-creature", "creature-nightmare", "flying", "lifelink"]
-symbols: ["eerie"]
+tags_hub:
+  - ouroboros
+  - serpent
+  - skulls
+  - wings
+  - spirits
+  - nightmare
+  - horror
+  - cycle
+  - infinity
+  - void
+  - fear-of-cycle
+  - undead
+tags_filter:
+  - group
+  - wide
+  - narrative
+  - no-face
+  - multicolor-blue-black
+  - enchantment-creature
+  - creature-nightmare
+  - flying
+  - lifelink
+symbols:
+  - eerie
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/214-fear-of-infinity.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-14
+market_price: 0.21
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/8/1/81756844-c642-406f-842d-35c1e404fec0.png?1726286668
 art_match_confidence: high
 needs_manual_review: false
@@ -33,7 +55,8 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: void
-characters: ["fear-of-cycle"]
+characters:
+  - fear-of-cycle
 ---
 
 # Fear of Infinity (Duskmourn: House of Horror)

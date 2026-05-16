@@ -1,6 +1,6 @@
 ---
 name: Galvanize
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 128
 rarity: C
@@ -10,14 +10,27 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["hammer", "lightning", "strike", "rage", "dungeon", "energy", "weapon", "power"]
-tags_filter: ["solo", "close-up", "forward-facing", "red-magic", "instant"]
+tags_hub:
+  - hammer
+  - lightning
+  - strike
+  - rage
+  - dungeon
+  - energy
+  - weapon
+  - power
+tags_filter:
+  - solo
+  - close-up
+  - forward-facing
+  - red-magic
+  - instant
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/128-galvanize.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/6/4/64ed3bfa-3294-45dd-825e-3afc2580f0d4.png?1706241871
 art_match_confidence: high
 needs_manual_review: false

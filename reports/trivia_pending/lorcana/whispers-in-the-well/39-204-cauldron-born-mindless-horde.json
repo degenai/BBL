@@ -1,0 +1,41 @@
+{
+  "card_name": "Cauldron Born - Mindless Horde",
+  "game": "Lorcana",
+  "set": "Whispers in the Well",
+  "collector_number": "39/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly 'Cauldron Born' — the named undead faction from The Black Cauldron (1985). Flavor text attributed to 'The Horned King,' the film's primary antagonist. The Black Cauldron franchise debut in Whispers in the Well confirmed by official Ravensburger press release. Storyborn classification consistent with direct film-canon depiction.",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "'My beloved warriors have come to life! All the dead of centuries past! Never has anyone created an army like this!' — The Horned King. Spoken at his moment of triumph during the Cauldron Born summoning in the 1985 film.",
+      "sources": ["card frontmatter", "Disney Wiki: Horned King", "Wikipedia: The Black Cauldron (film)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Black Cauldron (1985) had a troubled production; the Cauldron Born's flesh-melting scenes were cut to secure a PG rating — the film's first PG in Disney animated history.",
+      "sources": ["Wikipedia: The Black Cauldron (film)", "WebSearch snippet via TV Tropes"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Common Amethyst, 5 ink cost, 6 Strength / 7 Willpower, Storyborn. No keyword abilities — pure statline threat at common rarity, consistent with 'mindless horde' framing.",
+      "sources": ["TCGPlayer product listing", "WebSearch snippet via Mushu Report wiki"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Black Cauldron makes its first-ever Lorcana appearance in Whispers in the Well (Set 10, November 2025). Cauldron Born is the common entry point into the Horned King villain cluster.",
+      "sources": ["Official Ravensburger press release", "Lorcana Player: The Black Cauldron franchise list"]
+    }
+  ],
+  "related_cards": [
+    {"name": "The Horned King - Wicked Ruler", "set": "Whispers in the Well", "note": "Legendary villain (no. 36/204) + Enchanted (226/204); flavor text speaker"},
+    {"name": "The Black Cauldron", "set": "Whispers in the Well", "note": "Item card (no. 32/204) that summons these warriors in lore"},
+    {"name": "Castle of the Horned King - Bastion of Evil", "set": "Whispers in the Well", "note": "Villain lair location (no. 170/204) pairing with this unit"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

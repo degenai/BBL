@@ -1,6 +1,6 @@
 ---
 name: Get a Leg Up
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 161
 rarity: U
@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["centaur", "library", "books", "teamwork", "partnership", "urban", "climbing", "knowledge", "helper", "cooperation", "adventure"]
-tags_filter: ["duo", "mid-shot", "three-quarter", "green-magic", "instant", "scene-mode"]
+tags_hub:
+  - centaur
+  - library
+  - books
+  - teamwork
+  - partnership
+  - urban
+  - climbing
+  - knowledge
+  - helper
+  - cooperation
+  - adventure
+tags_filter:
+  - duo
+  - mid-shot
+  - three-quarter
+  - green-magic
+  - instant
+  - scene-mode
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/161-get-a-leg-up.png
 average_cost_paid: 0
-market_price: 0.19
-market_price_as_of: 2026-05-14
+market_price: 0.2
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/3/4/34e61e0f-d0f3-492a-92f1-36f72a91583a.png?1706241982
 art_match_confidence: high
 needs_manual_review: false

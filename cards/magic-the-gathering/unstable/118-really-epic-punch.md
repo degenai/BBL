@@ -1,6 +1,6 @@
 ---
 name: Really Epic Punch
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Unstable
 collector_number: 118
 rarity: C
@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["bear", "dragon", "combat", "animal", "fight", "nature", "predator", "serpent", "claws", "battle"]
-tags_filter: ["duo", "close-up", "green-magic", "instant", "action-mode"]
+tags_hub:
+  - bear
+  - dragon
+  - combat
+  - animal
+  - fight
+  - nature
+  - predator
+  - serpent
+  - claws
+  - battle
+tags_filter:
+  - duo
+  - close-up
+  - green-magic
+  - instant
+  - action-mode
 reference_image: cards/_images/magic-the-gathering/unstable/118-really-epic-punch.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/e/a/eabefc4a-4d5a-41bc-a791-38aa8ab0f9e6.png?1562944474
 art_match_confidence: high
 needs_manual_review: false

@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["warrior", "youth", "flight", "power", "determination", "half-saiyan", "saiyan", "hero", "speed", "energy"]
-tags_filter: ["solo", "wide", "action", "male-figure", "forward-facing", "leader-card", "flying"]
+tags_hub:
+  - warrior
+  - youth
+  - flight
+  - power
+  - determination
+  - half-saiyan
+  - saiyan
+  - hero
+  - speed
+  - energy
+tags_filter:
+  - solo
+  - wide
+  - action
+  - male-figure
+  - forward-facing
+  - leader-card
+  - flying
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-023-trunks-iron-vow-trunks.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/BT4-023_Trunks_-_Iron_Vow_Trunks.png?v=1529499142
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +47,9 @@ setting: void
 suspected_ip: Trunks (Dragon Ball Z / Dragon Ball Super)
 ip_confidence: high
 ip_verified: true
-characters: [trunks, wrath-of-the-dragon-saga]
+characters:
+  - trunks
+  - wrath-of-the-dragon-saga
 ---
 
 # Trunks // Iron Vow Trunks (Colossal Warfare)

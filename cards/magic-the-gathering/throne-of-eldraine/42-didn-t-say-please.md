@@ -1,6 +1,6 @@
 ---
 name: Didn't Say Please
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 42
 rarity: C
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["cloaked-figure", "robed-figure", "intruder", "punishment", "grasping-hand", "tendril", "magic", "trespasser", "ambush", "shadow", "manners", "snatching"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "action", "no-face", "blue-magic", "instant", "counterspell", "indoor", "chiaroscuro"]
+tags_hub:
+  - cloaked-figure
+  - robed-figure
+  - intruder
+  - punishment
+  - grasping-hand
+  - tendril
+  - magic
+  - trespasser
+  - ambush
+  - shadow
+  - manners
+  - snatching
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - action
+  - no-face
+  - blue-magic
+  - instant
+  - counterspell
+  - indoor
+  - chiaroscuro
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/42-didn-t-say-please.png
 average_cost_paid: 0
-market_price: 0.39
-market_price_as_of: 2026-05-14
+market_price: 0.4
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

@@ -1,6 +1,6 @@
 ---
 name: Join the Dead
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: The Lost Caverns of Ixalan
 collector_number: 110
 rarity: C
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["dinosaur", "ghost", "cavern", "undead", "spirit", "underground", "horror", "darkness", "predator", "cursed", "death", "Ixalan"]
-tags_filter: ["group", "wide", "scene-mode", "forward-facing", "sorcery", "black-magic", "creature-dinosaur", "no-face"]
+tags_hub:
+  - dinosaur
+  - ghost
+  - cavern
+  - undead
+  - spirit
+  - underground
+  - horror
+  - darkness
+  - predator
+  - cursed
+  - death
+  - Ixalan
+tags_filter:
+  - group
+  - wide
+  - scene-mode
+  - forward-facing
+  - sorcery
+  - black-magic
+  - creature-dinosaur
+  - no-face
 reference_image: cards/_images/magic-the-gathering/the-lost-caverns-of-ixalan/110-join-the-dead.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/b/5/b5bf6c25-a7d7-40b6-aa19-f852d348967f.png?1699044147
 art_match_confidence: high
 needs_manual_review: false

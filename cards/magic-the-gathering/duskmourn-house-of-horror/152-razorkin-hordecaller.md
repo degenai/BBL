@@ -1,7 +1,7 @@
 ---
 name: Razorkin Hordecaller
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 152
 rarity: U
 variance: Normal
@@ -10,14 +10,40 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["clown", "mask", "berserker", "fire", "gremlin", "pack", "horde", "carnival", "charge", "weapons", "armor", "hell-scene", "horror"]
-tags_filter: ["group", "wide-shot", "forward-facing", "scene-mode", "action-mode", "masked-face", "no-visible-face", "creature-human", "creature-clown", "creature-berserker", "red-magic", "haste", "token-maker"]
+tags_hub:
+  - clown
+  - mask
+  - berserker
+  - fire
+  - gremlin
+  - pack
+  - horde
+  - carnival
+  - charge
+  - weapons
+  - armor
+  - hell-scene
+  - horror
+tags_filter:
+  - group
+  - wide-shot
+  - forward-facing
+  - scene-mode
+  - action-mode
+  - masked-face
+  - no-visible-face
+  - creature-human
+  - creature-clown
+  - creature-berserker
+  - red-magic
+  - haste
+  - token-maker
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/152-razorkin-hordecaller.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price: 0.09
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/f/7/f7fb0f11-d1d0-4941-a1a7-a2db88f30394.png?1726286414
 art_match_confidence: high
 needs_manual_review: false

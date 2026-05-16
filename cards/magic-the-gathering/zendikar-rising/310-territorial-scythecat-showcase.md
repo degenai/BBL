@@ -1,6 +1,6 @@
 ---
 name: Territorial Scythecat (Showcase)
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Zendikar Rising
 collector_number: 310
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["cat", "predator", "desert", "wasteland", "blades", "fangs", "hunter", "feral-beast", "wilderness", "stalking", "claws", "wildlife"]
-tags_filter: ["solo", "mid-shot", "three-quarter-facing", "scene-mode", "no-figure", "creature-cat", "green-magic", "landfall", "trample"]
+tags_hub:
+  - cat
+  - predator
+  - desert
+  - wasteland
+  - blades
+  - fangs
+  - hunter
+  - feral-beast
+  - wilderness
+  - stalking
+  - claws
+  - wildlife
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter-facing
+  - scene-mode
+  - no-figure
+  - creature-cat
+  - green-magic
+  - landfall
+  - trample
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/310-territorial-scythecat-showcase.png
 average_cost_paid: 0
 market_price: 0.19
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["warrior", "saiyan", "youth", "identity", "heritage", "birth-name", "origin", "combat", "determination", "hero", "legacy", "martial-arts"]
-tags_filter: ["duo", "mid-shot", "narrative", "forward-facing", "male-figure", "anime"]
+tags_hub:
+  - warrior
+  - saiyan
+  - youth
+  - identity
+  - heritage
+  - birth-name
+  - origin
+  - combat
+  - determination
+  - hero
+  - legacy
+  - martial-arts
+tags_filter:
+  - duo
+  - mid-shot
+  - narrative
+  - forward-facing
+  - male-figure
+  - anime
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-082-kakarot.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401036854/80C9C6CF45D2FCE823F20962EF761BE4E4479EA5/
 image_width: 624
 image_height: 869
@@ -30,7 +48,8 @@ setting: other
 suspected_ip: Son Goku / Kakarot (Dragon Ball Super)
 ip_confidence: high
 ip_verified: true
-characters: [saiyan]
+characters:
+  - saiyan
 ---
 
 # Kakarot (Colossal Warfare)

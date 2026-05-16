@@ -1,6 +1,6 @@
 ---
 name: Relic of Progenitus
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Eternal Masters
 collector_number: 231
 rarity: U
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["relic", "runes", "forest", "ancient", "ruins", "nature", "magic", "stone", "wood", "hidden-knowledge", "overgrowth"]
-tags_filter: ["no-figures", "mid-shot", "scene-mode", "forward-facing", "no-face", "artifact-type", "colorless-magic", "graveyard-hate", "exile-effect", "card-draw", "artifact"]
+tags_hub:
+  - relic
+  - runes
+  - forest
+  - ancient
+  - ruins
+  - nature
+  - magic
+  - stone
+  - wood
+  - hidden-knowledge
+  - overgrowth
+tags_filter:
+  - no-figures
+  - mid-shot
+  - scene-mode
+  - forward-facing
+  - no-face
+  - artifact-type
+  - colorless-magic
+  - graveyard-hate
+  - exile-effect
+  - card-draw
+  - artifact
 reference_image: cards/_images/magic-the-gathering/eternal-masters/231-relic-of-progenitus.png
 average_cost_paid: 0
-market_price: 5.71
-market_price_as_of: 2026-05-14
+market_price: 5.68
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +51,7 @@ artist: Jean-Sébastien Rossbach
 art_crop_image: cards/_images/magic-the-gathering/eternal-masters/231-relic-of-progenitus--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/3/436cd66c-0622-43cd-8748-af4d21a2db3f.jpg?1580015265
 flavor_text: Elves believe the hydra-god Progenitus sleeps beneath Naya, feeding on forgotten magics.
-oracle_text: {T}: Target player exiles a card from their graveyard.\n{1}, Exile this artifact: Exile all graveyards. Draw a card.
+oracle_text: "{T}: Target player exiles a card from their graveyard.\\n{1}, Exile this artifact: Exile all graveyards. Draw a card."
 ---
 
 # Relic of Progenitus (Eternal Masters)

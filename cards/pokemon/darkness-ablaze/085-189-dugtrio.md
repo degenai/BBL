@@ -10,20 +10,41 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["underground", "burrowing", "earth", "dirt", "trio", "mole", "rodent", "triplets", "desert", "no-face-human", "small-creature"]
-tags_filter: ["group", "3-figures", "mid-shot", "forward-facing", "scene-mode", "no-human-figure", "fighting-type", "stage-1-evolution", "creature-only", "creature-collector"]
+tags_hub:
+  - underground
+  - burrowing
+  - earth
+  - dirt
+  - trio
+  - mole
+  - rodent
+  - triplets
+  - desert
+  - no-face-human
+  - small-creature
+tags_filter:
+  - group
+  - 3-figures
+  - mid-shot
+  - forward-facing
+  - scene-mode
+  - no-human-figure
+  - fighting-type
+  - stage-1-evolution
+  - creature-only
+  - creature-collector
 reference_image: cards/_images/pokemon/darkness-ablaze/085-189-dugtrio.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/85_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Yukiko Baba
 flavor_text: A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.
-oracle_text: Dig (Fighting) 30: Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.\nMud Bomb (FightingColorless) 70
+oracle_text: "Dig (Fighting) 30: Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.\\nMud Bomb (FightingColorless) 70"
 mood: comedic
 time_of_day: indeterminate
 setting: desert

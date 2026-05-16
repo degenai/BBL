@@ -1,6 +1,6 @@
 ---
 name: Sliver Construct
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Magic 2014 (M14)
 collector_number: 218
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["sliver", "construct", "artifact-creature", "hive", "claws", "blades", "machine", "biomechanical", "smoke", "monster", "predator", "faceless"]
-tags_filter: ["solo", "mid-shot", "faces-left", "portrait-mode", "no-face", "creature-construct", "creature-sliver", "artifact", "colorless-magic"]
+tags_hub:
+  - sliver
+  - construct
+  - artifact-creature
+  - hive
+  - claws
+  - blades
+  - machine
+  - biomechanical
+  - smoke
+  - monster
+  - predator
+  - faceless
+tags_filter:
+  - solo
+  - mid-shot
+  - faces-left
+  - portrait-mode
+  - no-face
+  - creature-construct
+  - creature-sliver
+  - artifact
+  - colorless-magic
 reference_image: cards/_images/magic-the-gathering/magic-2014-m14/218-sliver-construct.png
 average_cost_paid: 0
 market_price: 0.28
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/3/1/3129645a-221c-4eb5-88fd-12cc742a1dfe.png?1562827665
 art_match_confidence: high
 needs_manual_review: false

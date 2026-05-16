@@ -1,7 +1,7 @@
 ---
 name: Faerie Vandal
-game: Magic: The Gathering
-set: Commander: Zendikar Rising
+game: "Magic: The Gathering"
+set: "Commander: Zendikar Rising"
 collector_number: 26
 rarity: U
 variance: Normal
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["faerie", "wings", "thief", "rogue", "halo", "mischief", "winged-figure", "iridescence", "trickster", "stolen-treasure", "small-folk", "gold"]
-tags_filter: ["solo", "mid-shot", "faces-left", "portrait-mode", "female-figure", "blue-magic", "creature-faerie", "creature-rogue", "flying", "flash"]
+tags_hub:
+  - faerie
+  - wings
+  - thief
+  - rogue
+  - halo
+  - mischief
+  - winged-figure
+  - iridescence
+  - trickster
+  - stolen-treasure
+  - small-folk
+  - gold
+tags_filter:
+  - solo
+  - mid-shot
+  - faces-left
+  - portrait-mode
+  - female-figure
+  - blue-magic
+  - creature-faerie
+  - creature-rogue
+  - flying
+  - flash
 reference_image: cards/_images/magic-the-gathering/commander-zendikar-rising/26-faerie-vandal.png
 average_cost_paid: 0
 market_price: 0.24
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/0/4/04692219-8850-4b05-aa60-64f32b0daade.png?1604195992
 art_match_confidence: high
 needs_manual_review: false

@@ -1,7 +1,16 @@
 ---
 type: character
 name: "Baby (Dragon Ball GT)"
-aliases: [baby, baby-tuffle, baby-vegeta, super-baby, super-baby-2, golden-great-ape-baby, rampaging-great-ape-baby, machine-mutant-baby, tuffle-parasite]
+aliases:
+  - baby
+  - baby-tuffle
+  - baby-vegeta
+  - super-baby
+  - super-baby-2
+  - golden-great-ape-baby
+  - rampaging-great-ape-baby
+  - machine-mutant-baby
+  - tuffle-parasite
 universe: "Dragon Ball / Dragon Ball GT (Toei Animation, 1996–1997); the Baby Saga is GT's opening arc (episodes 1–40, plus Baby's reappearance in 'A Hero's Legacy' continuity)"
 faction: "Tuffle Survivor / Machine Mutant — last living member of the Tuffles, a humanoid civilization wiped out by Saiyans on Planet Plant (renamed Planet Vegeta after the conquest); created/recreated by Dr. Myuu as a Machine Mutant hybrid; effectively self-caused via a canonical bootstrap paradox in which Baby's own creation in Age 730 precedes his creation of Dr. Myuu in Age 740"
 species: "Tuffle parasite / Machine Mutant. Native form is a small lean blue-skinned humanoid; primary combat operation is parasitic possession of a host body, with Baby's consciousness driving the host's physiology and Baby's hair and skin coloring partially overriding the host's identifying features. Apex form is Baby Vegeta (possessed Vegeta + Super Saiyan power-state escalation), culminating in Golden Great Ape Baby (Vegeta's tail regenerated under Baby's control, allowing a Saiyan Great Ape transformation under Baby's mind)"
@@ -17,7 +26,9 @@ appears_on:
   - dragon-ball-super/cross-worlds/bt3-017-dr-myuu-under-baby-s-control
 related_hubs: []
 related_symbols: []
-related_characters: [trunks, machine-mutants-m2]
+related_characters:
+  - trunks
+  - machine-mutants-m2
 ip_resolution_for: baby-dragon-ball-gt
 ---
 

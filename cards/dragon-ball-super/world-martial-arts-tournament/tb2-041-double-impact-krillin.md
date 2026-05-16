@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["martial-arts", "tournament", "bald", "underdog", "punch", "energy-aura", "loyalty", "friendship", "determination", "human-fighter"]
-tags_filter: ["solo", "mid-shot", "action", "male-figure", "anime-style", "three-quarter"]
+tags_hub:
+  - martial-arts
+  - tournament
+  - bald
+  - underdog
+  - punch
+  - energy-aura
+  - loyalty
+  - friendship
+  - determination
+  - human-fighter
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - male-figure
+  - anime-style
+  - three-quarter
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-041-double-impact-krillin.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/TB2-041.png
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +46,8 @@ setting: void
 suspected_ip: Krillin (Dragon Ball)
 ip_confidence: high
 ip_verified: false
-characters: [krillin]
+characters:
+  - krillin
 ---
 
 # Double Impact Krillin (World Martial Arts Tournament)

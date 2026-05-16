@@ -1,6 +1,6 @@
 ---
 name: Blue Elemental Blast
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Masters 25
 collector_number: 43
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["fire", "lightning", "elemental", "magic", "energy-beam", "counterspell", "destruction", "water-magic", "blue-vs-red", "spell-effect", "flame", "ice"]
-tags_filter: ["no-figures", "close-up", "abstract-mode", "instant", "blue-magic", "anti-red"]
+tags_hub:
+  - fire
+  - lightning
+  - elemental
+  - magic
+  - energy-beam
+  - counterspell
+  - destruction
+  - water-magic
+  - blue-vs-red
+  - spell-effect
+  - flame
+  - ice
+tags_filter:
+  - no-figures
+  - close-up
+  - abstract-mode
+  - instant
+  - blue-magic
+  - anti-red
 reference_image: cards/_images/magic-the-gathering/masters-25/43-blue-elemental-blast.png
 average_cost_paid: 0
-market_price: 1.5
-market_price_as_of: 2026-05-14
+market_price: 1.54
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/2/f/2f51f88f-f662-4572-a371-9a77718ed079.png?1562434032
 art_match_confidence: high
 needs_manual_review: false

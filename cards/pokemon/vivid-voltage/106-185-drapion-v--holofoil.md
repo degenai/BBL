@@ -10,19 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["scorpion", "poison", "predator", "purple", "armor", "claws", "darkness", "creature", "threat", "arthropod"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "darkness-energy", "colorless-energy", "pokemon-v", "no-face"]
+tags_hub:
+  - scorpion
+  - poison
+  - predator
+  - purple
+  - armor
+  - claws
+  - darkness
+  - creature
+  - threat
+  - arthropod
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - darkness-energy
+  - colorless-energy
+  - pokemon-v
+  - no-face
 reference_image: cards/_images/pokemon/vivid-voltage/106-185-drapion-v--holofoil.png
 average_cost_paid: 0
-market_price: 0.65
-market_price_as_of: 2026-05-14
+market_price: 0.63
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh4/106_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Eske Yoshinob
-oracle_text: V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.\nWrack Down (DarknessColorlessColorless) 70\nHazardous Claws (DarknessColorlessColorlessColorless) 130: Discard 2 Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed and Poisoned.
+oracle_text: "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.\\nWrack Down (DarknessColorlessColorless) 70\\nHazardous Claws (DarknessColorlessColorlessColorless) 130: Discard 2 Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed and Poisoned."
 mood: action
 time_of_day: indeterminate
 setting: other

@@ -1,7 +1,12 @@
 ---
 type: character
 name: Babidi
-aliases: [babidi, dark-wizard-babidi, evil-wizard-babidi, dabura-master, magicians-master]
+aliases:
+  - babidi
+  - dark-wizard-babidi
+  - evil-wizard-babidi
+  - dabura-master
+  - magicians-master
 universe: "Dragon Ball / Dragon Ball Z (Toei Animation, 1989–1996); the Babidi Saga is the second arc of the Buu Saga (DBZ episodes 220–253), reintroduced with retroactive cross-universe origin in Dragon Ball DAIMA (2024)"
 faction: "Dark Wizard's Operation — Babidi's spaceship-based revival cult; he is the son and operational successor of Bibidi, the original creator of Majin Buu; his combat staff is a hierarchy of Manipulation-Sorcery-enslaved henchmen (Pui Pui → Yakon → Dabura → Buu) descending in floor-order through his spaceship's six-level dungeon"
 species: "Alien sorcerer — small humanoid with disproportionately large rounded head and large eyes; clone/biological son of Bibidi; canonically establishes the Manipulation Sorcery (Mahōfūsatsu) magic system that subjugates targets carrying any trace of evil in their hearts. Dragon Ball DAIMA (2024) retroactively places Babidi and Dabura as originating from another universe"
@@ -16,7 +21,8 @@ appears_on:
   - dragon-ball-super/world-martial-arts-tournament/tb2-018-babidi-s-spaceship
 related_hubs: []
 related_symbols: []
-related_characters: [wrath-of-the-dragon-saga]
+related_characters:
+  - wrath-of-the-dragon-saga
 ip_resolution_for: babidi
 ---
 

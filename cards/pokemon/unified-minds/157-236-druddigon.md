@@ -13,20 +13,36 @@ bundles: []
 suspected_ip: Druddigon
 ip_confidence: high
 ip_verified: true
-tags_hub: ["dragon", "spikes", "mountain", "predator", "aggression", "cave", "scales", "red-face", "wings", "strength", "territory"]
-tags_filter: ["solo", "mid-shot", "no-face", "dragon-type", "common"]
+tags_hub:
+  - dragon
+  - spikes
+  - mountain
+  - predator
+  - aggression
+  - cave
+  - scales
+  - red-face
+  - wings
+  - strength
+  - territory
+tags_filter:
+  - solo
+  - mid-shot
+  - no-face
+  - dragon-type
+  - common
 reference_image: cards/_images/pokemon/unified-minds/157-236-druddigon.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-14
+market_price: 0.2
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm11/157_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: hatachu
 flavor_text: The red skin on its face is harder than rock. In narrow caves, it squares off against its enemies and charges face-first right into them.
-oracle_text: Drag Off (ColorlessColorless): Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. This attack does 30 damage to the new Active Pokémon.\nDragon Tail (FireWaterColorless) 100×: Flip 2 coins. This attack does 100 damage for each heads.
+oracle_text: "Drag Off (ColorlessColorless): Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. This attack does 30 damage to the new Active Pokémon.\\nDragon Tail (FireWaterColorless) 100×: Flip 2 coins. This attack does 100 damage for each heads."
 mood: action
 time_of_day: indeterminate
 setting: mountain

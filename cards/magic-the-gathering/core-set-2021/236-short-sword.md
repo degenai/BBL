@@ -1,6 +1,6 @@
 ---
 name: Short Sword
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 236
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["sword", "weapon", "blade", "stained-glass", "chapel", "sacred-object", "relic", "still-life", "gold-light", "equipment-icon", "ceremony"]
-tags_filter: ["no-face", "no-figure-count", "close-up", "portrait-mode", "centered-composition", "object-only", "artifact", "equipment", "colorless-magic", "no-figure"]
+tags_hub:
+  - sword
+  - weapon
+  - blade
+  - stained-glass
+  - chapel
+  - sacred-object
+  - relic
+  - still-life
+  - gold-light
+  - equipment-icon
+  - ceremony
+tags_filter:
+  - no-face
+  - no-figure-count
+  - close-up
+  - portrait-mode
+  - centered-composition
+  - object-only
+  - artifact
+  - equipment
+  - colorless-magic
+  - no-figure
 reference_image: cards/_images/magic-the-gathering/core-set-2021/236-short-sword.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -29,7 +50,7 @@ artist: John Severin Brassell
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/236-short-sword--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/7/973c166e-3e93-4ed5-b4c5-84dc158a8e4f.jpg?1594737540
 flavor_text: \"Sometimes the only difference between a martyr and a hero is a sword.\"\n—Captain Sisay, *Memoirs*
-oracle_text: Equipped creature gets +1/+1.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+oracle_text: "Equipped creature gets +1/+1.\\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
 ---
 
 # Short Sword (Core Set 2021)

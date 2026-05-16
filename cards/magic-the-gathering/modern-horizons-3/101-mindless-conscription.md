@@ -1,6 +1,6 @@
 ---
 name: Mindless Conscription
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 101
 rarity: U
@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["zombie", "undead", "horde", "army", "necromancy", "dark-ritual", "mass-death", "obelisk", "conscription", "dread", "apocalypse"]
-tags_filter: ["crowd", "wide", "scene-mode", "black-magic", "enchantment", "amass"]
+tags_hub:
+  - zombie
+  - undead
+  - horde
+  - army
+  - necromancy
+  - dark-ritual
+  - mass-death
+  - obelisk
+  - conscription
+  - dread
+  - apocalypse
+tags_filter:
+  - crowd
+  - wide
+  - scene-mode
+  - black-magic
+  - enchantment
+  - amass
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/101-mindless-conscription.png
 average_cost_paid: 0
-market_price: 0.19
-market_price_as_of: 2026-05-14
+market_price: 0.2
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/1/a/1af5b195-101a-4265-98a7-522a968cf218.png?1717012023
 art_match_confidence: high
 needs_manual_review: false

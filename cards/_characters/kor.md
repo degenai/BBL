@@ -1,7 +1,12 @@
 ---
 type: character
 name: Kor
-aliases: [kor, the-kor, kor-people, kor-race, zendikar-kor]
+aliases:
+  - kor
+  - the-kor
+  - kor-people
+  - kor-race
+  - zendikar-kor
 universe: "Magic: The Gathering / Zendikar"
 faction: "Kor (Zendikar-native plate-armored nomadic warrior race; this node IS the race/faction)"
 species: "humanoid-race (slender, pale-skinned, white-or-grey-haired Zendikari humanoids; ritualistic facemark warpaint; characteristic plate armor, rope-and-hook climbing rigs, kitesails for canyon and cliff traversal; predominantly white-aligned in MTG color identity with multicolor allies-block extensions)"
@@ -20,9 +25,11 @@ appears_on:
   - magic-the-gathering/battle-for-zendikar/53-unified-front
   - magic-the-gathering/zendikar-rising/14-farsight-adept--foil
   - magic-the-gathering/oath-of-the-gatewatch/24-kor-sky-climber
-related_hubs: [labor, rebellion, stewardship]
+related_hubs: "[labor, rebellion, stewardship]"
 related_symbols: []
-related_characters: [eldrazi, zendikari-resistance]
+related_characters:
+  - eldrazi
+  - zendikari-resistance
 ip_resolution_for: kor
 ---
 

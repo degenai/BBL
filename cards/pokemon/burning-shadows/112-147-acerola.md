@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["trainer", "alola", "ghost-type", "youth", "purple", "summoner", "healer", "caretaker", "girl", "elite-four"]
-tags_filter: ["solo", "portrait", "forward-facing", "mid-shot", "female-figure", "supporter", "trainer-card"]
+tags_hub:
+  - trainer
+  - alola
+  - ghost-type
+  - youth
+  - purple
+  - summoner
+  - healer
+  - caretaker
+  - girl
+  - elite-four
+tags_filter:
+  - solo
+  - portrait
+  - forward-facing
+  - mid-shot
+  - female-figure
+  - supporter
+  - trainer-card
 reference_image: cards/_images/pokemon/burning-shadows/112-147-acerola.png
 average_cost_paid: 0
 market_price: 0.22
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm3/112_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -29,7 +46,11 @@ setting: other
 suspected_ip: Acerola
 ip_confidence: high
 ip_verified: true
-characters: [acerola, alola-elite-four, alola-trial-captains, aether-foundation]
+characters:
+  - acerola
+  - alola-elite-four
+  - alola-trial-captains
+  - aether-foundation
 ---
 
 # Acerola (Burning Shadows)

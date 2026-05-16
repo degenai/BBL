@@ -1,6 +1,6 @@
 ---
 name: Boiling Earth
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Battle for Zendikar
 collector_number: 142
 rarity: C
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["volcano", "lava", "fire", "eruption", "elemental", "earth", "awakening", "zendikar", "nature", "catastrophe", "heat"]
-tags_filter: ["solo", "wide", "scene-mode", "red-magic", "sorcery", "awaken", "no-face", "away-facing"]
+tags_hub:
+  - volcano
+  - lava
+  - fire
+  - eruption
+  - elemental
+  - earth
+  - awakening
+  - zendikar
+  - nature
+  - catastrophe
+  - heat
+tags_filter:
+  - solo
+  - wide
+  - scene-mode
+  - red-magic
+  - sorcery
+  - awaken
+  - no-face
+  - away-facing
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/142-boiling-earth.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/c/d/cdaab44c-4ce1-43fb-915c-c687fe8559ce.png?1562943558
 art_match_confidence: high
 needs_manual_review: false

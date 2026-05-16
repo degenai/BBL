@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["villain", "authority", "boss", "command", "formal", "rose", "power", "entourage", "control", "disruption", "corporate", "dark"]
-tags_filter: ["group", "mid-shot", "three-quarter", "narrative-mode", "trainer-supporter", "no-energy-type", "male-figure"]
+tags_hub:
+  - villain
+  - authority
+  - boss
+  - command
+  - formal
+  - rose
+  - power
+  - entourage
+  - control
+  - disruption
+  - corporate
+  - dark
+tags_filter:
+  - group
+  - mid-shot
+  - three-quarter
+  - narrative-mode
+  - trainer-supporter
+  - no-energy-type
+  - male-figure
 reference_image: cards/_images/pokemon/rebel-clash/154-192-boss-s-orders--holofoil.png
 average_cost_paid: 0
-market_price: 1.53
-market_price_as_of: 2026-05-14
+market_price: 1.56
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh2/154_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -29,7 +48,8 @@ setting: indoor
 suspected_ip: Giovanni
 ip_confidence: high
 ip_verified: true
-characters: ["team-rocket"]
+characters:
+  - team-rocket
 ---
 
 # Boss's Orders (Rebel Clash)

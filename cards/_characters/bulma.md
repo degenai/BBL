@@ -1,7 +1,13 @@
 ---
 type: character
 name: Bulma
-aliases: [bulma, bulma-briefs, capsule-corp-bulma, dependable-mom-bulma, multimech-bulma, explorer-bulma]
+aliases:
+  - bulma
+  - bulma-briefs
+  - capsule-corp-bulma
+  - dependable-mom-bulma
+  - multimech-bulma
+  - explorer-bulma
 universe: "Dragon Ball franchise (Akira Toriyama, manga 1984-1995; Toei Animation, 1986-present); recurring across Dragon Ball (1986-1989), Dragon Ball Z (1989-1996), Dragon Ball GT (1996-1997), Dragon Ball Super (2015-2018), Dragon Ball Super: Broly (2018), Dragon Ball Super: Super Hero (2022), Dragon Ball Daima (2024-2025), the Bandai-canonical Dragon Ball Heroes / Xenoverse expansions, and the Dragon Ball Super Card Game printings"
 faction: ~
 species: Earthling human; daughter of Dr. Brief and Panchy of Capsule Corporation; wife of Vegeta; mother of Trunks and Bulla
@@ -12,9 +18,12 @@ appears_on:
   - dragon-ball-super/colossal-warfare/bt4-092-multimech-bulma
   - dragon-ball-super/colossal-warfare/bt4-093-explorer-bulma
   - dragon-ball-super/union-force/bt2-066-trunks-time-machine
-related_hubs: [labor]
+related_hubs: "[labor]"
 related_symbols: []
-related_characters: [trunks, vegeta, son-goku]
+related_characters:
+  - trunks
+  - vegeta
+  - son-goku
 ip_resolution_for: bulma
 ---
 

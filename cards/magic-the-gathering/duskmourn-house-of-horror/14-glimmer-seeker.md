@@ -1,7 +1,7 @@
 ---
 name: Glimmer Seeker
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 14
 rarity: U
 variance: Normal
@@ -10,16 +10,42 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["key", "explorer", "survivor", "lantern-light", "discovery", "wonder", "cavern", "spelunker", "goggles", "tendrils", "treasure-hunter", "young-woman"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "female-figure", "narrative-mode", "white-magic", "creature-human", "creature-survivor", "common-rarity", "duskmourn", "card-draw", "token-generator"]
-characters: ["dsk-survival-archetype"]
-symbols: ["survival"]
+tags_hub:
+  - key
+  - explorer
+  - survivor
+  - lantern-light
+  - discovery
+  - wonder
+  - cavern
+  - spelunker
+  - goggles
+  - tendrils
+  - treasure-hunter
+  - young-woman
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - female-figure
+  - narrative-mode
+  - white-magic
+  - creature-human
+  - creature-survivor
+  - common-rarity
+  - duskmourn
+  - card-draw
+  - token-generator
+characters:
+  - dsk-survival-archetype
+symbols:
+  - survival
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/14-glimmer-seeker.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/7/f/7f06bbb1-0c7d-4803-9b35-8a2206803eed.png?1726285911
 art_match_confidence: high
 needs_manual_review: false

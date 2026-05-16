@@ -1,6 +1,6 @@
 ---
 name: Flotsam // Jetsam
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 247
 rarity: U
@@ -10,21 +10,42 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["water", "drowning", "underwater", "corpse", "murder", "evidence-disposal", "fish", "mystery", "noir", "river", "night-water", "investigation"]
-tags_filter: ["split-card", "duo", "scene-mode", "no-face", "blue-magic", "instant", "sorcery", "mill", "investigate"]
+tags_hub:
+  - water
+  - drowning
+  - underwater
+  - corpse
+  - murder
+  - evidence-disposal
+  - fish
+  - mystery
+  - noir
+  - river
+  - night-water
+  - investigation
+tags_filter:
+  - split-card
+  - duo
+  - scene-mode
+  - no-face
+  - blue-magic
+  - instant
+  - sorcery
+  - mill
+  - investigate
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/247-flotsam-jetsam.png
 average_cost_paid: 0
 market_price: 0.16
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/c/1/c1500cbf-5619-465e-a97b-75e676ce789b.png?1706900060
 art_match_confidence: high
 needs_manual_review: false
 artist: Anastasia Ovchinnikova
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/247-flotsam-jetsam--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/1/c1500cbf-5619-465e-a97b-75e676ce789b.jpg?1706900060
-oracle_text: Mill three cards. Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")
+oracle_text: "Mill three cards. Investigate. (Create a Clue token. It's an artifact with \\\"{2}, Sacrifice this token: Draw a card.\\\")"
 mood: grim
 time_of_day: indeterminate
 setting: ocean

@@ -1,6 +1,6 @@
 ---
 name: Oko, the Trickster
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: The List
 collector_number: 309/269
 rarity: M
@@ -10,15 +10,39 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-characters: ["oko"]
-tags_hub: ["planeswalker", "fae", "trickster", "antlers", "stag", "horned-figure", "forest", "night", "magic", "spellcasting", "shirtless-figure", "mischief", "wilderness"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "male-figure", "green-magic", "blue-magic", "multicolor-green-blue", "planeswalker-card", "legendary"]
+characters:
+  - oko
+tags_hub:
+  - planeswalker
+  - fae
+  - trickster
+  - antlers
+  - stag
+  - horned-figure
+  - forest
+  - night
+  - magic
+  - spellcasting
+  - shirtless-figure
+  - mischief
+  - wilderness
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - scene-mode
+  - male-figure
+  - green-magic
+  - blue-magic
+  - multicolor-green-blue
+  - planeswalker-card
+  - legendary
 reference_image: cards/_images/magic-the-gathering/the-list/309-269-oko-the-trickster.png
 average_cost_paid: 0
 market_price: 0.91
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'The List'
@@ -32,7 +56,7 @@ ip_verified: true
 artist: Chris Rallis
 art_crop_image: cards/_images/magic-the-gathering/the-list/309-269-oko-the-trickster--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/2/d2fbecdc-1c6f-44e5-9491-18dda73f3a99.jpg?1693275701
-oracle_text: +1: Put two +1/+1 counters on up to one target creature you control.\n0: Until end of turn, Oko becomes a copy of target creature you control. Prevent all damage that would be dealt to him this turn.\n−7: Until end of turn, each creature you control has base power and toughness 10/10 and gains trample.
+oracle_text: "+1: Put two +1/+1 counters on up to one target creature you control.\\n0: Until end of turn, Oko becomes a copy of target creature you control. Prevent all damage that would be dealt to him this turn.\\n−7: Until end of turn, each creature you control has base power and toughness 10/10 and gains trample."
 ---
 
 # Oko, the Trickster (The List)

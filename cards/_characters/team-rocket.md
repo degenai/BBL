@@ -1,7 +1,13 @@
 ---
 type: character
 name: Team Rocket
-aliases: [team-rocket, rocket, team-rocket-kanto, the-rockets, rocket-organization, rocket-syndicate]
+aliases:
+  - team-rocket
+  - rocket
+  - team-rocket-kanto
+  - the-rockets
+  - rocket-organization
+  - rocket-syndicate
 universe: Pokemon / Kanto (Pokemon Red, Green, Blue, Yellow — Game Freak, 1996; expanded across Gold/Silver/Crystal, 1999 — Johto cell; anime series, 1997–present; expanded across most Pokemon media)
 faction: Team Rocket (Kanto-based criminal organization, founded and headed by Giovanni; Johto-era successor cell led by the four Executives — Archer, Ariana, Petrel, Proton — after Giovanni's disbandment; canonically the franchise's prototype Villainous Team, the template every subsequent regional crime org descends from)
 species: faction-collective (humans — Giovanni as Boss, Executives, Admins, Rocket Grunts as rank-and-file; partnered/coerced Pokemon — Persian as Giovanni's signature, Meowth as the anime's talking-Pokemon mascot, Pokemon abducted for trafficking and exploitation across the org's full operating history)
@@ -12,7 +18,8 @@ appears_on:
   - pokemon/destined-rivals/179-182-team-rocket-s-venture-bomb
 related_hubs: []
 related_symbols: []
-related_characters: [team-skull]
+related_characters:
+  - team-skull
 ip_resolution_for: team-rocket
 ---
 

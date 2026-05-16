@@ -1,6 +1,6 @@
 ---
 name: Llanowar Elves
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Mystery Booster Cards
 collector_number: 314
 rarity: C
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["elf", "druid", "warrior", "forest", "blade", "shirtless", "long-hair", "guardian", "defender", "wilderness", "ranger", "pointed-ears"]
-tags_filter: ["solo", "mid-shot", "three-quarter-facing", "male-figure", "action-mode", "creature-elf", "creature-druid", "green-magic", "mana-dork", "scene-mode"]
+tags_hub:
+  - elf
+  - druid
+  - warrior
+  - forest
+  - blade
+  - shirtless
+  - long-hair
+  - guardian
+  - defender
+  - wilderness
+  - ranger
+  - pointed-ears
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter-facing
+  - male-figure
+  - action-mode
+  - creature-elf
+  - creature-druid
+  - green-magic
+  - mana-dork
+  - scene-mode
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/314-llanowar-elves.png
 average_cost_paid: 0
-market_price: 0.45
-market_price_as_of: 2026-05-14
+market_price: 0.44
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -30,7 +52,7 @@ artist: Chris Rahn
 art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/314-llanowar-elves--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/7/57ebd34e-dfe1-4093-a302-db395047a546.jpg?1719593791
 flavor_text: As patient and generous as life, as harsh and merciless as nature.
-oracle_text: {T}: Add {G}.
+oracle_text: "{T}: Add {G}."
 ---
 
 # Llanowar Elves (Mystery Booster Cards)

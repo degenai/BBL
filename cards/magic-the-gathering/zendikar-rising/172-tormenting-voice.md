@@ -1,6 +1,6 @@
 ---
 name: Tormenting Voice
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Zendikar Rising
 collector_number: 172
 rarity: C
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["dragon", "goblin", "fire", "mountain", "scale-contrast", "monster", "fangs", "predator-and-prey", "small-vs-large", "shouting", "wilderness", "danger"]
-tags_filter: ["duo", "mid-shot", "red-magic", "sorcery", "no-face", "three-quarter-facing", "scene-mode"]
+tags_hub:
+  - dragon
+  - goblin
+  - fire
+  - mountain
+  - scale-contrast
+  - monster
+  - fangs
+  - predator-and-prey
+  - small-vs-large
+  - shouting
+  - wilderness
+  - danger
+tags_filter:
+  - duo
+  - mid-shot
+  - red-magic
+  - sorcery
+  - no-face
+  - three-quarter-facing
+  - scene-mode
 reference_image: cards/_images/magic-the-gathering/zendikar-rising/172-tormenting-voice.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

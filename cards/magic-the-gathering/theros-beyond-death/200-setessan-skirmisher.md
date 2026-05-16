@@ -1,23 +1,45 @@
 ---
 name: Setessan Skirmisher
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 200
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["archer", "bow", "hunter", "warrior", "soldier", "militia", "hillside", "meadow", "greek", "classical-antiquity", "skirmish", "battlefield"]
-tags_filter: ["group", "mid-shot", "faces-right", "action-mode", "male-figure", "scene-mode", "creature-human", "creature-warrior", "green-magic", "common-rarity"]
+tags_hub:
+  - archer
+  - bow
+  - hunter
+  - warrior
+  - soldier
+  - militia
+  - hillside
+  - meadow
+  - greek
+  - classical-antiquity
+  - skirmish
+  - battlefield
+tags_filter:
+  - group
+  - mid-shot
+  - faces-right
+  - action-mode
+  - male-figure
+  - scene-mode
+  - creature-human
+  - creature-warrior
+  - green-magic
+  - common-rarity
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/200-setessan-skirmisher.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

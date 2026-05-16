@@ -1,6 +1,6 @@
 ---
 name: Memorial to Glory
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Dominaria
 collector_number: 244
 rarity: U
@@ -10,14 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["memorial", "monument", "architecture", "columns", "cathedral", "hall-of-heroes", "ruins-and-monuments", "classical", "stone", "sky", "empty-place", "sacred-space"]
-tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "white-magic", "token-generator", "soldier-tokens", "sacrifice-outlet", "single-point-perspective", "daylight"]
+tags_hub:
+  - memorial
+  - monument
+  - architecture
+  - columns
+  - cathedral
+  - hall-of-heroes
+  - ruins-and-monuments
+  - classical
+  - stone
+  - sky
+  - empty-place
+  - sacred-space
+tags_filter:
+  - no-figures
+  - wide-shot
+  - scene-mode
+  - no-face
+  - land
+  - white-magic
+  - token-generator
+  - soldier-tokens
+  - sacrifice-outlet
+  - single-point-perspective
+  - daylight
 reference_image: cards/_images/magic-the-gathering/dominaria/244-memorial-to-glory.png
 average_cost_paid: 0
-market_price: 0.2
-market_price_as_of: 2026-05-14
+market_price: 0.22
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,7 +51,7 @@ setting: other
 artist: James Paick
 art_crop_image: cards/_images/magic-the-gathering/dominaria/244-memorial-to-glory--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/6/564d6ff1-2be1-42f1-a919-fe8c2e148c3f.jpg?1562735942
-oracle_text: This land enters tapped.\n{T}: Add {W}.\n{3}{W}, {T}, Sacrifice this land: Create two 1/1 white Soldier creature tokens.
+oracle_text: "This land enters tapped.\\n{T}: Add {W}.\\n{3}{W}, {T}, Sacrifice this land: Create two 1/1 white Soldier creature tokens."
 ---
 
 # Memorial to Glory (Dominaria)

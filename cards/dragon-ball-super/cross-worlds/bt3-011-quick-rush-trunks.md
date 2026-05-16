@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 5
 held_for_lair: 0
 bundles: []
-tags_hub: ["youth", "fighter", "hero", "rush", "energy", "purple", "speed", "determination", "martial-arts", "anime-style", "jacket"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "action", "male-figure", "anime", "portrait-mode", "dbs-red"]
+tags_hub:
+  - youth
+  - fighter
+  - hero
+  - rush
+  - energy
+  - purple
+  - speed
+  - determination
+  - martial-arts
+  - anime-style
+  - jacket
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - action
+  - male-figure
+  - anime
+  - portrait-mode
+  - dbs-red
 reference_image: cards/_images/dragon-ball-super/cross-worlds/bt3-011-quick-rush-trunks.png
 average_cost_paid: 0
 market_price: 0.01
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401004722/6987A1ED94BA891D7837C9928648D55A5ABD0B1A/
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +49,8 @@ ip_verified: true
 image_width: 624
 image_height: 871
 image_quality: med
-characters: [trunks]
+characters:
+  - trunks
 ---
 
 # Quick Rush Trunks (Cross Worlds)

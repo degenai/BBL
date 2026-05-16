@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["saiyan", "martial-arts", "orange-gi", "warrior", "hero", "spirit", "rising", "fighter", "determination", "aura", "iconic", "advance"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action-pose", "dbs-card", "suspected-ip", "dual-face-card"]
+tags_hub:
+  - saiyan
+  - martial-arts
+  - orange-gi
+  - warrior
+  - hero
+  - spirit
+  - rising
+  - fighter
+  - determination
+  - aura
+  - iconic
+  - advance
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action-pose
+  - dbs-card
+  - suspected-ip
+  - dual-face-card
 reference_image: cards/_images/dragon-ball-super/cross-worlds/sd2-01-son-goku-rising-spirit-super-saiyan-son-goku.png
 average_cost_paid: 0
 market_price: 0.22
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401481655/FD02B055F8EF92E945E7799F8FC41C8130BDC07E/
 image_width: 624
 image_height: 871

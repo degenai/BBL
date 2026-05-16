@@ -1,6 +1,6 @@
 ---
 name: Shipwreck Singer
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros
 collector_number: 203
 rarity: U
@@ -10,14 +10,38 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["siren", "wings", "ocean", "shipwreck", "song", "music", "singer", "rocks", "fog", "lure", "mythology", "predator", "winged-figure", "female-figure-myth"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "scene-mode", "blue-magic", "black-magic", "multicolor-blue-black", "creature-siren", "flying", "female-figure"]
+tags_hub:
+  - siren
+  - wings
+  - ocean
+  - shipwreck
+  - song
+  - music
+  - singer
+  - rocks
+  - fog
+  - lure
+  - mythology
+  - predator
+  - winged-figure
+  - female-figure-myth
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - scene-mode
+  - blue-magic
+  - black-magic
+  - multicolor-blue-black
+  - creature-siren
+  - flying
+  - female-figure
 reference_image: cards/_images/magic-the-gathering/theros/203-shipwreck-singer.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros'
@@ -29,7 +53,7 @@ artist: Daarken
 art_crop_image: cards/_images/magic-the-gathering/theros/203-shipwreck-singer--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/3/13ad0c03-66d9-4fe3-bc0d-ca67d959c285.jpg?1562814945
 flavor_text: Her melody melds death and beauty with such artistry that even the gods weep to hear it.
-oracle_text: Flying\n{1}{U}: Target creature an opponent controls attacks this turn if able.\n{1}{B}, {T}: Attacking creatures get -1/-1 until end of turn.
+oracle_text: "Flying\\n{1}{U}: Target creature an opponent controls attacks this turn if able.\\n{1}{B}, {T}: Attacking creatures get -1/-1 until end of turn."
 ---
 
 # Shipwreck Singer (Theros)

@@ -1,6 +1,6 @@
 ---
 name: Venom Sliver
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Magic 2015 (M15)
 collector_number: 205
 rarity: U
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["sliver", "hive-mind", "predator", "horror", "forest", "creature", "poison", "venom", "swamp", "alien", "collective", "darkness"]
-tags_filter: ["mid-shot", "solo", "faces-right", "portrait-mode", "no-face", "green-magic", "creature-sliver"]
+tags_hub:
+  - sliver
+  - hive-mind
+  - predator
+  - horror
+  - forest
+  - creature
+  - poison
+  - venom
+  - swamp
+  - alien
+  - collective
+  - darkness
+tags_filter:
+  - mid-shot
+  - solo
+  - faces-right
+  - portrait-mode
+  - no-face
+  - green-magic
+  - creature-sliver
 reference_image: cards/_images/magic-the-gathering/magic-2015-m15/205-venom-sliver.png
 average_cost_paid: 0
-market_price: 2.1
-market_price_as_of: 2026-05-14
+market_price: 2.21
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/8/d/8db38bd9-bf58-41ca-84b9-f3582670143e.png?1562790708
 art_match_confidence: high
 needs_manual_review: false

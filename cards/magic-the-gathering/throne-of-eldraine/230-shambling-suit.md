@@ -1,6 +1,6 @@
 ---
 name: Shambling Suit
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 230
 rarity: U
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["armor", "haunted-object", "construct", "knight", "squire", "winter", "snow", "forest", "sword", "empty-armor", "fairy-tale", "ambush"]
-tags_filter: ["duo", "2-figures", "mid-shot", "scene-mode", "no-face", "male-figure", "blue-magic", "artifact", "creature-construct", "forward-facing"]
+tags_hub:
+  - armor
+  - haunted-object
+  - construct
+  - knight
+  - squire
+  - winter
+  - snow
+  - forest
+  - sword
+  - empty-armor
+  - fairy-tale
+  - ambush
+tags_filter:
+  - duo
+  - 2-figures
+  - mid-shot
+  - scene-mode
+  - no-face
+  - male-figure
+  - blue-magic
+  - artifact
+  - creature-construct
+  - forward-facing
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/230-shambling-suit.png
 average_cost_paid: 0
-market_price: 0.3
-market_price_as_of: 2026-05-14
+market_price: 0.31
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'

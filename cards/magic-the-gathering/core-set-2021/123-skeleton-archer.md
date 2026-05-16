@@ -1,6 +1,6 @@
 ---
 name: Skeleton Archer
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 123
 rarity: C
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["skeleton", "undead", "archer", "bow", "hood", "robed-figure", "death", "necromancy", "marksman", "hunter", "cloak", "skull"]
-tags_filter: ["solo", "mid-shot", "three-quarter-facing", "no-face", "black-magic", "creature-skeleton", "humanoid-figure"]
+tags_hub:
+  - skeleton
+  - undead
+  - archer
+  - bow
+  - hood
+  - robed-figure
+  - death
+  - necromancy
+  - marksman
+  - hunter
+  - cloak
+  - skull
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter-facing
+  - no-face
+  - black-magic
+  - creature-skeleton
+  - humanoid-figure
 reference_image: cards/_images/magic-the-gathering/core-set-2021/123-skeleton-archer.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

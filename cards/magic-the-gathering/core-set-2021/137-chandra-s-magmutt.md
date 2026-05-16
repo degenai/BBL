@@ -1,6 +1,6 @@
 ---
 name: Chandra's Magmutt
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 137
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["dog", "fire", "elemental", "flame-creature", "loyal-companion", "ember", "hound", "pet", "smoke", "beast", "animal-companion", "fiery"]
-tags_filter: ["solo", "mid-shot", "faces-left", "portrait-mode", "no-face", "creature-elemental", "creature-dog", "red-magic", "common"]
+tags_hub:
+  - dog
+  - fire
+  - elemental
+  - flame-creature
+  - loyal-companion
+  - ember
+  - hound
+  - pet
+  - smoke
+  - beast
+  - animal-companion
+  - fiery
+tags_filter:
+  - solo
+  - mid-shot
+  - faces-left
+  - portrait-mode
+  - no-face
+  - creature-elemental
+  - creature-dog
+  - red-magic
+  - common
 reference_image: cards/_images/magic-the-gathering/core-set-2021/137-chandra-s-magmutt.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,12 +49,13 @@ setting: other
 suspected_ip: Chandra Nalaar
 ip_confidence: high
 ip_verified: true
-characters: ["chandra-nalaar"]
+characters:
+  - chandra-nalaar
 artist: Kimonas Theodossiou
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/137-chandra-s-magmutt--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/1/91d3e366-4da5-42c8-bbd5-a0c178c0da28.jpg?1594736548
 flavor_text: \"Is it purebred? No, but it's pure fire.\"\n—Chandra Nalaar
-oracle_text: {T}: This creature deals 1 damage to target player or planeswalker.
+oracle_text: "{T}: This creature deals 1 damage to target player or planeswalker."
 ---
 
 # Chandra's Magmutt (Core Set 2021)

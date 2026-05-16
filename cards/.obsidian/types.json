@@ -1,0 +1,15 @@
+{
+  "types": {
+    "tags_hub": "multitext",
+    "tags_filter": "multitext",
+    "characters": "multitext",
+    "symbols": "multitext",
+    "bundles": "multitext",
+    "aliases": "multitext",
+    "appears_on": "multitext",
+    "social": "multitext",
+    "related_characters": "multitext",
+    "ip_resolution_for": "multitext",
+    "vision_uncertainty": "multitext"
+  }
+}

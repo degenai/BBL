@@ -1,6 +1,6 @@
 ---
 name: Meteoric Mace
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 283
 rarity: U
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["mace", "weapon", "fire", "impact", "warrior", "combat", "power", "explosion", "smith", "iron", "battle", "force"]
-tags_filter: ["solo", "close-up", "action-mode", "colorless-magic", "artifact", "equipment", "cascade", "trample"]
+tags_hub:
+  - mace
+  - weapon
+  - fire
+  - impact
+  - warrior
+  - combat
+  - power
+  - explosion
+  - smith
+  - iron
+  - battle
+  - force
+tags_filter:
+  - solo
+  - close-up
+  - action-mode
+  - colorless-magic
+  - artifact
+  - equipment
+  - cascade
+  - trample
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/283-meteoric-mace.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price: 0.1
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/3/f/3fb34a09-d911-49ac-ac39-fad7ee1b41ef.png?1717013691
 art_match_confidence: high
 needs_manual_review: false

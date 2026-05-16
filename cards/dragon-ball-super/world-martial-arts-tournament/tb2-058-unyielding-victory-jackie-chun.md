@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["disguise", "elder", "martial-arts", "tournament", "hidden-identity", "mentor", "stewardship", "electricity", "white-hair", "trickster"]
-tags_filter: ["solo", "mid-shot", "action", "male-figure", "anime-style", "three-quarter"]
+tags_hub:
+  - disguise
+  - elder
+  - martial-arts
+  - tournament
+  - hidden-identity
+  - mentor
+  - stewardship
+  - electricity
+  - white-hair
+  - trickster
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - male-figure
+  - anime-style
+  - three-quarter
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-058-unyielding-victory-jackie-chun.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408081013/B553C20A254BE1627D0E1BCC5FE44A2E89602969/
 image_width: 624
 image_height: 871
@@ -30,7 +46,8 @@ setting: void
 suspected_ip: Jackie Chun / Master Roshi (Dragon Ball)
 ip_confidence: high
 ip_verified: true
-characters: [master-roshi]
+characters:
+  - master-roshi
 ---
 
 # Unyielding Victory Jackie Chun (World Martial Arts Tournament)

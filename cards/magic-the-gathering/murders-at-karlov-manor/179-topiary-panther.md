@@ -1,6 +1,6 @@
 ---
 name: Topiary Panther
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 179
 rarity: C
@@ -10,14 +10,38 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["cat", "big-cat", "panther", "garden", "topiary", "plant-creature", "hedge", "estate", "sculpture", "uncanny", "manor", "groundskeeping"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "creature-plant", "creature-cat", "green-magic", "common", "landcycling", "trample", "scene-mode", "no-figure", "daytime"]
+tags_hub:
+  - cat
+  - big-cat
+  - panther
+  - garden
+  - topiary
+  - plant-creature
+  - hedge
+  - estate
+  - sculpture
+  - uncanny
+  - manor
+  - groundskeeping
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - creature-plant
+  - creature-cat
+  - green-magic
+  - common
+  - landcycling
+  - trample
+  - scene-mode
+  - no-figure
+  - daytime
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/179-topiary-panther.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-10
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/0/3/03d0365e-6dee-4236-a997-6761e3cde90d.png?1706242093
 art_match_confidence: high
 needs_manual_review: false
@@ -28,7 +52,7 @@ artist: Xabi Gaztelua
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/179-topiary-panther--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/3/03d0365e-6dee-4236-a997-6761e3cde90d.jpg?1706242093
 flavor_text: The gardens around Karlov Manor are oddly bereft of birdsong.
-oracle_text: Trample\nBasic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+oracle_text: "Trample\\nBasic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
 ---
 
 # Topiary Panther (Murders at Karlov Manor)

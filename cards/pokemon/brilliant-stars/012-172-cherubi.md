@@ -10,20 +10,39 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["cherry", "fruit", "plant", "forest", "nature", "cute", "small", "round", "botanical", "daylight", "cozy"]
-tags_filter: ["solo", "close-up", "forward-facing", "creature-card", "basic-pokemon", "pokemon", "grass-type", "no-clothing"]
+tags_hub:
+  - cherry
+  - fruit
+  - plant
+  - forest
+  - nature
+  - cute
+  - small
+  - round
+  - botanical
+  - daylight
+  - cozy
+tags_filter:
+  - solo
+  - close-up
+  - forward-facing
+  - creature-card
+  - basic-pokemon
+  - pokemon
+  - grass-type
+  - no-clothing
 reference_image: cards/_images/pokemon/brilliant-stars/012-172-cherubi.png
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price: 0.05
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh9/12_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Naoyo Kimura
 flavor_text: The deeper a Cherubi's red, the more nutrients it has stockpiled in its body. And the sweeter and tastier its small ball!
-oracle_text: [Ability: Lively Fruit] Prevent all effects of attacks from your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)\nLeafage (GrassColorless) 20
+oracle_text: "[Ability: Lively Fruit] Prevent all effects of attacks from your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)\\nLeafage (GrassColorless) 20"
 mood: peaceful
 time_of_day: day
 setting: forest

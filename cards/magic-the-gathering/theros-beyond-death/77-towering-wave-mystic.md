@@ -1,23 +1,43 @@
 ---
 name: Towering-Wave Mystic
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 77
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["merfolk", "wizard", "ocean", "wave", "spellcaster", "water", "robed-figure", "sea-magic", "storm", "mystic", "mythic-greek", "ritual"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "blue-magic", "creature-merfolk", "creature-wizard", "mill"]
+tags_hub:
+  - merfolk
+  - wizard
+  - ocean
+  - wave
+  - spellcaster
+  - water
+  - robed-figure
+  - sea-magic
+  - storm
+  - mystic
+  - mythic-greek
+  - ritual
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action-mode
+  - blue-magic
+  - creature-merfolk
+  - creature-wizard
+  - mill
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/77-towering-wave-mystic.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price: 0.09
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,7 +46,8 @@ mood: sublime
 time_of_day: day
 setting: ocean
 artist: Jason Rainville
-characters: [theros-pantheon]
+characters:
+  - theros-pantheon
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/77-towering-wave-mystic--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/c/8c2b4ffc-b1e1-4b16-9a51-1a12f8256a27.jpg?1581479618
 flavor_text: Thassa's favor followed him to the Underworld. Even the waves of Nerono obeyed his will.

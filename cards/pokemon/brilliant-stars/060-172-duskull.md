@@ -10,20 +10,38 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["ghost", "skull", "eye", "darkness", "horror", "spirit", "haunting", "night", "villain", "mask", "single-eye"]
-tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "psychic-magic", "creature", "pokemon-psychic-type"]
+tags_hub:
+  - ghost
+  - skull
+  - eye
+  - darkness
+  - horror
+  - spirit
+  - haunting
+  - night
+  - villain
+  - mask
+  - single-eye
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - psychic-magic
+  - creature
+  - pokemon-psychic-type
 reference_image: cards/_images/pokemon/brilliant-stars/060-172-duskull.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price: 0.1
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh9/60_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: SATOSHI NAKAI
 flavor_text: If it finds bad children who won't listen to their parents, it will spirit them away—or so it's said.
-oracle_text: Perplex (Psychic) 10: Flip a coin. If heads, your opponent's Active Pokémon is now Confused.
+oracle_text: "Perplex (Psychic) 10: Flip a coin. If heads, your opponent's Active Pokémon is now Confused."
 mood: horror
 time_of_day: indeterminate
 setting: indoor

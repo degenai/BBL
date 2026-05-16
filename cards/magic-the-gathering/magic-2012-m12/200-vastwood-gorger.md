@@ -1,6 +1,6 @@
 ---
 name: Vastwood Gorger
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Magic 2012 (M12)
 collector_number: 
 rarity: C
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["giant-creature", "worm", "serpent", "monster", "scale", "canyon", "maw", "kaiju", "predator", "tentacle", "vastness", "terror"]
-tags_filter: ["wide", "scene-mode", "green-magic", "creature", "solo-creature", "group-figures-distant"]
+tags_hub:
+  - giant-creature
+  - worm
+  - serpent
+  - monster
+  - scale
+  - canyon
+  - maw
+  - kaiju
+  - predator
+  - tentacle
+  - vastness
+  - terror
+tags_filter:
+  - wide
+  - scene-mode
+  - green-magic
+  - creature
+  - solo-creature
+  - group-figures-distant
 reference_image: cards/_images/magic-the-gathering/magic-2012-m12/200-vastwood-gorger.png
 average_cost_paid: 0
-market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price: 0.05
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/c/d/cdd9d448-ebd5-4e01-af88-e755833c2451.png?1562660263
 art_match_confidence: high
 needs_manual_review: false

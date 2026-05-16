@@ -1,7 +1,7 @@
 ---
 name: Patched Plaything
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 24
 rarity: U
 variance: Normal
@@ -10,15 +10,35 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["teddy-bear", "doll", "toy-horror", "teeth", "stitched", "corrupted-childhood", "patchwork", "night", "monster", "horror", "uncanny", "innocence-lost"]
-tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "black-magic", "artifact-creature-toy", "double-strike"]
-characters: ["dsk-toy-horror"]
+tags_hub:
+  - teddy-bear
+  - doll
+  - toy-horror
+  - teeth
+  - stitched
+  - corrupted-childhood
+  - patchwork
+  - night
+  - monster
+  - horror
+  - uncanny
+  - innocence-lost
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - black-magic
+  - artifact-creature-toy
+  - double-strike
+characters:
+  - dsk-toy-horror
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/24-patched-plaything.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price: 0.09
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/5/1/513da431-4f3a-4f4a-8be4-7e162dd93307.png?1726285949
 art_match_confidence: high
 needs_manual_review: false

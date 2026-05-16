@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["ocean", "ship", "storm", "voyage", "waves", "adventure", "magic", "gold", "nautical", "peril", "discovery", "sublime"]
-tags_filter: ["wide", "narrative", "none-figure", "action-card", "no-face", "scene-mode"]
+tags_hub:
+  - ocean
+  - ship
+  - storm
+  - voyage
+  - waves
+  - adventure
+  - magic
+  - gold
+  - nautical
+  - peril
+  - discovery
+  - sublime
+tags_filter:
+  - wide
+  - narrative
+  - none-figure
+  - action-card
+  - no-face
+  - scene-mode
 reference_image: cards/_images/lorcana/azurite-sea/163-204-sail-the-azurite-sea.jpg
 average_cost_paid: 0
-market_price: 1.04
-market_price_as_of: 2026-05-14
+market_price: 1.12
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set6/163_d278d57fd15e17ac6d725aa3f868625ce4f970d8.jpg
 art_match_confidence: high
 needs_manual_review: false

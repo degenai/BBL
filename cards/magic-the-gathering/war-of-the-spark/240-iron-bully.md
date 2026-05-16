@@ -1,6 +1,6 @@
 ---
 name: Iron Bully
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 240
 rarity: C
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["golem", "construct", "iron", "chains", "forge", "fire", "smoke", "armor", "industrial", "menace", "bully", "machine"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "creature-construct", "creature-golem", "colorless", "artifact-creature", "menace-keyword"]
+tags_hub:
+  - golem
+  - construct
+  - iron
+  - chains
+  - forge
+  - fire
+  - smoke
+  - armor
+  - industrial
+  - menace
+  - bully
+  - machine
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - no-face
+  - creature-construct
+  - creature-golem
+  - colorless
+  - artifact-creature
+  - menace-keyword
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/240-iron-bully.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/d/e/ded2c66e-402c-4d5c-b987-402679aa914b.png?1557577426
 art_match_confidence: high
 needs_manual_review: false

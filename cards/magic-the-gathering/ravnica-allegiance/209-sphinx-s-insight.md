@@ -1,6 +1,6 @@
 ---
 name: Sphinx's Insight
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Ravnica Allegiance
 collector_number: 209
 rarity: C
@@ -10,15 +10,38 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-characters: ["azorius-senate"]
-tags_hub: ["sphinx", "blindfold", "halo", "oracle", "ritual", "glyphs", "meditation", "arcane", "knowledge", "robed-figure", "gold", "prophecy"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "blue-magic", "white-magic", "multicolor-white-blue", "instant", "no-background-scene", "centered-composition"]
+characters:
+  - azorius-senate
+tags_hub:
+  - sphinx
+  - blindfold
+  - halo
+  - oracle
+  - ritual
+  - glyphs
+  - meditation
+  - arcane
+  - knowledge
+  - robed-figure
+  - gold
+  - prophecy
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - blue-magic
+  - white-magic
+  - multicolor-white-blue
+  - instant
+  - no-background-scene
+  - centered-composition
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/209-sphinx-s-insight.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["wizard", "dark-magic", "villain", "orb", "purple", "robed-figure", "xenoverse", "corruption", "time-manipulation", "sinister"]
-tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "anime-style"]
+tags_hub:
+  - wizard
+  - dark-magic
+  - villain
+  - orb
+  - purple
+  - robed-figure
+  - xenoverse
+  - corruption
+  - time-manipulation
+  - sinister
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - anime-style
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-107-heavenly-wizard-demigra.png
 average_cost_paid: 0
 market_price: 0.32
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401041271/1036E3439119BC6EE3347050A15BE708FC5C5B78/
 image_width: 624
 image_height: 864
@@ -30,7 +45,8 @@ setting: void
 suspected_ip: Demigra
 ip_confidence: high
 ip_verified: true
-characters: [xenoverse-villains]
+characters:
+  - xenoverse-villains
 ---
 
 # Heavenly Wizard Demigra (Colossal Warfare)

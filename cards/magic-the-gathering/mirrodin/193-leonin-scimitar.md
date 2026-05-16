@@ -1,6 +1,6 @@
 ---
 name: Leonin Scimitar
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Mirrodin
 collector_number: 
 rarity: C
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["sword", "blade", "weapon", "scimitar", "lion", "feline", "equipment-item", "metalwork", "bladed-weapon", "armory", "relic"]
-tags_filter: ["no-figure", "object-portrait", "close-up", "void-background", "artifact-card", "equipment", "colorless-magic", "mono-colorless", "artifact"]
+tags_hub:
+  - sword
+  - blade
+  - weapon
+  - scimitar
+  - lion
+  - feline
+  - equipment-item
+  - metalwork
+  - bladed-weapon
+  - armory
+  - relic
+tags_filter:
+  - no-figure
+  - object-portrait
+  - close-up
+  - void-background
+  - artifact-card
+  - equipment
+  - colorless-magic
+  - mono-colorless
+  - artifact
 reference_image: cards/_images/magic-the-gathering/mirrodin/193-leonin-scimitar.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price: 0.09
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/8/a/8abf4bbe-5b1c-4f6f-be32-5f61c66e1830.png?1562150085
 art_match_confidence: high
 needs_manual_review: false
@@ -27,7 +47,7 @@ setting: void
 artist: Doug Chaffee
 art_crop_image: cards/_images/magic-the-gathering/mirrodin/193-leonin-scimitar--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/a/8abf4bbe-5b1c-4f6f-be32-5f61c66e1830.jpg?1562150085
-oracle_text: Equipped creature gets +1/+1.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+oracle_text: "Equipped creature gets +1/+1.\\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
 ---
 
 # Leonin Scimitar (Mirrodin)

@@ -10,20 +10,41 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["seagull", "bird", "ocean", "flight", "coastal", "water", "sky", "freedom", "gliding", "blue", "white", "sea", "breeze"]
-tags_filter: ["solo", "mid-shot", "action", "three-quarter", "water-type", "basic-pokemon", "flying-creature", "creature-pokemon"]
+tags_hub:
+  - seagull
+  - bird
+  - ocean
+  - flight
+  - coastal
+  - water
+  - sky
+  - freedom
+  - gliding
+  - blue
+  - white
+  - sea
+  - breeze
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - three-quarter
+  - water-type
+  - basic-pokemon
+  - flying-creature
+  - creature-pokemon
 reference_image: cards/_images/pokemon/rebel-clash/041-192-wingull.png
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price: 0.07
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh2/41_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: 0313
 flavor_text: It makes its nest on sheer cliffs. Riding the sea breeze, it glides up into the expansive skies.
-oracle_text: Collect (Colorless): Draw a card.\nWave Splash (WaterColorless) 20
+oracle_text: "Collect (Colorless): Draw a card.\\nWave Splash (WaterColorless) 20"
 mood: peaceful
 time_of_day: day
 setting: ocean

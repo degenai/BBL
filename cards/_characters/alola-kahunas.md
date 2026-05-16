@@ -1,7 +1,14 @@
 ---
 type: character
 name: Alola Island Kahunas
-aliases: [alola-kahunas, alola-island-kahunas, alola-grand-trial-kahunas, sm-kahunas, usum-kahunas, the-four-kahunas, melemele-akala-ulaula-poni-kahunas]
+aliases:
+  - alola-kahunas
+  - alola-island-kahunas
+  - alola-grand-trial-kahunas
+  - sm-kahunas
+  - usum-kahunas
+  - the-four-kahunas
+  - melemele-akala-ulaula-poni-kahunas
 universe: Pokemon / Alola (Pokemon Sun & Moon and Pokemon Ultra Sun & Ultra Moon, Game Freak / Creatures Inc. / Nintendo, 2016-2017)
 faction: "Alolan Island Challenge — Island Kahunas (the four senior Trainers who serve as the spiritual and competitive heads of Alola's four islands; each kahuna is chosen by the island's guardian deity — Tapu Koko, Tapu Lele, Tapu Bulu, Tapu Fini — to administer that island's Grand Trial, the in-canon middle-to-summit tier of Alola's three-tier league progression: Trial Captain → Island Kahuna → Elite Four)"
 species: "faction-collective (four canonical members across Sun & Moon and Ultra Sun & Ultra Moon — Hala the Fighting-type Melemele Island Kahuna chosen by Tapu Koko, Olivia the Rock-type Akala Island Kahuna chosen by Tapu Lele, Nanu the Dark-type Ula'ula Island Kahuna chosen by Tapu Bulu, Hapu the Ground-type Poni Island Kahuna chosen by Tapu Fini — Olivia and Hala both hold concurrent Elite Four seats in the Alola Pokemon League founding charter)"
@@ -12,7 +19,11 @@ appears_on:
   - pokemon/cosmic-eclipse/193-236-guzma-hala
 related_hubs: []
 related_symbols: []
-related_characters: [alola-elite-four, alola-trial-captains, acerola, team-skull]
+related_characters:
+  - alola-elite-four
+  - alola-trial-captains
+  - acerola
+  - team-skull
 ip_resolution_for: alola-kahunas
 ---
 

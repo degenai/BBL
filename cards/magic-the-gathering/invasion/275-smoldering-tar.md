@@ -1,6 +1,6 @@
 ---
 name: Smoldering Tar
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Invasion
 collector_number: 
 rarity: U
@@ -10,14 +10,28 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["witch", "ritual", "smoke", "severed-hand", "blood-red", "sinister-priestess", "occult"]
-tags_filter: ["solo", "mid-shot", "portrait-mode", "forward-facing", "enchantment", "black-red", "female-figure"]
+tags_hub:
+  - witch
+  - ritual
+  - smoke
+  - severed-hand
+  - blood-red
+  - sinister-priestess
+  - occult
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait-mode
+  - forward-facing
+  - enchantment
+  - black-red
+  - female-figure
 reference_image: cards/_images/magic-the-gathering/invasion/275-smoldering-tar.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 mood: grim
 time_of_day: indeterminate
 setting: indoor
@@ -27,7 +41,7 @@ needs_manual_review: false
 artist: David Day
 art_crop_image: cards/_images/magic-the-gathering/invasion/275-smoldering-tar--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/c/fcdc55c0-c8ac-49d5-969b-9bf0ee8e696c.jpg?1562946036
-oracle_text: At the beginning of your upkeep, target player loses 1 life.\nSacrifice this enchantment: It deals 4 damage to target creature. Activate only as a sorcery.
+oracle_text: "At the beginning of your upkeep, target player loses 1 life.\\nSacrifice this enchantment: It deals 4 damage to target creature. Activate only as a sorcery."
 ---
 
 # Smoldering Tar (Invasion)

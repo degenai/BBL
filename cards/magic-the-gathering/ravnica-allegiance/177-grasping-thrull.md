@@ -1,6 +1,6 @@
 ---
 name: Grasping Thrull
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Ravnica Allegiance
 collector_number: 177
 rarity: C
@@ -10,15 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-characters: ["orzhov-syndicate"]
-tags_hub: ["thrull", "mask", "wings", "flying", "debt-collector", "pigeon", "city", "monster", "grotesque", "golden-face", "orzhov"]
-tags_filter: ["solo", "mid-shot", "action", "multicolor-white-black", "creature-zombie-bird"]
+characters:
+  - orzhov-syndicate
+tags_hub:
+  - thrull
+  - mask
+  - wings
+  - flying
+  - debt-collector
+  - pigeon
+  - city
+  - monster
+  - grotesque
+  - golden-face
+  - orzhov
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - multicolor-white-black
+  - creature-zombie-bird
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/177-grasping-thrull.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/5/6/56f82d97-ce50-490c-ad7f-46d70a73e454.png?1584831549
 art_match_confidence: high
 needs_manual_review: false

@@ -1,7 +1,17 @@
 ---
 type: character
 name: Son Gohan
-aliases: [son-gohan, gohan, son-gohan-cell-saga, son-gohan-buu-saga, son-gohan-adolescence, son-gohan-mystic, son-gohan-ultimate, son-gohan-gt, future-gohan, great-saiyaman]
+aliases:
+  - son-gohan
+  - gohan
+  - son-gohan-cell-saga
+  - son-gohan-buu-saga
+  - son-gohan-adolescence
+  - son-gohan-mystic
+  - son-gohan-ultimate
+  - son-gohan-gt
+  - future-gohan
+  - great-saiyaman
 universe: "Dragon Ball franchise (Akira Toriyama, Shueisha manga 1984-1995; Toei Animation anime adaptations 1989-present); Son Gohan is introduced in Dragon Ball Z manga chapter 195 (1988) as the four-year-old eldest son of Goku and Chi-Chi at the start of the Saiyan Saga, becomes the canonical Cell-Games-victor at age 11 in the Cell Saga (chapters 385-420, 1992), reframed as the 16-year-old adolescent scholar-fighter of the Buu Saga (chapters 421-518, 1993-1995, the canonical World Tournament Saga + Babidi / Majin Buu arcs), reframed again as the Great Saiyaman / Mystic Gohan / Ultimate Gohan in the post-Cell continuity, continues across Dragon Ball GT (Toei Animation, 1996-1997) as the adult Saiyan-Earthling scholar with severely de-trained combat power, and across Dragon Ball Super (Toei Animation, 2015-2018) and Dragon Ball Super: Super Hero film (Toei Animation, 2022) as the canonical return-to-form Beast Gohan adult; recurring across the Dragon Ball Super Card Game (Bandai, 2017-present)"
 faction: "Z-Fighters (Earth-defender cohort, Goku's-Lineage family-tree branch as eldest son); secondary canonical alignment is the post-Cell Great Saiyaman / Orange Star High School scholar-vigilante register (the Buu Saga's Adolescent Gohan operates as a registered tournament fighter at the 25th World Martial Arts Tournament while concurrently a high-school student in Satan City)"
 species: "half-Saiyan / half-Earthling (eldest son of Son Goku and Chi-Chi; canonically the franchise's first half-Saiyan / half-Earthling depicted, the canonical species-hybrid template that subsequent half-Saiyans like Trunks and quarter-Saiyans like Pan inherit); canonical age framing places him as a four-year-old in the Saiyan Saga (DBZ open), a 9-11-year-old across the Namek / Frieza / Android Saga arc, an 11-year-old at the Cell Games kill, a 16-year-old adolescent across the Buu Saga / World Tournament era, an early-twenties married adult by End of Z epilogue, and continues as adult father-of-Pan across GT / Super; canonical visual identifiers across his prints include the orange-and-blue Turtle School gi (canonical Cell Saga), the green Piccolo-given gi (canonical Buu Saga adolescence and 25th World Tournament era), Super Saiyan golden upright hair (canonical Cell Saga onward), Super Saiyan 2 lightning-aura (canonical Cell Games and 25th World Tournament debut, the canonical *first character in franchise canon to achieve SS2*), and the canonical Mystic / Ultimate state's untransformed-but-power-massively-elevated register that Old Kai's 25-hour ritual unlocks in the Buu Saga"
@@ -18,10 +28,22 @@ appears_on:
   - dragon-ball-super/world-martial-arts-tournament/tb2-021-top-of-his-game-son-gohan
   - dragon-ball-super/union-force/bt2-098-father-son-kamehameha
   - dragon-ball-super/world-martial-arts-tournament/tb2-011-heroic-duo-videl
-related_hubs: [labor]
+related_hubs: "[labor]"
 related_symbols: []
-related_characters: [son-goku, pan, trunks, saiyan, namekian, babidi]
-ip_resolution_for: ["Son Gohan", "Gohan", "Mystic Gohan", "Ultimate Gohan", "Great Saiyaman", "Adolescent Gohan"]
+related_characters:
+  - son-goku
+  - pan
+  - trunks
+  - saiyan
+  - namekian
+  - babidi
+ip_resolution_for:
+  - Son Gohan
+  - Gohan
+  - Mystic Gohan
+  - Ultimate Gohan
+  - Great Saiyaman
+  - Adolescent Gohan
 ---
 
 # Son Gohan

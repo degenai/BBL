@@ -1,6 +1,6 @@
 ---
 name: Devour in Flames
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Oath of the Gatewatch
 collector_number: 106
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["fire", "pyromancer", "defiance", "confrontation", "power", "rebellion", "flame", "warrior", "planeswalker", "destruction", "heat"]
-tags_filter: ["group", "mid-shot", "action", "forward-facing", "female-figure", "red-magic", "instant"]
+tags_hub:
+  - fire
+  - pyromancer
+  - defiance
+  - confrontation
+  - power
+  - rebellion
+  - flame
+  - warrior
+  - planeswalker
+  - destruction
+  - heat
+tags_filter:
+  - group
+  - mid-shot
+  - action
+  - forward-facing
+  - female-figure
+  - red-magic
+  - instant
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/106-devour-in-flames.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/4/3/432dd78b-9520-4c28-8699-d7ff9c477070.png?1562908543
 art_match_confidence: high
 needs_manual_review: false

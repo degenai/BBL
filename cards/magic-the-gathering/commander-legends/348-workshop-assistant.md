@@ -1,6 +1,6 @@
 ---
 name: Workshop Assistant
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Commander Legends
 collector_number: 348
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["construct", "clockwork", "spider", "dragon", "workshop", "machinery", "artifact-creature", "tinkering", "gears", "salvage", "automaton", "small-versus-large"]
-tags_filter: ["duo", "mid-shot", "three-quarter-facing", "no-face", "creature-construct", "creature-artifact", "colorless-magic", "scene-mode", "indoor-scene"]
+tags_hub:
+  - construct
+  - clockwork
+  - spider
+  - dragon
+  - workshop
+  - machinery
+  - artifact-creature
+  - tinkering
+  - gears
+  - salvage
+  - automaton
+  - small-versus-large
+tags_filter:
+  - duo
+  - mid-shot
+  - three-quarter-facing
+  - no-face
+  - creature-construct
+  - creature-artifact
+  - colorless-magic
+  - scene-mode
+  - indoor-scene
 reference_image: cards/_images/magic-the-gathering/commander-legends/348-workshop-assistant.png
 average_cost_paid: 0
 market_price: 0.35
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

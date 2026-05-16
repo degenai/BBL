@@ -1,6 +1,6 @@
 ---
 name: Ooze Patrol
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 172
 rarity: U
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["ooze", "slime", "monster", "vehicle", "consumption", "racing", "road", "predator", "wasteland", "digestion", "motion", "appetite"]
-tags_filter: ["solo", "mid-shot", "faces-right", "action-mode", "no-face", "green-magic", "creature-ooze", "mill", "plus-one-counters", "graveyard-matters"]
+tags_hub:
+  - ooze
+  - slime
+  - monster
+  - vehicle
+  - consumption
+  - racing
+  - road
+  - predator
+  - wasteland
+  - digestion
+  - motion
+  - appetite
+tags_filter:
+  - solo
+  - mid-shot
+  - faces-right
+  - action-mode
+  - no-face
+  - green-magic
+  - creature-ooze
+  - mill
+  - plus-one-counters
+  - graveyard-matters
 reference_image: cards/_images/magic-the-gathering/aetherdrift/172-ooze-patrol.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/1/0/101d22c6-830d-4908-9003-6b206f694eba.png?1738356526
 art_match_confidence: high
 needs_manual_review: false

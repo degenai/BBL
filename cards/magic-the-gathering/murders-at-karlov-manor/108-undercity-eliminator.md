@@ -1,6 +1,6 @@
 ---
 name: Undercity Eliminator
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 108
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["gorgon", "snake-hair", "flower", "villain", "undercity", "assassination", "ravnica", "golgari", "subterranean", "rose", "monster", "defeat"]
-tags_filter: ["duo", "mid-shot", "three-quarter", "black-magic", "creature", "action"]
+tags_hub:
+  - gorgon
+  - snake-hair
+  - flower
+  - villain
+  - undercity
+  - assassination
+  - ravnica
+  - golgari
+  - subterranean
+  - rose
+  - monster
+  - defeat
+tags_filter:
+  - duo
+  - mid-shot
+  - three-quarter
+  - black-magic
+  - creature
+  - action
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/108-undercity-eliminator.png
 average_cost_paid: 0
 market_price: 0.22
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/a/6/a67a4c5e-215b-4f03-87f7-c1af4f9f0a63.png?1706241766
 art_match_confidence: high
 needs_manual_review: false

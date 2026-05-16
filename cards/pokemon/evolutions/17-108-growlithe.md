@@ -10,27 +10,43 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["dog", "puppy", "fire", "loyalty", "companion", "nature", "warmth", "guard", "orange", "classic"]
-tags_filter: ["solo", "mid-shot", "portrait", "three-quarter", "fire-type", "creature"]
+tags_hub:
+  - dog
+  - puppy
+  - fire
+  - loyalty
+  - companion
+  - nature
+  - warmth
+  - guard
+  - orange
+  - classic
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - three-quarter
+  - fire-type
+  - creature
 reference_image: cards/_images/pokemon/evolutions/17-108-growlithe.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price: 0.19
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/xy12/17_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Ken Sugimori
 flavor_text: Very friendly and faithful to people. It will try to repel enemies by barking and biting.
-oracle_text: Hind Kick (Colorless) 10: Switch this Pokémon with 1 of your Benched Pokémon.\nFlare (FireColorless) 20
+oracle_text: "Hind Kick (Colorless) 10: Switch this Pokémon with 1 of your Benched Pokémon.\\nFlare (FireColorless) 20"
 image_width: 734
 image_height: 1024
 image_quality: high
 mood: peaceful
 time_of_day: day
 setting: mountain
-suspected_ip: Growlithe (#058)
+suspected_ip: "Growlithe (#058)"
 ip_confidence: high
 ip_verified: false
 ---

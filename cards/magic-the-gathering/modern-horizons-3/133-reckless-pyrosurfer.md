@@ -1,6 +1,6 @@
 ---
 name: Reckless Pyrosurfer
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 133
 rarity: U
@@ -13,14 +13,30 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["fire", "lava", "volcano", "surfing", "motion", "elemental", "reckless", "heat", "pyromancer"]
-tags_filter: ["solo", "wide", "three-quarter", "red-magic", "creature", "haste", "action-mode"]
+tags_hub:
+  - fire
+  - lava
+  - volcano
+  - surfing
+  - motion
+  - elemental
+  - reckless
+  - heat
+  - pyromancer
+tags_filter:
+  - solo
+  - wide
+  - three-quarter
+  - red-magic
+  - creature
+  - haste
+  - action-mode
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/133-reckless-pyrosurfer.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/2/d/2d1bb8ac-7125-4537-b2da-e23a8c28df79.png?1717012281
 art_match_confidence: high
 needs_manual_review: false

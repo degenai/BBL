@@ -1,6 +1,6 @@
 ---
 name: Infuriate
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 141
 rarity: C
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["minotaur", "rage", "charge", "arrows", "wound", "beast", "horns", "warrior", "battle", "roar", "fury", "greek-myth"]
-tags_filter: ["solo", "close-up", "action-mode", "three-quarter-facing", "no-face-human", "creature-monster", "red-magic", "instant", "combat-trick", "common"]
+tags_hub:
+  - minotaur
+  - rage
+  - charge
+  - arrows
+  - wound
+  - beast
+  - horns
+  - warrior
+  - battle
+  - roar
+  - fury
+  - greek-myth
+tags_filter:
+  - solo
+  - close-up
+  - action-mode
+  - three-quarter-facing
+  - no-face-human
+  - creature-monster
+  - red-magic
+  - instant
+  - combat-trick
+  - common
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/141-infuriate.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,7 +48,9 @@ mood: action
 time_of_day: indeterminate
 setting: other
 artist: Tomasz Jedruszek
-characters: [theros-pantheon]
+characters:
+  - theros-pantheon
+  - mogis
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/141-infuriate--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/5/85a74392-4056-428c-a807-b062957e838e.jpg?1581480233
 flavor_text: \"Renata launched a dozen arrows into the minotaur's thick hide, but the monster didn't slow its charge. The fury of Mogis was upon it.\"\n—Luphea of Setessa, *Histories*

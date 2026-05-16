@@ -1,6 +1,6 @@
 ---
 name: The Eldest Reborn
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Mystery Booster Cards
 collector_number: 90
 rarity: U
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["skeleton", "undead", "lich", "necromancy", "death", "resurrection", "robed-figure", "grim", "ritual", "darkness", "graveyard", "bones"]
-tags_filter: ["solo", "forward-facing", "mid-shot", "narrative-mode", "no-face", "black-magic", "enchantment", "saga", "creature-reanimation", "discard"]
+tags_hub:
+  - skeleton
+  - undead
+  - lich
+  - necromancy
+  - death
+  - resurrection
+  - robed-figure
+  - grim
+  - ritual
+  - darkness
+  - graveyard
+  - bones
+tags_filter:
+  - solo
+  - forward-facing
+  - mid-shot
+  - narrative-mode
+  - no-face
+  - black-magic
+  - enchantment
+  - saga
+  - creature-reanimation
+  - discard
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/90-the-eldest-reborn.png
 average_cost_paid: 0
 market_price: 0.34
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,7 +48,8 @@ mood: grim
 time_of_day: indeterminate
 setting: other
 the_list_source_set: DOM
-characters: [nicol-bolas]
+characters:
+  - nicol-bolas
 artist: Ravenna Tran
 art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/90-the-eldest-reborn--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/7/d706ad46-6d00-4cad-8666-c673d0cad4fb.jpg?1573509535

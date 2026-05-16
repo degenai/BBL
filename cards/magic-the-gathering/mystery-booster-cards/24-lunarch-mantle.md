@@ -1,6 +1,6 @@
 ---
 name: Lunarch Mantle
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Mystery Booster Cards
 collector_number: 24
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["wings", "angel", "sword", "knight", "inquisitor", "armor", "holy-warrior", "ascension", "judgment", "blessing", "feathers", "sentinel"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "white-magic", "enchantment", "aura", "flying"]
+tags_hub:
+  - wings
+  - angel
+  - sword
+  - knight
+  - inquisitor
+  - armor
+  - holy-warrior
+  - ascension
+  - judgment
+  - blessing
+  - feathers
+  - sentinel
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - no-face
+  - white-magic
+  - enchantment
+  - aura
+  - flying
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/24-lunarch-mantle.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -30,7 +51,7 @@ artist: Anastasia Ovchinnikova
 art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/24-lunarch-mantle--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/6/b6eb3c20-e853-4399-a107-c3308b2e5d4e.jpg?1573505941
 flavor_text: \"A boon from the angels should never be cast aside.\"\n—Manfried Ulmach, Chief Inquisitor
-oracle_text: Enchant creature\nEnchanted creature gets +2/+2 and has \"{1}, Sacrifice a permanent: This creature gains flying until end of turn.\"
+oracle_text: "Enchant creature\\nEnchanted creature gets +2/+2 and has \\\"{1}, Sacrifice a permanent: This creature gains flying until end of turn.\\\""
 ---
 
 # Lunarch Mantle (Mystery Booster Cards)

@@ -1,6 +1,6 @@
 ---
 name: Triton Wavebreaker
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 74
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["ocean", "waves", "merfolk", "staff", "water-magic", "storm", "command", "sea", "power", "robes", "triton", "ritual"]
-tags_filter: ["mid-shot", "solo", "forward-facing", "blue-magic", "creature", "enchantment-aura"]
+tags_hub:
+  - ocean
+  - waves
+  - merfolk
+  - staff
+  - water-magic
+  - storm
+  - command
+  - sea
+  - power
+  - robes
+  - triton
+  - ritual
+tags_filter:
+  - mid-shot
+  - solo
+  - forward-facing
+  - blue-magic
+  - creature
+  - enchantment-aura
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/74-triton-wavebreaker.png
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price: 0.16
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/4/1/41e68700-c71c-46db-b6a4-beae924cf97a.png?1717011809
 art_match_confidence: high
 needs_manual_review: false

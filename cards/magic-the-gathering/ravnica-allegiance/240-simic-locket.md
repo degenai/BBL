@@ -1,6 +1,6 @@
 ---
 name: Simic Locket
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Ravnica Allegiance
 collector_number: 240
 rarity: C
@@ -10,14 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["locket", "pendant", "jewelry", "magical-artifact", "ocean", "underwater", "glowing-orb", "aether", "bioluminescence", "biotech", "hybrid-creature-design", "memento", "secret"]
-tags_filter: ["no-face", "no-figure", "close-up", "still-life", "object-mode", "artifact", "blue-magic", "green-magic", "multicolor-blue-green", "simic"]
+tags_hub:
+  - locket
+  - pendant
+  - jewelry
+  - magical-artifact
+  - ocean
+  - underwater
+  - glowing-orb
+  - aether
+  - bioluminescence
+  - biotech
+  - hybrid-creature-design
+  - memento
+  - secret
+tags_filter:
+  - no-face
+  - no-figure
+  - close-up
+  - still-life
+  - object-mode
+  - artifact
+  - blue-magic
+  - green-magic
+  - multicolor-blue-green
+  - simic
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/240-simic-locket.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +52,7 @@ artist: Yeong-Hao Han
 art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/240-simic-locket--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/9/29c65978-e5b0-428e-aace-f99768ca6106.jpg?1584832182
 flavor_text: \"Like our guild itself, this locket can stand for many things. You must discern what it means for you.\"\n—Vannifar
-oracle_text: {T}: Add {G} or {U}.\n{G/U}{G/U}{G/U}{G/U}, {T}, Sacrifice this artifact: Draw two cards.
+oracle_text: "{T}: Add {G} or {U}.\\n{G/U}{G/U}{G/U}{G/U}, {T}, Sacrifice this artifact: Draw two cards."
 ---
 
 # Simic Locket (Ravnica Allegiance)

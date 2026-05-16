@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["super-saiyan", "saiyan", "golden-hair", "transformation", "speed", "rush-attack", "fighter", "warrior", "hero", "power", "sneak-attack"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "male-figure", "red-magic", "battle-unit"]
+tags_hub:
+  - super-saiyan
+  - saiyan
+  - golden-hair
+  - transformation
+  - speed
+  - rush-attack
+  - fighter
+  - warrior
+  - hero
+  - power
+  - sneak-attack
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - male-figure
+  - red-magic
+  - battle-unit
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-026-sneak-attack-son-goku.png
 average_cost_paid: 0
 market_price: 0.02
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401027227/BBD6FA1D3CA7CDFB466ED9E0E9C0186F68835869/
 image_width: 624
 image_height: 871
@@ -30,7 +48,8 @@ setting: void
 suspected_ip: Son Goku (Dragon Ball)
 ip_confidence: high
 ip_verified: true
-characters: [son-goku]
+characters:
+  - son-goku
 ---
 
 # Sneak Attack Son Goku (Colossal Warfare)

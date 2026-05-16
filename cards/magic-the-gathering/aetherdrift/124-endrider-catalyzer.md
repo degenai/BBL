@@ -1,6 +1,6 @@
 ---
 name: Endrider Catalyzer
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 124
 rarity: C
@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["warrior", "rage", "speed", "labor", "muscle", "magic-energy", "industrial", "aether", "rebellion", "endrider"]
-tags_filter: ["solo", "mid-shot", "male-figure", "faces-left", "red-magic", "creature"]
+tags_hub:
+  - warrior
+  - rage
+  - speed
+  - labor
+  - muscle
+  - magic-energy
+  - industrial
+  - aether
+  - rebellion
+  - endrider
+tags_filter:
+  - solo
+  - mid-shot
+  - male-figure
+  - faces-left
+  - red-magic
+  - creature
 reference_image: cards/_images/magic-the-gathering/aetherdrift/124-endrider-catalyzer.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/5/5/55a5a67b-d969-4ba4-9dcc-32d0c2e5c04a.png?1738356407
 art_match_confidence: high
 needs_manual_review: false
@@ -25,7 +41,7 @@ artist: Karl Kopinski
 art_crop_image: cards/_images/magic-the-gathering/aetherdrift/124-endrider-catalyzer--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/5/55a5a67b-d969-4ba4-9dcc-32d0c2e5c04a.jpg?1738356407
 flavor_text: Endrider magic was developed on a world that was constantly on the move—the higher the velocity, the stronger the magic.
-oracle_text: Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\nMax speed — {T}: Add {R}{R}.
+oracle_text: "Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\\nMax speed — {T}: Add {R}{R}."
 image_width: 745
 image_height: 1040
 image_quality: high

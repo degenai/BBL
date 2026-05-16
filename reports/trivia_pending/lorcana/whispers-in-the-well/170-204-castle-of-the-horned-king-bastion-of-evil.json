@@ -1,0 +1,41 @@
+{
+  "card_name": "Castle of the Horned King - Bastion of Evil",
+  "game": "Lorcana",
+  "set": "Whispers in the Well",
+  "collector_number": "170/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card explicitly named 'Castle of the Horned King' under The Black Cauldron franchise, which made its Lorcana debut in Whispers in the Well per official Ravensburger press release. The location is an unambiguous depiction of the Horned King's fortress from the 1985 Disney film.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Black Cauldron franchise makes its Lorcana debut in Whispers in the Well (Set 10, November 2025), described as one of the 'long-awaited properties' by Ravensburger alongside Disney Gargoyles.",
+      "sources": ["Official Ravensburger Whispers in the Well press release, October 2025", "Lorcana Player: The Black Cauldron franchise list"]
+    },
+    {
+      "category": "design",
+      "text": "Amethyst location card, 1 ink cost. INTO THE GLOOM synergizes with The Black Cauldron item card in the same set. One of the cheapest location cards to field.",
+      "sources": ["WebSearch snippets via Trinket Mage/Mighty Meeple product listings", "Lorcana Player card database"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Black Cauldron (1985) was Disney's first PG-rated animated feature. The castle in Prydain is the site of the climactic Cauldron Born summoning.",
+      "sources": ["Wikipedia: The Black Cauldron (film)"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment: The Horned King's Enchanted card from Set 10 traded near $303 USD shortly after release, showing strong collector demand for The Black Cauldron's debut wave.",
+      "sources": ["Screen Rant: Whispers in the Well most valuable cards"]
+    }
+  ],
+  "related_cards": [
+    {"name": "The Horned King - Wicked Ruler", "set": "Whispers in the Well", "note": "Enchanted villain card (no. 226/204), the owner of this castle location"},
+    {"name": "The Black Cauldron", "set": "Whispers in the Well", "note": "Item card (no. 32/204) that pairs mechanically with INTO THE GLOOM"},
+    {"name": "Cauldron Born - Mindless Horde", "set": "Whispers in the Well", "note": "Undead army card (no. 39/204) from same franchise cluster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

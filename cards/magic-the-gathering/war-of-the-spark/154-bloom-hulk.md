@@ -1,23 +1,44 @@
 ---
 name: Bloom Hulk
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 154
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["forest", "plant", "elemental", "vines", "moss", "night", "moonlight", "fog", "giant", "nature", "wilderness", "primeval"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "no-face", "portrait-mode", "green-magic", "creature-plant-elemental", "backlit", "common"]
+tags_hub:
+  - forest
+  - plant
+  - elemental
+  - vines
+  - moss
+  - night
+  - moonlight
+  - fog
+  - giant
+  - nature
+  - wilderness
+  - primeval
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - no-face
+  - portrait-mode
+  - green-magic
+  - creature-plant-elemental
+  - backlit
+  - common
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/154-bloom-hulk.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-14
+market_price: 0.22
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

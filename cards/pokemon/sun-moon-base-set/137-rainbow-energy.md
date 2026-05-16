@@ -14,10 +14,10 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/pokemon/sun-moon-base-set/137-rainbow-energy.png
 average_cost_paid: 0
-market_price: 0.3
-market_price_as_of: 2026-05-14
+market_price: 0.31
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/pop5/4_hires.png
 art_match_confidence: low
 needs_manual_review: true

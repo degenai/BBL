@@ -1,6 +1,6 @@
 ---
 name: Leonin of the Lost Pride
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 28
 rarity: C
@@ -10,14 +10,39 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["cat", "lion", "warrior", "knight", "cavalry", "mount", "underworld", "afterlife", "ghost", "shield", "armor", "charge", "pride"]
-tags_filter: ["duo", "2-figures", "mid-shot", "faces-right", "scene-mode", "action-mode", "no-face-human", "creature-cat", "creature-warrior", "white-magic", "mounted", "mythic"]
+tags_hub:
+  - cat
+  - lion
+  - warrior
+  - knight
+  - cavalry
+  - mount
+  - underworld
+  - afterlife
+  - ghost
+  - shield
+  - armor
+  - charge
+  - pride
+tags_filter:
+  - duo
+  - 2-figures
+  - mid-shot
+  - faces-right
+  - scene-mode
+  - action-mode
+  - no-face-human
+  - creature-cat
+  - creature-warrior
+  - white-magic
+  - mounted
+  - mythic
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/28-leonin-of-the-lost-pride.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

@@ -1,6 +1,6 @@
 ---
 name: Pacesetter Paragon
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 140
 rarity: U
@@ -10,21 +10,40 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["racer", "racing", "speed", "vehicle", "pilot", "helmet", "goggles", "shouting-figure", "competition", "motion-blur", "adrenaline", "sport"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "creature-human", "red-magic", "no-named-character"]
+tags_hub:
+  - racer
+  - racing
+  - speed
+  - vehicle
+  - pilot
+  - helmet
+  - goggles
+  - shouting-figure
+  - competition
+  - motion-blur
+  - adrenaline
+  - sport
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action-mode
+  - creature-human
+  - red-magic
+  - no-named-character
 reference_image: cards/_images/magic-the-gathering/aetherdrift/140-pacesetter-paragon.png
 average_cost_paid: 0
 market_price: 0.02
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/7/3/7364b4dc-8cce-498d-a62e-eabc612b062a.png?1738356448
 art_match_confidence: high
 needs_manual_review: false
 artist: Wonchun Choi
 art_crop_image: cards/_images/magic-the-gathering/aetherdrift/140-pacesetter-paragon--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/3/7364b4dc-8cce-498d-a62e-eabc612b062a.jpg?1738356448
-oracle_text: Exhaust — {2}{R}: Put a +1/+1 counter on this creature. It gains double strike until end of turn. (Activate each exhaust ability only once.)
+oracle_text: "Exhaust — {2}{R}: Put a +1/+1 counter on this creature. It gains double strike until end of turn. (Activate each exhaust ability only once.)"
 mood: action
 time_of_day: indeterminate
 setting: other

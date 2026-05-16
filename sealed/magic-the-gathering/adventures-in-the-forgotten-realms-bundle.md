@@ -5,10 +5,10 @@ set: Adventures in the Forgotten Realms
 sealed: true
 quantity: 1
 average_cost_paid: 0
-market_price: 112.46
-market_price_as_of: 2026-05-14
+market_price: 111.46
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 ---
 
 # Adventures in the Forgotten Realms - Bundle

@@ -7,17 +7,35 @@ rarity: Common
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["super-saiyan", "power-up", "energy", "ki", "warrior", "transformation", "lightning", "orange-gi", "saiyan", "battle-stance", "anime-action", "determination"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "male-figure", "anime"]
+tags_hub:
+  - super-saiyan
+  - power-up
+  - energy
+  - ki
+  - warrior
+  - transformation
+  - lightning
+  - orange-gi
+  - saiyan
+  - battle-stance
+  - anime-action
+  - determination
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - male-figure
+  - anime
 reference_image: cards/_images/dragon-ball-super/union-force/bt2-005-super-saiyan-son-goku.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400926302/10FE8B3148DD2E3265DEE32344A1478FC81D1D02/
 image_width: 624
 image_height: 874

@@ -1,6 +1,6 @@
 ---
 name: Mindwrack Harpy
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 276
 rarity: C
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["harpy", "wings", "monster", "predator", "stars", "night", "dive", "ancient-horror", "greek-creature", "feathers", "darkness"]
-tags_filter: ["solo", "mid-shot", "action", "black-magic", "creature", "flying", "forward-facing"]
+tags_hub:
+  - harpy
+  - wings
+  - monster
+  - predator
+  - stars
+  - night
+  - dive
+  - ancient-horror
+  - greek-creature
+  - feathers
+  - darkness
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - black-magic
+  - creature
+  - flying
+  - forward-facing
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/276-mindwrack-harpy.png
 average_cost_paid: 0
-market_price: 0.33
-market_price_as_of: 2026-05-14
+market_price: 0.34
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/6/c/6c5ce79a-fcbd-46ab-8911-480f967ca57f.png?1581481468
 art_match_confidence: high
 needs_manual_review: false

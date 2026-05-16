@@ -10,20 +10,38 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["ghost", "specter", "floating", "necklace", "orb", "purple", "horror", "mischief", "disembodied", "paranormal"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "pokemon", "creature", "psychic-type", "common", "no-body"]
+tags_hub:
+  - ghost
+  - specter
+  - floating
+  - necklace
+  - orb
+  - purple
+  - horror
+  - mischief
+  - disembodied
+  - paranormal
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - pokemon
+  - creature
+  - psychic-type
+  - common
+  - no-body
 reference_image: cards/_images/pokemon/crimson-invasion/39-111-misdreavus.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-14
+market_price: 0.23
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm4/39_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: so-taro
 flavor_text: It will use any means necessary to frighten people and absorb their life energy. It practices constantly to hone its skill in causing fear.
-oracle_text: Confuse Ray (Psychic): Your opponent's Active Pokémon is now Confused.
+oracle_text: "Confuse Ray (Psychic): Your opponent's Active Pokémon is now Confused."
 mood: horror
 time_of_day: night
 setting: void

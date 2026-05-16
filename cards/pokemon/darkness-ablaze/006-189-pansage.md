@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["monkey", "forest", "nature", "plant", "green", "small-creature", "tree", "primate", "lush", "leaf"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "pokemon", "creature", "grass-type", "colorless-type", "common"]
+tags_hub:
+  - monkey
+  - forest
+  - nature
+  - plant
+  - green
+  - small-creature
+  - tree
+  - primate
+  - lush
+  - leaf
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - pokemon
+  - creature
+  - grass-type
+  - colorless-type
+  - common
 reference_image: cards/_images/pokemon/darkness-ablaze/006-189-pansage.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/6_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +48,8 @@ setting: forest
 suspected_ip: Pansage
 ip_confidence: high
 ip_verified: true
-characters: [elemental-monkey-trio]
+characters:
+  - elemental-monkey-trio
 ---
 
 # Pansage (Darkness Ablaze)

@@ -1,7 +1,13 @@
 ---
 type: character
 name: Acerola
-aliases: [acerola, alolan-ghost-captain, thrifty-megamart-captain, alola-ghost-elite-four, aether-house-caretaker, last-of-alolan-royalty]
+aliases:
+  - acerola
+  - alolan-ghost-captain
+  - thrifty-megamart-captain
+  - alola-ghost-elite-four
+  - aether-house-caretaker
+  - last-of-alolan-royalty
 universe: Pokemon / Alola (Pokemon Sun & Moon, Game Freak / Creatures Inc. / Nintendo, 2016; expanded in Pokemon Ultra Sun & Ultra Moon, November 2017; Pokemon anime Sun & Moon series 2016-2019; Pokemon Masters EX)
 faction: ~
 species: human (young woman; Alolan; canonical age framed as "youngest member of the Alola Elite Four"; the last living member of an Alolan royal family per designer Shusuke Motomiya, with her armband canonically a royal heirloom from the distant past)
@@ -10,9 +16,12 @@ confidence: canonical
 appears_on:
   - pokemon/burning-shadows/112-147-acerola
   - pokemon/mega-evolution/113-132-acerola-s-mischief
-related_hubs: [stewardship]
+related_hubs: "[stewardship]"
 related_symbols: []
-related_characters: [alola-elite-four, alola-trial-captains, aether-foundation]
+related_characters:
+  - alola-elite-four
+  - alola-trial-captains
+  - aether-foundation
 ip_resolution_for: acerola
 ---
 

@@ -1,7 +1,14 @@
 ---
 type: character
 name: Phyrexia
-aliases: [phyrexia, phyrexians, new-phyrexia, the-machine-orthodoxy, yawgmoth-s-phyrexia, the-nine-spheres, compleated-ones]
+aliases:
+  - phyrexia
+  - phyrexians
+  - new-phyrexia
+  - the-machine-orthodoxy
+  - yawgmoth-s-phyrexia
+  - the-nine-spheres
+  - compleated-ones
 universe: "Magic: The Gathering / Multiverse (origin: Phyrexia, the Nine Spheres; post-Mirrodin: New Phyrexia / Mirrex; expansion across Dominaria, Kaldheim, Kamigawa, and the broader Multiverse during the 2022–2023 Phyrexian Arc)"
 faction: Phyrexia (self; this node IS the faction)
 species: faction-collective (compleated humans, compleated elves, compleated angels, compleated planeswalkers; Phyrexian-native horrors, golems, dragons, wurms, thopters; the five Praetors as the New Phyrexia ruling council; Yawgmoth as the original Phyrexian father-god on the pre-Mirrodin Nine-Spheres home plane)
@@ -12,9 +19,11 @@ appears_on:
   - magic-the-gathering/modern-horizons-3/112-wurmcoil-larva
   - magic-the-gathering/modern-horizons-3/91-etched-slith
   - magic-the-gathering/mystery-booster-cards/62-phyrexian-rager
-related_hubs: [labor]
+related_hubs: "[labor]"
 related_symbols: []
-related_characters: [tamiyo, orzhov-syndicate]
+related_characters:
+  - tamiyo
+  - orzhov-syndicate
 ip_resolution_for: phyrexia
 ---
 

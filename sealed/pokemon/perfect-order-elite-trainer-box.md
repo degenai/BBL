@@ -5,10 +5,10 @@ set: Perfect Order
 sealed: true
 quantity: 1
 average_cost_paid: 0
-market_price: 69
-market_price_as_of: 2026-05-14
+market_price: 70.07
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 ---
 
 # Perfect Order Elite Trainer Box

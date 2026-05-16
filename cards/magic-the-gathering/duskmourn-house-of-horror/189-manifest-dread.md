@@ -1,7 +1,7 @@
 ---
 name: Manifest Dread
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 189
 rarity: C
 variance: Normal
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["cocoon", "chrysalis", "body-horror", "horror", "overgrowth", "leaves", "transformation", "abandoned-house", "gothic", "decay", "infestation", "metamorphosis"]
-tags_filter: ["no-figures", "close-up", "narrative-mode", "blue-magic", "green-magic", "multicolor-blue-green", "instant", "amber-palette", "teal-palette", "backlit"]
+tags_hub:
+  - cocoon
+  - chrysalis
+  - body-horror
+  - horror
+  - overgrowth
+  - leaves
+  - transformation
+  - abandoned-house
+  - gothic
+  - decay
+  - infestation
+  - metamorphosis
+tags_filter:
+  - no-figures
+  - close-up
+  - narrative-mode
+  - blue-magic
+  - green-magic
+  - multicolor-blue-green
+  - instant
+  - amber-palette
+  - teal-palette
+  - backlit
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/189-manifest-dread.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/a/6/a649265b-6c32-49e7-b6cb-6086c40d26e8.png?1726286570
 art_match_confidence: high
 needs_manual_review: false
@@ -29,7 +51,8 @@ oracle_text: Manifest dread. (Look at the top two cards of your library. Put one
 mood: horror
 time_of_day: indeterminate
 setting: indoor
-symbols: ["manifest-dread"]
+symbols:
+  - manifest-dread
 ---
 
 # Manifest Dread (Duskmourn: House of Horror)

@@ -10,15 +10,40 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-characters: ["galar-gym-challenge"]
-tags_hub: ["mask", "ghost", "child", "uniform", "shyness", "occult", "ritual", "small-figure", "purple-glow", "twin-orbs", "trainer", "gym-leader"]
-tags_filter: ["solo", "mid-shot", "portrait-mode", "forward-facing", "centered-composition", "trainer-card", "supporter-card", "ghost-type", "pokemon-character", "named-character", "no-visible-face", "indoor-setting"]
+characters:
+  - galar-gym-challenge
+tags_hub:
+  - mask
+  - ghost
+  - child
+  - uniform
+  - shyness
+  - occult
+  - ritual
+  - small-figure
+  - purple-glow
+  - twin-orbs
+  - trainer
+  - gym-leader
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait-mode
+  - forward-facing
+  - centered-composition
+  - trainer-card
+  - supporter-card
+  - ghost-type
+  - pokemon-character
+  - named-character
+  - no-visible-face
+  - indoor-setting
 reference_image: cards/_images/pokemon/vivid-voltage/146-185-allister.png
 average_cost_paid: 0
-market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price: 0.06
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh4/146_hires.png
 art_match_confidence: high
 needs_manual_review: false

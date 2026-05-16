@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["spaceship", "spacecraft", "voyage", "adventure", "travel", "sky", "arrival", "wonder", "group-dynamics", "science-fiction", "retro-tech", "grand-tour"]
-tags_filter: ["wide", "group", "scene-mode", "forward-facing", "anime-style", "dbscg"]
+tags_hub:
+  - spaceship
+  - spacecraft
+  - voyage
+  - adventure
+  - travel
+  - sky
+  - arrival
+  - wonder
+  - group-dynamics
+  - science-fiction
+  - retro-tech
+  - grand-tour
+tags_filter:
+  - wide
+  - group
+  - scene-mode
+  - forward-facing
+  - anime-style
+  - dbscg
 reference_image: cards/_images/dragon-ball-super/cross-worlds/bt3-028-grand-tour-spaceship.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401007163/1340D6E089A5B856D6B4CE1E563E980011877FCB/
 art_match_confidence: high
 needs_manual_review: false
@@ -31,7 +49,10 @@ subject_known_ip: true
 suspected_ip: Trunks, Son Goku (child), Pan — Dragon Ball franchise
 ip_confidence: high
 ip_verified: true
-characters: [pan, son-goku, trunks]
+characters:
+  - pan
+  - son-goku
+  - trunks
 ---
 
 # Grand Tour Spaceship (Cross Worlds)

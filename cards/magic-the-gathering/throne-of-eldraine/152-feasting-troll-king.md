@@ -1,6 +1,6 @@
 ---
 name: Feasting Troll King
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 152
 rarity: R
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["troll", "giant", "monster", "feast", "eating", "forest", "woodland", "bones", "gluttony", "hunger", "fairy-tale", "brute"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "creature-troll", "creature-noble", "green-magic", "scene-mode", "no-face-clear", "male-figure"]
+tags_hub:
+  - troll
+  - giant
+  - monster
+  - feast
+  - eating
+  - forest
+  - woodland
+  - bones
+  - gluttony
+  - hunger
+  - fairy-tale
+  - brute
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - creature-troll
+  - creature-noble
+  - green-magic
+  - scene-mode
+  - no-face-clear
+  - male-figure
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/152-feasting-troll-king.png
 average_cost_paid: 0
 market_price: 0.77
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,7 +49,7 @@ setting: forest
 artist: Nicholas Gregory
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/152-feasting-troll-king--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/a/9a6bb435-1205-416a-a5a0-ca6d37b4dcb2.jpg?1572490524
-oracle_text: Vigilance, trample\nWhen this creature enters, if you cast it from your hand, create three Food tokens. (They're artifacts with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nSacrifice three Foods: Return this card from your graveyard to the battlefield. Activate only during your turn.
+oracle_text: "Vigilance, trample\\nWhen this creature enters, if you cast it from your hand, create three Food tokens. (They're artifacts with \\\"{2}, {T}, Sacrifice this token: You gain 3 life.\\\")\\nSacrifice three Foods: Return this card from your graveyard to the battlefield. Activate only during your turn."
 ---
 
 # Feasting Troll King (Throne of Eldraine)

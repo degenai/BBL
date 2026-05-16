@@ -13,14 +13,29 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["energy", "orb", "capture", "star", "light", "sphere", "containment", "abstract", "glowing", "potential"]
-tags_filter: ["no-face", "close-up", "energy-card", "colorless-type", "item-card"]
+tags_hub:
+  - energy
+  - orb
+  - capture
+  - star
+  - light
+  - sphere
+  - containment
+  - abstract
+  - glowing
+  - potential
+tags_filter:
+  - no-face
+  - close-up
+  - energy-card
+  - colorless-type
+  - item-card
 reference_image: cards/_images/pokemon/rebel-clash/171-192-capture-energy.png
 average_cost_paid: 0
-market_price: 0.25
-market_price_as_of: 2026-05-14
+market_price: 0.26
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh2/171_hires.png
 art_match_confidence: high
 needs_manual_review: false

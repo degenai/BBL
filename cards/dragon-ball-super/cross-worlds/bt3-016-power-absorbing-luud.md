@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["robot", "giant", "machine", "red", "power", "mechanical", "monster", "android", "overwhelming-force", "fist"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "no-face"]
+tags_hub:
+  - robot
+  - giant
+  - machine
+  - red
+  - power
+  - mechanical
+  - monster
+  - android
+  - overwhelming-force
+  - fist
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - no-face
 reference_image: cards/_images/dragon-ball-super/cross-worlds/bt3-016-power-absorbing-luud.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401005479/814BA0480C46F4AD2392B19268B0602B4D5924F9/
 image_width: 624
 image_height: 871
@@ -30,7 +45,9 @@ setting: void
 suspected_ip: Luud (Dragon Ball GT)
 ip_confidence: high
 ip_verified: true
-characters: ["baby-dbgt", "machine-mutants-m2"]
+characters:
+  - baby-dbgt
+  - machine-mutants-m2
 ---
 
 # Power-absorbing Luud (Cross Worlds)

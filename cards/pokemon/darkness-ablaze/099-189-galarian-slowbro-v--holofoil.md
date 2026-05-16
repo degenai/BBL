@@ -10,20 +10,40 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-characters: ["galarian-regional-forms"]
-tags_hub: ["parasite", "symbiosis", "cannon", "poison", "pink", "shell", "oblivious", "regional-variant", "weapon", "addiction"]
-tags_filter: ["duo", "mid-shot", "forward-facing", "darkness-type", "ultra-rare", "holofoil", "v-card", "action-mode", "pokemon-v"]
+characters:
+  - galarian-regional-forms
+tags_hub:
+  - parasite
+  - symbiosis
+  - cannon
+  - poison
+  - pink
+  - shell
+  - oblivious
+  - regional-variant
+  - weapon
+  - addiction
+tags_filter:
+  - duo
+  - mid-shot
+  - forward-facing
+  - darkness-type
+  - ultra-rare
+  - holofoil
+  - v-card
+  - action-mode
+  - pokemon-v
 reference_image: cards/_images/pokemon/darkness-ablaze/099-189-galarian-slowbro-v--holofoil.png
 average_cost_paid: 0
-market_price: 1.23
-market_price_as_of: 2026-05-14
+market_price: 1.28
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/99_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: 5ban Graphics
-oracle_text: V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.\n[Ability: Rapid-Fire Poison] Once during your turn, if this Pokémon is in the Active Spot, you may make your opponent's Active Pokémon Poisoned.\nTripping Shot (DarknessDarknessColorless) 130: During your opponent's next turn, the Defending Pokémon can't retreat.
+oracle_text: "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.\\n[Ability: Rapid-Fire Poison] Once during your turn, if this Pokémon is in the Active Spot, you may make your opponent's Active Pokémon Poisoned.\\nTripping Shot (DarknessDarknessColorless) 130: During your opponent's next turn, the Defending Pokémon can't retreat."
 mood: action
 time_of_day: indeterminate
 setting: void

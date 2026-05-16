@@ -1,6 +1,6 @@
 ---
 name: Blossoming Sands
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 252
 rarity: L
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["desert", "canyon", "flowers", "blossoms", "wings", "flight", "landscape", "vista", "wilderness", "sky", "rock-formation", "growth"]
-tags_filter: ["no-figures", "wide-shot", "scene-mode", "land", "green-magic", "white-magic", "multicolor-green-white", "landscape-orientation-art", "no-face"]
+tags_hub:
+  - desert
+  - canyon
+  - flowers
+  - blossoms
+  - wings
+  - flight
+  - landscape
+  - vista
+  - wilderness
+  - sky
+  - rock-formation
+  - growth
+tags_filter:
+  - no-figures
+  - wide-shot
+  - scene-mode
+  - land
+  - green-magic
+  - white-magic
+  - multicolor-green-white
+  - landscape-orientation-art
+  - no-face
 reference_image: cards/_images/magic-the-gathering/aetherdrift/252-blossoming-sands.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-10
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/6/9/69949863-2510-4fe2-a815-0682beeb08a3.png?1738356887
 art_match_confidence: high
 needs_manual_review: false
@@ -28,7 +49,7 @@ artist: Valera Lutfullina
 art_crop_image: cards/_images/magic-the-gathering/aetherdrift/252-blossoming-sands--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/9/69949863-2510-4fe2-a815-0682beeb08a3.jpg?1738356887
 flavor_text: The Alacrian Quickbeasts desire not only to win, but to forge new alliances against the unknown threats of this interconnected Multiverse.
-oracle_text: This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {G} or {W}.
+oracle_text: "This land enters tapped.\\nWhen this land enters, you gain 1 life.\\n{T}: Add {G} or {W}."
 ---
 
 # Blossoming Sands (Aetherdrift)

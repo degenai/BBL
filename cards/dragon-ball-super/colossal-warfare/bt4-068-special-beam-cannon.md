@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["beam", "energy-attack", "green-warrior", "precision", "drill", "power", "concentration", "finger", "signature-move", "warrior"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "anime-style"]
+tags_hub:
+  - beam
+  - energy-attack
+  - green-warrior
+  - precision
+  - drill
+  - power
+  - concentration
+  - finger
+  - signature-move
+  - warrior
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - anime-style
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-068-special-beam-cannon.png
 average_cost_paid: 0
 market_price: 0.01
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401034205/78E418D67352EC5214ABC0FC8B52E519A8DDF540/
 image_width: 624
 image_height: 871
@@ -30,7 +45,9 @@ setting: void
 suspected_ip: Piccolo
 ip_confidence: high
 ip_verified: true
-characters: [piccolo-jr, namekian]
+characters:
+  - piccolo-jr
+  - namekian
 ---
 
 # Special Beam Cannon (Colossal Warfare)

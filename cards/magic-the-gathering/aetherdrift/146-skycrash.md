@@ -1,6 +1,6 @@
 ---
 name: Skycrash
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 146
 rarity: U
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["explosion", "wreckage", "lightning", "fire", "vehicle", "racing", "desert", "canyon", "night", "disaster", "shockwave", "destruction"]
-tags_filter: ["no-figure", "wide-shot", "scene-mode", "action-scene", "red-magic", "instant", "artifact-destruction", "cycling"]
+tags_hub:
+  - explosion
+  - wreckage
+  - lightning
+  - fire
+  - vehicle
+  - racing
+  - desert
+  - canyon
+  - night
+  - disaster
+  - shockwave
+  - destruction
+tags_filter:
+  - no-figure
+  - wide-shot
+  - scene-mode
+  - action-scene
+  - red-magic
+  - instant
+  - artifact-destruction
+  - cycling
 reference_image: cards/_images/magic-the-gathering/aetherdrift/146-skycrash.png
 average_cost_paid: 0
-market_price: 0.2
-market_price_as_of: 2026-05-14
+market_price: 0.21
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/8/7/87e82be6-d2b4-4c95-8466-477e8c6832e9.png?1738356462
 art_match_confidence: high
 needs_manual_review: false
@@ -25,7 +45,7 @@ artist: Nicholas Gregory
 art_crop_image: cards/_images/magic-the-gathering/aetherdrift/146-skycrash--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/7/87e82be6-d2b4-4c95-8466-477e8c6832e9.jpg?1738356462
 flavor_text: Under moonfall conditions, there's nothing you can do but drive and hope for the best.
-oracle_text: Destroy target artifact.\nCycling {R} ({R}, Discard this card: Draw a card.)
+oracle_text: "Destroy target artifact.\\nCycling {R} ({R}, Discard this card: Draw a card.)"
 mood: action
 time_of_day: night
 setting: desert

@@ -1,6 +1,6 @@
 ---
 name: Mardu Banner
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Khans of Tarkir
 collector_number: 224
 rarity: C
@@ -10,14 +10,39 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["banner", "flag", "war", "battlefield", "aftermath", "heraldry", "smoke", "fire", "ruin", "weapons", "spear", "clan", "mardu", "horde"]
-tags_filter: ["no-figures", "object-focus", "mid-shot", "no-face", "artifact", "red-magic", "black-magic", "white-magic", "multicolor-mardu", "mana-rock", "card-draw"]
+tags_hub:
+  - banner
+  - flag
+  - war
+  - battlefield
+  - aftermath
+  - heraldry
+  - smoke
+  - fire
+  - ruin
+  - weapons
+  - spear
+  - clan
+  - mardu
+  - horde
+tags_filter:
+  - no-figures
+  - object-focus
+  - mid-shot
+  - no-face
+  - artifact
+  - red-magic
+  - black-magic
+  - white-magic
+  - multicolor-mardu
+  - mana-rock
+  - card-draw
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/224-mardu-banner.png
 average_cost_paid: 0
 market_price: 0.16
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +54,7 @@ artist: Daniel Ljunggren
 art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/224-mardu-banner--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/e/fe10c56d-a8e1-495d-a03a-0b920b44182f.jpg?1562796606
 flavor_text: Speed to strike, fury to smash.
-oracle_text: {T}: Add {R}, {W}, or {B}.\n{R}{W}{B}, {T}, Sacrifice this artifact: Draw a card.
+oracle_text: "{T}: Add {R}, {W}, or {B}.\\n{R}{W}{B}, {T}, Sacrifice this artifact: Draw a card."
 ---
 
 # Mardu Banner (Khans of Tarkir)

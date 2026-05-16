@@ -10,20 +10,39 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["bird", "bone", "desert", "canyon", "fluffy", "sky", "scavenger", "small", "red-rock", "hatchling", "dark"]
-tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "darkness-type", "creature-pokemon", "basic-pokemon", "flying"]
+tags_hub:
+  - bird
+  - bone
+  - desert
+  - canyon
+  - fluffy
+  - sky
+  - scavenger
+  - small
+  - red-rock
+  - hatchling
+  - dark
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - darkness-type
+  - creature-pokemon
+  - basic-pokemon
+  - flying
 reference_image: cards/_images/pokemon/fusion-strike/172-264-vullaby.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh8/172_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Shigenori Negishi
 flavor_text: Vullaby grow quickly. Bones that have gotten too small for older Vullaby to wear often get passed down to younger ones in the nest.
-oracle_text: Razor Wing (Colorless) 10\nAir Slash (DarknessColorless) 30: Discard an Energy from this Pokémon.
+oracle_text: "Razor Wing (Colorless) 10\\nAir Slash (DarknessColorless) 30: Discard an Energy from this Pokémon."
 mood: other
 time_of_day: day
 setting: desert

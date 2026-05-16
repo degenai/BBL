@@ -1,6 +1,6 @@
 ---
 name: Absolving Lammasu
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 2
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["lammasu", "wings", "bull", "mythical-creature", "guardian", "urban-fantasy", "detective", "flying", "ravnica", "law", "agency", "horns"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "white-magic", "creature", "portrait"]
+tags_hub:
+  - lammasu
+  - wings
+  - bull
+  - mythical-creature
+  - guardian
+  - urban-fantasy
+  - detective
+  - flying
+  - ravnica
+  - law
+  - agency
+  - horns
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - white-magic
+  - creature
+  - portrait
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/2-absolving-lammasu.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/b/d/bd6e71a1-713e-4eca-bd65-9f0638c16794.png?1706389555
 art_match_confidence: high
 needs_manual_review: false

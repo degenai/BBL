@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["fire", "energy-blast", "hovering", "villain", "explosion", "flame", "reptilian", "menace", "attack", "wrath"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "battle-card", "uncommon", "male-figure", "dbs-colossal-warfare"]
+tags_hub:
+  - fire
+  - energy-blast
+  - hovering
+  - villain
+  - explosion
+  - flame
+  - reptilian
+  - menace
+  - attack
+  - wrath
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - battle-card
+  - uncommon
+  - male-figure
+  - dbs-colossal-warfare
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-043-phantom-flame-cannon.png
 average_cost_paid: 0
 market_price: 0.02
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401029898/0D666DD2EDC738B2B3F24762940354CFA4C0D8C9/
 image_width: 624
 image_height: 869
@@ -27,7 +45,7 @@ needs_manual_review: false
 mood: action
 time_of_day: indeterminate
 setting: void
-suspected_ip: Hoi (Dragon Ball Z: Wrath of the Dragon)
+suspected_ip: "Hoi (Dragon Ball Z: Wrath of the Dragon)"
 ip_confidence: med
 ip_verified: false
 ---

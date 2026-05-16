@@ -1,6 +1,6 @@
 ---
 name: Panic Spellbomb
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Scars of Mirrodin
 collector_number: 191
 rarity: C
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["explosion", "fire", "bomb", "metal", "device", "machinery", "destruction", "rupture", "starburst", "weapon", "panic"]
-tags_filter: ["no-figure", "close-up", "object-mode", "centered", "artifact-card", "colorless-magic", "scars-of-mirrodin", "no-face", "artifact"]
+tags_hub:
+  - explosion
+  - fire
+  - bomb
+  - metal
+  - device
+  - machinery
+  - destruction
+  - rupture
+  - starburst
+  - weapon
+  - panic
+tags_filter:
+  - no-figure
+  - close-up
+  - object-mode
+  - centered
+  - artifact-card
+  - colorless-magic
+  - scars-of-mirrodin
+  - no-face
+  - artifact
 reference_image: cards/_images/magic-the-gathering/scars-of-mirrodin/191-panic-spellbomb.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,7 +48,7 @@ setting: void
 artist: Franz Vohwinkel
 art_crop_image: cards/_images/magic-the-gathering/scars-of-mirrodin/191-panic-spellbomb--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/9/e9a29832-8630-498a-9ac3-bc709a6dc95d.jpg?1562824575
-oracle_text: {T}, Sacrifice this artifact: Target creature can't block this turn.\nWhen this artifact is put into a graveyard from the battlefield, you may pay {R}. If you do, draw a card.
+oracle_text: "{T}, Sacrifice this artifact: Target creature can't block this turn.\\nWhen this artifact is put into a graveyard from the battlefield, you may pay {R}. If you do, draw a card."
 ---
 
 # Panic Spellbomb (Scars of Mirrodin)

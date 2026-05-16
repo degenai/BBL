@@ -1,6 +1,6 @@
 ---
 name: Iona's Blessing
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Oath of the Gatewatch
 collector_number: 21
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["blessing", "halo", "divine", "vision", "warrior", "runes", "light", "protection", "focus", "inner-strength", "grace"]
-tags_filter: ["solo", "close-up", "portrait", "forward-facing", "male-figure", "white-magic", "enchantment-aura"]
+tags_hub:
+  - blessing
+  - halo
+  - divine
+  - vision
+  - warrior
+  - runes
+  - light
+  - protection
+  - focus
+  - inner-strength
+  - grace
+tags_filter:
+  - solo
+  - close-up
+  - portrait
+  - forward-facing
+  - male-figure
+  - white-magic
+  - enchantment-aura
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/21-iona-s-blessing.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Oath of the Gatewatch'
@@ -33,7 +51,8 @@ image_quality: high
 mood: sublime
 time_of_day: indeterminate
 setting: other
-characters: [iona]
+characters:
+  - iona
 ---
 
 # Iona's Blessing (Oath of the Gatewatch)

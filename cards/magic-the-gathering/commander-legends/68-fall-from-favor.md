@@ -1,6 +1,6 @@
 ---
 name: Fall from Favor
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Commander Legends
 collector_number: 68
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["robed-figure", "castle", "curse", "magic-blast", "downfall", "noble", "courtier", "fortress", "betrayal", "spell-impact", "dethroned", "ritual"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "no-face", "blue-magic", "enchantment", "aura", "scene-mode"]
+tags_hub:
+  - robed-figure
+  - castle
+  - curse
+  - magic-blast
+  - downfall
+  - noble
+  - courtier
+  - fortress
+  - betrayal
+  - spell-impact
+  - dethroned
+  - ritual
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action-mode
+  - no-face
+  - blue-magic
+  - enchantment
+  - aura
+  - scene-mode
 reference_image: cards/_images/magic-the-gathering/commander-legends/68-fall-from-favor.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,7 +47,8 @@ mood: grim
 time_of_day: indeterminate
 setting: other
 artist: Caio Monteiro
-symbols: ["monarch-at-common-cmr"]
+symbols:
+  - monarch-at-common-cmr
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/68-fall-from-favor--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/7/e709a18f-b99d-4fa1-ae5c-7f22abd02c0a.jpg?1610624917
 oracle_text: Enchant creature\nWhen this Aura enters, tap enchanted creature and you become the monarch.\nEnchanted creature doesn't untap during its controller's untap step unless that player is the monarch.

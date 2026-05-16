@@ -1,6 +1,6 @@
 ---
 name: Sorcerer's Broom
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 232
 rarity: U
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["broom", "enchanted-object", "animated-object", "household-tool", "fairy-tale", "folklore", "witchcraft", "magic-apprentice", "servant", "labor", "uncanny"]
-tags_filter: ["solo", "no-face", "mid-shot", "portrait-mode", "forward-facing", "indoor-setting", "artifact", "creature-spirit", "colorless-magic", "sorcery", "no-figure"]
+tags_hub:
+  - broom
+  - enchanted-object
+  - animated-object
+  - household-tool
+  - fairy-tale
+  - folklore
+  - witchcraft
+  - magic-apprentice
+  - servant
+  - labor
+  - uncanny
+tags_filter:
+  - solo
+  - no-face
+  - mid-shot
+  - portrait-mode
+  - forward-facing
+  - indoor-setting
+  - artifact
+  - creature-spirit
+  - colorless-magic
+  - sorcery
+  - no-figure
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/232-sorcerer-s-broom.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'

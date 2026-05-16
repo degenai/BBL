@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["saiyan", "transformation", "lightning", "rage", "youth", "tournament", "universe-6", "warrior", "power", "golden-aura", "fighter", "determination"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "action-pose", "dbs-card", "suspected-ip", "super-saiyan-form"]
+tags_hub:
+  - saiyan
+  - transformation
+  - lightning
+  - rage
+  - youth
+  - tournament
+  - universe-6
+  - warrior
+  - power
+  - golden-aura
+  - fighter
+  - determination
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - action-pose
+  - dbs-card
+  - suspected-ip
+  - super-saiyan-form
 reference_image: cards/_images/dragon-ball-super/galactic-battle/bt1-013-raging-cabba.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400567184/DFEBED1434B93807E51070F48B7C06E78CBCFA24/
 image_width: 624
 image_height: 874
@@ -30,7 +49,9 @@ setting: void
 suspected_ip: Cabba (Dragon Ball Super)
 ip_confidence: high
 ip_verified: true
-characters: [saiyan, universe-6-tournament-cohort]
+characters:
+  - saiyan
+  - universe-6-tournament-cohort
 ---
 
 # Raging Cabba (Galactic Battle)

@@ -1,6 +1,6 @@
 ---
 name: Waker of Waves
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: The List
 collector_number: 084/274
 rarity: U
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["whale", "leviathan", "sea-monster", "ocean", "ship", "shipwreck", "storm", "deep-sea", "monster", "scale-disparity", "maritime", "wave"]
-tags_filter: ["solo", "wide-shot", "scene-mode", "no-face", "creature-whale", "blue-magic", "underwater-composition", "split-waterline"]
+tags_hub:
+  - whale
+  - leviathan
+  - sea-monster
+  - ocean
+  - ship
+  - shipwreck
+  - storm
+  - deep-sea
+  - monster
+  - scale-disparity
+  - maritime
+  - wave
+tags_filter:
+  - solo
+  - wide-shot
+  - scene-mode
+  - no-face
+  - creature-whale
+  - blue-magic
+  - underwater-composition
+  - split-waterline
 reference_image: cards/_images/magic-the-gathering/the-list/084-274-waker-of-waves.png
 average_cost_paid: 0
-market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price: 0.12
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'The List'
@@ -29,7 +49,7 @@ artist: Svetlin Velinov
 art_crop_image: cards/_images/magic-the-gathering/the-list/084-274-waker-of-waves--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/e/3e2c3304-1bd9-44bb-bd91-00b3a089be00.jpg?1723439289
 flavor_text: On the open sea, there is nowhere to hide.
-oracle_text: Creatures your opponents control get -1/-0.\n{1}{U}, Discard this card: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.
+oracle_text: "Creatures your opponents control get -1/-0.\\n{1}{U}, Discard this card: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard."
 ---
 
 # Waker of Waves (The List)

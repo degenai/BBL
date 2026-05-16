@@ -1,6 +1,6 @@
 ---
 name: Roadside Assistance
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 26
 rarity: U
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["companions", "forest", "swamp", "repair", "teamwork", "guard", "snake", "soldier", "nature", "labor", "vehicle"]
-tags_filter: ["duo", "mid-shot", "narrative", "three-quarter", "female-figure", "white-magic", "enchantment-aura", "lifelink"]
+tags_hub:
+  - companions
+  - forest
+  - swamp
+  - repair
+  - teamwork
+  - guard
+  - snake
+  - soldier
+  - nature
+  - labor
+  - vehicle
+tags_filter:
+  - duo
+  - mid-shot
+  - narrative
+  - three-quarter
+  - female-figure
+  - white-magic
+  - enchantment-aura
+  - lifelink
 reference_image: cards/_images/magic-the-gathering/aetherdrift/26-roadside-assistance.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/8/f/8f2a9154-7b43-4b8d-9d81-d11cfda5d597.png?1738356164
 art_match_confidence: high
 needs_manual_review: false

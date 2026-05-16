@@ -1,6 +1,6 @@
 ---
 name: Lassoed by the Law
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Outlaws of Thunder Junction
 collector_number: 18
 rarity: U
@@ -10,21 +10,39 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["lasso", "arrest", "law", "western", "justice", "capture", "magic-restraint", "town", "bounty", "power", "cactus"]
-tags_filter: ["group", "wide", "scene-mode", "forward-facing", "enchantment-aura", "white-magic", "duo"]
+tags_hub:
+  - lasso
+  - arrest
+  - law
+  - western
+  - justice
+  - capture
+  - magic-restraint
+  - town
+  - bounty
+  - power
+  - cactus
+tags_filter:
+  - group
+  - wide
+  - scene-mode
+  - forward-facing
+  - enchantment-aura
+  - white-magic
+  - duo
 reference_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/18-lassoed-by-the-law.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/e/a/ea96eeac-c316-4247-a81f-0ddf52675ebf.png?1712355295
 art_match_confidence: high
 needs_manual_review: false
 artist: Leanna Crossan
 art_crop_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/18-lassoed-by-the-law--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/a/ea96eeac-c316-4247-a81f-0ddf52675ebf.jpg?1712355295
-oracle_text: When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.\nWhen this enchantment enters, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"
+oracle_text: "When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.\\nWhen this enchantment enters, create a 1/1 red Mercenary creature token with \\\"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\\\""
 image_width: 745
 image_height: 1040
 image_quality: high

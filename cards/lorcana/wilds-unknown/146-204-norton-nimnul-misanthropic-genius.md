@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["scientist", "villain", "invention", "mad-scientist", "ray-gun", "comedy", "lab-coat", "genius", "monster", "desert", "gadget"]
-tags_filter: ["wide", "action", "forward-facing", "sapphire-magic", "character-card", "storyborn", "inventor", "group", "creature-allies"]
+tags_hub:
+  - scientist
+  - villain
+  - invention
+  - mad-scientist
+  - ray-gun
+  - comedy
+  - lab-coat
+  - genius
+  - monster
+  - desert
+  - gadget
+tags_filter:
+  - wide
+  - action
+  - forward-facing
+  - sapphire-magic
+  - character-card
+  - storyborn
+  - inventor
+  - group
+  - creature-allies
 reference_image: cards/_images/lorcana/wilds-unknown/146-204-norton-nimnul-misanthropic-genius.jpg
 average_cost_paid: 0
-market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price: 0.05
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set12/146_d855e5debaae441bbc48a5479c95375746faae18.jpg
 art_match_confidence: high
 needs_manual_review: false

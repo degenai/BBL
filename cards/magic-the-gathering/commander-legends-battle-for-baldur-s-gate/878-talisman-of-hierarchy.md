@@ -1,7 +1,7 @@
 ---
 name: Talisman of Hierarchy
-game: Magic: The Gathering
-set: Commander Legends: Battle for Baldur's Gate
+game: "Magic: The Gathering"
+set: "Commander Legends: Battle for Baldur's Gate"
 collector_number: 878
 rarity: U
 variance: Normal
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["talisman", "amulet", "sigil", "triangle", "occult", "ritual", "still-life", "metalwork", "tarot", "divination", "checkered-floor", "treasure"]
-tags_filter: ["no-figure", "no-face", "close-up", "object-mode", "top-down", "artifact", "multicolor-white-black", "white-magic", "black-magic"]
+tags_hub:
+  - talisman
+  - amulet
+  - sigil
+  - triangle
+  - occult
+  - ritual
+  - still-life
+  - metalwork
+  - tarot
+  - divination
+  - checkered-floor
+  - treasure
+tags_filter:
+  - no-figure
+  - no-face
+  - close-up
+  - object-mode
+  - top-down
+  - artifact
+  - multicolor-white-black
+  - white-magic
+  - black-magic
 reference_image: cards/_images/magic-the-gathering/commander-legends-battle-for-baldur-s-gate/878-talisman-of-hierarchy.png
 average_cost_paid: 0
 market_price: 0.85
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -26,11 +47,12 @@ mood: other
 time_of_day: indeterminate
 setting: indoor
 artist: Lindsey Look
-characters: ["kaya"]
+characters:
+  - kaya
 art_crop_image: cards/_images/magic-the-gathering/commander-legends-battle-for-baldur-s-gate/878-talisman-of-hierarchy--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/2/2299c93e-f3a6-4b41-857b-e3d1aff0f622.jpg?1674142768
 flavor_text: \"You'll never get to the top if you don't know who's already there.\"\n—Kaya
-oracle_text: {T}: Add {C}.\n{T}: Add {W} or {B}. This artifact deals 1 damage to you.
+oracle_text: "{T}: Add {C}.\\n{T}: Add {W} or {B}. This artifact deals 1 damage to you."
 ---
 
 # Talisman of Hierarchy (Commander Legends: Battle for Baldur's Gate)

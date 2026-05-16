@@ -1,7 +1,7 @@
 ---
 name: Lionheart Glimmer
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 19
 rarity: U
 variance: Normal
@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["lion", "fire", "spirit-animal", "rally", "survivors", "twilight", "protector", "field", "supernatural", "courage"]
-tags_filter: ["group", "wide", "narrative", "forward-facing", "creature"]
+tags_hub:
+  - lion
+  - fire
+  - spirit-animal
+  - rally
+  - survivors
+  - twilight
+  - protector
+  - field
+  - supernatural
+  - courage
+tags_filter:
+  - group
+  - wide
+  - narrative
+  - forward-facing
+  - creature
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/19-lionheart-glimmer.png
 average_cost_paid: 0
-market_price: 0.24
-market_price_as_of: 2026-05-14
+market_price: 0.22
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/4/8/483e1c6f-331c-45f1-bf5d-9b9742aa8903.png?1726285926
 art_match_confidence: high
 needs_manual_review: false

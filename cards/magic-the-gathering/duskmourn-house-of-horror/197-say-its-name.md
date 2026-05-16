@@ -1,7 +1,7 @@
 ---
 name: Say Its Name
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 197
 rarity: C
 variance: Normal
@@ -10,25 +10,48 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["mirror", "reflection", "broken-glass", "horror", "body-horror", "worms", "tendrils", "infestation", "hand", "face", "haunted-house", "transformation"]
-tags_filter: ["solo", "close-up", "forward-facing", "single-figure", "indoor-scene", "black-magic", "sorcery", "mill", "graveyard-recursion", "indeterminate-time"]
+tags_hub:
+  - mirror
+  - reflection
+  - broken-glass
+  - horror
+  - body-horror
+  - worms
+  - tendrils
+  - infestation
+  - hand
+  - face
+  - haunted-house
+  - transformation
+tags_filter:
+  - solo
+  - close-up
+  - forward-facing
+  - single-figure
+  - indoor-scene
+  - black-magic
+  - sorcery
+  - mill
+  - graveyard-recursion
+  - indeterminate-time
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/197-say-its-name.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/9/4/94c58683-b5f2-4863-9562-6f6be1ec21fe.png?1726286600
 art_match_confidence: high
 needs_manual_review: false
 artist: Sam Wolfe Connelly
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/197-say-its-name--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/4/94c58683-b5f2-4863-9562-6f6be1ec21fe.jpg?1726286600
-oracle_text: Mill three cards. Then you may return a creature or land card from your graveyard to your hand.\nExile this card and two other cards named Say Its Name from your graveyard: Search your graveyard, hand, and/or library for a card named Altanak, the Thrice-Called and put it onto the battlefield. If you search your library this way, shuffle. Activate only as a sorcery.
+oracle_text: "Mill three cards. Then you may return a creature or land card from your graveyard to your hand.\\nExile this card and two other cards named Say Its Name from your graveyard: Search your graveyard, hand, and/or library for a card named Altanak, the Thrice-Called and put it onto the battlefield. If you search your library this way, shuffle. Activate only as a sorcery."
 mood: horror
 time_of_day: indeterminate
 setting: indoor
-characters: ["valgavoth"]
+characters:
+  - valgavoth
 ---
 
 # Say Its Name (Duskmourn: House of Horror)

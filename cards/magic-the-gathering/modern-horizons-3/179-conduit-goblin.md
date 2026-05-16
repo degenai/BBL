@@ -1,6 +1,6 @@
 ---
 name: Conduit Goblin
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 179
 rarity: C
@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["goblin", "storm", "lightning", "warrior", "armor", "defiance", "thunder", "soldier", "axe", "bravado"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "male-figure", "red-magic", "creature-goblin"]
+tags_hub:
+  - goblin
+  - storm
+  - lightning
+  - warrior
+  - armor
+  - defiance
+  - thunder
+  - soldier
+  - axe
+  - bravado
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - male-figure
+  - red-magic
+  - creature-goblin
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/179-conduit-goblin.png
 average_cost_paid: 0
-market_price: 0.14
-market_price_as_of: 2026-05-14
+market_price: 0.12
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/5/c/5c9ad04d-c4d4-4d06-93bb-a881be733717.png?1717012655
 art_match_confidence: high
 needs_manual_review: false

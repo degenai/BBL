@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["martial-arts", "fighter", "bald", "resilience", "tournament", "warrior", "toughness", "combat", "underdog", "determination"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "anime-style", "male-figure"]
+tags_hub:
+  - martial-arts
+  - fighter
+  - bald
+  - resilience
+  - tournament
+  - warrior
+  - toughness
+  - combat
+  - underdog
+  - determination
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - anime-style
+  - male-figure
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-053-toughened-up-krillin.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408080269/4DFE173AB5BA83B5A2AC9F041B8499102362AED1/
 image_width: 624
 image_height: 871
@@ -30,7 +46,8 @@ setting: other
 suspected_ip: Krillin
 ip_confidence: high
 ip_verified: true
-characters: [krillin]
+characters:
+  - krillin
 ---
 
 # Toughened Up Krillin (World Martial Arts Tournament)

@@ -1,6 +1,6 @@
 ---
 name: Dreadhorde Arcanist
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 125
 rarity: R
@@ -10,14 +10,28 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["undead", "arcanist", "magic", "mask", "dark-magic", "staff", "ruins", "city", "villain", "zombie"]
-tags_filter: ["solo", "forward-facing", "mid-shot", "creature"]
+tags_hub:
+  - undead
+  - arcanist
+  - magic
+  - mask
+  - dark-magic
+  - staff
+  - ruins
+  - city
+  - villain
+  - zombie
+tags_filter:
+  - solo
+  - forward-facing
+  - mid-shot
+  - creature
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/125-dreadhorde-arcanist.png
 average_cost_paid: 0
-market_price: 0.61
-market_price_as_of: 2026-05-14
+market_price: 0.59
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/f/d/fd97b3cf-924e-4f77-bb82-0bf19592389f.png?1613386994
 art_match_confidence: high
 needs_manual_review: false

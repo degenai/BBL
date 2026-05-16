@@ -1,23 +1,46 @@
 ---
 name: Wolf's Quarry
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 184
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 2
+quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["boar", "piglet", "forest", "prey", "woodland", "animals", "trio", "hunt", "wildlife", "young-animal", "fairy-tale", "nature"]
-tags_filter: ["no-figure", "group", "3-creatures", "mid-shot", "scene-mode", "faces-away", "no-face", "green-magic", "sorcery", "token-generator", "food-token"]
+tags_hub:
+  - boar
+  - piglet
+  - forest
+  - prey
+  - woodland
+  - animals
+  - trio
+  - hunt
+  - wildlife
+  - young-animal
+  - fairy-tale
+  - nature
+tags_filter:
+  - no-figure
+  - group
+  - 3-creatures
+  - mid-shot
+  - scene-mode
+  - faces-away
+  - no-face
+  - green-magic
+  - sorcery
+  - token-generator
+  - food-token
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/184-wolf-s-quarry.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-14
+market_price: 0.23
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +52,7 @@ artist: Lars Grant-West
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/184-wolf-s-quarry--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/d/5d21c15f-378e-4abf-992f-9743aa6ab6b8.jpg?1590720504
 flavor_text: \"The monster was gaining on them. Twice it had found them. There was only one place left to hide.\"\n—*Tales of the Fae*
-oracle_text: Create three 1/1 green Boar creature tokens with \"When this token dies, create a Food token.\" (A Food token is an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")
+oracle_text: "Create three 1/1 green Boar creature tokens with \\\"When this token dies, create a Food token.\\\" (A Food token is an artifact with \\\"{2}, {T}, Sacrifice this token: You gain 3 life.\\\")"
 ---
 
 # Wolf's Quarry (Throne of Eldraine)

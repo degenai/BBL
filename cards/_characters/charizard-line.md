@@ -1,7 +1,14 @@
 ---
 type: character
 name: Charizard evolutionary line (Charmander / Charmeleon / Charizard)
-aliases: [charizard-line, charmander-line, charmander-charmeleon-charizard, kanto-fire-starter-line, gen-i-fire-starter-line, charizard-evolutionary-line, charizard-family]
+aliases:
+  - charizard-line
+  - charmander-line
+  - charmander-charmeleon-charizard
+  - kanto-fire-starter-line
+  - gen-i-fire-starter-line
+  - charizard-evolutionary-line
+  - charizard-family
 universe: Pokemon / Kanto (Generation I, Pokemon Red and Blue, Game Freak / Creatures Inc. / Nintendo, 1996; expanded across every subsequent generation as one of the franchise's marquee species lines)
 faction: ~
 species: three-stage Fire-type evolutionary line — Charmander (base, National Pokedex no. 004, Fire) → Charmeleon (Stage 1, no. 005, Fire) → Charizard (Stage 2, no. 006, Fire/Flying); one of the three original Kanto starter trios alongside the Bulbasaur and Squirtle lines
@@ -16,7 +23,9 @@ appears_on:
   - pokemon/vivid-voltage/025-185-charizard
 related_hubs: []
 related_symbols: []
-related_characters: [galar-gym-challenge, staraptor-line]
+related_characters:
+  - galar-gym-challenge
+  - staraptor-line
 ip_resolution_for: charizard-line
 ---
 

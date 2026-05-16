@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["star", "energy", "symbol", "duality", "grey", "minimalist", "classic", "power", "balance", "neutral"]
-tags_filter: ["no-face", "close-up", "abstract", "energy-card", "colorless-type"]
+tags_hub:
+  - star
+  - energy
+  - symbol
+  - duality
+  - grey
+  - minimalist
+  - classic
+  - power
+  - balance
+  - neutral
+tags_filter:
+  - no-face
+  - close-up
+  - abstract
+  - energy-card
+  - colorless-type
 reference_image: cards/_images/pokemon/evolutions/90-108-double-colorless-energy.png
 average_cost_paid: 0
-market_price: 0.37
-market_price_as_of: 2026-05-14
+market_price: 0.34
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/xy12/90_hires.png
 art_match_confidence: high
 needs_manual_review: false

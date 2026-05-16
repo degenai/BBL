@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["assassin", "stoic", "power", "aura", "tournament", "universe-6", "fighter", "purple-coat", "restraint", "bounty-hunter", "cosmic", "blue-skin"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait", "action-pose", "dbs-card", "suspected-ip", "alien-figure"]
+tags_hub:
+  - assassin
+  - stoic
+  - power
+  - aura
+  - tournament
+  - universe-6
+  - fighter
+  - purple-coat
+  - restraint
+  - bounty-hunter
+  - cosmic
+  - blue-skin
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait
+  - action-pose
+  - dbs-card
+  - suspected-ip
+  - alien-figure
 reference_image: cards/_images/dragon-ball-super/galactic-battle/bt1-003-hit-assassin-hit.png
 average_cost_paid: 0
 market_price: 0.21
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400557367/9ED2711FAE7AF1BCF57E04BF39A1B13D553E63D3/
 image_width: 624
 image_height: 874
@@ -30,7 +50,8 @@ setting: void
 suspected_ip: Hit (Dragon Ball Super)
 ip_confidence: high
 ip_verified: true
-characters: [universe-6-tournament-cohort]
+characters:
+  - universe-6-tournament-cohort
 ---
 
 # Hit // Assassin Hit (Galactic Battle)

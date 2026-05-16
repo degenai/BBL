@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["villain", "parasite", "transformation", "energy-aura", "baby-saga", "tuffle", "alien", "possession", "blue-skin", "coiled-power", "fighter"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "leader-card", "baby-side", "red-magic", "creature"]
+tags_hub:
+  - villain
+  - parasite
+  - transformation
+  - energy-aura
+  - baby-saga
+  - tuffle
+  - alien
+  - possession
+  - blue-skin
+  - coiled-power
+  - fighter
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - leader-card
+  - baby-side
+  - red-magic
+  - creature
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-002-baby-rampaging-great-ape-baby.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401023454/78EBA0C4FDAEC13B252120A2397732660C813942/
 image_width: 624
 image_height: 871
@@ -30,7 +49,9 @@ setting: void
 suspected_ip: Baby (Dragon Ball GT)
 ip_confidence: high
 ip_verified: true
-characters: [baby-dbgt, saiyan]
+characters:
+  - baby-dbgt
+  - saiyan
 ---
 
 # Baby // Rampaging Great Ape Baby (Colossal Warfare)

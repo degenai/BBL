@@ -1,6 +1,6 @@
 ---
 name: Rise of the Varmints
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Outlaws of Thunder Junction
 collector_number: 179
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["swarm", "uprising", "monster", "destruction", "frontier", "town", "reptile", "chaos", "horde", "rampage", "western", "infestation"]
-tags_filter: ["crowd", "wide", "scene-mode", "sorcery", "green-magic", "creature-token"]
+tags_hub:
+  - swarm
+  - uprising
+  - monster
+  - destruction
+  - frontier
+  - town
+  - reptile
+  - chaos
+  - horde
+  - rampage
+  - western
+  - infestation
+tags_filter:
+  - crowd
+  - wide
+  - scene-mode
+  - sorcery
+  - green-magic
+  - creature-token
 reference_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/179-rise-of-the-varmints.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/f/4/f4e879d8-a058-48e8-9733-f58b1e0da4b9.png?1712355986
 art_match_confidence: high
 needs_manual_review: false

@@ -10,20 +10,40 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["monster", "dark", "forest", "menace", "hair", "shadow", "villain", "sinister", "prankster", "bulk", "creature", "night-creature", "darkness"]
-tags_filter: ["solo", "forward-facing", "mid-shot", "action", "psychic-type", "no-weapons", "dark-palette"]
+tags_hub:
+  - monster
+  - dark
+  - forest
+  - menace
+  - hair
+  - shadow
+  - villain
+  - sinister
+  - prankster
+  - bulk
+  - creature
+  - night-creature
+  - darkness
+tags_filter:
+  - solo
+  - forward-facing
+  - mid-shot
+  - action
+  - psychic-type
+  - no-weapons
+  - dark-palette
 reference_image: cards/_images/pokemon/journey-together/073-159-grimmsnarl.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sv9/73_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Nisota Niso
 flavor_text: It lives deep within the forest. Even after evolving into this splendid form, it hasn't given up on its petty misdeeds and pranks.
-oracle_text: Shadowy Knot (Psychic) 50×: This attack does 50 damage for each Colorless in your opponent's Active Pokémon's Retreat Cost.\nMega Punch (PsychicColorless) 120
+oracle_text: "Shadowy Knot (Psychic) 50×: This attack does 50 damage for each Colorless in your opponent's Active Pokémon's Retreat Cost.\\nMega Punch (PsychicColorless) 120"
 image_width: 733
 image_height: 1024
 image_quality: high

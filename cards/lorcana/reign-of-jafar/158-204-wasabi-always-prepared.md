@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["hero", "electricity", "armor", "warrior", "inventor", "teamwork", "readiness", "sci-fi", "energy", "san-fransokyo", "superhero", "technology"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "male-figure", "modern", "lorcana-sapphire"]
+tags_hub:
+  - hero
+  - electricity
+  - armor
+  - warrior
+  - inventor
+  - teamwork
+  - readiness
+  - sci-fi
+  - energy
+  - san-fransokyo
+  - superhero
+  - technology
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - male-figure
+  - modern
+  - lorcana-sapphire
 reference_image: cards/_images/lorcana/reign-of-jafar/158-204-wasabi-always-prepared.jpg
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set8/158_638d512ab37245c8830820cfd3e5150eecea3198.jpg
 art_match_confidence: high
 needs_manual_review: false

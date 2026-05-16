@@ -10,20 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["bouncing", "pearl", "spring", "pig", "psychic", "motion", "creature", "cute", "coiled", "energy", "levitation"]
-tags_filter: ["solo", "mid-shot", "action", "three-quarter", "psychic-type", "basic-pokemon"]
+tags_hub:
+  - bouncing
+  - pearl
+  - spring
+  - pig
+  - psychic
+  - motion
+  - creature
+  - cute
+  - coiled
+  - energy
+  - levitation
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - three-quarter
+  - psychic-type
+  - basic-pokemon
 reference_image: cards/_images/pokemon/fates-collide/30-spoink.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/xy10/30_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: TOKIYA
 flavor_text: It bounces around on its tail to keep its heart pumping. It carries a pearl from Clamperl on its head.
-oracle_text: Rocket Jump (Psychic) 30: Flip a coin. If tails, this attack does nothing.
+oracle_text: "Rocket Jump (Psychic) 30: Flip a coin. If tails, this attack does nothing."
 mood: action
 time_of_day: indeterminate
 setting: void

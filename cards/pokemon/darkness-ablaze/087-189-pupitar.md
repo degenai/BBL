@@ -10,20 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["cocoon", "transformation", "shell", "sunset", "spikes", "mountain", "contained-power", "evolution", "sky", "hardness"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "fighting-type", "portrait-mode", "uncommon"]
+tags_hub:
+  - cocoon
+  - transformation
+  - shell
+  - sunset
+  - spikes
+  - mountain
+  - contained-power
+  - evolution
+  - sky
+  - hardness
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - fighting-type
+  - portrait-mode
+  - uncommon
 reference_image: cards/_images/pokemon/darkness-ablaze/087-189-pupitar.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price: 0.11
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/87_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Sekio
 flavor_text: Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.
-oracle_text: Sand Spray (Fighting) 20\nRocket Evolution (ColorlessColorlessColorless) 40: Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck.
+oracle_text: "Sand Spray (Fighting) 20\\nRocket Evolution (ColorlessColorlessColorless) 40: Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck."
 mood: action
 time_of_day: sunset
 setting: mountain
@@ -31,7 +47,8 @@ subject_known_ip: true
 suspected_ip: Pupitar
 ip_confidence: high
 ip_verified: true
-characters: ["larvitar-line"]
+characters:
+  - larvitar-line
 ---
 
 # Pupitar (Darkness Ablaze)

@@ -1,7 +1,13 @@
 ---
 type: character
 name: Oko
-aliases: [oko, oko-thief-of-crowns, oko-the-trickster, oko-the-ringleader, the-fae-king, the-trickster]
+aliases:
+  - oko
+  - oko-thief-of-crowns
+  - oko-the-trickster
+  - oko-the-ringleader
+  - the-fae-king
+  - the-trickster
 universe: "Magic: The Gathering / Eldraine / Multiverse"
 faction: "Eldraine fae court (post-Throne-of-Eldraine self-installed Fae King); originally Lorwyn-Shadowmoor"
 species: Fae shapeshifter planeswalker
@@ -12,7 +18,7 @@ appears_on:
   - magic-the-gathering/throne-of-eldraine/310-oko-s-accomplices
   - magic-the-gathering/throne-of-eldraine/312-oko-s-hospitality
   - magic-the-gathering/modern-horizons-3/175-trickster-s-elk
-related_hubs: [rebellion]
+related_hubs: "[rebellion]"
 related_symbols: []
 related_characters: []
 ip_resolution_for: Oko

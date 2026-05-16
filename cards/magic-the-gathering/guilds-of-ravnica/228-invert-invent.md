@@ -1,6 +1,6 @@
 ---
 name: Invert // Invent
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Guilds of Ravnica
 collector_number: 228
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["fire", "ice", "lightning", "elemental", "duality", "inventor", "storm", "goblin", "experiment", "izzet", "contrast", "energy"]
-tags_filter: ["group", "scene", "action", "multicolor-blue-red", "instant-sorcery", "split-card"]
+tags_hub:
+  - fire
+  - ice
+  - lightning
+  - elemental
+  - duality
+  - inventor
+  - storm
+  - goblin
+  - experiment
+  - izzet
+  - contrast
+  - energy
+tags_filter:
+  - group
+  - scene
+  - action
+  - multicolor-blue-red
+  - instant-sorcery
+  - split-card
 reference_image: cards/_images/magic-the-gathering/guilds-of-ravnica/228-invert-invent.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price: 0.11
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/0/5/054a4e4f-8baa-41cf-b24c-d068e8b9a070.png?1665155918
 art_match_confidence: high
 needs_manual_review: false

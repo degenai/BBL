@@ -1,6 +1,6 @@
 ---
 name: Clandestine Meddler (a)
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 82
 rarity: U
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["spy", "noir", "gothic", "vampire", "surveillance", "shadow", "infiltrator", "cloaked-figure", "rooftop", "villain", "darkness", "red-curtain"]
-tags_filter: ["mid-shot", "portrait", "duo", "three-quarter", "showcase-frame", "indoor", "chiaroscuro"]
+tags_hub:
+  - spy
+  - noir
+  - gothic
+  - vampire
+  - surveillance
+  - shadow
+  - infiltrator
+  - cloaked-figure
+  - rooftop
+  - villain
+  - darkness
+  - red-curtain
+tags_filter:
+  - mid-shot
+  - portrait
+  - duo
+  - three-quarter
+  - showcase-frame
+  - indoor
+  - chiaroscuro
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/82-clandestine-meddler-a.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/2/e/2e069de0-3218-456c-b191-93e755634783.png?1706241684
 art_match_confidence: high
 needs_manual_review: false

@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["sword", "warrior", "power", "aura", "super-saiyan", "fighter", "energy", "blade", "combat", "hero", "transformation"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "anime-style", "male-figure"]
+tags_hub:
+  - sword
+  - warrior
+  - power
+  - aura
+  - super-saiyan
+  - fighter
+  - energy
+  - blade
+  - combat
+  - hero
+  - transformation
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - anime-style
+  - male-figure
 reference_image: cards/_images/dragon-ball-super/cross-worlds/sd3-02-killer-sword-trunks.png
 average_cost_paid: 0
 market_price: 0.21
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401488069/860DE8695C9AD66BE7AD957D77B8A31DA575B921/
 image_width: 624
 image_height: 871

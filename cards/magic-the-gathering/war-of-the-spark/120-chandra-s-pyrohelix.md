@@ -1,6 +1,6 @@
 ---
 name: Chandra's Pyrohelix
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 120
 rarity: C
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["fire", "spellcaster", "pyromancer", "robed-figure", "magic", "destruction", "inferno", "back-facing-figure", "silhouette", "explosion", "helix"]
-tags_filter: ["solo", "mid-shot", "faces-away", "action-mode", "red-magic", "instant", "no-face-visible"]
+tags_hub:
+  - fire
+  - spellcaster
+  - pyromancer
+  - robed-figure
+  - magic
+  - destruction
+  - inferno
+  - back-facing-figure
+  - silhouette
+  - explosion
+  - helix
+tags_filter:
+  - solo
+  - mid-shot
+  - faces-away
+  - action-mode
+  - red-magic
+  - instant
+  - no-face-visible
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/120-chandra-s-pyrohelix.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price: 0.17
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,11 +46,12 @@ setting: other
 suspected_ip: Chandra Nalaar
 ip_confidence: high
 ip_verified: true
-characters: ["chandra-nalaar"]
+characters:
+  - chandra-nalaar
 artist: Aleksi Briclot
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/120-chandra-s-pyrohelix--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/c/1c482f51-9222-4e9e-a9fd-bb14a0afe156.jpg?1557576647
-flavor_text: \"Now that I've dealt with your little toys, I can focus on the real problem: you.\"\n—Chandra Nalaar, to Dovin Baan
+flavor_text: "\\\"Now that I've dealt with your little toys, I can focus on the real problem: you.\\\"\\n—Chandra Nalaar, to Dovin Baan"
 oracle_text: Chandra's Pyrohelix deals 2 damage divided as you choose among one or two targets.
 ---
 

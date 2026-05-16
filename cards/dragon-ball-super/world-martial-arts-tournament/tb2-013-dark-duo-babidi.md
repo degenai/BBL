@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["villain", "wizard", "alien", "dark-magic", "sorcerer", "buu-saga", "evil", "mastermind", "manipulation", "organic-horror", "sinister", "babidi-saga"]
-tags_filter: ["solo", "close-up", "forward-facing", "portrait-mode", "anime-style", "dbscg"]
+tags_hub:
+  - villain
+  - wizard
+  - alien
+  - dark-magic
+  - sorcerer
+  - buu-saga
+  - evil
+  - mastermind
+  - manipulation
+  - organic-horror
+  - sinister
+  - babidi-saga
+tags_filter:
+  - solo
+  - close-up
+  - forward-facing
+  - portrait-mode
+  - anime-style
+  - dbscg
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-013-dark-duo-babidi.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408074464/104D8144693F1F03F5C640DD0425E91A6A9FA5D1/
 image_width: 624
 image_height: 871
@@ -31,7 +49,8 @@ subject_known_ip: true
 suspected_ip: Babidi — Dragon Ball Z (Buu Saga)
 ip_confidence: high
 ip_verified: true
-characters: ["babidi"]
+characters:
+  - babidi
 ---
 
 # Dark Duo Babidi (World Martial Arts Tournament)

@@ -13,14 +13,30 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["energy", "orb", "star", "power", "glow", "duality", "light", "crystal", "electric", "resource"]
-tags_filter: ["no-face", "wide-shot", "abstract", "colorless-type", "special-energy", "trainer-card"]
+tags_hub:
+  - energy
+  - orb
+  - star
+  - power
+  - glow
+  - duality
+  - light
+  - crystal
+  - electric
+  - resource
+tags_filter:
+  - no-face
+  - wide-shot
+  - abstract
+  - colorless-type
+  - special-energy
+  - trainer-card
 reference_image: cards/_images/pokemon/brilliant-stars/151-172-double-turbo-energy.png
 average_cost_paid: 0
-market_price: 0.24
-market_price_as_of: 2026-05-14
+market_price: 0.23
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh9/151_hires.png
 art_match_confidence: high
 needs_manual_review: false

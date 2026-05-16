@@ -1,6 +1,6 @@
 ---
 name: Person of Interest
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 139
 rarity: C
@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["villain", "noir", "fire", "armored-figure", "gunslinger", "alley", "crime", "shadow", "menace", "spiked-armor", "urban-decay"]
-tags_filter: ["duo", "mid-shot", "action", "three-quarter", "creature"]
+tags_hub:
+  - villain
+  - noir
+  - fire
+  - armored-figure
+  - gunslinger
+  - alley
+  - crime
+  - shadow
+  - menace
+  - spiked-armor
+  - urban-decay
+tags_filter:
+  - duo
+  - mid-shot
+  - action
+  - three-quarter
+  - creature
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/139-person-of-interest.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/7/d/7d56ebff-67c8-4bc7-a533-ddde4ce0c2af.png?1706241902
 art_match_confidence: high
 needs_manual_review: false

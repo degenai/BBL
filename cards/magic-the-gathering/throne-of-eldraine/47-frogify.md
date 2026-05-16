@@ -1,6 +1,6 @@
 ---
 name: Frogify
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 47
 rarity: U
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["frog", "transformation", "polymorph", "candle", "dining", "feast", "tavern", "fairy-tale", "comic-relief", "curse", "meal", "amphibian"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "scene-mode", "no-figure", "blue-magic", "enchantment", "aura", "narrative-art", "indoor"]
+tags_hub:
+  - frog
+  - transformation
+  - polymorph
+  - candle
+  - dining
+  - feast
+  - tavern
+  - fairy-tale
+  - comic-relief
+  - curse
+  - meal
+  - amphibian
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - scene-mode
+  - no-figure
+  - blue-magic
+  - enchantment
+  - aura
+  - narrative-art
+  - indoor
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/47-frogify.png
 average_cost_paid: 0
-market_price: 0.26
-market_price_as_of: 2026-05-14
+market_price: 0.3
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

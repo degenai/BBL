@@ -1,23 +1,46 @@
 ---
 name: Soulreaper of Mogis
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 115
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["minotaur", "shaman", "ritual", "sacrifice", "horns", "worship", "blood", "fire", "cult", "priest", "fanatic", "tribal"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "action", "single-figure", "male-figure", "no-face-visible", "enchantment-creature", "black-magic", "creature-minotaur", "creature-shaman"]
+tags_hub:
+  - minotaur
+  - shaman
+  - ritual
+  - sacrifice
+  - horns
+  - worship
+  - blood
+  - fire
+  - cult
+  - priest
+  - fanatic
+  - tribal
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - action
+  - single-figure
+  - male-figure
+  - no-face-visible
+  - enchantment-creature
+  - black-magic
+  - creature-minotaur
+  - creature-shaman
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/115-soulreaper-of-mogis.png
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price: 0.05
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
@@ -26,11 +49,13 @@ mood: grim
 time_of_day: indeterminate
 setting: other
 artist: Dmitry Burmak
-characters: [theros-pantheon]
+characters:
+  - theros-pantheon
+  - mogis
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/115-soulreaper-of-mogis--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/5/55e2f383-d2a0-4424-bf7a-79e82d6f691f.jpg?1616399505
 flavor_text: \"We offer to Mogis the blood of the weak, and in return he makes us strong.\"
-oracle_text: {2}{B}, Sacrifice a creature: Draw a card.
+oracle_text: "{2}{B}, Sacrifice a creature: Draw a card."
 ---
 
 # Soulreaper of Mogis (Theros Beyond Death)

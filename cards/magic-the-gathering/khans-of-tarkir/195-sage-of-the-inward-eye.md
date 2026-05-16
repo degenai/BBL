@@ -1,6 +1,6 @@
 ---
 name: Sage of the Inward Eye
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Khans of Tarkir
 collector_number: 195
 rarity: R
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["mask", "levitation", "lotus", "sage", "meditation", "robed-figure", "flying", "enlightenment", "jeskai", "tarkir", "monk", "inner-eye"]
-tags_filter: ["mid-shot", "solo", "forward-facing", "portrait-mode", "multicolor-white-blue-red", "creature-sphinx"]
+tags_hub:
+  - mask
+  - levitation
+  - lotus
+  - sage
+  - meditation
+  - robed-figure
+  - flying
+  - enlightenment
+  - jeskai
+  - tarkir
+  - monk
+  - inner-eye
+tags_filter:
+  - mid-shot
+  - solo
+  - forward-facing
+  - portrait-mode
+  - multicolor-white-blue-red
+  - creature-sphinx
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/195-sage-of-the-inward-eye.png
 average_cost_paid: 0
 market_price: 0.19
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/2/9/297c336b-3f70-4518-b1f1-7b773774895d.png?1562784071
 art_match_confidence: high
 needs_manual_review: false

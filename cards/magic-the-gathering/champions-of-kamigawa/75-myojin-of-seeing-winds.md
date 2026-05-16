@@ -1,6 +1,6 @@
 ---
 name: Myojin of Seeing Winds
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Champions of Kamigawa
 collector_number: 75
 rarity: R
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["spirit", "kami", "wind", "serpent", "deity", "many-arms", "sky", "storm", "japanese-mythology", "robed-figure", "coiled-form", "ethereal"]
-tags_filter: ["solo", "mid-shot", "three-quarter-facing", "portrait-mode", "no-face-human", "blue-magic", "creature-spirit", "legendary"]
+tags_hub:
+  - spirit
+  - kami
+  - wind
+  - serpent
+  - deity
+  - many-arms
+  - sky
+  - storm
+  - japanese-mythology
+  - robed-figure
+  - coiled-form
+  - ethereal
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter-facing
+  - portrait-mode
+  - no-face-human
+  - blue-magic
+  - creature-spirit
+  - legendary
 reference_image: cards/_images/magic-the-gathering/champions-of-kamigawa/75-myojin-of-seeing-winds.png
 average_cost_paid: 0
 market_price: 6.54
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,7 +48,7 @@ setting: space
 artist: Kev Walker
 art_crop_image: cards/_images/magic-the-gathering/champions-of-kamigawa/75-myojin-of-seeing-winds--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/f/8f5f8d3a-95e7-4dd9-8510-43517eb02693.jpg?1562762504
-oracle_text: Myojin of Seeing Winds enters with a divinity counter on it if you cast it from your hand.\nMyojin of Seeing Winds has indestructible as long as it has a divinity counter on it.\nRemove a divinity counter from Myojin of Seeing Winds: Draw a card for each permanent you control.
+oracle_text: "Myojin of Seeing Winds enters with a divinity counter on it if you cast it from your hand.\\nMyojin of Seeing Winds has indestructible as long as it has a divinity counter on it.\\nRemove a divinity counter from Myojin of Seeing Winds: Draw a card for each permanent you control."
 ---
 
 # Myojin of Seeing Winds (Champions of Kamigawa)

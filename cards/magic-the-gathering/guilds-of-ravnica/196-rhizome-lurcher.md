@@ -1,6 +1,6 @@
 ---
 name: Rhizome Lurcher
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Guilds of Ravnica
 collector_number: 196
 rarity: C
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["undead", "plant", "roots", "golgari", "nature", "decay", "growth", "bioluminescence", "monster", "swamp", "rhizome", "regeneration"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "multicolor-black-green", "creature-zombie", "undergrowth"]
+tags_hub:
+  - undead
+  - plant
+  - roots
+  - golgari
+  - nature
+  - decay
+  - growth
+  - bioluminescence
+  - monster
+  - swamp
+  - rhizome
+  - regeneration
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - multicolor-black-green
+  - creature-zombie
+  - undergrowth
 reference_image: cards/_images/magic-the-gathering/guilds-of-ravnica/196-rhizome-lurcher.png
 average_cost_paid: 0
 market_price: 0.19
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/d/b/db9ce92b-79cc-4e26-b511-30ae8ea6a2a1.png?1572893793
 art_match_confidence: high
 needs_manual_review: false

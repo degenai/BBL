@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["gargoyle", "villain", "wings", "night", "gothic", "castle", "robot", "armor", "flight", "steel", "gargoyles-tv", "power"]
-tags_filter: ["group", "wide-shot", "action", "forward-facing", "scene-mode", "disney-lorcana"]
+tags_hub:
+  - gargoyle
+  - villain
+  - wings
+  - night
+  - gothic
+  - castle
+  - robot
+  - armor
+  - flight
+  - steel
+  - gargoyles-tv
+  - power
+tags_filter:
+  - group
+  - wide-shot
+  - action
+  - forward-facing
+  - scene-mode
+  - disney-lorcana
 reference_image: cards/_images/lorcana/whispers-in-the-well/184-204-david-xanatos-steel-clan-leader.jpg
 average_cost_paid: 0
-market_price: 0.14
-market_price_as_of: 2026-05-14
+market_price: 0.11
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10/184_e28abc268f0b1a8b854f48cf71dbec9f2c99c793.jpg
 art_match_confidence: high
 needs_manual_review: false

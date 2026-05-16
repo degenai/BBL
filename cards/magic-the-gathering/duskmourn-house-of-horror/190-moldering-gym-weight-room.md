@@ -1,7 +1,7 @@
 ---
 name: Moldering Gym // Weight Room
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 190
 rarity: C
 variance: Normal
@@ -10,14 +10,37 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["abandoned-building", "haunted", "ghost", "overgrowth", "ruins", "decay", "gym", "exercise-equipment", "spider", "cobwebs", "dead-tree", "horror", "wilderness-reclaiming"]
-tags_filter: ["no-figures", "scene-mode", "wide-shot", "split-card", "two-panel", "indoor", "outdoor", "land", "room", "green-magic"]
+tags_hub:
+  - abandoned-building
+  - haunted
+  - ghost
+  - overgrowth
+  - ruins
+  - decay
+  - gym
+  - exercise-equipment
+  - spider
+  - cobwebs
+  - dead-tree
+  - horror
+  - wilderness-reclaiming
+tags_filter:
+  - no-figures
+  - scene-mode
+  - wide-shot
+  - split-card
+  - two-panel
+  - indoor
+  - outdoor
+  - land
+  - room
+  - green-magic
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/190-moldering-gym-weight-room.png
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price: 0.19
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/2/4/245d5a61-c40c-4039-aea8-3ad61415b8f0.png?1726780702
 art_match_confidence: high
 needs_manual_review: false
@@ -28,7 +51,9 @@ oracle_text: When you unlock this door, search your library for a basic land car
 mood: horror
 time_of_day: twilight
 setting: indoor
-symbols: ["manifest-dread", "rooms"]
+symbols:
+  - manifest-dread
+  - rooms
 ---
 
 # Moldering Gym // Weight Room (Duskmourn: House of Horror)

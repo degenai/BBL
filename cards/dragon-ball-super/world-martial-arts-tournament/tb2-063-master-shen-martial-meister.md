@@ -10,15 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-characters: ["crane-school-cohort"]
-tags_hub: ["martial-arts", "tournament", "villain", "master", "corrupted-mentor", "contempt", "crane-school", "elder", "antagonist", "stewardship"]
-tags_filter: ["solo", "mid-shot", "portrait", "male-figure", "anime-style", "three-quarter"]
+characters:
+  - crane-school-cohort
+tags_hub:
+  - martial-arts
+  - tournament
+  - villain
+  - master
+  - corrupted-mentor
+  - contempt
+  - crane-school
+  - elder
+  - antagonist
+  - stewardship
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - male-figure
+  - anime-style
+  - three-quarter
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-063-master-shen-martial-meister.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408081703/8A5E47AF510DF36F1DACDF7082DABDD8565D5964/
 image_width: 624
 image_height: 871

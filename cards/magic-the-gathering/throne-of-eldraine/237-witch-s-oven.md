@@ -1,6 +1,6 @@
 ---
 name: Witch's Oven
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 237
 rarity: U
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["oven", "hearth", "fire", "green-fire", "kitchen", "cooking", "witch", "fairy-tale", "gothic", "folk-horror", "stone"]
-tags_filter: ["no-face", "scene-mode", "mid-shot", "forward-facing", "object-focus", "indoor", "night-interior", "artifact", "black-magic", "food-token", "no-figure"]
+tags_hub:
+  - oven
+  - hearth
+  - fire
+  - green-fire
+  - kitchen
+  - cooking
+  - witch
+  - fairy-tale
+  - gothic
+  - folk-horror
+  - stone
+tags_filter:
+  - no-face
+  - scene-mode
+  - mid-shot
+  - forward-facing
+  - object-focus
+  - indoor
+  - night-interior
+  - artifact
+  - black-magic
+  - food-token
+  - no-figure
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/237-witch-s-oven.png
 average_cost_paid: 0
-market_price: 1.04
-market_price_as_of: 2026-05-14
+market_price: 1.19
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -29,7 +51,7 @@ artist: Alexander Forssberg
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/237-witch-s-oven--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/4/04ef8493-d986-45f8-a718-617b028f7ad4.jpg?1572491150
 flavor_text: The wafting smells are both scrumptious and suspicious.
-oracle_text: {T}, Sacrifice a creature: Create a Food token. If the sacrificed creature's toughness was 4 or greater, create two Food tokens instead. (They're artifacts with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")
+oracle_text: "{T}, Sacrifice a creature: Create a Food token. If the sacrificed creature's toughness was 4 or greater, create two Food tokens instead. (They're artifacts with \\\"{2}, {T}, Sacrifice this token: You gain 3 life.\\\")"
 ---
 
 # Witch's Oven (Throne of Eldraine)

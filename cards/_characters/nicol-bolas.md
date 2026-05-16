@@ -1,7 +1,13 @@
 ---
 type: character
 name: Nicol Bolas
-aliases: [nicol-bolas, bolas, the-elder-dragon, god-pharaoh, dragon-god, the-forever-serpent]
+aliases:
+  - nicol-bolas
+  - bolas
+  - the-elder-dragon
+  - god-pharaoh
+  - dragon-god
+  - the-forever-serpent
 universe: "Magic: The Gathering / Multiverse"
 faction: ~
 species: Elder Dragon (formerly planeswalker; de-sparked post-War of the Spark)
@@ -13,7 +19,7 @@ appears_on:
   - magic-the-gathering/war-of-the-spark/190-despark
   - magic-the-gathering/war-of-the-spark/92-god-eternal-bontu
   - magic-the-gathering/mystery-booster-cards/90-the-eldest-reborn
-related_hubs: [rebellion]
+related_hubs: "[rebellion]"
 related_symbols: []
 ip_resolution_for: nicol-bolas
 ---

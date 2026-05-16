@@ -1,6 +1,6 @@
 ---
 name: Marauder's Axe
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2020
 collector_number: 231
 rarity: C
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["axe", "weapon", "battle", "fire", "smoke", "silhouette", "raid", "marauder", "iron", "battlefield", "ash", "burning-sky"]
-tags_filter: ["no-figure", "object-focus", "mid-shot", "backlit", "still-life", "artifact", "equipment", "colorless-magic"]
+tags_hub:
+  - axe
+  - weapon
+  - battle
+  - fire
+  - smoke
+  - silhouette
+  - raid
+  - marauder
+  - iron
+  - battlefield
+  - ash
+  - burning-sky
+tags_filter:
+  - no-figure
+  - object-focus
+  - mid-shot
+  - backlit
+  - still-life
+  - artifact
+  - equipment
+  - colorless-magic
 reference_image: cards/_images/magic-the-gathering/core-set-2020/231-marauder-s-axe.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +49,7 @@ artist: Mitchell Malloy
 art_crop_image: cards/_images/magic-the-gathering/core-set-2020/231-marauder-s-axe--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/3/73ac5204-69ef-491d-9ca8-f522b99f1412.jpg?1592517681
 flavor_text: A sharp axe solves most problems.
-oracle_text: Equipped creature gets +2/+0.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+oracle_text: "Equipped creature gets +2/+0.\\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)"
 ---
 
 # Marauder's Axe (Core Set 2020)

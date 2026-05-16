@@ -1,6 +1,6 @@
 ---
 name: Glint Weaver
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 162
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["spider", "web", "gems", "predator", "trap", "horror", "dungeon", "monster", "treasure", "nature", "creature", "caught"]
-tags_filter: ["duo", "wide", "scene-mode", "green-magic", "reach", "lifegain"]
+tags_hub:
+  - spider
+  - web
+  - gems
+  - predator
+  - trap
+  - horror
+  - dungeon
+  - monster
+  - treasure
+  - nature
+  - creature
+  - caught
+tags_filter:
+  - duo
+  - wide
+  - scene-mode
+  - green-magic
+  - reach
+  - lifegain
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/162-glint-weaver.png
 average_cost_paid: 0
-market_price: 0.16
-market_price_as_of: 2026-05-14
+market_price: 0.17
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/c/8/c8eff4d0-67ad-4900-b33d-605659b59161.png?1706241982
 art_match_confidence: high
 needs_manual_review: false

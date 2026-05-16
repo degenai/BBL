@@ -1,7 +1,13 @@
 ---
 type: character
 name: "Xenoverse Villains (Time Breakers / Dragon Ball Xenoverse antagonist cohort)"
-aliases: [xenoverse-villains, time-breakers, dragon-ball-xenoverse-villains, demigra-towa-mira, xenoverse-trio, time-breaker-faction]
+aliases:
+  - xenoverse-villains
+  - time-breakers
+  - dragon-ball-xenoverse-villains
+  - demigra-towa-mira
+  - xenoverse-trio
+  - time-breaker-faction
 universe: "Dragon Ball / Dragon Ball Xenoverse (Bandai Namco / Dimps, 2015) and Dragon Ball Xenoverse 2 (Bandai Namco / Dimps, 2016); also adapted into Dragon Ball Heroes (Bandai promotional arcade card game and the Super Dragon Ball Heroes web anime, 2018-)"
 faction: "Time Breakers — a faction of dark-energy time-meddlers led by Demigra (the imprisoned demonic magician) operating across the multiverse-history timestreams that the Time Patrol (the Xenoverse player-protagonist faction) defends; principal members are Demigra (mastermind), Towa (his retroactively-loyal scientist-witch / Mira's creator and consort), and Mira (Towa's bio-engineered ultimate-fighter Majin-Saiyan-android-hybrid son); secondary affiliates include Dabura, Janemba-corruption agents, and the broader Demon Realm cosmology"
 species: "faction-collective (Demigra: demonic magician, native species ambiguous; Towa: Demon Realm Demoness, scientist; Mira: bio-engineered humanoid combining Majin, Saiyan, android, and human genetic templates; the trio is canonically a multi-species villain coalition rather than a single-race cohort)"
@@ -19,9 +25,12 @@ appears_on:
   - dragon-ball-super/colossal-warfare/bt4-116-putine-in-demigra-s-thrall
   - dragon-ball-super/colossal-warfare/bt4-117-time-trauma-masked-saiyan
   - dragon-ball-super/colossal-warfare/bt4-121-dark-kamehameha
-related_hubs: [labor, rebellion, stewardship]
+related_hubs: "[labor, rebellion, stewardship]"
 related_symbols: []
-related_characters: [baby-dbgt, trunks, bardock]
+related_characters:
+  - baby-dbgt
+  - trunks
+  - bardock
 ip_resolution_for: xenoverse-villains
 ---
 

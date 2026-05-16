@@ -1,6 +1,6 @@
 ---
 name: Narstad Scrapper
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Avacyn Restored
 collector_number: 218
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["construct", "golem", "scrap", "iron", "necromancy", "undead", "gothic", "horror", "forge", "industrial", "armor", "monster"]
-tags_filter: ["solo", "forward-facing", "mid-shot", "portrait-mode", "no-face", "artifact", "creature-construct", "colorless", "innistrad-block"]
+tags_hub:
+  - construct
+  - golem
+  - scrap
+  - iron
+  - necromancy
+  - undead
+  - gothic
+  - horror
+  - forge
+  - industrial
+  - armor
+  - monster
+tags_filter:
+  - solo
+  - forward-facing
+  - mid-shot
+  - portrait-mode
+  - no-face
+  - artifact
+  - creature-construct
+  - colorless
+  - innistrad-block
 reference_image: cards/_images/magic-the-gathering/avacyn-restored/218-narstad-scrapper.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +50,7 @@ artist: Steven Belledin
 art_crop_image: cards/_images/magic-the-gathering/avacyn-restored/218-narstad-scrapper--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/8/f808ed9b-95ac-4069-bdca-b100bc816b5b.jpg?1592709584
 flavor_text: \"Finally, the principles of corpse animation applied to bloodless materials!\"\n—Ludevic, necro-alchemist
-oracle_text: {2}: This creature gets +1/+0 until end of turn.
+oracle_text: "{2}: This creature gets +1/+0 until end of turn."
 ---
 
 # Narstad Scrapper (Avacyn Restored)

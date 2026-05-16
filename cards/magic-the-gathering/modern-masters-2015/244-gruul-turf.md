@@ -1,6 +1,6 @@
 ---
 name: Gruul Turf
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Masters 2015
 collector_number: 244
 rarity: U
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["ruins", "sunset", "wanderer", "wasteland", "fallen-civilization", "silhouette", "ember-sky", "lone-traveler", "stone-arch", "post-apocalypse", "smoke", "pilgrimage"]
-tags_filter: ["solo", "wide-shot", "scene-mode", "faces-away", "no-face", "land", "multicolor-red-green", "red-magic", "green-magic"]
+tags_hub:
+  - ruins
+  - sunset
+  - wanderer
+  - wasteland
+  - fallen-civilization
+  - silhouette
+  - ember-sky
+  - lone-traveler
+  - stone-arch
+  - post-apocalypse
+  - smoke
+  - pilgrimage
+tags_filter:
+  - solo
+  - wide-shot
+  - scene-mode
+  - faces-away
+  - no-face
+  - land
+  - multicolor-red-green
+  - red-magic
+  - green-magic
 reference_image: cards/_images/magic-the-gathering/modern-masters-2015/244-gruul-turf.png
 average_cost_paid: 0
 market_price: 0.21
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Modern Masters 2015'
@@ -28,7 +49,7 @@ setting: other
 artist: John Avon
 art_crop_image: cards/_images/magic-the-gathering/modern-masters-2015/244-gruul-turf--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/3/1325d187-4012-4875-9a0c-8520cbf386ac.jpg?1562259426
-oracle_text: This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {R}{G}.
+oracle_text: "This land enters tapped.\\nWhen this land enters, return a land you control to its owner's hand.\\n{T}: Add {R}{G}."
 ---
 
 # Gruul Turf (Modern Masters 2015)

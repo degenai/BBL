@@ -1,6 +1,6 @@
 ---
 name: Encircling Fissure
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Battle for Zendikar
 collector_number: 23
 rarity: U
@@ -10,18 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["Eldrazi", "tentacles", "alien", "horror", "monster", "canyon", "cosmic-horror", "invasion", "void", "otherworldly"]
-tags_filter: ["solo", "wide", "scene-mode", "no-face", "creature-eldrazi", "white-magic", "instant", "awaken"]
+tags_hub:
+  - Eldrazi
+  - tentacles
+  - alien
+  - horror
+  - monster
+  - canyon
+  - cosmic-horror
+  - invasion
+  - void
+  - otherworldly
+tags_filter:
+  - solo
+  - wide
+  - scene-mode
+  - no-face
+  - creature-eldrazi
+  - white-magic
+  - instant
+  - awaken
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/23-encircling-fissure.png
 average_cost_paid: 0
-market_price: 0.14
-market_price_as_of: 2026-05-14
+market_price: 0.13
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/5/7/575da7cb-6715-43df-a7b4-a4ca00216a1d.png?1562915475
 art_match_confidence: high
 needs_manual_review: false
-characters: ["eldrazi"]
+characters:
+  - eldrazi
 artist: Igor Kieryluk
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/23-encircling-fissure--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/7/575da7cb-6715-43df-a7b4-a4ca00216a1d.jpg?1562915475

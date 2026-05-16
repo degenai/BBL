@@ -1,6 +1,6 @@
 ---
 name: Wall of Resurgence
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Oath of the Gatewatch
 collector_number: 39
 rarity: U
@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["stone", "earth", "awakening", "ruins", "elemental", "scale", "landscape", "siege", "fortress", "power"]
-tags_filter: ["none", "wide", "narrative", "white-magic", "creature-elemental", "no-face", "scene-mode"]
+tags_hub:
+  - stone
+  - earth
+  - awakening
+  - ruins
+  - elemental
+  - scale
+  - landscape
+  - siege
+  - fortress
+  - power
+tags_filter:
+  - none
+  - wide
+  - narrative
+  - white-magic
+  - creature-elemental
+  - no-face
+  - scene-mode
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/39-wall-of-resurgence.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/c/9/c99f0dc1-c8cf-4733-a874-5ae57b38258e.png?1562935492
 art_match_confidence: high
 needs_manual_review: false

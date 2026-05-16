@@ -1,6 +1,6 @@
 ---
 name: Legion's Judgment
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 24
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["knight", "pegasus", "dragon", "lance", "mounted-combat", "duel", "armor", "wings", "monster-slayer", "chivalry", "sky", "judgment"]
-tags_filter: ["duo", "2-figures", "mid-shot", "faces-right", "scene-mode", "male-figure", "white-magic", "sorcery", "creature-removal"]
+tags_hub:
+  - knight
+  - pegasus
+  - dragon
+  - lance
+  - mounted-combat
+  - duel
+  - armor
+  - wings
+  - monster-slayer
+  - chivalry
+  - sky
+  - judgment
+tags_filter:
+  - duo
+  - 2-figures
+  - mid-shot
+  - faces-right
+  - scene-mode
+  - male-figure
+  - white-magic
+  - sorcery
+  - creature-removal
 reference_image: cards/_images/magic-the-gathering/core-set-2021/24-legion-s-judgment.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/0/3/032f6c5a-8d88-4a55-a54b-28df42d801e1.png?1594735024
 art_match_confidence: high
 needs_manual_review: false

@@ -1,0 +1,40 @@
+{
+  "card_name": "Nathaniel Flint - Notorious Pirate",
+  "game": "Lorcana",
+  "set": "Reign of Jafar",
+  "collector_number": "196/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Verified. The card name is identical to the character's canonical name (Captain Nathaniel Flint from Treasure Planet, 2002). Mushu Report categorizes the card as Storyborn / Villain / Alien / Pirate / Captain, matching Flint's canonical role exactly. Disney Wiki and Treasure Planet Wiki both describe Flint as belonging to an unnamed alien species with a reptilian multi-eyed face — consistent with the card art's alien pirate captain with non-human features. Lorcanaplayer.com and lorcana.gg both confirm this is the Treasure Planet character. This is a Wizards-internal Disney-owned character (not an external crossover IP), so no ## IP callout block is required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Nathaniel Flint is the overarching posthumous antagonist of Disney's 2002 animated film Treasure Planet — a sci-fi retelling of Robert Louis Stevenson's Treasure Island. Flint never appears alive in the film; his hoard and reputation drive the entire plot. His Lorcana card is classified as Storyborn, meaning he exists as himself drawn from the source canon. [Disney Wiki: Captain Nathaniel Flint; lorcanaplayer.com]",
+      "sources": ["Disney Wiki (disney.fandom.com/wiki/Captain_Nathaniel_Flint)", "lorcanaplayer.com/card/nathaniel-flint-notorious-pirate/"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Flint's secret trove was never found, but stories have persisted that it remains hidden...\" — Narrator. This mirrors the film's premise: Flint's treasure planet is the object of all ambition, yet Flint himself is a ghost whose presence is felt only through legend and the damage left behind. [card frontmatter]",
+      "sources": ["Card frontmatter (flavor_text field)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "PREDATORY INSTINCT ability: 'You can't play this character unless an opposing character was damaged this turn.' Mechanically rewards aggression — Flint only arrives when blood is already in the water. A 2-cost Steel Rare with 3/3 stats, solid value if the gate condition is met. [Mushu Report: Nathaniel Flint - Notorious Pirate; lorcanaplayer.com]",
+      "sources": ["Mushu Report (wiki.mushureport.com/wiki/Nathaniel_Flint_-_Notorious_Pirate)", "lorcanaplayer.com/card/nathaniel-flint-notorious-pirate/"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Edu Francisco. Card type includes Alien — Flint belonged to an unnamed alien species with a reptilian multi-eyed face, fangs, grey skin, yellow eyes, and long brown hair, per Disney Wiki. The Lorcana art depicts glowing red eyes and a monstrous non-human face at a low angle, a stylized interpretation of the same species. [Disney Wiki: Captain Nathaniel Flint; card frontmatter]",
+      "sources": ["Disney Wiki (disney.fandom.com/wiki/Captain_Nathaniel_Flint)", "card frontmatter (artist field)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Jim Hawkins (any Lorcana version)", "set": "Treasure Planet franchise", "note": "Protagonist whose entire quest is driven by Flint's legend"},
+    {"name": "Long John Silver (any Lorcana version)", "set": "Treasure Planet franchise", "note": "Primary antagonist of Treasure Planet; Flint's spiritual successor in the film"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Nathaniel Flint (Treasure Planet)",
+    "ip_confidence": "high"
+  }
+}

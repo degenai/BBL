@@ -1,6 +1,6 @@
 ---
 name: Armory of Iroas
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Commander Legends
 collector_number: 299
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["weapons", "armor", "shields", "helmets", "swords", "spears", "ritual", "offering", "monument", "greek-mythology", "war-trophy", "armory"]
-tags_filter: ["no-figure", "no-face", "still-life", "mid-shot", "scene-mode", "monochrome-palette", "colorless-magic", "artifact", "equipment"]
+tags_hub:
+  - weapons
+  - armor
+  - shields
+  - helmets
+  - swords
+  - spears
+  - ritual
+  - offering
+  - monument
+  - greek-mythology
+  - war-trophy
+  - armory
+tags_filter:
+  - no-figure
+  - no-face
+  - still-life
+  - mid-shot
+  - scene-mode
+  - monochrome-palette
+  - colorless-magic
+  - artifact
+  - equipment
 reference_image: cards/_images/magic-the-gathering/commander-legends/299-armory-of-iroas.png
 average_cost_paid: 0
-market_price: 0.28
-market_price_as_of: 2026-05-14
+market_price: 0.27
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +50,7 @@ artist: Yeong-Hao Han
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/299-armory-of-iroas--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/0/703a03ac-5bb5-4e36-ab9b-a5c007ffc03d.jpg?1608911321
 flavor_text: Each weapon is as unique as the champion who carried it to battle.
-oracle_text: Whenever equipped creature attacks, put a +1/+1 counter on it.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+oracle_text: "Whenever equipped creature attacks, put a +1/+1 counter on it.\\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)"
 ---
 
 # Armory of Iroas (Commander Legends)

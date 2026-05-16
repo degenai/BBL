@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["warrior", "musician", "oath", "hero", "alien", "armor", "magic-instrument", "sealed-power", "sacrifice", "protector"]
-tags_filter: ["solo", "mid-shot", "action", "male-figure", "forward-facing"]
+tags_hub:
+  - warrior
+  - musician
+  - oath
+  - hero
+  - alien
+  - armor
+  - magic-instrument
+  - sealed-power
+  - sacrifice
+  - protector
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - male-figure
+  - forward-facing
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-039-oath-s-power-tapion.png
 average_cost_paid: 0
 market_price: 0.01
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401029286/FD2D05CD39B5FC4F3488B84B7FE6EA11ABD72AA2/
 image_width: 624
 image_height: 871
@@ -30,7 +45,8 @@ setting: void
 suspected_ip: "Tapion (Dragon Ball Z: Wrath of the Dragon)"
 ip_confidence: high
 ip_verified: true
-characters: [wrath-of-the-dragon-saga]
+characters:
+  - wrath-of-the-dragon-saga
 ---
 
 # Oath's Power, Tapion (Colossal Warfare)

@@ -1,6 +1,6 @@
 ---
 name: Defiant Salvager
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Commander Legends
 collector_number: 117
 rarity: C
@@ -10,14 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["salvage", "scrap", "wreckage", "survivor", "aetherborn", "gold", "void", "artificer", "debris", "ruin", "grief", "telekinesis"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face-obscured", "humanoid-figure", "creature-artifact", "creature-aetherborn", "black-magic", "sacrifice-payoff", "counters-matter"]
+tags_hub:
+  - salvage
+  - scrap
+  - wreckage
+  - survivor
+  - aetherborn
+  - gold
+  - void
+  - artificer
+  - debris
+  - ruin
+  - grief
+  - telekinesis
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - no-face-obscured
+  - humanoid-figure
+  - creature-artifact
+  - creature-aetherborn
+  - black-magic
+  - sacrifice-payoff
+  - counters-matter
 reference_image: cards/_images/magic-the-gathering/commander-legends/117-defiant-salvager.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +52,7 @@ artist: Volkan Baǵa
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/117-defiant-salvager--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/f/cfd1c30e-e539-4382-b0fd-724a502a4b7e.jpg?1608909648
 flavor_text: \"I didn't survive that crash just so I could fall to the likes of you.\"
-oracle_text: Sacrifice an artifact or creature: Put a +1/+1 counter on this creature. Activate only as a sorcery.
+oracle_text: "Sacrifice an artifact or creature: Put a +1/+1 counter on this creature. Activate only as a sorcery."
 ---
 
 # Defiant Salvager (Commander Legends)

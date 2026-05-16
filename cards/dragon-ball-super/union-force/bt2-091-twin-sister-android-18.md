@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["android", "twin", "sibling", "rebel", "composed", "power", "warrior", "creation", "villain", "machine", "youth", "unbothered"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "female-figure", "anime-style"]
+tags_hub:
+  - android
+  - twin
+  - sibling
+  - rebel
+  - composed
+  - power
+  - warrior
+  - creation
+  - villain
+  - machine
+  - youth
+  - unbothered
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action-mode
+  - female-figure
+  - anime-style
 reference_image: cards/_images/dragon-ball-super/union-force/bt2-091-twin-sister-android-18.png
 average_cost_paid: 0
 market_price: 0.21
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400942501/362A46977EC25B80C864D2A542DA5492EF116CB3/
 image_width: 624
 image_height: 874

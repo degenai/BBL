@@ -1,6 +1,6 @@
 ---
 name: Broken Wings
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 156
 rarity: C
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["wings", "flight", "falling", "desert", "race", "sabotage", "destruction", "feathers", "rivalry", "sky", "speed", "aerial-combat"]
-tags_filter: ["duo", "wide-shot", "scene-mode", "three-quarter-facing", "green-magic", "instant", "destroy-effect", "artifact-hate", "enchantment-hate", "flying-hate"]
+tags_hub:
+  - wings
+  - flight
+  - falling
+  - desert
+  - race
+  - sabotage
+  - destruction
+  - feathers
+  - rivalry
+  - sky
+  - speed
+  - aerial-combat
+tags_filter:
+  - duo
+  - wide-shot
+  - scene-mode
+  - three-quarter-facing
+  - green-magic
+  - instant
+  - destroy-effect
+  - artifact-hate
+  - enchantment-hate
+  - flying-hate
 reference_image: cards/_images/magic-the-gathering/aetherdrift/156-broken-wings.png
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price: 0.07
+market_price_as_of: 2026-05-16
 date_added: 2026-05-10
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/1/d/1d7d5b71-7c1b-4fc2-a5ec-7285e17ffe0f.png?1738356489
 art_match_confidence: high
 needs_manual_review: false

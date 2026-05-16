@@ -1,7 +1,13 @@
 ---
 type: character
 name: "The Agency (R.A.M.I.)"
-aliases: [agency, the-agency, rami, ravnican-agency-of-magicological-investigations, ezrim-s-agency, detective-agency]
+aliases:
+  - agency
+  - the-agency
+  - rami
+  - ravnican-agency-of-magicological-investigations
+  - ezrim-s-agency
+  - detective-agency
 universe: "Magic: The Gathering / Ravnica"
 faction: "Ravnican Agency of Magicological Investigations (self; this node IS the faction)"
 species: faction-collective (humans — detectives, analysts, recovered guild defectors; archons — Ezrim the founder; sphinxes — Agency Outfitters; merfolk; vedalken; loxodons; goblins; bird-folk — Aven and Kor among the recruited; the full Ravnican demographic register, cross-guild by design)
@@ -23,8 +29,11 @@ appears_on:
   - magic-the-gathering/murders-at-karlov-manor/230-sanguine-savior
   - magic-the-gathering/murders-at-karlov-manor/239-undercover-crocodelf-b
 related_hubs: []
-related_symbols: [orzhov-signet, disguise, suspect]
-related_characters: [azorius-senate, izzet-league, orzhov-syndicate]
+related_symbols: "[orzhov-signet, disguise, suspect]"
+related_characters:
+  - azorius-senate
+  - izzet-league
+  - orzhov-syndicate
 ip_resolution_for: agency
 ---
 

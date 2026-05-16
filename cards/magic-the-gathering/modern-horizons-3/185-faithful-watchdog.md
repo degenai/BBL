@@ -1,6 +1,6 @@
 ---
 name: Faithful Watchdog
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 185
 rarity: C
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["dog", "hound", "loyalty", "sword", "meadow", "armor", "rain", "twilight", "fireflies", "guardian", "knight", "vigil"]
-tags_filter: ["solo", "mid-shot", "portrait-mode", "three-quarter-facing", "white-magic", "creature-dog", "vigilance"]
+tags_hub:
+  - dog
+  - hound
+  - loyalty
+  - sword
+  - meadow
+  - armor
+  - rain
+  - twilight
+  - fireflies
+  - guardian
+  - knight
+  - vigil
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait-mode
+  - three-quarter-facing
+  - white-magic
+  - creature-dog
+  - vigilance
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/185-faithful-watchdog.png
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price: 0.2
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/b/9/b9afac99-a094-41a8-8323-90dec29691c4.png?1739496664
 art_match_confidence: high
 needs_manual_review: false

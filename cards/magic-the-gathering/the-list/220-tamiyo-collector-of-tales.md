@@ -1,6 +1,6 @@
 ---
 name: Tamiyo, Collector of Tales
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: The List
 collector_number: 220
 rarity: R
@@ -10,15 +10,38 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-characters: ["tamiyo"]
-tags_hub: ["scholar", "scroll", "robed-figure", "storyteller", "archivist", "magic-user", "long-hair", "storm", "monument", "knowledge", "sage", "glowing-object"]
-tags_filter: ["solo", "mid-shot", "portrait-mode", "three-quarter", "female-figure", "planeswalker", "legendary", "green-magic", "blue-magic", "multicolor-blue-green"]
+characters:
+  - tamiyo
+tags_hub:
+  - scholar
+  - scroll
+  - robed-figure
+  - storyteller
+  - archivist
+  - magic-user
+  - long-hair
+  - storm
+  - monument
+  - knowledge
+  - sage
+  - glowing-object
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait-mode
+  - three-quarter
+  - female-figure
+  - planeswalker
+  - legendary
+  - green-magic
+  - blue-magic
+  - multicolor-blue-green
 reference_image: cards/_images/magic-the-gathering/the-list/220-tamiyo-collector-of-tales.png
 average_cost_paid: 0
 market_price: 0.73
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'The List'
@@ -32,7 +55,7 @@ ip_verified: true
 artist: Chase Stone
 art_crop_image: cards/_images/magic-the-gathering/the-list/220-tamiyo-collector-of-tales--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/e/aeae9feb-8153-496c-bb12-8db5e2e089a9.jpg?1643940435
-oracle_text: Spells and abilities your opponents control can't cause you to discard cards or sacrifice permanents.\n+1: Choose a nonland card name, then reveal the top four cards of your library. Put all cards with the chosen name from among them into your hand and the rest into your graveyard.\n−3: Return target card from your graveyard to your hand.
+oracle_text: "Spells and abilities your opponents control can't cause you to discard cards or sacrifice permanents.\\n+1: Choose a nonland card name, then reveal the top four cards of your library. Put all cards with the chosen name from among them into your hand and the rest into your graveyard.\\n−3: Return target card from your graveyard to your hand."
 ---
 
 # Tamiyo, Collector of Tales (The List)

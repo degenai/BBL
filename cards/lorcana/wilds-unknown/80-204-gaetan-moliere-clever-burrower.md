@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["geologist", "underground", "excavation", "comedy", "delight", "scientist", "bioluminescent", "earth", "discovery", "goggles", "tunnel", "expedition"]
-tags_filter: ["solo", "mid-shot", "narrative", "forward-facing", "emerald-magic", "character-card", "storyborn", "ally"]
+tags_hub:
+  - geologist
+  - underground
+  - excavation
+  - comedy
+  - delight
+  - scientist
+  - bioluminescent
+  - earth
+  - discovery
+  - goggles
+  - tunnel
+  - expedition
+tags_filter:
+  - solo
+  - mid-shot
+  - narrative
+  - forward-facing
+  - emerald-magic
+  - character-card
+  - storyborn
+  - ally
 reference_image: cards/_images/lorcana/wilds-unknown/80-204-gaetan-moliere-clever-burrower.jpg
 average_cost_paid: 0
-market_price: 0.24
-market_price_as_of: 2026-05-14
+market_price: 0.19
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set12/80_1b003c0f61a59f2212f3a1eecc5eddc04dbdbcfa.jpg
 art_match_confidence: high
 needs_manual_review: false
@@ -33,7 +53,7 @@ mood: comedic
 time_of_day: indeterminate
 setting: dungeon
 subject_known_ip: true
-suspected_ip: Gaetan Moliere / Mole (Atlantis: The Lost Empire)
+suspected_ip: "Gaetan Moliere / Mole (Atlantis: The Lost Empire)"
 ip_confidence: high
 ip_verified: false
 ---

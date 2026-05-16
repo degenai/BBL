@@ -1,7 +1,13 @@
 ---
 type: character
 name: "Toy horror cohort (Duskmourn corrupted-childhood artifact-creatures)"
-aliases: [dsk-toy-horror, duskmourn-toy-horror, dsk-corrupted-toys, dsk-haunted-toys, patchwork-toys, toy-horror-cycle]
+aliases:
+  - dsk-toy-horror
+  - duskmourn-toy-horror
+  - dsk-corrupted-toys
+  - dsk-haunted-toys
+  - patchwork-toys
+  - toy-horror-cycle
 universe: "Magic: The Gathering / Duskmourn (DSK, 2024-09-27)"
 faction: ~
 species: cohort of Artifact Creature — Toy cards (sometimes typed Construct/Nightmare in adjacent slots) depicting corrupted-childhood-object monsters
@@ -13,7 +19,10 @@ appears_on:
   - magic-the-gathering/duskmourn-house-of-horror/242-attack-in-the-box
 related_hubs: []
 related_symbols: []
-related_characters: [valgavoth, fear-of-cycle, dsk-survival-archetype]
+related_characters:
+  - valgavoth
+  - fear-of-cycle
+  - dsk-survival-archetype
 ---
 
 # Toy horror cohort (Duskmourn corrupted-childhood artifact-creatures)

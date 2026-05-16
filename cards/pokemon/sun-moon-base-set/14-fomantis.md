@@ -7,7 +7,7 @@ rarity: Common
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
 tags_hub: []
@@ -15,15 +15,15 @@ tags_filter: []
 reference_image: cards/_images/pokemon/sun-moon-base-set/14-fomantis.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm1/14_hires.png
 art_match_confidence: low
 needs_manual_review: true
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: They give off a sweet and refreshing scent. Cutiefly often gather near the tall grass where Fomantis are hiding.
-oracle_text: Synthesis (Grass): Search your deck for a Grass Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck.\nLeafage (GrassColorless) 20
+oracle_text: "Synthesis (Grass): Search your deck for a Grass Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck.\\nLeafage (GrassColorless) 20"
 ---
 
 # Fomantis (Sun & Moon Base Set)

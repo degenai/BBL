@@ -1,6 +1,6 @@
 ---
 name: Rhythm of the Wild
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Ravnica Allegiance
 collector_number: 201
 rarity: U
@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["boar", "stampede", "wild", "rebellion", "city-invasion", "rider", "herd", "chaos", "gruul", "nature-vs-civilization"]
-tags_filter: ["duo", "wide", "action", "forward-facing", "multicolor-red-green", "enchantment", "crowd"]
+tags_hub:
+  - boar
+  - stampede
+  - wild
+  - rebellion
+  - city-invasion
+  - rider
+  - herd
+  - chaos
+  - gruul
+  - nature-vs-civilization
+tags_filter:
+  - duo
+  - wide
+  - action
+  - forward-facing
+  - multicolor-red-green
+  - enchantment
+  - crowd
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/201-rhythm-of-the-wild.png
 average_cost_paid: 0
-market_price: 4.84
-market_price_as_of: 2026-05-14
+market_price: 4.93
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/8/4/84062ce2-fea2-4e06-b83b-7cc597fb2a1b.png?1584831773
 art_match_confidence: high
 needs_manual_review: false

@@ -1,7 +1,12 @@
 ---
 type: symbol
 name: Single Strike emblem
-aliases: [single-strike-emblem, single-strike-logo, single-strike-mark, single-strike-badge, single-strike-fist]
+aliases:
+  - single-strike-emblem
+  - single-strike-logo
+  - single-strike-mark
+  - single-strike-badge
+  - single-strike-fist
 faction: ~
 universe: Pokemon / Galar (Pokemon TCG Sword & Shield block, Battle Styles expansion onward)
 canonical_source: "Pokemon.com — Battle Styles Single Strike and Rapid Strike announcement; Bulbapedia — Battle Styles (TCG); Bulbapedia — Single Strike Style"

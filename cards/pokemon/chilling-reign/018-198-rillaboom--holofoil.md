@@ -10,27 +10,46 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["gorilla", "drum", "music", "forest", "strength", "nature", "percussion", "primate", "grass-type", "warrior"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "grass-magic", "holo-rare", "holofoil", "stage-2-pokemon"]
+tags_hub:
+  - gorilla
+  - drum
+  - music
+  - forest
+  - strength
+  - nature
+  - percussion
+  - primate
+  - grass-type
+  - warrior
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - grass-magic
+  - holo-rare
+  - holofoil
+  - stage-2-pokemon
 reference_image: cards/_images/pokemon/chilling-reign/018-198-rillaboom--holofoil.png
 average_cost_paid: 0
 market_price: 0.3
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh6/18_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Hitoshi Ariga
 flavor_text: The one with the best drumming techniques becomes the boss of the troop. It has a gentle disposition and values harmony among its group.
-oracle_text: Wood Drain (GrassColorless) 60: Heal 30 damage from this Pokémon.\nRaging Repeated Strike (GrassGrassColorless) 120+: Discard any amount of Energy from your Pokémon. This attack does 30 more damage for each card you discarded in this way.
+oracle_text: "Wood Drain (GrassColorless) 60: Heal 30 damage from this Pokémon.\\nRaging Repeated Strike (GrassGrassColorless) 120+: Discard any amount of Energy from your Pokémon. This attack does 30 more damage for each card you discarded in this way."
 mood: action
 time_of_day: indeterminate
 setting: forest
 suspected_ip: Rillaboom
 ip_confidence: high
 ip_verified: true
-characters: [galar-starters-trio]
+characters:
+  - galar-starters-trio
 ---
 
 # Rillaboom (Chilling Reign)

@@ -1,6 +1,6 @@
 ---
 name: Fowl Strike
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 155
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["bird", "raptor", "buzzard", "bird-of-prey", "druid", "forest", "wings", "staff", "combat", "robed-figure", "talons", "nature-magic"]
-tags_filter: ["duo", "mid-shot", "action-mode", "three-quarter-facing", "creature-vs-figure", "green-magic", "instant", "outdoor-scene", "male-figure"]
+tags_hub:
+  - bird
+  - raptor
+  - buzzard
+  - bird-of-prey
+  - druid
+  - forest
+  - wings
+  - staff
+  - combat
+  - robed-figure
+  - talons
+  - nature-magic
+tags_filter:
+  - duo
+  - mid-shot
+  - action-mode
+  - three-quarter-facing
+  - creature-vs-figure
+  - green-magic
+  - instant
+  - outdoor-scene
+  - male-figure
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/155-fowl-strike.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-10
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/8/3/83b6c7ab-f42f-40d2-9cb6-89291d57e27f.png?1717012470
 art_match_confidence: high
 needs_manual_review: false
@@ -28,7 +49,7 @@ artist: Warren Mahy
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/155-fowl-strike--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/3/83b6c7ab-f42f-40d2-9cb6-89291d57e27f.jpg?1717012470
 flavor_text: With a resounding wallop, the ancient battle between buzzard and druid was finally finished.
-oracle_text: Destroy target creature with flying.\nReinforce 2—{2}{G} ({2}{G}, Discard this card: Put two +1/+1 counters on target creature.)
+oracle_text: "Destroy target creature with flying.\\nReinforce 2—{2}{G} ({2}{G}, Discard this card: Put two +1/+1 counters on target creature.)"
 ---
 
 # Fowl Strike (Modern Horizons 3)

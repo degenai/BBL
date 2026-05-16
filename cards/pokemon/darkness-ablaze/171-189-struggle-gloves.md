@@ -13,14 +13,31 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["gloves", "boxing", "fighting", "underdog", "labor", "perseverance", "struggle", "star", "equipment", "grit"]
-tags_filter: ["no-face", "close-up", "no-figures", "item-card", "trainer-card", "swsh-era", "tool-card"]
+tags_hub:
+  - gloves
+  - boxing
+  - fighting
+  - underdog
+  - labor
+  - perseverance
+  - struggle
+  - star
+  - equipment
+  - grit
+tags_filter:
+  - no-face
+  - close-up
+  - no-figures
+  - item-card
+  - trainer-card
+  - swsh-era
+  - tool-card
 reference_image: cards/_images/pokemon/darkness-ablaze/171-189-struggle-gloves.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/171_hires.png
 art_match_confidence: high
 needs_manual_review: false

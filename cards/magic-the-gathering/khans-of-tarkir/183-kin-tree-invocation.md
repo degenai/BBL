@@ -1,6 +1,6 @@
 ---
 name: Kin-Tree Invocation
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Khans of Tarkir
 collector_number: 183
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["warrior", "charge", "war", "desert", "soldier", "armor", "battle", "invasion", "abzan", "tarkir", "polearm", "dust-storm"]
-tags_filter: ["mid-shot", "solo", "faces-left", "action-mode", "multicolor-white-black-green", "sorcery"]
+tags_hub:
+  - warrior
+  - charge
+  - war
+  - desert
+  - soldier
+  - armor
+  - battle
+  - invasion
+  - abzan
+  - tarkir
+  - polearm
+  - dust-storm
+tags_filter:
+  - mid-shot
+  - solo
+  - faces-left
+  - action-mode
+  - multicolor-white-black-green
+  - sorcery
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/183-kin-tree-invocation.png
 average_cost_paid: 0
-market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price: 0.13
+market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Khans of Tarkir'

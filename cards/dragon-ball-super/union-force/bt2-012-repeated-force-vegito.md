@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["super-saiyan", "fusion", "fusion-warrior", "ki", "energy", "warrior", "power-up", "saiyan", "transformation", "battle-stance", "determination", "anime-action"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "male-figure", "anime"]
+tags_hub:
+  - super-saiyan
+  - fusion
+  - fusion-warrior
+  - ki
+  - energy
+  - warrior
+  - power-up
+  - saiyan
+  - transformation
+  - battle-stance
+  - determination
+  - anime-action
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - male-figure
+  - anime
 reference_image: cards/_images/dragon-ball-super/union-force/bt2-012-repeated-force-vegito.png
 average_cost_paid: 0
 market_price: 0.38
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400928265/45EB43A8F99F43909AF995002BC264F85AD5AEC7/
 image_width: 624
 image_height: 874

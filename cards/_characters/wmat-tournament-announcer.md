@@ -1,7 +1,13 @@
 ---
 type: character
 name: World Tournament Announcer
-aliases: [wmat-announcer, wmat-tournament-announcer, world-tournament-announcer, tenkaichi-budokai-announcer, announcer, dbz-announcer]
+aliases:
+  - wmat-announcer
+  - wmat-tournament-announcer
+  - world-tournament-announcer
+  - tenkaichi-budokai-announcer
+  - announcer
+  - dbz-announcer
 universe: "Dragon Ball franchise (Akira Toriyama, Shueisha manga 1984-1995; Toei Animation anime adaptations 1986-present); the World Martial Arts Tournament Announcer (Tenkaichi Budokai Anaunsaa) is a canonical unnamed recurring character introduced in Dragon Ball manga chapter 33 (1985) at the 21st World Martial Arts Tournament arc as the canonical tournament-arena play-by-play broadcaster, who continues without canonical naming across every subsequent canonical World Martial Arts Tournament in Dragon Ball (21st Tenkaichi), Dragon Ball Z (22nd through 28th Tenkaichi), Dragon Ball GT (29th and 30th Tenkaichi), and Dragon Ball Super (canonical post-Buu-Saga tournament appearances); voiced canonically by Joji Yanami (Japanese, Dragon Ball through Kai) and Kyle Hebert / Justin Cook / Doc Morgan (English-language Funimation dub continuity); recurring across the Dragon Ball Super Card Game (Bandai, 2017-present) as the canonical TB2 World-Martial-Arts-Tournament-themed-booster three-card mini-cycle"
 faction: "World Martial Arts Tournament administrative staff (canonical Tenkaichi Budokai broadcast-labor cohort; canonical non-combatant service-labor register; canonical *the one normal human fully aware that the Z-Fighters are superhuman* informational-cohort position per Dragon Ball Wiki); secondary canonical alignment is the canonical *one-of-the-few-who-knows-Mr-Satan-did-not-actually-defeat-Cell* informational-witness cohort per the Cell-Games credit-erasure framing the [[hercule]] node anchors"
 species: "Earthling-human (canonical unnamed normal human male; canonical visual identifiers across all his franchise appearances are the blonde-styled-back hair, the dark formal suit and tie, the sunglasses [optional / arc-dependent], the canonical wireless-microphone broadcasting-prop, the canonical *animated-and-energetic-broadcasting-posture* register, and the canonical *one-of-the-franchise's-longest-recurring-unnamed-characters* design status); canonical absence-of-name is itself a canonical character-feature per the Dragon Ball Wiki disambiguation page, which treats the absence-of-name as the canonical *service-labor-as-anonymous-labor* design statement Toriyama installed into the canonical tournament-arc service-staff roster"
@@ -11,10 +17,19 @@ appears_on:
   - dragon-ball-super/world-martial-arts-tournament/tb2-065-announcer-announcer-referee-veteran
   - dragon-ball-super/world-martial-arts-tournament/tb2-066-announcer-ever-curious
   - dragon-ball-super/world-martial-arts-tournament/tb2-067-announcer-play-by-play-pro
-related_hubs: [labor]
+related_hubs: "[labor]"
 related_symbols: []
-related_characters: [hercule, son-goku, son-gohan, master-roshi]
-ip_resolution_for: ["World Tournament Announcer", "WMAT Announcer", "Tournament Announcer", "Tenkaichi Budokai Announcer", "Announcer (Dragon Ball)"]
+related_characters:
+  - hercule
+  - son-goku
+  - son-gohan
+  - master-roshi
+ip_resolution_for:
+  - World Tournament Announcer
+  - WMAT Announcer
+  - Tournament Announcer
+  - Tenkaichi Budokai Announcer
+  - Announcer (Dragon Ball)
 ---
 
 # World Tournament Announcer

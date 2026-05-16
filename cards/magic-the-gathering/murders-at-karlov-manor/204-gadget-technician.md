@@ -1,6 +1,6 @@
 ---
 name: Gadget Technician
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 204
 rarity: C
@@ -10,20 +10,43 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["gadget", "inventor", "workshop", "goblin", "drone", "steampunk", "tinkerer", "technology", "thopter", "labor", "craftsmanship", "goggles"]
-tags_filter: ["solo", "mid-shot", "narrative", "three-quarter", "blue-magic", "red-magic", "multicolor-blue-red", "creature-goblin-artificer", "disguise"]
-symbols: ["disguise"]
+tags_hub:
+  - gadget
+  - inventor
+  - workshop
+  - goblin
+  - drone
+  - steampunk
+  - tinkerer
+  - technology
+  - thopter
+  - labor
+  - craftsmanship
+  - goggles
+tags_filter:
+  - solo
+  - mid-shot
+  - narrative
+  - three-quarter
+  - blue-magic
+  - red-magic
+  - multicolor-blue-red
+  - creature-goblin-artificer
+  - disguise
+symbols:
+  - disguise
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/204-gadget-technician.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/3/b/3b489a54-ee43-4962-be7b-16e0e28800e0.png?1706242168
 art_match_confidence: high
 needs_manual_review: false
 artist: Caio Monteiro
-characters: ["agency"]
+characters:
+  - agency
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/204-gadget-technician--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/b/3b489a54-ee43-4962-be7b-16e0e28800e0.jpg?1706242168
 oracle_text: When this creature enters or is turned face up, create a 1/1 colorless Thopter artifact creature token with flying.\nDisguise {U/R}{U/R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)

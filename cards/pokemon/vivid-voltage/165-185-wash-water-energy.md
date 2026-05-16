@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["water", "orb", "energy", "glow", "radiance", "crystal", "purity", "elemental", "blue", "sphere"]
-tags_filter: ["solo", "close-up", "no-face", "energy-card", "special-energy", "portrait-mode", "water-type"]
+tags_hub:
+  - water
+  - orb
+  - energy
+  - glow
+  - radiance
+  - crystal
+  - purity
+  - elemental
+  - blue
+  - sphere
+tags_filter:
+  - solo
+  - close-up
+  - no-face
+  - energy-card
+  - special-energy
+  - portrait-mode
+  - water-type
 reference_image: cards/_images/pokemon/vivid-voltage/165-185-wash-water-energy.png
 average_cost_paid: 0
-market_price: 0.19
-market_price_as_of: 2026-05-14
+market_price: 0.16
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh4/165_hires.png
 art_match_confidence: high
 needs_manual_review: false

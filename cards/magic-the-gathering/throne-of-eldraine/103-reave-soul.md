@@ -1,23 +1,40 @@
 ---
 name: Reave Soul
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 103
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["witch", "ritual", "soul", "gem", "forest", "dark-magic", "winter", "possession", "robed-figure", "eldraine", "horror"]
-tags_filter: ["solo", "mid-shot", "narrative", "black-magic", "sorcery", "faces-away"]
+tags_hub:
+  - witch
+  - ritual
+  - soul
+  - gem
+  - forest
+  - dark-magic
+  - winter
+  - possession
+  - robed-figure
+  - eldraine
+  - horror
+tags_filter:
+  - solo
+  - mid-shot
+  - narrative
+  - black-magic
+  - sorcery
+  - faces-away
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/103-reave-soul.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/c/e/ce7ff657-aa44-4336-895a-87518159cef6.png?1572490229
 art_match_confidence: high
 needs_manual_review: false

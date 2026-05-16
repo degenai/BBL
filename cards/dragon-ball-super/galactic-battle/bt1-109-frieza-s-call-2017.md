@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["frieza", "army", "invasion", "flight", "villain", "empire", "soldiers", "spacecraft", "space-force", "mobilization"]
-tags_filter: ["crowd", "wide", "narrative-mode", "anime-style", "sci-fi-elements", "aerial", "armor"]
+tags_hub:
+  - frieza
+  - army
+  - invasion
+  - flight
+  - villain
+  - empire
+  - soldiers
+  - spacecraft
+  - space-force
+  - mobilization
+tags_filter:
+  - crowd
+  - wide
+  - narrative-mode
+  - anime-style
+  - sci-fi-elements
+  - aerial
+  - armor
 reference_image: cards/_images/dragon-ball-super/galactic-battle/bt1-109-frieza-s-call-2017.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400579725/6433A53604A4B5CEA9AC9F66098AD185603EACBB/
 image_width: 624
 image_height: 871

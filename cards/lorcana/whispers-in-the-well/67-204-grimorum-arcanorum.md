@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["spellbook", "grimoire", "magic", "knowledge", "serpent", "ancient-tome", "power", "glowing", "ritual", "dark-magic", "book"]
-tags_filter: ["no-face", "close-up", "abstract", "amber-magic", "item-card", "artifact"]
+tags_hub:
+  - spellbook
+  - grimoire
+  - magic
+  - knowledge
+  - serpent
+  - ancient-tome
+  - power
+  - glowing
+  - ritual
+  - dark-magic
+  - book
+tags_filter:
+  - no-face
+  - close-up
+  - abstract
+  - amber-magic
+  - item-card
+  - artifact
 reference_image: cards/_images/lorcana/whispers-in-the-well/67-204-grimorum-arcanorum.jpg
 average_cost_paid: 0
-market_price: 0.19
-market_price_as_of: 2026-05-14
+market_price: 0.2
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10/67_82a2fcee7e949bc292fc98606bf14961e16f2bcd.jpg
 art_match_confidence: high
 needs_manual_review: false

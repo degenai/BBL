@@ -1,6 +1,6 @@
 ---
 name: Will-Forged Golem
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Magic 2015 (M15)
 collector_number: 239
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["golem", "construct", "automaton", "forge", "metal", "crystal", "guardian", "magic", "smoke", "servant", "artifact-being", "machinery"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "artifact", "creature-golem", "colorless", "convoke"]
+tags_hub:
+  - golem
+  - construct
+  - automaton
+  - forge
+  - metal
+  - crystal
+  - guardian
+  - magic
+  - smoke
+  - servant
+  - artifact-being
+  - machinery
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - no-face
+  - artifact
+  - creature-golem
+  - colorless
+  - convoke
 reference_image: cards/_images/magic-the-gathering/magic-2015-m15/239-will-forged-golem.png
 average_cost_paid: 0
-market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price: 0.06
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/0/1/0175bafa-dc9f-464c-8f9e-dd4131732652.png?1562781782
 art_match_confidence: high
 needs_manual_review: false

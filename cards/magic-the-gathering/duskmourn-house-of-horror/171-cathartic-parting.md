@@ -1,7 +1,7 @@
 ---
 name: Cathartic Parting
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 171
 rarity: U
 variance: Normal
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["ghost", "farewell", "grief", "moth", "tenderness", "rat", "spirit", "loss", "night", "gothic", "love", "haunted"]
-tags_filter: ["duo", "mid-shot", "narrative", "three-quarter", "white-magic", "instant", "graveyard"]
+tags_hub:
+  - ghost
+  - farewell
+  - grief
+  - moth
+  - tenderness
+  - rat
+  - spirit
+  - loss
+  - night
+  - gothic
+  - love
+  - haunted
+tags_filter:
+  - duo
+  - mid-shot
+  - narrative
+  - three-quarter
+  - white-magic
+  - instant
+  - graveyard
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/171-cathartic-parting.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/6/a/6afc250a-854d-4555-ba78-db9283fa7c22.png?1726286497
 art_match_confidence: high
 needs_manual_review: false

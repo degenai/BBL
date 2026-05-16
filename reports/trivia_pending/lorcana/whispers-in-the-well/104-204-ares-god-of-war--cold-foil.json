@@ -1,0 +1,41 @@
+{
+  "card_name": "Ares - God of War",
+  "game": "Lorcana",
+  "set": "Whispers in the Well",
+  "collector_number": "104/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card explicitly named 'Ares - God of War' with Storyborn/Deity classification under the Hercules franchise. Art matches Disney's Ares (stocky red-armored deity with plumed helmet, sword and shield). Confirmed via card name, franchise attribution, and Lorcana database entries. No prior Ares printing exists in Lorcana before Set 10.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ares debuts in Whispers in the Well (Set 10, November 2025), Lorcana's mystery/noir set. The Hercules franchise appeared since Set 1 but Ares as a named card is a Set 10 debut.",
+      "sources": ["Lorcana Player: Hercules franchise card list", "Lorcana Player: Ares - God of War card page"]
+    },
+    {
+      "category": "design",
+      "text": "Reckless forces challenges every turn; CALL TO BATTLE enables readying a character whenever a card is placed under a character or location, tying him to Set 10's Boost mechanic. Artist: Kiersten Hale.",
+      "sources": ["Lorcana Player: Ares - God of War 104/204", "card frontmatter"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Disney's Hercules (1997), Ares has a minor film cameo; his expanded role is in the animated TV series (1998-1999) as a recurring antagonist voiced by Jay Thomas, championing Sparta over Athens.",
+      "sources": ["Disney Wiki: Ares (Hercules)", "Wikipedia: List of Disney's Hercules characters"]
+    },
+    {
+      "category": "mechanical",
+      "text": "2 ink cost, 3 Strength / 3 Willpower, Reckless. Pure aggressive attacker for Ruby builds, cannot quest, must challenge, enables CALL TO BATTLE combo readying.",
+      "sources": ["WebSearch snippet via Red Claw Gaming / Troll and Toad product listings"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hades - Looking for a Deal", "set": "Whispers in the Well", "note": "Fellow Olympian villain, Set 10 Hercules wave, Iconic rarity"},
+    {"name": "Hercules - Mighty Leader", "set": "Whispers in the Well", "note": "Franchise protagonist, same set cluster"},
+    {"name": "The Sword of Hercules", "set": "Whispers in the Well", "note": "Hercules item card, same set cluster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

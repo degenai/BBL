@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["sheep", "wool", "electric", "cute", "pink", "sunny", "fluffy", "livestock", "nature", "golden-light", "round-form"]
-tags_filter: ["solo", "mid-shot", "portrait", "three-quarter", "lightning-type", "stage-1", "creature-pokemon"]
+tags_hub:
+  - sheep
+  - wool
+  - electric
+  - cute
+  - pink
+  - sunny
+  - fluffy
+  - livestock
+  - nature
+  - golden-light
+  - round-form
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - three-quarter
+  - lightning-type
+  - stage-1
+  - creature-pokemon
 reference_image: cards/_images/pokemon/darkness-ablaze/056-189-flaaffy.png
 average_cost_paid: 0
-market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price: 0.14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/56_hires.png
 art_match_confidence: high
 needs_manual_review: false

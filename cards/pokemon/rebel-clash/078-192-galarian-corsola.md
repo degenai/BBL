@@ -10,20 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["ghost", "coral", "ocean", "bleached", "cursed", "death", "pale", "haunted", "environmental-decay", "stillness", "galarian-regional-form"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "psychic-type", "no-face", "pokemon-basic"]
+tags_hub:
+  - ghost
+  - coral
+  - ocean
+  - bleached
+  - cursed
+  - death
+  - pale
+  - haunted
+  - environmental-decay
+  - stillness
+  - galarian-regional-form
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - psychic-type
+  - no-face
+  - pokemon-basic
 reference_image: cards/_images/pokemon/rebel-clash/078-192-galarian-corsola.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh2/78_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Mitsuhiro Arita
 flavor_text: Watch your step when wandering areas oceans once covered. What looks like a stone could be this Pokémon, and it will curse you if you kick it.
-oracle_text: Cursed Drop (Psychic): Put 3 damage counters on your opponent's Pokémon in any way you like.
+oracle_text: "Cursed Drop (Psychic): Put 3 damage counters on your opponent's Pokémon in any way you like."
 mood: grim
 time_of_day: indeterminate
 setting: ocean
@@ -31,7 +48,8 @@ subject_known_ip: true
 suspected_ip: Galarian Corsola
 ip_confidence: high
 ip_verified: true
-characters: [galarian-regional-forms]
+characters:
+  - galarian-regional-forms
 ---
 
 # Galarian Corsola (Rebel Clash)

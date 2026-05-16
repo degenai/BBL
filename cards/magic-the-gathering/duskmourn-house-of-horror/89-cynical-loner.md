@@ -1,7 +1,7 @@
 ---
 name: Cynical Loner
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 89
 rarity: U
 variance: Normal
@@ -10,15 +10,34 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["loner", "spirit-animal", "fog", "survivor", "hooded", "isolation", "golden-spirits", "duskmourn", "modern-fantasy", "guardian", "cynicism"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "black-magic", "creature", "portrait", "female-figure"]
-symbols: ["survival"]
+tags_hub:
+  - loner
+  - spirit-animal
+  - fog
+  - survivor
+  - hooded
+  - isolation
+  - golden-spirits
+  - duskmourn
+  - modern-fantasy
+  - guardian
+  - cynicism
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - black-magic
+  - creature
+  - portrait
+  - female-figure
+symbols:
+  - survival
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/89-cynical-loner.png
 average_cost_paid: 0
 market_price: 0.27
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/c/c/cc93bcb8-778d-491e-877b-e6ad432764cb.png?1726286181
 art_match_confidence: high
 needs_manual_review: false

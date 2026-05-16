@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 6
 held_for_lair: 0
 bundles: []
-tags_hub: ["martial-arts", "youth", "fighter", "hero", "green", "energy", "power", "determination", "anime-style", "radiant"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "action", "forward-facing", "male-figure", "anime", "portrait-mode", "dbs-red"]
+tags_hub:
+  - martial-arts
+  - youth
+  - fighter
+  - hero
+  - green
+  - energy
+  - power
+  - determination
+  - anime-style
+  - radiant
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - action
+  - forward-facing
+  - male-figure
+  - anime
+  - portrait-mode
+  - dbs-red
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-003-heroic-duo-son-gohan.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408072529/EA31E31ECBA038AB1EA4C2A0D57234AB6BF52281/
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +49,8 @@ ip_verified: true
 image_width: 624
 image_height: 871
 image_quality: med
-characters: ["son-gohan"]
+characters:
+  - son-gohan
 ---
 
 # Heroic Duo Son Gohan (World Martial Arts Tournament)

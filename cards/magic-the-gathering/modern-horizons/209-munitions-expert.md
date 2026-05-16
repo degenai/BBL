@@ -1,6 +1,6 @@
 ---
 name: Munitions Expert
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons
 collector_number: 209
 rarity: U
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["goblin", "warband", "weapons", "explosives", "warrior", "horde", "engineer", "machinery", "battle", "armor", "fantasy"]
-tags_filter: ["mid-shot", "forward-facing", "crowd", "scene-mode", "action-mode", "creature-goblin", "red-magic", "male-figure", "no-architecture"]
+tags_hub:
+  - goblin
+  - warband
+  - weapons
+  - explosives
+  - warrior
+  - horde
+  - engineer
+  - machinery
+  - battle
+  - armor
+  - fantasy
+tags_filter:
+  - mid-shot
+  - forward-facing
+  - crowd
+  - scene-mode
+  - action-mode
+  - creature-goblin
+  - red-magic
+  - male-figure
+  - no-architecture
 reference_image: cards/_images/magic-the-gathering/modern-horizons/209-munitions-expert.png
 average_cost_paid: 0
-market_price: 0.4
-market_price_as_of: 2026-05-14
+market_price: 0.41
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/a/8/a8572dfd-9da1-4727-b549-47f9b119f6ac.png?1562202379
 art_match_confidence: high
 needs_manual_review: false

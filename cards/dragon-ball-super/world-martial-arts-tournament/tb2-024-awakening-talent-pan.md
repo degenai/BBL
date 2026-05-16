@@ -10,21 +10,38 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["martial-arts", "child-warrior", "fighting-stance", "prodigy", "energy-aura", "tournament", "girl", "inheritance", "lineage", "determination"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "female-figure", "anime-style"]
+tags_hub:
+  - martial-arts
+  - child-warrior
+  - fighting-stance
+  - prodigy
+  - energy-aura
+  - tournament
+  - girl
+  - inheritance
+  - lineage
+  - determination
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - female-figure
+  - anime-style
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-024-awakening-talent-pan.png
 average_cost_paid: 0
 market_price: 0.22
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/TB2-024.png
 art_match_confidence: high
 needs_manual_review: false
 image_width: 260
 image_height: 363
 image_quality: low
-characters: [pan]
+characters:
+  - pan
 mood: action
 time_of_day: indeterminate
 setting: other

@@ -1,7 +1,7 @@
 ---
 name: Slavering Branchsnapper
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 198
 rarity: C
 variance: Normal
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["monster", "dragon", "reptile", "predator", "roar", "hedge-maze", "chase", "sun", "fangs", "claws", "forest", "horror"]
-tags_filter: ["solo", "wide-shot", "faces-left", "scene-mode", "no-face-human", "creature-beast", "green-magic", "trample", "forestcycling"]
+tags_hub:
+  - monster
+  - dragon
+  - reptile
+  - predator
+  - roar
+  - hedge-maze
+  - chase
+  - sun
+  - fangs
+  - claws
+  - forest
+  - horror
+tags_filter:
+  - solo
+  - wide-shot
+  - faces-left
+  - scene-mode
+  - no-face-human
+  - creature-beast
+  - green-magic
+  - trample
+  - forestcycling
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/198-slavering-branchsnapper.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/5/e/5ed7ca4d-5895-4074-8315-656363d14862.png?1726286606
 art_match_confidence: high
 needs_manual_review: false
@@ -25,11 +46,12 @@ artist: John Tedrick
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/198-slavering-branchsnapper--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/e/5ed7ca4d-5895-4074-8315-656363d14862.jpg?1726286606
 flavor_text: \"Hey, look! It made us a nice big path through the hedge maze!\"\n—Zimone
-oracle_text: Trample\nForestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)
+oracle_text: "Trample\\nForestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)"
 mood: horror
 time_of_day: twilight
 setting: forest
-characters: ["valgavoth"]
+characters:
+  - valgavoth
 ---
 
 # Slavering Branchsnapper (Duskmourn: House of Horror)

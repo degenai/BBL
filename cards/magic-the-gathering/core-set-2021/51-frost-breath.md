@@ -1,6 +1,6 @@
 ---
 name: Frost Breath
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 51
 rarity: C
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["dragon", "ice", "cold", "frost", "mountain", "winter", "breath-weapon", "majesty", "snow", "elemental", "wyrm", "skies", "predator"]
-tags_filter: ["wide-shot", "action-mode", "solo", "faces-left", "instant", "blue-mono", "creature-dragon", "common", "blue-magic"]
+tags_hub:
+  - dragon
+  - ice
+  - cold
+  - frost
+  - mountain
+  - winter
+  - breath-weapon
+  - majesty
+  - snow
+  - elemental
+  - wyrm
+  - skies
+  - predator
+tags_filter:
+  - wide-shot
+  - action-mode
+  - solo
+  - faces-left
+  - instant
+  - blue-mono
+  - creature-dragon
+  - common
+  - blue-magic
 reference_image: cards/_images/magic-the-gathering/core-set-2021/51-frost-breath.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/3/9/393fc485-d3c1-4826-933d-89f66df769d4.png?1594735496
 art_match_confidence: high
 needs_manual_review: false

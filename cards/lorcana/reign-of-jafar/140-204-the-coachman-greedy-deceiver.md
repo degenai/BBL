@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["villain", "deception", "exploitation", "carnival", "children", "power", "greed", "whip", "red-coat", "danger", "coercion", "predator"]
-tags_filter: ["mid-shot", "action", "group", "forward-facing", "male-figure", "formal", "lorcana-ruby"]
+tags_hub:
+  - villain
+  - deception
+  - exploitation
+  - carnival
+  - children
+  - power
+  - greed
+  - whip
+  - red-coat
+  - danger
+  - coercion
+  - predator
+tags_filter:
+  - mid-shot
+  - action
+  - group
+  - forward-facing
+  - male-figure
+  - formal
+  - lorcana-ruby
 reference_image: cards/_images/lorcana/reign-of-jafar/140-204-the-coachman-greedy-deceiver.jpg
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set8/140_72471be6dddeeb754476e213c78d82eb7a713652.jpg
 art_match_confidence: high
 needs_manual_review: false

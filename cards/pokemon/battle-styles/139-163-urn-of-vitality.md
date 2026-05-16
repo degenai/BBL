@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["urn", "vessel", "pottery", "relic", "fire", "ritual", "power", "glow", "earth"]
-tags_filter: ["solo", "close-up", "no-face", "item-card", "trainer-card", "portrait-mode", "single-strike", "artifact"]
+tags_hub:
+  - urn
+  - vessel
+  - pottery
+  - relic
+  - fire
+  - ritual
+  - power
+  - glow
+  - earth
+tags_filter:
+  - solo
+  - close-up
+  - no-face
+  - item-card
+  - trainer-card
+  - portrait-mode
+  - single-strike
+  - artifact
 reference_image: cards/_images/pokemon/battle-styles/139-163-urn-of-vitality.png
 average_cost_paid: 0
-market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price: 0.12
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh5/139_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -26,7 +43,8 @@ oracle_text: Shuffle up to 2 Single Strike Energy cards from your discard pile i
 mood: grim
 time_of_day: indeterminate
 setting: other
-symbols: [single-strike-emblem]
+symbols:
+  - single-strike-emblem
 ---
 
 # Urn of Vitality (Battle Styles)

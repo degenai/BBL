@@ -1,6 +1,6 @@
 ---
 name: Fuss // Bother
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 248
 rarity: U
@@ -10,14 +10,42 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["crime-scene", "murder", "witnesses", "robed-figure", "mage", "summoning", "constructs", "swords", "ritual", "noir", "investigation", "aftermath"]
-tags_filter: ["split-card", "two-panel", "scene-mode", "group", "no-face", "blue-magic", "red-magic", "multicolor-blue-red", "izzet", "instant", "sorcery", "token-generator", "construct-token", "surveil", "plus-one-counters", "attack-trigger"]
+tags_hub:
+  - crime-scene
+  - murder
+  - witnesses
+  - robed-figure
+  - mage
+  - summoning
+  - constructs
+  - swords
+  - ritual
+  - noir
+  - investigation
+  - aftermath
+tags_filter:
+  - split-card
+  - two-panel
+  - scene-mode
+  - group
+  - no-face
+  - blue-magic
+  - red-magic
+  - multicolor-blue-red
+  - izzet
+  - instant
+  - sorcery
+  - token-generator
+  - construct-token
+  - surveil
+  - plus-one-counters
+  - attack-trigger
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/248-fuss-bother.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/2/6/269a031e-0b89-40e1-b11b-ae870d72161c.png?1706242301
 art_match_confidence: high
 needs_manual_review: false

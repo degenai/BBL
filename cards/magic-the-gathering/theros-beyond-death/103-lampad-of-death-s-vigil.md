@@ -1,6 +1,6 @@
 ---
 name: Lampad of Death's Vigil
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 103
 rarity: C
@@ -10,14 +10,40 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["spirit", "ghost", "grief", "mourning", "death", "nymph", "underworld", "ruins", "storm", "chains", "robed-figure", "greek-mythology", "female-spirit", "night"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "female-figure", "single-figure", "black-magic", "enchantment", "creature-nymph", "creature-spirit", "lifegain", "sacrifice"]
+tags_hub:
+  - spirit
+  - ghost
+  - grief
+  - mourning
+  - death
+  - nymph
+  - underworld
+  - ruins
+  - storm
+  - chains
+  - robed-figure
+  - greek-mythology
+  - female-spirit
+  - night
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - female-figure
+  - single-figure
+  - black-magic
+  - enchantment
+  - creature-nymph
+  - creature-spirit
+  - lifegain
+  - sacrifice
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/103-lampad-of-death-s-vigil.png
 average_cost_paid: 0
 market_price: 0.24
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
@@ -29,7 +55,7 @@ artist: Jason Felix
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/103-lampad-of-death-s-vigil--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/8/e8c9ada9-ea25-4a96-a4be-e4cf8f7a014f.jpg?1581479856
 flavor_text: \"Grief-struck, she weeps for each mortal's final death.\"\n—Psemilla, Meletian poet
-oracle_text: {1}, Sacrifice a creature: Each opponent loses 1 life and you gain 1 life.
+oracle_text: "{1}, Sacrifice a creature: Each opponent loses 1 life and you gain 1 life."
 ---
 
 # Lampad of Death's Vigil (Theros Beyond Death)

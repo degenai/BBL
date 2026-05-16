@@ -1,6 +1,6 @@
 ---
 name: Urban Burgeoning
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Return to Ravnica
 collector_number: 138
 rarity: C
@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["overgrowth", "tower", "forest", "birds", "reclamation", "nature-vs-civilization", "urban-jungle", "simic", "aerial-view", "trees"]
-tags_filter: ["none", "wide", "narrative", "green-magic", "enchantment-aura", "no-face", "scene-mode"]
+tags_hub:
+  - overgrowth
+  - tower
+  - forest
+  - birds
+  - reclamation
+  - nature-vs-civilization
+  - urban-jungle
+  - simic
+  - aerial-view
+  - trees
+tags_filter:
+  - none
+  - wide
+  - narrative
+  - green-magic
+  - enchantment-aura
+  - no-face
+  - scene-mode
 reference_image: cards/_images/magic-the-gathering/return-to-ravnica/138-urban-burgeoning.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/3/9/393c230f-5bc3-4b71-b5ac-81d5ce227df5.png?1562784951
 art_match_confidence: high
 needs_manual_review: false

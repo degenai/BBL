@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["tower", "corporate", "architecture", "power", "wealth", "galar", "headquarters", "monument", "spectacle", "urban-landmark"]
-tags_filter: ["no-face", "wide-shot", "scene-mode", "stadium-card", "trainer-card", "swsh-era", "no-figures"]
+tags_hub:
+  - tower
+  - corporate
+  - architecture
+  - power
+  - wealth
+  - galar
+  - headquarters
+  - monument
+  - spectacle
+  - urban-landmark
+tags_filter:
+  - no-face
+  - wide-shot
+  - scene-mode
+  - stadium-card
+  - trainer-card
+  - swsh-era
+  - no-figures
 reference_image: cards/_images/pokemon/darkness-ablaze/169-189-rose-tower.png
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price: 0.05
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/169_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -29,7 +46,8 @@ setting: urban
 suspected_ip: Rose Tower
 ip_confidence: high
 ip_verified: true
-characters: ["macro-cosmos"]
+characters:
+  - macro-cosmos
 ---
 
 # Rose Tower (Darkness Ablaze)

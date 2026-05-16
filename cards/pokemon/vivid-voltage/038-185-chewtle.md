@@ -10,20 +10,37 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["turtle", "water", "shore", "small", "biting", "reptile", "teething", "cute", "round", "summer"]
-tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "water-type", "creature-water", "pokemon"]
+tags_hub:
+  - turtle
+  - water
+  - shore
+  - small
+  - biting
+  - reptile
+  - teething
+  - cute
+  - round
+  - summer
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - water-type
+  - creature-water
+  - pokemon
 reference_image: cards/_images/pokemon/vivid-voltage/038-185-chewtle.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price: 0.1
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh4/38_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: kirisAki
 flavor_text: Apparently the itch of its teething impels it to snap its jaws at anything in front of it.
-oracle_text: Jaw Lock (WaterColorless) 40: During your opponent's next turn, the Defending Pokémon can't retreat.
+oracle_text: "Jaw Lock (WaterColorless) 40: During your opponent's next turn, the Defending Pokémon can't retreat."
 mood: comedic
 time_of_day: day
 setting: ocean

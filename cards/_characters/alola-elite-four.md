@@ -1,7 +1,13 @@
 ---
 type: character
 name: Alola Elite Four
-aliases: [alola-elite-four, alola-e4, alola-pokemon-league-elite-four, sm-elite-four, usum-elite-four, alola-league-e4]
+aliases:
+  - alola-elite-four
+  - alola-e4
+  - alola-pokemon-league-elite-four
+  - sm-elite-four
+  - usum-elite-four
+  - alola-league-e4
 universe: Pokemon / Alola (Pokemon Sun & Moon and Pokemon Ultra Sun & Ultra Moon, Game Freak / Creatures Inc. / Nintendo, 2016-2017)
 faction: Alola Pokemon League — Elite Four (the four senior trainers stationed at the league's Mount Lanakila summit, the in-canon culmination of the Alolan Island Challenge before the open-format Champion's Test)
 species: faction-collective (four trainers — Hala the Fighting-type kahuna, Olivia the Rock-type Akala kahuna, Acerola the Ghost-type former trial captain, Kahili the Flying-type returning native; Molayne replaces Hala in Ultra Sun and Ultra Moon as the Steel-type member)
@@ -13,7 +19,12 @@ appears_on:
   - pokemon/mega-evolution/113-132-acerola-s-mischief
 related_hubs: []
 related_symbols: []
-related_characters: [alola-trial-captains, alola-kahunas, alolan-regional-forms, acerola, aether-foundation]
+related_characters:
+  - alola-trial-captains
+  - alola-kahunas
+  - alolan-regional-forms
+  - acerola
+  - aether-foundation
 ip_resolution_for: alola-elite-four
 ---
 

@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["villain", "confrontation", "baby-saga", "parasitism", "youth-vs-evil", "rivalry", "tension", "duo-scene", "possession", "saiyan", "tuffle"]
-tags_filter: ["duo", "mid-shot", "three-quarter", "narrative", "red-magic", "event-card"]
+tags_hub:
+  - villain
+  - confrontation
+  - baby-saga
+  - parasitism
+  - youth-vs-evil
+  - rivalry
+  - tension
+  - duo-scene
+  - possession
+  - saiyan
+  - tuffle
+tags_filter:
+  - duo
+  - mid-shot
+  - three-quarter
+  - narrative
+  - red-magic
+  - event-card
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-022-vengeful-onslaught.png
 average_cost_paid: 0
 market_price: 0.01
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401026357/70928DA381E47C123346FEC393FC0EF81FA794A2/
 image_width: 624
 image_height: 869
@@ -30,7 +47,8 @@ setting: other
 suspected_ip: Trunks and Baby (Dragon Ball GT)
 ip_confidence: high
 ip_verified: true
-characters: ["baby-dbgt"]
+characters:
+  - baby-dbgt
 ---
 
 # Vengeful Onslaught (Colossal Warfare)

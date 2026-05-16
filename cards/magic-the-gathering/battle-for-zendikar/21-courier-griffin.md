@@ -1,6 +1,6 @@
 ---
 name: Courier Griffin
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Battle for Zendikar
 collector_number: 21
 rarity: C
@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["griffin", "wings", "flight", "sunset", "messenger", "beast", "sky", "predator", "cliff", "golden-sky"]
-tags_filter: ["solo", "mid-shot", "faces-left", "flying", "creature-griffin", "white-magic", "lifegain"]
+tags_hub:
+  - griffin
+  - wings
+  - flight
+  - sunset
+  - messenger
+  - beast
+  - sky
+  - predator
+  - cliff
+  - golden-sky
+tags_filter:
+  - solo
+  - mid-shot
+  - faces-left
+  - flying
+  - creature-griffin
+  - white-magic
+  - lifegain
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/21-courier-griffin.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/4/d/4d3afc71-f5db-45c3-96b2-8454b7f33542.png?1562913062
 art_match_confidence: high
 needs_manual_review: false

@@ -1,6 +1,6 @@
 ---
 name: Spellheart Chimera
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros
 collector_number: 204
 rarity: U
@@ -10,14 +10,38 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["chimera", "flight", "wings", "sky", "beast", "monster", "lion", "hybrid-creature", "mythology", "soaring", "clouds", "feathered-wings"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "no-face", "action-pose", "creature-chimera", "flying", "trample", "multicolor-blue-red", "blue-magic", "red-magic", "instant-sorcery-matter"]
+tags_hub:
+  - chimera
+  - flight
+  - wings
+  - sky
+  - beast
+  - monster
+  - lion
+  - hybrid-creature
+  - mythology
+  - soaring
+  - clouds
+  - feathered-wings
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - no-face
+  - action-pose
+  - creature-chimera
+  - flying
+  - trample
+  - multicolor-blue-red
+  - blue-magic
+  - red-magic
+  - instant-sorcery-matter
 reference_image: cards/_images/magic-the-gathering/theros/204-spellheart-chimera.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros'

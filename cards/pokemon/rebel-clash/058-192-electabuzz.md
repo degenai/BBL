@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["electricity", "lightning", "warrior", "power", "stripes", "energy", "yellow", "fighter", "storm", "muscle"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "lightning-type", "common", "basic-pokemon", "action-pose"]
+tags_hub:
+  - electricity
+  - lightning
+  - warrior
+  - power
+  - stripes
+  - energy
+  - yellow
+  - fighter
+  - storm
+  - muscle
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - lightning-type
+  - common
+  - basic-pokemon
+  - action-pose
 reference_image: cards/_images/pokemon/rebel-clash/058-192-electabuzz.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh2/58_hires.png
 art_match_confidence: high
 needs_manual_review: false

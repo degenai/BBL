@@ -1,6 +1,6 @@
 ---
 name: Sunset Pyramid
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Mystery Booster Cards
 collector_number: 166
 rarity: U
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["pyramid", "ziggurat", "sunset", "ruins", "ancient-architecture", "desert", "lost-civilization", "monument", "stone", "abandoned-place", "sacred-site", "twilight-world"]
-tags_filter: ["no-figure", "wide-shot", "scene-mode", "artifact", "colorless", "no-face", "background-sunset", "monochrome-warm"]
+tags_hub:
+  - pyramid
+  - ziggurat
+  - sunset
+  - ruins
+  - ancient-architecture
+  - desert
+  - lost-civilization
+  - monument
+  - stone
+  - abandoned-place
+  - sacred-site
+  - twilight-world
+tags_filter:
+  - no-figure
+  - wide-shot
+  - scene-mode
+  - artifact
+  - colorless
+  - no-face
+  - background-sunset
+  - monochrome-warm
 reference_image: cards/_images/magic-the-gathering/mystery-booster-cards/166-sunset-pyramid.png
 average_cost_paid: 0
 market_price: 0.22
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -30,7 +50,7 @@ artist: Jonas De Ro
 art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/166-sunset-pyramid--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/3/93165cd6-7a6b-40e6-83fa-97575a03bbb5.jpg?1573517498
 flavor_text: Decades to build. Hours to demolish.
-oracle_text: This artifact enters with three brick counters on it.\n{2}, {T}, Remove a brick counter from this artifact: Draw a card.\n{2}, {T}: Scry 1.
+oracle_text: "This artifact enters with three brick counters on it.\\n{2}, {T}, Remove a brick counter from this artifact: Draw a card.\\n{2}, {T}: Scry 1."
 ---
 
 # Sunset Pyramid (Mystery Booster Cards)

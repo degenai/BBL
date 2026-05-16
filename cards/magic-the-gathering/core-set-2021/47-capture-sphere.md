@@ -1,6 +1,6 @@
 ---
 name: Capture Sphere
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 47
 rarity: C
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["imprisonment", "magic", "chains", "glow", "sphere", "binding", "captive", "stronghold", "spellwork", "runes", "ritual"]
-tags_filter: ["mid-shot", "scene-mode", "duo", "enchantment-aura", "blue-mono", "common", "blue-magic"]
+tags_hub:
+  - imprisonment
+  - magic
+  - chains
+  - glow
+  - sphere
+  - binding
+  - captive
+  - stronghold
+  - spellwork
+  - runes
+  - ritual
+tags_filter:
+  - mid-shot
+  - scene-mode
+  - duo
+  - enchantment-aura
+  - blue-mono
+  - common
+  - blue-magic
 reference_image: cards/_images/magic-the-gathering/core-set-2021/47-capture-sphere.png
 average_cost_paid: 0
 market_price: 0.16
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/f/5/f5ed9f08-56e8-4e24-aae2-05270d7c1ba8.png?1594735438
 art_match_confidence: high
 needs_manual_review: false

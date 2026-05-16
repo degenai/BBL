@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["highland", "clan-lord", "stubborn", "tartan", "comedy", "elder", "scotland", "father", "shield", "yelling", "pride", "warrior"]
-tags_filter: ["duo", "mid-shot", "action", "three-quarter", "steel-magic", "character-card", "storyborn", "ally"]
+tags_hub:
+  - highland
+  - clan-lord
+  - stubborn
+  - tartan
+  - comedy
+  - elder
+  - scotland
+  - father
+  - shield
+  - yelling
+  - pride
+  - warrior
+tags_filter:
+  - duo
+  - mid-shot
+  - action
+  - three-quarter
+  - steel-magic
+  - character-card
+  - storyborn
+  - ally
 reference_image: cards/_images/lorcana/wilds-unknown/186-204-lord-dingwall-bullheaded.jpg
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set12/186_74242fa481dc8df7788924b02c27b93f00c4c11c.jpg
 art_match_confidence: high
 needs_manual_review: false

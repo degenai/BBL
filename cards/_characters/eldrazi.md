@@ -1,7 +1,14 @@
 ---
 type: character
 name: Eldrazi
-aliases: [eldrazi, the-eldrazi, eldrazi-titans, brood-of-the-titans, eldrazi-brood, the-three, blind-eternities-natives]
+aliases:
+  - eldrazi
+  - the-eldrazi
+  - eldrazi-titans
+  - brood-of-the-titans
+  - eldrazi-brood
+  - the-three
+  - blind-eternities-natives
 universe: "Magic: The Gathering / Multiverse (origin: the Blind Eternities; primary plane of invasion: Zendikar; secondary appearances: Innistrad — Emrakul corruption arc; Modern Horizons 3 set-design throwback to the Eldrazi-resurgence brief)"
 faction: "Eldrazi (cosmic-horror titan brood; this node IS the brood/faction)"
 species: "eldritch-titan-collective (three primary Titans — Emrakul the Promised End, Ulamog the Ceaseless Hunger, Kozilek the Butcher of Truth; brood-lineage descendants — Spawn, Scion, Drone tiers; ascending-scope alien horrors with tentacled, bone-white, scale-defying anatomy native to the Blind Eternities between planes)"
@@ -24,7 +31,11 @@ appears_on:
   - magic-the-gathering/oath-of-the-gatewatch/97-immobilizer-eldrazi
 related_hubs: []
 related_symbols: []
-related_characters: [kor, phyrexia, kiora, zendikari-resistance]
+related_characters:
+  - kor
+  - phyrexia
+  - kiora
+  - zendikari-resistance
 ip_resolution_for: eldrazi
 ---
 

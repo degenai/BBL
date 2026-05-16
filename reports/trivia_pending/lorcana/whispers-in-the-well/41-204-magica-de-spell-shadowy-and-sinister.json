@@ -1,0 +1,47 @@
+{
+  "card_name": "Magica De Spell - Shadowy and Sinister",
+  "game": "Lorcana",
+  "set": "Whispers in the Well",
+  "collector_number": "41/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Verified. Card name is the character's exact canonical name. Magica De Spell is a Carl Barks creation from 1961 who has appeared across Duck universe comics and the DuckTales animated series. The 'Shadowy and Sinister' subtitle and shadow-silhouette art directly reference the 2017 DuckTales reboot where Magica was imprisoned in Scrooge's dime and manifested as a shadow entity for Season 1. The Mushu Report categorizes this card as Storyborn / Villain / Sorcerer. The DARK INCANTATION ability (shuffling discard back into deck) aligns with her goal of hoarding magical power. Wizards-internal Disney character; no external IP risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Magica De Spell was created by Carl Barks for the Duck universe comics, debuting in Uncle Scrooge no. 36 (December 1961) in 'The Midas Touch.' She is an Italian sorceress whose central obsession is acquiring Scrooge McDuck's Number One Dime to gain the Midas Touch. Barks modeled her appearance on Sophia Loren and Gina Lollobrigida. [Wikipedia: Magica De Spell; WebSearch snippet from Wikipedia]",
+      "sources": ["Wikipedia: Magica De Spell (en.wikipedia.org/wiki/Magica_De_Spell)", "WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The 'Shadowy and Sinister' version directly references the 2017 DuckTales reboot storyline: Magica attempted to trap Scrooge in his Number One Dime, the spell backfired, and she was imprisoned inside it. For all of Season 1, she manifested as a shadow specter — communicating through her living shadow-proxy Lena. This card's full-silhouette shadow art with single glowing red eye is a direct visualization of that canonical shadow-form. [DuckTales Wiki: Magica De Spell (2017); WebSearch snippet]",
+      "sources": ["DuckTales Wiki (ducktales.fandom.com/wiki/Magica_De_Spell_(2017))", "WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Part of Whispers in the Well (set 10), released November 14, 2025 — a Disney Lorcana set themed around film noir, mystery, and supernatural horror set within the Ink Well itself. The set introduced the 'Whisper' card type and the Boost mechanic. Magica's shadow-form fits the set's aesthetic of incomplete, ghostly entities. [WebSearch: Whispers in the Well overview; micechat.com]",
+      "sources": ["micechat.com/425388-disney-lorcana-set-10-whispers-in-the-well/", "WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "DARK INCANTATION: 'When you play this character, you may shuffle a card from chosen player's discard into their deck.' The ability buries opponent resources back into the deck, disrupting graveyard strategies. As a 3-cost Amethyst Common with the Storyborn / Villain / Sorcerer type line, she offers accessible disruption. Illustrated by Brian Kesinger. [card frontmatter; Mushu Report: Magica De Spell - Shadowy and Sinister]",
+      "sources": ["card frontmatter (oracle_text, artist fields)", "Mushu Report (wiki.mushureport.com/wiki/Magica_De_Spell_-_Shadowy_and_Sinister)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"My power is still not enough. I need something more. Something... shadowy.\" This is voiced in-character, reflecting Magica's perpetual hunger for greater power — and in the 2017 reboot, her literal condition of being a shadow. [card frontmatter]",
+      "sources": ["card frontmatter (flavor_text field)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Magica De Spell - Conniving Sorceress", "set": "Whispers in the Well", "note": "Super Rare version in same set with Shift 7 and SHADOW'S GRASP: draw 4 cards if shifted; direct alternate version"},
+    {"name": "Magica De Spell - Shadow Form", "set": "Whispers in the Well (set 10 per search result)", "note": "Another Magica shadow-form variant in same set with DANCE OF DARKNESS ability"},
+    {"name": "Lena (DuckTales)", "set": "Any", "note": "Magica's living shadow-proxy from the 2017 reboot; if a Lorcana card exists, directly related"},
+    {"name": "Scrooge McDuck (any Lorcana version)", "set": "Multiple sets", "note": "Canonical adversary; Magica's entire arc revolves around his Number One Dime"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Magica De Spell (DuckTales)",
+    "ip_confidence": "high"
+  }
+}

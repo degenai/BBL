@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["saiyan", "martial-arts", "fighter", "courage", "energy-aura", "orange-gi", "hero", "warrior", "rush-attack", "spirit", "youth"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "male-figure", "red-magic", "battle-unit"]
+tags_hub:
+  - saiyan
+  - martial-arts
+  - fighter
+  - courage
+  - energy-aura
+  - orange-gi
+  - hero
+  - warrior
+  - rush-attack
+  - spirit
+  - youth
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - male-figure
+  - red-magic
+  - battle-unit
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-005-blazing-spirit-son-goku.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401024079/AD091AACFBA6D141B03F8DE37019E1C7BBA3FFEA/
 image_width: 624
 image_height: 871
@@ -30,7 +48,8 @@ setting: void
 suspected_ip: Son Goku (Dragon Ball)
 ip_confidence: high
 ip_verified: true
-characters: [son-goku]
+characters:
+  - son-goku
 ---
 
 # Blazing Spirit Son Goku (Colossal Warfare)

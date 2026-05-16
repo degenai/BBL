@@ -1,7 +1,12 @@
 ---
 type: character
 name: Ral Zarek
-aliases: [ral, ral-zarek, ral-storm-conduit, ral-izzet-viceroy, storm-conduit]
+aliases:
+  - ral
+  - ral-zarek
+  - ral-storm-conduit
+  - ral-izzet-viceroy
+  - storm-conduit
 universe: "Magic: The Gathering / Ravnica"
 faction: "Izzet League (lieutenant-then-guildmaster planeswalker)"
 species: human planeswalker (storm mage, pyrothermal experimenter)
@@ -10,9 +15,12 @@ confidence: canonical
 appears_on:
   - magic-the-gathering/modern-horizons-3/132-ral-and-the-implicit-maze
   - magic-the-gathering/war-of-the-spark/212-ral-s-outburst
-related_hubs: [labor]
+related_hubs: "[labor]"
 related_symbols: []
-related_characters: [izzet-league, nicol-bolas, jace-beleren]
+related_characters:
+  - izzet-league
+  - nicol-bolas
+  - jace-beleren
 ip_resolution_for: Ral Zarek
 parent_character: izzet-league
 ---

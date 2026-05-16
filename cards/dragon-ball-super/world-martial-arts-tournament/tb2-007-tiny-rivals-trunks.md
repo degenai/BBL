@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["trunks", "child-warrior", "youth", "ki-blast", "tiny-rivals", "purple-energy", "innocence", "combat", "prodigy", "light-hair"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "male-figure", "action-mode", "anime-style", "child-figure", "base-form"]
+tags_hub:
+  - trunks
+  - child-warrior
+  - youth
+  - ki-blast
+  - tiny-rivals
+  - purple-energy
+  - innocence
+  - combat
+  - prodigy
+  - light-hair
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - male-figure
+  - action-mode
+  - anime-style
+  - child-figure
+  - base-form
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-007-tiny-rivals-trunks.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408073435/A577040B2BA3AAA6F7F9BFA034A47517F8D9F625/
 image_width: 624
 image_height: 871
@@ -30,7 +48,8 @@ setting: void
 suspected_ip: Kid Trunks
 ip_confidence: high
 ip_verified: true
-characters: [trunks]
+characters:
+  - trunks
 ---
 
 # Tiny Rivals Trunks (World Martial Arts Tournament)

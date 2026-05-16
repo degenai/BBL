@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["super-saiyan", "golden-aura", "warrior", "power", "combat", "transformation", "martial-arts", "energy", "intensity", "saiyan", "battle-stance", "radiant"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action-mode", "anime-style", "dbscg"]
+tags_hub:
+  - super-saiyan
+  - golden-aura
+  - warrior
+  - power
+  - combat
+  - transformation
+  - martial-arts
+  - energy
+  - intensity
+  - saiyan
+  - battle-stance
+  - radiant
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action-mode
+  - anime-style
+  - dbscg
 reference_image: cards/_images/dragon-ball-super/cross-worlds/bt3-058-pressure-assault-super-saiyan-son-goku.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401012615/84A2119562A29EFAA45FE1C9F34306FECC9A456D/
 art_match_confidence: high
 needs_manual_review: false
@@ -31,7 +49,8 @@ subject_known_ip: true
 suspected_ip: Son Goku (Super Saiyan) — Dragon Ball franchise
 ip_confidence: high
 ip_verified: true
-characters: [son-goku]
+characters:
+  - son-goku
 ---
 
 # Pressure Assault Super Saiyan Son Goku (Cross Worlds)

@@ -10,18 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-characters: ["galar-gym-challenge"]
+characters:
+  - galar-gym-challenge
 suspected_ip: Galar League Staff (Pokemon Trainer class)
 ip_confidence: high
 ip_verified: true
-tags_hub: ["uniform", "labor", "service-worker", "staff", "institution", "galar", "sport", "arena", "tournament", "worker"]
-tags_filter: ["duo", "mid-shot", "portrait", "forward-facing", "trainer-supporter", "colorless-energy"]
+tags_hub:
+  - uniform
+  - labor
+  - service-worker
+  - staff
+  - institution
+  - galar
+  - sport
+  - arena
+  - tournament
+  - worker
+tags_filter:
+  - duo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - trainer-supporter
+  - colorless-energy
 reference_image: cards/_images/pokemon/vivid-voltage/153-185-league-staff.png
 average_cost_paid: 0
-market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price: 0.03
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh4/153_hires.png
 art_match_confidence: high
 needs_manual_review: false

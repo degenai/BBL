@@ -1,6 +1,6 @@
 ---
 name: Aerie Auxiliary
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 18
 rarity: C
@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["wings", "flight", "bird", "warrior", "pyramid", "sky", "soldier", "aerial-combat", "armor", "ancient-civilization"]
-tags_filter: ["group", "wide", "action-mode", "three-quarter", "white-magic", "creature"]
+tags_hub:
+  - wings
+  - flight
+  - bird
+  - warrior
+  - pyramid
+  - sky
+  - soldier
+  - aerial-combat
+  - armor
+  - ancient-civilization
+tags_filter:
+  - group
+  - wide
+  - action-mode
+  - three-quarter
+  - white-magic
+  - creature
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/18-aerie-auxiliary.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/5/e/5e4c134b-a416-467e-a158-def84c92c6af.png?1717011339
 art_match_confidence: high
 needs_manual_review: false

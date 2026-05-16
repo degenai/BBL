@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["fire", "secrets", "wealth", "elder", "expedition", "burning", "financier", "patron", "night", "loyalty", "promise", "destruction"]
-tags_filter: ["solo", "mid-shot", "narrative", "three-quarter", "ruby-magic", "character-card", "storyborn", "ally"]
+tags_hub:
+  - fire
+  - secrets
+  - wealth
+  - elder
+  - expedition
+  - burning
+  - financier
+  - patron
+  - night
+  - loyalty
+  - promise
+  - destruction
+tags_filter:
+  - solo
+  - mid-shot
+  - narrative
+  - three-quarter
+  - ruby-magic
+  - character-card
+  - storyborn
+  - ally
 reference_image: cards/_images/lorcana/wilds-unknown/110-204-preston-whitmore-expedition-financier.jpg
 average_cost_paid: 0
-market_price: 0.03
-market_price_as_of: 2026-05-14
+market_price: 0.05
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set12/110_7546aa858e08919c05a82645796568258af724a6.jpg
 art_match_confidence: high
 needs_manual_review: false
@@ -34,7 +54,7 @@ mood: grim
 time_of_day: night
 setting: mountain
 subject_known_ip: true
-suspected_ip: Preston Whitmore (Atlantis: The Lost Empire)
+suspected_ip: "Preston Whitmore (Atlantis: The Lost Empire)"
 ip_confidence: high
 ip_verified: false
 ---

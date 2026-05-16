@@ -1,7 +1,13 @@
 ---
 type: character
 name: Elemental monkey trio (Pansage / Pansear / Panpour line)
-aliases: [elemental-monkey-trio, elemental-monkeys, unova-monkey-trio, three-wise-monkeys-pokemon, pansage-pansear-panpour-line, simisage-simisear-simipour-line]
+aliases:
+  - elemental-monkey-trio
+  - elemental-monkeys
+  - unova-monkey-trio
+  - three-wise-monkeys-pokemon
+  - pansage-pansear-panpour-line
+  - simisage-simisear-simipour-line
 universe: Pokemon / Unova (Generation V, Black & White, 2010-2011)
 faction: ~
 species: designer-coordinated trio of paired Pokemon species (three base forms + three Stone-evolution forms), one per elemental type (Grass / Fire / Water)

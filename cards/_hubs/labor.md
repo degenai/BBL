@@ -1,8 +1,14 @@
 ---
 type: hub
 name: Labor
-aliases: [labor, work, workers, toil, drudgery, exhaustion]
-tag_signals: [labor, exhaustion, drudgery, servant, tax-collector, scrubbing, burnout, hierarchy, oppression, working-class, peasant, soldier, worker, vow, ritual, captive, victim, coercion]
+aliases:
+  - labor
+  - work
+  - workers
+  - toil
+  - drudgery
+  - exhaustion
+tag_signals: "[labor, exhaustion, drudgery, servant, tax-collector, scrubbing, burnout, hierarchy, oppression, working-class, peasant, soldier, worker, vow, ritual, captive, victim, coercion]"
 anchored_lairs: []
 brand_weight: foundational
 ---

@@ -14,10 +14,10 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/pokemon/sun-moon-base-set/119-great-ball.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price: 0.09
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/dc1/27_hires.png
 art_match_confidence: low
 needs_manual_review: true

@@ -1,23 +1,46 @@
 ---
 name: Maraleaf Rider
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Throne of Eldraine
 collector_number: 166
 rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 2
+quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: ["fox", "butterfly", "rider", "mount", "elf", "knight", "forest", "hunt", "charge", "fairytale", "woodland", "small-folk"]
-tags_filter: ["duo", "2-figures", "mid-shot", "faces-right", "scene-mode", "no-face-visible", "creature-elf", "creature-knight", "green-magic", "common", "action-pose"]
+tags_hub:
+  - fox
+  - butterfly
+  - rider
+  - mount
+  - elf
+  - knight
+  - forest
+  - hunt
+  - charge
+  - fairytale
+  - woodland
+  - small-folk
+tags_filter:
+  - duo
+  - 2-figures
+  - mid-shot
+  - faces-right
+  - scene-mode
+  - no-face-visible
+  - creature-elf
+  - creature-knight
+  - green-magic
+  - common
+  - action-pose
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/166-maraleaf-rider.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +52,7 @@ artist: Kieran Yanner
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/166-maraleaf-rider--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/b/1b2b198d-493c-4d6c-bfb6-e842728522f6.jpg?1572490611
 flavor_text: They both hunger for battle.
-oracle_text: Sacrifice a Food: Target creature blocks this creature this turn if able.
+oracle_text: "Sacrifice a Food: Target creature blocks this creature this turn if able."
 ---
 
 # Maraleaf Rider (Throne of Eldraine)

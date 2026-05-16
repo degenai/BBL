@@ -1,7 +1,15 @@
 ---
 type: character
 name: "Hercule (Mr. Satan)"
-aliases: [hercule, mr-satan, mark-satan, world-martial-arts-champion, cell-games-victor, buus-best-friend, bundle-of-confidence, the-people's-champion]
+aliases:
+  - hercule
+  - mr-satan
+  - mark-satan
+  - world-martial-arts-champion
+  - cell-games-victor
+  - buus-best-friend
+  - bundle-of-confidence
+  - the-people's-champion
 universe: "Dragon Ball franchise (Akira Toriyama, Shueisha manga 1984-1995; Toei Animation anime adaptations 1986-present); Hercule (Japanese: Mr. Satan; English-localization name) is introduced in Dragon Ball Z's Cell Games arc (manga chapter 410, 1992; anime episode 165, 1993) as the reigning World Martial Arts Champion and Cell Games competitor, becomes Earth's most celebrated public hero through his post-Cell credit-claim, and is reframed across the Buu Saga (chapters 460-518, 1994-1995) as Fat Buu's best friend and emotional anchor; the character continues across Dragon Ball Super (Toei Animation, 2015-2018), Dragon Ball GT (Toei, 1996-1997), and all subsequent franchise output as the canonical face of normal-human-celebrity within Earth's Dragon-Ball-power-tier hierarchy"
 faction: ~
 species: human (adult male; Earth-native; martial artist legitimately ranked at the top of the *normal-human* power tier, distinguishable in canon from the Z-Fighters' ki-user power tier by an order of magnitude; canonical age framing places him as middle-aged across the Z / Super continuity; his real name is "Mark" per Toriyama-confirmed canon, with "Mr. Satan" being the in-canon stage name and "Hercule" the English-localization rendering)
@@ -13,10 +21,17 @@ appears_on:
   - dragon-ball-super/world-martial-arts-tournament/tb2-010-secret-treaty-hercule
   - dragon-ball-super/world-martial-arts-tournament/tb2-011-heroic-duo-videl
   - dragon-ball-super/world-martial-arts-tournament/tb2-064-i-m-the-world-champion
-related_hubs: [labor]
+related_hubs: "[labor]"
 related_symbols: []
-related_characters: [son-goku, universe-6-tournament-cohort, destroyer-god-attendant-dyad]
-ip_resolution_for: ["Hercule", "Mr. Satan", "Mark", "World Martial Arts Champion"]
+related_characters:
+  - son-goku
+  - universe-6-tournament-cohort
+  - destroyer-god-attendant-dyad
+ip_resolution_for:
+  - Hercule
+  - Mr. Satan
+  - Mark
+  - World Martial Arts Champion
 ---
 
 # Hercule (Mr. Satan)

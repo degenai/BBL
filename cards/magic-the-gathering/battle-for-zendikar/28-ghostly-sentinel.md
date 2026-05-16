@@ -1,6 +1,6 @@
 ---
 name: Ghostly Sentinel
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Battle for Zendikar
 collector_number: 28
 rarity: C
@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["ghost", "spirit", "guardian", "sentinel", "vigilance", "blue-glow", "ancestor", "protector", "ethereal", "warrior"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "flying", "creature-spirit-soldier", "white-magic"]
+tags_hub:
+  - ghost
+  - spirit
+  - guardian
+  - sentinel
+  - vigilance
+  - blue-glow
+  - ancestor
+  - protector
+  - ethereal
+  - warrior
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - flying
+  - creature-spirit-soldier
+  - white-magic
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/28-ghostly-sentinel.png
 average_cost_paid: 0
 market_price: 0.02
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/d/e/de867066-df5c-4412-9d51-56626b6d0220.png?1562947957
 art_match_confidence: high
 needs_manual_review: false

@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["bear", "ice", "winter", "snow", "baby", "cute", "cold", "cub", "innocence", "blue", "fluffy", "frozen"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "water-type", "colorless-type", "basic-pokemon"]
+tags_hub:
+  - bear
+  - ice
+  - winter
+  - snow
+  - baby
+  - cute
+  - cold
+  - cub
+  - innocence
+  - blue
+  - fluffy
+  - frozen
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - water-type
+  - colorless-type
+  - basic-pokemon
 reference_image: cards/_images/pokemon/darkness-ablaze/048-189-cubchoo.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/48_hires.png
 art_match_confidence: high
 needs_manual_review: false

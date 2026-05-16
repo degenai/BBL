@@ -1,6 +1,6 @@
 ---
 name: Twisted Riddlekeeper
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 14
 rarity: U
@@ -13,18 +13,39 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["maze", "guardian", "wings", "beast", "medallion", "gold", "monster", "eldrazi", "labyrinth", "sphinx", "prison", "mystery"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "portrait", "multicolor-blue-colorless", "creature-eldrazi", "flying", "emerge"]
+tags_hub:
+  - maze
+  - guardian
+  - wings
+  - beast
+  - medallion
+  - gold
+  - monster
+  - eldrazi
+  - labyrinth
+  - sphinx
+  - prison
+  - mystery
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - portrait
+  - multicolor-blue-colorless
+  - creature-eldrazi
+  - flying
+  - emerge
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/14-twisted-riddlekeeper.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/5/3/534d7ae4-9c4b-4a5a-a109-7630a07aeb45.png?1717011302
 art_match_confidence: high
 needs_manual_review: false
-characters: ["eldrazi"]
+characters:
+  - eldrazi
 artist: Nino Vecia
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/14-twisted-riddlekeeper--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/3/534d7ae4-9c4b-4a5a-a109-7630a07aeb45.jpg?1717011302

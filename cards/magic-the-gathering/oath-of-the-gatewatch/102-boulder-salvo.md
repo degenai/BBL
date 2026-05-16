@@ -1,6 +1,6 @@
 ---
 name: Boulder Salvo
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Oath of the Gatewatch
 collector_number: 102
 rarity: C
@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["rocks", "destruction", "projectile", "sky", "power", "geology", "barrage", "force", "raw-power"]
-tags_filter: ["none", "wide", "abstract", "no-face", "red-magic", "instant"]
+tags_hub:
+  - rocks
+  - destruction
+  - projectile
+  - sky
+  - power
+  - geology
+  - barrage
+  - force
+  - raw-power
+tags_filter:
+  - none
+  - wide
+  - abstract
+  - no-face
+  - red-magic
+  - instant
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/102-boulder-salvo.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/4/e/4e269989-bb22-4da4-a374-434a572e8e8f.png?1562910801
 art_match_confidence: high
 needs_manual_review: false

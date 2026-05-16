@@ -1,6 +1,6 @@
 ---
 name: Vengeful Rebirth
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Ultimate Masters
 collector_number: 209
 rarity: U
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["fire", "rebirth", "phoenix", "sword", "knight", "warrior-woman", "red-hair", "gold", "vengeance", "saint", "armor", "flames"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "female-figure", "centered", "red-magic", "green-magic", "multicolor-red-green", "sorcery"]
+tags_hub:
+  - fire
+  - rebirth
+  - phoenix
+  - sword
+  - knight
+  - warrior-woman
+  - red-hair
+  - gold
+  - vengeance
+  - saint
+  - armor
+  - flames
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - female-figure
+  - centered
+  - red-magic
+  - green-magic
+  - multicolor-red-green
+  - sorcery
 reference_image: cards/_images/magic-the-gathering/ultimate-masters/209-vengeful-rebirth.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Ultimate Masters'

@@ -1,7 +1,7 @@
 ---
 name: Surgical Suite // Hospital Room
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 34
 rarity: U
 variance: Normal
@@ -10,15 +10,35 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["hospital", "abandoned", "horror", "operating-room", "decay", "duskmourn", "sterile", "medical", "haunted-room", "gothic-interior", "empty-space"]
-tags_filter: ["none", "wide", "scene-mode", "white-magic", "room-card", "enchantment", "split-card", "no-face"]
-symbols: ["rooms"]
+tags_hub:
+  - hospital
+  - abandoned
+  - horror
+  - operating-room
+  - decay
+  - duskmourn
+  - sterile
+  - medical
+  - haunted-room
+  - gothic-interior
+  - empty-space
+tags_filter:
+  - none
+  - wide
+  - scene-mode
+  - white-magic
+  - room-card
+  - enchantment
+  - split-card
+  - no-face
+symbols:
+  - rooms
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/34-surgical-suite-hospital-room.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-14
+market_price: 0.23
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/9/6/96b2dc14-4477-4444-a9eb-4fa4c02dfbde.png?1726780782
 art_match_confidence: high
 needs_manual_review: false

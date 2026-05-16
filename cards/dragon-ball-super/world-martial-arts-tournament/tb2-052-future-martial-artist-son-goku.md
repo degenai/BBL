@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["power-up", "electricity", "aura", "martial-arts", "warrior", "energy", "fighter", "training", "transformation", "intensity"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action", "anime-style", "male-figure"]
+tags_hub:
+  - power-up
+  - electricity
+  - aura
+  - martial-arts
+  - warrior
+  - energy
+  - fighter
+  - training
+  - transformation
+  - intensity
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - anime-style
+  - male-figure
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-052-future-martial-artist-son-goku.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408080144/5570BE08229E25BF2C87ED521DAB7083DA39E9E6/
 image_width: 624
 image_height: 871
@@ -30,7 +46,8 @@ setting: other
 suspected_ip: Son Goku
 ip_confidence: high
 ip_verified: true
-characters: [son-goku]
+characters:
+  - son-goku
 ---
 
 # Future Martial Artist Son Goku (World Martial Arts Tournament)

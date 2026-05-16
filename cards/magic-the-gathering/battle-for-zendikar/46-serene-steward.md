@@ -1,6 +1,6 @@
 ---
 name: Serene Steward
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Battle for Zendikar
 collector_number: 46
 rarity: U
@@ -10,20 +10,38 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["steward", "guardian", "ruins", "staff", "traveler", "watchfulness", "cleric", "calm", "resolve", "protector"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "portrait", "female-figure", "white-magic", "creature-kor-cleric"]
+tags_hub:
+  - steward
+  - guardian
+  - ruins
+  - staff
+  - traveler
+  - watchfulness
+  - cleric
+  - calm
+  - resolve
+  - protector
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - portrait
+  - female-figure
+  - white-magic
+  - creature-kor-cleric
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/46-serene-steward.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Battle for Zendikar'
 reference_image_source_url: https://cards.scryfall.io/png/front/7/0/702f5dd4-4dc7-4e2c-a30b-9286499433d8.png?1562921415
 artist: Magali Villeneuve
-characters: [zendikari-resistance]
+characters:
+  - zendikari-resistance
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/46-serene-steward--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/0/702f5dd4-4dc7-4e2c-a30b-9286499433d8.jpg?1562921415
 flavor_text: \"I can give you strength, but you'll have to bring your own courage.\"

@@ -1,7 +1,15 @@
 ---
 type: symbol
 name: Rooms (mechanic)
-aliases: [rooms, room, room-mechanic, room-card, room-enchantment, split-room, door-mechanic, unlock-this-door]
+aliases:
+  - rooms
+  - room
+  - room-mechanic
+  - room-card
+  - room-enchantment
+  - split-room
+  - door-mechanic
+  - unlock-this-door
 faction: ~
 universe: "Magic: The Gathering / Duskmourn (DSK, 2024-09-27)"
 canonical_source: "Wizards of the Coast — Mark Rosewater's Top of the Duskmourning Part 1 and Part 2 (2024-09); MTG Wiki — Room; Scryfall — type:room / oracletext:'unlock this door'"
@@ -13,7 +21,8 @@ appears_on:
   - magic-the-gathering/duskmourn-house-of-horror/190-moldering-gym-weight-room
   - magic-the-gathering/duskmourn-house-of-horror/235-smoky-lounge-misty-salon
 related_hubs: []
-related_characters: [valgavoth]
+related_characters:
+  - valgavoth
 ---
 
 # Rooms (mechanic)

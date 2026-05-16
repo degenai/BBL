@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["staff", "wand", "jewel", "navigator", "magic", "explorer", "compass", "adventure", "item", "gem", "glowing"]
-tags_filter: ["no-face", "close-up", "abstract", "ruby-magic", "item-card", "artifact"]
+tags_hub:
+  - staff
+  - wand
+  - jewel
+  - navigator
+  - magic
+  - explorer
+  - compass
+  - adventure
+  - item
+  - gem
+  - glowing
+tags_filter:
+  - no-face
+  - close-up
+  - abstract
+  - ruby-magic
+  - item-card
+  - artifact
 reference_image: cards/_images/lorcana/wilds-unknown/134-204-amazu-s-inkcaster.jpg
 average_cost_paid: 0
-market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price: 0.09
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set12/134_9bc9fe599c854d14b39d29e4e8a4b8d2ddca50cd.jpg
 art_match_confidence: high
 needs_manual_review: false

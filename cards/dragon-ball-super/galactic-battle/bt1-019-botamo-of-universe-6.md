@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["bear", "monster", "tournament", "universe-6", "yellow", "defender", "bulk", "fighter", "creature", "defiant", "round", "comic-relief"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "action-pose", "dbs-card", "suspected-ip", "non-humanoid", "animal-figure"]
+tags_hub:
+  - bear
+  - monster
+  - tournament
+  - universe-6
+  - yellow
+  - defender
+  - bulk
+  - fighter
+  - creature
+  - defiant
+  - round
+  - comic-relief
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action-pose
+  - dbs-card
+  - suspected-ip
+  - non-humanoid
+  - animal-figure
 reference_image: cards/_images/dragon-ball-super/galactic-battle/bt1-019-botamo-of-universe-6.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400568055/F43714E5591496E1BD4198FD500DEE9908745185/
 image_width: 624
 image_height: 871
@@ -30,7 +50,8 @@ setting: void
 suspected_ip: Botamo (Dragon Ball Super)
 ip_confidence: high
 ip_verified: true
-characters: [universe-6-tournament-cohort]
+characters:
+  - universe-6-tournament-cohort
 ---
 
 # Botamo of Universe 6 (Galactic Battle)

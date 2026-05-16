@@ -1,6 +1,6 @@
 ---
 name: It Doesn't Add Up
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 89
 rarity: U
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["ghost", "murder", "assassin", "memory", "grief", "lightning", "darkness", "hooded-figure", "resurrection", "mystery", "villain", "noir"]
-tags_filter: ["wide", "narrative", "duo", "away-facing", "black-magic", "sorcery", "chiaroscuro", "void", "storm"]
+tags_hub:
+  - ghost
+  - murder
+  - assassin
+  - memory
+  - grief
+  - lightning
+  - darkness
+  - hooded-figure
+  - resurrection
+  - mystery
+  - villain
+  - noir
+tags_filter:
+  - wide
+  - narrative
+  - duo
+  - away-facing
+  - black-magic
+  - sorcery
+  - chiaroscuro
+  - void
+  - storm
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/89-it-doesn-t-add-up.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/f/a/fa02dbc2-ad01-47fd-b39e-f0a695029f26.png?1706241707
 art_match_confidence: high
 needs_manual_review: false

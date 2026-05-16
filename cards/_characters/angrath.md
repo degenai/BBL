@@ -1,7 +1,12 @@
 ---
 type: character
 name: Angrath
-aliases: [angrath, angrath-minotaur-pirate, angrath-the-flame-chained, angrath-captain-of-chaos, the-flame-chained]
+aliases:
+  - angrath
+  - angrath-minotaur-pirate
+  - angrath-the-flame-chained
+  - angrath-captain-of-chaos
+  - the-flame-chained
 universe: "Magic: The Gathering / Multiverse (born on unrevealed plane, stranded on Ixalan)"
 faction: ~
 species: minotaur planeswalker (chains-pyromancer, slaver-captain)
@@ -10,9 +15,10 @@ confidence: canonical
 appears_on:
   - magic-the-gathering/war-of-the-spark/227-angrath-captain-of-chaos
   - magic-the-gathering/war-of-the-spark/185-angrath-s-rampage
-related_hubs: [rebellion]
+related_hubs: "[rebellion]"
 related_symbols: []
-related_characters: [nicol-bolas]
+related_characters:
+  - nicol-bolas
 ip_resolution_for: Angrath
 ---
 

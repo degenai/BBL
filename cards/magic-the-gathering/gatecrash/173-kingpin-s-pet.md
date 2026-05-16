@@ -1,6 +1,6 @@
 ---
 name: Kingpin's Pet
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Gatecrash
 collector_number: 173
 rarity: C
@@ -10,19 +10,40 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["chains", "servitude", "thrall", "gargoyle", "wings", "gothic", "city", "bondage", "gold", "labor-corrupted", "orzhov", "collar"]
-tags_filter: ["solo", "mid-shot", "narrative", "forward-facing", "multicolor-white-black", "creature-zombie-thrull", "flying", "extort"]
+tags_hub:
+  - chains
+  - servitude
+  - thrall
+  - gargoyle
+  - wings
+  - gothic
+  - city
+  - bondage
+  - gold
+  - labor-corrupted
+  - orzhov
+  - collar
+tags_filter:
+  - solo
+  - mid-shot
+  - narrative
+  - forward-facing
+  - multicolor-white-black
+  - creature-zombie-thrull
+  - flying
+  - extort
 reference_image: cards/_images/magic-the-gathering/gatecrash/173-kingpin-s-pet.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/3/4/3465cf63-4f10-4b53-9703-69746364dbc7.png?1561822414
 art_match_confidence: high
 needs_manual_review: false
 artist: Mark Zug
-characters: [orzhov-syndicate]
+characters:
+  - orzhov-syndicate
 art_crop_image: cards/_images/magic-the-gathering/gatecrash/173-kingpin-s-pet--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/4/3465cf63-4f10-4b53-9703-69746364dbc7.jpg?1561822414
 flavor_text: \"Debt and death sound so similar, and thrulls are so hard of hearing. Mistakes are inevitable.\"\n—Milana, Orzhov prelate

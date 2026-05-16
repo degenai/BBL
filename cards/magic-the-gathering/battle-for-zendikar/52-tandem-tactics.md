@@ -1,6 +1,6 @@
 ---
 name: Tandem Tactics
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Battle for Zendikar
 collector_number: 52
 rarity: C
@@ -10,18 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["teamwork", "kor", "leaping", "warriors", "blades", "coordination", "aerial", "duo-combat", "charge", "sky", "allies"]
-tags_filter: ["duo", "mid-shot", "faces-right", "action-mode", "white-magic", "instant", "lifegain"]
+tags_hub:
+  - teamwork
+  - kor
+  - leaping
+  - warriors
+  - blades
+  - coordination
+  - aerial
+  - duo-combat
+  - charge
+  - sky
+  - allies
+tags_filter:
+  - duo
+  - mid-shot
+  - faces-right
+  - action-mode
+  - white-magic
+  - instant
+  - lifegain
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/52-tandem-tactics.png
 average_cost_paid: 0
-market_price: 0.04
-market_price_as_of: 2026-05-14
+market_price: 0.03
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/6/a/6a8aaf9c-9aa5-44db-9610-402389a3ddc5.png?1562920087
 art_match_confidence: high
 needs_manual_review: false
-characters: ["kor"]
+characters:
+  - kor
 artist: David Gaillet
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/52-tandem-tactics--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/a/6a8aaf9c-9aa5-44db-9610-402389a3ddc5.jpg?1562920087

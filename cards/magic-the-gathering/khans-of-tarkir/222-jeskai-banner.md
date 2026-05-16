@@ -1,6 +1,6 @@
 ---
 name: Jeskai Banner
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Khans of Tarkir
 collector_number: 222
 rarity: C
@@ -10,14 +10,38 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["banner", "flag", "mountain", "monastery", "heraldry", "emblem", "sigil", "high-altitude", "snow", "peaks", "wind", "wuxia", "discipline", "order"]
-tags_filter: ["no-figure", "scene-mode", "mid-shot", "artifact", "multicolor-blue-red-white", "blue-magic", "red-magic", "white-magic", "mana-rock", "draw-spell"]
+tags_hub:
+  - banner
+  - flag
+  - mountain
+  - monastery
+  - heraldry
+  - emblem
+  - sigil
+  - high-altitude
+  - snow
+  - peaks
+  - wind
+  - wuxia
+  - discipline
+  - order
+tags_filter:
+  - no-figure
+  - scene-mode
+  - mid-shot
+  - artifact
+  - multicolor-blue-red-white
+  - blue-magic
+  - red-magic
+  - white-magic
+  - mana-rock
+  - draw-spell
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/222-jeskai-banner.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price: 0.11
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +53,7 @@ artist: Daniel Ljunggren
 art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/222-jeskai-banner--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/8/684dc050-a66b-4364-9880-56f383db6c0a.jpg?1562787889
 flavor_text: Discipline to persevere, insight to discover.
-oracle_text: {T}: Add {U}, {R}, or {W}.\n{U}{R}{W}, {T}, Sacrifice this artifact: Draw a card.
+oracle_text: "{T}: Add {U}, {R}, or {W}.\\n{U}{R}{W}, {T}, Sacrifice this artifact: Draw a card."
 ---
 
 # Jeskai Banner (Khans of Tarkir)

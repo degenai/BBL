@@ -1,6 +1,6 @@
 ---
 name: Opaline Unicorn
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros
 collector_number: 218
 rarity: C
@@ -10,14 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["unicorn", "horse", "horn", "forest", "gold", "sacred-animal", "sunbeam", "mythic-beast", "wilderness", "light", "purity", "quadruped"]
-tags_filter: ["solo", "mid-shot", "faces-right", "portrait-mode", "no-figure", "artifact", "creature-unicorn", "colorless-magic", "mana-fixing", "backlit", "scene-mode"]
+tags_hub:
+  - unicorn
+  - horse
+  - horn
+  - forest
+  - gold
+  - sacred-animal
+  - sunbeam
+  - mythic-beast
+  - wilderness
+  - light
+  - purity
+  - quadruped
+tags_filter:
+  - solo
+  - mid-shot
+  - faces-right
+  - portrait-mode
+  - no-figure
+  - artifact
+  - creature-unicorn
+  - colorless-magic
+  - mana-fixing
+  - backlit
+  - scene-mode
 reference_image: cards/_images/magic-the-gathering/theros/218-opaline-unicorn.png
 average_cost_paid: 0
 market_price: 0.24
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros'
@@ -26,11 +49,12 @@ mood: sublime
 time_of_day: day
 setting: forest
 artist: Christine Choi
-characters: [theros-pantheon]
+characters:
+  - theros-pantheon
 art_crop_image: cards/_images/magic-the-gathering/theros/218-opaline-unicorn--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/f/cfba304c-9cb8-4d5c-b70d-b7f61a365977.jpg?1562831841
 flavor_text: Purphoros once loved Nylea, the god of the hunt. His passion inspired his most astounding works of art.
-oracle_text: {T}: Add one mana of any color.
+oracle_text: "{T}: Add one mana of any color."
 ---
 
 # Opaline Unicorn (Theros)

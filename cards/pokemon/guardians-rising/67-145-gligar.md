@@ -10,20 +10,37 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["bat", "wings", "scorpion", "flight", "purple", "glide", "predator", "cliff", "hybrid-creature", "airborne"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "fighting-type", "flying-type", "creature-card", "no-face"]
+tags_hub:
+  - bat
+  - wings
+  - scorpion
+  - flight
+  - purple
+  - glide
+  - predator
+  - cliff
+  - hybrid-creature
+  - airborne
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - fighting-type
+  - flying-type
+  - creature-card
+  - no-face
 reference_image: cards/_images/pokemon/guardians-rising/67-145-gligar.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm2/67_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Mina Nakai
 flavor_text: It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack.
-oracle_text: Double Shot (Fighting): This attack does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+oracle_text: "Double Shot (Fighting): This attack does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
 mood: action
 time_of_day: day
 setting: mountain

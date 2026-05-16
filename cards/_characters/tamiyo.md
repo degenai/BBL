@@ -1,7 +1,14 @@
 ---
 type: character
 name: Tamiyo
-aliases: [tamiyo, tamiyo-collector-of-tales, tamiyo-compleated-sage, tamiyo-the-moon-sage, tamiyo-field-researcher, tamiyo-inquisitive-student, the-tale-of-tamiyo]
+aliases:
+  - tamiyo
+  - tamiyo-collector-of-tales
+  - tamiyo-compleated-sage
+  - tamiyo-the-moon-sage
+  - tamiyo-field-researcher
+  - tamiyo-inquisitive-student
+  - the-tale-of-tamiyo
 universe: "Magic: The Gathering / Kamigawa / Multiverse"
 faction: "Kamigawa moonfolk scholar (pre-compleation); Phyrexian-compleated planeswalker (post-Kamigawa: Neon Dynasty)"
 species: Moonfolk (Soratami) planeswalker
@@ -10,9 +17,10 @@ confidence: canonical
 appears_on:
   - magic-the-gathering/the-list/220-tamiyo-collector-of-tales
   - magic-the-gathering/modern-horizons-3/72-tamiyo-meets-the-story-circle
-related_hubs: [labor]
+related_hubs: "[labor]"
 related_symbols: []
-related_characters: [phyrexia]
+related_characters:
+  - phyrexia
 ip_resolution_for: Tamiyo
 ---
 

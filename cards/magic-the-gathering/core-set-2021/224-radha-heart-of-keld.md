@@ -1,6 +1,6 @@
 ---
 name: Radha, Heart of Keld
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 224
 rarity: R
@@ -10,14 +10,38 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["elf", "warrior", "dual-wielding", "swords", "red-hair", "long-hair", "female-warrior", "forest", "battle", "wilderness", "rage", "ranger"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "female-figure", "action-mode", "creature-elf", "creature-warrior", "legendary-creature", "red-magic", "green-magic", "multicolor-red-green", "first-strike"]
+tags_hub:
+  - elf
+  - warrior
+  - dual-wielding
+  - swords
+  - red-hair
+  - long-hair
+  - female-warrior
+  - forest
+  - battle
+  - wilderness
+  - rage
+  - ranger
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - female-figure
+  - action-mode
+  - creature-elf
+  - creature-warrior
+  - legendary-creature
+  - red-magic
+  - green-magic
+  - multicolor-red-green
+  - first-strike
 reference_image: cards/_images/magic-the-gathering/core-set-2021/224-radha-heart-of-keld.png
 average_cost_paid: 0
-market_price: 0.53
-market_price_as_of: 2026-05-14
+market_price: 0.52
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -31,7 +55,7 @@ ip_verified: true
 artist: Chris Rahn
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/224-radha-heart-of-keld--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/b/2bbd37b1-49cb-4295-9a1f-fb85368a8f12.jpg?1594737431
-oracle_text: During your turn, Radha has first strike.\nYou may look at the top card of your library any time, and you may play lands from the top of your library.\n{4}{R}{G}: Radha gets +X/+X until end of turn, where X is the number of lands you control.
+oracle_text: "During your turn, Radha has first strike.\\nYou may look at the top card of your library any time, and you may play lands from the top of your library.\\n{4}{R}{G}: Radha gets +X/+X until end of turn, where X is the number of lands you control."
 ---
 
 # Radha, Heart of Keld (Core Set 2021)

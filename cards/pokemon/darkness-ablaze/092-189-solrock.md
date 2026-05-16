@@ -10,27 +10,47 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["sun", "celestial", "rock", "desert", "radial-symmetry", "stone-creature", "sun-disc", "floating", "ancient", "cosmic", "solar", "symmetry"]
-tags_filter: ["solo", "forward-facing", "mid-shot", "portrait-mode", "fighting-type", "pokemon-basic", "creature-rock"]
+tags_hub:
+  - sun
+  - celestial
+  - rock
+  - desert
+  - radial-symmetry
+  - stone-creature
+  - sun-disc
+  - floating
+  - ancient
+  - cosmic
+  - solar
+  - symmetry
+tags_filter:
+  - solo
+  - forward-facing
+  - mid-shot
+  - portrait-mode
+  - fighting-type
+  - pokemon-basic
+  - creature-rock
 reference_image: cards/_images/pokemon/darkness-ablaze/092-189-solrock.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/swsh3/92_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Miki Tanaka
 flavor_text: When it rotates itself, it gives off light similar to the sun, thus blinding its foes.
-oracle_text: [Ability: Resistance Shade] If you have Lunatone in play, your opponent's Pokémon in play have no Resistance.\nRock Throw (FightingColorless) 30
+oracle_text: "[Ability: Resistance Shade] If you have Lunatone in play, your opponent's Pokémon in play have no Resistance.\\nRock Throw (FightingColorless) 30"
 mood: sublime
 time_of_day: day
 setting: desert
 suspected_ip: Solrock
 ip_confidence: high
 ip_verified: true
-characters: ["solrock-lunatone-pair"]
+characters:
+  - solrock-lunatone-pair
 ---
 
 # Solrock (Darkness Ablaze)
@@ -69,4 +89,4 @@ A circular Pokemon with many pointed rays radiating outward like a stylized sun 
 
 ## Connections
 
-- [[solrock-lunatone-pair]] — Sun arm of the Hoenn celestial-duality Meteorite Pokemon dyad (Pokedex 337/338, Rock/Psychic). This Solrock DAA-092 print is the dyad's sole sun-arm corpus representative; the moon arm is split across Lunatone BUS-68 (Shin Nagasawa, Fighting-type with Heal Block / Solrock interlock Ability) and Lunatone DAA-072 (Miki Tanaka, Psychic-type with standalone Future Sight). The within-Darkness-Ablaze pair (this Solrock + Lunatone DAA-072) shares illustrator Miki Tanaka — designer-coordinated same-illustrator within-set treatment of the dyad's two arms. The dyad's most BBL-relevant property is the TCG mechanical-interlock pattern: this print's Resistance Shade Ability ("If you have Lunatone in play, your opponent's Pokemon in play have no Resistance") translates the Ruby/Sapphire version-exclusive pair-bond directly into game rules. Per the cohort-subsumes-1:1-mirrors precedent established in [[mareep-line]] / [[staraptor-line]] / [[caterpie-line]], the prior Solrock-DAA-092 ↔ Lunatone-BUS-68 mirror is now subsumed by the dyad node. `[Bulbapedia: Solrock (Pokemon), Lunatone (Pokemon); PokemonTCG.io: swsh3-92, sm3-68, swsh3-72]`
+- [[solrock-lunatone-pair]] — Sun arm of the Hoenn celestial-duality Meteorite Pokemon dyad (Pokedex 337/338, Rock/Psychic). This Solrock DAA-092 print is the dyad's sole sun-arm corpus representative; the moon arm is split across Lunatone BUS-68 (Shin Nagasawa, Fighting-type with Heal Block / Solrock interlock Ability) and Lunatone DAA-072 (Miki Tanaka, Psychic-type with standalone Future Sight). The within-Darkness-Ablaze pair (this Solrock + Lunatone DAA-072) shares illustrator Miki Tanaka — designer-coordinated same-illustrator within-set treatment of the dyad's two arms. The dyad's most BBL-relevant property is the TCG mechanical-interlock pattern: this print's Resistance Shade Ability ("If you have Lunatone in play, your opponent's Pokemon in play have no Resistance") translates the Ruby/Sapphire version-exclusive pair-bond directly into game rules. Per the cohort-subsumes-1:1-mirrors precedent established in `mareep-line` / `staraptor-line` / `caterpie-line`, the prior Solrock-DAA-092 ↔ Lunatone-BUS-68 mirror is now subsumed by the dyad node. `[Bulbapedia: Solrock (Pokemon), Lunatone (Pokemon); PokemonTCG.io: swsh3-92, sm3-68, swsh3-72]`

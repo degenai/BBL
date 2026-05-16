@@ -1,7 +1,7 @@
 ---
 name: Reminiscing, Yachiyo
 game: Weiss Schwarz
-set: Magia Record: Puella Magi Madoka Magica [Side Story] (Anime)
+set: "Magia Record: Puella Magi Madoka Magica [Side Story] (Anime)"
 collector_number: MR/W80-E041 C
 rarity: Common
 variance: Normal
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["grief", "memory", "friendship", "loss", "magical-girl", "anime-girl", "melancholy", "madoka-magica", "contemplation", "loneliness", "nostalgia", "survivor"]
-tags_filter: ["mid-shot", "portrait", "solo", "three-quarter", "indoor", "soft", "female-figure"]
+tags_hub:
+  - grief
+  - memory
+  - friendship
+  - loss
+  - magical-girl
+  - anime-girl
+  - melancholy
+  - madoka-magica
+  - contemplation
+  - loneliness
+  - nostalgia
+  - survivor
+tags_filter:
+  - mid-shot
+  - portrait
+  - solo
+  - three-quarter
+  - indoor
+  - soft
+  - female-figure
 reference_image: cards/_images/weiss-schwarz/magia-record-puella-magi-madoka-magica-side-story-anime/mr-w80-e041-c-reminiscing-yachiyo.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E041.png
 art_match_confidence: high
 needs_manual_review: false
@@ -28,7 +47,7 @@ mood: other
 time_of_day: indeterminate
 setting: indoor
 subject_known_ip: true
-suspected_ip: Yachiyo Nanami (Magia Record: Puella Magi Madoka Magica Side Story)
+suspected_ip: "Yachiyo Nanami (Magia Record: Puella Magi Madoka Magica Side Story)"
 ip_confidence: high
 ip_verified: false
 ---

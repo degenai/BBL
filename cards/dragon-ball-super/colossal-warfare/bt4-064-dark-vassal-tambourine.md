@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["wings", "demon", "namekian", "villain", "dark-power", "vortex", "green-skin", "menace", "king-piccolo-lineage", "vassal", "flying", "hovering"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "battle-card", "common", "male-figure", "dbs-colossal-warfare"]
+tags_hub:
+  - wings
+  - demon
+  - namekian
+  - villain
+  - dark-power
+  - vortex
+  - green-skin
+  - menace
+  - king-piccolo-lineage
+  - vassal
+  - flying
+  - hovering
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - battle-card
+  - common
+  - male-figure
+  - dbs-colossal-warfare
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-064-dark-vassal-tambourine.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401033582/98B91FC045C4F6243794A0B03D2DDAE51F75DEF6/
 image_width: 624
 image_height: 871
@@ -30,7 +50,9 @@ setting: void
 suspected_ip: Tambourine (Dragon Ball — King Piccolo Saga)
 ip_confidence: high
 ip_verified: true
-characters: [dark-vassal-trio, namekian]
+characters:
+  - dark-vassal-trio
+  - namekian
 ---
 
 # Dark Vassal Tambourine (Colossal Warfare)

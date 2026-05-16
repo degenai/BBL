@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["panda", "bear", "bamboo", "forest", "cute", "tough", "black-and-white", "fighting", "henchman", "kalos", "small", "leaf"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "creature-card", "fighting-type", "pokemon-ip"]
+tags_hub:
+  - panda
+  - bear
+  - bamboo
+  - forest
+  - cute
+  - tough
+  - black-and-white
+  - fighting
+  - henchman
+  - kalos
+  - small
+  - leaf
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - creature-card
+  - fighting-type
+  - pokemon-ip
 reference_image: cards/_images/pokemon/cosmic-eclipse/119-236-pancham.png
 average_cost_paid: 0
-market_price: 0.32
-market_price_as_of: 2026-05-14
+market_price: 0.33
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm12/119_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +49,8 @@ setting: forest
 suspected_ip: Pancham
 ip_confidence: high
 ip_verified: true
-characters: ["pancham-line"]
+characters:
+  - pancham-line
 ---
 
 # Pancham (Cosmic Eclipse)

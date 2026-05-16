@@ -1,6 +1,6 @@
 ---
 name: Tavern Swindler
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 124
 rarity: U
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["tavern", "gambler", "coin", "gold", "rogue", "swindler", "smile", "white-hair", "seduction", "hustle", "drinking-establishment", "night-life"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "female-figure", "indoor", "creature-human", "creature-rogue", "black-magic", "coinflip"]
+tags_hub:
+  - tavern
+  - gambler
+  - coin
+  - gold
+  - rogue
+  - swindler
+  - smile
+  - white-hair
+  - seduction
+  - hustle
+  - drinking-establishment
+  - night-life
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - female-figure
+  - indoor
+  - creature-human
+  - creature-rogue
+  - black-magic
+  - coinflip
 reference_image: cards/_images/magic-the-gathering/core-set-2021/124-tavern-swindler.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +51,7 @@ artist: Cynthia Sheppard
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/124-tavern-swindler--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/0/d00850e4-6be3-4246-ae45-c0e990e6d6e1.jpg?1594736401
 flavor_text: Rakdos cultists are her best customers. They never flinch at pain and are seldom good at math.
-oracle_text: {T}, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life.
+oracle_text: "{T}, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life."
 ---
 
 # Tavern Swindler (Core Set 2021)

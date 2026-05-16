@@ -1,6 +1,6 @@
 ---
 name: Searing Light
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Oath of the Gatewatch
 collector_number: 33
 rarity: C
@@ -10,14 +10,31 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["insect", "forest", "egg", "nature", "creature", "predator", "growth", "magic", "light", "beast"]
-tags_filter: ["duo", "mid-shot", "narrative", "three-quarter", "white-magic", "instant", "no-face"]
+tags_hub:
+  - insect
+  - forest
+  - egg
+  - nature
+  - creature
+  - predator
+  - growth
+  - magic
+  - light
+  - beast
+tags_filter:
+  - duo
+  - mid-shot
+  - narrative
+  - three-quarter
+  - white-magic
+  - instant
+  - no-face
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/33-searing-light.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/7/6/76dadfd8-8492-4c55-827c-cd4e6a40ae97.png?1562918808
 art_match_confidence: high
 needs_manual_review: false

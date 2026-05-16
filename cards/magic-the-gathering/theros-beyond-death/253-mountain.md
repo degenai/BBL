@@ -1,6 +1,6 @@
 ---
 name: Mountain
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 253
 rarity: L
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["mountain", "canyon", "desert", "cliffs", "landscape", "wilderness", "stone", "sunlight", "vista", "rocks", "arid"]
-tags_filter: ["wide-shot", "scene-mode", "no-face", "no-figure-count", "basic-land", "land", "red-magic", "no-figure"]
+tags_hub:
+  - mountain
+  - canyon
+  - desert
+  - cliffs
+  - landscape
+  - wilderness
+  - stone
+  - sunlight
+  - vista
+  - rocks
+  - arid
+tags_filter:
+  - wide-shot
+  - scene-mode
+  - no-face
+  - no-figure-count
+  - basic-land
+  - land
+  - red-magic
+  - no-figure
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/253-mountain.png
 average_cost_paid: 0
-market_price: 1.45
-market_price_as_of: 2026-05-14
+market_price: 1.33
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,7 +47,7 @@ setting: mountain
 artist: Sam Burley
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/253-mountain--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/c/dc3f4154-9347-4ceb-8744-9f1ace90d33f.jpg?1581482260
-oracle_text: ({T}: Add {R}.)
+oracle_text: "({T}: Add {R}.)"
 ---
 
 # Mountain (Theros Beyond Death)

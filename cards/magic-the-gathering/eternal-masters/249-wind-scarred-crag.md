@@ -1,6 +1,6 @@
 ---
 name: Wind-Scarred Crag
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Eternal Masters
 collector_number: 249
 rarity: C
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["mountain", "snow", "dawn", "ruins", "stone-pillars", "wilderness", "wind", "landscape", "no-figures", "cold", "sunrise", "sublime"]
-tags_filter: ["land", "dual-land", "white-magic", "red-magic", "multicolor-white-red", "lifegain", "wide-shot", "scene-mode", "no-face", "no-figures-filter"]
+tags_hub:
+  - mountain
+  - snow
+  - dawn
+  - ruins
+  - stone-pillars
+  - wilderness
+  - wind
+  - landscape
+  - no-figures
+  - cold
+  - sunrise
+  - sublime
+tags_filter:
+  - land
+  - dual-land
+  - white-magic
+  - red-magic
+  - multicolor-white-red
+  - lifegain
+  - wide-shot
+  - scene-mode
+  - no-face
+  - no-figures-filter
 reference_image: cards/_images/magic-the-gathering/eternal-masters/249-wind-scarred-crag.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -28,7 +50,7 @@ setting: mountain
 artist: Eytan Zana
 art_crop_image: cards/_images/magic-the-gathering/eternal-masters/249-wind-scarred-crag--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/a/9a34e90d-6b79-448a-8f90-05733139207e.jpg?1580015386
-oracle_text: This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {R} or {W}.
+oracle_text: "This land enters tapped.\\nWhen this land enters, you gain 1 life.\\n{T}: Add {R} or {W}."
 ---
 
 # Wind-Scarred Crag (Eternal Masters)

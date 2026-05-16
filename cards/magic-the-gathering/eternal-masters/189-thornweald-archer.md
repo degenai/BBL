@@ -1,6 +1,6 @@
 ---
 name: Thornweald Archer
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Eternal Masters
 collector_number: 189
 rarity: C
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["archer", "elf", "forest", "hunter", "ambush", "warrior", "armor", "bow", "undergrowth", "nature-warrior", "predator"]
-tags_filter: ["solo", "mid-shot", "action", "three-quarter", "green-magic", "creature-elf-archer", "deathtouch", "reach", "forward-facing"]
+tags_hub:
+  - archer
+  - elf
+  - forest
+  - hunter
+  - ambush
+  - warrior
+  - armor
+  - bow
+  - undergrowth
+  - nature-warrior
+  - predator
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - three-quarter
+  - green-magic
+  - creature-elf-archer
+  - deathtouch
+  - reach
+  - forward-facing
 reference_image: cards/_images/magic-the-gathering/eternal-masters/189-thornweald-archer.png
 average_cost_paid: 0
 market_price: 0.21
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/6/0/608b0f34-83be-44a3-ba92-69df9b8af8d1.png?1580014948
 art_match_confidence: high
 needs_manual_review: false

@@ -1,6 +1,6 @@
 ---
 name: Case of the Trampled Garden
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 156
 rarity: U
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["garden", "flowers", "death", "nature", "mystery", "crime-scene", "gothic", "meadow", "forest", "white-deer", "grief", "investigation"]
-tags_filter: ["no-face", "none-figure", "wide", "scene-mode", "green-magic", "enchantment-case", "portrait-mode"]
+tags_hub:
+  - garden
+  - flowers
+  - death
+  - nature
+  - mystery
+  - crime-scene
+  - gothic
+  - meadow
+  - forest
+  - white-deer
+  - grief
+  - investigation
+tags_filter:
+  - no-face
+  - none-figure
+  - wide
+  - scene-mode
+  - green-magic
+  - enchantment-case
+  - portrait-mode
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/156-case-of-the-trampled-garden.png
 average_cost_paid: 0
-market_price: 0.23
-market_price_as_of: 2026-05-14
+market_price: 0.24
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/9/e/9e80f5c7-ae29-473c-ac64-04bcbc629385.png?1706241957
 art_match_confidence: high
 needs_manual_review: false

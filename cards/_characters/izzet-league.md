@@ -1,7 +1,13 @@
 ---
 type: character
 name: Izzet League
-aliases: [izzet, the-izzet, izzet-guild, izzet-magewrights, the-firemind-s-children, niv-mizzet-s-guild]
+aliases:
+  - izzet
+  - the-izzet
+  - izzet-guild
+  - izzet-magewrights
+  - the-firemind-s-children
+  - niv-mizzet-s-guild
 universe: "Magic: The Gathering / Ravnica"
 faction: Izzet League (self; this node IS the faction)
 species: faction-collective (humans — magewrights, chemisters, engineers; goblins — apprentices, lab-rats, thopter-handlers; vedalken — theorists, calculators, formula-pedants; weirds — elemental constructs the guild manufactures; Niv-Mizzet the Firemind — parun-dragon, founder, and post-War-of-the-Spark Living Guildpact; Ral Zarek — lieutenant-then-guildmaster planeswalker)
@@ -13,10 +19,15 @@ appears_on:
   - magic-the-gathering/modern-horizons-3/132-ral-and-the-implicit-maze
   - magic-the-gathering/war-of-the-spark/212-ral-s-outburst
   - magic-the-gathering/modern-masters-2015/245-izzet-boilerworks
-related_hubs: [labor]
+related_hubs: "[labor]"
 related_symbols: []
-related_characters: [ral-zarek, orzhov-syndicate, azorius-senate, nicol-bolas, jace-beleren]
-sub_characters: [ral-zarek]
+related_characters:
+  - ral-zarek
+  - orzhov-syndicate
+  - azorius-senate
+  - nicol-bolas
+  - jace-beleren
+sub_characters: "[ral-zarek]"
 ip_resolution_for: izzet-league
 ---
 

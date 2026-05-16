@@ -1,6 +1,6 @@
 ---
 name: Gallant Strike
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 13
 rarity: U
@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["dog", "ghost", "warrior", "canyon", "loyalty", "companion", "combat", "spirit", "desert", "blade", "courage"]
-tags_filter: ["duo", "mid-shot", "action", "three-quarter", "male-figure", "white-magic", "instant", "cycling"]
+tags_hub:
+  - dog
+  - ghost
+  - warrior
+  - canyon
+  - loyalty
+  - companion
+  - combat
+  - spirit
+  - desert
+  - blade
+  - courage
+tags_filter:
+  - duo
+  - mid-shot
+  - action
+  - three-quarter
+  - male-figure
+  - white-magic
+  - instant
+  - cycling
 reference_image: cards/_images/magic-the-gathering/aetherdrift/13-gallant-strike.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price: 0.11
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/9/b/9bdb58b7-e1ef-496b-b8dd-d1fabf3d2e7a.png?1738356133
 art_match_confidence: high
 needs_manual_review: false
@@ -25,7 +44,7 @@ artist: Brent Hollowell
 art_crop_image: cards/_images/magic-the-gathering/aetherdrift/13-gallant-strike--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/b/9bdb58b7-e1ef-496b-b8dd-d1fabf3d2e7a.jpg?1738356133
 flavor_text: The ghost shrieked as Terrin's blade sank deep. Perhaps a second death would teach it not to mess with his dog.
-oracle_text: Destroy target creature with toughness 4 or greater.\nCycling {2} ({2}, Discard this card: Draw a card.)
+oracle_text: "Destroy target creature with toughness 4 or greater.\\nCycling {2} ({2}, Discard this card: Draw a card.)"
 image_width: 745
 image_height: 1040
 image_quality: high

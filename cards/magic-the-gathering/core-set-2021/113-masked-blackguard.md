@@ -1,6 +1,6 @@
 ---
 name: Masked Blackguard
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 113
 rarity: C
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["rogue", "assassin", "mask", "dagger", "stealth", "shadow", "night", "thief", "blade", "cloak", "silhouette", "urban-night"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "female-figure", "human-figure", "portrait-mode", "black-magic", "creature-human", "creature-rogue", "flash"]
+tags_hub:
+  - rogue
+  - assassin
+  - mask
+  - dagger
+  - stealth
+  - shadow
+  - night
+  - thief
+  - blade
+  - cloak
+  - silhouette
+  - urban-night
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - female-figure
+  - human-figure
+  - portrait-mode
+  - black-magic
+  - creature-human
+  - creature-rogue
+  - flash
 reference_image: cards/_images/magic-the-gathering/core-set-2021/113-masked-blackguard.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/d/6/d61b4b71-3cbb-4422-8ce7-657ca3bb6a82.png?1594736285
 art_match_confidence: high
 needs_manual_review: false
@@ -28,7 +50,7 @@ artist: Bryan Sola
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/113-masked-blackguard--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/6/d61b4b71-3cbb-4422-8ce7-657ca3bb6a82.jpg?1594736285
 flavor_text: Her footsteps are whispers, her passage a last breath.
-oracle_text: Flash (You may cast this spell any time you could cast an instant.)\n{2}{B}: This creature gets +1/+1 until end of turn.
+oracle_text: "Flash (You may cast this spell any time you could cast an instant.)\\n{2}{B}: This creature gets +1/+1 until end of turn."
 ---
 
 # Masked Blackguard (Core Set 2021)

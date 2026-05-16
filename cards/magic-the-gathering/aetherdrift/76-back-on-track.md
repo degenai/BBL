@@ -1,6 +1,6 @@
 ---
 name: Back on Track
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 76
 rarity: U
@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["resurrection", "desert", "sunset", "graveyard", "magic", "ancient", "egypt", "ritual", "crocodile", "purple-fire", "ruins", "afterlife"]
-tags_filter: ["duo", "wide", "narrative", "scene-mode"]
+tags_hub:
+  - resurrection
+  - desert
+  - sunset
+  - graveyard
+  - magic
+  - ancient
+  - egypt
+  - ritual
+  - crocodile
+  - purple-fire
+  - ruins
+  - afterlife
+tags_filter:
+  - duo
+  - wide
+  - narrative
+  - scene-mode
 reference_image: cards/_images/magic-the-gathering/aetherdrift/76-back-on-track.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price: 0.08
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/8/8/884c0032-9c62-4028-a55f-6a3da2545654.png?1738356284
 art_match_confidence: high
 needs_manual_review: false

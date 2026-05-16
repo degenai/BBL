@@ -1,6 +1,6 @@
 ---
 name: Drownyard Lurker
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 3
 rarity: C
@@ -10,14 +10,30 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["eldrazi", "ocean", "horror", "tentacles", "storm", "monster", "corruption", "fossil", "coastal", "rain"]
-tags_filter: ["duo", "wide", "three-quarter", "no-face", "blue-magic", "creature"]
+tags_hub:
+  - eldrazi
+  - ocean
+  - horror
+  - tentacles
+  - storm
+  - monster
+  - corruption
+  - fossil
+  - coastal
+  - rain
+tags_filter:
+  - duo
+  - wide
+  - three-quarter
+  - no-face
+  - blue-magic
+  - creature
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/3-drownyard-lurker.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price: 0.19
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/7/f/7faf5812-2067-4386-bb83-150723d67d02.png?1717047246
 art_match_confidence: high
 needs_manual_review: false
@@ -25,7 +41,7 @@ artist: Loïc Canavaggia
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/3-drownyard-lurker--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/f/7faf5812-2067-4386-bb83-150723d67d02.jpg?1717047246
 flavor_text: When Emrakul arrived on Innistrad, even fossils answered her twisted call.
-oracle_text: Vigilance\nWhen you cast or cycle Drownyard Lurker, create a 0/1 colorless Eldrazi Spawn creature token with \"Sacrifice this token: Add {C}.\"\nCycling {2}{U} ({2}{U}, Discard this card: Draw a card.)
+oracle_text: "Vigilance\\nWhen you cast or cycle Drownyard Lurker, create a 0/1 colorless Eldrazi Spawn creature token with \\\"Sacrifice this token: Add {C}.\\\"\\nCycling {2}{U} ({2}{U}, Discard this card: Draw a card.)"
 image_width: 745
 image_height: 1040
 image_quality: high

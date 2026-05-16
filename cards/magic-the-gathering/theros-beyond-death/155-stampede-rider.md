@@ -1,6 +1,6 @@
 ---
 name: Stampede Rider
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 155
 rarity: C
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["satyr", "bull", "stampede", "rider", "herd", "revelry", "celebration", "horns", "dust", "cattle", "mounted-figure", "wild-hunt"]
-tags_filter: ["red-magic", "creature-satyr", "trample", "mid-shot", "group", "action-pose", "male-figure", "three-quarter-facing", "monochrome-red"]
+tags_hub:
+  - satyr
+  - bull
+  - stampede
+  - rider
+  - herd
+  - revelry
+  - celebration
+  - horns
+  - dust
+  - cattle
+  - mounted-figure
+  - wild-hunt
+tags_filter:
+  - red-magic
+  - creature-satyr
+  - trample
+  - mid-shot
+  - group
+  - action-pose
+  - male-figure
+  - three-quarter-facing
+  - monochrome-red
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/155-stampede-rider.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

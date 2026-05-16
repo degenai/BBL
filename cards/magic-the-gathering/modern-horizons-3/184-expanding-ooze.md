@@ -1,6 +1,6 @@
 ---
 name: Expanding Ooze
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 184
 rarity: C
@@ -13,14 +13,34 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: ["ooze", "slime", "alley", "urban", "monster", "horror", "chase", "green", "street", "infestation", "waste", "growth"]
-tags_filter: ["duo", "wide", "scene-mode", "three-quarter", "multicolor-black-green", "creature-ooze", "adapt", "modified"]
+tags_hub:
+  - ooze
+  - slime
+  - alley
+  - urban
+  - monster
+  - horror
+  - chase
+  - green
+  - street
+  - infestation
+  - waste
+  - growth
+tags_filter:
+  - duo
+  - wide
+  - scene-mode
+  - three-quarter
+  - multicolor-black-green
+  - creature-ooze
+  - adapt
+  - modified
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/184-expanding-ooze.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/b/b/bbdb095d-b826-4e3e-8c61-0d408e52d6b8.png?1717012693
 art_match_confidence: high
 needs_manual_review: false
@@ -28,7 +48,7 @@ artist: Randy Gallegos
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/184-expanding-ooze--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/b/bbdb095d-b826-4e3e-8c61-0d408e52d6b8.jpg?1717012693
 flavor_text: \"It eats the royal garbage. Of course it's growing!\"\n—Prince Bolbuss
-oracle_text: {B}{G}: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)\nWhenever this creature attacks, put a +1/+1 counter on target modified creature you control. (Equipment, Auras you control, and counters are modifications.)
+oracle_text: "{B}{G}: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)\\nWhenever this creature attacks, put a +1/+1 counter on target modified creature you control. (Equipment, Auras you control, and counters are modifications.)"
 mood: horror
 time_of_day: day
 setting: urban

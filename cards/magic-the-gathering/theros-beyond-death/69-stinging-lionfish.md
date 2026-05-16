@@ -1,23 +1,43 @@
 ---
 name: Stinging Lionfish
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Theros Beyond Death
 collector_number: 69
 rarity: U
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["fish", "lionfish", "ocean", "underwater", "predator", "venomous", "marine-life", "deep-water", "fins", "aquatic-creature", "sea"]
-tags_filter: ["solo", "mid-shot", "portrait-mode", "three-quarter", "no-face", "creature-fish", "enchantment", "blue-magic", "backlit"]
+tags_hub:
+  - fish
+  - lionfish
+  - ocean
+  - underwater
+  - predator
+  - venomous
+  - marine-life
+  - deep-water
+  - fins
+  - aquatic-creature
+  - sea
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait-mode
+  - three-quarter
+  - no-face
+  - creature-fish
+  - enchantment
+  - blue-magic
+  - backlit
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/69-stinging-lionfish.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

@@ -10,27 +10,43 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["cat", "stare", "psychic", "eerie", "cute", "unsettling", "wide-eyes", "nature", "small-creature", "silent"]
-tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "psychic-type", "creature"]
+tags_hub:
+  - cat
+  - stare
+  - psychic
+  - eerie
+  - cute
+  - unsettling
+  - wide-eyes
+  - nature
+  - small-creature
+  - silent
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - psychic-type
+  - creature
 reference_image: cards/_images/pokemon/burning-shadows/59-147-espurr.png
 average_cost_paid: 0
 market_price: 0.23
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm3/59_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Miki Tanaka
 flavor_text: The organ that emits its intense psychic power is sheltered by its ears to keep power from leaking out.
-oracle_text: Perplexing Eyes (Colorless): The Defending Pokémon's Weakness is now Psychic until the end of your next turn. (The amount of Weakness doesn't change.)
+oracle_text: "Perplexing Eyes (Colorless): The Defending Pokémon's Weakness is now Psychic until the end of your next turn. (The amount of Weakness doesn't change.)"
 image_width: 734
 image_height: 1024
 image_quality: high
 mood: horror
 time_of_day: day
 setting: forest
-suspected_ip: Espurr (#677)
+suspected_ip: "Espurr (#677)"
 ip_confidence: high
 ip_verified: false
 ---

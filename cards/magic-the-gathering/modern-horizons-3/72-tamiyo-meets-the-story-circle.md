@@ -1,6 +1,6 @@
 ---
 name: Tamiyo Meets the Story Circle
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Modern Horizons 3
 collector_number: 72
 rarity: U
@@ -10,15 +10,38 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-characters: ["tamiyo"]
-tags_hub: ["scrolls", "books", "storytelling", "scholarship", "calligraphy", "tea", "still-life", "library", "study", "runes", "lore", "memory"]
-tags_filter: ["no-face", "no-figure", "scene-mode", "narrative-mode", "blue-magic", "enchantment", "saga", "ambient-lighting", "indoor", "portrait-orientation"]
+characters:
+  - tamiyo
+tags_hub:
+  - scrolls
+  - books
+  - storytelling
+  - scholarship
+  - calligraphy
+  - tea
+  - still-life
+  - library
+  - study
+  - runes
+  - lore
+  - memory
+tags_filter:
+  - no-face
+  - no-figure
+  - scene-mode
+  - narrative-mode
+  - blue-magic
+  - enchantment
+  - saga
+  - ambient-lighting
+  - indoor
+  - portrait-orientation
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/72-tamiyo-meets-the-story-circle.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/e/e/ee66a06e-a461-46af-a318-550bc35de5d0.png?1717011794
 art_match_confidence: high
 needs_manual_review: false

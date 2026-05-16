@@ -1,6 +1,6 @@
 ---
 name: Hobblefiend
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 152
 rarity: C
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["devil", "imp", "monster", "demon", "darkness", "fangs", "glowing-eyes", "lurker", "fear", "nightmare", "horror", "shadow"]
-tags_filter: ["solo", "close-up", "portrait-mode", "forward-facing", "no-face-human", "red-magic", "creature-devil", "trample", "sacrifice-outlet", "plus-one-counters"]
+tags_hub:
+  - devil
+  - imp
+  - monster
+  - demon
+  - darkness
+  - fangs
+  - glowing-eyes
+  - lurker
+  - fear
+  - nightmare
+  - horror
+  - shadow
+tags_filter:
+  - solo
+  - close-up
+  - portrait-mode
+  - forward-facing
+  - no-face-human
+  - red-magic
+  - creature-devil
+  - trample
+  - sacrifice-outlet
+  - plus-one-counters
 reference_image: cards/_images/magic-the-gathering/core-set-2021/152-hobblefiend.png
 average_cost_paid: 0
 market_price: 0.21
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/4/b/4bfffc18-b36a-4dd5-909e-60ea9f8eb60b.png?1594736699
 art_match_confidence: high
 needs_manual_review: false
@@ -28,7 +50,7 @@ artist: Nicholas Gregory
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/152-hobblefiend--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/b/4bfffc18-b36a-4dd5-909e-60ea9f8eb60b.jpg?1594736699
 flavor_text: Bedbugs aren't the only things you need to worry about biting you at night.
-oracle_text: Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\n{1}, Sacrifice another creature: Put a +1/+1 counter on this creature.
+oracle_text: "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\\n{1}, Sacrifice another creature: Put a +1/+1 counter on this creature."
 ---
 
 # Hobblefiend (Core Set 2021)

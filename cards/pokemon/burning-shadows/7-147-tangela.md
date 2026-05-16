@@ -10,20 +10,36 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["vines", "jungle", "mystery", "hidden", "tropical", "forest", "nature", "entanglement", "camouflage", "eyes"]
-tags_filter: ["solo", "mid-shot", "portrait", "forward-facing", "grass-magic", "basic-pokemon"]
+tags_hub:
+  - vines
+  - jungle
+  - mystery
+  - hidden
+  - tropical
+  - forest
+  - nature
+  - entanglement
+  - camouflage
+  - eyes
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - grass-magic
+  - basic-pokemon
 reference_image: cards/_images/pokemon/burning-shadows/7-147-tangela.png
 average_cost_paid: 0
-market_price: 0.15
-market_price_as_of: 2026-05-14
+market_price: 0.18
+market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/sm3/7_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Shibuzoh.
 flavor_text: Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long.
-oracle_text: Bind Down (Grass) 10: The Defending Pokémon can't retreat during your opponent's next turn.
+oracle_text: "Bind Down (Grass) 10: The Defending Pokémon can't retreat during your opponent's next turn."
 mood: other
 time_of_day: day
 setting: forest

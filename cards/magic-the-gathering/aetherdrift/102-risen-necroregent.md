@@ -1,6 +1,6 @@
 ---
 name: Risen Necroregent
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 102
 rarity: U
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["cat", "warrior", "undead", "gold", "necromancy", "armor", "triumph", "dungeon", "magic", "commander", "feline", "power"]
-tags_filter: ["group", "mid-shot", "action", "forward-facing", "female-figure", "black-magic", "creature-zombie", "start-your-engines"]
+tags_hub:
+  - cat
+  - warrior
+  - undead
+  - gold
+  - necromancy
+  - armor
+  - triumph
+  - dungeon
+  - magic
+  - commander
+  - feline
+  - power
+tags_filter:
+  - group
+  - mid-shot
+  - action
+  - forward-facing
+  - female-figure
+  - black-magic
+  - creature-zombie
+  - start-your-engines
 reference_image: cards/_images/magic-the-gathering/aetherdrift/102-risen-necroregent.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/5/a/5a68482a-401d-48e7-854e-46e3db07ff35.png?1738356352
 art_match_confidence: high
 needs_manual_review: false

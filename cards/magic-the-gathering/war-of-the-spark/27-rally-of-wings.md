@@ -1,6 +1,6 @@
 ---
 name: Rally of Wings
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 27
 rarity: U
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["wings", "flight", "sky", "clouds", "warrior", "sword", "armor", "rally", "battle", "host", "red-hair", "heroism", "aerial-combat"]
-tags_filter: ["group", "mid-shot", "forward-facing", "scene-mode", "action", "white-magic", "instant", "spotlight-frame"]
+tags_hub:
+  - wings
+  - flight
+  - sky
+  - clouds
+  - warrior
+  - sword
+  - armor
+  - rally
+  - battle
+  - host
+  - red-hair
+  - heroism
+  - aerial-combat
+tags_filter:
+  - group
+  - mid-shot
+  - forward-facing
+  - scene-mode
+  - action
+  - white-magic
+  - instant
+  - spotlight-frame
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/27-rally-of-wings.png
 average_cost_paid: 0
-market_price: 0.28
-market_price_as_of: 2026-05-14
+market_price: 0.26
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/f/0/f043642d-35fe-4ea9-a1d3-78ddfdddeaf4.png?1557576044
 art_match_confidence: high
 needs_manual_review: false

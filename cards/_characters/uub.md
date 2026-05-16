@@ -1,7 +1,11 @@
 ---
 type: character
 name: Uub
-aliases: [uub, majuub, kid-buu-reincarnation, son-uub]
+aliases:
+  - uub
+  - majuub
+  - kid-buu-reincarnation
+  - son-uub
 universe: "Dragon Ball franchise (Akira Toriyama, Shueisha manga 1984-1995; Toei Animation anime adaptations 1989-present); Uub is introduced in Dragon Ball Z manga chapter 519 (1995) as the ten-year-old human reincarnation of Kid Buu, born five years after Goku's Spirit-Bomb-finishing-blow at the canonical Buu-Saga conclusion (King Yemma reincarnated Kid Buu in response to Goku's afterlife wish for a worthy future opponent) and named by his impoverished village family; promoted to canonical protagonist-position at the 28th World Martial Arts Tournament (DBZ epilogue arc, manga chapter 519, anime episode 291) where Goku canonically takes him as a personal disciple and exits with him for off-world training; continues across Dragon Ball GT (Toei Animation, 1996-1997) as the adolescent-to-young-adult martial artist who fuses with Mr. Buu to become Majuub during the Baby Saga; recurring across the Dragon Ball Super Card Game (Bandai, 2017-present) as the canonical Goku's-successor-arc protagonist register"
 faction: "Z-Fighters (Earth-defender cohort, canonical Goku-disciple post-Buu-Saga epilogue; canonical reincarnation of Kid Buu via King Yemma's afterlife judgment); secondary canonical alignment is the Majuub fused-with-Mr-Buu compound-form continuity (the canonical Baby-Saga-era voluntary fusion between Uub and Mr. Buu producing the Majuub combined-character used against Baby and Super 17)"
 species: "Earthling-human (canonically the human reincarnation of Kid Buu, the purest and most destructive form of Majin Buu; King Yemma reincarnated Kid Buu's evil spirit into a human body as a response to Goku's specific afterlife wish for a worthy future opponent who would not be inherently evil); canonical visual identifiers include the dark-skinned ten-year-old child-body register at the 28th World Tournament debut, the shaved-head martial-artist register (canonical Uub-as-martial-artist costume signature), the simple cloth gi and training-vest registers across his various canonical appearances, the canonical *child-body-containing-the-compressed-destructive-force-of-Kid-Buu's-power* design device that Toriyama installed into the End-of-Z epilogue as the canonical Goku-successor-protagonist setup"
@@ -11,10 +15,16 @@ appears_on:
   - dragon-ball-super/cross-worlds/bt3-014-hidden-power-uub
   - dragon-ball-super/world-martial-arts-tournament/tb2-033-shocking-latent-ability
   - dragon-ball-super/world-martial-arts-tournament/tb2-069-son-goku-uub-seeds-of-the-future
-related_hubs: [labor]
+related_hubs: "[labor]"
 related_symbols: []
-related_characters: [son-goku, majin-buu, hercule]
-ip_resolution_for: ["Uub", "Majuub", "Kid Buu's reincarnation"]
+related_characters:
+  - son-goku
+  - majin-buu
+  - hercule
+ip_resolution_for:
+  - Uub
+  - Majuub
+  - Kid Buu's reincarnation
 ---
 
 # Uub

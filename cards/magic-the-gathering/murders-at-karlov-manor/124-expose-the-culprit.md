@@ -1,6 +1,6 @@
 ---
 name: Expose the Culprit
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Murders at Karlov Manor
 collector_number: 124
 rarity: U
@@ -10,16 +10,34 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-characters: ["agency"]
-tags_hub: ["ballroom", "masquerade", "reveal", "formal-wear", "drama", "magic", "unmasking", "mystery", "gala", "deception", "red-dress"]
-tags_filter: ["wide", "scene-mode", "crowd", "three-quarter", "instant"]
-symbols: ["disguise"]
+characters:
+  - agency
+tags_hub:
+  - ballroom
+  - masquerade
+  - reveal
+  - formal-wear
+  - drama
+  - magic
+  - unmasking
+  - mystery
+  - gala
+  - deception
+  - red-dress
+tags_filter:
+  - wide
+  - scene-mode
+  - crowd
+  - three-quarter
+  - instant
+symbols:
+  - disguise
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/124-expose-the-culprit.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/3/1/31aadd3d-5ce1-44ba-ac6d-b192a9ea491b.png?1706241859
 art_match_confidence: high
 needs_manual_review: false

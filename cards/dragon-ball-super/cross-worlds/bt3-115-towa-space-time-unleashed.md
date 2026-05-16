@@ -10,14 +10,33 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: ["villain", "white-hair", "red", "dark-energy", "time-manipulation", "xenoverse", "antagonist", "femme-fatale", "dark-power", "space-time", "scheming", "composed-evil"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "female-figure", "anime-style", "dbscg"]
+tags_hub:
+  - villain
+  - white-hair
+  - red
+  - dark-energy
+  - time-manipulation
+  - xenoverse
+  - antagonist
+  - femme-fatale
+  - dark-power
+  - space-time
+  - scheming
+  - composed-evil
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - female-figure
+  - anime-style
+  - dbscg
 reference_image: cards/_images/dragon-ball-super/cross-worlds/bt3-115-towa-space-time-unleashed.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401021852/3E7D1552F7723D17A1594527A53F4A4A4763B49B/
 image_width: 624
 image_height: 871
@@ -31,7 +50,8 @@ subject_known_ip: true
 suspected_ip: "Towa — Dragon Ball Xenoverse / Dragon Ball Heroes"
 ip_confidence: high
 ip_verified: true
-characters: [xenoverse-villains]
+characters:
+  - xenoverse-villains
 ---
 
 # Towa, Space Time Unleashed (Cross Worlds)

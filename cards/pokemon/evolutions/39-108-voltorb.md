@@ -10,27 +10,43 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["bomb", "electricity", "explosive", "round", "anger", "danger", "minimalist", "red", "unstable", "classic"]
-tags_filter: ["solo", "close-up", "portrait", "forward-facing", "lightning-type", "creature"]
+tags_hub:
+  - bomb
+  - electricity
+  - explosive
+  - round
+  - anger
+  - danger
+  - minimalist
+  - red
+  - unstable
+  - classic
+tags_filter:
+  - solo
+  - close-up
+  - portrait
+  - forward-facing
+  - lightning-type
+  - creature
 reference_image: cards/_images/pokemon/evolutions/39-108-voltorb.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://images.pokemontcg.io/xy12/39_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Keiji Kinebuchi
 flavor_text: A life-form whose identity is unknown. It is said to Screech or suddenly Self-Destruct.
-oracle_text: Continuous Tumble (Colorless) 10×: Flip a coin until you get tails. This attack does 10 damage times the number of heads.
+oracle_text: "Continuous Tumble (Colorless) 10×: Flip a coin until you get tails. This attack does 10 damage times the number of heads."
 image_width: 734
 image_height: 1024
 image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: void
-suspected_ip: Voltorb (#100)
+suspected_ip: "Voltorb (#100)"
 ip_confidence: high
 ip_verified: false
 ---

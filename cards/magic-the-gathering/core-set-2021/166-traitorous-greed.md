@@ -1,6 +1,6 @@
 ---
 name: Traitorous Greed
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Core Set 2021
 collector_number: 166
 rarity: U
@@ -10,14 +10,35 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["dragon", "fire", "war", "battle", "banner", "heraldry", "roar", "siege", "smoke", "monster", "scales", "wrath"]
-tags_filter: ["solo", "mid-shot", "three-quarter", "action", "no-face", "creature-dragon", "red-magic", "sorcery", "no-figure"]
+tags_hub:
+  - dragon
+  - fire
+  - war
+  - battle
+  - banner
+  - heraldry
+  - roar
+  - siege
+  - smoke
+  - monster
+  - scales
+  - wrath
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - action
+  - no-face
+  - creature-dragon
+  - red-magic
+  - sorcery
+  - no-figure
 reference_image: cards/_images/magic-the-gathering/core-set-2021/166-traitorous-greed.png
 average_cost_paid: 0
-market_price: 0.27
-market_price_as_of: 2026-05-14
+market_price: 0.26
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/a/b/ab7052f1-9736-47b6-9da3-8c5ca925ab54.png?1594736826
 art_match_confidence: high
 needs_manual_review: false

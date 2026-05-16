@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["wizard", "spell", "banishment", "magic", "wand", "spiral", "forest", "elder", "robed-figure", "energy", "action-spell", "casting"]
-tags_filter: ["solo", "wide", "action", "three-quarter", "amethyst-magic", "action-card"]
+tags_hub:
+  - wizard
+  - spell
+  - banishment
+  - magic
+  - wand
+  - spiral
+  - forest
+  - elder
+  - robed-figure
+  - energy
+  - action-spell
+  - casting
+tags_filter:
+  - solo
+  - wide
+  - action
+  - three-quarter
+  - amethyst-magic
+  - action-card
 reference_image: cards/_images/lorcana/whispers-in-the-well/61-204-begone.jpg
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10/61_a0cb0dea911b87f2eb306d29737dc1f28781f7a8.jpg
 art_match_confidence: high
 needs_manual_review: false

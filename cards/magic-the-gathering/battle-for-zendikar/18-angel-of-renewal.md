@@ -1,6 +1,6 @@
 ---
 name: Angel of Renewal
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Battle for Zendikar
 collector_number: 18
 rarity: U
@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["angel", "wings", "flight", "warrior", "guardian", "divine", "sky", "renewal", "light", "protector"]
-tags_filter: ["solo", "mid-shot", "action", "faces-right", "flying", "creature-angel", "white-magic", "lifegain"]
+tags_hub:
+  - angel
+  - wings
+  - flight
+  - warrior
+  - guardian
+  - divine
+  - sky
+  - renewal
+  - light
+  - protector
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - faces-right
+  - flying
+  - creature-angel
+  - white-magic
+  - lifegain
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/18-angel-of-renewal.png
 average_cost_paid: 0
-market_price: 0.25
-market_price_as_of: 2026-05-14
+market_price: 0.27
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/0/f/0f882ac2-3cbc-4548-8c83-d2a7443991df.png?1562898637
 art_match_confidence: high
 needs_manual_review: false

@@ -1,6 +1,6 @@
 ---
 name: Roadside Blowout
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Aetherdrift
 collector_number: 58
 rarity: U
@@ -10,14 +10,37 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["explosion", "vehicle", "racing", "wreckage", "elf", "goggles", "speed", "driver", "wheel", "disaster", "machinery", "arcane-energy"]
-tags_filter: ["solo", "mid-shot", "action-mode", "faces-left", "single-figure", "blue-magic", "sorcery", "instant-or-sorcery", "bounce", "cantrip", "cost-reduction"]
+tags_hub:
+  - explosion
+  - vehicle
+  - racing
+  - wreckage
+  - elf
+  - goggles
+  - speed
+  - driver
+  - wheel
+  - disaster
+  - machinery
+  - arcane-energy
+tags_filter:
+  - solo
+  - mid-shot
+  - action-mode
+  - faces-left
+  - single-figure
+  - blue-magic
+  - sorcery
+  - instant-or-sorcery
+  - bounce
+  - cantrip
+  - cost-reduction
 reference_image: cards/_images/magic-the-gathering/aetherdrift/58-roadside-blowout.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-14
+market_price: 0.09
+market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://cards.scryfall.io/png/front/d/6/d6153a76-56f7-46ee-bba5-b62c0143388a.png?1738356242
 art_match_confidence: high
 needs_manual_review: false

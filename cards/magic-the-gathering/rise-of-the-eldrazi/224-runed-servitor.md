@@ -1,6 +1,6 @@
 ---
 name: Runed Servitor
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Rise of the Eldrazi
 collector_number: 224
 rarity: U
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["construct", "golem", "runes", "stone", "ruins", "relic", "wasteland", "monument", "ancient", "magic-artifact", "desolation", "archaeology"]
-tags_filter: ["solo", "mid-shot", "forward-facing", "portrait-mode", "no-face", "artifact-creature", "construct-type", "colorless-magic"]
+tags_hub:
+  - construct
+  - golem
+  - runes
+  - stone
+  - ruins
+  - relic
+  - wasteland
+  - monument
+  - ancient
+  - magic-artifact
+  - desolation
+  - archaeology
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - no-face
+  - artifact-creature
+  - construct-type
+  - colorless-magic
 reference_image: cards/_images/magic-the-gathering/rise-of-the-eldrazi/224-runed-servitor.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

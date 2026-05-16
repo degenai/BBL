@@ -1,7 +1,11 @@
 ---
 type: character
 name: "Cinderella cycle (Throne of Eldraine fairy-tale homage)"
-aliases: [eld-cinderella-cycle, cinderella-cycle, eld-cinderella, throne-of-eldraine-cinderella]
+aliases:
+  - eld-cinderella-cycle
+  - cinderella-cycle
+  - eld-cinderella
+  - throne-of-eldraine-cinderella
 universe: "Magic: The Gathering / Eldraine (ELD, 2019-10-04)"
 faction: ~
 species: designer-confirmed flavor cycle of fairy-tale homage cards

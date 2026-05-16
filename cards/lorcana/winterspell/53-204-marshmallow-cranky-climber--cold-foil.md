@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["ice", "monster", "snow", "golem", "creature", "winter", "rage", "frost", "giant", "cold", "guardian", "roar"]
-tags_filter: ["duo", "mid-shot", "action", "forward-facing", "amethyst-magic", "character-card", "dreamborn", "ally"]
+tags_hub:
+  - ice
+  - monster
+  - snow
+  - golem
+  - creature
+  - winter
+  - rage
+  - frost
+  - giant
+  - cold
+  - guardian
+  - roar
+tags_filter:
+  - duo
+  - mid-shot
+  - action
+  - forward-facing
+  - amethyst-magic
+  - character-card
+  - dreamborn
+  - ally
 reference_image: cards/_images/lorcana/winterspell/53-204-marshmallow-cranky-climber--cold-foil.jpg
 average_cost_paid: 0
-market_price: 0.82
-market_price_as_of: 2026-05-14
+market_price: 0.83
+market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set11/53_065e4c1c937e34a183e07950a935a9c4ed6c2b2e.jpg
 art_match_confidence: high
 needs_manual_review: false

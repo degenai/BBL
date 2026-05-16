@@ -1,6 +1,6 @@
 ---
 name: Spectral Searchlight
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: Commander Legends
 collector_number: 342
 rarity: C
@@ -10,14 +10,36 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["lantern", "light", "artifact-object", "ceremonial", "gift", "cooperation", "diplomacy", "guild", "ornament", "gemstones", "still-life", "heraldry"]
-tags_filter: ["no-figure", "no-face", "object-only", "close-up", "abstract-mode", "monochrome-palette", "sepia", "artifact", "colorless-magic", "mana-fixing"]
+tags_hub:
+  - lantern
+  - light
+  - artifact-object
+  - ceremonial
+  - gift
+  - cooperation
+  - diplomacy
+  - guild
+  - ornament
+  - gemstones
+  - still-life
+  - heraldry
+tags_filter:
+  - no-figure
+  - no-face
+  - object-only
+  - close-up
+  - abstract-mode
+  - monochrome-palette
+  - sepia
+  - artifact
+  - colorless-magic
+  - mana-fixing
 reference_image: cards/_images/magic-the-gathering/commander-legends/342-spectral-searchlight.png
 average_cost_paid: 0
 market_price: 0.26
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -29,7 +51,7 @@ artist: Martina Pilcerova
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/342-spectral-searchlight--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/a/0a7dd6c9-628b-4dde-a385-604501dd0979.jpg?1608911718
 flavor_text: The first searchlights were given as gifts, symbols of cooperation, to the emissaries present at the signing of the Guildpact.
-oracle_text: {T}: Choose a player. That player adds one mana of any color they choose.
+oracle_text: "{T}: Choose a player. That player adds one mana of any color they choose."
 ---
 
 # Spectral Searchlight (Commander Legends)

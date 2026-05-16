@@ -1,7 +1,12 @@
 ---
 type: symbol
 name: Survival (mechanic)
-aliases: [survival, survival-mechanic, survival-keyword, survival-ability-word, still-tapped-trigger]
+aliases:
+  - survival
+  - survival-mechanic
+  - survival-keyword
+  - survival-ability-word
+  - still-tapped-trigger
 faction: ~
 universe: "Magic: The Gathering / Duskmourn (DSK, 2024-09-27)"
 canonical_source: "Wizards of the Coast — Matt Tabak, Duskmourn Mechanics (2024-08-31); Mark Rosewater's Top of the Duskmourning Part 1 and Part 2 (Making Magic, 2024-09); MTG Wiki — Survival; Scryfall — keyword:survival / oracletext:'Survival —'"
@@ -14,7 +19,9 @@ appears_on:
   - magic-the-gathering/duskmourn-house-of-horror/175-defiant-survivor
   - magic-the-gathering/duskmourn-house-of-horror/196-rootwise-survivor
 related_hubs: []
-related_characters: [dsk-survival-archetype, valgavoth]
+related_characters:
+  - dsk-survival-archetype
+  - valgavoth
 ---
 
 # Survival (mechanic)

@@ -1,7 +1,13 @@
 ---
 type: character
 name: Azorius Senate
-aliases: [azorius, the-senate, azorius-guild, lyev-column, new-prahv-guildhall, the-law]
+aliases:
+  - azorius
+  - the-senate
+  - azorius-guild
+  - lyev-column
+  - new-prahv-guildhall
+  - the-law
 universe: "Magic: The Gathering / Ravnica"
 faction: Azorius Senate (self; this node IS the faction)
 species: faction-collective (humans, vedalken, sphinxes, angels, soldiers, lawmages — mixed)
@@ -15,7 +21,7 @@ appears_on:
   - magic-the-gathering/core-set-2021/35-secure-the-scene
   - magic-the-gathering/war-of-the-spark/38-wanderer-s-strike
   - magic-the-gathering/war-of-the-spark/75-wall-of-runes
-related_hubs: [labor]
+related_hubs: "[labor]"
 related_symbols: []
 ip_resolution_for: azorius-senate
 ---

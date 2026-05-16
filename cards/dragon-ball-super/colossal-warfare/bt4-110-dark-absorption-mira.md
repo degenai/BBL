@@ -10,21 +10,41 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["villain", "absorption", "dark-magic", "power", "artificial-being", "corruption", "chaos", "domination", "energy", "white", "evil", "time-patrol", "warrior"]
-tags_filter: ["solo", "mid-shot", "action", "forward-facing", "male-figure", "anime"]
+tags_hub:
+  - villain
+  - absorption
+  - dark-magic
+  - power
+  - artificial-being
+  - corruption
+  - chaos
+  - domination
+  - energy
+  - white
+  - evil
+  - time-patrol
+  - warrior
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - forward-facing
+  - male-figure
+  - anime
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-110-dark-absorption-mira.png
 average_cost_paid: 0
 market_price: 0.01
-market_price_as_of: 2026-05-14
+market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-14
+last_seen: 2026-05-15
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401041716/F7E6E29194ADBE1843889036DC5D2C2C1A4C27EB/
 image_width: 624
 image_height: 864
 image_quality: med
 art_match_confidence: high
 needs_manual_review: false
-characters: [xenoverse-villains]
+characters:
+  - xenoverse-villains
 mood: grim
 time_of_day: indeterminate
 setting: void
