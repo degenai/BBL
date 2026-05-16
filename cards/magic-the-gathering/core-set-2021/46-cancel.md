@@ -55,6 +55,7 @@ oracle_text: Counter target spell.
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}{U}
 ---
 # Cancel (Core Set 2021)
 

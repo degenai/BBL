@@ -54,6 +54,7 @@ oracle_text: Flash\nEnchant creature\nEnchanted creature gets -2/-0. It gets -6/
 tags:
   - card
   - vision-passed
+mana_cost: {U}
 ---
 # So Tiny (Throne of Eldraine)
 

@@ -54,6 +54,7 @@ oracle_text: Target creature gets -4/-0 until end of turn. If you control a Wiza
 tags:
   - card
   - vision-passed
+mana_cost: {U}
 ---
 # Chilling Trap (Zendikar Rising)
 

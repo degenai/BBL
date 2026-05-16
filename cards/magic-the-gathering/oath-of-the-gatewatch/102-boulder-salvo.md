@@ -50,6 +50,7 @@ setting: mountain
 tags:
   - card
   - vision-passed
+mana_cost: {4}{R}
 ---
 # Boulder Salvo (Oath of the Gatewatch)
 

@@ -60,6 +60,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {2}{B}
 ---
 # Soulreaper of Mogis (Theros Beyond Death)
 

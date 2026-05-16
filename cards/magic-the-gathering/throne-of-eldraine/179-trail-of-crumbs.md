@@ -50,6 +50,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Trail of Crumbs (Throne of Eldraine)
 

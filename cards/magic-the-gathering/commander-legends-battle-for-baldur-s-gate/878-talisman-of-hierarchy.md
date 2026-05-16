@@ -56,6 +56,7 @@ oracle_text: "{T}: Add {C}.\\n{T}: Add {W} or {B}. This artifact deals 1 damage 
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Talisman of Hierarchy (Commander Legends: Battle for Baldur's Gate)
 

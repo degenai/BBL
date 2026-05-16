@@ -53,6 +53,7 @@ oracle_text: Turn to Slag deals 5 damage to target creature. Destroy all Equipme
 tags:
   - card
   - vision-passed
+mana_cost: {3}{R}{R}
 ---
 # Turn to Slag (Core Set 2021)
 

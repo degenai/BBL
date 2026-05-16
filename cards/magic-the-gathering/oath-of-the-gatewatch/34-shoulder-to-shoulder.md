@@ -55,6 +55,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {2}{W}
 ---
 # Shoulder to Shoulder (Oath of the Gatewatch)
 

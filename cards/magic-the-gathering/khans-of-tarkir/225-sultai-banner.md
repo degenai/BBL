@@ -56,6 +56,7 @@ oracle_text: "{T}: Add {B}, {G}, or {U}.\\n{B}{G}{U}, {T}, Sacrifice this artifa
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Sultai Banner (Khans of Tarkir)
 

@@ -54,6 +54,7 @@ oracle_text: Convoke (Your creatures can help cast this spell. Each creature you
 tags:
   - card
   - vision-passed
+mana_cost: {6}
 ---
 # Will-Forged Golem (Magic 2015 (M15))
 

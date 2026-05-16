@@ -56,6 +56,7 @@ oracle_text: When this creature enters, you may return target red sorcery card f
 tags:
   - card
   - vision-passed
+mana_cost: {4}{U/R}{U/R}
 ---
 # Nucklavee (Mystery Booster Cards)
 

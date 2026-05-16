@@ -53,6 +53,7 @@ oracle_text: "Flying\\nWhen this creature enters, put a +1/+1 counter on target 
 tags:
   - card
   - vision-passed
+mana_cost: {G}{U}
 ---
 # Merfolk Skydiver (War of the Spark)
 

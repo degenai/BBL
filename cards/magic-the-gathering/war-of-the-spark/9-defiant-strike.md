@@ -31,5 +31,6 @@ image_height: 1040
 image_quality: high
 tags:
   - card
+mana_cost: {W}
 ---
 # Defiant Strike (War of the Spark)

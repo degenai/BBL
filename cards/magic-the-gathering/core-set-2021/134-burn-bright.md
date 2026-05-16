@@ -53,6 +53,7 @@ oracle_text: Creatures you control get +2/+0 until end of turn.
 tags:
   - card
   - vision-passed
+mana_cost: {2}{R}
 ---
 # Burn Bright (Core Set 2021)
 

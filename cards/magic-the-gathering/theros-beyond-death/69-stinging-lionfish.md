@@ -53,6 +53,7 @@ oracle_text: Whenever you cast your first spell during each opponent's turn, you
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}
 ---
 # Stinging Lionfish (Theros Beyond Death)
 

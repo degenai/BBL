@@ -52,6 +52,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-pending
+mana_cost: {R}
 ---
 # Frenzied Goblin (Foundations)
 

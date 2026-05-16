@@ -53,6 +53,7 @@ oracle_text: "Equipped creature gets +2/+0.\\nEquip {2} ({2}: Attach to target c
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Marauder's Axe (Core Set 2020)
 

@@ -54,6 +54,7 @@ oracle_text: Scry 3, then reveal the top card of your library. If it's a creatur
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Track Down (Core Set 2021)
 

@@ -55,6 +55,7 @@ oracle_text: "{3}, Sacrifice a creature or planeswalker: You gain 1 life and dra
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}
 ---
 # Spark Reaper (War of the Spark)
 

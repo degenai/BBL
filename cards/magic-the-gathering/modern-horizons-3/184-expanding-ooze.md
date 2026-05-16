@@ -56,6 +56,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {1}{B}{G}
 ---
 # Expanding Ooze (Modern Horizons 3)
 

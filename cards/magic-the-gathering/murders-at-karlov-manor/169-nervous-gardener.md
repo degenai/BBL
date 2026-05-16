@@ -53,6 +53,7 @@ oracle_text: Disguise {G} (You may cast this card face down for {3} as a 2/2 cre
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Nervous Gardener (Murders at Karlov Manor)
 

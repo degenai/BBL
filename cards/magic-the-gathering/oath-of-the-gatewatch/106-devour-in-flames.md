@@ -58,6 +58,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {2}{R}
 ---
 # Devour in Flames (Oath of the Gatewatch)
 

@@ -49,6 +49,7 @@ setting: dungeon
 tags:
   - card
   - vision-passed
+mana_cost: {1}{R}
 ---
 # Steamflogger Temp (Unstable)
 

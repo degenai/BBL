@@ -30,6 +30,7 @@ tags:
   - card
   - manual-review
 
+mana_cost: {2}{R} // {1}{R}
 ---
 # Bonecrusher Giant (Promo Pack: Throne of Eldraine)
 

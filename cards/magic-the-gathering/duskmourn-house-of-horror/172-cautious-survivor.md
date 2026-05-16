@@ -56,6 +56,7 @@ oracle_text: Survival — At the beginning of your second main phase, if this cr
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}
 ---
 # Cautious Survivor (Duskmourn: House of Horror)
 

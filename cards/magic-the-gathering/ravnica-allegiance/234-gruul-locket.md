@@ -53,6 +53,7 @@ oracle_text: "{T}: Add {R} or {G}.\\n{R/G}{R/G}{R/G}{R/G}, {T}, Sacrifice this a
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Gruul Locket (Ravnica Allegiance)
 

@@ -53,6 +53,7 @@ oracle_text: Magma Spray deals 2 damage to target creature. If that creature wou
 tags:
   - card
   - vision-passed
+mana_cost: {R}
 ---
 # Magma Spray (Mystery Booster Cards)
 

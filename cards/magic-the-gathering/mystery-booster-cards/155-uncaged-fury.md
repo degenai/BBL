@@ -55,6 +55,7 @@ oracle_text: Target creature gets +1/+1 and gains double strike until end of tur
 tags:
   - card
   - vision-passed
+mana_cost: {2}{R}
 ---
 # Uncaged Fury (Mystery Booster Cards)
 

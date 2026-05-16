@@ -54,6 +54,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {B}{R}
 ---
 # Disturbing Mirth (Duskmourn: House of Horror)
 

@@ -54,6 +54,7 @@ oracle_text: "This artifact enters with three brick counters on it.\\n{2}, {T}, 
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Sunset Pyramid (Mystery Booster Cards)
 

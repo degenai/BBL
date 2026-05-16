@@ -55,6 +55,7 @@ oracle_text: Whenever you sacrifice a permanent, this creature deals 1 damage to
 tags:
   - card
   - vision-passed
+mana_cost: {4}{R}
 ---
 # Havoc Jester (Core Set 2021)
 

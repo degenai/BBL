@@ -56,6 +56,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {R}
 ---
 # Fervent Champion (Throne of Eldraine)
 

@@ -53,6 +53,7 @@ flavor_text: \"Tree-tall giants confronted her, fiercely demanding her tribute;\
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}{G}{G}
 ---
 # Nyxborn Colossus (Theros Beyond Death)
 

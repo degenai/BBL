@@ -54,6 +54,7 @@ oracle_text: Morph {5} (You may cast this card face down as a 2/2 creature for {
 tags:
   - card
   - vision-passed
+mana_cost: {6}
 ---
 # Witness of the Ages (Khans of Tarkir)
 

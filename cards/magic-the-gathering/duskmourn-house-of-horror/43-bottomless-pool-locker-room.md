@@ -53,6 +53,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {U} // {4}{U}
 ---
 # Bottomless Pool // Locker Room (Duskmourn: House of Horror)
 

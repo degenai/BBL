@@ -53,6 +53,7 @@ oracle_text: Reveal the top four cards of your library. You may put a creature c
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Relentless Pursuit (Theros Beyond Death)
 

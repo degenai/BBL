@@ -53,6 +53,7 @@ oracle_text: Vigilance
 tags:
   - card
   - vision-passed
+mana_cost: {4}{W} // {2}{W}
 ---
 # Lonesome Unicorn (Throne of Eldraine)
 

@@ -53,6 +53,7 @@ oracle_text: You gain 4 life. If a creature died this turn, you gain 8 life inst
 tags:
   - card
   - vision-passed
+mana_cost: {G}
 ---
 # Life Goes On (Core Set 2021)
 

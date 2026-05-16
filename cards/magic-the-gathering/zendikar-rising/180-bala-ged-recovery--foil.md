@@ -53,6 +53,7 @@ oracle_text: Return target card from your graveyard to your hand.
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Bala Ged Recovery (Zendikar Rising)
 

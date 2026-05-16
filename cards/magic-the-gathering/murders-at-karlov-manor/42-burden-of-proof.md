@@ -52,6 +52,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}
 ---
 # Burden of Proof (Murders at Karlov Manor)
 

@@ -52,6 +52,7 @@ oracle_text: As an additional cost to cast this spell, discard a card.\nDraw two
 tags:
   - card
   - vision-passed
+mana_cost: {1}{R}
 ---
 # Tormenting Voice (Zendikar Rising)
 

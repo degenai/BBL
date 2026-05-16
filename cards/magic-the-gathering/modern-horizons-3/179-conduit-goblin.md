@@ -51,6 +51,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {R}{W}
 ---
 # Conduit Goblin (Modern Horizons 3)
 

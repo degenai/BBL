@@ -48,6 +48,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G} // {G}
 ---
 # Curious Pair (Throne of Eldraine)
 

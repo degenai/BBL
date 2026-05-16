@@ -51,6 +51,7 @@ oracle_text: "When this creature enters, investigate. (Create a Clue token. It's
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}
 ---
 # Loxodon Eavesdropper (Murders at Karlov Manor)
 

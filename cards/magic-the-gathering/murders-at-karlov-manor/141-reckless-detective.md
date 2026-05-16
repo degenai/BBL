@@ -51,6 +51,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{R}
 ---
 # Reckless Detective (Murders at Karlov Manor)
 

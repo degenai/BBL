@@ -55,6 +55,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Serene Steward (Battle for Zendikar)
 

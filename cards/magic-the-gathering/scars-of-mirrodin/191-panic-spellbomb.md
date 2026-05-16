@@ -52,6 +52,7 @@ oracle_text: "{T}, Sacrifice this artifact: Target creature can't block this tur
 tags:
   - card
   - vision-passed
+mana_cost: {1}
 ---
 # Panic Spellbomb (Scars of Mirrodin)
 

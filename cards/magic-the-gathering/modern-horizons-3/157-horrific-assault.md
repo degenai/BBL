@@ -54,6 +54,7 @@ oracle_text: Target creature you control deals damage equal to its power to targ
 tags:
   - card
   - vision-passed
+mana_cost: {G}
 ---
 # Horrific Assault (Modern Horizons 3)
 

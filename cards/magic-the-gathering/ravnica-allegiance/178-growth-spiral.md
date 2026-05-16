@@ -53,6 +53,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {G}{U}
 ---
 # Growth Spiral (Ravnica Allegiance)
 

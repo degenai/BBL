@@ -53,6 +53,7 @@ oracle_text: Whenever you cast an Adventure instant or sorcery spell, copy it. Y
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Lucky Clover (Throne of Eldraine)
 

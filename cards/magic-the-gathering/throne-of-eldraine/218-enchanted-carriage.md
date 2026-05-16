@@ -57,6 +57,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {5}
 ---
 # Enchanted Carriage (Throne of Eldraine)
 

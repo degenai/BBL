@@ -53,6 +53,7 @@ oracle_text: "{3}, {T}: Target attacking creature gets +2/+0 until end of turn. 
 tags:
   - card
   - vision-passed
+mana_cost: {6}
 ---
 # Runesword (Chronicles)
 

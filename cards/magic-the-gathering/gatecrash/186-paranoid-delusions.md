@@ -56,6 +56,7 @@ oracle_text: Target player mills three cards.\nCipher (Then you may exile this s
 tags:
   - card
   - vision-passed
+mana_cost: {U}{B}
 ---
 # Paranoid Delusions (Gatecrash)
 

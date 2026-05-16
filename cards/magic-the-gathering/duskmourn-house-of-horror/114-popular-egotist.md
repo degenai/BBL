@@ -54,6 +54,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}
 ---
 # Popular Egotist (Duskmourn: House of Horror)
 

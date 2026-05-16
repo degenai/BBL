@@ -55,6 +55,7 @@ oracle_text: Choose one —\n• Target creature you control gets +1/+1 until en
 tags:
   - card
   - vision-passed
+mana_cost: {G}{U}{R}
 ---
 # Temur Charm (Khans of Tarkir)
 

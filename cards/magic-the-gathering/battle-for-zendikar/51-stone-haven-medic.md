@@ -52,6 +52,7 @@ ip_cleared_reason: "wave 41 E2 Edgelord review — vision-pass low-confidence su
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Stone Haven Medic (Battle for Zendikar)
 

@@ -62,6 +62,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {2}{U}{R}
 ---
 # Ral's Outburst (War of the Spark)
 

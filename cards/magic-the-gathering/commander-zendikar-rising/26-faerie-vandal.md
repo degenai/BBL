@@ -55,6 +55,7 @@ oracle_text: Flash (You may cast this spell any time you could cast an instant.)
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}
 ---
 # Faerie Vandal (Commander: Zendikar Rising)
 

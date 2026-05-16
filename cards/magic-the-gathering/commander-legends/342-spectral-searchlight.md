@@ -55,6 +55,7 @@ oracle_text: "{T}: Choose a player. That player adds one mana of any color they 
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Spectral Searchlight (Commander Legends)
 

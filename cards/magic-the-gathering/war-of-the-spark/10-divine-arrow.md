@@ -53,6 +53,7 @@ oracle_text: Divine Arrow deals 4 damage to target attacking or blocking creatur
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Divine Arrow (War of the Spark)
 

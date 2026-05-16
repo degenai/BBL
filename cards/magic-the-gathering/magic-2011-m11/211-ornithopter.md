@@ -56,6 +56,7 @@ oracle_text: Flying
 tags:
   - card
   - vision-passed
+mana_cost: {0}
 ---
 # Ornithopter (Magic 2011 (M11))
 

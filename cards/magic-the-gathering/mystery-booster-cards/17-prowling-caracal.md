@@ -55,6 +55,7 @@ flavor_text: A hunter in the city requires the utmost cunning to survive. It mus
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Prowling Caracal (Mystery Booster Cards)
 

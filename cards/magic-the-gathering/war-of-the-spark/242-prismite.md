@@ -52,6 +52,7 @@ oracle_text: "{2}: Add one mana of any color."
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Prismite (War of the Spark)
 

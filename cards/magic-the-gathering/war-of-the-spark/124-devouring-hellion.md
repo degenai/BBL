@@ -52,6 +52,7 @@ oracle_text: As this creature enters, you may sacrifice any number of creatures 
 tags:
   - card
   - vision-passed
+mana_cost: {2}{R}
 ---
 # Devouring Hellion (War of the Spark)
 

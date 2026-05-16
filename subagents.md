@@ -1,5 +1,17 @@
 # BBL Subagents Registry
 
+> **⚠ This doc is historical (Plan A) — see live agent specs in `.claude/agents/`.**
+>
+> Originally a roadmap for a DeepSeek-hosted vision pipeline. That plan was deprecated wave ~10 once Claude Code subagents matured enough to handle the vision pass at quality. Live specs:
+> - **Vision pass** → `.claude/agents/bbl-researcher.md` (Sonnet 4.6, replaces the DeepSeek vision-call code that lived in `researchbot.py` until wave 92.5)
+> - **Trivia pass** → `.claude/agents/bbl-triviabot.md` (Sonnet 4.6)
+> - **Topology / edges / new nodes** → `.claude/agents/bbl-edgelord.md` (Opus 4.7, with Mr. Nodeley alter)
+> - **Triage diagnoses** → `.claude/agents/bbl-nurse-joy-md.md` (Sonnet 4.6)
+>
+> The watch signal for re-introducing Plan A: `python researchbot.py --list-models` — when a DeepSeek vision model appears without "beta" tagging, hosted vision becomes a viable alternative path. Memory: `bbl-deepseek-vision-watch`.
+>
+> The sections below are preserved as the original architectural spec (tag architecture, schema rules, etc.) since most of that still holds; only the Plan-A DeepSeek-specific copy is stale.
+
 Roster of specialized agents the Bulk Graph Bundler project needs. Specs only — implementation TBD.
 
 **Migration plan:** once specs are locked and a first-pass implementation works, these get converted into actual Claude Code subagents (`.claude/agents/*.md` definitions) so they're invokable from any session in the project. Spec-first, code-second, agent-third.

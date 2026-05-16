@@ -31,6 +31,7 @@ tags:
   - card
   - manual-review
 
+mana_cost: {4}
 ---
 # Rod of Ruin (8th Edition)
 

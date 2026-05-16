@@ -53,6 +53,7 @@ oracle_text: As an additional cost to cast this spell, sacrifice a creature.\nDr
 tags:
   - card
   - vision-passed
+mana_cost: {B}
 ---
 # Village Rites (Core Set 2021)
 

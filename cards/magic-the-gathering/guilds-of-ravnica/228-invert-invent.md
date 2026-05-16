@@ -52,6 +52,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {U/R} // {4}{U}{R}
 ---
 # Invert // Invent (Guilds of Ravnica)
 

@@ -53,6 +53,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {1}{W}
 ---
 # Gideon's Reproach (Battle for Zendikar)
 

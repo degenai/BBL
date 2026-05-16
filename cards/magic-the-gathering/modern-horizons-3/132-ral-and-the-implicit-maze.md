@@ -54,6 +54,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-pending
+mana_cost: {3}{R}{R}
 ---
 # Ral and the Implicit Maze (Modern Horizons 3)
 

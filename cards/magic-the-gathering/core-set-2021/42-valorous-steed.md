@@ -54,6 +54,7 @@ oracle_text: Vigilance (Attacking doesn't cause this creature to tap.)\nWhen thi
 tags:
   - card
   - vision-passed
+mana_cost: {4}{W}
 ---
 # Valorous Steed (Core Set 2021)
 

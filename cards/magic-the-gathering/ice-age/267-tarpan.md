@@ -52,6 +52,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {G}
 ---
 # Tarpan (Ice Age)
 

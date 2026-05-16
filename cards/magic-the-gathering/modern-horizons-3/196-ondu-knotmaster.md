@@ -51,6 +51,7 @@ setting: mountain
 tags:
   - card
   - vision-passed
+mana_cost: {2}{W}{B} // {W}{B}
 ---
 # Ondu Knotmaster (Modern Horizons 3)
 

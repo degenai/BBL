@@ -50,6 +50,7 @@ setting: void
 tags:
   - card
   - vision-passed
+mana_cost: {4}{B}{B}
 ---
 # Miasma Demon (Duskmourn: House of Horror)
 

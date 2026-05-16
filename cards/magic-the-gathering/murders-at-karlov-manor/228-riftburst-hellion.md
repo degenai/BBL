@@ -55,6 +55,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {5}{R}{G}
 ---
 # Riftburst Hellion (Murders at Karlov Manor)
 

@@ -29,6 +29,7 @@ tags:
   - card
   - manual-review
 
+mana_cost: {1}{W}
 ---
 # Luminarch Aspirant (Promo Pack: Zendikar Rising)
 

@@ -53,6 +53,7 @@ oracle_text: Return target spell or creature to its owner's hand.
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}
 ---
 # Unsubstantiate (Core Set 2021)
 

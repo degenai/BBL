@@ -60,6 +60,7 @@ tags:
   - card
   - vision-passed
   - ip-verified
+mana_cost: {B}{R}
 ---
 # Angrath's Rampage (War of the Spark)
 

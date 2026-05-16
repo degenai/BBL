@@ -57,6 +57,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {G}
 ---
 # Coordinated Clobbering (Duskmourn: House of Horror)
 

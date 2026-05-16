@@ -55,6 +55,7 @@ oracle_text: When this creature dies, you may have it deal damage to any target 
 tags:
   - card
   - vision-passed
+mana_cost: {R}{G}
 ---
 # Ruination Rioter (Modern Horizons)
 

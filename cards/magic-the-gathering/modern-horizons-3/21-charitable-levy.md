@@ -55,6 +55,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {1}{W}
 ---
 # Charitable Levy (Modern Horizons 3)
 

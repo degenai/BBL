@@ -54,6 +54,7 @@ oracle_text: Constellation — Whenever an enchantment you control enters, tap t
 tags:
   - card
   - vision-passed
+mana_cost: {4}{W}
 ---
 # Captivating Unicorn (Theros Beyond Death)
 

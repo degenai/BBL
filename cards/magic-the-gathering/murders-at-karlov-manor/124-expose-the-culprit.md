@@ -52,6 +52,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{R}
 ---
 # Expose the Culprit (Murders at Karlov Manor)
 

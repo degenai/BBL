@@ -57,6 +57,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {3}{R}
 ---
 # Arena Trickster (Theros Beyond Death)
 

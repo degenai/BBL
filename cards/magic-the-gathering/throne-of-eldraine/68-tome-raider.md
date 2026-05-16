@@ -55,6 +55,7 @@ oracle_text: Flying\nWhen this creature enters, draw a card.
 tags:
   - card
   - vision-passed
+mana_cost: {2}{U}
 ---
 # Tome Raider (Throne of Eldraine)
 

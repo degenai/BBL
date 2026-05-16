@@ -53,6 +53,7 @@ oracle_text: When this creature dies, each player draws a card.
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Runed Servitor (Rise of the Eldrazi)
 

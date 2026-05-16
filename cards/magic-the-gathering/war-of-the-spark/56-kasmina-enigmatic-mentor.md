@@ -52,6 +52,7 @@ oracle_text: "Spells your opponents cast that target a creature or planeswalker 
 tags:
   - card
   - vision-passed
+mana_cost: {3}{U}
 ---
 # Kasmina, Enigmatic Mentor (War of the Spark)
 

@@ -53,6 +53,7 @@ oracle_text: When this creature enters, destroy target artifact or enchantment a
 tags:
   - card
   - vision-passed
+mana_cost: {3}{W}{W}
 ---
 # Rambunctious Mutt (Core Set 2021)
 

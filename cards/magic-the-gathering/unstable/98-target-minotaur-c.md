@@ -52,6 +52,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {1}{R}
 ---
 # Target Minotaur (C) (Unstable)
 

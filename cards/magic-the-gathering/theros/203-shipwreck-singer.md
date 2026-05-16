@@ -57,6 +57,7 @@ oracle_text: "Flying\\n{1}{U}: Target creature an opponent controls attacks this
 tags:
   - card
   - vision-passed
+mana_cost: {U}{B}
 ---
 # Shipwreck Singer (Theros)
 

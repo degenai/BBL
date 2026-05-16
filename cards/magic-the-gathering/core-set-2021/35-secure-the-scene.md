@@ -9,7 +9,8 @@ grade: Ungraded
 condition: Near Mint
 quantity: 2
 held_for_lair: 0
-bundles: []
+bundles:
+  - tithe
 characters:
   - azorius-senate
 tags_hub:

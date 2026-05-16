@@ -54,6 +54,7 @@ oracle_text: When this creature dies, return another target artifact card from y
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Workshop Assistant (Commander Legends)
 

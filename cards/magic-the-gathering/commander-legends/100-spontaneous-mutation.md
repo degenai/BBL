@@ -54,6 +54,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {U}
 ---
 # Spontaneous Mutation (Commander Legends)
 

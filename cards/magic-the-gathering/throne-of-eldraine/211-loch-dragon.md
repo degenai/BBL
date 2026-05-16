@@ -53,6 +53,7 @@ oracle_text: Flying\nWhenever this creature enters or attacks, you may discard a
 tags:
   - card
   - vision-passed
+mana_cost: {U/R}{U/R}{U/R}{U/R}
 ---
 # Loch Dragon (Throne of Eldraine)
 

@@ -59,6 +59,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {R}
 ---
 # Infuriate (Theros Beyond Death)
 

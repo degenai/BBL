@@ -52,6 +52,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {G}
 ---
 # Tinder Wall (Ice Age)
 

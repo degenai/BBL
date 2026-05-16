@@ -54,6 +54,7 @@ setting: void
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}{B}
 ---
 # Psychic Strike (Gatecrash)
 

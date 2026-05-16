@@ -53,6 +53,7 @@ oracle_text: "{6}{B}: Each opponent loses 2 life and you gain 2 life."
 tags:
   - card
   - vision-passed
+mana_cost: {1}{B}
 ---
 # Vampire Opportunist (War of the Spark)
 

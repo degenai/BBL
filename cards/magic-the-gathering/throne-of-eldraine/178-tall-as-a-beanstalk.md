@@ -53,6 +53,7 @@ oracle_text: Enchant creature\nEnchanted creature gets +3/+3, has reach, and is 
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}
 ---
 # Tall as a Beanstalk (Throne of Eldraine)
 

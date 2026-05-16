@@ -52,6 +52,7 @@ oracle_text: Add {R}{R}{R}.
 tags:
   - card
   - vision-passed
+mana_cost: {1}{R}
 ---
 # Pyretic Ritual (Mystery Booster: Retail Exclusives)
 

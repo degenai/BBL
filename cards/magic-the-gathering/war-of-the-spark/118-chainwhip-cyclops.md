@@ -56,6 +56,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {4}{R}
 ---
 # Chainwhip Cyclops (War of the Spark)
 

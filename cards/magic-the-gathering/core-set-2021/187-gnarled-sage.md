@@ -55,6 +55,7 @@ oracle_text: Reach (This creature can block creatures with flying.)\nAs long as 
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}{G}
 ---
 # Gnarled Sage (Core Set 2021)
 

@@ -52,6 +52,7 @@ setting: dungeon
 tags:
   - card
   - vision-passed
+mana_cost: {2}{R}
 ---
 # Akoum Flameseeker (Oath of the Gatewatch)
 

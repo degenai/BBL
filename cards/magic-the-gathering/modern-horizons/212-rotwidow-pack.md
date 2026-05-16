@@ -55,6 +55,7 @@ oracle_text: "Reach\\n{3}{B}{G}, Exile a creature card from your graveyard: Crea
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}{G}
 ---
 # Rotwidow Pack (Modern Horizons)
 

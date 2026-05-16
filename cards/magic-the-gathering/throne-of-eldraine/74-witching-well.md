@@ -52,6 +52,7 @@ oracle_text: "When this artifact enters, scry 2. (Look at the top two cards of y
 tags:
   - card
   - vision-passed
+mana_cost: {U}
 ---
 # Witching Well (Throne of Eldraine)
 

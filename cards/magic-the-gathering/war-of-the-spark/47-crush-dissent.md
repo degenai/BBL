@@ -55,6 +55,7 @@ oracle_text: Counter target spell unless its controller pays {2}.\nAmass Zombies
 tags:
   - card
   - vision-passed
+mana_cost: {3}{U}
 ---
 # Crush Dissent (War of the Spark)
 

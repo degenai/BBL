@@ -54,6 +54,7 @@ oracle_text: "{T}: Target player exiles a card from their graveyard.\\n{1}, Sacr
 tags:
   - card
   - vision-passed
+mana_cost: {1}
 ---
 # Scrabbling Claws (Ravnica Allegiance)
 

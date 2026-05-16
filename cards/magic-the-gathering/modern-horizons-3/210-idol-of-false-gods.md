@@ -57,6 +57,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {2}
 ---
 # Idol of False Gods (Modern Horizons 3)
 

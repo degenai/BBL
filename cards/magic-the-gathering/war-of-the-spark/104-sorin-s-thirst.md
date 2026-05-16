@@ -53,6 +53,7 @@ oracle_text: Sorin's Thirst deals 2 damage to target creature and you gain 2 lif
 tags:
   - card
   - vision-passed
+mana_cost: {B}{B}
 ---
 # Sorin's Thirst (War of the Spark)
 

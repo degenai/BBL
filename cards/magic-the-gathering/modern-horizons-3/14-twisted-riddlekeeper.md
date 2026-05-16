@@ -57,6 +57,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {8}
 ---
 # Twisted Riddlekeeper (Modern Horizons 3)
 

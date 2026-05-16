@@ -52,6 +52,7 @@ oracle_text: Deathtouch\nWhenever this creature attacks, another target creature
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Flesh Burrower (Duskmourn: House of Horror)
 

@@ -57,6 +57,7 @@ oracle_text: Whenever this creature attacks, target creature can't block this tu
 tags:
   - card
   - vision-passed
+mana_cost: {2}{R}{W}{B}
 ---
 # Mardu Roughrider (Khans of Tarkir)
 

@@ -55,6 +55,7 @@ oracle_text: Deathtouch
 tags:
   - card
   - vision-passed
+mana_cost: {G}
 ---
 # Moss Viper (Theros Beyond Death)
 

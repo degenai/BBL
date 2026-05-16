@@ -51,6 +51,7 @@ setting: mountain
 tags:
   - card
   - vision-passed
+mana_cost: {G}{G}{G}
 ---
 # Ayula's Influence (Modern Horizons)
 

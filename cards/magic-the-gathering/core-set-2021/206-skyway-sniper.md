@@ -54,6 +54,7 @@ oracle_text: "Reach (This creature can block creatures with flying.)\\n{2}{G}: T
 tags:
   - card
   - vision-passed
+mana_cost: {G}
 ---
 # Skyway Sniper (Core Set 2021)
 

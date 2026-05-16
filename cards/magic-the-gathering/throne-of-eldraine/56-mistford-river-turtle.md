@@ -53,6 +53,7 @@ oracle_text: Whenever this creature attacks, another target attacking non-Human 
 tags:
   - card
   - vision-passed
+mana_cost: {3}{U}
 ---
 # Mistford River Turtle (Throne of Eldraine)
 

@@ -53,6 +53,7 @@ oracle_text: As an additional cost to cast this spell, sacrifice a creature or p
 tags:
   - card
   - vision-passed
+mana_cost: {B}
 ---
 # Spark Harvest (War of the Spark)
 

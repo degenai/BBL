@@ -54,6 +54,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {3}{W}
 ---
 # Allied Reinforcements (Oath of the Gatewatch)
 

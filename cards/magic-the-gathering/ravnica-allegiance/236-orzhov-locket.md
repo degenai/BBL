@@ -58,6 +58,7 @@ oracle_text: "{T}: Add {W} or {B}.\\n{W/B}{W/B}{W/B}{W/B}, {T}, Sacrifice this a
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Orzhov Locket (Ravnica Allegiance)
 

@@ -51,6 +51,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {4}{B}
 ---
 # Ray of Ruin (The Lost Caverns of Ixalan)
 

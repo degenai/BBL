@@ -51,6 +51,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {3}{G}
 ---
 # Bite Down on Crime (Murders at Karlov Manor)
 

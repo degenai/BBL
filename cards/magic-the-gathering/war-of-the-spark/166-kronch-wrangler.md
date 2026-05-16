@@ -53,6 +53,7 @@ oracle_text: Trample\nWhenever a creature you control with power 4 or greater en
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Kronch Wrangler (War of the Spark)
 

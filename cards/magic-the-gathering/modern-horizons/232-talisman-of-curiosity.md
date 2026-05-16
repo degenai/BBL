@@ -53,6 +53,7 @@ oracle_text: "{T}: Add {C}.\\n{T}: Add {G} or {U}. This artifact deals 1 damage 
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Talisman of Curiosity (Modern Horizons)
 

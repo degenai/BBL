@@ -55,6 +55,7 @@ oracle_text: Look at the top five cards of your library. You may reveal any numb
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Lead the Stampede (Mystery Booster Cards)
 

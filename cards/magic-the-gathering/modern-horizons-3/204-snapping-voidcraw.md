@@ -57,6 +57,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {1}{G}{U}
 ---
 # Snapping Voidcraw (Modern Horizons 3)
 

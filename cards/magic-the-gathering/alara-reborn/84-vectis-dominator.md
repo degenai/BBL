@@ -45,6 +45,7 @@ oracle_text: "{T}: Tap target creature unless its controller pays 2 life."
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}{B}
 ---
 # Vectis Dominator (Alara Reborn)
 

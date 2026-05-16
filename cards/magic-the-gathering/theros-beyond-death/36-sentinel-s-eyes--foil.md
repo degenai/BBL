@@ -55,6 +55,7 @@ oracle_text: Enchant creature\nEnchanted creature gets +1/+1 and has vigilance.\
 tags:
   - card
   - vision-passed
+mana_cost: {W}
 ---
 # Sentinel's Eyes (Theros Beyond Death)
 

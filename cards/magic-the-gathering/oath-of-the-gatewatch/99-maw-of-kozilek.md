@@ -53,6 +53,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {3}{R}
 ---
 # Maw of Kozilek (Oath of the Gatewatch)
 

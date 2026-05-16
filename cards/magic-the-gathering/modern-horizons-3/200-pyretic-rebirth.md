@@ -54,6 +54,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {2}{B}{R}
 ---
 # Pyretic Rebirth (Modern Horizons 3)
 

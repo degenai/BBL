@@ -55,6 +55,7 @@ oracle_text: You gain 5 life.\nFerocious — You gain 10 life instead if you con
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Feed the Clan (Khans of Tarkir)
 

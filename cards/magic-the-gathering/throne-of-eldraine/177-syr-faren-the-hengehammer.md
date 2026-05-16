@@ -55,6 +55,7 @@ oracle_text: Whenever Syr Faren attacks, another target attacking creature gets 
 tags:
   - card
   - vision-passed
+mana_cost: {G}{G}
 ---
 # Syr Faren, the Hengehammer (Throne of Eldraine)
 

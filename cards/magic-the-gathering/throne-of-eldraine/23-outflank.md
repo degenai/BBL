@@ -53,6 +53,7 @@ oracle_text: Outflank deals damage to target attacking or blocking creature equa
 tags:
   - card
   - vision-passed
+mana_cost: {W}
 ---
 # Outflank (Throne of Eldraine)
 

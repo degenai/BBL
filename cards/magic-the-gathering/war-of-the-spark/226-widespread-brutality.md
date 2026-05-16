@@ -55,6 +55,7 @@ oracle_text: Amass Zombies 2, then the Army you amassed deals damage equal to it
 tags:
   - card
   - vision-passed
+mana_cost: {1}{B}{R}{R}
 ---
 # Widespread Brutality (War of the Spark)
 

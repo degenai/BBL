@@ -55,6 +55,7 @@ oracle_text: When this creature enters, scry 2. (Look at the top two cards of yo
 tags:
   - card
   - vision-passed
+mana_cost: {6}
 ---
 # Prophet of the Peak (Throne of Eldraine)
 

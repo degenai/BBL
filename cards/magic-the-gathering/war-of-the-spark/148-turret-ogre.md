@@ -54,6 +54,7 @@ oracle_text: Reach (This creature can block creatures with flying.)\nWhen this c
 tags:
   - card
   - vision-passed
+mana_cost: {3}{R}
 ---
 # Turret Ogre (War of the Spark)
 

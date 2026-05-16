@@ -56,6 +56,7 @@ oracle_text: Defender (This creature can't attack.)\nWhen this creature enters, 
 tags:
   - card
   - vision-passed
+mana_cost: {U}
 ---
 # Wall of Runes (War of the Spark)
 

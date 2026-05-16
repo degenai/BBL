@@ -51,6 +51,7 @@ setting: void
 tags:
   - card
   - vision-passed
+mana_cost: {X}{G}
 ---
 # Untamed Might (Scars of Mirrodin)
 

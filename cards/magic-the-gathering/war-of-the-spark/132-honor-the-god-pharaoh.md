@@ -28,6 +28,7 @@ tags:
   - card
   - manual-review
 
+mana_cost: {2}{R}
 ---
 # Honor the God-Pharaoh (War of the Spark)
 

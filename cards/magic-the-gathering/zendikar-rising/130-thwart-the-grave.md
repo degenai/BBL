@@ -51,6 +51,7 @@ oracle_text: This spell costs {1} less to cast for each creature in your party. 
 tags:
   - card
   - vision-passed
+mana_cost: {4}{B}{B}
 ---
 # Thwart the Grave (Zendikar Rising)
 

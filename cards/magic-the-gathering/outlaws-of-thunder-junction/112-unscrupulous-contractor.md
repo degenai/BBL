@@ -55,6 +55,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}
 ---
 # Unscrupulous Contractor (Outlaws of Thunder Junction)
 

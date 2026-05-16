@@ -28,6 +28,7 @@ tags:
   - card
   - manual-review
 
+mana_cost: {1}{B}
 ---
 # Aid the Fallen (War of the Spark)
 

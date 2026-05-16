@@ -54,6 +54,7 @@ oracle_text: First strike
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Youthful Knight (Throne of Eldraine)
 

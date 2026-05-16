@@ -61,6 +61,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {1}{R}{G}
 ---
 # Radha, Heart of Keld (Core Set 2021)
 

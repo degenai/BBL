@@ -52,6 +52,7 @@ oracle_text: Whenever you draw a card, you may pay {1}. If you do, put a +1/+1 c
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}{U}
 ---
 # Nadir Kraken (Commander: Streets of New Capenna)
 

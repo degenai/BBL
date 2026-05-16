@@ -54,6 +54,7 @@ oracle_text: Enchant artifact\nEnchanted artifact is a creature with base power 
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}
 ---
 # Ensoul Artifact (Mystery Booster Cards)
 

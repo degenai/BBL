@@ -54,6 +54,7 @@ flavor_text: \"Gilded with gold from a dragon's trove, it is! And etched with th
 tags:
   - card
   - vision-passed
+mana_cost: {W}
 ---
 # Staunch Shieldmate (Core Set 2021)
 

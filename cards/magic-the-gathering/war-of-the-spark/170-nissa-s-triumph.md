@@ -58,6 +58,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {G}{G}
 ---
 # Nissa's Triumph (War of the Spark)
 

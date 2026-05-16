@@ -52,6 +52,7 @@ oracle_text: "{T}: Add one mana of any color in your commander's color identity.
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Commander's Sphere (Commander Legends)
 

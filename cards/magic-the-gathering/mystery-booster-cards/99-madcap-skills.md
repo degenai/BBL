@@ -55,6 +55,7 @@ oracle_text: Enchant creature\nEnchanted creature gets +3/+0 and has menace.
 tags:
   - card
   - vision-passed
+mana_cost: {1}{R}
 ---
 # Madcap Skills (Mystery Booster Cards)
 

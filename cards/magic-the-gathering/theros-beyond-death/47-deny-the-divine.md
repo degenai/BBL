@@ -51,6 +51,7 @@ oracle_text: Counter target creature or enchantment spell. If that spell is coun
 tags:
   - card
   - vision-passed
+mana_cost: {2}{U}
 ---
 # Deny the Divine (Theros Beyond Death)
 

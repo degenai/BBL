@@ -54,6 +54,7 @@ oracle_text: Haste (This creature can attack and {T} as soon as it comes under y
 tags:
   - card
   - vision-passed
+mana_cost: {2}{R}
 ---
 # Bolt Hound (Core Set 2021)
 

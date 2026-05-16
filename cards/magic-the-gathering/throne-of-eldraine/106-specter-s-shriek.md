@@ -53,6 +53,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {B}
 ---
 # Specter's Shriek (Throne of Eldraine)
 

@@ -55,6 +55,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {G}
 ---
 # Patchwork Beastie (Duskmourn: House of Horror)
 

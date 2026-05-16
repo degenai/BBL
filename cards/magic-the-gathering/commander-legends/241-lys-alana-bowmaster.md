@@ -53,6 +53,7 @@ oracle_text: Reach\nWhenever you cast an Elf spell, you may have this creature d
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Lys Alana Bowmaster (Commander Legends)
 

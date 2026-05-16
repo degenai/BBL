@@ -57,6 +57,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {R}
 ---
 # Norin, Swift Survivalist (0297) (Duskmourn: House of Horror)
 

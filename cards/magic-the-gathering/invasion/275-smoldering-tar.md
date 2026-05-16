@@ -45,6 +45,7 @@ oracle_text: "At the beginning of your upkeep, target player loses 1 life.\\nSac
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}{R}
 ---
 # Smoldering Tar (Invasion)
 

@@ -56,6 +56,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {U}
 ---
 # Mistway Spy (Murders at Karlov Manor)
 

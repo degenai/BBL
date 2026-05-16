@@ -54,6 +54,7 @@ oracle_text: Exile target creature you control, then return that card to the bat
 tags:
   - card
   - vision-passed
+mana_cost: {2}{W}
 ---
 # Acrobatic Maneuver (Mystery Booster Cards)
 

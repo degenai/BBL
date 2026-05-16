@@ -57,6 +57,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{B}
 ---
 # Malefic Scythe (Core Set 2021)
 

@@ -54,6 +54,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {4}{U}
 ---
 # Prosperous Pirates (Commander Legends)
 

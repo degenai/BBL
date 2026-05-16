@@ -55,6 +55,7 @@ oracle_text: "{T}, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life
 tags:
   - card
   - vision-passed
+mana_cost: {1}{B}
 ---
 # Tavern Swindler (Core Set 2021)
 

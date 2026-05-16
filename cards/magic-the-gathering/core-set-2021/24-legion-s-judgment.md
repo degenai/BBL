@@ -54,6 +54,7 @@ oracle_text: Destroy target creature with power 4 or greater.
 tags:
   - card
   - vision-passed
+mana_cost: {2}{W}
 ---
 # Legion's Judgment (Core Set 2021)
 

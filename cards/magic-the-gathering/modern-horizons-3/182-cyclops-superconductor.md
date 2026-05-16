@@ -48,6 +48,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}{R}
 ---
 # Cyclops Superconductor (Modern Horizons 3)
 

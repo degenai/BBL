@@ -52,6 +52,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {5}{W}
 ---
 # Anointer of Valor (Commander Legends)
 

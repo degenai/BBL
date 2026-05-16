@@ -52,6 +52,7 @@ oracle_text: Choose one —\n• Draw cards equal to the greatest power among no
 tags:
   - card
   - vision-passed
+mana_cost: {4}{G}
 ---
 # Return of the Wildspeaker (Throne of Eldraine)
 

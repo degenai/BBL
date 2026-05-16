@@ -53,6 +53,7 @@ oracle_text: "Creatures your opponents control get -1/-0.\\n{1}{U}, Discard this
 tags:
   - card
   - vision-passed
+mana_cost: {5}{U}{U}
 ---
 # Waker of Waves (The List)
 

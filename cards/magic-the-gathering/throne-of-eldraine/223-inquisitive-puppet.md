@@ -52,6 +52,7 @@ oracle_text: "When this creature enters, scry 1.\\nExile this creature: Create a
 tags:
   - card
   - vision-passed
+mana_cost: {1}
 ---
 # Inquisitive Puppet (Throne of Eldraine)
 

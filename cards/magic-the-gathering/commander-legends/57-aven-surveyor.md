@@ -53,6 +53,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {3}{U}{U}
 ---
 # Aven Surveyor (Commander Legends)
 

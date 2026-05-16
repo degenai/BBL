@@ -54,6 +54,7 @@ oracle_text: "{4}{U}: This creature gets +1/+0 until end of turn and can't be bl
 tags:
   - card
   - vision-passed
+mana_cost: {2}{U}
 ---
 # Seafloor Stalker (Zendikar Rising)
 

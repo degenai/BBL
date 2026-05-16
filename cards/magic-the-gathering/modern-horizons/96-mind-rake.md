@@ -51,6 +51,7 @@ setting: void
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}
 ---
 # Mind Rake (Modern Horizons)
 

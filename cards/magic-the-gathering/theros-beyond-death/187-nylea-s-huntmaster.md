@@ -55,6 +55,7 @@ oracle_text: When this creature enters, target creature you control gets +X/+0 u
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}
 ---
 # Nylea's Huntmaster (Theros Beyond Death)
 

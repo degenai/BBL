@@ -54,6 +54,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {5}{B}{B}
 ---
 # Gloom Sower (Core Set 2021)
 

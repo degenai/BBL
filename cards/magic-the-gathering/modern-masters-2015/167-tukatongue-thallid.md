@@ -51,6 +51,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {G}
 ---
 # Tukatongue Thallid (Modern Masters 2015)
 

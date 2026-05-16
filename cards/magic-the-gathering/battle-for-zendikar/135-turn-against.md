@@ -53,6 +53,7 @@ setting: mountain
 tags:
   - card
   - vision-passed
+mana_cost: {4}{R}
 ---
 # Turn Against (Battle for Zendikar)
 

@@ -51,6 +51,7 @@ setting: dungeon
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Prowler's Helm (Theros)
 

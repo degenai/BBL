@@ -53,6 +53,7 @@ oracle_text: "This artifact enters with three charge counters on it.\\n{T}, Remo
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Tumble Magnet (Modern Masters 2015)
 

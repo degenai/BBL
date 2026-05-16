@@ -58,6 +58,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {1}{R}
 ---
 # Chandra's Pyrohelix (War of the Spark)
 

@@ -50,6 +50,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {3}{R}
 ---
 # Crash and Burn (Aetherdrift)
 

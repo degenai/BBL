@@ -49,6 +49,7 @@ setting: mountain
 tags:
   - card
   - vision-passed
+mana_cost: {3}{W}
 ---
 # Guardian of the Forgotten (Modern Horizons 3)
 

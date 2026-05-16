@@ -54,6 +54,7 @@ oracle_text: This creature attacks each combat if able.\nThis creature can't be 
 tags:
   - card
   - vision-passed
+mana_cost: {4}
 ---
 # Juggernaut (Magic 2015 (M15))
 

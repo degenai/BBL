@@ -54,6 +54,7 @@ oracle_text: "{3}, {T}, Sacrifice this artifact: It deals 3 damage to target cre
 tags:
   - card
   - vision-passed
+mana_cost: {1}
 ---
 # Scalding Cauldron (Throne of Eldraine)
 

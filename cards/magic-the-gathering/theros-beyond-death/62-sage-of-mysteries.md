@@ -31,5 +31,6 @@ image_height: 1040
 image_quality: high
 tags:
   - card
+mana_cost: {U}
 ---
 # Sage of Mysteries (Theros Beyond Death)

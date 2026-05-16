@@ -48,6 +48,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {4}{W}
 ---
 # Ghostly Sentinel (Battle for Zendikar)
 

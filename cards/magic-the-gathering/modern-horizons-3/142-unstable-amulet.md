@@ -46,6 +46,7 @@ setting: void
 tags:
   - card
   - vision-passed
+mana_cost: {1}{R}
 ---
 # Unstable Amulet (Modern Horizons 3)
 

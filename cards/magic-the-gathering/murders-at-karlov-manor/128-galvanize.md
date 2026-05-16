@@ -49,6 +49,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{R}
 ---
 # Galvanize (Murders at Karlov Manor)
 

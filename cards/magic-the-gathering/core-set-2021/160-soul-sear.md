@@ -56,6 +56,7 @@ oracle_text: Soul Sear deals 5 damage to target creature or planeswalker. That p
 tags:
   - card
   - vision-passed
+mana_cost: {2}{R}
 ---
 # Soul Sear (Core Set 2021)
 

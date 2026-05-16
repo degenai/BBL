@@ -49,6 +49,7 @@ setting: void
 tags:
   - card
   - vision-passed
+mana_cost: {8}
 ---
 # Ulamog's Crusher (Ultimate Masters)
 

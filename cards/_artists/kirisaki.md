@@ -95,7 +95,7 @@ kirisAki's portfolio in corpus does not (yet) anchor a thesis-tier hub the way S
 - [[037-192-galarian-mr-mime]]
 - [[038-185-chewtle]]
 - [[148-185-beauty]]
-- [[148-185-beauty--reverse-holofoilrelated_hubs: []]]
+- [[148-185-beauty--reverse-holofoil]]
 ## See also
 
 - [[sanosuke-sakuma]] — sibling Pokemon-side artist node; structural precedent for this node. Sakuma's portfolio extends across TCG illustration AND in-game NPC character design (cross-medium); kirisAki's does not. The structural pattern (Pokemon-side single-medium illustrator with corpus-volume threshold cleared) is the same; the cross-medium thesis-bridge is absent here.

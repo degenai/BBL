@@ -55,6 +55,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {B}
 ---
 # Festerleech (Murders at Karlov Manor)
 

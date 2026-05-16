@@ -58,6 +58,7 @@ oracle_text: Indestructible\nAs long as your devotion to white and black is less
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}{B}
 ---
 # Athreos, God of Passage (Mystery Booster Cards)
 

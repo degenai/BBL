@@ -58,6 +58,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {2}{G} // {5}{G}
 ---
 # Moldering Gym // Weight Room (Duskmourn: House of Horror)
 

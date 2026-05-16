@@ -53,6 +53,7 @@ oracle_text: Beanstalk Giant's power and toughness are each equal to the number 
 tags:
   - card
   - vision-passed
+mana_cost: {6}{G} // {2}{G}
 ---
 # Beanstalk Giant (Throne of Eldraine)
 

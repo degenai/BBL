@@ -57,6 +57,7 @@ oracle_text: Whenever this creature or another creature you control dies, scry 1
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}
 ---
 # Warteye Witch (Mystery Booster Cards)
 

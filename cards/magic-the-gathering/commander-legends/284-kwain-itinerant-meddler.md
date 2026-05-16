@@ -52,6 +52,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {W}{U}
 ---
 # Kwain, Itinerant Meddler (Commander Legends)
 

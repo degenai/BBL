@@ -59,6 +59,7 @@ oracle_text: Target creature gets +1/+0 until end of turn.\nDraw a card.
 tags:
   - card
   - vision-passed
+mana_cost: {W}
 ---
 # Defiant Strike (Core Set 2021)
 

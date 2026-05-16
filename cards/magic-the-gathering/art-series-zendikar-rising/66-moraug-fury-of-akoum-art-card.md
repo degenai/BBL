@@ -30,6 +30,7 @@ tags:
   - card
   - manual-review
 
+mana_cost: {4}{R}{R}
 ---
 # Moraug, Fury of Akoum Art Card (Art Series: Zendikar Rising)
 

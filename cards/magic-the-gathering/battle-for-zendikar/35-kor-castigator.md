@@ -51,6 +51,7 @@ setting: dungeon
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Kor Castigator (Battle for Zendikar)
 

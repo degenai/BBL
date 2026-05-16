@@ -56,6 +56,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {4}{R}{R}
 ---
 # Fear of Burning Alive (Duskmourn: House of Horror)
 

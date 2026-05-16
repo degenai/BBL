@@ -54,6 +54,7 @@ oracle_text: When this creature enters, you become the monarch.\nThis creature c
 tags:
   - card
   - vision-passed
+mana_cost: {4}{G}
 ---
 # Entourage of Trest (Commander Legends)
 

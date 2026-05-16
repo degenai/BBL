@@ -54,6 +54,7 @@ oracle_text: Target creature gets +3/+0 and gains first strike until end of turn
 tags:
   - card
   - vision-passed
+mana_cost: {1}{R}
 ---
 # Sure Strike (Core Set 2021)
 

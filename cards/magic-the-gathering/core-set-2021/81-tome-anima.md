@@ -53,6 +53,7 @@ oracle_text: This creature can't be blocked as long as you've drawn two or more 
 tags:
   - card
   - vision-passed
+mana_cost: {3}{U}
 ---
 # Tome Anima (Core Set 2021)
 

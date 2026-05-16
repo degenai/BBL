@@ -54,6 +54,7 @@ oracle_text: "Equipped creature gets +1/+1.\\nEquip {1} ({1}: Attach to target c
 tags:
   - card
   - vision-passed
+mana_cost: {1}
 ---
 # Short Sword (Core Set 2021)
 

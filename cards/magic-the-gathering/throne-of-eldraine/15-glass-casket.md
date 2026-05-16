@@ -54,6 +54,7 @@ oracle_text: When this artifact enters, exile target creature an opponent contro
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Glass Casket (Throne of Eldraine)
 

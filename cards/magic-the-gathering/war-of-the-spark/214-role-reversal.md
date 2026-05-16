@@ -51,6 +51,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {U}{U}{R}
 ---
 # Role Reversal (War of the Spark)
 

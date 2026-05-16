@@ -55,6 +55,7 @@ setting: dungeon
 tags:
   - card
   - vision-passed
+mana_cost: {3}{B}{R}
 ---
 # Shady Informant (Murders at Karlov Manor)
 

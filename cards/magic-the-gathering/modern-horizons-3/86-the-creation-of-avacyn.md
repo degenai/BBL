@@ -58,6 +58,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {1}{B}{B}
 ---
 # The Creation of Avacyn (Modern Horizons 3)
 

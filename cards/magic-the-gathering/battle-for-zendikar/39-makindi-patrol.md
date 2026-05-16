@@ -50,6 +50,7 @@ setting: mountain
 tags:
   - card
   - vision-passed
+mana_cost: {2}{W}
 ---
 # Makindi Patrol (Battle for Zendikar)
 

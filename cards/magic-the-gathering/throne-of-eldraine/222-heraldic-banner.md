@@ -52,6 +52,7 @@ oracle_text: "As this artifact enters, choose a color.\\nCreatures you control o
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Heraldic Banner (Throne of Eldraine)
 

@@ -55,6 +55,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {2}{R}{R}
 ---
 # Chandra, Fire Artisan (War of the Spark)
 

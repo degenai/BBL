@@ -56,6 +56,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {W}
 ---
 # Indebted Spirit (Modern Horizons 3)
 

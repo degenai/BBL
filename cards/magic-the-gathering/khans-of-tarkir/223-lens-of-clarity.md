@@ -53,6 +53,7 @@ oracle_text: You may look at the top card of your library and at face-down creat
 tags:
   - card
   - vision-passed
+mana_cost: {1}
 ---
 # Lens of Clarity (Khans of Tarkir)
 

@@ -53,6 +53,7 @@ oracle_text: "{T}: Add {C}.\\n{1}, {T}: Add one mana of any color."
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Prismatic Lens (Ultimate Masters)
 

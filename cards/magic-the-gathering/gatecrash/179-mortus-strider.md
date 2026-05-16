@@ -55,6 +55,7 @@ oracle_text: When this creature dies, return it to its owner's hand.
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}{B}
 ---
 # Mortus Strider (Gatecrash)
 

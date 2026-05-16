@@ -56,6 +56,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {2}{U}
 ---
 # Furtive Courier (Murders at Karlov Manor)
 

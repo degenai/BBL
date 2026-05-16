@@ -54,6 +54,7 @@ oracle_text: Manifest the top card of your library, then put two +1/+1 counters 
 tags:
   - card
   - vision-passed
+mana_cost: {4}{R}
 ---
 # Fierce Invocation (Mystery Booster Cards)
 

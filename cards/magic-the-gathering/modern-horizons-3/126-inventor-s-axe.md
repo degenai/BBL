@@ -30,5 +30,6 @@ image_height: 1040
 image_quality: high
 tags:
   - card
+mana_cost: {R}
 ---
 # Inventor's Axe (Modern Horizons 3)

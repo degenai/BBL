@@ -54,6 +54,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{G}
 ---
 # Fanatical Strength (Murders at Karlov Manor)
 

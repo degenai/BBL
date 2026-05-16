@@ -54,6 +54,7 @@ oracle_text: Defender (This creature can't attack.)
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Guardians of Meletis (Theros)
 

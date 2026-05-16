@@ -52,6 +52,7 @@ oracle_text: "Each creature you control with a +1/+1 counter on it has \\\"{T}: 
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Jiang Yanggu, Wildcrafter (War of the Spark)
 

@@ -53,6 +53,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Pompous Gadabout (Murders at Karlov Manor)
 

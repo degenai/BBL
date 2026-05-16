@@ -55,6 +55,7 @@ oracle_text: "{T}: Add {B} or {R}.\\n{B/R}{B/R}{B/R}{B/R}, {T}, Sacrifice this a
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Rakdos Locket (Ravnica Allegiance)
 

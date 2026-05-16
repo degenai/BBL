@@ -55,6 +55,7 @@ oracle_text: Flying\nWhen this creature enters, amass Zombies 1. (Put a +1/+1 co
 tags:
   - card
   - vision-passed
+mana_cost: {2}{U}
 ---
 # Aven Eternal (War of the Spark)
 

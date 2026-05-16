@@ -60,6 +60,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}{B}
 ---
 # Sanguine Savior (Murders at Karlov Manor)
 

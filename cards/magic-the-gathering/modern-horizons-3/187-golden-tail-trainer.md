@@ -51,6 +51,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}{W}
 ---
 # Golden-Tail Trainer (Modern Horizons 3)
 

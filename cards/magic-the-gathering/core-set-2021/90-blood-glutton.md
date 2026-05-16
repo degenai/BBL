@@ -53,6 +53,7 @@ oracle_text: Lifelink (Damage dealt by this creature also causes you to gain tha
 tags:
   - card
   - vision-passed
+mana_cost: {4}{B}
 ---
 # Blood Glutton (Core Set 2021)
 

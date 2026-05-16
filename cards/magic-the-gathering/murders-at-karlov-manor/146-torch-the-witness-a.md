@@ -55,6 +55,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {X}{R}
 ---
 # Torch the Witness (a) (Murders at Karlov Manor)
 

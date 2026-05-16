@@ -52,6 +52,7 @@ oracle_text: "Myojin of Seeing Winds enters with a divinity counter on it if you
 tags:
   - card
   - vision-passed
+mana_cost: {7}{U}{U}{U}
 ---
 # Myojin of Seeing Winds (Champions of Kamigawa)
 

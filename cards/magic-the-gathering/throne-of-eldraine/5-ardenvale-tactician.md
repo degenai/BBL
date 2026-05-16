@@ -55,6 +55,7 @@ flavor_text: In a castle that prizes loyalty above all, the bond between knight 
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}{W} // {1}{W}
 ---
 # Ardenvale Tactician (Throne of Eldraine)
 

@@ -52,6 +52,7 @@ oracle_text: Reach\nWhen this creature enters, you may discard a card or pay {2}
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}
 ---
 # Anthropede (Duskmourn: House of Horror)
 

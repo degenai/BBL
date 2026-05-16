@@ -56,6 +56,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {2}{W}
 ---
 # Teyo's Lightshield (War of the Spark)
 

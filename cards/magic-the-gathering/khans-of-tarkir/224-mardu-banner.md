@@ -58,6 +58,7 @@ oracle_text: "{T}: Add {R}, {W}, or {B}.\\n{R}{W}{B}, {T}, Sacrifice this artifa
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Mardu Banner (Khans of Tarkir)
 

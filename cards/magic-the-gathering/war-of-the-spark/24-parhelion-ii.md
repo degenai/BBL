@@ -50,6 +50,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {6}{W}{W}
 ---
 # Parhelion II (War of the Spark)
 

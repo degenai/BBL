@@ -54,6 +54,7 @@ oracle_text: Trample\nWhenever Neheb deals combat damage to a player or planeswa
 tags:
   - card
   - vision-passed
+mana_cost: {2}{R}{R}
 ---
 # Neheb, Dreadhorde Champion (War of the Spark)
 

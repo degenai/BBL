@@ -52,6 +52,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {B}{B}
 ---
 # Grasp of Darkness (Core Set 2021)
 

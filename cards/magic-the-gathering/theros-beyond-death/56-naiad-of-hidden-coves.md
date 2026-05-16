@@ -53,6 +53,7 @@ oracle_text: During turns other than yours, spells you cast cost {1} less to cas
 tags:
   - card
   - vision-passed
+mana_cost: {2}{U}
 ---
 # Naiad of Hidden Coves (Theros Beyond Death)
 

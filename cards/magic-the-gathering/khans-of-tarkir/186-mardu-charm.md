@@ -55,6 +55,7 @@ oracle_text: Choose one —\n• Mardu Charm deals 4 damage to target creature.\
 tags:
   - card
   - vision-passed
+mana_cost: {R}{W}{B}
 ---
 # Mardu Charm (Khans of Tarkir)
 

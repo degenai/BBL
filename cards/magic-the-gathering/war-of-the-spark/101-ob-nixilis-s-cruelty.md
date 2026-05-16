@@ -58,6 +58,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {2}{B}
 ---
 # Ob Nixilis's Cruelty (War of the Spark)
 

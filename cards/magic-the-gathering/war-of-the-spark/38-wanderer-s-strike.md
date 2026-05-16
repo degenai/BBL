@@ -63,6 +63,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {4}{W}
 ---
 # Wanderer's Strike (War of the Spark)
 

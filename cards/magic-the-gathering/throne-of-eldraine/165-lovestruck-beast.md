@@ -49,6 +49,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G} // {G}
 ---
 # Lovestruck Beast (Throne of Eldraine)
 

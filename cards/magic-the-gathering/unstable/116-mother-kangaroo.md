@@ -50,6 +50,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {4}{G}
 ---
 # Mother Kangaroo (Unstable)
 

@@ -55,6 +55,7 @@ setting: dungeon
 tags:
   - card
   - vision-passed
+mana_cost: {1}{B}{B}
 ---
 # Join the Dead (The Lost Caverns of Ixalan)
 

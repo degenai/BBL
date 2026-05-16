@@ -53,6 +53,7 @@ oracle_text: Target creature gets +2/+1 and gains haste until end of turn. Scry 
 tags:
   - card
   - vision-passed
+mana_cost: {R}
 ---
 # Samut's Sprint (War of the Spark)
 

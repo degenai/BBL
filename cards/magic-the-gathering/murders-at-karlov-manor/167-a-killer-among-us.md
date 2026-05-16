@@ -51,6 +51,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {4}{G}
 ---
 # A Killer Among Us (Murders at Karlov Manor)
 

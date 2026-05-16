@@ -51,6 +51,7 @@ oracle_text: When this creature enters, you may search your library for a creatu
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Fierce Empath (Core Set 2021)
 

@@ -52,6 +52,7 @@ oracle_text: "{8}: This creature has base power and toughness 10/10 until end of
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Bramblefort Fink (Throne of Eldraine)
 

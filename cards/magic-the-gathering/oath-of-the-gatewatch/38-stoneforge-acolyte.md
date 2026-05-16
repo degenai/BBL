@@ -55,6 +55,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {W}
 ---
 # Stoneforge Acolyte (Oath of the Gatewatch)
 

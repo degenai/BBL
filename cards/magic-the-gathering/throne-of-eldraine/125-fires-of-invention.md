@@ -54,6 +54,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {3}{R}
 ---
 # Fires of Invention (Throne of Eldraine)
 

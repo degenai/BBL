@@ -53,6 +53,7 @@ oracle_text: This spell costs {X} less to cast, where X is your devotion to blac
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}{B}
 ---
 # Drag to the Underworld (Theros Beyond Death)
 

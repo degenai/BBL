@@ -56,6 +56,7 @@ oracle_text: Flying\nWhen this creature enters, look at the top card of target o
 tags:
   - card
   - vision-passed
+mana_cost: {4}
 ---
 # Saheeli's Silverwing (War of the Spark)
 

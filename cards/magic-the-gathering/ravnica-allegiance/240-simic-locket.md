@@ -56,6 +56,7 @@ oracle_text: "{T}: Add {G} or {U}.\\n{G/U}{G/U}{G/U}{G/U}, {T}, Sacrifice this a
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Simic Locket (Ravnica Allegiance)
 

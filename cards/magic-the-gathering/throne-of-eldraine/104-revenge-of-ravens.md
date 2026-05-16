@@ -56,6 +56,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {3}{B}
 ---
 # Revenge of Ravens (Throne of Eldraine)
 

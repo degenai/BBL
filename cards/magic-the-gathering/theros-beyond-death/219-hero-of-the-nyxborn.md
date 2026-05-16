@@ -57,6 +57,7 @@ oracle_text: When this creature enters, create a 1/1 white Human Soldier creatur
 tags:
   - card
   - vision-passed
+mana_cost: {1}{R}{W}
 ---
 # Hero of the Nyxborn (Theros Beyond Death)
 

@@ -57,6 +57,7 @@ oracle_text: Draw two cards.\nAddendum — If you cast this spell during your ma
 tags:
   - card
   - vision-passed
+mana_cost: {2}{W}{U}
 ---
 # Sphinx's Insight (Ravnica Allegiance)
 

@@ -56,6 +56,7 @@ oracle_text: "{1}{W}, Exile this card from your graveyard: Create a 1/1 white Sp
 tags:
   - card
   - vision-passed
+mana_cost: {2}{W}
 ---
 # Dauntless Cathar (Mystery Booster Cards)
 

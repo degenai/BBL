@@ -56,6 +56,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {2}{W}
 ---
 # Patched Plaything (Duskmourn: House of Horror)
 

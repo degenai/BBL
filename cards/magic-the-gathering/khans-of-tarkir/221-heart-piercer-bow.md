@@ -54,6 +54,7 @@ oracle_text: "Whenever equipped creature attacks, this Equipment deals 1 damage 
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Heart-Piercer Bow (Khans of Tarkir)
 

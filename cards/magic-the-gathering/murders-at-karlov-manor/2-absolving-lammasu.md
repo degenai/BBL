@@ -52,6 +52,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {4}{W}
 ---
 # Absolving Lammasu (Murders at Karlov Manor)
 

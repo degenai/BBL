@@ -54,6 +54,7 @@ setting: desert
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Immolating Glare (Oath of the Gatewatch)
 

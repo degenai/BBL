@@ -56,6 +56,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {2}{U}
 ---
 # Fall from Favor (Commander Legends)
 

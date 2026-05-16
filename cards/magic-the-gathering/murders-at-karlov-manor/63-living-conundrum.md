@@ -54,6 +54,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {4}{U}
 ---
 # Living Conundrum (Murders at Karlov Manor)
 

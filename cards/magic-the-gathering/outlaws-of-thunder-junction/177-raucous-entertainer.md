@@ -53,6 +53,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Raucous Entertainer (Outlaws of Thunder Junction)
 

@@ -54,6 +54,7 @@ oracle_text: When this creature enters, proliferate. (Choose any number of perma
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}
 ---
 # Bloom Hulk (War of the Spark)
 

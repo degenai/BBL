@@ -49,6 +49,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Glyph Elemental (Modern Horizons 3)
 

@@ -53,6 +53,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Haunted Screen (Duskmourn: House of Horror)
 

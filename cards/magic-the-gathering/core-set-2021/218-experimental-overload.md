@@ -54,6 +54,7 @@ oracle_text: Create an X/X blue and red Weird creature token, where X is the num
 tags:
   - card
   - vision-passed
+mana_cost: {2}{U}{R}
 ---
 # Experimental Overload (Core Set 2021)
 

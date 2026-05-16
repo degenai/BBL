@@ -56,6 +56,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {3}{W}
 ---
 # Savior of the Small (Duskmourn: House of Horror)
 

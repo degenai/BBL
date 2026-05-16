@@ -53,6 +53,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {2}{W}
 ---
 # Case File Auditor (b) (Murders at Karlov Manor)
 

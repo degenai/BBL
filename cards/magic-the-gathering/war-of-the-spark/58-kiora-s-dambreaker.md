@@ -59,6 +59,7 @@ tags:
   - card
   - vision-passed
   - ip-verified
+mana_cost: {5}{U}
 ---
 # Kiora's Dambreaker (War of the Spark)
 

@@ -54,6 +54,7 @@ setting: desert
 tags:
   - card
   - vision-passed
+mana_cost: {3}{W}
 ---
 # Smite the Monstrous (Battle for Zendikar)
 

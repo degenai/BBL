@@ -54,6 +54,7 @@ oracle_text: "{T}: Roll a six-sided die. On a 3 or lower, target player adds {C}
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Mad Science Fair Project (Unstable)
 

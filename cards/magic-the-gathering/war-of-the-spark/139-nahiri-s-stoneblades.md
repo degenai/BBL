@@ -51,6 +51,7 @@ oracle_text: Up to two target creatures each get +2/+0 until end of turn.
 tags:
   - card
   - vision-passed
+mana_cost: {1}{R}
 ---
 # Nahiri's Stoneblades (War of the Spark)
 

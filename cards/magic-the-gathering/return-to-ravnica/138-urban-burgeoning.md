@@ -53,6 +53,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {G}
 ---
 # Urban Burgeoning (Return to Ravnica)
 

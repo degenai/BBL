@@ -54,6 +54,7 @@ oracle_text: Adamant — If at least three mana of the same color was spent to c
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Henge Walker (Throne of Eldraine)
 

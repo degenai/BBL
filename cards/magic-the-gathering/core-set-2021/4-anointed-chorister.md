@@ -58,6 +58,7 @@ oracle_text: "Lifelink (Damage dealt by this creature also causes you to gain th
 tags:
   - card
   - vision-passed
+mana_cost: {W}
 ---
 # Anointed Chorister (Core Set 2021)
 

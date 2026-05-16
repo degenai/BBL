@@ -54,6 +54,7 @@ oracle_text: Defender (This creature can't attack.)\nFirst strike
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Wall of Spears (Fifth Edition)
 

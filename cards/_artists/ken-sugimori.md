@@ -150,7 +150,7 @@ These thesis frames are independent of [[labor]] (the Sakuma bridge); Sugimori's
 - [[83-stunfisk]]
 - [[62-lillie]]
 - [[5-236-shroomish]]
-- [[154-185-leon--holofoilrelated_hubs: []]]
+- [[154-185-leon--holofoil]]
 ## See also
 
 - [[sanosuke-sakuma]] — sibling Pokemon-side artist node; cross-medium portfolio at the trainer-class-NPC scope (Sakuma designed Galar NPC trainer classes). Sugimori's cross-medium portfolio operates at the franchise-art-director scope. Different scale, structurally parallel justification for the node. Sakuma anchors the [[labor]] hub bridge; Sugimori does not (the franchise-art-director register doesn't subordinate cleanly to a single thesis hub).

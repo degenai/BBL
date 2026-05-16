@@ -54,6 +54,7 @@ oracle_text: "{2}: This creature gets +1/+0 until end of turn."
 tags:
   - card
   - vision-passed
+mana_cost: {5}
 ---
 # Narstad Scrapper (Avacyn Restored)
 

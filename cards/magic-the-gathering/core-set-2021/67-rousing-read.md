@@ -53,6 +53,7 @@ oracle_text: Enchant creature\nWhen this Aura enters, draw two cards, then disca
 tags:
   - card
   - vision-passed
+mana_cost: {2}{U}
 ---
 # Rousing Read (Core Set 2021)
 

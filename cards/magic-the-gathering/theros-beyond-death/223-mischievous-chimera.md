@@ -57,6 +57,7 @@ oracle_text: Flying\nWhenever you cast your first spell during each opponent's t
 tags:
   - card
   - vision-passed
+mana_cost: {U}{R}
 ---
 # Mischievous Chimera (Theros Beyond Death)
 

@@ -53,6 +53,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {2}{R}
 ---
 # Touch of the Void (Battle for Zendikar)
 

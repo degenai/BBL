@@ -55,6 +55,7 @@ oracle_text: Choose a nonland card name. Target player reveals their hand and di
 tags:
   - card
   - vision-passed
+mana_cost: {B}
 ---
 # Cabal Therapy (Mystery Booster Cards)
 

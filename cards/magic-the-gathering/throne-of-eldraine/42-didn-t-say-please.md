@@ -55,6 +55,7 @@ oracle_text: Counter target spell. Its controller mills three cards.
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}{U}
 ---
 # Didn't Say Please (Throne of Eldraine)
 

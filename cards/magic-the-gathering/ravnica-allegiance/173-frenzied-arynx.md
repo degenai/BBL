@@ -50,6 +50,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {2}{R}{G}
 ---
 # Frenzied Arynx (Ravnica Allegiance)
 

@@ -52,6 +52,7 @@ oracle_text: "Search your library for a basic land card, put it onto the battlef
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # They Went This Way (Murders at Karlov Manor)
 

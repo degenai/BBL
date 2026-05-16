@@ -53,6 +53,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {3}{W}
 ---
 # Karlov Watchdog (Murders at Karlov Manor)
 

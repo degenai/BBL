@@ -53,6 +53,7 @@ setting: mountain
 tags:
   - card
   - vision-passed
+mana_cost: {1}{R}
 ---
 # Sure Strike (Battle for Zendikar)
 

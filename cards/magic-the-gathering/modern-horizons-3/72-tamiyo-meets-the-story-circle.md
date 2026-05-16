@@ -59,6 +59,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {1}{U}
 ---
 # Tamiyo Meets the Story Circle (Modern Horizons 3)
 

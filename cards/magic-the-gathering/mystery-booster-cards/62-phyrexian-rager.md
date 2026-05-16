@@ -57,6 +57,7 @@ oracle_text: When this creature enters, you draw a card and you lose 1 life.
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}
 ---
 # Phyrexian Rager (Mystery Booster Cards)
 

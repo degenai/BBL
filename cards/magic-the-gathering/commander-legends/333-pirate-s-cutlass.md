@@ -52,6 +52,7 @@ oracle_text: "When this Equipment enters, attach it to target Pirate you control
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Pirate's Cutlass (Commander Legends)
 

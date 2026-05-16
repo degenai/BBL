@@ -55,6 +55,7 @@ oracle_text: "Discard a card: Regenerate this creature. (The next time this crea
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Patchwork Gnomes (Ultimate Masters)
 

@@ -53,6 +53,7 @@ flavor_text: "\\\"It certainly takes after its master: big and brutish, and you 
 tags:
   - card
   - vision-passed
+mana_cost: {4}{G}
 ---
 # Garruk's Gorehorn (Core Set 2021)
 

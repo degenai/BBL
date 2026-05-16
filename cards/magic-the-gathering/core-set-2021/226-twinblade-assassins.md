@@ -56,6 +56,7 @@ oracle_text: At the beginning of your end step, if a creature died this turn, dr
 tags:
   - card
   - vision-passed
+mana_cost: {3}{B}{G}
 ---
 # Twinblade Assassins (Core Set 2021)
 

@@ -52,6 +52,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {3}{W}
 ---
 # Lassoed by the Law (Outlaws of Thunder Junction)
 

@@ -52,6 +52,7 @@ setting: mountain
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Tandem Tactics (Battle for Zendikar)
 

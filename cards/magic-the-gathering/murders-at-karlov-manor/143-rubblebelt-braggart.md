@@ -52,6 +52,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {4}{R}
 ---
 # Rubblebelt Braggart (Murders at Karlov Manor)
 

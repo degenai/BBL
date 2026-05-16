@@ -54,6 +54,7 @@ oracle_text: Flash\nDeathtouch
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Ambush Viper (Commander Legends)
 

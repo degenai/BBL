@@ -51,6 +51,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Sparkhunter Masticore (Core Set 2021)
 

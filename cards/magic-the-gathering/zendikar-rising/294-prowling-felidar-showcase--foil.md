@@ -57,6 +57,7 @@ oracle_text: Vigilance\nLandfall — Whenever a land you control enters, put a +
 tags:
   - card
   - vision-passed
+mana_cost: {3}{W}
 ---
 # Prowling Felidar (Showcase) (Zendikar Rising)
 

@@ -51,6 +51,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {R}
 ---
 # Goblin Maskmaker (Murders at Karlov Manor)
 

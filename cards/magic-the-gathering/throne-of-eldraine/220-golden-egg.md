@@ -51,6 +51,7 @@ oracle_text: "When this artifact enters, draw a card.\\n{1}, {T}, Sacrifice this
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Golden Egg (Throne of Eldraine)
 

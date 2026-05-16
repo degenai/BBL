@@ -52,6 +52,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {B}
 ---
 # Valgavoth's Faithful (Duskmourn: House of Horror)
 

@@ -53,6 +53,7 @@ oracle_text: Target opponent reveals their hand. You choose a nonland card from 
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}
 ---
 # Memory Theft (Throne of Eldraine)
 

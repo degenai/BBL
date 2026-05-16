@@ -51,6 +51,7 @@ oracle_text: When this creature enters, search your library for a basic land car
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Spineseeker Centipede (Duskmourn: House of Horror)
 

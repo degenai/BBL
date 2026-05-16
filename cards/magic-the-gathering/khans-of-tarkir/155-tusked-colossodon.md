@@ -52,6 +52,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {4}{G}{G}
 ---
 # Tusked Colossodon (Khans of Tarkir)
 

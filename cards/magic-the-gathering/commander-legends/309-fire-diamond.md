@@ -53,6 +53,7 @@ oracle_text: "This artifact enters tapped.\\n{T}: Add {R}."
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Fire Diamond (Commander Legends)
 

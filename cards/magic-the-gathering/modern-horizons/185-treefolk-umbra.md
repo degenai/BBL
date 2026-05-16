@@ -50,6 +50,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Treefolk Umbra (Modern Horizons)
 

@@ -58,6 +58,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {2}{R}{R}
 ---
 # Ondu Champion (Battle for Zendikar)
 

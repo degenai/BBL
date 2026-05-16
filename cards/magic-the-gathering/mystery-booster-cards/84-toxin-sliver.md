@@ -54,6 +54,7 @@ oracle_text: Whenever a Sliver deals combat damage to a creature, destroy that c
 tags:
   - card
   - vision-passed
+mana_cost: {3}{B}
 ---
 # Toxin Sliver (Mystery Booster Cards)
 

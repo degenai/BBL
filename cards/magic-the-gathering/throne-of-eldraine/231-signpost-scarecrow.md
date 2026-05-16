@@ -54,6 +54,7 @@ oracle_text: "Vigilance\\n{2}: Add one mana of any color."
 tags:
   - card
   - vision-passed
+mana_cost: {4}
 ---
 # Signpost Scarecrow (Throne of Eldraine)
 

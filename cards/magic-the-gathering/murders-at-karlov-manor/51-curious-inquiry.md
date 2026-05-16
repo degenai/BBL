@@ -53,6 +53,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {U}
 ---
 # Curious Inquiry (Murders at Karlov Manor)
 

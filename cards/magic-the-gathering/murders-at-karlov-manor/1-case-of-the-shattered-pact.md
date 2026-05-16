@@ -54,6 +54,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {2}
 ---
 # Case of the Shattered Pact (Murders at Karlov Manor)
 

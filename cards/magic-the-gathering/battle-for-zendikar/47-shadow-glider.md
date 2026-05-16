@@ -52,6 +52,7 @@ setting: dungeon
 tags:
   - card
   - vision-passed
+mana_cost: {2}{W}
 ---
 # Shadow Glider (Battle for Zendikar)
 

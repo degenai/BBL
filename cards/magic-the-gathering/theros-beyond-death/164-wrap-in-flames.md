@@ -28,6 +28,7 @@ tags:
   - card
   - manual-review
 
+mana_cost: {3}{R}
 ---
 # Wrap in Flames (Theros Beyond Death)
 

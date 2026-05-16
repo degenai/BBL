@@ -52,6 +52,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-pending
+mana_cost: {2}{R}
 ---
 # Phyrexian Ironworks (Modern Horizons 3)
 

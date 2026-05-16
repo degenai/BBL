@@ -55,6 +55,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W} // {3}{W}
 ---
 # Surgical Suite // Hospital Room (Duskmourn: House of Horror)
 

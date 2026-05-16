@@ -54,6 +54,7 @@ oracle_text: Disguise {5}{G} (You may cast this card face down for {3} as a 2/2 
 tags:
   - card
   - vision-passed
+mana_cost: {4}{G}
 ---
 # Vengeful Creeper (Murders at Karlov Manor)
 

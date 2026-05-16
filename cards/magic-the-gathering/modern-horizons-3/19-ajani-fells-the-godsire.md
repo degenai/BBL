@@ -54,6 +54,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {3}{W}{W}
 ---
 # Ajani Fells the Godsire (Modern Horizons 3)
 

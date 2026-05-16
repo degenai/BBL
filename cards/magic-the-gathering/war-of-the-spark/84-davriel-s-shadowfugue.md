@@ -54,6 +54,7 @@ oracle_text: Target player discards two cards and loses 2 life.
 tags:
   - card
   - vision-passed
+mana_cost: {3}{B}
 ---
 # Davriel's Shadowfugue (War of the Spark)
 

@@ -49,6 +49,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {5}{G}
 ---
 # Vastwood Gorger (Magic 2012 (M12))
 

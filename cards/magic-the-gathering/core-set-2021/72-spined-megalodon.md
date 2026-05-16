@@ -52,6 +52,7 @@ oracle_text: Hexproof (This creature can't be the target of spells or abilities 
 tags:
   - card
   - vision-passed
+mana_cost: {5}{U}{U}
 ---
 # Spined Megalodon (Core Set 2021)
 

@@ -55,6 +55,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}{B}
 ---
 # Faerie Snoop (Murders at Karlov Manor)
 

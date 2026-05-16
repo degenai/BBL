@@ -57,6 +57,7 @@ oracle_text: Deathtouch\nWhenever this creature enters or attacks, create two 2/
 tags:
   - card
   - vision-passed
+mana_cost: {4}{B}{B}
 ---
 # Grave Titan (Mystery Booster Cards)
 

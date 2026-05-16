@@ -54,6 +54,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Titanic Growth (Magic 2013 (M13))
 

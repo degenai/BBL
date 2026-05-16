@@ -55,6 +55,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {3}{R}{R}
 ---
 # Nyxborn Brute (Theros Beyond Death)
 

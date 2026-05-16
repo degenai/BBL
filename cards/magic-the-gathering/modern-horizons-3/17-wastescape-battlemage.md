@@ -56,6 +56,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {1}{C}
 ---
 # Wastescape Battlemage (Modern Horizons 3)
 

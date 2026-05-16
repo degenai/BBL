@@ -53,6 +53,7 @@ oracle_text: "This artifact enters tapped.\\n{T}: Add {B}."
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Charcoal Diamond (Commander Legends)
 

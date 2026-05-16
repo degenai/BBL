@@ -54,6 +54,7 @@ oracle_text: When this creature enters or is turned face up, target creature blo
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}{G}
 ---
 # Culvert Ambusher (Showcase) (Murders at Karlov Manor)
 

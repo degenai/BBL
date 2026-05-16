@@ -49,6 +49,7 @@ setting: ocean
 tags:
   - card
   - vision-passed
+mana_cost: {U}
 ---
 # Triton Wavebreaker (Modern Horizons 3)
 

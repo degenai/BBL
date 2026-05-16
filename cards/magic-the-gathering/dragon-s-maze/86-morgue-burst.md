@@ -55,6 +55,7 @@ oracle_text: Return target creature card from your graveyard to your hand. Morgu
 tags:
   - card
   - vision-passed
+mana_cost: {4}{B}{R}
 ---
 # Morgue Burst (Dragon's Maze)
 

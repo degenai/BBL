@@ -51,6 +51,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {3}{W}{W}
 ---
 # Voltstorm Angel (Modern Horizons 3)
 

@@ -52,6 +52,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Perimeter Enforcer (Murders at Karlov Manor)
 

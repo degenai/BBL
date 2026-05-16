@@ -50,6 +50,7 @@ setting: ocean
 tags:
   - card
   - vision-passed
+mana_cost: {8}
 ---
 # Vexing Scuttler (Eldritch Moon)
 

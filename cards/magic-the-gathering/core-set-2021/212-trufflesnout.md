@@ -54,6 +54,7 @@ oracle_text: When this creature enters, choose one —\n• Put a +1/+1 counter 
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Trufflesnout (Core Set 2021)
 

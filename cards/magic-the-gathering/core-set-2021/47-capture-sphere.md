@@ -49,6 +49,7 @@ oracle_text: Flash (You may cast this spell any time you could cast an instant.)
 tags:
   - card
   - vision-passed
+mana_cost: {3}{U}
 ---
 # Capture Sphere (Core Set 2021)
 

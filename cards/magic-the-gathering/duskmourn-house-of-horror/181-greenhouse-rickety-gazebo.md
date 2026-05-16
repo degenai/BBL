@@ -56,6 +56,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G} // {3}{G}
 ---
 # Greenhouse // Rickety Gazebo (Duskmourn: House of Horror)
 

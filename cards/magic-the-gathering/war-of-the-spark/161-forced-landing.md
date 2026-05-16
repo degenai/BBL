@@ -54,6 +54,7 @@ oracle_text: Put target creature with flying on the bottom of its owner's librar
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Forced Landing (War of the Spark)
 

@@ -52,6 +52,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {3}{W}
 ---
 # Bartered Cow (Mystery Booster Cards)
 

@@ -57,6 +57,7 @@ oracle_text: Flying, vigilance\nSpells your opponents cast that target this crea
 tags:
   - card
   - vision-passed
+mana_cost: {W}{W}{U}{U}
 ---
 # Sphinx of New Prahv (Ravnica Allegiance)
 

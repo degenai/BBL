@@ -54,6 +54,7 @@ oracle_text: "Whenever equipped creature attacks, put a +1/+1 counter on it.\\nE
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Armory of Iroas (Commander Legends)
 

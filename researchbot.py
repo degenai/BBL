@@ -1,19 +1,29 @@
 #!/usr/bin/env python3
 """
-researchbot — Enrich card-node MDs with reference image + DeepSeek vision analysis.
+researchbot — Prep card-node MDs for the bbl-researcher subagent (vision pipeline).
 
 For each card-node lacking enrichment:
-  1. Fetch a canonical reference image (Scryfall for MTG, PokemonTCG API for Pokemon).
-  2. Run DeepSeek V4 Pro vision analysis on the image with a structured prompt.
-  3. Write reference_image, tags_hub, tags_filter, and a ## Vision section back.
+  1. Fetch a canonical reference image from the per-game source API
+     (Scryfall for MTG, PokemonTCG.io for Pokemon, LorcanaJSON for Lorcana,
+     Bushiroad search for Weiss, Bandai/dbzexchange for DBSCG).
+  2. Cache the image locally + stamp the canonical card data into frontmatter:
+     reference_image, reference_image_source_url, artist, collector_number,
+     flavor_text, oracle_text, mana_cost (MTG only), image dimensions.
+  3. Leave tags_hub empty as the ready-for-vision signal that the
+     .claude/agents/bbl-researcher.md subagent reads via `python bbl_queue.py`.
 
 Processes in quantity-DESC order so high-impact cards get enriched first.
 Skips cards already enriched (tags_hub non-empty), unless --force.
-One-time investment per unique card. Cost amortizes across all copies.
+
+History: Plan A was DeepSeek hosted vision (chat-completion endpoint with a
+structured prompt). That code was removed wave 92.5 — vision now runs through
+the subagent. --list-models is preserved as the watch signal for hosted-vision
+GA per memory bbl-deepseek-vision-watch.
 
 Usage:
-    python researchbot.py [--cards-dir cards] [--limit N] [--game GAME]
-                          [--dry-run] [--force]
+    python researchbot.py --prepare-only [--cards-dir cards] [--limit N]
+                          [--game GAME] [--dry-run] [--force]
+    python researchbot.py --list-models     # watch signal probe
 """
 
 from __future__ import annotations
@@ -51,9 +61,11 @@ DEFAULT_CARDS_DIR = "cards"
 DEFAULT_IMAGES_DIR = "cards/_images"
 DEFAULT_LIMIT = 10  # default cap per run; bump explicitly when confident
 DEEPSEEK_BASE = "https://api.deepseek.com"
-DEEPSEEK_ENDPOINT = f"{DEEPSEEK_BASE}/chat/completions"
 DEEPSEEK_MODELS_ENDPOINT = f"{DEEPSEEK_BASE}/models"
-DEEPSEEK_MODEL = "deepseek-v4-pro"  # spec default; override with --model when API lags
+# Vision chat-completion endpoint + default model removed wave 92.5 along with
+# the deepseek_vision_call function. Vision now routes through the Claude Code
+# subagent at .claude/agents/bbl-researcher.md. --list-models is preserved as
+# the watch signal for hosted-vision GA per memory bbl-deepseek-vision-watch.
 SCRYFALL_API = "https://api.scryfall.com"
 # Sleep between Scryfall calls. Default 0.1s honors their 50–100ms recommendation.
 # Bump to 1.0+ for very long sweeps or when running shortly after a 429 burst.
@@ -358,19 +370,27 @@ def _flatten_for_frontmatter(text: str) -> str:
     return s
 
 
-def _extract_card_text_scryfall(data: dict) -> tuple[str, str]:
-    """Pull (flavor_text, oracle_text) from a Scryfall card response.
-    Both are returned as single-line strings via _flatten_for_frontmatter.
-    For double-faced cards, the front face's text is used."""
+def _extract_card_text_scryfall(data: dict) -> tuple[str, str, str]:
+    """Pull (flavor_text, oracle_text, mana_cost) from a Scryfall card response.
+    All three returned as single-line strings via _flatten_for_frontmatter.
+    For double-faced cards, the front face's values are used. mana_cost is the
+    raw Scryfall symbol string (e.g. `{3}{R}{R}`); empty for lands / 0-cost cards.
+    The mana_cost field is BBL's ground-truth source for `tags_filter` color-magic
+    values, preventing the palette-vs-cost mis-tag pattern documented in
+    `reports/janitor_triage.md`."""
     flavor = (data.get("flavor_text") or "").strip()
     oracle = (data.get("oracle_text") or "").strip()
-    if not flavor and not oracle:
+    mana = (data.get("mana_cost") or "").strip()
+    if not flavor and not oracle and not mana:
         faces = data.get("card_faces") or []
         if faces and isinstance(faces, list):
             face = faces[0]
             flavor = flavor or (face.get("flavor_text") or "").strip()
             oracle = oracle or (face.get("oracle_text") or "").strip()
-    return _flatten_for_frontmatter(flavor), _flatten_for_frontmatter(oracle)
+            mana = mana or (face.get("mana_cost") or "").strip()
+    return (_flatten_for_frontmatter(flavor),
+            _flatten_for_frontmatter(oracle),
+            _flatten_for_frontmatter(mana))
 
 
 def _extract_card_text_pokemontcg(card: dict) -> tuple[str, str]:
@@ -437,13 +457,14 @@ def local_image_path(card_md_path: Path, cards_dir: Path, images_dir: Path, ext:
 
 def find_image_scryfall(card_name: str, set_name: str = "",
                         set_map: dict | None = None
-                        ) -> tuple[str | None, str, str, str, str, str, str]:
+                        ) -> tuple[str | None, str, str, str, str, str, str, str]:
     """Returns (image_url, confidence, collector_number, artist, art_crop_url,
-    flavor_text, oracle_text).
+    flavor_text, oracle_text, mana_cost).
     confidence in {'high','low','none'}; trailing strings are "" on miss.
     flavor_text and oracle_text are flattened to single-line (literal `\\n`
     separators) so they survive frontmatter; consumers may split to render.
-    For double-faced cards, front-face text is used."""
+    mana_cost is the raw Scryfall symbol string (e.g. `{3}{R}{R}`); empty for
+    lands / 0-cost cards. For double-faced cards, front-face values are used."""
     set_map = set_map if set_map is not None else fetch_scryfall_set_map()
     code = scryfall_set_code(set_name, set_map)
     card_name = normalize_card_name_for_lookup(card_name)
@@ -459,16 +480,16 @@ def find_image_scryfall(card_name: str, set_name: str = "",
                 return fa
         return ""
 
-    def _build(data: dict, conf: str) -> tuple[str | None, str, str, str, str, str, str]:
+    def _build(data: dict, conf: str) -> tuple[str | None, str, str, str, str, str, str, str]:
         img = _extract_image(data)
         if not img:
-            return None, "none", "", "", "", "", ""
-        flavor, oracle = _extract_card_text_scryfall(data)
+            return None, "none", "", "", "", "", "", ""
+        flavor, oracle, mana = _extract_card_text_scryfall(data)
         return (img, conf,
                 str(data.get("collector_number") or "").strip(),
                 _artist(data),
                 _extract_art_crop(data) or "",
-                flavor, oracle)
+                flavor, oracle, mana)
 
     if code:
         params = {"fuzzy": card_name, "set": code}
@@ -488,7 +509,7 @@ def find_image_scryfall(card_name: str, set_name: str = "",
         r = _build(data, "low")
         if r[0]:
             return r
-    return None, "none", "", "", "", "", ""
+    return None, "none", "", "", "", "", "", ""
 
 
 def _bulbapedia_filename_candidates(name: str, set_name: str, number: str) -> list[str]:
@@ -556,14 +577,21 @@ def find_image_bulbapedia(card_name: str, set_name: str, number: str
     return None, 0
 
 
-def find_image_pokemontcg(card_name: str, set_name: str = ""
-                          ) -> tuple[str | None, str, str, str, str, str, str]:
+def find_image_pokemontcg(card_name: str, set_name: str = "",
+                          collector_number: str = ""
+                          ) -> tuple[str | None, str, str, str, str, str, str, str]:
     """PokemonTCG.io v2 API. Returns (url, confidence, number, artist,
-    art_crop_url, flavor_text, oracle_text).
-    art_crop_url is ALWAYS "" for Pokémon (no art-only crop endpoint). The
-    Pokémon `oracle_text` is composed from rules + abilities + attacks via
-    _extract_card_text_pokemontcg, so the local copy contains everything
-    triviabot or the bundler might want without a re-fetch."""
+    art_crop_url, flavor_text, oracle_text, mana_cost).
+    art_crop_url is ALWAYS "" for Pokémon (no art-only crop endpoint). mana_cost
+    is ALWAYS "" for non-MTG games. The Pokémon `oracle_text` is composed from
+    rules + abilities + attacks via _extract_card_text_pokemontcg, so the local
+    copy contains everything triviabot or the bundler might want without a
+    re-fetch.
+
+    Number-pinning (wave 92.5): when both set_name AND collector_number are
+    provided, prefer a number-pinned query that cannot be impostored by
+    substring-name siblings (Switch vs Energy Switch, Potion vs Max Potion,
+    etc). Falls back to name-only fuzzy match if pinned query misses."""
     def _query(q: str) -> tuple[dict | None, str | None, str, str]:
         """Returns (raw_card, img_url, number, artist) — raw_card lets the
         caller pull flavor/oracle text without a second API call."""
@@ -593,8 +621,15 @@ def find_image_pokemontcg(card_name: str, set_name: str = ""
         if bulba_url and bulba_w >= BULBAPEDIA_MIN_WIDTH:
             img = bulba_url
         flavor, oracle = _extract_card_text_pokemontcg(card or {})
-        return img, conf, number, artist, "", flavor, oracle
+        return img, conf, number, artist, "", flavor, oracle, ""
 
+    # Number-pinned priority: collector_number kills the substring-name
+    # impostor pattern. Strip "/total" suffix per Collectr's convention.
+    if set_name and collector_number:
+        bare_num = collector_number.split("/", 1)[0].strip().lstrip("0") or collector_number.split("/", 1)[0].strip()
+        card, img, number, artist = _query(f'name:"{card_name}" set.name:"{set_name}" number:"{bare_num}"')
+        if img:
+            return _pack(card, img, number, artist, "high")
     if set_name:
         card, img, number, artist = _query(f'name:"{card_name}" set.name:"{set_name}"')
         if img:
@@ -602,7 +637,7 @@ def find_image_pokemontcg(card_name: str, set_name: str = ""
     card, img, number, artist = _query(f'name:"{card_name}"')
     if img:
         return _pack(card, img, number, artist, "low" if set_name else "high")
-    return None, "none", "", "", "", "", ""
+    return None, "none", "", "", "", "", "", ""
 
 
 def _head_ok(url: str, referer: str | None = None, timeout: float = 10.0) -> bool:
@@ -655,22 +690,23 @@ def find_image_dbs(card_name: str, set_name: str = "",
     """DBSCG image fetch. Tries dbzexchange Shopify hi-res first (~30% coverage
     at 867x1210); falls back to Bandai CDN (universal 260x363). Returns
     (url, confidence, number, artist='', art_crop_url='', flavor_text='',
-    oracle_text=''). Artist + oracle/flavor are NOT URL-derivable from either
-    source — capture deferred to triviabot OCR."""
+    oracle_text='', mana_cost=''). Artist + oracle/flavor are NOT URL-derivable
+    from either source — capture deferred to triviabot OCR. mana_cost is always
+    "" for non-MTG games."""
     if not collector_number:
-        return None, "none", "", "", "", "", ""
+        return None, "none", "", "", "", "", "", ""
     number = collector_number.strip().upper()
     # Strip any --foil/--alt suffix that may have crept in from filename normalization.
     number = number.split("--")[0]
     # Primary: try dbzexchange hi-res
     hires_url, hires_w = _try_dbzexchange_hires(number)
     if hires_url:
-        return hires_url, "high", number, "", "", "", ""
+        return hires_url, "high", number, "", "", "", "", ""
     # Fallback: Bandai 260x363 thumbnail
     url = f"{DBS_IMAGE_BASE}/{number}.png"
     if _head_ok(url, referer=DBS_REFERER):
-        return url, "high", number, "", "", "", ""
-    return None, "none", "", "", "", "", ""
+        return url, "high", number, "", "", "", "", ""
+    return None, "none", "", "", "", "", "", ""
 
 
 def _strip_weiss_rarity_suffix(collector_number: str) -> str:
@@ -688,17 +724,18 @@ def _strip_weiss_rarity_suffix(collector_number: str) -> str:
 
 def find_image_weiss(card_name: str, set_name: str = "",
                      collector_number: str = ""
-                     ) -> tuple[str | None, str, str, str, str, str, str]:
+                     ) -> tuple[str | None, str, str, str, str, str, str, str]:
     """Bushiroad EN Weiss Schwarz cardlist search. Returns (url, confidence,
-    number, artist='', art_crop_url='', flavor_text='', oracle_text='').
-    Two-step: search endpoint returns HTML with <img src="..."> for the
-    matched card. Image URLs are NOT formula-derivable across all sets
-    (BD/WE35 uses non-standard product folders), so we always go via search."""
+    number, artist='', art_crop_url='', flavor_text='', oracle_text='',
+    mana_cost=''). Two-step: search endpoint returns HTML with <img src="...">
+    for the matched card. Image URLs are NOT formula-derivable across all sets
+    (BD/WE35 uses non-standard product folders), so we always go via search.
+    mana_cost is always "" for non-MTG games."""
     if not collector_number:
-        return None, "none", "", "", "", "", ""
+        return None, "none", "", "", "", "", "", ""
     keyword = _strip_weiss_rarity_suffix(collector_number)
     if not keyword:
-        return None, "none", "", "", "", "", ""
+        return None, "none", "", "", "", "", "", ""
     url = f"{WEISS_SEARCH_BASE}?keyword={urllib.parse.quote(keyword)}"
     headers = {"User-Agent": USER_AGENT}
     try:
@@ -707,10 +744,10 @@ def find_image_weiss(card_name: str, set_name: str = "",
             html = resp.read().decode("utf-8", errors="replace")
     except Exception as e:
         print(f"  [warn] weiss search failed ({keyword}): {e}", file=sys.stderr)
-        return None, "none", "", "", "", "", ""
+        return None, "none", "", "", "", "", "", ""
     # Zero-result detection per investigator findings
     if "No cards were found." in html:
-        return None, "none", "", "", "", "", ""
+        return None, "none", "", "", "", "", "", ""
     # Parse: <div class="image"><img src="..."> — first match wins (search
     # returns one card per keyword in the corpus's collector-number pattern)
     m = re.search(r'<div class="image">\s*<img[^>]*src="([^"]+)"', html)
@@ -718,7 +755,7 @@ def find_image_weiss(card_name: str, set_name: str = "",
         # Fallback: any <img> within a card-result block
         m = re.search(r'<img[^>]*src="([^"]+\.(?:png|jpg|jpeg))"', html)
     if not m:
-        return None, "none", "", "", "", "", ""
+        return None, "none", "", "", "", "", "", ""
     img_path = m.group(1)
     if img_path.startswith("http"):
         img_url = img_path
@@ -727,7 +764,7 @@ def find_image_weiss(card_name: str, set_name: str = "",
     else:
         # Relative path like "./images/..." or "images/..."
         img_url = WEISS_HOST + "/" + img_path.lstrip("./")
-    return img_url, "high", keyword, "", "", "", ""
+    return img_url, "high", keyword, "", "", "", "", ""
 
 
 def _load_lorcana_index() -> dict:
@@ -772,47 +809,48 @@ def _load_lorcana_index() -> dict:
 
 def find_image_lorcana(card_name: str, set_name: str = "",
                        collector_number: str = ""
-                       ) -> tuple[str | None, str, str, str, str, str, str]:
+                       ) -> tuple[str | None, str, str, str, str, str, str, str]:
     """LorcanaJSON lookup. Returns (url, confidence, number, artist,
-    art_crop_url='', flavor_text, oracle_text). Lorcana has no clean
-    frameless art crop (art is fused with card frame at design time), so
-    art_crop_url is always empty. Image is 1468x2048 JPEG from official
-    Ravensburger CDN. collector_number is parsed as `<num>/<total>` (the
-    BBL Lorcana convention)."""
+    art_crop_url='', flavor_text, oracle_text, mana_cost=''). Lorcana has no
+    clean frameless art crop (art is fused with card frame at design time),
+    so art_crop_url is always empty. mana_cost is always "" for non-MTG.
+    Image is 1468x2048 JPEG from official Ravensburger CDN. collector_number
+    is parsed as `<num>/<total>` (the BBL Lorcana convention)."""
     if not collector_number:
-        return None, "none", "", "", "", "", ""
+        return None, "none", "", "", "", "", "", ""
     # Parse "146/204" → 146
     num_str = collector_number.split("/", 1)[0].strip()
     try:
         num = int(num_str)
     except ValueError:
-        return None, "none", "", "", "", "", ""
+        return None, "none", "", "", "", "", "", ""
     idx = _load_lorcana_index()
     code = idx["set_name_to_code"].get(set_name.lower().strip())
     if not code:
-        return None, "none", "", "", "", "", ""
+        return None, "none", "", "", "", "", "", ""
     card = idx["by_key"].get((code, num))
     if not card:
-        return None, "none", "", "", "", "", ""
+        return None, "none", "", "", "", "", "", ""
     img_url = (card.get("images") or {}).get("full", "")
     if not img_url:
-        return None, "none", "", "", "", "", ""
+        return None, "none", "", "", "", "", "", ""
     artist = (card.get("artistsText") or "").strip()
     flavor = (card.get("flavorText") or "").strip()
     # Lorcana's "fullText" is the rules-text block (includes ability names).
     # Closest equivalent to MTG oracle_text.
     oracle = (card.get("fullText") or "").strip()
-    return img_url, "high", str(num), artist, "", flavor, oracle
+    return img_url, "high", str(num), artist, "", flavor, oracle, ""
 
 
 def find_reference_image(game: str, card_name: str, set_name: str,
                          set_map: dict | None = None,
                          collector_number: str = ""
-                         ) -> tuple[str | None, str, str, str, str, str, str]:
+                         ) -> tuple[str | None, str, str, str, str, str, str, str]:
     """Returns (image_url, confidence, collector_number, artist, art_crop_url,
-    flavor_text, oracle_text). Empty strings on miss. Prep loop captures all
-    seven into frontmatter so downstream agents (vision, trivia, bundler)
-    never need to re-fetch the source API for canonical card data.
+    flavor_text, oracle_text, mana_cost). Empty strings on miss. Prep loop
+    captures all eight into frontmatter so downstream agents (vision, trivia,
+    bundler) never need to re-fetch the source API for canonical card data.
+    mana_cost is MTG-only (always "" for other games).
 
     The collector_number kwarg is required by DBS (Bandai's CDN is keyed on
     number, not name) and ignored by Scryfall/PokemonTCG strategies."""
@@ -820,14 +858,14 @@ def find_reference_image(game: str, card_name: str, set_name: str,
     if strat == "scryfall":
         return find_image_scryfall(card_name, set_name, set_map)
     if strat == "pokemontcg":
-        return find_image_pokemontcg(card_name, set_name)
+        return find_image_pokemontcg(card_name, set_name, collector_number)
     if strat == "dbs":
         return find_image_dbs(card_name, set_name, collector_number)
     if strat == "weiss":
         return find_image_weiss(card_name, set_name, collector_number)
     if strat == "lorcana":
         return find_image_lorcana(card_name, set_name, collector_number)
-    return None, "none", "", "", "", "", ""
+    return None, "none", "", "", "", "", "", ""
 
 
 def measure_image(path: Path) -> tuple[int, int, str]:
@@ -854,90 +892,17 @@ def measure_image(path: Path) -> tuple[int, int, str]:
     return w, h, "low"
 
 
-# --- DeepSeek vision call ---
-
-VISION_SYSTEM = """You are a TCG card art analyst for Bulk Graph Bundler (BBL), a project that curates trading card singles into themed Discrete Lairs (small bundles) based on art and flavor.
-
-Your job: read a reference image of one card and emit structured JSON describing it. Be specific and grounded in the image. NEVER invent character identities — if you suspect an IP character, mark suspected_ip with a confidence level and let a human verify.
-
-Two-tier tag emission is critical:
-- tags_hub: thematically rich, cross-cutting tags suitable for curated graph hubs (cat, sunset, pie, cozy, gothic, service-worker, labor, villain, comic-relief, fire, forest, ocean). Ask: "would I curate a Discrete Lair around this concept?"
-- tags_filter: mechanical / structural / compositional tags (faces-left, 2-figures, mid-shot, solo-portrait, lifegain). Filter-only, never become hubs.
-
-Return ONLY valid JSON, no preamble, no markdown fences."""
-
-VISION_USER_TEMPLATE = """Card metadata (for context only; rely on image for analysis):
-- name: {name}
-- game: {game}
-- set: {set}
-- card_text: (not provided)
-
-Analyze the artwork. Return JSON with this exact schema:
-
-{{
-  "subject": "<what's depicted; if a known IP character is clearly named or unmistakable, say so. Otherwise describe.>",
-  "subject_known_ip": <true|false>,
-  "suspected_ip": "<character name or empty string>",
-  "ip_confidence": "<none|low|med|high>",
-  "ip_verified": false,
-  "description": "<one-paragraph visual description>",
-  "facing": "<left|right|forward|away|three-quarter|n/a>",
-  "composition": "<close-up|mid-shot|wide|scene>",
-  "mode": "<portrait|action|narrative|abstract>",
-  "figure_count": "<solo|duo|group|crowd|none>",
-  "foreground": "<short>",
-  "foreground_palette": ["<color>", "..."],
-  "background": "<short>",
-  "background_palette": ["<color>", "..."],
-  "setting": "<forest|urban|desert|ocean|mountain|indoor|dungeon|space|void|other>",
-  "architecture": "<gothic|ruined|modern|organic|none>",
-  "time_of_day": "<dawn|day|sunset|twilight|night|magic-hour|indeterminate>",
-  "weather": "<rain|snow|fog|fire|smoke|calm|clear|storm|none>",
-  "mood": "<cozy|grim|comedic|sublime|horror|action|peaceful|other>",
-  "genre_cues": ["<fantasy|sci-fi|anime|photoreal|cartoon|woodcut|watercolor|...>"],
-  "lighting": "<harsh|soft|backlit|rim|ambient|chiaroscuro>",
-  "objects": ["<object>", "..."],
-  "animals_creatures": ["<creature>", "..."],
-  "food_drink": ["<item>", "..."],
-  "clothing_style": "<medieval|futuristic|casual|formal|armor|naked|none>",
-  "iconography": ["<symbol>", "..."],
-  "emotion": "<facial expression / body language read>",
-  "tags_hub": ["<thematic-tag>", "..."],
-  "tags_filter": ["<mechanical-or-structural-tag>", "..."]
-}}"""
-
-
-def deepseek_vision_call(api_key: str, image_url: str, name: str, game: str, set_: str,
-                         model: str = DEEPSEEK_MODEL) -> dict | None:
-    payload = {
-        "model": model,
-        "messages": [
-            {"role": "system", "content": VISION_SYSTEM},
-            {
-                "role": "user",
-                "content": [
-                    {"type": "image_url", "image_url": {"url": image_url}},
-                    {"type": "text", "text": VISION_USER_TEMPLATE.format(
-                        name=name, game=game, set=set_)},
-                ],
-            },
-        ],
-        "response_format": {"type": "json_object"},
-        "temperature": 0.2,
-    }
-    headers = {
-        "Authorization": f"Bearer {api_key}",
-        "User-Agent": USER_AGENT,
-    }
-    resp = http_post_json(DEEPSEEK_ENDPOINT, payload, headers)
-    if not resp:
-        return None
-    try:
-        content = resp["choices"][0]["message"]["content"]
-        return json.loads(content)
-    except (KeyError, json.JSONDecodeError, IndexError) as e:
-        print(f"  [error] could not parse DeepSeek response: {e}", file=sys.stderr)
-        return None
+# --- Vision pipeline note ---
+#
+# Plan A (DeepSeek hosted vision API) was the original target — see the
+# "DeepSeek vision watch" memory for context. The full prompt + chat-completion
+# call lived here before wave 92.5 deleted it. Vision now runs through the
+# subagent at `.claude/agents/bbl-researcher.md`, dispatched per card by the
+# parent Claude Code session. researchbot.py's role is reduced to: fetch
+# canonical card data + image, stamp frontmatter, leave tags_hub empty as the
+# ready-for-subagent signal. The DeepSeek-models probe at --list-models is
+# preserved as the watch signal for when hosted vision GA'es — re-introducing
+# Plan A is a deliberate future move, not a recovery operation.
 
 
 # --- Vision data → MD update ---
@@ -1054,6 +1019,14 @@ def update_card(path: Path, image_url: str, vision: dict, dry_run: bool,
     text = append_or_replace_section(text, "Vision", body)
     if not dry_run:
         path.write_text(text, encoding="utf-8")
+        # Normalize frontmatter (block-form lists + scalar quoting + tags-last).
+        # update_card is now the second chokepoint alongside apply_vision.py;
+        # both route through bbl_schema.normalize_file for hygiene parity.
+        try:
+            from bbl_schema import normalize_file as _normalize_file
+            _normalize_file(path)
+        except ImportError:
+            pass
 
 
 # --- Main loop ---
@@ -1096,7 +1069,7 @@ def list_deepseek_models(api_key: str) -> list[str]:
 
 
 def process(cards_dir: Path, images_dir: Path, limit: int, game_filter: str | None,
-            api_key: str, dry_run: bool, force: bool, model: str = DEEPSEEK_MODEL,
+            api_key: str, dry_run: bool, force: bool,
             prepare_only: bool = False) -> dict:
     report = {"processed": 0, "skipped_enriched": 0, "skipped_no_image": 0,
               "skipped_no_strategy": 0, "deferred_low_confidence": 0,
@@ -1144,7 +1117,7 @@ def process(cards_dir: Path, images_dir: Path, limit: int, game_filter: str | No
             report["skipped_no_strategy"] += 1
             continue
 
-        image_url, confidence, collector_number, artist, art_crop_url, flavor_text, oracle_text = find_reference_image(
+        image_url, confidence, collector_number, artist, art_crop_url, flavor_text, oracle_text, mana_cost = find_reference_image(
             game, name, set_, set_map, collector_number=fm.get("collector_number", "") or "")
         if not image_url:
             print(f"  -> reference image not found, flagging for manual review")
@@ -1237,11 +1210,19 @@ def process(cards_dir: Path, images_dir: Path, limit: int, game_filter: str | No
                     text = update_frontmatter_field(text, "flavor_text", flavor_text)
                 if oracle_text:
                     text = update_frontmatter_field(text, "oracle_text", oracle_text)
+                if mana_cost:
+                    text = update_frontmatter_field(text, "mana_cost", mana_cost)
                 if img_w:
                     text = update_frontmatter_field(text, "image_width", str(img_w))
                     text = update_frontmatter_field(text, "image_height", str(img_h))
                     text = update_frontmatter_field(text, "image_quality", img_quality)
                 path.write_text(text, encoding="utf-8")
+                # Normalize frontmatter via bbl_schema chokepoint (wave 92.5).
+                try:
+                    from bbl_schema import normalize_file as _normalize_file
+                    _normalize_file(path)
+                except ImportError:
+                    pass
                 art_note = "+art_crop" if local_art_rel else ""
                 txt_note = " +text" if (flavor_text or oracle_text) else ""
                 qual_note = f" {img_quality}" if img_w else ""
@@ -1249,24 +1230,15 @@ def process(cards_dir: Path, images_dir: Path, limit: int, game_filter: str | No
             report["prepared_for_vision"] += 1
             continue
 
-        if dry_run:
-            print(f"  -> [dry-run] would run vision pass and update {path.name}")
-            report["processed"] += 1
+        # Vision pass branch removed wave 92.5 — vision now routes through
+        # the .claude/agents/bbl-researcher.md subagent. researchbot.py without
+        # --prepare-only is a no-op past this point; the prepare-only branch
+        # above is the only meaningful path. Kept the loop structure intact in
+        # case Plan A revives (deepseek hosted vision GA per --list-models watch).
+        if not prepare_only:
+            print(f"  -> skipped (vision pipeline runs through bbl-researcher subagent; use --prepare-only)")
+            report["skipped_no_strategy"] += 1
             continue
-
-        vision = deepseek_vision_call(api_key, image_url, name, game, set_, model=model)
-        if not vision:
-            report["errors"] += 1
-            continue
-
-        if vision.get("suspected_ip") and vision.get("ip_confidence") in ("low", "med", "high") \
-                and not vision.get("ip_verified"):
-            report["ip_flagged"].append(f"{game} | {name} -> suspected: {vision['suspected_ip']} ({vision['ip_confidence']})")
-
-        update_card(path, image_url, vision, dry_run=False, art_confidence="high",
-                    local_image_rel=local_rel)
-        print(f"  -> enriched: tags_hub={vision.get('tags_hub')[:5] if vision.get('tags_hub') else []}")
-        report["processed"] += 1
 
     return report
 
@@ -1317,7 +1289,7 @@ def retry_flagged(cards_dir: Path, images_dir: Path,
             no_strategy += 1
             continue
 
-        image_url, confidence, _collector_number, artist, art_crop_url, flavor_text, oracle_text = find_reference_image(
+        image_url, confidence, _collector_number, artist, art_crop_url, flavor_text, oracle_text, mana_cost = find_reference_image(
             game, name, set_, set_map, collector_number=fm.get("collector_number", "") or "")
         # Slightly longer sleep than the bulk prep loop — we're re-trying the cards Scryfall
         # already failed on once, so be polite.
@@ -1393,16 +1365,18 @@ def main():
     ap.add_argument("--game", type=str, default=None,
                     help='Process only one game (e.g. "Magic: The Gathering" or "Pokemon")')
     ap.add_argument("--dry-run", action="store_true",
-                    help="Look up images and prepare prompts but do not call DeepSeek")
+                    help="Look up images and prepare prompts without writing to disk.")
     ap.add_argument("--force", action="store_true",
                     help="Re-enrich even cards that already have tags_hub; re-download cached images")
-    ap.add_argument("--model", type=str, default=DEEPSEEK_MODEL,
-                    help=f"DeepSeek model ID (default {DEEPSEEK_MODEL}). Use --list-models to see what the API actually serves.")
     ap.add_argument("--list-models", action="store_true",
-                    help="Hit /models on the DeepSeek API and print the IDs it advertises, then exit.")
+                    help="Watch signal: probe the DeepSeek hosted API for served model IDs (per memory "
+                         "bbl-deepseek-vision-watch). When a vision model appears here without 'beta', "
+                         "Plan A's hosted-vision pipeline becomes a viable alternative to the current "
+                         "Claude-subagent path. Exits after printing.")
     ap.add_argument("--prepare-only", action="store_true",
-                    help="Image fetch + cache + frontmatter stamp only. Skips DeepSeek call. "
-                         "Leaves tags_hub empty as the signal for the bbl-researcher Claude Code subagent.")
+                    help="Image fetch + cache + frontmatter stamp only. Leaves tags_hub empty as the "
+                         "signal for the .claude/agents/bbl-researcher.md subagent to pick up "
+                         "(via `python bbl_queue.py`). This is the standard mode since wave 92.5.")
     ap.add_argument("--scryfall-sleep", type=float, default=SCRYFALL_SLEEP,
                     help=f"Seconds between Scryfall calls in --prepare-only / vision flows "
                          f"(default {SCRYFALL_SLEEP}). Bump to ~1.0 for long sweeps after a 429 burst, "
@@ -1470,7 +1444,7 @@ def main():
         sys.exit(0)
 
     report = process(args.cards_dir, args.images_dir, args.limit, args.game,
-                     api_key or "", args.dry_run, args.force, model=args.model,
+                     api_key or "", args.dry_run, args.force,
                      prepare_only=args.prepare_only)
 
     print("\n=== researchbot run report ===")

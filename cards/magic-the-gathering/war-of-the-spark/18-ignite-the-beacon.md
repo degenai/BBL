@@ -57,6 +57,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {4}{W}
 ---
 # Ignite the Beacon (War of the Spark)
 

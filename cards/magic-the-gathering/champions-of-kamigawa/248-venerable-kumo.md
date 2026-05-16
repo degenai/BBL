@@ -52,6 +52,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {4}{G}
 ---
 # Venerable Kumo (Champions of Kamigawa)
 

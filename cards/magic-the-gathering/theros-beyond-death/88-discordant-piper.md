@@ -53,6 +53,7 @@ oracle_text: When this creature dies, create a 0/1 white Goat creature token.
 tags:
   - card
   - vision-passed
+mana_cost: {1}{B}
 ---
 # Discordant Piper (Theros Beyond Death)
 

@@ -53,6 +53,7 @@ oracle_text: Target blocking creature gets +7/+7 until end of turn.
 tags:
   - card
   - vision-passed
+mana_cost: {W}
 ---
 # Righteousness (Throne of Eldraine)
 

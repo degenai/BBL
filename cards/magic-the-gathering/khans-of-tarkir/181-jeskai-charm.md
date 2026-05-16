@@ -51,6 +51,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {U}{R}{W}
 ---
 # Jeskai Charm (Khans of Tarkir)
 

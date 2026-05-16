@@ -52,6 +52,7 @@ oracle_text: Flash\nWhen this creature enters, you may have it deal damage to ta
 tags:
   - card
   - vision-passed
+mana_cost: {B}{R}
 ---
 # Munitions Expert (Modern Horizons)
 

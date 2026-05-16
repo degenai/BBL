@@ -51,6 +51,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Expel the Unworthy (Modern Horizons 3)
 

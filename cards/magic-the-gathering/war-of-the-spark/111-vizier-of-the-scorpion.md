@@ -54,6 +54,7 @@ oracle_text: When this creature enters, amass Zombies 1. (Put a +1/+1 counter on
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}
 ---
 # Vizier of the Scorpion (War of the Spark)
 

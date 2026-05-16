@@ -48,6 +48,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}{G}
 ---
 # Wicked Wolf (Throne of Eldraine)
 

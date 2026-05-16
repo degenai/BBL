@@ -59,6 +59,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {U}
 ---
 # Opt (Core Set 2021)
 

@@ -56,6 +56,7 @@ oracle_text: Flying
 tags:
   - card
   - vision-passed
+mana_cost: {4}{W}
 ---
 # Prized Griffin (Throne of Eldraine)
 

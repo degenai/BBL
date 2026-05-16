@@ -56,6 +56,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {B}
 ---
 # Case of the Gorgon's Kiss (a) (Murders at Karlov Manor)
 

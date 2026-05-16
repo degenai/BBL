@@ -54,6 +54,7 @@ oracle_text: Volcanic Geyser deals X damage to any target.
 tags:
   - card
   - vision-passed
+mana_cost: {X}{R}{R}
 ---
 # Volcanic Geyser (Core Set 2021)
 

@@ -11,13 +11,10 @@
             "id": "23e546f16fd65670",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "_views/manual-review.base",
-                "viewName": "Manual review queue"
-              },
-              "icon": "lucide-table",
-              "title": "manual-review"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -77,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "454ec48b3e112939",
@@ -182,22 +180,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "4f4798813cc20b9a",
+  "active": "23e546f16fd65670",
   "lastOpenFiles": [
+    "_characters/theros-pantheon.md.tmp.22420.83e078e02930",
+    "_artists/sanosuke-sakuma.md.tmp.22420.68f2b06ee5c8",
+    "_artists/sanosuke-sakuma.md.tmp.22420.08e6ca5d122a",
+    "_artists/kirisaki.md.tmp.22420.fe8180db35a2",
+    "_artists/ken-sugimori.md.tmp.22420.dae4346bcc21",
+    "pokemon/crown-zenith/144-159-switch.md.tmp.22420.e2be73633129",
+    "_views/manual-review.base",
     "_artists/kirisaki.md.tmp.22420.d5ba000ebe8b",
     "_artists/ken-sugimori.md.tmp.22420.8e9a17429b28",
     "pokemon/sword-shield-promo/swsh068-snorlax-prerelease--holofoil.md",
-    "_views/manual-review.base",
     "_views/ip-pending.base",
     "_views/manual-review.base.tmp.22420.94c2fb01768d",
-    "_views/manual-review.base.tmp.22420.58e34aaaa242",
     "pokemon/sword-shield-base-set/007-202-maractus.md",
-    "_views/manual-review.base.tmp.22420.39df1351575a",
-    "_views/inventory.base",
-    "_views/manual-review.base.tmp.22420.b73fe6f7a913",
     "pokemon/sword-shield-base-set/90-water-energy.md",
-    "_views/trivia-backlog.base",
-    "_views/enrichment-frontier.base",
     "pokemon/sun-moon-base-set/5-parasect.md",
     "magic-the-gathering/duskmourn-house-of-horror/9-fear-of-abduction.md",
     "pokemon/team-up/99-jirachi--holofoil.md",

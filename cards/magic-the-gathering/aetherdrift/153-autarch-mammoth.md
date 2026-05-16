@@ -53,6 +53,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {4}{G}{G}
 ---
 # Autarch Mammoth (Aetherdrift)
 

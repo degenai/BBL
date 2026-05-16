@@ -53,6 +53,7 @@ setting: desert
 tags:
   - card
   - vision-passed
+mana_cost: {4}{G}{G}
 ---
 # Betrayal at the Vault (Outlaws of Thunder Junction)
 

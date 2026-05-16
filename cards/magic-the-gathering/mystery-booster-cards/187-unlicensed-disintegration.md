@@ -55,6 +55,7 @@ oracle_text: Destroy target creature. If you control an artifact, Unlicensed Dis
 tags:
   - card
   - vision-passed
+mana_cost: {1}{B}{R}
 ---
 # Unlicensed Disintegration (Mystery Booster Cards)
 

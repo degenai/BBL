@@ -60,6 +60,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{B}
 ---
 # Lampad of Death's Vigil (Theros Beyond Death)
 

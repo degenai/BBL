@@ -54,6 +54,7 @@ oracle_text: "{2}, {T}: Target player mills two cards."
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Millstone (Magic 2014 (M14))
 

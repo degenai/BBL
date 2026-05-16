@@ -52,6 +52,7 @@ oracle_text: Enchant creature\nEnchanted creature gets +2/+2 and attacks each co
 tags:
   - card
   - vision-passed
+mana_cost: {R}
 ---
 # Furor of the Bitten (Core Set 2021)
 

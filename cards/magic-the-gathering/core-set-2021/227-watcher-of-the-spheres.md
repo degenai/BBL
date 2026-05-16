@@ -56,6 +56,7 @@ oracle_text: Flying\nCreature spells with flying you cast cost {1} less to cast.
 tags:
   - card
   - vision-passed
+mana_cost: {W}{U}
 ---
 # Watcher of the Spheres (Core Set 2021)
 

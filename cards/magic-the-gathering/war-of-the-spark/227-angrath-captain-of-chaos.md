@@ -64,6 +64,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {2}{B/R}{B/R}
 ---
 # Angrath, Captain of Chaos (War of the Spark)
 

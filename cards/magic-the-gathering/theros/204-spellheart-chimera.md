@@ -57,6 +57,7 @@ oracle_text: Flying, trample\nSpellheart Chimera's power is equal to the number 
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}{R}
 ---
 # Spellheart Chimera (Theros)
 

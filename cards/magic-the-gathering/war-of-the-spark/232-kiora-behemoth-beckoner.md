@@ -59,6 +59,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {2}{G/U}
 ---
 # Kiora, Behemoth Beckoner (War of the Spark)
 

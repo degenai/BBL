@@ -52,6 +52,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}{R}
 ---
 # Invade the City (War of the Spark)
 

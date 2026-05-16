@@ -52,6 +52,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{B} // {B}
 ---
 # Smitten Swordmaster (Throne of Eldraine)
 

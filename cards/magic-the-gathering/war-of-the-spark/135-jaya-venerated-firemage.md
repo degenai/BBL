@@ -55,6 +55,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {4}{R}
 ---
 # Jaya, Venerated Firemage (War of the Spark)
 

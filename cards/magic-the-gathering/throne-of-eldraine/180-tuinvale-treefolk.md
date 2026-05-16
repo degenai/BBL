@@ -53,6 +53,7 @@ flavor_text: \"Right now you are a feeble stick, but I will help you grow some r
 tags:
   - card
   - vision-passed
+mana_cost: {5}{G} // {3}{G}
 ---
 # Tuinvale Treefolk (Throne of Eldraine)
 

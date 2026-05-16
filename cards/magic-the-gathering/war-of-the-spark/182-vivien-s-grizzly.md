@@ -52,6 +52,7 @@ oracle_text: "{3}{G}: Look at the top card of your library. If it's a creature o
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Vivien's Grizzly (War of the Spark)
 

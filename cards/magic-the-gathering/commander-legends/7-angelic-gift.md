@@ -56,6 +56,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{W}
 ---
 # Angelic Gift (Commander Legends)
 

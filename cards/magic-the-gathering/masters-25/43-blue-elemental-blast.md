@@ -50,6 +50,7 @@ oracle_text: Choose one —\n• Counter target red spell.\n• Destroy target r
 tags:
   - card
   - vision-passed
+mana_cost: {U}
 ---
 # Blue Elemental Blast (Masters 25)
 

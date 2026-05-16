@@ -59,6 +59,7 @@ oracle_text: Flying, first strike, lifelink, protection from Demons and from Dra
 tags:
   - card
   - vision-passed
+mana_cost: {3}{W}{W}
 ---
 # Baneslayer Angel (Core Set 2021)
 

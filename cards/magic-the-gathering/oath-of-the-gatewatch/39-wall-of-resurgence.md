@@ -51,6 +51,7 @@ setting: mountain
 tags:
   - card
   - vision-passed
+mana_cost: {2}{W}
 ---
 # Wall of Resurgence (Oath of the Gatewatch)
 

@@ -50,6 +50,7 @@ setting: void
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}
 ---
 # Roil Cartographer (Modern Horizons 3)
 

@@ -52,6 +52,7 @@ oracle_text: When this creature enters, you may draw a card.
 tags:
   - card
   - vision-passed
+mana_cost: {4}{U}
 ---
 # Mer Man (Unstable)
 

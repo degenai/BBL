@@ -55,6 +55,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {B}
 ---
 # Grim Physician (Theros Beyond Death)
 

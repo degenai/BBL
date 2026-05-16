@@ -59,6 +59,7 @@ oracle_text: Choose one or both —\n• Destroy target creature.\n• Put a +1/
 tags:
   - card
   - vision-passed
+mana_cost: {1}{B}{R}
 ---
 # Deadly Complication (Showcase) (Murders at Karlov Manor)
 

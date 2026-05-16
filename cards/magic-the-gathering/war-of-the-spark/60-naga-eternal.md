@@ -30,5 +30,6 @@ image_height: 1040
 image_quality: high
 tags:
   - card
+mana_cost: {2}{U}
 ---
 # Naga Eternal (War of the Spark)

@@ -50,6 +50,7 @@ setting: desert
 tags:
   - card
   - vision-passed
+mana_cost: {W}
 ---
 # Kitesail Scout (Battle for Zendikar)
 

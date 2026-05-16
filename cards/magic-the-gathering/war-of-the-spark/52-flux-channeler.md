@@ -54,6 +54,7 @@ oracle_text: Whenever you cast a noncreature spell, proliferate. (Choose any num
 tags:
   - card
   - vision-passed
+mana_cost: {2}{U}
 ---
 # Flux Channeler (War of the Spark)
 

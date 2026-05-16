@@ -51,6 +51,7 @@ setting: dungeon
 tags:
   - card
   - vision-passed
+mana_cost: {B}
 ---
 # Dead Weight (The Lost Caverns of Ixalan)
 

@@ -53,6 +53,7 @@ oracle_text: As long as an opponent has eight or more cards in their graveyard, 
 tags:
   - card
   - vision-passed
+mana_cost: {3}{B}
 ---
 # Nimana Skitter-Sneak (Zendikar Rising)
 

@@ -53,6 +53,7 @@ oracle_text: When this creature enters, look at the top four cards of your libra
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}{W}
 ---
 # Sumala Woodshaper (Guilds of Ravnica)
 

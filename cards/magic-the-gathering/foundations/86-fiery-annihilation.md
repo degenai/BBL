@@ -51,6 +51,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {2}{R}
 ---
 # Fiery Annihilation (Foundations)
 

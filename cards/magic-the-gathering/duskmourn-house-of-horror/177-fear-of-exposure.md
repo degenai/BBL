@@ -57,6 +57,7 @@ characters:
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Fear of Exposure (Duskmourn: House of Horror)
 

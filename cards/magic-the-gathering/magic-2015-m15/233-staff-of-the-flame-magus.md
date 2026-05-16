@@ -53,6 +53,7 @@ oracle_text: Whenever you cast a red spell or a Mountain you control enters, you
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Staff of the Flame Magus (Magic 2015 (M15))
 

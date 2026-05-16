@@ -53,6 +53,7 @@ oracle_text: "Destroy target creature. Create a Food token. (It's an artifact wi
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}{B}
 ---
 # Bake into a Pie (Throne of Eldraine)
 

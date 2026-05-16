@@ -54,6 +54,7 @@ oracle_text: Destroy target creature or planeswalker.
 tags:
   - card
   - vision-passed
+mana_cost: {4}{B}
 ---
 # Finishing Blow (Core Set 2021)
 

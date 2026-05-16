@@ -56,6 +56,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {3}{B}{R}
 ---
 # Kragma Warcaller (Theros)
 

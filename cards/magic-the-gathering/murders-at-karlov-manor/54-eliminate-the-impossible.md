@@ -55,6 +55,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}
 ---
 # Eliminate the Impossible (Murders at Karlov Manor)
 

@@ -54,6 +54,7 @@ symbols:
 tags:
   - card
   - vision-passed
+mana_cost: {4}{G}
 ---
 # Bashful Beastie (Duskmourn: House of Horror)
 

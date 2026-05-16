@@ -54,6 +54,7 @@ oracle_text: Trample\nAt the beginning of each combat, if you control a creature
 tags:
   - card
   - vision-passed
+mana_cost: {2}{R}
 ---
 # Stampede Rider (Theros Beyond Death)
 

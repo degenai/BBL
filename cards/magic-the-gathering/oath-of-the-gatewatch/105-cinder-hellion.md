@@ -53,6 +53,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {4}{R}
 ---
 # Cinder Hellion (Oath of the Gatewatch)
 

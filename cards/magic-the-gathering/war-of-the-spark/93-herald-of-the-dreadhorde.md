@@ -28,6 +28,7 @@ tags:
   - card
   - manual-review
 
+mana_cost: {3}{B}
 ---
 # Herald of the Dreadhorde (War of the Spark)
 

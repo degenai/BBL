@@ -50,6 +50,7 @@ oracle_text: "When this artifact enters, scry 1.\\n{T}: Add one mana of any colo
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Mana Geode (War of the Spark)
 

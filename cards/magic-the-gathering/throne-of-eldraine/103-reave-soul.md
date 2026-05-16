@@ -53,6 +53,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{B}
 ---
 # Reave Soul (Throne of Eldraine)
 

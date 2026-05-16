@@ -53,6 +53,7 @@ oracle_text: "{T}, Sacrifice this artifact: Exile target player's graveyard."
 tags:
   - card
   - vision-passed
+mana_cost: {0}
 ---
 # Tormod's Crypt (Magic 2013 (M13))
 

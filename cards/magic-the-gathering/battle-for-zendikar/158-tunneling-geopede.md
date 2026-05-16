@@ -53,6 +53,7 @@ setting: mountain
 tags:
   - card
   - vision-passed
+mana_cost: {2}{R}
 ---
 # Tunneling Geopede (Battle for Zendikar)
 

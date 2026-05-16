@@ -54,6 +54,7 @@ oracle_text: "Target player loses 4 life and you gain 4 life.\\nBasic landcyclin
 tags:
   - card
   - vision-passed
+mana_cost: {6}{B}
 ---
 # Absorb Vis (Mystery Booster Cards)
 

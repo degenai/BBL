@@ -55,6 +55,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{U}{R}
 ---
 # Dalakos, Crafter of Wonders (Theros Beyond Death)
 

@@ -54,6 +54,7 @@ oracle_text: Hexproof (This creature can't be the target of spells or abilities 
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}
 ---
 # Conifer Strider (Mystery Booster Cards)
 

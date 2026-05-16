@@ -54,6 +54,7 @@ oracle_text: When this creature enters, target creature an opponent controls get
 tags:
   - card
   - vision-passed
+mana_cost: {4}{B}{B}
 ---
 # Blight-Breath Catoblepas (Theros Beyond Death)
 

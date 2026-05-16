@@ -50,6 +50,7 @@ setting: dungeon
 tags:
   - card
   - vision-passed
+mana_cost: {4}{G}
 ---
 # Spike Colony (Stronghold)
 

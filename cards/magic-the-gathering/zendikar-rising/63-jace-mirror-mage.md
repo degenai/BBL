@@ -59,6 +59,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {1}{U}{U}
 ---
 # Jace, Mirror Mage (Zendikar Rising)
 

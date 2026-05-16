@@ -55,6 +55,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {2}{R}
 ---
 # Brimstone Trebuchet (Throne of Eldraine)
 

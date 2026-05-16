@@ -59,6 +59,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {3}{W}
 ---
 # Tune Up (Aetherdrift)
 

@@ -52,6 +52,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {R}
 ---
 # Convenient Target (Murders at Karlov Manor)
 

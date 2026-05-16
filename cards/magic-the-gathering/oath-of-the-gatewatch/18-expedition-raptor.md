@@ -52,6 +52,7 @@ setting: mountain
 tags:
   - card
   - vision-passed
+mana_cost: {3}{W}{W}
 ---
 # Expedition Raptor (Oath of the Gatewatch)
 

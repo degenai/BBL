@@ -57,6 +57,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {2}{B}
 ---
 # Mind Rot (Core Set 2021)
 

@@ -55,6 +55,7 @@ oracle_text: Whenever this creature deals damage, target player mills that many 
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}
 ---
 # Towering-Wave Mystic (Theros Beyond Death)
 

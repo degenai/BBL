@@ -54,6 +54,7 @@ oracle_text: Draw a card, then draw cards equal to the number of cards named Fra
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}
 ---
 # Frantic Inventory (Core Set 2021)
 

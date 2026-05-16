@@ -55,6 +55,7 @@ oracle_text: When this creature enters, destroy target creature or planeswalker 
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}
 ---
 # Vraska's Finisher (War of the Spark)
 

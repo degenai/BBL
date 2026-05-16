@@ -49,6 +49,7 @@ setting: mountain
 tags:
   - card
   - vision-passed
+mana_cost: {4}{R}
 ---
 # Quakefoot Cyclops (Modern Horizons)
 

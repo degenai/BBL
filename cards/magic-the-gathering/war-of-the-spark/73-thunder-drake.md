@@ -53,6 +53,7 @@ oracle_text: Flying\nWhenever you cast your second spell each turn, put a +1/+1 
 tags:
   - card
   - vision-passed
+mana_cost: {3}{U}
 ---
 # Thunder Drake (War of the Spark)
 

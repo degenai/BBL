@@ -53,6 +53,7 @@ oracle_text: "Destroy target creature with flying.\\nReinforce 2—{2}{G} ({2}{G
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Fowl Strike (Modern Horizons 3)
 

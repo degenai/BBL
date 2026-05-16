@@ -55,6 +55,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}{G}
 ---
 # Rakish Scoundrel (Murders at Karlov Manor)
 

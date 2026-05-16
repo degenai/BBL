@@ -56,6 +56,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {5}{B}{B}
 ---
 # Shefet Archfiend (Aetherdrift)
 

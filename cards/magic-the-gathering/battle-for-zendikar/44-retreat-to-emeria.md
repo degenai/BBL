@@ -51,6 +51,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {3}{W}
 ---
 # Retreat to Emeria (Battle for Zendikar)
 

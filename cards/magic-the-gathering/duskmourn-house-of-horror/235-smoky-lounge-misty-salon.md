@@ -64,6 +64,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {2}{R} // {3}{U}
 ---
 # Smoky Lounge // Misty Salon (Duskmourn: House of Horror)
 

@@ -53,6 +53,7 @@ oracle_text: Choose one or both —\n• Turn target face-down creature face up.
 tags:
   - card
   - vision-passed
+mana_cost: {1}{R}
 ---
 # Expose the Culprit (Showcase) (Murders at Karlov Manor)
 

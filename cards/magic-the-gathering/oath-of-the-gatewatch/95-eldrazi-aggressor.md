@@ -53,6 +53,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {2}{R}
 ---
 # Eldrazi Aggressor (Oath of the Gatewatch)
 

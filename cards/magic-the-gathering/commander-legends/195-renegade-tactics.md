@@ -55,6 +55,7 @@ oracle_text: Target creature can't block this turn.\nDraw a card.
 tags:
   - card
   - vision-passed
+mana_cost: {R}
 ---
 # Renegade Tactics (Commander Legends)
 

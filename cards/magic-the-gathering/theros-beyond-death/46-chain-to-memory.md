@@ -55,6 +55,7 @@ oracle_text: Target creature gets -4/-0 until end of turn. Scry 2.
 tags:
   - card
   - vision-passed
+mana_cost: {U}
 ---
 # Chain to Memory (Theros Beyond Death)
 

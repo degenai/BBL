@@ -55,6 +55,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{R}
 ---
 # Immobilizer Eldrazi (Oath of the Gatewatch)
 

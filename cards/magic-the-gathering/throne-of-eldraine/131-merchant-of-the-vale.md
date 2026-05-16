@@ -54,6 +54,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {2}{R} // {R}
 ---
 # Merchant of the Vale (Throne of Eldraine)
 

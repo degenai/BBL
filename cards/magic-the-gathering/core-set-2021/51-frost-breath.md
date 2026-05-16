@@ -54,6 +54,7 @@ oracle_text: Tap up to two target creatures. Those creatures don't untap during 
 tags:
   - card
   - vision-passed
+mana_cost: {2}{U}
 ---
 # Frost Breath (Core Set 2021)
 

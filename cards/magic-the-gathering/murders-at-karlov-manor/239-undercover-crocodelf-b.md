@@ -56,6 +56,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {4}{G}{U}
 ---
 # Undercover Crocodelf (b) (Murders at Karlov Manor)
 

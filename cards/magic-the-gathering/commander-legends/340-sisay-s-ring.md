@@ -53,6 +53,7 @@ oracle_text: "{T}: Add {C}{C}."
 tags:
   - card
   - vision-passed
+mana_cost: {4}
 ---
 # Sisay's Ring (Commander Legends)
 

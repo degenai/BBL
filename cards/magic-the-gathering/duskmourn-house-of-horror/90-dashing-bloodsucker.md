@@ -55,6 +55,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {3}{B}
 ---
 # Dashing Bloodsucker (Duskmourn: House of Horror)
 

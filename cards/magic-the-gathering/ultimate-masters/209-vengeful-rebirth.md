@@ -54,6 +54,7 @@ oracle_text: Return target card from your graveyard to your hand. If you return 
 tags:
   - card
   - vision-passed
+mana_cost: {4}{R}{G}
 ---
 # Vengeful Rebirth (Ultimate Masters)
 

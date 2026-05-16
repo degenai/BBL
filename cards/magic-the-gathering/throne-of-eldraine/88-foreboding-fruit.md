@@ -53,6 +53,7 @@ oracle_text: "Target player draws two cards and loses 2 life.\\nAdamant — If a
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}
 ---
 # Foreboding Fruit (Throne of Eldraine)
 

@@ -53,6 +53,7 @@ flavor_text: \"Feeding a normal army is a problem of logistics. With zombies, it
 tags:
   - card
   - vision-passed
+mana_cost: {1}{B}
 ---
 # Walking Corpse (Core Set 2021)
 

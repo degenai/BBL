@@ -59,6 +59,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {3}{U}
 ---
 # Azure Fleet Admiral (Commander Legends)
 

@@ -53,6 +53,7 @@ oracle_text: Untap all creatures you control. Creatures you control with flying 
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Rally of Wings (War of the Spark)
 

@@ -52,6 +52,7 @@ oracle_text: Target creature gets +1/+1 and gains your choice of deathtouch or l
 tags:
   - card
   - vision-passed
+mana_cost: {B}
 ---
 # Alchemist's Gift (Core Set 2021)
 

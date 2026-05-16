@@ -53,6 +53,7 @@ oracle_text: Exile target creature.
 tags:
   - card
   - vision-passed
+mana_cost: {4}{B}
 ---
 # Final Death (Theros Beyond Death)
 

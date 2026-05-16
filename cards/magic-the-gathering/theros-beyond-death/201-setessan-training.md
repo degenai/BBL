@@ -54,6 +54,7 @@ oracle_text: Enchant creature you control\nWhen this Aura enters, draw a card.\n
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Setessan Training (Theros Beyond Death)
 

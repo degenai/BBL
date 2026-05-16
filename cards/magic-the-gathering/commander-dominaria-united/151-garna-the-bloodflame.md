@@ -29,6 +29,7 @@ tags:
   - card
   - manual-review
 
+mana_cost: {3}{B}{R}
 ---
 # Garna, the Bloodflame (Commander: Dominaria United)
 

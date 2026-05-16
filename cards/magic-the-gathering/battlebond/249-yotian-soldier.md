@@ -55,6 +55,7 @@ oracle_text: Vigilance
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Yotian Soldier (Battlebond)
 

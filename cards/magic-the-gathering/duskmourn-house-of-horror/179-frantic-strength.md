@@ -62,6 +62,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {2}{G}
 ---
 # Frantic Strength (Duskmourn: House of Horror)
 

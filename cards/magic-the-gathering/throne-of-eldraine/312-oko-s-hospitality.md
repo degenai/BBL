@@ -61,6 +61,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {3}{G}{U}
 ---
 # Oko's Hospitality (Throne of Eldraine)
 

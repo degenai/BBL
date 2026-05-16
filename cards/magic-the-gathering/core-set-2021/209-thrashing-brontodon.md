@@ -52,6 +52,7 @@ oracle_text: "{1}, Sacrifice this creature: Destroy target artifact or enchantme
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}{G}
 ---
 # Thrashing Brontodon (Core Set 2021)
 

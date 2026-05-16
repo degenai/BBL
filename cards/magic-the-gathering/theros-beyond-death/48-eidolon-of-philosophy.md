@@ -56,6 +56,7 @@ oracle_text: "{6}{U}, Sacrifice this creature: Draw three cards."
 tags:
   - card
   - vision-passed
+mana_cost: {U}
 ---
 # Eidolon of Philosophy (Theros Beyond Death)
 

@@ -55,6 +55,7 @@ oracle_text: When this creature enters, you may search your library for a basic 
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Borderland Ranger (Mystery Booster Cards)
 

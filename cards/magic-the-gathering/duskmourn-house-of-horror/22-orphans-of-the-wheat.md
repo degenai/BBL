@@ -54,6 +54,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Orphans of the Wheat (Duskmourn: House of Horror)
 

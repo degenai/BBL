@@ -58,6 +58,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {4}{B}
 ---
 # The Eldest Reborn (Mystery Booster Cards)
 

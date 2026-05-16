@@ -52,6 +52,7 @@ oracle_text: Flying\nWhenever this creature attacks, it deals damage to any targ
 tags:
   - card
   - vision-passed
+mana_cost: {3}{U}{R}
 ---
 # Thundering Djinn (Modern Horizons)
 

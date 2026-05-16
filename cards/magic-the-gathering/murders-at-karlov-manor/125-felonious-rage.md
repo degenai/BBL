@@ -51,6 +51,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {R}
 ---
 # Felonious Rage (Murders at Karlov Manor)
 

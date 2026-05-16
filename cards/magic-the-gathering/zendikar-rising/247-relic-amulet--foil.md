@@ -53,6 +53,7 @@ oracle_text: "Whenever you cast an instant, sorcery, or Wizard spell, put a char
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Relic Amulet (Zendikar Rising)
 

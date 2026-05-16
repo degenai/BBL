@@ -54,6 +54,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}
 ---
 # Greenbelt Radical (Murders at Karlov Manor)
 

@@ -57,6 +57,7 @@ oracle_text: "Flying\\n{X}{B}{B}: Target creature gets -0/-X until end of turn a
 tags:
   - card
   - vision-passed
+mana_cost: {3}{B}{B}
 ---
 # Drana, Kalastria Bloodchief (Mystery Booster Cards)
 

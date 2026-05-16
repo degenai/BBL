@@ -54,6 +54,7 @@ oracle_text: Equipped creature gets +2/+2.\nEquip Knight {1}\nEquip {3}
 tags:
   - card
   - vision-passed
+mana_cost: {B}{R}
 ---
 # Steelclaw Lance (Throne of Eldraine)
 

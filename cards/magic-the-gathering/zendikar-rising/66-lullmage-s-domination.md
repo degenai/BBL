@@ -53,6 +53,7 @@ oracle_text: This spell costs {3} less to cast if it targets a creature whose co
 tags:
   - card
   - vision-passed
+mana_cost: {X}{U}{U}{U}
 ---
 # Lullmage's Domination (Zendikar Rising)
 

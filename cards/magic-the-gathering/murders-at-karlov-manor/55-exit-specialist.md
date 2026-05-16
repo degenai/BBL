@@ -52,6 +52,7 @@ setting: dungeon
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}
 ---
 # Exit Specialist (Murders at Karlov Manor)
 

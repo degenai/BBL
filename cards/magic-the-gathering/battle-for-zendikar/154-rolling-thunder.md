@@ -54,6 +54,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {X}{R}{R}
 ---
 # Rolling Thunder (Battle for Zendikar)
 

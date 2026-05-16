@@ -54,6 +54,7 @@ oracle_text: Enchant creature\nYou control enchanted creature.\nEnchanted creatu
 tags:
   - card
   - vision-passed
+mana_cost: {3}{U}{B}
 ---
 # Coerced to Kill (Showcase) (Murders at Karlov Manor)
 

@@ -55,6 +55,7 @@ oracle_text: Target player mills four cards.\nEscape—{3}{U}, Exile four other 
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}
 ---
 # Sweet Oblivion (Theros Beyond Death)
 

@@ -54,6 +54,7 @@ oracle_text: Flying\nWhenever this creature deals combat damage to a player or p
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Grateful Apparition (War of the Spark)
 

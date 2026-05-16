@@ -54,6 +54,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}
 ---
 # Undergrowth Scavenger (Magic 2015 (M15))
 

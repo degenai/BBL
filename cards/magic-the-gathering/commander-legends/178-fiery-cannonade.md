@@ -53,6 +53,7 @@ oracle_text: Fiery Cannonade deals 2 damage to each non-Pirate creature.
 tags:
   - card
   - vision-passed
+mana_cost: {2}{R}
 ---
 # Fiery Cannonade (Commander Legends)
 

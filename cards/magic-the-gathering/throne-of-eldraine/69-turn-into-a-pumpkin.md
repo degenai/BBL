@@ -54,6 +54,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {3}{U}
 ---
 # Turn into a Pumpkin (Throne of Eldraine)
 

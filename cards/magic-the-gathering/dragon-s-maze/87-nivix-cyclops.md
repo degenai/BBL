@@ -56,6 +56,7 @@ oracle_text: Defender\nWhenever you cast an instant or sorcery spell, this creat
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}{R}
 ---
 # Nivix Cyclops (Dragon's Maze)
 

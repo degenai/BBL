@@ -52,6 +52,7 @@ oracle_text: "Equipped creature has double strike. (It deals both first-strike a
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Fireshrieker (Magic 2014 (M14))
 

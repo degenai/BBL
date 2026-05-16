@@ -54,6 +54,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Hydra Trainer (Modern Horizons 3)
 

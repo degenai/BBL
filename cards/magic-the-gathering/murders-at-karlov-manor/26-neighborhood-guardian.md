@@ -52,6 +52,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Neighborhood Guardian (Murders at Karlov Manor)
 

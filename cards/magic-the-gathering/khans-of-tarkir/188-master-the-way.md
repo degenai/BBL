@@ -57,6 +57,7 @@ oracle_text: Draw a card. Master the Way deals damage to any target equal to the
 tags:
   - card
   - vision-passed
+mana_cost: {3}{U}{R}
 ---
 # Master the Way (Khans of Tarkir)
 

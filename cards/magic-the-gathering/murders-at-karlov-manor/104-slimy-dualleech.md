@@ -53,6 +53,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {3}{B}
 ---
 # Slimy Dualleech (Murders at Karlov Manor)
 

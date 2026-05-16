@@ -56,6 +56,7 @@ oracle_text: Flash\nFlying
 tags:
   - card
   - vision-passed
+mana_cost: {2}{U}
 ---
 # Vexing Gull (Theros Beyond Death)
 

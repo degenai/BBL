@@ -51,6 +51,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {G}
 ---
 # Rosethorn Halberd (Throne of Eldraine)
 

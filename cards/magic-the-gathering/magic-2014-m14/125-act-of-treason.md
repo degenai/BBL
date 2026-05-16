@@ -55,6 +55,7 @@ setting: void
 tags:
   - card
   - vision-passed
+mana_cost: {2}{R}
 ---
 # Act of Treason (Magic 2014 (M14))
 

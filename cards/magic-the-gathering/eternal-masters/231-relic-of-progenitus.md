@@ -55,6 +55,7 @@ oracle_text: "{T}: Target player exiles a card from their graveyard.\\n{1}, Exil
 tags:
   - card
   - vision-passed
+mana_cost: {1}
 ---
 # Relic of Progenitus (Eternal Masters)
 

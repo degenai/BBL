@@ -56,6 +56,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}{G}
 ---
 # Rootwise Survivor (Duskmourn: House of Horror)
 

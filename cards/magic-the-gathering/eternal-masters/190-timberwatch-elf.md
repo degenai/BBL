@@ -52,6 +52,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Timberwatch Elf (Eternal Masters)
 

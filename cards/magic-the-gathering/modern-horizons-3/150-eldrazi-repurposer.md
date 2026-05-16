@@ -55,6 +55,7 @@ oracle_text: "Devoid (This card has no color.)\\nWhen you cast this spell and wh
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Eldrazi Repurposer (Modern Horizons 3)
 

@@ -54,6 +54,7 @@ oracle_text: When this creature enters, look at the top three cards of your libr
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}
 ---
 # Augur of Bolas (War of the Spark)
 

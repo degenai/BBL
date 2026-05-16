@@ -51,6 +51,7 @@ oracle_text: Target creature gets +3/+2 until end of turn. Scry 1.
 tags:
   - card
   - vision-passed
+mana_cost: {1}{R}
 ---
 # Inordinate Rage (Zendikar Rising)
 

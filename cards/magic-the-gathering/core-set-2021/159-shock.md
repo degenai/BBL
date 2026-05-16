@@ -52,6 +52,7 @@ oracle_text: Shock deals 2 damage to any target.
 tags:
   - card
   - vision-passed
+mana_cost: {R}
 ---
 # Shock (Core Set 2021)
 

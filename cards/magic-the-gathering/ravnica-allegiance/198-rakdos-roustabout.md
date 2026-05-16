@@ -52,6 +52,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{B}{R}
 ---
 # Rakdos Roustabout (Ravnica Allegiance)
 

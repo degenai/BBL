@@ -53,6 +53,7 @@ oracle_text: Exile target artifact or enchantment.\nDraw a card.
 tags:
   - card
   - vision-passed
+mana_cost: {2}{W}{W}
 ---
 # True Love's Kiss (Throne of Eldraine)
 

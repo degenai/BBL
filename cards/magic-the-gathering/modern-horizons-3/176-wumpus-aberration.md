@@ -55,6 +55,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}
 ---
 # Wumpus Aberration (Modern Horizons 3)
 

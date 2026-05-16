@@ -59,6 +59,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {2}{W}
 ---
 # Topple the Statue (War of the Spark)
 

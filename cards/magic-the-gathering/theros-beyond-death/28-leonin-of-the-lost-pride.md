@@ -58,6 +58,7 @@ oracle_text: When this creature dies, exile target card from an opponent's grave
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Leonin of the Lost Pride (Theros Beyond Death)
 

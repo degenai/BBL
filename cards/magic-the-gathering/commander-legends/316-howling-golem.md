@@ -54,6 +54,7 @@ oracle_text: Whenever this creature attacks or blocks, each player draws a card.
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Howling Golem (Commander Legends)
 

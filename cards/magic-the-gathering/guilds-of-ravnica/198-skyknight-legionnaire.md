@@ -60,6 +60,7 @@ oracle_text: Flying, haste
 tags:
   - card
   - vision-passed
+mana_cost: {1}{R}{W}
 ---
 # Skyknight Legionnaire (Guilds of Ravnica)
 

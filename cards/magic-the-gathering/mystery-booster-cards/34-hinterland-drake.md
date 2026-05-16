@@ -55,6 +55,7 @@ oracle_text: Flying\nThis creature can't block artifact creatures.
 tags:
   - card
   - vision-passed
+mana_cost: {2}{U}
 ---
 # Hinterland Drake (Mystery Booster Cards)
 

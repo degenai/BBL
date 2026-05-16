@@ -55,6 +55,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {2}{U}
 ---
 # Cursed Windbreaker (Duskmourn: House of Horror)
 

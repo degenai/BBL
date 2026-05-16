@@ -28,6 +28,7 @@ tags:
   - card
   - manual-review
 
+mana_cost: {1}{G}
 ---
 # Ilysian Caryatid (Theros Beyond Death)
 

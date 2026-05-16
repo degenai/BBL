@@ -31,5 +31,6 @@ image_height: 1040
 image_quality: high
 tags:
   - card
+mana_cost: {4}{U}
 ---
 # Witness of Tomorrows (Theros Beyond Death)

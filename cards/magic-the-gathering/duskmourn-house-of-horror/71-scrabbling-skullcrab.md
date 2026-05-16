@@ -54,6 +54,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {U}
 ---
 # Scrabbling Skullcrab (Duskmourn: House of Horror)
 

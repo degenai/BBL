@@ -17,6 +17,8 @@ appears_on:
   - magic-the-gathering/mystery-booster-cards/146-athreos-god-of-passage
   - magic-the-gathering/theros-beyond-death/115-soulreaper-of-mogis
   - magic-the-gathering/theros-beyond-death/227-slaughter-priest-of-mogis
+  - magic-the-gathering/theros-beyond-death/154-skophos-warleader
+  - magic-the-gathering/theros/195-kragma-warcaller
   - magic-the-gathering/theros-beyond-death/187-nylea-s-huntmaster
   - magic-the-gathering/theros-beyond-death/26-karametra-s-blessing
   - magic-the-gathering/theros-beyond-death/197-return-to-nature

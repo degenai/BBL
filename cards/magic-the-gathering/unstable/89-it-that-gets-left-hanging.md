@@ -51,6 +51,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {5}{R}
 ---
 # It That Gets Left Hanging (Unstable)
 

@@ -54,6 +54,7 @@ oracle_text: Enchant creature\nEnchanted creature gets +2/+2 and can't block.\nW
 tags:
   - card
   - vision-passed
+mana_cost: {2}{R}
 ---
 # Undying Rage (Commander Legends)
 

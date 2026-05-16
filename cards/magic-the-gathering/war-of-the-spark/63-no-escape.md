@@ -52,6 +52,7 @@ oracle_text: Counter target creature or planeswalker spell. If that spell is cou
 tags:
   - card
   - vision-passed
+mana_cost: {2}{U}
 ---
 # No Escape (War of the Spark)
 

@@ -54,6 +54,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {2}{W}
 ---
 # Cage of Hands (Commander Legends)
 

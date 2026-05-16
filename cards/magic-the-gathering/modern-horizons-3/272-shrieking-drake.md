@@ -51,6 +51,7 @@ setting: desert
 tags:
   - card
   - vision-passed
+mana_cost: {U}
 ---
 # Shrieking Drake (Modern Horizons 3)
 

@@ -57,6 +57,7 @@ oracle_text: "{T}: Add {U}, {R}, or {W}.\\n{U}{R}{W}, {T}, Sacrifice this artifa
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Jeskai Banner (Khans of Tarkir)
 

@@ -53,6 +53,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {5}{W}{B}
 ---
 # Knight of the Last Breath (Ravnica Allegiance)
 

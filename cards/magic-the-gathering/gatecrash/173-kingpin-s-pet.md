@@ -58,6 +58,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{W}{B}
 ---
 # Kingpin's Pet (Gatecrash)
 

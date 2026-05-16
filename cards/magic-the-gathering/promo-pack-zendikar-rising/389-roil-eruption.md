@@ -31,6 +31,7 @@ tags:
   - card
   - manual-review
 
+mana_cost: {1}{R}
 ---
 # Roil Eruption (Promo Pack: Zendikar Rising)
 

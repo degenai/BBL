@@ -55,6 +55,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {3}{G}
 ---
 # Chalk Outline (Murders at Karlov Manor)
 

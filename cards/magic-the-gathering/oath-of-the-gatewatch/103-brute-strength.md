@@ -52,6 +52,7 @@ setting: mountain
 tags:
   - card
   - vision-passed
+mana_cost: {1}{R}
 ---
 # Brute Strength (Oath of the Gatewatch)
 

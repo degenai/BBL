@@ -28,6 +28,7 @@ tags:
   - card
   - manual-review
 
+mana_cost: {4}{B}
 ---
 # Lazotep Behemoth (War of the Spark)
 

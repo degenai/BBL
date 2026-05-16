@@ -55,6 +55,7 @@ oracle_text: Exile target creature. Its controller gains life equal to its power
 tags:
   - card
   - vision-passed
+mana_cost: {W}
 ---
 # Swords to Plowshares (Mystery Booster Cards)
 

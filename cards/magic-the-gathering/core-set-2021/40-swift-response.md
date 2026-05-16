@@ -54,6 +54,7 @@ oracle_text: Destroy target tapped creature.
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Swift Response (Core Set 2021)
 

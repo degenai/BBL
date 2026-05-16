@@ -59,6 +59,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-pending
+mana_cost: {4}{W}{W}
 ---
 # Fear of Abduction (Duskmourn: House of Horror)
 

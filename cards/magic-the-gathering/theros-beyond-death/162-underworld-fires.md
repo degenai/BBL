@@ -52,6 +52,7 @@ oracle_text: Underworld Fires deals 1 damage to each creature and each planeswal
 tags:
   - card
   - vision-passed
+mana_cost: {1}{R}
 ---
 # Underworld Fires (Theros Beyond Death)
 

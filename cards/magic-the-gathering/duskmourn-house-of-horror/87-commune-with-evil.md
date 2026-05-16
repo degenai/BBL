@@ -53,6 +53,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}
 ---
 # Commune with Evil (Duskmourn: House of Horror)
 

@@ -55,6 +55,7 @@ oracle_text: "{T}, Sacrifice a creature: Create a Food token. If the sacrificed 
 tags:
   - card
   - vision-passed
+mana_cost: {1}
 ---
 # Witch's Oven (Throne of Eldraine)
 

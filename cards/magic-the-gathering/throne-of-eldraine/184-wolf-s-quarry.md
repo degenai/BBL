@@ -56,6 +56,7 @@ oracle_text: "Create three 1/1 green Boar creature tokens with \\\"When this tok
 tags:
   - card
   - vision-passed
+mana_cost: {4}{G}{G}
 ---
 # Wolf's Quarry (Throne of Eldraine)
 

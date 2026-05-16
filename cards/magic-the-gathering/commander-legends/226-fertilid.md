@@ -52,6 +52,7 @@ oracle_text: "This creature enters with two +1/+1 counters on it.\\n{1}{G}, Remo
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Fertilid (Commander Legends)
 

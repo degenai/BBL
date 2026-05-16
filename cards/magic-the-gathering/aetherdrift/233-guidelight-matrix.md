@@ -51,6 +51,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Guidelight Matrix (Aetherdrift)
 

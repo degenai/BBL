@@ -55,6 +55,7 @@ oracle_text: Reach
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Sporecap Spider (Throne of Eldraine)
 

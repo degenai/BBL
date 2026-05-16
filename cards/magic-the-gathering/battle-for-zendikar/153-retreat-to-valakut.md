@@ -53,6 +53,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {2}{R}
 ---
 # Retreat to Valakut (Battle for Zendikar)
 

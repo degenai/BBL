@@ -56,6 +56,7 @@ oracle_text: When this creature enters, you and target opponent each draw a card
 tags:
   - card
   - vision-passed
+mana_cost: {2}{W}
 ---
 # Farsight Adept (Zendikar Rising)
 

@@ -61,6 +61,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {W}{B}
 ---
 # Despark (War of the Spark)
 

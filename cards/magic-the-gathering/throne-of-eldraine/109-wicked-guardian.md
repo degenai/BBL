@@ -9,7 +9,8 @@ grade: Ungraded
 condition: Near Mint
 quantity: 1
 held_for_lair: 0
-bundles: []
+bundles:
+  - tithe
 tags_hub:
   - noble
   - throne

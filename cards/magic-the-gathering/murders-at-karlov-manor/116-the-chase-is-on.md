@@ -57,6 +57,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {2}{R}
 ---
 # The Chase Is On (Murders at Karlov Manor)
 

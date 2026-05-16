@@ -54,6 +54,7 @@ oracle_text: Target creature you control gets +2/+2 until end of turn. It fights
 tags:
   - card
   - vision-passed
+mana_cost: {1}{R}{G}
 ---
 # Savage Smash (Ravnica Allegiance)
 

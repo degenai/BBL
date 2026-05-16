@@ -53,6 +53,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {R}{W}
 ---
 # Dog Walker (Murders at Karlov Manor)
 

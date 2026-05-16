@@ -55,6 +55,7 @@ oracle_text: Whenever you cast a white spell or a Plains you control enters, you
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Staff of the Sun Magus (Magic 2014 (M14))
 

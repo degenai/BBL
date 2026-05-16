@@ -63,6 +63,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {2}{B}
 ---
 # Vito, Thorn of the Dusk Rose (Core Set 2021)
 

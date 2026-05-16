@@ -55,6 +55,7 @@ oracle_text: This creature enters tapped.
 tags:
   - card
   - vision-passed
+mana_cost: {4}
 ---
 # Forgotten Sentinel (Core Set 2021)
 

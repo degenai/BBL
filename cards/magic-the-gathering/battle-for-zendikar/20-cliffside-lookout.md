@@ -50,6 +50,7 @@ setting: mountain
 tags:
   - card
   - vision-passed
+mana_cost: {W}
 ---
 # Cliffside Lookout (Battle for Zendikar)
 

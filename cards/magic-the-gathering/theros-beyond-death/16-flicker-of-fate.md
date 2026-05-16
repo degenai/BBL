@@ -54,6 +54,7 @@ oracle_text: Exile target creature or enchantment, then return it to the battlef
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Flicker of Fate (Theros Beyond Death)
 

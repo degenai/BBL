@@ -54,6 +54,7 @@ oracle_text: When this creature enters, scry 1.
 tags:
   - card
   - vision-passed
+mana_cost: {3}{W}{W}
 ---
 # Rumbling Sentry (Theros Beyond Death)
 

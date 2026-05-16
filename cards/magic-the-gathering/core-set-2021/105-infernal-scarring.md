@@ -55,6 +55,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{B}
 ---
 # Infernal Scarring (Core Set 2021)
 

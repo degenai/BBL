@@ -55,6 +55,7 @@ oracle_text: Shambling Suit's power is equal to the number of artifacts and/or e
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Shambling Suit (Throne of Eldraine)
 

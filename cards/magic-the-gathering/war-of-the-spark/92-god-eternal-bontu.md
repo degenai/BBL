@@ -59,6 +59,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {3}{B}{B}
 ---
 # God-Eternal Bontu (War of the Spark)
 

@@ -51,6 +51,7 @@ setting: mountain
 tags:
   - card
   - vision-passed
+mana_cost: {3}{R}{R}
 ---
 # Shatterskull Recruit (Battle for Zendikar)
 

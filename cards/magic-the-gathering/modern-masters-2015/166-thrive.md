@@ -52,6 +52,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {X}{G}
 ---
 # Thrive (Modern Masters 2015)
 

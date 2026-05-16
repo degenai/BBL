@@ -54,6 +54,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Cathartic Parting (Duskmourn: House of Horror)
 

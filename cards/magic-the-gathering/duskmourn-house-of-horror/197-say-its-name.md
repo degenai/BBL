@@ -56,6 +56,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{G}
 ---
 # Say Its Name (Duskmourn: House of Horror)
 

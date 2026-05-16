@@ -53,6 +53,7 @@ oracle_text: When this creature dies, you may have it deal 1 damage to any targe
 tags:
   - card
   - vision-passed
+mana_cost: {R}
 ---
 # Goblin Arsonist (Core Set 2021)
 

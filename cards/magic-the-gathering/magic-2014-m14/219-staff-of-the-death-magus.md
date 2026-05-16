@@ -52,6 +52,7 @@ oracle_text: Whenever you cast a black spell or a Swamp you control enters, you 
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Staff of the Death Magus (Magic 2014 (M14))
 

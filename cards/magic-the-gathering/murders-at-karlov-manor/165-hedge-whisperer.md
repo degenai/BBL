@@ -53,6 +53,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {G}
 ---
 # Hedge Whisperer (Murders at Karlov Manor)
 

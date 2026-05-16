@@ -56,6 +56,7 @@ oracle_text: Lifelink\nWhen this creature enters, put a +1/+1 counter on each ot
 tags:
   - card
   - vision-passed
+mana_cost: {W}
 ---
 # Charmed Stray (War of the Spark)
 

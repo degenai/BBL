@@ -53,6 +53,7 @@ flavor_text: Slivers destroy those who come close to the Skep, the central hive.
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Sliver Construct (Magic 2014 (M14))
 

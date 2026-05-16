@@ -53,6 +53,7 @@ flavor_text: The Champion stood alone between the horde of the Returned and the 
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Bronze Sable (Magic 2015 (M15))
 

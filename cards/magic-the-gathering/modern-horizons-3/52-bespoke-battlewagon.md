@@ -48,6 +48,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {3}{U}
 ---
 # Bespoke Battlewagon (Modern Horizons 3)
 

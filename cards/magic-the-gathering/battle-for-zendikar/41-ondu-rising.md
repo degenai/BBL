@@ -51,6 +51,7 @@ setting: desert
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Ondu Rising (Battle for Zendikar)
 

@@ -9,7 +9,8 @@ grade: Ungraded
 condition: Near Mint
 quantity: 1
 held_for_lair: 0
-bundles: []
+bundles:
+  - tithe
 tags_hub:
   - wings
   - angel
@@ -52,6 +53,7 @@ art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/24-lunar
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/6/b6eb3c20-e853-4399-a107-c3308b2e5d4e.jpg?1573505941
 flavor_text: \"A boon from the angels should never be cast aside.\"\n—Manfried Ulmach, Chief Inquisitor
 oracle_text: "Enchant creature\\nEnchanted creature gets +2/+2 and has \\\"{1}, Sacrifice a permanent: This creature gains flying until end of turn.\\\""
+mana_cost: "{1}{W}"
 tags:
   - card
   - vision-passed

@@ -54,6 +54,7 @@ flavor_text: \"Old battlefields make great gardens. So rich from the blood of th
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G} // {G}
 ---
 # Rosethorn Acolyte (Throne of Eldraine)
 

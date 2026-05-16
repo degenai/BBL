@@ -50,6 +50,7 @@ setting: ocean
 tags:
   - card
   - vision-passed
+mana_cost: {3}{U}{U}
 ---
 # Depth Defiler (Modern Horizons 3)
 

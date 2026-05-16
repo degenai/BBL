@@ -55,6 +55,7 @@ oracle_text: Other red creatures you control get +1/+1.\nOther white creatures y
 tags:
   - card
   - vision-passed
+mana_cost: {2}{R/W}{R/W}{R/W}
 ---
 # Balefire Liege (Mystery Booster: Retail Exclusives)
 

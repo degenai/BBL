@@ -53,6 +53,7 @@ oracle_text: "Creatures you control have hexproof.\\n{1}{G}: Regenerate target c
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}{G}
 ---
 # Asceticism (Mystery Booster Cards)
 

@@ -53,6 +53,7 @@ oracle_text: "{T}: Add {G}, {U}, or {R}.\\n{G}{U}{R}, {T}, Sacrifice this artifa
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Temur Banner (Khans of Tarkir)
 

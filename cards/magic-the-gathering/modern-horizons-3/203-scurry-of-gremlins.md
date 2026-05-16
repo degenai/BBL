@@ -55,6 +55,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {2}{R}{W}
 ---
 # Scurry of Gremlins (Modern Horizons 3)
 

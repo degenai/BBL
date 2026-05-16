@@ -54,6 +54,7 @@ oracle_text: "{1}, Sacrifice this artifact: Target creature gains deathtouch unt
 tags:
   - card
   - vision-passed
+mana_cost: {1}
 ---
 # Vial of Poison (Magic 2014 (M14))
 

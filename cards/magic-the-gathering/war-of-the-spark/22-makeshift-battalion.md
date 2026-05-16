@@ -56,6 +56,7 @@ oracle_text: Battalion — Whenever this creature and at least two other creatur
 tags:
   - card
   - vision-passed
+mana_cost: {2}{W}
 ---
 # Makeshift Battalion (War of the Spark)
 

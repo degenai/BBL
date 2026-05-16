@@ -58,6 +58,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {2}{G}
 ---
 # Garruk's Uprising (Core Set 2021)
 

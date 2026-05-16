@@ -55,6 +55,7 @@ oracle_text: Target player loses 2 life.\nEscape—{3}{B}, Exile three other car
 tags:
   - card
   - vision-passed
+mana_cost: {B}
 ---
 # Fruit of Tizerus (Theros Beyond Death)
 

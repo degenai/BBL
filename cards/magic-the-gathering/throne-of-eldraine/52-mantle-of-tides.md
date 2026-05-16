@@ -54,6 +54,7 @@ oracle_text: "Equipped creature gets +1/+2.\\nWhenever you draw your second card
 tags:
   - card
   - vision-passed
+mana_cost: {U}
 ---
 # Mantle of Tides (Throne of Eldraine)
 

@@ -52,6 +52,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}
 ---
 # Rise of the Varmints (Outlaws of Thunder Junction)
 

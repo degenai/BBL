@@ -53,6 +53,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {3}{R}{G}
 ---
 # Primal Visitation (Gatecrash)
 

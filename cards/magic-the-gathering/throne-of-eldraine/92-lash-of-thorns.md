@@ -53,6 +53,7 @@ oracle_text: Target creature gets +2/+1 and gains deathtouch until end of turn.
 tags:
   - card
   - vision-passed
+mana_cost: {B}
 ---
 # Lash of Thorns (Throne of Eldraine)
 

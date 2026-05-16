@@ -53,6 +53,7 @@ flavor_text: Countless knights of Garenbrig owe their lives to his peerless craf
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G} // {1}{G}
 ---
 # Garenbrig Carver (Throne of Eldraine)
 

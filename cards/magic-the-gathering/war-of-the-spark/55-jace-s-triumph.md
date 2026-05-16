@@ -62,6 +62,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {2}{U}
 ---
 # Jace's Triumph (War of the Spark)
 

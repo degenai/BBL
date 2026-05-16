@@ -56,6 +56,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {2}{U}{R}
 ---
 # Gadget Technician (Murders at Karlov Manor)
 

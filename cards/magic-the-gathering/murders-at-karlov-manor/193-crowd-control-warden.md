@@ -55,6 +55,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}{W}
 ---
 # Crowd-Control Warden (Murders at Karlov Manor)
 

@@ -51,6 +51,7 @@ setting: ocean
 tags:
   - card
   - vision-passed
+mana_cost: {3}{U}
 ---
 # Deep Analysis (Modern Horizons 3)
 

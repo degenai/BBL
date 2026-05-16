@@ -49,6 +49,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Dog Umbra (Modern Horizons 3)
 

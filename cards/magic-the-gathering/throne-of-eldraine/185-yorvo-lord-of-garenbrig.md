@@ -52,6 +52,7 @@ oracle_text: Yorvo enters with four +1/+1 counters on it.\nWhenever another gree
 tags:
   - card
   - vision-passed
+mana_cost: {G}{G}{G}
 ---
 # Yorvo, Lord of Garenbrig (Throne of Eldraine)
 

@@ -54,6 +54,7 @@ setting: desert
 tags:
   - card
   - vision-passed
+mana_cost: {B}{G}
 ---
 # Kin-Tree Invocation (Khans of Tarkir)
 

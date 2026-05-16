@@ -55,6 +55,7 @@ oracle_text: "Defender\\n{T}: Creatures you control gain haste until end of turn
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Crashing Drawbridge (Throne of Eldraine)
 

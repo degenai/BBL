@@ -56,6 +56,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}
 ---
 # Killer's Mask (Duskmourn: House of Horror)
 

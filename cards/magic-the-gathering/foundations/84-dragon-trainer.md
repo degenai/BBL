@@ -53,6 +53,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-pending
+mana_cost: {3}{R}{R}
 ---
 # Dragon Trainer (Foundations)
 

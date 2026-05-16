@@ -54,6 +54,7 @@ oracle_text: When this creature enters, draw a card, then discard a card.
 tags:
   - card
   - vision-passed
+mana_cost: {2}{U}
 ---
 # Elite Instructor (Theros Beyond Death)
 

@@ -58,6 +58,7 @@ oracle_text: "Whenever you sacrifice a permanent, this creature gets +2/+0 until
 tags:
   - card
   - vision-passed
+mana_cost: {B}{R}
 ---
 # Slaughter-Priest of Mogis (Theros Beyond Death)
 

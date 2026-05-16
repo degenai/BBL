@@ -53,6 +53,7 @@ oracle_text: Permanents you control gain hexproof and indestructible until end o
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Heroic Intervention (Core Set 2021)
 

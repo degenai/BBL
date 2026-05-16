@@ -9,7 +9,8 @@ grade: Ungraded
 condition: Near Mint
 quantity: 1
 held_for_lair: 0
-bundles: []
+bundles:
+  - tithe
 symbols:
   - orzhov-signet
 characters:
@@ -58,6 +59,7 @@ art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/194-pitiles
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/8/98f66c03-cf79-4de0-be55-b921cbdc5038.jpg?1584831707
 flavor_text: \"Pay in gold. Pay in blood. Pay with the servitude of your spirit kin. But pay you must.\"
 oracle_text: "{1}, Sacrifice another creature: This creature gains deathtouch and indestructible until end of turn. (Damage and effects that say \\\"destroy\\\" don't destroy it.)"
+mana_cost: "{W}{B}"
 tags:
   - card
   - vision-passed

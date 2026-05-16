@@ -55,6 +55,7 @@ oracle_text: Whenever this creature attacks or blocks, other Humans you control 
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Hamlet Captain (Mystery Booster Cards)
 

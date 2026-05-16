@@ -61,6 +61,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {3}{R}
 ---
 # Diversion Specialist (Duskmourn: House of Horror)
 

@@ -53,6 +53,7 @@ oracle_text: "When this artifact enters, draw a card.\\n{2}, {T}, Sacrifice this
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Guild Globe (War of the Spark)
 

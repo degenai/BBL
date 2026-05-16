@@ -53,6 +53,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {G}
 ---
 # Get a Leg Up (Murders at Karlov Manor)
 

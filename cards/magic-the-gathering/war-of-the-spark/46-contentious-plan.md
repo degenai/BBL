@@ -55,6 +55,7 @@ oracle_text: Proliferate. (Choose any number of permanents and/or players, then 
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}
 ---
 # Contentious Plan (War of the Spark)
 

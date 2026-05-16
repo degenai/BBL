@@ -52,6 +52,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-pending
+mana_cost: {1}{R}
 ---
 # Reckless Pyrosurfer (Modern Horizons 3)
 

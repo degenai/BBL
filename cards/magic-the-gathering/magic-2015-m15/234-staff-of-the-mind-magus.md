@@ -52,6 +52,7 @@ oracle_text: Whenever you cast a blue spell or an Island you control enters, you
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Staff of the Mind Magus (Magic 2015 (M15))
 

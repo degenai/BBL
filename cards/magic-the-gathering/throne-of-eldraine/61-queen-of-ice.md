@@ -53,6 +53,7 @@ oracle_text: Whenever this creature deals combat damage to a creature, tap that 
 tags:
   - card
   - vision-passed
+mana_cost: {2}{U} // {1}{U}
 ---
 # Queen of Ice (Throne of Eldraine)
 

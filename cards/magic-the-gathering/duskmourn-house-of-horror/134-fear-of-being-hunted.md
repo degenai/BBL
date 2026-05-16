@@ -61,6 +61,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{R}{R}
 ---
 # Fear of Being Hunted (Duskmourn: House of Horror)
 

@@ -54,6 +54,7 @@ oracle_text: This creature must be blocked if able.\nWhen this creature dies, yo
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}
 ---
 # Canopy Stalker (Core Set 2021)
 

@@ -50,6 +50,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {3}{W}{W}
 ---
 # Lionheart Glimmer (Duskmourn: House of Horror)
 

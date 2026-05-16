@@ -52,6 +52,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {1}{U}
 ---
 # Stay Hidden, Stay Silent (0074) (Duskmourn: House of Horror)
 

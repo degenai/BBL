@@ -53,6 +53,7 @@ setting: desert
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Frontier Seeker (Outlaws of Thunder Junction)
 

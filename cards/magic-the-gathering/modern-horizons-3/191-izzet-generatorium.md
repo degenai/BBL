@@ -57,6 +57,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {U}{R}
 ---
 # Izzet Generatorium (Modern Horizons 3)
 

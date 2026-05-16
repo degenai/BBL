@@ -58,6 +58,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {4}{R}
 ---
 # Skophos Warleader (Theros Beyond Death)
 

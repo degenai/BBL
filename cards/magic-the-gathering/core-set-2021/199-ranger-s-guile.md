@@ -55,6 +55,7 @@ oracle_text: Target creature you control gets +1/+1 and gains hexproof until end
 tags:
   - card
   - vision-passed
+mana_cost: {G}
 ---
 # Ranger's Guile (Core Set 2021)
 

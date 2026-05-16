@@ -56,6 +56,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {W}
 ---
 # Alseid of Life's Bounty (Theros Beyond Death)
 

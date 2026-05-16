@@ -55,6 +55,7 @@ oracle_text: At the beginning of your end step, if you gained 3 or more life thi
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Griffin Aerie (Core Set 2021)
 

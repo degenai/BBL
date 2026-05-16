@@ -52,6 +52,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}
 ---
 # Noxious Groodion (Ravnica Allegiance)
 

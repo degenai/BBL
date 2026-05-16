@@ -51,6 +51,7 @@ oracle_text: "{T}: Add one mana of any color.\\n{3}: This artifact becomes a 3/3
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Fountain of Ichor (Modern Horizons)
 

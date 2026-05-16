@@ -53,6 +53,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {2}{W}{W}
 ---
 # Isolation Zone (Oath of the Gatewatch)
 

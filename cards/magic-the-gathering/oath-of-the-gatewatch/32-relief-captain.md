@@ -55,6 +55,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {2}{W}{W}
 ---
 # Relief Captain (Oath of the Gatewatch)
 

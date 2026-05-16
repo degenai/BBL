@@ -54,6 +54,7 @@ oracle_text: "{W}, {T}: Put a +1/+1 counter on target creature with a +1/+1 coun
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Tempered Veteran (Core Set 2021)
 

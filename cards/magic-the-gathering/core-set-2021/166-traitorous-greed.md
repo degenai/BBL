@@ -53,6 +53,7 @@ oracle_text: Gain control of target creature until end of turn. Untap that creat
 tags:
   - card
   - vision-passed
+mana_cost: {3}{R}
 ---
 # Traitorous Greed (Core Set 2021)
 

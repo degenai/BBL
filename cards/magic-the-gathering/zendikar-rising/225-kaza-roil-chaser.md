@@ -58,6 +58,7 @@ oracle_text: "Flying, haste\\n{T}: The next instant or sorcery spell you cast th
 tags:
   - card
   - vision-passed
+mana_cost: {U}{R}
 ---
 # Kaza, Roil Chaser (Zendikar Rising)
 

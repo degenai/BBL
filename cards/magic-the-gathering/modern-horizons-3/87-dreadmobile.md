@@ -51,6 +51,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}
 ---
 # Dreadmobile (Modern Horizons 3)
 

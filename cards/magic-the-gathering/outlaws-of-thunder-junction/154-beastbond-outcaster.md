@@ -51,6 +51,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Beastbond Outcaster (Outlaws of Thunder Junction)
 

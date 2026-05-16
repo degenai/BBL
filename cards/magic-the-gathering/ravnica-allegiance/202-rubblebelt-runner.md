@@ -56,6 +56,7 @@ oracle_text: This creature can't be blocked by creature tokens.
 tags:
   - card
   - vision-passed
+mana_cost: {1}{R}{G}
 ---
 # Rubblebelt Runner (Ravnica Allegiance)
 

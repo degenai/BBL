@@ -54,6 +54,7 @@ oracle_text: Changeling (This card is every creature type.)
 tags:
   - card
   - vision-passed
+mana_cost: {1}
 ---
 # Universal Automaton (Modern Horizons)
 

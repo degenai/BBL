@@ -51,6 +51,7 @@ setting: urban
 tags:
   - card
   - vision-passed
+mana_cost: {4}{U}{U}
 ---
 # Agency Outfitter (Murders at Karlov Manor)
 

@@ -54,6 +54,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}
 ---
 # Never Happened (Guilds of Ravnica)
 

@@ -53,6 +53,7 @@ oracle_text: "{1}{R}: This creature gets +2/+0 until end of turn."
 tags:
   - card
   - vision-passed
+mana_cost: {R}
 ---
 # Weaselback Redcap (Throne of Eldraine)
 

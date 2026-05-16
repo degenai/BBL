@@ -56,6 +56,7 @@ oracle_text: "{T}: Add {G}."
 tags:
   - card
   - vision-passed
+mana_cost: {G}
 ---
 # Llanowar Elves (Mystery Booster Cards)
 

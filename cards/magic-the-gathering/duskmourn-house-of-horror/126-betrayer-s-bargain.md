@@ -65,6 +65,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-verified
+mana_cost: {1}{R}
 ---
 # Betrayer's Bargain (Duskmourn: House of Horror)
 

@@ -53,6 +53,7 @@ oracle_text: Enchant creature you control\nWhen this Aura enters, enchanted crea
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Warbriar Blessing (Theros Beyond Death)
 

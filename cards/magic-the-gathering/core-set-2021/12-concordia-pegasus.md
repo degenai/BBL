@@ -56,6 +56,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{W}
 ---
 # Concordia Pegasus (Core Set 2021)
 

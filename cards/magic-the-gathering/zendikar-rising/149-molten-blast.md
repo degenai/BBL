@@ -52,6 +52,7 @@ oracle_text: Choose one —\n• Molten Blast deals 2 damage to target creature 
 tags:
   - card
   - vision-passed
+mana_cost: {2}{R}
 ---
 # Molten Blast (Zendikar Rising)
 

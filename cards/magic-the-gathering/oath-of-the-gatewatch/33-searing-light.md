@@ -52,6 +52,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {W}
 ---
 # Searing Light (Oath of the Gatewatch)
 

@@ -54,6 +54,7 @@ oracle_text: Put a +1/+1 counter on target creature you control. It gains protec
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}
 ---
 # Feat of Resistance (Core Set 2021)
 

@@ -56,6 +56,7 @@ oracle_text: Destroy target creature with flying.
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Plummet (Theros Beyond Death)
 

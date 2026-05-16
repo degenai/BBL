@@ -52,6 +52,7 @@ oracle_text: Whenever a player casts a green spell, you may pay {1}. If you do, 
 tags:
   - card
   - vision-passed
+mana_cost: {1}
 ---
 # Wooden Sphere (Classic: Sixth Edition)
 

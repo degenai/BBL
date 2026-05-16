@@ -54,6 +54,7 @@ oracle_text: Whenever one or more non-Human creatures you control deal combat da
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}{G}
 ---
 # Keeper of Fables (Throne of Eldraine)
 

@@ -56,6 +56,7 @@ oracle_text: Reach\nWhenever an opponent casts an instant or sorcery spell, crea
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}{G}
 ---
 # Arasta of the Endless Web (Theros Beyond Death)
 

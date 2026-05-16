@@ -56,6 +56,7 @@ oracle_text: Target player discards two cards.
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}
 ---
 # Mind Rot (Mystery Booster Cards)
 

@@ -52,6 +52,7 @@ oracle_text: "When this artifact enters, it deals 2 damage to any target.\\n{T}:
 tags:
   - card
   - vision-passed
+mana_cost: {5}
 ---
 # Meteorite (Core Set 2021)
 

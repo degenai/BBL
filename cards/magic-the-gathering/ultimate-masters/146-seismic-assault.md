@@ -49,6 +49,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {R}{R}{R}
 ---
 # Seismic Assault (Ultimate Masters)
 

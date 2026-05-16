@@ -55,6 +55,7 @@ oracle_text: "{2}{G}: Adapt 2. (If this creature has no +1/+1 counters on it, pu
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}
 ---
 # Temperamental Oozewagg (Modern Horizons 3)
 

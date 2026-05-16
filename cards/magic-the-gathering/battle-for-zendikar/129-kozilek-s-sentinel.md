@@ -59,6 +59,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{R}
 ---
 # Kozilek's Sentinel (Battle for Zendikar)
 

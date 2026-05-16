@@ -53,6 +53,7 @@ oracle_text: Exile the top five cards of your library. You may play cards exiled
 tags:
   - card
   - vision-passed
+mana_cost: {3}{R}{G}
 ---
 # Escape to the Wilds (Throne of Eldraine)
 

@@ -57,6 +57,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {4}
 ---
 # Conductive Machete (Duskmourn: House of Horror)
 

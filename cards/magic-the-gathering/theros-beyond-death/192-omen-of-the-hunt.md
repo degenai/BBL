@@ -53,6 +53,7 @@ oracle_text: "Flash\\nWhen this enchantment enters, you may search your library 
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Omen of the Hunt (Theros Beyond Death)
 

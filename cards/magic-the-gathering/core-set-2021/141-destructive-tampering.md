@@ -54,6 +54,7 @@ oracle_text: Choose one —\n• Destroy target artifact.\n• Creatures without
 tags:
   - card
   - vision-passed
+mana_cost: {2}{R}
 ---
 # Destructive Tampering (Core Set 2021)
 

@@ -52,6 +52,7 @@ setting: ocean
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G/U} // {4}{U/B}{U/B}
 ---
 # Flotsam // Jetsam (Murders at Karlov Manor)
 

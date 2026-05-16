@@ -61,6 +61,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {2}{W}
 ---
 # Glimmer Seeker (Duskmourn: House of Horror)
 

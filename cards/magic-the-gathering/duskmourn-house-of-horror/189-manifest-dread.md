@@ -57,6 +57,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{G}
 ---
 # Manifest Dread (Duskmourn: House of Horror)
 

@@ -60,6 +60,7 @@ tags:
   - card
   - vision-passed
   - ip-verified
+mana_cost: {2}{G}
 ---
 # Trickster's Elk (Modern Horizons 3)
 

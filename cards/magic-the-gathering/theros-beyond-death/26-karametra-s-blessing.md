@@ -54,6 +54,7 @@ oracle_text: Target creature gets +2/+2 until end of turn. If it's an enchanted 
 tags:
   - card
   - vision-passed
+mana_cost: {W}
 ---
 # Karametra's Blessing (Theros Beyond Death)
 

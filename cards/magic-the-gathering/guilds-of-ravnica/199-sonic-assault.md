@@ -56,6 +56,7 @@ oracle_text: Tap target creature. Sonic Assault deals 2 damage to that creature'
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}{R}
 ---
 # Sonic Assault (Guilds of Ravnica)
 

@@ -55,6 +55,7 @@ oracle_text: Whenever this creature attacks, create a 1/1 white Bird creature to
 tags:
   - card
   - vision-passed
+mana_cost: {3}{W}
 ---
 # Falconer Adept (Core Set 2021)
 

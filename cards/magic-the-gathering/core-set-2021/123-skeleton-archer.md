@@ -52,6 +52,7 @@ oracle_text: When this creature enters, it deals 1 damage to any target.
 tags:
   - card
   - vision-passed
+mana_cost: {3}{B}
 ---
 # Skeleton Archer (Core Set 2021)
 

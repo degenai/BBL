@@ -55,6 +55,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {1}{U}{B}
 ---
 # Horrid Shadowspinner (Modern Horizons 3)
 

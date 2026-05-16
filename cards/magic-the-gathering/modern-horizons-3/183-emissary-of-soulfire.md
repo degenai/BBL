@@ -49,6 +49,7 @@ setting: void
 tags:
   - card
   - vision-passed
+mana_cost: {1}{W}{U}
 ---
 # Emissary of Soulfire (Modern Horizons 3)
 

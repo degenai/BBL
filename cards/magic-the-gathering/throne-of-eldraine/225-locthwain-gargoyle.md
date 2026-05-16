@@ -54,6 +54,7 @@ oracle_text: "{4}: This creature gets +2/+0 and gains flying until end of turn."
 tags:
   - card
   - vision-passed
+mana_cost: {1}
 ---
 # Locthwain Gargoyle (Throne of Eldraine)
 

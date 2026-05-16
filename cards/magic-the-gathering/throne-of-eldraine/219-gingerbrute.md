@@ -57,6 +57,7 @@ oracle_text: "Haste (This creature can attack and {T} as soon as it comes under 
 tags:
   - card
   - vision-passed
+mana_cost: {1}
 ---
 # Gingerbrute (Throne of Eldraine)
 

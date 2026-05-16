@@ -54,6 +54,7 @@ oracle_text: Menace (This creature can't be blocked except by two or more creatu
 tags:
   - card
   - vision-passed
+mana_cost: {3}{B}
 ---
 # Locthwain Paladin (Throne of Eldraine)
 

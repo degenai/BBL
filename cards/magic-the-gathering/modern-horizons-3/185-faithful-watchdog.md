@@ -51,6 +51,7 @@ setting: forest
 tags:
   - card
   - vision-passed
+mana_cost: {G}{W}
 ---
 # Faithful Watchdog (Modern Horizons 3)
 

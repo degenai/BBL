@@ -60,6 +60,7 @@ oracle_text: Trample\nMorph {2}{G}{U}{R} (You may cast this card face down as a 
 tags:
   - card
   - vision-passed
+mana_cost: {3}{G}{U}{R}
 ---
 # Snowhorn Rider (Khans of Tarkir)
 

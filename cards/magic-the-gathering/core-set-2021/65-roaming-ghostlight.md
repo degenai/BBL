@@ -55,6 +55,7 @@ oracle_text: Flying\nWhen this creature enters, return up to one target non-Spir
 tags:
   - card
   - vision-passed
+mana_cost: {3}{U}{U}
 ---
 # Roaming Ghostlight (Core Set 2021)
 

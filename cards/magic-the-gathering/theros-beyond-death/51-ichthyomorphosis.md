@@ -53,6 +53,7 @@ oracle_text: Enchant creature\nEnchanted creature loses all abilities and is a b
 tags:
   - card
   - vision-passed
+mana_cost: {2}{U}
 ---
 # Ichthyomorphosis (Theros Beyond Death)
 

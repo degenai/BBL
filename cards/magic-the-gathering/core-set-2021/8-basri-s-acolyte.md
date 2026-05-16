@@ -57,6 +57,7 @@ oracle_text: Lifelink (Damage dealt by this creature also causes you to gain tha
 tags:
   - card
   - vision-passed
+mana_cost: {2}{W}{W}
 ---
 # Basri's Acolyte (Core Set 2021)
 

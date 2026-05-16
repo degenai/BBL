@@ -55,6 +55,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {4}{W}{W}
 ---
 # Archon of Falling Stars (Theros Beyond Death)
 

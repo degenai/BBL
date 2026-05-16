@@ -54,6 +54,7 @@ oracle_text: Deathtouch
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Kraul Stinger (War of the Spark)
 

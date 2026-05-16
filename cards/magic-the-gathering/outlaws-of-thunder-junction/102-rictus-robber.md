@@ -55,6 +55,7 @@ setting: dungeon
 tags:
   - card
   - vision-passed
+mana_cost: {3}{B}
 ---
 # Rictus Robber (Outlaws of Thunder Junction)
 

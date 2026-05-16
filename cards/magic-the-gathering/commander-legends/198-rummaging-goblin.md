@@ -57,6 +57,7 @@ oracle_text: "{T}, Discard a card: Draw a card."
 tags:
   - card
   - vision-passed
+mana_cost: {2}{R}
 ---
 # Rummaging Goblin (Commander Legends)
 

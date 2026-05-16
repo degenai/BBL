@@ -53,6 +53,7 @@ oracle_text: "{T}: Add {G} or {W}.\\n{G/W}{G/W}{G/W}{G/W}, {T}, Sacrifice this a
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Selesnya Locket (Guilds of Ravnica)
 

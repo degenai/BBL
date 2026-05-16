@@ -53,6 +53,7 @@ oracle_text: "Polukranos enters with six +1/+1 counters on it. It escapes with t
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}{G}
 ---
 # Polukranos, Unchained (Theros Beyond Death)
 

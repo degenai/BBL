@@ -49,6 +49,7 @@ setting: desert
 tags:
   - card
   - vision-passed
+mana_cost: {2}{W}
 ---
 # Sheer Drop (Battle for Zendikar)
 

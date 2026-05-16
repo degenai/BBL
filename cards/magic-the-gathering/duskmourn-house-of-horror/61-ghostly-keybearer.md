@@ -50,6 +50,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {3}{U}
 ---
 # Ghostly Keybearer (Duskmourn: House of Horror)
 

@@ -54,6 +54,7 @@ oracle_text: Draw three cards. Then discard two cards unless you discard an ench
 tags:
   - card
   - vision-passed
+mana_cost: {2}{U}
 ---
 # Thirst for Meaning (Theros Beyond Death)
 

@@ -51,6 +51,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{W}
 ---
 # Kor Bladewhirl (Battle for Zendikar)
 

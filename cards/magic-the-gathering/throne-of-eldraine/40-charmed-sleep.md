@@ -54,6 +54,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{U}{U}
 ---
 # Charmed Sleep (Throne of Eldraine)
 

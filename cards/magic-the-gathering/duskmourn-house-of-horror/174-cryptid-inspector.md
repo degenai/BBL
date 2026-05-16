@@ -54,6 +54,7 @@ oracle_text: Vigilance\nWhenever a face-down permanent you control enters and wh
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Cryptid Inspector (Duskmourn: House of Horror)
 

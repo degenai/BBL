@@ -55,6 +55,7 @@ oracle_text: "{2}{U}: Target creature gains flying until end of turn."
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}
 ---
 # Keen Glidemaster (Core Set 2021)
 

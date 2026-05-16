@@ -54,6 +54,7 @@ oracle_text: When this creature enters, you may discard a card. If you do, draw 
 tags:
   - card
   - vision-passed
+mana_cost: {1}{R}
 ---
 # Fissure Wizard (Zendikar Rising)
 

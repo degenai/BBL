@@ -53,6 +53,7 @@ oracle_text: "At the beginning of your end step, if a face-down creature entered
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Tunnel Tipster (Murders at Karlov Manor)
 

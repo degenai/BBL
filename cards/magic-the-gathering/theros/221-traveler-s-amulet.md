@@ -54,6 +54,7 @@ oracle_text: "{1}, Sacrifice this artifact: Search your library for a basic land
 tags:
   - card
   - vision-passed
+mana_cost: {1}
 ---
 # Traveler's Amulet (Theros)
 

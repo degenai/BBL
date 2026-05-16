@@ -51,6 +51,7 @@ setting: mountain
 tags:
   - card
   - vision-passed
+mana_cost: {3}{W}
 ---
 # Ondu Greathorn (Battle for Zendikar)
 

@@ -56,6 +56,7 @@ oracle_text: "Sacrifice a Food: Target creature blocks this creature this turn i
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Maraleaf Rider (Throne of Eldraine)
 

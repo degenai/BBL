@@ -50,6 +50,7 @@ setting: mountain
 tags:
   - card
   - vision-passed
+mana_cost: {W}
 ---
 # Expedition Envoy (Battle for Zendikar)
 

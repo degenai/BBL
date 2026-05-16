@@ -50,6 +50,7 @@ setting: other
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Really Epic Punch (Unstable)
 

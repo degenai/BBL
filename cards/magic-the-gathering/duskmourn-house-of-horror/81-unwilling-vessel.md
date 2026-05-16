@@ -53,6 +53,7 @@ tags:
   - card
   - vision-passed
   - ip-pending
+mana_cost: {2}{U}
 ---
 # Unwilling Vessel (Duskmourn: House of Horror)
 

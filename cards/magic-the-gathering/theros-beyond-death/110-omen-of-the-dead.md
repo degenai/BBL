@@ -56,6 +56,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {B}
 ---
 # Omen of the Dead (Theros Beyond Death)
 

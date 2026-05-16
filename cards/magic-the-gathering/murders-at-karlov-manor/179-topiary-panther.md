@@ -56,6 +56,7 @@ oracle_text: "Trample\\nBasic landcycling {1}{G} ({1}{G}, Discard this card: Sea
 tags:
   - card
   - vision-passed
+mana_cost: {4}{G}{G}
 ---
 # Topiary Panther (Murders at Karlov Manor)
 

@@ -52,6 +52,7 @@ oracle_text: "Enchant land\\nWhen this Aura enters, put a +1/+1 counter on targe
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # New Horizons (War of the Spark)
 

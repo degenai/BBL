@@ -53,6 +53,7 @@ oracle_text: Kicker {4} (You may pay an additional {4} as you cast this spell.)\
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}
 ---
 # Tazeem Roilmage (Zendikar Rising)
 

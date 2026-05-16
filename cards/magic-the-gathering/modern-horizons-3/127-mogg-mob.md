@@ -52,6 +52,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-pending
+mana_cost: {R}{R}{R}
 ---
 # Mogg Mob (Modern Horizons 3)
 

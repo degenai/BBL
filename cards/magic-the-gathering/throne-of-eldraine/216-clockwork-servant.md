@@ -54,6 +54,7 @@ oracle_text: Adamant — When this creature enters, if at least three mana of th
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Clockwork Servant (Throne of Eldraine)
 

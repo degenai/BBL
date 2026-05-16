@@ -57,6 +57,7 @@ tags:
   - vision-passed
   - trivia-passed
   - ip-pending
+mana_cost: {1}{R}
 ---
 # Reiterating Bolt (Modern Horizons 3)
 

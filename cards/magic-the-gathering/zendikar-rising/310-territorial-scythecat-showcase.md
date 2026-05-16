@@ -54,6 +54,7 @@ oracle_text: Trample (This creature can deal excess combat damage to the player 
 tags:
   - card
   - vision-passed
+mana_cost: {2}{G}
 ---
 # Territorial Scythecat (Showcase) (Zendikar Rising)
 

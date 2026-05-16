@@ -60,6 +60,7 @@ characters:
 tags:
   - card
   - vision-passed
+mana_cost: {1}{U}{B}
 ---
 # Fear of Infinity (Duskmourn: House of Horror)
 

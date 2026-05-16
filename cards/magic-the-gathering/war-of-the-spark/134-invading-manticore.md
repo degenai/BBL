@@ -28,6 +28,7 @@ tags:
   - card
   - manual-review
 
+mana_cost: {5}{R}
 ---
 # Invading Manticore (War of the Spark)
 

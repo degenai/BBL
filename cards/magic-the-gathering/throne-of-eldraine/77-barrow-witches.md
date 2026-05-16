@@ -55,6 +55,7 @@ oracle_text: When this creature enters, return target Knight card from your grav
 tags:
   - card
   - vision-passed
+mana_cost: {4}{B}
 ---
 # Barrow Witches (Throne of Eldraine)
 

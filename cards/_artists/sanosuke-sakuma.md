@@ -18,7 +18,9 @@ appears_on:
   - pokemon/darkness-ablaze/045-189-vanillite
   - pokemon/darkness-ablaze/086-189-larvitar
   - pokemon/fusion-strike/232-264-dancer
-  - pokemon/vivid-voltage/040-185-cramorantrelated_hubs: [labor]
+  - pokemon/vivid-voltage/040-185-cramorant
+related_hubs:
+  - labor
 notes: |
   Pokemon TCG illustrator since 2013. Approximately 159 main-TCG cards plus 32 in
   Pokemon TCG Pocket. Notable for a cross-medium portfolio: in addition to TCG
@@ -67,7 +69,7 @@ For any future Discrete Lair on Galarian working-class labor, this artist node i
 - [[045-189-vanillite]]
 - [[086-189-larvitar]]
 - [[232-264-dancer]]
-- [[040-185-cramorantrelated_hubs: [labor]]]
+- [[040-185-cramorant]]
 ## See also
 
 - [[labor]] — the BBL hub this artist node bridges into. Sakuma's NPC trainer-class portfolio is what makes the bridge load-bearing rather than aesthetic.

@@ -56,6 +56,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {4}{G}{G}
 ---
 # Slavering Branchsnapper (Duskmourn: House of Horror)
 

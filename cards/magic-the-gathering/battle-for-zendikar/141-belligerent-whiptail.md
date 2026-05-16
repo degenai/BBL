@@ -54,6 +54,7 @@ setting: mountain
 tags:
   - card
   - vision-passed
+mana_cost: {3}{R}
 ---
 # Belligerent Whiptail (Battle for Zendikar)
 

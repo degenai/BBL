@@ -55,6 +55,7 @@ oracle_text: Constellation — Whenever an enchantment you control enters, this 
 tags:
   - card
   - vision-passed
+mana_cost: {1}{G}
 ---
 # Setessan Skirmisher (Theros Beyond Death)
 

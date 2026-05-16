@@ -52,6 +52,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {2}{U}{U}
 ---
 # Sudden Setback (a) (Murders at Karlov Manor)
 

@@ -53,6 +53,7 @@ oracle_text: Equipped creature can't be blocked and has shroud. (It can't be the
 tags:
   - card
   - vision-passed
+mana_cost: {3}
 ---
 # Whispersilk Cloak (Magic 2011 (M11))
 

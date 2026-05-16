@@ -55,6 +55,7 @@ oracle_text: (As this Saga enters and after your draw step, add a lore counter. 
 tags:
   - card
   - vision-passed
+mana_cost: {2}{B}
 ---
 # Elspeth's Nightmare (Theros Beyond Death)
 

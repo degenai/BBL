@@ -51,6 +51,7 @@ setting: indoor
 tags:
   - card
   - vision-passed
+mana_cost: {W}{B}
 ---
 # Final Payment (Ravnica Allegiance)
 

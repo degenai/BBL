@@ -54,6 +54,7 @@ oracle_text: "Defender\\n{7}: This creature gets +2/+0 and gains trample until e
 tags:
   - card
   - vision-passed
+mana_cost: {7}
 ---
 # Roving Keep (Throne of Eldraine)
 

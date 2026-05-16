@@ -53,6 +53,7 @@ tags:
   - card
   - vision-passed
   - trivia-passed
+mana_cost: {1}{W}
 ---
 # Mighty Leap (Oath of the Gatewatch)
 

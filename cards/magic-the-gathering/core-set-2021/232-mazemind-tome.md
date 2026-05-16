@@ -52,6 +52,7 @@ oracle_text: "{T}, Put a page counter on this artifact: Scry 1. (Look at the top
 tags:
   - card
   - vision-passed
+mana_cost: {2}
 ---
 # Mazemind Tome (Core Set 2021)
 
