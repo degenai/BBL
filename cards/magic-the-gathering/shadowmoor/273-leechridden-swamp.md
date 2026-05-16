@@ -51,8 +51,10 @@ artist: Lars Grant-West
 art_crop_image: cards/_images/magic-the-gathering/shadowmoor/273-leechridden-swamp--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/f/afa47202-5824-4f6a-b306-465976d4d422.jpg?1562834725
 oracle_text: "({T}: Add {B}.)\\nThis land enters tapped.\\n{B}, {T}: Each opponent loses 1 life. Activate only if you control two or more black permanents."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Leechridden Swamp (Shadowmoor)
 
 ## Vision

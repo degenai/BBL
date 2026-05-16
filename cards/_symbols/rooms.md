@@ -23,8 +23,10 @@ appears_on:
 related_hubs: []
 related_characters:
   - valgavoth
+tags:
+  - layer
+  - symbol
 ---
-
 # Rooms (mechanic)
 
 The iconographic-and-rules-text primitive of the **Room** card type introduced in *Duskmourn: House of Horror* (DSK, 2024-09-27) as one of the set's signature mechanics (alongside Manifest Dread, Eerie, Survival, and Delirium-as-returning-subtheme). Rooms are a designer-coordinated split-card variant: each Room card carries two halves (two "doors") on the same physical card, and the player may cast either half as an enchantment whose half-state unlocks on the battlefield. Once unlocked, the controller may later pay the second half's mana cost as a sorcery to unlock that door too, doubling the card's enchantment effects. The marker is a first-class graph-relevant mechanical primitive parallel to [[suspect]], [[disguise]], and [[manifest-dread]]: a designer-coordinated cohort identifier that crosses multiple cards in a set, marks them as members of a designer-stated thematic program, and provides the canonical iconographic anchor for any bundle assembled around the program.

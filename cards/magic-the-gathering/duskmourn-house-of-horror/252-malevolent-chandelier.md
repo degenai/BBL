@@ -29,6 +29,7 @@ oracle_text: "Flying\\n{2}: Put target card from a graveyard on the bottom of it
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Malevolent Chandelier (Duskmourn: House of Horror)

@@ -55,8 +55,12 @@ setting: indoor
 suspected_ip: Wasabi (Big Hero 6)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - ip-pending
 ---
-
 # Wasabi - Always Prepared (Reign of Jafar)
 
 ## Vision

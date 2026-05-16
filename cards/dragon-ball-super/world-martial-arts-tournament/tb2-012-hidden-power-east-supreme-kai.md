@@ -46,8 +46,13 @@ setting: void
 suspected_ip: East Supreme Kai (Shin)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Hidden Power, East Supreme Kai (World Martial Arts Tournament)
 
 ## Vision

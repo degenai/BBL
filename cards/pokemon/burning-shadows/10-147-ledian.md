@@ -27,6 +27,8 @@ oracle_text: "Swift (Grass) 30: This attack's damage isn't affected by Weakness,
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Ledian (Burning Shadows)

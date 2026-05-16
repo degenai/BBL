@@ -39,8 +39,11 @@ needs_manual_review: false
 mood: action
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - pokemon
+  - vision-passed
 ---
-
 # Lightning Energy (Evolutions)
 
 ## Vision

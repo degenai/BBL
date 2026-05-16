@@ -43,8 +43,11 @@ oracle_text: You can use this card only if you discard a Fire Energy card from y
 mood: action
 time_of_day: night
 setting: other
+tags:
+  - card
+  - pokemon
+  - vision-passed
 ---
-
 # Kindler (Brilliant Stars)
 
 ## Vision

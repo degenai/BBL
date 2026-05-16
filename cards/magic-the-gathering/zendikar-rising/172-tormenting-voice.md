@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/172-tormenting
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/d/6da46103-a14c-4aa2-92fc-fd758335caf4.jpg?1604198268
 flavor_text: Kargan tribal lands rarely have issues with goblin raids. Coincidentally, they also rarely have issues keeping their dragons fed.
 oracle_text: As an additional cost to cast this spell, discard a card.\nDraw two cards.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Tormenting Voice (Zendikar Rising)
 
 ## Vision

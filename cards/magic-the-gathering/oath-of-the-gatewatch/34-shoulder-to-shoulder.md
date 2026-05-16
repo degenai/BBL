@@ -51,8 +51,11 @@ setting: mountain
 suspected_ip: Gideon Jura
 ip_confidence: med
 ip_verified: false
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Shoulder to Shoulder (Oath of the Gatewatch)
 
 ## Vision

@@ -52,8 +52,12 @@ setting: forest
 suspected_ip: Merlin (The Sword in the Stone)
 ip_confidence: med
 ip_verified: false
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - ip-pending
 ---
-
 # Begone! (Whispers in the Well)
 
 ## Vision

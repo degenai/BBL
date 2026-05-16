@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/166-traitorous-g
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/b/ab7052f1-9736-47b6-9da3-8c5ca925ab54.jpg?1594736826
 flavor_text: \"Remind me again, what's the going rate for betrayal these days?\"\n—Captain Rhenmir
 oracle_text: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Add two mana of any one color. (The creature can attack and {T} this turn.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Traitorous Greed (Core Set 2021)
 
 ## Vision

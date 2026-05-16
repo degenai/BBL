@@ -43,8 +43,12 @@ oracle_text: Whenever any player puts a Basic non-Darkness Pokémon onto their B
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Risky Ruins (Mega Evolution)
 
 ## Vision

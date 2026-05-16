@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/202-rubbleb
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/8/78cc4e02-949f-4879-9f32-7c33490d0b45.jpg?1584831785
 flavor_text: The sly, stealthy warriors of the Slizt Clan survive by hiding in high ground and ambushing their enemies. Other Gruul call them skulkers and cowards, but only from a safe distance.
 oracle_text: This creature can't be blocked by creature tokens.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Rubblebelt Runner (Ravnica Allegiance)
 
 ## Vision

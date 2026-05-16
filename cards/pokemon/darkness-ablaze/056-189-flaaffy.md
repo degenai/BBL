@@ -48,8 +48,12 @@ setting: other
 suspected_ip: Flaaffy
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Flaaffy (Darkness Ablaze)
 
 ## Vision

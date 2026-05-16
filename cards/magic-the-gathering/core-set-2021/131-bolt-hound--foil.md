@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/131-bolt-hound--
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/f/9f8cf3f9-4e3b-4af2-b5ef-a97eb1d2b674.jpg?1594736483
 flavor_text: Its spark is worse than its bite.
 oracle_text: Haste (This creature can attack and {T} as soon as it comes under your control.)\nWhenever this creature attacks, other creatures you control get +1/+0 until end of turn.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Bolt Hound (Core Set 2021)
 
 ## Vision

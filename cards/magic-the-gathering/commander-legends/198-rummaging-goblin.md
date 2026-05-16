@@ -54,8 +54,10 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/198-rummagin
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/5/254391a3-c12a-4944-9da5-ae166094480f.jpg?1608910383
 flavor_text: "To a goblin, value is based on the four S's: shiny, stabby, smelly, and super smelly."
 oracle_text: "{T}, Discard a card: Draw a card."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Rummaging Goblin (Commander Legends)
 
 ## Vision

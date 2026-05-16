@@ -51,8 +51,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - universe-6-tournament-cohort
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Unceasing Evolution Frost (Galactic Battle)
 
 ## Vision

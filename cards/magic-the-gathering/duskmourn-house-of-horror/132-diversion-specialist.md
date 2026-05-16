@@ -57,8 +57,11 @@ oracle_text: "Menace (This creature can't be blocked except by two or more creat
 mood: action
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Diversion Specialist (Duskmourn: House of Horror)
 
 ## Vision

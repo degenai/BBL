@@ -29,6 +29,7 @@ oracle_text: "{2}, {T}, Sacrifice this creature: Return target instant or sorcer
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Spellkeeper Weird (War of the Spark)

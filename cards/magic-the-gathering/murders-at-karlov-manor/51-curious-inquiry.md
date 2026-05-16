@@ -50,8 +50,10 @@ oracle_text: "Enchant creature\\nEnchanted creature gets +1/+1 and has \\\"Whene
 mood: other
 time_of_day: night
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Curious Inquiry (Murders at Karlov Manor)
 
 ## Vision

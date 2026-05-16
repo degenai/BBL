@@ -49,8 +49,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - son-gohan
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Son Gohan, Family of Justice (Galactic Battle)
 
 ## Vision

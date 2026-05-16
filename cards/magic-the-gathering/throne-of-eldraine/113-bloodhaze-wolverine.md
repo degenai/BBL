@@ -48,8 +48,11 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: forest
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Bloodhaze Wolverine (Throne of Eldraine)
 
 ## Vision

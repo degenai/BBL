@@ -48,8 +48,13 @@ oracle_text: Whenever either player plays a Pokémon VMAX from their hand to evo
 mood: action
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-pending
 ---
-
 # Wyndon Stadium (Vivid Voltage)
 
 ## Vision

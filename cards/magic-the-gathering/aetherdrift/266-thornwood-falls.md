@@ -47,8 +47,11 @@ art_crop_image: cards/_images/magic-the-gathering/aetherdrift/266-thornwood-fall
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/7/4723a303-7f20-4399-8bc6-6a27a61a3532.jpg?1738356957
 flavor_text: The Indigo Revolution ousted the Consulate once and for all. Now the citizens of Avishkar cheer for the Aether Rangers as they try to bring victory and glory to their new nation.
 oracle_text: "This land enters tapped.\\nWhen this land enters, you gain 1 life.\\n{T}: Add {G} or {U}."
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Thornwood Falls (Aetherdrift)
 
 ## Vision

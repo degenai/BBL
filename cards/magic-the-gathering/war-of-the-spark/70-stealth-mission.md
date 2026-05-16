@@ -29,6 +29,7 @@ oracle_text: Put two +1/+1 counters on target creature you control. That creatur
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Stealth Mission (War of the Spark)

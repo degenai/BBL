@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/76-bake-int
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/2/42a4d090-1bb7-4334-ab22-e2527391e79b.jpg?1572490064
 flavor_text: \"My secret ingredient? Well, I can't tell you that. But here's a hint. It's not love.\"
 oracle_text: "Destroy target creature. Create a Food token. (It's an artifact with \\\"{2}, {T}, Sacrifice this token: You gain 3 life.\\\")"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Bake into a Pie (Throne of Eldraine)
 
 ## Vision

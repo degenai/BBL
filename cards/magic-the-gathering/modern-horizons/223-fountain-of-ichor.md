@@ -48,8 +48,10 @@ art_crop_image: cards/_images/magic-the-gathering/modern-horizons/223-fountain-o
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/0/b022a628-4883-427a-8477-0e87d1a71028.jpg?1562202462
 flavor_text: Sun Empire priests thought they were digging a well. What they tapped was something different entirely.
 oracle_text: "{T}: Add one mana of any color.\\n{3}: This artifact becomes a 3/3 Dinosaur artifact creature until end of turn."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Fountain of Ichor (Modern Horizons)
 
 ## Vision

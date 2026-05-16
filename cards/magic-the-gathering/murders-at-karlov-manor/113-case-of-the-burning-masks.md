@@ -47,8 +47,11 @@ oracle_text: "When this Case enters, it deals 3 damage to target creature an opp
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Case of the Burning Masks (Murders at Karlov Manor)
 
 ## Vision

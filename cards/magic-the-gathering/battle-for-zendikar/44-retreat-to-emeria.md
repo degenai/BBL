@@ -48,8 +48,10 @@ image_quality: high
 mood: sublime
 time_of_day: day
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Retreat to Emeria (Battle for Zendikar)
 
 ## Vision

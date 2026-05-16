@@ -52,8 +52,12 @@ subject_known_ip: true
 suspected_ip: Bunnelby (Pokemon)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Bunnelby (Darkness Ablaze)
 
 ## Vision

@@ -49,8 +49,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
 ---
-
 # Propagator Drone (Modern Horizons 3)
 
 ## Vision

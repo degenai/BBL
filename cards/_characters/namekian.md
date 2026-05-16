@@ -41,8 +41,10 @@ related_characters:
   - universe-6-tournament-cohort
   - son-gohan
 ip_resolution_for: namekian
+tags:
+  - layer
+  - character
 ---
-
 # Namekian
 
 The plant-derived alien race introduced into Dragon Ball canon via the Demon King Piccolo arc (Dragon Ball chapters 134-194, 1976-1978 manga / 1986-1989 anime) and substantially expanded during the Namek / Frieza Saga (Dragon Ball Z chapters 235-329, 1989-1991 manga / 1990-1991 anime), when their homeworld Planet Namek is introduced as the second canonical Dragon-Ball-generating world in the franchise. Per Dragon Ball Wiki's Namekian race page, the race is a single biological species split into two cultural clans: the **Dragon Clan** (the healer-creator caste, builders of the Namekian Dragon Balls — the seven larger green crystalline orbs whose wish-summoning Porunga distinguishes them from Earth's Shenron-set), and the **Demon Clan / Warrior-Type** (the combat caste, of which King Piccolo and his progeny Tambourine, Cymbal, Drum, and Piano are the canonical exemplars). The race's signature biological features — green skin, pointed ears, cranial antenna-ridges on warrior-types, regenerative limb-regrowth, asexual reproduction by spat eggs, and the canonical *fusion mechanic* where two Namekians can permanently merge into a single stronger individual — are designer-coordinated across forty years of franchise output and form one of the franchise's most consistently-instantiated alien-race designs.

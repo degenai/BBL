@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/magic-2014-m14/222-staff-of-th
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/0/90a1f830-d19a-4ebf-9573-09b677693dd6.jpg?1562832317
 flavor_text: A symbol of conviction in uncertain times.
 oracle_text: Whenever you cast a white spell or a Plains you control enters, you gain 1 life.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Staff of the Sun Magus (Magic 2014 (M14))
 
 ## Vision

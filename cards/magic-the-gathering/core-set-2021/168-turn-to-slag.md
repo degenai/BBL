@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/168-turn-to-slag
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/8/38c18541-e95e-4ae0-be18-3bfcafa24ca2.jpg?1594736842
 flavor_text: \"If it wasn't a blackened, stinking, melted abomination before, it certainly is now.\"\n—Koth of the Hammer
 oracle_text: Turn to Slag deals 5 damage to target creature. Destroy all Equipment attached to that creature.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Turn to Slag (Core Set 2021)
 
 ## Vision

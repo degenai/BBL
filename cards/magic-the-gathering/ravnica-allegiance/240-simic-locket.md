@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/240-simic-l
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/9/29c65978-e5b0-428e-aace-f99768ca6106.jpg?1584832182
 flavor_text: \"Like our guild itself, this locket can stand for many things. You must discern what it means for you.\"\n—Vannifar
 oracle_text: "{T}: Add {G} or {U}.\\n{G/U}{G/U}{G/U}{G/U}, {T}, Sacrifice this artifact: Draw two cards."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Simic Locket (Ravnica Allegiance)
 
 ## Vision

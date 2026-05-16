@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/27-righteou
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/2/d2910df2-e288-4fa0-9859-c5ca35da2d55.jpg?1572489762
 flavor_text: Syr Damon looked at the dragon and saw the faces of every innocent it had devoured. Suddenly, his sword blazed like the sun.
 oracle_text: Target blocking creature gets +7/+7 until end of turn.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Righteousness (Throne of Eldraine)
 
 ## Vision

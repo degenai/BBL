@@ -52,8 +52,12 @@ ip_confidence: high
 ip_verified: true
 characters:
   - kaya
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # The Chase Is On (Murders at Karlov Manor)
 
 ## Vision

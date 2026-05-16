@@ -50,8 +50,12 @@ setting: mountain
 suspected_ip: Torchic (Pokemon)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Torchic (Darkness Ablaze)
 
 ## Vision

@@ -28,6 +28,7 @@ oracle_text: Flying, vigilance\nDisguise {W/U}{W/U} (You may cast this card face
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Granite Witness (Murders at Karlov Manor)

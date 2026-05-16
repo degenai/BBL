@@ -29,6 +29,7 @@ oracle_text: Flying\nWhen this creature enters, you gain 3 life and draw a card.
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Elite Guardmage (War of the Spark)

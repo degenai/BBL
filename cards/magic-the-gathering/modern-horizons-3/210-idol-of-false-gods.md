@@ -53,8 +53,11 @@ oracle_text: "{1}{C}, {T}: Create a 0/1 colorless Eldrazi Spawn creature token w
 mood: horror
 time_of_day: twilight
 setting: other
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Idol of False Gods (Modern Horizons 3)
 
 ## Vision

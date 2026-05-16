@@ -53,8 +53,11 @@ time_of_day: indeterminate
 setting: indoor
 symbols:
   - manifest-dread
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Manifest Dread (Duskmourn: House of Horror)
 
 ## Vision

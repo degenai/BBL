@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/192-omen-o
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/d/7d4ebdea-78d4-4034-921b-735bdb11a716.jpg?1581480831
 flavor_text: \"My time will come, when no road will divide the endless verdure of the trees.\"
 oracle_text: "Flash\\nWhen this enchantment enters, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\\n{2}{G}, Sacrifice this enchantment: Scry 2."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Omen of the Hunt (Theros Beyond Death)
 
 ## Vision

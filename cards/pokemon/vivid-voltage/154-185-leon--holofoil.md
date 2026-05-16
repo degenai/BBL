@@ -51,8 +51,13 @@ setting: other
 suspected_ip: Leon (Pokémon Sword and Shield)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Leon (Vivid Voltage)
 
 ## Vision

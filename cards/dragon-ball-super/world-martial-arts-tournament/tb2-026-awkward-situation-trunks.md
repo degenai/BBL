@@ -49,8 +49,13 @@ setting: indoor
 suspected_ip: Kid Trunks
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Awkward Situation Trunks (World Martial Arts Tournament)
 
 ## Vision

@@ -54,8 +54,12 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/59-opt--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/2/323db259-d35e-467d-9a46-4adcb2fc107c.jpg?1652898493
 flavor_text: The crystal pulsed with the power of Teferi's Planeswalker spark. Had Jhoira given him a blessing or a curse?
 oracle_text: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)\nDraw a card.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Opt (Core Set 2021)
 
 ## Vision

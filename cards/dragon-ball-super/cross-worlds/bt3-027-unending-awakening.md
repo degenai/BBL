@@ -46,8 +46,13 @@ setting: void
 suspected_ip: ""
 ip_confidence: none
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Unending Awakening (Cross Worlds)
 
 ## Vision

@@ -23,8 +23,15 @@ art_match_confidence: low
 needs_manual_review: true
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 oracle_text: "Alert (Colorless): Draw a card. Then, switch Brock's Zubat with 1 of your Benched Pokémon. You can't use this attack if your Bench is empty.\\nWing Attack (ColorlessColorless) 20"
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Zubat (Sun & Moon Base Set)
 
 ## Vision

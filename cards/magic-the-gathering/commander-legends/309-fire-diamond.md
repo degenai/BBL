@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/309-fire-dia
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/f/3f65f1fa-4196-40ba-8ca3-e68560fef392.jpg?1608911413
 flavor_text: The essence of flame to stoke the spirit.
 oracle_text: "This artifact enters tapped.\\n{T}: Add {R}."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Fire Diamond (Commander Legends)
 
 ## Vision

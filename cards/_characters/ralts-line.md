@@ -27,8 +27,10 @@ related_characters:
   - staraptor-line
   - charizard-line
 ip_resolution_for: ralts-line
+tags:
+  - layer
+  - character
 ---
-
 # Ralts evolutionary line (Ralts / Kirlia / Gardevoir / Gallade)
 
 A branching Psychic-empath evolutionary line and the canonical Hoenn-region emotion-sensing species line introduced in Pokemon Ruby and Sapphire (Game Freak / Creatures Inc. / Nintendo, 2002). The line comprises **Ralts** (National Pokedex no. 280, Psychic / Fairy as of Generation VI, base form, the "Feeling Pokemon" classified for its empathy-as-sensory-organ design conceit, with the red horn-like structures functioning as canonical emotional antennae), **Kirlia** (no. 281, Psychic / Fairy, Stage 1 mid-form, the "Emotion Pokemon" whose balletic posture and dance behavior is Pokedex-canonical and indexed to its Trainer's positive mood), and a Stage-2 endpoint that branches: **Gardevoir** (no. 282, Psychic / Fairy, Stage 2, any gender, from Kirlia at level 30, the "Embrace Pokemon" whose Pokedex flavor describes psychic perception across global distances tuned to its Trainer's emotional state) OR **Gallade** (no. 475, Psychic / Fighting, Stage 2 male-only branch, from Kirlia via Dawn Stone, the "Blade Pokemon" added in Generation IV at the Sinnoh expansion of the Hoenn line, classified as a chivalric-warrior counterpoint to Gardevoir's empath-mage register). The line is one of the franchise's only three-stage lines whose designer-coordinated fork sits at the second stage rather than the final stage, and the only such line whose fork is explicitly gender-gated in the mainline games (the Dawn Stone evolution to Gallade requires a male Kirlia, with Gardevoir as the default route for female Kirlia and the alternative route for male Kirlia who do not receive the Dawn Stone). The Pokedex characterization of the line as empath-becoming-mage-or-blade — soft white humanoid child at base, dancing adolescent at mid-stage, perceiver-of-distance OR shielding-warrior at apex — is the line's most-cited narrative arc, a designer-coordinated emotion-to-action transition rendered as a species-level evolution event with a gender-gated moral fork at the second stage.

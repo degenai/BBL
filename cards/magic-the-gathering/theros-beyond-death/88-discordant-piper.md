@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/88-discord
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/8/a8cce294-f6ee-4b18-8b65-7d01d0317b00.jpg?1581479725
 flavor_text: The death of the party.
 oracle_text: When this creature dies, create a 0/1 white Goat creature token.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Discordant Piper (Theros Beyond Death)
 
 ## Vision

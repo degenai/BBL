@@ -53,8 +53,11 @@ oracle_text: "Flying, vigilance\\nWhenever one or more creatures attack you, tho
 mood: action
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Sabotage Strategist (Aetherdrift)
 
 ## Vision

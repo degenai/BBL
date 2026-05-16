@@ -24,8 +24,15 @@ needs_manual_review: true
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: It makes its nest on steep sea cliffs. Riding updrafts, it soars to great heights.
 oracle_text: Water Gun (Water) 10
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Wingull (Sun & Moon Base Set)
 
 ## Vision

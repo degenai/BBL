@@ -20,8 +20,10 @@ appears_on:
 related_hubs: []
 related_characters:
   - agency
+tags:
+  - layer
+  - symbol
 ---
-
 # Suspect (mechanic)
 
 The iconographic-and-rules-text primitive of the **Suspect** mechanic introduced in *Murders at Karlov Manor* (MKM, 2024-02-09) as one of the set's four signature mechanics (alongside Disguise, Cases, and Collect Evidence). Suspect is a designer-coordinated marker-keyword that flags a creature with menace + can't-block status until removed, rendering the in-fiction state of *being a suspect in an open Agency investigation* as a rules-text condition that gates the creature's combat options. The marker is a first-class graph-relevant mechanical primitive parallel to [[single-strike-emblem]]: a designer-coordinated cohort identifier that crosses multiple cards in a set, marks them as members of a designer-stated thematic program, and provides the canonical iconographic anchor for any bundle assembled around the program.

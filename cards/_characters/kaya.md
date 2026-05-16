@@ -26,8 +26,10 @@ related_hubs: []
 related_symbols: []
 related_characters: []
 ip_resolution_for: kaya
+tags:
+  - layer
+  - character
 ---
-
 # Kaya
 
 Human planeswalker, ghost-hunter by trade, Orzhov Syndicate guildmaster by Ravnica Allegiance, Gatewatch co-leader during War of the Spark, and Murders at Karlov Manor (2024) co-investigator alongside Alquist Proft. Introduced in *Conspiracy: Take the Crown* (2016) on the Kaya, Ghost Assassin card, Kaya Cassir's canonical signature is **phasing** — the ability to render herself or her targets intangible, originally developed as a tool for fighting non-corporeal undead and later weaponized into a broader combat operating mode. The pink-violet ethereal magic she channels (most visible in the MKM-116 The Chase Is On art) is the canonical visual signature for this magic across her print history.

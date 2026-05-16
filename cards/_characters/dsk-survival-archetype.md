@@ -30,8 +30,10 @@ related_characters:
   - fear-of-cycle
   - dsk-unlucky-lands-cycle
   - valgavoth
+tags:
+  - layer
+  - character
 ---
-
 # Survival archetype cohort (Duskmourn improvised-weapon survivors and their tools)
 
 A *Duskmourn: House of Horror* design cohort spanning **three coordinated axes** of the set's prey-side vocabulary: the **Survival** ability word (a triggered ability that fires at the beginning of the controller's second main phase if the creature is still tapped), the **Creature — Human Survivor** subtype that was created to carry it (Scryfall `s:dsk t:survivor` returns 14 members within the set), and the **improvised-weapon Equipment and Aura** artifacts depicting the survivors' makeshift tools. Per Wizards' set-mechanics article (Matt Tabak, 2024-08-31) and Mark Rosewater's *Top of the Duskmourning* design diaries (Making Magic, September 2024), all three axes are designer-coordinated — Wizards explicitly cites **Cabin in the Woods (2011, Whedon/Goddard)** as the source-material register for the "survivors with improvised weapons" trope alongside slashers, killer-dolls, phobia-personification, and the haunted-vernacular-place axes that DSK was built top-down from. The cohort is the BBL corpus's clearest anchor for *Duskmourn*'s prey-side register — the figures who run, hide, and pick up the nearest blunt object — and the structural **opposing pole** of the toy-horror cohort (haunted house wields corrupted toys; survivors wield improvised weapons).

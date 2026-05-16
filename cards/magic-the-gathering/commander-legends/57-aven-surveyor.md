@@ -49,8 +49,11 @@ artist: David Gaillet
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/57-aven-surveyor--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/4/f4981d99-c33d-4451-8f6a-28fffb3dcd1c.jpg?1608909102
 oracle_text: Flying\nWhen this creature enters, choose one —\n• Put a +1/+1 counter on this creature.\n• Return target creature to its owner's hand.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Aven Surveyor (Commander Legends)
 
 ## Vision

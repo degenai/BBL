@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/modern-masters-2015/233-tumble
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/1/c158f888-1870-4be7-9afd-39e859f261a6.jpg?1562266933
 flavor_text: Magnetic devices that keep massive golems and structures standing can also be used for the opposite purpose.
 oracle_text: "This artifact enters with three charge counters on it.\\n{T}, Remove a charge counter from this artifact: Tap target artifact or creature."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Tumble Magnet (Modern Masters 2015)
 
 ## Vision

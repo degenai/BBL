@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/magic-2014-m14/213-millstone--
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/3/23f28acb-8ccb-4b89-ba7f-ff7ce59852aa.jpg?1710406441
 flavor_text: Minds, like mountains, are never so grand and mighty that they can't be reduced to dust.
 oracle_text: "{2}, {T}: Target player mills two cards."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Millstone (Magic 2014 (M14))
 
 ## Vision

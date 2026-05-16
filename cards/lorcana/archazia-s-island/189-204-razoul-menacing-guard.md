@@ -51,8 +51,13 @@ setting: indoor
 suspected_ip: Razoul (Aladdin)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Razoul - Menacing Guard (Archazia's Island)
 
 ## Vision

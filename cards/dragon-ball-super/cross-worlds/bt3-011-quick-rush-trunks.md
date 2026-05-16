@@ -51,8 +51,13 @@ image_height: 871
 image_quality: med
 characters:
   - trunks
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Quick Rush Trunks (Cross Worlds)
 
 ## Vision

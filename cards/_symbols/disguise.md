@@ -37,8 +37,10 @@ appears_on:
 related_hubs: []
 related_characters:
   - agency
+tags:
+  - layer
+  - symbol
 ---
-
 # Disguise (mechanic)
 
 The iconographic-and-rules-text primitive of the **Disguise** keyword introduced in *Murders at Karlov Manor* (MKM, 2024-02-09) as one of the set's four signature mechanics (alongside Suspect, Cases, and Collect Evidence). Disguise is a designer-coordinated alternative-cost keyword that lets a creature card be cast face down for `{3}` as a 2/2 with ward `{2}`, then flipped face up at any time for its Disguise cost (which appears as `Disguise {cost}` in the oracle text). The mechanic renders the in-fiction *act of going undercover* as a rules-text-level state shift: the operative deploys cheap and anonymous behind ward-armor, then reveals identity (and full ability stack) only when the right moment arrives. The marker is a first-class graph-relevant mechanical primitive parallel to [[suspect]] and [[manifest-dread]]: a designer-coordinated cohort identifier that crosses multiple cards in a set, marks them as members of a designer-stated thematic program, and provides the canonical iconographic anchor for any bundle assembled around the program.

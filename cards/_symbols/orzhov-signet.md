@@ -19,8 +19,10 @@ appears_on:
 related_hubs: "[labor]"
 related_characters:
   - orzhov-syndicate
+tags:
+  - layer
+  - symbol
 ---
-
 # Orzhov Signet
 
 The faction emblem of the Orzhov Syndicate, the white-black guild of Ravnica. Canonically called an "eclipsed sun" in lore: a four-pronged sun with a thin ring around its perimeter and a dark center. The same icon Wizards put on the `Orzhov Signet` artifact card itself.

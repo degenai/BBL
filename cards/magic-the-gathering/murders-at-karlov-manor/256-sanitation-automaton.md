@@ -29,6 +29,7 @@ oracle_text: When this creature enters, surveil 1. (Look at the top card of your
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Sanitation Automaton (Murders at Karlov Manor)

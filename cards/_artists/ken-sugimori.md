@@ -35,7 +35,8 @@ appears_on:
   - pokemon/lost-thunder/83-stunfisk
   - pokemon/shining-legends/62-lillie
   - pokemon/unified-minds/5-236-shroomish
-  - pokemon/vivid-voltage/154-185-leon--holofoilrelated_hubs: []
+  - pokemon/vivid-voltage/154-185-leon--holofoil
+related_hubs: []
 notes: |
   Ken Sugimori (杉森建, born January 1966, Tokyo) is co-founder of Game Freak,
   art director and lead character designer for the Pokemon franchise since
@@ -55,8 +56,10 @@ notes: |
   Game Freak's art director" than to "illustrated by a TCG contractor." Per
   Wikipedia: "Ken Sugimori biographical page; Bulbapedia: Ken Sugimori"
   contributor page.
+tags:
+  - layer
+  - artist
 ---
-
 # Ken Sugimori
 
 Pokemon franchise art director and co-founder of Game Freak. Born January 1966 in Tokyo, Japan; began working with Satoshi Tajiri in 1989 on Game Freak's pre-Pokemon publications (Game Freak fanzine), formally co-founded Game Freak as a studio in 1989, and has served as the franchise's lead character designer and art director continuously since Pokemon Red and Green (Japan, 1996) / Red and Blue (international, 1998) shipped. He is the canonical author of the visual identity of the original 151 Pokemon and has supervised the franchise's design language across every subsequent generation.

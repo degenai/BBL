@@ -24,8 +24,10 @@ related_characters:
   - agency
   - orzhov-syndicate
 ip_resolution_for: foundway-associates
+tags:
+  - layer
+  - character
 ---
-
 # Foundway Associates
 
 The **Foundway Associates** are a designer-coordinated secondary investigator ensemble woven through the flavor-text layer of *Murders at Karlov Manor* (MKM, 2024-02-09). The Associates are distinct from R.A.M.I. (the Ravnican Agency of Magicological Investigation, the institutional Agency the MKM storyline canonizes as the case's principal investigators) — they read as an independent, plural-membered field-investigator collective whose voices canonize specific scenes across the set's flavor architecture. Each Associate's line is attributed by name and faction ("—Udol of the Foundway Associates", "—Imel of the Foundway Associates", and so on), and the cumulative effect across multiple cards is a coherent ensemble cast operating in parallel to the Agency proper.

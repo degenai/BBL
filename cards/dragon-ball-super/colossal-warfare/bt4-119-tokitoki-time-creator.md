@@ -48,8 +48,13 @@ subject_known_ip: true
 suspected_ip: Tokitoki (Dragon Ball Xenoverse)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Tokitoki, Time Creator (Colossal Warfare)
 
 ## Vision

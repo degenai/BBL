@@ -49,8 +49,10 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Expedition Raptor (Oath of the Gatewatch)
 
 ## Vision

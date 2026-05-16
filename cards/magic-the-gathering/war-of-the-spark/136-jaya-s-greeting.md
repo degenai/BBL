@@ -29,6 +29,7 @@ oracle_text: Jaya's Greeting deals 3 damage to target creature. Scry 1.
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Jaya's Greeting (War of the Spark)

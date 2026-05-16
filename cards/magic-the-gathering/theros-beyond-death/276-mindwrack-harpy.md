@@ -50,8 +50,11 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Mindwrack Harpy (Theros Beyond Death)
 
 ## Vision

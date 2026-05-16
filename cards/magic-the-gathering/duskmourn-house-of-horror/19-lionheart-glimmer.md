@@ -47,8 +47,10 @@ image_quality: high
 mood: sublime
 time_of_day: twilight
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Lionheart Glimmer (Duskmourn: House of Horror)
 
 ## Vision

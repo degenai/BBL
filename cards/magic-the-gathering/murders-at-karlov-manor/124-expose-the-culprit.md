@@ -48,8 +48,11 @@ oracle_text: Choose one or both —\n• Turn target face-down creature face up.
 mood: action
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Expose the Culprit (Murders at Karlov Manor)
 
 ## Vision

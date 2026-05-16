@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/52-flux-chann
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/6/c6202e82-e159-482f-9224-292cb533171c.jpg?1557576219
 flavor_text: \"Inform our allies in the Tenth and throw the circuit. It's about to get weird.\"
 oracle_text: Whenever you cast a noncreature spell, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Flux Channeler (War of the Spark)
 
 ## Vision

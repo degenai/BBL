@@ -54,8 +54,13 @@ setting: other
 suspected_ip: Nathaniel Flint (Treasure Planet)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Nathaniel Flint - Notorious Pirate (Reign of Jafar)
 
 ## Vision

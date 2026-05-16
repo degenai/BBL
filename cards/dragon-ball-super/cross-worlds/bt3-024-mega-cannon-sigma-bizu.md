@@ -50,8 +50,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - machine-mutants-m2
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Mega Cannon Sigma, Bizu (Cross Worlds)
 
 ## Vision

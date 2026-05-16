@@ -51,8 +51,11 @@ image_quality: high
 mood: sublime
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - lorcana
+  - vision-passed
 ---
-
 # Amazu's Inkcaster (Wilds Unknown)
 
 ## Vision

@@ -19,8 +19,10 @@ appears_on:
   - magic-the-gathering/duskmourn-house-of-horror/266-raucous-carnival
 related_hubs: []
 related_symbols: []
+tags:
+  - layer
+  - character
 ---
-
 # Unlucky lands cycle (Duskmourn common dual-lands)
 
 Duskmourn: House of Horror's ten-card common dual-land cycle, mechanically identical and flavor-coordinated: each land enters tapped unless a player has 13 or less life, and each card's flavor text is written in the urban-legend register ("They say..."). The cycle covers all ten two-color combinations and is the first common dual-land print run with a realistic chance to enter untapped, which drove significant Pauper-format interest on release. The 13-life threshold is a triskaidekaphobia gag fitted to Duskmourn's horror set design language; per MTG Wiki and MTG Rocks set-review coverage, Wizards designed and published the cycle as a unit.

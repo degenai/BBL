@@ -49,8 +49,12 @@ setting: desert
 suspected_ip: "Darumaka (#554)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Darumaka (Black Bolt)
 
 ## Vision

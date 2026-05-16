@@ -48,8 +48,10 @@ image_quality: high
 mood: comedic
 time_of_day: indeterminate
 setting: urban
+tags:
+  - card
+  - vision-passed
 ---
-
 # Role Reversal (War of the Spark)
 
 ## Vision

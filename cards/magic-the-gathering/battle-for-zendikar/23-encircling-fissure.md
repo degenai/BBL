@@ -48,8 +48,10 @@ oracle_text: Prevent all combat damage that would be dealt this turn by creature
 mood: horror
 time_of_day: day
 setting: desert
+tags:
+  - card
+  - vision-passed
 ---
-
 # Encircling Fissure (Battle for Zendikar)
 
 ## Vision

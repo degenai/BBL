@@ -52,8 +52,11 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/106-mire-s
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/a/0ae0c536-612d-4916-a8da-5aaaf14218b1.jpg?1581479882
 flavor_text: Those caught attempting to escape the Underworld spend the rest of their existence trapped in the Mire of Punishment.
 oracle_text: Enchant creature\nEnchanted creature gets -3/-3.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Mire's Grasp (Theros Beyond Death)
 
 ## Vision

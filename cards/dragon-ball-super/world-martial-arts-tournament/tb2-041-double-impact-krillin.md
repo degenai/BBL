@@ -48,8 +48,12 @@ ip_confidence: high
 ip_verified: false
 characters:
   - krillin
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - ip-pending
 ---
-
 # Double Impact Krillin (World Martial Arts Tournament)
 
 ## Vision

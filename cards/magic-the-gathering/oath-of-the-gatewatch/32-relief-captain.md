@@ -51,8 +51,11 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: desert
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Relief Captain (Oath of the Gatewatch)
 
 ## Vision

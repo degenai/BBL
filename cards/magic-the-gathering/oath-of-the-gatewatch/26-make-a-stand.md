@@ -51,8 +51,11 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: mountain
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Make a Stand (Oath of the Gatewatch)
 
 ## Vision

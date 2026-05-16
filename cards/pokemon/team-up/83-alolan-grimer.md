@@ -27,6 +27,8 @@ oracle_text: "Chemical Breath (ColorlessColorless) 20+: This attack does 50 more
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Alolan Grimer (Team Up)

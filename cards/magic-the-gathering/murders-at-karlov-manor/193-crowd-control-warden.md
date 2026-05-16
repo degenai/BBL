@@ -52,8 +52,10 @@ oracle_text: As this creature enters or is turned face up, put X +1/+1 counters 
 mood: action
 time_of_day: day
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Crowd-Control Warden (Murders at Karlov Manor)
 
 ## Vision

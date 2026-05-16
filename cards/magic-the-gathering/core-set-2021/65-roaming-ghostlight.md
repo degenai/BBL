@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/65-roaming-ghost
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/c/8cbac0e4-f79f-476d-b410-d19ab3696606.jpg?1594735686
 flavor_text: Some who die senseless deaths return as formless spirits, seeking answers where there are none.
 oracle_text: Flying\nWhen this creature enters, return up to one target non-Spirit creature to its owner's hand.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Roaming Ghostlight (Core Set 2021)
 
 ## Vision

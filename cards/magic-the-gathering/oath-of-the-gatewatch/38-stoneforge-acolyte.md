@@ -51,8 +51,11 @@ image_quality: high
 mood: other
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Stoneforge Acolyte (Oath of the Gatewatch)
 
 ## Vision

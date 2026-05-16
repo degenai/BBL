@@ -47,8 +47,12 @@ setting: other
 suspected_ip: Spheal
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Spheal (Cosmic Eclipse)
 
 ## Vision

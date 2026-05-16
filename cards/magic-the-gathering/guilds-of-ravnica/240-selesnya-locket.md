@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/guilds-of-ravnica/240-selesnya
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/a/ea0c04b9-c7fc-4204-9af2-5d1987bdd97e.jpg?1572894091
 flavor_text: \"Think of the locket as a seed you bear, spreading life from Vitu-Ghazi across all of Ravnica.\"\n—Heruj, Selesnya hierophant
 oracle_text: "{T}: Add {G} or {W}.\\n{G/W}{G/W}{G/W}{G/W}, {T}, Sacrifice this artifact: Draw two cards."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Selesnya Locket (Guilds of Ravnica)
 
 ## Vision

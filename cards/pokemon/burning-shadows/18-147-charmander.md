@@ -50,8 +50,13 @@ subject_known_ip: true
 suspected_ip: Charmander
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Charmander (Burning Shadows)
 
 ## Vision

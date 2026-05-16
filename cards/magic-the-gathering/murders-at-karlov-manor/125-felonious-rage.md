@@ -47,8 +47,11 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Felonious Rage (Murders at Karlov Manor)
 
 ## Vision

@@ -56,8 +56,12 @@ subject_known_ip: true
 suspected_ip: Vladimir (Tangled)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - ip-pending
 ---
-
 # Vladimir - Ceramic Unicorn Fan (Whispers in the Well)
 
 ## Vision

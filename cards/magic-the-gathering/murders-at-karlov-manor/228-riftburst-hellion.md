@@ -52,8 +52,10 @@ oracle_text: Reach\nDisguise {4}{R/G}{R/G} (You may cast this card face down for
 mood: action
 time_of_day: day
 setting: urban
+tags:
+  - card
+  - vision-passed
 ---
-
 # Riftburst Hellion (Murders at Karlov Manor)
 
 ## Vision

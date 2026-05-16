@@ -29,6 +29,7 @@ oracle_text: "{1}: Add one mana of any color. Activate only once each turn.\\n{2
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Gravestone Strider (Murders at Karlov Manor)

@@ -50,8 +50,13 @@ ip_verified: true
 characters:
   - saiyan
   - bardock
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Encroaching Threat Masked Saiyan (Cross Worlds)
 
 ## Vision

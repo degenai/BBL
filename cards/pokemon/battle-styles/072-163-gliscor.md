@@ -27,6 +27,8 @@ oracle_text: "Acrobatics (ColorlessColorless) 20+: Flip 2 coins. This attack doe
 image_width: 868
 image_height: 1212
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Gliscor (Battle Styles)

@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/magic-2011-m11/211-ornithopter
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/3/331a0a01-0c12-4999-9bd7-f26991e4dad5.jpg?1562455545
 flavor_text: Regardless of the century, plane, or species, developing artificers never fail to invent the ornithopter.
 oracle_text: Flying
+tags:
+  - card
+  - vision-passed
 ---
-
 # Ornithopter (Magic 2011 (M11))
 
 ## Vision

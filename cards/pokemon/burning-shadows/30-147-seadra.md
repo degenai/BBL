@@ -49,8 +49,12 @@ setting: ocean
 suspected_ip: "Seadra (#117)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Seadra (Burning Shadows)
 
 ## Vision

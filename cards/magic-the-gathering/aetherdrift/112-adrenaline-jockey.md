@@ -50,8 +50,11 @@ oracle_text: Whenever a player casts a spell, if it's not their turn, this creat
 mood: action
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Adrenaline Jockey (Aetherdrift)
 
 ## Vision

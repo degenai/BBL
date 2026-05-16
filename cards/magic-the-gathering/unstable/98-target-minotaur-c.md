@@ -49,8 +49,10 @@ image_quality: high
 mood: comedic
 time_of_day: indeterminate
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Target Minotaur (C) (Unstable)
 
 ## Vision

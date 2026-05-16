@@ -27,6 +27,8 @@ oracle_text: "Sand Tomb (PsychicColorlessColorless) 80: The Defending Pokémon c
 image_width: 911
 image_height: 1280
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Palossand (Burning Shadows)

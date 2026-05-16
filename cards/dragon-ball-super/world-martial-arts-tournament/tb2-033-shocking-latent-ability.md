@@ -49,8 +49,13 @@ ip_verified: true
 mood: action
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Shocking Latent Ability (World Martial Arts Tournament)
 
 ## Vision

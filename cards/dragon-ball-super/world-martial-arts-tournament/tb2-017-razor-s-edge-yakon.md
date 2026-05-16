@@ -51,8 +51,13 @@ image_height: 871
 image_quality: med
 characters:
   - babidi
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Razor's Edge Yakon (World Martial Arts Tournament)
 
 ## Vision

@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/195-portcullis-v
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/1/d1abd95a-4ecc-479c-b200-5aaf7c993ef8.jpg?1594737120
 flavor_text: Nature's way of saying \"take the long way home.\"
 oracle_text: "Defender (This creature can't attack.)\\n{2}, {T}, Sacrifice a creature with defender: Draw a card."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Portcullis Vine (Core Set 2021)
 
 ## Vision

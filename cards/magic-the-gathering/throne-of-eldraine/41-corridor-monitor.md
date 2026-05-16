@@ -29,6 +29,7 @@ oracle_text: When this creature enters, untap target artifact or creature you co
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Corridor Monitor (Throne of Eldraine)

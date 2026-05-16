@@ -51,8 +51,11 @@ artist: Yeong-Hao Han
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/116-brimstone-trebuchet--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/7/77c49e0e-4375-4e45-a57b-8df667e45ce6.jpg?1572490305
 oracle_text: "Defender, reach\\n{T}: This creature deals 1 damage to each opponent.\\nWhenever a Knight you control enters, untap this creature."
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Brimstone Trebuchet (Throne of Eldraine)
 
 ## Vision

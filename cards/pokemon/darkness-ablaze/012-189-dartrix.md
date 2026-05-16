@@ -48,8 +48,12 @@ ip_confidence: high
 ip_verified: false
 characters:
   - rowlet-line
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Dartrix (Darkness Ablaze)
 
 ## Vision

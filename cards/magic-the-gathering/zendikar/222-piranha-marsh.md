@@ -47,8 +47,10 @@ artist: Nic Klein
 art_crop_image: cards/_images/magic-the-gathering/zendikar/222-piranha-marsh--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/a/ea077cff-b5c9-4a40-8e66-8810c37be5cb.jpg?1562617915
 oracle_text: "This land enters tapped.\\nWhen this land enters, target player loses 1 life.\\n{T}: Add {B}."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Piranha Marsh (Zendikar)
 
 ## Vision

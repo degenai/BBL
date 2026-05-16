@@ -48,8 +48,13 @@ setting: other
 suspected_ip: Dedenne
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Dedenne (Brilliant Stars)
 
 ## Vision

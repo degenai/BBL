@@ -55,8 +55,10 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/205-sultai-soo
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/e/ae0de2c9-957e-41ee-8899-b93e6f1091dc.jpg?1562791937
 flavor_text: The naga of the Sultai Brood made deals with dark forces to keep their power.
 oracle_text: When this creature enters, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Sultai Soothsayer (Khans of Tarkir)
 
 ## Vision

@@ -48,8 +48,13 @@ setting: void
 suspected_ip: Tien Shinhan (Dragon Ball)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Tien Shinhan, Trading Moves (World Martial Arts Tournament)
 
 ## Vision

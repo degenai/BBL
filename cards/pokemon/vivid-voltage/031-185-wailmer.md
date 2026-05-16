@@ -27,6 +27,8 @@ oracle_text: "Hydro Pump (ColorlessColorlessColorless) 10+: This attack does 20 
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Wailmer (Vivid Voltage)

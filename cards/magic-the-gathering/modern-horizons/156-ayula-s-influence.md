@@ -48,8 +48,10 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Ayula's Influence (Modern Horizons)
 
 ## Vision

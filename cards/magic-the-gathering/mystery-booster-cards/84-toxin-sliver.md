@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/84-toxin
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/7/c7bdf2e4-ff7c-4be2-a5a0-d56be820918e.jpg?1573510688
 flavor_text: It doesn't need to use its venom—it just needs you to know it can.
 oracle_text: Whenever a Sliver deals combat damage to a creature, destroy that creature. It can't be regenerated.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Toxin Sliver (Mystery Booster Cards)
 
 ## Vision

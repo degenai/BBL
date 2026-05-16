@@ -53,8 +53,10 @@ artist: Christopher Moeller
 art_crop_image: cards/_images/magic-the-gathering/gatecrash/186-paranoid-delusions--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/f/af406038-91ce-41fe-8b6d-55408a96d0a2.jpg?1561841905
 oracle_text: Target player mills three cards.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Paranoid Delusions (Gatecrash)
 
 ## Vision

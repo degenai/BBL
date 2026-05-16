@@ -49,8 +49,13 @@ characters:
   - acerola
   - alola-trial-captains
   - alola-elite-four
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Acerola's Mischief (Mega Evolution)
 
 ## Vision

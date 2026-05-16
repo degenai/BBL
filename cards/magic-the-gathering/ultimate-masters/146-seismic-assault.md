@@ -46,8 +46,10 @@ image_quality: high
 mood: grim
 time_of_day: night
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Seismic Assault (Ultimate Masters)
 
 ## Vision

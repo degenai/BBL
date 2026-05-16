@@ -57,8 +57,11 @@ oracle_text: Haste\nThis creature must be blocked if able.
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Fear of Being Hunted (Duskmourn: House of Horror)
 
 ## Vision

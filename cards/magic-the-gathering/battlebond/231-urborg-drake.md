@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/battlebond/231-urborg-drake--a
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/c/2c87088f-6613-413b-aef9-0ef08c6b637f.jpg?1562904088
 flavor_text: Relentless as the sea, remorseless as death.
 oracle_text: Flying\nThis creature attacks each combat if able.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Urborg Drake (Battlebond)
 
 ## Vision

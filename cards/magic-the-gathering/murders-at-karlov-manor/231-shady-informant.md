@@ -52,8 +52,10 @@ oracle_text: When this creature dies, it deals 2 damage to any target.\nDisguise
 mood: grim
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
 ---
-
 # Shady Informant (Murders at Karlov Manor)
 
 ## Vision

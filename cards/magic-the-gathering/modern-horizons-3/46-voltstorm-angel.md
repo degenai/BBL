@@ -48,8 +48,10 @@ oracle_text: Flying\nWhen this creature enters, you get {E}{E}{E} (three energy 
 mood: action
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Voltstorm Angel (Modern Horizons 3)
 
 ## Vision

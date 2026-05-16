@@ -27,6 +27,8 @@ oracle_text: "[Ability: Submerge] As long as this Pokémon is on your Bench, pre
 image_width: 910
 image_height: 1280
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Magikarp (Crimson Invasion)

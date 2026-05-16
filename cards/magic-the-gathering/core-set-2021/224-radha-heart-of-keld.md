@@ -56,8 +56,12 @@ artist: Chris Rahn
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/224-radha-heart-of-keld--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/b/2bbd37b1-49cb-4295-9a1f-fb85368a8f12.jpg?1594737431
 oracle_text: "During your turn, Radha has first strike.\\nYou may look at the top card of your library any time, and you may play lands from the top of your library.\\n{4}{R}{G}: Radha gets +X/+X until end of turn, where X is the number of lands you control."
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Radha, Heart of Keld (Core Set 2021)
 
 ## Vision

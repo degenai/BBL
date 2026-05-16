@@ -48,8 +48,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Beastbond Outcaster (Outlaws of Thunder Junction)
 
 ## Vision

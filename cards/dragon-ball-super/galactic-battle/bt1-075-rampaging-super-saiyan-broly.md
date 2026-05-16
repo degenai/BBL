@@ -50,8 +50,13 @@ setting: void
 suspected_ip: Broly (Dragon Ball Z, Legendary Super Saiyan, Movie 8)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Rampaging Super Saiyan Broly (Galactic Battle)
 
 ## Vision

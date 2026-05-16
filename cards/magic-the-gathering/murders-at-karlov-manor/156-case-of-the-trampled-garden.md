@@ -50,8 +50,11 @@ image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: forest
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Case of the Trampled Garden (Murders at Karlov Manor)
 
 ## Vision

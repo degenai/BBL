@@ -53,8 +53,10 @@ artist: Wayne Reynolds
 art_crop_image: cards/_images/magic-the-gathering/dragon-s-maze/87-nivix-cyclops--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/d/5d7a0e26-8cd4-4f53-8922-93ca28b1879b.jpg?1562912248
 oracle_text: Defender\nWhenever you cast an instant or sorcery spell, this creature gets +3/+0 until end of turn and can attack this turn as though it didn't have defender.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Nivix Cyclops (Dragon's Maze)
 
 ## Vision

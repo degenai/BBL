@@ -49,8 +49,13 @@ subject_known_ip: true
 suspected_ip: Broly (Dragon Ball Z Movie 8, Takao Koyama / Toei version — Legendary Super Saiyan)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Broly, The Rampaging Horror (Galactic Battle)
 
 ## Vision

@@ -27,6 +27,8 @@ oracle_text: Bite (Darkness) 10\nRear Kick (ColorlessColorless) 20
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Poochyena (Vivid Voltage)

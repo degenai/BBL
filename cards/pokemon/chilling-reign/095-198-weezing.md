@@ -27,6 +27,8 @@ oracle_text: "Mixin' Toxin (Darkness): Your opponent's Active Pokémon is now Co
 image_width: 868
 image_height: 1212
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Weezing (Chilling Reign)

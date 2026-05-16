@@ -46,8 +46,10 @@ artist: Filip Burburan
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/263-mountain-263--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/2/32982ed2-96e4-4cc5-8562-744b06bca239.jpg?1572491355
 oracle_text: "({T}: Add {R}.)"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Mountain (263) (Throne of Eldraine)
 
 ## Vision

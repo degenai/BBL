@@ -55,8 +55,12 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/26-prison-rea
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/4/d476e8e5-2377-464b-b2d5-a3cd66ee2e45.jpg?1615326957
 flavor_text: After millennia to craft victory, Bolas had eternity to contemplate defeat.
 oracle_text: When this enchantment enters, exile target creature or planeswalker an opponent controls until this enchantment leaves the battlefield.\nWhen this enchantment enters, scry 1.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Prison Realm (War of the Spark)
 
 ## Vision

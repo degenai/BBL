@@ -27,6 +27,8 @@ oracle_text: Low Kick (Lightning) 30\nZap Kick (LightningColorless) 70
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Zebstrika (Vivid Voltage)

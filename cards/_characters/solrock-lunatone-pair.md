@@ -21,8 +21,10 @@ appears_on:
 related_hubs: []
 related_symbols: []
 related_characters: []
+tags:
+  - layer
+  - character
 ---
-
 # Solrock / Lunatone pair (Hoenn celestial duality, version-exclusive Meteorite Pokemon dyad)
 
 A designer-coordinated paired Pokemon dyad introduced in Generation III (Pokemon Ruby & Sapphire, Hoenn region, 2002) as a sun/moon celestial duality. **Solrock** (National Pokedex no. 338) is the sun-disc-shaped Rock/Psychic Pokemon; **Lunatone** (National Pokedex no. 337) is the crescent-moon-shaped Rock/Psychic Pokemon. Both are classified as the "Meteorite Pokemon" and share a single in-game origin: a meteor strike at Hoenn's Meteor Falls roughly 40 years before the events of Generation III. In Ruby and Sapphire the pair were version-exclusives — Solrock to Ruby, Lunatone to Sapphire — encoding the duality directly into the meta-mechanic of cross-version trading. In the TCG, the pair is mechanically interlocked: Solrock's printed Abilities name Lunatone and require Lunatone in play, and Lunatone's printed Abilities name Solrock and require Solrock in play. The dyad is one of the franchise's clearest examples of a paired-design Pokemon cohort built on a *two-species* lattice rather than the more common multi-form (Castform), evolution-line (Sentret/Furret), or trio (Pansage/Pansear/Panpour) structures.

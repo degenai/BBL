@@ -50,8 +50,10 @@ artist: Winona Nelson
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/21-lonesome-unicorn--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/9/99083707-2152-42c0-b5c3-b4f97ec20190.jpg?1572489726
 oracle_text: Vigilance
+tags:
+  - card
+  - vision-passed
 ---
-
 # Lonesome Unicorn (Throne of Eldraine)
 
 ## Vision

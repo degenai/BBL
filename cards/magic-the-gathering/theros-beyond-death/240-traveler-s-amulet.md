@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/240-travel
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/9/590926db-279c-494a-b92d-680b8abf9699.jpg?1581481232
 flavor_text: A vision of home, and a glimpse of hope.
 oracle_text: "{1}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Traveler's Amulet (Theros Beyond Death)
 
 ## Vision

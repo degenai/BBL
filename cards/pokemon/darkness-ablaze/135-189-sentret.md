@@ -49,8 +49,12 @@ setting: forest
 suspected_ip: Sentret
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Sentret (Darkness Ablaze)
 
 ## Vision

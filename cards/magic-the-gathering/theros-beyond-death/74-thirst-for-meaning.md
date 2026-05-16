@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/74-thirst-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/4/2422973d-36ee-4b8c-9a47-fcd160aa9f63.jpg?1581479595
 flavor_text: A sip of recollection, an ocean of regrets.
 oracle_text: Draw three cards. Then discard two cards unless you discard an enchantment card.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Thirst for Meaning (Theros Beyond Death)
 
 ## Vision

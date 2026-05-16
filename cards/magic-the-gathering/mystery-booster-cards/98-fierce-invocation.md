@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/98-fierc
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/7/270b67e5-fbf2-42af-b872-04bbaee2a9b4.jpg?1573511602
 flavor_text: Anger can empower those who embrace it.
 oracle_text: Manifest the top card of your library, then put two +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Fierce Invocation (Mystery Booster Cards)
 
 ## Vision

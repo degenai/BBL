@@ -45,8 +45,12 @@ oracle_text: The Pokémon this card is attached to takes 30 less damage from att
 mood: peaceful
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Sacred Charm (Phantasmal Flames)
 
 ## Vision

@@ -47,8 +47,13 @@ setting: other
 suspected_ip: Videl (Dragon Ball Z / Dragon Ball Super)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Videl, Gohan's Partner (Union Force)
 
 ## Vision

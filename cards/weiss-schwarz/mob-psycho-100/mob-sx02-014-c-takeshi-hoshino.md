@@ -46,8 +46,12 @@ setting: other
 suspected_ip: Takeshi Hoshino (Mob Psycho 100)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - weiss
+  - vision-passed
+  - ip-pending
 ---
-
 # Takeshi Hoshino (Mob Psycho 100)
 
 ## Vision

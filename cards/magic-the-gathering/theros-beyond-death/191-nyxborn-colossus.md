@@ -50,8 +50,10 @@ artist: Mathias Kollros
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/191-nyxborn-colossus--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/b/8b4f003c-1e99-4e53-ad6d-81ff3c592b2c.jpg?1592335274
 flavor_text: \"Tree-tall giants confronted her, fiercely demanding her tribute;\nFox-cunning Callaphe's slippery speaking entangled their senses...\"\n—*The Callapheia*
+tags:
+  - card
+  - vision-passed
 ---
-
 # Nyxborn Colossus (Theros Beyond Death)
 
 ## Vision

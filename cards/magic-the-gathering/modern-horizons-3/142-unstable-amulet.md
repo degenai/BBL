@@ -43,8 +43,10 @@ oracle_text: "When this artifact enters, you get {E}{E} (two energy counters).\\
 mood: other
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - vision-passed
 ---
-
 # Unstable Amulet (Modern Horizons 3)
 
 ## Vision

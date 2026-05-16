@@ -27,6 +27,8 @@ oracle_text: "Odor Sleuth (ColorlessColorless): Flip 2 coins. For each heads, pu
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Heatmor (Burning Shadows)

@@ -53,8 +53,10 @@ oracle_text: Flying\nDisguise {1}{U} (You may cast this card face down for {3} a
 mood: action
 time_of_day: night
 setting: urban
+tags:
+  - card
+  - vision-passed
 ---
-
 # Mistway Spy (Murders at Karlov Manor)
 
 ## Vision

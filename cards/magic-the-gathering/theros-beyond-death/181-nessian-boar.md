@@ -49,8 +49,11 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: forest
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Nessian Boar (Theros Beyond Death)
 
 ## Vision

@@ -29,6 +29,7 @@ oracle_text: When this creature dies, proliferate. (Choose any number of permane
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Martyr for the Cause (War of the Spark)

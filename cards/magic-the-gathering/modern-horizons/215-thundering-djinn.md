@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/modern-horizons/215-thundering
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/8/28642fbe-90c8-4beb-9950-91af28d93326.jpg?1562202415
 flavor_text: It strikes like a bolt from a brainstorm.
 oracle_text: Flying\nWhenever this creature attacks, it deals damage to any target equal to the number of cards you've drawn this turn.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Thundering Djinn (Modern Horizons)
 
 ## Vision

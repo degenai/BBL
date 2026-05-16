@@ -44,8 +44,12 @@ oracle_text: During your opponent's next turn, all of your Metal Pokémon take 3
 mood: action
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Iron Defender (Mega Evolution)
 
 ## Vision

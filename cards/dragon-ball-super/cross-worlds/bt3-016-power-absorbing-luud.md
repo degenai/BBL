@@ -48,8 +48,13 @@ ip_verified: true
 characters:
   - baby-dbgt
   - machine-mutants-m2
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Power-absorbing Luud (Cross Worlds)
 
 ## Vision

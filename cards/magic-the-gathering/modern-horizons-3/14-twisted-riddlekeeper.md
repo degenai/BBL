@@ -53,8 +53,11 @@ oracle_text: Emerge {5}{C}{U} (You may cast this spell by sacrificing a creature
 mood: grim
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Twisted Riddlekeeper (Modern Horizons 3)
 
 ## Vision

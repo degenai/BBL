@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/magic-2014-m14/223-staff-of-th
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/2/d207f03d-4c7b-444f-bf95-e63f7004d525.jpg?1562835442
 flavor_text: A symbol of ferocity in oppressive times.
 oracle_text: Whenever you cast a green spell or a Forest you control enters, you gain 1 life.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Staff of the Wild Magus (Magic 2014 (M14))
 
 ## Vision

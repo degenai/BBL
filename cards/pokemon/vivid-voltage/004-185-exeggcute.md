@@ -27,6 +27,8 @@ oracle_text: Seed Bomb (Grass) 10
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Exeggcute (Vivid Voltage)

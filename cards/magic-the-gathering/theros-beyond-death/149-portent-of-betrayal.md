@@ -53,8 +53,11 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/149-porten
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/9/b9c2b855-5079-418e-bfb4-9fc575ebe4f7.jpg?1581480361
 flavor_text: Mogis can fan a small flame of resentment into an inferno of madness.
 oracle_text: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Portent of Betrayal (Theros Beyond Death)
 
 ## Vision

@@ -50,8 +50,13 @@ ip_verified: true
 characters:
   - trunks
   - wrath-of-the-dragon-saga
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Trunks // Iron Vow Trunks (Colossal Warfare)
 
 ## Vision

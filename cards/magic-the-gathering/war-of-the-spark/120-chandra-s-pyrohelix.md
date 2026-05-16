@@ -53,8 +53,12 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/120-chandra-s
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/c/1c482f51-9222-4e9e-a9fd-bb14a0afe156.jpg?1557576647
 flavor_text: "\\\"Now that I've dealt with your little toys, I can focus on the real problem: you.\\\"\\n—Chandra Nalaar, to Dovin Baan"
 oracle_text: Chandra's Pyrohelix deals 2 damage divided as you choose among one or two targets.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Chandra's Pyrohelix (War of the Spark)
 
 ## Vision

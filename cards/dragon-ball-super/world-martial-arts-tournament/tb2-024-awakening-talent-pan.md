@@ -48,8 +48,13 @@ setting: other
 suspected_ip: Pan (Dragon Ball)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Awakening Talent Pan (World Martial Arts Tournament)
 
 ## Vision

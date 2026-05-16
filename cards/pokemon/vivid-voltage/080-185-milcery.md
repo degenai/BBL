@@ -27,6 +27,8 @@ oracle_text: "Sweet Scent (Psychic): Heal 20 damage from 1 of your Pokémon.\\nT
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Milcery (Vivid Voltage)

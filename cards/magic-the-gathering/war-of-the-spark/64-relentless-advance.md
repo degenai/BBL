@@ -29,6 +29,7 @@ oracle_text: Amass Zombies 3. (Put three +1/+1 counters on an Army you control. 
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Relentless Advance (War of the Spark)

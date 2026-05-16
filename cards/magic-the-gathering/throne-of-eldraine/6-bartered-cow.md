@@ -29,6 +29,7 @@ oracle_text: "When this creature dies and when you discard this card, create a F
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Bartered Cow (Throne of Eldraine)

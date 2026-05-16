@@ -51,8 +51,13 @@ ip_verified: true
 characters:
   - namekian
   - universe-6-tournament-cohort
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Namekian Duo Saonel (Colossal Warfare)
 
 ## Vision

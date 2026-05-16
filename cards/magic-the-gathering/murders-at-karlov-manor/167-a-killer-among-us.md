@@ -48,8 +48,10 @@ image_quality: high
 mood: grim
 time_of_day: day
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # A Killer Among Us (Murders at Karlov Manor)
 
 ## Vision

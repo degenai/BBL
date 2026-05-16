@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/195-relent
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/5/752b9560-b1d6-441c-8bc8-bf6988112d25.jpg?1581480858
 flavor_text: Calix was patient, steadily following Elspeth until their destined confrontation.
 oracle_text: Reveal the top four cards of your library. You may put a creature card and/or a land card from among them into your hand. Put the rest into your graveyard.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Relentless Pursuit (Theros Beyond Death)
 
 ## Vision

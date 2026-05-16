@@ -51,8 +51,11 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/120-sanctum-of-s
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/1/d1439412-618c-483d-89b9-5ea37f0f1edc.jpg?1594736357
 flavor_text: Renounce all limits,\nFalse chains binding potential.\nPower knows no bounds.
 oracle_text: At the beginning of your first main phase, each opponent loses X life and you gain X life, where X is the number of Shrines you control.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Sanctum of Stone Fangs (Core Set 2021)
 
 ## Vision

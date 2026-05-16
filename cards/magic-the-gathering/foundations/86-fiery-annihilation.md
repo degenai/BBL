@@ -47,8 +47,11 @@ oracle_text: Fiery Annihilation deals 5 damage to target creature. Exile up to o
 mood: action
 time_of_day: day
 setting: mountain
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Fiery Annihilation (Foundations)
 
 ## Vision

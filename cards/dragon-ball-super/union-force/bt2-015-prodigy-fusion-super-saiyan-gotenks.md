@@ -51,8 +51,13 @@ setting: void
 suspected_ip: Gotenks (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Prodigy Fusion Super Saiyan Gotenks (Union Force)
 
 ## Vision

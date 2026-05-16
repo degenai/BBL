@@ -46,8 +46,10 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: urban
+tags:
+  - card
+  - vision-passed
 ---
-
 # Dog Umbra (Modern Horizons 3)
 
 ## Vision

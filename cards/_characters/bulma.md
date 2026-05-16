@@ -25,8 +25,10 @@ related_characters:
   - vegeta
   - son-goku
 ip_resolution_for: bulma
+tags:
+  - layer
+  - character
 ---
-
 # Bulma
 
 The Capsule Corporation heiress, inventor, and civilian-engineering anchor of the entire Dragon Ball franchise — introduced in chapter 1 of Akira Toriyama's manga (Weekly Shonen Jump, 1984) as the teenage daughter of Dr. Brief inventing the Dragon Radar to search for the Dragon Balls, and continuous through every subsequent Toriyama-canon arc as the franchise's primary non-combatant protagonist. Daughter of Dr. Brief (founder of Capsule Corporation, the franchise's dominant technology conglomerate) and Panchy. Wife of Vegeta. Mother of Future Trunks (Z-canon, the time-traveling warrior from the Cell-saga-future timeline), Kid Trunks (the present-timeline Buu-saga child), and Bulla (the Super-canon daughter). Holder of the canonical *inventor-of-the-time-machine* credit: the Z-canon time machine that brings Future Trunks back to warn Goku of the androids is engineered by future-timeline-Bulma in her own future, and the present-timeline Bulma reverse-engineers it post-Cell-saga. Across forty years of franchise output her operating mode has remained consistent: Capsule Corporation's lead engineer, the Z Fighters' logistics-and-tech officer, the family-center anchor whose civilian role grounds the cosmic-scale combat narrative around her.

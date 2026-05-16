@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/1-acroba
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/5/655d23a2-0fdd-4691-84fe-33917f224884.jpg?1573504682
 flavor_text: Renegades find ever more creative ways to work around the Consulate's aether regulations.
 oracle_text: Exile target creature you control, then return that card to the battlefield under its owner's control.\nDraw a card.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Acrobatic Maneuver (Mystery Booster Cards)
 
 ## Vision

@@ -51,8 +51,10 @@ characters:
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/26-karametra-s-blessing--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/8/88c8e4dc-5378-48d6-85b2-f5ea9ec7cf36.jpg?1581479156
 oracle_text: Target creature gets +2/+2 until end of turn. If it's an enchanted creature or enchantment creature, it also gains hexproof and indestructible until end of turn. (It can't be the target of spells or abilities your opponents control. Damage and effects that say \"destroy\" don't destroy it.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Karametra's Blessing (Theros Beyond Death)
 
 ## Vision

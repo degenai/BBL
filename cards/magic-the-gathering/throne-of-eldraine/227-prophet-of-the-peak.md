@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/227-prophet
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/8/58131bf2-2a9f-4b81-9eeb-810372f3896c.jpg?1572491043
 flavor_text: It frequently predicts imminent death by devouring.
 oracle_text: When this creature enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Prophet of the Peak (Throne of Eldraine)
 
 ## Vision

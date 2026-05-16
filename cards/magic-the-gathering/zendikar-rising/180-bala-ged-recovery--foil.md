@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/180-bala-ged-r
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/5/c5cb3052-358d-44a7-8cfd-cd31b236494a.jpg?1604263635
 flavor_text: \"Always have a backup plan.\"\n—Doral, Bala Ged guide
 oracle_text: Return target card from your graveyard to your hand.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Bala Ged Recovery (Zendikar Rising)
 
 ## Vision

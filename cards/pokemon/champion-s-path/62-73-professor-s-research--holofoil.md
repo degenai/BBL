@@ -46,8 +46,13 @@ setting: urban
 suspected_ip: Professor Magnolia
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Professor's Research (Champion's Path)
 
 ## Vision

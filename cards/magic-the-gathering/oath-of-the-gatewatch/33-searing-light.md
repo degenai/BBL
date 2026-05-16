@@ -49,8 +49,10 @@ image_quality: high
 mood: other
 time_of_day: day
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Searing Light (Oath of the Gatewatch)
 
 ## Vision

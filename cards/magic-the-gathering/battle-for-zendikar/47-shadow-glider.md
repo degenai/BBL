@@ -49,8 +49,10 @@ oracle_text: Flying
 mood: action
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
 ---
-
 # Shadow Glider (Battle for Zendikar)
 
 ## Vision

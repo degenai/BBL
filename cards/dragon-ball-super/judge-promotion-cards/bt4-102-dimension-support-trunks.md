@@ -48,8 +48,12 @@ setting: void
 suspected_ip: Trunks
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - ip-pending
 ---
-
 # Dimension Support Trunks (Judge Promotion Cards)
 
 ## Vision

@@ -49,8 +49,13 @@ setting: indoor
 suspected_ip: Sinistea (Pokémon Sword and Shield)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Sinistea (Darkness Ablaze)
 
 ## Vision

@@ -27,6 +27,8 @@ oracle_text: Tackle (ColorlessColorless) 30\nWaterfall (WaterWaterColorless) 70
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Wartortle (Team Up)

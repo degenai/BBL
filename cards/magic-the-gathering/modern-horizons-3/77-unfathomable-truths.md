@@ -29,6 +29,7 @@ oracle_text: "Devoid (This card has no color.)\\nDraw three cards and create a 0
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Unfathomable Truths (Modern Horizons 3)

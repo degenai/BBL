@@ -49,8 +49,10 @@ artist: Magali Villeneuve
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/56-kasmina-enigmatic-mentor--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/7/c77d9454-a78c-4063-ad66-46b2f5a030aa.jpg?1557576244
 oracle_text: "Spells your opponents cast that target a creature or planeswalker you control cost {2} more to cast.\\n−2: Create a 2/2 blue Wizard creature token. Draw a card, then discard a card."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Kasmina, Enigmatic Mentor (War of the Spark)
 
 ## Vision

@@ -51,8 +51,10 @@ image_quality: high
 mood: horror
 time_of_day: night
 setting: void
+tags:
+  - card
+  - vision-passed
 ---
-
 # Psychic Strike (Gatecrash)
 
 ## Vision

@@ -50,8 +50,10 @@ oracle_text: Flying\nWhenever this creature attacks, target creature defending p
 mood: horror
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - vision-passed
 ---
-
 # Fear of Falling (Duskmourn: House of Horror)
 
 ## Vision

@@ -31,8 +31,10 @@ related_characters:
   - nicol-bolas
   - aether-rangers
 ip_resolution_for: Chandra Nalaar
+tags:
+  - layer
+  - character
 ---
-
 # Chandra Nalaar
 
 Pyromancer, mononymous and immediate; the signature red-aligned Gatewatch planeswalker and the single longest-running fire-mage protagonist in Magic: The Gathering's post-Mending continuity. Introduced in *Lorwyn* (2007) as one of the original five planeswalkers under the new spark-rules, foregrounded across the *Magic Origins* (2015) reveal that her spark ignited as a Kaladesh adolescent fleeing the Consulate's execution of her father Kiran Nalaar, and continuous through every Core Set and Standard-block return from 2007 forward. The `— Chandra` planeswalker subtype on the type-line is reserved for printings of this single character; canonical from Chandra Nalaar (Lorwyn, 2007) through every subsequent legendary planeswalker bearing the name. Daughter of Pia Nalaar and Kiran Nalaar of Ghirapur on Kaladesh (now Avishkar) — the maternal lineage canonically threads through the [[aether-rangers]] team page, where Pia is Chief Mechanic, making Chandra the daughter of one of the named co-captains of the home Grand Prix team in *Aetherdrift*.

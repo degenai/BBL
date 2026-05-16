@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/348-workshop
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/9/e9387e8f-0e72-4212-81c8-e64050700c52.jpg?1608911774
 flavor_text: Sometimes the smallest things make the biggest difference.
 oracle_text: When this creature dies, return another target artifact card from your graveyard to your hand.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Workshop Assistant (Commander Legends)
 
 ## Vision

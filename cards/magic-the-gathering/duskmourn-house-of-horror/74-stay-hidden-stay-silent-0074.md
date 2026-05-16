@@ -48,8 +48,11 @@ time_of_day: night
 setting: indoor
 symbols:
   - manifest-dread
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Stay Hidden, Stay Silent (0074) (Duskmourn: House of Horror)
 
 ## Vision

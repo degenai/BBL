@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/92-lash-of-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/a/ea45e972-6e4a-4854-9be3-6ffb24e7d7a5.jpg?1572490162
 flavor_text: \"Another angry mob? When will they learn to leave me be?\"\n—Terryn, Edgewall outcast
 oracle_text: Target creature gets +2/+1 and gains deathtouch until end of turn.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Lash of Thorns (Throne of Eldraine)
 
 ## Vision

@@ -27,6 +27,8 @@ oracle_text: "Leaf Drain (Grass) 30: Heal 30 damage from this Pokémon.\\nSolar 
 image_width: 868
 image_height: 1212
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Lurantis (Battle Styles)

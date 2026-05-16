@@ -47,8 +47,12 @@ setting: ocean
 suspected_ip: Prinplup (Pokemon)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Prinplup (Brilliant Stars)
 
 ## Vision

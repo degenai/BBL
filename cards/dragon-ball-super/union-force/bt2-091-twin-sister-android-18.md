@@ -48,8 +48,13 @@ setting: void
 suspected_ip: Android 18 (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Twin Sister Android 18 (Union Force)
 
 ## Vision

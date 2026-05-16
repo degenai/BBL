@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/89-drag-to
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/1/91852444-9361-4588-a44f-fb90ba1b30e5.jpg?1581479732
 flavor_text: The more you struggle against death, the tighter its grip becomes.
 oracle_text: This spell costs {X} less to cast, where X is your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)\nDestroy target creature.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Drag to the Underworld (Theros Beyond Death)
 
 ## Vision

@@ -25,6 +25,8 @@ oracle_text: "Rear Kick (Fire) 30\\nSpirited Tackle (FireColorlessColorless) 90+
 image_width: 733
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Paldean Tauros (Surging Sparks)

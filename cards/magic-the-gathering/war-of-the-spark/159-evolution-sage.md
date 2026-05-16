@@ -29,6 +29,7 @@ oracle_text: Landfall — Whenever a land you control enters, proliferate. (Choo
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Evolution Sage (War of the Spark)

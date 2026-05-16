@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/209-thrashing-br
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/6/c6cf27a3-9bcf-475c-a324-7c3af50496dd.jpg?1594737267
 flavor_text: It cares more about preserving the herd's territory than about preserving itself.
 oracle_text: "{1}, Sacrifice this creature: Destroy target artifact or enchantment."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Thrashing Brontodon (Core Set 2021)
 
 ## Vision

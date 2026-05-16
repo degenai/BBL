@@ -23,8 +23,15 @@ art_match_confidence: low
 needs_manual_review: true
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 oracle_text: Search your deck for a Basic Team Aqua Pokémon and a basic Water Energy card, reveal them, and put them into your hand. Shuffle your deck afterward.\nYou may play as many Item cards as you like during your turn (before your attack).
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Great Ball (Sun & Moon Base Set)
 
 ## Vision

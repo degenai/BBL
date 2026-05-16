@@ -52,8 +52,10 @@ flavor_text: Valgavoth harbors a special loathing for dogs, whose mere presence 
 oracle_text: When this creature enters or dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 characters:
   - valgavoth
+tags:
+  - card
+  - vision-passed
 ---
-
 # Wary Watchdog (Duskmourn: House of Horror)
 
 ## Vision

@@ -52,8 +52,13 @@ ip_confidence: high
 ip_verified: true
 flavor_text: Because Galarian Slowpoke eat the seeds of a plant that grows only in Galar, their tails have developed a spicy flavor.
 oracle_text: Sharpness (Colorless) 10\nHeadbutt (ColorlessColorless) 20
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Galarian Slowpoke (Chilling Reign)
 
 ## Vision

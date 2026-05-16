@@ -24,8 +24,15 @@ needs_manual_review: true
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: Born from a sand mound playfully built by a child, this Pokémon embodies the grudges of the departed.
 oracle_text: "Absorb Life (Psychic) 10: Heal 10 damage from this Pokémon."
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Sandygast (Sun & Moon Base Set)
 
 ## Vision

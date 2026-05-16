@@ -24,8 +24,15 @@ needs_manual_review: true
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: It lives in shallow seas, such as areas near a beach. It can eject its internal organs, which it uses to engulf its prey or battle enemies.
 oracle_text: "[Ability: Innards Out] If this Pokémon is your Active Pokémon and is Knocked Out by damage from an opponent's attack, put 6 damage counters on the Attacking Pokémon.\\nContinuous Tumble (Water) 30×: Flip a coin until you get tails. This attack does 30 damage for each heads."
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Pyukumuku (Sun & Moon Base Set)
 
 ## Vision

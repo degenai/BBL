@@ -53,8 +53,10 @@ oracle_text: When this creature enters or is turned face up, create a 1/1 colorl
 mood: action
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Gadget Technician (Murders at Karlov Manor)
 
 ## Vision

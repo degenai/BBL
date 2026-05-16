@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/233-meteorite--a
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/c/ec3a2c95-4e7a-43c5-90bd-6f1de7c82a5c.jpg?1594737513
 flavor_text: \"And if I'm lying,\" he began . . .
 oracle_text: "When this artifact enters, it deals 2 damage to any target.\\n{T}: Add one mana of any color."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Meteorite (Core Set 2021)
 
 ## Vision

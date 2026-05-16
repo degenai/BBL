@@ -48,8 +48,10 @@ artist: Lindsey Look
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/220-golden-egg--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/2/525142c3-f17c-4e02-a02d-fa385215aa12.jpg?1572490979
 oracle_text: "When this artifact enters, draw a card.\\n{1}, {T}, Sacrifice this artifact: Add one mana of any color.\\n{2}, {T}, Sacrifice this artifact: You gain 3 life."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Golden Egg (Throne of Eldraine)
 
 ## Vision

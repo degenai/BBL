@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/179-coni
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/a/baac2239-789a-42e6-8eb6-0b26836efb64.jpg?1573513371
 flavor_text: Atarka's presence thaws the glaciers of Qal Sisma, forcing its elementals to migrate or adapt.
 oracle_text: Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Conifer Strider (Mystery Booster Cards)
 
 ## Vision

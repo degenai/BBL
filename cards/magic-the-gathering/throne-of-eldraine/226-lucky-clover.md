@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/226-lucky-c
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/b/4b5d23a6-3a23-4169-aea1-f10bf5153180.jpg?1602499760
 flavor_text: Syr Branigan always remembered to kiss his good luck charm, having lost his foot to wolverines the last time he forgot.
 oracle_text: Whenever you cast an Adventure instant or sorcery spell, copy it. You may choose new targets for the copy.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Lucky Clover (Throne of Eldraine)
 
 ## Vision

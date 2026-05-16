@@ -47,8 +47,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - machine-mutants-m2
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Hidden Ability, General Rilldo (Cross Worlds)
 
 ## Vision

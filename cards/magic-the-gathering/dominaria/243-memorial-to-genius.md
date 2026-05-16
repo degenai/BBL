@@ -48,8 +48,10 @@ artist: James Paick
 art_crop_image: cards/_images/magic-the-gathering/dominaria/243-memorial-to-genius--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/9/b97bb62e-45cf-4862-b181-5af463a442b5.jpg?1562741840
 oracle_text: "This land enters tapped.\\n{T}: Add {U}.\\n{4}{U}, {T}, Sacrifice this land: Draw two cards."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Memorial to Genius (Dominaria)
 
 ## Vision

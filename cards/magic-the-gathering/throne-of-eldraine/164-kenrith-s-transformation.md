@@ -51,8 +51,10 @@ image_quality: high
 mood: sublime
 time_of_day: indeterminate
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Kenrith's Transformation (Throne of Eldraine)
 
 ## Vision

@@ -47,8 +47,10 @@ oracle_text: Menace\nWhenever this creature deals combat damage to a player, put
 mood: horror
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - vision-passed
 ---
-
 # Etched Slith (Modern Horizons 3)
 
 ## Vision

@@ -55,8 +55,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/28-leonin-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/1/e1be3729-7970-45df-8c26-4fe09e56629d.jpg?1581479169
 flavor_text: Leonin band together in the Underworld, taking solace in their strength until, at last, both pride and self are forgotten.
 oracle_text: When this creature dies, exile target card from an opponent's graveyard.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Leonin of the Lost Pride (Theros Beyond Death)
 
 ## Vision

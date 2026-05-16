@@ -51,8 +51,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - vegeta
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # God Charge Vegeta (Galactic Battle)
 
 ## Vision

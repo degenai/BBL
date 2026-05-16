@@ -51,8 +51,11 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/11-celestial-enf
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/6/46666fba-d4a7-4687-8747-a42e4c6d853e.jpg?1594734826
 flavor_text: \"I look to the heavens for hope, but you will kneel.\"
 oracle_text: "{1}{W}, {T}: Tap target creature. Activate only if you control a creature with flying."
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Celestial Enforcer (Core Set 2021)
 
 ## Vision

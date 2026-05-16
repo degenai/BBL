@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/184-dauntless-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/2/52b1b4a2-52a7-4fcd-aa96-f7d9e459657b.jpg?1604198710
 flavor_text: \"I've got a little surprise for you, beasties! Come and get it!\"
 oracle_text: When this creature enters, put a +1/+1 counter on target creature.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Dauntless Survivor (Zendikar Rising)
 
 ## Vision

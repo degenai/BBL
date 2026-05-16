@@ -24,6 +24,8 @@ needs_manual_review: false
 image_width: 400
 image_height: 558
 image_quality: med
+tags:
+  - card
+  - weiss
 ---
-
 # Caramel-chan (Mob Psycho 100)

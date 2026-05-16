@@ -52,8 +52,10 @@ artist: Jonathan Kuo
 art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/17-prowling-caracal--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/9/09ae21d0-771e-4b04-826e-e352fff31ad6.jpg?1573506208
 flavor_text: A hunter in the city requires the utmost cunning to survive. It must pounce only if the kill is certain, and leave the remains where no one will see.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Prowling Caracal (Mystery Booster Cards)
 
 ## Vision

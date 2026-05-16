@@ -55,8 +55,11 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Kozilek's Sentinel (Battle for Zendikar)
 
 ## Vision

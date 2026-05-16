@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/161-haml
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/d/fd8f9cd1-1c43-4778-b8e9-ce51b81984d3.jpg?1573513827
 flavor_text: \"Bloodsuckers, howlers, monsters from the beyond . . . it doesn't much matter. I won't have to face them alone.\"
 oracle_text: Whenever this creature attacks or blocks, other Humans you control get +1/+1 until end of turn.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Hamlet Captain (Mystery Booster Cards)
 
 ## Vision

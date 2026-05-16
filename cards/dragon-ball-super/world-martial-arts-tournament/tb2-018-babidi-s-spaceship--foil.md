@@ -49,8 +49,13 @@ setting: indoor
 suspected_ip: Babidi's Spaceship (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Babidi's Spaceship (World Martial Arts Tournament)
 
 ## Vision

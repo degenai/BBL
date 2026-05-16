@@ -27,6 +27,8 @@ oracle_text: "[Ability: Thick Fat] This Pokémon takes 30 less damage from the a
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Azumarill (Burning Shadows)

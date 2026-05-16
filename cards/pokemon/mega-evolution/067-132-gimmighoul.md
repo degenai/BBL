@@ -47,8 +47,12 @@ setting: indoor
 suspected_ip: "Gimmighoul (#999)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Gimmighoul (Mega Evolution)
 
 ## Vision

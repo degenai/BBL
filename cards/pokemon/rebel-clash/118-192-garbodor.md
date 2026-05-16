@@ -27,6 +27,8 @@ oracle_text: "[Ability: Poisonous Puddle] Once during your turn, if a Stadium is
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Garbodor (Rebel Clash)

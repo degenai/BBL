@@ -24,8 +24,15 @@ needs_manual_review: true
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: A skillful dancer, it creates a sequence of water balloons as it dances, and briskly bombards it enemies.
 oracle_text: "Wave Splash (WaterColorless) 30\\nDisarming Voice (WaterWaterColorless) 50: Your opponent's Active Pokémon is now Confused."
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Brionne (Sun & Moon Base Set)
 
 ## Vision

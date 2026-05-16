@@ -30,8 +30,10 @@ ip_resolution_for:
   - Tournament Announcer
   - Tenkaichi Budokai Announcer
   - Announcer (Dragon Ball)
+tags:
+  - layer
+  - character
 ---
-
 # World Tournament Announcer
 
 The canonical unnamed normal-human broadcast-labor figure who has hosted every canonical World Martial Arts Tournament across forty years of Dragon Ball franchise output — Dragon Ball (21st Tenkaichi Budokai), Dragon Ball Z (22nd through 28th Tenkaichi), Dragon Ball GT (29th and 30th Tenkaichi), and Dragon Ball Super (post-Buu-Saga tournament continuations) — one of the franchise's longest-recurring canonical-unnamed-character broadcast-labor figures, the canonical *the one normal human fully aware that the Z-Fighters are superhuman* informational-cohort position per Dragon Ball Wiki, and the canonical *one-of-the-few-who-knows-Mr-Satan-did-not-actually-defeat-Cell* silent informational-witness whose canonical labor-position across the entire post-Cell-Games credit-erasure apparatus the [[hercule]] node operates within. Introduced in Dragon Ball manga chapter 33 (1985, Akira Toriyama, Shueisha) at the 21st World Martial Arts Tournament arc, the Announcer canonically operates as the *play-by-play broadcaster, ringside-referee, post-match-color-commentator, and tournament-rules-arbiter* across all canonical Tenkaichi-Budokai-arc broadcasts. The canonical *absence-of-name* is itself the canonical character-feature per the Dragon Ball Wiki disambiguation page treatment: Toriyama installed the Announcer into the canonical tournament-arc service-staff roster as the canonical *service-labor-as-anonymous-labor* design statement, a register Bandai's TB2 set's three-card Announcer mini-cycle (TB2-065 + TB2-066 + TB2-067) canonically affirms by foregrounding the character's canonical role-facets (Referee Veteran / Ever-Curious / Play-By-Play Pro) rather than any canonical individual-name disambiguation.

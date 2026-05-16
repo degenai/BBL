@@ -27,6 +27,8 @@ oracle_text: "Deck Distiller (Fighting): Flip a coin until you get tails. For ea
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Shuckle (Vivid Voltage)

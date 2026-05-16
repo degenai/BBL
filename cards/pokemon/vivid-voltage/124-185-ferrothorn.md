@@ -27,6 +27,8 @@ oracle_text: "Swift Swing (Metal) 30×: This attack does 30 damage for each Meta
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Ferrothorn (Vivid Voltage)

@@ -46,8 +46,13 @@ setting: forest
 suspected_ip: Deerling
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Deerling (Chilling Reign)
 
 ## Vision

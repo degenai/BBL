@@ -28,8 +28,10 @@ related_characters:
   - son-goku
   - dark-vassal-trio
 ip_resolution_for: piccolo-jr
+tags:
+  - layer
+  - character
 ---
-
 # Piccolo Jr.
 
 The canonical Earth-side reformed Namekian who began the Dragon Ball franchise as Goku's principal antagonist in the 23rd World Martial Arts Tournament arc (Dragon Ball chapters 192-194, 1978 manga / 1989 anime), was retconned as the Nameless Namekian's evil-half-incarnate when his father King Piccolo split his soul to create Kami the Earth Guardian, and reformed across the Dragon Ball Z sagas into the franchise's most-instantiated stewardship-register character: Son Gohan's mentor through the Saiyan and Cell sagas, Goten and Trunks's Fusion Dance instructor in the Buu saga, and permanently fused with Kami in the 24th World Tournament arc as the canonical *Kamiccolo* unified Nameless Namekian. Per Dragon Ball Wiki's Piccolo page and the *CBR: "Everything You Need to Know About Gohan and Piccolo"* canonical-relationship survey, Piccolo Jr. is the Dragon Ball franchise's most structurally complete villain-to-stewardship trajectory — a former demon-king-reincarnate whose entire late-series arc is "the labor of raising another fighter."

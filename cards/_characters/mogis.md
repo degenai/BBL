@@ -24,8 +24,10 @@ related_characters:
   - theros-pantheon
 ip_resolution_for: "Mogis, God of Slaughter"
 parent_character: theros-pantheon
+tags:
+  - layer
+  - character
 ---
-
 # Mogis, God of Slaughter
 
 Theros's red-black god of slaughter and the dark twin of Iroas (red-white god of victory). Mogis is the pantheon's patron of bloodlust, the canonical lord of Theros's minotaur race, and the named deity of the polis of Skophos in the northern Phoberos canyons — the city-state whose center is the largest temple to Mogis on the plane. Per the *Theros Pantheon* roster (MTG Wiki Pantheon of Theros page) Mogis is one of the twelve principal pantheon members; he debuted as a printed card in *Born of the Gods* (BNG-151, 2014) and has been name-referenced across original *Theros* (2013) and *Theros Beyond Death* (2020) flavor text on cards depicting his minotaur servitors. Sub-node under [[theros-pantheon]] — Mogis is the pantheon's most thesis-aligned member for BBL's apparatus-of-extraction reading of the Theros block, and the parent roster node carries the institutional context this sub-node refers back into.

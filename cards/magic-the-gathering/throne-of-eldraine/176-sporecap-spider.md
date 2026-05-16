@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/176-sporeca
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/b/7bc33252-145f-45c0-bb70-23183c698f66.jpg?1572490669
 flavor_text: After years of taunts and aerial assaults from Rankle's minions, the witches of Maraleaf Forest acquired new familiars.
 oracle_text: Reach
+tags:
+  - card
+  - vision-passed
 ---
-
 # Sporecap Spider (Throne of Eldraine)
 
 ## Vision

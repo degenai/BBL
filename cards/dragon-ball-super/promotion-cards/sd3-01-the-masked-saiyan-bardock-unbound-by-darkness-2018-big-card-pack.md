@@ -51,8 +51,13 @@ setting: void
 suspected_ip: Bardock / The Masked Saiyan (Dragon Ball Xenoverse / Dragon Ball Heroes)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # The Masked Saiyan // Bardock, Unbound by Darkness (2018 Big Card Pack) (Promotion Cards)
 
 ## Vision

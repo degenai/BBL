@@ -49,8 +49,10 @@ image_quality: high
 mood: sublime
 time_of_day: indeterminate
 setting: urban
+tags:
+  - card
+  - vision-passed
 ---
-
 # Boros Guildgate (Dragon's Maze)
 
 ## Vision

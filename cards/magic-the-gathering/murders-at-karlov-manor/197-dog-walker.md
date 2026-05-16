@@ -50,8 +50,10 @@ oracle_text: Vigilance\nDisguise {R/W}{R/W} (You may cast this card face down fo
 mood: comedic
 time_of_day: day
 setting: urban
+tags:
+  - card
+  - vision-passed
 ---
-
 # Dog Walker (Murders at Karlov Manor)
 
 ## Vision

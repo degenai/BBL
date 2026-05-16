@@ -49,8 +49,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - destroyer-god-attendant-dyad
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Whis, Judge of the Gods (Galactic Battle)
 
 ## Vision

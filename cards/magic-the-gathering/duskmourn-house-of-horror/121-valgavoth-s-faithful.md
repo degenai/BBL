@@ -49,8 +49,10 @@ image_quality: high
 mood: grim
 time_of_day: night
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Valgavoth's Faithful (Duskmourn: House of Horror)
 
 ## Vision

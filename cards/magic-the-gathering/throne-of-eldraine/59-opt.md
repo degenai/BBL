@@ -29,6 +29,7 @@ oracle_text: Scry 1. (Look at the top card of your library. You may put that car
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Opt (Throne of Eldraine)

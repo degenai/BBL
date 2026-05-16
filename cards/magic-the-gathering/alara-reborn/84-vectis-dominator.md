@@ -42,8 +42,10 @@ art_crop_image: cards/_images/magic-the-gathering/alara-reborn/84-vectis-dominat
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/c/1cfb7589-a53e-4580-bd92-641fd4785934.jpg?1562640010
 flavor_text: \"I appreciate the artistry of the telemins, but the creatures of the other worlds provide a much more dramatic performance.\"\n—Ennor, mentalist
 oracle_text: "{T}: Tap target creature unless its controller pays 2 life."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Vectis Dominator (Alara Reborn)
 
 ## Vision

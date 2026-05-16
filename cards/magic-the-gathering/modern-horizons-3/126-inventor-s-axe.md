@@ -28,6 +28,7 @@ oracle_text: Flash\nWhen this Equipment enters, you get {E}{E} (two energy count
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Inventor's Axe (Modern Horizons 3)

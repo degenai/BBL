@@ -60,8 +60,11 @@ oracle_text: At the beginning of your first main phase, add {R}{R}. Spend this m
 mood: grim
 time_of_day: night
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Smoky Lounge // Misty Salon (Duskmourn: House of Horror)
 
 ## Vision

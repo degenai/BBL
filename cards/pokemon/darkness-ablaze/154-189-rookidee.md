@@ -47,8 +47,13 @@ setting: forest
 suspected_ip: Rookidee
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Rookidee (Darkness Ablaze)
 
 ## Vision

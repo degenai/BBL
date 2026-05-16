@@ -24,8 +24,15 @@ needs_manual_review: true
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: It rolls up pollen into puffs. It makes many different varieties, some used as food and others used in battle.
 oracle_text: "[Ability: Curative Pollen] Once during your turn (before your attack), you may heal 20 damage from 1 of your Pokémon.\\nFairy Wind (Fairy) 30"
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Ribombee (Sun & Moon Base Set)
 
 ## Vision

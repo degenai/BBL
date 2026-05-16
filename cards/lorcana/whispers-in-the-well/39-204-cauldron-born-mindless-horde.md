@@ -55,8 +55,13 @@ subject_known_ip: true
 suspected_ip: Cauldron Born / Horned King's Army (The Black Cauldron)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Cauldron Born - Mindless Horde (Whispers in the Well)
 
 ## Vision

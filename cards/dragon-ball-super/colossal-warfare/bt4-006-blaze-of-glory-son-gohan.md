@@ -50,8 +50,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - son-gohan
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Blaze of Glory Son Gohan (Colossal Warfare)
 
 ## Vision

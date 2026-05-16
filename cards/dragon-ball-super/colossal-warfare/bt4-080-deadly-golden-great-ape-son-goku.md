@@ -52,8 +52,13 @@ ip_verified: true
 characters:
   - son-goku
   - saiyan
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Deadly Golden Great Ape Son Goku (Colossal Warfare)
 
 ## Vision

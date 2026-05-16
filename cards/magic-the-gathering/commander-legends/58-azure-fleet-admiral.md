@@ -55,8 +55,11 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/58-azure-fle
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/0/c0889e22-deab-48ba-bbd6-f0d49bee5d9c.jpg?1608909111
 flavor_text: \"Your concern for my safety is touching, but as long as your gunners remain reliably erratic, I see no reason to change course.\"\n—Admiral Yelise, to Commodore Axurik
 oracle_text: When this creature enters, you become the monarch.\nThis creature can't be blocked by creatures the monarch controls.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Azure Fleet Admiral (Commander Legends)
 
 ## Vision

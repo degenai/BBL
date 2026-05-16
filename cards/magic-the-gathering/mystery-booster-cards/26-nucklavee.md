@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/26-nuckl
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/c/fc7a017d-0bd2-47ba-94cd-3936c131941e.jpg?1573515979
 flavor_text: "It loathes all tastes but two: spells and flesh."
 oracle_text: When this creature enters, you may return target red sorcery card from your graveyard to your hand.\nWhen this creature enters, you may return target blue instant card from your graveyard to your hand.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Nucklavee (Mystery Booster Cards)
 
 ## Vision

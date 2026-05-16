@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/41-tempered-vete
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/b/3b43d7bc-173c-41eb-bba9-a9d94dcfc5fa.jpg?1594735330
 flavor_text: \"I've been carrying a sword since before you were born. I wouldn't give up my oath for all the peace and comfort in the world.\"
 oracle_text: "{W}, {T}: Put a +1/+1 counter on target creature with a +1/+1 counter on it.\\n{4}{W}{W}, {T}: Put a +1/+1 counter on target creature."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Tempered Veteran (Core Set 2021)
 
 ## Vision

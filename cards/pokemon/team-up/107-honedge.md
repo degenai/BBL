@@ -27,6 +27,8 @@ oracle_text: "Cut Down (Metal): Flip a coin. If heads, discard an Energy from yo
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Honedge (Team Up)

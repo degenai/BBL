@@ -49,8 +49,13 @@ setting: forest
 suspected_ip: Zarude
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Zarude V (Brilliant Stars)
 
 ## Vision

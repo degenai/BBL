@@ -27,6 +27,8 @@ oracle_text: "Assisting Spark (Lightning) 30: You may attach a Lightning Energy 
 image_width: 868
 image_height: 1212
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Thundurus (Chilling Reign)

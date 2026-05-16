@@ -27,6 +27,8 @@ oracle_text: "Jaw Lock (PsychicColorless) 50: During your opponent's next turn, 
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Granbull (Darkness Ablaze)

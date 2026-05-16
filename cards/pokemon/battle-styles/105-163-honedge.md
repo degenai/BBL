@@ -27,6 +27,8 @@ oracle_text: "Ambush (Metal) 10+: Flip a coin. If heads, this attack does 30 mor
 image_width: 868
 image_height: 1212
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Honedge (Battle Styles)

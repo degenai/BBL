@@ -32,8 +32,10 @@ ip_resolution_for:
   - Good Buu
   - Fat Buu
   - Innocent Buu
+tags:
+  - layer
+  - character
 ---
-
 # Majin Buu
 
 The canonical ancient bio-magical entity at the center of the Dragon Ball Z Buu Saga (DBZ chapters 461-518, 1994-1995; anime episodes 220-291, 1996), one of the franchise's most-recognizable single-character profiles, and the canonical *productive asset* whose harvest-event Babidi's apparatus is structurally built to revive ([[babidi]]). Across the Buu Saga, Majin Buu progresses through five canonical forms: **Innocent Buu** (the canonical form unsealed from Bibidi's Sealed Ball at the Babidi Saga climax — the rotund-pink-childlike-affect base form with planet-level destructive power), **Super Buu** (the canonical form produced after Innocent Buu's fission separates the Grand-Supreme-Kai-absorbed benign half from the underlying destructive consciousness — the lean-and-malevolent absorption-capable mid-form), **Super Buu Absorbed states** (the canonical apex Buu-Saga power-tier produced by absorbing Gotenks then Piccolo then Gohan in succession), **Kid Buu** (the canonical original pure-evil consciousness produced after Super Buu's regression — the original Bibidi-created form whose canonical Spirit-Bomb-defeat by Goku closes the Buu Saga and triggers the canonical King-Yemma-reincarnation-via-Goku's-wish that produces [[uub]]), and **Mr. Buu / Good Buu / Fat Buu** (the canonical reformed-villain register that survives the Buu Saga as a Z-Fighter ally — the canonical *evil-is-actually-detachable* statement Toriyama installed as the canonical Buu-Saga's load-bearing tonal-pivot beat).

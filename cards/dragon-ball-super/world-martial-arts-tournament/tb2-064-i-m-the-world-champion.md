@@ -49,8 +49,13 @@ setting: other
 suspected_ip: Mr. Satan (Hercule)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # I'm the World Champion! (World Martial Arts Tournament)
 
 ## Vision

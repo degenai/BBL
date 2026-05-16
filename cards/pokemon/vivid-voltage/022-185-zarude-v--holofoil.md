@@ -50,8 +50,12 @@ subject_known_ip: true
 suspected_ip: Zarude
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Zarude V (Vivid Voltage)
 
 ## Vision

@@ -47,8 +47,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - machine-mutants-m2
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Handy Giru (Cross Worlds)
 
 ## Vision

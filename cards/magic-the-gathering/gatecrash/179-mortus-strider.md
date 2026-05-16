@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/gatecrash/179-mortus-strider--
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/6/d644eb6e-cc49-4834-bc2c-53f6a4ceb451.jpg?1561848168
 flavor_text: Dimir's best agents hide from death itself.
 oracle_text: When this creature dies, return it to its owner's hand.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Mortus Strider (Gatecrash)
 
 ## Vision

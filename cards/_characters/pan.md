@@ -33,8 +33,10 @@ ip_resolution_for:
   - Pan (Dragon Ball)
   - Pan (Dragon Ball GT)
   - Pan (Dragon Ball Super)
+tags:
+  - layer
+  - character
 ---
-
 # Pan
 
 The quarter-Saiyan / three-quarter-Earthling daughter of Son Gohan and Videl, granddaughter of Son Goku on her paternal Saiyan side and of Mr. Satan / Hercule on her maternal Earthling side — introduced in chapter 518 of Akira Toriyama's Dragon Ball Z manga (1995) as a newborn infant in the End of Z epilogue, then promoted to lead-protagonist status as the youngest member of the Goku-Pan-Trunks traveling-trio in Toei Animation's *Dragon Ball GT* (1996-1997). Across three decades of Dragon Ball franchise output Pan has been re-instantiated into three canonical named incarnations whose visual identifiers, canonical age, costume, and continuity-strand are designer-coordinated for Bandai's card-game character-tag scheme to disambiguate per-print: **Pan: GT** (the canonical Dragon Ball GT child-protagonist, age 4 at series start, orange/red martial-arts outfit with cap or bandana, the Black Star Dragon Ball Saga's third trio-member alongside child-body Goku and adult Trunks); **Pan: DBS** (the Universe Survival Saga era small-child Pan, infant / toddler in Toei's Dragon Ball Super continuity, primarily an off-screen-and-supporting-cast presence canonically depicted at the parental-Gohan-Videl Z-era epilogue family-unit framing); and **Pan: Super Hero** (the Pilaf-Gang-protected child Pan in the *Dragon Ball Super: Super Hero* 2022 film, where Pan is kidnapped by the revived Red Ribbon Army's Gamma 1 / Gamma 2 androids and rescued by Gohan and Piccolo in the canonical mortal-stakes inverse to the cosmic-scale combat arc that occupies most of the franchise).

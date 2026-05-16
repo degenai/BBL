@@ -58,8 +58,11 @@ oracle_text: Flash\nEnchant creature\nEnchanted creature gets +2/+2 and has tram
 mood: horror
 time_of_day: night
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Frantic Strength (Duskmourn: House of Horror)
 
 ## Vision

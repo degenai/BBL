@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/187-nylea-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/a/2a4fe89a-0d2b-493f-883e-a1e0b0918340.jpg?1581480783
 flavor_text: Nature is stillness and savagery in equal measure.
 oracle_text: When this creature enters, target creature you control gets +X/+0 until end of turn, where X is your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Nylea's Huntmaster (Theros Beyond Death)
 
 ## Vision

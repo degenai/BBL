@@ -51,8 +51,10 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Belligerent Whiptail (Battle for Zendikar)
 
 ## Vision

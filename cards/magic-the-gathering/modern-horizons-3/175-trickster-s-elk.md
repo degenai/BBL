@@ -56,8 +56,11 @@ ip_confidence: high
 ip_verified: true
 characters:
   - oko
+tags:
+  - card
+  - vision-passed
+  - ip-verified
 ---
-
 # Trickster's Elk (Modern Horizons 3)
 
 ## Vision

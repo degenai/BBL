@@ -47,8 +47,12 @@ oracle_text: "Sacrifice this creature: It deals 3 damage divided as you choose a
 mood: comedic
 time_of_day: dawn
 setting: mountain
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-pending
 ---
-
 # Mogg Mob (Modern Horizons 3)
 
 ## Vision

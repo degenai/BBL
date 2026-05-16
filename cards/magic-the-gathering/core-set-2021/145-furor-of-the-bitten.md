@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/145-furor-of-the
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/b/cb0e6279-8a66-4124-9def-fa0c83c26db9.jpg?1594736626
 flavor_text: Those who only believe themselves infected with lycanthropy can be as dangerous as those who really are.
 oracle_text: Enchant creature\nEnchanted creature gets +2/+2 and attacks each combat if able.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Furor of the Bitten (Core Set 2021)
 
 ## Vision

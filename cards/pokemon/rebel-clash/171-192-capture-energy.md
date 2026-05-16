@@ -43,8 +43,12 @@ oracle_text: As long as this card is attached to a Pokémon, it provides Colorle
 mood: other
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Capture Energy (Rebel Clash)
 
 ## Vision

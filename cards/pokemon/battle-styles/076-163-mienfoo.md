@@ -27,6 +27,8 @@ oracle_text: "Double Stab (FightingColorless) 30×: Flip 2 coins. This attack do
 image_width: 868
 image_height: 1212
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Mienfoo (Battle Styles)

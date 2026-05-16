@@ -49,8 +49,11 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/106-specter
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/d/edae2c29-1418-477c-9efe-e53fa6c7fe93.jpg?1572490248
 flavor_text: \"Imagine having your skeleton extracted through your ear, one bone at a time.\"\n—Corliss the Wanderer
 oracle_text: Target opponent reveals their hand. You may choose a nonland card from it. If you do, that player exiles that card. If a nonblack card is exiled this way, exile a card from your hand.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Specter's Shriek (Throne of Eldraine)
 
 ## Vision

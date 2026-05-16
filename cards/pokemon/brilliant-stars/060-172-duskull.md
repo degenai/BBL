@@ -48,8 +48,12 @@ setting: indoor
 suspected_ip: Duskull (Pokemon)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Duskull (Brilliant Stars)
 
 ## Vision

@@ -51,8 +51,11 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/137-hero-o
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/d/cdb7c7a6-4e9b-4300-a776-b7e7916950c8.jpg?1581480168
 flavor_text: Winners of the Iroan Games are forever remembered as heroes of their people.
 oracle_text: Whenever you cast a spell that targets this creature, creatures you control get +1/+0 until end of turn.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Hero of the Games (Theros Beyond Death)
 
 ## Vision

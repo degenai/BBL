@@ -47,8 +47,13 @@ setting: other
 suspected_ip: Yajirobe (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Courageous Heart Yajirobe (Union Force)
 
 ## Vision

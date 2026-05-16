@@ -49,8 +49,12 @@ setting: void
 suspected_ip: "Seviper (#336)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Seviper (Burning Shadows)
 
 ## Vision

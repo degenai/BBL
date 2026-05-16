@@ -52,8 +52,11 @@ image_quality: high
 mood: comedic
 time_of_day: day
 setting: urban
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Forum Familiar (Murders at Karlov Manor)
 
 ## Vision

@@ -27,6 +27,8 @@ oracle_text: "Filch (Colorless): Draw a card.\\nTorment (ColorlessColorless) 30:
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Sableye (Vivid Voltage)

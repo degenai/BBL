@@ -51,8 +51,11 @@ artist: Chris Rallis
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/137-rimrock-knight--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/3/a3d13d84-01e4-4429-93db-e5afff811527.jpg?1572490430
 oracle_text: This creature can't block.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Rimrock Knight (Throne of Eldraine)
 
 ## Vision

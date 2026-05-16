@@ -52,8 +52,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - namekian
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Gift of Power Guru (Colossal Warfare)
 
 ## Vision

@@ -51,8 +51,13 @@ setting: indoor
 suspected_ip: Don Karnage (TaleSpin)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - trivia-passed
+  - ip-pending
 ---
-
 # He Who Steals And Runs Away (Reign of Jafar)
 
 ## Vision

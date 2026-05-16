@@ -27,6 +27,8 @@ oracle_text: "Poltergeist (ColorlessColorless) 30×: Your opponent reveals their
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Trevenant (Guardians Rising)

@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/165-arasta
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/c/7c38833a-96c5-48b5-8dd8-23f10e798537.jpg?1581480541
 flavor_text: Her webs, spun from her own hair, reach from Nyx to the mortal world and even into the Underworld.
 oracle_text: Reach\nWhenever an opponent casts an instant or sorcery spell, create a 1/2 green Spider creature token with reach.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Arasta of the Endless Web (Theros Beyond Death)
 
 ## Vision

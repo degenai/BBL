@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/149-molten-bla
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/b/bb1beef2-788b-469b-883b-cf1cca04eeff.jpg?1604197442
 flavor_text: Life among the sudden tremors and violent eruptions of Akoum demands a healthy fear of both.
 oracle_text: Choose one —\n• Molten Blast deals 2 damage to target creature or planeswalker.\n• Destroy target artifact.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Molten Blast (Zendikar Rising)
 
 ## Vision

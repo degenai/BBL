@@ -53,8 +53,10 @@ image_quality: high
 mood: other
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Greenhouse // Rickety Gazebo (Duskmourn: House of Horror)
 
 ## Vision

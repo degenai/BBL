@@ -56,8 +56,12 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/190-despark--
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/2/32b17dfc-b916-4134-ba77-501cff435e7e.jpg?1615415475
 flavor_text: Liliana whispered to whatever consciousness Oketra and Bontu had left. \"You are the gods. He is the usurper. You know what to do.\"
 oracle_text: Exile target permanent with mana value 4 or greater.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Despark (War of the Spark)
 
 ## Vision

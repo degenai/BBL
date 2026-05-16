@@ -55,8 +55,11 @@ oracle_text: "This land enters tapped unless a player has 13 or less life.\\n{T}
 mood: grim
 time_of_day: magic-hour
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Raucous Carnival (Duskmourn: House of Horror)
 
 ## Vision

@@ -29,6 +29,7 @@ oracle_text: Tap all creatures your opponents control. Creatures you control gai
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Bond of Discipline (War of the Spark)

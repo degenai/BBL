@@ -50,8 +50,12 @@ setting: forest
 suspected_ip: "Hawlucha (#701)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Hawlucha (Rebel Clash)
 
 ## Vision

@@ -27,6 +27,8 @@ oracle_text: "Pluck (Colorless) 10: Before doing damage, discard all Pokémon To
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Vullaby (Rebel Clash)

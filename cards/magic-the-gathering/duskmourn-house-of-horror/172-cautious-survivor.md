@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/172-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/e/ee2b4c1a-e058-4e06-bc46-e250fd9c9b54.jpg?1726286500
 flavor_text: She came back alone, with her recorder broken and its footage scrambled. Whatever she had experienced, she never spoke of again.
 oracle_text: Survival — At the beginning of your second main phase, if this creature is tapped, you gain 2 life.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Cautious Survivor (Duskmourn: House of Horror)
 
 ## Vision

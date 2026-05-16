@@ -50,8 +50,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - master-roshi
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Master Roshi, Martial Meister (World Martial Arts Tournament)
 
 ## Vision

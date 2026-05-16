@@ -53,8 +53,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Killer's Mask (Duskmourn: House of Horror)
 
 ## Vision

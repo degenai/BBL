@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/218-experimental
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/f/6f1bace4-a327-4eb6-a6ef-8394e76c06b7.jpg?1594737377
 flavor_text: Explosions aren't necessarily failures, just a different kind of success.
 oracle_text: Create an X/X blue and red Weird creature token, where X is the number of instant and sorcery cards in your graveyard. Then you may return an instant or sorcery card from your graveyard to your hand. Exile Experimental Overload.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Experimental Overload (Core Set 2021)
 
 ## Vision

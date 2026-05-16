@@ -50,8 +50,10 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: desert
+tags:
+  - card
+  - vision-passed
 ---
-
 # Frontier Seeker (Outlaws of Thunder Junction)
 
 ## Vision

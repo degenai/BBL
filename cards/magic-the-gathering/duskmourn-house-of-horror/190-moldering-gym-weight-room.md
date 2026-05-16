@@ -54,8 +54,11 @@ setting: indoor
 symbols:
   - manifest-dread
   - rooms
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Moldering Gym // Weight Room (Duskmourn: House of Horror)
 
 ## Vision

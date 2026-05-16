@@ -48,8 +48,13 @@ setting: void
 suspected_ip: Son Goku (Dragon Ball)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Fateful Reunion Son Goku (World Martial Arts Tournament)
 
 ## Vision

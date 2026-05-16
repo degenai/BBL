@@ -29,6 +29,7 @@ oracle_text: "During your turn, this creature has first strike.\\n{1}, Sacrifice
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Ahn-Crop Invader (War of the Spark)

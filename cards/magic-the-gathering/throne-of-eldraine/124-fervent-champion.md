@@ -52,8 +52,11 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/124-fervent
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/5/c52d66db-5570-48a1-99cf-e0417517747b.jpg?1636491502
 flavor_text: 2018 World Champion Javier Domínguez
 oracle_text: First strike, haste\nWhenever this creature attacks, another target attacking Knight you control gets +1/+0 until end of turn.\nEquip abilities you activate that target this creature cost {3} less to activate.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Fervent Champion (Throne of Eldraine)
 
 ## Vision

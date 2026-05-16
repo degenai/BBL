@@ -53,8 +53,12 @@ setting: other
 suspected_ip: Chandra Nalaar
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Devour in Flames (Oath of the Gatewatch)
 
 ## Vision

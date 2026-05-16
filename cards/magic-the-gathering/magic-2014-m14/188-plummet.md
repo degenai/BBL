@@ -50,8 +50,10 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Plummet (Magic 2014 (M14))
 
 ## Vision

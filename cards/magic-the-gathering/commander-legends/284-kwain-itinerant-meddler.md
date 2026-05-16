@@ -49,8 +49,10 @@ image_quality: high
 mood: comedic
 time_of_day: night
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Kwain, Itinerant Meddler (Commander Legends)
 
 ## Vision

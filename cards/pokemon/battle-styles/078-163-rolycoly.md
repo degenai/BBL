@@ -27,6 +27,8 @@ oracle_text: "Reckless Charge (Fighting) 30: This Pokémon also does 10 damage t
 image_width: 868
 image_height: 1212
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Rolycoly (Battle Styles)

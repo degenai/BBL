@@ -27,8 +27,10 @@ related_characters:
   - caterpie-line
   - ralts-line
 ip_resolution_for: pancham-line
+tags:
+  - layer
+  - character
 ---
-
 # Pancham evolutionary line (Pancham / Pangoro)
 
 A two-stage Fighting-type-to-Fighting/Dark evolutionary line and the canonical Kalos-region bancho (Japanese juvenile delinquent gang leader) panda line introduced in Pokemon X and Y (Game Freak / Creatures Inc. / Nintendo, 2013). The line comprises **Pancham** (National Pokedex no. 674, Fighting-type, base form, the "Playful Pokemon" — a small black-and-white panda Pokemon who walks bipedally with a bamboo-leaf shoot held in its mouth and a canonical-tough-but-bratty personality register), and **Pangoro** (no. 675, Fighting/Dark-type, Stage 1, evolves from Pancham at Level 32 if and only if a Dark-type Pokemon is in the player's party at the level-up event, the "Daunting Pokemon" — a large bipedal giant panda Pokemon with a Dark-type-overlay aesthetic, the bamboo-leaf shoot held in its mouth functioning as a canonical opponent-movement-detection sensory organ). The line is **uniquely structurally distinguished among Pokemon evolutionary lines for its party-composition-gated evolution mechanic** — Pancham's evolution into Pangoro requires the player to have a Dark-type Pokemon in their party at the moment of Pancham's level-32 level-up, a mechanic that is unique to this line in the mainline Pokemon games as of Generation IX. The party-composition gating mechanic is designer-coordinated as a **"bad influence" narrative beat** — Pancham gains its Dark typing at evolution canonically through exposure to a Dark-type companion, framing the species' evolution as a juvenile-delinquent-influenced moral arc rather than a level-driven biological progression. The Pokedex characterization of Pancham as the henchman who loses its leaf as a punishment when it makes a big mistake, and Pangoro as the rowdy-but-attractive boss with the bamboo-leaf-as-sensory-organ canon, establishes the line's most-cited narrative arc: a designer-coordinated henchman-to-boss bancho-archetype transition rendered as a species-level evolution event with a party-composition gate as the line's structural signature.

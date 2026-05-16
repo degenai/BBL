@@ -44,8 +44,12 @@ oracle_text: Devolve 1 of your evolved Psychic Pokémon by putting any number of
 mood: other
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Strange Timepiece (Mega Evolution)
 
 ## Vision

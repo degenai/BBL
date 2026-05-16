@@ -49,8 +49,12 @@ setting: void
 suspected_ip: Son Goku (Dragon Ball Z)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - ip-pending
 ---
-
 # Broken Limits Super Saiyan 3 Son Goku (Cross Worlds)
 
 ## Vision

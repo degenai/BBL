@@ -45,8 +45,10 @@ image_quality: high
 mood: horror
 time_of_day: night
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Wicked Wolf (Throne of Eldraine)
 
 ## Vision

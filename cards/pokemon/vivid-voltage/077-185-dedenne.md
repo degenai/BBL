@@ -27,6 +27,8 @@ oracle_text: "Tail Trickery (Psychic) 10: Your opponent's Active Pokémon is now
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Dedenne (Vivid Voltage)

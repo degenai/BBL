@@ -50,8 +50,12 @@ setting: forest
 suspected_ip: Cottonee
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Cottonee (Cosmic Eclipse)
 
 ## Vision

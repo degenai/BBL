@@ -46,8 +46,10 @@ oracle_text: Flying\nWhen this creature enters, you gain 2 life.
 mood: sublime
 time_of_day: sunset
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Courier Griffin (Battle for Zendikar)
 
 ## Vision

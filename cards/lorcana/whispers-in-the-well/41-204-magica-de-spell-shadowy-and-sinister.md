@@ -56,8 +56,13 @@ subject_known_ip: true
 suspected_ip: Magica De Spell (DuckTales)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Magica De Spell - Shadowy and Sinister (Whispers in the Well)
 
 ## Vision

@@ -48,8 +48,10 @@ image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
 ---
-
 # Prowler's Helm (Theros)
 
 ## Vision

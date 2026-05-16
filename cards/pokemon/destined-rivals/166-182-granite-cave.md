@@ -46,8 +46,13 @@ setting: dungeon
 suspected_ip: Granite Cave
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Granite Cave (Destined Rivals)
 
 ## Vision

@@ -56,8 +56,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/6-baneslayer-ang
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/b/4bd3014b-94bb-4a9f-92cf-239a2dcc7e97.jpg?1594734758
 flavor_text: Some angels protect the meek and innocent. Others seek out and smite evil wherever it lurks.
 oracle_text: Flying, first strike, lifelink, protection from Demons and from Dragons
+tags:
+  - card
+  - vision-passed
 ---
-
 # Baneslayer Angel (Core Set 2021)
 
 ## Vision

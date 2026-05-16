@@ -45,8 +45,12 @@ oracle_text: Your opponent reveals their hand. You may have your opponent count 
 mood: action
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Peeking Red Card (Crimson Invasion)
 
 ## Vision

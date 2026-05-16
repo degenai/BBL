@@ -49,8 +49,11 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Slimy Dualleech (Murders at Karlov Manor)
 
 ## Vision

@@ -53,8 +53,11 @@ artist: Joe Slucher
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/112-malefic-scythe--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/9/89e2bc57-8f18-4ba1-a11b-9d69d029f56a.jpg?1594736272
 oracle_text: "This Equipment enters with a soul counter on it.\\nEquipped creature gets +1/+1 for each soul counter on this Equipment.\\nWhenever equipped creature dies, put a soul counter on this Equipment.\\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Malefic Scythe (Core Set 2021)
 
 ## Vision

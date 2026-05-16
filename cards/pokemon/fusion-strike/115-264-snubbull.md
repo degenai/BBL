@@ -47,8 +47,12 @@ setting: other
 suspected_ip: Snubbull
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-verified
 ---
-
 # Snubbull (Fusion Strike)
 
 ## Vision

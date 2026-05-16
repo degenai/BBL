@@ -54,8 +54,13 @@ subject_known_ip: true
 suspected_ip: Simisage (Pokemon)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Simisage (Darkness Ablaze)
 
 ## Vision

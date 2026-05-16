@@ -49,8 +49,12 @@ subject_known_ip: true
 suspected_ip: Beauty (Pokemon Trainer class)
 ip_confidence: med
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Beauty (Vivid Voltage)
 
 ## Vision

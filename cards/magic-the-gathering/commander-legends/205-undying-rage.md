@@ -51,8 +51,10 @@ artist: Scott M. Fischer
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/205-undying-rage--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/d/9db7aa92-d86a-4986-a661-f3025ca79d3d.jpg?1608910444
 oracle_text: Enchant creature\nEnchanted creature gets +2/+2 and can't block.\nWhen this Aura is put into a graveyard from the battlefield, return it to its owner's hand.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Undying Rage (Commander Legends)
 
 ## Vision

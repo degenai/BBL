@@ -46,8 +46,10 @@ image_quality: high
 mood: comedic
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
 ---
-
 # Steamflogger Temp (Unstable)
 
 ## Vision

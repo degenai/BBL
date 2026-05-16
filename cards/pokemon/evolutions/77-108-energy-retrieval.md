@@ -45,8 +45,12 @@ oracle_text: Put 2 basic Energy cards from your discard pile into your hand.\nYo
 mood: other
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Energy Retrieval (Evolutions)
 
 ## Vision

@@ -47,8 +47,13 @@ setting: ocean
 suspected_ip: Brionne (Pokémon Sun and Moon)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Brionne (Lost Thunder)
 
 ## Vision

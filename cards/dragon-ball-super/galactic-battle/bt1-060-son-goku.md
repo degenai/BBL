@@ -24,6 +24,8 @@ needs_manual_review: false
 image_width: 260
 image_height: 363
 image_quality: low
+tags:
+  - card
+  - dbs
 ---
-
 # Son Goku (Galactic Battle)

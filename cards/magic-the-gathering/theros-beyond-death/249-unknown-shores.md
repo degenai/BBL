@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/249-unknow
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/9/492181e4-5825-45d4-b8a1-37f29c32a845.jpg?1581481287
 flavor_text: \"Callaphe gazed on the coastline,\ncertain her destiny called her\nhere, where the mist-shrouded rocks sang,\npromising glories undreamed of.\"\n—*The Callapheia*
 oracle_text: "{T}: Add {C}.\\n{1}, {T}: Add one mana of any color."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Unknown Shores (Theros Beyond Death)
 
 ## Vision

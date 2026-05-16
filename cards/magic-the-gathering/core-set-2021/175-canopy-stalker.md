@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/175-canopy-stalk
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/3/a3f6a13a-ab38-49d1-8712-f9c9135a23c8.jpg?1594736903
 flavor_text: The forest's cover offers shade, shelter, and an increased risk of sudden death.
 oracle_text: This creature must be blocked if able.\nWhen this creature dies, you gain 1 life for each creature that died this turn.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Canopy Stalker (Core Set 2021)
 
 ## Vision

@@ -27,6 +27,8 @@ oracle_text: "Gravitational Drop (Metal) 10+: This attack does 30 more damage fo
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Probopass (Rebel Clash)

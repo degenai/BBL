@@ -50,8 +50,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - trunks
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Intensifying Power Trunks (Colossal Warfare)
 
 ## Vision

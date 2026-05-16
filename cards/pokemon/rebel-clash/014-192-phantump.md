@@ -48,8 +48,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - phantump-line
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Phantump (Rebel Clash)
 
 ## Vision

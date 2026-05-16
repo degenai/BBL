@@ -47,8 +47,13 @@ setting: void
 suspected_ip: Victini
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Victini (Fusion Strike)
 
 ## Vision

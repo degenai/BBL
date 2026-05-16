@@ -27,8 +27,10 @@ related_characters:
   - charizard-line
   - ralts-line
 ip_resolution_for: larvitar-line
+tags:
+  - layer
+  - character
 ---
-
 # Larvitar evolutionary line (Larvitar / Pupitar / Tyranitar)
 
 A three-stage Rock/Ground-to-Rock/Dark evolutionary line and the canonical Generation II pseudo-legendary line introduced in Pokemon Gold and Silver (Game Freak / Creatures Inc. / Nintendo, 1999). The line comprises **Larvitar** (National Pokedex no. 246, Rock/Ground-type, base form, the "Rock Skin Pokemon" who hatches deep underground and consumes an entire mountain's worth of earth before pupating), **Pupitar** (no. 247, Rock/Ground-type, Stage 1, evolves from Larvitar at level 30, the "Hard Shell Pokemon" whose printed Pokedex flavor and Rocket Evolution mechanical signature encode the species' canonical contained-power-ready-to-burst register), and **Tyranitar** (no. 248, Rock/Dark-type, Stage 2, evolves from Pupitar at level 55, the "Armor Pokemon" whose dual-type gain at evolution adds Dark to its base Rock typing and whose base stat total of 600 places it firmly in the franchise's pseudo-legendary cohort). The line is one of the franchise's earliest and most-cited pseudo-legendary species — pseudo-legendaries are the franchise's designer-coordinated cohort of three-stage non-Mythical / non-Legendary Pokemon with 600 base stat totals at apex, slow evolution arcs (Larvitar to Tyranitar completes at level 55, the longest evolution-level span among Generation II species), and competitive-tier dominance — and Tyranitar specifically established the pseudo-legendary archetype's Sand Stream ability + signature physical sweeper identity that subsequent pseudo-legendaries (Metagross, Garchomp, Hydreigon, etc.) inherited or counterposed. In Generation VI (Pokemon X and Y, 2013), Tyranitar received a Mega Evolution that retains the Rock/Dark typing and gains the Sand Stream-boosting bulk profile. The Pokedex characterization of Larvitar as the pupating mountain-eater, Pupitar as the immobile-but-mobile contained-power cocoon, and Tyranitar as the apex armored predator establishes the line's most-cited narrative arc: a designer-coordinated mountain-eater-to-mountain-mover transition rendered as a species-level evolution event with the slow-evolution-into-pseudo-legendary as the line's structural signature.

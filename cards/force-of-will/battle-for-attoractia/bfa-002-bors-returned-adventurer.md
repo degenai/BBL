@@ -18,6 +18,8 @@ market_price: 0.25
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
 last_seen: 2026-05-15
+tags:
+  - card
+  - fow
 ---
-
 # Bors, Returned Adventurer (Battle for Attoractia)

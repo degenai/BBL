@@ -48,8 +48,10 @@ oracle_text: Target player draws two cards.\nFlashback—{1}{U}, Pay 3 life. (Yo
 mood: sublime
 time_of_day: indeterminate
 setting: ocean
+tags:
+  - card
+  - vision-passed
 ---
-
 # Deep Analysis (Modern Horizons 3)
 
 ## Vision

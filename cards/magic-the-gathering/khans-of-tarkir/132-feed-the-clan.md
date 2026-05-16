@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/132-feed-the-c
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/2/52f7c53d-0b53-400f-aa67-967547f3e394.jpg?1562786646
 flavor_text: "The Temur believe three things only are needed in life: a hot fire, a full belly, and a strong companion."
 oracle_text: You gain 5 life.\nFerocious — You gain 10 life instead if you control a creature with power 4 or greater.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Feed the Clan (Khans of Tarkir)
 
 ## Vision

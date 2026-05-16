@@ -27,6 +27,8 @@ oracle_text: "Hypnosis (Colorless): Your opponent's Active Pokémon is now Aslee
 image_width: 911
 image_height: 1280
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Exeggcute (Crimson Invasion)

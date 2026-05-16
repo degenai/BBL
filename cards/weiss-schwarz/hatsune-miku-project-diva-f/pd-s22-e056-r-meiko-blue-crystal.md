@@ -50,8 +50,12 @@ subject_known_ip: true
 suspected_ip: MEIKO (Vocaloid)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - weiss
+  - vision-passed
+  - ip-pending
 ---
-
 # MEIKO"Blue Crystal" (Hatsune Miku -Project DIVA- f)
 
 ## Vision

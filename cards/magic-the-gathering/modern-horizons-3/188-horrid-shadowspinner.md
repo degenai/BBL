@@ -51,8 +51,11 @@ oracle_text: Lifelink\nWhenever this creature attacks, you may draw cards equal 
 mood: horror
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Horrid Shadowspinner (Modern Horizons 3)
 
 ## Vision

@@ -29,6 +29,7 @@ oracle_text: Destroy target creature. Search your library for a basic land card,
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Deathsprout (War of the Spark)

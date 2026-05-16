@@ -24,8 +24,10 @@ related_characters:
   - mareep-line
   - staraptor-line
 ip_resolution_for: caterpie-line
+tags:
+  - layer
+  - character
 ---
-
 # Caterpie evolutionary line (Caterpie / Metapod / Butterfree)
 
 A three-stage Bug-type evolutionary line and the canonical Kanto-region fast-metamorphosis Bug line introduced in Pokemon Red and Green / Red and Blue (Game Freak / Creatures Inc. / Nintendo, 1996). The line comprises **Caterpie** (National Pokedex no. 10, Bug-type, base form, the "Worm Pokemon" first encountered as a Route 2 / Viridian Forest wild encounter on the early-game critical path from Pallet Town to Pewter City), **Metapod** (no. 11, Bug-type, Stage 1, evolves from Caterpie at level 7, the "Cocoon Pokemon" whose printed Pokedex flavor and signature Harden move encode the species' canonical waiting-to-evolve passivity), and **Butterfree** (no. 12, Bug/Flying-type, Stage 2, evolves from Metapod at level 10, the "Butterfly Pokemon" whose dual-type gain at evolution adds Flying to its base Bug typing). The line is the **shortest three-stage evolution-level span in Generation I** (Caterpie to Butterfree completes by level 10), and one of the shortest in the entire franchise — a designer-coordinated rendering of the real-world holometabolous-insect rapid-metamorphosis lifecycle (larva to pupa to imago) as a Pokemon evolution arc. In Generation VIII (Pokemon Sword and Shield, 2019), Butterfree received a Gigantamax form retaining its Bug/Flying typing and gaining the G-Max Befuddle signature move. The line's competitive identity is its Compound Eyes hidden ability (Butterfree) and Run Away ability (Caterpie / Metapod), with the species' signature moves including Sleep Powder, Stun Spore, and Poison Powder — the franchise's earliest example of status-condition-via-spore-cloud as a species mechanical identity. The Pokedex characterization of Metapod as the cocoon-stage waiting-to-evolve passive form, combined with the franchise's earliest on-screen three-stage evolution sequence in the Pokemon anime (Indigo League episodes 3-4, 1997), establishes the line as the canonical fast-metamorphosis Bug-line precedent for every subsequent Kanto-style Bug line (Weedle line Gen I, Wurmple line Gen III, Scatterbug line Gen VI).

@@ -49,8 +49,10 @@ oracle_text: This creature can't be blocked by creatures with power 3 or greater
 mood: action
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
 ---
-
 # Exit Specialist (Murders at Karlov Manor)
 
 ## Vision

@@ -52,8 +52,10 @@ oracle_text: Flying\nDisguise {1}{U/B}{U/B} (You may cast this card face down fo
 mood: grim
 time_of_day: night
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Faerie Snoop (Murders at Karlov Manor)
 
 ## Vision

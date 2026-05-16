@@ -28,6 +28,7 @@ flavor_text: Merfolk curiosity usually has dire consequences, but rarely for the
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Merfolk Secretkeeper (Throne of Eldraine)

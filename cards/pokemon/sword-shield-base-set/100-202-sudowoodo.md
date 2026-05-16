@@ -24,8 +24,15 @@ needs_manual_review: true
 manual_review_reason: Set 'Sword & Shield Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.
 oracle_text: "Push Over (Fighting) 20×: Does 20 damage times the amount of Fighting Energy attached to Sudowoodo.\\nRumble (ColorlessColorlessColorless) 40: The Defending Pokémon can't retreat during your opponent's next turn."
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Sudowoodo (Sword & Shield Base Set)
 
 ## Vision

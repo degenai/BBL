@@ -48,8 +48,11 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/8-anointer-o
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/6/d66fcbb8-0fa5-48a9-b40c-d5a12f09a858.jpg?1612228481
 flavor_text: "Light streaked down from the heavens, and a voice whispered in the soldier's ear: \\\"You shall not fall today.\\\""
 oracle_text: Flying\nWhenever a creature attacks, you may pay {3}. When you do, put a +1/+1 counter on that creature.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Anointer of Valor (Commander Legends)
 
 ## Vision

@@ -45,8 +45,12 @@ oracle_text: All Basic Pokémon (both yours and your opponent's) take 20 less da
 mood: peaceful
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Circhester Bath (Vivid Voltage)
 
 ## Vision

@@ -49,8 +49,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - larvitar-line
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Pupitar (Darkness Ablaze)
 
 ## Vision

@@ -24,8 +24,10 @@ related_symbols: []
 related_characters:
   - charizard-line
 ip_resolution_for: staraptor-line
+tags:
+  - layer
+  - character
 ---
-
 # Staraptor evolutionary line (Starly / Staravia / Staraptor)
 
 A three-stage Normal/Flying-type evolutionary line and the canonical Sinnoh-region regional-bird line introduced in Pokemon Diamond and Pearl (Game Freak / Creatures Inc. / Nintendo, 2006). The line comprises **Starly** (National Pokedex no. 396, Normal/Flying-type, base form, the small round flocking bird first encountered on Route 201 outside Sandgem Town), **Staravia** (no. 397, Normal/Flying-type, Stage 1, evolves from Starly at level 14, the larger and canonically gregarious middle stage that still operates within flock structure), and **Staraptor** (no. 398, Normal/Flying-type, Stage 2, evolves from Staravia at level 34, the raptor-form apex characterized in Pokedex canon by leaving the flock at evolution to live solitarily). Unlike the Kanto Pidgey line and the original Charizard line, the Staraptor line does not gain a second type on final evolution — the species retains its Normal/Flying typing across all three stages. The line's competitive identity is its **Brave Bird** signature attack: Staraptor's high physical Attack stat combined with the Reckless hidden ability (which boosts recoil-move damage by 20%) makes Brave Bird the species' canonical competitive-tier attack across the mainline games, mechanically referenced on the corpus's Darkness Ablaze Staraptor print's 170-damage-with-30-recoil attack. The Pokedex characterization of Staraptor leaving the flock at evolution to live alone is the line's most-cited narrative feature: a designer-coordinated departure-from-cohort narrative arc rendered as a species-level evolution event.

@@ -55,8 +55,12 @@ subject_known_ip: true
 suspected_ip: Finnick (Zootopia)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - ip-pending
 ---
-
 # Finnick - Tiny Terror (Whispers in the Well)
 
 ## Vision

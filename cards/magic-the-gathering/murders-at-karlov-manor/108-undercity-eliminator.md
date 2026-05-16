@@ -50,8 +50,11 @@ image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Undercity Eliminator (Murders at Karlov Manor)
 
 ## Vision

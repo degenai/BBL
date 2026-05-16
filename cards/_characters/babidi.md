@@ -24,8 +24,10 @@ related_symbols: []
 related_characters:
   - wrath-of-the-dragon-saga
 ip_resolution_for: babidi
+tags:
+  - layer
+  - character
 ---
-
 # Babidi
 
 The alien sorcerer son-clone of Bibidi who orchestrated Majin Buu's revival on Earth, ringmaster of the Babidi Saga (Dragon Ball Z episodes 220–253) and namesake antagonist of the Dragon Ball Super Card Game's *World Martial Arts Tournament* themed booster (DBS-TB02, September 2019). Babidi's plan required gathering pure energy from Earth's strongest fighters at the 25th World Martial Arts Tournament — the exact event TB02 is themed around — and the set's villain roster is structured as a vertical hierarchy descending through his canonical six-floor spaceship dungeon: Pui Pui (level 1) → Yakon (level 2) → Dabura (level 3) → Babidi's control room (level 5) → the Sealed Ball of Majin Buu (level 6). Six corpus cards anchor this arc directly: the named ringmaster (TB2-013), his enslaved demon-king enforcer (TB2-014 Dabura), his tournament-infiltration sleeper agents (TB2-015 Spopovich & Yamu), the level-1 guardian who later kills Yamu on his order (TB2-016 Pui Pui), the level-2 light-eating predator (TB2-017 Yakon), and the spaceship-as-dungeon itself (TB2-018). Mirrors the [[nicol-bolas]] and [[valgavoth]] precedent: a set-defining antagonist whose multi-card corpus cluster anchors here rather than card-to-card.

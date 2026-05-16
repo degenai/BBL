@@ -51,8 +51,10 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Titanic Growth (Magic 2013 (M13))
 
 ## Vision

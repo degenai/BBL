@@ -49,8 +49,10 @@ artist: Daniel Ljunggren
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/72-spined-megalodon--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/d/6d42d3dd-29df-44a1-89b8-994761eda77d.jpg?1594735773
 oracle_text: Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nWhenever this creature attacks, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Spined Megalodon (Core Set 2021)
 
 ## Vision

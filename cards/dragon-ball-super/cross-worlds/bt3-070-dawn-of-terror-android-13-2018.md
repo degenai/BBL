@@ -50,8 +50,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - cell-saga-apparatus
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Dawn of Terror, Android 13 (2018) (Cross Worlds)
 
 ## Vision

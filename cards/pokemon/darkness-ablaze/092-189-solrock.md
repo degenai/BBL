@@ -51,8 +51,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - solrock-lunatone-pair
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Solrock (Darkness Ablaze)
 
 ## Vision

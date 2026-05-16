@@ -50,8 +50,11 @@ image_quality: high
 mood: sublime
 time_of_day: night
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Hour of Victory (Aetherdrift)
 
 ## Vision

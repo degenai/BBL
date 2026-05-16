@@ -27,6 +27,8 @@ oracle_text: "Land's Pulse (FightingColorless) 30+: If a Stadium is in play, thi
 image_width: 868
 image_height: 1212
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Stonjourner (Battle Styles)

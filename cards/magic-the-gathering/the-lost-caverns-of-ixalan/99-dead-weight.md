@@ -48,8 +48,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
 ---
-
 # Dead Weight (The Lost Caverns of Ixalan)
 
 ## Vision

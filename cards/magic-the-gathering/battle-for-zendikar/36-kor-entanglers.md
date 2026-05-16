@@ -45,8 +45,11 @@ oracle_text: Rally — Whenever this creature or another Ally you control enters
 mood: action
 time_of_day: day
 setting: mountain
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Kor Entanglers (Battle for Zendikar)
 
 ## Vision

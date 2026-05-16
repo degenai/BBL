@@ -54,8 +54,12 @@ subject_known_ip: true
 suspected_ip: Darkwing's Chair Set / Darkwing Duck's lair (Darkwing Duck)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - ip-pending
 ---
-
 # Darkwing's Chair Set (Winterspell)
 
 ## Vision

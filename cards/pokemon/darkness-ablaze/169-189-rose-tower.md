@@ -48,8 +48,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - macro-cosmos
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Rose Tower (Darkness Ablaze)
 
 ## Vision

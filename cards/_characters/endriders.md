@@ -19,8 +19,10 @@ related_hubs: "[labor, rebellion]"
 related_symbols: []
 related_characters:
   - aether-rangers
+tags:
+  - layer
+  - character
 ---
-
 # Endriders
 
 The black-red Grand Prix team in *Aetherdrift* (DFT, 2025-02-14), representing the new plane **Gastal**. MTG Wiki summarizes them as "nomadic apocalypse punk warriors." Mark Rosewater's *Planeswalker's Guide to Aetherdrift* describes Gastal itself as "an apocalyptic plane of gas, draconic warlords, road warriors, and colossal dry lightning storms." Their team identity in the Aetherdrift Limited archetype grid is Mardu-leaning aggression (black-red) with a junkyard-rig / scavenger-warrior visual register; journalism coverage repeatedly framed the set's faction work as "Mad Max meets Wacky Races" while Wizards' own articles leaned on the same vocabulary — "road warriors," "chase glory ahead and leave the dead behind."

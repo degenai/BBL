@@ -27,6 +27,8 @@ oracle_text: "[Ability: Bursting Spores] Whenever you play a Pokémon that has t
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Amoonguss (Unified Minds)

@@ -50,8 +50,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - hercule
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Hercule, Buu's Assistant (Union Force)
 
 ## Vision

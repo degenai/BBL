@@ -29,6 +29,7 @@ oracle_text: "{T}: Add {U}. Spend this mana only to cast an artifact spell or ac
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Guidelight Optimizer (Aetherdrift)

@@ -50,8 +50,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - team-rocket
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Boss's Orders (Rebel Clash)
 
 ## Vision

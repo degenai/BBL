@@ -52,8 +52,11 @@ oracle_text: This spell costs {2} less to cast if it targets a permanent with ma
 mood: action
 time_of_day: magic-hour
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Roadside Blowout (Aetherdrift)
 
 ## Vision

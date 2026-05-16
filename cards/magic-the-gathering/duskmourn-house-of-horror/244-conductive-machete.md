@@ -54,8 +54,10 @@ image_quality: high
 mood: action
 time_of_day: night
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Conductive Machete (Duskmourn: House of Horror)
 
 ## Vision

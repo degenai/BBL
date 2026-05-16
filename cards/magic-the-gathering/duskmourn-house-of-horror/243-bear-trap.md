@@ -29,6 +29,7 @@ oracle_text: "Flash\\n{3}, {T}, Sacrifice this artifact: It deals 3 damage to ta
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Bear Trap (Duskmourn: House of Horror)

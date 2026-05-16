@@ -25,8 +25,10 @@ related_symbols: []
 related_characters:
   - galarian-regional-forms
   - galar-gym-challenge
+tags:
+  - layer
+  - character
 ---
-
 # Galar Starters trio (Grookey / Scorbunny / Sobble first-partner cohort)
 
 A designer-coordinated trio of three first-partner Pokemon species introduced together as the player-choice starters in **Pokemon Sword & Shield** (Game Freak, November 2019, Galar region, Generation VIII). The three species follow the canonical Grass / Fire / Water starter pattern: **Grookey (Grass, no. 810) -> Thwackey (no. 811) -> Rillaboom (no. 812)**, **Scorbunny (Fire, no. 813) -> Raboot (no. 814) -> Cinderace (no. 815)**, and **Sobble (Water, no. 816) -> Drizzile (no. 817) -> Inteleon (no. 818)**. Each line is a three-stage evolution chain reaching its final stage at level 35-36, with the final-stage forms acting as the trio's marketing-and-tournament-presentation tier. Per the Sword & Shield region's British-Isles thematic frame, each final-stage form encodes a designer-coordinated cultural reference: Rillaboom (drum-based gorilla, Taiko + Green Man iconography), Cinderace (footballer rabbit, association-football iconography), and Inteleon (secret-agent lizard, James Bond / British spy-thriller iconography). The trio is the canonical-by-introduction Galar first-partner cohort.

@@ -49,8 +49,10 @@ artist: Ravenna Tran
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/222-heraldic-banner--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/e/2e349af5-3f25-46d3-908e-83b2f6028b95.jpg?1572490999
 oracle_text: "As this artifact enters, choose a color.\\nCreatures you control of the chosen color get +1/+0.\\n{T}: Add one mana of the chosen color."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Heraldic Banner (Throne of Eldraine)
 
 ## Vision

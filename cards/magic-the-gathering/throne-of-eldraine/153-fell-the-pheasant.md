@@ -47,8 +47,10 @@ image_quality: high
 mood: action
 time_of_day: sunset
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Fell the Pheasant (Throne of Eldraine)
 
 ## Vision

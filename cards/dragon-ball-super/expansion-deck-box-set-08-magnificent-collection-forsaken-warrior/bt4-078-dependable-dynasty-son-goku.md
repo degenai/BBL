@@ -49,8 +49,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - son-goku
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Dependable Dynasty Son Goku (Expansion Deck Box Set 08: Magnificent Collection - Forsaken Warrior)
 
 ## Vision

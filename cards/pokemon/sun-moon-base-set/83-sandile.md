@@ -24,8 +24,15 @@ needs_manual_review: true
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: It moves along below the sand's surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.
 oracle_text: "Sand Tomb (FightingColorlessColorless) 30: The Defending Pokémon can't retreat during your opponent's next turn."
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Sandile (Sun & Moon Base Set)
 
 ## Vision

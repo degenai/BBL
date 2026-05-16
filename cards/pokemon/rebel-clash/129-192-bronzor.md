@@ -48,8 +48,12 @@ subject_known_ip: true
 suspected_ip: Bronzor
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Bronzor (Rebel Clash)
 
 ## Vision

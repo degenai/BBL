@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/48-eidolon
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/2/d2897635-b387-485d-932f-5655244a381f.jpg?1581479342
 flavor_text: \"And what did Erekastos teach us is the nature of the soul?\"
 oracle_text: "{6}{U}, Sacrifice this creature: Draw three cards."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Eidolon of Philosophy (Theros Beyond Death)
 
 ## Vision

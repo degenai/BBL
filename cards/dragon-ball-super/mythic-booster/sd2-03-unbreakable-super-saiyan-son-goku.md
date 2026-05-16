@@ -51,8 +51,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - son-goku
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Unbreakable Super Saiyan Son Goku (Mythic Booster)
 
 ## Vision

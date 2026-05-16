@@ -52,8 +52,10 @@ artist: Raymond Swanland
 art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/83-cabal-therapy--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/a/2afc9aa7-eaf2-453d-942c-23bf216a1844.jpg?1573509099
 oracle_text: Choose a nonland card name. Target player reveals their hand and discards all cards with that name.\nFlashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Cabal Therapy (Mystery Booster Cards)
 
 ## Vision

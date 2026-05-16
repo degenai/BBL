@@ -57,8 +57,10 @@ art_crop_image: cards/_images/magic-the-gathering/guilds-of-ravnica/198-skyknigh
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/c/3c27f2ce-702a-4ec2-a470-982171a9ec73.jpg?1572893806
 flavor_text: Squadrons of skyknights are available for deployment around the clock, capable of reaching any district in the city within minutes.
 oracle_text: Flying, haste
+tags:
+  - card
+  - vision-passed
 ---
-
 # Skyknight Legionnaire (Guilds of Ravnica)
 
 ## Vision

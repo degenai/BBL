@@ -51,8 +51,10 @@ artist: Brandon Kitkouski
 art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/126-absorb-vis--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/2/22984b84-5598-43cd-a18f-1701aa55f922.jpg?1573508879
 oracle_text: "Target player loses 4 life and you gain 4 life.\\nBasic landcycling {1}{B} ({1}{B}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Absorb Vis (Mystery Booster Cards)
 
 ## Vision

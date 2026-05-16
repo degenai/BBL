@@ -45,8 +45,12 @@ setting: void
 suspected_ip: Jeice
 ip_confidence: med
 ip_verified: false
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - ip-pending
 ---
-
 # Crusher Ball (Galactic Battle)
 
 ## Vision

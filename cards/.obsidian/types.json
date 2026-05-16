@@ -10,6 +10,23 @@
     "social": "multitext",
     "related_characters": "multitext",
     "ip_resolution_for": "multitext",
-    "vision_uncertainty": "multitext"
+    "vision_uncertainty": "multitext",
+    "tag_signals": "multitext",
+    "member_cards": "multitext",
+    "quantity": "number",
+    "held_for_lair": "number",
+    "average_cost_paid": "number",
+    "market_price": "number",
+    "image_width": "number",
+    "image_height": "number",
+    "date_added": "date",
+    "last_seen": "date",
+    "market_price_as_of": "date",
+    "needs_manual_review": "checkbox",
+    "ip_verified": "checkbox",
+    "subject_known_ip": "checkbox",
+    "review_good": "checkbox",
+    "review_bad": "checkbox",
+    "review_notes": "text"
   }
 }

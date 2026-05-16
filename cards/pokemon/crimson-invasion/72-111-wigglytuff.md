@@ -27,6 +27,8 @@ oracle_text: "Hypnoblast (ColorlessColorless) 30: Your opponent's Active Pokémo
 image_width: 908
 image_height: 1280
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Wigglytuff (Crimson Invasion)

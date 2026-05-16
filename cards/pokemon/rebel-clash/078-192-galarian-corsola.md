@@ -50,8 +50,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - galarian-regional-forms
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Galarian Corsola (Rebel Clash)
 
 ## Vision

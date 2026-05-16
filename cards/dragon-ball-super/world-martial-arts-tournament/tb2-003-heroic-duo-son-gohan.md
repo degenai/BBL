@@ -51,8 +51,13 @@ image_height: 871
 image_quality: med
 characters:
   - son-gohan
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Heroic Duo Son Gohan (World Martial Arts Tournament)
 
 ## Vision

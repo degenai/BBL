@@ -11,10 +11,13 @@
             "id": "23e546f16fd65670",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "bases",
+              "state": {
+                "file": "_views/manual-review.base",
+                "viewName": "Manual review queue"
+              },
+              "icon": "lucide-table",
+              "title": "manual-review"
             }
           }
         ]
@@ -74,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "454ec48b3e112939",
@@ -180,22 +182,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "23e546f16fd65670",
+  "active": "4f4798813cc20b9a",
   "lastOpenFiles": [
-    "lorcana/reign-of-jafar/114-204-he-who-steals-and-runs-away.md.tmp.22420.d442f2cdc9b2",
+    "_artists/kirisaki.md.tmp.22420.d5ba000ebe8b",
+    "_artists/ken-sugimori.md.tmp.22420.8e9a17429b28",
+    "pokemon/sword-shield-promo/swsh068-snorlax-prerelease--holofoil.md",
+    "_views/manual-review.base",
+    "_views/ip-pending.base",
+    "_views/manual-review.base.tmp.22420.94c2fb01768d",
+    "_views/manual-review.base.tmp.22420.58e34aaaa242",
+    "pokemon/sword-shield-base-set/007-202-maractus.md",
+    "_views/manual-review.base.tmp.22420.39df1351575a",
+    "_views/inventory.base",
+    "_views/manual-review.base.tmp.22420.b73fe6f7a913",
+    "pokemon/sword-shield-base-set/90-water-energy.md",
+    "_views/trivia-backlog.base",
+    "_views/enrichment-frontier.base",
+    "pokemon/sun-moon-base-set/5-parasect.md",
+    "magic-the-gathering/duskmourn-house-of-horror/9-fear-of-abduction.md",
+    "pokemon/team-up/99-jirachi--holofoil.md",
     "pokemon/fusion-strike/115-264-snubbull.md",
     "pokemon/lost-thunder/137-snubbull.md",
     "pokemon/darkness-ablaze/070-189-snubbull.md",
-    "dragon-ball-super/judge-promotion-cards/p-035-bardock-will-of-iron.md.tmp.22420.791178fe1d28",
-    "dragon-ball-super/judge-promotion-cards/p-035-bardock-will-of-iron.md.tmp.22420.47b2039fdad6",
-    "lorcana/wilds-unknown/35-204-mor-du-wicked-with-pride.md.tmp.22420.daa964fd9cb1",
-    "dragon-ball-super/judge-promotion-cards/p-035-bardock-will-of-iron.md.tmp.22420.b6abb4200886",
-    "dragon-ball-super/judge-promotion-cards/bt4-061-lord-slug-returned-to-form.md.tmp.22420.0c34efc42f94",
-    "lorcana/whispers-in-the-well/41-204-magica-de-spell-shadowy-and-sinister.md.tmp.22420.34ad2fe0fe04",
-    "lorcana/wilds-unknown/35-204-mor-du-wicked-with-pride.md.tmp.22420.c781a93976d4",
-    "dragon-ball-super/judge-promotion-cards/bt4-061-lord-slug-returned-to-form.md.tmp.22420.0702d2e195a1",
-    "pokemon/lost-thunder/137-snubbull.md.tmp.22420.2da71805fe81",
-    "lorcana/wilds-unknown/35-204-mor-du-wicked-with-pride.md.tmp.22420.210028512390",
     "_characters/mogis.md",
     "pokemon/burning-shadows/68-147-lunatone.md",
     "_images/weiss-schwarz/the-seven-deadly-sins/sds-sx03-080-r-guila-switching-sides.png",
@@ -221,12 +229,6 @@
     "pokemon/battle-styles/056-163-grumpig.md",
     "pokemon/battle-styles/054-163-galarian-slowpoke.md",
     "pokemon/battle-styles/047-163-luxio.md",
-    "pokemon/battle-styles/031-163-horsea.md",
-    "pokemon/battle-styles/015-163-lurantis.md",
-    "pokemon/battle-styles/014-163-fomantis.md",
-    "pokemon/battle-styles/041-163-frillish.md",
-    "pokemon/white-flare/011-086-tepig.md",
-    "pokemon/white-flare/014-086-pansear.md",
-    "pokemon/vivid-voltage/007-185-yanmega.md"
+    "pokemon/battle-styles/031-163-horsea.md"
   ]
 }

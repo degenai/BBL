@@ -52,8 +52,11 @@ oracle_text: "{B}{G}: Adapt 1. (If this creature has no +1/+1 counters on it, pu
 mood: horror
 time_of_day: day
 setting: urban
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Expanding Ooze (Modern Horizons 3)
 
 ## Vision

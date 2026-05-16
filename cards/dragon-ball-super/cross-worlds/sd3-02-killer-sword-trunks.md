@@ -47,8 +47,13 @@ setting: void
 suspected_ip: "Trunks: Xeno"
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Killer Sword Trunks (Cross Worlds)
 
 ## Vision

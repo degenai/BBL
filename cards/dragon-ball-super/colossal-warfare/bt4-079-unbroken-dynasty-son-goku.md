@@ -47,8 +47,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - son-goku
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Unbroken Dynasty Son Goku (Colossal Warfare)
 
 ## Vision

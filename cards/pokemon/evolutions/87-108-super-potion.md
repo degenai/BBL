@@ -41,8 +41,11 @@ oracle_text: Heal 60 damage from 1 of your Pokémon. If you do, discard an Energ
 mood: other
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - pokemon
+  - vision-passed
 ---
-
 # Super Potion (Evolutions)
 
 ## Vision

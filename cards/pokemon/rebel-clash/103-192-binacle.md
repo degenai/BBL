@@ -27,6 +27,8 @@ oracle_text: "Dual Chop (FightingColorlessColorless) 50×: Flip 2 coins. This at
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Binacle (Rebel Clash)

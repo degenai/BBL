@@ -50,8 +50,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - alolan-regional-forms
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Alolan Graveler (Crimson Invasion)
 
 ## Vision

@@ -45,8 +45,12 @@ oracle_text: The Retreat Cost of both Active Pokémon is ColorlessColorless more
 mood: grim
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
 ---
-
 # Galar Mine (Rebel Clash)
 
 ## Vision

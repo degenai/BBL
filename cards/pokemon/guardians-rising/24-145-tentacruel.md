@@ -48,8 +48,12 @@ setting: ocean
 suspected_ip: Tentacruel (Pokémon)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Tentacruel (Guardians Rising)
 
 ## Vision

@@ -51,8 +51,11 @@ oracle_text: Target creature gains deathtouch and indestructible until end of tu
 mood: horror
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Horrid Vigor (Duskmourn: House of Horror)
 
 ## Vision

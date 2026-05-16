@@ -27,6 +27,8 @@ oracle_text: "Cycle Draw (Colorless): Discard a card from your hand. If you do, 
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Hitmontop (Vivid Voltage)

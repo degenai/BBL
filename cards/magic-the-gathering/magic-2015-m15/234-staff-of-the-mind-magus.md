@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/magic-2015-m15/234-staff-of-th
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/f/cf76bee3-2b69-4c7b-9b7c-1a9f4bbcfde0.jpg?1562794585
 flavor_text: A symbol of sagacity in bewildering times.
 oracle_text: Whenever you cast a blue spell or an Island you control enters, you gain 1 life.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Staff of the Mind Magus (Magic 2015 (M15))
 
 ## Vision

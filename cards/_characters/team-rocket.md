@@ -21,8 +21,10 @@ related_symbols: []
 related_characters:
   - team-skull
 ip_resolution_for: team-rocket
+tags:
+  - layer
+  - character
 ---
-
 # Team Rocket
 
 The original Pokemon villainous criminal organization. Per Bulbapedia's Team Rocket page, the org is a Kanto-based syndicate founded and led by Giovanni — who simultaneously operates as the Viridian City Gym Leader, the eighth and final major-division Gym in the Kanto League, as the Rockets' public-facing front. The dual role is the franchise's foundational villain trope: the Boss is also the institutionally-credentialed authority. The organization's core business per primary canon is the theft, abuse, and trafficking of Pokemon for profit and weaponization — the Game Corner casino in Celadon City is its public-facing money-laundering operation; the Rocket Hideout below it and the Silph Co. raid in Saffron City are its on-screen operations in *Pokemon Red and Blue*; the Pokemon Tower assault on Lavender Town's mourners and the Marowak ghost are its most morally indicting on-canon beats. After Giovanni's defeat by the player and his subsequent withdrawal at the end of the Kanto storyline, *Gold and Silver* (1999) returns Team Rocket as a Johto-region successor cell led by the four Executives — Archer (de facto leader), Ariana, Petrel, Proton — attempting to recall Giovanni and resurrect the organization. The anime continuity expanded the org's footprint with the trio of Jessie, James, and a talking Meowth — Rocket Grunts assigned to chase Ash's Pikachu — which is for many audiences the franchise's most iconic representation of the org, though the games' more sinister institutional framing remains canon.

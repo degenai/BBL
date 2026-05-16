@@ -49,8 +49,12 @@ setting: forest
 suspected_ip: "Diglett (#050)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Diglett (Evolutions)
 
 ## Vision

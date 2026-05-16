@@ -50,8 +50,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Binding Negotiation (Outlaws of Thunder Junction)
 
 ## Vision

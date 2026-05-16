@@ -57,8 +57,10 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/201-snowhorn-r
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/5/f5d9aa9b-1ed4-46db-89d1-6c9593c29f55.jpg?1562796087
 flavor_text: Sure-footed, strong-willed, and ill-tempered—and so is the ram.
 oracle_text: Trample\nMorph {2}{G}{U}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Snowhorn Rider (Khans of Tarkir)
 
 ## Vision

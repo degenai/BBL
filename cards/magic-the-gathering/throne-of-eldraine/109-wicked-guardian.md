@@ -54,8 +54,11 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/109-wicked-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/1/71cd91b2-0f9b-4582-ad90-32fa3ee1fde7.jpg?1572490265
 flavor_text: \"Some are born to greatness. You were born to scrub greatness's floors.\"
 oracle_text: When this creature enters, you may have it deal 2 damage to another creature you control. If you do, draw a card.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Wicked Guardian (Throne of Eldraine)
 
 ## Vision

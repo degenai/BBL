@@ -48,8 +48,13 @@ setting: mountain
 suspected_ip: Excadrill (Pokémon)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Excadrill (Fusion Strike)
 
 ## Vision

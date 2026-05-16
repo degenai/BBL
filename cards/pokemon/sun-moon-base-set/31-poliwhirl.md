@@ -24,8 +24,15 @@ needs_manual_review: true
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: It can live in or out of water. When out of water, it constantly sweats to keep its body slimy.
 oracle_text: "Rain Splash (Water) 20\\nFinishing Blow (ColorlessColorlessColorless) 50+: If your opponent's Active Pokémon already has any damage counters on it, this attack does 50 more damage."
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Poliwhirl (Sun & Moon Base Set)
 
 ## Vision

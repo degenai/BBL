@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/96-memory-t
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/9/397fd49b-a520-4b0e-9ab9-71675ab5969d.jpg?1572490184
 flavor_text: In the wilds, the ravens steal far more than baubles.
 oracle_text: Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. You may put a card that has an Adventure that player owns from exile into that player's graveyard.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Memory Theft (Throne of Eldraine)
 
 ## Vision

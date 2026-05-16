@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/70-sweet-o
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/1/51ac77d4-f918-4bbc-b023-8117a8c401ee.jpg?1590720325
 flavor_text: When memory is torment, oblivion is bliss.
 oracle_text: Target player mills four cards.\nEscape—{3}{U}, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Sweet Oblivion (Theros Beyond Death)
 
 ## Vision

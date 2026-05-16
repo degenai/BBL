@@ -46,8 +46,10 @@ image_quality: high
 mood: other
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
 ---
-
 # Cave of Temptation (Modern Horizons)
 
 ## Vision

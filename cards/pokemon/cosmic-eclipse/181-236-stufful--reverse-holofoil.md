@@ -27,6 +27,8 @@ oracle_text: "Continuous Tumble (ColorlessColorless) 10+: Flip a coin until you 
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Stufful (Cosmic Eclipse)

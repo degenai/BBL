@@ -50,8 +50,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - vegeta
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Tenacious Vegeta (Galactic Battle)
 
 ## Vision

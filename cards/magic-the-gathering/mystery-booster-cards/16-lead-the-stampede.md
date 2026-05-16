@@ -52,8 +52,10 @@ artist: Efrem Palacios
 art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/16-lead-the-stampede--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/c/6c977fe0-f0dd-42be-900c-c3576e1cfc3a.jpg?1573514013
 oracle_text: Look at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Lead the Stampede (Mystery Booster Cards)
 
 ## Vision

@@ -29,6 +29,7 @@ oracle_text: Whenever this creature deals damage to an opponent, that player dis
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Skullknocker Ogre (Throne of Eldraine)

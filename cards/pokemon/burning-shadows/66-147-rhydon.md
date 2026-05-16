@@ -46,8 +46,12 @@ setting: mountain
 suspected_ip: Rhydon
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Rhydon (Burning Shadows)
 
 ## Vision

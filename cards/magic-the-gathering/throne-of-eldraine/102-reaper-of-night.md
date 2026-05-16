@@ -52,8 +52,11 @@ artist: Jeff Simpson
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/102-reaper-of-night--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/d/4dc774b4-3f70-4351-b1b8-8a0193cb3a50.jpg?1572490223
 oracle_text: Whenever this creature attacks, if defending player has two or fewer cards in hand, it gains flying until end of turn.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Reaper of Night (Throne of Eldraine)
 
 ## Vision

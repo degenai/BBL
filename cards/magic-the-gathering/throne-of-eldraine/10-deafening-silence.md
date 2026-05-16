@@ -51,8 +51,11 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/10-deafenin
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/0/6072d9b0-d3c7-46f4-bd24-095bb13c4dea.jpg?1572489660
 flavor_text: \"They have forsaken their vows. The edict of the Circle demands their voices be silenced.\"\n—Syr Tasdale, knight of Ardenvale
 oracle_text: Each player can't cast more than one noncreature spell each turn.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Deafening Silence (Throne of Eldraine)
 
 ## Vision

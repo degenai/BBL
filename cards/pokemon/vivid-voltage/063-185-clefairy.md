@@ -27,6 +27,8 @@ oracle_text: "Pound (Psychic) 10\\nMini-Metronome (ColorlessColorless): Flip a c
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Clefairy (Vivid Voltage)

@@ -54,8 +54,10 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/222-jeskai-ban
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/8/684dc050-a66b-4364-9880-56f383db6c0a.jpg?1562787889
 flavor_text: Discipline to persevere, insight to discover.
 oracle_text: "{T}: Add {U}, {R}, or {W}.\\n{U}{R}{W}, {T}, Sacrifice this artifact: Draw a card."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Jeskai Banner (Khans of Tarkir)
 
 ## Vision

@@ -52,8 +52,13 @@ setting: ocean
 suspected_ip: Jim Hawkins (Treasure Planet)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Jim Hawkins - Stubborn Cabin Boy (Azurite Sea)
 
 ## Vision

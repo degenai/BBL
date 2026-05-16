@@ -28,6 +28,7 @@ flavor_text: Elite training, single-minded devotion, and lazotep coating help on
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Primordial Wurm (War of the Spark)

@@ -47,8 +47,12 @@ oracle_text: "Whenever you attack, you get {E} (an energy counter).\\n{T}, Pay {
 mood: grim
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-pending
 ---
-
 # Phyrexian Ironworks (Modern Horizons 3)
 
 ## Vision

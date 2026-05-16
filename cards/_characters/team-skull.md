@@ -24,8 +24,10 @@ related_characters:
   - alola-kahunas
   - alola-elite-four
 ip_resolution_for: team-skull
+tags:
+  - layer
+  - character
 ---
-
 # Team Skull
 
 The Alola-region villainous criminal team in *Pokemon Sun and Moon* (Game Freak / Creatures Inc. / Nintendo, 2016) and its sequel pair *Pokemon Ultra Sun and Ultra Moon* (Game Freak, 2017). Headquartered in the abandoned Po Town settlement on Ula'ula Island — a former gated community taken over and graffitied with the gang's skull-and-crossbones tag — Team Skull is led by Boss **Guzma** (Bug-type specialist with a signature Golisopod, the Alola Pokemon League's most prominent Island Challenge failure-to-defeat-a-Kahuna case) and sole Admin **Plumeria** (Poison-type specialist with a signature Salazzle, framed in-canon as the gang's "big sister" caretaker and operational enforcer). The rank-and-file are Skull Grunts — uniformed in black-and-white striped tops, sagging shorts, and skull-tattoo wrist accessories, speaking in the hip-hop-inflected register that is the gang's most-cited surface signature. **What structurally distinguishes Team Skull from prior franchise villainous teams (Rocket, Magma, Aqua, Galactic, Plasma, Flare) is that its membership is canonically framed as Pokemon League rejects**: per Bulbapedia and the in-game dialogue across both version pairs, every Skull Grunt is a young Alolan trainer who attempted the Island Challenge, failed at one of the kahunas' Grand Trials, and joined the gang as the post-failure alternative to legitimate competitive Pokemon participation. Guzma himself is canonically framed as a failed Kahuna trial-attempter — he could not defeat his own region's Kahuna at the Grand Trial and turned to gang leadership as the post-failure path. The post-game story arc reframes Team Skull as junior partners to the Aether Foundation under Lusamine — the gang is *used* by the larger conspiracy and is canonically the weaker, scrappier villain cohort rather than the apex-villain organization the Aether Foundation turns out to be.

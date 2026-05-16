@@ -52,8 +52,12 @@ setting: void
 suspected_ip: Bardock
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - ip-pending
 ---
-
 # Bardock, Will of Iron (Promotion Cards)
 
 ## Vision

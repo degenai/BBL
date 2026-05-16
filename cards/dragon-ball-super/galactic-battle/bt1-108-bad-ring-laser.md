@@ -47,8 +47,12 @@ setting: void
 suspected_ip: Guldo
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - ip-pending
 ---
-
 # Bad Ring Laser (Galactic Battle)
 
 ## Vision

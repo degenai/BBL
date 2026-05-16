@@ -53,8 +53,11 @@ oracle_text: "Fuel the Flames deals 2 damage to each creature.\\nCycling {2} ({2
 mood: action
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Fuel the Flames (Aetherdrift)
 
 ## Vision

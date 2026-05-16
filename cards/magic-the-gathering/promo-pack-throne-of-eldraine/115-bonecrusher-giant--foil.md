@@ -23,8 +23,14 @@ needs_manual_review: true
 manual_review_reason: "Set 'Promo Pack: Throne of Eldraine' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing."
 reference_image_source_url: https://cards.scryfall.io/png/front/b/5/b5b71cd2-de35-451f-b16e-2e3936169407.png?1674141884
 flavor_text: Not every tale ends in glory.
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - manual-review
 
+---
 # Bonecrusher Giant (Promo Pack: Throne of Eldraine)
 
 ## Vision

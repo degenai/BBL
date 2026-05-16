@@ -48,8 +48,10 @@ image_quality: high
 mood: sublime
 time_of_day: indeterminate
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Valakut Predator (Battle for Zendikar)
 
 ## Vision

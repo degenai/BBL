@@ -27,6 +27,8 @@ oracle_text: "Haunt (Psychic): Put 1 damage counter on your opponent's Active Po
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Shuppet (Vivid Voltage)

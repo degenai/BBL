@@ -45,8 +45,10 @@ oracle_text: Flying, vigilance
 mood: peaceful
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Ghostly Sentinel (Battle for Zendikar)
 
 ## Vision

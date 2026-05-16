@@ -27,6 +27,8 @@ oracle_text: "Stealy Claws (Metal) 20: Flip 3 coins. If any of them are heads, y
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Galarian Perrserker (Vivid Voltage)

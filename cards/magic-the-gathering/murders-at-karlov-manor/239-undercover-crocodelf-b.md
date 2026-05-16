@@ -53,8 +53,10 @@ oracle_text: "Whenever this creature deals combat damage to a player, investigat
 mood: grim
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Undercover Crocodelf (b) (Murders at Karlov Manor)
 
 ## Vision

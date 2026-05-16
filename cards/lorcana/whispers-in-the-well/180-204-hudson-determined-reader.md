@@ -56,8 +56,12 @@ subject_known_ip: true
 suspected_ip: Hudson (Disney's Gargoyles)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - ip-pending
 ---
-
 # Hudson - Determined Reader (Whispers in the Well)
 
 ## Vision

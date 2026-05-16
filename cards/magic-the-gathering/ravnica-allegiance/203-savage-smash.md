@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/203-savage-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/c/4ca942d7-a3a3-429f-a159-fc2363d9bca6.jpg?1584831798
 flavor_text: A Gruul berserker is never unarmed.
 oracle_text: Target creature you control gets +2/+2 until end of turn. It fights target creature you don't control. (Each deals damage equal to its power to the other.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Savage Smash (Ravnica Allegiance)
 
 ## Vision

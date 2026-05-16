@@ -23,8 +23,15 @@ art_match_confidence: low
 needs_manual_review: true
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 oracle_text: "This Pokémon is both Psychic Darkness type.\\nDark Link (Colorless): Flip a coin. If heads, choose an attack on 1 of your Pokémon in play that has Dark in its name (excluding this one). Dark Link copies that attack except for its Energy cost. (You must still do anything else required for that attack.) (No matter what type that Pokémon is, Dark Hypno's type is still Psychic Darkness.) Dark Hypno performs that attack.\\nBlack Magic (PsychicColorless) 20×: Does 20 damage times the number of your opponent's Benched Pokémon."
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Hypno (Sun & Moon Base Set)
 
 ## Vision

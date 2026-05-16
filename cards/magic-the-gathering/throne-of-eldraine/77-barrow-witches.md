@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/77-barrow-w
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/5/45707c22-fce8-4dbd-9d19-73f08c68f449.jpg?1572490072
 flavor_text: \"Taste the sweetness, breath for breath. Keep the balance, death for death.\"\n—Barrow witch incantation
 oracle_text: When this creature enters, return target Knight card from your graveyard to your hand.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Barrow Witches (Throne of Eldraine)
 
 ## Vision

@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/36-selfless-savi
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/9/6911759c-7177-402c-a95a-f9f46efaf521.jpg?1594735224
 flavor_text: She raised him from an orphaned pup and gave him a life of love. With his last act, he thanked her.
 oracle_text: "Sacrifice this creature: Another target creature you control gains indestructible until end of turn. (Damage and effects that say \\\"destroy\\\" don't destroy it.)"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Selfless Savior (Core Set 2021)
 
 ## Vision

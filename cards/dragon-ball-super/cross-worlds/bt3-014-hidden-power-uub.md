@@ -52,8 +52,13 @@ ip_verified: true
 image_width: 624
 image_height: 871
 image_quality: med
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Hidden Power Uub (Cross Worlds)
 
 ## Vision

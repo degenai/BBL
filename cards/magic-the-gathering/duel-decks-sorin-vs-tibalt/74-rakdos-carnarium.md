@@ -51,8 +51,10 @@ artist: John Avon
 art_crop_image: cards/_images/magic-the-gathering/duel-decks-sorin-vs-tibalt/74-rakdos-carnarium--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/2/42bba982-aa07-4dcb-becb-1568021a94fc.jpg?1592714692
 oracle_text: "This land enters tapped.\\nWhen this land enters, return a land you control to its owner's hand.\\n{T}: Add {B}{R}."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Rakdos Carnarium (Duel Decks: Sorin vs. Tibalt)
 
 ## Vision

@@ -50,8 +50,10 @@ artist: Evan Shipard
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/201-shinechaser--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/6/f6d5314b-4994-4cd0-a680-12e56be7c1e2.jpg?1572490826
 oracle_text: Flying, vigilance\nThis creature gets +1/+1 as long as you control an artifact.\nThis creature gets +1/+1 as long as you control an enchantment.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Shinechaser (Throne of Eldraine)
 
 ## Vision

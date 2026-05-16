@@ -53,8 +53,12 @@ ip_confidence: high
 ip_verified: false
 flavor_text: Its tentacles tear off easily, but it isn't alarmed when that happens—it knows they'll grow back. It's about as smart as a three-year-old.
 oracle_text: Beat (ColorlessColorless) 30
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Clobbopus (Chilling Reign)
 
 ## Vision

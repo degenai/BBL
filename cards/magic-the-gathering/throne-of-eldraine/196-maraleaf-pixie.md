@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/196-maralea
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/6/e6d7f9c9-dd83-4684-a949-1c22f316138a.jpg?1572490787
 flavor_text: Neither hostile nor friendly, pixies flit through the forest seeking the treasures of the wilds.
 oracle_text: "Flying\\n{T}: Add {G} or {U}."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Maraleaf Pixie (Throne of Eldraine)
 
 ## Vision

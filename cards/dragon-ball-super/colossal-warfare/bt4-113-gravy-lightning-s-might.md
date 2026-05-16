@@ -51,8 +51,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - xenoverse-villains
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Gravy, Lightning's Might (Colossal Warfare)
 
 ## Vision

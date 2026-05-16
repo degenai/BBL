@@ -47,8 +47,12 @@ setting: desert
 suspected_ip: Heliolisk (Pokémon X and Y)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Heliolisk (Rebel Clash)
 
 ## Vision

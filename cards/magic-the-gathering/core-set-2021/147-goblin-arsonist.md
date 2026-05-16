@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/147-goblin-arson
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/a/fa4bf664-3b92-4598-b905-2bc090958c8b.jpg?1594736650
 flavor_text: With great power comes great risk of getting yourself killed.
 oracle_text: When this creature dies, you may have it deal 1 damage to any target.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Goblin Arsonist (Core Set 2021)
 
 ## Vision

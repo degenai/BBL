@@ -24,8 +24,10 @@ related_characters:
 ip_resolution_for:
   - Chronoa
   - Supreme Kai of Time
+tags:
+  - layer
+  - character
 ---
-
 # Chronoa (Supreme Kai of Time, Time Patrol commander)
 
 The canonical commander of the Time Patrol — Bandai-Namco's deity-tier protagonist counter-anchor to the Time Breakers faction whose principal members ([[xenoverse-villains]] node: Demigra, Towa, Mira) are organized around the corruption of Dragon Ball's canonical history. Chronoa debuted in *Dragon Ball Online* (NTL Inc., 2010) before becoming the central protagonist-faction commander across *Dragon Ball Xenoverse* (Bandai Namco / Dimps, 2015) and *Dragon Ball Xenoverse 2* (2016), and was most recently re-deployed in *Dragon Ball Daima* (Toei Animation, 2024-2025) — her first Toei-animated canonical appearance beyond the Bandai-Namco Xenoverse continuity strand. Per Dragon Ball Wiki's Chronoa page, she is canonically a Supreme Kai (deity-tier rank in the Kai hierarchy) born over 75 million years ago, and her canonical operational tenure is the 75-million-year sealing of Demigra in the Crack of Time after the Demon Realm magician attempted to overthrow the cosmic order. In *Dragon Ball Xenoverse* lore she commands the Time Patrol from the Time Nest as supreme commander and mentor, with Xeno Trunks as her deputy field operative and the player-character Time Patroller as the principal field tool.

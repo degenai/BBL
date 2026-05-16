@@ -45,8 +45,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Cyclops Superconductor (Modern Horizons 3)
 
 ## Vision

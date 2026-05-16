@@ -51,8 +51,12 @@ oracle_text: Deathtouch, lifelink\nWhen this creature dies, create a 1/2 black P
 mood: grim
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-pending
 ---
-
 # Wurmcoil Larva (Modern Horizons 3)
 
 ## Vision

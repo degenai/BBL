@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/237-witch-s
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/4/04ef8493-d986-45f8-a718-617b028f7ad4.jpg?1572491150
 flavor_text: The wafting smells are both scrumptious and suspicious.
 oracle_text: "{T}, Sacrifice a creature: Create a Food token. If the sacrificed creature's toughness was 4 or greater, create two Food tokens instead. (They're artifacts with \\\"{2}, {T}, Sacrifice this token: You gain 3 life.\\\")"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Witch's Oven (Throne of Eldraine)
 
 ## Vision

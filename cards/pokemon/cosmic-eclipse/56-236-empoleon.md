@@ -27,6 +27,8 @@ oracle_text: "Recall (Colorless): Choose an attack from 1 of this Pokémon's pre
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Empoleon (Cosmic Eclipse)

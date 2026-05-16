@@ -23,8 +23,15 @@ art_match_confidence: low
 needs_manual_review: true
 manual_review_reason: Set 'Sword & Shield Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 oracle_text: You can attach this card to 1 of your Pokémon only if you discard another card from your hand.\nAs long as this card is attached to a Pokémon, it provides every type of Energy but provides only 1 Energy at a time.
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Aurora Energy (Sword & Shield Base Set)
 
 ## Vision

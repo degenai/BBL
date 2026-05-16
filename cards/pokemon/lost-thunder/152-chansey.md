@@ -46,8 +46,13 @@ setting: indoor
 suspected_ip: Chansey (Pokémon)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Chansey (Lost Thunder)
 
 ## Vision

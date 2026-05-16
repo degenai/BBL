@@ -49,8 +49,10 @@ oracle_text: "Mill three cards. Investigate. (Create a Clue token. It's an artif
 mood: grim
 time_of_day: indeterminate
 setting: ocean
+tags:
+  - card
+  - vision-passed
 ---
-
 # Flotsam // Jetsam (Murders at Karlov Manor)
 
 ## Vision

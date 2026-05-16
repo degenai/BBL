@@ -50,8 +50,10 @@ artist: Nils Hamm
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/98-fetid-imp--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/6/56a95546-c45a-4da5-b1e8-d5658b5b7d53.jpg?1594736117
 oracle_text: "Flying\\n{B}: This creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Fetid Imp (Core Set 2021)
 
 ## Vision

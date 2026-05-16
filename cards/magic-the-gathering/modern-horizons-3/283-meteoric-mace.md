@@ -48,8 +48,10 @@ oracle_text: Equipped creature gets +4/+0 and has trample.\nEquip {4}\nCascade (
 mood: action
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Meteoric Mace (Modern Horizons 3)
 
 ## Vision

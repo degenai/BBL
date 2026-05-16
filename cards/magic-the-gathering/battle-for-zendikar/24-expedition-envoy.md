@@ -47,8 +47,10 @@ flavor_text: The unofficial motto of every expedition house is \"ready for anyth
 mood: action
 time_of_day: indeterminate
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Expedition Envoy (Battle for Zendikar)
 
 ## Vision

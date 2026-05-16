@@ -52,8 +52,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: urban
+tags:
+  - card
+  - vision-passed
 ---
-
 # Unscrupulous Contractor (Outlaws of Thunder Junction)
 
 ## Vision

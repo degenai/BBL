@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/11-daunt
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/c/fc3b97d0-8245-48de-aa05-e6800c0339ad.jpg?1573505164
 flavor_text: \"The harder they try to extinguish my faith, the brighter it burns in the darkness.\"
 oracle_text: "{1}{W}, Exile this card from your graveyard: Create a 1/1 white Spirit creature token with flying. Activate only as a sorcery."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Dauntless Cathar (Mystery Booster Cards)
 
 ## Vision

@@ -45,8 +45,10 @@ ip_resolution_for:
   - Saiyan
   - Saiyan race
   - Saiya-jin
+tags:
+  - layer
+  - character
 ---
-
 # Saiyan
 
 The alien warrior-race designed by Akira Toriyama for *Dragon Ball Z* (chapter 195, 1989) — biologically near-identical to humans except for the prehensile monkey tail, the Great Ape / Oozaru transformation triggered by Blutz Waves under full-moon-equivalent stimulus, the canonical Super Saiyan transformation line that escalates through Super Saiyan / 2 / 3 / God / Blue / 4 across the franchise's continuity branches, and the Zenkai biological boost mechanic that increases a Saiyan's combat power after near-death recovery. Originally a tree-dwelling primitive species of Planet Sadala / Planet Vegeta (canonical pre-Frieza homeworld), canonically reorganized into a Frieza-Force-aligned planet-clearing mercenary workforce under King Vegeta's royal-elite class, and canonically genocided in Age 737 when Frieza destroyed Planet Vegeta with a Supernova energy ball to eliminate the prophecied Super Saiyan threat. The Saiyan-genocide-and-survivor-diaspora is the in-canon backstory that grounds every major Dragon Ball Z protagonist's origin: Goku (sent to Earth as infant Kakarot), Vegeta (offworld with Nappa and Raditz under Frieza's direct supervision at the time of the planetary destruction), Broly (offworld with King Vegeta's exile-victim Paragus), Tarble (offworld in exile), Turles (offworld as Crusher Corps pirate), and Bardock (canonically dead in the destruction in classical canon, retconned into Time Patrol survival in Xenoverse / Heroes continuity).

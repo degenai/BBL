@@ -54,8 +54,11 @@ subject_known_ip: true
 suspected_ip: Ob Nixilis
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Ob Nixilis's Cruelty (War of the Spark)
 
 ## Vision

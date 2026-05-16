@@ -54,8 +54,11 @@ oracle_text: Reach\nStart your engines! (If you have no speed, it starts at 1. I
 mood: action
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Endrider Spikespitter (Aetherdrift)
 
 ## Vision

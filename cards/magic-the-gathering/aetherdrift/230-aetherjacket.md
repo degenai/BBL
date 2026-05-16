@@ -29,6 +29,7 @@ oracle_text: "Flying, vigilance\\n{2}, {T}, Sacrifice this creature: Destroy ano
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Aetherjacket (Aetherdrift)

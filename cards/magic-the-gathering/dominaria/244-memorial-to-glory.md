@@ -52,8 +52,10 @@ artist: James Paick
 art_crop_image: cards/_images/magic-the-gathering/dominaria/244-memorial-to-glory--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/6/564d6ff1-2be1-42f1-a919-fe8c2e148c3f.jpg?1562735942
 oracle_text: "This land enters tapped.\\n{T}: Add {W}.\\n{3}{W}, {T}, Sacrifice this land: Create two 1/1 white Soldier creature tokens."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Memorial to Glory (Dominaria)
 
 ## Vision

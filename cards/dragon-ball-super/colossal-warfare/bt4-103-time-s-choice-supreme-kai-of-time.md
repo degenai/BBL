@@ -51,8 +51,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - chronoa
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Time's Choice, Supreme Kai of Time (Colossal Warfare)
 
 ## Vision

@@ -27,6 +27,8 @@ oracle_text: "Double Peck (ColorlessColorless) 20×: Flip 2 coins. This attack d
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Taillow (Vivid Voltage)

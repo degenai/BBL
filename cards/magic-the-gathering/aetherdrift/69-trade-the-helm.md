@@ -50,8 +50,11 @@ oracle_text: "Exchange control of target artifact or creature you control and ta
 mood: action
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Trade the Helm (Aetherdrift)
 
 ## Vision

@@ -53,8 +53,13 @@ characters:
   - xenoverse-villains
   - saiyan
   - bardock
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Time Trauma Masked Saiyan (Colossal Warfare)
 
 ## Vision

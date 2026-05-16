@@ -46,8 +46,10 @@ oracle_text: Vigilance\nWhenever a modified creature you control dies, manifest 
 mood: grim
 time_of_day: day
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Guardian of the Forgotten (Modern Horizons 3)
 
 ## Vision

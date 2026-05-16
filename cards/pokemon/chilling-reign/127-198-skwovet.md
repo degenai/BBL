@@ -46,8 +46,12 @@ setting: other
 suspected_ip: Skwovet
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Skwovet (Chilling Reign)
 
 ## Vision

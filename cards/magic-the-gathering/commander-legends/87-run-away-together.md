@@ -29,6 +29,7 @@ oracle_text: Choose two target creatures controlled by different players. Return
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Run Away Together (Commander Legends)

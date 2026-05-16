@@ -56,8 +56,10 @@ art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/312-de
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/c/7c68981c-037c-42e7-9b7f-6f07edab5f2e.jpg?1706242142
 flavor_text: Teysa's security was unrivaled. Etrata was locked up. Kaya was left with nothing but multiplying questions... and a dead friend.
 oracle_text: Choose one or both —\n• Destroy target creature.\n• Put a +1/+1 counter on target suspected creature you control. You may have it become no longer suspected.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Deadly Complication (Showcase) (Murders at Karlov Manor)
 
 ## Vision

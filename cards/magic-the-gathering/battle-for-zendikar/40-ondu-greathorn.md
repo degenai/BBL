@@ -48,8 +48,10 @@ oracle_text: First strike\nLandfall — Whenever a land you control enters, this
 mood: action
 time_of_day: twilight
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Ondu Greathorn (Battle for Zendikar)
 
 ## Vision

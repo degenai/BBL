@@ -51,8 +51,10 @@ image_quality: high
 mood: horror
 time_of_day: night
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Popular Egotist (Duskmourn: House of Horror)
 
 ## Vision

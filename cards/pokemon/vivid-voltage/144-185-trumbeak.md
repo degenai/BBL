@@ -27,6 +27,8 @@ oracle_text: "[Ability: Charging Trumpet] When you play this Pokémon from your 
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Trumbeak (Vivid Voltage)

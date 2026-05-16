@@ -37,8 +37,10 @@ related_characters:
   - kiora
   - zendikari-resistance
 ip_resolution_for: eldrazi
+tags:
+  - layer
+  - character
 ---
-
 # Eldrazi
 
 Magic: The Gathering's signature cosmic-horror antagonist brood. Per MTG Wiki's Eldrazi page, the Eldrazi are eldritch alien titans native to the Blind Eternities — the space *between* planes in the MTG multiverse — first introduced in *Rise of the Eldrazi* (ROE, 2010) as the world-eating threat that the Lithomancer Nahiri, the planeswalker Sorin Markov, and the dragon planeswalker Ugin sealed inside the plane of Zendikar at the dawn of recorded multiversal history. Their re-emergence is the canonical anchor of the *Battle for Zendikar* / *Oath of the Gatewatch* two-set block (BFZ + OGW, 2015–2016), the Wizards-of-the-Coast story arc that introduced the Gatewatch protagonist coalition (Jace, Gideon, Nissa, Chandra, Kiora) and concluded with the destruction of two of the three Titans on Zendikar.

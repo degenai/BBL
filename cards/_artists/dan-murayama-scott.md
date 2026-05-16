@@ -31,8 +31,10 @@ notes: |
   (Gideon's energy lasso arcs, Kitesail Scout's wind-trail tassels),
   Zendikari terrain rendering (floating rock columns, canyon spires,
   golden horizon).
+tags:
+  - layer
+  - artist
 ---
-
 # Dan Murayama Scott
 
 Magic: The Gathering illustrator with three credits in the BBL corpus, all from *Battle for Zendikar* (BFZ, 2015). His name occasionally appears in older databases as "Dan Scott" or "Daniel Murayama Scott"; the canonical credit on the printed BFZ cards is **Dan Murayama Scott**, the form Scryfall now uses across his catalog. The artist's published portfolio confirms the BFZ set as a primary block in his Magic illustration career.

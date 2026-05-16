@@ -29,8 +29,9 @@ oracle_text: "{X}, {T}, Discard a card: Look at the top X cards of your library.
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Vivien's Arkbow (War of the Spark)
 
 ## Vision

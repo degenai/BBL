@@ -47,8 +47,10 @@ image_quality: high
 mood: horror
 time_of_day: night
 setting: ocean
+tags:
+  - card
+  - vision-passed
 ---
-
 # Vexing Scuttler (Eldritch Moon)
 
 ## Vision

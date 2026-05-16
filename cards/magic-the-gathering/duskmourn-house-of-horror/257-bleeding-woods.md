@@ -51,8 +51,10 @@ oracle_text: "This land enters tapped unless a player has 13 or less life.\\n{T}
 mood: horror
 time_of_day: indeterminate
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Bleeding Woods (Duskmourn: House of Horror)
 
 ## Vision

@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/141-magm
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/7/67b9fcc4-51d8-410b-9f36-fe6cc45e2b25.jpg?1573512205
 flavor_text: \"Ashes can't be embalmed.\"\n—Neheb, initiate of Ahn crop
 oracle_text: Magma Spray deals 2 damage to target creature. If that creature would die this turn, exile it instead.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Magma Spray (Mystery Booster Cards)
 
 ## Vision

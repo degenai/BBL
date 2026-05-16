@@ -50,8 +50,11 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Case of the Shattered Pact (Murders at Karlov Manor)
 
 ## Vision

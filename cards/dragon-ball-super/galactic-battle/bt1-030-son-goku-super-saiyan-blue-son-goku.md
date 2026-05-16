@@ -49,8 +49,13 @@ setting: void
 suspected_ip: Son Goku (Dragon Ball Super)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Son Goku // Super Saiyan Blue Son Goku (Galactic Battle)
 
 ## Vision

@@ -27,6 +27,8 @@ oracle_text: "Tread On (ColorlessColorless) 10+: This attack does 50 more damage
 image_width: 868
 image_height: 1212
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Tsareena (Chilling Reign)

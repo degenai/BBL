@@ -53,8 +53,13 @@ characters:
   - pan
   - son-goku
   - trunks
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Grand Tour Spaceship (Cross Worlds)
 
 ## Vision

@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/316-howling-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/5/05b54aaa-93e2-4f8b-8d06-2a848498d1fd.jpg?1608911481
 flavor_text: It wails of buried riches and the souls lost seeking them.
 oracle_text: Whenever this creature attacks or blocks, each player draws a card.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Howling Golem (Commander Legends)
 
 ## Vision

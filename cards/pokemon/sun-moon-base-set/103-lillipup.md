@@ -24,8 +24,15 @@ needs_manual_review: true
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: It faces strong opponents with great courage. But, when at a disadvantage in a fight, this intelligent Pokémon flees.
 oracle_text: "Knock Away (ColorlessColorless) 10+: Flip a coin. If heads, this attack does 10 more damage."
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Lillipup (Sun & Moon Base Set)
 
 ## Vision

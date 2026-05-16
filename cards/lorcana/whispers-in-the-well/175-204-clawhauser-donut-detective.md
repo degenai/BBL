@@ -56,8 +56,12 @@ subject_known_ip: true
 suspected_ip: Clawhauser (Zootopia)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - ip-pending
 ---
-
 # Clawhauser - Donut Detective (Whispers in the Well)
 
 ## Vision

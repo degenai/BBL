@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/155-fowl-str
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/3/83b6c7ab-f42f-40d2-9cb6-89291d57e27f.jpg?1717012470
 flavor_text: With a resounding wallop, the ancient battle between buzzard and druid was finally finished.
 oracle_text: "Destroy target creature with flying.\\nReinforce 2—{2}{G} ({2}{G}, Discard this card: Put two +1/+1 counters on target creature.)"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Fowl Strike (Modern Horizons 3)
 
 ## Vision

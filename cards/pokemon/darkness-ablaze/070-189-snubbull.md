@@ -47,8 +47,12 @@ subject_known_ip: true
 suspected_ip: Snubbull
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Snubbull (Darkness Ablaze)
 
 ## Vision

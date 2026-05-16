@@ -50,8 +50,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - destroyer-god-attendant-dyad
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Energy Boost Beerus (Galactic Battle)
 
 ## Vision

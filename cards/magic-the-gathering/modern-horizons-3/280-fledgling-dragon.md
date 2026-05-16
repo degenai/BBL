@@ -51,8 +51,11 @@ oracle_text: "Flying\\nThreshold — As long as there are seven or more cards in
 mood: action
 time_of_day: day
 setting: mountain
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Fledgling Dragon (Modern Horizons 3)
 
 ## Vision

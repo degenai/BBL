@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/84-davriel-s-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/9/09c8fe63-37a7-478d-b9ba-33a0f6519cf1.jpg?1557576429
 flavor_text: Shadows coiled around the witness's mind. Then the moment vanished, leaving only the sting of its loss.
 oracle_text: Target player discards two cards and loses 2 life.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Davriel's Shadowfugue (War of the Spark)
 
 ## Vision

@@ -50,8 +50,11 @@ art_crop_image: cards/_images/magic-the-gathering/aetherdrift/252-blossoming-san
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/9/69949863-2510-4fe2-a815-0682beeb08a3.jpg?1738356887
 flavor_text: The Alacrian Quickbeasts desire not only to win, but to forge new alliances against the unknown threats of this interconnected Multiverse.
 oracle_text: "This land enters tapped.\\nWhen this land enters, you gain 1 life.\\n{T}: Add {G} or {W}."
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Blossoming Sands (Aetherdrift)
 
 ## Vision

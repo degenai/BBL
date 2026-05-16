@@ -51,8 +51,11 @@ oracle_text: When this creature enters, mill two cards, then put a +1/+1 counter
 mood: comedic
 time_of_day: day
 setting: desert
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Ooze Patrol (Aetherdrift)
 
 ## Vision

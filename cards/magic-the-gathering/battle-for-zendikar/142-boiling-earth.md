@@ -50,8 +50,10 @@ image_quality: high
 mood: sublime
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Boiling Earth (Battle for Zendikar)
 
 ## Vision

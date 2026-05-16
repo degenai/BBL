@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/54-ensou
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/7/c706a6b4-32cb-4fe9-97f5-289f8c499ae8.jpg?1573507444
 flavor_text: Too often, some self-described genius comes up with a \"labor-saving device\" that ends up creating far more work.
 oracle_text: Enchant artifact\nEnchanted artifact is a creature with base power and toughness 5/5 in addition to its other types.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Ensoul Artifact (Mystery Booster Cards)
 
 ## Vision

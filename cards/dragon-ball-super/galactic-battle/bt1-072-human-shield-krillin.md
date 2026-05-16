@@ -49,8 +49,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - krillin
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Human Shield Krillin (Galactic Battle)
 
 ## Vision

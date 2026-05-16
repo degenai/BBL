@@ -55,8 +55,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros/218-opaline-unicorn--ar
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/f/cfba304c-9cb8-4d5c-b70d-b7f61a365977.jpg?1562831841
 flavor_text: Purphoros once loved Nylea, the god of the hunt. His passion inspired his most astounding works of art.
 oracle_text: "{T}: Add one mana of any color."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Opaline Unicorn (Theros)
 
 ## Vision

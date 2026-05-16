@@ -50,8 +50,12 @@ setting: ocean
 suspected_ip: Octillery
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Octillery (Crimson Invasion)
 
 ## Vision

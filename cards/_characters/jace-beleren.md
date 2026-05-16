@@ -20,8 +20,10 @@ appears_on:
 related_hubs: "[rebellion]"
 related_symbols: []
 ip_resolution_for: Jace Beleren
+tags:
+  - layer
+  - character
 ---
-
 # Jace Beleren
 
 Telepath, illusionist, and planeswalker; the longest-storylined non-villain protagonist of Magic: The Gathering's post-Mending continuity. Introduced in Lorwyn (2007), foregrounded as the face of the Gatewatch through the 2015–2019 story block, and one of the small set of named characters who carry the game's protagonist baton across multiple sets and arcs. The `— Jace` planeswalker subtype on the type-line is reserved for printings of this single character; canonical from Jace Beleren (Lorwyn, 2007) through every subsequent legendary planeswalker bearing the name.

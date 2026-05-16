@@ -27,6 +27,8 @@ oracle_text: "Reaction (Metal) 10: Switch this Pokémon with 1 of your Benched P
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Ferroseed (Vivid Voltage)

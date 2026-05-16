@@ -48,8 +48,11 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/102-grasp-of-dar
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/7/7737b578-8ae3-4846-b508-93ef40f25244.jpg?1594736166
 flavor_text: \"I welcome the use of even the foulest magic if it will rid us of the monstrosities that plague our world.\"\n—Munda, ambush leader
 oracle_text: Target creature gets -4/-4 until end of turn.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Grasp of Darkness (Core Set 2021)
 
 ## Vision

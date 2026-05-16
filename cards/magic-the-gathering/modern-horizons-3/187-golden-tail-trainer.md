@@ -48,8 +48,10 @@ oracle_text: Aura and Equipment spells you cast cost {X} less to cast, where X i
 mood: peaceful
 time_of_day: dawn
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Golden-Tail Trainer (Modern Horizons 3)
 
 ## Vision

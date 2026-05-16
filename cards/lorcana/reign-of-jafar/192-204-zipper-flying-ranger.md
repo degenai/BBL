@@ -57,8 +57,13 @@ subject_known_ip: true
 suspected_ip: Zipper (Chip 'n Dale Rescue Rangers)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Zipper - Flying Ranger (Reign of Jafar)
 
 ## Vision

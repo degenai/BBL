@@ -27,6 +27,8 @@ oracle_text: "[Ability: Torrential Awakening] If this Pokémon has a Memory Caps
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Vaporeon (Vivid Voltage)

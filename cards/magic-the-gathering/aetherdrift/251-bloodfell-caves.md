@@ -53,8 +53,11 @@ art_crop_image: cards/_images/magic-the-gathering/aetherdrift/251-bloodfell-cave
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/9/49195d90-de0c-4290-aa1c-9f4d948b5521.jpg?1738356883
 flavor_text: To the Endriders, racing is worship. Their prayers rise on the howls of straining engines. Explosions punctuate their chorus of shouts, forming a hymn of glory to the open road and all roads to come.
 oracle_text: "This land enters tapped.\\nWhen this land enters, you gain 1 life.\\n{T}: Add {B} or {R}."
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Bloodfell Caves (Aetherdrift)
 
 ## Vision

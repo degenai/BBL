@@ -27,6 +27,8 @@ oracle_text: Cat Kick (Colorless) 10\nClaw Slash (ColorlessColorlessColorless) 4
 image_width: 868
 image_height: 1212
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Glameow (Battle Styles)

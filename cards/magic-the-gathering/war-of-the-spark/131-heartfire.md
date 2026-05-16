@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/131-heartfire
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/d/7db219ea-2ed1-4a86-955c-d61ecedbc019.jpg?1557576716
 flavor_text: The mage looked within and realized there was still one piece of fuel to burn.
 oracle_text: As an additional cost to cast this spell, sacrifice a creature or planeswalker.\nHeartfire deals 4 damage to any target.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Heartfire (War of the Spark)
 
 ## Vision

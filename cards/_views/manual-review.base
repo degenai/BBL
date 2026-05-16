@@ -1,0 +1,22 @@
+filters:
+  and:
+    - needs_manual_review == true
+views:
+  - type: table
+    name: Manual review queue
+    order:
+      - file.name
+      - review_bad
+      - review_good
+      - review_notes
+      - game
+      - set
+      - manual_review_reason
+      - market_price
+    sort:
+      - property: review_good
+        direction: DESC
+      - property: review_bad
+        direction: DESC
+      - property: market_price
+        direction: DESC

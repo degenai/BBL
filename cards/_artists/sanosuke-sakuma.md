@@ -27,8 +27,10 @@ notes: |
   Businessman, Office Lady, Artist, Police Officer, Doctor, Poke Kid. This is
   the rare case where a TCG illustrator's portfolio also includes the regional
   NPC bench of the games their cards tie into.
+tags:
+  - layer
+  - artist
 ---
-
 # Sanosuke Sakuma
 
 Pokemon TCG illustrator. Born October 31, 1990 in Kanagawa, Japan; began illustrating Pokemon TCG cards in 2013. Approximately 159 cards in the main TCG plus 32 in Pokemon TCG Pocket.

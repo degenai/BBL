@@ -24,8 +24,15 @@ needs_manual_review: true
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: It is called the \"Mirage Pokémon\" because so few have seen it. Its shed skin has been found.
 oracle_text: "Wrap (GrassLightning) 20: Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Dratini (Sun & Moon Base Set)
 
 ## Vision

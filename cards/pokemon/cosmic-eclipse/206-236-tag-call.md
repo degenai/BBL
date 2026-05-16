@@ -46,8 +46,12 @@ oracle_text: Search your deck for up to 2 TAG TEAM cards, reveal them, and put t
 mood: action
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Tag Call (Cosmic Eclipse)
 
 ## Vision

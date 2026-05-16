@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/modern-horizons/213-ruination-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/a/5a00ac82-a884-40c4-9d09-3190a1099726.jpg?1562202403
 flavor_text: \"Those urbanist cobble-roaches won't know what hit them!\"
 oracle_text: When this creature dies, you may have it deal damage to any target equal to the number of land cards in your graveyard.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Ruination Rioter (Modern Horizons)
 
 ## Vision

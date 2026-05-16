@@ -50,8 +50,10 @@ image_quality: high
 mood: action
 time_of_day: twilight
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Turn Against (Battle for Zendikar)
 
 ## Vision

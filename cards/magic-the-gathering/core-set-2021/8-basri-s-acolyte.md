@@ -54,8 +54,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/8-basri-s-acolyt
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/8/08d1dd97-2675-4953-ab95-d47d23abfe05.jpg?1594734783
 flavor_text: Basri carries on his god's legacy, spreading her teachings throughout the Multiverse.
 oracle_text: Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nWhen this creature enters, put a +1/+1 counter on each of up to two other target creatures you control.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Basri's Acolyte (Core Set 2021)
 
 ## Vision

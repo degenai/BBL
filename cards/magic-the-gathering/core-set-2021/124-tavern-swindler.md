@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/124-tavern-swind
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/0/d00850e4-6be3-4246-ae45-c0e990e6d6e1.jpg?1594736401
 flavor_text: Rakdos cultists are her best customers. They never flinch at pain and are seldom good at math.
 oracle_text: "{T}, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Tavern Swindler (Core Set 2021)
 
 ## Vision

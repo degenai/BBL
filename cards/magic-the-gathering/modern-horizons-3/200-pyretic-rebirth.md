@@ -50,8 +50,11 @@ oracle_text: Return target artifact or creature card from your graveyard to your
 mood: sublime
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Pyretic Rebirth (Modern Horizons 3)
 
 ## Vision

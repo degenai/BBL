@@ -48,8 +48,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - elemental-monkey-trio
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Simipour (Darkness Ablaze)
 
 ## Vision

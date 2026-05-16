@@ -23,8 +23,15 @@ art_match_confidence: low
 needs_manual_review: true
 manual_review_reason: Set 'Sword & Shield Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 oracle_text: Search your deck for an Evolution Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.\nYou may play any number of Item cards during your turn.
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Evolution Incense (Sword & Shield Base Set)
 
 ## Vision

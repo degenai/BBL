@@ -24,8 +24,15 @@ needs_manual_review: true
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: A Pokémon with a loyal nature, it will remain motionless until it is given an order by its Trainer.
 oracle_text: "Stoke (Colorless): Flip a coin. If heads, search your deck for a Fire Energy card and attach it to this Pokémon. Shuffle your deck afterward.\\nFirebreathing (FireColorless) 10+: Flip a coin. If heads, this attack does 20 more damage."
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Growlithe (Sun & Moon Base Set)
 
 ## Vision

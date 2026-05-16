@@ -47,8 +47,13 @@ setting: void
 suspected_ip: Celebi
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Celebi V (Chilling Reign)
 
 ## Vision

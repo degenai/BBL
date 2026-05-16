@@ -51,8 +51,11 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/164-brazen-f
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/5/45657345-b564-4e5f-a57a-01dc54df7e7c.jpg?1608910081
 flavor_text: Finders, keepers.
 oracle_text: "When this creature enters, create a Treasure token. (It's an artifact with \\\"{T}, Sacrifice this token: Add one mana of any color.\\\")"
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Brazen Freebooter (Commander Legends)
 
 ## Vision

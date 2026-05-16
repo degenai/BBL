@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/116-nimana-ski
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/a/ea080141-6262-4595-8058-b2969b3f016b.jpg?1604196156
 flavor_text: \"When navigating dangerous terrain, one hundred legs are better than two.\"
 oracle_text: As long as an opponent has eight or more cards in their graveyard, this creature gets +1/+0 and has menace. (It can't be blocked except by two or more creatures.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Nimana Skitter-Sneak (Zendikar Rising)
 
 ## Vision

@@ -48,8 +48,13 @@ setting: void
 suspected_ip: "Salza (Dragon Ball Z: Cooler's Revenge)"
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Cooler's Armored Squadron Leader Salza (Union Force)
 
 ## Vision

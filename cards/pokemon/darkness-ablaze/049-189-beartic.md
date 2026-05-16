@@ -27,6 +27,8 @@ oracle_text: "Slash (ColorlessColorless) 40\\nFrozen Slice (WaterColorlessColorl
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Beartic (Darkness Ablaze)

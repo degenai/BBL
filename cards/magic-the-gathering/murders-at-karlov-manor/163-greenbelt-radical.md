@@ -51,8 +51,10 @@ image_quality: high
 mood: action
 time_of_day: sunset
 setting: urban
+tags:
+  - card
+  - vision-passed
 ---
-
 # Greenbelt Radical (Murders at Karlov Manor)
 
 ## Vision

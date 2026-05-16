@@ -47,8 +47,10 @@ artist: Pat Lewis
 art_crop_image: cards/_images/magic-the-gathering/mercadian-masques/328-saprazzan-skerry--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/0/006871fd-2641-42cb-a2ac-a33d05fc5a35.jpg?1562378939
 oracle_text: "This land enters tapped with two depletion counters on it.\\n{T}, Remove a depletion counter from this land: Add {U}{U}. If there are no depletion counters on this land, sacrifice it."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Saprazzan Skerry (Mercadian Masques)
 
 ## Vision

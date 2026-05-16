@@ -55,8 +55,10 @@ characters:
 art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/146-athreos-god-of-passage--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/9/a9c87b4d-6e19-4b28-9041-821289f9cd1a.jpg?1588680943
 oracle_text: Indestructible\nAs long as your devotion to white and black is less than seven, Athreos isn't a creature.\nWhenever another creature you own dies, return it to your hand unless target opponent pays 3 life.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Athreos, God of Passage (Mystery Booster Cards)
 
 ## Vision

@@ -50,8 +50,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: desert
+tags:
+  - card
+  - vision-passed
 ---
-
 # Betrayal at the Vault (Outlaws of Thunder Junction)
 
 ## Vision

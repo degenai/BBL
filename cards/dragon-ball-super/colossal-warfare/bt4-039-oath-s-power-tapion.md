@@ -47,8 +47,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - wrath-of-the-dragon-saga
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Oath's Power, Tapion (Colossal Warfare)
 
 ## Vision

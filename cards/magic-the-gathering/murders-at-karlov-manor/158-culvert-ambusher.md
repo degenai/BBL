@@ -52,8 +52,11 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Culvert Ambusher (Murders at Karlov Manor)
 
 ## Vision

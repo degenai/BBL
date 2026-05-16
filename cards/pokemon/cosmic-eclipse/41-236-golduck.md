@@ -48,8 +48,12 @@ setting: ocean
 suspected_ip: Golduck (Pokémon)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Golduck (Cosmic Eclipse)
 
 ## Vision

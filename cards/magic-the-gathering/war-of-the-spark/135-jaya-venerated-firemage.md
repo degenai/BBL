@@ -51,8 +51,11 @@ subject_known_ip: true
 suspected_ip: Jaya Ballard
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Jaya, Venerated Firemage (War of the Spark)
 
 ## Vision

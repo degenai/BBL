@@ -27,6 +27,8 @@ oracle_text: "Minor Errand-Running (Colorless): Search your deck for up to 2 bas
 image_width: 868
 image_height: 1212
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Chimecho (Battle Styles)

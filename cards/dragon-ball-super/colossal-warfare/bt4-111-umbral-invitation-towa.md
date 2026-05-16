@@ -51,8 +51,13 @@ setting: void
 suspected_ip: Towa (Dragon Ball Xenoverse)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Umbral Invitation Towa (Colossal Warfare)
 
 ## Vision

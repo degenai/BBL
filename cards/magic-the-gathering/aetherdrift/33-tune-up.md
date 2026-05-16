@@ -54,8 +54,12 @@ setting: desert
 suspected_ip: Pia Nalaar
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Tune Up (Aetherdrift)
 
 ## Vision

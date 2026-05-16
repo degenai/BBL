@@ -52,8 +52,11 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/118-chainwhip
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/2/d2f18df2-5910-4c5d-8b04-6fe5d04e8150.jpg?1557576635
 flavor_text: \"You say this Tenth District, not Rubblebelt. But where smash happen, that Rubblebelt. Rubblebelt state of mind.\"\n—Urgdar, cyclops philosopher
 oracle_text: "{3}{R}: Target creature can't block this turn."
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Chainwhip Cyclops (War of the Spark)
 
 ## Vision

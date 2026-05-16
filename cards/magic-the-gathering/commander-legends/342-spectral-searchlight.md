@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/342-spectral
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/a/0a7dd6c9-628b-4dde-a385-604501dd0979.jpg?1608911718
 flavor_text: The first searchlights were given as gifts, symbols of cooperation, to the emissaries present at the signing of the Guildpact.
 oracle_text: "{T}: Choose a player. That player adds one mana of any color they choose."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Spectral Searchlight (Commander Legends)
 
 ## Vision

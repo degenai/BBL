@@ -23,8 +23,15 @@ art_match_confidence: low
 needs_manual_review: true
 manual_review_reason: "Set 'SM Trainer Kit: Lycanroc & Alolan Raichu' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing."
 oracle_text: Heal 20 damage and remove a Special Condition from your Active Pokémon.\nYou may play as many Item cards as you like during your turn (before your attack).
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Big Malasada (SM Trainer Kit: Lycanroc & Alolan Raichu)
 
 ## Vision

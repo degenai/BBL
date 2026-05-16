@@ -54,8 +54,11 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/25-iona-s-ju
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/7/e792e689-0cf8-4bd0-b2f1-4edff9972e18.jpg?1608908809
 flavor_text: Beneath the gaze of angels, only the righteous may stand without fear.
 oracle_text: Exile target creature or enchantment.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Iona's Judgment (Commander Legends)
 
 ## Vision

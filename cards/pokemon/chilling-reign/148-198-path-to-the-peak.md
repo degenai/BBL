@@ -44,8 +44,12 @@ mood: sublime
 time_of_day: day
 setting: mountain
 oracle_text: Pokémon with a Rule Box in play (both yours and your opponent's) have no Abilities. (Pokémon V, Pokémon-GX, etc. have Rule Boxes.)\nThis Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you can't play this card.
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
 ---
-
 # Path to the Peak (Chilling Reign)
 
 ## Vision

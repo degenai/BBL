@@ -37,8 +37,10 @@ related_symbols: []
 related_characters:
   - mogis
 ip_resolution_for: theros-pantheon
+tags:
+  - layer
+  - character
 ---
-
 # Theros Pantheon (the fifteen gods of Theros)
 
 The ruling body of Nyx-born deities who govern the mortal plane of Theros, designed by Wizards of the Coast for the *Theros* block (THS 2013-09-27, BNG 2014-02-07, JOU 2014-05-02) and revisited for *Theros Beyond Death* (THB 2020-01-24). Theros is Wizards' Greek-mythology-inspired plane and the pantheon is its central design conceit: fifteen named gods sustained in being by mortal devotion (the *Devotion* mechanic, the block's signature mechanical anchor), each a multicolor or mono-color enchantment-creature whose creature-side activates only when the controller's devotion-to-color count clears a threshold. The pantheon's principal members — Heliod (sun, white), Erebos (dead, black), Thassa (sea, blue), Purphoros (forge, red), Nylea (hunt, green), and the multicolor secondary gods Pharika, Klothys, Iroas, Karametra, Mogis, Phenax, Kruphix, Athreos, Xenagos, Ephara, Keranos — together form the constellation-pantheon whose names recur across Theros-block card art, oracle text, and flavor text as the plane's institutional and mythological frame.

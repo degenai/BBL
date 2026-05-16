@@ -50,8 +50,13 @@ setting: void
 suspected_ip: Spiritomb
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Spiritomb (Brilliant Stars)
 
 ## Vision

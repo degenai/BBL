@@ -52,8 +52,11 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Kragma Warcaller (Theros)
 
 ## Vision

@@ -53,8 +53,13 @@ setting: other
 suspected_ip: Pansage (Pokemon)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Pansage (Burning Shadows)
 
 ## Vision

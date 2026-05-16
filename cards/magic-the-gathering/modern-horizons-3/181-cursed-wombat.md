@@ -44,8 +44,10 @@ oracle_text: "{2}{B}{G}: Adapt 2. (If this creature has no +1/+1 counters on it,
 mood: horror
 time_of_day: night
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Cursed Wombat (Modern Horizons 3)
 
 ## Vision

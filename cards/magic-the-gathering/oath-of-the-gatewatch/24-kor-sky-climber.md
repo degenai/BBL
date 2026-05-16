@@ -53,8 +53,11 @@ image_quality: high
 mood: action
 time_of_day: sunset
 setting: mountain
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Kor Sky Climber (Oath of the Gatewatch)
 
 ## Vision

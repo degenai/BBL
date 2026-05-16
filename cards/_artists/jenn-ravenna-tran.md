@@ -22,8 +22,10 @@ appears_on:
   - magic-the-gathering/throne-of-eldraine/114-blow-your-house-down
   - magic-the-gathering/throne-of-eldraine/222-heraldic-banner
   - magic-the-gathering/throne-of-eldraine/313-thornwood-falls
+tags:
+  - layer
+  - artist
 ---
-
 # Jenn Ravenna Tran
 
 Illustrator with multiple Magic: The Gathering credits. Same person across all listed aliases — name variations exist because Scryfall's stored artist credit is not necessarily the same string that appears on the printed card, and the artist's own published name has evolved.

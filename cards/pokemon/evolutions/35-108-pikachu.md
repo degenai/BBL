@@ -49,8 +49,12 @@ setting: forest
 suspected_ip: "Pikachu (#025)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Pikachu (Evolutions)
 
 ## Vision

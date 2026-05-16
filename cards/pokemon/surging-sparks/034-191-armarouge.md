@@ -25,6 +25,8 @@ oracle_text: "Combustion (ColorlessColorless) 50\\nCrimson Blaster (FireFireColo
 image_width: 733
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Armarouge (Surging Sparks)

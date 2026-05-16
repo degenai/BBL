@@ -1,0 +1,29 @@
+filters:
+  and:
+    - file.hasTag("card")
+    - file.hasTag("vision-passed")
+    - '!file.hasTag("trivia-passed")'
+views:
+  - type: table
+    name: Trivia-ready (by price)
+    order:
+      - file.name
+      - game
+      - set
+      - suspected_ip
+      - market_price
+    sort:
+      - property: market_price
+        direction: DESC
+  - type: table
+    name: Trivia-ready (by game)
+    order:
+      - game
+      - set
+      - file.name
+      - suspected_ip
+    sort:
+      - property: game
+        direction: ASC
+      - property: set
+        direction: ASC

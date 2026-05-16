@@ -27,6 +27,8 @@ oracle_text: "Smack (Metal) 30\\nGyro Ball (MetalColorlessColorless) 70: Switch 
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Bronzong (Rebel Clash)

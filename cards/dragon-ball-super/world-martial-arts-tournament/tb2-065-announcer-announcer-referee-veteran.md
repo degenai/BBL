@@ -48,8 +48,13 @@ setting: indoor
 suspected_ip: Tournament Announcer (Dragon Ball)
 ip_confidence: med
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Announcer // Announcer, Referee Veteran (World Martial Arts Tournament)
 
 ## Vision

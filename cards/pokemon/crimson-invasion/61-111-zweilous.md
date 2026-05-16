@@ -27,6 +27,8 @@ oracle_text: "Headbutt (DarknessColorless) 30\\nDouble Hit (DarknessDarknessColo
 image_width: 906
 image_height: 1280
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Zweilous (Crimson Invasion)

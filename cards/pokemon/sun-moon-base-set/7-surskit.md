@@ -24,8 +24,15 @@ needs_manual_review: true
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.
 oracle_text: "Sweet Scent (Grass): Heal 20 damage from 1 of your Pokémon."
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Surskit (Sun & Moon Base Set)
 
 ## Vision

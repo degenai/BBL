@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/93-locthwai
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/a/da6f21a8-3dd0-42af-8a93-84f98968c781.jpg?1572490167
 flavor_text: \"I will find the king if I have to ride from summer to winter and back again.\"
 oracle_text: Menace (This creature can't be blocked except by two or more creatures.)\nAdamant — If at least three black mana was spent to cast this spell, this creature enters with a +1/+1 counter on it.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Locthwain Paladin (Throne of Eldraine)
 
 ## Vision

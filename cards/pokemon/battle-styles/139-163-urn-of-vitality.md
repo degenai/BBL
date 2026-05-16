@@ -45,8 +45,12 @@ time_of_day: indeterminate
 setting: other
 symbols:
   - single-strike-emblem
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
 ---
-
 # Urn of Vitality (Battle Styles)
 
 ## Vision

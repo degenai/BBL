@@ -54,8 +54,12 @@ subject_known_ip: true
 suspected_ip: Darkwing Duck (Darkwing Duck)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - ip-pending
 ---
-
 # Darkwing Duck - Crime Fighter (Winterspell)
 
 ## Vision

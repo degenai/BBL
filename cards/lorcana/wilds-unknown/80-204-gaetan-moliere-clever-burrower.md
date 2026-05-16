@@ -56,8 +56,12 @@ subject_known_ip: true
 suspected_ip: "Gaetan Moliere / Mole (Atlantis: The Lost Empire)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - ip-pending
 ---
-
 # Gaetan Moliere - Clever Burrower (Wilds Unknown)
 
 ## Vision

@@ -46,8 +46,13 @@ oracle_text: "Double Slap (ColorlessColorless) 30×: Flip 2 coins. This attack d
 mood: peaceful
 time_of_day: day
 setting: forest
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Steenee (Unified Minds)
 
 ## Vision

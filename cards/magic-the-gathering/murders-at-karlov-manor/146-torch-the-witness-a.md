@@ -51,8 +51,11 @@ oracle_text: "Torch the Witness deals twice X damage to target creature. If exce
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Torch the Witness (a) (Murders at Karlov Manor)
 
 ## Vision

@@ -49,8 +49,12 @@ setting: dungeon
 suspected_ip: "Dunsparce (#206)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Dunsparce (Darkness Ablaze)
 
 ## Vision

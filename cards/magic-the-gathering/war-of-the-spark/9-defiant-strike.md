@@ -29,6 +29,7 @@ oracle_text: Target creature gets +1/+0 until end of turn.\nDraw a card.
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Defiant Strike (War of the Spark)

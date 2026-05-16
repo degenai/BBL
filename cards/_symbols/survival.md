@@ -22,8 +22,10 @@ related_hubs: []
 related_characters:
   - dsk-survival-archetype
   - valgavoth
+tags:
+  - layer
+  - symbol
 ---
-
 # Survival (mechanic)
 
 The iconographic-and-rules-text primitive of the **Survival** ability-word keyword introduced in *Duskmourn: House of Horror* (DSK, 2024-09-27) as one of the set's signature mechanics (alongside Rooms, Eerie, Manifest Dread, and Delirium-as-returning-subtheme). Survival is a designer-coordinated ability-word prefixing triggered abilities that fire at the beginning of the controller's second main phase if the creature with the ability is still tapped — i.e. if it survived the combat step it was committed to. The mechanic renders the in-fiction *trapped-and-watching* state as a rules-text-level trigger: the survivor who lived through the swing notices something, does something, gets stronger. The marker is a first-class graph-relevant mechanical primitive parallel to [[suspect]], [[disguise]], [[manifest-dread]], and [[eerie]]: a designer-coordinated cohort identifier that crosses multiple cards in a set, marks them as members of a designer-stated thematic program, and provides the canonical iconographic anchor for any bundle assembled around the program.

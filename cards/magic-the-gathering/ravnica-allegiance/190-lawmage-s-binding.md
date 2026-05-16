@@ -55,8 +55,11 @@ artist: Mark Behm
 art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/190-lawmage-s-binding--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/8/a8a7be1f-3fba-4ff2-a4f1-aebd3d20da8f.jpg?1584831664
 oracle_text: Flash\nEnchant creature\nEnchanted creature can't attack or block, and its activated abilities can't be activated.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Lawmage's Binding (Ravnica Allegiance)
 
 ## Vision

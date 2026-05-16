@@ -47,8 +47,12 @@ oracle_text: Haste\nLandfall — Whenever a land you control enters, this creatu
 mood: action
 time_of_day: indeterminate
 setting: mountain
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-pending
 ---
-
 # Reckless Pyrosurfer (Modern Horizons 3)
 
 ## Vision

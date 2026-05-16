@@ -48,8 +48,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - wrath-of-the-dragon-saga
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Impenetrable Defense Hirudegarn (Colossal Warfare)
 
 ## Vision

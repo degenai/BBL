@@ -22,7 +22,8 @@ appears_on:
   - pokemon/rebel-clash/037-192-galarian-mr-mime
   - pokemon/vivid-voltage/038-185-chewtle
   - pokemon/vivid-voltage/148-185-beauty
-  - pokemon/vivid-voltage/148-185-beauty--reverse-holofoilrelated_hubs: []
+  - pokemon/vivid-voltage/148-185-beauty--reverse-holofoil
+related_hubs: []
 notes: |
   Stylized lowercase rendering of the credit is intentional and consistent across
   PokemonTCG.io and printed-card credits — the artist publishes as "kirisAki" with
@@ -33,8 +34,10 @@ notes: |
   (distinct from Sanosuke Sakuma in this respect). Per artofpkm.com illustrator
   page 158 (the canonical-by-corpus citation surfaced in Beauty VIV-148 trivia
   pass, wave 15).
+tags:
+  - layer
+  - artist
 ---
-
 # kirisAki
 
 Pokemon TCG freelance illustrator working since 2013 after studying at Tokyo Designer Gakuin. Across the Sun & Moon and Sword & Shield eras, kirisAki has illustrated a substantial run of Common-through-Uncommon creature and Supporter cards. The corpus carries seven prints across five sets, spanning Crimson Invasion (Sun & Moon-era 2017) through Chilling Reign (Sword & Shield-era 2021) — a four-year span that places kirisAki among the corpus's most-repeated Pokemon-side illustrators.

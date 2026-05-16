@@ -24,8 +24,15 @@ needs_manual_review: true
 manual_review_reason: Set 'Sword & Shield Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: Its restlessness has it constantly running around. If it sees another Pokémon, it will purposely run into them in order to start a fight.
 oracle_text: "Pin Missile (Colorless) 10×: Flip 4 coins. This attack does 10 damage for each heads."
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Galarian Zigzagoon (Sword & Shield Base Set)
 
 ## Vision

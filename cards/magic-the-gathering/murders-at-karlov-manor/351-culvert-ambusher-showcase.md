@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/351-cu
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/c/2ccdc58b-1e7e-402c-88f9-c789ff1dae31.jpg?1706241967
 flavor_text: The bite at the end of the tunnel.
 oracle_text: When this creature enters or is turned face up, target creature blocks this turn if able.\nDisguise {4}{G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Culvert Ambusher (Showcase) (Murders at Karlov Manor)
 
 ## Vision

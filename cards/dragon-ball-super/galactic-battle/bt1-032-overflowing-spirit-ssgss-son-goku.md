@@ -24,6 +24,8 @@ needs_manual_review: false
 image_width: 260
 image_height: 364
 image_quality: low
+tags:
+  - card
+  - dbs
 ---
-
 # Overflowing Spirit SSGSS Son Goku (Galactic Battle)

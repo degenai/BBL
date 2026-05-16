@@ -24,6 +24,8 @@ needs_manual_review: false
 image_width: 400
 image_height: 558
 image_quality: med
+tags:
+  - card
+  - weiss
 ---
-
 # Unfortunately, it was a SAFE (Hatsune Miku -Project DIVA- f)

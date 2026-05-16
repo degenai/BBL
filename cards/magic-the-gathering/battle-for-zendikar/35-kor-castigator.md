@@ -48,8 +48,10 @@ oracle_text: This creature can't be blocked by Eldrazi Scions.
 mood: action
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
 ---
-
 # Kor Castigator (Battle for Zendikar)
 
 ## Vision

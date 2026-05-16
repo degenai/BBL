@@ -52,8 +52,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - chronoa
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Time's Judgement (Cross Worlds)
 
 ## Vision

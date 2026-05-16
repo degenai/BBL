@@ -27,6 +27,8 @@ oracle_text: "[Ability: Dark Squall] As often as you like during your turn, you 
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Hydreigon (Darkness Ablaze)

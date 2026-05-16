@@ -28,6 +28,7 @@ oracle_text: "Equipped creature gets +2/+1.\\nWhenever equipped creature deals c
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Giant's Skewer (Throne of Eldraine)

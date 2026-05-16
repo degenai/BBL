@@ -49,8 +49,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - babidi
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Babidi's Spaceship (World Martial Arts Tournament)
 
 ## Vision

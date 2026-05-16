@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/16-flicker
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/9/59e19bac-176c-4e37-bfc8-27c00de7c37f.jpg?1581479067
 flavor_text: An infinite journey in an infinitesimal time.
 oracle_text: Exile target creature or enchantment, then return it to the battlefield under its owner's control.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Flicker of Fate (Theros Beyond Death)
 
 ## Vision

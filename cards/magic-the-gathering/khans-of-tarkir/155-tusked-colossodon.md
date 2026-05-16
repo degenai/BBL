@@ -49,8 +49,10 @@ image_quality: high
 mood: peaceful
 time_of_day: day
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Tusked Colossodon (Khans of Tarkir)
 
 ## Vision

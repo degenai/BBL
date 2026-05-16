@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/99-madca
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/2/c264c4b1-40b7-4133-80b9-36d6ef60b64d.jpg?1573512198
 flavor_text: The larger the crowd, the harder it is for them to run away.
 oracle_text: Enchant creature\nEnchanted creature gets +3/+0 and has menace.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Madcap Skills (Mystery Booster Cards)
 
 ## Vision

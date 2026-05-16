@@ -51,8 +51,13 @@ ip_verified: true
 characters:
   - bulma
   - trunks
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Trunks' Time Machine (Union Force)
 
 ## Vision

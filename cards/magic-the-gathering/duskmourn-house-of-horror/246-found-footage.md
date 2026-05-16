@@ -28,6 +28,7 @@ oracle_text: "You may look at face-down creatures your opponents control any tim
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Found Footage (Duskmourn: House of Horror)

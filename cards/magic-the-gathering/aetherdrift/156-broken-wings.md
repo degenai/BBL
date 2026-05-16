@@ -51,8 +51,11 @@ art_crop_image: cards/_images/magic-the-gathering/aetherdrift/156-broken-wings--
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/d/1d7d5b71-7c1b-4fc2-a5ec-7285e17ffe0f.jpg?1738356489
 flavor_text: An early lead puts a target on your back.
 oracle_text: Destroy target artifact, enchantment, or creature with flying.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Broken Wings (Aetherdrift)
 
 ## Vision

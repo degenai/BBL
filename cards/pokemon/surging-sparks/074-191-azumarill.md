@@ -25,6 +25,8 @@ oracle_text: "[Ability: Glistening Bubbles] If you have any Tera Pokémon in pla
 image_width: 733
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Azumarill (Surging Sparks)

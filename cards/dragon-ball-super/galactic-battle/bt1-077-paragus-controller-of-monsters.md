@@ -48,8 +48,13 @@ setting: void
 suspected_ip: Paragus (Dragon Ball Z, Movie 8)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Paragus, Controller of Monsters (Galactic Battle)
 
 ## Vision

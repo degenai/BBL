@@ -46,8 +46,13 @@ setting: void
 suspected_ip: Chi-Chi (Dragon Ball)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Fateful Reunion Chi-Chi (World Martial Arts Tournament)
 
 ## Vision

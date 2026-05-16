@@ -47,8 +47,11 @@ image_quality: high
 mood: cozy
 time_of_day: day
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Goblin Maskmaker (Murders at Karlov Manor)
 
 ## Vision

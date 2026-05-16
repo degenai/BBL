@@ -51,8 +51,11 @@ oracle_text: Choose two target creatures controlled by the same opponent. That p
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Trial of Agony (Duskmourn: House of Horror)
 
 ## Vision

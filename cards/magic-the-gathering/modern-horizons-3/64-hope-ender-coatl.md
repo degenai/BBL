@@ -51,8 +51,10 @@ oracle_text: Devoid (This card has no color.)\nFlash\nWhen you cast this spell, 
 mood: horror
 time_of_day: day
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Hope-Ender Coatl (Modern Horizons 3)
 
 ## Vision

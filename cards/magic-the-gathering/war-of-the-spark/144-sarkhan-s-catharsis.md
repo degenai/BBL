@@ -29,6 +29,7 @@ oracle_text: Sarkhan's Catharsis deals 5 damage to target player or planeswalker
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Sarkhan's Catharsis (War of the Spark)

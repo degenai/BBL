@@ -51,8 +51,11 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/129-carele
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/a/bac6bdd4-b25b-41f6-835d-7d1570cdb951.jpg?1592335321
 flavor_text: \"Renata was mesmerized by the satyr's dance of gleeful indifference, of reckless grace and bright disaster.\"\n—Luphea of Setessa, *Histories*
 oracle_text: When this creature dies, it deals 2 damage to target creature or planeswalker an opponent controls.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Careless Celebrant (Theros Beyond Death)
 
 ## Vision

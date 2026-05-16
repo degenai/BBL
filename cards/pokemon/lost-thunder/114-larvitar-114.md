@@ -23,8 +23,15 @@ needs_manual_review: true
 manual_review_reason: No reference image found via pokemontcg for set 'Lost Thunder'
 characters:
   - larvitar-line
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Larvitar (114) (Lost Thunder)
 
 ## Vision

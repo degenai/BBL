@@ -48,8 +48,13 @@ subject_known_ip: true
 suspected_ip: South Supreme Kai (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Majin Defier, South Supreme Kai (Cross Worlds)
 
 ## Vision

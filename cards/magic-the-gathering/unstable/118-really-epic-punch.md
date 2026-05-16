@@ -47,8 +47,10 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Really Epic Punch (Unstable)
 
 ## Vision

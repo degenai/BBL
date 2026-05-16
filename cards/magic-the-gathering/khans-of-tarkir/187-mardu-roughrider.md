@@ -54,8 +54,10 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/187-mardu-roug
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/6/d6341345-55a6-43f3-915a-c03afea92ec3.jpg?1562794206
 flavor_text: The most ferocious saddlebrutes lead the assault, ramming through massed pikes and stout barricades as if they were paper and silk.
 oracle_text: Whenever this creature attacks, target creature can't block this turn.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Mardu Roughrider (Khans of Tarkir)
 
 ## Vision

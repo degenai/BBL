@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/fifth-edition/407-wall-of-spea
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/0/60a116c9-2f80-4e76-b158-c23f101872db.jpg?1562591334
 flavor_text: Even the most conservative generals revised their tactics after the Battle of Sarinth, during which a handful of peasant-pikemen held off a trio of rampaging craw wurms.
 oracle_text: Defender (This creature can't attack.)\nFirst strike
+tags:
+  - card
+  - vision-passed
 ---
-
 # Wall of Spears (Fifth Edition)
 
 ## Vision

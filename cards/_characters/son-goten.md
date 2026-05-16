@@ -33,8 +33,10 @@ ip_resolution_for:
   - Goten
   - Kid Goten
   - Gotenks (Goten-half of the fusion)
+tags:
+  - layer
+  - character
 ---
-
 # Son Goten
 
 The canonical younger son of Son Goku and Chi-Chi, the franchise's youngest-known Super Saiyan, and the canonical *Dragon Ball Z* Buu-Saga child-protagonist whose seven-year-old transformation milestone is one of Toriyama's clearest in-canon statements about the *generational diminishment of crisis-required-to-transform* design device. Introduced in Dragon Ball Z manga chapter 424 (1993, Akira Toriyama, Shueisha) as the seven-year-old child Gohan first encounters after returning home from his Cell-Saga absence, Goten is canonically conceived during Goku's brief return for the Cell Games (Age 767) and born nine months posthumously after Goku's death-sacrifice to relocate Cell off Earth — making him uniquely the franchise's canonical *posthumously-conceived son of a dead father whose first meeting with that father occurs after seven years of paternal absence* protagonist register. Across the Buu Saga and the 25th World Martial Arts Tournament arc Goten progresses through the franchise's most-developed *Junior-Division-as-rough-and-tumble-counterweight-to-the-Babidi-crisis* narrative-arc: child-protagonist Junior Division finalist with Trunks (the canonical Tiny Rivals pairing), Mighty-Mask-disguise adult-division infiltrator (the canonical adult-tournament-cheating-via-costume scheme), Hyperbolic Time Chamber Fusion-Dance trainee under Piccolo, and the Gotenks-combined-form Super-Saiyan-3 dual-component partner with Trunks. Across forty years of franchise output the character has been re-instantiated into substantively-distinct named registers whose visual identifiers, canonical age, costume, and Fusion-Dance-state are designer-coordinated for Bandai's card-game character-tag field to disambiguate per-print.

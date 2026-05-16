@@ -49,8 +49,10 @@ image_quality: high
 mood: horror
 time_of_day: day
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Territory Culler (Modern Horizons 3)
 
 ## Vision

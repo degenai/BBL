@@ -49,8 +49,12 @@ setting: void
 suspected_ip: "Voltorb (#100)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Voltorb (Evolutions)
 
 ## Vision

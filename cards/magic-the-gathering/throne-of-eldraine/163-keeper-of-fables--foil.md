@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/163-keeper-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/7/6754d6cf-3506-48b5-a0ef-8a90b8dd2701.jpg?1572490595
 flavor_text: \"Only the lion knows more stories than I do.\"\n—Chulane, Teller of Tales
 oracle_text: Whenever one or more non-Human creatures you control deal combat damage to a player, draw a card.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Keeper of Fables (Throne of Eldraine)
 
 ## Vision

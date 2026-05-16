@@ -27,6 +27,8 @@ oracle_text: "Recover (Colorless): Discard an Energy from this Pokémon and heal
 image_width: 868
 image_height: 1212
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Frillish (Battle Styles)

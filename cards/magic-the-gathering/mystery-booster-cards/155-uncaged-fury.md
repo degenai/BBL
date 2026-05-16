@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/155-unca
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/1/b18646ff-c8ff-4541-b22c-f12122d74754.jpg?1573512783
 flavor_text: \"It's right to fear those that you keep locked away.\"\n—Rahilda, Vildin-Pack alpha
 oracle_text: Target creature gets +1/+1 and gains double strike until end of turn.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Uncaged Fury (Mystery Booster Cards)
 
 ## Vision

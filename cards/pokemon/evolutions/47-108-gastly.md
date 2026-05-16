@@ -27,6 +27,8 @@ oracle_text: "Little Grudge (Psychic): During your opponent's next turn, if this
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Gastly (Evolutions)

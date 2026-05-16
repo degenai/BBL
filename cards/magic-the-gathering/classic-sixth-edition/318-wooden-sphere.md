@@ -49,8 +49,10 @@ artist: Donato Giancola
 art_crop_image: cards/_images/magic-the-gathering/classic-sixth-edition/318-wooden-sphere--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/f/ef706d86-6e7f-4f3a-9e4d-8aa6d9aac74a.jpg?1562824402
 oracle_text: Whenever a player casts a green spell, you may pay {1}. If you do, you gain 1 life.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Wooden Sphere (Classic: Sixth Edition)
 
 ## Vision

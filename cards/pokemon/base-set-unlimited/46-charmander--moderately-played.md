@@ -26,8 +26,15 @@ flavor_text: The flame on its tail indicates Charmander's life force. If it is h
 oracle_text: "Reckless Charge (Colorless) 20: This Pokémon does 10 damage to itself."
 characters:
   - charizard-line
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Charmander (Base Set (Unlimited))
 
 ## Vision

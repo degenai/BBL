@@ -47,8 +47,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - babidi
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Pui Pui, Magician's Lackey (World Martial Arts Tournament)
 
 ## Vision

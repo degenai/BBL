@@ -54,8 +54,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/219-hero-o
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/8/9854e673-1816-4a76-b9db-bb399ac7489f.jpg?1581481079
 flavor_text: Heroic deeds inspire new heroes.
 oracle_text: When this creature enters, create a 1/1 white Human Soldier creature token.\nWhenever you cast a spell that targets this creature, creatures you control get +1/+0 until end of turn.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Hero of the Nyxborn (Theros Beyond Death)
 
 ## Vision

@@ -42,8 +42,12 @@ oracle_text: Search your deck for a basic Energy card, reveal it, and put it int
 mood: other
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Energy Spinner (Unbroken Bonds)
 
 ## Vision

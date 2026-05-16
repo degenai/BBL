@@ -46,8 +46,13 @@ oracle_text: Switch your Active Pokémon with 1 of your Benched Pokémon. If you
 mood: peaceful
 time_of_day: day
 setting: other
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Bird Keeper (Darkness Ablaze)
 
 ## Vision

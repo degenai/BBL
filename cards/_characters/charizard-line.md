@@ -27,8 +27,10 @@ related_characters:
   - galar-gym-challenge
   - staraptor-line
 ip_resolution_for: charizard-line
+tags:
+  - layer
+  - character
 ---
-
 # Charizard evolutionary line (Charmander / Charmeleon / Charizard)
 
 A three-stage Fire-type evolutionary line and one of the three original Kanto starter trios introduced in Pokemon Red and Blue (Game Freak / Creatures Inc. / Nintendo, 1996), alongside the Bulbasaur and Squirtle lines. The line comprises **Charmander** (National Pokedex no. 004, Fire-type, base form, the small bipedal flame-tailed lizard offered as a starter by Professor Oak), **Charmeleon** (no. 005, Fire-type, Stage 1, evolves from Charmander at level 16, the larger and canonically combative middle stage), and **Charizard** (no. 006, Fire/Flying-type, Stage 2, evolves from Charmeleon at level 36, the winged dragon-form apex). Charizard's gain of the Flying type on final evolution is one of only two cases among the original three Kanto starter lines where the final stage acquires a second type (the other being Venusaur's Grass/Poison line keeping its base typing — Charizard is the *unique* original Kanto starter that adds a new type on final evolution, as Squirtle/Wartortle/Blastoise remains pure Water across all three stages). The tail-flame is the line's most-cited diagnostic feature: per Pokedex canon, the flame's intensity reads the Pokemon's life force, and the flame burning out would be fatal to the species across all three stages.

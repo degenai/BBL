@@ -48,8 +48,11 @@ image_quality: high
 mood: sublime
 time_of_day: sunset
 setting: desert
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Back on Track (Aetherdrift)
 
 ## Vision

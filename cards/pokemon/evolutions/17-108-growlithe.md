@@ -49,8 +49,12 @@ setting: mountain
 suspected_ip: "Growlithe (#058)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Growlithe (Evolutions)
 
 ## Vision

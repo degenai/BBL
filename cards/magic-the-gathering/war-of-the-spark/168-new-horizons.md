@@ -49,8 +49,10 @@ artist: Eytan Zana
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/168-new-horizons--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/2/02c521da-677e-43b9-b5fe-c84dc64e66ec.jpg?1557576954
 oracle_text: "Enchant land\\nWhen this Aura enters, put a +1/+1 counter on target creature you control.\\nEnchanted land has \\\"{T}: Add two mana of any one color.\\\""
+tags:
+  - card
+  - vision-passed
 ---
-
 # New Horizons (War of the Spark)
 
 ## Vision

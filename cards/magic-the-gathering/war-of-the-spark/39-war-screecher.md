@@ -29,6 +29,7 @@ oracle_text: "Flying\\n{5}{W}, {T}: Other creatures you control get +1/+1 until 
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # War Screecher (War of the Spark)

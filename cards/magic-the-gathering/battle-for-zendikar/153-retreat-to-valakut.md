@@ -49,8 +49,11 @@ image_quality: high
 mood: sublime
 time_of_day: indeterminate
 setting: mountain
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Retreat to Valakut (Battle for Zendikar)
 
 ## Vision

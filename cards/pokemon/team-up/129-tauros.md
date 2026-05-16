@@ -46,8 +46,12 @@ oracle_text: "Raging Herd (ColorlessColorless) 10+: This attack does 10 more dam
 mood: action
 time_of_day: day
 setting: mountain
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Tauros (Team Up)
 
 ## Vision

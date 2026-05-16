@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/166-suns
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/3/93165cd6-7a6b-40e6-83fa-97575a03bbb5.jpg?1573517498
 flavor_text: Decades to build. Hours to demolish.
 oracle_text: "This artifact enters with three brick counters on it.\\n{2}, {T}, Remove a brick counter from this artifact: Draw a card.\\n{2}, {T}: Scry 1."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Sunset Pyramid (Mystery Booster Cards)
 
 ## Vision

@@ -50,8 +50,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - galar-starters-trio
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Rillaboom (Chilling Reign)
 
 ## Vision

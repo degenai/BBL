@@ -32,8 +32,10 @@ ip_resolution_for:
   - Xeno Bardock
   - Masked Saiyan
   - Time Breaker Bardock
+tags:
+  - layer
+  - character
 ---
-
 # Bardock
 
 The canonical father of Son Goku — a low-class Saiyan warrior, mate of Gine, member of a four-Saiyan planet-clearing strike team under Frieza's empire, and one of the franchise's earliest fully-developed *worker-killed-by-his-employer* tragic-protagonist figures. Introduced into canon via the Toei Animation TV special *Dragon Ball Z: Bardock — The Father of Goku* (1990, written by Takao Koyama, directed by Mitsuo Hashimoto), which depicts his canonical last stand: after acquiring precognitive visions of Frieza's Supernova-based genocide of the Saiyan race, Bardock attempts to rally his fellow Saiyans against Frieza, is dismissed as a lunatic, and ultimately flies alone against Frieza's flagship to confront the Emperor — where he is canonically obliterated alongside the entire Saiyan workforce by Frieza's Supernova energy ball in Age 737. The 1990 special's closing image — Bardock's final smile as the Supernova consumes him, intercut with infant Kakarot already in his escape pod en route to Earth — is one of the franchise's most-cited single-arc tragic-resolution sequences, retroactively integrated into Toriyama's main manga canon via *Dragon Ball Minus* (2014) and *Dragon Ball Super: Broly* (2018).

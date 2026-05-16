@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/148-turret-og
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/b/8b5f624f-c5eb-4150-b36e-6147b440ff56.jpg?1566396509
 flavor_text: "Common Gruul career aspirations: berserker, shaman, catapult."
 oracle_text: Reach (This creature can block creatures with flying.)\nWhen this creature enters, if you control another creature with power 4 or greater, this creature deals 2 damage to each opponent.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Turret Ogre (War of the Spark)
 
 ## Vision

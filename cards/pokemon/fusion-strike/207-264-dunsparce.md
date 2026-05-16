@@ -48,8 +48,13 @@ setting: other
 suspected_ip: Dunsparce (Pokémon)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Dunsparce (Fusion Strike)
 
 ## Vision

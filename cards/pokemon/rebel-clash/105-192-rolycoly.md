@@ -48,8 +48,13 @@ subject_known_ip: true
 suspected_ip: Rolycoly
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Rolycoly (Rebel Clash)
 
 ## Vision

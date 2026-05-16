@@ -27,6 +27,8 @@ oracle_text: "Continuous Slash (Grass) 20×: Flip a coin until you get tails. Th
 image_width: 868
 image_height: 1212
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Fomantis (Battle Styles)

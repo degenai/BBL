@@ -50,8 +50,10 @@ artist: Svetlin Velinov
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/184-garruk-s-gorehorn--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/9/3928bbce-87b7-4b28-9af4-20362935c909.jpg?1594736993
 flavor_text: "\\\"It certainly takes after its master: big and brutish, and you can smell it from a mile away.\\\"\\n—Liliana Vess"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Garruk's Gorehorn (Core Set 2021)
 
 ## Vision

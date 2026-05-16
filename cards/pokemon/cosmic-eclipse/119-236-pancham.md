@@ -51,8 +51,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - pancham-line
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Pancham (Cosmic Eclipse)
 
 ## Vision

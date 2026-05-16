@@ -50,8 +50,11 @@ image_quality: high
 mood: grim
 time_of_day: day
 setting: desert
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Vestige of Emrakul (Battle for Zendikar)
 
 ## Vision

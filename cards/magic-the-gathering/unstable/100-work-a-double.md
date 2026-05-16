@@ -48,8 +48,10 @@ image_quality: high
 mood: comedic
 time_of_day: sunset
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Work a Double (Unstable)
 
 ## Vision

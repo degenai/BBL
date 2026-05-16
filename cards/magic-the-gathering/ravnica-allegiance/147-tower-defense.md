@@ -49,8 +49,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: urban
+tags:
+  - card
+  - vision-passed
 ---
-
 # Tower Defense (Ravnica Allegiance)
 
 ## Vision

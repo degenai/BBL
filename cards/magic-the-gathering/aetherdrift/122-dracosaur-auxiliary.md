@@ -51,8 +51,11 @@ oracle_text: "Flying, haste\\nWhenever this creature attacks while saddled, it d
 mood: action
 time_of_day: magic-hour
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Dracosaur Auxiliary (Aetherdrift)
 
 ## Vision

@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/195-renegade
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/d/7dfa0e65-1ce0-4f8e-a78b-2ade2d25e748.jpg?1608910360
 flavor_text: \"Nothing against you. It's just that waiting for Consulate clearance was never really my thing.\"
 oracle_text: Target creature can't block this turn.\nDraw a card.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Renegade Tactics (Commander Legends)
 
 ## Vision

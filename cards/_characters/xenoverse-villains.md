@@ -32,8 +32,10 @@ related_characters:
   - trunks
   - bardock
 ip_resolution_for: xenoverse-villains
+tags:
+  - layer
+  - character
 ---
-
 # Xenoverse Villains (Time Breakers / Dragon Ball Xenoverse antagonist cohort)
 
 The principal antagonist coalition of *Dragon Ball Xenoverse* (Bandai Namco / Dimps, 2015) and *Dragon Ball Xenoverse 2* (2016), known in-canon as the **Time Breakers** — a faction of dark-energy temporal saboteurs whose stated goal is to corrupt key moments in Dragon Ball history (the Saiyan saga, the Frieza saga, the Cell saga, the Buu saga, and beyond) so that the timeline collapses into a version where their mastermind, **Demigra**, escapes the Crack of Time prison that the Supreme Kai of Time (Chronoa) sealed him in 75 million years ago. The three named members are **Demigra** (the imprisoned demonic magician orchestrating from the Crack of Time, freed by player-protagonist failure conditions in Xenoverse 1's main story), **Towa** (a Demon Realm scientist-witch and Demigra's loyal operative who manufactures Mira and deploys the dark-energy mind-control tech that turns canonical heroes against each other across timelines), and **Mira** (Towa's bio-engineered ultimate-fighter combining Saiyan, Majin, android, and human genetic templates — Towa's "son" by some readings, her constructed-weapon by others). The faction's narrative engine is **history-as-battleground**: every canonical Dragon Ball arc gets replayed with Time Breaker interference, and the Time Patrol (the player-character institution) restores the canon by overcoming the corrupted-history villains.

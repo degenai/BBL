@@ -49,8 +49,11 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: urban
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Get a Leg Up (Murders at Karlov Manor)
 
 ## Vision

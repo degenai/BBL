@@ -31,6 +31,9 @@ related_characters:
   - galar-gym-challenge
   - alolan-regional-forms
 ip_resolution_for: galarian-regional-forms
+tags:
+  - layer
+  - character
 ---
 # Galarian regional forms
 

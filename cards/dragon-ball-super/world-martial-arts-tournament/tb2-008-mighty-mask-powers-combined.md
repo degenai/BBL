@@ -52,8 +52,13 @@ subject_known_ip: true
 suspected_ip: Mighty Mask (Trunks + Goten in disguise) — Dragon Ball Z / Dragon Ball Super
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Mighty Mask, Powers Combined (World Martial Arts Tournament)
 
 ## Vision

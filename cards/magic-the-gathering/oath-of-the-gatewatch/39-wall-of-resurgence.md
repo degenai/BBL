@@ -48,8 +48,10 @@ image_quality: high
 mood: sublime
 time_of_day: day
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Wall of Resurgence (Oath of the Gatewatch)
 
 ## Vision

@@ -49,8 +49,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - baby-dbgt
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Revenge Death Ball (Colossal Warfare)
 
 ## Vision

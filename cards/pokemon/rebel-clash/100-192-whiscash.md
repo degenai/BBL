@@ -27,6 +27,8 @@ oracle_text: "[Ability: Submerge] As long as this Pokémon is on your Bench, pre
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Whiscash (Rebel Clash)

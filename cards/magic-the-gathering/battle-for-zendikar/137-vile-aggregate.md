@@ -51,8 +51,11 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: desert
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Vile Aggregate (Battle for Zendikar)
 
 ## Vision

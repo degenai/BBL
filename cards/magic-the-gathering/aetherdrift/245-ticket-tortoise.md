@@ -29,6 +29,7 @@ oracle_text: "Defender\\nWhen this creature enters, if an opponent controls more
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Ticket Tortoise (Aetherdrift)

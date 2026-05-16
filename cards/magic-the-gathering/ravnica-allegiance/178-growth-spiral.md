@@ -49,8 +49,11 @@ image_quality: high
 mood: sublime
 time_of_day: night
 setting: forest
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Growth Spiral (Ravnica Allegiance)
 
 ## Vision

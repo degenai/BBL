@@ -46,8 +46,12 @@ setting: other
 suspected_ip: Chi-Chi (Dragon Ball)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - ip-pending
 ---
-
 # Martial Daughter Chi-Chi (World Martial Arts Tournament)
 
 ## Vision

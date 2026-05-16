@@ -24,6 +24,8 @@ needs_manual_review: false
 image_width: 399
 image_height: 558
 image_quality: low
+tags:
+  - card
+  - weiss
 ---
-
 # "StepxStep!" Kasumi Toyama (Parallel Foil) (Poppin’Party x Roselia)

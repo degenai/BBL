@@ -49,8 +49,10 @@ artist: Franz Vohwinkel
 art_crop_image: cards/_images/magic-the-gathering/scars-of-mirrodin/191-panic-spellbomb--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/9/e9a29832-8630-498a-9ac3-bc709a6dc95d.jpg?1562824575
 oracle_text: "{T}, Sacrifice this artifact: Target creature can't block this turn.\\nWhen this artifact is put into a graveyard from the battlefield, you may pay {R}. If you do, draw a card."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Panic Spellbomb (Scars of Mirrodin)
 
 ## Vision

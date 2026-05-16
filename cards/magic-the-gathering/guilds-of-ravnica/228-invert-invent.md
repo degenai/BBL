@@ -49,8 +49,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Invert // Invent (Guilds of Ravnica)
 
 ## Vision

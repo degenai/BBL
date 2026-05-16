@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/165-kraul-sti
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/6/46b88fe9-2450-47ee-ac1e-bbbccbf5684f.jpg?1680225502
 flavor_text: He listens to the sounds of battle filtering down from above, waiting for silence, waiting for his time to claim the streets.
 oracle_text: Deathtouch
+tags:
+  - card
+  - vision-passed
 ---
-
 # Kraul Stinger (War of the Spark)
 
 ## Vision

@@ -23,8 +23,10 @@ appears_on:
 related_hubs: []
 related_symbols: "[rooms, eerie, manifest-dread, survival]"
 ip_resolution_for: valgavoth
+tags:
+  - layer
+  - character
 ---
-
 # Valgavoth
 
 The malevolent moth-demon intelligence who consumed the plane of Duskmourn from inside out — devouring its two suns, growing the House to swallow the world, ruling the trapped survivor population as both jailer and food source. Set-defining antagonist of *Duskmourn: House of Horror* (DSK, 2024-09-27). Has two named card printings — **Valgavoth, Terror Eater** (DSK-120, mythic) and **Valgavoth, Harrower of Souls** (Duskmourn Commander DSC-6, mythic) — neither currently in BBL inventory. Documented in the corpus through dense referential coverage: flavor-text appearances, set-context citations, narrative agency in story-spotlight cards, and iconographic opposition (the Glimmer subtype is canonically the survivors' defense against him).

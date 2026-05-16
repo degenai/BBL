@@ -52,8 +52,10 @@ artist: Raoul Vitale
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/187-gnarled-sage--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/f/5f22116a-8b6a-4bbe-999f-7329e1e2b2d9.jpg?1594737027
 oracle_text: Reach (This creature can block creatures with flying.)\nAs long as you've drawn two or more cards this turn, this creature gets +0/+2 and has vigilance. (Attacking doesn't cause it to tap.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Gnarled Sage (Core Set 2021)
 
 ## Vision

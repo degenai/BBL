@@ -27,6 +27,8 @@ oracle_text: "[Ability: Mind Report] When you play this Pokémon from your hand 
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Mewtwo (Unbroken Bonds)

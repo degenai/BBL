@@ -48,8 +48,13 @@ setting: other
 suspected_ip: Mercenary Tao (Dragon Ball)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Mercenary Tao, Trading Moves (World Martial Arts Tournament)
 
 ## Vision

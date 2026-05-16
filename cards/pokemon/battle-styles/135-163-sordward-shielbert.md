@@ -47,8 +47,13 @@ subject_known_ip: true
 suspected_ip: Sordward & Shielbert (Pokemon Sword and Shield)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Sordward & Shielbert (Battle Styles)
 
 ## Vision

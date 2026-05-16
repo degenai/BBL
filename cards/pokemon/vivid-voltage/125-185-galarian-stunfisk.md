@@ -27,6 +27,8 @@ oracle_text: "[Ability: Counterattack] If this Pokémon is in the Active Spot an
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Galarian Stunfisk (Vivid Voltage)

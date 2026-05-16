@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/159-shock--art.j
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/9/59fa8e8d-bcb8-47bf-b71a-df11c8d0f2c9.jpg?1641847379
 flavor_text: \"The beauty of it is they never see it coming. Ever.\"\n—Razzix, sparkmage
 oracle_text: Shock deals 2 damage to any target.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Shock (Core Set 2021)
 
 ## Vision

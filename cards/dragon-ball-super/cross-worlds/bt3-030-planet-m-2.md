@@ -48,8 +48,13 @@ subject_known_ip: true
 suspected_ip: Planet M-2 (Dragon Ball GT)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Planet M-2 (Cross Worlds)
 
 ## Vision

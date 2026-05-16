@@ -49,8 +49,11 @@ oracle_text: "Destroy target artifact.\\nCycling {R} ({R}, Discard this card: Dr
 mood: action
 time_of_day: night
 setting: desert
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Skycrash (Aetherdrift)
 
 ## Vision

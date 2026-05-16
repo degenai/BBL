@@ -48,8 +48,10 @@ oracle_text: "Menace\\n{1}, Sacrifice another artifact or creature: Put a +1/+1 
 mood: horror
 time_of_day: night
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Dreadmobile (Modern Horizons 3)
 
 ## Vision

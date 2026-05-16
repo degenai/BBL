@@ -50,8 +50,11 @@ image_quality: high
 mood: horror
 time_of_day: day
 setting: void
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Consuming Sinkhole (Oath of the Gatewatch)
 
 ## Vision

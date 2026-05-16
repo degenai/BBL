@@ -24,8 +24,10 @@ related_characters:
   - staraptor-line
   - charizard-line
 ip_resolution_for: mareep-line
+tags:
+  - layer
+  - character
 ---
-
 # Mareep evolutionary line (Mareep / Flaaffy / Ampharos)
 
 A three-stage Electric-type evolutionary line and the canonical Johto-region Electric-sheep line introduced in Pokemon Gold and Silver (Game Freak / Creatures Inc. / Nintendo, 1999). The line comprises **Mareep** (National Pokedex no. 179, Electric-type, base form, the "Wool Pokemon" first encountered on Route 32 outside Violet City), **Flaaffy** (no. 180, Electric-type, Stage 1, evolves from Mareep at level 15, the "Wool Pokemon" at the mid-evolution stage where its fleece has begun to thin into bald patches as charge storage increases), and **Ampharos** (no. 181, Electric-type, Stage 2, evolves from Flaaffy at level 30, the "Light Pokemon" whose glowing tail-tip canonically functions as a lighthouse beacon for sea lanes). The line is one of the franchise's two clearest examples of Pokedex flavor encoding species biology as a literal cost-of-power motif (the other being the Slugma line's geothermal scarring): Flaaffy's printed Pokedex text describes the wool falling out in patches as a direct physical consequence of storing too much electricity, with the species compensating by developing rubber-like insulating skin. In Generation VI (Pokemon X and Y, 2013), Ampharos received a Mega Evolution that gains a secondary Dragon typing and an extravagant mane of pink wool — Mega Ampharos is among Generation II's most-cited Mega Evolutions, both for its dramatic visual departure from base Ampharos and for its Dragon-typing surprise. The line's competitive identity is its Static / Plus / Mold Breaker (Mega) ability triplet across the three stages, with Ampharos's signature attack across the mainline games being Thunder or Discharge depending on era. The Pokedex characterization of the line as electrified-livestock at base and lighthouse-keeper at apex is the line's most-cited narrative arc: a designer-coordinated pastoral-to-industrial transition rendered as a species-level evolution event.

@@ -54,8 +54,11 @@ subject_known_ip: true
 suspected_ip: Avacyn
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # The Creation of Avacyn (Modern Horizons 3)
 
 ## Vision

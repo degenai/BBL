@@ -47,8 +47,12 @@ oracle_text: Search your deck for up to 3 Pokémon V, reveal them, and put them 
 mood: action
 time_of_day: day
 setting: forest
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Adventurer's Discovery (Fusion Strike)
 
 ## Vision

@@ -57,8 +57,11 @@ oracle_text: Survival — At the beginning of your second main phase, if this cr
 mood: other
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Glimmer Seeker (Duskmourn: House of Horror)
 
 ## Vision

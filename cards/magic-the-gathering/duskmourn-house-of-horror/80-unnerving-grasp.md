@@ -47,8 +47,11 @@ time_of_day: indeterminate
 setting: indoor
 symbols:
   - manifest-dread
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Unnerving Grasp (Duskmourn: House of Horror)
 
 ## Vision

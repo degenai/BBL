@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/200-setess
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/6/46739993-6afe-428d-bf63-b57649e38a65.jpg?1581480900
 flavor_text: Bassara, the tower of the fox, houses the elite skirmishers who guard the Nessian Wood against trespassers.
 oracle_text: Constellation — Whenever an enchantment you control enters, this creature gets +1/+1 until end of turn.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Setessan Skirmisher (Theros Beyond Death)
 
 ## Vision

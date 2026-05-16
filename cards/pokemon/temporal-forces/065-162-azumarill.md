@@ -27,6 +27,8 @@ oracle_text: "Play Rough (Colorless) 30+: Flip a coin. If heads, this attack doe
 image_width: 733
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Azumarill (Temporal Forces)

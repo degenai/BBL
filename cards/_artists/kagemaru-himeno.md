@@ -41,8 +41,10 @@ notes: |
   appears_on (above) and flagged here as needing reconciliation in a future
   triviabot or janitor pass. The other six credits are unambiguous and
   consistently stamped.
+tags:
+  - layer
+  - artist
 ---
-
 # Kagemaru Himeno
 
 Pokemon TCG freelance illustrator. One of the longest-tenured artists in the entire franchise, working continuously since the Jungle set (Japanese release 1996, English release 1999). As of 2024, she had illustrated 654+ Pokemon TCG cards including reprints, placing her among a small handful of illustrators whose career spans the entire TCG's existence. Her signature medium is watercolor; her signature technique is soft tonal washes punctuated with bright pinpoint highlights and characteristic white flecks suggesting dappled light filtering through foliage.

@@ -47,8 +47,10 @@ image_quality: high
 mood: comedic
 time_of_day: day
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Mother Kangaroo (Unstable)
 
 ## Vision

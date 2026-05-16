@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2019/243-rogue-s-glov
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/c/1c3c7d24-7d5c-49de-b9f8-35c6d6c8c52a.jpg?1562300764
 flavor_text: Thievery requires subtlety, from the beginning of the heist to the end.
 oracle_text: "Whenever equipped creature deals combat damage to a player, you may draw a card.\\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Rogue's Gloves (Core Set 2019)
 
 ## Vision

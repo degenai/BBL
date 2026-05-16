@@ -29,6 +29,7 @@ oracle_text: "{T}: Add one mana of any color.\\n{5}, {T}: Tap target creature."
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Spinning Wheel (Throne of Eldraine)

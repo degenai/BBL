@@ -50,8 +50,10 @@ artist: Mathias Kollros
 art_crop_image: cards/_images/magic-the-gathering/magic-2014-m14/218-sliver-construct--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/1/3129645a-221c-4eb5-88fd-12cc742a1dfe.jpg?1562827665
 flavor_text: Slivers destroy those who come close to the Skep, the central hive. Shards of torn metal litter the ground as a warning to any artificers inquisitive about the hive's inner workings.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Sliver Construct (Magic 2014 (M14))
 
 ## Vision

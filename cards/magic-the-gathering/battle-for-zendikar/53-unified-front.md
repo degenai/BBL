@@ -48,8 +48,10 @@ oracle_text: Converge — Create a 1/1 white Kor Ally creature token for each co
 mood: grim
 time_of_day: night
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Unified Front (Battle for Zendikar)
 
 ## Vision

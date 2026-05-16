@@ -53,8 +53,12 @@ setting: indoor
 suspected_ip: ""
 ip_confidence: none
 ip_verified: true
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Soul Enervation (Murders at Karlov Manor)
 
 ## Vision

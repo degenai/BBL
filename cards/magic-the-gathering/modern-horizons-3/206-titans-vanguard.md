@@ -52,8 +52,10 @@ oracle_text: Devoid (This card has no color.)\nWhen you cast this spell and when
 mood: action
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Titans' Vanguard (Modern Horizons 3)
 
 ## Vision

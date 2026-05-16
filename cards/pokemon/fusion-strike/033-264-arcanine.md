@@ -27,6 +27,8 @@ oracle_text: "Fire Claws (Fire) 40\\nHeat Tackle (FireFireColorless) 160: This P
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Arcanine (Fusion Strike)

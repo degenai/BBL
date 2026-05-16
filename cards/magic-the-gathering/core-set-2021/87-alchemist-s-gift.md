@@ -49,8 +49,10 @@ artist: Cristi Balanescu
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/87-alchemist-s-gift--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/e/6e4c9574-1ee3-461e-848f-8f02c6a8b7ee.jpg?1594735950
 oracle_text: Target creature gets +1/+1 and gains your choice of deathtouch or lifelink until end of turn. (Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it. Damage dealt by a creature with lifelink also causes its controller to gain that much life.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Alchemist's Gift (Core Set 2021)
 
 ## Vision

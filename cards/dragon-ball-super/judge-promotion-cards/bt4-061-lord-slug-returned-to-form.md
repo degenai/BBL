@@ -47,8 +47,13 @@ setting: space
 suspected_ip: Lord Slug
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Lord Slug, Returned to Form (Judge Promotion Cards)
 
 ## Vision

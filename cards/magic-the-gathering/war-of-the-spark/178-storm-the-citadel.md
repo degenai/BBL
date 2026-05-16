@@ -29,6 +29,7 @@ oracle_text: Until end of turn, creatures you control get +2/+2 and gain \"Whene
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Storm the Citadel (War of the Spark)

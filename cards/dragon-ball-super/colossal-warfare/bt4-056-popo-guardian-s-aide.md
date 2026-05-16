@@ -51,8 +51,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - namekian
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Popo, Guardian's Aide (Colossal Warfare)
 
 ## Vision

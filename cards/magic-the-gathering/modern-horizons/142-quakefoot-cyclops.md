@@ -46,8 +46,10 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Quakefoot Cyclops (Modern Horizons)
 
 ## Vision

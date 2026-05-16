@@ -47,8 +47,10 @@ image_quality: high
 mood: grim
 time_of_day: night
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Ardenvale Paladin (Throne of Eldraine)
 
 ## Vision

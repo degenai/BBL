@@ -35,8 +35,10 @@ related_characters:
   - izzet-league
   - orzhov-syndicate
 ip_resolution_for: agency
+tags:
+  - layer
+  - character
 ---
-
 # The Agency (R.A.M.I.)
 
 The **Ravnican Agency of Magicological Investigations** — R.A.M.I. for short, "the Agency" in conversational Ravnican — is the cross-guild detective bureau introduced as the lens-faction of *Murders at Karlov Manor* (2024). Founded centuries before the New Phyrexian Invasion of Ravnica by the archon **Ezrim**, who broke off from the Azorius to start a truth-cult that aided people and investigated mysteries without guild-bias tainting its findings. The cult grew slowly across centuries; after the Phyrexian Invasion in 4562 AR, demand spiked and Ezrim transformed it into the Agency, recruiting defectors from all ten guilds and Azorius-trained detectives like the acclaimed Alquist Proft. The R.A.M.I. badge incorporates the Ravnican skyline with an all-seeing eye; its headquarters is a giant floating eye-shaped edifice that hovers over the plane. Mechanically the Agency is the canonical home of the **Detective** creature subtype (introduced in MKM, 85+ prints across the set and reprints) and the **Case** enchantment subtype (the Cases-to-be-solved cycle).

@@ -52,8 +52,10 @@ oracle_text: "Investigate. Creatures your opponents control get -2/-0 until end 
 mood: grim
 time_of_day: night
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Eliminate the Impossible (Murders at Karlov Manor)
 
 ## Vision

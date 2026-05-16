@@ -54,8 +54,12 @@ setting: other
 suspected_ip: Cri-Kee (Mulan)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - ip-pending
 ---
-
 # Cri-Kee - Part of the Team (Reign of Jafar)
 
 ## Vision

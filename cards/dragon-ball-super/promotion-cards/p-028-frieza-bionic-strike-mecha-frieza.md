@@ -48,8 +48,13 @@ setting: void
 suspected_ip: Frieza
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Frieza // Bionic Strike Mecha Frieza (Promotion Cards)
 
 ## Vision

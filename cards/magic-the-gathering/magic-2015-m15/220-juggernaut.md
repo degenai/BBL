@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/magic-2015-m15/220-juggernaut-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/b/7bc014e5-21a3-4023-a8ed-61329a96fb4e.jpg?1562789662
 flavor_text: Many a besieged city has surrendered upon hearing the distinctive rumble of the juggernaut.
 oracle_text: This creature attacks each combat if able.\nThis creature can't be blocked by Walls.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Juggernaut (Magic 2015 (M15))
 
 ## Vision

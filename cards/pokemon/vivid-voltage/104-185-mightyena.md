@@ -27,6 +27,8 @@ oracle_text: "Ferocious Bellow (Darkness) 20: During your opponent's next turn, 
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Mightyena (Vivid Voltage)

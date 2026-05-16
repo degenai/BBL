@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/22-makeshift-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/2/82293d58-d3b4-4cf6-8a16-32ae3e509696.jpg?1557576006
 flavor_text: Their ranks are thin, their formation is improvised, their weapons are borrowed, and you'd best get out of their way.
 oracle_text: Battalion — Whenever this creature and at least two other creatures attack, put a +1/+1 counter on this creature.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Makeshift Battalion (War of the Spark)
 
 ## Vision

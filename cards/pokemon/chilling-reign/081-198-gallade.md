@@ -27,6 +27,8 @@ oracle_text: "Feint (Psychic) 60: This attack's damage isn't affected by Resista
 image_width: 868
 image_height: 1212
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Gallade (Chilling Reign)

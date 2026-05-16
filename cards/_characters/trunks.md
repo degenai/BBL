@@ -44,8 +44,10 @@ related_characters:
   - namekian
   - son-gohan
 ip_resolution_for: trunks
+tags:
+  - layer
+  - character
 ---
-
 # Trunks
 
 Half-Saiyan / half-Earthling son of Vegeta and Bulma, introduced in *Dragon Ball Z* (Akira Toriyama, 1991) as the time-traveling warrior from the Cell-saga-future timeline. Across three decades of Dragon Ball franchise output the character has been re-instantiated into four distinct named incarnations whose visual identifiers, canonical age, costume, and continuity-strand are designer-coordinated to be told apart: **Future Trunks** (Z-canon, the original; lavender-blue hair, blue gi or dark vest, Brave Sword across most of the Cell-future-timeline arc; reframed in Dragon Ball Super's Future Trunks Saga, 2016, with a red scarf and short blue-tinted hair); **Kid Trunks** (the present-timeline child Trunks raised on Earth by Bulma and Vegeta, canonically co-existing with adult Future Trunks during *Dragon Ball Z*'s Cell Saga; the Buu-Saga Junior Tournament cohort partner with Son Goten); **GT Trunks** (Toei's Dragon Ball GT continuation, 1996-1997; adult Capsule Corporation president, purple hair retained per Toei's original coloring, brown open jacket over blue gi, pulled by Goku and Pan into the Black Star Dragon Ball recovery quest); and **Trunks: Xeno** (Bandai's Xenoverse and Super Dragon Ball Heroes continuity, 2015 onward; the Time Patrol lieutenant recruited by Chronoa, Supreme Kai of Time, after the Cell defeat in his own timeline — a non-Toriyama-canon expansion that the Dragon Ball Super Card Game has heavily anchored its Xeno-faction roster around).

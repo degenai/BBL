@@ -52,8 +52,10 @@ image_quality: high
 mood: grim
 time_of_day: fog-indeterminate
 setting: urban
+tags:
+  - card
+  - vision-passed
 ---
-
 # Cynical Loner (Duskmourn: House of Horror)
 
 ## Vision

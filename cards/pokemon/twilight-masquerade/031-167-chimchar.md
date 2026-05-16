@@ -27,6 +27,8 @@ oracle_text: "Firebreathing (FireColorless) 20+: Flip a coin. If heads, this att
 image_width: 733
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Chimchar (Twilight Masquerade)

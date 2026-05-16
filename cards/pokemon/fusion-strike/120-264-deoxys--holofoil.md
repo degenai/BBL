@@ -50,8 +50,13 @@ setting: space
 suspected_ip: Deoxys
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Deoxys (Fusion Strike)
 
 ## Vision

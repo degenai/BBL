@@ -48,8 +48,12 @@ setting: void
 suspected_ip: Son Goku (Dragon Ball)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - ip-pending
 ---
-
 # Unyielding Victory Son Goku (World Martial Arts Tournament)
 
 ## Vision

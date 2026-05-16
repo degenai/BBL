@@ -49,8 +49,11 @@ oracle_text: "When this creature enters and whenever it attacks while saddled, c
 mood: action
 time_of_day: indeterminate
 setting: forest
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Autarch Mammoth (Aetherdrift)
 
 ## Vision

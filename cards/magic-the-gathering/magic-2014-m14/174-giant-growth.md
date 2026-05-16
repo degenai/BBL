@@ -49,8 +49,10 @@ image_quality: high
 mood: action
 time_of_day: sunset
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Giant Growth (Magic 2014 (M14))
 
 ## Vision

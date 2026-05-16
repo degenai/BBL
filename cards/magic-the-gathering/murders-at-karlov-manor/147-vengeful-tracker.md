@@ -48,8 +48,11 @@ oracle_text: Whenever an opponent sacrifices an artifact, this creature deals 2 
 mood: action
 time_of_day: night
 setting: urban
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Vengeful Tracker (Murders at Karlov Manor)
 
 ## Vision

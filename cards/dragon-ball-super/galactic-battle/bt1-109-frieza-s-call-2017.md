@@ -47,8 +47,13 @@ setting: other
 suspected_ip: Frieza
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Frieza's Call (2017) (Galactic Battle)
 
 ## Vision

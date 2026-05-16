@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/magic-2014-m14/226-vial-of-poi
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/7/7769159b-5a6a-45e5-b69b-8db2a6ef5418.jpg?1562831166
 flavor_text: There are worse ways to die, but not many.
 oracle_text: "{1}, Sacrifice this artifact: Target creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Vial of Poison (Magic 2014 (M14))
 
 ## Vision

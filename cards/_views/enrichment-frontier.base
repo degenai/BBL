@@ -1,0 +1,18 @@
+filters:
+  and:
+    - file.hasTag("card")
+    - '!file.hasTag("vision-passed")'
+    - '!file.hasTag("manual-review")'
+views:
+  - type: table
+    name: Vision-ready
+    order:
+      - file.name
+      - game
+      - set
+      - rarity
+      - quantity
+      - market_price
+    sort:
+      - property: market_price
+        direction: DESC

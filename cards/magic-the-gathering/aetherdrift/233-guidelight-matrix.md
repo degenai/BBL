@@ -48,8 +48,10 @@ image_quality: high
 mood: sublime
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Guidelight Matrix (Aetherdrift)
 
 ## Vision

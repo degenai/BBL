@@ -29,6 +29,7 @@ oracle_text: "When this Equipment enters, create a 1/1 white Glimmer enchantment
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Glimmerlight (Duskmourn: House of Horror)

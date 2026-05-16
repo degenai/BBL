@@ -47,8 +47,12 @@ setting: ocean
 suspected_ip: Arrokuda
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Arrokuda (Fusion Strike)
 
 ## Vision

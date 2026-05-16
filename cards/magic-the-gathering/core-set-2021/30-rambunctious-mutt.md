@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/30-rambunctious-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/f/3f602ecc-c264-4f3e-adeb-d0186668653e.jpg?1599435086
 flavor_text: Emphatic words with powerful gestures. Clearly this was playtime.
 oracle_text: When this creature enters, destroy target artifact or enchantment an opponent controls.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Rambunctious Mutt (Core Set 2021)
 
 ## Vision

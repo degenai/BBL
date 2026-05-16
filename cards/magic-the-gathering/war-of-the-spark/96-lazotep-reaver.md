@@ -29,6 +29,7 @@ oracle_text: When this creature enters, amass Zombies 1. (Put a +1/+1 counter on
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Lazotep Reaver (War of the Spark)

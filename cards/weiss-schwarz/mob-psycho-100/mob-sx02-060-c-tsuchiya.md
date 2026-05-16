@@ -46,8 +46,12 @@ setting: other
 suspected_ip: Tsuchiya (Mob Psycho 100)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - weiss
+  - vision-passed
+  - ip-pending
 ---
-
 # Tsuchiya (Mob Psycho 100)
 
 ## Vision

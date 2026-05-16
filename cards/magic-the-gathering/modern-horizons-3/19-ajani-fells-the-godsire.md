@@ -50,8 +50,11 @@ oracle_text: (As this Saga enters and after your draw step, add a lore counter. 
 mood: sublime
 time_of_day: indeterminate
 setting: forest
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Ajani Fells the Godsire (Modern Horizons 3)
 
 ## Vision

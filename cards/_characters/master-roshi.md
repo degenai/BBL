@@ -28,8 +28,10 @@ ip_resolution_for:
   - Jackie Chun
   - Turtle Hermit
   - Kame-sen'nin
+tags:
+  - layer
+  - character
 ---
-
 # Master Roshi (the Turtle Hermit / Jackie Chun)
 
 The Turtle Hermit elder of the Dragon Ball franchise — the canonical first-master of the Turtle School lineage, the teacher who gave young Goku and Krillin the Kamehameha (Dragon Ball manga chapter 1, 1984; the canonical *first-named-master* in the entire franchise), and the elder whose dual-identity Jackie Chun tournament-alias is the franchise's earliest *mentor-disguises-to-test-student* designer-coordinated structural beat. Roshi anchors the corpus's Turtle School lineage at the master-of-Goku tier (canonically Goku and Krillin's first martial-arts master; canonically also Yamcha's adopted teacher; canonically a tier-one stewardship figure across the 35-plus years of franchise output) and operates across two designer-coordinated TCG print-registers in Bandai's *World Martial Arts Tournament* themed booster (TB2, 2018-09-21): an open-identity Turtle School master (TB2-057, Uncommon) and the canonical concealed-identity tournament alias (TB2-058, Super Rare). The two prints together compose Bandai's compressed dual-identity citation of Roshi's canonical role — the master-who-mentors AND the master-who-disguises-himself-to-test his own students. The latter card's Bandai-canonical trivia framing locks the *corrupted-stewardship-by-mask* reading directly into the card's trivia body: "if Goku or Krillin won the tournament, they might believe themselves the strongest in the world and stop training. By entering as a formidable unknown opponent, Roshi ensured they would face defeat and remain driven."

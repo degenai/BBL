@@ -49,8 +49,13 @@ setting: void
 suspected_ip: "Angila (Dragon Ball Z: Lord Slug — Slug's Army)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-pending
 ---
-
 # Adonic Warrior Angila (Colossal Warfare)
 
 ## Vision

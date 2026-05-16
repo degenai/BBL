@@ -29,6 +29,7 @@ oracle_text: "{3}, {T}, Sacrifice this artifact: It deals 3 damage to target cre
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Scrap Compactor (Aetherdrift)

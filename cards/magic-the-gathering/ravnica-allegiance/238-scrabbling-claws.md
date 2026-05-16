@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/238-scrabbl
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/7/67b06cb5-5e74-456f-81b1-fced1346cc47.jpg?1584832162
 flavor_text: Feed it steel. Feed it gold. Feed it bone. In the belly of the furnace, the flames know no difference.
 oracle_text: "{T}: Target player exiles a card from their graveyard.\\n{1}, Sacrifice this artifact: Exile target card from a graveyard. Draw a card."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Scrabbling Claws (Ravnica Allegiance)
 
 ## Vision

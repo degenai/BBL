@@ -28,6 +28,7 @@ oracle_text: Flying\nProtection from white (This creature can't be blocked, targ
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Archon of Absolution (Throne of Eldraine)

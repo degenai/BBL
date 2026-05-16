@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros/217-guardians-of-meleti
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/5/85284586-7a9d-4344-aebd-f0e072c1f266.jpg?1562820812
 flavor_text: The histories speak of two feuding rulers whose deaths were celebrated and whose monuments symbolized the end of their wars. In truth they were peaceful lovers, their story lost to the ages.
 oracle_text: Defender (This creature can't attack.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Guardians of Meletis (Theros)
 
 ## Vision

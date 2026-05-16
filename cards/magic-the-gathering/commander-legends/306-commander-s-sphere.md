@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/306-commande
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/0/a01c16a5-bc50-406f-9ab1-e8346acffbca.jpg?1608911388
 flavor_text: It harmonizes with the essence of its master.
 oracle_text: "{T}: Add one mana of any color in your commander's color identity.\\nSacrifice this artifact: Draw a card."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Commander's Sphere (Commander Legends)
 
 ## Vision

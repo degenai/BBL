@@ -50,8 +50,10 @@ artist: Dan Murayama Scott
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/241-lys-alana-bowmaster--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/8/3888e2f0-223b-4509-8071-fe1b87a65b72.jpg?1608910787
 oracle_text: Reach\nWhenever you cast an Elf spell, you may have this creature deal 2 damage to target creature with flying.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Lys Alana Bowmaster (Commander Legends)
 
 ## Vision

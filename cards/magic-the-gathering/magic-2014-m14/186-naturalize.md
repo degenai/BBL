@@ -50,8 +50,10 @@ image_quality: high
 mood: other
 time_of_day: indeterminate
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Naturalize (Magic 2014 (M14))
 
 ## Vision

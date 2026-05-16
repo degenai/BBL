@@ -47,8 +47,13 @@ setting: indoor
 suspected_ip: Kami (Dragon Ball)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Trusting Relationship Kami (World Martial Arts Tournament)
 
 ## Vision

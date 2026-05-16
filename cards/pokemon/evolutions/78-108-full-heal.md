@@ -45,8 +45,12 @@ oracle_text: Remove all Special Conditions from your Active Pokémon.\nYou may p
 mood: other
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Full Heal (Evolutions)
 
 ## Vision

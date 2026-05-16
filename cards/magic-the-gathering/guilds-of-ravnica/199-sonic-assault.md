@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/guilds-of-ravnica/199-sonic-as
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/c/cc61a398-cf16-415b-b3cf-897217dc7cc9.jpg?1572893813
 flavor_text: He heard stars and saw thunder.
 oracle_text: Tap target creature. Sonic Assault deals 2 damage to that creature's controller.\nJump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Sonic Assault (Guilds of Ravnica)
 
 ## Vision

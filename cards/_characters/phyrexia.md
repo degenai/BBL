@@ -25,8 +25,10 @@ related_characters:
   - tamiyo
   - orzhov-syndicate
 ip_resolution_for: phyrexia
+tags:
+  - layer
+  - character
 ---
-
 # Phyrexia
 
 Magic: The Gathering's signature body-horror antagonist faction. Per MTG Wiki's Phyrexia page, the original Phyrexia was an artificial plane of nine concentric metal spheres engineered into existence by the father-god Yawgmoth — a former Thran physician whose ascent across the Brothers' War, Weatherlight, and Invasion arcs (1995–2001) established him as the franchise's first multiversal antagonist. Yawgmoth-era Phyrexia was destroyed in the climactic Invasion-block events; the praetor Karn — repurposing the corrupted Mirrodin plane — became the unwilling origin of **New Phyrexia** (Mirrodin Besieged / New Phyrexia, 2011), the post-Yawgmoth successor faction ruled by five Praetors (Elesh Norn the angel of the white sphere, Sheoldred the whispering one of the black sphere, Vorinclex the voice of hunger of the green sphere, Jin-Gitaxias the progress-tyrant of the blue sphere, Urabrask the heretic of the red sphere). The 2022–2023 Phyrexian Arc — Kamigawa: Neon Dynasty, Phyrexia: All Will Be One, March of the Machine — extended the faction's reach across the entire Multiverse via the **compleation** of native planeswalkers and the Realmbreaker invasion, culminating in the canonical defeat of Elesh Norn and the post-arc fragmentation of New Phyrexia at the end of March of the Machine.

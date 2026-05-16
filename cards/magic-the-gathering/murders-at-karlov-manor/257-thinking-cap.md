@@ -29,6 +29,7 @@ oracle_text: "Equipped creature gets +1/+2.\\nEquip Detective {1}\\nEquip {3} ({
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Thinking Cap (Murders at Karlov Manor)

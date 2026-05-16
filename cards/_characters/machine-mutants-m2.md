@@ -35,8 +35,10 @@ ip_resolution_for:
   - Planet M-2
   - Dr. Myuu's M-2 faction
   - Sigma Force
+tags:
+  - layer
+  - character
 ---
-
 # Machine Mutants of Planet M-2 (Dr. Myuu's M-2 garrison + Sigma Force + Giru defector)
 
 The canonical mechanical-life-form race Dr. Myuu engineered on Machine Planet M-2 to function as a galaxy-spanning mercenary-and-conquest apparatus during the canonical Dragon Ball GT Black Star Dragon Ball Saga prelude arc (Toei Animation, October-November 1996, episodes 9-13) — the canonical *prologue antagonist roster* Goku, Pan, and Trunks confront on their Black Star Dragon Ball recovery journey before Baby's main-stage entrance in the canonical Baby Saga. The cohort is canonically organized under Dr. Myuu's direct command with General Rilldo as top-general and the Sigma Force (Commander Nezi, Bizu, Ribet, Natt) as elite mercenary unit, and is canonically subsumed under Baby's apparatus once Baby canonically kills and emerges from Myuu in the canonical Age-740 reveal that closes the M-2 arc and opens the Baby Saga proper. Five corpus anchors all within the canonical Cross Worlds BT3 set (March 2018) form a designer-coordinated faction-cohort matching Bandai's explicit BT3 design-concept framing of "a red GT deck (Saiyan and Machine Mutant)" as one of four major BT3 deck archetypes — the Machine Mutant Special Trait is canonically a Bandai-coordinated mechanical-cohesion anchor at the card-game-design level.

@@ -52,8 +52,11 @@ oracle_text: When this creature enters, it deals 4 damage to each opponent.\nDel
 mood: horror
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Fear of Burning Alive (Duskmourn: House of Horror)
 
 ## Vision

@@ -53,8 +53,11 @@ oracle_text: "Devoid (This card has no color.)\\n{T}: Add {C}{C}.\\n{3}{C}, {T}:
 mood: horror
 time_of_day: indeterminate
 setting: ocean
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Snapping Voidcraw (Modern Horizons 3)
 
 ## Vision

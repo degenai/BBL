@@ -50,8 +50,10 @@ artist: Jason A. Engle
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/180-tuinvale-treefolk--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/b/8bc518fc-904e-4e39-aeda-ffb222bfcc82.jpg?1572490693
 flavor_text: \"Right now you are a feeble stick, but I will help you grow some rings.\"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Tuinvale Treefolk (Throne of Eldraine)
 
 ## Vision

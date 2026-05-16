@@ -50,8 +50,10 @@ artist: Eric Deschamps
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/61-queen-of-ice--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/e/de2f964a-e4e1-4321-92ad-34b781868e11.jpg?1572489973
 oracle_text: Whenever this creature deals combat damage to a creature, tap that creature. It doesn't untap during its controller's next untap step.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Queen of Ice (Throne of Eldraine)
 
 ## Vision

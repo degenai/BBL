@@ -47,8 +47,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - xenoverse-villains
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Heavenly Wizard Demigra (Colossal Warfare)
 
 ## Vision

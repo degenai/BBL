@@ -50,8 +50,10 @@ oracle_text: "{T}: Add {C}.\\nDisguise {3} (You may cast this card face down for
 mood: peaceful
 time_of_day: day
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Branch of Vitu-Ghazi (Murders at Karlov Manor)
 
 ## Vision

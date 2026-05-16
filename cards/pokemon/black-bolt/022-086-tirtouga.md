@@ -49,8 +49,12 @@ setting: ocean
 suspected_ip: "Tirtouga (#564)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Tirtouga (Black Bolt)
 
 ## Vision

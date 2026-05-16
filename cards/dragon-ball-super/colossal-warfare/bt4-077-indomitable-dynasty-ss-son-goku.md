@@ -51,8 +51,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - son-goku
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Indomitable Dynasty SS Son Goku (Colossal Warfare)
 
 ## Vision

@@ -52,8 +52,12 @@ ip_confidence: high
 ip_verified: false
 characters:
   - universe-6-tournament-cohort
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - ip-pending
 ---
-
 # Iron Wall Magetta (Galactic Battle)
 
 ## Vision

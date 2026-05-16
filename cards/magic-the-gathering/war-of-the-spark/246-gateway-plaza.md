@@ -29,6 +29,7 @@ oracle_text: "This land enters tapped.\\nWhen this land enters, sacrifice it unl
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Gateway Plaza (War of the Spark)

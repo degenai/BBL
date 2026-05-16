@@ -48,8 +48,13 @@ setting: void
 suspected_ip: Misdreavus
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Misdreavus (Crimson Invasion)
 
 ## Vision

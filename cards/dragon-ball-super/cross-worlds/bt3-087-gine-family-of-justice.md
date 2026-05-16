@@ -50,8 +50,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - saiyan
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Gine, Family of Justice (Cross Worlds)
 
 ## Vision

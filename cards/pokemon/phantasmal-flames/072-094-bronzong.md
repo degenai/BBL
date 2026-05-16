@@ -27,6 +27,8 @@ oracle_text: "Triple Draw (Colorless): Draw 3 cards.\\nTool Drop (ColorlessColor
 image_width: 733
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Bronzong (Phantasmal Flames)

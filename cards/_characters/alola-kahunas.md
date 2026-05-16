@@ -25,8 +25,10 @@ related_characters:
   - acerola
   - team-skull
 ip_resolution_for: alola-kahunas
+tags:
+  - layer
+  - character
 ---
-
 # Alola Island Kahunas
 
 The four-member senior-Trainer cohort who serve as the spiritual and competitive heads of Alola's four islands in *Pokemon Sun and Moon* (Game Freak / Creatures Inc. / Nintendo, 2016) and its sequel pair *Pokemon Ultra Sun and Ultra Moon* (Game Freak, 2017). The Island Kahuna role is canonically the **middle-to-summit tier** of Alola's three-tier Island Challenge progression — above the Trial Captains, who run the per-island themed Trials, and at or just below the Elite Four, the league summit at Mount Lanakila. Each kahuna is canonically **chosen by the island's guardian deity** — one of the four Tapu — to administer the Grand Trial, the climactic battle that follows the player's completion of an island's trial sequence and that gates progression to the next island. The four canonical members are **Hala** (Fighting-type, Melemele Island, chosen by Tapu Koko, the player's first Grand Trial opponent and concurrently a Founding-charter Elite Four member), **Olivia** (Rock-type, Akala Island, chosen by Tapu Lele, the only character in main-series Pokemon canon to hold an Island Kahuna role and an Elite Four seat **simultaneously throughout** the player's storyline — her Grand Trial takes place at the Ruins of Life), **Nanu** (Dark-type, Ula'ula Island, chosen by Tapu Bulu, a former International Police officer whose Grand Trial is at the abandoned police station of Po Town's outskirts), and **Hapu** (Ground-type, Poni Island, chosen by Tapu Fini, the youngest Kahuna in the cohort and the granddaughter of Sina and Dexio's Kalos colleague — her Grand Trial completes the Island Challenge before the Champion's Test).

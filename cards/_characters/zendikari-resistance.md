@@ -32,8 +32,10 @@ related_characters:
   - kor
   - iona
 ip_resolution_for: zendikari-resistance
+tags:
+  - layer
+  - character
 ---
-
 # Zendikari Resistance (BFZ + OGW multi-triangle meta-cycle)
 
 The Wizards-of-the-Coast designer-coordinated two-set Eldrazi-invasion arc's *resistance-side* cohesion anchor across the *Battle for Zendikar* + *Oath of the Gatewatch* block (BFZ September 2015 + OGW January 2016, per MTG Wiki's Battle for Zendikar block page). This node is the BBL graph's **first multi-triangle meta-cycle anchor** — a single character-layer node that organizes two within-set three-card thesis-verb triangles (one in BFZ, one in OGW) under one designer-coordinated block-level cohesion frame. Per MTG Wiki's BFZ + OGW set-design pages and the canonical Wizards storyline archive, the two sets jointly form the Eldrazi-invasion arc whose resistance-side participants (the Zendikari Ally-mechanic militia, the Sea Gate survivors, the Affa-settlement underground-refuge defenders, the Gatewatch planeswalker command tier) compose a single cohesive military coalition rendered across the block's combined ~430 cards. This node anchors the resistance-side; the [[eldrazi]] node anchors the apparatus-side. Together the two nodes characterize the canonical adversary-coupling at the block-level scope.

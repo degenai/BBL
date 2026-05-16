@@ -48,8 +48,13 @@ setting: forest
 suspected_ip: Passimian
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Passimian (Darkness Ablaze)
 
 ## Vision

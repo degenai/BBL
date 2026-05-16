@@ -45,8 +45,10 @@ image_quality: high
 mood: other
 time_of_day: night
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Curious Pair (Throne of Eldraine)
 
 ## Vision

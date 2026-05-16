@@ -49,8 +49,12 @@ setting: forest
 suspected_ip: "Jigglypuff (#039)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Jigglypuff (Darkness Ablaze)
 
 ## Vision

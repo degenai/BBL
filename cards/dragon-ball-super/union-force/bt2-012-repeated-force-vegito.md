@@ -48,8 +48,13 @@ setting: void
 suspected_ip: Vegito (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Repeated Force Vegito (Union Force)
 
 ## Vision

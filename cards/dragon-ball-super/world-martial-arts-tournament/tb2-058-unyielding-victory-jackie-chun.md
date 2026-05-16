@@ -48,8 +48,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - master-roshi
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Unyielding Victory Jackie Chun (World Martial Arts Tournament)
 
 ## Vision

@@ -17,8 +17,10 @@ appears_on:
   - magic-the-gathering/commander-legends/154-thorn-of-the-black-rose
 related_hubs: []
 related_characters: []
+tags:
+  - layer
+  - symbol
 ---
-
 # Monarch-at-common (Commander Legends)
 
 The iconographic-and-rules-text primitive of the **Monarch-at-common** designer-coordinated cohort introduced in *Commander Legends* (CMR, released 2020-11-20) as the first Magic set to bring the **Monarch** mechanic to the common rarity slot. The Monarch mechanic itself debuted in *Conspiracy: Take the Crown* (CN2, 2016) at uncommon and rare; CMR's three-card commons cluster — Azure Fleet Admiral (CMR-58), Fall from Favor (CMR-68), and Thorn of the Black Rose (CMR-154) — is the canonical-by-printing rarity-tier shift, a designer-coordinated cohort that the Pauper format reacted to with a fifty-five-day ban on the most aggressive member (Fall from Favor, banned 2021-01-14). The cohort is a first-class graph-relevant mechanical primitive parallel to [[suspect]] and [[manifest-dread]]: a designer-stated thematic program that crosses multiple cards in a set, marks them as members of one printing-canonical cluster, and provides the iconographic anchor for any bundle assembled around the cohort.

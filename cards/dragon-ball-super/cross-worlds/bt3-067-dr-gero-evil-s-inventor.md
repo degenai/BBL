@@ -50,8 +50,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - cell-saga-apparatus
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Dr. Gero, Evil's Inventor (Cross Worlds)
 
 ## Vision

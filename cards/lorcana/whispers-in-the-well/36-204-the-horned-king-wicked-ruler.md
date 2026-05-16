@@ -30,6 +30,8 @@ in that challenge.)
 image_width: 1468
 image_height: 2048
 image_quality: high
+tags:
+  - card
+  - lorcana
 ---
-
 # The Horned King - Wicked Ruler (Whispers in the Well)

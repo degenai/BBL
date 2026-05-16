@@ -31,8 +31,10 @@ ip_resolution_for:
   - Beerus and Whis
   - Champa and Vados
   - DBS divine command-tier
+tags:
+  - layer
+  - character
 ---
-
 # Destroyer God / Angel Attendant dyad (Dragon Ball Super multiverse cosmology — Beerus+Whis U7 and Champa+Vados U6 sibling-dyads)
 
 The canonical two-species command-dyad cosmology of Dragon Ball Super's twelve-universe multiverse: every universe is presided over by a paired **destroyer god** (Hakai-shin, cat-physiology, universe-level destruction-authority) and **angel attendant** (Angel-class, sibling of the other eleven universes' angels, the destroyer god's combat-instructor and household-manager). The dyad-as-cosmological-unit is one of Dragon Ball Super's most consistently designer-coordinated lore-mechanics, introduced via the U7 Beerus + Whis pair in *Battle of Gods* (2013) and *Resurrection 'F'* (2015), then structurally generalized in the God of Destruction Champa Saga (2015-2016) where the introduction of Beerus's elder twin **Champa** with his angel attendant **Vados** (Whis's canonical-elder-sister) makes the dyad-pattern explicit as a multiverse-spanning cosmological template. The corpus anchors **five cards** representing the canonical two-dyad pair: U7's Beerus (BT1-042) + Whis (BT1-043) and U6's Vados (BT1-002) + Champa (BT1-006, BT1-007 — Champa double-print). All five are Bandai-canonical Galactic Battle BT1 launch-set anchors (2017), encoding the dyad-cosmology at the founding-DBSCG-set narrative-spine level.

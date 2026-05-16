@@ -52,8 +52,10 @@ image_quality: high
 mood: peaceful
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Serene Steward (Battle for Zendikar)
 
 ## Vision

@@ -48,8 +48,13 @@ setting: void
 suspected_ip: Goku (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Senzu Bean (2017) (Galactic Battle)
 
 ## Vision

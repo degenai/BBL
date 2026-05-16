@@ -24,8 +24,10 @@ related_characters:
   - namekian
   - wrath-of-the-dragon-saga
 ip_resolution_for: dark-vassal-trio
+tags:
+  - layer
+  - character
 ---
-
 # Dark Vassal trio (King Piccolo's spat-egg children — Tambourine / Cymbal / Drum)
 
 The designer-coordinated three-card sub-cycle within the Dragon Ball Super Card Game's *Colossal Warfare* booster (DBS-B04, 2018-07-13) that anchors King Piccolo's three named warrior-children — Tambourine, Cymbal, and Drum — as a unified Demon Clan / Warrior-Type Namekian offspring-cohort across adjacent collector numbers (BT4-064, BT4-065, BT4-066). The three cards share the *Dark Vassal* Bandai-card-name prefix as the cycle-marker, sit at sequential collector numbers as the within-set positional cycle-marker, and depict the three canonical brothers in their canonical King Piccolo Saga combat configurations: Tambourine the winged aerial-predator (the first deployed, canonically kills Krillin and Yamcha before being killed by Goku in retribution), Cymbal the carapaced ground-combatant (canonically eaten by Yajirobe), and Drum the brute-force charger (canonically defeats Tien Shinhan before being killed by Goku at the Korin Tower climax). The canonical fourth King Piccolo child Piano — a non-combat secretary-type, canonically present only as the king's attendant — is NOT in this cycle nor in BBL corpus; the trio framing is Bandai's three-of-four selection privileging the combat-roster children over the secretary-type.

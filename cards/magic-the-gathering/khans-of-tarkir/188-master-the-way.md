@@ -54,8 +54,10 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/188-master-the
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/0/704743a8-27d6-4db9-8fe1-f65f5f3a955f.jpg?1562788383
 flavor_text: \"The Way has no beginning and no end. It is simply the path.\"\n—Narset, khan of the Jeskai
 oracle_text: Draw a card. Master the Way deals damage to any target equal to the number of cards in your hand.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Master the Way (Khans of Tarkir)
 
 ## Vision

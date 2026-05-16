@@ -27,6 +27,8 @@ oracle_text: "Full Nelson (Fighting) 30: During your opponent's next turn, the D
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Grapploct (Vivid Voltage)

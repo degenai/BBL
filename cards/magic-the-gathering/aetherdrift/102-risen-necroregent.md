@@ -52,8 +52,11 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Risen Necroregent (Aetherdrift)
 
 ## Vision

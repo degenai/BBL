@@ -47,8 +47,12 @@ setting: urban
 suspected_ip: "Grafaiai (#952)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Grafaiai (Mega Evolution)
 
 ## Vision

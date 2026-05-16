@@ -45,8 +45,12 @@ subject_known_ip: true
 suspected_ip: Pokemon Potion (item)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Potion (Evolutions)
 
 ## Vision

@@ -47,8 +47,13 @@ setting: other
 suspected_ip: Son Goten
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Scuffle Time Son Goten (World Martial Arts Tournament)
 
 ## Vision

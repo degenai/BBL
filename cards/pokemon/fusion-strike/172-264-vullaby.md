@@ -49,8 +49,12 @@ setting: desert
 suspected_ip: Vullaby (Pokémon)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Vullaby (Fusion Strike)
 
 ## Vision

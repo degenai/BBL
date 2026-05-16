@@ -43,8 +43,12 @@ setting: void
 suspected_ip: Tien Shinhan
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - ip-pending
 ---
-
 # Unending Moves Tien Shinhan (World Martial Arts Tournament)
 
 ## Vision

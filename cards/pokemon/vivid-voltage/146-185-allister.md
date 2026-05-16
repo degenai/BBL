@@ -56,8 +56,13 @@ suspected_ip: Allister (Pokemon Sword/Shield)
 ip_confidence: high
 ip_verified: true
 oracle_text: Draw 3 cards. If you drew any cards in this way, discard up to 3 cards from your hand. (You must discard at least 1 card.)\nYou may play only 1 Supporter card during your turn.
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Allister (Vivid Voltage)
 
 ## Vision

@@ -47,8 +47,12 @@ setting: forest
 suspected_ip: Dewpider
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Dewpider (Fusion Strike)
 
 ## Vision

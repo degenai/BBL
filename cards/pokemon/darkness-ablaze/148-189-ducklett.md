@@ -49,8 +49,12 @@ setting: ocean
 suspected_ip: "Ducklett (#580)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Ducklett (Darkness Ablaze)
 
 ## Vision

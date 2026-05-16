@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/modern-horizons/113-unearth--a
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/6/b62abd0c-ec3e-45d7-989d-da269812aeef.jpg?1562201767
 flavor_text: No matter how deep you bury it, some evil refuses to stay dead.
 oracle_text: "Return target creature card with mana value 3 or less from your graveyard to the battlefield.\\nCycling {2} ({2}, Discard this card: Draw a card.)"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Unearth (Modern Horizons)
 
 ## Vision

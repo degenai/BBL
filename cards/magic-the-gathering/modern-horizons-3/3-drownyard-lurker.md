@@ -48,8 +48,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: ocean
+tags:
+  - card
+  - vision-passed
 ---
-
 # Drownyard Lurker (Modern Horizons 3)
 
 ## Vision

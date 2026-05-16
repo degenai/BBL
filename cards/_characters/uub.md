@@ -25,8 +25,10 @@ ip_resolution_for:
   - Uub
   - Majuub
   - Kid Buu's reincarnation
+tags:
+  - layer
+  - character
 ---
-
 # Uub
 
 The canonical human reincarnation of Kid Buu — the ten-year-old impoverished-village child who emerged from King Yemma's afterlife judgment as the answer to Goku's specific wish for a worthy future opponent who would not be inherently evil, the canonical *Goku-successor-protagonist* of the End-of-Z epilogue, and the final on-screen sparring partner Goku takes off-world at the close of Dragon Ball Z's canonical original-run continuity. Introduced in Dragon Ball Z manga chapter 519 (1995, Akira Toriyama, Shueisha) at the 28th World Martial Arts Tournament arc — the canonical Buu-Saga epilogue tournament held five years after Goku's Spirit-Bomb-finishing-blow on Kid Buu — Uub enters the tournament as a ten-year-old seeking prize money to feed his impoverished family. His canonical first-match opponent is Goku himself; Goku deliberately provokes Uub to anger mid-match to unlock his suppressed power (the canonical *shocking latent ability* revelation that the TB2-033 card-title directly references), recognizes the unlocked-power signature as the reincarnated-Kid-Buu energy he had wished for at the Buu-Saga conclusion, and takes Uub as a personal disciple and off-world training partner at the canonical *A Hero's Farewell* DBZ-finale beat (Toei Animation anime episode 291, 1996).

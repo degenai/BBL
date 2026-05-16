@@ -54,8 +54,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/219-gingerb
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/5/f55fe038-c903-4d92-b689-72dd6d041a91.jpg?1572490972
 flavor_text: The unlabeled vial was not vanilla extract after all.
 oracle_text: "Haste (This creature can attack and {T} as soon as it comes under your control.)\\n{1}: This creature can't be blocked this turn except by creatures with haste.\\n{2}, {T}, Sacrifice this creature: You gain 3 life."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Gingerbrute (Throne of Eldraine)
 
 ## Vision

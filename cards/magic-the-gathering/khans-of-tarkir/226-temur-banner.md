@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/226-temur-bann
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/9/9990bdff-c27a-447f-b530-d8b7614fe9a0.jpg?1562790835
 flavor_text: Savagery to survive, courage to triumph.
 oracle_text: "{T}: Add {G}, {U}, or {R}.\\n{G}{U}{R}, {T}, Sacrifice this artifact: Draw a card."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Temur Banner (Khans of Tarkir)
 
 ## Vision

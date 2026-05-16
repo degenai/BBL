@@ -50,8 +50,12 @@ subject_known_ip: true
 suspected_ip: "Yachiyo Nanami (Magia Record: Puella Magi Madoka Magica Side Story)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - weiss
+  - vision-passed
+  - ip-pending
 ---
-
 # Reminiscing, Yachiyo (Magia Record: Puella Magi Madoka Magica [Side Story] (Anime))
 
 ## Vision

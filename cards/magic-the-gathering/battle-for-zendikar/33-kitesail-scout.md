@@ -47,8 +47,10 @@ oracle_text: Flying
 mood: action
 time_of_day: sunset
 setting: desert
+tags:
+  - card
+  - vision-passed
 ---
-
 # Kitesail Scout (Battle for Zendikar)
 
 ## Vision

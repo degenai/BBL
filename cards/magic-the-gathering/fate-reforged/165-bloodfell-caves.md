@@ -50,8 +50,10 @@ image_quality: high
 mood: grim
 time_of_day: night
 setting: dungeon
+tags:
+  - card
+  - vision-passed
 ---
-
 # Bloodfell Caves (Fate Reforged)
 
 ## Vision

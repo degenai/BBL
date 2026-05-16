@@ -54,8 +54,10 @@ art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/145-grav
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/c/ec6f4542-b5ca-4464-afc6-8bada09b7f6c.jpg?1573509770
 flavor_text: Death in form and function.
 oracle_text: Deathtouch\nWhenever this creature enters or attacks, create two 2/2 black Zombie creature tokens.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Grave Titan (Mystery Booster Cards)
 
 ## Vision

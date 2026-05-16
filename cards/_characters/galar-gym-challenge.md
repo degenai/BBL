@@ -32,8 +32,10 @@ related_characters:
   - charizard-line
   - macro-cosmos
 ip_resolution_for: galar-gym-challenge
+tags:
+  - layer
+  - character
 ---
-
 # Galar Gym Challenge
 
 The annual sporting competition that structures Pokemon Sword & Shield's main story progression and constitutes the canonical setting for most adult-trainer NPCs in the Galar region. Per Bulbapedia's Galar League page and Pokemon.com's official Galar character pages, the league is run by Chairman Rose of the Macro Cosmos conglomerate and is formatted as a televised stadium-cup tournament rather than a traditional gauntlet-plus-Elite-Four challenge — trainers need a letter of endorsement to enter, must clear eight major-division Gyms in fixed order, and the closing tournament is the Champion Cup at Wyndon Stadium. The league replaced the Elite Four model with the Champion Cup specifically to integrate the Dynamax phenomenon into stadium play, which Chairman Rose framed as Macro Cosmos's contribution to making Galar Gym battles a globally televised spectacle. The Galar Gym Leaders themselves function in-canon as professional celebrity athletes — Bulbapedia and Pokemon.com both characterize them as signed competitive trainers whose gym-leader work is one chapter of a broader media career, with appearances at promotional events, sponsorship by Macro Cosmos's marketing arm, and active fan-club structures (Melony, for example, is publicly listed as the no. 1 fan-club member of her own son Gordie, who heads the rival Sword-version Circhester Gym). This is Pokemon canon's most explicitly corporate-sponsored, mass-spectator framing of competitive battling — and BBL's narrative-first, labor-coded brand voice has an obvious foothold here.

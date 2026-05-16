@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/84-tazeem-roil
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/f/6f222fb7-375d-4ee2-9ff6-bd71f63ab31a.jpg?1604195025
 flavor_text: \"The Roil can be directed. Observe.\"
 oracle_text: Kicker {4} (You may pay an additional {4} as you cast this spell.)\nWhen this creature enters, if it was kicked, return target instant or sorcery card from your graveyard to your hand.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Tazeem Roilmage (Zendikar Rising)
 
 ## Vision

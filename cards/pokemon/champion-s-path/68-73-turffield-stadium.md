@@ -48,8 +48,12 @@ mood: peaceful
 time_of_day: day
 setting: urban
 oracle_text: Once during each player's turn, that player may search their deck for an Evolution Grass Pokémon, reveal it, and put it into their hand. Then, that player shuffles their deck.\nThis Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you can't play this card.
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
 ---
-
 # Turffield Stadium (Champion's Path)
 
 ## Vision

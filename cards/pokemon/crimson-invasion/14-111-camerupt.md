@@ -27,6 +27,8 @@ oracle_text: "Continuous Headbutt (FireColorlessColorless) 80×: Flip a coin unt
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Camerupt (Crimson Invasion)

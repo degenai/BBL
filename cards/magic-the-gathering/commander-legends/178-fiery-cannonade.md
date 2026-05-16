@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/178-fiery-ca
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/9/396f1cdf-712b-4518-a0e8-0039303dccdc.jpg?1608910204
 flavor_text: Wary of the ferocious dinosaurs, the Legion of Dusk built up the walls of their fort—just in time for the pirates to burn them down.
 oracle_text: Fiery Cannonade deals 2 damage to each non-Pirate creature.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Fiery Cannonade (Commander Legends)
 
 ## Vision

@@ -24,8 +24,15 @@ needs_manual_review: true
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: No two SPINDA have the same pattern of spots. Its tottering step fouls the aim of foes.
 oracle_text: "Dish Out (Colorless): Draw a card from the top and the bottom of your deck.\\nSynchro Punch (Colorless) 10+: If any basic Energy card attached to Spinda is the same type as any Energy attached to the Defending Pokémon, this attack does 10 damage plus 30 more damage."
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Spinda (Sun & Moon Base Set)
 
 ## Vision

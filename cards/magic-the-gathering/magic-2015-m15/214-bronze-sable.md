@@ -50,8 +50,10 @@ artist: Jasper Sandner
 art_crop_image: cards/_images/magic-the-gathering/magic-2015-m15/214-bronze-sable--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/8/e8ba6d7d-fad0-4af1-be12-44be326a031e.jpg?1593860900
 flavor_text: The Champion stood alone between the horde of the Returned and the shrine to Karametra, cutting down scores among hundreds. She would have been overcome if not for the aid of the temple guardians whom Karametra awakened.\n—*The Theriad*
+tags:
+  - card
+  - vision-passed
 ---
-
 # Bronze Sable (Magic 2015 (M15))
 
 ## Vision

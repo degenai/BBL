@@ -49,8 +49,10 @@ artist: Lius Lasahido
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/182-vivien-s-grizzly--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/7/37f2571b-6756-462c-9e71-3121fa458160.jpg?1557577044
 oracle_text: "{3}{G}: Look at the top card of your library. If it's a creature or planeswalker card, you may reveal it and put it into your hand. If you don't put the card into your hand, put it on the bottom of your library."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Vivien's Grizzly (War of the Spark)
 
 ## Vision

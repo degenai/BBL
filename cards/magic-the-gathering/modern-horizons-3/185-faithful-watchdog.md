@@ -48,8 +48,10 @@ oracle_text: Vigilance\nThis creature enters with three +1/+1 counters on it.
 mood: peaceful
 time_of_day: twilight
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Faithful Watchdog (Modern Horizons 3)
 
 ## Vision

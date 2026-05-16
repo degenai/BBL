@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/225-sultai-ban
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/6/1695cf35-8f7c-4674-bfd3-43520b13d084.jpg?1562783039
 flavor_text: Power to dominate, cruelty to rule.
 oracle_text: "{T}: Add {B}, {G}, or {U}.\\n{B}{G}{U}, {T}, Sacrifice this artifact: Draw a card."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Sultai Banner (Khans of Tarkir)
 
 ## Vision

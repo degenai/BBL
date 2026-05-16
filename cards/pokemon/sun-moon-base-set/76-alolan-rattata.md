@@ -24,8 +24,15 @@ needs_manual_review: true
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: When the sun goes down, it becomes active. It runs around town on a chase for good food for the boss of its nest—Raticate.
 oracle_text: Gnaw 20
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Alolan Rattata (Sun & Moon Base Set)
 
 ## Vision

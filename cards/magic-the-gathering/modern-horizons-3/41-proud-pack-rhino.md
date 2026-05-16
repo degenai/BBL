@@ -46,8 +46,10 @@ oracle_text: When this creature enters, choose one —\n• Put a shield counter
 mood: other
 time_of_day: day
 setting: desert
+tags:
+  - card
+  - vision-passed
 ---
-
 # Proud Pack-Rhino (Modern Horizons 3)
 
 ## Vision

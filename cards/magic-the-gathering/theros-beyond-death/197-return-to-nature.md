@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/197-return
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/4/a4515a76-53f0-40a2-8b88-70b73447d1e6.jpg?1581480874
 flavor_text: "\\\"Far-seeing Kruphix glimpsed the end: Heliod's spear cast down and broken.\\\"\\n—*The Cosmogony*"
 oracle_text: Choose one —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Exile target card from a graveyard.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Return to Nature (Theros Beyond Death)
 
 ## Vision

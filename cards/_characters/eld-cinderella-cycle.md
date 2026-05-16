@@ -18,8 +18,10 @@ appears_on:
 related_hubs: []
 related_symbols: []
 related_characters: []
+tags:
+  - layer
+  - character
 ---
-
 # Cinderella cycle (Throne of Eldraine fairy-tale homage)
 
 Throne of Eldraine (ELD, 2019-10-04) was Wizards' first top-down set fusing Grimms' fairy tales with Arthurian legend; lead designer Mark Rosewater's "Eldraine or Shine" preview (2019-09-09) framed the design as built around named fairy-tale homages, and his follow-up "More Odds & Ends: Throne of Eldraine" (2019-10-21) names "the pumpkin carriage" and "the glass slipper" verbatim among the set's iconic fairy-tale objects. The Cinderella cycle is the most-cited and most-documented of ELD's fairy-tale homage cycles, with at least one creature-type invention (the Mouse type, created by Rosewater verbatim because Enchanted Carriage "needed white Mice for flavor") and explicit cycle-membership identification across multiple Rosewater Making Magic columns.

@@ -47,8 +47,13 @@ setting: other
 suspected_ip: Chiaotzu
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Best Buddy Chiaotzu (World Martial Arts Tournament)
 
 ## Vision

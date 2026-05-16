@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/guilds-of-ravnica/248-golgari-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/6/86706d8e-de08-4778-94ba-ae75ed522472.jpg?1572894145
 flavor_text: \"Shut the gates. In the Underrealm we will outlast the coming doom.\"\n—Vraska
 oracle_text: "This land enters tapped.\\n{T}: Add {B} or {G}."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Golgari Guildgate (248) (Guilds of Ravnica)
 
 ## Vision

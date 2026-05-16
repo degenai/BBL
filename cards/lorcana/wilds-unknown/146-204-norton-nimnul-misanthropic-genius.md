@@ -57,8 +57,12 @@ subject_known_ip: true
 suspected_ip: Norton Nimnul (Chip 'n Dale Rescue Rangers)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - ip-pending
 ---
-
 # Norton Nimnul - Misanthropic Genius (Wilds Unknown)
 
 ## Vision

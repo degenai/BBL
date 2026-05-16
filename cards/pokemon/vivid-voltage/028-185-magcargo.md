@@ -27,6 +27,8 @@ oracle_text: "Heat Blast (FireColorlessColorless) 60\\nBright Flame (FireFireCol
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Magcargo (Vivid Voltage)

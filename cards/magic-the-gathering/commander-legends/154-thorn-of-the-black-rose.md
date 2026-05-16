@@ -53,8 +53,11 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/154-thorn-of
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/b/2b7538ad-cc41-4229-8a39-c1db21f2899a.jpg?1669010258
 flavor_text: If bribery and intimidation fail, Marchesa turns to her favorite form of persuasion.
 oracle_text: Deathtouch\nWhen this creature enters, you become the monarch.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Thorn of the Black Rose (Commander Legends)
 
 ## Vision

@@ -51,8 +51,13 @@ ip_verified: true
 characters:
   - team-skull
   - alola-kahunas
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Guzma & Hala (Cosmic Eclipse)
 
 ## Vision

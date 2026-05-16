@@ -48,8 +48,13 @@ subject_known_ip: true
 suspected_ip: Mimikyu
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Mimikyu (Darkness Ablaze)
 
 ## Vision

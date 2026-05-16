@@ -46,8 +46,13 @@ setting: indoor
 suspected_ip: Furfrou
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Furfrou (Chilling Reign)
 
 ## Vision

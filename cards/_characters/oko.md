@@ -22,8 +22,10 @@ related_hubs: "[rebellion]"
 related_symbols: []
 related_characters: []
 ip_resolution_for: Oko
+tags:
+  - layer
+  - character
 ---
-
 # Oko
 
 Fae shapeshifter planeswalker, originally of Lorwyn-Shadowmoor; charismatic, vain, notorious trickster whose Shadowmoor aspect grows antlers. Introduced in Throne of Eldraine (2019) as a planeswalker who has installed himself as the self-styled "Fae King" of Eldraine's Wilds, in pursuit of a long-running personal project to humble the human kings of the realm. Per the *Wildered Quest* novella (Kate Elliott, 2019), Oko transformed High King Algenus Kenrith into a stag to be hunted at the midwinter Wild Hunt; per *Wilds of Eldraine* (2023) Wizards revisited him on his home plane as Oko, the Ringleader with the half-fae son Kellan canonical in the arc. The `— Oko` planeswalker subtype on the type-line is reserved for printings of this single character.

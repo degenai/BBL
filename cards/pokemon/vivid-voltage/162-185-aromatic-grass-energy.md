@@ -43,8 +43,12 @@ oracle_text: As long as this card is attached to a Pokémon, it provides Grass E
 mood: peaceful
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Aromatic Grass Energy (Vivid Voltage)
 
 ## Vision

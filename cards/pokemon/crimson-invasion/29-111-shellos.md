@@ -27,6 +27,8 @@ oracle_text: "Regeneration (Colorless): Heal 30 damage from this Pokémon.\\nMud
 image_width: 912
 image_height: 1280
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Shellos (Crimson Invasion)

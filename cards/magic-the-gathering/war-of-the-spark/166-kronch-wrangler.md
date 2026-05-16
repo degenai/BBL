@@ -50,8 +50,10 @@ setting: other
 artist: Steve Prescott
 flavor_text: Looking over two city blocks of destruction, he could only cackle with pride.
 oracle_text: Trample\nWhenever a creature you control with power 4 or greater enters, put a +1/+1 counter on this creature.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Kronch Wrangler (War of the Spark)
 
 ## Vision

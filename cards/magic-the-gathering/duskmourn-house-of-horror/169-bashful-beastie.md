@@ -51,8 +51,10 @@ flavor_text: No one knows what hides beneath the beasties' masks.
 oracle_text: When this creature dies, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)
 symbols:
   - manifest-dread
+tags:
+  - card
+  - vision-passed
 ---
-
 # Bashful Beastie (Duskmourn: House of Horror)
 
 ## Vision

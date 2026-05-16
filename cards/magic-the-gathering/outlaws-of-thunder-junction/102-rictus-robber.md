@@ -52,8 +52,10 @@ image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
 ---
-
 # Rictus Robber (Outlaws of Thunder Junction)
 
 ## Vision

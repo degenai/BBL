@@ -51,8 +51,13 @@ characters:
   - alola-elite-four
   - alola-trial-captains
   - aether-foundation
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Acerola (Burning Shadows)
 
 ## Vision

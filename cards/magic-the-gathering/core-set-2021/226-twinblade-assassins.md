@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/226-twinblade-as
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/d/5d387b19-a0a7-45c0-b1e9-71ca55fb4adc.jpg?1620845035
 flavor_text: Rumors swirl of a pair of deadly Golgari assassins known only as the Left and Right Hands of the Ochran.
 oracle_text: At the beginning of your end step, if a creature died this turn, draw a card.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Twinblade Assassins (Core Set 2021)
 
 ## Vision

@@ -48,8 +48,10 @@ oracle_text: "{T}, Sacrifice this land: Search your library for a basic land car
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Terramorphic Expanse (Duskmourn: House of Horror)
 
 ## Vision

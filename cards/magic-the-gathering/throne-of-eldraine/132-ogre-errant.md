@@ -52,8 +52,11 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/132-ogre-er
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/e/0e96f3dc-dc58-4034-8d3d-3ae74fa64562.jpg?1572490402
 flavor_text: Knights kept returning from Ogre's Pass wearing nothing but bruises, so they decided to just pretend it was on their side.
 oracle_text: Whenever this creature attacks, another target attacking Knight gains menace until end of turn. (It can't be blocked except by two or more creatures.)
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Ogre Errant (Throne of Eldraine)
 
 ## Vision

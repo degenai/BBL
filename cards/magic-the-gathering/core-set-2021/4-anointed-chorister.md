@@ -55,8 +55,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/4-anointed-chori
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/c/9c977c67-b0c0-40b0-b129-28de094aaf40.jpg?1594734721
 flavor_text: \"I sing of benevolence and mercy, of golden wings bringing comfort to the meek and downtrodden.\"
 oracle_text: "Lifelink (Damage dealt by this creature also causes you to gain that much life.)\\n{4}{W}: This creature gets +3/+3 until end of turn."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Anointed Chorister (Core Set 2021)
 
 ## Vision

@@ -53,8 +53,11 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/126-arena-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/0/e096049d-9f02-4abb-bb5a-97b14fd17099.jpg?1581480067
 flavor_text: \"It's not enough to surprise your opponent. You have to delight the crowd as well.\"
 oracle_text: Whenever you cast your first spell during each opponent's turn, put a +1/+1 counter on this creature.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Arena Trickster (Theros Beyond Death)
 
 ## Vision

@@ -49,8 +49,13 @@ setting: void
 suspected_ip: Tapu Lele (Pokémon Sun and Moon)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Tapu Lele (Lost Thunder)
 
 ## Vision

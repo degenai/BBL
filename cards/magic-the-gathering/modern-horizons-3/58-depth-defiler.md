@@ -47,8 +47,10 @@ oracle_text: Devoid (This card has no color.)\nKicker {C} (You may pay an additi
 mood: horror
 time_of_day: indeterminate
 setting: ocean
+tags:
+  - card
+  - vision-passed
 ---
-
 # Depth Defiler (Modern Horizons 3)
 
 ## Vision

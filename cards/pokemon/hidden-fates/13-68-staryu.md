@@ -49,8 +49,12 @@ setting: void
 suspected_ip: "Staryu (#120)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Staryu (Hidden Fates)
 
 ## Vision

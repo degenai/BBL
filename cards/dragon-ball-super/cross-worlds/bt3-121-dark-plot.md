@@ -46,8 +46,13 @@ setting: void
 suspected_ip: Towa, Masked Saiyan, and/or Time Breaker figures (Dragon Ball Xenoverse)
 ip_confidence: med
 ip_verified: false
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-pending
 ---
-
 # Dark Plot (Cross Worlds)
 
 ## Vision

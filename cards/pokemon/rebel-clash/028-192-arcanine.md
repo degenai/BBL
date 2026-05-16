@@ -27,6 +27,8 @@ oracle_text: "[Ability: Warming Up] If this Pokémon has a Burning Scarf attache
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Arcanine (Rebel Clash)

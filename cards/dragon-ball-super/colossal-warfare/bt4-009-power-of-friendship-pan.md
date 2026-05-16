@@ -51,8 +51,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - pan
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Power of Friendship Pan (Colossal Warfare)
 
 ## Vision

@@ -50,8 +50,11 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - lorcana
+  - vision-passed
 ---
-
 # Royal Guard - Octopus Soldier (Reign of Jafar)
 
 ## Vision

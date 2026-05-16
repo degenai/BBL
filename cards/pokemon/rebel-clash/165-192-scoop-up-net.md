@@ -46,8 +46,11 @@ mood: other
 time_of_day: indeterminate
 setting: other
 oracle_text: Put 1 of your Pokémon that isn't a Pokémon V or a Pokémon-GX into your hand. (Discard all attached cards.)\nYou may play any number of Item cards during your turn.
+tags:
+  - card
+  - pokemon
+  - vision-passed
 ---
-
 # Scoop Up Net (Rebel Clash)
 
 ## Vision

@@ -51,8 +51,11 @@ oracle_text: "Start your engines! (If you have no speed, it starts at 1. It incr
 mood: comedic
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Slick Imitator (Aetherdrift)
 
 ## Vision

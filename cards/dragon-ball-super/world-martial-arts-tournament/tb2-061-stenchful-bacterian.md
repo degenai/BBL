@@ -41,8 +41,12 @@ setting: other
 suspected_ip: Bacterian
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - ip-pending
 ---
-
 # Stenchful Bacterian (World Martial Arts Tournament)
 
 ## Vision

@@ -49,8 +49,13 @@ setting: void
 suspected_ip: Broly and Paragus (Dragon Ball Z, Movie 8)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Broly's Ring (Galactic Battle)
 
 ## Vision

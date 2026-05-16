@@ -50,8 +50,10 @@ image_quality: high
 mood: comedic
 time_of_day: night
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Raucous Entertainer (Outlaws of Thunder Junction)
 
 ## Vision

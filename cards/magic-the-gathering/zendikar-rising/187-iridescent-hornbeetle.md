@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/187-iridescent
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/1/214ef641-b08c-42d0-94a5-3054fa7fcebc.jpg?1604263662
 flavor_text: The hatchlings will fill the jungles of Murasa in a glittering tide.
 oracle_text: At the beginning of your end step, create a 1/1 green Insect creature token for each +1/+1 counter you've put on creatures under your control this turn.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Iridescent Hornbeetle (Zendikar Rising)
 
 ## Vision

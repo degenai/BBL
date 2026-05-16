@@ -26,8 +26,10 @@ related_characters:
   - acerola
   - aether-foundation
 ip_resolution_for: alola-elite-four
+tags:
+  - layer
+  - character
 ---
-
 # Alola Elite Four
 
 The four-member senior-trainer cohort stationed at the summit of Mount Lanakila as the canonical culmination of the Alolan Island Challenge in Pokemon Sun and Moon (Game Freak / Creatures Inc. / Nintendo, 2016) and its sequel pair Pokemon Ultra Sun and Ultra Moon (Game Freak, 2017). The Alola Elite Four is the first Elite Four in main-series Pokemon canon assembled *new* on-screen during the player's story arc — the league's founding charter is dated to the player's own Champion's Test, framed in-game as Professor Kukui inaugurating the Alola Pokemon League and recruiting its first Elite Four from existing senior Alolan trainers rather than from a pre-existing Elite Four roster. The four canonical members are **Hala** (Fighting-type, Melemele Island kahuna, the player's first Grand Trial opponent doubling as senior E4 voice), **Olivia** (Rock-type, Akala Island kahuna, the only character in the main series to hold an Island Kahuna role AND an Elite Four seat simultaneously), **Acerola** (Ghost-type, former trial captain of the Thrifty Megamart on Ula'ula Island, the youngest E4 member and one of only two main-series trainers — alongside Phoebe — canonically able to communicate with Ghost-type Pokemon), and **Kahili** (Flying-type, a returning native Alolan who left the islands as a professional golfer and was recruited back specifically for the new Elite Four). In Pokemon Ultra Sun and Ultra Moon **Molayne** (Steel-type, observatory researcher and Sophocles's older cousin) replaces Hala on the Elite Four roster as the Steel-type specialist while Hala continues his kahuna duties — the Ultra version's only E4 roster change.

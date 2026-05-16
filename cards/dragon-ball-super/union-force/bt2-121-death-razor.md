@@ -48,8 +48,13 @@ setting: void
 suspected_ip: "Salza (Dragon Ball Z: Cooler's Revenge)"
 ip_confidence: med
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Death Razor (Union Force)
 
 ## Vision

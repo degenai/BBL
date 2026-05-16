@@ -48,8 +48,11 @@ image_quality: high
 mood: comedic
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - lorcana
+  - vision-passed
 ---
-
 # Out of Order (Archazia's Island)
 
 ## Vision

@@ -27,8 +27,10 @@ related_characters:
   - son-goku
   - trunks
 ip_resolution_for: vegeta
+tags:
+  - layer
+  - character
 ---
-
 # Vegeta
 
 The canonical Prince of All Saiyans, son of King Vegeta, introduced in *Dragon Ball Z*'s Saiyan Saga (Akira Toriyama, Shueisha 1989) as Frieza's elite warrior antagonist alongside Nappa, and continuously instantiated across thirty-five years of Dragon Ball franchise output as the canonical rival-and-eventual-ally to [[son-goku]]. The franchise's most-developed redemption-arc character; the canonical wielder of the Galick Gun and the Final Flash; the father of [[trunks]] (canonical wife Bulma); the canonical Saiyan-pride-as-character-thesis figure whose refusal to yield against any power-gap defines his operating mode across every named arc.

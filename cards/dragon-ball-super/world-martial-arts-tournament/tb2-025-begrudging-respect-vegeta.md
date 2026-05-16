@@ -49,8 +49,12 @@ setting: void
 suspected_ip: Vegeta (Dragon Ball)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - ip-pending
 ---
-
 # Begrudging Respect Vegeta (World Martial Arts Tournament)
 
 ## Vision

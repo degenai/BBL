@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.hasTag("card")
+    - file.hasTag("ip-pending")
+views:
+  - type: table
+    name: Suspected IPs awaiting verification
+    order:
+      - file.name
+      - game
+      - set
+      - suspected_ip
+      - ip_confidence
+      - quantity
+    sort:
+      - property: ip_confidence
+        direction: DESC
+      - property: suspected_ip
+        direction: ASC

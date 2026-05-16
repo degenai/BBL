@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/236-short-sword-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/7/973c166e-3e93-4ed5-b4c5-84dc158a8e4f.jpg?1594737540
 flavor_text: \"Sometimes the only difference between a martyr and a hero is a sword.\"\n—Captain Sisay, *Memoirs*
 oracle_text: "Equipped creature gets +1/+1.\\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Short Sword (Core Set 2021)
 
 ## Vision

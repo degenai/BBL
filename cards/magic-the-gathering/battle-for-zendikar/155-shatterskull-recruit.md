@@ -48,8 +48,10 @@ image_quality: high
 mood: grim
 time_of_day: twilight
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Shatterskull Recruit (Battle for Zendikar)
 
 ## Vision

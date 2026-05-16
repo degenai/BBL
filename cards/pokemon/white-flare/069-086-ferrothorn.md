@@ -27,6 +27,8 @@ oracle_text: "Power Whip (Metal): This attack does 20 damage to 1 of your oppone
 image_width: 733
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Ferrothorn (White Flare)

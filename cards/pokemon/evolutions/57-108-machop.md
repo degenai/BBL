@@ -49,8 +49,12 @@ setting: other
 suspected_ip: "Machop (#066)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Machop (Evolutions)
 
 ## Vision

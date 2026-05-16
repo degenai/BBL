@@ -49,8 +49,11 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: urban
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Rhythm of the Wild (Ravnica Allegiance)
 
 ## Vision

@@ -27,6 +27,8 @@ oracle_text: "[Ability: Cellular Companions] As long as this Pokémon is on your
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Zygarde (Unified Minds)

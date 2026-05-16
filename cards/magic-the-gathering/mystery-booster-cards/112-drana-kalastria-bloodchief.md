@@ -54,8 +54,10 @@ art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/112-dran
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/f/8f6bbbd5-ecce-48d7-9192-91ed9ceb7fa1.jpg?1580561399
 flavor_text: \"If our former masters would have us kneel again, they shall feel our defiance slashed across their membranes.\"
 oracle_text: "Flying\\n{X}{B}{B}: Target creature gets -0/-X until end of turn and Drana gets +X/+0 until end of turn."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Drana, Kalastria Bloodchief (Mystery Booster Cards)
 
 ## Vision

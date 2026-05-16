@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/247-gateway
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/4/3433a2c2-d252-4cd8-97e8-389875b2cda0.jpg?1584832247
 flavor_text: The Chamber of the Guildpact has fallen silent, its bright promise broken.
 oracle_text: "This land enters tapped.\\nWhen this land enters, sacrifice it unless you pay {1}.\\n{T}: Add one mana of any color."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Gateway Plaza (Ravnica Allegiance)
 
 ## Vision

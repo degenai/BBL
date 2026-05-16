@@ -51,8 +51,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - son-gohan
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Intrepid Dynasty Son Gohan (Expansion Deck Box Set 08: Magnificent Collection - Forsaken Warrior)
 
 ## Vision

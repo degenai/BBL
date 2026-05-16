@@ -52,8 +52,13 @@ ip_verified: true
 characters:
   - baby-dbgt
   - saiyan
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Baby // Rampaging Great Ape Baby (Colossal Warfare)
 
 ## Vision

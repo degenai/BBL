@@ -49,8 +49,10 @@ image_quality: high
 mood: peaceful
 time_of_day: day
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Neighborhood Guardian (Murders at Karlov Manor)
 
 ## Vision

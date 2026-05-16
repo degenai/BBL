@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/167-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/1/51216ab0-9806-4faa-afbd-143e95dc255b.jpg?1726286480
 flavor_text: The touch of its many hands is almost gentle, at first. But then the grip tightens, and the mandibles dig in.
 oracle_text: Reach\nWhen this creature enters, you may discard a card or pay {2}. When you do, destroy target Room.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Anthropede (Duskmourn: House of Horror)
 
 ## Vision

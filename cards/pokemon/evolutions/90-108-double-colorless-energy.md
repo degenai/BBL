@@ -41,8 +41,11 @@ oracle_text: Double Colorless Energy provides ColorlessColorless Energy.
 mood: other
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - pokemon
+  - vision-passed
 ---
-
 # Double Colorless Energy (Evolutions)
 
 ## Vision

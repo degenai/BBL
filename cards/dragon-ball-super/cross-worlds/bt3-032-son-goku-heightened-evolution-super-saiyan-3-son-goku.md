@@ -49,8 +49,13 @@ subject_known_ip: true
 suspected_ip: Son Goku (Dragon Ball Z / Dragon Ball Super)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Son Goku // Heightened Evolution Super Saiyan 3 Son Goku (Cross Worlds)
 
 ## Vision

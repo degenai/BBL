@@ -1,0 +1,45 @@
+filters:
+  and:
+    - file.hasTag("card")
+views:
+  - type: table
+    name: Full corpus (by price)
+    order:
+      - file.name
+      - game
+      - set
+      - rarity
+      - quantity
+      - market_price
+      - tags_hub
+    sort:
+      - property: quantity
+        direction: DESC
+      - property: market_price
+        direction: DESC
+  - type: table
+    name: By game
+    order:
+      - game
+      - set
+      - file.name
+      - rarity
+      - market_price
+    sort:
+      - property: game
+        direction: ASC
+      - property: set
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Held for lairs
+    filters:
+      and:
+        - held_for_lair > 0
+    order:
+      - file.name
+      - game
+      - set
+      - held_for_lair
+      - market_price

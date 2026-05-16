@@ -49,8 +49,10 @@ artist: Izzy
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/140-crash-through--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/2/8257c205-00cd-4d41-bd58-098575ea2343.jpg?1594736580
 oracle_text: Creatures you control gain trample until end of turn. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)\nDraw a card.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Crash Through (Core Set 2021)
 
 ## Vision

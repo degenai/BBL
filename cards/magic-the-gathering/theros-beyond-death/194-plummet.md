@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/194-plumme
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/8/a8b2f186-4e04-49cb-a206-257cfb7e9361.jpg?1581480847
 flavor_text: An arrow from Nylea's bow never fails to find its mark.
 oracle_text: Destroy target creature with flying.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Plummet (Theros Beyond Death)
 
 ## Vision

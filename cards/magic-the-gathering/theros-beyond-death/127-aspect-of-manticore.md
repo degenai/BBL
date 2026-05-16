@@ -28,6 +28,7 @@ oracle_text: Flash\nEnchant creature\nWhen this Aura enters, enchanted creature 
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Aspect of Manticore (Theros Beyond Death)

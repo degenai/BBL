@@ -45,8 +45,12 @@ oracle_text: You can play this card only if you discard 2 other cards from your 
 mood: action
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Great Catcher (Cosmic Eclipse)
 
 ## Vision

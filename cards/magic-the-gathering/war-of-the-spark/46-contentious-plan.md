@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/46-contentiou
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/e/8e30deb6-9e1f-4545-ae30-c30ba6c7b3a0.jpg?1636491537
 flavor_text: Niv-Mizzet had perfected a plan, but he had no control over the mortal minds who had to agree to implement it.
 oracle_text: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)\nDraw a card.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Contentious Plan (War of the Spark)
 
 ## Vision

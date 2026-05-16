@@ -49,8 +49,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - mareep-line
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Mareep (Chilling Reign)
 
 ## Vision

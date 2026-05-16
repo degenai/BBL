@@ -47,8 +47,11 @@ oracle_text: Whenever this creature attacks, you may sacrifice an artifact or di
 mood: action
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Reckless Detective (Murders at Karlov Manor)
 
 ## Vision

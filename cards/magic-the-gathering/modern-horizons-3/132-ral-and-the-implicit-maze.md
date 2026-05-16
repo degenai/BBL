@@ -49,8 +49,12 @@ oracle_text: (As this Saga enters and after your draw step, add a lore counter. 
 mood: action
 time_of_day: indeterminate
 setting: mountain
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-pending
 ---
-
 # Ral and the Implicit Maze (Modern Horizons 3)
 
 ## Vision

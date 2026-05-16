@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/123-skeleton-arc
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/c/fcb8d414-7f80-4a61-a0f2-0f16bf53e1b9.jpg?1594736387
 flavor_text: \"Soul, flesh, even eyes—none of these are strictly necessary for deadly precision.\"\n—Modriss of Zargoth Fen
 oracle_text: When this creature enters, it deals 1 damage to any target.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Skeleton Archer (Core Set 2021)
 
 ## Vision

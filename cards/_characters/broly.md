@@ -33,8 +33,10 @@ ip_resolution_for:
   - Movie 8 Broly
   - Original Broly
   - Koyama Broly
+tags:
+  - layer
+  - character
 ---
-
 # Broly
 
 The canonical Movie 8 / 1993 non-canon Legendary Super Saiyan — the canonical Toei-screenwritten Takao Koyama character whose canonical 1993 theatrical introduction in *Dragon Ball Z: Broly — The Legendary Super Saiyan* (directed by Shigeyasu Yamauchi, Toei Animation) installed one of the franchise's most-merchandised-but-officially-non-canonical antagonists into the Dragon Ball Z film roster, who canonically operated outside Akira Toriyama's manga-canon for 25 years before Toriyama canonically reimagined the character for the 2018 *Dragon Ball Super: Broly* canonical film (which canonically operates as a structurally-distinct character with different parentage-and-backstory continuity; **this node scopes to the Movie 8 / 1993 Koyama-screenwritten Broly only, NOT the 2018 canonical-DBS Broly reimagining**). Canonical Movie 8 Broly is canonically a Saiyan-elite warrior born with a canonical 10,000 power level that canonically prompted King Vegeta to order his infant execution (the canonical *King-Vegeta-orders-infant-execution-due-to-prophecied-Legendary-Super-Saiyan-threat* canonical-backstory parallels the canonical [[bardock]] node's *Frieza-orders-preemptive-Saiyan-genocide-due-to-prophecied-Super-Saiyan-threat* canonical-apparatus at the canonical *imperial-purge-of-the-prophecied-threat* design move). Paragus and the infant Broly canonically survived King Vegeta's execution order and escaped into space; Paragus canonically constructed the New Planet Vegeta scheme as canonical *revenge-against-King-Vegeta's-bloodline* operation across canonical decades of canonical-backstory continuity, canonically using Broly as the canonical-instrument-of-revenge controlled via a canonical mind-control crown synced to Paragus's canonical-control-device.

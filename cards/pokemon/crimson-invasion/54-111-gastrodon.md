@@ -27,6 +27,8 @@ oracle_text: "Eerie Fluid (FightingColorless) 30: Your opponent's Active Pokémo
 image_width: 907
 image_height: 1280
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Gastrodon (Crimson Invasion)

@@ -48,8 +48,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - trunks
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Trunks (Galactic Battle)
 
 ## Vision

@@ -49,8 +49,12 @@ ip_confidence: high
 ip_verified: false
 characters:
   - ralts-line
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Kirlia (Lost Thunder)
 
 ## Vision

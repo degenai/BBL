@@ -50,8 +50,10 @@ artist: Daren Bader
 art_crop_image: cards/_images/magic-the-gathering/magic-2011-m11/221-whispersilk-cloak--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/8/d83821b3-a6a6-4a15-9169-5c6d1942903d.jpg?1562477224
 oracle_text: Equipped creature can't be blocked and has shroud. (It can't be the target of spells or abilities.)\nEquip {2}
+tags:
+  - card
+  - vision-passed
 ---
-
 # Whispersilk Cloak (Magic 2011 (M11))
 
 ## Vision

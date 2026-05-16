@@ -21,8 +21,15 @@ last_seen: 2026-05-15
 art_match_confidence: none
 needs_manual_review: true
 manual_review_reason: No reference image found via weiss for set 'Attack on Titan'
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - weiss
+  - manual-review
 
+---
 # The World the Girl Saw (Attack on Titan)
 
 ## Vision

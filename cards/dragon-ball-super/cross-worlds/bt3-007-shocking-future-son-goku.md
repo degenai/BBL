@@ -48,8 +48,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - son-goku
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Shocking Future Son Goku (Cross Worlds)
 
 ## Vision

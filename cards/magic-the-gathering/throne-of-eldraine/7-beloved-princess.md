@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/7-beloved-p
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/c/4c6ee4eb-70b2-4f99-9d54-5caf2d3713be.jpg?1578068487
 flavor_text: Sometimes a gentle slipper can travel where an armored boot's been denied.
 oracle_text: Lifelink\nThis creature can't be blocked by creatures with power 3 or greater.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Beloved Princess (Throne of Eldraine)
 
 ## Vision

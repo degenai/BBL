@@ -51,8 +51,10 @@ image_quality: high
 mood: grim
 time_of_day: night
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Cathartic Parting (Duskmourn: House of Horror)
 
 ## Vision

@@ -55,8 +55,10 @@ art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/225-kaza-roil-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/f/af6bc333-79c0-4de8-9874-80f2254f9ad2.jpg?1604200147
 flavor_text: \"What sort of life is that, huddling in the familiar and safe? No thanks. Put me right in the center of the action.\"
 oracle_text: "Flying, haste\\n{T}: The next instant or sorcery spell you cast this turn costs {X} less to cast, where X is the number of Wizards you control as this ability resolves."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Kaza, Roil Chaser (Zendikar Rising)
 
 ## Vision

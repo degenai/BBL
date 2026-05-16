@@ -51,8 +51,10 @@ artist: Efrem Palacios
 art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/52-thrummingbird--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/4/e4adf2d0-5a76-498e-88d4-474d6934a2f5.jpg?1573508621
 oracle_text: Flying\nWhenever this creature deals combat damage to a player, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Thrummingbird (Mystery Booster Cards)
 
 ## Vision

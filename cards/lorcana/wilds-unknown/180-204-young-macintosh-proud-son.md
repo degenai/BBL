@@ -53,8 +53,12 @@ subject_known_ip: true
 suspected_ip: Young Macintosh (Brave)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - ip-pending
 ---
-
 # Young Macintosh - Proud Son (Wilds Unknown)
 
 ## Vision

@@ -27,6 +27,8 @@ oracle_text: "Guard Press (FightingColorless) 30: During your opponent's next tu
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Terrakion (Vivid Voltage)

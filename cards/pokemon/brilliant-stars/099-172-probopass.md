@@ -47,8 +47,13 @@ setting: other
 suspected_ip: Probopass
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Probopass (Brilliant Stars)
 
 ## Vision

@@ -29,6 +29,7 @@ oracle_text: "Flash\\nEnchant creature\\nEnchanted creature loses all abilities 
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Utter Insignificance (Modern Horizons 3)

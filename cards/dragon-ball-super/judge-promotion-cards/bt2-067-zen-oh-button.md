@@ -48,8 +48,12 @@ setting: void
 suspected_ip: Zen-Oh
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - ip-pending
 ---
-
 # Zen-Oh Button (Judge Promotion Cards)
 
 ## Vision

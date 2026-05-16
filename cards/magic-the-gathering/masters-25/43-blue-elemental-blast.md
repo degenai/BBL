@@ -47,8 +47,10 @@ art_crop_image: cards/_images/magic-the-gathering/masters-25/43-blue-elemental-b
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/f/2f51f88f-f662-4572-a371-9a77718ed079.jpg?1562434032
 flavor_text: Nothing escapes a sharp mind.
 oracle_text: Choose one —\n• Counter target red spell.\n• Destroy target red permanent.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Blue Elemental Blast (Masters 25)
 
 ## Vision

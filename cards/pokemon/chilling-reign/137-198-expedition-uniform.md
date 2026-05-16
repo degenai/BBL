@@ -45,8 +45,12 @@ oracle_text: Look at the bottom 3 cards of your deck and put them on top of your
 mood: other
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Expedition Uniform (Chilling Reign)
 
 ## Vision

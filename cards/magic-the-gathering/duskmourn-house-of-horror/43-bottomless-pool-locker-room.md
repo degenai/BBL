@@ -50,8 +50,10 @@ oracle_text: When you unlock this door, return up to one target creature to its 
 mood: horror
 time_of_day: night
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Bottomless Pool // Locker Room (Duskmourn: House of Horror)
 
 ## Vision

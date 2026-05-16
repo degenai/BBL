@@ -52,8 +52,11 @@ time_of_day: twilight
 setting: forest
 characters:
   - valgavoth
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Slavering Branchsnapper (Duskmourn: House of Horror)
 
 ## Vision

@@ -50,8 +50,12 @@ setting: forest
 suspected_ip: "Rufflet (#627)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Rufflet (Black Bolt)
 
 ## Vision

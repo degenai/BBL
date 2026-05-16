@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/22-griffin-aerie
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/e/6ea1ee60-5644-4f78-913d-32c36065957f.jpg?1594734998
 flavor_text: When griffins started nesting atop the northern tower, the castellan worried they'd be a nuisance. Instead, they took the entire castle under their protection.
 oracle_text: At the beginning of your end step, if you gained 3 or more life this turn, create a 2/2 white Griffin creature token with flying.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Griffin Aerie (Core Set 2021)
 
 ## Vision

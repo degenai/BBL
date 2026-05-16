@@ -45,8 +45,11 @@ oracle_text: Search your deck for up to 2 Water Energy cards, reveal them, and p
 mood: peaceful
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - pokemon
+  - vision-passed
 ---
-
 # Capacious Bucket (Rebel Clash)
 
 ## Vision

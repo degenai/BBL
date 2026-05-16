@@ -49,8 +49,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: urban
+tags:
+  - card
+  - vision-passed
 ---
-
 # Thrashing Mossdog (Dragon's Maze)
 
 ## Vision

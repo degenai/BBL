@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/162-underw
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/f/0fe616c4-dcb0-4284-ba10-6fbf7cecd217.jpg?1581480512
 flavor_text: The Underworld is anything but a resting place.
 oracle_text: Underworld Fires deals 1 damage to each creature and each planeswalker. If a permanent dealt damage this way would die this turn, exile it instead.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Underworld Fires (Theros Beyond Death)
 
 ## Vision

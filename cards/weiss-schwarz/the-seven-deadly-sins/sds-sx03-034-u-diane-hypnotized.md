@@ -24,6 +24,8 @@ needs_manual_review: false
 image_width: 350
 image_height: 489
 image_quality: low
+tags:
+  - card
+  - weiss
 ---
-
 # Diane: Hypnotized (The Seven Deadly Sins)

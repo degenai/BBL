@@ -47,8 +47,13 @@ setting: desert
 suspected_ip: Solosis
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Solosis (Fates Collide)
 
 ## Vision

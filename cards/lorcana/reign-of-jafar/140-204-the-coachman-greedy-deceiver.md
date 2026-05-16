@@ -54,8 +54,12 @@ setting: indoor
 suspected_ip: The Coachman (Pinocchio)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - ip-pending
 ---
-
 # The Coachman - Greedy Deceiver (Reign of Jafar)
 
 ## Vision

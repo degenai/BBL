@@ -49,8 +49,10 @@ artist: John Stanko
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/333-pirate-s-cutlass--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/5/c5dc0635-0cc4-419e-ab64-c07a69f34f75.jpg?1608911636
 oracle_text: "When this Equipment enters, attach it to target Pirate you control.\\nEquipped creature gets +2/+1.\\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Pirate's Cutlass (Commander Legends)
 
 ## Vision

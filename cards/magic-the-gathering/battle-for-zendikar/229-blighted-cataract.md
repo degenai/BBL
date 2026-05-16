@@ -44,8 +44,11 @@ oracle_text: "{T}: Add {C}.\\n{5}{U}, {T}, Sacrifice this land: Draw two cards."
 mood: grim
 time_of_day: indeterminate
 setting: mountain
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Blighted Cataract (Battle for Zendikar)
 
 ## Vision

@@ -48,8 +48,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - vision-passed
 ---
-
 # Untamed Might (Scars of Mirrodin)
 
 ## Vision

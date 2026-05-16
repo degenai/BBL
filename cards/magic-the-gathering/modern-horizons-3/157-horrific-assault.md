@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/157-horrific
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/f/cfa6ed13-7bba-40c0-8e0e-4ffd3cea6241.jpg?1717012485
 flavor_text: With shifting forms and no angel to pray to, Innistrad's werewolves were especially susceptible to Emrakul's influence.
 oracle_text: Target creature you control deals damage equal to its power to target creature or planeswalker you don't control. If you control an Eldrazi, you gain 3 life.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Horrific Assault (Modern Horizons 3)
 
 ## Vision

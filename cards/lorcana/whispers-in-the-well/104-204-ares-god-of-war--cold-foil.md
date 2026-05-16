@@ -57,8 +57,13 @@ subject_known_ip: true
 suspected_ip: Ares (Disney's Hercules)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Ares - God of War (Whispers in the Well)
 
 ## Vision

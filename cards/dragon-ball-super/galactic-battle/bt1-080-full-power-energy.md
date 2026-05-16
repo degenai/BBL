@@ -47,8 +47,13 @@ setting: void
 suspected_ip: Vegeta (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Full Power Energy (Galactic Battle)
 
 ## Vision

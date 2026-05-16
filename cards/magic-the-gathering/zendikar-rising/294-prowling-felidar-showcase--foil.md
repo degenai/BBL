@@ -54,8 +54,10 @@ art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/294-prowling-f
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/9/b9d1c11a-a32c-449c-95c6-450dce6c26d2.jpg?1604193011
 flavor_text: On occasion, felidars leave meaty \"gifts\" outside the tents of explorers they consider worthy.
 oracle_text: Vigilance\nLandfall — Whenever a land you control enters, put a +1/+1 counter on this creature.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Prowling Felidar (Showcase) (Zendikar Rising)
 
 ## Vision

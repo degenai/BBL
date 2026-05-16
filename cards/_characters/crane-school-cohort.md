@@ -31,8 +31,10 @@ ip_resolution_for:
   - Crane Hermit
   - Mercenary Tao
   - Tao Pai Pai
+tags:
+  - layer
+  - character
 ---
-
 # Crane School (Tsuru Sen-ryū — Master Shen's assassination-focused martial arts lineage)
 
 The Crane School (Tsuru Sen-ryū) is the canonical assassination-focused martial arts lineage of the original Dragon Ball franchise, founded by Master Shen (the Crane Hermit) and counterposed to Master Roshi's Turtle School (Kame Sen-ryū) from a shared Mutaito training lineage. Introduced in the 22nd Tenkaichi Budokai arc of the original Dragon Ball manga (Akira Toriyama, Shueisha 1986, chapters 142-167), the school operates canonically as the *paid-killer* counterposition to Roshi's *protect-the-weak* school — students shaped as weapons rather than developed as practitioners, contracted assassination as canonical revenue model rather than tournament sportsmanship. The school's canonical full roster within the BBL corpus is the five-card World Martial Arts Tournament TB2 cohort: **Master Shen, Martial Meister** (the schoolmaster) at TB2-063; **Mercenary Tao, Trading Moves** (Shen's younger brother, the monetized assassin extension) at TB2-048; **Tien Shinhan, Trading Moves** (the disciple who canonically defects to Roshi's lineage at the 22nd Budokai climax) at TB2-043; **Best Buddy Chiaotzu** (Tien's lifelong psychic-disciple partner) at TB2-044; and **Toughened Up Chiaotzu** at TB2-056. Bandai's TB2 set design canonically positions all five within a single 2018 booster, with mechanical pair-and-sacrifice synergies encoding the cohort's canonical relations directly (Best Buddy Chiaotzu's Auto reactivates Tien Shinhan; Tien's Activate switches him to Active Mode when Mercenary Tao is KO'd — the in-canon Tien-vs-Tao rivalry encoded as a game-state sacrifice).

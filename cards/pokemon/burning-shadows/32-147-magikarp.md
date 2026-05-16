@@ -46,8 +46,12 @@ setting: ocean
 suspected_ip: Magikarp
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Magikarp (Burning Shadows)
 
 ## Vision

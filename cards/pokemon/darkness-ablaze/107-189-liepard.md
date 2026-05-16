@@ -27,6 +27,8 @@ oracle_text: "[Ability: Limber] This Pokémon can't be Paralyzed.\\nSlashing Cla
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Liepard (Darkness Ablaze)

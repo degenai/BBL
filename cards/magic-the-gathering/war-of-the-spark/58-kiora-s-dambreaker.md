@@ -55,8 +55,11 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/58-kiora-s-da
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/c/acd61fb0-a82b-4f46-8043-c6b89764720b.jpg?1557576256
 flavor_text: \"When your enemy flees, send the sea to pursue them.\"\n—Kiora
 oracle_text: When this creature enters, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+tags:
+  - card
+  - vision-passed
+  - ip-verified
 ---
-
 # Kiora's Dambreaker (War of the Spark)
 
 ## Vision

@@ -49,8 +49,10 @@ oracle_text: Up to two target creatures each get +1/+2 until end of turn. You ga
 mood: action
 time_of_day: day
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Tandem Tactics (Battle for Zendikar)
 
 ## Vision

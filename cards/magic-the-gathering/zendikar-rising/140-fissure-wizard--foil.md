@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/140-fissure-wi
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/f/9fa10a18-5059-46ab-9983-0ea78b507331.jpg?1604197025
 flavor_text: He might call up a burst of lava or a raging hellion from Akoum's volcanic depths. Or he might just fall in.
 oracle_text: When this creature enters, you may discard a card. If you do, draw a card.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Fissure Wizard (Zendikar Rising)
 
 ## Vision

@@ -48,8 +48,12 @@ oracle_text: "Affinity for artifacts (This spell costs {1} less to cast for each
 mood: action
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-pending
 ---
-
 # Furnace Hellkite (Modern Horizons 3)
 
 ## Vision

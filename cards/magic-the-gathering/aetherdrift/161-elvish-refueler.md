@@ -51,8 +51,11 @@ oracle_text: "During your turn, as long as you haven't activated an exhaust abil
 mood: other
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Elvish Refueler (Aetherdrift)
 
 ## Vision

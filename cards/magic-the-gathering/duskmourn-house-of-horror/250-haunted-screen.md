@@ -50,8 +50,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Haunted Screen (Duskmourn: House of Horror)
 
 ## Vision

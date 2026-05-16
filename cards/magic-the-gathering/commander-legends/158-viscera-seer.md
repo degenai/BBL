@@ -53,8 +53,11 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/158-viscera-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/4/d49203dd-89b6-4e91-b3ff-5f9f5ce981f8.jpg?1608910025
 flavor_text: In matters of life and death, he trusts his gut.
 oracle_text: "Sacrifice a creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Viscera Seer (Commander Legends)
 
 ## Vision

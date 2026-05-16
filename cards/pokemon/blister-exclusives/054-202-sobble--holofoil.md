@@ -24,8 +24,15 @@ needs_manual_review: true
 manual_review_reason: Set 'Blister Exclusives' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won't be able to resist weeping.
 oracle_text: "Bind (WaterColorless) 20: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Sobble (Blister Exclusives)
 
 ## Vision

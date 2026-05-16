@@ -49,8 +49,11 @@ art_crop_image: cards/_images/magic-the-gathering/aetherdrift/155-bestow-greatne
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/6/b6a5adee-3482-4c5b-9260-58efa8fec5ba.jpg?1738356483
 flavor_text: Exercise kindness, for nothing remains small forever.\n—Alacrian proverb
 oracle_text: Target creature gets +4/+4 and gains trample until end of turn.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Bestow Greatness (Aetherdrift)
 
 ## Vision

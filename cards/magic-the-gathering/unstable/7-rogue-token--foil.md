@@ -21,8 +21,14 @@ last_seen: 2026-05-15
 art_match_confidence: none
 needs_manual_review: true
 manual_review_reason: No reference image found via scryfall for set 'Unstable'
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - manual-review
 
+---
 # Rogue Token (Unstable)
 
 ## Vision

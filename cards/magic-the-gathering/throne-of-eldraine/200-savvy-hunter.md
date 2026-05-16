@@ -57,8 +57,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/200-savvy-h
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/5/15c98441-2b31-4e48-a399-f36dffcfa41d.jpg?1572490818
 flavor_text: None of the other villagers dare venture into the wilds, so she feeds the whole hamlet herself.
 oracle_text: "Whenever this creature attacks or blocks, create a Food token. (It's an artifact with \\\"{2}, {T}, Sacrifice this token: You gain 3 life.\\\")\\nSacrifice two Foods: Draw a card."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Savvy Hunter (Throne of Eldraine)
 
 ## Vision

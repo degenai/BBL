@@ -23,8 +23,10 @@ related_characters:
   - alola-trial-captains
   - aether-foundation
 ip_resolution_for: acerola
+tags:
+  - layer
+  - character
 ---
-
 # Acerola
 
 The Alola-region Ghost-type specialist trainer who occupies a designer-confirmed **dual league role** unique within the franchise: Trial Captain of the Thrifty Megamart Ghost-type Trial on Ula'ula Island (Mimikyu-as-Totem), AND member of the Alola Elite Four (the only canonical Trial Captain to be directly promoted to the Elite Four within a single main-series Pokemon game's storyline). Per Bulbapedia's Acerola page and designer commentary by Shusuke Motomiya, Acerola is canonically the last living member of an Alolan royal family — her armband, depicted across all her TCG art and in-game sprites, is a royal heirloom from the distant past. Outside league duties she operates the Aether House on Ula'ula Island, a satellite branch of the Aether Foundation orphan-shelter network where she cares for both injured Pokemon and orphaned children. She is one of only two trainers across all main-series Pokemon games — alongside the Hoenn Elite Four's Phoebe — canonically able to communicate with Ghost-type Pokemon, a designer-confirmed trait noted in official Pokemon artbooks. Her in-canon character framing places a cheerful young child in the role traditionally occupied by senior Ghost-type specialists (Agatha, Phoebe), a deliberate designer-confirmed subversion of the "wise elder Ghost-type trainer" archetype. Her signature partner Pokemon is Mimikyu, the disguise-Pokemon whose canonical lore (a lonely creature who disguises itself as Pikachu to be loved) thematically composes with Acerola's own role as a caretaker-of-the-lonely at the Aether House.

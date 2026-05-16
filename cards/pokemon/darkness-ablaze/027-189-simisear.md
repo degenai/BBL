@@ -52,8 +52,13 @@ setting: indoor
 suspected_ip: Simisear (Pokemon)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Simisear (Darkness Ablaze)
 
 ## Vision

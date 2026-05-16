@@ -27,6 +27,8 @@ oracle_text: Tail Whap (Fighting) 10\nMud Shot (FightingFightingColorless) 60
 image_width: 868
 image_height: 1212
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Silicobra (Battle Styles)

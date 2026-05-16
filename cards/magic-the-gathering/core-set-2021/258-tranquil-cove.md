@@ -51,8 +51,10 @@ artist: John Avon
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/258-tranquil-cove--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/f/0fee9b4b-1510-4b78-bdde-2e0bb319ee33.jpg?1594737751
 oracle_text: "This land enters tapped.\\nWhen this land enters, you gain 1 life.\\n{T}: Add {W} or {U}."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Tranquil Cove (Core Set 2021)
 
 ## Vision

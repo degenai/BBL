@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/247-relic-amul
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/a/0ab97a84-fe8c-4986-afd8-3abdcc029f7f.jpg?1604200828
 flavor_text: Old power finds new purpose.
 oracle_text: "Whenever you cast an instant, sorcery, or Wizard spell, put a charge counter on this artifact.\\n{2}, {T}, Remove all charge counters from this artifact: It deals that much damage to target creature."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Relic Amulet (Zendikar Rising)
 
 ## Vision

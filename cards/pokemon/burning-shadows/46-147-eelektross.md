@@ -27,6 +27,8 @@ oracle_text: "Dark Clamp (LightningColorless) 50: The Defending Pokémon can't r
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Eelektross (Burning Shadows)

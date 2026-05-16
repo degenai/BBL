@@ -27,6 +27,8 @@ oracle_text: "Bubble Beam (WaterColorlessColorless) 30: Flip a coin. If heads, y
 image_width: 868
 image_height: 1212
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Corphish (Battle Styles)

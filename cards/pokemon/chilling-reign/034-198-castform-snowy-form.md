@@ -48,8 +48,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - castform-forms-cycle
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Castform Snowy Form (Chilling Reign)
 
 ## Vision

@@ -49,8 +49,13 @@ setting: mountain
 suspected_ip: Galarian Darumaka (Pokémon Sword and Shield)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Galarian Darumaka (Rebel Clash)
 
 ## Vision

@@ -52,8 +52,13 @@ ip_verified: true
 characters:
   - son-goku
   - son-gohan
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Father-Son Kamehameha (Union Force)
 
 ## Vision

@@ -31,8 +31,10 @@ related_characters:
   - eldrazi
   - zendikari-resistance
 ip_resolution_for: kor
+tags:
+  - layer
+  - character
 ---
-
 # Kor
 
 The Zendikar-native plate-armored nomadic warrior race that serves as one of the plane's three canonical sapient cultures (alongside the merfolk and the vampires, with humans, goblins, and elves rounding out the secondary population). Per MTG Wiki's Kor page, the kor are slender pale-skinned humanoids characterized by ritualistic facemark warpaint, white or grey hair (often bound in long braids and tassels), and a culture organized around rope-and-hook climbing rigs, kitesails, and the canyon-and-cliff vertical landscape of Zendikar. Their predominant color alignment is **white** (the white Limited common-and-uncommon slot in every Zendikar-block set, with Allies-block multicolor extensions during *Rise of the Eldrazi* and *Battle for Zendikar*).

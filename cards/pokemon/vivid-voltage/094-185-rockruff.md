@@ -27,6 +27,8 @@ oracle_text: Tackle (Fighting) 10\nRear Kick (FightingColorless) 20
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Rockruff (Vivid Voltage)

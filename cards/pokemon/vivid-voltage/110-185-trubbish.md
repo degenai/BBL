@@ -27,6 +27,8 @@ oracle_text: "Lucky Find (ColorlessColorless): Search your deck for an Item card
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Trubbish (Vivid Voltage)

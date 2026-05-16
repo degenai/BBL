@@ -20,8 +20,10 @@ related_symbols: []
 related_characters:
   - nicol-bolas
 ip_resolution_for: Angrath
+tags:
+  - layer
+  - character
 ---
-
 # Angrath
 
 The minotaur-pirate planeswalker stranded on Ixalan; introduced in *Rivals of Ixalan* (2018) as the captain of the slaver-vessel **Devil's Chains** and elaborated across two RIX printings and two *War of the Spark* (2019) printings. Angrath's character thesis is the canonical *stranded-pirate-trapped-on-the-wrong-plane* arc: a planeswalker whose spark was sealed off (along with every other walker's) by the Immortal Sun Bolas placed on Ixalan, forced to live as a mortal captain of a slaver crew in the Brazen Coalition's orbit, his only goal returning home to his own children whom he believes he will never see again. The `— Angrath` planeswalker subtype on the type-line is reserved for printings of this single character; canonical from Angrath, Minotaur Pirate (Rivals of Ixalan, 2018) through every subsequent legendary planeswalker bearing the name.

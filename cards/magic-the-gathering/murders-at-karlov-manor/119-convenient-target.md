@@ -48,8 +48,11 @@ oracle_text: "Enchant creature\\nWhen this Aura enters, suspect enchanted creatu
 mood: horror
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Convenient Target (Murders at Karlov Manor)
 
 ## Vision

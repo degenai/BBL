@@ -28,6 +28,7 @@ oracle_text: Spectacle {3}{B}{R} (You may cast this spell for its spectacle cost
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Rafter Demon (Ravnica Allegiance)

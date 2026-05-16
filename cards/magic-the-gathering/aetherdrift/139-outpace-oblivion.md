@@ -50,8 +50,11 @@ oracle_text: "Start your engines! (If you have no speed, it starts at 1. It incr
 mood: action
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Outpace Oblivion (Aetherdrift)
 
 ## Vision

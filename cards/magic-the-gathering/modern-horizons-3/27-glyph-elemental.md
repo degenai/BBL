@@ -46,8 +46,10 @@ oracle_text: Bestow {1}{W} (If you cast this card for its bestow cost, it's an A
 mood: sublime
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Glyph Elemental (Modern Horizons 3)
 
 ## Vision

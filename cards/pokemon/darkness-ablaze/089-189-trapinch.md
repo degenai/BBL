@@ -49,8 +49,12 @@ setting: desert
 suspected_ip: "Trapinch (#328)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Trapinch (Darkness Ablaze)
 
 ## Vision

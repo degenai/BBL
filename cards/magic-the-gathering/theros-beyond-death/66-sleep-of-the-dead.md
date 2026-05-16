@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/66-sleep-o
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/0/4007572b-a6c8-4a56-b1a7-ff099189c9c0.jpg?1581479523
 flavor_text: Normally, a cerberus sleeps one head at a time.
 oracle_text: Tap target creature. It doesn't untap during its controller's next untap step.\nEscape—{2}{U}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Sleep of the Dead (Theros Beyond Death)
 
 ## Vision

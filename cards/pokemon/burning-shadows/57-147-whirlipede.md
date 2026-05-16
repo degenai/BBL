@@ -46,8 +46,12 @@ setting: forest
 suspected_ip: Whirlipede
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Whirlipede (Burning Shadows)
 
 ## Vision

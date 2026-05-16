@@ -52,8 +52,13 @@ setting: other
 suspected_ip: "Helga Sinclair (Atlantis: The Lost Empire)"
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Helga Sinclair - Tough as Nails (Archazia's Island)
 
 ## Vision

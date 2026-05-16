@@ -49,8 +49,11 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Knight of the Last Breath (Ravnica Allegiance)
 
 ## Vision

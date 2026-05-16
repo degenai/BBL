@@ -29,6 +29,7 @@ oracle_text: Enchant creature or enchantment\nEnchanted permanent is an enchantm
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # One with the Stars (Theros Beyond Death)

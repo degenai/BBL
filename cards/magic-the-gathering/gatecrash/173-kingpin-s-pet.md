@@ -54,8 +54,11 @@ image_quality: high
 mood: grim
 time_of_day: day
 setting: urban
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Kingpin's Pet (Gatecrash)
 
 ## Vision

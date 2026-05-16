@@ -47,8 +47,13 @@ setting: void
 suspected_ip: Majin Buu (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Majin Buu Revived (Union Force)
 
 ## Vision

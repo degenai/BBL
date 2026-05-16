@@ -54,8 +54,11 @@ artist: Ravenna Tran
 art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/90-the-eldest-reborn--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/7/d706ad46-6d00-4cad-8666-c673d0cad4fb.jpg?1573509535
 oracle_text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Each opponent sacrifices a creature or planeswalker of their choice.\nII — Each opponent discards a card.\nIII — Put target creature or planeswalker card from a graveyard onto the battlefield under your control.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # The Eldest Reborn (Mystery Booster Cards)
 
 ## Vision

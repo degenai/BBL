@@ -28,6 +28,7 @@ flavor_text: \"I recognize that headdress. This one was feared even by her fello
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Naga Eternal (War of the Spark)

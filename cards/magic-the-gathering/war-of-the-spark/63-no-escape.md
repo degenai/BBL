@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/63-no-escape-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/c/bc9888a1-6f35-4802-b8fb-902017736d4a.jpg?1557576285
 flavor_text: Jace surmised that they were walking into Bolas's trap. He felt no joy in being right.
 oracle_text: Counter target creature or planeswalker spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.\nScry 1.
+tags:
+  - card
+  - vision-passed
 ---
-
 # No Escape (War of the Spark)
 
 ## Vision

@@ -49,8 +49,11 @@ image_quality: high
 mood: sublime
 time_of_day: day
 setting: urban
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Urban Burgeoning (Return to Ravnica)
 
 ## Vision

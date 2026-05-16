@@ -12,8 +12,10 @@ aliases:
 tag_signals: "[rebellion, defiance, dissent, refusal, sabotage, mob, riot, uprising, betrayal, escape, fugitive, conspiracy, mind-control-refused, oath-broken, mutiny, insurgent, partisan, runaway, hidden, ambush]"
 anchored_lairs: []
 brand_weight: foundational
+tags:
+  - layer
+  - hub
 ---
-
 # Rebellion
 
 A foundational [[Bulk Graph Bundler]] hub. Not "edgy cards." Rebellion as the political verb — refusal, organized noncompliance, sabotage, the moment of *no*. The card art moment where someone steps out of formation, opens the cage, breaks the contract, sets the manor on fire.

@@ -57,8 +57,12 @@ subject_known_ip: true
 suspected_ip: Goliath (Disney's Gargoyles)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - ip-pending
 ---
-
 # Goliath - Guardian of Castle Wyvern (Whispers in the Well)
 
 ## Vision

@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/231-forgotten-se
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/b/3bd39a06-c53a-42c2-b2df-028358f03406.jpg?1594737496
 flavor_text: It was built to withstand the ages, but no one remembers who built it or why it keeps its eternal watch.
 oracle_text: This creature enters tapped.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Forgotten Sentinel (Core Set 2021)
 
 ## Vision

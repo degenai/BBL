@@ -45,8 +45,12 @@ setting: void
 suspected_ip: Dimple (Mob Psycho 100)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - weiss
+  - vision-passed
+  - ip-pending
 ---
-
 # Dimple: Super Smug (Mob Psycho 100)
 
 ## Vision

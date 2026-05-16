@@ -24,8 +24,15 @@ needs_manual_review: true
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: It delivers headbutts with the water bubble on its head. Small Pokémon get sucked into the bubble, where they drown.
 oracle_text: "[Ability: Water Bubble] Prevent all damage done to this Pokémon by attacks from your opponent's Fire Pokémon.\\nAqua Edge (GrassColorlessColorless) 70"
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Araquanid (Sun & Moon Base Set)
 
 ## Vision

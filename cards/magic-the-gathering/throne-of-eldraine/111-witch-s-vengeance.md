@@ -49,8 +49,11 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/111-witch-s
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/b/dbf16457-3444-4130-b220-834b69d9faa3.jpg?1572490276
 flavor_text: The hex swept through the village, its citizens falling one by one.
 oracle_text: Creatures of the creature type of your choice get -3/-3 until end of turn.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Witch's Vengeance (Throne of Eldraine)
 
 ## Vision

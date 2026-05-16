@@ -47,8 +47,10 @@ image_quality: high
 mood: peaceful
 time_of_day: day
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Idyllic Grange (Throne of Eldraine)
 
 ## Vision

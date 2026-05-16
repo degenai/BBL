@@ -52,8 +52,12 @@ oracle_text: Replicate—Pay {E}{E}{E}. (When you cast this spell, copy it for e
 mood: action
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-pending
 ---
-
 # Reiterating Bolt (Modern Horizons 3)
 
 ## Vision

@@ -47,8 +47,13 @@ setting: void
 suspected_ip: Recoome
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Ginyu Force Recoome (Galactic Battle)
 
 ## Vision

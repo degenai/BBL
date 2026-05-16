@@ -54,8 +54,10 @@ art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/208-sphinx-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/9/d9aec56e-50a3-491f-89c6-32907ea3161a.jpg?1584831868
 flavor_text: Azorius sphinxes are loyal to the precepts of the law, not to any particular guildmaster—even one of their own kind.
 oracle_text: Flying, vigilance\nSpells your opponents cast that target this creature cost {2} more to cast.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Sphinx of New Prahv (Ravnica Allegiance)
 
 ## Vision

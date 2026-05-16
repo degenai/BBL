@@ -53,8 +53,13 @@ ip_verified: false
 characters:
   - piccolo-jr
   - namekian
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-pending
 ---
-
 # Sacrifice (Colossal Warfare)
 
 ## Vision

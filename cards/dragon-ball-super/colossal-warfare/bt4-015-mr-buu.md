@@ -49,8 +49,13 @@ setting: void
 suspected_ip: Mr. Buu (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Mr. Buu (Colossal Warfare)
 
 ## Vision

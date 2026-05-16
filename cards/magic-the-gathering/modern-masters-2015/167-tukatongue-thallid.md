@@ -48,8 +48,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Tukatongue Thallid (Modern Masters 2015)
 
 ## Vision

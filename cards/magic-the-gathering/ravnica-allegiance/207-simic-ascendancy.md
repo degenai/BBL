@@ -47,8 +47,11 @@ image_quality: high
 mood: sublime
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Simic Ascendancy (Ravnica Allegiance)
 
 ## Vision

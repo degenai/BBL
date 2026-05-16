@@ -50,8 +50,10 @@ artist: Sam Burley
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/254-forest--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/4/c4be31c4-9cb3-4a07-865b-5621127df660.jpg?1581482262
 oracle_text: "({T}: Add {G}.)"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Forest (Theros Beyond Death)
 
 ## Vision

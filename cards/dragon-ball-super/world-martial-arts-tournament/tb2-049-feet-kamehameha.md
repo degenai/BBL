@@ -51,8 +51,13 @@ subject_known_ip: true
 suspected_ip: Son Goku — Dragon Ball franchise
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Feet Kamehameha (World Martial Arts Tournament)
 
 ## Vision

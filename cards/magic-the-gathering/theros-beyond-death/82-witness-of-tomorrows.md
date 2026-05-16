@@ -29,6 +29,7 @@ oracle_text: "Flying\\n{3}{U}: Scry 1."
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Witness of Tomorrows (Theros Beyond Death)

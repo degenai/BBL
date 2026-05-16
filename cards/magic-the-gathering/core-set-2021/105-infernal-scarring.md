@@ -51,8 +51,11 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/105-infernal-sca
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/7/975e4b8e-add9-439c-9463-e2facee96c10.jpg?1594736195
 flavor_text: One who is marked by a demon in life is sure to be remembered as one in death.
 oracle_text: Enchant creature\nEnchanted creature gets +2/+0 and has \"When this creature dies, draw a card.\"
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Infernal Scarring (Core Set 2021)
 
 ## Vision

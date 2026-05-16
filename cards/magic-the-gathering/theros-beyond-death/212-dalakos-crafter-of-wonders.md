@@ -51,8 +51,11 @@ mood: other
 time_of_day: indeterminate
 setting: indoor
 subject_known_ip: true
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Dalakos, Crafter of Wonders (Theros Beyond Death)
 
 ## Vision

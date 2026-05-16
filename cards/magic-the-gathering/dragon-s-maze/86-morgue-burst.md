@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/dragon-s-maze/86-morgue-burst-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/b/7b3c2909-87ab-4027-9b56-58a2abae3fa3.jpg?1562917758
 flavor_text: \"Let him in. He's on the list.\"\n—Olrich, Rakdos club owner
 oracle_text: Return target creature card from your graveyard to your hand. Morgue Burst deals damage to any target equal to the power of the card returned this way.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Morgue Burst (Dragon's Maze)
 
 ## Vision

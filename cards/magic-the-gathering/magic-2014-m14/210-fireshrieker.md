@@ -49,8 +49,10 @@ artist: Christopher Moeller
 art_crop_image: cards/_images/magic-the-gathering/magic-2014-m14/210-fireshrieker--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/f/9f653742-b92a-4cfa-b3b5-8d20aabdb5dd.jpg?1562832986
 oracle_text: "Equipped creature has double strike. (It deals both first-strike and regular combat damage.)\\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Fireshrieker (Magic 2014 (M14))
 
 ## Vision

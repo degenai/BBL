@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/223-inquisi
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/0/807a570a-b5eb-420d-9fa5-6e5364025510.jpg?1572491011
 flavor_text: \"The strings were gone, but he still felt the pull of invisible forces tugging at his mind.\"\n—*Beyond the Great Henge*
 oracle_text: "When this creature enters, scry 1.\\nExile this creature: Create a 1/1 white Human creature token."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Inquisitive Puppet (Throne of Eldraine)
 
 ## Vision

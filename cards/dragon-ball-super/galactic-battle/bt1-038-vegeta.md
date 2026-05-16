@@ -48,8 +48,12 @@ subject_known_ip: true
 suspected_ip: Vegeta
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - ip-pending
 ---
-
 # Vegeta (Galactic Battle)
 
 ## Vision

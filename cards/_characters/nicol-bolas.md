@@ -22,8 +22,10 @@ appears_on:
 related_hubs: "[rebellion]"
 related_symbols: []
 ip_resolution_for: nicol-bolas
+tags:
+  - layer
+  - character
 ---
-
 # Nicol Bolas
 
 The elder dragon planeswalker who served as Magic: The Gathering's primary multiversal antagonist for roughly two and a half decades of Wizards of the Coast story output, from his introduction in Time Spiral (2006) through his climactic defeat in War of the Spark (2019). Twin of Ugin. Architect of the Mending-era Conflux. God-Pharaoh of Amonkhet. The most-storylined villain in the game's history; the canonical anchor of any narrative beat involving the elder dragon brood, the Amonkhet zombification arc, or the planeswalker-harvest plot that drove the entire 2017–2019 story block.

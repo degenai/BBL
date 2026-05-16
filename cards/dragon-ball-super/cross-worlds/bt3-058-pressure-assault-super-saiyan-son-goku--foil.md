@@ -49,8 +49,13 @@ subject_known_ip: true
 suspected_ip: Son Goku / Super Saiyan Son Goku (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Pressure Assault Super Saiyan Son Goku (Cross Worlds)
 
 ## Vision

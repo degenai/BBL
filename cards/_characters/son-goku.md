@@ -50,8 +50,10 @@ related_characters:
   - bardock
   - son-gohan
 ip_resolution_for: son-goku
+tags:
+  - layer
+  - character
 ---
-
 # Son Goku
 
 The Saiyan-born Earth-raised martial artist introduced in *Dragon Ball* (Akira Toriyama, Shueisha 1984) as a child with a monkey tail and a flying nimbus cloud, and continuously instantiated across forty years of Dragon Ball franchise output as the canonical protagonist of every subsequent series. Born Kakarot on Planet Vegeta to the low-class Saiyan warrior Bardock and his wife Gine, sent to Earth as an infant in a Saiyan attack pod, raised as Son Goku by the elderly martial-arts master Son Gohan in the Mount Paozu wilderness. The franchise's first and most-instantiated protagonist; the canonical Super Saiyan; the canonical wielder of the Kamehameha; the canonical Goku-Pan-Trunks GT traveling-trio party leader; the only Dragon Ball character whose continuous presence spans every named series in the franchise (Dragon Ball, Dragon Ball Z, Dragon Ball GT, Dragon Ball Super) plus the Bandai card-game continuity that the corpus draws from.

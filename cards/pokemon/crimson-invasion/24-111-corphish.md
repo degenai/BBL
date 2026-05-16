@@ -27,6 +27,8 @@ oracle_text: Crabhammer (WaterWater) 30
 image_width: 908
 image_height: 1280
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Corphish (Crimson Invasion)

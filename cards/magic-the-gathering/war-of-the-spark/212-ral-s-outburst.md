@@ -57,8 +57,12 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/212-ral-s-out
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/b/6be3dd3e-50d2-4729-9caa-b2cd984f4c97.jpg?1557577237
 flavor_text: \"Time to find the melting point of lazotep.\"\n—Ral Zarek
 oracle_text: Ral's Outburst deals 3 damage to any target. Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Ral's Outburst (War of the Spark)
 
 ## Vision

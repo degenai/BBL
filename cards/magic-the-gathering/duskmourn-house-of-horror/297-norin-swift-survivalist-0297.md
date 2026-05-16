@@ -53,8 +53,11 @@ setting: indoor
 suspected_ip: Norin the Wary
 ip_confidence: med
 ip_verified: false
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Norin, Swift Survivalist (0297) (Duskmourn: House of Horror)
 
 ## Vision

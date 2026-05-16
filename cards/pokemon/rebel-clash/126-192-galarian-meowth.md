@@ -51,8 +51,13 @@ setting: other
 suspected_ip: Galarian Meowth
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Galarian Meowth (Rebel Clash)
 
 ## Vision

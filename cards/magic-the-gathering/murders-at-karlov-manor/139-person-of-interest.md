@@ -48,8 +48,11 @@ image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: urban
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Person of Interest (Murders at Karlov Manor)
 
 ## Vision

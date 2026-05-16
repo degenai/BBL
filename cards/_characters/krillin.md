@@ -31,8 +31,10 @@ ip_resolution_for:
   - Kuririn
   - Klilyn
   - Kurilin
+tags:
+  - layer
+  - character
 ---
-
 # Krillin
 
 The canonical strongest human in the Dragon Ball franchise, the canonical lifelong best friend of [[son-goku]], and the canonical Z-Fighter most precisely engineered by Toriyama as the **labor-tier counterpart to the Saiyan ki-user-tier protagonist roster**. Introduced in Dragon Ball manga chapter 26 (1984, Akira Toriyama, Shueisha) as a child martial artist arriving at Master Roshi's Kame House to train alongside Goku — created by Toriyama specifically because his editor Kazuhiko Torishima flagged Goku as "too plain" without a rival companion to give the protagonist's arc contrast, per Toriyama's own subsequent commentary preserved on the canonical Wikipedia Krillin page. The character has continuously appeared across forty years of franchise output (Dragon Ball 1984-1995 manga, Dragon Ball Z 1989-1996 anime, Dragon Ball GT 1996-1997, Dragon Ball Super 2015-2018, and the Dragon Ball Super Card Game 2017-present) without significant designer-revision, making him one of the franchise's most-cited fixed points across continuities.

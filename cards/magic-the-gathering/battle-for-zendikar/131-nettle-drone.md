@@ -48,8 +48,11 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Nettle Drone (Battle for Zendikar)
 
 ## Vision

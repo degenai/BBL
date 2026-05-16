@@ -48,8 +48,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - team-rocket
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Team Rocket's Venture Bomb (Destined Rivals)
 
 ## Vision

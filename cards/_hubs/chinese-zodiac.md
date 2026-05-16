@@ -12,8 +12,10 @@ tag_signals: "[rat, ox, tiger, rabbit, dragon, snake, horse, goat, sheep, ram, m
 anchored_lairs: []
 brand_weight: foundational
 linked_project: pokemon-zodiac
+tags:
+  - layer
+  - hub
 ---
-
 # Chinese Zodiac
 
 A foundational [[Bulk Graph Bundler]] hub. The Wuxing × shengxiao (Chinese zodiac) grid as a curatorial framework. Foundationally tied to the [[diamondlegendz]] [[pokemon-zodiac]] project, which already encodes the **functional-agrarian China-max ruleset** — twelve zodiac slots × five Wuxing elements, sixty cells, ~25 honestly open. The grid is the rubric. BBL supplies cards.

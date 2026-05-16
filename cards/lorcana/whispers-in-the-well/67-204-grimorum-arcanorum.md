@@ -53,8 +53,12 @@ subject_known_ip: true
 suspected_ip: Grimorum Arcanorum (Disney's Gargoyles)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - ip-pending
 ---
-
 # Grimorum Arcanorum (Whispers in the Well)
 
 ## Vision

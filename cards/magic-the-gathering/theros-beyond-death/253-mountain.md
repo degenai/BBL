@@ -48,8 +48,10 @@ artist: Sam Burley
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/253-mountain--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/c/dc3f4154-9347-4ceb-8744-9f1ace90d33f.jpg?1581482260
 oracle_text: "({T}: Add {R}.)"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Mountain (Theros Beyond Death)
 
 ## Vision

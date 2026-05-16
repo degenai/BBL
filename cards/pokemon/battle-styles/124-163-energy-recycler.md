@@ -44,8 +44,11 @@ oracle_text: Shuffle up to 5 basic Energy cards from your discard pile into your
 mood: action
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - pokemon
+  - vision-passed
 ---
-
 # Energy Recycler (Battle Styles)
 
 ## Vision

@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/202-sabertooth-m
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/e/fe39e38e-76e5-4883-b530-d3e30e88ccad.jpg?1594737189
 flavor_text: \"I hope the idiot who introduced these creatures to the jungle was their first meal.\"\n—Opar, veteran guide
 oracle_text: At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on this creature and untap it.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Sabertooth Mauler (Core Set 2021)
 
 ## Vision

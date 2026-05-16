@@ -47,8 +47,10 @@ oracle_text: "Landfall — Whenever a land you control enters, you get {E} (an e
 mood: sublime
 time_of_day: night
 setting: void
+tags:
+  - card
+  - vision-passed
 ---
-
 # Roil Cartographer (Modern Horizons 3)
 
 ## Vision

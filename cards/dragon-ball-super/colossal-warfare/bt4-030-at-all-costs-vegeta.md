@@ -52,8 +52,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - vegeta
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # At All Costs Vegeta (Colossal Warfare)
 
 ## Vision

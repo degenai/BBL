@@ -46,8 +46,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - vision-passed
 ---
-
 # Ulamog's Crusher (Ultimate Masters)
 
 ## Vision

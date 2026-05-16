@@ -50,8 +50,10 @@ artist: Lucas Graciano
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/156-garenbrig-carver--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/9/194b7a1c-291a-470e-9a40-61b72a46793b.jpg?1572490548
 flavor_text: Countless knights of Garenbrig owe their lives to his peerless craftsmanship.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Garenbrig Carver (Throne of Eldraine)
 
 ## Vision

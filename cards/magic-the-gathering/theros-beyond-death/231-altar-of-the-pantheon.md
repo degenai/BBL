@@ -50,8 +50,11 @@ characters:
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/231-altar-of-the-pantheon--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/1/e1f2a587-443d-4626-a6f6-9a26838a42b1.jpg?1581481176
 oracle_text: "Your devotion to each color and each combination of colors is increased by one.\\n{T}: Add one mana of any color. If you control a God, a Demigod, or a legendary enchantment, you gain 1 life."
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Altar of the Pantheon (Theros Beyond Death)
 
 ## Vision

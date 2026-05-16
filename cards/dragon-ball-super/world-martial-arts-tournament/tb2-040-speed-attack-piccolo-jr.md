@@ -49,8 +49,13 @@ ip_verified: true
 characters:
   - piccolo-jr
   - namekian
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Speed Attack Piccolo Jr. (World Martial Arts Tournament)
 
 ## Vision

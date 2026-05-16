@@ -48,8 +48,10 @@ image_quality: high
 mood: comedic
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # It That Gets Left Hanging (Unstable)
 
 ## Vision

@@ -51,8 +51,11 @@ subject_known_ip: true
 suspected_ip: Chandra Nalaar
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Chandra, Fire Artisan (War of the Spark)
 
 ## Vision

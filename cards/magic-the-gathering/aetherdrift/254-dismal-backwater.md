@@ -50,8 +50,11 @@ art_crop_image: cards/_images/magic-the-gathering/aetherdrift/254-dismal-backwat
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/2/f20aef3f-79f6-4357-8631-1d141f437def.jpg?1753618484
 flavor_text: The doomed souls of the Speed Demons race in uneasy unity, each one hoping to escape their own fate.
 oracle_text: "This land enters tapped.\\nWhen this land enters, you gain 1 life.\\n{T}: Add {U} or {B}."
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Dismal Backwater (Aetherdrift)
 
 ## Vision

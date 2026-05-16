@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2019/239-manalith--ar
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/d/9dfba61f-9a6d-43e3-ad28-f74f737ef186.jpg?1615331277
 flavor_text: Planeswalkers seek out great monuments throughout the Multiverse, knowing that their builders were unwittingly drawn by the convergence of mana in the area.
 oracle_text: "{T}: Add one mana of any color."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Manalith (Core Set 2019)
 
 ## Vision

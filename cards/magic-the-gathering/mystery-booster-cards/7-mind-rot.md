@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/7-mind-r
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/8/284afe0e-0e0e-44eb-ad75-08d4b6fc338d.jpg?1573510052
 flavor_text: \"It saddens me to lose a source of inspiration. This one seemed especially promising.\"\n—Ashiok
 oracle_text: Target player discards two cards.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Mind Rot (Mystery Booster Cards)
 
 ## Vision

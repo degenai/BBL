@@ -29,6 +29,7 @@ oracle_text: Menace (This creature can't be blocked except by two or more creatu
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Belle of the Brawl (Throne of Eldraine)

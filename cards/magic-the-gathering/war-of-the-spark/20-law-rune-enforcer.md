@@ -29,6 +29,7 @@ oracle_text: "{1}, {T}: Tap target creature with mana value 2 or greater."
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Law-Rune Enforcer (War of the Spark)

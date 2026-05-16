@@ -49,8 +49,12 @@ setting: forest
 suspected_ip: "Espurr (#677)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Espurr (Burning Shadows)
 
 ## Vision

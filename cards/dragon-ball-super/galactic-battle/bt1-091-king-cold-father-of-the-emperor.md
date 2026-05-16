@@ -48,8 +48,13 @@ setting: void
 suspected_ip: King Cold (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # King Cold, Father of the Emperor (Galactic Battle)
 
 ## Vision

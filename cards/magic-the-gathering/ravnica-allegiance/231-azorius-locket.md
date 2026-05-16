@@ -55,8 +55,10 @@ art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/231-azorius
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/3/13aed078-9e29-48e7-b145-5252362031a0.jpg?1584832096
 flavor_text: \"Mandatory lockets enable the tracking of all Senate personnel for improved security and efficiency.\"\n—Dovin Baan
 oracle_text: "{T}: Add {W} or {U}.\\n{W/U}{W/U}{W/U}{W/U}, {T}, Sacrifice this artifact: Draw two cards."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Azorius Locket (Ravnica Allegiance)
 
 ## Vision

@@ -20,6 +20,8 @@ date_added: 2026-05-14
 last_seen: 2026-05-15
 art_match_confidence: high
 needs_manual_review: false
+tags:
+  - card
+  - weiss
 ---
-
 # What We Should Focus On (A) (Attack on Titan)

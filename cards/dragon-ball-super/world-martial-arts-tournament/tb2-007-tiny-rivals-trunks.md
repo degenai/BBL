@@ -50,8 +50,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - trunks
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Tiny Rivals Trunks (World Martial Arts Tournament)
 
 ## Vision

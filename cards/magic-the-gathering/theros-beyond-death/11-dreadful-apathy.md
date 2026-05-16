@@ -49,8 +49,11 @@ image_quality: high
 mood: grim
 time_of_day: day
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Dreadful Apathy (Theros Beyond Death)
 
 ## Vision

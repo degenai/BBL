@@ -49,8 +49,12 @@ setting: ocean
 suspected_ip: "Oshawott (#501)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Oshawott (Vivid Voltage)
 
 ## Vision

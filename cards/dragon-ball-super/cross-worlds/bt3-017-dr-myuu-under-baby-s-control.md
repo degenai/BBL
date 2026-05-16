@@ -48,8 +48,13 @@ ip_verified: true
 characters:
   - baby-dbgt
   - machine-mutants-m2
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Dr.Myuu, Under Baby's Control (Cross Worlds)
 
 ## Vision

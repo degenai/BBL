@@ -49,8 +49,13 @@ setting: mountain
 suspected_ip: Galarian Farfetch'd (Pokémon Sword and Shield)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Galarian Farfetch'd (Rebel Clash)
 
 ## Vision

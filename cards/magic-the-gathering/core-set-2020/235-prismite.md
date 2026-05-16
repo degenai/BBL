@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2020/235-prismite--ar
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/c/5c9fdb01-ba52-4510-897e-0d69558fdaee.jpg?1592517711
 flavor_text: Even its shadow is a dazzling rainbow.
 oracle_text: "{2}: Add one mana of any color."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Prismite (Core Set 2020)
 
 ## Vision

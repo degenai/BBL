@@ -46,8 +46,12 @@ setting: void
 suspected_ip: Cutiefly
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Cutiefly (Burning Shadows)
 
 ## Vision

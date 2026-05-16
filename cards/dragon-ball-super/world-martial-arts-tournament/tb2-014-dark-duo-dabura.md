@@ -52,8 +52,13 @@ image_height: 871
 image_quality: med
 characters:
   - babidi
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Dark Duo Dabura (World Martial Arts Tournament)
 
 ## Vision

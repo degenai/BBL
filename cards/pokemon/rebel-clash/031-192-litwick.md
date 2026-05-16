@@ -47,8 +47,12 @@ setting: indoor
 suspected_ip: Litwick
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Litwick (Rebel Clash)
 
 ## Vision

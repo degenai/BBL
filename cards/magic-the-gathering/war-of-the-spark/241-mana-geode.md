@@ -47,8 +47,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/241-mana-geod
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/7/17315a12-a7f8-45ba-ac3b-a62c789e75d0.jpg?1557577433
 flavor_text: \"I don't care if it's an all-powerful relic or a street vendor's lucky charm. If it brings you courage, wear it.\"\n—Saheeli Rai
 oracle_text: "When this artifact enters, scry 1.\\n{T}: Add one mana of any color."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Mana Geode (War of the Spark)
 
 ## Vision

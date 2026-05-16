@@ -50,8 +50,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Touch of the Void (Battle for Zendikar)
 
 ## Vision

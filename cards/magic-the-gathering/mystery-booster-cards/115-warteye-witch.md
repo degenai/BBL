@@ -54,8 +54,10 @@ art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/115-wart
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/5/b5be9b82-8356-4e7e-95ae-809be87d68b0.jpg?1573510870
 flavor_text: Eyeballs that portend unpleasant futures become slimy snacks instead.
 oracle_text: Whenever this creature or another creature you control dies, scry 1.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Warteye Witch (Mystery Booster Cards)
 
 ## Vision

@@ -29,6 +29,7 @@ oracle_text: As long as you control an artifact or enchantment, this creature ha
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Flutterfox (Throne of Eldraine)

@@ -27,6 +27,8 @@ oracle_text: "[Ability: Stellar Wish] Once during your turn (before your attack)
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Jirachi (Team Up)

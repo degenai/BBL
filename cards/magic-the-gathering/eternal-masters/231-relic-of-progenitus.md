@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/eternal-masters/231-relic-of-p
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/3/436cd66c-0622-43cd-8748-af4d21a2db3f.jpg?1580015265
 flavor_text: Elves believe the hydra-god Progenitus sleeps beneath Naya, feeding on forgotten magics.
 oracle_text: "{T}: Target player exiles a card from their graveyard.\\n{1}, Exile this artifact: Exile all graveyards. Draw a card."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Relic of Progenitus (Eternal Masters)
 
 ## Vision

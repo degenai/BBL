@@ -55,8 +55,11 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/33-reveren
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/4/54153b9c-483e-4e5c-a1ab-b1c8a7a657d4.jpg?1581479206
 flavor_text: \"Zeal is the sharpest blade, and piety the strongest shield.\"
 oracle_text: When this creature enters, create a number of 1/1 white Human Soldier creature tokens equal to your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Reverent Hoplite (Theros Beyond Death)
 
 ## Vision

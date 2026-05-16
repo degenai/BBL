@@ -53,8 +53,11 @@ symbols:
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/149-airtight-alibi--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/f/bffbbe21-0a1d-48b9-903e-81c109aa11de.jpg?1706241938
 oracle_text: Flash\nEnchant creature\nWhen this Aura enters, untap enchanted creature. It gains hexproof until end of turn. If it's suspected, it's no longer suspected.\nEnchanted creature gets +2/+2 and can't become suspected.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Airtight Alibi (Murders at Karlov Manor)
 
 ## Vision

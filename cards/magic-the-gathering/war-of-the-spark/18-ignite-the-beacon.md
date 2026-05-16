@@ -53,8 +53,11 @@ subject_known_ip: true
 suspected_ip: Ajani Goldmane
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Ignite the Beacon (War of the Spark)
 
 ## Vision

@@ -51,8 +51,10 @@ image_quality: high
 mood: sublime
 time_of_day: day
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Hydra Trainer (Modern Horizons 3)
 
 ## Vision

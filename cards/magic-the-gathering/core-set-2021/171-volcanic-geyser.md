@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/171-volcanic-gey
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/e/7e22c791-6ef9-4f13-a14d-4f795f48bb1c.jpg?1594736870
 flavor_text: \"The common folk call it the breaking of the crust or the spilling of fire. Geomancers call it target practice.\"\n—Ryda, geomancer
 oracle_text: Volcanic Geyser deals X damage to any target.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Volcanic Geyser (Core Set 2021)
 
 ## Vision

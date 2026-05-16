@@ -11,8 +11,10 @@ aliases:
 tag_signals: "[labor, exhaustion, drudgery, servant, tax-collector, scrubbing, burnout, hierarchy, oppression, working-class, peasant, soldier, worker, vow, ritual, captive, victim, coercion]"
 anchored_lairs: []
 brand_weight: foundational
+tags:
+  - layer
+  - hub
 ---
-
 # Labor
 
 A foundational [[Bulk Graph Bundler]] hub. Not "workers" as cute aesthetic. Labor as the thing that gets *extracted* — by nobles, by tax-collectors, by the manor, by the church, by the racing-sponsor, by the gym franchise that takes 50%. The thing you owe and can't repay. The thing depicted in card art where one figure scrubs a floor while another stands on it.

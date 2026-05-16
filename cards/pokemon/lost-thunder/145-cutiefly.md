@@ -48,8 +48,12 @@ setting: other
 suspected_ip: Cutiefly (Pokémon Sun and Moon)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Cutiefly (Lost Thunder)
 
 ## Vision

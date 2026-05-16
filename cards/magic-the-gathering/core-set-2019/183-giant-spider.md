@@ -48,8 +48,10 @@ oracle_text: Reach (This creature can block creatures with flying.)
 mood: horror
 time_of_day: indeterminate
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Giant Spider (Core Set 2019)
 
 ## Vision

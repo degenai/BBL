@@ -49,8 +49,11 @@ image_quality: high
 mood: horror
 time_of_day: night
 setting: forest
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Eldrazi Aggressor (Oath of the Gatewatch)
 
 ## Vision

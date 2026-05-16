@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/mystery-booster-cards/314-llan
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/7/57ebd34e-dfe1-4093-a302-db395047a546.jpg?1719593791
 flavor_text: As patient and generous as life, as harsh and merciless as nature.
 oracle_text: "{T}: Add {G}."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Llanowar Elves (Mystery Booster Cards)
 
 ## Vision

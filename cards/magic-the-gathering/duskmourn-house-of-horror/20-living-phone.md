@@ -28,6 +28,7 @@ oracle_text: When this creature dies, look at the top five cards of your library
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Living Phone (Duskmourn: House of Horror)

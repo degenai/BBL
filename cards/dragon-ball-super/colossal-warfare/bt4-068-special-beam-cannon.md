@@ -48,8 +48,13 @@ ip_verified: true
 characters:
   - piccolo-jr
   - namekian
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Special Beam Cannon (Colossal Warfare)
 
 ## Vision

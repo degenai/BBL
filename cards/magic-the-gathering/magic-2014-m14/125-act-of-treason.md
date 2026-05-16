@@ -52,8 +52,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - vision-passed
 ---
-
 # Act of Treason (Magic 2014 (M14))
 
 ## Vision

@@ -50,8 +50,11 @@ oracle_text: Eerie — Whenever an enchantment you control enters and whenever y
 mood: horror
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Scrabbling Skullcrab (Duskmourn: House of Horror)
 
 ## Vision

@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/67-rousing-read-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/8/c82be2ca-8350-4cf5-83b6-e8b60a9e21c6.jpg?1594735713
 flavor_text: Great literature can transport the reader.
 oracle_text: Enchant creature\nWhen this Aura enters, draw two cards, then discard a card.\nEnchanted creature gets +1/+1 and has flying.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Rousing Read (Core Set 2021)
 
 ## Vision

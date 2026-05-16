@@ -48,8 +48,13 @@ subject_known_ip: true
 suspected_ip: Kibito (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Kibito, Kai's Attendant (Cross Worlds)
 
 ## Vision

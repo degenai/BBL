@@ -51,8 +51,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - trunks
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Unyielding Justice SS2 Trunks (Cross Worlds)
 
 ## Vision

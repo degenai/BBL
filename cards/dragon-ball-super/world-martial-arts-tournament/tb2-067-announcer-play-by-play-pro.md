@@ -48,8 +48,13 @@ setting: other
 suspected_ip: World Tournament Announcer
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Announcer, Play-By-Play Pro (World Martial Arts Tournament)
 
 ## Vision

@@ -52,8 +52,11 @@ oracle_text: Kicker {G} and/or {1}{U}\nWhen you cast this spell, if it was kicke
 mood: action
 time_of_day: twilight
 setting: mountain
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Wastescape Battlemage (Modern Horizons 3)
 
 ## Vision

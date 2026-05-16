@@ -50,8 +50,10 @@ artist: Alexander Forssberg
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/243-dwarven-mine--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/c/5c83074d-0c9b-4b58-94ca-d75240485579.jpg?1572491198
 oracle_text: "({T}: Add {R}.)\\nThis land enters tapped unless you control three or more other Mountains.\\nWhen this land enters untapped, create a 1/1 red Dwarf creature token."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Dwarven Mine (Throne of Eldraine)
 
 ## Vision

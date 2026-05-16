@@ -51,8 +51,10 @@ image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Undergrowth Scavenger (Magic 2015 (M15))
 
 ## Vision

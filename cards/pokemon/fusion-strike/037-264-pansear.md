@@ -49,8 +49,12 @@ ip_confidence: high
 ip_verified: false
 characters:
   - elemental-monkey-trio
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Pansear (Fusion Strike)
 
 ## Vision

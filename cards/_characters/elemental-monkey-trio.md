@@ -25,6 +25,9 @@ appears_on:
   - pokemon/fusion-strike/037-264-pansear
 related_hubs: []
 related_symbols: []
+tags:
+  - layer
+  - character
 ---
 # Elemental monkey trio (Pansage / Pansear / Panpour line)
 

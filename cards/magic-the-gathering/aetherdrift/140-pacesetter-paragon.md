@@ -47,8 +47,11 @@ oracle_text: "Exhaust — {2}{R}: Put a +1/+1 counter on this creature. It gains
 mood: action
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Pacesetter Paragon (Aetherdrift)
 
 ## Vision

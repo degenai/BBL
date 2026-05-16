@@ -21,8 +21,10 @@ related_symbols: []
 related_characters:
   - nicol-bolas
 ip_resolution_for: Kiora
+tags:
+  - layer
+  - character
 ---
-
 # Kiora
 
 Merfolk planeswalker, sea-sorceress, and the most-printed leviathan-summoner in Magic: The Gathering canon. Introduced in *Born of the Gods* (2014) as Kiora, the Crashing Wave; foregrounded across the *Battle for Zendikar* / *Oath of the Gatewatch* Eldrazi-crisis arc (2015–2016), the *War of the Spark* Ravnica invasion (2019), and the *Theros: Beyond Death* return-to-Theros arc (2020). The `— Kiora` planeswalker subtype on the type-line is reserved for printings of this single character; canonical from Kiora, the Crashing Wave (Born of the Gods, 2014) through every subsequent legendary planeswalker bearing the name. Born on Zendikar (specifically the continent Tazeem), Kiora venerates leviathans, krakens, and the deep, and famously stole her signature bident from the Theros sea god Thassa during a planar incursion — a cross-plane theft that retroactively grounds every subsequent Kiora print's iconography and continues to flavor her conflict with the Theros pantheon.

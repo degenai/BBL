@@ -46,8 +46,12 @@ time_of_day: indeterminate
 setting: void
 symbols:
   - single-strike-emblem
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
 ---
-
 # Single Strike Scroll of Scorn (Battle Styles)
 
 ## Vision

@@ -44,8 +44,12 @@ setting: urban
 suspected_ip: Pokémon Ranger (Trainer class)
 ip_confidence: med
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Pokemon Ranger (Steam Siege)
 
 ## Vision

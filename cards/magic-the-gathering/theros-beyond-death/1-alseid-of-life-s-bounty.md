@@ -52,8 +52,11 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/1-alseid-o
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/6/36c8c075-9597-412e-9fc4-9d73b4405d12.jpg?1581478926
 flavor_text: \"Dawn-kissed, he nourishes the golden grain.\"\n—Psemilla, Meletian poet
 oracle_text: "Lifelink\\n{1}, Sacrifice this creature: Target creature or enchantment you control gains protection from the color of your choice until end of turn."
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Alseid of Life's Bounty (Theros Beyond Death)
 
 ## Vision

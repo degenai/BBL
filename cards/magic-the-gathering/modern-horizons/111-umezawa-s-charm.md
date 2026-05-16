@@ -52,8 +52,11 @@ setting: other
 suspected_ip: Toshiro Umezawa
 ip_confidence: med
 ip_verified: false
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Umezawa's Charm (Modern Horizons)
 
 ## Vision

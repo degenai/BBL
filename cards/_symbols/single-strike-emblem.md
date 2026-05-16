@@ -17,8 +17,10 @@ appears_on:
   - pokemon/chilling-reign/154-198-single-strike-scroll-of-piercing
 related_hubs: []
 related_characters: []
+tags:
+  - layer
+  - symbol
 ---
-
 # Single Strike emblem
 
 The iconographic primitive of the **Single Strike battle style**, one of the two designer-coordinated battle-style cohorts introduced in Pokemon TCG **Battle Styles** (SWSH5, March 19, 2021) as the set's headline mechanic. The emblem is rendered as a stylized red-and-black graphic device — most consistently a clenched fist or single-strike calligraphic mark wreathed in flame-coded warm colors (red, orange, black accents) — and is stamped on every card that participates in the Single Strike subtype as the visible badge of cohort membership. Its sibling emblem, the **Rapid Strike** mark, performs the same function for the cooler blue-and-water-coded Rapid Strike cohort.

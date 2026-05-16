@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/69-stingin
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/1/0162a0b8-a2d1-4664-a445-331aee6d5175.jpg?1581479556
 flavor_text: Starfish are its favorite prey.
 oracle_text: Whenever you cast your first spell during each opponent's turn, you may tap or untap target nonland permanent.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Stinging Lionfish (Theros Beyond Death)
 
 ## Vision

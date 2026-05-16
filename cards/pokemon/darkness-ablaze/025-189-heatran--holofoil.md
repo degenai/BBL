@@ -47,8 +47,13 @@ setting: other
 suspected_ip: Heatran
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Heatran (Darkness Ablaze)
 
 ## Vision

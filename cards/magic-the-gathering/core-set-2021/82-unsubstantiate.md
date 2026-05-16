@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/82-unsubstantiat
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/d/2dc0bafd-debc-4b62-9fe0-56b4aad02484.jpg?1594735888
 flavor_text: \"Nicely done, Jace. You always were good at disappearing acts.\"\n—Liliana Vess
 oracle_text: Return target spell or creature to its owner's hand.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Unsubstantiate (Core Set 2021)
 
 ## Vision

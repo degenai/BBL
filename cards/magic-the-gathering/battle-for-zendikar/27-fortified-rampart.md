@@ -47,8 +47,10 @@ oracle_text: Defender
 mood: horror
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Fortified Rampart (Battle for Zendikar)
 
 ## Vision

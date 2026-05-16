@@ -46,8 +46,12 @@ setting: other
 suspected_ip: Electrike
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Electrike (Darkness Ablaze)
 
 ## Vision

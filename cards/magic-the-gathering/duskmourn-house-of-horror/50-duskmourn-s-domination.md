@@ -50,8 +50,10 @@ characters:
 mood: horror
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - vision-passed
 ---
-
 # Duskmourn's Domination (Duskmourn: House of Horror)
 
 ## Vision

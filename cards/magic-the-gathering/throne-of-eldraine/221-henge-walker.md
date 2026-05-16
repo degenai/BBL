@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/221-henge-w
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/9/9925f0bc-8685-4e38-8864-0ad3a9549ab5.jpg?1572490988
 flavor_text: Everything that inhabits Garenbrig is affected by the wild magic flowing through the Great Henge.
 oracle_text: Adamant — If at least three mana of the same color was spent to cast this spell, this creature enters with a +1/+1 counter on it.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Henge Walker (Throne of Eldraine)
 
 ## Vision

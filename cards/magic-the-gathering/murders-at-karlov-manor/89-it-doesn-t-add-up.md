@@ -56,8 +56,11 @@ setting: void
 suspected_ip: Etrata
 ip_confidence: med
 ip_verified: false
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # It Doesn't Add Up (Murders at Karlov Manor)
 
 ## Vision

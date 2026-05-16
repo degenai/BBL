@@ -53,8 +53,11 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/115-mind-rot--ar
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/3/833a8604-92d5-443b-9bc0-bd91c973ef07.jpg?1594736305
 flavor_text: Many an inventor has collapsed under the pressure to create a flawless design.
 oracle_text: Target player discards two cards.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Mind Rot (Core Set 2021)
 
 ## Vision

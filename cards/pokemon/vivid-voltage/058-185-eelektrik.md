@@ -27,6 +27,8 @@ oracle_text: "Shocking Smash (Lightning): Flip a coin. If heads, discard an Ener
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Eelektrik (Vivid Voltage)

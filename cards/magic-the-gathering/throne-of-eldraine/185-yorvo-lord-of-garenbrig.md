@@ -49,8 +49,10 @@ artist: Zack Stella
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/185-yorvo-lord-of-garenbrig--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/e/ae2998a1-1713-467e-a08e-0efd8720aa5b.jpg?1572490720
 oracle_text: Yorvo enters with four +1/+1 counters on it.\nWhenever another green creature you control enters, put a +1/+1 counter on Yorvo. Then if that creature's power is greater than Yorvo's power, put another +1/+1 counter on Yorvo.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Yorvo, Lord of Garenbrig (Throne of Eldraine)
 
 ## Vision

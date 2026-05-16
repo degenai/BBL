@@ -27,6 +27,8 @@ oracle_text: "Tantailizing (Colorless): Flip a coin. If heads, switch 1 of your 
 image_width: 868
 image_height: 1212
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Galarian Slowpoke (Battle Styles)

@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/95-final-d
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/e/8e5b8580-9198-4735-83c1-289400c1d814.jpg?1581479774
 flavor_text: The Underworld erodes memory, identity, and eventually the physical form, leaving only crumbling statues called misera—hollow monuments to mortal futility.
 oracle_text: Exile target creature.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Final Death (Theros Beyond Death)
 
 ## Vision

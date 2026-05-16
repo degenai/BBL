@@ -46,8 +46,10 @@ oracle_text: Destroy target tapped creature.\nAwaken 3—{5}{W} (If you cast thi
 mood: action
 time_of_day: day
 setting: desert
+tags:
+  - card
+  - vision-passed
 ---
-
 # Sheer Drop (Battle for Zendikar)
 
 ## Vision

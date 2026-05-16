@@ -27,6 +27,8 @@ oracle_text: "Venoshock (Colorless) 10+: If your opponent's Active Pokémon is P
 image_width: 868
 image_height: 1212
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Bellsprout (Battle Styles)

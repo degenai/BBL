@@ -54,8 +54,10 @@ time_of_day: indeterminate
 setting: indoor
 characters:
   - fear-of-cycle
+tags:
+  - card
+  - vision-passed
 ---
-
 # Fear of Exposure (Duskmourn: House of Horror)
 
 ## Vision

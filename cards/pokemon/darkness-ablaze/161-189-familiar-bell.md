@@ -44,8 +44,11 @@ oracle_text: Search your deck for a Pokémon with the same name as a Pokémon in
 mood: peaceful
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - pokemon
+  - vision-passed
 ---
-
 # Familiar Bell (Darkness Ablaze)
 
 ## Vision

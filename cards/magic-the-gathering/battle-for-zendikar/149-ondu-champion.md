@@ -54,8 +54,11 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: mountain
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Ondu Champion (Battle for Zendikar)
 
 ## Vision

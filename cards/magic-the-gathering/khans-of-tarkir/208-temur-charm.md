@@ -52,8 +52,10 @@ artist: Mathias Kollros
 art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/208-temur-charm--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/2/e2ee3e36-a849-42b0-b84b-027a08427c35.jpg?1562794960
 oracle_text: Choose one —\n• Target creature you control gets +1/+1 until end of turn. It fights target creature you don't control.\n• Counter target spell unless its controller pays {3}.\n• Creatures with power 3 or less can't block this turn.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Temur Charm (Khans of Tarkir)
 
 ## Vision

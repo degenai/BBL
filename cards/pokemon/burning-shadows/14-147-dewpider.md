@@ -48,8 +48,12 @@ subject_known_ip: true
 suspected_ip: Dewpider
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Dewpider (Burning Shadows)
 
 ## Vision

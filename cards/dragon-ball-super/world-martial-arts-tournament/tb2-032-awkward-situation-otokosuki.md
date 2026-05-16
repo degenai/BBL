@@ -46,8 +46,13 @@ setting: other
 suspected_ip: Otokosuki
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Awkward Situation Otokosuki (World Martial Arts Tournament)
 
 ## Vision

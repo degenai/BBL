@@ -50,8 +50,10 @@ artist: Ravenna Tran
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/313-thornwood-falls--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/5/f5159db6-a87f-40eb-8c5c-821dfb67ff6d.jpg?1593132275
 oracle_text: "This land enters tapped.\\nWhen this land enters, you gain 1 life.\\n{T}: Add {G} or {U}."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Thornwood Falls (Throne of Eldraine)
 
 ## Vision

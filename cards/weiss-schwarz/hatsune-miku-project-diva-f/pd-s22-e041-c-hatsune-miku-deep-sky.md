@@ -51,8 +51,12 @@ subject_known_ip: true
 suspected_ip: Hatsune Miku (Vocaloid)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - weiss
+  - vision-passed
+  - ip-pending
 ---
-
 # Hatsune Miku"Deep Sky" (Hatsune Miku -Project DIVA- f)
 
 ## Vision

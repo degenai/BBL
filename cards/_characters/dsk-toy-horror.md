@@ -23,8 +23,10 @@ related_characters:
   - valgavoth
   - fear-of-cycle
   - dsk-survival-archetype
+tags:
+  - layer
+  - character
 ---
-
 # Toy horror cohort (Duskmourn corrupted-childhood artifact-creatures)
 
 A *Duskmourn: House of Horror* design cohort of artifact-creatures depicting corrupted-childhood objects — dolls, stuffed animals, jack-in-the-boxes, patchwork constructs — animated into stalking horrors. The cohort is the set's most direct expression of the killer-doll / cursed-toy slasher-horror register (Annabelle, Chucky, the Pinhead-tier ventriloquist-dummy lineage) translated into the *Magic* artifact-creature vocabulary. Per the set's design coverage (MTG Wiki and Rosewater's *Top of the Duskmourning* articles), DSK was built top-down from a horror-trope taxonomy in which "haunted toys" sits alongside "ghost in the house," "phobia personified," and "survivor with improvised weapon" as one of the set's core source-material registers; the Toy creature subtype was introduced or expanded in DSK to mark this cohort at the type-line level.

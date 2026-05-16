@@ -29,6 +29,7 @@ oracle_text: "Haste\\nThis creature attacks each combat if able.\\n{2}, Sacrific
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Red Herring (Murders at Karlov Manor)

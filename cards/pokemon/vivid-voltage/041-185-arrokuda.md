@@ -27,6 +27,8 @@ oracle_text: "Flock (Colorless): Search your deck for up to 2 Arrokuda and put t
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Arrokuda (Vivid Voltage)

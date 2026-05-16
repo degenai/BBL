@@ -49,8 +49,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - caterpie-line
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Caterpie (Rebel Clash)
 
 ## Vision

@@ -48,8 +48,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Sample Collector (Murders at Karlov Manor)
 
 ## Vision

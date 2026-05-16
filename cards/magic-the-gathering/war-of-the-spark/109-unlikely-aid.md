@@ -29,6 +29,7 @@ oracle_text: Target creature gets +2/+0 and gains indestructible until end of tu
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Unlikely Aid (War of the Spark)

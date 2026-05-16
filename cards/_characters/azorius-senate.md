@@ -24,8 +24,10 @@ appears_on:
 related_hubs: "[labor]"
 related_symbols: []
 ip_resolution_for: azorius-senate
+tags:
+  - layer
+  - character
 ---
-
 # Azorius Senate
 
 The white-blue guild of the plane Ravnica, introduced as a playable guild in *Guildpact* (2006) and returning across every Ravnica revisit since (*Return to Ravnica* 2012, *Dragon's Maze* 2013, *Ravnica Allegiance* 2019, *War of the Spark* 2019, *Murders at Karlov Manor* 2024, *Ravnica Remastered* 2024). MTG Wiki and Wizards' own design articles characterize the Azorius as the plane's lawmaking, judicial, and constabulary apparatus — an institutional bureaucracy whose stated purpose is order and whose operational purpose is the codification, surveillance, and enforcement of obedience. The guild's membership spans human and vedalken lawmages and senators, sphinx jurists who claim canonical custody of the Senate's law-codes, angels of judgment, soldier-knights of the Lyev Column constabulary, and the Grand Arbiter office that heads the institution. Where the Orzhov dress finance in the vocabulary of religion, the Azorius dress coercion in the vocabulary of procedure.

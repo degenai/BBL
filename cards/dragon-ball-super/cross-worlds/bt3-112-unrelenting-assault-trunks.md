@@ -48,8 +48,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - trunks
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Unrelenting Assault Trunks (Cross Worlds)
 
 ## Vision

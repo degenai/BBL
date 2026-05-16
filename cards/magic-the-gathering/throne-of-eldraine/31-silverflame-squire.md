@@ -49,8 +49,10 @@ artist: Lie Setiawan
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/31-silverflame-squire--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/b/7bd105f3-fa33-4490-aea9-b47ca121b664.jpg?1572489785
 flavor_text: Beacons along the borderlands are lit at any incursion from the wilds.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Silverflame Squire (Throne of Eldraine)
 
 ## Vision

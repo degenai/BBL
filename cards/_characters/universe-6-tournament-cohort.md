@@ -38,8 +38,10 @@ ip_resolution_for:
   - U6 Tournament of Power
   - Champa's universe
   - Tournament of Destroyers
+tags:
+  - layer
+  - character
 ---
-
 # Universe 6 Tournament cohort (Champa's universe — Tournament of Destroyers + Universe Survival Saga competitors)
 
 The canonical Universe 6 warrior-roster representing Champa's universe in the Dragon Ball Super multiverse's destroyer-god-wagered tournament arcs — the Tournament of Destroyers (DBS chapters 7-13 manga / episodes 28-41 anime, 2015-2016) and the Universe Survival Saga / Tournament of Power (DBS chapters 28-43 manga / episodes 78-131 anime, 2017-2018). The cohort is canonically organized around **Champa** (Universe 6's destroyer god, Beerus's elder twin brother), instructed by **Vados** (his angel attendant, Whis's elder sister), and fielded as a mortal warrior-team against Universe 7's parallel roster under explicit destroyer-god-wager stakes. The nine corpus anchors comprise: the **Champa + Vados destroyer-god / attendant dyad** (Champa at BT1-006 and BT1-007 across two adjacent collector numbers; Vados at BT1-002), the **U6 fighters Hit / Cabba / Frost / Botamo / Magetta** representing the cross-species mortal-roster, and the **Cabba's Awakening event card** at BT1-027 encoding the Vegeta-mentors-Cabba canonical training-beat. The cohort sits at the founding Bandai DBSCG set (Galactic Battle BT1, 2017) where Bandai's set design encodes the Universe 6 / Universe 7 multiverse-introduction at the product-launch level.

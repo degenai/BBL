@@ -50,8 +50,11 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Suspicious Detonation (Murders at Karlov Manor)
 
 ## Vision

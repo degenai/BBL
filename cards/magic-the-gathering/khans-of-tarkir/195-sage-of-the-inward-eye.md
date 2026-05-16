@@ -50,8 +50,10 @@ image_quality: high
 mood: sublime
 time_of_day: night
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Sage of the Inward Eye (Khans of Tarkir)
 
 ## Vision

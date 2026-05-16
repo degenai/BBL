@@ -27,6 +27,8 @@ oracle_text: "Energy Cutoff (ColorlessColorless) 60: Discard an Energy from your
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Toucannon (Vivid Voltage)

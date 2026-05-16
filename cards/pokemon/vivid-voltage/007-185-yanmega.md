@@ -27,6 +27,8 @@ oracle_text: "U-turn (ColorlessColorless) 50: You may switch this Pokémon with 
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Yanmega (Vivid Voltage)

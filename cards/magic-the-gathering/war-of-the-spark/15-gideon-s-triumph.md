@@ -29,6 +29,7 @@ oracle_text: Target opponent sacrifices a creature of their choice that attacked
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Gideon's Triumph (War of the Spark)

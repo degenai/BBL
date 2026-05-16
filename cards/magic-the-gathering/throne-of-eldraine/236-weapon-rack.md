@@ -48,8 +48,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/236-weapon-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/9/89ca22d2-3ba5-4173-9c8c-6587a901ff4a.jpg?1572491137
 flavor_text: No weapon stays on the rack for long in the Burning Yard.
 oracle_text: "This artifact enters with three +1/+1 counters on it.\\n{T}: Move a +1/+1 counter from this artifact onto target creature. Activate only as a sorcery."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Weapon Rack (Throne of Eldraine)
 
 ## Vision

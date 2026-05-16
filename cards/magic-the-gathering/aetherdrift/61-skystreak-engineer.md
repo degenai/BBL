@@ -53,8 +53,11 @@ oracle_text: "Flying\\nExhaust — {4}{U}: Put two +1/+1 counters on this creatu
 mood: action
 time_of_day: day
 setting: space
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Skystreak Engineer (Aetherdrift)
 
 ## Vision

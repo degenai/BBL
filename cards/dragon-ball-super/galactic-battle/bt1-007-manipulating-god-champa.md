@@ -52,8 +52,13 @@ ip_verified: true
 characters:
   - universe-6-tournament-cohort
   - destroyer-god-attendant-dyad
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Manipulating God Champa (Galactic Battle)
 
 ## Vision

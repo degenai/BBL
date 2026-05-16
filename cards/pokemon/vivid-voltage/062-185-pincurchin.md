@@ -27,6 +27,8 @@ oracle_text: "Spinning Fan (Lightning): This attack does 10 damage to each of yo
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Pincurchin (Vivid Voltage)

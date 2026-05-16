@@ -48,8 +48,10 @@ oracle_text: Flying\nWhen this creature enters, return a creature you control to
 mood: action
 time_of_day: day
 setting: desert
+tags:
+  - card
+  - vision-passed
 ---
-
 # Shrieking Drake (Modern Horizons 3)
 
 ## Vision

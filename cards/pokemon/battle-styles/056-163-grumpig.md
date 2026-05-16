@@ -27,6 +27,8 @@ oracle_text: "Dazzle Dance (PsychicColorless) 30: Your opponent's Active Pokémo
 image_width: 868
 image_height: 1212
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Grumpig (Battle Styles)

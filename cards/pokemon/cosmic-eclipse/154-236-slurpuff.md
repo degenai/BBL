@@ -27,6 +27,8 @@ oracle_text: "Olfactory Enchantment (Fairy): Your opponent's Active Pokémon is 
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Slurpuff (Cosmic Eclipse)

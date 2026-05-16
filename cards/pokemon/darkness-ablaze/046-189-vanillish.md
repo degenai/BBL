@@ -49,8 +49,12 @@ setting: forest
 suspected_ip: "Vanillish (#583)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Vanillish (Darkness Ablaze)
 
 ## Vision

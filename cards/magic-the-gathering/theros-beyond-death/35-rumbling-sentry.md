@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/35-rumblin
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/f/4f93f3c9-b317-40c1-87f5-0038c09b646d.jpg?1581479223
 flavor_text: \"To provoke the mountain is to invite the avalanche.\"\n—Perisophia the philosopher
 oracle_text: When this creature enters, scry 1.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Rumbling Sentry (Theros Beyond Death)
 
 ## Vision

@@ -52,8 +52,11 @@ oracle_text: Bestow {2}{W} (If you cast this card for its bestow cost, it's an A
 mood: horror
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Indebted Spirit (Modern Horizons 3)
 
 ## Vision

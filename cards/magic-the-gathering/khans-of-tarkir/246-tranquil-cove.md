@@ -57,8 +57,10 @@ artist: John Avon
 art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/246-tranquil-cove--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/f/0f840bd2-c4f5-4ac4-918c-91b4feeb8783.jpg?1562782605
 oracle_text: "This land enters tapped.\\nWhen this land enters, you gain 1 life.\\n{T}: Add {W} or {U}."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Tranquil Cove (Khans of Tarkir)
 
 ## Vision

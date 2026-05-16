@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/163-sure-strike-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/6/064a6f1c-a058-4cc8-b467-5dbecb5eeb99.jpg?1594736800
 flavor_text: To survive imminent doom, it sometimes takes a foolhardy soul who acts first and fears later.
 oracle_text: Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Sure Strike (Core Set 2021)
 
 ## Vision

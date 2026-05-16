@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/99-finishing-blo
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/b/2b85a552-2119-4d9c-b7c1-c09c2d9f2f38.jpg?1594736130
 flavor_text: \"In this world, it's kill or be killed. I'd rather not be the latter.\"
 oracle_text: Destroy target creature or planeswalker.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Finishing Blow (Core Set 2021)
 
 ## Vision

@@ -24,8 +24,15 @@ needs_manual_review: true
 manual_review_reason: Set 'Sword & Shield Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: Inflating its poison sacs, it makes an eerie blubbering sound for intimidation.
 oracle_text: "Knock Off (Colorless): Flip a coin. If heads, choose 1 card from your opponent's hand without looking and discard it.\\nNimble (PsychicPsychic) 30: If you have Turtwig in play, remove from Croagunk the number of damage counters equal to the damage you did to the Defending Pokémon."
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Croagunk (Sword & Shield Base Set)
 
 ## Vision

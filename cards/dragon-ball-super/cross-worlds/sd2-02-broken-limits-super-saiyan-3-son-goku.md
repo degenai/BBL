@@ -48,8 +48,13 @@ setting: void
 suspected_ip: Son Goku
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Broken Limits Super Saiyan 3 Son Goku (Cross Worlds)
 
 ## Vision

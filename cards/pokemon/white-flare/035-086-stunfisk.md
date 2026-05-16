@@ -27,6 +27,8 @@ oracle_text: "Muddy Bolt (Colorless) 20+: If this Pokémon has any Fighting Ener
 image_width: 733
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Stunfisk (White Flare)

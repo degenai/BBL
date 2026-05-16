@@ -29,6 +29,7 @@ oracle_text: "Defender\\n{1}{U}: This creature loses defender and becomes a Huma
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Wishful Merfolk (Throne of Eldraine)

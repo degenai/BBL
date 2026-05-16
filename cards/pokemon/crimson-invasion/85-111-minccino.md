@@ -27,6 +27,8 @@ oracle_text: "Tickle (Colorless) 10: Flip a coin. If heads, your opponent's Acti
 image_width: 906
 image_height: 1280
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Minccino (Crimson Invasion)

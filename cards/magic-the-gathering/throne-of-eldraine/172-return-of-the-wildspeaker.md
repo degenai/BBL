@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/172-return-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/8/b88a4943-bd1b-4d10-9cd3-b2ab91b25c10.jpg?1572490646
 flavor_text: \"The curse is broken.\"
 oracle_text: Choose one —\n• Draw cards equal to the greatest power among non-Human creatures you control.\n• Non-Human creatures you control get +3/+3 until end of turn.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Return of the Wildspeaker (Throne of Eldraine)
 
 ## Vision

@@ -22,8 +22,10 @@ appears_on:
   - magic-the-gathering/duskmourn-house-of-horror/214-fear-of-infinity
 related_hubs: []
 related_symbols: "[manifest-dread, eerie]"
+tags:
+  - layer
+  - character
 ---
-
 # Fear-of cycle (Duskmourn phobia-Nightmares)
 
 A Duskmourn: House of Horror design cycle of Enchantment Creature — Nightmare cards whose names all begin with "Fear of..." Each card personifies a specific phobia as a stalking, embodied creature: the rabbit-skulled predator that is the fear of being hunted, the burning skull-cluster demon that is the fear of burning alive, the towering abductor-figure that is the fear of abduction, and so on. The cycle is the most direct mechanical expression of the set's "phobias as monsters" Vision Design Handoff thesis (suspense-over-shock, Freddy/Jason-type unkillable antagonists rendered as the dread itself rather than its source).

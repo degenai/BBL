@@ -50,8 +50,11 @@ art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/159-fa
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/9/4941fa74-c7b9-4468-8080-de8057d3d27b.jpg?1706241967
 flavor_text: \"What is this? An ambush or a staring contest?\" Kaya taunted. As if in answer, the robed figure lunged forward.
 oracle_text: Target creature gets +3/+3 and gains trample until end of turn.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Fanatical Strength (Murders at Karlov Manor)
 
 ## Vision

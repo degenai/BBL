@@ -51,8 +51,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Venom Sliver (Magic 2015 (M15))
 
 ## Vision

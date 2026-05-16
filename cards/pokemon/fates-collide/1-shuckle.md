@@ -47,8 +47,13 @@ setting: other
 suspected_ip: Shuckle
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Shuckle (Fates Collide)
 
 ## Vision

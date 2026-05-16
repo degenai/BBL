@@ -51,8 +51,12 @@ setting: void
 suspected_ip: Hercule / Mr. Satan (Dragon Ball Z)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - ip-pending
 ---
-
 # Secret Treaty Hercule (World Martial Arts Tournament)
 
 ## Vision

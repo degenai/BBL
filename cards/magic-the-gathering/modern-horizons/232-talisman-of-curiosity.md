@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/modern-horizons/232-talisman-o
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/d/fd52688a-39fd-430f-b950-cb56e0004396.jpg?1562202516
 flavor_text: \"The pain of exploring is less than the pain of not knowing.\"\n—Tamiyo
 oracle_text: "{T}: Add {C}.\\n{T}: Add {G} or {U}. This artifact deals 1 damage to you."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Talisman of Curiosity (Modern Horizons)
 
 ## Vision

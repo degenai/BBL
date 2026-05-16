@@ -29,6 +29,7 @@ oracle_text: "{1}{R}: This creature gets +1/+0 until end of turn.\\nIf a creatur
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Incendiary Oracle (Theros Beyond Death)

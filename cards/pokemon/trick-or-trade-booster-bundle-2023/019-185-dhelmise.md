@@ -22,8 +22,15 @@ reference_image_source_url: https://images.pokemontcg.io/swsh1/9_hires.png
 art_match_confidence: low
 needs_manual_review: true
 manual_review_reason: Set 'Trick or Trade BOOster Bundle 2023' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Dhelmise (Trick or Trade BOOster Bundle 2023)
 
 ## Vision

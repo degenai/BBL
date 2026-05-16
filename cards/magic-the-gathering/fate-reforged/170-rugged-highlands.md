@@ -50,8 +50,10 @@ image_quality: high
 mood: sublime
 time_of_day: twilight
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Rugged Highlands (Fate Reforged)
 
 ## Vision

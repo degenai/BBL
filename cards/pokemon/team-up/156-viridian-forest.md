@@ -45,8 +45,12 @@ oracle_text: Once during each player's turn, that player may discard a card from
 mood: peaceful
 time_of_day: day
 setting: forest
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Viridian Forest (Team Up)
 
 ## Vision

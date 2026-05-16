@@ -46,8 +46,13 @@ oracle_text: "Drag Off (ColorlessColorless): Switch 1 of your opponent's Benched
 mood: action
 time_of_day: indeterminate
 setting: mountain
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Druddigon (Unified Minds)
 
 ## Vision

@@ -45,8 +45,10 @@ oracle_text: "{T}: You get {E}{E} (two energy counters).\\n{T}, Pay {E}{E}: Tap 
 mood: other
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Bespoke Battlewagon (Modern Horizons 3)
 
 ## Vision

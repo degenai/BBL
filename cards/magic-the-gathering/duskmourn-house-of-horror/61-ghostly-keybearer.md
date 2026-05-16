@@ -47,8 +47,10 @@ oracle_text: Flying\nWhenever this creature deals combat damage to a player, unl
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Ghostly Keybearer (Duskmourn: House of Horror)
 
 ## Vision

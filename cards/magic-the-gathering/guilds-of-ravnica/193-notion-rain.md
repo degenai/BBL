@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/guilds-of-ravnica/193-notion-r
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/4/f4db287e-34c1-459b-882d-3db58f13eade.jpg?1572893773
 flavor_text: City air is a constant drizzle of private thoughts.
 oracle_text: Surveil 2, then draw two cards. Notion Rain deals 2 damage to you. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Notion Rain (Guilds of Ravnica)
 
 ## Vision

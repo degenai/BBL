@@ -47,8 +47,12 @@ oracle_text: Attach a Pokémon Tool to 1 of your Pokémon that doesn't already h
 mood: other
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Venusaur Spirit Link (Evolutions)
 
 ## Vision

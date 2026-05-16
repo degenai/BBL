@@ -45,8 +45,10 @@ oracle_text: "{T}: Add {C}.\\n{3}{W}, {T}, Sacrifice this land: You gain 2 life 
 mood: grim
 time_of_day: day
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Blighted Steppe (Battle for Zendikar)
 
 ## Vision

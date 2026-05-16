@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/46-cancel--art.j
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/9/59e14910-ee2e-49ae-855e-46a8ab6cad82.jpg?1594735420
 flavor_text: \"I decide what stands in my way.\"
 oracle_text: Counter target spell.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Cancel (Core Set 2021)
 
 ## Vision

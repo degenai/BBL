@@ -57,8 +57,12 @@ artist: Chris Rallis
 art_crop_image: cards/_images/magic-the-gathering/the-list/309-269-oko-the-trickster--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/2/d2fbecdc-1c6f-44e5-9491-18dda73f3a99.jpg?1693275701
 oracle_text: "+1: Put two +1/+1 counters on up to one target creature you control.\\n0: Until end of turn, Oko becomes a copy of target creature you control. Prevent all damage that would be dealt to him this turn.\\n−7: Until end of turn, each creature you control has base power and toughness 10/10 and gains trample."
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Oko, the Trickster (The List)
 
 ## Vision

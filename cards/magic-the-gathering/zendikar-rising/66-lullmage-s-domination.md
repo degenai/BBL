@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/66-lullmage-s-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/9/c9944393-348f-4f0e-a0c7-9adcc5a30749.jpg?1604194383
 flavor_text: \"One spell to quiet the Roil, one to quash the will. The principle is the same.\"
 oracle_text: This spell costs {3} less to cast if it targets a creature whose controller has eight or more cards in their graveyard.\nGain control of target creature with mana value X.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Lullmage's Domination (Zendikar Rising)
 
 ## Vision

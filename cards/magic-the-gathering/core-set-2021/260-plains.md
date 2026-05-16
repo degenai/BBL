@@ -48,8 +48,10 @@ artist: John Avon
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/260-plains--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/b/4be96696-aff8-4ef9-97dc-8221ef745de9.jpg?1594737767
 oracle_text: "({T}: Add {W}.)"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Plains (Core Set 2021)
 
 ## Vision

@@ -52,8 +52,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
 ---
-
 # Join the Dead (The Lost Caverns of Ixalan)
 
 ## Vision

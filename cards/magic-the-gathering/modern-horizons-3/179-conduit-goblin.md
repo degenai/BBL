@@ -48,8 +48,10 @@ image_quality: high
 mood: action
 time_of_day: storm
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Conduit Goblin (Modern Horizons 3)
 
 ## Vision

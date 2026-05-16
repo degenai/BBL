@@ -52,8 +52,10 @@ image_quality: high
 mood: grim
 time_of_day: night
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Blood Hustler (Outlaws of Thunder Junction)
 
 ## Vision

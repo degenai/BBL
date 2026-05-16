@@ -52,8 +52,11 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/104-revenge
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/4/3474289a-193e-452d-b248-e53ee99e22c0.jpg?1572490235
 flavor_text: Syr Tasdale declared that he never wanted to see the witch Ygretta again. Her familiars quickly granted his request.
 oracle_text: Whenever a creature attacks you or a planeswalker you control, that creature's controller loses 1 life and you gain 1 life.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Revenge of Ravens (Throne of Eldraine)
 
 ## Vision

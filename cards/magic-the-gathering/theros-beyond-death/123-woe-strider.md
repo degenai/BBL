@@ -49,8 +49,11 @@ image_quality: high
 mood: horror
 time_of_day: night
 setting: dungeon
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Woe Strider (Theros Beyond Death)
 
 ## Vision

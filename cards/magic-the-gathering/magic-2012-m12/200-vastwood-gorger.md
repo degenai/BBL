@@ -46,8 +46,10 @@ flavor_text: The gorger's insect-like eyes pick up the slightest movement in any
 mood: sublime
 time_of_day: day
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Vastwood Gorger (Magic 2012 (M12))
 
 ## Vision

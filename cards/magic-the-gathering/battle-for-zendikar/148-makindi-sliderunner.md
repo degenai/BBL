@@ -50,8 +50,10 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: desert
+tags:
+  - card
+  - vision-passed
 ---
-
 # Makindi Sliderunner (Battle for Zendikar)
 
 ## Vision

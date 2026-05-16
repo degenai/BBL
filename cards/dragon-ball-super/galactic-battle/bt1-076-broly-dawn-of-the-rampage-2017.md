@@ -50,8 +50,13 @@ setting: void
 suspected_ip: Broly (Dragon Ball Z, Movie 8, pre-power-up)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Broly, Dawn of the Rampage (2017) (Galactic Battle)
 
 ## Vision

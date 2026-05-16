@@ -48,8 +48,10 @@ oracle_text: Flying\nWhen this creature enters, you may search your graveyard, h
 mood: action
 time_of_day: indeterminate
 setting: urban
+tags:
+  - card
+  - vision-passed
 ---
-
 # Agency Outfitter (Murders at Karlov Manor)
 
 ## Vision

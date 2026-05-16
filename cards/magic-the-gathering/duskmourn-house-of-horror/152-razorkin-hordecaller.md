@@ -55,8 +55,11 @@ oracle_text: Haste\nWhenever you attack, create a 1/1 red Gremlin creature token
 mood: horror
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Razorkin Hordecaller (Duskmourn: House of Horror)
 
 ## Vision

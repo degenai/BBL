@@ -57,8 +57,12 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/55-jace-s-tri
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/9/4924f177-5ee2-4d3f-9603-4b9aef4dac09.jpg?1557576238
 flavor_text: His triumph was not in outsmarting Bolas's plan, but in understanding why ultimate power is self-defeating.
 oracle_text: Draw two cards. If you control a Jace planeswalker, draw three cards instead.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Jace's Triumph (War of the Spark)
 
 ## Vision

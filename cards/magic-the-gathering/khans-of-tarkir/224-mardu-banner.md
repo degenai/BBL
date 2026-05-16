@@ -55,8 +55,10 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/224-mardu-bann
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/e/fe10c56d-a8e1-495d-a03a-0b920b44182f.jpg?1562796606
 flavor_text: Speed to strike, fury to smash.
 oracle_text: "{T}: Add {R}, {W}, or {B}.\\n{R}{W}{B}, {T}, Sacrifice this artifact: Draw a card."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Mardu Banner (Khans of Tarkir)
 
 ## Vision

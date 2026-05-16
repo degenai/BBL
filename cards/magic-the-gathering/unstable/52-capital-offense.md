@@ -48,8 +48,10 @@ image_quality: high
 mood: comedic
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # capital offense (Unstable)
 
 ## Vision

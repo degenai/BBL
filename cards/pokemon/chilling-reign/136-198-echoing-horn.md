@@ -45,8 +45,12 @@ oracle_text: Put a Basic Pokémon from your opponent's discard pile onto their B
 mood: other
 time_of_day: day
 setting: other
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Echoing Horn (Chilling Reign)
 
 ## Vision

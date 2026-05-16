@@ -51,8 +51,11 @@ image_quality: high
 mood: sublime
 time_of_day: night
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Archon of Falling Stars (Theros Beyond Death)
 
 ## Vision

@@ -29,6 +29,7 @@ oracle_text: Remove up to five counters from target artifact, creature, planeswa
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Price of Betrayal (War of the Spark)

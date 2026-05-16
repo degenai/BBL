@@ -26,6 +26,8 @@ oracle_text: "V rule: When your Pokémon V is Knocked Out, your opponent takes 2
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Tyranitar V (Battle Styles)

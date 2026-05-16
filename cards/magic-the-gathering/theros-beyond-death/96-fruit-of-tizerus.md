@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/96-fruit-o
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/6/66e577a0-e5d7-4e6a-919c-d85c2ae819ce.jpg?1581479782
 flavor_text: One spiny tree with bitter fruit grows in the realm of Tizerus, outside the palace of Erebos.
 oracle_text: Target player loses 2 life.\nEscape—{3}{B}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
+tags:
+  - card
+  - vision-passed
 ---
-
 # Fruit of Tizerus (Theros Beyond Death)
 
 ## Vision

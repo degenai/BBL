@@ -49,8 +49,10 @@ image_quality: high
 mood: peaceful
 time_of_day: day
 setting: urban
+tags:
+  - card
+  - vision-passed
 ---
-
 # Absolving Lammasu (Murders at Karlov Manor)
 
 ## Vision

@@ -52,8 +52,11 @@ symbols:
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/68-fall-from-favor--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/7/e709a18f-b99d-4fa1-ae5c-7f22abd02c0a.jpg?1610624917
 oracle_text: Enchant creature\nWhen this Aura enters, tap enchanted creature and you become the monarch.\nEnchanted creature doesn't untap during its controller's untap step unless that player is the monarch.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Fall from Favor (Commander Legends)
 
 ## Vision

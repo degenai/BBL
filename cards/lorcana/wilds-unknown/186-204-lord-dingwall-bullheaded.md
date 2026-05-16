@@ -57,8 +57,12 @@ subject_known_ip: true
 suspected_ip: Lord Dingwall (Brave)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - ip-pending
 ---
-
 # Lord Dingwall - Bullheaded (Wilds Unknown)
 
 ## Vision

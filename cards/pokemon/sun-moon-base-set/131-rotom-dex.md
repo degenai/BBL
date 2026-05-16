@@ -23,8 +23,15 @@ art_match_confidence: low
 needs_manual_review: true
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 oracle_text: Look at the top 4 cards of your deck and put them back in any order or shuffle them into your deck.\nYou may play as many Item cards as you like during your turn (before your attack).
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Rotom Dex (Sun & Moon Base Set)
 
 ## Vision

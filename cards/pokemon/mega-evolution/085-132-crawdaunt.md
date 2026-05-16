@@ -47,8 +47,12 @@ setting: ocean
 suspected_ip: "Crawdaunt (#342)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Crawdaunt (Mega Evolution)
 
 ## Vision

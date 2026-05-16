@@ -50,8 +50,10 @@ oracle_text: Reach\nWhen this creature dies, you gain 2 life.
 mood: horror
 time_of_day: night
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Grasping Longneck (Duskmourn: House of Horror)
 
 ## Vision

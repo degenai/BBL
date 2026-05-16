@@ -48,8 +48,10 @@ oracle_text: Lifelink\nWhenever another modified creature you control dies, put 
 mood: action
 time_of_day: indeterminate
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Ondu Knotmaster (Modern Horizons 3)
 
 ## Vision

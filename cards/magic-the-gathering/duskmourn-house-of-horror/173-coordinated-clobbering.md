@@ -53,8 +53,11 @@ setting: indoor
 suspected_ip: Zimone, Tyvar
 ip_confidence: med
 ip_verified: false
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Coordinated Clobbering (Duskmourn: House of Horror)
 
 ## Vision

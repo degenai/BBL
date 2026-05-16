@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/241-sandsteppe
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/d/2dd40d90-c939-458a-9a98-27d10da6ff2f.jpg?1562784373
 flavor_text: That which endures, survives.
 oracle_text: "This land enters tapped.\\n{T}: Add {W}, {B}, or {G}."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Sandsteppe Citadel (Khans of Tarkir)
 
 ## Vision

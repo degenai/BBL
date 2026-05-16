@@ -50,8 +50,12 @@ setting: other
 suspected_ip: Son Goku, Uub
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - ip-pending
 ---
-
 # Son Goku & Uub, Seeds of the Future (World Martial Arts Tournament)
 
 ## Vision

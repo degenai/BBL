@@ -47,8 +47,12 @@ setting: forest
 suspected_ip: Grubbin
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Grubbin (Fusion Strike)
 
 ## Vision

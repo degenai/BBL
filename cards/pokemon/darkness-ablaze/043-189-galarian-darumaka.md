@@ -49,8 +49,12 @@ ip_confidence: high
 ip_verified: false
 characters:
   - galarian-regional-forms
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Galarian Darumaka (Darkness Ablaze)
 
 ## Vision

@@ -53,8 +53,10 @@ image_quality: high
 mood: action
 time_of_day: night
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Rootwise Survivor (Duskmourn: House of Horror)
 
 ## Vision

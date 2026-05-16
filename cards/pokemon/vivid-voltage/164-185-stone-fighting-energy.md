@@ -45,8 +45,11 @@ oracle_text: As long as this card is attached to a Pokémon, it provides Fightin
 mood: other
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - pokemon
+  - vision-passed
 ---
-
 # Stone Fighting Energy (Vivid Voltage)
 
 ## Vision

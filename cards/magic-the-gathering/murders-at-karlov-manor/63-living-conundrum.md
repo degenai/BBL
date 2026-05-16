@@ -51,8 +51,10 @@ oracle_text: Hexproof\nIf you would draw a card while your library has no cards 
 mood: sublime
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Living Conundrum (Murders at Karlov Manor)
 
 ## Vision

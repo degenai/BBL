@@ -28,8 +28,10 @@ related_characters:
   - babidi
   - namekian
 ip_resolution_for: hirudegarn-saga
+tags:
+  - layer
+  - character
 ---
-
 # Wrath of the Dragon Saga (Hirudegarn arc, DBZ Movie 13)
 
 The designer-coordinated seven-card saga-arc cycle within the Dragon Ball Super Card Game's *Colossal Warfare* booster (DBS-B04, 2018-07-13) that anchors the full character roster of *Dragon Ball Z: Wrath of the Dragon* (Toei Animation, theatrical release 1995-07-15 Japan) — the thirteenth and final Dragon Ball Z theatrical film of the original Z run. The cycle covers three structural axes of the film's plot: the **monster** (Hirudegarn across its insectoid first form and humanoid second form), the **bearer-brothers** (Tapion and Minotia, the Konatsian warriors who carried Hirudegarn's two halves sealed inside their bodies as an eternal containment oath, and each rendered twice across heroic and cursed states for the older brother), and the **villain** (Hoi, the Kashvar emissary-priest who manipulated the Z-Fighters into breaking the seal). The cycle's Leader card is BT4-023 Trunks // Iron Vow Trunks, whose canonical position in the film as the recipient of Tapion's enchanted sword retroactively anchors Future Trunks's iconic Brave Sword to this saga. The Hirudegarn-arc framing is encoded directly in Bandai's official per-card metadata (the saga field reads `Hirudegarn Saga` on every cycle member) and the cards are numerically clustered tight (037–042 plus the BT4-023 Leader) signaling intentional designer coordination at the set-architecture level.

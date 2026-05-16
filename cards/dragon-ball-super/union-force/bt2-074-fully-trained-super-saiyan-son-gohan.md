@@ -51,8 +51,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - son-gohan
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Fully Trained Super Saiyan Son Gohan (Union Force)
 
 ## Vision

@@ -27,6 +27,8 @@ oracle_text: "Find a Friend (Colorless): Search your deck for a Pokémon, reveal
 image_width: 733
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Togedemaru (Phantasmal Flames)

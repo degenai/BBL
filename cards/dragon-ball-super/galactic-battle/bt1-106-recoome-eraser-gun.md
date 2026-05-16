@@ -45,8 +45,12 @@ setting: void
 suspected_ip: Recoome
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - ip-pending
 ---
-
 # Recoome Eraser Gun (Galactic Battle)
 
 ## Vision

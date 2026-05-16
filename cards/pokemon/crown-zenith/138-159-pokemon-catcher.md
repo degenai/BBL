@@ -45,8 +45,12 @@ oracle_text: Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon
 mood: action
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Pokemon Catcher (Crown Zenith)
 
 ## Vision

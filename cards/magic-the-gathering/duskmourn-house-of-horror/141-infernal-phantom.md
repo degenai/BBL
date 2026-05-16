@@ -53,8 +53,11 @@ time_of_day: indeterminate
 setting: indoor
 characters:
   - valgavoth
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Infernal Phantom (Duskmourn: House of Horror)
 
 ## Vision

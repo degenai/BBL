@@ -51,8 +51,10 @@ artist: John Avon
 art_crop_image: cards/_images/magic-the-gathering/modern-masters-2015/245-izzet-boilerworks--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/1/61ba2759-a3d8-45f8-b31e-d8789bde0f4f.jpg?1562263069
 oracle_text: "This land enters tapped.\\nWhen this land enters, return a land you control to its owner's hand.\\n{T}: Add {U}{R}."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Izzet Boilerworks (Modern Masters 2015)
 
 ## Vision

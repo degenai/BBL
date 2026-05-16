@@ -47,8 +47,12 @@ setting: other
 suspected_ip: Nappa (Dragon Ball)
 ip_confidence: med
 ip_verified: false
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - ip-pending
 ---
-
 # Wild Tiger, the Imposing (World Martial Arts Tournament)
 
 ## Vision

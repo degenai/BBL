@@ -46,8 +46,12 @@ setting: forest
 suspected_ip: Bounsweet
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Bounsweet (Darkness Ablaze)
 
 ## Vision

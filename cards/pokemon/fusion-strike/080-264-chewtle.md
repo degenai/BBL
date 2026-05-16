@@ -47,8 +47,12 @@ setting: ocean
 suspected_ip: Chewtle
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Chewtle (Fusion Strike)
 
 ## Vision

@@ -27,6 +27,8 @@ oracle_text: "Scratch (Metal) 10\\nFury Swipes (MetalColorless) 20×: Flip 3 coi
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Galarian Meowth (Vivid Voltage)

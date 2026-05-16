@@ -49,8 +49,12 @@ setting: forest
 suspected_ip: "Amoonguss (#591)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Amoonguss (Black Bolt)
 
 ## Vision

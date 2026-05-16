@@ -51,8 +51,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - bulma
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Dependable Mom Bulma (Colossal Warfare)
 
 ## Vision

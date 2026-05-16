@@ -47,8 +47,13 @@ setting: other
 suspected_ip: King Piccolo (Dragon Ball)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # King Piccolo, Demon Lord (Promotion Cards)
 
 ## Vision

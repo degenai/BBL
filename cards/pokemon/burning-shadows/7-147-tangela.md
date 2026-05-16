@@ -46,8 +46,12 @@ setting: forest
 suspected_ip: Tangela
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Tangela (Burning Shadows)
 
 ## Vision

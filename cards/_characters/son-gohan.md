@@ -44,8 +44,10 @@ ip_resolution_for:
   - Ultimate Gohan
   - Great Saiyaman
   - Adolescent Gohan
+tags:
+  - layer
+  - character
 ---
-
 # Son Gohan
 
 The canonical eldest son of Son Goku and Chi-Chi, the franchise's first depicted half-Saiyan / half-Earthling, and the canonical *Dragon Ball Z* protagonist whose Cell Saga kill the museum-curation framing of the Babidi-and-Father-Son-Kamehameha arc reads as the canonical case study in **labor-credit-erasure as designer-coordinated set-thematic structure**. Introduced in Dragon Ball Z manga chapter 195 (1988, Akira Toriyama, Shueisha) as the four-year-old child kidnapped by Raditz at the start of the Saiyan Saga, Gohan progresses across the franchise's longest-arc protagonist trajectory: Namekian-trained child fighter through the Namek / Frieza / Android arcs, eleven-year-old Cell-Games victor with the canonical Father-Son Kamehameha finishing blow (the executor-of-record while Goku's spirit amplifies from the afterlife and Vegeta's unrequested sideline-blast distraction goes uncredited), sixteen-year-old Adolescent Gohan scholar-vigilante across the Buu Saga and 25th World Martial Arts Tournament (the canonical *first character in franchise canon to achieve SS2*, transformed at age 11 during the Cell Games kill and re-demonstrated at age 16 as the open-target tournament moment that allows Spopovich and Yamu to drain his energy for Babidi's Majin Buu revival), Old-Kai-unlocked Mystic / Ultimate Gohan whose untransformed power canonically exceeded SS3 Goku in the Buu Saga, the End-of-Z married-to-Videl father-of-Pan adult, the GT-era de-trained academic scholar, the DBS-era return-to-form Beast Gohan against Cell Max in *Dragon Ball Super: Super Hero* (Toei Animation, 2022). Across forty years of franchise output the character has been re-instantiated into substantively-distinct named aspects whose visual identifiers, canonical age, costume, and transformation-state are designer-coordinated for Bandai's card-game character-tag field to disambiguate per-print.

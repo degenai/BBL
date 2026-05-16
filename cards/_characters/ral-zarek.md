@@ -23,8 +23,10 @@ related_characters:
   - jace-beleren
 ip_resolution_for: Ral Zarek
 parent_character: izzet-league
+tags:
+  - layer
+  - character
 ---
-
 # Ral Zarek
 
 Storm-mage planeswalker, Izzet operative, and the modern guild's operational center. Introduced in Return to Ravnica (2012) as Niv-Mizzet's lieutenant; foregrounded across the *Dragon's Maze* maze-run arc (2013), the *Guilds of Ravnica* / *War of the Spark* Bolas-defection arc (2018–2019), and the post-WAR succession in which he, Jace Beleren, and Vraska resurrect Niv-Mizzet as Ravnica's Living Guildpact. The `— Ral` planeswalker subtype on the type-line is reserved for printings of this single character; canonical from Ral Zarek (Return to Ravnica, 2012) through every subsequent legendary planeswalker bearing the name. Sub-node under [[izzet-league]] — Ral is the guild's most-printed individual operative, but his identity is constitutively a guild-officer identity, and the parent faction node carries the institutional context this sub-node refers back into.

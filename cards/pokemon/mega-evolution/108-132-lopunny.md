@@ -47,8 +47,12 @@ setting: forest
 suspected_ip: "Lopunny (#428)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Lopunny (Mega Evolution)
 
 ## Vision

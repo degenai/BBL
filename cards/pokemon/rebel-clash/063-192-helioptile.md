@@ -27,6 +27,8 @@ oracle_text: "Thunder Jolt (Lightning) 30: This Pokémon also does 10 damage to 
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Helioptile (Rebel Clash)

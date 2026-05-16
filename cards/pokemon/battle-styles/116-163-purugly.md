@@ -27,6 +27,8 @@ oracle_text: "Caturday (Colorless): Draw 3 cards. If you do, this Pokémon is no
 image_width: 868
 image_height: 1212
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Purugly (Battle Styles)

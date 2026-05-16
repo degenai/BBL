@@ -50,8 +50,12 @@ setting: forest
 suspected_ip: Ariados
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Ariados (Darkness Ablaze)
 
 ## Vision

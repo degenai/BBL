@@ -24,6 +24,9 @@ related_characters:
   - alola-elite-four
   - galarian-regional-forms
 ip_resolution_for: alolan-regional-forms
+tags:
+  - layer
+  - character
 ---
 # Alolan regional forms
 

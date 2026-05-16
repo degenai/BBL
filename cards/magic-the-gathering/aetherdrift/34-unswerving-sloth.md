@@ -52,8 +52,11 @@ image_quality: high
 mood: comedic
 time_of_day: day
 setting: desert
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Unswerving Sloth (Aetherdrift)
 
 ## Vision

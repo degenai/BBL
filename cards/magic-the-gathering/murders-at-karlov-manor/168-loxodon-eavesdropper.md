@@ -48,8 +48,10 @@ art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/168-lo
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/b/bbbf8c3a-6c74-42fd-bb8d-61e3f0a77848.jpg?1706242059
 flavor_text: He's all ears.
 oracle_text: "When this creature enters, investigate. (Create a Clue token. It's an artifact with \\\"{2}, Sacrifice this token: Draw a card.\\\")\\nWhenever you draw your second card each turn, this creature gets +1/+1 and gains vigilance until end of turn."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Loxodon Eavesdropper (Murders at Karlov Manor)
 
 ## Vision

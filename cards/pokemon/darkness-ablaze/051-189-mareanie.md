@@ -49,8 +49,12 @@ setting: ocean
 suspected_ip: "Mareanie (#747)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Mareanie (Darkness Ablaze)
 
 ## Vision

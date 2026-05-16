@@ -52,8 +52,10 @@ artist: Mathias Kollros
 art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/186-mardu-charm--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/3/c35fb7a3-7c7f-4470-b1ad-5b8709a608e6.jpg?1562793176
 oracle_text: Choose one —\n• Mardu Charm deals 4 damage to target creature.\n• Create two 1/1 white Warrior creature tokens. They gain first strike until end of turn.\n• Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Mardu Charm (Khans of Tarkir)
 
 ## Vision

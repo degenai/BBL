@@ -52,8 +52,10 @@ oracle_text: Deathtouch\nWhen this creature enters or is turned face up, target 
 mood: grim
 time_of_day: night
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Rakish Scoundrel (Murders at Karlov Manor)
 
 ## Vision

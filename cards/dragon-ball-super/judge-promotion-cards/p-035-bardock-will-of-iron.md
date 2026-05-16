@@ -51,8 +51,13 @@ setting: void
 suspected_ip: Bardock
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Bardock, Will of Iron (Judge Promotion Cards)
 
 ## Vision

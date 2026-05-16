@@ -29,6 +29,7 @@ oracle_text: Whenever this creature attacks, another target attacking creature c
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Clammy Prowler (Duskmourn: House of Horror)

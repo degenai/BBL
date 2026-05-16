@@ -29,8 +29,10 @@ related_characters:
   - jace-beleren
 sub_characters: "[ral-zarek]"
 ip_resolution_for: izzet-league
+tags:
+  - layer
+  - character
 ---
-
 # Izzet League
 
 The blue-red guild of the plane Ravnica, introduced as a playable guild in *Guildpact* (2006) and returning across every Ravnica revisit since (*Return to Ravnica* 2012, *Dragon's Maze* 2013, *Guilds of Ravnica* 2018, *Ravnica Allegiance* 2019, *War of the Spark* 2019, *Streets of New Capenna* tie-ins, *Murders at Karlov Manor* 2024, *Ravnica Remastered* 2024, *Modern Horizons 3* 2024). Per MTG Wiki's Izzet League page and Mark Rosewater's design columns, the Izzet are Ravnica's experimental-engineering guild — chartered by Niv-Mizzet the Firemind (the dragon-parun and founder) as a research-and-development apparatus for the plane's infrastructure, but functionally operating as an institutionalized chaos-by-experiment culture where every problem is a thermodynamics problem, every solution is a controlled detonation, and every failed experiment is a story the magewright will tell at the next guild banquet without remorse. The guild's institutional rhetoric is the gleeful pursuit of pure inquiry as both labor and art; its operational reality is a steam-and-lightning industrial workforce of goblins, humans, and vedalken running thermodynamic experiments at scales ranging from handheld spell-replication devices to plane-spanning power infrastructure.

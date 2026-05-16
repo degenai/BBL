@@ -50,8 +50,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Cinder Hellion (Oath of the Gatewatch)
 
 ## Vision

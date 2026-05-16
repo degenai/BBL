@@ -50,8 +50,13 @@ setting: void
 suspected_ip: Trunks (Dragon Ball Z / Dragon Ball Super)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Tiny Rivals Trunks (World Martial Arts Tournament)
 
 ## Vision

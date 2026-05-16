@@ -54,8 +54,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros/204-spellheart-chimera-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/a/0a19670c-5afa-4e22-b3ff-258faca19556.jpg?1562814464
 flavor_text: Thaumaturges remain silent around chimeras, lest their words conjure even stranger beasts.
 oracle_text: Flying, trample\nSpellheart Chimera's power is equal to the number of instant and sorcery cards in your graveyard.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Spellheart Chimera (Theros)
 
 ## Vision

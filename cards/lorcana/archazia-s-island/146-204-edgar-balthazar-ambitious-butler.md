@@ -50,8 +50,13 @@ setting: indoor
 suspected_ip: Edgar Balthazar (The Aristocats)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Edgar Balthazar - Ambitious Butler (Archazia's Island)
 
 ## Vision

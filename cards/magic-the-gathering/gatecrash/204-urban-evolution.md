@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/gatecrash/204-urban-evolution-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/f/9fcd6fac-2cde-4a89-b484-b910be2dcecf.jpg?1561839459
 flavor_text: As the Simic released more of their krasis experiments, they required new habitats, always at the expense of the locals.
 oracle_text: Draw three cards. You may play an additional land this turn.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Urban Evolution (Gatecrash)
 
 ## Vision

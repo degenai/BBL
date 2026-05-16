@@ -53,8 +53,11 @@ oracle_text: "If you would get one or more {E} (energy counters), you get that m
 mood: sublime
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Izzet Generatorium (Modern Horizons 3)
 
 ## Vision

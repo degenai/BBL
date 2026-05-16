@@ -24,6 +24,8 @@ needs_manual_review: false
 image_width: 558
 image_height: 400
 image_quality: med
+tags:
+  - card
+  - weiss
 ---
-
 # Reason for Becoming a Magical Girl (Magia Record: Puella Magi Madoka Magica [Side Story] (Anime))

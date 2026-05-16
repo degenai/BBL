@@ -52,8 +52,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - universe-6-tournament-cohort
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Botamo of Universe 6 (Galactic Battle)
 
 ## Vision

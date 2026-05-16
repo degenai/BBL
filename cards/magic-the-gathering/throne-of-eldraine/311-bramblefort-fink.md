@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/311-bramble
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/c/fc83a142-9d0f-4a39-baeb-4e2f62009204.jpg?1572482742
 flavor_text: No matter the cruelty of Oko's jokes, he's always guaranteed the sycophant's laughter.
 oracle_text: "{8}: This creature has base power and toughness 10/10 until end of turn. Activate only if you control an Oko planeswalker."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Bramblefort Fink (Throne of Eldraine)
 
 ## Vision

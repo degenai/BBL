@@ -48,8 +48,13 @@ setting: other
 suspected_ip: Siebold
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Siebold (Chilling Reign)
 
 ## Vision

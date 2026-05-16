@@ -24,8 +24,14 @@ manual_review_reason: Set '10th Edition' did not match a known set code or the c
 reference_image_source_url: https://cards.scryfall.io/png/front/9/a/9a4c5629-fadd-42b9-850f-9f8586a2ca50.png?1775938853
 flavor_text: Some say this snarl—the most turbulent, changeable location in all of Arcavios—is the birthplace of the five elder dragons. There are also whispers it's where they are destined to die.
 oracle_text: "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - manual-review
 
+---
 # Terramorphic Expanse (10th Edition)
 
 ## Vision

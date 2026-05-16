@@ -45,8 +45,13 @@ setting: indoor
 suspected_ip: Ingo & Emmet (Pokémon Black and White)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Ingo & Emmet (Team Up)
 
 ## Vision

@@ -47,8 +47,10 @@ oracle_text: "{T}, Sacrifice this land: Search your library for a basic land car
 mood: grim
 time_of_day: indeterminate
 setting: dungeon
+tags:
+  - card
+  - vision-passed
 ---
-
 # Escape Tunnel (Murders at Karlov Manor)
 
 ## Vision

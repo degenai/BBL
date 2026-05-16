@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/14-farsight-ad
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/9/5949bb9a-b4e8-4992-a12d-8e31953aff0d.jpg?1604195753
 flavor_text: \"I've walked every one of the Teetering Peaks and never set a foot wrong. I can get you to safety.\"
 oracle_text: When this creature enters, you and target opponent each draw a card.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Farsight Adept (Zendikar Rising)
 
 ## Vision

@@ -26,6 +26,9 @@ related_characters:
   - acerola
   - aether-foundation
 ip_resolution_for: alola-trial-captains
+tags:
+  - layer
+  - character
 ---
 # Alola Trial Captains
 

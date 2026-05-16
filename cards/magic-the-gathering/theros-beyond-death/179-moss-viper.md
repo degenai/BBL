@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/179-moss-v
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/4/a4d35ec4-0e0d-4611-8ad9-39d2c8a2ad6e.jpg?1616399569
 flavor_text: Nylea watches over all the creatures of the forest except for the snakes. Blessed by Pharika, they can take care of themselves.
 oracle_text: Deathtouch
+tags:
+  - card
+  - vision-passed
 ---
-
 # Moss Viper (Theros Beyond Death)
 
 ## Vision

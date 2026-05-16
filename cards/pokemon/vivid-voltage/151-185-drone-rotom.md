@@ -49,8 +49,13 @@ setting: void
 suspected_ip: Rotom
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Drone Rotom (Vivid Voltage)
 
 ## Vision

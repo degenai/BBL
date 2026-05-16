@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/81-tome-anima--a
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/3/0360d27b-37e1-4e00-9cfc-b574efc38ea0.jpg?1594735874
 flavor_text: Sometimes knowledge takes on a life of its own.
 oracle_text: This creature can't be blocked as long as you've drawn two or more cards this turn.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Tome Anima (Core Set 2021)
 
 ## Vision

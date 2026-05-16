@@ -48,8 +48,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - pan
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Rushing Warrior Pan (Cross Worlds)
 
 ## Vision

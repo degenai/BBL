@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/magic-2015-m15/233-staff-of-th
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/f/0fd137db-296a-4c17-ba46-8b189d96c1f9.jpg?1562782719
 flavor_text: A symbol of passion in indifferent times.
 oracle_text: Whenever you cast a red spell or a Mountain you control enters, you gain 1 life.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Staff of the Flame Magus (Magic 2015 (M15))
 
 ## Vision

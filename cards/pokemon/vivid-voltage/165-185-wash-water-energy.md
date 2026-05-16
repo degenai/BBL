@@ -42,8 +42,11 @@ oracle_text: As long as this card is attached to a Pokémon, it provides Water E
 mood: sublime
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - pokemon
+  - vision-passed
 ---
-
 # Wash Water Energy (Vivid Voltage)
 
 ## Vision

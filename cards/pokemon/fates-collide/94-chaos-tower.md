@@ -46,8 +46,13 @@ oracle_text: Choose which way this card faces before you play it. This ↓ playe
 mood: sublime
 time_of_day: night
 setting: other
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-pending
 ---
-
 # Chaos Tower (Fates Collide)
 
 ## Vision

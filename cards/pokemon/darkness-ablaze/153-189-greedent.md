@@ -27,6 +27,8 @@ oracle_text: "Scrape Off (Colorless) 20: Before doing damage, discard all Pokém
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Greedent (Darkness Ablaze)

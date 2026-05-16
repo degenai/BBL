@@ -48,8 +48,11 @@ image_quality: high
 mood: grim
 time_of_day: twilight
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Smitten Swordmaster (Throne of Eldraine)
 
 ## Vision

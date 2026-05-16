@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/ultimate-masters/234-prismatic
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/6/7618fb0b-099c-47f6-b16f-49854bc5be6b.jpg?1547518529
 flavor_text: A capable mage can tune its focus, refracting mana through each disk in turn to cast any spell they desire.
 oracle_text: "{T}: Add {C}.\\n{1}, {T}: Add one mana of any color."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Prismatic Lens (Ultimate Masters)
 
 ## Vision

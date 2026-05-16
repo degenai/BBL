@@ -51,8 +51,11 @@ oracle_text: "When this enchantment enters, create two 1/1 red Gremlin creature 
 mood: comedic
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Scurry of Gremlins (Modern Horizons 3)
 
 ## Vision

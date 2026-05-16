@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/modern-horizons/209-munitions-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/8/a8572dfd-9da1-4727-b549-47f9b119f6ac.jpg?1562202379
 flavor_text: When dealing with goblins, if it isn't nailed down, it's headed your way.
 oracle_text: Flash\nWhen this creature enters, you may have it deal damage to target creature or planeswalker equal to the number of Goblins you control.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Munitions Expert (Modern Horizons)
 
 ## Vision

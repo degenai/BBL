@@ -50,8 +50,10 @@ artist: Borja Pindado
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/169-nervous-gardener--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/3/93b747c7-b342-47f8-a190-16c393b20607.jpg?1706242060
 oracle_text: Disguise {G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, search your library for a land card with a basic land type, reveal it, put it into your hand, then shuffle.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Nervous Gardener (Murders at Karlov Manor)
 
 ## Vision

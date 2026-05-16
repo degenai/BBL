@@ -28,6 +28,7 @@ oracle_text: Living weapon (When this Equipment enters, create a 0/0 black Phyre
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Drossclaw (Modern Horizons 3)

@@ -24,8 +24,10 @@ ip_resolution_for:
   - Iona
   - Iona, Shield of Emeria
   - Shield of Emeria
+tags:
+  - layer
+  - character
 ---
-
 # Iona, Shield of Emeria
 
 The canonical archangel of Zendikar's Emeria region — one of the plane's greater archangels alongside Linvala, the Keeper of Silence — and the Magic: The Gathering canonical named-character whose first printing as a legendary creature is Zendikar 2009 (set ZEN, expansion symbol the Hedron-trapezoid). Iona's canonical visual identifier per MTG Wiki's Iona page is *gargantuan six-winged angel with pupil-less glowing white eyes and NO halo lowered over those eyes*. The halo-detail is canonically load-bearing: per the Zendikari angel-faction's canonical response to the first Eldrazi awakening (the Lithomancer Nahiri's sealing-arc canon, pre-Battle for Zendikar continuity), the Zendikari angels collectively lowered their halos over their eyes as a symbolic-blindness gesture acknowledging the powerlessness of the angel-faction in the face of the cosmic-horror brood. Iona is canonically the angel who *kept her sight* — the archangel-of-Emeria whose canonical operating mode is *seeing what the rest of the angel-faction collectively chose not to see*. Her canonical printing as Iona, Shield of Emeria (Zendikar 2009; later banned in Legacy by Wizards' canonical format-rules per its color-naming-and-prohibiting ability) renders this seeing-and-shielding canonical-frame as a legendary-creature card whose oracle ability *names a color and prohibits all spells of that color*. The Wizards-designer ability translates the canonical-character-frame *seer-who-shields-against-named-threats* directly into rules-text.

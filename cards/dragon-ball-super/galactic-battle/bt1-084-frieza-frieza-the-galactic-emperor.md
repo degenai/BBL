@@ -48,8 +48,13 @@ setting: void
 suspected_ip: Frieza (Dragon Ball Z, First Form)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Frieza // Frieza, The Galactic Emperor (Galactic Battle)
 
 ## Vision

@@ -50,8 +50,10 @@ artist: Sam Burley
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/252-swamp--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/6/66bb5192-58bc-4efe-a145-2e804fd3483d.jpg?1581481510
 oracle_text: "({T}: Add {B}.)"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Swamp (Theros Beyond Death)
 
 ## Vision

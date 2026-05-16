@@ -57,8 +57,10 @@ time_of_day: indeterminate
 setting: void
 characters:
   - fear-of-cycle
+tags:
+  - card
+  - vision-passed
 ---
-
 # Fear of Infinity (Duskmourn: House of Horror)
 
 ## Vision

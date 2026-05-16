@@ -29,6 +29,7 @@ oracle_text: "Exhaust — {3}: Put a +1/+1 counter on this creature. Create a 1/
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Camera Launcher (Aetherdrift)

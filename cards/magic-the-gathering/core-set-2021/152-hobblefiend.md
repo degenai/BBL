@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/152-hobblefiend-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/b/4bfffc18-b36a-4dd5-909e-60ea9f8eb60b.jpg?1594736699
 flavor_text: Bedbugs aren't the only things you need to worry about biting you at night.
 oracle_text: "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\\n{1}, Sacrifice another creature: Put a +1/+1 counter on this creature."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Hobblefiend (Core Set 2021)
 
 ## Vision

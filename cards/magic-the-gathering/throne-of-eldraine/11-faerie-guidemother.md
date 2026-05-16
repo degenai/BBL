@@ -51,8 +51,10 @@ image_quality: high
 mood: sublime
 time_of_day: night
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Faerie Guidemother (Throne of Eldraine)
 
 ## Vision

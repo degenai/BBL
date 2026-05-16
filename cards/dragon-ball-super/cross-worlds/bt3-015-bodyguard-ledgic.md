@@ -45,8 +45,13 @@ setting: void
 suspected_ip: Ledgic (Dragon Ball GT)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Bodyguard Ledgic (Cross Worlds)
 
 ## Vision

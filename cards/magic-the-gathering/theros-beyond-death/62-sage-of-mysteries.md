@@ -29,6 +29,7 @@ oracle_text: Constellation — Whenever an enchantment you control enters, targe
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Sage of Mysteries (Theros Beyond Death)

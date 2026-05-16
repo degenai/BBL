@@ -49,8 +49,10 @@ artist: Anna Steinbauer
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/164-jiang-yanggu-wildcrafter--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/0/10e0d47d-b13c-4d48-881f-8aaa347ef209.jpg?1557576929
 oracle_text: "Each creature you control with a +1/+1 counter on it has \\\"{T}: Add one mana of any color.\\\"\\n−1: Put a +1/+1 counter on target creature."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Jiang Yanggu, Wildcrafter (War of the Spark)
 
 ## Vision

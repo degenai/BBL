@@ -48,8 +48,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - hercule
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Hercule // Bundle of Confidence Hercule (World Martial Arts Tournament)
 
 ## Vision

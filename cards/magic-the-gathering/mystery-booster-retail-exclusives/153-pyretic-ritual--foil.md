@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/mystery-booster-retail-exclusi
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/c/ac3f40b1-fcd7-456c-afb9-759df8352e43.jpg?1583453654
 flavor_text: The Multiverse is filled with limitless power just waiting for someone to reach out and seize it.
 oracle_text: Add {R}{R}{R}.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Pyretic Ritual (Mystery Booster: Retail Exclusives)
 
 ## Vision

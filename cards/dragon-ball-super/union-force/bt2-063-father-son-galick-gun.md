@@ -50,8 +50,13 @@ ip_verified: true
 characters:
   - trunks
   - vegeta
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Father-Son Galick Gun (Union Force)
 
 ## Vision

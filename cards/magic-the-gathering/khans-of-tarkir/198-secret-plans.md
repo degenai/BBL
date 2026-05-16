@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/198-secret-pla
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/1/01589046-a969-400f-b4ac-90cbbb814504.jpg?1562781791
 flavor_text: Rakshasa trade in secrets, amassing wealth from their careful revelation.
 oracle_text: Face-down creatures you control get +0/+1.\nWhenever a permanent you control is turned face up, draw a card.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Secret Plans (Khans of Tarkir)
 
 ## Vision

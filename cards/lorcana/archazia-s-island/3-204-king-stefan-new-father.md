@@ -54,8 +54,12 @@ setting: forest
 suspected_ip: King Stefan (Sleeping Beauty)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - ip-pending
 ---
-
 # King Stefan - New Father (Archazia's Island)
 
 ## Vision

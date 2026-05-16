@@ -21,8 +21,15 @@ last_seen: 2026-05-15
 art_match_confidence: none
 needs_manual_review: true
 manual_review_reason: No reference image found via weiss for set 'Mob Psycho 100'
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - weiss
+  - manual-review
 
+---
 # Together With These Guys... (Mob Psycho 100)
 
 ## Vision

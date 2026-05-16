@@ -48,8 +48,10 @@ image_quality: high
 mood: sublime
 time_of_day: day
 setting: desert
+tags:
+  - card
+  - vision-passed
 ---
-
 # Ondu Rising (Battle for Zendikar)
 
 ## Vision

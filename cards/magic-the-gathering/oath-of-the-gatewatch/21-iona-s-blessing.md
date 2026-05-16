@@ -53,8 +53,11 @@ time_of_day: indeterminate
 setting: other
 characters:
   - iona
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Iona's Blessing (Oath of the Gatewatch)
 
 ## Vision

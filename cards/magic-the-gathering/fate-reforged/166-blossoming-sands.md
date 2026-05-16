@@ -50,8 +50,10 @@ image_quality: high
 mood: peaceful
 time_of_day: day
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Blossoming Sands (Fate Reforged)
 
 ## Vision

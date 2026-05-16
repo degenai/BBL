@@ -49,8 +49,10 @@ oracle_text: Flash\nEnchant creature\nEnchanted creature gets +2/+2 as long as i
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Burden of Proof (Murders at Karlov Manor)
 
 ## Vision

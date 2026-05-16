@@ -60,8 +60,12 @@ ip_confidence: high
 ip_verified: true
 characters:
   - valgavoth
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Betrayer's Bargain (Duskmourn: House of Horror)
 
 ## Vision

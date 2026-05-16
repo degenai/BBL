@@ -51,8 +51,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - charizard-line
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Charizard (Vivid Voltage)
 
 ## Vision

@@ -51,8 +51,11 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/128-blood-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/d/8d4f3fa3-ba1f-48dc-a56b-738936f1bf86.jpg?1581480083
 flavor_text: It's a small step from revel to bloodbath.
 oracle_text: "Whenever you sacrifice a permanent, put a +1/+1 counter on this creature.\\n{1}{R}, {T}, Sacrifice a creature or enchantment: This creature deals 1 damage to target creature. That creature can't block this turn."
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Blood Aspirant (Theros Beyond Death)
 
 ## Vision

@@ -47,8 +47,12 @@ setting: mountain
 suspected_ip: Gligar (Pokémon)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Gligar (Guardians Rising)
 
 ## Vision

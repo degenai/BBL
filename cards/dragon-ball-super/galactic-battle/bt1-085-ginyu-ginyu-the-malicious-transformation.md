@@ -49,8 +49,13 @@ setting: void
 suspected_ip: Captain Ginyu
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Ginyu // Ginyu, The Malicious Transformation (Galactic Battle)
 
 ## Vision

@@ -20,8 +20,10 @@ appears_on:
 related_hubs: []
 related_symbols: []
 related_characters: []
+tags:
+  - layer
+  - character
 ---
-
 # Castform Forms cycle (weather-Pokemon four-form cohort)
 
 A designer-coordinated four-form cohort of a single Pokemon species (Castform, National Pokedex no. 351) introduced in Generation III (Ruby & Sapphire, 2002, Hoenn region) as the first Pokemon to change type and form based on active weather conditions. The four forms are **Normal** (no active weather, Normal-type, rounded white-lavender body with cloud-cap silhouette), **Sunny** (harsh sunlight, Fire-type, orange-red sun-flame body), **Rainy** (rain, Water-type, blue teardrop body), and **Snowy** (hail or snow, Ice-type, white snowflake-cloud body). In the main-series games the form-change is mediated by Castform's signature **Forecast** Ability; in the TCG, the four forms were printed as four separate cards in **Chilling Reign** (SWSH6, June 2021) — the first English release to include the complete four-form cycle simultaneously — each sharing the **Weather Reading** Ability ("If you have 8 or more Stadium cards in your discard pile, ignore all Energy in this Pokemon's attack costs"). Castform's design references the **teru teru bozu**, a Japanese paper or cloth charm doll hung from windows to wish for good weather; the forms also nod to the English idiom "rain, hail, or shine."

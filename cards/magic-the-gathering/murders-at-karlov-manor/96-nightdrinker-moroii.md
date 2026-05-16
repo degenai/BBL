@@ -52,8 +52,10 @@ image_quality: high
 mood: horror
 time_of_day: night
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Nightdrinker Moroii (Murders at Karlov Manor)
 
 ## Vision

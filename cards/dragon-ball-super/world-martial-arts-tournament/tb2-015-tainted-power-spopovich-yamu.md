@@ -52,8 +52,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - babidi
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Tainted Power, Spopovich & Yamu (World Martial Arts Tournament)
 
 ## Vision

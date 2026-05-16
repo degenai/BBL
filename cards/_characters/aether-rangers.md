@@ -24,8 +24,10 @@ ip_resolution_for:
   - Aether Rangers
   - Pia Nalaar's team
   - Avishkar Rangers
+tags:
+  - layer
+  - character
 ---
-
 # Aether Rangers
 
 The home Grand Prix team of **Avishkar** — the plane formerly called Kaladesh, renamed by the Avishkar Assembly after the largely bloodless Indigo Revolution dismantled the colonial Consulate. The Rangers are one of ten teams competing in the second annual interplanar Ghirapur Grand Prix, the racing event that frames *Aetherdrift* (DFT, 2025-02-14). They are funded and outfitted by the Avishkar Assembly (the post-revolutionary governing body that replaced the Consulate), captained on the engineering side by **Pia Nalaar, Chief Mechanic**, and on the driving side by **Sita Varma, Masked Racer** — the star pilot known to her fans as Spitfire.

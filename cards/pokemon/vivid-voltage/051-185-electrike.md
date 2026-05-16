@@ -27,6 +27,8 @@ oracle_text: "Collect (Colorless): Draw a card.\\nBite (LightningColorless) 20"
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Electrike (Vivid Voltage)

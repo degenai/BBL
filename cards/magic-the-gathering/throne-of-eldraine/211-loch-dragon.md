@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/211-loch-dr
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/a/9a99088e-7162-4e65-867f-bca1c7400ce3.jpg?1572490901
 flavor_text: Despite its ferocity, its favor can be won with a gift of something it's never seen before.
 oracle_text: Flying\nWhenever this creature enters or attacks, you may discard a card. If you do, draw a card.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Loch Dragon (Throne of Eldraine)
 
 ## Vision

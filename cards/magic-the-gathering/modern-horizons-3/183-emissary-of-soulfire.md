@@ -46,8 +46,10 @@ oracle_text: "When this creature enters, you get {E}{E}{E} (three energy counter
 mood: sublime
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - vision-passed
 ---
-
 # Emissary of Soulfire (Modern Horizons 3)
 
 ## Vision

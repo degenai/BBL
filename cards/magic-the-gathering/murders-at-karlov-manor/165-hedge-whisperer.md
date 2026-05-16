@@ -50,8 +50,10 @@ image_quality: high
 mood: peaceful
 time_of_day: indeterminate
 setting: urban
+tags:
+  - card
+  - vision-passed
 ---
-
 # Hedge Whisperer (Murders at Karlov Manor)
 
 ## Vision

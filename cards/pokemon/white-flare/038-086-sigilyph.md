@@ -27,6 +27,8 @@ oracle_text: "Reflect (Colorless): During your opponent's next turn, this Pokém
 image_width: 733
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Sigilyph (White Flare)

@@ -51,8 +51,13 @@ ip_confidence: high
 ip_verified: true
 flavor_text: Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.
 oracle_text: "Corkscrew Punch (Colorless) 10\\nFrog Hop (PsychicColorless) 20+: Flip a coin. If heads, this attack does 20 more damage."
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Croagunk (Burning Shadows)
 
 ## Vision

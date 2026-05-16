@@ -50,8 +50,11 @@ image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Crumble to Dust (Battle for Zendikar)
 
 ## Vision

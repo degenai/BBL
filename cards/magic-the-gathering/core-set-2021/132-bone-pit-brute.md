@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/132-bone-pit-bru
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/0/6075e0a3-a0ab-4a11-8ad2-7dabb071d309.jpg?1594736498
 flavor_text: Welcome to the club.
 oracle_text: Menace (This creature can't be blocked except by two or more creatures.)\nWhen this creature enters, target creature gets +4/+0 until end of turn.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Bone Pit Brute (Core Set 2021)
 
 ## Vision

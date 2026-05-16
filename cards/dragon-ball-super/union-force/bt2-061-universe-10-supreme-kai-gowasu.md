@@ -47,8 +47,13 @@ setting: void
 suspected_ip: Gowasu (Dragon Ball Super)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Universe 10 Supreme Kai Gowasu (Union Force)
 
 ## Vision

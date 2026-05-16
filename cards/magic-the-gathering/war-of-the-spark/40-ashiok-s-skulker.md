@@ -29,6 +29,7 @@ oracle_text: "{3}{U}: This creature can't be blocked this turn."
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Ashiok's Skulker (War of the Spark)

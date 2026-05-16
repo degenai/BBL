@@ -20,8 +20,10 @@ related_hubs: []
 related_characters:
   - valgavoth
   - fear-of-cycle
+tags:
+  - layer
+  - symbol
 ---
-
 # Eerie (mechanic)
 
 The iconographic-and-rules-text primitive of the **Eerie** ability-word keyword introduced in *Duskmourn: House of Horror* (DSK, 2024-09-27) as one of the set's signature mechanics (alongside Rooms, Manifest Dread, Survival, and Delirium-as-returning-subtheme). Eerie is a designer-coordinated ability-word that prefixes triggered abilities firing whenever an enchantment you control enters the battlefield AND whenever you fully unlock a Room. The mechanic renders the in-fiction *the house responding to your presence* as a rules-text-level trigger: every enchantment cast or door unlocked makes the House notice, and the Eerie-coded creatures react. The marker is a first-class graph-relevant mechanical primitive parallel to [[suspect]], [[disguise]], and [[manifest-dread]]: a designer-coordinated cohort identifier that crosses multiple cards in a set, marks them as members of a designer-stated thematic program, and provides the canonical iconographic anchor for any bundle assembled around the program.

@@ -49,8 +49,12 @@ setting: forest
 suspected_ip: "Toedscruel (#953)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Arven's Toedscruel (Destined Rivals)
 
 ## Vision

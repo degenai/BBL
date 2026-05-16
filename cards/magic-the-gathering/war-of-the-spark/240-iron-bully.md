@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/240-iron-bull
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/e/ded2c66e-402c-4d5c-b987-402679aa914b.jpg?1557577426
 flavor_text: \"Why would someone have built ... wait, never mind. Send it to the front lines!\"\n—Commander Grozdan
 oracle_text: Menace (This creature can't be blocked except by two or more creatures.)\nWhen this creature enters, put a +1/+1 counter on target creature.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Iron Bully (War of the Spark)
 
 ## Vision

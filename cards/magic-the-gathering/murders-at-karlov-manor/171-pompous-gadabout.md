@@ -50,8 +50,10 @@ image_quality: high
 mood: comedic
 time_of_day: day
 setting: urban
+tags:
+  - card
+  - vision-passed
 ---
-
 # Pompous Gadabout (Murders at Karlov Manor)
 
 ## Vision

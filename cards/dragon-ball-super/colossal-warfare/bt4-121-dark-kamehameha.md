@@ -48,8 +48,13 @@ ip_confidence: none
 ip_verified: true
 characters:
   - xenoverse-villains
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Dark Kamehameha (Colossal Warfare)
 
 ## Vision

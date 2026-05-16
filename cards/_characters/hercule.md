@@ -32,8 +32,10 @@ ip_resolution_for:
   - Mr. Satan
   - Mark
   - World Martial Arts Champion
+tags:
+  - layer
+  - character
 ---
-
 # Hercule (Mr. Satan)
 
 The reigning World Martial Arts Champion in Dragon Ball canon, the franchise's most celebrated normal-human and the *Dragon Ball*-canonical exemplar of **manufactured-celebrity-as-apparatus-of-extraction**. Introduced in the Cell Games arc (Dragon Ball manga chapter 410, 1992 / Dragon Ball Z anime episode 165, 1993) as a bombastic World Tournament Champion competing in Cell's televised event, Hercule earns his canonical narrative role through a multi-saga credit-theft progression: he is the public figure who claims Cell's defeat (a victory actually won by Gohan), is subsequently credited for Majin Buu's defeat (Goku's kill, granted with the Z-Fighters' explicit consent because they had no interest in public recognition), and by the post-Buu continuity has been worshipped by nearly the entire population of Earth as the sole official savior. His real name is canonically "Mark" per Akira Toriyama's commentary (the Japanese Mr. Satan / "akuma" demon-pun versus the English-localization "Hercule" being stage / localization layers over the underlying given name); Toriyama specifies the character originates from a culture that does not use surnames. Across the franchise's Z + Super + GT continuity, Hercule operates as one of the canon's most precisely-designed *labor-and-credit* commentary characters: he performs **genuine labor** in the Buu Saga (his friendship with Fat Buu is canonically the moral pivot that suppresses Buu's destruction; Buu's affection for Hercule is the load-bearing emotional structure that holds the saga's catastrophic-stakes resolution together) while simultaneously occupying the **canonical-credit-thief** position the Cell Games established. The character is therefore a designer-coordinated single-figure case study in *the apparatus-of-extraction reading where labor and credit are systematically uncoupled*.

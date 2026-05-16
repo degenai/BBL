@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/56-naiad-o
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/c/dc6ae489-658b-4c12-b204-f7b58ce84375.jpg?1581479418
 flavor_text: \"Wave-borne, he watches over secrets of the shore.\"\n—Psemilla, Meletian poet
 oracle_text: During turns other than yours, spells you cast cost {1} less to cast.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Naiad of Hidden Coves (Theros Beyond Death)
 
 ## Vision

@@ -57,8 +57,10 @@ oracle_text: Flying, lifelink\nDisguise {W/B}{W/B} (You may cast this card face 
 mood: grim
 time_of_day: twilight
 setting: urban
+tags:
+  - card
+  - vision-passed
 ---
-
 # Sanguine Savior (Murders at Karlov Manor)
 
 ## Vision

@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/77-towerin
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/c/8c2b4ffc-b1e1-4b16-9a51-1a12f8256a27.jpg?1581479618
 flavor_text: Thassa's favor followed him to the Underworld. Even the waves of Nerono obeyed his will.
 oracle_text: Whenever this creature deals damage, target player mills that many cards.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Towering-Wave Mystic (Theros Beyond Death)
 
 ## Vision

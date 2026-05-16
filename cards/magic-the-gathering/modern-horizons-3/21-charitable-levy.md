@@ -51,8 +51,11 @@ oracle_text: Noncreature spells cost {1} more to cast.\nWhenever a player casts 
 mood: action
 time_of_day: day
 setting: urban
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Charitable Levy (Modern Horizons 3)
 
 ## Vision

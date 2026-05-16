@@ -29,6 +29,7 @@ oracle_text: "Whenever you draw your second card each turn, create a 1/1 blue Fa
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Improbable Alliance (Throne of Eldraine)

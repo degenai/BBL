@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/213-ambush-v
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/e/0e386888-57f5-4eb6-88e8-5679bb8eb290.jpg?1608910517
 flavor_text: \"Living creatures seldom impress me. But I like this one.\"\n—Uta Falkenrath
 oracle_text: Flash\nDeathtouch
+tags:
+  - card
+  - vision-passed
 ---
-
 # Ambush Viper (Commander Legends)
 
 ## Vision

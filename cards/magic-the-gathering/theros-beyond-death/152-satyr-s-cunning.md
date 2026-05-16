@@ -50,8 +50,11 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/152-satyr-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/4/646d8201-be68-42fa-bcfd-42d81a2ad195.jpg?1581480393
 flavor_text: It's hard to keep a satyr down, even in the Underworld.
 oracle_text: Create a 1/1 red Satyr creature token with \"This token can't block.\"\nEscape—{2}{R}, Exile two other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Satyr's Cunning (Theros Beyond Death)
 
 ## Vision

@@ -52,8 +52,13 @@ subject_known_ip: true
 suspected_ip: Castle of the Horned King (The Black Cauldron)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Castle of the Horned King - Bastion of Evil (Whispers in the Well)
 
 ## Vision

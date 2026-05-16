@@ -47,8 +47,10 @@ artist: Richard Wright
 art_crop_image: cards/_images/magic-the-gathering/guilds-of-ravnica/261-island--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/9/29bfbf3e-3a6c-40d4-8e1b-255f429de6cc.jpg?1750920748
 oracle_text: "({T}: Add {U}.)"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Island (Guilds of Ravnica)
 
 ## Vision

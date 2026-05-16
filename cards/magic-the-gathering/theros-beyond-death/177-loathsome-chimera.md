@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/177-loaths
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/a/3afe6283-3642-4883-ac6e-83ae3280af9c.jpg?1581480674
 flavor_text: \"I see... elk? And lion? And... teeth! A lot of teeth!\"\n—Teraklos of Meletis
 oracle_text: Escape—{4}{G}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)\nThis creature escapes with a +1/+1 counter on it.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Loathsome Chimera (Theros Beyond Death)
 
 ## Vision

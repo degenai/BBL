@@ -29,6 +29,7 @@ oracle_text: Choose a creature or planeswalker you control. All damage that woul
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Gideon's Sacrifice (War of the Spark)

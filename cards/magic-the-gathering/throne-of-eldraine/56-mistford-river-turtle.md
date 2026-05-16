@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/56-mistford
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/c/0c78c386-c64b-4fab-a718-f18b46360e20.jpg?1572489944
 flavor_text: The fae raised the turtle from a tiny hatchling. They taught it whom to ferry—and whom to drown.
 oracle_text: Whenever this creature attacks, another target attacking non-Human creature can't be blocked this turn.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Mistford River Turtle (Throne of Eldraine)
 
 ## Vision

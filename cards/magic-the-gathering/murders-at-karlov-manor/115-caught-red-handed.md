@@ -49,8 +49,11 @@ oracle_text: This spell can't be countered. (This includes by the ward ability.)
 mood: comedic
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Caught Red-Handed (Murders at Karlov Manor)
 
 ## Vision

@@ -50,8 +50,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - alola-trial-captains
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Mallow & Lana (Cosmic Eclipse)
 
 ## Vision

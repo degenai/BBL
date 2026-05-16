@@ -48,8 +48,13 @@ setting: void
 suspected_ip: "Hoi (Dragon Ball Z: Wrath of the Dragon)"
 ip_confidence: med
 ip_verified: false
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-pending
 ---
-
 # Phantom Flame Cannon (Colossal Warfare)
 
 ## Vision

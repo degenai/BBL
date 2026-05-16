@@ -50,8 +50,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Sure Strike (Battle for Zendikar)
 
 ## Vision

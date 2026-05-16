@@ -27,6 +27,8 @@ oracle_text: "Earthquake (Fighting) 120: This attack also does 20 damage to each
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Donphan (Vivid Voltage)

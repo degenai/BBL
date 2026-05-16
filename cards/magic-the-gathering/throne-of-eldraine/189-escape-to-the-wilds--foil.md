@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/189-escape-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/e/3e26c10b-179f-4a6e-bc8d-3ec1d6783fb9.jpg?1602499769
 flavor_text: The guards kindled the hearth and locked the door to Ellwen's chamber. By morning, the fire was out and Ellwen was gone.
 oracle_text: Exile the top five cards of your library. You may play cards exiled this way until the end of your next turn.\nYou may play an additional land this turn.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Escape to the Wilds (Throne of Eldraine)
 
 ## Vision

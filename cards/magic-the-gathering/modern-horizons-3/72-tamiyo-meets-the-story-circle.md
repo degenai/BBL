@@ -55,8 +55,11 @@ setting: indoor
 suspected_ip: Tamiyo
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Tamiyo Meets the Story Circle (Modern Horizons 3)
 
 ## Vision

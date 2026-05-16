@@ -46,8 +46,12 @@ setting: void
 suspected_ip: Candy-chan (Mob Psycho 100)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - weiss
+  - vision-passed
+  - ip-pending
 ---
-
 # Candy-chan (Mob Psycho 100)
 
 ## Vision

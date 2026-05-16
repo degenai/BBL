@@ -27,6 +27,8 @@ oracle_text: "Collect (Colorless): Draw a card.\\nScratch (ColorlessColorless) 3
 image_width: 733
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Pansage (Black Bolt)

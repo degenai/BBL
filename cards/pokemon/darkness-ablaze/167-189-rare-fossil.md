@@ -45,8 +45,12 @@ oracle_text: Play this card as if it were a 70-HP Basic Colorless Pokémon. At a
 mood: peaceful
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
 ---
-
 # Rare Fossil (Darkness Ablaze)
 
 ## Vision

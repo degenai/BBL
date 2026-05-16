@@ -47,8 +47,13 @@ setting: other
 suspected_ip: Wild Tiger
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Wild Tiger, the Imposing (World Martial Arts Tournament)
 
 ## Vision

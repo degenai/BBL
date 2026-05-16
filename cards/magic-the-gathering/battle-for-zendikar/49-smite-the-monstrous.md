@@ -51,8 +51,10 @@ oracle_text: Destroy target creature with power 4 or greater.
 mood: action
 time_of_day: day
 setting: desert
+tags:
+  - card
+  - vision-passed
 ---
-
 # Smite the Monstrous (Battle for Zendikar)
 
 ## Vision

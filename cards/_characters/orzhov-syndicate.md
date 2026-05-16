@@ -30,8 +30,10 @@ related_symbols: "[orzhov-signet]"
 related_characters:
   - macro-cosmos
 ip_resolution_for: orzhov-syndicate
+tags:
+  - layer
+  - character
 ---
-
 # Orzhov Syndicate
 
 The white-black guild of the plane Ravnica, introduced as a playable guild in *Guildpact* (2006) and returning across every Ravnica revisit since (*Return to Ravnica* 2012, *Gatecrash* 2013, *Dragon's Maze* 2013, *Ravnica Allegiance* 2019, *War of the Spark* 2019, *Streets of New Capenna* tie-ins, *Murders at Karlov Manor* 2024, *Ravnica Remastered* 2024). MTG Wiki and Wizards' own design articles characterize the Orzhov as the plane's "Church of Deals" — an institutional amalgam of organized religion, organized banking, and organized crime, where the line between sermon, debt-contract, and protection racket is a matter of vocabulary, not function. The guild's members include living humans (pontiffs, lawmages, tax-collector knights, ministers), undead vampires (the patriciate), spirits of the indebted dead (kept in service past death by unpaid contracts), thrulls (constructed labor), and the Obzedat Ghost Council itself (a body of vampire-spirit oligarchs that rules the syndicate from beyond).

@@ -14,8 +14,10 @@ aliases:
 tag_signals: "[stewardship, tending, care, guardian, custodian, keeper, healer, nurse, mentor, teacher, gardener, shepherd, sanctuary, refuge, herbalist, doctor, attendant, conservator, protector, warden, caretaker, supply-chain, hospital, clinic, school, library, archive, conservation, sanctuary, watchtower]"
 anchored_lairs: []
 brand_weight: foundational
+tags:
+  - layer
+  - hub
 ---
-
 # Stewardship
 
 A foundational [[Bulk Graph Bundler]] hub. Not "kindness" as cute aesthetic. Stewardship as the political verb — tending what isn't yours-to-own, maintaining the commons, caring across the kin-line, mutual aid as a daily practice. The card art moment where someone holds something living that they didn't extract from, the gardener at the Senzu tower, the angel-attendant whose actual job is keeping the destroyer-god from destroying too much.

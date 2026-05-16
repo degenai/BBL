@@ -27,6 +27,8 @@ oracle_text: "Division: Search your deck for Alolan Grimer and put it onto your 
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Alolan Grimer (Burning Shadows)

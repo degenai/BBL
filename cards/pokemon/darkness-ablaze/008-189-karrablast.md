@@ -49,8 +49,12 @@ setting: forest
 suspected_ip: "Karrablast (#588)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Karrablast (Darkness Ablaze)
 
 ## Vision

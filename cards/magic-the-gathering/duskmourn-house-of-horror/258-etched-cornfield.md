@@ -53,8 +53,10 @@ oracle_text: "This land enters tapped unless a player has 13 or less life.\\n{T}
 mood: horror
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Etched Cornfield (Duskmourn: House of Horror)
 
 ## Vision

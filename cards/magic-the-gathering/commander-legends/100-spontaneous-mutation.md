@@ -50,8 +50,11 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/100-spontane
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/9/6919154c-154e-4430-b7fd-ab9fe70326dc.jpg?1608909494
 flavor_text: When the body turns, the mind soon follows.
 oracle_text: Flash\nEnchant creature\nEnchanted creature gets -X/-0, where X is the number of cards in your graveyard.
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Spontaneous Mutation (Commander Legends)
 
 ## Vision

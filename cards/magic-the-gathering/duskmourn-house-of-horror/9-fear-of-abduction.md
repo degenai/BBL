@@ -54,8 +54,12 @@ oracle_text: As an additional cost to cast this spell, exile a creature you cont
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-pending
 ---
-
 # Fear of Abduction (Duskmourn: House of Horror)
 
 ## Vision

@@ -49,8 +49,11 @@ image_quality: high
 mood: sublime
 time_of_day: indeterminate
 setting: ocean
+tags:
+  - card
+  - lorcana
+  - vision-passed
 ---
-
 # Sail the Azurite Sea (Azurite Sea)
 
 ## Vision

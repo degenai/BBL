@@ -50,8 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/142-samut-s-s
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/4/94bda699-2b5d-4f5b-bee5-792b99d2b64a.jpg?1557576800
 flavor_text: Samut's war was intensely personal. Every hour she faced enemies she once loved as friends and horrors she once revered as gods.
 oracle_text: Target creature gets +2/+1 and gains haste until end of turn. Scry 1.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Samut's Sprint (War of the Spark)
 
 ## Vision

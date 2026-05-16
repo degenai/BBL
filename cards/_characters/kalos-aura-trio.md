@@ -19,8 +19,10 @@ appears_on:
 related_hubs: []
 related_symbols: []
 related_characters: []
+tags:
+  - layer
+  - character
 ---
-
 # Kalos Aura Trio (Xerneas / Yveltal / Zygarde Life-Death-Order cohort)
 
 A designer-coordinated trio of three Kalos-region Legendary Pokemon introduced in **Pokemon X and Y** (Game Freak, October 2013, Generation VI). The three species are **Xerneas** (Life Pokemon, no. 716, Fairy-type, Pokemon X version mascot), **Yveltal** (Destruction Pokemon, no. 717, Dark/Flying dual-type, Pokemon Y version mascot), and **Zygarde** (Order Pokemon, no. 718, Dragon/Ground dual-type, multi-Forme cellular construct). The trio occupies the Kalos region's box-art-legendary slot — the canonical mascot pair plus the third-version balance Pokemon analogous to Gen II's Lugia/Ho-Oh + Suicune, Gen III's Kyogre/Groudon + Rayquaza, and Gen V's Reshiram/Zekrom + Kyurem. The Aura Trio's designer-confirmed thesis is the **Life / Death / Order** triad: Xerneas's antlers radiate seven aurora colors and grant eternal life to those it touches; Yveltal's Y-silhouetted wings absorb the life energy of all surrounding creatures at its lifespan's end before it cocoons into dormancy; Zygarde monitors the ecosystem and emerges from its scattered Cells to neutralize whichever side has disrupted Kalos's natural balance. The X/Y/Z trifecta is also encoded into the species' names — **X**erneas, **Y**veltal, and **Z**ygarde all begin with the letter of their associated version title (X and Y as the released paired games; Z as the never-released third Kalos version that Zygarde would have mascoted, with Pokemon Sun & Moon's Ultra Necrozma arc and Pokemon X/Y/Z anime arc absorbing the unused Pokemon Z story content).

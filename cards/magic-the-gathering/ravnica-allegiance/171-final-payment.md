@@ -48,8 +48,10 @@ image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Final Payment (Ravnica Allegiance)
 
 ## Vision

@@ -27,6 +27,8 @@ oracle_text: "[Ability: Shell Survival] Put this Pokémon into play only with th
 image_width: 734
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Shedinja (Vivid Voltage)

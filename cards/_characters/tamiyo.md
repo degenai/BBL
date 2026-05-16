@@ -22,8 +22,10 @@ related_symbols: []
 related_characters:
   - phyrexia
 ip_resolution_for: Tamiyo
+tags:
+  - layer
+  - character
 ---
-
 # Tamiyo
 
 Moonfolk (Soratami) planeswalker of Kamigawa; scholar and storyteller whose canonical method of casting magic is *reading the appropriate story from the appropriate scroll*. Introduced as Tamiyo, the Moon Sage in Avacyn Restored (2012), foregrounded across the Innistrad investigation arc and War of the Spark, and the subject of the most consequential character-flip in Wizards' recent storytelling: her compleation by the Phyrexian praetor Jin-Gitaxias in Kamigawa: Neon Dynasty (2022), which made her the first Phyrexian planeswalker and inverted a scholar-protagonist into a corrupted antagonist before her eventual death at the hands of The Wanderer.

@@ -52,8 +52,13 @@ ip_verified: true
 characters:
   - dark-vassal-trio
   - namekian
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Dark Vassal Cymbal (Colossal Warfare)
 
 ## Vision

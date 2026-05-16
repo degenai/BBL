@@ -47,8 +47,10 @@ image_quality: high
 mood: other
 time_of_day: night
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Return to Nature (Throne of Eldraine)
 
 ## Vision

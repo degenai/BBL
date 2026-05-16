@@ -46,8 +46,12 @@ oracle_text: Put a Single Strike Supporter card from your discard pile into your
 mood: cozy
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Welcoming Lantern (Chilling Reign)
 
 ## Vision

@@ -51,8 +51,11 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/134-raging-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/9/d9325398-41c3-4177-a64d-ea38cb7a8737.jpg?1572490413
 flavor_text: "Many tales of redcap terror begin with two simple things: bloodlust and stolen steel."
 oracle_text: Double strike (This creature deals both first-strike and regular combat damage.)
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Raging Redcap (Throne of Eldraine)
 
 ## Vision

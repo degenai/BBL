@@ -30,8 +30,10 @@ related_characters:
   - trunks
   - machine-mutants-m2
 ip_resolution_for: baby-dragon-ball-gt
+tags:
+  - layer
+  - character
 ---
-
 # Baby (Dragon Ball GT)
 
 The Tuffle parasite who anchors the Baby Saga — *Dragon Ball GT*'s opening forty-episode arc and the first major post-Z continuity to bring a wholly new headline antagonist to the franchise. Baby is the last surviving member of the Tuffles, a humanoid civilization the Saiyans exterminated on Planet Plant (the same world renamed Planet Vegeta after the Saiyan conquest); his entire being is organized around revenge against the Saiyan race. Mechanically he operates by possession — entering a host body, suppressing its native consciousness, and driving the host's physiology as his own combat platform. His apex possession is **Vegeta** (Baby Vegeta), through which he reaches Super Saiyan amplification and, after regenerating Vegeta's tail under his own control, the Golden Great Ape transformation that supplies the Baby Saga's final-act monster form (rendered on the awakened back face of the BT4-002 Leader card as Rampaging Great Ape Baby). Set-defining antagonist of the Dragon Ball Super Card Game's Colossal Warfare expansion (DBS-B04, July 13, 2018), where Bandai's own strategy notes state explicitly that "Red in series 4 is mostly focused on Great Ape Baby." Five corpus cards anchor here as of wave 50; two additional Cross Worlds (BT3) cards are vision-pending and will wire here on wave 51 enrichment.

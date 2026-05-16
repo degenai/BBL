@@ -25,6 +25,8 @@ oracle_text: "Drag Off (ColorlessColorless): Switch in 1 of your opponent's Benc
 image_width: 733
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Braviary (Surging Sparks)

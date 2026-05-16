@@ -51,8 +51,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - rowlet-line
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Rowlet (Cosmic Eclipse)
 
 ## Vision

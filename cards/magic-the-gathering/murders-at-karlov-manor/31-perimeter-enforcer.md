@@ -49,8 +49,10 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: urban
+tags:
+  - card
+  - vision-passed
 ---
-
 # Perimeter Enforcer (Murders at Karlov Manor)
 
 ## Vision

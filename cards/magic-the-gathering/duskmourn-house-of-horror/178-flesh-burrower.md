@@ -49,8 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/178-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/0/60499c90-a512-4abb-98eb-0735a7138421.jpg?1726286526
 flavor_text: Symptoms of a burrower bite include fevers, chills, gangrene, subcutaneous writhing, a growing urge to eat the flesh of the living, and if you're lucky, death.
 oracle_text: Deathtouch\nWhenever this creature attacks, another target creature you control gains deathtouch until end of turn.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Flesh Burrower (Duskmourn: House of Horror)
 
 ## Vision

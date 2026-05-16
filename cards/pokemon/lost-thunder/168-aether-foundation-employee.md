@@ -48,8 +48,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - aether-foundation
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Aether Foundation Employee (Lost Thunder)
 
 ## Vision

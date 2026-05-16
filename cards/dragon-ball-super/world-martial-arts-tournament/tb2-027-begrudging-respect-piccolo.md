@@ -50,8 +50,13 @@ ip_verified: true
 characters:
   - piccolo-jr
   - namekian
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Begrudging Respect Piccolo (World Martial Arts Tournament)
 
 ## Vision

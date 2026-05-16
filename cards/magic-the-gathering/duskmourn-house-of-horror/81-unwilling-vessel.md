@@ -49,8 +49,11 @@ oracle_text: Vigilance\nEerie — Whenever an enchantment you control enters and
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+tags:
+  - card
+  - vision-passed
+  - ip-pending
 ---
-
 # Unwilling Vessel (Duskmourn: House of Horror)
 
 ## Vision

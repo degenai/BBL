@@ -26,8 +26,15 @@ flavor_text: Although it possesses a violent temperament, it won't put up with b
 oracle_text: "[Ability: Benevolent Boss] If this Pokémon is your Active Pokémon, it gets +20 HP for each of your Benched Pokémon.\\nCrazy Knuckle (FightingFightingColorless) 80+: If this Pokémon is affected by a Special Condition, this attack does 40 more damage."
 characters:
   - pancham-line
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Pangoro (McDonald's Promos 2022)
 
 ## Vision

@@ -46,8 +46,12 @@ oracle_text: Search your deck for a Psychic Energy card or a Basic Psychic Poké
 mood: sublime
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Fog Crystal (Chilling Reign)
 
 ## Vision

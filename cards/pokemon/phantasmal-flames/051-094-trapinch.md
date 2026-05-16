@@ -27,6 +27,8 @@ oracle_text: "Double Headbutt (Fighting) 10×: Flip 2 coins. This attack does 10
 image_width: 733
 image_height: 1024
 image_quality: high
+tags:
+  - card
+  - pokemon
 ---
-
 # Trapinch (Phantasmal Flames)

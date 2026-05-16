@@ -48,8 +48,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - krillin
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Toughened Up Krillin (World Martial Arts Tournament)
 
 ## Vision

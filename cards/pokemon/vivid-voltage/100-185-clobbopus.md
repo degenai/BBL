@@ -49,8 +49,12 @@ subject_known_ip: true
 suspected_ip: Clobbopus
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Clobbopus (Vivid Voltage)
 
 ## Vision

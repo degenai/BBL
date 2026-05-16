@@ -49,8 +49,10 @@ image_quality: high
 mood: horror
 time_of_day: night
 setting: urban
+tags:
+  - card
+  - vision-passed
 ---
-
 # Noxious Groodion (Ravnica Allegiance)
 
 ## Vision

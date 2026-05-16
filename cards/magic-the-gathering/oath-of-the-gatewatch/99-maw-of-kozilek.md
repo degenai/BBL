@@ -49,8 +49,11 @@ image_quality: high
 mood: horror
 time_of_day: day
 setting: void
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Maw of Kozilek (Oath of the Gatewatch)
 
 ## Vision

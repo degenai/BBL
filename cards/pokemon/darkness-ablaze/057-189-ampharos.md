@@ -49,8 +49,12 @@ setting: forest
 suspected_ip: "Ampharos (#181)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Ampharos (Darkness Ablaze)
 
 ## Vision

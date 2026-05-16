@@ -48,8 +48,12 @@ oracle_text: When this creature enters, create a 4/4 red Dragon creature token w
 mood: peaceful
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
+  - ip-pending
 ---
-
 # Dragon Trainer (Foundations)
 
 ## Vision

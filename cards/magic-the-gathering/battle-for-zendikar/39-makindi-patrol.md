@@ -47,8 +47,10 @@ oracle_text: Rally — Whenever this creature or another Ally you control enters
 mood: sublime
 time_of_day: indeterminate
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Makindi Patrol (Battle for Zendikar)
 
 ## Vision

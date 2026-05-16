@@ -49,8 +49,12 @@ setting: mountain
 suspected_ip: "Abomasnow (#460)"
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - ip-pending
 ---
-
 # Abomasnow (Destined Rivals)
 
 ## Vision

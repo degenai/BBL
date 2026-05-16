@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/46-chain-t
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/a/fa0e1a22-8f27-4c5b-a65c-c35abd2ff05b.jpg?1581479320
 flavor_text: Those who do not learn from their mistakes are bound to relive them.
 oracle_text: Target creature gets -4/-0 until end of turn. Scry 2.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Chain to Memory (Theros Beyond Death)
 
 ## Vision

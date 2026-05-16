@@ -48,8 +48,13 @@ subject_known_ip: true
 suspected_ip: Cara Liss
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Cara Liss (Vivid Voltage)
 
 ## Vision

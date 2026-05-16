@@ -52,8 +52,11 @@ time_of_day: indeterminate
 setting: indoor
 characters:
   - valgavoth
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Say Its Name (Duskmourn: House of Horror)
 
 ## Vision

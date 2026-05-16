@@ -47,8 +47,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: void
+tags:
+  - card
+  - vision-passed
 ---
-
 # Miasma Demon (Duskmourn: House of Horror)
 
 ## Vision

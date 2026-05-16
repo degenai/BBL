@@ -29,6 +29,7 @@ oracle_text: Start your engines! (If you have no speed, it starts at 1. It incre
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Walking Sarcophagus (Aetherdrift)

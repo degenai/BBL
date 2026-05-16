@@ -53,8 +53,10 @@ artist: Sam Burley
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/244-blossoming-sands--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/8/c8483586-9a07-4f54-a390-7dd97fcea5cb.jpg?1594737617
 oracle_text: "This land enters tapped.\\nWhen this land enters, you gain 1 life.\\n{T}: Add {G} or {W}."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Blossoming Sands (Core Set 2021)
 
 ## Vision

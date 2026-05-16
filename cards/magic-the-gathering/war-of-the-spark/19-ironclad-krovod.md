@@ -28,6 +28,7 @@ flavor_text: \"We need to block the exits from the plaza! What's big, heavy, and
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Ironclad Krovod (War of the Spark)

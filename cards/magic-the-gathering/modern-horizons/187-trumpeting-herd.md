@@ -48,8 +48,10 @@ image_quality: high
 mood: sublime
 time_of_day: day
 setting: forest
+tags:
+  - card
+  - vision-passed
 ---
-
 # Trumpeting Herd (Modern Horizons)
 
 ## Vision

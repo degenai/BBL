@@ -55,8 +55,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/227-slaugh
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/2/a2b441c0-261e-4094-b694-5e11ea3c14ab.jpg?1581481146
 flavor_text: \"Mogis is pleased by this offering. Bring him more!\"
 oracle_text: "Whenever you sacrifice a permanent, this creature gets +2/+0 until end of turn.\\n{2}, Sacrifice another creature or an enchantment: This creature gains first strike until end of turn."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Slaughter-Priest of Mogis (Theros Beyond Death)
 
 ## Vision

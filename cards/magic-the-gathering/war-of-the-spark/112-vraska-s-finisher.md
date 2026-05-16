@@ -52,8 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/112-vraska-s-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/8/f89fa379-7fae-4fbf-8e31-0ef3645353c5.jpg?1557576597
 flavor_text: \"You might have pleaded your case with my queen earlier. Now I am here, and it is far too late.\"
 oracle_text: When this creature enters, destroy target creature or planeswalker an opponent controls that was dealt damage this turn.
+tags:
+  - card
+  - vision-passed
 ---
-
 # Vraska's Finisher (War of the Spark)
 
 ## Vision

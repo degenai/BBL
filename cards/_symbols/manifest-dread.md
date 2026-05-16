@@ -26,8 +26,10 @@ related_characters:
   - fear-of-cycle
   - dsk-toy-horror
   - dsk-survival-archetype
+tags:
+  - layer
+  - symbol
 ---
-
 # Manifest Dread (mechanic)
 
 The iconographic-and-rules-text primitive of the **Manifest Dread** keyword action introduced in *Duskmourn: House of Horror* (DSK, 2024-09-27) as one of the set's signature mechanics (alongside Rooms, Survival, Eerie, and Delirium-as-returning-subtheme). Manifest dread is a designer-coordinated mechanical primitive that asks the controller to *look at the top two cards of their library, put one onto the battlefield face down as a 2/2 creature, and the other into their graveyard*. The mechanic is a Duskmourn-era variant of the classic Manifest keyword that debuted in Fate Reforged (January 2015); the dread variant adds the graveyard-feeding component that wires it directly into the set's Delirium subtheme. The marker is a first-class graph-relevant mechanical primitive parallel to [[suspect]] and [[single-strike-emblem]]: a designer-coordinated cohort identifier that crosses multiple cards in a set, marks them as members of a designer-stated thematic program, and provides the canonical iconographic anchor for any bundle assembled around the program.

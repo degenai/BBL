@@ -53,8 +53,11 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/117-defiant-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/f/cfd1c30e-e539-4382-b0fd-724a502a4b7e.jpg?1608909648
 flavor_text: \"I didn't survive that crash just so I could fall to the likes of you.\"
 oracle_text: "Sacrifice an artifact or creature: Put a +1/+1 counter on this creature. Activate only as a sorcery."
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Defiant Salvager (Commander Legends)
 
 ## Vision

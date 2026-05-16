@@ -46,8 +46,13 @@ setting: void
 suspected_ip: Poipole (Pokémon Ultra Sun and Ultra Moon)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - pokemon
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Poipole (Lost Thunder)
 
 ## Vision

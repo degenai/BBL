@@ -51,8 +51,11 @@ oracle_text: "{G}: Target creature gains trample until end of turn.\\nExhaust â€
 mood: action
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Greenbelt Guardian (Aetherdrift)
 
 ## Vision

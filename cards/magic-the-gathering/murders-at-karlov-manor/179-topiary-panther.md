@@ -53,8 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/179-to
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/3/03d0365e-6dee-4236-a997-6761e3cde90d.jpg?1706242093
 flavor_text: The gardens around Karlov Manor are oddly bereft of birdsong.
 oracle_text: "Trample\\nBasic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
+tags:
+  - card
+  - vision-passed
 ---
-
 # Topiary Panther (Murders at Karlov Manor)
 
 ## Vision

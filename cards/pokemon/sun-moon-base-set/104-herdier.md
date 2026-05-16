@@ -24,8 +24,15 @@ needs_manual_review: true
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: It loyally follows its Trainer's orders. For ages, they have helped Trainers raise Pokémon.
 oracle_text: "Collect (ColorlessColorless): Draw 3 cards.\\nBite (ColorlessColorlessColorless) 50"
----
+review_good: false
+review_bad: false
+review_notes: ""
+tags:
+  - card
+  - pokemon
+  - manual-review
 
+---
 # Herdier (Sun & Moon Base Set)
 
 ## Vision

@@ -51,8 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/228-roving-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/8/38a0136e-a637-4a12-a38f-35f772b290a9.jpg?1592485658
 flavor_text: \"It wandered slowly across the landscape, calling out in its lonely voice, but no other castles answered its cries.\"\n—*Beyond the Great Henge*
 oracle_text: "Defender\\n{7}: This creature gets +2/+0 and gains trample until end of turn. It can attack this turn as though it didn't have defender."
+tags:
+  - card
+  - vision-passed
 ---
-
 # Roving Keep (Throne of Eldraine)
 
 ## Vision

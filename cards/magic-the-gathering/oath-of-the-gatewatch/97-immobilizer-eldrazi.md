@@ -51,8 +51,11 @@ image_quality: high
 mood: horror
 time_of_day: day
 setting: desert
+tags:
+  - card
+  - vision-passed
+  - trivia-passed
 ---
-
 # Immobilizer Eldrazi (Oath of the Gatewatch)
 
 ## Vision

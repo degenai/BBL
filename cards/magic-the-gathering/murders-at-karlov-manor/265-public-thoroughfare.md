@@ -46,8 +46,10 @@ oracle_text: "This land enters tapped.\\nWhen this land enters, sacrifice it unl
 mood: sublime
 time_of_day: day
 setting: indoor
+tags:
+  - card
+  - vision-passed
 ---
-
 # Public Thoroughfare (Murders at Karlov Manor)
 
 ## Vision

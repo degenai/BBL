@@ -51,8 +51,13 @@ ip_confidence: high
 ip_verified: true
 characters:
   - trunks
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Trunks, Bridge to the Future (2018) (Cross Worlds)
 
 ## Vision

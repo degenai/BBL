@@ -29,6 +29,7 @@ oracle_text: "{T}: Add {C}.\\n{4}, {T}: Investigate. (Create a Clue token. It's 
 image_width: 745
 image_height: 1040
 image_quality: high
+tags:
+  - card
 ---
-
 # Magnifying Glass (Murders at Karlov Manor)

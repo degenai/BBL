@@ -56,8 +56,13 @@ subject_known_ip: true
 suspected_ip: Mor'du (Brave)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Mor'du - Wicked with Pride (Wilds Unknown)
 
 ## Vision

@@ -47,8 +47,10 @@ image_quality: high
 mood: sublime
 time_of_day: dawn
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Parhelion II (War of the Spark)
 
 ## Vision

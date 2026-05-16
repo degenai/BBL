@@ -55,8 +55,13 @@ setting: other
 suspected_ip: David Xanatos / Steel Clan (Gargoyles)
 ip_confidence: high
 ip_verified: true
+tags:
+  - card
+  - lorcana
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # David Xanatos - Steel Clan Leader (Whispers in the Well)
 
 ## Vision

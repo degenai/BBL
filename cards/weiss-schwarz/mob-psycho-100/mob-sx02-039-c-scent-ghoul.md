@@ -45,8 +45,12 @@ setting: void
 suspected_ip: Scent-Ghoul (Mob Psycho 100)
 ip_confidence: high
 ip_verified: false
+tags:
+  - card
+  - weiss
+  - vision-passed
+  - ip-pending
 ---
-
 # Scent-Ghoul (Mob Psycho 100)
 
 ## Vision

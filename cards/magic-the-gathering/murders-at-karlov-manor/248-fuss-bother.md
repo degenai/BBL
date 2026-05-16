@@ -56,8 +56,10 @@ oracle_text: Put a +1/+1 counter on each attacking creature you control.
 mood: grim
 time_of_day: indeterminate
 setting: other
+tags:
+  - card
+  - vision-passed
 ---
-
 # Fuss // Bother (Murders at Karlov Manor)
 
 ## Vision

@@ -21,8 +21,10 @@ related_symbols: []
 related_characters:
   - son-gohan
 ip_resolution_for: cell-saga-apparatus
+tags:
+  - layer
+  - character
 ---
-
 # Cell-Saga apparatus trivium (Dr. Gero → Android 13 → Cell Jr.)
 
 The designer-implicit three-card thesis-stack within the Dragon Ball Super Card Game's early-period boosters (Union Force BT2, 2017-11-03; Cross Worlds BT3, 2018-03-30) that anchors the Red Ribbon Army's canonical mass-warrior-production apparatus at three escalating tiers: **Dr. Gero (BT3-067)** as the architect-engineer who designed the Android program from Androids 13-20 plus Cell's bio-mechanical-assembly framework, **Android 13 (BT3-070)** as the posthumous product completed by Gero's underground supercomputer after Androids 17 and 18 killed him, and **Cell Jr. (BT2-087)** as the mass-produced cohort of seven cellular-mitosis offspring spawned by Perfect Cell during the Cell Games as a single-episode tactical weapon. The three cards canonically constitute the franchise's clearest visualization of the **apparatus-of-extraction at three production-scale tiers** — engineer → product → mass-product — within the same villain-organization lineage (Red Ribbon Army → Gero's lab → Cell's cellular-division), cross-cited inline in their own trivia bullets ("Apparatus of production" on BT3-067; "Apparatus note" on BT2-087 explicitly linking Cell-mitosis to Gero's bio-mechanical replication logic).

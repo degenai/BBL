@@ -47,8 +47,10 @@ oracle_text: "{4}{W}: Creatures you control get +1/+1 until end of turn."
 mood: action
 time_of_day: indeterminate
 setting: mountain
+tags:
+  - card
+  - vision-passed
 ---
-
 # Cliffside Lookout (Battle for Zendikar)
 
 ## Vision

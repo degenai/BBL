@@ -52,8 +52,13 @@ ip_verified: true
 characters:
   - saiyan
   - universe-6-tournament-cohort
+tags:
+  - card
+  - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
-
 # Raging Cabba (Galactic Battle)
 
 ## Vision
