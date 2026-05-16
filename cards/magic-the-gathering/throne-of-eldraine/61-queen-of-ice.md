@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,10 +50,10 @@ artist: Eric Deschamps
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/61-queen-of-ice--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/e/de2f964a-e4e1-4321-92ad-34b781868e11.jpg?1572489973
 oracle_text: Whenever this creature deals combat damage to a creature, tap that creature. It doesn't untap during its controller's next untap step.
+mana_cost: "{2}{U} // {1}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{U} // {1}{U}
 ---
 # Queen of Ice (Throne of Eldraine)
 

@@ -27,8 +27,6 @@ tags_filter:
   - mid-shot
   - action
   - three-quarter
-  - green-magic
-  - white-magic
   - multicolor-green-white
   - creature-centaur
   - disguise
@@ -39,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/c/d/cdf0578f-4966-4ecd-81e1-83ae13126f13.png?1706242133
 art_match_confidence: high
 needs_manual_review: false
@@ -52,10 +50,10 @@ oracle_text: As this creature enters or is turned face up, put X +1/+1 counters 
 mood: action
 time_of_day: day
 setting: other
+mana_cost: "{3}{G}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{G}{W}
 ---
 # Crowd-Control Warden (Murders at Karlov Manor)
 

@@ -34,12 +34,15 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set6/173_3b120e1f89b0b227c95ebac89e8866516398ff6d.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Ursula Dorada
 oracle_text: COME ON, COME ON, COME ON! During your turn,
+whenever a card is put into your inkwell, this
+character gains Challenger +2 this turn. (They get
++2 ¤ while challenging.)
 whenever a card is put into your inkwell, this
 character gains Challenger +2 this turn. (They get
 +2 ¤ while challenging.)

@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.24
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/9/e/9e80f5c7-ae29-473c-ac64-04bcbc629385.png?1706241957
 art_match_confidence: high
 needs_manual_review: false
@@ -50,11 +50,11 @@ image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: forest
+mana_cost: "{2}{G}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {2}{G}
 ---
 # Case of the Trampled Garden (Murders at Karlov Manor)
 

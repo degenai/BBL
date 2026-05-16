@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.26
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/c/1/c1017b8e-e7fa-41de-8eb2-2e4a59db5117.png?1726286116
 art_match_confidence: high
 needs_manual_review: false
@@ -50,11 +50,11 @@ oracle_text: Eerie — Whenever an enchantment you control enters and whenever y
 mood: horror
 time_of_day: indeterminate
 setting: dungeon
+mana_cost: "{U}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {U}
 ---
 # Scrabbling Skullcrab (Duskmourn: House of Horror)
 

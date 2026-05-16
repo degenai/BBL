@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.29
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/126-village-rite
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/c/9c0f60a6-b5c8-4704-8b61-94e8fc463e5d.jpg?1594736427
 flavor_text: \"You were so eager to take and consume. Yet when asked to give, you refuse?\"
 oracle_text: As an additional cost to cast this spell, sacrifice a creature.\nDraw two cards.
+mana_cost: "{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {B}
 ---
 # Village Rites (Core Set 2021)
 

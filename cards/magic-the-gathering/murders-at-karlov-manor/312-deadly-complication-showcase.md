@@ -29,18 +29,17 @@ tags_filter:
   - overhead-shot
   - scene-mode
   - no-face
-  - black-magic
-  - multicolor-white-black
   - sorcery
   - showcase-frame
   - story-spotlight
   - indoor-scene
+  - multicolor-black-red
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/312-deadly-complication-showcase.png
 average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-16
 date_added: 2026-05-10
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/7/c/7c68981c-037c-42e7-9b7f-6f07edab5f2e.png?1706242142
 art_match_confidence: high
 needs_manual_review: false
@@ -56,10 +55,10 @@ art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/312-de
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/c/7c68981c-037c-42e7-9b7f-6f07edab5f2e.jpg?1706242142
 flavor_text: Teysa's security was unrivaled. Etrata was locked up. Kaya was left with nothing but multiplying questions... and a dead friend.
 oracle_text: Choose one or both —\n• Destroy target creature.\n• Put a +1/+1 counter on target suspected creature you control. You may have it become no longer suspected.
+mana_cost: "{1}{B}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{B}{R}
 ---
 # Deadly Complication (Showcase) (Murders at Karlov Manor)
 

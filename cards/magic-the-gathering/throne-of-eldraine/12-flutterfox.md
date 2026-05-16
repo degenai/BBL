@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.23
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/7/6/769cddf0-2078-456b-a622-057571464fe7.png?1572489672
 art_match_confidence: high
 needs_manual_review: false
@@ -29,8 +29,8 @@ oracle_text: As long as you control an artifact or enchantment, this creature ha
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{1}{W}"
 tags:
   - card
-mana_cost: {1}{W}
 ---
 # Flutterfox (Throne of Eldraine)

@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.34
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'War of the Spark'
@@ -29,9 +29,9 @@ oracle_text: "{X}, {T}, Discard a card: Look at the top X cards of your library.
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{1}{G}"
 tags:
   - card
-mana_cost: {1}{G}
 ---
 # Vivien's Arkbow (War of the Spark)
 

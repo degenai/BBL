@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
@@ -51,11 +51,11 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/129-carele
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/a/bac6bdd4-b25b-41f6-835d-7d1570cdb951.jpg?1592335321
 flavor_text: \"Renata was mesmerized by the satyr's dance of gleeful indifference, of reckless grace and bright disaster.\"\n—Luphea of Setessa, *Histories*
 oracle_text: When this creature dies, it deals 2 damage to target creature or planeswalker an opponent controls.
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {1}{R}
 ---
 # Careless Celebrant (Theros Beyond Death)
 

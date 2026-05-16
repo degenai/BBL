@@ -33,7 +33,7 @@ average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/5/0/5095e2ab-a7f5-45bc-8b2f-31198ea27bba.png?1562913875
 art_match_confidence: high
 needs_manual_review: false
@@ -47,10 +47,10 @@ oracle_text: Defender
 mood: horror
 time_of_day: indeterminate
 setting: other
+mana_cost: "{1}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{W}
 ---
 # Fortified Rampart (Battle for Zendikar)
 

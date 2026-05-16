@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-16
 date_added: 2026-05-10
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/7/a/7a914416-effd-4eda-b609-2773c53a08ec.png?1706242102
 art_match_confidence: high
 needs_manual_review: false
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/182-ve
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/a/7a914416-effd-4eda-b609-2773c53a08ec.jpg?1706242102
 flavor_text: Seeking intact evidence in the Rubblebelt is a fool's errand.
 oracle_text: Disguise {5}{G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, destroy target artifact or enchantment an opponent controls.
+mana_cost: "{4}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{G}
 ---
 # Vengeful Creeper (Murders at Karlov Manor)
 

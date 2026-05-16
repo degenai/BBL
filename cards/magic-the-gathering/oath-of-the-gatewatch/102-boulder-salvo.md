@@ -32,7 +32,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/4/e/4e269989-bb22-4da4-a374-434a572e8e8f.png?1562910801
 art_match_confidence: high
 needs_manual_review: false
@@ -47,10 +47,10 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: mountain
+mana_cost: "{4}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{R}
 ---
 # Boulder Salvo (Oath of the Gatewatch)
 

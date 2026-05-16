@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/1/8/18da1a1d-e6ba-47e5-a545-0bacd427b782.png?1706241909
 art_match_confidence: high
 needs_manual_review: false
@@ -47,11 +47,11 @@ oracle_text: Whenever this creature attacks, you may sacrifice an artifact or di
 mood: action
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {1}{R}
 ---
 # Reckless Detective (Murders at Karlov Manor)
 

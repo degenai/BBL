@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.02
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/7/3/7364b4dc-8cce-498d-a62e-eabc612b062a.png?1738356448
 art_match_confidence: high
 needs_manual_review: false
@@ -47,11 +47,11 @@ oracle_text: "Exhaust — {2}{R}: Put a +1/+1 counter on this creature. It gains
 mood: action
 time_of_day: indeterminate
 setting: other
+mana_cost: "{2}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {2}{R}
 ---
 # Pacesetter Paragon (Aetherdrift)
 

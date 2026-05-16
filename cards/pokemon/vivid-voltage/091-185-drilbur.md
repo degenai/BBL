@@ -17,13 +17,14 @@ average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh4/91_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Yuka Morii
 flavor_text: It brings its claws together and whirls around at high speed before rushing toward its prey.
-oracle_text: "Scratch (Colorless) 10\\nFocus Fist (ColorlessColorless) 50: Flip a coin. If tails, this attack does nothing."
+oracle_text: Scratch (Colorless) 10
+Focus Fist (ColorlessColorless) 50: Flip a coin. If tails, this attack does nothing.
 image_width: 734
 image_height: 1024
 image_quality: high

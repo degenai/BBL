@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.19
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh6/148_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -43,7 +43,11 @@ artist: Oswaldo KATO
 mood: sublime
 time_of_day: day
 setting: mountain
-oracle_text: Pokémon with a Rule Box in play (both yours and your opponent's) have no Abilities. (Pokémon V, Pokémon-GX, etc. have Rule Boxes.)\nThis Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you can't play this card.
+oracle_text: Pokémon with a Rule Box in play (both yours and your opponent's) have no Abilities. (Pokémon V, Pokémon-GX, etc. have Rule Boxes.)
+This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you can't play this card.
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

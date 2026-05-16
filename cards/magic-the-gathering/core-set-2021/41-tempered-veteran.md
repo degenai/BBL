@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/41-tempered-vete
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/b/3b43d7bc-173c-41eb-bba9-a9d94dcfc5fa.jpg?1594735330
 flavor_text: \"I've been carrying a sword since before you were born. I wouldn't give up my oath for all the peace and comfort in the world.\"
 oracle_text: "{W}, {T}: Put a +1/+1 counter on target creature with a +1/+1 counter on it.\\n{4}{W}{W}, {T}: Put a +1/+1 counter on target creature."
+mana_cost: "{1}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{W}
 ---
 # Tempered Veteran (Core Set 2021)
 

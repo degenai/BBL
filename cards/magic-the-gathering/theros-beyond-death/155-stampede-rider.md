@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/155-stampe
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/3/c32c6192-2f8d-4656-af8b-c488e27a75e1.jpg?1581480421
 flavor_text: To a satyr, a stampede is just another kind of revelry.
 oracle_text: Trample\nAt the beginning of each combat, if you control a creature with power 4 or greater, this creature gets +1/+1 until end of turn.
+mana_cost: "{2}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{R}
 ---
 # Stampede Rider (Theros Beyond Death)
 

@@ -7,7 +7,7 @@ rarity: Uncommon
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
 suspected_ip: ""
@@ -32,20 +32,24 @@ tags_filter:
   - trainer-card
   - swsh-era
   - single-strike
-reference_image: cards/_images/pokemon/chilling-reign/156-198-welcoming-lantern.png
+reference_image: cards/_images/pokemon/chilling-reign/156-198-welcoming-lantern.jpg
 average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
-reference_image_source_url: https://images.pokemontcg.io/swsh6/156_hires.png
+last_seen: 2026-05-16
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/e/e1/WelcomingLanternChillingReign156.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Studio Bora Inc.
-oracle_text: Put a Single Strike Supporter card from your discard pile into your hand.\nYou may play any number of Item cards during your turn.
+oracle_text: Put a Single Strike Supporter card from your discard pile into your hand.
+You may play any number of Item cards during your turn.
 mood: cozy
 time_of_day: indeterminate
 setting: indoor
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/c/2/c22e415f-636f-4394-9b21-600ab720ac98.png?1738356442
 art_match_confidence: high
 needs_manual_review: false
@@ -50,11 +50,11 @@ oracle_text: "Start your engines! (If you have no speed, it starts at 1. It incr
 mood: action
 time_of_day: indeterminate
 setting: other
+mana_cost: "{2}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {2}{R}
 ---
 # Outpace Oblivion (Aetherdrift)
 

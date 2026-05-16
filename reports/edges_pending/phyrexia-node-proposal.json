@@ -7,7 +7,7 @@
     {"type": "character", "path": "cards/_characters/phyrexia.md", "name": "Phyrexia"},
     {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/130-phyrexian-ironworks.md", "name": "Phyrexian Ironworks (MH3-130)"},
     {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/112-wurmcoil-larva.md", "name": "Wurmcoil Larva (MH3-112)"},
-    {"type": "card", "path": "cards/magic-the-gathering/mystery-booster-cards/62-phyrexian-rager.md", "name": "Phyrexian Rager (MBC-62)"}
+    {"type": "card", "path": "cards/magic-the-gathering/the-list/62-phyrexian-rager.md", "name": "Phyrexian Rager (MBC-62)"}
   ],
   "description": "Oh, sir, I am so sorry to bother you, but Edgelord stepped aside for this one. Three cards in the corpus — Phyrexian Ironworks (MH3-130), Wurmcoil Larva (MH3-112), Phyrexian Rager (MBC-62) — all canonically depict the Phyrexia faction, and the threshold for a faction-collective Mr. Nodeley node is met (3+, per the Bolas / orzhov-syndicate / team-rocket precedents). The faction is also already cross-referenced inside the Tamiyo node body (her compleation arc, her species classification as 'Phyrexian-compleated planeswalker'), so the node retroactively cleans up an implicit reference into an explicit graph edge. I really do think it will be useful, sir, if you don't mind. Future bundle work on body-horror-as-infrastructure or biology-as-raw-material will anchor here cleanly.",
   "citations": [
@@ -24,7 +24,7 @@
     "cards/_characters/phyrexia.md (CREATED)",
     "cards/magic-the-gathering/modern-horizons-3/130-phyrexian-ironworks.md (added characters: [phyrexia])",
     "cards/magic-the-gathering/modern-horizons-3/112-wurmcoil-larva.md (added characters: [phyrexia])",
-    "cards/magic-the-gathering/mystery-booster-cards/62-phyrexian-rager.md (added characters: [phyrexia])",
+    "cards/magic-the-gathering/the-list/62-phyrexian-rager.md (added characters: [phyrexia])",
     "cards/_characters/tamiyo.md (added related_characters: [phyrexia] cross-link)"
   ],
   "quad_slot_dispositions": {

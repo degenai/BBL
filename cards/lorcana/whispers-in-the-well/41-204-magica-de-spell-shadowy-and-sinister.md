@@ -36,14 +36,17 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10/41_e74ed1c08ac51b68b17a432277aad7421fc1502d.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Brian Kesinger
 flavor_text: “My power is still not enough. I need something
 more. Something... shadowy.”
+more. Something... shadowy.”
 oracle_text: DARK INCANTATION When you play this
+character, you may shuffle a card from chosen
+player's discard into their deck.
 character, you may shuffle a card from chosen
 player's discard into their deck.
 image_width: 1468

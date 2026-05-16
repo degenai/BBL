@@ -1,0 +1,48 @@
+{
+  "card_name": "Gideon's Sacrifice",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "14",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card title is 'Gideon's Sacrifice' and is marked story_spotlight:true on Scryfall. The card depicts two figures: one engulfed in red magical explosion (Gideon Jura absorbing the contract-breaking death-curse) and one in purple robes recoiling in shock (Liliana Vess). The flavor text — 'To Liliana's surprise, the cost of betraying Bolas did not fall on her' — explicitly names Liliana and describes the WAR climax moment. Both suspected IP figures (Gideon Jura and Liliana Vess) are Wizards-internal MTG characters. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "The flavor text reads: 'To Liliana's surprise, the cost of betraying Bolas did not fall on her.' This line names both key figures directly and encapsulates the War of the Spark climax: Liliana broke her demonic contract with Nicol Bolas by turning his Dreadhorde armies against him, which should have killed her — but Gideon stepped in and transferred the contract's death-curse onto himself, dying in her place.",
+      "sources": ["Scryfall API: flavor_text field"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Gideon's Sacrifice is marked as a Story Spotlight card in War of the Spark (released May 3, 2019), a designation Wizards uses for cards that depict pivotal moments in the set's narrative. War of the Spark was the culmination of a multi-set arc involving Nicol Bolas's plan to harvest planeswalker sparks using the Immortal Sun on Ravnica. Gideon Jura's death is the emotional climax of that story.",
+      "sources": ["Scryfall API: story_spotlight:true", "Wargamer: War of the Spark set guide"]
+    },
+    {
+      "category": "design",
+      "text": "The card is illustrated by Chris Rallis (also credited on Scryfall API) and is a {W} instant — mechanically, the effect maps directly onto the story moment: redirect all damage dealt to you and your permanents onto one chosen permanent, exactly as Gideon took the contract's killing blow onto himself. The card's mechanics are unusually literal for a flavor-mechanic translation.",
+      "sources": ["Scryfall API: artist field", "Scryfall API: oracle_text field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Gideon's Sacrifice is a Common with EDHREC rank 5679, indicating modest but real Commander play. It sees more play in Pauper and Pioneer formats than in Commander. The card received a reprint in the Murders at Karlov Manor Commander decks (MKC no. 68, 2024), suggesting continued functional relevance in white's damage-redirect toolkit.",
+      "sources": ["Scryfall API: edhrec_rank", "Scryfall API: legalities", "Scryfall: MKC reprint listing"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Gideon Jura (Kytheon Iora of Akros) is one of the original five Gatewatch members. His indestructibility hieromancy — which he passed to Liliana in the story — is reflected across multiple card printings throughout his arc. Liliana Vess is among the longest-running planeswalker characters in MTG, first appearing in Lorwyn (2007). Their dynamic in WAR is a rare instance of an antagonist-turned-reluctant-ally moment anchored by a supporting character's death.",
+      "sources": ["Hipsters of the Coast: Gideon, Liliana and War of the Spark", "DailyEsports: WAR Story Recap Act III"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Gideon Jura", "set": "War of the Spark", "note": "Gideon's planeswalker card in the same set; the sacrifice is his story endpoint"},
+    {"name": "Gideon Blackblade", "set": "War of the Spark", "note": "Second Gideon planeswalker in WAR; represents earlier in the battle"},
+    {"name": "Liliana, Dreadhorde General", "set": "War of the Spark", "note": "Liliana's planeswalker card in WAR; the other figure in this card's art"},
+    {"name": "Nicol Bolas, Dragon-God", "set": "War of the Spark", "note": "The antagonist whose contract Gideon absorbed"},
+    {"name": "Gideon's Sacrifice", "set": "Murders at Karlov Manor Commander", "note": "2024 reprint (MKC no. 68); same art and oracle text, wider distribution"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

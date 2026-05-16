@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.37
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/16-flicker
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/9/59e19bac-176c-4e37-bfc8-27c00de7c37f.jpg?1581479067
 flavor_text: An infinite journey in an infinitesimal time.
 oracle_text: Exile target creature or enchantment, then return it to the battlefield under its owner's control.
+mana_cost: "{1}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{W}
 ---
 # Flicker of Fate (Theros Beyond Death)
 

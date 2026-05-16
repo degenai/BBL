@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -53,10 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/225-sultai-ban
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/6/1695cf35-8f7c-4674-bfd3-43520b13d084.jpg?1562783039
 flavor_text: Power to dominate, cruelty to rule.
 oracle_text: "{T}: Add {B}, {G}, or {U}.\\n{B}{G}{U}, {T}, Sacrifice this artifact: Draw a card."
+mana_cost: "{3}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}
 ---
 # Sultai Banner (Khans of Tarkir)
 

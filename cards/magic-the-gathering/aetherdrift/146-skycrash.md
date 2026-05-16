@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.21
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/8/7/87e82be6-d2b4-4c95-8466-477e8c6832e9.png?1738356462
 art_match_confidence: high
 needs_manual_review: false
@@ -49,11 +49,11 @@ oracle_text: "Destroy target artifact.\\nCycling {R} ({R}, Discard this card: Dr
 mood: action
 time_of_day: night
 setting: desert
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {1}{R}
 ---
 # Skycrash (Aetherdrift)
 

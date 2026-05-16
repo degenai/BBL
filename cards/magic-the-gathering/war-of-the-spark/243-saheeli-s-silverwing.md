@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -53,10 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/243-saheeli-s
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/b/dba77c07-5d23-4a1a-90a0-b8293848d637.jpg?1557577445
 flavor_text: \"Track the source of those thopters,\" Saheeli told her creation. \"And feel free to snack on as many as you want.\"
 oracle_text: Flying\nWhen this creature enters, look at the top card of target opponent's library.
+mana_cost: "{4}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}
 ---
 # Saheeli's Silverwing (War of the Spark)
 

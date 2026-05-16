@@ -29,15 +29,15 @@ tags_filter:
   - mid-shot
   - action
   - three-quarter
-  - white-magic
   - creature
   - flying
+  - blue-magic
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/38-agency-outfitter.png
 average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/8/1/8112f133-535e-4264-8357-9cbf97957710.png?1709374955
 art_match_confidence: high
 needs_manual_review: false
@@ -48,10 +48,10 @@ oracle_text: Flying\nWhen this creature enters, you may search your graveyard, h
 mood: action
 time_of_day: indeterminate
 setting: urban
+mana_cost: "{4}{U}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{U}{U}
 ---
 # Agency Outfitter (Murders at Karlov Manor)
 

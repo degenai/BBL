@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/2/d/2dea2466-5c7f-40ce-b749-100ae89d2c90.png?1557576604
 art_match_confidence: high
 needs_manual_review: false
@@ -29,8 +29,8 @@ oracle_text: "During your turn, this creature has first strike.\\n{1}, Sacrifice
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{2}{R}"
 tags:
   - card
-mana_cost: {2}{R}
 ---
 # Ahn-Crop Invader (War of the Spark)

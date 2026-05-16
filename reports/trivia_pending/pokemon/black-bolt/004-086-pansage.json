@@ -1,0 +1,42 @@
+{
+  "card_name": "Pansage",
+  "game": "Pokemon",
+  "set": "Black Bolt",
+  "collector_number": "004/086",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, Pokedex number (511), and all visual descriptors match the canonical Pansage entry. The depicted figure is unambiguously the named Pokemon character — this is a standard named-Pokemon card, not an unnamed generic figure.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Black Bolt (set code ZSV10pt5) is part of Scarlet & Violet SV10.5, released July 18, 2025 — the first-ever dual TCG set in English Pokemon history, paired with White Flare. The set is a full Unova region retrospective: every Generation V Pokemon receives an Illustration Rare card, making Pansage one of 86 printed-total cards in an overall master set exceeding 1,100 cards. [PokemonTCG.io API: zsv10pt5-4] [tcg.pokemon.com: Black Bolt expansion overview]",
+      "sources": ["PokemonTCG.io API", "tcg.pokemon.com Black Bolt overview"]
+    },
+    {
+      "category": "design",
+      "text": "Pansage is National Pokedex no. 511, introduced in Generation V (Black & White, 2010). It is one of three elemental monkey Pokemon (Pansage/Grass, Pansear/Fire, Panpour/Water) designed around the concept of the three wise monkeys — see no evil, hear no evil, speak no evil — and also to function as early-game type-advantage aids keyed to Unova's first gym, which features three different leaders specializing in Grass, Fire, and Water. [Serebii.net Pokedex: 511] [WebSearch via GamesRadar]",
+      "sources": ["Serebii.net Pokedex no. 511", "WebSearch snippet via GamesRadar"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text on this printing: \"This Pokemon dwells deep in the forest. Eating a leaf from its head whisks weariness away as if by magic.\" [PokemonTCG.io API: zsv10pt5-4]",
+      "sources": ["PokemonTCG.io API: zsv10pt5-4"]
+    },
+    {
+      "category": "design",
+      "text": "Art by kurumitsu. The card's oracle text offers Collect (draw a card) and Scratch (30 damage) — both entry-level moves consistent with Pansage's role as a common support starter. Regulation mark I places it in current Standard format legal rotation as of its July 2025 release. [PokemonTCG.io API: zsv10pt5-4]",
+      "sources": ["PokemonTCG.io API: zsv10pt5-4"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Simisage", "set": "various", "note": "Pansage evolves into Simisage; Black Bolt likely includes a Simisage card in the same Unova retrospective run"},
+    {"name": "Pansear", "set": "various", "note": "Trio sibling — Fire monkey, part of the three wise monkeys design group"},
+    {"name": "Panpour", "set": "various", "note": "Trio sibling — Water monkey, completes the three wise monkeys set"},
+    {"name": "Pansage (Art Rare, Black Bolt 089/086)", "set": "Black Bolt", "note": "Illustration Rare variant of the same Pokemon in this set — separate card with distinct full-art treatment"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

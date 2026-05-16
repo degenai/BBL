@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/e/2/e20c2369-db77-465e-9f0e-bb009225345a.png?1581479013
 art_match_confidence: high
 needs_manual_review: false
@@ -49,11 +49,11 @@ image_quality: high
 mood: grim
 time_of_day: day
 setting: other
+mana_cost: "{2}{W}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {2}{W}
 ---
 # Dreadful Apathy (Theros Beyond Death)
 

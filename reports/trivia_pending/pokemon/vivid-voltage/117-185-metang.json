@@ -1,0 +1,47 @@
+{
+  "card_name": "Metang",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "117/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name = species name = canonical Pokemon species. PokemonTCG.io confirms nationalPokedexNumbers: [375], species 'Metang'. Auto-verify applies.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Vivid Voltage (SWSH4) released November 13, 2020. Metang prints as a Stage 1 Metal-type Uncommon (117/185), evolving from Beldum, evolving into Metagross. Regulation Mark D. [PokemonTCG.io API: swsh4]",
+      "sources": ["PokemonTCG.io API: swsh4"]
+    },
+    {
+      "category": "design",
+      "text": "Metang is National Pokedex no. 375, introduced in Generation III (Hoenn). According to Bulbapedia/WebSearch, Metang forms when two Beldum fuse: a magnetic nervous system joins their two brains, doubling the psychokinetic output. Its design appears based on flying saucers and crabs. Its name may combine 'metal' with 'tang' (onomatopoeia for struck metal) or the French 'etang' (pond blue, referencing its teal color). [WebSearch snippet: Bulbapedia/Metang; WebSearch snippet: pokemondb.net/pokedex/metang]",
+      "sources": ["WebSearch snippet: bulbapedia.bulbagarden.net/wiki/Metang_(Pokemon)", "WebSearch snippet: pokemondb.net/pokedex/metang"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It flies at high speeds around the skies. When it finds its prey, Metang takes a firm grip with its sharp claws and never lets go.\" [PokemonTCG.io API: swsh4-117]",
+      "sources": ["PokemonTCG.io API: swsh4-117"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Metagross — the final stage of the Beldum evolutionary line — is the signature Pokemon of Steven Stone, the Hoenn Pokemon League Champion in Ruby, Sapphire, Omega Ruby, and Alpha Sapphire. Steven also used multiple Metang himself (first seen stopping a group of Mawile in Granite Cave). The line is Steel/Psychic dual-type and qualifies as a pseudo-legendary (base stat total 600 at final stage). [WebSearch snippet: Bulbapedia/Steven Stone; WebSearch snippet: Bulbapedia/Pseudo-legendary Pokemon]",
+      "sources": ["WebSearch snippet: bulbapedia.bulbagarden.net/wiki/Steven_Stone", "WebSearch snippet: bulbapedia.bulbagarden.net/wiki/Pseudo-legendary_Pokemon"]
+    },
+    {
+      "category": "mechanical",
+      "text": "This printing: Stage 1 Metal-type, 100 HP, weak to Fire (x2), resistant to Grass (-30), 3 retreat cost. Two attacks: Metal Claw (2 energy, 30 damage) and Magnetic Blast (3 energy, 60 damage). Artist: Kazuma Koda. The 3-retreat cost is notable — one of the heavier retreat burdens in the Uncommon slot. [PokemonTCG.io API: swsh4-117]",
+      "sources": ["PokemonTCG.io API: swsh4-117"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Beldum", "set": "Various", "note": "Base evolution; lore-fused pair gives Metang its dual-brain psychokinetic mechanic"},
+    {"name": "Metagross", "set": "Various (including Vivid Voltage)", "note": "Final evolution; pseudo-legendary, Steven Stone's signature; four fused Beldum brains"},
+    {"name": "Metagross-GX", "set": "Ultra Prism", "note": "High-profile competitive-era printing of the final stage; context for the line's TCG history"},
+    {"name": "Steven's Metang", "set": "EX Hidden Legends (2004)", "note": "Trainer-branded Metang from Gen 3 era; directly connects the species to Steven Stone in TCG canon"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

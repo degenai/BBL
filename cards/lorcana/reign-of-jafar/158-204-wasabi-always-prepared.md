@@ -36,14 +36,17 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set8/158_638d512ab37245c8830820cfd3e5150eecea3198.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Jules Dubost
 flavor_text: “Okay, so the plan is ‘leave Wasabi to watch our
 backs while we steal the crown.’ Good to know.”
+backs while we steal the crown.’ Good to know.”
 oracle_text: Support (Whenever this character quests, you
+may add their ¤ to another chosen character's
+¤ this turn.)
 may add their ¤ to another chosen character's
 ¤ this turn.)
 image_width: 1468

@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/231-forgotten-se
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/b/3bd39a06-c53a-42c2-b2df-028358f03406.jpg?1594737496
 flavor_text: It was built to withstand the ages, but no one remembers who built it or why it keeps its eternal watch.
 oracle_text: This creature enters tapped.
+mana_cost: "{4}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}
 ---
 # Forgotten Sentinel (Core Set 2021)
 

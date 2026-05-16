@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,10 +50,10 @@ setting: other
 artist: Steve Prescott
 flavor_text: Looking over two city blocks of destruction, he could only cackle with pride.
 oracle_text: Trample\nWhenever a creature you control with power 4 or greater enters, put a +1/+1 counter on this creature.
+mana_cost: "{1}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{G}
 ---
 # Kronch Wrangler (War of the Spark)
 

@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.16
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/0/7/073b9ae8-8ac3-4824-aec4-84a80531aa23.png?1712355883
 art_match_confidence: high
 needs_manual_review: false
@@ -48,10 +48,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: other
+mana_cost: "{2}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{G}
 ---
 # Beastbond Outcaster (Outlaws of Thunder Junction)
 

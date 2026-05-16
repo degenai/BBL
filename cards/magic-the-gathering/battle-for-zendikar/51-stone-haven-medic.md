@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/3/9/3956563b-bde3-4aec-93fe-e03bade49458.png?1562908505
 art_match_confidence: high
 needs_manual_review: false
@@ -49,10 +49,10 @@ time_of_day: indeterminate
 setting: dungeon
 ip_cleared: Gideon Jura
 ip_cleared_reason: "wave 41 E2 Edgelord review — vision-pass low-confidence suspicion rejected on visual grounds: depicted figure has long pale hair, Gideon Jura's canonical visual identifier is short dark hair across all BFZ-block art (see in-corpus Gideon's Reproach BFZ-30 three-quarter portrait); the Stone Havens are canonical kor settlement-network defensive infrastructure per Cliffside Lookout BFZ-20 flavor text, so a long-pale-haired healer in a cave at a Stone Havens-named card is almost certainly a kor field-medic, NOT Gideon. Suspicion cleared; card stands as a depiction of an un-named kor or human medic at a Stone Havens outpost."
+mana_cost: "{1}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{W}
 ---
 # Stone Haven Medic (Battle for Zendikar)
 

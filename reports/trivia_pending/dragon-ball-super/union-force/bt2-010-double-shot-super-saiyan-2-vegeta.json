@@ -1,0 +1,41 @@
+{
+  "card_name": "Double Shot Super Saiyan 2 Vegeta",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-010",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names Vegeta and the Super Saiyan 2 form. The card title is the primary identifier — this is a DBS TCG card where the depicted character is named in the card title itself, which meets the explicit-text standard for IP verification. Visual consistency (SSJ2 golden aura, double-blast stance, dark-blue armor palette) is compatible with Vegeta's known appearance.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Union Force (set code BT2, product DBS-B02) released November 3, 2017 as the second booster set for the Dragon Ball Super Card Game. The set covers multiple sagas including the Android/Cell arc, Future Trunks arc, Majin Buu Saga, and Tournament of Power. BT2-010 falls in the Majin Buu Saga grouping, placing Vegeta in his SS2 form as seen in the Babidi arc. [WebSearch: Bleeding Cool DBS Union Force Checklist; dbs-cardgame.com product page]",
+      "sources": ["WebSearch: Bleeding Cool DBS Union Force checklist", "dbs-cardgame.com/us-en/cardlist"]
+    },
+    {
+      "category": "design",
+      "text": "BT2-010 is a Common rarity Red Battle card with 15,000 power, energy cost 3, and the skill: at end of battle after comboing from hand, if your Leader is red, play this card in Rest Mode — an aggressive combo extender. The card's Saiyan special trait and Majin Buu Saga tag place it in Red Saiyan aggro archetypes from the game's early competitive meta. [WebSearch: TrollAndToad BT2-010 product listing; CoreTCG listing]",
+      "sources": ["WebSearch: TrollAndToad BT2-010 listing", "WebSearch: CoreTCG BT2-010 listing"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Dragon Ball Z canon, Vegeta's true Super Saiyan 2 form debuted during the Majin Buu Saga — distinct from his Cell arc Super Saiyan Grade 2 (\"Super Vegeta\"), which was not the genuine SS2. The card's Majin Buu Saga tag is lore-accurate: Vegeta achieved SS2 through years of post-Cell training, then accepted Babidi's Majin mark to push further, leading to his final battle with Goku before Buu's revival. [WebSearch: ComicBook.com — Dragon Ball doubles down on Vegeta's SS2 origin; WebSearch: Dragon Ball Wiki Majin Buu Saga]",
+      "sources": ["WebSearch: ComicBook.com — Vegeta Super Saiyan 2 origin", "WebSearch: Dragon Ball Wiki Fandom — Majin Buu Saga"]
+    },
+    {
+      "category": "design",
+      "text": "BT2-010 also exists as a Judge Promotion Card variant (Level 1 and Level 2 judge promos), making this common print one of several parallel versions of the same card. The judge promo versions are notably more collectible. [WebSearch: MnaCardz BT2-010 Judge Lvl 1; WebSearch: GatheringPointGames BT2-010 Judge Lvl 2]",
+      "sources": ["WebSearch: MnaCardz BT2-010 C Judge LVL 1 listing", "WebSearch: GatheringPointGames BT2-010 Judge Promotion listing"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Super Saiyan 2 Vegeta (various)", "set": "various DBS sets", "note": "Other SS2 Vegeta printings across the DBS TCG, particularly BT1-era and Majin Vegeta variants"},
+    {"name": "Majin Buu (BT2-025 through BT2-028)", "set": "Union Force", "note": "The saga antagonist sharing the BT2 Majin Buu Saga grouping with this Vegeta card"},
+    {"name": "Double Shot Super Saiyan 2 Vegeta (Judge Promo)", "set": "Judge Promotion Cards", "note": "Elevated parallel of this exact card — same BT2-010 number, different foil treatment"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

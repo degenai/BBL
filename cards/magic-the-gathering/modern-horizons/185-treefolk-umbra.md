@@ -33,7 +33,7 @@ average_cost_paid: 0
 market_price: 0.23
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/6/7/677166cf-4e1e-43ac-a67b-afaf33c0d14e.png?1562202227
 art_match_confidence: high
 needs_manual_review: false
@@ -47,10 +47,10 @@ image_quality: high
 mood: sublime
 time_of_day: night
 setting: forest
+mana_cost: "{2}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{G}
 ---
 # Treefolk Umbra (Modern Horizons)
 

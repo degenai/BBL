@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.24
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -53,10 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/75-wall-of-ru
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/6/96613089-3508-429a-9f90-23168d56bbe7.jpg?1557576363
 flavor_text: \"It's strangely satisfying seeing an undead killing machine from another world standing befuddled in front of a wall of text.\"\n—Lavinia
 oracle_text: Defender (This creature can't attack.)\nWhen this creature enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+mana_cost: "{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {U}
 ---
 # Wall of Runes (War of the Spark)
 

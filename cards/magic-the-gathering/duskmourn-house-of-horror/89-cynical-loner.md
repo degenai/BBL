@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.27
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/c/c/cc93bcb8-778d-491e-877b-e6ad432764cb.png?1726286181
 art_match_confidence: high
 needs_manual_review: false
@@ -52,10 +52,10 @@ image_quality: high
 mood: grim
 time_of_day: fog-indeterminate
 setting: urban
+mana_cost: "{1}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{B}
 ---
 # Cynical Loner (Duskmourn: House of Horror)
 

@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.19
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/1/7/1776f5b4-1292-460f-9719-e1b603cee46c.png?1594737232
 art_match_confidence: high
 needs_manual_review: false
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/206-skyway-snipe
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/7/1776f5b4-1292-460f-9719-e1b603cee46c.jpg?1594737232
 flavor_text: \"No sight is more beautiful than a clear sky.\"
 oracle_text: "Reach (This creature can block creatures with flying.)\\n{2}{G}: This creature deals 1 damage to target creature with flying."
+mana_cost: "{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {G}
 ---
 # Skyway Sniper (Core Set 2021)
 

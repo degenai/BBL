@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/3/4/34e61e0f-d0f3-492a-92f1-36f72a91583a.png?1706241982
 art_match_confidence: high
 needs_manual_review: false
@@ -49,11 +49,11 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: urban
+mana_cost: "{G}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {G}
 ---
 # Get a Leg Up (Murders at Karlov Manor)
 

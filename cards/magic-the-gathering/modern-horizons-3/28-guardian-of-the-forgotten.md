@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/8/0/8032c909-3170-45ab-a552-a8dc683b0a6e.png?1717011424
 art_match_confidence: high
 needs_manual_review: false
@@ -46,10 +46,10 @@ oracle_text: Vigilance\nWhenever a modified creature you control dies, manifest 
 mood: grim
 time_of_day: day
 setting: mountain
+mana_cost: "{3}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{W}
 ---
 # Guardian of the Forgotten (Modern Horizons 3)
 

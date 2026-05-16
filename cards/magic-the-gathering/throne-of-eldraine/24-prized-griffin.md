@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -53,10 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/24-prized-g
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/7/877bd423-83ff-4a28-b0d2-447a7821bb8c.jpg?1572489744
 flavor_text: \"I wrote these tales with a quill made from a griffin's feather. And the winning of that feather is quite a tale itself.\"\n—Chulane, Teller of Tales
 oracle_text: Flying
+mana_cost: "{4}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{W}
 ---
 # Prized Griffin (Throne of Eldraine)
 

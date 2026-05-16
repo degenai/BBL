@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/192-life-goes-on
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/8/3888197f-5da4-4413-9cad-b37a12ba1e60.jpg?1594737084
 flavor_text: \"If you believe the God-Pharaoh tests you, charge with me to prove yourself. If you believe he betrayed us all, join with me to fight for tomorrow!\"\n—Samut, former Tah-crop initiate
 oracle_text: You gain 4 life. If a creature died this turn, you gain 8 life instead.
+mana_cost: "{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {G}
 ---
 # Life Goes On (Core Set 2021)
 

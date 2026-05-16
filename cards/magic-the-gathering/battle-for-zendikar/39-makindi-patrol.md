@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/a/e/ae03f018-3062-4b1c-99b8-13fcffd70b49.png?1562936085
 art_match_confidence: high
 needs_manual_review: false
@@ -47,10 +47,10 @@ oracle_text: Rally — Whenever this creature or another Ally you control enters
 mood: sublime
 time_of_day: indeterminate
 setting: mountain
+mana_cost: "{2}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{W}
 ---
 # Makindi Patrol (Battle for Zendikar)
 

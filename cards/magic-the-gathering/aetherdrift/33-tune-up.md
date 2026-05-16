@@ -28,15 +28,15 @@ tags_filter:
   - narrative
   - three-quarter
   - female-figure
-  - red-magic
   - sorcery
   - artifact-recursion
+  - white-magic
 reference_image: cards/_images/magic-the-gathering/aetherdrift/33-tune-up.png
 average_cost_paid: 0
 market_price: 0.25
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/f/8/f8bddc5f-8f25-4313-b5bb-e5eae2923878.png?1738356180
 art_match_confidence: high
 needs_manual_review: false
@@ -54,12 +54,12 @@ setting: desert
 suspected_ip: Pia Nalaar
 ip_confidence: high
 ip_verified: true
+mana_cost: "{3}{W}"
 tags:
   - card
   - vision-passed
   - trivia-passed
   - ip-verified
-mana_cost: {3}{W}
 ---
 # Tune Up (Aetherdrift)
 

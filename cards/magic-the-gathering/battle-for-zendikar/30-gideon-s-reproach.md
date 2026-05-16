@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/4/5/453d8ec3-15ae-4851-9efb-161ca2ee6019.png?1562911221
 art_match_confidence: high
 needs_manual_review: false
@@ -49,11 +49,11 @@ setting: mountain
 suspected_ip: Gideon Jura
 ip_confidence: med
 ip_verified: false
+mana_cost: "{1}{W}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {1}{W}
 ---
 # Gideon's Reproach (Battle for Zendikar)
 

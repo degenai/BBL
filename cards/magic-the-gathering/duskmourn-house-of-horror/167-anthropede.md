@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-10
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/5/1/51216ab0-9806-4faa-afbd-143e95dc255b.png?1726286480
 art_match_confidence: high
 needs_manual_review: false
@@ -49,10 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/167-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/1/51216ab0-9806-4faa-afbd-143e95dc255b.jpg?1726286480
 flavor_text: The touch of its many hands is almost gentle, at first. But then the grip tightens, and the mandibles dig in.
 oracle_text: Reach\nWhen this creature enters, you may discard a card or pay {2}. When you do, destroy target Room.
+mana_cost: "{3}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{G}
 ---
 # Anthropede (Duskmourn: House of Horror)
 

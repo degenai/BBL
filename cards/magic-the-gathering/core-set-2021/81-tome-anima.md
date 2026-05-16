@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/81-tome-anima--a
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/3/0360d27b-37e1-4e00-9cfc-b574efc38ea0.jpg?1594735874
 flavor_text: Sometimes knowledge takes on a life of its own.
 oracle_text: This creature can't be blocked as long as you've drawn two or more cards this turn.
+mana_cost: "{3}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{U}
 ---
 # Tome Anima (Core Set 2021)
 

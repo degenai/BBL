@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/0/5/050c03f9-ccbd-4dcc-9789-8013875ef470.png?1572490156
 art_match_confidence: high
 needs_manual_review: false
@@ -28,8 +28,8 @@ oracle_text: "Equipped creature gets +2/+1.\\nWhenever equipped creature deals c
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{1}{B}"
 tags:
   - card
-mana_cost: {1}{B}
 ---
 # Giant's Skewer (Throne of Eldraine)

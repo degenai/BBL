@@ -29,9 +29,9 @@ tags_filter:
   - forward-facing
   - scene-mode
   - showcase-frame
-  - white-magic
   - instant
   - multiple-figures
+  - red-magic
 symbols:
   - disguise
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/307-expose-the-culprit-showcase.png
@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-16
 date_added: 2026-05-10
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/3/1/31aadd3d-5ce1-44ba-ac6d-b192a9ea491b.png?1706241859
 art_match_confidence: high
 needs_manual_review: false
@@ -50,10 +50,10 @@ artist: Ryan Valle
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/307-expose-the-culprit-showcase--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/1/31aadd3d-5ce1-44ba-ac6d-b192a9ea491b.jpg?1706241859
 oracle_text: Choose one or both —\n• Turn target face-down creature face up.\n• Exile any number of face-up creatures you control with disguise in a face-down pile, shuffle that pile, then cloak them. (To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it's a creature card.)
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{R}
 ---
 # Expose the Culprit (Showcase) (Murders at Karlov Manor)
 

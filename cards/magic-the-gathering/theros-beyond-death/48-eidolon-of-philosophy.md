@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -53,10 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/48-eidolon
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/2/d2897635-b387-485d-932f-5655244a381f.jpg?1581479342
 flavor_text: \"And what did Erekastos teach us is the nature of the soul?\"
 oracle_text: "{6}{U}, Sacrifice this creature: Draw three cards."
+mana_cost: "{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {U}
 ---
 # Eidolon of Philosophy (Theros Beyond Death)
 

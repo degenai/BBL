@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/a/5/a5b1ec11-48c3-49d8-9dcd-1da5ffaf9184.png?1562928479
 art_match_confidence: high
 needs_manual_review: false
@@ -51,11 +51,11 @@ image_quality: high
 mood: other
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{W}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {W}
 ---
 # Stoneforge Acolyte (Oath of the Gatewatch)
 

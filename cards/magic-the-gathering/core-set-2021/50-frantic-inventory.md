@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.24
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/8/f/8f14abb0-0e9f-448e-85d7-6cb71f756c56.png?1594735485
 art_match_confidence: high
 needs_manual_review: false
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/50-frantic-inven
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/f/8f14abb0-0e9f-448e-85d7-6cb71f756c56.jpg?1594735485
 flavor_text: \"Another village, another angry mob. Why do I even bother unpacking?\"
 oracle_text: Draw a card, then draw cards equal to the number of cards named Frantic Inventory in your graveyard.
+mana_cost: "{1}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{U}
 ---
 # Frantic Inventory (Core Set 2021)
 

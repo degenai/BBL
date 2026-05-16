@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/27-righteou
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/2/d2910df2-e288-4fa0-9859-c5ca35da2d55.jpg?1572489762
 flavor_text: Syr Damon looked at the dragon and saw the faces of every innocent it had devoured. Suddenly, his sword blazed like the sun.
 oracle_text: Target blocking creature gets +7/+7 until end of turn.
+mana_cost: "{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {W}
 ---
 # Righteousness (Throne of Eldraine)
 

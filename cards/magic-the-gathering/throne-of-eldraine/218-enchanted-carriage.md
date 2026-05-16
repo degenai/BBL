@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -52,12 +52,12 @@ artist: Zoltan Boros
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/218-enchanted-carriage--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/0/0057c2ae-ea4f-404a-ab95-f3979efd1b3b.jpg?1572490964
 oracle_text: "When this Vehicle enters, create two 1/1 white Mouse creature tokens.\\nCrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)"
+mana_cost: "{5}"
 tags:
   - card
   - vision-passed
   - trivia-passed
   - ip-verified
-mana_cost: {5}
 ---
 # Enchanted Carriage (Throne of Eldraine)
 

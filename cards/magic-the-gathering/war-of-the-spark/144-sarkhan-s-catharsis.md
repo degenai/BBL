@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/2/f/2f4b6f26-c66b-4048-9503-af0a886ef14f.png?1557576811
 art_match_confidence: high
 needs_manual_review: false
@@ -29,8 +29,8 @@ oracle_text: Sarkhan's Catharsis deals 5 damage to target player or planeswalker
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{4}{R}"
 tags:
   - card
-mana_cost: {4}{R}
 ---
 # Sarkhan's Catharsis (War of the Spark)

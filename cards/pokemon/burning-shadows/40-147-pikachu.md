@@ -37,13 +37,14 @@ average_cost_paid: 0
 market_price: 0.66
 market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/sm3/40_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Saya Tsuruta
 flavor_text: A plan was recently announced to gather many Pikachu and make an electric power plant.
-oracle_text: "Tail Whap (Colorless) 10\\nThunder Shock (LightningColorless) 20: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+oracle_text: Tail Whap (Colorless) 10
+Thunder Shock (LightningColorless) 20: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
 mood: action
 time_of_day: indeterminate
 setting: void
@@ -51,6 +52,9 @@ subject_known_ip: true
 suspected_ip: Pikachu (Pokémon)
 ip_confidence: high
 ip_verified: true
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

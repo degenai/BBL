@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.27
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -55,11 +55,11 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/58-azure-fle
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/0/c0889e22-deab-48ba-bbd6-f0d49bee5d9c.jpg?1608909111
 flavor_text: \"Your concern for my safety is touching, but as long as your gunners remain reliably erratic, I see no reason to change course.\"\n—Admiral Yelise, to Commodore Axurik
 oracle_text: When this creature enters, you become the monarch.\nThis creature can't be blocked by creatures the monarch controls.
+mana_cost: "{3}{U}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {3}{U}
 ---
 # Azure Fleet Admiral (Commander Legends)
 

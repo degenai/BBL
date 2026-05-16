@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Magic 2014 (M14)'
@@ -52,10 +52,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: void
+mana_cost: "{2}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{R}
 ---
 # Act of Treason (Magic 2014 (M14))
 

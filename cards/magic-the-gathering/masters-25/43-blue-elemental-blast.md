@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 1.54
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/2/f/2f51f88f-f662-4572-a371-9a77718ed079.png?1562434032
 art_match_confidence: high
 needs_manual_review: false
@@ -47,10 +47,10 @@ art_crop_image: cards/_images/magic-the-gathering/masters-25/43-blue-elemental-b
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/f/2f51f88f-f662-4572-a371-9a77718ed079.jpg?1562434032
 flavor_text: Nothing escapes a sharp mind.
 oracle_text: Choose one —\n• Counter target red spell.\n• Destroy target red permanent.
+mana_cost: "{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {U}
 ---
 # Blue Elemental Blast (Masters 25)
 

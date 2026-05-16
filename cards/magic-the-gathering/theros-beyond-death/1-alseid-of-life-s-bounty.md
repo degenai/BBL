@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.42
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
@@ -52,11 +52,11 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/1-alseid-o
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/6/36c8c075-9597-412e-9fc4-9d73b4405d12.jpg?1581478926
 flavor_text: \"Dawn-kissed, he nourishes the golden grain.\"\n—Psemilla, Meletian poet
 oracle_text: "Lifelink\\n{1}, Sacrifice this creature: Target creature or enchantment you control gains protection from the color of your choice until end of turn."
+mana_cost: "{W}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {W}
 ---
 # Alseid of Life's Bounty (Theros Beyond Death)
 

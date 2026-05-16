@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/3/7/37684797-7503-460d-9f74-047b1ab2fac3.png?1717011675
 art_match_confidence: high
 needs_manual_review: false
@@ -47,10 +47,10 @@ oracle_text: Devoid (This card has no color.)\nKicker {C} (You may pay an additi
 mood: horror
 time_of_day: indeterminate
 setting: ocean
+mana_cost: "{3}{U}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{U}{U}
 ---
 # Depth Defiler (Modern Horizons 3)
 

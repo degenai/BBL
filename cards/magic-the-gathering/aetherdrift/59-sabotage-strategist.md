@@ -42,7 +42,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/c/8/c8bb15e2-e1ad-4645-aab0-df4a1a68563d.png?1738356245
 art_match_confidence: high
 needs_manual_review: false
@@ -53,11 +53,11 @@ oracle_text: "Flying, vigilance\\nWhenever one or more creatures attack you, tho
 mood: action
 time_of_day: indeterminate
 setting: other
+mana_cost: "{2}{U}{U}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {2}{U}{U}
 ---
 # Sabotage Strategist (Aetherdrift)
 

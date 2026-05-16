@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.25
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/74-thirst-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/4/2422973d-36ee-4b8c-9a47-fcd160aa9f63.jpg?1581479595
 flavor_text: A sip of recollection, an ocean of regrets.
 oracle_text: Draw three cards. Then discard two cards unless you discard an enchantment card.
+mana_cost: "{2}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{U}
 ---
 # Thirst for Meaning (Theros Beyond Death)
 

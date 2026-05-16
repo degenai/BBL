@@ -37,13 +37,14 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh4/96_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Naoyo Kimura
 flavor_text: Loads weighing up to 50 times as much as its own body weight pose no issue for this Pokémon. It's skilled at making use of mud.
-oracle_text: Ram (Colorless) 10\nRear Kick (FightingFightingColorless) 60
+oracle_text: Ram (Colorless) 10
+Rear Kick (FightingFightingColorless) 60
 mood: action
 time_of_day: day
 setting: other
@@ -51,6 +52,9 @@ subject_known_ip: true
 suspected_ip: Mudbray
 ip_confidence: high
 ip_verified: true
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

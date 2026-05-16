@@ -32,7 +32,7 @@ average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/2/7/27573ee0-156a-4bf3-95eb-5e7b63c638e7.png?1562201940
 art_match_confidence: high
 needs_manual_review: false
@@ -46,10 +46,10 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: mountain
+mana_cost: "{4}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{R}
 ---
 # Quakefoot Cyclops (Modern Horizons)
 

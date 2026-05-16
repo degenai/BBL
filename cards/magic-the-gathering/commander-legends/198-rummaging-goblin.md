@@ -41,7 +41,7 @@ average_cost_paid: 0
 market_price: 0.24
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -54,10 +54,10 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/198-rummagin
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/5/254391a3-c12a-4944-9da5-ae166094480f.jpg?1608910383
 flavor_text: "To a goblin, value is based on the four S's: shiny, stabby, smelly, and super smelly."
 oracle_text: "{T}, Discard a card: Draw a card."
+mana_cost: "{2}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{R}
 ---
 # Rummaging Goblin (Commander Legends)
 

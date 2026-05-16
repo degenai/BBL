@@ -28,8 +28,6 @@ tags_filter:
   - mid-shot
   - narrative
   - three-quarter
-  - blue-magic
-  - red-magic
   - multicolor-blue-red
   - creature-goblin-artificer
   - disguise
@@ -40,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/3/b/3b489a54-ee43-4962-be7b-16e0e28800e0.png?1706242168
 art_match_confidence: high
 needs_manual_review: false
@@ -53,10 +51,10 @@ oracle_text: When this creature enters or is turned face up, create a 1/1 colorl
 mood: action
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{2}{U}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{U}{R}
 ---
 # Gadget Technician (Murders at Karlov Manor)
 

@@ -7,7 +7,7 @@ rarity: Common
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
 tags_hub:
@@ -28,13 +28,13 @@ tags_filter:
   - forward-facing
   - fire-magic
   - basic-pokemon
-reference_image: cards/_images/pokemon/chilling-reign/023-198-larvesta.png
+reference_image: cards/_images/pokemon/chilling-reign/023-198-larvesta.jpg
 average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
-reference_image_source_url: https://images.pokemontcg.io/swsh6/23_hires.png
+last_seen: 2026-05-16
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/f/fa/LarvestaChillingReign23.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Misa Tsutsui
@@ -46,6 +46,9 @@ setting: other
 suspected_ip: Larvesta
 ip_confidence: high
 ip_verified: false
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

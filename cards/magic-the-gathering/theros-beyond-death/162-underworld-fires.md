@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -49,10 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/162-underw
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/f/0fe616c4-dcb0-4284-ba10-6fbf7cecd217.jpg?1581480512
 flavor_text: The Underworld is anything but a resting place.
 oracle_text: Underworld Fires deals 1 damage to each creature and each planeswalker. If a permanent dealt damage this way would die this turn, exile it instead.
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{R}
 ---
 # Underworld Fires (Theros Beyond Death)
 

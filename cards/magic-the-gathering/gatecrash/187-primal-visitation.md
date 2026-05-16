@@ -27,15 +27,15 @@ tags_filter:
   - mid-shot
   - action
   - away-facing
-  - green-magic
   - enchantment-aura
   - haste
+  - multicolor-red-green
 reference_image: cards/_images/magic-the-gathering/gatecrash/187-primal-visitation.png
 average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/2/d/2dd518e8-047a-4df0-a0b8-ba116d048fa8.png?1561821056
 art_match_confidence: high
 needs_manual_review: false
@@ -50,10 +50,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: other
+mana_cost: "{3}{R}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{R}{G}
 ---
 # Primal Visitation (Gatecrash)
 

@@ -36,12 +36,14 @@ average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set8/52_46b887641c602e48a5aa4365ea90f24c67e2b131.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Rachel Elese
 oracle_text: HEAVILY ARMED Whenever you draw a card, this
+character gains Challenger +1 this turn. (They get
++1 ¤ while challenging.)
 character gains Challenger +1 this turn. (They get
 +1 ¤ while challenging.)
 image_width: 1468

@@ -33,7 +33,7 @@ CARD_PATHS = {
     "Mortify": "magic-the-gathering/ravnica-allegiance/192-mortify",
     "Tithe Drinker": "magic-the-gathering/dragon-s-maze/109-tithe-drinker",
     "Lawmage's Binding": "magic-the-gathering/ravnica-allegiance/190-lawmage-s-binding",
-    "Lunarch Mantle": "magic-the-gathering/mystery-booster-cards/24-lunarch-mantle",
+    "Lunarch Mantle": "magic-the-gathering/the-list/24-lunarch-mantle",
     "Reverent Hoplite": "magic-the-gathering/theros-beyond-death/33-reverent-hoplite",
     "Secure the Scene": "magic-the-gathering/core-set-2021/35-secure-the-scene",
 }

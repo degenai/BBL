@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/3/0/3050ac06-4c16-4155-a97f-f6bc92709ee4.png?1717011839
 art_match_confidence: high
 needs_manual_review: false
@@ -29,8 +29,8 @@ oracle_text: "Flash\\nEnchant creature\\nEnchanted creature loses all abilities 
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{1}{U}"
 tags:
   - card
-mana_cost: {1}{U}
 ---
 # Utter Insignificance (Modern Horizons 3)

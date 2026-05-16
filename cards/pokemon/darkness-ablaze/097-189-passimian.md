@@ -35,19 +35,23 @@ average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh3/97_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: SATOSHI NAKAI
 flavor_text: Displaying amazing teamwork, they follow the orders of their boss as they all help out in the search for their favorite berries.
-oracle_text: "Call for Family (Colorless): Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck.\\nRock Hurl (FightingColorlessColorless) 70: This attack's damage isn't affected by Resistance."
+oracle_text: "Call for Family (Colorless): Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+Rock Hurl (FightingColorlessColorless) 70: This attack's damage isn't affected by Resistance.
 mood: peaceful
 time_of_day: day
 setting: forest
 suspected_ip: Passimian
 ip_confidence: high
 ip_verified: true
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

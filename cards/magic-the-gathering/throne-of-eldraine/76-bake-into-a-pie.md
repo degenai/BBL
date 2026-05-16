@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/76-bake-int
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/2/42a4d090-1bb7-4334-ab22-e2527391e79b.jpg?1572490064
 flavor_text: \"My secret ingredient? Well, I can't tell you that. But here's a hint. It's not love.\"
 oracle_text: "Destroy target creature. Create a Food token. (It's an artifact with \\\"{2}, {T}, Sacrifice this token: You gain 3 life.\\\")"
+mana_cost: "{2}{B}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{B}{B}
 ---
 # Bake into a Pie (Throne of Eldraine)
 

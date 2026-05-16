@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/86-blight-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/8/7865c079-1d91-48d4-852d-d104b6e0c157.jpg?1616399490
 flavor_text: Wherever it walks, famine follows behind.
 oracle_text: When this creature enters, target creature an opponent controls gets -X/-X until end of turn, where X is your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
+mana_cost: "{4}{B}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{B}{B}
 ---
 # Blight-Breath Catoblepas (Theros Beyond Death)
 

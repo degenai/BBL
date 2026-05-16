@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/8/4/84317f9d-5a24-4f74-9c3e-0a8b5c15bb5f.png?1717011756
 art_match_confidence: high
 needs_manual_review: false
@@ -47,10 +47,10 @@ oracle_text: "Landfall — Whenever a land you control enters, you get {E} (an e
 mood: sublime
 time_of_day: night
 setting: void
+mana_cost: "{1}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{U}
 ---
 # Roil Cartographer (Modern Horizons 3)
 

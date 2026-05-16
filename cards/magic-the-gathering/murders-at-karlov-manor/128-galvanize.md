@@ -30,7 +30,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/6/4/64ed3bfa-3294-45dd-825e-3afc2580f0d4.png?1706241871
 art_match_confidence: high
 needs_manual_review: false
@@ -45,11 +45,11 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: dungeon
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {1}{R}
 ---
 # Galvanize (Murders at Karlov Manor)
 

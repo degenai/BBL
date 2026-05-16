@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/5/f/5f68baee-f503-407d-931f-2a550470a55f.png?1717011399
 art_match_confidence: high
 needs_manual_review: false
@@ -48,10 +48,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: other
+mana_cost: "{1}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{W}
 ---
 # Expel the Unworthy (Modern Horizons 3)
 

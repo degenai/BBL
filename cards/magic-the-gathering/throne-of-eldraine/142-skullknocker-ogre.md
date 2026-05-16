@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.02
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/d/f/dfa89e28-c0a9-4b76-b0d5-8dcaa75bfd59.png?1572490464
 art_match_confidence: high
 needs_manual_review: false
@@ -29,8 +29,8 @@ oracle_text: Whenever this creature deals damage to an opponent, that player dis
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{3}{R}"
 tags:
   - card
-mana_cost: {3}{R}
 ---
 # Skullknocker Ogre (Throne of Eldraine)

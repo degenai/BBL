@@ -27,8 +27,6 @@ tags_filter:
   - mid-shot
   - action
   - three-quarter
-  - red-magic
-  - white-magic
   - multicolor-red-white
   - creature-human
   - disguise
@@ -39,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/a/6/a6e0adb7-a030-4dcc-9284-cd91c7598a22.png?1706242142
 art_match_confidence: high
 needs_manual_review: false
@@ -50,10 +48,10 @@ oracle_text: Vigilance\nDisguise {R/W}{R/W} (You may cast this card face down fo
 mood: comedic
 time_of_day: day
 setting: urban
+mana_cost: "{R}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {R}{W}
 ---
 # Dog Walker (Murders at Karlov Manor)
 

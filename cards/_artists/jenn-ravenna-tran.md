@@ -18,7 +18,7 @@ notes: |
   Scryfall's stored credit lags the printed-card credit. Treat all four name
   forms as the same person.
 appears_on:
-  - magic-the-gathering/mystery-booster-cards/90-the-eldest-reborn
+  - magic-the-gathering/the-list/90-the-eldest-reborn
   - magic-the-gathering/throne-of-eldraine/114-blow-your-house-down
   - magic-the-gathering/throne-of-eldraine/222-heraldic-banner
   - magic-the-gathering/throne-of-eldraine/313-thornwood-falls

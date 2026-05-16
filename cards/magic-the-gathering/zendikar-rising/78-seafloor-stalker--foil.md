@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/78-seafloor-st
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/8/985e9696-6c76-4241-97fc-f166fe2420ce.jpg?1604231466
 flavor_text: \"Sunken ruins? My specialty.\"
 oracle_text: "{4}{U}: This creature gets +1/+0 until end of turn and can't be blocked this turn. This ability costs {1} less to activate for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
+mana_cost: "{2}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{U}
 ---
 # Seafloor Stalker (Zendikar Rising)
 

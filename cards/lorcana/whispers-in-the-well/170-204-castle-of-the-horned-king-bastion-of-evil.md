@@ -35,12 +35,13 @@ average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10/170_aca508dd9b8faeb2678bda497fa8eb247ea29b0e.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Alyssa Lee
 oracle_text: INTO THE GLOOM Once during your turn, whenever a character quests
+while here, you may ready chosen item.
 while here, you may ready chosen item.
 image_width: 1468
 image_height: 2048

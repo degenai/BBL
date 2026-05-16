@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/239-guild-glo
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/7/a7faf99e-f61f-46cb-a275-2e12c41f1e31.jpg?1557577419
 flavor_text: \"Hopefully Ravnica will prove harder to break.\"\n—Karn
 oracle_text: "When this artifact enters, draw a card.\\n{2}, {T}, Sacrifice this artifact: Add two mana of different colors."
+mana_cost: "{2}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}
 ---
 # Guild Globe (War of the Spark)
 

@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/TB2-020_Test_of_Strength_Son_Goku.png?v=1535664185
 art_match_confidence: high
 needs_manual_review: false

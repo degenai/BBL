@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/5/7/57996732-c9e4-4271-9d5f-2a8c77f8d177.png?1562911143
 art_match_confidence: high
 needs_manual_review: false
@@ -49,10 +49,10 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: forest
+mana_cost: "{3}{G}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{G}{G}
 ---
 # Thresher Beast (Prophecy)
 

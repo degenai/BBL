@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.26
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/1/d/1d918133-d4e2-4674-a3cb-58edef1c6758.png?1717011348
 art_match_confidence: high
 needs_manual_review: false
@@ -50,11 +50,11 @@ oracle_text: (As this Saga enters and after your draw step, add a lore counter. 
 mood: sublime
 time_of_day: indeterminate
 setting: forest
+mana_cost: "{3}{W}{W}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {3}{W}{W}
 ---
 # Ajani Fells the Godsire (Modern Horizons 3)
 

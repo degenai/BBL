@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.16
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/5/4/54fe00aa-d284-48f9-b5a2-1bd4c5fa8e58.png?1730488913
 art_match_confidence: high
 needs_manual_review: false
@@ -47,11 +47,11 @@ oracle_text: Fiery Annihilation deals 5 damage to target creature. Exile up to o
 mood: action
 time_of_day: day
 setting: mountain
+mana_cost: "{2}{R}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {2}{R}
 ---
 # Fiery Annihilation (Foundations)
 

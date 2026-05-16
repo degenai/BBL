@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/2/c/2ccdc58b-1e7e-402c-88f9-c789ff1dae31.png?1706241967
 art_match_confidence: high
 needs_manual_review: false
@@ -52,11 +52,11 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: dungeon
+mana_cost: "{3}{G}{G}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {3}{G}{G}
 ---
 # Culvert Ambusher (Murders at Karlov Manor)
 

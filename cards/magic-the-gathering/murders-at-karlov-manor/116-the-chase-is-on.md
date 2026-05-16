@@ -25,14 +25,14 @@ tags_filter:
   - duo
   - wide
   - action-mode
-  - white-magic
   - instant
+  - red-magic
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/116-the-chase-is-on.png
 average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/1/d/1d54d596-f7aa-4b05-ab13-19b246698c04.png?1706241834
 art_match_confidence: high
 needs_manual_review: false
@@ -52,12 +52,12 @@ ip_confidence: high
 ip_verified: true
 characters:
   - kaya
+mana_cost: "{2}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
   - ip-verified
-mana_cost: {2}{R}
 ---
 # The Chase Is On (Murders at Karlov Manor)
 

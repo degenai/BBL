@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/2/e/2ecacff4-87b9-4cc1-bfbe-019cfda82d17.png?1562904522
 art_match_confidence: high
 needs_manual_review: false
@@ -51,11 +51,11 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: desert
+mana_cost: "{2}{W}{W}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {2}{W}{W}
 ---
 # Relief Captain (Oath of the Gatewatch)
 

@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.4
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/42-didn-t-s
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/7/77500b53-0852-4d6a-bfe3-b1e8ef5a12cd.jpg?1572489858
 flavor_text: \"If you're in our home, we expect you to mind your manners.\"
 oracle_text: Counter target spell. Its controller mills three cards.
+mana_cost: "{1}{U}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{U}{U}
 ---
 # Didn't Say Please (Throne of Eldraine)
 

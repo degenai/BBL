@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.36
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/b/b/bb7c78bb-9f2a-47a4-adc4-b497bb38f46f.png?1557575890
 art_match_confidence: high
 needs_manual_review: false
@@ -29,8 +29,8 @@ oracle_text: Tap all creatures your opponents control. Creatures you control gai
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{4}{W}"
 tags:
   - card
-mana_cost: {4}{W}
 ---
 # Bond of Discipline (War of the Spark)

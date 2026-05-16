@@ -29,8 +29,6 @@ tags_filter:
   - three-quarter
   - portrait-mode
   - no-face-human
-  - white-magic
-  - blue-magic
   - multicolor-white-blue
   - creature-bird
   - creature-wizard
@@ -41,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.52
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -53,10 +51,10 @@ artist: G-host Lee
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/227-watcher-of-the-spheres--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/5/354b9ea4-3d55-48cc-b426-c46b1d1bb397.jpg?1594737462
 oracle_text: Flying\nCreature spells with flying you cast cost {1} less to cast.\nWhenever another creature you control with flying enters, this creature gets +1/+1 until end of turn.
+mana_cost: "{W}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {W}{U}
 ---
 # Watcher of the Spheres (Core Set 2021)
 

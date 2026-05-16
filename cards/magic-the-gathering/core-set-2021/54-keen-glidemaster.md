@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/54-keen-glidemas
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/c/cce6289e-f665-4faa-8285-c843447f3e52.jpg?1594735543
 flavor_text: \"Fear is a rational response, but waiting won't make it any easier. Just jump!\"
 oracle_text: "{2}{U}: Target creature gains flying until end of turn."
+mana_cost: "{1}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{U}
 ---
 # Keen Glidemaster (Core Set 2021)
 

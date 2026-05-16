@@ -32,7 +32,7 @@ average_cost_paid: 0
 market_price: 0.28
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/5/5/55f76830-369e-4224-9ded-7d1ce04c87e4.png?1572490704
 art_match_confidence: high
 needs_manual_review: false
@@ -46,10 +46,10 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: forest
+mana_cost: "{1}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{G}
 ---
 # Wildborn Preserver (Throne of Eldraine)
 

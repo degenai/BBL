@@ -151,7 +151,7 @@ Collectr CSV export
 - [ ] **Re-probe DeepSeek vision when beta tag drops from chat.deepseek.com** — currently chat-UI-only, watch signal logged. Open-source VL2/Janus weights mean it's the strongest non-OpenAI/non-Anthropic vision model available.
 - [ ] Dragon Ball Super / Yu-Gi-Oh / Lorcana / Force of Will image-source strategies
 - [ ] Cat Pack assembly automation (recurring-SKU, variable contents)
-- [ ] **Mystery Booster Cards = The List path migration** — Collectr labels The List (PLST) inserts as "Mystery Booster Cards"; affected 33 cards have been re-tagged with `set: The List` + `the_list_source_set: <ORIG_CODE>` but folder path still says `mystery-booster-cards/`. Holistic janitor pass needed before launch.
+- [x] **Mystery Booster Cards = The List path migration** — done wave 96.8. Collectr labels PLST inserts as "Mystery Booster Cards"; 34 cards were folder-misfiled + had stale `set:` field. Migration script git-mv'd 34 MDs + 68 images to `cards/magic-the-gathering/the-list/`, patched `set:` field + image paths + body embeds, plus 12 downstream references across layer nodes, the Tithe bundle JSON, the stamping script, and 3 edge-proposal JSONs. Verified clean.
 - [ ] **Janitorbot** (Phase 9+) — operates on the populated tag graph, not single cards: synonym collapse (`cat`/`feline`), redundant-pair pruning, hub↔filter tier swaps. Different from wikilintbot (per-card structural rules) — janitor makes whole-graph curation calls.
 - [ ] **High-res source art** — sketched in `docs/sketchbook.md`. Current image cache is 488×680 card scans; future tier would pull artist-original art from Scryfall's `art_crop` URL or external sources for bundle hero imagery.
 - [ ] Rename `researchbot.py` → `sourcebot.py` (cosmetic; current name is a holdover)
@@ -361,10 +361,9 @@ Placeholder MDs for 5 of these are already untracked in working tree (broly.md, 
 
 **6. Janitorial backlog (carries forward):**
 - 9 MTG manual-review stragglers + 48 Pokemon manual-review stragglers
-- Mystery Booster Cards = The List folder path migration (deferred to holistic janitor pass)
-- `bundles: ["tithe"]` sync on Tithe-anchored cards' frontmatter (still empty)
-- Color-magic palette-vs-cost mis-tag pattern confirmed across 3 games (Manifest Dread MTG / Dragon Trainer MTG / Bulma DBS) — spec-amendment candidate to consult `oracle_text` + `mana_cost` ground truth instead of palette inference
-- `bbl_node_audit.py` block-list parser bug (cards using `characters:\n  - foo` form parse as empty)
+- 28 colorless-mana-cost artifact cards parked for curator review in `reports/color_magic_human_review.json` (Talismans, Lockets, Diamonds, etc — color tags may be intentional faction-identity signals)
+- Several `bbl_node_audit.py` refinement asks (wikilink-categorization, foundational-hub threshold exemption, cross-wiki refs)
+- Stale `**Suspected IP:** verified: False` inline lines on older trivia-verified cards (cosmetic)
 
 **7. Future onboards (deferred):** **Sorcery: Contested Realm** sits above **Force of Will** in priority — neither corpus is scanned yet. FoW has 29 prep stubs; Sorcery has 0.
 

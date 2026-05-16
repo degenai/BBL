@@ -28,14 +28,14 @@ tags_filter:
   - solo
   - faces-left
   - action-mode
-  - multicolor-white-black-green
   - sorcery
+  - multicolor-black-green
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/183-kin-tree-invocation.png
 average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Khans of Tarkir'
@@ -51,10 +51,10 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: desert
+mana_cost: "{B}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {B}{G}
 ---
 # Kin-Tree Invocation (Khans of Tarkir)
 

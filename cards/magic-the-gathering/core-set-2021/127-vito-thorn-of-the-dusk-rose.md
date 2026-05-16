@@ -42,7 +42,7 @@ average_cost_paid: 0
 market_price: 11.81
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -58,12 +58,12 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/127-vito-thorn-o
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/f/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5.jpg?1594736442
 flavor_text: \"Through the blood of the wicked, we shall be redeemed. Let us pray.\"
 oracle_text: "Whenever you gain life, target opponent loses that much life.\\n{3}{B}{B}: Creatures you control gain lifelink until end of turn."
+mana_cost: "{2}{B}"
 tags:
   - card
   - vision-passed
   - trivia-passed
   - ip-verified
-mana_cost: {2}{B}
 ---
 # Vito, Thorn of the Dusk Rose (Core Set 2021)
 

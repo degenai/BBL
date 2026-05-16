@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -53,10 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/166-maralea
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/b/1b2b198d-493c-4d6c-bfb6-e842728522f6.jpg?1572490611
 flavor_text: They both hunger for battle.
 oracle_text: "Sacrifice a Food: Target creature blocks this creature this turn if able."
+mana_cost: "{1}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{G}
 ---
 # Maraleaf Rider (Throne of Eldraine)
 

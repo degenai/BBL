@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.19
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,11 +50,11 @@ artist: David Gaillet
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/131-merchant-of-the-vale--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/b/0b4399b6-e67f-40d8-8676-f5db7e04a6c9.jpg?1572490397
 flavor_text: \"Buying old, worn-out junk. Selling marvels of real value.\"
+mana_cost: "{2}{R} // {R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {2}{R} // {R}
 ---
 # Merchant of the Vale (Throne of Eldraine)
 

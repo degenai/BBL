@@ -27,8 +27,6 @@ tags_filter:
   - wide
   - action
   - forward-facing
-  - red-magic
-  - green-magic
   - multicolor-red-green
   - creature-hellion
   - disguise
@@ -40,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/9/f/9fae9044-a859-434d-8dc6-4f9d455ca5e1.png?1706242241
 art_match_confidence: high
 needs_manual_review: false
@@ -52,10 +50,10 @@ oracle_text: Reach\nDisguise {4}{R/G}{R/G} (You may cast this card face down for
 mood: action
 time_of_day: day
 setting: urban
+mana_cost: "{5}{R}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {5}{R}{G}
 ---
 # Riftburst Hellion (Murders at Karlov Manor)
 

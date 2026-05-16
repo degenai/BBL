@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/6/f/6f359fc2-b9e4-4a01-9d04-442bb160b01e.png?1706241613
 art_match_confidence: high
 needs_manual_review: false
@@ -53,10 +53,10 @@ oracle_text: This creature can't be blocked as long as you've sacrificed an arti
 mood: action
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{2}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{U}
 ---
 # Furtive Courier (Murders at Karlov Manor)
 

@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/c/f/cf76bee3-2b69-4c7b-9b7c-1a9f4bbcfde0.png?1562794585
 art_match_confidence: high
 needs_manual_review: false
@@ -49,10 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/magic-2015-m15/234-staff-of-th
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/f/cf76bee3-2b69-4c7b-9b7c-1a9f4bbcfde0.jpg?1562794585
 flavor_text: A symbol of sagacity in bewildering times.
 oracle_text: Whenever you cast a blue spell or an Island you control enters, you gain 1 life.
+mana_cost: "{3}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}
 ---
 # Staff of the Mind Magus (Magic 2015 (M15))
 

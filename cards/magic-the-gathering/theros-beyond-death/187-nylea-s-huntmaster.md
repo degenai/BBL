@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -48,14 +48,15 @@ setting: forest
 artist: Winona Nelson
 characters:
   - theros-pantheon
+  - nylea
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/187-nylea-s-huntmaster--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/a/2a4fe89a-0d2b-493f-883e-a1e0b0918340.jpg?1581480783
 flavor_text: Nature is stillness and savagery in equal measure.
 oracle_text: When this creature enters, target creature you control gets +X/+0 until end of turn, where X is your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)
+mana_cost: "{3}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{G}
 ---
 # Nylea's Huntmaster (Theros Beyond Death)
 

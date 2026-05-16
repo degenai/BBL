@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/5/6/56f82d97-ce50-490c-ad7f-46d70a73e454.png?1584831549
 art_match_confidence: high
 needs_manual_review: false
@@ -50,11 +50,11 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: urban
+mana_cost: "{3}{W}{B}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {3}{W}{B}
 ---
 # Grasping Thrull (Ravnica Allegiance)
 

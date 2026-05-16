@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/a/5/a5b5b7d2-acb8-4aca-b9e7-67e59aeb384b.png?1722161253
 art_match_confidence: high
 needs_manual_review: false
@@ -51,10 +51,10 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: mountain
+mana_cost: "{3}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{R}
 ---
 # Belligerent Whiptail (Battle for Zendikar)
 

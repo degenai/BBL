@@ -39,19 +39,23 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh3/27_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: 0313
 flavor_text: When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.
-oracle_text: "Flare (Fire) 30\\nGiga Impact (ColorlessColorlessColorless) 110: During your next turn, this Pokémon can't attack."
+oracle_text: Flare (Fire) 30
+Giga Impact (ColorlessColorlessColorless) 110: During your next turn, this Pokémon can't attack.
 mood: cozy
 time_of_day: indeterminate
 setting: indoor
 suspected_ip: Simisear (Pokemon)
 ip_confidence: high
 ip_verified: true
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

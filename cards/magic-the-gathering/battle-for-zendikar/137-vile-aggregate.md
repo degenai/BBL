@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/1/e/1ec66525-a7e9-450f-83df-03d9957837d5.png?1562902206
 art_match_confidence: high
 needs_manual_review: false
@@ -51,11 +51,11 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: desert
+mana_cost: "{2}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {2}{R}
 ---
 # Vile Aggregate (Battle for Zendikar)
 

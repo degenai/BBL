@@ -34,14 +34,18 @@ average_cost_paid: 0
 market_price: 0.16
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh4/165_hires.png
 art_match_confidence: high
 needs_manual_review: false
-oracle_text: As long as this card is attached to a Pokémon, it provides Water Energy.\nPrevent all effects of attacks from your opponent's Pokémon done to the Water Pokémon this card is attached to. (Existing effects are not removed. Damage is not an effect.)
+oracle_text: As long as this card is attached to a Pokémon, it provides Water Energy.
+Prevent all effects of attacks from your opponent's Pokémon done to the Water Pokémon this card is attached to. (Existing effects are not removed. Damage is not an effect.)
 mood: sublime
 time_of_day: indeterminate
 setting: void
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/unstable/154-mad-science-fair-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/2/82b605c5-c2fa-452d-a062-8ca67c1d5243.jpg?1629893816
 flavor_text: \"When it comes down to it, science is more art than science.\"
 oracle_text: "{T}: Roll a six-sided die. On a 3 or lower, target player adds {C}. Otherwise, that player adds one mana of any color they choose."
+mana_cost: "{3}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}
 ---
 # Mad Science Fair Project (Unstable)
 

@@ -41,7 +41,7 @@ average_cost_paid: 0
 market_price: 1.23
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -55,11 +55,11 @@ artist: Lius Lasahido
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/92-god-eternal-bontu--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/7/3714a135-e2b9-43a7-a2a2-fa5a2e0ac61a.jpg?1557576478
 oracle_text: Menace\nWhen God-Eternal Bontu enters, sacrifice any number of other permanents, then draw that many cards.\nWhen God-Eternal Bontu dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.
+mana_cost: "{3}{B}{B}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {3}{B}{B}
 ---
 # God-Eternal Bontu (War of the Spark)
 

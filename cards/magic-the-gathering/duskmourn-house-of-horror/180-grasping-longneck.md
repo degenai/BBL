@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/7/f/7fddcd48-3efe-4b56-9d69-9659b3dc6021.png?1726286534
 art_match_confidence: high
 needs_manual_review: false
@@ -50,10 +50,10 @@ oracle_text: Reach\nWhen this creature dies, you gain 2 life.
 mood: horror
 time_of_day: night
 setting: indoor
+mana_cost: "{2}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{G}
 ---
 # Grasping Longneck (Duskmourn: House of Horror)
 

@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/149-havoc-jester
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/8/386e5cb2-39c8-453d-a642-c5d9f8495601.jpg?1594736672
 flavor_text: To the Rakdos, screams of delight and screams of terror are one and the same.
 oracle_text: Whenever you sacrifice a permanent, this creature deals 1 damage to any target.
+mana_cost: "{4}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{R}
 ---
 # Havoc Jester (Core Set 2021)
 

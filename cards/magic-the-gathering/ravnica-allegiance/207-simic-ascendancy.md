@@ -33,7 +33,7 @@ average_cost_paid: 0
 market_price: 1.17
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/f/f/ff824392-fb5c-496c-be2f-6dfa6e04e3a2.png?1584831850
 art_match_confidence: high
 needs_manual_review: false
@@ -47,11 +47,11 @@ image_quality: high
 mood: sublime
 time_of_day: indeterminate
 setting: dungeon
+mana_cost: "{G}{U}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {G}{U}
 ---
 # Simic Ascendancy (Ravnica Allegiance)
 

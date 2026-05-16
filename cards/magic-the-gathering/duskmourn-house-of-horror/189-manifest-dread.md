@@ -27,10 +27,8 @@ tags_filter:
   - no-figures
   - close-up
   - narrative-mode
-  - blue-magic
   - green-magic
-  - multicolor-blue-green
-  - instant
+  - sorcery
   - amber-palette
   - teal-palette
   - backlit
@@ -39,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/a/6/a649265b-6c32-49e7-b6cb-6086c40d26e8.png?1726286570
 art_match_confidence: high
 needs_manual_review: false
@@ -53,11 +51,11 @@ time_of_day: indeterminate
 setting: indoor
 symbols:
   - manifest-dread
+mana_cost: "{1}{G}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {1}{G}
 ---
 # Manifest Dread (Duskmourn: House of Horror)
 

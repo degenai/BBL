@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/4/a/4a5cab75-546c-4760-97b7-4591de9e6662.png?1717011365
 art_match_confidence: high
 needs_manual_review: false
@@ -51,11 +51,11 @@ oracle_text: Noncreature spells cost {1} more to cast.\nWhenever a player casts 
 mood: action
 time_of_day: day
 setting: urban
+mana_cost: "{1}{W}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {1}{W}
 ---
 # Charitable Levy (Modern Horizons 3)
 

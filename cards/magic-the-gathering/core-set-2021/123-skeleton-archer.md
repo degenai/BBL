@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -49,10 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/123-skeleton-arc
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/c/fcb8d414-7f80-4a61-a0f2-0f16bf53e1b9.jpg?1594736387
 flavor_text: \"Soul, flesh, even eyes—none of these are strictly necessary for deadly precision.\"\n—Modriss of Zargoth Fen
 oracle_text: When this creature enters, it deals 1 damage to any target.
+mana_cost: "{3}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{B}
 ---
 # Skeleton Archer (Core Set 2021)
 

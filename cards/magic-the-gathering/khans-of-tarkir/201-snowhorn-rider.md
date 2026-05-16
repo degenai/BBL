@@ -32,19 +32,17 @@ tags_filter:
   - three-quarter-facing
   - creature-human-warrior
   - multicolor-bant
-  - green-magic
-  - white-magic
-  - blue-magic
   - trample
   - morph
   - armor
   - no-architecture
+  - multicolor-blue-red-green
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/201-snowhorn-rider.png
 average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -57,10 +55,10 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/201-snowhorn-r
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/5/f5d9aa9b-1ed4-46db-89d1-6c9593c29f55.jpg?1562796087
 flavor_text: Sure-footed, strong-willed, and ill-tempered—and so is the ram.
 oracle_text: Trample\nMorph {2}{G}{U}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+mana_cost: "{3}{G}{U}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{G}{U}{R}
 ---
 # Snowhorn Rider (Khans of Tarkir)
 

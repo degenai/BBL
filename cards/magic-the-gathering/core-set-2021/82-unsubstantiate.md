@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.32
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/82-unsubstantiat
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/d/2dc0bafd-debc-4b62-9fe0-56b4aad02484.jpg?1594735888
 flavor_text: \"Nicely done, Jace. You always were good at disappearing acts.\"\n—Liliana Vess
 oracle_text: Return target spell or creature to its owner's hand.
+mana_cost: "{1}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{U}
 ---
 # Unsubstantiate (Core Set 2021)
 

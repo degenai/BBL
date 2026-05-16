@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.21
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/6/2/624fe171-8bd8-4156-b40e-74e2a847d380.png?1562830071
 art_match_confidence: high
 needs_manual_review: false
@@ -49,10 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/magic-2014-m14/219-staff-of-th
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/2/624fe171-8bd8-4156-b40e-74e2a847d380.jpg?1562830071
 flavor_text: A symbol of ambition in ruthless times.
 oracle_text: Whenever you cast a black spell or a Swamp you control enters, you gain 1 life.
+mana_cost: "{3}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}
 ---
 # Staff of the Death Magus (Magic 2014 (M14))
 

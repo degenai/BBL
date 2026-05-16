@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/228-witness-of
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/6/763ac4c4-af2d-4b71-9fb3-244c96f93860.jpg?1562788742
 flavor_text: It strode through the clash of dragons, the fall of Ugin, and the rise of the khans.
 oracle_text: Morph {5} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+mana_cost: "{6}"
 tags:
   - card
   - vision-passed
-mana_cost: {6}
 ---
 # Witness of the Ages (Khans of Tarkir)
 

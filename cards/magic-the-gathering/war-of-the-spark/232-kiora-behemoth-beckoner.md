@@ -29,16 +29,16 @@ tags_filter:
   - forward-facing
   - scene-mode
   - female-figure
-  - blue-magic
   - planeswalker
   - legendary
   - uncommon
+  - multicolor-blue-green
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner.png
 average_cost_paid: 0
 market_price: 1.24
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/7/a/7a61b1a6-a75f-47b0-b215-de9708b6d773.png?1557577371
 art_match_confidence: high
 needs_manual_review: false
@@ -54,12 +54,12 @@ artist: Jaime Jones
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/a/7a61b1a6-a75f-47b0-b215-de9708b6d773.jpg?1557577371
 oracle_text: "Whenever a creature you control with power 4 or greater enters, draw a card.\\n−1: Untap target permanent."
+mana_cost: "{2}{G/U}"
 tags:
   - card
   - vision-passed
   - trivia-passed
   - ip-verified
-mana_cost: {2}{G/U}
 ---
 # Kiora, Behemoth Beckoner (War of the Spark)
 

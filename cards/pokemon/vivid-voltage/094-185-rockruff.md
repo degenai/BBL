@@ -17,13 +17,14 @@ average_cost_paid: 0
 market_price: 0.16
 market_price_as_of: 2026-05-16
 date_added: 2026-05-15
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh4/94_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Eri Yamaki
 flavor_text: When it rubs the rocks on its neck against you, that's proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!
-oracle_text: Tackle (Fighting) 10\nRear Kick (FightingColorless) 20
+oracle_text: Tackle (Fighting) 10
+Rear Kick (FightingColorless) 20
 image_width: 734
 image_height: 1024
 image_quality: high

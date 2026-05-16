@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/195-renegade
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/d/7dfa0e65-1ce0-4f8e-a78b-2ade2d25e748.jpg?1608910360
 flavor_text: \"Nothing against you. It's just that waiting for Consulate clearance was never really my thing.\"
 oracle_text: Target creature can't block this turn.\nDraw a card.
+mana_cost: "{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {R}
 ---
 # Renegade Tactics (Commander Legends)
 

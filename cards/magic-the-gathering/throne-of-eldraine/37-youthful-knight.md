@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/37-youthful
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/d/3d1a3fec-39de-4223-9da2-22749a58cd62.jpg?1572489827
 flavor_text: \"In the wilds, your true training will begin.\"\n—Syr Alin, the Lion's Claw
 oracle_text: First strike
+mana_cost: "{1}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{W}
 ---
 # Youthful Knight (Throne of Eldraine)
 

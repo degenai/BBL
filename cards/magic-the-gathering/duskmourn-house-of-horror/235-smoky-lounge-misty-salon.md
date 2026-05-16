@@ -38,8 +38,6 @@ tags_filter:
   - split-card
   - room-mechanic
   - enchantment
-  - red-magic
-  - blue-magic
   - multicolor-red-blue
   - duskmourn
 symbols:
@@ -49,7 +47,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/4/7/4700987d-fc55-44eb-bc9f-0e0316ca65e2.png?1726780766
 art_match_confidence: high
 needs_manual_review: false
@@ -60,11 +58,11 @@ oracle_text: At the beginning of your first main phase, add {R}{R}. Spend this m
 mood: grim
 time_of_day: night
 setting: indoor
+mana_cost: "{2}{R} // {3}{U}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {2}{R} // {3}{U}
 ---
 # Smoky Lounge // Misty Salon (Duskmourn: House of Horror)
 

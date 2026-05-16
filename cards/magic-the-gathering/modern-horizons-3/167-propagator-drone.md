@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.24
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Modern Horizons 3'
@@ -49,10 +49,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: dungeon
+mana_cost: "{1}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{G}
 ---
 # Propagator Drone (Modern Horizons 3)
 

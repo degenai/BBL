@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.25
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/8/9/89f48c8f-b6f9-43b2-91c3-8d6e95d62db9.png?1732541917
 art_match_confidence: high
 needs_manual_review: false
@@ -46,10 +46,10 @@ oracle_text: Bestow {1}{W} (If you cast this card for its bestow cost, it's an A
 mood: sublime
 time_of_day: indeterminate
 setting: other
+mana_cost: "{1}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{W}
 ---
 # Glyph Elemental (Modern Horizons 3)
 

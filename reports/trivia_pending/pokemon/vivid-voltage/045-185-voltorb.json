@@ -1,0 +1,46 @@
+{
+  "card_name": "Voltorb",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "045/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name = species name = canonical Pokemon species. PokemonTCG.io confirms nationalPokedexNumbers: [100], species 'Voltorb'. Auto-verify applies.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Vivid Voltage (set code SWSH4) is the fourth expansion of the Sword & Shield Series, released November 13, 2020. The set contains 185 printed cards (203 total with secret rares) and is notable for introducing Amazing Rare cards featuring Legendary and Mythical Pokemon with vivid rainbow foil art. [PokemonTCG.io API: swsh4]",
+      "sources": ["PokemonTCG.io API: swsh4"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Voltorb is National Pokedex no. 100 — a detail widely cited as intentional: in Japanese folklore, tsukumogami are household objects that gain sentience on their 100th birthday, and Voltorb is canonically described as a Poke Ball come to life, first discovered around the time Poke Balls were invented. The Pokedex number aligns the species directly with that folk-mythological threshold. [Dr. Lava / ScreenRant: 'Why Voltorb Is Number 100']",
+      "sources": ["Dr. Lava on X (cited by ScreenRant)", "WebSearch snippet: screenrant.com/pokemon-origins-voltorb-pokedex-number-100-why-myth/"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Usually found in power plants. Easily mistaken for a Poke Ball, it has zapped many people.\" [PokemonTCG.io API: swsh4-45]",
+      "sources": ["PokemonTCG.io API: swsh4-45"]
+    },
+    {
+      "category": "mechanical",
+      "text": "This printing (045/185) is a Basic Lightning-type with 60 HP, weak to Fighting (x2), and a single attack: Electro Ball (2 Lightning Energy, 40 damage). It is a Common-rarity filler card with no special mechanical role in the Sword & Shield-era format. Regulation Mark D places it in the D-era legality window. [PokemonTCG.io API: swsh4-45]",
+      "sources": ["PokemonTCG.io API: swsh4-45"]
+    },
+    {
+      "category": "design",
+      "text": "Artist credit on this printing is Sekio. Voltorb evolves into Electrode (also in the Vivid Voltage set). The species has been criticized since Gen 1 for its minimalist design — essentially a Poke Ball with eyes — but the tsukumogami reading recasts that simplicity as conceptually coherent rather than lazy. [PokemonTCG.io API; WebSearch snippet: screenrant.com]",
+      "sources": ["PokemonTCG.io API: swsh4-45", "WebSearch snippet: screenrant.com"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Electrode", "set": "Vivid Voltage", "note": "Direct evolution of Voltorb; also appears in Vivid Voltage"},
+    {"name": "Hisuian Voltorb", "set": "Various (SWSH era)", "note": "Regional variant introduced in Pokemon Legends: Arceus; shares tsukumogami design origin with wood-ball aesthetic"},
+    {"name": "Voltorb (Base Set)", "set": "Base Set", "note": "Original Gen 1 printing of the same species; design continuity across 25+ years"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

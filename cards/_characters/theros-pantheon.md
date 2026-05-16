@@ -14,7 +14,7 @@ species: faction-collective (gods of Theros — Nyxborn deities animated when mo
 canonical_source: "MTG Wiki — Theros Pantheon (primary page listing all gods); Wizards of the Coast — Theros set design articles (Mark Rosewater Making Magic columns 2013, 2014, 2020); Wizards of the Coast — Theros Beyond Death Story Summary 2020-01-10 (canonical reference for Heliod / Erebos / Elspeth's escape arc); Scryfall — per-god card pages for each pantheon member; in-corpus flavor-text-attribution canonicalizing god-by-god references"
 confidence: canonical
 appears_on:
-  - magic-the-gathering/mystery-booster-cards/146-athreos-god-of-passage
+  - magic-the-gathering/the-list/146-athreos-god-of-passage
   - magic-the-gathering/theros-beyond-death/115-soulreaper-of-mogis
   - magic-the-gathering/theros-beyond-death/227-slaughter-priest-of-mogis
   - magic-the-gathering/theros-beyond-death/154-skophos-warleader
@@ -38,6 +38,7 @@ related_hubs: "[labor, rebellion, stewardship]"
 related_symbols: []
 related_characters:
   - mogis
+  - nylea
 ip_resolution_for: theros-pantheon
 tags:
   - layer

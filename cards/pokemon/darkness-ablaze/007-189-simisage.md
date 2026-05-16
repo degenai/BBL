@@ -40,13 +40,14 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh3/7_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Hasegawa Saki
 flavor_text: Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.
-oracle_text: "Seed Bomb (Grass) 30\\nGiga Impact (ColorlessColorlessColorless) 110: During your next turn, this Pokémon can't attack."
+oracle_text: Seed Bomb (Grass) 30
+Giga Impact (ColorlessColorlessColorless) 110: During your next turn, this Pokémon can't attack.
 mood: action
 time_of_day: day
 setting: forest
@@ -54,6 +55,9 @@ subject_known_ip: true
 suspected_ip: Simisage (Pokemon)
 ip_confidence: high
 ip_verified: true
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

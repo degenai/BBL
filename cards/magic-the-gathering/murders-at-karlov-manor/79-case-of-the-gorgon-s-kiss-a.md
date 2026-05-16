@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/4/5/45e4c07a-3205-4193-8163-b0e63e6242a4.png?1706241675
 art_match_confidence: high
 needs_manual_review: false
@@ -53,10 +53,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {B}
 ---
 # Case of the Gorgon's Kiss (a) (Murders at Karlov Manor)
 

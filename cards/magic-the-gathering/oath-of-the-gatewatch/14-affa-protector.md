@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/0/e/0e54ac79-fbaa-4385-869b-aaf31e33a11f.png?1562897950
 art_match_confidence: high
 needs_manual_review: false
@@ -53,11 +53,11 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: dungeon
+mana_cost: "{2}{W}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {2}{W}
 ---
 # Affa Protector (Oath of the Gatewatch)
 

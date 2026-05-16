@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -55,11 +55,11 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/58-kiora-s-da
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/c/acd61fb0-a82b-4f46-8043-c6b89764720b.jpg?1557576256
 flavor_text: \"When your enemy flees, send the sea to pursue them.\"\n—Kiora
 oracle_text: When this creature enters, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+mana_cost: "{5}{U}"
 tags:
   - card
   - vision-passed
   - ip-verified
-mana_cost: {5}{U}
 ---
 # Kiora's Dambreaker (War of the Spark)
 

@@ -31,7 +31,7 @@ average_cost_paid: 0
 market_price: 0.31
 market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/0/9/09476eac-55d2-4955-8951-ae4ce117c98b.png?1572490698
 art_match_confidence: high
 needs_manual_review: false
@@ -45,10 +45,10 @@ image_quality: high
 mood: horror
 time_of_day: night
 setting: forest
+mana_cost: "{2}{G}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{G}{G}
 ---
 # Wicked Wolf (Throne of Eldraine)
 

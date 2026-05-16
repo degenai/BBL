@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.24
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -49,10 +49,10 @@ artist: Wayne Reynolds
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/226-fertilid--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/1/11d56da0-6f37-4bd5-8982-940e80bd4282.jpg?1608910635
 oracle_text: "This creature enters with two +1/+1 counters on it.\\n{1}{G}, Remove a +1/+1 counter from this creature: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles."
+mana_cost: "{2}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{G}
 ---
 # Fertilid (Commander Legends)
 

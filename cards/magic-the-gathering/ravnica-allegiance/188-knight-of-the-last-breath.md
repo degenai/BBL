@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/7/6/76fccf60-2df5-4c14-893f-41d3f86c545f.png?1584831647
 art_match_confidence: high
 needs_manual_review: false
@@ -49,11 +49,11 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{5}{W}{B}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {5}{W}{B}
 ---
 # Knight of the Last Breath (Ravnica Allegiance)
 

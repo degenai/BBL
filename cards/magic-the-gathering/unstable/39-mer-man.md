@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -49,10 +49,10 @@ artist: Mark Behm
 art_crop_image: cards/_images/magic-the-gathering/unstable/39-mer-man--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/0/30e99b47-acda-4888-8b2e-0852ba3b931c.jpg?1562905290
 oracle_text: When this creature enters, you may draw a card.
+mana_cost: "{4}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{U}
 ---
 # Mer Man (Unstable)
 

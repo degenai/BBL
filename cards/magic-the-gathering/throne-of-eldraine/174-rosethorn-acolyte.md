@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ artist: Johannes Voss
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/174-rosethorn-acolyte--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/a/2a0d430f-da84-4752-940c-8457c525aac9.jpg?1572490659
 flavor_text: \"Old battlefields make great gardens. So rich from the blood of the fallen.\"
+mana_cost: "{2}{G} // {G}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{G} // {G}
 ---
 # Rosethorn Acolyte (Throne of Eldraine)
 

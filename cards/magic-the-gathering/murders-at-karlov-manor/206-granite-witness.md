@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/d/a/daee9d98-f8c6-4980-8f23-c6c636b69430.png?1706242170
 art_match_confidence: high
 needs_manual_review: false
@@ -28,8 +28,8 @@ oracle_text: Flying, vigilance\nDisguise {W/U}{W/U} (You may cast this card face
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{2}{W}{U}"
 tags:
   - card
-mana_cost: {2}{W}{U}
 ---
 # Granite Witness (Murders at Karlov Manor)

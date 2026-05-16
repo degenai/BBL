@@ -31,8 +31,6 @@ tags_filter:
   - scene-mode
   - no-face
   - human-figure
-  - blue-magic
-  - red-magic
   - multicolor-blue-red
   - sorcery
   - backlit
@@ -41,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -54,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/188-master-the
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/0/704743a8-27d6-4db9-8fe1-f65f5f3a955f.jpg?1562788383
 flavor_text: \"The Way has no beginning and no end. It is simply the path.\"\n—Narset, khan of the Jeskai
 oracle_text: Draw a card. Master the Way deals damage to any target equal to the number of cards in your hand.
+mana_cost: "{3}{U}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{U}{R}
 ---
 # Master the Way (Khans of Tarkir)
 

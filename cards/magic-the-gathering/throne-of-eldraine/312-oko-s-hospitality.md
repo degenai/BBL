@@ -30,8 +30,6 @@ tags_filter:
   - mid-shot
   - forward-facing
   - scene-mode
-  - green-magic
-  - blue-magic
   - multicolor-green-blue
   - instant
   - enchantment
@@ -40,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.26
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -56,12 +54,12 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/312-oko-s-h
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/1/81fb103d-f07c-4113-9da7-843cc7dab340.jpg?1572482748
 flavor_text: \"My advisors recommend I let them eat you.\"\n—Oko
 oracle_text: Creatures you control have base power and toughness 3/3 until end of turn. You may search your library and/or graveyard for a card named Oko, the Trickster, reveal it, and put it into your hand. If you search your library this way, shuffle.
+mana_cost: "{3}{G}{U}"
 tags:
   - card
   - vision-passed
   - trivia-passed
   - ip-verified
-mana_cost: {3}{G}{U}
 ---
 # Oko's Hospitality (Throne of Eldraine)
 

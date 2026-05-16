@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -49,11 +49,11 @@ artist: David Gaillet
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/57-aven-surveyor--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/4/f4981d99-c33d-4451-8f6a-28fffb3dcd1c.jpg?1608909102
 oracle_text: Flying\nWhen this creature enters, choose one —\n• Put a +1/+1 counter on this creature.\n• Return target creature to its owner's hand.
+mana_cost: "{3}{U}{U}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {3}{U}{U}
 ---
 # Aven Surveyor (Commander Legends)
 

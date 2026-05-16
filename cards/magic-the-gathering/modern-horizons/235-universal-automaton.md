@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.81
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Modern Horizons'
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/modern-horizons/235-universal-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/3/53c682e2-c90f-4f4b-9010-00b099e85518.jpg?1691760808
 flavor_text: \"Within minutes, the strange device was indistinguishable from the other upon my workbench.\"\n—Tocasia, journal entry
 oracle_text: Changeling (This card is every creature type.)
+mana_cost: "{1}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}
 ---
 # Universal Automaton (Modern Horizons)
 

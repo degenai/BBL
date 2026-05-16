@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.23
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/2/a/2a70f0ae-d49b-4cc8-9f76-895039c3dc39.png?1706241444
 art_match_confidence: high
 needs_manual_review: false
@@ -50,11 +50,11 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: void
+mana_cost: "{2}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {2}
 ---
 # Case of the Shattered Pact (Murders at Karlov Manor)
 

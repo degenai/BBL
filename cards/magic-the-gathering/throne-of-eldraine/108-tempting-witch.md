@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.23
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,11 +50,11 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/108-temptin
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/b/8b217e5a-3c18-48b4-8124-b8c4fd7b2df1.jpg?1572490260
 flavor_text: \"Murder clad in crimson beauty,\nAn end to life and love and duty.\"\n—Barrow witch incantation
 oracle_text: "When this creature enters, create a Food token. (It's an artifact with \\\"{2}, {T}, Sacrifice this token: You gain 3 life.\\\")\\n{2}, {T}, Sacrifice a Food: Target player loses 3 life."
+mana_cost: "{2}{B}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {2}{B}
 ---
 # Tempting Witch (Throne of Eldraine)
 

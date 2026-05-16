@@ -29,13 +29,13 @@ tags_filter:
   - scene-mode
   - forward-facing
   - sorcery
-  - red-magic
+  - green-magic
 reference_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/155-betrayal-at-the-vault.png
 average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/c/4/c494820f-607d-4ed2-8a86-a916ae390272.png?1712355886
 art_match_confidence: high
 needs_manual_review: false
@@ -50,10 +50,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: desert
+mana_cost: "{4}{G}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{G}{G}
 ---
 # Betrayal at the Vault (Outlaws of Thunder Junction)
 

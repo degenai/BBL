@@ -1,0 +1,42 @@
+{
+  "card_name": "Broken Limits Super Saiyan 3 Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "SD2-02",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names Son Goku and the Super Saiyan 3 form. The DBS TCG card title is the primary identifier. Visual read confirms the SSJ3 signature markers: extremely long flowing golden hair, absent eyebrows, orange gi — all canonical SSJ3 Son Goku visual identifiers that are unique to this transformation.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "SD2-02 comes from Starter Deck 2: The Extreme Evolution (DBS-SD02), a dedicated GT Saga red starter deck released alongside the Cross Worlds booster set (BT3, 2018). The official product page states: \"The red starter is focused on the GT Saga\" and includes five exclusive GT-era cards. SD2-02 is one of those exclusives — a Starter Rare (ST rarity) available only in this deck, not in the BT3 booster packs. [dbs-cardgame.com/us-en/product/dbs-sd02.php]",
+      "sources": ["dbs-cardgame.com SD2 product page"]
+    },
+    {
+      "category": "design",
+      "text": "Mechanically, SD2-02 is a Red Battle card with 25,000 power and the EX-Evolve skill: place 1 card from hand in Drop Area on a red \"Son Goku: GT\" with energy cost 4 or more. When one of your cards attacks, this card gains +5,000 power for the turn; if power reaches 40,000 or more, it gains Triple Strike (deals 3 damage counters instead of 1). The character tag is Son Goku: GT, situating this in the Dragon Ball GT continuity rather than the main DBS continuity. [WebSearch: WebSearch: thehaventabletop SD2-02 product listing; WebSearch: us.storedevastation SD2-02]",
+      "sources": ["WebSearch: thehaventabletop.com SD2-02 listing", "WebSearch: Devastation Store SD2-02 listing"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Dragon Ball GT, Son Goku's Super Saiyan 3 form appears during the Baby Saga — the arc where Baby (a parasitic Tuffle mutant) possesses most of Earth's population including Vegeta, Gohan, Goten, and Trunks. Goku uses SS3 GT against Baby-Vegeta before ultimately achieving Super Saiyan 4, which is GT's signature apex transformation. The card's EX-Evolve into higher-energy Son Goku: GT cards mirrors this narrative arc of escalating transformation. [WebSearch: Dragon Ball Wiki Fandom — Dragon Ball Super Card Game article]",
+      "sources": ["WebSearch: Dragon Ball Wiki Fandom DBS Card Game article"]
+    },
+    {
+      "category": "design",
+      "text": "Super Saiyan 3 has no eyebrows — a visual quirk canon across all SSJ3 users (Goku, Gotenks) — and trades the compact SSJ silhouette for dramatically elongated golden hair that can reach below the waist. The vision pass notes these markers correctly. This is one of the most visually distinctive transformation designs in the Dragon Ball franchise, making the character identification unambiguous even at medium resolution. [WebSearch: Screen Rant — Every Vegeta transformation ranked; Dragon Ball fan consensus]",
+      "sources": ["WebSearch: Screen Rant Dragon Ball transformations article"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Son Goku / Heightened Evolution Super Saiyan 3 Son Goku", "set": "Cross Worlds", "note": "BT3 double-faced card from the same set featuring SS3 Goku — possible EX-Evolve target or companion piece"},
+    {"name": "Hyper Evolution Super Saiyan 4 Son Goku", "set": "Cross Worlds", "note": "BT3-123 Secret Rare — the GT saga's apex form, thematic endpoint of the SD2 GT Saga arc"},
+    {"name": "Broken Limits Super Saiyan 3 Son Goku (non-foil)", "set": "Cross Worlds", "note": "Standard variant of this same card; foil and non-foil printings exist for SD2-02"},
+    {"name": "Baby Vegeta cards", "set": "Cross Worlds / various", "note": "Baby Saga antagonist — the narrative context for Goku's SS3 and eventual SS4 transformation in GT"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

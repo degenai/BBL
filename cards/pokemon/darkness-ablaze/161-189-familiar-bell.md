@@ -35,15 +35,19 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh3/161_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: sadaji
-oracle_text: Search your deck for a Pokémon with the same name as a Pokémon in your discard pile, reveal it, and put it into your hand. Then, shuffle your deck.\nYou may play any number of Item cards during your turn.
+oracle_text: Search your deck for a Pokémon with the same name as a Pokémon in your discard pile, reveal it, and put it into your hand. Then, shuffle your deck.
+You may play any number of Item cards during your turn.
 mood: peaceful
 time_of_day: indeterminate
 setting: other
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/4/2/4258e242-91c6-4b30-86ec-7759705aa97c.png?1557576292
 art_match_confidence: high
 needs_manual_review: false
@@ -29,8 +29,8 @@ oracle_text: Amass Zombies 3. (Put three +1/+1 counters on an Army you control. 
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{3}{U}"
 tags:
   - card
-mana_cost: {3}{U}
 ---
 # Relentless Advance (War of the Spark)

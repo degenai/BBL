@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.28
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -48,10 +48,10 @@ artist: Lindsey Look
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/220-golden-egg--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/2/525142c3-f17c-4e02-a02d-fa385215aa12.jpg?1572490979
 oracle_text: "When this artifact enters, draw a card.\\n{1}, {T}, Sacrifice this artifact: Add one mana of any color.\\n{2}, {T}, Sacrifice this artifact: You gain 3 life."
+mana_cost: "{2}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}
 ---
 # Golden Egg (Throne of Eldraine)
 

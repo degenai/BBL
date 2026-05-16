@@ -35,13 +35,14 @@ average_cost_paid: 0
 market_price: 0.31
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/sm3/19_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: kawayoo
 flavor_text: It lashes about with its tail to knock down its foe. It then tears up the fallen opponent with sharp claws.
-oracle_text: Claw Slash (ColorlessColorless) 30\nHeat Blast (FireFireColorless) 70
+oracle_text: Claw Slash (ColorlessColorless) 30
+Heat Blast (FireFireColorless) 70
 mood: action
 time_of_day: indeterminate
 setting: other
@@ -50,6 +51,9 @@ ip_confidence: high
 ip_verified: true
 characters:
   - charizard-line
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

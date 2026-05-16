@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.22
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/9/9/995194a0-ceb7-48c2-be5d-a208b3971e77.png?1726286299
 art_match_confidence: high
 needs_manual_review: false
@@ -49,10 +49,10 @@ image_quality: high
 mood: grim
 time_of_day: night
 setting: indoor
+mana_cost: "{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {B}
 ---
 # Valgavoth's Faithful (Duskmourn: House of Horror)
 

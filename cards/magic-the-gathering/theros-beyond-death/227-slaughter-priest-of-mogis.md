@@ -31,15 +31,13 @@ tags_filter:
   - male-figure
   - creature-minotaur
   - creature-shaman
-  - red-magic
-  - black-magic
   - multicolor-red-black
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/227-slaughter-priest-of-mogis.png
 average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -55,10 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/227-slaugh
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/2/a2b441c0-261e-4094-b694-5e11ea3c14ab.jpg?1581481146
 flavor_text: \"Mogis is pleased by this offering. Bring him more!\"
 oracle_text: "Whenever you sacrifice a permanent, this creature gets +2/+0 until end of turn.\\n{2}, Sacrifice another creature or an enchantment: This creature gains first strike until end of turn."
+mana_cost: "{B}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {B}{R}
 ---
 # Slaughter-Priest of Mogis (Theros Beyond Death)
 

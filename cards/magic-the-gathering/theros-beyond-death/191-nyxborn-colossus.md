@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,10 +50,10 @@ artist: Mathias Kollros
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/191-nyxborn-colossus--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/b/8b4f003c-1e99-4e53-ad6d-81ff3c592b2c.jpg?1592335274
 flavor_text: \"Tree-tall giants confronted her, fiercely demanding her tribute;\nFox-cunning Callaphe's slippery speaking entangled their senses...\"\n—*The Callapheia*
+mana_cost: "{3}{G}{G}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{G}{G}{G}
 ---
 # Nyxborn Colossus (Theros Beyond Death)
 

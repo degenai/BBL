@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/4/1/41193ef1-1619-4448-9905-26b05079c79a.png?1562910357
 art_match_confidence: high
 needs_manual_review: false
@@ -47,10 +47,10 @@ flavor_text: The unofficial motto of every expedition house is \"ready for anyth
 mood: action
 time_of_day: indeterminate
 setting: mountain
+mana_cost: "{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {W}
 ---
 # Expedition Envoy (Battle for Zendikar)
 

@@ -37,19 +37,23 @@ average_cost_paid: 0
 market_price: 0.21
 market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh3/22_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Yuka Morii
 flavor_text: A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees Fahrenheit.
-oracle_text: "Call for Family (Colorless): Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck.\\nLive Coal (Fire) 10"
+oracle_text: "Call for Family (Colorless): Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+Live Coal (Fire) 10
 mood: peaceful
 time_of_day: indeterminate
 setting: mountain
 suspected_ip: Torchic (Pokemon)
 ip_confidence: high
 ip_verified: false
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

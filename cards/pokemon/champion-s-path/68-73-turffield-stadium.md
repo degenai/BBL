@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh35/68_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -47,7 +47,11 @@ artist: aky CG Works
 mood: peaceful
 time_of_day: day
 setting: urban
-oracle_text: Once during each player's turn, that player may search their deck for an Evolution Grass Pokémon, reveal it, and put it into their hand. Then, that player shuffles their deck.\nThis Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you can't play this card.
+oracle_text: Once during each player's turn, that player may search their deck for an Evolution Grass Pokémon, reveal it, and put it into their hand. Then, that player shuffles their deck.
+This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you can't play this card.
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

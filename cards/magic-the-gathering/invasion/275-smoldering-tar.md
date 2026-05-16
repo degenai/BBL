@@ -31,7 +31,7 @@ average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 mood: grim
 time_of_day: indeterminate
 setting: indoor
@@ -42,10 +42,10 @@ artist: David Day
 art_crop_image: cards/_images/magic-the-gathering/invasion/275-smoldering-tar--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/c/fcdc55c0-c8ac-49d5-969b-9bf0ee8e696c.jpg?1562946036
 oracle_text: "At the beginning of your upkeep, target player loses 1 life.\\nSacrifice this enchantment: It deals 4 damage to target creature. Activate only as a sorcery."
+mana_cost: "{2}{B}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{B}{R}
 ---
 # Smoldering Tar (Invasion)
 

@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 1.13
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -53,11 +53,11 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/158-viscera-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/4/d49203dd-89b6-4e91-b3ff-5f9f5ce981f8.jpg?1608910025
 flavor_text: In matters of life and death, he trusts his gut.
 oracle_text: "Sacrifice a creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+mana_cost: "{B}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {B}
 ---
 # Viscera Seer (Commander Legends)
 

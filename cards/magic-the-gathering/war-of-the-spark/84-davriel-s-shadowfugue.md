@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/84-davriel-s-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/9/09c8fe63-37a7-478d-b9ba-33a0f6519cf1.jpg?1557576429
 flavor_text: Shadows coiled around the witness's mind. Then the moment vanished, leaving only the sting of its loss.
 oracle_text: Target player discards two cards and loses 2 life.
+mana_cost: "{3}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{B}
 ---
 # Davriel's Shadowfugue (War of the Spark)
 

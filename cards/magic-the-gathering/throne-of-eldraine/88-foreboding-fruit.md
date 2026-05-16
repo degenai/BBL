@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,10 +50,10 @@ artist: Drew Baker
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/88-foreboding-fruit--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/5/c5f79ec4-3722-4fda-824b-e80dc7608d01.jpg?1572490138
 oracle_text: "Target player draws two cards and loses 2 life.\\nAdamant — If at least three black mana was spent to cast this spell, create a Food token. (It's an artifact with \\\"{2}, {T}, Sacrifice this token: You gain 3 life.\\\")"
+mana_cost: "{2}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{B}
 ---
 # Foreboding Fruit (Throne of Eldraine)
 

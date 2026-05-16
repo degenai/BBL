@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.22
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/197-return
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/4/a4515a76-53f0-40a2-8b88-70b73447d1e6.jpg?1581480874
 flavor_text: "\\\"Far-seeing Kruphix glimpsed the end: Heliod's spear cast down and broken.\\\"\\n—*The Cosmogony*"
 oracle_text: Choose one —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Exile target card from a graveyard.
+mana_cost: "{1}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{G}
 ---
 # Return to Nature (Theros Beyond Death)
 

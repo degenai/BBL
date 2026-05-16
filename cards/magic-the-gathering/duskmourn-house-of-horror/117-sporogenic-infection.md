@@ -32,7 +32,7 @@ average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/e/a/eaae086e-0781-4f4d-bc9c-a98228bc380c.png?1726286285
 art_match_confidence: high
 needs_manual_review: false
@@ -46,10 +46,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{1}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{B}
 ---
 # Sporogenic Infection (Duskmourn: House of Horror)
 

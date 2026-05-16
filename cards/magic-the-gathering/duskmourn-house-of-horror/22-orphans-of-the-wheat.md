@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/8/e/8ef4aab1-8bc0-4652-91d7-3e8b20b411ad.png?1726285941
 art_match_confidence: high
 needs_manual_review: false
@@ -51,10 +51,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{1}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{W}
 ---
 # Orphans of the Wheat (Duskmourn: House of Horror)
 

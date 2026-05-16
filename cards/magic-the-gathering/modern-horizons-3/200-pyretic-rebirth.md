@@ -31,14 +31,14 @@ tags_filter:
   - wide
   - forward-facing
   - action
-  - red-magic
   - instant
+  - multicolor-black-red
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/200-pyretic-rebirth.png
 average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/5/9/5968f641-48b5-4b97-8072-ddd8073cd4d7.png?1717012814
 art_match_confidence: high
 needs_manual_review: false
@@ -50,11 +50,11 @@ oracle_text: Return target artifact or creature card from your graveyard to your
 mood: sublime
 time_of_day: indeterminate
 setting: other
+mana_cost: "{2}{B}{R}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {2}{B}{R}
 ---
 # Pyretic Rebirth (Modern Horizons 3)
 

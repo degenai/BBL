@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/228-roving-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/8/38a0136e-a637-4a12-a38f-35f772b290a9.jpg?1592485658
 flavor_text: \"It wandered slowly across the landscape, calling out in its lonely voice, but no other castles answered its cries.\"\n—*Beyond the Great Henge*
 oracle_text: "Defender\\n{7}: This creature gets +2/+0 and gains trample until end of turn. It can attack this turn as though it didn't have defender."
+mana_cost: "{7}"
 tags:
   - card
   - vision-passed
-mana_cost: {7}
 ---
 # Roving Keep (Throne of Eldraine)
 

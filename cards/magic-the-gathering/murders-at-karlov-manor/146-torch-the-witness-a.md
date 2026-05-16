@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/2/2/22bbf709-d8e9-4e3b-8ec8-206f1b2162b3.png?1706241928
 art_match_confidence: high
 needs_manual_review: false
@@ -51,11 +51,11 @@ oracle_text: "Torch the Witness deals twice X damage to target creature. If exce
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{X}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {X}{R}
 ---
 # Torch the Witness (a) (Murders at Karlov Manor)
 

@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,11 +50,11 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/114-blow-yo
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/0/c04b85e7-a401-42d5-9629-8d4b8c8a46b0.jpg?1746714728
 flavor_text: \"You think these walls will protect you? My, you have a dim view of the power of the wilds.\"\n—Marawen, barrow witch
 oracle_text: Up to three target creatures can't block this turn. Destroy any of them that are Walls.
+mana_cost: "{2}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {2}{R}
 ---
 # Blow Your House Down (Throne of Eldraine)
 

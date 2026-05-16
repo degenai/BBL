@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/f/1/f1fc02ae-77b8-4e5e-94b4-22ecf7ae40ae.png?1726286237
 art_match_confidence: high
 needs_manual_review: false
@@ -53,10 +53,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{2}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{B}
 ---
 # Killer's Mask (Duskmourn: House of Horror)
 

@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.22
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/6/b/6bc119b8-429c-4ab6-adba-b65b03810e98.png?1770815948
 art_match_confidence: high
 needs_manual_review: false
@@ -52,11 +52,11 @@ oracle_text: Kicker {G} and/or {1}{U}\nWhen you cast this spell, if it was kicke
 mood: action
 time_of_day: twilight
 setting: mountain
+mana_cost: "{1}{C}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {1}{C}
 ---
 # Wastescape Battlemage (Modern Horizons 3)
 

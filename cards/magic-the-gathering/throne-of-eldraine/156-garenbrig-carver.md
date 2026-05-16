@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.19
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/1/9/194b7a1c-291a-470e-9a40-61b72a46793b.png?1572490548
 art_match_confidence: high
 needs_manual_review: false
@@ -50,10 +50,10 @@ artist: Lucas Graciano
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/156-garenbrig-carver--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/9/194b7a1c-291a-470e-9a40-61b72a46793b.jpg?1572490548
 flavor_text: Countless knights of Garenbrig owe their lives to his peerless craftsmanship.
+mana_cost: "{3}{G} // {1}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{G} // {1}{G}
 ---
 # Garenbrig Carver (Throne of Eldraine)
 

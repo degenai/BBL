@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/b/5/b5495f34-423e-4012-808c-b267e6fabf2c.png?1717011574
 art_match_confidence: high
 needs_manual_review: false
@@ -48,10 +48,10 @@ oracle_text: Flying\nWhen this creature enters, you get {E}{E}{E} (three energy 
 mood: action
 time_of_day: indeterminate
 setting: other
+mana_cost: "{3}{W}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{W}{W}
 ---
 # Voltstorm Angel (Modern Horizons 3)
 

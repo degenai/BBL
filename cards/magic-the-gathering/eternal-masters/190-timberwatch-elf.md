@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 1.68
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/5/d/5d902a83-5e39-4df3-a897-e9ac65a8209c.png?1580014956
 art_match_confidence: high
 needs_manual_review: false
@@ -49,10 +49,10 @@ image_quality: high
 mood: grim
 time_of_day: night
 setting: forest
+mana_cost: "{2}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{G}
 ---
 # Timberwatch Elf (Eternal Masters)
 

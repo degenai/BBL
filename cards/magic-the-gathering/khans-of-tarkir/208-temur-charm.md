@@ -31,16 +31,13 @@ tags_filter:
   - no-face
   - instant
   - multicolor-green-blue-red
-  - green-magic
-  - blue-magic
-  - red-magic
   - tri-color
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/208-temur-charm.png
 average_cost_paid: 0
 market_price: 0.19
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -52,10 +49,10 @@ artist: Mathias Kollros
 art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/208-temur-charm--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/2/e2ee3e36-a849-42b0-b84b-027a08427c35.jpg?1562794960
 oracle_text: Choose one —\n• Target creature you control gets +1/+1 until end of turn. It fights target creature you don't control.\n• Counter target spell unless its controller pays {3}.\n• Creatures with power 3 or less can't block this turn.
+mana_cost: "{G}{U}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {G}{U}{R}
 ---
 # Temur Charm (Khans of Tarkir)
 

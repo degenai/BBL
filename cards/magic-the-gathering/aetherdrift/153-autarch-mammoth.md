@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/4/d/4d313ea7-2456-48f3-8b12-97d8e8c2a5b3.png?1738356479
 art_match_confidence: high
 needs_manual_review: false
@@ -49,11 +49,11 @@ oracle_text: "When this creature enters and whenever it attacks while saddled, c
 mood: action
 time_of_day: indeterminate
 setting: forest
+mana_cost: "{4}{G}{G}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {4}{G}{G}
 ---
 # Autarch Mammoth (Aetherdrift)
 

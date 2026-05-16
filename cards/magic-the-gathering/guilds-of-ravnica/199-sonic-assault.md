@@ -32,15 +32,13 @@ tags_filter:
   - no-face
   - instant
   - multicolor-blue-red
-  - blue-magic
-  - red-magic
   - izzet
 reference_image: cards/_images/magic-the-gathering/guilds-of-ravnica/199-sonic-assault.png
 average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -53,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/guilds-of-ravnica/199-sonic-as
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/c/cc61a398-cf16-415b-b3cf-897217dc7cc9.jpg?1572893813
 flavor_text: He heard stars and saw thunder.
 oracle_text: Tap target creature. Sonic Assault deals 2 damage to that creature's controller.\nJump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)
+mana_cost: "{1}{U}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{U}{R}
 ---
 # Sonic Assault (Guilds of Ravnica)
 

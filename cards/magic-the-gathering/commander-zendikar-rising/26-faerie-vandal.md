@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.24
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/0/4/04692219-8850-4b05-aa60-64f32b0daade.png?1604195992
 art_match_confidence: high
 needs_manual_review: false
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/commander-zendikar-rising/26-f
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/4/04692219-8850-4b05-aa60-64f32b0daade.jpg?1604195992
 flavor_text: History may be written by the triumphant, but it's often rewritten by the troublesome.
 oracle_text: Flash (You may cast this spell any time you could cast an instant.)\nFlying\nWhenever you draw your second card each turn, put a +1/+1 counter on this creature.
+mana_cost: "{1}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{U}
 ---
 # Faerie Vandal (Commander: Zendikar Rising)
 

@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/240-travel
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/9/590926db-279c-494a-b92d-680b8abf9699.jpg?1581481232
 flavor_text: A vision of home, and a glimpse of hope.
 oracle_text: "{1}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle."
+mana_cost: "{1}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}
 ---
 # Traveler's Amulet (Theros Beyond Death)
 

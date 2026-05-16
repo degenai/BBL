@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/5/a/5a68482a-401d-48e7-854e-46e3db07ff35.png?1738356352
 art_match_confidence: high
 needs_manual_review: false
@@ -52,11 +52,11 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: dungeon
+mana_cost: "{4}{B}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {4}{B}
 ---
 # Risen Necroregent (Aetherdrift)
 

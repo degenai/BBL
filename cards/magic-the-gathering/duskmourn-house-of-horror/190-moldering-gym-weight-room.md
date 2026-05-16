@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.19
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/2/4/245d5a61-c40c-4039-aea8-3ad61415b8f0.png?1726780702
 art_match_confidence: high
 needs_manual_review: false
@@ -54,11 +54,11 @@ setting: indoor
 symbols:
   - manifest-dread
   - rooms
+mana_cost: "{2}{G} // {5}{G}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {2}{G} // {5}{G}
 ---
 # Moldering Gym // Weight Room (Duskmourn: House of Horror)
 

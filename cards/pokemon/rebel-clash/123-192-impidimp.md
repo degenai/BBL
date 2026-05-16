@@ -7,7 +7,7 @@ rarity: Common
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
 tags_hub:
@@ -33,13 +33,14 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh2/123_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Kouki Saitou
 flavor_text: Through its nose, it sucks in the emanations produced by people and Pokémon when they feel annoyed. It thrives off this negative energy.
-oracle_text: Beat (Darkness) 10\nStampede (DarknessColorless) 20
+oracle_text: Beat (Darkness) 10
+Stampede (DarknessColorless) 20
 mood: comedic
 time_of_day: day
 setting: forest
@@ -47,6 +48,9 @@ subject_known_ip: true
 suspected_ip: Impidimp
 ip_confidence: high
 ip_verified: true
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

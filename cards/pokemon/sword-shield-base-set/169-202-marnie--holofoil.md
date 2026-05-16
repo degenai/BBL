@@ -17,20 +17,24 @@ average_cost_paid: 0
 market_price: 0.49
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
-reference_image_source_url: https://images.pokemontcg.io/swsh35/56_hires.png
-art_match_confidence: low
-needs_manual_review: true
+last_seen: 2026-05-16
+reference_image_source_url: https://images.pokemontcg.io/swsh1/169_hires.png
+art_match_confidence: high
+needs_manual_review: false
 manual_review_reason: Set 'Sword & Shield Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
-oracle_text: Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, you draw 5 cards, and your opponent draws 4 cards.\nYou may play only 1 Supporter card during your turn.
+oracle_text: Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, you draw 5 cards, and your opponent draws 4 cards.
+You may play only 1 Supporter card during your turn.
 review_good: false
 review_bad: false
 review_notes: ""
+artist: kirisAki
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon
   - manual-review
-
 ---
 # Marnie (Sword & Shield Base Set)
 

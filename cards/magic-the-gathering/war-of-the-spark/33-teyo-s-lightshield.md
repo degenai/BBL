@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/d/f/dfffe235-98b1-43db-9461-1b2da5f0690e.png?1739658548
 art_match_confidence: high
 needs_manual_review: false
@@ -51,12 +51,12 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/33-teyo-s-lig
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/f/dfffe235-98b1-43db-9461-1b2da5f0690e.jpg?1739658548
 flavor_text: Teyo gifted his shields to as many allies as possible, knowing he could not always be there to protect them himself.
 oracle_text: When this creature enters, put a +1/+1 counter on target creature you control.
+mana_cost: "{2}{W}"
 tags:
   - card
   - vision-passed
   - trivia-passed
   - ip-verified
-mana_cost: {2}{W}
 ---
 # Teyo's Lightshield (War of the Spark)
 

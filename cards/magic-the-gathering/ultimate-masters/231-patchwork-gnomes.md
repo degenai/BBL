@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Ultimate Masters'
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/ultimate-masters/231-patchwork
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/a/1ab6b8ca-2e72-4f19-b73b-08b3f9fe6966.jpg?1547518491
 flavor_text: One wizard's trash is another wizard's roving gang of abominations.
 oracle_text: "Discard a card: Regenerate this creature. (The next time this creature would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)"
+mana_cost: "{3}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}
 ---
 # Patchwork Gnomes (Ultimate Masters)
 

@@ -30,9 +30,6 @@ tags_filter:
   - action-mode
   - male-figure
   - multicolor-red-white-black
-  - red-magic
-  - white-magic
-  - black-magic
   - instant
   - modal-spell
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/186-mardu-charm.png
@@ -40,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -52,10 +49,10 @@ artist: Mathias Kollros
 art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/186-mardu-charm--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/3/c35fb7a3-7c7f-4470-b1ad-5b8709a608e6.jpg?1562793176
 oracle_text: Choose one —\n• Mardu Charm deals 4 damage to target creature.\n• Create two 1/1 white Warrior creature tokens. They gain first strike until end of turn.\n• Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.
+mana_cost: "{R}{W}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {R}{W}{B}
 ---
 # Mardu Charm (Khans of Tarkir)
 

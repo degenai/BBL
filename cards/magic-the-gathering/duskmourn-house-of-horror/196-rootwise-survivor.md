@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/d/8/d843c242-088f-4131-9e52-7ee2d0db5e20.png?1726286598
 art_match_confidence: high
 needs_manual_review: false
@@ -53,10 +53,10 @@ image_quality: high
 mood: action
 time_of_day: night
 setting: forest
+mana_cost: "{3}{G}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{G}{G}
 ---
 # Rootwise Survivor (Duskmourn: House of Horror)
 

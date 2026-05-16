@@ -28,8 +28,6 @@ tags_filter:
   - mid-shot
   - narrative
   - three-quarter
-  - black-magic
-  - green-magic
   - multicolor-black-green
   - creature-elf-rogue
   - deathtouch
@@ -41,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/6/a/6aaa8c6b-7ef7-45db-99c9-4a6e7f177b94.png?1706242231
 art_match_confidence: high
 needs_manual_review: false
@@ -52,10 +50,10 @@ oracle_text: Deathtouch\nWhen this creature enters or is turned face up, target 
 mood: grim
 time_of_day: night
 setting: other
+mana_cost: "{2}{B}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{B}{G}
 ---
 # Rakish Scoundrel (Murders at Karlov Manor)
 

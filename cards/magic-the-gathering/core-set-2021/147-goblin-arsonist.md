@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.27
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/f/a/fa4bf664-3b92-4598-b905-2bc090958c8b.png?1594736650
 art_match_confidence: high
 needs_manual_review: false
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/147-goblin-arson
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/a/fa4bf664-3b92-4598-b905-2bc090958c8b.jpg?1594736650
 flavor_text: With great power comes great risk of getting yourself killed.
 oracle_text: When this creature dies, you may have it deal 1 damage to any target.
+mana_cost: "{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {R}
 ---
 # Goblin Arsonist (Core Set 2021)
 

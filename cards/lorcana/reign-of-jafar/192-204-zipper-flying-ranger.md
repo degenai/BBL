@@ -36,12 +36,17 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set8/192_574c44033adf32ba5decfb33cf4056fe042e7fa7.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Ian MacDonald
 oracle_text: BEST MATES If you have a character named
+Monterey Jack in play, you pay 1 ⬡ less to play
+this character.
+BURST OF SPEED During your turn, this character
+gains Evasive. (They can challenge characters
+with Evasive.)
 Monterey Jack in play, you pay 1 ⬡ less to play
 this character.
 BURST OF SPEED During your turn, this character

@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.25
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408077123/85CD1DDFD015A5859BF4E5F6C463DFE984BE7142/
 image_width: 624
 image_height: 871

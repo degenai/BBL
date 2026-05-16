@@ -35,13 +35,14 @@ average_cost_paid: 0
 market_price: 0.27
 market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/sm3/92_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Anesaki Dynamic
 flavor_text: The cheerful spirit of its Trainer gives it energy for its psychokinetic power. It spins and dances when happy.
-oracle_text: Smack (Colorless) 20\nMagical Shot (FairyColorless) 30
+oracle_text: Smack (Colorless) 20
+Magical Shot (FairyColorless) 30
 mood: peaceful
 time_of_day: day
 setting: other
@@ -50,6 +51,9 @@ ip_confidence: high
 ip_verified: true
 characters:
   - ralts-line
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

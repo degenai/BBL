@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,10 +50,10 @@ artist: Igor Kieryluk
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/128-walking-corpse--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/5/053b59b4-a22c-4228-aadc-ae9da6bb465e.jpg?1594736452
 flavor_text: \"Feeding a normal army is a problem of logistics. With zombies, it is an asset. Feeding is why they fight. Feeding is why they are feared.\"\n—Jadar, ghoulcaller of Nephalia
+mana_cost: "{1}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{B}
 ---
 # Walking Corpse (Core Set 2021)
 

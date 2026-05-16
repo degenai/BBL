@@ -41,7 +41,7 @@ average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/c/6/c6d9537d-c6b9-46ef-834b-87750d79f1ae.png?1718364531
 art_match_confidence: high
 needs_manual_review: false
@@ -53,11 +53,11 @@ oracle_text: "If you would get one or more {E} (energy counters), you get that m
 mood: sublime
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{U}{R}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {U}{R}
 ---
 # Izzet Generatorium (Modern Horizons 3)
 

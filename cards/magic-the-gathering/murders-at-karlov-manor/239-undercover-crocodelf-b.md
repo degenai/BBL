@@ -29,8 +29,6 @@ tags_filter:
   - action
   - forward-facing
   - alternate-art
-  - green-magic
-  - blue-magic
   - multicolor-green-blue
   - creature-crocodile-elf
 symbols:
@@ -40,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/5/b/5bc669c8-6f39-4d52-82d3-a4005d41c8a5.png?1706242271
 art_match_confidence: high
 needs_manual_review: false
@@ -53,10 +51,10 @@ oracle_text: "Whenever this creature deals combat damage to a player, investigat
 mood: grim
 time_of_day: indeterminate
 setting: other
+mana_cost: "{4}{G}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{G}{U}
 ---
 # Undercover Crocodelf (b) (Murders at Karlov Manor)
 

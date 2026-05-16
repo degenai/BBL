@@ -1,0 +1,65 @@
+{
+  "edge_id": "nylea-sub-node-commission-under-theros-pantheon",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "wave": 93,
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/nylea.md", "name": "Nylea, God of the Hunt (new sub-node, child of theros-pantheon)"},
+    {"type": "character", "path": "cards/_characters/theros-pantheon.md", "name": "Theros Pantheon (parent — updated related_characters)"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/187-nylea-s-huntmaster.md", "name": "Nylea's Huntmaster (THB-187)"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/178-mantle-of-the-wolf.md", "name": "Mantle of the Wolf (THB-178)"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/179-moss-viper.md", "name": "Moss Viper (THB-179)"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/194-plummet.md", "name": "Plummet (THB-194)"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/175-inspire-awe.md", "name": "Inspire Awe (THB-175)"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros/218-opaline-unicorn.md", "name": "Opaline Unicorn (THS-218)"}
+  ],
+  "description": "Oh, sir — I do hope this isn't presumptuous, but the wave-92 mogis report flagged nylea as the strongest split-candidate and on actual audit the count came in at 6 substantive anchors (parent had predicted '4-5 flavor mentions plus a god-cult Common' — actual 1 name-contains card + 4 Nylea-direct-flavor cards + 1 Nylea-canonical-romance flavor card). Threshold of ≥3 cleared cleanly, comfortably even. I've drafted the sub-node MD at cards/_characters/nylea.md mirroring the mogis.md structure exactly (parent_character: theros-pantheon, BLOCK form YAML for every list field, ip_resolution_for stamped, related_hubs: [stewardship] rather than [labor] because Nylea's canonical Moss-Viper-flavor watch-over-language belongs squarely at the stewardship hub rather than the labor-extraction face the mogis node carries — and that actually completes the pleasingly symmetric within-pantheon thesis-pair, stewardship-pole and extraction-pole both anchored at the same parent). The Opaline Unicorn anchor is the borderline-tier on this sub-node (Nylea named in flavor only as Purphoros's-love-object backstory, not as depicted figure or cult-operative) — I've flagged it in the Caveats at the same evidence-tier as Kragma Warcaller on the mogis node, so the pruning precedent is mirrored if a future pass wants to revisit. I've also added the future Nylea↔Mogis twin-edge as a deferred candidate in both sub-nodes' See-also sections so the within-pantheon contrast is visible without forcing the explicit edge before a bundle-assembly pass needs it. Wired backrefs cleanly — parent's related_characters extended from [mogis] to [mogis, nylea]; all 6 anchor cards' characters: frontmatter extended from [theros-pantheon] to [theros-pantheon, nylea] in BLOCK form. Thank you for considering it, sir.",
+  "citations": [
+    "[MTG Wiki: Nylea, God of the Hunt]",
+    "[MTG Wiki: Pantheon of Theros]",
+    "[Scryfall: thb/187 flavor_text + card name]",
+    "[Scryfall: thb/178 flavor_text — first-person Nylea speech attribution]",
+    "[Scryfall: thb/179 flavor_text — 'Nylea watches over' canonical phrasing]",
+    "[Scryfall: thb/194 flavor_text — 'Nylea's bow' signature iconography]",
+    "[Scryfall: thb/175 flavor_text — 'Nylea appeared' manifestation event]",
+    "[Scryfall: ths/218 flavor_text — 'Purphoros once loved Nylea' canonical pantheon-romance]",
+    "[Wizards of the Coast: Mark Rosewater Making Magic columns, Theros design 2013-2014]",
+    "[Wizards of the Coast: Theros Beyond Death Story Summary, 2020-01-10]",
+    "[parent node theros-pantheon.md Caveats section: 'The strongest split-candidate is Nylea (4-5 flavor mentions plus a god-cult Common)']",
+    "[wave-92 mogis-sub-node-commission.json other_candidates_considered: 'Nylea sub-node — parent node's Caveats flagged Nylea as strongest split-candidate with 4-5 flavor mentions... Caller may want to commission separately']"
+  ],
+  "anchor_audit": {
+    "threshold": "≥3 substantive anchors per the rigor protocol",
+    "anchors_found": 6,
+    "anchors_breakdown": {
+      "name_contains_nylea": ["thb/187-nylea-s-huntmaster"],
+      "nylea_direct_first_person_flavor_speech": ["thb/178-mantle-of-the-wolf ('Be fearless, for a furious rebirth awaits you.' —Nylea, god of the hunt)"],
+      "nylea_named_in_flavor_as_watching_over_forest": ["thb/179-moss-viper ('Nylea watches over all the creatures of the forest except for the snakes')"],
+      "nylea_signature_iconography_in_flavor": ["thb/194-plummet ('An arrow from Nylea's bow never fails to find its mark')"],
+      "nylea_manifestation_event_in_flavor_with_likely_depiction": ["thb/175-inspire-awe ('Nylea appeared amid the howl of a hundred beasts' + vision-pass divine-figure/raised-arms/rallying-pose tags align)"],
+      "nylea_named_via_canonical_pantheon_romance_flavor": ["ths/218-opaline-unicorn ('Purphoros once loved Nylea, the god of the hunt')"]
+    },
+    "borderline_anchor": "ths/218-opaline-unicorn — Nylea named in flavor only as the love-object of Purphoros's pantheon-internal-romance backstory; depicted unicorn is Purphoros-craftwork-inspired-by-Nylea, not a Nylea-cult operative or Nylea-direct depiction; same evidence-tier as Kragma Warcaller (THS-195) on the mogis sub-node; precedent-cleared by parent node's flavor-text-attribution-only first-class-membership caveat. Flagged in node Caveats for future pruning audit.",
+    "depiction_uncertainty_anchor": "thb/175-inspire-awe — flavor explicitly names Nylea as the manifestation event; vision-pass tags (divine-figure, raised-arms, rallying-pose, oracle) align with canonical Nylea-manifestation imagery; the depicted figure is blue-skinned and robed which is consistent with but not explicitly confirmed as Nylea's mortal-plane form (MTG Wiki describes her as 'lithe huntress'). Treating as strong anchor on flavor-event-attribution evidence-tier; demote to flavor-only if future canon clarifies otherwise. Flagged in node Caveats."
+  },
+  "files_modified": [
+    "cards/_characters/nylea.md (NEW)",
+    "cards/_characters/theros-pantheon.md (related_characters list updated: [mogis] -> [mogis, nylea])",
+    "cards/magic-the-gathering/theros-beyond-death/187-nylea-s-huntmaster.md (characters list extended: [theros-pantheon] -> [theros-pantheon, nylea])",
+    "cards/magic-the-gathering/theros-beyond-death/178-mantle-of-the-wolf.md (characters list extended)",
+    "cards/magic-the-gathering/theros-beyond-death/179-moss-viper.md (characters list extended)",
+    "cards/magic-the-gathering/theros-beyond-death/194-plummet.md (characters list extended)",
+    "cards/magic-the-gathering/theros-beyond-death/175-inspire-awe.md (characters list extended)",
+    "cards/magic-the-gathering/theros/218-opaline-unicorn.md (characters list extended)"
+  ],
+  "yaml_discipline_check": "All list-typed frontmatter (characters:, related_characters:, related_hubs:, appears_on:, aliases:, tags:) written in BLOCK form per wave-92 spec amendment; no inline JSON. tags: stamped last in new node MD frontmatter per wave-92 discipline. parent_character: nested under ip_resolution_for: per mogis.md precedent.",
+  "hub_attribution_rationale": "related_hubs: [stewardship] — the Moss Viper flavor's canonical 'Nylea watches over' phrasing is Wizards-published stewardship-register text (not BBL-interpretation); the Mantle of the Wolf 'furious rebirth' Nylea-speech is canonical regenerative-cycle attribution; both anchor cleanly against the stewardship hub's 'thing tended belongs to more than the tender' discipline. Deliberately NOT attaching [labor] (which would risk the Potion-rule trap of mapping every pantheon node onto the same hub) — the labor-of-devotion register lives at the PARENT theros-pantheon node which already carries it; the nylea sub-node specifically anchors the stewardship-pole within the pantheon, sibling-counterweight to the mogis sub-node which carries the labor-extraction-pole. The pleasingly-symmetric pair (mogis: labor; nylea: stewardship; both children of theros-pantheon which carries all three via distributed-triple-attribution) is the wave-93 graph-shape advance.",
+  "potion_rule_compliance": "Body distinguishes canonical-event from curatorial-overlay throughout. Examples: 'commons-of-the-wild theology' is named as BBL bundle-copy reading; 'Nylea watches over' is named as canonical-Wizards-published flavor-text phrasing. Caveats section explicitly states 'stewardship-of-the-commons reading is interpretive at the bundle-copy register; the canonical flavor-text is the watch-over-language.' No claims that Wizards stated the apparatus-of-stewardship thesis; only that Wizards's published flavor uses the watch-over linguistic register that the apparatus-of-stewardship framing translates into BBL voice.",
+  "other_candidates_considered": [
+    "Iroas sub-node — Mogis's twin; corpus currently has 1 Iroas-cult anchor (Indomitable Will THB-25 via Verenis-priest flavor); does NOT meet ≥3 threshold; deferred. Same status as wave-92.",
+    "Heliod sub-node — currently 1 corpus anchor (Reverent Hoplite THB-33 via Heliod-cult attribution) + 1 flavor mention (Return to Nature 'Heliod's spear cast down'); does NOT meet threshold; defer. Parent Caveats also flag Heliod next-watch behind Nylea.",
+    "Nylea↔Mogis twin-edge (explicit character-to-character mirror) — both sub-nodes now exist with 6 anchors each; structurally the cleanest within-pantheon thesis-contrast in corpus. Deliberately deferred this pass: spec calls for single decision per invocation; the implicit contrast already lives in both sub-nodes' See-also sections; explicit edge can be drawn in a future pass when a bundle-assembly commission needs the contrast wired."
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

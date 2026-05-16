@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.43
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Ultimate Masters'
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/ultimate-masters/234-prismatic
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/6/7618fb0b-099c-47f6-b16f-49854bc5be6b.jpg?1547518529
 flavor_text: A capable mage can tune its focus, refracting mana through each disk in turn to cast any spell they desire.
 oracle_text: "{T}: Add {C}.\\n{1}, {T}: Add one mana of any color."
+mana_cost: "{2}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}
 ---
 # Prismatic Lens (Ultimate Masters)
 

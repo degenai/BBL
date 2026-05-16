@@ -33,13 +33,13 @@ tags_filter:
   - quadruped
   - basic-pokemon
   - psychic-type
-reference_image: cards/_images/pokemon/chilling-reign/054-198-galarian-slowpoke.png
+reference_image: cards/_images/pokemon/chilling-reign/054-198-galarian-slowpoke.jpg
 average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
-reference_image_source_url: https://images.pokemontcg.io/swsh6/54_hires.png
+last_seen: 2026-05-16
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/c/cc/GalarianSlowpokeChillingReign54.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Naoyo Kimura
@@ -51,7 +51,11 @@ suspected_ip: Galarian Slowpoke (Pokemon)
 ip_confidence: high
 ip_verified: true
 flavor_text: Because Galarian Slowpoke eat the seeds of a plant that grows only in Galar, their tails have developed a spicy flavor.
-oracle_text: Sharpness (Colorless) 10\nHeadbutt (ColorlessColorless) 20
+oracle_text: Sharpness (Colorless) 10
+Headbutt (ColorlessColorless) 20
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

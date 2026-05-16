@@ -42,7 +42,7 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/e/8/e8578839-046f-4afd-a0e7-4737ded9e6eb.png?1706241631
 art_match_confidence: high
 needs_manual_review: false
@@ -53,10 +53,10 @@ oracle_text: Flying\nDisguise {1}{U} (You may cast this card face down for {3} a
 mood: action
 time_of_day: night
 setting: urban
+mana_cost: "{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {U}
 ---
 # Mistway Spy (Murders at Karlov Manor)
 

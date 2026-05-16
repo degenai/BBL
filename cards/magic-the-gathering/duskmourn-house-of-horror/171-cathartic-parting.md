@@ -28,15 +28,15 @@ tags_filter:
   - mid-shot
   - narrative
   - three-quarter
-  - white-magic
   - instant
   - graveyard
+  - green-magic
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/171-cathartic-parting.png
 average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/6/a/6afc250a-854d-4555-ba78-db9283fa7c22.png?1726286497
 art_match_confidence: high
 needs_manual_review: false
@@ -51,10 +51,10 @@ image_quality: high
 mood: grim
 time_of_day: night
 setting: indoor
+mana_cost: "{1}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{G}
 ---
 # Cathartic Parting (Duskmourn: House of Horror)
 

@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.22
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/5/a/5a3603c6-92df-45c7-b402-1f0a552ea398.png?1706241588
 art_match_confidence: high
 needs_manual_review: false
@@ -50,10 +50,10 @@ oracle_text: "Enchant creature\\nEnchanted creature gets +1/+1 and has \\\"Whene
 mood: other
 time_of_day: night
 setting: indoor
+mana_cost: "{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {U}
 ---
 # Curious Inquiry (Murders at Karlov Manor)
 

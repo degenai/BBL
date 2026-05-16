@@ -33,7 +33,7 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/9/5/95d9c92d-8b1b-4adc-8015-d50e673b6321.png?1562925184
 art_match_confidence: high
 needs_manual_review: false
@@ -51,11 +51,11 @@ image_quality: high
 mood: horror
 time_of_day: day
 setting: desert
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {1}{R}
 ---
 # Immobilizer Eldrazi (Oath of the Gatewatch)
 

@@ -43,7 +43,7 @@ average_cost_paid: 0
 market_price: 0.19
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/8/5/85e1d63e-9692-4988-bda2-7c2c9b42217b.png?1557576122
 art_match_confidence: high
 needs_manual_review: false
@@ -58,12 +58,12 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/38-wanderer-s
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/5/85e1d63e-9692-4988-bda2-7c2c9b42217b.jpg?1557576122
 flavor_text: \"Precise, clean cuts. No one saw anything. Again. Tag the report with my code and file it.\"\n—Lavinia
 oracle_text: Exile target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+mana_cost: "{4}{W}"
 tags:
   - card
   - vision-passed
   - trivia-passed
   - ip-verified
-mana_cost: {4}{W}
 ---
 # Wanderer's Strike (War of the Spark)
 

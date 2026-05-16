@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/a/a/aa3093a4-e115-4d88-b7c0-33dee8a11142.png?1562930901
 art_match_confidence: high
 needs_manual_review: false
@@ -49,10 +49,10 @@ image_quality: high
 mood: comedic
 time_of_day: indeterminate
 setting: forest
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{R}
 ---
 # Target Minotaur (C) (Unstable)
 

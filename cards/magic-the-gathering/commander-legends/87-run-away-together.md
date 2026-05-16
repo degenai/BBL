@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/d/7/d747d5f2-d3b0-44f9-92f0-781839386850.png?1608909383
 art_match_confidence: high
 needs_manual_review: false
@@ -29,8 +29,8 @@ oracle_text: Choose two target creatures controlled by different players. Return
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{1}{U}"
 tags:
   - card
-mana_cost: {1}{U}
 ---
 # Run Away Together (Commander Legends)

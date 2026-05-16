@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -53,10 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/8-charmed-str
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/5/357513b9-0505-4b67-9a29-36a705a175b1.jpg?1557575904
 flavor_text: \"There's something peculiar about the cats today.\"\n—Janoc, Tin Street tinker
 oracle_text: Lifelink\nWhen this creature enters, put a +1/+1 counter on each other creature you control named Charmed Stray.
+mana_cost: "{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {W}
 ---
 # Charmed Stray (War of the Spark)
 

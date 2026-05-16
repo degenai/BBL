@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.48
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -52,11 +52,11 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/128-irencra
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/a/9a7b0ead-5629-429d-bede-8154f3fae96d.jpg?1572490380
 flavor_text: \"Fear of fire is a sensible instinct. If I were you, I'd be terrified.\"
 oracle_text: Whenever you draw your second card each turn, this creature deals 3 damage to any target.
+mana_cost: "{2}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {2}{R}
 ---
 # Irencrag Pyromancer (Throne of Eldraine)
 

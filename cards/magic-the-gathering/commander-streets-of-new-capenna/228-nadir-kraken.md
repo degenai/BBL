@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.4
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -49,10 +49,10 @@ artist: Dan Murayama Scott
 art_crop_image: cards/_images/magic-the-gathering/commander-streets-of-new-capenna/228-nadir-kraken--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/9/793f0ac2-39b8-4cb2-aeac-f901bf5bd7ea.jpg?1673483962
 oracle_text: Whenever you draw a card, you may pay {1}. If you do, put a +1/+1 counter on this creature and create a 1/1 blue Tentacle creature token.
+mana_cost: "{1}{U}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{U}{U}
 ---
 # Nadir Kraken (Commander: Streets of New Capenna)
 

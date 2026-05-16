@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/4/2/428e255d-bdda-4265-91cf-d02962e818e4.png?1717047257
 art_match_confidence: high
 needs_manual_review: false
@@ -47,10 +47,10 @@ oracle_text: Menace\nWhenever this creature deals combat damage to a player, put
 mood: horror
 time_of_day: indeterminate
 setting: void
+mana_cost: "{1}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{B}
 ---
 # Etched Slith (Modern Horizons 3)
 

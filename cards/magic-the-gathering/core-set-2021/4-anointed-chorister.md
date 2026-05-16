@@ -43,7 +43,7 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/9/c/9c977c67-b0c0-40b0-b129-28de094aaf40.png?1594734721
 art_match_confidence: high
 needs_manual_review: false
@@ -55,10 +55,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/4-anointed-chori
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/c/9c977c67-b0c0-40b0-b129-28de094aaf40.jpg?1594734721
 flavor_text: \"I sing of benevolence and mercy, of golden wings bringing comfort to the meek and downtrodden.\"
 oracle_text: "Lifelink (Damage dealt by this creature also causes you to gain that much life.)\\n{4}{W}: This creature gets +3/+3 until end of turn."
+mana_cost: "{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {W}
 ---
 # Anointed Chorister (Core Set 2021)
 

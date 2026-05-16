@@ -25,15 +25,15 @@ tags_filter:
   - mid-shot
   - narrative-mode
   - forward-facing
-  - white-magic
   - instant
   - convoke
+  - black-magic
 reference_image: cards/_images/magic-the-gathering/modern-horizons/97-mob.png
 average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/3/c/3c216e13-3779-4734-b481-9aad7aba9925.png?1562201673
 art_match_confidence: high
 needs_manual_review: false
@@ -48,10 +48,10 @@ image_quality: high
 mood: grim
 time_of_day: night
 setting: urban
+mana_cost: "{4}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{B}
 ---
 # Mob (Modern Horizons)
 

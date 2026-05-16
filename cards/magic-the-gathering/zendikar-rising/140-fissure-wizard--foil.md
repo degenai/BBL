@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/140-fissure-wi
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/f/9fa10a18-5059-46ab-9983-0ea78b507331.jpg?1604197025
 flavor_text: He might call up a burst of lava or a raging hellion from Akoum's volcanic depths. Or he might just fall in.
 oracle_text: When this creature enters, you may discard a card. If you do, draw a card.
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{R}
 ---
 # Fissure Wizard (Zendikar Rising)
 

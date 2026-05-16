@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set12/35_b3373aac72abf418b5ed14ad03769e820f372857.jpg
 art_match_confidence: high
 needs_manual_review: false
@@ -44,7 +44,10 @@ artist: Javi Salas
 flavor_text: “Believing that he alone should be the sole heir,
 a seed of selfishness grew in him like a poison.”
 —The Witch
+a seed of selfishness grew in him like a poison.”
+—The Witch
 oracle_text: Rush (This character can challenge the turn
+they're played.)
 they're played.)
 image_width: 1468
 image_height: 2048

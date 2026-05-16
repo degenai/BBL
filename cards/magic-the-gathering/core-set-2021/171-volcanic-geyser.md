@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.23
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/171-volcanic-gey
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/e/7e22c791-6ef9-4f13-a14d-4f795f48bb1c.jpg?1594736870
 flavor_text: \"The common folk call it the breaking of the crust or the spilling of fire. Geomancers call it target practice.\"\n—Ryda, geomancer
 oracle_text: Volcanic Geyser deals X damage to any target.
+mana_cost: "{X}{R}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {X}{R}{R}
 ---
 # Volcanic Geyser (Core Set 2021)
 

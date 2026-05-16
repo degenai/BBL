@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.24
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/2/c/2c3c992a-70b5-4d3c-9a96-93c3365691ac.png?1572490079
 art_match_confidence: high
 needs_manual_review: false
@@ -29,8 +29,8 @@ oracle_text: Menace (This creature can't be blocked except by two or more creatu
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{2}{B}"
 tags:
   - card
-mana_cost: {2}{B}
 ---
 # Belle of the Brawl (Throne of Eldraine)

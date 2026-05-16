@@ -33,7 +33,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/c/1/c1131b87-8e59-47e7-a760-848a455c82b0.png?1562935830
 art_match_confidence: high
 needs_manual_review: false
@@ -48,10 +48,10 @@ image_quality: high
 mood: comedic
 time_of_day: indeterminate
 setting: other
+mana_cost: "{5}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {5}{R}
 ---
 # It That Gets Left Hanging (Unstable)
 

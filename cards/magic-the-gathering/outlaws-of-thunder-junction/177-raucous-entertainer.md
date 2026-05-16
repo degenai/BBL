@@ -29,13 +29,13 @@ tags_filter:
   - scene-mode
   - faces-away
   - creature-lizard
-  - red-magic
+  - green-magic
 reference_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/177-raucous-entertainer.png
 average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/8/d/8dc3cbfe-410f-40e3-8021-647a2efb50bf.png?1712355978
 art_match_confidence: high
 needs_manual_review: false
@@ -50,10 +50,10 @@ image_quality: high
 mood: comedic
 time_of_day: night
 setting: indoor
+mana_cost: "{1}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{G}
 ---
 # Raucous Entertainer (Outlaws of Thunder Junction)
 

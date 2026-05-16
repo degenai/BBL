@@ -31,15 +31,15 @@ tags_filter:
   - close-up
   - forward-facing
   - no-face
-  - black-magic
   - creature-horror
   - lifelink
+  - multicolor-blue-black
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/188-horrid-shadowspinner.png
 average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/6/2/62b69aaf-0aae-4f6e-a27f-0129882dfe1d.png?1717012721
 art_match_confidence: high
 needs_manual_review: false
@@ -51,11 +51,11 @@ oracle_text: Lifelink\nWhenever this creature attacks, you may draw cards equal 
 mood: horror
 time_of_day: indeterminate
 setting: other
+mana_cost: "{1}{U}{B}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {1}{U}{B}
 ---
 # Horrid Shadowspinner (Modern Horizons 3)
 

@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/46-chain-t
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/a/fa0e1a22-8f27-4c5b-a65c-c35abd2ff05b.jpg?1581479320
 flavor_text: Those who do not learn from their mistakes are bound to relive them.
 oracle_text: Target creature gets -4/-0 until end of turn. Scry 2.
+mana_cost: "{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {U}
 ---
 # Chain to Memory (Theros Beyond Death)
 

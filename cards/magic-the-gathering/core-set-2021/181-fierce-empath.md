@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.32
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -48,10 +48,10 @@ artist: Johann Bodin
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/181-fierce-empath--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/7/17bc2af0-5a1d-4319-a285-6a15cf86be83.jpg?1594736962
 oracle_text: When this creature enters, you may search your library for a creature card with mana value 6 or greater, reveal it, put it into your hand, then shuffle.
+mana_cost: "{2}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{G}
 ---
 # Fierce Empath (Core Set 2021)
 

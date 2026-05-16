@@ -34,19 +34,23 @@ average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh2/4_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: KEIICHIRO ITO
 flavor_text: Its two sharp scythes are more than just weapons. It uses them with dexterity to dress its prey before eating.
-oracle_text: "Swords Dance (Colorless): During your next turn, this Pokémon's Blinding Scythe attack does 70 more damage (before applying Weakness and Resistance).\\nBlinding Scythe (Colorless) 20"
+oracle_text: "Swords Dance (Colorless): During your next turn, this Pokémon's Blinding Scythe attack does 70 more damage (before applying Weakness and Resistance)."
+Blinding Scythe (Colorless) 20
 mood: action
 time_of_day: day
 setting: other
 suspected_ip: Scyther
 ip_confidence: high
 ip_verified: true
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

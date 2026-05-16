@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/216-clockwo
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/3/c3af5942-d171-401a-9444-3b59c579e4db.jpg?1572490948
 flavor_text: Some are annoyed by the constant ticking as they clean the cobbles, but to the castle custodians, there's no sweeter sound.
 oracle_text: Adamant — When this creature enters, if at least three mana of the same color was spent to cast it, draw a card.
+mana_cost: "{3}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}
 ---
 # Clockwork Servant (Throne of Eldraine)
 

@@ -33,7 +33,7 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -48,10 +48,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: forest
+mana_cost: "{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {G}
 ---
 # Rosethorn Halberd (Throne of Eldraine)
 

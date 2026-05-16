@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/42-valorous-stee
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/a/aa01cb8c-f080-456b-a91a-f1d7943a70b2.jpg?1594735346
 flavor_text: A unicorn chooses only the most virtuous and noble of knights to be its companion.
 oracle_text: Vigilance (Attacking doesn't cause this creature to tap.)\nWhen this creature enters, create a 2/2 white Knight creature token with vigilance.
+mana_cost: "{4}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{W}
 ---
 # Valorous Steed (Core Set 2021)
 

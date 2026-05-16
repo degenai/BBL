@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-16
 date_added: 2026-05-10
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/6/6/6625df2e-7046-411a-ae86-c46ac0953a0b.png?1717012602
 art_match_confidence: high
 needs_manual_review: false
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/172-temperam
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/6/6625df2e-7046-411a-ae86-c46ac0953a0b.jpg?1717012602
 flavor_text: Its position on the food chain causes great confusion in everyone from hunters to other monsters.
 oracle_text: "{2}{G}: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)\\nModified creatures you control have trample. (Equipment, Auras you control, and counters are modifications.)"
+mana_cost: "{3}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{G}
 ---
 # Temperamental Oozewagg (Modern Horizons 3)
 

@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -53,10 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/240-simic-l
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/9/29c65978-e5b0-428e-aace-f99768ca6106.jpg?1584832182
 flavor_text: \"Like our guild itself, this locket can stand for many things. You must discern what it means for you.\"\n—Vannifar
 oracle_text: "{T}: Add {G} or {U}.\\n{G/U}{G/U}{G/U}{G/U}, {T}, Sacrifice this artifact: Draw two cards."
+mana_cost: "{3}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}
 ---
 # Simic Locket (Ravnica Allegiance)
 

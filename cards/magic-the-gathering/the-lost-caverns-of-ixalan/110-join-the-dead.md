@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/b/5/b5bf6c25-a7d7-40b6-aa19-f852d348967f.png?1699044147
 art_match_confidence: high
 needs_manual_review: false
@@ -52,10 +52,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: dungeon
+mana_cost: "{1}{B}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{B}{B}
 ---
 # Join the Dead (The Lost Caverns of Ixalan)
 

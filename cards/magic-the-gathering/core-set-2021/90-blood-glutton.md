@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/90-blood-glutton
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/8/28ff52a2-4223-4551-b388-b4dd21cc1437.jpg?1594736007
 flavor_text: \"Some savor the hunt. I savor the kill.\"
 oracle_text: Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+mana_cost: "{4}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{B}
 ---
 # Blood Glutton (Core Set 2021)
 

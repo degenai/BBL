@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/a/f/afb16895-6542-405e-9793-154ffc439f23.png?1569418805
 art_match_confidence: high
 needs_manual_review: false
@@ -28,8 +28,8 @@ flavor_text: \"We need to block the exits from the plaza! What's big, heavy, and
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{3}{W}"
 tags:
   - card
-mana_cost: {3}{W}
 ---
 # Ironclad Krovod (War of the Spark)

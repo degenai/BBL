@@ -27,10 +27,10 @@ tags_filter:
   - duo
   - mid-shot
   - three-quarter
-  - white-magic
   - creature
   - eerie
   - scene-mode
+  - blue-magic
 symbols:
   - eerie
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/81-unwilling-vessel.png
@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/5/d/5d1758ed-fe33-4ead-8c83-e54fabcb4cfe.png?1726286151
 art_match_confidence: high
 needs_manual_review: false
@@ -49,11 +49,11 @@ oracle_text: Vigilance\nEerie — Whenever an enchantment you control enters and
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{2}{U}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {2}{U}
 ---
 # Unwilling Vessel (Duskmourn: House of Horror)
 

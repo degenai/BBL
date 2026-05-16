@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
@@ -51,11 +51,11 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/114-scaven
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/0/b0e237c5-45b4-49df-adb9-62b9f3b62986.jpg?1581479949
 flavor_text: Desecrating the dead is a convenient way for harpies to expand their foul collections.
 oracle_text: Flying\nWhen this creature enters, exile target card from an opponent's graveyard.
+mana_cost: "{2}{B}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {2}{B}
 ---
 # Scavenging Harpy (Theros Beyond Death)
 

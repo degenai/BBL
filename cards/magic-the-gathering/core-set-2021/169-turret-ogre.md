@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/169-turret-ogre-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/4/d47e9653-2a3a-4d37-8f3d-3dab4f468338.jpg?1594736852
 flavor_text: "Common Gruul career aspirations: berserker, shaman, catapult."
 oracle_text: Reach (This creature can block creatures with flying.)\nWhen this creature enters, if you control another creature with power 4 or greater, this creature deals 2 damage to each opponent.
+mana_cost: "{3}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{R}
 ---
 # Turret Ogre (Core Set 2021)
 

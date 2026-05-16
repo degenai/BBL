@@ -33,19 +33,23 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh3/23_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: kodama
 flavor_text: During a battle, the hot flame in its body increases. Its kicks have outstanding destructive power.
-oracle_text: "Smash Kick (Fire) 20\\nHeat Beak (FireColorlessColorless) 40: Your opponent's Active Pokémon is now Burned."
+oracle_text: Smash Kick (Fire) 20
+Heat Beak (FireColorlessColorless) 40: Your opponent's Active Pokémon is now Burned.
 mood: action
 time_of_day: indeterminate
 setting: other
 suspected_ip: Combusken
 ip_confidence: high
 ip_verified: true
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.19
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/7/b/7bc014e5-21a3-4023-a8ed-61329a96fb4e.png?1562789662
 art_match_confidence: high
 needs_manual_review: false
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/magic-2015-m15/220-juggernaut-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/b/7bc014e5-21a3-4023-a8ed-61329a96fb4e.jpg?1562789662
 flavor_text: Many a besieged city has surrendered upon hearing the distinctive rumble of the juggernaut.
 oracle_text: This creature attacks each combat if able.\nThis creature can't be blocked by Walls.
+mana_cost: "{4}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}
 ---
 # Juggernaut (Magic 2015 (M15))
 

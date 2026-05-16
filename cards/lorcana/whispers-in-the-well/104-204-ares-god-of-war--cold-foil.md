@@ -36,12 +36,17 @@ average_cost_paid: 0
 market_price: 0.27
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10/104_be50ac9fb22a64cb564ba071e0009c715a2b162b.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Kiersten Hale
 oracle_text: Reckless (This character can't quest and must
+challenge each turn if able.)
+CALL TO BATTLE Once during your turn, whenever
+you put a card under one of your characters or
+locations, you may ready chosen character. If you do,
+that character can't quest for the rest of this turn.
 challenge each turn if able.)
 CALL TO BATTLE Once during your turn, whenever
 you put a card under one of your characters or

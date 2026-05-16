@@ -30,16 +30,16 @@ tags_filter:
   - group
   - mid-shot
   - scene-mode
-  - red-magic
   - enchantment
   - energy
   - token
+  - multicolor-white-red
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/203-scurry-of-gremlins.png
 average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/4/7/470ce8e9-64b9-403c-bee0-66a4c47ca6d4.png?1717012840
 art_match_confidence: high
 needs_manual_review: false
@@ -51,11 +51,11 @@ oracle_text: "When this enchantment enters, create two 1/1 red Gremlin creature 
 mood: comedic
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{2}{R}{W}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {2}{R}{W}
 ---
 # Scurry of Gremlins (Modern Horizons 3)
 

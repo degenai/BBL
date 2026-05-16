@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.26
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -48,6 +48,7 @@ setting: forest
 artist: Simon Dominic
 characters:
   - theros-pantheon
+  - nylea
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/178-mantle-of-the-wolf--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/3/83a786fa-4b86-40f7-ac58-1a05fb38fcdb.jpg?1581480687
 flavor_text: \"Be fearless, for a furious rebirth awaits you.\"\n—Nylea, god of the hunt

@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.32
 market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh2/165_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -45,7 +45,11 @@ artist: Ryo Ueda
 mood: other
 time_of_day: indeterminate
 setting: other
-oracle_text: Put 1 of your Pokémon that isn't a Pokémon V or a Pokémon-GX into your hand. (Discard all attached cards.)\nYou may play any number of Item cards during your turn.
+oracle_text: Put 1 of your Pokémon that isn't a Pokémon V or a Pokémon-GX into your hand. (Discard all attached cards.)
+You may play any number of Item cards during your turn.
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

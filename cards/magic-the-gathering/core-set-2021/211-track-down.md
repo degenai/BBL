@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.27
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/b/4/b41b6c8a-bd76-4b69-ae72-4c8acac379b4.png?1594737287
 art_match_confidence: high
 needs_manual_review: false
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/211-track-down--
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/4/b41b6c8a-bd76-4b69-ae72-4c8acac379b4.jpg?1594737287
 flavor_text: Scents fade and footprints wash away, but some trails can never be erased.
 oracle_text: Scry 3, then reveal the top card of your library. If it's a creature or land card, draw a card. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom and the rest on top in any order.)
+mana_cost: "{1}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{G}
 ---
 # Track Down (Core Set 2021)
 

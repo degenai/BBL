@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.85
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -53,10 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends-battle-for-b
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/2/2299c93e-f3a6-4b41-857b-e3d1aff0f622.jpg?1674142768
 flavor_text: \"You'll never get to the top if you don't know who's already there.\"\n—Kaya
 oracle_text: "{T}: Add {C}.\\n{T}: Add {W} or {B}. This artifact deals 1 damage to you."
+mana_cost: "{2}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}
 ---
 # Talisman of Hierarchy (Commander Legends: Battle for Baldur's Gate)
 

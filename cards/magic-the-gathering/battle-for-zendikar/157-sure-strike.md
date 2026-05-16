@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Battle for Zendikar'
@@ -50,10 +50,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: mountain
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{R}
 ---
 # Sure Strike (Battle for Zendikar)
 

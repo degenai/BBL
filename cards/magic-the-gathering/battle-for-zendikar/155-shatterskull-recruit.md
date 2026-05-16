@@ -33,7 +33,7 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/c/8/c8add5f2-4ccf-4505-86f6-cc36aff1c3fe.png?1562942414
 art_match_confidence: high
 needs_manual_review: false
@@ -48,10 +48,10 @@ image_quality: high
 mood: grim
 time_of_day: twilight
 setting: mountain
+mana_cost: "{3}{R}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{R}{R}
 ---
 # Shatterskull Recruit (Battle for Zendikar)
 

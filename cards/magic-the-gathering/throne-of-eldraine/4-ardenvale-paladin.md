@@ -32,7 +32,7 @@ average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/a/3/a32fa360-6c41-4146-931b-c19e9a766803.png?1572489621
 art_match_confidence: high
 needs_manual_review: false
@@ -47,10 +47,10 @@ image_quality: high
 mood: grim
 time_of_day: night
 setting: forest
+mana_cost: "{3}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{W}
 ---
 # Ardenvale Paladin (Throne of Eldraine)
 

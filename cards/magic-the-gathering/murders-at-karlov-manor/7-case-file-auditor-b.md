@@ -27,16 +27,16 @@ tags_filter:
   - solo
   - mid-shot
   - three-quarter
-  - multicolor-white-blue
   - creature
   - narrative
   - female-figure
+  - white-magic
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/7-case-file-auditor-b.png
 average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/7/0/70a52038-9d1c-4be1-8dbe-6f0ee916ba94.png?1706241461
 art_match_confidence: high
 needs_manual_review: false
@@ -50,10 +50,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{2}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{W}
 ---
 # Case File Auditor (b) (Murders at Karlov Manor)
 

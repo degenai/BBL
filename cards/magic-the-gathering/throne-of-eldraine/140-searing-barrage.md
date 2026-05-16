@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,11 +50,11 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/140-searing
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/2/d2f11135-e9ce-4e4c-bea7-72a46d326e40.jpg?1572490453
 flavor_text: It emerged from the coldest depths of Lochmere only to face the fires of Irencrag.
 oracle_text: Searing Barrage deals 5 damage to target creature.\nAdamant — If at least three red mana was spent to cast this spell, Searing Barrage deals 3 damage to that creature's controller.
+mana_cost: "{4}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {4}{R}
 ---
 # Searing Barrage (Throne of Eldraine)
 

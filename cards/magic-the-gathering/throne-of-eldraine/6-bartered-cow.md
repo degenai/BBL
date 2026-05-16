@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/1/d/1de43c67-7dfe-4282-b433-4e394366d2e9.png?1572489634
 art_match_confidence: high
 needs_manual_review: false
@@ -29,8 +29,8 @@ oracle_text: "When this creature dies and when you discard this card, create a F
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{3}{W}"
 tags:
   - card
-mana_cost: {3}{W}
 ---
 # Bartered Cow (Throne of Eldraine)

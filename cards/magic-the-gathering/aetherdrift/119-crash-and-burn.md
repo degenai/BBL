@@ -31,7 +31,7 @@ average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/3/3/339a41a1-b36f-4b81-b74c-220d279c0e26.png?1738356395
 art_match_confidence: high
 needs_manual_review: false
@@ -46,11 +46,11 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: desert
+mana_cost: "{3}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {3}{R}
 ---
 # Crash and Burn (Aetherdrift)
 

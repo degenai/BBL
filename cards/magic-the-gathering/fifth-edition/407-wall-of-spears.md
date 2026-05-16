@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/fifth-edition/407-wall-of-spea
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/0/60a116c9-2f80-4e76-b158-c23f101872db.jpg?1562591334
 flavor_text: Even the most conservative generals revised their tactics after the Battle of Sarinth, during which a handful of peasant-pikemen held off a trio of rampaging craw wurms.
 oracle_text: Defender (This creature can't attack.)\nFirst strike
+mana_cost: "{3}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}
 ---
 # Wall of Spears (Fifth Edition)
 

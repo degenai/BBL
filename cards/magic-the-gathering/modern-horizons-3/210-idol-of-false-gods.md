@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.29
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/d/5/d5e1ff6d-190a-497f-89c3-35e0979c93b5.png?1717012902
 art_match_confidence: high
 needs_manual_review: false
@@ -53,11 +53,11 @@ oracle_text: "{1}{C}, {T}: Create a 0/1 colorless Eldrazi Spawn creature token w
 mood: horror
 time_of_day: twilight
 setting: other
+mana_cost: "{2}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {2}
 ---
 # Idol of False Gods (Modern Horizons 3)
 

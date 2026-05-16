@@ -41,7 +41,7 @@ average_cost_paid: 0
 market_price: 0.3
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -54,10 +54,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/219-gingerb
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/5/f55fe038-c903-4d92-b689-72dd6d041a91.jpg?1572490972
 flavor_text: The unlabeled vial was not vanilla extract after all.
 oracle_text: "Haste (This creature can attack and {T} as soon as it comes under your control.)\\n{1}: This creature can't be blocked this turn except by creatures with haste.\\n{2}, {T}, Sacrifice this creature: You gain 3 life."
+mana_cost: "{1}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}
 ---
 # Gingerbrute (Throne of Eldraine)
 

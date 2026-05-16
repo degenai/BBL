@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/0/f/0f244233-f2e8-48f8-9106-e7cd186efd51.png?1557576268
 art_match_confidence: high
 needs_manual_review: false
@@ -28,8 +28,8 @@ flavor_text: \"I recognize that headdress. This one was feared even by her fello
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{2}{U}"
 tags:
   - card
-mana_cost: {2}{U}
 ---
 # Naga Eternal (War of the Spark)

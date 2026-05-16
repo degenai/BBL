@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/10-divine-arr
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/3/73cbb58a-1b00-4883-9b45-da7ded7317e3.jpg?1557575917
 flavor_text: Ravnica's defenders watched in horror as Oketra's shot pierced the body of the pegasus. Gideon tumbled through the air, Blackblade in hand.
 oracle_text: Divine Arrow deals 4 damage to target attacking or blocking creature.
+mana_cost: "{1}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{W}
 ---
 # Divine Arrow (War of the Spark)
 

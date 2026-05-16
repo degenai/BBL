@@ -37,18 +37,22 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh4/151_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: 5ban Graphics
-oracle_text: Your opponent reveals their hand. If they do, look at the top card of your opponent's deck.\nYou may play any number of Item cards during your turn.
+oracle_text: Your opponent reveals their hand. If they do, look at the top card of your opponent's deck.
+You may play any number of Item cards during your turn.
 mood: action
 time_of_day: indeterminate
 setting: void
 suspected_ip: Rotom
 ip_confidence: high
 ip_verified: true
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

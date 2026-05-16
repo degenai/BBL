@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.19
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/3/e/3e86ef50-4939-4e7c-853d-438f0f3e0411.png?1738356253
 art_match_confidence: high
 needs_manual_review: false
@@ -51,11 +51,11 @@ oracle_text: "Start your engines! (If you have no speed, it starts at 1. It incr
 mood: comedic
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{1}{U}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {1}{U}
 ---
 # Slick Imitator (Aetherdrift)
 

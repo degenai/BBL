@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/7/5/75c85fa4-862d-4f94-9531-b62775838ab9.png?1562922839
 art_match_confidence: high
 needs_manual_review: false
@@ -46,10 +46,10 @@ oracle_text: Destroy target tapped creature.\nAwaken 3—{5}{W} (If you cast thi
 mood: action
 time_of_day: day
 setting: desert
+mana_cost: "{2}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{W}
 ---
 # Sheer Drop (Battle for Zendikar)
 

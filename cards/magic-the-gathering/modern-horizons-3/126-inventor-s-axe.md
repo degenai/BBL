@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/3/b/3b2f918c-bd02-4a63-b4c2-ca204c77b208.png?1717012217
 art_match_confidence: high
 needs_manual_review: false
@@ -28,8 +28,8 @@ oracle_text: Flash\nWhen this Equipment enters, you get {E}{E} (two energy count
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{R}"
 tags:
   - card
-mana_cost: {R}
 ---
 # Inventor's Axe (Modern Horizons 3)

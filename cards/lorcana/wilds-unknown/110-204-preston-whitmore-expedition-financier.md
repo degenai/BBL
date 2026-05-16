@@ -37,14 +37,17 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set12/110_7546aa858e08919c05a82645796568258af724a6.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: French Carlomagno
 flavor_text: “I promised all of you I'd keep your secrets. And
 Preston Whitmore always keeps a promise.”
+Preston Whitmore always keeps a promise.”
 oracle_text: PRICE OF PROGRESS When you play this
+character, you may put the top 2 cards of your
+deck into your discard.
 character, you may put the top 2 cards of your
 deck into your discard.
 image_width: 1468

@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.23
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/c/e/ceb7308d-608c-4ede-9496-d795fc5bb271.png?1572489928
 art_match_confidence: high
 needs_manual_review: false
@@ -28,8 +28,8 @@ flavor_text: Merfolk curiosity usually has dire consequences, but rarely for the
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{U} // {U}"
 tags:
   - card
-mana_cost: {U} // {U}
 ---
 # Merfolk Secretkeeper (Throne of Eldraine)

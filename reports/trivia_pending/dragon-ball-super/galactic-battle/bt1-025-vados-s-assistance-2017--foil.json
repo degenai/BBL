@@ -1,0 +1,41 @@
+{
+  "card_name": "Vados's Assistance (2017)",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-025",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card title is 'Vados's Assistance' — the card explicitly names Vados. Vision description (tall slender figure in white and teal robes, holding a long ornate staff, extending arm with radiating green energy against a cosmic backdrop) matches Vados's canonical appearance: white hair in ponytail, light blue skin, green uniform, and her signature staff. Auto-verify: name on card + visual signature identifiers match.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT1-025 is from Galactic Battle (DBS-B01), the inaugural booster set of the Dragon Ball Super Card Game, released July 28, 2017. The set contains 114 cards and was the first competitive-legal product in the game, establishing the format's baseline. Vados's Assistance is a Common-rarity EXTRA card.",
+      "sources": ["PSA Set Registry: DBS BT1", "dbs-cardgame.com card search", "bleedingcool.com checklist"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Vados is an Angel and the attendant/martial arts trainer of Champa, the God of Destruction of Universe 6. She is one of the twelve children of the Grand Minister and the older sister of Whis (attendant to Beerus, God of Destruction of Universe 7). Her power is stated to be at or above Whis's level, making her one of the strongest beings in the Dragon Ball Super cosmology.",
+      "sources": ["Dragon Ball Wiki (Fandom): Vados", "WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "In the DBS card game, BT1-025 is a red-color EXTRA card with 1 energy cost. Its skill negates an attack, then allows you to switch up to 1 of your Battle Cards to Active Mode — a defensive tempo play consistent with Vados's role as a support/attendant figure in the anime.",
+      "sources": ["dbs-cardgame.com card search BT1-025", "totalcards.net product listing"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Vados debuted in the Dragon Ball Super manga and anime alongside the Universe 6 arc, which introduced the Tournament of Destroyers premise that became a recurring format for the series. She also appears in Dragon Ball Super: Broly (2018). Being in the launch set BT1 reflects her prominence as a new iconic character in the DBS era.",
+      "sources": ["Dragon Ball Wiki (Fandom): Vados"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bewitching God Vados", "set": "Galactic Battle", "note": "Second Vados card in BT1 (BT1-002); higher rarity treatment of the same character"},
+    {"name": "Champa", "set": "Galactic Battle", "note": "Vados's principal — God of Destruction of Universe 6; likely in BT1 given his prominence in the Universe 6 arc"},
+    {"name": "Whis", "set": "Galactic Battle", "note": "Vados's younger brother and Beerus's attendant; parallel character in the same cosmological role"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

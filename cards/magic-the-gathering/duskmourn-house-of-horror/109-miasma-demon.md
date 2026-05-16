@@ -32,7 +32,7 @@ average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/6/d/6d167c00-75ff-4301-855a-8319b89e3689.png?1726286255
 art_match_confidence: high
 needs_manual_review: false
@@ -47,10 +47,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: void
+mana_cost: "{4}{B}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{B}{B}
 ---
 # Miasma Demon (Duskmourn: House of Horror)
 

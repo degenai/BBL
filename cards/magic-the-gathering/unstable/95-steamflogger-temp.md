@@ -31,7 +31,7 @@ average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/4/2/42a67262-a5f9-4830-97df-ecaaff2badc1.png?1562908763
 art_match_confidence: high
 needs_manual_review: false
@@ -46,10 +46,10 @@ image_quality: high
 mood: comedic
 time_of_day: indeterminate
 setting: dungeon
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{R}
 ---
 # Steamflogger Temp (Unstable)
 

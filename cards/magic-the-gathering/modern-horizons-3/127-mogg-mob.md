@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/f/1/f1457aa8-9f70-4586-b595-6a722879f6ae.png?1717012226
 art_match_confidence: high
 needs_manual_review: false
@@ -47,12 +47,12 @@ oracle_text: "Sacrifice this creature: It deals 3 damage divided as you choose a
 mood: comedic
 time_of_day: dawn
 setting: mountain
+mana_cost: "{R}{R}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
   - ip-pending
-mana_cost: {R}{R}{R}
 ---
 # Mogg Mob (Modern Horizons 3)
 

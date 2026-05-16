@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
@@ -56,11 +56,11 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/115-soulre
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/5/55e2f383-d2a0-4424-bf7a-79e82d6f691f.jpg?1616399505
 flavor_text: \"We offer to Mogis the blood of the weak, and in return he makes us strong.\"
 oracle_text: "{2}{B}, Sacrifice a creature: Draw a card."
+mana_cost: "{2}{B}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {2}{B}
 ---
 # Soulreaper of Mogis (Theros Beyond Death)
 

@@ -35,19 +35,23 @@ average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/sm12/41_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Shigenori Negishi
 flavor_text: Even fast-swimming fish Pokémon can be disabled by Golduck. It brings them to a standstill and seizes them.
-oracle_text: "Scratch (Colorless) 30\\nEnergy Loop (WaterColorless) 80: Put an Energy attached to this Pokémon into your hand."
+oracle_text: Scratch (Colorless) 30
+Energy Loop (WaterColorless) 80: Put an Energy attached to this Pokémon into your hand.
 mood: action
 time_of_day: day
 setting: ocean
 suspected_ip: Golduck (Pokémon)
 ip_confidence: high
 ip_verified: false
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

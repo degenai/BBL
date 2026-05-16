@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.33
 market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/0/d/0d87927c-80a6-4146-92a5-58c510ce7958.png?1561815780
 art_match_confidence: high
 needs_manual_review: false
@@ -51,10 +51,10 @@ image_quality: high
 mood: horror
 time_of_day: night
 setting: void
+mana_cost: "{1}{U}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{U}{B}
 ---
 # Psychic Strike (Gatecrash)
 

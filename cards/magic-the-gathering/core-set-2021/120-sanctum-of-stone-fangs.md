@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 1.61
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,11 +51,11 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/120-sanctum-of-s
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/1/d1439412-618c-483d-89b9-5ea37f0f1edc.jpg?1594736357
 flavor_text: Renounce all limits,\nFalse chains binding potential.\nPower knows no bounds.
 oracle_text: At the beginning of your first main phase, each opponent loses X life and you gain X life, where X is the number of Shrines you control.
+mana_cost: "{1}{B}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {1}{B}
 ---
 # Sanctum of Stone Fangs (Core Set 2021)
 

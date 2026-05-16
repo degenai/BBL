@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/9/e/9e6da400-ee4e-44d1-887d-1e2fb59b9322.png?1562932470
 art_match_confidence: high
 needs_manual_review: false
@@ -50,10 +50,10 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: desert
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{R}
 ---
 # Makindi Sliderunner (Battle for Zendikar)
 

@@ -28,8 +28,6 @@ tags_filter:
   - mid-shot
   - portrait
   - three-quarter
-  - black-magic
-  - red-magic
   - multicolor-black-red
   - creature-orc-rogue
   - disguise
@@ -40,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/0/d/0de36e63-8190-415f-b65b-bae1e595845d.png?1706242250
 art_match_confidence: high
 needs_manual_review: false
@@ -52,10 +50,10 @@ oracle_text: When this creature dies, it deals 2 damage to any target.\nDisguise
 mood: grim
 time_of_day: indeterminate
 setting: dungeon
+mana_cost: "{3}{B}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{B}{R}
 ---
 # Shady Informant (Murders at Karlov Manor)
 

@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/5/e/5e7d552f-a7ac-4a49-a582-9d378137005f.png?1726286805
 art_match_confidence: high
 needs_manual_review: false
@@ -50,10 +50,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{3}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}
 ---
 # Haunted Screen (Duskmourn: House of Horror)
 

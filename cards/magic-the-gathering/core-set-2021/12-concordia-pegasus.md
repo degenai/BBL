@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/6/0/600d3517-e370-47ae-ac4f-c7ef8995a89c.png?1594734840
 art_match_confidence: high
 needs_manual_review: false
@@ -52,11 +52,11 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/12-concordia-peg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/0/600d3517-e370-47ae-ac4f-c7ef8995a89c.jpg?1594734840
 flavor_text: In the cloudy skies and dim light of autumn, a flash of white wings is a reminder that better times lie ahead.
 oracle_text: Flying
+mana_cost: "{1}{W}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {1}{W}
 ---
 # Concordia Pegasus (Core Set 2021)
 

@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/7/3/732797d3-59e1-4fff-bcf0-22c2606a7a5f.png?1673305528
 art_match_confidence: low
 needs_manual_review: true
@@ -25,11 +25,10 @@ manual_review_reason: "Set 'Commander: Dominaria United' did not match a known s
 review_good: false
 review_bad: false
 review_notes: ""
+mana_cost: "{3}{B}{R}"
 tags:
   - card
   - manual-review
-
-mana_cost: {3}{B}{R}
 ---
 # Garna, the Bloodflame (Commander: Dominaria United)
 

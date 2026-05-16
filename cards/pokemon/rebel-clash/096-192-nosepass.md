@@ -37,13 +37,14 @@ average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh2/96_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Miki Tanaka
 flavor_text: It hunts without twitching a muscle by pulling in its prey with powerful magnetism. But sometimes it pulls natural enemies in close.
-oracle_text: Tackle (Colorless) 10\nRolling Tackle (ColorlessColorlessColorless) 50
+oracle_text: Tackle (Colorless) 10
+Rolling Tackle (ColorlessColorlessColorless) 50
 mood: peaceful
 time_of_day: day
 setting: other
@@ -51,6 +52,9 @@ subject_known_ip: true
 suspected_ip: Nosepass
 ip_confidence: high
 ip_verified: true
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

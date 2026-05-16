@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/b/b/bbdb095d-b826-4e3e-8c61-0d408e52d6b8.png?1717012693
 art_match_confidence: high
 needs_manual_review: false
@@ -52,11 +52,11 @@ oracle_text: "{B}{G}: Adapt 1. (If this creature has no +1/+1 counters on it, pu
 mood: horror
 time_of_day: day
 setting: urban
+mana_cost: "{1}{B}{G}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {1}{B}{G}
 ---
 # Expanding Ooze (Modern Horizons 3)
 

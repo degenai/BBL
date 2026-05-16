@@ -37,8 +37,6 @@ tags_filter:
   - portrait-mode
   - creature-vampire
   - multicolor-white-black
-  - white-magic
-  - black-magic
   - lifegain
   - extort
   - indoor-scene
@@ -47,7 +45,7 @@ average_cost_paid: 0
 market_price: 0.25
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

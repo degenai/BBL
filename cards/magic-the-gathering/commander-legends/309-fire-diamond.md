@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.39
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/309-fire-dia
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/f/3f65f1fa-4196-40ba-8ca3-e68560fef392.jpg?1608911413
 flavor_text: The essence of flame to stoke the spirit.
 oracle_text: "This artifact enters tapped.\\n{T}: Add {R}."
+mana_cost: "{2}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}
 ---
 # Fire Diamond (Commander Legends)
 

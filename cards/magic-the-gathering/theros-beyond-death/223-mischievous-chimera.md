@@ -29,8 +29,6 @@ tags_filter:
   - three-quarter
   - action-mode
   - no-face-human
-  - blue-magic
-  - red-magic
   - multicolor-blue-red
   - enchantment
   - creature-chimera
@@ -41,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -54,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/223-mischi
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/8/f8a3df0e-4ee8-458b-adf5-56aca20493e9.jpg?1581481116
 flavor_text: Some curiosities are best left alone.
 oracle_text: Flying\nWhenever you cast your first spell during each opponent's turn, this creature deals 1 damage to each opponent. Scry 1.
+mana_cost: "{U}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {U}{R}
 ---
 # Mischievous Chimera (Theros Beyond Death)
 

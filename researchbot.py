@@ -290,6 +290,30 @@ SET_NAME_ALIASES = {
     "commander: zendikar rising": "znc",
 }
 
+# Hand-curated aliases for Collectr-style Pokémon set names that differ from
+# PokemonTCG.io's canonical `set.name` strings. Collectr appends " Base Set"
+# to first-in-generation sets; PokemonTCG.io uses the plain short name.
+# Add entries here when a Pokémon set keeps showing up in the manual-review
+# queue from set-name mismatch. Wave 96.9 Nurse Joy fix.
+# All entries below probe-verified against PokemonTCG.io /v2/sets endpoint.
+# Note: "Blister Exclusives", "Trading Card Game Classic", "SM Trainer Kit:
+# Lycanroc & Alolan Raichu", "Trick or Trade BOOster Bundle" — these are NOT
+# in PokemonTCG.io's set index (retail packaging, Japanese-only, or otherwise
+# absent). They require curator-side resolution per card. No alias possible.
+POKEMON_SET_NAME_ALIASES = {
+    # Generation 8 (Sword & Shield era)
+    "sword & shield base set": "Sword & Shield",
+    # Generation 7 (Sun & Moon era)
+    "sun & moon base set": "Sun & Moon",
+    # Generation 6 (XY era)
+    "xy base set": "XY",
+    # Generation 1 — original is "Base" (no "Set" suffix in PokemonTCG.io)
+    "base set (unlimited)": "Base",
+    # Promotional / event sets
+    "mcdonald's promos 2022": "McDonald's Collection 2022",
+    "mcdonald's promos 2021": "McDonald's Collection 2021",
+}
+
 # Pattern: trailing " (XXX)" parenthetical — Collectr writes "Magic 2014 (M14)" while
 # Scryfall's set_map key is just "Magic 2014". Strip and retry.
 _SET_PAREN_SUFFIX_RE = re.compile(r"\s*\([^)]*\)\s*$")
@@ -591,7 +615,16 @@ def find_image_pokemontcg(card_name: str, set_name: str = "",
     Number-pinning (wave 92.5): when both set_name AND collector_number are
     provided, prefer a number-pinned query that cannot be impostored by
     substring-name siblings (Switch vs Energy Switch, Potion vs Max Potion,
-    etc). Falls back to name-only fuzzy match if pinned query misses."""
+    etc). Falls back to name-only fuzzy match if pinned query misses.
+
+    Set-name aliasing (wave 96.9): Collectr-style set names (e.g.
+    'Sword & Shield Base Set') get translated to PokemonTCG.io canonical
+    names ('Sword & Shield') via POKEMON_SET_NAME_ALIASES before any
+    set.name: filter is formed. Unrecognized names pass through untouched."""
+    # Resolve Collectr-style set name to PokemonTCG.io canonical name.
+    if set_name:
+        set_name = POKEMON_SET_NAME_ALIASES.get(set_name.lower().strip(), set_name)
+
     def _query(q: str) -> tuple[dict | None, str | None, str, str]:
         """Returns (raw_card, img_url, number, artist) — raw_card lets the
         caller pull flavor/oracle text without a second API call."""
@@ -790,11 +823,27 @@ def _load_lorcana_index() -> dict:
             return _LORCANA_INDEX
     data = json.loads(LORCANA_CACHE.read_text(encoding="utf-8"))
     by_key: dict[tuple, dict] = {}
+    # Promo-losing tiebreak (wave 96.6 Nurse Joy fix): LorcanaJSON can have
+    # multiple cards sharing (setCode, number) when a promo print collides with
+    # a standard print. E.g., WTW-36 The Horned King (id 2225) collides with
+    # the Scrooge McDuck Gift Box promo (id 2714, promoGrouping P3). The promo
+    # appears later in the array and silently overwrote the standard print via
+    # the previous unconditional assignment. Standard prints always win now.
+    def _is_promo(card: dict) -> bool:
+        return bool(card.get("promoGrouping") or card.get("promoSource"))
     for c in data.get("cards", []):
         sc = str(c.get("setCode", ""))
         num = c.get("number")
-        if sc and num is not None:
-            by_key[(sc, int(num))] = c
+        if not (sc and num is not None):
+            continue
+        key = (sc, int(num))
+        existing = by_key.get(key)
+        if existing is None:
+            by_key[key] = c
+            continue
+        # Collision: standard print beats promo.
+        if _is_promo(existing) and not _is_promo(c):
+            by_key[key] = c
     set_name_to_code: dict[str, str] = {}
     for code, sinfo in data.get("sets", {}).items():
         name = (sinfo.get("name") or "").strip()

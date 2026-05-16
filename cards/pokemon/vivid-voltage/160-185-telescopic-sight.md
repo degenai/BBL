@@ -33,15 +33,20 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh4/160_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Toyste Beach
-oracle_text: Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.\nThe attacks of the Pokémon this card is attached to do 30 more damage to your opponent's Benched Pokémon V and Benched Pokémon-GX.\nYou may play any number of Item cards during your turn.
+oracle_text: Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.
+The attacks of the Pokémon this card is attached to do 30 more damage to your opponent's Benched Pokémon V and Benched Pokémon-GX.
+You may play any number of Item cards during your turn.
 mood: other
 time_of_day: indeterminate
 setting: other
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

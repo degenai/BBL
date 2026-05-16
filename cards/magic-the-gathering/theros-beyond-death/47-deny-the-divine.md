@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.16
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -48,10 +48,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/47-deny-th
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/2/1200f68a-a8ea-4777-b6b0-de48b2203fd1.jpg?1588900840
 flavor_text: \"A great wave crashed, and a mighty wind blew out the stars.\"\n—*The Cosmogony*
 oracle_text: Counter target creature or enchantment spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+mana_cost: "{2}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{U}
 ---
 # Deny the Divine (Theros Beyond Death)
 

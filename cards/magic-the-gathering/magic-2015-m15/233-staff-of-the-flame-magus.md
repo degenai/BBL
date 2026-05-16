@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/0/f/0fd137db-296a-4c17-ba46-8b189d96c1f9.png?1562782719
 art_match_confidence: high
 needs_manual_review: false
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/magic-2015-m15/233-staff-of-th
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/f/0fd137db-296a-4c17-ba46-8b189d96c1f9.jpg?1562782719
 flavor_text: A symbol of passion in indifferent times.
 oracle_text: Whenever you cast a red spell or a Mountain you control enters, you gain 1 life.
+mana_cost: "{3}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}
 ---
 # Staff of the Flame Magus (Magic 2015 (M15))
 

@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/9/0/90a1f830-d19a-4ebf-9573-09b677693dd6.png?1562832317
 art_match_confidence: high
 needs_manual_review: false
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/magic-2014-m14/222-staff-of-th
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/0/90a1f830-d19a-4ebf-9573-09b677693dd6.jpg?1562832317
 flavor_text: A symbol of conviction in uncertain times.
 oracle_text: Whenever you cast a white spell or a Plains you control enters, you gain 1 life.
+mana_cost: "{3}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}
 ---
 # Staff of the Sun Magus (Magic 2014 (M14))
 

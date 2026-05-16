@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/55-cunning-gey
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/2/2217f0a9-5af5-45cc-8cf7-8878d4f66dd8.jpg?1604193977
 flavor_text: \"Come on, Skitch, we'll lose them in the geyserfield.\"
 oracle_text: Kicker {2}{U} (You may pay an additional {2}{U} as you cast this spell.)\nWhen this creature enters, if it was kicked, return up to one other target creature to its owner's hand.
+mana_cost: "{2}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{U}
 ---
 # Cunning Geysermage (Zendikar Rising)
 

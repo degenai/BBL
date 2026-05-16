@@ -28,14 +28,14 @@ tags_filter:
   - scene-mode
   - forward-facing
   - creature-human
-  - white-magic
   - crowd
+  - green-magic
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/171-pompous-gadabout.png
 average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/6/d/6d803b93-c1df-4a02-9dbb-d347c841d4d7.png?1706242068
 art_match_confidence: high
 needs_manual_review: false
@@ -50,10 +50,10 @@ image_quality: high
 mood: comedic
 time_of_day: day
 setting: urban
+mana_cost: "{2}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{G}
 ---
 # Pompous Gadabout (Murders at Karlov Manor)
 

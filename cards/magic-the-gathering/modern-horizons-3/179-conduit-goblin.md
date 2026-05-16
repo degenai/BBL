@@ -26,14 +26,14 @@ tags_filter:
   - mid-shot
   - forward-facing
   - male-figure
-  - red-magic
   - creature-goblin
+  - multicolor-white-red
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/179-conduit-goblin.png
 average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/5/c/5c9ad04d-c4d4-4d06-93bb-a881be733717.png?1717012655
 art_match_confidence: high
 needs_manual_review: false
@@ -48,10 +48,10 @@ image_quality: high
 mood: action
 time_of_day: storm
 setting: other
+mana_cost: "{R}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {R}{W}
 ---
 # Conduit Goblin (Modern Horizons 3)
 

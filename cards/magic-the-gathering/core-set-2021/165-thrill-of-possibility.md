@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -49,10 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/165-thrill-of-po
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/4/f4af156d-0fbf-4a4e-b0c1-db7e95be4903.jpg?1594736817
 flavor_text: \"Right now, in these first moments of creation, it is simultaneously nothing and everything.\"
 oracle_text: As an additional cost to cast this spell, discard a card.\nDraw two cards.
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{R}
 ---
 # Thrill of Possibility (Core Set 2021)
 

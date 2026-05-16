@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/e/b/ebadb7dc-69a4-43c9-a2f8-d846b231c71c.png?1717239624
 art_match_confidence: high
 needs_manual_review: false
@@ -49,12 +49,12 @@ oracle_text: (As this Saga enters and after your draw step, add a lore counter. 
 mood: action
 time_of_day: indeterminate
 setting: mountain
+mana_cost: "{3}{R}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
   - ip-pending
-mana_cost: {3}{R}{R}
 ---
 # Ral and the Implicit Maze (Modern Horizons 3)
 

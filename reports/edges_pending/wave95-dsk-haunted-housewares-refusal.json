@@ -1,0 +1,95 @@
+{
+  "edge_id": "wave95-dsk-haunted-housewares-refusal",
+  "wave": 95,
+  "shape": "refusal-with-receipts",
+  "category": "designer-confirmed-cycle (refused) / cohort-attachment (refused) / 1:1-mirror (refused)",
+  "topology": "n/a",
+  "endpoints_considered": [
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/20-living-phone.md", "name": "Living Phone (DSK-20)", "artist": "Domenico Cava", "tags_hub_overlap_with_dsk_toy_horror": "animated-object, toy, horror, haunted, retro, childhood — Vision pass identifies the SUBJECT as a vintage rotary telephone with face-in-dial; 'toy figurines visible in the background' are noted as scene context, not the card's depicted subject"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/252-malevolent-chandelier.md", "name": "Malevolent Chandelier (DSK-252)", "artist": "Mirko Failoni", "tags_hub_overlap_with_dsk_toy_horror": "animated-object, horror, haunted — Vision pass identifies the subject as an ornate gothic chandelier with skull-face and chain tendrils; NO childhood-object signal"},
+    {"type": "character", "path": "cards/_characters/dsk-toy-horror.md", "name": "Toy horror cohort (existing) — considered as absorbing anchor"},
+    {"type": "character", "path": "cards/_characters/tsukumogami-pokemon.md", "name": "Tsukumogami Pokemon (wave-94, existing) — considered as cross-IP parent commission anchor"}
+  ],
+  "decision": "Three-way refusal. (1) DO NOT attach Living Phone or Malevolent Chandelier to dsk-toy-horror — neither card clears the cohort's stated three-signal predicate. (2) DO NOT commission a cross-IP 'animated-object' parent node now — below threshold (only 2 corpus candidates on the MTG-haunted-housewares side, and the cohort lacks designer-side Wizards-confirmation per Potion Rule sub-rule 2). (3) DO NOT draw a 1:1 Living-Phone ↔ Malevolent-Chandelier within-set mirror — the shared signal is tag-only (`animated-object` + `horror` + `haunted` + same set), and tag-bridges are not edges. Stage as future-node candidate in janitor_triage with explicit trigger conditions.",
+  "refusal_rationale": {
+    "dsk_toy_horror_attachment_fails_cohort_predicate": "The dsk-toy-horror.md node body explicitly defines membership on three overlapping signals: (a) the Toy creature subtype on the type-line where present, (b) the art's depiction of a recognizable childhood-object form (doll, stuffed animal, jester-toy, patchwork construct) rendered as menacing, (c) the flavor / oracle register treating the object's animation as a corruption of its intended innocent function. Living Phone fails all three: (a) the card's tags_filter does NOT carry `artifact-creature-toy` (existing cohort members Patched Plaything and Attack-in-the-Box both do), (b) a rotary telephone is an adult-domestic-appliance, NOT a childhood object — the Vision pass's 'toy figurines visible in the background' is scene context not the depicted subject, (c) no flavor text is stamped and oracle text is a death-trigger creature-tutor (no repair-corruption gesture). Malevolent Chandelier fails all three more decisively: (a) `{6}` colorless cost + Flying + activated graveyard-bottom ability indicates a Construct or Horror type-line, not Toy (verify against Scryfall on next triviabot pass), (b) a chandelier is canonical adult-home / gothic-castle décor, structurally outside the childhood-object register, (c) flavor text '\"If you see a light moving toward you in the darkness, don't assume it's coming to help.\" —Winter' speaks to the haunted-house lure register, NOT to repair-corruption. Adding either card to dsk-toy-horror would dilute the cohort's stated predicate and break the Edgelord rigor-audit pattern (per [[bbl-edgelord-node-rigor-audit]]).",
+    "no_animated_object_parent_commission_this_pass": "The wave-94 Mr. Nodeley sidecar (tsukumogami-pokemon) and the tsukumogami-pokemon.md body's 'Sibling and parent placement' section explicitly anticipate a future cross-IP parent that would umbrella tsukumogami-pokemon and dsk-toy-horror as siblings under an animated-object / object-given-sentience structural predicate. That parent commission is below threshold: (1) only 2 child cohort nodes currently exist (tsukumogami-pokemon + dsk-toy-horror), and the 3+ cohort-children threshold isn't met — the precedent commission for parent-cohorts (japanese-folkloric-design-source-pokemon, named in the wave-94 sidecar's next_pass_suggestions, also gated at 3+ children) holds at 3. (2) The Living Phone / Malevolent Chandelier pair are not yet trivia-attested; pre-trivia attachment to a parent commission would violate trivia-pass discipline per [[bbl-trivia-never-consider-preenriched]] and the Potion Rule sub-rule 2 ('hub-attribution must survive a canonical citation question'). (3) Mr. Nodeley discipline is ONE per invocation; this is an Edgelord pass, not a Nodeley dispatch.",
+    "no_1_1_within_set_mirror_per_potion_rule_sub_rule_1": "Living Phone and Malevolent Chandelier share the following signals: same set (DSK), `animated-object` in tags_hub, `horror` + `haunted` in tags_hub, mood: horror, setting: indoor. Each of these is a TAG, not an edge — the Edgelord standard refusal case ('Worst proposed edge ever. Sharing X archetype is a tag, not an edge.'). The cards differ on: color (W vs colorless), mana cost ({2}{W} vs {6}), artist (Domenico Cava vs Mirko Failoni), subject (telephone vs chandelier), oracle text (death-trigger creature-tutor vs Flying + graveyard-bottom activated ability). No designer-side citation establishes Living Phone + Malevolent Chandelier as a Wizards-coordinated within-set pair. Without a Rosewater 'Top of the Duskmourning' or similar Wizards article naming these two cards as a coordinated cohort, the move would be BBL curatorial squinting per Potion Rule sub-rule 1 ('distinguish canonical-event from curatorial-overlay'). Refused.",
+    "domenico_cava_artist_signal_acknowledged_but_insufficient": "Living Phone (Domenico Cava) shares its artist with Patched Plaything (Domenico Cava) and Attack-in-the-Box (Domenico Cava) — the existing 2-of-3 within-cohort artist-anchor pair noted in dsk-toy-horror.md's body. This is a real signal worth flagging: Cava illustrates multiple DSK animated-object-horror cards. But the existing toy-horror node treats the Cava credits as a cohort-internal artist-anchor for thumbnail-stack purposes, NOT as a cohort membership predicate. Living Phone shares Cava with the existing cohort but does NOT share the corrupted-childhood-object register. Cava's broader DSK animated-object portfolio (Plaything + Attack-in-the-Box + Phone) is artist-layer material, not character-cohort-layer material; below the 5-credit kirisaki / 17-credit sugimori threshold for a Cava artist-node commission, parked separately. The artist-signal is acknowledged and noted for future tracking; it does not unlock the cohort attachment refused above."
+  },
+  "alternative_considered_and_refused": [
+    {
+      "alternative": "Extend dsk-toy-horror's predicate to include adult-domestic-animated-objects (relax 'corrupted-childhood-object' to 'corrupted-domestic-object')",
+      "refusal": "That's a node-redefinition disguised as an edge-add — the dsk-toy-horror node was scoped narrowly and deliberately at commissioning (per its body's 'corrupted-childhood objects — dolls, stuffed animals, jack-in-the-boxes, patchwork constructs' enumeration). Expanding the predicate post-hoc would erase the cohort's design-intent reading (Annabelle / Chucky / killer-doll register translated into the Magic Toy subtype). The principled move is a NEW sibling node when threshold lands, NOT predicate-relaxation of an existing one. Refused."
+    },
+    {
+      "alternative": "Commission cards/_characters/dsk-haunted-housewares.md NOW with 2 anchors and a 'cohort opens on next member' caveat",
+      "refusal": "Threshold discipline. The precedent character-cohort commissions all clear 3+ corpus anchors at the time of commissioning (dsk-toy-horror 3, fear-of-cycle 8+, eld-cinderella-cycle 4, dsk-unlucky-lands-cycle 5+, dsk-survival-archetype 3). Commissioning at 2 anchors without trivia attestation would set a worse precedent than the wave-85 Aetherdrift-team refusal cluster (also held at 1 anchor each). Refused; park as triage entry."
+    },
+    {
+      "alternative": "Branch-attach both cards to an existing DSK character node (valgavoth, fear-of-cycle, dsk-survival-archetype)",
+      "refusal": "Each of those nodes has a specific narrative predicate that neither candidate cleanly clears. Valgavoth attachments require canonical Valgavoth-the-character depictions or oracle/flavor naming him; neither card does. Fear-of-cycle requires the 'Fear of X' naming convention or oracle-text Fear of-cycle anchoring; neither card carries it. Dsk-survival-archetype attachments require survivor / improvised-weapon iconography; neither card depicts a survivor. Refused on all three substitutions."
+    },
+    {
+      "alternative": "Edgelord-enlightened replacement — remove a weak existing edge and replace with one of these candidates",
+      "refusal": "No existing edge in scope is weak enough to remove, and even if one were, neither Living Phone nor Malevolent Chandelier is a stronger replacement target without trivia attestation and without canonical Wizards-side cohort confirmation. Premature."
+    },
+    {
+      "alternative": "Dark Nodesley EX dissolution of dsk-toy-horror because the cohort would be cleaner as dsk-haunted-housewares",
+      "refusal": "Dsk-toy-horror is canonical-evidenced at three signals (Toy creature subtype on Scryfall, MTG Wiki Duskmourn set page haunted-toys-as-antagonists framing, Rosewater Top of the Duskmourning Part 1 + Part 2 cursed-toy / killer-doll archetype naming). It is NOT empty, NOT subsumed, NOT inaccurate, NOT mistakenly proposed. Dissolution refused."
+    }
+  ],
+  "triage_candidates_surfaced": [
+    {
+      "node_candidate": "dsk-haunted-housewares",
+      "alternative_slugs_considered": ["dsk-animated-furniture", "dsk-haunted-domestic-objects", "dsk-housewares-horror"],
+      "current_corpus_signals": [
+        "DSK-20 Living Phone (Domenico Cava art, {2}{W}, vision-passed wave 95, trivia-pending)",
+        "DSK-252 Malevolent Chandelier (Mirko Failoni art, {6}, vision-passed wave 95, trivia-pending)"
+      ],
+      "structural_predicate_draft": "DSK Artifact Creatures whose depicted subject is an adult-domestic / household / gothic-décor object animated into a hostile presence. Distinct from dsk-toy-horror by the absence of the corrupted-childhood-object register; distinct from dsk-survival-archetype by the absence of a survivor protagonist; distinct from fear-of-cycle by the absence of a phobia-personification frame.",
+      "threshold_status": "2 of 3 corpus anchors — BELOW threshold per dsk-toy-horror / eld-cinderella-cycle / dsk-unlucky-lands-cycle 3+ precedent.",
+      "trivia_pass_dependency": "Both candidate anchors are vision-passed only; trivia pass needed to confirm Wizards-side designer attestation of the cohort (Rosewater Top of the Duskmourning Part 1 + Part 2 may name 'haunted housewares' as a distinct horror-trope register adjacent to 'cursed toys' — needs verification on next triviabot pass).",
+      "future_trigger": "Commission when ALL THREE conditions clear: (1) ≥1 additional DSK animated-adult-domestic-object card enters corpus with vision pass (likely candidates outside current corpus: any DSK card naming or depicting an animated mirror, an animated grandfather clock, an animated armoire, an animated portrait, an animated kitchen utensil, an animated radio, an animated typewriter; Scryfall query `s:dsk t:artifact-creature` filtered against current corpus would enumerate the candidate pool); (2) ≥2 of the 3 corpus anchors are trivia-passed and at least one trivia-pass cites a Wizards-side source naming the haunted-housewares register specifically; (3) Rosewater / MTG Wiki DSK design-coverage confirms or refutes the haunted-housewares cohort as a designer-coordinated thematic substrate distinct from the toy-horror cohort.",
+      "potion_rule_gate": "Sub-rule 2: the future commission must point at canonical evidence (Rosewater article, MTG Wiki Duskmourn set page haunted-housewares passage, designer-coordinated Scryfall cohort) — NOT to 'these cards both have animated-object in tags_hub.' Refusal posture if all three conditions don't clear: stays in triage.",
+      "alternative_resolution_if_threshold_never_clears": "If the corpus accumulates ≥3 adult-domestic animated-object DSK cards but Wizards never names them as a coordinated cohort, fall back to commissioning a cross-IP parent 'animated-object-given-sentience' character node (siblings: dsk-toy-horror + tsukumogami-pokemon + a generic-MTG-haunted-object child cohort) at the structural-predicate level rather than the designer-cohort level. The parent precedent is named in wave-94 tsukumogami-pokemon.md as a future cross-IP commission; this is the structural-fallback path."
+    }
+  ],
+  "artist_signal_parking": {
+    "domenico_cava": {
+      "current_dsk_credits_in_corpus": [
+        "DSK-20 Living Phone (vision-passed, wave 95)",
+        "DSK-24 Patched Plaything (vision-passed, dsk-toy-horror anchor)",
+        "DSK-242 Attack-in-the-Box (vision-passed, dsk-toy-horror anchor)"
+      ],
+      "threshold_status": "3 DSK credits — at the artist-node threshold but parked at this pass because the credits are concentrated in one set (DSK) and the artist's broader BBL corpus credits are not yet enumerated (per kirisaki 7 credits / sugimori 17 credits / ravenna-tran multi-set precedent for cross-set verification). Triviabot pass on Living Phone + investigation of Cava's broader Magic credits via Scryfall artist:'Domenico Cava' query needed before commissioning.",
+      "future_trigger": "Commission domenico-cava artist node when (1) ≥1 of the three DSK cards passes trivia, (2) Scryfall query confirms Cava credits beyond DSK, OR (3) another BBL-corpus set adds a Cava credit. Sibling pattern: kirisaki, ken-sugimori, kagemaru-himeno."
+    }
+  },
+  "files_modified": [
+    "reports/janitor_triage.md (proposed entry — staged in this sidecar for parent to apply)"
+  ],
+  "files_NOT_modified": [
+    "cards/magic-the-gathering/duskmourn-house-of-horror/20-living-phone.md (NO characters: attachment, NO Connections section added — pre-trivia, predicate-mismatch)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/252-malevolent-chandelier.md (NO characters: attachment, NO Connections section added — pre-trivia, predicate-mismatch)",
+    "cards/_characters/dsk-toy-horror.md (NO appears_on extension — neither candidate clears the cohort's three-signal predicate)"
+  ],
+  "potion_rule_compliance": {
+    "sub_rule_1_canonical_vs_curatorial": "PASS. The refusal explicitly distinguishes the canonical evidence (Wizards Rosewater article + MTG Wiki Duskmourn set page name the toy-horror / cursed-doll cohort; same sources do NOT name a 'haunted housewares' cohort) from BBL curatorial overlay (the 'these are all animated DSK horror objects' reading is BBL squinting). The refusal holds the line at canonical-event > curatorial-overlay.",
+    "sub_rule_2_hub_attribution_survives_canonical_citation_question": "PASS. Asked: 'is there a canonical Wizards citation for a DSK haunted-housewares cohort distinct from the toy-horror cohort?' Answer: not surfaced in current sources. Therefore the cohort node is parked at triage with explicit trigger requiring Wizards-side citation before commissioning.",
+    "sub_rule_3_refuse_when_in_doubt": "PASS. Three distinct candidate moves were considered (cohort attachment, parent node commission, 1:1 mirror) and all three refused. The refusal IS the discipline working — same posture as wave 71 Bardock-stewardship refusal, wave 74 Saiyan-lineage refusal, wave 77 Eldrazi labor-attribution refusal, wave 85 Aetherdrift-team triple-refusal.",
+    "sub_rule_4_no_new_structural_primitive_vocabulary": "PASS. The triage entry uses standard graph-theory terms (node, sibling cohort, parent commission, threshold) and the BBL-existing vocabulary (cohort, character node, trivia-pass discipline). No new sub-shape names introduced."
+  },
+  "schema_validation": "no card frontmatter touched; the only proposed write is the janitor_triage.md entry which is markdown body content not YAML. Parent applies if approving the staging.",
+  "edgelord_mood": "satisfied",
+  "voice_register_audit": "Edgelord voice (CBG-laconic, refusal-with-receipts) confined to this JSON sidecar's description / refusal_rationale text per voice-contamination discipline. No MD body content written in either Edgelord or Nodeley voice; no card MDs touched at all this pass.",
+  "next_pass_suggestions": [
+    "Living Phone trivia pass — verify Scryfall type-line (predict: Artifact Creature — Phyrexian Toy OR Artifact Creature — Construct; the Toy subtype prediction is the higher-confidence read given the {2}{W} cost, the death-trigger creature-tutor effect, and the cohort-adjacent flavor register; verify before claiming).",
+    "Malevolent Chandelier trivia pass — verify Scryfall type-line (predict: Artifact Creature — Construct OR Artifact Creature — Horror; almost certainly NOT Toy given the {6} colorless cost, Flying, and the activated graveyard-bottom ability profile).",
+    "Domenico Cava artist-credit Scryfall sweep — query `artist:'Domenico Cava'` and enumerate cross-set credits to determine artist-node commission readiness; if non-DSK credits surface, threshold-clear.",
+    "Rosewater 'Top of the Duskmourning' Part 1 + Part 2 re-read for haunted-housewares register attestation — current dsk-toy-horror.md cites the cursed-toy / killer-doll register; verify whether the haunted-furniture / haunted-appliance register is named in the same articles as a sibling design-source or whether it's BBL extrapolation.",
+    "Janitor triage entry application — append the dsk-haunted-housewares future-node candidate proposed above to reports/janitor_triage.md under the 'Open — future-node candidates (Mr. Nodeley's wishlist)' section.",
+    "Next Edgelord pass should NOT re-attempt Living Phone / Malevolent Chandelier attachments until at least one of the three trigger conditions clears. Re-attempting on the same below-threshold candidates is the Edgelord anti-pattern this refusal corrects against."
+  ],
+  "notes": "Refusal posture, full receipts. The signal Alex flagged (both cards carry animated-object in tags_hub, both DSK, both just-enriched) is REAL — but the move it suggests (cohort attachment OR parent node OR within-set mirror) doesn't clear discipline. The third candidate is the load-bearing missing piece, and the trivia attestation is the citation-bar that needs to be cleared. Both gate the future commission. Park, stage, refuse cleanly, wait."
+}

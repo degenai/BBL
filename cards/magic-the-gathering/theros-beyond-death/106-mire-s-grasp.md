@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
@@ -52,11 +52,11 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/106-mire-s
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/a/0ae0c536-612d-4916-a8da-5aaaf14218b1.jpg?1581479882
 flavor_text: Those caught attempting to escape the Underworld spend the rest of their existence trapped in the Mire of Punishment.
 oracle_text: Enchant creature\nEnchanted creature gets -3/-3.
+mana_cost: "{1}{B}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {1}{B}
 ---
 # Mire's Grasp (Theros Beyond Death)
 

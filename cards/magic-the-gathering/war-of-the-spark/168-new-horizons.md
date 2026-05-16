@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -49,10 +49,10 @@ artist: Eytan Zana
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/168-new-horizons--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/2/02c521da-677e-43b9-b5fe-c84dc64e66ec.jpg?1557576954
 oracle_text: "Enchant land\\nWhen this Aura enters, put a +1/+1 counter on target creature you control.\\nEnchanted land has \\\"{T}: Add two mana of any one color.\\\""
+mana_cost: "{2}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{G}
 ---
 # New Horizons (War of the Spark)
 

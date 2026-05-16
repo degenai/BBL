@@ -33,7 +33,7 @@ average_cost_paid: 0
 market_price: 0.6
 market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/c/1/c100a22c-bf34-42b7-9339-4733698c0935.png?1562829057
 art_match_confidence: high
 needs_manual_review: false
@@ -48,10 +48,10 @@ image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: dungeon
+mana_cost: "{2}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}
 ---
 # Prowler's Helm (Theros)
 

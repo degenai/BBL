@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/201-setess
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/8/b8322d31-6194-4fda-99a3-b6426c57488a.jpg?1581480908
 flavor_text: In the heart of Setessa, the warriors of Leina Tower defend the polis and train its daughters.
 oracle_text: Enchant creature you control\nWhen this Aura enters, draw a card.\nEnchanted creature gets +1/+0 and has trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)
+mana_cost: "{1}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{G}
 ---
 # Setessan Training (Theros Beyond Death)
 

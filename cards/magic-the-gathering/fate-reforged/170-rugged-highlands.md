@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/f/9/f9cfcbfc-f060-4610-a1ce-9437d6b32473.png?1562831764
 art_match_confidence: high
 needs_manual_review: false

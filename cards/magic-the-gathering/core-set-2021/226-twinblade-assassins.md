@@ -32,15 +32,13 @@ tags_filter:
   - creature-elf
   - creature-assassin
   - multicolor-black-green
-  - black-magic
-  - green-magic
   - card-draw
 reference_image: cards/_images/magic-the-gathering/core-set-2021/226-twinblade-assassins.png
 average_cost_paid: 0
 market_price: 0.24
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -53,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/226-twinblade-as
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/d/5d387b19-a0a7-45c0-b1e9-71ca55fb4adc.jpg?1620845035
 flavor_text: Rumors swirl of a pair of deadly Golgari assassins known only as the Left and Right Hands of the Ochran.
 oracle_text: At the beginning of your end step, if a creature died this turn, draw a card.
+mana_cost: "{3}{B}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{B}{G}
 ---
 # Twinblade Assassins (Core Set 2021)
 

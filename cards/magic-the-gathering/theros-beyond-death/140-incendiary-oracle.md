@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/e/b/eb6b9b5c-35ff-47ac-9b04-71257314b686.png?1581480217
 art_match_confidence: high
 needs_manual_review: false
@@ -29,8 +29,8 @@ oracle_text: "{1}{R}: This creature gets +1/+0 until end of turn.\\nIf a creatur
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{1}{R}"
 tags:
   - card
-mana_cost: {1}{R}
 ---
 # Incendiary Oracle (Theros Beyond Death)

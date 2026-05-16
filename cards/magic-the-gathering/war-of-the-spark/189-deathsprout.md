@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.35
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/6/d/6d615557-aea8-4057-9fbd-d62dd98edc13.png?1557577090
 art_match_confidence: high
 needs_manual_review: false
@@ -29,8 +29,8 @@ oracle_text: Destroy target creature. Search your library for a basic land card,
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{1}{B}{B}{G}"
 tags:
   - card
-mana_cost: {1}{B}{B}{G}
 ---
 # Deathsprout (War of the Spark)

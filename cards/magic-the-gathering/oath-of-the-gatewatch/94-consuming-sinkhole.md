@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/8/2/82a42b28-3d1b-4432-b8c9-2d42e4d0e1c5.png?1562921426
 art_match_confidence: high
 needs_manual_review: false
@@ -50,11 +50,11 @@ image_quality: high
 mood: horror
 time_of_day: day
 setting: void
+mana_cost: "{3}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {3}{R}
 ---
 # Consuming Sinkhole (Oath of the Gatewatch)
 

@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,10 +50,10 @@ artist: Christopher Rush
 art_crop_image: cards/_images/magic-the-gathering/chronicles/106-runesword--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/1/a11ec2f6-a0c7-4164-a562-fab7aab7d211.jpg?1562927570
 oracle_text: "{3}, {T}: Target attacking creature gets +2/+0 until end of turn. When that creature leaves the battlefield this turn, sacrifice this artifact. If the creature deals damage to a creature this turn, the creature dealt damage can't be regenerated this turn. If a creature dealt damage by the targeted creature would die this turn, exile that creature instead."
+mana_cost: "{6}"
 tags:
   - card
   - vision-passed
-mana_cost: {6}
 ---
 # Runesword (Chronicles)
 

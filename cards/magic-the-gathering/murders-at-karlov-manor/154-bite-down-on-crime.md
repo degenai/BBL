@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-10
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/2/9/29bbfe93-8225-444c-835b-33ffa006ef66.png?1706241952
 art_match_confidence: high
 needs_manual_review: false
@@ -47,11 +47,11 @@ artist: Mike Bierek
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/154-bite-down-on-crime--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/9/29bbfe93-8225-444c-835b-33ffa006ef66.jpg?1706241952
 oracle_text: As an additional cost to cast this spell, you may collect evidence 6. This spell costs {2} less to cast if evidence was collected. (To collect evidence 6, exile cards with total mana value 6 or greater from your graveyard.)\nTarget creature you control gets +2/+0 until end of turn. It deals damage equal to its power to target creature you don't control.
+mana_cost: "{3}{G}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {3}{G}
 ---
 # Bite Down on Crime (Murders at Karlov Manor)
 

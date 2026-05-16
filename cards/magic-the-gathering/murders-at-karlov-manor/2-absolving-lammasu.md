@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/b/d/bd6e71a1-713e-4eca-bd65-9f0638c16794.png?1706389555
 art_match_confidence: high
 needs_manual_review: false
@@ -49,10 +49,10 @@ image_quality: high
 mood: peaceful
 time_of_day: day
 setting: urban
+mana_cost: "{4}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{W}
 ---
 # Absolving Lammasu (Murders at Karlov Manor)
 

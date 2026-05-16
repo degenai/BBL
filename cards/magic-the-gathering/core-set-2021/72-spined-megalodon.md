@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.19
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -49,10 +49,10 @@ artist: Daniel Ljunggren
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/72-spined-megalodon--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/d/6d42d3dd-29df-44a1-89b8-994761eda77d.jpg?1594735773
 oracle_text: Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nWhenever this creature attacks, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+mana_cost: "{5}{U}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {5}{U}{U}
 ---
 # Spined Megalodon (Core Set 2021)
 

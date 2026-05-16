@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/15-glass-ca
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/6/562f1c51-d245-4771-bf61-415297e4f9d5.jpg?1572489690
 flavor_text: Fate will decide whether it's a bed or a tomb.
 oracle_text: When this artifact enters, exile target creature an opponent controls with mana value 3 or less until this artifact leaves the battlefield.
+mana_cost: "{1}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{W}
 ---
 # Glass Casket (Throne of Eldraine)
 

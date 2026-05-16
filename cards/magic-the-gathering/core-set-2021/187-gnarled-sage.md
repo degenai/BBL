@@ -41,7 +41,7 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/5/f/5f22116a-8b6a-4bbe-999f-7329e1e2b2d9.png?1594737027
 art_match_confidence: high
 needs_manual_review: false
@@ -52,10 +52,10 @@ artist: Raoul Vitale
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/187-gnarled-sage--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/f/5f22116a-8b6a-4bbe-999f-7329e1e2b2d9.jpg?1594737027
 oracle_text: Reach (This creature can block creatures with flying.)\nAs long as you've drawn two or more cards this turn, this creature gets +0/+2 and has vigilance. (Attacking doesn't cause it to tap.)
+mana_cost: "{3}{G}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{G}{G}
 ---
 # Gnarled Sage (Core Set 2021)
 

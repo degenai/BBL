@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/9/c/9c260c5c-e796-4f81-9e15-0c5be75106b9.png?1557576580
 art_match_confidence: high
 needs_manual_review: false
@@ -29,8 +29,8 @@ oracle_text: Target creature gets +2/+0 and gains indestructible until end of tu
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{1}{B}"
 tags:
   - card
-mana_cost: {1}{B}
 ---
 # Unlikely Aid (War of the Spark)

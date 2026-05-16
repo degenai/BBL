@@ -33,7 +33,7 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/7/d/7d56ebff-67c8-4bc7-a533-ddde4ce0c2af.png?1706241902
 art_match_confidence: high
 needs_manual_review: false
@@ -48,11 +48,11 @@ image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: urban
+mana_cost: "{3}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {3}{R}
 ---
 # Person of Interest (Murders at Karlov Manor)
 

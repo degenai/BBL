@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.39
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -56,12 +56,12 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/190-despark--
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/2/32b17dfc-b916-4134-ba77-501cff435e7e.jpg?1615415475
 flavor_text: Liliana whispered to whatever consciousness Oketra and Bontu had left. \"You are the gods. He is the usurper. You know what to do.\"
 oracle_text: Exile target permanent with mana value 4 or greater.
+mana_cost: "{W}{B}"
 tags:
   - card
   - vision-passed
   - trivia-passed
   - ip-verified
-mana_cost: {W}{B}
 ---
 # Despark (War of the Spark)
 

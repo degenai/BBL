@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.3
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/47-frogify-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/6/b69cbb20-3c4e-480b-a330-9c6d6b39d12f.jpg?1572489888
 flavor_text: That gnat was still hovering by the venison, and now both looked delicious.
 oracle_text: Enchant creature\nEnchanted creature loses all abilities and is a blue Frog creature with base power and toughness 1/1. (It loses all other card types and creature types.)
+mana_cost: "{1}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{U}
 ---
 # Frogify (Throne of Eldraine)
 

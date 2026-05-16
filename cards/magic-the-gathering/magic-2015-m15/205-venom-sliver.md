@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 2.21
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/8/d/8db38bd9-bf58-41ca-84b9-f3582670143e.png?1562790708
 art_match_confidence: high
 needs_manual_review: false
@@ -51,10 +51,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: forest
+mana_cost: "{1}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{G}
 ---
 # Venom Sliver (Magic 2015 (M15))
 

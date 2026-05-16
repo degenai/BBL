@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.16
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/5/1/51f57902-85d1-4c40-b79c-6cffafb4557a.png?1717012291
 art_match_confidence: high
 needs_manual_review: false
@@ -52,12 +52,12 @@ oracle_text: Replicate—Pay {E}{E}{E}. (When you cast this spell, copy it for e
 mood: action
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
   - ip-pending
-mana_cost: {1}{R}
 ---
 # Reiterating Bolt (Modern Horizons 3)
 

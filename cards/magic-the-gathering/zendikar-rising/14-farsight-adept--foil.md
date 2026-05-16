@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -53,10 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/14-farsight-ad
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/9/5949bb9a-b4e8-4992-a12d-8e31953aff0d.jpg?1604195753
 flavor_text: \"I've walked every one of the Teetering Peaks and never set a foot wrong. I can get you to safety.\"
 oracle_text: When this creature enters, you and target opponent each draw a card.
+mana_cost: "{2}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{W}
 ---
 # Farsight Adept (Zendikar Rising)
 

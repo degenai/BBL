@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 9.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/180-bala-ged-r
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/5/c5cb3052-358d-44a7-8cfd-cd31b236494a.jpg?1604263635
 flavor_text: \"Always have a backup plan.\"\n—Doral, Bala Ged guide
 oracle_text: Return target card from your graveyard to your hand.
+mana_cost: "{2}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{G}
 ---
 # Bala Ged Recovery (Zendikar Rising)
 

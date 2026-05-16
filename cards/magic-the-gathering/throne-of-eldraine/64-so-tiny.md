@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/64-so-tiny-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/2/421650f2-1b34-4a36-9675-9424997c9d0b.jpg?1572489991
 flavor_text: His sword sounded like a silver chime on the glass jar, and the sprite laughed with delight.
 oracle_text: Flash\nEnchant creature\nEnchanted creature gets -2/-0. It gets -6/-0 instead as long as its controller has seven or more cards in their graveyard.
+mana_cost: "{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {U}
 ---
 # So Tiny (Throne of Eldraine)
 

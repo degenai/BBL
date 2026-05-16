@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/146-thrill-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/9/c9021f85-7ab4-4a78-a398-1611fe09cd14.jpg?1615522697
 flavor_text: \"Remember all the great heroes who were careful and never did anything risky? Me neither.\"\n—Syr Carah, the Bold
 oracle_text: As an additional cost to cast this spell, discard a card.\nDraw two cards.
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{R}
 ---
 # Thrill of Possibility (Throne of Eldraine)
 

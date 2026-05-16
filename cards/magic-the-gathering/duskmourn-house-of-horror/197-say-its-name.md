@@ -29,17 +29,17 @@ tags_filter:
   - forward-facing
   - single-figure
   - indoor-scene
-  - black-magic
   - sorcery
   - mill
   - graveyard-recursion
   - indeterminate-time
+  - green-magic
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/197-say-its-name.png
 average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/9/4/94c58683-b5f2-4863-9562-6f6be1ec21fe.png?1726286600
 art_match_confidence: high
 needs_manual_review: false
@@ -52,11 +52,11 @@ time_of_day: indeterminate
 setting: indoor
 characters:
   - valgavoth
+mana_cost: "{1}{G}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {1}{G}
 ---
 # Say Its Name (Duskmourn: House of Horror)
 

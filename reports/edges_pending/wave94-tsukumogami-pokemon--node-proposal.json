@@ -1,0 +1,52 @@
+{
+  "wave": 94,
+  "edge_id": "tsukumogami-pokemon--node-proposal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "decision": "Mr. Nodeley step-in. Commission cards/_characters/tsukumogami-pokemon.md as the Pokemon cross-generational tsukumogami-design-source cohort character node, anchoring six trivia-passed corpus members across four distinct species lines. Drawing a 1:1 Voltorb-Shuppet edge as Edgelord would have been thin given that the same canonical citation surfaces across Voltorb (Gen I, Pokedex no. 100 deliberate encoding per Dr. Lava / ScreenRant), Shuppet (Gen III, Bulbapedia design-source + Bulbanews On the Origin of Species), Sinistea + Polteageist evolutionary line (Gen VIII, canonical Pokedex flavor explicit), and Doublade (Gen VI, Honedge-line sword-yokai tradition per per-card Trivia). Future enrichment of Honedge x2 prints + Doublade RBC + Galarian Yamask + Voltorb Evolutions will attach to the same node, projecting cohort to ~10-11 prints across 5-6 species. Without the node, every future tsukumogami-citing enrichment re-cites the same folklore in trivia uncoordinated.",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/tsukumogami-pokemon.md", "name": "Tsukumogami Pokemon (object-becomes-spirit design-source cohort)"},
+    {"type": "card", "path": "cards/pokemon/vivid-voltage/045-185-voltorb.md", "name": "Voltorb (Vivid Voltage)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/056-192-voltorb.md", "name": "Voltorb (Rebel Clash)"},
+    {"type": "card", "path": "cards/pokemon/vivid-voltage/067-185-shuppet.md", "name": "Shuppet (Vivid Voltage)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/082-189-sinistea.md", "name": "Sinistea (Darkness Ablaze)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/083-189-polteageist.md", "name": "Polteageist (Darkness Ablaze)"},
+    {"type": "card", "path": "cards/pokemon/unified-minds/94-236-doublade.md", "name": "Doublade (Unified Minds)"}
+  ],
+  "description": "Mr. Nodeley would like to apologize for stepping in, sir, but Edgelord's natural 1:1 Voltorb-Shuppet move would have been undercut almost immediately by the corpus's other tsukumogami-citing prints — six total now, four distinct species, with canonical attribution at the per-species level across Bulbapedia / Bulbanews / Dr. Lava / ScreenRant / bogleech / Wikipedia. The cohort substantively clears the 3-species threshold the precedent cohort nodes use, and four near-term enrichment candidates (Honedge x2, Doublade RBC, Galarian Yamask, Voltorb Evolutions) are queued to attach next, all with canonical citation already established at the species level. The node is the load-bearing center; per-pair edges would all point at it. Sniveling aside, the analysis was sound — Mr. Nodeley believes this saves the pass, if it's not too much trouble.",
+  "citations": [
+    "[Bulbapedia: Voltorb (Pokemon) — design-source section, tsukumogami citation, Pokedex no. 100 encoding]",
+    "[Bulbapedia: Shuppet (Pokemon), Banette (Pokemon) — design-source sections, teru teru bozu + tsukumogami]",
+    "[Bulbapedia: Sinistea (Pokemon), Polteageist (Pokemon) — antique-teacup design canon]",
+    "[Bulbapedia: Honedge / Doublade / Aegislash — sword-yokai tsukumogami tradition]",
+    "[Bulbanews: 'On the Origin of Species: Shuppet and Banette']",
+    "[Dr. Lava (Lewtwo): 'The Original 151' design-history retrospective — Voltorb no. 100 deliberate tsukumogami encoding]",
+    "[ScreenRant: 'Why Voltorb Is Number 100']",
+    "[bogleech.com/pokemon/p353shuppet]",
+    "[Wikipedia: Tsukumogami — folklore reference, 100-year-threshold tradition]",
+    "[PokemonTCG.io per-card pages: swsh4-45, swsh2-56, swsh4-67, swsh3-82, swsh3-83, sm11-94]"
+  ],
+  "files_modified": [
+    "cards/_characters/tsukumogami-pokemon.md (CREATED)",
+    "cards/pokemon/vivid-voltage/045-185-voltorb.md (frontmatter characters: pointer)",
+    "cards/pokemon/rebel-clash/056-192-voltorb.md (frontmatter characters: pointer)",
+    "cards/pokemon/vivid-voltage/067-185-shuppet.md (frontmatter characters: pointer)",
+    "cards/pokemon/darkness-ablaze/082-189-sinistea.md (frontmatter characters: pointer)",
+    "cards/pokemon/darkness-ablaze/083-189-polteageist.md (frontmatter characters: pointer)",
+    "cards/pokemon/unified-minds/94-236-doublade.md (frontmatter characters: pointer)"
+  ],
+  "schema_validation": "all 7 files normalize_file -> {} (no schema changes required, YAML safe, frontmatter ordering preserved with characters: before tags:)",
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "potion_rule_compliance": "Tsukumogami citation is canonical at the per-species design-source level (Bulbapedia design-source sections, Dr. Lava retrospective, ScreenRant design-canon piece, bogleech.com per-species essays, Wikipedia folklore reference). NOT BBL squinting — each species in the cohort has documented folkloric attribution at the per-species level. Refusal-relevant restrictions documented in caveats: Mimikyu excluded (creature-wearing-an-object, not awakened-object-spirit, per Bulbapedia design-source); Klefki excluded as borderline (fairy-trickster design more central than tsukumogami per Bulbapedia); Banette and Yamask flagged for per-species attribution review on next enrichment pass (possession-vs-tsukumogami canonical reading distinction). Galarian Yamask flavor text 'A clay slab with cursed engravings took possession of a Yamask' is the canonical statement requiring per-species review — likely belongs at a future possessed-pokemon sibling cohort node rather than this awakened-object cohort.",
+  "next_pass_suggestions": [
+    "Honedge x2 (TUP-107, BST-105) enrichment: flavor text 'The blue eye on the sword's handguard is the true body of Honedge' is canonical tsukumogami-sword statement; attach on trivia pass.",
+    "Doublade Rebel Clash (RBC-134) enrichment: second corpus Doublade print, attach as cross-print mirror.",
+    "Galarian Yamask (RBC-101) enrichment: flavor text canonically describes object-possession-reversal; per-species attribution review needed to determine whether attaches here or at future possessed-pokemon sibling node.",
+    "Voltorb Evolutions (EVO-39) trivia pass: third Voltorb print, vision-passed but trivia-pending; attaches on trivia pass.",
+    "Mimikyu re-review on next enrichment pass: per-species attribution review for possible attachment to a future possessed-pokemon or disguise-pokemon cohort node.",
+    "Future japanese-folkloric-design-source-pokemon parent cohort node: pending parent-cohort node analogous to a future Pokemon-design-canon parent layer; would host this node and phantump-line as sibling Japanese-folkloric design-source cohorts; commissioned when 3+ such cohort nodes are in graph (currently 2: this node + phantump-line).",
+    "Future possessed-pokemon sibling cohort node: pending sibling cohort distinct from this node's awakened-object predicate; would host external-spirit-possession-of-object species (Banette, Gen V Yamask / Cofagrigus, potentially Galarian Yamask). Commissioned when 3+ canonical possession-Pokemon prints are in corpus and per-species attribution review confirms the structural distinction.",
+    "Janitor triage entry: review Banette + Yamask line + Galarian Yamask per-species attribution to confirm tsukumogami-vs-possession structural distinction; outcome determines whether the possessed-pokemon sibling cohort gets commissioned or whether some borderline cases collapse into this node."
+  ]
+}

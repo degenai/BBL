@@ -38,13 +38,14 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh3/106_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: sowsow
 flavor_text: It steals things from people just to amuse itself with their frustration. A rivalry exists between this Pokémon and Nickit.
-oracle_text: "Dig Claws (Darkness) 10\\nFake Out (ColorlessColorless) 20: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+oracle_text: Dig Claws (Darkness) 10
+Fake Out (ColorlessColorless) 20: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
 mood: other
 time_of_day: magic-hour
 setting: indoor
@@ -52,6 +53,9 @@ subject_known_ip: true
 suspected_ip: Purrloin (Pokémon)
 ip_confidence: high
 ip_verified: true
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

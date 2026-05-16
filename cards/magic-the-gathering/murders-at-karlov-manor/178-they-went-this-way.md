@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.25
 market_price_as_of: 2026-05-16
 date_added: 2026-05-10
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/f/4/f4a31d4a-34bc-46b4-b20f-a5460191b35d.png?1706242086
 art_match_confidence: high
 needs_manual_review: false
@@ -49,10 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/178-th
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/4/f4a31d4a-34bc-46b4-b20f-a5460191b35d.jpg?1706242086
 flavor_text: \"Running doesn't prove guilt, but innocent people don't typically flee into the North Ridge Forest.\"\n—Alst of the Foundway Associates
 oracle_text: "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Investigate. (Create a Clue token. It's an artifact with \\\"{2}, Sacrifice this token: Draw a card.\\\")"
+mana_cost: "{2}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{G}
 ---
 # They Went This Way (Murders at Karlov Manor)
 

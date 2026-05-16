@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 1.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/2/a/2a7c6489-21e9-4b86-a54a-b1e2f1fce318.png?1562902844
 art_match_confidence: high
 needs_manual_review: false
@@ -49,10 +49,10 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: other
+mana_cost: "{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {G}
 ---
 # Tinder Wall (Ice Age)
 

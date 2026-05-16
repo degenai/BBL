@@ -1,0 +1,46 @@
+{
+  "card_name": "Shuppet",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "067/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name = species name = canonical Pokemon species. PokemonTCG.io confirms nationalPokedexNumbers: [353], species 'Shuppet'. Auto-verify applies.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Vivid Voltage (SWSH4) released November 13, 2020. Shuppet appears as a Basic Psychic-type Common (067/185). Regulation Mark D. [PokemonTCG.io API: swsh4]",
+      "sources": ["PokemonTCG.io API: swsh4"]
+    },
+    {
+      "category": "design",
+      "text": "Shuppet is National Pokedex no. 353, introduced in Generation III (Hoenn). Its design is based on the teru teru bozu — a traditional Japanese paper doll hung to wish for sunny weather — and on tsukumogami mythology (inanimate objects gaining spirit). Its Japanese name, Kagebouzu, combines kage (shadow) and teru teru bozu. It evolves into Banette starting at level 37. [WebSearch snippet: Bulbapedia/Shuppet; Bulbanews 'On the Origin of Species: Shuppet and Banette']",
+      "sources": ["WebSearch snippet: bulbapedia.bulbagarden.net/wiki/Shuppet_(Pokemon)", "Bulbanews: On the Origin of Species: Shuppet and Banette"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"There's a proverb that says, 'Shun the house where Shuppet gather in the growing dusk.'\" [PokemonTCG.io API: swsh4-67]",
+      "sources": ["PokemonTCG.io API: swsh4-67"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Canonically, Shuppet feeds on negative emotions — grudges, jealousy, and sorrow — and congregates near homes where people harbor long-held resentments. Its evolution Banette originates from a discarded plush doll filled with hatred, animated by a spirit seeking revenge on the child who abandoned it. The doll-to-doll pipeline makes this one of the more coherent two-stage lore progressions in Gen 3. [WebSearch snippet: Bulbapedia/Banette; bogleech.com/pokemon/p353shuppet]",
+      "sources": ["WebSearch snippet: bulbapedia.bulbagarden.net/wiki/Banette_(Pokemon)", "WebSearch snippet: bogleech.com/pokemon/p353shuppet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "This printing: Basic Psychic-type, 60 HP, weak to Darkness (x2), resistant to Fighting (-30). Single attack: Haunt (1 Psychic Energy) — places 1 damage counter on the opponent's Active Pokemon. Artist: Miki Tanaka. [PokemonTCG.io API: swsh4-67]",
+      "sources": ["PokemonTCG.io API: swsh4-67"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Banette", "set": "Various", "note": "Direct evolution of Shuppet; lore continuation — discarded doll animated by revenge-spirit"},
+    {"name": "Mega Banette-EX", "set": "Phantom Forces", "note": "Competitive-era Banette card; Mega Banette amplifies the zipper-doll design concept"},
+    {"name": "Misdreavus", "set": "Various", "note": "Fellow Gen 2/3 Ghost-type with negative-emotion feeding behavior — thematic parallel"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

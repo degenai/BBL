@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: low
 needs_manual_review: true
 manual_review_reason: "Set 'Art Series: Zendikar Rising' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing."
@@ -26,11 +26,10 @@ oracle_text: Each creature you control gets +1/+0 for each time it has attacked 
 review_good: false
 review_bad: false
 review_notes: ""
+mana_cost: "{4}{R}{R}"
 tags:
   - card
   - manual-review
-
-mana_cost: {4}{R}{R}
 ---
 # Moraug, Fury of Akoum Art Card (Art Series: Zendikar Rising)
 

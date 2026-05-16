@@ -35,8 +35,6 @@ tags_filter:
   - female-figure
   - rim-lit
   - red-magic
-  - black-magic
-  - multicolor-red-black
   - creature-human
   - creature-warrior
   - menace
@@ -45,7 +43,7 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/a/c/acc9b17c-4210-49f4-a920-b1dc9dfa950f.png?1726286339
 art_match_confidence: high
 needs_manual_review: false
@@ -57,11 +55,11 @@ oracle_text: "Menace (This creature can't be blocked except by two or more creat
 mood: action
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{3}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {3}{R}
 ---
 # Diversion Specialist (Duskmourn: House of Horror)
 

@@ -42,7 +42,7 @@ average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -55,10 +55,10 @@ art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/236-orzhov-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/6/761e7188-bad1-4775-84a2-15da9a42a57c.jpg?1584832140
 flavor_text: \"It looks expensive, doesn't it? You have no idea...\"\n—Milana, Orzhov prelate
 oracle_text: "{T}: Add {W} or {B}.\\n{W/B}{W/B}{W/B}{W/B}, {T}, Sacrifice this artifact: Draw two cards."
+mana_cost: "{3}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}
 ---
 # Orzhov Locket (Ravnica Allegiance)
 

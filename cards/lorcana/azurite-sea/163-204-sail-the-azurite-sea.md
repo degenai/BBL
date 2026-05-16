@@ -35,12 +35,13 @@ average_cost_paid: 0
 market_price: 1.12
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set6/163_d278d57fd15e17ac6d725aa3f868625ce4f970d8.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Valerio Buonfantino
 flavor_text: You need a good plan and even better luck to make it
+across these treacherous waters.
 across these treacherous waters.
 oracle_text: This turn, you may ink an additional card. Draw a card.
 image_width: 1468

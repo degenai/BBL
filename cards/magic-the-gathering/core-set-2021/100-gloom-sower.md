@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,11 +50,11 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/100-gloom-sower-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/1/a1b4f7ec-ea2e-4d90-98cd-0c92bd9f64c1.jpg?1594736141
 flavor_text: \"First, the darkness fell. Terror came next. After that, only despair remained.\"\n—*The Tragedy of Morein*
 oracle_text: Whenever this creature becomes blocked by a creature, that creature's controller loses 2 life and you gain 2 life.
+mana_cost: "{5}{B}{B}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {5}{B}{B}
 ---
 # Gloom Sower (Core Set 2021)
 

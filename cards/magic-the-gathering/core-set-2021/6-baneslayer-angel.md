@@ -43,7 +43,7 @@ average_cost_paid: 0
 market_price: 2.95
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -56,10 +56,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/6-baneslayer-ang
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/b/4bd3014b-94bb-4a9f-92cf-239a2dcc7e97.jpg?1594734758
 flavor_text: Some angels protect the meek and innocent. Others seek out and smite evil wherever it lurks.
 oracle_text: Flying, first strike, lifelink, protection from Demons and from Dragons
+mana_cost: "{3}{W}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{W}{W}
 ---
 # Baneslayer Angel (Core Set 2021)
 

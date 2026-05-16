@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh4/156_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -46,7 +46,11 @@ artist: 5ban Graphics
 mood: cozy
 time_of_day: indeterminate
 setting: other
-oracle_text: Heal 30 damage from up to 2 of your Pokémon that have Energy attached.\nYou may play any number of Item cards during your turn.
+oracle_text: Heal 30 damage from up to 2 of your Pokémon that have Energy attached.
+You may play any number of Item cards during your turn.
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

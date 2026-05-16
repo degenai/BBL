@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/7/8/786c6a0f-3f75-45ff-aae9-5c866be279d0.png?1562923399
 art_match_confidence: high
 needs_manual_review: false
@@ -55,11 +55,11 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: dungeon
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {1}{R}
 ---
 # Kozilek's Sentinel (Battle for Zendikar)
 

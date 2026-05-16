@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/sm3/54_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -50,7 +50,11 @@ suspected_ip: Croagunk (Pokemon)
 ip_confidence: high
 ip_verified: true
 flavor_text: Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.
-oracle_text: "Corkscrew Punch (Colorless) 10\\nFrog Hop (PsychicColorless) 20+: Flip a coin. If heads, this attack does 20 more damage."
+oracle_text: Corkscrew Punch (Colorless) 10
+Frog Hop (PsychicColorless) 20+: Flip a coin. If heads, this attack does 20 more damage.
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

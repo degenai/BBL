@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/b/f/bf8dad4d-bc4f-46fb-892c-dbf6481cdc46.png?1584831721
 art_match_confidence: high
 needs_manual_review: false
@@ -28,8 +28,8 @@ oracle_text: Spectacle {3}{B}{R} (You may cast this spell for its spectacle cost
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{2}{B}{R}"
 tags:
   - card
-mana_cost: {2}{B}{R}
 ---
 # Rafter Demon (Ravnica Allegiance)

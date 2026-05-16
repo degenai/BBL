@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/0/7/079dc8d2-0de3-415e-8af8-b8dec669368a.png?1738359164
 art_match_confidence: high
 needs_manual_review: false
@@ -52,11 +52,11 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: other
+mana_cost: "{5}{B}{B}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {5}{B}{B}
 ---
 # Shefet Archfiend (Aetherdrift)
 

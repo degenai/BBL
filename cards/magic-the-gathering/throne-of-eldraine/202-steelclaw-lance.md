@@ -31,14 +31,14 @@ tags_filter:
   - no-face
   - artifact
   - equipment
-  - red-magic
   - warm-palette
+  - multicolor-black-red
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/202-steelclaw-lance.png
 average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/202-steelcl
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/a/cafcf909-d726-4bc2-adf6-c12ca242f0c1.jpg?1572490835
 flavor_text: \"A traditional lance is fine for the Burning Yard, but in the wilds you need a nastier bite.\"\n—Kenver, Embereth weaponsmith
 oracle_text: Equipped creature gets +2/+2.\nEquip Knight {1}\nEquip {3}
+mana_cost: "{B}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {B}{R}
 ---
 # Steelclaw Lance (Throne of Eldraine)
 

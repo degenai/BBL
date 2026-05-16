@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/96-memory-t
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/9/397fd49b-a520-4b0e-9ab9-71675ab5969d.jpg?1572490184
 flavor_text: In the wilds, the ravens steal far more than baubles.
 oracle_text: Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. You may put a card that has an Adventure that player owns from exile into that player's graveyard.
+mana_cost: "{2}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{B}
 ---
 # Memory Theft (Throne of Eldraine)
 

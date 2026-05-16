@@ -35,13 +35,14 @@ average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh4/24_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: SATOSHI NAKAI
 flavor_text: It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.
-oracle_text: "Slash (Fire) 20\\nRaging Flames (FireFire) 60: Discard the top 3 cards of your deck."
+oracle_text: Slash (Fire) 20
+Raging Flames (FireFire) 60: Discard the top 3 cards of your deck.
 characters:
   - charizard-line
 mood: action
@@ -51,6 +52,9 @@ subject_known_ip: true
 suspected_ip: Charmeleon
 ip_confidence: high
 ip_verified: true
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

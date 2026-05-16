@@ -28,8 +28,8 @@ tags_filter:
   - close-up
   - portrait
   - forward-facing
-  - red-magic
   - enchantment
+  - multicolor-black-red
 symbols:
   - manifest-dread
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/212-disturbing-mirth.png
@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/f/7/f79b0c5d-6823-439c-a011-8b9bf424bdad.png?1726286660
 art_match_confidence: high
 needs_manual_review: false
@@ -51,10 +51,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: other
+mana_cost: "{B}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {B}{R}
 ---
 # Disturbing Mirth (Duskmourn: House of Horror)
 

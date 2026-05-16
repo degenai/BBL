@@ -34,13 +34,14 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh4/134_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: kodama
 flavor_text: It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.
-oracle_text: "Quick Attack (Colorless) 20+: Flip a coin. If heads, this attack does 40 more damage.\\nEnergy Assist (ColorlessColorless) 40: Attach up to 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon."
+oracle_text: "Quick Attack (Colorless) 20+: Flip a coin. If heads, this attack does 40 more damage."
+Energy Assist (ColorlessColorless) 40: Attach up to 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon.
 mood: action
 time_of_day: day
 setting: other
@@ -48,6 +49,9 @@ subject_known_ip: true
 suspected_ip: Swellow
 ip_confidence: high
 ip_verified: true
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

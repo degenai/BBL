@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/77-barrow-w
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/5/45707c22-fce8-4dbd-9d19-73f08c68f449.jpg?1572490072
 flavor_text: \"Taste the sweetness, breath for breath. Keep the balance, death for death.\"\n—Barrow witch incantation
 oracle_text: When this creature enters, return target Knight card from your graveyard to your hand.
+mana_cost: "{4}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{B}
 ---
 # Barrow Witches (Throne of Eldraine)
 

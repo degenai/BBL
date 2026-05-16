@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/9/1/91bd75a1-cb54-4e38-9ce1-e8f32a73c6eb.png?1730488906
 art_match_confidence: high
 needs_manual_review: false
@@ -48,12 +48,12 @@ oracle_text: When this creature enters, create a 4/4 red Dragon creature token w
 mood: peaceful
 time_of_day: indeterminate
 setting: other
+mana_cost: "{3}{R}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
   - ip-pending
-mana_cost: {3}{R}{R}
 ---
 # Dragon Trainer (Foundations)
 

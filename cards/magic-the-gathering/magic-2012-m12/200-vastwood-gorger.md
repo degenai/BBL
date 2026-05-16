@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/c/d/cdd9d448-ebd5-4e01-af88-e755833c2451.png?1562660263
 art_match_confidence: high
 needs_manual_review: false
@@ -46,10 +46,10 @@ flavor_text: The gorger's insect-like eyes pick up the slightest movement in any
 mood: sublime
 time_of_day: day
 setting: other
+mana_cost: "{5}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {5}{G}
 ---
 # Vastwood Gorger (Magic 2012 (M12))
 

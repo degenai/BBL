@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.27
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/1/7/17315a12-a7f8-45ba-ac3b-a62c789e75d0.png?1557577433
 art_match_confidence: high
 needs_manual_review: false
@@ -47,10 +47,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/241-mana-geod
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/7/17315a12-a7f8-45ba-ac3b-a62c789e75d0.jpg?1557577433
 flavor_text: \"I don't care if it's an all-powerful relic or a street vendor's lucky charm. If it brings you courage, wear it.\"\n—Saheeli Rai
 oracle_text: "When this artifact enters, scry 1.\\n{T}: Add one mana of any color."
+mana_cost: "{3}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}
 ---
 # Mana Geode (War of the Spark)
 

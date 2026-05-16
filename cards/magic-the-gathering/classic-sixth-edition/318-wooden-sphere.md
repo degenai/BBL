@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.24
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/e/f/ef706d86-6e7f-4f3a-9e4d-8aa6d9aac74a.png?1562824402
 art_match_confidence: high
 needs_manual_review: false
@@ -49,10 +49,10 @@ artist: Donato Giancola
 art_crop_image: cards/_images/magic-the-gathering/classic-sixth-edition/318-wooden-sphere--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/f/ef706d86-6e7f-4f3a-9e4d-8aa6d9aac74a.jpg?1562824402
 oracle_text: Whenever a player casts a green spell, you may pay {1}. If you do, you gain 1 life.
+mana_cost: "{1}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}
 ---
 # Wooden Sphere (Classic: Sixth Edition)
 

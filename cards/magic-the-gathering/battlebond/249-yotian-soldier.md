@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/battlebond/249-yotian-soldier-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/e/9e71190b-c96c-4aea-9696-780c69eff395.jpg?1562926960
 flavor_text: Poets dream the verses of otherworldly stories. Artificers dream the blueprints of otherplanar artifacts.
 oracle_text: Vigilance
+mana_cost: "{3}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}
 ---
 # Yotian Soldier (Battlebond)
 

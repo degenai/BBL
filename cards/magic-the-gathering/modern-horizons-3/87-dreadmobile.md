@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/8/3/831506ea-017a-40ff-91c1-ff2d70dc0013.png?1717011914
 art_match_confidence: high
 needs_manual_review: false
@@ -48,10 +48,10 @@ oracle_text: "Menace\\n{1}, Sacrifice another artifact or creature: Put a +1/+1 
 mood: horror
 time_of_day: night
 setting: forest
+mana_cost: "{2}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{B}
 ---
 # Dreadmobile (Modern Horizons 3)
 

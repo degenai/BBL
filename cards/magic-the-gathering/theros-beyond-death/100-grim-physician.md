@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
@@ -51,11 +51,11 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/100-grim-p
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/7/b7e92c82-840f-4c75-b617-7b58a07be5b4.jpg?1581479817
 flavor_text: The Returned retain no memory of their identities, but sometimes they mindlessly attempt familiar tasks.
 oracle_text: When this creature dies, target creature an opponent controls gets -1/-1 until end of turn.
+mana_cost: "{B}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {B}
 ---
 # Grim Physician (Theros Beyond Death)
 

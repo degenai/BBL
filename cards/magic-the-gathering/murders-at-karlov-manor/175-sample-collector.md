@@ -27,13 +27,12 @@ tags_filter:
   - forward-facing
   - creature-goblin
   - green-magic
-  - multicolor-blue-green
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/175-sample-collector.png
 average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/7/6/76f7480c-82cc-4ddd-b619-c1a609c29a13.png?1706242077
 art_match_confidence: high
 needs_manual_review: false
@@ -48,10 +47,10 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: other
+mana_cost: "{2}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{G}
 ---
 # Sample Collector (Murders at Karlov Manor)
 

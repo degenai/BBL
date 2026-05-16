@@ -33,7 +33,7 @@ average_cost_paid: 0
 market_price: 0.27
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/1/2/129dc8a8-9fbc-4300-b559-243395dc6ed5.png?1557576752
 art_match_confidence: high
 needs_manual_review: false
@@ -51,11 +51,11 @@ subject_known_ip: true
 suspected_ip: Jaya Ballard
 ip_confidence: high
 ip_verified: false
+mana_cost: "{4}{R}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {4}{R}
 ---
 # Jaya, Venerated Firemage (War of the Spark)
 

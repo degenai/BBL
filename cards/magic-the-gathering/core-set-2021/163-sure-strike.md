@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/163-sure-strike-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/6/064a6f1c-a058-4cc8-b467-5dbecb5eeb99.jpg?1594736800
 flavor_text: To survive imminent doom, it sometimes takes a foolhardy soul who acts first and fears later.
 oracle_text: Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{R}
 ---
 # Sure Strike (Core Set 2021)
 

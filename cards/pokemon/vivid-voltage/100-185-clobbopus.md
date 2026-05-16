@@ -32,13 +32,14 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh4/100_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Misa Tsutsui
 flavor_text: It's very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land.
-oracle_text: Beat (Fighting) 20\nHammer In (FightingColorless) 40
+oracle_text: Beat (Fighting) 20
+Hammer In (FightingColorless) 40
 image_width: 734
 image_height: 1024
 image_quality: high

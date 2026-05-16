@@ -36,12 +36,15 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10/39_e83d1331a9d9055f1a429cac1fb3a4841f58bd62.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Kendall Hale
 flavor_text: “My beloved warriors have come to life! All the
+dead of centuries past! Never has anyone created
+an army like this!”
+—The Horned King
 dead of centuries past! Never has anyone created
 an army like this!”
 —The Horned King

@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.28
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,11 +50,11 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/85-prosperou
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/d/5d778bde-f927-419e-8052-6230562bdedd.jpg?1608909355
 flavor_text: The floating city of High and Dry hasn't yet sunk under the weight of gold, but it's not for want of trying.
 oracle_text: "When this creature enters, create two Treasure tokens. (They're artifacts with \\\"{T}, Sacrifice this token: Add one mana of any color.\\\")"
+mana_cost: "{4}{U}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {4}{U}
 ---
 # Prosperous Pirates (Commander Legends)
 

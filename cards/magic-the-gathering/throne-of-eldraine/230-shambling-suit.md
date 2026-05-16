@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.31
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/230-shambli
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/1/1100b898-31a8-4fdf-a54f-a1470ec032f3.jpg?1592485685
 flavor_text: \"The young squire gripped her sword as the clanking stranger emerged. It was no knight that had come to challenge her.\"\n—*Beyond the Great Henge*
 oracle_text: Shambling Suit's power is equal to the number of artifacts and/or enchantments you control.
+mana_cost: "{3}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}
 ---
 # Shambling Suit (Throne of Eldraine)
 

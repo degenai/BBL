@@ -32,15 +32,13 @@ tags_filter:
   - creature-spirit
   - creature-horror
   - multicolor-red-white
-  - red-magic
-  - white-magic
   - lifegain
 reference_image: cards/_images/magic-the-gathering/mystery-booster-retail-exclusives/132-balefire-liege--foil.png
 average_cost_paid: 0
 market_price: 3.61
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: "Set 'Mystery Booster: Retail Exclusives' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing."
@@ -52,10 +50,10 @@ artist: Ralph Horsley
 art_crop_image: cards/_images/magic-the-gathering/mystery-booster-retail-exclusives/132-balefire-liege--foil--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/1/81c9142f-bcd9-4cb1-9df8-dde0e6c78903.jpg?1583453975
 oracle_text: Other red creatures you control get +1/+1.\nOther white creatures you control get +1/+1.\nWhenever you cast a red spell, this creature deals 3 damage to target player or planeswalker.\nWhenever you cast a white spell, you gain 3 life.
+mana_cost: "{2}{R/W}{R/W}{R/W}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{R/W}{R/W}{R/W}
 ---
 # Balefire Liege (Mystery Booster: Retail Exclusives)
 

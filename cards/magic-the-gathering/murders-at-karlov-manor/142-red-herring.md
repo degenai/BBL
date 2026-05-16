@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/6/c/6c137a44-9ab6-4e59-8324-34d9dca8f5a6.png?1708201632
 art_match_confidence: high
 needs_manual_review: false
@@ -29,8 +29,8 @@ oracle_text: "Haste\\nThis creature attacks each combat if able.\\n{2}, Sacrific
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{1}{R}"
 tags:
   - card
-mana_cost: {1}{R}
 ---
 # Red Herring (Murders at Karlov Manor)

@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/225-locthwa
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/2/02551bee-335c-4bf7-b38e-67dd71d1d567.jpg?1592485681
 flavor_text: \"As the traitor hurried across the courtyard, its eyes snapped open. It was time to pay the queen a visit.\"\n—*Beyond the Great Henge*
 oracle_text: "{4}: This creature gets +2/+0 and gains flying until end of turn."
+mana_cost: "{1}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}
 ---
 # Locthwain Gargoyle (Throne of Eldraine)
 

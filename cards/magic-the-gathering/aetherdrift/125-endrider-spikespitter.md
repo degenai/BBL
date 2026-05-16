@@ -43,7 +43,7 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/4/e/4e58cb18-f216-4248-8f0d-65b0263c5c28.png?1738359369
 art_match_confidence: high
 needs_manual_review: false
@@ -54,11 +54,11 @@ oracle_text: Reach\nStart your engines! (If you have no speed, it starts at 1. I
 mood: action
 time_of_day: indeterminate
 setting: other
+mana_cost: "{3}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {3}{R}
 ---
 # Endrider Spikespitter (Aetherdrift)
 

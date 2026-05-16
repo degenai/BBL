@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -49,10 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/223-inquisi
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/0/807a570a-b5eb-420d-9fa5-6e5364025510.jpg?1572491011
 flavor_text: \"The strings were gone, but he still felt the pull of invisible forces tugging at his mind.\"\n—*Beyond the Great Henge*
 oracle_text: "When this creature enters, scry 1.\\nExile this creature: Create a 1/1 white Human creature token."
+mana_cost: "{1}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}
 ---
 # Inquisitive Puppet (Throne of Eldraine)
 

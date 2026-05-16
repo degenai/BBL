@@ -35,13 +35,14 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh3/6_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Mina Nakai
 flavor_text: It's good at finding berries and gathers them from all over. It's kind enough to share them with friends.
-oracle_text: Seed Bomb (Grass) 10\nBite (ColorlessColorless) 20
+oracle_text: Seed Bomb (Grass) 10
+Bite (ColorlessColorless) 20
 mood: peaceful
 time_of_day: day
 setting: forest
@@ -50,6 +51,9 @@ ip_confidence: high
 ip_verified: true
 characters:
   - elemental-monkey-trio
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

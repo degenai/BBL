@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.83
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/303-charcoal
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/d/3d99f4cd-7f6d-4f1a-a1d9-f8c3b6645038.jpg?1608911357
 flavor_text: The essence of night to harden the soul.
 oracle_text: "This artifact enters tapped.\\n{T}: Add {B}."
+mana_cost: "{2}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}
 ---
 # Charcoal Diamond (Commander Legends)
 

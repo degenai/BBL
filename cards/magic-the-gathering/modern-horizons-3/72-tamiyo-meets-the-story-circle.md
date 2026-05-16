@@ -41,7 +41,7 @@ average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/e/e/ee66a06e-a461-46af-a318-550bc35de5d0.png?1717011794
 art_match_confidence: high
 needs_manual_review: false
@@ -55,11 +55,11 @@ setting: indoor
 suspected_ip: Tamiyo
 ip_confidence: high
 ip_verified: false
+mana_cost: "{1}{U}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {1}{U}
 ---
 # Tamiyo Meets the Story Circle (Modern Horizons 3)
 

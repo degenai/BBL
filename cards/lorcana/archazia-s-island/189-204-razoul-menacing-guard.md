@@ -33,13 +33,17 @@ average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set7/189_bbb1751591b2f33661cb68a3214a3bed5a28846e.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Carlos Luzzi
 flavor_text: “Mere trinkets won't get you any closer to Jafar.”
 oracle_text: MY ORDERS COME FROM JAFAR When you play this
+character, if you have a character named Jafar in
+play, you may banish chosen item.
+character, if you have a character named Jafar in
+play, you may banish chosen item.
 character, if you have a character named Jafar in
 play, you may banish chosen item.
 image_width: 1468

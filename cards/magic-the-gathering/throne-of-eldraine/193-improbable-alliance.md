@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.16
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/0/4/0461867b-ec35-4d37-a398-5247e06c4afe.png?1572490770
 art_match_confidence: high
 needs_manual_review: false
@@ -29,8 +29,8 @@ oracle_text: "Whenever you draw your second card each turn, create a 1/1 blue Fa
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{U}{R}"
 tags:
   - card
-mana_cost: {U}{R}
 ---
 # Improbable Alliance (Throne of Eldraine)

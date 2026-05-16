@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -49,10 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/124-devouring
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/8/88205574-bf2b-46e7-aac7-4b8ea217f94c.jpg?1557576672
 flavor_text: There's no crisis a hellion can't make worse.
 oracle_text: As this creature enters, you may sacrifice any number of creatures and/or planeswalkers. If you do, it enters with twice that many +1/+1 counters on it.
+mana_cost: "{2}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{R}
 ---
 # Devouring Hellion (War of the Spark)
 

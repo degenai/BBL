@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/9/4/94db72a8-57f7-4f17-9f09-cae90ef50304.png?1557576532
 art_match_confidence: high
 needs_manual_review: false
@@ -54,11 +54,11 @@ subject_known_ip: true
 suspected_ip: Ob Nixilis
 ip_confidence: high
 ip_verified: false
+mana_cost: "{2}{B}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {2}{B}
 ---
 # Ob Nixilis's Cruelty (War of the Spark)
 

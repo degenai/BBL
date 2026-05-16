@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/99-finishing-blo
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/b/2b85a552-2119-4d9c-b7c1-c09c2d9f2f38.jpg?1594736130
 flavor_text: \"In this world, it's kill or be killed. I'd rather not be the latter.\"
 oracle_text: Destroy target creature or planeswalker.
+mana_cost: "{4}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{B}
 ---
 # Finishing Blow (Core Set 2021)
 

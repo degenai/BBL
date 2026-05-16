@@ -35,13 +35,14 @@ average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/sm3/68_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Shin Nagasawa
 flavor_text: Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.
-oracle_text: "[Ability: Heal Block] If you have Solrock in play, Pokémon (both yours and your opponent's) can't be healed.\\nLunar Blast (FightingColorless) 30"
+oracle_text: "[Ability: Heal Block] If you have Solrock in play, Pokémon (both yours and your opponent's) can't be healed."
+Lunar Blast (FightingColorless) 30
 mood: sublime
 time_of_day: night
 setting: void
@@ -50,6 +51,9 @@ ip_confidence: high
 ip_verified: true
 characters:
   - solrock-lunatone-pair
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

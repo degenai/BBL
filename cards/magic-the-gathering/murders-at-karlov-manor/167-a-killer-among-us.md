@@ -26,15 +26,15 @@ tags_filter:
   - group
   - wide
   - scene-mode
-  - multicolor-red-green
   - enchantment
   - deathtouch
+  - green-magic
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/167-a-killer-among-us.png
 average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/2/c/2c1392c5-91a5-4e6e-803d-ed032e4d594b.png?1706242059
 art_match_confidence: high
 needs_manual_review: false
@@ -48,10 +48,10 @@ image_quality: high
 mood: grim
 time_of_day: day
 setting: forest
+mana_cost: "{4}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{G}
 ---
 # A Killer Among Us (Murders at Karlov Manor)
 

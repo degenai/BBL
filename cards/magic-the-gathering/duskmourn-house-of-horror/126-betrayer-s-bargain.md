@@ -43,7 +43,7 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/7/9/7956ae00-8f0c-48f0-8110-19ff53863876.png?1726286318
 art_match_confidence: high
 needs_manual_review: false
@@ -60,12 +60,12 @@ ip_confidence: high
 ip_verified: true
 characters:
   - valgavoth
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
   - ip-verified
-mana_cost: {1}{R}
 ---
 # Betrayer's Bargain (Duskmourn: House of Horror)
 

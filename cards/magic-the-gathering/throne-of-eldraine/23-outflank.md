@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.16
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/23-outflank
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/6/663e0208-81c3-4a76-bcc2-bc59cf8ca649.jpg?1572489739
 flavor_text: \"With the drum of hooves and a flash of blades, the monster's terrifying roar changed to a cry of fear.\"\n—*Legend of the Gilded Knights*
 oracle_text: Outflank deals damage to target attacking or blocking creature equal to the number of creatures you control.
+mana_cost: "{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {W}
 ---
 # Outflank (Throne of Eldraine)
 

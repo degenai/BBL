@@ -18,7 +18,7 @@ appears_on:
   - magic-the-gathering/war-of-the-spark/35-topple-the-statue
   - magic-the-gathering/war-of-the-spark/190-despark
   - magic-the-gathering/war-of-the-spark/92-god-eternal-bontu
-  - magic-the-gathering/mystery-booster-cards/90-the-eldest-reborn
+  - magic-the-gathering/the-list/90-the-eldest-reborn
 related_hubs: "[rebellion]"
 related_symbols: []
 ip_resolution_for: nicol-bolas

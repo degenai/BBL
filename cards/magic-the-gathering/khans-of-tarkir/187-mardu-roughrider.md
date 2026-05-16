@@ -31,17 +31,15 @@ tags_filter:
   - male-figure
   - creature-orc
   - creature-warrior
-  - red-magic
-  - white-magic
-  - black-magic
   - multicolor-mardu
   - rider-and-mount
+  - multicolor-white-black-red
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/187-mardu-roughrider.png
 average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -54,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/187-mardu-roug
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/6/d6341345-55a6-43f3-915a-c03afea92ec3.jpg?1562794206
 flavor_text: The most ferocious saddlebrutes lead the assault, ramming through massed pikes and stout barricades as if they were paper and silk.
 oracle_text: Whenever this creature attacks, target creature can't block this turn.
+mana_cost: "{2}{R}{W}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{R}{W}{B}
 ---
 # Mardu Roughrider (Khans of Tarkir)
 

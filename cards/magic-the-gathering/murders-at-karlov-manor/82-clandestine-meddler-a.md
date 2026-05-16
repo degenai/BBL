@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/2/e/2e069de0-3218-456c-b191-93e755634783.png?1706241684
 art_match_confidence: high
 needs_manual_review: false
@@ -50,10 +50,10 @@ image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{2}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{B}
 ---
 # Clandestine Meddler (a) (Murders at Karlov Manor)
 

@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10/184_e28abc268f0b1a8b854f48cf71dbec9f2c99c793.jpg
 art_match_confidence: high
 needs_manual_review: false
@@ -43,7 +43,15 @@ artist: Renato Roldan / Amanda Duarte
 flavor_text: “A plan only fails when you don't learn from it. And my
 plans never fail.”
 —David Xanatos
+plans never fail.”
+—David Xanatos
+plans never fail.”
+—David Xanatos
 oracle_text: MINOR INCONVENIENCE When you play this character,
+you may choose and discard a card to deal 2 damage to
+chosen character.
+you may choose and discard a card to deal 2 damage to
+chosen character.
 you may choose and discard a card to deal 2 damage to
 chosen character.
 image_width: 1468

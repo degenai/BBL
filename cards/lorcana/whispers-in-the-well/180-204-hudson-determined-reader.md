@@ -36,12 +36,16 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10/180_cd1cced6c985969553dbe65139d073036d4fce77.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Leonardo Giammichele
 oracle_text: FINDING ANSWERS When you play this character,
+you may draw a card, then choose and discard
+a card.
+STONE BY DAY If you have 3 or more cards in your
+hand, this character can't ready.
 you may draw a card, then choose and discard
 a card.
 STONE BY DAY If you have 3 or more cards in your

@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -49,10 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/159-shock--art.j
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/9/59fa8e8d-bcb8-47bf-b71a-df11c8d0f2c9.jpg?1641847379
 flavor_text: \"The beauty of it is they never see it coming. Ever.\"\n—Razzix, sparkmage
 oracle_text: Shock deals 2 damage to any target.
+mana_cost: "{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {R}
 ---
 # Shock (Core Set 2021)
 

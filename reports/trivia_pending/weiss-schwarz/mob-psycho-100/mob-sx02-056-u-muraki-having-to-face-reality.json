@@ -1,0 +1,41 @@
+{
+  "card_name": "Muraki: Having to Face Reality",
+  "game": "Weiss Schwarz",
+  "set": "Mob Psycho 100",
+  "collector_number": "MOB/SX02-056 U",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card title explicitly names Muraki. The MOB/SX02 set is the Mob Psycho 100 Weiss Schwarz set. Vision description (large bald figure with formal bearing, confrontational scene) matches Muraki's canonical appearance — bald, scar on head, wore a superhero-esque costume during his Claw period. Card title 'Having to Face Reality' directly references the scene where Reigen (or Mob) calls out Muraki's behavior. Auto-verify: name on card.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "This card is from the Weiss Schwarz English Edition set MOB/SX02, the Mob Psycho 100 release by Bushiroad. The English edition released in late 2022, adapted from the Japanese set. The MOB prefix and SX02 designation are unique to this franchise in the Weiss Schwarz product line.",
+      "sources": ["ICv2: Mob Psycho 100 for Weiss Schwarz", "Bushiroad Global Online Store"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Muraki (full name Muraki Tomohiro) is an esper and former member of Claw's upper echelon unit known as 'Scar,' part of the 7th Division. His psychic ability is Spiritual Projection Technique — creating intangible spirit-clones immune to physical attacks. Despite being able to overwhelm Ritsu Kageyama in combat, he was memorably humiliated by Arataka Reigen without the use of any psychic ability.",
+      "sources": ["Mob Psycho 100 Wiki (Fandom): Muraki"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The card title 'Having to Face Reality' references Muraki's character-defining moment: Reigen defeats him by questioning his head decoration and shoulder pads and telling him to 'act like an adult,' causing Muraki to abandon his cosplay outfit and begin wearing a suit. The card art shows the confrontational scene from that encounter.",
+      "sources": ["Mob Psycho 100 Wiki (Fandom): Muraki", "WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "After his defeat, Muraki undergoes one of the more comedic redemption arcs in the series — he becomes devoted to Reigen and eventually fights against Claw alongside the protagonists. The 'facing reality' framing makes this Uncommon a snapshot of his transition point, not his villain peak.",
+      "sources": ["Mob Psycho 100 Wiki (Fandom): Muraki"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Arataka Reigen", "set": "MOB/SX02", "note": "The character responsible for Muraki's defeat and transformation; likely in the same set"},
+    {"name": "Mob (Shigeo Kageyama)", "set": "MOB/SX02", "note": "Series protagonist; Muraki is an antagonist in his arc"},
+    {"name": "Ritsu Kageyama", "set": "MOB/SX02", "note": "Mob's brother; Muraki overpowered Ritsu in their encounter"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

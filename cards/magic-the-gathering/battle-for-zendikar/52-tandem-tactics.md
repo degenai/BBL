@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/6/a/6a8aaf9c-9aa5-44db-9610-402389a3ddc5.png?1562920087
 art_match_confidence: high
 needs_manual_review: false
@@ -49,10 +49,10 @@ oracle_text: Up to two target creatures each get +1/+2 until end of turn. You ga
 mood: action
 time_of_day: day
 setting: mountain
+mana_cost: "{1}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{W}
 ---
 # Tandem Tactics (Battle for Zendikar)
 

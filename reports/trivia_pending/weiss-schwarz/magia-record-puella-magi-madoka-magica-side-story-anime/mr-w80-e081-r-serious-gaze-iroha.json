@@ -1,0 +1,41 @@
+{
+  "card_name": "Serious Gaze, Iroha",
+  "game": "Weiss Schwarz",
+  "set": "Magia Record: Puella Magi Madoka Magica [Side Story] (Anime)",
+  "collector_number": "MR/W80-E081 R",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly includes 'Iroha' and the collector set prefix MR/W80 is the Magia Record English Weiss Schwarz set. Vision description (pink hair, ornate hat, magical-girl transformation) matches Iroha Tamaki's canonical appearance. Auto-verify: card title names the character directly.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "This card is from the Weiss Schwarz English Edition set MR/W80, the Magia Record: Puella Magi Madoka Magica Side Story (Anime) release by Bushiroad. The set adapts the mobile game spin-off of the 2011 Puella Magi Madoka Magica series and its three-season anime adaptation (Shaft, 2020-2022). Collector number E081 marks it as an English-edition Rare.",
+      "sources": ["ws-tcg.com cardlist", "Wikipedia: Magia Record", "ICv2 Bushiroad announcement"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Iroha Tamaki is the protagonist of Magia Record, distinct from the original Madoka Magica cast. She became a magical girl by wishing to cure her younger sister Ui's illness and arrived in Kamihama City searching for Ui after her sister disappeared from her memory. Her primary weapon is an arm-mounted crossbow and her magic is healing-based.",
+      "sources": ["Puella Magi Wiki: Iroha Tamaki", "Wikipedia: Magia Record"]
+    },
+    {
+      "category": "design",
+      "text": "The card's 'Serious Gaze' title highlights Iroha's defining narrative trait — her quiet determination despite being a relatively passive and self-doubting character compared to other magical girls. The MR/W80 set is compatible with the earlier Madoka Magica Weiss Schwarz sets (MM/ prefix), allowing cross-set deck building.",
+      "sources": ["ws-tcg.com cardlist", "Puella Magi Wiki: Iroha Tamaki"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The anime adaptation of Magia Record ran for three seasons: Season 1 (January 2020), Season 2 'The Eve of Awakening' (August-September 2021), and Season 3 'Dawn of a Shallow Dream' (April 2022), all produced by Shaft — the same studio behind the original Madoka Magica series.",
+      "sources": ["Wikipedia: Magia Record", "Anime News Network"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Iroha Tamaki (various)", "set": "MR/W80", "note": "Multiple Iroha Tamaki cards exist in the same set across different rarities and game states"},
+    {"name": "Yachiyo Nanami", "set": "MR/W80", "note": "Co-protagonist of Magia Record; appears in the same English set"},
+    {"name": "Madoka Kaname", "set": "MM/ sets", "note": "Original series protagonist; sets are cross-compatible with MR/W80"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

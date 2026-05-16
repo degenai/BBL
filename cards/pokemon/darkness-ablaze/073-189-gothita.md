@@ -7,7 +7,7 @@ rarity: Common
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
 tags_hub:
@@ -33,13 +33,14 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh3/73_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Mizue
 flavor_text: Though they're still only babies, there's psychic power stored in their ribbonlike feelers, and sometimes they use that power to fight.
-oracle_text: "Fortunate Eye (Psychic): Look at the top 5 cards of your opponent's deck and put them back in any order.\\nGentle Slap (PsychicColorless) 30"
+oracle_text: "Fortunate Eye (Psychic): Look at the top 5 cards of your opponent's deck and put them back in any order."
+Gentle Slap (PsychicColorless) 30
 mood: peaceful
 time_of_day: day
 setting: indoor
@@ -47,6 +48,9 @@ subject_known_ip: true
 suspected_ip: Gothita
 ip_confidence: high
 ip_verified: false
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

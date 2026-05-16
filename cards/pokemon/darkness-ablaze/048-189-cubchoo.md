@@ -36,19 +36,23 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh3/48_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Saya Tsuruta
 flavor_text: When this Pokémon is in good health, its snot becomes thicker and stickier. It will smear its snot on anyone it doesn't like.
-oracle_text: Chop (Colorless) 10\nIcicle (WaterColorless) 30
+oracle_text: Chop (Colorless) 10
+Icicle (WaterColorless) 30
 mood: peaceful
 time_of_day: indeterminate
 setting: other
 suspected_ip: Cubchoo
 ip_confidence: high
 ip_verified: true
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

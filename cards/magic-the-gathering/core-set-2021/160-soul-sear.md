@@ -41,7 +41,7 @@ average_cost_paid: 0
 market_price: 0.25
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/6/2/62584e4f-dac1-4d99-ac0a-6a2451603889.png?1594736775
 art_match_confidence: high
 needs_manual_review: false
@@ -53,10 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/160-soul-sear--a
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/2/62584e4f-dac1-4d99-ac0a-6a2451603889.jpg?1594736775
 flavor_text: There was no witty retort, no confident boast to accompany the attack. There was only pain.
 oracle_text: Soul Sear deals 5 damage to target creature or planeswalker. That permanent loses indestructible until end of turn.
+mana_cost: "{2}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{R}
 ---
 # Soul Sear (Core Set 2021)
 

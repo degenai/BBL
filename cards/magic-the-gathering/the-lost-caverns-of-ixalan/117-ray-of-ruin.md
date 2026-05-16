@@ -26,14 +26,14 @@ tags_filter:
   - wide-shot
   - narrative
   - no-face
-  - red-magic
   - instant
+  - black-magic
 reference_image: cards/_images/magic-the-gathering/the-lost-caverns-of-ixalan/117-ray-of-ruin.png
 average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/d/4/d440d90e-ac7e-4715-971a-700c977c7fde.png?1699044171
 art_match_confidence: high
 needs_manual_review: false
@@ -48,10 +48,10 @@ image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: urban
+mana_cost: "{4}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{B}
 ---
 # Ray of Ruin (The Lost Caverns of Ixalan)
 

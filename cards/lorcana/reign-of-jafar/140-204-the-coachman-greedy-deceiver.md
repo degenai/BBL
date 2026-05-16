@@ -36,12 +36,15 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set8/140_72471be6dddeeb754476e213c78d82eb7a713652.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Filipe Laurentino
 oracle_text: WILD RIDE While 2 or more characters of yours
+are exerted, this character gets +2 ¤ and
+gains Evasive. (Only characters with Evasive can
+challenge them.)
 are exerted, this character gets +2 ¤ and
 gains Evasive. (Only characters with Evasive can
 challenge them.)

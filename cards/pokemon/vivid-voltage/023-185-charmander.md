@@ -37,13 +37,14 @@ average_cost_paid: 0
 market_price: 0.23
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh4/23_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: MAHOU
 flavor_text: It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.
-oracle_text: "Collect (Fire): Draw a card.\\nFlare (FireFire) 30"
+oracle_text: "Collect (Fire): Draw a card."
+Flare (FireFire) 30
 mood: peaceful
 time_of_day: indeterminate
 setting: other
@@ -52,6 +53,9 @@ ip_confidence: high
 ip_verified: true
 characters:
   - charizard-line
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

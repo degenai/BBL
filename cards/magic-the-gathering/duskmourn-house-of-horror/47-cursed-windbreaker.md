@@ -27,10 +27,10 @@ tags_filter:
   - no-face
   - none-figure
   - mid-shot
-  - colorless-magic
   - artifact
   - equipment
   - forward-facing
+  - blue-magic
 symbols:
   - manifest-dread
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/47-cursed-windbreaker.png
@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.16
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/f/6/f651e216-f9da-4696-8a1d-6d674e9044c0.png?1726286030
 art_match_confidence: high
 needs_manual_review: false
@@ -52,10 +52,10 @@ image_quality: high
 mood: horror
 time_of_day: night
 setting: urban
+mana_cost: "{2}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{U}
 ---
 # Cursed Windbreaker (Duskmourn: House of Horror)
 

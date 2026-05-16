@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/4/f/4f8dc77e-f003-4c25-8394-cda22e3ea039.png?1562786819
 art_match_confidence: high
 needs_manual_review: false
@@ -51,10 +51,10 @@ image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: forest
+mana_cost: "{3}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{G}
 ---
 # Undergrowth Scavenger (Magic 2015 (M15))
 

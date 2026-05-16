@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/177-syr-far
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/a/9a8b1fea-3c5d-43d2-b4d2-e8938f3f7b9c.jpg?1572490675
 flavor_text: \"Words are pointless. It's what you do with your hammer that counts.\"
 oracle_text: Whenever Syr Faren attacks, another target attacking creature gets +X/+X until end of turn, where X is Syr Faren's power.
+mana_cost: "{G}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {G}{G}
 ---
 # Syr Faren, the Hengehammer (Throne of Eldraine)
 

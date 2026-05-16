@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/c/9/c99f0dc1-c8cf-4733-a874-5ae57b38258e.png?1562935492
 art_match_confidence: high
 needs_manual_review: false
@@ -48,10 +48,10 @@ image_quality: high
 mood: sublime
 time_of_day: day
 setting: mountain
+mana_cost: "{2}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{W}
 ---
 # Wall of Resurgence (Oath of the Gatewatch)
 

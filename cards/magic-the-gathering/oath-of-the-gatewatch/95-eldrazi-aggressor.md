@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/6/2/62f3ec85-552d-4e28-939e-ab2c39e3e9c5.png?1562915027
 art_match_confidence: high
 needs_manual_review: false
@@ -49,11 +49,11 @@ image_quality: high
 mood: horror
 time_of_day: night
 setting: forest
+mana_cost: "{2}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {2}{R}
 ---
 # Eldrazi Aggressor (Oath of the Gatewatch)
 

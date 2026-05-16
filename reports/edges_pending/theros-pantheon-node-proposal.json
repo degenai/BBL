@@ -5,7 +5,7 @@
   "topology": "branch",
   "endpoints": [
     {"type": "character", "path": "cards/_characters/theros-pantheon.md", "name": "Theros Pantheon (the fifteen gods of Theros)"},
-    {"type": "card", "path": "cards/magic-the-gathering/mystery-booster-cards/146-athreos-god-of-passage.md", "name": "Athreos, God of Passage"},
+    {"type": "card", "path": "cards/magic-the-gathering/the-list/146-athreos-god-of-passage.md", "name": "Athreos, God of Passage"},
     {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/231-altar-of-the-pantheon.md", "name": "Altar of the Pantheon"},
     {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/115-soulreaper-of-mogis.md", "name": "Soulreaper of Mogis"},
     {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/227-slaughter-priest-of-mogis.md", "name": "Slaughter-Priest of Mogis"},
@@ -35,7 +35,7 @@
   ],
   "files_modified": [
     "cards/_characters/theros-pantheon.md",
-    "cards/magic-the-gathering/mystery-booster-cards/146-athreos-god-of-passage.md",
+    "cards/magic-the-gathering/the-list/146-athreos-god-of-passage.md",
     "cards/magic-the-gathering/theros-beyond-death/231-altar-of-the-pantheon.md",
     "cards/magic-the-gathering/theros-beyond-death/115-soulreaper-of-mogis.md",
     "cards/magic-the-gathering/theros-beyond-death/227-slaughter-priest-of-mogis.md",

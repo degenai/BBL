@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/8/a/8abf4bbe-5b1c-4f6f-be32-5f61c66e1830.png?1562150085
 art_match_confidence: high
 needs_manual_review: false
@@ -48,10 +48,10 @@ artist: Doug Chaffee
 art_crop_image: cards/_images/magic-the-gathering/mirrodin/193-leonin-scimitar--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/a/8abf4bbe-5b1c-4f6f-be32-5f61c66e1830.jpg?1562150085
 oracle_text: "Equipped creature gets +1/+1.\\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
+mana_cost: "{1}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}
 ---
 # Leonin Scimitar (Mirrodin)
 

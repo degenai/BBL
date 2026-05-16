@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.24
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/7/b/7bc33252-145f-45c0-bb70-23183c698f66.png?1572490669
 art_match_confidence: high
 needs_manual_review: false
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/176-sporeca
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/b/7bc33252-145f-45c0-bb70-23183c698f66.jpg?1572490669
 flavor_text: After years of taunts and aerial assaults from Rankle's minions, the witches of Maraleaf Forest acquired new familiars.
 oracle_text: Reach
+mana_cost: "{2}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{G}
 ---
 # Sporecap Spider (Throne of Eldraine)
 

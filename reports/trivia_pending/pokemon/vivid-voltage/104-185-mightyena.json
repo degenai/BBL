@@ -1,0 +1,46 @@
+{
+  "card_name": "Mightyena",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "104/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name = species name = canonical Pokemon species. PokemonTCG.io confirms nationalPokedexNumbers: [262], species 'Mightyena'. Auto-verify applies.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Vivid Voltage (SWSH4) released November 13, 2020. Mightyena prints as a Stage 1 Darkness-type Uncommon (104/185), evolving from Poochyena. Regulation Mark D. [PokemonTCG.io API: swsh4]",
+      "sources": ["PokemonTCG.io API: swsh4"]
+    },
+    {
+      "category": "design",
+      "text": "Mightyena is National Pokedex no. 262, introduced in Generation III (Hoenn). Its design appears based on a hyena — possibly the brown or striped hyena, with the dorsal mane influencing the thick fur collar — and may also draw from dog breeds such as the German Shepherd and Australian Kelpie. Its name combines 'mighty' and 'hyena.' It evolves from Poochyena at level 18. [WebSearch snippet: Bulbapedia/Mightyena; pokemondb.net/pokedex/mightyena]",
+      "sources": ["WebSearch snippet: bulbapedia.bulbagarden.net/wiki/Mightyena_(Pokemon)", "WebSearch snippet: pokemondb.net/pokedex/mightyena"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It chases down prey in a pack of around ten. They defeat foes with perfectly coordinated teamwork.\" [PokemonTCG.io API: swsh4-104]",
+      "sources": ["PokemonTCG.io API: swsh4-104"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Mightyena was the signature Dark-type of Team Magma and Team Aqua grunts throughout the Gen 3 games and the Ruby/Sapphire anime arc. Both villainous organizations used Poochyena/Mightyena as their rank-and-file Pokemon, making the species one of the most visible Hoenn antagonist markers. [WebSearch snippet: Bulbapedia/Team Magma Grunt; TV Tropes/Pokemon Ruby and Sapphire Team Aqua and Team Magma]",
+      "sources": ["WebSearch snippet: bulbapedia.bulbagarden.net/wiki/Team_Magma_Grunt", "WebSearch snippet: tvtropes.org/pmwiki/pmwiki.php/Characters/PokemonRubyAndSapphireTeamAquaAndTeamMagma"]
+    },
+    {
+      "category": "mechanical",
+      "text": "This printing: Stage 1 Darkness-type, 110 HP, weak to Grass (x2), 1 retreat cost. Two attacks: Ferocious Bellow (1 Darkness, 20 damage + reduces opponent's next attack by 50) and Pitch-Black Fangs (3 energy, 100 damage). Artist: Aya Kusube. [PokemonTCG.io API: swsh4-104]",
+      "sources": ["PokemonTCG.io API: swsh4-104"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Poochyena", "set": "Various", "note": "Pre-evolution; also used by Team Magma/Aqua grunts in Gen 3"},
+    {"name": "Mightyena (Team Magma's)", "set": "Team Magma vs Team Aqua", "note": "Dedicated Team Magma-branded Mightyena card from the EX-era set"},
+    {"name": "Absol", "set": "Various", "note": "Fellow Gen 3 Hoenn Dark-type with thematic pack-and-predator energy; frequent Mightyena thematic co-occurrence in lairs"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.3
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ artist: Izzy
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/17-grateful-apparition--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/d/7dcb1f9d-105d-48c6-bd66-d7e8839de9e1.jpg?1557575969
 oracle_text: Flying\nWhenever this creature deals combat damage to a player or planeswalker, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+mana_cost: "{1}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{W}
 ---
 # Grateful Apparition (War of the Spark)
 

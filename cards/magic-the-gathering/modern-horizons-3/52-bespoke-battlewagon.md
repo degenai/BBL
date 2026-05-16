@@ -26,15 +26,15 @@ tags_filter:
   - no-face
   - wide
   - scene-mode
-  - colorless
   - artifact-vehicle
   - crew
+  - blue-magic
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/52-bespoke-battlewagon.png
 average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/3/f/3feccebc-c792-420d-b96c-51494b5c41db.png?1717011623
 art_match_confidence: high
 needs_manual_review: false
@@ -45,10 +45,10 @@ oracle_text: "{T}: You get {E}{E} (two energy counters).\\n{T}, Pay {E}{E}: Tap 
 mood: other
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{3}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{U}
 ---
 # Bespoke Battlewagon (Modern Horizons 3)
 

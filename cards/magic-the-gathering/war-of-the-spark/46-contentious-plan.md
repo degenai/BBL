@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.39
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/46-contentiou
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/e/8e30deb6-9e1f-4545-ae30-c30ba6c7b3a0.jpg?1636491537
 flavor_text: Niv-Mizzet had perfected a plan, but he had no control over the mortal minds who had to agree to implement it.
 oracle_text: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)\nDraw a card.
+mana_cost: "{1}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{U}
 ---
 # Contentious Plan (War of the Spark)
 

@@ -41,7 +41,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -54,10 +54,10 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/222-jeskai-ban
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/8/684dc050-a66b-4364-9880-56f383db6c0a.jpg?1562787889
 flavor_text: Discipline to persevere, insight to discover.
 oracle_text: "{T}: Add {U}, {R}, or {W}.\\n{U}{R}{W}, {T}, Sacrifice this artifact: Draw a card."
+mana_cost: "{3}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}
 ---
 # Jeskai Banner (Khans of Tarkir)
 

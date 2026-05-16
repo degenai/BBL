@@ -36,13 +36,14 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh3/92_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Miki Tanaka
 flavor_text: When it rotates itself, it gives off light similar to the sun, thus blinding its foes.
-oracle_text: "[Ability: Resistance Shade] If you have Lunatone in play, your opponent's Pokémon in play have no Resistance.\\nRock Throw (FightingColorless) 30"
+oracle_text: "[Ability: Resistance Shade] If you have Lunatone in play, your opponent's Pokémon in play have no Resistance."
+Rock Throw (FightingColorless) 30
 mood: sublime
 time_of_day: day
 setting: desert
@@ -51,6 +52,9 @@ ip_confidence: high
 ip_verified: true
 characters:
   - solrock-lunatone-pair
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

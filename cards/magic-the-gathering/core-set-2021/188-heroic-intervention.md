@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 13.93
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/188-heroic-inter
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/3/43c037e3-7d1a-48ca-8ecc-276696592f62.jpg?1594737038
 flavor_text: \"Wherever the strong would harm the weak, I will be there.\"\n—Ajani Goldmane
 oracle_text: Permanents you control gain hexproof and indestructible until end of turn.
+mana_cost: "{1}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{G}
 ---
 # Heroic Intervention (Core Set 2021)
 

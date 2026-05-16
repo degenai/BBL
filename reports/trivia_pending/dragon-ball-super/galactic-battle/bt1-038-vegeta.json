@@ -1,0 +1,48 @@
+{
+  "card_name": "Vegeta",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-038",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Vision pass explicitly identified black-and-gold Saiyan battle armor, widow's-peak upward hair, and stern authoritative posture — all signature visual identifiers of Vegeta. Card name on the card face is 'Vegeta', special trait is 'Saiyan', and the card is flagged Resurrection F Saga era. Identity is confirmed by card name + canonical visual identifiers; no ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Galactic Battle (BT1) was the inaugural main booster set for the Dragon Ball Super Card Game, released July 28, 2017. It contained 114 cards (60 Common, 30 Uncommon, 12 Rare, 8 Super Rare, 4 Special Rare), making BT1-038 part of the founding print run of the entire game. [PSA CardFacts / The Games Corner AU]",
+      "sources": ["PSA CardFacts: 2017 Dragon Ball Super Series 1 Galactic Battle", "thegamescorner.com.au product listing"]
+    },
+    {
+      "category": "set-lore",
+      "text": "BT1-038 is assigned to the Resurrection F Saga era — the story arc in which Frieza is revived and immediately resumes his vendetta against Vegeta and Goku. In the arc, Vegeta trains off-planet with the angel Whis, and during the final battle is killed when Frieza destroys Earth — an event reversed by Whis rewinding time. [Wikipedia: Vegeta]",
+      "sources": ["Wikipedia: Vegeta", "WebSearch snippet via Dragon Ball Wiki"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT1-038 is a Blue Battle card with 20,000 Power and 5,000 Combo Power, costing 3 Blue energy. Its adjacent common-run neighbor BT1-037 'Assailant Vegeta' (Uncommon, 15,000 Power) carries the [Critical] keyword — when it inflicts damage, the opponent places those cards in the Drop Area instead of their hand. The two cards form a small Vegeta common-tier block within BT1's Blue color. [DBZ Exchange / CoreTCG / ToyWiz via WebSearch snippets]",
+      "sources": ["DBZ Exchange: BT1-038 Vegeta listing", "CoreTCG: Assailant Vegeta BT1-037 listing", "ToyWiz: BT1-038 listing"]
+    },
+    {
+      "category": "design",
+      "text": "At least five distinct Vegeta cards appear in the BT1 set at different rarities: BT1-028 (Rare Leader / Super Saiyan Blue Vegeta flip), BT1-036 (God Charge Vegeta), BT1-037 (Assailant Vegeta, Uncommon), BT1-038 (this card, Common), and BT1-064 (Raging Attacker Vegeta, Rare). The density of Vegeta representations across every rarity tier in the inaugural set reflects his co-protagonist billing alongside Goku in Dragon Ball Super's early marketing. [WebSearch snippets: Bleedingcool checklist / retailer listings]",
+      "sources": ["Bleedingcool: Galactic Battle Checklist", "TotalCards.net product listings", "DBZ Exchange listings"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Vegeta is the prince of the Saiyan race and son of King Vegeta; the planet bearing their name was destroyed by Frieza, who feared the Saiyan race's potential to produce a Super Saiyan. Vegeta survived because he ignored Frieza's recall order. His title 'Prince of all Saiyans' is the core of his identity throughout Dragon Ball Super — a dynasty without a planet, a king without a kingdom. [Wikipedia: Vegeta / Dragon Ball Wiki via WebSearch]",
+      "sources": ["Wikipedia: Vegeta", "WebSearch snippet: CBR — Vegeta Saiyan royalty retcon"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Vegeta // Super Saiyan Blue Vegeta", "set": "Galactic Battle", "note": "BT1-028, Rare Leader card — the highest-rarity Vegeta in BT1, flips to Super Saiyan Blue form"},
+    {"name": "Assailant Vegeta", "set": "Galactic Battle", "note": "BT1-037, Uncommon — adjacent common-run neighbor with Critical keyword, same Resurrection F Saga era"},
+    {"name": "Raging Attacker Vegeta", "set": "Galactic Battle", "note": "BT1-064, Rare — higher-rarity Vegeta battle card in same set"},
+    {"name": "God Charge Vegeta", "set": "Galactic Battle", "note": "BT1-036 — Super Saiyan Blue form Vegeta in same set, part of the Blue-color Vegeta block"},
+    {"name": "At All Costs Vegeta", "set": "Colossal Warfare", "note": "BT4-030 — later Vegeta card in the corpus, different era/form for cross-set comparison"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

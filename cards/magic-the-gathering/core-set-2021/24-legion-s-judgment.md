@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/0/3/032f6c5a-8d88-4a55-a54b-28df42d801e1.png?1594735024
 art_match_confidence: high
 needs_manual_review: false
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/24-legion-s-judg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/3/032f6c5a-8d88-4a55-a54b-28df42d801e1.jpg?1594735024
 flavor_text: \"My lance was once wielded by Venerable Tarrian. In his name and by his might, I cast you down!\"
 oracle_text: Destroy target creature with power 4 or greater.
+mana_cost: "{2}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{W}
 ---
 # Legion's Judgment (Core Set 2021)
 

@@ -36,12 +36,13 @@ average_cost_paid: 0
 market_price: 1.56
 market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh2/154_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: nagimiso
-oracle_text: Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.\nYou may play only 1 Supporter card during your turn.
+oracle_text: Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.
+You may play only 1 Supporter card during your turn.
 mood: grim
 time_of_day: indeterminate
 setting: indoor
@@ -50,6 +51,9 @@ ip_confidence: high
 ip_verified: true
 characters:
   - team-rocket
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

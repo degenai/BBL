@@ -36,12 +36,13 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set12/180_593a4afd383a78bb1447bce1cc973208f315d030.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Adam Ford
 flavor_text: “We've got the strength and we've got the swords.
+What vine could stand against all of that, right Da?”
 What vine could stand against all of that, right Da?”
 image_width: 1468
 image_height: 2048

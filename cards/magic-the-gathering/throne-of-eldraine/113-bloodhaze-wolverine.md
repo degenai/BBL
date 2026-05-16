@@ -33,7 +33,7 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/3/d/3d6c0bc1-cb07-4009-83b1-1122381cf9c4.png?1572490287
 art_match_confidence: high
 needs_manual_review: false
@@ -48,11 +48,11 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: forest
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {1}{R}
 ---
 # Bloodhaze Wolverine (Throne of Eldraine)
 

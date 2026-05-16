@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/1/2/12ccd555-60d4-49a1-b022-1e119344172a.png?1738356838
 art_match_confidence: high
 needs_manual_review: false
@@ -29,8 +29,8 @@ oracle_text: "{3}, {T}, Sacrifice this artifact: It deals 3 damage to target cre
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{1}"
 tags:
   - card
-mana_cost: {1}
 ---
 # Scrap Compactor (Aetherdrift)

@@ -30,7 +30,7 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 mood: sublime
 time_of_day: indeterminate
 setting: other
@@ -42,10 +42,10 @@ art_crop_image: cards/_images/magic-the-gathering/alara-reborn/84-vectis-dominat
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/c/1cfb7589-a53e-4580-bd92-641fd4785934.jpg?1562640010
 flavor_text: \"I appreciate the artistry of the telemins, but the creatures of the other worlds provide a much more dramatic performance.\"\n—Ennor, mentalist
 oracle_text: "{T}: Tap target creature unless its controller pays 2 life."
+mana_cost: "{1}{W}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{W}{B}
 ---
 # Vectis Dominator (Alara Reborn)
 

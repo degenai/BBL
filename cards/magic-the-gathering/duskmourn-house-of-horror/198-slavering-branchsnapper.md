@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/5/e/5ed7ca4d-5895-4074-8315-656363d14862.png?1726286606
 art_match_confidence: high
 needs_manual_review: false
@@ -52,11 +52,11 @@ time_of_day: twilight
 setting: forest
 characters:
   - valgavoth
+mana_cost: "{4}{G}{G}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {4}{G}{G}
 ---
 # Slavering Branchsnapper (Duskmourn: House of Horror)
 

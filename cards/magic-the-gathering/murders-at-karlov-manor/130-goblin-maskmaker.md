@@ -32,7 +32,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/6/1/6154a991-c602-4fca-91a3-3830060da60e.png?1706241877
 art_match_confidence: high
 needs_manual_review: false
@@ -47,11 +47,11 @@ image_quality: high
 mood: cozy
 time_of_day: day
 setting: indoor
+mana_cost: "{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {R}
 ---
 # Goblin Maskmaker (Murders at Karlov Manor)
 

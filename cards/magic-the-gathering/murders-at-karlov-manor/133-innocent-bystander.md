@@ -25,14 +25,14 @@ tags_filter:
   - group
   - mid-shot
   - forward-facing
-  - white-magic
   - creature
+  - red-magic
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/133-innocent-bystander.png
 average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/0/8/085f4595-4ae5-428e-a934-e918774df6fd.png?1706241885
 art_match_confidence: high
 needs_manual_review: false
@@ -47,11 +47,11 @@ image_quality: high
 mood: horror
 time_of_day: night
 setting: urban
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {1}{R}
 ---
 # Innocent Bystander (Murders at Karlov Manor)
 

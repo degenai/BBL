@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.29
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/f/8/f82541f2-b17c-45b4-87ff-f9b46d23578c.png?1572490242
 art_match_confidence: high
 needs_manual_review: false
@@ -48,11 +48,11 @@ image_quality: high
 mood: grim
 time_of_day: twilight
 setting: other
+mana_cost: "{1}{B} // {B}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {1}{B} // {B}
 ---
 # Smitten Swordmaster (Throne of Eldraine)
 

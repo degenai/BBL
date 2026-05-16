@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set8/131_30cef4186fdcffcc9778e8e54379c6c2f12c7f2e.jpg
 art_match_confidence: high
 needs_manual_review: false
@@ -43,7 +43,10 @@ artist: Yu Nguyen
 flavor_text: “You were so focused on me and Mulan that you forgot
 about my man Cri-Kee here. And that was a mistake!”
 —Mushu
+about my man Cri-Kee here. And that was a mistake!”
+—Mushu
 oracle_text: AT HER SIDE While you have 2 or more other exerted
+characters in play, this character gets +2 ◊.
 characters in play, this character gets +2 ◊.
 image_width: 1468
 image_height: 2048

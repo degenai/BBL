@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.16
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/f/5/f5ed9f08-56e8-4e24-aae2-05270d7c1ba8.png?1594735438
 art_match_confidence: high
 needs_manual_review: false
@@ -46,10 +46,10 @@ artist: Mark Behm
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/47-capture-sphere--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/5/f5ed9f08-56e8-4e24-aae2-05270d7c1ba8.jpg?1594735438
 oracle_text: Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.
+mana_cost: "{3}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{U}
 ---
 # Capture Sphere (Core Set 2021)
 

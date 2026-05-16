@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.02
 market_price_as_of: 2026-05-16
 date_added: 2026-05-10
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/8/2/820c2932-2e23-4f67-92d0-a630aec6f1b4.png?1726286509
 art_match_confidence: high
 needs_manual_review: false
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/174-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/2/820c2932-2e23-4f67-92d0-a630aec6f1b4.jpg?1726286509
 flavor_text: \"Please be dead, please be dead, please be dead.\"
 oracle_text: Vigilance\nWhenever a face-down permanent you control enters and whenever this creature or another permanent you control is turned face up, put a +1/+1 counter on this creature.
+mana_cost: "{2}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{G}
 ---
 # Cryptid Inspector (Duskmourn: House of Horror)
 

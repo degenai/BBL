@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.24
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/46-cancel--art.j
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/9/59e14910-ee2e-49ae-855e-46a8ab6cad82.jpg?1594735420
 flavor_text: \"I decide what stands in my way.\"
 oracle_text: Counter target spell.
+mana_cost: "{1}{U}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{U}{U}
 ---
 # Cancel (Core Set 2021)
 

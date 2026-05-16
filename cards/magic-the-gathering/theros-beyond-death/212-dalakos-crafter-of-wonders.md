@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.36
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/5/7/57ea0ba2-3ccf-4313-ad1d-161272c48851.png?1581481011
 art_match_confidence: high
 needs_manual_review: false
@@ -51,11 +51,11 @@ mood: other
 time_of_day: indeterminate
 setting: indoor
 subject_known_ip: true
+mana_cost: "{1}{U}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {1}{U}{R}
 ---
 # Dalakos, Crafter of Wonders (Theros Beyond Death)
 

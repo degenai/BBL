@@ -33,13 +33,13 @@ tags_filter:
   - pokemon-common
   - pokemon-basic
   - water-type
-reference_image: cards/_images/pokemon/chilling-reign/033-198-castform-rainy-form.png
+reference_image: cards/_images/pokemon/chilling-reign/033-198-castform-rainy-form.jpg
 average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
-reference_image_source_url: https://images.pokemontcg.io/swsh6/33_hires.png
+last_seen: 2026-05-16
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/7/7c/CastformRainyFormChillingReign33.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: sowsow
@@ -51,9 +51,13 @@ suspected_ip: Castform (Pokemon)
 ip_confidence: high
 ip_verified: true
 flavor_text: This is Castform's form when pelted by rain. In an experiment where it was placed in a shower, this Pokémon didn't change to this form.
-oracle_text: "[Ability: Weather Reading] If you have 8 or more Stadium cards in your discard pile, ignore all Energy in this Pokémon's attack costs.\\nRainfall (WaterColorless): This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+oracle_text: "[Ability: Weather Reading] If you have 8 or more Stadium cards in your discard pile, ignore all Energy in this Pokémon's attack costs."
+Rainfall (WaterColorless): This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
 characters:
   - castform-forms-cycle
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

@@ -41,7 +41,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -54,11 +54,11 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/51-squad-cap
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/4/24c98bc7-f6a9-4aaf-a6dc-7067c3d8a41a.jpg?1608909045
 flavor_text: The strength of the one is the strength of the many.
 oracle_text: Vigilance (Attacking doesn't cause this creature to tap.)\nThis creature enters with a +1/+1 counter on it for each other creature you control.
+mana_cost: "{4}{W}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {4}{W}
 ---
 # Squad Captain (Commander Legends)
 

@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/9/8/98b7070d-4b09-4390-aa21-1bc0aa2b629c.png?1581649081
 art_match_confidence: high
 needs_manual_review: false
@@ -29,8 +29,8 @@ oracle_text: Enchant creature or enchantment\nEnchanted permanent is an enchantm
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{3}{U}"
 tags:
   - card
-mana_cost: {3}{U}
 ---
 # One with the Stars (Theros Beyond Death)

@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.45
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -52,10 +52,10 @@ artist: Wisnu Tan
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/36-sentinel-s-eyes--foil--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/2/32adc118-b81e-48c2-b7ef-b62e8c3308d6.jpg?1581479235
 oracle_text: Enchant creature\nEnchanted creature gets +1/+1 and has vigilance.\nEscape—{W}, Exile two other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
+mana_cost: "{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {W}
 ---
 # Sentinel's Eyes (Theros Beyond Death)
 

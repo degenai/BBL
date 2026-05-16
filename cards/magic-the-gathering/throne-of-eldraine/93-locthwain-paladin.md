@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/93-locthwai
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/a/da6f21a8-3dd0-42af-8a93-84f98968c781.jpg?1572490167
 flavor_text: \"I will find the king if I have to ride from summer to winter and back again.\"
 oracle_text: Menace (This creature can't be blocked except by two or more creatures.)\nAdamant — If at least three black mana was spent to cast this spell, this creature enters with a +1/+1 counter on it.
+mana_cost: "{3}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{B}
 ---
 # Locthwain Paladin (Throne of Eldraine)
 

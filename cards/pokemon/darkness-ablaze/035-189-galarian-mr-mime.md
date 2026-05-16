@@ -34,13 +34,14 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/swsh3/35_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Misa Tsutsui
 flavor_text: Its talent is tap-dancing. It can also manipulate temperatures to create a floor of ice, which this Pokémon can kick up to use as a barrier.
-oracle_text: "Reflect (Water): During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).\\nIcy Snow (ColorlessColorless) 30"
+oracle_text: "Reflect (Water): During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+Icy Snow (ColorlessColorless) 30
 mood: action
 time_of_day: indeterminate
 setting: mountain
@@ -49,6 +50,9 @@ ip_confidence: high
 ip_verified: true
 characters:
   - galarian-regional-forms
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

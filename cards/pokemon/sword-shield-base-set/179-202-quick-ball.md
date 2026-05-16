@@ -17,20 +17,25 @@ average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-15
-reference_image_source_url: https://images.pokemontcg.io/dp5/86_hires.png
-art_match_confidence: low
-needs_manual_review: true
+last_seen: 2026-05-16
+reference_image_source_url: https://images.pokemontcg.io/swsh1/179_hires.png
+art_match_confidence: high
+needs_manual_review: false
 manual_review_reason: Set 'Sword & Shield Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
-oracle_text: Reveal cards from your deck until you reveal a Pokémon. Show that Pokémon to your opponent and put it into your hand. Shuffle the other revealed cards back into your deck. (If you don't reveal a Pokémon, shuffle all the revealed cards back into your deck.)
+oracle_text: You can play this card only if you discard another card from your hand.
+Search your deck for a Basic Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.
+You may play any number of Item cards during your turn.
 review_good: false
 review_bad: false
 review_notes: ""
+artist: sadaji
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon
   - manual-review
-
 ---
 # Quick Ball (Sword & Shield Base Set)
 

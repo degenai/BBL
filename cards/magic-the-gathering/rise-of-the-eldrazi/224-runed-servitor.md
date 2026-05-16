@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/rise-of-the-eldrazi/224-runed-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/d/9dbbbbf6-e3ed-4a36-bedf-11c3514ff965.jpg?1562706780
 flavor_text: Scholars had puzzled for centuries over the ruins at Tal Terig. Its secrets had always lived within one rune-carved head.
 oracle_text: When this creature dies, each player draws a card.
+mana_cost: "{2}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}
 ---
 # Runed Servitor (Rise of the Eldrazi)
 

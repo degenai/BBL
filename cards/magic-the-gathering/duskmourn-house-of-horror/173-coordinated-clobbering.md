@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/d/4/d498cd5d-5807-4297-bc8a-c0941f2f5ce2.png?1726286504
 art_match_confidence: high
 needs_manual_review: false
@@ -53,11 +53,11 @@ setting: indoor
 suspected_ip: Zimone, Tyvar
 ip_confidence: med
 ip_verified: false
+mana_cost: "{G}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {G}
 ---
 # Coordinated Clobbering (Duskmourn: House of Horror)
 

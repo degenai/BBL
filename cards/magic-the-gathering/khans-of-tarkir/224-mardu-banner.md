@@ -42,7 +42,7 @@ average_cost_paid: 0
 market_price: 0.16
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -55,10 +55,10 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/224-mardu-bann
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/e/fe10c56d-a8e1-495d-a03a-0b920b44182f.jpg?1562796606
 flavor_text: Speed to strike, fury to smash.
 oracle_text: "{T}: Add {R}, {W}, or {B}.\\n{R}{W}{B}, {T}, Sacrifice this artifact: Draw a card."
+mana_cost: "{3}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}
 ---
 # Mardu Banner (Khans of Tarkir)
 

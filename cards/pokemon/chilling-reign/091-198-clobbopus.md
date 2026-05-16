@@ -34,13 +34,13 @@ tags_filter:
   - common
   - single-figure
   - centered-composition
-reference_image: cards/_images/pokemon/chilling-reign/091-198-clobbopus.png
+reference_image: cards/_images/pokemon/chilling-reign/091-198-clobbopus.jpg
 average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
-reference_image_source_url: https://images.pokemontcg.io/swsh6/91_hires.png
+last_seen: 2026-05-16
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/f/f4/ClobbopusChillingReign91.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Yuka Morii
@@ -53,6 +53,9 @@ ip_confidence: high
 ip_verified: false
 flavor_text: Its tentacles tear off easily, but it isn't alarmed when that happens—it knows they'll grow back. It's about as smart as a three-year-old.
 oracle_text: Beat (ColorlessColorless) 30
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

@@ -33,7 +33,7 @@ average_cost_paid: 0
 market_price: 0.44
 market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/1/b/1b9296ca-39a8-4aad-be92-0a56c704e950.png?1562202027
 art_match_confidence: high
 needs_manual_review: false
@@ -48,10 +48,10 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: mountain
+mana_cost: "{G}{G}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {G}{G}{G}
 ---
 # Ayula's Influence (Modern Horizons)
 

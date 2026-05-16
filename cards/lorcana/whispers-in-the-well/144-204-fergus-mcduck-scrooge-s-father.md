@@ -37,14 +37,18 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10/144_f05d82152b8d20fbeffba7576aadd4b7c0a46e14.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Kenneth Anderson
 flavor_text: “Ach, close the secret entrance! You're letting all
 the mysterious air out!”
+the mysterious air out!”
 oracle_text: TOUGHEN UP When you play this character,
+chosen character of yours gains Ward until the
+start of your next turn. (Opponents can't choose
+them except to challenge.)
 chosen character of yours gains Ward until the
 start of your next turn. (Opponents can't choose
 them except to challenge.)

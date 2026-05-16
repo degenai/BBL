@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
@@ -51,11 +51,11 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/128-blood-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/d/8d4f3fa3-ba1f-48dc-a56b-738936f1bf86.jpg?1581480083
 flavor_text: It's a small step from revel to bloodbath.
 oracle_text: "Whenever you sacrifice a permanent, put a +1/+1 counter on this creature.\\n{1}{R}, {T}, Sacrifice a creature or enchantment: This creature deals 1 damage to target creature. That creature can't block this turn."
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {1}{R}
 ---
 # Blood Aspirant (Theros Beyond Death)
 

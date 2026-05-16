@@ -40,7 +40,7 @@ average_cost_paid: 0
 market_price: 0.24
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -52,10 +52,10 @@ artist: Matt Stewart
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/173-pollenbright-druid--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/b/4b0f478c-54f8-4087-ad52-d089e2049dda.jpg?1557576985
 oracle_text: When this creature enters, choose one —\n• Put a +1/+1 counter on target creature.\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+mana_cost: "{1}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{G}
 ---
 # Pollenbright Druid (War of the Spark)
 

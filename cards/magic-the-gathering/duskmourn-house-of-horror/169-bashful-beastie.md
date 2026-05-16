@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-16
 date_added: 2026-05-10
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/c/2/c20fa7ee-a4c2-4eb0-9467-195f3b894fa0.png?1726286489
 art_match_confidence: high
 needs_manual_review: false
@@ -51,10 +51,10 @@ flavor_text: No one knows what hides beneath the beasties' masks.
 oracle_text: When this creature dies, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)
 symbols:
   - manifest-dread
+mana_cost: "{4}{G}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{G}
 ---
 # Bashful Beastie (Duskmourn: House of Horror)
 

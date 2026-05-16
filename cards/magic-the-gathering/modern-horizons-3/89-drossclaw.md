@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/7/0/70e68656-3204-4bb5-9f31-8036083fcba6.png?1717011930
 art_match_confidence: high
 needs_manual_review: false
@@ -28,8 +28,8 @@ oracle_text: Living weapon (When this Equipment enters, create a 0/0 black Phyre
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{1}{B}"
 tags:
   - card
-mana_cost: {1}{B}
 ---
 # Drossclaw (Modern Horizons 3)

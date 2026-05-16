@@ -33,7 +33,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/c/0/c0b4cf5c-ac9e-45d4-ae4e-ce0162e9f5bb.png?1562935747
 art_match_confidence: high
 needs_manual_review: false
@@ -48,10 +48,10 @@ image_quality: high
 mood: comedic
 time_of_day: sunset
 setting: other
+mana_cost: "{2}{R}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{R}{R}
 ---
 # Work a Double (Unstable)
 

@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.25
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -48,10 +48,10 @@ artist: Wylie Beckert
 art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/130-thwart-the-grave--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/d/bd037e51-9088-4145-8289-00a86fb72ca1.jpg?1604252055
 oracle_text: This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)\nReturn target creature card and up to one target Cleric, Rogue, Warrior, or Wizard creature card from your graveyard to the battlefield.
+mana_cost: "{4}{B}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{B}{B}
 ---
 # Thwart the Grave (Zendikar Rising)
 

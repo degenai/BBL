@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/5/6/5602756d-76d2-4502-965f-36fc44596123.png?1726286150
 art_match_confidence: high
 needs_manual_review: false
@@ -47,11 +47,11 @@ time_of_day: indeterminate
 setting: indoor
 symbols:
   - manifest-dread
+mana_cost: "{2}{U}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {2}{U}
 ---
 # Unnerving Grasp (Duskmourn: House of Horror)
 

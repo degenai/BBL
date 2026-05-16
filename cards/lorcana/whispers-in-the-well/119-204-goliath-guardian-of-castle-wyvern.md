@@ -37,12 +37,16 @@ average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10/119_34d313f6d81a1d0cf5da56a6c080bdc05268518f.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Max Grecke
 oracle_text: BE CAREFUL, ALL OF YOU Whenever one of
+your Gargoyle characters challenges another
+character, gain 1 lore.
+STONE BY DAY If you have 3 or more cards in your
+hand, this character can't ready.
 your Gargoyle characters challenges another
 character, gain 1 lore.
 STONE BY DAY If you have 3 or more cards in your

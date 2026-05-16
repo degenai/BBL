@@ -27,16 +27,16 @@ tags_filter:
   - mid-shot
   - forward-facing
   - scene-mode
-  - green-magic
   - creature-beast
   - landfall
   - first-strike
+  - white-magic
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/40-ondu-greathorn.png
 average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/9/5/95d9668e-05dc-41c4-9326-ef4c0e15dd80.png?1562930312
 art_match_confidence: high
 needs_manual_review: false
@@ -48,10 +48,10 @@ oracle_text: First strike\nLandfall — Whenever a land you control enters, this
 mood: action
 time_of_day: twilight
 setting: mountain
+mana_cost: "{3}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{W}
 ---
 # Ondu Greathorn (Battle for Zendikar)
 

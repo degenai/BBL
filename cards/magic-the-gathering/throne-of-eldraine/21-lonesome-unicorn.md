@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,10 +50,10 @@ artist: Winona Nelson
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/21-lonesome-unicorn--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/9/99083707-2152-42c0-b5c3-b4f97ec20190.jpg?1572489726
 oracle_text: Vigilance
+mana_cost: "{4}{W} // {2}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {4}{W} // {2}{W}
 ---
 # Lonesome Unicorn (Throne of Eldraine)
 

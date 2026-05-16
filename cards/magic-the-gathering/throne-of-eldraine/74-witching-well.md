@@ -36,7 +36,7 @@ average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
@@ -49,10 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/74-witching
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/2/62d3132f-f897-4a7a-9de4-c6388e83f5ad.jpg?1615508418
 flavor_text: It was built by the Witch of Lochmere. Most of the wishes it grants are its own.
 oracle_text: "When this artifact enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)\\n{3}{U}, Sacrifice this artifact: Draw two cards."
+mana_cost: "{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {U}
 ---
 # Witching Well (Throne of Eldraine)
 

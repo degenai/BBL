@@ -29,15 +29,15 @@ tags_filter:
   - three-quarter-facing
   - action-mode
   - creature-dragon
-  - blue-magic
   - flying
   - no-face-human
+  - multicolor-blue-red
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/211-loch-dragon.png
 average_cost_paid: 0
 market_price: 0.19
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/211-loch-dr
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/a/9a99088e-7162-4e65-867f-bca1c7400ce3.jpg?1572490901
 flavor_text: Despite its ferocity, its favor can be won with a gift of something it's never seen before.
 oracle_text: Flying\nWhenever this creature enters or attacks, you may discard a card. If you do, draw a card.
+mana_cost: "{U/R}{U/R}{U/R}{U/R}"
 tags:
   - card
   - vision-passed
-mana_cost: {U/R}{U/R}{U/R}{U/R}
 ---
 # Loch Dragon (Throne of Eldraine)
 

@@ -32,7 +32,7 @@ average_cost_paid: 0
 market_price: 0.3
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/4/c/4ccdef9c-1e85-4358-8059-8972479f7556.png?1572490606
 art_match_confidence: high
 needs_manual_review: false
@@ -46,10 +46,10 @@ image_quality: high
 mood: other
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{2}{G} // {G}"
 tags:
   - card
   - vision-passed
-mana_cost: {2}{G} // {G}
 ---
 # Lovestruck Beast (Throne of Eldraine)
 

@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -51,10 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/avacyn-restored/218-narstad-sc
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/8/f808ed9b-95ac-4069-bdca-b100bc816b5b.jpg?1592709584
 flavor_text: \"Finally, the principles of corpse animation applied to bloodless materials!\"\n—Ludevic, necro-alchemist
 oracle_text: "{2}: This creature gets +1/+0 until end of turn."
+mana_cost: "{5}"
 tags:
   - card
   - vision-passed
-mana_cost: {5}
 ---
 # Narstad Scrapper (Avacyn Restored)
 

@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,11 +50,11 @@ artist: Mark Tedin
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/14-cage-of-hands--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/5/655aefd8-8b0b-4c65-9973-376bbf05375b.jpg?1608908704
 oracle_text: "Enchant creature\\nEnchanted creature can't attack or block.\\n{1}{W}: Return this Aura to its owner's hand."
+mana_cost: "{2}{W}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {2}{W}
 ---
 # Cage of Hands (Commander Legends)
 

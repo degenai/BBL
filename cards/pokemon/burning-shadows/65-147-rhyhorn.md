@@ -34,13 +34,14 @@ average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-16
 date_added: 2026-05-08
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/sm3/65_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: miki kudo
 flavor_text: Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging Tackles.
-oracle_text: Lunge Out (ColorlessColorless) 20\nHorn Drill (FightingFightingColorless) 60
+oracle_text: Lunge Out (ColorlessColorless) 20
+Horn Drill (FightingFightingColorless) 60
 mood: peaceful
 time_of_day: day
 setting: mountain
@@ -48,6 +49,9 @@ subject_known_ip: true
 suspected_ip: Rhyhorn
 ip_confidence: high
 ip_verified: false
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

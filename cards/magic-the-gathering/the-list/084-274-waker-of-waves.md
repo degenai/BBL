@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'The List'
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/the-list/084-274-waker-of-wave
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/e/3e2c3304-1bd9-44bb-bd91-00b3a089be00.jpg?1723439289
 flavor_text: On the open sea, there is nowhere to hide.
 oracle_text: "Creatures your opponents control get -1/-0.\\n{1}{U}, Discard this card: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard."
+mana_cost: "{5}{U}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {5}{U}{U}
 ---
 # Waker of Waves (The List)
 

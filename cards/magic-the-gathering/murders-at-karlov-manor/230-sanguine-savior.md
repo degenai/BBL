@@ -28,8 +28,6 @@ tags_filter:
   - mid-shot
   - narrative
   - three-quarter
-  - white-magic
-  - black-magic
   - multicolor-white-black
   - creature-vampire-cleric
   - flying
@@ -40,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/9/c/9cba5503-ba99-43d8-8062-66d905e0d86b.png?1706242243
 art_match_confidence: high
 needs_manual_review: false
@@ -57,10 +55,10 @@ oracle_text: Flying, lifelink\nDisguise {W/B}{W/B} (You may cast this card face 
 mood: grim
 time_of_day: twilight
 setting: urban
+mana_cost: "{1}{W}{B}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{W}{B}
 ---
 # Sanguine Savior (Murders at Karlov Manor)
 

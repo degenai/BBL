@@ -33,7 +33,7 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-16
 date_added: 2026-05-12
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/4/9/49d11865-a1ea-4f2e-b7da-31630c6d0272.png?1562909940
 art_match_confidence: high
 needs_manual_review: false
@@ -51,11 +51,11 @@ setting: mountain
 suspected_ip: Gideon Jura
 ip_confidence: med
 ip_verified: false
+mana_cost: "{2}{W}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {2}{W}
 ---
 # Shoulder to Shoulder (Oath of the Gatewatch)
 

@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -48,10 +48,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/139-nahiri-s-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/a/0a14331e-8da5-4455-ac69-e510684e989c.jpg?1557576781
 flavor_text: The ancient Planeswalkers Sorin and Nahiri battled across Ravnica, their blows cutting as deep as their grudge.
 oracle_text: Up to two target creatures each get +2/+0 until end of turn.
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{R}
 ---
 # Nahiri's Stoneblades (War of the Spark)
 

@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -50,10 +50,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/73-thunder-dr
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/8/f88a9bc4-1b15-4a91-9376-730d2f5b3336.jpg?1557576348
 flavor_text: The arrival of the Planar Bridge caused eddies in the aether, creating some entirely new species while transforming others.
 oracle_text: Flying\nWhenever you cast your second spell each turn, put a +1/+1 counter on this creature.
+mana_cost: "{3}{U}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{U}
 ---
 # Thunder Drake (War of the Spark)
 

@@ -17,12 +17,16 @@ average_cost_paid: 0
 market_price: 0.16
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
-reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/promo3/36_51c338a1fd293aa6a51d0db281d362b837f46ff2.jpg
+last_seen: 2026-05-16
+reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10/36_bcd79165e69407dc9c10e375e75fedd59ed329ea.jpg
 art_match_confidence: high
 needs_manual_review: false
-artist: Lissette Carrera
-oracle_text: BACKUP PLAN When you play this character, draw
+artist: Julian del Rey
+oracle_text: Shift 2 ⬡ (You may pay 2 ⬡ to play this on top of
+one of your characters named The Horned King.)
+ARISE! Whenever one of your other characters is
+banished in a challenge, you may return that card
+to your hand, then choose and discard a card.
 a card, then choose and discard a card.
 ON THE MOVE When this character is challenged,
 return this card to your hand. (No damage is dealt

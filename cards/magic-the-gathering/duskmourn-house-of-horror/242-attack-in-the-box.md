@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/a/4/a477dc3e-0fa1-4ce4-b3de-8cae0d1a0763.png?1726286774
 art_match_confidence: high
 needs_manual_review: false
@@ -52,10 +52,10 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{3}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}
 ---
 # Attack-in-the-Box (Duskmourn: House of Horror)
 

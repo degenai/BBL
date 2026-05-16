@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.31
 market_price_as_of: 2026-05-16
 date_added: 2026-05-13
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/7/c/7c77a6b1-ef06-4da5-8e86-a5204216cb77.png?1584831556
 art_match_confidence: high
 needs_manual_review: false
@@ -49,11 +49,11 @@ image_quality: high
 mood: sublime
 time_of_day: night
 setting: forest
+mana_cost: "{G}{U}"
 tags:
   - card
   - vision-passed
   - trivia-passed
-mana_cost: {G}{U}
 ---
 # Growth Spiral (Ravnica Allegiance)
 

@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/7/9/79cfb366-ae2a-4b3d-9a80-383a32db1509.png?1706241500
 art_match_confidence: high
 needs_manual_review: false
@@ -50,10 +50,10 @@ image_quality: high
 mood: grim
 time_of_day: night
 setting: urban
+mana_cost: "{3}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}{W}
 ---
 # Karlov Watchdog (Murders at Karlov Manor)
 

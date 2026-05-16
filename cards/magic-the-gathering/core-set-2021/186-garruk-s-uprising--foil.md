@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 1.46
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -53,12 +53,12 @@ artist: Wisnu Tan
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/186-garruk-s-uprising--foil--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/1/71a4860a-8bb6-45c0-b00a-b4a42da33ab9.jpg?1594737017
 oracle_text: When this enchantment enters, if you control a creature with power 4 or greater, draw a card.\nCreatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)\nWhenever a creature you control with power 4 or greater enters, draw a card.
+mana_cost: "{2}{G}"
 tags:
   - card
   - vision-passed
   - trivia-passed
   - ip-verified
-mana_cost: {2}{G}
 ---
 # Garruk's Uprising (Core Set 2021)
 

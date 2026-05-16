@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/9/1/9185371c-2dde-48ad-ab27-08be04b3c522.png?1717047347
 art_match_confidence: high
 needs_manual_review: false
@@ -53,11 +53,11 @@ oracle_text: "Devoid (This card has no color.)\\n{T}: Add {C}{C}.\\n{3}{C}, {T}:
 mood: horror
 time_of_day: indeterminate
 setting: ocean
+mana_cost: "{1}{G}{U}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {1}{G}{U}
 ---
 # Snapping Voidcraw (Modern Horizons 3)
 

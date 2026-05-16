@@ -35,7 +35,7 @@ average_cost_paid: 0
 market_price: 0.25
 market_price_as_of: 2026-05-16
 date_added: 2026-05-05
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/a/aot_s35/AOT_S35_E024.png
 art_match_confidence: high
 needs_manual_review: false

@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.27
 market_price_as_of: 2026-05-16
 date_added: 2026-05-06
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
@@ -51,10 +51,10 @@ artist: David Gaillet
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/19-feat-of-resistance--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/3/73148b3b-73d3-4f57-8b67-1e91fbe112b9.jpg?1595640319
 oracle_text: Put a +1/+1 counter on target creature you control. It gains protection from the color of your choice until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color.)
+mana_cost: "{1}{W}"
 tags:
   - card
   - vision-passed
-mana_cost: {1}{W}
 ---
 # Feat of Resistance (Core Set 2021)
 

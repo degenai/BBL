@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.21
 market_price_as_of: 2026-05-16
 date_added: 2026-05-16
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/a/3/a3d39238-e21d-4345-84c8-648ef3a66703.png?1557575992
 art_match_confidence: high
 needs_manual_review: false
@@ -29,8 +29,8 @@ oracle_text: "{1}, {T}: Tap target creature with mana value 2 or greater."
 image_width: 745
 image_height: 1040
 image_quality: high
+mana_cost: "{W}"
 tags:
   - card
-mana_cost: {W}
 ---
 # Law-Rune Enforcer (War of the Spark)

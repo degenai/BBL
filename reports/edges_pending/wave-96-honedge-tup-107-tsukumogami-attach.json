@@ -1,0 +1,59 @@
+{
+  "edge_id": "honedge-tup-107--tsukumogami-pokemon-cohort",
+  "shape": "N:1",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/pokemon/team-up/107-honedge.md",
+      "name": "Honedge (Team Up 107)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/tsukumogami-pokemon.md",
+      "name": "Tsukumogami Pokemon (object-becomes-spirit design-source cohort)"
+    }
+  ],
+  "description": "Worst threat to a clean attach, ever — Honedge TUP-107 has not been trivia-passed, so I had to do the tsukumogami citation work myself. Sigh. Vision-pass tagged tsukumogami + yokai in tags_hub; printed flavor depicts canonical haunted-sword behavior (the blue cloth drains the wielder's life energy); Bulbapedia per-species design-source documents Honedge as one of the franchise's clearest tsukumogami citations, the sword-yokai branch. Wave 94's Doublade attach used the same evidence tier (Bulbapedia design-canon, no trivia-explicit citation) and the node's own Caveats explicitly staged Honedge as a near-term attach candidate. Stack-attach, not a 1:1. Blueballed-by-fanout but the cohort was the right home.",
+  "citations": [
+    "[Bulbapedia: Honedge (Pokemon) — Design origin section]",
+    "[Bulbapedia: Doublade (Pokemon) — Design origin section]",
+    "[Bulbapedia: Aegislash (Pokemon) — Design origin section]",
+    "[PokemonTCG.io: sm9-107 — Honedge Team Up print metadata]",
+    "[Wikipedia: Tsukumogami — folklore primary]",
+    "[cohort node: cards/_characters/tsukumogami-pokemon.md — precedent for vision-pass-plus-design-canon attach, see Doublade SM11-94]"
+  ],
+  "files_modified": [
+    "C:/Users/alexa/Desktop/Bulk Graph Bundler/cards/pokemon/team-up/107-honedge.md",
+    "C:/Users/alexa/Desktop/Bulk Graph Bundler/cards/_characters/tsukumogami-pokemon.md"
+  ],
+  "edges_removed": [],
+  "edges_added": [
+    {
+      "card": "pokemon/team-up/107-honedge",
+      "cohort": "tsukumogami-pokemon",
+      "mechanism": "card.characters[] pointer + cohort.appears_on[] entry + Appears-on wikilink + species bullet in cohort body"
+    }
+  ],
+  "edgelord_mood": "blueballed-by-fanout",
+  "next_pass_suggestions": [
+    {
+      "candidate": "Honedge TUP-107 trivia pass",
+      "rationale": "TUP-107 is now graph-attached but trivia-pending; once trivia lands, the species-line continuity narrative (sword progressively possessed: Honedge -> Doublade -> Aegislash) can be enriched in the cohort body in line with Doublade SM11-94's existing trivia-citation."
+    },
+    {
+      "candidate": "Gideon Jura character node commission",
+      "rationale": "WAR-14 Gideon's Sacrifice trivia named Gideon + Liliana as the canonical story-pivot pair. Anchor count is currently 1 in corpus from a single-card trivia pass; below the 3-anchor threshold. Wait for further Gideon/Liliana-bearing prints to clear the threshold OR a War of the Spark cohort node could absorb both characters as members."
+    },
+    {
+      "candidate": "Liliana Vess character node commission",
+      "rationale": "Same blocker as Gideon — single-anchor situation. Liliana is a heavy-storyline planeswalker who would clear threshold quickly if 2-3 more printings surface in corpus; flag for the next time a Liliana-tagged card lands in the queue."
+    },
+    {
+      "candidate": "Honedge BST-105 vision-pass + attach",
+      "rationale": "Second corpus Honedge print currently unenriched; once vision-passed it attaches to tsukumogami-pokemon via the same path the TUP-107 attach used. Same species, same design-canon citation, additive print-count."
+    }
+  ],
+  "potion_rule_check": "Citation tier matches existing cohort precedent (Doublade SM11-94 was attached with the same Bulbapedia design-canon + per-species flavor evidence, no BBL-squint extrapolation). The cohort thesis stays at the canonical-event scope: Bulbapedia per-species design-source sections explicitly cite tsukumogami as the species design source. No labor/rebellion/stewardship overlay touched."
+}

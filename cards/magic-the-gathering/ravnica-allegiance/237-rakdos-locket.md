@@ -39,7 +39,7 @@ average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-16
 date_added: 2026-05-07
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -52,10 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/237-rakdos-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/f/4fd60d9b-2282-4b32-9bff-efb2bcf87d22.jpg?1584832150
 flavor_text: \"This trinket will gain you admittance to some painfully exclusive gatherings.\"\n—Exava, blood witch
 oracle_text: "{T}: Add {B} or {R}.\\n{B/R}{B/R}{B/R}{B/R}, {T}, Sacrifice this artifact: Draw two cards."
+mana_cost: "{3}"
 tags:
   - card
   - vision-passed
-mana_cost: {3}
 ---
 # Rakdos Locket (Ravnica Allegiance)
 

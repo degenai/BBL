@@ -1,0 +1,305 @@
+[
+  {
+    "path": "cards/magic-the-gathering/commander-legends/303-charcoal-diamond.md",
+    "mana_cost": "{2}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "black-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/commander-legends-battle-for-baldur-s-gate/878-talisman-of-hierarchy.md",
+    "mana_cost": "{2}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "black-magic",
+      "multicolor-white-black",
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/core-set-2021/232-mazemind-tome.md",
+    "mana_cost": "{2}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/eldritch-moon/11-vexing-scuttler.md",
+    "mana_cost": "{8}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/guilds-of-ravnica/240-selesnya-locket.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "green-magic",
+      "multicolor-green-white",
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/khans-of-tarkir/222-jeskai-banner.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic",
+      "multicolor-blue-red-white",
+      "red-magic",
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/khans-of-tarkir/224-mardu-banner.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "black-magic",
+      "red-magic",
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/khans-of-tarkir/225-sultai-banner.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "black-magic",
+      "blue-magic",
+      "green-magic",
+      "multicolor-blue-black-green"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/magic-2011-m11/221-whispersilk-cloak.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/magic-2014-m14/210-fireshrieker.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "colorless",
+      "red-magic"
+    ],
+    "wrong_extras": [
+      "red-magic"
+    ],
+    "severity": "wrong-extra-tag",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/magic-2014-m14/219-staff-of-the-death-magus.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "black-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/magic-2014-m14/223-staff-of-the-wild-magus.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "green-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/magic-2015-m15/233-staff-of-the-flame-magus.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "red-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/magic-2015-m15/234-staff-of-the-mind-magus.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons/232-talisman-of-curiosity.md",
+    "mana_cost": "{2}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic",
+      "multicolor-blue-black"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons-3/150-eldrazi-repurposer.md",
+    "mana_cost": "{2}{G}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "green-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": true
+  },
+  {
+    "path": "cards/magic-the-gathering/modern-horizons-3/17-wastescape-battlemage.md",
+    "mana_cost": "{1}{C}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/murders-at-karlov-manor/1-case-of-the-shattered-pact.md",
+    "mana_cost": "{2}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/ravnica-allegiance/234-gruul-locket.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "green-magic",
+      "multicolor-red-green",
+      "red-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/ravnica-allegiance/236-orzhov-locket.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "black-magic",
+      "multicolor-white-black",
+      "white-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/ravnica-allegiance/237-rakdos-locket.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "multicolor-black-red"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/ravnica-allegiance/240-simic-locket.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic",
+      "green-magic",
+      "multicolor-blue-green"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/throne-of-eldraine/229-scalding-cauldron.md",
+    "mana_cost": "{1}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/throne-of-eldraine/230-shambling-suit.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/throne-of-eldraine/237-witch-s-oven.md",
+    "mana_cost": "{1}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "black-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/ultimate-masters/231-patchwork-gnomes.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "black-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/unstable/154-mad-science-fair-project.md",
+    "mana_cost": "{3}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  },
+  {
+    "path": "cards/magic-the-gathering/war-of-the-spark/243-saheeli-s-silverwing.md",
+    "mana_cost": "{4}",
+    "expected_tag": "colorless-magic",
+    "stated_tags": [
+      "blue-magic"
+    ],
+    "severity": "missing-or-wrong-color",
+    "devoid": false
+  }
+]

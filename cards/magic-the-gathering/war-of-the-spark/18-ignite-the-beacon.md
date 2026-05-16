@@ -34,7 +34,7 @@ average_cost_paid: 0
 market_price: 0.26
 market_price_as_of: 2026-05-16
 date_added: 2026-05-14
-last_seen: 2026-05-15
+last_seen: 2026-05-16
 reference_image_source_url: https://cards.scryfall.io/png/front/4/e/4e11d6f9-0b80-4b19-ab96-23f80b66b409.png?1557575979
 art_match_confidence: high
 needs_manual_review: false
@@ -53,11 +53,11 @@ subject_known_ip: true
 suspected_ip: Ajani Goldmane
 ip_confidence: high
 ip_verified: false
+mana_cost: "{4}{W}"
 tags:
   - card
   - vision-passed
   - ip-pending
-mana_cost: {4}{W}
 ---
 # Ignite the Beacon (War of the Spark)
 
