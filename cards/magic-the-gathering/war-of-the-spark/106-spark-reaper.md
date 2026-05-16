@@ -26,6 +26,7 @@ mood: grim
 time_of_day: indeterminate
 setting: void
 artist: Zoltan Boros
+characters: ["kaya"]
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/106-spark-reaper--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/2/922537f0-4caf-481c-b431-826f0c44e5c5.jpg?1557576562
 flavor_text: \"I know they're unstoppable fighters created to harvest souls—it's just they're so rude about it.\"\n—Kaya

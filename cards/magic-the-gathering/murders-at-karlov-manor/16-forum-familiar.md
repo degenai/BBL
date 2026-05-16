@@ -56,3 +56,15 @@ A black-and-white tuxedo cat sprawls on a broad stone step in what appears to be
 **Iconography:** familiar, cat, forum
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Forum Familiar is a white Creature — Cat (MKM, no. 16, uncommon) from Murders at Karlov Manor (February 9, 2024), illustrated by Ilse Gort. The "forum" in the name is a nod to Ravnica's civic architecture — the Boros Legion and Senate both maintain public forums — and the familiar's presence suggests it haunts the marketplace corridors of Ravnican institutional life `[Scryfall: mkm/16]`.
+- **Disguise mechanic** — Forum Familiar carries Disguise {1}{W}: cast face down as a 2/2 with ward {2}, turn face up by paying {1}{W}. On reveal, it returns a permanent you control to hand and places a +1/+1 counter on itself. The bounce-on-reveal is a flexible tempo play: it protects a threatened permanent while buffing the Familiar for a net board advantage `[Scryfall: mkm/16 oracle_text]` `[magic.wizards.com: MKM Mechanics — Disguise]`.
+- **Design contrast** — As a 1/1 Cat with a non-threatening disguise reveal, Forum Familiar represents the comedic end of the MKM creature spectrum: opposite to Culvert Ambusher's predator reveal, the Familiar's "reveal" is a sleight-of-hand bounce rather than a threat. The tuxedo-cat-in-a-public-forum art reads as deliberate comic relief within a noir-murder-mystery set `[vision pass context; Scryfall: mkm/16 for mechanical data]`.
+- **No flavor text** — The Scryfall record for this card contains no flavor text; the art carries the full comedic load `[Scryfall: mkm/16]`.
+
+### Related cards
+- Culvert Ambusher (MKM, no. 158) — shares Disguise mechanic; both carry the `disguise` symbol node; tonal opposite (horror vs. comedy)
+- Topiary Panther (MKM, no. 179) — another green Disguise Cat in MKM; thematic cluster
+- Impersonator (MKM) — thematic cousin; identity-concealment creature in the same set
+

@@ -1,0 +1,19 @@
+{
+  "edge_id": "wave91-e1-suspect-symbol-commission",
+  "shape": "refusal",
+  "category": "symbol-node-already-exists",
+  "verdict": "REFUSE — suspect symbol-node is already commissioned and live at cards/_symbols/suspect.md with 5 anchors (MKM-54, MKM-115, MKM-119, MKM-149, MKM-312). The wave 91E1 brief's premise was outdated; no commission needed. Edgelord refuses to duplicate a node that exists.",
+  "endpoints": [
+    {"type": "symbol", "path": "cards/_symbols/suspect.md", "name": "Suspect (mechanic)", "status": "already-exists"}
+  ],
+  "description": "Worst commission proposal I've heard all week. Suspect symbol-node ALREADY EXISTS at cards/_symbols/suspect.md — five anchors, full canonical source list, related_characters: [agency] cross-edge wired. The wave brief cited 4 anchor cards (MKM-115, MKM-119, MKM-139, MKM-143) but the existing node has 5 (MKM-54, MKM-115, MKM-119, MKM-149, MKM-312) — different roster, more comprehensive, commissioned in a prior wave. MKM-139 Person of Interest and MKM-143 Rubblebelt Braggart are flagged in the existing node's 'Strong candidates pending corpus enrichment' section as future additions. If the parent wants those two wired in, that's an appears_on extension, not a node commission. I refuse the duplicate.",
+  "citations": [
+    "[cards/_symbols/suspect.md frontmatter: appears_on lists 5 MKM anchors]",
+    "[cards/_symbols/suspect.md body: 5-anchor 'Confirmed in corpus' section]",
+    "[Scryfall keyword:suspect — 27 distinct prints across MKM-and-reprints]"
+  ],
+  "files_modified": [],
+  "topology": "n/a",
+  "edgelord_mood": "satisfied",
+  "other_candidates_considered": "MKM-139 Person of Interest + MKM-143 Rubblebelt Braggart could be added to the existing suspect.md appears_on if both have suspect-keyword oracle text — but that's a janitor pass, not a new node commission. Surfacing for a future Edgelord pass to verify each card's frontmatter has symbols: [suspect] (per wave brief premise) and extend appears_on accordingly."
+}

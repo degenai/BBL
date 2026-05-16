@@ -1,0 +1,46 @@
+{
+  "card_name": "Culvert Ambusher",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "158",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Green Creature — Wurm Horror uncommon (MKM, no. 158, February 9, 2024), illustrated by Slawomir Maniak. Compound type 'Wurm Horror' places it in MKM's monster-in-the-sewers character space.",
+      "sources": ["Scryfall: mkm/158"]
+    },
+    {
+      "category": "design",
+      "text": "Disguise mechanic: named variant of Morph, cast face down as 2/2 with ward {2} for {3}, reveal at any time. Design team renamed 'Cloak' to 'Disguise' in final development to match murder-mystery genre vocabulary.",
+      "sources": ["magic.wizards.com: Murders at Karlov Manor Mechanics"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The bite at the end of the tunnel.\" Inverts the 'light at the end of the tunnel' idiom so the predator is the payoff, not salvation.",
+      "sources": ["Scryfall: flavor_text field, mkm/158"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Enter/face-up trigger forces a target creature to block if able. 4/5 statline at reveal cost {4}{G} trades up on nearly anything forced to block it.",
+      "sources": ["Scryfall: mkm/158 oracle_text"]
+    },
+    {
+      "category": "design",
+      "text": "Showcase Dossier variant exists at collector number 351 in MKM Variants, with alternate crime-file art style presentation.",
+      "sources": ["Scryfall: mkm/351 via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Forum Familiar", "set": "MKM", "note": "shares Disguise mechanic; both in BBL disguise symbol node"},
+    {"name": "Glint Weaver", "set": "MKM", "note": "same color/set; creature-Horror dungeon-predator framing"},
+    {"name": "Topiary Panther", "set": "MKM", "note": "Disguise creature in green; face-down predator cluster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

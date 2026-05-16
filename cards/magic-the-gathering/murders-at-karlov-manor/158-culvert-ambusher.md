@@ -56,3 +56,16 @@ A massive crustacean or insectoid creature fills the interior of a stone-lined t
 **Iconography:** ambush, predator, tunnel
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Culvert Ambusher is a green uncommon Creature — Wurm Horror (MKM, no. 158) from Murders at Karlov Manor (February 9, 2024), illustrated by Slawomir Maniak. The type "Wurm Horror" is a compound creature type combining the classic large green Wurm with Horror, giving it a monster-in-the-sewers character consistent with MKM's Ravnica crime-scene atmosphere `[Scryfall: mkm/158]`.
+- **Disguise mechanic** — MKM introduced Disguise as a named variant of Morph: cast face down as a 2/2 with ward {2} for {3}, reveal at any time for the Disguise cost. The design team renamed "Cloak" to "Disguise" in final development to better match the murder-mystery genre's vocabulary — the mechanic was explicitly developed top-down from the word `[magic.wizards.com: Murders at Karlov Manor Mechanics]`.
+- **Flavor text** — "The bite at the end of the tunnel." A compact horror-pun: "light at the end of the tunnel" inverted so the waiting predator is the payoff, not salvation `[Scryfall: flavor_text field, mkm/158]`.
+- **Mechanical role** — When Culvert Ambusher enters or is turned face up, a target creature must block it if able — a forced-block ability that punishes opponents who can't sacrifice their blocker. Its 4/5 statline at {3}{G}{G} (reveal cost {4}{G}) means it will trade up on almost anything forced to block it `[Scryfall: mkm/158 oracle_text]`.
+- **Showcase variant** — A Showcase Dossier variant exists at collector number 351 in MKM Variants, giving the card an alternate presentation in MKM's crime-file art style `[Scryfall: mkm/351]`.
+
+### Related cards
+- Forum Familiar (MKM, no. 16) — shares Disguise mechanic; both carry the `disguise` symbol node in the BBL graph
+- Glint Weaver (MKM, no. 162) — same color, same set; creature horror in dungeon setting; predator-thematic cluster
+- Topiary Panther (MKM, no. 179) — Disguise creature in green; thematic cluster of face-down predators
+

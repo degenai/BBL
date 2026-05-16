@@ -1,0 +1,41 @@
+{
+  "card_name": "Airtight Alibi",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "149",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Green Flash Aura common (MKM, no. 149, February 9, 2024). Card name directly invokes the legal alibi concept; top-down genre-to-mechanic translation.",
+      "sources": ["Scryfall: mkm/149"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Suspect mechanic: grants menace but prevents blocking. Airtight Alibi removes Suspect status and permanently prevents enchanted creature from being suspected again — one of the cleanest Suspect counters in the set.",
+      "sources": ["coolstuffinc.com: Mechanics of MKM — Suspect article", "Scryfall: mkm/149 oracle_text"]
+    },
+    {
+      "category": "design",
+      "text": "MKM design team built mechanics top-down from murder-mystery genre vocabulary: 'Alibi' as mechanic name was chosen to embody investigative narrative before the card mechanics were finalized.",
+      "sources": ["magic.wizards.com: Murders at Karlov Manor Mechanics"]
+    },
+    {
+      "category": "mechanical",
+      "text": "{2}{G} Flash, +2/+2, hexproof until EOT, untap on enter — relevant tempo play in Limited at common rarity.",
+      "sources": ["Scryfall: mkm/149 via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Chalk Outline", "set": "MKM", "note": "same set; Investigate + graveyard; crime-scene mechanic cluster"},
+    {"name": "Culvert Ambusher", "set": "MKM", "note": "carries suspect symbol node in BBL graph; Suspect-keyword cluster"},
+    {"name": "Evidence Examiner", "set": "MKM", "note": "investigate engine that fuels Collect Evidence; Suspect-countering lines"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

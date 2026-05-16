@@ -52,3 +52,15 @@ A muscular one-eyed cyclops dominates the frame, its body partially dissolving i
 **Iconography:** stars, constellation, single-eye
 **Genre cues:** fantasy, mythology, greek-myth
 
+## Trivia
+
+- **Set context** — Nyxborn Brute is a common **Enchantment Creature — Cyclops** in THB, first and only printing [Scryfall]. The "Nyxborn" prefix identifies it as a creature manifested from Nyx — Theros's divine night sky — rather than a mortal-world cyclops; Nyxborn creatures are living enchantments given form by the gods' collective will, and all enchantment creatures in Theros carry the starfield card frame [MTG Wiki: Nyxborn, Nyx, via WebSearch snippet]. Its dual Enchantment Creature type makes it a Constellation trigger on both entry and death in THB's enchantment subtheme.
+- **Flavor text** — "One-eyed and frightful, the cyclops / lifted a boulder and hurled it / seaward from cliff's edge, shattering / masts and scattering sailors." —*The Callapheia* [Scryfall]. **The Callapheia** is Theros's in-world epic poem recounting the voyage of Callaphe the Mariner after the Akroan War — a deliberate parallel to Homer's *Odyssey*, including the cyclops-on-an-island encounter [MTG Wiki: The Callapheia, via WebSearch snippet]. The poem is quoted on multiple THB cards.
+- **Mechanical reputation** — Hipsters of the Coast common review graded this **D**: the 7/3 statline trades down in combat frequently despite the raw power number; no abilities beyond being a large enchantment creature body [Hipsters of the Coast: THB Common Review, 2020-01]. As an enchantment creature it triggers Constellation effects for free, which partially redeems it in constellation-themed limited or Commander builds. Legal in Pauper [Scryfall legalities].
+- **Stats note** — A 7-power creature at common for 5 mana (3RR) is unusually large; the 3 toughness is the compensating weakness that makes it tradeable with 3-drops [Scryfall: power 7, toughness 3, CMC 5].
+
+### Related cards
+- Callaphe, Beloved of the Sea (THB, no. 39) — the hero of The Callapheia whose voyage encounters this type of cyclops
+- Nyxborn Colossus (THB, no. 191) — a parallel Nyxborn giant in green at higher CMC
+- Flummoxed Cyclops (THB, no. 135) — companion cyclops common in the same set, contrasting flavor (confused vs. ferocious)
+

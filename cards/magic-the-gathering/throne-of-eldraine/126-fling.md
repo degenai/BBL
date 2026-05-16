@@ -55,3 +55,14 @@ A small, grey-skinned creature — goblin or imp in appearance, with pointed ear
 **Iconography:** flight, thrown-creature, red-cloak, scream
 **Genre cues:** fantasy, fairy-tale
 
+## Trivia
+
+- **Set context** — Fling is a red instant from Throne of Eldraine (ELD, October 2019), one of the set's reprints. The original printing dates to Stronghold (1998); it was subsequently reprinted in Magic 2011 and Amonkhet before reaching ELD `[Scryfall; mtggoldfish.com printing history]`.
+- **Flavor text** — `"Giants believe that tossing redcaps at knights is the best way to deal with both."` — No named speaker `[Scryfall]`. The joke is structural: a giant solves a redcap problem and a knight problem in one throw, using each creature as ammunition against the other. It also defines how Fling works mechanically — sacrifice a creature, deal its power as damage — in narrative terms.
+- **Redcap lore** — Redcaps in Eldraine are described in the Planeswalker's Guide as chaotic Wilds creatures who conduct sneak attacks and raids, standing "barrel-height" tall. They are the plane's adaptation of the Anglo-Scottish border folklore creature: a malevolent goblin who soaks its cap in victims' blood and must keep killing or perish `[Planeswalker's Guide to Eldraine, magic.wizards.com; Wikipedia: Redcap]`.
+- **Art** — Illustrated by Lie Setiawan, whose comedic framing — the screaming redcap mid-arc, shredded cloak, distant mountains far below — captures the card's dual tone of horror and slapstick `[Scryfall]`.
+
+### Related cards
+- Raging Redcap (ELD, no. 134) — The creature being flung; shares the Redcap creature type and Wilds folklore origin
+- Firebreathing (various) — Classic red "throw your own creature as a missile" design family Fling belongs to
+- Brash Taunter (M21, no. 128) — Creature that explicitly benefits from being targeted by Fling effects; popular combo partner in Commander

@@ -51,3 +51,14 @@ A lone robed figure, dwarfed by the scale of the threat, stands in a desolate sc
 **Iconography:** writhing-tendrils, lone-figure-against-doom
 **Genre cues:** fantasy, dark-fantasy, horror
 
+## Trivia
+
+- **Set context / reprint history** — Grasp of Darkness originated in Scars of Mirrodin (SOM, October 2010) — a Phyrexian-corruption block where black removal was thematically tied to metallic contagion remaking a plane. The M21 printing is its fourth overall, following Oath of the Gatewatch (OGW, 2016) and Game Night 2019 (GN2, 2019). `[Scryfall]`
+- **Flavor text** — "I welcome the use of even the foulest magic if it will rid us of the monstrosities that plague our world." — Munda, ambush leader. Munda is a Kor warrior from Zendikar, appointed squad leader under Gideon Jura during the Battle for Zendikar. He coordinated the Kor militia in the Aligned Hedron Network operation to entrap Ulamog. His named card is Munda, Ambush Leader (BFZ). `[Scryfall, WebSearch: mtg.wiki — Munda]`
+- **Design** — The M21 printing features new art by Daarken, replacing Johann Bodin's original Scars of Mirrodin art. The original carried the flavor line "On a world with five suns, night is compelled to become an aggressive force." — a Phyrexian-plane framing. The Munda quote is new to M21, recontextualizing the same spell from Phyrexian horror to a Zendikari soldier's pragmatic willingness to use dark power against Eldrazi. `[Scryfall]`
+- **Mechanical reputation** — A Pauper-legal instant (BB, -4/-4 until end of turn), Grasp of Darkness has been a consistent removal option across formats since 2010. EDHREC rank 10,726 reflects steady Commander adoption as budget mono-black removal. `[Scryfall]`
+
+### Related cards
+- Munda, Ambush Leader (Battle for Zendikar) — flavor-text speaker; Kor warrior legendary creature
+- Doom Blade (various) — peer black removal instant; design-space comparison in core sets
+- Murder (various) — 3-mana unconditional removal that often sits alongside Grasp in core-set black suites

@@ -22,6 +22,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/e/6e280482-ed7
 art_match_confidence: high
 needs_manual_review: false
 artist: Joe Slucher
+characters: ["foundway-associates"]
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/145-suspicious-detonation--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/e/6e280482-ed7e-4011-899e-096ff7bd4c41.jpg?1706241923
 flavor_text: \"Clearly someone wanted us to find this.\"\n—Runubi of the Foundway Associates

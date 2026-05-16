@@ -50,3 +50,14 @@ A figure lies face-down across a cluttered workbench, head buried in their arms 
 **Objects:** clockwork-bird, blueprints, parchment, gears, tools
 **Genre cues:** fantasy, steampunk, painterly
 
+## Trivia
+
+- **Reprint history** — Mind Rot is one of the longest-tenured discard spells in Magic, first printed in Portal (POR, 1997) — a teaching-focused starter product for new players. As of the M21 printing in July 2020, it had accumulated 28 unique printings across Portal, Portal Second Age, Starter 1999, seven core sets (7ED through M21), and multiple expansion sets including Return to Ravnica, Dragons of Tarkir, and Kaladesh. `[Scryfall]`
+- **Design** — Art for the M21 printing by Seb McKinnon. McKinnon is known for introspective, psychologically-centered compositions; this piece — an inventor collapsed face-down over a cluttered workbench strewn with brass clockwork parts — is atypical for a discard spell, which normally depicts external psychic violence or invasion. The M21 art reframed a 23-year-old spell through a creative-burnout lens. `[Scryfall]`
+- **Flavor text** — "Many an inventor has collapsed under the pressure to create a flawless design." No attributed speaker. The flavor text matches the art precisely — an unusual degree of art/text unity for a card whose previous 27 printings had entirely different flavor contexts. `[Scryfall]`
+- **Mechanical reputation** — Mind Rot (2B, target player discards two cards) is Pauper-legal and Premodern-legal and has an EDHREC rank of 12,264, placing it in mid-tier Commander adoption among black discard options. Its 28 printings make it one of the most reprinted discard sorceries in the game's history. `[Scryfall]`
+
+### Related cards
+- Thoughtseize (Lorwyn) — the power-level ceiling for targeted black discard; design-space reference
+- Duress (various) — 1-mana selective discard that shares core-set discard design space with Mind Rot
+- Distress (Ninth Edition) — near-functional twin with a different flavor history; design-space peer

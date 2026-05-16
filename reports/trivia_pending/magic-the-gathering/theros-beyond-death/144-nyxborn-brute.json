@@ -1,0 +1,36 @@
+{
+  "card_name": "Nyxborn Brute",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "144",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Common Enchantment Creature — Cyclops, THB original print only. 'Nyxborn' identifies it as manifested from Nyx — Theros's divine night sky — rather than a mortal-world creature. All enchantment creatures in Theros carry the starfield card frame. Its dual type makes it a Constellation trigger on both entry and death.",
+      "sources": ["Scryfall", "MTG Wiki: Nyxborn + Nyx via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"One-eyed and frightful, the cyclops / lifted a boulder and hurled it / seaward from cliff's edge, shattering / masts and scattering sailors.\" — The Callapheia. The Callapheia is Theros's in-world epic poem, a deliberate parallel to Homer's Odyssey, recounting the voyage of Callaphe the Mariner after the Akroan War; the cyclops encounter is one of its set-piece adventures.",
+      "sources": ["Scryfall", "MTG Wiki: The Callapheia via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Hipsters of the Coast common review grade D: the 7/3 statline trades down in combat frequently despite raw power. 7-power at common for 3RR is unusually large; 3 toughness is the compensating weakness.",
+      "sources": ["Hipsters of the Coast: THB Common Review 2020-01", "Scryfall: power 7 toughness 3 CMC 5"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Callaphe, Beloved of the Sea", "set": "THB", "note": "The hero of The Callapheia whose voyage encounters this cyclops type"},
+    {"name": "Nyxborn Colossus", "set": "THB", "note": "Parallel Nyxborn giant in green at higher CMC"},
+    {"name": "Flummoxed Cyclops", "set": "THB", "note": "Companion cyclops common in same set — mortal-world, contrasting flavor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

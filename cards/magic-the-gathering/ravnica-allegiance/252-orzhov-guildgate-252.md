@@ -11,7 +11,7 @@ quantity: 1
 held_for_lair: 0
 bundles: []
 symbols: ["orzhov-signet"]
-characters: ["orzhov-syndicate"]
+characters: ["orzhov-syndicate", "kaya"]
 tags_hub: ["cathedral", "gothic", "spire", "city", "wealth", "gold", "twilight", "architecture", "monument", "gate", "rooftops", "skyline"]
 tags_filter: ["no-figures", "wide-shot", "scene-mode", "no-face", "land", "guildgate", "white-magic-black-magic", "establishing-shot"]
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/252-orzhov-guildgate-252.png

@@ -1,0 +1,41 @@
+{
+  "card_name": "Fervent Champion",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "124",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Fervent Champion is a Player Spotlight (World Champion) card commemorating Javier Dominguez, winner of the 2018 Magic World Championship. His name and title appear in the flavor text field: '2018 World Champion Javier Dominguez.' Illustrated by Steve Argyle.",
+      "sources": ["Scryfall", "magic.gg World Championship coverage"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Color, creature type (Human Knight), and aggressive stat line position this card in Embereth, ELD's red court that prizes courage. The Planeswalker's Guide notes Embereth knights famously never carry shields — Fervent Champion's charging solo art reflects that ethos.",
+      "sources": ["Planeswalker's Guide to Eldraine, magic.wizards.com"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Saw significant Standard play in 2019-2020 in knight tribal and equipment-based red aggro. Equip-cost reduction of 3 makes it a functional Embercleave target. Continued into Pioneer and Modern equipment shells.",
+      "sources": ["Scryfall", "mtg.cardsrealm.com"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community resonance: Dominguez won World Championship 30 in 2024, becoming one of only two players to win the title twice. Wizards referenced the Fervent Champion card directly in post-event coverage.",
+      "sources": ["magic.gg: 'The Week That Was: The Fervent Champion Returns'"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Embercleave", "set": "ELD", "note": "Irencrag-named legendary equipment; Fervent Champion's equip-cost reduction directly benefits this card"},
+    {"name": "Worthy Knight", "set": "ELD", "note": "White Knight with token generation; key partner in Mardu Knights Standard builds"},
+    {"name": "Rimrock Knight", "set": "ELD", "note": "Boulder Rush adventure; fellow Embereth-aligned attacker that Fervent Champion pumps on attack"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

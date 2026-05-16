@@ -1,0 +1,41 @@
+{
+  "card_name": "Pestilent Haze",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "118",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Pestilent Haze is an M21 original — first and only printing as of May 2026. It is an uncommon black Sorcery (2B) released July 3, 2020. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Your crops will rot. The air itself will turn against you. You will suffer as I have suffered.\" — Karaz, outcast. Karaz is not an established named lore character with broader MTG story context; the attribution to an \"outcast\" frames the speaker as someone weaponizing their own suffering, turning personal plague into communal curse. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Pestilent Haze offers two modes: -2/-2 to all creatures until end of turn (a sweeper), or remove two loyalty counters from each planeswalker (a planeswalker suppressor). The split-mode design makes it a flexible sideboard or maindeck piece that answers both creature swarms and opposing walker ultimates. EDHREC rank 24,305 reflects low Commander adoption. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Sidharth Chaturvedi. The two-figure plague composition — one turning back over a shoulder in a wasteland — echoes the iconography of medieval plague imagery (shrouded travelers, visible mortality). Chaturvedi's color palette is near-monochromatic umber and charcoal, with a distinctive sickly green-yellow miasma as the only saturated color element. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Languish", "set": "Magic Origins", "note": "peer -4/-4 all-creatures sweeper in black — power-level comparison"},
+    {"name": "Planar Cleansing", "set": "various", "note": "white sweeper that makes the modal Haze relevant in color-diverse metas"},
+    {"name": "Grim Affliction", "set": "New Phyrexia", "note": "thematic peer in the plague-as-magic design space"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

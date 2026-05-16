@@ -1,0 +1,41 @@
+{
+  "card_name": "Concordia Pegasus",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "12",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Concordia Pegasus originated in Return to Ravnica (RTR, 2012) — a Ravnica-set card despite having no guild affiliation. \"Concordia\" refers to the Ravnica district where the card was plane-flavor-labeled. It was reprinted in Core Set 2020 (M20) and Ravnica Allegiance (RNA) before M21. Four total printings. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (no attributed speaker): \"In the cloudy skies and dim light of autumn, a flash of white wings is a reminder that better times lie ahead.\" The season specificity — autumn, dim light — is unusual in MTG flavor text, which normally avoids time-anchoring. The line frames hope as an interruption of grey, not an absence of it. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 1/3 Flying for 1W, Concordia Pegasus is a defensive flyer that trades combat efficiency for a durable body that blocks well in the air. EDHREC rank 19,843 indicates light Commander adoption. In Limited (M21 draft), 1/3 flyers at 2 mana are key tempo pieces in white-based aerial strategies. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Chris Rahn, whose Pegasus rendering here is notably painterly and soft — moody overcast sky, mountain backdrop. Rahn is a prolific MTG illustrator (Elesh Norn, Grand Cenobite is among his most famous pieces); the Concordia Pegasus assignment is a quieter, pastoral register far from his high-detail horror work. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pegasus Courser", "set": "Dominaria", "note": "mechanical peer — white Pegasus with evasion-granting ability"},
+    {"name": "Loyal Pegasus", "set": "Magic Origins", "note": "1-mana white Pegasus creature — design-family comparison"},
+    {"name": "Elesh Norn, Grand Cenobite", "set": "New Phyrexia", "note": "another Chris Rahn illustration — artist connection across tonal extremes"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

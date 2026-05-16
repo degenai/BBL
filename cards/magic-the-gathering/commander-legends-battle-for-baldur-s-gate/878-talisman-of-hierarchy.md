@@ -26,6 +26,7 @@ mood: other
 time_of_day: indeterminate
 setting: indoor
 artist: Lindsey Look
+characters: ["kaya"]
 art_crop_image: cards/_images/magic-the-gathering/commander-legends-battle-for-baldur-s-gate/878-talisman-of-hierarchy--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/2/2299c93e-f3a6-4b41-857b-e3d1aff0f622.jpg?1674142768
 flavor_text: \"You'll never get to the top if you don't know who's already there.\"\n—Kaya

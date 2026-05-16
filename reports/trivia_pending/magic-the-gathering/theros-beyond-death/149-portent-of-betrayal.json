@@ -1,0 +1,42 @@
+{
+  "card_name": "Portent of Betrayal",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "149",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Three printings: Theros (THS, first print 2013-09-27), Theros Beyond Death (2020-01-24), Commander Legends (CMR, 2020-11-20). Functional reprint of the Act of Treason effect plus Scry 1.",
+      "sources": ["Scryfall: all prints via oracle_id search"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Mogis can fan a small flame of resentment into an inferno of madness.\" No attributed speaker — framed as received lore-wisdom. Mogis is the twin of Iroas and god of slaughter; fanning mortal conflict and discord is his specific divine domain.",
+      "sources": ["Scryfall", "MTG Wiki: Mogis via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Hipsters of the Coast common review grade F: 'either wins games or sits in sideboard.' Devastating in sacrifice-themed decks (steal + sacrifice); mediocre in fair decks. Legal in Pauper and Pauper Commander.",
+      "sources": ["Hipsters of the Coast: THB Common Review 2020-01", "Scryfall legalities"]
+    },
+    {
+      "category": "design",
+      "text": "THB printing by Greg Staples, veteran MTG illustrator since the Tempest-era whose sharp-contrast battle scenes span many sets.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mogis, God of Slaughter", "set": "BNG", "note": "The deity named in this card's flavor text"},
+    {"name": "Act of Treason", "set": "M20", "note": "Closest functional analog, one mana cheaper, no Scry"},
+    {"name": "Portent of Betrayal", "set": "THS", "note": "Original 2013 printing with different art"},
+    {"name": "Skophos Warleader", "set": "THB", "note": "Sacrifice outlet that synergizes with stolen creatures"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

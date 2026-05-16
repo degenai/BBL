@@ -1,0 +1,41 @@
+{
+  "card_name": "Infernal Scarring",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "105",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Infernal Scarring first appeared in Magic Origins (ORI, 2015), then was reprinted in Core Set 2019 (M19, 2018) and appeared on The List (PLST) before returning in M21 (2020). Four total printings. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (no attributed speaker): \"One who is marked by a demon in life is sure to be remembered as one in death.\" The text frames demonic marking as a posthumous identity — you don't become a demon, you are remembered as one. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Aura grants +2/+0 plus a draw-on-death trigger, making it a card-neutral enchantment when the creature dies — a rare design feature for a common-rarity Aura that dates back to Origins. EDHREC rank 19,859 puts it in the low-end Commander adoption tier; its home is Pauper and budget black aggro. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Mike Bierek. The figure faces away from the viewer — an unusual compositional choice that makes the scarred back the entire subject, stripping identity from the bearer and centering the demonic mark itself. The void setting isolates the branding ritual from any environmental context. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Demonic Pact", "set": "Magic Origins", "note": "fellow Origins demon-bargain black enchantment"},
+    {"name": "Mark of the Vampire", "set": "various", "note": "parallel common Aura in black with lifelink rider — design comparison"},
+    {"name": "Tormented Soul", "set": "various", "note": "thematic peer: demon-touched creature in Origins block design space"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

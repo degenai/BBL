@@ -50,3 +50,14 @@ A cheerful blonde-haired peasant woman stands behind a wooden market stall, dres
 **Objects:** market-stall, bottles, scrolls, trinkets, wares, candelabra
 **Genre cues:** fantasy, fairy-tale, storybook
 
+## Trivia
+
+- **Set context — Adventure mechanic** — Merchant of the Vale is a double-faced Adventure card: the front side is a 2/3 Human Peasant (cost 2R), the back side is Haggle, an instant Adventure (cost R) that reads "You may discard a card. If you do, draw a card." The Adventure mechanic was new to Throne of Eldraine, letting players cast the instant or sorcery half first, exile it, then cast the creature later from exile `[Scryfall; Wizards rules Q&A]`.
+- **Flavor text** — `"Buying old, worn-out junk. Selling marvels of real value."` — No named speaker; the line characterizes the merchant's self-presentation and gestures toward the fairytale trope of the magical peddler whose wares are worth more than they appear `[Scryfall]`.
+- **Mechanical role** — Merchant of the Vale became a draft staple and saw fringe competitive play because Haggle is a one-mana loot effect at instant speed — unusually efficient for red. The Haggle half turns the card into a discard outlet or cantrip that also leaves a 2/3 body waiting in exile `[Scryfall; community draft analysis]`.
+- **Wilds peasant archetype** — The card's creature type Human Peasant places her outside the five courts entirely — neither a knight nor a fae creature, but a commoner operating in the in-between spaces of Eldraine. The Vale referenced in her name is a common ELD locale signifying settled rural territory away from the courts `[Planeswalker's Guide to Eldraine, magic.wizards.com]`.
+
+### Related cards
+- Lucky Clover (ELD, no. 226) — Artifact that copies Adventure spells when cast; Merchant's Haggle triggers two loot effects through it
+- Bonecrusher Giant (ELD, no. 115) — Another Adventure common/uncommon used as a loot/draw-comparison benchmark in ELD draft
+- Brazen Borrower (ELD, no. 39) — Blue Adventure rare, the high end of the same mechanic cycle

@@ -1,0 +1,41 @@
+{
+  "card_name": "Mind Rot",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "115",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Mind Rot is one of the longest-tenured discard spells in Magic, first printed in Portal (POR, 1997) — a teaching-focused starter product. As of the M21 printing in July 2020, it had accumulated 28 unique printings across Portal, Portal Second Age, Starter 1999, seven core sets, and multiple expansion sets. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (no speaker): \"Many an inventor has collapsed under the pressure to create a flawless design.\" The flavor text shifts the card's identity from a generic discard spell to a meditation on perfectionism and creative burnout — an unusual tonal choice for a 28-year-old staple. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Seb McKinnon for the M21 printing. McKinnon is known for introspective, figure-centered compositions that emphasize psychological states over action. This piece — an inventor collapsed face-down over a cluttered workbench — is atypical for a discard spell, which normally depicts external violence or psychic invasion. The M21 art reframed a very old card through a labor/burnout lens. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mind Rot (2B, force target player to discard two cards) remains legal in Pauper, Premodern, and Commander among other formats. EDHREC rank 12,264 places it in the mid-tier Commander adoption range for black discard options. Its 28 printings make it one of the most reprinted discard sorceries in the game. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Thoughtseize", "set": "Lorwyn", "note": "premiere targeted discard — the power-level ceiling that Mind Rot sits far below"},
+    {"name": "Duress", "set": "various", "note": "1-mana selective discard that shares the core-set discard design space"},
+    {"name": "Distress", "set": "Ninth Edition", "note": "near-functional twin with different flavor history — peer comparison"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Vengeful Tracker",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "147",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Part of MKM (February 9, 2024) on Ravnica — a top-down murder-mystery set involving the Ravnican Agency of Magicological Investigations.",
+      "sources": ["Scryfall: mkm/147", "magic.wizards.com: MKM story overview"]
+    },
+    {
+      "category": "design",
+      "text": "Scryfall type line is Creature — Human Detective (red-green uncommon, collector no. 147); artist Francisco Miyara.",
+      "sources": ["Scryfall: mkm/147"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"I won't waste my time hunting down petty thieves while my brother's killer still walks free.\" — anonymous tracker; establishes personal vengeance motive over civic duty.",
+      "sources": ["Scryfall: flavor_text field, mkm/147"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Triggered ability (2 damage when opponent sacrifices an artifact) is a narrow sideboard effect; ~0.1% Commander inclusion rate (~6.35K of 4.39M decks tracked).",
+      "sources": ["EDHREC: MKM set page via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Culvert Ambusher", "set": "MKM", "note": "same set, green uncommon, Disguise; predator thematic cluster"},
+    {"name": "Fanatical Strength", "set": "MKM", "note": "same set, Kaya ambush flavor; thematic pursuit night"},
+    {"name": "Vengeful Creeper", "set": "MKM", "note": "shares 'Vengeful' naming within the same set; revenge-theme cluster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

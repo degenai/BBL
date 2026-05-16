@@ -55,3 +55,15 @@ A colossal spider crouches at the center of a dense white web, its body dark and
 **Iconography:** web, predator, trap, gems
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context** — Glint Weaver is a green Spider creature (MKM, no. 162, uncommon) from Murders at Karlov Manor (February 9, 2024), illustrated by Tuan Duong Chu. At {5}{G}{G} for a 3/3 Reach, the creature is expensive but its enter-the-battlefield ability — distributing three +1/+1 counters across up to three creatures and then gaining life equal to the greatest toughness you control — can represent a substantial burst of life gain alongside board development `[Scryfall: mkm/162 oracle_text]`.
+- **Flavor text** — "The spider just loved how the gems twinkled, and the high-class prey they attracted." The spider uses jewels as lures — a predator that decorates its web to attract more desirable victims. This flavor concept is entomologically inspired by bolas spiders and other web-decorating arachnids, transposed onto Ravnica's upscale-crime milieu `[Scryfall: flavor_text field, mkm/162]`.
+- **Mechanical note** — The life gain trigger uses "greatest toughness among creatures you control" — meaning even one very large toughness creature (such as one that just received a +1/+1 counter from the same trigger) sets the life-gain ceiling. This creates a small calculation puzzle at resolution: counter distribution order affects which toughness value the life gain reads `[Scryfall: mkm/162 release notes via magic.wizards.com: MKM Release Notes]`.
+- **Spider type in MKM** — Ravnica isn't a typical Spider-heavy plane; a gem-luring Spider fits MKM's upscale-crime setting better than a forest predator would. The art places it in vine-covered ruins rather than wilderness, reinforcing Ravnica's urban ecology `[vision pass; Scryfall: mkm/162 type_line]`.
+
+### Related cards
+- Culvert Ambusher (MKM, no. 158) — same set, same color; creature-Horror in similar dungeon-predator framing
+- Gloomshrieker (MKM, if present) — spider/web thematic cluster within MKM or adjacent sets
+- Webweaver Changeling (various) — Spider type historical cluster; reach + web predator archetype
+

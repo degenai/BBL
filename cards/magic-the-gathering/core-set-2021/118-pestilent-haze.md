@@ -52,3 +52,14 @@ A grim, near-monochrome black-magic scene drenched in sickly fog. Two robed, hoo
 **Iconography:** hooded-figure, plague-shroud
 **Genre cues:** dark-fantasy, horror, plague
 
+## Trivia
+
+- **Set context** — Pestilent Haze is an M21 original — first and only printing as of May 2026. It is an uncommon black Sorcery (2B) released July 3, 2020. `[Scryfall]`
+- **Flavor text** — "Your crops will rot. The air itself will turn against you. You will suffer as I have suffered." — Karaz, outcast. Karaz has no broader named lore presence in MTG canon — the attribution to an "outcast" frames the speaker as someone weaponizing their own experience of suffering, turning personal plague into communal curse directed back at those who expelled them. `[Scryfall]`
+- **Mechanical design** — Pestilent Haze offers two modes: -2/-2 to all creatures until end of turn (a partial sweeper), or remove two loyalty counters from each planeswalker (a walker suppressor). The split-mode design makes it flexible against both creature swarms and opposing planeswalker ultimates. EDHREC rank 24,305 reflects low Commander adoption; the card sees more play in formats where planeswalker pressure is a sideboard concern. `[Scryfall]`
+- **Design** — Art by Sidharth Chaturvedi. The two-figure plague composition — shrouded travelers in a wasteland, one turning to look back — echoes medieval European plague iconography (the procession, the backward glance). Chaturvedi's palette is near-monochromatic umber and charcoal with a single accent of sickly green-yellow miasma as the only saturated color element. `[Scryfall]`
+
+### Related cards
+- Languish (Magic Origins) — peer black all-creatures sweeper at -4/-4; power-level comparison
+- Grim Affliction (New Phyrexia) — thematic peer in the plague-as-magic black design space
+- Toxic Deluge (Commander 2013) — the Commander-tier sweeper that sits above Pestilent Haze on the same axis

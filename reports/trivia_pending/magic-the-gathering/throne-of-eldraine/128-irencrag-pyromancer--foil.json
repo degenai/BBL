@@ -1,0 +1,41 @@
+{
+  "card_name": "Irencrag Pyromancer",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "128",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The card's name anchors it to Embereth's central relic: the Irencrag, a massive volcanic-heated boulder used in knighting rituals. The Irencrag 'speaks' to candidates in a private voice, taunting their courage — making the flavor text here readable as the stone itself.",
+      "sources": ["Planeswalker's Guide to Eldraine, magic.wizards.com"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Fear of fire is a sensible instinct. If I were you, I'd be terrified.\" — No named speaker on the card; the voice may be the Irencrag itself, which the lore establishes as taunting aspiring knights.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Trigger fires on the second card drawn each turn — not the first — requiring draw-heavy or looting strategies. Natural combo engine with Irencrag Feat, which lets you draw seven cards, triggering the Pyromancer's 3-damage ability.",
+      "sources": ["Scryfall oracle text"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Jason Rainville. The figure faces away from the viewer — a compositional choice centering the fire vortex and forge environment over the caster's personal identity, consistent with the Irencrag's impersonal, elemental character.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Irencrag Feat", "set": "ELD", "note": "Sorcery producing seven red mana and drawing a card; natural payoff engine for Pyromancer's second-draw trigger"},
+    {"name": "Embercleave", "set": "ELD", "note": "Legendary sword named by the Irencrag; shares the Irencrag lore anchor"},
+    {"name": "Midnight Clock", "set": "ELD", "note": "Blue draw engine; popular combo with Irencrag Pyromancer in Izzet shells"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

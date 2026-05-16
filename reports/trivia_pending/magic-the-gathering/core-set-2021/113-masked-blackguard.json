@@ -1,0 +1,41 @@
+{
+  "card_name": "Masked Blackguard",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "113",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Masked Blackguard is an M21 original — first and only printing as of May 2026. It is a common Human Rogue (1B, 2/1) with Flash, released July 3, 2020. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (no attributed speaker): \"Her footsteps are whispers, her passage a last breath.\" The gendered pronoun in the flavor text is consistent with the figure's presentation; the line renders assassination as silence — not a sound but an absence. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Flash on a Human Rogue with a pump activation (2B: +1/+1 until end of turn) makes Masked Blackguard a surprise blocker or combat trick. In the M21 Limited format, Flash creatures at 2 mana provided tempo advantages in black-based control builds. EDHREC rank 26,643 indicates near-zero Commander adoption — a limited-focused design. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Bryan Sola. The composition is lit almost entirely by cool blue rim light, dissolving most of the figure into black — an art direction choice that treats the mask and the shadows as equivalent concealment. The architectural background is rendered as pure silhouette, keeping the focus on the half-face reveal above the mask line. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Thieves' Guild Enforcer", "set": "Core Set 2021", "note": "fellow M21 Human Rogue with Flash — shares the Rogue-Flash design space in the same set"},
+    {"name": "Nighthawk Scavenger", "set": "Core Set 2021", "note": "another M21 black creature in the Rogue tribal adjacent space"},
+    {"name": "Faerie Impostor", "set": "Return to Ravnica", "note": "early design precedent for Flash rogue at 2 mana"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

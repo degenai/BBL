@@ -50,3 +50,16 @@ A humanoid figure sprints across a dark rooftop or street-level urban surface, a
 **Objects:** lightning, energy-streaks
 **Genre cues:** fantasy, noir
 
+## Trivia
+
+- **Set context** — Vengeful Tracker is part of Murders at Karlov Manor (MKM), released February 9, 2024 on Ravnica — a top-down murder-mystery set where a string of high-profile killings sets off a plane-wide investigation involving the Ravnican Agency of Magicological Investigations `[Scryfall: MKM set]` `[magic.wizards.com: MKM story overview]`.
+- **Type line** — The card's Scryfall type line is Creature — Human Detective, placing it in MKM's investigator faction; it is a Gruul (red-green) uncommon at collector number 147 `[Scryfall: mkm/147]`.
+- **Flavor text** — "I won't waste my time hunting down petty thieves while my brother's killer still walks free." This anonymous line establishes the tracker as a character driven by personal vengeance rather than civic duty — their quarry is a specific murderer, not crime in general `[Scryfall: flavor_text field]`.
+- **Mechanical niche** — The triggered ability (2 damage to an opponent who sacrifices an artifact) is a narrow sideboard-style effect; the card is estimated at roughly 0.1% inclusion rate across Commander decks (~6.35K of 4.39M tracked), indicating it sees minimal constructed play outside artifact-heavy metas `[EDHREC: MKM set page, via WebSearch snippet]`.
+- **Community note** — No dedicated Reddit discourse surfaced in research; the card's low market price ($0.17) and tight trigger condition suggest it is treated as a limited role-player rather than a constructed staple.
+
+### Related cards
+- Culvert Ambusher (MKM, no. 158) — same set, green uncommon with Disguise; shares the pursuit/predator thematic space
+- Fanatical Strength (MKM, no. 159) — same set, green common featuring Kaya facing robed attackers in similar chase-night composition
+- Vengeful Creeper (MKM, no. 182) — shares "Vengeful" naming within the same set; thematic revenge cluster
+

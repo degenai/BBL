@@ -1,0 +1,41 @@
+{
+  "card_name": "Searing Barrage",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "140",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The flavor text names two distinct Eldraine locations: Lochmere (the mist-shrouded lake surrounding Castle Vantress, the blue knowledge court) and Irencrag (the volcanic boulder at the heart of Embereth, the red courage court). A creature surviving the cold of one court is destroyed by the fire of the other.",
+      "sources": ["Scryfall", "Planeswalker's Guide to Eldraine, magic.wizards.com"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It emerged from the coldest depths of Lochmere only to face the fires of Irencrag.\" — No named speaker. Structured as tragic irony: survival of the deep cold only to be destroyed by heat.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Carries the Adamant keyword (new to ELD): if at least three red mana was spent, deals an additional 3 damage to the creature's controller beyond the baseline 5 to the creature. Adamant was ELD's keyword cycle for the five courts, associating red with fire-magic damage scaling.",
+      "sources": ["Scryfall oracle text"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Allen Williams, known for detailed creature and horror-adjacent fantasy illustration.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Lochmere Serpent", "set": "ELD", "note": "Blue-black Serpent from the same Lochmere lake named in the flavor text; likely depicts the same type of creature"},
+    {"name": "Irencrag Pyromancer", "set": "ELD", "note": "Named Irencrag wizard; companion card to the 'fires of Irencrag' reference in this card's flavor"},
+    {"name": "Irencrag Feat", "set": "ELD", "note": "Sorcery producing massive red mana from the Irencrag; shares the lore anchor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

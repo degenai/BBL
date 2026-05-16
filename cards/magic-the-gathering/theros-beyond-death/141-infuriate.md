@@ -53,3 +53,16 @@ A bull-headed minotaur warrior dominates the frame, its dark fur and curved horn
 **Creatures:** minotaur
 **Genre cues:** fantasy, mythic-greek
 
+## Trivia
+
+- **Set context / reprint history** — Infuriate was first printed in **Core Set 2020** (2019-07-12), then reprinted in THB (2020-01-24), then again in the **Strixhaven Mystical Archive** (STA, 2021-04-23, as no. 41 in English and no. 104 in Japanese), and again in **Foundations Jumpstart** (J25, 2024-11-15) — four printings across four years [Scryfall]. Each printing brought a distinct art treatment; the STA English version was illustrated by Benjamin Ee, the STA Japanese alternate-art version by Yangyang & Xiaji [Scryfall: sta/41, sta/104/ja].
+- **Flavor text** — "Renata launched a dozen arrows into the minotaur's thick hide, but the monster didn't slow its charge. The fury of Mogis was upon it." —Luphea of Setessa, *Histories* [Scryfall]. **Mogis, God of Slaughter**, is the twin of Iroas and the patron deity of minotaurs on Theros; Skophos and Phoberos are his minotaur-dominated territories [MTG Wiki: Mogis, via WebSearch snippet]. This is the second flavor-text appearance of **Luphea of Setessa** in this batch (also on Careless Celebrant), suggesting Luphea's *Histories* is a deliberate flavor-cycle source text for THB.
+- **Mechanical reputation** — Hipsters of the Coast common review graded THB Infuriate **D**: "Red's strictly worse version of Giant Growth" in limited contexts; however, as a common 1-mana pump spell it has consistent Pauper and Pauper Commander application, and the STA showcase printing elevated its profile among collectors [Hipsters of the Coast: THB Common Review, 2020-01]. Legal in Pauper [Scryfall legalities].
+- **Artist** — THB printing illustrated by **Tomasz Jedruszek**, a frequent MTG contributor known for dramatic close-up compositions [Scryfall].
+
+### Related cards
+- Mogis, God of Slaughter (BNG, no. 151) — the named god whose divine fury is described in this card's flavor text
+- Infuriate (STA, no. 41) — English Mystical Archive alternate art (Benjamin Ee)
+- Infuriate (STA, no. 104/ja) — Japanese alternate art (Yangyang & Xiaji)
+- Skophos Warleader (THB, no. 154) — fellow Mogis-worshipping minotaur in the same set
+

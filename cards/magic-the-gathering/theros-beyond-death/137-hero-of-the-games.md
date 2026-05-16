@@ -52,3 +52,15 @@ A bald, bare-chested male figure wearing a deep crimson draped garment cinched a
 **Iconography:** athlete, victor
 **Genre cues:** fantasy, greek-mythology, classical-antiquity
 
+## Trivia
+
+- **Set context** — Hero of the Games is a common Human Soldier in THB, first and only printing released 2020-01-24 [Scryfall]. The card's name and flavor text tie directly to the **Iroan Games**, Theros's athletic competition held annually at Akros — the polis of war governed by Iroas, god of victory; the Games honor Iroas by awarding a visit from the god himself rather than a material prize [MTG Wiki: Iroas, via WebSearch snippet].
+- **Flavor text** — "Winners of the Iroan Games are forever remembered as heroes of their people." [Scryfall]. The anonymous nature of the quote — no attributed speaker — reinforces that this is generic Theran cultural fact, not the testimony of a named figure.
+- **Mechanical reputation** — Hipsters of the Coast common review graded this **F**: "3/2s for three need more than minor upside to get there" — the pump ability (cast a spell targeting it, all your creatures get +1/+0 until end of turn) requires build-around and doesn't compensate for the below-curve stats in aggressive contexts [Hipsters of the Coast: THB Common Review, 2020-01]. Despite the low limited grade, it is legal in Pauper and Pauper Commander where Heroic-adjacent strategies can extract value [Scryfall legalities].
+- **Connected set card** — THB includes the saga **The First Iroan Games** (no. 170), which depicts the founding of these very games; Hero of the Games is the mortal participant, The First Iroan Games is the institutional frame — a flavor-cycle pairing across rarity [Scryfall: The First Iroan Games].
+
+### Related cards
+- The First Iroan Games (THB, no. 170) — the saga depicting the games this hero competes in
+- Iroas, God of Victory (JOU, no. 102) — the god who presides over the Iroan Games
+- Favored Hoplite (THS, no. 10) — Heroic-mechanic parallel from original Theros
+

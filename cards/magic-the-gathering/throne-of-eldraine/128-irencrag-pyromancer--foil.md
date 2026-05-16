@@ -52,3 +52,14 @@ A figure in a deep crimson hooded robe stands with their back partially turned t
 **Iconography:** fire-vortex, outstretched-arms, hooded-figure
 **Genre cues:** fantasy, high-fantasy, fairy-tale
 
+## Trivia
+
+- **Set context — Irencrag** — The card's name anchors it to Embereth's central relic: the Irencrag, a massive volcanic-heated boulder used in Embereth's knighting ritual. Aspiring knights must plunge their sword into its glowing surface; those who succeed with courage may withdraw the blade, which the Irencrag sometimes names with legendary power. The Irencrag "speaks" to candidates in a private voice, testing their resolve `[Planeswalker's Guide to Eldraine, magic.wizards.com]`.
+- **Flavor text** — `"Fear of fire is a sensible instinct. If I were you, I'd be terrified."` — No named speaker on the card; the voice may be read as the Irencrag itself, which the lore establishes taunts candidates `[Scryfall]`.
+- **Mechanical design** — Irencrag Pyromancer's trigger fires on the second card drawn each turn, not the first, rewarding draw-heavy or looting strategies without being a trivial draw-one payoff. This pairs it with Irencrag Feat (which lets you draw seven cards) and other ELD red card-draw effects `[Scryfall oracle text]`.
+- **Artist** — Jason Rainville, who illustrated the figure facing away from the viewer — a compositional choice that centers the conjured fire vortex and forge environment over the caster's identity, consistent with the Irencrag's impersonal, elemental nature `[Scryfall]`.
+
+### Related cards
+- Irencrag Feat (ELD, no. 127) — Sorcery that produces seven red mana and draws a card; the natural payoff engine for Irencrag Pyromancer's second-draw trigger
+- Embercleave (ELD, no. 120) — The legendary sword named by the Irencrag; shares the Irencrag lore anchor
+- Midnight Clock (ELD, no. 54) — Blue draw engine; popular combo with Irencrag Pyromancer in Izzet shells

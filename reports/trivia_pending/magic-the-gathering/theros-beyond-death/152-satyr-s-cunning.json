@@ -1,0 +1,42 @@
+{
+  "card_name": "Satyr's Cunning",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "152",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Common red Sorcery, THB original print only (non-foil variant). Carries the Escape keyword — THB's central graveyard-rebuy mechanic. Base cost 1R, escape cost 2R + exile two graveyard cards.",
+      "sources": ["Scryfall oracle text"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It's hard to keep a satyr down, even in the Underworld.\" Both lore-accurate (satyrs associated with trickery and persistence on Theros) and a mechanical wink — the card literally cannot stay in the graveyard.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Hipsters of the Coast common review grade F in limited; cube review skeptical about Mono Red recursive viability but ranked top-3 for Peasant/Pauper. Sees Pioneer play in Transmogrify/Boros Creativity as cheap recurring sacrifice fodder. Legal in Pauper and Pauper Commander including Satyr Enchanter shells.",
+      "sources": ["Hipsters of the Coast: THB Common Review 2020-01", "Hipsters of the Coast: THB Cube Review Red 2020-03", "WebSearch: Satyr's Cunning Pioneer via mtgdecks.net snippet", "Scryfall legalities"]
+    },
+    {
+      "category": "design",
+      "text": "Generates a 1/1 red Satyr token with 'This token can't block' — the non-blocking clause is a recurring flavor marker for satyrs on Theros, implying they are too reckless to stand their ground. Art by Deruchenko Alexander.",
+      "sources": ["Scryfall oracle text", "Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Satyr's Cunning (Foil)", "set": "THB", "note": "Foil variant — separate inventory node, same card"},
+    {"name": "Careless Celebrant", "set": "THB", "note": "Companion satyr in same set"},
+    {"name": "Uro, Titan of Nature's Wrath", "set": "THB", "note": "Breakout Escape card that defined the mechanic's competitive ceiling"},
+    {"name": "Ox of Agonas", "set": "THB", "note": "Graveyard-enabling Escape creature in the same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

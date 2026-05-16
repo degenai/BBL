@@ -1,0 +1,41 @@
+{
+  "card_name": "Raging Redcap",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "134",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Redcaps derive from Anglo-Scottish border folklore: malevolent goblins inhabiting ruined castles who soak their caps in victims' blood and must kill regularly to survive. The tradition dates to medieval border-war territory, roughly the 13th-16th centuries.",
+      "sources": ["Wikipedia: Redcap", "Planeswalker's Guide to Eldraine, magic.wizards.com"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In ELD lore, redcaps are Wilds creatures — chaotic, 'barrel-height' humanoids outside the five courts' chivalric system. The creature type Goblin Knight complicates this playfully, like Ogre Errant's Ogre Knight type.",
+      "sources": ["Planeswalker's Guide to Eldraine, magic.wizards.com", "Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Many tales of redcap terror begin with two simple things: bloodlust and stolen steel.\" — No named speaker. 'Stolen steel' references folklore: redcap weapons are always pilfered from victims.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Double strike on a 1/2 body for 2R. Efficient for limited in ELD, where first-strike and regular combat damage together can trade up profitably. Color identity is mono-red despite the dark cave art.",
+      "sources": ["Scryfall oracle text"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fling", "set": "ELD", "note": "Giants throw redcaps at knights; this card is the creature being thrown"},
+    {"name": "Wydwen, the Biting Gale", "set": "LRW", "note": "Earlier Lorwyn-block redcap design precedent in MTG creature-type history"},
+    {"name": "Bloodsoaked Champion", "set": "KTK", "note": "Thematic parallel: creature bound to keep fighting, mirroring the folklore 'must kill to survive' rule"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

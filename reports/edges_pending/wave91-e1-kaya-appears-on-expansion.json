@@ -1,0 +1,35 @@
+{
+  "edge_id": "wave91-e1-kaya-appears-on-expansion",
+  "shape": "1:N stack-extension",
+  "category": "named-character-identity",
+  "verdict": "EXTEND — all 5 candidate Kaya-referencing cards confirmed in corpus with flavor-text or trivia attribution Kaya. The Kaya character node's own body (wave 90E1) already cited each of the 5 prints with full canonical receipts including verbatim flavor text. The appears_on list was the only thing under-wired; this pass extends it from 1 anchor to 6 and wires `characters: [kaya]` to all 5 newly-added cards.",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/kaya.md", "name": "Kaya"},
+    {"type": "card", "path": "cards/magic-the-gathering/ravnica-allegiance/252-orzhov-guildgate-252.md", "name": "Orzhov Guildgate (252)", "evidence": "flavor_text speaker: Kaya (RNA-252 verbatim: 'So much wealth. So much splendor. So much temptation to believe the gilded lie.')"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/106-spark-reaper.md", "name": "Spark Reaper", "evidence": "flavor_text speaker: Kaya (WAR-106 verbatim: 'I know they're unstoppable fighters created to harvest souls—it's just they're so rude about it.')"},
+    {"type": "card", "path": "cards/magic-the-gathering/commander-legends-battle-for-baldur-s-gate/878-talisman-of-hierarchy.md", "name": "Talisman of Hierarchy", "evidence": "flavor_text speaker: Kaya (CLB-878 verbatim: 'You'll never get to the top if you don't know who's already there.')"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/159-fanatical-strength.md", "name": "Fanatical Strength", "evidence": "flavor_text named speaker: Kaya (MKM-159 verbatim: '\"What is this? An ambush or a staring contest?\" Kaya taunted. As if in answer, the robed figure lunged forward.')"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/312-deadly-complication-showcase.md", "name": "Deadly Complication (Showcase)", "evidence": "flavor_text named character: Kaya (MKM-312 verbatim: 'Teysa's security was unrivaled. Etrata was locked up. Kaya was left with nothing but multiplying questions... and a dead friend.')"}
+  ],
+  "description": "Five-out-of-five wire confirmations, no refusals. The Kaya node's body already had the receipts laid out — RNA-252 Orzhov Guildgate (Kaya as Orzhov-guildmaster speaker), WAR-106 Spark Reaper (Kaya as WAR-resistance speaker), CLB-878 Talisman of Hierarchy (Kaya as Orzhov-political-instinct speaker), MKM-159 Fanatical Strength (Kaya as MKM-detective scene anchor with quoted dialogue), MKM-312 Deadly Complication showcase (Kaya as MKM-narrative-aftermath named character). Sustained four-set flavor-voice arc spanning 2019-2024. The five-year flavor-voice continuity is by itself a Wizards-canon-authored mini-arc that the BBL graph now traverses. CN2-precedent for kaya-as-flavor-voice anchor is the canonical Wizards mechanism; not stretching anything.",
+  "citations": [
+    "[Scryfall RNA-252 flavor_text: 'So much wealth...' —Kaya]",
+    "[Scryfall WAR-106 flavor_text: 'I know they're unstoppable fighters...' —Kaya]",
+    "[Scryfall CLB-878 flavor_text: 'You'll never get to the top...' —Kaya]",
+    "[Scryfall MKM-159 flavor_text: 'Kaya taunted' (named in dialogue)]",
+    "[Scryfall MKM-312 flavor_text: 'Kaya was left with nothing but multiplying questions' (named)]",
+    "[Wizards of the Coast Murders at Karlov Manor 2024 storyline pages — Kaya as Orzhov-guildmaster + Proft co-investigator]",
+    "[MTG Wiki: Kaya, Ghost Assassin — multi-set planeswalker continuity]"
+  ],
+  "files_modified": [
+    "cards/_characters/kaya.md (appears_on extended 1->6; Appears on body wikilink list extended 1->6)",
+    "cards/magic-the-gathering/ravnica-allegiance/252-orzhov-guildgate-252.md (characters: [orzhov-syndicate, kaya])",
+    "cards/magic-the-gathering/war-of-the-spark/106-spark-reaper.md (characters: [kaya] added)",
+    "cards/magic-the-gathering/commander-legends-battle-for-baldur-s-gate/878-talisman-of-hierarchy.md (characters: [kaya] added)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/159-fanatical-strength.md (characters: [kaya] added)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/312-deadly-complication-showcase.md (characters: [kaya] appended after symbols: [suspect])"
+  ],
+  "topology": "stack",
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": "The 4 related-card-citation prints (MKM-125 Felonious Rage, WAR-81 Charity Extractor, M21-35 Secure the Scene, MH3-132 Ral and the Implicit Maze) are deliberately NOT added to appears_on — these are flavor-frame citations in trivia bullets, not flavor-text speaker or named-in-flavor anchors. They remain in the Kaya node body's 'Aspects in the corpus' section as graph-context, not as substantive anchors. This preserves the appears_on threshold-of-anchor-quality discipline. MKM-116 The Chase Is On retains its position as the sole verified-depiction print (the other 5 are flavor-only)."
+}

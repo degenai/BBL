@@ -1,0 +1,41 @@
+{
+  "card_name": "Skophos Warleader",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "154",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Common Minotaur Warrior, THB original print only. Skophos is the minotaur polis of Theros — located in the far northern canyons of Phoberos, most devoted to Mogis, God of Slaughter; Skophos's center is the largest Mogis temple on the plane.",
+      "sources": ["Scryfall", "MTG Wiki: Skophos + Mogis via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The minotaur polis of Skophos boasts grand temples to the god of slaughter.\" Direct lore-anchor: the flavor text names the setting depicted, making this figure a warleader of that specific polis, not a generic minotaur.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The sacrifice ability ({R}, sacrifice a creature or enchantment: +1/+0 and menace) mechanically mirrors Mogis's doctrine of slaughter-as-tribute — Skophos minotaurs offer lives to their god and grow stronger for it. Art by Svetlin Velinov.",
+      "sources": ["Scryfall oracle text", "MTG Wiki: Mogis via WebSearch snippet", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Hipsters of the Coast common review grade D: 'mediocre ability that can randomly win the game in very specific scenarios.' The 4/5 body for 5 mana is solid but the sacrifice activation requires board resources and additional mana. Legal in Pauper.",
+      "sources": ["Hipsters of the Coast: THB Common Review 2020-01", "Scryfall legalities"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mogis, God of Slaughter", "set": "BNG", "note": "Patron deity of Skophos whose temples appear in this card's background"},
+    {"name": "Portent of Betrayal", "set": "THB", "note": "Companion Mogis-flavored card; steal + sacrifice combo piece"},
+    {"name": "Infuriate", "set": "THB", "note": "Same set; the Mogis-touched minotaur that appears in that card's flavor text"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

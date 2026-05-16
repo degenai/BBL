@@ -1,0 +1,41 @@
+{
+  "card_name": "Forum Familiar",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "16",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "White Creature — Cat uncommon (MKM, no. 16, February 9, 2024), illustrated by Ilse Gort. 'Forum' references Ravnica's civic architecture (Boros/Senate public forums); the cat haunts institutional corridors.",
+      "sources": ["Scryfall: mkm/16"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Disguise {1}{W}: cast face down as 2/2 with ward {2}, turn face up to bounce a permanent you control to hand and place a +1/+1 counter on self. Bounce-on-reveal is flexible tempo: protects threatened permanent while buffing the Familiar.",
+      "sources": ["Scryfall: mkm/16 oracle_text", "magic.wizards.com: MKM Mechanics — Disguise"]
+    },
+    {
+      "category": "design",
+      "text": "Tonal opposite of Culvert Ambusher (158): where the Ambusher's reveal is a predator lunge, Forum Familiar's reveal is a sleight-of-hand bounce — comedic relief within MKM's noir-murder-mystery aesthetic.",
+      "sources": ["Scryfall: mkm/16", "Scryfall: mkm/158"]
+    },
+    {
+      "category": "design",
+      "text": "No flavor text on record for this card.",
+      "sources": ["Scryfall: mkm/16"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Culvert Ambusher", "set": "MKM", "note": "shares Disguise mechanic; BBL disguise symbol node; tonal opposite"},
+    {"name": "Topiary Panther", "set": "MKM", "note": "another Disguise Cat in MKM; thematic cluster"},
+    {"name": "Impersonator", "set": "MKM", "note": "identity-concealment creature in the same set; thematic cousin"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

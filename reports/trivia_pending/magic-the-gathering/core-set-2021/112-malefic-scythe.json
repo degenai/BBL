@@ -1,0 +1,41 @@
+{
+  "card_name": "Malefic Scythe",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "112",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Malefic Scythe is an M21 original — first and only printing as of May 2026. It is an uncommon black Artifact — Equipment released July 3, 2020. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The soul counter mechanic is self-scaling: the Scythe enters with one counter, grows by one each time the equipped creature dies, and grants +1/+1 per counter. With cheap equip (1 mana), it functions as a death-profiting repeatable buff that becomes stronger through natural board attrition. EDHREC rank 18,060 suggests light Commander adoption, primarily in sacrifice-themed black decks. No flavor text. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Joe Slucher. No human figure appears — the scythe is venerated as an altar piece inside a stone shrine lit by four candle sconces. The framing as a reliquary (weapon-as-relic) is a deliberate inversion of Equipment cards that normally show the weapon in use. Slucher's object-study approach here is notable for an Equipment card, where action-figure illustration is the genre default. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Soul counters as a named counter type appear on a small number of cards in MTG history. The Malefic Scythe is one of the few Equipment cards to use a named accumulating counter as its growth engine rather than +1/+1 counters placed on the creature directly — a mechanical distinction that makes counter-doubling effects (Doubling Season, Vorinclex) not apply to the buff calculation. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Cranial Plating", "set": "Mirrodin", "note": "peer scaling Equipment — different resource but comparable self-growing pattern"},
+    {"name": "Lashwrithe", "set": "New Phyrexia", "note": "black Equipment that scales on a resource count, design comparison"},
+    {"name": "Skullclamp", "set": "Darksteel", "note": "canonical death-profit Equipment comparison for the sacrifice-synergy axis"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

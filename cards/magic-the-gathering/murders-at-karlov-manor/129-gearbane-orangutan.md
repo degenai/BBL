@@ -22,6 +22,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/9/6900a344-a15
 art_match_confidence: high
 needs_manual_review: false
 artist: Svetlin Velinov
+characters: ["foundway-associates"]
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/129-gearbane-orangutan--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/9/6900a344-a155-4ee1-a3ac-d6c28e024270.jpg?1706241871
 flavor_text: \"In her defense, thopters are very fun to smash.\"\n—Udol of the Foundway Associates

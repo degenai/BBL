@@ -1,0 +1,41 @@
+{
+  "card_name": "Rimrock Knight",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "137",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Rimrock Knight is a double-sided Adventure card: 3/1 Dwarf Knight (1R) that can't block; adventure half Boulder Rush is a one-mana instant giving target creature +2/+0 until end of turn. The dwarf hurling a boulder doubles as art-flavor justification for Boulder Rush.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "No flavor text on either the creature or adventure face. Illustrated by Chris Rallis, known for muscular, physically-committed figure work across multiple MTG sets.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "One of ELD's most-played red commons in Standard: Boulder Rush at one mana is unusually efficient, leaving a 3/1 body waiting in exile. Reprinted on The List (PLST-ELD-137), indicating continued demand post-rotation.",
+      "sources": ["Scryfall", "The List PLST-ELD-137"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Dwarf Knight creature type signals non-court mountain-dwellers of Eldraine. Dwarves in ELD are associated with rugged borderland identity — the boulder-carrying image fits a warrior who uses terrain as a weapon rather than forged steel.",
+      "sources": ["Planeswalker's Guide to Eldraine, magic.wizards.com"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fervent Champion", "set": "ELD", "note": "Boulder Rush's +2/+0 combines with Fervent Champion's +1/+0 attack trigger for substantial pump on another knight"},
+    {"name": "Brimstone Trebuchet", "set": "ELD", "note": "Rimrock Knight entry untaps the trebuchet; same knight-synergy package"},
+    {"name": "Embercleave", "set": "ELD", "note": "Premier red rare; Boulder Rush commonly used to set up Embercleave's damage threshold"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

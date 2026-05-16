@@ -1,0 +1,40 @@
+{
+  "card_name": "Final Flare",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "134",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Common instant, THB original print only. Sacrifice-as-additional-cost pairs natively with THB's enchantment-creature (Nyxborn) subtype and constellation triggers.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Those who fought without honor in life are taken to Agonas and doomed to fight forever in its arenas.\" Agonas is the Underworld arena reserved for the dishonored dead on Theros; the Escape mechanic represents souls fleeing that prison.",
+      "sources": ["Scryfall", "MTG Wiki: Theros plane via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Kev Walker, veteran MTG illustrator; symmetrical fireball-pyre composition reads as sacrifice consumed rather than battle won.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Hipsters of the Coast common review grade D: 'increasing your sacrifice fodder by ~25% isn't a huge boon for the 50% increase in cost.' Legal in Pauper and Pauper Commander.",
+      "sources": ["Hipsters of the Coast: THB Common Review 2020-01", "Scryfall legalities"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Agonizing Remorse", "set": "THB", "note": "References the same Underworld location Agonas in lore context"},
+    {"name": "Priest of Forgotten Gods", "set": "RNA", "note": "Key competitive sacrifice-payoff that pairs in eternal formats"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

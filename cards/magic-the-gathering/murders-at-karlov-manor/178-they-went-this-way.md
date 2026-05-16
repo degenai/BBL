@@ -25,6 +25,7 @@ mood: other
 time_of_day: night
 setting: forest
 artist: Andreas Zafiratos
+characters: ["foundway-associates"]
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/178-they-went-this-way--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/4/f4a31d4a-34bc-46b4-b20f-a5460191b35d.jpg?1706242086
 flavor_text: \"Running doesn't prove guilt, but innocent people don't typically flee into the North Ridge Forest.\"\n—Alst of the Foundway Associates

@@ -1,0 +1,41 @@
+{
+  "card_name": "Satyr's Cunning (Foil)",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "152",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Foil variant of Satyr's Cunning (THB no. 152). Both variants share Scryfall UUID 646d8201-be68-42fa-bcfd-42d81a2ad195; inventory tracks them separately. First and only printing.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Carries the Escape keyword — THB's signature graveyard-rebuy mechanic. The art (satyr climbing out of an underworld fissure) is a direct visual expression of Escape, one of the tighter flavor-mechanical fusions in the set. Art by Deruchenko Alexander.",
+      "sources": ["Scryfall oracle text", "Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It's hard to keep a satyr down, even in the Underworld.\" The line is both lore-accurate and a mechanical wink: cast it, graveyard, cast it again.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Hipsters of the Coast cube review skeptical: 'I've seen some talk about this card being a good recursive one drop for Mono Red, and I'm not sure I agree.' Common review grade F in limited. Sees Pioneer play in Transmogrify/Boros Creativity as cheap recurring sacrifice fodder.",
+      "sources": ["Hipsters of the Coast: THB Cube Review Red 2020-03", "Hipsters of the Coast: THB Common Review 2020-01", "WebSearch: Satyr's Cunning Pioneer via mtgdecks.net snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Satyr's Cunning", "set": "THB", "note": "Non-foil variant — separate inventory node, same card"},
+    {"name": "Careless Celebrant", "set": "THB", "note": "Companion satyr in same set"},
+    {"name": "Uro, Titan of Nature's Wrath", "set": "THB", "note": "Defining Escape card that set the mechanic's competitive ceiling"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

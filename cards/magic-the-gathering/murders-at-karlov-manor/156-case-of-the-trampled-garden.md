@@ -54,3 +54,15 @@ A peaceful garden meadow has been violated: a large tree stump is broken and spl
 **Iconography:** crime-scene, trampled-garden, nature-violated
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context and Case mechanic** — Case of the Trampled Garden is an uncommon green Enchantment — Case (MKM, no. 156) from Murders at Karlov Manor (February 9, 2024). The Case enchantment type debuted in MKM: Cases present a three-stage structure (enter ability / "to solve" condition / "Solved" payoff), designed to progress naturally through gameplay rather than requiring mana payments like the similar Classes from Adventures in the Forgotten Realms `[magic.wizards.com: Murders at Karlov Manor Mechanics]` `[coolstuffinc.com: MKM Mechanic Spotlight: Cases]`.
+- **Solve condition** — The "to solve" trigger requires creatures you control to have total power 8 or greater — a midrange green threshold that rewards board-development over tempo plays; the solved payoff (trample counter on an attacking creature every combat) converts sustained board presence into a pressure engine `[Scryfall: mkm/156 oracle_text]`.
+- **Art as a crime scene** — The card depicts a violated garden — a broken tree stump, teal liquid draining from the wound, a fallen white creature — with no human figures present. The "trampled garden" is the crime scene itself, making the enchantment mechanically a case being worked rather than a combatant responding to it `[vision pass]` — the nature-violated imagery is unusual for green pump/counter effects and reads as MKM's top-down design forcing genre tropes into color-pie slots `[magic.wizards.com: MKM Mechanics top-down design]`.
+- **No flavor text** — Scryfall's record (mkm/156) contains no flavor text `[Scryfall: mkm/156]`.
+
+### Related cards
+- Case of the Filched Falcon (MKM) — another Case enchantment in blue, same mechanic debut; provides thematic cluster context
+- Bite Down on Crime (MKM, no. 154) — same set, same color; fight spell that benefits from power growth the Case generates
+- Get a Leg Up (MKM, no. 161) — same set, green instant that scales with creature count; complementary pump in the green Limited archetype
+

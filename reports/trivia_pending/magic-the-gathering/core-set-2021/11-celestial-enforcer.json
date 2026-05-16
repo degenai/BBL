@@ -1,0 +1,41 @@
+{
+  "card_name": "Celestial Enforcer",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "11",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Celestial Enforcer is an M21 original — not a reprint. It is a Human Cleric (1WW, 2/3) first printed in Core Set 2021 (July 2020) and has not received additional printings as of May 2026. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (no attributed speaker): \"I look to the heavens for hope, but you will kneel.\" The line pairs devotion with enforcement — the figure's piety is personal while the coercion is directed outward. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The activated tap ability (1W, T: tap target creature) requires you to control a flying creature to activate — a conditional soft-lock that rewards white flying decks. EDHREC rank 28,366 is among the lowest in the set; it sees near-zero Commander play. Its competitive home, if any, is Pauper white flyers where the condition is easily met. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Bastien L. Deharme, a French illustrator who has done significant work for MTG in the religious-iconography and gothic spaces (Liesa, Forgotten Archangel; Vilis, Broker of Blood). The composition — backlit cleric with halo and raised hands — leans into Baroque religious painting conventions with deliberate gold-and-ivory palette. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pacifism", "set": "various", "note": "parallel white tap-control design in core sets"},
+    {"name": "Liesa, Forgotten Archangel", "set": "Midnight Hunt Commander", "note": "another Bastien L. Deharme piece in the devotion/religious-iconography space"},
+    {"name": "Serra's Guardian", "set": "M21", "note": "fellow white flyer in M21 that enables the Enforcer's activation condition"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

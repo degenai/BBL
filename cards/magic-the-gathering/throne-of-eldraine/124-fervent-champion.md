@@ -53,3 +53,14 @@ A fully armored knight rides a brown warhorse that rears up on its hind legs, fr
 **Iconography:** lance, cape, rearing-horse
 **Genre cues:** fantasy, arthurian, medieval
 
+## Trivia
+
+- **Design — Player Spotlight card** — Fervent Champion is a World Champion card commemorating Javier Domínguez, winner of the 2018 Magic World Championship held in Las Vegas. The card's "flavor text" field is his printed credit: "2018 World Champion Javier Domínguez." The World Champion card tradition gives the winning player's name and title a permanent place in the card's text box, replacing conventional flavor text `[Scryfall; magic.gg World Championship coverage]`.
+- **Set context — Embereth court** — The card's color (red), creature type (Human Knight), and aggressive stat line (1/1 with first strike and haste) position it squarely in Embereth, the red court of Eldraine that prizes courage above all virtues. Embereth knights "never carry shields" as a point of honor — Fervent Champion's art, charging alone into fire with a lance, reflects that ethos `[Planeswalker's Guide to Eldraine, magic.wizards.com]`.
+- **Competitive history** — Fervent Champion saw significant play in Standard (2019–2020) as a one-mana red aggro threat enabling Knight tribal synergies, and continued into Pioneer and Modern equipment-based aggro decks. Its equip-cost reduction of 3 makes it a functional target for equipment like Embercleave in multiple formats `[Scryfall; mtg.cardsrealm.com]`.
+- **Dominguez's career** — Javier Domínguez won a second World Championship in 2024 (World Championship 30), becoming one of only two players to win the title twice, prompting Wizards to reference the Fervent Champion card in their coverage post `[magic.gg: "The Week That Was: The Fervent Champion Returns"]`.
+
+### Related cards
+- Embercleave (ELD, no. 120) — Legendary equipment, the Irencrag-named blade; Fervent Champion's equip-cost reduction directly benefits this card
+- Worthy Knight (ELD, no. 36) — White Knight with on-entry token generation, key Fervent Champion partner in Mardu Knights Standard builds
+- Rimrock Knight (ELD, no. 137) — Boulder Rush adventure; fellow Embereth-aligned attacker that Fervent Champion pumps when it attacks

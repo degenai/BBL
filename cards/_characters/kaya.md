@@ -9,6 +9,11 @@ canonical_source: "MTG Wiki — Kaya, Ghost Assassin; MTG Wiki — Orzhov Syndic
 confidence: canonical
 appears_on:
   - magic-the-gathering/murders-at-karlov-manor/116-the-chase-is-on
+  - magic-the-gathering/ravnica-allegiance/252-orzhov-guildgate-252
+  - magic-the-gathering/war-of-the-spark/106-spark-reaper
+  - magic-the-gathering/commander-legends-battle-for-baldur-s-gate/878-talisman-of-hierarchy
+  - magic-the-gathering/murders-at-karlov-manor/159-fanatical-strength
+  - magic-the-gathering/murders-at-karlov-manor/312-deadly-complication-showcase
 related_hubs: []
 related_symbols: []
 related_characters: []
@@ -64,6 +69,11 @@ This is what BBL bundle copy can lean on without inventing canon: Kaya is, acros
 <!-- auto-generated from appears_on; do not edit by hand -->
 
 - [[116-the-chase-is-on]]
+- [[252-orzhov-guildgate-252]]
+- [[106-spark-reaper]]
+- [[878-talisman-of-hierarchy]]
+- [[159-fanatical-strength]]
+- [[312-deadly-complication-showcase]]
 
 ## Canonical sources
 

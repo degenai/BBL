@@ -1,0 +1,42 @@
+{
+  "card_name": "Careless Celebrant",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "129",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "THB original print only (no prior printings). As a Satyr Shaman it sits in Theros's red-creature ecology; satyrs are associated with Xenagos and the revel-drunk fringes of Theran society.",
+      "sources": ["Scryfall", "MTG Wiki: Nyx via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Renata was mesmerized by the satyr's dance of gleeful indifference, of reckless grace and bright disaster.\" — Luphea of Setessa, Histories. Luphea is a recurring historian-narrator in THB. Renata of Setessa is identified as Nylea's chosen demigod; the satyr is a witnessed figure, not a named character.",
+      "sources": ["Scryfall", "mtg.wiki: Renata via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Mathias Kollros. Hot crimson-on-black palette consistent with his style across many MTG commissions.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Hipsters of the Coast cube review (March 2020) called it 'a cute little value two drop' ranked top-3 for Peasant/Pauper. Functions as sacrifice fodder with a 2-damage death trigger; sees Pioneer play in Jund/Rakdos sacrifice shells.",
+      "sources": ["Hipsters of the Coast: THB Cube Review Red 2020-03", "Scryfall legalities"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Renata, Called to the Hunt", "set": "THB", "note": "Named demigod who appears in this card's flavor text as a witness"},
+    {"name": "Careless Reveler", "set": "THB", "note": "Thematic pair — another reckless satyr reveler in same set"},
+    {"name": "Satyr's Cunning", "set": "THB", "note": "Same creature type and set; Escape-mechanic satyr pair"},
+    {"name": "Woe Strider", "set": "THB", "note": "Key sacrifice-payoff companion in THB limited sacrifice strategies"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

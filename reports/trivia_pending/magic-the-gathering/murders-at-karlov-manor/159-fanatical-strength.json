@@ -1,0 +1,41 @@
+{
+  "card_name": "Fanatical Strength",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "159",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag; Kaya character identified via flavor text and documented as appears_on candidate for kaya.md node. Parent has already applied characters: [kaya] to frontmatter.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Green common Instant (MKM, no. 159, February 9, 2024). +3/+3 and trample until end of turn — standard green combat trick at common.",
+      "sources": ["Scryfall: mkm/159"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"What is this? An ambush or a staring contest?\" Kaya taunted. As if in answer, the robed figure lunged forward. Kaya Cassir is a Planeswalker/ghost hunter recruited by Ezrim to lead the MKM murder investigation.",
+      "sources": ["Scryfall: flavor_text field, mkm/159", "magic.wizards.com: The Legends and Characters of MKM"]
+    },
+    {
+      "category": "design",
+      "text": "Printing error: the MKM showcase version (collector no. 310) was printed with an in-progress unfinished artwork. Wizards issued an official correction notice; early showcase copies (310† on Scryfall) may carry a collector premium.",
+      "sources": ["magic.wizards.com: Incorrect Version Printed for Fanatical Strength in MKM"]
+    },
+    {
+      "category": "design",
+      "text": "Two flavor texts exist in print: regular no. 159 has the Kaya line; showcase no. 310 has Alquist Proft case-notes text ('Clearly we are on the trail of the true killer.'). Showcase reprints in MKM sometimes use different flavor copy.",
+      "sources": ["Scryfall: mkm/310 via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kaya, Spirits' Justice", "set": "MKM", "note": "Kaya's planeswalker card in MKM; narrative anchor"},
+    {"name": "Ezrim, Agency Chief", "set": "MKM", "note": "archon who enlisted Kaya; organizational context"},
+    {"name": "Fanatical Strength (Showcase)", "set": "MKM", "note": "same card, collector no. 310 / 310†, known printing error"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

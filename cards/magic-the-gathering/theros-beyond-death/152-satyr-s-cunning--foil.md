@@ -53,3 +53,16 @@ A lean, horned satyr with goatlike legs hauls itself upward through a jagged sto
 **Iconography:** horns, underworld-passage
 **Genre cues:** fantasy, mythological, greek-myth
 
+## Trivia
+
+- **Set context** — This is the foil variant of Satyr's Cunning (THB, no. 152). Both variants share UUID `646d8201-be68-42fa-bcfd-42d81a2ad195` and identical oracle text on Scryfall; inventory tracks them separately as Normal and Foil [Scryfall]. The card is a first and only printing as of 2026.
+- **Escape mechanic** — Satyr's Cunning carries the **Escape** keyword, THB's signature graveyard-rebuy mechanic: cast it from your graveyard for {2}{R} by exiling two other cards [Scryfall oracle text]. The art's depiction of a satyr literally climbing out of the underworld is a direct visual expression of the Escape mechanic — one of the tighter flavor-mechanical fusions in the set.
+- **Flavor text** — "It's hard to keep a satyr down, even in the Underworld." [Scryfall]. The line doubles as both flavor and a winking mechanical description: cast it, it goes to the graveyard, you cast it again.
+- **Mechanical reputation** — Hipsters of the Coast cube review noted Satyr's Cunning skeptically: "I've seen some talk about this card being a good recursive one drop for Mono Red, and I'm not sure I agree" — concerns centered on the weak 1/1 non-blocking token output relative to the Escape mana investment [Hipsters of the Coast: THB Cube Review Red, 2020-03]. The common review graded it **F** in limited. Despite that, it sees play in Pioneer Mono-Red Transmogrify builds as cheap sacrifice fodder that comes back from the graveyard [WebSearch: Satyr's Cunning Pioneer, via mtgdecks.net snippet].
+- **Artist** — Illustrated by **Deruchenko Alexander** (also credited on the non-foil copy) [Scryfall].
+
+### Related cards
+- Satyr's Cunning (THB, no. 152) — the non-foil variant (same card, separate inventory node)
+- Careless Celebrant (THB, no. 129) — companion satyr card in the same set
+- Uro, Titan of Nature's Wrath (THB, no. 229) — the defining Escape card in the set; contextualized the mechanic's power ceiling
+

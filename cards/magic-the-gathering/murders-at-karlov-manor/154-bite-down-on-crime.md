@@ -50,3 +50,15 @@ A huge serpent with shimmering blue and teal scales coils its thick body around 
 **Creatures:** serpent, snake, constrictor
 **Genre cues:** fantasy, noir, mystery
 
+## Trivia
+
+- **Set context** — Bite Down on Crime is a green Sorcery (MKM, collector no. 154, common) from Murders at Karlov Manor, released February 9, 2024. The card name is a pun layering serpent-bite imagery over the crime-fighting theme of the set `[Scryfall: mkm/154]`.
+- **Collect Evidence mechanic** — MKM introduced Collect Evidence as a graveyard-cost mechanic: exiling cards totaling a set mana value from your graveyard to reduce a spell's cost. Bite Down on Crime uses Collect Evidence 6 for a {2} cost reduction, potentially bringing a {3}{G} fight spell to {1}{G} — a rate described as among the cheapest fight effects ever printed when evidence is collected `[flipsidegaming.com: A Limited Guide to MKM]`.
+- **Limited role** — Flipside Gaming's limited review notes that "casting Bite Down on Crime for 4 mana isn't ideal, but also not the worst" and cautions players against getting blown out by combat instants; when the evidence discount is active the value proposition improves markedly `[flipsidegaming.com: A Limited Guide to MKM]`.
+- **No flavor text** — Scryfall's record for this card (collector no. 154) carries no flavor text field; the art does the thematic work `[Scryfall: mkm/154, oracle_text only]`.
+
+### Related cards
+- Forensic Researcher (MKM) — taps to Collect Evidence, directly fueling Bite Down on Crime's discount
+- Aftermath Analyst (MKM) — fills the graveyard with evidence fodder, synergizes with the Collect Evidence cost reduction
+- Case of the Trampled Garden (MKM, no. 156) — same set, same color, +1/+1 counter engine that raises power for fight-spell damage output
+

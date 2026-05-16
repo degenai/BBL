@@ -1,0 +1,41 @@
+{
+  "card_name": "Fling",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "126",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Fling is a reprint in ELD (October 2019). Original printing dates to Stronghold (1998); subsequent reprints include Magic 2011 and Amonkhet before ELD.",
+      "sources": ["Scryfall", "mtggoldfish.com printing history"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Giants believe that tossing redcaps at knights is the best way to deal with both.\" — No named speaker. The joke solves two problems with one throw and describes the card's mechanic — sacrifice a creature, deal its power as damage — in narrative terms.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Redcaps in ELD lore are Wilds creatures who conduct sneak attacks and raids, adapting the Anglo-Scottish border folklore creature: a malevolent goblin who soaks its cap in victims' blood and must keep killing to survive.",
+      "sources": ["Planeswalker's Guide to Eldraine, magic.wizards.com", "Wikipedia: Redcap"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Lie Setiawan, whose comedic framing — screaming redcap mid-arc, shredded cloak, distant mountains below — captures the card's dual tone of horror and slapstick.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Raging Redcap", "set": "ELD", "note": "The creature being flung; shares the Redcap creature type and Wilds folklore origin"},
+    {"name": "Brash Taunter", "set": "M21", "note": "Creature that explicitly benefits from Fling effects; popular combo partner in Commander"},
+    {"name": "Goblin Grenade", "set": "various", "note": "Classic red 'sacrifice a goblin, deal damage' parallel; same design lineage"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -52,3 +52,15 @@ A muscular, bare-chested cyclops dominates the frame, his single large eye stari
 **Creatures:** cyclops
 **Genre cues:** fantasy, mythology, greek-myth
 
+## Trivia
+
+- **Set context** — Flummoxed Cyclops is a common creature in THB, first and only printing as of 2026 [Scryfall]. Its type line is simply "Creature — Cyclops," not an enchantment creature, meaning it is a mortal-world Cyclops rather than a Nyxborn; on Theros, cyclopes are wild creatures associated with the wilder reaches of the plane and occasionally pressed into service or encountered as obstacles [MTG Wiki: Theros plane, via WebSearch snippet].
+- **Flavor text** — "A cyclops thinks slowly but strikes quickly. Try to keep it thinking." —Brigone, soldier of Meletis [Scryfall]. **Brigone** is an unnamed-lore figure; **Meletis** is Theros's philosopher-city, the polis associated with blue mana and Ephara, god of the polis — the fact that the quote comes from a Meletian soldier fighting this red-aligned monster underscores the plane's polis-vs-wilderness tension [MTG Wiki: Meletis, via WebSearch snippet].
+- **Mechanical design** — The ability ("whenever two or more creatures attack, this creature can't block this combat") is a literal flavor-mechanical fusion: the cyclops is too dim to handle multiple attackers simultaneously. This design approach — encoding a creature's personality directly into its rules text — is noted in the Hipsters of the Coast common review as a reasonable but situational defensive gap [Hipsters of the Coast: THB Common Review, 2020-01, grade C]. It has Reach (4/4 with Reach for 4 mana), which makes it useful against fliers but vulnerable to wide ground attacks.
+- **Format reach** — Legal in Pauper and Pauper Commander; the 4/4 Reach body has seen fringe use in Pauper red decks as a top-of-curve blocker [Scryfall legalities].
+
+### Related cards
+- Hundred-Handed One (THS, no. 15) — contrasting Greek-myth giant from original Theros; opposite problem (too many hands to be confused)
+- One-Eyed Scarecrow (ISD, no. 231) — mechanical Reach parallel, different flavor
+- Panoptic Projektor (various) — other cyclops cards in the MTG type pool
+

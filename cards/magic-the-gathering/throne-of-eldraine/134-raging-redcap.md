@@ -53,3 +53,14 @@ A wiry grey-skinned goblin-sized humanoid in dark rust-red leather and tattered 
 **Iconography:** blood, twin-blades, red-cap
 **Genre cues:** fantasy, dark-fantasy, fairytale
 
+## Trivia
+
+- **Folklore origin** — Redcaps are a specific creature from Anglo-Scottish border folklore: malevolent goblins inhabiting ruined castles and fortresses that were the sites of tyranny or murder. They are said to soak their caps in the blood of victims — and must kill regularly, because if the blood dries, they die. The tradition dates to medieval border-war territory, roughly the 13th–16th centuries `[Wikipedia: Redcap; Planeswalker's Guide to Eldraine, magic.wizards.com]`.
+- **Set context — Wilds creature** — In Eldraine's lore, redcaps are Wilds creatures: chaotic, violent, "barrel-height" humanoids who conduct sneak attacks and raids. They stand outside the five courts' chivalric system entirely, which the card's creature type (Goblin Knight) complicates playfully — a goblin from the Wilds bearing the Knight subtype, like Ogre Errant `[Planeswalker's Guide to Eldraine, magic.wizards.com; Scryfall]`.
+- **Flavor text** — `"Many tales of redcap terror begin with two simple things: bloodlust and stolen steel."` — No named speaker `[Scryfall]`. "Stolen steel" references the folklore: redcap weapons are always pilfered from their victims.
+- **Mechanical note** — Raging Redcap has double strike on a 1/2 body for 2R — efficiently sized for the double-strike ability in limited, where first-strike and regular combat damage together can trade up. Its black-mana color identity in Commander (it has a black mana symbol in its oracle text? No — it's pure red 2R) `[Scryfall oracle text]`. Correction: the oracle text shows no black mana — color identity is mono-red despite the "stolen steel" and cave darkness of the art.
+
+### Related cards
+- Fling (ELD, no. 126) — Giant throws a redcap at a knight; this card is the creature being thrown
+- Wydwen, the Biting Gale (LRW) — Earlier Lorwyn-block redcap design precedent in MTG's creature-type history
+- Bloodsoaked Champion (KTK, no. 62) — Thematic parallel: creature that must keep fighting (killing) to remain relevant, mirroring redcap folklore's "must kill to survive" rule

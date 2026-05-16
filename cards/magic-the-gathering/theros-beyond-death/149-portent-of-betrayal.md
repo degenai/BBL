@@ -53,3 +53,16 @@ A red-saturated battle scene rendered in the Theros mythic-Greek style. Two musc
 **Iconography:** hoplite-shield, spear
 **Genre cues:** fantasy, mythology, greek-myth, sword-and-sandal
 
+## Trivia
+
+- **Set context / reprint history** — Portent of Betrayal was first printed in original **Theros** (THS, 2013-09-27, no. 133), reprinted in THB (2020-01-24), and again in **Commander Legends** (CMR, 2020-11-20) — three printings across two distinct Theros revisits plus a Commander-focused set [Scryfall]. It is a functional reprint of the "Act of Treason" effect (gain control, untap, haste) plus Scry 1.
+- **Flavor text** — "Mogis can fan a small flame of resentment into an inferno of madness." [Scryfall]. No attributed speaker — the quote reads as received lore-wisdom. **Mogis, God of Slaughter** is Theros's twin god of violence and bloodlust, patron of minotaurs; his domain is fanning mortal conflict and discord, making the "portent of betrayal" framing — a warrior suddenly turning on an ally — theologically on-point [MTG Wiki: Mogis, via WebSearch snippet]. This card has a `characters: [theros-pantheon]` tag from the vision pass.
+- **Mechanical reputation** — Hipsters of the Coast THB common review graded this **F** ("either wins games or sits in sideboard"), citing it as an inherently polarizing effect: devastating in sacrifice-themed decks (steal + sacrifice = maximum value) but mediocre in fair decks [Hipsters of the Coast: THB Common Review, 2020-01]. Legal in Pauper and Pauper Commander [Scryfall legalities].
+- **Artist** — THB printing by **Greg Staples**, a veteran fantasy illustrator whose sharp-contrast battle scenes have featured across MTG since Tempest-era sets [Scryfall].
+
+### Related cards
+- Mogis, God of Slaughter (BNG, no. 151) — the deity named in this card's flavor text
+- Act of Treason (M20, no. 130) — closest functional analog, one mana cheaper, no Scry
+- Portent of Betrayal (THS, no. 133) — original 2013 printing with different art
+- Skophos Warleader (THB, no. 154) — sacrifice outlet that synergizes with stolen creatures
+

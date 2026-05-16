@@ -51,3 +51,15 @@ A stout dwarf with a long flaming-red beard and braided hair strides across a st
 **Creatures:** dwarf
 **Genre cues:** fantasy, fairytale, high-fantasy
 
+## Trivia
+
+- **Set context — Adventure mechanic** — Rimrock Knight is a double-sided Adventure card: the creature is a 3/1 Dwarf Knight (cost 1R) that can't block; its Adventure side, Boulder Rush, is a one-mana instant granting target creature +2/+0 until end of turn. The dwarf hurling a literal boulder doubles as flavor justification for Boulder Rush `[Scryfall]`.
+- **No flavor text** — This printing carries no flavor text on either the creature or adventure face `[Scryfall]`.
+- **Competitive history** — Rimrock Knight was one of ELD's most-played red commons in Standard due to Boulder Rush's efficiency: a one-mana instant that also leaves a 3/1 haste-adjacent body in exile. It was reprinted on The List (PLST), indicating continued demand post-rotation `[Scryfall; The List PLST-ELD-137]`.
+- **Dwarf Knight type line** — Dwarf Knight is a creature-type pairing that signals the non-court mountain-dwellers of Eldraine. Dwarves in ELD are associated with Garenbrig (strength court) and with rugged borderland identity — the boulder-carrying image fits the archetype of a warrior who uses terrain as a weapon rather than forged steel `[Planeswalker's Guide to Eldraine, magic.wizards.com]`.
+- **Artist** — Chris Rallis, known for muscular, physically-committed figure work across multiple MTG sets `[Scryfall]`.
+
+### Related cards
+- Fervent Champion (ELD, no. 124) — Rimrock Knight's Boulder Rush gives +2/+0 until end of turn, combining with Fervent Champion's +1/+0 attack trigger for a substantial pump on another knight
+- Brimstone Trebuchet (ELD, no. 116) — Rimrock Knight's entry untaps the trebuchet; same knight-synergy package
+- Embercleave (ELD, no. 120) — The set's premier red rare; Rimrock Knight's Boulder Rush was commonly used to set up Embercleave's damage threshold

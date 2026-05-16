@@ -1,0 +1,36 @@
+{
+  "card_name": "Brimstone Trebuchet",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "116",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Brimstone Trebuchet is the only Wall in ELD (October 2019), fitting the siege-warfare imagery of Eldraine's five knightly courts without belonging to any single one. Its type line Artifact Creature — Wall is unique in the set.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The untap trigger 'whenever a Knight you control enters' is a synergy bridge making the trebuchet require active knight deployment to be useful — rewarding Embereth-flavored aggressive builds.",
+      "sources": ["Scryfall oracle text"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Yeong-Hao Han. No flavor text on this printing.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fervent Champion", "set": "ELD", "note": "One-mana knight that untaps the trebuchet on entry; same set, same knight-synergy package"},
+    {"name": "Rimrock Knight", "set": "ELD", "note": "Dwarf Knight; another knight triggering the untap; shares the Embereth-adjacent military flavor"},
+    {"name": "Embereth Shieldbreaker", "set": "ELD", "note": "Named Embereth knight sharing court identity with the trebuchet's fortification imagery"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

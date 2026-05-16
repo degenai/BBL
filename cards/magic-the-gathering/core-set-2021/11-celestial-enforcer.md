@@ -52,3 +52,14 @@ A solo human cleric stands in a beam of celestial light, eyes closed in serene d
 **Iconography:** halo, divine-light, raised-hands, prayer-pose
 **Genre cues:** fantasy, high-fantasy, religious-iconography
 
+## Trivia
+
+- **Set context** — Celestial Enforcer is an M21 original — not a reprint. It is a Human Cleric (1WW, 2/3) first printed in Core Set 2021 (July 2020) with no subsequent printings as of May 2026. `[Scryfall]`
+- **Flavor text** — "I look to the heavens for hope, but you will kneel." No attributed speaker. The line splits devotion from enforcement along a directional axis: hope is upward and personal; coercion is directed outward at a second person. The enforcer's faith does not soften the threat. `[Scryfall]`
+- **Mechanical reputation** — The activated tap ability (1W, T: tap target creature) requires you to control a flying creature — a conditional soft-lock that rewards white flying decks with a tap effect on the ground without needing flying itself. EDHREC rank 28,366 is among the lowest in the set; the card sees near-zero Commander play. Its primary home is Pauper, where the flying-creature condition is reliably met in white weenie builds. `[Scryfall]`
+- **Design** — Art by Bastien L. Deharme, a French illustrator who frequently works in religious iconography and gothic spaces for MTG (also illustrated Liesa, Forgotten Archangel and Vilis, Broker of Blood). The composition leans on Baroque devotional painting conventions: backlit figure, halo-like radiance, raised hands, gold-and-ivory palette. `[Scryfall]`
+
+### Related cards
+- Serra's Guardian (Core Set 2021) — fellow M21 white flyer that enables the Enforcer's activation condition
+- Liesa, Forgotten Archangel (Midnight Hunt Commander) — another Bastien L. Deharme piece in the same religious-iconography register
+- Pacifism (various) — parallel white tap-control design in core sets; design-space comparison

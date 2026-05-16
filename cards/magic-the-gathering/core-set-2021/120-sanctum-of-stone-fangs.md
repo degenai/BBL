@@ -52,3 +52,16 @@ A cathedral-scale cave interior dominated by towering stalactites and stalagmite
 **Iconography:** fanged-maw, shrine
 **Genre cues:** fantasy, dark-fantasy
 
+## Trivia
+
+- **Set context** — Sanctum of Stone Fangs is part of the M21 Shrine cycle: five uncommon Legendary Enchantment — Shrine cards (one per color) plus one rare five-color Shrine, Sanctum of All. The cycle revived the Shrine subtype first printed in Champions of Kamigawa (CHK, 2004) as the Honden cycle — the only Shrines in existence until M21 sixteen years later. Sanctum of Stone Fangs is the black entry. `[Scryfall, WebSearch: dotesports.com — Shrines return to Magic: The Gathering in Core Set 2021]`
+- **Mechanical reputation** — The drain effect (each opponent loses X life, you gain X life where X equals Shrines you control) scales in Shrine-tribal Commander decks. EDHREC rank 3,554 is by far the highest of the five uncommon Sanctums, appearing in approximately 39,000 Commander decks and roughly 96% of Shrine-focused Commander lists. It is the most-played of the M21 uncommon Sanctums. `[Scryfall, WebSearch: EDHREC — Sanctum of Stone Fangs]`
+- **Flavor text** — Haiku format, no speaker: "Renounce all limits, / False chains binding potential. / Power knows no bounds." The three-line structure is a deliberate formal haiku — a nod to Kamigawa, the Japanese-mythology-inspired plane where the original Shrine subtype was created. `[Scryfall]`
+- **Design** — Art by Johannes Voss, one of MTG's most prominent illustrators for enchantment-class cards. The composition is entirely landscape — no figures — depicting a stalactite-and-stalagmite cave as a fanged stone maw. The "fangs" of the title are literal geology rendered as predatory architecture. Voss uses a teal-green bioluminescent glow against near-black rock silhouettes as the sole light source. `[Scryfall]`
+- **Design history** — The M21 Shrine cycle was designed by Adam Prosak's team as a callback to the original Honden cycle. Wizards commentary (Making Magic column, June 2020) confirmed the design challenge was making the new cycle feel like a genuine continuation. The haiku flavor-text format across the uncommon Sanctums was part of that continuity gesture. `[WebSearch: magic.wizards.com — But Wait, There's Core (2020-06-15)]`
+
+### Related cards
+- Sanctum of All (Core Set 2021) — five-color rare Shrine; the cycle's payoff card that supercharges all other Shrines
+- Honden of Night's Reach (Champions of Kamigawa) — original black Shrine; the 2004 ancestor this card continues
+- Sanctum of Calm Waters (Core Set 2021) — blue entry in the M21 Shrine cycle; design-family peer
+- Go-Shintai of Life's Origin (Neon Dynasty Commander) — later Shrine commander that gives the M21 Sanctums a dedicated commander home

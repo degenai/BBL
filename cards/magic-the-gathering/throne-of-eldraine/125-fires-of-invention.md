@@ -54,3 +54,15 @@ A large-framed humanoid figure — bald, with a long flowing beard — stands ov
 **Iconography:** forge, hammer, anvil, fire, sparks, smith
 **Genre cues:** fantasy, fairy-tale
 
+## Trivia
+
+- **Set context** — Fires of Invention is a rare red enchantment from Throne of Eldraine (ELD, October 2019). Its smith-at-the-forge art evokes Elderath's Embereth court and the Irencrag — the volcanic boulder at the heart of Embereth's identity — though the card is not explicitly tied to either in its oracle text `[Scryfall; Planeswalker's Guide to Eldraine, magic.wizards.com]`.
+- **Flavor text** — `"Just tell us how many you want and get out of the way."` — No named speaker on the card `[Scryfall]`.
+- **Ban history** — Fires of Invention was banned in Standard and Historic on June 1, 2020, roughly eight months after release. Wizards cited a 55% win rate for Fires decks and "even or favorable matchups against each of the other top ten archetypes" in Standard. The card was determined to be a persistent design constraint because its free-spell engine would strengthen with every new high-cost card printed `[Wizards of the Coast ban announcement, magic.wizards.com/en/news/announcements/june-1-2020-banned-and-restricted-announcement]`.
+- **Current legal status** — Remains banned in Standard and Historic; legal in Pioneer and Modern as of 2026 `[Scryfall legalities]`.
+- **Community resonance** — Hipsters of the Coast covered the ban in June 2020, grouping Fires with the companion-mechanic errata as part of a broader Throne of Eldraine design reckoning `[Hipsters of the Coast: "Agent of Treachery, Fires of Invention Banned in Standard and Historic, Companion Mechanic Errata'd"]`.
+
+### Related cards
+- Agent of Treachery (M20, no. 43) — Banned alongside Fires of Invention in Standard; its free cast via Fires was the dominant abuse vector
+- Lukka, Coppercoat Outcast (IKO, no. 138) — Companion card whose mechanic was simultaneously errata'd when Fires was banned
+- Irencrag Feat (ELD, no. 128 adjacent) — Thematic sibling card; both cards reference Irencrag as a source of fire-based magical power

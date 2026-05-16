@@ -52,3 +52,14 @@ A hulking ogre clad in heavy, dented plate armor stands in a wooded clearing, bo
 **Creatures:** ogre
 **Genre cues:** fantasy, fairy-tale, arthurian
 
+## Trivia
+
+- **Set context** — Ogre Errant is a common Ogre Knight from Throne of Eldraine (ELD, October 2019). Its creature type — Ogre Knight — is unusual: in Eldraine's world-building, ogres are Wilds creatures, not court members, yet this one bears the Knight type. The flavor text's punch line explains the contradiction without naming him an actual court knight `[Scryfall]`.
+- **Flavor text** — `"Knights kept returning from Ogre's Pass wearing nothing but bruises, so they decided to just pretend it was on their side."` — No named speaker `[Scryfall]`. The joke reframes military failure as diplomatic pragmatism: Ogre's Pass was unconquerable, so the courts retroactively designated the ogre an ally.
+- **Mechanical design** — Ogre Errant's triggered ability grants menace to another attacking Knight until end of turn, making it a combat-trick lord for knight-tribal lists. At 3/4 for four mana as a common, it is understatted for competitive play but functions as a limited role-player, especially in formats where the knight synergy package is dense `[Scryfall oracle text]`.
+- **Artist** — Mitchell Malloy, whose painting renders the ogre in a brooding, weary portrait register — not a raging brute but a tired wanderer. The "errant" in the name echoes Arthurian knight-errant tradition: a roving warrior without fixed allegiance or lord `[Scryfall]`.
+
+### Related cards
+- Ogre Siegebreaker (various) — Earlier Ogre Knight precedent in the type line
+- Fervent Champion (ELD, no. 124) — Knight that Ogre Errant's ability can grant menace to; same set
+- Brimstone Trebuchet (ELD, no. 116) — Shares the unattached-military-unit flavor within ELD's red commons

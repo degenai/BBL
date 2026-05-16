@@ -1,0 +1,41 @@
+{
+  "card_name": "Bite Down on Crime",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "154",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Green Sorcery common (MKM, no. 154, February 9, 2024). Card name is a serpent-bite pun layered over crime-fighting theme.",
+      "sources": ["Scryfall: mkm/154"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Collect Evidence 6 reduces cost by {2}, potentially making a {3}{G} fight spell cost {1}{G} — among the cheapest fight effects when evidence is active.",
+      "sources": ["flipsidegaming.com: A Limited Guide to MKM"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Flipside Gaming Limited review: 'casting Bite Down on Crime for 4 mana isn't ideal, but also not the worst'; cautions against combat-instant blow-out timing. Rated as an important Limited player when evidence-discounted.",
+      "sources": ["flipsidegaming.com: A Limited Guide to MKM"]
+    },
+    {
+      "category": "design",
+      "text": "No flavor text on this card; art carries the full thematic load (serpent coiling at a crime scene).",
+      "sources": ["Scryfall: mkm/154 oracle_text only"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Forensic Researcher", "set": "MKM", "note": "taps to Collect Evidence; fuels Bite Down discount"},
+    {"name": "Aftermath Analyst", "set": "MKM", "note": "fills graveyard with evidence fodder for Collect Evidence"},
+    {"name": "Case of the Trampled Garden", "set": "MKM", "note": "same color/set; raises creature power for fight-spell damage output"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

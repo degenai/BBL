@@ -54,3 +54,16 @@ A bare-chested satyr with curling ram-like horns dances or leaps with both arms 
 **Iconography:** horns, raised-arms, dance-pose
 **Genre cues:** fantasy, mythological, greek-myth
 
+## Trivia
+
+- **Set context** — Careless Celebrant is a THB original print (no prior printings) released 2020-01-24 [Scryfall]. As a Satyr Shaman it sits in Theros's red-creature ecology: satyrs are associated with Xenagos (the satyr planeswalker who briefly ascended to godhood) and the wilder, revel-drunk fringes of Theran society [MTG Wiki: Nyx, via WebSearch snippet].
+- **Flavor text** — "Renata was mesmerized by the satyr's dance of gleeful indifference, of reckless grace and bright disaster." —Luphea of Setessa, *Histories* [Scryfall]. The quote attributes authorship to **Luphea of Setessa**, a recurring historian-voice in THB flavor text. The subject, **Renata of Setessa**, is identified by mtg.wiki as a legendary human hunter and Nylea's chosen demigod — the satyr is simply a figure Renata witnessed, not a named character [mtg.wiki: Renata, via WebSearch snippet].
+- **Artist** — Art by **Mathias Kollros**, who has illustrated over 40 cards across MTG history including Theros-block work; the hot crimson-on-black palette is consistent with his style [Scryfall].
+- **Mechanical reputation** — As an uncommon it doesn't appear in the Hipsters of the Coast common review but did get noted in their cube review as "a cute little value two drop" ranked top-3 for Peasant/Pauper environments [Hipsters of the Coast: THB Cube Review Red, 2020-03]. Mechanically it functions as a sacrifice payoff: 2 power for 2 mana that pings for 2 on death; sees Pioneer play as sacrifice fodder in Jund and Rakdos shells [Scryfall legalities].
+
+### Related cards
+- Renata, Called to the Hunt (THB, no. 174) — the named demigod who appears in this card's flavor text as a witness
+- Careless Reveler (THB, no. 128) — thematic pair: another reckless satyr reveler in the same set
+- Satyr's Cunning (THB, no. 152) — same creature type, same set, escape-graveyard satyr pair
+- Woe Strider (THB, no. 123) — key sacrifice-payoff companion in THB limited sacrifice strategies
+

@@ -53,3 +53,16 @@ A bull-headed minotaur warrior surges forward through a battlefield engulfed in 
 **Iconography:** horns, flame, classical-columns
 **Genre cues:** fantasy, mythic-greek, sword-and-sandal
 
+## Trivia
+
+- **Set context** — Skophos Warleader is a common Minotaur Warrior in THB, first and only printing released 2020-01-24 [Scryfall]. **Skophos** is the minotaur polis of Theros — a city-state located in the far northern canyons of Phoberos, the region most devoted to Mogis, God of Slaughter; the city's center is the largest temple to Mogis on the plane [MTG Wiki: Skophos, Mogis, via WebSearch snippet].
+- **Flavor text** — "The minotaur polis of Skophos boasts grand temples to the god of slaughter." [Scryfall]. Direct corroboration: the flavor text names the setting on the card, making this one of the more transparent lore-anchor commons in THB — the figure depicted is a warleader of that polis, not a generic minotaur.
+- **Mogis connection** — The card's ability ({R}, sacrifice another creature or enchantment: this creature gains +1/+0 and menace) mechanically mirrors Mogis's doctrine of slaughter-as-tribute: Skophos minotaurs offer lives to their god and grow stronger for it; the sacrifice clause activates worship [Scryfall oracle text; MTG Wiki: Mogis via WebSearch snippet].
+- **Mechanical reputation** — Hipsters of the Coast common review graded this **D**: "mediocre ability that can randomly win the game in very specific scenarios" — the 5-mana body (4/5) is solid but the sacrifice ability requires board resources and mana to be threatening [Hipsters of the Coast: THB Common Review, 2020-01]. Legal in Pauper [Scryfall legalities].
+
+### Related cards
+- Mogis, God of Slaughter (BNG, no. 151) — the patron deity of Skophos whose temples appear in this card's background
+- Portent of Betrayal (THB, no. 149) — companion Mogis-flavored card in the same set; steal + sacrifice combo
+- Minotaur Sureshot (HOU, no. 92) — earlier Minotaur Warrior in the creature type pool
+- Infuriate (THB, no. 141) — same set, the Mogis-touched minotaur that appears in that card's flavor text
+

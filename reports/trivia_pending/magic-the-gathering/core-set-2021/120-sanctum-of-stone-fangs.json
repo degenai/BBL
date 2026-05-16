@@ -1,0 +1,47 @@
+{
+  "card_name": "Sanctum of Stone Fangs",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "120",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Sanctum of Stone Fangs is part of the M21 Shrine cycle — five uncommon Legendary Enchantment — Shrine cards (one per color) plus one rare five-color Shrine (Sanctum of All). The cycle revived the Shrine subtype first printed in Champions of Kamigawa (2004) as the Honden cycle. Sanctum of Stone Fangs is the black entry. [Scryfall, WebSearch: dotesports.com — Shrines return to Magic in Core Set 2021]",
+      "sources": ["Scryfall", "WebSearch: dotesports.com"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The drain effect (each opponent loses X life, you gain X life where X = Shrines you control) scales exponentially in shrine-tribal Commander decks. EDHREC rank 3,554 is by far the highest in this batch — it appears in approximately 39,000 Commander decks and is present in roughly 96% of Shrine-focused Commander lists, making it the most-played of the five uncommon Sanctums. [Scryfall, WebSearch: EDHREC Sanctum of Stone Fangs]",
+      "sources": ["Scryfall", "WebSearch: EDHREC"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (haiku format, no speaker): \"Renounce all limits, / False chains binding potential. / Power knows no bounds.\" The three-line structure is a deliberate haiku — a formal nod to Kamigawa, the Japanese-mythology-inspired plane where Shrines originated. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Johannes Voss, one of MTG's most prominent illustrators for enchantment-class cards. The composition is entirely landscape — no figures — depicting a stalactite-and-stalagmite cave as a fanged stone maw. The \"fangs\" of the title are literal geology rendered as predatory architecture. Voss uses a teal-green bioluminescent glow as the sole light source against near-black silhouetted rock formations. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The M21 Shrine cycle was designed by Adam Prosak's team as a callback to the original Honden cycle, which were the only Shrines in existence from 2004 until M21 in 2020. Wizards designer commentary confirmed the design challenge was making the new cycle feel like a true continuation rather than a reskin. [WebSearch: magic.wizards.com — But Wait, There's Core (2020-06-15)]",
+      "sources": ["WebSearch: magic.wizards.com Making Magic column"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sanctum of All", "set": "Core Set 2021", "note": "five-color rare Shrine that supercharges all other Shrines — the cycle's payoff"},
+    {"name": "Sanctum of Calm Waters", "set": "Core Set 2021", "note": "blue entry in the M21 Shrine cycle"},
+    {"name": "Honden of Night's Reach", "set": "Champions of Kamigawa", "note": "original black Shrine — the 2004 ancestor this card descends from"},
+    {"name": "Go-Shintai of Life's Origin", "set": "Neon Dynasty Commander", "note": "later Shrine commander that gives the M21 Sanctums a dedicated commander home"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -51,3 +51,14 @@ A massive timber trebuchet dominates the foreground, its long throwing arm arcin
 **Iconography:** fire, siege
 **Genre cues:** fantasy, medieval, siege-warfare
 
+## Trivia
+
+- **Set context** — Brimstone Trebuchet is a creature-artifact from Throne of Eldraine (ELD, October 2019), the "fairytale Arthurian" top-down design set. Its type line — Artifact Creature — Wall — makes it the only Wall in the set, a role that fits the siege-warfare imagery of Eldraine's five knightly courts without belonging to any single one of them `[Scryfall]`.
+- **Mechanical design** — The untap trigger "whenever a Knight you control enters" is a clean synergy bridge: Brimstone Trebuchet is a siege engine operated by knights, so mechanically it requires knights to be useful. In a limited environment packed with Knight tribal payoffs (Fervent Champion, Rimrock Knight, Embereth Shieldbreaker), the trebuchet served as a defensive anchor that rewards aggressive knight-heavy builds `[Scryfall oracle text]`.
+- **Flavor text** — No flavor text on this printing `[Scryfall]`.
+- **Artist** — Illustrated by Yeong-Hao Han, a frequent Wizards contributor across multiple sets `[Scryfall]`.
+
+### Related cards
+- Fervent Champion (ELD, no. 124) — Knight that untaps the trebuchet on entry; same set, same knight-synergy package
+- Rimrock Knight (ELD, no. 137) — Dwarf Knight, another knight that triggers the untap; shares the Embereth-adjacent military flavor
+- Embereth Shieldbreaker (ELD, no. 121) — Named Embereth knight, shares court identity with the trebuchet's fortification imagery

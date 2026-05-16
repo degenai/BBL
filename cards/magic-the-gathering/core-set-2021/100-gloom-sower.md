@@ -52,3 +52,14 @@ A colossal shadowy horror dominates the frame, its body composed of churning bla
 **Iconography:** looming-silhouette, storm-clouds
 **Genre cues:** fantasy, horror, dark-fantasy, gothic
 
+## Trivia
+
+- **Set context** — Gloom Sower is a Horror creature type, printed at common in Core Set 2021 (M21), released July 3, 2020. It is an M21 original with no reprints as of May 2026. `[Scryfall]`
+- **Flavor text** — "First, the darkness fell. Terror came next. After that, only despair remained." — *The Tragedy of Morein*. The cited source is a fictional in-world text, not a named character — the Horror is framed as a historical event narrated after the fact. `[Scryfall]`
+- **Mechanical reputation** — At 7 mana for a 6/7 Horror with a drain-on-block trigger (opponent loses 2, you gain 2), Gloom Sower is a high-cost drain engine. EDHREC rank 20,200 reflects very low Commander adoption; its most relevant competitive home is Pauper Commander, where it is legal. `[Scryfall]`
+- **Design** — Art by Chris Cold, who frequently illustrates large dark creatures for MTG. The piece renders the Horror as a void of churning smoke rather than a solid body — a chiaroscuro approach consistent with Cold's other Horror commissions in the same era, where absence of form amplifies scale. `[Scryfall]`
+
+### Related cards
+- Nightmare (various) — longstanding Horror archetype in black core-set design; oldest peer creature type
+- Dread Presence (Core Set 2020) — large mono-black common threat from the adjacent core set; similar design mandate
+- Gloom Pangolin (War of the Spark) — Horror-adjacent large black creature in the same design era

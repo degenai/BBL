@@ -55,3 +55,15 @@ A top-down perspective looks down at grey stone tile pavement where a luminous g
 **Iconography:** chalk-outline, crime-scene, detective, murder
 **Genre cues:** fantasy, noir
 
+## Trivia
+
+- **Set context** — Chalk Outline is a white-blue Enchantment (MKM, no. 157, uncommon) from Murders at Karlov Manor (February 9, 2024). It triggers whenever creature cards leave the graveyard, producing a 2/2 white-blue Detective token that also Investigates — an elegantly self-reinforcing loop: dead creatures become investigators who find Clues `[Scryfall: mkm/157 oracle_text]`.
+- **Flavor text and Ezrim** — "In your search for a suspect, never forget that the most important person is the victim." — Ezrim, Agency chief. Ezrim is a guildless Archon and the head of the Ravnican Agency of Magicological Investigations — a former Azorius senator who found the Senate's bureaucracy intolerable and broke away to found a truth-seeking organization that charges minimal fees and serves anyone who needs help `[magic.wizards.com: The Legends and Characters of Murders at Karlov Manor]`. This flavor line appears on Chalk Outline itself, establishing Ezrim's investigative philosophy as victim-centered.
+- **Mechanical synergy engine** — The Clue token from Investigate can itself be sacrificed ({2}: draw a card), meaning the card creates both board presence (the Detective token) and card advantage. In Commander, this creates recurring value off any creature-wipe or self-sacrifice strategy `[Scryfall: mkm/157]`.
+- **Ezrim character card** — Ezrim appears as a legendary creature in MKM at collector number 202 (Ezrim, Agency Chief), making the Chalk Outline flavor quote a piece of in-universe dialogue from a named card in the same set `[magic.wizards.com: The Legends and Characters of MKM]`.
+
+### Related cards
+- Ezrim, Agency Chief (MKM, no. 202) — source of the flavor quote; legendary Archon leading the Agency
+- Alquist Proft, Master Sleuth (MKM) — lead detective in the set's narrative; shares investigator-faction identity
+- Evidence Examiner (MKM) — investigate engine; feeds the Clue token ecosystem Chalk Outline creates
+

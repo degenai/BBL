@@ -1,0 +1,41 @@
+{
+  "card_name": "Ogre Errant",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "132",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ogre Errant has the creature type Ogre Knight — unusual in Eldraine where ogres are Wilds creatures, not court members. The flavor text's punchline explains the contradiction without granting genuine knighthood: the courts retroactively designated an unconquerable ogre as an ally.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Knights kept returning from Ogre's Pass wearing nothing but bruises, so they decided to just pretend it was on their side.\" — No named speaker. Military failure reframed as diplomatic pragmatism.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Triggered ability grants menace to another attacking Knight until end of turn. Understatted at 3/4 for four mana at common for competitive play, but functions as a limited role-player in knight-dense formats.",
+      "sources": ["Scryfall oracle text"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Mitchell Malloy in a brooding portrait register — a weary wanderer, not a raging brute. 'Errant' echoes Arthurian knight-errant tradition: a roving warrior without fixed allegiance or lord.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fervent Champion", "set": "ELD", "note": "Knight that Ogre Errant's ability can grant menace to; same set"},
+    {"name": "Brimstone Trebuchet", "set": "ELD", "note": "Shares the unattached-military-unit flavor within ELD's red commons"},
+    {"name": "Embereth Shieldbreaker", "set": "ELD", "note": "Named Embereth knight; the courts the Ogre has been adopted into"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

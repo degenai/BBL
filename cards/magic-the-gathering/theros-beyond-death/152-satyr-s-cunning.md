@@ -52,3 +52,16 @@ A muscular satyr with curling horns and goat-like lower legs is caught mid-motio
 **Iconography:** horns, cloven-hooves
 **Genre cues:** fantasy, mythological
 
+## Trivia
+
+- **Set context** — Satyr's Cunning is a common red Sorcery in THB, first and only printing released 2020-01-24; this is the non-foil variant [Scryfall]. The card carries the **Escape** keyword — THB's central graveyard-rebuy mechanic — making it one of the cheapest Escape cards in the set at a base cost of {R} and an escape cost of {2}{R} plus exiling two graveyard cards [Scryfall oracle text].
+- **Flavor text** — "It's hard to keep a satyr down, even in the Underworld." [Scryfall]. The flavor line is both lore-accurate (satyrs in Theran canon are associated with persistence and trickery) and a mechanical wink — the card literally cannot stay in the graveyard if you have the mana.
+- **Mechanical reputation** — Hipsters of the Coast common review graded this **F** in limited; cube review expressed skepticism about its Mono Red recursive viability, ranking it no. 3 for Peasant/Pauper environments only [Hipsters of the Coast: THB Common Review + Cube Review Red, 2020-01/2020-03]. In Pioneer it appears in Transmogrify and Boros Creativity builds as a cheap, recurring source of sacrifice targets [WebSearch: Satyr's Cunning Pioneer, via mtgdecks.net snippet]. Also sees Pauper Commander play in Satyr Enchanter shells [Scryfall legalities; deckstats.net snippet].
+- **Token note** — The card generates a 1/1 red Satyr token with "This token can't block" — the non-blocking clause is a recurring flavor element for satyrs on Theros, implying they are too reckless to stand their ground [Scryfall].
+
+### Related cards
+- Satyr's Cunning (THB, no. 152, Foil) — the foil variant (separate inventory node)
+- Careless Celebrant (THB, no. 129) — companion satyr in the same set
+- Uro, Titan of Nature's Wrath (THB, no. 229) — the breakout Escape card that defined the mechanic's competitive ceiling
+- Ox of Agonas (THB, no. 147) — another graveyard-enabling Escape creature
+

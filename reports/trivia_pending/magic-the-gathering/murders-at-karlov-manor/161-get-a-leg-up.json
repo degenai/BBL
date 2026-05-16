@@ -1,0 +1,41 @@
+{
+  "card_name": "Get a Leg Up",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "161",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Green Instant uncommon (MKM, no. 161, February 9, 2024), illustrated by Jesper Ejsing. Card name literalizes the idiom 'to gain an advantage' — a centaur's leg serves as a step for a smaller companion.",
+      "sources": ["Scryfall: mkm/161"]
+    },
+    {
+      "category": "mechanical",
+      "text": "+1/+1 per creature you control plus reach until EOT; scales with board presence (5 creatures = +5/+5 plus reach). Particularly potent in token-flood strategies.",
+      "sources": ["Scryfall: mkm/161 oracle_text"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Apologies for using you like a stepladder. On the other hand, thank you, you're a wonderful stepladder!\" Speaker is unnamed; scene context (elf-eared figure reaching the shelf) suggests she is the speaker addressing the centaur.",
+      "sources": ["Scryfall: flavor_text field, mkm/161"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Jesper Ejsing is a Danish fantasy illustrator who has contributed MTG artwork since Lorwyn; maintains an active blog on Muddy Colors discussing creative process. Credited with at least two cards in MKM.",
+      "sources": ["artofmtg.com: Jesper Ejsing artist page", "planeswalkersmtg.com: MKM artist credits"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Case of the Trampled Garden", "set": "MKM", "note": "+1/+1 counter engine benefiting from power growth this instant enables"},
+    {"name": "Bite Down on Crime", "set": "MKM", "note": "fight spell in same green Limited archetype; combat-trick cluster"},
+    {"name": "Glint Weaver", "set": "MKM", "note": "same color/set; enter-trigger distributes counters; synergistic green engine"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

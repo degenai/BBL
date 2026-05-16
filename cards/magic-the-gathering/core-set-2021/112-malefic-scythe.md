@@ -51,3 +51,14 @@ A long, ominous scythe dominates the frame, its blade a dark serrated crescent a
 **Iconography:** scythe, candle, shrine, altar
 **Genre cues:** fantasy, gothic, dark-fantasy
 
+## Trivia
+
+- **Set context** — Malefic Scythe is an M21 original — first and only printing as of May 2026. It is an uncommon black Artifact — Equipment released July 3, 2020. No flavor text was printed on the card. `[Scryfall]`
+- **Mechanical design** — The soul counter mechanic is self-scaling: the Scythe enters with one counter, the equipped creature gets +1/+1 per counter, and a counter is added whenever the equipped creature dies. Equip cost is 1 mana. This death-profit loop rewards sacrifice-themed black decks where creature death is expected — the weapon grows through attrition. EDHREC rank 18,060 indicates light Commander adoption, primarily in sacrifice strategies. `[Scryfall]`
+- **Counter-type note** — Soul counters as a named counter type appear on a small number of MTG cards. Because the buff is calculated from counters on the Equipment rather than +1/+1 counters on the creature itself, counter-doubling effects (Doubling Season, Vorinclex, Monstrous Raider) do not apply to the combat bonus — a mechanical distinction relevant in counter-heavy Commander builds. `[Scryfall]`
+- **Design** — Art by Joe Slucher. No figure appears; the scythe is mounted in a recessed stone alcove lit by four candle sconces, framed as a venerated altar piece. For an Equipment card — a subtype that almost universally depicts the weapon in use or held — a still-life reliquary composition is an unusual art-direction choice. `[Scryfall]`
+
+### Related cards
+- Skullclamp (Darksteel) — canonical death-profit Equipment; the power-level benchmark for the sacrifice-synergy axis
+- Cranial Plating (Mirrodin) — peer scaling Equipment with a different resource engine — design-space comparison
+- Lashwrithe (New Phyrexia) — black Equipment that scales on a resource count; thematic and mechanical peer

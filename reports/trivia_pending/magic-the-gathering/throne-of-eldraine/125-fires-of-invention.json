@@ -1,0 +1,46 @@
+{
+  "card_name": "Fires of Invention",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "125",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Fires of Invention is a rare red enchantment from ELD (October 2019). Its smith-at-the-forge art evokes Embereth's Irencrag — the volcanic boulder central to Embereth's knighting ritual — though the card is not explicitly tied to the Irencrag in oracle text.",
+      "sources": ["Scryfall", "Planeswalker's Guide to Eldraine, magic.wizards.com"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Just tell us how many you want and get out of the way.\" — No named speaker on the card.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Banned in Standard and Historic on June 1, 2020 (~8 months post-release). Wizards cited a 55% win rate and favorable matchups against all top-ten archetypes. Determined to be a persistent design constraint: the free-spell engine would strengthen with every new high-cost card printed.",
+      "sources": ["Wizards of the Coast ban announcement, magic.wizards.com/en/news/announcements/june-1-2020-banned-and-restricted-announcement"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Remains banned in Standard and Historic as of 2026; legal in Pioneer and Modern.",
+      "sources": ["Scryfall legalities"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Hipsters of the Coast covered the ban in June 2020, grouping it with the companion-mechanic errata as part of a broader Throne of Eldraine design reckoning.",
+      "sources": ["Hipsters of the Coast: 'Agent of Treachery, Fires of Invention Banned in Standard and Historic, Companion Mechanic Errata'd'"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Agent of Treachery", "set": "M20", "note": "Banned simultaneously; its free cast via Fires was the dominant abuse vector"},
+    {"name": "Lukka, Coppercoat Outcast", "set": "IKO", "note": "Companion whose mechanic was errata'd at the same June 2020 announcement"},
+    {"name": "Irencrag Feat", "set": "ELD", "note": "Thematic sibling; both cards reference Irencrag as a source of explosive red magic"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

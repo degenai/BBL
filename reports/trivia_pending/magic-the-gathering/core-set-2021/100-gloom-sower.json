@@ -1,0 +1,41 @@
+{
+  "card_name": "Gloom Sower",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "100",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Gloom Sower is a Horror creature type, printed at common in Core Set 2021 (M21), released July 3, 2020. It is M21's only unique Horror common in black, and has not been reprinted as of May 2026. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"First, the darkness fell. Terror came next. After that, only despair remained.\" — The Tragedy of Morein. The source named is a fictional in-world text, not an identified character. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At 7 mana for a 6/7 that drains 2 life whenever blocked, Gloom Sower is a heavy-costed drain engine rarely seen outside Pauper Commander lists. Its EDHREC rank of 20,200 reflects low adoption in regular Commander. Pauper Commander legality is its most relevant competitive home. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Chris Cold, who frequently illustrates large dark creatures for Magic. The piece uses an almost entirely monochromatic palette with chiaroscuro to render the Horror as a void rather than a solid body — a design choice consistent with Cold's other Horror commissions in the same era. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Gloom Pangolin", "set": "War of the Spark", "note": "shares Horror-adjacent large black creature design space"},
+    {"name": "Dread Presence", "set": "Core Set 2020", "note": "fellow large mono-black common threat from adjacent core set"},
+    {"name": "Nightmare", "set": "various", "note": "longstanding Horror archetype in black core-set design"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

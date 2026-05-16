@@ -1,0 +1,42 @@
+{
+  "card_name": "Infuriate",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "141",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Four printings: Core Set 2020 (first print, 2019-07-12), Theros Beyond Death (2020-01-24), Strixhaven Mystical Archive English (2021-04-23, art by Benjamin Ee) and Japanese alternate art (2021-04-23, art by Yangyang & Xiaji), Foundations Jumpstart (2024-11-15).",
+      "sources": ["Scryfall: all prints via oracle_id search", "Scryfall: sta/41", "Scryfall: sta/104/ja"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Renata launched a dozen arrows into the minotaur's thick hide, but the monster didn't slow its charge. The fury of Mogis was upon it.\" — Luphea of Setessa, Histories. Second Luphea quote in this batch (also on Careless Celebrant), establishing Luphea's Histories as a deliberate flavor-cycle source text in THB. Mogis is the twin of Iroas and patron deity of minotaurs.",
+      "sources": ["Scryfall", "MTG Wiki: Mogis via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Hipsters of the Coast common review grade D: 'Red's strictly worse version of Giant Growth.' Consistent Pauper/PauperCommander application as a 1-mana pump. Legal in Pauper.",
+      "sources": ["Hipsters of the Coast: THB Common Review 2020-01", "Scryfall legalities"]
+    },
+    {
+      "category": "design",
+      "text": "THB printing illustrated by Tomasz Jedruszek. The Strixhaven Mystical Archive Japanese alternate art (Yangyang & Xiaji) gave the card a prestige collector profile above its commons-tier gameplay reputation.",
+      "sources": ["Scryfall: thb/141", "Scryfall: sta/104/ja"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mogis, God of Slaughter", "set": "BNG", "note": "Named god whose divine fury is described in this card's flavor text"},
+    {"name": "Infuriate", "set": "STA", "note": "English Mystical Archive alternate art (Benjamin Ee, no. 41)"},
+    {"name": "Infuriate", "set": "STA/ja", "note": "Japanese alternate art (Yangyang & Xiaji, no. 104)"},
+    {"name": "Skophos Warleader", "set": "THB", "note": "Fellow Mogis-worshipping minotaur in same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

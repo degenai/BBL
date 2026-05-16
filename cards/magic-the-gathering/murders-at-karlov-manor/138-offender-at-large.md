@@ -23,6 +23,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/f/0/f096ff4a-85f
 art_match_confidence: high
 needs_manual_review: false
 artist: Mike Bierek
+characters: ["foundway-associates"]
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/138-offender-at-large--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/0/f096ff4a-85f4-46f1-9478-e8921f21309d.jpg?1706241900
 flavor_text: \"In a city this big, anyone can blend in.\"\n—Imel of the Foundway Associates

@@ -1,0 +1,41 @@
+{
+  "card_name": "Glint Weaver",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "162",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Green Spider uncommon (MKM, no. 162, February 9, 2024), illustrated by Tuan Duong Chu. {5}{G}{G} 3/3 Reach with enter-trigger: distribute three +1/+1 counters across up to three creatures, then gain life equal to greatest toughness you control.",
+      "sources": ["Scryfall: mkm/162 oracle_text"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The spider just loved how the gems twinkled, and the high-class prey they attracted.\" Spider uses jewels as lures — a predator decorating its web to attract desirable victims; transposed onto Ravnica's upscale-crime milieu.",
+      "sources": ["Scryfall: flavor_text field, mkm/162"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Life-gain calculation: trigger reads 'greatest toughness among creatures you control' — counter distribution order matters since placing counters before reading toughness can raise the ceiling. Noted in MKM Release Notes.",
+      "sources": ["magic.wizards.com: MKM Release Notes"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Spider type is unusual for Ravnica; art places it in vine-covered ruins rather than wilderness, reinforcing Ravnica's urban ecology and MKM's integration of horror fauna into a city-crime setting.",
+      "sources": ["Scryfall: mkm/162 type_line", "magic.wizards.com: Planeswalker's Guide to MKM"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Culvert Ambusher", "set": "MKM", "note": "same color/set; creature-Horror dungeon-predator framing"},
+    {"name": "Get a Leg Up", "set": "MKM", "note": "same color/set; green counter engine that pairs with Glint Weaver's ETB distribution"},
+    {"name": "Webweaver Changeling", "set": "Various", "note": "Spider type historical cluster; reach + web predator archetype"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

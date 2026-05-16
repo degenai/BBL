@@ -51,3 +51,14 @@ A figure cloaked in deep shadow stands in profile, the lower half of their face 
 **Iconography:** mask, blade
 **Genre cues:** fantasy, dark-fantasy
 
+## Trivia
+
+- **Set context** — Masked Blackguard is an M21 original — first and only printing as of May 2026. It is a common Human Rogue (1B, 2/1) with Flash, released July 3, 2020. `[Scryfall]`
+- **Flavor text** — "Her footsteps are whispers, her passage a last breath." No attributed speaker. The gendered pronoun is consistent with the figure's presentation. The line renders the Rogue's presence as the negative space of sound — she is defined by silence and the pause before death rather than any act. `[Scryfall]`
+- **Mechanical reputation** — Flash on a 2/1 Human Rogue with a 2B pump activation makes Masked Blackguard a surprise blocker, combat trick, and Rogue-tribal enabler. In M21 Limited, Flash creatures at 2 mana provided tempo advantages in black-based control builds. EDHREC rank 26,643 indicates near-zero Commander adoption — this is a Limited-focused design. `[Scryfall]`
+- **Design** — Art by Bryan Sola. The composition is lit almost entirely by cool blue rim light, dissolving the figure into the surrounding dark; the mask and shadow function as equivalent concealment. The architectural background is pure silhouette — vague urban shapes with no distinguishing features — keeping the rogue unpinned from any specific location. `[Scryfall]`
+
+### Related cards
+- Thieves' Guild Enforcer (Core Set 2021) — fellow M21 Human Rogue with Flash; shares the Rogue-Flash design space in the same set
+- Nighthawk Scavenger (Core Set 2021) — another M21 black Rogue-adjacent creature
+- Faerie Impostor (Return to Ravnica) — early design precedent for a Flash creature at 2 mana in black

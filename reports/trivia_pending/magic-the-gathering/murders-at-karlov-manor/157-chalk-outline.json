@@ -1,0 +1,41 @@
+{
+  "card_name": "Chalk Outline",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "157",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "White-blue Enchantment uncommon (MKM, no. 157, February 9, 2024). Triggers when creature cards leave graveyard: creates 2/2 Detective token then Investigates (produces Clue artifact).",
+      "sources": ["Scryfall: mkm/157 oracle_text"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"In your search for a suspect, never forget that the most important person is the victim.\" — Ezrim, Agency chief. Ezrim is a guildless Archon and head of the Ravnican Agency of Magicological Investigations; former Azorius senator who broke away to found a minimal-fee truth-seeking organization.",
+      "sources": ["Scryfall: flavor_text field, mkm/157", "magic.wizards.com: The Legends and Characters of MKM"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Self-reinforcing loop: dead creatures become Detective investigators who create Clue tokens ({2}, sacrifice: draw a card). Particularly potent with board wipes or self-sacrifice engines in Commander.",
+      "sources": ["Scryfall: mkm/157"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Ezrim appears as a legendary creature at MKM no. 202 (Ezrim, Agency Chief), making this flavor quote a piece of in-universe dialogue from a named card in the same set.",
+      "sources": ["magic.wizards.com: The Legends and Characters of MKM"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ezrim, Agency Chief", "set": "MKM", "note": "source of the flavor quote; legendary Archon leading the Agency"},
+    {"name": "Alquist Proft, Master Sleuth", "set": "MKM", "note": "lead detective in the narrative; investigator-faction identity"},
+    {"name": "Evidence Examiner", "set": "MKM", "note": "investigate engine; feeds the Clue token ecosystem Chalk Outline creates"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

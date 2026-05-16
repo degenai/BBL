@@ -1,0 +1,41 @@
+{
+  "card_name": "Grasp of Darkness",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "102",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Grasp of Darkness originated in Scars of Mirrodin (SOM, 2010) — a Phyrexian-corruption set where darkness was a literal contagion remaking the plane. The M21 printing is its fourth, following Oath of the Gatewatch (OGW, 2016) and Game Night 2019 (GN2). [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"I welcome the use of even the foulest magic if it will rid us of the monstrosities that plague our world.\" — Munda, ambush leader. Munda is a Kor warrior from Zendikar who served as a squad leader under Gideon Jura during the Battle for Zendikar and later the Oath of the Gatewatch events; he is represented by the legendary card Munda, Ambush Leader (BFZ). [Scryfall, WebSearch: Munda — mtg.wiki]",
+      "sources": ["Scryfall", "WebSearch: Munda — mtg.wiki"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Grasp of Darkness is a Pauper-legal instant (BB, -4/-4) that has remained a consistent removal option across multiple formats since 2010. Its EDHREC rank of 10,726 reflects steady Commander inclusion as budget mono-black removal. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The M21 printing features new art by Daarken, replacing Johann Bodin's original Scars of Mirrodin art, which carried the flavor line \"On a world with five suns, night is compelled to become an aggressive force.\" The Munda flavor text is new to the M21 printing, recontextualizing the spell from Phyrexian horror to a Zendikari soldier's pragmatic willingness to use dark power. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Munda, Ambush Leader", "set": "Battle for Zendikar", "note": "flavor-text speaker; legendary Kor warrior card"},
+    {"name": "Doom Blade", "set": "various", "note": "peer black removal instant; similar design-space in core sets"},
+    {"name": "Murder", "set": "various", "note": "3-mana unconditional removal that often sits alongside Grasp in core sets"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Case of the Trampled Garden",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "156",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Green Enchantment — Case uncommon (MKM, no. 156, February 9, 2024). Case enchantment type debuts in MKM; three-stage structure (enter / to-solve / Solved) progresses via gameplay actions rather than mana payments — distinct from Classes (Adventures in the Forgotten Realms).",
+      "sources": ["magic.wizards.com: Murders at Karlov Manor Mechanics", "coolstuffinc.com: MKM Mechanic Spotlight: Cases"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Solve condition: creatures you control have total power 8 or greater. Solved payoff: put a +1/+1 counter on an attacking creature and grant it trample each combat — converts board development into sustained pressure.",
+      "sources": ["Scryfall: mkm/156 oracle_text"]
+    },
+    {
+      "category": "design",
+      "text": "No human figures in art — the crime scene IS the card (violated garden, broken tree stump, fallen white creature). Unusual for a green pump/counter enchantment; MKM's top-down design forces genre tropes into color-pie slots.",
+      "sources": ["magic.wizards.com: MKM Mechanics top-down design", "Scryfall: mkm/156 type_line"]
+    },
+    {
+      "category": "design",
+      "text": "No flavor text on record for this card.",
+      "sources": ["Scryfall: mkm/156"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Case of the Filched Falcon", "set": "MKM", "note": "blue Case; same mechanic debut; thematic cluster"},
+    {"name": "Bite Down on Crime", "set": "MKM", "note": "same color; fight spell benefiting from power growth the Case generates"},
+    {"name": "Get a Leg Up", "set": "MKM", "note": "green instant scaling with creature count; complementary pump in Limited"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

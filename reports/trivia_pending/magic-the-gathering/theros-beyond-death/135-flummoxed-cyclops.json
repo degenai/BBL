@@ -1,0 +1,40 @@
+{
+  "card_name": "Flummoxed Cyclops",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "135",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Common, THB original print only. Type line is Creature — Cyclops (not enchantment creature), placing it as a mortal-world creature, not Nyxborn. Cyclopes on Theros are wild wilderness inhabitants, not polis citizens.",
+      "sources": ["Scryfall", "MTG Wiki: Theros plane via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"A cyclops thinks slowly but strikes quickly. Try to keep it thinking.\" — Brigone, soldier of Meletis. Brigone is an unnamed-lore figure. Meletis is Theros's philosopher-polis associated with blue mana and Ephara, god of the polis — the red monster/blue city tension is embedded in the attribution.",
+      "sources": ["Scryfall", "MTG Wiki: Meletis via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "The ability (can't block when two or more creatures attack) is a direct flavor-mechanical fusion: the cyclops cannot handle processing multiple threats simultaneously. Art by Mark Behm. Hipsters of the Coast common review grade C.",
+      "sources": ["Scryfall", "Hipsters of the Coast: THB Common Review 2020-01"]
+    },
+    {
+      "category": "mechanical",
+      "text": "4/4 Reach for 4 mana is above-rate for a common, but the blocking gap against wide attacks is a real exploit. Legal in Pauper and Pauper Commander.",
+      "sources": ["Scryfall legalities"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hundred-Handed One", "set": "THS", "note": "Contrasting Greek-myth giant from original Theros; opposite blocking problem"},
+    {"name": "Nyxborn Brute", "set": "THB", "note": "Companion cyclops common in same set — Nyxborn variant, contrasting flavor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

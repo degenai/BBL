@@ -53,3 +53,15 @@ A muscular horned beast — silhouetted in deep orange against a brighter yellow
 **Iconography:** pyre, immolation, sacrifice
 **Genre cues:** fantasy, mythological
 
+## Trivia
+
+- **Set context** — Final Flare is a common instant in THB, released 2020-01-24; it is a first (and as of 2026 only) printing [Scryfall]. Its oracle text requires sacrificing a creature or enchantment as an additional cost — a mechanic that pairs natively with THB's enchantment-creature (Nyxborn) subtype and with constellation triggers [Scryfall].
+- **Flavor text** — "Those who fought without honor in life are taken to Agonas and doomed to fight forever in its arenas." [Scryfall]. **Agonas** is the Underworld arena of eternal combat in Theros's afterlife, reserved for those who died without honor; it appears elsewhere in THB as the setting for Underworld arena cards, and the set mechanic Escape represents souls fleeing that prison [MTG Wiki: Theros plane, via WebSearch snippet].
+- **Mechanical reputation** — Hipsters of the Coast common review graded this **D**: "increasing your sacrifice fodder by ~25% isn't a huge boon for the 50% increase in cost" versus cheaper removal; the sacrifice-as-cost clause made it conditional and situational in limited [Hipsters of the Coast: THB Common Review, 2020-01]. It is legal in Pauper and Pauper Commander, which expands its reach in slower sacrifice-based shells [Scryfall legalities].
+- **Art note** — Art by **Kev Walker**, a veteran MTG illustrator with credits spanning Revised-era through modern sets; the symmetrical fireball-pyre composition is a deliberate visual echo of sacrifice, not battle — the creature does not fight an enemy but is consumed whole [Scryfall].
+
+### Related cards
+- Agonizing Remorse (THB, no. 83) — references the same Underworld location Agonas in flavor and lore context
+- Blood for the Blood God (various) — thematic sacrifice-for-damage archetype parallel
+- Priest of Forgotten Gods (RNA, no. 83) — competitive sacrifice-payoff that pairs with this in eternal formats
+

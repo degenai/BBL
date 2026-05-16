@@ -1,0 +1,41 @@
+{
+  "card_name": "Hero of the Games",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "137",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Common Human Soldier, THB original print only. Name and flavor text tie directly to the Iroan Games — Theros's annual athletic competition held at Akros, governed by Iroas god of victory; the Games award a visit from Iroas himself rather than a material prize.",
+      "sources": ["Scryfall", "MTG Wiki: Iroas via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Winners of the Iroan Games are forever remembered as heroes of their people.\" No attributed speaker — framed as received cultural fact, not testimony.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Hipsters of the Coast common review grade F: '3/2s for three need more than minor upside to get there.' The pump-on-spell-target ability requires build-around and doesn't offset below-curve stats in aggro. Legal in Pauper and Pauper Commander.",
+      "sources": ["Hipsters of the Coast: THB Common Review 2020-01", "Scryfall legalities"]
+    },
+    {
+      "category": "set-lore",
+      "text": "THB includes the saga The First Iroan Games (no. 170), depicting the founding of these very games — Hero of the Games and that saga are a flavor-cycle pair across rarity.",
+      "sources": ["Scryfall: The First Iroan Games THB 170"]
+    }
+  ],
+  "related_cards": [
+    {"name": "The First Iroan Games", "set": "THB", "note": "The saga depicting the games this hero competes in"},
+    {"name": "Iroas, God of Victory", "set": "JOU", "note": "The god who presides over the Iroan Games"},
+    {"name": "Favored Hoplite", "set": "THS", "note": "Heroic-mechanic parallel from original Theros"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

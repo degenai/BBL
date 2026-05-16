@@ -50,3 +50,15 @@ A solitary figure in a blue, high-collared tunic stands amid thick green foliage
 **Objects:** leaves, vines, tunic
 **Genre cues:** fantasy, noir, mystery
 
+## Trivia
+
+- **Set context** — Airtight Alibi is a green Flash Aura from Murders at Karlov Manor (MKM, February 9, 2024), a murder-mystery set on Ravnica where every mechanic maps to an investigative trope: this card's name directly invokes the legal concept of establishing a witness cannot have committed a crime `[Scryfall: mkm/149]`.
+- **Suspect mechanic interaction** — MKM introduced Suspect as a keyword that grants menace but prevents blocking; Airtight Alibi is one of the cleanest Suspect counters in the set — on Flash, it can remove Suspect status from a threatened creature mid-combat AND permanently lock that creature out of ever being suspected again `[coolstuffinc.com: Mechanics of MKM — Suspect article]`.
+- **Design philosophy** — The disguise, cloak, and suspect mechanics in MKM were developed top-down from the murder-mystery genre: the design team identified key words from the genre first, then built mechanics to embody them. "Alibi" is a direct narrative-to-mechanic translation `[magic.wizards.com: Murders at Karlov Manor Mechanics]`.
+- **Format role** — The card carries a {2}{G} cost with a +2/+2 stat buff, Flash timing, and hexproof protection until end of turn, making it a relevant tempo play in Limited; its common rarity ensures wide availability in draft `[Scryfall: mkm/149 via WebSearch snippet]`.
+
+### Related cards
+- Chalk Outline (MKM, no. 157) — same set; mechanically links Investigate with graveyard recursion; shares crime-scene thematic framing
+- Culvert Ambusher (MKM, no. 158) — also carries the `suspect` symbol node in the BBL graph; Suspect-keyword cluster anchor
+- Evidence Examiner (MKM) — investigate engine that fuels the Collect Evidence mechanic which pairs with Suspect-countering lines
+

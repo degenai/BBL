@@ -52,3 +52,14 @@ A muscular bare-chested figure crouches in a wide low fighting stance, viewed fr
 **Iconography:** demonic-sigils, scars, brand-marks
 **Genre cues:** fantasy, dark-fantasy, horror
 
+## Trivia
+
+- **Reprint history** — Infernal Scarring first appeared in Magic Origins (ORI, July 2015), was reprinted in Core Set 2019 (M19, 2018), appeared on The List (PLST, 2019), and returned in M21 (2020). Four total printings, all at common rarity. `[Scryfall]`
+- **Flavor text** — "One who is marked by a demon in life is sure to be remembered as one in death." No attributed speaker. The line frames demonic marking as a posthumous identity transformation — you are not changed, but you are *remembered* as a demon, which is its own kind of permanent possession. `[Scryfall]`
+- **Mechanical reputation** — The Aura grants +2/+0 and a draw-on-death trigger, making it card-neutral when the enchanted creature dies — unusual for a common-rarity Aura, where card disadvantage on removal is the genre norm. EDHREC rank 19,859 puts it in low-adoption Commander territory; its strongest home is Pauper and budget black aggro. `[Scryfall]`
+- **Design** — Art by Mike Bierek. The figure faces entirely away, making the scarred back the complete subject — the bearer's identity is stripped and only the demonic mark reads. The void setting isolates the branding ritual from any environmental context, keeping the focus on the mark itself rather than the place or the act. `[Scryfall]`
+
+### Related cards
+- Demonic Pact (Magic Origins) — fellow Origins demon-bargain black enchantment from the same set
+- Mark of the Vampire (various) — parallel common Aura in black with a lifelink rider — design-space comparison
+- Unholy Indenture (Innistrad: Crimson Vow) — modern descendant with the same draw-on-death Aura pattern

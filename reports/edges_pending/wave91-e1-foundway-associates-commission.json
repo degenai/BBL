@@ -1,0 +1,37 @@
+{
+  "edge_id": "wave91-e1-foundway-associates-commission",
+  "shape": "node-proposal",
+  "category": "character-faction-node",
+  "verdict": "COMMISSION — Foundway Associates clears the ≥3 character-faction-node threshold comfortably with 6 named flavor-text-speaker anchors across MKM. The wave 91E1 brief's roster of 4 (Udol, Imel, Runubi, Algrom) was incomplete; corpus grep surfaced 2 additional named Associates (Alst on MKM-178 They Went This Way, Linghu on MKM-59 Furtive Courier). Thare from the wave brief was NOT confirmed in corpus (no flavor-text attribution found in MKM card files). Mr. Nodeley wrote the node with all 6 confirmed members.",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/foundway-associates.md", "name": "Foundway Associates", "status": "newly-created"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/59-furtive-courier.md", "name": "Furtive Courier", "speaker": "Linghu"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/129-gearbane-orangutan.md", "name": "Gearbane Orangutan", "speaker": "Udol"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/138-offender-at-large.md", "name": "Offender at Large", "speaker": "Imel"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/145-suspicious-detonation.md", "name": "Suspicious Detonation", "speaker": "Runubi"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/146-torch-the-witness-a.md", "name": "Torch the Witness (a)", "speaker": "Algrom"},
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/178-they-went-this-way.md", "name": "They Went This Way", "speaker": "Alst"}
+  ],
+  "description": "Oh dear, I'm so sorry — Edgelord wanted a clean edge but the candidate set canonically anchors on a missing faction-node. Six named Foundway Associates members surface across the MKM flavor-text layer: Linghu (MKM-59), Udol (MKM-129), Imel (MKM-138), Runubi (MKM-145), Algrom (MKM-146), and Alst (MKM-178). The wave brief mentioned Thare as a fifth member but I couldn't confirm Thare in corpus — please forgive the discrepancy. The threshold is cleared comfortably either way. The Foundway Associates are canonically a parallel-and-distinct investigator ensemble to R.A.M.I. (the Agency proper), and Wizards has NOT specified their institutional framing in published canon — I was very careful to keep that ambiguity intact in the node body per the anti-confab discipline.",
+  "citations": [
+    "[Scryfall card-data: MKM-59 Furtive Courier flavor_text — Linghu of the Foundway Associates]",
+    "[Scryfall card-data: MKM-129 Gearbane Orangutan flavor_text — Udol of the Foundway Associates]",
+    "[Scryfall card-data: MKM-138 Offender at Large flavor_text — Imel of the Foundway Associates]",
+    "[Scryfall card-data: MKM-145 Suspicious Detonation flavor_text — Runubi of the Foundway Associates]",
+    "[Scryfall card-data: MKM-146 Torch the Witness flavor_text — Algrom of the Foundway Associates]",
+    "[Scryfall card-data: MKM-178 They Went This Way flavor_text — Alst of the Foundway Associates]",
+    "[Wizards of the Coast Murders at Karlov Manor 2024 storyline pages — R.A.M.I. canonized as Agency proper]"
+  ],
+  "files_modified": [
+    "cards/_characters/foundway-associates.md (created)",
+    "cards/magic-the-gathering/murders-at-karlov-manor/59-furtive-courier.md (characters: [agency, foundway-associates])",
+    "cards/magic-the-gathering/murders-at-karlov-manor/129-gearbane-orangutan.md (characters: [foundway-associates])",
+    "cards/magic-the-gathering/murders-at-karlov-manor/138-offender-at-large.md (characters: [foundway-associates])",
+    "cards/magic-the-gathering/murders-at-karlov-manor/145-suspicious-detonation.md (characters: [foundway-associates])",
+    "cards/magic-the-gathering/murders-at-karlov-manor/146-torch-the-witness-a.md (characters: [foundway-associates])",
+    "cards/magic-the-gathering/murders-at-karlov-manor/178-they-went-this-way.md (characters: [foundway-associates])"
+  ],
+  "topology": "stack",
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": "Thare (named in wave brief as fifth Foundway member) was NOT confirmed in corpus grep of cards/magic-the-gathering/murders-at-karlov-manor/. May exist in a card not yet in inventory, or wave brief may have misnamed Alst as Thare. Flagged for future-wave verification. The full MKM card set may also have additional Foundway flavor-attributions beyond the six in current inventory; the node is sized to grow as MKM enrichment continues."
+}

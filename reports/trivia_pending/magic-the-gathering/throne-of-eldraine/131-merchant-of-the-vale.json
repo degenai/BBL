@@ -1,0 +1,41 @@
+{
+  "card_name": "Merchant of the Vale",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "131",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Merchant of the Vale is a double-faced Adventure card. The adventure half, Haggle, is a one-mana instant that lets you optionally discard a card to draw a card. Adventure was new to ELD, letting players cast the instant/sorcery half first, exile it, then cast the creature from exile.",
+      "sources": ["Scryfall", "Wizards rules Q&A"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Buying old, worn-out junk. Selling marvels of real value.\" — No named speaker; the line characterizes the fairytale-peddler archetype whose wares are worth more than they appear.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Haggle is a one-mana loot effect at instant speed — unusually efficient for red. Merchant of the Vale became a draft staple and saw fringe competitive play as a discard outlet that leaves a 2/3 body waiting in exile.",
+      "sources": ["Scryfall; community draft analysis"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Creature type Human Peasant places the merchant outside all five courts — a commoner operating in the interstitial spaces of Eldraine. 'The Vale' is a common ELD locale signifying settled rural territory away from the courts.",
+      "sources": ["Planeswalker's Guide to Eldraine, magic.wizards.com"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Lucky Clover", "set": "ELD", "note": "Artifact that copies Adventure spells; Merchant's Haggle becomes two loot effects through it"},
+    {"name": "Bonecrusher Giant", "set": "ELD", "note": "Adventure rare used as a loot/draw-comparison benchmark in ELD draft"},
+    {"name": "Brazen Borrower", "set": "ELD", "note": "Blue Adventure rare; high end of the same mechanic cycle"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

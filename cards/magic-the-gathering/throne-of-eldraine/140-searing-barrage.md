@@ -51,3 +51,14 @@ A red-and-orange leviathan-like creature surges up from a body of dark water, it
 **Creatures:** serpent, leviathan, sea-monster, dragon
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context — Named locations** — The flavor text names two distinct Eldraine locations: Lochmere, the mist-shrouded lake surrounding Castle Vantress (Vantress being the blue knowledge court), and Irencrag, the volcanic boulder at the heart of Embereth (the red courage court). The creature surfaces from one and meets the fire of the other — two courts' identities collide in one burn spell `[Scryfall; Planeswalker's Guide to Eldraine, magic.wizards.com]`.
+- **Flavor text** — `"It emerged from the coldest depths of Lochmere only to face the fires of Irencrag."` — No named speaker `[Scryfall]`. The sentence is structured as a tragic irony: survival of the deep cold only to be destroyed by heat.
+- **Mechanical design — Adamant** — Searing Barrage carries the Adamant keyword, new to Throne of Eldraine: if at least three red mana was spent on it, it deals an additional 3 damage to the creature's controller beyond the baseline 5 to the creature. This rewards mono-red or heavy-red mana bases. Adamant was the ELD keyword cycle for the five courts, associating red with fire-magic damage scaling `[Scryfall oracle text]`.
+- **Artist** — Allen Williams, known for detailed creature and horror-adjacent fantasy illustration `[Scryfall]`.
+
+### Related cards
+- Lochmere Serpent (ELD, no. 60) — Blue-black Serpent from the same Lochmere lake named in the flavor text; likely depicts the same type of creature
+- Irencrag Pyromancer (ELD, no. 128) — Named Irencrag wizard; companion card to the "fires of Irencrag" reference in this card's flavor
+- Irencrag Feat (ELD, no. 127) — Sorcery producing massive red mana from the Irencrag; shares the lore anchor
