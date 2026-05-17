@@ -22,7 +22,8 @@ appears_on:
   - pokemon/burning-shadows/18-147-charmander
   - pokemon/crimson-invasion/35-111-emolga
   - pokemon/unified-minds/18-236-steenee
-  - pokemon/vivid-voltage/023-185-charmanderrelated_hubs: []
+  - pokemon/vivid-voltage/023-185-charmander
+related_hubs: []
 notes: |
   One of the longest-tenured illustrators in the entire Pokemon TCG franchise.
   Has been creating Pokemon TCG art since the Jungle set (1996 Japanese / 1999
@@ -104,7 +105,7 @@ Himeno's portfolio in current corpus does not anchor a labor-hub thesis the way 
 - [[18-147-charmander]]
 - [[35-111-emolga]]
 - [[18-236-steenee]]
-- [[023-185-charmanderrelated_hubs: []]]
+- [[023-185-charmander]]
 ## See also
 
 - [[sanosuke-sakuma]] — sibling Pokemon-side artist node; structural precedent for this node. Sakuma's portfolio extends across TCG illustration AND in-game NPC character design (cross-medium); Himeno's does not. Both clear the corpus-volume threshold for an artist node (Sakuma at 5 credits, Himeno at 6+). The cross-medium thesis-bridge is absent here; the franchise-tenure case is the load-bearing distinction Himeno's node adds.

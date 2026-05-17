@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/pokemon/sword-shield-base-set/133-202-pawniard.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-15
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://images.pokemontcg.io/xy0/19_hires.png
 art_match_confidence: low
 needs_manual_review: true

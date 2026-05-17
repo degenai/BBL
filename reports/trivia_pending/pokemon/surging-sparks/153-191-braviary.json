@@ -1,0 +1,47 @@
+{
+  "card_name": "Braviary",
+  "game": "Pokemon",
+  "set": "Surging Sparks",
+  "collector_number": "153/191",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Self-referential IP flag. The card name is 'Braviary', the set is an official Pokemon TCG set (SV8: Surging Sparks), and the vision pass describes exactly Braviary's canonical appearance — large raptor with blue and red plumage, broad wings, diving posture. No ambiguity. ip_verified: true, ip_confidence confirmed high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Braviary is a Normal/Flying Pokemon (National Pokedex no. 628) introduced in Generation V (Black and White, 2010 JP / 2011 EN), evolving from Rufflet at level 54. The species was designed by Takao Unno and is based on the bald eagle — the national bird of the United States — reflecting Unova's real-world inspiration as the New York metropolitan area. The red/white/blue color scheme explicitly maps to the US flag. [Bulbapedia: Braviary, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Braviary, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Braviary and its pre-evolution Rufflet are male-only Pokemon; their counterpart line (Vullaby/Mandibuzz) is female-only. This gender-exclusive pairing is unique in Unova's regional design and parallels the bald eagle/turkey vulture dynamic in American wildlife. [Bulbapedia: Braviary, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Braviary, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Surging Sparks (SV8: Scarlet and Violet series, released November 8, 2024) is a 445-card master set combining Japan's Paradise Dragona and Supercharged Breaker sets. The set is themed around Tera Pikachu ex and a 'parade of dragon Pokemon.' Braviary appears at no. 153/191 as a Stage 1 Uncommon, illustrated by Anesaki Dynamic. [PokeBeach: Surging Sparks set announcement; TCGPlayer listing]",
+      "sources": ["PokeBeach: Surging Sparks set announcement", "TCGPlayer: sv8-153"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Braviary's Drag Off attack (2 Colorless) forces an opponent's Benched Pokemon into the Active Spot before dealing 40 damage — a disruption mechanic with a long TCG pedigree stretching back to Dark Machoke from the Team Rocket expansion. The SV8 printing has not appeared in competitive decklists on Limitless TCG, indicating limited meta presence. [Limitless TCG: SSP/153; Pokegym Rulings Compendium: Drag Off]",
+      "sources": ["Limitless TCG", "Pokegym Rulings Compendium: Drag Off"]
+    },
+    {
+      "category": "set-lore",
+      "text": "A Hisuian regional form of Braviary was introduced in Pokemon Legends: Arceus (2022), changing the type to Psychic/Flying and redesigning the silhouette with a large white facial disc resembling a hawk-owl. It received its own TCG card in Astral Radiance (Sword and Shield series). This makes Braviary one of a smaller number of regional-form Pokemon represented across multiple generations of TCG printings. [Bulbapedia: Braviary, via WebSearch snippet; Pokemon TCG Card Database]",
+      "sources": ["Bulbapedia: Braviary, via WebSearch snippet", "Pokemon TCG Card Database"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rufflet", "set": "Surging Sparks or earlier sets", "note": "Pre-evolution; Rufflet just dispatched for vision pass in wave 104"},
+    {"name": "Braviary (IR 214/191)", "set": "Surging Sparks", "note": "Illustration Rare alternate-art printing of the same card, illustrated by Gapao"},
+    {"name": "Hisuian Braviary", "set": "Astral Radiance (no. 132)", "note": "Regional form, Psychic/Flying type, different design"},
+    {"name": "Mandibuzz", "set": "various", "note": "Female-only counterpart evolution line to Braviary/Rufflet"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Braviary",
+    "ip_confidence": "high"
+  }
+}

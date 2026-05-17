@@ -29,9 +29,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/125-dreadhorde-arcanist.png
 average_cost_paid: 0
 market_price: 0.59
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/f/d/fd97b3cf-924e-4f77-bb82-0bf19592389f.png?1613386994
 art_match_confidence: high
 needs_manual_review: false

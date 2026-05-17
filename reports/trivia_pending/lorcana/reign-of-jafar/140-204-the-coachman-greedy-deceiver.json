@@ -1,0 +1,41 @@
+{
+  "card_name": "The Coachman - Greedy Deceiver",
+  "game": "Lorcana",
+  "set": "Reign of Jafar",
+  "collector_number": "140/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The card name explicitly states 'The Coachman' and the subtitle 'Greedy Deceiver' directly matches the character's defining trait. Visual markers (red coat with brass buttons, blue peaked hat, whip, portly build, children in background, Pleasure Island setting) align precisely with the canonical Disney character from Pinocchio (1940). Card is officially licensed Disney Lorcana product — IP is internal Disney. This is a verified Disney internal IP, not a third-party external IP risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Coachman is the third and final antagonist introduced in Disney's 1940 animated feature Pinocchio. In the film he lures 'stupid little boys' to Pleasure Island under the pretense of freedom from school and responsibility; they are then transformed into donkeys and sold into slavery and labor. He is voiced by Charles Judels with a Cockney accent. [Wikipedia: Pinocchio (1940 film), via WebSearch snippet]",
+      "sources": ["Wikipedia: Pinocchio (1940 film), via WebSearch snippet", "Disney Wiki: The Coachman, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Reign of Jafar is the eighth Disney Lorcana set, released 2025. The set is themed around Jafar's rise to power and emphasizes villain characters across all six ink colors. The Coachman appears in Ruby ink — the aggressive, challenge-focused ink — with the ability WILD RIDE: while two or more of your characters are exerted, this character gains +2 Strength and Evasive. Stats: 2 cost, 2 Strength, 2 Willpower, 1 Lore. Illustrated by Filipe Laurentino, a Brazilian digital illustrator based in Curitiba who has contributed multiple cards to Lorcana including Mickey Mouse: Leader of the Band. [Scryfall / lorcana.gg: The Coachman — Greedy Deceiver, via WebSearch snippet; Mushu Report Lorcana Wiki, via WebSearch snippet]",
+      "sources": ["lorcana.gg: 008-140 The Coachman — Greedy Deceiver, via WebSearch snippet", "Mushu Report Lorcana Wiki, via WebSearch snippet", "Filipe Laurentino artist profile, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Coachman is regarded by Disney villain analysts as among the most sinister figures in the Disney animated canon — uniquely, he is never defeated or punished onscreen in the 1940 film. His scheme (luring children to Pleasure Island, transforming them, selling them) is the only Disney villain plot in the classic era that succeeds completely without narrative consequence to the villain. [Disney Wiki: The Coachman, via WebSearch snippet; Villains Wiki: Coachman (Disney), via WebSearch snippet]",
+      "sources": ["Disney Wiki: The Coachman, via WebSearch snippet", "Villains Wiki: Coachman (Disney), via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The WILD RIDE ability rewards piloting an exerted board — the same resource posture that Ruby/Steel aggro decks in Reign of Jafar already operate in, making The Coachman a synergistic payoff for exert-heavy lines. The Evasive keyword means only other Evasive characters can challenge him, providing both offensive upside and a modest defensive shield when your team is committed to questing. [lorcana.gg, via WebSearch snippet; GameTyrant: Reign of Jafar spotlight, via WebSearch snippet]",
+      "sources": ["lorcana.gg: 008-140, via WebSearch snippet", "GameTyrant: Reign of Jafar spotlight, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Honest John - Unscrupulous Schemer", "set": "Various Lorcana", "note": "Fellow Pinocchio antagonist who recruits Pinocchio for the Coachman's scheme; likely in Lorcana"},
+    {"name": "Pinocchio - Real Boy at Last", "set": "Various Lorcana", "note": "The Coachman's primary intended victim in the film; thematic counterpart"},
+    {"name": "Jafar - Sorcerer's Apprentice", "set": "Reign of Jafar", "note": "The set's namesake villain and flagship card; Ruby ink anchor alongside The Coachman"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

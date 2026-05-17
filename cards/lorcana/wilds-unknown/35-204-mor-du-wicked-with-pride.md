@@ -33,10 +33,10 @@ tags_filter:
   - storyborn
 reference_image: cards/_images/lorcana/wilds-unknown/35-204-mor-du-wicked-with-pride.jpg
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-16
+market_price: 0.05
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set12/35_b3373aac72abf418b5ed14ad03769e820f372857.jpg
 art_match_confidence: high
 needs_manual_review: false

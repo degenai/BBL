@@ -30,9 +30,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-039-oath-s-power-tapion.png
 average_cost_paid: 0
 market_price: 0.01
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-12
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401029286/FD2D05CD39B5FC4F3488B84B7FE6EA11ABD72AA2/
 image_width: 624
 image_height: 871

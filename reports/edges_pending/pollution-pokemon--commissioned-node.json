@@ -1,0 +1,68 @@
+{
+  "edge_id": "pollution-pokemon--commissioned-node",
+  "wave": 103,
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "cross-generational-designer-coordinated-cohort",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/pollution-pokemon.md", "name": "Pollution Pokemon (Game Freak three-line urban-pollution design cohort)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/117-192-trubbish.md", "name": "Trubbish (Rebel Clash 117/192)"},
+    {"type": "card", "path": "cards/pokemon/vivid-voltage/110-185-trubbish.md", "name": "Trubbish (Vivid Voltage 110/185)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/118-192-garbodor.md", "name": "Garbodor (Rebel Clash 118/192)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/101-189-muk.md", "name": "Muk (Darkness Ablaze 101/189)"},
+    {"type": "card", "path": "cards/pokemon/chilling-reign/095-198-weezing.md", "name": "Weezing (Chilling Reign 095/198)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/112-192-koffing.md", "name": "Koffing (Rebel Clash 112/192)"}
+  ],
+  "description": "Edgelord here. Stepped aside. Mr. Nodeley apologizes for the inconvenience. The 1:1 Trubbish-Alolan-Grimer predator-prey edge was on the table and sourced, but it's the wrong shape — that's a per-pair ecological-interaction detail that lives in card-body prose under the existing Alolan Grimer Connections section already. The structural move was the cohort node. Six anchors across four species (three lines: Grimer/Muk + Koffing/Weezing + Trubbish/Garbodor) with a designer-stated canonical citation in Garbodor RBC-118 trivia (Sugimori/Unno Nintendo Dream interview articulating the three-substrate framework: liquid sludge / airborne gas / solid waste, all pure Poison-type, all single-evolution, cross-generational deliberate parallel). Citation tier is secondary-aggregator (lavacutcontent.com + remptongames.com surfacing the Nintendo Dream content); flagged in caveats. Potion Rule passes — this is Game Freak's stated design framework, not BBL squinting. Cross-link to alolan-regional-forms via related_characters covers the Alolan Grimer-Trubbish predation overlap as ecological-interaction detail rather than cohort-predicate axis.",
+  "citations": [
+    "[Garbodor RBC-118 Trivia: Sugimori/Unno Nintendo Dream interview design-cohort statement via lavacutcontent.com 'Gen 5 Historia' + remptongames.com 'Evolution of Pokemon Design Gen 5']",
+    "[Bulbapedia: Grimer / Muk / Koffing / Weezing / Trubbish / Garbodor per-species design-source sections]",
+    "[PokemonTCG.io per-card flavor_text fields canonicalizing per-species pollution-coding: swsh2-117/118/112, swsh3-101, swsh4-110, swsh6-095]",
+    "[Alolan Grimer CSE-130 Trivia: Trubbish-predation cross-cohort ecological-interaction citation via Bulbapedia]"
+  ],
+  "files_modified": [
+    "cards/_characters/pollution-pokemon.md (created)",
+    "cards/pokemon/rebel-clash/117-192-trubbish.md (frontmatter: +characters, +tags)",
+    "cards/pokemon/vivid-voltage/110-185-trubbish.md (frontmatter: +characters)",
+    "cards/pokemon/rebel-clash/118-192-garbodor.md (frontmatter: +characters)",
+    "cards/pokemon/darkness-ablaze/101-189-muk.md (frontmatter: +characters)",
+    "cards/pokemon/chilling-reign/095-198-weezing.md (frontmatter: +characters)",
+    "cards/pokemon/rebel-clash/112-192-koffing.md (frontmatter: +characters, +tags)"
+  ],
+  "schema_compliance": {
+    "bbl_schema_normalize_file_run": true,
+    "block_lists_changed": 0,
+    "scalars_quoted_changed": 0,
+    "tags_reordered_changed": 0,
+    "all_seven_files_already_compliant": true
+  },
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "next_pass_suggestions": [
+    {
+      "candidate": "Trubbish ↔ Alolan Grimer 1:1 predator-prey edge",
+      "rationale": "Available now that the cohort exists; the predation is canonical (Alolan Grimer CSE-130 trivia already cites it), but the connection currently lives only in Alolan Grimer's body. A mirror-edge that explicitly states the predator-prey relationship in BOTH Trubbish prints' Connections sections (mirroring the existing Alolan Grimer CSE-130 statement) would be a clean 1:1 Edgelord-default pass.",
+      "shape": "1:1 mirrored across Trubbish RBC + VIV ↔ Alolan Grimer CSE-130; the Alolan Grimer side already has the statement so this is effectively writing the Trubbish-side mirror"
+    },
+    {
+      "candidate": "Kantonian Grimer trivia-pass + cohort attachment",
+      "rationale": "Grimer DAA-100 and BRS-084 are vision-passed but trivia-pending. On trivia-pass they attach to pollution-pokemon (and likely also reinforce the existing Grimer/Alolan Grimer regional-variant pairing). Cohort projected to land at 8 prints across 5 species on Grimer completion.",
+      "shape": "future trivia-pass + frontmatter attachment, no Edgelord pass needed if triviabot writes characters: [pollution-pokemon] at trivia-pass time"
+    },
+    {
+      "candidate": "Trevenant kodama (tree-spirit yokai) for possible yokai-Pokemon cohort",
+      "rationale": "Surfaced wave 103 alongside Nuzleaf-tengu. Currently ≤2 anchors per kodama-spirit framing; below 3-species threshold. Watch for next yokai-coded Pokemon trivia-pass to clear the threshold.",
+      "shape": "below threshold; future watch"
+    },
+    {
+      "candidate": "Arcanine 'supposed to be Legendary' flavor anchor",
+      "rationale": "Flavor-anchor curiosity rather than structural cohort. Insufficient for a node and no clear 1:1 edge target without a sibling 'unrealized-Legendary' anchor.",
+      "shape": "flavor-anchor curiosity only; not actionable"
+    }
+  ],
+  "potion_rule_check": {
+    "canonical_evidence_for_cohort_predicate": "Sugimori/Unno Nintendo Dream interview articulating the three-substrate structural-parallel framework explicitly (designer-stated cross-line program, not BBL squinting); per-species Bulbapedia design-source sections + per-card PokemonTCG.io flavor_text fields cross-confirm the substrate-coding at the printed-card level for all six cohort species",
+    "citation_tier_concern": "Nintendo Dream interview reached the corpus via two secondary aggregators (lavacutcontent.com + remptongames.com), both WebSearch-snippet-tier rather than primary. Flagged in node caveats; future enrichment should target primary archive citation. The cohort thesis stands on convergent secondary citation + structural in-game evidence at all six per-species levels.",
+    "curatorial_overlay_vs_canonical_event_distinction_held": "Node body explicitly distinguishes canonical-event (Game Freak's species-design choice, Sugimori/Unno designer-statement) from curatorial-overlay (BBL's reading of cohort as 'species-as-pollution-body'). Phrases like 'the franchise's clearest articulation of' are gated on 'BBL reads this canonical-event as...' constructions per Potion Rule sub-rule 1.",
+    "no_new_structural_primitive_vocabulary_invented": "Standard graph-theory terms used: cohort (=node), appears_on (=edge-list), related_characters (=cross-link). No invented sub-shape jargon. Potion Rule sub-rule 4 held."
+  }
+}

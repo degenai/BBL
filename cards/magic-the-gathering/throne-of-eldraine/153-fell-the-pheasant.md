@@ -7,7 +7,7 @@ rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
 tags_hub:
@@ -30,9 +30,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/153-fell-the-pheasant.png
 average_cost_paid: 0
 market_price: 0.21
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-13
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/3/3/33d3cc84-7cb6-4de2-9018-4695a3b1e099.png?1572490530
 art_match_confidence: high
 needs_manual_review: false

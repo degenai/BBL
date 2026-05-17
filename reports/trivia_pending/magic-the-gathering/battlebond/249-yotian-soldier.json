@@ -1,0 +1,48 @@
+{
+  "card_name": "Yotian Soldier",
+  "game": "Magic: The Gathering",
+  "set": "Battlebond",
+  "collector_number": "249",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Yotian Soldiers were artificial creatures created by Urza during the Brothers' War on Dominaria, built after the Fall of Kroog as a lighter, faster defensive unit — 'a smaller version of the avenger, requiring far less time and material to build.' Urza named them for Yotia, the kingdom whose capital Kroog had been destroyed, as an act of memorial guilt. The original flavor text on the Antiquities (1994) and Fourth Edition printings makes this explicit: 'After Kroog was destroyed while most of its defenders were at his side, Urza vowed that none of his allies would ever need to fear for their own defense again, even while laying siege to a city far from their homes.' [MTG Wiki: Yotian soldier, via WebSearch snippet; Scryfall: Antiquities printing flavor text]",
+      "sources": ["MTG Wiki: Yotian soldier, via WebSearch snippet", "Scryfall: Antiquities (ATQ) printing"]
+    },
+    {
+      "category": "design",
+      "text": "Yotian Soldier originated in Antiquities (1994), one of the earliest Magic: The Gathering expansions and the set that established the Brothers' War as a foundational lore event. The card was illustrated by Christopher Rush in its original printings — Rush is best known as the artist of the original Black Lotus. The Battlebond (BBD, 2018) printing uses new art by Luca Zontini and replaces the Urza/Kroog flavor text with a different line: 'Poets dream the verses of otherworldly stories. Artificers dream the blueprints of otherplanar artifacts.' [Scryfall: all prints of Yotian Soldier]",
+      "sources": ["Scryfall: Antiquities (ATQ) printing", "Scryfall: Battlebond (BBD) printing"]
+    },
+    {
+      "category": "design",
+      "text": "Yotian Soldier has 9 total printings across its history: Antiquities (1994), Fourth Edition (1995), Foreign Black Border (1995), Renaissance/Rinascimento Italian (1995), Mirrodin (2003), Masters Edition IV (2011, MTGO-only), Battlebond (2018), and The List (2022, PLST reprint of the BBD version). Battlebond was a Two-Headed Giant focused draft innovation set released June 8, 2018 — the card was reprinted there as a reprint filler common. [Scryfall: prints search for oracle ID 645571f1]",
+      "sources": ["Scryfall: prints search for oracle_id 645571f1"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card is 3 mana for a 1/4 Vigilance — a stat profile designed for blocking, not winning. Its EDHREC rank of 25,402 confirms it is a deep-bench common with minimal competitive or casual-format presence. It is legal in Modern, Legacy, Pauper, Vintage, Commander, Paupercommander, and Predh. The 1/4 body with Vigilance is an archetypal defensive artifact creature; the same template would later be echoed more efficiently by cards like Memnite and Signal Pest, but in the Antiquities era 3 mana for a 1/4 was a meaningful defensive body. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Yotia itself was one of the major nations of Terisiare on Dominaria. Its name is the source of 'Yotian Soldier' — the soldiers were named to honor the destroyed kingdom. Yotia's capital Kroog fell to Mishra's dragon engines; the land remained under Fallaji occupation for ten years before being liberated by Argive and Korlis forces. Yotia would later be revisited in The Brothers' War set (2022), which expanded the Antiquities lore into a full block narrative. [MTG Wiki: Yotia, via WebSearch snippet; MTG Wiki: Brothers' War, via WebSearch snippet]",
+      "sources": ["MTG Wiki: Yotia, via WebSearch snippet", "MTG Wiki: Brothers' War, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Yotian Soldier", "set": "Antiquities", "note": "Original 1994 printing with Christopher Rush art and the Urza/Kroog flavor text — the canonical version"},
+    {"name": "Tawnos's Coffin", "set": "Antiquities", "note": "Antiquities artifact tied to the same Brothers' War lore era as Yotian Soldier"},
+    {"name": "Urza's Avenger", "set": "Antiquities", "note": "The more powerful Brothers' War artifact creature that Yotian Soldiers were built as a lighter version of"},
+    {"name": "Mishra's War Machine", "set": "Antiquities", "note": "Mishra's side of the Brothers' War arms race that Yotian Soldiers were built to counter"},
+    {"name": "Yotia Declares War", "set": "Dominaria United", "note": "2022 card explicitly referencing Yotia by name in the DMU era — modern callback to the same lore"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

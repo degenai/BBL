@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: 
 average_cost_paid: 0
 market_price: 0.57
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-05
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://images.pokemontcg.io/swshp/SWSH003_hires.png
 art_match_confidence: none
 needs_manual_review: true

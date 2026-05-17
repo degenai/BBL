@@ -36,9 +36,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/41-corridor-monitor.png
 average_cost_paid: 0
 market_price: 0.22
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-16
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/9/3/9347802a-0971-443c-867a-cb9400f18d5c.png?1572489851
 art_match_confidence: high
 needs_manual_review: false

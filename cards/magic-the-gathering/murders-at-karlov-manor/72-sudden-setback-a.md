@@ -35,9 +35,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/72-sudden-setback-a.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-11
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/0/b/0b9e5fd6-a5ea-4ae5-83f5-89ed6a658dd3.png?1706241652
 art_match_confidence: high
 needs_manual_review: false

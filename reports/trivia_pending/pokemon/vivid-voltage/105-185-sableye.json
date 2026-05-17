@@ -1,0 +1,42 @@
+{
+  "card_name": "Sableye",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "105/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure is canonical Sableye (National Pokedex no. 302): small dark-purple creature with large faceted gem eyes (one red, one blue), toothy wide grin, clawed hands, cave setting. Confirmed via PokemonTCG.io API (card ID swsh4-105) and Pokemon.com TCG card database. Sableye is a first-party Nintendo/Game Freak/Pokemon Company IP character. No external IP crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Sableye (National Pokedex no. 302) is a Dark/Ghost-type introduced in Pokemon Ruby and Sapphire (2002, Generation III). Its design is widely credited as being inspired by the Kelly-Hopkinsville encounter of August 21, 1955 — a well-documented American paranormal report from Kelly, Kentucky, in which a farm family claimed to have encountered small goblin-like entities with large shining eyes, fan-shaped ears, small legs, and sharply taloned hands. The Kelly-Hopkinsville case has largely faded from American pop-cultural memory but remained popular in Japan, where Western cryptids and UFO encounters are common source material for anime and games. [WebSearch: Screen Rant \"An Unassuming Ghost Pokemon Has Creepy, Real-Life Origins\"; Wikipedia: Kelly-Hopkinsville encounter, via WebSearch snippet]",
+      "sources": ["Screen Rant: Sableye creepy origin story Kelly Hopkinsville goblins, via WebSearch snippet", "Wikipedia: Kelly-Hopkinsville encounter, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Sableye's gemstone eyes are not merely aesthetic: in-game lore establishes that Sableye subsists on a diet of gemstone crystals, which crystallize internally and rise to the surface, replacing its eyes. The three gems visible on its chest and back in official artwork are part of the same dietary-crystallization process. The Vivid Voltage card's artist KEIICHIRO ITO renders this with two visibly distinct gem colors — one reddish, one bluish — in keeping with the two-toned-eye design used across most official Sableye art. [PokemonTCG.io API: swsh4-105; WebSearch: Sableye Bulbapedia origin via WebSearch snippet]",
+      "sources": ["PokemonTCG.io API: swsh4-105", "WebSearch: Sableye design origin gem-eyes, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Sableye was one of only two Pokemon (alongside Spiritomb) with no type weaknesses from its Generation III introduction through Generation V — the Dark/Ghost typing neutralized every type that existed at the time. The introduction of the Fairy type in Generation VI (Pokemon X and Y, 2013) gave both Sableye and Spiritomb a Fairy weakness for the first time. On the Vivid Voltage Uncommon card, Sableye's two attacks (Filch: draw a card; Torment: 30 damage, lock one attack) echo its thematic identity as a disruptive trickster. [WebSearch: Sableye no weakness Dark Ghost typing Fairy, via WebSearch snippet; PokemonTCG.io API: swsh4-105]",
+      "sources": ["WebSearch: Sableye no weakness until Fairy type, via WebSearch snippet", "PokemonTCG.io API: swsh4-105"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"This Pokemon is feared. When its gemstone eyes begin to glow with a sinister shine, it's believed that Sableye will steal people's spirits away.\" — flavor text, Sableye (Vivid Voltage, card 105/185). [PokemonTCG.io API: swsh4-105]",
+      "sources": ["PokemonTCG.io API: swsh4-105"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Spiritomb", "set": "various", "note": "The other Pokemon that shared Sableye's no-weakness status until Fairy type was introduced in Gen VI"},
+    {"name": "Mega Sableye & Tyranitar GX", "set": "Unified Minds", "note": "Tag Team GX card featuring Mega Sableye — highest-profile Sableye TCG card"},
+    {"name": "Sableye (Darkness Ablaze)", "set": "Darkness Ablaze", "note": "Adjacent Sword & Shield era printing of the same character for art comparison"},
+    {"name": "Shedinja", "set": "Vivid Voltage", "note": "Shares the same Vivid Voltage set; both are Ghost-type-adjacent spooky Pokemon in the same expansion"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

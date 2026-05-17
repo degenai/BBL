@@ -99,6 +99,15 @@ DBZEXCHANGE_SUGGEST = "https://dbzexchange.com/search/suggest.json"
 WEISS_SEARCH_BASE = "https://en.ws-tcg.com/cardlist/searchresults/"
 WEISS_HOST = "https://en.ws-tcg.com"
 
+# FFTCG (Final Fantasy TCG) image source. Marcie Discord bot's public GCS
+# mirror hosts the cards keyed on `<code>_eg.jpg` (e.g. `3-122C_eg.jpg`).
+# Tried Square Enix's sewest CDN first per the FFTrice precedent — it 404s
+# corpus-wide as of 2026-05-17, the path/structure has moved since FFTrice's
+# code was written. Marcie's mirror is community-maintained but covers the
+# entire Opus run reliably. Native ~720x1024 JPEG, no art crop available.
+# Code is taken verbatim from Collectr `collector_number` field.
+FFTCG_IMAGE_BASE = "https://storage.googleapis.com/marcieapi-images"
+
 # Image-quality buckets. Stamped at prep time so downstream queries can grep
 # `image_quality: low` to find candidates for source-upgrade later.
 #   high: ≥700px width (Scryfall/PokemonTCG.io baseline, dbzexchange hi-res hits)
@@ -115,6 +124,7 @@ GAME_STRATEGY = {
     "Weiss Schwarz": "weiss",
     "Lorcana": "lorcana",
     "Disney Lorcana": "lorcana",
+    "Final Fantasy TCG": "fftcg",
     # Other games fall through with a warning until we wire APIs for them.
 }
 
@@ -227,8 +237,13 @@ def parse_frontmatter(text: str) -> dict:
 def update_frontmatter_field(text: str, field: str, value: str) -> str:
     """Replace existing field or insert before closing `---`."""
     pattern = rf"^{re.escape(field)}:.*$"
+    # Use callable replacement: re.sub interprets backslash escapes in a string
+    # replacement (so a value containing literal `\n` from _flatten_for_frontmatter
+    # would get expanded to a real newline and break YAML). A callable bypasses
+    # that interpretation.
+    replacement = f"{field}: {value}"
     if re.search(pattern, text, flags=re.MULTILINE):
-        return re.sub(pattern, f"{field}: {value}", text, count=1, flags=re.MULTILINE)
+        return re.sub(pattern, lambda _m: replacement, text, count=1, flags=re.MULTILINE)
     m = FRONTMATTER_RE.match(text)
     if not m:
         return text
@@ -742,6 +757,30 @@ def find_image_dbs(card_name: str, set_name: str = "",
     return None, "none", "", "", "", "", "", ""
 
 
+def find_image_fftcg(card_name: str, set_name: str = "",
+                     collector_number: str = ""
+                     ) -> tuple[str | None, str, str, str, str, str, str, str]:
+    """FFTCG (Final Fantasy TCG) image fetch via Marcie's GCS mirror.
+    Returns (url, confidence, number, artist='', art_crop_url='',
+    flavor_text='', oracle_text='', mana_cost=''). Artist + oracle/flavor are
+    NOT URL-derivable from the GCS bucket — capture deferred to triviabot or
+    a future FFDecks API enrichment pass. mana_cost is always "" for non-MTG.
+
+    URL formula: {FFTCG_IMAGE_BASE}/<code>_eg.jpg where <code> is the verbatim
+    Collectr `collector_number` (e.g. `3-122C`, `6-050C`, `8-001R`). HEAD-
+    checked before commit to filter 404s (rare cards or codes Marcie's mirror
+    hasn't backfilled yet — those need curator review). Wave 96.10 wire."""
+    if not collector_number:
+        return None, "none", "", "", "", "", "", ""
+    code = collector_number.strip().upper().split("--")[0]
+    if not code:
+        return None, "none", "", "", "", "", "", ""
+    url = f"{FFTCG_IMAGE_BASE}/{code}_eg.jpg"
+    if _head_ok(url):
+        return url, "high", code, "", "", "", "", ""
+    return None, "none", "", "", "", "", "", ""
+
+
 def _strip_weiss_rarity_suffix(collector_number: str) -> str:
     """Bushiroad EN search expects card numbers WITHOUT a trailing rarity
     suffix. Corpus filenames sometimes carry the rarity (e.g. "BD/WE35-E20 C"
@@ -914,6 +953,8 @@ def find_reference_image(game: str, card_name: str, set_name: str,
         return find_image_weiss(card_name, set_name, collector_number)
     if strat == "lorcana":
         return find_image_lorcana(card_name, set_name, collector_number)
+    if strat == "fftcg":
+        return find_image_fftcg(card_name, set_name, collector_number)
     return None, "none", "", "", "", "", "", ""
 
 

@@ -29,9 +29,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/181-wicked-wolf.png
 average_cost_paid: 0
 market_price: 0.31
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-12
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/0/9/09476eac-55d2-4955-8951-ae4ce117c98b.png?1572490698
 art_match_confidence: high
 needs_manual_review: false

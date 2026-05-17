@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/156-case-of-the-trampled-garden.png
 average_cost_paid: 0
 market_price: 0.24
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/9/e/9e80f5c7-ae29-473c-ac64-04bcbc629385.png?1706241957
 art_match_confidence: high
 needs_manual_review: false

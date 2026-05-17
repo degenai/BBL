@@ -36,9 +36,9 @@ tags_filter:
 reference_image: cards/_images/pokemon/chilling-reign/054-198-galarian-slowpoke.jpg
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-06
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://archives.bulbagarden.net/media/upload/c/cc/GalarianSlowpokeChillingReign54.jpg
 art_match_confidence: high
 needs_manual_review: false
@@ -97,3 +97,7 @@ A washed-out lavender and pale-pink Slowpoke variant lies sprawled across a moss
 - Galarian Slowbro (multiple sets) — Poison/Psychic evolution via Galarica Cuff; Isle of Armor DLC
 - Galarian Slowking (Chilling Reign) — Poison/Psychic evolution via Galarica Wreath; Crown Tundra DLC; thematically central to this set
 - Slowpoke (multiple sets) — Kantonian counterpart; Water/Psychic type
+
+## Connections
+
+- [[054-163-galarian-slowpoke]] — Same species, second corpus print. Both cards depict Galarian Slowpoke in the canonical placid-stupor reclining pose with the diagnostic pink-and-cream body and raised tail, and both carry the identical Pokedex flavor line *"Because Galarian Slowpoke eat the seeds of a plant that grows only in Galar, their tails have developed a spicy flavor"* — the cohort's clearest in-corpus statement of the Galarica-seed adaptation mechanism that defines [[galarian-regional-forms]]. The Chilling Reign print (Naoyo Kimura) stages the resting pose on a mossy forest floor beside a stream; the Battle Styles print (Ryota Murayama) stages it on rocky mountain terrain. Same species, same flavor citation, two regional habitats. `[Bulbapedia: Galarian Slowpoke; PokemonTCG.io swsh5-054 / swsh6-054; card frontmatter flavor_text]`

@@ -1,0 +1,94 @@
+{
+  "edge_id": "project-diva-f-vocaloid-roster--node-commission",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "wave": 101,
+  "node_proposed": {
+    "type": "character",
+    "path": "cards/_characters/project-diva-f-vocaloid-roster.md",
+    "name": "Project DIVA F Vocaloid roster (Crypton + guest voicebanks)",
+    "scope": "SEGA Project DIVA F licensed roster as represented in Weiss Schwarz PD/S22, NOT the entire Vocaloid universe"
+  },
+  "cards_now_pointing_at_node": [
+    {"path": "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e033-u-hatsune-miku-divine-goddess.md", "voicebank": "Hatsune Miku", "module": "Divine Goddess"},
+    {"path": "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e041-c-hatsune-miku-deep-sky.md", "voicebank": "Hatsune Miku", "module": "Deep Sky"},
+    {"path": "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e046-c-weekender-girl.md", "voicebank": "Hatsune Miku", "module": "Weekender Girl"},
+    {"path": "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e067-c-hatsune-miku-dark-angel.md", "voicebank": "Hatsune Miku", "module": "Dark Angel"},
+    {"path": "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e021-c-melancholic.md", "voicebank": "Kagamine Rin", "module": "Melancholic"},
+    {"path": "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e087-u-kagamine-rin-school-swimwear.md", "voicebank": "Kagamine Rin", "module": "School Swimwear"},
+    {"path": "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e017-c-kagamine-len-trickster.md", "voicebank": "Kagamine Len", "module": "Trickster"},
+    {"path": "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e084a-u-kagamine-len-bad-boy-a.md", "voicebank": "Kagamine Len", "module": "Bad Boy (A)"},
+    {"path": "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e056-r-meiko-blue-crystal.md", "voicebank": "MEIKO", "module": "Blue Crystal"}
+  ],
+  "voicebanks_in_corpus": ["Hatsune Miku", "Kagamine Rin", "Kagamine Len", "MEIKO"],
+  "voicebanks_in_pd_s22_set_not_yet_enriched": ["Megurine Luka", "KAITO", "Kasane Teto", "Yowane Haku"],
+  "description": "Excuse me, sir, oh dear, Edgelord wanted to draw a Miku-modules mirror — Divine Goddess and Dark Angel are clearly the sublime/inverted-fallen pair — but I'm so sorry, the cohort is just too overdetermined for that to be the right move. Nine enriched corpus cards across five named voicebank characters, with twenty-plus more PD/S22 cards queued, and no Vocaloid character node anywhere in the graph. I do hope you don't mind, sir, but the node has to come first or every future Miku-and-friends edge will just point at the absence where the cohort should be. I scoped it tight — Project DIVA F roster, not all of Vocaloid — to match the eld-cinderella-cycle precedent. I'm sorry to step on Edgelord's edge.",
+  "citations": [
+    "[Crypton Future Media — Character Vocal Series product pages]",
+    "[SEGA — Hatsune Miku: Project DIVA F official site and in-game module catalog]",
+    "[Vocaloid Wiki — per-character pages: Hatsune Miku, Kagamine Rin and Len, Megurine Luka, MEIKO, KAITO, Kasane Teto, Yowane Haku]",
+    "[Weiss Schwarz — Hatsune Miku -Project DIVA- f set page, en.ws-tcg.com PD/S22-E series]",
+    "[In-corpus: nine enriched PD/S22 cohort cards' vision passes stamping suspected_ip to canonical voicebank names]"
+  ],
+  "files_modified": [
+    "cards/_characters/project-diva-f-vocaloid-roster.md",
+    "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e033-u-hatsune-miku-divine-goddess.md",
+    "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e041-c-hatsune-miku-deep-sky.md",
+    "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e046-c-weekender-girl.md",
+    "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e067-c-hatsune-miku-dark-angel.md",
+    "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e021-c-melancholic.md",
+    "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e087-u-kagamine-rin-school-swimwear.md",
+    "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e017-c-kagamine-len-trickster.md",
+    "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e084a-u-kagamine-len-bad-boy-a.md",
+    "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e056-r-meiko-blue-crystal.md"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "potion_rule_check": {
+    "canonical_evidence_present": true,
+    "evidence_summary": "Vocaloid is Yamaha's actual designer-named singing-synthesizer software family; Crypton's Character Vocal Series is the canonically-published voicebank line (CV01 Miku, CV02 Rin/Len, CV03 Luka); SEGA's Project DIVA F is officially licensed from Crypton; Weiss Schwarz PD/S22 is officially licensed from SEGA/Crypton. Roster membership is designer-stamped per Crypton product pages and the Project DIVA F in-game module catalog. No BBL squinting required.",
+    "labor_thesis_status": "labor-coded reading (virtual-idol-as-cooperative-labor-product) is body-prose curatorial overlay, not hub attribution; node body names it as such; related_hubs: [] kept empty per wave-81 P3 discipline."
+  },
+  "scoping_discipline": {
+    "scope_chosen": "Project DIVA F set roster (PD/S22)",
+    "scope_rejected": "entire Vocaloid universe / all Crypton voicebanks / all Vocaloid TCG appearances ever",
+    "rationale": "Mirrors the eld-cinderella-cycle scoping principle (one set's roster, not all of Cinderella in MTG). If future BBL acquisitions bring non-PD/S22 Vocaloid cards (Project Sekai, Bushiroad Miku sets, etc.), a parent crypton-vocaloid node should be authored above this one and this PD/S22 cohort re-parented."
+  },
+  "next_pass_suggestions": [
+    {
+      "candidate": "Megurine Luka enrichment + attach to PD/S22 roster",
+      "rationale": "Three PD/S22 Luka cards already in corpus (Eternal White, Light & Casual, San-no-Sakura Maple); not yet vision-passed. When triviabot/vision enrich them, append to roster appears_on. Currently 4 of 6 core Crypton voicebanks have enriched corpus members; full coverage is two cards away.",
+      "priority": "high — completes core Crypton roster coverage"
+    },
+    {
+      "candidate": "KAITO enrichment + attach to PD/S22 roster",
+      "rationale": "Two PD/S22 KAITO cards in corpus (Requiem, Half Tights); enrichment will give the cohort its first male-Crypton-voicebank representative beyond Kagamine Len.",
+      "priority": "high"
+    },
+    {
+      "candidate": "Hoenn whale dyad (Wailmer + Wailord) edge check",
+      "rationale": "Confirm both are in corpus and both enriched; if so, evolution-line edge is a clean 1:1 mirror similar to mareep-line / larvitar-line patterns. Marginal but quick.",
+      "priority": "medium"
+    },
+    {
+      "candidate": "Magia Record Coordinator / Magius / Mage-Class system",
+      "rationale": "Mitama Yakumo's Coordinator role is wave-101 trivia. Magia Record has designer-stamped magical-girl-classification system per Madoka-franchise wiki. Below threshold today (likely 1-2 Coordinator-adjacent cards enriched) but worth re-checking when MR enrichment hits ~5+ cards.",
+      "priority": "low — defer to next MR enrichment wave"
+    },
+    {
+      "candidate": "Shedinja halo + ghost + sacred cross-cutting bridge",
+      "rationale": "Flavor-anchor for future bundle work per wave-101 vision note. Not a node candidate yet; revisit when a Pokémon-ghost-sacred cohort surfaces with 3+ members.",
+      "priority": "deferred"
+    },
+    {
+      "candidate": "Mob Psycho 100 cohort threshold check",
+      "rationale": "Last Edgelord deferred until ~8 enriched. Wave 101 added Matsuo. Likely still below threshold; check enriched count next wave before commissioning a Claw-Organization or Reigen-Mob duo node.",
+      "priority": "deferred"
+    },
+    {
+      "candidate": "PD/S22 non-character climax / song / item cards cohort",
+      "rationale": "Cards like Continuing Dream, Time Machine, Unhappy Refrain, Sadistic.Music Factory, World's End Dance Hall A/B etc. are song-named non-character cards. If enrichment surfaces 5+ of these as a designer-coordinated set-bounded cohort (climax-cycle / song-event-cycle), a sibling node could anchor them. Not character-layer; possibly _symbols/ if treated as mechanical-primitive cohort per the wave-38 schema extension. Defer.",
+      "priority": "deferred"
+    }
+  ]
+}

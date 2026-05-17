@@ -1,0 +1,42 @@
+{
+  "card_name": "Kagamine Len\"Bad Boy\" (A)",
+  "game": "Weiss Schwarz",
+  "set": "Hatsune Miku -Project DIVA- f",
+  "collector_number": "PD/S22-E084a U",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure matches Kagamine Len's canonical Bad Boy module from Hatsune Miku: Project DIVA F exactly — short spiky blond hair, red-and-black geometric jacket, grey headphones. Module details confirmed via Project DIVA Wiki (Fandom). The card set is a licensed Weiss Schwarz product based on the Project DIVA F game; Kagamine Len is a Vocaloid character developed and distributed by Crypton Future Media, Inc. IP is Crypton Future Media / Yamaha VOCALOID, not an external third-party crossover risk relative to Weiss Schwarz's license.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The PD/S22 set is a licensed Weiss Schwarz expansion based on the 2012 PlayStation 3 rhythm game Hatsune Miku: Project DIVA F, produced by Bushiroad; the English edition released November 2013. The set covers all six Crypton Future Media Vocaloids featured in the game. [WebSearch: Weiss Schwarz PD/S22 card listings; Amazon Bushiroad Trial Deck listing]",
+      "sources": ["WebSearch: Weiss Schwarz PD/S22 retailer listings", "Amazon Bushiroad Trial Deck PD/S22 listing"]
+    },
+    {
+      "category": "design",
+      "text": "Kagamine Len's \"Bad Boy\" costume is a specific unlockable Module in Hatsune Miku: Project DIVA F, earned by clearing the song \"Unhappy Refrain\" on any difficulty and purchasing it for 20,000 DIVA Points. The module alters Len's default appearance: hair becomes a paler yellow, eyes shift to vermillion, and the outfit consists of a red-and-black geometric jacket, grey headphones, and black tactical pants. [Project DIVA Wiki: Bad Boy module page, via WebSearch snippet]",
+      "sources": ["Project DIVA Wiki (Fandom): Bad Boy module, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Kagamine Rin and Len (鏡音リン・レン) are the second Vocaloid vocal pair released by Crypton Future Media, Inc. (codenamed CV02), first distributed on December 27, 2007 for the VOCALOID2 engine. Their surname 鏡音 (Kagamine) means \"mirrored sound,\" referencing their design concept as mirror-image androids — Rin representing right audio channel, Len representing left. Both are voiced by Asami Shimoda. [Wikipedia: Kagamine Rin/Len, via WebSearch snippet]",
+      "sources": ["Wikipedia: Kagamine Rin/Len, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "In Weiss Schwarz, PD/S22 uncommon cards like this one typically serve as support pieces in Vocaloid-themed decks; the dual art-style variants (A/B) of the same character-module combination were a common design pattern in the Project DIVA f set to allow collectors to build themed sets around specific module aesthetics. [WebSearch: Weiss Schwarz PD/S22 card listings, fishpond.com]",
+      "sources": ["WebSearch: fishpond.com Weiss Schwarz Kagamine Len Bad Boy Art-Style A listing"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kagamine Rin \"School Swimwear\"", "set": "Hatsune Miku -Project DIVA- f", "note": "Twin character; same PD/S22 set; shares the Project DIVA f vocaloid roster cohort"},
+    {"name": "Kagamine Len \"Bad Boy\" (B)", "set": "Hatsune Miku -Project DIVA- f", "note": "Alternate art-style variant of the same card and module"},
+    {"name": "Hatsune Miku (various modules)", "set": "Hatsune Miku -Project DIVA- f", "note": "Title character of the set; shares the Project DIVA F game license"},
+    {"name": "ACUTE (PD/S22-E098R RRR)", "set": "Hatsune Miku -Project DIVA- f", "note": "Highest-rarity pull in the PD/S22 set; features Kagamine Len, Rin, and KAITO in the ACUTE song module"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

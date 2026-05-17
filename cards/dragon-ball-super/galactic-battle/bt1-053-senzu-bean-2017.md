@@ -32,10 +32,10 @@ tags_filter:
   - anime
 reference_image: cards/_images/dragon-ball-super/galactic-battle/bt1-053-senzu-bean-2017.png
 average_cost_paid: 0
-market_price: 0.2
-market_price_as_of: 2026-05-16
+market_price: 0.21
+market_price_as_of: 2026-05-17
 date_added: 2026-05-05
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400572645/A6FAF9D8B7B07155ED86348ADF72EB73DE19940A/
 image_width: 624
 image_height: 871

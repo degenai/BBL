@@ -32,10 +32,10 @@ tags_filter:
   - female-figure
 reference_image: cards/_images/pokemon/vivid-voltage/149-185-cara-liss.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-16
+market_price: 0.09
+market_price_as_of: 2026-05-17
 date_added: 2026-05-07
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://images.pokemontcg.io/swsh4/149_hires.png
 art_match_confidence: high
 needs_manual_review: false

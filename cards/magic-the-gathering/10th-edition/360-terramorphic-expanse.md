@@ -14,10 +14,10 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/magic-the-gathering/10th-edition/360-terramorphic-expanse.png
 average_cost_paid: 0
-market_price: 0.25
-market_price_as_of: 2026-05-16
+market_price: 0.27
+market_price_as_of: 2026-05-17
 date_added: 2026-05-07
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 art_match_confidence: low
 needs_manual_review: true
 manual_review_reason: Set '10th Edition' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.

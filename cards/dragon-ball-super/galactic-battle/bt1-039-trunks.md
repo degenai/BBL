@@ -31,9 +31,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/galactic-battle/bt1-039-trunks.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-08
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400570894/295873A45AF64D7EAFAF1AC933EBB10EF8733815/
 image_width: 624
 image_height: 871

@@ -36,9 +36,9 @@ symbols:
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/239-undercover-crocodelf-b.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-11
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/5/b/5bc669c8-6f39-4d52-82d3-a4005d41c8a5.png?1706242271
 art_match_confidence: high
 needs_manual_review: false

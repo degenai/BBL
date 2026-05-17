@@ -35,9 +35,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-014-dark-duo-dabura.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-05
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408074582/81E5296E7F4B185CD89D2D0DB9FB6905228B9D34/
 art_match_confidence: high
 needs_manual_review: false

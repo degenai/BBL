@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/155-betrayal-at-the-vault.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/c/4/c494820f-607d-4ed2-8a86-a916ae390272.png?1712355886
 art_match_confidence: high
 needs_manual_review: false

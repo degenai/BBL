@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/157-chalk-outline.png
 average_cost_paid: 0
 market_price: 0.22
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/b/3/b3ff56c1-4153-4e15-9ac6-06d93fa2ae50.png?1706241961
 art_match_confidence: high
 needs_manual_review: false

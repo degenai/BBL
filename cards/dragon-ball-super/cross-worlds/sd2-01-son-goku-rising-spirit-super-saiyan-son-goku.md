@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/cross-worlds/sd2-01-son-goku-rising-spirit-super-saiyan-son-goku.png
 average_cost_paid: 0
 market_price: 0.22
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-05
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401481655/FD02B055F8EF92E945E7799F8FC41C8130BDC07E/
 image_width: 624
 image_height: 871

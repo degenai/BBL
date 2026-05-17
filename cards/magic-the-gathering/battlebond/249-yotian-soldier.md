@@ -37,9 +37,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/battlebond/249-yotian-soldier.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-07
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -78,3 +78,17 @@ A burnished gold automaton dominates the frame, its plated body articulated like
 **Iconography:** mechanical-joints, rivets, domed-helm
 **Genre cues:** fantasy, steampunk, ancient-mythic
 
+## Trivia
+
+- **Set lore** — Yotian Soldiers were artificial creatures built by Urza during the Brothers' War on Dominaria, created after the Fall of Kroog as a lighter defensive unit — described as "a smaller version of the avenger, requiring far less time and material to build." Urza named them for Yotia, the kingdom whose capital Kroog had been destroyed under his watch, as an act of memorial guilt. The original Antiquities (1994) flavor text (printed on ATQ, 4th Edition, and ME4 versions but NOT on this BBD printing) makes this explicit: "After Kroog was destroyed while most of its defenders were at his side, Urza vowed that none of his allies would ever need to fear for their own defense again, even while laying siege to a city far from their homes." `[MTG Wiki: Yotian soldier, via WebSearch snippet; Scryfall: Antiquities (ATQ) printing flavor text]`
+- **Flavor text** — "Poets dream the verses of otherworldly stories. Artificers dream the blueprints of otherplanar artifacts." `[Scryfall: BBD printing flavor text]` This line — used on the Mirrodin (2003) and Battlebond (2018) printings — differs entirely from the Antiquities emotional eulogy. The BBD flavor text gestures at cross-planar ambition, appropriate for a Battlebond set about fighters from across the Multiverse.
+- **Design** — Yotian Soldier has 9 total printings: Antiquities (1994, Christopher Rush art), Fourth Edition (1995), Renaissance and Rinascimento Italian (1995), Foreign Black Border (1995), Mirrodin (2003, Luca Zontini art), Masters Edition IV (2011, MTGO-only), Battlebond (2018, Luca Zontini art), and The List (2022, reprint of the BBD version). Christopher Rush — the original artist — is best known as the illustrator of the Black Lotus. Battlebond was a Two-Headed Giant draft innovation set released June 8, 2018; Yotian Soldier was included as a reprint common. `[Scryfall: prints search, oracle ID 645571f1-a775-4834-8b79-8852d38c9587]`
+- **Mechanical reputation** — 3 mana for a 1/4 with Vigilance — a pure defensive body. EDHREC rank: 25,402; this is a deep long-tail common with no meaningful competitive presence. Legal in Modern, Legacy, Pauper, Vintage, Commander, Paupercommander, and Predh. In the Antiquities era the stat block was a meaningful blocker; modern format contexts find it outclassed. `[Scryfall]`
+- **Set lore (Yotia)** — Yotia was one of the major nations of Terisiare on Dominaria. Its capital Kroog fell to Mishra's dragon engines; the land remained under Fallaji occupation for ten years before liberation by Argive and Korlis forces. The Brothers' War set (2022) returned to this lore in depth. Notably, Yotia's name derives from the Antiquities card — the nation was named in-universe to match the card, making Yotian Soldier one of the few commons that gave a nation its canonical name. `[MTG Wiki: Yotia, via WebSearch snippet; MTG Wiki: Brothers' War, via WebSearch snippet]`
+
+### Related cards
+- Yotian Soldier (Antiquities, 79) — the original 1994 Christopher Rush printing with the Urza/Kroog flavor text; the canonical emotional version of this card
+- Urza's Avenger (Antiquities) — the more powerful Brothers' War construct that Yotian Soldiers were built as a lighter version of; direct lore predecessor
+- Mishra's War Machine (Antiquities) — Mishra's side of the arms race; lore counterpart
+- Tawnos's Coffin (Antiquities) — fellow Antiquities artifact from the same Brothers' War lore cluster
+- Yotia Declares War (Dominaria United) — 2022 card explicitly referencing Yotia by name; modern callback to the same lore lineage

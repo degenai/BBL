@@ -1,0 +1,41 @@
+{
+  "card_name": "Norton Nimnul - Misanthropic Genius",
+  "game": "Lorcana",
+  "set": "Wilds Unknown",
+  "collector_number": "146/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Norton Nimnul.' The subtitle 'Misanthropic Genius' matches the character's core personality traits. Visual markers (heavyset scientist in white lab coat, large goggle-like glasses, ray gun device, manic expression) align exactly with the canonical Disney character from Chip 'n Dale: Rescue Rangers (1989-1990). The flavor text references 'devitalizer ray technology' which parallels the character's recurring invention-of-the-week schemes. Wilds Unknown is confirmed to feature Rescue Rangers characters — Bleeding Cool reported the Rescue Rangers return exclusively. IP is internal Disney; no third-party external IP risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Professor Norton Nimnul is the recurring human antagonist of Chip 'n Dale: Rescue Rangers, the Disney animated series that ran from 1989 to 1990 and was part of the Disney Afternoon television block. He is voiced by Jim Cummings and is described as 'an exceptionally insane scientist and supervillain who often comes up with brilliant (if completely illogical) schemes.' He is notable as one of the few human antagonists the animal-protagonist Rescue Rangers regularly face, and is among the only humans in the show apparently aware of the Rescue Rangers' existence. [Disney Wiki: Professor Norton Nimnul, via WebSearch snippet; Wikipedia: Chip 'n Dale: Rescue Rangers (TV series), via WebSearch snippet]",
+      "sources": ["Disney Wiki: Professor Norton Nimnul, via WebSearch snippet", "Wikipedia: Chip 'n Dale Rescue Rangers, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (from card frontmatter, confirmed present): \"Another successful test! This brilliant devitalizer ray technology will be my finest invention yet!\" — Norton Nimnul. The 'devitalizer ray' mirrors the card's DEVITALIZER RAY ability, which lets Nimnul reduce a chosen opposing character's Strength by 2 whenever you play an item. The mechanic and flavor text form a closed loop: the card IS the invention. [Ravensburger / Lorcana frontmatter; confirmed via card oracle_text]",
+      "sources": ["Card frontmatter: flavor_text field", "Card frontmatter: oracle_text field"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Wilds Unknown is the twelfth Disney Lorcana set, released May 15, 2026, with prerelease May 8, 2026. It is the first Lorcana set to include Pixar characters alongside Disney animated characters. Rescue Rangers characters return to Lorcana in this set — they first appeared in Into the Inklands — with an exclusive reveal in Bleeding Cool confirming their inclusion. Nimnul is in Sapphire ink, the game's logic/intelligence-themed ink color, appropriate for a scientist villain. [Bleeding Cool: Rescue Rangers Return with Disney Lorcana: Wilds Unknown (Exclusive), via WebSearch snippet; disneylorcana.com press release, via WebSearch snippet]",
+      "sources": ["Bleeding Cool: Rescue Rangers Return with Disney Lorcana: Wilds Unknown (Exclusive), via WebSearch snippet", "disneylorcana.com: Wilds Unknown press release, via WebSearch snippet"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment around Wilds Unknown's Rescue Rangers inclusion is positive-nostalgic: collector coverage notes the Rescue Rangers return as a highlight for players who grew up with the Disney Afternoon block, with the show being considered a deep cut relative to the more prominent Pixar properties dominating the set's marketing. Norton Nimnul specifically is the show's most recurring villain — his inclusion over more peripheral antagonists reflects Ravensburger's attentiveness to franchise canon depth. [Bleeding Cool: Rescue Rangers Return exclusive, via WebSearch snippet; Goat Armor: Wilds Unknown chase card breakdown, via WebSearch snippet]",
+      "sources": ["Bleeding Cool, via WebSearch snippet", "Goat Armor: Wilds Unknown, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Chip - Rescue Ranger", "set": "Into the Inklands / Wilds Unknown", "note": "Protagonist Rescue Ranger directly opposed to Nimnul's schemes"},
+    {"name": "Dale - Rescue Ranger", "set": "Into the Inklands / Wilds Unknown", "note": "Co-protagonist Rescue Ranger; Chip and Dale as a pair are Nimnul's primary foils"},
+    {"name": "Gadget Hackwrench", "set": "Into the Inklands / Wilds Unknown", "note": "Rescue Rangers gadgeteer whose inventions often counter Nimnul's devices — thematic mechanical counterpoint"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

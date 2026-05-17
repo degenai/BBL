@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/pokemon/brilliant-stars/036-172-prinplup.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-07
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://images.pokemontcg.io/swsh9/36_hires.png
 art_match_confidence: high
 needs_manual_review: false

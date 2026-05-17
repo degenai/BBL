@@ -7,7 +7,7 @@ rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 4
+quantity: 5
 held_for_lair: 0
 bundles: []
 tags_hub:
@@ -36,10 +36,10 @@ tags_filter:
   - crowd
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/40-charmed-sleep.png
 average_cost_paid: 0
-market_price: 0.07
-market_price_as_of: 2026-05-16
+market_price: 0.06
+market_price_as_of: 2026-05-17
 date_added: 2026-05-06
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/f/1/f1f97d9e-650b-4b69-8733-d80c8e0f723f.png?1572489844
 art_match_confidence: high
 needs_manual_review: false

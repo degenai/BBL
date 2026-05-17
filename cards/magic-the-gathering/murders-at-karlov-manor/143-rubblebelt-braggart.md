@@ -31,9 +31,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/143-rubblebelt-braggart.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/f/9/f90f8691-210a-4bf0-9fc2-fb2efcf057fb.png?1706241918
 art_match_confidence: high
 needs_manual_review: false

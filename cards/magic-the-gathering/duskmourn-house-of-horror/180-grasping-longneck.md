@@ -36,9 +36,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/180-grasping-longneck.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-11
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/7/f/7fddcd48-3efe-4b56-9d69-9659b3dc6021.png?1726286534
 art_match_confidence: high
 needs_manual_review: false

@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/188-knight-of-the-last-breath.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-13
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/7/6/76fccf60-2df5-4c14-893f-41d3f86c545f.png?1584831647
 art_match_confidence: high
 needs_manual_review: false

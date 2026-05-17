@@ -1,0 +1,71 @@
+{
+  "edge_id": "wave105-e1-mitsuhiro-arita-artist-node-proposal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "shared-artist-thematic",
+  "node_type": "artist",
+  "node_path": "cards/_artists/mitsuhiro-arita.md",
+  "node_slug": "mitsuhiro-arita",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/steam-siege/92-rufflet.md", "name": "Rufflet (Steam Siege)"},
+    {"type": "card", "path": "cards/pokemon/evolutions/35-108-pikachu.md", "name": "Pikachu (Evolutions, Base Set tribute reprint)"},
+    {"type": "card", "path": "cards/pokemon/evolutions/33-108-magikarp.md", "name": "Magikarp (Evolutions, Base Set tribute reprint)"},
+    {"type": "card", "path": "cards/pokemon/evolutions/57-108-machop.md", "name": "Machop (Evolutions, Base Set tribute reprint)"},
+    {"type": "card", "path": "cards/pokemon/fusion-strike/036-264-victini.md", "name": "Victini (Fusion Strike)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/078-192-galarian-corsola.md", "name": "Galarian Corsola (Rebel Clash)"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/106-192-carkol.md", "name": "Carkol (Rebel Clash)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/012-189-dartrix.md", "name": "Dartrix (Darkness Ablaze)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/012-189-dartrix--reverse-holofoil.md", "name": "Dartrix reverse-holofoil (Darkness Ablaze)"},
+    {"type": "card", "path": "cards/pokemon/chilling-reign/042-198-drizzile.md", "name": "Drizzile (Chilling Reign)"}
+  ],
+  "description": "Sir, please forgive Mr. Nodeley for stepping in front of Edgelord's clean Rufflet-Braviary mirror. The Rufflet trivia bullet that just landed names Mitsuhiro Arita with canonical citations (GamesRadar+ interview, Bleeding Cool spotlight) — 800+ TCG cards since the 1996 Base Set, original Base Set Charizard that sold for $1.7 million in March 2026, the most valuable Pokemon TCG card ever. Mr. Nodeley counted ten corpus prints credited to him, which is well above the Sakuma five-credit threshold and one off the Himeno six-unambiguous and kirisAki seven thresholds. With Sugimori and Himeno already nodes, leaving Arita orphaned would be a structural gap, sir. Three of the ten prints are Evolutions Base Set tribute reprints preserving Arita's original 1999 illustrations (Pikachu, Magikarp, Machop), which adds a foundational-author register parallel to the Sugimori Evolutions thread. Mr. Nodeley hopes this helps and will leave the Rufflet-Braviary 1:1 mirror for the next Edgelord pass, where it will land cleanly with both cards now routing through this node.",
+  "citations": [
+    "[Bulbapedia: Mitsuhiro Arita]",
+    "[GamesRadar+: Mitsuhiro Arita interview]",
+    "[Bleeding Cool: Mitsuhiro Arita spotlight]",
+    "[PokemonTCG.io API per-card pages]",
+    "cards/pokemon/steam-siege/92-rufflet.md (wave 105 trivia)"
+  ],
+  "files_modified": [
+    "cards/_artists/mitsuhiro-arita.md"
+  ],
+  "files_not_modified_intentionally": [
+    "all ten card MDs — frontmatter already stamps artist: Mitsuhiro Arita; parallel to Sugimori/Himeno/kirisAki precedent where card-side artist field is the source and the artist node's appears_on is the destination; no card-side edits needed for the node creation"
+  ],
+  "potion_rule_check": {
+    "canonical_evidence_cited": true,
+    "evidence_type": "Wizards-equivalent canonical sources (Bulbapedia contributor page + interview + spotlight) + corpus-internal trivia anchor + PokemonTCG.io API artist credit",
+    "bbl_squinting_disclaimed": "Node body cites bundle-anchor potential as curatorial-overlay opportunity in the bundle-anchor section, not as Arita's stated artistic thesis. The 'foundational-illustrator' and 'franchise-tenure' claims are anchored on documented career data (1996 Base Set start, 800+ card count, Charizard auction price), not on BBL squinting."
+  },
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    {
+      "candidate": "Rufflet ↔ Braviary 1:1 evolution-line mirror (carryover from wave 104)",
+      "verdict": "deferred",
+      "reason": "Clean Edgelord-default mirror that would have shipped this pass, but the Arita node case is structurally overdetermined (10 corpus credits, canonical foundational-illustrator citation) and dwarfs the mirror in graph leverage. The mirror is now drawable in a future Edgelord pass with both cards routing through the new Arita node — the mirror becomes a card-side narrative edge underneath the artist-layer anchor, which is the correct structural ordering."
+    },
+    {
+      "candidate": "Vivien Reid character-node from Vivien's Arkbow (WAR-181)",
+      "verdict": "below-threshold",
+      "reason": "Single-anchor candidate. Need 2+ Vivien-touching prints in corpus to clear the character-node threshold. Future-watch only."
+    },
+    {
+      "candidate": "eld-fairy-tale-homages broader cohort node (carryover from wave 104 Bartered Cow note)",
+      "verdict": "needs-corpus-scan-first",
+      "reason": "Did not scan ELD corpus this pass for non-Cinderella fairy-tale members; the Arita case was overdetermined and consumed the pass. Stage for a dedicated ELD-fairy-tale scan in a future Nodeley pass."
+    },
+    {
+      "candidate": "Zubat art-tension nocturnal-creature lair anchor",
+      "verdict": "not-structural",
+      "reason": "Flavor anchor for future bundle copy, not graph-structural. Stay parked in trivia where it is."
+    }
+  ],
+  "next_pass_suggestions": [
+    "Rufflet ↔ Braviary 1:1 evolution-line mirror — Edgelord pass; both cards now route through mitsuhiro-arita artist node alongside whatever Pokemon-character-line evolution edge gets drawn between them. Clean Edgelord-default move, satisfied mood available.",
+    "Possible Braviary character node — only if Braviary appears in 2+ corpus prints. Single-print as of this writing; check first.",
+    "ELD non-Cinderella fairy-tale cohort scan — grep ELD corpus for Wicked Guardian / Belle of the Brawl / Wishful Merfolk / Faerie Guidemother / Kenrith's Transformation / Bartered Cow; if 3+ present, eld-fairy-tale-homages hub or symbol node case may be ready.",
+    "Vivien Reid character node — future-watch; needs second corpus print to clear threshold.",
+    "Arita node rigor audit — per wave-52 rule, periodically audit artist nodes against rigor checklist (anchor-count drift, canonical sourcing, YAML safety, wikilink validity). Note: kagemaru-himeno.md has a pre-existing wave-92.5 YAML violation on line 25 (`prinplup\\n  - pokemon/vivid-voltage/023-185-charmanderrelated_hubs: []` — missing newline before related_hubs:); flag for janitor triage but not this pass's scope.",
+    "Janitor triage entry candidate: kagemaru-himeno.md YAML violation (line 25 appears_on/related_hubs merge bug)."
+  ]
+}

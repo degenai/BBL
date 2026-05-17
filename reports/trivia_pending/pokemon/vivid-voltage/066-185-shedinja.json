@@ -1,0 +1,47 @@
+{
+  "card_name": "Shedinja",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "066/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure is canonical Shedinja (National Pokedex no. 292): hollow cicada exoskeleton with golden halo ring, brown/tan coloration, split back. Confirmed via PokemonTCG.io API (card ID swsh4-66) and Pokemon.com TCG card database. Shedinja is a first-party Nintendo/Game Freak/Pokemon Company IP character. No external IP crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Shedinja (National Pokedex no. 292) is a Bug/Ghost-type introduced in Pokemon Ruby and Sapphire (2002, Generation III). It does not evolve in the conventional sense: when a Nincada evolves into Ninjask at level 20, if the trainer has a spare slot in their party and a spare Poke Ball in their bag, a Shedinja spontaneously appears — the shed exoskeleton animated as a separate creature. Its design draws on the Japanese ninjutsu concept of 空蝉 (utsusemi), a decoy technique named after the shed husk of a cicada. [Wikipedia: Shedinja, via WebSearch snippet; PokemonTCG.io API swsh4-66]",
+      "sources": ["Wikipedia: Shedinja, via WebSearch snippet", "PokemonTCG.io API: swsh4-66"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Shedinja has a permanent HP stat of 1 at every level — a hardcoded exception in the games' programming. Its signature ability Wonder Guard (video games) makes it immune to all moves that are not super-effective, meaning only five types can damage it (Fire, Flying, Rock, Ghost, Dark). The Vivid Voltage TCG card reinterprets this as the Ability \"Shell Survival\": Shedinja can only enter play via Ninjask's \"Cast-Off Shell\" Ability, and cannot be placed face-down as a starting Active or Bench Pokemon. [PokemonTCG.io API: swsh4-66; Pokemon.com TCG card database swsh4/66]",
+      "sources": ["PokemonTCG.io API: swsh4-66", "Pokemon.com TCG card database: swsh4/66"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"A most peculiar Pokemon that somehow appears in a Poke Ball when a Nincada evolves.\" — flavor text, Shedinja (Vivid Voltage, card 066/185). [PokemonTCG.io API: swsh4-66]",
+      "sources": ["PokemonTCG.io API: swsh4-66"]
+    },
+    {
+      "category": "design",
+      "text": "The Vivid Voltage printing (card 066/185) is illustrated by Tomokazu Komiya. Fans and press noted a disturbing Easter egg in the card art: a shadowy figure with X-eyes is visible in the background, appearing to be dead or incapacitated — a direct visual callback to Shedinja's Pokedex lore that it steals the souls of anyone who peers into the hole in its back. The discovery was publicized by content creator LunarLugia of PokeGuardian during a live Twitch opening and covered by ComicBook.com and Dexerto in November 2020. [ComicBook.com: \"Pokemon Card Contains Disturbing Easter Egg\", Nov 2020; Dexerto: \"Pokemon community discovers disturbing easter egg\"; WebSearch snippet]",
+      "sources": ["ComicBook.com: Pokemon Card Contains Disturbing Easter Egg (Nov 2020), via WebSearch snippet", "Dexerto: Pokemon community discovers disturbing easter egg in Vivid Voltage card, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Vivid Voltage (set code SWSH4, regulation mark D) released November 13, 2020 as the fourth main expansion of the Sword and Shield series. The set introduced Amazing Rare cards — a new rarity tier featuring Legendary and Mythical Pokemon with rainbow-extending foil backgrounds. Shedinja appears as a Rare (not Amazing Rare), noted in press previews as one of the fan-favorite returning Pokemon alongside Galar-native additions. The set's total print run spans 185 cards (plus 18 secret rares, 203 total). [PokemonTCG.io API: swsh4-66; WebSearch: Vivid Voltage set overview pokeguardian.com]",
+      "sources": ["PokemonTCG.io API: swsh4-66", "WebSearch: pokeguardian.com Vivid Voltage reveal article"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ninjask", "set": "Vivid Voltage", "note": "Ninjask's Cast-Off Shell Ability is the only legal way to put this Shedinja into play per the card's oracle text"},
+    {"name": "Nincada", "set": "various", "note": "Pre-evolution that spawns both Ninjask and Shedinja simultaneously on evolution — the unique mechanic that defines Shedinja's existence"},
+    {"name": "Shedinja (Hidden Fates)", "set": "Hidden Fates", "note": "Earlier Shedinja printing; comparison for art evolution across sets"},
+    {"name": "Shedinja GX or similar", "set": "various", "note": "Higher-rarity Shedinja variants for the same character across the TCG history"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

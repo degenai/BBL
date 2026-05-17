@@ -36,9 +36,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/129-careless-celebrant.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-05
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'

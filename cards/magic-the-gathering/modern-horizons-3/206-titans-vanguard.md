@@ -35,10 +35,10 @@ tags_filter:
   - no-color
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/206-titans-vanguard.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-16
+market_price: 0.2
+market_price_as_of: 2026-05-17
 date_added: 2026-05-11
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/f/b/fb3ea14e-44ac-4f69-bfea-cb6bf1bfbd74.png?1717012866
 art_match_confidence: high
 needs_manual_review: false

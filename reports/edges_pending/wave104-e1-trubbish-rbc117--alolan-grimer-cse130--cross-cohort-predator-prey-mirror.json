@@ -1,0 +1,90 @@
+{
+  "edge_id": "wave104-e1-trubbish-rbc117--alolan-grimer-cse130--cross-cohort-predator-prey-mirror",
+  "wave": 104,
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "story-spotlight",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/pokemon/rebel-clash/117-192-trubbish.md",
+      "name": "Trubbish (Rebel Clash, RBC-117)"
+    },
+    {
+      "type": "card",
+      "path": "cards/pokemon/cosmic-eclipse/130-236-alolan-grimer.md",
+      "name": "Alolan Grimer (Cosmic Eclipse, CSE-130)"
+    }
+  ],
+  "description": "Cross-cohort canonical-event ecological-interaction edge. Alolan Grimer preys on Trubbish in Alola per Bulbapedia per-species Pokedex documentation — an unintended consequence of the Alolan government's institutional introduction of Grimer for waste-disposal labor. The two species sit at different cohort nodes (pollution-pokemon × alolan-regional-forms), the two cohort nodes already cross-reference via related_characters at the cohort scope, and this edge is the corpus's first per-card surfacing of the canonical-event at the species-interaction scope. Both selected prints are the highest-thesis-register members of their respective cohorts: Trubbish RBC-117 (HYOGONOSUKE art, shadow-forest twilight register, full pollution-substrate hub-tag carrier) and Alolan Grimer CSE-130 (Sekio art, green-yellow toxin form, the Alolan-urban-sanitation-worker flavor anchor with the cohort's clearest 'hard workers who eat a lot of trash' Pokedex statement). Edge bullet additionally lists the other-cohort-side prints (VIV-110 Trubbish; BS-83 + TU-83 Alolan Grimer) as species-identity-scope co-attestations, which is how multi-print cross-cohort edges are recorded without exploding the per-card connection-count.",
+  "citations": [
+    "[Bulbapedia: Trubbish (Pokemon) — Game data / Pokedex entries section]",
+    "[Bulbapedia: Grimer (Pokemon) — Alolan Form section]",
+    "[PokemonTCG.io: swsh2-117 flavorText field]",
+    "[PokemonTCG.io: sm12-130 flavorText field]",
+    "[PokemonTCG.io: sm3-83 + sm9-83 flavorText fields — secondary Alolan Grimer print co-attestations]",
+    "[cards/_characters/pollution-pokemon.md — Caveats section documents the predator-prey relationship as canonical-event at the per-species ecological-interaction level and explicitly anticipates this per-card edge]",
+    "[cards/pokemon/team-up/83-alolan-grimer.md — Trivia bullet 'Lore note' names the predator-prey relationship with Trubbish AND Garbodor verbatim, secondary in-corpus attestation]",
+    "[cards/pokemon/cosmic-eclipse/130-236-alolan-grimer.md — Trivia bullet 'Ecological contrast' names the predator-prey relationship with Trubbish, primary in-corpus attestation]"
+  ],
+  "files_modified": [
+    "cards/pokemon/rebel-clash/117-192-trubbish.md",
+    "cards/pokemon/cosmic-eclipse/130-236-alolan-grimer.md"
+  ],
+  "potion_rule_check": {
+    "canonical_event": "Bulbapedia per-species Pokedex documentation of the predator-prey relationship; primary published canon, not BBL curatorial overlay",
+    "curatorial_overlay": "None applied at the edge-bullet scope; the bullet states the canonical-event and names the cohort context (which itself rests on designer-stated Sugimori/Unno citation per pollution-pokemon node + Game Freak Alola regional-program citation per alolan-regional-forms node)",
+    "potion_rule_pass": true
+  },
+  "edgelord_mood": "sighed-but-mirrored",
+  "edgelord_voice_note": "Two endpoints, both trivia-aware, edge documented in three places before I even got there (CSE-130 Trivia bullet, TU-83 Trivia bullet, pollution-pokemon cohort node Caveats section). The discipline noticed the gap and pre-blessed it; my job was to surface it as an edge instead of leaving it as scattered prose. Cross-cohort canonical-event traversal: clean. Mirror-mandatory; sigh acknowledged. Comic Book Guy assessment: best ecological-interaction predator-prey edge I'll write this month. The Pokedex named it; Game Freak's design coordination put two cohorts on a collision course fourteen years apart; I just connected the dots Bulbapedia was already showing me.",
+  "other_candidates_considered": [
+    {
+      "candidate": "Bartered Cow (ELD-6) attach to eld-cinderella-cycle character node",
+      "verdict": "refused",
+      "reason": "The eld-cinderella-cycle node body explicitly bounds its roster to Rosewater-named Cinderella-specific homages, and the Caveats section names a future broader eld-fairy-tale-homages hub as the proper home for non-Cinderella ELD fairy-tale homage cards. Bartered Cow reads as Jack-and-the-Beanstalk (beans exchanged, glowing animal, child-figure with rope lead), not Cinderella. Attaching it to the Cinderella node would violate the node's stated scoping principle and contaminate the Rosewater-named-strict-roster discipline. Future Mr. Nodeley wave should commission eld-fairy-tale-homages when 3+ non-Cinderella ELD fairy-tale homage cards are enriched in corpus (current count is approximately 2-3 candidates: Bartered Cow + Bake into a Pie + Charmed Sleep + Glass Casket + Gingerbread Cabin if any of those are in BBL corpus; needs scan)."
+    },
+    {
+      "candidate": "Takao Unno artist node commission",
+      "verdict": "refused",
+      "reason": "Takao Unno is the Game Freak species-designer named in the design-source citations for both Braviary and Trubbish/Garbodor — he is NOT the TCG illustrator on either card. Braviary SV8-153 is illustrated by Anesaki Dynamic; Garbodor RBC-118 is illustrated by AKIRA EGAWA. Zero corpus illustration credits for Unno. Artist-node commission threshold is corpus illustration credits, not species-design citation count. The Unno mention in Braviary and Garbodor trivia is correct (he designed both species) but it does not warrant an artist-node — species designers are a different layer than TCG illustrators."
+    },
+    {
+      "candidate": "Rufflet ↔ Braviary 1:1 evolution mirror",
+      "verdict": "deferred",
+      "reason": "Rufflet trivia not yet completed (vision-pass done wave 104, trivia pending). The mirror is canonically clean and will land in a future wave after Rufflet trivia-pass; premature to draw the edge unilaterally now."
+    },
+    {
+      "candidate": "MEIKO CV-series body-text correction in project-diva-f-vocaloid-roster node",
+      "verdict": "logged-as-janitor-not-structural",
+      "reason": "The node body line 50 says MEIKO is 'pre-CV-series, original Yamaha Vocaloid engine' and the roster table line 84 echoes 'Crypton, original Yamaha Vocaloid engine'. The MEIKO PD/S22-E056 card trivia (wave 104) precisely says MEIKO debuted on VOCALOID 1 engine (November 5, 2004), and the CV-series numbering only applies to VOCALOID-2-era Crypton releases from 2007 onward. The node body's 'pre-CV-series' framing is structurally correct (MEIKO IS pre-CV-series); the 'Yamaha Vocaloid engine' phrasing is loose-but-not-wrong (VOCALOID is Yamaha's engine). The substantive inaccuracy is at the version-designation precision level: 'VOCALOID 1' is the canonical version designation, not 'Yamaha Vocaloid engine' as a general phrase. This is a body-text precision fix worth logging to janitor_triage, not a structural decision warranting a wave-104 standalone edge/node/dissolution vote. Recommend: append janitor entry 'pollute precision: project-diva-f-vocaloid-roster body MEIKO CV-line description should say VOCALOID 1 engine, not generic Yamaha Vocaloid engine' for batch cleanup."
+    },
+    {
+      "candidate": "Cross-cohort edge fan-out to all 6 prints (2 Trubbish prints × 3 Alolan Grimer prints)",
+      "verdict": "captured in single-edge connection-bullet, not exploded into 6 separate 1:1 edges",
+      "reason": "The canonical-event predator-prey relationship is species-level, not print-level. Drawing 6 separate 1:1 print-to-print edges would be redundant — the same canonical-event surfaces in every pair. Edgelord protocol is one edge per invocation; canonical solution is to draw the highest-thesis-register pair (RBC-117 × CSE-130, both fully trivia-passed and the cohorts' most-relevant prints) as the primary edge and list the secondary prints as species-identity-scope co-attestations in the bullet body. Future cards in either species line attach to the cohort nodes directly; the cross-cohort edge does not need to be replicated for every print-pair."
+    }
+  ],
+  "next_pass_suggestions": [
+    {
+      "suggestion": "Rufflet ↔ Braviary 1:1 evolution mirror once Rufflet trivia-pass lands",
+      "trigger": "Rufflet trivia-pass completion (vision-passed wave 104; trivia queue position TBD)"
+    },
+    {
+      "suggestion": "eld-fairy-tale-homages broader-cohort node commission (Mr. Nodeley wave)",
+      "trigger": "3+ non-Cinderella ELD fairy-tale homage cards trivia-passed in corpus (current count: Bartered Cow wave 104 vision-passed; needs corpus scan to count Bake into a Pie, Charmed Sleep, Glass Casket, Gingerbread Cabin, Smitten Swordmaster, Witch's Oven, Blow Your House Down, etc. and tally how many are enriched)"
+    },
+    {
+      "suggestion": "Trubbish VIV-110 → Alolan Grimer (any) secondary mirror, OR Garbodor RBC-118 → Alolan Grimer (any) third predator-prey mirror at the species-identity scope",
+      "trigger": "Either: a Discrete Lair commissioning the pollution-pokemon × alolan-regional-forms cross-cohort thesis as anchor needs richer per-card edge density to surface the canonical-event across more bundle-internal pairings; OR a janitor pass enriching the remaining Alolan Grimer trivia (BS-83 currently has no trivia, would benefit from the lore-note relationship statement). Note: TU-83 trivia already names the relationship with both Trubbish AND Garbodor verbatim, so a Garbodor RBC-118 → TU-83 mirror is the cleanest version of the Garbodor-side edge if/when commissioned."
+    },
+    {
+      "suggestion": "Janitor-triage entry: project-diva-f-vocaloid-roster node body MEIKO precision-fix — 'Yamaha Vocaloid engine' → 'VOCALOID 1 engine'",
+      "trigger": "Next janitor batch pass; lightweight, cite MEIKO PD/S22-E056 CVS-clarification trivia bullet as source"
+    },
+    {
+      "suggestion": "Edgelord audit pass: verify whether any prior Edgelord waves drew thin Pokemon predator-prey-flavored edges that should now be subsumed by this canonical-event edge template (i.e. flavor-text-shared predator-prey vs designer-stated species-interaction)",
+      "trigger": "Rigor-check sub-task within a future wave; lightweight"
+    }
+  ]
+}

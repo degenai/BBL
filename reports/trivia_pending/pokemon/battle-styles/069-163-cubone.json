@@ -1,0 +1,46 @@
+{
+  "card_name": "Cubone",
+  "game": "Pokemon",
+  "set": "Battle Styles",
+  "collector_number": "069/163",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via PokemonTCG.io API (swsh5-69). National Pokedex no. 104. Artist: You Iribi. Visual match unambiguous — skull-masked brown creature with bone. Pokemon Company internal IP, no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Common from Sword & Shield Battle Styles (swsh5), released March 19, 2021. Battle Styles introduced Single Strike and Rapid Strike mechanics. Set print total: 163 main cards (183 with secret rares). Regulation mark E.",
+      "sources": ["PokemonTCG.io API: swsh5-69"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Basic Fighting-type, 70 HP, evolves to Marowak. Attacks: Beat (Fighting, 10) and Headbutt (Fighting + Colorless, 30). Grass weakness. Single Colorless retreat. Artist: You Iribi.",
+      "sources": ["PokemonTCG.io API: swsh5-69"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It wears its mother's skull on its head, so no one knows what its bare face looks like. However, it's clear that it's always crying.\" — Cubone is the Lonely Pokemon (National Pokedex no. 104). On full moon nights the skull vibrates and emits a mournful sound. Evolution into Marowak occurs when it comes to terms with grief; the skull then fuses to its head.",
+      "sources": ["PokemonTCG.io API: swsh5-69 (flavor text)", "Bulbapedia: Cubone, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Lore paradox: Cubone eggs hatch with the skull already in place, creating an unresolved continuity loop despite Pokedex entries stating it wears its dead mother's skull.",
+      "sources": ["Bulbapedia: Cubone; Quora discussion, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Functions as an evolution setup piece for Marowak lines. Unremarkable competitively as a standalone attacker; its emotional lore resonance far outweighs its competitive utility.",
+      "sources": ["PokemonTCG.io API: swsh5-69"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Marowak", "set": "Multiple sets", "note": "Direct evolution from Cubone; shares skull and bone iconography"},
+    {"name": "Marowak (Alolan)", "set": "Multiple sets", "note": "Regional alternate form; Fire/Ghost type; Alolan lore holds the bone is still its mother's"},
+    {"name": "Cubone", "set": "Other sets", "note": "Reprinted across multiple TCG generations; Battle Styles is the Sword & Shield era E-mark print"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

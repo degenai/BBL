@@ -37,9 +37,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/cross-worlds/bt3-014-hidden-power-uub.png
 average_cost_paid: 0
 market_price: 0.01
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-05
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401005186/7D90B1F94AF3726F2B2D3C96EAE12B6979F44BF2/
 art_match_confidence: high
 needs_manual_review: false

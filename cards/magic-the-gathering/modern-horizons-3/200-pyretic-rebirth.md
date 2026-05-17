@@ -36,9 +36,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/200-pyretic-rebirth.png
 average_cost_paid: 0
 market_price: 0.14
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-11
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/5/9/5968f641-48b5-4b97-8072-ddd8073cd4d7.png?1717012814
 art_match_confidence: high
 needs_manual_review: false

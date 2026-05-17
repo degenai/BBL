@@ -1,0 +1,42 @@
+{
+  "card_name": "Bellsprout",
+  "game": "Pokemon",
+  "set": "Battle Styles",
+  "collector_number": "001/163",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is the Pokemon's name. Bellsprout is Pokemon no. 069 in the National Pokedex, introduced in Generation I (Kanto). Internal Game Freak / Nintendo / The Pokemon Company IP — no external crossover risk. ip_verified set to true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Bellsprout is the first card in the Battle Styles set — card no. 001/163 — making it the opening Grass-type common in this SWSH05 expansion. In Pokemon TCG card numbering, Grass-types typically lead the ordering because Grass is the first type in the game's elemental hierarchy. Being card 001 of a 163-card set means Bellsprout is the first card collectors encounter opening packs from this wave.",
+      "sources": ["Pokemon.com TCG Card Database: Battle Styles 001", "PkmnCards: Bellsprout BST 001"]
+    },
+    {
+      "category": "design",
+      "text": "Bellsprout is National Pokedex no. 069, a Grass/Poison-type introduced in Generation I (Red and Blue, 1996/1998). It is the first stage of a three-part evolution line: Bellsprout → Weepinbell (level 21) → Victreebel (Leaf Stone). Its flavor text references a real-world folk belief: mandrake roots (Mandragora officinarum) were traditionally thought to resemble human faces and scream when pulled from the ground. The card's flavor text reads: 'Its bud looks like a human face. Because of the bud, it is rumored to be a type of legendary mandrake plant.' This mythological grounding is consistent across multiple Pokedex entries for the species.",
+      "sources": ["Bulbapedia: Bellsprout (via WebSearch)", "Card frontmatter: flavor_text"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Its bud looks like a human face. Because of the bud, it is rumored to be a type of legendary mandrake plant.\" The mandrake plant (Mandragora) has appeared in folklore from ancient Greece through medieval herbalism; its anthropomorphic root was believed to shriek when uprooted, a legend preserved in Harry Potter (Mandrake), Pan's Labyrinth (Mandrake root), and here — Bellsprout as a folkloric plant-creature. No speaker is credited, per standard Pokemon TCG flavor text format.",
+      "sources": ["Card frontmatter: flavor_text", "WebSearch: Bulbapedia Bellsprout"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Bellsprout (BST 001) is a Grass-type Basic Pokemon, 50 HP, Common. Attack: Venoshock (Colorless) — 10+, deals 40 more damage if the opponent's Active Pokemon is Poisoned. Venoshock is drawn from the Generation V move (introduced in Black and White), which deals double damage when the target is poisoned. In the main-series games, Bellsprout cannot learn Venoshock by level-up — it requires a TM — making the TCG attack a mechanical borrowing rather than a class-natural ability. Illustrated by Sekio, who has been an active Pokemon TCG illustrator since the Guardians Rising set and has approximately 73 card credits.",
+      "sources": ["Card frontmatter: oracle_text, artist", "Pokemon.com TCG Database: BST 001", "WebSearch: PkmnCards Sekio artist page", "Bulbapedia: Venoshock move"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Weepinbell (various)", "set": "Various", "note": "Bellsprout's Level 21 evolution; same evolutionary line"},
+    {"name": "Victreebel (various)", "set": "Various", "note": "Leaf Stone evolution from Weepinbell; final stage of the Bellsprout line"},
+    {"name": "Bellsprout (Base Set 2, no. 49)", "set": "Base Set 2", "note": "Original Base Set / BS2 printing from Generation I era — the first Bellsprout TCG card"},
+    {"name": "Exeggutor (various)", "set": "Various", "note": "Another plant-type with mythological/folkloric roots in the TCG and Pokedex lore"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Bellsprout",
+    "ip_confidence": "high"
+  }
+}

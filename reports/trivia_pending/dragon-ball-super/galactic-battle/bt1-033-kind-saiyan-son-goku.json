@@ -1,0 +1,36 @@
+{
+  "card_name": "Kind Saiyan Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-033",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Son Goku is the central protagonist of the Dragon Ball franchise (Akira Toriyama / Toei Animation). The card's own title includes 'Son Goku' as a named character. The Vision section confirms the orange gi, spiky black hair, and friendly saluting pose — all canonical visual signatures of Son Goku. IP is internal to the Dragon Ball / Bandai franchise, not an external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Galactic Battle (BT1) is the inaugural main booster set of the Dragon Ball Super Card Game, released July 28, 2017 in Japan and internationally. The set contains 114 cards (60 Common, 30 Uncommon, 12 Rare, 8 Super Rare, 4 Special Rare) and launched the game's Blue/Red/Green/Yellow color system. BT1-033 is a Common Blue-color Battle card. [WebSearch snippet: TCDB Galactic Battle, dbs-cardgame.com card list]",
+      "sources": ["WebSearch snippet: TCDB Galactic Battle 2017", "WebSearch snippet: dbs-cardgame.com BT1-033 card list"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT1-033 Kind Saiyan Son Goku is a Blue-color Battle card with 5000 Power and an energy cost of 1. Its skill allows the player to look at up to 7 cards from the top of their deck, add up to 1 Blue Son Goku card to hand, then shuffle. As a 1-cost searcher for Son Goku cards, it serves as an early-game setup piece in Blue Son Goku decks — a role consistent with the card's 'kind' flavoring (helping rather than fighting). [WebSearch snippet: dbs-cardgame.com card list BT1-033, TrollAndToad listing]",
+      "sources": ["WebSearch snippet: dbs-cardgame.com BT1-033", "WebSearch snippet: TrollAndToad Kind Saiyan Son Goku"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Son Goku is the central character of Dragon Ball Super, the 2015 manga and anime sequel to Dragon Ball Z. Created by Akira Toriyama, Goku's defining traits — his orange gi, spiky black hair, and cheerful demeanor even in combat — have been visually consistent across decades of media. The 'Kind Saiyan' title emphasizes the canonical paradox of Goku: a warrior race survivor whose strength is matched by naivete and goodwill. [Wikipedia: Dragon Ball Super, via WebSearch]",
+      "sources": ["WebSearch snippet: Wikipedia Dragon Ball Super", "WebSearch snippet: dbs-cardgame.com strategy articles"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Son Goku // Super Saiyan Blue Son Goku (BT1-030)", "set": "Galactic Battle", "note": "Leader card in the same set; depicts Goku's Blue transformation — the power ceiling BT1-033 searches toward"},
+    {"name": "God Break Son Goku (BT1-031)", "set": "Galactic Battle", "note": "Special Rare in the same set; another Goku card in the inaugural set's chase tier"},
+    {"name": "Starter Deck: The Awakening (SD1)", "set": "DBS-SD1", "note": "The launch starter deck released alongside Galactic Battle; both products debuted the game's Blue Goku archetype"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

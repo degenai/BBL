@@ -10,14 +10,32 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - undead
+  - army
+  - march
+  - zombie
+  - soldier
+  - formation
+  - corridor
+  - advance
+  - blue-light
+  - military
+  - discipline
+  - unstoppable
+tags_filter:
+  - group
+  - wide
+  - forward-facing
+  - scene-mode
+  - blue-magic
+  - sorcery
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/64-relentless-advance.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-16
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/4/2/4258e242-91c6-4b30-86ec-7759705aa97c.png?1557576292
 art_match_confidence: high
 needs_manual_review: false
@@ -30,7 +48,30 @@ image_width: 745
 image_height: 1040
 image_quality: high
 mana_cost: "{3}{U}"
+mood: grim
+time_of_day: indeterminate
+setting: dungeon
 tags:
   - card
 ---
 # Relentless Advance (War of the Spark)
+
+## Vision
+
+![64-relentless-advance](../../_images/magic-the-gathering/war-of-the-spark/64-relentless-advance.png)
+
+Three figures in matching dark armor march in tight formation down a long stone corridor bathed in cold blue-white light. The central figure strides directly forward; flanking figures hold weapons — a curved scythe-like blade on the left and a long spear on the right. The armor has Egyptian-influenced styling with angular shoulder pieces and glowing blue energy at the chest. Scattered pale petals or debris drift across the wet stone floor. The corridor recedes into a bright vanishing point behind them, emphasizing inexorable forward momentum. The atmosphere is cold, mechanical, and military.
+
+**Subject:** Three armored undead-soldier figures advancing in formation down a stone corridor
+
+**Composition:** wide, action, figures: group, facing: forward
+**Setting:** dungeon, indeterminate
+**Foreground:** Three armored soldier figures in formation, central figure unarmed, flankers carrying scythe-blade and spear  *(palette: dark-blue, steel-grey, gold, blue-white)*
+**Background:** Stone corridor receding to bright white vanishing point, blue ambient light  *(palette: pale-blue, white, grey)*
+**Mood / lighting:** grim, backlit
+**Emotion read:** relentless, emotionless — mechanical forward march with no hesitation
+**Objects:** scythe-blade, spear, stone corridor
+**Creatures:** undead-soldier, zombie-army
+**Iconography:** glowing-chest-emblem
+**Genre cues:** fantasy, dark-fantasy
+

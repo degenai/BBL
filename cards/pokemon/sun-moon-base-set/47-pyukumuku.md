@@ -30,17 +30,16 @@ tags_filter:
   - basic-pokemon
 reference_image: cards/_images/pokemon/sun-moon-base-set/47-pyukumuku.png
 average_cost_paid: 0
-market_price: 0.23
-market_price_as_of: 2026-05-16
+market_price: 0.22
+market_price_as_of: 2026-05-17
 date_added: 2026-05-05
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://images.pokemontcg.io/sm1/47_hires.png
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via pokemontcg for set 'Sun & Moon Base Set'
 flavor_text: It lives in shallow seas, such as areas near a beach. It can eject its internal organs, which it uses to engulf its prey or battle enemies.
-oracle_text: "[Ability: Innards Out] If this Pokémon is your Active Pokémon and is Knocked Out by damage from an opponent's attack, put 6 damage counters on the Attacking Pokémon."
-Continuous Tumble (Water) 30×: Flip a coin until you get tails. This attack does 30 damage for each heads.
+oracle_text: "[Ability: Innards Out] If this Pokémon is your Active Pokémon and is Knocked Out by damage from an opponent's attack, put 6 damage counters on the Attacking Pokémon.\nContinuous Tumble (Water) 30×: Flip a coin until you get tails. This attack does 30 damage for each heads."
 review_good: false
 review_bad: false
 review_notes: ""

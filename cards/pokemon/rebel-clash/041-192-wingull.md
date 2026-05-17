@@ -36,16 +36,15 @@ tags_filter:
 reference_image: cards/_images/pokemon/rebel-clash/041-192-wingull.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-08
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://images.pokemontcg.io/swsh2/41_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: 0313
 flavor_text: It makes its nest on sheer cliffs. Riding the sea breeze, it glides up into the expansive skies.
-oracle_text: "Collect (Colorless): Draw a card."
-Wave Splash (WaterColorless) 20
+oracle_text: "Collect (Colorless): Draw a card.\nWave Splash (WaterColorless) 20"
 mood: peaceful
 time_of_day: day
 setting: ocean

@@ -29,10 +29,10 @@ tags_filter:
   - creature-bond
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/182-wildborn-preserver.png
 average_cost_paid: 0
-market_price: 0.28
-market_price_as_of: 2026-05-16
+market_price: 0.29
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/5/5/55f76830-369e-4224-9ded-7d1ce04c87e4.png?1572490704
 art_match_confidence: high
 needs_manual_review: false

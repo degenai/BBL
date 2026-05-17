@@ -1,0 +1,41 @@
+{
+  "card_name": "Vivien's Arkbow",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "181",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Vivien's Arkbow' — the possessive directly names Vivien Reid. Scryfall type_line is 'Legendary Artifact', consistent with the Arkbow being Vivien Reid's signature named artifact. The depicted archer matches Vivien Reid's visual identity as an archer-planeswalker confirmed across multiple Vivien Reid card printings (Vivien of the Arkbow, Vivien Reid, Vivien, Arkbow's Voice). Wizards-internal character; no external IP risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "War of the Spark (released 2019-05-03) is the climactic set of the Ravnica arc, depicting Nicol Bolas's endgame on the plane of Ravnica — his attempt to harvest the sparks of every planeswalker. Vivien Reid is among the planeswalkers who chose to remain on Ravnica after Chandra disabled the Immortal Sun, fighting alongside the Gatewatch against Bolas. [Scryfall: War of the Spark set metadata] [MTG Wiki: Vivien Reid, via WebSearch snippet]",
+      "sources": ["Scryfall", "MTG Wiki via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The Arkbow is the artifact that survived the destruction of Vivien's home plane, Skalla. When Nicol Bolas attacked Skalla, the Smaragdi (Vivien's people, forest-dwelling rangers) and the Nura combined their collective magic into the Arkbow, which contains an invocation of every creature that ever lived on Skalla. As the plane burned, Vivien's spark ignited, planeswalking her and the Arkbow to safety. The card art depicts those creature-medallion silhouettes — each glowing disc represents a species preserved inside the bow. [MTG Wiki: Vivien Reid, via WebSearch snippet]",
+      "sources": ["MTG Wiki via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "The card has no printed flavor text [Scryfall]. It is a Legendary Artifact (not an Equipment), mechanically representing the bow as a standalone summoning device rather than an attached weapon. Art is by Zack Stella [Scryfall]. The card was previewed on 2019-04-01 by Alexander Hayne via Twitter [Scryfall preview metadata].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Vivien's Arkbow carries an EDHREC rank of 16090 [Scryfall EDHREC link], placing it in the long tail of Commander cards — mechanically interesting (X-cost creature cheat at instant-like timing on your turn) but outcompeted by more reliable tutor effects. Legal in Pioneer, Modern, Historic, Commander, and Legacy as of the Scryfall legalities record [Scryfall].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Vivien of the Arkbow", "set": "Core Set 2019", "note": "Vivien Reid's planeswalker card in the same set cycle; shares the Arkbow as her weapon and creature-spirit mechanic"},
+    {"name": "Vivien, Arkbow's Voice", "set": "War of the Spark", "note": "Vivien's planeswalker card in the same War of the Spark set; both cards appeared together in WAR"},
+    {"name": "Vivien Reid", "set": "Core Set 2019", "note": "Her original planeswalker card, establishes the character design Zack Stella built on"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

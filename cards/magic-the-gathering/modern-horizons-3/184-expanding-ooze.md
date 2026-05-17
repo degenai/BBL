@@ -37,10 +37,10 @@ tags_filter:
   - modified
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/184-expanding-ooze.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-16
+market_price: 0.11
+market_price_as_of: 2026-05-17
 date_added: 2026-05-11
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/b/b/bbdb095d-b826-4e3e-8c61-0d408e52d6b8.png?1717012693
 art_match_confidence: high
 needs_manual_review: false

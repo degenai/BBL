@@ -1,0 +1,47 @@
+{
+  "card_name": "Touch of the Void",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "134",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Battle for Zendikar (released October 2, 2015) was the seventy-first English Magic expansion and the first set of its two-set block. The set's narrative premise is a desperate siege: the Eldrazi titans Ulamog and Kozilek have been released from their hedron prison and are annihilating the plane of Zendikar. Touch of the Void sits at the intersection of that story and its mechanics — a red devoid sorcery that exiles rather than kills, reflecting the Eldrazi's cosmological hunger.",
+      "sources": ["Scryfall API: released_at, set_name", "Wikipedia: Battle for Zendikar"]
+    },
+    {
+      "category": "design",
+      "text": "Devoid was introduced in Battle for Zendikar as a design solution to a color-pie problem. Mark Rosewater explained (September 2015 Making Magic): 'By having devoid spells, we are allowing ourselves to make colorless spells that still stay confined within a particular color. A red devoid spell, for example, gets to do red things because it still requires you to spend red mana.' The mechanic was directly inspired by Ghostfire from Future Sight (2007), though Ghostfire represents Ugin's magic rather than Eldrazi essence. Cards with devoid received a distinctive card frame — colored mana costs over a hedron-texture background — to aid deckbuilding. The official WotC ruling clarifies this: 'The top part of the card features some color over a background based on the texture of the hedrons that once imprisoned the Eldrazi.'",
+      "sources": ["Wizards of the Coast: 'Preparing for Battle, Part 2' (2015-09-14)", "Scryfall API: rulings (2015-08-25)"]
+    },
+    {
+      "category": "design",
+      "text": "The exile-instead-of-destroy clause on Touch of the Void is a thematic design choice, not merely a mechanical one. Exile was the primary Eldrazi keyword register in BFZ — ingest exiles from library, processors consume exiled cards, and devoid spells like this one exile creatures. Wizards' own rulings note a subtle interaction: 'A creature doesn't necessarily have to be dealt lethal damage by Touch of the Void to be exiled. After being dealt damage, if it would die for any reason that turn, it'll be exiled instead.' The effect thus extends beyond damage — it tags any mortal wound as Eldrazi consumption.",
+      "sources": ["Scryfall API: rulings (2015-08-25)", "Wizards of the Coast: Battle for Zendikar design articles"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Some wounds never heal.\" Three words that do the full work of the Eldrazi as existential horror — not just death, but erasure. The card has no credited speaker, matching the Eldrazi's impersonal, non-sentient predation framing throughout the block.",
+      "sources": ["Scryfall API: flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Touch of the Void has an EDHREC rank of 26204, placing it in the long tail of Commander play. It sees stronger representation in Pauper (format legal) and Pauper EDH, where exile-based red removal at common rarity is uncommon enough to matter. The card has not been reprinted since its original BFZ printing (2015), keeping it tied exclusively to the Battle for Zendikar aesthetic.",
+      "sources": ["Scryfall API: edhrec_rank, legalities, reprint:false"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ghostfire", "set": "Future Sight", "note": "Devoid's mechanical ancestor — the first colorless card with a colored mana cost; represents Ugin's magic, not Eldrazi"},
+    {"name": "Ulamog, the Ceaseless Hunger", "set": "Battle for Zendikar", "note": "The primary Eldrazi titan in BFZ; the narrative engine that makes Touch of the Void's exile clause meaningful"},
+    {"name": "Vile Aggregate", "set": "Battle for Zendikar", "note": "Another red devoid creature from BFZ; shares the hedron-frame aesthetic and exile-synergy design space"},
+    {"name": "Ingest", "set": "Battle for Zendikar", "note": "The BFZ keyword that pairs with exile — ingest mills cards to exile, processors consume them; Touch of the Void feeds the same exile zone"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

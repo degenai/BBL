@@ -35,9 +35,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/modern-horizons/209-munitions-expert.png
 average_cost_paid: 0
 market_price: 0.41
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-07
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/a/8/a8572dfd-9da1-4727-b549-47f9b119f6ac.png?1562202379
 art_match_confidence: high
 needs_manual_review: false

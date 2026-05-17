@@ -1,0 +1,39 @@
+{
+  "edge_id": "steam-siege-rufflet--surging-sparks-braviary",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "subcategory": "pokemon-evolution-line-canonical",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "C:/Users/alexa/Desktop/Bulk Graph Bundler/cards/pokemon/steam-siege/92-rufflet.md",
+      "name": "Rufflet (Steam Siege, XY11 92)"
+    },
+    {
+      "type": "card",
+      "path": "C:/Users/alexa/Desktop/Bulk Graph Bundler/cards/pokemon/surging-sparks/153-191-braviary.md",
+      "name": "Braviary (Surging Sparks, SV8 153/191)"
+    }
+  ],
+  "description": "Worst mirror ever? No. Cleanest mirror in three waves. Rufflet (#627) evolves into Braviary (#628) at level 54 per canon, single two-stage line, both stages male-exclusive, both Takao-Unno-designed bald-eagle Americana for Unova. Two trivia-passed IP-verified endpoints. Both had pre-existing Related-cards footnotes already pointing at each other for this exact pass. Mirror sigh administered.",
+  "citations": [
+    "[PokemonTCG.io: evolvesFrom field, canonical mechanical citation for TCG evolution chains]",
+    "[Bulbapedia: Rufflet, evolution at level 54]",
+    "[Bulbapedia: Braviary, Takao Unno design + Unova/bald-eagle mapping + male-only gender exclusivity]",
+    "[PokeAPI /pokemon-species/627 and /pokemon-species/628]"
+  ],
+  "files_modified": [
+    "C:/Users/alexa/Desktop/Bulk Graph Bundler/cards/pokemon/steam-siege/92-rufflet.md",
+    "C:/Users/alexa/Desktop/Bulk Graph Bundler/cards/pokemon/surging-sparks/153-191-braviary.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "Black Bolt Rufflet (077-086) ↔ Braviary mirror — DEFERRED: Black Bolt Rufflet has vision but NO trivia and ip_verified:false. Drawing a mirror from a trivia-thin endpoint dilutes the line's canonical anchor. When Black Bolt Rufflet's trivia passes in a future wave, a second Edgelord can N:1 it onto the existing mirror, converting this dyad into a 3-card stack with Braviary as the hub-side anchor.",
+    "Vullaby/Mandibuzz counterpart-line edge — not in corpus per current ingest. Surface as a future-wave trigger if either species enters inventory: the female-only counterpart line is canonically the inverse of Rufflet/Braviary and would constitute a quadrilateral if all four nodes exist."
+  ],
+  "future_wave_triggers": [
+    "When Black Bolt Rufflet (077-086) gets trivia + IP-verify: draw N:1 from it onto Braviary, converting mirror to stack.",
+    "If Vullaby or Mandibuzz ever enters inventory: consider proposing a `unova-gendered-raptor-lines` symbol/character node anchoring all four; until then, do not."
+  ]
+}

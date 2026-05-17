@@ -1,0 +1,41 @@
+{
+  "card_name": "Stoutland",
+  "game": "Pokemon",
+  "set": "Sun & Moon Base Set",
+  "collector_number": "105",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Pokemon TCG cards are always officially licensed depictions of the named species. Card name = Stoutland; depicted creature matches Stoutland's distinctive shaggy-dog-with-mustache design. Game Freak / Nintendo IP — internal to the Pokemon TCG system. No external IP risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Stoutland is National Pokedex no. 508 — a Normal-type Stage 2 Pokemon (Lillipup → Herdier → Stoutland) introduced in Generation 5 (Unova). The Sun & Moon Base Set (SM1) was released February 3, 2017, launching the Sun & Moon series of the Pokemon TCG. [Serebii card database / PkmnCards, via WebSearch snippet]",
+      "sources": ["Serebii card database via WebSearch snippet", "PkmnCards via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (verbatim from card): \"Intelligent, good-natured, and valiant, it's a trustworthy partner on rescue teams.\" This entry describes Stoutland's canonical lore role as a mountain and sea rescue partner — a trait carried across multiple Pokedex entries. [Frontmatter flavor_text field; consistent with Pokemon.com TCG Database, via WebSearch snippet]",
+      "sources": ["Card frontmatter flavor_text", "Pokemon.com TCG Database via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Art is by Kagemaru Himeno [card frontmatter artist field], a prolific Pokemon TCG illustrator active since the Base Set era. The card is a Stage 2 Colorless-type with 150 HP. Attacks: Ferocious Bellow (CCC) — 50 damage, reduces Defending Pokemon's attacks by 50 damage next turn; Hammer In (CCCC) — 120 damage. [Serebii / PkmnCards, via WebSearch snippet]",
+      "sources": ["Card frontmatter", "Serebii via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Stoutland's design is based on a combination of a Shih Tzu and Maltese, with traits from Yorkshire and Scottish Terriers; its rescue abilities parallel real-world St. Bernards and Newfoundlands. The mustache is a canonical status marker within the species — length indicates social rank among Stoutland. [Bulbapedia: Stoutland, via WebSearch snippet]",
+      "sources": ["Bulbapedia via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Herdier", "set": "Sun & Moon Base Set or earlier sets", "note": "Middle evolution in the Lillipup line; directly feeds into Stoutland"},
+    {"name": "Lillipup", "set": "Various sets", "note": "Base evolution of the line; Stage 1 chain start"},
+    {"name": "Stoutland", "set": "Various earlier sets (BW-era)", "note": "Earlier printings of the same species; BW-era illustrators for comparison"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

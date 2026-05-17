@@ -34,10 +34,10 @@ characters:
   - dsk-toy-horror
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/242-attack-in-the-box.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-16
+market_price: 0.12
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/a/4/a477dc3e-0fa1-4ce4-b3de-8cae0d1a0763.png?1726286774
 art_match_confidence: high
 needs_manual_review: false

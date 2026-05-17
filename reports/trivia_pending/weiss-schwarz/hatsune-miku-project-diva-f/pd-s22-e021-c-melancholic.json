@@ -1,0 +1,41 @@
+{
+  "card_name": "Melancholic",
+  "game": "Weiss Schwarz",
+  "set": "Hatsune Miku -Project DIVA- f",
+  "collector_number": "PD/S22-E021 C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure is Kagamine Rin in her Melancholy module from Project DIVA f. Evidence: (1) 'Melancholic' is specifically Kagamine Rin's song by Junky (uploaded May 2012); (2) the Melancholy module in Project DIVA f is Rin's designated costume for that song, designed by Chiho-P; (3) the module's lime-green hoodie and yellow accessories match the vision pass description of 'bright green and yellow' costume; (4) card belongs to a Weiss Schwarz set directly adapting Project DIVA F modules, so all costumed characters are canonical game-module depictions. ip_confidence elevated to high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "PD/S22 is the Weiss Schwarz booster set adapting Hatsune Miku: Project DIVA F, published by Bushiroad under license from SEGA and Crypton Future Media. The English edition contains 100 card types (8 RR / 20 R / 28 U / 28 C / 16 CX) plus 44 parallel variants including SP Gold Foil signed cards from Saki Fujita (Hatsune Miku's voice actress). [Weiss Schwarz official product page: en.ws-tcg.com/products/pd-f/]",
+      "sources": ["Weiss Schwarz official product page"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'Melancholic' is the title of a Vocaloid song by producer Junky, originally uploaded May 22, 2012, performed using Kagamine Rin's voice bank. The song tells the story of a conflicted tsundere girl experiencing her first crush. It became one of the most recognizable Kagamine Rin songs in the fandom. [Vocaloid Wiki: Melancholic, via WebSearch snippet]",
+      "sources": ["Vocaloid Wiki: Melancholic, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "The card depicts Kagamine Rin wearing her 'Melancholy' module from Hatsune Miku: Project DIVA f — a lime-green hoodie with yellow accessories, black headphones with lime-green and magenta markings, and a coral pink skirt. The module was designed by Chiho-P specifically for this game and later appeared in Project DIVA Arcade Future Tone. [Project DIVA Wiki: Melancholy, via WebSearch snippet]",
+      "sources": ["Project DIVA Wiki: Melancholy, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Kagamine Rin is Crypton Future Media's CV02 (Character Vocal Series 02), a twin vocal package with Kagamine Len. Both characters were designed by illustrator KEI with a 'mirror image' concept — the twins are androids with approximately matching ages and are among the core six Crypton Vocaloid characters. Rin's canonical design features short blonde hair, blue eyes, and signature white headphones with a yellow bow. [Wikipedia: Kagamine Rin/Len]",
+      "sources": ["Wikipedia: Kagamine Rin/Len"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hatsune Miku \"Dark Angel\"", "set": "PD/S22", "note": "Same booster set, already trivia-enriched"},
+    {"name": "MEIKO \"Blue Crystal\"", "set": "PD/S22", "note": "Same booster set, Crypton Vocaloid bandmate"},
+    {"name": "Kagamine Len", "set": "PD/S22", "note": "Rin's canonical twin, paired release CV02"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Kagamine Rin",
+    "ip_confidence": "high"
+  }
+}

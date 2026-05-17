@@ -35,9 +35,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/magic-2013-m13/219-tormod-s-crypt.png
 average_cost_paid: 0
 market_price: 0.37
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-07
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/e/f/efdfb60b-948b-40fb-b18e-08f0300624b3.png?1562561704
 art_match_confidence: high
 needs_manual_review: false

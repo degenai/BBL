@@ -1,0 +1,48 @@
+{
+  "card_name": "Garbodor",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "118/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, Pokedex number 569, art description (bloated garbage-bag form, toxic coloring, debris-embedded body), and PokemonTCG.io API data all confirm the depicted figure is canonically Garbodor. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Garbodor (no. 118/192) appears in Rebel Clash (SWSH2), the second Sword and Shield series expansion, released May 1, 2020. The set's Japanese counterpart was titled 'Rebellion Crash,' a name that maps directly to its punk-and-chaos theme. [PokemonTCG.io API: swsh2-118]",
+      "sources": ["PokemonTCG.io API: swsh2-118"]
+    },
+    {
+      "category": "design",
+      "text": "Garbodor and its pre-evolution Trubbish were created specifically to represent urban pollution in the Unova region, which was designed around an industrialized city aesthetic. Lead designer Ken Sugimori and designer Takao Unno cited the urban setting as the direct prompt for including a garbage-based Pokemon line. The Trubbish/Garbodor line is structurally parallel to the Generation I pollution line (Grimer/Muk, Koffing/Weezing) — both are pure Poison-type with one evolution at roughly equal base stat totals — but Garbodor represents land-waste specifically, while Grimer/Muk represent liquid/chemical sludge. [WebSearch snippet: lavacutcontent.com 'Gen 5 Historia: Pokemon Origin Stories'; WebSearch snippet: remptongames.com 'Evolution of Pokemon Design Generation 5']",
+      "sources": ["lavacutcontent.com: Gen 5 Historia Ken Sugimori interview (via WebSearch snippet)", "remptongames.com: Evolution of Pokemon Design Gen 5 (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Garbodor may also draw on tsukumogami, objects animated by possessing spirits in Japanese folklore, and visually echoes Hedorah, the pollution kaiju from the Godzilla franchise. Neither connection is officially confirmed by Game Freak, but both are noted in community design analysis. [WebSearch snippet: facts.net '30 Facts About Garbodor']",
+      "sources": ["facts.net: 30 Facts About Garbodor (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (Rebel Clash printing): 'This Pokemon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.' The entry underlines Garbodor's role as a direct consequence of human waste output — it does not generate pollution independently but converts existing garbage. [PokemonTCG.io API: swsh2-118]",
+      "sources": ["PokemonTCG.io API: swsh2-118"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Rebel Clash Garbodor's Ability (Poisonous Puddle) triggers Poison on the opponent's Active Pokemon once per turn — but only if a Stadium card is in play. This Stadium dependency limits the Ability to Stadium-heavy builds, making it a conditional rather than reliable Poison engine in competitive play. [PokemonTCG.io API: swsh2-118]",
+      "sources": ["PokemonTCG.io API: swsh2-118"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Trubbish", "set": "Various (pre-evolution)", "note": "Pre-evolution; shares the land-pollution design lineage; wave 103 cohort member"},
+    {"name": "Weezing", "set": "Various", "note": "Gen 1 pollution cohort; Koffing/Weezing are the parallel air-pollution line to Garbodor's land-waste"},
+    {"name": "Muk", "set": "Various", "note": "Gen 1 pollution cohort; Grimer/Muk parallel liquid-sludge pollution to Garbodor's garbage design"},
+    {"name": "Koffing", "set": "Various", "note": "Gen 1 pollution cohort; wave 103 vision enriching alongside Garbodor"},
+    {"name": "Garbodor", "set": "BREAKpoint (XY/BKP)", "note": "Earlier Garbodor printing notable for its Garbotoxin Ability, a pivotal competitive card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

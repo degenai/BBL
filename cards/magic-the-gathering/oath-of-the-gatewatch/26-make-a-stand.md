@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/26-make-a-stand.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-12
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/3/0/30cace63-91ca-493c-b67f-740fbbf06370.png?1562904926
 art_match_confidence: high
 needs_manual_review: false

@@ -35,9 +35,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/modern-horizons/215-thundering-djinn.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-07
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/2/8/28642fbe-90c8-4beb-9950-91af28d93326.png?1562202415
 art_match_confidence: high
 needs_manual_review: false

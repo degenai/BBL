@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/cross-worlds/bt3-040-majin-defier-south-supreme-kai.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401009378/6DD46ED0CE98DAAE0501CF9597604CAFA01EC701/
 image_width: 624
 image_height: 871

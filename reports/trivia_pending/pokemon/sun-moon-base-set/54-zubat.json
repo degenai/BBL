@@ -1,0 +1,41 @@
+{
+  "card_name": "Zubat",
+  "game": "Pokemon",
+  "set": "Sun & Moon Base Set",
+  "collector_number": "54",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, Pokedex national no. 41, and described art (blue bat-like creature with no eyes, wide wing membranes, open mouth, in flight through a sunlit forest) are an unambiguous match to the canonical Zubat species introduced in Generation I. PokeAPI species ID 41 confirmed. The eyeless design is Zubat's most distinctive and iconic visual feature. IP is Zubat, a Game Freak / Nintendo / The Pokemon Company original species — no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "This card is from the Sun & Moon Base Set (SM1), released February 3, 2017 — the first expansion of the Sun & Moon Series. The set introduced Generation VII Pokemon and the new GX mechanic (powerful once-per-game attacks). Zubat (no. 54/149) is a Common in a set headlined by Solgaleo-GX and Lunala-GX. Though a Kanto Pokemon (Generation I), Zubat appears in many Alola-region cave routes in the Sun and Moon video games, justifying its continued presence in the SM1 set. [Bulbapedia: Sun & Moon (TCG), via WebSearch snippet]",
+      "sources": ["Bulbapedia: Sun & Moon (TCG), via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Zubat (National Pokedex no. 41) was introduced in Generation I (Pokemon Red and Blue, 1996) and is based on vampire bats. Its eyeless design reflects both biological troglomorphism (cave-adapted organisms that lose visual organs over generations) and the popular misconception that bats are blind. Its Poison typing likely references the anticoagulant properties of vampire bat saliva. Zubat is notable as the most commonly encountered random encounter in Gen I caves (Mt. Moon, Victory Road, etc.) — a reputation that made it a recurring joke about overworld encounter rates. [Bulbapedia: Zubat, via WebSearch snippet; PokeAPI species ID 41]",
+      "sources": ["Bulbapedia: Zubat, via WebSearch snippet", "PokeAPI /pokemon-species/zubat"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It sleeps in caves during the day. It has no eyes, so to check its surroundings while flying, it emits ultrasonic waves.\" — flavor text printed on this card. The Red/Blue Pokedex entry reads: 'Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.' Satoshi Shirai's art for this printing unusually depicts Zubat in a sunlit forest — the exact environment the Pokedex says it avoids (daylight can burn its skin per extended lore). [Card frontmatter; PokeAPI /pokemon-species/zubat: Red/Blue entry]",
+      "sources": ["Card frontmatter flavor_text", "PokeAPI /pokemon-species/zubat"]
+    },
+    {
+      "category": "mechanical",
+      "text": "This card's attack 'Astonish' (Psychic energy: choose a random card from your opponent's hand, reveal it, shuffle it into their deck) is a hand-disruption move. In the video games, Astonish is a Ghost-type move that may cause the target to flinch. The TCG adaptation strips the flinch mechanic but retains the hand-disruption flavor — thematically consistent with a bat that disorients its targets through sound. Zubat is a Colorless-type in previous TCG printings; this Sun & Moon printing uses Psychic, reflecting Zubat's in-game dual Poison/Flying typing's adjacency to status-disruption play. [Card frontmatter oracle_text]",
+      "sources": ["Card frontmatter oracle_text"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Golbat", "set": "various", "note": "Direct evolution — same cave-bat line"},
+    {"name": "Crobat", "set": "various", "note": "Final evolution (Generation II); requires max happiness to evolve from Golbat"},
+    {"name": "Zubat", "set": "various", "note": "Multiple printings across Base Set, Fossil, Team Rocket, etc.; one of the most-printed common Pokemon in TCG history"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Zubat",
+    "ip_confidence": "high"
+  }
+}

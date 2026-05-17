@@ -31,10 +31,10 @@ tags_filter:
   - action-pose
 reference_image: cards/_images/pokemon/rebel-clash/039-192-magikarp.png
 average_cost_paid: 0
-market_price: 1.82
-market_price_as_of: 2026-05-16
+market_price: 2.96
+market_price_as_of: 2026-05-17
 date_added: 2026-05-08
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://images.pokemontcg.io/swsh2/39_hires.png
 art_match_confidence: high
 needs_manual_review: false

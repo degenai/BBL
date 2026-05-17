@@ -29,10 +29,10 @@ tags_filter:
   - creature
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/19-lionheart-glimmer.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-16
+market_price: 0.21
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/4/8/483e1c6f-331c-45f1-bf5d-9b9742aa8903.png?1726285926
 art_match_confidence: high
 needs_manual_review: false

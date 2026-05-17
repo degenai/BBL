@@ -1,0 +1,46 @@
+{
+  "card_name": "Trevenant",
+  "game": "Pokemon",
+  "set": "Guardians Rising",
+  "collector_number": "7/145",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, National Pokedex number 709, art description (hollow gnarled tree trunk, single glowing red eye, branch-limbs, dark forest setting), and PokemonTCG.io API data confirm the depicted figure is canonically Trevenant. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Trevenant (no. 7/145) appears in Guardians Rising (SM2), the second Sun and Moon series expansion, released May 5, 2017. The set takes its name from the Guardian Deities of Alola — the Tapus. Trevenant is a non-Alolan species appearing as a carryover Grass-type in the set. [PokemonTCG.io API: sm2-7]",
+      "sources": ["PokemonTCG.io API: sm2-7"]
+    },
+    {
+      "category": "design",
+      "text": "Trevenant and its pre-evolution Phantump draw from Kodama, the tree spirits of Japanese folklore. Kodama inhabit old trees, and harming a Kodama-possessed tree was believed to bring curses on the offender. Trevenant's stripe-like body markings may reference shimenawa, the rope used in Shinto practice to mark a spiritually inhabited object or space — often seen tied around Kodama trees. [WebSearch snippet: Dr. Lava @DrLavaYT, X/Twitter; WebSearch snippet: tofugu.com 'Who's that Pokemon? Yokai Edition']",
+      "sources": ["Dr. Lava (@DrLavaYT) via X/Twitter (WebSearch snippet)", "Tofugu.com: Who's That Pokemon Yokai Edition (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "The jorogumo angle in the wave 103 dispatch note does not apply here — jorogumo is a spider-woman yokai, not a tree spirit. Trevenant's yokai lineage is specifically Kodama (tree spirit), not jorogumo. The single-eye motif may additionally reference cyclopean features common across multiple yokai traditions, and the long branch-fingers have a separate possible connection to Shurale, a horned long-fingered forest spirit from Tatar/Bashkir folklore. [WebSearch snippet: Bulbapedia 'Trevenant (Pokemon)' via WebSearch snippet]",
+      "sources": ["Bulbapedia: Trevenant (Pokemon) (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (Guardians Rising printing): 'This Pokemon is said to devour anyone daring to ravage the forest. To the creatures dwelling in the forest, it offers great kindness.' The dual-nature framing — predator to outsiders, protector to forest-dwellers — is the central character thesis for Trevenant across its Pokedex entries: guardian spirit and apex threat simultaneously. [PokemonTCG.io API: sm2-7]",
+      "sources": ["PokemonTCG.io API: sm2-7"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Poltergeist (2 Colorless, 30x damage per Trainer card in opponent's hand) is a hand-read attack — it forces the opponent to reveal their hand, making it both an information tool and a damage source. A Trevenant BREAK variant from XY BREAKpoint era was central enough to competitive hand-lock decks that the Wally / Trevenant BREAK combination was eventually banned from the Expanded format. The Guardians Rising Trevenant is the non-BREAK printing and does not carry that ban baggage. [PokemonTCG.io API: sm2-7; WebSearch snippet: pokemon.cardsrealm.com 'Expanded Format Banlist Explained']",
+      "sources": ["PokemonTCG.io API: sm2-7", "pokemon.cardsrealm.com: Expanded Banlist Explained (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Phantump", "set": "Various (pre-evolution)", "note": "Pre-evolution; shares Kodama design lineage; Pokedex entries mention spirits of children who died in the forest"},
+    {"name": "Trevenant BREAK", "set": "BREAKpoint (XY/BKP)", "note": "Competitively notorious printing; the Wally/Trevenant BREAK hand-lock combo was banned from Expanded"},
+    {"name": "Trevenant and Dusknoir-GX", "set": "Unified Minds (SM11)", "note": "Tag Team GX pairing; extended the hand-disruption lineage into the Sun and Moon era"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

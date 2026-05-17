@@ -10,14 +10,29 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - gas
+  - pollution
+  - toxic
+  - skull
+  - poison
+  - domestic
+  - creature
+  - fumes
+  - indoor
+  - decay
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - creature-pokemon
 reference_image: cards/_images/pokemon/rebel-clash/112-192-koffing.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-16
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://images.pokemontcg.io/swsh2/112_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -27,6 +42,40 @@ oracle_text: Suffocating Gas (Darkness) 10
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: horror
+time_of_day: indeterminate
+setting: indoor
+suspected_ip: Koffing
+ip_confidence: high
+ip_verified: false
+characters:
+  - pollution-pokemon
+tags:
+  - card
+  - pokemon
 ---
 
 # Koffing (Rebel Clash)
+
+## Vision
+
+![112-192-koffing](../../_images/pokemon/rebel-clash/112-192-koffing.png)
+
+> [!warning] Suspected IP: **Koffing** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A large round purple spherical creature floats in what appears to be an indoor domestic space, with furniture and warm light visible in the background. A skull-and-crossbones symbol is visible on the creature's body. The creature's round form dominates the composition, and gas or smog wisps are faintly visible around it. The indoor domestic setting creates an unsettling contrast — toxic presence in a home environment.
+
+**Subject:** Koffing, a round spherical gas Pokemon with a skull-crossbones marking, floating indoors
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** indoor, indeterminate
+**Foreground:** round spherical Koffing with skull-crossbones marking  *(palette: purple, dark-purple, grey)*
+**Background:** warm-lit indoor space with furniture  *(palette: warm-yellow, brown, orange)*
+**Mood / lighting:** horror, ambient
+**Emotion read:** placid, ominous, domestic intrusion
+**Objects:** skull-crossbones symbol
+**Creatures:** Koffing
+**Iconography:** skull-crossbones
+**Genre cues:** anime
+

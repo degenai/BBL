@@ -1,0 +1,41 @@
+{
+  "card_name": "Wailmer",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "031/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Wailmer is a canonical Pokemon IP (National Pokedex no. 320, Generation III). The card's own title, the PokemonTCG.io API response, and Serebii confirm the depicted figure is Wailmer. The round blue whale form with water spraying from nostrils above its eyes exactly matches Wailmer's defining canonical description and the flavor text on this very card. No external-IP risk; internal Nintendo/Game Freak IP.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Vivid Voltage (SWSH4) was released November 13, 2020, the fourth main expansion in the Sword and Shield series. It introduced the 'Amazing Rare' card category for the first time, and is headlined by Pikachu VMAX and Zarude. The set contains 203 cards total (185 printed plus secret rares). [PokemonTCG.io API: swsh4-31]",
+      "sources": ["PokemonTCG.io API: swsh4-31", "WebSearch snippet: PokeGuardian Vivid Voltage reveal"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Wailmer is National Pokedex no. 320, introduced in Generation III (Hoenn, Pokemon Ruby and Sapphire, 2002). Known as the 'Ball Whale' Pokemon, it was among the first Generation III Pokemon revealed publicly — announced alongside Azurill and Kecleon on March 7, 2001, nearly two years before Ruby and Sapphire's international release. [Serebii.net Pokedex 320, WebSearch snippet: Bulbapedia Wailmer]",
+      "sources": ["Serebii.net Pokedex: #320 Wailmer", "WebSearch snippet: Bulbapedia Wailmer"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'It shows off by spraying jets of seawater from the nostrils above its eyes. It eats a solid ton of Wishiwashi every day.' The mention of Wishiwashi (a Sword and Shield-era Pokemon introduced in Generation VII) as prey is notable — it grounds Wailmer's ecological role in the broader Pokemon world's food chain across generations. [PokemonTCG.io API: swsh4-31]",
+      "sources": ["PokemonTCG.io API: swsh4-31"]
+    },
+    {
+      "category": "design",
+      "text": "Card illustrated by Yukiko Baba, a prolific Pokemon TCG artist credited on 162 cards in the TCG. Baba's work tends toward bright, cheerful compositions — this card's tropical beach setting and high-energy splash pose are consistent with her style across other Water-type commons. [Serebii.net artist index: Yukiko Baba, WebSearch snippet: artofpkm.com]",
+      "sources": ["Serebii.net card dex: Yukiko Baba", "WebSearch snippet: artofpkm.com Yukiko Baba"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Wailord", "set": "various", "note": "Wailmer's evolution at level 40; one of the largest Pokemon by body length in the National Pokedex"},
+    {"name": "Wishiwashi", "set": "various", "note": "Named in this card's flavor text as Wailmer's prey species"},
+    {"name": "Wailmer (other prints)", "set": "Sword and Shield era", "note": "Wailmer has been printed multiple times across TCG sets; this Vivid Voltage print is one of several Sword and Shield era versions"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

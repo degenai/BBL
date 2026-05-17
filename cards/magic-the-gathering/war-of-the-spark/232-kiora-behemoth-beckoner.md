@@ -35,10 +35,10 @@ tags_filter:
   - multicolor-blue-green
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner.png
 average_cost_paid: 0
-market_price: 1.24
-market_price_as_of: 2026-05-16
+market_price: 1.26
+market_price_as_of: 2026-05-17
 date_added: 2026-05-06
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/7/a/7a61b1a6-a75f-47b0-b215-de9708b6d773.png?1557577371
 art_match_confidence: high
 needs_manual_review: false

@@ -38,9 +38,9 @@ symbols:
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/141-infernal-phantom.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-11
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/f/0/f0c5999f-a185-4fc7-86fa-c4e5b091e768.png?1726286374
 art_match_confidence: high
 needs_manual_review: false

@@ -31,9 +31,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/cross-worlds/bt3-009-pan.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-05
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401004346/26636D0332913B816D0761D3A4871B879657A4A2/
 image_width: 624
 image_height: 871

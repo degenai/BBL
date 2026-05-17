@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/judge-promotion-cards/p-035-bardock-will-of-iron.png
 average_cost_paid: 0
 market_price: 1.19
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/P-035.png
 art_match_confidence: high
 needs_manual_review: false

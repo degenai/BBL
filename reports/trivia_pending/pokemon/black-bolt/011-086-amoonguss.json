@@ -1,0 +1,46 @@
+{
+  "card_name": "Amoonguss",
+  "game": "Pokemon",
+  "set": "Black Bolt",
+  "collector_number": "011/086",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via PokemonTCG.io API (zsv10pt5-11). National Pokedex no. 591. Artist: Kurata So. Mushroom creature with Poke Ball-patterned arm caps is unambiguous Amoonguss. Pokemon Company internal IP, no external crossover risk. Note: suspected_ip had '#591' suffix — no-hash form correct per anti-confab rules (Obsidian tag-sigil issue).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Uncommon from Scarlet & Violet Black Bolt (zsv10pt5), released July 18, 2025. 86-card main set (172 total with secret rares), regulation mark I. Artist: Kurata So.",
+      "sources": ["PokemonTCG.io API: zsv10pt5-11"]
+    },
+    {
+      "category": "set-lore",
+      "text": "National Pokedex no. 591. Grass/Poison dual-type Stage 1, introduced Generation V (Unova). Evolves from Foongus at level 39.",
+      "sources": ["PokemonTCG.io API: zsv10pt5-11"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.\" Poke Ball mimicry is Amoonguss's defining design gimmick, shared with pre-evolution Foongus. In Black and White, Foongus physically appears in the overworld disguised as item balls — same deception tactic as Voltorb/Electrode from Gen I.",
+      "sources": ["PokemonTCG.io API: zsv10pt5-11 (flavor text)", "Bulbapedia: Foongus; StrategyWiki, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Consistent top-tier VGC doubles support across Gen V through Scarlet & Violet: Spore (100% accuracy sleep) + Rage Powder (redirect moves) + Regenerator ability (1/3 HP heal on switch-out). Base Speed 30 makes it a natural Trick Room partner.",
+      "sources": ["Serebii: Amoonguss potw-xy/591; Smogon: Amoonguss SM; game8.co Sword and Shield build guide, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Dangerous Reaction (Colorless, 30+120 if opponent has Special Condition) is a direct mechanical nod to Amoonguss's status-infliction support identity. Secondary attack: Seed Bomb (Grass + Colorless, 60).",
+      "sources": ["PokemonTCG.io API: zsv10pt5-11"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Foongus", "set": "Multiple sets", "note": "Pre-evolution; same Poke Ball mimicry design; introduced Gen V alongside Amoonguss"},
+    {"name": "Amoonguss", "set": "Other sets", "note": "Reprinted from Gen V era through Scarlet & Violet; Black Bolt is among the most recent prints"},
+    {"name": "Vileplume", "set": "Multiple sets", "note": "Fellow Grass/Poison type with deep-sleep powder/spore identity; closest analog in the TCG support-mushroom niche"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

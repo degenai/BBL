@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-013-dependable-mom-bulma.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-05
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401025065/55BB51AC8BED91EF37E8402954E19A0B81C2C875/
 image_width: 624
 image_height: 871

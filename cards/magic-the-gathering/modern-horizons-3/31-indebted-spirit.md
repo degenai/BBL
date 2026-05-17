@@ -38,10 +38,10 @@ tags_filter:
   - bestow
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/31-indebted-spirit.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-16
+market_price: 0.22
+market_price_as_of: 2026-05-17
 date_added: 2026-05-11
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/b/f/bfdbef00-bc1b-4dd6-aef5-aeb5ce454344.png?1717011449
 art_match_confidence: high
 needs_manual_review: false

@@ -37,9 +37,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/aetherdrift/152-alacrian-jaguar.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-10
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/2/b/2bd40bca-aa54-4e52-8d48-b3709a11e633.png?1738356479
 art_match_confidence: high
 needs_manual_review: false

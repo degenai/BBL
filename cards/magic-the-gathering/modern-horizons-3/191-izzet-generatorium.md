@@ -39,9 +39,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/191-izzet-generatorium.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-11
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/c/6/c6d9537d-c6b9-46ef-834b-87750d79f1ae.png?1718364531
 art_match_confidence: high
 needs_manual_review: false

@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/union-force/bt2-028-majin-buu-revived.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-08
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400930908/7882BF93EF519046A8B201AE59547F3E901687BD/
 image_width: 624
 image_height: 874

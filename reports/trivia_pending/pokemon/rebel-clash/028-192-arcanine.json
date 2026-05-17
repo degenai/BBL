@@ -1,0 +1,47 @@
+{
+  "card_name": "Arcanine",
+  "game": "Pokemon",
+  "set": "Rebel Clash",
+  "collector_number": "028/192",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, National Pokedex number 59, art description (cream-and-orange striped canine, fire environment), and PokemonTCG.io API data confirm the depicted figure is canonically Arcanine. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Arcanine (no. 028/192) is a Stage 1 Fire-type in Rebel Clash (SWSH2), released May 1, 2020 as the second Sword and Shield series expansion. The set featured strong Galar-region Pokemon alongside returning species from earlier generations. [PokemonTCG.io API: swsh2-28]",
+      "sources": ["PokemonTCG.io API: swsh2-28"]
+    },
+    {
+      "category": "design",
+      "text": "Arcanine's official species classification is 'Legendary Pokemon' — a designation printed on its Pokedex entry since Generation I — despite it not being a game-mechanical Legendary. The classification references the Chinese guardian lion statue (shishi or 'Chinese foo dog'), which traditionally ward off evil spirits and were said in legend to possess incredible speed and power. Arcanine's design is more specifically linked to the Shisa, a Ryukyuan cultural guardian figure resembling a lion-dog hybrid from Okinawa. [WebSearch snippet: bulbapedia.bulbagarden.net 'Arcanine (Pokemon)'; WebSearch snippet: screenrant.com 'Pokemon Theory: Arcanine Was Supposed To Be A Legendary']",
+      "sources": ["Bulbapedia: Arcanine (Pokemon) (via WebSearch snippet)", "Screen Rant: Pokemon Theory Arcanine Legendary (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "In the original Pokemon Red and Blue anime, Arcanine appeared in an engraving alongside Articuno, Zapdos, and Moltres — the three canonical Legendary birds — suggesting it may have been considered for the Legendary trio before the final design locked in. This placement persists as a notable piece of franchise lore. [WebSearch snippet: screenrant.com 'Pokemon Theory: Arcanine Was Supposed To Be A Legendary']",
+      "sources": ["Screen Rant: Pokemon Theory Arcanine Legendary (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (Rebel Clash printing): 'The sight of it running over 6,200 miles in a single day and night has captivated many people.' The 6,200-mile figure (roughly the distance from Tokyo to London) is a recurring Pokedex motif for Arcanine, grounding its legendary speed classification in a measurable but physically impossible feat. [PokemonTCG.io API: swsh2-28]",
+      "sources": ["PokemonTCG.io API: swsh2-28"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Rebel Clash Arcanine's Ability (Warming Up) grants +100 HP when the Burning Scarf item card is attached, pushing its HP from 130 to 230 — a significant total for a Stage 1. The Warming Up / Burning Scarf interaction is an equipment-dependency mechanic that rewards mono-Fire or mixed builds willing to commit an Item slot. [PokemonTCG.io API: swsh2-28]",
+      "sources": ["PokemonTCG.io API: swsh2-28"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Growlithe", "set": "Various (pre-evolution)", "note": "Pre-evolution; evolves into Arcanine via Fire Stone"},
+    {"name": "Arcanine V", "set": "Brilliant Stars (SWSH9)", "note": "Later V-tier Arcanine; comparison point for power creep and art evolution"},
+    {"name": "Burning Scarf", "set": "Team Up (SM10)", "note": "The item card referenced by this card's Warming Up Ability"},
+    {"name": "Articuno", "set": "Base Set / Various", "note": "Appeared alongside Arcanine in the legendary-bird engraving in the original anime"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

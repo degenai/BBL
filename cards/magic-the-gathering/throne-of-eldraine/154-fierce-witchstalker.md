@@ -30,9 +30,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/154-fierce-witchstalker.png
 average_cost_paid: 0
 market_price: 0.16
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-13
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/d/6/d63a6be2-ae9a-4758-9d5c-0297ef9af57c.png?1615522751
 art_match_confidence: high
 needs_manual_review: false

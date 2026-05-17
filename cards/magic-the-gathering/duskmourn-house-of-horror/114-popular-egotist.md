@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/114-popular-egotist.png
 average_cost_paid: 0
 market_price: 0.28
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/3/5/35e64605-8edb-4def-9522-765e90d1f0f3.png?1726286273
 art_match_confidence: high
 needs_manual_review: false

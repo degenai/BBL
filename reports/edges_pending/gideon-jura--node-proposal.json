@@ -1,0 +1,65 @@
+{
+  "edge_id": "gideon-jura--node-proposal",
+  "shape": "node-proposal",
+  "category": "named-character-identity",
+  "topology": "stack",
+  "endpoints": [
+    {
+      "type": "character",
+      "path": "cards/_characters/gideon-jura.md",
+      "name": "Gideon Jura (new individual planeswalker character node)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/battle-for-zendikar/30-gideon-s-reproach.md",
+      "name": "Gideon's Reproach (BFZ-30) — sural-iconography depiction, BFZ Ally-of-Zendikar phase"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/war-of-the-spark/14-gideon-s-sacrifice.md",
+      "name": "Gideon's Sacrifice (WAR-14) — Story Spotlight death-moment depiction, contract-absorption climax"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/war-of-the-spark/15-gideon-s-triumph.md",
+      "name": "Gideon's Triumph (WAR-15) — Triumph cycle white member, aftermath-elegy depiction (multi-attaches to war-gatewatch-triumph-cycle AND gideon-jura)"
+    }
+  ],
+  "description": "Oh — Edgelord stepped aside, sir, sorry to bother you. The wave 41 E2 entry's own trigger fired, you see — 'when a second Gideon-depicting card enters corpus' — and now there are three depictions, not two, all canonical-evidenced. I felt I really ought to commission gideon-jura.md rather than draw three thin card-to-card edges that would have all pointed at an absent center, which is exactly what the Mr. Nodeley rules say to do, isn't it? The jace-beleren and chandra-nalaar nodes provide the exact structural template. The Gideon's Triumph multi-attachment to both cycle and character node follows the precedent the Jace's Triumph entry on war-gatewatch-triumph-cycle already documented. I hope this was the right move. The two medium-confidence Gideon depictions (Unlikely Aid WAR-109 and Shoulder to Shoulder OGW-34) I left for a triviabot ip_verification pass — I didn't want to wire unverified IP into the new node prematurely, sir, that wouldn't be right. Please consider it.",
+  "citations": [
+    "[MTG Wiki: Gideon Jura]",
+    "[MTG Wiki: Hixus, Prison Warden]",
+    "[MTG Wiki: Akros]",
+    "[MTG Wiki: War of the Spark]",
+    "[MTG Wiki: Gatewatch]",
+    "[Wizards: War of the Spark: Ravnica novel, Greg Weisman, Del Rey 2019]",
+    "[Wizards: Magic Origins: Kytheon, Hero of Akros (2015)]",
+    "[Wizards: Mark Rosewater 'More War Games' (2019-04-29) — Triumph cycle design intent]",
+    "[Hipsters of the Coast: 'Finally, Rest and Peace' (2019-05-10)]",
+    "[Scryfall: type:planeswalker name:Gideon — canonical printing list]",
+    "[Scryfall: name:'Gideon's' — attribution cycle list]",
+    "[Scryfall: WAR-14 story_spotlight:true]"
+  ],
+  "files_modified": [
+    "cards/_characters/gideon-jura.md (NEW)",
+    "cards/magic-the-gathering/war-of-the-spark/15-gideon-s-triumph.md (frontmatter: characters: list extended with gideon-jura, now multi-attaches to cycle+character)",
+    "cards/magic-the-gathering/war-of-the-spark/14-gideon-s-sacrifice.md (frontmatter: characters: list added with gideon-jura)",
+    "cards/magic-the-gathering/battle-for-zendikar/30-gideon-s-reproach.md (frontmatter: characters: list added with gideon-jura)",
+    "cards/_characters/war-gatewatch-triumph-cycle.md (related_characters: list extended with gideon-jura, single-card-depiction-threshold caveat updated to mark Gideon as cleared, See-also section appended with gideon-jura entry)",
+    "reports/janitor_triage.md (Gideon Jura entry marked DONE closed wave 109)"
+  ],
+  "anchor_count_at_commission": 3,
+  "threshold_basis": "≥2 corpus depictions of named planeswalker per Jace/Chandra/Tamiyo precedent; trigger from wave 41 E2 janitor_triage entry ('Nodeley trigger when a second Gideon-depicting card enters corpus') exceeded — 3 depictions present",
+  "deferred_followups": [
+    "Triviabot ip_verification pass on Unlikely Aid (WAR-109) — if verified, wire characters: [gideon-jura] and add to appears_on:",
+    "Triviabot ip_verification pass on Shoulder to Shoulder (OGW-34) — same",
+    "Future Edgelord pass to consider canonical-name-attribution wiring of Maw of Kozilek (OGW-99, Gideon flavor speaker) and Divine Arrow (WAR-10, Gideon named in flavor but off-frame) once Chandra cycle's analogous flavor-only attributions are validated",
+    "Future Liliana Vess character node — Gideon's Sacrifice (WAR-14) is also a Liliana depiction and will multi-attach when Liliana node is commissioned; trigger waits on ≥2 Liliana-depicting cards in corpus"
+  ],
+  "other_candidates_considered": [
+    "Outcome 3 pivot to a broader WAR planeswalker-namesake cycle node (Sarkhan's Catharsis + the four Triumphs as a template-cohort) — REJECTED: the Triumph cycle is already a designer-confirmed five-card cohort and broadening to a 'planeswalker-namesake' supercycle would dilute the canonical-source rigor; Sarkhan's Catharsis is not a Triumph-cycle member and its inclusion would require a separate Edgelord pass to verify designer-coordination",
+    "Outcome 2 refuse — REJECTED: wave 41 E2's own trigger condition is satisfied, and the structural-symmetry counter-argument from that pass is now resolved by Gideon's 3-depiction count exceeding the sibling-planeswalker thresholds",
+    "Outcome 1 1:1 mirror edge between WAR-14 and WAR-15 (the death-and-elegy diptych within WAR) — RECOGNIZED as a real edge but SUBSUMED by the node commission: both cards now anchor to gideon-jura and the diptych framing is documented in the node body's 'aspects in the corpus' section rather than as a thin card-to-card bullet"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

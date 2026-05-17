@@ -1,0 +1,39 @@
+{
+  "edge_id": "nincada-viv013--shedinja-viv066--branching-evolution-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/pokemon/vivid-voltage/013-185-nincada.md",
+      "name": "Nincada (Vivid Voltage 013/185)"
+    },
+    {
+      "type": "card",
+      "path": "cards/pokemon/vivid-voltage/066-185-shedinja.md",
+      "name": "Shedinja (Vivid Voltage 066/185)"
+    }
+  ],
+  "description": "Worst proposed slate ever? Almost. Wave 102 surfaced a tempting pollution-Pokemon cohort (Garbodor + Grimer + Muk + Weezing + Koffing + Trubbish) but the predicate fails Potion-rule sub-rule 1 — pollution is BBL squinting at thematic-tag bridges, not Game Freak coordination. Tsukumogami-Pokemon cohered because per-species Bulbapedia design-source attribution converged on the folklore citation; pollution-Pokemon has no equivalent designer-coordinated program. Most of the pollution candidates aren't even vision-passed yet (Muk / Weezing / Koffing / Trubbish all tags_hub: []). Skipped Mr. Nodeley. Skipped Dark Nodesley. Then scanned the wave-102 trivia surface for the actual edge — found it: Nincada (VIV-013) and Shedinja (VIV-066) are the same-set rendering of the only branching-evolution mechanic Game Freak has ever shipped (Generation III, hardcoded since 2002), with the Shedinja card's oracle text mechanizing the lore at the TCG rules layer (Shedinja can ONLY enter play via Ninjask's Cast-Off Shell Ability, a literal play-restriction render of the empty-husk-becomes-Shedinja canon). The pair-bond was implicit in both cards' existing Related-cards lists and now explicit at the Connections layer. Sigh, mirrored both endpoints, satisfied with the edge quality even if the discovery path was scenic. Future watch: a nincada-line species-evolution node analogous to mareep-line / charizard-line / caterpie-line / ralts-line / larvitar-line lands cleanly when a Ninjask print enters corpus to complete the trio.",
+  "citations": [
+    "[Bulbapedia: Nincada]",
+    "[Bulbapedia: Shedinja]",
+    "[pokemondb.net: Nincada evolution mechanic]",
+    "[PokemonTCG.io: swsh4-13 flavorText + oracle_text]",
+    "[PokemonTCG.io: swsh4-66 flavorText + oracle_text]"
+  ],
+  "files_modified": [
+    "cards/pokemon/vivid-voltage/013-185-nincada.md",
+    "cards/pokemon/vivid-voltage/066-185-shedinja.md"
+  ],
+  "next_pass_suggestions": [
+    "REFUSAL — pollution-pokemon cohort: do NOT commission as a character-layer cohort node. Predicate fails Potion-rule sub-rule 1 (Wizards/Game Freak has no coordinated pollution program; the thesis would be BBL curatorial overlay claiming canonical-cohort status). The institutional-sanitation labor angle is already absorbed by alolan-regional-forms (Alolan Grimer institutional-introduction mechanism canonized at the regional-forms cohort scope, wave 23). Industrial-Pokemon-as-apparatus-of-extraction reading lives in BUNDLE COPY at the design-canon scope, not in a new hub or character node.",
+    "ENRICHMENT TRIGGER — Muk (DAA-101) + Weezing (CRE-095) + Koffing (RBC-112) + Trubbish (VIV-110, RBC-117) + Alolan Muk (if any in corpus) all have tags_hub: [] — push through bbl-researcher vision queue. Garbodor (RBC-118) is vision-only, needs trivia pass (utsusemi/cicada-shell decoy adjacency is not its surface; the Garbodor surface is consumer-society-as-poison-substrate per the flavor text). On full enrichment, evaluate whether a koffing-line and/or grimer-line species-evolution-pair node (analogous to mareep-line / nincada-line / etc.) becomes commission-worthy — those would be SPECIES-EVOLUTIONARY cohorts (legitimate predicate), not thematic-pollution cohorts.",
+    "FUTURE EDGE — Alolan Grimer canonically preys on Trubbish in Alola (Bulbapedia: Grimer Alolan Form section, Trubbish section). Once Trubbish (RBC-117 or VIV-110) trivia-passes, a cross-cohort predator-prey edge from Trubbish → alolan-regional-forms (or directly to the CSE-130 Alolan Grimer print) becomes available and strong.",
+    "FUTURE NODE — nincada-line (Nincada + Shedinja + Ninjask species-evolution-cohort node) when a Ninjask print lands. Currently 2 of 3 species in corpus; the branching-evolution-mechanic predicate is uniquely lore-significant per Bulbapedia and would warrant its own cohort node rather than collapsing into a generic insect-Pokemon hub.",
+    "FUTURE TRIVIA-LOOP — Kagamine-twins mirrored-sound etymology for the project-diva-f-vocaloid-roster node body (Wave 102 trivia surfaced, not a structural move; trivia-bot extension work, not Edgelord work).",
+    "FUTURE WATCH — yokai-Pokemon cohort (Shedinja utsusemi + Nuzleaf tengu + Mimikyu disguise-yokai + Sableye Kelly-Hopkinsville-via-yokai-register) remains below the 3-anchor threshold per wave 99 future-watch entry; Shedinja's utsusemi citation extends the surface but does not yet clear threshold."
+  ],
+  "edgelord_mood": "sighed-but-mirrored"
+}

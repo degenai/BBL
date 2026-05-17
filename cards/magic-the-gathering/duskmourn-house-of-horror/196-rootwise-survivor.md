@@ -36,10 +36,10 @@ symbols:
   - survival
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/196-rootwise-survivor.png
 average_cost_paid: 0
-market_price: 0.05
-market_price_as_of: 2026-05-16
+market_price: 0.06
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/d/8/d843c242-088f-4131-9e52-7ee2d0db5e20.png?1726286598
 art_match_confidence: high
 needs_manual_review: false

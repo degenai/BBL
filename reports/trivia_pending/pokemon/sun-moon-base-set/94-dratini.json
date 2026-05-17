@@ -1,0 +1,47 @@
+{
+  "card_name": "Dratini",
+  "game": "Pokemon",
+  "set": "Sun & Moon Base Set",
+  "collector_number": "94",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, National Pokedex number 147, art description (slender pale-blue serpentine body, white neck-mane, coral reef setting), and PokemonTCG.io API data confirm the depicted figure is canonically Dratini. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Dratini (no. 94) is a Basic Dragon-type Common in the Sun and Moon Base Set (SM1), the first Sun and Moon series expansion, released February 3, 2017. The Sun and Moon series introduced the Alola region and brought GX Pokemon mechanics. Dratini appears as a carryover from the Kanto Dragon line. [PokemonTCG.io API: sm1-94]",
+      "sources": ["PokemonTCG.io API: sm1-94"]
+    },
+    {
+      "category": "design",
+      "text": "The Dratini line is the only Dragon-type Pokemon introduced in Generation I and remained the only Dragon line until Gold and Silver. Dratini's Japanese name, Miniryu (combining 'mini' and 'ryu,' the Japanese word for dragon), encodes its design concept directly: a juvenile form of the Eastern mythological dragon. The line draws from ryu (Japanese dragons), Chinese lung dragons, and possibly the Korean Imugi — a serpentine proto-dragon that transforms into a true dragon after surviving trials, mirroring Dratini's three-stage evolution into Dragonite. [WebSearch snippet: Bulbapedia 'Dratini (Pokemon)'; WebSearch snippet: facts.net '38 Facts About Dratini']",
+      "sources": ["Bulbapedia: Dratini (Pokemon) (via WebSearch snippet)", "facts.net: 38 Facts About Dratini (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Dragonite, the line's final form, is classified as a 'pseudo-legendary' — a fan and later semi-official term for fully evolved Pokemon with a 600 base stat total that are not game-mechanical Legendaries. Dragonite was the first pseudo-legendary in the franchise. Dratini is the Common entry point of this line, which makes its TCG appearances across multiple sets a recurring budget ramp piece for Dragon-type decks. [WebSearch snippet: Bulbapedia 'Dragonite (Pokemon)'; Wikipedia 'Dragonite']",
+      "sources": ["Bulbapedia: Dragonite (Pokemon) (via WebSearch snippet)", "Wikipedia: Dragonite (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (Sun and Moon Base Set printing): 'After a 10-hour struggle, a fisherman was able to pull one up and confirm its existence.' The entry frames Dratini as a cryptid — its existence had to be confirmed rather than assumed, echoing sea-serpent mythology where the creature is elusive and rarely witnessed. [PokemonTCG.io API: sm1-94]",
+      "sources": ["PokemonTCG.io API: sm1-94"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Signs of Evolution attack (1 Grass energy) searches the deck for one each of Dratini, Dragonair, and Dragonite and puts all three into hand simultaneously. This full-line-fetch mechanic is unusually efficient setup for a Common — it collapses a three-stage evolution's setup from multiple turns into a single attack, making Dratini a preferred ramp piece when the full Dragonite line is in play. [PokemonTCG.io API: sm1-94]",
+      "sources": ["PokemonTCG.io API: sm1-94"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dragonair", "set": "Various (Stage 1 evolution)", "note": "Middle stage of the Dragon line; required by Signs of Evolution search"},
+    {"name": "Dragonite", "set": "Various (Stage 2 evolution)", "note": "Pseudo-legendary final form; franchise's first 600 BST fully evolved non-Legendary"},
+    {"name": "Dratini", "set": "Base Set (1999)", "note": "Original Gen 1 printing; one of the first Dragon-type cards ever printed in the TCG"},
+    {"name": "Lance's Charizard V", "set": "Champion's Path (SWSH3.5)", "note": "Lance the Dragon Tamer is the in-game trainer most associated with the Dragonite line in Generation I canon"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

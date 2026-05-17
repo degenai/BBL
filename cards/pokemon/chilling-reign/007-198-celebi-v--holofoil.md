@@ -32,10 +32,10 @@ tags_filter:
   - holofoil
 reference_image: cards/_images/pokemon/chilling-reign/007-198-celebi-v--holofoil.png
 average_cost_paid: 0
-market_price: 1.49
-market_price_as_of: 2026-05-16
+market_price: 1.41
+market_price_as_of: 2026-05-17
 date_added: 2026-05-05
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://images.pokemontcg.io/swsh6/7_hires.png
 art_match_confidence: high
 needs_manual_review: false

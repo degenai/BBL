@@ -31,10 +31,10 @@ tags_filter:
   - no-face
 reference_image: cards/_images/pokemon/darkness-ablaze/081-189-mimikyu.png
 average_cost_paid: 0
-market_price: 0.34
-market_price_as_of: 2026-05-16
+market_price: 0.37
+market_price_as_of: 2026-05-17
 date_added: 2026-05-06
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://images.pokemontcg.io/swsh3/81_hires.png
 art_match_confidence: high
 needs_manual_review: false

@@ -36,10 +36,10 @@ tags_filter:
   - away-facing
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/79-case-of-the-gorgon-s-kiss-a.png
 average_cost_paid: 0
-market_price: 0.07
-market_price_as_of: 2026-05-16
+market_price: 0.05
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/4/5/45e4c07a-3205-4193-8163-b0e63e6242a4.png?1706241675
 art_match_confidence: high
 needs_manual_review: false

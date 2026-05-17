@@ -1,0 +1,87 @@
+{
+  "edge_id": "war-gatewatch-triumph-cycle--node-proposal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "wave": 106,
+  "endpoints": [
+    {
+      "type": "character",
+      "path": "cards/_characters/war-gatewatch-triumph-cycle.md",
+      "name": "Gatewatch's Triumph cycle (War of the Spark Gatewatch-founder resolution cycle)",
+      "role": "new-node"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/war-of-the-spark/15-gideon-s-triumph.md",
+      "name": "Gideon's Triumph (WAR-15)",
+      "role": "anchor (vision-only; inferred-membership flag per Cinderella precedent)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/war-of-the-spark/55-jace-s-triumph.md",
+      "name": "Jace's Triumph (WAR-55)",
+      "role": "anchor (trivia-passed)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/war-of-the-spark/170-nissa-s-triumph.md",
+      "name": "Nissa's Triumph (WAR-170)",
+      "role": "anchor (trivia-passed)"
+    }
+  ],
+  "description": "Oh dear, sir — Mr. Nodeley stepping in here, very sorry to derail what Edgelord wanted as a clean 1:1 Jace-Nissa edge, but the cycle node really needs to ship now. Three Triumph members are in corpus (Jace and Nissa trivia-passed, Gideon vision-only as of wave 106), and the existing Jace<->Nissa Connections bullet is already half-citing the cycle structure rather than the pair itself — the bullet reads 'WAR Gatewatch Triumph cycle siblings' which is the cycle node trying to be born. The MTG Wiki War of the Spark page Cycles section explicitly frames the Triumphs as 'a direct reflection of the Defeats from Hour of Devastation,' all five are by Kieran Yanner, all share the templated flavor construction and the conditional-upgrade rules text. Same structural shape as eld-cinderella-cycle and dsk-unlucky-lands-cycle. The Cinderella precedent's acceptance of vision-only members at founding time (Beloved Princess ELD-7 listed as inferred-not-strict) covers Gideon's Triumph being trivia-pending. Two of five cycle members (Liliana, Chandra) not yet in corpus and will attach via future CSV uploads. I hope this is alright, sir.",
+  "canonical_sources": [
+    "[MTG Wiki: War of the Spark, Cycles section] — frames the Triumph cycle as 'a direct reflection of the Defeats from Hour of Devastation'",
+    "[Scryfall: s:war name:triumph] — returns all five WAR Triumph cards with Kieran Yanner across the artist field",
+    "[Scryfall: s:hou name:defeat] — returns the bookend HOU Defeat cycle, also entirely by Kieran Yanner",
+    "[Scryfall per-card: WAR-15, WAR-55, WAR-98, WAR-121, WAR-170] — oracle_text, flavor_text, mana_cost, rarity",
+    "[In-corpus: cards/magic-the-gathering/war-of-the-spark/55-jace-s-triumph.md Trivia 'Set context' bullet] — canonicalizes the five-card roster and the HOU Defeat callback structure",
+    "[In-corpus: cards/magic-the-gathering/war-of-the-spark/170-nissa-s-triumph.md Trivia 'Set context' bullet] — cites MTG Wiki verbatim on the HOU-Defeat-reflection framing and identifies Nissa's specific HOU partner (HOU-123)"
+  ],
+  "files_modified": [
+    "cards/_characters/war-gatewatch-triumph-cycle.md (NEW)",
+    "cards/magic-the-gathering/war-of-the-spark/15-gideon-s-triumph.md (added characters: war-gatewatch-triumph-cycle)",
+    "cards/magic-the-gathering/war-of-the-spark/55-jace-s-triumph.md (extended characters list with war-gatewatch-triumph-cycle)",
+    "cards/magic-the-gathering/war-of-the-spark/170-nissa-s-triumph.md (added characters: war-gatewatch-triumph-cycle)",
+    "reports/janitor_triage.md (marked Triumph cycle entry done, HOU Defeat remains deferred)"
+  ],
+  "precedent_cited": [
+    "eld-cinderella-cycle.md — closest structural template (designer-confirmed flavor cycle, character-layer, accepts vision-only members at founding with inferred-membership flag)",
+    "dsk-unlucky-lands-cycle.md — second-precedent for cycle-as-character-layer pattern",
+    "castform-forms-cycle.md — third-precedent (cross-game cycle)",
+    "fear-of-cycle.md — fourth-precedent (Duskmourn cycle)"
+  ],
+  "potion_rule_check": {
+    "verdict": "PASS",
+    "rationale": "The cycle is designer-confirmed via MTG Wiki's explicit naming and via the unambiguous shared-artist-flavor-template-mechanical-template triple-axis cohort signature. The labor and rebellion hub edges flagged in the node body's See-also section are deliberately marked as 'potential, not yet load-bearing' and routed to a future bbl-bundler activation rather than asserted as canonical. No BBL-squinting in the canonical-source claim; all hub attributions are flagged-as-overlay per the Potion Rule discipline."
+  },
+  "next_pass_suggestions": [
+    {
+      "candidate": "Enlightened-Edgelord cleanup of redundant 1:1 Jace-Nissa Connections edge",
+      "rationale": "The 1:1 Jace's Triumph <-> Nissa's Triumph Connections bullets in both cards' bodies are now structurally redundant with the cycle node attachment. The cleanest follow-up is a future enlightened-Edgelord pass that removes the 1:1 bullets and replaces them with a node-pointing bullet (or relies on the cycle node's appears_on for traversal). One-per-invocation discipline says this is NOT done in this pass.",
+      "priority": "low (the redundancy is not harmful, just slightly noisy)"
+    },
+    {
+      "candidate": "Rufflet <-> Braviary 1:1 evolution-line mirror",
+      "rationale": "Carried over from wave 104, deferred at wave 105 in favor of Mitsuhiro Arita artist node, deferred again at wave 106 in favor of this cycle node. Both cards trivia-passed AND both cards route through Mitsuhiro Arita node. Clean Edgelord-default; ship next wave.",
+      "priority": "high"
+    },
+    {
+      "candidate": "Galarian Slowpoke -> galarian-regional-forms attach",
+      "rationale": "Mechanical clerical attach (characters: [galarian-regional-forms] on the card + appears_on: extension on the node). Trivia confirms Galarian Slowpoke is canonical Galar regional Psychic variant.",
+      "priority": "high (mechanical, low-risk)"
+    },
+    {
+      "candidate": "Gideon Jura individual character node",
+      "rationale": "Wave 41 E2 maintained refusal at 1 depiction (BFZ-30) + 1 flavor-speaker (BFZ-49); wave 95 added Gideon's Sacrifice (WAR-14) and wave 106 added Gideon's Triumph (WAR-15). Anchor count is now potentially-at-threshold (2 to 3 depictions depending on Gideon's Sacrifice vision-vs-flavor-speaker review and pending Gideon's Triumph trivia confirming the depicted figure as Gideon canonically). Defer until both conditions resolved.",
+      "priority": "medium (await trivia + vision-review confirmation)"
+    },
+    {
+      "candidate": "HOU Gatewatch Defeat cycle node",
+      "rationale": "Companion cycle to this Triumph node. Zero of five HOU Defeat cards currently in corpus. When any HOU Defeat card lands, consider commissioning a sibling node OR merging into a single gatewatch-defeat-and-triumph-bookend node.",
+      "priority": "low (blocked on corpus acquisition)"
+    }
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

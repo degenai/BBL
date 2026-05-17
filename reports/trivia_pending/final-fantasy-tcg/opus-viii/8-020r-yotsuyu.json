@@ -1,0 +1,47 @@
+{
+  "card_name": "Yotsuyu",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-020R",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name + job field ('Acting Imperial Viceroy') explicitly identify the character as Yotsuyu goe Brutus from FFXIV Stormblood. Black kimono / red obi / pipe are canonical visual identifiers. Internal Square Enix IP — no external crossover risk. ip_verified set to true, ip_confidence upgraded to high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Opus VIII (released March 22, 2019) was the first FFTCG set to introduce Final Fantasy XIV: Stormblood characters to the card game. The set contains 148 cards (60 Common, 36 Rare, 26 Hero, 14 Legend) and also features characters from FFVII, FFIX, FFXV, and Brave Exvius. The FFXIV Starter Deck 2019, released alongside Opus VIII on March 15, included Stormblood characters Lyse and others.",
+      "sources": ["Square Enix North America Press Hub: 'LATEST FINAL FANTASY TRADING CARD GAME OPUS VIII SET NOW AVAILABLE'", "icv2.com: Final Fantasy TCG Opus VIII"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Yotsuyu goe Brutus is the tertiary antagonist of FFXIV: Stormblood (released June 2017) and the primary antagonist of the post-Stormblood patches (4.1-4.3). She served as the Acting Imperial Viceroy of Doma — appointed by Crown Prince Zenos yae Galvus after the Garlean Empire crushed the Doman resistance and killed Lord Kaien. The card's job field reads 'Acting Imperial Viceroy,' the exact title she holds in-game.",
+      "sources": ["Square Enix FFXIV Stormblood story page (na.finalfantasyxiv.com)", "Twinfinite: 'Final Fantasy XIV Latest Patch Cements Yotsuyu as Best-Written Character in Stormblood'", "WebSearch snippet: Yotsuyu character overview"]
+    },
+    {
+      "category": "design",
+      "text": "Yotsuyu is canonically depicted 'draped in an elegant kimono and twirling a slender pipe' in her in-game model — her black kimono with red obi and lacquered pipe are her signature visual identifiers. The card art faithfully reproduces this: black layered kimono, red obi sash, and a thin horizontal staff/pipe at shoulder level. A blue flower hair ornament (seen on the card) also appears in Yotsuyu's in-game character model. The FFTCG dual-layer portrait treatment places a ghost-face of the character in the background — standard for the card game's Backup-type layout.",
+      "sources": ["WebSearch snippet: Yotsuyu/Appearance — Gamer Escape FFXIV wiki", "consolegameswiki.com/wiki/Yotsuyu (via WebSearch)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Yotsuyu 8-020R is a Fire-element Backup card with a cost of 2. Her ability: '{Fire}{Dull}: Choose 1 Forward of cost 5 or less. It cannot block this turn.' This is a control-tempo ability — temporarily neutralizing an opponent's blocker — which maps onto Yotsuyu's in-game role as a political operator who outmaneuvers resistors rather than confronting them directly.",
+      "sources": ["TCGplayer product page: Yotsuyu (8-020R)", "WebSearch snippet: Legendary Wolf Games product listing 8-020R"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on Yotsuyu's writing is split. Some FFXIV players and critics consider her post-Stormblood amnesia arc one of the expansion's strongest moments: 'one of the few characters who does the amnesia trope well.' Others, including Anime Feminist's analysis of female antagonists in Stormblood, critique the arc for infantilizing a villain who committed genuine atrocities and framing her perpetually as a victim. The split tracks a broader debate about FFXIV Stormblood's pacing and characterization. This is community discourse, not an authoritative verdict on the writing.",
+      "sources": ["Twinfinite: Yotsuyu Stormblood patch 4.3 article", "Anime Feminist: 'Redemption and Retribution: Female Antagonists in FFXIV Stormblood'", "ResetEra thread: 'Does FFXIV Have the Best Turn of a Character in a FF Game? (Stormblood spoilers)'"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Zenos yae Galvus", "set": "Opus VIII or later", "note": "Crown Prince who appointed Yotsuyu as viceroy; primary antagonist of Stormblood's main arc"},
+    {"name": "Lyse", "set": "Opus VIII / FFXIV Starter Deck 2019", "note": "Stormblood protagonist and resistance leader; counterpoint to Yotsuyu as viceroy"},
+    {"name": "Gosetsu", "set": "FFTCG if printed", "note": "Doman samurai whose survival alongside amnesiac Yotsuyu drives the post-Stormblood arc"},
+    {"name": "Tsukuyomi", "set": "FFTCG if printed", "note": "Yotsuyu's primal form in the 4.3 boss fight; the culmination of her post-Stormblood arc"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Yotsuyu (Final Fantasy XIV)",
+    "ip_confidence": "high"
+  }
+}

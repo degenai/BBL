@@ -1,0 +1,42 @@
+{
+  "card_name": "Kagamine Rin\"School Swimwear\"",
+  "game": "Weiss Schwarz",
+  "set": "Hatsune Miku -Project DIVA- f",
+  "collector_number": "PD/S22-E087 U",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure matches Kagamine Rin's canonical School Swimwear module from Hatsune Miku: Project DIVA F — short blond hair (module-altered to neck-length), solid blue school swimsuit (navy), warm casual pose. Module confirmed via Project DIVA Wiki (Fandom). The card is a licensed Weiss Schwarz product; Kagamine Rin is a Crypton Future Media / Yamaha VOCALOID character. Not an external IP crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Kagamine Rin's \"School Swimwear\" module is a specific unlockable costume in Hatsune Miku: Project DIVA F, earned by clearing all songs on Hard difficulty and purchasing for 60,000 DIVA Points — one of the more expensive unlocks in the game. The module also appeared in Project DIVA F 2nd (unlocked by clearing 45 songs with Rin) and Project DIVA X. A distinguishing feature of the module is that Rin's hair shortens to neck-length from her standard cut. [Project DIVA Wiki: Kagamine Rin School Swimwear, via WebSearch snippet]",
+      "sources": ["Project DIVA Wiki (Fandom): Kagamine Rin School Swimwear module, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Kagamine Rin and Len were first released December 27, 2007 as Crypton Future Media's second Vocaloid vocal pair (CV02) for the VOCALOID2 engine. The name Kagamine (鏡音) means \"mirrored sound\" — Rin and Len were designed as mirror-image androids, a conceptual twin relationship that permeates their shared module-and-card design in the Project DIVA games and card sets. Both are voiced by Asami Shimoda. [Wikipedia: Kagamine Rin/Len, via WebSearch snippet]",
+      "sources": ["Wikipedia: Kagamine Rin/Len, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The PD/S22 English set (Hatsune Miku -Project DIVA- f) released November 2013 as a Bushiroad Weiss Schwarz licensed expansion. Cards in the set depict in-game Module costumes from the PlayStation 3 rhythm title, making them essentially trading-card illustrations of specific unlockable in-game outfits rather than original character art. [WebSearch: Weiss Schwarz PD/S22 English retailer listings, Amazon Bushiroad Trial Deck]",
+      "sources": ["WebSearch: Weiss Schwarz PD/S22 retailer listings"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Swimwear and casual-outfit module cards for Kagamine Rin appeared across multiple PD/S22 card variants; the School Swimwear variant (E087) is an Uncommon, while higher-rarity Rin cards in the same set depict the Stylish Energy and other modules. The module-art system means each rarity tier typically captures a different in-game costume. [WebSearch: Weiss Schwarz PD/S22 Kagamine Rin card listings]",
+      "sources": ["WebSearch: Weiss Schwarz PD/S22 Kagamine Rin listings including Stylish Energy R reference"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kagamine Len \"Bad Boy\" (A)", "set": "Hatsune Miku -Project DIVA- f", "note": "Twin character; same cohort; parallel card in this wave"},
+    {"name": "Kagamine Rin Swimwear", "set": "Hatsune Miku -Project DIVA- f", "note": "Alternate swimwear module for the same character in the same set"},
+    {"name": "Kagamine Rin School Outfit", "set": "Hatsune Miku -Project DIVA- f", "note": "Thematic sibling module: school swimwear and school outfit variants"},
+    {"name": "ACUTE (PD/S22-E098R RRR)", "set": "Hatsune Miku -Project DIVA- f", "note": "Top-rarity pull in PD/S22; features Rin alongside Len and KAITO"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

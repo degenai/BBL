@@ -30,10 +30,10 @@ tags_filter:
   - creature-human-scout
 reference_image: cards/_images/magic-the-gathering/modern-horizons/117-alpine-guide.png
 average_cost_paid: 0
-market_price: 0.15
-market_price_as_of: 2026-05-16
+market_price: 0.16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/e/5/e54423c1-ebea-4b5c-b563-1d14c104eb91.png?1562201791
 art_match_confidence: high
 needs_manual_review: false

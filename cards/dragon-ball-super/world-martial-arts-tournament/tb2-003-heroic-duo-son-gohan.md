@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-003-heroic-duo-son-gohan.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-05
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408072529/EA31E31ECBA038AB1EA4C2A0D57234AB6BF52281/
 art_match_confidence: high
 needs_manual_review: false

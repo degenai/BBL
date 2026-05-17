@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/184-stubborn-burrowfiend.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/6/d/6d963eb4-d20b-4d3f-bf5d-c75f7bcb9670.png?1712356009
 art_match_confidence: high
 needs_manual_review: false

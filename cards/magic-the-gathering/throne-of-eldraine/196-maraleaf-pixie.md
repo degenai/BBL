@@ -38,9 +38,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/196-maraleaf-pixie.png
 average_cost_paid: 0
 market_price: 0.33
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-06
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/e/6/e6d7f9c9-dd83-4684-a949-1c22f316138a.png?1572490787
 art_match_confidence: high
 needs_manual_review: false

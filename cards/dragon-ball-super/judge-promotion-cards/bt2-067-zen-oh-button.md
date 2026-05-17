@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/judge-promotion-cards/bt2-067-zen-oh-button.png
 average_cost_paid: 0
 market_price: 0.78
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-05
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400938095/D0220FCAD50DACC6F77449EFDCA4F30EDD746081/
 image_width: 624
 image_height: 874

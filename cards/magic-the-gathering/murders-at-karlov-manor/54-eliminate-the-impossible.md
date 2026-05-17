@@ -38,9 +38,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/54-eliminate-the-impossible.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-11
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/4/8/486f1cc2-c162-448e-91a9-577d7d796584.png?1706241597
 art_match_confidence: high
 needs_manual_review: false

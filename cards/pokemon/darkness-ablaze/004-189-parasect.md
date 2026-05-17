@@ -34,16 +34,15 @@ tags_filter:
 reference_image: cards/_images/pokemon/darkness-ablaze/004-189-parasect.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-11
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://images.pokemontcg.io/swsh3/4_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Miki Tanaka
 flavor_text: The bug is mostly dead, with the mushroom on its back having become the main body. If the mushroom comes off, the bug stops moving.
-oracle_text: "Mushroom Tackle (Grass) 30: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
-Solar Beam (GrassGrassColorless) 110
+oracle_text: "Mushroom Tackle (Grass) 30: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.\nSolar Beam (GrassGrassColorless) 110"
 mood: other
 time_of_day: day
 setting: forest

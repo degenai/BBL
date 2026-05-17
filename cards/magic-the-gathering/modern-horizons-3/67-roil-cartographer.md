@@ -32,10 +32,10 @@ tags_filter:
   - female-figure
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/67-roil-cartographer.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-16
+market_price: 0.19
+market_price_as_of: 2026-05-17
 date_added: 2026-05-11
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/8/4/84317f9d-5a24-4f74-9c3e-0a8b5c15bb5f.png?1717011756
 art_match_confidence: high
 needs_manual_review: false

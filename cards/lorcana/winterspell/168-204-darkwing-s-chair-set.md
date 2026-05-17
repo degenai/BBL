@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/lorcana/winterspell/168-204-darkwing-s-chair-set.jpg
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set11/168_be035d812029ef2046fdefad590cada4ac0e0e6d.jpg
 art_match_confidence: high
 needs_manual_review: false

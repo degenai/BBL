@@ -1,0 +1,52 @@
+{
+  "wave": 110,
+  "edge_id": "wave110-liliana-vess--commissioned-node-after-war-namesake-cycle-refusal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/liliana-vess.md", "name": "Liliana Vess (NEW)"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/14-gideon-s-sacrifice.md", "name": "Gideon's Sacrifice (WAR-14)"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/190-despark.md", "name": "Despark (WAR-190)"}
+  ],
+  "description": "Oh, sir — I'm terribly sorry, I know Edgelord was hoping for a broader WAR planeswalker-namesake cycle node to admit Sarkhan's Catharsis alongside the Triumph cycle, but I had to step in. The receipts just don't support it: Sarkhan's Catharsis is by Zack Stella (the existing Triumph cycle is uniformly Kieran Yanner — that's one of the cycle's four canonical predicates), it carries no planeswalker-conditional clause (the second predicate), Sarkhan isn't a Gatewatch founder (the third predicate), and its cost band ({4}{R}) doesn't match the cycle's 1-3 CMC uncommons. Across the 18 WAR planeswalker-namesake cards in corpus there are 15 different artists, mixed rarities, mixed mechanics, and the Saheeli's Silverwing / Arlinn's Wolf members aren't even spells — the '[Walker]'s [Noun]' pattern is a WAR-wide flavor convention applied to a tag, not a designer-coordinated cycle. So I had to refuse the broader node (it would have been a Potion-rule violation, sub-rule 1: BBL squinting at a Wizards naming convention as if it were canon). I hope you don't mind, sir, but the strongest receipt-backed move I could find instead was commissioning the Liliana Vess individual character node — she has two ip_verified-true, trivia-passed corpus depictions in WAR (Despark depicts her commanding the God-Eternals; Gideon's Sacrifice depicts her recoiling as Gideon transfers her death-curse onto himself), the [[gideon-jura]] node already names her as a probable first-anchor future-node candidate in its caveats, and the WAR climax is structurally incomplete without her side of the Gatewatch-resolution diptych anchored. I really do think this will help the graph, sir. The Sarkhan question remains open as a single-card solo, and the broader WAR-namesake-pattern is properly captured as a tag-bridge by `tags_hub: planeswalker` — no node required there. Please consider it.",
+  "citations": [
+    "[Scryfall: WAR-144 Sarkhan's Catharsis artist=Zack Stella, mana_cost={4}{R}, oracle_text=flat-damage-no-conditional]",
+    "[Scryfall: WAR Triumph cycle s:war name:triumph, all five Kieran Yanner per artist field]",
+    "[Scryfall: WAR-190 Despark story_spotlight:true, flavor_text names Liliana]",
+    "[Scryfall: WAR-14 Gideon's Sacrifice story_spotlight:true, flavor_text names Liliana]",
+    "[MTG Wiki: Liliana Vess character page]",
+    "[MTG Wiki: War of the Spark Story Spotlights]",
+    "[MTG Wiki: War of the Spark/Event, Liliana commanding God-Eternals against Bolas]",
+    "[MTG Wiki: Chain Veil artifact]",
+    "[Wizards: War of the Spark: Ravnica, Greg Weisman, Del Rey 2019]",
+    "[Wizards: War of the Spark: Forsaken, Greg Weisman, Del Rey 2019]",
+    "[Hipsters of the Coast: WAR Gideon-Liliana coverage 2019-05-10]",
+    "[BBL precedent: gideon-jura caveat #3 — Gideon's Sacrifice is also a Liliana Vess depiction; future Liliana node would also edge to WAR-14]",
+    "[BBL precedent: jace-beleren and chandra-nalaar planeswalker-individual-node shape, wave 92]",
+    "[BBL precedent: nicol-bolas Bolas-Falls cluster multi-character attachment pattern]"
+  ],
+  "files_modified": [
+    "cards/_characters/liliana-vess.md (NEW)",
+    "cards/magic-the-gathering/war-of-the-spark/14-gideon-s-sacrifice.md (characters: added liliana-vess)",
+    "cards/magic-the-gathering/war-of-the-spark/190-despark.md (characters: added liliana-vess)"
+  ],
+  "refused_alternative": {
+    "alternative_id": "war-planeswalker-namesake-spells-cycle (broader-than-Triumph cycle node)",
+    "refusal_reason": "Not a designer-coordinated cycle. 18 corpus cards with the '[Walker]'s [Noun]' name pattern in WAR span 15 different artists, mixed rarities (C and U), mixed mana costs ({W} through {5}{U}), mixed mechanics (only the 5 Triumphs have the planeswalker-conditional template), mixed character roster (Gatewatch founders + non-Gatewatch + new WAR walkers like Saheeli/Davriel), and includes non-spell creatures (Saheeli's Silverwing, Arlinn's Wolf). The pattern is a WAR-wide flavor convention, not a designer cycle. Per Potion rule sub-rule 1 (distinguish canonical-event from curatorial-overlay) and sub-rule 4 (don't promote pattern-instance to new structural-primitive vocabulary). The tag-bridge is already captured by `tags_hub: planeswalker`. No node required.",
+    "refusal_citations": [
+      "[Scryfall WAR set artist diversity: Daarken, Kollros, Yanner, Adame Minguez, Yanner, Rallis, Stella, Briclot, Ljunggren, Briclot, Adame Minguez, Yanner, Meehan, Kieryluk, Epstein across 15 of 18 namesake cards]",
+      "[Scryfall WAR-144 Sarkhan's Catharsis: oracle_text=flat-damage, mana_cost={4}{R}, no conditional clause, breaks Triumph-cycle predicate]",
+      "[BBL Potion rule canonical reference: cards/_hubs/_triple-thesis.md]"
+    ]
+  },
+  "other_candidates_considered": [
+    "(a) New broader cycle node `war-planeswalker-namesake-spells-cycle` — REFUSED above; not a designer-coordinated cohort.",
+    "(b) Extend `war-gatewatch-triumph-cycle` to admit Sarkhan's Catharsis — REFUSED; would dissolve every one of the four canonical cycle predicates (Yanner artist + Gatewatch-founder + planeswalker-conditional mechanic + shared flavor template).",
+    "(c) Sarkhan Vol individual character node — REFUSED; only 1 corpus depiction (WAR-144 itself); below the ≥2 threshold per the gideon-jura / jace-beleren / chandra-nalaar precedent. Stage for future-node candidacy when a second Sarkhan-depicting card lands.",
+    "(d) Gideon Jura node rigor audit per bbl-edgelord-node-rigor-audit memory — read full node body and found it rigorous and well-cited; no audit findings. Liliana commissioning is the more load-bearing move.",
+    "(e) Mirror edge between Despark (WAR-190) and God-Eternal Bontu (WAR-92, also in corpus, also Bolas-Falls-adjacent) — DEFERRED; Bontu is currently attached via the nicol-bolas node's narrative-agent criterion. After Liliana commissioning, the Despark↔Bontu edge could be drawn (both depict the Liliana-commands-God-Eternals beat from different angles) but is downstream of having Liliana anchored — surface for a future Edgelord pass.",
+    "(f) Mirror edge between Despark and Gideon's Sacrifice as the two-card Liliana-WAR-arc cluster — DEFERRED; the Liliana node now anchors both via appears_on. The two cards' explicit cluster is captured by both attaching to the same character node (preferred shape per the Bolas-Falls precedent — three Bolas-Falls cards attach to nicol-bolas, no card-to-card mirrors required since the character node anchors them). The existing Despark ↔ Topple the Statue and Despark ↔ Prison Realm Bolas-Falls edges remain valid and untouched."
+  ],
+  "edgelord_mood": "nodeley-apologetic-but-correct"
+}

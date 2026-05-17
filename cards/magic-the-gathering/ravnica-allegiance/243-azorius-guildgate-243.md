@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/243-azorius-guildgate-243.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-12
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/9/3/93cf5412-c711-41b4-ab3b-7788a0a22228.png?1584832215
 art_match_confidence: high
 needs_manual_review: false

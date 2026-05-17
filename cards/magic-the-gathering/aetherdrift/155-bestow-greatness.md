@@ -35,9 +35,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/aetherdrift/155-bestow-greatness.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-10
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/b/6/b6a5adee-3482-4c5b-9260-58efa8fec5ba.png?1738356483
 art_match_confidence: high
 needs_manual_review: false

@@ -42,10 +42,10 @@ tags_filter:
   - fear-of-cycle
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/134-fear-of-being-hunted.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-16
+market_price: 0.1
+market_price_as_of: 2026-05-17
 date_added: 2026-05-11
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/a/0/a0a5e716-68c1-4fa0-aa08-5b08114e08d8.png?1726286347
 art_match_confidence: high
 needs_manual_review: false

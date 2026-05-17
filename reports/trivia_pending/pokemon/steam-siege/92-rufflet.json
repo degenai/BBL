@@ -1,0 +1,46 @@
+{
+  "card_name": "Rufflet",
+  "game": "Pokemon",
+  "set": "Steam Siege",
+  "collector_number": "92",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, Pokedex national no. 627, and described art (small eagle-like bird, white and gray-blue feathering, yellow beak, head-tuft, wings spread in flight) are a direct match to the canonical Rufflet species introduced in Generation V (Pokemon Black/White). No ambiguity. Confirmed via PokeAPI species ID 627 and Bulbapedia design record.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Steam Siege (XY11) was released August 3, 2016 — the eleventh expansion of the XY Series. Its Japanese releases were titled 'Fever-Burst Fighter' and 'Cruel Traitor', emphasizing a conflict theme between the set's featured Mega Evolutions. Rufflet (no. 92) is a Common Colorless-type filler in the set, riding alongside headline cards like Volcanion-EX and Mega Gardevoir-EX. [Bulbapedia: Steam Siege (TCG), via WebSearch snippet]",
+      "sources": ["Bulbapedia: Steam Siege (TCG), via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Rufflet (National Pokedex no. 627) was introduced in Generation V (Pokemon Black and White, 2010) and is based on a bald eagle chick. Its red, white, and blue color scheme and the single plume on its head are intentional references to American national iconography — Unova's design team drew from the region's real-world New York basis to shape the Rufflet/Braviary line as an American-eagle allegory. Designer credit: Takao Unno. [Bulbapedia: Rufflet, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Rufflet, via WebSearch snippet", "PokeAPI species endpoint"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.\" — Pokedex flavor text (Pokemon White), also used verbatim on this Steam Siege card. [Stamped frontmatter flavor_text field; PokeAPI species entry confirmed matching text for Pokemon White version]",
+      "sources": ["Card frontmatter flavor_text", "PokeAPI /pokemon-species/rufflet"]
+    },
+    {
+      "category": "design",
+      "text": "The artist Mitsuhiro Arita has illustrated over 800 Pokemon TCG cards across nearly every major expansion since the 1996 Base Set — including the original Base Set Charizard, now the most valuable Pokemon card in existence (a pristine Japanese No Rarity Charizard sold for $1.7 million in March 2026). Arita's signature approach is depicting Pokemon in naturalistic habitats in motion, and this Rufflet — mid-flight against open sky — is characteristic of that style. [GamesRadar+ Mitsuhiro Arita interview; Bleeding Cool artist spotlight, via WebSearch snippet]",
+      "sources": ["GamesRadar+: Mitsuhiro Arita interview, via WebSearch snippet", "Bleeding Cool: Pokemon TCG Artist Spotlight, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rufflet evolves into Braviary starting at level 54, one of the latest evolution thresholds in Generation V. In the Pokemon games, Rufflet is a version-exclusive found only in Pokemon White (and White 2), while Vullaby/Mandibuzz occupy the equivalent slot in Black. On this TCG card, the sole attack is 'Reckless Charge' — 20 damage for one Colorless energy, with 10 recoil to itself — mechanically mirroring the Pokedex flavor text's 'challenges everything regardless of cost' theme. [PokeAPI; card frontmatter oracle_text]",
+      "sources": ["PokeAPI /pokemon-species/rufflet", "Card frontmatter oracle_text"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Braviary", "set": "various", "note": "Direct evolution of Rufflet — Rufflet/Braviary 1:1 mirror flagged for next Edgelord pass"},
+    {"name": "Vullaby", "set": "various", "note": "Version-exclusive counterpart (Pokemon Black) — same evolutionary tier, opposite version"},
+    {"name": "Volcanion-EX", "set": "Steam Siege", "note": "Headlining card of the same XY11 Steam Siege set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Rufflet",
+    "ip_confidence": "high"
+  }
+}

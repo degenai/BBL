@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/22-orphans-of-the-wheat.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/8/e/8ef4aab1-8bc0-4652-91d7-3e8b20b411ad.png?1726285941
 art_match_confidence: high
 needs_manual_review: false

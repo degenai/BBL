@@ -36,9 +36,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/magic-2014-m14/226-vial-of-poison.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-07
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/7/7/7769159b-5a6a-45e5-b69b-8db2a6ef5418.png?1562831166
 art_match_confidence: high
 needs_manual_review: false

@@ -35,9 +35,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-052-gift-of-power-guru.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-12
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401031704/31F467D99C7312C223C24DCF26099A44CFDE3CFC/
 image_width: 624
 image_height: 871

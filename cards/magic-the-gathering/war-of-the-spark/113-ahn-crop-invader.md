@@ -14,10 +14,10 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/113-ahn-crop-invader.png
 average_cost_paid: 0
-market_price: 0.04
-market_price_as_of: 2026-05-16
+market_price: 0.03
+market_price_as_of: 2026-05-17
 date_added: 2026-05-16
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/2/d/2dea2466-5c7f-40ce-b749-100ae89d2c90.png?1557576604
 art_match_confidence: high
 needs_manual_review: false

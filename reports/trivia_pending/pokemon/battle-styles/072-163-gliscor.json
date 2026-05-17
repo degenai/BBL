@@ -1,0 +1,46 @@
+{
+  "card_name": "Gliscor",
+  "game": "Pokemon",
+  "set": "Battle Styles",
+  "collector_number": "072/163",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via PokemonTCG.io API (swsh5-72). National Pokedex no. 472. Artist: ryoma uratsuka. Bat-scorpion silhouette is unambiguous Gliscor. Pokemon Company internal IP, no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Uncommon from Sword & Shield Battle Styles (swsh5), released March 19, 2021. Stage 1 Fighting-type evolving from Gligar. Artist: ryoma uratsuka. Regulation mark E.",
+      "sources": ["PokemonTCG.io API: swsh5-72"]
+    },
+    {
+      "category": "set-lore",
+      "text": "National Pokedex no. 472. Ground/Flying dual-type introduced Generation IV (Sinnoh). Evolves from Gligar when leveled up holding a Razor Fang at night — nocturnal item-based evolution mechanic.",
+      "sources": ["PokemonTCG.io API: swsh5-72", "Serebii Pokedex no. 472, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Its flight is soundless. It uses its lengthy tail to carry off its prey… Then its elongated fangs do the rest.\" Soundless aerial ambush predator; barbed tail grabs prey, fangs finish. Card's Guillotine attack (90 damage) directly mirrors the fang-strike finishing move.",
+      "sources": ["PokemonTCG.io API: swsh5-72 (flavor text)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Gliscor's defining competitive trait: Poison Heal + Toxic Orb converts self-poison into passive healing and grants status immunity. Smogon OU placement across multiple generations as Spikes setter and Substitute-based stall-breaker.",
+      "sources": ["Smogon: Gliscor OU; Smogon Forums ORAS OU thread, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Despite nearly doubling in size during evolution (Gligar 1.1m to Gliscor 2.0m), Gliscor is lighter than its pre-evolution — consistent with vampire bat anatomy (hollow bones for flight).",
+      "sources": ["Serebii Pokedex no. 472; Bulbapedia: Gliscor, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Gligar", "set": "Multiple sets", "note": "Pre-evolution; Ground/Flying type from Gen II Johto; Gliscor's evolutionary predecessor"},
+    {"name": "Gliscor", "set": "Other sets", "note": "Reprinted across Gen IV era sets; Battle Styles is the Sword & Shield E-mark version"},
+    {"name": "Garchomp", "set": "Multiple sets", "note": "Fellow Sinnoh apex predator; Ground-type niche overlap in flavor and competitive framing"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

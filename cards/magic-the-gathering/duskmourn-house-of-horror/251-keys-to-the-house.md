@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/251-keys-to-the-house.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/8/c/8c11a413-7f33-4b63-bdd9-e143e529f56d.png?1726286811
 art_match_confidence: high
 needs_manual_review: false

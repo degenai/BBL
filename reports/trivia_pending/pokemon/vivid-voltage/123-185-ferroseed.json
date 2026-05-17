@@ -1,0 +1,40 @@
+{
+  "card_name": "Ferroseed",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "123/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, Pokedex national no. 597, and described art (small spherical creature densely covered in metallic spines, grey-green body, angular pale eyes, rocky canyon setting) are an unambiguous match to the canonical Ferroseed species introduced in Generation V. PokeAPI species ID 597 confirmed. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Vivid Voltage (SWSH4, set code swsh4) was released November 13, 2020 — the fourth expansion of the Sword & Shield Series. The set is based on Japan's S4 'Electrifying Tackle' release and contains 185 cards plus 18 secret rares. Ferroseed (no. 123/185) is a Common Grass-type in a set dominated by Electric-type headliners. [Bulbapedia: Vivid Voltage (TCG), via WebSearch snippet]",
+      "sources": ["Bulbapedia: Vivid Voltage (TCG), via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Ferroseed (National Pokedex no. 597) was introduced in Generation V (Pokemon Black and White, 2010). Its type combination — Grass/Steel — is one of the most defensively unusual in the franchise: Steel provides 9 resistances and a Poison immunity, while Grass fills an otherwise rare niche. Ferroseed is the only pre-evolution with a single ability, Iron Barbs, which deals recoil damage to opponents using contact moves. [PokeAPI /pokemon-species/597; Smogon: Ferroseed, via WebSearch snippet]",
+      "sources": ["PokeAPI /pokemon-species/597", "Smogon: Ferroseed dex entry, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It defends itself by launching spikes, but its aim isn't very good at first. Only after a lot of practice will it improve.\" — flavor text printed on this card. Pokedex entries across the games describe Ferroseed clinging to cave ceilings and absorbing iron from rock to generate its metallic spines, consistent with the canyon setting depicted in this art. [Card frontmatter; PokeAPI /pokemon-species/ferroseed: White version entry 'They stick their spikes into cave walls and absorb the minerals they find in the rock.']",
+      "sources": ["Card frontmatter flavor_text", "PokeAPI /pokemon-species/ferroseed"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Ferrothorn, Ferroseed's evolution, has been a recurring VGC tournament staple due to its 9 resistances, Leech Seed + Leftovers recovery loop, and near-zero Speed stat that becomes an asset under Trick Room. Smogon usage data shows Leech Seed (89%), Protect (88%), and Body Press (74%) as its top competitive moves. In the TCG, Ferroseed's 'Reaction' attack (10 Metal damage, then switch with a Benched Pokemon) echoes its defensive-pivot role: deal minor chip, reposition. [Smogon: Ferrothorn BW/VGC; Pikalytics VGC 2022, via WebSearch snippet; card frontmatter oracle_text]",
+      "sources": ["Smogon: Ferrothorn, via WebSearch snippet", "Pikalytics VGC stats, via WebSearch snippet", "Card frontmatter oracle_text"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ferrothorn", "set": "various", "note": "Direct evolution — the competitive-staple endpoint of this line"},
+    {"name": "Ferroseed", "set": "various", "note": "Multiple printings across sets; qty: 3 in inventory suggests bulk common; compare other printings for art variation"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Ferroseed",
+    "ip_confidence": "high"
+  }
+}

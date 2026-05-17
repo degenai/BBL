@@ -7,7 +7,7 @@ rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 2
+quantity: 3
 held_for_lair: 0
 bundles: []
 tags_hub:
@@ -35,10 +35,10 @@ tags_filter:
   - scry
 reference_image: cards/_images/magic-the-gathering/core-set-2021/211-track-down.png
 average_cost_paid: 0
-market_price: 0.27
-market_price_as_of: 2026-05-16
+market_price: 0.29
+market_price_as_of: 2026-05-17
 date_added: 2026-05-06
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/b/4/b41b6c8a-bd76-4b69-ae72-4c8acac379b4.png?1594737287
 art_match_confidence: high
 needs_manual_review: false

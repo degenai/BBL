@@ -1,0 +1,41 @@
+{
+  "card_name": "Coordinator, Mitama",
+  "game": "Weiss Schwarz",
+  "set": "Magia Record: Puella Magi Madoka Magica [Side Story] (Anime)",
+  "collector_number": "MR/W80-E091 C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Canonical Puella Magi Wiki confirms Mitama Yakumo's occupation is listed as 'Coordinator', her outfit is a black corset over a white collared shirt with frilled sleeves — matching the Vision section's 'dark outfit with white collar and frilly details'. Silver/grey hair and blue eyes confirmed. Card title 'Coordinator, Mitama' is Weiss Schwarz naming convention for the character in her defined role. IP is internal to the Magia Record / Shaft / Aniplex franchise, not an external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "MR/W80 is the English-edition Weiss Schwarz set for the TV anime adaptation of Puella Magi Madoka Magica Side Story: Magia Record, released April 23, 2021, containing 167 cards. The anime ran in two cours (2020 and 2021) and adapted the mobile game's Kamihama City story arc. [en.ws-tcg.com card database, WebSearch snippet]",
+      "sources": ["en.ws-tcg.com card database", "WebSearch snippet: littleAKIBA/Weiss Schwarz Magia Record"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Mitama Yakumo's title 'Coordinator' (調整屋さん, choseiya-san — literally 'adjustment-shop operator') is her canonical in-world occupation: she trades magical enhancements of other girls' Soul Gems in exchange for Grief Seeds, functioning as an economy hub in Kamihama City. She initially appeared as a non-playable shopkeeper figure in the 2017 mobile game before becoming a playable character in April 2018. [Puella Magi Wiki: Mitama Yakumo]",
+      "sources": ["Puella Magi Wiki: Mitama Yakumo (wiki.puella-magi.net)"]
+    },
+    {
+      "category": "design",
+      "text": "Mitama's character design (primary artist: Punyan) features silver hair, blue X-shaped Soul Gem worn as a hair ribbon, and a black corset over a white frilled-sleeve shirt with a cadet blue tailcoat — all of which are consistently reproduced in the card's illustration. Her Doppel (Witch form) is named Totentanz, a reference to the medieval 'Dance of Death' allegory. [Puella Magi Wiki: Mitama Yakumo]",
+      "sources": ["Puella Magi Wiki: Mitama Yakumo (wiki.puella-magi.net)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Mitama's wish to Kyubey was: 'I want to become the existence that destroys Kamihama' — a darker contract than her cheerful shopkeeper persona suggests. Her true power, revealed in her Magical Girl Side Story, is not benign adjustment but the ability to 'tamper with other magical girls' magic', described as akin to a curse. [Puella Magi Wiki: Mitama Yakumo]",
+      "sources": ["Puella Magi Wiki: Mitama Yakumo (wiki.puella-magi.net)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Coordinator, Mitama (other prints)", "set": "MR/W80 (various numbers)", "note": "Weiss Schwarz typically prints multiple cards of the same character at different rarities across a set"},
+    {"name": "Iroha Tamaki cards", "set": "MR/W80", "note": "Iroha is the protagonist of Magia Record; central story character in the same set"},
+    {"name": "Yachiyo Nanami cards", "set": "MR/W80", "note": "Yachiyo is a senior magical girl who works closely with Mitama's coordination network in Kamihama"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

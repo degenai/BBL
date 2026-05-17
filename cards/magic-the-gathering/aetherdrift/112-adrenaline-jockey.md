@@ -36,9 +36,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/aetherdrift/112-adrenaline-jockey.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-11
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/c/8/c8655373-320d-440d-b700-d03413f743fd.png?1738356376
 art_match_confidence: high
 needs_manual_review: false

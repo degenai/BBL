@@ -1,0 +1,42 @@
+{
+  "card_name": "Freya",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-126H",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name + FFIX Hero rarity + Burmecian rodent features + long spear + jester companion figure (matching Amano's documented FFIX concept art) confirm Freya Crescent from Final Fantasy IX. Card art is consistent with Yoshitaka Amano's watercolor/ink style; Opus VIII's official FFIX illustrator credit goes to Toshitaka Matsuda, but the specific artist for 8-126H could not be confirmed via accessible sources — logged as uncertain. Internal Square Enix IP. No external crossover risk. ip_verified set to true, ip_confidence high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Freya Crescent is a Burmecian Dragoon Knight from Final Fantasy IX (2000) and one of the game's main party members. She is historically significant as the first-ever playable female Dragoon character with a fixed class in the Final Fantasy franchise — not a player-assigned job, but a role intrinsic to her character. Her name draws from Freyja, the Norse goddess of love, war, beauty, and death.",
+      "sources": ["Wikipedia: Freya Crescent", "Game Rant: '10 Things Most Players Don't Know About Freya Crescent'"]
+    },
+    {
+      "category": "design",
+      "text": "Freya was originally designed by Yoshitaka Amano during FFIX's early development, before the final in-game model was created by Toshiyuki Itahana. In Amano's original concept art, Freya is depicted with a small jester-like or pixie figure beside her — wearing a pointed hat similar to Freya's own. The FFTCG 8-126H card art reproduces this Amano concept composition exactly: a tall stylized dragoon in flowing robes with a lance, alongside 'a small jester-like companion figure with a pointed hat' (vision pass). This makes 8-126H a direct reproduction of pre-release FFIX concept art rather than the final in-game design. The art style — loose watercolor, gestural ink, pale grounds — is consistent with Amano's known illustration style. Note: Opus VIII's official FFIX original illustrator credit is given to Toshitaka Matsuda; the specific artist credit for 8-126H could not be confirmed from accessible sources and should be verified against the physical card.",
+      "sources": ["Wikipedia: Freya Crescent (Amano concept art)", "Game Rant: '10 Things Most Players Don't Know About Freya Crescent'", "WebSearch: Zerochan Amano Freya concept image", "Square Enix North America Press Hub: Opus VIII official FFIX artist listed as Toshitaka Matsuda"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Freya 8-126H is a Hero-rarity card. Her ability reads: 'If you control a Job Dragoon or a Card Name Dragoon other than Freya, Freya gains Haste. When Freya enters the field or attacks, choose 1 Forward opponent controls. It loses 2000 power until the end of the turn.' The Haste conditional on dragoon-synergy directly reflects Freya's in-game role as a Dragoon Knight in an ensemble party. The element and cost could not be confirmed from accessible sources — verify against physical card or official FFTCG database.",
+      "sources": ["WebSearch snippet: TCGplayer / Legendary Wolf Games product listing 8-126H ability text"]
+    },
+    {
+      "category": "design",
+      "text": "Freya's FFIX backstory: five years before FFIX's events, she left Burmecia to search the world for her lost love Sir Fratley, who had left to hone his skills and never returned. When she finds him during the game, he has lost all memory of her due to amnesia. This backstory — noble loyalty, forgotten love, a world destroyed around her — is why Freya is frequently cited as FFIX's most emotionally resonant playable character despite being critiqued for receiving inadequate story development after the first act.",
+      "sources": ["Wikipedia: Freya Crescent", "Final Fantasy Wiki: Freya Crescent (via WebSearch)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Freya (3-114C)", "set": "Opus III", "note": "Earlier FFTCG Freya card; Lightning-element Forward, Dragoon job, Haste + First Strike — same character, different printing"},
+    {"name": "Zidane", "set": "FFTCG various", "note": "FFIX protagonist; shares set/game origin with Freya"},
+    {"name": "Vivi", "set": "FFTCG various", "note": "FFIX Black Mage party member; shares game origin"},
+    {"name": "Kain Highwind", "set": "FFTCG various", "note": "FFIV Dragoon; shares the Dragoon job synergy that activates Freya's Haste"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Freya Crescent (Final Fantasy IX)",
+    "ip_confidence": "high"
+  }
+}

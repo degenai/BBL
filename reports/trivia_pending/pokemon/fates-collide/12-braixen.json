@@ -1,0 +1,41 @@
+{
+  "card_name": "Braixen",
+  "game": "Pokemon",
+  "set": "Fates Collide",
+  "collector_number": "12",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Braixen is a canonical Pokemon IP (National Pokedex no. 654, Generation VI). The card title, PokemonTCG.io API, and the Fates Collide set list confirm the depicted figure is Braixen. The bipedal fox form with twig/flame protruding from the tail is Braixen's defining canonical feature, confirmed by the flavor text on this card. No external-IP risk; internal Nintendo/Game Freak IP.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Fates Collide (XY10) was released May 2, 2016 in English, the tenth main expansion in the XY Series. The set features Zygarde in multiple Formes as its headline Legendary, alongside Lugia BREAK and Mega Altaria-EX. The set contains 124 cards plus 1 secret rare. Braixen appears as card no. 12/124, an Uncommon Stage 1. [PokemonTCG.io API: xy10-12]",
+      "sources": ["PokemonTCG.io API: xy10-12", "WebSearch snippet: PokeBeach Fates Collide set info"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Braixen is National Pokedex no. 654, the Stage 1 (middle evolution) of the Kalos Fire-type starter line: Fennekin (no. 653) evolves into Braixen at level 16, which evolves into Delphox (no. 655, Fire/Psychic) at level 36. Braixen's design draws from the fennec fox and the kitsune of Japanese mythology — fox spirits associated with fire and shape-shifting into human-like forms, which accounts for Braixen's bipedal, anthropomorphic silhouette relative to the quadruped Fennekin. [WebSearch snippet: Bulbapedia Braixen, Pokemon Database Braixen]",
+      "sources": ["WebSearch snippet: Bulbapedia Braixen (Poke%C3%A9mon)", "WebSearch snippet: Pokemon Database Braixen"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.' The twig carried in Braixen's tail-fur is both a weapon and a communication tool — a detail that underscores the kitsune-mochi design reference (Japanese foxes associated with magical wand-like implements). [PokemonTCG.io API: xy10-12]",
+      "sources": ["PokemonTCG.io API: xy10-12"]
+    },
+    {
+      "category": "design",
+      "text": "Card illustrated by kirisAki, a Pokemon TCG artist known for dynamic action compositions. The Fates Collide Braixen card uses a three-quarter facing mid-shot with a flame-twig prominently featured, consistent with kirisAki's tendency toward active, energetic poses for Fire-type subjects. [PokemonTCG.io API: xy10-12]",
+      "sources": ["PokemonTCG.io API: xy10-12"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fennekin", "set": "various XY-era sets", "note": "Braixen's pre-evolution; the Kalos Fire starter in its base form"},
+    {"name": "Delphox", "set": "various XY-era sets", "note": "Braixen's final evolution; Fire/Psychic dual type with a stronger version of the wand-flame mechanic"},
+    {"name": "Braixen (Kalos Starter Set 9/39)", "set": "Kalos Starter Set", "note": "An earlier Braixen print from the XY-era launch starter set — same character, different illustration"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

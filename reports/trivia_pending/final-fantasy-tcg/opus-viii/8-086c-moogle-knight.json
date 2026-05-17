@@ -1,0 +1,46 @@
+{
+  "card_name": "Moogle Knight",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-086C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Moogle Knight / Mog Knight is a moogle-exclusive job class in Final Fantasy Tactics Advance, not a named individual character. The depicted figure is a generic Mog Knight. IP is Square Enix internal to their own TCG product — no external crossover risk. ip_verified flipped to true; ip_confidence remains high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Moogle Knight (8-086C) is a Common card from FFTCG Opus VIII, released March 22, 2019. Opus VIII featured FFTA alongside FFXIV: Stormblood, FFVII, FFIX, and FF Brave Exvius; exclusive art was provided by Ryoma Ito (FFTA artist), Yasuhisa Izumisawa, and Toshitaka Matsuda.",
+      "sources": ["Square Enix / na.finalfantasy.com news/1043, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Earth-element Forward, Cost 3, Power 5000, job: Standard Unit. Earth-element in FFTCG aligns with physicality and ground-bound power, consistent with the Mog Knight's stat archetype in FFTA.",
+      "sources": ["TCGPlayer / Collector's Cache retailer listings, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "IP clarification: Moogle Knight (also Mog Knight in FFTA) is a race-exclusive job class, not a named character. Highest-attack moogle class in FFTA; Paladin-comparable stats; signature abilities: Mog Rush, Mog Guard, Ultima Charge, Charge Combo. The depicted figure is a generic Mog Knight.",
+      "sources": ["Final Fantasy Wiki: Mog Knight; StrategyWiki: FFTA/Mog_Knight, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "The Mog Knight is locked to the Moogle race in FFTA and requires only one mastered Animist ability to unlock — an accessible early-game power class. Race-locked jobs are a defining FFTA design feature vs. race-agnostic jobs in other FF titles.",
+      "sources": ["GameFAQs FFTA Moogle Jobs Guide; StrategyWiki FFTA/Mog_Knight, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Moogles are one of the most consistent recurring races across the Final Fantasy series (FFIII through FFXVI). This card specifically anchors the Mog Knight iteration from the GBA-era Tactics branch within the FFTCG corpus.",
+      "sources": ["Final Fantasy Wiki: Moogle, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mog Knight (FFTA2)", "set": "Unknown Opus", "note": "Same job class in Final Fantasy Tactics A2: Grimoire of the Rift — potential later Opus FFTCG card"},
+    {"name": "Moogle (various)", "set": "Multiple Opus sets", "note": "Other moogle-type cards across FFTCG — cross-Opus moogle cluster anchor"},
+    {"name": "Animist (FFTA)", "set": "Unknown Opus", "note": "The Mog Knight's unlock prerequisite in FFTA — potential related FFTCG card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

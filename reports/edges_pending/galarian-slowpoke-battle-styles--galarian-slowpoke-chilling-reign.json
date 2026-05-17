@@ -1,0 +1,54 @@
+{
+  "wave": 108,
+  "edge_id": "galarian-slowpoke-battle-styles--galarian-slowpoke-chilling-reign",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/pokemon/battle-styles/054-163-galarian-slowpoke.md",
+      "name": "Galarian Slowpoke (Battle Styles 054/163)"
+    },
+    {
+      "type": "card",
+      "path": "cards/pokemon/chilling-reign/054-198-galarian-slowpoke.md",
+      "name": "Galarian Slowpoke (Chilling Reign 054/198)"
+    }
+  ],
+  "description": "Pre-flight resolved the parent's scope question against the candidate attach. The galar-research-tradition node ALREADY documents its own scope adjudication in its body (Caveats + See-also): Galarian regional forms are research-OBJECTS not research-PRACTITIONERS, and the sibling node galarian-regional-forms is explicitly named twice as the proper home — with a conditional dual-pointer escape hatch only when a Galar-regional-form card carries research-framing flavor text. Battle Styles Galarian Slowpoke's flavor is pure species-natural-history (Galarica diet, spicy tail); no Professor, no research station, no academic-framing. Dual-pointer condition NOT satisfied. The galar-research-tradition attach is REFUSED with the node's own caveats as receipts. The galarian-regional-forms node, however, already lists a Chilling Reign Galarian Slowpoke in appears_on, and per its stated duplicate-species policy at line 93 a second print does not get a new appears_on entry — it gets a Mr-Mime-precedent 1:1 Connections mirror to the first print plus an inline mention in the cohort's existing Galarian Slowpoke bullet plus a characters: frontmatter pointer on the new card. That is the move this wave. Two prints, one species, identical Pokedex flavor citation, two different regional habitats. Clean mirror. Sigh — must be traversable from either side.",
+  "citations": [
+    "[Bulbapedia: Galarian Slowpoke — primary species page; canonical Galarica-seed adaptation mechanism]",
+    "[PokemonTCG.io: swsh5-054 (Battle Styles) and swsh6-054 (Chilling Reign) per-card pages]",
+    "[Card frontmatter flavor_text on both prints — identical Pokedex line on each]",
+    "[cards/_characters/galarian-regional-forms.md — node's stated duplicate-species policy at line 93 and Mr-Mime two-print precedent at line 52]",
+    "[cards/_characters/galar-research-tradition.md — node's stated scope-refusal Caveats + See-also adjudicating Galarian regional forms as research-objects belonging at galarian-regional-forms not here]"
+  ],
+  "files_modified": [
+    "cards/pokemon/battle-styles/054-163-galarian-slowpoke.md",
+    "cards/pokemon/chilling-reign/054-198-galarian-slowpoke.md",
+    "cards/_characters/galarian-regional-forms.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    {
+      "candidate": "Attach Battle Styles Galarian Slowpoke to galar-research-tradition node (the parent's primary candidate)",
+      "verdict": "refused",
+      "reason": "Node's own Caveats and See-also already adjudicate this exact scope question. Galarian regional forms are research-OBJECTS (species program), galar-research-tradition anchors research-PRACTITIONERS (Magnolia, Sonia, Cara Liss). Adding species cards to the researcher-individuals cohort would dilute a clean node into noise. The node body's dual-pointer escape hatch requires research-framing flavor text; Battle Styles Slowpoke's flavor is species-natural-history register, not research-framing."
+    },
+    {
+      "candidate": "Add Battle Styles print to galarian-regional-forms appears_on: list as a new entry",
+      "verdict": "refused",
+      "reason": "Violates the node's own stated duplicate-species policy at line 93: 'duplicate species, not added to appears_on: since the [prior] print already represents the species at this node.' Same species, same node policy. Inline mention in the existing bullet plus 1:1 Connections mirror is the correct shape — same as Galarian Mr. Mime and Galarian Meowth precedent within this node."
+    },
+    {
+      "candidate": "Refuse the wave entirely and surface a node-rigor audit move instead",
+      "verdict": "not needed",
+      "reason": "The 1:1 mirror IS a valid Edgelord move that follows the node's documented precedent and Pokemon-cohort pattern. No need to substitute for a rigor-audit. The parent's pre-flight question correctly surfaced the scope risk; the resolution path was through the regional-forms sibling node, not through refusal."
+    }
+  ],
+  "footnotes": [
+    "Parent brief stated 'galar-research-tradition currently anchors 4 cards across 3 individuals (Sonia, Marnie, Magnolia).' Marnie is NOT actually anchored at galar-research-tradition — the node's Caveats section at line 87 explicitly flags Marnie as a surface-resemblance trap and a galar-gym-challenge member. The node's actual anchors are Sonia, Cara Liss, and two Magnolia prints (4 cards across 3 individuals: Sonia, Cara Liss, Magnolia). Parent agent had a small misread; not modified, just noted.",
+    "Battle Styles Galarian Slowpoke frontmatter is missing the vision-passed / trivia-passed / ip-verified tag stamps that the Chilling Reign print carries, despite the card body being fully enriched (Vision filled, Trivia filled with 4 cited bullets, IP-verified callout, ip_verified: true, oracle/flavor text in frontmatter). Cosmetic tag-stamp drift; resolved by parent or a separate janitor sweep, not in scope for Edgelord."
+  ]
+}

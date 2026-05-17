@@ -31,9 +31,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/155-shatterskull-recruit.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/c/8/c8add5f2-4ccf-4505-86f6-cc36aff1c3fe.png?1562942414
 art_match_confidence: high
 needs_manual_review: false

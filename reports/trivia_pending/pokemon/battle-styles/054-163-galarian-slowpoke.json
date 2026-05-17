@@ -1,0 +1,42 @@
+{
+  "card_name": "Galarian Slowpoke",
+  "game": "Pokemon",
+  "set": "Battle Styles",
+  "collector_number": "054/163",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Pokemon TCG cards are officially licensed depictions of the named species. Card name = Galarian Slowpoke; the Galarian regional variant identifier is explicitly on the card and matches the Sword & Shield regional form introduced in 2020. Game Freak / Nintendo IP — internal. No external IP risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Battle Styles (SWSH05) was released March 19, 2021 — the fifth expansion in the Sword & Shield TCG series. It introduced the Single Strike and Rapid Strike card mechanics for the first time, representing two distinct battle styles among Pokemon. The set contains 163 cards in the base collection. [Pokellector Battle Styles set list, via WebSearch snippet]",
+      "sources": ["Pokellector via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (verbatim from card, sourced from Pokemon Shield Pokedex): \"Because Galarian Slowpoke eat the seeds of a plant that grows only in Galar, their tails have developed a spicy flavor.\" The plant is the Galarica plant; the seeds (Galarica seeds) are an essential spice in Galar cuisine. Slowpoke in Galar built up Galarica spice particles in their bodies over several generations, which altered both their appearance and behavior compared to standard Slowpoke. [Card frontmatter flavor_text; Galarian Slowpoke official Pokemon Sword/Shield site, via WebSearch snippet]",
+      "sources": ["Card frontmatter flavor_text", "Official Pokemon Sword/Shield site via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Galarian Slowpoke is a pure Psychic-type — unlike standard Slowpoke (Water/Psychic) — because the spice particles in its body replaced the role the Shellder-bite plays in standard Slowpoke's typing. It can evolve into Galarian Slowbro (Poison/Psychic, using a Galarica Cuff) or Galarian Slowking (Poison/Psychic, using a Galarica Wreath) — both evolution items require Galarica Twigs collected on the Isle of Armor DLC map. Art is by Ryota Murayama. [Pokemon Sword & Shield expansion pass site / Isle of Armor guides, via WebSearch snippet; card frontmatter]",
+      "sources": ["Pokemon Sword/Shield expansion pass site via WebSearch snippet", "Card frontmatter"]
+    },
+    {
+      "category": "design",
+      "text": "The attack on this card — 'Tantailizing' — is a pun on 'tantalizing' and 'tail,' a nod to the flavor text's spicy-tail lore. The move text (flip a coin; heads: switch an opponent's Benched Pokemon with their Active) is a mild disruption effect. Common rarity (054/163). [Card frontmatter oracle_text]",
+      "sources": ["Card frontmatter oracle_text"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Galarian Slowbro", "set": "Chilling Reign and others", "note": "Galarian evolution via Galarica Cuff; Poison/Psychic type"},
+    {"name": "Galarian Slowking", "set": "Chilling Reign and others", "note": "Galarian evolution via Galarica Wreath; Poison/Psychic type"},
+    {"name": "Slowpoke", "set": "Battle Styles and others", "note": "Standard regional counterpart; Water/Psychic vs. Galarian's pure Psychic"},
+    {"name": "Galarian Slowpoke", "set": "Chilling Reign 54", "note": "A second Galarian Slowpoke card in the same era (Chilling Reign, also card 54) — different art and illustrator"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

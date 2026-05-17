@@ -1,0 +1,41 @@
+{
+  "card_name": "Kagamine Rin\"Append\"",
+  "game": "Weiss Schwarz",
+  "set": "Hatsune Miku -Project DIVA- f",
+  "collector_number": "PD/S22-E014 U",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Kagamine Rin Append'. The art (short-haired anime figure in white/black futuristic sleeveless outfit, arms outstretched, blue-green energy burst backdrop) matches the canonical Kagamine Rin Append design: the Append voicebank variant features a white-and-dark color scheme with a more mechanical-transparent aesthetic distinct from her original yellow-and-black design. Card is part of the official Hatsune Miku -Project DIVA- f Weiss Schwarz set (set code PD/S22), a licensed Crypton Future Media / Sega product. IP is internal Vocaloid franchise — not an external crossover risk. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "This card is from Hatsune Miku -Project DIVA- f, the Weiss Schwarz booster set based on the rhythm game of the same name (Sega/Crypton Future Media). The set code PD/S22 covers the English edition; PD/S22-E014 is the Kagamine Rin 'Append' Uncommon. The set features the core Vocaloid cohort: Miku, Rin, Len, Luka, KAITO, and MEIKO. [en.ws-tcg.com official product page; BigOrbitCards retailer listing, via WebSearch snippet]",
+      "sources": ["en.ws-tcg.com: Hatsune Miku -Project DIVA- f product page, via WebSearch snippet", "BigOrbitCards: PD/S22-E014"]
+    },
+    {
+      "category": "design",
+      "text": "Kagamine Rin Append is the vocalization-extension voicebank variant of Kagamine Rin, released December 27, 2010 by Crypton Future Media. The Append line for Rin included 'Power', 'Warm', and 'Sweet' voicebank styles. The Append visual design (white-and-black color scheme, mechanical transparency aesthetic) was created to represent a 'sense of transparency in the heart,' per Vocaloid producer Wataru Sasaki. This contrasts with the original Rin design (yellow-and-black) by illustrator KEI. [Vocaloid Wiki: Kagamine Rin & Len Append, via WebSearch snippet]",
+      "sources": ["Vocaloid Wiki: Kagamine Rin & Len Append, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Kagamine Rin's name origin: 'Kagamine' (鏡音) combines the kanji for 'mirror' (鏡) and 'sound' (音). 'Rin' and twin-brother 'Len' derive from the concept of left and right in stereophonic audio. The twins were designed to have 'one soul between them,' per producer Wataru Sasaki, reinforcing the mirror/stereo duality running through all Kagamine branding. [Wikipedia: Kagamine Rin/Len; Vocaloid Wiki, via WebSearch snippet]",
+      "sources": ["Wikipedia: Kagamine Rin/Len, via WebSearch snippet", "Vocaloid Wiki: Kagamine Rin & Len, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's game effect is a Level 2 AUTO Change ability: at the start of the climax phase, the player may pay 2 (place this card into clock), then retrieve a card named 'Kagamine Rin Original' from the waiting room and play it to this stage position. The card has 8000 power, costs 1, and has 1 Soul with a Soul trigger. The Change mechanic is a Weiss Schwarz staple that converts lower-level versions into evolved forms — narratively appropriate for an 'Append' (extended) variant. [BigOrbitCards: PD/S22-E014 Append card listing, via WebSearch snippet]",
+      "sources": ["BigOrbitCards: PD/S22-E014 Kagamine Rin Append listing, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kagamine Rin \"Original\"", "set": "Hatsune Miku -Project DIVA- f", "note": "The Change target — this card's game effect specifically names it as the card retrieved from the waiting room"},
+    {"name": "Hatsune Miku (various)", "set": "Hatsune Miku -Project DIVA- f", "note": "Titular character of the set; Miku is the headliner of the PD/S22 set"},
+    {"name": "Kagamine Len (various)", "set": "Hatsune Miku -Project DIVA- f", "note": "Twin counterpart — same set, mirror soul design concept"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Kagamine Rin",
+    "ip_confidence": "high"
+  }
+}

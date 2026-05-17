@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e033-u-hatsune-miku-divine-goddess.png
 average_cost_paid: 0
 market_price: 0.54
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-06
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/p/pd_s22/PD_S22_E033.png
 art_match_confidence: high
 needs_manual_review: false
@@ -47,6 +47,8 @@ setting: space
 suspected_ip: Hatsune Miku
 ip_confidence: high
 ip_verified: false
+characters:
+  - project-diva-f-vocaloid-roster
 tags:
   - card
   - weiss

@@ -30,10 +30,10 @@ tags_filter:
   - pokemon
 reference_image: cards/_images/pokemon/vivid-voltage/031-185-wailmer.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-16
+market_price: 0.06
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://images.pokemontcg.io/swsh4/31_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -49,7 +49,7 @@ setting: ocean
 subject_known_ip: true
 suspected_ip: Wailmer
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 tags:
   - card
   - pokemon
@@ -60,8 +60,8 @@ tags:
 
 ![031-185-wailmer](../../_images/pokemon/vivid-voltage/031-185-wailmer.png)
 
-> [!warning] Suspected IP: **Wailmer** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Wailmer**
+> Confirmed via PokemonTCG.io API (swsh4-31) and card title. National Pokedex no. 320, Generation III Water-type. [api.pokemontcg.io/v2/cards/swsh4-31]
 
 A large, round, blue whale-like Pokemon is depicted mid-splash in a tropical ocean setting. Its round body fills most of the frame, with water spraying upward from the nostrils above its eyes — matching the flavor text description. The background shows a sunny tropical beach scene with palm trees, colorful blue ocean waves, and a bright sky with pink/coral cloud tones. The art has a cheerful, bright cartoon style consistent with this era of Pokemon card illustration.
 
@@ -77,3 +77,17 @@ A large, round, blue whale-like Pokemon is depicted mid-splash in a tropical oce
 **Creatures:** whale, wailmer
 **Genre cues:** anime, pokemon
 
+## Trivia
+
+- **Set context** — Vivid Voltage (SWSH4) released November 13, 2020, the fourth main expansion in the Sword and Shield series. It introduced the "Amazing Rare" card category for the first time in the TCG's history, headlined by Pikachu VMAX and Zarude. Total print run: 203 cards (185 numbered plus secret rares). `[PokemonTCG.io API: swsh4-31]`
+
+- **Pokemon context** — Wailmer is National Pokedex no. 320, introduced in Generation III (Hoenn, Pokemon Ruby and Sapphire, 2002). Known as the "Ball Whale" Pokemon, it was among the very first Generation III Pokemon publicly revealed — announced alongside Azurill and Kecleon on March 7, 2001, nearly two years before Ruby and Sapphire's international release. `[Serebii.net Pokedex 320, WebSearch snippet: Bulbapedia Wailmer]`
+
+- **Flavor text** — "It shows off by spraying jets of seawater from the nostrils above its eyes. It eats a solid ton of Wishiwashi every day." The mention of Wishiwashi (a Generation VII Pokemon) as prey connects Wailmer's Hoenn ecology across regional boundaries in the card's text. `[PokemonTCG.io API: swsh4-31]`
+
+- **Design** — Illustrated by Yukiko Baba, credited on 162 Pokemon TCG cards in total. Baba's work tends toward bright, cheerful compositions; the tropical beach setting and high-energy splash pose on this card are consistent with her style across other Water-type commons. `[Serebii.net artist index: Yukiko Baba, WebSearch snippet: artofpkm.com]`
+
+### Related cards
+- Wailord (various sets) — Wailmer's evolution at level 40; among the largest Pokemon by body length in the National Pokedex
+- Wishiwashi (various sets) — named in this card's flavor text as Wailmer's prey species
+- Wailmer (other Sword and Shield era prints) — multiple Wailmer prints exist in the SWSH era; this Vivid Voltage version is one of several

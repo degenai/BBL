@@ -1,0 +1,42 @@
+{
+  "card_name": "Ark Angel HM",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-001R",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card is named 'Ark Angel HM.' FFXI lore confirms Ark Angel HM is the Hume Crystal Warrior from Rise of the Zilart Mission 14, encountered at La'Loff Amphitheater in Tu'Lia. The figure uses twin weapons (Cross Reaver weaponskill), wears dark segmented armor with a face-obscuring design, and is rendered in FFXI's CG-photorealistic aesthetic — all matching the Vision description and confirmed by Final Fantasy Wiki, FFXI BG-wiki, Gamer Escape. Square Enix owns both FFXI and the FFTCG; this is internal IP depiction, no external IP risk. Frontmatter updated: ip_verified: true, ip_confidence: high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ark Angel HM originates from Final Fantasy XI: Rise of the Zilart (2002), the first expansion for FFXI. The five Ark Angels are Crystal Warriors created by the ancient Zilart civilization to guard the five Crystal Arks. Each embodies the 'darkness within' one of Vana'diel's five races: Hume (HM = apathy), Elvaan (EV = arrogance), Tarutaru (TT = cowardice), Mithra (MR = envy), Galka (GK = rage). They are encountered in Zilart Mission 14 at La'Loff Amphitheater in Tu'Lia. Defeating Ark Angel HM for the first time drops the Shard of Apathy. [Final Fantasy Wiki: Ark Angel HM; FFXI BG-wiki: Zilart Mission 14, via WebSearch snippet]",
+      "sources": ["Final Fantasy Wiki: Ark Angel HM (via WebSearch snippet)", "FFXI BG-wiki: Zilart Mission 14 (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "In the FFTCG card (8-001R, Rare, Fire element, cost 3, 6000 power), Ark Angel HM's two abilities are: (1) if Ark Angel HM deals damage to the opponent, double the damage instead; (2) when Ark Angel HM attacks, it gains +3000 power until end of turn. These map directly onto FFXI's in-game moveset: the Cross Reaver weaponskill deals cone-area 500-900 damage, and the HM battle encounter features enhanced movement speed — both emphasizing aggressive, high-damage Hume physicality. [TCGPlayer: Ark Angel HM 8-001R listing; Square Enix FFTCG Opus VIII page]",
+      "sources": ["TCGPlayer: Ark Angel HM 8-001R (via WebSearch snippet)", "Square Enix FFTCG Opus VIII official page"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Opus VIII was released in 2019. The FFTCG Crystarium's limited-format review rated Ark Angel HM as a premium rare for aggressive decks: 'at only 3cp, it is almost impossible to deal with Ark Angel at a profit' — opponents either chump-block and lose card resources, or take near one-third of their life total in a single attack. Its main downside is being a dead draw when scrambling to stabilize on defense. [FFTCG Crystarium: 'How to Win Limited: Opus VIII Review', via WebSearch snippet]",
+      "sources": ["FFTCG Crystarium: 'How to Win Limited: Opus VIII Review' (via WebSearch snippet)"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on FFDecks: at least one community deck was titled 'Ark Angel HM is insane...' — reflecting that the card's damage-doubling ability at 3-cost was considered above-rate for the format. The Mysidia Post's early Opus VIII meta analysis drew on FFDecks tournament data to assess how HM-based aggressive lists performed at launch. [FFDecks: deck 273043 title, via WebSearch snippet; The Mysidia Post: 'Early Analysis of the Opus VIII Meta', via WebSearch snippet]",
+      "sources": ["FFDecks: deck 273043 title (via WebSearch snippet)", "The Mysidia Post: 'Early Analysis of the Opus VIII Meta' (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ark Angel EV", "set": "Opus VIII or later", "note": "Cycle sibling — Elvaan Crystal Warrior, arrogance"},
+    {"name": "Ark Angel TT", "set": "Opus VIII or later", "note": "Cycle sibling — Tarutaru Crystal Warrior, cowardice"},
+    {"name": "Ark Angel MR", "set": "Opus VIII or later", "note": "Cycle sibling — Mithra Crystal Warrior, envy"},
+    {"name": "Ark Angel GK", "set": "Opus VIII or later", "note": "Cycle sibling — Galka Crystal Warrior, rage"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

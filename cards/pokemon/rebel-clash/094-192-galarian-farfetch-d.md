@@ -33,17 +33,16 @@ tags_filter:
   - basic-pokemon
 reference_image: cards/_images/pokemon/rebel-clash/094-192-galarian-farfetch-d.png
 average_cost_paid: 0
-market_price: 0.09
-market_price_as_of: 2026-05-16
+market_price: 0.1
+market_price_as_of: 2026-05-17
 date_added: 2026-05-08
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://images.pokemontcg.io/swsh2/94_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Akira Komayama
 flavor_text: The Farfetch'd of the Galar region are brave warriors, and they wield thick, tough leeks in battle.
-oracle_text: "Rock Smash (Fighting) 10+: Flip a coin. If heads, this attack does 30 more damage."
-Pierce (ColorlessColorless) 30
+oracle_text: "Rock Smash (Fighting) 10+: Flip a coin. If heads, this attack does 30 more damage.\nPierce (ColorlessColorless) 30"
 mood: action
 time_of_day: day
 setting: mountain

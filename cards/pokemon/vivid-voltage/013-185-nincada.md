@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/pokemon/vivid-voltage/013-185-nincada.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-11
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://images.pokemontcg.io/swsh4/13_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -94,4 +94,8 @@ A small pale insect-like creature is depicted partially at or just above ground 
 ### Related cards
 - Ninjask (various) — Nincada's primary evolution at level 20, fast Bug/Flying-type
 - Shedinja (various) — Nincada's secondary simultaneous evolution, 1 HP + Wonder Guard
+
+## Connections
+
+- [[066-185-shedinja]] — Branching-evolution-line 1:1 mirror, same set (Vivid Voltage), same canonical Game Freak-coded mechanic. Nincada is the only Pokemon in the franchise whose evolution produces two species simultaneously: at level 20, Nincada evolves into Ninjask while the shed empty exoskeleton becomes Shedinja (provided the player has an empty party slot AND a Poke Ball in their bag — the husk is placed into the empty ball automatically by the game). The mechanic has been hardcoded since Generation III (Ruby and Sapphire, 2002) and remains unique to this line in the franchise. Both VIV prints render the canon explicitly: this VIV-013 Nincada's Trivia synthesis states *"Shedinja IS the cocoon Nincada left,"* and the VIV-066 Shedinja's printed flavor text states *"A most peculiar Pokemon that somehow appears in a Poke Ball when a Nincada evolves."* The TCG rules layer mechanizes the lore directly: the VIV-066 Shedinja's oracle text *requires* Ninjask's Cast-Off Shell Ability to enter play, making the evolution-leaves-empty-husk canon a literal play-restriction at the card-text level. The pair-bond is load-bearing for any branching-evolution, husk-as-spirit, or Generation-III-mechanic Discrete Lair work, and is the canonical anchor for a future `nincada-line` species-evolution-pair node (analogous to [[mareep-line]] / [[charizard-line]] / [[caterpie-line]] / [[ralts-line]] / [[larvitar-line]]) when a Ninjask print lands in corpus to complete the trio. [Bulbapedia: Nincada / Shedinja; pokemondb.net: Nincada evolution mechanic; PokemonTCG.io: swsh4-13 + swsh4-66 flavorText + oracle_text fields]
 

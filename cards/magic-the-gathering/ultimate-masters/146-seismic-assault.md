@@ -29,9 +29,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/ultimate-masters/146-seismic-assault.png
 average_cost_paid: 0
 market_price: 0.9
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-12
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/6/b/6b2eb4e6-4ce1-4f72-9b3d-b6a44b22bd2e.png?1547517387
 art_match_confidence: high
 needs_manual_review: false

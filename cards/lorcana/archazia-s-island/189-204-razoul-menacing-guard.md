@@ -31,9 +31,9 @@ tags_filter:
 reference_image: cards/_images/lorcana/archazia-s-island/189-204-razoul-menacing-guard.jpg
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set7/189_bbb1751591b2f33661cb68a3214a3bed5a28846e.jpg
 art_match_confidence: high
 needs_manual_review: false

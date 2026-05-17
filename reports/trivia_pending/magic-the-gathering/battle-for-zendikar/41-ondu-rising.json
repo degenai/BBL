@@ -1,0 +1,48 @@
+{
+  "card_name": "Ondu Rising",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "41",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ondu is one of the seven continents of Zendikar, located in the southwestern quadrant and jutting into the Silundi Sea. Its geography is dominated by sweeping verticality — the Makindi Trenches, the skyscraping Turntimber forests, and the depths of the Crypt of Agadeem all define a world where travel is experienced up and down rather than east and west. [MTG Wiki: Ondu, via WebSearch snippet]",
+      "sources": ["MTG Wiki: Ondu, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "The Awaken mechanic was designed by Mark Rosewater's team specifically to represent Zendikar's sentient land rising to fight the Eldrazi. As Rosewater explained in the Battle Plans design article, when you animate a land with Awaken it becomes a colorless creature — a deliberate design trick that allowed Awaken tokens to be buffed by the Eldrazi 'colorlessness matters' cards, giving the mechanic cross-faction utility. [Wizards of the Coast: Battle Plans (2015-10-12), via WebFetch]",
+      "sources": ["Wizards of the Coast: Battle Plans (2015-10-12)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Ondu Rising has only one printing — the original Battle for Zendikar (BFZ) 2015 release — and has never been reprinted. Its EDHREC rank is 23,510, placing it deep in the long tail of EDH includes. Legal in Pioneer, Modern, Legacy, Vintage, and Commander; not legal in Standard, Pauper, or Paupercommander. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on MTGSalvation BFZ limited retrospectives: players noted Awaken was 'such a blowout mechanic that messed with planning — then you started planning for it and that led to grinder games.' The broader critical view was that Wizards attached Awaken to otherwise-normal spells rather than designing specifically around it, making many Awaken cards feel 'pretty lazy' in execution. Ondu Rising fits this pattern — its base mode (1W for lifelink-on-attack) is fine but unexciting; the Awaken mode is where the card earns attention. [MTGSalvation BFZ Postmortem thread, via WebSearch snippet]",
+      "sources": ["MTGSalvation BFZ Postmortem thread, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Igor Kieryluk, a Polish fantasy artist with deep Zendikar ties — he also illustrated Anticognition for Zendikar Rising (2020). Kieryluk's work is noted for combining darkness and high-saturated color, and his Zendikar pieces lean into the plane's gravity-defying stone-float aesthetic. [Art of Magic: the Gathering — Ondu Rising, via WebSearch snippet; Scent of a Gamer — Igor Kieryluk profile, via WebSearch snippet]",
+      "sources": ["Art of Magic: the Gathering, via WebSearch snippet", "Scent of a Gamer: Igor Kieryluk, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ondu Inversion", "set": "Zendikar Rising", "note": "Later Ondu-named modal double-faced card from the same geographic location on Zendikar"},
+    {"name": "Planar Outburst", "set": "Battle for Zendikar", "note": "Another BFZ white Awaken card with a boardwipe mode — same Awaken mechanic, higher-power design"},
+    {"name": "Awaken the Ancient", "set": "Magic 2014", "note": "Predates the Awaken keyword but is the conceptual spiritual predecessor — animating a Mountain"},
+    {"name": "Ulamog, the Ceaseless Hunger", "set": "Battle for Zendikar", "note": "The Eldrazi titan the Zendikari awakened their land to fight; the narrative context for the entire Awaken mechanic"},
+    {"name": "Nissa, Voice of Zendikar", "set": "Oath of the Gatewatch", "note": "Nissa's literal power is communing with Zendikar's land-consciousness — direct thematic counterpart to Awaken"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

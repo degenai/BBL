@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/59-opt.png
 average_cost_paid: 0
 market_price: 0.27
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-16
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/c/3/c3669391-8f64-4904-b432-0f0582f30449.png?1572489962
 art_match_confidence: high
 needs_manual_review: false

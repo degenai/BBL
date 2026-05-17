@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/lorcana/reign-of-jafar/140-204-the-coachman-greedy-deceiver.jpg
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set8/140_72471be6dddeeb754476e213c78d82eb7a713652.jpg
 art_match_confidence: high
 needs_manual_review: false
@@ -56,7 +56,7 @@ time_of_day: indeterminate
 setting: indoor
 suspected_ip: The Coachman (Pinocchio)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 tags:
   - card
   - lorcana
@@ -69,8 +69,8 @@ tags:
 
 ![140-204-the-coachman-greedy-deceiver](../../_images/lorcana/reign-of-jafar/140-204-the-coachman-greedy-deceiver.jpg)
 
-> [!warning] Suspected IP: **The Coachman (Pinocchio)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **The Coachman (Pinocchio)**
+> Confirmed via card name ("The Coachman"), subtitle ("Greedy Deceiver"), and matching visual markers — red coat with brass buttons, blue peaked hat, whip, portly build, children in background. Official licensed Disney Lorcana product. Internal Disney IP; no third-party external IP risk.
 
 A portly humanoid figure dressed in a bright red coat with large gold buttons and a blue peaked hat occupies the center of the frame, leaning forward in a dynamic stride. The figure holds a long whip in one hand, its cord curling through the scene. The face is round with rosy cheeks and a wide, unsettling grin. In the background, smaller figures — appearing to be children — are visible in a warm, cluttered environment with warm amber-pink lighting. The overall color palette is rich red, gold, and warm tones suggesting Pleasure Island or a carnival-adjacent setting.
 
@@ -86,3 +86,14 @@ A portly humanoid figure dressed in a bright red coat with large gold buttons an
 **Iconography:** whip, gold-buttons
 **Genre cues:** fantasy, disney, fairy-tale, horror
 
+## Trivia
+
+- **Character lore** — The Coachman is the third and final antagonist introduced in Disney's 1940 animated feature Pinocchio. He lures boys to Pleasure Island under the pretense of total freedom; they are then transformed into donkeys and sold into slavery and labor. Voiced by Charles Judels with a Cockney accent. He is regarded as among the most sinister figures in the Disney animated canon — uniquely, his scheme succeeds completely onscreen and he is never defeated or punished in the film. `[Wikipedia: Pinocchio (1940 film), via WebSearch snippet; Disney Wiki: The Coachman, via WebSearch snippet]`
+- **Set context** — Reign of Jafar is the eighth Disney Lorcana set. The set is themed around Jafar's rise to power and leans heavily into villain characters across all ink colors. The Coachman appears in Ruby ink — the aggressive, challenge-focused ink — which pairs with his role as a predatory exploiter who thrives when opponents are stretched thin. `[GameTyrant: Reign of Jafar spotlight, via WebSearch snippet; lorcana.gg, via WebSearch snippet]`
+- **Mechanical reputation** — Stats: 2 cost, 2 Strength, 2 Willpower, 1 Lore. The WILD RIDE ability grants +2 Strength and Evasive while two or more of your characters are exerted — directly incentivizing the exert-heavy attack lines that Ruby/Steel aggro decks already run. Evasive on defense means only opposing Evasive characters can challenge him when active. `[lorcana.gg: 008-140, via WebSearch snippet]`
+- **Design** — Illustrated by Filipe Laurentino, a Brazilian digital illustrator based in Curitiba who has contributed multiple cards to Lorcana. His Coachman illustration was shared on ArtStation under the heading "The Coachman: Greedy Deceiver ©Disney" — confirming the original art title. `[Filipe Laurentino: ArtStation, via WebSearch snippet]`
+
+### Related cards
+- Honest John (Various Lorcana) — fellow Pinocchio antagonist who recruits Pinocchio for the Coachman's scheme; likely companion in Lorcana villain decks
+- Pinocchio - Real Boy at Last (Various Lorcana) — the Coachman's primary target in the film; thematic counterpart
+- Jafar - Sorcerer's Apprentice (Reign of Jafar) — the set's flagship villain and Ruby/Steel anchor alongside The Coachman

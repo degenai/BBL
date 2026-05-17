@@ -30,10 +30,10 @@ tags_filter:
   - three-quarter
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/207-simic-ascendancy.png
 average_cost_paid: 0
-market_price: 1.17
-market_price_as_of: 2026-05-16
+market_price: 1.21
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/f/f/ff824392-fb5c-496c-be2f-6dfa6e04e3a2.png?1584831850
 art_match_confidence: high
 needs_manual_review: false

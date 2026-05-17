@@ -1,0 +1,41 @@
+{
+  "card_name": "\"104th Cadet Corps Class\" Marco",
+  "game": "Weiss Schwarz",
+  "set": "Attack on Titan",
+  "collector_number": "AOT/S35-E072 C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly names Marco (Marco Bott), the card set is the officially licensed Attack on Titan Weiss Schwarz booster (AOT/S35). The subject_known_ip flag was already set to true in frontmatter. The character is Marco Bott, a named cadet from the 104th Training Corps in Attack on Titan (Hajime Isayama / Kodansha). Weiss Schwarz (Bushiroad) holds an official license for AoT TCG production — this is not a crossover IP risk but a native licensed product. No ## IP callout required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Marco Bott is a named member of the 104th Training Corps in Attack on Titan, graduating 7th in his class — the highest-ranked cadet who is not a shifter or secret operative. He is depicted in the series as mild-mannered, empathetic, and quietly regarded by peers as officer material. [Attack on Titan Wiki, via WebSearch snippet]",
+      "sources": ["Attack on Titan Wiki via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Marco's death is one of the most narratively significant in the early series: he was ambushed by Reiner and Annie, stripped of his vertical maneuvering gear (leaving him defenseless), and then devoured by a Titan — a fate that went unnoticed for days. The revelation of how he died, which comes much later in the story, recontextualizes Reiner and Annie as traitors who deliberately sacrificed him to protect their identities. His death directly catalyzes Jean Kirstein's arc, driving Jean from self-interest toward becoming a genuine leader. [Attack on Titan Wiki / Screen Rant, via WebSearch snippet]",
+      "sources": ["Attack on Titan Wiki via WebSearch snippet", "Screen Rant: Marco's death explained, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "This card is from the Attack on Titan Vol. 1 English booster set (AOT/S35-E), produced by Bushiroad under official license from Kodansha. The card's AUTO ability triggers when placed on stage from hand: reveal the top card of the deck — if it is a 'Corps' character, put it into your hand, then discard a card. Common rarity. [Amazon product listing AOT/S35-E072, via WebSearch snippet]",
+      "sources": ["Amazon product listing via WebSearch snippet"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment in Attack on Titan fandom frequently cites Marco as the archetype of the 'good person who dies too soon' — a character whose potential as a leader is never realized, making his death feel particularly unjust. His relationship with Jean is often cited as one of the series' most effective uses of a supporting character as a catalyst for protagonist growth. [TV Tropes: Characters/AttackOnTitanThe104thTraineeCorps, via WebSearch snippet]",
+      "sources": ["TV Tropes via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "\"Tolerant Personality\" Marco", "set": "Attack on Titan (AOT/S35-E079)", "note": "Second Marco card in the same Weiss Schwarz set; depicts the same character"},
+    {"name": "\"104th Cadet Corps Class\" Jean", "set": "Attack on Titan (AOT/S35)", "note": "Jean Kirstein — Marco's closest friend; his arc is defined by Marco's death"},
+    {"name": "\"104th Cadet Corps Class\" Annie", "set": "Attack on Titan (AOT/S35)", "note": "Annie Leonhart — complicit in Marco's death; same cadet class card series"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

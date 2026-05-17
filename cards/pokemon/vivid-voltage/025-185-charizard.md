@@ -33,17 +33,16 @@ tags_filter:
   - stage-2-pokemon
 reference_image: cards/_images/pokemon/vivid-voltage/025-185-charizard.png
 average_cost_paid: 0
-market_price: 4.45
-market_price_as_of: 2026-05-16
+market_price: 4.44
+market_price_as_of: 2026-05-17
 date_added: 2026-05-05
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://images.pokemontcg.io/swsh4/25_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Ryuta Fuse
 flavor_text: It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.
-oracle_text: "[Ability: Battle Sense] Once during your turn, you may look at the top 3 cards of your deck and put 1 of them into your hand. Discard the other cards."
-Royal Blaze (FireFire) 100+: This attack does 50 more damage for each Leon card in your discard pile.
+oracle_text: "[Ability: Battle Sense] Once during your turn, you may look at the top 3 cards of your deck and put 1 of them into your hand. Discard the other cards.\nRoyal Blaze (FireFire) 100+: This attack does 50 more damage for each Leon card in your discard pile."
 mood: action
 time_of_day: indeterminate
 setting: other

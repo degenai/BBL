@@ -30,10 +30,10 @@ tags_filter:
   - three-quarter
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/14-gideon-s-sacrifice.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-16
+market_price: 0.18
+market_price_as_of: 2026-05-17
 date_added: 2026-05-16
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/8/4/849c79ad-8bfc-4512-ab41-f213b6b285ab.png?1557575945
 art_match_confidence: high
 needs_manual_review: false
@@ -53,6 +53,9 @@ subject_known_ip: true
 suspected_ip: Gideon Jura, Liliana Vess
 ip_confidence: high
 ip_verified: true
+characters:
+  - gideon-jura
+  - liliana-vess
 tags:
   - card
 ---

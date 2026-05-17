@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/39-war-screecher.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-16
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/d/2/d2ff7868-eeb9-4292-a2f4-cac18f9ba270.png?1557576129
 art_match_confidence: high
 needs_manual_review: false

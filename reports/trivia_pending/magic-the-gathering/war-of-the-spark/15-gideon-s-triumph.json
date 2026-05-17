@@ -1,0 +1,50 @@
+{
+  "card_name": "Gideon's Triumph",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "15",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card is named 'Gideon's Triumph'; oracle text conditions the bonus on controlling 'a Gideon planeswalker'; flavor text uses 'His triumph'; Gideon Jura is canonically depicted as dark-skinned with black hair in blue-and-gold plate armor across all prints — matches Vision description exactly. Wizards-internal character; no external IP risk. Frontmatter updated: ip_verified: true, ip_confidence: high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "War of the Spark (WAR, released 2019-05-03) is the culmination of the Nicol Bolas arc spanning multiple sets. The set features 36 planeswalkers — more than any set before or since — and its narrative ends with Gideon Jura sacrificing himself to save Liliana Vess, passing his indestructibility to her so she could survive the breach of her demonic contract. Gideon's final words in the novelization: 'Let me be the last.' [Scryfall; Hipsters of the Coast: 'Finally, Rest and Peace', 2019]",
+      "sources": ["Scryfall", "Hipsters of the Coast: 'Finally, Rest and Peace' (2019-05-10)"]
+    },
+    {
+      "category": "design",
+      "text": "Gideon's Triumph is one of five uncommon instants/sorceries forming the Triumph cycle — a deliberate narrative mirror of the Defeat cycle from Hour of Devastation (HOU, 2017), which showed Nicol Bolas routing the Gatewatch. Where the Defeat spells penalized players for controlling Gatewatch planeswalkers, the Triumph spells reward it. Mark Rosewater confirmed the cycle 'kept the same five characters, showing them defeating Bolas' even though Nissa had left the Gatewatch. [Wizards: 'More War Games', Mark Rosewater, 2019-04-29]",
+      "sources": ["Wizards: 'More War Games' (MaRo, 2019-04-29)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'His triumph came not from victory over his enemies, but from the salvation of those who survived.' — printed flavor text. The framing ties to Gideon's defining character arc: survivor's guilt originating on Theros when his recklessness got his mentor's students killed. His WAR sacrifice redeems that guilt — he saves Liliana rather than winning the battle. The card was previewed on April 1, 2019 by 'The Masters of Modern' (YouTube). [Scryfall; Hipsters of the Coast: 'Triumph of the Gatewatch', 2019]",
+      "sources": ["Scryfall", "Hipsters of the Coast: 'Triumph of the Gatewatch' (2019-04-15)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC reports Gideon's Triumph in 720 EDH decks, with a 56% inclusion rate in Kytheon, Hero of Akros commander builds. The card is format-legal in Pioneer, Modern, Legacy, and Vintage but is not Pauper-legal despite being an Uncommon (the Pauper banlist tracks paper rarity). Its EDHREC rank is 22,812, reflecting narrow play — the 'if you control a Gideon planeswalker' condition is difficult to fulfill outside dedicated Gideon theme decks. [Scryfall; EDHREC: Gideon's Triumph card page]",
+      "sources": ["Scryfall", "EDHREC: Gideon's Triumph"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on MTGSalvation during the April 2019 spoiler: the cycle was immediately recognized as a mirror of the HOU Defeat cycle ('it will be a cycle to mirror the Defeat cycle') and praised for narrative symmetry. Some users predicted Jace's Triumph would depict 'turning Vraska.' The card's flavor text sparked speculation about Gideon's fate before the story's release — one commenter read it as foreshadowing that Gideon dies saving someone, an interpretation the novel confirmed. [MTGSalvation: Rumor Mill thread 807737, April 2019, via WebSearch snippet]",
+      "sources": ["MTGSalvation: Rumor Mill thread 807737 (April 2019, via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Jace's Triumph", "set": "War of the Spark", "note": "Cycle sibling — same Triumph cycle"},
+    {"name": "Liliana's Triumph", "set": "War of the Spark", "note": "Cycle sibling — same Triumph cycle"},
+    {"name": "Chandra's Triumph", "set": "War of the Spark", "note": "Cycle sibling — same Triumph cycle"},
+    {"name": "Nissa's Triumph", "set": "War of the Spark", "note": "Cycle sibling — same Triumph cycle"},
+    {"name": "Gideon's Defeat", "set": "Hour of Devastation", "note": "The HOU Defeat cycle counterpart this card narratively mirrors"},
+    {"name": "Gideon's Sacrifice", "set": "War of the Spark", "note": "Same set; companion narrative card depicting Gideon's death"},
+    {"name": "Heartwarming Redemption", "set": "War of the Spark", "note": "Flavor text 'Kytheon had known war every day of his life, now he finally knew peace' — Gideon's post-death epitaph card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

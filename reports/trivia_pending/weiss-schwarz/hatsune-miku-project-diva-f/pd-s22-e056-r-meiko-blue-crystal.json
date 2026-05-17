@@ -1,0 +1,42 @@
+{
+  "card_name": "MEIKO\"Blue Crystal\"",
+  "game": "Weiss Schwarz",
+  "set": "Hatsune Miku -Project DIVA- f",
+  "collector_number": "PD/S22-E056 R",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure is MEIKO in her Blue Crystal module from Project DIVA F. Evidence: (1) the card name directly names MEIKO; (2) short reddish-brown hair is MEIKO's canonical character design signature — her default look is a red jacket/hat ensemble with brown-red hair; (3) the Blue Crystal module gives her a blue and dark-navy performance costume while retaining her reddish-brown hair, consistent with vision pass description; (4) licensed SEGA/Crypton Weiss Schwarz set ensures all named character cards map to canonical designs. ip_confidence confirmed high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "MEIKO is the first Japanese-language Vocaloid ever released — she debuted on November 5, 2004 on the original VOCALOID 1 engine, developed by Yamaha and Crypton Future Media with vocals sampled from singer Meiko Haigo. She predates the Character Vocal Series (CV01–CV03) by three years and sold over 3,000 units, roughly three times Crypton's expectations. [Vocaloid Wiki: MEIKO, via WebSearch snippet; Siliconera: MEIKO 20th Anniversary]",
+      "sources": ["Vocaloid Wiki: MEIKO, via WebSearch snippet", "Siliconera: MEIKO 20th Anniversary"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Contrary to common fan shorthand, MEIKO is NOT part of the Character Vocal Series (CVS) numbering. The CVS designations — CV01 (Hatsune Miku), CV02 (Kagamine Rin/Len), CV03 (Megurine Luka) — apply only to Crypton's VOCALOID 2-era Character Vocal Series launched from 2007 onward. MEIKO and KAITO are pre-CVS Crypton characters; Crypton later took over their VOCALOID 3 updates and folded them into the Piapro Studio ecosystem (as of August 31, 2019). [Vocaloid Wiki: Character Vocal Series, via WebSearch snippet]",
+      "sources": ["Vocaloid Wiki: Character Vocal Series, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "The Blue Crystal module first appeared in Hatsune Miku: Project DIVA F and features a strong sapphire-blue open-collar jacket with puffed sleeves, matching epaulets, gloves, and a multi-layered skirt — a stark visual contrast to MEIKO's iconic red jacket default. The module reappeared in Project DIVA X and Project DIVA Future Tone (Future Sound pack, purchasable for 750 VP). [Project DIVA Wiki: Blue Crystal, via WebSearch snippet]",
+      "sources": ["Project DIVA Wiki: Blue Crystal, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "PD/S22 is the Weiss Schwarz booster set adapting Hatsune Miku: Project DIVA F, published by Bushiroad under license from SEGA and Crypton Future Media. The English edition contains 100 card types (8 RR / 20 R / 28 U / 28 C / 16 CX) plus 44 parallel variants, with SP Gold Foil signed cards from Saki Fujita (Hatsune Miku's voice actress) randomly inserted per display. [Weiss Schwarz official product page: en.ws-tcg.com/products/pd-f/]",
+      "sources": ["Weiss Schwarz official product page"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hatsune Miku \"Dark Angel\"", "set": "PD/S22", "note": "Crypton Vocaloid bandmate, same booster set"},
+    {"name": "Melancholic (Kagamine Rin)", "set": "PD/S22", "note": "Crypton Vocaloid bandmate, same booster set"},
+    {"name": "KAITO", "set": "PD/S22", "note": "Pre-CVS Crypton Vocaloid male counterpart to MEIKO"},
+    {"name": "Megurine Luka", "set": "PD/S22", "note": "CV03, Crypton's third Character Vocal Series character"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "MEIKO (Vocaloid)",
+    "ip_confidence": "high"
+  }
+}

@@ -33,10 +33,10 @@ tags_filter:
   - creature-insect
 reference_image: cards/_images/magic-the-gathering/magic-2015-m15/204-undergrowth-scavenger.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-16
+market_price: 0.2
+market_price_as_of: 2026-05-17
 date_added: 2026-05-14
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://cards.scryfall.io/png/front/4/f/4f8dc77e-f003-4c25-8394-cda22e3ea039.png?1562786819
 art_match_confidence: high
 needs_manual_review: false

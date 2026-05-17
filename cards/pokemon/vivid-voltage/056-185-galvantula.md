@@ -33,16 +33,15 @@ tags_filter:
 reference_image: cards/_images/pokemon/vivid-voltage/056-185-galvantula.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-16
+market_price_as_of: 2026-05-17
 date_added: 2026-05-11
-last_seen: 2026-05-16
+last_seen: 2026-05-17
 reference_image_source_url: https://images.pokemontcg.io/swsh4/56_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: Shigenori Negishi
 flavor_text: It launches electrified fur from its abdomen as its means of attack. Opponents hit by the fur could be in for three full days and nights of paralysis.
-oracle_text: "Stun Needle (Lightning) 20: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
-Shocking Pursuit (LightningColorless) 20×: This attack does 20 damage for each damage counter on your opponent's Active Pokémon.
+oracle_text: "Stun Needle (Lightning) 20: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.\nShocking Pursuit (LightningColorless) 20×: This attack does 20 damage for each damage counter on your opponent's Active Pokémon."
 mood: action
 time_of_day: night
 setting: void
