@@ -77,3 +77,15 @@ A small armored warrior figure is poised atop the coiling, knotted body of a mas
 **Iconography:** raised-weapon, killing-blow
 **Genre cues:** fantasy, high-fantasy, sword-and-sorcery
 
+## Trivia
+
+- **Set / lore context** — Core Set 2021 (M21) released July 3, 2020. Finishing Blow is a first printing with no prior reprint history as of M21's release date `[Scryfall: reprint=false]`. Core sets in this era (M19–M21) used generic fantasy art without plane-specific lore framing; the card and its flavor text exist outside any named Ravnica, Zendikar, or Innistrad context
+- **Flavor text** — "In this world, it's kill or be killed. I'd rather not be the latter." `[Scryfall]`
+- **Design** — Illustrated by Wylie Beckert, whose MTG portfolio spans over 20 cards including high-profile pieces such as Embercleave and Emry, Lurker of the Loch. Beckert works in ink and pencil on toned paper `[WebSearch: artofmtg.com; wyliebeckert.com]`. As an instant that destroys any creature or planeswalker for {4}{B}, Finishing Blow sits at the high end of the mana-cost spectrum for unconditional removal — comparable to Hero's Downfall ({2}{B}{B}) but costs two more for a single black pip instead of double
+- **Mechanical reputation** — EDHREC rank 23,275 as of May 2026, placing it among the least-played M21 black cards in Commander. The combination of five mana and sorcery-like flexibility (it's an instant) makes it redundant in most Commander lists where cheaper removal (Doom Blade, Murderous Rider, Infernal Grasp) is readily available. Sees use in sealed/limited formats where removal density matters more than efficiency `[Scryfall EDHREC rank]`
+- **Format legality** — Legal in Pauper and Paupercommander despite being a common 5-mana unconditional removal spell, which is rare enough in the Pauper card pool to see occasional play `[Scryfall legalities]`
+
+### Related cards
+- Doom Blade (Magic 2012) — cheaper unconditional removal in black; direct mechanical comparison
+- Hero's Downfall (Theros) — the creature-or-planeswalker removal predecessor at {2}{B}{B}
+- Murderous Rider (Throne of Eldraine) — adventure card that does similar work at {1}{B}{B} and replaces itself

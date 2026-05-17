@@ -1,0 +1,46 @@
+{
+  "card_name": "Finishing Blow",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "99",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Finishing Blow is a first printing (no prior reprint history as of M21's release date). Core sets in this era (M19-M21) used generic fantasy art without plane-specific lore framing; the card and its flavor text exist outside any named guild/plane context.",
+      "sources": ["Scryfall: reprint=false"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"In this world, it's kill or be killed. I'd rather not be the latter.\"",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Wylie Beckert, whose MTG portfolio spans over 20 cards including high-profile pieces such as Embercleave and Emry, Lurker of the Loch. Beckert works in ink and pencil on toned paper. As an instant that destroys any creature or planeswalker for {4}{B}, Finishing Blow sits at the high end of the mana-cost spectrum for unconditional removal — comparable to Hero's Downfall ({2}{B}{B}) but costs two more mana.",
+      "sources": ["WebSearch: artofmtg.com", "WebSearch: wyliebeckert.com", "Scryfall oracle_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 23,275 as of May 2026, placing it among the least-played M21 black cards in Commander. The five-mana cost makes it redundant in most Commander lists where cheaper removal is available. Sees use in sealed/limited formats where removal density matters more than efficiency.",
+      "sources": ["Scryfall EDHREC rank"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Legal in Pauper and Paupercommander despite the five-mana cost — unconditional creature-or-planeswalker removal at any mana cost is rare enough in the Pauper card pool to see occasional play.",
+      "sources": ["Scryfall legalities"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Doom Blade", "set": "Magic 2012", "note": "Cheaper unconditional black removal; direct mechanical comparison"},
+    {"name": "Hero's Downfall", "set": "Theros", "note": "Creature-or-planeswalker removal predecessor at {2}{B}{B}"},
+    {"name": "Murderous Rider", "set": "Throne of Eldraine", "note": "Adventure card that does similar work at {1}{B}{B} and replaces itself"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "card_name": "Rolling Thunder",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "154",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Battle for Zendikar (October 2015) depicts the Eldrazi titan Ulamog's devastation of Zendikar after being freed from imprisonment. The plane's survivors — including the Gatewatch, formed in this block — mount a desperate resistance. Nablus, the flavor-text speaker, is named as a North Hada trapper, placing the card's perspective in Akoum, the continent most directly ravaged by Ulamog's emergence. [Scryfall: set_name Battle for Zendikar, released_at 2015-10-02; MTG Salvation: World of Zendikar Part V, via WebSearch snippet]",
+      "sources": ["Scryfall", "MTG Salvation: World of Zendikar Part V, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Zendikar is always angry, though I've never seen that anger so precisely directed.\" — Nablus, North Hada trapper. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Rolling Thunder is a reprint that originated in Tempest (October 1997) — making it nearly two decades old when reprinted in BFZ. Full print run: Tempest (1997), Battle Royale Box Set (1999), Planechase (2009), Tempest Remastered (2015), Battle for Zendikar (2015), Game Night (2018), The List / PLST (2019). [Scryfall: reprint: true; Scryfall prints search oracle ID 9c47888b]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rolling Thunder is a staple finisher in Pauper Tron (Mono-Green or Flicker-Tron variants), where the deck generates large quantities of colorless mana through Urza's Mine/Tower/Power Plant. With arbitrary mana, Rolling Thunder functions as both a board wipe against small creatures and a direct kill for the opponent. The 'divided as you choose among any number of targets' clause is the key flexibility that separates it from simpler X-damage spells. EDHREC rank 12,960 reflects meaningful play at the format level. [CoolStuffInc: 'The Many Faces of Pauper Tron' by Paige Smith, via WebSearch snippet; CoolStuffInc: 'The New Pauper Tron' by Alex Ullman, via WebSearch snippet; Scryfall: edhrec_rank: 12960; Scryfall: legalities — pioneer, modern, pauper, legacy, vintage all legal]",
+      "sources": ["CoolStuffInc Pauper Tron articles, via WebSearch snippet", "Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rolling Thunder", "set": "Tempest", "note": "Original 1997 printing — same oracle text, different art"},
+    {"name": "Capsize", "set": "Tempest", "note": "Pauper Tron co-finisher; Rolling Thunder + Capsize is the classic Tron endgame loop"},
+    {"name": "Urza's Mine", "set": "multiple", "note": "Tron land; Rolling Thunder's power in Pauper is entirely dependent on Tron mana engine"},
+    {"name": "Fireball", "set": "multiple", "note": "Earlier X-spell archetype; Rolling Thunder's 'any number of targets' is the design evolution beyond Fireball's 'one plus any number of creatures'"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

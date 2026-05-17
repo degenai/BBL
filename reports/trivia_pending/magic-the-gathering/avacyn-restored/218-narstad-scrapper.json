@@ -1,0 +1,47 @@
+{
+  "card_name": "Narstad Scrapper",
+  "game": "Magic: The Gathering",
+  "set": "Avacyn Restored",
+  "collector_number": "218",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Avacyn Restored (May 2012) concludes the Innistrad block, the three-set gothic-horror arc set on the plane of Innistrad. The set's narrative centers on the angel Avacyn's return and the restoration of humanity's hope against the plane's monsters. [Scryfall: set_name Avacyn Restored, released_at 2012-05-04]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Finally, the principles of corpse animation applied to bloodless materials!\" — Ludevic, necro-alchemist. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Ludevic of Ulm is a reclusive necro-alchemist living in Havengul on Innistrad — the plane's most influential practitioner of the discipline, who mentored Geralf Cecani and created the flying skaab Kraum. His name first appeared on Ludevic's Test Subject // Ludevic's Abomination (original Innistrad block); demand for his own card led Wizards to print Ludevic, Necro-Alchemist in Commander 2016 (C16 no. 37). [MTG Wiki: Ludevic of Ulm, via WebSearch snippet; Scryfall: lore search ft:ludevic]",
+      "sources": ["MTG Wiki: Ludevic of Ulm, via WebSearch snippet", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Narstad Scrapper is the sole printing of this card — no reprint history. EDHREC rank 30,444 places it firmly in the long tail of format-unplayed commons; its primary use case is Pauper-legal colorless construct builds and bulk draft filler. [Scryfall: reprint: false, edhrec_rank: 30444; EDHREC route link confirmed via Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art is by Steven Belledin, a prolific MTG illustrator known for painting creatures with textural weight — corroded metal, organic decay, aged surfaces. The Narstad Scrapper aligns with his documented tendency toward grim-palette, material-surface-focused monster work. [Scryfall: artist field]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ludevic, Necro-Alchemist", "set": "Commander 2016", "note": "The named Ludevic character gets his own legendary card here; Narstad Scrapper quotes him in flavor text"},
+    {"name": "Ludevic's Test Subject // Ludevic's Abomination", "set": "Innistrad", "note": "First card to name Ludevic; establishes the necro-alchemist character in the Innistrad block"},
+    {"name": "Ludevic, Necrogenius", "set": "Innistrad: Midnight Hunt", "note": "Third card for the character; tracks his evolution across three separate Innistrad visits"},
+    {"name": "Kraum, Ludevic's Opus", "set": "Commander 2016", "note": "Named creature created by Ludevic; the flying skaab referenced in his lore biography"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

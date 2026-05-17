@@ -1,0 +1,41 @@
+{
+  "card_name": "Fina (Legend)",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-060L",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Fina is a named, specific character from Final Fantasy Brave Exvius (FFBE), confirmed by the card's own category tag 'FFBE' per the Crystarium review and TCGPlayer/eBay listings. She is the White Mage protagonist who emerged from an earth crystal. The 'Legend' rarity designation in the card name refers to the FFTCG rarity tier (Legend = the highest rarity), not an alternate character version. The art is confirmed as Yoshitaka Amano's illustration per the vision pass. Multiple FFBE cards appear in Opus VIII (Fina at 8-060L, Dark Fina at 8-042L, Lasswell at 8-043H) confirming the Brave Exvius set cohort. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Fina is the White Mage protagonist of Final Fantasy Brave Exvius (2016), a mobile JRPG developed by gumi and Square Enix. In the game she emerges from an earth crystal with no memory save her name, able to wield white magic and a bow, and grants the protagonists Rain and Lasswell the power of visions to protect the world of Lapis from the Sworn Six of Paladia.",
+      "sources": ["Final Fantasy Wiki: Fina (via WebSearch snippet)", "WebSearch: Fina Final Fantasy Brave Exvius character lore"]
+    },
+    {
+      "category": "design",
+      "text": "The card art for Fina (Legend) 8-060L is illustrated by Yoshitaka Amano, the franchise's original character designer and visual identity architect. Amano's distinctive loose ink-and-watercolor style — delicate lines, flowing forms, minimal backgrounds — is confirmed by the vision pass and consistent with the 'Final Fantasy Brave Exvius The Art Works' publications documenting his FFBE character illustrations. Multiple Amano-illustrated cards appear across FFTCG Legend rarity tiers.",
+      "sources": ["Vision pass (bbl-researcher) — Amano style identified", "eBay: JAPAN Final Fantasy Brave Exvius The Art Works II (Yoshitaka Amano etc.) listing"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Fina (8-060L) is a 6-cost Wind Forward, job White Mage, 9000 power. Paying an additional Wi Wi Wi (three Wind CP) at cast time unlocks a second action: normally she selects one of two actions (deal 5000 damage to all opposing Forwards, or activate all your Characters); with the extra cost, she may select both. The FFTCG Crystarium Opus VIII limited review rated her 3.5/5, noting her activation ability enables 'huge turns' by reactivating four backups for a large CP recovery — a Wind combo finisher or midrange engine piece.",
+      "sources": ["FFTCG Crystarium: How to Win Limited Opus VIII Review"]
+    },
+    {
+      "category": "design",
+      "text": "Opus VIII contains multiple FFBE-category cards including Dark Fina (8-042L, 7CP 9000 Forward, Sage of Hess — a different card and character variant), Lasswell (8-043H, 4CP 8000 Forward, Knight), and two Fina variants: this Legend (8-060L) and a Common Fina (8-061C, 3CP 7000). The FFBE cohort was the dominant high-rarity theme of the set, reflecting the mobile game's peak global popularity at the time of the 2019 release.",
+      "sources": ["FFTCG Crystarium: How to Win Limited Opus VIII Review"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dark Fina", "set": "Opus VIII", "note": "Alternate FFBE character (Sage of Hess variant) in same set — different card, different abilities"},
+    {"name": "Lasswell", "set": "Opus VIII", "note": "FFBE co-protagonist; shares Wind/Fire synergy axis with Fina per Crystarium review"},
+    {"name": "Fina (Common)", "set": "Opus VIII", "note": "Lower-rarity Fina at 8-061C; same character, different cost/ability profile"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Fina (Final Fantasy Brave Exvius)",
+    "ip_confidence": "high"
+  }
+}

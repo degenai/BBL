@@ -76,3 +76,13 @@ A blonde-haired human warrior in blue and teal plate armor is captured mid-leap,
 **Creatures:** ogre-or-giant
 **Genre cues:** fantasy, high-fantasy, sword-and-sorcery
 
+## Trivia
+
+- **Set context** [TIER-1: Scryfall] — Swift Response appears exclusively in Core Set 2021 (released 2020-07-03), a curated reprint set with no plane-specific narrative. Its white section draws flavor from Theros/Akros warrior culture. This is the card's first and only printing. `[Scryfall]`
+- **Flavor text** [TIER-1: Scryfall] — "There's nothing quite as satisfying as delivering a good kick to the face." — Adrasteia, Akroan captain. The speaker is a named Akroan military officer. Notably the name Adrasteia is shared with one of Theros's three Fates (a mythological deity who cuts mortal threads) — but that figure is a divine entity unconnected to any military role; the card's Adrasteia is a distinct human captain not elaborated further in main storyline lore. `[Scryfall; MTG Wiki: Adrasteia via WebSearch snippet]`
+- **Mechanical reputation** [TIER-1: Scryfall] — Oracle text: "Destroy target tapped creature." Conditional removal — effective against attacking creatures in combat or tapped blockers, but dead against untapped boards. EDHREC rank 15077 reflects below-average Commander inclusion; the card sees more action in Pauper and PauperCommander (where it is legal) than in 100-card formats. `[Scryfall]`
+- **Design** [TIER-1: Scryfall] — Artist: Deruchenko Alexander. No reprints; this is the sole printing. Mana cost {1}{W} at common puts it in a well-populated slot for conditional white removal, competing with similar two-mana destroy-tapped effects across multiple sets. `[Scryfall]`
+
+### Related cards
+- Taranika, Akroan Veteran (Theros Beyond Death) — named Akroan warrior from the same Theros cultural milieu as the flavor text speaker
+- Pacifism (Core Set 2021) — comparable white removal common in the same set

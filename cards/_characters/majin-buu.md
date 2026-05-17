@@ -16,6 +16,7 @@ canonical_source: "Dragon Ball Wiki — Majin Buu (canonical disambiguation page
 confidence: canonical
 appears_on:
   - dragon-ball-super/galactic-battle/bt1-047-energy-boosted-majin-buu
+  - dragon-ball-super/union-force/bt2-028-majin-buu-revived
   - dragon-ball-super/colossal-warfare/bt4-015-mr-buu
   - dragon-ball-super/world-martial-arts-tournament/tb2-028-scuffle-time-mr-buu
 related_hubs: "[labor]"
@@ -54,8 +55,9 @@ Card art and effects that depict Majin Buu himself across any of his canonical f
 
 **Forms in the corpus (current):**
 
-- **Innocent / Fat Buu (Buu-Saga-opening base form)** — one corpus card depicting the canonical post-unsealing rotund-pink form.
+- **Innocent / Fat Buu (Buu-Saga-opening base form)** — two corpus cards depicting the canonical post-unsealing rotund-pink form.
   - **Energy Boosted Majin Buu** (Galactic Battle BT1-047, Common, vision+trivia-passed, qty 1) — Rotund pink-skinned Majin Buu floating in dark starry void with arms spread wide and a massive luminous energy sphere overhead, round-head-with-small-knob design, baggy pale purple vest, gleeful-or-unsettlingly-relaxed expression. The card depicts the canonical Fat Buu — the form produced when the original Kid Buu absorbed the Grand Supreme Kai whose influence dulled the Majin's pure destructive nature into something simultaneously more docile and uncannily jovial. Sealed by Bibidi and reawakened by Babidi during the Dragon Ball Z Buu Saga. The canonical *gleeful-menace* uncanny-tone register the BT1-047 trivia bullet foregrounds is one of the franchise's clearest in-canon examples of the *child-affect-paired-with-mass-destruction* design tension. The BT1 inaugural-set inclusion of a Buu print canonically affirms the Buu-form-roster's centrality to the DBS Card Game's primary-villain-archetype identity from launch.
+  - **Majin Buu Revived** (Union Force BT2-028, Common, vision+trivia-passed, qty 1) — Pink rotund Fat Buu in close-up portrait register, broad flat face with wide tooth-revealing grin, stubby antenna, white vest with purple trim, pink steam or vapor rising from the body, dark void background. The card's title *Revived* foregrounds the canonical post-unsealing moment of the Buu-Saga arc — the canonical *Babidi-completes-the-resurrection-using-stolen-tournament-energy* beat the BT2-028 trivia bullet documents (the canonical 25th World Martial Arts Tournament Spopovich-and-Yamu energy-drain of Gohan is the canonical harvest event, and Vegeta's fight with Goku is the canonical crack-event for the Sealed Ball). The BT2 set's mid-Buu-Saga placement extends the Buu-form-roster across a second canonical Innocent-Buu register print, canonically affirming the *Fat Buu as the canonical Buu-Saga-opening anchor* register the BT1-047 print first installs at the Bandai DBSCG roster level. The TB2-028 trivia bullet's canonical *Hercule-Buu friendship as moral pivot* note canonically operates across this print as well per the [[hercule]] cross-edge.
 
 - **Mr. Buu / Good Buu (canonical reformed-villain Z-Fighter-ally register, GT-era)** — one corpus card depicting the canonical Baby-Saga-era Mr. Buu.
   - **Mr. Buu** (Colossal Warfare BT4-015, Common, vision+trivia-passed, qty 1) — Large rotund pink-skinned fighter with antennae in aggressive charging-pose stance, yellow-and-white outfit, pink and white energy crackling and swirling outward in all directions, intense battle-fury expression. Red Common Battle card with 10000 power / 5000 combo power. Era: Baby Saga. The card's BT4 Baby-Saga-era placement canonically affirms the canonical *Mr-Buu-evaded-Baby-possession* lore-consistency the BT4-015 trivia bullet foregrounds — Baby canonically infected most of Earth during the GT Baby Saga but not Good Buu or Mr. Satan. The canonical *the-Buu-that-survives-the-Buu-Saga-via-fission-and-reformation* register canonically operates at this print.
@@ -84,6 +86,7 @@ This is what BBL's bundle copy can lean on without inventing canon: Majin Buu is
 <!-- auto-generated from appears_on; do not edit by hand -->
 
 - [[bt1-047-energy-boosted-majin-buu]]
+- [[bt2-028-majin-buu-revived]]
 - [[bt4-015-mr-buu]]
 - [[tb2-028-scuffle-time-mr-buu]]
 ## Canonical sources
@@ -122,7 +125,7 @@ This is what BBL's bundle copy can lean on without inventing canon: Majin Buu is
 
 - **The canonical *playful-childlike-affect-paired-with-planet-level-destructive-power* uncanny-tone register.** Per the BT1-047 trivia bullet (*gleeful menace*) and TB2-028 vision-pass *playful aggression and mild amusement*, the canonical Buu design across all canonical forms canonically operates the canonical uncanny-tone register Toriyama installed as one of the canonical Buu-Saga's load-bearing tonal anchors. Bundle copy that wants the canonical *uncanny-affect-as-villain-design* register indexes this canonical design-tension directly without naming the thesis.
 
-- **Future Discrete Lair candidate.** 3 trivia-passed corpus anchors (BT1-047 qty 1, BT4-015 qty 1, TB2-028 qty 4 = 6 total inventory) plus the canonical apparatus-of-extraction productive-asset cross-edge with [[babidi]] (6 cards / 19 total inventory) form a substantial cohesion stack for a canonical *Babidi-and-Buu-as-paired-apparatus-and-asset* Discrete Lair anchored at both nodes simultaneously. Bundle copy can lean on the canonical *productive-asset-eats-the-foreman* / *evil-is-actually-detachable-via-fission* / *Mr-Satan-talks-the-Majin-into-reform* thesis stack per [[bbl-museum-curation-framing]] without naming the thesis. The thesis stack supports the Discrete Lair narrative-first framing per [[bbl-narrative-first-lairs]]. Reserve for when the canonical Buu-Saga or Babidi-and-Buu Discrete Lair commission lands.
+- **Future Discrete Lair candidate.** 4 trivia-passed corpus anchors (BT1-047 qty 1, BT2-028 qty 1, BT4-015 qty 1, TB2-028 qty 4 = 7 total inventory) plus the canonical apparatus-of-extraction productive-asset cross-edge with [[babidi]] (6 cards / 19 total inventory) form a substantial cohesion stack for a canonical *Babidi-and-Buu-as-paired-apparatus-and-asset* Discrete Lair anchored at both nodes simultaneously. Bundle copy can lean on the canonical *productive-asset-eats-the-foreman* / *evil-is-actually-detachable-via-fission* / *Mr-Satan-talks-the-Majin-into-reform* thesis stack per [[bbl-museum-curation-framing]] without naming the thesis. The thesis stack supports the Discrete Lair narrative-first framing per [[bbl-narrative-first-lairs]]. Reserve for when the canonical Buu-Saga or Babidi-and-Buu Discrete Lair commission lands.
 
 ## See also
 

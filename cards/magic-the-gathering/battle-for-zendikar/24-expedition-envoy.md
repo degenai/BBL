@@ -72,3 +72,14 @@ A humanoid figure stands on a rocky promontory in a three-quarter stance. The fi
 **Iconography:** banner
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** [TIER-1: Scryfall] — Expedition Envoy is from Battle for Zendikar (released 2015-10-02), the first set of the Zendikar vs. Eldrazi block. Expedition houses were Zendikar's organized adventuring guilds, built for the plane's ever-shifting terrain — the Eldrazi's emergence transformed their motto from treasure-hunting confidence to survival doctrine. `[Scryfall]`
+- **Flavor text** [TIER-1: Scryfall] — "The unofficial motto of every expedition house is 'ready for anything,' a phrase whose significance has been amplified since the emergence of the Eldrazi." No speaker named — written as anonymous collective faction voice, not a single character. `[Scryfall]`
+- **Design** [TIER-1: Scryfall] — Type line: Creature — Human Scout Ally. The Ally subtype is mechanically load-bearing in BFZ: other Allies trigger rally abilities when Allies enter the battlefield. Expedition Envoy has no oracle text at all (vanilla 2/1 for one white mana), contributing purely as a rally trigger and aggressive one-drop. First and only printing; artist: David Palumbo. EDHREC rank 17976 reflects near-zero Commander inclusion — vanilla bodies rarely earn Commander slots even in Ally tribal. `[Scryfall]`
+- **Mechanical reputation** [TIER-2: ChannelFireball via WebSearch] — ChannelFireball's BFZ constructed review assessed Expedition Envoy as a reliable Ally-aggro piece: "triggers all your Allies for only 1 mana, and can get 4-6 points of damage in early" — noting the card's ceiling depended entirely on whether the Ally theme cohered in Standard. Community sentiment: Expedition Envoy was a functional role-player in BFZ-era Ally decks rather than a standout card. `[ChannelFireball BFZ White Constructed Review via WebSearch]`
+
+### Related cards
+- Ally Encampment (Battle for Zendikar) — land supporting Ally tribal synergy in the same set
+- Kor Bladewhirl (Battle for Zendikar) — Kor-adjacent BFZ Ally, first-strike support for the same aggro package
+- Harabaz Druid (Worldwake) — original Zendikar-era Ally that defined the rally engine Expedition Envoy feeds into

@@ -1,5 +1,5 @@
 ---
-name: "Disheartened" Mikasa
+name: '"Disheartened" Mikasa'
 game: Weiss Schwarz
 set: Attack on Titan
 collector_number: AOT/S35-E075 C

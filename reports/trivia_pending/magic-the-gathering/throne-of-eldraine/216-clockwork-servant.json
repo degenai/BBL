@@ -1,0 +1,42 @@
+{
+  "card_name": "Clockwork Servant",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "216",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Only printing; from Throne of Eldraine (ELD, October 2019), a fairy-tale plane overlaid on Arthurian legend. The clockwork gnome represents the castle's mechanical service infrastructure rather than any particular court's military. One of two colorless-common artifact golems in ELD alongside Henge Walker.",
+      "sources": ["Scryfall: Clockwork Servant"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Adamant mechanic (draw a card if you spent at least three mana of the same color) was ELD's set mechanic rewarding mono-color devotion. As a colorless-cost artifact, Clockwork Servant can trigger Adamant with any single color's mana — agnostic to which court employs it. EDHREC rank 22,285. Not Pauper-legal (uncommon). Legal in Pioneer, Modern, Historic, Legacy, Commander.",
+      "sources": ["Scryfall: oracle_text", "Scryfall: EDHREC rank 22,285", "Scryfall: legalities"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Some are annoyed by the constant ticking as they clean the cobbles, but to the castle custodians, there's no sweeter sound.\" — no named speaker. The unnamed custodians who find the ticking sweet are implicitly those who benefit from the labor without performing it.",
+      "sources": ["Scryfall: flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by David Palumbo, a prolific MTG illustrator known for detailed character work. No specific design commentary on this card has been located.",
+      "sources": ["Scryfall: artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Gingerbrute", "set": "Throne of Eldraine", "note": "fellow ELD artifact creature in the same clockwork-fairy-tale tonal space"},
+    {"name": "Clockwork Beast", "set": "Alpha/Revised", "note": "the original MTG clockwork creature, decades earlier"},
+    {"name": "Clockwork Gnome", "set": "Urza's Saga", "note": "earlier clockwork-gnome creature type that Clockwork Servant visually echoes"},
+    {"name": "Henge Walker", "set": "Throne of Eldraine", "note": "the other colorless common artifact golem in ELD"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -76,3 +76,14 @@ A dynamic wide scene of two reptilian creatures fighting on a rocky cliff face. 
 **Creatures:** lizard, reptile, serpent
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Battle for Zendikar (released 2015-10-02) frames Zendikar's survivors mounting resistance against the Eldrazi titan Ulamog. Affa, named in the flavor text as Jalun's post, is a large settlement at the base of the Teeth of Akoum mountain range on Akoum; during the Eldrazi invasion it survived by retreating into underground caverns. `[Scryfall; MTG Salvation: World of Zendikar Part V, via WebSearch snippet]`
+- **Flavor text** — "Whiptails can sense a traveler's footsteps from a great distance. Measuring that distance has been . . . difficult." — Jalun, Affa sentry. `[Scryfall]`
+- **Mechanical note** — Despite visual resemblance to a serpentine lizard, Belligerent Whiptail's official creature type is **Wurm**, not Lizard or Reptile. `[Scryfall: type_line: Creature — Wurm]` Landfall (gaining first strike whenever a land you control enters) is Zendikar's signature mechanic, introduced in the original Zendikar block (2009) and reprised here. Sole printing; EDHREC rank 26,207 places it in the unplayed-commons tier. `[Scryfall: edhrec_rank: 26207, reprint: false]`
+- **Design** — Art by Jakub Kasper, a Polish illustrator whose MTG work concentrated in the Battle for Zendikar block and surrounding sets; this is among his earlier Wizards commissions. `[Scryfall: artist field]`
+
+### Related cards
+- Plated Geopede (Zendikar) — red Landfall creature from original Zendikar; same mechanic, same red-aggressive role
+- Territorial Baloth (Battle for Zendikar) — green BFZ Landfall beast; same block, same mechanic, different color axis
+- Oran-Rief Hydra (Battle for Zendikar) — BFZ Landfall payoff; contrasts Whiptail's cheap-aggro vs. hydra's late-game scaling

@@ -80,3 +80,16 @@ A male warrior in red-and-gold (Boros) plate armor charges forward with longswor
 **Iconography:** sun-emblem
 **Genre cues:** fantasy, heroic, painterly
 
+## Trivia
+
+- **Set / lore context** — Core Set 2021 (M21) released July 3, 2020. The card's flavor text explicitly names the Boros Legion, Ravnica's military guild combining white (law/order) and red (passion/action) mana. The speaker is an unnamed soldier who joined after a single Boros defender saved their family — a foot-soldier recruitment narrative, not a named-character story `[Scryfall]`
+- **Flavor text** — "My family was saved thanks to a single Boros soldier. It's why I joined the Legion. I will be the protector now." `[Scryfall]`
+- **Design / reprint history** — Defiant Strike is a reprint as of M21; its earlier printings include Khans of Tarkir (2014), War of the Spark (2019), and Strixhaven: School of Mages Mystical Archive (STA, 2021) — the Mystical Archive version includes a Japanese alternate-art variant with different illustration, one of 63 historically-significant spells featured in that supplemental slot `[Scryfall: reprint=true; WebSearch: mtgstocks.com; cardsphere.com STA listing]`
+- **Mechanical reputation** — EDHREC rank 5,622 as of May 2026, making it one of the more-played white commons in the format. Legal in Pauper, where it fills the cantrip-combat-trick slot: {W} for +1/+0 plus a card draw is the baseline definition of efficient in white Pauper aggro and go-wide decks. The spell is also Paupercommander legal `[Scryfall legalities; WebSearch: draftsim.com Pauper staples list]`
+- **Artist** — Illustrated by Gabor Szikszai, a Hungarian fantasy artist with a long MTG credit history across multiple sets `[Scryfall]`
+
+### Related cards
+- Defiant Strike (Khans of Tarkir, KTK no. 7) — same oracle text, earlier art
+- Defiant Strike (Strixhaven Mystical Archive, STA no. 3) — Mystical Archive prestige reprint with alternate art and Japanese alt-art variant
+- Defiant Strike (War of the Spark, WAR no. 9) — third distinct printing before M21
+- Cathar's Call (Innistrad) — Boros/white flavor cycle sharing the "single soldier defending many" theme

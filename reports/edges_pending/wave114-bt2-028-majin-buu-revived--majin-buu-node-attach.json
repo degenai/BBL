@@ -1,0 +1,37 @@
+{
+  "edge_id": "wave114-bt2-028-majin-buu-revived--majin-buu-node-attach",
+  "shape": "N:1",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/dragon-ball-super/union-force/bt2-028-majin-buu-revived.md",
+      "name": "Majin Buu Revived (BT2-028)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/majin-buu.md",
+      "name": "Majin Buu (character node)"
+    }
+  ],
+  "description": "Caught a fourth canonical Majin Buu print sitting unwired in Union Force after the majin-buu node already shipped at wave 83 with only three appears_on entries. BT2-028 Majin Buu Revived is vision+trivia+IP-verified — Fat Buu / Innocent Buu register, identical character-anchor as BT1-047 Energy Boosted Majin Buu. Card now stamped with characters: [majin-buu], node's appears_on list and auto-generated Appears on section extended in canonical BT1 -> BT2 -> BT4 -> TB2 set order, body's Forms-in-the-corpus section updated from 'one corpus card' to 'two corpus cards' for the Fat Buu register with the new print's full sub-bullet inserted, and the Future Discrete Lair candidate cohesion-stack count corrected from 3 anchors / 6 inventory to 4 anchors / 7 inventory. Stack closure — node's wave-83 commission completed without this print included because BT2-028 was enriched later. No new edge invented; this is the missing wire on an already-existing node-anchor relation that the trivia bullets had already documented in prose without the structural pointer.",
+  "citations": [
+    "[Scryfall-equivalent: dbs-cardgame.com BT2-028 official card page]",
+    "[Dragon Ball Wiki: Majin Buu — canonical disambiguation page]",
+    "[Dragon Ball Wiki: Mr. Buu — Fat Buu / Innocent Buu register]",
+    "[BT2-028 own trivia bullets: 'Fat Buu — first form depicted' explicitly identifies the canonical Innocent Buu register]"
+  ],
+  "files_modified": [
+    "cards/dragon-ball-super/union-force/bt2-028-majin-buu-revived.md",
+    "cards/_characters/majin-buu.md"
+  ],
+  "other_candidates_considered": [
+    "Ginyu Force cohort node — still at 3 anchors / 2 unique members (no new Guldo/Burter/Jeice in corpus). Defer per janitor_triage wishlist trigger.",
+    "Broly node — already at 4 corpus cards fully wired; no orphan prints surfaced in the BT1 sweep.",
+    "WMAT Tournament Announcer triple — all three TB2-065/066/067 already wired to wmat-tournament-announcer node.",
+    "Wave-81 P1 batch (son-goten / uub / wmat-tournament-announcer) — all nodes shipped and all anchor cards wired. Wishlist is stale on these three; janitor pass should mark them done.",
+    "BT2 Union Force unwired list contains other named-character cards (bt2-012 Vegito, bt2-018 Videl, bt2-052 Yajirobe, bt2-061 Gowasu, bt2-089/091 Android 17/18 twins, bt2-115 Salza, etc.) but each requires either node-density-threshold satisfaction or a fresh Mr. Nodeley pass — none are unwired anchors on an already-existing node like the BT2-028 case is."
+  ],
+  "edgelord_mood": "sighed-but-mirrored"
+}

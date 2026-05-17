@@ -77,3 +77,16 @@ A massive humanoid golem stands in a dim industrial space, its body welded toget
 **Iconography:** chains, furnace-glow, spikes
 **Genre cues:** fantasy, dark-fantasy, industrial-fantasy
 
+## Trivia
+
+- **Set context** — Iron Bully is a first (and only) printing from *War of the Spark* (WAR, released May 2019), set on Ravnica during Nicol Bolas's planar invasion. The set's mechanical conceits included the Dreadhorde army (Eternals, zombified warriors from Amonkhet) and, at the colorless common slot, various constructs and golems that appeared throughout Ravnica's guilds as street-level combat units during the war. Iron Bully is among those incidental war-machines. [Scryfall: Iron Bully]
+- **Flavor text** — "Why would someone have built ... wait, never mind. Send it to the front lines!" — Commander Grozdan. The speaker is identified as a commander but Grozdan does not appear to be a named lore character elsewhere in WAR materials; the name may be a minor named NPC unique to this card's flavor. The flavor's structure — a question abandoned mid-sentence — literalizes the deployment logic: manufacture precedes authorization. [Scryfall: flavor_text]
+- **Mechanical reputation** — EDHREC rank 19,866 — low Commander presence. Legal in Pauper, Paupercommander, Pioneer, Modern, Historic, Legacy, Commander. The +1/+1 counter trigger on enter-the-battlefield makes it a marginal synergy piece in counter-matters and sacrifice strategies. Community assessment is generally that it is filler at common rarity and not a notable include in competitive builds. [Scryfall: EDHREC rank 19,866; legalities]
+- **Artist** — Illustrated by Aaron Miller, who has illustrated a wide range of MTG creatures across multiple sets. No specific design notes on this card found. [Scryfall: artist field]
+
+### Related cards
+- Ruinous Gremlin (Kaladesh) — another WAR-era construct used as expendable combat fodder
+- Shambling Suit (Throne of Eldraine) — fellow colorless common golem from the same era
+- Goblin Golem (various) — older colorless golem in a similar power-level slot
+- Iron Myr (Scars of Mirrodin) — thematically adjacent iron construct with mana-production utility
+

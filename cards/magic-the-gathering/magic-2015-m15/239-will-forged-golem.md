@@ -76,3 +76,16 @@ A massive constructed humanoid figure dominates the frame, its body assembled fr
 **Creatures:** golem, construct, automaton
 **Genre cues:** fantasy, high-fantasy, arcane-industrial
 
+## Trivia
+
+- **Set context** — Will-Forged Golem is a first (and only) printing from *Magic 2015* (M15, released July 2014), the annual core set that introduced Convoke as a returning evergreen mechanic for the year. M15 was notable as the first core set with individual card art direction credited to outside artists with prominent billing — the set was positioned as a showcase for the game's artistic range. [Scryfall: Will-Forged Golem]
+- **Mechanic** — Convoke (each creature you tap while casting pays for 1 or one mana of its color) makes the flavor text self-referential: "The modular nature of the automaton's design makes assembly perfectly intuitive." The casting mechanic enacts the assembly process — your creatures participate in building the golem, rendering the factory floor as a game mechanic. [Scryfall: oracle_text + flavor_text]
+- **Mechanical reputation** — EDHREC rank 25,108 marks this as a fringe card with limited Commander presence. It is legal in Pauper and Paupercommander, where a 4/4 body with Convoke can occasionally fit token-adjacent strategies, though it sees very limited competitive play. [Scryfall: EDHREC rank 25,108]
+- **Artist** — Illustrated by Jason Felix, who has a large body of MTG work across multiple sets including numerous artifact and creature cards. No specific designer commentary on this card has been found. [Scryfall: artist field]
+
+### Related cards
+- Stonewright (Avacyn Restored) — another Convoke-adjacent creature from the same era
+- Siege Wurm (Magic Origins) — larger Convoke creature printed the following year in the same core-set slot
+- Battlegrace Angel (Shards of Alara) — earlier prominent Convoke card demonstrating the mechanic's longevity
+- Sundering Vitae (War of the Spark) — Convoke creature from a later set illustrating the mechanic's persistence across blocks
+

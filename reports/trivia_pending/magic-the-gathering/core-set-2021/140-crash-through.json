@@ -1,0 +1,42 @@
+{
+  "card_name": "Crash Through",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "140",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Crash Through originated in Hour of Devastation (released 2017-07-14), the second set of the Amonkhet block. The original printing carries flavor text spoken by Samut, a Tah-crop initiate who became a dissident and eventually a planeswalker: \"We have to get out of the city, Djeru. All of us! Gather as many as you can.\" This line captures the moment Samut leads survivors out of Naktamun as Nicol Bolas's Eternal army breaches the city's defenses — the Hour of Devastation itself. [Scryfall: HOU printing; MTG Wiki: Samut, via WebSearch snippet]",
+      "sources": ["Scryfall HOU printing", "MTG Wiki: Samut via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "The Core Set 2021 printing (and several others including Core Set 2019, The List, Amonkhet Remastered) drops the Samut flavor text entirely, leaving the card textless on flavor. A 2021 Secret Lair Drop printing carries entirely different flavor text — \"Uni! Uni! I knew you'd come back!\" attributed to Bobby, a crossover reference. The Foundations 2024 printing restores the Samut/Djeru flavor text. [Scryfall: all prints query]",
+      "sources": ["Scryfall: prints search"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Crash Through is a one-mana red sorcery that grants all your creatures trample until end of turn and draws a card — a cantrip pump spell. EDHREC rank 2031 reflects broad Commander inclusion, and the card sees play in Pauper (it is Pauper-legal) and PauperCommander as one of red's cheapest draw-attached pump effects. The combination of mass trample and card draw in a single mana makes it a staple in go-wide red aggro and token strategies. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist for the M21 printing is Izzy (full name Izzy Medrano), a recurring MTG illustrator known for kinetic, figure-forward combat scenes. Crash Through has been reprinted at least 6 times across paper/digital sets, making it one of the more frequently republished common cantrips in red. [Scryfall: prints]",
+      "sources": ["Scryfall: prints search"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Reckless Charge", "set": "Odyssey", "note": "Earlier red trample-grant sorcery; predecessor design space"},
+    {"name": "Titan's Strength", "set": "Magic Origins", "note": "Another one-mana red pump-and-draw in the same design family"},
+    {"name": "Samut, Voice of Dissent", "set": "Hour of Devastation", "note": "The flavor text speaker on the original HOU printing"},
+    {"name": "Djeru, With Eyes Open", "set": "Hour of Devastation", "note": "Named in the original flavor text as Samut's companion fleeing Naktamun"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

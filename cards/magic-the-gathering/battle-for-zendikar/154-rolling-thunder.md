@@ -76,3 +76,15 @@ The art crop shows a large multi-limbed creature — spider or insectoid in morp
 **Iconography:** eldrazi-silhouette, mass-destruction, alien-horror
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context** — Battle for Zendikar (released 2015-10-02) depicts the Eldrazi titan Ulamog's devastation of the plane after being freed from millennia of imprisonment. Nablus, the flavor-text speaker, is named as a North Hada trapper — placing the card's perspective in Akoum, the continent most directly ravaged by Ulamog's emergence. `[Scryfall; MTG Salvation: World of Zendikar Part V, via WebSearch snippet]`
+- **Flavor text** — "Zendikar is always angry, though I've never seen that anger so precisely directed." — Nablus, North Hada trapper. `[Scryfall]`
+- **Design history** — Rolling Thunder is a reprint originating in Tempest (1997), nearly two decades before this BFZ printing. Full print run: Tempest (1997), Battle Royale Box Set (1999), Planechase (2009), Tempest Remastered (2015), Battle for Zendikar (2015), Game Night (2018), The List (2019). `[Scryfall: reprint: true; Scryfall prints search]`
+- **Mechanical reputation** — Rolling Thunder is the primary finisher in Pauper Tron (Mono-Green and Flicker-Tron variants), where the deck's Urza land engine generates enough colorless mana to make X enormous. The "divided as you choose among any number of targets" clause lets it double as a mid-game board sweep against token swarms or close out as a face-burn finisher. EDHREC rank 12,960 reflects meaningful cross-format play. `[CoolStuffInc: "The Many Faces of Pauper Tron," via WebSearch snippet; CoolStuffInc: "The New Pauper Tron," via WebSearch snippet; Scryfall: edhrec_rank: 12960]`
+
+### Related cards
+- Rolling Thunder (Tempest, 1997) — original printing; same oracle text, different art
+- Capsize (Tempest) — Pauper Tron co-finisher; Rolling Thunder + Capsize is the classic Tron endgame
+- Urza's Mine / Tower / Power Plant (various) — Tron land cycle enabling Rolling Thunder's Pauper dominance
+- Fireball (various) — X-damage predecessor; Rolling Thunder's "any number of targets" is the design evolution beyond Fireball's targeting restrictions

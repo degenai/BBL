@@ -1,0 +1,46 @@
+{
+  "card_name": "Defiant Strike",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "15",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The flavor text explicitly names the Boros Legion, Ravnica's military guild combining white and red mana. The speaker is an unnamed soldier who joined after a single Boros defender saved their family — a foot-soldier recruitment narrative, not a named-character story.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"My family was saved thanks to a single Boros soldier. It's why I joined the Legion. I will be the protector now.\"",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Defiant Strike is a reprint as of M21. Prior printings include Khans of Tarkir (2014), War of the Spark (2019), and Strixhaven: School of Mages Mystical Archive (STA, 2021) — the STA version includes a Japanese alternate-art variant with different illustration, one of 63 historically-significant spells featured in that supplemental slot.",
+      "sources": ["Scryfall: reprint=true", "WebSearch: mtgstocks.com", "WebSearch: cardsphere.com STA listing"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 5,622 as of May 2026. Legal in Pauper, where it fills the cantrip-combat-trick slot: {W} for +1/+0 plus a card draw is the baseline definition of efficient in white Pauper aggro and go-wide decks. Also Paupercommander legal.",
+      "sources": ["Scryfall legalities", "WebSearch: draftsim.com Pauper staples list"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Gabor Szikszai, a Hungarian fantasy artist with a long MTG credit history across multiple sets.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Defiant Strike", "set": "Khans of Tarkir", "note": "Same oracle text, earlier art — original printing"},
+    {"name": "Defiant Strike", "set": "Strixhaven Mystical Archive", "note": "Prestige reprint with alternate art and Japanese alt-art variant"},
+    {"name": "Defiant Strike", "set": "War of the Spark", "note": "Third distinct printing before M21"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

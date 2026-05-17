@@ -1,0 +1,42 @@
+{
+  "card_name": "Belligerent Whiptail",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "141",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Battle for Zendikar (October 2015) depicts the Eldrazi titan Ulamog's devastation of Zendikar. Affa, named in the flavor text as Jalun's base, is a large settlement at the base of the Teeth of Akoum mountain range on the continent of Akoum; during the Eldrazi invasion it survived by retreating into underground caverns. [Scryfall: set_name Battle for Zendikar, released_at 2015-10-02; MTG Salvation: World of Zendikar Part V, via WebSearch snippet]",
+      "sources": ["Scryfall", "MTG Salvation: World of Zendikar Part V, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Whiptails can sense a traveler's footsteps from a great distance. Measuring that distance has been . . . difficult.\" — Jalun, Affa sentry. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Belligerent Whiptail's official creature type is Wurm — not Lizard or Reptile despite its visual resemblance to a serpentine lizard in the art. Landfall — gaining first strike whenever a land enters — fits the Zendikar block's signature mechanic introduced in the original Zendikar (2009) and reprised in Battle for Zendikar. The card is a sole printing; EDHREC rank 26,207 places it in the unplayed-commons tier. [Scryfall: type_line: Creature — Wurm, keywords: Landfall, edhrec_rank: 26207, reprint: false]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Jakub Kasper — a Polish illustrator whose MTG work concentrates in the Battle for Zendikar block and later sets. The Belligerent Whiptail commission is one of his earlier Wizards credits. [Scryfall: artist field]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Plated Geopede", "set": "Zendikar", "note": "Red Wurm/Lizard creature with Landfall in original Zendikar; same mechanic, similar red-aggressive role"},
+    {"name": "Oran-Rief Hydra", "set": "Battle for Zendikar", "note": "Another BFZ Landfall payoff creature; contrasts the Whiptail's cheap-aggro vs. hydra's late-game scaling"},
+    {"name": "Territorial Baloth", "set": "Battle for Zendikar", "note": "Green BFZ Landfall beast; same block, same mechanic, different color axis"},
+    {"name": "Fierce Empath", "set": "Onslaught", "note": "Can tutor Wurm-type creatures; taxonomic connection via creature type for any Wurm-tribal build"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

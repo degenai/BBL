@@ -1,0 +1,48 @@
+{
+  "card_name": "Ambush Viper",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "213",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ambush Viper is a reprint; its original printing is Innistrad (ISD, 2011, card no. 169). CMR was the first Commander-legal booster draft set, designed so players could draft full Commander decks; reprinting efficient commons like Ambush Viper served the set's role as a Commander staple repository.",
+      "sources": ["Scryfall: reprint=true, released_at 2020-11-20", "Scryfall ISD/169 print history"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Living creatures seldom impress me. But I like this one.\" — Uta Falkenrath",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Uta Falkenrath is a named member of the Falkenrath vampire bloodline on Innistrad, one of the four great vampire lines of Stensia. The Falkenrath are characterized as bold predators who walk openly among humans; the quote's cold admiration for a lethal animal reads as pure Falkenrath affect: detached, aristocratic, approving of danger.",
+      "sources": ["WebSearch: mtg.wiki/page/Falkenrath", "WebSearch: magic.wizards.com Planeswalker's Guide to Innistrad: Stensia"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 4,939 as of May 2026, appearing in approximately 28,190 EDH decks. The Flash + Deathtouch combination at {1}{G} acts as a surprise instant-speed removal spell in combat, killing any attacker by blocking. Top Commander pairings include Fynn, the Fangbearer (79% inclusion in 11,700 Fynn decks) and Seshiro the Anointed (82% inclusion in 566 decks).",
+      "sources": ["WebSearch: EDHREC Ambush Viper page", "Scryfall EDHREC rank"]
+    },
+    {
+      "category": "design",
+      "text": "Scryfall's all_parts field lists Jessie Zane, Fangbringer (a Legendary Human Assassin) as a combo piece with Ambush Viper, confirming a mechanical relationship added in a later set.",
+      "sources": ["Scryfall all_parts"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ambush Viper", "set": "Innistrad", "note": "Original printing (ISD no. 169); Uta Falkenrath flavor text originated here"},
+    {"name": "Fynn, the Fangbearer", "set": "Kaldheim", "note": "Deathtouch-matters Commander; Ambush Viper appears in 79% of Fynn decks"},
+    {"name": "Jessie Zane, Fangbringer", "set": "unknown — later set", "note": "Scryfall-listed combo piece with Ambush Viper"},
+    {"name": "Seshiro the Anointed", "set": "Champions of Kamigawa", "note": "Snake tribal Commander; 82% inclusion rate for Ambush Viper"},
+    {"name": "Deadly Recluse", "set": "Magic 2013", "note": "Classic Flash + Deathtouch comparison in green removal discussion"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -77,3 +77,17 @@ A small clockwork construct rendered as a mechanical gnome stands centered in a 
 **Iconography:** gears, glowing-eyes
 **Genre cues:** fantasy, fairy-tale, steampunk, clockpunk
 
+## Trivia
+
+- **Set context** — Clockwork Servant is a first (and only) printing from *Throne of Eldraine* (ELD, released October 2019), a fairy-tale plane overlaid onto Arthurian legend. Eldraine features five distinct knightly courts plus the Wilds — the clockwork gnome is native to the court aesthetic, representing the castle's mechanical service infrastructure rather than any particular faction's military. [Scryfall: Clockwork Servant]
+- **Mechanic** — Adamant (draw a card if you spent at least three mana of the same color to cast it) was Throne of Eldraine's set mechanic, designed to reward mono-color devotion in a set otherwise built around five-color court identities. As a colorless-cost artifact, Clockwork Servant can trigger Adamant with any color's mana — it is agnostic to which court employs it. The Adamant reward (card draw on a 2/3 body for 3 mana) makes it a utility piece in mono-color Commander shells. [Scryfall: oracle_text; ELD set mechanics context]
+- **Flavor text** — "Some are annoyed by the constant ticking as they clean the cobbles, but to the castle custodians, there's no sweeter sound." — no named speaker. The unnamed custodians who find the ticking sweet are implicitly those who benefit from the labor without performing it. [Scryfall]
+- **Mechanical reputation** — EDHREC rank 22,285 — low-end Commander presence, primarily in artifact-matters and colorless utility builds. Legal in Pioneer, Modern, Historic, Legacy, Commander. Not Pauper-legal (uncommon). [Scryfall: EDHREC rank 22,285; legalities]
+- **Artist** — Illustrated by David Palumbo, a prolific MTG illustrator known for detailed character work. No specific design commentary on this card found. [Scryfall: artist field]
+
+### Related cards
+- Gingerbrute (Throne of Eldraine) — fellow ELD artifact creature in the same clockwork-food-fairy-tale tonal space
+- Clockwork Beast (Alpha/Revised) — the original MTG clockwork creature, decades earlier, in a completely different mechanical paradigm
+- Clockwork Gnome (Urza's Saga) — the earlier clockwork-gnome creature type that Clockwork Servant visually echoes
+- Arcane Signet (Commander 2019) — commonly paired in mono-color Commander decks where Clockwork Servant occasionally slots
+

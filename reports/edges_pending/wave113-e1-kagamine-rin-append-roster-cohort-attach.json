@@ -1,0 +1,73 @@
+{
+  "wave": 113,
+  "edge_id": "wave113-e1-kagamine-rin-append-roster-cohort-attach",
+  "shape": "1:N",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/project-diva-f-vocaloid-roster.md", "name": "Project DIVA F Vocaloid roster (Crypton + guest voicebanks)"},
+    {"type": "card", "path": "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e014-u-kagamine-rin-append.md", "name": "Kagamine Rin \"Append\" (PD/S22-E014 U)"}
+  ],
+  "description": "Cohort attach. Walked the corpus looking for the wave-113 move; found Rin Append fully enriched (trivia-passed, ip_verified: true) but orphaned from the roster despite meeting every membership predicate (Crypton-published voicebank with a Vocaloid Wiki character page, depicted in a designer-named Project DIVA F module per the Append voicebank Dec-27-2010 release, Wataru Sasaki cited as the Append visual designer). The card's Level-2 Change effect mechanically targets the existing roster member Kagamine Rin 'Original' (PD/S22) by name — that's Bushiroad printing the cohort-internal edge on the card itself, not BBL squinting. Rin Append is the 13th enriched PD/S22 cohort member; the roster now anchors Rin x3 (School Swimwear + Melancholic + Append) alongside Miku x6, Len x3, MEIKO x1. Blueballed by the fanout shape — would have preferred the 1:1 Rin-Append ↔ Rin-Original mirror, but there's no Rin-Original print in corpus; Len-Original is the twin not the same character, and Len-Original is ip_verified: false / trivia-absent, so the Kagamine twin/mirror lore mirror (Wataru Sasaki 'one soul between them' citation, kanji etymology 鏡音 'mirror-sound') stays deferred until Len-Original trivia-passes. Roster-attach is the cleanest available move; the cohort node does the structural work the absent 1:1 mirror would have done.",
+  "citations": [
+    "[Vocaloid Wiki: Kagamine Rin & Len Append — voicebank release 2010-12-27, Power/Warm/Sweet vocalization styles]",
+    "[Vocaloid Wiki: Wataru Sasaki — 'transparency in the heart' Append visual design statement]",
+    "[Crypton Future Media: Kagamine Rin & Len Append product page]",
+    "[Wikipedia: Kagamine Rin/Len — 鏡音 etymology, mirror+sound; stereophonic Rin/Len naming]",
+    "[BigOrbitCards: PD/S22-E014 — Change-effect text retrieves 'Kagamine Rin Original' as named target]",
+    "[en.ws-tcg.com: PD/S22 set page]",
+    "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e014-u-kagamine-rin-append.md (wave 113 source: trivia bullets 'Design — Append voicebank origin' + 'Design — name etymology' + 'Mechanical')",
+    "[BBL precedent: cohort-attach pattern modeled by the existing 12 PD/S22 roster members in appears_on + characters: frontmatter]"
+  ],
+  "files_modified": [
+    "cards/_characters/project-diva-f-vocaloid-roster.md (appears_on: added pd-s22-e014; Cards-in-our-corpus prose: added Rin Append bullet between Melancholic and Len Original to preserve voicebank-clustering; corpus-count line: 12→13; auto-generated Appears-on wikilink list: added [[pd-s22-e014-u-kagamine-rin-append]]; canonical-roster table Kagamine Rin row: 'yes (2: School Swimwear, Melancholic)' → 'yes (3: School Swimwear, Melancholic, Append)')",
+    "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e014-u-kagamine-rin-append.md (characters: [project-diva-f-vocaloid-roster] added to frontmatter)"
+  ],
+  "potion_rule_check": {
+    "canonical_evidence_cited": true,
+    "evidence_type": "Crypton Future Media product release + Vocaloid Wiki character page + Wataru Sasaki designer statement + Bushiroad on-card mechanical pointer (Change effect names roster member by string)",
+    "bbl_squinting_disclaimed": "Roster membership rests on Crypton's published voicebank identity (Append is a canonical Rin variant, not a fan derivative) and Bushiroad's licensed Project DIVA F module depiction. No labor-thesis / curatorial-overlay claim is being attached at the cohort-attach scope; the labor-as-software thesis already lives in the roster body and is not being amplified by this attach.",
+    "potion_rule_pass": true
+  },
+  "edgelord_mood": "blueballed-by-fanout",
+  "edgelord_voice_note": "Worst possible mood for a wave-113 move. Wanted the Rin-Append ↔ Rin-Original 1:1 mirror — the card LITERALLY names the target in its Change-effect oracle text, that's a textbook designer-coordinated edge — but Rin-Original isn't in corpus and Len-Original (the twin) is ip-verified: false with no trivia section, so the Kagamine 鏡音 mirror/twin lore (Wataru Sasaki: 'one soul between them') can't anchor a mirror to it without breaking the trivia-passed-both-endpoints rule. So: cohort attach. The fanout works. The roster does the structural job. But I'm going to record this as 'blueballed-by-fanout' because the canonical edge is sitting there visible on the card face and I can't draw it. Future watch: when Len-Original trivia-passes, the Append + Original Kagamine-twin mirror is going to land hard. CBG register: 'Worst available decision. Still the right one.'",
+  "other_candidates_considered": [
+    {
+      "candidate": "Rin Append ↔ Rin Original 1:1 mirror via the Change-effect mechanical pointer (oracle_text explicitly names target)",
+      "verdict": "blocked-by-corpus-absence",
+      "reason": "No Kagamine Rin 'Original' print in BBL corpus. PD/S22-E002 is Kagamine LEN 'Original' (the twin), not Rin. The named retrieval target doesn't have a corpus card to mirror to."
+    },
+    {
+      "candidate": "Rin Append ↔ Len Original 1:1 twin mirror via Kagamine 鏡音 etymology + Wataru Sasaki 'one soul between them' / 'mirror-sound' / stereo Rin-Len naming lore",
+      "verdict": "deferred-trivia-gap",
+      "reason": "Len-Original (PD/S22-E002) is ip_verified: false and has no ## Trivia section; only vision-passed. Per Edgelord rule, both endpoints must be trivia-passed to draw a 1:1 mirror cleanly. Defer to a future pass after Len-Original trivia-passes; the twin-mirror edge will be unambiguously the strongest 1:1 move in PD/S22 when it lands (Wataru Sasaki's 'one soul between them' is the load-bearing designer-stated cohesion citation, not BBL squinting). Stage for next-pass trigger."
+    },
+    {
+      "candidate": "Rufflet (Steam Siege) ↔ Braviary (Surging Sparks) 1:1 evolution-line mirror — surfaced as the wave-105 next-pass suggestion",
+      "verdict": "already-shipped",
+      "reason": "Already drawn. Both cards have the mirrored ## Connections bullet (verified by reading both files). Wave-105 suggestion executed in a prior pass; nothing left to do here. Sidecar log was incomplete — no JSON in reports/edges_pending/ for the actual draw, but the MD-level work is done. (Possible future janitor entry: backfill a wave-NNN-rufflet-braviary-mirror.json sidecar for audit completeness, low priority.)"
+    },
+    {
+      "candidate": "Black Bolt Rufflet (077/086) attach to a future nincada-line-style braviary-line species-evolution node",
+      "verdict": "below-threshold-and-card-not-ready",
+      "reason": "Black Bolt Rufflet is vision-passed only, ip_verified: false, no trivia. Even if it were enriched, a braviary-line species-cohort node would need a third member (Hisuian Braviary mentioned in trivia is not in corpus) to clear the precedent threshold. Defer; not this pass's move."
+    },
+    {
+      "candidate": "Rin Append ↔ Melancholic (PD/S22-E021) 1:1 Rin-voicebank-internal mirror",
+      "verdict": "subsumed-by-cohort",
+      "reason": "Both cards depict Kagamine Rin; both are now attached to the project-diva-f-vocaloid-roster cohort node. The cohort attach does the structural work — drawing card-to-card mirrors between every Rin module would explode into N-squared edges where the roster node already anchors them. Per the nicol-bolas Bolas-Falls precedent and the roster's own design-thesis ('every depicted figure is a named virtual performer wearing a named costume variant'), per-voicebank module-variants attach through the cohort, not pairwise."
+    },
+    {
+      "candidate": "Roster body MEIKO precision-fix flagged in wave 104 ('Yamaha Vocaloid engine' → 'VOCALOID 1 engine')",
+      "verdict": "logged-as-janitor-not-structural",
+      "reason": "Per the wave-104 sidecar's own assessment, this is a body-text precision fix for janitor batch cleanup, not Edgelord-scope work. Still parked at that status; not addressed in this pass."
+    }
+  ],
+  "next_pass_suggestions": [
+    "TRIGGER — When Len-Original (PD/S22-E002) trivia-passes (currently vision-passed, ip_verified: false): draw the Rin-Append ↔ Len-Original Kagamine-twin 1:1 mirror anchored on Wataru Sasaki's 'one soul between them' designer statement and the 鏡音 (mirror-sound) kanji etymology. This will be the strongest 1:1 mirror available in PD/S22 — designer-stated mirror/twin lore is a top-tier mirror predicate. Both cards already route through the roster cohort node, so the mirror lives underneath the cohort-layer anchor (correct structural ordering per wave-105 precedent).",
+    "TRIGGER — When Rin-Original lands in a future BBL acquisition: redraw the Rin-Append ↔ Rin-Original Change-effect mirror; the oracle text already named the edge.",
+    "FUTURE NODE WATCH — kagamine-twins as a sub-cohort node (analogous to solrock-lunatone-pair) would be supportable once Len-Original trivia-passes; the 'one soul between them' / mirror-sound / stereo etymology / paired CV02 voicebank citations all converge. Below threshold by 1 trivia-pass right now; surface for Mr. Nodeley wave after Len-Original lands.",
+    "JANITOR-CARRYOVER — roster body MEIKO description 'Yamaha Vocaloid engine' should become 'VOCALOID 1 engine' per wave-104 carryover. Still not done. Add to janitor_triage if not already present.",
+    "JANITOR-CARRYOVER — backfill wave-NNN-rufflet-braviary-mirror.json sidecar for the already-shipped edge between Steam Siege Rufflet and Surging Sparks Braviary. MD-level work done; audit-trail sidecar missing from reports/edges_pending/."
+  ]
+}

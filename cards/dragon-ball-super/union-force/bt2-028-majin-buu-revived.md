@@ -10,6 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters:
+  - majin-buu
 tags_hub:
   - monster
   - villain

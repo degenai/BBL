@@ -1,0 +1,41 @@
+{
+  "card_name": "Iron Bully",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "240",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Only printing; from War of the Spark (WAR, May 2019), set on Ravnica during Nicol Bolas's planar invasion. The set included colorless constructs and golems at the common slot as incidental war-machines deployed throughout Ravnica during the conflict. Iron Bully is among these.",
+      "sources": ["Scryfall: Iron Bully"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Why would someone have built ... wait, never mind. Send it to the front lines!\" — Commander Grozdan. Grozdan is not a named lore character elsewhere in WAR materials; the name appears unique to this card's flavor. The flavor's structure — a question abandoned mid-sentence — literalizes deployment logic: manufacture precedes authorization.",
+      "sources": ["Scryfall: flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Menace plus an enter-the-battlefield +1/+1 counter on any target creature. EDHREC rank 19,866 — low Commander presence. Legal in Pauper, Paupercommander, Pioneer, Modern, Historic, Legacy, Commander. Marginal synergy piece in counter-matters and sacrifice strategies; generally assessed as common filler.",
+      "sources": ["Scryfall: EDHREC rank 19,866", "Scryfall: legalities"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Aaron Miller, who has illustrated a wide range of MTG creatures across multiple sets. No specific design notes on this card have been found.",
+      "sources": ["Scryfall: artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Shambling Suit", "set": "Throne of Eldraine", "note": "fellow colorless common golem from the same era, similar power level"},
+    {"name": "Iron Myr", "set": "Scars of Mirrodin", "note": "thematically adjacent iron construct, mana-production utility"},
+    {"name": "Ruinous Gremlin", "set": "Kaladesh", "note": "another construct used as expendable combat fodder in a similar period"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

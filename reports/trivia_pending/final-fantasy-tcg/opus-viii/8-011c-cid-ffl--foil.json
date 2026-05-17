@@ -1,0 +1,41 @@
+{
+  "card_name": "Cid (FFL)",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-011C",
+  "task_profile": "ip-priority",
+  "ip_decision": "qualify",
+  "ip_outcome_note": "The card is definitively a named 'Cid' character from the Final Fantasy Legend (FFL) series — the SaGa Game Boy trilogy rebranded for Western release. FFTCG uses 'FFL' as the category tag for this entire three-game series (The Final Fantasy Legend / SaGa 1, Final Fantasy Legend II / SaGa 2, Final Fantasy Legend III / SaGa 3). The Opus VIII FFL card cohort includes characters named Graham, Jinnai, Imperio, and Sophia — names consistent with Final Fantasy Legend II characters (the DS remake SaGa 2: Hihou Densetsu). However, no canonical source retrieved could explicitly confirm which of the three FFL games this specific Cid character originates from. The job 'Helmsman' and the stocky sea-captain archetype in the card art are consistent with an FFL II interpretation but cannot be confirmed without a direct developer or official FFTCG card database citation naming the source sub-game. ip_verified left false; qualification noted in trivia.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The '(FFL)' designation on this card refers to the Final Fantasy Legend series — the SaGa trilogy originally developed by SquareSoft for Game Boy (1989-1993) and rebranded 'Final Fantasy Legend' for Western markets. The series is now retroactively recognized under its Japanese SaGa franchise branding. FFTCG's Opus VIII includes multiple FFL-category cards including Imperio (Forward, Divine General), The Mask (Backup), Sophia (Backup, Devout), Cocytus (Backup, Divine General), and Graham/Jinnai as Forwards — a cast consistent with Final Fantasy Legend II (SaGa 2).",
+      "sources": ["FFTCG Crystarium: How to Win Limited Opus VIII Review", "WebSearch: FFTCG FFL abbreviation Final Fantasy Legend SaGa"]
+    },
+    {
+      "category": "design",
+      "text": "Cid (FFL) is FFTCG's only confirmed Cid card from the FFL/SaGa lineage. The FFTCG Crystarium Opus VIII limited review noted the ongoing absence of mainline Cid iterations: 'Shocking though that we keep getting Cids from all sorts of side games but still no VIII, IX, or X.' As of Opus VIII (2019), Cids from FFVIII, FFIX, and FFX had not received FFTCG cards — a community-recognized design gap.",
+      "sources": ["FFTCG Crystarium: How to Win Limited Opus VIII Review"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Cid (FFL) 8-011C is a 3-cost Fire Backup with job Helmsman. On enter-the-field, he deals 5000 damage to a chosen Forward — escalating to 8000 if five or more Fire Backups are in play. Crystarium rated him 2/5 in limited, noting '5k is a totally reasonable amount for the cost' but that the 8k threshold 'isn't going to happen in all but the most stacked draft decks.' He synergizes with Iroha, Sabin, and Rain in fire-burn archetypes.",
+      "sources": ["FFTCG Crystarium: How to Win Limited Opus VIII Review"]
+    },
+    {
+      "category": "design",
+      "text": "Which specific FFL sub-game this Cid originates from is unconfirmed by retrieved canonical sources. The FFTCG card database labels the character category as 'FFL' without sub-game disambiguation, and no official Square Enix article or FFTCG card-page note retrieved during this research pass named the source title. The Helmsman job and visual profile (sea-captain bearing, green coat, epaulettes) could plausibly fit FFL II given that game's cast, but this is not citation-supported and should not be stated as fact.",
+      "sources": ["FFTCG Crystarium: How to Win Limited Opus VIII Review", "WebSearch: Cid FFL which game FFTCG"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Imperio", "set": "Opus VIII", "note": "FFL-category Forward in same set; The Mask (8-028R) tutors it"},
+    {"name": "The Mask", "set": "Opus VIII", "note": "FFL-category Backup that searches for any FFL Forward, including Cid's tribal cohort"},
+    {"name": "Iroha", "set": "Opus VIII", "note": "Named as a synergy combo target with Cid (FFL)'s ETF damage in the Crystarium review"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "false",
+    "suspected_ip": "Cid (Final Fantasy Legends / franchise-recurring)",
+    "ip_confidence": "med"
+  }
+}

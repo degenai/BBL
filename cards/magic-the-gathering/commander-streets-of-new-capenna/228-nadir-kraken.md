@@ -74,3 +74,15 @@ A small wooden sailing ship with white sails sits at center, dwarfed by enormous
 **Creatures:** kraken, tentacle-monster, sea-monster
 **Genre cues:** fantasy, nautical, horror
 
+## Trivia
+
+- **Set context** [TIER-1: Scryfall] — Nadir Kraken originated in Theros Beyond Death (released 2020-01-24), a set themed around descent into the Theros Underworld ruled by Erebos. "Nadir" means the lowest point — the name is literal (krakens dwell in the ocean's depths) and thematically rhymes with THB's descent-into-death framing. The NCC copy in inventory is a reprint; the original is THB card 55, with an extended art variant at THB 305. `[Scryfall]`
+- **Flavor text** [TIER-1: Scryfall API] — The Murders at Karlov Manor Commander (2024) printing carries flavor text: "Meeting one is definitely the low point of your life." The pun — "low point" echoing "nadir" — is clean single-sentence wit. The NCC printing in inventory and the original THB printing both carry no flavor text. `[Scryfall API: MKC/112]`
+- **Mechanical reputation** [TIER-1: EDHREC meta via WebSearch; TIER-2: CommanderSpellbook via WebSearch] — Appears in 57,508 Commander decks tracked by EDHREC (rank 2516). Every card drawn triggers a choice: pay {1} to put a +1/+1 counter on Nadir Kraken AND create a 1/1 blue Tentacle token. Commander Spellbook documents over 40 known infinite combos involving Nadir Kraken, pairing it with Ashnod's Altar and draw engines such as Skullclamp. Marneus Calgar appears in approximately 54% of Nadir Kraken decks as a synergy commander per EDHREC data. `[EDHREC via WebSearch; CommanderSpellbook.com via WebSearch]`
+- **Design** [TIER-2: Draftsim via WebSearch; TIER-1: Scryfall] — Draftsim's ranking of all krakens in Magic places Nadir Kraken at number 9 of 29, describing it as "perhaps the most value-oriented kraken in Magic." The card has at least 8 printings across paper and digital (THB, THB variants, MTGO Promos x2, NCC, Alchemy Horizons: Baldur's Gate, March of the Machine Commander, MKC, Foundations Jumpstart). Artist for this NCC printing: Dan Murayama Scott. `[Draftsim: All 29 Krakens Ranked via WebSearch; Scryfall: prints search]`
+
+### Related cards
+- Nadir Kraken (Theros Beyond Death, no. 55) — original printing; extended art variant at no. 305
+- Ashnod's Altar (various) — core piece in documented Nadir Kraken infinite combos
+- Skullclamp (Darksteel) — appears in Nadir Kraken infinite draw loops via Tentacle tokens
+- Marneus Calgar (Warhammer 40K Commander) — appears in ~54% of Nadir Kraken decks per EDHREC

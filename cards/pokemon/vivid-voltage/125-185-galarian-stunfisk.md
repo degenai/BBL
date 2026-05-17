@@ -10,8 +10,24 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - trap
+  - camouflage
+  - grin
+  - sinister
+  - ambush
+  - predator
+  - mud
+  - dark
+  - trickster
+  - horror
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - no-face
+  - portrait-mode
+  - anime-style
 reference_image: cards/_images/pokemon/vivid-voltage/125-185-galarian-stunfisk.png
 average_cost_paid: 0
 market_price: 0.04
@@ -27,8 +43,36 @@ oracle_text: "[Ability: Counterattack] If this Pokémon is in the Active Spot an
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: horror
+time_of_day: indeterminate
+setting: other
+suspected_ip: Galarian Stunfisk
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
 ---
 # Galarian Stunfisk (Vivid Voltage)
+
+## Vision
+
+![125-185-galarian-stunfisk](../../_images/pokemon/vivid-voltage/125-185-galarian-stunfisk.png)
+
+> [!warning] Suspected IP: **Galarian Stunfisk** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A flat, wide, oval-bodied creature with mottled dark brown and grey coloring lies camouflaged against a muddy or earthen surface. Its face bears a distinctive wide, unsettling grin revealing teeth, and its body outline has an irregular leaf or bear-trap silhouette. Small stubby fins or limbs are visible at its sides. The creature's eyes appear small and positioned to suggest a cunning or sinister expression. The background suggests a dark, muddy ground environment.
+
+**Subject:** Galarian Stunfisk, a flat, round, mud-colored fish-like Pokemon with a sinister grin and a dark leaf-shaped or trap-shaped body pattern
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** other, indeterminate
+**Foreground:** Flat oval creature with mottled dark coloring and wide sinister grin on muddy surface  *(palette: dark brown, grey, black, olive)*
+**Background:** Dark muddy earth or ground  *(palette: dark brown, grey, black)*
+**Mood / lighting:** horror, ambient
+**Emotion read:** sinister, grinning — wide-mouth unsettling smile suggests predatory cunning
+**Creatures:** flat fish-like creature, camouflaged ambush predator
+**Iconography:** bear-trap silhouette
+**Genre cues:** anime, fantasy
+

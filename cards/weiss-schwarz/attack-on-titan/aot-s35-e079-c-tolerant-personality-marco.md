@@ -1,5 +1,5 @@
 ---
-name: "Tolerant Personality" Marco
+name: '"Tolerant Personality" Marco'
 game: Weiss Schwarz
 set: Attack on Titan
 collector_number: AOT/S35-E079 C

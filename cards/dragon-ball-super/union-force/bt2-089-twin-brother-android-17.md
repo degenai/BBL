@@ -89,3 +89,7 @@ A male humanoid figure stands in a mid-shot composition, dark hair visible, wear
 - Cell, the Gifted (various DBS sets) — Cell absorbed Android 17 to achieve Semi-Perfect form
 - Dr. Gero (various DBS sets) — creator of both twins; his 17th and 18th android creations
 
+## Connections
+
+- [[bt2-091-twin-sister-android-18]] — Canonical Toriyama-designed twin dyad printed as a designer-coordinated within-set pair. Both cards share Union Force (BT2, November 2017) at near-adjacent collector numbers (BT2-089 + BT2-091) with deliberately mirrored title templates (`Twin Brother Android 17` / `Twin Sister Android 18`), identical mid-shot composed-stance void-arena framings, and matching `android` + `twin` + `sibling` + `machine` + `creation` tag clusters. The twins are canonically Lapis (Android 17) and Lazuli (Android 18) — human juvenile delinquents Dr. Gero forcibly converted into cybernetic enhanced humans, the lapis lazuli gemstone split across their birth names a Toriyama naming convention. Both were absorbed by Cell (17 to achieve Semi-Perfect form, 18 to achieve Perfect form); 17 died inside Cell during the self-destruct, 18 was expelled alive pre-detonation. Bandai's designer-coordinated dyad printing on adjacent BT2 slots is the canonical TCG encoding of the sibling pair. ([Dragon Ball Wiki: Android 17](https://dragonball.fandom.com/wiki/Android_17); [Dragon Ball Wiki: Android 18](https://dragonball.fandom.com/wiki/Android_18); Bandai DBS Card Game Union Force BT2, November 2017)
+

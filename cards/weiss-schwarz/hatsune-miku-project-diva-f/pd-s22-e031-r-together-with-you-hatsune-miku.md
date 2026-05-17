@@ -47,6 +47,8 @@ setting: other
 suspected_ip: Hatsune Miku (Together with You module, Project DIVA F)
 ip_confidence: high
 ip_verified: false
+characters:
+  - project-diva-f-vocaloid-roster
 tags:
   - card
   - weiss

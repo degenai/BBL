@@ -153,8 +153,9 @@ One LLM call covers ALL cards in the manifest. For each card, given:
 
 Draft 1-2 sentences explaining why the card embodies the thesis. Per `bbl-bundle-creation-subagent` memory copy-quality rules:
 
-**Ban list (do NOT do these):**
+**Ban list (applies to ALL buyer-facing fields: `narrative`, `why_it_fits`, `premium_justification`, `blurb`):**
 - Sweeping "X as Y" abstractions ("judgment as wardrobe", "inquisition as office")
+- **Thesis-as-declaration "X is Y" sentences** ("the assembly is the labor being sold", "this is the apparatus of extraction"). Tells instead of shows. Restates the framing the reader already absorbed from the surrounding copy. Especially toxic when stacked with nominalizations (verbs turned into nouns: assembly, labor, judgment) and passive constructions (being sold, is being revealed). Three abstractions in one sentence = no verbs doing work = clunky. Show the thesis through concrete cards/details; trust the reader to infer.
 - Cute meta-jokes about set theory ("two is a quorum", "the council convenes")
 - Dev meta in buyer copy ("five hub overlap", "5 tag matches", "anchor card")
 - Forced wordplay ("the polearm is the spell", "Read it slowly")
@@ -176,6 +177,31 @@ Write to `bundles/proposed/<slug>.json`. Slug = kebab-case of bundle title (cura
 ### Step 11 — Stamp `bundles:` on each card
 
 For each card in the manifest, append the bundle slug to the card's frontmatter `bundles:` list (block form per wave-92 YAML discipline). This is the only card-side mutation the bundler performs. **Do NOT set `held_for_lair`** — that's the `accepted` state, downstream.
+
+### Step 12 — Trivia-driven copy revision (post-enrichment pass)
+
+After every card in the manifest has a `## Trivia` section (either was trivia-passed before bundle assembly, or got triviabot-dispatched as part of the bundle workflow with the bundle thesis as context), run a SECOND LLM call to revise the bundle's buyer-facing copy in light of the new trivia receipts. Specifically:
+
+- Re-read every card's `## Trivia` body
+- Identify the **2-3 strongest receipts** that ground the bundle thesis with citation (e.g., a designer-stated origin plane, a verbatim flavor line that drops the thesis, a mechanical-narrative parallel)
+- Draft a **revised `narrative`** that lifts those receipts into the prose (replace 2-3 of the original narrative's gestures with concrete trivia-grounded specifics; keep the rest of the structure intact)
+- Draft **revised `why_it_fits`** for the 2-3 cards whose trivia substantially upgraded the case
+- Same anti-confab + ban-list discipline as Step 9 — including the new "X is Y" thesis-declaration ban
+- Emit revised copy as `[DRAFT — review]` text in the sidecar report; do NOT auto-overwrite the bundle JSON. Curator splices in.
+
+This step is what makes the bundle a moving target: the receipts accumulate as the corpus enriches, and the bundle's copy gets sharper as new cards trivia-pass. Validated on the Drone bundle (Discrete Lair 002): Workshop Assistant's Kaladesh origin + Clockwork Servant's flavor speaker + Henge Walker's $30-Great-Henge inversion all surfaced via this pass and were spliced into the narrative.
+
+### Step 13 — Michi-method binder composition assessment (Sonnet pass)
+
+Per the sketchbook spec at `docs/sketchbook.md` "Michi Method Binders for Discrete Lairs", every bundle gets a Michi binder page render on the storefront. The bundler runs a Sonnet-tier composition assessment over the rendered binder page (3×3 grid default; 9-slot, 12-slot, or 16-slot variants per page-density chosen), outputting:
+
+- **Slot allocation review**: do the chosen card slots represent the bundle's visual range? (e.g., if 5 of 5 card slots are MTG cards in a cross-game bundle, the Sonnet assessment flags "underweight non-MTG representation"; if all 5 are commons, it flags "missing the headline anchor")
+- **Wall-text effectiveness**: are the wall-text panels (title, subtitle, anchors, narrative excerpt) carrying their share of the curatorial thesis? Or are they decorative?
+- **Recommendation**: propose 0-3 **x-by-y extended art panels** to insert in place of card slots (e.g., a 2×1 horizontal art panel running across two slots, sourced from the bundle's `cohesion.palette_hex` + a fan-art piece keyed to the bundle's hubs/anchor_tags). Each recommendation specifies: panel dimensions (in slots), source asset path, semantic justification (which thesis grounder the panel surfaces that the cards alone don't).
+
+**Art asset sourcing — the DA-style asset storage**: per the sketchbook ("the deviant-art-style unique fan stuff that makes a Michi a Michi"), BBL maintains a `assets/michi-inserts/` directory of community-sourced fan art curated for the binder-page wall-text slots. The aesthetic register is intentionally myspace-era DeviantArt — un-polished, hand-drawn, fan-creative, contra the AI-slop ban (`bbl-no-ai-slop-thumbnails`). The Sonnet assessment can reference this directory by `hub/` and `anchor_tag/` subdirectories to find candidate art for a given bundle's panels. **If the directory doesn't yet contain art for a needed thesis grounder, the assessment emits a `missing_insert_asset:` flag in the sidecar so the curator knows what's needed before the binder page is publication-ready.**
+
+This step is what scales Michi composition past hand-curation. Each bundle gets a fresh assessment + insert recommendation set; the curator approves, the DA directory grows, the binder pages get more thesis-dense over time.
 
 ## Bundle JSON v0.3 schema
 

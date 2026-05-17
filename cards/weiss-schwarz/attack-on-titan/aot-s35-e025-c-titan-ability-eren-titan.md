@@ -1,5 +1,5 @@
 ---
-name: "Titan Ability" Eren Titan
+name: '"Titan Ability" Eren Titan'
 game: Weiss Schwarz
 set: Attack on Titan
 collector_number: AOT/S35-E025 C

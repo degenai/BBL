@@ -10,8 +10,23 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - insect
+  - horror
+  - predator
+  - decay
+  - bones
+  - monster
+  - darkness
+  - teeth
+  - nightmare
+  - underground
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - creature-artifact
+  - artifact
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/180-cranial-ram.png
 average_cost_paid: 0
 market_price: 0.21
@@ -29,7 +44,30 @@ oracle_text: Living weapon (When this Equipment enters, create a 0/0 black Phyre
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: indeterminate
+setting: dungeon
 tags:
   - card
 ---
 # Cranial Ram (Modern Horizons 3)
+
+## Vision
+
+![180-cranial-ram](../../_images/magic-the-gathering/modern-horizons-3/180-cranial-ram.png)
+
+An imposing insect-like creature dominates the frame, its dark blue-black carapace arching high above a toothed, open mouth filled with jagged white teeth. Multiple articulated legs support the body as it crouches atop a mound of bones, skulls, and decaying remains. The background is a warm amber-orange, suggesting a hellish underground or infernal environment — perhaps a Phyrexian pit. The creature's posture is predatory, head lowered toward the viewer. The skeletal pile beneath it implies it is both scavenger and predator. No humanoid figure is visible.
+
+**Subject:** A large insectoid creature with heavy chitin carapace, multiple articulated legs, and a wide gaping maw, crouching over a pile of bones and skeletal remains
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** dungeon, indeterminate
+**Foreground:** Large insectoid creature with open maw over bones and skulls  *(palette: dark-blue, black, brown, white)*
+**Background:** Warm amber-orange hellish or industrial underground environment  *(palette: amber, orange, sienna)*
+**Mood / lighting:** horror, ambient
+**Emotion read:** menacing — open maw, predatory crouch over remains
+**Objects:** bones, skulls, skeletal-remains
+**Creatures:** insectoid-creature, chitin-carapace-beast
+**Iconography:** maw, chitin, decay
+**Genre cues:** fantasy, horror, dark-fantasy, phyrexian
+

@@ -1,0 +1,41 @@
+{
+  "card_name": "Swift Response",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "40",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Swift Response appears in Core Set 2021 (released 2020-07-03), a curated reprint set rather than a plane-specific block. The set's white section leans on Theros/Akros warrior archetypes as its flavor backbone. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"There's nothing quite as satisfying as delivering a good kick to the face.\" — Adrasteia, Akroan captain. The speaker's name shares a name with Adrasteia the Fate (one of Theros's three spinning Fates who cuts mortal threads), but that figure is a mythological deity-class entity, not a military officer — the card's Adrasteia is a distinct Akroan human captain not elaborated in main storyline lore. [Scryfall; MTG Wiki: Adrasteia (Fate), via WebSearch snippet]",
+      "sources": ["Scryfall", "MTG Wiki: List_of_secondary_characters/Theros via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "The card is a first-and-only printing — no reprints as of Scryfall records. Artist: Deruchenko Alexander. EDHREC rank 15077, placing it well below average commander inclusion — destroy-tapped is conditional enough that it rarely makes competitive Commander cuts. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Swift Response destroys only tapped creatures (oracle text: \"Destroy target tapped creature.\"), making it reliable removal in aggressive or vigilance-heavy builds where the opponent's attackers are reliably tapped, but dead in hand against control boards. It is legal in Pauper and PauperCommander, where conditional removal at common is more valuable. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pacifism", "set": "Core Set 2021", "note": "Same set, white removal commons — comparable removal slot"},
+    {"name": "Swift Response", "set": "none", "note": "No other printings exist; no reprint history"},
+    {"name": "Taranika, Akroan Veteran", "set": "Theros Beyond Death", "note": "Named Akroan warrior character from the same Theros cultural milieu as the flavor text speaker"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

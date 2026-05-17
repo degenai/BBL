@@ -74,3 +74,16 @@ The image is dominated by an explosive burst of electrical energy at center fram
 **Iconography:** lightning-bolt, electrical-discharge, energy-burst
 **Genre cues:** fantasy, arcane-science, alchemy
 
+## Trivia
+
+- **Set / lore context** — Core Set 2021 (M21) released July 3, 2020. The card is Izzet-aligned ({2}{U}{R}) — blue-red, the guild of Ravnica's mad scientists led canonically by the planeswalker Niv-Mizzet. The "Weird" creature type it creates (an X/X blue and red Weird token) is an Izzet-specific creature type representing unstable magical constructs; Weirds appear across multiple Ravnica sets as the signature byproduct of Izzet experiments gone wrong `[Scryfall oracle_text; Scryfall type_line of associated Weird token]`
+- **Flavor text** — "Explosions aren't necessarily failures, just a different kind of success." `[Scryfall]`
+- **Design** — Illustrated by Lie Setiawan, an Indonesian fantasy artist with an extensive MTG portfolio. The spell is a first printing (no prior reprint as of M21) `[Scryfall: reprint=false]`. Mechanically it functions as a graveyard-scaling payoff: the Weird token's power and toughness equal the number of instant/sorcery cards in your graveyard, then the spell exiles itself after returning one spell to hand — a self-contained spellslinger payoff that rewards going wide on the spell axis `[Scryfall oracle_text]`
+- **Mechanical reputation** — EDHREC rank 12,605 as of May 2026. It sees use in Izzet spellslinger Commander builds as a mid-to-late-game threat generator: in a full graveyard a {2}{U}{R} sorcery can produce a 6/6 or 8/8 Weird token while also recovering a key spell. Community context (tappedout.net decklists) shows it pairing with Saheeli, Sublime Artificer and token-doublers in Pioneer spellslinger brews `[Scryfall EDHREC rank; WebSearch: tappedout.net; WebSearch: Izzet spellslinger deck context]`
+- **Token note** — Scryfall's `all_parts` field confirms the Weird token produced by this card is a distinct registered card object (id: 2a0d9c67-69ee-48c4-af4c-18cc3c2ef3cd), making the Weird token trackable as an individual Scryfall entry `[Scryfall all_parts]`
+
+### Related cards
+- Crackling Drake (Guilds of Ravnica) — Izzet spellslinger creature that scales with instant/sorcery count; same archetype payoff
+- Murmuring Mystic (Guilds of Ravnica) — Izzet Weird producer from the same spellslinger family
+- Saheeli, Sublime Artificer (War of the Spark) — token-maker that synergizes with spells cast; community-cited combo partner
+- Niv-Mizzet, Parun (Guilds of Ravnica) — canonical Izzet guildmaster; primary Commander for this archetype

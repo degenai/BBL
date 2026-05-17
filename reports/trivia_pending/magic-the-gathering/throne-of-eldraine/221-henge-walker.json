@@ -1,0 +1,47 @@
+{
+  "card_name": "Henge Walker",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "221",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Only printing; from Throne of Eldraine (ELD, October 2019). One of two colorless-common artifact golems in ELD, the other being Clockwork Servant (no. 216). Associated with Garenbrig, the green-aligned court of Eldraine and home to the Great Henge.",
+      "sources": ["Scryfall: Henge Walker"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Everything that inhabits Garenbrig is affected by the wild magic flowing through the Great Henge.\" — no named speaker. The flavor connects the stone golem directly to the Great Henge as its animating source.",
+      "sources": ["Scryfall: flavor_text"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Great Henge (ELD no. 161) is one of the most expensive and sought-after cards from Throne of Eldraine — a legendary artifact that generates mana, puts +1/+1 counters on creatures, and draws cards. Henge Walker is named for and flavored as a product of the same location. The cheap common golem and the expensive legendary artifact are the same place's two outputs.",
+      "sources": ["Scryfall: The Great Henge (ELD 161); WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Adamant (enters with a +1/+1 counter if at least three mana of the same color was spent) is ELD's set mechanic. As a colorless-cost creature, Henge Walker triggers Adamant with any single color's mana. EDHREC rank 25,605 — very low Commander presence. Legal in Pauper and Paupercommander.",
+      "sources": ["Scryfall: EDHREC rank 25,605", "Scryfall: legalities"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Titus Lunter, known for sweeping landscape-focused MTG illustrations. The composition emphasizes the golem against the forest backdrop rather than close creature detail — consistent with Lunter's landscape-first framing style.",
+      "sources": ["Scryfall: artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "The Great Henge", "set": "Throne of Eldraine (no. 161)", "note": "the legendary artifact that the card's flavor text names as Henge Walker's animating source"},
+    {"name": "Clockwork Servant", "set": "Throne of Eldraine (no. 216)", "note": "the other colorless common artifact creature in ELD, different aesthetic register"},
+    {"name": "Garenbrig Paladin", "set": "Throne of Eldraine", "note": "another Garenbrig-flavored creature from the same court"},
+    {"name": "Gilded Goose", "set": "Throne of Eldraine", "note": "ELD artifact creature that saw significant competitive play, for reference contrast"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -48,7 +48,9 @@ time_of_day: indeterminate
 setting: indoor
 suspected_ip: Hatsune Miku (Factory Tyrant module, Project DIVA F)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
+characters:
+  - project-diva-f-vocaloid-roster
 ---
 
 # Hatsune Miku"Factory Tyrant" (Hatsune Miku -Project DIVA- f)
@@ -57,8 +59,8 @@ ip_verified: false
 
 ![pd-s22-e027-rr-hatsune-miku-factory-tyrant](../../_images/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e027-rr-hatsune-miku-factory-tyrant.png)
 
-> [!warning] Suspected IP: **Hatsune Miku (Factory Tyrant module, Project DIVA F)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Hatsune Miku (Factory Tyrant module, Project DIVA F)**
+> Confirmed via Project DIVA Wiki module page: signature red eyes (default is blue-green), cogwheel wrist-cuffs, silver twin-tail binders, and the black-and-teal industrial-dress design are all canonical Factory Tyrant identifiers. [Project DIVA Wiki: Factory Tyrant]
 
 A close-to-mid shot of a teal-haired figure with long twin tails in a dark punk-industrial outfit. The jacket is black with structured angular elements and what appears to be a choker-style collar detail. The figure's eyes are a vivid red, which is visually distinctive and contrasts strongly with the teal hair — a clear departure from Miku's default blue-green eyes and a hallmark identifier for the Factory Tyrant module. The figure's pose is dynamic and forward-leaning, one hand raised near the face in a dramatic performance gesture. The background features dark angular industrial shapes and geometric lighting in teal and deep purple tones, reinforcing an underground factory-stage aesthetic. The card frame is dark with a yellow-gold trim consistent with the Weiss Schwarz PD set.
 
@@ -73,4 +75,19 @@ A close-to-mid shot of a teal-haired figure with long twin tails in a dark punk-
 **Objects:** stage-platform, geometric-set-pieces
 **Iconography:** twin-tails, punk-collar, industrial-motif
 **Genre cues:** anime, vocaloid, cyberpunk, idol
+
+## Trivia
+
+- **Set context** — PD/S22 is the English-edition Weiss Schwarz booster set for *Hatsune Miku -Project DIVA- f*, released November 2013. It is among the earliest Bushiroad/Weiss Schwarz sets to bring a SEGA vocaloid franchise to English-language markets, and the PD/S22-E027 RR Double Rare slot is among the most premium pull positions in the set. [Booster Pack Hatsune Miku -Project DIVA- f, en.ws-tcg.com]
+- **IP context** — The Factory Tyrant is a named costume module in *Hatsune Miku: Project DIVA F* (SEGA, 2012). It is unlocked after clearing "Sadistic.Music∞Factory" on any difficulty. The module's design — black dress with teal trim, cogwheel wrist-cuffs, silver twin-tail binders, and the distinctive red eyes replacing Miku's default blue-green — are all canonical module identifiers reproduced faithfully on this card. [Project DIVA Wiki: Factory Tyrant, via WebSearch snippet]
+- **Source song** — "Sadistic.Music∞Factory" by cosMo@BousouP (cosMo's 56th original VOCALOID work) was composed specifically for *Project DIVA f* and posted to Niconico three days before the game's release. The song casts Miku as a tyrannical plant manager who demands her workers produce an unending supply of music or she goes insane — the factory metaphor is the entire premise of the track, not incidental theming. [Vocaloid Wiki: Sadistic.Music∞Factory, via WebSearch snippet]
+- **Design detail** — cosMo's original illustration for the song depicts Miku's torso as a see-through tube with two cogwheels forming an infinity symbol inside, literalizing the factory-machine body. The Weiss Schwarz card does not reproduce this internal-anatomy detail (card is a mid-shot portrait), but the costume's external markers (cogwheels at wrists and ankles, silver cuff connectors, black peaked cap with teal stripe) are all present. [Project DIVA Wiki: Factory Tyrant, via WebSearch snippet]
+
+### Related cards
+- Hatsune Miku "Electron Diva" (PD/S22-E026 RR) — the adjacent Double Rare in the same set, same collector-number sequence, same DIVA module slot
+- Hatsune Miku "Summer Memories" (PD/S22-E029S SR) — the Super Rare in the same set, different module aesthetic
+- MEIKO "Blue Crystal" (PD/S22-E056S SR) — another named module SR in PD/S22, different Vocaloid character same set architecture
+
+> [!warning] IP: Hatsune Miku (Factory Tyrant module)
+> Hatsune Miku is a Crypton Future Media / SEGA Vocaloid character. The "Factory Tyrant" module is a SEGA-licensed costume from *Hatsune Miku: Project DIVA F*. This card is a licensed Bushiroad/Weiss Schwarz product. IP confirmed as internal to the Weiss Schwarz licensing chain; no external-IP risk. [Project DIVA Wiki: Factory Tyrant]
 

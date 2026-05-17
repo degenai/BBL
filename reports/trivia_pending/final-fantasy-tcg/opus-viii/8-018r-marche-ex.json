@@ -1,0 +1,42 @@
+{
+  "card_name": "Marche EX",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-018R",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Marche EX' directly names the character Marche Radiuju from Final Fantasy Tactics Advance. The FFTCG card is Fire element matching Marche's aggressive combat role as protagonist; a promo full-art version (PR-065/8-018R) was also produced, confirming Square Enix's significant investment in this character for the TCG. IP verified as internal Square Enix character — no external IP risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Marche EX (8-018R) is part of the Opus VIII Collection (March 22, 2019). Opus VIII brought Final Fantasy Tactics Advance (GBA, 2003) characters into FFTCG, with original artwork contributed by Ryoma Ito, who is credited on the Opus VIII set as one of four guest artists. A full-art promo version (PR-065/8-018R) was produced for the February 2020 tournament promotion cycle, indicating Marche was a marquee character for that set's promotional push. [Square Enix NA press release via WebSearch snippet; arcadegamecards.com promo listing, via WebSearch snippet]",
+      "sources": ["press.na.square-enix.com/LATEST-FINAL-FANTASY-TRADING-CARD-GAME-OPUS-VIII-SET-NOW-AVAILABLE, via WebSearch snippet", "arcadegamecards.com/product/final-fantasy-opus-tcg-promo-card-pr-065-8-018r-marche-full-art-february-2020/, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Marche Radiuju is the protagonist of Final Fantasy Tactics Advance (2003) — a boy who moves to a new town, befriends Mewt Randell and Ritz Malheur, and is transported into a magical version of Ivalice when a mysterious book transforms their world. Unlike every other character who embraces the dream world (Mewt's sick brother gains health, Ritz's white hair becomes normal, Mewt's deceased mother is alive), Marche is the only one who insists on returning to reality. His clan, led by him as Clan Nutsy's leader, fights to destroy the five crystals maintaining Ivalice. [Final Fantasy Wiki: Marche Radiuju, via WebSearch snippet; Final Fantasy Tactics Advance Wiki, via WebSearch snippet]",
+      "sources": ["finalfantasy.fandom.com/wiki/Marche_Radiuju, via WebSearch snippet", "finalfantasy.fandom.com/wiki/Final_Fantasy_Tactics_Advance, via WebSearch snippet"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment: The 'Is Marche the villain?' debate is one of the most enduring discourse threads in the Final Fantasy fan community and has persisted for 20+ years. Detractors argue he destroys a world full of people's realized dreams without their consent — Game FAQs threads as recently as 2023 relitigate the question. Defenders argue Ivalice was a crutch preventing his friends from facing real problems, and that his brother Doned's in-game disability is romanticized as 'cured' in the false world. The FFTCG 'EX' designation (an EX Burst card) is tonally interesting given the community debate: Marche's card ability is literally about extracting something valuable from the deck's hidden depths — search 5, take 1 Fire Character — which maps onto his story role of pulling his friends back from a comfortable illusion. [GameFAQs FFTA board 2023 thread; ResetEra 'In Defense of Marche' thread; Game Rant 'Marche vs Mewt' article — community sentiment, not editorial fact]",
+      "sources": ["gamefaqs.gamespot.com/boards/560436-final-fantasy-tactics-advance/80527635, via WebSearch snippet", "resetera.com/threads/final-fantasy-tactics-advance-in-defense-of-marche, via WebSearch snippet", "gamerant.com/final-fantasy-tactics-marche-vs-mewt-real-villain/, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanically, Marche EX (8-018R) is a Fire element Forward at 4 CP cost with 5000 Power, Job: Clan Leader, Category: FFTA. The card has an EX Burst ability: when Marche enters the field, reveal the top 5 cards of your deck, add 1 Fire Character among them to your hand, and return the rest to the bottom in any order. EX Burst triggers both on normal play and when the card is revealed from damage — making him a resiliency piece in Fire-heavy builds. [WebSearch snippets from multiple retailer listings; Patreon 'Opus 8 First Impressions' post on Crystal Tower Podcast]",
+      "sources": ["trollandtoad.com Marche 8-018R listing, via WebSearch snippet", "patreon.com/posts/opus-8-first-25465733 (Crystal Tower Podcast), via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mewt", "set": "Opus IV or adjacent", "note": "FFTA co-protagonist whose wish creates Ivalice; Marche's primary moral foil"},
+    {"name": "Ritz", "set": "FFTA-era sets", "note": "Marche's friend who resists returning to reality; key supporting character"},
+    {"name": "Montblanc", "set": "Multiple Opus sets", "note": "Marche's moogle clan partner in Clan Nutsy; major FFTA supporting character"},
+    {"name": "Marche (Opus IV)", "set": "Opus IV", "note": "Earlier FFTCG Marche card (4-020R) for comparison of different art treatments"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Marche (Final Fantasy Tactics Advance)",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "card_name": "Workshop Assistant",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "348",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "First printed in Kaladesh (KLD, September 2016), a plane built around fabrication economies: cogwork automatons, thopters, and workshop constructs are the ambient labor infrastructure of the plane's inventor culture. Reprinted in Commander Legends (CMR, November 2020) and Kaladesh Remastered (KLR) — three total printings.",
+      "sources": ["Scryfall: Workshop Assistant all printings", "magic.wizards.com/en/news/magic-story/planeswalkers-guide-kaladesh via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "On death, return another target artifact card from your graveyard to your hand. Functions as a recurring recursion loop piece in artifact-heavy builds. EDHREC rank 3,794 — consistent inclusion across Commander and Pauper artifact decks. Legal in Pauper, Paupercommander, Modern, Pioneer, Legacy, Commander.",
+      "sources": ["Scryfall: EDHREC rank 3,794", "Scryfall: legalities"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Sometimes the smallest things make the biggest difference.\" — no named speaker.",
+      "sources": ["Scryfall: flavor_text"]
+    },
+    {
+      "category": "set-lore",
+      "text": "On Kaladesh, constructs like Workshop Assistant are part of the plane's engineered labor class — created by inventors to assist in fabrication, maintenance, and aether-refinement. The plane's design brief described cogwork automatons as ambient infrastructure, the labor layer that makes the Inventors' Fair possible.",
+      "sources": ["magic.wizards.com/en/news/magic-story/planeswalkers-guide-kaladesh via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Perilous Myr", "set": "various", "note": "similar sacrifice-and-value construct, same pauper-staple tier"},
+    {"name": "Myr Retriever", "set": "various", "note": "analogous on-death recursion effect, older archetype anchor"},
+    {"name": "Scrap Trawler", "set": "Aether Revolt", "note": "Kaladesh-block companion piece for artifact graveyard loops"},
+    {"name": "Foundry Inspector", "set": "Kaladesh", "note": "fellow Kaladesh construct, reduces artifact casting costs"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

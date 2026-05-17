@@ -1,0 +1,47 @@
+{
+  "card_name": "Fortified Rampart",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "27",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Battle for Zendikar (BFZ) released October 2, 2015, the first set in a two-set block continuing the Eldrazi invasion story. By the time of BFZ, the titans Ulamog and Kozilek have manifested physically on Zendikar and their brood lineages (the 'lesser Eldrazi' of the flavor text) are scouring the plane. The flavor text is a training context: fortress defenders deliberately expose new recruits to lesser Eldrazi at close range to harden them psychologically.",
+      "sources": ["Scryfall flavor_text", "WebSearch: magic.wizards.com Battle for Zendikar story summary 2015-12-23"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The refuge's defenses allow new recruits to see lesser Eldrazi up close, steeling their stomachs for what's to come.\"",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by David Gaillet. As a {1}{W} creature with 0/6 Defender, Fortified Rampart is the archetypal white Wall: maximum toughness, zero offense, minimal mana. The 0/6 stat line makes it one of the sturdiest 2-mana walls in Magic, surviving hits from most ground creatures in limited.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 9,328 as of May 2026. Sees niche play in Arcades, the Strategist Commander decks (Arcades gives all Walls with Defender power equal to their toughness, turning the 0/6 into a 6/6 attacker) and in Wall tribal / defender-matters strategies.",
+      "sources": ["Scryfall EDHREC rank"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Legal in Pioneer, Modern, Legacy, Pauper, and Paupercommander; not legal in Historic or Standard as of May 2026.",
+      "sources": ["Scryfall legalities"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Arcades, the Strategist", "set": "Core Set 2019", "note": "Primary Commander for Wall/Defender builds; turns 0/6 into a 6/6 attacker"},
+    {"name": "Wall of Omens", "set": "Rise of the Eldrazi", "note": "Similar 2-mana white Wall with card draw instead of raw toughness"},
+    {"name": "Stalwart Shield-Bearers", "set": "Rise of the Eldrazi", "note": "Thematic predecessor Wall from the same Eldrazi-era Zendikar story"},
+    {"name": "Eldrazi Scion tokens", "set": "Battle for Zendikar", "note": "Creature type partially visible in the art's foreground"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

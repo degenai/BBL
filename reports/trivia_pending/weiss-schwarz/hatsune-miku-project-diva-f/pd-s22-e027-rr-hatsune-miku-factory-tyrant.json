@@ -1,0 +1,41 @@
+{
+  "card_name": "Hatsune Miku\"Factory Tyrant\"",
+  "game": "Weiss Schwarz",
+  "set": "Hatsune Miku -Project DIVA- f",
+  "collector_number": "PD/S22-E027 RR",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Red eyes (vs. default blue-green), cogwheel wrist-cuffs, silver twin-tail binders, black-and-teal industrial dress are all canonical Factory Tyrant module identifiers per Project DIVA Wiki. Module is unlocked in Project DIVA F by clearing Sadistic.Music-Infinity-Factory. Visual match is unambiguous.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "PD/S22 is the English-edition Weiss Schwarz booster for Hatsune Miku -Project DIVA- f, released November 2013, among the earliest Bushiroad sets to bring a SEGA vocaloid franchise to English markets.",
+      "sources": ["en.ws-tcg.com: Booster Pack Hatsune Miku -Project DIVA- f", "WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Factory Tyrant is a named costume module in Project DIVA F (SEGA, 2012), unlocked after clearing Sadistic.Music-Infinity-Factory on any difficulty. The module's red eyes, cogwheel wrist-cuffs, silver twin-tail binders, and black-and-teal industrial dress are all canonical identifiers reproduced on this card.",
+      "sources": ["Project DIVA Wiki: Factory Tyrant, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Sadistic.Music-Infinity-Factory by cosMo@BousouP casts Miku as a tyrannical plant manager demanding her workers produce unending music or she goes insane. Posted to Niconico three days before Project DIVA f's release. The factory metaphor is the entire song premise.",
+      "sources": ["Vocaloid Wiki: Sadistic.Music-Infinity-Factory, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "cosMo's original illustration for the source song depicts Miku's torso as a see-through tube with two cogwheels forming an infinity symbol inside, literalizing the factory-machine body. The Weiss Schwarz card is a mid-shot portrait and does not reproduce this anatomical detail, but external costume markers are faithfully present.",
+      "sources": ["Project DIVA Wiki: Factory Tyrant, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hatsune Miku \"Electron Diva\"", "set": "PD/S22", "note": "adjacent Double Rare in same set, same collector-number sequence"},
+    {"name": "Hatsune Miku \"Summer Memories\"", "set": "PD/S22", "note": "Super Rare in same set, different module"},
+    {"name": "MEIKO \"Blue Crystal\"", "set": "PD/S22", "note": "fellow named-module SR in PD/S22, different Vocaloid character"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

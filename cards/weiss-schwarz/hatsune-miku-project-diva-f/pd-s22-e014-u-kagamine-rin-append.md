@@ -46,6 +46,8 @@ setting: void
 suspected_ip: Kagamine Rin
 ip_confidence: high
 ip_verified: true
+characters:
+  - project-diva-f-vocaloid-roster
 tags:
   - card
   - weiss

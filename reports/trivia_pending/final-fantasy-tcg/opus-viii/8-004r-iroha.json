@@ -1,0 +1,41 @@
+{
+  "card_name": "Iroha",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-004R",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Iroha is a named, specific FFXI character introduced in Rhapsodies of Vana'diel (2015). The card's type line 'MOBIUS XI' and job 'Samurai' match her FFXI profile exactly. Her signature naginata with flame detail, white-and-red martial outfit, and long hair are consistent with canonical FFXI art. Vision pass description is a direct match to her canonical visual identity. Confident verify.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Iroha is the main heroine of Final Fantasy XI: Rhapsodies of Vana'diel (2015), the narrative finale of FFXI's first fourteen years. She is a Hume, daughter of Tenzen and Kagero, chief priestess of the Reisen Shrine on Reisenjima — a Far East locale — and arrives from a doomed future to warn Vana'diel of approaching annihilation.",
+      "sources": ["Gamer Escape FFXI wiki: Iroha", "WebSearch: Iroha FFXI Rhapsodies of Vanadiel"]
+    },
+    {
+      "category": "design",
+      "text": "Iroha's FFTCG card type line reads 'MOBIUS XI' — meaning her card art and character data are drawn from the Mobius Final Fantasy version of FFXI collaboration content rather than a direct FFXI source. Her job is listed as Samurai in the card. In FFXI she wields a naginata and uses samurai job skills, a profile confirmed by the FFXIclopedia and Gamer Escape wikis.",
+      "sources": ["FFTCG Crystarium Opus VIII Limited Review", "Gamer Escape FFXI wiki: Iroha"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Iroha (8-004R) is a 3-cost, 7000-power Fire Forward with Samurai job. Her passive increases all damage Fire characters deal to opposing Forwards by 1000, and her dull ability deals 1000 damage to a chosen Forward. The FFTCG Crystarium Opus VIII limited review rated her 3.5/5, calling her 'absolutely nuts' and 'a huge draw to fire when drafting/deckbuilding' due to how she amplifies burn combos alongside Sabin, Cloud, and other fire forwards with damage abilities.",
+      "sources": ["FFTCG Crystarium: How to Win Limited Opus VIII Review"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Iroha cross-appeared in Final Fantasy XIV via 'The Maiden's Rhapsody' collaboration event, first in 2015 (Patch 3.1 / Heavensward), repeated in 2017, 2020, 2022, and 2024 — one of the longest-running XIV crossover events on record. In XIV she appears as an Iroha-type NPC Hyur Midlander with Lancer class, asking for directions to Selbina.",
+      "sources": ["FFXIV consolegameswiki.com: Iroha", "WebSearch: FFXIV Iroha Maiden's Rhapsody"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ark Angel GK", "set": "Opus VIII", "note": "Another FFXI character in the same set; both are XI-tagged FFTCG cards reviewed alongside Iroha"},
+    {"name": "Sabin", "set": "Opus VIII", "note": "Cited as a key combo synergy partner with Iroha's damage-amplification ability"},
+    {"name": "Cloud (VIII)", "set": "Opus VIII", "note": "Another fire forward with burn abilities that Iroha synergizes with per Crystarium review"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Iroha",
+    "ip_confidence": "high"
+  }
+}

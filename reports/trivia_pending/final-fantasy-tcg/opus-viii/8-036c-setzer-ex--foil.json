@@ -1,0 +1,42 @@
+{
+  "card_name": "Setzer EX",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-036C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Setzer EX' directly names Setzer Gabbiani from Final Fantasy VI. Job: Gambler matches his canonical role as the first playable Gambler in the FF series. Category VI confirms the source game. The chibi art's signature long silver-white hair and dark coat are Setzer's canonical visual identifiers reproduced consistently across 30+ years of FF VI artwork and appearances. IP verified as internal Square Enix character — no external IP risk.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Setzer Gabbiani is a playable character in Final Fantasy VI (1994) and holds the distinction of being the first Gambler job class in the mainline Final Fantasy series, with attacks relying on gambler's paraphernalia: playing cards, darts, and dice thrown at enemies. His design — long silver-white hair, dark coat — was intentionally constructed to look 'different and unexpected' among the FFVI cast. [Final Fantasy Wiki: Setzer Gabbiani, via WebSearch snippet; Retroware: 'The Origin of the Rogue Gambler Setzer Gabbiani', via WebSearch snippet]",
+      "sources": ["finalfantasy.fandom.com/wiki/Setzer_Gabbiani, via WebSearch snippet", "articles.retroware.com/2020/11/17/the-origin-of-the-rogue-gambler-setzer-gabbiani/, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Setzer's backstory centers on Darill, owner of the airship Falcon, with whom he was in a relationship and a friendly aerial rivalry. When Darill pushed the Falcon beyond its limits to 'fly higher than anyone had before,' she never returned — the wreck was found a year later. Setzer was meant to win the Falcon from her in a race, but she won and left him a promise instead. He attributes losing Darill to losing his drive to live, explaining the world-weary gambler persona the party encounters in the game. In the World of Ruin he is found in a pub, and leads the party to Darill's Tomb where the restored Falcon becomes the party's airship. [Final Fantasy Wiki: Setzer Gabbiani, via WebSearch snippet; Caves of Narshe character page, via WebSearch snippet]",
+      "sources": ["finalfantasy.fandom.com/wiki/Setzer_Gabbiani, via WebSearch snippet", "cavesofnarshe.com/ff6/characters.php?character=setzer, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanically, Setzer EX (8-036C) is an Ice element Backup at 4 CP cost, Job: Gambler, Category: VI. As an EX Burst card, its on-entry ability reads: choose 1 Category VI Forward in your Break Zone and add it to your hand — a recursion tool for FFVI-focused builds. Despite being a Common, the foil variant commands a notably higher market price (approximately $1.90 vs sub-$0.20 for comparable non-foil Opus VIII commons in the same corpus), suggesting collector demand for the foil treatment of this beloved character. [TCGPlayer Setzer EX Opus VIII listing, via WebSearch snippet; BBL inventory market_price field]",
+      "sources": ["tcgplayer.com/product/186120/final-fantasy-tcg-opus-viii-setzer-ex, via WebSearch snippet", "BBL inventory data (market_price: 1.90)"]
+    },
+    {
+      "category": "design",
+      "text": "Setzer has appeared in multiple FFTCG sets across the Opus run: Opus IV (4-xxx), Opus VIII (this card), and Opus XI, indicating consistent demand for FFVI characters across the TCG's print history. His Opus VIII EX variant's 'Back Zone recursion' ability mechanically mirrors his in-game narrative role: Setzer is the character who literally goes back to recover something lost (Darill's Falcon from her tomb) and turns grief into forward motion for the party. [TCGPlayer Setzer Opus IV and Opus XI listing pages, via WebSearch snippet]",
+      "sources": ["tcgplayer.com/product/152986/final-fantasy-tcg-opus-iv-setzer, via WebSearch snippet", "tcgplayer.com/product/211338/final-fantasy-tcg-opus-xi-setzer, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Setzer (Opus IV)", "set": "Opus IV", "note": "Earlier FFTCG Setzer card — same character, different art treatment and ability"},
+    {"name": "Setzer (Opus XI)", "set": "Opus XI", "note": "Later FFTCG Setzer card — part of FFVI's ongoing TCG representation"},
+    {"name": "Celes", "set": "Multiple Opus sets", "note": "FFVI party member Setzer originally attempts to kidnap; integral to his recruitment arc"},
+    {"name": "Terra", "set": "Multiple Opus sets", "note": "FFVI protagonist; Setzer's Blackjack airship is central to the party's movement across the World of Balance"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Setzer Gabbiani",
+    "ip_confidence": "high"
+  }
+}

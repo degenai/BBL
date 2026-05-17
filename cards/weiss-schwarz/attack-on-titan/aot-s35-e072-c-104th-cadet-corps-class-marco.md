@@ -1,5 +1,5 @@
 ---
-name: "104th Cadet Corps Class" Marco
+name: '"104th Cadet Corps Class" Marco'
 game: Weiss Schwarz
 set: Attack on Titan
 collector_number: AOT/S35-E072 C

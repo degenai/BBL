@@ -10,8 +10,23 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - cassette-tape
+  - horror
+  - surveillance
+  - technology
+  - decay
+  - glow
+  - found-horror
+  - retro-tech
+  - darkness
+  - corruption
+tags_filter:
+  - no-figure
+  - close-up
+  - abstract-mode
+  - artifact
+  - colorless-magic
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/246-found-footage.png
 average_cost_paid: 0
 market_price: 0.04
@@ -29,7 +44,29 @@ image_width: 745
 image_height: 1040
 image_quality: high
 mana_cost: "{1}"
+mood: horror
+time_of_day: indeterminate
+setting: indoor
 tags:
   - card
 ---
 # Found Footage (Duskmourn: House of Horror)
+
+## Vision
+
+![246-found-footage](../../_images/magic-the-gathering/duskmourn-house-of-horror/246-found-footage.png)
+
+The art crop shows a close-up of a VHS cassette tape seated in what appears to be a rusted or corroded mechanical slot or housing. The cassette glows with an eerie green-yellow light emanating from its windows and surrounding frame, casting an unsettling bioluminescent hue in the otherwise dark scene. Thick, twisted cables or vines hang down from the underside of the housing, coiling loosely. The surrounding machinery is dark, aged metal — pipes, brackets, and structural elements rendered in dark grey and brown. The composition is tight on the object, with no figures present, evoking found-horror aesthetics.
+
+**Subject:** A glowing VHS cassette tape lodged in a dark, corroded mechanical housing with dangling cables
+
+**Composition:** close-up, abstract, figures: none, facing: n/a
+**Setting:** indoor, ruined, indeterminate
+**Foreground:** Glowing VHS cassette in a corroded mechanical slot with dangling cables  *(palette: green, yellow-green, dark grey, brown)*
+**Background:** Dark aged machinery and structural metal elements  *(palette: dark grey, black, rust brown)*
+**Mood / lighting:** horror, chiaroscuro
+**Emotion read:** unsettling, eerie stillness
+**Objects:** vhs-cassette, cables, machinery
+**Iconography:** glowing-screen, cassette-tape
+**Genre cues:** horror, sci-fi
+

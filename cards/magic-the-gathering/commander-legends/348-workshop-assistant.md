@@ -77,3 +77,16 @@ A many-legged mechanical construct dominates the foreground, its dark metallic b
 **Iconography:** clockwork, mechanical-spider
 **Genre cues:** fantasy, steampunk, dark-fantasy
 
+## Trivia
+
+- **Set context / origin** — Workshop Assistant was first printed in *Kaladesh* (KLD, September 2016), a plane whose entire identity is structured around fabrication economies: cogwork automatons walk the streets, thopters fill the marketplaces, and constructs serve as assistants in inventors' workshops. The card was reprinted at common in *Commander Legends* (CMR, November 2020) and again in *Kaladesh Remastered* (KLR) — three total printings across formats. [Scryfall: Workshop Assistant, all printings]
+- **Mechanical reputation** — The card's ability (on death, return another artifact card from your graveyard to your hand) makes it a recurring recursion engine in artifact-heavy builds. EDHREC rank 3,794 across Commander suggests consistent inclusion — it functions as a cheap sacrifice outlet and graveyard retrieval loop piece in Pauper-legal artifact decks. It is legal in Pauper, Paupercommander, Modern, Pioneer, Legacy, and Commander. [Scryfall: Workshop Assistant; EDHREC rank 3,794]
+- **Flavor text** — "Sometimes the smallest things make the biggest difference." — no named speaker [Scryfall]
+- **Kaladesh canon** — On Kaladesh, constructs like Workshop Assistant are part of the plane's engineered labor class: created by inventors to assist in fabrication, maintenance, and the aether-refinement cycle. The plane's design brief described cogwork automatons as ambient infrastructure — the labor layer that makes the Inventors' Fair possible. [magic.wizards.com/en/news/magic-story/planeswalkers-guide-kaladesh, via WebSearch snippet]
+
+### Related cards
+- Perilous Myr (various) — similar sacrifice-and-value construct in artifact builds, same pauper-staple tier
+- Myr Retriever (various) — analogous on-death recursion effect, older archetype anchor
+- Scrap Trawler (Aether Revolt) — the Kaladesh-block companion piece for artifact graveyard loops
+- Foundry Inspector (Kaladesh) — fellow Kaladesh construct that reduces artifact casting costs, same workshop economy
+

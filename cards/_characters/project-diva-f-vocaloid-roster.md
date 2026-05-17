@@ -13,11 +13,15 @@ species: licensed-character cohort of named Vocaloid (and adjacent voicebank) ma
 canonical_source: "Crypton Future Media Character Vocal Series product pages (CV01 Hatsune Miku, CV02 Kagamine Rin & Len, CV03 Megurine Luka, plus Crypton's MEIKO and KAITO from the original Yamaha-era Vocaloid line); SEGA Project DIVA F official site and in-game character / module roster; Weiss Schwarz PD/S22 set page (en.ws-tcg.com) and per-card listings; Vocaloid Wiki (vocaloid.fandom.com) character pages for each named figure"
 confidence: canonical
 appears_on:
+  - weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e027-rr-hatsune-miku-factory-tyrant
+  - weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e031-r-together-with-you-hatsune-miku
   - weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e033-u-hatsune-miku-divine-goddess
   - weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e041-c-hatsune-miku-deep-sky
   - weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e046-c-weekender-girl
   - weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e067-c-hatsune-miku-dark-angel
   - weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e021-c-melancholic
+  - weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e014-u-kagamine-rin-append
+  - weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e002-rr-kagamine-len-original
   - weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e087-u-kagamine-rin-school-swimwear
   - weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e017-c-kagamine-len-trickster
   - weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e084a-u-kagamine-len-bad-boy-a
@@ -39,17 +43,21 @@ Card art and rules-text that depicts one of the Project DIVA F roster characters
 
 **Cards in our corpus pointing here (current, enriched):**
 
+- **Hatsune Miku"Factory Tyrant"** (PD/S22-E027 RR, Double Rare) — Miku in the *Factory Tyrant* module: dark structured punk-industrial jacket with choker-style collar, vivid red eyes (a hallmark identifier distinguishing this module from default-eye Miku printings), against a dark industrial-stage backdrop of angular geometric set pieces. The defiant register reads as the dark-punk counterpart to the Divine Goddess / Dark Angel ceremonial inversions.
+- **"Together with You"Hatsune Miku** (PD/S22-E031 R, Rare) — Miku in the *Together with You* module: flowing pale-teal-and-white costume, open-palm forward reach toward the viewer, soft pink-and-teal sparkle background. The warm intimate-concert register contrasts directly with Factory Tyrant's defiance and is one of the connective / audience-facing modules in the Project DIVA F catalog.
 - **Hatsune Miku"Divine Goddess"** (PD/S22-E033 U, Uncommon) — Miku in a celestial-goddess module: white-and-teal robe with white fur trim, large gold halo behind her, deep starfield background. The "Divine" / sublime register reads as one of the higher-rarity ceremonial modules in the Project DIVA F catalog.
 - **Hatsune Miku"Deep Sky"** (PD/S22-E041 C, Common) — Miku in an azure-and-navy stage module with celestial accents, deep-sky palette.
 - **Weekender Girl** (PD/S22-E046 C, Common) — Miku appearance tied to the *Weekender Girl* song module by kz (livetune); the song is a canonical Project DIVA F track and the depicted character is Miku.
 - **Hatsune Miku"Dark Angel"** (PD/S22-E067 C, Common) — Miku in a black-feathered fallen-angel module, the dark inversion of the Divine Goddess register.
 - **Melancholic** (PD/S22-E021 C, Common) — depicts Kagamine Rin in the *Melancholic* song module (Junky's *Melancholic* is a canonical Vocaloid track originally sung by Kagamine Rin); short blond hair, green-and-yellow costume, headphones. The card title is the song name; the depicted figure is Rin.
+- **Kagamine Rin"Append"** (PD/S22-E014 U, Uncommon) — Rin in the *Append* module: white-and-black mechanical-transparent aesthetic (replacing the original yellow-and-black) corresponding to the Append voicebank release (Crypton, December 27, 2010) which added Power, Warm, and Sweet vocalization styles to the original Rin voicebank. The visual aesthetic was designed by Wataru Sasaki to convey "a sense of transparency in the heart." The card's Level-2 Change effect explicitly retrieves Kagamine Rin "Original" from the waiting room, modeling the voicebank-extension relationship at the rules layer.
 - **Kagamine Rin"School Swimwear"** (PD/S22-E087 U, Uncommon) — Rin in a Project DIVA F school-swimwear module.
+- **Kagamine Len"Original"** (PD/S22-E002 RR, Double Rare) — Len in his *Original* / default module: white-and-black sailor-collar uniform with yellow scarf accent, holding a flat device, against a warm amber-orange radiating-burst backdrop. The Original module is the canonical baseline appearance for Len's voicebank-character identity and is the reference design from which subsequent module variants derive.
 - **Kagamine Len"Trickster"** (PD/S22-E017 C, Common) — Len in the *Trickster* module variant.
 - **Kagamine Len"Bad Boy" (A)** (PD/S22-E084a U, Uncommon) — Len in a red-and-black geometric-jacket module with headphones; the (A) suffix indicates a Weiss Schwarz dual-art printing.
 - **MEIKO"Blue Crystal"** (PD/S22-E056 R, Rare) — MEIKO in the *Blue Crystal* module; MEIKO is Crypton's original-era female voicebank (pre-CV-series, original Yamaha Vocaloid engine), distinct from the CV-series Miku/Rin/Len/Luka.
 
-Nine enriched corpus members across five named voicebanks (Hatsune Miku x4, Kagamine Rin x2 including Melancholic, Kagamine Len x2, MEIKO x1).
+Thirteen enriched corpus members across five named voicebanks (Hatsune Miku x6, Kagamine Rin x3 including Melancholic and the Append voicebank-variant, Kagamine Len x3 including the Original baseline, MEIKO x1).
 
 ## The design thesis
 
@@ -61,11 +69,15 @@ The cohort is also a *cross-platform IP property* — the characters originate a
 
 <!-- auto-generated from appears_on; do not edit by hand -->
 
+- [[pd-s22-e027-rr-hatsune-miku-factory-tyrant]]
+- [[pd-s22-e031-r-together-with-you-hatsune-miku]]
 - [[pd-s22-e033-u-hatsune-miku-divine-goddess]]
 - [[pd-s22-e041-c-hatsune-miku-deep-sky]]
 - [[pd-s22-e046-c-weekender-girl]]
 - [[pd-s22-e067-c-hatsune-miku-dark-angel]]
 - [[pd-s22-e021-c-melancholic]]
+- [[pd-s22-e014-u-kagamine-rin-append]]
+- [[pd-s22-e002-rr-kagamine-len-original]]
 - [[pd-s22-e087-u-kagamine-rin-school-swimwear]]
 - [[pd-s22-e017-c-kagamine-len-trickster]]
 - [[pd-s22-e084a-u-kagamine-len-bad-boy-a]]
@@ -77,16 +89,16 @@ The PD/S22 set licenses eight distinct named voicebank characters from SEGA's Pr
 
 | Voicebank | Crypton CV# / origin | Voice provider | In PD/S22 | Enriched in corpus |
 |---|---|---|---|---|
-| Hatsune Miku | CV01 | Saki Fujita | yes (many) | yes (4: Divine Goddess, Deep Sky, Weekender Girl, Dark Angel) |
-| Kagamine Rin | CV02 (paired) | Asami Shimoda | yes | yes (2: School Swimwear, Melancholic) |
-| Kagamine Len | CV02 (paired) | Asami Shimoda | yes | yes (2: Bad Boy A, Trickster) |
+| Hatsune Miku | CV01 | Saki Fujita | yes (many) | yes (6: Factory Tyrant, Together with You, Divine Goddess, Deep Sky, Weekender Girl, Dark Angel) |
+| Kagamine Rin | CV02 (paired) | Asami Shimoda | yes | yes (3: School Swimwear, Melancholic, Append) |
+| Kagamine Len | CV02 (paired) | Asami Shimoda | yes | yes (3: Original, Bad Boy A, Trickster) |
 | Megurine Luka | CV03 | Yu Asakawa | yes | not yet enriched in corpus |
 | MEIKO | Crypton, original Yamaha Vocaloid engine | Meiko Haigou | yes | yes (1: Blue Crystal) |
 | KAITO | Crypton, original Yamaha Vocaloid engine | Naoto Fuga | yes | not yet enriched in corpus |
 | Kasane Teto | UTAU (NOT a Vocaloid; guest module) | Mayo Oyamano | yes (guest) | not yet enriched in corpus |
 | Yowane Haku | Crypton-derivative fan-character; formalized as Project DIVA guest module | Yui Sakakibara (singing variants) | yes (guest) | not yet enriched in corpus |
 
-Six core Crypton-published voicebanks plus two guest-module figures (Teto and Haku). Five of the six core voicebanks have at least one enriched corpus card; Luka and KAITO are queued but not yet vision-passed. The two guest figures (Teto and Haku) are licensed-into-Project-DIVA-F at the module level and are part of this cohort for PD/S22 purposes; if a future broader Vocaloid-universe node is commissioned, Teto in particular should be re-homed (UTAU is a distinct software ecosystem from Vocaloid and Teto's canonical identity is UTAU-side, even though her Project DIVA F appearance is licensed).
+Six core Crypton-published voicebanks plus two guest-module figures (Teto and Haku). Four of the six core voicebanks have at least one enriched corpus card (Miku, Rin, Len, MEIKO); Luka and KAITO are queued but not yet vision-passed. The two guest figures (Teto and Haku) are licensed-into-Project-DIVA-F at the module level and are part of this cohort for PD/S22 purposes; if a future broader Vocaloid-universe node is commissioned, Teto in particular should be re-homed (UTAU is a distinct software ecosystem from Vocaloid and Teto's canonical identity is UTAU-side, even though her Project DIVA F appearance is licensed).
 
 ## Canonical sources
 

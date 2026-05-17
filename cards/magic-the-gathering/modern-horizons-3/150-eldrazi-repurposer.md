@@ -78,3 +78,17 @@ A gaunt, pale-white Eldrazi creature dominates the frame, its body a collage of 
 **Iconography:** bone-plating, elongated-skull
 **Genre cues:** fantasy, cosmic-horror, weird
 
+## Trivia
+
+- **Set context** — Eldrazi Repurposer is a first (and only) printing from *Modern Horizons 3* (MH3, released June 2024), a directly-to-Modern supplemental set that returned the Eldrazi to prominence after years of absence from Standard. MH3's Eldrazi suite reintroduced both the Drone subtype and the Devoid mechanic (card has no color despite having a colored mana cost) — design decisions that signal Eldrazi as a distinct production-line faction with its own mechanical grammar. [Scryfall: Eldrazi Repurposer]
+- **Type line** — The card's type is "Creature — Eldrazi Drone," a subtype that directly names the creature's role within Eldrazi faction design. Eldrazi Drones in MTG lore are the lowest-caste Eldrazi, extensions of the titan will that do nothing except process and consume matter. The "Repurposer" name extends that: this drone's specific job is to recycle what was consumed into mana-generating Spawn tokens. [Scryfall: type_line; MTG Eldrazi drone lore context]
+- **Flavor text** — "I almost admire their ability to avoid waste. Almost." — General Tazri, allied commander. Tazri is the legendary creature who leads the Allied Commander deck archetype (see Tazri, Beacon of Unity from Zendikar Rising). The quote frames the Eldrazi's no-waste metabolism as something worthy of grudging professional respect — and the "Almost" keeps the horror register. [Scryfall: flavor_text]
+- **Mechanical reputation** — EDHREC rank 8,623 — the highest Commander presence of any card in this bundle, reflecting MH3's recent release date and the card's genuine utility. Pauper-legal (common) and appearing in Eldrazi-ramp and Pauper Eldrazi lists. The double trigger (Spawn on cast AND on death) means the card generates value in two directions, fitting artifact-sacrifice and colorless-mana strategies. [Scryfall: EDHREC rank 8,623; legalities]
+- **Artist** — Illustrated by Daren Bader, a MTG artist with decades of work including many creature cards across multiple blocks. [Scryfall: artist field]
+
+### Related cards
+- Eldrazi Spawn tokens (various BFZ/ROE/MH3 sets) — the 0/1 colorless tokens this card generates, also produced by dozens of other Eldrazi creatures
+- General Tazri (Battle for Zendikar / Zendikar Rising) — the flavor-text speaker; her character arc spans the Zendikar Eldrazi conflict
+- Ulamog, the Infinite Gyre (various) — the Eldrazi titan whose faction the Drones serve
+- Eldrazi Mimic (Oath of the Gatewatch) — fellow Devoid Eldrazi in the colorless-matters design space
+

@@ -1,0 +1,42 @@
+{
+  "card_name": "Red Mage",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-002C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "IMPORTANT PRECISION: Red Mage is a JOB CLASS, not a named character. The card name 'Red Mage' is the franchise-wide job designation, and the Category XIV marking explicitly places it in the Final Fantasy XIV context. The vision pass flagged 'Red Mage (FF job class / FFXIV)' — the job-class qualifier is correct and must be preserved. ip_verified: true because the depicted figure is unambiguously the FFXIV Red Mage job class (chibi rendition of the canonical hat + rapier + red coat ensemble). This is analogous to the 'Moogle Knight' pattern from wave 107: verified as job class, not as any specific named character within XIV.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Red Mage (8-002C) was released in the Opus VIII Collection (March 22, 2019). Opus VIII introduced Final Fantasy XIV: Stormblood as a featured category for the first time in FFTCG, and a dedicated FFXIV: Stormblood Starter Set shipped alongside it — described as an aggressive deck emphasizing the Red Mage and Samurai jobs. This card is one of the first Red Mage representations in FFTCG tied explicitly to the XIV expansion. [Square Enix NA press release via WebSearch snippet; na.finalfantasy.com/news/1043, via WebSearch snippet]",
+      "sources": ["press.na.square-enix.com/LATEST-FINAL-FANTASY-TRADING-CARD-GAME-OPUS-VIII-SET-NOW-AVAILABLE, via WebSearch snippet", "na.finalfantasy.com/news/1043, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "The Red Mage job is one of the three archetypal mage classes introduced in the original Final Fantasy (1987) alongside White Mage and Black Mage, making it one of the oldest job identities in the franchise. Its signature design — wide-brimmed red hat with white feather plume, red and black coat — has been reproduced with near-identical silhouette across 35+ years of FF titles. FFXIV's Stormblood expansion (2017) gave the class its first mainline playable iteration since Final Fantasy XI, adding a rapier as the primary weapon and a lore origin in the sorcerous refugee cities of Mhach and Amdapor. [Final Fantasy Wiki: Red Mage, via WebSearch snippet; FFXIV Job Guide: Red Mage, via WebSearch snippet]",
+      "sources": ["finalfantasy.fandom.com/wiki/Red_Mage, via WebSearch snippet", "na.finalfantasyxiv.com/jobguide/redmage/, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanically, Red Mage (8-002C) is a Fire element Backup at 2 CP cost, Job: Standard Unit, Category: XIV. Its on-entry ability reads: choose 1 Fire Forward — until end of turn, it gains Haste and Brave. Haste lets a Forward attack immediately without summoning sickness; Brave lets it attack without tapping (essentially double-strike positioning). At 2 CP, it is a low-cost aggressive tempo piece suited to Fire-heavy Opus VIII builds. [WebSearch snippets from Mountbatten Collectables and FFTCG Crystarium Opus VIII review]",
+      "sources": ["mountbattencollectables.com listing 8-002C, via WebSearch snippet", "fftcgcrystarium.com/limited-format/how-to-win-limited-opus-viii-review/, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "The FFXIV Red Mage's lore distinguishes it from earlier FF Red Mage iterations: survivors from warring sorcerous cities (black magic city Mhach and white magic city Amdapor) buried their enmity and merged their disciplines under the tutelage of Count Ganelon, a noble swordsman who taught them the rapier. The red mage is thus literally a synthesis of opposites — black and white magic fused through a blade — which maps onto the classic jack-of-all-trades role the job has held since FF1. [FFXIV Job Guide: Red Mage, via WebSearch snippet]",
+      "sources": ["na.finalfantasyxiv.com/jobguide/redmage/, via WebSearch snippet", "ffxiv.consolegameswiki.com/wiki/Red_Mage, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Samurai", "set": "Opus VIII", "note": "Co-headlined the FFXIV Stormblood Starter Set alongside Red Mage"},
+    {"name": "White Mage", "set": "Multiple Opus sets", "note": "Fellow original FF1 archetypal mage; Red Mage's identity is partly defined against White and Black Mage"},
+    {"name": "Black Mage", "set": "Multiple Opus sets", "note": "Other founding mage archetype; Red Mage synthesizes White and Black"},
+    {"name": "Y'shtola", "set": "Opus VIII or adjacent", "note": "Major FFXIV character likely in Opus VIII's XIV Stormblood category"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Red Mage (FF job class / FFXIV)",
+    "ip_confidence": "high"
+  }
+}

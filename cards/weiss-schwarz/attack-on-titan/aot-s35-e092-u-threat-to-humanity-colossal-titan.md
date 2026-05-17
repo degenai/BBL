@@ -1,5 +1,5 @@
 ---
-name: "Threat to Humanity" Colossal Titan
+name: '"Threat to Humanity" Colossal Titan'
 game: Weiss Schwarz
 set: Attack on Titan
 collector_number: AOT/S35-E092 U
@@ -10,8 +10,23 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - giant
+  - titan
+  - horror
+  - monster
+  - threat
+  - scale
+  - destruction
+  - red
+  - overwhelming-force
+tags_filter:
+  - solo
+  - forward-facing
+  - wide
+  - action-mode
+  - no-face-obscured
+  - large-creature
 reference_image: cards/_images/weiss-schwarz/attack-on-titan/aot-s35-e092-u-threat-to-humanity-colossal-titan.png
 average_cost_paid: 0
 market_price: 0.64
@@ -24,8 +39,36 @@ needs_manual_review: false
 image_width: 400
 image_height: 558
 image_quality: med
+mood: horror
+time_of_day: indeterminate
+setting: other
+subject_known_ip: true
+suspected_ip: Colossal Titan (Attack on Titan)
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - weiss
 ---
 # "Threat to Humanity" Colossal Titan (Attack on Titan)
+
+## Vision
+
+![aot-s35-e092-u-threat-to-humanity-colossal-titan](../../_images/weiss-schwarz/attack-on-titan/aot-s35-e092-u-threat-to-humanity-colossal-titan.png)
+
+> [!warning] Suspected IP: **Colossal Titan (Attack on Titan)** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A towering, muscular figure rendered in deep red — the exposed musculature of a Titan with no skin — dominates the upper portion of the image. The figure leans forward over what appears to be a large structure or wall below. The image is relatively small in resolution and marked with a SAMPLE watermark. The composition conveys extreme scale, with the titan's mass dwarfing any architectural elements visible beneath it. The overall palette is deep red and dark tones.
+
+**Subject:** The Colossal Titan, a massive skinless giant figure looming over a structure, from the Attack on Titan series
+
+**Composition:** wide, action, figures: solo, facing: forward
+**Setting:** other, ruined, indeterminate
+**Foreground:** Massive red muscular giant figure bearing down from above  *(palette: deep red, dark red, crimson)*
+**Background:** Structure or wall below, dark sky  *(palette: dark grey, black, brown)*
+**Mood / lighting:** horror, harsh
+**Emotion read:** menacing, overwhelming physical presence
+**Creatures:** giant, titan
+**Genre cues:** anime, fantasy
+

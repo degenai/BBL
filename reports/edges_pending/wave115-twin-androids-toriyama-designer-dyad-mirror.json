@@ -1,0 +1,38 @@
+{
+  "edge_id": "wave115-twin-androids-toriyama-designer-dyad-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/dragon-ball-super/union-force/bt2-089-twin-brother-android-17.md",
+      "name": "Twin Brother Android 17 (BT2-089)"
+    },
+    {
+      "type": "card",
+      "path": "cards/dragon-ball-super/union-force/bt2-091-twin-sister-android-18.md",
+      "name": "Twin Sister Android 18 (BT2-091)"
+    }
+  ],
+  "description": "Worst-named edge I've drawn this week — no, scratch that, BEST-named edge. Two cards, vision+trivia-passed on the same wave (2026-05-17 BT2 batch), with TITLES MIRRORED across the conjunction at adjacent collector numbers (089 / 091). Both trivia bodies independently surfaced the same bullet — 'Designer-coordinated twin dyad — consecutive card numbers in Union Force with mirrored titles' — which is the agent equivalent of two researchers turning in the same homework. The 1:1 sigh is professional, not personal. Per the Magmar / Electabuzz wave 32-33 precedent: 1:1 mirror at N=2 (two species, two corpus cards), defer per-pair character node to N=3. Janitor triage wave-72-E3 entry on android-18 (1-anchor below threshold) is now half-completed by the mere act of drawing the mirror — no new node, no node-deferral revision needed; the wave-72 entry already states the per-character node ships at N>=1 ADDITIONAL Eighteen anchor, and BT2-089 + BT2-091 are still both 1 anchor each per character. The dyad-edge is a separate animal from the per-character-node trigger and clears cleanly without disturbing either.",
+  "citations": [
+    "[Dragon Ball Wiki: Android 17](https://dragonball.fandom.com/wiki/Android_17)",
+    "[Dragon Ball Wiki: Android 18](https://dragonball.fandom.com/wiki/Android_18)",
+    "Bandai DBS Card Game Union Force BT2, November 2017 — adjacent collector numbers BT2-089 / BT2-091 with mirrored Twin Brother / Twin Sister title templates",
+    "Both cards' own designer-coordinated-twin-dyad trivia bullets, independently authored"
+  ],
+  "files_modified": [
+    "cards/dragon-ball-super/union-force/bt2-089-twin-brother-android-17.md",
+    "cards/dragon-ball-super/union-force/bt2-091-twin-sister-android-18.md"
+  ],
+  "other_candidates_considered": [
+    "BT2-028 Majin Buu Revived stack-attach was already executed by wave 114 Edgelord; the BT2 Union Force batch's other unwired named-character cards (bt2-012 Vegito, bt2-018 Videl, bt2-061 Gowasu, bt2-115 Salza) remain unwired but each requires either node-density-threshold satisfaction or a fresh Mr. Nodeley pass — none are unwired anchors on an already-existing node like BT2-028 was, AND none have a clean 1:1 mirror partner like the twin androids do.",
+    "Single Strike mechanic cycle character/cycle node — 3 corpus anchors (BST-133 Scroll of Scorn + BST-139 Urn of Vitality + CRE-154 Scroll of Piercing) clears the N>=3 threshold and has been parked on the janitor wishlist since wave 16. The symbol-layer single-strike-emblem.md node already anchors the three cards via appears_on. A character/cycle character-layer node would be a structural sibling rather than a new edge, so it falls under Mr. Nodeley (not Edgelord) authority — flagged for the next Nodeley-mode pass.",
+    "Liliana Vess node wave 110 + wave 112 audit are already comprehensive at the 2-anchor-Story-Spotlight scope; Liliana's Triumph (WAR-98) is the canonical extension card but is not in corpus — no wireable edge until the CSV ingest brings it.",
+    "Saint/Heretic Church of Dusk pair (Vito + Elenda) — still 1 corpus anchor (Vito); Elenda the Dusk Rose not yet in inventory. Defer per wave-36 trigger condition.",
+    "Krillin <-> Android 18 character-to-character relation (the canonical Cell-Saga spares-Eighteen + post-Cell marriage arc) has 14+ Eighteen-reference body-prose mentions on the existing krillin.md node body but is parked behind 'defer character-to-character edge pending framework formalization' per the wave 71 krillin commission note. Same shape as the deferred jace<->liliana / chandra<->bolas / gideon<->liliana edges. Not Edgelord's call until the framework lands.",
+    "Future per-character solo nodes for Android 17 and Android 18 remain below the wave-72 N>=2-corpus-anchors-per-character threshold (each has 1 depiction in corpus). The twin-dyad mirror does NOT preempt the per-character nodes — when a second Android 18 or second Android 17 print lands via future CSV ingest, the per-character commission ships normally and this dyad mirror remains as the within-set designer-coordination edge alongside the character-layer attachment."
+  ],
+  "edgelord_mood": "sighed-but-mirrored"
+}

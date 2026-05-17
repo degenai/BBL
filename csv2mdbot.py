@@ -313,6 +313,31 @@ def collapse_zero(s: str) -> str:
         return s
 
 
+def yaml_safe_scalar(value: str) -> str:
+    """Render a value for a YAML scalar field, wrapping it in single quotes
+    when the raw value would break YAML parsing.
+
+    Triggers wrap on: a leading `"` (would open a double-quoted scalar that
+    closes mid-string and leaves trailing garbage), embedded `: `, leading
+    indicators (`#`, `&`, `*`, `!`, `|`, `>`, `%`, `@`, ``), or other YAML
+    flow characters that confuse Obsidian's frontmatter parser. Pattern
+    discovered wave 111: Bushiroad-style `\"<Modifier>\" <Character>` names
+    (e.g. `\"104th Cadet Corps Class\" Marco`) rendered as red invalid YAML."""
+    s = (value or "").strip()
+    if not s:
+        return ""
+    needs_wrap = (
+        s.startswith('"')
+        or ": " in s
+        or s[0] in "#&*!|>%@`"
+        or s.startswith("- ")
+    )
+    if not needs_wrap:
+        return s
+    escaped = s.replace("'", "''")
+    return f"'{escaped}'"
+
+
 NODE_TEMPLATE_HEAD = """---
 name: {name}
 game: {game}
@@ -335,7 +360,7 @@ date_added: {date_added}
 last_seen: {last_seen}
 ---
 
-# {name} ({set})
+# {body_name} ({body_set})
 """
 
 
@@ -344,10 +369,14 @@ def render_node(row: dict, price_col: str | None, price_date: str | None,
     qty = quantity_override if quantity_override is not None else int(row.get(COL_QTY) or 0)
     # For each persistent field, prefer the existing value from disk, fall back to default
     persisted = {k: persistent.get(k, PERSISTENT_DEFAULTS[k]) for k in PERSISTENT_FIELDS}
+    raw_name = row.get(COL_NAME, "").strip()
+    raw_set = canonical_set_name(row.get(COL_SET, "")).strip()
     body = NODE_TEMPLATE_HEAD.format(
-        name=row.get(COL_NAME, "").strip(),
+        name=yaml_safe_scalar(raw_name),
+        body_name=raw_name,
         game=row.get(COL_CATEGORY, "").strip(),
-        set=canonical_set_name(row.get(COL_SET, "")).strip(),
+        set=yaml_safe_scalar(raw_set),
+        body_set=raw_set,
         number=row.get(COL_NUMBER, "").strip(),
         rarity=row.get(COL_RARITY, "").strip(),
         variance=row.get(COL_VARIANCE, "").strip() or DEFAULT_VARIANCE,

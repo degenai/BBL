@@ -1,0 +1,41 @@
+{
+  "card_name": "Will-Forged Golem",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2015 (M15)",
+  "collector_number": "239",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Only printing; first appeared in Magic 2015 (M15, July 2014), the annual core set that introduced Convoke as a returning evergreen mechanic for the year. M15 was the first core set to prominently credit outside artists with individual card billing as a showcase format.",
+      "sources": ["Scryfall: Will-Forged Golem"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Convoke mechanic (each creature tapped while casting pays for 1 or one mana of its color) is self-referential with the flavor text: the casting mechanic enacts the assembly process, with your creatures participating in building the golem. EDHREC rank 25,108 — fringe Commander presence. Legal in Pauper and Paupercommander.",
+      "sources": ["Scryfall: oracle_text + flavor_text", "Scryfall: EDHREC rank 25,108"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The modular nature of the automaton's design makes assembly perfectly intuitive.\" — no named speaker.",
+      "sources": ["Scryfall: flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Jason Felix, a MTG artist with extensive work across multiple sets including numerous artifact and creature cards. No specific design commentary on this card has been located.",
+      "sources": ["Scryfall: artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Siege Wurm", "set": "Magic Origins", "note": "larger Convoke creature printed the following year in a similar core-set slot"},
+    {"name": "Stonewright", "set": "Avacyn Restored", "note": "Convoke-adjacent creature from the same era"},
+    {"name": "Sundering Vitae", "set": "War of the Spark", "note": "Convoke creature from a later set demonstrating the mechanic's persistence"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

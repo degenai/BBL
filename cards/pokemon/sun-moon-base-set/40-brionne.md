@@ -10,8 +10,24 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - ocean
+  - dancer
+  - bubbles
+  - water
+  - seal
+  - performance
+  - cute
+  - aquatic
+  - joy
+  - playful
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - no-face
+  - scene-mode
+  - anime-style
 reference_image: cards/_images/pokemon/sun-moon-base-set/40-brionne.png
 average_cost_paid: 0
 market_price: 0.28
@@ -32,6 +48,12 @@ artist: Saya Tsuruta
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: peaceful
+time_of_day: day
+setting: ocean
+suspected_ip: Brionne
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
@@ -41,12 +63,23 @@ tags:
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![40-brionne](../../_images/pokemon/sun-moon-base-set/40-brionne.png)
 
+> [!warning] Suspected IP: **Brionne** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
-**Subject:** 
+A round, light-blue seal-like creature with a white body and a prominent blue ruffled collar at its neck faces the viewer in a cheerful dancing pose. Several translucent blue water bubbles float around it, some at different sizes, evoking a performance or aquatic dance routine. The background is bright sky blue with hints of white cloud shapes and a warm ocean environment. The overall scene is light-hearted and expressive.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Subject:** Brionne, a seal-like aquatic Pokemon with a blue ruffled collar and round blue eyes, performing a dance with water bubbles
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** ocean, day, clear
+**Foreground:** Round seal-like creature with blue ruffled collar surrounded by floating water bubbles  *(palette: light blue, white, blue)*
+**Background:** Bright sky blue with cloud shapes and ocean tones  *(palette: sky blue, white, cyan)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** joyful, performative — open posture suggesting dance or play
+**Objects:** water bubbles
+**Creatures:** seal-like creature, aquatic pokemon
+**Iconography:** water bubbles, ruffled collar
+**Genre cues:** anime, fantasy
 

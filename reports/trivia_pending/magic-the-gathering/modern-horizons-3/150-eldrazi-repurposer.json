@@ -1,0 +1,47 @@
+{
+  "card_name": "Eldrazi Repurposer",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "150",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Only printing; from Modern Horizons 3 (MH3, June 2024), a directly-to-Modern supplemental set that returned the Eldrazi to prominence. MH3's Eldrazi suite reintroduced the Drone subtype and Devoid mechanic — design decisions marking Eldrazi as a distinct production-line faction with its own mechanical grammar.",
+      "sources": ["Scryfall: Eldrazi Repurposer"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Type line: Creature — Eldrazi Drone. Eldrazi Drones in MTG lore are the lowest-caste Eldrazi, extensions of the titan will that exist only to process and consume matter. The Repurposer name extends this: its specific job is to recycle what was consumed into mana-generating Spawn tokens.",
+      "sources": ["Scryfall: type_line; Eldrazi lore context from MTG design history"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"I almost admire their ability to avoid waste. Almost.\" — General Tazri, allied commander. Tazri is the legendary creature anchoring the Allied Commander deck archetype (see Tazri, Beacon of Unity, Zendikar Rising). The 'Almost' preserves the horror register.",
+      "sources": ["Scryfall: flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 8,623 — the highest Commander presence of any card in this bundle, reflecting MH3's 2024 release and the card's genuine utility. Pauper-legal at common. Double trigger (Spawn on cast AND on death) generates value in two directions, fitting artifact-sacrifice and colorless-mana strategies. Legal in Historic, Modern, Legacy, Commander, Pauper.",
+      "sources": ["Scryfall: EDHREC rank 8,623", "Scryfall: legalities"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Daren Bader, a MTG artist with decades of work including many creature cards across multiple blocks.",
+      "sources": ["Scryfall: artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Eldrazi Spawn tokens", "set": "BFZ/ROE/MH3", "note": "the 0/1 colorless tokens this card generates, produced by dozens of Eldrazi creatures"},
+    {"name": "General Tazri", "set": "Battle for Zendikar / Zendikar Rising", "note": "the flavor-text speaker; character arc spans the Zendikar Eldrazi conflict"},
+    {"name": "Ulamog, the Infinite Gyre", "set": "various", "note": "the Eldrazi titan whose faction the Drones serve"},
+    {"name": "Eldrazi Mimic", "set": "Oath of the Gatewatch", "note": "fellow Devoid Eldrazi in the colorless-matters design space"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "card_name": "Nadir Kraken",
+  "game": "Magic: The Gathering",
+  "set": "Commander: Streets of New Capenna",
+  "collector_number": "228",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Nadir Kraken originated in Theros Beyond Death (released 2020-01-24), a set themed around the Underworld of Theros — the realm below the mortal plane ruled by Erebos. The 'nadir' (lowest point) in the card name ties directly to the set's descent-into-death framing: the card's name is literal (krakens dwell in the deepest ocean) and puns on THB's Underworld theme. [Scryfall; WebSearch snippet: \"nadir means lowest point\"]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The Murders at Karlov Manor Commander (2024) printing carries flavor text: \"Meeting one is definitely the low point of your life.\" The pun — 'low point' echoing 'nadir' — is the card's signature wit. Earlier printings including the NCC copy in inventory have no flavor text. [Scryfall API: MKC/112]",
+      "sources": ["Scryfall API: MKC printing"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Nadir Kraken appears in 57,508 Commander decks tracked by EDHREC (EDHREC rank 2516), making it a widely played draw-reward creature. Its ability triggers on every draw — including opponents' draws in group-hug builds — and the optional {1} payment lets pilots modulate how much mana they sink into growth. The card generates both +1/+1 counters on itself AND 1/1 Tentacle tokens simultaneously, creating a self-scaling threat plus a token army from a single source. Commander Spellbook documents over 40 known infinite combos involving Nadir Kraken, pairing it with Ashnod's Altar and draw engines. [EDHREC meta description via WebSearch; Scryfall]",
+      "sources": ["EDHREC via WebSearch snippet", "Scryfall", "CommanderSpellbook.com via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Draftsim's ranking of all krakens in Magic places Nadir Kraken at number 9 out of 29, calling it 'perhaps the most value-oriented kraken in Magic.' The NCC copy in inventory is a reprint (originally THB); subsequent reprintings include March of the Machine Commander (2023), Murders at Karlov Manor Commander (2024), and Foundations Jumpstart (2024) — at least 8 total printings across paper and digital. Artist for this NCC printing is Dan Murayama Scott. [Draftsim: All 29 Krakens Ranked, via WebSearch; Scryfall: prints search]",
+      "sources": ["Draftsim via WebSearch", "Scryfall: prints search"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Nadir Kraken", "set": "Theros Beyond Death", "note": "Original printing (THB/55); extended art variant also exists (THB/305)"},
+    {"name": "Skullclamp", "set": "Darksteel", "note": "Appears in documented infinite draw loops with Nadir Kraken via Tentacle tokens"},
+    {"name": "Ashnod's Altar", "set": "various", "note": "Core piece in Nadir Kraken infinite combos per CommanderSpellbook"},
+    {"name": "Marneus Calgar", "set": "Warhammer 40K Commander", "note": "Appears in 54% of Nadir Kraken decks per EDHREC as a synergy commander"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "card_name": "Deathgaze (IX)",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-056R",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The card's own type line explicitly states 'IX' and 'Deathgaze' — a named enemy from Final Fantasy IX. The Visual description matches the canonical FFIX boss appearance: massive winged carapaced creature with tentacular appendages. Important localization note: in English releases, this creature was renamed 'Deathguise' to distinguish it from the FFVI creature of the same Japanese name ('Deathgaze'). FFTCG uses the unified Japanese-canonical name 'Deathgaze (IX)' across its card line. The identity is verified; the name-discrepancy is a localization artifact documented by the Final Fantasy Wiki.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "In Final Fantasy IX, this creature is called 'Deathguise' in the English localization — a deliberate rename to distinguish it from the FFVI creature of the same Japanese name, 'Deathgaze.' FFTCG standardizes on the Japanese-canonical name 'Deathgaze (IX)' with a game-suffix disambiguation tag. The Final Fantasy Wiki documents this split: both share an appearance as massive winged flying monsters associated with death, and the FFIX version is considered a tribute to the FFVI original.",
+      "sources": ["Final Fantasy Wiki: Deathguise (via WebSearch snippet)", "Final Fantasy Wiki: Deathgaze (via WebSearch snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Deathguise (Deathgaze IX) is one of the final boss sequence enemies in FFIX, fought in the Crystal World during Disc 4 — the third-to-last boss before Trance Kuja and Necron. It is summoned by Kuja as a last-ditch defense. Stats: 55,535 HP. Unless put to sleep before its first action, it opens with Meteor. Its two combat forms — wings open (physical) and wings closed (magical, including Level 5 Death) — make it a multi-phase threat.",
+      "sources": ["WebSearch: Deathgaze FFIX Crystal World Disc 4 boss stats", "WebSearch: Deathguise Final Fantasy Wiki"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Deathgaze (IX) 8-056R is a 3-cost Wind Monster in FFTCG. On entering the field, it removes one opposing Forward from the game for as long as Deathgaze remains on the field — a temporary exile effect. The FFTCG Crystarium Opus VIII review rated it 3.5/5, calling it 'stellar, efficient, unconditional removal' and noting it as 'one of the few clean answers to Ardyn and Cloud in the set.' It was also named as a key reason the Garland (IX) ability underperformed — Garland's dull-trigger does nothing against Monsters.",
+      "sources": ["FFTCG Crystarium: How to Win Limited Opus VIII Review"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Deathgaze (IX)'s exile-while-in-play mechanic creates recursive economy: opponents who remove Deathgaze by other means return the exiled Forward to play. The Crystarium review flagged this 'blowout potential' as the card's main risk: 'be careful if you hit something with a strong ETF or a big body.' It also synergizes with Veriaulde (8-062H), a Yuke Forward that returns a Wind Monster from the Break Zone on death — making the Deathgaze package a recurring engine.",
+      "sources": ["FFTCG Crystarium: How to Win Limited Opus VIII Review"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Veriaulde", "set": "Opus VIII", "note": "Wind Monster recursion synergy — Crystarium explicitly names this pair as threatening"},
+    {"name": "Garland (IX)", "set": "Opus VIII", "note": "Deathgaze's Monster type neutralizes Garland's dull-trigger ability, making them a counterplay pair"},
+    {"name": "Amarant", "set": "Opus VIII", "note": "One of the few ways in the set to answer 3-cost monsters like Deathgaze per Crystarium review"},
+    {"name": "Deathgaze (FFVI)", "set": "Multiple", "note": "FFVI original sharing the Japanese name; FFTCG adds (IX) suffix to disambiguate"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Deathgaze (Final Fantasy IX)",
+    "ip_confidence": "high"
+  }
+}

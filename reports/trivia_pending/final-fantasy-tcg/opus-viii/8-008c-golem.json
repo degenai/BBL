@@ -1,0 +1,41 @@
+{
+  "card_name": "Golem",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-008C",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Opus VIII (2019) is the eighth FFTCG booster set by Square Enix. Featured Crystal Chronicles with original art commissioned from Yasuhisa Izumizawa. Card 8-008C Golem is among those Crystal Chronicles entries.",
+      "sources": ["Square Enix FFTCG: Opus VIII release page via WebSearch snippet", "tradingcardsets.com/blogs/news/final-fantasy-tcg-opus-viii-complete-guide via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Golem depicted is from Final Fantasy Crystal Chronicles: Echoes of Time (Square Enix, 2009), a multiplayer action-RPG for DS and Wii. In that game the Golem is an earth-element enemy type — slow, heavily armored, a guardian of specific dungeon areas. The squat silhouette, mask-face, and geometric patterning are consistent with FFCC:EoT's Golem visual design.",
+      "sources": ["WebSearch snippet: FFTCG Opus VIII Complete Collection; tradingcardsets.com"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Reported card ability: when Golem enters the field, choose a Forward and give it +2000 power until end of turn; also may be put in the Break Zone to stop a Forward from attacking. The mechanical role in the TCG mirrors its source game role: a temporary defensive obstacle.",
+      "sources": ["WebSearch snippet: bigorbitcards.co.uk / superelf-cards.de listings"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Golem creature type has appeared in virtually every numbered Final Fantasy entry since the original NES game. As a named common in FFTCG, this card occupies the same mass-produced design slot the creature always holds in the series' enemy rosters: a guardian you encounter, not a companion you develop.",
+      "sources": ["Final Fantasy Wiki: Final Fantasy Trading Card Game via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Moogle (various Opus sets)", "set": "FFTCG various", "note": "recurring FFTCG common creature type across multiple Opus sets, analogous slot"},
+    {"name": "Behemoth (various Opus sets)", "set": "FFTCG various", "note": "another Final Fantasy bestiary staple recurring across FFTCG sets"},
+    {"name": "Crystal Chronicles characters (Opus VIII)", "set": "Opus VIII", "note": "broader Crystal Chronicles card subset, this Golem is the common-rarity creature entry"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

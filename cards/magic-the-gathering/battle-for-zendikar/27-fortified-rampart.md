@@ -73,3 +73,16 @@ The foreground shows the base of a tall wooden palisade fortification wall. Circ
 **Iconography:** shields, fortification
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set / lore context** — Battle for Zendikar (set code BFZ) released October 2, 2015, the first set in a two-set block continuing the Eldrazi invasion story begun in Rise of the Eldrazi (2010). By the time of BFZ, the Eldrazi titans Ulamog and Kozilek have manifested physically on Zendikar and their brood lineages — the "lesser Eldrazi" referenced in the flavor text — are scouring the plane. The flavor text is explicitly a training context: fortress defenders deliberately expose new recruits to lesser Eldrazi at close range to harden them psychologically for the larger titans `[Scryfall flavor_text; WebSearch: magic.wizards.com/en/news/magic-story/battle-zendikar-story-summary-2015-12-23]`
+- **Flavor text** — "The refuge's defenses allow new recruits to see lesser Eldrazi up close, steeling their stomachs for what's to come." `[Scryfall]`
+- **Design** — Illustrated by David Gaillet. As a {1}{W} creature with 0/6 Defender, Fortified Rampart is the archetypal white Wall: maximum toughness, zero offense, minimal mana. The 0/6 stat line makes it one of the sturdiest 2-mana walls in Magic, surviving hits from most ground creatures in limited `[Scryfall]`
+- **Mechanical reputation** — EDHREC rank 9,328 as of May 2026. It sees niche play in Arcades, the Strategist Commander decks (Arcades gives all Walls with Defender power equal to their toughness, turning the 0/6 into a 6/6 attacker) and in Wall tribal / defender-matters strategies. In BFZ limited it was a reliable speed-bump against the ground assault `[Scryfall EDHREC rank; WebSearch: EDHREC Arcades commander context]`
+- **Format legality** — Legal in Pioneer, Modern, Legacy, Pauper, and Paupercommander; not legal in Historic or Standard as of May 2026 `[Scryfall legalities]`
+
+### Related cards
+- Arcades, the Strategist (Core Set 2019) — primary Commander for Wall/Defender builds; turns this card's 0/6 into an attacker
+- Wall of Omens (Rise of the Eldrazi) — similar 2-mana white Wall with card draw instead of raw toughness
+- Stalwart Shield-Bearers (Rise of the Eldrazi) — thematic predecessor Wall from the same Eldrazi-era Zendikar story
+- Eldrazi Scion tokens — the creature type partially visible in the art's foreground; the small Eldrazi at the wall's base

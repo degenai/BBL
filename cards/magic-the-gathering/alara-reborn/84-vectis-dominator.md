@@ -2,7 +2,7 @@
 name: Vectis Dominator
 game: "Magic: The Gathering"
 set: Alara Reborn
-collector_number: 
+collector_number: 84
 rarity: C
 variance: Normal
 grade: Ungraded
@@ -67,3 +67,14 @@ A wizard in dark blue-black robes and ornate plated armor stands small but centr
 **Creatures:** dormant construct/colossus
 **Genre cues:** fantasy, painterly, high-fantasy
 
+## Trivia
+
+- **Set context** — Alara Reborn (released 2009-04-30) is the only set in Magic history in which every non-land card is multicolored — a design decision representing the five sundered Shards of Alara crashing together in the Conflux. Vectis Dominator's white-black gold frame is part of this all-multicolor card file. `[LuckyPaper: "Alara Reborn: A Retro Design Review," via WebSearch snippet; MTG Wiki: Alara Reborn, via WebSearch snippet; Scryfall]`
+- **Set-lore** — Vectis is Esper's largest human fortification, built on soaring etherium spires on the shore of the Sea of Unknowing. During the Conflux it was briefly conquered by Grixis forces before being reclaimed. Cards with the "Vectis" name denote Esper's metropolitan power center and the human mage class that governs it. `[MTG Wiki: Esper, via WebSearch snippet; MTG Salvation: World of Alara, via WebSearch snippet]`
+- **Flavor text** — "I appreciate the artistry of the telemins, but the creatures of the other worlds provide a much more dramatic performance." — Ennor, mentalist. `[Scryfall]` The "telemins" are telepath-controlled automata native to Esper's etherium culture — puppets operated by Esper's vedalken and human mentalists. The Conflux's arrival of creatures from other shards offers Ennor more "dramatic" subjects to dominate than Esper's own constructs. `[WebSearch snippet: Esper lore]`
+- **Mechanical reputation** — The tap-or-pay-2-life ability taxes opponents in life rather than mana, creating ongoing attrition. EDHREC rank 28,206 and sole printing; Pauper-legal but rarely seen in competitive lists. `[Scryfall: edhrec_rank: 28206, reprint: false]`
+
+### Related cards
+- Vectis Silencers (Shards of Alara) — earlier Vectis-city card; establishes Esper's human rogue faction
+- Sen Triplets (Alara Reborn) — Esper's most famous WUB artifact creature from the same set; shares the psychic-dominance theme
+- Sphinx of the Steel Wind (Alara Reborn) — iconic Esper artifact creature, same set, same WUB color identity

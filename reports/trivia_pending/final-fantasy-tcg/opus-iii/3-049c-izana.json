@@ -1,0 +1,42 @@
+{
+  "card_name": "Izana",
+  "game": "Final Fantasy TCG",
+  "set": "Opus III",
+  "collector_number": "3-049C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Izana' matches the named character Izana Kunagiri from Final Fantasy Type-0 exactly. Card job is 'Dominion Legionary' matching his in-game role. Card ability searches for a Chocobo card on entry, directly referencing his canonical chocobo Chichiri. Category is Type-0. All four evidence criteria met: oracle-equivalent ability text, job title, category tag, and character name on card.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Izana (3-049C) was released in the Opus III Collection (July 21, 2017), the FFTCG set that introduced Final Fantasy Type-0 as a featured category alongside FF IX and FF XIV. A dedicated Final Fantasy TYPE-0 Starter Set released alongside Opus III, covering Lightning and Wind elements. [Square Enix FFTCG Opus III release page, via WebSearch snippet]",
+      "sources": ["Square Enix FFTCG Opus III page (fftcg.square-enix-games.com/en/release/opus-iii)", "tradingcardsets.com Opus III guide, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Izana Kunagiri is Machina Kunagiri's elder brother by four years and a Rubrum Dominion Legionary who served as keeper of the Peristylium chocobo pens and a close friend of Ace (Class Zero). His card ability — searching for a Chocobo card on entering the field — directly encodes his canonical role: he rides his chocobo Chichiri on a mission to deliver a COMM to the cadets, succeeds, and then perishes from wounds with Chichiri refusing to leave his side. [Final Fantasy Wiki: Izana Kunagiri, via WebSearch snippet]",
+      "sources": ["finalfantasy.fandom.com/wiki/Izana_Kunagiri, via WebSearch snippet", "finalfantasy.neoseeker.com/wiki/Izana_Kunagiri, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Type-0's central mechanic — the Crystals of Orience erasing the memories of the dead from all living people — means Machina Kunagiri loses all memory of Izana after his death, and his resentment toward Class Zero is rooted in grief he can no longer consciously access. Izana's FFTCG card is one of the few material traces of a character who, by design, cannot be remembered. [Final Fantasy Wiki: Final Fantasy Type-0 story, via WebSearch snippet]",
+      "sources": ["finalfantasy.fandom.com/wiki/Final_Fantasy_Type-0_story, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanically, Izana is a Wind element Forward with 5000 Power at 2 CP cost, Job: Dominion Legionary, Category: Type-0. His on-entry ability tutors any card with the Job: Chocobo or Card Name: Chocobo from the deck to hand — a tight reference to his source-material role as a chocobo breeder and rider that also functions as practical ramp in Type-0 Wind strategies. [fftcgmognet.com card listing 3-049C, via WebSearch snippet]",
+      "sources": ["fftcgmognet.com/card/3-049C, via WebSearch snippet", "categoryonegames.com buylist listing, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Machina", "set": "Opus III or adjacent", "note": "Izana's younger brother and main playable character in Type-0; the memory-erasure narrative connects them"},
+    {"name": "Ace", "set": "Opus III", "note": "Class Zero cadet who reaches Izana in his dying moments; central to Izana's story beat"},
+    {"name": "Chocobo (Type-0)", "set": "Opus III", "note": "Izana's on-entry ability searches for Job Chocobo or Card Name Chocobo — direct mechanical reference"},
+    {"name": "Class Zero Leader", "set": "Opus III", "note": "Class Zero as a category anchors Izana's narrative context in Opus III"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Izana (Final Fantasy Type-0)",
+    "ip_confidence": "high"
+  }
+}

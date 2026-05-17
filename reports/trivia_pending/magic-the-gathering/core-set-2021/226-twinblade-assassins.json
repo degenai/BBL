@@ -1,0 +1,46 @@
+{
+  "card_name": "Twinblade Assassins",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "226",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The flavor text places these two killers within Ravnica's Golgari Swarm: the Ochran are the guild's internal assassin cult, described as Devkarin elves specializing in poison who operate out of the Undercity and were historically led by Vraska before she rose to guild leadership. The 'Left and Right Hands' framing implies these are the Ochran's highest-ranking operatives — titles rather than names.",
+      "sources": ["Scryfall flavor_text", "WebSearch: Golgari Swarm lore via mtgsalvation.com"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Rumors swirl of a pair of deadly Golgari assassins known only as the Left and Right Hands of the Ochran.\"",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Campbell White. The card is typed as Creature — Elf Assassin and carries a 5/4 body for {3}{B}{G} — above rate for its converted mana cost — with a conditional card-draw trigger (a creature dying on your end step). This makes it a value engine in sacrifice-based black-green shells rather than a pure aggro piece.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 14,330 as of May 2026, placing it in the lower tier of Commander inclusions. Its trigger requires a creature to die during your end step (not combat), rewarding dedicated sacrifice loops but doing little in midrange goodstuff piles without that engine support.",
+      "sources": ["Scryfall EDHREC rank"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Ochran are also named on Ochran Assassin (Guilds of Ravnica, GRN card no. 194), a {1}{B}{G} Elf Assassin with deathtouch that forces all blockers to block it — a different mechanical expression of the same assassin identity.",
+      "sources": ["Scryfall: GRN/194"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ochran Assassin", "set": "Guilds of Ravnica", "note": "Same Ochran assassin guild; creature type and flavor text directly linked"},
+    {"name": "Vraska, Relic Seeker", "set": "Ixalan", "note": "Vraska was canonically the former leader of the Ochran before becoming Golgari guildmaster"},
+    {"name": "Golgari Grave-Troll", "set": "Ravnica", "note": "Archetypal Golgari death-and-regrowth engine; same guild and graveyard-value identity as Twinblade's trigger"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Expedition Envoy",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "24",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Expedition Envoy is from Battle for Zendikar (released 2015-10-02), the first set of the Zendikar vs. Eldrazi block. The set depicts Zendikar's mortal factions — including Kor, Merfolk, Humans, Elves, and Vampires — mounting a desperate resistance against the awakened Eldrazi titans Ulamog and Kozilek. Expedition houses are the organized adventuring guilds that explored Zendikar's ever-shifting terrain; the Eldrazi's emergence transformed their mission from treasure-hunting to survival. [Scryfall; card flavor text: \"The unofficial motto of every expedition house is 'ready for anything,' a phrase whose significance has been amplified since the emergence of the Eldrazi.\"]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Type line: Creature — Human Scout Ally. The Ally subtype is mechanically load-bearing in BFZ — Allies trigger rally abilities when other Allies enter the battlefield. Expedition Envoy has no oracle text (it is a vanilla 2/1 for one white mana), meaning it contributes solely as an Ally trigger and aggressive body. ChannelFireball's BFZ constructed review noted it as a reliable early attacker in Ally-tribal aggro and White Weenie, rating it useful if the Ally theme cohered in Standard. [Scryfall; ChannelFireball BFZ White Constructed Review, via WebSearch snippet]",
+      "sources": ["Scryfall", "ChannelFireball BFZ Constructed Review White via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "First and only printing (no reprints as of Scryfall records). Artist: David Palumbo. EDHREC rank 17976, reflecting minimal Commander play — vanilla 2/1s rarely earn Commander slots even in Ally tribal builds, where the rally trigger count matters more than the individual body's stats. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"The unofficial motto of every expedition house is 'ready for anything,' a phrase whose significance has been amplified since the emergence of the Eldrazi.\" No speaker is named — the flavor text is written as anonymous faction doctrine, reflecting the collective voice of expedition culture rather than any single character. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ally Encampment", "set": "Battle for Zendikar", "note": "Land that supports Ally tribal synergy in the same set"},
+    {"name": "Harabaz Druid", "set": "Worldwake", "note": "Original Zendikar-era Ally that defined the rally engine Expedition Envoy feeds"},
+    {"name": "Kor Bladewhirl", "set": "Battle for Zendikar", "note": "Same Kor-adjacent BFZ Ally package, first-strike support for early aggro"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

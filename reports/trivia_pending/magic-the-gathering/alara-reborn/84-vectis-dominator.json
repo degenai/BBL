@@ -1,0 +1,42 @@
+{
+  "card_name": "Vectis Dominator",
+  "game": "Magic: The Gathering",
+  "set": "Alara Reborn",
+  "collector_number": "84",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Alara Reborn (April 2009) is the only set in Magic history in which every non-land card is multicolored — a deliberate design to represent the five sundered Shards of Alara crashing together during the Conflux. Vectis Dominator's white-black gold frame is part of this all-multicolor card file. [WebSearch snippet: LuckyPaper 'Alara Reborn: A Retro Design Review'; MTG Wiki: Alara Reborn, via WebSearch snippet; Scryfall: set: arb, released_at: 2009-04-30]",
+      "sources": ["LuckyPaper, via WebSearch snippet", "MTG Wiki, via WebSearch snippet", "Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Vectis is Esper's largest human fortification — a city built on soaring spires of etherium on the shore of the Sea of Unknowing. During the Conflux, Vectis was briefly conquered by Grixis forces before being reclaimed. Cards named 'Vectis' denote Esper's metropolitan power center and the human mages who control it. [WebSearch snippet: MTG Wiki Esper page; WebSearch snippet: MTG Salvation 'World of Alara Part I']",
+      "sources": ["MTG Wiki: Esper, via WebSearch snippet", "MTG Salvation: World of Alara, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"I appreciate the artistry of the telemins, but the creatures of the other worlds provide a much more dramatic performance.\" — Ennor, mentalist. The 'telemins' reference the teleminds or telepath-controlled automata native to Esper's etherium culture — puppets operated by Esper's vedalken and human mentalists. The Conflux's arrival of creatures from Grixis, Bant, Naya, and Jund offers Ennor more 'dramatic' subjects to dominate than Esper's own constructs. [Scryfall; WebSearch snippet on Esper mentalist culture]",
+      "sources": ["Scryfall", "WebSearch snippet: Esper lore"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Vectis Dominator's tap ability — 'tap target creature unless its controller pays 2 life' — is a pressure tool that taxes opponents in life rather than mana. EDHREC rank 28,206 puts it in the deep long tail. Pauper-legal (common) but rarely seen in competitive lists. Notably this is its only printing. [Scryfall: edhrec_rank: 28206, rarity: common, reprint: false]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Vectis Silencers", "set": "Shards of Alara", "note": "Earlier Vectis-city card; establishes the human rogue faction within Esper's power structure"},
+    {"name": "Sphinx of the Steel Wind", "set": "Alara Reborn", "note": "Iconic Esper artifact creature from the same set; same WUB color identity"},
+    {"name": "Teleminable", "set": "N/A", "note": "The 'telemins' in flavor text suggest a category of Esper automata controlled by mentalists — potentially represented across Esper-block artifact creatures"},
+    {"name": "Sen Triplets", "set": "Alara Reborn", "note": "Esper's most famous WUB artifact creature from same set; shares the psychic-dominance theme of Vectis Dominator"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

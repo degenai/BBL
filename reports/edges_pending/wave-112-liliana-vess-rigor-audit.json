@@ -1,0 +1,26 @@
+{
+  "edge_id": "wave-112-liliana-vess-rigor-audit",
+  "shape": "rigor-audit",
+  "category": "node-rigor-audit",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/liliana-vess.md", "name": "Liliana Vess"}
+  ],
+  "description": "Primary wave-112 move (WAR-14 multi-attach to liliana-vess) was already landed by a prior pass — both card frontmatter (WAR-14 characters: [gideon-jura, liliana-vess]) and node-side appears_on + body inline-citation are in place. Audit caught the actual remaining drift: two caveat bullets in liliana-vess.md documented in-flight work ('is being updated as part of this Mr. Nodeley pass' / 'Updated as part of this pass') that has shipped. Caveats rewritten as steady-state observations. Despark side spot-checked clean (characters: [nicol-bolas, liliana-vess] present). Comic-Book-Guy verdict: worst pending move ever — it had already happened. Rigor-audit caught the stale prose nobody else was looking at.",
+  "citations": [
+    "[Scryfall: flavor_text on WAR-14]",
+    "[Scryfall: flavor_text on WAR-190]",
+    "[bbl-edgelord-node-rigor-audit memory]"
+  ],
+  "files_modified": [
+    "cards/_characters/liliana-vess.md"
+  ],
+  "edges_added": [],
+  "edges_removed": [],
+  "topology": "stack",
+  "edgelord_mood": "enlightened-corrective",
+  "other_candidates_considered": [
+    "gideon-jura rigor audit (deferred — node clean on spot-check; no drift artifacts found in 5-min scan of caveat block and appears_on)",
+    "Sarkhan Vol watch update (triage future-node trigger not yet logged; defer to a non-Edgelord pass — janitor_triage.md owns watch entries, not character-node Edgelord work)",
+    "Despark side rewire (already clean — no work to do)"
+  ]
+}
