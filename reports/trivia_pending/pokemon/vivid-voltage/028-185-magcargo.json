@@ -1,0 +1,41 @@
+{
+  "card_name": "Magcargo",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "028/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "PokemonTCG.io API confirms card id=swsh4-28, name='Magcargo', nationalPokedexNumbers=[219]. The depicted figure is canonically Magcargo, National Pokedex no. 219, a Fire/Rock-type Pokemon introduced in Generation II. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "This card is from the Sword & Shield — Vivid Voltage set (set code swsh4), released 2020-11-13, the fourth main Sword & Shield expansion. Magcargo appears as an Uncommon (no. 028/185) in the set's Fire-type slot. [PokemonTCG.io API: swsh4-28]",
+      "sources": ["PokemonTCG.io API (api.pokemontcg.io/v2/cards/swsh4-28)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Its body is as hot as lava and is always billowing. Flames will occasionally burst from its shell.\" The card flavor is a mild statement compared to the famous Pokedex temperature claim: Magcargo's body temperature across multiple Pokedex entries (notably Pokemon Sapphire) is cited as approximately 18,000 degrees Fahrenheit (10,000 degrees Celsius) — roughly twice the surface temperature of the sun (~9,940 F / 5,504 C). This discrepancy has been a recurring community meme and subject of mock-scientific analysis across online Pokémon communities. [PokemonTCG.io API: swsh4-28 for flavor text; WebSearch: Magcargo body temperature Pokedex entries]",
+      "sources": ["PokemonTCG.io API (api.pokemontcg.io/v2/cards/swsh4-28)", "WebSearch: GameFAQs Magcargo temperature thread", "WebSearch: Quora Magcargo temperature analysis"]
+    },
+    {
+      "category": "design",
+      "text": "Magcargo (National Pokedex no. 219) is a dual Fire/Rock-type introduced in Generation II (Gold/Silver). It evolves from Slugma starting at level 38. Magcargo is described as a gastropod mollusk whose shell is composed of hardened, brittle magma — the shell can shatter on contact but Magcargo can regenerate by submerging in lava. It has been found in mountainous and volcanic regions in the games, consistent with this card's volcanic art setting. [WebSearch: Magcargo Pokedex, Bulbapedia via WebSearch snippet]",
+      "sources": ["WebSearch snippet: Bulbapedia Magcargo entry (via WebSearch)", "WebSearch snippet: pokemon.com Magcargo Pokedex page"]
+    },
+    {
+      "category": "mechanical",
+      "text": "This print is a Stage 1 Fire-type with 130 HP. Heat Blast (3 energy: Fire + 2 Colorless) deals 60 damage. Bright Flame (4 energy: 2 Fire + 2 Colorless) deals 180 damage with the cost of discarding 2 Energy from Magcargo — a high-ceiling attack that punishes aggressive use. The card carries Regulation Mark D (Sword & Shield era Standard). Magcargo has a Water-type weakness (x2), consistent with its Fire/Rock typing. [PokemonTCG.io API: swsh4-28]",
+      "sources": ["PokemonTCG.io API (api.pokemontcg.io/v2/cards/swsh4-28)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Slugma", "set": "various", "note": "Pre-evolution of Magcargo; a pure Fire-type lava slug required to evolve into Magcargo"},
+    {"name": "Slugma (Vivid Voltage)", "set": "Vivid Voltage (swsh4)", "note": "Likely appears in the same set as the pre-evolution for this line"},
+    {"name": "Magcargo (other prints)", "set": "various", "note": "Magcargo has appeared across multiple generations of the TCG; Gen II original through Sword & Shield reprints"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Magcargo",
+    "ip_confidence": "high"
+  }
+}

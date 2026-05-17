@@ -10,8 +10,24 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - ocean
+  - water
+  - beach
+  - seal
+  - cute
+  - blue
+  - tropical
+  - youth
+  - playful
+  - creature
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - creature-card
+  - water-type
+  - basic-pokemon
 reference_image: cards/_images/pokemon/sun-moon-base-set/39-popplio.png
 average_cost_paid: 0
 market_price: 0.26
@@ -32,6 +48,12 @@ artist: Kouki Saitou
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: peaceful
+time_of_day: day
+setting: ocean
+suspected_ip: Popplio (Pokemon)
+ip_confidence: high
+ip_verified: true
 tags:
   - card
   - pokemon
@@ -43,12 +65,32 @@ tags:
 
 ![39-popplio](../../_images/pokemon/sun-moon-base-set/39-popplio.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+> [!note] IP verified: **Popplio (Pokemon)**
+> Confirmed via PokemonTCG.io API (card ID sm1-39, name: "Popplio", National Pokedex no. 728).
 
+A small blue seal-like Pokemon creature stands in shallow ocean water with waves splashing around its feet. It has a rounded blue body, a white ruffled collar around its neck, and a pink/salmon-colored snout. The background shows a tropical beach setting with palm fronds visible in the upper left and a bright daytime sky with light clouds. Water mist and spray give the scene an energetic, playful mood. The creature faces mostly toward the viewer with a cheerful expression.
 
-**Subject:** 
+**Subject:** Popplio, a small blue seal-like Water-type Pokemon with a white ruff collar, playing in ocean surf
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** ocean, day, clear
+**Foreground:** Popplio — small blue seal Pokemon with white ruff collar, standing in ocean surf  *(palette: blue, white, pink)*
+**Background:** tropical beach with ocean, palm fronds, bright sky  *(palette: sky-blue, white, green, teal)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** cheerful, playful; open posture toward viewer
+**Creatures:** seal, popplio
+**Genre cues:** anime
+
+## Trivia
+
+- **Set context** — Popplio (National Pokedex no. 728) is the Water-type First Partner Pokemon of Alola, introduced in Pokemon Sun & Moon (2016). It is one of three Alola starters alongside Rowlet and Litten. It evolves into Brionne at level 17 and Primarina at level 34, gaining Fairy as a second type — making Primarina the only Alola starter final evolution with a dual typing. `[PokemonTCG.io API sm1-39; pokemondb.net, via WebSearch snippet]`
+- **Flavor text** — "This Pokemon snorts body fluids from its nose, blowing balloons to smash into its foes. It's famous for being a hard worker." `[PokemonTCG.io API sm1-39]`
+- **Community sentiment** — Popplio was the least popular Alola starter at its 2016 reveal: a Pokemon Company International Twitter poll gave it only 21% of votes, finishing last behind Rowlet and Litten. A 'Popplio Defense Squad' formed online in response to the backlash, and Game Freak developers acknowledged the initial negative reception in a press interview that year. Primarina's final design largely rehabilitated the evolution line's reputation. Community sentiment on this reception is widely documented as one of the more notable starter-controversy moments of the modern era. `[Kotaku: "Pour One Out For Popplio" (2016); nintendoeverything.com: devs on Popplio backlash, via WebSearch snippets]`
+- **Design** — This sm1 print released February 3, 2017. Artist is Kouki Saitou. Card no. 39 of 149 printed cards, Common rarity, HP 70, Grass weakness x2, 1 Colorless retreat cost. `[PokemonTCG.io API sm1-39]`
+
+### Related cards
+- Brionne (Sun & Moon Base Set) — Stage 1 evolution of Popplio
+- Primarina (Sun & Moon Base Set) — Stage 2 final evolution; Water/Fairy-type
+- Rowlet (Sun & Moon Base Set) — Grass-type Alola First Partner, sm1 trio
+- Litten (Sun & Moon Base Set) — Fire-type Alola First Partner, sm1 trio
 

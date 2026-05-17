@@ -1,0 +1,88 @@
+{
+  "wave": 100,
+  "edge_id": "keiji-kinebuchi-artist-node-commission",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "artist-layer-commission",
+  "node_proposed": {
+    "type": "artist",
+    "path": "cards/_artists/keiji-kinebuchi.md",
+    "name": "Keiji Kinebuchi",
+    "universe": "Pokemon",
+    "lifespan": "1956-2002",
+    "posthumous_reprints": true,
+    "anchor_count": 9
+  },
+  "endpoints_attached": [
+    {"type": "card", "path": "cards/pokemon/evolutions/6-108-kakuna.md", "name": "Kakuna (Evolutions)"},
+    {"type": "card", "path": "cards/pokemon/evolutions/39-108-voltorb.md", "name": "Voltorb (Evolutions)"},
+    {"type": "card", "path": "cards/pokemon/evolutions/47-108-gastly.md", "name": "Gastly (Evolutions)"},
+    {"type": "card", "path": "cards/pokemon/evolutions/55-108-diglett.md", "name": "Diglett (Evolutions)"},
+    {"type": "card", "path": "cards/pokemon/evolutions/77-108-energy-retrieval.md", "name": "Energy Retrieval (Evolutions)"},
+    {"type": "card", "path": "cards/pokemon/evolutions/78-108-full-heal.md", "name": "Full Heal (Evolutions)"},
+    {"type": "card", "path": "cards/pokemon/evolutions/83-108-potion.md", "name": "Potion (Evolutions)"},
+    {"type": "card", "path": "cards/pokemon/evolutions/87-108-super-potion.md", "name": "Super Potion (Evolutions)"},
+    {"type": "card", "path": "cards/pokemon/evolutions/90-108-double-colorless-energy.md", "name": "Double Colorless Energy (Evolutions)"}
+  ],
+  "description": "S-sir, Edgelord stepped aside because the candidate-set I surveyed had nine Pokemon cards all sharing one absent center — a deceased illustrator whose original 1999 Base Set art was reissued posthumously in the Evolutions 20th-anniversary set, and the corpus had no node to anchor that around. Mr. Nodeley apologizes for proposing instead of edging. The Sakuma precedent (5-credit threshold) is exceeded almost twofold here, and the posthumous-reprint signal is the first instance of its kind in the artist layer — felt load-bearing, sir. If it's too much, the node can be reverted; the per-card frontmatter requires no edits because the existing `artist: Keiji Kinebuchi` stamps already serve as the link-identifier per the bbl-artists-layer-built memory's render-time-resolution pattern.",
+  "thesis": "Nine in-corpus Pokemon TCG prints credited to Keiji Kinebuchi (1956-2002) cluster within the Evolutions set (XY12, 2016), which is canonically an explicit 20th-anniversary tribute reissuing original 1999 Base Set art. The Kinebuchi cluster (4 creatures + 5 trainer/energy cards) is the largest single-artist posthumous-tribute cluster within Evolutions, encoding a specific Wizards/Pokemon Company curatorial gesture — honoring a deceased illustrator by carrying his original 3D-CG renderings forward into the anniversary set. The node anchors this gesture at the graph level and provides bundle-anchor potential for any future Discrete Lair on memorial-curation, franchise-illustration-tradition, or original-era-art-preservation thematics.",
+  "citations": [
+    "[Bulbapedia: Keiji Kinebuchi] — biographical data (1956-2002 lifespan, original-era 3D-CG illustration tradition)",
+    "[pokemonaaah.net — Keiji Kinebuchi] — secondary biographical reference",
+    "[PokemonTCG.io API: xy12-* per-card pages] — primary source for the nine corpus credits",
+    "cards/pokemon/evolutions/47-108-gastly.md — in-corpus trivia entry (wave 100) primary anchor for biographical data"
+  ],
+  "files_modified": [
+    "cards/_artists/keiji-kinebuchi.md"
+  ],
+  "files_unchanged_by_design": [
+    "cards/pokemon/evolutions/6-108-kakuna.md",
+    "cards/pokemon/evolutions/39-108-voltorb.md",
+    "cards/pokemon/evolutions/47-108-gastly.md",
+    "cards/pokemon/evolutions/55-108-diglett.md",
+    "cards/pokemon/evolutions/77-108-energy-retrieval.md",
+    "cards/pokemon/evolutions/78-108-full-heal.md",
+    "cards/pokemon/evolutions/83-108-potion.md",
+    "cards/pokemon/evolutions/87-108-super-potion.md",
+    "cards/pokemon/evolutions/90-108-double-colorless-energy.md"
+  ],
+  "files_unchanged_rationale": "Per the bbl-artists-layer-built memory, cards carry an `artist: <stamped credit>` field as captured from PokemonTCG.io; the canonical artist-node `appears_on:` list is the authoritative bidirectional pointer, and artist_resolve.py maps stamped credits to canonical-name nodes at render time. No `artists:` array exists at the card-frontmatter scope, parallel to the kirisaki / kagemaru-himeno / sanosuke-sakuma / dan-murayama-scott artist-layer precedents. The nine cards' existing `artist: Keiji Kinebuchi` stamps already serve as the link-identifier and require no edits.",
+  "potion_rule_check": {
+    "passed": true,
+    "rationale": "Node body cites Bulbapedia + pokemonaaah.net for the biographical claim (Kinebuchi 1956-2002, original-era 3D-CG illustrator, Aquapolis-era career endpoint), cites PokemonTCG.io for the per-card artist credits, and cites in-corpus GAS-047 wave 100 trivia as the load-bearing biographical anchor. The Evolutions-as-20th-anniversary-tribute conceit is canonical at the set-design level (Wizards/Pokemon Company press materials surfaced during the wave 100 Gastly trivia pass). No BBL-squinting overlays present in the node body. The memorial-curation thesis lever for future bundle-copy use is flagged in the Bundle-anchor potential section, marked as a future Discrete Lair frame, not as a canonical claim. The labor-hub attribution is explicitly declined in the Bundle-anchor potential section per the Potion Rule sub-rule 2 (no canonical evidence ties Kinebuchi's biography to a labor-hub thesis the way Sakuma's cross-medium NPC-design portfolio does)."
+  },
+  "wave_92_5_yaml_check": {
+    "block_form_lists": true,
+    "tags_last": true,
+    "notes": "appears_on uses block form, tags appears as the final frontmatter key, no inline-flow lists used."
+  },
+  "edgelord_mood": "nodeley-apologetic-but-correct",
+  "next_pass_suggestions": [
+    {
+      "candidate": "Mob Psycho 100 cohort node (spirits-and-such or kageyama-brothers)",
+      "rationale": "41 Mob Psycho cards exist in corpus (weiss-schwarz/mob-psycho-100/); only 4 are enriched per wave 100. Premature for a Nodeley pass — the cohort needs at least 8-10 enriched cards to surface the right sub-cohort cut (spirits-and-such-employees vs kageyama-brothers vs psycho-helmet-cult vs claw-organization). Stage for wave 105+ after another 2-3 enrichment passes through the Mob Psycho corpus.",
+      "trigger_condition": "when >= 8 Mob Psycho cards are vision+trivia passed"
+    },
+    {
+      "candidate": "Whis attach to destroyer-god-attendant-dyad",
+      "rationale": "Wave 100 trivia confirmed Whis is Vados's brother (cross-references wave 95 Vados trivia). The destroyer-god-attendant-dyad node already lists Whis in appears_on (bt1-043-whis-judge-of-the-gods) so the structural attach is in place. Check whether BT1-043 frontmatter has `characters: [destroyer-god-attendant-dyad]` stamped — if missing, a clerical wave-98-style attach pass would close the loop. Mechanical, low-yield.",
+      "trigger_condition": "next mechanical-clerical sweep"
+    },
+    {
+      "candidate": "Alolan Grimer attach to alolan-regional-forms",
+      "rationale": "VERIFIED ALREADY DONE during this wave's survey. The CSE-130 card frontmatter has `characters: [alolan-regional-forms]` and the node's `appears_on:` lists `pokemon/cosmic-eclipse/130-236-alolan-grimer`. No action required.",
+      "trigger_condition": "no trigger — closed"
+    },
+    {
+      "candidate": "Daishinkan / Grand Priest commission",
+      "rationale": "Wave 99 Edgelord said angel-class threshold is 3 named angels in corpus; current count is 2 (Whis + Vados). Defer until a third named angel lands via Collectr CSV upload (Daishinkan / Marcarita / Awamo / etc).",
+      "trigger_condition": "when 3rd named DBS angel is added to corpus"
+    },
+    {
+      "candidate": "Evolutions-set Discrete Lair anchored on Kinebuchi posthumous-tribute cluster",
+      "rationale": "The newly-commissioned Keiji Kinebuchi node provides a memorial-curation thesis lever for a 9-card Evolutions Discrete Lair. Bundle copy can lean on the canonical 20th-anniversary-tribute conceit and the posthumous-reprint biographical citation. All 9 cards are qty 1 (no multi-copy lever); single-copy bundle at $5.00 floor per bbl-bundle-pricing-codified. The bundle's why_it_fits prose has the in-corpus citation set already.",
+      "trigger_condition": "next bundler pass over Pokemon-side corpus"
+    }
+  ],
+  "cbg_postscript": "Edgelord refused to draw nine mirror-edges between trainer cards just because they happened to share a credit. Mr. Nodeley admits, with appropriate degree of professional sniveling, that the proper move was structural. Worst proposed alternative pass: nine Potion-and-Super-Potion-and-Diglett-and-Voltorb 1:1 mirrors that all converge on an absent center. The node is the center. The center holds nine. Done correctly."
+}

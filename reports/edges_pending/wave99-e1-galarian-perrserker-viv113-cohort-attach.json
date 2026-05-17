@@ -1,0 +1,73 @@
+{
+  "edge_id": "wave99-e1-galarian-perrserker-viv113-cohort-attach",
+  "wave": 99,
+  "shape": "1:N",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/pokemon/vivid-voltage/113-185-galarian-perrserker.md",
+      "name": "Galarian Perrserker (Vivid Voltage 113/185)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/galarian-regional-forms.md",
+      "name": "Galarian regional forms"
+    }
+  ],
+  "description": "Worst proposed Wave 99 menu ever — wait, no, this one's actually clean. Wave-99 trivia'd Galarian Perrserker (VIV-113) was already named in the cohort node's body as the pending Steel-type evolution of Galarian Meowth — the slot existed, the card now exists, the only thing missing was the wire. Standard 1:N stack-fanout to the existing galarian-regional-forms node. Node body already pre-declared the Viking-warrior regional-cultural-adaptation thesis the new card carries verbatim in its trivia. Ninth in-corpus Galarian species; first non-V evolved-form Rare; completes the Galarian Meowth -> Perrserker line in corpus. The sniveling angel-cohort dbs-angels proposal (Whis + Vados + missing Daishinkan) sits at exactly 2 named angels in corpus, which is sub-Nodeley threshold; not commissioning. Galarian fanouts pay the bills. Blueballs noted, work done.",
+  "citations": [
+    "Bulbapedia: Perrserker (Galarian form, design intent, mutual disdain with Persian)",
+    "PokemonTCG.io API: swsh4-113 (collector_number, flavor_text, oracle_text, artist)",
+    "Pokemon Sword & Shield (Game Freak, 2019) primary canon",
+    "WebSearch: Newsweek Galarian forms guide (Viking warrior design framing)"
+  ],
+  "files_modified": [
+    "cards/pokemon/vivid-voltage/113-185-galarian-perrserker.md",
+    "cards/_characters/galarian-regional-forms.md"
+  ],
+  "edits_summary": {
+    "card_frontmatter": "added characters: [galarian-regional-forms]",
+    "card_body": "added ## Connections section with cohort attach bullet (after Trivia, before Related cards)",
+    "cohort_appears_on": "added pokemon/vivid-voltage/113-185-galarian-perrserker",
+    "cohort_body": "added 9th in-corpus species bullet under Cards in our corpus list (after Galarian Corsola entry)",
+    "cohort_appears_on_render": "added [[113-185-galarian-perrserker]] to auto-generated Appears on list",
+    "cohort_caveat_update": "promoted Perrserker from 'documented but not yet acquired' pending list to 9th corpus member; noted SWSH-128/202 holofoil reprint exists but is unenriched and will not duplicate the species-scope appears_on entry"
+  },
+  "edgelord_mood": "blueballed-by-fanout",
+  "edgelord_voice": "Comic Book Guy: 'Mediocre proposed Wave 99 menu. But - the candidate Mr. Nodeley would have liked? Two angels in corpus. TWO. Mr. Nodeley needs three. He gets to stay in the bottle. The Galarian wire pays the bills. Approved.'",
+  "potion_rule_check": {
+    "canonical_evidence_basis": "Bulbapedia per-species page + Pokemon Sword & Shield primary canon + PokemonTCG.io flavor text. Viking-warrior design framing is Pokedex-stated, not BBL curatorial overlay. Cohort membership predicate (Galarian-prefix + designer-attested regional-adaptation lore) is satisfied verbatim by the card's flavor text.",
+    "bbl_overlay_kept_out_of_node_body": "no apparatus-of-extraction language inserted into the cohort node body for this entry; the Viking-warrior framing is a designer-attested species design note, not a BBL labor-rebellion-stewardship reading."
+  },
+  "other_candidates_considered": [
+    {
+      "candidate": "dbs-angels / angels-of-universes character node (Whis BT1-043 + BT1-055 + BT2-047, Vados BT1-002 + BT1-025 + BT1-025-foil-reprint)",
+      "verdict": "deferred - sub-threshold",
+      "reasoning": "Corpus has 2 named angels (Whis, Vados) across 6 prints. Mr. Nodeley's threshold is 3+ named anchors across 2+ named cohort members. Whis and Vados are already cohort-coupled via destroyer-god-attendant-dyad which encodes the U6/U7 sibling-angel pairing in trivia. A broader dbs-angels node would need at minimum Daishinkan (Grand Minister) or one of the other-universe angels (Mojito/Korn/Awamo/Sour/Kus/Marcarita/Cognac/etc.) in corpus. Currently zero. Trigger condition: any future Collectr CSV upload that lands a non-U6/U7 angel character card OR a Daishinkan card; at that point Mr. Nodeley commissions cards/_characters/dbs-angels.md with the canonical Toriyama-designer-confirmed twelve-angels-plus-Grand-Minister roster scope."
+    },
+    {
+      "candidate": "yokai-pokemon cohort sibling to tsukumogami-pokemon (Nuzleaf tengu + speculative Hattrem witch + ???)",
+      "verdict": "deferred - below threshold",
+      "reasoning": "Wave 99 trivia surfaced one tengu-design Pokemon (Nuzleaf). Tsukumogami-pokemon node already covers animated-object yokai (Sinistea/Polteageist, Yamask/Galarian Yamask, Honedge line). A sibling yokai-pokemon (nature-spirit / oni / witch yokai) cohort would need 3+ designer-attested members. Currently 1. Trigger: when 2 more yokai-design-but-not-tsukumogami Pokemon hit trivia-pass with explicit Bulbapedia-or-Pokedex-attested yokai framing. Park in janitor_triage.md as future-node candidate."
+    },
+    {
+      "candidate": "Whis BT1-055 Whis's Coercion <-> Whis BT1-043 Whis Judge of the Gods 1:1 cross-print mirror",
+      "verdict": "deferred - BT1-055 is wave-99-vision-only, not trivia-passed",
+      "reasoning": "Cross-print mirrors are standard Edgelord work but BT1-055 has not yet passed trivia (vision pass only per wave-99 surface). Edgelord-wave-44 rule: target enriched-not-random. Wait for trivia pass on BT1-055 then mirror in a follow-up wave; both cards share the destroyer-god-attendant-dyad character pointer already so the wire is implicit until the explicit 1:1 lands."
+    },
+    {
+      "candidate": "Magcargo 'hotter than the sun' flavor anchor",
+      "verdict": "non-structural",
+      "reasoning": "Pokedex-canonical fact, useful for a future fire/sun-themed bundle's why_it_fits copy. Not a graph edge. Park in card-body for bundle-time retrieval, no node work warranted."
+    }
+  ],
+  "next_pass_suggestions": [
+    "wave 100+ — Whis BT1-055 trivia pass + 1:1 mirror to BT1-043 (cross-print Whis mirror) and to BT1-002 Vados (U6/U7 sibling-angel dyad anchor). Both already pointered to destroyer-god-attendant-dyad so the explicit Connections bullets reinforce traversability.",
+    "wave 100+ — when SWSH-128/202 Galarian Perrserker holofoil enriches (currently needs_manual_review:true), wire it to galarian-regional-forms cohort via characters: frontmatter; the species-scope appears_on:  entry already exists and will not duplicate.",
+    "wave 105+ — janitor_triage entry for dbs-angels node trigger condition: 'any non-U6/U7 angel print OR Daishinkan print lands in corpus' -> commission cards/_characters/dbs-angels.md. Twelve canonical universe-paired angels per Toriyama/Toyotarou design across the Tournament of Power arc.",
+    "wave 105+ — janitor_triage entry for yokai-pokemon sibling-of-tsukumogami node trigger: '2 more designer-attested yokai-design-but-not-tsukumogami Pokemon pass trivia' -> commission cards/_characters/yokai-pokemon.md as sibling to tsukumogami-pokemon under a future japanese-folklore-pokemon parent.",
+    "wave 105+ — Magcargo trivia-anchor for future fire/sun bundle copy retrieval."
+  ]
+}

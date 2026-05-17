@@ -10,8 +10,23 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - fox
+  - fire
+  - flame
+  - twig
+  - bipedal
+  - energy
+  - action
+  - warmth
+  - outdoors
+  - pokemon
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - three-quarter
+  - pokemon
 reference_image: cards/_images/pokemon/fates-collide/12-braixen.png
 average_cost_paid: 0
 market_price: 0.27
@@ -27,6 +42,35 @@ oracle_text: "Destructive Flame (Fire) 20: Flip a coin. If heads, discard an Ene
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: day
+setting: forest
+subject_known_ip: true
+suspected_ip: Braixen
+ip_confidence: high
+ip_verified: false
 ---
 
 # Braixen (Fates Collide)
+
+## Vision
+
+![12-braixen](../../_images/pokemon/fates-collide/12-braixen.png)
+
+> [!warning] Suspected IP: **Braixen** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+Braixen, the fox-like bipedal Fire-type Pokemon, is depicted mid-action in an outdoor grassy setting. Its yellow-and-cream fur is visible, and a flame burns from the twig held or protruding from its tail. The creature is in a dynamic posture, leaning forward with energy. The background shows a grassy ground with warm ambient tones. The art style is clean and bright in the XY-era Pokemon card tradition.
+
+**Subject:** Braixen
+
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** forest, day, clear
+**Foreground:** bipedal fox-like Pokemon with flame on tail-twig, mid-action pose  *(palette: yellow, cream, red-orange, brown)*
+**Background:** outdoor grassy setting with warm ambient light  *(palette: green, tan, warm-amber)*
+**Mood / lighting:** action, soft
+**Emotion read:** energetic, ready-to-fight
+**Objects:** twig, flame
+**Creatures:** fox, braixen
+**Genre cues:** anime, pokemon
+

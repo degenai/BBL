@@ -1,0 +1,41 @@
+{
+  "card_name": "Galarian Perrserker",
+  "game": "Pokemon",
+  "set": "Vivid Voltage",
+  "collector_number": "113/185",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "PokemonTCG.io API confirms card id=swsh4-113, name='Galarian Perrserker', nationalPokedexNumbers=[863]. The depicted figure is canonically Galarian Perrserker, National Pokedex no. 863, a Steel-type Pokemon introduced in Pokemon Sword and Shield. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "This card is from the Sword & Shield — Vivid Voltage set (set code swsh4), released 2020-11-13. Vivid Voltage was the fourth main Sword & Shield series expansion and introduced Amazing Rare cards featuring the Legendary Pokemon Jirachi, Raikou, Rayquaza, and Zamazenta as a new rarity tier. [PokemonTCG.io API: swsh4-113]",
+      "sources": ["PokemonTCG.io API (api.pokemontcg.io/v2/cards/swsh4-113)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"What appears to be an iron helmet is actually hardened hair. This Pokemon lives for the thrill of battle.\" — this directly echoes the Pokedex lore that Galarian Meowth's fur hardens from living among seafaring people, transforming across generations into what resembles Viking armor on the evolved form. [PokemonTCG.io API: swsh4-113]",
+      "sources": ["PokemonTCG.io API (api.pokemontcg.io/v2/cards/swsh4-113)"]
+    },
+    {
+      "category": "design",
+      "text": "Galarian Perrserker (National Pokedex no. 863) is the Galar-exclusive evolution of Galarian Meowth — a regional form introduced in Pokemon Sword and Shield. Standard Kantonian Meowth evolves into Persian; Galarian Meowth instead evolves into Perrserker starting at level 28. The split evolution is the only such divergence in the Meowth line. The design is explicitly based on the stereotypical image of Viking warriors: the hardened hair forms a horned helmet shape, the claws extend into sword-like weapons, and the name 'Perrserker' is likely a portmanteau of 'purr,' 'Persian,' and 'berserker.' The Pokedex notes that Galarian Meowth's body hardened from living with 'a savage, seafaring people' — a direct nod to Norse/Viking cultural framing. [WebSearch: Galarian Perrserker Viking design, Bulbapedia via WebSearch snippet]",
+      "sources": ["WebSearch snippet: Bulbapedia Perrserker entry (via WebSearch)", "WebSearch snippet: Newsweek Galarian forms guide"]
+    },
+    {
+      "category": "mechanical",
+      "text": "This print is a Stage 1 Metal-type with 120 HP. Its Stealy Claws attack (1 Metal energy, 20 damage) uses a 3-coin flip mechanic to reveal the opponent's hand and discard Trainer cards on heads — a hand-disruption effect uncommon at single-energy cost. Claw Slash (3 energy: Metal + 2 Colorless) hits for 90 flat. The card carries Regulation Mark D, meaning it was legal in the then-current Standard format at release and rotated out as Sword & Shield era cards cycled. [PokemonTCG.io API: swsh4-113]",
+      "sources": ["PokemonTCG.io API (api.pokemontcg.io/v2/cards/swsh4-113)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Galarian Meowth", "set": "Sword & Shield era", "note": "Pre-evolution required to play Galarian Perrserker in TCG; shares Viking-armor aesthetic"},
+    {"name": "Persian", "set": "various", "note": "The Kantonian Meowth evolution — the road not taken for Galarian Meowth; Perrserker and Persian share 'mutual disdain' per Pokedex lore"},
+    {"name": "Galarian Meowth (Vivid Voltage)", "set": "Vivid Voltage (swsh4)", "note": "Same set — the evolution pair appearing together in the same expansion"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Galarian Perrserker",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "card_name": "Iron Wall Magetta",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-020",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via card name 'Iron Wall Magetta', card trait 'Metalman / Alien', Champa Saga era tag, and Dragon Ball Official Site Character Showcase no. 188 (Otta Magetta). The depicted mechanical figure with dome head, magma-body physiology, and defensive stance matches canonical Metalman description exactly.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Iron Wall Magetta (BT1-020) is an Uncommon from Galactic Battle (BT1), the inaugural main set of the Dragon Ball Super Card Game, released July 28, 2017. The set launched with 114 cards and introduced the Champa Saga / Universe 6 Saga as its primary narrative frame.",
+      "sources": ["PSA CardFacts: 2017 Dragon Ball Z Super Series 1 Galactic Battle", "The Games Corner AU: Galactic Battle Special Pack Set listing"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Magetta is a Metalman from Galactic System 66,950 in Universe 6. Despite appearing robotic, Metalmen are a biological race whose bodies are filled with magma; when Magetta is under stress a steam pipe atop his head vents heat — a literal physiological tell.",
+      "sources": ["Dragon Ball Official Site, Showcase no. 188: Otta Magetta"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card skill reads 'This card cannot be KO-ed in battle,' a direct translation of Magetta's anime trait: his metal body absorbed Super Saiyan Vegeta's Full Power Final Flash without being knocked out. Card trait listed as 'Alien', era 'Champa Saga', color Red, 15000 power, energy cost 3.",
+      "sources": ["Official DBS cardgame.com BT1-020 listing", "Dragon Ball Wiki: Auta Magetta (via WebSearch)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Magetta's sole exploitable flaw is emotional: the entire Metalman race loses the will to fight when insulted. Vegeta won their Tournament of Destroyers bout by calling him a 'pathetic pile of junk', causing Magetta to cry and stop fighting. The card name 'Iron Wall' contrasts sharply with this fragility.",
+      "sources": ["Dragon Ball Official Site, Showcase no. 188: Otta Magetta", "Dragon Ball Wiki: Auta Magetta (via WebSearch)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Magetta was selected by Vados for Universe 6's five-fighter team alongside Hit, Cabba, Frost, and Botamo. He famously passed the required written exam with exactly 50%.",
+      "sources": ["Dragon Ball Wiki: Auta Magetta / Universe 6 Saga (via WebSearch)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hit", "set": "Galactic Battle (BT1)", "note": "Universe 6 teammate; marquee card of the set"},
+    {"name": "Cabba", "set": "Galactic Battle (BT1-027)", "note": "Fellow Universe 6 tournament representative; in BBL corpus"},
+    {"name": "Frost", "set": "Galactic Battle (BT1)", "note": "Universe 6 fighter; cheated against Goku and Piccolo in same arc"},
+    {"name": "Botamo", "set": "Galactic Battle (BT1)", "note": "Universe 6 fighter; preceded Magetta's bout against Vegeta"},
+    {"name": "Vados", "set": "Galactic Battle (BT1)", "note": "Universe 6 angel who selected the team including Magetta"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

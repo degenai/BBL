@@ -1,0 +1,75 @@
+{
+  "edge_id": "galar-research-tradition--node-proposal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "faction-collective-character-node",
+  "wave": 97,
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/galar-research-tradition.md", "name": "Galar Research Tradition", "status": "created"},
+    {"type": "card", "path": "cards/pokemon/rebel-clash/167-192-sonia.md", "name": "Sonia (Rebel Clash 167/192)", "status": "wired"},
+    {"type": "card", "path": "cards/pokemon/vivid-voltage/149-185-cara-liss.md", "name": "Cara Liss (Vivid Voltage 149/185)", "status": "wired"},
+    {"type": "card", "path": "cards/pokemon/champion-s-path/62-73-professor-s-research--holofoil.md", "name": "Professor's Research (Professor Magnolia) (Champion's Path 62/73)", "status": "wired"},
+    {"type": "card", "path": "cards/pokemon/sword-shield-base-set/178-202-professor-s-research--holofoil.md", "name": "Professor's Research (Professor Magnolia) (Sword & Shield Base 178/202)", "status": "wired"}
+  ],
+  "description": "Mr. Nodeley reluctantly steps in, sir, with the utmost apology. Edgelord wanted to draw an edge between the two Magnolia prints, sir, a clean 1:1 mirror, you understand — but the wave 45 E2 triage entry explicitly staged this exact commission with the trigger 'when a 3rd Galar-researcher-coded card enters corpus, likely candidates: Professor Magnolia (any printing).' Both Magnolia prints are now in corpus, sir. That overshoots the threshold. Three distinct named individuals — Sonia, Cara Liss, Professor Magnolia — across four corpus prints. The Magnolia-to-Sonia on-screen Professor-title succession is the franchise's first such handoff per Bulbapedia's Pokemon Professor page, and the 'Professor's Research (Professor `<X>`)' Supporter-card line is the TCG's designer-coordinated canonicalization of the lineage. I do hope this is acceptable, sir. The four cards now point at the new node, the wave 45 E2 trigger condition is closed, and the Galar institutional cohort map is complete at three character nodes (gym-challenge, macro-cosmos, and this tradition). Thank you for the opportunity, sir. I shall return to being Edgelord at the next dispatch.",
+  "citations": [
+    "[Bulbapedia: Professor Magnolia]",
+    "[Bulbapedia: Sonia]",
+    "[Bulbapedia: Cara Liss]",
+    "[Bulbapedia: Pokemon Professor]",
+    "[PokemonTCG.io: swsh1-178 + swsh35-62 'Professor's Research (Professor Magnolia)' canonical name attribution]",
+    "[Pokemon Sword and Shield (Game Freak, 2019) primary canon]",
+    "[reports/janitor_triage.md wave-45-E2 triage entry: 'Galar Researcher / Professor character node — future candidate']"
+  ],
+  "files_modified": [
+    "cards/_characters/galar-research-tradition.md (created)",
+    "cards/pokemon/rebel-clash/167-192-sonia.md (added characters: [galar-research-tradition])",
+    "cards/pokemon/vivid-voltage/149-185-cara-liss.md (added characters: [galar-research-tradition])",
+    "cards/pokemon/champion-s-path/62-73-professor-s-research--holofoil.md (added characters: [galar-research-tradition])",
+    "cards/pokemon/sword-shield-base-set/178-202-professor-s-research--holofoil.md (added characters: [galar-research-tradition])"
+  ],
+  "rigor_check": {
+    "anchor_count": 4,
+    "distinct_individuals": 3,
+    "threshold_met": true,
+    "threshold_basis": "team-rocket / aether-foundation / alola-elite-four / endriders precedent (>=3 anchors, >=2 distinct individuals)",
+    "trigger_origin": "wave 45 E2 triage entry — explicit Nodeley trigger condition closed",
+    "yaml_form": "block-form lists; tags last; routes through bbl_schema.normalize_file if parent runs it",
+    "potion_rule_check": "passed — sub-rule 1 (canonical-event vs curatorial-overlay) explicitly named in node body's lineage thesis section; sub-rule 2 (hub-attribution survives canonical citation question) passes — labor hub attribution cites Bulbapedia institutional pages, not BBL squinting; sub-rule 4 (no new structural-primitive vocabulary) passes — uses standard faction-collective / cohort / lineage terms, no new typology coined",
+    "wikilink_validity": "all wikilinks point to existing nodes (labor, galar-gym-challenge, macro-cosmos, galarian-regional-forms, aether-foundation, plus card wikilinks to 167-192-sonia / 149-185-cara-liss / 62-73-professor-s-research--holofoil / 178-202-professor-s-research--holofoil)",
+    "canonical_source_count": 6
+  },
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    {
+      "candidate": "Marnie + Magnolia + other Galar Supporters cohort (caller's first prompt option)",
+      "verdict": "rejected as edge composition — Marnie is a Gym Leader (galar-gym-challenge cohort, already body-mentioned in that node's pending-vision list), Magnolia is a Professor (this new cohort). Same set, same Supporter card slot, structurally distinct cohorts. Surface-resemblance trap. Caveat added to this node's body explicitly flagging the Marnie-Magnolia non-conflation.",
+      "next_pass_followup": "Marnie still owes an edge to galar-gym-challenge — her card name appears in that node's 'Cards in corpus pending vision' body list but her characters: field is unset. Separate Edgelord pass to wire Marnie should follow this commission."
+    },
+    {
+      "candidate": "Ginyu Force cohort node (caller's second prompt option)",
+      "verdict": "below threshold per caller's own framing — only Ginyu + Recoome covered, no Guldo/Burter/Jeice. Stage-trigger 'when >=1 additional Ginyu Force member enters corpus' remains correct. No structural move this pass.",
+      "next_pass_followup": "watch for Guldo/Burter/Jeice prints; commission Ginyu Force cohort node when threshold lands."
+    },
+    {
+      "candidate": "Trunks: Xeno disambiguation (caller's third prompt option)",
+      "verdict": "no structural move warranted — caller's own framing notes no Trunks character node exists yet (below 3-print threshold for either Future Trunks or Trunks: Xeno separately). Frontmatter suspected_ip on BT4-102 already captures the Xeno disambiguation. Clerical-tier follow-up, not Edgelord/Nodeley work.",
+      "next_pass_followup": "when Trunks character node is commissioned (3+ corpus prints), parent triage must resolve Future-Trunks-vs-Xeno-Trunks split — possibly two character nodes (trunks-mirai vs trunks-xeno) or one parent with sub-aliases. BT4-102's frontmatter suspected_ip field is the canonical signal."
+    },
+    {
+      "candidate": "Sonia 1:1 edge to Magnolia (corpus-walk find)",
+      "verdict": "subsumed by the node commission — drawing a Sonia-Magnolia mirror would be redundant once the cohort node exists with both as anchors. The node-anchor pattern dissolves the need for the 1:1 edge. Mr. Nodeley's standard preference: anchor multiple cards on the node, do not draw card-to-card edges when the cohort node carries them."
+    },
+    {
+      "candidate": "Both Magnolia prints 1:1 mirror (same character, two prints)",
+      "verdict": "subsumed by the node commission — same logic. The two Magnolia prints anchor at the same node as same-character-different-print cards; no separate 1:1 mirror needed. Both prints are in the appears_on list."
+    }
+  ],
+  "next_pass_suggestions": [
+    "Marnie (Sword & Shield Base 169/202) — wire characters: [galar-gym-challenge] in a follow-up Edgelord pass; the node body already lists her in 'Cards in corpus pending vision' but her frontmatter characters: field is unset. Pure clerical edge.",
+    "Sonia's 'Professor's Research (Professor Sonia)' Supporter print — when it enters corpus (likely candidates: Brilliant Stars, Lost Origin, Crown Zenith, any Galar-overlap Scarlet & Violet print), it slots cleanly into this node's appears_on as the post-succession Professor-edition Magnolia-passes-to anchor, mirroring the canonical postgame title-handoff at the TCG layer.",
+    "Oleana adversary-extension dual-cohort wiring — Oleana (Rebel Clash 163/192) currently points at macro-cosmos only; the 1:1 Connections edge from Sonia's RBC-167 card to Oleana's RBC-163 already canonicalizes the academia-vs-industry collision at the card-art layer. Future Edgelord pass may add Oleana as a sibling-adversary footnote to this node's See also (already covered in the macro-cosmos See-also caveat; no immediate action).",
+    "Galar institutional map closure — three Galar character cohort nodes (galar-gym-challenge, macro-cosmos, galar-research-tradition) now span the region's apparatus map (league / corporate / academic). The three-node Galar institutional triangle is structurally complete. Any future Galar institutional cohort (e.g. galar-monarchy if Sordward/Shielbert clears threshold per wave-45 E1 triage entry, or galar-yell-criminal-cohort if Marnie + Piers + Spikemuth crime-side clears) becomes a sibling fourth node, not a subsume of any existing one.",
+    "Triage file update — wave 45 E2 entry ('Galar Researcher / Professor character node — future candidate (2 anchors, below threshold)') should be status-flipped to 'done — closed wave 97' with cross-reference to this sidecar."
+  ]
+}

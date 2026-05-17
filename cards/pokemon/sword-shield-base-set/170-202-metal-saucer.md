@@ -10,8 +10,24 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - metal
+  - steel
+  - disc
+  - industrial
+  - tool
+  - silver
+  - geometric
+  - item-card
+  - mechanical
+  - object
+tags_filter:
+  - solo
+  - close-up
+  - no-face
+  - item-card
+  - trainer-card
+  - abstract
 reference_image: cards/_images/pokemon/sword-shield-base-set/170-202-metal-saucer.png
 average_cost_paid: 0
 market_price: 0.2
@@ -31,6 +47,9 @@ artist: Toyste Beach
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: other
+time_of_day: indeterminate
+setting: void
 tags:
   - card
   - pokemon
@@ -42,12 +61,17 @@ tags:
 
 ![170-202-metal-saucer](../../_images/pokemon/sword-shield-base-set/170-202-metal-saucer.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+A close-up render of a metallic saucer-shaped disc object centered against a blurred gray background. The disc is silver-gray steel in tone with a raised embossed triangular or diamond-shaped symbol in its center. The surface is reflective with visible light gradients suggesting hard studio lighting. The object conveys industrial utility — a tool or attachment rather than a weapon or organic form.
 
+**Subject:** A metallic disc-shaped saucer with an embossed triangular symbol on a reflective steel surface
 
-**Subject:** 
-
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** close-up, abstract, figures: none, facing: n/a
+**Setting:** void, indeterminate
+**Foreground:** metallic disc saucer with embossed triangular symbol  *(palette: silver, steel-gray, dark-gray)*
+**Background:** blurred neutral gray  *(palette: gray)*
+**Mood / lighting:** other, harsh
+**Emotion read:** n/a
+**Objects:** metal-disc, saucer
+**Iconography:** triangle-symbol, steel-type-emblem
+**Genre cues:** sci-fi
 

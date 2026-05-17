@@ -74,11 +74,29 @@ PERSISTENT_DEFAULTS = {
 
 # --- Helpers ---
 
+# Collectr-side set-name aliases. Collectr labels some sets with names that
+# diverge from BBL's canonical folder/set values. The Collectr CSV is the
+# inventory source-of-truth (what Alex physically owns) but the BBL graph
+# uses the canonical name + folder slug. Aliases route a Collectr name to
+# the canonical name BEFORE node_path() slugs it. Wave 97.5 fix — added
+# after csv2mdbot's path matching would have re-zeroed all 34 cards that
+# were migrated out of mystery-booster-cards/ to the-list/ in wave 96.8.
+# Lowercased Collectr name -> canonical set name string.
+COLLECTR_SET_NAME_ALIASES = {
+    "mystery booster cards": "The List",
+}
+
 
 def slug(text: str) -> str:
     text = (text or "").lower()
     text = re.sub(r"[^a-z0-9]+", "-", text)
     return text.strip("-") or "untitled"
+
+
+def canonical_set_name(raw: str) -> str:
+    """Return the canonical set name for a Collectr-style label.
+    Pass-through if no alias entry exists."""
+    return COLLECTR_SET_NAME_ALIASES.get((raw or "").lower().strip(), raw or "")
 
 
 def find_price_column(fieldnames: Iterable[str]) -> tuple[str | None, str | None]:
@@ -93,7 +111,7 @@ def find_price_column(fieldnames: Iterable[str]) -> tuple[str | None, str | None
 def unique_key(row: dict) -> tuple:
     return (
         row.get(COL_CATEGORY, "").strip(),
-        row.get(COL_SET, "").strip(),
+        canonical_set_name(row.get(COL_SET, "")).strip(),
         row.get(COL_NUMBER, "").strip(),
         row.get(COL_VARIANCE, "").strip() or DEFAULT_VARIANCE,
         row.get(COL_GRADE, "").strip() or DEFAULT_GRADE,
@@ -117,7 +135,7 @@ def sealed_unique_key(row: dict) -> tuple:
     game + set + product name."""
     return (
         row.get(COL_CATEGORY, "").strip(),
-        row.get(COL_SET, "").strip(),
+        canonical_set_name(row.get(COL_SET, "")).strip(),
         row.get(COL_NAME, "").strip(),
     )
 
@@ -138,7 +156,7 @@ def node_path(row: dict, base_dir: Path) -> Path:
     over creating a stale `no-num-*` entry. This keeps the backfill from
     being undone on the next CSV upload."""
     game = slug(row.get(COL_CATEGORY, ""))
-    set_ = slug(row.get(COL_SET, ""))
+    set_ = slug(canonical_set_name(row.get(COL_SET, "")))
     num_raw = (row.get(COL_NUMBER, "") or "").strip()
     num = slug(num_raw or "no-num")
     name = slug(row.get(COL_NAME, ""))
@@ -251,7 +269,7 @@ def surgical_update_existing(path: Path, row: dict, price_col: str | None,
     updates = {
         "name": row.get(COL_NAME, "").strip(),
         "game": row.get(COL_CATEGORY, "").strip(),
-        "set": row.get(COL_SET, "").strip(),
+        "set": canonical_set_name(row.get(COL_SET, "")).strip(),
         "collector_number": row.get(COL_NUMBER, "").strip(),
         "rarity": row.get(COL_RARITY, "").strip(),
         "variance": row.get(COL_VARIANCE, "").strip() or DEFAULT_VARIANCE,
@@ -329,7 +347,7 @@ def render_node(row: dict, price_col: str | None, price_date: str | None,
     body = NODE_TEMPLATE_HEAD.format(
         name=row.get(COL_NAME, "").strip(),
         game=row.get(COL_CATEGORY, "").strip(),
-        set=row.get(COL_SET, "").strip(),
+        set=canonical_set_name(row.get(COL_SET, "")).strip(),
         number=row.get(COL_NUMBER, "").strip(),
         rarity=row.get(COL_RARITY, "").strip(),
         variance=row.get(COL_VARIANCE, "").strip() or DEFAULT_VARIANCE,
@@ -376,7 +394,7 @@ def render_sealed(row: dict, price_col: str | None, price_date: str | None,
     body = SEALED_TEMPLATE_HEAD.format(
         name=row.get(COL_NAME, "").strip(),
         game=row.get(COL_CATEGORY, "").strip(),
-        set=row.get(COL_SET, "").strip(),
+        set=canonical_set_name(row.get(COL_SET, "")).strip(),
         quantity=qty,
         cost=collapse_zero(row.get(COL_COST, "")),
         price=collapse_zero(row.get(price_col, "")) if price_col else "0",

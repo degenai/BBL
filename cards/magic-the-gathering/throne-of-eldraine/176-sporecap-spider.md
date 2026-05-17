@@ -7,7 +7,7 @@ rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 5
+quantity: 7
 held_for_lair: 0
 bundles: []
 tags_hub:

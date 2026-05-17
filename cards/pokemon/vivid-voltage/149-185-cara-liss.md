@@ -48,6 +48,8 @@ subject_known_ip: true
 suspected_ip: Cara Liss
 ip_confidence: high
 ip_verified: true
+characters:
+  - galar-research-tradition
 tags:
   - card
   - pokemon

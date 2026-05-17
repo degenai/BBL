@@ -1,0 +1,42 @@
+{
+  "card_name": "Popplio",
+  "game": "Pokemon",
+  "set": "Sun & Moon Base Set",
+  "collector_number": "39",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "PokemonTCG.io API confirms card ID sm1-39, name 'Popplio', nationalPokedexNumbers [728]. Popplio is a canonical Game Freak / Nintendo creature (not an external third-party IP). Verification is confirmation of canonical identity, not an external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Popplio (National Pokedex no. 728) is the Water-type First Partner Pokemon of the Alola region, introduced in Pokemon Sun & Moon (2016). It evolves into Brionne (level 17) then Primarina (level 34), which is Water/Fairy-type. Its evolution line is the only Alola starter line that gains a second type on final evolution with Fairy. [PokemonTCG.io API sm1-39; pokemondb.net via WebSearch snippet]",
+      "sources": ["PokemonTCG.io API sm1-39", "pokemondb.net/pokedex/popplio (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (this print): \"This Pokemon snorts body fluids from its nose, blowing balloons to smash into its foes. It's famous for being a hard worker.\" [PokemonTCG.io API sm1-39]",
+      "sources": ["PokemonTCG.io API sm1-39"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment: Popplio was the least popular Alola starter at reveal in 2016 — a Twitter poll by The Pokemon Company International gave it only 21% of the vote, finishing last behind Rowlet and Litten. Design criticisms focused on its clown-like appearance and perceived femininity. It acquired a 'Popplio Defense Squad' of supporters online and its final evolution Primarina rehabilitated its reputation significantly. Game Freak developers acknowledged the backlash in a 2016 interview. [Kotaku: 'Pour One Out For Popplio' 2016; nintendoeverything.com devs interview via WebSearch snippet]",
+      "sources": ["Kotaku: Pour One Out For Popplio (2016) (via WebSearch snippet)", "nintendoeverything.com: Pokemon Sun/Moon devs on Popplio backlash (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "This Sun & Moon base set print (sm1) was released February 3, 2017. Artist is Kouki Saitou. Card no. 39 in a set of 149 printed cards. HP 70, Grass weakness x2, 1 Colorless retreat cost. [PokemonTCG.io API sm1-39]",
+      "sources": ["PokemonTCG.io API sm1-39"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Brionne", "set": "Sun & Moon Base Set", "note": "Stage 1 evolution of Popplio"},
+    {"name": "Primarina", "set": "Sun & Moon Base Set", "note": "Stage 2 final evolution; Water/Fairy"},
+    {"name": "Rowlet", "set": "Sun & Moon Base Set", "note": "Grass-type Alola starter partner"},
+    {"name": "Litten", "set": "Sun & Moon Base Set", "note": "Fire-type Alola starter partner"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

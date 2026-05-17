@@ -1,0 +1,48 @@
+{
+  "card_name": "Dimension Support Trunks",
+  "game": "Dragon Ball Super",
+  "set": "Judge Promotion Cards",
+  "collector_number": "BT4-102",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed as Trunks via card name 'Dimension Support Trunks,' blue-purple hair, jacket design consistent with Future Trunks, and BT4 Colossal Warfare set origin (the 'Future' Trunks arc set). Note: secondary-market listings identify the depicted character specifically as 'Trunks: Xeno' (the Dragon Ball Heroes time-patrol variant) in some entries — flagged for manual review; the visual and card-name evidence confirms Trunks but the Xeno vs. Future Trunks distinction may be canon-relevant.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Dimension Support Trunks (BT4-102) originates in Colossal Warfare (BT4), the fourth main set of the Dragon Ball Super Card Game, released 2018. BT4 is thematically anchored to the 'Future' Trunks / Goku Black / Zamasu arc (Dragon Ball Super's fifth story arc), making it the primary Trunks-as-time-traveler home base in the card game's early run.",
+      "sources": ["TrollAndToad: BT4-102 Colossal Warfare listing (via WebSearch)", "Bleeding Cool: Colossal Warfare Checklist (via WebSearch)"]
+    },
+    {
+      "category": "design",
+      "text": "The BBL copy is a Judge Promotion Card (Level 2 stamp), a holofoil promo distributed exclusively to certified DBS Card Game tournament judges — not obtainable through gameplay or prize support. PSA-graded specimens of this exact promo (pop 8 at Gem MT 10) suggest it is a short-print collectible.",
+      "sources": ["Pro Gaming Crew: 'Dragon Ball Super Judge Cards & Promo Packs EXPLAINED'", "SLABD.com.au: 2018 Dragon Ball Super BT4-102 Judge Pack Vol. 5 PSA 10 listing (via WebSearch)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A Common Black Battle Card, 15000 power, energy cost 3. The Burst activation: if 3+ cards are in the Drop Area, you may play this card by sending all Drop Area cards to Warp; the card returns to Warp at end of turn. On resolution, search the deck for a skill-less Battle Card with cost 2 or less, play it, and grant it Critical for the turn. The 'Dimension Support' name reflects the mechanic — a cross-timeline reach into the deck.",
+      "sources": ["DBZ Exchange: BT4-102 Dimension Support Trunks (via WebSearch)", "DBS cardgame.com card list BT4 (via WebSearch snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Future Trunks' return in Dragon Ball Super (the fifth story arc) involves a self-fulfilling paradox: Goku's meeting with Zamasu — which happened because Trunks came back seeking help — is what led Zamasu to steal Goku's body and become Goku Black. The arc concluded with Future Zeno erasing the entire corrupted future timeline.",
+      "sources": ["Kanzenshuu: 'Future' Trunks Arc Timeline & Paradox Discussion (via WebSearch)", "TV Tropes: Dragon Ball Super Future Trunks Arc Recap (via WebSearch)"]
+    },
+    {
+      "category": "design",
+      "text": "Note: some secondary-market listings (Games Haven TCG, Gathering Point Games UK) identify BT4-102's depicted character specifically as 'Trunks: Xeno' — the Dragon Ball Heroes time-patrol continuity variant — rather than canonical Future Trunks. The visual design is consistent with either; the distinction may be meaningful for lair assembly if Xeno-continuity cards are separated from Super-continuity cards.",
+      "sources": ["Games Haven TCG: Dimension Support Trunks (BT4-102) listing (via WebSearch)", "Gathering Point Games: 'Dimension Support Trunks (Level 2) (BT4-102) [Judge Promotion Cards]' (via WebSearch)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Trunks // Iron Vow Trunks", "set": "Colossal Warfare (BT4-023)", "note": "Double-faced Trunks card from same set"},
+    {"name": "Future Gohan", "set": "Colossal Warfare (BT4)", "note": "Future Trunks' mentor; same arc, same set"},
+    {"name": "Goku Black", "set": "Colossal Warfare (BT4)", "note": "Primary antagonist of the arc; Zamasu in Goku's body"},
+    {"name": "Future Zamasu", "set": "Colossal Warfare (BT4)", "note": "Immortal co-villain of the arc"},
+    {"name": "Future Zeno", "set": "Judge Promotion Cards", "note": "Erases the corrupted timeline; narrative resolution of the arc"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

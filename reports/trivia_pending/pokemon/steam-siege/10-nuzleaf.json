@@ -1,0 +1,41 @@
+{
+  "card_name": "Nuzleaf",
+  "game": "Pokemon",
+  "set": "Steam Siege",
+  "collector_number": "10",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "PokemonTCG.io API confirms card id=xy11-10, name='Nuzleaf', nationalPokedexNumbers=[274]. The depicted figure is canonically Nuzleaf, National Pokedex no. 274, a Grass/Dark-type Pokemon. No ambiguity: this is the named species.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "This card is from the XY — Steam Siege set (set code xy11), released 2016-08-03. Steam Siege is the 11th main XY-series expansion and introduced Dual-type Pokemon (cards printed with two types simultaneously) as a mechanics-defining feature. [PokemonTCG.io API: xy11-10]",
+      "sources": ["PokemonTCG.io API (api.pokemontcg.io/v2/cards/xy11-10)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy.\" [PokemonTCG.io API: xy11-10, artist: Ayaka Yoshida]",
+      "sources": ["PokemonTCG.io API (api.pokemontcg.io/v2/cards/xy11-10)"]
+    },
+    {
+      "category": "design",
+      "text": "Nuzleaf (National Pokedex no. 274) is the mid-stage in the Seedot evolutionary line: Seedot evolves into Nuzleaf, which evolves into Shiftry. The line's design is rooted in Japanese folklore: Nuzleaf is based on the ko-tengu (small tengu), a yōkai associated with mountain forests and known for its long nose and mischievous nature. Its evolution Shiftry is based on the dai-tengu (great tengu), the more powerful and human-like form. The flute-playing behavior in the Pokedex entries echoes tengu lore of forest guardians who play tricks on humans. [WebSearch: Nuzleaf tengu design, via Pokémon design analysis sources]",
+      "sources": ["WebSearch snippet: 'Pokemon Based On Yokai' (japan-avenue.com)", "WebSearch snippet: Dextraneous.blog Seedot/Nuzleaf/Shiftry entry"]
+    },
+    {
+      "category": "mechanical",
+      "text": "This print is a Stage 1 Grass-type with 70 HP. Its attacks are Harden (1 Grass energy, damage-prevention effect capping at 60 damage) and Razor Leaf (2 Colorless energy, 20 damage). Both attacks were legal in Unlimited and Expanded formats as of the API data snapshot. [PokemonTCG.io API: xy11-10]",
+      "sources": ["PokemonTCG.io API (api.pokemontcg.io/v2/cards/xy11-10)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Seedot", "set": "various", "note": "Pre-evolution of Nuzleaf; required to evolve into Nuzleaf in TCG play"},
+    {"name": "Shiftry", "set": "various", "note": "Final evolution of Nuzleaf; based on the dai-tengu, the more powerful tengu form"},
+    {"name": "Nuzleaf (other prints)", "set": "various", "note": "Nuzleaf has appeared in multiple sets across the TCG; Steam Siege print is mid-XY era"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Nuzleaf",
+    "ip_confidence": "high"
+  }
+}

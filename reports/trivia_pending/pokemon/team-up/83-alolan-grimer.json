@@ -1,0 +1,41 @@
+{
+  "card_name": "Alolan Grimer",
+  "game": "Pokemon",
+  "set": "Team Up",
+  "collector_number": "83",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "PokemonTCG.io API confirms: card name is 'Alolan Grimer', nationalPokedexNumbers [88], set sm9 (Team Up). The depicted figure matches all canonical descriptors of Alolan Grimer: dark purple-blue coloring, crystalline toxin formations, dark subtype. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Alolan Grimer is the regional form of National Pokedex no. 88 (Grimer) introduced in Pokemon Sun and Moon (2016). Unlike the standard Kantonian form, Alolan Grimer was brought to the Alola region specifically to manage garbage from increased human population; its solid-diet lifestyle caused its body to develop crystalline toxin formations instead of smooth sludge. [Bulbapedia: Grimer, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Grimer, via WebSearch snippet (bulbapedia.bulbagarden.net/wiki/Grimer_(Pokemon))"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (verbatim from Scryfall / PokemonTCG.io): \"The crystals on Grimer's body are lumps of toxins. If one falls off, lethal poisons leak out.\" [PokemonTCG.io API: sm9-83]",
+      "sources": ["PokemonTCG.io API: sm9-83"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Team Up (SM9) released February 1, 2019 and is a Sun & Moon series set. Alolan Grimer appears here as a Common (83/181 printed) with Darkness typing — an accurate TCG translation of its Poison/Dark dual typing in the video games. The card's attack 'Chemical Breath' scales damage with Special Conditions on the opponent's Active Pokemon, rewarding status-condition strategies. [PokemonTCG.io API: sm9-83]",
+      "sources": ["PokemonTCG.io API: sm9-83"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by SATOSHI NAKAI, a prolific Pokemon TCG artist who has contributed cards across multiple eras. The card art depicts Alolan Grimer in its characteristic cheery-despite-being-toxic pose; the crystalline formations and dark palette are consistent with other SM-era Alolan form depictions. [PokemonTCG.io API: sm9-83]",
+      "sources": ["PokemonTCG.io API: sm9-83"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Alolan Muk", "set": "Various SM-era", "note": "Evolution target; Alolan Grimer evolves into Alolan Muk"},
+    {"name": "Trubbish", "set": "Various", "note": "Lore-connected: Alolan Grimer preys on Trubbish in the Alola ecosystem per Pokedex"},
+    {"name": "Grimer (Kantonian)", "set": "Various", "note": "Standard-form counterpart; distinct Darkness vs Poison typing in TCG"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Alolan Grimer",
+    "ip_confidence": "high"
+  }
+}

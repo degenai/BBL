@@ -1,0 +1,40 @@
+{
+  "card_name": "Hatsune Miku\"Dark Angel\"",
+  "game": "Weiss Schwarz",
+  "set": "Hatsune Miku -Project DIVA- f",
+  "collector_number": "PD/S22-E067 C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Hatsune Miku\"Dark Angel\"'; the PD/S22 set is a licensed Vocaloid/SEGA Product DIVA F adaptation published by Bushiroad. Depicted figure matches the canonical Dark Angel module appearance: green twintails, gothic lolita dress, black-and-white color scheme. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "PD/S22 is the Weiss Schwarz booster set adapting Hatsune Miku: Project DIVA F (2013), published by Bushiroad under license from SEGA and Crypton Future Media. The English edition contains 100 card types (8 RR / 20 R / 28 U / 28 C / 16 CX) plus 44 parallel variants, with 4 exclusive SP Gold Foil signed cards from voice actress Saki Fujita (the voice of Hatsune Miku) randomly inserted per display. [Weiss Schwarz official product page]",
+      "sources": ["Weiss Schwarz official product page (en.ws-tcg.com/products/pd-f/)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Dark Angel costume (module) first appeared in Hatsune Miku: Project DIVA F, unlocked by clearing the song 'Secret Police' (Himitsu Keisatsu) by producer Buriru-P on any difficulty. The module's gothic lolita design — jet black dress, white lace, drilled twintails, feather clips — is a direct homage to that song's aesthetic. [Project DIVA Wiki: Dark Angel]",
+      "sources": ["Project DIVA Wiki: Dark Angel (project-diva.fandom.com/wiki/Dark_Angel)"]
+    },
+    {
+      "category": "design",
+      "text": "Hatsune Miku is a Vocaloid character developed by Crypton Future Media and released in August 2007 as a singing synthesizer software; she is the most commercially successful Vocaloid internationally, with no single lore narrative — her identity is defined through community-produced songs and SEGA's Project DIVA game appearances. The PD/S22 Weiss Schwarz set is one of multiple official TCG adaptations of the franchise. [Vocaloid Wiki: Hatsune Miku, via WebSearch snippet]",
+      "sources": ["Vocaloid Wiki: Hatsune Miku, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a Common (C rarity) in Weiss Schwarz, this card occupies the base of the rarity pyramid in PD/S22 — the set's high-value slots are the SP Gold Foil signed parallels. Commons in Weiss Schwarz are the deck-engine workhorses; without oracle text captured, specific mechanical role in the PD/S22 build cannot be confirmed. [PokemonTCG.io; Weiss Schwarz product page]",
+      "sources": ["Weiss Schwarz product page"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hatsune Miku (Electron Diva)", "set": "PD/S22", "note": "XR parallel from the same set; higher-rarity Miku card in the PD/S22 pool"},
+    {"name": "MEIKO (Blue Crystal)", "set": "PD/S22", "note": "SR rarity Vocaloid bandmate from the same booster set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Hatsune Miku",
+    "ip_confidence": "high"
+  }
+}

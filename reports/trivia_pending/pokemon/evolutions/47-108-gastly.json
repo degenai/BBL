@@ -1,0 +1,46 @@
+{
+  "card_name": "Gastly",
+  "game": "Pokemon",
+  "set": "Evolutions",
+  "collector_number": "47/108",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "PokemonTCG.io API confirms: card name 'Gastly', nationalPokedexNumbers [92], set xy12 (Evolutions). The depicted figure matches canonical Gastly: circular gaseous body, glowing eyes, wispy purple-black tendrils. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Evolutions set (XY12) was released November 2, 2016, timed to Pokemon's 20th anniversary. The set is an explicit tribute to the original 1999 Base Set: nearly all card art reprints the original 1999 illustrations, including the hand-drawn energy symbols and yellow card border aesthetic, while updating stats and mechanics for modern TCG standards. Gastly (no. 47/108) is part of this Base Set art reprint wave, printed at 108 cards total. [PokeBeach via WebSearch snippet; PokemonTCG.io API: xy12-47]",
+      "sources": ["PokeBeach.com via WebSearch snippet", "PokemonTCG.io API: xy12-47"]
+    },
+    {
+      "category": "design",
+      "text": "The card art is by Keiji Kinebuchi (1956-2002), who was the primary 3D computer graphics illustrator for the original Pokemon TCG in the late 1990s and early 2000s. Kinebuchi illustrated over 100 cards across the Base Set through Aquapolis era before his death in 2002; the Evolutions set reprints his work as a memorial contribution to the 20th anniversary collection. [WebSearch: Keiji Kinebuchi Bulbapedia and pokemonaaah.net]",
+      "sources": ["Bulbapedia: Keiji Kinebuchi, via WebSearch snippet", "pokemonaaah.net: Making CG Artwork the Keiji Kinebuchi Way"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (verbatim from PokemonTCG.io API): \"A being that exists as a thin gas. It can topple an Indian elephant by enveloping the prey in two seconds.\" This text originates from the original Base Set printing and carried forward into Evolutions unchanged. [PokemonTCG.io API: xy12-47]",
+      "sources": ["PokemonTCG.io API: xy12-47"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Gastly in Evolutions has 40 HP and two attacks: 'Little Grudge' (Psychic, 1 energy — if Gastly is KO'd on the opponent's next turn by attack damage, discard an energy from the attacker) and 'Nightmare' (Psychic + Colorless, 2 energy — 20 damage; flip a coin, if heads opponent's Active is Asleep). The Little Grudge ability is a punish mechanic uncommon for a Basic — it rewards sacrificial plays in disruption strategies. [PokemonTCG.io API: xy12-47]",
+      "sources": ["PokemonTCG.io API: xy12-47"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Gastly is National Pokedex no. 92 and the first stage of the Gastly/Haunter/Gengar ghost-type line, which originated in Generation 1 (1996 Game Boy games). In game lore, Gastly is described as composed almost entirely of gas — its body is 95% toxic gas — capable of enveloping large animals and causing hallucinations. It is weak to Darkness in the Evolutions TCG, a modern-era type assignment not present in the original 1999 print. [PokemonTCG.io API: xy12-47; WebSearch: Gastly Pokedex]",
+      "sources": ["PokemonTCG.io API: xy12-47"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Haunter", "set": "Evolutions (EVO) no. 48", "note": "Directly sequential in the Evolutions set; Gastly's evolution"},
+    {"name": "Gengar", "set": "Evolutions (EVO)", "note": "Final evolution of the Gastly line; high-profile Evolutions slot"},
+    {"name": "Gastly", "set": "Base Set 1999 (no. 50/102)", "note": "Original Kinebuchi art printing this Evolutions card reprints"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Gastly",
+    "ip_confidence": "high"
+  }
+}

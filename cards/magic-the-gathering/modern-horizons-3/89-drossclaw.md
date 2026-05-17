@@ -10,8 +10,27 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - crustacean
+  - phyrexian
+  - skull
+  - corruption
+  - monster
+  - claw
+  - horror
+  - beast
+  - tendrils
+  - dark-fantasy
+tags_filter:
+  - solo
+  - close-up
+  - action
+  - black-magic
+  - artifact
+  - equipment
+  - living-weapon
+  - forward-facing
+  - no-face
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/89-drossclaw.png
 average_cost_paid: 0
 market_price: 0.17
@@ -29,7 +48,30 @@ image_width: 745
 image_height: 1040
 image_quality: high
 mana_cost: "{1}{B}"
+mood: grim
+time_of_day: indeterminate
+setting: other
 tags:
   - card
 ---
 # Drossclaw (Modern Horizons 3)
+
+## Vision
+
+![89-drossclaw](../../_images/magic-the-gathering/modern-horizons-3/89-drossclaw.png)
+
+A massive crustacean dominates the frame, lunging forward with oversized red claws. Its body is a dark, segmented carapace with organic-mechanical Phyrexian styling — a skull-like face is embedded in the thorax, and long red tendrils or wire-like filaments trail behind it. The background is murky green-yellow with hints of fire or toxic light below. The composition is a wide close-up with the creature angled toward the viewer, conveying aggression and corruption.
+
+**Subject:** large crustacean creature with red claws, dark segmented Phyrexian-style carapace bearing a skull-like face, and trailing red tendrils/wires
+
+**Composition:** close-up, action, figures: solo, facing: forward
+**Setting:** other, indeterminate
+**Foreground:** red clawed crustacean with skull-faced carapace and trailing red tendrils  *(palette: red, dark-brown, black)*
+**Background:** murky green-yellow atmosphere with faint fiery glow below  *(palette: green, yellow, dark-grey)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** aggressive, menacing forward lunge
+**Objects:** tendrils, carapace
+**Creatures:** crustacean, phyrexian-creature, crab-like-beast
+**Iconography:** skull-motif, phyrexian-aesthetic
+**Genre cues:** fantasy, horror, dark-fantasy
+

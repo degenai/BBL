@@ -1,0 +1,42 @@
+{
+  "card_name": "\"Disheartened\" Mikasa",
+  "game": "Weiss Schwarz",
+  "set": "Attack on Titan",
+  "collector_number": "AOT/S35-E075 C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The card is officially titled '\"Disheartened\" Mikasa' on the Weiss Schwarz official card database (en.ws-tcg.com) and all retail listings. The depicted figure is explicitly named Mikasa Ackerman, the named protagonist of Attack on Titan by Hajime Isayama. The card name and copyright line confirm this is not an unnamed figure sharing a role but the canonical character.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The AOT/S35 set (Booster Pack Attack on Titan, English edition) was published by Bushiroad under license from Kodansha and covers material from the original Attack on Titan anime series (Season 1-2 era). The copyright line on the official WS card database reads: '©Hajime Isayama, Kodansha / ATTACK ON TITAN Production Committee. Licensed by Kodansha through FUNimation Productions, Ltd.' [Weiss Schwarz official card database: en.ws-tcg.com/cardlist/list/?cardno=AOT%2FS35-E075]",
+      "sources": ["Weiss Schwarz official card database (en.ws-tcg.com)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Mikasa Ackerman is described in Attack on Titan canon as the last known person of partial Eastern (Hizuru/Azumabito) descent living inside the Walls, and a member of the Ackerman clan — an Eldian bloodline genetically engineered to produce superhuman soldiers. Her 'disheartened' moment in the card title reflects a recurring narrative tension: Mikasa is elite militarily but emotionally tethered to Eren, whose choices progressively unravel her. [Wikipedia: Mikasa Ackerman]",
+      "sources": ["Wikipedia: Mikasa Ackerman"]
+    },
+    {
+      "category": "design",
+      "text": "The AOT/S35 set contains at least nine distinct Mikasa-titled cards across rarity tiers: 'Resisting Fate' (RR/SP), 'Beyond the Walls' (RR), 'Awkward Affection' (R), 'Direct Sword' (R), 'Calm and Collected' (U), '104th Cadet Corps Class' (U), 'Disheartened' (C), 'Chimi Mikasa' (PR), and 'A Chain of Tragedies' (TD). The 'Disheartened' C is the lowest-rarity Mikasa in the set, representing the emotional bottom of her arc rather than her combat peak. [TCGplayer search results for AOT/S35 Mikasa cards]",
+      "sources": ["TCGplayer", "Tier1Games product listings", "Amazon product listings"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Weiss Schwarz (Weiß Schwarz) is a living card game produced by Bushiroad in which IP-licensed sets are released as standalone 'Title' products. The name splits the German words for 'White' and 'Black,' reflecting a dual-faction play structure. The Attack on Titan English booster was one of the early English-language releases, predating the Final Season sets (which carry a separate product line). [Weiss Schwarz official website: en.ws-tcg.com]",
+      "sources": ["Weiss Schwarz official website (en.ws-tcg.com)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "\"Resisting Fate\" Mikasa", "set": "Attack on Titan (AOT/S35)", "note": "Highest-rarity Mikasa in the same set (RR/SP) — combat depiction vs. this card's emotional despair"},
+    {"name": "\"Beyond the Walls\" Mikasa", "set": "Attack on Titan (AOT/S35)", "note": "RR-tier Mikasa from same set"},
+    {"name": "\"Disheartened\" Levi", "set": "Attack on Titan (AOT/S35)", "note": "Adjacent card numbers in the C/U range — likely a thematic emotional-register group in the set"},
+    {"name": "\"Embraced Memories\" Mikasa", "set": "Attack on Titan Vol. 2 (AOT/S50)", "note": "SP-tier Mikasa from the Vol. 2 expansion — same character, later narrative moment"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Mikasa Ackerman",
+    "ip_confidence": "high"
+  }
+}

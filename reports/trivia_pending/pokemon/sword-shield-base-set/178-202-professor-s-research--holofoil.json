@@ -1,0 +1,43 @@
+{
+  "card_name": "Professor's Research",
+  "game": "Pokemon",
+  "set": "Sword & Shield Base Set",
+  "collector_number": "178/202",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "PokemonTCG.io API confirms the card's official name is 'Professor's Research (Professor Magnolia)' — the parenthetical subtitle is part of the card's canonical name and directly identifies the depicted figure. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Professor Magnolia is the regional Pokemon Professor of Galar, specializing in research into the Dynamax phenomenon. She is notable as one of the oldest regional professors depicted in the games and is characterized as nearing retirement, having delegated active fieldwork to her granddaughter Sonia. Her research into Dynamax was ultimately co-opted by Chairman Rose for his energy plans. [Bulbapedia: Professor Magnolia, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Professor Magnolia (via WebSearch snippet)", "PokemonTCG.io API swsh1-178"]
+    },
+    {
+      "category": "design",
+      "text": "The card's official PokemonTCG.io name is 'Professor's Research (Professor Magnolia)' — the parenthetical is a canonical part of the card title identifying which regional professor is depicted. This naming convention was introduced in the Sword & Shield series and continued in subsequent sets (e.g., Professor's Research (Professor Juniper), (Professor Sada), (Professor Turo)). Artist on this Holo Rare print is Yusuke Ohmura. [PokemonTCG.io API swsh1-178]",
+      "sources": ["PokemonTCG.io API swsh1-178"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Professor's Research (discard hand, draw 7) is the single most-played draw Supporter in the Sword & Shield era and remains a competitive staple across Expanded. Legal in Standard, Expanded, and Unlimited as of the swsh1 print. [PokemonTCG.io API swsh1-178; Pokemon.com official TCG database]",
+      "sources": ["PokemonTCG.io API swsh1-178", "Pokemon.com TCG card database (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Professor's Research has been reprinted with artwork of different regional professors across multiple sets: Professor Oak and Professor Elm (Celebrations), Professor Willow (Pokemon GO promotion, 2021), and Professor Sada / Professor Turo (Scarlet & Violet base set). A 2025 Trainer's Toolkit released SVP Black Star Promos for Professors Birch, Kukui, and Magnolia, giving Magnolia a separate non-Holo promo print outside of swsh1. [SNKRDUNK magazine article on Professor's Research reprints, via WebSearch snippet]",
+      "sources": ["SNKRDUNK magazine: Pokemon TCG Professor's Research reprints (via WebSearch snippet)", "PokemonTCG.io API swsh1-178"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Professor's Research (Professor Magnolia) (Full Art)", "set": "Sword & Shield", "note": "Full Art version of the same card in swsh1"},
+    {"name": "Professor's Research (Professor Oak)", "set": "Celebrations", "note": "Oak variant; part of the multi-professor reprint series"},
+    {"name": "Professor's Research (Professor Sada)", "set": "Scarlet & Violet Base", "note": "Scarlet & Violet era version of the same effect"},
+    {"name": "Sonia (Supporter)", "set": "Rebel Clash", "note": "Magnolia's granddaughter; depicted as researcher figure in Galar"},
+    {"name": "Marnie", "set": "Sword & Shield", "note": "Paired Galar trainer supporter card in the same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

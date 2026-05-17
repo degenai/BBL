@@ -10,8 +10,23 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - energy
+  - electricity
+  - green
+  - transfer
+  - power
+  - glow
+  - item-card
+  - technology
+  - symmetry
+  - lightning
+tags_filter:
+  - no-face
+  - wide
+  - item-card
+  - trainer-card
+  - abstract
 reference_image: cards/_images/pokemon/sword-shield-base-set/162-202-energy-switch.png
 average_cost_paid: 0
 market_price: 0.14
@@ -31,6 +46,9 @@ artist: Toyste Beach
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: other
+time_of_day: indeterminate
+setting: void
 tags:
   - card
   - pokemon
@@ -42,12 +60,17 @@ tags:
 
 ![162-202-energy-switch](../../_images/pokemon/sword-shield-base-set/162-202-energy-switch.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+The art depicts two dome-shaped glowing containers placed side by side, connected by a thick glowing green cable. Electrical or energy arcs radiate between them in a vivid green palette. A red circular energy symbol sits at the center junction point. The entire image is bathed in green light with a dark background that makes the energy glow pop. The composition is symmetrical and mechanical, conveying transfer of power from one source to another.
 
+**Subject:** Two glowing energy domes connected by a green electrical cable with energy arcing between them
 
-**Subject:** 
-
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, abstract, figures: none, facing: n/a
+**Setting:** void, indeterminate
+**Foreground:** two glowing energy domes with connecting cable and central red symbol  *(palette: green, red, white)*
+**Background:** dark black-green gradient  *(palette: black, dark-green)*
+**Mood / lighting:** other, rim
+**Emotion read:** n/a
+**Objects:** energy-dome, cable, energy-symbol
+**Iconography:** energy-symbol, lightning, circuit
+**Genre cues:** sci-fi, anime
 

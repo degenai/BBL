@@ -10,8 +10,24 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - poke-ball
+  - yellow
+  - sky
+  - capture
+  - hunt
+  - speed
+  - item-card
+  - sphere
+  - tool
+  - blue
+tags_filter:
+  - close-up
+  - no-face
+  - item-card
+  - trainer-card
+  - abstract
+  - outdoor
 reference_image: cards/_images/pokemon/sword-shield-base-set/179-202-quick-ball.png
 average_cost_paid: 0
 market_price: 0.17
@@ -32,6 +48,9 @@ artist: sadaji
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: day
+setting: other
 tags:
   - card
   - pokemon
@@ -43,12 +62,17 @@ tags:
 
 ![179-202-quick-ball](../../_images/pokemon/sword-shield-base-set/179-202-quick-ball.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+A large spherical Poke Ball variant rendered in yellow and blue occupies the center of the card art against an open sky background with wispy clouds and hints of blue horizon. The ball has the standard Poke Ball line dividing upper and lower halves, with a yellow-dominant upper half and dark blue lower, and a white center button. The composition gives the ball a floating or in-motion feel, as though just thrown or caught. This is identifiably the Quick Ball design from the mainline Pokemon games and TCG.
 
+**Subject:** A Quick Ball — a spherical Poke Ball in yellow and blue colorway floating in an open sky
 
-**Subject:** 
-
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** close-up, abstract, figures: none, facing: n/a
+**Setting:** other, day, clear
+**Foreground:** Quick Ball — yellow-and-blue Poke Ball variant  *(palette: yellow, blue, white, dark-navy)*
+**Background:** open sky with clouds  *(palette: sky-blue, white)*
+**Mood / lighting:** action, soft
+**Emotion read:** n/a
+**Objects:** poke-ball, quick-ball
+**Iconography:** poke-ball
+**Genre cues:** anime
 

@@ -1,0 +1,41 @@
+{
+  "card_name": "Pyukumuku",
+  "game": "Pokemon",
+  "set": "Sun & Moon Base Set",
+  "collector_number": "47",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "PokemonTCG.io API confirms card ID sm1-47, name 'Pyukumuku', nationalPokedexNumbers [771]. Pyukumuku is a canonical Game Freak / Nintendo creature (not an external third-party IP). Verification confirms canonical identity only.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Pyukumuku (National Pokedex no. 771) is the Sea Cucumber Pokemon, a Water-type introduced in Generation 7 (Sun & Moon, 2016). It does not evolve. It is native exclusively to Alola. Its Pokedex entries describe it as a devoted creature that will return to a favorite spot even after being removed and will stay there even to the point of starving — a trait that prompted an Alolan tradition of 'Pyukumuku-chucking' (tossing them back into food-rich waters), which became a paid part-time job at Hano Beach. [Bulbapedia: Pyukumuku via WebSearch snippet; Pyukumuku Pokemondb via WebSearch snippet]",
+      "sources": ["Bulbapedia: Pyukumuku (via WebSearch snippet)", "pokemondb.net/pokedex/pyukumuku (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (this print): \"It lives in shallow seas, such as areas near a beach. It can eject its internal organs, which it uses to engulf its prey or battle enemies.\" [PokemonTCG.io API sm1-47]",
+      "sources": ["PokemonTCG.io API sm1-47"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Innards Out Ability on this card (dealing 6 damage counters to the attacker when Knocked Out) directly reflects Pyukumuku's game-mechanic namesake from the mainline RPG: the Innards Out ability in Sun & Moon deals damage equal to the HP Pyukumuku had before the final blow. It is a defensive deterrent rather than an offensive tool, reflecting Pyukumuku's extreme defensive stats (base 130 Defense and 130 Special Defense) alongside a 5 base Speed — second-lowest in the entire Pokedex. [PokemonTCG.io API sm1-47; pokemondb.net via WebSearch snippet]",
+      "sources": ["PokemonTCG.io API sm1-47", "pokemondb.net/pokedex/pyukumuku (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "This Sun & Moon base set print (sm1) was released February 3, 2017. Artist is You Iribi. Card no. 47 of 149 printed cards. Uncommon rarity, HP 60, Grass weakness x2. The pink fist-like extrusion visible in the art is the expelled internal organ — depicted both in the TCG art and as an in-game mechanic. [PokemonTCG.io API sm1-47]",
+      "sources": ["PokemonTCG.io API sm1-47"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pyukumuku (Unified Minds)", "set": "Unified Minds", "note": "Later print of the same creature; different art"},
+    {"name": "Mareanie", "set": "Sun & Moon Base Set", "note": "Another Alola Water-type sea creature from sm1"},
+    {"name": "Wishiwashi", "set": "Sun & Moon Base Set", "note": "Alola Water-type with similarly unusual defensive ability design"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

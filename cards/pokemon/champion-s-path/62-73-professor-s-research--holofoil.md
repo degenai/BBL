@@ -46,6 +46,8 @@ setting: urban
 suspected_ip: Professor Magnolia
 ip_confidence: high
 ip_verified: true
+characters:
+  - galar-research-tradition
 tags:
   - card
   - pokemon

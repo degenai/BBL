@@ -1,0 +1,43 @@
+{
+  "card_name": "Marnie",
+  "game": "Pokemon",
+  "set": "Sword & Shield Base Set",
+  "collector_number": "169/202",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name and frame subtitle both read 'Marnie'; PokemonTCG.io API confirms card ID swsh1-169 with name 'Marnie'; the figure's distinctive pink-and-black dress and asymmetric pigtail hairstyle match canonical Marnie art. No ambiguity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Marnie is a rival character in Pokemon Sword & Shield (2019) who specializes in Dark-type Pokemon. She aims to become Champion to revitalize her hometown Spikemuth — a dilapidated city without its own Power Spot. She eventually succeeds her brother Piers as Spikemuth's Gym Leader after the player becomes Champion. [Bulbapedia: Marnie, via WebSearch snippet]",
+      "sources": ["Bulbapedia: Marnie (via WebSearch snippet)", "PokemonTCG.io API swsh1-169"]
+    },
+    {
+      "category": "design",
+      "text": "The Sword & Shield base set (set ID swsh1) released February 7, 2020, with 202 printed cards. Marnie appears as card no. 169/202 (Holo Rare) and also has a Full Art (no. 200/202) and Secret Rainbow Rare (no. 208/202) in the same set. Artist on this print is kirisAki. [PokemonTCG.io API swsh1-169]",
+      "sources": ["PokemonTCG.io API swsh1-169", "Bulbapedia: Marnie (Sword & Shield 169) (via WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Marnie is a hand-disruption Supporter: both players shuffle their hands to the bottom of their deck; the user draws 5, the opponent draws 4. It was considered a dual-purpose card — consistency engine AND disruption — and was frequently paired with Professor's Research and Boss's Orders in competitive Sword & Shield-era aggro decks. It is legal in Unlimited and Expanded formats but rotated out of Standard. [PokemonTCG.io API swsh1-169; suprpetrix.com competitive guide via WebSearch snippet]",
+      "sources": ["PokemonTCG.io API swsh1-169", "suprpetrix.com Pokemon TCG supporter guide (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "The Marnie Supporter card was reprinted extensively across the Sword & Shield era: a non-holofoil in the Build & Battle Box, a Holofoil reprint in Champion's Path, and multiple Japanese-exclusive reprints in VMAX Starter Sets, VMAX Climax, and others. [Bulbapedia: Marnie (Sword & Shield 169) via WebSearch snippet]",
+      "sources": ["Bulbapedia: Marnie (Sword & Shield 169) (via WebSearch snippet)", "Serebii.net TCG: Marnie card listings (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Marnie (Full Art)", "set": "Sword & Shield", "note": "Full Art version of the same supporter, same set (no. 200/202)"},
+    {"name": "Marnie (Secret Rare)", "set": "Sword & Shield", "note": "Rainbow Rare secret version (no. 208/202)"},
+    {"name": "Marnie (Champion's Path)", "set": "Champion's Path", "note": "Holofoil reprint in Champion's Path expansion"},
+    {"name": "Marnie's Pride", "set": "Brilliant Stars", "note": "Related Marnie-themed supporter card (Brilliant Stars 145)"},
+    {"name": "Boss's Orders", "set": "Rebel Clash", "note": "Competitive pairing staple alongside Marnie in aggro decks"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

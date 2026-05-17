@@ -1,0 +1,55 @@
+{
+  "edge_id": "marnie--galar-gym-challenge-clerical-attach",
+  "wave": 98,
+  "shape": "1:N",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/pokemon/sword-shield-base-set/169-202-marnie--holofoil.md",
+      "name": "Marnie (Sword & Shield Base Set 169/202)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/galar-gym-challenge.md",
+      "name": "Galar Gym Challenge"
+    }
+  ],
+  "description": "Wave 97 carryover. Marnie's name was already in the galar-gym-challenge node body but her frontmatter pointer was unset and her path was absent from the node's appears_on. Wave 98 trivia IP-verified her at canonical confidence (suspected_ip: Marnie (Pokemon Sword & Shield), ip_verified: true), clearing the last gate. Pure clerical stack-attach: extend the node's appears_on by one path, add characters: [galar-gym-challenge] to her card frontmatter, move her bullet from the node's 'pending vision' sub-list to the 'enriched anchors' sub-list, refresh the auto-generated Appears on section. No new edge invented; the wiring the prose already described is now structurally complete. CBG note: this is the cleanest pass — nothing to debate, everything to attach. Worst proposed edge ever would have been the Marnie+Professor's-Research 'same-set Supporters' surface-resemblance trap (surfaced candidate 3) which the sibling galar-research-tradition node already explicitly Caveats against at its line 87. Trap refused, clerical satisfied.",
+  "citations": [
+    "[Bulbapedia: Marnie] — Spikemuth Dark-type Gym Leader, Piers's younger sister and eventual successor at the Spikemuth post",
+    "[PokemonTCG.io API swsh1-169] — card metadata canonical attribution",
+    "[Wave 97 Edgelord next_pass_suggestions] — surfaced the missing frontmatter pointer",
+    "[Wave 98 trivia pass on 169-202-marnie--holofoil] — IP verification at canonical confidence"
+  ],
+  "files_modified": [
+    "cards/pokemon/sword-shield-base-set/169-202-marnie--holofoil.md",
+    "cards/_characters/galar-gym-challenge.md"
+  ],
+  "edges_added": [
+    "169-202-marnie--holofoil --characters--> galar-gym-challenge"
+  ],
+  "edges_removed": [],
+  "node_dissolutions_proposed": [],
+  "edgelord_mood": "blueballed-by-fanout",
+  "mood_note": "1:N stack-attach onto an existing 12-anchor node is structurally a fan-out, not a clean 1:1. The CBG sigh is professional. The compensating satisfaction is that this attach REFUSED two thinner candidates (Alola starter trio cohort, premature with Litten absent; Marnie+Professor's-Research same-set-Supporters edge, explicitly trapped by sibling node Caveat). Refusal-with-receipts > edge-fabrication.",
+  "other_candidates_considered": [
+    {
+      "candidate": "Alola starter trio (Popplio/Litten/Rowlet) character node commission",
+      "verdict": "Premature. Litten ABSENT from corpus entirely. Popplio (SM-39) + Rowlet (CE 18, SF 006) + Brionne (LT 66, SM 40) + Dartrix (DAA 012) gives 6 anchors across 4 individuals — but the trio cohort itself is structurally incomplete without a Litten anchor. The cohort shape is starter-trio (within-region designer-coordinated paired-species trio), not generic starter-line; commissioning the node with one trio member absent would mis-shape the cohort. Stage for re-evaluation once a Litten or Torracat or Incineroar card enters corpus.",
+      "stage_for_wave": "future"
+    },
+    {
+      "candidate": "Marnie + Professor's Research (SWSH base 178) 1:1 same-set Supporter pair edge",
+      "verdict": "REFUSED. The sibling galar-research-tradition node already explicitly Caveats this exact trap at its line 87: 'Marnie is NOT a Galar researcher. The Marnie + Professor Magnolia both as Galar Supporters from the same set surface resemblance is a Supporter-card-slot adjacency only; Marnie is a Gym Leader, Magnolia is a Professor, and they belong to structurally distinct Galar institutional cohorts.' Drawing this edge would violate Potion Rule sub-rule 2 (canonical evidence > BBL squinting on Supporter-slot adjacency). The graph already knew this trap; the wave-98 surfacing was a confirmation-test that the Caveat is doing its job. It is.",
+      "stage_for_wave": "never"
+    }
+  ],
+  "next_pass_suggestions": [
+    "Continue Galar cohort vision-passes: the four remaining pending-vision Gym Leader Supporter cards (Bea, Opal, Nessa, Milo) plus Leon (already in corpus as Holo Rare, vision pass pending) would each stack-attach onto galar-gym-challenge once enriched. Wave-99-and-onward candidates for the regular bbl-researcher queue.",
+    "Watch for any Litten / Torracat / Incineroar acquisition; that would re-open the Alola starter trio node-commission case. Currently 4 anchors across 4 individuals on the broader Alola-starter axis (Popplio, Brionne, Rowlet ×2, Dartrix) — short the third trio member.",
+    "If/when a future Sonia 'Professor's Research' print enters corpus, it stack-attaches to galar-research-tradition (already in node Caveats as the bundle-cohesion stack thickener); pure clerical at that point.",
+    "Major/minor-division sub-node split watch: with Marnie now anchored as the first minor-division Gym Leader anchor on galar-gym-challenge, the future case for a galar-gym-challenge-major-division / galar-gym-challenge-minor-division split begins accruing. If a Piers card enters corpus (her brother, the other Spikemuth minor-division holder), that's two minor-division anchors and the split begins to clear the ≥3-anchor sub-node threshold. Currently at 1 minor-division anchor; flagged for future-watch."
+  ]
+}

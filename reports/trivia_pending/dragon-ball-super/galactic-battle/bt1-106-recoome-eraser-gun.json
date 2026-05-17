@@ -1,0 +1,43 @@
+{
+  "card_name": "Recoome Eraser Gun",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-106",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via card name 'Recoome Eraser Gun', the close-up mouth-beam attack depicted (pink-white energy), white-and-orange Ginyu Force battle armor visible at shoulders, and Dragon Ball Wiki: Recoome Eraser Gun technique page. The Eraser Gun is Recoome's signature move and the art is a direct depiction of this specific technique.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Recoome Eraser Gun (BT1-106) is an Uncommon Yellow Extra card from Galactic Battle (BT1), the launch set of the Dragon Ball Super Card Game (July 28, 2017). As an Extra card it functions as Counter: Attack — when the Leader Card is Yellow, it negates an attack and prevents all opposing Battle Cards from attacking for that turn. Energy cost 4 (YY).",
+      "sources": ["House Rules Gaming / Big Orbit Cards product listings (via WebSearch)", "PSA CardFacts: 2017 Dragon Ball Z Super Series 1 Galactic Battle"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The Recoome Eraser Gun is a mouth-fired energy wave: Recoome charges pink energy in his mouth and releases it as a massive blast capable of distorting terrain. On Namek, Gohan saved Vegeta at the last instant while Krillin struck Recoome from behind — interrupting the beam and shattering most of Recoome's teeth.",
+      "sources": ["Dragon Ball Wiki: Recoome Eraser Gun (via WebSearch)", "DBZ Episode 64 'Recoome Unleashed' (via Dragon Ball Encyclopedia snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Recoome is the most physically imposing member of the Ginyu Force and its most flamboyant: he poses before every special move. In the Namek arc he single-handedly incapacitated Vegeta, Krillin, and Gohan before Goku's arrival. Goku neutralized him in a single strike — Recoome's defeat serving as the power-level benchmark for Goku's Namek-trained strength.",
+      "sources": ["Dragon Ball Wiki: Recoome (via WebSearch)", "TV Tropes: Dragon Ball Z Namek Arc Recap (via WebSearch)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Ginyu Force fills the narrative gap between Frieza's standard henchmen and Frieza himself, functioning as a tiered power-escalation device. Recoome as the Force's 'muscle' anchors that tier. His appearance in BT1 alongside other Ginyu Force-adjacent cards makes the set a natural cohort anchor for any Ginyu Force lair.",
+      "sources": ["Screen Rant: Ginyu Force analysis (via WebSearch)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Captain Ginyu", "set": "Galactic Battle (BT1)", "note": "Ginyu Force leader; same set, same squad"},
+    {"name": "Burter", "set": "Galactic Battle (BT1)", "note": "Ginyu Force member; 'fastest in the universe'"},
+    {"name": "Jeice", "set": "Galactic Battle (BT1)", "note": "Ginyu Force member; partnered with Burter"},
+    {"name": "Guldo", "set": "Galactic Battle (BT1)", "note": "Ginyu Force member; time-stopping abilities"},
+    {"name": "Vegeta", "set": "Galactic Battle (BT1)", "note": "Primary target of the Recoome Eraser Gun on Namek"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

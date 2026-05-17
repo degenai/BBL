@@ -1,0 +1,41 @@
+{
+  "card_name": "Whis's Coercion",
+  "game": "Dragon Ball Super",
+  "set": "Judge Promotion Cards",
+  "collector_number": "BT1-055",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Whis's Coercion' — the card is explicitly named after the character. BT1-055 originates from Galactic Battle (DBS-B01), the launch set of the Dragon Ball Super Card Game. The depicted figure's white upswept hair, robe with diamond-lattice pattern, and slender silhouette match Whis's canonical visual design precisely. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT1-055 is a Common Extra card from Galactic Battle (DBS-B01), the launch set of the Dragon Ball Super Card Game (July 2017). The Judge Promotion version in inventory is a foil promo released for sanctioned judges starting June 21, 2019, and also included in the Special Anniversary Box DBS-BE06. The base print was also included in Starter Deck 12 (Spirit of Potara). [TrollAndToad listing; DBS-cardgame.com search, via WebSearch snippet]",
+      "sources": ["TrollAndToad: Whis's Coercion BT1-055 foil Judge Promo", "DBS-cardgame.com card search, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Whis's Coercion is an Extra card with a Counter:Attack ability — it negates an opponent's attack and then allows you to switch up to one of your energy cards to Active Mode. Counter:Attack cards are reactive hand-traps in the DBS TCG; the ability to untap an energy as a bonus action makes this card's effect unusually efficient for a Common. [CoreTCG listing; DBS-cardgame.com, via WebSearch snippet]",
+      "sources": ["CoreTCG listing (coretcg.com)", "DBS-cardgame.com, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Whis is the Guide Angel Attendant of Universe 7's God of Destruction, Beerus, and serves as Beerus's martial arts teacher in Dragon Ball Super. He is one of twelve children of the Grand Minister and was trained by his older sister Vados (Angel Attendant of Universe 6), who was reportedly more powerful than Whis during their early training — though Whis later expressed uncertainty about whether that gap persisted. [Dragon Ball Wiki: Whis, via WebSearch snippet]",
+      "sources": ["Dragon Ball Wiki: Whis (dragonball.fandom.com/wiki/Whis), via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Angels in Dragon Ball Super are structurally distinct from mortals and even gods: they exist outside the cycle of life and death, are permanently in a state of Ultra Instinct, and are bound to their respective God of Destruction. The 'coercion' framing of this card reflects Whis's actual lore function — he does not merely advise Beerus; he constrains and trains him, intervening when Beerus overreaches. [Dragon Ball Wiki: Whis, via WebSearch snippet]",
+      "sources": ["Dragon Ball Wiki: Whis (dragonball.fandom.com/wiki/Whis), via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Vados", "set": "Various DBS sets", "note": "Whis's older sister; Angel Attendant of Universe 6; frequently paired in Universe 6 vs 7 sets"},
+    {"name": "Beerus", "set": "Galactic Battle and others", "note": "Whis's charge; God of Destruction of Universe 7; the two are inseparable in DBS TCG design"},
+    {"name": "Whis (BT1-xxx)", "set": "Galactic Battle", "note": "Character card counterpart to this spell/extra card in the same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Whis",
+    "ip_confidence": "high"
+  }
+}

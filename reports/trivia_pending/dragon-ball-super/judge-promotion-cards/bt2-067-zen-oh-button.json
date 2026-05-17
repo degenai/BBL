@@ -1,0 +1,48 @@
+{
+  "card_name": "Zen-Oh Button",
+  "game": "Dragon Ball Super",
+  "set": "Judge Promotion Cards",
+  "collector_number": "BT2-067",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via card name 'Zen-Oh Button', the depicted small round-headed blue-skinned figure in pink-white robe holding a button device, and Dragon Ball Wiki: Future Zeno / Villains Wiki: Zen-Oh. The card depicts Zen-Oh himself, not just an item card — the figure's distinctive spherical head and blue skin are canonical Zeno visual markers.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Zen-Oh Button (BT2-067) originates in Union Force (BT2), the second main set of the Dragon Ball Super Card Game. The BBL copy is a Judge Promotion Card (Level 2) — a holofoil alternate-art print bearing a 'JUDGE' stamp, distributed exclusively to certified tournament judges via official judge packs, never awarded to players.",
+      "sources": ["Pro Gaming Crew: 'Dragon Ball Super Judge Cards & Promo Packs EXPLAINED'", "TCGplayer Judge Promotion Cards: Zen-Oh Button listing", "Corner Magic Games: 'Zen-Oh Button (Level 2) (BT2-067) [Judge Promotion Cards]'"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card is a Blue Extra with 0 energy cost and a Counter: Attack skill that switches all blue energy to Active Mode. Zero cost means it can be dropped without any resource commitment mid-defense, making it a staple energy-recovery tool in blue control builds.",
+      "sources": ["CoreTCG: Zen-Oh Button BT2-067 listing", "DBZ Exchange: BT2-067 product listing (via WebSearch)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Zeno (Zen-Oh) is the Omni-King of the Dragon Ball multiverse — absolute supreme ruler over all twelve universes and their Gods of Destruction. He is depicted as a small, childlike figure in a pink-and-white robe, with his physical appearance in deliberate contrast to his limitless power.",
+      "sources": ["Dragon Ball Wiki / Fandom: Future Zeno (via WebSearch)", "Villains Wiki: Zen-Oh (via WebSearch)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The button depicted is the 'Zeno Button,' a call device given to Goku to summon Zeno at any moment. Goku used it to bring Future Zeno out of the corrupted future timeline during the 'Future' Trunks arc. Future Zeno subsequently erased 25 universes including all those corrupted by Infinite Zamasu — the highest confirmed kill count in the franchise.",
+      "sources": ["Dragon Ball Wiki / Fandom: Future Zeno (via WebSearch)"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community discourse frequently notes the deliberate tonal dissonance in Zeno's design: a placid, cute figure who has erased six universes out of displeasure and wiped an entire future multiverse. The card name foregrounds 'Button' rather than Zeno, but Zeno holds it — the instrument of annihilation framed as a cute prop.",
+      "sources": ["Villains Wiki: Zen-Oh (via WebSearch)", "Screen Rant: 'Dragon Ball: Strange Facts About Zeno' (via WebSearch)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Future Zeno", "set": "Judge Promotion Cards / various", "note": "Same character, future-timeline variant"},
+    {"name": "Goku", "set": "various sets", "note": "Recipient of the Zeno Button in canon; Zeno's 'friend'"},
+    {"name": "Zamasu", "set": "various sets", "note": "Zeno's erasure target; the corruption that triggered Future Zeno's multiverse wipe"},
+    {"name": "Whis", "set": "Union Force (BT2)", "note": "Same set of origin; angel attendant who contextualizes the Zeno-Goku relationship"},
+    {"name": "Grand Minister", "set": "various", "note": "Zeno's attendant; administers Zeno's decrees"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

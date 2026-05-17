@@ -12,26 +12,29 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image: cards/_images/pokemon/sun-moon-base-set/76-alolan-rattata.png
 average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-16
 date_added: 2026-05-11
 last_seen: 2026-05-16
 reference_image_source_url: https://images.pokemontcg.io/sm1/76_hires.png
-art_match_confidence: none
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 manual_review_reason: No reference image found via pokemontcg for set 'Sun & Moon Base Set'
 flavor_text: When the sun goes down, it becomes active. It runs around town on a chase for good food for the boss of its nest—Raticate.
 oracle_text: Gnaw 20
 review_good: false
 review_bad: false
 review_notes: ""
+artist: Kouki Saitou
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon
   - manual-review
-
 ---
 # Alolan Rattata (Sun & Moon Base Set)
 
