@@ -1,0 +1,36 @@
+{
+  "card_name": "Scholar",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-027C",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag; generic job-class card.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Scholar job class in FFXIV traces its in-universe origins to the ancient city-state of Nym on the island of Vylbrand. Nymian mages bound faerie companions to share healing duties with them — allowing scholars to focus on strategy and tactics rather than pure restoration. Both the city-state and the teaching were lost to the Sixth Umbral Calamity. In a further lore tragedy, the Nymians later fell ill with 'the sickness from the sea,' their bodies rotting until they became the creatures known as Tonberries. [FFXIV Community Wiki: Scholar; FFXIV ARR: The Tragedy of Nym, via WebSearch]",
+      "sources": ["FFXIV Community Wiki: Scholar (ffxiv.consolegameswiki.com)", "Dindeen.wordpress.com: FFXIV ARR — The Tragedy of Nym"]
+    },
+    {
+      "category": "design",
+      "text": "Scholar 8-027C was spoiled via an Italian FFTCG community retailer (Gold Saucer / GamesSource.it) before the set's official release — one of several Opus VIII commons that leaked through regional prerelease events rather than the official Card of the Week slot. The card art depicts a Lalafell-style figure (small race with pointed ears, consistent with FFXIV's Lalafell player race), wearing the Scholar's signature large academic hat and holding an open book. [FFTCG boards.net: Opus VIII Card Spoilers Megathread]",
+      "sources": ["FFTCG.boards.net: Opus VIII Card Spoilers Megathread (finalfantasytcg.gamesource.it)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "In FFXIV, Scholar is a healing job accessible by Arcanists at level 30 via job stone. Scholars conjure faeries — Eos (sunlight/restoration) and Selene (moonlight/invigoration) — to handle remote healing while the Scholar themselves deploys Aetherflow-based abilities and some of the game's most powerful shields. The faerie-summoning mechanic distinguishes Scholar from White Mage and Astrologian as the 'strategic shielder' of the healer trio. [FFXIV Job Guide: Scholar (na.finalfantasyxiv.com); FFXIV Community Wiki: Scholar]",
+      "sources": ["FFXIV Job Guide: Scholar (Square Enix official site)", "FFXIV Community Wiki: Scholar"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Summoner (FFXIV)", "set": "Various", "note": "Also unlocked from Arcanist at level 30 in FFXIV — Scholar and Summoner share the same base class"},
+    {"name": "White Mage", "set": "Various", "note": "Fellow FFXIV healer job; multiple White Mage cards across FFTCG opuses"},
+    {"name": "Bard (Opus VIII, 8-029C)", "set": "Opus VIII", "note": "Adjacent common backup in the same set, Opus VIII 8-029C"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

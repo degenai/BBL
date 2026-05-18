@@ -46,7 +46,7 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Edgar (Final Fantasy VI)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Edgar (Opus VIII)
@@ -55,8 +55,8 @@ ip_verified: false
 
 ![8-005c-edgar](../../_images/final-fantasy-tcg/opus-viii/8-005c-edgar.jpg)
 
-> [!warning] Suspected IP: **Edgar (Final Fantasy VI)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Edgar (Final Fantasy VI)**
+> Confirmed via FFTCG card job tag ("King"), Category VI marker, and canonical visual identity across Final Fantasy Wiki and multiple FFTCG printings. [Final Fantasy Wiki: Edgar Roni Figaro]
 
 A chibi-style humanoid figure rendered in FFVI art style stands in a three-quarter pose facing left. The figure wears layered blue and purple royal armor with gold trim and a long blond braid tied with purple ribbon bows. One fist is slightly raised — no weapon visible in hand. The background is a warm parchment cream with subtle texture. The card frame confirms the FFVI game origin and 'King' job class.
 
@@ -69,4 +69,17 @@ A chibi-style humanoid figure rendered in FFVI art style stands in a three-quart
 **Mood / lighting:** action, soft
 **Emotion read:** determined, chest slightly puffed, fist raised in confident posture
 **Genre cues:** fantasy, jrpg, chibi
+
+## Trivia
+
+- **Set context** — Opus VIII released March 22, 2019, and was the eighth booster set for the Final Fantasy TCG. At launch, Square Enix announced the series had shipped over 180 million cards worldwide. The set spotlighted Final Fantasy XV and Final Fantasy Brave Exvius as headline properties while continuing to seed FFVI representation at common rarity. `[Square Enix NA Press Hub: Opus VIII press release, 2019-03-22]`
+- **Design** — Edgar's Opus VIII printing (8-005C) is a common-rarity backup support piece for the Category VI (Final Fantasy VI) deck archetype. Community assessment at the Crystal Tower Podcast's Opus 8 First Impressions roundup described it as "an excellent card given that the original was never quite up to scratch," noting it can be searched off Setzer and provides a distinct element or CP cost compared to prior Edgar printings. `[Crystal Tower Podcast / Patreon: "Opus 8 First Impressions"]`
+- **Set / lore context** — Edgar Roni Figaro is the king of Figaro Castle in Final Fantasy VI — the most technologically advanced kingdom outside the Gestahlian Empire. His FFVI special command is "Tools," reflecting his role as a master engineer who manufactures custom weapons as a hobby. All of his FFTCG printings carry the "King" job tag, connecting the card's chibi regal design back to this dual inventor-monarch identity. `[Final Fantasy Wiki: Edgar Roni Figaro; Wikipedia: Characters of Final Fantasy VI]`
+- **Flavor-text context** — Edgar's defining story beat is the two-headed coin sequence: at age 17, Edgar secretly rigged a coin toss with his twin Sabin — one face Edgar, one face Sabin — to guarantee Sabin's freedom while obligating himself to take the throne. The deception is only revealed during an optional late-game flashback when Sabin exclaims "Big Brother, don't tell me!" This act of self-sacrifice is cited by FFVI scholars as the emotional core of Edgar's characterization. `[Final Fantasy Wiki: Two-headed coin; Wikipedia: Edgar and Sabin]`
+
+### Related cards
+- Sabin (Opus XI, 11-018H) — Edgar's twin; 8-005C was designed to support Sabin's action ability per community analysis
+- Locke (Opus IV, 4-048L) — Category VI forward that synergizes with Edgar backup pieces in FFVI decks
+- Celes (Opus IV, 4-038L) — Category VI forward commonly run alongside Edgar in constructed
+- Edgar (Rebellion's Call, 17-002L) — later Legend-rarity version of the same character; FFTCG officially spotlighted in a Card of the Week article
 

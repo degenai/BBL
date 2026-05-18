@@ -1,0 +1,41 @@
+{
+  "card_name": "Black Mage (XI)",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-030C",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag; generic job-class card with FFXI source-game tag.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The '(XI)' tag on this card identifies it as the Final Fantasy XI version of the Black Mage job class — the MMORPG set in Vana'diel, launched in 2002. Black Mage is one of the original six FFXI jobs available at launch and remains among the game's most iconic caster roles. In FFXI's lore, the Tarutaru race of the Federation of Windurst are the archetypal Black Mages: small-statured mages with the highest MP and Intelligence stats in the game, making them the optimal race for the job. The small-statured figure in the card art is consistent with this Tarutaru archetype. [FFXIclopedia Fandom: Black Mage; Final Fantasy Wiki Fandom: Tarutaru]",
+      "sources": ["FFXIclopedia (Fandom): Black Mage", "Final Fantasy Wiki (Fandom): Tarutaru"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The most celebrated Black Mage in FFXI lore is Shantotto, a Tarutaru Black Mage from Windurst and hero of the Crystal War. Shantotto 'practiced her black magic to utter perfection to ensure that her family line was preserved' and became a recurring FFXI character celebrated for her bombastic rhyming speech patterns. She appears in multiple FFTCG printings across different sets as a named character, while generic Black Mage (XI) cards like 8-030C represent the job class itself. [Final Fantasy Wiki Fandom: Shantotto]",
+      "sources": ["Final Fantasy Wiki (Fandom): Shantotto"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Black Mage (XI) 8-030C is a Common-rarity Ice-element Backup card. Its ability reads: '(Ice)(Ice)(3) Dull, put Black Mage into the Break Zone: Choose 1 dull Forward. Deal it 9,000 damage.' This is a powerful single-use removal ability — 9,000 damage eliminates most mid-range forwards — at the cost of sacrificing the backup itself. The self-sacrifice mechanic mirrors Black Mage's role as a high-burst, all-in caster. [Community research via WebSearch: French card listing 'Mage Noir 8-030C']",
+      "sources": ["finalfantasytcg.over-blog.com: 'Carte: Mage Noir (8-030C)' (French card listing, via WebSearch)"]
+    },
+    {
+      "category": "design",
+      "text": "Black Mage 8-030C was spoiled before the set's official release via the Team Flantastico Facebook page during the Opus VIII prerelease spoiler cycle — one of several commons revealed through regional community channels rather than official Square Enix Card of the Week posts. [FFTCG boards.net: Opus VIII Card Spoilers Megathread]",
+      "sources": ["FFTCG boards.net: Opus VIII Card Spoilers Megathread"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Shantotto", "set": "Various", "note": "Named FFXI Tarutaru Black Mage; the most famous FFXI Black Mage character, with multiple dedicated FFTCG printings"},
+    {"name": "Black Mage (FFVI)", "set": "Various", "note": "Different game source; FFTCG Black Mage cards carry source-game tags to distinguish them"},
+    {"name": "White Mage (XI)", "set": "Various", "note": "Companion healer job in FFXI; White Mage and Black Mage are the two founding magic jobs in FFXI"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Umaro",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-024C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The card art depicts a massive lavender-furred yeti viewed from behind, set against a pale sky-blue background. The FFTCG card explicitly labels this figure as category FFVI with 'Yeti' job class. The vision description — large lavender/pink fur, massive round-shouldered build, pale sky background — matches Umaro's canonical sprite and artwork across all Final Fantasy VI media. Additionally, a retailer (Total Cards) specifically lists this card as 'Final Fantasy Opus 8 - Umaro - (8-024C)' and the Patreon community roundup references Umaro's card text by name. IP verified as internal Square Enix / Final Fantasy VI property.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Umaro is one of two optional secret party members in Final Fantasy VI (the other being Gogo). He is a yeti found in the Yeti's Cave in the Narshe Cliffs during the World of Ruin — the game's second half after Kefka destroys the world. Mog must be in the party to recruit him; once defeated in battle, Umaro submits to Mog as his 'boss.' [Final Fantasy Wiki: Umaro (Final Fantasy VI party member)]",
+      "sources": ["Final Fantasy Wiki (Fandom): Umaro (Final Fantasy VI party member)", "Gameranx: Final Fantasy VI Pixel Remaster — How to Recruit Umaro"]
+    },
+    {
+      "category": "mechanical",
+      "text": "In Final Fantasy VI, Umaro is a Berserker — he cannot be directly controlled in battle. His actions are determined by equipped relics: the Berserker Ring causes him to throw party members at enemies, the Rage Ring enables glacial wind attacks, and without relics he uses a powerful physical attack. He cannot equip Magicite and therefore cannot learn magic — making him one of the most purely physical characters in the game. [Final Fantasy Wiki: Umaro (Final Fantasy VI party member)]",
+      "sources": ["Final Fantasy Wiki (Fandom): Umaro (Final Fantasy VI party member)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Umaro's FFTCG card (8-024C) is a Common-rarity Ice-element Forward. His card text includes: 'When Umaro enters the field, you may search for 1 monster and add it to your hand. Umaro must attack once per turn if possible.' His special ability 'Bodyslam' deals 7,000 damage to a target forward — a direct translation of his in-game physical attack that reflects the Berserker-must-attack mechanic. [Community research via WebSearch: totalcards.net Umaro listing]",
+      "sources": ["Total Cards (totalcards.net): Umaro 8-024C product listing"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Umaro's lore highlights an unusual detail: despite being a large yeti with limited speech (mostly grunts and groans), he is capable of crafting crude weapons and armor, and his cave features a bone carving and what appears to be a makeshift carpet. He only follows the party because Mog asserts himself as Umaro's 'boss' — Umaro demonstrates deep loyalty to Mog specifically, and by extension the broader party. [Final Fantasy Wiki: Umaro (Final Fantasy VI party member)]",
+      "sources": ["Final Fantasy Wiki (Fandom): Umaro (Final Fantasy VI party member)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mog", "set": "Various", "note": "Umaro's 'boss' in FFVI lore; Mog must be in the party to recruit Umaro"},
+    {"name": "Gogo", "set": "Various", "note": "The other optional secret party member in FFVI alongside Umaro"},
+    {"name": "Strago", "set": "Opus VIII (8-119C)", "note": "Fellow FFVI character spoiled in the same Opus VIII set; 8-119C Strago was revealed alongside Umaro in the same spoiler wave"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

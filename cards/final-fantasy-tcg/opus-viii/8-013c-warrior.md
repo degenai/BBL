@@ -64,3 +64,15 @@ A powerfully built humanoid figure in dark, spike-trimmed plate armor stands in 
 **Objects:** greataxe
 **Genre cues:** fantasy, jrpg, mmorpg
 
+## Trivia
+
+- **Set / lore context** — This card depicts the FFXIV Warrior job class, a greataxe-wielding tank role introduced in Final Fantasy XIV: A Realm Reborn (2013). The job's in-universe lore grounds it in a mountain tribe on the northernmost edge of Abalathia's Spine in Eorzea: "warriors learn to harness their inner beasts and translate that power into unbridled savagery on the battlefield." In ARR's peacetime world-state, the art of the warrior "had descended into the shadows of obscurity." `[FFXIV Job Guide: Warrior (na.finalfantasyxiv.com)]`
+- **Design** — Opus VIII (March 2019) launched with two Starter Sets — one themed on FFVII, one on FFXIV: Stormblood — making FFXIV job-class commons like Warrior a natural filler block for the XIV starter deck ecosystem. The dark spiked plate armor with angular pauldrons and crimson wrapping in the card art matches FFXIV's Warrior visual design as rendered in the game's Stormblood-era 3D engine. `[Square Enix NA Press Hub: Opus VIII press release, 2019-03-22]`
+- **Mechanical** — Warrior 8-013C is a Common-rarity Fire-element Forward. Community assessment at the Crystal Tower Podcast's Opus 8 First Impressions described it as "an incredibly average standard unit that will see 0 constructed play" — a typical job-class common whose primary role is draft and limited formats. `[Crystal Tower Podcast / Patreon: "Opus 8 First Impressions"]`
+- **Character lore** — The Warrior's core FFXIV mechanic is the Beast Gauge: building fury through combat actions to spend on burst abilities (Fell Cleave, Inner Chaos). The "inner beast" is both a mechanical resource and lore concept — Eorzean warriors channel primal rage that makes them dangerous to enemies and, if uncontrolled, to allies. `[FFXIV Community Wiki: Warrior; Icy Veins: FFXIV Warrior Guide]`
+
+### Related cards
+- Warrior of Light (Various) — recurring FFTCG card; 8-012H Zenos in this same set gains power when an opponent controls a "Warrior of Light" forward
+- Marauder (FFXIV) — base class that upgrades to Warrior at level 30 in FFXIV
+- Dark Knight (FFXIV, Various) — fellow FFXIV tank job, often paired with Warrior in XIV-focused FFTCG decks
+

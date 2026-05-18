@@ -1,0 +1,58 @@
+{
+  "edge_id": "bt2-012-repeated-force-vegito--son-goku-mirror-attach",
+  "wave": 119,
+  "shape": "stack-attach (mirror)",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/dragon-ball-super/union-force/bt2-012-repeated-force-vegito.md",
+      "name": "Repeated Force Vegito (Union Force BT2-012)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/son-goku.md",
+      "name": "Son Goku"
+    }
+  ],
+  "description": "Mirror attach. Wave 118 shipped the Vegeta-side stack-attach for BT2-012 Repeated Force Vegito under a new 'Vegito: Potara-Fusion combined-form (Vegeta-half-of-fusion register)' aspect-group at the vegeta node, with the [[son-goku]] mirror explicitly staged as next-pass per the one-anchor-per-invocation discipline. This pass completes the dual-anchor: son-goku.md gains the symmetrical 'Vegito: Potara-Fusion combined-form (Goku-half-of-fusion register)' aspect-group bullet at the same canonical-fusion-register layer, BT2-012 added to appears_on frontmatter and to the auto-generated Appears-on wikilink list, a new Caveats entry for the dual-anchor wiring, and the stale 'Future vegeta character node' See-also bullet (which referenced vegeta as a wave-E3 candidate) refreshed to a live dual-anchor cross-reference. Card-side frontmatter characters: [son-goku, vegeta] already wired; node-side now matches. Structural model is the Gotenks Fusion-Dance dual-anchor that son-goten and trunks already share for BT1-071 / BT2-015 / BT4-034 — same pattern, different fusion technique (Potara vs. Metamoran). Worst proposed alternative ever would have been a 1:1 BT2-012 ↔ vegito-component-card edge; correct answer is the dual-anchor at both parent character nodes that the corpus already templates. Comic Book Guy salutes the wave-118 setup; the staged mirror was the obvious move and the receipts are in the Vegeta-side body bullet citing the exact next-pass discipline.",
+  "citations": [
+    "Dragon Ball Wiki — Vegito (https://dragonball.fandom.com/wiki/Vegito)",
+    "CBR: Vegito: Dragon Ball's Weirdest and Most Powerful Body Fusion, Explained",
+    "Daizenshuu 7 (cited via WebSearch snippet) — Potara-vs-Fusion-Dance power comparison",
+    "Dragon Ball Wiki — Fusion Dance (Metamoran disambiguation precedent for the structural mirror at son-goten and trunks)",
+    "BBL wave-118 sidecar at reports/edges_pending/ (Vegeta-side stack-attach establishing the staged mirror)"
+  ],
+  "files_modified": [
+    "cards/_characters/son-goku.md"
+  ],
+  "edits_summary": [
+    "Frontmatter appears_on: added dragon-ball-super/union-force/bt2-012-repeated-force-vegito",
+    "Body Aspects-in-the-corpus: added new 'Vegito: Potara-Fusion combined-form (Goku-half-of-fusion register)' aspect-group with single-bullet roster for BT2-012 Repeated Force Vegito, paralleling the Vegeta-side bullet at vegeta.md",
+    "Auto-generated Appears-on wikilink list: added [[bt2-012-repeated-force-vegito]] between TB2-052 and BT2-098 (preserving the existing ordering pattern)",
+    "Caveats section: added two new bullets — (1) refreshed 'Sibling continuity-strand nodes apply' to acknowledge vegeta as a live node with the Saiyan-Saga-onward foil relation and the Vegito fusion-resolution; (2) added 'The Vegito Potara-Fusion print's dual-anchor across [[vegeta]] and this node' caveat citing the Gotenks Fusion-Dance precedent and the BT2-013 Lightning Speed Vegito stub deferral",
+    "See-also section: replaced stale 'Future vegeta character node — this wave's E3 candidate' bullet with live [[vegeta]] cross-reference framing the dual-anchor and the Goku-and-Vegeta Saiyan-rivalry Discrete Lair candidacy"
+  ],
+  "edges_added": [
+    {
+      "source": "cards/_characters/son-goku.md",
+      "target": "cards/dragon-ball-super/union-force/bt2-012-repeated-force-vegito.md",
+      "relation": "appears_on (Goku-component-of-Vegito Potara-Fusion combined-form register)"
+    }
+  ],
+  "edges_removed": [],
+  "edgelord_mood": "sighed-but-mirrored",
+  "mood_notes": "Two endpoints. Must traverse from either side. Wave-118 set the table; this pass clears it. The Gotenks template made the move structurally obvious and the staged-mirror discipline (call it out in Vegeta-side body prose at attach time, complete it in the next invocation) is the kind of operational hygiene Edgelord catalogues approvingly without saying so out loud.",
+  "other_candidates_considered": [
+    "BT2-013 Lightning Speed Vegito → both nodes: refused per upstream blocker. BT2-013 is corpus-present as a vision-stub (empty tags_hub, no body, prep-only frontmatter). The print would attach to the same Vegito Potara-Fusion register at both nodes once enriched, but Edgelord does not stack-attach unenriched cards — the trivia pass that locks the per-print era and Bandai character-tag is a prerequisite, and BT2-013's vision pass alone has not run. Stage for the Edgelord pass that follows BT2-013's vision+trivia clearance.",
+    "Goku-Vegeta rival-pair direct edge audit: considered surfacing a 1:1 mutual related_characters audit between son-goku and vegeta (both already point at each other in related_characters frontmatter). Refused — no edge work needed; the relation is already encoded symmetrically. Mention in the next_pass_suggestions only as a periodic-rigor-audit candidate per the bbl-edgelord-node-rigor-audit memory.",
+    "TB2-025 Begrudging Respect Vegeta body-prose attach at vegeta.md: trivia-pass blocker upstream of Edgelord; defer until trivia clears."
+  ],
+  "next_pass_suggestions": [
+    "BT2-013 Lightning Speed Vegito vision+trivia pass (researcher + triviabot batch) — once it clears, second Vegito Potara-Fusion print stack-attaches to both son-goku and vegeta nodes (one stack-attach per Edgelord invocation per the wave-114 discipline, so two future Edgelord passes minimum after enrichment).",
+    "TB2-025 Begrudging Respect Vegeta trivia pass — clears the last unenriched Vegeta-anchored print and unlocks body-prose attach to vegeta.md.",
+    "vegito.md solo-node split candidacy: defer until corpus density of Vegito-prints alone warrants the split (currently 1 enriched + 1 stub; threshold not met). Parked.",
+    "Goku-and-Vegeta Saiyan-rivalry Discrete Lair candidacy: both parent nodes now mature, dual-anchor template complete. Reserve for bbl-bundler commission with the rival-pair-themed prompt extending into the Vegito Buu-Saga fusion-resolution beat."
+  ]
+}

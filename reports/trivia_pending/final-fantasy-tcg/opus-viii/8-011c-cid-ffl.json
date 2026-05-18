@@ -1,0 +1,41 @@
+{
+  "card_name": "Cid (FFL)",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-011C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The 'FFL' category designation in FFTCG refers to Final Fantasy Dimensions (also labeled 'Final Fantasy Legends' in some contexts). Cid in Final Fantasy Dimensions is a senior Imperial officer, inventor of the world's first airship in that game's world, and a brilliant machinist. The card art depicts an older stern figure in a layered green military coat with gold epaulettes and a dark mustache — consistent with a senior Imperial official. The artist for FFL cards in Opus VIII was listed as Akira Oguro (Final Fantasy Legends) in the Square Enix press release. IP verified as internal Square Enix / Final Fantasy Dimensions property.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The 'FFL' category tag in FFTCG stands for Final Fantasy Dimensions (also marketed as 'Final Fantasy Legends' in Japan). Cid (FFL) is Cid from Final Fantasy Dimensions — a mobile RPG released globally in 2012. Opus VIII's Square Enix press release specifically named Akira Oguro (Final Fantasy Legends) as one of the artists who contributed exclusive original artwork to the set. [Square Enix NA Press Hub: Opus VIII press release, 2019-03-22]",
+      "sources": ["Square Enix NA Press Hub: Opus VIII press release (2019-03-22)", "Final Fantasy Wiki (Fandom): Final Fantasy Dimensions"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Final Fantasy Dimensions, Cid is the inventor of the world's first airship and director of the Avalonian imperial air force. He is initially one of the Emperor's most trusted subjects — a vain but skilled machinist — before undergoing a redemption arc and defecting to the protagonists' side. His role as an engineer-turned-rebel is consistent with the broader Cid archetype across the Final Fantasy franchise. [Final Fantasy Wiki (Fandom): Cid (Dimensions)]",
+      "sources": ["Final Fantasy Wiki (Fandom): Cid (Dimensions)"]
+    },
+    {
+      "category": "design",
+      "text": "Cid is the only Final Fantasy franchise character to appear in every mainline entry (with occasional exceptions). The Cid tradition began with Final Fantasy II (1988), where Cid Previa appears as the first named Cid — a freelance airship pilot who bequeathed his ship to the rebel faction before dying. The FFTCG uses parenthetical source-game tags (FFL, FFBE, FFVI, etc.) to distinguish different Cid incarnations because the character appears across so many properties. [Final Fantasy Wiki: Cid; Game Rant: Every Version of Cid in the Franchise]",
+      "sources": ["Final Fantasy Wiki (Fandom): Cid", "Game Rant: Final Fantasy – Every Version of Cid"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Cid (FFL) 8-011C is a Common-rarity Fire-element Backup card in Opus VIII. As a backup, it functions as a resource card that generates CP or applies an ability to support forwards on the field rather than attacking directly. [Troll and Toad product listing: Cid (FFL) 8-011C]",
+      "sources": ["Troll and Toad: Cid (FFL) 8-011C product listing"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Cid (FFVI)", "set": "Various", "note": "Different Cid; FFVI's Cid Del Norte Marquez is the Empire's scientist, a parallel to FFL Cid's Imperial engineer role"},
+    {"name": "Cid (FFVII)", "set": "Various", "note": "Cid Highwind — the most widely recognized Cid in mainstream pop culture"},
+    {"name": "Cid (FFIV)", "set": "Various", "note": "Cid Pollendina, airship engineer; same archetype"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

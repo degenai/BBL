@@ -65,3 +65,15 @@ A small-statured figure stands in a snowy outdoor environment wearing the classi
 **Iconography:** glowing-orb
 **Genre cues:** fantasy, jrpg, mmorpg
 
+## Trivia
+
+- **Set / lore context** — The "(XI)" tag identifies this as the Final Fantasy XI version of the Black Mage job class — FFXI's MMORPG set in Vana'diel, launched in 2002. Black Mage is one of the original six jobs available at FFXI launch. In FFXI lore, the Tarutaru race of the Federation of Windurst are the archetypal Black Mages: small-statured mages with the highest MP and Intelligence in the game, making them the optimal race for the job. The small-statured robed figure in conical hat in the card art is consistent with this Tarutaru cultural identity. `[FFXIclopedia: Black Mage; Final Fantasy Wiki: Tarutaru]`
+- **Character lore** — The most celebrated FFXI Black Mage is Shantotto — a Tarutaru from Windurst and hero of the Crystal War, known for "practicing her black magic to utter perfection" and her bombastic rhyming speech patterns. She appears as a named character across multiple FFTCG printings. Generic Black Mage (XI) cards like 8-030C represent the job class itself rather than any specific individual. `[Final Fantasy Wiki: Shantotto]`
+- **Mechanical (FFTCG)** — Black Mage (XI) 8-030C is a Common-rarity Ice-element Backup. Its ability: "(Ice)(Ice)(3) Dull, put Black Mage into the Break Zone: Choose 1 dull Forward. Deal it 9,000 damage." This is a high-burst single-use removal piece — 9,000 damage eliminates most mid-range forwards — at the cost of sacrificing the backup. The self-sacrifice mirrors Black Mage's all-in burst-caster identity. `[French FFTCG community listing: "Mage Noir (8-030C)", via WebSearch]`
+- **Design** — Black Mage 8-030C was revealed before the set's official release via the Team Flantastico Facebook page during the Opus VIII prerelease spoiler season — one of several commons disclosed through regional community channels rather than Square Enix's official Card of the Week posts. `[FFTCG boards.net: Opus VIII Card Spoilers Megathread]`
+
+### Related cards
+- Shantotto (Various) — named FFXI Tarutaru Black Mage with multiple FFTCG printings; the job's most iconic named character
+- White Mage (XI) (Various) — companion healer job in FFXI; White Mage and Black Mage are the two founding magic jobs
+- Black Mage (FFVI) (Various) — different source game; FFTCG uses "(XI)" / "(VI)" tags to distinguish versions
+

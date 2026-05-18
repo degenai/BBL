@@ -1,0 +1,41 @@
+{
+  "card_name": "Warrior",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-013C",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag; generic job-class card.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Warrior card (8-013C) depicts the FFXIV Warrior job class — a greataxe-wielding tank role introduced in Final Fantasy XIV: A Realm Reborn (2013). The Warrior's in-universe lore ties it to a mountain tribe on the northernmost edge of Abalathia's Spine in Eorzea: 'warriors learn to harness their inner beasts and translate that power into unbridled savagery on the battlefield.' In ARR's peacetime lore, the art of the warrior had 'descended into the shadows of obscurity.' [FFXIV Job Guide: Warrior (na.finalfantasyxiv.com)]",
+      "sources": ["FFXIV Job Guide: Warrior (Square Enix official site)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Warrior 8-013C is a Common-rarity Fire-element Forward card in Opus VIII. Community assessment at the Crystal Tower Podcast's Opus 8 First Impressions noted it as 'an incredibly average standard unit that will see 0 constructed play' — a typical entry-level job-class common that sees primary use in limited/draft formats rather than competitive constructed decks. [Crystal Tower Podcast / Patreon: 'Opus 8 First Impressions']",
+      "sources": ["Crystal Tower Podcast / Patreon: Opus 8 First Impressions"]
+    },
+    {
+      "category": "design",
+      "text": "The Warrior card in Opus VIII matches FFXIV's 3D visual aesthetic as identified in the vision pass — the dark spiked plate armor with angular pauldrons and crimson wrapping is visually consistent with FFXIV's in-engine Warrior job appearance since Stormblood. Opus VIII also released two Starter Sets at launch — one themed on FFVII and one on FFXIV: Stormblood — making FFXIV job-class commons like Warrior a natural set filler for the XIV starter deck support. [Square Enix NA Press Hub: Opus VIII press release, 2019-03-22]",
+      "sources": ["Square Enix NA Press Hub: Opus VIII press release (2019-03-22)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Warrior's core gameplay mechanic in FFXIV is the Beast Gauge — building fury through actions to spend on burst abilities like Fell Cleave and Inner Chaos. This 'fury' or 'inner beast' mechanic is the defining lore and mechanical identity of the job: Eorzean warriors literally channel an inner beast that makes them dangerous to enemies and allies alike if uncontrolled. [FFXIV Community Wiki: Warrior; Icy Veins FFXIV Warrior Guide]",
+      "sources": ["FFXIV Community Wiki: Warrior (ffxiv.consolegameswiki.com)", "Icy Veins: FFXIV Warrior Guide"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Warrior of Light", "set": "Various", "note": "FFTCG's recurring Warrior of Light card references the original FFI hero; the 8-012H Zenos card in this same set gains power when an opponent controls a 'Warrior of Light' forward"},
+    {"name": "Marauder", "set": "Various", "note": "FFXIV Marauder is the base class that unlocks Warrior at level 30 in the game"},
+    {"name": "Dark Knight (FFXIV)", "set": "Various", "note": "Fellow FFXIV tank job; often appears alongside Warrior in FFTCG XIV-focused decks"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

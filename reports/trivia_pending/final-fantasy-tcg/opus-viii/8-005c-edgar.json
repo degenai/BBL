@@ -1,0 +1,43 @@
+{
+  "card_name": "Edgar",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-005C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card explicitly carries the 'King' job class and FFVI category marker. The chibi-style figure's blue-purple royal armor with gold trim and long blond braid matches canonical depictions of Edgar Roni Figaro across all Final Fantasy VI media. The FFTCG card-of-the-week article for later Edgar cards (e.g. 17-002L) and the Final Fantasy Wiki confirm Edgar's visual identity across FFTCG printings. IP verified as internal Square Enix / Final Fantasy VI property.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Opus VIII (released March 22, 2019) was the eighth booster set for the Final Fantasy TCG and carried over 180 million cards shipped worldwide at time of release. The set spotlighted Final Fantasy XV and Final Fantasy Brave Exvius as headline properties, while continuing to include fan-favorites from earlier titles including Final Fantasy VI. [Square Enix press release, March 22 2019]",
+      "sources": ["Square Enix NA Press Hub: Opus VIII press release (2019-03-22)"]
+    },
+    {
+      "category": "design",
+      "text": "Edgar is one of the most-printed FFVI characters in FFTCG, spanning common backups through legend-rarity forwards across multiple opuses. His Opus VIII printing (8-005C) is a common-rarity card in the Fire or Wind element, filling the role of a Category VI backup support piece. Community assessment on the Opus 8 First Impressions podcast noted it as 'an excellent card given that the original was never quite up to scratch,' specifically citing synergy with Locke and the ability to be searched off Setzer. [Crystal Tower Podcast / Patreon, Opus 8 First Impressions]",
+      "sources": ["Crystal Tower Podcast: Opus 8 First Impressions (Patreon post)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Edgar Roni Figaro is the king of Figaro Castle in Final Fantasy VI — the most technologically advanced kingdom in the world outside the Gestahlian Empire. His playable special ability in FFVI is the 'Tools' command, reflecting his in-universe role as a master engineer who manufactures custom weaponry as a hobby. This dual identity (noble king / hands-on inventor) is a defining character trait across all of his FFTCG printings, which typically carry the 'King' job tag. [Final Fantasy Wiki: Edgar Roni Figaro; Wikipedia: Characters of Final Fantasy VI]",
+      "sources": ["Final Fantasy Wiki (Fandom): Edgar Roni Figaro", "Wikipedia: Characters of Final Fantasy VI"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Edgar's most celebrated narrative moment is the two-headed coin sequence: at age 17, after their father died, Edgar secretly rigged a coin toss with Sabin to guarantee his twin brother's freedom while obligating himself to ascend the throne. The coin — one face Edgar's, one face Sabin's — is used twice in the game to rig plot-critical outcomes. The trick is only revealed to Sabin during an optional late-game flashback. This self-sacrifice is foundational to Edgar's character across all Final Fantasy VI media. [Final Fantasy Wiki: Two-headed coin; Wikipedia: Edgar and Sabin]",
+      "sources": ["Final Fantasy Wiki (Fandom): Two-headed coin", "Wikipedia: Edgar and Sabin"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sabin", "set": "Opus XI", "note": "Edgar's twin brother; 11-018H Sabin has an action ability Edgar 8-005C was specifically designed to support per community analysis"},
+    {"name": "Locke", "set": "Opus IV", "note": "4-048L Locke synergizes with Edgar backups per Crystal Tower Podcast Opus 8 analysis"},
+    {"name": "Celes", "set": "Opus IV", "note": "4-038L Celes is a Category VI forward that pairs in Edgar/FFVI decks"},
+    {"name": "Setzer", "set": "Various", "note": "Setzer is noted as a search vehicle for Edgar backup pieces in FFVI category decks"},
+    {"name": "Edgar, King of Figaro", "set": "Final Fantasy (MTG FIN)", "note": "MTG Universes Beyond card of Edgar as a Magic planeswalker-adjacent card — different IP medium"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}
