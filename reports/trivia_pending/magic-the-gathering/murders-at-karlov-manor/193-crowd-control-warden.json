@@ -1,0 +1,68 @@
+{
+  "card_name": "Crowd-Control Warden",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "193",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Murders at Karlov Manor (MKM) released 2024-02-09, set on Ravnica and built around a top-down murder-mystery concept. The Ravnican Agency of Magicological Investigations (R.A.M.I.) is a post-Phyrexian-invasion faction founded by the guildless archon Ezrim, who broke from the Azorius to pursue crime investigation free of guild bias. The Agency grew to guild-scale in the aftermath of the invasion. Crucially, Agency detectives are explicitly prohibited from making arrests — they investigate and report findings to the guilds; enforcement is someone else's job. The Warden as an Agency-affiliated soldier sits on the enforcement side of that line.",
+      "sources": ["Wizards.com: Planeswalker's Guide to Murders at Karlov Manor", "Scryfall (release date, set)"]
+    },
+    {
+      "category": "design",
+      "text": "Disguise is MKM's evolution of Morph: casting a card face down for {3} as a 2/2 with ward 2 instead of a bare 2/2. The ward 2 addition addressed a longstanding Morph weakness — a three-mana face-down creature had no protection against a one-mana removal spell like Shock. Wizards' State of Design 2024 noted that while many players appreciated the upgrade, some felt it unnecessary and others grew tired of ward's prevalence in recent sets. Crowd-Control Warden is the only green-white identity disguise card in MKM, making it the dedicated payoff anchor for the GW (Selesnya) disguise archetype in that set.",
+      "sources": ["Wizards.com: State of Design 2024", "Scryfall (keyword, color_identity, set search)", "draftsim.com: MTG Disguise Rules"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Crowd-Control Warden's ETB/face-up ability scales with board presence: X +1/+1 counters where X equals the number of other creatures you control. In a go-wide GW board state this can land as a 6/6, 8/8, or larger the turn it flips. In MKM Limited, Untapped.gg tracked a 53.3% overall win rate and a 57.0% in-hand win rate across 140,000+ games. EDHREC lists the card in approximately 1,359 Commander decks. Its Pauper-legal status extends its reach beyond Standard and Commander into budget formats.",
+      "sources": ["Scryfall (oracle_text, legalities)", "Untapped.gg: Crowd-Control Warden card page (via WebSearch snippet)", "EDHREC: Crowd-Control Warden page (meta description)"]
+    },
+    {
+      "category": "design",
+      "text": "Diego Gisbert (full name Diego Gisbert Llorens) is a Spanish freelance illustrator based in Berlin. As of 2026 he has illustrated approximately 58 Magic cards across Scryfall's catalog, spanning sets from Commander Legends: Battle for Baldur's Gate (2022) through Edge of Eternities (2026). Within MKM he illustrated two cards: Crowd-Control Warden and The Chase Is On (a story-spotlight Instant featuring Kaya pursuing Etrata). No Hipsters of the Coast artist interview or designer commentary on Crowd-Control Warden's commission brief was found.",
+      "sources": ["Scryfall: artist search a:\"Diego Gisbert\"", "WebSearch: Diego Gisbert Llorens MTG artist"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment from MKM Limited reviews: Sumala Sentry (MKM uncommon) and Crowd-Control Warden are named as the 'bread and butter pairing' for the Selesnya disguise archetype, with GW described as one of the strongest color pairs in MKM Draft. No dedicated Reddit thread on Crowd-Control Warden was found; the card generates discussion primarily as part of the GW archetype rather than as a standalone talking point.",
+      "sources": ["Draftsim: Murders at Karlov Manor Limited Set Review (via WebSearch snippet)", "WebSearch: site:reddit.com Crowd-Control Warden (no results found)"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Sumala Sentry",
+      "set": "MKM",
+      "note": "Named pairing partner for Warden in the Selesnya disguise archetype; triggers +1/+1 counters when any face-down permanent flips"
+    },
+    {
+      "name": "The Chase Is On",
+      "set": "MKM",
+      "note": "Second Diego Gisbert card in MKM; story-spotlight Instant featuring Kaya and Etrata"
+    },
+    {
+      "name": "A Mysterious Creature",
+      "set": "MKM",
+      "note": "Scryfall lists as combo_piece with Crowd-Control Warden; the face-down token placeholder card"
+    },
+    {
+      "name": "Ezrim, Agency Chief",
+      "set": "MKM",
+      "note": "Legendary archon who founded R.A.M.I.; lore-context anchor for the Agency faction the Warden represents"
+    },
+    {
+      "name": "Secure the Scene",
+      "set": "M21",
+      "note": "White law-enforcement spell (Azorius-flavored) in Discrete Lair 002 Tithe bundle; thematic law-enforcement resonance across bundles"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

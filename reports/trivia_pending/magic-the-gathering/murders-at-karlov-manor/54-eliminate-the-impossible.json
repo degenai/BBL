@@ -1,0 +1,73 @@
+{
+  "card_name": "Eliminate the Impossible",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "54",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Murders at Karlov Manor (set code MKM) was released February 9, 2024 as a top-down murder mystery set set on Ravnica — the first MTG set built entirely around the tropes of detective fiction. Mark Rosewater later described it as one of the worst-performing sets 'in many years,' citing an overcorrection toward murder mystery genre theming at the expense of the broader Ravnican identity players expected from a Ravnica backdrop set. [Wargamer / TheGamer, citing MaRo post-mortem]",
+      "sources": ["Wargamer: Murders at Karlov Manor was a flop, says MTG head designer", "TheGamer: Murders At Karlov Manor Is Magic's Worst-Performing Set In Many Years", "Wizards: Getting Away with Murders at Karlov Manor Part 1"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The card's title is a direct lift of the most famous Sherlock Holmes deduction formula: 'How often have I said to you that when you have eliminated the impossible, whatever remains, however improbable, must be the truth?' — spoken by Holmes to Watson in Chapter 6 ('Sherlock Holmes Gives a Demonstration') of Arthur Conan Doyle's The Sign of the Four, first published in Lippincott's Monthly Magazine in 1890. Doyle used variants of the principle in two later stories ('The Beryl Coronet,' 1892, and 'The Blanched Soldier,' 1926) but the full canonical phrasing originates in Chapter 6. [Quote Investigator / WebSearch snippet citing Wikisource]",
+      "sources": ["Quote Investigator: quoteinvestigator.com/2024/05/02/eliminate-impossible/", "LitCharts: The Sign of the Four Chapter 6", "Wikisource: The Sign of the Four/Chapter 6"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The printed flavor text — 'Half the city had motive. Time to narrow down who also had the means and opportunity.' — invokes the classic criminal-investigation trinity of means, motive, and opportunity (M.M.O.), the three criteria courts and investigators use to establish guilt. This is not a Doyle quote; it is original MKM flavor placing a Ravnican detective's voice inside the Holmes framework the card name establishes. [Scryfall flavor_text field]",
+      "sources": ["Scryfall: api.scryfall.com/cards/486f1cc2-c162-448e-91a9-577d7d796584 (flavor_text field)"]
+    },
+    {
+      "category": "design",
+      "text": "The oracle text contains a counterintuitive design wrinkle: the card *removes* suspected status from opponent's creatures rather than applying it. The suspect mechanic gives a creature menace and strips its ability to block. Cards that grant suspected to opposing creatures are offensive tools; Eliminate the Impossible is one of the few effects that punishes opponents who have built board states around suspected — restoring blockers to their blocking function while simultaneously weakening them at -2/-0 and netting a Clue token. [Wizards: Murders at Karlov Manor Mechanics article]",
+      "sources": ["Wizards: magic.wizards.com/en/news/feature/murders-at-karlov-manor-mechanics", "Scryfall oracle_text field"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Carlos Palma Cruchaga has illustrated 34+ Magic: The Gathering cards across multiple sets, including Life from the Loam (Ravnica Remastered), Case of the Market Melee (MKM), and basic lands for Bloomburrow. No Hipsters of the Coast artist spotlight was found for this artist as of the research date. His ArtStation handle is cpcwolf. [Gatherer artist search / WebSearch]",
+      "sources": ["Gatherer: gatherer.wizards.com/search?artistName=eq~Carlos_Palma_Cruchaga", "WebSearch: mtgartistconnection.com/artist/Carlos%20Palma%20Cruchaga"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The card's characters field links to the Agency, referencing the Ravnican Agency of Magicological Investigations (R.A.M.I.) — the largest detective organization on Ravnica, which grew from a small cult following the archon Ezrim and expanded rapidly after the Phyrexian invasion weakened the guilds. The post-invasion power vacuum enabled independent detective agencies to fill civic functions previously monopolized by guilds. [Wizards: Planeswalker's Guide to Murders at Karlov Manor]",
+      "sources": ["Wizards: magic.wizards.com/en/news/feature/planeswalkers-guide-to-murders-at-karlov-manor"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Agency Outfitter",
+      "set": "Murders at Karlov Manor",
+      "note": "Previewed alongside Eliminate the Impossible in the same MTGSalvation spoiler thread — shares the Agency faction context"
+    },
+    {
+      "name": "Alquist Proft, Master Investigator",
+      "set": "Murders at Karlov Manor",
+      "note": "The R.A.M.I. lead detective; primary Agency legendary — the named character behind the organization this card mechanically represents"
+    },
+    {
+      "name": "Case of the Market Melee",
+      "set": "Murders at Karlov Manor",
+      "note": "Also illustrated by Carlos Palma Cruchaga in MKM — same artist, same set, a Case subtype card"
+    },
+    {
+      "name": "Agrus Kos, Spirit of Justice",
+      "set": "Murders at Karlov Manor",
+      "note": "Named in the official MKM mechanics article as a card that interacts with the suspect mechanic — design-space neighbor"
+    },
+    {
+      "name": "Life from the Loam",
+      "set": "Ravnica Remastered",
+      "note": "Carlos Palma Cruchaga illustration — notable card by the same artist, outside MKM"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

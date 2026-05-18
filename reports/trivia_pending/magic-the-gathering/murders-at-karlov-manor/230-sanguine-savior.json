@@ -1,0 +1,68 @@
+{
+  "card_name": "Sanguine Savior",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "230",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Murders at Karlov Manor (released 2024-02-09) returns to Ravnica in the Omenpath Arc, after the Phyrexian Invasion. The set's central murder mystery revolves around Teysa Karlov — Orzhov guildmaster and owner of One Karlov Place — who is assassinated during the story's events. Sanguine Savior's Vampire Cleric creature type sits squarely within the Orzhov clerical hierarchy that dominates the manor setting. The 'Agency' character tag on the card refers to the Ravnican Agency of Magicological Investigations, the detective faction formed to work the case.",
+      "sources": ["Wizards of the Coast story summary via WebSearch snippet (magic.wizards.com/en/news/magic-story/)", "WebSearch snippet: draftsim.com/mtg-murders-at-karlov-manor-story/", "Scryfall API"]
+    },
+    {
+      "category": "design",
+      "text": "Disguise is a deliberate mechanical upgrade of Morph, introduced in MKM. The key change: face-down Disguise creatures have ward 2 (in addition to the standard 2/2 stats). Per the Wizards mechanics article, the design team chose ward 2 because it was aesthetically clean with the 2/2 body (easy to remember) and provided just enough protection to make flipping the creature viable without altering the trading math between face-down creatures. Sanguine Savior's disguise cost of (W/B)(W/B) is Orzhov hybrid-locked — you need both guild colors to reveal, mechanically enforcing its faction identity.",
+      "sources": ["Wizards of the Coast: 'Murders at Karlov Manor Mechanics' article via WebSearch snippet", "Scryfall API: oracle_text field"]
+    },
+    {
+      "category": "design",
+      "text": "MKM was also the first set in the morph family to ship a dedicated physical reminder card for face-down creatures: 'A Mysterious Creature' (token card TMKM 21), included in Play Boosters. It functions as a cover card to place over any disguised or cloaked creature, reminding both players of the ward 2 protection. This is a design-production novelty for the morph lineage — previous Morph and Megamorph sets (Khans of Tarkir, Magic Origins) had no equivalent physical helper.",
+      "sources": ["Wizards of the Coast: 'The Tokens of Murders at Karlov Manor' article via WebSearch snippet (magic.wizards.com)", "Scryfall API: all_parts field linking to related card 241b3b6d-a25f-4a43-b5d6-1d1079e7e498"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Sanguine Savior has an EDHREC rank of 20,926 and appears in approximately 1,409 EDH decks, which is low-end for a set common. It finds its niche in WB vampire tribal and lifelink-matters builds — EDHREC's description names Stromkirk Bloodthief, Sanguine Syphoner, and Wispdrinker Vampire as its most common synergy partners, all vampire tribal payoffs. The card is Pauper-legal; community assessment from MKM Pauper set reviews was that disguise commons rarely clear the tempo bar in Pauper, where the 3-mana face-down investment plus the hybrid flip cost competes unfavorably with the format's efficient threats.",
+      "sources": ["EDHREC card page meta description via WebSearch snippet", "Scryfall API: edhrec_rank field, legalities field", "WebSearch snippet: coolstuffinc.com Pauper review, mtg.cardsrealm.com Pauper review"]
+    },
+    {
+      "category": "design",
+      "text": "The card's artist, Valera Lutfullina, illustrated at least five cards in MKM: Sanguine Savior (230), Tomik, Wielder of Law (431), Hustle // Bustle (249), Illicit Masquerade (88 and art series AMKM 8), and Voja, Jaws of the Conclave (432). That range spans common through mythic rare and crosses multiple guilds — Tomik is a named Orzhov legendary, Voja is a Selesnya mythic. No Hipsters of the Coast profile or artist commentary on Lutfullina was found.",
+      "sources": ["Scryfall search results via WebSearch snippet (scryfall.com cards artist:Lutfullina e:mkm)", "Scryfall API: artist field"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Tomik, Wielder of Law",
+      "set": "Murders at Karlov Manor",
+      "note": "Same artist (Valera Lutfullina), same set, named Orzhov legendary — strongest thematic pairing for the Orzhov/MKM cluster"
+    },
+    {
+      "name": "Illicit Masquerade",
+      "set": "Murders at Karlov Manor",
+      "note": "Same artist (Lutfullina), thematic echo with Disguise mechanic and the masquerade/hidden-identity throughline of MKM"
+    },
+    {
+      "name": "A Mysterious Creature",
+      "set": "Murders at Karlov Manor Tokens",
+      "note": "Physical reminder card for face-down Disguise/Cloak creatures; Scryfall lists as a related combo_piece to Sanguine Savior specifically"
+    },
+    {
+      "name": "Teysa Karlov",
+      "set": "Ravnica Allegiance",
+      "note": "Orzhov guildmaster whose manor and murder drive the MKM storyline; lore anchor for the set Sanguine Savior inhabits"
+    },
+    {
+      "name": "Markov Purifier",
+      "set": "Innistrad: Crimson Vow",
+      "note": "Top EDHREC commander home for Sanguine Savior; WB vampire tribal payoff; lifelink-matters synergy"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
