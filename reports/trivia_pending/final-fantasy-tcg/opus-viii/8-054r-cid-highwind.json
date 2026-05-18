@@ -1,0 +1,41 @@
+{
+  "card_name": "Cid Highwind",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-054R",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card is named 'Cid Highwind,' job is Pilot (FFVII), art is attributed to Tetsuya Nomura's original character design. The depicted figure's goggles-on-forehead, cigarette, tool harness, and spiky light hair are Cid Highwind's signature visual identifiers per Final Fantasy Wiki. IP is Wizards-internal equivalent (Square Enix-original character); no external crossover risk. ip_verified set to true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Opus VIII (released March 2019) was the first FFTCG set to introduce Final Fantasy XIV: Stormblood content alongside FFVII, FFXV, and Final Fantasy Crystal Chronicles, making it one of the most cross-franchise sets in the game's early run [Square Enix FFTCG Opus VIII release page].",
+      "sources": ["Square Enix FFTCG Opus VIII release page (fftcg.square-enix-games.com/na/release/opus-viii)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Cid Highwind is a 5-cost, 7000-power Wind Forward with the Pilot job. His Enter-the-Field ability bounces any opponent Backup of cost 3 or more back to hand; his Big Brawl (S) ability — activated by dulling — bounces any opponent Character. In multiples, Big Brawl creates large resource swings, though community notes the targets are often cards opponents are happy to replay [fftcgcrystarium.com Opus VIII limited review; TCGplayer Opus VIII listings].",
+      "sources": ["fftcgcrystarium.com Opus VIII limited review", "TCGplayer Opus VIII Cid Highwind listing"]
+    },
+    {
+      "category": "design",
+      "text": "Cid Highwind's card art reproduces Tetsuya Nomura's original FFVII character design: spiky light hair, goggles pushed to forehead, cigarette in mouth, white sleeveless shirt, and tool harness — a set of signature visual identifiers that appear consistently across all of Cid's FFTCG and Dissidia appearances [Final Fantasy Wiki: Cid Highwind/Other appearances].",
+      "sources": ["Final Fantasy Wiki: Cid Highwind/Other appearances (finalfantasy.fandom.com)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Within FFVII canon, Cid is a former Shinra engineer and rocket scientist who sacrificed his space dream to save engineer Shera's life when Shinra's No. 26 rocket launch would have killed her. His hand-made starting spear makes him the only FFVII party member confirmed to forge his own weapons [Final Fantasy Wiki: Cid Highwind].",
+      "sources": ["Final Fantasy Wiki: Cid Highwind (finalfantasy.fandom.com/wiki/Cid_Highwind)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Cid Highwind", "set": "Opus I", "note": "Earlier FFTCG printing of the same character — compare card power progression across sets"},
+    {"name": "Shera", "set": "Opus VIII or later", "note": "The engineer whose life Cid sacrificed his space dream to save — potential companion card"},
+    {"name": "Tiny Bronco", "set": "FFTCG various", "note": "Cid's propeller plane design; vehicle cards share the Pilot thematic sphere"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

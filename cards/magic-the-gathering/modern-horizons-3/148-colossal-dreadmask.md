@@ -10,8 +10,29 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - monster
+  - horror
+  - skull
+  - giant
+  - teeth
+  - eldrazi
+  - alien
+  - green
+  - dread
+  - tentacles
+  - cosmic
+  - predator
+tags_filter:
+  - solo
+  - close-up
+  - forward-facing
+  - portrait-mode
+  - creature
+  - green-magic
+  - trample
+  - equipment
+  - living-weapon
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/148-colossal-dreadmask.png
 average_cost_paid: 0
 market_price: 0.17
@@ -30,7 +51,28 @@ image_width: 745
 image_height: 1040
 image_quality: high
 mana_cost: "{4}{G}{G}"
+mood: horror
+time_of_day: indeterminate
+setting: void
 tags:
   - card
 ---
 # Colossal Dreadmask (Modern Horizons 3)
+
+## Vision
+
+![148-colossal-dreadmask](../../_images/magic-the-gathering/modern-horizons-3/148-colossal-dreadmask.png)
+
+The image is an extreme close-up of a massive alien or Eldrazi-adjacent creature's face. The skull-like head is covered in a textured exoskeleton pattern — honeycomb or chitinous segmentation in brown-green tones with glowing green accents running along a central ridge. Multiple pairs of small glowing green eyes are visible on the upper face. Large curved horns extend from the sides of the skull. The open maw reveals jagged teeth with a green glow emanating from within. The surrounding tentacle-like limbs or appendages reach outward into a green-hazed background. A tiny humanoid figure is barely visible at the bottom center of the frame, dwarfed by the creature's scale. The palette is oppressive green, brown-green chitin, and dark shadow.
+
+**Subject:** an enormous alien horror face with glowing eyes and horns, viewed in extreme close-up
+
+**Composition:** close-up, portrait, figures: solo, facing: forward
+**Setting:** void, indeterminate
+**Foreground:** massive alien skull-face with glowing green eyes and open maw  *(palette: brown-green, green glow, dark shadow)*
+**Background:** green haze with tentacle-like appendages extending outward  *(palette: sickly green, dark olive, black)*
+**Mood / lighting:** horror, rim
+**Emotion read:** predatory, overwhelming, dread
+**Creatures:** alien horror, eldrazi-adjacent creature, chitinous monster
+**Genre cues:** fantasy, cosmic horror, eldrazi
+

@@ -1,0 +1,42 @@
+{
+  "card_name": "Bad Ring Laser",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-108",
+  "task_profile": "ip-priority",
+  "ip_decision": "refute",
+  "ip_outcome_note": "suspected_ip was Guldo. However: (1) Bad Ring Laser is canonically Sorbet's signature technique — he fires a thin energy beam from a ring on his right hand (Dragon Ball Wiki: Bad Ring Laser). (2) Guldo is a separate, distinct card in Galactic Battle: BT1-099 'Ginyu Force Guldo.' This card (BT1-108) is an Extra card depicting Sorbet's attack, not a Guldo character card. The vision pass's green-skin identification and Ginyu Force tags were plausible given the set context, but Guldo as suspected_ip is incorrect — the card is named after Sorbet's move. The depicted figure may be a stylized representation of Sorbet (whose canonical skin color is blue) from an animation cel, or the color read was imprecise at this image resolution. Clearing suspected_ip to Sorbet would require stronger visual confirmation. Refuting Guldo is the defensible move; leaving suspected_ip as a possible Sorbet depiction unverified.",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "The card name 'Bad Ring Laser' refers to Sorbet's signature technique in Dragon Ball Super: he extends his arm while wearing the Bad Ring and fires a thin piercing energy beam. In Dragon Ball Z: Resurrection 'F' and its Dragon Ball Super retelling, this attack near-fatally wounds Super Saiyan Blue Goku when Frieza signals an opening — a moment of dishonorable interference during a one-on-one fight [Dragon Ball Wiki: Bad Ring Laser].",
+      "sources": ["Dragon Ball Wiki: Bad Ring Laser (dragonball.fandom.com/wiki/Bad_Ring_Laser)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT1-108 is a Yellow Extra card (cost 1Y) from Galactic Battle (Series 1, 2017). Its effect: place 1 yellow card from your hand in the Drop Area to negate an opponent's Counter. It was banned from official tournament play in July 2019 because it was the only counter-negation card with just 1 energy cost and no deck-restriction requirements, enabling Frieza-Army and splash-yellow strategies to invalidate opponent responses for minimal investment [Official DBS Card Game banned list announcement, dbs-cardgame.com, July 2019].",
+      "sources": ["Official DBS Card Game ban announcement (dbs-cardgame.com/asia/strategy/announcement/banned-errata-2019-07.php)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Galactic Battle (BT1) was the inaugural booster set for the Dragon Ball Super Card Game, released July 28, 2017. It established the Yellow color identity around Frieza's Army and Ginyu Force archetypes, which became among the most supported factions in the game's early sets [PSA Set Registry article: 2017 Dragon Ball Super Card Game, psacard.com].",
+      "sources": ["PSA Set Registry: 2017 Dragon Ball Super Card Game (psacard.com/articles/articleview/10436)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Sorbet is the secondary antagonist of Dragon Ball Z: Resurrection 'F' (2015), serving as interim commander of the Galactic Frieza Army after Frieza's death. He orchestrates Frieza's revival via Earth's Dragon Balls and is ultimately killed by a misdirected Death Beam during Frieza's final battle. His Bad Ring Laser attack on a distracted Goku is one of the most discussed 'cheap shot' moments in DBS fandom [Villains Wiki: Sorbet; Dragon Ball Wiki: Bad Ring Laser].",
+      "sources": ["Villains Wiki: Sorbet (villains.fandom.com/wiki/Sorbet)", "Dragon Ball Wiki: Bad Ring Laser (dragonball.fandom.com/wiki/Bad_Ring_Laser)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ginyu Force Guldo (BT1-099)", "set": "Galactic Battle", "note": "The actual Guldo character card in this set — distinct from this Extra card"},
+    {"name": "Sorbet, The Loyal Commander (BT1-092)", "set": "Galactic Battle", "note": "Sorbet's character card in the same set — the user of the Bad Ring Laser technique"},
+    {"name": "Crusher Ball (BT1-110)", "set": "Galactic Battle", "note": "Fellow Yellow Extra from same set, depicting Jeice's signature move — thematic pair"},
+    {"name": "Frieza's Army (various)", "set": "Galactic Battle", "note": "Yellow faction that Bad Ring Laser served before its ban"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "",
+    "ip_confidence": "none"
+  }
+}

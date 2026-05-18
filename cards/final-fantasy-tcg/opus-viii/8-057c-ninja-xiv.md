@@ -49,8 +49,8 @@ mood: action
 time_of_day: indeterminate
 setting: void
 suspected_ip: Ninja job class (Final Fantasy XIV)
-ip_confidence: med
-ip_verified: false
+ip_confidence: high
+ip_verified: true
 ---
 
 # Ninja (XIV) (Opus VIII)
@@ -59,8 +59,8 @@ ip_verified: false
 
 ![8-057c-ninja-xiv](../../_images/final-fantasy-tcg/opus-viii/8-057c-ninja-xiv.jpg)
 
-> [!warning] Suspected IP: **Ninja job class (Final Fantasy XIV)** (confidence: med, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Ninja job class (Final Fantasy XIV)**
+> Confirmed via card name 'Ninja (XIV)', ffxiv game tag, and job-class category in frontmatter. Dark layered armor, face mask, and dual-blade ready stance are consistent with FFXIV Ninja job visual design per the official FFXIV job guide.
 
 A humanoid figure crouches in a low, coiled ready stance. The figure is dressed in dark, layered armor with silver and dark elements, and wears a mask or face covering. The hair is dark with a reddish-brown element suggesting a bun or cloth wrap. The figure visibly holds blades — short weapons discernible in the hands. The pose communicates readiness and controlled aggression. The art style is detailed and realistic in the FFXIV aesthetic, with more painterly rendering than the chibi-styled cards. The background is pale grey-green and largely bare, focusing all visual weight on the crouching figure. The scale of the figure in the frame emphasizes their compact, poised silhouette.
 
@@ -74,4 +74,16 @@ A humanoid figure crouches in a low, coiled ready stance. The figure is dressed 
 **Emotion read:** crouched and coiled — controlled readiness, zero expression visible behind mask
 **Objects:** blades, face mask, layered armor
 **Genre cues:** anime, jrpg, fantasy
+
+## Trivia
+
+- **Set context** — Opus VIII (March 2019) was the first FFTCG set to introduce Final Fantasy XIV: Stormblood content. The Ninja (8-057C) is among the set's FFXIV job-class Backup cards, appearing in a set that also debuted FFVII, FFXV, and Crystal Chronicles content `[Square Enix FFTCG Opus VIII release page]`
+- **Mechanics** — Ninja (8-057C) is a cost-2 Wind Backup. Paying (Wind)(Wind)(Dull) and sacrificing it to the Break Zone lets you destroy any opponent Backup of cost 3 or less — a Backup-removal tool that cashes its own body for tempo. The 8-057C and its Opus V counterpart (5-017C) both see play outside pure Ninja-archetype decks for this flexible removal `[fftcg.fr: Ninja 8-057C entry; FFTCG community via fftcgmognet.com]`
+- **Lore** — The FFXIV job guide states the Ninja hails from the "war-torn lands of the Far East" and manipulates vital energies through mudra — ritual hand gestures that form ninjutsu combinations. The job is mechanically notable for its dual-resource management: a standard rotation plus mudra sequences with 20-second cooldown windows `[FFXIV Official Job Guide: Ninja]`
+- **Design** — The FFTCG Ninja job-class card has appeared across multiple Opus sets (2-114C, 5-017C, 8-057C, 9-017C), each sourced from a different Final Fantasy title's Ninja aesthetic. The 8-057C is specifically tagged FFXIV, distinguishing it from earlier printings `[FFTCG database cross-reference via WebSearch]`
+
+### Related cards
+- Ninja (5-017C, Opus V) — earlier Ninja Backup with similar Wind removal utility; played alongside 8-057C in Ninja-adjacent decks
+- Ninja (9-017C, Opus IX) — later printing in the same job-class lineage
+- Ninja (2-114C, Opus II) — earliest FFTCG Ninja Backup; comparison point for the job class's design evolution across sets
 

@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - robot
+  - cockpit
+  - technology
+  - hologram
+  - racing
+  - machine
+  - surveillance
+  - control
+  - pilot
+  - automation
+tags_filter:
+  - solo
+  - close-up
+  - away-facing
+  - action-mode
+  - creature-artifact
+  - blue-magic
+  - land-artifact
 reference_image: cards/_images/magic-the-gathering/aetherdrift/45-guidelight-optimizer.png
 average_cost_paid: 0
 market_price: 0.07
@@ -30,7 +47,30 @@ image_width: 745
 image_height: 1040
 image_quality: high
 mana_cost: "{1}{U}"
+mood: action
+time_of_day: indeterminate
+setting: indoor
 tags:
   - card
 ---
 # Guidelight Optimizer (Aetherdrift)
+
+## Vision
+
+![45-guidelight-optimizer](../../_images/magic-the-gathering/aetherdrift/45-guidelight-optimizer.png)
+
+The view is from above and at an angle, looking down into a cramped mechanical cockpit or control pod. A small robotic figure is visible at the center, viewed through a glowing blue holographic display that occupies much of the upper frame. The holographic interface shows circular scanning elements and grid lines in electric blue and cyan. The surrounding structure is dark — heavy metal panels with rivets, rendered in charcoal and rust tones. A strip of pale exterior (sand or open air) is visible at the right edge. The composition is dynamic and disorienting, suggesting the optimizer is active, embedded in a larger racing machine.
+
+**Subject:** a small robot or construct seen through a blue holographic interface inside a mechanical cockpit
+
+**Composition:** close-up, action, figures: solo, facing: away
+**Setting:** indoor, modern, indeterminate
+**Foreground:** glowing blue holographic display with scanning elements  *(palette: electric blue, cyan, teal)*
+**Background:** dark metal cockpit interior with riveted panels  *(palette: charcoal, rust brown, dark grey)*
+**Mood / lighting:** action, rim
+**Emotion read:** intense focus, mechanical precision
+**Objects:** holographic display, cockpit controls, riveted metal panels
+**Creatures:** robot, construct
+**Iconography:** holographic grid, scanning circle
+**Genre cues:** sci-fi, steampunk, racing
+

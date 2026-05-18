@@ -51,7 +51,7 @@ setting: void
 subject_known_ip: true
 suspected_ip: Cid Highwind (Final Fantasy VII)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Cid Highwind (Opus VIII)
@@ -60,8 +60,8 @@ ip_verified: false
 
 ![8-054r-cid-highwind](../../_images/final-fantasy-tcg/opus-viii/8-054r-cid-highwind.jpg)
 
-> [!warning] Suspected IP: **Cid Highwind (Final Fantasy VII)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Cid Highwind (Final Fantasy VII)**
+> Confirmed via card name, Pilot (FFVII) job line, and Tetsuya Nomura's signature visual identifiers (goggles, cigarette, tool harness) consistent across all Cid Highwind appearances per Final Fantasy Wiki.
 
 A powerfully built male figure stands in a confident pose with hands on hips, facing three-quarters toward the viewer. He has spiky light-colored hair with flight goggles pushed up onto his forehead. A cigarette or toothpick is clenched in his teeth. He wears a white sleeveless shirt, fingerless gloves, and a brown tool belt or harness across his torso. The art style is bold and anime-influenced with clean linework. A ghosted larger portrait of the same figure's face looms in the background, a common FFTCG compositional motif. The background is a pale green-grey with minimal detail. The character design is attributed to Tetsuya Nomura per the card's canonical credits.
 
@@ -75,4 +75,16 @@ A powerfully built male figure stands in a confident pose with hands on hips, fa
 **Emotion read:** confident, defiant body language — hands on hips, jaw set, slight scowl
 **Objects:** goggles, cigarette, tool harness, fingerless gloves
 **Genre cues:** anime, jrpg, sci-fi
+
+## Trivia
+
+- **Set context** — Opus VIII (released March 2019) was the first FFTCG set to introduce Final Fantasy XIV: Stormblood content alongside FFVII, FFXV, and Final Fantasy Crystal Chronicles, making it one of the most cross-franchise sets in the game's early run `[Square Enix FFTCG Opus VIII release page]`
+- **Mechanics** — Cid Highwind is a 5-cost, 7000-power Wind Forward with the Pilot job. His Enter-the-Field ability bounces any opponent Backup of cost 3 or more; his Big Brawl S ability (dull to activate) bounces any opponent Character. Community analysis notes that in multiples, Big Brawl creates large resource swings, though opponents are often happy to replay targeted cards — the biggest problem being that most valid targets are ones your opponent wants to recast `[fftcgcrystarium.com Opus VIII limited review]`
+- **Design** — Cid Highwind's art reproduces Tetsuya Nomura's signature FFVII character design: goggles on forehead, cigarette in teeth, white sleeveless shirt, and tool harness. These identifiers appear consistently across all Cid's FFTCG and Dissidia appearances `[Final Fantasy Wiki: Cid Highwind/Other appearances]`
+- **Lore** — Within FFVII, Cid is a former Shinra engineer who sacrificed his space-flight dream to abort a rocket launch that would have killed engineer Shera. His starting spear is confirmed hand-made in the NA game manual, making him the only FFVII party member known to forge his own weapons `[Final Fantasy Wiki: Cid Highwind]`
+
+### Related cards
+- Cid Highwind (Opus I, earlier print) — compare power progression for the same character across sets
+- Shera (FFTCG) — engineer whose life Cid sacrificed his space dream to save; potential companion card in the same set or franchise arc
+- Tiny Bronco (FFTCG) — Cid's propeller plane; shares the Pilot thematic sphere
 

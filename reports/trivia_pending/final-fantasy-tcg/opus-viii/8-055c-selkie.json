@@ -1,0 +1,41 @@
+{
+  "card_name": "Selkie",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-055C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The card name is 'Selkie' and the game tag in frontmatter is ffcc (Final Fantasy Crystal Chronicles). The Selkie are an established playable race in FFCC — one of four tribes (Clavat, Lilty, Yuke, Selkie). The depicted figure's blue hair, red eyes, fur-trimmed outfit, and circular gauntlet weapon are consistent with FFCC Selkie aesthetic per the Final Fantasy Wiki and GameWith FFCC Remastered guide. This is a race/type card, not a named individual — the IP is a FFCC tribe, which is Square Enix-internal. ip_verified set to true. No external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Opus VIII was one of the first FFTCG sets to feature Final Fantasy Crystal Chronicles content, spotlighting the game's four playable tribes (Selkie, Clavat, Lilty, Yuke) with original art by Toshiyuki Itahana, the FFCC character designer [Square Enix FFTCG Opus VIII release page].",
+      "sources": ["Square Enix FFTCG Opus VIII release page (fftcg.square-enix-games.com/na/release/opus-viii)", "FFTCG Illustration Showcase Interview #3: Toshiyuki Itahana (eu.finalfantasy.com/topics/40)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Selkie (8-055C) is an 8000-power Forward. When she is put from the field into the Break Zone, the opponent discards the top 2 cards of their hand; if both cards share the same type, the Selkie player draws 1 card — a punishing, high-power death-trigger effect for a Common [FFTCG Mognet: Selkie 8-055C].",
+      "sources": ["FFTCG Mognet: Selkie 8-055C (fftcgmognet.com/card/8-055C)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In FFCC lore, Selkies are one of four tribes, characterized by agility, bright-colored hair, and red eyes. They are stereotyped as bandits and thieves across the game's world, but Yuke NPCs note that Selkies were historically the most thorough record-keepers on the origins of the miasma — a buried scholarly legacy at odds with their outlaw reputation [Final Fantasy Wiki: Selkie (Crystal Chronicles)].",
+      "sources": ["Final Fantasy Wiki: Selkie (Crystal Chronicles) (finalfantasy.fandom.com/wiki/Selkie_(Crystal_Chronicles))"]
+    },
+    {
+      "category": "design",
+      "text": "Selkies in FFCC gameplay are the fastest race with the longest Focus Attack range — optimized for swift offense at the cost of defensive resilience. The 8-055C card's 8000 power reflects this: she hits above the common-card average for Wind, trading a symmetric ability for raw forward presence [GameWith FFCC Remastered: Selkie tribe guide].",
+      "sources": ["GameWith FFCC Remastered: Selkie tribe guide (gamewith.net/ffcc-remastered/article/show/21127)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Selkie (other FFTCG printings)", "set": "Various Opus sets", "note": "FFCC tribal type appears across multiple FFTCG sets"},
+    {"name": "Clavat (FFTCG)", "set": "Opus VIII or adjacent", "note": "Fellow FFCC tribe; potential tribal synergy or contrast"},
+    {"name": "Yuke (FFTCG)", "set": "Opus VIII or adjacent", "note": "The scholar-tribe whose NPCs reference Selkie record-keeping history"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

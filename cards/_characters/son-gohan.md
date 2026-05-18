@@ -27,8 +27,8 @@ appears_on:
   - dragon-ball-super/world-martial-arts-tournament/tb2-003-heroic-duo-son-gohan
   - dragon-ball-super/world-martial-arts-tournament/tb2-021-top-of-his-game-son-gohan
   - dragon-ball-super/union-force/bt2-098-father-son-kamehameha
-  - dragon-ball-super/world-martial-arts-tournament/tb2-011-heroic-duo-videl
-related_hubs: "[labor]"
+related_hubs:
+  - labor
 related_symbols: []
 related_characters:
   - son-goku
@@ -112,7 +112,6 @@ This is what BBL's bundle copy can lean on without inventing canon: Son Gohan is
 - [[tb2-003-heroic-duo-son-gohan]]
 - [[tb2-021-top-of-his-game-son-gohan]]
 - [[bt2-098-father-son-kamehameha]]
-- [[tb2-011-heroic-duo-videl]]
 ## Canonical sources
 
 - **Dragon Ball Wiki — Gohan** (`https://dragonball.fandom.com/wiki/Gohan`) — primary character page; canonical reference for the Saiyan / Namek / Frieza / Android / Cell / Buu Saga arcs, the Hyperbolic Time Chamber training year, the canonical SS Full Power and SS2 transformations, the Old-Kai Ultimate-form unlock, the End-of-Z epilogue marriage to Videl, and the Great Saiyaman adolescent register.

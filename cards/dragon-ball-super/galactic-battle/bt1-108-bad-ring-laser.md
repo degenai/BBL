@@ -44,9 +44,9 @@ needs_manual_review: false
 mood: action
 time_of_day: indeterminate
 setting: void
-suspected_ip: Guldo
-ip_confidence: high
-ip_verified: false
+suspected_ip: ""
+ip_confidence: none
+ip_verified: true
 tags:
   - card
   - dbs
@@ -59,12 +59,12 @@ tags:
 
 ![bt1-108-bad-ring-laser](../../_images/dragon-ball-super/galactic-battle/bt1-108-bad-ring-laser.png)
 
-> [!warning] Suspected IP: **Guldo** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP refuted
+> Vision flagged Guldo (Ginyu Force, green skin). However, 'Bad Ring Laser' is canonically Sorbet's technique, not Guldo's — Guldo's moves are Time Freeze and Eye Laser. Guldo appears as a distinct character card in this same set (BT1-099). This card (BT1-108) is an Extra depicting Sorbet's attack. Guldo identification is incorrect; suspected_ip cleared.
 
 A small, squat, green-skinned alien figure stands at center frame in an action pose. The figure has a round, wide head and a compact body consistent with the distinctively short and stocky build of this character. The figure wears a light-colored outfit that appears pink or pastel in tone. The background is a soft, pastel purple and pink gradient with cloud-like elements, giving the image a lighter, almost whimsical atmosphere compared to other Ginyu Force cards. The figure appears to be mid-technique, though no dramatic energy blast is visible — the pose suggests concentration or mental exertion rather than physical force.
 
-**Subject:** Guldo, a small green Ginyu Force member, performing the Bad Ring Laser attack
+**Subject:** Unconfirmed figure — compact green-skinned alien in pastel outfit (vision flagged as Guldo; refuted — Bad Ring Laser is Sorbet's technique; Guldo is a distinct card BT1-099; depicted figure's canonical identity unclear at this resolution)
 
 **Composition:** mid-shot, action, figures: solo, facing: forward
 **Setting:** void, indeterminate
@@ -74,4 +74,16 @@ A small, squat, green-skinned alien figure stands at center frame in an action p
 **Emotion read:** concentrated, exerting effort
 **Iconography:** energy-technique
 **Genre cues:** anime, sci-fi
+
+## Trivia
+
+- **IP correction** — The vision pass flagged the depicted figure as Guldo (Ginyu Force), but 'Bad Ring Laser' is canonically Sorbet's technique, not Guldo's. Guldo's signature moves are Time Freeze (breath-hold telekinetic halt) and Eye Laser. Guldo exists as a distinct character card in this same set (BT1-099 Ginyu Force Guldo). This card (BT1-108) is an Extra card depicting Sorbet's attack; the `suspected_ip: Guldo` flag has been refuted `[Dragon Ball Wiki: Bad Ring Laser; Galactic Battle card list]`
+- **Lore** — Bad Ring Laser is Sorbet's technique from Dragon Ball Z: Resurrection 'F' (2015). Sorbet fires a thin piercing energy beam from a ring on his right hand. In the film and DBS retelling, this attack near-fatally wounds Super Saiyan Blue Goku when Frieza signals an opening during their one-on-one fight — a cheap-shot moment that became one of the more discussed dishonorable plays in DBS lore `[Dragon Ball Wiki: Bad Ring Laser]`
+- **Mechanics** — BT1-108 is a Yellow Extra (cost 1Y). Its skill: discard 1 yellow card from hand to negate an opponent's Counter. It was banned from official tournament play July 2019 — the ban announcement cited it as the only counter-negation card with a single yellow energy cost and no deck restrictions, enabling Frieza-Army and splash-yellow decks to cancel opponent responses for minimal resource investment `[DBS Card Game official ban announcement, dbs-cardgame.com, July 2019]`
+- **Set context** — Galactic Battle (BT1) was the inaugural Dragon Ball Super Card Game booster set, released July 28, 2017. It established Yellow as the Frieza's Army color identity. Bad Ring Laser was a first-set staple that defined the format before its ban two years later `[PSA Set Registry: 2017 Dragon Ball Super Card Game]`
+
+### Related cards
+- Ginyu Force Guldo (BT1-099, Galactic Battle) — the actual Guldo character card; vision's original misidentification target
+- Sorbet, The Loyal Commander (BT1-092, Galactic Battle) — Sorbet's character card; the user of this technique
+- Crusher Ball (BT1-110, Galactic Battle) — fellow Yellow Extra from the same set depicting Jeice's signature move
 

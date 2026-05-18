@@ -1,0 +1,41 @@
+{
+  "card_name": "Ninja (XIV)",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-057C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The card name is 'Ninja (XIV)' with game tag ffxiv and category job-class in frontmatter. The FFXIV Ninja is an established job class in Final Fantasy XIV introduced in the Heavensward-era expansion. The depicted figure's dark layered armor, face mask, and dual-blade ready stance are consistent with FFXIV Ninja job visual design per the official FFXIV job guide. This is a job-class card, not a named individual. IP is Square Enix-internal. ip_verified set to true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Opus VIII was the first FFTCG set to feature Final Fantasy XIV: Stormblood content. The Ninja (XIV) card (8-057C) is among the set's FFXIV job-class Backup cards, which Opus VIII introduced alongside FFVII and FFXV content [Square Enix FFTCG Opus VIII release page].",
+      "sources": ["Square Enix FFTCG Opus VIII release page (fftcg.square-enix-games.com/na/release/opus-viii)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Ninja (8-057C) is a cost-2 Wind Backup. Activating (Wind)(Wind)(Dull) and sacrificing the Ninja to the Break Zone lets you choose 1 Backup of cost 3 or less and destroy it — a Backup-removal tool that trades card advantage for tempo. The 8-057C and its Opus V counterpart (5-017C) both see play outside pure Ninja-archetype decks for this flexible removal [Search snippet from French FFTCG card database fftcg.fr; fftcgmognet.com community reference].",
+      "sources": ["fftcg.fr: Ninja 8-057C card entry", "FFTCG community via fftcgmognet.com"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In FFXIV lore, the Ninja job class uses 'ninjutsu' — formed by combining up to three mudra (ritual hand gestures) that manipulate vital energies. The official FFXIV job description states: 'Hailing from the war-torn lands of the Far East, the secret arts of the ninja were born of necessity.' The job was added to the game during A Realm Reborn's development cycle and became one of FFXIV's most mechanically layered jobs [FFXIV Official Job Guide: Ninja (na.finalfantasyxiv.com/jobguide/ninja)].",
+      "sources": ["FFXIV Official Job Guide: Ninja (na.finalfantasyxiv.com/jobguide/ninja)"]
+    },
+    {
+      "category": "design",
+      "text": "The FFTCG Ninja job-class card has appeared across multiple Opus sets (2-114C, 5-017C, 8-057C, 9-017C), each drawing from a different Final Fantasy title's Ninja aesthetic. The 8-057C is specifically tagged FFXIV, distinguishing it from the job's earlier printings sourced from older FF titles [FFTCG card database cross-reference via search].",
+      "sources": ["FFTCG community database via WebSearch cross-reference"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ninja (5-017C)", "set": "Opus V", "note": "Earlier Ninja Backup with similar Wind removal utility — plays alongside 8-057C in Ninja-adjacent decks"},
+    {"name": "Ninja (9-017C)", "set": "Opus IX", "note": "Later Ninja Backup printing in the same job lineage"},
+    {"name": "Ninja (2-114C)", "set": "Opus II", "note": "Earliest FFTCG Ninja Backup; comparison point for the job class's card-design evolution"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

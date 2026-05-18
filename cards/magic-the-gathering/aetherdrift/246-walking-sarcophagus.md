@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - ancient
+  - stone
+  - ruins
+  - desert
+  - giant
+  - monument
+  - cat
+  - statue
+  - guardian
+  - wasteland
+  - colossus
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - scene-mode
+  - creature-artifact
+  - no-color-magic
+  - vehicle-adjacent
 reference_image: cards/_images/magic-the-gathering/aetherdrift/246-walking-sarcophagus.png
 average_cost_paid: 0
 market_price: 0.06
@@ -30,7 +48,29 @@ image_width: 745
 image_height: 1040
 image_quality: high
 mana_cost: "{2}"
+mood: sublime
+time_of_day: day
+setting: desert
 tags:
   - card
 ---
 # Walking Sarcophagus (Aetherdrift)
+
+## Vision
+
+![246-walking-sarcophagus](../../_images/magic-the-gathering/aetherdrift/246-walking-sarcophagus.png)
+
+A colossal stone statue of a leonine or sphinx-like figure dominates the right side of the frame. The statue has a cat-like face with visible fangs and ear shapes, a broad armored torso, and a cracked stone surface suggesting extreme age. Its posture is upright, looking outward. The background shows a desert landscape with ruined architecture — crumbling stone gates, scattered debris, and hazy amber sky. On the far left, the curve of a large metal ring or vehicle is partially visible, suggesting a race-world setting. The warm ochre and tan palette throughout evokes arid antiquity. The statue itself is the dominant presence — ancient, massive, animate.
+
+**Subject:** a massive leonine stone statue standing amid desert ruins
+
+**Composition:** mid-shot, narrative, figures: solo, facing: three-quarter
+**Setting:** desert, ruined, day, calm
+**Foreground:** leonine stone statue with cracked surface, upright and facing outward  *(palette: ochre, tan, pale grey)*
+**Background:** desert ruins with crumbling gates and amber haze  *(palette: amber, rust, warm brown)*
+**Mood / lighting:** sublime, ambient
+**Emotion read:** imposing, ancient, watchful
+**Objects:** crumbled stone gates, scattered ruins
+**Creatures:** leonine statue, stone construct, sphinx-like figure
+**Genre cues:** fantasy, ancient, racing
+

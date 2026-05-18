@@ -1,0 +1,36 @@
+{
+  "card_name": "Archer",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-065C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Archer' with game tag ffta (Final Fantasy Tactics Advance) and category job-class in frontmatter. The Archer is an established job class in FFTA. Art style and character design are consistent with FFTA character designer Ryoma Ito's style per the FFTCG Illustration Showcase Interview no. 2. Ryoma Ito provided original FFTA/FFTA2-based artwork for Opus VIII per Square Enix. The floating cross/clover shapes are a characteristic motif of FFTA's visual language. IP is Square Enix-internal. ip_verified set to true.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "The Archer's art for Opus VIII was created by Ryoma Ito, the original character designer for Final Fantasy Tactics Advance and Final Fantasy Tactics A2: Grimoire of the Rift. Ito was the only FFTCG Illustration Showcase artist (Interview no. 2) to have designed the source game's characters himself — his FFTCG work returns directly to original designs. In the interview, Ito noted that Square Enix producer Matsuyama encouraged him to deviate from the original FFTA designs and change his style significantly 'from the next batch onward' [FFTCG Illustration Showcase Interview no. 2: Ryoma Ito, Square Enix].",
+      "sources": ["FFTCG Illustration Showcase Interview no. 2: Ryoma Ito (na.finalfantasy.com/topics/35)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Archer (8-065C) is a Wind Backup. Activating (Green)(Green)(Dull) and sacrificing it to the Break Zone deals 10000 damage to one Forward — a significant targeted damage ability for a Common that can single-handedly eliminate most moderate-power Forwards [TCGplayer Opus VIII card database; community search via WebSearch].",
+      "sources": ["TCGplayer Opus VIII listings", "fftcgcrystarium.com Opus VIII review via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Archer is one of the core job classes in FFTA, available to Hume characters. FFTA's job system requires characters to learn abilities from equipped gear before mastering and switching jobs — the Archer unlocks the Sniper class. Opus VIII was the first FFTCG set to feature FFTA content with Ito's original art [Final Fantasy Card Game Wikia: Opus VIII Collection; Square Enix Opus VIII release page].",
+      "sources": ["Final Fantasy Card Game Wikia: Opus VIII Collection (final-fantasy-card-game.fandom.com/wiki/Opus_VIII_Collection)", "Square Enix FFTCG Opus VIII release page"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Archer (other FFTCG printings)", "set": "Various", "note": "Job class appears across multiple Opus sets with art from different FF titles"},
+    {"name": "Sniper (FFTA, FFTCG)", "set": "Various", "note": "Advanced job unlocked from Archer in FFTA — thematic progression in game and potentially card lineage"},
+    {"name": "Illusionist (FFTA, FFTCG)", "set": "Various", "note": "Ryoma Ito FFTA-sourced job class card from same Opus VIII art batch"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

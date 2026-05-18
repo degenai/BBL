@@ -19,9 +19,9 @@ appears_on:
   - dragon-ball-super/union-force/bt2-017-hercule-buu-s-assistant
   - dragon-ball-super/world-martial-arts-tournament/tb2-001-hercule-bundle-of-confidence-hercule
   - dragon-ball-super/world-martial-arts-tournament/tb2-010-secret-treaty-hercule
-  - dragon-ball-super/world-martial-arts-tournament/tb2-011-heroic-duo-videl
   - dragon-ball-super/world-martial-arts-tournament/tb2-064-i-m-the-world-champion
-related_hubs: "[labor]"
+related_hubs:
+  - labor
 related_symbols: []
 related_characters:
   - son-goku
@@ -83,7 +83,6 @@ This is what BBL's bundle copy can lean on without inventing canon: Hercule is, 
 - [[bt2-017-hercule-buu-s-assistant]]
 - [[tb2-001-hercule-bundle-of-confidence-hercule]]
 - [[tb2-010-secret-treaty-hercule]]
-- [[tb2-011-heroic-duo-videl]]
 - [[tb2-064-i-m-the-world-champion]]
 ## Canonical sources
 

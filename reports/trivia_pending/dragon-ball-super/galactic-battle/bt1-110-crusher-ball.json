@@ -1,0 +1,42 @@
+{
+  "card_name": "Crusher Ball",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-110",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "suspected_ip was Jeice (med confidence). Crusher Ball is confirmed as Jeice's signature technique per Dragon Ball Wiki. Jeice performs the Crusher Ball by focusing energy in his raised palm and spiking it forward like a volleyball — the vision describes a lean figure in white/orange battle armor in a throwing motion with an energy orb, consistent with Jeice's white hair, lean build, and Ginyu Force white-and-purple armor (which may render as white/orange in card art). The card name is the canonical lock. IP is Toei/Shueisha-licensed to Bandai for DBS Card Game — Bandai-internal for this product. ip_verified set to true.",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Crusher Ball is Jeice's signature technique. According to Dragon Ball Wiki, Jeice was a pitcher in the Galactic Little League in his youth and developed the Crusher Ball as his special attack — but performs it as a volleyball spike (left palm up to focus energy, right hand slams it forward), not a baseball pitch. Goku deflects it effortlessly on Namek, treating it like a beach ball [Dragon Ball Wiki: Crusher Ball].",
+      "sources": ["Dragon Ball Wiki: Crusher Ball (dragonball.fandom.com/wiki/Crusher_Ball)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT1-110 Crusher Ball is a Yellow Extra (cost 1Y). Its Counter Play skill puts the opponent's attacking Battle Card into Rest Mode — effectively blocking a battle action by exhausting the attacker. At 1Y cost it was part of the early Galactic Battle Yellow toolkit alongside the subsequently banned Bad Ring Laser (BT1-108) [DBS Card Game official card list; Big Orbit Cards listing].",
+      "sources": ["DBS Card Game card list (dbs-cardgame.com/asia/cardlist/?search=true&category=428001&free=BT1-110)", "Big Orbit Cards: Crusher Ball BT1-110"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Galactic Battle (BT1) launched the Dragon Ball Super Card Game on July 28, 2017. The Ginyu Force — Jeice, Burter, Recoome, Guldo, and Captain Ginyu — were a featured faction with multiple character and Extra cards across Yellow. Crusher Ball appears alongside Jeice's character card and other Ginyu Force support in the same set [PSA Set Registry: 2017 Dragon Ball Super Card Game].",
+      "sources": ["PSA Set Registry: 2017 Dragon Ball Super Card Game (psacard.com/articles/articleview/10436)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Dragon Ball Z's Namek arc, Jeice and Burter's fight with Goku is notably one-sided — Goku dispatches both of them with minimal effort, undermining the Ginyu Force's fearsome reputation. The Crusher Ball scene, where Goku deflects Jeice's most powerful attack without effort, became an early marker of Goku's Namek-arc power level. Community discourse across r/dragonball frequently invokes it when discussing power-scaling moments [Dragon Ball Wiki: Crusher Ball; Dragon Ball fandom context].",
+      "sources": ["Dragon Ball Wiki: Crusher Ball (dragonball.fandom.com/wiki/Crusher_Ball)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Jeice (BT1 character card, Galactic Battle)", "set": "Galactic Battle", "note": "Jeice's character card in the same set — user of the Crusher Ball technique"},
+    {"name": "Bad Ring Laser (BT1-108, Galactic Battle)", "set": "Galactic Battle", "note": "Fellow Yellow Extra from Galactic Battle depicting a Ginyu Force-era technique"},
+    {"name": "Ginyu Force Guldo (BT1-099, Galactic Battle)", "set": "Galactic Battle", "note": "Teammate card in the same Ginyu Force faction set"},
+    {"name": "Captain Ginyu (Galactic Battle)", "set": "Galactic Battle", "note": "Ginyu Force leader card in the same set — faction anchor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

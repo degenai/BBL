@@ -10,9 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-characters:
-  - hercule
-  - son-gohan
+characters: []
 tags_hub:
   - fighter
   - female-warrior

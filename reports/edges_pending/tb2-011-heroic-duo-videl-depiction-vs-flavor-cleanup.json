@@ -1,0 +1,48 @@
+{
+  "edge_id": "tb2-011-heroic-duo-videl-depiction-vs-flavor-cleanup",
+  "shape": "edge-removal-cleanup",
+  "category": "anti-confab-v4-correction",
+  "wave": 120,
+  "endpoints_disconnected": [
+    {
+      "type": "card",
+      "path": "cards/dragon-ball-super/world-martial-arts-tournament/tb2-011-heroic-duo-videl.md",
+      "name": "Heroic Duo Videl (TB2-011)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/hercule.md",
+      "name": "Hercule (Mr. Satan)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/son-gohan.md",
+      "name": "Son Gohan"
+    }
+  ],
+  "description": "Three-file depiction-vs-flavor conflation cleanup. Vision pass on TB2-011 is unambiguous: solo female-presenting figure (Videl) charging forward, fists raised. Neither Hercule nor Gohan is depicted on the card. The 'Heroic Duo' title is FLAVOR — it references the Videl + Gohan Great-Saiyaman/Saiyawoman narrative partnership — but flavor is not depiction. Per anti-confab v4, characters: field encodes the FIGURES IN THE ART, not the narrative referents. The card's frontmatter incorrectly listed [hercule, son-gohan]; both character nodes mirror-listed TB2-011 in appears_on AND in the auto-generated Appears-on wikilink section. Cleanup: TB2-011 characters: [] until a Videl solo character node is commissioned. Hercule and Son-Gohan appears_on entries removed in both yaml and the auto-generated Appears-on bullet list. Worst confabulation ever — well, second worst. The roles-as-identity rule from Tithe-Drinker has a flavor-as-depiction sibling now, and Wave 120 is its receipt.",
+  "evidence": [
+    "TB2-011 Vision section: 'figures: solo, facing: forward' + 'A female-presenting figure wearing a blue sleeveless fighting outfit charges toward the viewer with fists raised'",
+    "TB2-011 IP-verified note: 'Confirmed via card name match and Dragon Ball Wiki — Videl is Mr. Satan's daughter and Gohan's future wife'",
+    "TB2-011 Trivia bullet 2 'Heroic Duo framing': explicitly identifies the title as referencing the narrative Videl+Gohan partnership, NOT the card depiction",
+    "hercule.md line 108 caveat: 'Videl solo node deferred' — 2 corpus prints, below 3-anchor threshold",
+    "son-gohan.md line 174 caveat: 'Videl is corpus-present at TB2-011 Heroic Duo Videl + BT2-018 Videl, Gohan's Partner — likely below threshold pending more anchors'",
+    "Memory rule: bbl-triviabot-no-role-identity-conflation — extended in spirit by this flavor-vs-depiction sibling case"
+  ],
+  "files_modified": [
+    "cards/dragon-ball-super/world-martial-arts-tournament/tb2-011-heroic-duo-videl.md",
+    "cards/_characters/hercule.md",
+    "cards/_characters/son-gohan.md"
+  ],
+  "deferred_followup": {
+    "videl_solo_node_threshold": "Currently 2 corpus prints (TB2-011 Heroic Duo Videl, BT2-018 Videl Gohan's Partner). Commission at 3+ per the standard solo-character-node threshold. When commissioned, TB2-011 should be re-stamped characters: [videl] and the new Videl node's appears_on should include both TB2-011 and BT2-018.",
+    "related_characters_axis": "Videl's future solo node would related_characters: [hercule, son-gohan, pan] per canonical father-daughter / husband-wife / mother-daughter relations. The two existing nodes already note Videl as deferred sibling."
+  },
+  "alternatives_considered": [
+    "Mr. Nodeley commission a Videl solo node NOW — REJECTED: 2 corpus prints, below the documented 3-anchor threshold; both existing nodes explicitly defer; commissioning under threshold violates the cohort-anchor discipline",
+    "Enlightened Edgelord edge-replacement — REJECTED: enlightenment requires REPLACING with a stronger edge; this is straight corrective removal with no replacement target until Videl node lands at threshold",
+    "Refusal — REJECTED: the depiction-vs-flavor evidence is overwhelming and the Wave 120 flag is a documented anti-confab v4 violation; refusing here would itself confabulate against clear receipts"
+  ],
+  "edgelord_mood": "enlightened-corrective",
+  "voice_note": "Worst conflation ever. A 'Heroic Duo' title naming Videl's narrative partnership with Gohan does not put Gohan in the art — and it certainly does not put her father Hercule there either. Three files conflated flavor with depiction. Now: none of them do. Videl solo node still deferred at 2 prints; threshold discipline holds. The graph is more accurate by exactly three pointers."
+}
