@@ -1,0 +1,53 @@
+{
+  "card_name": "Double Impact Krillin",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-041",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Double Impact Krillin' names the character explicitly. Vision describes a short bald fighter in orange gi with six circular dots on his forehead — the six-dot forehead marks are Krillin's defining visual identifier across all Dragon Ball media. DBS card database lists this as a Blue Battle Card with Special Trait Earthling/World Tournament.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Krillin competed in the 21st, 22nd, and 23rd World Martial Arts Tournaments. At the 21st, he defeated Bacterian (by remembering he has no nose and cannot smell) before losing in the semi-finals to Jackie Chun (Master Roshi in disguise). At the 22nd, he defeated Chiaotzu via cleverness and reached the semi-finals before losing to Goku. At the 23rd, he was eliminated in the quarter-finals by Piccolo Jr., described as one of his best fights in the franchise. [CBR 'Every Martial Artist Who Fought in Dragon Ball's World Tournaments'; Kanzenshuu Rewatch thread]",
+      "sources": ["CBR World Tournaments article", "Kanzenshuu Rewatch thread via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Krillin's six forehead dots are a design feature Akira Toriyama explained in the Dragon Ball Daizenshuu 2: Story Guide (1995) — he stated that Krillin has a 'physical idiosyncrasy that allows him to breathe through his skin,' which is the in-universe reason he has no nose. The dots are marks from incense burns associated with his original Orin Temple monk training before he came to Master Roshi. [Kanzenshuu Rewatch thread citing Daizenshuu 2 via WebSearch]",
+      "sources": ["Kanzenshuu Rewatch thread citing Daizenshuu 2 via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "TB2-041 is a Blue Rare Battle Card (Power 10000, cost 2). Its [When Played] effect: choose up to 1 of your opponent's Battle Cards with an energy cost of 2 or less and KO it — a targeted removal tool keyed to low-cost Battle Cards. The name 'Double Impact' reflects both the KO removal effect and Krillin's dual-hit fighting style. [DBS card database via WebSearch]",
+      "sources": ["DBS card database via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Krillin is one of the few non-Saiyan fighters in Dragon Ball to consistently reach tournament semi-finals, doing so in both the 21st and 22nd Tenkaichi Budokai. His 21st tournament run is notable as his first competitive appearance after training at the Kame House under Master Roshi, alongside Goku. [CBR World Tournaments article via WebSearch]",
+      "sources": ["CBR 'Every Martial Artist Who Fought in Dragon Ball's World Tournaments' via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Stenchful Bacterian",
+      "set": "World Martial Arts Tournament",
+      "note": "TB2-061 — Krillin's opponent in the 21st Tenkaichi Budokai; both characters represented in the same TB2 set"
+    },
+    {
+      "name": "Double Impact Krillin",
+      "set": "World Martial Arts Tournament",
+      "note": "TB2-041 — this card; note that TB2 contains multiple Krillin printings representing different tournament eras"
+    },
+    {
+      "name": "Unending Moves Yamcha",
+      "set": "World Martial Arts Tournament",
+      "note": "TB2-054 — fellow Turtle School student and WMAT co-competitor across all three original DB tournaments"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "card_name": "Unending Moves Tien Shinhan",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-055",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Unending Moves Tien Shinhan' names the character explicitly. Vision describes a muscular bald figure with three eyes — the three-eye feature is Tien Shinhan's single most definitive visual identifier across all Dragon Ball media; no other major character in the franchise shares it. DBS card database confirms Yellow Rare Battle Card with Special Trait Earthling/World Tournament.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Tien Shinhan won the 22nd World Martial Arts Tournament, defeating Jackie Chun (Master Roshi), Yamcha (whose leg he broke after the match), and finally Goku in the finals — a victory that also marked his defection from the Crane School after Goku and Roshi's influence pushed him toward a more moral path. He was runner-up at the 23rd tournament, losing to Goku in the semi-finals after training under Kami. [CBR 'Dragon Ball World Martial Arts Tournaments Records'; Wikipedia: Tien Shinhan via WebSearch]",
+      "sources": ["CBR World Tournaments Records article via WebSearch", "Wikipedia: Tien Shinhan via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Tien's three eyes are attributed to his descent from the Three-Eyed People (Triclops race), confirmed in Dragon Ball Z DVD box-set booklets and multiple games. Toriyama stated in lore documentation: 'Beings with a third eye on their forehead are thought to be godlike and are said to possess the power of true seeing. It seems that Tienshinhan, who was raised by the evil Tsuru-Sen'nin, lost the ability to use the myriad powers of his third eye for good purposes.' The design echoes the Taoist/Buddhist concept of the third eye and the Chinese mythological figure Erlang Shen. [CBR 'What's the Deal With Tien's Third Eye, Anyway?'; Game Rant 'Dragon Ball DAIMA Hints at Origin of Tien's Third Eye' via WebSearch]",
+      "sources": ["CBR Tien third eye article via WebSearch", "Game Rant Tien third eye article via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "TB2-055 is a Yellow Rare Foil Battle Card (Power 20000, cost 4YY) with [Double Strike] and [Barrier]. Its [Activate:Main] [Once per turn] effect: choose 'Unending Moves Yamcha' in your Battle Area and KO it — then draw 2 cards and KO one of your opponent's resting Battle Cards. Tien sacrifices Yamcha for card advantage and removal, mechanically inverting the 22nd tournament sequence where Tien inflicted a post-match leg-break on Yamcha. [DBS card database via WebSearch]",
+      "sources": ["DBS card database via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Tien's 22nd tournament run is described by CBR as one of the most complete bracket performances in Dragon Ball history — he defeated Nam, Yamcha, Jackie Chun, and Goku across one bracket. The only prior WMAT the set covers that Tien did not participate in is the 21st, which was the first Goku/Krillin tournament and predates Tien's introduction. TB2-055 and TB2-054 as a mechanical pair represent the 22nd tournament era within TB2's multi-era design. [CBR 'This Was The Only Tournament in Dragon Ball History Any One Could've Won'; WebSearch]",
+      "sources": ["CBR 22nd tournament article via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Unending Moves Yamcha",
+      "set": "World Martial Arts Tournament",
+      "note": "TB2-054 — the mechanical pair; Tien's Activate:Main sacrifices Yamcha for draw + removal; both cards are Yellow trait Earthling/World Tournament"
+    },
+    {
+      "name": "Double Impact Krillin",
+      "set": "World Martial Arts Tournament",
+      "note": "TB2-041 — Tien and Krillin meet as semi-finalists at the 22nd tournament (Krillin loses to Goku before facing Tien in finals)"
+    },
+    {
+      "name": "Son Goku & Uub, Seeds of the Future",
+      "set": "World Martial Arts Tournament",
+      "note": "TB2-069 — Goku defeated Tien in the 23rd tournament semi-finals; TB2-069 represents the final canonical WMAT bracket appearance for Goku"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

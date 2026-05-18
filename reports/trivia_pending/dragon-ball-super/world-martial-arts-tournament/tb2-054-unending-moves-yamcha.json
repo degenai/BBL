@@ -1,0 +1,53 @@
+{
+  "card_name": "Unending Moves Yamcha",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-054",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Unending Moves Yamcha' names the character explicitly. Vision describes a humanoid fighter in an orange and dark-trimmed martial arts gi in an airborne fighting stance — consistent with Yamcha's Turtle School gi and Wolf Fang Fist aerial attack style. DBS card database confirms Yellow Battle Card with Special Trait Earthling/World Tournament.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Yamcha competed in the 21st, 22nd, and 23rd World Martial Arts Tournaments, losing in the quarter-finals of all three. At the 21st he was eliminated by Jackie Chun (Master Roshi in disguise); at the 22nd he was defeated by Tien Shinhan, who then broke Yamcha's leg after the match was over — a moment of deliberate cruelty by the Crane School student; at the 23rd he was defeated by a disguised Kami in the quarter-finals. [CBR 'Dragon Ball: World Martial Arts Tournaments Records of the Main Characters'; Kanzenshuu forum thread 'Tenshinhan and Yamcha relationship' via WebSearch]",
+      "sources": ["CBR World Tournaments Records article via WebSearch", "Kanzenshuu forum thread via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Yamcha is a former desert bandit who trained under Master Roshi's Turtle School alongside Goku and Krillin. His signature technique is the Roga Fufu Ken ('Wolf Fang Windy Fist') — a rapid combination of punches and kicks that he developed independently before his Turtle School training. The card title 'Unending Moves' refers to the relentless combo-pressure style of the technique. [Wikipedia: Yamcha; CBR 'Original Dragon Ball Fights Better Than DBSuper' via WebSearch]",
+      "sources": ["Wikipedia: Yamcha via WebSearch", "CBR article via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "TB2-054 is a Yellow Rare Battle Card (Power 10000, cost 2Y) with [Barrier] and a [Permanent] effect: if 'Unending Moves Tien Shinhan' (TB2-055) is in your Battle Area, this card gains +10000 power and [Critical]. The card is designed as the junior half of a Yamcha/Tien pair combo — Yamcha gains a dramatic power floor only when Tien is present, mechanically encoding their canon rivalry and eventual mutual respect. [DBS card database via WebSearch]",
+      "sources": ["DBS card database via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The 22nd tournament Yamcha/Tien match is noted on Kanzenshuu as an example of the Turtle School vs. Crane School rivalry at its most brutal — Tien not only won but broke Yamcha's leg in a post-match attack, which is specifically mentioned as a low point in their relationship. TB2-054 and TB2-055 being issued as a mechanical pair in the same set reframes that hostility into an interdependency: Yamcha needs Tien present to reach his power ceiling. [Kanzenshuu 'Tenshinhan and Yamcha relationship' thread via WebSearch]",
+      "sources": ["Kanzenshuu forum thread 'Tenshinhan and Yamcha relationship' via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Unending Moves Tien Shinhan",
+      "set": "World Martial Arts Tournament",
+      "note": "TB2-055 — mechanical pair with TB2-054; Yamcha gains +10000 power and Critical when Tien is in your Battle Area"
+    },
+    {
+      "name": "Double Impact Krillin",
+      "set": "World Martial Arts Tournament",
+      "note": "TB2-041 — fellow Turtle School student; both Yamcha and Krillin appear in TB2 representing the original Dragon Ball tournament roster"
+    },
+    {
+      "name": "Secret Treaty Hercule",
+      "set": "World Martial Arts Tournament",
+      "note": "TB2-010 — another Earthling/World Tournament card; connects to the civilian-hero bracket of the WMAT across eras"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

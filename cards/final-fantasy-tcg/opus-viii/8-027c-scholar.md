@@ -10,8 +10,23 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - scholar
+  - knowledge
+  - book
+  - academic
+  - mage
+  - studious
+  - hat
+  - job-class
+  - jrpg
+  - final-fantasy
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - portrait-mode
+  - small-figure
 reference_image: cards/_images/final-fantasy-tcg/opus-viii/8-027c-scholar.jpg
 average_cost_paid: 0
 market_price: 0.19
@@ -24,6 +39,27 @@ needs_manual_review: false
 image_width: 429
 image_height: 600
 image_quality: med
+mood: peaceful
+time_of_day: indeterminate
+setting: void
 ---
 
 # Scholar (Opus VIII)
+
+## Vision
+
+![8-027c-scholar](../../_images/final-fantasy-tcg/opus-viii/8-027c-scholar.jpg)
+
+A small-statured figure with clearly visible pointed ears stands in a three-quarter pose, consistent with the Lalafell or similar small race from FFXIV. The figure wears a large elaborate academic hat adorned with a white feather and intricate embroidery, paired with a dark formal coat decorated with ornate stitching. Glasses are worn. The figure holds an open book in one hand and appears to hold a small stylus or instrument in the other. The background is a pale blue-white gradient.
+
+**Subject:** small-statured figure with pointed ears in academic hat and embroidered dark coat, holding an open book, FFXIV Scholar job class
+
+**Composition:** mid-shot, portrait, figures: solo, facing: three-quarter
+**Setting:** void, indeterminate
+**Foreground:** small-statured pointed-ear figure in academic hat with feather, open book in hand  *(palette: black, dark-gray, white, gold)*
+**Background:** pale blue-white gradient, plain  *(palette: pale-blue, white)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** composed, scholarly, neutral expression
+**Objects:** open-book, stylus
+**Genre cues:** fantasy, jrpg, mmorpg
+

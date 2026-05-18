@@ -49,7 +49,7 @@ time_of_day: indeterminate
 setting: other
 suspected_ip: Son Goku, Uub
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 tags:
   - card
   - dbs
@@ -62,8 +62,8 @@ tags:
 
 ![tb2-069-son-goku-uub-seeds-of-the-future](../../_images/dragon-ball-super/world-martial-arts-tournament/tb2-069-son-goku-uub-seeds-of-the-future.png)
 
-> [!warning] Suspected IP: **Son Goku, Uub** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Son Goku, Uub**
+> Confirmed via card name ("Son Goku & Uub, Seeds of the Future"), Goku's orange gi and spiky hair (definitive visual identifiers), Uub's dark complexion and child stature matching canonical design, seven Dragon Balls visible in art, and DBS card database Saiyan/Earthling/World Tournament traits + Majin Buu Saga era. [dbs-cardgame.com]
 
 A full-card framed DBS card showing two figures side by side. The adult figure wears a fighting gi and has upswept spiky hair; the child figure is dark-skinned and smaller, both raising a fist in a mirror gesture of solidarity. Seven orange orbs (Dragon Balls) are visible floating between them. A bold text overlay reads 'THE DRAGON BALLS WILL BE THERE FOR THEM.' The composition is upbeat and warm in palette — orange, gold, and deep blue — evoking an ending and a passing of the torch.
 
@@ -79,3 +79,14 @@ A full-card framed DBS card showing two figures side by side. The adult figure w
 **Iconography:** Dragon Balls, raised fist
 **Genre cues:** anime
 
+## Trivia
+
+- **Tournament position** — The Goku/Uub match at the 28th World Martial Arts Tournament is the closing scene of Dragon Ball Z. Ten years after Kid Buu's defeat, Goku enters the 28th WMAT specifically seeking the reincarnation of Kid Buu. When Uub is drawn as Goku's first-round opponent, Goku provokes him intentionally to unlock his latent power, then stops the match and invites Uub to train with him as Earth's next great hero — effectively ending the DBZ protagonist arc and passing it forward. [CBR, "How Many Tournament Fights Are In Dragon Ball & Dragon Ball Z?"; Game Rant, "Dragon Ball: Who Is Uub?" via WebSearch]
+- **Uub's origin** — Uub is the human reincarnation of Kid Buu, produced when Goku expressed hope during their final battle that Buu would return as a good person. Dragon Ball Z canon attributes the reincarnation to King Yemma, who granted the wish by stripping Kid Buu's soul of its evil while preserving the power intact. Uub is born with a pure heart — canonically demonstrated by his ability to ride the Flying Nimbus. The card title "Seeds of the Future" names this dynamic directly. [Dragon Ball Official Site: Weekly Character Showcase no. 78, Uub; Game Rant Uub article via WebSearch]
+- **Set role: the Secret Rare** — TB2-069 is the lone Secret Rare in DBS-TB02 — one per case of 24 packs. It is a Blue Battle Card (Power 40000, cost 8BBB) with [Double Strike], [Dual Attack], and [Ultimate]. Its [Permanent] reduces cost by 2 when both players have 6 or more energy in a World Tournament Leader deck. Its [Auto] when attacking: send up to 1 card each from opponent's Life and Energy Areas to the bottom of their deck — a simultaneous life-and-energy denial effect that can close games. Market price of approximately $11.75 makes it the highest-value card in this TB2 cohort by a significant margin. [DBS card database via WebSearch; frontmatter market_price]
+- **Trait design** — TB2-069 carries three Special Traits: Saiyan, Earthling, and World Tournament — reflecting both characters (Goku as Saiyan, Uub as Earthling) under the tournament banner. It is the only card in the TB2 WMAT civilian-fighter cluster to bridge the Saiyan tribal and World Tournament synergy pools simultaneously. [DBS card database via WebSearch]
+
+### Related cards
+- Secret Treaty Hercule (World Martial Arts Tournament, TB2-010) — Hercule is the reigning WMAT champion at the 28th tournament; Goku promises Mr. Satan will send money to Uub's village as part of freeing Uub to train
+- Double Impact Krillin (World Martial Arts Tournament, TB2-041) — Krillin is present at the 28th tournament as part of the Z-Fighter reunion bracket
+- Unending Moves Tien Shinhan (World Martial Arts Tournament, TB2-055) — Tien attends the 28th tournament; the DBZ epilogue reassembles much of the original 21st/22nd/23rd tournament roster one final time

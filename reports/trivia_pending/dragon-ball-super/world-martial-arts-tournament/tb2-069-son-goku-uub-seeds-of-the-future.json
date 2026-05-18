@@ -1,0 +1,58 @@
+{
+  "card_name": "Son Goku & Uub, Seeds of the Future",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-069",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly states 'Son Goku & Uub, Seeds of the Future.' Vision describes an adult fighter in orange gi with upswept spiky hair alongside a smaller dark-skinned child — Goku's orange gi and spiky hair are his definitive visual identifiers; Uub's dark complexion and child stature match his canonical design as a young boy from a rural village. The seven Dragon Balls visible between them and the text overlay 'THE DRAGON BALLS WILL BE THERE FOR THEM' are canonical. DBS card database confirms Blue SCR Battle Card, Saiyan/Earthling/World Tournament traits, Majin Buu Saga era.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Goku/Uub match at the 28th World Martial Arts Tournament closes Dragon Ball Z canonically. Ten years after Kid Buu's defeat, Goku enters the 28th WMAT specifically to find Kid Buu's reincarnation. When Uub — a boy from a struggling village — is drawn as Goku's first-round opponent, Goku provokes him intentionally to awaken his latent power before stopping the match and inviting Uub to train with him. [CBR 'How Many Tournament Fights Are In Dragon Ball & Dragon Ball Z?'; Game Rant 'Dragon Ball: Who Is Uub?' via WebSearch]",
+      "sources": ["CBR tournament fights article via WebSearch", "Game Rant Uub article via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Uub is the human reincarnation of Kid Buu — the result of Goku's wish during the final battle that Buu would one day return as a good person. According to DBZ canon, King Yemma granted that wish by stripping Kid Buu's soul of its evil while preserving its power, and Uub was born with a pure heart capable of riding the Flying Nimbus. The card title 'Seeds of the Future' directly names this passing-of-power dynamic. [Dragon Ball Official Site: Weekly Character Showcase #78 Uub; Game Rant Uub article via WebSearch]",
+      "sources": ["Dragon Ball Official Site Weekly Showcase #78 Uub via WebSearch", "Game Rant Uub article via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "TB2-069 is the set's Secret Rare — the lone SCR in a box of 24 packs. It is a Blue Battle Card (Power 40000, cost 8BBB) with [Double Strike], [Dual Attack], and [Ultimate]. Its [Permanent] effect: if your Leader Card has the World Tournament trait and both players have 6 or more energy, decrease this card's cost by 2. Its [Auto] when attacking: choose up to 1 card each from your opponent's Life and Energy Areas and place them at the bottom of their deck. Market price as of May 2026 is approximately $11.75 — the highest-value card in this TB2 cohort by a significant margin. [DBS card database via WebSearch; frontmatter market_price field]",
+      "sources": ["DBS card database via WebSearch", "frontmatter market_price field"]
+    },
+    {
+      "category": "design",
+      "text": "TB2-069 carries three Special Traits — Saiyan, Earthling, and World Tournament — reflecting both characters: Goku (Saiyan) and Uub (Earthling), united under the World Tournament banner. This is the only card in the TB2-054/055/069 cluster to combine Saiyan and Earthling traits, making it mechanically useful across both Saiyan-tribal and World Tournament themed decks. The Dragon Ball text overlay 'THE DRAGON BALLS WILL BE THERE FOR THEM' is not a standard card field — it appears to be an art-layer quote unique to the SCR print, consistent with the set's elevated SCR production values. [DBS card database via WebSearch; Vision section]",
+      "sources": ["DBS card database via WebSearch"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on r/DragonBallSuperCardGame: TB2-069 is noted as one of the most nostalgically resonant SCRs in the TB2 set — the Goku/Uub pairing represents the actual final moment of Dragon Ball Z (before GT and Super), making it a lore-completionist card for collectors as much as a competitive piece. Its 40000 power and triple keyword suite make it a legitimate late-game win condition in World Tournament themed decks. [WebSearch retailer description snippets and community listing context]",
+      "sources": ["WebSearch retailer description snippets for TB2-069"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Double Impact Krillin",
+      "set": "World Martial Arts Tournament",
+      "note": "TB2-041 — fellow 28th WMAT participant; Krillin attends the 28th tournament with Goku"
+    },
+    {
+      "name": "Secret Treaty Hercule",
+      "set": "World Martial Arts Tournament",
+      "note": "TB2-010 — Hercule also attends the 28th tournament and is the reigning champion; Goku promises Hercule he will ask Mr. Satan to send money to Uub's village"
+    },
+    {
+      "name": "Unending Moves Tien Shinhan",
+      "set": "World Martial Arts Tournament",
+      "note": "TB2-055 — Tien is present at the 28th tournament in the DBZ epilogue as part of the Z-Fighter reunion bracket"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

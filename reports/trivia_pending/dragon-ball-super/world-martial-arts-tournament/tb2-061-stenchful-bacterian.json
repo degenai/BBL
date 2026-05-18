@@ -1,0 +1,48 @@
+{
+  "card_name": "Stenchful Bacterian",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-061",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Stenchful Bacterian' names the character explicitly. Vision describes a large heavyset unkempt figure with wild hair and beard, mouth open wide in a taunt or roar — consistent with Bacterian's canonical design as a large, filthy, taunting fighter. The card name's adjective 'Stenchful' directly references his fighting tactic (weaponized odor). DBS card database confirms Uncommon Battle Card.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Bacterian is a fighter who has never bathed, brushed his teeth, or washed himself in his entire life, and weaponizes the resulting stench as his primary combat tactic. He competed in the 21st World Martial Arts Tournament (in-universe debut chapter: 'The Battle Is Set!!', chapter 35 of the Dragon Ball manga, published June 10, 1986; anime debut episode 20, 'Elimination Round,' July 9, 1986). His first-round opponent was Krillin. [Dragon Ball Wiki Fandom: Bacterian; CBR episode review via WebSearch]",
+      "sources": ["Dragon Ball Wiki Fandom: Bacterian via WebSearch", "CBR episode review via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Bacterian's stench was so overwhelming at the tournament that the announcer told him to stand further back during the bracket draw, and wore a gas mask to announce his match. His tactics included bad breath, body odor, and flatulence — techniques Krillin was helpless against until Goku shouted from ringside that Krillin has no nose and cannot actually smell anything. Krillin immediately recovered and won the match by returning the flatulence tactic. [Dragon Ball Wiki Fandom: Bacterian; CBR 'Krillin vs Bacterian Stinks to High Heaven' via WebSearch]",
+      "sources": ["Dragon Ball Wiki Fandom: Bacterian via WebSearch", "CBR episode review 'Krillin vs Bacterian Stinks to High Heaven' via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "TB2-061 is an Uncommon Battle Card (Power 10000, Combo 5000) with an [Auto] effect: When you play this card, you may choose 1 card in your Life and add it to your hand. The Life-to-hand tutoring effect is a modest but flexible tool — appropriate for an Uncommon utility piece. The card exists as both Normal and Foil prints within TB2. [DBS card database and retailer listings via WebSearch]",
+      "sources": ["DBS card database via WebSearch", "Darkhound Game Center listing via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Bacterian's official Weekly Character Showcase entry on the Dragon Ball Official Site (entry no. 137) placed him in 'the Great Demon King Piccolo Arc' — a continuity note suggesting he reappears or is referenced beyond his 21st tournament match, though his primary narrative role is as Krillin's first-round comedy opponent. He is one of the few TB2 fighters drawn from the 21st tournament era rather than the 22nd, 23rd, or 25th — placing him at the oldest bracket in the set. [Dragon Ball Official Site: Weekly Character Showcase #137 via WebSearch]",
+      "sources": ["Dragon Ball Official Site: Weekly Character Showcase #137 via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Double Impact Krillin",
+      "set": "World Martial Arts Tournament",
+      "note": "TB2-041 — Bacterian's canonical 21st tournament opponent; both appear in TB2"
+    },
+    {
+      "name": "Secret Treaty Hercule",
+      "set": "World Martial Arts Tournament",
+      "note": "TB2-010 — fellow Earthling/World Tournament card; both represent the non-Z-Fighter civilian fighter bracket"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

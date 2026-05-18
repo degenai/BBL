@@ -10,6 +10,9 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters:
+  - son-goku
+  - vegeta
 tags_hub:
   - super-saiyan
   - fusion
@@ -89,3 +92,6 @@ A Super Saiyan fighter is depicted in a mid-shot forward-charging pose, body ang
 - Gogeta (various) — the other Goku+Vegeta fusion; Fusion Dance vs Potara disambiguation anchor
 - Majin Buu Revived (Union Force BT2-028) — Vegito's canonical Buu-Saga combat opponent at peak power
 
+## Connections
+
+- [[vegeta]] — Vegito is canonically the Potara Earring fusion of Son Goku and Vegeta, formed during *Dragon Ball Z*'s Buu Saga when Elder Kai gave Goku the Potara earring to fuse with Gohan, but Buu absorbed Gohan before Goku could complete the fusion — forcing the Goku-Vegeta pairing instead. The combined fighter Vegito carries Vegeta as one of two canonical component-personalities; the Potara-fusion-gi visible in this art (the blue-and-orange layered garments) is the canonical visual signature of the Goku-Vegeta combined-form, distinct from Gogeta's Metamoran Fusion Dance product. This card anchors the Vegita-half-of-Vegito aspect at the [[vegeta]] character node per the Fusion-combined-character dual-anchor pattern that [[son-goten]] and [[trunks]] already share for Gotenks. The mirror attach at [[son-goku]] is staged for the next Edgelord pass. [Dragon Ball Wiki: Vegito; CBR: "Vegito: Dragon Ball's Weirdest and Most Powerful Body Fusion, Explained"]
