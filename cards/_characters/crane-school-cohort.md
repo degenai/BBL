@@ -20,7 +20,8 @@ appears_on:
   - dragon-ball-super/world-martial-arts-tournament/tb2-048-mercenary-tao-trading-moves
   - dragon-ball-super/world-martial-arts-tournament/tb2-056-toughened-up-chiaotzu
   - dragon-ball-super/world-martial-arts-tournament/tb2-063-master-shen-martial-meister
-related_hubs: "[labor]"
+related_hubs:
+  - labor
 related_symbols: []
 related_characters:
   - master-roshi

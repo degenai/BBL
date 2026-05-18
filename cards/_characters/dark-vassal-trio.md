@@ -18,7 +18,8 @@ appears_on:
   - dragon-ball-super/colossal-warfare/bt4-064-dark-vassal-tambourine
   - dragon-ball-super/colossal-warfare/bt4-065-dark-vassal-cymbal
   - dragon-ball-super/colossal-warfare/bt4-066-dark-vassal-drum
-related_hubs: "[labor]"
+related_hubs:
+  - labor
 related_symbols: []
 related_characters:
   - namekian

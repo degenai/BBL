@@ -1,0 +1,72 @@
+{
+  "edge_id": "offwave-layer-node-sweep",
+  "shape": "audit-sweep",
+  "category": "bug-class-mechanical-cleanup",
+  "trigger": "Wave-120 Edgelord surfaced bug class 2 (pre-convention path-keys). Bolas/Trunks audit just surfaced bug class 1 (inline-quoted YAML lists). Parent requested a full sweep of cards/_characters/, cards/_symbols/, cards/_hubs/, cards/_artists/ for analogous broken-edge bugs.",
+  "scripts": [
+    "reports/_scratch/edgelord_offwave_layer_node_sweep.py",
+    "reports/_scratch/edgelord_offwave_layer_node_fix.py"
+  ],
+  "bug_classes_checked": [
+    "1: inline-quoted-string YAML lists",
+    "1b: inline YAML lists with content (block-form preference)",
+    "2: pre-convention appears_on path-keys",
+    "3: broken wikilink targets in layer-node bodies",
+    "4a: orphan forward-pointers (node.appears_on -> card-frontmatter-missing-pointer)",
+    "4b: missing-node refs (card-frontmatter -> layer-dir-missing-slug)"
+  ],
+  "fixes_shipped": {
+    "bug_1_inline_quoted_lists": {
+      "files_touched": 53,
+      "fields_fixed": 55,
+      "rationale": "Mechanical pattern, identical fix across all hits. Wave-92 codified block-form preference. Empty arrays `field: []` preserved inline per Edgelord spec.",
+      "fields_affected": ["related_hubs", "related_symbols", "tag_signals"],
+      "layers_affected": ["characters", "symbols", "hubs"]
+    },
+    "bug_3b_dan_murayama_scott_corruption": {
+      "file": "cards/_artists/dan-murayama-scott.md",
+      "sites_fixed": 2,
+      "rationale": "Frontmatter line 22 had `<appears_on entry>related_hubs: []` (missing newline ate the field separator). Body wikilink on line 91 mirrored the broken stem. Fixed both sites to: (a) split into two frontmatter lines, (b) restore canonical [[134-raging-redcap]] wikilink."
+    },
+    "bug_4a_son_goku_forward_gaps": {
+      "files_touched": 2,
+      "rationale": "son-goku character node lists 5 cards in appears_on; 2 had no `characters:` frontmatter field. Added `characters:\\n  - son-goku` to both. Note: these cards are NOT vision-passed-tagged yet, but the character pointer is independent of vision-pass status and is reverse-resolved via the node's appears_on anyway, so adding the pointer hardens the bidirectional link now rather than waiting for re-enrichment.",
+      "cards_fixed": [
+        "cards/dragon-ball-super/galactic-battle/bt1-060-son-goku.md",
+        "cards/dragon-ball-super/union-force/bt2-072-bundle-of-curiosity-son-goku.md"
+      ]
+    }
+  },
+  "findings_documented_only": {
+    "bug_3_cross_vault_memory_wikilinks": {
+      "count_approx": 110,
+      "pattern": "[[bbl-multi-copy-bundles]], [[bbl-narrative-first-lairs]], [[bbl-museum-curation-framing]], [[bbl-bundle-pricing-codified]], [[bbl-anti-confab-prompt]], [[bbl-triviabot-no-role-identity-conflation]], [[bbl-trivia-never-consider-preenriched]], [[bbl-edgelord-target-enriched-not-random]], [[bbl-symbols-mechanical-primitives]], [[bbl-chronicle]], [[bbl-cross-print-mirror-cohort-subsumption]], [[Alex]]",
+      "verdict_not_a_bug": "These are intentional citations to Alex's global memory wiki at ~/.claude/wiki/ and ~/.claude/projects/.../memory/. They do not resolve inside the BBL Obsidian vault but they are also not load-bearing edges — they are receipts/citations. Policy question for Alex: do we want a special citation syntax that doesn't show up as a broken wikilink in Obsidian's graph view? Out of scope for this pass.",
+      "recommendation": "Consider a citation-syntax convention like `{memory:bbl-narrative-first-lairs}` (nolink-style) instead of `[[bbl-narrative-first-lairs]]` for the memory-store references. Would also benefit wiki-side rendering."
+    },
+    "bug_3_real_missing_node_candidates": {
+      "count": 14,
+      "items": [
+        {"link": "[[etrata]]", "found_in": "characters/kaya.md (2x)", "verdict": "potential character node — Etrata is a canonical Ravnican vampire-assassin"},
+        {"link": "[[iroas]]", "found_in": "characters/mogis.md (2x)", "verdict": "potential character node — Iroas is mogis's twin god in Theros pantheon"},
+        {"link": "[[gatewatch]]", "found_in": "characters/war-gatewatch-triumph-cycle.md", "verdict": "potential character/faction node — Gatewatch is the canonical planeswalker collective"},
+        {"link": "[[slowpoke-line]]", "found_in": "characters/war-gatewatch-triumph-cycle.md", "verdict": "potential character/evolution-line node — Slowpoke→Slowbro/Slowking"},
+        {"link": "[[capsule-corporation]]", "found_in": "characters/bulma.md", "verdict": "potential character/faction node — DBZ-canonical organization"},
+        {"link": "[[dr-brief]]", "found_in": "characters/bulma.md", "verdict": "potential character node — Bulma's father"},
+        {"link": "[[bulla]]", "found_in": "characters/bulma.md", "verdict": "potential character node — Bulma's daughter (DBGT/DBS)"},
+        {"link": "[[videl]]", "found_in": "characters/pan.md", "verdict": "potential character node — Pan's mother"},
+        {"link": "[[pia-nalaar]]", "found_in": "characters/chandra-nalaar.md", "verdict": "potential character node — Chandra's mother"},
+        {"link": "[[ravnican-guildpact]]", "found_in": "characters/izzet-league.md", "verdict": "potential hub/concept node — foundational Ravnican law"},
+        {"link": "[[mutual-aid]]", "found_in": "hubs/rebellion.md", "verdict": "potential hub node OR cross-vault wiki citation"},
+        {"link": "[[pokemon-zodiac]]", "found_in": "hubs/chinese-zodiac.md (4x)", "verdict": "potential bundle-anchor node or zodiac-subgroup hub"},
+        {"link": "[[diamondlegendz]]", "found_in": "hubs/chinese-zodiac.md (2x)", "verdict": "cross-project citation (the storefront), not a card-vault node"},
+        {"link": "[[braviary]]", "found_in": "artists/mitsuhiro-arita.md", "verdict": "potential character/Pokemon evolution-line node — Rufflet→Braviary"},
+        {"link": "[[BT1-081 Broly's Ring]]", "found_in": "characters/broly.md", "verdict": "broken card wikilink — the stem should likely be `bt1-081-brolys-ring` if that card is in corpus; needs verification"}
+      ],
+      "recommendation": "Each is a candidate Mr. Nodeley wave. Triage by load-bearing-ness; the Theros twin-gods iroas / mogis pair is the strongest near-term call (would let Mogis node's See-Also stop dangling). Stage for separate waves."
+    }
+  },
+  "verdict": "Mechanical-tier fixes shipped (bug 1 + bug 3b + bug 4a). Cross-vault memory wikilinks documented as policy-question-not-bug. Real missing-node wikilinks triaged into a future-Nodeley queue.",
+  "edgelord_mood": "satisfied",
+  "potion_rule_check": "Each fix is the kind 'mechanical normalization the schema already specifies' — wave-92 block-form preference, the canonical appears_on stem format, the bidirectional pointer convention. No analytic overreach. The Nodeley-candidate triage was held BACK from this pass precisely because each would be a separate decision requiring its own canonical-source check."
+}

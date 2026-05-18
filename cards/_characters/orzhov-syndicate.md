@@ -25,8 +25,10 @@ appears_on:
   - magic-the-gathering/gatecrash/173-kingpin-s-pet
   - magic-the-gathering/ravnica-allegiance/177-grasping-thrull
   - magic-the-gathering/ravnica-allegiance/188-knight-of-the-last-breath
-related_hubs: "[labor]"
-related_symbols: "[orzhov-signet]"
+related_hubs:
+  - labor
+related_symbols:
+  - orzhov-signet
 related_characters:
   - macro-cosmos
 ip_resolution_for: orzhov-syndicate

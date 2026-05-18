@@ -11,7 +11,37 @@ aliases:
   - keeper
   - custodian
   - guardian
-tag_signals: "[stewardship, tending, care, guardian, custodian, keeper, healer, nurse, mentor, teacher, gardener, shepherd, sanctuary, refuge, herbalist, doctor, attendant, conservator, protector, warden, caretaker, supply-chain, hospital, clinic, school, library, archive, conservation, sanctuary, watchtower]"
+tag_signals:
+  - stewardship
+  - tending
+  - care
+  - guardian
+  - custodian
+  - keeper
+  - healer
+  - nurse
+  - mentor
+  - teacher
+  - gardener
+  - shepherd
+  - sanctuary
+  - refuge
+  - herbalist
+  - doctor
+  - attendant
+  - conservator
+  - protector
+  - warden
+  - caretaker
+  - supply-chain
+  - hospital
+  - clinic
+  - school
+  - library
+  - archive
+  - conservation
+  - sanctuary
+  - watchtower
 anchored_lairs: []
 brand_weight: foundational
 tags:

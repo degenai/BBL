@@ -21,7 +21,8 @@ appears_on:
   - dragon-ball-super/cross-worlds/bt3-017-dr-myuu-under-baby-s-control
   - dragon-ball-super/cross-worlds/bt3-020-hidden-ability-general-rilldo
   - dragon-ball-super/cross-worlds/bt3-024-mega-cannon-sigma-bizu
-related_hubs: "[labor]"
+related_hubs:
+  - labor
 related_symbols: []
 related_characters:
   - baby-dbgt

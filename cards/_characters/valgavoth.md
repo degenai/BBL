@@ -21,7 +21,11 @@ appears_on:
   - magic-the-gathering/duskmourn-house-of-horror/198-slavering-branchsnapper
   - magic-the-gathering/duskmourn-house-of-horror/206-wary-watchdog
 related_hubs: []
-related_symbols: "[rooms, eerie, manifest-dread, survival]"
+related_symbols:
+  - rooms
+  - eerie
+  - manifest-dread
+  - survival
 ip_resolution_for: valgavoth
 tags:
   - layer

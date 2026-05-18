@@ -22,7 +22,9 @@ appears_on:
   - magic-the-gathering/battle-for-zendikar/30-gideon-s-reproach
   - magic-the-gathering/war-of-the-spark/14-gideon-s-sacrifice
   - magic-the-gathering/war-of-the-spark/15-gideon-s-triumph
-related_hubs: "[labor, rebellion]"
+related_hubs:
+  - labor
+  - rebellion
 related_symbols: []
 related_characters:
   - jace-beleren

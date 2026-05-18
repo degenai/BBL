@@ -19,7 +19,8 @@ appears_on:
   - magic-the-gathering/modern-horizons-3/112-wurmcoil-larva
   - magic-the-gathering/modern-horizons-3/91-etched-slith
   - magic-the-gathering/the-list/62-phyrexian-rager
-related_hubs: "[labor]"
+related_hubs:
+  - labor
 related_symbols: []
 related_characters:
   - tamiyo

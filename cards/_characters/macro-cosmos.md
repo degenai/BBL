@@ -17,7 +17,8 @@ appears_on:
   - pokemon/darkness-ablaze/169-189-rose-tower
   - pokemon/rebel-clash/163-192-oleana
   - pokemon/vivid-voltage/161-185-wyndon-stadium
-related_hubs: "[labor]"
+related_hubs:
+  - labor
 related_symbols: []
 related_characters:
   - galar-gym-challenge

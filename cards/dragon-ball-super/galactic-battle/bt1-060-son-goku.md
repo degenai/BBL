@@ -53,6 +53,8 @@ ip_verified: true
 tags:
   - card
   - dbs
+characters:
+  - son-goku
 ---
 # Son Goku (Galactic Battle)
 

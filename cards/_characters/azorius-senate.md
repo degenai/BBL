@@ -21,7 +21,8 @@ appears_on:
   - magic-the-gathering/core-set-2021/35-secure-the-scene
   - magic-the-gathering/war-of-the-spark/38-wanderer-s-strike
   - magic-the-gathering/war-of-the-spark/75-wall-of-runes
-related_hubs: "[labor]"
+related_hubs:
+  - labor
 related_symbols: []
 ip_resolution_for: azorius-senate
 tags:

@@ -16,7 +16,8 @@ appears_on:
   - magic-the-gathering/ravnica-allegiance/236-orzhov-locket
   - magic-the-gathering/ravnica-allegiance/252-orzhov-guildgate-252
   - magic-the-gathering/murders-at-karlov-manor/230-sanguine-savior
-related_hubs: "[labor]"
+related_hubs:
+  - labor
 related_characters:
   - orzhov-syndicate
 tags:

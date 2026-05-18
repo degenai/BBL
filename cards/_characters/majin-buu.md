@@ -19,7 +19,8 @@ appears_on:
   - dragon-ball-super/union-force/bt2-028-majin-buu-revived
   - dragon-ball-super/colossal-warfare/bt4-015-mr-buu
   - dragon-ball-super/world-martial-arts-tournament/tb2-028-scuffle-time-mr-buu
-related_hubs: "[labor]"
+related_hubs:
+  - labor
 related_symbols: []
 related_characters:
   - babidi

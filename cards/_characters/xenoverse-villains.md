@@ -25,7 +25,10 @@ appears_on:
   - dragon-ball-super/colossal-warfare/bt4-116-putine-in-demigra-s-thrall
   - dragon-ball-super/colossal-warfare/bt4-117-time-trauma-masked-saiyan
   - dragon-ball-super/colossal-warfare/bt4-121-dark-kamehameha
-related_hubs: "[labor, rebellion, stewardship]"
+related_hubs:
+  - labor
+  - rebellion
+  - stewardship
 related_symbols: []
 related_characters:
   - baby-dbgt

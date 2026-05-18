@@ -15,7 +15,8 @@ appears_on:
   - dragon-ball-super/cross-worlds/bt3-014-hidden-power-uub
   - dragon-ball-super/world-martial-arts-tournament/tb2-033-shocking-latent-ability
   - dragon-ball-super/world-martial-arts-tournament/tb2-069-son-goku-uub-seeds-of-the-future
-related_hubs: "[labor]"
+related_hubs:
+  - labor
 related_symbols: []
 related_characters:
   - son-goku

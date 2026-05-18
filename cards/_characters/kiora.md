@@ -16,7 +16,8 @@ confidence: canonical
 appears_on:
   - magic-the-gathering/war-of-the-spark/232-kiora-behemoth-beckoner
   - magic-the-gathering/war-of-the-spark/58-kiora-s-dambreaker
-related_hubs: "[rebellion]"
+related_hubs:
+  - rebellion
 related_symbols: []
 related_characters:
   - nicol-bolas

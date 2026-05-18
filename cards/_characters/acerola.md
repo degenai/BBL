@@ -16,7 +16,8 @@ confidence: canonical
 appears_on:
   - pokemon/burning-shadows/112-147-acerola
   - pokemon/mega-evolution/113-132-acerola-s-mischief
-related_hubs: "[stewardship]"
+related_hubs:
+  - stewardship
 related_symbols: []
 related_characters:
   - alola-elite-four

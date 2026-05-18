@@ -30,7 +30,9 @@ appears_on:
   - dragon-ball-super/judge-promotion-cards/p-035-bardock-will-of-iron
   - dragon-ball-super/galactic-battle/bt1-013-raging-cabba
   - dragon-ball-super/galactic-battle/bt1-027-cabba-s-awakening-2017
-related_hubs: "[labor, rebellion]"
+related_hubs:
+  - labor
+  - rebellion
 related_symbols: []
 related_characters:
   - namekian

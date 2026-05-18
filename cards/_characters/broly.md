@@ -19,7 +19,9 @@ appears_on:
   - dragon-ball-super/galactic-battle/bt1-075-rampaging-super-saiyan-broly
   - dragon-ball-super/galactic-battle/bt1-076-broly-dawn-of-the-rampage-2017
   - dragon-ball-super/galactic-battle/bt1-081-broly-s-ring
-related_hubs: "[labor, rebellion]"
+related_hubs:
+  - labor
+  - rebellion
 related_symbols: []
 related_characters:
   - saiyan

@@ -15,7 +15,9 @@ appears_on:
   - magic-the-gathering/aetherdrift/125-endrider-spikespitter
   - magic-the-gathering/aetherdrift/126-fuel-the-flames
   - magic-the-gathering/aetherdrift/251-bloodfell-caves
-related_hubs: "[labor, rebellion]"
+related_hubs:
+  - labor
+  - rebellion
 related_symbols: []
 related_characters:
   - aether-rangers

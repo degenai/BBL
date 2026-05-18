@@ -26,7 +26,8 @@ appears_on:
   - pokemon/vivid-voltage/161-185-wyndon-stadium
   - pokemon/vivid-voltage/153-185-league-staff
   - pokemon/sword-shield-base-set/169-202-marnie--holofoil
-related_hubs: "[labor]"
+related_hubs:
+  - labor
 related_symbols: []
 related_characters:
   - galarian-regional-forms

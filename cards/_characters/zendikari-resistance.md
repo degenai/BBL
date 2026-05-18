@@ -25,7 +25,10 @@ appears_on:
   - magic-the-gathering/oath-of-the-gatewatch/32-relief-captain
   - magic-the-gathering/oath-of-the-gatewatch/35-spawnbinder-mage
   - magic-the-gathering/oath-of-the-gatewatch/38-stoneforge-acolyte
-related_hubs: "[labor, rebellion, stewardship]"
+related_hubs:
+  - labor
+  - rebellion
+  - stewardship
 related_symbols: []
 related_characters:
   - eldrazi

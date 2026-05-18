@@ -19,7 +19,8 @@ confidence: canonical
 appears_on:
   - magic-the-gathering/war-of-the-spark/14-gideon-s-sacrifice
   - magic-the-gathering/war-of-the-spark/190-despark
-related_hubs: "[rebellion]"
+related_hubs:
+  - rebellion
 related_symbols: []
 related_characters:
   - gideon-jura

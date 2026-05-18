@@ -18,7 +18,8 @@ appears_on:
   - dragon-ball-super/colossal-warfare/bt4-092-multimech-bulma
   - dragon-ball-super/colossal-warfare/bt4-093-explorer-bulma
   - dragon-ball-super/union-force/bt2-066-trunks-time-machine
-related_hubs: "[labor]"
+related_hubs:
+  - labor
 related_symbols: []
 related_characters:
   - trunks

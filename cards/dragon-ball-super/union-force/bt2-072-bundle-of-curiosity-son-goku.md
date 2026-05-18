@@ -54,6 +54,8 @@ ip_verified: true
 tags:
   - card
   - dbs
+characters:
+  - son-goku
 ---
 # Bundle of Curiosity Son Goku (Union Force)
 

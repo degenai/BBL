@@ -24,7 +24,9 @@ appears_on:
   - magic-the-gathering/war-of-the-spark/120-chandra-s-pyrohelix
   - magic-the-gathering/core-set-2021/137-chandra-s-magmutt
   - magic-the-gathering/core-set-2021/138-chandra-s-pyreling
-related_hubs: "[rebellion, labor]"
+related_hubs:
+  - rebellion
+  - labor
 related_symbols: []
 related_characters:
   - jace-beleren

@@ -17,7 +17,9 @@ appears_on:
   - pokemon/shining-legends/62-lillie
   - pokemon/cosmic-eclipse/100-236-cosmog
   - pokemon/burning-shadows/112-147-acerola
-related_hubs: "[labor, stewardship]"
+related_hubs:
+  - labor
+  - stewardship
 related_symbols: []
 related_characters:
   - macro-cosmos

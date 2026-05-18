@@ -17,7 +17,8 @@ confidence: canonical
 appears_on:
   - magic-the-gathering/war-of-the-spark/55-jace-s-triumph
   - magic-the-gathering/zendikar-rising/63-jace-mirror-mage
-related_hubs: "[rebellion]"
+related_hubs:
+  - rebellion
 related_symbols: []
 ip_resolution_for: Jace Beleren
 tags:

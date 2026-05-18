@@ -21,7 +21,9 @@ appears_on:
   - dragon-ball-super/colossal-warfare/bt4-117-time-trauma-masked-saiyan
   - dragon-ball-super/cross-worlds/sd3-04-encroaching-threat-masked-saiyan
   - dragon-ball-super/promotion-cards/sd3-01-the-masked-saiyan-bardock-unbound-by-darkness-2018-big-card-pack
-related_hubs: "[labor, rebellion]"
+related_hubs:
+  - labor
+  - rebellion
 related_symbols: []
 related_characters:
   - saiyan

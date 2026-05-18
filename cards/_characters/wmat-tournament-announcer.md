@@ -17,7 +17,8 @@ appears_on:
   - dragon-ball-super/world-martial-arts-tournament/tb2-065-announcer-announcer-referee-veteran
   - dragon-ball-super/world-martial-arts-tournament/tb2-066-announcer-ever-curious
   - dragon-ball-super/world-martial-arts-tournament/tb2-067-announcer-play-by-play-pro
-related_hubs: "[labor]"
+related_hubs:
+  - labor
 related_symbols: []
 related_characters:
   - hercule

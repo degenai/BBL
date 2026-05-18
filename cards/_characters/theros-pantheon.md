@@ -34,7 +34,10 @@ appears_on:
   - magic-the-gathering/theros-beyond-death/33-reverent-hoplite
   - magic-the-gathering/theros-beyond-death/77-towering-wave-mystic
   - magic-the-gathering/theros/218-opaline-unicorn
-related_hubs: "[labor, rebellion, stewardship]"
+related_hubs:
+  - labor
+  - rebellion
+  - stewardship
 related_symbols: []
 related_characters:
   - mogis

@@ -15,7 +15,8 @@ confidence: canonical
 appears_on:
   - magic-the-gathering/modern-horizons-3/132-ral-and-the-implicit-maze
   - magic-the-gathering/war-of-the-spark/212-ral-s-outburst
-related_hubs: "[labor]"
+related_hubs:
+  - labor
 related_symbols: []
 related_characters:
   - izzet-league

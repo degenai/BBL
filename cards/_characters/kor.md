@@ -25,7 +25,10 @@ appears_on:
   - magic-the-gathering/battle-for-zendikar/53-unified-front
   - magic-the-gathering/zendikar-rising/14-farsight-adept--foil
   - magic-the-gathering/oath-of-the-gatewatch/24-kor-sky-climber
-related_hubs: "[labor, rebellion, stewardship]"
+related_hubs:
+  - labor
+  - rebellion
+  - stewardship
 related_symbols: []
 related_characters:
   - eldrazi

@@ -17,7 +17,8 @@ confidence: canonical
 appears_on:
   - magic-the-gathering/the-list/220-tamiyo-collector-of-tales
   - magic-the-gathering/modern-horizons-3/72-tamiyo-meets-the-story-circle
-related_hubs: "[labor]"
+related_hubs:
+  - labor
 related_symbols: []
 related_characters:
   - phyrexia

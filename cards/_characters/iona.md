@@ -14,7 +14,8 @@ confidence: canonical
 appears_on:
   - magic-the-gathering/oath-of-the-gatewatch/21-iona-s-blessing
   - magic-the-gathering/commander-legends/25-iona-s-judgment
-related_hubs: "[stewardship]"
+related_hubs:
+  - stewardship
 related_symbols: []
 related_characters:
   - eldrazi

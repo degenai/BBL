@@ -21,7 +21,9 @@ appears_on:
   - dragon-ball-super/galactic-battle/bt1-072-human-shield-krillin
   - dragon-ball-super/world-martial-arts-tournament/tb2-041-double-impact-krillin
   - dragon-ball-super/world-martial-arts-tournament/tb2-053-toughened-up-krillin
-related_hubs: "[labor, stewardship]"
+related_hubs:
+  - labor
+  - stewardship
 related_symbols: []
 related_characters:
   - son-goku

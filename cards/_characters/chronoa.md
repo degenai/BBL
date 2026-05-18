@@ -15,7 +15,8 @@ appears_on:
   - dragon-ball-super/cross-worlds/bt3-113-supreme-kai-of-time-world-s-protector
   - dragon-ball-super/cross-worlds/bt3-122-time-s-judgement
   - dragon-ball-super/colossal-warfare/bt4-103-time-s-choice-supreme-kai-of-time
-related_hubs: "[stewardship]"
+related_hubs:
+  - stewardship
 related_symbols: []
 related_characters:
   - xenoverse-villains

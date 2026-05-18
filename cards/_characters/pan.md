@@ -20,7 +20,8 @@ appears_on:
   - dragon-ball-super/colossal-warfare/bt4-009-power-of-friendship-pan
   - dragon-ball-super/world-martial-arts-tournament/tb2-024-awakening-talent-pan
   - dragon-ball-super/cross-worlds/bt3-028-grand-tour-spaceship
-related_hubs: "[labor]"
+related_hubs:
+  - labor
 related_symbols: []
 related_characters:
   - son-goku

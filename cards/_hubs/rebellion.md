@@ -9,7 +9,27 @@ aliases:
   - dissent
   - refusal
   - anti-establishment
-tag_signals: "[rebellion, defiance, dissent, refusal, sabotage, mob, riot, uprising, betrayal, escape, fugitive, conspiracy, mind-control-refused, oath-broken, mutiny, insurgent, partisan, runaway, hidden, ambush]"
+tag_signals:
+  - rebellion
+  - defiance
+  - dissent
+  - refusal
+  - sabotage
+  - mob
+  - riot
+  - uprising
+  - betrayal
+  - escape
+  - fugitive
+  - conspiracy
+  - mind-control-refused
+  - oath-broken
+  - mutiny
+  - insurgent
+  - partisan
+  - runaway
+  - hidden
+  - ambush
 anchored_lairs: []
 brand_weight: foundational
 tags:

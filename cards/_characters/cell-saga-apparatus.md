@@ -16,7 +16,8 @@ appears_on:
   - dragon-ball-super/cross-worlds/bt3-067-dr-gero-evil-s-inventor
   - dragon-ball-super/cross-worlds/bt3-070-dawn-of-terror-android-13-2018
   - dragon-ball-super/union-force/bt2-087-uncountable-many-cell-jr
-related_hubs: "[labor]"
+related_hubs:
+  - labor
 related_symbols: []
 related_characters:
   - son-gohan

@@ -19,7 +19,8 @@ appears_on:
   - magic-the-gathering/commander-legends/241-lys-alana-bowmaster
   - magic-the-gathering/commander-streets-of-new-capenna/228-nadir-kraken
   - magic-the-gathering/oath-of-the-gatewatch/35-spawnbinder-mage
-  - magic-the-gathering/throne-of-eldraine/134-raging-redcaprelated_hubs: []
+  - magic-the-gathering/throne-of-eldraine/134-raging-redcap
+related_hubs: []
 notes: |
   Magic: The Gathering illustrator. Three BFZ credits in corpus (wave 40):
   Gideon's Reproach (BFZ-30, suspected-Gideon-Jura depiction with golden
@@ -88,7 +89,7 @@ Murayama Scott's three credits open one direct bundle-anchor frame:
 - [[241-lys-alana-bowmaster]]
 - [[228-nadir-kraken]]
 - [[35-spawnbinder-mage]]
-- [[134-raging-redcaprelated_hubs: []]]
+- [[134-raging-redcap]]
 ## See also
 
 - [[kor]] — character node; Kitesail Scout and Unified Front both anchor at the kor faction. The Murayama Scott artist-node and the Kor character-node share two corpus cards as the load-bearing edge between the artist-layer and character-layer dimensions of those prints.

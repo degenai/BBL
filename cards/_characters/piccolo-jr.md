@@ -20,7 +20,8 @@ appears_on:
   - dragon-ball-super/galactic-battle/bt1-045-boost-attack-piccolo
   - dragon-ball-super/colossal-warfare/bt4-068-special-beam-cannon
   - dragon-ball-super/colossal-warfare/bt4-070-sacrifice
-related_hubs: "[stewardship]"
+related_hubs:
+  - stewardship
 related_symbols: []
 related_characters:
   - namekian

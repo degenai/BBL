@@ -15,7 +15,8 @@ confidence: canonical
 appears_on:
   - magic-the-gathering/war-of-the-spark/227-angrath-captain-of-chaos
   - magic-the-gathering/war-of-the-spark/185-angrath-s-rampage
-related_hubs: "[rebellion]"
+related_hubs:
+  - rebellion
 related_symbols: []
 related_characters:
   - nicol-bolas

@@ -18,7 +18,8 @@ appears_on:
   - magic-the-gathering/throne-of-eldraine/310-oko-s-accomplices
   - magic-the-gathering/throne-of-eldraine/312-oko-s-hospitality
   - magic-the-gathering/modern-horizons-3/175-trickster-s-elk
-related_hubs: "[rebellion]"
+related_hubs:
+  - rebellion
 related_symbols: []
 related_characters: []
 ip_resolution_for: Oko

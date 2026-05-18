@@ -8,7 +8,30 @@ aliases:
   - shengxiao
   - lunar-zodiac
   - china-zodiac
-tag_signals: "[rat, ox, tiger, rabbit, dragon, snake, horse, goat, sheep, ram, monkey, rooster, chicken, dog, pig, boar, wood-element, fire-element, earth-element, metal-element, water-element, lunar-new-year, agrarian]"
+tag_signals:
+  - rat
+  - ox
+  - tiger
+  - rabbit
+  - dragon
+  - snake
+  - horse
+  - goat
+  - sheep
+  - ram
+  - monkey
+  - rooster
+  - chicken
+  - dog
+  - pig
+  - boar
+  - wood-element
+  - fire-element
+  - earth-element
+  - metal-element
+  - water-element
+  - lunar-new-year
+  - agrarian
 anchored_lairs: []
 brand_weight: foundational
 linked_project: pokemon-zodiac

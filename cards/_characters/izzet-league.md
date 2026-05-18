@@ -19,7 +19,8 @@ appears_on:
   - magic-the-gathering/modern-horizons-3/132-ral-and-the-implicit-maze
   - magic-the-gathering/war-of-the-spark/212-ral-s-outburst
   - magic-the-gathering/modern-masters-2015/245-izzet-boilerworks
-related_hubs: "[labor]"
+related_hubs:
+  - labor
 related_symbols: []
 related_characters:
   - ral-zarek

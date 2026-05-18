@@ -17,7 +17,8 @@ confidence: canonical
 appears_on:
   - dragon-ball-super/world-martial-arts-tournament/tb2-057-master-roshi-martial-meister
   - dragon-ball-super/world-martial-arts-tournament/tb2-058-unyielding-victory-jackie-chun
-related_hubs: "[stewardship]"
+related_hubs:
+  - stewardship
 related_symbols: []
 related_characters:
   - son-goku

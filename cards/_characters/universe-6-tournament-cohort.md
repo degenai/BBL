@@ -27,7 +27,9 @@ appears_on:
   - dragon-ball-super/galactic-battle/bt1-020-iron-wall-magetta
   - dragon-ball-super/galactic-battle/bt1-027-cabba-s-awakening-2017
   - dragon-ball-super/colossal-warfare/bt4-057-namekian-duo-saonel
-related_hubs: "[labor, stewardship]"
+related_hubs:
+  - labor
+  - stewardship
 related_symbols: []
 related_characters:
   - saiyan

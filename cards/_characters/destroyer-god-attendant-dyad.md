@@ -21,7 +21,9 @@ appears_on:
   - dragon-ball-super/galactic-battle/bt1-007-manipulating-god-champa
   - dragon-ball-super/galactic-battle/bt1-042-energy-boost-beerus
   - dragon-ball-super/galactic-battle/bt1-043-whis-judge-of-the-gods
-related_hubs: "[labor, stewardship]"
+related_hubs:
+  - labor
+  - stewardship
 related_symbols: []
 related_characters:
   - universe-6-tournament-cohort
