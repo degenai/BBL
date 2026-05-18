@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - construct
+  - spider
+  - machine
+  - artifact
+  - thopter
+  - gold
+  - spectacle
+  - arena
+  - aetherpunk
+  - surveillance
+  - camera
+  - mechanical
+tags_filter:
+  - group
+  - wide-shot
+  - scene-mode
+  - creature-artifact
+  - colorless
 reference_image: cards/_images/magic-the-gathering/aetherdrift/232-camera-launcher.png
 average_cost_paid: 0
 market_price: 0.06
@@ -30,7 +47,29 @@ image_width: 745
 image_height: 1040
 image_quality: high
 mana_cost: "{3}"
+mood: action
+time_of_day: indeterminate
+setting: indoor
 tags:
   - card
 ---
 # Camera Launcher (Aetherdrift)
+
+## Vision
+
+![232-camera-launcher](../../_images/magic-the-gathering/aetherdrift/232-camera-launcher.png)
+
+A massive arachnid-form mechanical construct dominates the foreground, its multi-jointed gold and brass legs spread wide across a vivid red floor. The body is armored in overlapping gold panels with blue accents and glowing green optical sensors. Several smaller mechanical flying creatures — thopter-like insects with mechanical wings — drift through the background and upper frame. One humanoid figure in the far background appears to gesture or interact with the floating constructs. The setting is a grand hall or arena interior with teal-blue walls visible through an opening. The art evokes Kaladesh-style aetherpunk aesthetics: ornate gilded machinery, insectoid forms, and aether glow. oracle_text confirms this is a creature that creates Thopter tokens; mana_cost is {3} (colorless).
+
+**Subject:** A large gold-and-brass mechanical spider-like construct with articulated multi-jointed legs, in a grand interior space, surrounded by smaller flying mechanical creatures
+
+**Composition:** wide, narrative, figures: group, facing: forward
+**Setting:** indoor, modern, indeterminate
+**Foreground:** Large gold mechanical spider construct with articulated legs and blue accents  *(palette: gold, brass, blue, green)*
+**Background:** Grand teal interior hall, red floor, smaller flying mechanical creatures  *(palette: teal, blue, red, cream)*
+**Mood / lighting:** action, ambient
+**Emotion read:** imposing — spread-legged stance suggesting readiness or display
+**Objects:** mechanical-legs, optical-sensors, thopters, gold-armor
+**Creatures:** mechanical-spider, thopter, construct
+**Genre cues:** steampunk, fantasy, sci-fi
+

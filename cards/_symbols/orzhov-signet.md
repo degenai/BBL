@@ -11,11 +11,11 @@ universe: "Magic: The Gathering / Ravnica"
 canonical_source: "Orzhov Signet (artifact card, Ravnica: City of Guilds onward, multiple printings)"
 confidence: canonical
 appears_on:
-  - ravnica-allegiance/194-pitiless-pontiff
-  - dragon-s-maze/109-tithe-drinker
-  - ravnica-allegiance/236-orzhov-locket
-  - ravnica-allegiance/252-orzhov-guildgate-252
-  - murders-at-karlov-manor/230-sanguine-savior
+  - magic-the-gathering/ravnica-allegiance/194-pitiless-pontiff
+  - magic-the-gathering/dragon-s-maze/109-tithe-drinker
+  - magic-the-gathering/ravnica-allegiance/236-orzhov-locket
+  - magic-the-gathering/ravnica-allegiance/252-orzhov-guildgate-252
+  - magic-the-gathering/murders-at-karlov-manor/230-sanguine-savior
 related_hubs: "[labor]"
 related_characters:
   - orzhov-syndicate

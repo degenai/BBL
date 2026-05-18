@@ -50,7 +50,7 @@ setting: void
 subject_known_ip: true
 suspected_ip: Son Goku (Dragon Ball)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 tags:
   - card
   - dbs
@@ -61,8 +61,8 @@ tags:
 
 ![bt2-072-bundle-of-curiosity-son-goku](../../_images/dragon-ball-super/union-force/bt2-072-bundle-of-curiosity-son-goku.png)
 
-> [!warning] Suspected IP: **Son Goku (Dragon Ball)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Son Goku (Dragon Ball)**
+> Confirmed via Bandai card database character-tag `Son Goku`, card title explicitly names the character, and the figure's facial features and spiky dark hair are canonical Goku identifiers. [dbs-cardgame.com; TCGplayer product listing]
 
 A male figure with dark spiky hair and Goku's recognizable face wears an unusual blue formal-style costume with a large white ruffled or frilled collar — a stark contrast from his usual orange gi. He holds what appears to be a round-framed implement in one outstretched hand. The background is pale blue-green with a clean, uncluttered aesthetic. The figure's posture is open and light, suggesting a comedic or curiosity-driven mood rather than combat readiness. The image is low-resolution with a watermark visible. The overall presentation is a novelty or alternate-art take on the character in an out-of-element costume.
 
@@ -76,4 +76,16 @@ A male figure with dark spiky hair and Goku's recognizable face wears an unusual
 **Emotion read:** open, curious, slightly bewildered — arms extended, no combat tension
 **Objects:** ruffled collar, round-framed implement or net
 **Genre cues:** anime, shonen, comedy
+
+## Trivia
+
+- **Set context** — Union Force (DBS-B02, November 3, 2017) is the second main booster in the Dragon Ball Super Card Game, released approximately 3.5 months after Galactic Battle. The 127-card set spans multiple sagas including the Android and Cell eras alongside the Potara-Fusion Buu Saga payoffs (Vegito BT2-012 is the set's red-archetype Super Rare). BT2-072 is a common from the set's lower-rarity tier. [TCGplayer product listing; bleedingcool.com Union Force checklist]
+- **Card profile** — BT2-072 is a Green Battle card, 10,000 power, cost 2, 5,000 combo power, Saiyan special trait, Android Cell Saga era. Skill: "When you play this card, draw 1 card" — a simple cantrip effect that replaces itself. [WebSearch snippet via dbs-cardgame.com PDF example]
+- **IP verification** — The depicted figure is Son Goku, canonical protagonist of the Dragon Ball franchise (Akira Toriyama / Toei Animation), confirmed by the card's explicit title ("Bundle of Curiosity Son Goku") and Bandai's character-tag field. The "Bundle of Curiosity" card name reflects a Bandai naming convention for novelty/comedic alternate-costume prints that foreground the character's wide-eyed personality trait rather than combat mode — Goku is canonically depicted in his franchise as curious and unguarded in non-combat contexts. [dbs-cardgame.com; Kanzenshuu Son Goku character discussion, via WebSearch]
+- **Alternate-art framing** — The blue formal-costume-with-ruffled-collar depiction places this card in Bandai's recurring "out-of-element costume" alternate-art design strand for DBSCG commons, where established fighter characters are shown in incongruous formal or novelty attire. The format-legal effect (cantrip draw) is deliberately low-power to match the comedic flavor of the art. [TCGplayer product listing; bleedingcool.com Union Force checklist]
+
+### Related cards
+- Son Goku (Galactic Battle BT1-060, Common) — same character, battle-mode print from the inaugural set
+- Repeated Force Vegito (Union Force BT2-012, Super Rare) — same BT2 set; the Potara-fusion payoff anchoring BT2's red archetype
+- Father-Son Kamehameha (Union Force BT2-098) — companion BT2 print depicting Goku and Gohan's canonical team attack
 

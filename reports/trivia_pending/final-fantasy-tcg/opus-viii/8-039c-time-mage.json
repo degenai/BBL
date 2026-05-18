@@ -1,0 +1,41 @@
+{
+  "card_name": "Time Mage",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-039C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Time Mage (Final Fantasy Tactics Advance) confirmed via card category field 'FFTA' per the FFTCG Crystarium Opus VIII review and the figure's rubber-limbed chibi design canonical to Ryoma Ito's FFTA character art style. Internal Square Enix IP — no external crossover risk. No IP callout block required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Opus VIII (released March 2019) introduced Final Fantasy XIV: Stormblood and Final Fantasy XV as new titles to FFTCG, alongside returning FFTA content featuring exclusive original artwork by Ryoma Ito (the canonical FFTA character designer).",
+      "sources": ["Square Enix FF Portal: Opus VIII announcement via WebSearch", "FFTCG Crystarium Opus VIII review"]
+    },
+    {
+      "category": "set-lore",
+      "text": "IP verified: Time Mage (FFTA) confirmed via card category 'FFTA'. In Final Fantasy Tactics Advance, the Time Mage job is accessible only to Nu Mou and Moogle races — not humans — placing the depicted squat rubber-limbed figure within the Nu Mou or Moogle race job design canon.",
+      "sources": ["Final Fantasy Wiki: Time Mage (Tactics Advance) via WebSearch", "FFTCG Crystarium Opus VIII review"]
+    },
+    {
+      "category": "mechanical",
+      "text": "8-039C is an Ice Forward card, cost 3, 7,000 power, Standard Unit, category FFTA. Ability: 'When Time Mage enters the field, you may discard 1 card from your hand. If you do so, dull and Freeze all the Forwards of the same cost as the discarded card opponent controls.'",
+      "sources": ["FFTCG Crystarium: How to Win Limited — Opus VIII Review (exact card text)"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on FFTCG Crystarium (rated 3/5 in Opus VIII Limited review): 'Attaching a massively discounted O1 Shiva to an on-curve body, Time Mage is going to clear the way for you to clock your opponent for tons of damage, or give you a ton of breathing room to restabilize... Time Mage will end games in a hurry.' Considered strong in draft, mid-tier in constructed.",
+      "sources": ["FFTCG Crystarium: How to Win Limited — Opus VIII Review"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Black Mage (FFTA)", "set": "Opus VIII 8-030C", "note": "Same FFTA category in Opus VIII; paired stylistically in the FFTA job-class common cycle"},
+    {"name": "Dragoon (FFTA)", "set": "Opus VIII", "note": "FFTA job-class common in same Opus VIII FFTA cluster"},
+    {"name": "Ninja (FFTA)", "set": "Opus VIII", "note": "Another FFTA job-class common from Opus VIII"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

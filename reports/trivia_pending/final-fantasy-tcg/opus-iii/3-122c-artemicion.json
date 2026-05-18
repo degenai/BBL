@@ -1,0 +1,41 @@
+{
+  "card_name": "Artemicion",
+  "game": "Final Fantasy TCG",
+  "set": "Opus III",
+  "collector_number": "3-122C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Artemicion (Final Fantasy IX) confirmed via card category field 'IX', job 'Moogle', and canonical visual identifier: striped purple fur. Standard FFIX moogles have white fur; Artemicion's purple stripes are his canonical visual identifier per the Final Fantasy Wiki. Internal Square Enix IP — no external crossover risk. No IP callout block required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Artemicion is the named moogle director of Mognet Central in Final Fantasy IX, canonically identified by his striped purple fur (unique among FFIX moogles, who normally have white fur). He used all of Mognet Central's Superslick on his own fur, breaking the mail-delivery machine; the player resolves the crisis by obtaining Superslick from Ruby in Alexandria.",
+      "sources": ["Final Fantasy Wiki: Artemicion via WebSearch snippet", "Final Fantasy Wiki: Mognet Central via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "IP verified: card category 'IX' plus job 'Moogle' plus the figure's canonical striped purple fur confirm this is Artemicion specifically, not a generic FFIX moogle.",
+      "sources": ["Final Fantasy Wiki: Artemicion", "TheRealmOfAdventure product listing"]
+    },
+    {
+      "category": "mechanical",
+      "text": "3-122C is a Water Backup card, cost 2, job Moogle, category IX. Ability: 'When Artemicion enters the field, place any number of cards from your hand at the bottom of your deck in any order. Then draw the same number of cards.' — hand-filtering without card disadvantage; valued in Water decks for digging to key cards.",
+      "sources": ["WebSearch snippet via TCGplayer", "TheRealmOfAdventure product listing"]
+    },
+    {
+      "category": "design",
+      "text": "Opus III (2017) is the third FFTCG booster set, known for expanding representation of Final Fantasy IX, VI, and VII. Artemicion's inclusion as a named minor NPC (optional sidequest character) at the Backup level reflects FFTCG's design approach of including named supporting characters rather than only main-cast entries.",
+      "sources": ["TradingCardSets.com Opus III guide", "Final Fantasy Card Game Wikia: Opus III Collection via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Moogle (various Opus prints)", "set": "Multiple", "note": "Generic moogle Backup cards; Artemicion's named-character status distinguishes him from the job-class generics"},
+    {"name": "Zidane (any FFTCG print)", "set": "Various", "note": "Canonical FFIX protagonist who completes the Mognet Central sidequest"},
+    {"name": "Stiltzkin", "set": "FFTCG various", "note": "FFIX traveling moogle merchant; appears alongside Artemicion in FF Art Museum Trading Card no. 380"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Wild Tiger, the Imposing",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-031",
+  "task_profile": "ip-priority",
+  "ip_decision": "refute",
+  "ip_outcome_note": "Nappa (Dragon Ball) refuted. Vision flagged Nappa based on bald head and heavy musculature. Wild Tiger is the card's named character per the card title — he is a distinct named Earthling fighter from the 27th and 28th World Martial Arts Tournaments, not a Saiyan. Nappa is canonically a Saiyan elite with a goatee and Saiyan armor; Wild Tiger is an Earthling brawler with no Saiyan-canonical features. Frontmatter updated: suspected_ip cleared, ip_confidence set to none.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "IP refuted: the figure is Wild Tiger, not Nappa. Wild Tiger is a named Earthling fighter — the card title 'Wild Tiger, the Imposing' is the direct canonical identifier. Nappa is a Saiyan elite with goatee and armor; Wild Tiger is a helmeted Earthling brawler with no Saiyan features.",
+      "sources": ["Dragon Ball Wiki: Wild Tiger via WebSearch snippet", "TrollAndToad product listing"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Wild Tiger (Japanese: Mo Kekko, a pun on the phrase meaning 'that's enough,' with name characters meaning 'ferocious blood tiger') appeared in both the 27th and 28th World Martial Arts Tournaments in Dragon Ball Z's final arc. He lost to Majin Buu in the 27th semi-finals and was defeated by Pan in the 28th opening-round selection.",
+      "sources": ["Dragon Ball Wiki: Wild Tiger via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "World Martial Arts Tournament (DBS-TB02, September 21, 2018) is the second themed booster in the Dragon Ball Super Card Game, 125 cards centered on tournament-era characters across the franchise's tournament arcs. Introduces Link Cards — paired prints with correlating art that activate bonus effects when the matched card is in play.",
+      "sources": ["DBZ Exchange product listing", "bleedingcool.com WMAT checklist"]
+    },
+    {
+      "category": "mechanical",
+      "text": "TB2-031 is a Blue Battle card, 15,000 power, cost 2, 5,000 combo power, Earthling/World Tournament special trait, Majin Buu Saga era. Skill: switch to Rest Mode and redirect an attack targeting one of your other cards to this card — a bodyguard/taunt effect thematically aligned with Wild Tiger's imposing stature. Available in tournament play from November 30, 2018.",
+      "sources": ["WebSearch snippet via TrollAndToad", "bleedingcool.com"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pan (various TB2 prints)", "set": "World Martial Arts Tournament", "note": "Pan defeated Wild Tiger at the 28th World Martial Arts Tournament — canonical opponent relation"},
+    {"name": "Supreme Showdown Son Goku", "set": "WMAT TB2-002", "note": "28th World Martial Arts Tournament context; Goku vs. Uub ran concurrently with Pan vs. Wild Tiger"},
+    {"name": "Majin Buu (any TB2 print)", "set": "World Martial Arts Tournament", "note": "Wild Tiger lost to Majin Buu in the 27th World Martial Arts Tournament semi-finals"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "empty",
+    "ip_confidence": "none"
+  }
+}

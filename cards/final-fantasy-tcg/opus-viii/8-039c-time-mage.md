@@ -49,7 +49,7 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Time Mage (Final Fantasy Tactics Advance)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Time Mage (Opus VIII)
@@ -58,8 +58,8 @@ ip_verified: false
 
 ![8-039c-time-mage](../../_images/final-fantasy-tcg/opus-viii/8-039c-time-mage.jpg)
 
-> [!warning] Suspected IP: **Time Mage (Final Fantasy Tactics Advance)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Time Mage (Final Fantasy Tactics Advance)**
+> Confirmed via card category field "FFTA" on the Crystarium Opus VIII review and the figure's rubber-limbed chibi design style canonical to FFTA's character art by Ryoma Ito. [FFTCG Crystarium Opus VIII Review; Square Enix FFTCG Opus VIII release page]
 
 A squat, round-bodied humanoid figure in the style of Final Fantasy Tactics Advance dominates the center of the frame. The figure wears a large red hat with a star emblem and a voluminous white collar or cloak. It raises a staff topped with a gold star in one hand. The figure's design is rubbery and stylized, with small round eyes and an open mouth suggesting surprise or exertion. Swirling white and teal energy forms a vortex-like arc around the figure, evoking time-manipulation magic. The background is a muted teal with scattered small circular shapes, contributing to a magical, otherworldly atmosphere. The overall style is cartoonish and expressive.
 
@@ -74,4 +74,16 @@ A squat, round-bodied humanoid figure in the style of Final Fantasy Tactics Adva
 **Objects:** star-tipped staff, wide-brimmed hat, swirling energy vortex
 **Iconography:** star, swirling vortex, time magic symbol
 **Genre cues:** fantasy, anime, jrpg
+
+## Trivia
+
+- **Set context** — Opus VIII (released March 2019) introduced Final Fantasy XIV: Stormblood and Final Fantasy XV as new titles to the FFTCG alongside returning franchises including FFTA. Opus VIII features exclusive original artwork by Ryoma Ito (the canonical FFTA character designer), making the set FFTA's highest-profile FFTCG representation. [Square Enix FF Portal: Opus VIII announcement; FFTCG Crystarium Opus VIII review]
+- **IP verification** — The depicted figure is the Time Mage job class from Final Fantasy Tactics Advance. The card's category field is "FFTA" (confirmed in the Crystarium Opus VIII review text: "Forward — Standard Unit — FFTA"). In FFTA, Time Mage is accessible only to Nu Mou and Moogle races, not humans — placing the depicted squat-rubber-limbed figure within the Nu Mou or Moogle race canon of FFTA job design. [Final Fantasy Wiki: Time Mage (Tactics Advance); FFTCG Crystarium Opus VIII review]
+- **Card profile** — 8-039C is an Ice Forward card (not a Backup as the Vision section's tag-filter suggested), cost 3, 7,000 power, Standard Unit, category FFTA. Ability: "When Time Mage enters the field, you may discard 1 card from your hand. If you do so, dull and Freeze all the Forwards of the same cost as the discarded card opponent controls." [FFTCG Crystarium Opus VIII review — exact card text]
+- **Limited-format reputation** — The FFTCG Crystarium's Opus VIII Limited review gave Time Mage a rating of 3 out of 5, noting it as a strong tempo piece: "Attaching a massively discounted O1 Shiva to an on-curve body, Time Mage is going to clear the way for you to clock your opponent for tons of damage, or give you a ton of breathing room to restabilize... Time Mage will end games in a hurry." [FFTCG Crystarium: How to Win Limited — Opus VIII Review] Community sentiment: considered strong in draft, mid-tier in constructed. [WebSearch: Opus VIII price guide]
+
+### Related cards
+- Black Mage FFTA (Opus VIII 8-030C) — same FFTA category, same set, paired stylistically in the FFTA job-class common cycle
+- Dragoon FFTA (Opus VIII 8-039C adjacent) — FFTA job-class common in the same Opus VIII FFTA cluster
+- Ninja FFTA (Opus VIII) — another FFTA job-class common from Opus VIII; mentioned alongside Time Mage in the FF Wiki's job discussion
 

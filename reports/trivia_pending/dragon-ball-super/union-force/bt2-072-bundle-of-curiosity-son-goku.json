@@ -1,0 +1,41 @@
+{
+  "card_name": "Bundle of Curiosity Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-072",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Son Goku (Dragon Ball franchise) confirmed via the card's explicit title 'Bundle of Curiosity Son Goku' and Bandai character-tag. Internal Bandai IP — no external crossover risk. No IP callout block required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Union Force (DBS-B02, November 3, 2017) is the second main booster in the Dragon Ball Super Card Game, 127-card set released approximately 3.5 months after Galactic Battle.",
+      "sources": ["TCGplayer product listing", "bleedingcool.com Union Force checklist"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT2-072 is a Green Battle card, 10,000 power, cost 2, 5,000 combo power, Saiyan special trait, Android Cell Saga era. Skill: 'When you play this card, draw 1 card' — a cantrip that replaces itself.",
+      "sources": ["WebSearch snippet via dbs-cardgame.com PDF example", "TCGplayer product listing"]
+    },
+    {
+      "category": "design",
+      "text": "The 'Bundle of Curiosity' card name reflects Bandai's alternate-costume novelty naming convention — Goku in an incongruous blue formal outfit with ruffled collar rather than combat gi. The deliberately low-power cantrip effect (draw 1) matches the comedic flavor of the art.",
+      "sources": ["dbs-cardgame.com; Kanzenshuu discussion via WebSearch", "bleedingcool.com Union Force checklist"]
+    },
+    {
+      "category": "set-lore",
+      "text": "IP verified: Son Goku confirmed by card title and Bandai character-tag. The costume-comedy alternate art design is a recurring DBSCG minor-card design strand where known fighter characters appear in non-combat novelty contexts.",
+      "sources": ["dbs-cardgame.com", "TCGplayer product listing"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Son Goku", "set": "Galactic Battle BT1-060", "note": "Same character, battle-mode print from inaugural set"},
+    {"name": "Repeated Force Vegito", "set": "Union Force BT2-012", "note": "Same BT2 set; Potara-fusion Super Rare payoff anchoring BT2 red archetype"},
+    {"name": "Father-Son Kamehameha", "set": "Union Force BT2-098", "note": "BT2 companion print depicting Goku and Gohan's canonical team attack"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

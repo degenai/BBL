@@ -1,0 +1,41 @@
+{
+  "card_name": "Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-060",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Son Goku (Dragon Ball franchise, Akira Toriyama / Toei Animation) confirmed via Bandai official character-tag field for BT1-060: character 'Son Goku', era 'Battle of Gods Saga'. Internal Bandai IP — no external crossover risk. No IP callout block required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Galactic Battle (DBS-B01, July 28, 2017) is the inaugural set of the Dragon Ball Super Card Game — the first 114-card English-language release with 60 commons, 30 uncommons, 12 rares, 8 super rares, and 4 special rares.",
+      "sources": ["PSA Set Registry: Galactic Battle 2017", "bleedingcool.com Galactic Battle checklist"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT1-060 is a Green Battle card, cost 2 (1 Green required), 15,000 power, 5,000 combo power, Saiyan special trait, Battle of Gods Saga era.",
+      "sources": ["CoreTCG product listing", "WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "IP verified: Son Goku (Dragon Ball franchise) confirmed by Bandai character-tag 'Son Goku', era 'Battle of Gods Saga'. The Battle of Gods Saga is the DBS opening arc where Goku encounters Beerus and unlocks Super Saiyan God.",
+      "sources": ["dbs-cardgame.com character database", "son-goku.md character node"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Galactic Battle sealed boxes were retired in late 2018; by Q3 2020 supply dried up globally, reaching approximately $600-$700 per sealed box by February 2021. Individual BT1 commons retain very low raw-single value ($0.14) reflecting the high launch-wave print run.",
+      "sources": ["PSA Set Registry: Galactic Battle", "WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Son Goku (God Break)", "set": "Galactic Battle BT1-031", "note": "Special Rare BT1 Goku; higher-rarity alternate from same inaugural set"},
+    {"name": "Bundle of Curiosity Son Goku", "set": "Union Force BT2-072", "note": "Same character, comedic alternate-art print in BT2"},
+    {"name": "Trading Blows Son Goku", "set": "WMAT TB2-036", "note": "Adult-Goku parallel in the TB2 themed booster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

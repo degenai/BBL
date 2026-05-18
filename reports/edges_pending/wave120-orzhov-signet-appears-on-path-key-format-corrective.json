@@ -1,0 +1,66 @@
+{
+  "edge_id": "wave120-orzhov-signet-appears-on-path-key-format-corrective",
+  "wave": 120,
+  "shape": "replacement",
+  "topology": "stack",
+  "category": "symbol-on-art",
+  "endpoints": [
+    {
+      "type": "symbol",
+      "path": "cards/_symbols/orzhov-signet.md",
+      "name": "Orzhov Signet (symbol node)"
+    },
+    {
+      "type": "card-cohort",
+      "path": "5 MTG card paths under appears_on",
+      "name": "Pitiless Pontiff (RNA-194) + Tithe Drinker (DGM-109) + Orzhov Locket (RNA-236) + Orzhov Guildgate (RNA-252) + Sanguine Savior (MKM-230)"
+    }
+  ],
+  "description": "Worst hidden sync bug ever. Walked the corpus looking for a clean edge or unwired anchor; cross-layer audit script revealed the orzhov-signet symbol node — the original wave-1 symbol entry, predating the canonical path-key format the symbols layer later converged on — uses set-prefixed path-keys (e.g. ravnica-allegiance/194-pitiless-pontiff) in its appears_on rather than the canonical game-prefixed format (magic-the-gathering/ravnica-allegiance/194-pitiless-pontiff) that every other symbol node (disguise, eerie, suspect, manifest-dread, rooms, monarch-at-common-cmr, survival, single-strike-emblem) and every character node uses. All 5 cards correctly reference the symbol back via their symbols: [orzhov-signet] frontmatter — forward edges work. The 5 reverse edges (node->card resolution) break because the path-keys don't resolve to real files on disk. Future bundler renders that walk appears_on to compose multi-symbol Discrete Lairs would silently mis-resolve every Orzhov-Signet symbol-anchored print until corrected. Enlightened Edgelord: 5 broken path-key edges removed and 5 correctly-prefixed path-key edges added in their place — net edge count unchanged, quality up, every other layer-node convention now consistent across the symbols layer. Single file modified, no card-side changes needed. Comic Book Guy notes this is the kind of pre-convention-formalization legacy bug that only surfaces when the audit script runs across every layer simultaneously; the per-layer artist_appears_on_sync.py precedent (wave 81 P5) handled the artist-layer drift the same way, and this corrective enlightenment closes the symbols-layer analog before any bundler-render pass trips on it.",
+  "citations": [
+    "[Symbol-layer canonical path-key format per disguise.md / eerie.md / suspect.md / manifest-dread.md / rooms.md / monarch-at-common-cmr.md / survival.md / single-strike-emblem.md appears_on — all use magic-the-gathering/<set>/<stem> game-prefixed format]",
+    "[Character-layer canonical path-key format per all 91 character-node appears_on entries — all use <game>/<set>/<stem> game-prefixed format; wave 120 audit confirmed 0 reverse gaps]",
+    "[reports/_scratch/edgelord_wave120_sync_audit_all_layers.py audit script run before/after — 5 reverse-gaps detected on orzhov-signet pre-fix; 0 reverse-gaps post-fix]",
+    "[bbl-artists-layer-built memory — artist_resolve.py / artist_appears_on_sync.py wave-81 P5 precedent for layer-internal sync-drift fixes]",
+    "[Tithe — Discrete Lair 001 — anchors on this symbol node; correct appears_on path-keys are pre-requisite for the bundler-render walk]"
+  ],
+  "files_modified": [
+    "cards/_symbols/orzhov-signet.md"
+  ],
+  "edits_summary": [
+    "Frontmatter appears_on: prefixed all 5 entries with magic-the-gathering/ to match the canonical game/set/stem path-key format used by every other symbol node and every character node",
+    "Auto-generated Appears on wikilink section (lines 83-87) left untouched — bare card-stem wikilinks [[<stem>]] resolve correctly vault-wide via Obsidian's wikilink resolver regardless of subdirectory location, so those continue to work as-is"
+  ],
+  "edges_added": [
+    {"source": "cards/_symbols/orzhov-signet.md", "target": "cards/magic-the-gathering/ravnica-allegiance/194-pitiless-pontiff.md", "relation": "appears_on (canonical-format)"},
+    {"source": "cards/_symbols/orzhov-signet.md", "target": "cards/magic-the-gathering/dragon-s-maze/109-tithe-drinker.md", "relation": "appears_on (canonical-format)"},
+    {"source": "cards/_symbols/orzhov-signet.md", "target": "cards/magic-the-gathering/ravnica-allegiance/236-orzhov-locket.md", "relation": "appears_on (canonical-format)"},
+    {"source": "cards/_symbols/orzhov-signet.md", "target": "cards/magic-the-gathering/ravnica-allegiance/252-orzhov-guildgate-252.md", "relation": "appears_on (canonical-format)"},
+    {"source": "cards/_symbols/orzhov-signet.md", "target": "cards/magic-the-gathering/murders-at-karlov-manor/230-sanguine-savior.md", "relation": "appears_on (canonical-format)"}
+  ],
+  "edges_removed": [
+    {"source": "cards/_symbols/orzhov-signet.md", "target": "ravnica-allegiance/194-pitiless-pontiff (path-key NOT resolvable — missing magic-the-gathering/ prefix)", "relation": "appears_on (broken-path-key)"},
+    {"source": "cards/_symbols/orzhov-signet.md", "target": "dragon-s-maze/109-tithe-drinker (path-key NOT resolvable — missing magic-the-gathering/ prefix)", "relation": "appears_on (broken-path-key)"},
+    {"source": "cards/_symbols/orzhov-signet.md", "target": "ravnica-allegiance/236-orzhov-locket (path-key NOT resolvable — missing magic-the-gathering/ prefix)", "relation": "appears_on (broken-path-key)"},
+    {"source": "cards/_symbols/orzhov-signet.md", "target": "ravnica-allegiance/252-orzhov-guildgate-252 (path-key NOT resolvable — missing magic-the-gathering/ prefix)", "relation": "appears_on (broken-path-key)"},
+    {"source": "cards/_symbols/orzhov-signet.md", "target": "murders-at-karlov-manor/230-sanguine-savior (path-key NOT resolvable — missing magic-the-gathering/ prefix)", "relation": "appears_on (broken-path-key)"}
+  ],
+  "edgelord_mood": "enlightened-corrective",
+  "mood_notes": "Pre-convention-formalization legacy bug. The orzhov-signet node was the first symbol authored in BBL (wave 1, per bbl-symbols-layer-built memory). The canonical game-prefixed path-key format crystallized in subsequent symbol authoring (disguise, eerie, suspect, etc.) but the original entry was never retrofit. Enlightened Edgelord cleans it without ceremony; the audit script (saved at reports/_scratch/) is the receipt that confirms zero remaining gaps post-fix across both characters (91 nodes) and symbols (9 nodes) layers.",
+  "other_candidates_considered": [
+    "BT2-018 Videl, Gohan's Partner ↔ hercule node attach — refused. The card depicts Videl solo per its vision pass; per anti-confab v4 (no role-to-identity / no flavor-text-to-depiction conflation), Videl-on-card-art does not anchor a Hercule depiction edge. Frontmatter characters: field correctly left empty until videl.md character node ships at threshold (currently 2 Videl-depicting corpus prints — TB2-011 + BT2-018 — below the 3-anchor solo-character commission threshold per hercule.md caveats line 108). Mr. Nodeley would refuse videl.md at N=2. Surface for hercule.md / son-gohan.md mis-attached edge audit (see next candidate).",
+    "TB2-011 Heroic Duo Videl frontmatter characters: [hercule, son-gohan] mis-attachment audit — surfaced but NOT shipped this pass. The card depicts Videl solo per its vision pass (composition: mid-shot, figures: solo, facing: forward; the female fighter in blue outfit charging forward); hercule and son-gohan are flavor/title references, not depicted figures. Both hercule.md and son-gohan.md list tb2-011-heroic-duo-videl in their appears_on, perpetuating the depiction-vs-flavor-conflation. Three-file cleanup (remove tb2-011 from hercule appears_on + remove from son-gohan appears_on + correct tb2-011 frontmatter characters: to empty pending future videl.md commission). Stage as a separate enlightenment pass — three-file scope exceeds the symbols-layer single-file enlightenment shipped this wave per the one-decision-per-invocation rule.",
+    "Wave 81 P1 triage entry — STALE. The triage parking lot (reports/janitor_triage.md lines 92-97) still lists son-goten, uub, and wmat-tournament-announcer as queued Mr. Nodeley candidates. All three nodes have shipped (verified by file presence + fully-wired appears_on + card-side characters: pointers). Audit cleanup candidate for the triage maintainer; not Edgelord-domain since the nodes already exist correctly. Surface to flag for the next janitor pass.",
+    "Goku-and-Vegeta Saiyan-rivalry Discrete Lair candidacy — explicitly off-slot per the parent dispatch (bundler-territory, wave 119 staging note). Both parent nodes mature; the Vegito Potara-Fusion dual-anchor template is complete across waves 116-119. Reserved for bbl-bundler commission. Not Edgelord work.",
+    "Single Strike mechanic character/cycle character-layer node — still queued in waves 115-117 sidecars as a Mr. Nodeley candidate; the symbol-layer single-strike-emblem.md already does the structural work via appears_on. Layer-sibling decision pending (character-layer cohort node vs. symbol-layer-only) before Edgelord/Nodeley dispatch.",
+    "BT2-013 Lightning Speed Vegito Vegito-Potara-Fusion dual-anchor at son-goku + vegeta — blocked upstream. Card is corpus-prep-only (empty tags_hub, no body, prep-only frontmatter). Vision-pass + trivia-pass prerequisite before Edgelord can attach. Same disposition as waves 116-119.",
+    "TB2-025 Begrudging Respect Vegeta body-attach at vegeta.md — blocked upstream. Vision-passed only; trivia + IP-verification still outstanding. Same disposition as waves 116-119."
+  ],
+  "next_pass_suggestions": [
+    "Three-file cleanup for the TB2-011 Heroic Duo Videl depiction-vs-flavor mis-attachment: remove from hercule.md appears_on + remove from son-gohan.md appears_on + clear tb2-011 frontmatter characters: pending future videl.md commission. Single enlightened-corrective pass, three files modified, same audit-script-verifiable shape as wave 120 symbols-layer fix. Recommend as wave 121 Edgelord lead move.",
+    "Janitor triage cleanup: mark wave-81-P1-batched-Nodeley-candidates entry as DONE (son-goten + uub + wmat-tournament-announcer all shipped, verified wave 120). Triage entry currently stale and confuses future Edgelord dispatches that read the parking lot.",
+    "Symbols-layer reverse-audit script formalization: the reports/_scratch/edgelord_wave120_sync_audit_all_layers.py script could be promoted to reports/symbol_appears_on_sync.py (sibling to artist_appears_on_sync.py) for periodic CI-style sync-drift detection. Low-priority hygiene improvement; the wave-120 fix has cleaned the current state.",
+    "Future symbols-layer additions (Connect, Endure, Survival, Manifest Dread, et al.) should be authored using the canonical magic-the-gathering/<set>/<stem> path-key format from the start to prevent recurrence of this pre-convention drift.",
+    "Cross-layer audit-script extension to hubs and artists: the wave-120 script handles characters + symbols; extending to artists (scalar artist: field on cards + appears_on on artist nodes) and hubs (implicit via tags_hub, no explicit per-card hub pointer) would close the four-layer sync-discipline loop."
+  ]
+}

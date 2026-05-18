@@ -1,0 +1,41 @@
+{
+  "card_name": "Bard",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-029C",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag. The Bard is a job class (Final Fantasy XIV), not a named character. No IP verification required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Opus VIII (released March 2019) introduced Final Fantasy XIV: Stormblood to FFTCG for the first time alongside a dedicated FFXIV: Stormblood Starter Set. Bard (8-029C) carries category 'XIV' and is part of this inaugural FFXIV representation cluster.",
+      "sources": ["Square Enix FF Portal: Opus VIII announcement via WebSearch", "na.finalfantasy.com/news/1043"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Bard (Japanese: Gin'yushijin, lit. Minstrel) is a recurring Final Fantasy job class first appearing as a playable job in Final Fantasy V (1992). In Final Fantasy XIV, Bard is a Physical Ranged DPS job upgraded from the Archer class at level 30, canonically described as tracing its origins to 'the bowmen of eld, who sang in the heat of battle to fortify the spirits of their companions.' The mechanical bow is a FFXIV-specific design departure from the harp of earlier entries.",
+      "sources": ["Final Fantasy Wiki: Bard (job) via WebSearch", "FFXIV Job Guide: Bard via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "8-029C is an Ice Backup card, cost 2, Standard Unit, category XIV. Ability: 'D, put Bard into the Break Zone: Choose 1 Forward. Freeze it.' — a one-time tap-and-sacrifice effect preventing one opponent's Forward from acting.",
+      "sources": ["FFTCG Crystarium: How to Win Limited — Opus VIII Review (exact card text)"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on FFTCG Crystarium (rated 2/5 in Opus VIII Limited review): 'A pretty mediocre ability. If your opponent overextends into you while you have a decent board, you can stop them from activating something that would be a strong blocker, but if you're using this defensively, to prevent something from attacking you again, you're probably going to lose.' Below-curve Ice Backup; sees essentially no constructed play.",
+      "sources": ["FFTCG Crystarium: How to Win Limited — Opus VIII Review"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Time Mage (FFTA)", "set": "Opus VIII 8-039C", "note": "Same Opus VIII set; companion Ice common; Ice element connects both mechanically"},
+    {"name": "Black Mage (FFXI)", "set": "Opus VIII 8-030C", "note": "Same Opus VIII set, same Ice common cycle"},
+    {"name": "Bard (Opus XIV)", "set": "Opus XIV", "note": "Later FFTCG Bard print reported as significantly stronger; described as 'a staple in every successful Ice deck'"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
