@@ -92,3 +92,7 @@ A heavily muscular armored warrior occupies the center of the frame in a wide mi
 - Height of Mastery Son Goku (Colossal Warfare, BT4) — Swap-chain endpoint in the Goku's Lineage archetype this card feeds
 - Bardock (Colossal Warfare, BT4) — Lineage origin card; same Goku's Lineage cluster
 - Hoi, Emissary of Flame (Colossal Warfare, BT4-042) — Adjacent arc cluster in same set (Wrath of the Dragon)
+
+## Connections
+
+- [[vegeta]] — Anchors the canonical Vegeta character node at its Universe Survival-era Super Saiyan Blue continuation aspect. The art's electric-blue and gold aura is the canonical SSB visual signature (god-ki + Super Saiyan, achieved through Beerus/Whis training in *Dragon Ball Super*'s Battle of Gods / Resurrection F continuity), and the "At All Costs" subtitle plus the energy-sacrifice-for-Triple-Strike mechanical design directly encode Vegeta's canonical Saiyan-pride-as-self-stake operating mode — the same character thesis the franchise has carried since the 1989 Saiyan Saga and that culminates in DBS's Tournament of Power where Vegeta stakes his body repeatedly across the elimination matches. Third corpus print of the Vegeta SS-Blue aspect (alongside BT2-063 Father-Son Galick Gun and BT1-036 God Charge Vegeta). [Dragon Ball Wiki: Vegeta] [Dragon Ball Wiki: Vegeta's Pride] [DBZ Exchange: BT4-030] [CBR: Dragon Ball Super Saiyan Blue Explained]

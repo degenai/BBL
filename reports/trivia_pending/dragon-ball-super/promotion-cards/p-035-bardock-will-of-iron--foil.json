@@ -1,0 +1,46 @@
+{
+  "card_name": "Bardock, Will of Iron",
+  "game": "Dragon Ball Super",
+  "set": "Promotion Cards",
+  "collector_number": "P-035",
+  "task_profile": "general",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name directly names the depicted character as Bardock. Bandai official listing confirms Saiyan/Great Ape traits and Bardock Saga era stamp. Frontmatter updated: ip_verified: true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "P-035 is a Judge Promo card distributed through Official Tournament Pack Vol.3 (Cross Worlds season), available to sanctioned tournament judges from March 9, 2018. Not obtainable through retail; foil variant is same art with foil treatment.",
+      "sources": ["dbs-cardgame.com: Shop Tournaments Vol.3 event page", "dbscards.fr: P-035-PR entry"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Yellow Battle card, power 20,000, energy cost 4, Combo Power 10,000. Traits: Saiyan/Great Ape. Skills: Double Strike + Blocker. Auto: after comboing with this card during your turn, evolve an existing Bardock Battle Card into P-035 — bypassing full energy cost for the Double Strike/Blocker package.",
+      "sources": ["dbscards.fr: P-035-PR card entry", "WebSearch snippet confirming card text"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Great Ape (Oozaru) depicted on P-035 references Bardock's transformation in the 1990 Toei TV special Dragon Ball Z: Bardock — The Father of Goku, where Bardock and his squad transform into Great Apes to destroy a civilization. Bardock is unusually depicted as retaining memory of his Great Ape actions — atypical for the species. Canon status of the special is fan-debated; Kanzenshuu community notes the ending scenes mirror the manga, lending partial canonical weight.",
+      "sources": ["Wikipedia: Bardock", "Kanzenshuu forum: 'Bardock Special canon?' thread"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Bardock's characterization was rewritten by Akira Toriyama in the 2013 bonus chapter Dragon Ball Minus (collected in Jaco the Galactic Patrolman), making Bardock a protective father who arranges Kakarot's escape to Earth — inspired by Toriyama's own affection for the TV-special character. The DBS Card Game's 'Bardock Saga' era stamp covers both iterations; P-035's Oozaru-form depiction anchors the original special's pre-revision version.",
+      "sources": ["Wikipedia: Bardock", "CBR: 'Dragon Ball Z: What's Still Canon From Bardock: The Father of Goku?'"]
+    },
+    {
+      "category": "design",
+      "text": "P-035 is the only Great-Ape-depicted card in the BBL corpus as of this wave — the sole Oozaru-form anchor in the Saiyan cluster. Its Evolve-via-combo skill mechanically ties it to any Bardock-named Battle Card from BT1-BT3.",
+      "sources": ["dbs-cardgame.com promo card list"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bardock commons/rares (BT1-BT3)", "set": "Various", "note": "Evolve targets for P-035's Auto skill — any Bardock-named Battle Card"},
+    {"name": "Relentless Super Saiyan 3 Son Goku", "set": "Union Force (BT2-004)", "note": "Goku is Bardock's son; Saiyan-bloodline link across the corpus"},
+    {"name": "God Charge Vegeta", "set": "Galactic Battle (BT1-036)", "note": "Same Cross Worlds tournament season Yellow-color bracket pairing"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

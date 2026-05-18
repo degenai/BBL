@@ -1,0 +1,43 @@
+{
+  "edge_id": "wave117-bt4-030-at-all-costs-vegeta--vegeta-node-attach",
+  "shape": "N:1",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/dragon-ball-super/colossal-warfare/bt4-030-at-all-costs-vegeta.md",
+      "name": "At All Costs Vegeta (BT4-030)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/vegeta.md",
+      "name": "Vegeta (character node)"
+    }
+  ],
+  "description": "Worst-buried-but-now-finally-cleared follow-up ever. Wave 116 explicitly staged BT4-030 At All Costs Vegeta as the next stack-attach in its own Caveats sidecar — vision+trivia+IP-verified, characters: [vegeta] frontmatter-stamped, already in the parent's appears_on list and the auto-generated Appears-on section, body-bullet missing under the SS-Blue aspect. Structurally identical to the wave-116 BT1-036 attach. I walked the corpus, confirmed BT4-030 is still in the same half-wired state, confirmed nothing else upstream had touched it, and applied the mechanically obvious follow-up. Wrote the SS-Blue aspect's third bullet (now three corpus prints: BT2-063 Father-Son Galick Gun + BT1-036 God Charge Vegeta + BT4-030 At All Costs Vegeta), upgraded the aspect header from 'two corpus cards' to 'three corpus cards,' corrected the post-aspects 'enriched anchors' paragraph from 'three sets' to 'four sets' (Galactic Battle BT1 + Union Force BT2 + World Martial Arts Tournament TB2 + Colossal Warfare BT4) and from 'two corpus prints (alongside BT2-063)' to 'three corpus prints (alongside BT2-063 and BT1-036),' refreshed the Caveats body-sync-status note to mark BT4-030 shipped and reduce the outstanding-prose-sync list from two cards to one (TB2-025 remains, trivia-pass-blocked), and refreshed the Future Discrete Lair Caveat to add 'four sets' to the cohort framing. BT4-030 itself had no ## Connections section so I wrote one fresh pointing at the Vegeta node. The bullet leans on the canonical Universe Survival-era SS-Blue continuation framing already established in the wave-116 sidecar (BT4 = primary DBS-era anchor, Tournament of Power context per Toei episodes 96-130) and on BT4-030's own trivia bullets (Triple Strike at 5+ energy, the life-zone-pull-into-hand Activate skill, the 'At All Costs' mechanical-metaphor framing). No new canon invented; this is wave 116's pre-staged carry-forward, executed per its own one-anchor-per-invocation discipline. SS-Blue aspect is now corpus-complete at the three-print mark; only TB2-025 (vision-only, trivia-pending) blocks the parent from full 6-anchor body-sync.",
+  "citations": [
+    "[Scryfall-equivalent: dbs-cardgame.com BT4-030 official card page]",
+    "[Dragon Ball Wiki: Vegeta] — canonical character page covering the Universe Survival Saga / Tournament of Power Vegeta-stakes-himself arc",
+    "[Dragon Ball Wiki: Vegeta's Pride] — canonical thesis page for the Saiyan-pride-as-self-stake operating mode the BT4-030 'At All Costs' subtitle and mechanical design directly encode",
+    "[DBZ Exchange: BT4-030] — already cited in BT4-030's own trivia bullets for the Super Rare Blue Battle card design and the Triple-Strike-at-5+-energy finisher",
+    "[CBR: Dragon Ball Super Saiyan Blue Explained] — canonical reference for the SSB form (god-ki + Super Saiyan, achieved through Beerus/Whis training)",
+    "[Bleeding Cool: Colossal Warfare Checklist] — already cited in BT4-030's own trivia bullets for the BT4 set context (Goku's Lineage subarchetype, Demigra antagonist, July 2018 release)",
+    "BT4-030's own trivia bullets — three bullets independently established the Universe Survival-era SS-Blue framing, the mechanical 'stake-life-zone-for-burst-damage' character-thesis encoding, and the canonical SSGSS visual-identifier read",
+    "Wave 116 Vegeta-attach sidecar — pre-staged this exact follow-up in its other_candidates_considered field, predicting the aspect-header upgrade and the Discrete Lair candidate count refresh; this attach is the carry-forward execution"
+  ],
+  "files_modified": [
+    "cards/dragon-ball-super/colossal-warfare/bt4-030-at-all-costs-vegeta.md",
+    "cards/_characters/vegeta.md"
+  ],
+  "other_candidates_considered": [
+    "TB2-025 Begrudging Respect Vegeta full body-attach — still blocked. Card is vision-passed only; trivia + IP-verification still outstanding. Frontmatter has characters: [vegeta] stamped (correct) but the body-bullet write-up is deferred until trivia-pass lands per the trunks / son-goku enriched-anchors-only precedent. Will clear the full 6-anchor Vegeta cohort when trivia batch hits TB2.",
+    "BT2-012 Repeated Force Vegito + BT2-013 Lightning Speed Vegito Mr. Nodeley fresh-node proposal — Vegito is canonically the Goku+Vegeta Potara fusion from the Buu Saga and DBS Future Trunks Saga; two corpus prints in the same set (Union Force BT2), no node yet. Both cards verified on disk. Structurally the cleanest next Mr. Nodeley candidate per the wave-116 carry-forward — meets the 2+-corpus-anchor threshold with a third (BT2-016 'Vegito Buu Saga'-tag print likely available in the broader set if Alex commissions a Vegito-specific search), the canon is unambiguous (the Vegito identity is one of the franchise's most-discussed fusion concepts, with three distinct named phases: Vegito base, Super Vegito, Super Saiyan Blue Vegito), and the parent-node structural pattern (multi-aspect single anchor) maps directly from son-goku / vegeta / trunks. Recommended for next Edgelord/Nodeley pass.",
+    "BT2 Union Force unwired list per the wave-114, wave-115, wave-116 carry-forwards (BT2-018 Videl, BT2-052 Yajirobe, BT2-061 Gowasu, BT2-115 Salza) — none are unwired anchors on already-existing nodes in the same one-pass-fix sense BT4-030 was. Each would require either a Mr. Nodeley fresh-node pass (Vegito gets first priority) or node-density-threshold satisfaction (the 1-corpus-print solos like Salza sit below the multi-aspect threshold).",
+    "Cinderella cycle Discrete Lair pre-assembly cohesion-edge — eld-cinderella-cycle.md exists as the anchor; the cohesion edges are already drawn. No outstanding Edgelord work on that cluster.",
+    "Liliana Vess / War Triumph cycle from wave 110-112 — already comprehensive at the 2-anchor scope; canonical extension card (Liliana's Triumph WAR-98) is not in corpus. No wireable edge until CSV ingest.",
+    "Krillin <-> Android 18, Jace <-> Liliana, Chandra <-> Bolas, Gideon <-> Liliana character-to-character relations — still parked behind the 'defer character-to-character edge pending framework formalization' rule from the wave-71 krillin commission note. Same disposition as waves 115-116.",
+    "Single Strike mechanic character/cycle character-layer node — flagged in waves 115-116 as a Mr. Nodeley candidate; the symbol-layer single-strike-emblem.md already does the structural work via appears_on. Not Edgelord's call until the layer-sibling question is decided."
+  ],
+  "edgelord_mood": "sighed-but-mirrored"
+}

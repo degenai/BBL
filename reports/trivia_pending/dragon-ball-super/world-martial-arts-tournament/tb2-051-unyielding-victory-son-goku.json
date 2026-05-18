@@ -1,0 +1,42 @@
+{
+  "card_name": "Unyielding Victory Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-051",
+  "task_profile": "general",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name directly names the depicted character. Confirmed via Bandai official listing, Son Goku: Childhood character tag, Saiyan/World Tournament traits, and the monkey tail visual identifier in the art (present only in pre-Saiyan-Saga Goku depictions). Frontmatter updated: ip_verified: true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "TB2-051 is from World Martial Arts Tournament (DBS-TB02), released September 21, 2018. Yellow cards in TB2 represent the 21st World Tournament era. TB2-051 Link partner is Unyielding Victory Jackie Chun (SPR). The official Bandai SR/SPR strategy page: 'We recreated the scene from the manga where Jackie Chun and Goku fought through a skill! Double Strike and Triple Attack make a devastating combo.'",
+      "sources": ["dbs-cardgame.com: World Martial Arts Tournament Design Concept strategy page", "dbs-cardgame.com: TB02 SR/SPR Cards Showdown strategy page"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Yellow Battle card, Super Rare (SR and SPR parallel), power 15,000, energy cost 3 Yellow, Combo Power 5,000. Character tag: Son Goku: Childhood. Traits: Saiyan/World Tournament. Activate:Main (once per turn): choose 1 Unyielding Victory Jackie Chun in Battle Area and switch to Rest Mode; if Leader is a yellow World Tournament, this card gains +5,000 power, Double Strike, and Triple Attack for the turn. Full combo — 20,000 power, two damage, triple attack — activates only when the Jackie Chun partner is sacrificed.",
+      "sources": ["DBZExchange: TB2-051 listing", "Big Orbit Cards: TB2-051 listing", "WebSearch snippet confirming card text"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The 21st World Martial Arts Tournament (Dragon Ball anime episodes 14-28) is the first tournament arc. Young Goku reaches the final against Jackie Chun (Master Roshi in disguise — a wig and sunglasses, entered secretly to defeat his own students and keep them motivated to train). The match ends with Jackie Chun narrowly winning after Goku transforms into a Great Ape (Roshi blasts away the moon) — determined by martial arts experience rather than raw power. TB2-051's mechanic literally replays the match: Goku draws power from Jackie Chun's 'sacrifice' (Rest Mode) to deliver the finishing Triple Attack.",
+      "sources": ["Wikipedia: World Martial Arts Tournament (Dragon Ball)", "CBR: 'Dragon Ball Episode 28 Brought the Anime's First Tournament to an Unforgettable Conclusion'"]
+    },
+    {
+      "category": "set-lore",
+      "text": "TB2-051 anchors the childhood / original Dragon Ball phase of the Son Goku character node. The monkey tail visible in the Vision section is the canonical pre-Z visual marker: Goku's tail was removed during the Saiyan Saga (anime: by Kami; manga: by Vegeta), so its presence confirms a pre-Z depiction. This phase is distinct from adult Goku prints across BT1 and BT2.",
+      "sources": ["CBR: 'Dragon Ball Episode 28' (cross-confirms 21st Tournament context)", "Son Goku character node (existing)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Unyielding Victory Jackie Chun", "set": "World Martial Arts Tournament (TB2-SPR)", "note": "Direct Link Card partner; must be in Battle Area and switched to Rest Mode to trigger TB2-051's full skill package"},
+    {"name": "Relentless Super Saiyan 3 Son Goku", "set": "Union Force (BT2-004)", "note": "Corpus card depicting adult Goku in SS3 / Buu Saga phase; same son-goku character node"},
+    {"name": "Supreme Showdown Son Goku", "set": "World Martial Arts Tournament", "note": "Set's red-color SR Goku at the 25th-tournament era; within-set son-goku contrast"},
+    {"name": "Begrudging Respect Vegeta", "set": "World Martial Arts Tournament (TB2-025)", "note": "Corpus card from same set; blue-color Vegeta Link pair from a different tournament era"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

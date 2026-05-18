@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - bird
+  - toucan
+  - beak
+  - black-and-white
+  - colorful
+  - wildlife
+  - nature
+  - bold
+  - contrast
+  - feathers
+  - trumpet
+  - sound
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - faces-right
+  - pokemon
+  - colorless-type
 reference_image: cards/_images/pokemon/vivid-voltage/144-185-trumbeak.png
 average_cost_paid: 0
 market_price: 0.05
@@ -27,8 +45,35 @@ oracle_text: "[Ability: Charging Trumpet] When you play this Pokémon from your 
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: other
+time_of_day: indeterminate
+setting: other
+suspected_ip: Trumbeak
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
 ---
 # Trumbeak (Vivid Voltage)
+
+## Vision
+
+![144-185-trumbeak](../../_images/pokemon/vivid-voltage/144-185-trumbeak.png)
+
+> [!warning] Suspected IP: **Trumbeak** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A mid-sized bird stands upright with a bold, elongated beak that features distinct color banding — visible red, yellow, and blue sections. The body is predominantly black and white, with clean contrast between the dark upper body and lighter underside. The bird's posture is upright and sturdy, facing slightly to one side. The background is very light, almost white, keeping the focus entirely on the bird's strong silhouette and patterned beak. The composition is clean and graphic.
+
+**Subject:** Trumbeak, a toucan-like black and white bird Pokemon with a distinctive multi-colored beak, standing upright
+
+**Composition:** mid-shot, portrait, figures: solo, facing: three-quarter
+**Setting:** other, indeterminate
+**Foreground:** black and white toucan-like bird with multi-colored banded beak  *(palette: black, white, red, yellow, blue)*
+**Background:** pale, near-white minimal background  *(palette: white, light grey, pale)*
+**Mood / lighting:** other, soft
+**Emotion read:** composed, alert, upright
+**Creatures:** toucan-like bird, bird, beak
+**Genre cues:** anime, fantasy
+

@@ -10,8 +10,27 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - law
+  - authority
+  - soldier
+  - rune
+  - magic-weapon
+  - gold
+  - armor
+  - enforcement
+  - institution
+  - guard
+  - government
+  - hall-of-power
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - three-quarter
+  - creature-human-soldier
+  - white-magic
+  - tap-effect
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/20-law-rune-enforcer.png
 average_cost_paid: 0
 market_price: 0.22
@@ -30,7 +49,29 @@ image_width: 745
 image_height: 1040
 image_quality: high
 mana_cost: "{W}"
+mood: action
+time_of_day: indeterminate
+setting: indoor
 tags:
   - card
 ---
 # Law-Rune Enforcer (War of the Spark)
+
+## Vision
+
+![20-law-rune-enforcer](../../_images/magic-the-gathering/war-of-the-spark/20-law-rune-enforcer.png)
+
+A humanoid figure in heavy ornate plate armor leans forward in a dynamic action stance, both hands gripping a long weapon — a staff or halberd — from which bright golden-white energy discharges in arcing streaks. The armor is silver-gold with purple-blue accent detailing and a flowing dark cape behind the figure. The face is partially obscured by a helmet but a determined expression is visible. The background shows columned stone architecture suggesting an interior grand hall or governmental building. The lighting is dominated by the weapon's bright magical discharge, creating strong contrast against the cooler stone environment.
+
+**Subject:** An armored humanoid soldier in Azorius plate armor wielding a glowing rune-inscribed staff or halberd
+
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** indoor, gothic, indeterminate
+**Foreground:** armored soldier gripping a rune-staff with golden energy discharge  *(palette: silver, gold, purple, dark blue, white)*
+**Background:** columned stone hall interior  *(palette: grey, slate blue, shadow, deep teal)*
+**Mood / lighting:** action, chiaroscuro
+**Emotion read:** determined, focused, authoritative
+**Objects:** staff, halberd, glowing rune weapon, armor
+**Iconography:** runes, golden energy discharge, azorius insignia
+**Genre cues:** fantasy
+

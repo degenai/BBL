@@ -1,0 +1,42 @@
+{
+  "card_name": "Begrudging Respect Vegeta",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-025",
+  "task_profile": "general",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name directly names the depicted character. Confirmed via Bandai official listing, Saiyan/World Tournament traits, and Majin Buu Saga era stamp. Frontmatter updated: ip_verified: true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "TB2-025 is from World Martial Arts Tournament (DBS-TB02), released September 21, 2018 — final set in the Over Realm block. TB2 introduced the Link Cards mechanic: paired cards with correlating artworks whose skills activate only when the matched partner is in play. TB2-025's partner is Begrudging Respect Piccolo (TB2-027). Blue cards in TB2 represent the 25th World Tournament / Majin Buu Saga era.",
+      "sources": ["dbs-cardgame.com: World Martial Arts Tournament Design Concept strategy page", "cardmarket.com: World Martial Arts Tournament TB2 set entry"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Blue Battle card, Uncommon, power 20,000, energy cost 4. Traits: Saiyan/World Tournament. Permanent Barrier (cannot be chosen by opponent's skills). Auto when played: if Leader is World Tournament and Begrudging Respect Piccolo is in your Battle Area, opponent places 2 hand cards on top of deck in any order. Linked partner Piccolo gains power boost and energy-disruption capability when Vegeta is in play — a mutual two-card hand-and-energy disruption engine.",
+      "sources": ["DBZExchange: TB2-025 listing", "Fusion Gaming: TB2-025 listing", "WebSearch snippet confirming card text"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The 'Begrudging Respect' subtitle references the canonical Buu Saga moment before Vegeta's self-sacrifice: Piccolo most fully understood that Vegeta's sacrifice was both selfish and selfless. Piccolo had already killed Babidi by this point; Vegeta's witnessing of Piccolo's triumphant act of self-destruction is analyzed as a trigger for Vegeta's own decision to detonate himself against Buu. The arms-crossed, closed-off posture (per Vision section) encodes Vegeta's canonical inability to openly acknowledge non-Saiyan respect.",
+      "sources": ["CBR: 'Vegeta and Piccolo Never Fought in DBZ'", "Quora: 'When did Piccolo earn Vegeta's respect?'"]
+    },
+    {
+      "category": "set-lore",
+      "text": "TB2-025 completes the final unenriched slot in the Vegeta character node corpus roster (per _characters/vegeta.md wave 117 note). As the corpus's second Buu-Saga-phase Vegeta print alongside TB2-006 Vegeta Power Misused, it provides the contrasting Buu-Saga emotional register: the quietly-processing Vegeta about to sacrifice himself vs. the Majin-unleashed aggressor of TB2-006.",
+      "sources": ["_characters/vegeta.md (existing character node, wave 117)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Begrudging Respect Piccolo", "set": "World Martial Arts Tournament (TB2-027)", "note": "Direct Link Card partner; correlating artwork and mechanically paired skill"},
+    {"name": "Vegeta, Power Misused", "set": "World Martial Arts Tournament (TB2-006)", "note": "Corpus Buu-Saga Vegeta card from same set; the Majin-phase emotional counterpoint"},
+    {"name": "Father-Son Galick Gun", "set": "Union Force (BT2-063)", "note": "Corpus Vegeta print from BT2; Future Trunks Saga phase of same character node"},
+    {"name": "Supreme Showdown Vegeta", "set": "World Martial Arts Tournament", "note": "Set's Super Rare Vegeta in the red Goku/Vegeta 25th-tournament Link pair; same-set prestige Vegeta print"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

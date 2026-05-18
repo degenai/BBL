@@ -1,0 +1,42 @@
+{
+  "card_name": "Zamasu, The Invincible",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-057",
+  "task_profile": "general",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name directly names the depicted character. Confirmed via Bandai official listing, God trait, Future Trunks Saga era stamp, and the green skin / white hair visual identifiers matching Zamasu's canonical appearance. Frontmatter updated: ip_verified: true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT2-057 is from Union Force (DBS-B02), released November 3, 2017. BT2 introduced Zamasu and Goku Black as a new Blue-color villain archetype. Bandai included a dedicated Fused Zamasu deck list in the official strategy content with BT2-057 listed as a 4-copy staple.",
+      "sources": ["dbs-cardgame.com: Union Force Fused Zamasu deck strategy page"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Blue Battle card, Uncommon, power 15,000, energy cost 4 (reduced by 1 with a Zamasu or Goku Black Leader). God trait. Permanent Indestructible: cannot be KO'd by opponent card skills or battle and does not leave the Battle Area. Energy reduction + Indestructible directly mirror Zamasu's canonical in-universe immortality from the Future Trunks Saga — a card that cannot be permanently removed, for a character who cannot be permanently killed.",
+      "sources": ["dbs-cardgame.com: BT2 Fused Zamasu deck list", "CoreTCG: BT2-057 listing", "WebSearch snippet confirming card text"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Zamasu is the primary villain of Dragon Ball Super's Future Trunks Saga (DBS episodes 47-76, 2016-2017): a former Supreme Kai apprentice who develops a mortal-extermination ideology ('Zero Mortals Plan'), uses the Super Dragon Balls to steal Goku's body (becoming Goku Black), and wishes for Future-Zamasu's immortality. The two later merge into Fused Zamasu. Ultimately required Zeno's erasure of the entire future timeline to defeat — the only DBS villain whose defeat required timeline destruction rather than conventional combat.",
+      "sources": ["Kanzenshuu: Future Trunks arc episode guide", "Wikipedia: Dragon Ball Super Future Trunks Saga (search snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "BT2-057 is the corpus's only Zamasu card and the primary anchor for the xenoverse-villains cluster context. The Indestructible mechanic encodes the 'divine villain who cannot be normally defeated' concept — Fused Zamasu's ultimate resolution required Zeno's timeline erasure precisely because standard combat could not permanently remove him.",
+      "sources": ["dbs-cardgame.com: BT2 card list"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Zamasu, The Alert God", "set": "Union Force (BT2-056)", "note": "Same set, same character, Rare; 2-copy piece in the official Fused Zamasu deck alongside BT2-057"},
+    {"name": "Infinite Force Fused Zamasu", "set": "Union Force (BT2-058)", "note": "Set's Special Rare; also Indestructible; the Fused Zamasu archetype's win-condition"},
+    {"name": "Warrior of the Gods Goku Black", "set": "Union Force (BT2-055)", "note": "Zamasu's partner card; together with BT2-057 creates a full 'cannot remove either card' Battle Area lockout"},
+    {"name": "Father-Son Galick Gun", "set": "Union Force (BT2-063)", "note": "Corpus card from same set; the Vegeta+Future Trunks response to Fused Zamasu in DBS episode 65"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

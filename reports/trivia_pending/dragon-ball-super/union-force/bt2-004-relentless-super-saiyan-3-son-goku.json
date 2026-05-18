@@ -1,0 +1,42 @@
+{
+  "card_name": "Relentless Super Saiyan 3 Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-004",
+  "task_profile": "general",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name directly names the depicted character as Son Goku in Super Saiyan 3 form. Confirmed via Bandai official listing and Union Force set roster. Frontmatter updated: ip_verified: true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT2-004 is from Union Force (DBS-B02), released November 3, 2017 — the second main booster of the DBS Card Game. The official designer note states BT2 expanded the viable deck archetype count to 20+ types across five colors. Red decks were pitched to less-experienced players built around Saiyan-family offense.",
+      "sources": ["dbs-cardgame.com: Union Force designer note", "dbs-cardgame.com: Union Force Red strategy page", "tcdb.com: 2017 DBS BT2 Union Force"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Red Battle card, Rare, power 20,000 (25,000 on turn played), energy cost 4. Cannot be KO'd by opponent's skills; gains +5,000 power when played until the start of your next turn. Skill-immunity + entry-power-boost packages it as a resilient midrange threat that survives targeted removal.",
+      "sources": ["DBZExchange: BT2-004 listing", "GameAcademia Singapore: BT2-004 listing", "WebSearch snippet confirming card text"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Super Saiyan 3 is the third canonical Super Saiyan tier. Goku first achieved it while training in Other World (post-Cell death) and first reveals it against Majin Buu (manga chapter 472; anime episode 245). The defining visual markers — extreme hair lengthening, loss of eyebrows, massively amplified golden aura — are those the Vision section identifies on BT2-004's art. SS3 is the most physically taxing Super Saiyan form, draining ki and life span rapidly even for post-death Goku.",
+      "sources": ["Kanzenshuu FAQ: Super Saiyan 2 name/translation history (cross-confirms transformation numbering)", "Wikipedia: Dragon Ball Super Saiyan forms"]
+    },
+    {
+      "category": "set-lore",
+      "text": "BT2-004 ties to the Son Goku character node as a canonical SS3-form / Buu-Saga-era print. The Son Goku corpus cluster spans five distinct arc phases across BT1 and BT2; the SS3 phase (Buu Saga) connects narratively to TB2-051 Unyielding Victory Son Goku (childhood/21st-tournament era) and the BT1 Goku prints (Battle of Gods / Saiyan Saga era).",
+      "sources": ["_characters/son-goku.md (existing character node)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ghost Attack Super Saiyan 3 Gotenks", "set": "Union Force (BT2-014)", "note": "Co-featured red SS3-tier card on BT2 red strategy page; same set, same SS3 visual register"},
+    {"name": "Infinite Force Fused Zamasu", "set": "Union Force (BT2-058)", "note": "Set's Special Rare and primary blue-deck win-condition; opposing archetype to BT2-004's red Saiyan axis"},
+    {"name": "Unyielding Victory Son Goku", "set": "World Martial Arts Tournament (TB2-051)", "note": "Corpus card depicting Goku in childhood form; same son-goku character node, different arc phase"},
+    {"name": "Relentless Super Saiyan 3 Son Goku Foil", "set": "Union Force (BT2-004)", "note": "Foil parallel of the same card confirmed in retail listings"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

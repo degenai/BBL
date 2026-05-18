@@ -46,7 +46,7 @@ setting: void
 subject_known_ip: true
 suspected_ip: Zamasu
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 tags:
   - card
   - dbs
@@ -59,8 +59,8 @@ tags:
 
 ![bt2-057-zamasu-the-invincible](../../_images/dragon-ball-super/union-force/bt2-057-zamasu-the-invincible.png)
 
-> [!warning] Suspected IP: **Zamasu** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Zamasu**
+> Confirmed via card name (BT2-057 "Zamasu, The Invincible"), Bandai official card listing, God trait, Future Trunks Saga era stamp, and green skin / white hair visual identifiers [dbs-cardgame.com].
 
 A humanoid figure with distinctly green skin and white or pale-violet hair is depicted in a dynamic offensive pose, energy crackling around raised hands or extended arms. The figure wears dark flowing robes over a white inner garment. The expression is aggressive or contemptuous. The background is energized with golden-yellow light bursts suggesting a power discharge. At low resolution, fine details of the face and hands are not fully resolved, but the overall composition is clear: a powerful figure unleashing energy in a combat stance.
 
@@ -74,4 +74,17 @@ A humanoid figure with distinctly green skin and white or pale-violet hair is de
 **Emotion read:** contempt and aggression — combative stance, energy raised offensively
 **Iconography:** energy-aura, power-discharge
 **Genre cues:** anime, fantasy, sci-fi
+
+## Trivia
+
+- **Set context** — BT2-057 is from Union Force (DBS-B02), released November 3, 2017. The Union Force set introduced Zamasu and Goku Black as a new Blue-color villain archetype alongside the established red Saiyan and green destruction decks from BT1. Bandai built a dedicated "Fused Zamasu" deck list into the set's official strategy material, with BT2-057 Zamasu, The Invincible listed as a 4-copy staple. [dbs-cardgame.com: Union Force Fused Zamasu deck strategy page]
+- **Mechanical profile** — Blue Battle card, Uncommon, power 15,000, energy cost 4 (reduced by 1 if your Leader Card is Zamasu or Goku Black). Special trait: God. Permanent skill: "Indestructible" — this card cannot be KO'd by opponent's card skills or battle and does not leave the Battle Area. The Permanent energy-cost reduction and the Indestructible ability directly mirror Zamasu's canonical in-universe immortality (granted by the Super Dragon Balls in the Future Trunks Saga): a character who cannot be permanently destroyed, depicted as a card that cannot be permanently KO'd. The design cohesion between the character ability and the card mechanic is explicit. [dbs-cardgame.com: BT2 Fused Zamasu deck; WebSearch snippet: CoreTCG BT2-057 listing]
+- **Lore context — Future Trunks Saga** — Zamasu is the primary villain of *Dragon Ball Super*'s Future Trunks Saga (anime episodes 47-76, manga chapters 14-26, 2016-2017). He is a former Supreme Kai apprentice who develops an ideology of mortal extermination ("Zero Mortals Plan"), uses the Super Dragon Balls to steal Goku's body (becoming Goku Black), and wishes for immortality for his Future-timeline counterpart. The two Zamasuses later merge into Fused Zamasu. Zamasu is widely regarded as DBS's darkest villain, unusual in a franchise where most antagonists have some redemption element. [Kanzenshuu: Future Trunks arc episode guide; Wikipedia: Dragon Ball Super Future Trunks Saga]
+- **Xenoverse-villains cluster** — Zamasu is the corpus candidate for the xenoverse-villains cluster (alongside Goku Black). BT2-057's Indestructible mechanic anchors the "divine villain who cannot be normally defeated" concept — which maps to why Fused Zamasu ultimately required Zeno's erasure of the entire timeline to resolve. This is the corpus's only Zamasu card; BT2-058 Infinite Force Fused Zamasu (Special Rare) is the set's prestige Zamasu print and a natural related-card anchor. [dbs-cardgame.com: BT2 card list]
+
+### Related cards
+- Zamasu, The Alert God (Union Force, BT2-056) — same set, same character, Rare; appears as a 2-copy piece in the official Fused Zamasu deck list alongside BT2-057's 4-copy package
+- Infinite Force Fused Zamasu (Union Force, BT2-058) — the set's Special Rare and primary blue-deck win-condition; also Indestructible; mechanically linked to BT2-057 as the evolution target for the Fused Zamasu archetype
+- Warrior of the Gods Goku Black (Union Force, BT2-055) — the Zamasu/Goku Black pairing that creates the full "cannot remove either card from Battle Area" lockout state when BT2-057 is also in play
+- Father-Son Galick Gun (Union Force, BT2-063) — corpus card from the same set; the Vegeta-and-Future-Trunks response to the Fused Zamasu threat in DBS episode 65
 

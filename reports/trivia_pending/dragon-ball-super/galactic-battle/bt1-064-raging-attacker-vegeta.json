@@ -1,0 +1,42 @@
+{
+  "card_name": "Raging Attacker Vegeta",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-064",
+  "task_profile": "general",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name directly names the depicted character. Confirmed via Bandai official card listing and Galactic Battle roster at dbs-cardgame.com. Frontmatter updated: ip_verified: true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT1-064 is from Galactic Battle (DBS-B01), the inaugural main booster of the Dragon Ball Super Card Game, released July 28, 2017. Green cards in the set were built around destruction and reactive board control; Raging Attacker Vegeta was singled out on the official Bandai strategy page as the green-color Counter:Attack showcase.",
+      "sources": ["dbs-cardgame.com: Galactic Battle Red and Green Cards strategy page", "tcdb.com: 2017 Dragon Ball Super BT1 Galactic Battle set entry"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Green Battle card, Rare, power 15,000. Counter:Attack skill allows the card to be played from hand during the opponent's attack step to KO an opposing Battle Card — reactive disruption encoding Vegeta's canonical strike-back aggressor mode.",
+      "sources": ["CoolStuffInc product listing BT1-064", "dbs-cardgame.com strategy page"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The card's dark Saiyan battle armor and upswept golden energy aura place it in the Z-era Super Saiyan visual register rather than the DBS god-tier (Super Saiyan Blue) continuation. The BT1 green-color Vegeta cards anchor on Vegeta's warrior-prince identity from the Saiyan Saga, with the god-tier prints (BT1-036 God Charge Vegeta, Blue, Rare) assigned to a separate color.",
+      "sources": ["dbs-cardgame.com BT1 card list", "Vegeta character node _characters/vegeta.md"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The 'Saiyan' trait shared by BT1-064 with Goku, Bardock, Trunks, and Gohan prints across BT1-BT4 is the foundational green-color subarchetype Bandai built from the first set. BT1-064's Counter:Attack role makes it a functional reactive piece within that Saiyan-trait aggression axis.",
+      "sources": ["dbs-cardgame.com BT1 card list (Saiyan trait filter)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tenacious Vegeta", "set": "Galactic Battle (BT1-066)", "note": "Same set, same character, Common; already trivia-passed in corpus"},
+    {"name": "God Charge Vegeta", "set": "Galactic Battle (BT1-036)", "note": "Same set, Vegeta in Super Saiyan Blue form; higher-rarity god-tier counterpart"},
+    {"name": "Broly, The Rampaging Horror", "set": "Galactic Battle", "note": "Co-featured green-color card on the official BT1 strategy page alongside BT1-064"},
+    {"name": "Father-Son Galick Gun", "set": "Union Force (BT2-063)", "note": "Next-set Vegeta corpus card; same Saiyan-combatant arc"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
