@@ -89,3 +89,11 @@ A massive constructed humanoid figure dominates the frame, its body assembled fr
 - Battlegrace Angel (Shards of Alara) — earlier prominent Convoke card demonstrating the mechanic's longevity
 - Sundering Vitae (War of the Spark) — Convoke creature from a later set illustrating the mechanic's persistence across blocks
 
+
+## Trivia (second pass)
+
+- **Jason Felix plagiarism + Wizards suspension (2021)** — Felix illustrated 137+ MTG cards. In April 2021 he publicly admitted that the Strixhaven Mystical Archive printing of Crux of Fate incorporated — without permission — elements of Kitt Lapeña's 2016 Nicol Bolas fan painting and Raymond Swanland's Ugin, the Spirit Dragon card art. Wizards suspended future work; he agreed to compensate both artists. Finished outstanding commissions by June 2021 and has not been contracted by Wizards since. `[Hipsters of the Coast 2021-04; Wizards: Statement on Crux of Fate 2021-03-30]`
+- **M15 guest-DESIGNER context (correction)** — M15's innovation was 15 *guest game designers* (not artists): Markus "Notch" Persson, Rob Pardo, George Fan, and others. Will-Forged Golem carries no guest credit — standard Wizards team design. The set is the first core set to feature named outside-creator attribution at all. `[Kotaku 2014; Engadget 2014-04-19]`
+- **Convoke rules change in M15** — When Convoke debuted in Ravnica: City of Guilds (2005) it was a cost-REDUCTION ability. M15 changed it to an alternative-cost payment. M15 also expanded the mechanic beyond Selesnya green-white to all five colors and artifacts. Will-Forged Golem is one of only two artifact Convoke cards in the set (22 Convoke cards total in M15). `[Draftsim: Convoke History; Gatherer M15 Convoke filter]`
+- **Sam Stoddard design article** — "Developing Convoking" (Wizards of the Coast, July 25 2014) — the design team intentionally held Convoke back from intervening sets to make it M15's signature mechanic. `[magic.wizards.com/.../developing-convoking-2014-07-25]`
+- **Convoke is "deciduous"** — Rosewater confirmed on Blogatog (June 29 2024): available to design teams in any set where it fits, not expected in every set. Convoke history: Ravnica (2005), Future Sight, M15, Guilds of Ravnica, Modern Horizons, Modern Horizons 3. `[Commander's Herald 2024]`

@@ -4,39 +4,64 @@
   "set": "Throne of Eldraine",
   "collector_number": "216",
   "task_profile": "general",
+  "pass": "second-pass (appended to first-pass)",
+  "bundle_context": "Discrete Lair 002 Drone",
   "ip_decision": "n/a",
   "ip_outcome_note": "",
   "trivia_bullets": [
     {
       "category": "set-lore",
-      "text": "Only printing; from Throne of Eldraine (ELD, October 2019), a fairy-tale plane overlaid on Arthurian legend. The clockwork gnome represents the castle's mechanical service infrastructure rather than any particular court's military. One of two colorless-common artifact golems in ELD alongside Henge Walker.",
-      "sources": ["Scryfall: Clockwork Servant"]
+      "text": "Only printing; from Throne of Eldraine (ELD, October 2019), a fairy-tale plane overlaid on Arthurian legend. The clockwork gnome represents the castle's mechanical service infrastructure rather than any particular court's military.",
+      "sources": ["Scryfall: Clockwork Servant"],
+      "pass": 1
     },
     {
       "category": "mechanical",
       "text": "Adamant mechanic (draw a card if you spent at least three mana of the same color) was ELD's set mechanic rewarding mono-color devotion. As a colorless-cost artifact, Clockwork Servant can trigger Adamant with any single color's mana — agnostic to which court employs it. EDHREC rank 22,285. Not Pauper-legal (uncommon). Legal in Pioneer, Modern, Historic, Legacy, Commander.",
-      "sources": ["Scryfall: oracle_text", "Scryfall: EDHREC rank 22,285", "Scryfall: legalities"]
+      "sources": ["Scryfall: oracle_text", "Scryfall: EDHREC rank 22,285", "Scryfall: legalities"],
+      "pass": 1
     },
     {
       "category": "flavor-text",
       "text": "\"Some are annoyed by the constant ticking as they clean the cobbles, but to the castle custodians, there's no sweeter sound.\" — no named speaker. The unnamed custodians who find the ticking sweet are implicitly those who benefit from the labor without performing it.",
-      "sources": ["Scryfall: flavor_text"]
+      "sources": ["Scryfall: flavor_text"],
+      "pass": 1
     },
     {
       "category": "design",
-      "text": "Illustrated by David Palumbo, a prolific MTG illustrator known for detailed character work. No specific design commentary on this card has been located.",
-      "sources": ["Scryfall: artist field"]
+      "text": "Illustrated by David Palumbo. First-pass noted no deeper commentary found.",
+      "sources": ["Scryfall: artist field"],
+      "pass": 1
+    },
+    {
+      "category": "design",
+      "text": "David Palumbo made his MTG debut in Shards of Alara (2008) and has illustrated over 127 cards across 30+ sets. He is the son of illustrator Julie Bell and stepson of Boris Vallejo — both defining figures in 1980s-1990s fantasy/sci-fi cover art — and studied oil painting at the Pennsylvania Academy of Fine Art. His career has earned him a Chesley Award and three Spectrum medals. Clockwork Servant appears to be his sole contribution to Throne of Eldraine. [Wikipedia: David Palumbo, via WebSearch; Gatherer artist search via WebSearch]",
+      "sources": ["Wikipedia: David Palumbo (via WebSearch)", "Gatherer: artist search (via WebSearch)"],
+      "pass": 2
+    },
+    {
+      "category": "design",
+      "text": "Clockwork Servant and Henge Walker (ELD 221, Common Golem, illustrated by Titus Lunter) form a deliberate pair of colorless-cost Adamant artifact creatures in ELD — both cost {3}, both are 2/X bodies. Their Adamant payoffs diverge: Clockwork Servant draws a card (sustain); Henge Walker enters with a +1/+1 counter (stat pump). Henge Walker's flavor text ties it to Garenbrig and the Great Henge. This pair sits at the design inflection point Wizards documented in the ELD Vision Design Handoff Part 2: the team executed 'a conscious shift to move toward more colored artifacts,' using Adamant as the mechanism that makes colorless artifacts reward mono-color commitment. [Wizards.com: Throne of Eldraine Vision Design Handoff Part 2, 2019-11-18; Scryfall: ELD 221 Henge Walker, via WebSearch]",
+      "sources": ["Wizards.com: ELD Vision Design Handoff Part 2 (via WebFetch)", "Scryfall: Henge Walker ELD 221 (via WebSearch)"],
+      "pass": 2
+    },
+    {
+      "category": "set-lore",
+      "text": "Clockwork Servant's direct type-lineage predecessor is Clockwork Gnomes (Homelands, 1995, HML 102) — also an Artifact Creature — Gnome, built by students at Feroz's Wizards' School on Ulgrotha to serve as mechanical servants on the Floating Isle. Homelands' Clockwork Gnomes carry flavor text attributed to Baki, a Wizard Attendant: 'Until I came to the Floating Isle, I never had to oil the servants.' The servant-labor framing of the gnome automaton runs from 1995 Homelands to 2019 Eldraine. Fewer than 33 Gnome-subtype cards exist in all of MTG history. [Scryfall: HML 102 Clockwork Gnomes, via WebSearch; MTG Wiki: Clockwork creature, via WebSearch]",
+      "sources": ["Scryfall: Clockwork Gnomes HML 102 (via WebSearch)", "MTG Wiki: Clockwork creature (via WebSearch)"],
+      "pass": 2
     }
   ],
   "related_cards": [
     {"name": "Gingerbrute", "set": "Throne of Eldraine", "note": "fellow ELD artifact creature in the same clockwork-fairy-tale tonal space"},
     {"name": "Clockwork Beast", "set": "Alpha/Revised", "note": "the original MTG clockwork creature, decades earlier"},
-    {"name": "Clockwork Gnome", "set": "Urza's Saga", "note": "earlier clockwork-gnome creature type that Clockwork Servant visually echoes"},
-    {"name": "Henge Walker", "set": "Throne of Eldraine", "note": "the other colorless common artifact golem in ELD"}
+    {"name": "Clockwork Gnomes", "set": "Homelands", "note": "1995 type-lineage predecessor; Artifact Creature — Gnome built as mechanical servants on Ulgrotha; flavor text directly frames oiling/maintaining mechanical servant labor"},
+    {"name": "Henge Walker", "set": "Throne of Eldraine", "note": "parallel colorless-Adamant artifact pair in ELD; same design chassis, different Adamant payoff (+1/+1 counter vs. card draw)"}
   ],
   "frontmatter_updates": {
     "ip_verified": "unchanged",
     "suspected_ip": "unchanged",
     "ip_confidence": "unchanged"
-  }
+  },
+  "second_pass_notes": "Caller requested: Palumbo deeper context, ELD vision design article artifact-creature baseline, Foulmire Knight/Order of Midnight Adamant pairings, Eldraine castle-servant lore, any Wizards article naming Clockwork Servant. Found: Palumbo biography (Wikipedia-confirmed), Henge Walker pair (Scryfall-confirmed), ELD vision design handoff quote (WebFetch-confirmed). Not found: no Wizards article names Clockwork Servant individually; no community discourse on Foulmire Knight pairing; Planeswalkers Guide to Eldraine has zero mention of castle servants/working class; Clockwork Gnomes predecessor is strongest new lore thread. Clockwork Gnomes set corrected from Urza's Saga (first-pass related cards error) to Homelands — the Gnome subtype card is HML 102, not Urza's Saga."
 }

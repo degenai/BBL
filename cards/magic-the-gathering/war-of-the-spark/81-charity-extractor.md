@@ -106,3 +106,12 @@ Two armored figures stand in the foreground of the card art. The forward figure 
 **Why it fits:** A knight in riveted gold-green armor extends a sparse pan with several bundles of coins on it. A locked strongbox, gold and ornate, sits attached to the saddle in front of him. His helmet is faceless and winged with a single eye-slit; keys hang around his neck. The other hand rests on the stirrups. The strongbox is locked because the collection isn't finished. "War or no war, your donations are due, as always."
 
 **Bundle JSON:** `diamondlegendz/bundle-previewer/sample-bundles/tithe.json`
+
+## Trivia (second pass)
+
+- **Art brief vs. final painting** — AD Dawn Murin's brief specified a knight on horseback holding an offering plate with a gold coin necklace. Matt Stewart departed substantially: no horse, no offering plate; the keys and locked strongbox were his own additions — included to underline how seriously the templar takes collection. `[Hipsters of the Coast: "Behind the Front Lines," Donny Caltrider, 2019-04-18]`
+- **Reference sourcing for a common** — For this $0.05 card Stewart posed in full armor himself, sourced horse-armor photographs from the Wallace Collection in London, used a Christmas ornament to nail the Orzhov gold tone, and photographed the Palace of Westminster for the background architecture. `[Hipsters of the Coast, 2019-04-18]`
+- **Same artist, same set: $35,000 sale** — In the same release Stewart's Nicol Bolas, God-Pharaoh mythic-edition oil (24" x 30") sold for $35,000 — possibly the highest commission for any single piece in WAR. A common and a $35k centerpiece, same artist, same release date. `[Hipsters of the Coast: Nicol Bolas sale, 2019]`
+- **WAR's only two black lifelink commons** — Banehound (1/1 haste, {B}) and Charity Extractor (1/5, {3}{B}). Opposite design poles within the same keyword slot — one aggressive one-drop, one defensive wall. `[Scryfall: WAR black lifelink common search]`
+- **EDH commander placement** — Top shells: Sidar Jabari of Zhalfir (WUB Knight tribal with eminence — Charity Extractor's knight body feeds the hand-cycling without needing to attack profitably) and Karlov of the Ghost Council (lifelink trigger every combat fuels Karlov's +1/+1 counter engine). `[EDHREC card page]`
+- **WAR Limited evaluation** — The format was heavily shaped by planeswalker density: creatures needed evasion to threaten planeswalkers. A 1/5 with no evasion cannot attack planeswalkers usefully — widely considered underdraftable. `[Hipsters: WAR Common Review; MTG Arena Zone WAR Limited Guide]`

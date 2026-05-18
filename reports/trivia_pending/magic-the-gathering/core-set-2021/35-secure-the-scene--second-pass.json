@@ -1,0 +1,62 @@
+{
+  "card_name": "Secure the Scene",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "35",
+  "task_profile": "general",
+  "pass": "second",
+  "pass_date": "2026-05-18",
+  "bundle_context": "Discrete Lair 001 — Tithe",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged on this card.",
+  "research_angles_requested": [
+    "M21 original design vs. Ravnica-Azorius reprint shoutout",
+    "Judith flavor-speaker as cross-guild design choice",
+    "Luminous blue beam/chain as Azorius visual motif",
+    "The soldier's row of cylinders at the waist",
+    "Zoltan Boros artist deep-dive (Hipsters, solo career)",
+    "M21 reprint history"
+  ],
+  "research_angles_resolved": {
+    "M21_original_vs_reprint": "RESOLVED — Scryfall confirms reprint: false, total_cards: 1. M21 is the sole printing. No Ravnica predecessor card. Azorius flavor is tonal, not a port.",
+    "Judith_cross_guild_speaker": "RESOLVED with qualifier — Judith appears on ~15 cards; nearly all are Rakdos color-identity (R, B, or BR). Secure the Scene (mono-W) appears to be the sole outlier. Qualifier: could not run direct ft:Judith+color:W Scryfall query to exhaustively verify.",
+    "Azorius_visual_motif": "RESOLVED — Plane Shift: Ravnica (WotC 2018) canonically describes Azorius magic as 'blue or golden runes floating and glowing in the air in circular patterns or shimmering azure barriers.' Direct confirmation of the art's visual language.",
+    "cylinders_at_waist": "UNRESOLVED — No Wizards source identifies these specifically. Possibly scroll cases or enforcement-token containers per general Azorius bureaucratic-guard design tropes. Not citeable; omitted per anti-confab rules.",
+    "Zoltan_Boros_artist": "PARTIAL — Confirmed solo career facts: born 1965 Hungary, Boros-Szikszai duo 1986–2010, relocated to New York 2010, 248 solo MTG credits (Gatherer). Hipsters of the Coast has no indexed article on Boros. No artist statement on this specific card found.",
+    "reprint_history": "RESOLVED — No reprints. One printing only (M21, 2020-07-03)."
+  },
+  "trivia_bullets_added": [
+    {
+      "category": "design",
+      "text": "Sole printing — no reprint history. Scryfall's prints index returns exactly one result for this oracle ID: M21 no. 35, released 2020-07-03. The card has never been reprinted in a Commander precon, Masters set, or Ravnica supplemental product. Its Azorius flavor is tonal borrowing from Ravnica, not a port of any prior Ravnica card — Scryfall confirms reprint: false.",
+      "sources": ["Scryfall API: oracle search d6a9746c-eba5-4735-aec1-e70edba2c686"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Judith as color-anomalous flavor speaker. Among the approximately 15 cards where Judith is flavor-text speaker, nearly all carry red, black, or BR color identity. Secure the Scene (mono-W) appears to be the only card in Judith's flavor-text corpus outside Rakdos color space. The joke works precisely because she is the furthest possible guild-voice from the Azorius.",
+      "sources": ["Scryfall: ft:Judith card list (via WebSearch)"],
+      "qualifier": "Treat as 'appears to be' — full ft:Judith color-filter query was not directly executable in this session."
+    },
+    {
+      "category": "set-lore",
+      "text": "Azorius magic visual canon. Per Plane Shift: Ravnica (WotC 2018 official D&D 5e supplement), Azorius magic 'often takes the form of blue or golden runes floating and glowing in the air in circular patterns or of shimmering azure barriers of magical energy.' The binding-chain motif on this card matches the official Azorius enforcement-spell visual canon.",
+      "sources": ["Plane Shift: Ravnica, WotC 2018 — secondary via Obsidian Portal / Astral Reach Wiki"]
+    },
+    {
+      "category": "design",
+      "text": "Boros solo-career context. Zoltan Boros (b. 1965, Hungary) worked as the Boros half of Boros-Szikszai from 1986 to 2010. After the partnership dissolved, he continued solo — relocating to New York State. Secure the Scene (2020) is a decade-into-solo-career commission. Both artists continue to co-sign MTG cards at conventions.",
+      "sources": ["boros-szikszai.com artist page", "DV Media Co. interview (Medium)", "Scent of a Gamer, 2016"]
+    }
+  ],
+  "angles_not_resolved": [
+    "Cylinders at the waist — no canonical source found; omitted per anti-confab rules",
+    "Hipsters of the Coast Zoltan Boros article — no indexed result; confirmed absence",
+    "Designer commentary on Secure the Scene specifically — MaRo's two M21 articles (Need I Say Core?, But Wait There's Core) do not mention this card"
+  ],
+  "related_cards": [],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

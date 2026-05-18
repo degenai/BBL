@@ -1,0 +1,88 @@
+{
+  "card_name": "Mortify",
+  "game": "Magic: The Gathering",
+  "set": "Ravnica Allegiance",
+  "collector_number": "192",
+  "pass": "second",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No IP flag on this card. Second-pass brief explicitly excluded IP work.",
+  "research_focus": [
+    "Anthony Palumbo RNA art commentary",
+    "Orzhov euthanist guild-role design lineage",
+    "Named euthanists in story canon",
+    "Secret Lair drop identification (artist + drop name)",
+    "LotR / Final Fantasy crossover flavor texts",
+    "In-canon explanation for bureaucratic-erasure visual",
+    "Flavor text lineage across all 29 printings"
+  ],
+  "findings_summary": {
+    "palumbo_commentary": "No Mortify-specific Palumbo interview found. Hipsters of the Coast 2015 interview covers his background (first card: Cultivate 2009, brother David introduced him to art director Jeremy Jarvis). Dragon Shield 2022 interview exists but does not discuss RNA. No RNA-era art-direction commentary located for this card specifically.",
+    "hilgur_in_story_canon": "Hilgur is unattested in Wizards story articles and MTG Wiki. The name appears only in Mortify's RNA flavor text. Confirmed not a named story character via exhaustive WebSearch.",
+    "euthanist_design_lineage": "Orzhov Euthanist creature (GPT 54, 2006) established the job class. Guildmaster's Guide to Ravnica (2018 D&D sourcebook) formally defines 'euthanist' as an Orzhov guild enforcer role — 'an assassin euphemistically called a euthanist who brings speedy ends to lives deemed to have gone on too long.' The Hilgur attribution on RNA (2019) reuses the same vocabulary 13 years later, consistent across two separate design teams.",
+    "secret_lair_drop": "SLD 1801 is 'Astarion's Thirst,' part of the D&D 50th Anniversary Superdrop (August 27, 2024). Five-card vampire suite: Astarion the Decadent, Exquisite Blood, Sanguine Bond, Anguished Unmaking, Mortify. Artist: Bartek Fedyczak. Inverted frame. Flavor text: 'Can you feel death's cold grip?' (no speaker attributed). Pricing: $29.99 nonfoil / $39.99 foil.",
+    "crossover_flavor_texts": {
+      "40K Commander (225)": "Billy Christian. 'This sword has many names. You may call it Death.' — Kaldor Draigo, Supreme Grand Master of the Grey Knights.",
+      "LotR Commander (LTC 269)": "Ilker Yildiz. 'Soon the rabbits were cut up and lying simmering in their pans with the bunched herbs.' — From Tolkien's The Two Towers, Book IV, Chapter 4: 'Of Herbs and Stewed Rabbit.'",
+      "Assassin's Creed (ACR 96/243)": "Wangjie Li. 'You held fire in your hand, old man. It should have been destroyed.' — Altair Ibn-La-Ahad.",
+      "Final Fantasy Commander (FIC 327)": "Thanh Tuan. 'Espers... Who'd have dreamed they were that powerful...' — Imperial soldier. Surgefoil only. In Revival Trance (FFVI) Commander deck.",
+      "Secret Lair Astarion's Thirst (SLD 1801)": "Bartek Fedyczak. 'Can you feel death's cold grip?' No speaker."
+    },
+    "flavor_text_lineage": {
+      "GPT (Glen Angus, 2006)": "The eyes let flow with tears, then blood, then the very soul—the whole wrung inside out, dripping down into the blackened puddle of the past.",
+      "Nils Hamm era (DDK through C18, 2013-2018)": "Many who cross Sorin's path come down with a sudden and fatal case of being-in-the-way-of-a-millennia-old-vampire.",
+      "Anthony Palumbo era (RNA, ONC, DMC, MOC, 2019-2023)": "Your debt is erased. —Hilgur, Orzhov euthanist",
+      "Foundations Starter Collection (FDN 662, Nils Hamm, 2024)": "The queen sent her champion to defeat the necromancer threat. His helmet was returned the next day, warped and stained with blood.",
+      "Store Championship promo (SCH 21, Andreia Ugrai, 2023)": "No flavor text."
+    },
+    "sixth_artwork": "Store Championships promo (SCH 21) by Andreia Ugrai — inverted borderless frame, no flavor text, 2023 competitive event promo. This is a distinct sixth artwork not counted in the original pass's artist notes."
+  },
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Across its 29 printings, Mortify has carried at least five distinct flavor texts: the visceral GPT original (Glen Angus, 2006); the comic Sorin-era Nils Hamm text (Duel Decks through Commander 2018); the Hilgur euthanist text (Anthony Palumbo, RNA 2019 onward); the Foundations Starter Collection text (Nils Hamm, 2024, generic high-fantasy framing); and no flavor text on the Store Championship promo (Andreia Ugrai, 2023). Each era's reprint comes with a different narrative frame.",
+      "sources": ["Scryfall: gpt/122", "Scryfall: ddk/25", "Scryfall: rna/192", "Scryfall: fdn/662", "Scryfall: sch/21"]
+    },
+    {
+      "category": "design",
+      "text": "Each Universes Beyond Commander printing replaces Ravnica flavor with a franchise-native quote: Kaldor Draigo (40K), a Sam Gamgee rabbit-stew moment from The Two Towers Book IV ch. 4 (LotR), Altair Ibn-La-Ahad on destruction (Assassin's Creed), and an anonymous Imperial soldier reacting to Espers in FFVI (Final Fantasy). The LotR quote is notable for its domesticity — a cooking passage repurposed as a destruction-spell caption.",
+      "sources": ["Scryfall: 40k/225", "Scryfall: ltc/269", "Scryfall: acr/96", "Scryfall: fic/327", "Tolkien Gateway: Of Herbs and Stewed Rabbit"]
+    },
+    {
+      "category": "design",
+      "text": "Secret Lair Drop SLD 1801 (Bartek Fedyczak, inverted borderless frame) is from the 'Astarion's Thirst' drop in the D&D 50th Anniversary Superdrop (August 27, 2024). Five-card vampire suite anchored to Astarion from Baldur's Gate 3. The drop contains a functional infinite combo: Exquisite Blood + Sanguine Bond. Mortify slots in as the suite's removal piece.",
+      "sources": ["Scryfall: sld/1801", "Commander's Herald: Astarion's Thirst Secret Lair Revealed"]
+    },
+    {
+      "category": "design",
+      "text": "A sixth distinct artwork exists beyond the first pass's five-artist count: Andreia Ugrai's Store Championships promo (SCH 21, 2023), an inverted borderless frame with no flavor text — the only no-flavor-text Mortify since the 2007 Magic Player Rewards promo (Brian Snoddy).",
+      "sources": ["Scryfall: sch/21", "Scryfall: p07/3"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Guildmaster's Guide to Ravnica (2018 WotC/D&D crossover sourcebook) formally defines 'euthanist' as a named Orzhov guild enforcer role — 'an assassin euphemistically called a euthanist who brings speedy ends to lives deemed to have gone on too long' — situated within the enforcer career track. The Orzhov Euthanist creature card (GPT 54, 2006) established the job class; Hilgur's attribution on RNA (2019) reuses the vocabulary 13 years later, consistent across two separate design teams.",
+      "sources": ["Guildmaster's Guide to Ravnica via MTGSalvation worldbuilding thread", "Scryfall: gpt/54", "Scryfall: rna/192"]
+    },
+    {
+      "category": "design",
+      "text": "No Mortify-specific Anthony Palumbo commentary was located in any searchable interview archive (Hipsters of the Coast 2015, Dragon Shield 2022, BigAR 2018, YouTube/Illuxcon 2017). The Hipsters 2015 interview covers his origin story (first card: Cultivate, 2009; introduced to art director Jeremy Jarvis by his brother David Palumbo at San Diego Comic-Con) but predates the RNA commission. No RNA-era art-direction commentary for this specific card is in the public record as of this research pass.",
+      "sources": ["Hipsters of the Coast: Arting Around — Interview with Magic Artist Anthony Palumbo (2015)"]
+    }
+  ],
+  "related_cards_new": [
+    {"name": "Mortify (Store Championships SCH 21)", "set": "Store Championships", "note": "Andreia Ugrai art, sixth distinct illustration, borderless inverted frame, no flavor text"},
+    {"name": "Mortify (Secret Lair SLD 1801)", "set": "Secret Lair Drop", "note": "Bartek Fedyczak, Astarion's Thirst D&D 50th Anniversary drop, 2024"},
+    {"name": "Mortify (Warhammer 40K Commander 40K 225)", "set": "Warhammer 40,000 Commander", "note": "Billy Christian, Kaldor Draigo quote; surgefoil variant"},
+    {"name": "Mortify (LotR Commander LTC 269)", "set": "Tales of Middle-earth Commander", "note": "Ilker Yildiz, Sam Gamgee rabbit-stew quote from The Two Towers"},
+    {"name": "Mortify (Final Fantasy Commander FIC 327)", "set": "Final Fantasy Commander", "note": "Thanh Tuan, FFVI Imperial soldier / Espers quote, surgefoil only"},
+    {"name": "Mortify (Foundations FDN 662)", "set": "Foundations", "note": "Nils Hamm, fourth distinct flavor text, Starter Collection product only"},
+    {"name": "Exquisite Blood", "set": "multiple", "note": "Shares Astarion's Thirst Secret Lair with Mortify; one half of the drop's infinite drain combo"},
+    {"name": "Sanguine Bond", "set": "multiple", "note": "Second half of Exquisite Blood infinite; both in Astarion's Thirst drop"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "palumbo_commentary_note": "FLAG FOR ARTISTS LAYER: No Palumbo-specific Mortify commentary found. The 2015 Hipsters interview (https://www.hipstersofthecoast.com/2015/06/arting-around-interview-with-magic-artist-anthony-palumbo/) covers his general origin story. If a cards/_artists/anthony-palumbo.md node is ever created, the Hipsters interview is the primary cite. No artist statement specific to Mortify or RNA exists in the public record."
+}

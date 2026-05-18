@@ -1,0 +1,41 @@
+{
+  "card_name": "Martial Daughter Chi-Chi",
+  "game": "Dragon Ball Super",
+  "set": "World Martial Arts Tournament",
+  "collector_number": "TB2-038",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly includes 'Chi-Chi'; card type line on the DBS card game's official site lists character as Chi-Chi (Earthling/World Tournament). The depicted figure's blue armor-helmet outfit, fire-kick technique, and tournament setting all match Chi-Chi's canonical 23rd World Martial Arts Tournament appearance. Wizards-internal analogy: this is a licensed Bandai IP product — Chi-Chi is a Toei Animation / Akira Toriyama IP character. No external crossover risk beyond that Bandai licenses it.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "DBS-TB02 'World Martial Arts Tournament' is a Themed Booster released by Bandai in late 2018 (US release approximately September–October 2018), themed around the tournament saga of the Dragon Ball franchise. The set covers multiple eras of the tournament — the original Dragon Ball 23rd Tenka'ichi Budōkai through Dragon Ball Super — and includes fighters across generations. [dbs-cardgame.com/us-en/product/dbs-tb02.php, via WebSearch snippet]",
+      "sources": ["dbs-cardgame.com official product page, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Chi-Chi is the daughter of the Ox-King and first appeared as a competitor at the 23rd World Martial Arts Tournament (Tenka'ichi Budōkai) in the original Dragon Ball manga/anime, where she fought Goku — who had promised to marry her — while keeping her identity concealed under a helmet. She is considered the strongest human woman in the Dragon Ball universe at the time of that tournament. [Wikipedia: Chi-Chi (Dragon Ball), via WebSearch snippet]",
+      "sources": ["Wikipedia: Chi-Chi (Dragon Ball), via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "The card is a Green Battle card with Power 12000 and Energy Cost 2[GG], typed Earthling/World Tournament. Its Auto ability (Super Combo skill) triggers when used as a combo card if your Leader Card is 'World Tournament' and you have 5 or less life, drawing 1 card and gaining +10000 combo power for the turn — mechanically reinforcing Chi-Chi's role as a desperate counter-fighter rather than a frontline attacker. [dbscardwiki.com / dbs-cardgame.com card list, via WebSearch snippet]",
+      "sources": ["dbscardwiki.com and dbs-cardgame.com card list, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a [Super Combo] card, TB2-038 is subject to a 4-copy deck limit on Super Combo cards — a DBS card game universal restriction. Super Combo cards are prized for their defensive utility and their inclusion in a deck is a deliberate deckbuilding concession, making this Chi-Chi a support piece in World Tournament Leader builds rather than a standalone threat. [dbs-cardgame.com card list, via WebSearch snippet]",
+      "sources": ["dbs-cardgame.com card list, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fateful Reunion Chi-Chi", "set": "World Martial Arts Tournament (TB02)", "note": "Alternate Chi-Chi print in the same themed booster, different art and ability"},
+    {"name": "Ox-King", "set": "Various DBS sets", "note": "Chi-Chi's father; Earthling/World Tournament faction anchor"},
+    {"name": "Son Goku (World Tournament era)", "set": "Various DBS sets", "note": "Chi-Chi's husband; opposed her in the 23rd Budōkai — narrative pair"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Chi-Chi (Dragon Ball)",
+    "ip_confidence": "high"
+  }
+}

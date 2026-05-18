@@ -82,3 +82,31 @@ A spectral figure with a skull-like head sits or crouches at a stone surface in 
 ## Connections
 
 - [[orzhov-syndicate]] — debt-bound spirit holding the syndicate's ledger (unfurled scroll, scepter, robes). The card carries Afterlife (the Orzhov guild's signature `Ravnica Allegiance` mechanical keyword — produces a 1/1 white-and-black Spirit token on death) and Bestow, encoding the institutional thesis that death does not discharge debt: the indebted spirit keeps working, and on death it spawns another spirit to take over the ledger. `[MTG Wiki: Orzhov Syndicate — afterlife keyword and debt-past-death institutional thesis]`
+
+## Trivia
+
+- **Set context** — Modern Horizons 3 (released 2024-06-14) is a 528-card "draft innovation" set — Wizards' term for sets designed to inject Modern-legal cards directly into the format without passing through Standard. The set reprinted or newly combined over 70 keyword abilities, making it a mechanical showcase set; Bestow returning alongside Afterlife in the same card is a direct product of that kitchen-sink philosophy. `[Scryfall: set_type "draft_innovation"; MTGNexus card entry: "031/528"]`
+
+- **Mechanic design history** — Bestow debuted in Theros (September 2013) and was one of only a handful of appearances in the eleven years before MH3 (a small showing in Commander 2018 aside). When a fan told Mark Rosewater he loved seeing Bestow return in MH3, Rosewater responded: "Bestow is my favorite mechanic from OG Theros." He has placed Bestow at a 6-7 on the Storm Scale, citing the infrastructure it requires as the ceiling on its return frequency. `[Blogatog: markrosewater.tumblr.com/post/752578620798730240, 2024]`
+
+- **Afterlife origin** — Afterlife debuted as the Orzhov guild mechanic in Ravnica Allegiance (January 2019). Wizards' official mechanics article framed it explicitly around the Syndicate's debt-extends-beyond-death philosophy: "Just because someone's mortal form has diminished into disuse, the spirit within may be free to serve." Indebted Spirit is the first card to carry both Afterlife and Bestow simultaneously, making it a rare inter-block mechanical hybrid. `[Wizards official article: "Ravnica Allegiance Mechanics", magic.wizards.com, 2019]`
+
+- **Limited role** — In MH3 draft, the white-black Orzhov archetype is built around the "modified" theme, using bestow creatures (among other auras, equipment, and counters) as modification enablers to feed sacrifice and recursion payoffs. Draftsim's MH3 Limited Set Review called out Indebted Spirit by name: "Bestowing Indebted Spirit looks absolutely silly. For 3 mana, you get a +1/+1 aura, a 1/1 creature and two 1/1 fliers thanks to afterlife." The card's EDHREC rank of 7,972 confirms it is a limited-role uncommon rather than a Commander staple. `[Draftsim: "The Ultimate Modern Horizons 3 Limited Set Review"; Scryfall: edhrec_rank 7972]`
+
+- **Artist** — L.A. Draws (portfolio: therealola.artstation.com) is a freelance illustrator with a growing MTG card count. Confirmed MH3 and adjacent credits include Blood Artist (Innistrad Remastered), Whirling Quicksand, Demonic Contract, Hate Mirage, The Phasing of Zhalfir, and Telling Time, among others. No Hipsters of the Coast profile or artist-statement interview was found in research as of 2026-05. `[ArtStation: therealola.artstation.com, via WebSearch snippet; artofmtg.com artist page]`
+
+### Related cards
+- Eidolon of Countless Battles (Born of the Gods, no. 6) — Bestow creature, same mechanic, scales off creature count; canonical Theros-era comparator for Bestow design space
+- Mausoleum Wanderer (Eldritch Moon, no. 66) — 1-mana white Spirit with evasion and disruption; closest Modern-playable Spirit creature in the same role slot
+- Spirit of the Labyrinth (Born of the Gods, no. 23) — white Spirit used in Modern Spirit-adjacent hate strategies; frequently discussed alongside WB Spirit token builds
+- Doomed Traveler (Innistrad, no. 9) — 1-mana white creature that creates a 1/1 Spirit token on death; Afterlife 1's direct mechanical ancestor and the canonical token-on-death white staple it builds on
+- Kaya's Guile (Guilds of Ravnica, no. 83) — Orzhov-colored instant that generates flying Spirit tokens; core piece in WB Afterlife Modern lists alongside Afterlife creatures
+
+## Trivia (second pass)
+
+- **MH3 as draft-innovation set** — 528 cards, released June 14 2024. Bypasses Standard; injects directly into Modern. Combines over 70 keyword abilities. Bestow returning alongside Afterlife on the same card is a direct product of the mechanic-showcase philosophy. `[Scryfall set metadata]`
+- **Bestow + Rosewater's favorite mechanic confession** — Bestow debuted in Theros (September 2013), with only rare reappearances (Commander 2018) in 11 years before MH3. When a fan noted its return, Rosewater responded on Blogatog: *"Bestow is my favorite mechanic from OG Theros."* Storm Scale 6-7. `[Blogatog post 752578620798730240, 2024]`
+- **Afterlife mechanic framing (Wizards official)** — Debuted as the Orzhov guild mechanic in Ravnica Allegiance (January 2019). The official mechanics article: *"Just because someone's mortal form has diminished into disuse, the spirit within may be free to serve."* `[Wizards: Ravnica Allegiance Mechanics, 2019]`
+- **THE FIRST CARD ever to carry both Bestow AND Afterlife** — `[Cross-reference: Scryfall search for both keywords on one card returns exactly Indebted Spirit]`
+- **Draftsim called it out** — *"Bestowing Indebted Spirit looks absolutely silly. For 3 mana, you get a +1/+1 aura, a 1/1 creature and two 1/1 fliers thanks to afterlife."* EDHREC rank 7,972 confirms it as a draft-role uncommon rather than a Commander staple. `[Draftsim: MH3 Limited Set Review]`
+- **Artist L.A. Draws** — therealola.artstation.com. Confirmed credits: Blood Artist (Innistrad Remastered), Whirling Quicksand, Demonic Contract, Hate Mirage, The Phasing of Zhalfir, Telling Time. No Hipsters of the Coast profile found as of 2026-05. `[ArtStation; artofmtg.com]`

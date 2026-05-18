@@ -1,0 +1,90 @@
+{
+  "card_name": "Eye Collector",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "86",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "[Pass 1] Eye Collector is a common from Throne of Eldraine (ELD), released 2019-10-04. Top-down design: Arthurian courts + Grimm's Wilds. Faeries are the primary Wilds faction, positioned as the antagonistic force the courts contend with.",
+      "sources": ["Scryfall", "magic.wizards.com: Throne of Eldraine Vision Design Handoff Part 2, 2019-11-18"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "[Pass 1] Flavor text names Rankle, Master of Pranks (ELD no. 101, Mythic Rare) as master. Planeswalker's Guide describes 'prankster fae' as child-sized, gray skin, yellow eyes — Eye Collector's art matches the prankster-fae archetype exactly.",
+      "sources": ["Scryfall flavor_text", "magic.wizards.com: Planeswalker's Guide to Eldraine, 2019-10-31"]
+    },
+    {
+      "category": "design",
+      "text": "[Pass 1] Eye Collector uses pre-keyword longhand for mill ('Each player puts the top card of their library into their graveyard'). 'Mill' was codified as an official keyword action in Core Set 2021 (July 2020), nine months after ELD. The card predates the term it enacts.",
+      "sources": ["magic.wizards.com: Core Set 2021 and Jumpstart Release Notes, 2020-06-20", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "[Pass 1] EDHREC: ~10,700 decks, 0.24% inclusion, rank 9,967. Top homes: Tinybones the Pickpocket (42%), Gix Yawgmoth Praetor (23%), Syr Konrad the Grim (18%) — commanders that exploit symmetric mill or opponent graveyard triggers.",
+      "sources": ["EDHREC: edhrec.com/cards/eye-collector", "Scryfall: edhrec_rank"]
+    },
+    {
+      "category": "sentiment",
+      "text": "[Pass 1] Hipsters of the Coast (ELD Commons of Note, September 2019): compared favorably to Mist Intruder from BFZ — 'a good card and serious archetype enabler in a bad draft format. For one less mana, you get probably the same thing.'",
+      "sources": ["hipstersofthecoast.com/2019/09/throne-of-eldraine-commons-of-note/"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "[Pass 2] Flavor text verbatim: 'Lord Rankle will see you now—all he asks is a small token of tribute.' Eye Collector is explicitly one of Rankle's delivery agents. The tribute framing is the card's sole narrative function.",
+      "sources": ["Scryfall API: 2b9bb2f3-a7c7-4e8f-ba39-44e6acd9240b"]
+    },
+    {
+      "category": "design",
+      "text": "[Pass 2] In the ELD vision design handoff (November 2019), MaRo describes the prankster-fae archetype as both a 'Deal-Making Imp — a nod to Rumpelstiltskin' and the plane's Puck figure from A Midsummer Night's Dream. Rankle synthesizes both archetypes. Eye Collector's tribute mechanic sits squarely in the Rumpelstiltskin extraction vein.",
+      "sources": ["Wizards.com: Throne of Eldraine Vision Design Handoff Part 2, Nov 2019 (magic.wizards.com/en/news/making-magic/throne-eldraine-vision-design-handoff-part-2-2019-11-18)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "[Pass 2] Rankle does not appear as a creature card in Wilds of Eldraine (September 2023); his WOE presence is the spell Rankle's Prank (WOE no. 102, flavor: 'The louder they scream, the harder he laughs.'). His creature-card return came in March of the Machine (April 2023) as Rankle and Torbran (MOM no. 252). The Wizards story 'The Adventures of Rankle, Master of Love' covers this arc. No mention of eye-collectors or named servants in that story.",
+      "sources": [
+        "Scryfall: Rankle's Prank WOE no. 102",
+        "Scryfall: Rankle and Torbran MOM no. 252",
+        "Wizards.com: The Adventures of Rankle, Master of Love (magic.wizards.com/en/news/magic-story/the-adventures-of-rankle-master-of-love)"
+      ]
+    },
+    {
+      "category": "mechanical",
+      "text": "[Pass 2] Eye Collector is legal in both Pauper and Pauper Commander. One-mana 1/1 flyer with on-hit mill fits Pauper UB Faeries shells and PDH mill lists. EDHREC rank 9,967 confirms narrow role-player status.",
+      "sources": ["Scryfall API legalities", "EDHREC rank via Scryfall API"]
+    },
+    {
+      "category": "design",
+      "text": "[Pass 2] Eye Collector received its first reprint in Foundations Jumpstart (J25, 2025), card no. 439 — six years after ELD. Rankle, Master of Pranks has been reprinted in Commander Masters, OTC, and as Arena Alchemy variant. EDHREC lists over 1,000 Commander decks with Rankle as general (ranked no. 1,294), driving mythic reprint demand while the common courier went unreprinted for six years.",
+      "sources": [
+        "Scryfall: J25 no. 439",
+        "Scryfall: Rankle prints list",
+        "EDHREC via Scryfall API edhrec_rank"
+      ]
+    },
+    {
+      "category": "design",
+      "text": "[Pass 2] Uriah Voth is credited with 67 cards in Gatherer as of 2026. ELD credits: Eye Collector and Bramblefort Fink (ELD no. 311). No Hipsters artist profile for Voth found.",
+      "sources": ["Gatherer: Uriah Voth artist search", "Scryfall: a:Uriah Voth set:eld"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rankle, Master of Pranks", "set": "Throne of Eldraine", "note": "The lord named in Eye Collector's flavor text; mythic-rare anchor; EDHREC rank 1,294 as commander"},
+    {"name": "Rankle's Prank", "set": "Wilds of Eldraine", "note": "2023 sorcery bearing Rankle's name; his WOE-era presence as a spell rather than a creature"},
+    {"name": "Rankle and Torbran", "set": "March of the Machine", "note": "Rankle's creature-card return in 2023; paired with Torbran the dwarf thane after MOM story arc"},
+    {"name": "Bramblefort Fink", "set": "Throne of Eldraine", "note": "The other Uriah Voth card in ELD; same artist, same set"},
+    {"name": "Tome Raider", "set": "Throne of Eldraine", "note": "[Pass 1] Fellow ELD faerie common; discussed alongside Eye Collector in Hipsters ELD commons piece"},
+    {"name": "Syr Konrad, the Grim", "set": "Throne of Eldraine", "note": "[Pass 1] Top EDHREC commander home (18% of Konrad decks); mill-and-damage trigger pairs with Eye Collector"},
+    {"name": "Tinybones, the Pickpocket", "set": "Wilds of Eldraine Commander", "note": "[Pass 1] Highest EDHREC concentration (42%); thieving flavor echoes Eye Collector's servant role"},
+    {"name": "Mist Intruder", "set": "Battle for Zendikar", "note": "[Pass 1] Hipsters 2019 comparison baseline: cheap evasive enabler in a parasitic limited mechanic"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "research_notes": "Pass 1 bullets preserved in JSON with [Pass 1] tag; MD trivia section reflects Pass 2 angles per brief (Rankle WOE/MOM lore, Uriah Voth artist, Rankle price arc, eye-collection design genealogy, reprint history). Bash and WebFetch permission-gated in Pass 2 invocation. Scryfall API data obtained via first successful curl before gate. Peak ELD price for Rankle not confirmed with a citable price-history chart — omitted per anti-confab rules. Hipsters of the Coast returned no results for Uriah Voth. MaRo Rumpelstiltskin+Puck dual sourcing confirmed via WebSearch snippet citing Wizards Vision Design Handoff Part 2 directly."
+}

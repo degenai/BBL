@@ -1,0 +1,74 @@
+{
+  "card_name": "Malevolent Noble",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "95",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag set; no IP verification performed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Throne of Eldraine (ELD, 2019-10-04) is framed as 'Camelot meets Grimms' Fairy Tales.' Rosewater described a 10-year wait to design a Grimm's world; the design team deliberately leaned into the darker Brothers Grimm source material. The set's black cards sit in the Grimm shadow rather than the Arthurian light.",
+      "sources": [
+        "Wizards Making Magic: Throne of Eldraine Vision Design Handoff Part 2 (2019-11-18)",
+        "CBR interview with Mark Rosewater (2019)"
+      ]
+    },
+    {
+      "category": "design",
+      "text": "Noble subtype: first appeared on Faerie Noble (Homelands, 1995), stripped in the Grand Creature Type Update, reintroduced in Throne of Eldraine. Many royalty cards retroactively gained the type at that time.",
+      "sources": ["MTG Wiki: Noble (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"He has slain a dozen witches, luring each with a promise of fresh children's bones.\" Speaker unnamed. The noble uses the witches' own appetites as bait — inverting the fairy-tale witch-as-predator convention. The noble IS the predator.",
+      "sources": ["Scryfall: flavor_text field", "Wizards Odds & Ends: Throne of Eldraine (2019-10-21)"]
+    },
+    {
+      "category": "design",
+      "text": "Randy Vargas: Cuban sci-fi/fantasy illustrator; MTG debut Hour of Devastation (2017). Marit Lage's Slumber original (Modern Horizons, oil on hardboard) sold $4,400 at auction June 2019. Secret Lair Artist Series drop April 2023.",
+      "sources": [
+        "Hipsters of the Coast: Marit Lage's Slumber by Randy Vargas Sells for $4,400 (2019-06-09)",
+        "Wizards Secret Lair: Artist Series Randy Vargas (2023)"
+      ]
+    },
+    {
+      "category": "mechanical",
+      "text": "2/2 common for {1}{B}; sacrifice outlet at {2} plus a creature or artifact for a +1/+1 counter. Legal in Pauper, Pauper Commander, Pioneer, Modern, Legacy, Vintage, Commander. EDHREC rank 25,845 — niche role-player, not a Pauper staple.",
+      "sources": [
+        "Scryfall: legalities, edhrec_rank",
+        "mtgdecks.net: Best Pauper Aristocrats staples (February 2026)"
+      ]
+    }
+  ],
+  "second_pass_new_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The specific fairy-tale source is Bluebeard (Perrault, 1697) — but with a double inversion. Bluebeard's structural move is the wealthy nobleman who lures victims into trusting him before killing them. Malevolent Noble applies that structure to witches, using the witches' own predatory appetite for children's bones as the lure. TV Tropes classifies this as an 'Adaptational Heroism' variant under The Bluebeard trope, noting the card's serial-killer noble 'specifically preys on Wicked Witches lured with the promise of children to devour' — making it an evil-vs-evil dynamic characteristic of Eldraine's fractured fairy-tale register.",
+      "sources": ["TV Tropes: The Bluebeard (via WebSearch snippet)", "Scryfall: flavor_text"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The bait works because Eldraine's official lore establishes witches as genuinely predatory toward children. The Wizards Planeswalker's Guide to Eldraine (2019-10-31) describes witches as 'shadowy human warlocks that reside in the wilds, so disconnected from the rest of humanity that most consider them to be fair folk' who 'take great joy in their evil deeds' and are known for stealing children and poisoning towns. The Noble's promise of 'fresh children's bones' is credible precisely because Wizards canon made the witches' child-appetite explicit.",
+      "sources": ["Wizards.com: Planeswalker's Guide to Eldraine (2019-10-31)"]
+    },
+    {
+      "category": "design",
+      "text": "Mark Rosewater's exact quote on adding Noble in ELD: 'The game just has a lot of people whose job it is to rule over others, and it felt weird not to have a class that covered that. Throne of Eldraine was full of kings and queens, princes and princesses, so it seemed like the right time to finally add Noble.' [Wizards.com: More Odds & Ends: Throne of Eldraine, Rosewater, 2019-10-21]",
+      "sources": ["Wizards.com: More Odds & Ends: Throne of Eldraine (Mark Rosewater, 2019-10-21)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Witch's Oven", "set": "Throne of Eldraine", "note": "Sacrifice-an-artifact engine; ELD's defining common sacrifice combo with Cauldron Familiar; flavor-space counterpart"},
+    {"name": "Cauldron Familiar", "set": "Throne of Eldraine", "note": "The witch's cat; where Malevolent Noble hunts witches, the Familiar belongs to one; both black commons in ELD"},
+    {"name": "Falkenrath Noble", "set": "Innistrad", "note": "Earlier iconic black vampire Noble in a sacrifice-payoff role; PDH aristocrats comparison point"},
+    {"name": "Faerie Noble", "set": "Homelands", "note": "Original 1995 card that introduced the Noble subtype, stripped in GCTU, reintroduced by ELD"},
+    {"name": "Marit Lage's Slumber", "set": "Modern Horizons", "note": "Randy Vargas's most-noted traditional-painting MTG work; same artist and year as Malevolent Noble"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

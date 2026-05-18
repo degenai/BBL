@@ -88,3 +88,11 @@ A large, abstract mechanical object dominates a vertical composition. The object
 ## Connections
 
 - [[phyrexia]] — Phyrexian mass-production apparatus rendered as a mana-rock: the polished gold device, suspended in the purple-magenta-crimson Phyrexian void, generates energy counters on attack and converts three energy into a 3/3 colorless Phyrexian Golem token. Flavor speaker is Slobad the Mirran goblin engineer (deferred sub-node per phyrexia.md caveat) admiring the device without recognizing its faction origin — the signature designer dark-irony of the Mirrodin-corruption arc. `[Scryfall: card oracle text]` `[MTG Wiki: Slobad and the Mirrodin-corruption storyline]`
+
+## Trivia (second pass)
+
+- **Slobad's full body-horror arc** — Memnarch amputated his limbs and wired him into the spark-transfer machine for FIVE YEARS; Slobad was the involuntary architect of the device meant to strip Mirrodin's inhabitants of their sparks. When fired, the spark transferred to him; he sacrificed it to resurrect all who had died. Later killed by panicked goblins, body sank into the plane's core, compleated by New Phyrexia, reshaped his Phyrexian form to resemble his late friend Bosh. `[MTG Wiki: Slobad]`
+- **Naming lineage** — "Phyrexian Ironworks" structurally echoes Krark-Clan Ironworks (Fifth Dawn, 2004) — the Mirrodin-block artifact named after the Krark Clan, one of Mirrodin's goblin clans (Slobad's people). The faction+Ironworks naming pattern reads as machine compleated. `[Scryfall: Krark-Clan Ironworks 5DN 134]`
+- **Artist Mathias Kollros** — Illustrated exactly two cards in MH3: Petrifying Meddler (Eldrazi) and Phyrexian Ironworks — one from each of the set's major artifact-creature factions. RTR 2012 debut; 173+ MTG cards. ArtStation handle: guterrez. `[Scryfall: artist query]`
+- **Commander niche** — Highest deck inclusion is energy commanders (Pia Nalaar, Chief Mechanic at 24%; Liberty Prime, Recharged at 17%), NOT Phyrexian tribal — energy-artifact crossover niche despite the faction name. `[EDHREC card page]`
+- **MH3 energy revival context** — MaRo's "Expanding Your Horizons: Energy" (June 2024) frames Energy as "a second-tier Modern deck that designers hoped to give a boost." The Phyrexian Oil counter sub-theme also connects to post-March of the Machine residue. `[Wizards of the Coast: Expanding Your Horizons]`

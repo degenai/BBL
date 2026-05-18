@@ -1,0 +1,43 @@
+{
+  "card_name": "Retreat to Emeria",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "44",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Battle for Zendikar (BFZ) released October 2, 2015 — the return to Zendikar after the original block (2009–2010), picking up after the Eldrazi titans Ulamog and Kozilek had been awakened. The set's central tension is the survivors' defense of their home plane against Eldrazi annihilation. [Scryfall: set BFZ, released_at 2015-10-02]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Emeria is the Merfolk goddess of sky, wind, and clouds on Zendikar — also known as Kamsa by the Kor, their goddess of the wind. Both identities trace back to corrupted memories of Emrakul, the greatest Eldrazi titan. The physical location 'Emeria, the Sky Ruin' is the Skyclave above Tazeem, believed by Merfolk to be the goddess's former dwelling; the archangel Iona was said to have descended from it to battle the Eldrazi. [MTG Wiki: Emeria, via WebSearch snippet (Archive Trap: The World of Zendikar Part I, MTGSalvation)]",
+      "sources": ["MTG Wiki: Emeria, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Retreat to Emeria is a Landfall enchantment offering two modal triggers: a 1/1 white Kor Ally token or a team-wide +1/+1 until end of turn. EDHREC rank 5,960 as of Scryfall data — mid-tier Commander inclusion, appearing most frequently in white-based Kor tribal and Landfall token builds. Legal in Pioneer, Modern, Legacy, Vintage, and Commander. [Scryfall: edhrec_rank 5960, legalities]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The card has been printed three times: Battle for Zendikar (BFZ, 2015), The List (PLST, 2019), and Zendikar Rising Commander (ZNC, 2020) — the last inclusion signaling Wizards' assessment of its Commander viability in Zendikar Rising's Landfall-themed Commander precon era. Artist: Kieran Yanner. [Scryfall: prints search, all three printings]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Emeria, the Sky Ruin", "set": "Zendikar (ZEN)", "note": "The land card named for the same mythological location; recurring Plains-based reanimation engine"},
+    {"name": "Retreat to Kazandu", "set": "Battle for Zendikar (BFZ)", "note": "Sister enchantment in the Retreat cycle — Green Landfall that gains life or puts counters"},
+    {"name": "Retreat to Coralhelm", "set": "Battle for Zendikar (BFZ)", "note": "Sister enchantment — Blue Landfall untap or scry; famous as a two-card combo with Knight of the Reliquary"},
+    {"name": "Emeria Shepherd", "set": "Battle for Zendikar (BFZ)", "note": "White Landfall reanimation creature; shares the Emeria goddess iconography"},
+    {"name": "Iona, Shield of Emeria", "set": "Shards of Alara (ALA)", "note": "The archangel said to descend from Emeria; lore anchor for the Sky Ruin"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

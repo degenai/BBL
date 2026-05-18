@@ -90,3 +90,10 @@ A massive humanoid golem stands in a dim industrial space, its body welded toget
 - Goblin Golem (various) — older colorless golem in a similar power-level slot
 - Iron Myr (Scars of Mirrodin) — thematically adjacent iron construct with mana-production utility
 
+
+## Trivia (second pass)
+
+- **Reprinted in Double Masters (correction)** — Iron Bully was reprinted in 2XM (August 2020) as no. 262, same artist, same flavor text — first pass said "first and only printing"; that was wrong. `[Scryfall: 2XM 262]`
+- **Commander Grozdan is a real named character** — Boros minotaur, Ordruun bloodline, stationed at Kamen Fortress, assigned to suppress Rakdos activity under Aurelia's command per the Guildmasters' Guide to Ravnica (2018 WotC/D&D sourcebook). First pass called him a "minor NPC" — wrong. The sourcebook predates WAR; Grozdan was canon when WAR was written. The flavor line's comedic register is consistent with Boros doctrine-over-deliberation ethos. `[Ravnica Campaign Setting Wiki; Guildmasters' Guide to Ravnica]`
+- **WAR colorless-common artifact-creature trio** — Iron Bully (240, Aaron Miller), Prismite (242, Alayna Danner), Saheeli's Silverwing (243, Daniel Ljunggren). Three cards, three artists, contiguous collector numbers. Iron Bully is the only one with a pump trigger on entry. `[Scryfall: WAR card search]`
+- **Aaron Miller — career depth** — Theros 2013 debut with Chained to the Rocks (a Prometheus-referenced piece). 164 unique MTG illustrations by 2026. Multiple Spectrum: The Best in Fantastic Art inclusions; GenCon Best in Show 2013, Juror's Choice 2010. Built a custom MTG token line via Kickstarter (2020) — 18 original foil tokens. `[Hipsters of the Coast 2020; aaronbmiller.com]`

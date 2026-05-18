@@ -3,33 +3,74 @@
   "game": "Pokemon",
   "set": "Darkness Ablaze",
   "collector_number": "126/189",
-  "task_profile": "ip-priority",
-  "ip_decision": "verify",
-  "ip_outcome_note": "Card name is 'Klang'; the depicted figure is canonically Klang (National Pokedex no. 600, Steel-type Stage 1 in the Klink line). Verified via pokemondb.net and card name match — depicted gear figure with face-like center on large gear matches Klang's canonical design. Flavor text from PokemonTCG.io also confirms species. ip_verified set to true, ip_confidence remains high (no downgrade needed). Internal Pokemon IP — no IP callout block required.",
+  "task_profile": "general",
+  "pass": "second — deep trivia harvest for Discrete Lair 002 Drone bundle (first-pass bullets preserved below)",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "IP already verified in first-pass run. ip_verified: true, suspected_ip: Klang, ip_confidence: high. No changes.",
   "trivia_bullets": [
     {
+      "pass": 1,
       "category": "set-lore",
       "text": "Klang is National Pokedex no. 600, the Stage 1 mid-form of the Klink evolution line: Klink (no. 599) -> Klang (no. 600, evolves at level 38) -> Klinklang (no. 601, evolves at level 49). Introduced in Generation 5 (Unova) in Pokemon Black and White (2010/2011). The Klink line was one of the first Pokemon designed as purely mechanical entities rather than animals adapted with metallic features. [pokemondb.net: Klang Pokedex page; Bulbapedia: Klang, via WebSearch snippet]",
       "sources": ["pokemondb.net: Klang Pokedex entry", "Bulbapedia: Klang, via WebSearch snippet"]
     },
     {
+      "pass": 1,
       "category": "flavor-text",
       "text": "Flavor text: 'When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pokemon's rotation speed increases sharply.' [pokemon.com TCG database: Darkness Ablaze 126]. This mechanically describes the same gear-linkage visible in the card art — the smaller minigear aligned with the larger gear's outer ring, conveying mechanical efficiency as a game state escalation.",
       "sources": ["pokemon.com TCG database: Darkness Ablaze 126"]
     },
     {
+      "pass": 1,
       "category": "design",
-      "text": "Darkness Ablaze no. 126/189, Stage 1, Steel-type, 90 HP, Uncommon, illustrated by NC Empire, released 2020-08-14. NC Empire is a studio illustrator with a large catalog on Serebii's artist index; credited on multiple Steel-type and mechanical-Pokemon cards across SWSH era. The Darkness Ablaze set (SWSH3) is themed around Charizard VMAX and includes Eternatus VMAX as its second marquee card; Klang is a filler uncommon in the Steel-type slot. [Scryfall-equivalent: pokemon.com TCG database; Serebii: NC Empire artist page, via WebSearch snippet]",
+      "text": "Darkness Ablaze no. 126/189, Stage 1, Steel-type, 90 HP, Uncommon, illustrated by NC Empire, released 2020-08-14. NC Empire is a studio illustrator with a large catalog on Serebii's artist index; credited on multiple Steel-type and mechanical-Pokemon cards across SWSH era. The Darkness Ablaze set (SWSH3) is themed around Charizard VMAX and includes Eternatus VMAX as its second marquee card; Klang is a filler uncommon in the Steel-type slot.",
       "sources": ["pokemon.com TCG database: SWSH3 126", "Serebii: NC Empire artist index, via WebSearch snippet"]
+    },
+    {
+      "pass": 2,
+      "category": "design",
+      "text": "Klink was designed by Ken Sugimori after a Game Freak internal brief for 'something inorganic.' Sugimori settled on a gear concept partly because it fit his favorite design category — Pokemon with expressive faces — and noted that Klink's face changes as its gears rotate. The Klink evolution line follows the Magneton / Dugtrio template of 'multiples of the first stage,' with each evolution adding gear mass rather than transforming the form. Source: Nintendo Dream magazine interviews (2011), translated by Lava Cut Content.",
+      "sources": ["Lava Cut Content: Gen 5 Historia: Pokemon Origin Stories (Part 4) — lavacutcontent.com/ken-sugimori-nintendo-dream-6/"]
+    },
+    {
+      "pass": 2,
+      "category": "sentiment",
+      "text": "Community sentiment on the Klink line during the Gen 5 era was polarized. Critics labeled it alongside the Vanillite line as 'object Pokemon' — designs accused of lazy literalism. The sub-criticism specific to Klink held that each evolution was incremental gear-accumulation rather than a true transformation, and that Klinklang felt like a power-up rather than a new creature. Smogon forums and PokeCommunity boards hosted extended debates during 2011-2013; the discourse mellowed by the Sword and Shield era but did not fully resolve.",
+      "sources": ["PokeCommunity Forums: 'The Trubbish line and the Vanillite line: Why all the hate?' — pokecommunity.com/threads/the-trubbish-line-and-the-vanillite-line-why-all-the-hate.307627/", "Smogon Forums: 'Let's talk about Pokemon designs' — smogon.com/forums/threads/lets-talk-about-pok%C3%A9mon-designs.3568676/"]
+    },
+    {
+      "pass": 2,
+      "category": "design",
+      "text": "NC Empire — the illustrator of this card — is a design collective (self-described 'Association for Design and Illustration') that began contributing to the Pokemon TCG during the Sun and Moon era Promos. Their portfolio spans 73+ cards in the TCG as of 2026, encompassing Pokemon, Trainer, and promotional product artwork. Outside the Pokemon TCG, NC Empire is credited with the official BEYBLADE X logo design, indicating a broader commercial illustration practice beyond the card game.",
+      "sources": ["Bulbapedia: NC Empire — bulbapedia.bulbagarden.net/wiki/NC_Empire", "PocketMonsters.Net: NC Empire biography — pocketmonsters.net/staff/view/7034", "Art of PKM: NC Empire — artofpkm.com/illustrators/122"]
+    },
+    {
+      "pass": 2,
+      "category": "mechanical",
+      "text": "Klinklang (Plasma Storm, 2013) — the final evolution of this line — anchored one of the more strategically distinctive decks in the Black and White era. Its Plasma Steel ability prevented all damage dealt to the player's Metal-type Pokemon by opponent's Pokemon-EX, creating an EX-immunity shell. Michael Slutsky piloted a Plasma Steel Klinklang build to Top 32 at 2013 US Nationals after going undefeated into the T64 cut. The deck paired Klinklang's ability with Max Potion healing and Cobalion as the primary attacker. SixPrizes covered it in depth at the time as an 'off the wall' list that disrupted the EX-dominant meta.",
+      "sources": ["SixPrizes: 'The Strategy Behind Plasma Klinklang' — sixprizes.com/2013/03/22/the-strategy-behind-plasma/", "SixPrizes: 'Heavy Metal: A Top 32 US Nationals Report' — sixprizes.com/2013/07/13/heavy-metal-a-top-32-us-nationals-report-and-a-look-at-klinklang/"]
+    },
+    {
+      "pass": 2,
+      "category": "set-lore",
+      "text": "The Klink line's most striking Pokedex entry appears in Black 2 and White 2: 'A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.' This entry — also reprinted in Pokemon Y — establishes the detachable minigear as both Klang's primary weapon and its existential anchor: losing the launched gear is fatal. The Darkness Ablaze TCG flavor text ('when Klang goes all out, the minigear links up perfectly with the outer part of the big gear') describes the opposite condition — full gear engagement as peak performance — and implicitly contrasts with the death-entry's cautionary framing.",
+      "sources": ["Pokemon Database: Klang Pokedex entries — pokemondb.net/pokedex/klang", "Bulbapedia: Klang — bulbapedia.bulbagarden.net/wiki/Klang_(Pok%C3%A9mon)"]
+    },
+    {
+      "pass": 2,
+      "category": "set-lore",
+      "text": "The Klink line's substantive anime debut came in episode BW063, 'Evolution Exchange Excitement!' (aired as Season 15, Episode 15 in the US), set inside Chargestone Cave. The episode features a distressed Klinklang that has a pen lodged in its gears — accidentally thrown there by Sunglasses Krokorok in a prior episode — causing it to discharge electricity uncontrollably until Professor Juniper removes the obstruction. Klink and Klang also appear in the movies 'White — Victini and Zekrom' and 'Black — Victini and Reshiram' under the ownership of a character named Mannes.",
+      "sources": ["Bulbapedia: BW063 — bulbapedia.bulbagarden.net/wiki/BW063", "Serebii: Episode 724 — serebii.net/anime/epiguide/bestwishes/724.shtml", "Bulbapedia: Klang — bulbapedia.bulbagarden.net/wiki/Klang_(Pok%C3%A9mon)"]
     }
   ],
   "related_cards": [
-    {"name": "Klink", "set": "Darkness Ablaze (125/189)", "note": "Pre-evolution; same set, same evolution line"},
-    {"name": "Klinklang", "set": "Darkness Ablaze (127/189)", "note": "Final evolution; same set, completes the line"},
-    {"name": "Klinklang (Plasma)", "set": "Plasma Storm", "note": "Famous Metal-energy acceleration Klinklang used in Plasma Steel decks"}
+    {"name": "Klink", "set": "Darkness Ablaze", "note": "pre-evolution; same set, same line — no. 125/189"},
+    {"name": "Klinklang", "set": "Darkness Ablaze", "note": "final evolution; same set — no. 127/189"},
+    {"name": "Klinklang", "set": "Plasma Storm", "note": "Plasma Steel ability anchored a notable 2013 competitive deck; extends the Klink line's TCG competitive legacy"},
+    {"name": "Cobalion", "set": "Plasma Storm", "note": "primary attacker in the Plasma Steel Klinklang deck; synergy partner in the 2013 US Nationals build"}
   ],
   "frontmatter_updates": {
-    "ip_verified": "true",
+    "ip_verified": "unchanged",
     "suspected_ip": "unchanged",
     "ip_confidence": "unchanged"
   }

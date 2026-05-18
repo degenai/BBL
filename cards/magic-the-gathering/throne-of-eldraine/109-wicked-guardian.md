@@ -95,6 +95,20 @@ A stately noblewoman sits upright on a high-backed throne atop a stepped dais, d
 - Defiant Salvager (Innistrad: Crimson Vow, no. 207) — EDHREC high-synergy partner (~11%); pays off the self-damage / sac loops Wicked Guardian feeds.
 - Slum Reaper (Innistrad, no. 119) — explicit comparison point in the Pauper Cube review: same 4-mana ETB-damage shape, but mandatory rather than `may`.
 
+### Second-pass additions
+
+- **"Wicked" as villain-naming convention** — ELD uses the "Wicked" prefix to mark fairy-tale antagonists across multiple cards: Wicked Guardian (Cinderella stepmother) and Wicked Wolf (Three Little Pigs wolf) both carry it as a deliberate design signal. Jay Annelli's "Throne of Eldraine Flavor Gems" (CoolStuffInc, 2019-10-01) identifies Wicked Guardian as the tale's custodian "who takes custody of the young woman," anchoring her in the Cinderella cycle alongside Fairy Guidemother, Enchanted Carriage, Midnight Clock, Crystal Slipper, and Wildwood Tracker. `[CoolStuffInc: Jay Annelli, "Throne of Eldraine Flavor Gems", 2019-10-01]`
+- **Locthwain court context** — As a Human Noble, Wicked Guardian fits within the Locthwain court's orbit: the black-aligned court ruled by Queen Ayara, whose virtue is Persistence. Locthwain courtiers are described as manifesting Persistence through "persistent efforts at serving the queen" — the noble-who-exploits-servants sits at the apex of that arrangement. `[MTG Wiki: Locthwain; Wizards: Planeswalker's Guide to Eldraine, 2019-10-31]`
+- **Noble subtype history** — The Noble creature subtype was reintroduced in ELD after being retired in the Grand Creature Type Update (it had first appeared on Faerie Noble from Homelands, then was folded into the Faerie type). At ELD's release, 20 older creatures were retroactively upgraded to Noble, making Wicked Guardian part of the inaugural new-print Noble wave. `[MTG Wiki: Noble subtype; Hipsters of the Coast tweet, 2019-09-26]`
+- **ELD Limited ranking** — In ELD Booster Draft, Wicked Guardian ranked third among black commons per Star City Games, behind Bake into a Pie (top common in the entire set) and Reave Soul. SCG noted a steep drop-off from second to third in black, placing her in the "contextual" tier: strong in Golgari sacrifice shells, marginal outside them. `[Star City Games: "My Top 3 Commons of Throne of Eldraine Booster Draft"]`
+- **Artist profile** — Matt Stewart is a three-time Chesley Award winner (ASFA), trained at Parsons School of Design, with 245+ MTG card credits. His ELD work was executed in oil on gessobord; his Edgewall Innkeeper from the same set sold at the MTG Art Market for $9,200. Hipsters of the Coast noted Stewart's personal work carries a strong Tolkien influence. `[artofmtg.com: Matt Stewart; Hipsters of the Coast: "Throne of Eldraine Grand Art Tour Volume 3", 2019-10-08]`
+
+### Additional related cards (second pass)
+- Wicked Wolf (Throne of Eldraine, no. 181) — shares the "Wicked" villain-prefix naming convention; represents the Three Little Pigs wolf, the other half of ELD's "Wicked" antagonist pair.
+- Enchanted Carriage (Throne of Eldraine, no. 16) — Cinderella cycle member identified by Jay Annelli's Flavor Gems piece.
+- Midnight Clock (Throne of Eldraine, no. 54) — Cinderella cycle — the tolling midnight that ends the enchantment.
+- Ayara, First of Locthwain (Throne of Eldraine, no. 75) — queen of the black court whose social hierarchy Wicked Guardian, as Human Noble, inhabits.
+
 
 ## Bundle Use
 
@@ -105,3 +119,11 @@ A stately noblewoman sits upright on a high-backed throne atop a stepped dais, d
 **Why it fits:** A noble in deep purple robes stands stiffly upright, her hands cradling a small bat-faced pet with bulging eyes, wide ears, and visible fangs, dressed up in a cute poofy dog shirt. Behind her, a second figure in muted clothes kneels on the stone floor with a cleaning cloth. The architecture is grand, but the real structure of the place is the vertical distance between the standing authority and the one scrubbing underneath it. "Some are born to greatness. You were born to scrub greatness's floors."
 
 **Bundle JSON:** `diamondlegendz/bundle-previewer/sample-bundles/tithe.json`
+
+## Trivia (second pass)
+
+- **"Wicked" as ELD villain-naming convention** — A deliberate design signal for fairy-tale antagonists. Wicked Guardian (the cruel-stepmother figure) and Wicked Wolf (Three Little Pigs) are the two cards carrying it. Jay Annelli's CoolStuffInc Flavor Gems piece (2019-10-01) names the full Cinderella cycle explicitly and places Wicked Guardian as the custodian figure. `[CoolStuffInc: Flavor Gems of ELD]`
+- **Locthwain court lore** — Human Noble places her in Locthwain's social architecture. The Wizards Planeswalker's Guide describes Locthwain's Persistence virtue as enacted through "persistent efforts at serving the queen" — the nobility-exploiting-servant dynamic in the card art is canon to the court's internal logic. `[Wizards: Planeswalker's Guide to Eldraine]`
+- **Noble subtype history** — Noble was reintroduced in ELD after retirement in the Grand Creature Type Update; 20 older creatures gained the subtype retroactively. Wicked Guardian is part of the inaugural new-print Noble wave. `[MTG Wiki: Noble subtype]`
+- **ELD Draft ranking** — Star City Games rated it the 3rd-best black common (behind Bake into a Pie and Reave Soul), with a noted steep drop-off after the top tier. `[SCG ELD Draft Review]`
+- **Matt Stewart — artist profile** — Three-time Chesley Award winner. 245+ MTG card credits across the game. Parsons-trained; Tolkien-influenced personal work. Oil-on-gessobord medium for ELD. `[Gatherer artist search]`

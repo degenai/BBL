@@ -1,0 +1,41 @@
+{
+  "card_name": "Marauder's Axe",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2020",
+  "collector_number": "231",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Core Set 2020 (M20) released July 12, 2019 — the second core set in the post-Kaladesh era of core set restoration. M20 was themed around Chandra Nalaar's origin story and featured multicolor Elder Dragons as the mythic cycle. Marauder's Axe is a generic Equipment filler common with no plane-specific narrative attachment. [Scryfall: set m20, released_at 2019-07-12]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Marauder's Axe was first printed in Core Set 2019 (M19, July 2018), then reprinted in Core Set 2020 (M20, July 2019) and Jumpstart (JMP, July 2020) — three consecutive summer releases in the same broad print window, marking it as a core-set staple Equipment filler. Artist: Mitchell Malloy. [Scryfall: prints search — m19 2018-07-13, m20 2019-07-12, jmp 2020-07-17]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (verbatim): \"A sharp axe solves most problems.\" [Scryfall: flavor_text field]. No speaker attributed — the line reads as generic marauder folk-wisdom, consistent with M20's flavor-text style on common Equipment cards.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Marauder's Axe gives +2/+0 for a total investment of {4} ({2} cast + {2} equip) — a cost-inefficient Equipment by contemporary standards. EDHREC rank 21,921 reflects near-zero Commander inclusion. Legal in Pauper and Pauper Commander (colorless Equipment with no color restriction), where its floor is occasionally functional. [Scryfall: edhrec_rank 21921, legalities]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Golem-Skin Gauntlets", "set": "Mirrodin (MRD)", "note": "Classic Pauper Equipment that scales with Equipment count — contrast to fixed-bonus axes"},
+    {"name": "Bonesplitter", "set": "Mirrodin (MRD)", "note": "The benchmark common Equipment: +2/+0 for {1} equip vs Marauder's Axe's {2} equip — Bonesplitter does the same for half the equip cost"},
+    {"name": "Marauding Blight-Priest", "set": "Zendikar Rising (ZNR)", "note": "Shares 'marauder' flavor space; different mechanical register"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

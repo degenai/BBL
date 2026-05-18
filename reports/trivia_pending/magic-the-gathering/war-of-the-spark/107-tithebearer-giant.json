@@ -1,0 +1,108 @@
+{
+  "card_name": "Tithebearer Giant",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "107",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "suspected_ip not set; no IP verification performed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "War of the Spark (released 2019-05-03) was the 81st MTG expansion and climax of the Guilds of Ravnica block; Nicol Bolas invaded Ravnica with Eternals to harvest planeswalker sparks. Teysa Karlov and the Orzhov Triumvirate barely aided the defense, prioritizing guild financial operations throughout.",
+      "sources": ["Scryfall", "MTG Wiki: War of the Spark (event) via WebSearch", "MTG Wiki: Teysa Karlov via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"I've always said full war chests win wars, but I didn't mean by bashing enemy skulls with them.\" —Teysa. Speaker: Teysa Karlov, Orzhov Matriarch, who engineered the Obzedat's destruction via Kaya before WAR.",
+      "sources": ["Scryfall", "MTG Wiki: Teysa Karlov via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Previewed 2019-04-18 by Hipsters of the Coast ('Behind the Front Lines,' Donny Caltrider) alongside Charity Extractor, Vampire Opportunist, and Duskmantle Operative. Wisnu Tan was noted as one of Magic's newest illustrators at the time; Tithebearer Giant reportedly among his earliest commissions.",
+      "sources": ["Hipsters of the Coast: 'Behind the Front Lines,' Donny Caltrider, 2019-04-18"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Pauper and Pauper Commander legal. EDHREC rank 28,177 (bulk Commander adoption). Reprinted in Ravnica: Clue Edition (CLU/124, February 2024) — only second printing to date.",
+      "sources": ["Scryfall", "Scryfall: CLU/124"],
+      "NOTE": "SUPERSEDED — see second-pass bullet 'reprint-history-correction' below; CLU is the third printing, not second."
+    },
+    {
+      "category": "sentiment",
+      "text": "MTGSalvation Rumor Mill (2019): 'plant for Commander format.' Competitive pauper review (The Weekly Wars, 2019-05-02): 'not interested.' Pauper Cube (2019-05-12): receptive, noting strong size-plus-cantrip at top of curve.",
+      "sources": [
+        "MTGSalvation Rumor Mill thread, 2019",
+        "The Weekly Wars pauper review, 2019-05-02",
+        "The Pauper Cube blog, 2019-05-12"
+      ]
+    },
+    {
+      "category": "mechanical",
+      "text": "SECOND-PASS CORRECTION: Tithebearer Giant has three printings, not two. WAR (2019-05-03), Jumpstart / JMP no. 284 (July 2020), and Ravnica: Clue Edition / CLU no. 124 (February 2024). The first-pass sidecar incorrectly identified CLU as the 'only second printing.'",
+      "sources": [
+        "Scryfall: scryfall.com/card/jmp/284/tithebearer-giant via WebSearch",
+        "Card Kingdom: cardkingdom.com/mtg/jumpstart/tithebearer-giant via WebSearch",
+        "Star City Games: starcitygames.com/tithebearer-giant-sgl-mtg-jmp-284-enn/ via WebSearch"
+      ]
+    },
+    {
+      "category": "set-lore",
+      "text": "Teysa Karlov's sardonic WAR flavor-text voice has a specific backstory arc: she was imprisoned by the Obzedat (the Ghost Council) after a failed conspiracy — she had partnered with Boros knight Tajic to expose the Council's corruption and seize power, was caught, and stripped of her rank as Grand Envoy. By the time of Ravnica Allegiance she was freed. The planeswalker Kaya then assassinated the Obzedat on her behalf (during a distraction staged by Ral Zarek, Hekara, and Vraska), and Kaya became formal guildmaster via an Orzhov legal loophole. After WAR de facto control passed to Teysa and the post-Obzedat Triumvirate: human pontiff Armin Morov, vampire tithe-master Slavomir Zoltan, and angel warrior-executioner Maladola. The flavor text's wry detachment reads differently knowing Teysa spent years imprisoned for trying to dismantle the very council whose gold chests now bludgeon Bolas's armies.",
+      "sources": [
+        "MTG Wiki: Teysa Karlov via WebSearch (mtg.wiki/page/Teysa_Karlov)",
+        "MTG Wiki: Orzhov Syndicate via WebSearch (mtg.wiki/page/Orzhov_Syndicate)",
+        "Card Kingdom Blog: MTG Character Profile: Teysa Karlov via WebSearch"
+      ]
+    },
+    {
+      "category": "set-lore",
+      "text": "The card's name indexes a functional Orzhov guild role: a tithebearer is an enforcer-class operative who physically carries and delivers collected tithes. This is distinct from the tithe-master role (held post-WAR by Triumvirate member Slavomir Zoltan). Orzhov hierarchy runs from Ghost Council oligarchs down through cardinals, advokists, priests, enforcers, and finally thrulls — the latter built from flesh with mask-like faceplates of devalued coinage. The tithebearer giant in the art occupies the enforcer tier: armored, physically imposing, carrying the gilded coffer as both collection vessel and weapon.",
+      "sources": [
+        "MTG Wiki: Orzhov Syndicate via WebSearch (mtg.wiki/page/Orzhov_Syndicate)",
+        "MTGSalvation Orzhov Syndicate forum discussion via WebSearch"
+      ]
+    },
+    {
+      "category": "mechanical",
+      "text": "Community on MTGSalvation describes Tithebearer Giant as 'Phyrexian Rager's big brother' — both share the identical ETB trigger (draw a card, lose 1 life) in black; Phyrexian Rager is a 2/2 for {2}{B}, Tithebearer Giant a 4/5 for {5}{B}. This design lineage places the card in a recurring black-cantrip-creature cycle that dates to Apocalypse (2001).",
+      "sources": [
+        "MTGSalvation forum discussion via WebSearch",
+        "Scryfall: Phyrexian Rager oracle text via WebSearch"
+      ]
+    },
+    {
+      "category": "sentiment",
+      "text": "WAR limited reception was tepid for the card specifically: the SamWise ClockWise WAR Arena draft tier list (2019-08-28) placed Tithebearer Giant in the 'most likely to be cut' tier. MTGSalvation discussion corroborates: 'overcosted for most formats, but decent body.' Its value proposition — top-of-curve cantrip — was recognized mainly by pauper cube builders rather than competitive draft players.",
+      "sources": [
+        "SamWise ClockWise: 'MTG Arena War of the Spark Draft: Tier List,' 2019-08-28 via WebSearch",
+        "MTGSalvation forum discussion via WebSearch"
+      ]
+    },
+    {
+      "category": "design",
+      "text": "Wisnu Tan illustrated Sower of Discord (Commander 2018 / C18 no. 19), a 6/6 flying black demon, immediately before WAR — establishing an Orzhov-tonal black demon portfolio that Tithebearer Giant extended. Post-WAR, Tan went on to illustrate approximately 12 cards in Strixhaven: School of Mages (2021) and Gorex, the Tombshell for Innistrad Midnight Hunt Commander (2021), accumulating a total catalog of roughly 62-73 credited MTG cards across databases. His ArtStation portfolio is live at artstation.com/wisnutan.",
+      "sources": [
+        "Scryfall: Sower of Discord (C18/19) via WebSearch",
+        "ArtStation: artstation.com/artwork/x8bYR (Sower of Discord post by Wisnu Tan) via WebSearch",
+        "planeswalkersmtg.com: Wisnu Tan artist page via WebSearch",
+        "mtgpics.com: Wisnu Tan illustration catalog via WebSearch"
+      ]
+    }
+  ],
+  "related_cards": [
+    {"name": "Karn, the Great Creator", "set": "War of the Spark", "note": "Also illustrated by Wisnu Tan in WAR; mythic planeswalker contrasted with Tan's common-slot Tithebearer commission in same set"},
+    {"name": "Charity Extractor", "set": "War of the Spark", "note": "Co-previewed in same Hipsters article; black WAR common with Orzhov-extraction DNA"},
+    {"name": "Vampire Opportunist", "set": "War of the Spark", "note": "Third card in same Hipsters preview batch; Orzhov-adjacent WAR common"},
+    {"name": "Teysa Karlov", "set": "Ravnica Allegiance", "note": "Flavor text speaker; RNA card depicts the same sardonic matriarch whose voice frames the visual joke"},
+    {"name": "Tithebearer Giant", "set": "Ravnica: Clue Edition", "note": "CLU/124 — third printing (February 2024); same art and text"},
+    {"name": "Tithebearer Giant", "set": "Jumpstart", "note": "JMP/284 — second printing (July 2020); same art and text — corrects first-pass which missed this printing"},
+    {"name": "Phyrexian Rager", "set": "Apocalypse", "note": "Design ancestor: identical ETB trigger (draw a card, lose 1 life) at lower cost/smaller body; community calls Tithebearer 'big brother'"},
+    {"name": "Sower of Discord", "set": "Commander 2018", "note": "Wisnu Tan's notable pre-WAR black demon commission; Orzhov-tonal black portfolio"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Destructive Tampering",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "141",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Destructive Tampering was first printed in Aether Revolt (AER, January 2017) — the second set of the Kaladesh block, set on the plane of Kaladesh during the renegade uprising against the Consulate. The card's flavor text names 'Karavin, renegade saboteur,' placing this figure within the rebel faction resisting the Consulate's monopoly on aether. It has since been reprinted in Game Night 2019 (GN2), The List (PLST), Core Set 2021 (M21), Kaladesh Remastered (KLR, 2020), and Jumpstart 2022 (J22) — six total printings. [Scryfall: prints search — aer 2017-01-20, gn2 2019-11-15, plst 2019-11-07, m21 2020-07-03, klr 2020-11-12, j22 2022-12-02]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (verbatim): \"I don't think they'll appreciate my . . . adjustments.\" — Karavin, renegade saboteur [Scryfall: flavor_text field]. Karavin is a named renegade character whose only in-canon appearance is this card's flavor text — no other Scryfall card attributes speech to Karavin. The ellipsis and understatement read as deadpan humor over violence.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Destructive Tampering offers two modes: artifact destruction or a combat trick (no-flying-block until end of turn). EDHREC rank 17,887 as of Scryfall data — rarely included in Commander but occasionally relevant in Pauper and Pauper Commander where artifact removal at common is contested. Legal in Pauper, Legacy, Modern, Pioneer, and Commander. [Scryfall: edhrec_rank 17887, legalities]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist: Titus Lunter. Lunter is a prolific MTG contract illustrator known for dramatic lighting and scale; Destructive Tampering's explosion-backlit saboteur framing is consistent with his body of work across multiple Wizards sets. [Scryfall: artist field]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Shatter", "set": "Various (Alpha onward)", "note": "The baseline red artifact-destruction comparison; Destructive Tampering adds the second mode at +1 mana"},
+    {"name": "Aether Revolt leader cards (Pia Nalaar, etc.)", "set": "Aether Revolt (AER)", "note": "Set-mates from the renegade faction context where Karavin was originally introduced"},
+    {"name": "Wrangle", "set": "Aether Revolt (AER)", "note": "Another renegade-faction common from AER's saboteur-and-heist design space"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "card_name": "Valgavoth's Faithful",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "121",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag. The depicted figure is an anonymous cultist — a follower of Valgavoth, not Valgavoth himself. Valgavoth character node already in corpus confirms: no corpus card currently depicts Valgavoth in art; the two named printings (DSK-120 Terror Eater, DSC-6 Harrower of Souls) are not in inventory. This card depicts a follower only.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmourn: House of Horror (DSK) released September 27, 2024. The set is set on the plane of Duskmourn, a world consumed by a sentient House grown from the body of the moth-demon Valgavoth as he fed on the survivors' fear. Valgavoth's Faithful depicts one of the human cultists who serve him willingly inside the House — counterpart to the 'Glimmer' faction of survivors who resist his influence. [Scryfall: released_at 2024-09-27; Valgavoth character node in corpus]",
+      "sources": ["Scryfall", "BBL corpus: valgavoth.md character node"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (verbatim): \"That's the one good thing about these cultists: sometimes they do your work for you.\" — Winter [Scryfall: flavor_text field]. The speaker is Winter, Misanthropic Guide (DSK-240) — a Legendary Creature (Human Warlock) who served as the House's guide for survivors navigating Duskmourn's halls, and who struck a doomed contract with Valgavoth to deliver four lives in exchange for an escape door. [Scryfall: Winter, Misanthropic Guide DSK-240; BBL corpus: Betrayer's Bargain trivia via valgavoth.md]",
+      "sources": ["Scryfall", "WebSearch: Winter Misanthropic Guide character info"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Valgavoth's Faithful is a 1/1 Human Cleric for {B} whose activated ability ({3}{B}, sacrifice) returns any creature card from your graveyard to the battlefield — a sorcery-speed reanimation engine on a disposable body. EDHREC rank 7,942 as of Scryfall data, meaning it sees limited competitive Commander inclusion but is a thematic fit in sacrifice-and-reanimate builds. Legal in Standard, Pioneer, Modern, and Commander. [Scryfall: edhrec_rank 7942, legalities]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist: Jodie Muir. The card was previewed September 3, 2024 via the official Wizards of the Coast YouTube channel (source_uri per Scryfall preview data). The moth and butterfly motifs in the art are canonically tied to Valgavoth's visual identity — the character node in the BBL corpus cites 'Infernal Phantom' and 'Say Its Name' as the two corpus cards that specify the moth-demon iconography explicitly. [Scryfall: preview field; BBL corpus: valgavoth.md]",
+      "sources": ["Scryfall", "BBL corpus: valgavoth.md character node"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Valgavoth, Terror Eater", "set": "Duskmourn: House of Horror (DSK-120)", "note": "The demon this cultist serves; mythic rare, not in BBL corpus"},
+    {"name": "Winter, Misanthropic Guide", "set": "Duskmourn: House of Horror (DSK-240)", "note": "The flavor-text speaker; legendary creature who serves as the House's guide"},
+    {"name": "Betrayer's Bargain", "set": "Duskmourn: House of Horror (DSK-126)", "note": "The card depicting Winter's deal with Valgavoth — directly connected to the cultist dynamic"},
+    {"name": "Duskmourn's Domination", "set": "Duskmourn: House of Horror (DSK-50)", "note": "Direct flavor-text citation of Valgavoth's whisper-influence over all who enter the House"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

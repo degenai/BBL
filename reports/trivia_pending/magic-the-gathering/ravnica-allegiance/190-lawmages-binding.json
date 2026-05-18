@@ -1,0 +1,72 @@
+{
+  "card_name": "Lawmage's Binding",
+  "game": "Magic: The Gathering",
+  "set": "Ravnica Allegiance",
+  "collector_number": "190",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "pass": "second-pass deep harvest",
+  "notes": "First-pass trivia already present. This sidecar contains NEW bullets only. Caller instruction: append only, no overwrite of first-pass bullets.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Azorius Senate is divided into three Columns whose division of labor is reflected in the guild's triangle-shaped crest: the Jelenn Column (makes the laws), the Lyev Column (enforces the laws), and the Sova Column (judges the law-breakers). Most Azorius functionaries report to one superior and are reported to by two subordinates — a hierarchy literally encoded in the sigil's geometry. Lawmages belong to the Lyev Column [MTG Wiki: Azorius Senate].",
+      "sources": ["MTG Wiki: Azorius Senate (mtg.wiki/page/Azorius_Senate)"]
+    },
+    {
+      "category": "design",
+      "text": "The 'pacifism effect' takes its R&D design-team name from Pacifism (Mirage, October 1996) — not from Alpha (1993), which had no such card. Pacifism has been reprinted roughly 42 times across 30+ years of sets, making it one of white's most-reprinted aura templates. Lawmage's Binding is the flash, blue-splash iteration of that template [Scryfall: Pacifism MIR no. 32].",
+      "sources": ["Scryfall: Pacifism MIR no. 32 (released 1996-10-08)", "WebSearch: MTG cardsrealm / MTGSalvation snippet"]
+    },
+    {
+      "category": "design",
+      "text": "The Hipsters of the Coast design article's asterisk explicitly names Temporal Isolation (Time Spiral, 2006) as the only prior near-precedent for an instant-speed Pacifism — then disqualifies it on two grounds: (1) it was from Time Spiral, not a Ravnica-block context; (2) its text reads 'enchant attacking or blocking creature,' meaning it could be cast mid-combat to neutralize a creature already in the attack. Lawmage's Binding has no such clause, which is precisely why it won't stop a creature already declared as an attacker. The footgun is structural, not a rules surprise [Hipsters of the Coast: 'The Designs of Ravnica Allegiance' (2019-01)].",
+      "sources": ["Hipsters of the Coast: 'The Designs of Ravnica Allegiance' (2019-01), hipstersofthecoast.com"]
+    },
+    {
+      "category": "design",
+      "text": "Detain — the Azorius guild mechanic from Return to Ravnica (2012) — reads: 'Until your next turn, that permanent can't attack or block and its activated abilities can't be activated.' Lawmage's Binding delivers the identical functional restriction but makes it permanent, trading the temporary keyword for an enchantment aura that sticks until answered. The design trajectory from Detain (temporary keyword action on a spell) to Lawmage's Binding (permanent aura) shows the Azorius restraint concept iterating across two Ravnica blocks [MTG Wiki: Detain].",
+      "sources": ["MTG Wiki: Detain (mtg.wiki/page/Detain)", "Scryfall: Detain reminder text confirmation"]
+    },
+    {
+      "category": "design",
+      "text": "The Jumpstart (2020) reprint slots Lawmage's Binding into the 'Rainbow' theme deck — a five-color multicolor goodstuff pack that also includes Maelstrom Archangel, Raging Regisaur, Fusion Elemental, and Prophetic Prism. Lawmage's Binding is the deck's only spot removal / creature lockdown effect, filling that role because it carries two colors (white + blue) which the mana-fixing-heavy Rainbow deck can reliably produce. The deck was previewed via Rock Paper Shotgun on 2020-06-17 [Wizards.com: Jumpstart Decklists 2020-06-18; Scryfall JMP no. 453 preview_source field].",
+      "sources": [
+        "Wizards.com: Jumpstart Decklists (magic.wizards.com/en/news/feature/jumpstart-decklists-2020-06-18)",
+        "Scryfall: JMP no. 453 (preview source: Rock Paper Shotgun, 2020-06-17)"
+      ]
+    },
+    {
+      "category": "mechanical",
+      "text": "Community editorial sentiment across multiple RNA limited review outlets (MTG Arena Zone, Card Kingdom Blog, Cardsphere) consistently rates Lawmage's Binding as a top-tier common that should be prioritized in Azorius and even splashed in Simic control builds for its flash + instant-speed package. The splashability angle — taking it into off-guild decks specifically to maintain an all-instants game plan — was a noted RNA draft theme [MTG Arena Zone: 'Ravnica Allegiance Draft Guide' (2019); Card Kingdom Blog: 'RNA Limited Primer' (2019)].",
+      "sources": [
+        "MTG Arena Zone: Ravnica Allegiance Draft Guide (2019)",
+        "Card Kingdom Blog: Ravnica Allegiance Limited Primer (2019)"
+      ]
+    }
+  ],
+  "related_cards_new": [
+    {
+      "name": "Temporal Isolation",
+      "set": "Time Spiral",
+      "note": "Closest prior precedent for an instant-speed Pacifism variant; Hipsters article footnote explicitly names and disqualifies it as the prior art for Lawmage's Binding's 'first instant-speed Pacifism' claim"
+    },
+    {
+      "name": "Azorius Justiciar",
+      "set": "Return to Ravnica",
+      "note": "Lyev Column character with Detain triggers; bridges the detain mechanic (RTR block) to Lawmage's Binding (RNA block) thematically"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "correction_flag": {
+    "field": "Pacifism origin set",
+    "first_pass_stated": "Alpha 1993",
+    "correct": "Mirage (October 1996)",
+    "evidence": "Scryfall: earliest Pacifism oracle_id 5f5e0b10 printing is MIR no. 32, released_at 1996-10-08"
+  }
+}

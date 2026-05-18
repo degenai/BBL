@@ -1,0 +1,70 @@
+{
+  "card_name": "Charitable Levy",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "21",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "pass": "second — deep trivia harvest; first-pass sidecar superseded",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Eli Minaya debuted in MTG with two Dominaria United (2022) cards — Love Song of Night and Day and Cosmic Epiphany — after art director Zack Stella approached him in 2021. Minaya's primary background is science fiction/fantasy novel cover illustration (clients: Tor Books, Amazon Publishing); his self-described dream for MTG was 'a set of lands with really abstract and textured takes on Swamps and Plains.' He had 36 credited MTG cards in Gatherer by MH3. [Star City Games: 'Meet The Illustrator Whose Dominaria United Debut Is Taking The MTG Art World By Storm', 2022-09-09]",
+      "sources": [
+        "Star City Games: articles.starcitygames.com/magic-the-gathering/meet-the-illustrator-whos-dominaria-united-debut-is-taking-the-mtg-art-world-by-storm/",
+        "Gatherer: gatherer.wizards.com/search?artistName=eq~Eli_Minaya"
+      ]
+    },
+    {
+      "category": "design",
+      "text": "The 'collection counter' named counter type on Charitable Levy is unique in the Scryfall corpus: a full oracle-text search for enchantments bearing 'collection counter' returns exactly one result — this card. Named counters prevent cross-card bookkeeping confusion; here the name reads as a thematic label for the tithe-collection process itself. [Scryfall API oracle search — confirmed unique, 2026-05-18]",
+      "sources": [
+        "Scryfall API: api.scryfall.com/cards/search?q=type:enchantment+oracle:\"collection counter\""
+      ]
+    },
+    {
+      "category": "design",
+      "text": "The noncreature-spell-tax effect has a 20-year white design lineage: Glowrider (Legions, 2003-02-03) was an identically worded Rare creature. Thalia, Guardian of Thraben (Dark Ascension, 2012) became the canonical staple form. Charitable Levy is the first enchantment in this lineage to impose the tax and carry a built-in self-destruct threshold — it applies the tax exactly three times before converting itself into card advantage and a land tutor. [Scryfall: Glowrider (LGN), released 2003-02-03; Scryfall: Thalia, Guardian of Thraben (DKA)]",
+      "sources": [
+        "Scryfall API: Glowrider oracle_id aaf825b0-af0f-47a0-8b00-85f0614cef5d",
+        "Scryfall API: Thalia, Guardian of Thraben oracle_id 9b7f1d05-707c-4ed3-9f0e-8ced1232c2ee"
+      ]
+    },
+    {
+      "category": "mechanical",
+      "text": "Charitable Levy appears in 19,480 Commander decks on EDHREC (rank 6,766 overall) as of 2026-05-18 — substantial inclusion for an uncommon in a Modern-targeted set. Legal in Modern, Legacy, Commander, Historic, Timeless, and Gladiator; not legal in Pioneer or Standard. [Scryfall API: edhrec_rank 6766; EDHREC card-page metadata: edhrec.com/cards/charitable-levy]",
+      "sources": [
+        "Scryfall API: edhrec_rank field",
+        "EDHREC: edhrec.com/cards/charitable-levy — page description metadata"
+      ]
+    },
+    {
+      "category": "mechanical",
+      "text": "Charitable Levy is architecturally distinct from Smothering Tithe (Ravnica Allegiance, 2019), the white enchantment most often compared to it. Smothering Tithe taxes opponent card draws, generates Treasure tokens indefinitely, never self-terminates, and scales with draw-heavy tables. Charitable Levy taxes all players' noncreature spells, counts its own triggers toward a fixed exit threshold, and liquidates as a cantrip plus land tutor rather than a mana engine. The two occupy adjacent design territory (white enchantment taxation) but pursue opposite philosophies: Smothering Tithe is an infinite accumulator; Charitable Levy is a self-liquidating tempo speed-bump. [Scryfall: Smothering Tithe (RNA/22); Scryfall: Charitable Levy (MH3/21)]",
+      "sources": [
+        "Scryfall API: Smothering Tithe",
+        "Scryfall API: Charitable Levy"
+      ]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on stax / tax archetype fit: Commander's Herald MH3 budget review framed Charitable Levy as 'a tax piece that replaces itself and ramps you,' noting the key constraint — 'it taxes your own spells, but if you can play creatures until it cracks, it is nothing but upside' — positioning it as on-axis in creature-heavy stax builds where the controller avoids casting noncreature spells while opponents pay the toll. [Community sentiment — Commander's Herald: 'Modern Horizons 3 Set Review — Budget', commandersherald.com]",
+      "sources": [
+        "Commander's Herald: commandersherald.com/modern-horizons-3-set-review-budget/"
+      ]
+    }
+  ],
+  "related_cards": [
+    {"name": "Glowrider", "set": "Legions", "note": "Earliest creature version of the noncreature-spell-tax effect — direct design lineage ancestor"},
+    {"name": "Thalia, Guardian of Thraben", "set": "Dark Ascension", "note": "Canonical modern standard-bearer of the noncreature-spell-tax; same wording, creature form"},
+    {"name": "Smothering Tithe", "set": "Ravnica Allegiance", "note": "Most-compared white tax enchantment — permanent vs. self-terminating design contrast"},
+    {"name": "Love Song of Night and Day", "set": "Dominaria United", "note": "Eli Minaya MTG debut card — same artist, first commission batch"},
+    {"name": "Cosmic Epiphany", "set": "Dominaria United", "note": "Eli Minaya second debut card — same artist, same 2021 Zack Stella commission"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

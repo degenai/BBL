@@ -1,0 +1,67 @@
+{
+  "card_name": "Wicked Guardian",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "109",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "pass": "second",
+  "note": "Second-pass deep trivia harvest for Discrete Lair 001 Tithe bundle. First-pass trivia preserved; only new material appended.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "The 'Wicked' prefix in Wicked Guardian's name is a deliberate design signal: ELD uses 'Wicked' to flag fairy-tale villain archetypes across multiple cards — Wicked Wolf (Three Little Pigs wolf) and Wicked Guardian (Cinderella stepmother) both carry the prefix as a villain-naming convention. Jay Annelli's 'Throne of Eldraine Flavor Gems' (CoolStuffInc, 2019-10-01) identifies Wicked Guardian explicitly as the tale's wicked guardian figure 'who takes custody of the young woman,' completing the Cinderella cycle alongside Fairy Guidemother, Enchanted Carriage, Midnight Clock, Crystal Slipper, and Wildwood Tracker.",
+      "sources": [
+        "CoolStuffInc: Jay Annelli, 'Throne of Eldraine Flavor Gems' (2019-10-01)",
+        "Wizards preview coverage via dotesports.com"
+      ]
+    },
+    {
+      "category": "set-lore",
+      "text": "As a Human Noble, Wicked Guardian is implicitly tied to the Locthwain court on Eldraine — the black-aligned court ruled by Queen Ayara, an ancient elf who embodies the virtue of Persistence. Locthwain courtiers wear elaborate headdresses and are described as manifesting Persistence through 'persistent efforts at serving the queen.' The noble-who-exploits-servants sits at the apex of that social arrangement, making the card a structural artifact of Locthwain's hierarchy. [MTG Wiki: Locthwain; Wizards Planeswalker's Guide to Eldraine, 2019-10-31]",
+      "sources": [
+        "MTG Wiki: Locthwain (mtg.wiki/page/Locthwain)",
+        "Wizards of the Coast: Planeswalker's Guide to Eldraine (magic.wizards.com, 2019-10-31)"
+      ]
+    },
+    {
+      "category": "design",
+      "text": "The Noble creature subtype Wicked Guardian carries was reintroduced in Throne of Eldraine after being retired in the Grand Creature Type Update — the subtype had first appeared on Faerie Noble from Homelands but was absorbed into the Faerie type in the Grand Update. ELD's reintroduction of Noble retroactively upgraded 20 older creatures, making Wicked Guardian part of the inaugural wave of new-print Nobles since the type was reinstated. [MTG Wiki: Noble subtype; Hipsters of the Coast tweet on Noble subtype, 2019-09-26]",
+      "sources": [
+        "MTG Wiki: Noble (mtg.fandom.com/wiki/Noble)",
+        "Hipsters of the Coast (@hipstersmtg), tweet 2019-09-26"
+      ]
+    },
+    {
+      "category": "mechanical",
+      "text": "In ELD Limited, Wicked Guardian ranked as the third-best black common per Star City Games' set review, behind Bake into a Pie (ranked the best common in the entire set) and Reave Soul. SCG noted a steep drop-off from second to third in black, placing the card in a tier of 'contextual' black commons — good in Golgari sacrifice shells, unremarkable outside them. [Star City Games: 'My Top 3 Commons of Throne of Eldraine Booster Draft']",
+      "sources": [
+        "Star City Games: 'My Top 3 Commons of Throne of Eldraine Booster Draft' (articles.starcitygames.com)"
+      ]
+    },
+    {
+      "category": "design",
+      "text": "Artist Matt Stewart is a three-time Chesley Award winner (Association of Science Fiction and Fantasy Artists), trained at Parsons School of Design, with over 245 Magic: The Gathering cards to his credit across sets including Magic Origins, Khans of Tarkir, and Throne of Eldraine. His ELD work was done in oil on gessobord; his Edgewall Innkeeper painting from the same set sold at the MTG Art Market. Hipsters of the Coast noted his personal work shows a strong Tolkien influence. [artofmtg.com: Matt Stewart artist page; Hipsters of the Coast: 'Throne of Eldraine Grand Art Tour Volume 3', 2019-10-08]",
+      "sources": [
+        "artofmtg.com: Matt Stewart artist page",
+        "Hipsters of the Coast: 'Throne of Eldraine Grand Art Tour Volume 3' (2019-10-08)",
+        "Hipsters of the Coast: 'Matt Stewart's Once Upon a Time Sells for $9,200' (2019-10-08)"
+      ]
+    }
+  ],
+  "related_cards": [
+    {"name": "Wicked Wolf", "set": "Throne of Eldraine", "note": "Shares the 'Wicked' prefix villain-naming convention; represents the wolf from Three Little Pigs — the two 'Wicked' cards bookend ELD's villain-archetype naming pattern across Cinderella and Three Little Pigs."},
+    {"name": "Enchanted Carriage", "set": "Throne of Eldraine", "note": "Part of the same Cinderella cycle identified by Jay Annelli; the carriage that transforms for the ball."},
+    {"name": "Midnight Clock", "set": "Throne of Eldraine", "note": "Cinderella cycle — the clock that tolls midnight, after which the magic ends."},
+    {"name": "Ayara, First of Locthwain", "set": "Throne of Eldraine", "note": "Queen of the Locthwain court (black-aligned, virtue of Persistence); Wicked Guardian as Human Noble sits in the social hierarchy Ayara rules."}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "first_pass_correction": {
+    "note": "First-pass trivia bullet 4 stated the J22 reprint is correct (Jumpstart 2022, no. 489, 2022-12-02). Scryfall oracle-ID search confirms exactly two printings. The claim in bullet 4 is accurate; no correction needed."
+  }
+}

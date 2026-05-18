@@ -91,3 +91,12 @@ A close-to-mid shot of a teal-haired figure with long twin tails in a dark punk-
 > [!warning] IP: Hatsune Miku (Factory Tyrant module)
 > Hatsune Miku is a Crypton Future Media / SEGA Vocaloid character. The "Factory Tyrant" module is a SEGA-licensed costume from *Hatsune Miku: Project DIVA F*. This card is a licensed Bushiroad/Weiss Schwarz product. IP confirmed as internal to the Weiss Schwarz licensing chain; no external-IP risk. [Project DIVA Wiki: Factory Tyrant]
 
+
+## Trivia (second pass)
+
+- **cosMo@BousouP credited as the module's costume designer**, not only its composer — atypical for Project DIVA, where SEGA normally handles module design in-house. The black peaked cap with teal stripe, CD brooch at the neckline, and cogwheel-framed twin-tail cuffs all carry his design credit. `[Project DIVA Wiki: Factory Tyrant, via WebSearch snippet]`
+- **cosMo biography** — Born 1986 Tokyo. Primary occupation: animator. Music production began 2007, influenced by BEMANI rhythm games (GuitarFreaks, DrumMania). Niconico nickname: "High-Speed Development Miku Master" (compositions typically exceed 200 bpm). "Sadistic.Music∞Factory" is his 56th original Vocaloid work. `[Vocaloid Wiki: cosMo]`
+- **Western release driven by SEGA Twitter campaign** — June 2013 PlayStation Blog post asking fans to like/share for a western PS3 release got 25,000+ likes / 15,000+ shares in three days. Project DIVA F PS3 hit US August 27 2013; Weiss Schwarz English PD/S22 arrived three months later (Nov 2013). `[PlayStation Blog, June 2013]`
+- **Sales / reception** — PD F PS Vita Japan opened #1 with 158,607 first-week copies; ~390K shipped by April 2013. SEGA devs publicly acknowledged budget "may have been too big" — outsold by Persona 4: Golden in the same window. `[SEGAbits, 2012]`
+- **Long commercial tail** — Factory Tyrant module released as SEGA Super Premium (SPM) arcade-prize figure in March 2017 (240mm); added to Project DIVA Arcade Future Tone May 28 2015 — three years past the original game. Japanese title: "Wagamama Koubachou" (literally "Selfish Plant Manager"). `[MyFigureCollection.net]`
+- **Song still culturally active** — Original Niconico upload (Aug 27 2012) ~592K views per Vocaloid Rankings tracker; 2021 V4X YouTube remake crossed 1M views. `[Vocaloid Rankings; VocaDB]`

