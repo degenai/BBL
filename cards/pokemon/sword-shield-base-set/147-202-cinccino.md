@@ -18,18 +18,23 @@ market_price: 0.41
 market_price_as_of: 2026-05-19
 date_added: 2026-05-16
 last_seen: 2026-05-18
-reference_image_source_url: https://images.pokemontcg.io/swshp/SWSH009_hires.png
-art_match_confidence: low
-needs_manual_review: true
+reference_image_source_url: https://images.pokemontcg.io/swsh1/147_hires.png
+art_match_confidence: high
+needs_manual_review: false
 manual_review_reason: Set 'Sword & Shield Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 review_good: false
 review_bad: false
 review_notes: ""
+artist: sui
+flavor_text: Its body secretes oil that this Pokémon spreads over its nest as a coating to protect it from dust. Cinccino won't tolerate even a speck of the stuff.
+oracle_text: "[Ability: Make Do] You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw 2 cards.\\nEnergy Assist (Colorless) 40: Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon."
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon
   - manual-review
-
 ---
 # Cinccino (Sword & Shield Base Set)
 

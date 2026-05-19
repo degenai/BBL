@@ -19,17 +19,22 @@ market_price_as_of: 2026-05-19
 date_added: 2026-05-16
 last_seen: 2026-05-18
 reference_image_source_url: https://images.pokemontcg.io/swsh1/135_hires.png
-art_match_confidence: low
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 manual_review_reason: Set 'Sword & Shield Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 review_good: false
 review_bad: false
 review_notes: ""
+artist: Shin Nagasawa
+flavor_text: This Pokémon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe.
+oracle_text: "Peck (Colorless) 50\\nIron Wings (MetalColorlessColorless) 130: You may discard 2 Energy from this Pokémon. If you do, during your opponent's next turn, this Pokémon takes 100 less damage from attacks (after applying Weakness and Resistance)."
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon
   - manual-review
-
 ---
 # Corviknight (Sword & Shield Base Set)
 

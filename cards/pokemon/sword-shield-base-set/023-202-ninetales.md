@@ -18,19 +18,23 @@ market_price: 0.39
 market_price_as_of: 2026-05-19
 date_added: 2026-05-11
 last_seen: 2026-05-18
-reference_image_source_url: https://images.pokemontcg.io/ru1/3_hires.png
-art_match_confidence: low
-needs_manual_review: true
+reference_image_source_url: https://images.pokemontcg.io/swsh1/23_hires.png
+art_match_confidence: high
+needs_manual_review: false
 manual_review_reason: Set 'Sword & Shield Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
-oracle_text: Flame Tail (FireColorlessColorless) 60
+oracle_text: "Flame Cloak (Fire) 30: Attach a Fire Energy card from your discard pile to this Pokémon.\\nFire Mane (FireColorless) 70"
 review_good: false
 review_bad: false
 review_notes: ""
+artist: Megumi Higuchi
+flavor_text: It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.
+image_width: 600
+image_height: 825
+image_quality: med
 tags:
   - card
   - pokemon
   - manual-review
-
 ---
 # Ninetales (Sword & Shield Base Set)
 

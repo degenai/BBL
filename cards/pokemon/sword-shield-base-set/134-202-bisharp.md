@@ -18,18 +18,23 @@ market_price: 0.11
 market_price_as_of: 2026-05-19
 date_added: 2026-05-14
 last_seen: 2026-05-18
-reference_image_source_url: https://images.pokemontcg.io/xy0/20_hires.png
-art_match_confidence: low
-needs_manual_review: true
+reference_image_source_url: https://images.pokemontcg.io/swsh1/134_hires.png
+art_match_confidence: high
+needs_manual_review: false
 manual_review_reason: Set 'Sword & Shield Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 review_good: false
 review_bad: false
 review_notes: ""
+artist: kawayoo
+flavor_text: Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found.
+oracle_text: "Charge Order (Colorless) 30+: This attack does 30 more damage for each of your Benched Pawniard.\\nSlicing Blade (MetalColorless) 60"
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon
   - manual-review
-
 ---
 # Bisharp (Sword & Shield Base Set)
 

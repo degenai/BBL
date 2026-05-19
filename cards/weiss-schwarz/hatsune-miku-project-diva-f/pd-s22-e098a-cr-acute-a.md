@@ -18,6 +18,21 @@ market_price: 0.35
 market_price_as_of: 2026-05-19
 date_added: 2026-05-17
 last_seen: 2026-05-18
+art_match_confidence: none
+needs_manual_review: true
+manual_review_reason: No reference image found via weiss for set 'Hatsune Miku -Project DIVA- f'
 ---
 
 # ACUTE (A) (Hatsune Miku -Project DIVA- f)
+
+## Vision
+
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+
+
+**Subject:** 
+
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
+

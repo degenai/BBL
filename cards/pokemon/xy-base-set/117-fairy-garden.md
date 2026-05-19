@@ -18,19 +18,22 @@ market_price: 0.31
 market_price_as_of: 2026-05-19
 date_added: 2026-05-07
 last_seen: 2026-05-18
-reference_image_source_url: https://images.pokemontcg.io/xy10/100_hires.png
-art_match_confidence: low
-needs_manual_review: true
+reference_image_source_url: https://images.pokemontcg.io/xy1/117_hires.png
+art_match_confidence: high
+needs_manual_review: false
 manual_review_reason: Set 'XY Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 oracle_text: Each Pokémon that has any Fairy Energy attached to it (both yours and your opponent's) has no Retreat Cost.\nThis card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.
 review_good: false
 review_bad: false
 review_notes: ""
+artist: Ryo Ueda
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon
   - manual-review
-
 ---
 # Fairy Garden (XY Base Set)
 
