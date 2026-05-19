@@ -46,7 +46,7 @@ time_of_day: indeterminate
 setting: indoor
 suspected_ip: Guila (Switching Sides, The Seven Deadly Sins)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 tags:
   - card
   - weiss

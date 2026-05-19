@@ -1,0 +1,77 @@
+{
+  "edge_id": "cell-saga-apparatus--schema-precedent-wikilink-dissolution",
+  "shape": "edge-dissolution",
+  "category": "schema-precedent-wikilink-sweep",
+  "trigger": "User flagged via Obsidian graph view: cell-saga-apparatus shows direct wikilink edge to castform-forms-cycle. Audit traced to the wave-124 nicol-bolas pattern — schema/architectural-template citations rendered as wikilinks instead of backticks. Per bbl-wikilink-vs-backtick-discipline: wikilinks for real-thematic edges only; backticks for schema/architectural-precedent citations.",
+  "precedent": "reports/_scratch/janny_bolas_schema_precedent_sweep.py (wave 124 nicol-bolas sweep across ~25 character nodes); same heuristic phrase-set ('Like [[...]]', 'precedent', 'Modeled as', 'sibling solo-character-node', 'structural-template', 'multi-aspect single-character').",
+  "scope": "single-file dissolution sweep — cards/_characters/cell-saga-apparatus.md only",
+  "endpoints_dissolved": [
+    {"line": 35, "context": "'(distinct from the designer-explicit within-set sub-cycle shape of [[dark-vassal-trio]] and [[wrath-of-the-dragon-saga]])'", "rationale": "cycle-shape contrast template citation — King Piccolo's spat eggs (Dark Vassal Trio) and Hirudegarn saga have no real thematic connection to DBZ Cell-Saga apparatus content. Contrasted as cycle-shape templates only."},
+    {"line": 55, "context": "'(see [[_triple-thesis]] anti-pattern guard)'", "rationale": "doctrinal/architectural reference to the anti-pattern guard node — not a content edge."},
+    {"line": 79, "context": "'Unlike [[dark-vassal-trio]] (...) and [[wrath-of-the-dragon-saga]] (...)'", "rationale": "contrasting cycle-shape templates (shared name prefix, adjacent collector numbers, Bandai saga-tag stamps) — schema-precedent enumeration, not real thematic edges."},
+    {"line": 81, "context": "'unlike the within-set cluster patterns of [[dark-vassal-trio]] (BT4 only) and [[wrath-of-the-dragon-saga]] (BT4 only)'", "rationale": "contrasting cluster-pattern templates (within-set vs cross-set) — schema-precedent contrast, not real thematic edge."},
+    {"line": 85, "context": "USER-FLAGGED: 'Like [[dark-vassal-trio]], [[wrath-of-the-dragon-saga]], [[eld-cinderella-cycle]], [[dsk-unlucky-lands-cycle]], [[fear-of-cycle]], and [[castform-forms-cycle]], this is a designer-coordinated cycle entity hosted on the character layer per the Endriders precedent.'", "rationale": "the exact 'Like [[...]]' peer-listing template-citation pattern from the wave-124 sweep. Six independent designer-coordinated cycles citing each other for architectural-template reasons only. Castform forms (Pokemon weather cycle), Eld Cinderella (MTG fairy-tale cycle), DSK Unlucky Lands (MTG horror cycle), Fear of cycle (MTG mechanic cycle), Dark Vassal (DBZ Piccolo spawn cycle), Hirudegarn saga (DBZ saga-tag cycle) — none are thematically connected to DBZ Cell-Saga apparatus content. The 'per the Endriders precedent' phrase is the schema-trigger giveaway. Six independent cycles SHOULD NOT graph-edge each other just because they share the cycle-node template."},
+    {"line": 87, "context": "'Per the Bolas-cluster precedent (3-card minimum for a solo character node) and the threshold-relaxed precedents at [[acerola]] (1 anchor) and [[master-roshi]] (2 anchors)'", "rationale": "Acerola (Pokemon Alola Elite Four trainer) and Master Roshi have zero thematic relation to Cell-Saga apparatus. Cited purely as threshold-policy precedents for sub-threshold solo character node commissioning. Same schema-precedent pattern."},
+    {"line": 91, "context": "'$5.00 floor per `[[bbl-bundle-pricing-codified]]`' + 'Multi-copy-bundle pricing per `[[bbl-multi-copy-bundles]]`'", "rationale": "memory-doc architectural references; already wrapped in backticks but the embedded wikilink syntax still potentially registers in graph parsers. Normalized to pure-backtick `slug-name` form per wave-124 final discipline."},
+    {"line": 95, "context": "'[[dark-vassal-trio]] — sibling designer-coordinated three-card cycle precedent at the character layer'", "rationale": "explicit 'sibling...precedent' schema phrase. See-also section enumerates structural-template siblings, not thematic peers."},
+    {"line": 97, "context": "'[[wrath-of-the-dragon-saga]] — sibling designer-coordinated cycle-node at the character layer'", "rationale": "explicit 'sibling...cycle-node at the character layer' schema phrase. Hirudegarn Saga is a different DBZ arc with no thematic Cell-Saga connection beyond shared character-layer hosting."},
+    {"line": 109, "context": "'micro-bundle at the $5.00 floor per `[[bbl-bundle-pricing-codified]]`'", "rationale": "memory-doc backtick-wrapped wikilink. Normalized to pure-backtick form."}
+  ],
+  "endpoints_preserved": [
+    {"line": 61, "wikilink": "[[bt3-067-dr-gero-evil-s-inventor]]", "rationale": "auto-generated appears_on card link. REAL."},
+    {"line": 62, "wikilink": "[[bt3-070-dawn-of-terror-android-13-2018]]", "rationale": "auto-generated appears_on card link. REAL."},
+    {"line": 63, "wikilink": "[[bt2-087-uncountable-many-cell-jr]]", "rationale": "auto-generated appears_on card link. REAL."},
+    {"line": 89, "wikilink": "(none — already backticked-as-reference)", "rationale": "L89 caveat discusses son-gohan via cross-edge but reads as prose reference; no wikilink in this caveat."},
+    {"line": 99, "wikilink": "[[son-gohan]]", "rationale": "REAL canonical Cell-Games adversary-coupling. Gohan's SSJ2 transformation was triggered by the Cell Jr. cohort rampage (BT2-087). This is a real canonical event-edge, identical preservation reasoning to the wave-124 kaya.md line 117 preservation (canonical adversarial-sibling)."},
+    {"line": 101, "wikilink": "[[namekian]]", "rationale": "REAL canonical Cell-Saga participation. Piccolo (Namekian) fused with Kami pre-Cell-Saga and is a canonical Cell-Games combatant. Borderline case — 'sibling race-collective node' is schema framing but the substantive content (Piccolo's Cell-Saga combat operations) is real-thematic. Preserved per the wave-124 bardock-line-141 precedent for borderline cross-universe parallels with real-thematic substrate."},
+    {"line": 103, "wikilink": "[[labor]]", "rationale": "REAL hub-layer relation declared in frontmatter (related_hubs: [labor])."},
+    {"line": 103, "wikilink": "[[macro-cosmos]] + [[phyrexia]]", "rationale": "REAL cross-franchise apparatus-of-extraction curatorial pairings. The three nodes are explicitly identified in BBL's labor-hub triple-thesis as the cross-franchise mass-warrior-production cousins. Identical role to the wave-124 bardock cross-universe structural-parallel preservation."},
+    {"line": 105, "wikilink": "[[phyrexia]] + [[macro-cosmos]]", "rationale": "REAL cross-franchise apparatus-of-extraction curatorial pairings (full-paragraph elaboration of L103's pairings). Substantive thematic edge: Phyrexian biomechanical-warrior-mass-production substrate is the Magic-side parallel to Red Ribbon Army Android program. PRESERVE."},
+    {"line": 107, "wikilink": "[[Bulk Graph Bundler]]", "rationale": "project root link, conventional across all character nodes. Standard convention preservation."},
+    {"line": 109, "wikilink": "[[son-gohan]]", "rationale": "REAL canonical Cell-Games adversary-coupling reference in future-bundle reservation. Same justification as L99."}
+  ],
+  "files_modified": [
+    "cards/_characters/cell-saga-apparatus.md"
+  ],
+  "edits_summary": {
+    "total_wikilinks_dissolved": 16,
+    "total_wikilinks_preserved": 11,
+    "lines_touched": [35, 55, 79, 81, 85, 87, 91, 95, 97, 109]
+  },
+  "graph_impact": {
+    "edges_removed_from_obsidian_graph": [
+      "cell-saga-apparatus -> castform-forms-cycle (user-flagged primary)",
+      "cell-saga-apparatus -> eld-cinderella-cycle",
+      "cell-saga-apparatus -> dsk-unlucky-lands-cycle",
+      "cell-saga-apparatus -> fear-of-cycle",
+      "cell-saga-apparatus -> dark-vassal-trio (4 separate lines: 35, 79, 81, 85, 95)",
+      "cell-saga-apparatus -> wrath-of-the-dragon-saga (4 separate lines: 35, 79, 81, 85, 97)",
+      "cell-saga-apparatus -> _triple-thesis",
+      "cell-saga-apparatus -> acerola",
+      "cell-saga-apparatus -> master-roshi",
+      "cell-saga-apparatus -> bbl-bundle-pricing-codified (2 lines)",
+      "cell-saga-apparatus -> bbl-multi-copy-bundles"
+    ],
+    "real_thematic_edges_intact": [
+      "cell-saga-apparatus -> son-gohan (Cell-Games adversary-coupling)",
+      "cell-saga-apparatus -> namekian (Piccolo Cell-Saga participation)",
+      "cell-saga-apparatus -> labor (hub-layer)",
+      "cell-saga-apparatus -> macro-cosmos (cross-franchise apparatus-of-extraction)",
+      "cell-saga-apparatus -> phyrexia (cross-franchise apparatus-of-extraction)",
+      "cell-saga-apparatus -> 3 appears_on card links"
+    ]
+  },
+  "rule_codified": {
+    "name": "Cycle-node-as-template-citation discipline (extends bbl-wikilink-vs-backtick-discipline)",
+    "statement": "Designer-coordinated cycle nodes (cells of cards-grouped-by-Bandai-saga-tag, MTG-cycle-mechanic, Pokemon-form-rotation, etc.) hosted on the character layer are independent of each other. Two cycle nodes share the character-layer-hosting TEMPLATE but DO NOT share content. When citing another cycle node as a structural precedent ('Like X, this is a designer-coordinated cycle entity hosted on the character layer per the Endriders precedent'), use backticks not wikilinks. The Endriders precedent itself is a template not a thematic anchor. Cross-cycle wikilinks should exist ONLY when the cycles share canonical thematic substrate (e.g. two Pokemon weather cycles, two MTG faction cycles, two DBZ-saga cycles within the same arc).",
+    "applies_to": "all cycle-node bodies; specifically the 6 cycle nodes in the dissolved L85 enumeration (dark-vassal-trio, wrath-of-the-dragon-saga, eld-cinderella-cycle, dsk-unlucky-lands-cycle, fear-of-cycle, castform-forms-cycle) — these 6 are independent cycle entities and should not graph-edge each other.",
+    "doctrinal_anchor": "bbl-wikilink-vs-backtick-discipline (parent rule); wave-124 nicol-bolas sweep (analogous precedent for single-character-node template-citation pattern)."
+  },
+  "next_pass_suggestions": [
+    "Audit the OTHER 5 cycle nodes (dark-vassal-trio, wrath-of-the-dragon-saga, eld-cinderella-cycle, dsk-unlucky-lands-cycle, fear-of-cycle, castform-forms-cycle) for symmetric schema-precedent wikilinks pointing back at cell-saga-apparatus and at each other. Likely the same 'Like [[...]]' peer-listing pattern was propagated. A follow-up Edgelord-dissolution pass should sweep all 6 in parallel using the same heuristic.",
+    "Consider productionizing the wave-124 janny_bolas_schema_precedent_sweep.py script as a general-purpose cycle-node-template-citation sweep (parameterized by cycle-node-slug list), to run as a one-shot janny against the full character-layer corpus.",
+    "Audit son-gohan.md, namekian.md, phyrexia.md, macro-cosmos.md for symmetric back-edges to cell-saga-apparatus — these SHOULD exist as wikilinks (real thematic edges). If missing, mirror-sync follow-up."
+  ],
+  "edgelord_mood": "enlightened-corrective",
+  "comic_book_guy_note": "Worst graph-edge ever. Six independent cycle nodes peer-listing each other because they share a hosting template — that is a SCHEMA EDGE not a CONTENT EDGE. The wave-124 sweep already established the rule; this is the same disease, character-layer cycle-node sub-strain. User caught it via the mobile graph view, which is now the second canonical pattern-detection surface (after the first wave-124 case). Backtick discipline holds. The Endriders precedent does not entitle two unrelated cycles to a wikilink."
+}
