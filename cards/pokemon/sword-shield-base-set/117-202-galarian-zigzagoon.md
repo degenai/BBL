@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - punk
+  - chaos
+  - black-and-white
+  - wild
+  - teeth
+  - speed
+  - regional-form
+  - galarian
+  - creature
+  - aggression
+  - animal
+  - stripe
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action
+  - creature-dark
+  - no-face
 reference_image: cards/_images/pokemon/sword-shield-base-set/117-202-galarian-zigzagoon.png
 average_cost_paid: 0
 market_price: 0.12
@@ -31,6 +49,12 @@ artist: kirisAki
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: other
+suspected_ip: Galarian Zigzagoon
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
@@ -40,12 +64,21 @@ tags:
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![117-202-galarian-zigzagoon](../../_images/pokemon/sword-shield-base-set/117-202-galarian-zigzagoon.png)
 
+> [!warning] Suspected IP: **Galarian Zigzagoon** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
-**Subject:** 
+A small, energetic black-and-white Pokemon charges forward against a bright, motion-blurred background. Its fur is strikingly patterned in high-contrast black and white jagged stripes that give it a spiky, chaotic silhouette. The mouth is wide open, showing teeth, and the expression reads as wild and aggressive — a stark departure from the more laid-back original Zigzagoon. The background is a burst of blue-white light suggesting fast movement. The overall effect is punk energy rendered in a compact creature design. The composition captures the creature mid-action.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Subject:** Galarian Zigzagoon, the Galar regional form of Zigzagoon — a small black-and-white striped weasel or raccoon-like Pokemon with a spiky jagged coat, wild wide-open mouth, and an aggressive punk-energy posture
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** other, indeterminate
+**Foreground:** Small black-and-white spiky-furred creature in aggressive forward motion, mouth open  *(palette: black, white, cream)*
+**Background:** Motion-blurred bright blue-white burst, suggesting speed or impact  *(palette: blue, white, light-grey)*
+**Mood / lighting:** action, backlit
+**Emotion read:** wild, aggressive, frenzied — wide-open mouth, chaotic energy
+**Creatures:** weasel, raccoon, small-mammal
+**Genre cues:** anime, fantasy, creature-design
 

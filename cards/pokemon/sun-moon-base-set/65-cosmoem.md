@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - space
+  - cosmic
+  - stars
+  - cocoon
+  - dormancy
+  - transformation
+  - light
+  - jewel
+  - gold
+  - void
+  - celestial
+  - mythic
+tags_filter:
+  - solo
+  - close-up
+  - forward-facing
+  - abstract
+  - no-face
+  - creature-psychic
 reference_image: cards/_images/pokemon/sun-moon-base-set/65-cosmoem.png
 average_cost_paid: 0
 market_price: 0.2
@@ -31,6 +49,12 @@ artist: Sanosuke Sakuma
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: sublime
+time_of_day: night
+setting: space
+suspected_ip: Cosmoem
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
@@ -40,12 +64,23 @@ tags:
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![65-cosmoem](../../_images/pokemon/sun-moon-base-set/65-cosmoem.png)
 
+> [!warning] Suspected IP: **Cosmoem** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
-**Subject:** 
+A small, jewel-like Pokemon floats at the center of a dramatic cosmic explosion of light. The creature itself is a compact dark orb encircled by a golden ring, with small ornate golden protrusions radiating outward like prongs or stylized wings. Small blue accents tip the extremities. The background is a vivid starburst of purple, gold, pink, and white light — suggesting deep space or a cosmic event. The overall impression is of a luminous, dormant cosmic artifact suspended in the void. The card radiates celestial grandeur despite the creature's small size.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Subject:** Cosmoem, a small spherical Pokemon resembling a cosmic cocoon or jewel — a dark orb ringed with a golden halo, small golden prongs or wing-like points radiating outward, set against a brilliant starburst of cosmic light
+
+**Composition:** close-up, abstract, figures: solo, facing: forward
+**Setting:** space, night
+**Foreground:** Small golden-ringed spherical creature with radiating prongs, dark central orb  *(palette: gold, dark-purple, blue, white)*
+**Background:** Cosmic starburst explosion of light — purple, gold, pink, and white gradients  *(palette: purple, gold, pink, white, magenta)*
+**Mood / lighting:** sublime, backlit
+**Emotion read:** serene and dormant — motionless at the center of a cosmic storm
+**Objects:** orb, halo, ring
+**Creatures:** cosmic-entity, cocoon-form
+**Iconography:** starburst, cosmic-ring, golden-halo
+**Genre cues:** anime, sci-fi, cosmic, fantasy
 

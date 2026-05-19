@@ -29,6 +29,7 @@ related_characters:
   - saiyan
   - son-goku
   - xenoverse-villains
+  - frieza-force
 ip_resolution_for:
   - Bardock
   - Xeno Bardock
@@ -138,7 +139,7 @@ This is what BBL's bundle copy can lean on without inventing canon: Bardock is t
 
 - [[rebellion]] — secondary BBL hub compatible with the Bardock canonical last-stand thesis. Bardock's canonical 1990-TV-special last-stand against Frieza is the franchise's canonical *one-worker-versus-the-Emperor* solo-rebellion-against-the-employer-empire narrative-arc — structurally parallel to the canonical *Topple the Statue* / *Despark* WAR-era Bolas-Falls rebellion-narrative beats anchored at [[nicol-bolas]]. The [[rebellion]] hub attaches here in `related_hubs:`; bundle copy that wants the rebellion-hub axis can foreground the *worker-organizes-against-employer-then-confronts-Emperor-alone* canonical apparatus.
 
-- [[nicol-bolas]] — cross-universe structural-parallel character-node. The Bolas-Falls cluster (Topple the Statue + Despark + Prison Realm) anchors the canonical *tyrant-god toppled by his former-slave* MTG-side WAR-era apparatus-of-extraction thesis; this Bardock node anchors the canonical *worker-killed-by-Emperor-during-preemptive-genocide-of-workforce* Dragon-Ball-side apparatus-of-extraction thesis. Structural-inverse pairing: Bolas is the *Emperor-toppled-by-his-workers* perpetrator; Bardock is the *worker-killed-by-his-Emperor* victim. Available for cross-franchise apparatus-of-extraction bundle copy that wants both the perpetrator-toppled and the victim-killed sides of the canonical employer-empire-extraction thesis.
+- `nicol-bolas` — cross-universe structural-parallel character-node. The Bolas-Falls cluster (Topple the Statue + Despark + Prison Realm) anchors the canonical *tyrant-god toppled by his former-slave* MTG-side WAR-era apparatus-of-extraction thesis; this Bardock node anchors the canonical *worker-killed-by-Emperor-during-preemptive-genocide-of-workforce* Dragon-Ball-side apparatus-of-extraction thesis. Structural-inverse pairing: Bolas is the *Emperor-toppled-by-his-workers* perpetrator; Bardock is the *worker-killed-by-his-Emperor* victim. Available for cross-franchise apparatus-of-extraction bundle copy that wants both the perpetrator-toppled and the victim-killed sides of the canonical employer-empire-extraction thesis.
 
 - [[Bulk Graph Bundler]] — the project this character node serves.
 

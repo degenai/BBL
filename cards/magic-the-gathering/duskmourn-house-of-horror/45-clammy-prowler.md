@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - flood
+  - horror
+  - monster
+  - creature
+  - red-glow
+  - underwater
+  - darkness
+  - predator
+  - dungeon
+  - bioluminescence
+  - skull
+  - lurking
+tags_filter:
+  - solo
+  - forward-facing
+  - wide
+  - scene-mode
+  - blue-magic
+  - creature-horror
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/45-clammy-prowler.png
 average_cost_paid: 0
 market_price: 0.14
@@ -30,7 +48,30 @@ image_width: 745
 image_height: 1040
 image_quality: high
 mana_cost: "{3}{U}"
+mood: horror
+time_of_day: indeterminate
+setting: dungeon
 tags:
   - card
 ---
 # Clammy Prowler (Duskmourn: House of Horror)
+
+## Vision
+
+![45-clammy-prowler](../../_images/magic-the-gathering/duskmourn-house-of-horror/45-clammy-prowler.png)
+
+A hulking creature dominates the frame, its body low and spread wide as it crouches in shallow water. The form is heavily scaled in dark charcoal and near-black, with multiple thick limbs splayed outward and prominent dorsal spines running down its back. The face is partially skeletal or hollow-eyed, almost skull-like, oriented downward. At the creature's chest and underbelly a burning crimson-red light radiates outward in a circular wash, reflecting vividly on the surrounding water surface. The background is a deep cool blue suggesting a flooded architectural space — faint rectangular shapes or walls are barely visible through the murk. No humanoid figures are present.
+
+**Subject:** A massive multi-limbed dark-scaled aquatic creature crouching in flooded shallows, emitting a vivid crimson bioluminescent glow from its chest cavity
+
+**Composition:** wide, action, figures: solo, facing: forward
+**Setting:** dungeon, ruined, indeterminate
+**Foreground:** Creature crouching in shallow water, crimson light reflecting on the water surface  *(palette: crimson, dark-charcoal, near-black)*
+**Background:** Deep blue flooded architecture, dim rectangular shapes in the murk  *(palette: deep-blue, teal, near-black)*
+**Mood / lighting:** horror, chiaroscuro
+**Emotion read:** predatory, crouched and menacing
+**Objects:** water, flooded-floor
+**Creatures:** multi-limbed-scaled-creature, aquatic-horror
+**Iconography:** crimson-glow, skull-face, dorsal-spines
+**Genre cues:** horror, fantasy, dark-fantasy
+

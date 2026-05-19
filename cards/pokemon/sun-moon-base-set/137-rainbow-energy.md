@@ -18,19 +18,21 @@ market_price: 0.31
 market_price_as_of: 2026-05-17
 date_added: 2026-05-11
 last_seen: 2026-05-17
-reference_image_source_url: https://images.pokemontcg.io/pop5/4_hires.png
-art_match_confidence: low
-needs_manual_review: true
+reference_image_source_url: https://images.pokemontcg.io/sm1/137_hires.png
+art_match_confidence: high
+needs_manual_review: false
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
-oracle_text: Double Rainbow Energy can be attached only to an Evolved Pokémon (excluding Pokémon-ex). While in play, Double Rainbow Energy provides every type of Energy but provides 2 Energy at a time. (Has no effect other than providing Energy.) Damage done to your opponent's Pokémon by the Pokémon Double Rainbow Energy is attached to is reduced by 10 (before applying Weakness and Resistance). When the Pokémon Double Rainbow Energy is attached to is no longer an Evolved Pokémon, discard Double Rainbow Energy.
+oracle_text: This card provides Colorless Energy. While in play, this card provides every type of Energy but provides only 1 Energy at a time. When you attach this card from your hand to 1 of your Pokémon, put 1 damage counter on that Pokémon.
 review_good: false
 review_bad: false
 review_notes: ""
+image_width: 600
+image_height: 825
+image_quality: med
 tags:
   - card
   - pokemon
   - manual-review
-
 ---
 # Rainbow Energy (Sun & Moon Base Set)
 

@@ -1,0 +1,41 @@
+{
+  "card_name": "Royal Guard - Octopus Soldier",
+  "game": "Lorcana",
+  "set": "Reign of Jafar",
+  "collector_number": "52/204",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag was set on this card. Research identified it as Emperor's New Groove franchise — the octopus guard is based on the potion-transformation scene in the 2000 film. No external crossover IP risk (internal Disney property).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Classified under The Emperor's New Groove franchise (not Aladdin). The octopus guard references the film's climactic potion scene where Yzma's palace guards are accidentally transformed into animals — one becoming an octopus that pursues Kuzco and Pacha wielding axes.",
+      "sources": ["Disney Wiki: Incan Palace Guards", "TV Tropes: The Emperor's New Groove", "quotes.net mquote/1191073"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Reign of Jafar (set 8, 2025) concludes Lorcana's second story arc — Jafar uses the Hexwell Crown to seize Archazia's Island and fill it with guards and automatons. Emperor's New Groove characters appear alongside the Aladdin-centric set narrative; Lorcana regularly mixes franchises within sets.",
+      "sources": ["LorcanaPlayer.com Reign of Jafar overview", "TCGPlayer set article"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Cost 1, Strength 1, Willpower 2, Amethyst Common. HEAVILY ARMED grants Challenger +1 whenever you draw a card. At 1-cost base, rewards draw-heavy Amethyst builds — each card drawn increases combat threat for that turn.",
+      "sources": ["LorcanaPlayer.com card review", "Lorcana-api.com"]
+    },
+    {
+      "category": "design",
+      "text": "HEAVILY ARMED is a pun on the octopus's multiple arms, with the art showing all tentacles wielding hammers simultaneously. 'Royal Guard' without a personal name is consistent with depicting a generic transformed palace guard rather than a named character.",
+      "sources": ["Card oracle text", "art description"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kuzco - Wanted Llama", "set": "various Lorcana sets", "note": "Emperor's New Groove protagonist; same franchise"},
+    {"name": "Yzma", "set": "various Lorcana sets", "note": "Villain who orders the guards; responsible for the potion transformation"},
+    {"name": "Kronk", "set": "various Lorcana sets", "note": "Yzma's henchman; Emperor's New Groove franchise companion"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

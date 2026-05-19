@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - spiky
+  - armor
+  - nest
+  - underground
+  - creature
+  - thorns
+  - metal
+  - vines
+  - defensive
+  - steel
+  - coiled
+  - roots
+tags_filter:
+  - solo
+  - forward-facing
+  - mid-shot
+  - portrait-mode
+  - creature-grass
+  - creature-steel
 reference_image: cards/_images/pokemon/vivid-voltage/124-185-ferrothorn.png
 average_cost_paid: 0
 market_price: 0.04
@@ -27,8 +45,37 @@ oracle_text: "Swift Swing (Metal) 30×: This attack does 30 damage for each Meta
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: grim
+time_of_day: indeterminate
+setting: forest
+suspected_ip: Ferrothorn
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
 ---
 # Ferrothorn (Vivid Voltage)
+
+## Vision
+
+![124-185-ferrothorn](../../_images/pokemon/vivid-voltage/124-185-ferrothorn.png)
+
+> [!warning] Suspected IP: **Ferrothorn** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+Ferrothorn occupies the center of the frame, its round armored body ringed by multiple long green vine-like tendrils that terminate in sharp metallic tips. It rests in a circular nest of twisted roots and dark brown woody matter. The body is grey-green with a textured segmented surface and large glowing yellow-green eyes. The surrounding environment is dark and earthy, with organic curved shapes framing the creature. The overall palette is muted greens, dark browns, and grey, with the eyes providing a bright accent.
+
+**Subject:** Ferrothorn, a spiny steel-and-grass-type Pokémon resembling an iron ball covered in spike-tipped vine tendrils, coiled in a nest of tangled roots and vines
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** forest, indeterminate
+**Foreground:** Ferrothorn's spiked vine tendrils spread outward across a nest of twisted roots  *(palette: grey-green, dark-brown, yellow-green)*
+**Background:** Dark earthy organic forms, tangled roots and woody matter  *(palette: dark-brown, olive-green, charcoal)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** still and watchful, eyes alert
+**Objects:** nest, roots, vines
+**Creatures:** ferrothorn
+**Iconography:** spikes, metallic-tendrils
+**Genre cues:** anime, fantasy, creature-design
+

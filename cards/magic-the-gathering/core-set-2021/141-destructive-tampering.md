@@ -76,3 +76,15 @@ A figure in red garb stands on a stone outcropping mid-gesture, one arm raised t
 **Iconography:** explosion, sabotage gesture
 **Genre cues:** fantasy, steampunk-adjacent
 
+## Trivia
+
+- **Set context / origin** — Destructive Tampering was first printed in Aether Revolt (AER, January 2017) — the second set of the Kaladesh block, set during the renegade uprising against the Consulate's monopoly on aether. The card's flavor text names "Karavin, renegade saboteur," placing this figure within the rebel faction resisting the Consulate. Karavin has no other named appearances in MTG canon — this flavor line is the character's sole record. `[Scryfall: set aer, released_at 2017-01-20; flavor_text field]`
+- **Flavor text** — "I don't think they'll appreciate my . . . adjustments." — Karavin, renegade saboteur `[Scryfall: flavor_text field]`. The ellipsis and deadpan understatement ("adjustments") over a visible explosion read as deliberate comic contrast — the renegade's affect is calm while the machinery behind them is not.
+- **Reprint history** — Six total printings: Aether Revolt (AER, January 2017), Game Night 2019 (GN2, November 2019), The List (PLST, November 2019), Core Set 2021 (M21, July 2020), Kaladesh Remastered (KLR, November 2020), Jumpstart 2022 (J22, December 2022). The six-print run reflects consistent Wizards judgment that the card is a useful common-level utility for introductory and casual products. `[Scryfall: prints search — all six printings]`
+- **Mechanical profile** — Modal sorcery: destroy target artifact OR prevent non-flying creatures from blocking this turn. EDHREC rank 17,887 — rarely included in Commander but functional in Pauper and Pauper Commander (both modes are relevant at that power level). Legal in Pauper, Modern, Pioneer, Legacy, and Commander. Artist: Titus Lunter. `[Scryfall: edhrec_rank 17887, legalities, artist field]`
+
+### Related cards
+- Shatter (Alpha onward, various) — the red artifact-destruction baseline; Destructive Tampering adds a second mode at +1 mana total
+- Wrangle (Aether Revolt, AER) — set-mate renegade-faction common from AER's saboteur design space; different mode (temporary creature theft)
+- Pia Nalaar (Kaladesh, KLD) — one of the named renegade faction leaders in the Kaladesh block where Karavin's saboteur role is set
+

@@ -73,3 +73,17 @@ A sweeping wide-angle view of a colossal structure — its lower half composed o
 **Iconography:** floating islands, Emeria architecture
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Battle for Zendikar (BFZ) released October 2, 2015 — Wizards' return to the Zendikar plane after the original block (2009–2010), depicting survivors defending the plane from the awakened Eldrazi titans Ulamog and Kozilek. The Retreat cycle in this set — five modal Landfall enchantments, one per color — represents the surviving factions digging in and fortifying as the Eldrazi advance. `[Scryfall: set bfz, released_at 2015-10-02]`
+- **Lore context** — Emeria is the Merfolk goddess of sky, wind, and clouds on Zendikar; the Kor call the same figure Kamsa, their goddess of the wind. Both deity identities trace back to corrupted memories of Emrakul, the largest Eldrazi titan. The physical "Emeria, the Sky Ruin" is a Skyclave above Tazeem that Merfolk believed was the goddess's former dwelling — the archangel Iona was said to have descended from it to battle the Eldrazi, leaving the ruin unguarded. `[MTG Wiki: Emeria, via WebSearch snippet; Archive Trap: The World of Zendikar, MTGSalvation]`
+- **Mechanical reputation** — Retreat to Emeria is a modal Landfall enchantment: create a 1/1 white Kor Ally token or give all your creatures +1/+1 until end of turn. EDHREC rank 5,960 places it in mid-tier Commander inclusion — most frequently in white-based Kor tribal and Landfall token strategies. Legal in Pioneer, Modern, Legacy, Vintage, and Commander. `[Scryfall: edhrec_rank 5960, legalities]`
+- **Design** — Printed three times: Battle for Zendikar (BFZ, October 2015), The List (PLST, November 2019), and Zendikar Rising Commander (ZNC, September 2020) — the ZNC inclusion signals Wizards' continued assessment of the card as Commander-viable in Zendikar-themed builds. Artist: Kieran Yanner. `[Scryfall: prints search all three printings]`
+
+### Related cards
+- Emeria, the Sky Ruin (Zendikar, ZEN) — the land card named for the same mythological location; Plains-count-based reanimation engine
+- Emeria Shepherd (Battle for Zendikar, BFZ) — white Landfall creature that shares the Emeria goddess iconography and reanimation theme
+- Retreat to Kazandu (Battle for Zendikar, BFZ) — Green sister in the Retreat cycle; Landfall for life gain or +1/+1 counter
+- Retreat to Coralhelm (Battle for Zendikar, BFZ) — Blue sister; famous as a two-card infinite combo with Knight of the Reliquary
+- Iona, Shield of Emeria (Shards of Alara, ALA) — the archangel said to descend from Emeria; canonical lore anchor for the Sky Ruin location
+

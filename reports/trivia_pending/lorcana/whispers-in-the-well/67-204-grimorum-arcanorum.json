@@ -1,0 +1,42 @@
+{
+  "card_name": "Grimorum Arcanorum",
+  "game": "Lorcana",
+  "set": "Whispers in the Well",
+  "collector_number": "67/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is identical to the source artifact. Oracle text explicitly names 'Demona' (a named Gargoyles character) and Ravensburger classifies the card under the Gargoyles franchise. Gold serpent embossing on the depicted book matches the Grimorum's canonical visual design as described in Gargoyles lore. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Grimorum Arcanorum is the most powerful book of mortal spells in the Gargoyles universe, written during the reign of Caesar Augustus (27 BC–AD 14) and possibly containing spells contributed by Merlin. It was destroyed when the Archmage absorbed it and was himself destroyed by Goliath.",
+      "sources": ["GargWiki: Grimorum Arcanorum", "Disney Wiki: The Grimorum Arcanorum"]
+    },
+    {
+      "category": "set-lore",
+      "text": "CELERITAS (grant Rush to characters named Demona) encodes the show's most significant Grimorum plot: Demona used the book to zombie-enslave Goliath and later conspired with Macbeth to steal it under the Weird Sisters' influence.",
+      "sources": ["Gargoyles Wiki: Grimorum Arcanorum", "Gargoyles Wiki: Demona"]
+    },
+    {
+      "category": "design",
+      "text": "Rare Amethyst Item, cost 3, no combat stats. DOCTRINA ADDUCERE (gain 1 lore when opposing character exerts) + CELERITAS (Demona gains Rush) creates a passive engine that rewards opponent's exertion while buffing the Demona centerpiece.",
+      "sources": ["LorcanaPlayer.com card review", "Lorcana-api.com"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Among Gargoyles artifacts, the Grimorum is uniquely central — it set the entire series' events in motion (the sleep spell, the awakening, Demona's betrayal). Its inclusion in the first Gargoyles Lorcana set signals it as a keystone of the franchise's in-game identity.",
+      "sources": ["GargWiki: Grimorum Arcanorum"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Demona - Scourge of the Wyvern Clan", "set": "Whispers in the Well", "note": "Explicitly named in CELERITAS ability; primary beneficiary"},
+    {"name": "Goliath - Guardian of Castle Wyvern", "set": "Whispers in the Well", "note": "In inventory (119/204); Grimorum's most prominent victim"},
+    {"name": "Hudson - Determined Reader", "set": "Whispers in the Well", "note": "In inventory (180/204); clan member"},
+    {"name": "Demona - Betrayer of the Clan", "set": "Whispers in the Well", "note": "Alternate Demona version confirmed in reveals"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

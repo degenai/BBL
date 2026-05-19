@@ -108,7 +108,7 @@ This is what BBL's bundle copy can lean on without inventing canon: the destroye
 
 ## Caveats
 
-- **Beerus solo node deferred.** Beerus has one corpus print (BT1-042), below the three-anchor solo-character-node commission threshold per the precedent set by [[nicol-bolas]] (3 corpus anchors at commission). A future Beerus-solo-node commission would activate at three corpus prints.
+- **Beerus solo node deferred.** Beerus has one corpus print (BT1-042), below the three-anchor solo-character-node commission threshold per the precedent set by `nicol-bolas` (3 corpus anchors at commission). A future Beerus-solo-node commission would activate at three corpus prints.
 
 - **Whis solo node deferred.** Whis has one corpus print (BT1-043), below the solo-character threshold. A future Whis-solo-node commission would activate at three corpus prints.
 

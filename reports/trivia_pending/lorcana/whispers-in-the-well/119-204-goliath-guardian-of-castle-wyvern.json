@@ -1,0 +1,43 @@
+{
+  "card_name": "Goliath - Guardian of Castle Wyvern",
+  "game": "Lorcana",
+  "set": "Whispers in the Well",
+  "collector_number": "119/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, Gargoyle type-line in oracle text, and Ravensburger official Gargoyles franchise classification all confirm this is canonically Goliath from Disney's Gargoyles (1994). Blue-purple coloring and castle rooftop setting match the character's iconic appearance.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Whispers in the Well (set 10, November 14 2025) marks the Gargoyles franchise's first appearance in Disney Lorcana. The set introduces 12 Gargoyles characters alongside Darkwing Duck as the set's headline franchises.",
+      "sources": ["Ravensburger CASE FILE #1 — disneylorcana.com", "LorcanaPlayer.com set overview"]
+    },
+    {
+      "category": "design",
+      "text": "The shared STONE BY DAY drawback (characters can't ready with 3 or more cards in hand) directly translates the show's core premise into mechanics. GamesRadar noted it 'turns a foundational piece of lore from the animated series into tangible mechanics that are more than just fluff.'",
+      "sources": ["GamesRadar preview — gamesradar.com", "LorcanaFr X/@LorcanaFr"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Cost 4, Strength 5, Willpower 5, Ruby, 1 lore. BE CAREFUL ALL OF YOU triggers 1 lore whenever any Gargoyle character challenges, making this the lore-engine centerpiece in Ruby-Steel Gargoyles builds. Pair with Tinker Bell: Insistent Fairy as early-game enabler.",
+      "sources": ["LorcanaPlayer.com card review", "gamingtrend.com Ruby Steel Gargoyles deckbuilding guide"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In source canon, Goliath was named by Castle Wyvern's humans (biblical giant reference) due to his 6 ft. 10 in., 400 lb. stature — gargoyles did not have a naming tradition. He led the Wyvern Clan in 994 Scotland before being frozen for 1,000 years.",
+      "sources": ["GargWiki: Goliath", "Disney Wiki: Goliath"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Demona - Scourge of the Wyvern Clan", "set": "Whispers in the Well", "note": "Legendary villain; Grimorum Arcanorum gives her Rush"},
+    {"name": "Hudson - Determined Reader", "set": "Whispers in the Well", "note": "Elder clanmate; in inventory (180/204)"},
+    {"name": "Grimorum Arcanorum", "set": "Whispers in the Well", "note": "Gargoyles item card; in inventory (67/204); Demona synergy"},
+    {"name": "Goliath - Clan Leader", "set": "Whispers in the Well", "note": "Alternate Enchanted version of same character"},
+    {"name": "Lexington - Small in Stature", "set": "Whispers in the Well", "note": "Clan member confirmed in GamesRadar preview"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

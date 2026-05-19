@@ -27,6 +27,7 @@ related_symbols: []
 related_characters:
   - son-goku
   - trunks
+  - frieza-force
 ip_resolution_for: vegeta
 tags:
   - layer
@@ -98,7 +99,7 @@ This is what BBL's bundle copy can lean on without inventing canon: Vegeta is, c
 
 ## Caveats
 
-- **One parent, multiple narrative phases, no premature solo split (yet).** Following the [[son-goku]] precedent from this same wave's E2 pass (single character node with multi-incarnation roster covering Childhood / Z / GT / DBS adult incarnations under one parent), the [[trunks]] precedent (single character node with multi-incarnation roster covering Future / GT / Xeno / Kid incarnations), and the [[tamiyo]] / [[nicol-bolas]] multi-aspect single-character precedents, the canonical move is one parent Vegeta node anchoring all canonical narrative phases. The current 3-corpus-anchor density (Battle of Gods SS / Buu-Saga Majin / Future Trunks Saga SS Blue) meets the multi-aspect parent-node threshold without crossing the solo-split-per-phase threshold. A future split could partition the parent into `vegeta-z` / `vegeta-majin` / `vegeta-dbs` solo sub-nodes if the corpus accumulates enough per-phase density to warrant the split. For now the parent holds.
+- **One parent, multiple narrative phases, no premature solo split (yet).** Following the [[son-goku]] precedent from this same wave's E2 pass (single character node with multi-incarnation roster covering Childhood / Z / GT / DBS adult incarnations under one parent), the [[trunks]] precedent (single character node with multi-incarnation roster covering Future / GT / Xeno / Kid incarnations), and the [[tamiyo]] / `nicol-bolas` multi-aspect single-character precedents, the canonical move is one parent Vegeta node anchoring all canonical narrative phases. The current 3-corpus-anchor density (Battle of Gods SS / Buu-Saga Majin / Future Trunks Saga SS Blue) meets the multi-aspect parent-node threshold without crossing the solo-split-per-phase threshold. A future split could partition the parent into `vegeta-z` / `vegeta-majin` / `vegeta-dbs` solo sub-nodes if the corpus accumulates enough per-phase density to warrant the split. For now the parent holds.
 
 - **Bandai's character-tag field plus per-card era stamp is the canonical per-print phase identifier.** Each Dragon Ball Super Card Game card carries an official character tag (`Vegeta`, sometimes `Majin Vegeta` for specifically-Majin-coded prints) plus a per-card era stamp in Bandai's database (e.g., `Battle of Gods Saga`, `Buu Saga`, `Future Trunks Saga`, `Universe Survival Saga`) that together disambiguate which narrative phase the print depicts. The character-tag alone is generally `Vegeta` for non-Majin prints; the Majin-Vegeta-specific prints carry the `Majin Vegeta` tag and the Majin-"M"-mark visual identifier. The corpus's TB2-006 Vegeta, Power Misused depicts a Majin-coded Vegeta per the purple-tinted-aura visual and the TB2 red-color Buu-era assignment; the formal Bandai tag may be `Vegeta` with the era stamp doing the disambiguation, or `Majin Vegeta` directly — the trivia bullet on the card confirms the Majin/Super Saiyan form identification.
 
@@ -118,7 +119,7 @@ This is what BBL's bundle copy can lean on without inventing canon: Vegeta is, c
 
 - [[son-goku]] — sibling Dragon Ball-side multi-incarnation character node (from this same wave's E2 pass); the canonical foil-rival-and-eventual-ally relation. The two characters' narrative-pairing is the franchise's most-developed Saiyan-rivalry arc. A future Goku-and-Vegeta Saiyan-rivalry-themed Discrete Lair becomes an index candidate.
 - [[trunks]] — sibling Dragon Ball-side multi-incarnation character node; the canonical father-son family relation. Vegeta's father-son bond with both present-timeline Kid Trunks and alternate-timeline Future Trunks is canonically central to the [[trunks]] node and to the corpus's BT2-063 Father-Son Galick Gun print, which is dual-anchored at both nodes.
-- [[tamiyo]] / [[nicol-bolas]] — structural precedents on the Magic-side for the *one canonical character, multi-aspect, single parent anchor* pattern.
+- [[tamiyo]] / `nicol-bolas` — structural precedents on the Magic-side for the *one canonical character, multi-aspect, single parent anchor* pattern.
 - [[Bulk Graph Bundler]] — the project this character node serves.
 - Vegeta Discrete Lair candidate — see Caveats section above; 3 corpus cards spanning three canonical narrative phases form a viable cohesion stack. Reserve for when the Dragon Ball Super Card Game Vegeta subarchetype gets its commission.
 - Goku-and-Vegeta Saiyan-rivalry Discrete Lair candidate — dual-protagonist bundle anchored on the rival-and-eventual-ally foil-pair across the [[son-goku]] and this node's combined 13 corpus anchors. Reserve for the rival-pair-themed commission.

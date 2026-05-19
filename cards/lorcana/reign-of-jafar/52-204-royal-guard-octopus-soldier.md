@@ -77,3 +77,17 @@ A dark blue anthropomorphic octopus lunges forward in an aggressive low-angle po
 **Creatures:** anthropomorphic octopus, cephalopod
 **Genre cues:** fantasy, animation
 
+## Trivia
+
+- **IP context — Emperor's New Groove source scene** — This card is classified under *The Emperor's New Groove* franchise, not Aladdin. The octopus guard references a specific comedic scene in the 2000 film: Yzma's palace guards drink potions during the climax, transforming into various animals — including one guard who becomes an octopus and pursues Kuzco and Pacha wielding axes. The octopus transformation is brief but memorable; Pacha must use Kuzco as a makeshift skateboard down stairs to escape it. `[Disney Wiki: Incan Palace Guards; TV Tropes: The Emperor's New Groove; quotes.net mquote/1191073]`
+- **Set context — Reign of Jafar** — Reign of Jafar (set 8, 2025) is the conclusion of Lorcana's second major story arc, in which Jafar seizes Archazia's Island using the reforged Hexwell Crown, turning it into a sand-filled desert kingdom populated by guards and automatons. Despite the Jafar-centric set narrative, Emperor's New Groove characters are present alongside Aladdin franchise cards — Lorcana regularly mixes franchises within sets. `[LorcanaPlayer.com Reign of Jafar set overview; TCGPlayer set article]`
+- **Mechanical profile** — Cost 1, Strength 1, Willpower 2, Amethyst, Common, Storyborn. HEAVILY ARMED: whenever you draw a card, this character gains Challenger +1 this turn (gets +1 strength while challenging). At 1 cost with a draw-reactive Challenger buff, the card rewards draw-heavy Amethyst builds — the more cards you cycle, the more threatening the soldier becomes in combat that turn. `[LorcanaPlayer.com card review; Lorcana-api.com]`
+- **Design note** — The "HEAVILY ARMED" ability name is a pun on the octopus's multiple arms, referencing both its eight tentacles (all used as weapon-holders in the art) and the standard military meaning. The card name "Royal Guard" without a personal name is consistent with it depicting a generic transformed palace guard rather than a named character. `[Card oracle text; art description]`
+
+### Related cards
+- Kuzco - Wanted Llama (various Lorcana sets) — Emperor's New Groove protagonist; same franchise
+- Yzma (various Lorcana sets) — villain who ordered the guards; responsible for the potion transformation
+- Kronk (various Lorcana sets) — Yzma's henchman; Emperor's New Groove franchise companion
+
+> [!warning] IP: The Emperor's New Groove (Disney)
+> Licensed Disney IP — *The Emperor's New Groove* (2000, Walt Disney Animation Studios). The octopus soldier is based on a minor scene from that film. Confirmed official Lorcana franchise classification. `[LorcanaPlayer.com franchise page; Lorcana-api.com]`

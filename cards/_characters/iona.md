@@ -95,7 +95,7 @@ This is what BBL bundle copy can lean on without inventing canon: Iona is the ca
 
 - **Iona-Judgment-canonical-attribution-via-title canonical-pattern.** The Iona's Judgment card's canonical-attribution to Iona is via the title-possessive (*Iona's* Judgment) rather than via depicted-art-subject or named-flavor-speaker. Per the broader MTG title-possessive convention, this is canonical-character-attribution at the card-design level: the card's mechanical-payload (exile target creature or enchantment) is canonically *deployed-by-or-on-behalf-of-Iona* per the title's possessive case. The depicted-art-subject is the canonical recipient-or-witness of Iona's judgment, not Iona herself.
 
-- **Modeled as a character-layer node, named-individual scope.** Like [[tamiyo]], [[jace-beleren]], [[nicol-bolas]], [[chronoa]], [[acerola]], [[master-roshi]], this is a single named individual rather than a faction-collective. The character layer accepts both individual named characters (Iona, this node) and collective institutional entities (Aether Foundation, Theros Pantheon, Xenoverse Villains, Kor). Iona's solo node sits at the individual-named-character tier.
+- **Modeled as a character-layer node, named-individual scope.** Like [[tamiyo]], [[jace-beleren]], `nicol-bolas`, [[chronoa]], [[acerola]], [[master-roshi]], this is a single named individual rather than a faction-collective. The character layer accepts both individual named characters (Iona, this node) and collective institutional entities (Aether Foundation, Theros Pantheon, Xenoverse Villains, Kor). Iona's solo node sits at the individual-named-character tier.
 
 ## See also
 

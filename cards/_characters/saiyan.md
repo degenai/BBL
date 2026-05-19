@@ -43,6 +43,7 @@ related_characters:
   - xenoverse-villains
   - bardock
   - son-gohan
+  - frieza-force
 ip_resolution_for:
   - Saiyan
   - Saiyan race

@@ -1,0 +1,41 @@
+{
+  "card_name": "Out of Order",
+  "game": "Lorcana",
+  "set": "Archazia's Island",
+  "collector_number": "148/204",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag set. Card is Wreck-It Ralph franchise per Lorcana databases. No external crossover IP risk (internal Disney property). The phrase 'out of order' is plot-central to the source film.",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'The last thing any gamer wants to see.'",
+      "sources": ["card frontmatter", "DigitalTQ Archazia's Island database"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Wreck-It Ralph franchise classification confirmed via Lorcana databases. Candy-bordered arcade aesthetic is consistent with Sugar Rush, the racing game central to the 2012 film. In the original Wreck-It Ralph, Fix-It Felix Jr. is literally labeled 'out of order' when Ralph goes AWOL — the phrase is plot-central.",
+      "sources": ["Lorcana-api.com classification", "LorcanaPlayer.com franchise: Wreck-It Ralph", "Disney Wiki: Wreck-It Ralph"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Archazia's Island (set 7, March 7 2025) is the penultimate chapter of Lorcana's second story arc. Wreck-It Ralph has 8+ cards in the set; Out of Order is one of the few franchise-branded Action (non-character) cards.",
+      "sources": ["LorcanaPlayer.com Archazia's Island card list", "digitaltq.com set listing"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Cost 7, Ruby, Common Action. 'Banish chosen character' — unconditional single-target removal with no strength or cost restriction on the target. 7-cost is premium; the effect scales to any character regardless of power.",
+      "sources": ["LorcanaPlayer.com", "Lorcana-api.com"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Wreck-It Ralph - Hero's Duty", "set": "Archazia's Island", "note": "Same set, same franchise (no. 27/204); Outflank synergizes with banish effects"},
+    {"name": "Vanellope von Schweetz", "set": "various Lorcana sets", "note": "Sugar Rush protagonist; Wreck-It Ralph franchise companion"},
+    {"name": "Sugar Rush Speedway - Starting Line", "set": "Shimmering Skies", "note": "Wreck-It Ralph franchise location card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

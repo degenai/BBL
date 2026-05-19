@@ -47,6 +47,8 @@ setting: other
 suspected_ip: Frieza
 ip_confidence: high
 ip_verified: true
+characters:
+  - frieza-force
 tags:
   - card
   - dbs

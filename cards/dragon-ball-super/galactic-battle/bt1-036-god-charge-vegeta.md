@@ -91,3 +91,7 @@ A humanoid figure in a blue transformation state stands at center, both hands th
 - Trunks (Galactic Battle, BT1-039) — Trunks is Vegeta's son; both Saiyan-type cards in same set
 - Tenacious Vegeta (Galactic Battle, BT1-066) — second Vegeta card in BT1, different rarity and moment
 
+## Connections
+
+- [[vegeta]] — Canonical character anchor. This card depicts Vegeta in Super Saiyan Blue form (cyan-blue upswept hair, white chest armor, electric-blue aura) executing the canonical ki-accumulation power-charge that anchors the Saiyan-pride character-thesis. The Vegeta-route-to-Super-Saiyan-Blue (achieved privately under Whis's training without the five-Saiyan group ritual Goku required for Super Saiyan God) is canonically the most explicit articulation of Vegeta's individualist-pride operating mode across the Battle of Gods / Resurrection F continuity. Stack-attach to existing character node per wave-116 Edgelord pass. [Dragon Ball Wiki: Vegeta] [Kanzenshuu: Vegeta-to-Super-Saiyan-Blue training route] [GameRant: Vegeta's Galick Gun Explained] [dbs-cardgame.com: BT1-036]
+

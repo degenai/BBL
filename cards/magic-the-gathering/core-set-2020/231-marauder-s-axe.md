@@ -75,3 +75,15 @@ A massive two-headed axe with a long shaft is driven into rocky ground, its blad
 **Iconography:** weapon-planted-in-ground, silhouette
 **Genre cues:** fantasy, dark-fantasy
 
+## Trivia
+
+- **Set context** — Core Set 2020 (M20) released July 12, 2019. The set was themed around Chandra Nalaar's origin story and featured a mythic Elder Dragon cycle; Marauder's Axe is a generic Equipment common with no plane-specific narrative attachment, included as broadly usable combat filler. `[Scryfall: set m20, released_at 2019-07-12]`
+- **Design / reprint history** — First printed in Core Set 2019 (M19, July 2018); reprinted in Core Set 2020 (M20, July 2019) and Jumpstart (JMP, July 2020). Three consecutive summer-window releases mark it as a core-set Equipment filler Wizards intentionally cycled across the core-set era. Artist: Mitchell Malloy. `[Scryfall: prints search — m19 2018-07-13, m20 2019-07-12, jmp 2020-07-17]`
+- **Flavor text** — "A sharp axe solves most problems." `[Scryfall: flavor_text field]`. No speaker attributed — the line reads as generic marauder folk-wisdom. Consistent with M20's flavor-text register on common Equipment: terse, violence-positive, no lore hook.
+- **Mechanical reputation** — Marauder's Axe gives +2/+0 for a total investment of {4} ({2} cast + {2} equip). The benchmark common Equipment for this effect is Bonesplitter (Mirrodin, 2003): same +2/+0 bonus for {1} equip vs. {2} equip here. EDHREC rank 21,921 — near-zero Commander inclusion. Functional floor in Pauper and Pauper Commander where colorless Equipment counts matter in aggressive builds. `[Scryfall: edhrec_rank 21921, legalities]`
+
+### Related cards
+- Bonesplitter (Mirrodin, MRD) — the benchmark common Equipment doing the same +2/+0 job for half the equip cost; direct mechanical comparison
+- Colossus Hammer (Core Set 2020, M20) — set-mate Equipment with dramatically higher ceiling; contrast pick from the same set's Equipment design space
+- Marauding Blight-Priest (Zendikar Rising, ZNR) — shares the "marauder" flavor word; different mechanical register but useful flavor-cluster companion
+

@@ -48,6 +48,8 @@ setting: void
 suspected_ip: King Cold (Dragon Ball Z)
 ip_confidence: high
 ip_verified: true
+characters:
+  - frieza-force
 tags:
   - card
   - dbs

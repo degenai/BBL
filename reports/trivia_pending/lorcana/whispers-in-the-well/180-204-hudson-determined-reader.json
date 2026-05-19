@@ -1,0 +1,42 @@
+{
+  "card_name": "Hudson - Determined Reader",
+  "game": "Lorcana",
+  "set": "Whispers in the Well",
+  "collector_number": "180/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, Gargoyle type-line, and Ravensburger official Gargoyles franchise classification confirm Hudson from Disney's Gargoyles. White-bearded stocky elder gargoyle with a glowing book in a stone library matches Hudson's canonical appearance and literacy-arc storyline.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Hudson was illiterate through most of his thousand-year life. In the animated series he befriended blind author Jeffrey Robbins, who taught him to read — a recurring character-growth arc. 'Determined Reader' directly references this storyline.",
+      "sources": ["Disney Wiki: Hudson", "GargWiki: Hudson"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Hudson served as leader of the Wyvern Clan before Goliath, stepping down after losing his left eye battling the Archmage. By the show's present day he is the Manhattan Clan's elder advisor — the scholarly framing on this card matches that role.",
+      "sources": ["GargWiki: Hudson", "Disney Wiki: Hudson"]
+    },
+    {
+      "category": "design",
+      "text": "FINDING ANSWERS (draw a card, then discard) creates deliberate tension with STONE BY DAY: drawing increases hand size, threatening the readying penalty. The ability rewards active cycling — draw and immediately discard to stay under the 2-card threshold.",
+      "sources": ["LorcanaPlayer.com card review", "Lorcana-api.com card data"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Cost 3, Steel, Common. Looting effect at 3 cost makes Hudson a hand-management support piece in Gargoyle tribal builds, keeping readying online while filtering toward key payoffs.",
+      "sources": ["LorcanaPlayer.com", "Lorcana-api.com"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Goliath - Guardian of Castle Wyvern", "set": "Whispers in the Well", "note": "Clan leader; in inventory (119/204); shares STONE BY DAY"},
+    {"name": "Grimorum Arcanorum", "set": "Whispers in the Well", "note": "Gargoyles item card; in inventory (67/204)"},
+    {"name": "Demona - Scourge of the Wyvern Clan", "set": "Whispers in the Well", "note": "Legendary villain; shared Wyvern Clan history"},
+    {"name": "Broadway", "set": "Whispers in the Well", "note": "Confirmed clanmate in the set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

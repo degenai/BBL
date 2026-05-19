@@ -71,3 +71,13 @@ A wide desert vista of weathered sandstone formations: tall freestanding rock sp
 **Objects:** hoodoo, mesa, rock-spire, canyon, scrub
 **Genre cues:** fantasy, western, naturalist
 
+## Trivia
+
+- **Set context** — Core Set 2021 (M21) released July 3, 2020. M21 included five basic land art variants per land type, each designed to be plane-neutral and visually distinct from one another. This Mountain's arid mesa and hoodoo composition sits in the American Southwest naturalist register — deliberately non-plane-specific so it reads as usable in any red-magic deck regardless of setting. `[Scryfall: set m21, released_at 2020-07-03]`
+- **Design / collector note** — Artist credited per Scryfall UUID match (b92c8925): Cliff Childs. M21 basic lands were previewed by Hipsters of the Coast in June 2020. Note: the card MD's collector number (271) differs from Scryfall's UUID-resolved number (269) for this print — M21 has multiple Mountain variants and different printings carry different collector numbers. The UUID is the authoritative match; the discrepancy is flagged for a janitor-pass correction. `[Scryfall: artist field, preview source hipsters of the coast 2020-06-15]`
+- **Mechanical note** — Mountain is legal in every constructed format that allows basic lands. As a basic land, it is an unlimited-copy staple; the only distinguishing characteristic of this printing is its specific art variant. No EDHREC rank is meaningful at the individual-art level. `[Scryfall: legalities]`
+
+### Related cards
+- Mountain (other M21 variants, M21) — M21 has multiple Mountain art variants; this is one of five in the set
+- Shatterskull Smashing // Shatterskull, the Hammer Pass (Zendikar Rising, ZNR) — a modal DFC Mountain-producing land sharing the arid rocky aesthetic; functional upgrade for red decks needing land flexibility
+

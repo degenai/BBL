@@ -1,0 +1,40 @@
+{
+  "card_name": "Finnick - Tiny Terror",
+  "game": "Lorcana",
+  "set": "Whispers in the Well",
+  "collector_number": "74/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches character. Bunny-suit disguise with pacifier is Finnick's signature visual identifier from Zootopia's opening con sequence — not shared by any other Disney character. Official Zootopia franchise classification confirmed via LorcanaPlayer.com and Lorcana databases.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Finnick is Nick Wilde's con partner in Zootopia (2016). His signature grift: disguise as Nick's toddler 'son' (bunny suit variant shown on this card) while Nick runs a scam. Deep gravelly voice contrasting his baby-faced fennec appearance is his recurring comedic payoff. Voiced by the late Tommy 'Tiny' Lister.",
+      "sources": ["Disney Wiki: Finnick", "IMDb: Zootopia — Tom Lister Jr. as Finnick"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The depicted bunny suit with pink bow and pacifier is the specific costume from Finnick's most plot-critical con sequence — visually unambiguous as Finnick's identifier.",
+      "sources": ["Zootopia Wiki: Finnick"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Cost 1, Strength 1, Willpower 2, Emerald Common. YOU BETTER RUN bounces opposing character with 2 or less strength for 2 additional ink (total 3 to bounce). Early board presence at 1 cost; bounce used opportunistically against opposing 1-cost characters.",
+      "sources": ["LorcanaPlayer.com card review"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Positioned in Whispers in the Well as a Storyborn Ally type, consistent with Finnick's supporting role in Zootopia's narrative.",
+      "sources": ["LorcanaPlayer.com", "Lorcana-api.com"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Nick Wilde", "set": "various Lorcana sets", "note": "Finnick's con partner in source film; likely paired in Emerald builds"},
+    {"name": "Judy Hopps", "set": "various Lorcana sets", "note": "Zootopia protagonist; franchise companion card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

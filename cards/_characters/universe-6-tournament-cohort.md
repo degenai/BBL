@@ -126,7 +126,7 @@ This is what BBL's bundle copy can lean on without inventing canon: the Universe
 
 ## Caveats
 
-- **Champa solo node deferred.** Champa has two corpus prints (BT1-006 + BT1-007) which is below the three-anchor solo-character-node commission threshold per the precedent set by [[nicol-bolas]] (3 corpus anchors at commission) and reaffirmed by the dual-prints-defer rule applied to Mira (2 prints, deferred to parent [[xenoverse-villains]]) and Towa (2 prints, also deferred). Champa's solo-node commission waits until a third Champa-name-on-card print arrives in corpus. Until then the BT1-006 + BT1-007 adjacent-collector-number Champa-pair anchors at this parent cohort node only.
+- **Champa solo node deferred.** Champa has two corpus prints (BT1-006 + BT1-007) which is below the three-anchor solo-character-node commission threshold per the precedent set by `nicol-bolas` (3 corpus anchors at commission) and reaffirmed by the dual-prints-defer rule applied to Mira (2 prints, deferred to parent [[xenoverse-villains]]) and Towa (2 prints, also deferred). Champa's solo-node commission waits until a third Champa-name-on-card print arrives in corpus. Until then the BT1-006 + BT1-007 adjacent-collector-number Champa-pair anchors at this parent cohort node only.
 
 - **Vados solo node deferred.** Vados has one corpus print (BT1-002), below the solo-character threshold. The BT1-002 print anchors at this parent cohort node only. A future Vados-solo-node commission would activate at three corpus prints.
 

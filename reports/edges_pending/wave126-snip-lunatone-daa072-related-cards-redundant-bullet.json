@@ -1,0 +1,53 @@
+{
+  "edge_id": "wave126-snip-lunatone-daa072-related-cards-redundant-bullet",
+  "shape": "edge-dissolution",
+  "topology": "mirror",
+  "category": "redundant-per-card-mirror-fully-subsumed-by-cohort-node",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/pokemon/darkness-ablaze/072-189-lunatone.md",
+      "name": "Lunatone (Darkness Ablaze 072/189)"
+    },
+    {
+      "type": "card-implicit",
+      "path": "cards/pokemon/burning-shadows/68-147-lunatone.md",
+      "name": "Lunatone (Burning Shadows 68/147) — implicit target of the snipped bullet"
+    }
+  ],
+  "description": "ONE snip, picked off the parent dispatch's own next_pass_suggestions queue from the prior solrock-DAA-092 dissolution wave. The `### Related cards` section on Lunatone DAA-072 carried a single bullet pointing to Lunatone BUS-68 (`prior print by Shin Nagasawa; Fighting-type with Heal Block/Solrock synergy ability`). Worst redundant bullet ever. The Connections section in the same file, immediately below it, ALREADY wikilinks `[[68-147-lunatone]]` by name AND articulates the BUS-vs-DAA print-philosophy distinction in fuller detail — `Unlike the corpus's other Lunatone print at [[68-147-lunatone]] (Burning Shadows, Shin Nagasawa, Fighting-type with Heal Block / Solrock interlock Ability), this print is Psychic-type with standalone Future Sight + Psychic attacks — no Solrock-dependency Ability, the dyad's design-philosophy register-shift across SM-era vs SWSH-era prints`. The Related-cards bullet was the strictly-thinner duplicate of an already-articulated cohort-node Connections traversal. With ZERO remaining bullets after the snip, the empty `### Related cards` header was removed entirely — no legitimate future-watch bullet survived to preserve the section. Both Lunatone prints already carry `characters: [solrock-lunatone-pair]` in frontmatter, so the cohort-node graph traversal is intact. Mirror-symmetry preserved: this is a unidirectional snip on DAA-072's side; BUS-68's `### Related cards` retains a generic 'Lunatone other prints' future-acquisition watch bullet (legitimate, not redundant — no specific other-prints target named, and the cohort node anchors species not print catalog). Mood: enlightened-corrective because the work is finishing a pattern the prior wave already articulated.",
+  "citations": [
+    "[cards/pokemon/darkness-ablaze/072-189-lunatone.md — pre-snip lines 91-92 `### Related cards` block with single Lunatone BUS-68 bullet]",
+    "[cards/pokemon/darkness-ablaze/072-189-lunatone.md — Connections section at lines 94-96 already wikilinks [[68-147-lunatone]] and articulates the print-philosophy distinction in fuller detail than the snipped bullet]",
+    "[cards/_characters/solrock-lunatone-pair.md — cohort node anchoring both Lunatone prints; appears_on includes pokemon/darkness-ablaze/072-189-lunatone AND pokemon/burning-shadows/68-147-lunatone]",
+    "[reports/edges_pending/snip-solrock-daa092-future-already-met.json next_pass_suggestions entry #2: 'Snip the redundant Solrock + Lunatone-BUS-68 bullets from Lunatone DAA-072's `### Related cards`; the Connections section directly below already articulates both edges via the cohort node.' Solrock-DAA-092 bullet was already snipped in an intervening pass; today's snip closes the remaining Lunatone-BUS-68 bullet.]",
+    "[both Lunatone prints carry `characters: [solrock-lunatone-pair]` in frontmatter — graph traversal intact post-snip]"
+  ],
+  "files_modified": [
+    "cards/pokemon/darkness-ablaze/072-189-lunatone.md"
+  ],
+  "edges_removed": [
+    {
+      "from": "pokemon/darkness-ablaze/072-189-lunatone",
+      "to": "pokemon/burning-shadows/68-147-lunatone",
+      "shape": "1:1 same-species cross-print bullet in `### Related cards`",
+      "reason": "fully subsumed by Connections section directly below that already wikilinks the same target AND articulates the BUS-vs-DAA print-philosophy distinction with more detail; both cards already attach to solrock-lunatone-pair cohort node via frontmatter"
+    }
+  ],
+  "edges_added": [],
+  "other_candidates_considered": [
+    "Lunatone BUS-68 `### Related cards` section ('Lunatone (other prints) — multiple prints across the TCG; BUS-68 is the Sun & Moon era version'). REFUSED — this is a generic future-acquisition watch with no specific target, not a redundant edge. Cohort node anchors species-identity not per-print catalog; the bullet is acquisition-watch-shaped and legitimately distinct from the cohort traversal. Prior wave's next_pass_suggestion described it as 'two bullets' but the Solrock-DAA-092 bullet had already been snipped, leaving the legitimate future-watch standing alone. Retain.",
+    "Pansage BUS-12 / Simisage DAA-007 / Pansear BUS-22 / Panpour BUS-36 / Pansage DAA-006 / Simisear DAA-027 — elemental-monkey-trio member cards each carrying multiple redundant trio-sibling bullets in `### Related cards` against the cohort node. Strong candidate set — parent dispatch explicitly carried Simisage DAA-007 forward. REFUSED for this pass because Simisage DAA-007 specifically requires ADD-then-SNIP (no Connections section yet exists; the enlightened-replacement shape pairs adding a cohort-node Connections bullet with snipping the redundant `### Related cards` bullets in one pass). Today's dispatch is SNIP-FRENZY (pure snip, not add-then-snip). The other elemental-monkey members (Pansage BUS-12, Pansear BUS-22, etc.) MAY have Connections sections already — those would be eligible for pure snip. Staged.",
+    "Lunatone DAA-072 / Solrock DAA-092 frontmatter sync — both already carry `characters: [solrock-lunatone-pair]`. No drift, no snip needed.",
+    "Starly DAA-145 ↔ Starly BRS-117 cross-print mirror in Connections. INSPECTED, REFUSED. Both cards carry `characters: [staraptor-line]` cohort attachment, but the cross-print same-species mirror is canonical per the kabu-cmp55--kabu-daa163 person-card cross-print precedent and the grimer-brs084--grimer-daa100 species-card cross-print precedent. The staraptor-line.md node body explicitly preserves this edge ('Vision pass complete; mirrored with Starly DAA-145 via the cross-print same-species 1:1 mirror edge already drawn in the card's Connections section'). Not subsumed — the cross-print pattern is its own first-class graph signal independent of the cohort attachment.",
+    "Bad Ring Laser BT1-108 residual ginyu-force tags — already handled by wave 124 snip; no action remaining.",
+    "13 broken-wikilink Nodeley candidates from off-wave audit — Nodeley territory (additions, not snips), and parent dispatch explicitly flagged them as not snip-shaped."
+  ],
+  "next_pass_suggestions": [
+    "Simisage DAA-007 ENLIGHTENED-REPLACEMENT pass (add elemental-monkey-trio Connections section + snip the 5 redundant `### Related cards` trio-sibling bullets in one pass) — top remaining add-then-snip candidate from the elemental-monkey cluster. Requires the enlightened-edgelord shape, not pure snip.",
+    "Pansage BUS-12 / Pansear BUS-22 / Panpour BUS-36 / Pansage DAA-006 / Simisear DAA-027 — audit each for Connections-section presence. Cards that ALREADY have an elemental-monkey-trio Connections bullet are pure-snip candidates (just remove redundant `### Related cards` trio-sibling bullets). Cards that DON'T are enlightened-replacement candidates like Simisage. The Pansage DAA-006 case specifically has at least one legitimate cross-print-mirror bullet (to BUS-12) that should be preserved per the kabu / grimer cross-print precedent — partial-snip not full-section-snip.",
+    "Mareep-line / caterpie-line / staraptor-line member cards (per the prior solrock-DAA-092 sidecar's pattern observation) — same audit shape. Grep for ## Connections + ### Related cards co-occurrence to surface the population.",
+    "Janitorbot mechanical sweep: every card with both a `## Connections` cohort-node bullet AND a `### Related cards` sibling-mirror section whose targets are all in the cohort's appears_on list = guaranteed redundancy. This pattern is now established across THREE waves (solrock-DAA-092, today's lunatone-DAA-072, and the prior wave-120 starly-DAA-145-bookends snip) — repeatable enough for mechanical sweep, not Edgelord work."
+  ],
+  "edgelord_mood": "enlightened-corrective"
+}

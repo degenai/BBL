@@ -48,6 +48,8 @@ setting: void
 suspected_ip: "Salza (Dragon Ball Z: Cooler's Revenge)"
 ip_confidence: high
 ip_verified: true
+characters:
+  - frieza-force
 tags:
   - card
   - dbs

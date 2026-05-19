@@ -88,9 +88,6 @@ A crescent moon-shaped creature with a single prominent dark eye floats above a 
 - **Flavor text** — "The phase of the moon apparently has some effect on its power. It's active on the night of a full moon." `[PokemonTCG.io API: swsh3-72]`
 - **Lore** — Lunatone (National Pokedex no. 337) is classified as the Meteorite Pokemon. Lore holds it was first discovered at the site of a meteor crash and may have originated from outer space. Its counterpart Solrock (no. 338) shares this meteorite origin — both are Rock/Psychic types appearing together in Hoenn. `[WebSearch snippet: Lunatone Bulbapedia via WebSearch]`
 
-### Related cards
-- Lunatone (Burning Shadows, 068/147) — prior print by Shin Nagasawa; Fighting-type with Heal Block/Solrock synergy ability
-
 ## Connections
 
 - [[solrock-lunatone-pair]] — Moon arm of the Hoenn celestial-duality Meteorite Pokemon dyad (Pokedex 337/338, Rock/Psychic), SWSH-era print. Within-Darkness-Ablaze sibling to Solrock DAA-092 (same set, same illustrator Miki Tanaka — designer-coordinated same-illustrator within-set treatment of the dyad's two arms). Unlike the corpus's other Lunatone print at [[68-147-lunatone]] (Burning Shadows, Shin Nagasawa, Fighting-type with Heal Block / Solrock interlock Ability), this print is Psychic-type with standalone Future Sight + Psychic attacks — no Solrock-dependency Ability, the dyad's design-philosophy register-shift across SM-era vs SWSH-era prints. Cohort affiliation preserved through species identity, shared paired-design citation, and within-set art-direction coherence with the Solrock DAA-092 sibling. `[Bulbapedia: Lunatone (Pokemon), Solrock (Pokemon); PokemonTCG.io: swsh3-72, swsh3-92, sm3-68]`

@@ -117,7 +117,7 @@ This is what BBL's bundle copy can lean on without inventing canon: the Dark Vas
 
 - [[labor]] — the BBL hub thematically near to the Dark Vassal trio's *king-spawns-disposable-warriors-named-after-instruments* canonical labor-template. The cycle's *Demon Clan boss-spawns-warrior-children-as-disposable-invasion-force* register is one of the corpus's clearest Dragon-Ball-side instances of the apparatus-of-extraction axis the [[labor]] hub indexes. Bundle copy that leans on the spat-egg-biological-mass-production-of-warriors thesis lands directly on the [[labor]] hub's labor-as-apparatus framing.
 
-- [[nicol-bolas]] — cross-franchise *single-character-spawns-disposable-cohort* structural cousin. The Bolas-Falls trio (Topple the Statue + Despark + Prison Realm) anchored at [[nicol-bolas]] is the Magic-side three-card adjacent-set-spotlight cycle precedent for a designer-coordinated three-card character-cluster; the Dark Vassal trio's *single-villain-king-spawns-three-named-warrior-children* shape is the Dragon-Ball-side parallel.
+- `nicol-bolas` — cross-franchise *single-character-spawns-disposable-cohort* structural cousin. The Bolas-Falls trio (Topple the Statue + Despark + Prison Realm) anchored at `nicol-bolas` is the Magic-side three-card adjacent-set-spotlight cycle precedent for a designer-coordinated three-card character-cluster; the Dark Vassal trio's *single-villain-king-spawns-three-named-warrior-children* shape is the Dragon-Ball-side parallel.
 
 - [[Bulk Graph Bundler]] — the project this character node serves.
 

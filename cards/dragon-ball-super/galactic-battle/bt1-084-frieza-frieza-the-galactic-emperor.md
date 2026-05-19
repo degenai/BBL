@@ -48,6 +48,8 @@ setting: void
 suspected_ip: Frieza (Dragon Ball Z, First Form)
 ip_confidence: high
 ip_verified: true
+characters:
+  - frieza-force
 tags:
   - card
   - dbs

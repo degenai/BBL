@@ -18,22 +18,25 @@ market_price: 0.21
 market_price_as_of: 2026-05-17
 date_added: 2026-05-08
 last_seen: 2026-05-17
-reference_image_source_url: https://images.pokemontcg.io/xyp/XY50_hires.png
-art_match_confidence: low
-needs_manual_review: true
+reference_image_source_url: https://images.pokemontcg.io/mcd22/13_hires.png
+art_match_confidence: high
+needs_manual_review: false
 manual_review_reason: Set 'McDonald's Promos 2022' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
-flavor_text: Although it possesses a violent temperament, it won't put up with bullying. It uses the leaf in its mouth to sense the movements of its enemies.
-oracle_text: "[Ability: Benevolent Boss] If this Pokémon is your Active Pokémon, it gets +20 HP for each of your Benched Pokémon.\\nCrazy Knuckle (FightingFightingColorless) 80+: If this Pokémon is affected by a Special Condition, this attack does 40 more damage."
+flavor_text: Using its leaf, Pangoro can predict the moves of its opponents. It strikes with punches that can turn a dump truck into scrap with just one hit.
+oracle_text: "Knocking Hammer (DarknessDarknessColorless) 90: Discard the top card of your opponent's deck.\\nShakedown (DarknessDarknessDarknessColorless) 150: Discard a random card from your opponent's hand."
 characters:
   - pancham-line
 review_good: false
 review_bad: false
 review_notes: ""
+artist: HYOGONOSUKE
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon
   - manual-review
-
 ---
 # Pangoro (McDonald's Promos 2022)
 

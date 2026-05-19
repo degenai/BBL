@@ -34,6 +34,7 @@ related_characters:
   - baby-dbgt
   - trunks
   - bardock
+  - frieza-force
 ip_resolution_for: xenoverse-villains
 tags:
   - layer

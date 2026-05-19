@@ -46,6 +46,8 @@ setting: void
 suspected_ip: ""
 ip_confidence: none
 ip_verified: true
+characters:
+  - frieza-force
 tags:
   - card
   - dbs

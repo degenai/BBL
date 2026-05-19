@@ -1,6 +1,6 @@
 ---
 name: Nissa's Triumph
-game: "Magic: The Gathering"
+game: Magic: The Gathering
 set: War of the Spark
 collector_number: 170
 rarity: U
@@ -10,34 +10,14 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub:
-  - elf
-  - forest
-  - hood
-  - cloak
-  - planeswalker
-  - portrait
-  - ranger
-  - druid
-  - red-hair
-  - glowing-eye
-  - nature
-  - magic-user
-tags_filter:
-  - solo
-  - close-up
-  - portrait-mode
-  - faces-left
-  - female-figure
-  - green-magic
-  - sorcery
-  - no-creature
+tags_hub: ["elf", "forest", "hood", "cloak", "planeswalker", "portrait", "ranger", "druid", "red-hair", "glowing-eye", "nature", "magic-user"]
+tags_filter: ["solo", "close-up", "portrait-mode", "faces-left", "female-figure", "green-magic", "sorcery", "no-creature"]
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/170-nissa-s-triumph.png
 average_cost_paid: 0
-market_price: 0.28
-market_price_as_of: 2026-05-17
+market_price: 0.27
+market_price_as_of: 2026-05-14
 date_added: 2026-05-05
-last_seen: 2026-05-17
+last_seen: 2026-05-14
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 
@@ -48,20 +28,13 @@ setting: forest
 suspected_ip: Nissa Revane
 ip_confidence: high
 ip_verified: true
-characters:
-  - war-gatewatch-triumph-cycle
 artist: Kieran Yanner
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/170-nissa-s-triumph--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/9/7946b256-ae79-4b99-8bf4-0d627baf9044.jpg?1557576966
 flavor_text: Her triumph came not from destroying the unnatural, but from fostering life.
 oracle_text: Search your library for up to two basic Forest cards. If you control a Nissa planeswalker, instead search your library for up to three land cards. Reveal those cards, put them into your hand, then shuffle.
-mana_cost: "{G}{G}"
-tags:
-  - card
-  - vision-passed
-  - trivia-passed
-  - ip-verified
 ---
+
 # Nissa's Triumph (War of the Spark)
 
 ## Vision

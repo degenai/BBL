@@ -49,6 +49,8 @@ setting: void
 suspected_ip: Captain Ginyu
 ip_confidence: high
 ip_verified: true
+characters:
+  - frieza-force
 tags:
   - card
   - dbs
