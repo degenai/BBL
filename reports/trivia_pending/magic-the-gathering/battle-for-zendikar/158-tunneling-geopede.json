@@ -1,0 +1,41 @@
+{
+  "card_name": "Tunneling Geopede",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "158",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The geopede is not a resistance member or Eldrazi — it is collateral fauna. Flavor text names Ulamog directly: 'As Ulamog's brood reduces the earth to dust, geopedes burst from their tunnels in search of solid ground.' The creature's Landfall damage trigger literalizes being agitated by the seismic disruption the Eldrazi cause.",
+      "sources": ["Scryfall flavor_text, oracle_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 4,734 — notably high for a BFZ uncommon. Appears in 21% of Landfall-themed Commander decks and 63% of Tannuk, Memorial Ensign Landfall builds (179 decks), where it functions as a mana-efficient pinger alongside other Landfall damage triggers. Not Pauper-legal, unlike Makindi Sliderunner.",
+      "sources": ["EDHREC: edhrec.com/cards/tunneling-geopede, via WebSearch", "Scryfall legalities"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Foil price is $8.77 USD versus $0.36 non-foil (Scryfall, 2026-05-19) — a 24x premium atypical for a BFZ uncommon, signaling active demand from Commander Landfall players seeking foil copies.",
+      "sources": ["Scryfall prices field"]
+    },
+    {
+      "category": "design",
+      "text": "The Geopede creature debuted in Zendikar 2009 as Plated Geopede. Tomasz Jedruszek's illustration for the Tunneling variant emphasizes the upward-burst emergence behavior. Artist Jedruszek is a prolific Wizards contributor across multiple sets.",
+      "sources": ["Scryfall type_line, artist"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Plated Geopede", "set": "Zendikar 2009", "note": "the geopede species' original card; red Landfall Insect with first strike"},
+    {"name": "Cosi's Ravager", "set": "Worldwake", "note": "fellow Landfall damage pinger; frequently paired with Tunneling Geopede in Commander Landfall lists per EDHREC"},
+    {"name": "Valakut Predator", "set": "BFZ", "note": "in-set red Landfall Elemental; shares BFZ draft red-Landfall archetype"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "edge_id": "wave131-snip-alola-kahunas-schema-precedent-peerlist",
+  "wave": 131,
+  "shape": "edge-dissolution",
+  "topology": "stack",
+  "category": "schema-precedent-wikilink-conversion-to-backtick",
+  "endpoints": [
+    {
+      "type": "character-node",
+      "path": "cards/_characters/alola-kahunas.md",
+      "name": "Alola Island Kahunas (Hala, Olivia, Nanu, Hapu)"
+    },
+    {
+      "type": "schema-precedent-peer-listing",
+      "path": "cards/_characters/alola-kahunas.md#L89",
+      "name": "9-node `Like [[...]]` faction-collective character-layer precedent peer-listing (Caveats section, modeled-as bullet)"
+    }
+  ],
+  "description": "ONE snip. Dissolved 5 of 9 schema-precedent wikilinks at alola-kahunas.md line 89 — converted [[team-rocket]], [[aether-foundation]], [[endriders]], [[orzhov-syndicate]], [[azorius-senate]] to backticks per bbl-wikilink-vs-backtick-discipline. The 5 wikilinks express pure 'modeled-as schema-precedent peer' relations — Alola-Kahunas has no canonical narrative tissue with Team Rocket, Aether Foundation, Endriders (Yu-Gi-Oh!), Orzhov Syndicate (MTG-Ravnica), or Azorius Senate (MTG-Ravnica). PRESERVED 4 wikilinks that DO have real-thematic-edge presence in this file's ## See also section: [[alola-elite-four]] (L93+L95 — Olivia/Hala cross-recruitment dual-membership), [[alola-trial-captains]] (L94+L95 — three-tier Alola progression sibling tier), [[galar-gym-challenge]] (L97 — opposing-ideology Tapu-sanction-vs-corporate-televised-athletics contrast), and [[team-skull]] (L95+L96 — Guzma & Hala TAG TEAM narrative bridge, the canonical failed-Kahuna-trial-attempter narrative inverse). Triple-justification: (a) DIRECT FOLLOW-UP TO WAVE-130 SNIP-PRECEDENT — staged as top next-pass candidate in reports/edges_pending/wave130-snip-zendikari-resistance-schema-precedent-peerlist.json; same heuristic, same shape, next-strongest corpus target. The wave-130 sidecar predicted 3 preserves; corpus-walking caught a 4th (team-skull's real-thematic Guzma-Hala bridge). The PRESERVE_WIKILINKS_IF_THEMATIC_ELSEWHERE_IN_FILE guard surfaced one more preserved link than the staged prediction — Edgelord's manual case-by-case discipline is the value-add over a future mechanical janny sweep, (b) NO REAL-THEMATIC LOSS — the 5 snipped wikilinks ([[team-rocket]], [[aether-foundation]], [[endriders]], [[orzhov-syndicate]], [[azorius-senate]]) appear ONLY at L89 in this file with zero real-thematic-edge presence anywhere else (verified via grep). The bullet's full structural-template-citation prose is retained ('per the Endriders precedent', 'the character layer accepts both individual named characters and collective institutional entities', 'Single character layer, same precedent') — the Endriders precedent citation survives as a plain capitalized reference within the prose, with the wikilink dropped because schema-precedent citation is exactly the backtick-zone, (c) GRAPH-VIEW NOISE REDUCTION — 5 cross-franchise false edges dissolved from alola-kahunas pointing at unrelated faction-collective nodes (Pokemon Team Rocket / Pokemon Aether Foundation / Yu-Gi-Oh Endriders / MTG Orzhov / MTG Azorius). The mobile graph view that surfaced this proliferation in wave 71 (nicol-bolas false-edges) gets cleaner; the four PRESERVED wikilinks (all real-thematic Pokemon-canon-adjacent nodes) carry the actual narrative edge load. HTML comment marker added inline to flag the dissolution for future passes and reference the wave-130 precedent.",
+  "citations": [
+    "[cards/_characters/alola-kahunas.md line 89 — pre-snip: 9 [[wikilinks]] in 'Like [[...]] (faction-collective character-layer hosted via the Endriders precedent)' schema-template citation; post-snip: 4 preserved wikilinks + 5 backticks per case-by-case PRESERVE_IF_RECURS_IN_SAME_FILE_AS_REAL_THEMATIC discipline]",
+    "[cards/_characters/alola-kahunas.md lines 93-97 — ## See also section verified: [[alola-elite-four]] (L93+L95), [[alola-trial-captains]] (L94+L95), [[galar-gym-challenge]] (L97), [[team-skull]] (L95+L96) all carry real-thematic-edge content; PRESERVED at L89 per same-file-real-thematic-presence rule]",
+    "[reports/edges_pending/wave130-snip-zendikari-resistance-schema-precedent-peerlist.json — directly-staged-next-pass precedent + same triple-justification template + same one-cut-per-invocation discipline]",
+    "[memory bbl-wikilink-vs-backtick-discipline — 'wikilinks for real-thematic edges only; backticks for schema/architectural-precedent citations'; this snip applies the canonical discipline with case-by-case PRESERVE guard]",
+    "[reports/_scratch/janny_bolas_schema_precedent_sweep.py SCHEMA_PHRASES list — wave-71 janny heuristic generalizes to this peer-listing; this is manual application + corpus-walk-caught preservation case the mechanical sweep would have missed without the PRESERVE_IF_RECURS_IN_SAME_FILE guard the wave-130 sidecar specified]"
+  ],
+  "files_modified": [
+    "cards/_characters/alola-kahunas.md"
+  ],
+  "edges_removed": [
+    {
+      "from": "cards/_characters/alola-kahunas",
+      "to": "cards/_characters/team-rocket",
+      "kind": "schema-precedent-faction-collective-peer-listing-not-real-thematic"
+    },
+    {
+      "from": "cards/_characters/alola-kahunas",
+      "to": "cards/_characters/aether-foundation",
+      "kind": "schema-precedent-faction-collective-peer-listing-not-real-thematic"
+    },
+    {
+      "from": "cards/_characters/alola-kahunas",
+      "to": "cards/_characters/endriders",
+      "kind": "schema-precedent-faction-collective-peer-listing-not-real-thematic"
+    },
+    {
+      "from": "cards/_characters/alola-kahunas",
+      "to": "cards/_characters/orzhov-syndicate",
+      "kind": "schema-precedent-faction-collective-peer-listing-not-real-thematic"
+    },
+    {
+      "from": "cards/_characters/alola-kahunas",
+      "to": "cards/_characters/azorius-senate",
+      "kind": "schema-precedent-faction-collective-peer-listing-not-real-thematic"
+    }
+  ],
+  "edges_preserved": [
+    {
+      "from": "cards/_characters/alola-kahunas",
+      "to": "cards/_characters/alola-elite-four",
+      "kind": "real-thematic-cross-tier-cross-recruitment (Olivia + Hala dual-membership; See-also L93+L95)"
+    },
+    {
+      "from": "cards/_characters/alola-kahunas",
+      "to": "cards/_characters/alola-trial-captains",
+      "kind": "real-thematic-three-tier-Alola-progression-sibling-tier (apprenticeship tier below Kahunas; See-also L94+L95)"
+    },
+    {
+      "from": "cards/_characters/alola-kahunas",
+      "to": "cards/_characters/galar-gym-challenge",
+      "kind": "real-thematic-opposing-ideology-contrast (Tapu-sanction local-craft vs corporate-televised-athletics; See-also L97)"
+    },
+    {
+      "from": "cards/_characters/alola-kahunas",
+      "to": "cards/_characters/team-skull",
+      "kind": "real-thematic-canonical-narrative-inverse (Guzma failed-Kahuna-trial-attempter; Guzma & Hala CSE-193 TAG TEAM bridge; See-also L95+L96)"
+    }
+  ],
+  "edgelord_mood": "enlightened-corrective",
+  "other_candidates_considered": [
+    {
+      "candidate": "crane-school-cohort.md line 102 — 6-wikilink schema-precedent peer-list ('Like [[dark-vassal-trio]], [[wrath-of-the-dragon-saga]], [[universe-6-tournament-cohort]], [[destroyer-god-attendant-dyad]], [[eld-cinderella-cycle]], [[fear-of-cycle]]')",
+      "judgment": "DEFERRED — also valid schema-precedent peer-listing snip target. Loses to alola-kahunas only on the freshness-of-staging axis (alola-kahunas was the top-staged wave-130 next-pass target; crane-school-cohort was second). Same shape, same heuristic, same case-by-case PRESERVE rule (4 of crane-school's 6 peers recur in same-file See-also at L119-122 as real-thematic Dragon Ball sibling-cohort edges; only [[eld-cinderella-cycle]] + [[fear-of-cycle]] are pure schema-precedent). Surface as next snip pass target.",
+      "topology": "stack"
+    },
+    {
+      "candidate": "zendikari-resistance.md body prose 'multi-triangle meta-cycle' framing — Potion Rule sub-rule 4 violation (pattern-instance promoted to first-class structural-primitive vocabulary across H1 + frontmatter name + body 14+ times)",
+      "judgment": "REFUSED THIS PASS — MODE MISMATCH. SNIP-FRENZY is edge-dissolution not body-prose refactor. The 'multi-triangle meta-cycle' framing IS a Potion-rule-sub-rule-4 trigger (parent's brief flagged it correctly), but the dissolution would be a multi-line body-prose softening + H1 retitle + frontmatter `name:` and `faction:` field rewrite — that's a Dark Nodesley EX body-softening mission, not an Edgelord edge snip. Staging separately: a DARK NODESLEY EX dispatch could rewrite the framing as 'BFZ + OGW two-triangle adversary-coupling node' or similar standard-graph-theory phrasing while preserving the actual canonical finding (Wizards designed two thesis-axis triangles in sequence). NOT this pass.",
+      "topology": "n/a"
+    },
+    {
+      "candidate": "Multi-file mechanical janny sweep — extend janny_bolas_schema_precedent_sweep.py to handle non-bolas peer-listings with PRESERVE_IF_RECURS_IN_SAME_FILE_AS_REAL_THEMATIC guard",
+      "judgment": "DEFERRED — same as wave 130. The right MECHANICAL move; out of Edgelord scope. Wave-131 surfaced one corpus-walk catch (team-skull) the wave-130 sidecar's prediction missed — the case-by-case manual Edgelord pass is providing ground-truth that a future mechanical sweep would benefit from. Stage as next-pass suggestion.",
+      "topology": "n/a"
+    },
+    {
+      "candidate": "Future-condition-already-met snips like the wave-123 Solrock DAA-092 case",
+      "judgment": "REFUSED THIS PASS — no specific candidate identified in corpus-walk; would need a separate sweep pass to find. Stage for next snip-frenzy invocation as alternative hot zone.",
+      "topology": "n/a"
+    },
+    {
+      "candidate": "Pansage BB-004 + Panpour BB-017 cohort-redundancy enlightened-replacement (still staged from prior wave)",
+      "judgment": "DEFERRED — different shape than snip-frenzy (enlightened-replacement requires REPLACE not just CUT). Surface for next enlightened-Edgelord pass. Staged across multiple prior waves; remains valid candidate.",
+      "topology": "mirror"
+    }
+  ],
+  "next_pass_suggestions": [
+    "Apply same schema-precedent peer-listing snip to crane-school-cohort.md line 102 (6 wikilinks; PRESERVE [[dark-vassal-trio]] / [[wrath-of-the-dragon-saga]] / [[universe-6-tournament-cohort]] / [[destroyer-god-attendant-dyad]] per same-file real-thematic Dragon Ball cohort edges in See-also L119-122; SNIP [[eld-cinderella-cycle]] + [[fear-of-cycle]] as pure schema-precedent).",
+    "DARK NODESLEY EX dispatch: zendikari-resistance.md body-prose Potion Rule sub-rule 4 softening. Scope: H1 retitle (drop 'multi-triangle meta-cycle' from heading), frontmatter `name:` + `faction:` field rewrite (lines 3, 13), body-prose softening across lines 42-44, 50-52, 66-78, 94, 125, 133, 135, 139 (14+ occurrences). The structural observation (Wizards designed two thesis-axis triangles in sequence) is canonical and preserved; the 'multi-triangle meta-cycle' coined typology-vocabulary is the Potion-rule-sub-rule-4 violation that gets dissolved.",
+    "Extend reports/_scratch/janny_bolas_schema_precedent_sweep.py with PRESERVE_IF_RECURS_IN_SAME_FILE_AS_REAL_THEMATIC guard. The wave-131 pass demonstrated the guard is necessary — the corpus-walk caught a 4th preservation case (team-skull) the wave-130 prediction missed. Mechanical sweep without the guard would clobber real-thematic edges; with the guard it can process the remaining ~10-12 corpus character nodes in one pass.",
+    "Sweep candidate: grep for 'Modeled as a character-layer node, not a hub' + 'Like [[' across cards/_characters/ to enumerate remaining schema-precedent peer-listings. The two waves so far (130 + 131) covered the two longest peer-lists in corpus; the tail is shorter peer-lists per character-node."
+  ],
+  "edgelord_notes": "Mood enum `enlightened-corrective` — direct continuation of wave-130 corrective discipline. Refused dual-dispatch (one cut per invocation holds; the body-prose Potion-rule-sub-rule-4 mission is mode-separate and surfaced as next-pass DARK NODESLEY EX candidate). The corpus-walk caught the team-skull preservation case the wave-130 staged prediction missed — that's the manual case-by-case Edgelord discipline doing what a mechanical sweep could not, and the lesson is captured in the next-pass-suggestion to add the PRESERVE_IF_RECURS_IN_SAME_FILE guard before any janny extension ships. HTML comment marker added inline on line 89 references this sidecar and the wave-130 precedent so future passes can trace the dissolution lineage."
+}

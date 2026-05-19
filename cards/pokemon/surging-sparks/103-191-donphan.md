@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - elephant
+  - armor
+  - rolling
+  - charge
+  - power
+  - earth
+  - beast
+  - tusk
+  - momentum
+  - tank
+  - round
+  - unstoppable
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - three-quarter
+  - pokemon-stage1
 reference_image: cards/_images/pokemon/surging-sparks/103-191-donphan.png
 average_cost_paid: 0
 market_price: 0.06
@@ -25,6 +42,34 @@ oracle_text: "Knock Flat (Fighting) 40: This attack's damage isn't affected by a
 image_width: 733
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: other
+subject_known_ip: true
+suspected_ip: Donphan
+ip_confidence: high
+ip_verified: false
 ---
 
 # Donphan (Surging Sparks)
+
+## Vision
+
+![103-191-donphan](../../_images/pokemon/surging-sparks/103-191-donphan.png)
+
+> [!warning] Suspected IP: **Donphan** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A large round elephant-like Pokemon curls into a rolling ball shape, charging through what appears to be a turbulent blue-grey water or rocky terrain environment. Its body is dark grey with a prominent white-cream band running along its back and sides. Small tusks are visible at the front of its face. The creature's posture is fully coiled for momentum, conveying raw physical force. The background is deep blue with dynamic lines suggesting speed or rushing water.
+
+**Subject:** Donphan, a large armored elephant-like Pokemon rolling through a water or wave environment
+
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** other, indeterminate
+**Foreground:** Donphan curled into rolling charge pose  *(palette: dark-grey, cream, white)*
+**Background:** deep blue with motion lines, water or rocky terrain  *(palette: blue, dark-blue, grey)*
+**Mood / lighting:** action, ambient
+**Emotion read:** forceful, charging, powerful
+**Creatures:** elephant, armored-creature, mammal
+**Genre cues:** anime, fantasy
+

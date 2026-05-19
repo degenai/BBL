@@ -76,3 +76,14 @@ A mid-wide shot of a large arthropod creature — centipede or geopede in body p
 **Iconography:** zendikar-rock-spires, emergence, bursting-through
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — The geopede is a Zendikar-native arthropod creature that appears in both the original Zendikar block and BFZ. Its flavor text directly names Ulamog: "As Ulamog's brood reduces the earth to dust, geopedes burst from their tunnels in search of solid ground." The geopede is not a resistance member or an Eldrazi — it is collateral fauna, a creature whose native behavior (burrowing through Zendikar's geologically volatile rock) is disrupted by the Eldrazi's total geological destruction. The card's Landfall trigger (dealing 1 damage on land entry) literalizes the creature being agitated by seismic change. `[Scryfall flavor_text, oracle_text]`
+- **Mechanical standing** — Tunneling Geopede holds EDHREC rank 4,734 — notably high for a BFZ uncommon — driven almost entirely by Landfall-themed Commander decks. EDHREC data shows 21% inclusion across Landfall-themed decks and 63% inclusion in Tannuk, Memorial Ensign Landfall builds (179 decks), where it functions as a mana-efficient "pinger" alongside other Landfall damage triggers. Its Pioneer legality (not Pauper-legal, unlike the Sliderunner) restricts its Constructed reach to non-budget formats. `[EDHREC: edhrec.com/cards/tunneling-geopede, via WebSearch]` `[Scryfall legalities]`
+- **Foil price spike** — The foil version commands $8.77 USD versus $0.36 non-foil (Scryfall prices, 2026-05-19), a 24x premium — atypically high for a BFZ uncommon and a signal that Commander Landfall players actively seek the foil. `[Scryfall prices field]`
+- **Design note** — The "Geopede" creature type (Insect per the type line) debuted in Zendikar 2009 with Plated Geopede (a red Landfall haste creature) and Bladetusk Boar adjacents. Tunneling Geopede is Tomasz Jedruszek's illustration of the creature, emphasizing the upward-burst emergence behavior that gives the species its "tunneling" prefix. `[Scryfall type_line, artist]`
+
+### Related cards
+- Plated Geopede (Zendikar, 2009) — the geopede species' original card; red Landfall Insect, same creature type, different mechanical effect (first strike, +2/+2)
+- Cosi's Ravager (Worldwake) — fellow BFZ-block Landfall damage pinger; frequently appears alongside Tunneling Geopede in Commander Landfall lists per EDHREC
+- Valakut Predator (BFZ, no. 160) — in-set Landfall creature from the same set; both are red Landfall elementals/insects in the same BFZ draft archetype

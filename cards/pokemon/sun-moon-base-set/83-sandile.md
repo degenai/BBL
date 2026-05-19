@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - crocodile
+  - desert
+  - reptile
+  - sand
+  - earth
+  - camouflage
+  - predator
+  - goggle
+  - ground-dweller
+  - ambush
+  - small-creature
+  - warm-tones
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - three-quarter
+  - pokemon-basic
+  - ground-type-cue
 reference_image: cards/_images/pokemon/sun-moon-base-set/83-sandile.png
 average_cost_paid: 0
 market_price: 0.07
@@ -32,6 +50,13 @@ artist: Atsuko Nishida
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: peaceful
+time_of_day: day
+setting: desert
+subject_known_ip: true
+suspected_ip: Sandile
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
@@ -43,12 +68,20 @@ tags:
 
 ![83-sandile](../../_images/pokemon/sun-moon-base-set/83-sandile.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+> [!warning] Suspected IP: **Sandile** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
+A small crocodile-like Pokemon crouches against a warm sandy-golden sparkle background. The creature has a dark upper body with a lighter pink-tan underbelly and distinctive black oval markings around its eyes that resemble goggles or sunglasses. Its posture is low and compact. The background has a bright holo-sparkle texture suggesting sand or sun glare. The overall palette is warm and earthy.
 
-**Subject:** 
+**Subject:** Sandile, a small crocodilian Pokemon with a dark body and black goggle-like eye markings, posed low to the ground
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, portrait, figures: solo, facing: three-quarter
+**Setting:** desert, day, clear
+**Foreground:** Sandile crouching low, ground-level pose  *(palette: dark-grey, pink, tan, black)*
+**Background:** warm golden sandy sparkle texture  *(palette: gold, yellow, orange)*
+**Mood / lighting:** peaceful, ambient
+**Emotion read:** watchful, low-profile, cautious
+**Creatures:** crocodile, reptile, ground-creature
+**Iconography:** goggle-markings
+**Genre cues:** anime, fantasy
 

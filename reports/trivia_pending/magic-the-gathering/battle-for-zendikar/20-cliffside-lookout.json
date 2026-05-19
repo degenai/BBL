@@ -1,0 +1,41 @@
+{
+  "card_name": "Cliffside Lookout",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "20",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Typed 'Creature — Kor Scout Ally' — the Ally subtype is Wizards' canonical mechanical encoding of Zendikari Resistance membership. The Kor are Zendikar's nomadic cliff-dwelling people; the card name literalizes their vertical-terrain expertise as a resistance role. Stone Havens are canonical kor-held fortified positions, some unearthed by Eldrazi geological devastation.",
+      "sources": ["Scryfall type_line", "WebSearch: Wizards BFZ story summary kor coalition; Stone Havens BFZ lore"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Though losses run high among the scouts of the Stone Havens, they never flinch from their duty.\" Stone Havens are canonical Zendikari resistance fortifications. The flavor frames kor scouts as attrition-accepting: the duty is performed regardless of cost. Stewardship register: persistent, not triumphalist.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 1/1 white Ally for one white mana. Value in BFZ Limited came from the Ally count: as a one-drop Ally-count extender, Cliffside Lookout could chain into significant Rally triggers from other Allies in play. The pump ability ({4}{W}: creatures get +1/+1) is a secondary utility rarely activated in practice. Pauper-legal.",
+      "sources": ["Scryfall oracle_text, legalities", "Wizards BFZ Mechanics article — magic.wizards.com/en/news/feature/battle-for-zendikar-mechanics"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Zendikari Resistance roster verdict: STRONGEST CANDIDATE in this 6-card batch. Kor Scout Ally type line + Stone Havens flavor text (named canonical resistance fortification) + rallying-gesture art all concur. Merits wiring to the zendikari-resistance character node.",
+      "sources": ["Scryfall type_line, flavor_text"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Serene Steward", "set": "BFZ", "note": "current corpus BFZ stewardship-verb anchor; fellow white Ally in the Zendikari Resistance cohort"},
+    {"name": "Stoneforge Acolyte", "set": "OGW", "note": "current corpus OGW kor Ally, already wired to zendikari-resistance node"},
+    {"name": "Kor Bladewhirl", "set": "BFZ", "note": "in-set kor Ally with Rally; budget companion to Cliffside Lookout in white-Ally aggro package"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -75,3 +75,14 @@ A small goblin figure occupies the center of the image, crouching and thrusting 
 **Creatures:** goblin, Eldrazi tentacles
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Battle for Zendikar (released October 2, 2015) depicts the Zendikari plane overwhelmed by two unleashed Eldrazi titans, Ulamog and Kozilek, whose brood reduces the landscape to dust. The art's goblin-versus-Eldrazi-tentacle scale mismatch is not incidental — it is the set's core visual thesis: small mortals making existential charges against cosmological adversaries. The flavor text canonizes this posture as the plane's survival tactic: act first, fear later. `[Scryfall set_name, released_at]` `[Wizards BFZ Story Summary — magic.wizards.com/en/news/magic-story/battle-zendikar-story-summary-2015-12-23]`
+- **Flavor text** — "To survive imminent doom, it sometimes takes a foolhardy soul who acts first and fears later." The line is anonymous — no speaker attribution — which broadens it to a general maxim for the Zendikari condition rather than a character quip. The mechanical effect mirrors the text precisely: first strike grants combat-damage priority to the creature, so acting first is literally the mechanism. `[Scryfall flavor_text]`
+- **Format reach** — Sure Strike carries Legal status in Standard (as of 2026-05-19), making it one of the few BFZ commons with a current-Standard reprint. The oracle text is a clean first strike pump that has been reprinted across multiple sets; the BFZ printing is specifically illustrated by Jakub Kasper, a Polish fantasy illustrator whose work for Wizards spans the 2015-2020 era. `[Scryfall legalities]` `[Scryfall artist field]`
+- **Artist note** — Jakub Kasper contributed multiple illustrations to the BFZ set. No Hipsters of the Coast artist profile was found for Kasper via search; the BFZ printing is his canonical credit for this art. `[Scryfall artist_ids]`
+
+### Related cards
+- Sure Strike (M21 and other reprints, via Scryfall oracle_id search) — same oracle text, different art; the BFZ Jakub Kasper goblin-vs-Eldrazi art is the most thematically resonant printing given the set context
+- Goblin War Paint (original Zendikar block) — thematic predecessor; similar red combat-pump instant in the Zendikar goblin-aggro design space
+- Reckless Cohort (BFZ, no. 152) — the resistance-register creature this instant would most plausibly target; both encode the foolhardy-charge motif

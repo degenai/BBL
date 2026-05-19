@@ -15,10 +15,12 @@ species: "faction-collective (Zendikari humans, kor, merfolk, elves, plus the Ga
 canonical_source: "MTG Wiki — Battle for Zendikar; MTG Wiki — Oath of the Gatewatch; MTG Wiki — Zendikar — Sea Gate (canonical resistance organizational center); MTG Wiki — Zendikar — Affa (canonical underground-refuge survivor settlement); MTG Wiki — Allies (mechanical-keyword page for the Ally-resistance army's coordinated-resistance keyword); Wizards of the Coast — Battle for Zendikar story archive; Wizards of the Coast — Oath of the Gatewatch story archive; Wizards of the Coast — set-design articles for the two-set block-level designer-coordination intent; Scryfall — block:battle-for-zendikar"
 confidence: canonical
 appears_on:
-  - magic-the-gathering/battle-for-zendikar/129-kozilek-s-sentinel
-  - magic-the-gathering/battle-for-zendikar/152-reckless-cohort
+  - magic-the-gathering/battle-for-zendikar/20-cliffside-lookout
   - magic-the-gathering/battle-for-zendikar/46-serene-steward
+  - magic-the-gathering/battle-for-zendikar/129-kozilek-s-sentinel
   - magic-the-gathering/battle-for-zendikar/149-ondu-champion
+  - magic-the-gathering/battle-for-zendikar/152-reckless-cohort
+  - magic-the-gathering/battle-for-zendikar/155-shatterskull-recruit
   - magic-the-gathering/oath-of-the-gatewatch/97-immobilizer-eldrazi
   - magic-the-gathering/oath-of-the-gatewatch/26-make-a-stand
   - magic-the-gathering/oath-of-the-gatewatch/14-affa-protector
@@ -97,10 +99,12 @@ The triple-thesis attribution at this multi-triangle meta-cycle node is the **fi
 
 <!-- auto-generated from appears_on; do not edit by hand -->
 
-- [[129-kozilek-s-sentinel]]
-- [[152-reckless-cohort]]
+- [[20-cliffside-lookout]]
 - [[46-serene-steward]]
+- [[129-kozilek-s-sentinel]]
 - [[149-ondu-champion]]
+- [[152-reckless-cohort]]
+- [[155-shatterskull-recruit]]
 - [[97-immobilizer-eldrazi]]
 - [[26-make-a-stand]]
 - [[14-affa-protector]]

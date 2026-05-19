@@ -71,3 +71,14 @@ The image is a wide landscape dominated by a huge rock-and-lava creature emergin
 **Creatures:** rock creature, lava elemental
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Valakut is the volcanic region of Zendikar centered on Mount Valakut, the "Molten Pinnacle," the largest and most active peak of the Crown range on the island of Beyeen in Ondu. Valakut was also the name of one of Zendikar's five expeditionary houses that used Sea Gate as a launch point. By BFZ, the volcanic plane-ecology has become a contested battleground between Eldrazi brood and Zendikar's native geological elementals. `[WebSearch: GameLore wiki Valakut; Wizards BFZ story summary]`
+- **Flavor text** — "Whatever volcanoes dream of, it seems like they always wake up grumpy." — Raff Slugeater, goblin shortcutter. Raff Slugeater is a Zendikar goblin recurring flavor-text voice whose quips appear across Zendikar Rising as well; the "goblin shortcutter" title refers to a profession or skillset for navigating Zendikar's dangerous terrain via alternate paths. His presence on this BFZ card places him as a contemporary observer of the volcanic activity Valakut Predator embodies. The flavor text treats the lava creature with goblin-register humor — a deliberate tonal contrast to the set's existential dread. `[Scryfall flavor_text]` `[WebSearch: Raff Slugeater goblin shortcutter Zendikar Rising]`
+- **Mechanical design** — A 2/2 Elemental for three mana with a Landfall trigger granting +2/+2 until end of turn, Valakut Predator is designed as a Landfall threat in BFZ draft — deceptively large on the turn a land enters. Mechanically it mirrors the design logic of Plated Geopede from original Zendikar, trading the Geopede's first strike for a larger base-to-trigger ratio. Pauper-legal. `[Scryfall oracle_text, legalities]`
+- **EDHREC standing** — Rank 22,775, similar to Makindi Sliderunner; both are BFZ Landfall commons that see light Commander play but are outcompeted by more powerful Landfall payoffs in the format. `[Scryfall edhrec_rank]`
+
+### Related cards
+- Valakut, the Molten Pinnacle (ZEN, no. 228) — the iconic land named for the same volcanic region; a Modern staple that turns Mountains into Lightning Bolts
+- Tunneling Geopede (BFZ, no. 158) — in-set red Landfall creature; shares the same BFZ limited red-Landfall archetype
+- Makindi Sliderunner (BFZ, no. 148) — in-set red Landfall Beast; all three form BFZ's red common/uncommon Landfall aggro package in draft

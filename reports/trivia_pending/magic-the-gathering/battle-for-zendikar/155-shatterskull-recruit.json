@@ -1,0 +1,41 @@
+{
+  "card_name": "Shatterskull Recruit",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "155",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Shatterskull is a volcanic ridge in Akoum, Zendikar's most geologically violent continent. The Ally type line on a BFZ creature is Wizards' canonical mechanical encoding of Zendikari Resistance membership — this Giant joined the multi-race coalition Gideon assembled at Sea Gate (kor, humans, elves, merfolk, goblins, vampires).",
+      "sources": ["Wizards BFZ Story Summary — magic.wizards.com/en/news/magic-story/battle-zendikar-story-summary-2015-12-23", "Scryfall type_line"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Saved from certain death by the kor, he considers himself bound to them by an unbreakable blood oath.\" The Giant's coalition membership is framed as personal debt rather than ideology — modeling BFZ's recurring design pattern that the Resistance is a collection of personal obligations and survival bonds, not unified ideology.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 4/4 Menace for five mana ({3}{R}{R}). Included in the 'Rallying Cry' BFZ intro pack centered on the Ally + Rally mechanic. Menace makes this Giant difficult to block profitably given its stat line, functioning as a top-end threat rather than a Rally-trigger synergy piece.",
+      "sources": ["Scryfall oracle_text, mana_cost", "WebSearch: Shatterskull Recruit BFZ intro packs MTGSalvation"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Zendikari Resistance roster verdict: CANONICAL. Ally type line + flavor text depicting coalition integration via blood oath both meet the bar for wiring to the zendikari-resistance character node.",
+      "sources": ["Scryfall type_line, flavor_text"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Reckless Cohort", "set": "BFZ", "note": "current corpus Zendikari Resistance rebellion-verb anchor; Sea Gate survivor Ally"},
+    {"name": "Ondu Champion", "set": "BFZ", "note": "fellow BFZ red Ally from Ondu geography"},
+    {"name": "Gideon, Ally of Zendikar", "set": "BFZ", "note": "the planeswalker who organized the resistance this Giant joined"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

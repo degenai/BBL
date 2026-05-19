@@ -37,6 +37,8 @@ last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/c/8/c8add5f2-4ccf-4505-86f6-cc36aff1c3fe.png?1562942414
 art_match_confidence: high
 needs_manual_review: false
+characters:
+  - zendikari-resistance
 artist: David Palumbo
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/155-shatterskull-recruit--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/8/c8add5f2-4ccf-4505-86f6-cc36aff1c3fe.jpg?1562942414
@@ -73,3 +75,14 @@ The composition is dominated by a massive dark figure in the upper right — a t
 **Creatures:** towering dark humanoid creature
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Shatterskull is a volcanic ridge in Akoum, Zendikar's most geologically violent continent. In BFZ lore, Gideon Jura rallied a multi-race Zendikari coalition at Sea Gate — kor, humans, elves, merfolk, goblins, and vampires — that Wizards collectively canonized as the Zendikari Resistance. The card's type line, `Creature — Giant Warrior Ally`, makes explicit that this figure has joined that coalition: the Ally subtype is the mechanical encoding Wizards used across BFZ + OGW to signal resistance-coalition membership. `[Wizards BFZ Story Summary — magic.wizards.com/en/news/magic-story/battle-zendikar-story-summary-2015-12-23]` `[Scryfall type_line]`
+- **Flavor text** — "Saved from certain death by the kor, he considers himself bound to them by an unbreakable blood oath." The giant's obligation is feudal in register — not ideological solidarity but a personal debt of life. This models a recurring BFZ design pattern: the Resistance is depicted not as a unified ideology but as a collection of personal obligations, survival bonds, and desperate pacts. The kor as rescuer frames them as the organizational core of Akoum's resistance, consistent with the Stone Havens lore where kor and Mul Daya elves held fortified positions uncovered by the Eldrazi's geological destruction. `[Scryfall flavor_text]` `[WebSearch: Wizards BFZ story summary coalition composition]`
+- **Mechanical note** — At five mana for a 4/4 with Menace, Shatterskull Recruit was included in the "Rallying Cry" BFZ intro pack, which centered the Ally + Rally mechanic. Menace pairs with Giant's high base stats to make it a difficult-to-block blocker-breaker rather than a rally-trigger synergy piece. `[WebSearch: MTG Salvation BFZ intro packs]` `[Scryfall]`
+- **Zendikari Resistance roster** — The Ally type line on a named-geography BFZ creature is the canonical signal for resistance-coalition membership. Shatterskull Recruit qualifies for wiring to the `zendikari-resistance` character node on both grounds: Ally type + flavor text depicting coalition integration via blood oath. `[Scryfall type_line + flavor_text]`
+
+### Related cards
+- Reckless Cohort (BFZ, no. 152) — current corpus anchor for the Zendikari Resistance rebellion-verb; Sea Gate survivor in the same Ally coalition
+- Ondu Champion (BFZ, no. 149) — fellow BFZ red Ally from a different Zendikar geography (Ondu vs Shatterskull/Akoum)
+- Gideon, Ally of Zendikar (BFZ, no. 29) — the planeswalker who organized the resistance that this Giant joined; card name itself carries the Ally designator

@@ -1,0 +1,36 @@
+{
+  "edge_id": "wave130-zendikari-resistance-roster-extension-2cards",
+  "wave": 130,
+  "shape": "1:N",
+  "topology": "stack",
+  "category": "faction-cohort-roster-extension",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/zendikari-resistance.md", "name": "Zendikari Resistance"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/20-cliffside-lookout.md", "name": "Cliffside Lookout (BFZ-20)"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/155-shatterskull-recruit.md", "name": "Shatterskull Recruit (BFZ-155)"}
+  ],
+  "description": "Two freshly-triviabot-passed BFZ Ally creatures branch-attach to the existing zendikari-resistance character node. Cliffside Lookout (BFZ-20) is a Kor Scout Ally with explicit Stone Havens fortification flavor — the canonical Wizards term for the kor-resistance-held Akoum strongholds, making this the cleanest roster candidate of the entire BFZ trivia batch (kor + Scout + Ally + named-resistance-fortification all converge). Shatterskull Recruit (BFZ-155) is a Giant Warrior Ally with explicit blood-oath flavor binding the giant to the kor — feudal-register coalition membership rather than ideological, matching the canonical BFZ design pattern of resistance-as-collection-of-personal-obligations. Both cards bear the canonical Ally subtype that Wizards used across BFZ + OGW to mechanically encode resistance-coalition membership; both have triviabot-articulated roster-candidacy rationale ending in explicit attach recommendations. The wave-79 node was opened at the 6-anchor threshold with explicit `appears_on:` extension expectation; wave-81 routed four OGW + BFZ Ally cards; this resolves the BFZ-common-tier resistance roster extension as new triviabot work accumulates. Cohort count goes 10 -> 12.",
+  "citations": [
+    "[Scryfall: type_line] — Cliffside Lookout: Creature - Kor Scout Ally; Shatterskull Recruit: Creature - Giant Warrior Ally",
+    "[Scryfall: flavor_text] — Cliffside Lookout: 'Though losses run high among the scouts of the Stone Havens, they never flinch from their duty.'; Shatterskull Recruit: 'Saved from certain death by the kor, he considers himself bound to them by an unbreakable blood oath.'",
+    "[MTG Wiki: Allies (mechanic)] — canonical reference for the BFZ-block Ally-resistance-coalition mechanical-tier framework",
+    "[MTG Wiki: Sea Gate / Stone Havens] — canonical reference for the Stone Havens as kor-resistance-held Akoum fortifications quoted in Cliffside Lookout's flavor",
+    "[Wizards BFZ Story Summary] — magic.wizards.com/en/news/magic-story/battle-zendikar-story-summary-2015-12-23 — canonical reference for Gideon Jura's multi-race coalition at Sea Gate (kor + humans + giants + elves + merfolk + goblins) collectively canonized as the Zendikari Resistance, which the Ally subtype mechanically encodes",
+    "[In-corpus precedent] — wave81-zendikari-resistance-roster-extension-4cards.json sidecar establishing identical 1:N branch-attach pattern (Ondu Champion BFZ-149 + 3 OGW Allies); same evidence basis, same attach format",
+    "[In-corpus precedent] — cards/magic-the-gathering/battle-for-zendikar/152-reckless-cohort.md frontmatter `characters: [zendikari-resistance]` pattern (canonical attach format)"
+  ],
+  "files_modified": [
+    "cards/_characters/zendikari-resistance.md",
+    "cards/magic-the-gathering/battle-for-zendikar/20-cliffside-lookout.md",
+    "cards/magic-the-gathering/battle-for-zendikar/155-shatterskull-recruit.md"
+  ],
+  "edgelord_mood": "blueballed-by-fanout",
+  "other_candidates_considered": [
+    "Sandile-line cohort (Mr. Nodeley candidate) — Sandile (wave 130) + Krokorok (wave 128) both enriched. Checked precedent: charizard-line / mareep-line / staraptor-line are existing line-cohort nodes per the wave-127 son-goku audit. N=2 is the floor those precedents opened at, so a sandile-line node would be technically defensible — but Krokorok was the only Sandile-line member already enriched before wave 130, and Krookodile is not yet in the slate. Strongest move is to wait for Krookodile enrichment so the line opens at N=3 (the comfortable Pokemon-line threshold) rather than at the bare floor. STAGED FOR FUTURE PASS: trigger condition = Krookodile vision+trivia complete.",
+    "Kagamine Len -> project-diva-f-vocaloid-roster cohort attach — single-card 1:N attach if the cohort node exists. Did not verify cohort presence in this pass; surface for follow-up Edgelord pass scoped narrowly to Kagamine Len.",
+    "Landfall aggro cluster (Sliderunner BFZ-148 + Geopede BFZ-158 + Valakut Predator BFZ-160) — triviabot flagged as compact 3-card BFZ red-Landfall package, but Landfall is a mechanical keyword shared across hundreds of Zendikar-block cards and the 3-card BBL slice is not a designer-coordinated cycle in the cinderella-cycle sense. This is a tag bridge, not an edge — the landfall hub (if it exists) absorbs the cohesion; no character/symbol node case yet. Future bundle-assembly may compose these three as a red-aggro Lair component, but that's bbl-bundler work, not Edgelord work.",
+    "Cliffside Lookout triple-attach to [[kor]] (already present) + [[zendikari-resistance]] (this pass) + a future kor-resistance-scout sub-cohort — rejected per Potion-rule sub-rule 4: standard graph terms suffice. The kor race-cohort + the resistance-coalition node together already characterize Cliffside Lookout at the two relevant scopes; a third sub-node would be jargon-promotion of a pattern-instance.",
+    "Sea Gate as a setting/location node — Sea Gate is mentioned in canonical flavor on Reckless Cohort + multiple other corpus BFZ cards; a sea-gate location node could be argued for, but BBL has not yet built a locations layer and this single trigger is below the threshold for Mr. Nodeley layer-creation. Surface for future audit when 3+ Sea-Gate-named cards have accumulated."
+  ],
+  "prose_pattern_observations": "Pattern (NOT graduated to vocabulary): the zendikari-resistance node has now absorbed 6 of its 12 current members via post-hoc roster-extension passes (wave 81 routed 4; wave 130 routes 2) rather than via the original wave-79 commissioning. The pattern is: faction-collective character nodes opened at a within-set triangle threshold accumulate their depicted-on-card roster as triviabot enrichment proceeds across the canonical block. This is the expected operating mode of the characters layer — the node anchors the cohesion-frame and roster fills in on the schedule that vision+trivia enrichment dictates. Surfacing as prose observation, not as a graph object."
+}

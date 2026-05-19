@@ -1,0 +1,41 @@
+{
+  "card_name": "Makindi Sliderunner",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "148",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Makindi is the name of an ancient Kor empire whose capital city stood in Ondu, Zendikar's southwestern continent. Civil war destroyed the capital, leaving the Makindi Trenches — high-walled canyons hundreds of feet deep — as its geological scar. The Sliderunner's name places it in this ruined imperial geography.",
+      "sources": ["MTG Wiki: Ondu, via WebSearch snippet — mtg.fandom.com/wiki/Ondu"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"After a battle, it breaks the hillsides into manageable pieces to prepare for next time.\" The beast treats geological destruction as grooming behavior — apex fauna indifferent to the Eldrazi devastation reshaping its habitat.",
+      "sources": ["Scryfall flavor_text field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 2/1 Trampler for two mana with Landfall +1/+1. Landfall returns in BFZ as a callback to the original Zendikar block (2009-2010) where it debuted; Wizards used BFZ's Landfall reprint to signal plane-identity continuity even under Eldrazi devastation. Pauper-legal.",
+      "sources": ["Wizards BFZ Mechanics article — magic.wizards.com/en/news/feature/battle-for-zendikar-mechanics", "Scryfall legalities"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 23,622 — niche draft pickup, not a Commander staple; superseded by higher-ceiling Landfall creatures at Commander table size.",
+      "sources": ["Scryfall edhrec_rank field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ondu Champion", "set": "BFZ", "note": "fellow BFZ red creature named for Zendikar's Ondu geography; corpus-wired Zendikari Resistance anchor"},
+    {"name": "Rampaging Baloths", "set": "ZEN", "note": "original Zendikar block flagship Beast with Landfall; Sliderunner's design-lineage predecessor"},
+    {"name": "Scythe Leopard", "set": "BFZ", "note": "companion BFZ common with identical Landfall +1/+1 structure in green; two-card budget Landfall cycle"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Sure Strike",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "157",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The art's goblin-versus-Eldrazi-tentacle scale mismatch is not incidental — it is BFZ's core visual thesis: small mortals charging cosmological adversaries. The flavor text canonizes this as the plane's survival tactic: act first, fear later.",
+      "sources": ["Scryfall set_name, released_at", "Wizards BFZ Story Summary — magic.wizards.com/en/news/magic-story/battle-zendikar-story-summary-2015-12-23"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"To survive imminent doom, it sometimes takes a foolhardy soul who acts first and fears later.\" Anonymous — no speaker attribution — which broadens the line to a Zendikari general maxim. The mechanic mirrors the text: first strike grants literal combat-damage priority, so acting first is the mechanism.",
+      "sources": ["Scryfall flavor_text, oracle_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Sure Strike is Standard-legal as of 2026-05-19 via reprint(s), making it one of the few BFZ commons with current Standard reach. The BFZ printing illustrated by Jakub Kasper is the most thematically resonant version given the set context.",
+      "sources": ["Scryfall legalities"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Jakub Kasper is a Polish fantasy illustrator whose credits include multiple BFZ cards. No published artist interview or Hipsters of the Coast profile was found for Kasper via search; the BFZ credit is his canonical attribution for this art.",
+      "sources": ["Scryfall artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sure Strike", "set": "Multiple reprints", "note": "same oracle text, different art; BFZ Jakub Kasper printing is the thematically richest version"},
+    {"name": "Goblin War Paint", "set": "Zendikar", "note": "thematic predecessor; similar red combat-pump instant in the original Zendikar goblin-aggro design space"},
+    {"name": "Reckless Cohort", "set": "BFZ", "note": "resistance-register creature this instant would most plausibly target; both encode the foolhardy-charge motif"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
