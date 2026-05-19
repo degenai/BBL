@@ -75,3 +75,15 @@ A wide-angle dynamic scene shot from an extreme low angle. In the upper left, a 
 **Iconography:** rope, control, floating-debris
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Battle for Zendikar (BFZ) released October 2, 2015, depicting Zendikar's defenders fighting back against the freed Eldrazi titans Ulamog and Kozilek. Turn Against is a Devoid instant: mechanically Red, but colorless for purposes that check color. Devoid was introduced to represent Eldrazi influence corrupting cards across Zendikar's factions without fully making them colorless artifacts. `[Scryfall; Wizards: Preparing for Battle Part 2]`
+- **Devoid design** — Mark Rosewater explained that Devoid "is doing exactly the opposite" of breaking the color pie: by requiring a colored mana cost, Devoid cards stay confined within a color's mechanical range while allowing the team to produce colorless spells that don't undercut the pie the way true-colorless cards can. Turn Against is a canonical Devoid design — it does a Red thing (temporary control, haste grant) while being colorless. `[Wizards: Preparing for Battle Part 2 (MaRo, 2015-09-14)]`
+- **Flavor text** — "No, don't! Nal, it's me—" An interrupted sentence ending in an em-dash, conveying a plea cut short. The speaker is being attacked by someone named Nal who appears to have been mind-controlled or Eldrazi-corrupted. "Nal" does not appear as a named major character in BFZ's official story summary — they appear to be an unnamed ally whose corruption is rendered as a personal tragedy rather than a plot-level event, giving the common slot flavor text unusual emotional weight. `[Scryfall; Wizards: Battle for Zendikar Story Summary]`
+- **Mechanical profile** — Turn Against is an uncommon ({4}{R}) temporary control effect in the vein of Act of Treason with Devoid added for colorless-matters synergies in BFZ limited. It is not Pauper-legal (uncommon). As of 2026, legal in Pioneer, Modern, Legacy, Vintage, and Commander; rotated from Standard and Historic. `[Scryfall legalities]`
+
+### Related cards
+- Act of Treason (Various) — mechanical predecessor/comparator; same effect without Devoid
+- Dominator Drone (Battle for Zendikar) — another BFZ Devoid creature for colorless-matters synergy in the same draft format
+- Blight Herder (Battle for Zendikar) — BFZ Processor card; companion Eldrazi-faction mechanic in the same set
+

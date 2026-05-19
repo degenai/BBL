@@ -1,0 +1,41 @@
+{
+  "card_name": "Ticket Tortoise",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "245",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Aetherdrift stages the Ghirapur Grand Prix across three planes; Ticket Tortoise is part of the Avishkar (Kaladesh-plane) substrate of the set, rendered in the gold filigree aesthetic that defines that plane's visual language. The card is typed Artifact Creature — Turtle (confirmed Scryfall type_line), making it one of the few Turtle-type artifact creatures in Magic's history. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (Scryfall): \"ADMIT ONE. ENJOY THE RACE.\" — printed in all-caps, mimicking the look of a physical admission ticket. The text is not attributed to a speaker; it reads as found-object ephemera from the race's in-world event infrastructure, consistent with the set's spectacle-and-racing theme. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Ticket Tortoise is a 3/1 Defender that creates a Treasure token on entry if an opponent controls more lands. The combination of defensive stats (3 toughness wall for {2}) plus conditional ramp makes it a mana-catch-up tool in the early game. Defender is notably rare on artifact creatures in common slots, and the land-parity condition keys off the opponent's development rather than your own, giving it a catch-up rather than acceleration profile. [Scryfall oracle_text]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Brian Valeza rendered the tortoise in a gold-and-blue clockwork style consistent with Avishkar's Kaladesh filigree aesthetic. Valeza is a prolific Magic illustrator whose work appears across multiple Standard-era sets. The grandstand balcony setting in the art places the tortoise within the race's spectator infrastructure rather than on the track itself — an unusual compositional choice that complements the \"ADMIT ONE\" flavor text conceit. [Scryfall artist field]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Treasure token", "set": "Various", "note": "Ticket Tortoise's primary mechanical output — the mana-ramp artifact token mechanic"},
+    {"name": "Soaring Sandwing", "set": "Amonkhet", "note": "Comparator: Defender creature with upside in the same Standard environment"},
+    {"name": "Guidelight Optimizer", "set": "Aetherdrift", "note": "Same set; both are Artifact Creatures at common with mana-related utility on the Avishkar leg of the race"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "card_name": "Guidelight Optimizer",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "45",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Aetherdrift (set code DFT) released February 14, 2025, is the 103rd Magic expansion and the first major set of 2025. The set stages an interplanar death race — the Ghirapur Grand Prix — across three planes: Avishkar (formerly Kaladesh), Amonkhet, and Muraganda. [Wizards: Planeswalker's Guide to Aetherdrift Part 1; Scryfall]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/planeswalkers-guide-to-aetherdrift-part-1"]
+    },
+    {
+      "category": "set-lore",
+      "text": "\"Guidelight\" is the name of one of the ten racing teams in the Grand Prix: the Guidelight Voyagers, an uncanny fleet of automatons captained by a single hive-mind entity called \"Mendicant Core.\" The Voyagers first appeared on Avishkar through an Omenpath that opened around them during the post-Phyrexian-invasion period, and they joined the race hoping to recreate the transit conditions that might return them to their homeworld. They are not a manufacturer or in-world brand — the name is a proper team designation. [Wizards: Planeswalker's Guide to Aetherdrift Part 1]",
+      "sources": ["magic.wizards.com/en/news/feature/planeswalkers-guide-to-aetherdrift-part-1"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (Scryfall): \"Analysis: Systems operating at 125% efficiency. Stress within expected tolerances. Exclamatory: Punch it.\" — the robotic speech pattern (categorized internal states before utterances: \"Analysis:\", \"Exclamatory:\") is consistent with Mendicant Core's hive-mind automaton framing in set lore. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanically, Guidelight Optimizer is an Artifact Creature — Robot (type_line confirmed Scryfall) that taps for {U} restricted to artifact spells or activated abilities — a Springleaf Drum variant for artifact-heavy blue builds. It is legal in Pauper and Pauper Commander as a common, making it a potential role-player in artifact-synergy shells at those budget tiers. [Scryfall legalities]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Guidelight Matrix (DFT no. 233, artist Eli Minaya) is the second card to carry the Guidelight team name in the set. Matrix is a colorless artifact with a draw-on-entry trigger plus two activated abilities that spur Mounts and Vehicles — mechanically complementary to Optimizer's mana production. Neither card has a flavor text; both are commons, suggesting the Guidelight Voyagers were primarily rendered at the common slot in the set's faction distribution. [Scryfall DFT/233]",
+      "sources": ["Scryfall DFT/233"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Guidelight Matrix", "set": "Aetherdrift", "note": "Second card in the Guidelight Voyagers faction; same team, complementary mechanics (draw + Vehicle/Mount animation vs. mana production)"},
+    {"name": "Guidelight Pathmaker", "set": "Aetherdrift", "note": "Third card explicitly carrying the Guidelight name; part of the same automaton racing team"},
+    {"name": "Springleaf Drum", "set": "Lorwyn", "note": "Mechanical predecessor — taps creatures for restricted colored mana in artifact decks"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

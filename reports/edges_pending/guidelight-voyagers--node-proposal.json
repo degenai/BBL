@@ -1,0 +1,45 @@
+{
+  "edge_id": "guidelight-voyagers--node-proposal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "designer-confirmed-cohort",
+  "node_proposed": {
+    "type": "character",
+    "path": "cards/_characters/guidelight-voyagers.md",
+    "name": "Guidelight Voyagers",
+    "schema_mirror": "cards/_characters/endriders.md"
+  },
+  "cards_now_pointing_at_node": [
+    {"path": "cards/magic-the-gathering/aetherdrift/45-guidelight-optimizer.md", "name": "Guidelight Optimizer (DFT-45)", "frontmatter_field": "characters"},
+    {"path": "cards/magic-the-gathering/aetherdrift/233-guidelight-matrix.md", "name": "Guidelight Matrix (DFT-233)", "frontmatter_field": "characters"}
+  ],
+  "description": "Oh, sir, I do apologize for stepping in instead of Edgelord — the Guidelight Optimizer / Guidelight Matrix pair could have taken a 1:1 mirror, certainly they could, but it would have been a thinner solution than the alternative. The Guidelight Voyagers are one of ten canonically-named Wizards racing teams in Aetherdrift, with a hive-mind captain (Mendicant Core), a documented Omenpath-displacement origin, and a third known team card (Guidelight Pathmaker) not yet in corpus that would have re-orphaned any 1:1 edge the moment it landed. The Endriders precedent already exists in the layer for exactly this faction-shape; mirroring it for the Guidelight Voyagers means future Aetherdrift Guidelight cards attach to the node cleanly instead of accumulating duplicate edges around an absent center. I hope you don't mind, sir.",
+  "citations": [
+    "[Wizards: Planeswalker's Guide to Aetherdrift Part 1]",
+    "[Scryfall DFT/45 — Guidelight Optimizer flavor text]",
+    "[Scryfall DFT/233 — Guidelight Matrix]",
+    "[MTG Wiki: Guidelight Voyagers]",
+    "[MTG Wiki: Mendicant Core]"
+  ],
+  "files_modified": [
+    "cards/_characters/guidelight-voyagers.md",
+    "cards/magic-the-gathering/aetherdrift/45-guidelight-optimizer.md",
+    "cards/magic-the-gathering/aetherdrift/233-guidelight-matrix.md"
+  ],
+  "edgelord_mood": "nodeley-apologetic-but-correct",
+  "other_candidates_considered": [
+    {
+      "candidate": "Magnezone ME-047 <-> Klink BB-061 mechanical-creature mirror",
+      "verdict": "refused — shared tag bridge (steel/machine/construct/gear) is the hub layer's job, not an edge. No designer-coordinated cohort, no canonical narrative connection, just two unrelated mechanical Pokemon that happen to share metal-and-gear iconography. Would have been a fabricated edge."
+    },
+    {
+      "candidate": "Guidelight Optimizer <-> Guidelight Matrix 1:1 same-faction mirror",
+      "verdict": "subsumed by this node proposal — drawing that edge now and then revisiting it when Guidelight Pathmaker enters corpus would mean three duplicate edges around an absent center. Node is the right shape; edges to the node will draw themselves as cards arrive."
+    }
+  ],
+  "next_pass_suggestions": [
+    "When Guidelight Pathmaker enters corpus: add characters: [guidelight-voyagers] to its frontmatter and append to the node's appears_on list.",
+    "When Mendicant Core gets a printed card (current status unknown): create sibling character node mendicant-core.md and edge it to guidelight-voyagers.md per the captain-of-faction precedent (Far Fortune, End Boss <-> endriders).",
+    "Triple-thesis hub-attribution review: the labor hub edge here is curatorial-overlay-tier (Potion rule sub-rule 1) — automaton-as-instrument-of-hive-mind is BBL's read on Wizards' stated 'lost travelers seeking home' framing. The node body names which is which. Future Edgelord audit may want to re-check that the related_hubs list still parses correctly after triple-thesis re-reads."
+  ]
+}

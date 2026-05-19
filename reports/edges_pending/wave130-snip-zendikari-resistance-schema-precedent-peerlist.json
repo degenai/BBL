@@ -1,0 +1,123 @@
+{
+  "edge_id": "wave130-snip-zendikari-resistance-schema-precedent-peerlist",
+  "wave": 130,
+  "shape": "edge-dissolution",
+  "topology": "stack",
+  "category": "schema-precedent-wikilink-conversion-to-backtick",
+  "endpoints": [
+    {
+      "type": "character-node",
+      "path": "cards/_characters/zendikari-resistance.md",
+      "name": "Zendikari Resistance (BFZ + OGW multi-triangle meta-cycle)"
+    },
+    {
+      "type": "schema-precedent-peer-listing",
+      "path": "cards/_characters/zendikari-resistance.md#L139",
+      "name": "10-node `Like [[...]]` faction-collective character-layer precedent peer-listing (Caveats section, modeled-as bullet)"
+    }
+  ],
+  "description": "ONE snip. Dissolved the 10-wikilink schema-precedent peer-listing at zendikari-resistance.md line 139 — converted [[orzhov-syndicate]] / [[azorius-senate]] / [[aether-foundation]] / [[macro-cosmos]] / [[team-rocket]] / [[team-skull]] / [[xenoverse-villains]] / [[theros-pantheon]] / [[alola-elite-four]] / [[alola-trial-captains]] to backticks per bbl-wikilink-vs-backtick-discipline. The 10 wikilinks express ONE logical edge — 'this node is modeled-as the existing faction-collective character-layer precedent set' — which is pure schema/architectural-precedent citation (Endriders precedent → character layer accepts faction-collective entities), not real-thematic edges to those 10 nodes. The Zendikari Resistance has no canonical narrative tissue with Team Rocket, Team Skull, Orzhov Syndicate, Azorius Senate, Aether Foundation, Macro Cosmos, Alola Elite Four, or Alola Trial Captains; the only structural relation is 'sibling faction-collective character node hosted via the Endriders precedent.' That is textbook backtick-zone per bbl-wikilink-vs-backtick-discipline. Triple-justification: (a) DIRECT MATCH TO WAVE-71 JANNY HEURISTIC — the `janny_bolas_schema_precedent_sweep.py` SCHEMA_PHRASES list includes both 'Modeled as' and 'Like [[' which this line carries together; the wave-71 sweep was targeted at [[nicol-bolas]] specifically, but the heuristic generalizes to any schema-precedent peer-listing per the discipline; this snip is the manual application of that same heuristic to the next-strongest recurrence in corpus, (b) NO REAL-THEMATIC LOSS — of the 10 wikilinks snipped, 8 (orzhov-syndicate, azorius-senate, aether-foundation, macro-cosmos, team-rocket, team-skull, alola-elite-four, alola-trial-captains) appear ONLY at line 139 in this file; they have zero real-thematic-edge presence elsewhere in zendikari-resistance.md (verified via grep). The remaining 2 (theros-pantheon, xenoverse-villains) DO have real-thematic edges in this file at lines 86/94 (triple-thesis precedent context) and lines 149/150 (See also section sibling-triple-hub-attribution-character-node real-thematic siblings); those wikilinks are PRESERVED untouched. The snip removes pure structural-template citation only, (c) GRAPH-VIEW NOISE REDUCTION — mobile graph view showed Alex the nicol-bolas false-edge proliferation (wave 71 surfacing); this line creates 10 false edges from zendikari-resistance pointing at unrelated faction-collective nodes across MTG / Pokemon / Dragon Ball franchises. Snipping cleans the graph-view by ~10 edges with zero loss of real-thematic information. The bullet's prose is retained verbatim modulo the backtick conversion; the 'per the Endriders precedent' phrasing and the structural-template-distinction-from-prior-faction-cohort-nodes language all survive. HTML comment marker added inline to flag the dissolution for future passes and reference the wave-71 janny precedent.",
+  "citations": [
+    "[cards/_characters/zendikari-resistance.md line 139 — pre-snip: 10 [[wikilinks]] in 'Like [[...]] (faction-collective character nodes), and per the Endriders precedent' schema-template citation; post-snip: 10 `backticks` preserving the structural-template prose without false-edge wikilinks]",
+    "[reports/_scratch/janny_bolas_schema_precedent_sweep.py SCHEMA_PHRASES list — wave-71 janny heuristic targeting 'Modeled as', 'Like [[', 'precedent' phrases as schema-context flags for wikilink → backtick conversion; this snip is the manual generalization of that script's heuristic to the next-strongest recurrence target]",
+    "[memory bbl-wikilink-vs-backtick-discipline — 'wikilinks for real-thematic edges only; backticks for schema/architectural-precedent citations'; this snip applies the canonical discipline]",
+    "[cards/_characters/zendikari-resistance.md lines 86, 94, 149, 150 — theros-pantheon and xenoverse-villains real-thematic wikilink presence verified PRESERVED; snip is targeted at line 139 only]",
+    "[reports/edges_pending/wave128-snip-simipour-daa042-cohort-redundant-trio-mirror.json — recent snip-frenzy precedent for one-cut-per-invocation discipline + HTML-comment-marker pattern]"
+  ],
+  "files_modified": [
+    "cards/_characters/zendikari-resistance.md"
+  ],
+  "edges_removed": [
+    {
+      "from": "cards/_characters/zendikari-resistance",
+      "to": "cards/_characters/orzhov-syndicate",
+      "kind": "schema-precedent-faction-collective-peer-listing-not-real-thematic"
+    },
+    {
+      "from": "cards/_characters/zendikari-resistance",
+      "to": "cards/_characters/azorius-senate",
+      "kind": "schema-precedent-faction-collective-peer-listing-not-real-thematic"
+    },
+    {
+      "from": "cards/_characters/zendikari-resistance",
+      "to": "cards/_characters/aether-foundation",
+      "kind": "schema-precedent-faction-collective-peer-listing-not-real-thematic"
+    },
+    {
+      "from": "cards/_characters/zendikari-resistance",
+      "to": "cards/_characters/macro-cosmos",
+      "kind": "schema-precedent-faction-collective-peer-listing-not-real-thematic"
+    },
+    {
+      "from": "cards/_characters/zendikari-resistance",
+      "to": "cards/_characters/team-rocket",
+      "kind": "schema-precedent-faction-collective-peer-listing-not-real-thematic"
+    },
+    {
+      "from": "cards/_characters/zendikari-resistance",
+      "to": "cards/_characters/team-skull",
+      "kind": "schema-precedent-faction-collective-peer-listing-not-real-thematic"
+    },
+    {
+      "from": "cards/_characters/zendikari-resistance",
+      "to": "cards/_characters/xenoverse-villains",
+      "kind": "schema-precedent-faction-collective-peer-listing-not-real-thematic (real-thematic [[xenoverse-villains]] at line 150 PRESERVED)"
+    },
+    {
+      "from": "cards/_characters/zendikari-resistance",
+      "to": "cards/_characters/theros-pantheon",
+      "kind": "schema-precedent-faction-collective-peer-listing-not-real-thematic (real-thematic [[theros-pantheon]] at lines 86/94/149 PRESERVED)"
+    },
+    {
+      "from": "cards/_characters/zendikari-resistance",
+      "to": "cards/_characters/alola-elite-four",
+      "kind": "schema-precedent-faction-collective-peer-listing-not-real-thematic"
+    },
+    {
+      "from": "cards/_characters/zendikari-resistance",
+      "to": "cards/_characters/alola-trial-captains",
+      "kind": "schema-precedent-faction-collective-peer-listing-not-real-thematic"
+    }
+  ],
+  "edgelord_mood": "enlightened-corrective",
+  "other_candidates_considered": [
+    {
+      "candidate": "alola-kahunas.md line 89 — 9-wikilink schema-precedent peer-list ('Like [[alola-elite-four]] / [[alola-trial-captains]] / [[galar-gym-challenge]] / [[team-rocket]] / [[team-skull]] / [[aether-foundation]] / [[endriders]] / [[orzhov-syndicate]] / [[azorius-senate]]')",
+      "judgment": "DEFERRED — strong candidate, same shape, same heuristic match. Loses to zendikari-resistance.md only on (a) Zendikari's peer-list is longer (10 vs 9 wikilinks → marginally more graph-view noise dissolved), (b) Zendikari is the freshest commission (multi-triangle meta-cycle just landed; line 139 has zero prior pass-through), (c) alola-kahunas.md's first 3 wikilinks ([[alola-elite-four]], [[alola-trial-captains]], [[galar-gym-challenge]]) have real-thematic-edge presence in the SAME FILE's `## See also` section at lines 93/94/97 — same-file-real-thematic-presence makes the snip slightly more delicate (need to preserve those at See-also-scope). Surface for next snip pass. Same triple-justification template applies.",
+      "topology": "stack"
+    },
+    {
+      "candidate": "crane-school-cohort.md line 102 — 6-wikilink schema-precedent peer-list ('Like [[dark-vassal-trio]], [[wrath-of-the-dragon-saga]], [[universe-6-tournament-cohort]], [[destroyer-god-attendant-dyad]], [[eld-cinderella-cycle]], [[fear-of-cycle]]')",
+      "judgment": "DEFERRED — also valid schema-precedent peer-listing snip target. Loses to zendikari-resistance.md on length (6 wikilinks vs 10) AND on the fact that 4 of crane-school-cohort.md's 6 peers ([[dark-vassal-trio]], [[wrath-of-the-dragon-saga]], [[universe-6-tournament-cohort]], [[destroyer-god-attendant-dyad]]) recur in the same file's `## See also` section at lines 119-122 as real-thematic sibling-Dragon-Ball-cohort edges. The DSK-cycle peers ([[eld-cinderella-cycle]], [[fear-of-cycle]]) are pure schema-precedent. A future enlightened-snip on this line would either backtick only the DSK peers (preserving the Dragon Ball peers as same-file real-thematic) OR backtick all 6 and rely on the See-also section to carry the Dragon Ball real-thematic edges. Surface for next snip pass.",
+      "topology": "stack"
+    },
+    {
+      "candidate": "Multi-file mechanical janny sweep — extend janny_bolas_schema_precedent_sweep.py to handle non-bolas peer-listings",
+      "judgment": "DEFERRED — this is the right MECHANICAL move (the heuristic generalizes; ~12-15 character nodes carry this pattern per the wave-130 grep). Out of scope for SNIP-FRENZY (one cut per invocation). Stage as next-pass suggestion. The script extension would parametrize the SCHEMA_PHRASES guard with a PRESERVE_WIKILINKS_IF_THEMATIC_ELSEWHERE_IN_FILE check to avoid clobbering real-thematic links that recur in See-also sections.",
+      "topology": "n/a"
+    },
+    {
+      "candidate": "destroyer-god-attendant-dyad.md line 145 / universe-6-tournament-cohort.md line 155 / machine-mutants-m2.md line 142 — 'sibling within-set DBSCG sub-cohort node ... Structural precedent for the within-set sub-cohort node-shape' bullets referencing [[dark-vassal-trio]]",
+      "judgment": "DEFERRED — these are single-wikilink schema-precedent-in-See-also-section instances, not multi-wikilink peer-listings; the dissolution would be a 1-wikilink-to-backtick conversion in each. Less graph-view payoff per snip; better swept mechanically in the future janny extension. Each See-also-bullet also carries enough surrounding prose ('Structural precedent for the within-set sub-cohort node-shape at smaller scope') that the schema-precedent intent is clearly stated. Stage for janny sweep, not Edgelord pass.",
+      "topology": "stack"
+    },
+    {
+      "candidate": "zendikari-resistance.md lines 149-150 — '[[theros-pantheon]] — sibling triple-hub-attribution character node, single-cohort distributed (wave 74 precedent for...)' and '[[xenoverse-villains]] — sibling triple-hub-attribution character node, all-three-corrupted distributed (wave 75 precedent for...)'",
+      "judgment": "REFUSED — these See-also bullets are BORDERLINE schema-precedent (both use 'wave 74 precedent' / 'wave 75 precedent' phrasing). BUT both lines carry real-thematic-edge content alongside ('sibling triple-hub-attribution character node, single-cohort distributed' — the categorization of [[theros-pantheon]] as a fellow triple-hub-attribution node IS a real-thematic edge at the typology-membership scope). Wave-71 janny script's PRESERVE_LINES pattern is the right precedent here — refuse the snip when the line carries both schema-precedent AND real-thematic content. Future enlightened-replacement could refactor the bullet to clearly separate the two; not this pass.",
+      "topology": "n/a"
+    },
+    {
+      "candidate": "Mr. Nodeley dissolution of the 'multi-triangle meta-cycle' framing itself per Potion Rule sub-rule 4",
+      "judgment": "REFUSED THIS PASS — Mode mismatch. SNIP-FRENZY is edge-dissolution not node-dissolution. BUT noted: zendikari-resistance.md's body language carries 'multi-triangle meta-cycle' / 'multi-triangle threshold' / 'first MULTI-TRIANGLE-META-CYCLE faction-collective character node' framing across lines 133/135/139 that reads as Potion-rule-sub-rule-4 anti-pattern ('pattern-instance promoted to new structural-primitive vocabulary'). Standard graph-theory says: this is two within-set triangles sharing the resistance-coalition cohesion anchor. No new typology needed. Surface as next-pass DARK NODESLEY EX candidate for body-prose softening (NOT node dissolution; node anchors are valid, the prose-promotion is the issue). Strong Potion-rule-sub-rule-4 trigger.",
+      "topology": "n/a"
+    }
+  ],
+  "next_pass_suggestions": [
+    "Apply same schema-precedent peer-listing snip to alola-kahunas.md line 89 (9 wikilinks; preserve [[alola-elite-four]] / [[alola-trial-captains]] / [[galar-gym-challenge]] which recur in See-also section as real-thematic same-file edges, or backtick all 9 and rely on See-also to carry real-thematic).",
+    "Apply same snip to crane-school-cohort.md line 102 (6 wikilinks; preserve [[dark-vassal-trio]] / [[wrath-of-the-dragon-saga]] / [[universe-6-tournament-cohort]] / [[destroyer-god-attendant-dyad]] as same-file real-thematic; backtick [[eld-cinderella-cycle]] / [[fear-of-cycle]] as pure schema-precedent).",
+    "Extend reports/_scratch/janny_bolas_schema_precedent_sweep.py to handle non-bolas peer-listings — parametrize the snip target as ANY wikilink in a SCHEMA_PHRASES line, with a PRESERVE_IF_RECURS_IN_SAME_FILE_AS_REAL_THEMATIC guard. The wave-130 grep surfaced ~12-15 character nodes carrying the pattern; a mechanical sweep would process them in one pass with the case-by-case discipline encoded in the PRESERVE rules.",
+    "DARK NODESLEY EX candidate: zendikari-resistance.md body prose softening per Potion Rule sub-rule 4. The 'multi-triangle meta-cycle' / 'first MULTI-TRIANGLE-META-CYCLE' framing across lines 133/135/139 reads as pattern-instance graduated to typology-entry. Standard graph-theory suffices: this is a faction-collective character node whose corpus anchors happen to organize into two thesis-axis triangles. Softening preserves the structural observation in prose without coining new structural-primitive vocabulary. NOT a node dissolution (the node is valid); a body-prose refactor mission.",
+    "Sweep candidate: grep for `MULTI-TRIANGLE` and `meta-cycle` across cards/_characters/ to identify whether the framing has propagated beyond zendikari-resistance.md (if it has, the Potion-Rule-sub-rule-4 refactor scope grows; if not, contain to this one file)."
+  ],
+  "edgelord_notes": "Mood enum `enlightened-corrective` chosen because this IS fixing Edgelord/Nodeley overreach — the line 139 wikilinks were written at commission-time as if 'modeled-as peer' is a real-thematic edge worth wikilinking; per bbl-wikilink-vs-backtick-discipline that was wrong at write-time. The wave-71 janny sweep established the discipline AFTER many of these were already written, so the corpus carries proliferation. This snip is one manual application of the corrective. Refused dual-dispatch (no second snip — one cut per invocation discipline holds). Refused to do the Mr. Nodeley body-prose softening pass in the same invocation despite the strong Potion-rule-sub-rule-4 trigger — mode mismatch, stage separately. Refused to mechanically extend the janny script in the same invocation — out of Edgelord scope, stage as next-pass suggestion. HTML comment marker added inline on line 139 references this sidecar so future passes (manual or mechanical) can trace the dissolution rationale."
+}

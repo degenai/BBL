@@ -75,3 +75,15 @@ A dramatic wide scene of an active volcanic eruption filling nearly the entire f
 **Iconography:** eruption, elemental-emergence, lava
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Boiling Earth is part of Battle for Zendikar's Zendikari-faction mechanics, representing the land itself fighting back against the Eldrazi invasion. The design team explicitly framed Awaken as the mechanical expression of "Zendikar itself was going to be part of the battle" — lands awakening as creatures to join the defenders. `[Wizards: Preparing for Battle Part 2 (MaRo, 2015-09-14)]`
+- **Awaken design history** — Awaken was called "animus" during vision design. The original version animated a land into a 2/2; the team upgraded it to 3/3 when that proved insufficient; development then made the counter number variable (the N in "Awaken N") to give development a balancing lever and a wider design-space range. Boiling Earth uses Awaken 4 ({6}{R}), one of the larger-counter variants at common. `[Wizards: Preparing for Battle Part 2]`
+- **Mechanical profile** — Scryfall confirms no flavor text. Boiling Earth has two functional modes: {1}{R} deals 1 damage to each opponent's creature (relevant wipe against token strategies), and {6}{R} adds Awaken 4 (land becomes a 4/4 Elemental with haste). Pauper community commentary at the time rated it as a top-10 notable BFZ common for Standard Pauper, comparing it to "sorcery-speed Electrickery early, a pretty solid threat with a Pauper Wrath effect attached later." Remains Pauper-legal as of 2026. `[Scryfall; MTGSalvation Pauper BFZ Spoilers thread]`
+- **Artist** — Titus Lunter painted Boiling Earth. Lunter is a prolific Magic illustrator whose work spans multiple planes and eras; he was also credited on the Avishkar basic land cycle in Aetherdrift (2025), with his Avishkar artwork used as the header image in the Planeswalker's Guide to Aetherdrift Part 2. His visual range covers both Zendikar's volcanic landscapes and Avishkar's aetherpunk cityscape. `[Scryfall artist field; Wizards: Planeswalker's Guide to Aetherdrift Part 2]`
+
+### Related cards
+- Electrickery (Return to Ravnica) — community comparator for Boiling Earth's base mode; instant-speed equivalent
+- Nissa, Sage Animist (Magic Origins) — Zendikari planeswalker whose ultimate animates multiple lands; thematic resonance with Awaken
+- Sylvan Awakening (Dominaria) — later design that mass-animates lands; Awaken's spiritual successor in a subsequent set
+

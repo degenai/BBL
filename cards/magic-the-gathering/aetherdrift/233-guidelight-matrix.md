@@ -49,6 +49,8 @@ mood: sublime
 time_of_day: indeterminate
 setting: indoor
 mana_cost: "{2}"
+characters:
+  - guidelight-voyagers
 tags:
   - card
   - vision-passed

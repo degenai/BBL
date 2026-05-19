@@ -71,3 +71,15 @@ A hulking, box-shaped vehicle or machine dominates the frame, rendered in richly
 **Objects:** vehicle, glowing-orbs, cables, debris, rubble, filigree-plating
 **Genre cues:** steampunk, fantasy
 
+## Trivia
+
+- **Set context** — Scrap Compactor is a colorless artifact ({1} mana cost) placed on Avishkar (formerly Kaladesh), the home plane of the Ghirapur Grand Prix and the technological hub of Aetherdrift. The card's ornate gold machine body and blue glowing power cells are directly continuous with Kaladesh's established filigree aesthetic from 2016-2017. `[Scryfall; Wizards: Planeswalker's Guide to Aetherdrift Part 1]`
+- **Flavor text** — "From the screaming of Duskmourn's possessed metal came the happy cries of freed souls." A direct cross-plane continuity reference: Duskmourn: House of Horror (2024) established that the sentient horror-plane possessed metal objects and trapped souls within them. The Scrap Compactor's mechanical function — breaking down metal via sacrifice — maps onto that lore beat, implying Avishkar's industrial scrappers processed haunted metal salvaged in the wake of those events. `[Scryfall]`
+- **Mechanical design** — Scrap Compactor's two sacrifice modes (3 damage to creature at {3},{T}; destroy creature or Vehicle at {6},{T}) explicitly target Vehicles in the second mode — directly relevant in Aetherdrift's environment, which contained 41 Vehicles, more than had been printed across all Magic sets before Aetherdrift combined. `[Scryfall oracle_text; Draftsim Aetherdrift set review]`
+- **Design** — Artist Viko Menezes rendered the background with Ghirapur's domed city architecture under a warm dusk sky, continuous with the Kaladesh plane's visual identity established across Kaladesh block (2016-2017). The cross-plane flavor text is part of Aetherdrift's broader design strategy of treating the post-Phyrexian multiverse as a continuous narrative space across recent set releases. `[Scryfall artist field]`
+
+### Related cards
+- Possessed Furniture (Duskmourn: House of Horror) — Duskmourn's possessed-metal theme directly referenced in Scrap Compactor's flavor text
+- Perilous Myr (Scars of Mirrodin) — canonical precedent for sacrifice-to-deal-damage artifact at common
+- Aether Hub (Kaladesh) — Avishkar plane artifact; same visual world as Scrap Compactor's setting
+

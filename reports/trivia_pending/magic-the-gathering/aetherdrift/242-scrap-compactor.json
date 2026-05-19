@@ -1,0 +1,41 @@
+{
+  "card_name": "Scrap Compactor",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "242",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Scrap Compactor is a colorless artifact ({1} mana cost) set on Avishkar (formerly Kaladesh), the technological home-plane of the Ghirapur Grand Prix in Aetherdrift. Avishkar's aesthetic is defined by Kaladesh's signature gold filigree design language, visible in the card art's ornate gold machine body. [Scryfall; Wizards: Planeswalker's Guide to Aetherdrift Part 1]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/planeswalkers-guide-to-aetherdrift-part-1"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (Scryfall): \"From the screaming of Duskmourn's possessed metal came the happy cries of freed souls.\" This is a direct cross-plane continuity reference: Duskmourn: House of Horror (2024) established that the sentient horror-house plane possessed metal objects and trapped souls within them. The Scrap Compactor's function — breaking down metal to release what's inside — maps onto that lore beat, implying Avishkar's scrappers processed haunted metal salvaged after the Phyrexian and Duskmourn events. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Scrap Compactor offers two sacrifice modes: {3},{T} deals 3 damage to target creature; {6},{T} destroys target creature or Vehicle. The second mode is notable for explicitly targeting Vehicles, which is relevant in Aetherdrift's Vehicle-heavy environment (41 Vehicles in the set — more than had been printed across all previous Magic expansions combined before Aetherdrift). [Scryfall oracle_text; Draftsim Aetherdrift set review]",
+      "sources": ["Scryfall", "draftsim.com/mtg-aetherdrift/"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Viko Menezes rendered the card in warm gold-and-blue Kaladesh palette, with domed city architecture in the background consistent with Ghirapur's skyline as established in Kaladesh (2016) and Aether Revolt (2017). The cross-plane flavor text — written from an Aetherdrift perspective about Duskmourn's past events — is an example of Aetherdrift's design strategy of treating the multiverse as a continuous narrative space across recent sets. [Scryfall artist field; Wizards: Planeswalker's Guide to Aetherdrift Part 2]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/planeswalkers-guide-to-aetherdrift-part-2"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Possessed Furniture", "set": "Duskmourn: House of Horror", "note": "Duskmourn's possessed-metal theme directly referenced in Scrap Compactor's flavor text"},
+    {"name": "Perilous Myr", "set": "Scars of Mirrodin", "note": "Canonical precedent for sacrifice-to-deal-damage artifact at common"},
+    {"name": "Demolish", "set": "Various", "note": "Functional comparator for artifact/vehicle destruction at sorcery speed"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Turn Against",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "135",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Battle for Zendikar (set code BFZ) released October 2, 2015, depicting Zendikar's defenders fighting back against the freed Eldrazi titans Ulamog and Kozilek. Turn Against is a Devoid instant — mechanically Red but colorless for purposes that care about color, reflecting the Eldrazi corruption of the color pie. The set introduced Devoid as a way to mechanically represent Eldrazi influence spreading through Zendikar's factions. [Scryfall; Wizards: Preparing for Battle Part 2]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/making-magic/preparing-battle-part-2-2015-09-14"]
+    },
+    {
+      "category": "design",
+      "text": "Devoid was introduced because the design team committed to making all Eldrazi-related cards colorless. Mark Rosewater explained the distinction: Devoid cards carry a colored mana cost (ensuring they stay within a color's mechanical range) but are colorless for anything that checks color — \"it's doing exactly the opposite\" of breaking the color pie, by keeping colorless effects tied to a color's resource expenditure. Turn Against as a Red Devoid instant is a canonical Devoid design: it does a Red thing (temporary control, haste grant) while being colorless. [Wizards: Preparing for Battle Part 2]",
+      "sources": ["magic.wizards.com/en/news/making-magic/preparing-battle-part-2-2015-09-14"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (Scryfall): \"No, don't! Nal, it's me—\" — the interrupted em-dash conveys a plea cut short mid-sentence, implying the speaker is being attacked by someone named Nal who has been mind-controlled or Eldrazi-corrupted. \"Nal\" does not appear as a named major character in BFZ's official story summary; they appear to be an unnamed ally whose corruption is rendered in the flavor text as a personal tragedy rather than a plot point. [Scryfall; Wizards: Battle for Zendikar Story Summary 2015-12-23]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/magic-story/battle-zendikar-story-summary-2015-12-23"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Turn Against is a one-of temporary control effect at uncommon ({4}{R}) — comparable to Act of Treason but with Devoid tacked on for colorless-matters synergies in BFZ draft. It is not legal in Standard, Historic, or Timeless as of 2026 (rotated out), but remains legal in Pioneer, Modern, Legacy, Vintage, and Commander. Community discourse noted at the time that Devoid's colorless status gave these effects marginal utility in limited Eldrazi-tribal builds. [Scryfall legalities]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Act of Treason", "set": "Various", "note": "Mechanical predecessor/comparator — same effect without Devoid"},
+    {"name": "Dominator Drone", "set": "Battle for Zendikar", "note": "Another BFZ Devoid creature for colorless-matters synergy in the same draft format"},
+    {"name": "Blight Herder", "set": "Battle for Zendikar", "note": "BFZ Processor card that pairs with Ingest (fellow Eldrazi-faction mechanic in same set)"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

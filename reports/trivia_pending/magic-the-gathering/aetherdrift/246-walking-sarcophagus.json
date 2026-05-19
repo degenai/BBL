@@ -1,0 +1,41 @@
+{
+  "card_name": "Walking Sarcophagus",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "246",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Walking Sarcophagus is set on Amonkhet, one of the three planes in Aetherdrift's Grand Prix circuit. Post-Phyrexian-invasion Amonkhet saw a \"Walking Curse\" raise tens of thousands of newly dead; these fresh undead resisted the old order of servile mummification and negotiated with the living — \"Free us, and we will see Naktamun preserved\" — forming an alliance that defines the plane's current state. [Wizards: Planeswalker's Guide to Aetherdrift Part 2]",
+      "sources": ["magic.wizards.com/en/news/feature/planeswalkers-guide-to-aetherdrift-part-2"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (Scryfall): \"The warrior rose in a very different world from the one he'd left behind.\" — maps directly onto Amonkhet's Walking Curse narrative: an ancient mummified warrior (likely entombed under Nicol Bolas's reign) rises into a post-Bolas, post-Phyrexian Amonkhet that has been fundamentally transformed. The disorientation is lore-accurate: Bolas-era mummies were conditioned for servile purpose; what they awaken into is a plane rebuilding itself under living-and-dead cooperation. [Scryfall; Wizards: Planeswalker's Guide to Aetherdrift Part 2]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/planeswalkers-guide-to-aetherdrift-part-2"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Scryfall confirms the type_line as \"Artifact Creature — Zombie Cat\" — an unusual creature type combination. Walking Sarcophagus carries the Start your engines! mechanic (Aetherdrift's signature speed-tracking keyword) with the Max speed bonus of +1/+2, turning it from a 2/1 into a 3/3 at max speed. The mechanic's design was called \"enter the race\" during vision design before being renamed [Wizards: You Get the Aetherdrift Part 1]. A 3/3 for {2} at max speed is a strong rate at common. [Scryfall oracle_text and type_line; Wizards: You Get the Aetherdrift Part 1]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/making-magic/you-get-the-aetherdrift-part-1"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Julia Metzger rendered the card as a massive leonine stone statue rising from desert ruins — visually evoking both Egyptian sarcophagus imagery and Amonkhet's sphinx and guardian aesthetic. The card's name \"Walking Sarcophagus\" is a literal description: the mummified warrior is the coffin, now animate. The background includes a partially visible curved metal element (likely a race vehicle or track barrier) anchoring the scene in the Grand Prix world despite the ancient-ruins setting. [Scryfall artist field; card art as described in Vision pass]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Honored Hydra", "set": "Amonkhet", "note": "Amonkhet-era embalm creature — same plane, same mummification lore context"},
+    {"name": "Lord of the Accursed", "set": "Amonkhet", "note": "Zombie tribal synergy; Walking Sarcophagus is typed Zombie"},
+    {"name": "Nicol Bolas, God-Pharaoh", "set": "Hour of Devastation", "note": "Lore anchor: Bolas's reign on Amonkhet produced the mummification culture the Walking Sarcophagus warrior was entombed under"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

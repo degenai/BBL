@@ -74,3 +74,15 @@ A colossal stone statue of a leonine or sphinx-like figure dominates the right s
 **Creatures:** leonine statue, stone construct, sphinx-like figure
 **Genre cues:** fantasy, ancient, racing
 
+## Trivia
+
+- **Set context** — Walking Sarcophagus is set on Amonkhet, one of the three planes in Aetherdrift's Grand Prix circuit. Post-Phyrexian-invasion Amonkhet saw a "Walking Curse" raise tens of thousands of newly dead; these undead resisted the old order of servile mummification and negotiated with the living — "Free us, and we will see Naktamun preserved" — forming a living-dead alliance that defines the plane's current political state. `[Wizards: Planeswalker's Guide to Aetherdrift Part 2]`
+- **Flavor text** — "The warrior rose in a very different world from the one he'd left behind." Maps directly onto the Walking Curse narrative: an ancient mummified warrior (likely entombed under Nicol Bolas's reign as God-Pharaoh) rises into a transformed Amonkhet — post-Bolas, post-Phyrexian, rebuilt through a living-and-dead coalition. Bolas-era mummies were conditioned for servile purpose; what this warrior awakens into is the opposite of that order. `[Scryfall; Wizards: Planeswalker's Guide to Aetherdrift Part 2]`
+- **Mechanical profile** — Scryfall confirms type_line as Artifact Creature — Zombie Cat (an unusual creature type combination). The card carries Start your engines! (Aetherdrift's speed-tracking mechanic, called "enter the race" during vision design) with a Max speed bonus of +1/+2. A 3/3 for {2} at max speed is a strong rate at common; the speed condition requires dealing damage to opponents across successive turns to unlock. `[Scryfall oracle_text and type_line; Wizards: You Get the Aetherdrift Part 1]`
+- **Design** — Artist Julia Metzger rendered the card as a massive leonine stone figure rising from desert ruins, evoking both Egyptian sarcophagus aesthetics and Amonkhet's sphinx-and-guardian visual register. The name "Walking Sarcophagus" is literal: the mummified warrior is the coffin, now animate. A partially visible curved metal element in the background (likely a race track barrier or vehicle) anchors the ancient-ruin scene within Aetherdrift's Grand Prix world. `[Scryfall artist field]`
+
+### Related cards
+- Honored Hydra (Amonkhet) — same plane; embalm mechanic is another form of Amonkhet mummification lore
+- Lord of the Accursed (Amonkhet) — Zombie tribal support; Walking Sarcophagus is typed Zombie
+- Nicol Bolas, God-Pharaoh (Hour of Devastation) — lore anchor: Bolas's reign produced the mummification culture the Walking Sarcophagus warrior was entombed under
+

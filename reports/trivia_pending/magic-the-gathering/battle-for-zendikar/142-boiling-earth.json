@@ -1,0 +1,41 @@
+{
+  "card_name": "Boiling Earth",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "142",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Boiling Earth is part of Battle for Zendikar's Zendikari-faction mechanics, representing the land itself fighting back against the Eldrazi invasion. The set's design explicitly framed Awaken as the mechanical expression of \"Zendikar itself was going to be part of the battle\" — lands awakening as creatures to join the defenders. [Wizards: Preparing for Battle Part 2 (MaRo, 2015-09-14)]",
+      "sources": ["magic.wizards.com/en/news/making-magic/preparing-battle-part-2-2015-09-14"]
+    },
+    {
+      "category": "design",
+      "text": "Awaken was called \"animus\" during vision design. The original version animated a land into a 2/2; design upgraded it to a 3/3 when that proved insufficient; development then made it a variable number (the N in \"Awaken N\") to give the development team a balancing lever and a wider design-space range across the set's cards. Boiling Earth uses Awaken 4 ({6}{R}), making it among the larger-counter variants at common. [Wizards: Preparing for Battle Part 2]",
+      "sources": ["magic.wizards.com/en/news/making-magic/preparing-battle-part-2-2015-09-14"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Scryfall confirms Boiling Earth has no flavor text. The card has two functional modes: {1}{R} for 1 damage to each opponent's creature (parity wipe in token-heavy metas), and {6}{R} (Awaken 4) which adds the land animation. Pauper community forums rated it as one of the top 10 notable commons from BFZ for Standard Pauper on release, describing it as \"sorcery-speed Electrickery early, a pretty solid threat with a Pauper Wrath effect attached later.\" It remains Pauper-legal as of 2026. [Scryfall; MTGSalvation Pauper BFZ Spoilers thread; Scryfall legalities]",
+      "sources": ["Scryfall", "mtgsalvation.com/forums/the-game/pauper/paper-pauper-and-peasant/627750-pauper-battle-for-zendikar-spoilers"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Titus Lunter painted Boiling Earth — Lunter is a prolific Magic illustrator also credited on the Avishkar basic land cycle in Aetherdrift (the Planeswalker's Guide to Aetherdrift Part 2 article used a Lunter-painted land as its Avishkar header image). Lunter's work spans multiple planes, from Zendikar's volcanic landscapes to Avishkar's aetherpunk cityscape. [Scryfall artist field; Wizards: Planeswalker's Guide to Aetherdrift Part 2]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/planeswalkers-guide-to-aetherdrift-part-2"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Electrickery", "set": "Return to Ravnica", "note": "Functional comparator at instant speed — community shorthand for Boiling Earth's baseline mode"},
+    {"name": "Nissa, Sage Animist", "set": "Magic Origins", "note": "Zendikari planeswalker whose ultimate animates multiple lands — thematic alignment with Awaken"},
+    {"name": "Sylvan Awakening", "set": "Dominaria", "note": "Later design that mass-animates lands — Awaken's spiritual successor mechanic in a later set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

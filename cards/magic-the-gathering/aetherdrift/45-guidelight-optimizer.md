@@ -50,6 +50,8 @@ mana_cost: "{1}{U}"
 mood: action
 time_of_day: indeterminate
 setting: indoor
+characters:
+  - guidelight-voyagers
 tags:
   - card
 ---
@@ -73,4 +75,17 @@ The view is from above and at an angle, looking down into a cramped mechanical c
 **Creatures:** robot, construct
 **Iconography:** holographic grid, scanning circle
 **Genre cues:** sci-fi, steampunk, racing
+
+## Trivia
+
+- **Set context** — Aetherdrift (DFT) released February 14, 2025, is the 103rd Magic expansion, staging an interplanar death race — the Ghirapur Grand Prix — across Avishkar (formerly Kaladesh), Amonkhet, and Muraganda. It contained 41 Vehicles, more than had been printed across all previous Magic expansions combined before this set. `[Scryfall; Wizards: Planeswalker's Guide to Aetherdrift Part 1]`
+- **"Guidelight" is a racing team, not a brand** — The Guidelight Voyagers are one of the ten named teams competing in the Grand Prix: an uncanny fleet of automatons captained by a single hive-mind entity called "Mendicant Core." They arrived on Avishkar through an Omenpath that opened around them after the Phyrexian invasion, and entered the race hoping to recreate the transit conditions that might return them to their unknown homeworld. The name is a proper team designation, not a manufacturer or in-world product brand. `[Wizards: Planeswalker's Guide to Aetherdrift Part 1]`
+- **Flavor text** — "Analysis: Systems operating at 125% efficiency. Stress within expected tolerances. Exclamatory: Punch it." The robot speech pattern — prefixing utterances with semantic category labels ("Analysis:", "Exclamatory:") — is consistent with Mendicant Core's hive-mind automaton framing in set lore, where Guidelight automatons function as extensions of a single distributed intelligence. `[Scryfall]`
+- **Mechanical profile** — Scryfall confirms type_line as Artifact Creature — Robot; the tap ability produces {U} restricted to artifact spells or activated abilities, a Springleaf Drum-style effect in artifact-heavy blue builds. Legal in Pauper and Pauper Commander at common. `[Scryfall]`
+- **Design** — Guidelight Matrix (DFT no. 233, artist Eli Minaya) is the second named Guidelight card in the set: a colorless artifact with a draw-on-entry trigger and two activated abilities that animate Mounts and Vehicles. Neither card carries flavor text; both are commons, suggesting the Guidelight Voyagers were distributed primarily at the common slot in the set's faction structure. `[Scryfall DFT/233]`
+
+### Related cards
+- Guidelight Matrix (Aetherdrift, no. 233) — same racing team; complementary mechanics (draw-on-entry + Vehicle/Mount animation vs. mana production)
+- Guidelight Pathmaker (Aetherdrift) — third named Guidelight card; same automaton team
+- Springleaf Drum (Lorwyn) — mechanical predecessor; taps creatures for restricted colored mana in artifact decks
 

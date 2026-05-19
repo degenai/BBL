@@ -75,3 +75,15 @@ A small mechanical tortoise rendered in gold and blue sits low and compact at th
 **Iconography:** gold filigree, blue gem accents
 **Genre cues:** fantasy, steampunk, racing
 
+## Trivia
+
+- **Set context** — Ticket Tortoise is part of Aetherdrift's Avishkar substrate: the Kaladesh-plane leg of the Ghirapur Grand Prix, rendered in Avishkar's signature gold filigree visual language. Scryfall confirms the type_line as Artifact Creature — Turtle, an unusual creature type for an artifact creature. `[Scryfall]`
+- **Flavor text** — "ADMIT ONE. ENJOY THE RACE." Printed in all-caps, mimicking the visual register of a physical event admission ticket. The text carries no speaker attribution — it reads as found-object ephemera from the race's in-world event infrastructure rather than a character quote, consistent with the set's spectacle framing. `[Scryfall]`
+- **Mechanical profile** — Ticket Tortoise is a 3/1 Defender for {2} with a conditional Treasure-on-entry trigger that fires when an opponent controls more lands. This is a catch-up mana tool rather than an acceleration tool: it rewards being behind on development, making it better in the early game against faster opponents. Defender is notably rare on artifact creatures at common. `[Scryfall oracle_text]`
+- **Design** — Artist Brian Valeza set the tortoise on a grandstand balcony rather than on the race track, a compositional choice that places the creature within the spectator infrastructure of the Grand Prix. This reinforces the "ADMIT ONE" flavor text conceit: the tortoise is itself a ticket, a fixture of the race's apparatus, not a competitor. `[Scryfall artist field]`
+
+### Related cards
+- Treasure token (Various) — Ticket Tortoise's primary mechanical output
+- Guidelight Optimizer (Aetherdrift, no. 45) — same set; both are common Artifact Creatures with mana-related utility in the Avishkar leg
+- Cultivator's Caravan (Kaladesh) — predecessor Vehicle from the original Kaladesh set, same plane and aesthetic register
+
