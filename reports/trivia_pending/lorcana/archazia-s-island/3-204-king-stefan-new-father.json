@@ -1,0 +1,46 @@
+{
+  "card_name": "King Stefan - New Father",
+  "game": "Lorcana",
+  "set": "Archazia's Island",
+  "collector_number": "3/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, Lorcana database franchise tag (Sleeping Beauty), and TCGplayer listing confirm King Stefan from Disney's Sleeping Beauty (1959). Stefan is Aurora's father and the first Disney Princess father shown alive in his child's story; based on Perrault's 1697 fairy tale king. External Disney IP — IP warning block added.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "King Stefan is Aurora's father in Disney's Sleeping Beauty (1959). His decision not to invite Maleficent to the christening triggers the curse that drives the entire plot. He is based on the king in Charles Perrault's 1697 fairy tale La Belle au bois dormant, and holds the distinction of being the first Disney Princess's father shown alive in his child's story.",
+      "sources": ["Disney Wiki: King Stefan", "Wikipedia: Sleeping Beauty (1959 film)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The 'New Father' subtitle isolates the christening period — the one moment of uncomplicated joy in Stefan's arc before the kingdom is upended. The flavor text confirms the framing: 'Every parent struggles with getting their baby to sleep. Kings are no different.'",
+      "sources": ["frontmatter flavor_text", "LorcanaPlayer.com: King Stefan — New Father"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Every parent struggles with getting their baby to sleep. Kings are no different.\" No attributed speaker — written as narrative observation from outside the story world, a Lorcana card design choice.",
+      "sources": ["frontmatter flavor_text field"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Archazia's Island is Lorcana Set 7, released March 7, 2025. The set introduces dual-ink cards and centers on the in-world Illumineer Archazia. King Stefan appears as Amber ink — Lorcana's color of optimism, nurturing, and loyalty — with classifications Storyborn, King, Mentor.",
+      "sources": ["Mushu Report: Archazia's Island", "LorcanaPlayer.com: King Stefan — New Father"]
+    },
+    {
+      "category": "mechanical",
+      "text": "5-cost Amber Character, 4 Strength / 7 Willpower / 1 Lore, no keyword abilities. High Willpower profiles him as a defensive wall rather than a lore engine; the Mentor classification may interact with synergistic Amber builds rewarding royal-type characters.",
+      "sources": ["TCGplayer: King Stefan — New Father", "LorcanaPlayer.com card details"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Aurora - Dreaming Guardian", "set": "Lorcana", "note": "Stefan's daughter; Sleeping Beauty franchise anchor in Lorcana"},
+    {"name": "Queen Leah", "set": "Lorcana", "note": "Stefan's queen; potential companion from Sleeping Beauty"},
+    {"name": "Maleficent", "set": "Lorcana (multiple versions)", "note": "Antagonist whose curse Stefan's decision set in motion; flagship Lorcana villain"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

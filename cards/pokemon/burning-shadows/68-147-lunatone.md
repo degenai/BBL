@@ -96,6 +96,5 @@ A crescent moon-shaped creature with a single prominent red eye floats at the ce
 - **Flavor text** — "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases." [PokemonTCG.io: sm3-68]
 
 ### Related cards
-- Solrock (DAA-092) — mechanically paired counterpart; Ruby-version mirror; each card's Ability requires the other in play
 - Lunatone (other prints) — multiple prints across the TCG; BUS-68 is the Sun & Moon era version
 

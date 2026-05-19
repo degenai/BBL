@@ -89,8 +89,5 @@ A small, round-bodied red monkey Pokémon sits in a relaxed pose amid dense trop
 - **Gift Pokémon mechanic** — In Pokémon Black and White, one elemental monkey is gifted to the player in the Dreamyard based on the trainer's starter: players who chose Oshawott received Pansear (fire counters grass). This forced type-diversity mechanic was Game Freak's way of distributing coverage across all three starter choices in the opening routes. `[Bulbapedia: Elemental monkeys]`
 
 ### Related cards
-- Panpour (Burning Shadows, 36/147) — Water-arm of the trio, same set same wave
-- Pansage (multiple prints) — Grass-arm of the trio; completes the three-wise-monkeys set
-- Simisear (multiple prints) — Pansear's evolved form via Fire Stone
 - [[elemental-monkey-trio]] — character node linking all six members (pre- and post-evolution)
 

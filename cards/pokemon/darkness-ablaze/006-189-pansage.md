@@ -93,6 +93,3 @@ A small green primate creature sits on a tree branch surrounded by bright green 
 
 ### Related cards
 - Pansage (Burning Shadows, BUS-12) — prior corpus print; Shigenori Negishi art, different flavor text and attack layout
-- Pansear (various) — Fire-type sibling in elemental monkey trio
-- Panpour (various) — Water-type sibling in elemental monkey trio
-- Simisage (various) — Pansage evolution

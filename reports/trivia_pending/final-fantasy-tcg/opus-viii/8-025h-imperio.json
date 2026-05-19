@@ -1,0 +1,41 @@
+{
+  "card_name": "Imperio",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-025H",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name matches exactly. Final Fantasy Wiki confirms Imperio is the first Divine General in Final Fantasy Dimensions (also titled FF Legends: Warriors of Light and Darkness), who conceals dark alter ego Gehenna. Akira Oguro, original character designer for Dimensions, provided exclusive Opus VIII illustrations for this title. Internal Square Enix IP — no external IP risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Imperio is the first of four Divine Generals serving Emperor Baugauven in Final Fantasy Dimensions (mobile, 2010; localized as Final Fantasy Legends: Warriors of Light and Darkness). He acts as the Emperor's right hand and unofficial leader of the generals — dignified and refined before his true nature is revealed.",
+      "sources": ["Final Fantasy Wiki: Imperio", "TV Tropes: Final Fantasy Dimensions characters"]
+    },
+    {
+      "category": "set-lore",
+      "text": "After his defeat, Imperio's dark alter ego Gehenna — 'the true reflection of Imperio of the Light' — takes over and is fought as a separate boss inside Castle Avalon. Both are destroyed by the Warriors of Light and Darkness. His name is Spanish for 'empire,' a direct thematic marker of his allegiance.",
+      "sources": ["Final Fantasy Wiki: Gehenna (Dimensions)", "Final Fantasy Wiki: Imperio (WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Opus VIII commissioned exclusive original artwork from Akira Oguro for Final Fantasy Legends (Dimensions) cards in the set. Oguro is the original character designer for the Dimensions cast, making this a rare case of the character's creator illustrating them for the TCG.",
+      "sources": ["Square Enix Opus VIII release page (WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Hero rarity (H) in FFTCG sits between Rare and Legendary, with limited print quantities per box. Hero-designating Imperio — Dimensions' primary arch-antagonist — signals Square Enix treated him as a marquee card for the Legends portion of Opus VIII.",
+      "sources": ["FFTCG rarity structure (general)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Cocytus", "set": "FF Dimensions / FFTCG", "note": "Fellow Divine General, ice-themed"},
+    {"name": "Shango", "set": "FF Dimensions / FFTCG", "note": "Fellow Divine General, explicitly violent — contrasted with Imperio's refinement in canon"},
+    {"name": "Gehenna", "set": "FF Dimensions / FFTCG", "note": "Imperio's dark alter ego; may be a separate card in the FFTCG corpus"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

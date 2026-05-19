@@ -89,8 +89,5 @@ A small monkey Pokémon with a rounded body and a distinctive rounded tuft on it
 - **Gift Pokémon mechanic** — In Pokémon Black and White, a Panpour was gifted to players who chose Tepig as their starter (water counters fire). The trio was designed as a coverage-provision system for early-game routes before the first gym. `[Bulbapedia: Elemental monkeys]`
 
 ### Related cards
-- Pansear (Burning Shadows, 22/147) — Fire-arm of the trio, same set same wave
-- Pansage (multiple prints) — Grass-arm; completes the trio
-- Simipour (multiple prints) — Panpour's evolved form via Water Stone
 - [[elemental-monkey-trio]] — character node linking all six trio members
 

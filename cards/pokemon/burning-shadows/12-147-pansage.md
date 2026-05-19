@@ -96,7 +96,3 @@ A cheerful illustration of Pansage standing upright on a sunny meadow with arms 
 - **Elemental Monkey trio cohort status** — Pansage, Pansear (corpus pending), and Panpour are Gen 5 (Unova) Pokemon introduced in Pokemon Black and White. Simisage, Simisear (Darkness Ablaze 027, corpus: 2 copies), and Simipour are their evolutions via elemental stones. With Pansage (BUS-12) and Simisear (DAA-027) both now in corpus, and the trio anchored at [[elemental-monkey-trio]], the corpus holds 2 of 6 trio members; Pansear, Panpour, Simisage, and Simipour are out-of-corpus [Bulbapedia: Elemental monkeys; card frontmatter characters field].
 
 ### Related cards
-- Simisage (any set) — Pansage's evolution via Leaf Stone; same "speak no evil" design register at evolved tier
-- Pansear (any set) — Elemental Monkey trio companion, "hear no evil," fire-type
-- Panpour (any set) — Elemental Monkey trio companion, "see no evil," water-type
-- Simisear (Darkness Ablaze, no. 027/189) — already in corpus; fire-type evolved member of same trio node

@@ -44,7 +44,7 @@ time_of_day: indeterminate
 setting: dungeon
 suspected_ip: Ark Angel GK (Final Fantasy XI)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Ark Angel GK EX (Opus VIII)
@@ -53,12 +53,12 @@ ip_verified: false
 
 ![8-023r-ark-angel-gk-ex](../../_images/final-fantasy-tcg/opus-viii/8-023r-ark-angel-gk-ex.jpg)
 
-> [!warning] Suspected IP: **Ark Angel GK (Final Fantasy XI)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Ark Angel GK (Final Fantasy XI)**
+> Confirmed via card name directly naming the character and FFXI lore: Ark Angel GK is the Galkan Crystal Warrior from Zilart Mission 14, representing Galkan Rage [Final Fantasy Wiki: Ark Angel GK; FFXIclopedia].
 
 A large armored figure crouches low in a dungeon or cave-like space bathed in deep blue-teal light. The armor is heavy black plate with ornate scroll-worked pauldrons and bracers. The figure's face is pale and grey with white hair pulled back, partially visible beneath the armor's collar. A massive curved blade rests on the ground in front of the figure, its tip angled away. In the background to the right, a small dark winged creature — bat-like with red eyes — hovers in the shadows. The setting is clearly cavernous, with large dark stone formations visible behind. The overall palette is dominated by cold blues and blacks with the figure creating a dense silhouette at center-frame.
 
-**Subject:** Ark Angel GK — a heavily armored humanoid figure from Final Fantasy XI, kneeling with a large curved blade
+**Verified IP:** Ark Angel GK (Final Fantasy XI) (confidence: high)
 
 **Composition:** mid-shot, portrait, figures: duo, facing: forward
 **Setting:** dungeon, indeterminate
@@ -69,4 +69,17 @@ A large armored figure crouches low in a dungeon or cave-like space bathed in de
 **Objects:** curved-blade, heavy-plate-armor
 **Creatures:** bat-like-creature
 **Genre cues:** fantasy, dark-fantasy, cgi-render
+
+## Trivia
+
+- **Character lore** — Ark Angel GK is a Notorious Monster from *Final Fantasy XI: Rise of the Zilart* (2002), the first FFXI expansion. The five Ark Angels are Crystal Warriors born from the same mother crystals as Vana'diel's five Enlightened Races, and each embodies a sin of its corresponding race: Apathy (Humes), Arrogance (Elvaan), **Rage (Galka)**, Envy (Mithra), and Cowardice (Tarutaru). GK represents the Galka and their rage. `[Final Fantasy Wiki: Ark Angel GK; FFXIclopedia: Ark Angel GK]`
+- **Set context** — The "EX" designation in the card name refers to the card's EX BURST ability in FFTCG mechanics — when it is dealt from the deck as damage, the player can trigger its effect before play. Ark Angel GK EX is a 6-cost, 9000-power Fire Forward whose EX BURST freezes all opposing Forwards on entry. This stat profile makes it one of the more powerful Rare Forwards in Opus VIII. `[TCGplayer: Ark Angel GK EX listing; WebSearch snippet]`
+- **FFXI mission context** — In FFXI's Zilart Mission 14: Ark Angels, players must defeat at least one of the five Crystal Warriors to proceed, but defeating all five in the "Divine Might" quest is optional and significantly more difficult. Ark Angel GK's combat style uses Samurai job abilities (Meikyo Shisui) followed by great katana weapon skills (Tachi: Yukikaze, Tachi: Gekko, Tachi: Kasha) that inflict blind, silence, and paralyze. The unique weapon skill Dragonfall deals area-of-effect damage and inflicts bind. `[FFXI Allakhazam: ZM14 Ark Angels quest; bg-wiki.com: Ark Angel GK]`
+- **Design note** — The "GK" suffix abbreviation refers to "Galka," the Ark Angel's racial affiliation. The FFTCG card art's cold blue-teal palette and heavy black plate armor are consistent with the CGI render style FFXI used for its Notorious Monster encounters, and the hovering bat-like creature in the background likely references the Ark Angel's Wyvern, which it summons repeatedly during its fight. `[FFXIclopedia: Ark Angel GK]`
+
+### Related cards
+- Ark Angel MR (FFXI) — Mithra Crystal Warrior, Envy; sibling card in the Ark Angels set
+- Ark Angel TT (FFXI) — Tarutaru Crystal Warrior, Cowardice; sibling card
+- Ark Angel HM (FFXI) — Hume Crystal Warrior, Apathy; sibling card
+- Ark Angel EV (FFXI) — Elvaan Crystal Warrior, Arrogance; sibling card
 

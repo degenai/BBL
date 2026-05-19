@@ -1,0 +1,41 @@
+{
+  "card_name": "Cri-Kee - Part of the Team",
+  "game": "Lorcana",
+  "set": "Reign of Jafar",
+  "collector_number": "131/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name and Mushu flavor text confirm Cri-Kee from Disney's Mulan (1998). Disney Wiki documents the character as a lucky cricket gifted to Mulan by Grandmother Fa, created by Disney veteran Joe Grant. External Disney IP — IP warning block added.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cri-Kee is the lucky cricket companion in Disney's Mulan (1998), purchased by Grandmother Fa as a luck charm. He secretly confesses to Mushu that he is not actually lucky, though he survives every peril in the film. Created by Disney veteran Joe Grant (on staff since Snow White, 1937).",
+      "sources": ["Disney Wiki: Cri-Kee"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Reign of Jafar is Disney Lorcana Set 8, released May 30, 2025 (LGS) and June 6, 2025 (retail), spanning multiple Disney franchises. Despite the Aladdin-themed name, Mulan characters including Cri-Kee appear here as part of a Mulan cohort; the Mulan/Lilo & Stitch Ruby/Steel starter deck confirms Mulan as a featured franchise.",
+      "sources": ["Mushu Report: Reign of Jafar", "LorcanaPlayer.com: Reign of Jafar card list"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"You were so focused on me and Mulan that you forgot about my man Cri-Kee here. And that was a mistake!\" — Mushu. Speaker is Mushu, the disgraced dragon ancestor spirit and Mulan's guardian (voiced by Eddie Murphy, 1998). The quote frames Cri-Kee as a hidden threat underestimated due to size.",
+      "sources": ["Lorcana card database; frontmatter flavor_text field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "4-cost Ruby Character (Storyborn Ally, Common), 4 Strength / 3 Willpower / 1 Lore. AT HER SIDE grants +2 Strength while 2 or more other exerted characters are in play, making him a 6-Strength threat on an active wide board.",
+      "sources": ["Mushu Report: Cri-Kee — Part of the Team", "LorcanaPlayer.com: card details"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mushu - Blazing Bloom", "set": "Lorcana (Reign of Jafar)", "note": "Speaker of the flavor text; Ruby-ink companion"},
+    {"name": "Mulan (various versions)", "set": "Lorcana", "note": "Primary IP anchor; ability name 'AT HER SIDE' directly references Mulan"},
+    {"name": "Cri-Kee - Lucky Cricket", "set": "Lorcana (Reign of Jafar, 69/204)", "note": "Prior Cri-Kee card version in same set with different subtitle"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

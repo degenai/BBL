@@ -1,0 +1,41 @@
+{
+  "card_name": "Wasabi - Always Prepared",
+  "game": "Lorcana",
+  "set": "Reign of Jafar",
+  "collector_number": "158/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name confirms Wasabi from Disney's Big Hero 6 (2014), adapted from Marvel Comics. Disney Wiki and Big Hero 6 Wiki document his plasma blade weapons, OCD organizational traits, and role as the team's risk-averse applied physics specialist. External Disney/Marvel IP — IP warning block added.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Wasabi is an applied physics student at the San Fransokyo Institute of Technology in Disney's Big Hero 6 (2014), adapted from the Marvel Comics property. Neurotic and risk-averse, he exhibits OCD-adjacent organizational tendencies. His suit's weapons are retractable plasma blades sharp enough to slice through nearly any material.",
+      "sources": ["Disney Wiki: Wasabi", "Big Hero 6 Wiki"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Reign of Jafar (Lorcana Set 8, released May 30, 2025) brings Big Hero 6 characters into Lorcana. Wasabi appears as a Sapphire-ink card — Sapphire represents wisdom, logic, and preparation in Lorcana, a fitting ink color for a character defined by meticulous readiness.",
+      "sources": ["LorcanaPlayer.com: Big Hero 6 Lorcana cards list", "Mushu Report: Reign of Jafar"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Okay, so the plan is 'Leave Wasabi to watch our backs while we steal the crown.' Good to know.\" Captures Wasabi's dry sarcasm; in the film he voices reservations about dangerous plans while still executing them.",
+      "sources": ["frontmatter flavor_text field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "5-cost Sapphire Character (Storyborn Hero, Common), 3 Strength / 5 Willpower / 2 Lore with Support keyword. High Willpower relative to Strength reflects his defensive guardian role. Support is a Sapphire-ink staple keyword.",
+      "sources": ["lorcanito.com card database", "Mushu Report: Wasabi (character)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hiro Hamada", "set": "Lorcana", "note": "Big Hero 6 team leader; likely paired in franchise builds"},
+    {"name": "Baymax", "set": "Lorcana (multiple versions)", "note": "Big Hero 6 franchise mascot; co-card"},
+    {"name": "GoGo Tomago", "set": "Lorcana", "note": "Big Hero 6 team member; complement to Wasabi in team builds"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

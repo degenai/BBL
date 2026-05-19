@@ -92,7 +92,6 @@ A circular Pokemon with many pointed rays radiating outward like a stylized sun 
 - **Flavor text** — *"When it rotates itself, it gives off light similar to the sun, thus blinding its foes."* `[PokemonTCG.io: swsh3-92]`
 
 ### Related cards
-- Lunatone (any Darkness Ablaze or SWSH-era print) — Solrock's mechanical counterpart; required in play to activate the Resistance Shade Ability; future Nodeley candidate when Lunatone enters corpus
 - Solrock (other prints across Ruby/Sapphire era through SWSH) — same character, earlier/later print history
 
 ## Connections

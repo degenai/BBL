@@ -1,0 +1,131 @@
+{
+  "edge_id": "iroas--mogis--ares-double-aspect-twin-edge-enlightened",
+  "shape": "replacement",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {
+      "type": "character",
+      "path": "cards/_characters/iroas.md",
+      "name": "Iroas, God of Victory (sub-node under theros-pantheon)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/mogis.md",
+      "name": "Mogis, God of Slaughter (sub-node under theros-pantheon)"
+    }
+  ],
+  "description": "Enlightened Edgelord pass. Wave 117's Iroas sub-node commission landed with the explicit next-pass staging: the mogis sub-node Caveats section had been carrying a 'when a third Iroas-cult card lands the Iroas sub-node becomes commission-ready and a twin-edge becomes drawable' deferral for waves, and the iroas-side commission completed with two stale future-pointer bullets (a Caveats entry stating the twin-edge was 'now drawable' and a See-also bullet repeating the same staging). The mogis side carried the parallel staleness — a Caveats deferral framing Iroas as not-yet-in-graph and a See-also 'Future Iroas sub-node' bullet. Four stale future-pointer bullets across both files, all staging the same designer-confirmed bidirectional twin-edge, none of them executing it. This pass executes the move and dissolves the staging: mogis frontmatter gains `iroas` in related_characters (was just theros-pantheon); the mogis-side Caveats Iroas-deferral converts to a live cross-reference; the mogis-side See-also 'Future Iroas sub-node' bullet converts to a live sibling-sub-node bullet mirroring the iroas-side bullet's tone; the body-prose Greek-mythology-homage thesis bullet refreshes from 'Iroas is not currently in the BBL graph as a node; future twin-edge available when an Iroas-cult card lands' to 'the iroas sub-node is now in the BBL graph as a sibling under theros-pantheon, the twin-edge is now drawn at both ends'; the iroas-side stale Caveats 'twin-edge is now drawable' bullet refreshes to 'twin-edge is now drawn at both ends'; the iroas-side stale See-also 'Future twin-edge to mogis' bullet dissolves entirely (the same content lives in the live sibling-sub-node bullet immediately above it). Net effect: graph gains one bidirectional character-to-character twin-edge (one frontmatter pointer added at mogis-side, iroas-side already had the matching pointer); four stale future-staging bullets across two files become two live cross-references in the same files. Connective tissue stays the same; the staging-to-execution conversion shifts the bullets from 'future pass should do this' framing to 'this pass did this' framing. Designer-confirmed Wizards canon: Iroas-Mogis Ares-double-aspect Greek-mythology twin-split per MTG Wiki Iroas and Mogis pages and Mark Rosewater Making Magic Theros design columns 2013-2014; the canonical contrast is bull-masked-just-war-god-of-Akros-and-Iroan-Games vs four-horned-minotaur-slaughter-god-of-Skophos-and-blood-tithe, designer-coordinated to pull in opposite directions on the war-as-honor-vs-war-as-extraction axis at the same Theros pantheon roster. Cleanest pantheon-internal character-to-character relation in Theros canon per both nodes' own Iroas-thesis and Mogis-thesis sections.",
+  "edges_removed": [
+    {
+      "source": "cards/_characters/mogis.md",
+      "target": "cards/_characters/iroas.md",
+      "relation_dissolved": "stale future-staging Caveat ('Iroas (Mogis's twin) is not currently in the BBL graph as a node...Defer.') — the deferral framing predated the iroas-sub-node-proposal commission and was orphaned by that wave"
+    },
+    {
+      "source": "cards/_characters/mogis.md",
+      "target": "cards/_characters/iroas.md",
+      "relation_dissolved": "stale future-pointer See-also bullet ('Future Iroas sub-node — Mogis's canonical Greek-mythology twin...When a third Iroas-cult corpus card lands, an [[iroas]] sub-node under [[theros-pantheon]] becomes commission-ready and a character-to-character twin-edge between this node and that one could be drawn.') — same orphaning as the Caveats deferral"
+    },
+    {
+      "source": "cards/_characters/iroas.md",
+      "target": "cards/_characters/mogis.md",
+      "relation_dissolved": "stale future-pointer Caveat ('Twin-edge with [[mogis]] is now drawable.') — the iroas-side staging documented the move as drawable-but-deferred"
+    },
+    {
+      "source": "cards/_characters/iroas.md",
+      "target": "cards/_characters/mogis.md",
+      "relation_dissolved": "stale future-pointer See-also bullet ('Future twin-edge to [[mogis]] — the mogis sub-node's Caveats section stages this commission explicitly') — same iroas-side staging"
+    }
+  ],
+  "edges_added": [
+    {
+      "source": "cards/_characters/mogis.md",
+      "target": "cards/_characters/iroas.md",
+      "relation_added": "related_characters frontmatter pointer (mogis-side; iroas-side already carried the matching mogis pointer from the original sub-node commission)",
+      "evidence_tier": "designer-confirmed Greek-mythology Ares-double-aspect twin-split per Wizards (MTG Wiki + Rosewater Making Magic Theros design columns)"
+    },
+    {
+      "source": "cards/_characters/mogis.md",
+      "target": "cards/_characters/iroas.md",
+      "relation_added": "live sibling-sub-node See-also bullet mirroring the iroas-side bullet's bull-mask-vs-four-horned-minotaur and Akros-vs-Skophos and just-war-vs-blood-tithe Wizards-canonical contrast set (replaces the stale 'Future Iroas sub-node' bullet)"
+    },
+    {
+      "source": "cards/_characters/mogis.md",
+      "target": "cards/_characters/iroas.md",
+      "relation_added": "live Caveat refresh — the prior 'Iroas...is not currently in the BBL graph as a node' deferral converts to 'Iroas...is now in the BBL graph as a sibling sub-node; twin-edge drawn at both ends' (canonical-source citations preserved verbatim)"
+    },
+    {
+      "source": "cards/_characters/mogis.md",
+      "target": "cards/_characters/iroas.md",
+      "relation_added": "live body-prose refresh in the Greek-mythology-homage thesis bullet — converts the 'Iroas is not currently in the BBL graph as a node; future twin-edge available when an Iroas-cult card lands' sentence to 'the iroas sub-node is now in the BBL graph...the twin-edge is now drawn at both ends'"
+    },
+    {
+      "source": "cards/_characters/iroas.md",
+      "target": "cards/_characters/mogis.md",
+      "relation_added": "live Caveat refresh on the iroas side — the prior 'Twin-edge with [[mogis]] is now drawable' bullet converts to 'Twin-edge with [[mogis]] is now drawn at both ends'; the same content survives but converts from staged-availability to executed-state framing"
+    }
+  ],
+  "citations": [
+    "[MTG Wiki: Iroas, God of Victory] — canonical reference for the bull-masked-warrior-god iconography, Akros-cult institutional frame, Iroan Games presidency, and twin-of-Mogis relation",
+    "[MTG Wiki: Mogis, God of Slaughter] — canonical reference for the four-horned-minotaur iconography, Skophos-cult institutional frame, blood-tithe doctrine, and twin-of-Iroas relation",
+    "[MTG Wiki: Pantheon of Theros] — parent roster page confirming both gods' principal-pantheon-member status and multicolor secondary-god classification",
+    "[Wizards of the Coast: Mark Rosewater Making Magic Theros design columns 2013-2014] — designer-confirmed Greek-mythology Ares-double-aspect split design intent",
+    "[Scryfall: Iroas, God of Victory JOU-102 and Mogis, God of Slaughter BNG-151 card pages] — canonical printed-deity references",
+    "[In-corpus iroas-sub-node-proposal.json sidecar] — the wave-117 commission that landed the [[iroas]] sub-node and explicitly staged this twin-edge as next_pass_suggestion #1",
+    "[In-corpus iroas.md Iroas-thesis section] — the twin-of-Mogis doctrinal-split body framing already canonicalizes the contrast at the bull-faced-and-minotaur-faced, red-white-and-red-black, Akros-and-Skophos, mortal-enemies-in-canon level",
+    "[In-corpus mogis.md Mogis-thesis section] — the Greek-mythology-homage-with-designer-confirmed-mapping body framing already canonicalizes the same contrast from the mogis side"
+  ],
+  "files_modified": [
+    "cards/_characters/mogis.md (frontmatter: related_characters += iroas; body: Greek-mythology-homage thesis bullet refreshed; Caveats: Iroas-deferral refreshed to live cross-reference; See-also: Future-Iroas-sub-node bullet refreshed to live sibling-sub-node bullet)",
+    "cards/_characters/iroas.md (Caveats: 'Twin-edge with mogis is now drawable' refreshed to 'Twin-edge with mogis is now drawn at both ends'; See-also: 'Future twin-edge to mogis' bullet dissolved as redundant to the live sibling-sub-node bullet immediately above it)"
+  ],
+  "potion_rule_check": {
+    "no_canonical_loss": true,
+    "evidence_type": "The Iroas-Mogis Ares-double-aspect twin-split is Wizards-confirmed design intent per multiple canonical sources (MTG Wiki Iroas page, MTG Wiki Mogis page, MTG Wiki Pantheon of Theros page, Rosewater Making Magic Theros design columns 2013-2014). Both sub-nodes' own Iroas-thesis and Mogis-thesis sections already articulated the canonical contrast at the bull-faced-vs-four-horned-minotaur, red-white-vs-red-black, Akros-vs-Skophos, mortal-enemies-in-canon level. This edge does not invent the relation — Wizards canonicalized it in 2013-2014 design and the both-side sub-node body sections have been articulating it since their respective commissions. The Edgelord move only converts staged-availability to executed-state framing on a relation that was canonical from the outset.",
+    "no_new_attribution_claim": "This pass makes no new analytic / curatorial / thesis claim. The just-war-vs-apparatus-of-extraction reading is already canonicalized at both sub-nodes' Iroas-thesis and Mogis-thesis sections; the twin-edge does not extend the BBL curatorial-overlay reading — it formalizes the canonical-tier Wizards-confirmed relation that both nodes' bodies already cite.",
+    "no_new_structural_primitive": "Standard related_characters frontmatter pointer + standard See-also wikilink bullet — both first-class graph dimensions already in use across the character layer (parent-character, sibling-sub-nodes, faction-character pairings). No new sub-shape vocabulary is being introduced; the bidirectional twin-edge is just two cross-references in two files.",
+    "potion_rule_pass": true
+  },
+  "edgelord_mood": "enlightened-cleanup",
+  "edgelord_voice_note": "Comic Book Guy: 'Worst proposed deferral ever. The twin-edge has been staged in four separate bullets across two files for waves. The iroas-sub-node-proposal sidecar explicitly listed this as next_pass_suggestion #1. Both nodes' own body sections already articulate the canonical contrast in load-bearing detail. The Greek-mythology homage is designer-confirmed Wizards canon from 2013. There is no defensible reason for this twin-edge to remain in the staged-availability register one wave longer than necessary, and I am especially not going to leave Mr. Nodeley's staging bullets hanging on the iroas side when the move is this obvious. The cleanup is mechanical, the replacement is the canonical relation Wizards designed in 2013, and the four-bullets-across-two-files staging-to-execution conversion is exactly the enlightened-cleanup shape the spec describes. Sigh once for the bidirectional mirror discipline. Move on.'",
+  "other_candidates_considered": [
+    {
+      "candidate": "Draw the [[iroas]] <-> [[nylea]] watch-over-the-X edge (both anchor the protective-oversight care-pole of the pantheon — Iroas watches over the warrior, Nylea watches over the forest creature, both designer-coordinated against the [[mogis]] extraction-pole at the same parent roster)",
+      "verdict": "refused-second-strongest-not-the-strongest",
+      "reason": "Strong candidate, listed as iroas-sub-node-proposal next_pass_suggestion #2. The watch-over-the-warrior / watch-over-the-forest-creature contrast IS canonical Wizards-design protective-oversight register and both nodes' See-also sections already gesture at the relation (iroas.md See-also references [[nylea]]; nylea.md side does not yet mirror). However: the Iroas-Mogis twin-edge is the iroas-sub-node-proposal's explicit next_pass_suggestion #1 AND has four stale bullets across both files staging the move, vs. the Iroas-Nylea edge which has zero stale bullets and is structurally cleaner-to-draw-later. One-edge-per-invocation discipline picks the move with the most cleanup leverage. Stage Iroas-Nylea for the next Edgelord pass after this one."
+    },
+    {
+      "candidate": "Draw the [[orzhov-syndicate]] <-> [[mogis]] cross-plane apparatus-of-extraction sibling-cohort twin (already staged in iroas.md See-also as 'structurally adjacent contrast at cross-plane scope')",
+      "verdict": "refused-different-edge-shape-than-this-pass",
+      "reason": "Strong candidate but the relation is faction-to-deity rather than deity-to-deity at the same pantheon, and the iroas-sub-node carries the See-also bullet at the cross-plane-contrast register that doesn't have the same designer-confirmed Wizards-design-coordinated specificity that the Iroas-Mogis Ares-twin-split has. The Mogis side already lists [[orzhov-syndicate]] as 'structurally adjacent sibling-cohort node' in its See-also; that relation is documented at the curatorial-overlay register and doesn't need cleanup. Defer to a Discrete Lair commission where the cross-plane apparatus-of-extraction stack becomes the bundle's anchoring move."
+    },
+    {
+      "candidate": "Mr. Nodeley pass for Heliod sub-node under theros-pantheon (currently 1-2 anchors per theros-pantheon Caveats: Reverent Hoplite THB-33 + possibly Return to Nature THB-197)",
+      "verdict": "refused-below-threshold",
+      "reason": "Heliod currently sits at 1-2 corpus anchors per the theros-pantheon Caveats section — below the ≥3-substantive-anchor threshold the parent pantheon node sets for sub-node commissioning. The iroas-sub-node cleared the threshold precisely (3 anchors); Heliod does not. Stay in refusal per the [[bbl-spot-check-ip-flags]] / Potion-rule discipline. Watch for Heliod, Sun-Crowned or Heliod's Pilgrim or any Heliod-named printing to land in the corpus, then commission. Documented as Mr. Nodeley future-watch in the iroas-sub-node-proposal next_pass_suggestions."
+    },
+    {
+      "candidate": "Trivia pass on Armory of Iroas CMR-299 (vision-passed but not trivia-passed) to strengthen the borderline anchor on the iroas sub-node",
+      "verdict": "refused-not-edgelord-scope",
+      "reason": "Trivia work is bbl-triviabot scope, not Edgelord scope. Documented in iroas-sub-node-proposal next_pass_suggestion #4. Stage for a future triviabot wave covering Theros Beyond Death and Commander Legends Iroas-cult cards."
+    },
+    {
+      "candidate": "Dark Nodesley EX pass to dissolve a redundant node",
+      "verdict": "refused-no-dissolution-candidate-surfaced-in-this-corpus-walk",
+      "reason": "No node in the corpus walk this pass meets the Dark Nodesley EX dissolution criteria (empty / subsumed / inaccurate / mistakenly-proposed). The iroas sub-node is fresh and load-bearing; mogis is mature; theros-pantheon is the parent both attach to and is itself load-bearing across a six-card stack. Stay in Edgelord-enlightened register. The Bolas/Trunks/Kaya per-card-mirror-subsumed-by-cohort dissolution pattern from wave 120 is the standing dissolution-class to watch for in future passes."
+    },
+    {
+      "candidate": "Snip-frenzy Edgelord deferrable: the iroas-sub-node's See-also bullet 'Future Heliod / Erebos / Purphoros / Pharika sub-nodes' (lines 105 of iroas.md) — same staging-bullet shape as the bullets dissolved this pass",
+      "verdict": "refused-not-the-snip-frenzy-target-for-this-pass",
+      "reason": "Snip-frenzy Edgelord will run sequentially after this pass. The Heliod / Erebos / Purphoros / Pharika future-sub-node See-also bullet is the same staging-bullet shape but the threshold conditions are NOT met (Heliod sits at 1-2 anchors; the others at less or unknown). Staged bullets pointing at unmet future thresholds stay; staged bullets pointing at met thresholds get dissolved. The Iroas-Mogis case was the latter; the Heliod-et-al case is the former. Document for snip-frenzy as a refusal: do not snip this bullet, it's pointing at the correct future-watch condition."
+    }
+  ],
+  "next_pass_suggestions": [
+    "Iroas <-> Nylea twin-edge (iroas-sub-node-proposal next_pass_suggestion #2): both anchor the protective-oversight care-pole of the pantheon — Iroas watches over the warrior, Nylea watches over the forest creature, both designer-coordinated against the [[mogis]] extraction-pole at the same parent roster. iroas.md See-also already references [[nylea]]; nylea.md See-also does not yet reference [[iroas]] (drawable as either a See-also addition or a related_characters frontmatter mirror; one-edge-per-invocation rule applies).",
+    "Heliod sub-node commission (Mr. Nodeley future-watch): when a third Heliod-cult corpus card lands and clears the threshold-of-3, the Mr. Nodeley pass becomes commission-ready. Current count is 1-2 anchors per theros-pantheon Caveats; the trigger is a third Heliod-named or Heliod-cult-anchored card landing. Watch for Heliod, Sun-Crowned or Heliod's Pilgrim or any Heliod-named printing in future ingest waves.",
+    "Trivia pass on Armory of Iroas CMR-299 (iroas-sub-node-proposal next_pass_suggestion #4): vision-passed but not trivia-passed; the trivia pass would strengthen the citation chain on the iroas sub-node's borderline anchor. Triviabot scope.",
+    "Periodic-rigor-audit candidate: walk every character sub-node's Caveats and See-also sections for stale 'Future X sub-node' / 'Future twin-edge available when Y' staging bullets, and where the staged condition has been met, convert to live cross-references in an Edgelord-enlightened pass. Pattern: any 'When a third X-cult corpus card lands' bullet whose threshold is now cleared is a candidate for the same staging-to-execution conversion this pass performed.",
+    "Snip-frenzy carryover refusal documentation: do not snip the iroas-side See-also bullet 'Future Heliod / Erebos / Purphoros / Pharika sub-nodes' — that staging bullet points at correctly-deferred future thresholds (1-2 anchors per god currently per theros-pantheon Caveats) and is the canonical convention for tracking sub-node commission readiness. Snip-frenzy target the orphan stale bullets, leave the live future-watch staging in place."
+  ]
+}

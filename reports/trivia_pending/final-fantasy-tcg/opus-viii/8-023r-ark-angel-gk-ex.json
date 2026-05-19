@@ -1,0 +1,42 @@
+{
+  "card_name": "Ark Angel GK EX",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-023R",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name directly names the character. Ark Angel GK is the Galkan Crystal Warrior from FFXI: Rise of the Zilart, encountered in Zilart Mission 14. The lore is extensively documented in Final Fantasy Wiki and FFXIclopedia. Internal Square Enix IP — no external IP risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ark Angel GK is a Notorious Monster from FFXI: Rise of the Zilart (2002). The five Ark Angels are Crystal Warriors born from the same mother crystals as Vana'diel's five Enlightened Races, each embodying a racial sin. GK represents the Galka and their Rage.",
+      "sources": ["Final Fantasy Wiki: Ark Angel GK", "FFXIclopedia: Ark Angel GK"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The 'EX' designation signals the card's EX BURST ability — triggered when dealt as damage from the deck. Ark Angel GK EX is a 6-cost, 9000-power Fire Forward whose EX BURST freezes all opposing Forwards on entry, making it one of the stronger Rare Forwards in Opus VIII.",
+      "sources": ["TCGplayer: Ark Angel GK EX listing (WebSearch snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Zilart Mission 14, players must defeat at least one of the five Crystal Warriors to proceed, but the 'Divine Might' optional quest requires all five at once. Ark Angel GK uses Samurai job abilities (Meikyo Shisui) plus great katana weapon skills (Tachi: Yukikaze, Tachi: Gekko, Tachi: Kasha) inflicting blind, silence, and paralyze. Its unique skill Dragonfall deals AoE damage and inflicts bind.",
+      "sources": ["FFXI Allakhazam: ZM14 Ark Angels quest", "bg-wiki.com: Ark Angel GK"]
+    },
+    {
+      "category": "design",
+      "text": "The 'GK' suffix abbreviates 'Galka,' the Ark Angel's racial affiliation. The bat-like hovering creature visible in the card art background likely references Ark Angel's Wyvern, which the FFXI NPC summons repeatedly during its encounter.",
+      "sources": ["FFXIclopedia: Ark Angel GK"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ark Angel MR", "set": "FFTCG", "note": "Mithra Crystal Warrior, Envy — sibling in the Ark Angels group"},
+    {"name": "Ark Angel TT", "set": "FFTCG", "note": "Tarutaru Crystal Warrior, Cowardice — sibling"},
+    {"name": "Ark Angel HM", "set": "FFTCG", "note": "Hume Crystal Warrior, Apathy — sibling"},
+    {"name": "Ark Angel EV", "set": "FFTCG", "note": "Elvaan Crystal Warrior, Arrogance — sibling"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

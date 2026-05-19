@@ -1,0 +1,41 @@
+{
+  "card_name": "Black Mage (FFTA)",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-007C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly labels the source as FFTA. Ryoma Ito is the original character designer for both FFTA and FFTA2, and was commissioned for nine Opus VIII illustrations from those titles per Square Enix official interview. Art style and faceless Hume Black Mage presentation match FFTA canon. Internal Square Enix IP — no external IP risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Opus VIII (released February 2019) features FFXV and FF Brave Exvius as headline titles and also introduces FFXIV: Stormblood. Notably, Square Enix commissioned exclusive original artwork from four in-house artists tied to specific FF titles: Ryoma Ito (FFTA/FFTA2), Akira Oguro (FF Legends/Dimensions), Yasuhisa Izumisawa (FF Crystal Chronicles), and Toshitaka Matsuda (FFIX).",
+      "sources": ["Square Enix FFTCG Illustration Showcase Interview no. 2 (Jan. 2019)", "Square Enix Opus VIII release page"]
+    },
+    {
+      "category": "design",
+      "text": "Art is by Ryoma Ito, original character designer for FFTA (2003) and FFTA2 (2007), who created nine exclusive Opus VIII illustrations from those titles. In the Square Enix FFTCG interview, Ito described his approach: \"I decided on a consistent pop-style background of various colors. I also thought it would be fun to show a side of the characters not seen in the game, to depict a candid moment in their daily lives.\"",
+      "sources": ["Square Enix FFTCG Illustration Showcase Interview no. 2 (Jan. 2019): na.finalfantasy.com/topics/35"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In FFTA, the Black Mage job is available to Humes, Moogles, and Nu Mou. Only Hume Black Mages display the traditional shadowed-face, glowing-yellow-eyes look; Nu Mou and Moogle Black Mages fully show their faces. The card's art shows the faceless, shadowed presentation, indicating a Hume Black Mage.",
+      "sources": ["Final Fantasy Wiki: Black Mage (Tactics Advance)", "StrategyWiki: Final Fantasy Tactics Advance/Jobs"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a Fire-element Backup card, 8-007C costs 2 CP with an action ability: dull and place Black Mage into the Break Zone to retrieve a Fire Summon from your Break Zone back to hand. Common rarity makes it an accessible recursive engine piece in Fire builds.",
+      "sources": ["finalfantasytcg.over-blog.com card entry (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Black Mage (various sets)", "set": "FFTCG multiple", "note": "Black Mage job class recurs across the FFTCG product line from different FF sources"},
+    {"name": "Illua", "set": "Opus VIII era", "note": "Ryoma Ito drew Illua in the same Opus VIII commission batch per Square Enix interview"},
+    {"name": "White Mage (FFTA)", "set": "FFTCG various", "note": "Companion job class in the same Ivalice tactical system"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

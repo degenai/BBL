@@ -1,0 +1,43 @@
+{
+  "edge_id": "snip-solrock-daa092-future-condition-already-met",
+  "shape": "edge-dissolution",
+  "category": "redundant-per-card-mirror-future-condition-already-met",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/pokemon/darkness-ablaze/092-189-solrock.md",
+      "name": "Solrock (Darkness Ablaze 092/189)"
+    },
+    {
+      "type": "card-implicit",
+      "path": "cards/pokemon/burning-shadows/68-147-lunatone.md",
+      "name": "Lunatone (Burning Shadows 68/147) — implicit target of the snipped bullet"
+    }
+  ],
+  "description": "ONE snip. Snipped the orphan-staging bullet on Solrock DAA-092's `### Related cards` section that read 'Lunatone (any Darkness Ablaze or SWSH-era print) — Solrock's mechanical counterpart; required in play to activate the Resistance Shade Ability; future Nodeley candidate when Lunatone enters corpus'. Triple-violation: (a) FUTURE CONDITION ALREADY MET — Lunatone is in corpus across two prints (BUS-68 and DAA-072), the dyad node solrock-lunatone-pair already exists, and Solrock's own ## Connections section directly above explicitly states 'the prior Solrock-DAA-092 ↔ Lunatone-BUS-68 mirror is now subsumed by the dyad node', (b) REDUNDANT PER-CARD MIRROR — the cohort node fully articulates the Resistance Shade / Heal Block mechanical-interlock at the dyad level, the card's characters: [solrock-lunatone-pair] frontmatter already wires the traversal, (c) SELF-CONTRADICTION — the snipped bullet stages the dyad as future-pending in the same file where the Connections bullet declares the dyad already operational. Parent dispatch listed solrock-lunatone-pair as a confirmed redundancy axis. Preserved the second bullet ('Solrock other prints across Ruby/Sapphire era through SWSH') as legitimate future-acquisition watch per the guardrail (future-condition genuinely unmet).",
+  "citations": [
+    "[cards/_characters/solrock-lunatone-pair.md — cohort node, N=3 trigger threshold met caveat]",
+    "[Solrock DAA-092 ## Connections bullet — explicitly declares the 1:1 mirror subsumed by the dyad node]",
+    "[Lunatone BUS-68 frontmatter — characters: [solrock-lunatone-pair] confirms corpus presence + cohort attachment]",
+    "[Lunatone DAA-072 frontmatter — second corpus print further confirming the future-condition is met]"
+  ],
+  "files_modified": [
+    "cards/pokemon/darkness-ablaze/092-189-solrock.md"
+  ],
+  "topology": "mirror",
+  "edgelord_mood": "enlightened-corrective",
+  "other_candidates_considered": [
+    "Same pattern survives across the elemental-monkey-trio cards (Pansage BUS-12, Pansear BUS-22, Panpour BUS-36, Pansage DAA-006, Simisage DAA-007, Simisear DAA-027) — every BUS-print and most DAA-prints still carry full sibling-mirror bullets in `### Related cards` redundant against the cohort node. Strongest candidate of those is Pansage BUS-12 (four redundant bullets pointing at Simisage / Pansear / Panpour / Simisear all anchored at the cohort node). Staged for future invocation — see next_pass_suggestions below.",
+    "Same pattern survives on Simisage DAA-007 (five redundant bullets pointing at Pansage / Simisear / Simipour / Pansear / Panpour, all cohort-node-anchored), Simisear DAA-027 (four redundant bullets), Pansage DAA-006 (three redundant trio bullets plus one legitimate cross-print-mirror to BUS-12 that should be preserved).",
+    "Same pattern survives on Lunatone DAA-072 — its `### Related cards` bullets ('Solrock DAA-092' + 'Lunatone BUS-68') duplicate the now-canonical cohort-node Connections bullet directly below them in the same file.",
+    "Same pattern survives on Lunatone BUS-68 — `### Related cards` has 'Solrock (DAA-092)' + 'Lunatone (other prints)' redundant against the Connections section.",
+    "Staraptor DAA-147 still has a thin `### Related cards` section with generic-multiple-sets bullets (Starly, Staravia) that the cohort node anchors better; refused this pass because the bullets are too thin to be Connection-section-grade redundancy (they're acquisition-watch-shaped without the explicit future-Nodeley language). Staraptor's bookends-mirror was already snipped per the cohort node's own caveat — these are different bullets.",
+    "Did NOT touch: Iroas-side future-watch Heliod/Erebos/Purphoros/Pharika sub-node staging bullets (per guardrail — correctly-deferred unmet thresholds, not future-already-met)."
+  ],
+  "next_pass_suggestions": [
+    "Snip the redundant trio-sibling bullets from Pansage BUS-12, Pansear BUS-22, Panpour BUS-36, Pansage DAA-006, Simisage DAA-007, Simisear DAA-027 — each card duplicates the elemental-monkey-trio cohort node's roster table. Strongest standalone target: Simisage DAA-007 (5 redundant bullets, no Connections section yet so a Connections section should be ADDED in the same pass mirroring the Solrock/Lunatone wave-120 pattern — enlightened replacement, not just snip).",
+    "Snip the redundant Solrock + Lunatone-BUS-68 bullets from Lunatone DAA-072's `### Related cards`; the Connections section directly below already articulates both edges via the cohort node.",
+    "Snip the redundant `### Related cards` section on Lunatone BUS-68 entirely (its two bullets — Solrock-DAA-092 + Lunatone-other-prints — are both fully subsumed by the Connections cohort-node bullet above).",
+    "Audit candidate: every card with both a `## Connections` cohort-node bullet AND a `### Related cards` sibling-mirror section. Pattern is repeatable enough that a janitorbot pass (not Edgelord) could mechanically sweep — grep for ## Connections + ### Related cards co-occurrence."
+  ]
+}

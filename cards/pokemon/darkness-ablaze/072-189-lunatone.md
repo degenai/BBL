@@ -89,7 +89,6 @@ A crescent moon-shaped creature with a single prominent dark eye floats above a 
 - **Lore** — Lunatone (National Pokedex no. 337) is classified as the Meteorite Pokemon. Lore holds it was first discovered at the site of a meteor crash and may have originated from outer space. Its counterpart Solrock (no. 338) shares this meteorite origin — both are Rock/Psychic types appearing together in Hoenn. `[WebSearch snippet: Lunatone Bulbapedia via WebSearch]`
 
 ### Related cards
-- Solrock (Darkness Ablaze, 092/189) — canonical celestial counterpart; DAA-092 already trivia'd in wave 23
 - Lunatone (Burning Shadows, 068/147) — prior print by Shin Nagasawa; Fighting-type with Heal Block/Solrock synergy ability
 
 ## Connections

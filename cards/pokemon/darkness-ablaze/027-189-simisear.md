@@ -95,7 +95,3 @@ A warm illustration of Simisear in what appears to be an indoor setting with a s
 - **Elemental Monkey trio corpus status** — Simisear is a Stage 1 evolution (from Pansear via Fire Stone). With Pansage (BUS-12) and Simisear (DAA-027) in corpus and both wired to [[elemental-monkey-trio]], the corpus now holds the grass unevolved and fire evolved members of the trio. Pansear (fire unevolved), Panpour (water unevolved), Simisage (grass evolved), and Simipour (water evolved) remain out-of-corpus [card frontmatter characters field].
 
 ### Related cards
-- Pansear (any set) — Simisear's pre-evolution; fire unevolved member of the Elemental Monkey trio
-- Simisage (any set) — grass evolved member of the trio; Pansage's evolution
-- Simipour (any set) — water evolved member of the trio; Panpour's evolution
-- Pansage (Burning Shadows, no. 12/147) — already in corpus; grass unevolved member of same trio node

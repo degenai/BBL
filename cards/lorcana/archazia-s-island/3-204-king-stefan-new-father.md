@@ -54,7 +54,7 @@ time_of_day: night
 setting: forest
 suspected_ip: King Stefan (Sleeping Beauty)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 tags:
   - card
   - lorcana
@@ -67,12 +67,12 @@ tags:
 
 ![3-204-king-stefan-new-father](../../_images/lorcana/archazia-s-island/3-204-king-stefan-new-father.jpg)
 
-> [!warning] Suspected IP: **King Stefan (Sleeping Beauty)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **King Stefan (Sleeping Beauty, 1959)**
+> Confirmed via card name, Lorcana card database franchise tag (Sleeping Beauty), and TCGplayer listing. Stefan is Aurora's father, based on the king in Charles Perrault's 1697 fairy tale [Disney Wiki: King Stefan; LorcanaPlayer.com: King Stefan — New Father].
 
 A bearded humanoid figure wearing a gold crown and dark robes with gold trim stands in a softly glowing forest setting, cradling a small swaddled infant wrapped in blue cloth. The figure's long dark hair falls around their shoulders and their gaze is directed downward at the baby with a gentle, protective expression. The background features large curling green vines or thorns, firefly-like lights, and a warm radiant glow suggesting an enchanted woodland at night. The composition centers the tender parent-child moment against a magical natural backdrop.
 
-**Subject:** A crowned king in black and gold robes cradles a swaddled infant, gazing down tenderly in a glowing magical forest
+**Verified IP:** King Stefan (Sleeping Beauty, 1959) (confidence: high)
 
 **Composition:** mid-shot, portrait, figures: duo, facing: three-quarter
 **Setting:** forest, night, calm
@@ -83,4 +83,19 @@ A bearded humanoid figure wearing a gold crown and dark robes with gold trim sta
 **Objects:** gold crown, swaddled infant
 **Iconography:** crown, royal-robes
 **Genre cues:** fantasy, fairy-tale, disney
+
+## Trivia
+
+- **Character origin** — King Stefan is Aurora's father in Disney's *Sleeping Beauty* (1959), the studio's sixteenth animated feature. He is the placid, dignified husband of Queen Leah, whose fateful decision not to invite the fairy Maleficent to Aurora's christening sets the entire plot in motion. Stefan is based on the king in Charles Perrault's 1697 fairy tale *La Belle au bois dormant*. He holds the distinction of being the first father of a Disney Princess shown as alive in his child's story. `[Disney Wiki: King Stefan; Wikipedia: Sleeping Beauty (1959 film)]`
+- **Card moment** — The "New Father" subtitle frames this as a specific scene: Stefan cradling the infant Aurora, before Maleficent's curse, before the long separation. The Lorcana card isolates the one moment of uncomplicated joy in Stefan's arc — the christening gift period before the kingdom is upended. The flavor text captures this: "Every parent struggles with getting their baby to sleep. Kings are no different." `[frontmatter flavor_text; LorcanaPlayer.com: King Stefan — New Father]`
+- **Set context** — *Archazia's Island* is Lorcana Set 7, released March 7, 2025. The set introduces dual-ink cards and centers on the in-world Illumineer lore around Archazia, an ancient Illumineer who collected the missing half of the Hexwell Crown. King Stefan appears as an Amber-ink card — Amber in Lorcana represents optimism, nurturing, and loyalty, thematically appropriate for a protective parent. He is classified as Storyborn, King, Mentor. `[Mushu Report: Archazia's Island; LorcanaPlayer.com: King Stefan]`
+- **Mechanical role** — 5-cost Amber Character, 4 Strength / 7 Willpower / 1 Lore, no keyword abilities. His stats profile — high Willpower, low Lore — makes him a defensive wall: durable on the board, not a fast lore-engine. The Mentor classification suggests utility in mechanically synergistic Amber builds that reward having king or royal-type characters in play. `[TCGplayer: King Stefan — New Father; LorcanaPlayer.com card details]`
+
+### Related cards
+- Aurora - Dreaming Guardian (Lorcana) — Stefan's daughter; the Sleeping Beauty anchor character in Lorcana
+- Queen Leah (Lorcana) — Stefan's queen; potential companion card from Sleeping Beauty
+- Maleficent (Lorcana, multiple versions) — the antagonist whose curse Stefan's decision triggered; widely represented in Lorcana as a flagship villain
+
+> [!warning] IP: King Stefan (Disney — Sleeping Beauty, 1959)
+> Character is Disney-owned animation IP. Licensed for Lorcana via Ravensburger/Disney partnership.
 
